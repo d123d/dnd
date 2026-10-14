@@ -1,0 +1,164 @@
+{
+  "backgrounds": [
+    {
+      "id": "acolyte",
+      "name": "Acolyte",
+      "description": "You devoted yourself to service in a temple, either nestled in a town or secluded in a sacred grove.",
+      "abilityScoreIncreases": { "options": ["int", "wis", "cha"], "points": 3 },
+      "skillProficiencies": ["Insight", "Religion"],
+      "toolProficiency": "Calligrapher's Supplies",
+      "startingEquipment": ["Calligrapher's Supplies", "Book (prayers)", "Holy Symbol", "Parchment (10 sheets)", "Robe", "8 GP"],
+      "feat": "Magic Initiate (Cleric)"
+    },
+    {
+      "id": "artisan",
+      "name": "Artisan",
+      "description": "You began mopping floors and scrubbing tables in an artisan's workshop for a few coppers per day as soon as you were strong enough to carry a bucket.",
+      "abilityScoreIncreases": { "options": ["str", "dex", "int"], "points": 3 },
+      "skillProficiencies": ["Investigation", "Persuasion"],
+      "toolProficiency": "Artisan's Tools (one of your choice)",
+      "startingEquipment": ["Artisan's Tools (chosen)", "2 Pouches", "Traveler's Clothes", "32 GP"],
+      "feat": "Crafter"
+    },
+    {
+      "id": "charlatan",
+      "name": "Charlatan",
+      "description": "Once you were old enough to order an ale, you soon had a favorite stool in every tavern within ten miles of where you were born.",
+      "abilityScoreIncreases": { "options": ["dex", "con", "cha"], "points": 3 },
+      "skillProficiencies": ["Deception", "Sleight of Hand"],
+      "toolProficiency": "Forgery Kit",
+      "startingEquipment": ["Forgery Kit", "Costume", "Fine Clothes", "15 GP"],
+      "feat": "Skilled"
+    },
+    {
+      "id": "criminal",
+      "name": "Criminal",
+      "description": "You eked out a living in dark alleyways, cutting purses or burgling shops.",
+      "abilityScoreIncreases": { "options": ["dex", "con", "int"], "points": 3 },
+      "skillProficiencies": ["Sleight of Hand", "Stealth"],
+      "toolProficiency": "Thieves' Tools",
+      "startingEquipment": ["2 Daggers", "Thieves' Tools", "Crowbar", "2 Pouches", "Traveler's Clothes", "16 GP"],
+      "feat": "Alert"
+    },
+    {
+      "id": "entertainer",
+      "name": "Entertainer",
+      "description": "You spent much of your youth following minstrels, actors, and other entertainers from tavern to tavern.",
+      "abilityScoreIncreases": { "options": ["str", "dex", "cha"], "points": 3 },
+      "skillProficiencies": ["Acrobatics", "Performance"],
+      "toolProficiency": "Musical Instrument (one of your choice)",
+      "startingEquipment": ["Musical Instrument (chosen)", "2 Costumes", "Mirror", "Perfume", "Traveler's Clothes", "11 GP"],
+      "feat": "Musician"
+    },
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "description": "You grew up close to the land. Years of tilling the earth have given you patience, and animal husbandry has given you respect for nature.",
+      "abilityScoreIncreases": { "options": ["str", "con", "wis"], "points": 3 },
+      "skillProficiencies": ["Animal Handling", "Nature"],
+      "toolProficiency": "Carpenter's Tools",
+      "startingEquipment": ["Sickle", "Carpenter's Tools", "Healer's Kit", "Iron Pot", "Shovel", "Traveler's Clothes", "30 GP"],
+      "feat": "Tough"
+    },
+    {
+      "id": "guard",
+      "name": "Guard",
+      "description": "Your feet ache when you remember the countless hours you spent walking patrol routes, standing up your post, and hustling after troublemakers.",
+      "abilityScoreIncreases": { "options": ["str", "int", "wis"], "points": 3 },
+      "skillProficiencies": ["Athletics", "Perception"],
+      "toolProficiency": "Gaming Set (one of your choice)",
+      "startingEquipment": ["Spear", "Light Crossbow", "20 Bolts", "Gaming Set (chosen)", "Hooded Lantern", "Manacles", "Quiver", "Traveler's Clothes", "12 GP"],
+      "feat": "Alert"
+    },
+    {
+      "id": "guide",
+      "name": "Guide",
+      "description": "You came of age outdoors, far from settled lands.",
+      "abilityScoreIncreases": { "options": ["dex", "con", "wis"], "points": 3 },
+      "skillProficiencies": ["Stealth", "Survival"],
+      "toolProficiency": "Cartographer's Tools",
+      "startingEquipment": ["Shortbow", "20 Arrows", "Cartographer's Tools", "Bedroll", "Quiver", "Tent", "Traveler's Clothes", "3 GP"],
+      "feat": "Magic Initiate (Druid)"
+    },
+    {
+      "id": "hermit",
+      "name": "Hermit",
+      "description": "You spent your formative years (and probably some of your adult years) alone, with no one for company but the creatures of forest, desert, or caves.",
+      "abilityScoreIncreases": { "options": ["con", "wis", "cha"], "points": 3 },
+      "skillProficiencies": ["Medicine", "Religion"],
+      "toolProficiency": "Herbalism Kit",
+      "startingEquipment": ["Quarterstaff", "Herbalism Kit", "Bedroll", "Book (philosophy)", "Lamp", "Oil (3 flasks)", "Traveler's Clothes", "16 GP"],
+      "feat": "Healer"
+    },
+    {
+      "id": "merchant",
+      "name": "Merchant",
+      "description": "You were one part of the great mercantile web that connects buyers and sellers across vast distances.",
+      "abilityScoreIncreases": { "options": ["con", "int", "cha"], "points": 3 },
+      "skillProficiencies": ["Animal Handling", "Persuasion"],
+      "toolProficiency": "Navigator's Tools",
+      "startingEquipment": ["Navigator's Tools", "2 Pouches", "Traveler's Clothes", "52 GP"],
+      "feat": "Lucky"
+    },
+    {
+      "id": "noble",
+      "name": "Noble",
+      "description": "You were raised in a castle, surrounded by wealth and servants.",
+      "abilityScoreIncreases": { "options": ["str", "int", "cha"], "points": 3 },
+      "skillProficiencies": ["History", "Persuasion"],
+      "toolProficiency": "Gaming Set (one of your choice)",
+      "startingEquipment": ["Gaming Set (chosen)", "Fine Clothes", "Perfume", "29 GP"],
+      "feat": "Skilled"
+    },
+    {
+      "id": "sage",
+      "name": "Sage",
+      "description": "You spent your formative years traveling between manors and monasteries, learning the lore of the multiverse.",
+      "abilityScoreIncreases": { "options": ["con", "int", "wis"], "points": 3 },
+      "skillProficiencies": ["Arcana", "History"],
+      "toolProficiency": "Calligrapher's Supplies",
+      "startingEquipment": ["Quarterstaff", "Calligrapher's Supplies", "Book (history)", "Parchment (8 sheets)", "Robe", "8 GP"],
+      "feat": "Magic Initiate (Wizard)"
+    },
+    {
+      "id": "sailor",
+      "name": "Sailor",
+      "description": "You lived as a sailor, a privateer, or a marine, learning how to tie knots, patch sails, and survive rough seas.",
+      "abilityScoreIncreases": { "options": ["str", "dex", "wis"], "points": 3 },
+      "skillProficiencies": ["Acrobatics", "Perception"],
+      "toolProficiency": "Navigator's Tools",
+      "startingEquipment": ["Dagger", "Navigator's Tools", "Rope", "Traveler's Clothes", "20 GP"],
+      "feat": "Tavern Brawler"
+    },
+    {
+      "id": "scribe",
+      "name": "Scribe",
+      "description": "You spent formative years working with documents in a legal office, arcane library, or other scholarly environment.",
+      "abilityScoreIncreases": { "options": ["dex", "int", "wis"], "points": 3 },
+      "skillProficiencies": ["Investigation", "Perception"],
+      "toolProficiency": "Calligrapher's Supplies",
+      "startingEquipment": ["Calligrapher's Supplies", "Fine Clothes", "Lamp", "Oil (3 flasks)", "Parchment (12 sheets)", "23 GP"],
+      "feat": "Skilled"
+    },
+    {
+      "id": "soldier",
+      "name": "Soldier",
+      "description": "You trained for battle, learning tactics, weapons, and discipline.",
+      "abilityScoreIncreases": { "options": ["str", "dex", "con"], "points": 3 },
+      "skillProficiencies": ["Athletics", "Intimidation"],
+      "toolProficiency": "Gaming Set (one of your choice)",
+      "startingEquipment": ["Spear", "Shortbow", "20 Arrows", "Gaming Set (chosen)", "Healer's Kit", "Quiver", "Traveler's Clothes", "14 GP"],
+      "feat": "Savage Attacker"
+    },
+    {
+      "id": "wayfarer",
+      "name": "Wayfarer",
+      "description": "You grew up on the open road, traveling with a band of entertainers, merchants, or nomads.",
+      "abilityScoreIncreases": { "options": ["dex", "wis", "cha"], "points": 3 },
+      "skillProficiencies": ["Insight", "Stealth"],
+      "toolProficiency": "Thieves' Tools",
+      "startingEquipment": ["2 Daggers", "Thieves' Tools", "Gaming Set (any)", "Bedroll", "2 Pouches", "Traveler's Clothes", "16 GP"],
+      "feat": "Lucky"
+    }
+  ]
+}
