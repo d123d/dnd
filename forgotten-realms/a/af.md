@@ -4,6 +4,153 @@ _Source: forgottenrealms.fandom.com, CC-BY-SA 3.0, dump 2025-10-22._
 
 ---
 
+## Affa
+
+Affa was a forgotten language used by a lost empire on the island of Afyal, the Isle of the Elephant.
+
+Appendix
+
+References
+
+---
+
+## Afyal
+
+Afyal, also called the Isle of the Elephant, was a large island kingdom at the eastern edge of Zakhara, north of Sahu.
+
+Geography
+The kingdom's capital, Medina al-Afyal, was also its only real city. The landscape of Afyal was mainly untamed jungles with wild creatures in abundance. Afyal was also the location of a fallen empire whose ruins were scattered across the island's jungles, often bearing inscriptions in the forgotten language Affa.
+
+Trade
+It had rich deposits of gemstones and precious metals, spices, and valuable hardwoods which grew in abundance. The presence of these raw materials combined with its advantageous position en route to Zakhara's trading partners in the far east made Afyal one of the wealthiest areas of the continent. Fabulous jewelry was one of their prime exports.
+
+Appendix
+References
+
+Further reading
+
+Connections
+
+---
+
+## Afafrenfere
+
+Afafrenfere was a human monk of the Brothers of the Gray Mists and a former member of the Bounty Hunters of Cavus Dun. He was saved from death by fellow Cavus Dun member Ambergris; the two then traveled with Drizzt Do'Urden and his companions until Drizzt's apparent demise at Kelvin's Cairn. At the splintering of the group, Afafrenfere sought penance at the Monastery of the Yellow Rose, with Ambergris as his companion, before he was assigned to journey with the drow Jarlaxle.
+
+Description
+Afafrenfere was tall and lanky. He had curly blond hair and a cherubic, childlike face. He was a Shadovar for three years (circa 1460 DR to 1463 DR). He had a yellow rose tattooed on his forearm, indicating his affiliation with the Monastery of the Yellow Rose.
+
+Personality
+Ambergris saw him as "overly dramatic" and "high-prancing"—not extremely noble, but not nefarious either. He had an aversion to alcohol, but sometimes put that aside if the occasion called for it.
+
+History
+Afafrenfere received his monk training in Damara at the Monastery of the Yellow Rose. He entered the Shadowfell around 1460 DR and spent three years there becoming a shade. He was a member of the Brothers of the Gray Mists and joined the Bounty Hunters of Cavus Dun. However, being Shadovar never really suited him and he was quite easily persuaded to leave at Ambergris's urging. He defected from Cavus Dun with Ambergris after she "saved" him in Gauntlgrym in 1463 DR during Cavus Dun's attempt to retrieve Charon's Claw from Drizzt Do'Urden.
+
+Afafrenfere and Ambergris then traveled with Drizzt Do'Urden for a time. After Drizzt's supposed death in 1484 DR, he and Ambergris journeyed with Artemis Entreri. When they were attacked by a band of drow led by Tiago Baenre, he faked his death and his "body" was taken to Q'Xorlarrin. After being rescued by the reborn Companions of the Hall. Afafrenfere and Ambergris headed to the Monastery of the Yellow Rose together.
+
+At the monastery, Afafrenfere sought penance and forgiveness for his leaving of the order. In order for him to rejoin the monastery, Grandmaster Kane sent him on a journey with Ambergris and Jarlaxle, a journey which—if he survived it—would ensure he would return to the monastery as a master. While on this journey, he was to wear a diamond in a band around his head in order to serve as Kane's eyes in the unfolding events.
+
+Relationships
+Parbid
+Afafrenfere's lover was Parbid, a tiefling and fellow member of Cavus Dun, who was killed in 1463 DR.
+
+Ambergris
+He developed a close friendship with Ambergris during his journeys with her. She occasionally used him as a money-maker by setting up fights for him in taverns. Whether he ever learned of the fake geas Ambergris placed on him in Gauntlgrym is unknown. She returned with him to the Monastery of the Yellow Rose in 1484 DR, although she didn't intend to stay there, and afterwards they both rejoined Jarlaxle, heading west.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Afrafa
+
+Afrafa was a female human monk and a member of the Disciples of St. Sollars the Twice-Martyred at the Monastery of the Yellow Rose in the mid–14th century DR.
+
+Description
+Despite her impoverished lifestyle, Afrafa was yet beautiful, with dark hair and wide eyes.
+
+Personality
+Afrafa was energetic and had great bravery, toughness, and inner strength. She was entirely capable of looking after herself.
+
+She held her fellow monk Kane as her idol, seeing him as the epitome of a monk of St. Sollars.
+
+She was romantic at heart, and did not dislike men.
+
+Activities
+Around 1359 DR, Afrafa journeyed about the foothills of the Earthspur Mountains and the Galena Mountains, in the Duchy of Arcata in Damara. She helped other folk wherever she could while she lived at a bare subsistence level.
+
+Often scoundrels and drunkards pursued and harassed the poor beautiful woman, causing trouble for her. However, the monk was more than capable of defending herself.
+
+History
+Afrafa was born circa 1334 DR.
+
+At the Monastery of the Yellow Rose, Afrafa had an impressive rise through the order and performed many great feats. Notably, she was the youngest ever monk to ride a remorhaz, achieving this dangerous test of skill aged only 15 and as a very low-ranked monk, around 1349 DR. This earned her the right to challenge for the rank of Master of Dragons.
+
+By the age of 25, in 1359 DR, Afrafa had become Master of the South Wind and the highest-ranked woman in the history of the Monastery of the Yellow Rose. She was already preparing to challenge for the next rank. She followed the example set by Kane and took to wandering.
+
+Appendix
+References
+
+---
+
+## Afanc
+
+Afanc, or gawwar samakat, were a dangerous breed of fish found in the oceans around Zakhara, the Land of Fate.
+
+These creatures were initially named because they were confused with a similar creature found in the distant Moonshae Isles. Within the Land of Fate, gawwar samakat was the proper name to use when discussing these fish.
+
+Some sailors returned with tales that the gawwar samakat would sometimes sing to lure ships to their doom, leading others to believe that these fish possessed more than “animal” intelligence.
+
+Description
+These large fish averaged a length of 50 ft. (15 m). Their bodies were usually gray or blue-gray in color, providing natural camouflage with the ocean water. When spotted from a distance they were often confused with whales.
+
+Combat
+
+A gawwar samakat usually never needed to actively hunt. Instead it preferred to attack those who would hunt it, usually because they believed it to be a whale until it was too late.
+
+The favorite attack of these large fish was to create a massive whirlpool. They accomplished this by swimming quickly in concentric circles around a vessel. These circles became tighter as the gawwar samakat neared the vessel, increasing in intensity until they were capable of pulling a ship into the depths. These devastating whirlpools could be created within a matter of minutes. Ships caught within the whirlpool were spun rapidly, making any kind of missile attack on the gawwar samakat extremely difficult.
+
+Generally, ships over 60 ft. in length were too large to be effected by this whirlpool attack. For larger ships the gawwar samakat chose a more direct approaching, attempting to ram through the hull or capsize them.
+
+Habitat/Society
+These fish lived within salt water, but laid their eggs in the brackish water where rivers entered the sea. Gawwar samakat eggs were a delicacy to humans and other creatures.
+
+It was possible to encounter packs of younger gawwar samakat in rivers.
+
+Ecology
+Given their size and fearsome reputation, the gawwar samakat did not have any natural predators. However, they were prized by Zakharans for their scales and bones for use as weapons or decorations.
+
+Appendix
+References
+
+---
+
+## A Full History of the Dobbins of Stagwick
+
+A Full History of the Dobbins of Stagwick was a book written by Neville Dobbin, the 35 Earl of Stagwick. The book was stolen by the verbeeg runecaster Basil of Lyndusfarne from Dobbin Manor, the home of Earl Ruther Dobbin, descendant of Neville Dobbin.
+
+Appendix
+References
+
+---
+
+## Afterclap
+
+Afterclap was a wizard spell from the school of alteration.
+
+Effects
+This spell allowed the caster to duplicate the physical harm experienced by any creature moments before the spell was cast. It could be used on any creature within the spell's area of effect. The harm was duplicated in the exact way it was first received and worked for any kind of harm.
+
+Components
+In addition to verbal and somatic components, this spell required as a material component a piece of stiff rubber or gum that was pulled until it snapped back to cast.
+
+Appendix
+References
+
+---
+
 ## Afterlife
 
 Where did a mortal go upon death? This article describes the beliefs about the afterlife held by the inhabitants of the Forgotten Realms.
@@ -125,6 +272,175 @@ Appendix
 Notes
 
 Further Reading
+
+References
+
+---
+
+## Afzal
+
+Afzal was a prince of Tajar in the Pearl Cities of Zakhara in 1367 DR and the bane of his father's existence.
+
+Personality
+Foolish and pompous, Afzal was raised in luxury in the comfort of Tajar, shunning the desert heritage that his father was so proud of. He was surrounded by friends who only spoke of his greatness.
+
+Activities
+The prince was an honorary commander of Talab's cavalry.
+
+Relationships
+Afzal was the son of Sheikh Ali al-Hadd. Afzal's mother died giving birth to him. The Sheikh never remarried after her death so Afzal, by default, was the Sheikh's only heir. Afzal was followed everywhere by his genie bodyguards–a dao and djinni.
+
+Appendix
+Notes
+
+References
+
+---
+
+## A Fool's Errand
+
+A Fool's Errand is a companion adventure for the Idle Champions of the Forgotten Realms that takes place in the Sword Coast region during the Festival of Fools celebration. The adventure is designed for a party of 8 to 10 levels.
+
+Index
+
+Characters  •  •  •  •  •  •  •  •  •  •  •  •
+
+Creatures  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Locations
+Regions  •
+
+Settlements
+Magic
+Items  •
+Spells
+Miscellaneous
+Food & Drinks  •  •  •
+Substances  •  •  •
+
+Events
+Other  •  •  •
+
+Appendix
+References
+
+---
+
+## Aflame
+
+Aflame was an apprentice wizard of Malchor Harpell during the mid-to-late 14 century DR.
+
+Activities
+Aflame was permitted to live within Malchor's Tower of Twilight on the edge of Neverwinter Wood near Longsaddle during time spent studying.
+
+Appendix
+References
+
+---
+
+## Afghan
+
+Afghans were a type of knitwear found in the town of Dragon Falls in the Vast.
+
+History
+In the, a group of goodly adventurers from the Living City, Ravens Bluff, visited the village of Dragon Falls on a quest to secure an evil artifact, a Book of Vile Darkness. While searching for any lore and history on the areas around the town, especially Keldar of the Forest and Keldar's Shrine, adventurers visited an old cranky but knowledgeable crone. Kala wore a warm knitted afghan during the meeting. She refused to take the throw off, whilst demanding the guests to fan her.
+
+Appendix
+Notes
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Afara
+
+Afara was a Griefguard in the House of Grief temple that hid the Cloister of Sombre Embrace in the city of Baldur's Gate in the late 15 century DR.
+
+Description
+Afara a pale-skinned elf with straight raven-black hair and black eyes. She wore leather armor.
+
+History
+In the, during the Absolute crisis, Afara served the Mother Superior as one of her Griefguard at the gates of the House of Grief. Afara, along with the entirety of the cloister may have confronted its member Shadowheart were she to turn away from Shar.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Aftermath Abbey Ale
+
+Aftermath Abbey Ale was a type of magical ale available in the city of Waterdeep in the late 15 century DR.
+
+History
+The enchanted drink was on offer at the Yawning Portal tavern in Waterdeep, the City of Splendors. One serving of Aftermath Abbey Ale was priced at ten gold coins.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## A Fistful of Drachmas
+
+A Fistful of Drachmas is a one-round tournament adventure module set in the Living City organized play program and part one of the Flight of Arrows series of modules. It was published in 1998, and intended for adventurers of all levels.
+
+Index
+
+Characters
+
+Creatures
+
+Locations
+
+Magic
+
+Organizations
+
+Religions
+
+Miscellaneous
+
+Appendix
+Notes
+
+---
+
+## A Feast for a Tenday
+
+A Feast for a Tenday was a dish made with pork, tomatos, and vegetables, and it took one's kitchen staff two days to complete.
+Description
+The recipe called for a team of cooks and kitchen servants to start preparing the sauce for the dish a day ahead and continue the cooking process on the day of service. The dish called for two spoonfuls of olive oil, a pack of pork ribs or neck bones, five cloves of garlic, a single onion, a handful of mushrooms, one and a half pounds of ground beef, a cup of crushed tomatoes, four large canned tomatoes, a spoon of sugar, bay leaves, oregano, salt, pepper, crushed red pepper, fresh basil and parsley.
+
+The cooks were to begin by blowing pork bones on high heat, then continue on frying chopped vegetables and mushrooms together without browning, then adding beef and allowing the mixture to gain color. Following the beef, spices, and seasonings joined the medley, followed shortly by tomatoes and pork.
+
+The sauce then was simmered for most of the afternoon. When done for the day, bones were removed and discarded, meat from the bones was picked and shredded, only to be returned into the sauce and for the sauce to resume simmering the day after. The sauce was served with pasta, hard salty cheese, hard-boiled eggs, and a plateful of side salad.
+
+Availability
+The recipe for A Feast for a Tenday could be found in the Fine at Home: A Cookery Book found in the noble kitchens of Baldur's Gate in the late 15 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Aftermath of the Council of Dragons
+
+Aftermath of the Council of Dragons was a chapbook penned by someone using the pseudonym Alander "Anyman" in the late 15 century DR.
+
+History
+The chapbook was published in the .
+
+Appendix
+Appearances
 
 References
 

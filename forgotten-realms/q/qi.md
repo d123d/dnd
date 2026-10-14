@@ -89,3 +89,198 @@ fr:Qilué Veladorn
 
 ---
 
+## Qilue
+
+Qilue was a drow priestess, who dwelt beneath the female fighter's society of Ust Natha, in 1369 DR.
+
+Description
+She surrounded herself by many servants and guards, who would watch over her home.
+
+Possessions
+Qilue possessed a very powerful enchanted dagger, called the Boneblade.
+
+Rumors
+It was rumored that a duergar servant of an aboleth was commanded to ask an adventuring party to speak with his master. The aboleth was contained within a tank near the entrance of Uth Natha and wished for the party to slay Qilue and extract her powerful brain.
+
+Appendix
+Appearances
+Video games
+ Baldur's Gate II: Shadows of Amn
+References
+
+---
+
+## Qiltox
+
+Qiltox was a beholder involved in the Zhent invasion of Shadowdale in 1375 DR.
+
+History
+Qiltox was a beholder allied to the Zhentarim; he lived in the ruin of Myth Drannor until he was forced to flee at the start of the Cormanthor War; The Zhent relocated him to their new drow allies of House Dhuurniv to help and control the drow.
+
+Appendix
+References
+
+---
+
+## Qirmiz min Hudid
+
+Qirmiz min Hudid was a beautiful but deadly agent of the Brotherhood of the True Flame inhabiting Huzuz, the City of Delights, in 1367 DR.
+
+Personality
+Violent outbursts and mood swings were commonplace when dealing with Qirmiz, causing many individuals who challenged her to experience the full wrath of her blazing power.
+
+Description
+Qirmiz was a beautiful woman who possessed auburn hair and a sultry physique. It was said she had the "face of an angel and the heart of a tiger."
+
+Activities
+True to her fanatic zeal, Qirmiz accepted a special sterility curse from the Bonfire, the mysterious leader of the Brotherhood of the True Flame. The curse prevented anyone with whom she was intimate from fathering children. Qirmiz, under magical guise imitating concubines of the Royal Harim of Huzuz, would trade places with several concubines who were sworn to secrecy, and lie with the Grand Caliph periodically, preventing him from siring more children and producing a male heir.
+
+However, the curse was not without harmful side effects. Qirmiz herself was permanently sterile, yet the curse infused her with an insatiable appetite for romance. The curse also made her insanely jealous if her latest lover so much as glanced at another woman, prompting her to use her magical power to permanently polymorph all of her lovers into birds which she kept as "pets" in a large aviary within her home. Qirmiz would often transform herself into a bird so she could continue to mate with past lovers.
+
+When she was not pursuing carnal knowledge, Qirmiz used her luxurious manor in the Court District to teach promising flame mages. All of her students were carefully screened using a flame of justice and then placed under a geas so they could never betray the Brotherhood.
+
+Skills & Powers
+In addition to practicing flame magic, Qirmiz studied charm magic with zeal, allowing her to enthrall new lovers with ease.
+
+Possessions
+Qirmiz owned a ring of avian control, a ring of fire resistance, a rod of absorption, a jellaba of eyes, a pair of slippers of levitation, and many magical scrolls.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Qinnaz
+
+Qinnaz was a dragonborn of Abeir, and one of the ancestors of Clan Kepeshkmolik.
+
+History
+Qinnaz was one of the seven wise elders who raised Shasphur.
+
+One day, Shaspur came with a plan to free the dragonborn slaves from the gold dragon Raurokhymdhar. His plan, however, had a flaw: he could not save the elders. The elders decided that Shaspur should flee without them. Qinnaz was killed by Raurokhymdhar while misleading the dragon so Shaspur and the other slaves could flee to freedom.
+
+Appendix
+Appearances
+ Ashes of the Tyrant
+
+References
+
+---
+
+## Qilder Yarven
+
+Qilder Yarven was the Magister for two months, one in  and one in .
+
+Personality
+Knowing his own magic to be weak, Qilder Yarven preferred instead to strike first with his wands at every opportunity.
+
+Possessions
+He possessed at least seven wands which he used for attack.
+
+History
+Originally Holbert Gruth, Qilder Yarven was an apprentice to the archmage Maermadrar of Sheirtalar, until he stole two spellbooks and a coffer full of wands. He came up with the name by combining the names of two warriors in a tavern he stopped at during his desperate flight. He hid in the Border Kingdoms for some time, always striking first at mages he encountered. He continued in this habit until Elminster practically made him Magister by placing him in the middle of the fight between Scsilda Starshield and Orten Imdrar, whom the apprentice managed to slay with some help.
+
+As the Magister, he challenged a few archmages, emboldened by his power. He succeeded twice; his third challenge, Maldiglas Turntower, turned out to be more powerful than he could handle. He lost that duel, and his life.
+
+Appendix
+References
+
+---
+
+## Qildor Rewen
+
+Qildor Rewen was an inhabitant of Cormanthyr in the 3 century DR.
+
+Appearance
+He was young and handsome, with a very eloquent stare.
+
+Possessions
+During a revel, he was seen with a silver-hilted sword.
+
+History
+He was a guest together with Aurae Shaeremae at a revel in, where Elminster Aumar substituted Eltargrim. There, he was rather blunt with the human Armathor, but appeared to come out of it with as good an impression as possible.
+
+Appendix
+Appearances
+Novels
+Elminster in Myth Drannor
+References
+
+---
+
+## Qirozz
+
+Qirozz ( was an archdevil duke of the Nine Hells who served the Lord of the First, Zariel. The Archduchess was known for her lavish balls, but was a duchess of Avernus all the same, and a capable strategist.The title "Archduchess" is used to describe her despite this usually being reserved for the Lords of the Nine.
+
+Description
+Qirozz had purple skin and large horns.
+
+Personality
+Qirozz was an ever-vain devil who enjoyed finding and exploiting the weaknesses of her foes, and was particularly fond of baiting and toying with paladins by testing their faith and competence. She liked entertainment and when hosting her balls sought both to enjoy herself and ensure her guests did as well. She was known to make bold challenges to those whose presence she enjoyed, inviting them to activities of their choosing, often exerting herself in the process of strenuous ones and needing to take quick rests as a result.
+
+All that in mind, Qirozz was still possessed of a respect for proper form and etiquette and was fully capable of being politically minded in her plans and demeanor. She was too good a tactician to allow things like boredom to undermine her strategies.
+
+Possessions
+Qirozz wore jewelry on each finger and a ceremonial breastplate inlaid with carved bone.
+
+Qirozz's most prized possession was her Fetid Chalice, an item of exquisite and terrible beauty fashioned from the skull of a celestial. The canine cranium was bedecked with gems, gilded with arcane symbols, and inlaid with gold. She was proud of the item and would gladly brag about how she obtained it.
+
+Realm
+Qirozz's estate was a citadel in the midst of a vast, cratered plain, a tower-like fortress carved out of a basalt formation and protected by a  wall. Several members of her large army of devils defended the stronghold.
+
+Activities
+Every six hundred and sixty-six days, Qirozz hosted a ball to show off her chalice. She spared no expense on these grand galas, filling the air with music from skillful bards and ensuring a selection of delicacies from across the planes were on offer.
+
+Relationships
+Qirozz was known to ride into battle on the back of an ancient red dragon.
+
+Qirozz enjoyed the presence of Zaralais the androsphinx at her balls, for reasons beyond him. For his part, he only came because he was afraid of her and was extorted into attending.
+
+History
+Qirozz predated Zariel's rise to power in Avernus and managed to keep her position as a tactician even after she took over the layer.
+
+Eons ago, Qirozz was locked in combat with adventurers who summoned to their aid the hound-headed angel Verwyr. In the end both the adventurers and the angel were slain, and Qirozz decided to strip the flesh from the celestial and fashion its skull into the Fetid Chalice.
+
+Somewhere around the late 15 century DR the Fetid Chalice became unusable for Qirozz, for any liquid poured into it became holy water. Unbeknownst to Qirozz, fragments of Verwyr lingered on within the goblet, and she was responding to a supernatural "call from on high" for aid. The duchess persisted with her parties despite the chalice's condition, only for it to be stolen by adventurers on behalf of Dara, the Chosen of Ilmater. Using her divine powers, Dara returned the long-dead angel to life with a kiss on the forehead.
+
+When she learned of the theft of the chalice, she destroyed all the furniture of one of her rooms in a rage, eventually calming down while remaining highly annoyed by the robbery and worried about the hit to her prestige. As such, she sought a new prize or noteworthy deed to complete to restore her damaged reputation.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Qipley
+
+Qipley was a Netherese beautician who operated the Coddled Cuticle in Eileanar until its destruction in .
+
+Activities
+Qipley was one of the finest hairdressers in Netheril, but the softly-spoken man was truly passionate about manicures. He used an array of lotions and balms to treat the skin of his clients, and fine abrasive pads to polish nails to perfection. While he was regarded as soft and useless by practical folk, he was extremely popular in the enclave and suffered no lack of customers.
+
+Appendix
+References
+
+---
+
+## Qian Hillfort
+
+Qian Hillfort was a major border fort of Tethyr, placed along the border of Calimshan.
+
+Location
+This fort was located in the Monrativi Teshy Mir area of Duchy Ankaram, in the Marching Mountains foothills north of the River Agis. Due to its far-flung position, it was not considered part of County Monteshi. To the northwest was Fort Teqlar and the ruins of Shoonach, further down the river were the Calimmon Garrisons, and across the border to the southwest was St. Saril's Priory.
+
+Defenses
+During the reign of Queen Zaranda Star, the soldiers at the hillfort were kept in a high state of readiness, as they would be the ones responding to any Calishite incursions into the Mir region. They were drilled to a very high level of training (the best in peacetime Tethyr) and used special mountain ponies to traverse the hills and even launch cavalry attacks in the rough and broken terrain.
+
+History
+In the, Calimshan secretly sponsored an army of monsters and mercenaries to invade Tethyr. They crossed the Agis between Shoonach and Qian Hillfort in the early winter, and in 1334 DR killed Prince Rythan in the Battle of Nightflames. The realm of Mulsparkh was created in Monrativi Teshy Mir from this conquest, but ceased to exist shortly after.
+
+Appendix
+Reference
+
+---
+

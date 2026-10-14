@@ -187,3 +187,467 @@ es:Oso lechuza
 
 ---
 
+## Owl
+
+Owls were nocturnal birds of prey.
+
+Biology
+Owls had excellent hearing and could move quite quietly. When flying they typically made no noise.
+
+Their eyes were capable of seeing in total darkness and low-light conditions. They also uniquely were capable of seeing the ultraviolet spectrum, seeing things clearly from a range of  and dimly out to .Their Monster Manual II entry simply stated that their ultravision was double the normal range. The ranges shown were approximated from multiplying the base ranges outlined in Players Handbook 1st edition. Altogether these senses made it incredibly difficult to sneak up on or surprise owls, whether they be in dark conditions or outside at dusk.
+
+Combat
+Owls swooped silently at their prey, attacking with both powerful talons at once, and then flew easily out of reach. They also were known to attack with their beaks.
+
+Species
+ Burrowing owl, a species of owl endemic to the High Desert of Zakhara.
+ Giant owl, a much larger variety of owl.
+ Talking owl, a particularly intelligent species of owl.
+
+Ecology
+Diet
+Owls were a carnivorous species. Species of bird active at daylight hours were often preyed upon by them, such as crows and ravens.
+Habitats
+These birds typically inhabited forests in regions with a temperate climate. During daylight hours they roosted in very secluded areas.
+
+Owls could be found across much of the North.
+
+Beyond Faerûn, owls could be found in the Hordelands at the Katakoro Plateau.
+
+Beyond the Prime Material plane, owls could be found in the forests of Barovia.
+
+Relationships
+If taken care of at a young age owls could be domesticated, though they could not be trained to hunt.
+
+Owls were sometimes used by hunters as decoys since many of the daylight birds that they preyed upon, such as crows and ravens, would flock to attack them during their hours of activity. While doing so, such birds were so vicious and determined to kill the owl that they loss all sense of caution.
+
+The goddess Selûne was known to show her favor or presence by sending owls as an omen or guide.
+
+Summoning
+An ordinary own could be summoned with the spell summon nature's ally I.A single celestial owl could be summoned by the summon monster I spell, and 3 celestial owls could be called upon with the summon monster II.With the spell animal summoning I up to 8 ordinary owls could be summoned, though it required them to already, and quite naturally, be within  of the caster.
+
+Notable Owls
+ Hooter, the scout of Montolio Debrouchee.
+
+Appendix
+Notes
+
+See Also
+ Noctral, a race of outsiders that resembled giant owls.
+ Owlbear, a monster that is a cross between an owl and a bear.
+Appearances
+Adventures
+Curse of the Azure Bonds
+Novels
+Sojourn • Sword Play • The Shadow Stone • Star of Cursrah • The Jewel of Turmish • The Last Mythal trilogy • Queen of the Depths • The Darker Road
+
+Tymora's Luck • The Crimson Gold
+Video Games
+Neverwinter • Idle Champions of the Forgotten Realms
+
+Warriors of Waterdeep
+Card Games
+AD&D Trading Cards
+
+Gallery
+
+External Links
+
+References
+
+---
+
+## Owenden
+
+Owenden was a tavern owner in Daggerford in the latter half of the 14 century DR.
+
+Activities
+Owenden managed the Lady Luck Tavern, which he inherited from his father, the famed adventurer Darryl Orcslayer. Owenden was also a cleric of Tymora.
+
+He lived in a house located along Guild Alley in central Daggerford.
+
+Appendix
+Appearances
+Gamebooks
+Spawn of Dragonspear
+References
+
+---
+
+## Owl's insight
+
+Owl's insight was a druidic spell, common to powerful druids of the Realms, that granted a subject a taste of the inherent wisdom of nature.
+
+Effects
+Upon casting this spell, the temporary visage of a snow owl covered the druid's face. The caster could lay hands on another and bestow a touch of insight and comprehension, such as commonly held to belong to the owl. The more powerful the druid, the greater was the increase to the subject's wisdom. The effect lasted for one hour.
+
+Components
+This divine spell required both verbal and somatic components.
+
+Appendix
+See Also
+ Owl's wisdom
+Appearances
+
+References
+
+---
+
+## Owl's wisdom
+
+Owl's wisdom was a transmutation spell that temporarily boosted a creature's insight.
+
+Effects
+The caster had to touch the recipient of this spell. When cast, the target creature's wisdom was greatly enhanced for a time that increased with the caster's skill.
+
+Components
+This spell had verbal, somatic, and material components in the form of owl feathers or droppings. When the spell was cast as divine magic, the caster needed a divine focus instead of the aforementioned material component.
+
+Appendix
+See Also
+ Mass owl's wisdom
+Appearances
+
+External links
+
+References
+
+---
+
+## Owen K.C. Stephens
+
+Owen K.C. Stephens is an author and game designer.
+
+Appendix
+External Links
+Official Website
+Twitter
+
+---
+
+## Owl Towers
+
+Owl Towers was an inn found in the fabled city of Myth Drannor.
+
+Location
+The inn was built amongst a number of trees rooted in the ground between the Street of Song and Suldar's Walk, in Dlabraddath, the newest district of the city.
+
+Structure
+The inn comprised structures built around four adjacent trees, each of which were connected at approximately two stories above ground level. The three dwellings varied in height, from one to five stories tall.
+
+Interior
+Atmosphere
+The spacious barroom of Owl Towers featured rich wood décor, lending it a homey and welcoming atmosphere despite its size.
+
+Appendix
+References
+
+---
+
+## Owaren Kendrick
+
+Owaren Kendrick was a prince of the Kendrick Dynasty of the Moonshae Isles active during the late 15 century DR.
+
+History
+Owaren was born in the, and was the youngest son of High King Derid Kendrick of Callidyrr.
+
+As of the, the boy had been kidnapped by Lady Erliza Daressin and taken to the island of Snowdown where he was held as a hostage to ensure that High King Derid did not try to wrest control of Snowdown from her and her Amnian allies. He was held in a tower within Caer Westphal.
+
+Appendix
+References
+
+---
+
+## Owlbear Berserker Lodge
+
+The Owlbear Berserker Lodge was the base of operations for the Owlbear Berserkers found in the capital city of Immilmar in Rashemen in the .
+
+Location
+The lodge was located on the north side of the city.
+
+Description
+The interior of the longhouse was decorated with the skulls of slain monsters, ancient shields, and totem carvings.
+
+Activities
+Non-berserkers usually avoided going anywhere near the lodge since the berserkers enjoyed picking fights. However, any outsider who proved themselves during such a fight were often invited to feast and revel with the berserkers within the lodge.
+
+Appendix
+References
+
+---
+
+## Owlbear lodge
+
+The Owlbear lodge, who were also called the Owlbear Berserkers or simply the Owlbears, was a lodge of Rashemaar berserkers based in Rashemen's capital of Immilmar as of the mid–14 century DR.
+
+Base of Operations
+The Owlbears dwelt within the Owlbear Berserker Lodge located on the north side of Immilmar. The telthor for an Owlbear longhouse was usually a large owl or bear.
+
+Activities
+The Owlbears enjoyed challenging strangers to contests of drinking, fighting, and the use of spears or bows. Anyone who proved their worth during these challenges were invited into the lodge to feast with the berserkers. Owlbear berserkers took great pride in defeating creatures larger than themselves. Some of these berserkers wore spikes on their armor to harm their foes.
+
+Organization
+The leader of the Owlbear lodge as of the, was Ythar Wolfmaster.
+
+Appendix
+References
+
+---
+
+## Owen
+
+Owen was a young adventurer inhabiting the city of Waterdeep during the mid-to-late 14 century DR.
+
+Description
+Owen had green hair thanks to a magical alteration made to him by an enchanted necklace.
+
+Possessions
+Owen carried around a bardiche, a dagger, a tent, and a set of scale mail.
+
+Activities
+He joined a group of adventurers called the Knights of the Sword Coast and was excited to earn riches.
+
+Rumors & Legends
+Unbeknownst to Owen, the magical necklace that turned his hair green also gave him the astounding regenerative abilities of a troll.
+
+Appendix
+References
+
+---
+
+## Owlhold
+
+Owlhold, sometimes called the Forgotten Land, was a wild and sparsely populated and largely unknown territory in the Border Kingdoms of the South Faerûn and, once, the gnomeish kingdom of Oelerhode.
+
+Description
+Untamed lands, Owlhold was a spiderweb of veering paths that could easily leave even the most competent rangers lost. The ever-present shade and dampness hid the region's main dangers: bogs and bandits. The region was dotted with small lone inns, single-home steadings, and sporadic waystables for travelers, equipped with freshwater pumps and small shack-sized taverns. The region possessed wild beauty seemingly unspoiled by civilization. Travelers familiar with Owlhold preferred to "rough it and rush it" across the wild territory.
+
+The Longcrag Ride was a lively southern road with many pavilions open top travelers, but inns and taverns were ways off the road, hidden from the eyes of outsiders. Without a local guide, travelers were sure to miss most of the amenities along the Longcrag Ride.
+
+Geography
+The territories of Owlhold were sandwiched between the Talduth Vale to the west, the Barony of Blacksaddle to the east, the city of Oeble to the north, and the lands of the Shaar to the south. The realm's closest thing to a town was Bloutar, but by 1374 DR it was lost to the neighboring Barony of Blacksaddle. No settlements in Oeble appeared to be big enough to be described as hamlets. Qurth Forest was another part of Owlhold that was lost to the Barony of Blacksaddle.
+
+Most maps of Owlhold bore little accuracy to the region's collection of roads, trails, streams, and rivers. However, several larger boards crossed Owlhold. The busiest route was the Green Road that edged the region, connecting Oeble and Bloutar. The road known as the Bowshot was hard to navigate as it wildly winded through the wilderness. It was connected to the Longcrag Ride that stretched between Talduth Vale and Beldargan.
+
+Flora & Fauna
+Owlhold was a wild territory of shaded thickets, rolling hills of hedges, woods, vines, and hanging moss. The realms was named after its large population of owls who fed on vermin and small creatures that ran rampant as Owlen folk did not farm in the common sense of the word. While bogs were swarming with stinging insects and forests hid hungry wolves.
+
+Government
+Despite not having an official government, Owlhold supported the Faceless Master's politics of keeping the city of Oeble independent. Together with the Barony of Great Oak, Owlhold aided the Faceless Master against the Talduth Vale's attempts to annex Oeble circa the mid-to-late 14 century DR.
+
+Trade
+The Owlen lived via hunting and gathering. They collected a wide variety of local edible and medicinal berries, herbs, and mosses. One notable local product was a type of wine fermented from a special blend of local vegetation. It was popular for the throat-scorching flavor, and Owlen sold the libation or exchanged it for food to traveling merchants who dared to traverse the untamed realm. Experienced merchants did venture into the wilderness of Owlhold but always with a dozen of heavily armed hirelings.
+
+History
+Before Owlhold, the land belonged to a gnomeish kingdom of Oelerhode, several thousands of years before the 14 century DR. With time, the gnome nation became arrogant and bloated, encroaching on the forests and caverns, above and below ground. The nation fell to a horde of ravaging orcs that left the kingdom a crumbling and blood-drenched ruin within a single tenday. Swiftly enough, the wilds reclaimed the ruins that crumbled under a slow onslaught of vines, elements, and decay. Some cellars and underground passages remained hidden, possibly filled with ancient treasures, but any sins of them on the surface were swallowed by nature.
+
+By the late 14 century, Owlen became home to sporadic populations. Some retired adventurers, outlaws, and wizards searching for seclusion settled in the realm. Many of them settled in remnants of gnomish buildings, caverns, and spell-chambers.
+
+In the, several caravans were sent into the land of Owlhold, but none of them made it back. Unfortunately, such events were quite common, some of them being nothing more than rumors, but at least two of such events definitely took place.
+
+Notable Locations
+Fallenfalcon, a pavilion and four cottages on the northern part of the Bowshot by a freshwater stream.
+The Four Stags was a busy inn at the northern end of the Bowshot that served as the Owlen trading outpost.
+The Griffon Aflame was a more secluded inn on the southern end of the Bowshot where the Owlen gathered, avoiding outsiders.
+Hathlock's Rest, an abandoned settlement north of the Trollhead Bridge with a single inn – Hathlock House, open to travelers as of the late 14 century DR.
+Jester's Hollow, a habituated forest valley of the Laughing Lady Stream and its inn both shared the same name.
+Sabroar's Hold, a two-floor inn named after locally famous Sabroar of Silvanus.
+Trollhead Bridge, a railless bride across a bog north of Fallenfalcon, a message-stone shaped like a troll's head, and a sleeping pavilion available for travelers.
+Wolf Belt, a lone tavern-like establishment surrounded by wolf-infested woods further north of Hathlock's Rest, ran by Ueval Ringam and Ivver Ringam in the late 14 century DR.
+
+Inhabitants
+
+The realm was inhabited by simple Owlen folk who tried to live in harmony with the land and nature instead of trying to tame it. These humans were quiet, non-confrontational, and reserved, accustomed to their lives in a sparsely populated world. However, that did not mean Owlhold was safe for travelers. The territory was rich with bandit bands. When hostile individuals from the "Wild Outside" found a way into the homes of the Owlen folk, all they found were empty rooms, snuffed candles, and back doors wide open. Owlen took shelter in nearby woods and trees and were ready to shower near-do-wells at the first sign of ill intent.
+
+Apart from humans, Owlhold was home to a significant number of elves and half-elves. Ancient undead also were known to gather around items and places of ancient magics in the land.
+
+Notable Inhabitants
+Baeremyl Clathaderra, a watchghost woman who owned nine powerful enchanted swords from the lost city of Helbrester.
+Belomeier Tathchant, a merchant of locks, lamps, and coffers from Jester's Hollow in the late 14 century DR.
+Erendin Speaker-for-Sabroar, the chief cleric of Silvanus who lived in Sabroar's Hold in the late 14 century DR, assisted by clerics Snaruldar and Jessilleia.
+Imryn Roaringhorn, a distantly related to Roaringhorns of Waterdeep master of Sabroar's Hold in the late 14 century DR.
+Jarvathra Ploorst, the shopkeep of Talismans and Fortunes of Jester's Hollow in the late 14 century DR.
+Jestra Illowhand, the proprietress of the Jester's Hollow who created a spell to capture sounds and music in small crystals, active in the late 14 century DR.
+Jlonkin the Bowyer, a half-elven family man from Fallenfalcon who lived in the late 14 century DR.
+Nressa the Weaver, a half-elf from Fallenfalcon who lived in the late 14 century DR.
+Ongolym Nlerreth, a hermit archlich who commanded flying golems, powerful exotic magics, and owned a small Netherese airship.
+Shassra Rurth, also known as "Darkeyes", a server woman of the Wolf Belt in the late 14 century DR.
+
+Appendix
+Gallery
+
+Appearances
+Novels
+
+Bloodwalk
+References
+
+---
+
+## Owlroost Head (hill)
+
+Owlroost Head was a hill in the Zehoarastria region of  Amn and the namesake of the Owlroost Head Inn in the town of Purskul.
+
+Description
+Despite the inn's location, Owlroost Head hill stood many miles east of Purskul.
+
+History
+The hill's name was used as a password to enter the inn's clandestine meetings of the Many-Fanged Serpent secret society. With time, the password became the inn's name, and the Many-Fanged Serpent was thought to had been dissolved by the late 14 century DR.
+
+Appendix
+References
+
+---
+
+## Owlroost Head Inn
+
+The Owlroost Head was a ramshackle inn located in the Amnian town of Purskul and named after the hill of the same name.
+
+Description
+Owlroost Head was a tumbledown inn, inside and out. It was a collection of small warehouse buildings, barns, and homes connected by shabby passages, all roofed but ramshackle in construction. The interior was just as impressive, filled with mismatched old furniture. The inn was infested with mice, rats, and cats who chased and devoured the vermin on occasion. Among other inhabitants, Owlroost Head was run by a collection of eccentric employees.
+
+Atmosphere
+The interior was painted and decorated in lush Tethyrean greens and flame-yellow colors that promoted a cheerful and uplifting atmosphere in the Owlroost Head.
+
+Services
+The establishment lacked quality services and was overpriced. The rooms were of various sizes and varied in furnishings. The rooms were heated by firestones, which were limited in number and were available first-come-first-serve.
+
+However, the Owlroost Head served decent quality fare available from its dining hall. The inn offered a wide selection of wines. However, the selection was chaotic and ever-changing, seldom repeating. The local specialty dishes that were served to the customers were quite notable. Emerald Chicken dish was a flame-spiced collection of chopped greens, onions, rice, chicken livers, and other poultry bits. It was just as popular as the inn's juicy dumplings in a crispy shell and stuffed with minced pork. Ornabra was a more modestly-priced fare, a type of stew served to travelers and caravaners. Among other dishes on offer were various roasts, local river fish (usually eel), fluffy lemon-flavored potato cloaks, squid-stuffed yams, and fried bones salad.
+
+History
+The inn's name came from the password used by a local secret society – the Many-Fanged Serpent, during their meetings in the establishment. The password of Owlroost Head was the name of a hill to the east of Purskul. By the late 14 century DR, the organization was believed to be gone, leaving behind only the inn's new name and occasional swearing "By the Serpent," or hushed rumors of events attributed to the group. One such rumor was the Many-Fanged Serpent's treasure was buried somewhere under the inn's dining hall. This belief was speculated to have been the inn's main attraction and reason for existence.
+
+At one point in the late 14 century DR, Owlroost Head Inn stopped hiring on-staff nigh-companions for the inn's guests after a group of them turned out to be doppelganger murderers. The inn also received a favorable mention in Volothamp Geddarm's guide book that covered the nations of Amn and Tethyr.
+
+Appendix
+References
+
+---
+
+## Owlbear claws
+
+Owlbear claws were enchanted claw-like weapons, encountered in Chult in the late 15 century DR.
+
+Powers
+Unlike their more mundane counterparts, owlbear claws were designed after claws of the dreaded owlbear. They possessed a +2 enchantment and slightly improved the wielder's druidic powers.
+
+Notable Owners
+Qawasha: a druid of the Emerald Enclave from Chult in the late 15 century DR.
+
+Appendix
+Appearances
+Video Games
+Tales from Candlekeep: Tomb of Annihilation
+
+References
+
+---
+
+## Owenn Tarsenel
+
+Owenn Tarsenel was the innkeeper of the Luskan Arms inn in Targos in Icewind Dale in the late 15 century DR.
+
+Description
+He was quiet and balding.
+
+Activities
+Owing to the inn's theme, Owenn had scraps of knowledge about Luskan, but it had all been passed down from his father or learned from guests at the inn who'd been through Luskan.
+
+History
+During Auril's unending winter in 1488 DR and 1489 DR, Owenn was afraid that summer was gone forever from Icewind Dale, and so became deeply depressed.
+
+Appendix
+Appearances
+Adventures
+Legacy of the Crystal Shard • Icewind Dale: Rime of the Frostmaiden
+
+References
+
+---
+
+## Owlbear cub
+
+This owlbear cub was an owlbear who lived on the Sword Coast during the late 15 century DR.
+
+Activities
+The cub and the dog Scratch would become fast and inseparable friends, chasing each other around camp, were they both to join the Absolute Adversaries.
+
+History
+In the, the cub and his mother lived in a cave near the Risen Road and Moonhaven. The cub had an older brother, but his mother ate him.
+
+After his mother's death, the cub was captured by a band of goblins who were loyal to the Absolute. After it ate a chicken the goblins used in their chicken chasing game, the cub was used as a replacement.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+
+Gallery
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Owlswill
+
+Owlswill was some type of avian humanoid cleric that lived in the Kingdom of Mertwig around the 14 century DR.
+
+Abilities
+Owlswill's repertoire of known spells included heal, protection from evil, and scare the dead.
+
+History
+When King Mertwig was on the verge of death at age 65, various fortune hunters and individuals claiming to be his long-lost heirs scoured his kingdom in search of wealth and treasure. During their journey to claim the throne, one of the would-be heirs of King Mertwig encountered Owlswill and recruited them to their adventuring company.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Owltalon
+
+Owltalon was a Sharran Dark Justiciar Crusader in the hidden Cloister of Sombre Embrace in the city of Baldur's Gate in the late 15 century DR.
+
+Description
+Owltalon was a high elven woman with a light skin tone and blue yes. He features were hidden by a Sharran Justiciar's helmet and a set of highly-decorated Justiciar plate mail. She was armed with a greatsword.
+
+Abilities
+Like other Sharran Justiciars, Owltalon was a formidable foe whose attackes were reinforced with necrotic magics. She could assume umbral form when enveloped in darkness and land devastating mental attacks, overwhelming her opponents with grief.
+
+Relationships
+Owltalon shared a close relationship of some sort with a fellow Justiciar Nightmist, or "her little Nightmist," as the other woman referred to herself in their letter exchange. Nightmist eagerly reported to Owltalon that her mistress approved Nightmist's status as a Certified Venom Specialist and allowed her to study sudden esophageal collapse.
+
+History
+In the, during the Absolute crisis, Owltalon served the Mother Superior Viconia DeVir in the underground Cloister of Sombre Embrace as one of her cultists underneath the House of Grief. Owltalon, along with the entirety of the cloister may have confronted its rogue member named Shadowheart, were she to turn away from Shar. Owltalon could have perished in the struggle. By other accounts, Owltalon and the rest of the cloister helped defend the city of Baldur's Gate from the army of the Absolute, were Shadowheart to remain loyal to her evil deity, or if Shadowheart was betrayed and surrendered to the Mother Superior for punishment.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Owain's Lullabye
+
+Owain's Lullabye was a unique enchanted musical instrument imbued with deadly cold magics, created by a disturbed Aurilian bard, Owain Piper, long before the late 13 century DR.
+
+Powers
+When used by a bard, Owain's Lullabye could unleash a deadly blast of freezing cold, similar to a higher-powered cone of cold spell. The instrument could hold seven charges of the spell.
+
+History
+Owain's Lullabye was the creation of Owain Piper of Silverymoon and his mage friend named Pelham of the Moor, with whom Owain adventured across the Moonsea. Owain and Pelham remained in contact for decades after the travels were done, and one day, Owain commissioned the instrument from his friend. Owain's Lullabye was rarely used in battle; instead, the bard used its freezing magics on late-migrating geese. The horn produced a call that sounded like the geese's kin flying south, and as they took flight, he would freeze them mid-flight and leave them to die.
+
+Sometime later, Owain's Lullabye was interred within the tomb of Briath Silverhand, a dwarven smith, within Dorn's Deep's Hall of Heroes. Centuries later, in the, the instrument was still inside the tomb. By the, it was a part of the magic item collection owned by Agaza, the night hag who tortured the town of Lonelywood with sleepless nights and waking nightmares.
+
+Appendix
+Appearances
+
+References
+
+---
+

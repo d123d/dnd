@@ -4,6 +4,30 @@ _Source: forgottenrealms.fandom.com, CC-BY-SA 3.0, dump 2025-10-22._
 
 ---
 
+## Lith My'athar
+
+Lith My'athar was a very small drow city in the Underdark ruled over by House Mae'Vir.
+
+History
+During the Year of Wild Magic, 1372 DR, the Valsharess began a campaign to declare herself supreme ruler of the Underdark. When her forces took over the northern drow territories, Lith My'athar was the only city that remained unconquered. A fragile alliance existed between the native Lolth worshipers and a group of refugees composed of Eilistraee worshipers, led by The Seer, a powerful Eilistraeean priestess.
+
+During that year, the adventurer known as Drogan Droganson's pupil and companions found themselves conscripted into the defense of the city. The adventurer had initially entered Undermountain as part of an effort to defend Waterdeep against attacks on the surface by the Valsharess's forces. Eventually, they rescued Halaster Blackcloak from imprisonment but, in return, the Mad Mage placed a geas on the hero to defeat the Valsharess, then magically transported the adventurer and companions to Lith My'athar.
+
+Knowing that an attack on the city was inevitable, the Seer tasked the adventurers with weakening the attacking forces by disrupting alliances that the Valsharess had made with factions of beholders, illithids, and an undead cult lead by the dracolich Vix'thra, while seeking potential allies among the golems on the Isle of the Maker and another nearby island with a mysterious settlement of avariel.
+
+When the attack came, the adventurer co-coordinated the defense of the city, first at the main gate and then the city's port.
+
+Appendix
+References
+
+External Links
+Video Games
+Neverwinter Nights: Hordes of the Underdark
+
+External links
+
+---
+
 ## Lich
 
 A lich, sometimes called a lichnee, was an almost universally nefarious form of undead spellcaster of great power, usually a wizard, but also possibly a sorcerer, warlock, or cleric. Liches were feared by mortal beings for their mastery of malign magic, their intelligence, and their willingness to embrace undeath for a chance to live forever—or rather, to endure forever. Lichdom was arguably the most powerful known form of undeath.
@@ -158,6 +182,24 @@ References
 Connections
 
 de:Leichnam
+
+---
+
+## List of video games
+
+Series Pool of Radiance seriesPool of Radiance1988HillsfarThough not in the same style as the other games of the series, Hillsfar is indeed part of the plot tying together Pool of Radiance and Curse of the Azure Bonds. Transferring a character from Hillsfar to Curse of the Azure Bonds unlocks extra content in the latter. Furthermore, the manual for the latter game states that the party ventures to Phlan (Pool of Radiance), then Hillsfar (Hillsfar), and then to Tilverton (Curse of the Azure Bonds): "Like most heroes, however, the adventurers who freed Phlan did not stay around. It is known that they took a boat from Phlan to the City of Hillsfar across the Moonsea. From there it is rumored that they traveled south and west in search of further adventure". Thus, for lore-based reasons, Hillsfar is grouped within this series.1989Curse of the Azure Bonds1989Secret of the Silver Blades1990Pools of Darkness1991Pool of Radiance: Ruins of Myth DrannorThis game, which came a decade later, is not connected to the previous games by being a typical sequel, and uses a much newer engine. It is connected to the first game in terms of location, setting, and name. It is also licensed to be part of this series. For this reason, Pool of Radiance: Ruins of Myth Drannor is included as part of the series.2001 Eye of the Beholder seriesEye of the Beholder1990Eye of the Beholder II: The Legend of Darkmoon1991Eye of the Beholder III: Assault on Myth Drannor1993Dungeons & Dragons: Eye of the BeholderThis Game Boy Advance game is not a direct port of the original game. Only some features are very similar, such as the story. However, the combat system is much more like the classic Gold Box games, instead of first-person dungeon combat. Due to licensing and the name, it is thus classed as part of this series.2002 Savage Frontier seriesGateway to the Savage Frontier1991Treasures of the Savage Frontier1992 Baldur's Gate seriesBaldur's Gate
++ Expansions and re-editionsBaldur's Gate: Tales of the Sword Coast1999Baldur's Gate: Enhanced Edition2012Baldur's Gate: The Black Pits2012Baldur's Gate: Siege of Dragonspear20161998Baldur's Gate II: Shadows of Amn
++ Expansions and re-editionsBaldur's Gate II: Throne of Bhaal2001Baldur's Gate II: Enhanced Edition2013Baldur's Gate II: The Black Pits II – Gladiators of Thay20132000Baldur's Gate III2023 Dark Alliance seriesBaldur's Gate: Dark Alliance2001Baldur's Gate: Dark Alliance II2004Dungeons & Dragons: Dark Alliance2021 Icewind Dale seriesIcewind Dale
++ Expansions and re-editionsIcewind Dale: Heart of Winter2001Icewind Dale: Trials of the Luremaster2001Icewind Dale: Enhanced Edition20142000Icewind Dale II2002 Neverwinter Nights seriesNeverwinter Nights (AOL MMORPG)This game was the first graphical MMO to ever be released. It uses the same Gold Box engine used in the games of the Pool of Radiance series and Savage Frontier duo, though it is not connected in plot. It is also not connected to the plot in the Neverwinter Nights series, but it shares the name. Due to this, and potential licensing reasons, it is classed as part of this series.1991Neverwinter Nights
++ Expansions and modulesNeverwinter Nights: Shadows of Undrentide2003Neverwinter Nights: Hordes of the Underdark2003Neverwinter Nights: Pirates of the Sword Coast2005Neverwinter Nights: Infinite Dungeons2006Neverwinter Nights: Wyvern Crown of Cormyr2006Neverwinter Nights: Enhanced Edition2018Neverwinter Nights: Darkness over Daggerford2018Neverwinter Nights: Tyrants of the Moonsea20192002Neverwinter Nights 2
++ Expansions and modulesNeverwinter Nights 2: Mask of the Betrayer2007Neverwinter Nights 2: Storm of Zehir2008Neverwinter Nights 2: Mysteries of Westgate20092006 Standalone gamesForgotten Realms Unlimited Adventures1993Dungeon Hack1993Menzoberranzan1994Blood & Magic1996Descent to Undermountain1997Demon Stone2004Dungeons & Dragons Online2006Dungeons & Dragons: Daggerdale2011Neverwinter2013Lords of Waterdeep2014Sword Coast Legends2015Dungeon Chess2017Idle Champions of the Forgotten Realms2017Tales from Candlekeep: Tomb of Annihilation2017 Former standalone gamesThis category includes all standalone online games that were shut down.Dungeons & Dragons: Heroes of Neverwinter2011Dungeons & Dragons: Warbands2012Dungeons & Dragons: Arena of War2013Warriors of Waterdeep2018 Other settings SpelljammerSpelljammer: Pirates of Realmspace1992 Al-QadimAl-Qadim: The Genie's Curse1994 PlanescapePlanescape: Torment1999 RavenloftRavenloft: Strahd's Possession1994Ravenloft: Stone Prophet1995 Homebrew settings+ Premium ModulesNeverwinter Nights: Kingmaker2005Neverwinter Nights: ShadowGuard2005Neverwinter Nights: Witch's Wake2005Neverwinter Nights: The HeX Coda2005
+
+Appendix
+Notes
+
+ See Also
+
+ List of video games in chronological order
 
 ---
 
@@ -323,6 +365,118 @@ See Also
 External Links
 
 Connections
+
+References
+
+---
+
+## List of source material on Kara-Tur
+
+This article is a list of source material on Kara-Tur.
+
+Accessories
+
+Adventures
+
+Articles
+
+---
+
+## Lichen
+
+Lichens were a type of composite organism, often confused for being solely a plant or fungi, when in fact they were a composite of both. They could be found in various places across the Realms.
+
+Description
+Lichen came in a wide variety of forms and colorations. There were many poisonous varieties, some that were capable of defending themselves, some that were bioluminescent, and some that were phosphorescent. Bioluminescence was somewhat of a rare trait for lichen.
+
+Habitats
+On the surface of Toril, one could find lichen in a variety of locations. These included the Cormanthor forest's starwood area, the Evermoors north of the Dessarin Valley, the High Moor's rocky outcrops, the Plains of Purple Dust, and the peaks of the Sunset Mountains.
+
+They were most abundant underneath the surface of Toril, in the area known as the Underdark, where they and other vegetation received nourishment from the ambient faerzress. Areas particularly diverse in lichen included the cavern of Ched Nasad, Fluvenilstra, Gduar's Garden, and Neverlight Grove.
+
+Phosphorescent and bioluminescent lichen were common in the Underdark, though the latter were were more common in the Upperdark than the Middledark. Both could be found in parts of the Wormwrithings. A silvery-blue variety could be found all across the ceiling of Iltkazar's cavern. The fortress Maelstrom had many rooms decorated in bioluminescent lichen. And Neverlight Grove had blue, violet, and yellow bioluminescent lichen growing across its caverns and larger mushrooms.
+
+Beyond Toril, primitive lichen could be found on the planet Armistice. Outside of the Prime Material plane, a species of red and black lichen could be found in the Abyss, the realm of the goddess of misfortune Beshaba. The lichen was growing on the wind-blasted rocks of the Blood Tor.
+
+Species
+Blue lichen A rare species of lichen that only grew in the Stonebone Mines.
+
+Fire lichen a pale, orange-white lichen that obtained its energy from warmth.
+
+High Moor lichen usually just called "lichen," was variety of lichen that was extremely common in the High Moor and below the surface in the Undermoor. It was especially common on rocks in the High Moor and in the region's bogs. It had a pale, greenish-gray coloration and spread across surfaces with spidery tendrils.
+
+Medquat a crimson species of lichen was found in hollow logs within the starwood. They tasted like lemons and were highly prized in Cormyr. Scorpions were attracted to them.
+
+Mikka a black lichen endemic to the Great Glacier.
+
+Wisp lichen a dangerous, white colored lichen native to the Underdark. It secreted an adhesive that could hold creatures and paralyze them. It would then slowly digest their prey, resulting in their painful and tortuous demise. The true danger of wisp lichen, however, was the fact that many dangerous Underdark predators and scavengers could be found lurking near them, hoping to get a free meal.
+
+Creatures
+ Lichen liches typically had their bodies overgrown with fungi and lichen.
+
+Usage
+ Lichen was among the vegetation that denizens of the Underdark used in place of the agricultural crops of the surface, sometimes even using them to brew alcohol. For instance, the cities of Blingdenstone and Iltkazar tended farms of lichen.
+ Lichen was among the forms of Underdark vegetation that cave bears and deep rothé subsisted upon.
+
+Appendix
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Lit with danger
+
+Lit with danger was a magic spear that would light up an unseen foe.
+
+Power
+It was +1 shortspear that would cast faerie fire on an attacking invisible creature once per day.
+
+Creation
+Creation naturally required the spell faerie fire.
+
+Cost
+It was worth around 18,000 gold pieces.
+
+References
+
+FR:Lumière du danger
+
+---
+
+## List of 3.X edition Forgotten Realms products
+
+This is a complete list of 3.x edition Forgotten Realms products that have been released.
+ Note – A suggested shorthand for placing references in a limited amount of space, for example (FRCS p.45) might fit much better someplace than (Forgotten Realms Campaign Setting p.45).
+ Type – SB = Sourcebook, Adv = Adventure, SA = "Super Adventure", Ref = Reference/Background
+ SKU – TSR/Wizards internal product code
+
+ Note Title Ed. Type Pub. Date  ISBN  SKU Author(s) ItDL  Into the Dragon's Lair 3.0  Adv  2000-10  0-7869-1634-6  TSR11634  Sean K. Reynolds and Steve Miller MC:MoF  Monster Compendium: Monsters of Faerûn 3.0  SB  2001-02  0-7869-1832-2  WTC11832 James Wyatt and Rob Heinsoo FRCS  Forgotten Realms Campaign Setting 3.0  SB  2001-06  0-7869-1836-5  WTC11836 Ed Greenwood, Sean K. Reynolds, Skip Williams, and Rob Heinsoo MoF  Magic of Faerûn 3.0  SB  2001-08  0-7869-1964-7  WTC11964 Sean K. Reynolds, Duane Maxwell, Angel McCoy LoD  Lords of Darkness 3.0  SB  2001-11  0-7869-1989-2  WTC11989 Sean K. Reynolds and James Wyatt FRDMS Forgotten Realms Dungeon Master’s Screen 3.0  SB  2002-02  0-7869-2783-6  886860000 Skip Williams and Duane Maxwell F&P  Faiths and Pantheons 3.0  SB  2002-05  0-7869-2759-3  886430000 Eric L. Boyd and Erik Mona SM  Silver Marches 3.0  SB  2002-07  0-7869-2835-2  885670000 Ed Greenwood and Jason Carl CoSQ  City of the Spider Queen 3.0  Adv  2002-09  0-7869-2874-3  885740000 James Wyatt —  City of the Spider Queen Miniatures Box —  Adv  2002-09  0-7869-0473-9  884330000 — RoF  Races of Faerûn 3.0  SB  2003-03  0-7869-2875-1  885780000 Sean K Reynolds, Matt Forbeck, James Jacobs, Eric L. Boyd UE  Unapproachable East 3.0  SB  2003-05  0-7869-2881-6  176650000 Richard Baker, Matt Forbeck, Sean K. Reynolds GW  Ghostwalk 3.0  SB  2003-06  0-7869-2834-4  885660000 Monte Cook, Sean K. Reynolds Ud  Underdark 3.5  SB  2003-10  0-7869-3053-5  885810000 Bruce R. Cordell, Gwendolyn F.M. Kestrel, Jeff Quick PGF  Player's Guide to Faerûn 3.5  SB  2004-03  0-7869-3134-5  886470000 Richard Baker, James Wyatt SK  Serpent Kingdoms 3.5  SB  2004-07  0-7869-3277-5  965660000 Ed Greenwood, Eric L. Boyd, Darrin Drader SS  Shining South 3.5  SB  2004-10  0-7869-3492-1  179290000 Thomas M. Reid LEoF  Lost Empires of Faerûn 3.5  SB  2005-02  0-7869-3654-1  177380000 Travis Stout CoR  Champions of Ruin 3.5  SB  2005-05  0-7869-3692-4  178720000 Jeff Crook, Wil Upchurch, Eric L. Boyd CoS:W  City of Splendors: Waterdeep 3.5  SB  2005-07  0-7869-3693-2  881620000 Eric L. Boyd SoG  Sons of Gruumsh 3.5  Adv  2005-09  0-7869-3698-3  884467400 Christopher Perkins CoV  Champions of Valor 3.5  SB  2005-11  0-7869-3697-7  882927200 Thomas M. Reid and Sean K. Reynolds PoF  Power of Faerûn 3.5  SB  2006-03  0-7869-3910-9  953667200 Ed Greenwood and Eric L. Boyd MoM  Mysteries of the Moonsea 3.5  SB  2006-06  0-7869-3915-X  953717200 Thomas M. Reid, Sean K. Reynolds DoF  Dragons of Faerûn 3.5  SB  2006-08  0-7869-3923-0  953797200 Eric L. Boyd, Eytan Bernstein, Evan Jamieson TT  The Twilight Tomb 3.5  Adv  2006-09  0-7869-3947-8  953947400 Greg A. Vaughan C:ToW  Cormyr: The Tearing of the Weave 3.5  SA1  2007-03  0-7869-4119-7  956857200 Richard Baker, Bruce R. Cordell, David Noonan, Matthew Sernett, and James Wyatt EtU  Expedition to Undermountain 3.5  Adv  2007-06  0-7869-4157-X  957327200 Eric L. Boyd, Ed Greenwood, Christopher Lindsay, and Sean K. Reynolds S:SoL  Shadowdale: The Scouring of the Land 3.5  SA2  2007-07  0-7869-4039-5  955697200 Richard Baker, Eric L. Boyd, Thomas M. Reid GHoR  Grand History of the Realms —  Ref  2007-09  0-7869-4731-4  215437200 Brian R. James, Ed Greenwood A:EoS  Anauroch: The Empire of Shade 3.5  SA3  2007-11  0-7869-4362-9  109297200 Greg A. Vaughan, Thomas M. Reid, Sean K. Reynolds
+
+---
+
+## Lies of Light
+
+Lies of Light by Philip Athans is the second book in the Watercourse trilogy.
+
+ Summary
+
+Index
+Characters
+Aikiko • Cassiya • Wenefir
+Locations
+Cascade of Coins • Lau Cheung Fen • Pristal Towers • Sisterhood of Pastorals • Temple of the Delicate Chaos • Thayan enclave (Innarlith) • Tia Harriman
+Organizations
+Red Wizards of Thay
+Misc
+Ships
+Determined
+
+Appendix
+Gallery
 
 References
 
@@ -666,6 +820,102 @@ Appendix
 Notes
 
 References
+
+---
+
+## Lidnolu
+
+Lidnolu was a female drow cleric of Lolth and an instructor at Arach-Tinilith.
+
+History
+Lidnolu taught in an indoor amphitheatre within the clerical school. She was murdered some time prior to 1372 DR.
+
+Appendix
+Appearances
+Novels
+ Dissolution
+References
+
+---
+
+## Lichling
+
+Lichlings were insect-like creatures spawned from certain demiliches using complex magical procedures.
+
+Description
+Lichlings had an appearance similar to that of a cockroach with a pair of insect-like wings; two pairs of human-like arms; a pair of human-like legs; and a human skull sporting razor-sharp fangs. Their body was chitinous and greasy. They began life as  in length, but could grow to be as large as  when mature, which took between 100 and 1000 years.
+
+Ecology
+Creation
+In order to create lichlings, a demilich had to transform its body into a gigantic husk, large enough for a typical human to walk inside easily. The interior of the husk was kept at a cold temperature of about  through the use of magical freezing gas.
+
+As part of the original body transformation, the organs were repurposed. The kidney was able to generate an extremely hot, black liquid used to promote the development of lichlings during their incubation period; the intestine created nourishment for lichlings once they were spawned; the stomach was able to extract fear from undead spirits in order to feed maturing lichlings; the heart could extract magical energies from the spirit of a spellcaster in order to stimulate the production of new lichlings; and the brain spawned the lichlings from its own cells.
+
+With enough victims to feed its creations, a single husk could create hundreds of thousands of lichlings. A husk had enormous regenerative capabilities, and was able to repair any damages automatically in a matter of seconds. The only way to destroy it was to destroy the demilich who created it.
+
+Uses
+The decomposing corpses of dead lichlings was a pretty good fertilizer, which could transform barren soils into fertile lands.
+
+Society
+The incubation period of lichlings was between ten and forty years, after which time youngs left the husk who spawned them. The lichlings had an unwavering loyalty to their creator. If this demilich was destroyed, they might be taken into the service of another powerful entity like a wizard.
+
+Lichlings traveled in hordes of up to 100, never making a permanent home. They fed on the fear and trauma of their victims, somehow converting this into physical nourishment, and did not require food. Although this nourishment could be gained by directly attacking victims, lichlings could also assimilate this fear and trauma by proximity to events such as large battles.
+
+A lichling could take between a hundred and a thousand years to fully mature. In this time, it grew from a  creature to up to  in length. A mature lichling could spew sharp fragments of bone up to .
+
+Comatose lichlings would sometime travel great distances hidden in bags of flour.
+
+Combat
+A lichling would attack the nearest creature, usually going for exposed flesh such as the neck. Once it sank its teeth into flesh, it would not normally let go, even after it had been killed. The fangs produced an anti-coagulant that could continue to affect the victim after the lichling's death. If it was not removed carefully, further flesh could be ripped away with the lichling, causing yet more damage.
+
+A lichling could not be harmed with normal weapons and was immune to many things like charm and sleep.
+
+Weaknesses
+Wheat had a strange effect on lichlings, on which it had an addictive and intoxicating effect. Lichlings who consumed enough wheat would fall into a comatose state, that could keep them unconscious for years. A lichling in this condition would only wake up once it sensed fear in close proximity.
+
+History
+Between the 11 and 13 centuries DR the demilich Icelia built a husk under Veilstone Peaks, in the northwest part of Cormyr. In the 14 century DR, young lichlings started roaming the area and King Azoun Obarskyr IV sent adventurers to handle the issue.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lisa Smedman
+
+Lisa Smedman is the author of several novels and co-author of many sourcebooks. She has had a number of short science fiction and fantasy stories published in various magazines and anthologies, and has had two of her plays produced. In 1993 she was a finalist in the Writers of the Future contest.
+
+Formerly a magazine editor, she now splits her week between working as a reporter/editor at a weekly newspaper and writing fiction. When not working or gaming, she enjoys hiking and camping with a women's outdoor club and collects stamps that illustrate the space race. She lives in Vancouver with her partner and spends much of her time catering to the needs of their "blended family" of cats.
+
+Forgotten Realms Works
+Sembia: Gateway to the Realms series, 2002
+Heirs of Prophecy, book V
+Realms of the Dragons anthology, 2004
+"Standard Delving Procedure" short story
+War of the Spider Queen series, 2004
+Extinction, book IV
+The Lady Penitent trilogy
+Sacrifice of the Widow, 2007
+Storm of the Dead, 2007
+Ascendancy of the Last, 2008
+House of Serpents Trilogy
+Venom's Taste, book I
+Viper's Kiss, book II
+Vanity's Brood, book III
+The Halls of Stormweather
+Realms of Shadow anthology
+"Trial by Ordeal" short story
+Realms of War anthology
+"Weasel's Run" short story
+
+Appendix
+External links
+Wizards of the Coast profile
+Interview on Sacrifice of the Widow (contains spoilers)
+
+de:Lisa Smedman
 
 ---
 
@@ -1300,6 +1550,74 @@ References
 
 ---
 
+## Limbo
+
+The Ever-Changing Chaos of Limbo was an Outer plane in the Great Wheel cosmology model that embodied the chaotic neutral alignment.
+
+The plane of Warrior's Rest in the World Tree cosmology was similar to Limbo in many ways but not quite as morphic. The batrachi formed a realm in Limbo called the Supreme Throne which became its own plane in the World Tree cosmology model. Limbo was lost during the Spellplague and may have fallen into the Elemental Chaos.This statement is partially speculation, but according to this comment on page 346 of the One and Only Ask the Realms Designers Thread, Limbo just vanished. Also, on page 15 of the Manual of the Planes 4th edition, it compares Limbo with the Elemental Chaos. Furthermore, on page 274 of the Monster Manual 5th edition, the Ever-Changing Chaos of Limbo is described as "a tumult of fire, water, earth, and wind".
+
+Description
+This plane was supreme chaos, a twisting, quicksilver place filled with bits and pieces of rocks, trees, the four elements, entire landscapes, strong winds, and random pockets of liquid, solid, or gas. Sentient beings could dampen down the chaos to livable levels and produce a safe environment as long as they maintained concentration. The size of a safe zone was directly related to the intelligence of the individual controller. Demigods and more powerful beings did not have this burden and indeed could create realms that survived even if they left Limbo. Gravity operated only between solid objects that touched each other and had about the same strength as on most Prime Material Planes. Thrown objects would fly straight until they hit a solid object. Objects with no momentum would hang in space until contacted by something solid.
+
+As described by the Great Wheel cosmology, Limbo had five layers that were nearly indistinguishable from each other. The first four layers were named for the chief race or deity that were most often found there. The fifth layer was referred to as the layer of Lost Gods.
+
+A branch of Yggdrasil, the World Ash, connected the first layer of Ysgard to Limbo. It was a trajectory regularly chosen by the Great Modron March.
+
+A rare type of substance was exported out of Limbo called shiftspice. It was sold in small packets and consumed through dipping and licking wetted fingers. Each dip tasted differently. This exotic spice could be purchased as far from Limbo as Sigil, the City of Doors.
+
+Gith and Slaad
+
+The slaad were likely natives of Limbo and the githzerai were immigrants (or refugees, if you ask the githyanki) and the first layer was named for them. This layer was strategically important because of its connections to Gladsheim, Concordant Opposition, Pandemonium, and the Astral plane.
+
+Susanowo
+Named after a deity from the country of Japan on Earth, he ruled a spherical bubble half filled with sea water and aquatic life and churned by storms of his making.
+
+Agni
+Named after a deity from the country of India on Earth, he resided in a sphere of pure flame that floated through the layers at his will.
+
+Indra
+Also from India, Indra's sphere was half filled with enchanted milk and his palace stood on an island-sized tortoise (or possibly a tortoise-shaped island).
+
+Lost Gods
+It was unknown if any race or deity favored this layer.
+
+Cosmology
+
+Afterlife
+
+When souls arrived in the plane of Limbo, they were not allowed to manifest in some form but rather were absorbed into the matter of the plane. Occasionally a collection of spirits would become powerful enough to form what was called a chaos elemental, not to be confused with a being from the elemental planes.
+
+History
+According to a thrall captured by mind flayers of Oryndoll beneath Andalbruin, Limbo was the plane to which the batrachi retreated in . There, they founded a realm called the Supreme Throne. Cyric, as a result of his insanity, forcefully moved the fortress into his own divine realm, which became a fiendish plane according to the World Tree cosmology, or a realm in Cocytus according to the Great Wheel cosmology.
+
+Notable Locations
+
+The realms of the powers that resided in Limbo floated through the various layers at will and so are listed here in no particular order.
+ The slaad lords Ssendam and Ygorl maintained realms most often found in the first layer but away from areas not under their control. Ssendam's citadel is a golden castle, while Ygorl's realm is a chain of carved spheres that whirl about.
+ The githzerai formed hamlets, villages, and two large cities out of the chaos. The first one was known as Shra'kt'lor, which was the center of their military might, while the second known as the Floating City or Citadel of Gith and was a religious center of their race. Both of them were ruled over by Zaerith Menyar-Ag-Gith (the Great Githzerai).
+ Fennimar was the realm of Fenmarel Mestarine before moving to Arvandor. Shevarash, the Black Archer, also often stayed there.
+ Targus, the Netherese god of war, lived here, before moving to Pandemonium under his new name of Garagos.
+ Tempus Foehammer, Lord of Battles once lived in Limbo. Knight's Rest was the name of his realm which later became its own plane named Warrior's Rest in the World Tree cosmology model.
+ Leira, the Lady of the Mists, once made her home called the Courts of Illusion here.
+ Tapann, the patron deity of korreds once made his home here.
+ Mystryl, the Mother of All Magic, lived on this plane in her domain called Dweomertor until her death in .
+ Astilabor, the Hoardmistress of the Draconic pantheon, was reputed to have a lair hidden somewhere in Limbo that contained more wealth than that found on all the planets of Realmspace.The more recent but Core source Races of the Dragon places Astilabor in the Outlands instead.
+ Kereska, the draconic "Light of Magic", resided in Limbo.
+ Agni, the chaotic Vedic fire deity, had a mutable realm named Swarga here together with his fellow Lords of Creation Indra and Vayu.
+
+Appendix
+Notes
+
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
 ## List of novels by author
 
 Lynn Abbey
@@ -1782,6 +2100,244 @@ The Crimson Gold (2003)
 
 ---
 
+## Libris Mortis
+
+Libris Mortis: The Book of Undead is an accessory for the 3.5 edition of the  ruleset. It explores undead and necromancy, as monsters, threats, magic, and character options.
+
+Contents
+ Introduction
+ Chapter 1: All About Undead
+ Chapter 2: Character Options
+ Chapter 3: Prestige Classes
+ Chapter 4: Spells
+ Chapter 5: Equipment
+ Chapter 6: New Monsters
+ Chapter 7: Campaigns
+
+Description
+Libris Mortis details and introduces many kinds of undead creatures for 3.5 edition. Libris Mortis includes content from older books, such as Tome and Blood and the Book of Vile Darkness, that had been reworked.
+
+Index
+
+Characters
+
+Creatures
+
+Locations
+
+Magic
+
+Organizations
+
+Religions
+
+Miscellaneous
+
+Gallery
+
+Credits
+ Design: Andy Collins, Bruce R, Cordell
+ Development Team: Jesse Decker, Andrew J. Finch, Mike Donais
+ Editors: Michele Carter, Cindi Rice
+ Managing Editor: Kim Mohan
+ Design Managers: Ed Stark, Christopher Perkins
+ Development Manager: Andrew J. Finch
+ Director of RPG R&D: Bill Slavicsek
+ Production Managers: Josh Fischer, Randall Crews
+ Art Director: Dawn Murin
+ Cover Artist: Tom Kidd
+ Interior Artists: Thomas Baxa, Steve Belledin, Jeff Easley, Steve Ellis, Wayne England, Emmanuelle Hunter, Jeremy Jarvis, Chuck Lukacs, David Martin, Michael Phillippi, Steve Prescott, Wayne Reynolds, Brian Snoddy
+ Graphic Designers: Dee Barnett, Dawn Murin, Trish Yochum
+ Cartographer: Dennis Kauth
+ Graphic Production Specialist: Angelina Lokotz
+ Image Technician: Candice Baker
+
+Appendix
+External Links
+
+Connections
+
+---
+
+## Lightning bolt
+
+Lightning bolt was an evocation spell that caused arcs of lightning to emanate from the caster's fingertips.
+
+Effects
+The searing bolt of electricity traveled in a straight line emanating from the caster. Older versions of this spell struck all in its path, while newer versions were aimed at a particular creature and then, with skill, could be forked to hit one or two other creatures.
+
+The bolt from the older versions was powerful enough to blast a wooden door to cinders, set fire to combustible materials, splinter a hand-depth of stone, or melt soft metals such as gold, silver, copper, lead, or bronze.
+
+A well-centered lightning bolt blast could interfere with magics of open gates, closing them after rippling through the fabric of the spell with electric feedback.
+
+Components
+The pre-Spellplague and post-Second Sundering versions of this spell required verbal, somatic, and material components including a tuft of fur and a small rod made of amber, crystal, or glass.
+
+To inscribe this spell on a magic scroll, arcane scribes often used ink made from the horn of a behir.
+
+History
+The spell was attributed to the Netherese arcanist Volhm in  and was originally called Volhm's bolt.
+
+Notable uses
+The wizard Parwyyd Hanifar used a forked version of lightning bolt to blast a number of kenkus and gargoyles in aerial combat in 1357 DR.
+
+The following year, during the Time of Troubles, a false avatar of Selûne cast lightning bolt at Kyriani in the kitchen of Castle Waterdeep, but the bolts were caught and reflected by pots and pans.
+
+In 1362 DR a harper wizard Brenna Graycloak was able to cast a version of a lightning bolt in a fray of battling a darkenbeast using sulfur as a component.
+
+Appendix
+See Also
+ Call lightning
+ Chain lightning
+ Lightning arrow
+ Tourmaline
+ Waterstar
+
+Appearances
+Novels
+Daughter of the Drow • Red Magic • Pool of Radiance: Ruins of Myth Drannor • The Summoning
+Comic Books
+The Forbidden Sands of Anauroch (#2)
+Video Games
+Baldur's Gate series • Pool of Radiance: Ruins of Myth Drannor • Neverwinter Nights series
+Board Games
+Mertwig's Maze
+Card Games
+
+Gamebooks
+Spawn of Dragonspear
+Miniatures
+Icons of the Realms
+
+Gallery
+
+External links
+
+References
+
+---
+
+## Liia Jannath
+
+Grand Duke Liia Jannath was one of the rulers of Baldur's Gate in the mid–14 century DR.
+
+Personality
+She had a discerning eye and never seemed to take things at face value.
+
+Relationships
+Just prior to the War of the Shining Crusade, Duke Jannath took on an aspiring mage by the name of Imoen as her apprentice. She acted as a mentor of sorts to the young lady, instructing her in the way of the Art.
+
+History
+During the events of the Iron crisis, in the, Jannath and her fellow Dukes were taken in by the charm and acumen of the Bhaalspawn Sarevok Anchev. After Entar Silvershield was slain, and Grand Duke Eltan was poisoned, Dukes Jannath and Belt believed in Sarevok enough to appoint him to the Council of Four. Despite Sarevok's eventual betrayal and defeat, Duke Jannath emerged from the crisis relatively unscathed.
+
+By the, Duke Jannath's memory lived on with her family. Her descendants were ennobled as one of the patriar families of Baldur's Gate.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Lilarcor
+
+Lilarcor was an intelligent greatsword of unknown origin, that was believed to have a connection to a renowned village idiot, Lawrence Lilarcor. The blade had an eager, and often erratic personality. It spoke to its numerous wielders quite often, offering wisecracking comments or urging them to seek out fights and go slay just about any living being on Faerûn.
+
+Personality
+As a sword, Lilarcor was impulsive and single-minded in its desire to kill. It had both a notable sense of humor an insatiable thirst for blood, battle and glory. Lilarcor would make reference to past friends and relatives, including a previous owner who referred to it as "sharp" and "edgy", a brother who was a +12 hackmaster and a grandmother who attested it would never amount to anything more than a butter knife. Most of the time though, it directed its wielder to find and kill a "wizard guy" or to "hack and slash (their) way to fortune". It had a particular desire to go kill a dragon.
+
+Powers
+This +3 greatsword granted its wielder protection from charm and confusion spells and spell-like effects.
+
+History
+Lawrence Lilarcor was a boastful, albeit quite stupid villager who yearned to be a great hero. On one occasion, in the dead of winter,  he was urged by his friends to leave their town and hunt down an evil treant. After searching the wilderness for days, Lawrence found his dangerous foe and began to wrestling it from the ground. This "treant" was in fact just an ordinary, old oak tree that, through tremendous effort, Lawrence was able to uproot from the ground. After his tremendous feat of strength he marched home, declared himself a hero and was born the laughing stock of his village. In the years to come the name Lilarcor would come to be synonymous with tales of idiocy.
+
+While it was not known if Lawrence Lilarcor's spirit was somehow imbued into the greatsword or if the shared name was merely some cosmic coincidence. If Lawrence's consciousness was transferred into the blade, it had never expressed any care about about its existence as a weapon. It had however, been often discarded by its many owners, having damaged the psyche of many warriors due to its incessant bloodlust.
+
+At some point before the year 1369 DR, Lilarcor in the sewers beneath the city of Athkatla. It could only be removed by solving a riddle of sorts. The knowledge of the sword, as well the puzzle that kept it from being retrieved, was known to a man living in the sewers by the name of Quallo.
+
+According to Lilarcor, it was once a moonblade.
+
+Appendix
+Appearances
+Video games
+Baldur's Gate II: Shadows of Amn • Idle Champions of the Forgotten Realms
+
+Background
+Much of Lilarcor's dialogue made reference to real-life popular culture, including the comic strip Knights of the Dinner Table, the comic-book character Wolverine and the movie Apocalypse Now.
+
+External Links
+
+References
+
+de:Lawrence Lilarcor
+
+---
+
+## Linu La'neral
+
+Linu La'neral was a female moon elf cleric of the elven goddess Sehanine Moonbow who hailed from the city of Evereska and became a renowned adventurer by the late 14 century DR and a defender of Neverwinter in the late 15 century DR.
+
+Description
+Linu was clumsy (some said unfortunate), often causing accidents in her wake. She was shy and had a somewhat naive worldview, but was well-liked by many people for her constantly positive outlook and her kindheartedness to others. She had a great deal of humorous lines and stories, including how she met her (later deceased) husband. One of Linu's companions, Daelan Red Tiger, suggested that her clumsiness was purely due to her self-consciousness, noting that it completely disappeared when the woman was lost in thought.
+
+Linu possessed gentle facial features. She had short curly chestnut hair, brown eyes, and pale skin. Her adventuring garb varied, from blue chainmails of a Neverwintran defender, to blue robes and a blue cloak. She always wore a silver amulet that advertised Linu's devotion to Sehanine Moonbow.
+
+Activities
+During her stay in Neverwinter, Linu spent several grueling months working at that Hall of Justice, the Neverwintran temple to Tyr. Of course, that time had its share of accidents. Once time, after several days of tireless work, Linu fainted whilst on duty, right atop a glass statue of Tyr's holy symbol, its balanced plates flew across the room and smashed spectacularly right above the head of the High Priest, who fell on his romp and right on a sharp shard of glass. She was asked to find another place to heal the sick and injured.
+
+Her clumsiness continues to wreck havoc in as she and the companions stayed in the town of Port Llast, where Linu bumped into a waitress, spilling drinks, knocking over a dwarf's dinner of ale and stew, who, in turn, crashed into a half-orc, leading to a bar brawl. And to top it all, Linu ended up falling into a muddy puddle outside the tavern.
+
+While the adventurers traveled to Beorunna's Well, Linu woke up from a nightmare about being chased by a dragon by unleashing a lightning magic bolt, which damaged the wagon she was traveling in minimally. Still, the blast felled a tree that fell onto another wagon, obliterating it. The woman had to pay for the destruction from her adventuring wages.
+
+Upon returning to Neverwinter after the war, Linu started chaos at the Bridge District after attempting to buy chicken for soup. The poultry victim escaped its captors, Linu dove to catch it, startling a cat, which jumped into a fountain, leading to a pack of dogs chasing it and spooking horses. Feeling guilty, Linu tried to chase the horses down, but ended up doing damage and causing a riot.
+
+And lastly, another classic La'neral incident took place in Neverwinter when she was dancing with a Sembian ambassador at Nasher's court function. Linu tripped, fell on a waiter, who, in turn, doused the ambassador in boiling hot soup. Flailing about in pain, the ambassador stumbled into a brazier and caught fire. Naturally, Linu tried to help, so she poured a bucket of water on him. Only the bucket contained brazier fuel, not water...
+
+History
+14 Century DR
+
+Linu's father was a thief, something that ended up galvanizing the woman's disdain for criminals later in life. Linu's earliest memory, she carried close to heart for better others for worse, was her falling during a childhood game, then being teased about it for the rest of her long, elvish childhood. At a young age, Linu was sent away to study at a magely school for children with the Gift; however, that education was brief. On the first day of classless, Linu's curiosity led her to accidentally disrupt an instructor's spell. After this, in just a month, she accidentally ended up falling through a portal into another plane where she was to surely die. Instead, the young elf was saved by the intervention of Sehanine Moonbow, who had a task for Linu.
+
+The goddess revealed to Linu La'neral her quest: to find a seed from a special species of oak: the volcanis oak. Many centuries before Linu's time, Sehanine Moonbow discovered an oaken forest that adapted to survive eruptions of nearby volcanoes. The deity fell in love with the trees' majesty and was devastated to know that some time later, the oaks were destroyed. Searching for a seed from these beautiful oaks became Linu's life goal.
+
+When she reached adulthood, Linu met a well-respected Evereskan archeologist Synth La'neral, an elf with a pretty face, charisma, and intelligence. In Linu's typical fashion, her first meeting with Synth was marked by embarrassment, but instead of scaring him off, the man became smitten with the young woman. He set out to gain Linu's affections by climbing a ten-story wall to serenade her while she slept. The woman was startled by a late-night visitor and, without realizing the intruder's identity, kicked Synth La'neral in the face. The archeologist attempted to retreat by swinging off the balcony into a lower terrace, but by then, Linu recognized his familiar face and attempted to "save" him from falling, instead, stepping on Synth's hands. Subsequently, Linu prayed to her goddess for strength and pulled the dangling man onto the balcony, dislocating his shoulder in the process. Synth begged the object of his desires not to help him anymore, but Linu wanted to help him and popped his shoulder back into place, following it up with her healing magic and, lastly, making it all better with a kiss. The two married a year later.
+
+After their marriage, Synth put his adventuring on hold for a couple of years, but the marital bliss came to an end when he discovered the location of an ancient city. The timing was unfortunate as Linu had to work on her Temple of the Full Moon duties in preparation for a festival, while her husband went off on his archeological pursuits. The two remained in contact using a pair of enchanted journals created by Synth's wizard friend. Synth's side of the communications, however, ended up being his thoughts and philosophies, rather than updates on his actions and whereabouts. Synth's last message ended in a forbidding line that "they" were coming again.
+
+Soon, it became apparent to Linu that "they" killed her husband, but Synth's communications left no clues to where the ruins might be, and she was unable to find closure, her thoughts and realms haunted by her late husband's memory.
+
+Linu continued her work at that Temple of the Full Moon for the next six years until a thief stole a silver goblet from the temple – the artifact known as the Silver Chalice of Moonbow. Linu was tasked with the treasure's recovery as she was the one who let the hin thief into the temple in the first place, believing him to be a starving child. However, Linu welcomed the task as she received a vision from her deity about a fateful journey ahead. After a temple celebration of Linu's quest, she left Evereska. Subsequently, she found herself in the village of Llork and came across a mob that claimed a halfling, Tomi Undergallows, was a vile murderer. Tomi was innocent was was only guilty of stealing the chalice and trying to sell it to a Zhent merchant for 500 gold coins. The merchant took the chalice in the name of Bane, the deity of tyranny, and Tomi was "taken care of" by the Zhentish mayor of the town. Linu was outraged by the injustice. She stormed straight into the crowd, but tripped and accidentally instigated a brawl. Serendipitously, that was exactly what the hin needed to slip away from the accusers with the chalice in hand.
+
+Linu continued her pursuit of the chalice and ended up in the city of Neverwinter in the . There, she became a part of the events that led to the end of the outbreak of the Wailing Death plague that ravaged the city. Along with several other heroes, Linu was hired by Aribeth de Tylmarande, a paladin and a beloved hero, on behalf of Lord Nasher Alagondar, offering her adventuring prowess to the person who emerged to later be known as the Hero of Neverwinter. The Hero and Aribeth's adventurers became involved in the subsequent investigation and the Neverwinter-Luskan war. Subsequently, Linu befriended the Hero of Neverwinter and with their help, discover what happened to her late husband, who perished in a cave near the city of Neverwinter. However, it was unknown if Linu La'neral and the Hero of Neverwinter developed romantic feelings towards eachother.
+
+Following the resolution of the Neverwinter-Luskan war, Linu traveled to the city of Waterdeep when the City of Splendors became threatened by the drow from the Undermountain. The Masked Lords, rulers of Waterdeep, determined that the danger was indeed coming from Undermountain, and Durnan, the proprietor of the Yawning Portal, put out a call for adventurers willing to traverse the mega-dungeon and rout the evil within. Linu La'neral, Sharwyn, as well as some other companions of the Hero of Neverwinter, Daelan Red Tiger, and Tomi Undergallows, answered the call. She was part of a battle that emerged at the Yawning Portal when drow assassins poured out of the dungeon. Surviving the battle, Linu and other adventurers rushed into Undermountain.
+
+A brave adventurer, the famed Drogan Droganson's pupil, later known as the Slayer of Mephistopheles, followed them, armed with a rod of resurrection in case they came across any of the adventurers' bodies. Linu was overcome by a rakshasa and locked away – interred whilst still alive in a sarcophagus. When she came to it, the woman realized that she was trapped in a coffin. Even though she was rescued from the slow and terrifying death, the experience left Linu deeply shaken and thinking about ending her adventuring career, hoping to start a temple in Waterdeep with the money from the descent to Undermountain. Linu accompanied the Slayer of Mephistopheles on a larger-than-life adventure to the bottom the the mega-dungeon and across the planes. When it all was over, she returned to Evereska with the chalice in hand and earned the title of the High Priestess.
+
+Naturally, Linu's accidents still were the bane of her existence. A month into her High Priestess duties, the Temple of the Full Moon was reduced to ruins due to Linu's mishap. She returned to the City of Splendors, Waterdeep, where she guided good folk through troubled times, defended justice, and used her diplomacy. The Sage of Shadowdale, Elminster, once noted that Linu La'neral "held all the grace that her feet did not."
+
+15 Century DR
+
+In the late 15 century DR, duty called Linu La'neral into action once again, and, as one of the defenders of Neverwinter, she stood against the rising threat of the Cult of the Dragon that abducted people from Evereska, and the dark deity Tiamat that was about to be unleashed on the Prime Material plane. Linu directed adventurers in a rescue operation to retrieve people who were to be ritually sacrificed to Tiamat. As the crisis was closing to its culmination, Linu joined the defenders in the final battle against the draconic deity's avatar.
+
+Later, Linu La'neral, as an agent of the Lords' Alliance, helped defend Gauntlgrym whilst aiding Bruenor Battlehammer and Drizzt Do'Urden, and descended into the Chasm underneath Spellplague-shattered Neverwinter to fight against the madness, demons, and aberrations that were pouring out, threatening the city. Her divine magics were instrumental in shielding the minds of adventurers and volunteers from the Chasm's madness. Eventually, Linu and her companions took on and defeated a powerful balor in the Chasm Depths.
+
+Appendix
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+Connections
+
+---
+
 ## Lightfoot halfling
 
 Lightfoot halflings, also known as hairfeet or Luiren halflings, were the most common type of halflings seen in the world, in large part due to their famous wanderlust, which set them apart from the relatively sedentary ghostwise and strongheart halflings.In 1 and 2 editions, lightfoots were known as "hairfeet". The name was changed for 3 edition, when D&D's halflings were further changed to be less like J.R.R. Tolkien's hobbits. Lightfoots were most comfortable living alongside other cultures, even adopting their cultural practices, right down to their deities.
@@ -1870,6 +2426,244 @@ Appearances
 References
 
 Connections
+
+---
+
+## Life Beneath the Sails
+
+Life Beneath the Sails was a book of sea lore originally composed of three volumes of ships' logs, together forming a sizeable tome. It was written in the Year of the Gauntlet, 1369 DR by an anonymous author.
+
+It contained much information on maritime law, tradition, and superstition; helpful tips and homilies; stories short and long pertaining to the Sea of Fallen Stars, as well as local sayings and curses. The library at Candlekeep was known to have a copy of all three volumes in their collection.
+
+References
+
+---
+
+## Lightning Bolt (ship)
+
+The Lightning Bolt was a Thayan ship on the Sea of Fallen Stars.
+
+Appendix
+
+References
+
+---
+
+## Light Tube
+
+The Light Tube was an invention by Cadderly Bonaduce.
+
+Design
+The tube itself was a foot-long cylinder two inches in diameter. It consisted of two parts, with one end covered by a metal cap.
+
+A disk was inserted in the tube, which had been enchanted by Histra, a priestess of Sune, with a dweomer of light as bright as pure sunlight.
+
+Use
+The metal cap on the tube shielded the light. When popped off, a focused beam of light was projected. The light beam can be adjusted by a twist of the upper part of the cylinder.
+
+Appendix
+Appearances
+Novels
+Cleric Quintet (Canticle • In Sylvan Shadows • Night Masks • The Fallen Fortress • The Chaos Curse)
+
+References
+
+---
+
+## Lifespring
+
+The Lifespring was a magical pool in the House of the Triad that enhanced the bather's charisma and leadership qualities.
+
+History
+In the 14 century DR, the cambion, Kaanyr Vhok, wished to access the pool. He wished to gain legendary powers from it.
+
+Appendix
+
+References
+
+---
+
+## Living construct
+
+A living construct was a type of construct that combined elements of animated constructs and living creatures. They possessed free will and sentience given to them by the complex and potent magic employed in their creation.
+
+Traits
+As sentient beings, living constructs could train and develop their skills and abilities in any way open to them.
+
+While they had a lot of traits in common with standard constructs, they had some differences too.
+
+Unlike constructs, they had a vitality and fortitude that didn't depend on their mass and size. This meant they could be affected by spells that targeted living creatures as well as those that targeted constructs. They could suffer from blows that wearied them or hit critical parts, effects that deteriorated their physical or mental abilities, effects that required fortitude to resist, and be affected by death magic and other necromancy, but some were resistant. Some remained immune, or to disease, nausea, and poison; to fatigue and sleep magic; to paralysis; and to their energy being drained. They could also be affected by mind-affecting magic.
+
+However, they could not heal damage naturally. Rather, they needed to be repaired physically. They could be healed by spells of the cure wounds family and other healing spells, but these had only half their normal effect, while repair damage spells had their full effect. If they seriously damaged, they fell inert and did not lay dying. In particular, if fully destroyed, they could be resurrected with raise dead or resurrection.
+
+They lacked darkvision or low-light vision by virtue of being a construct. They could move freely and were capable of running.
+
+While they did not require organic sustenance (whether food, drink, or air), they could make use of magical consumables like potions and heroes' feast. They had no need of sleep, but did require a form of rest for a night prior to preparing any spells, and only needed four hours of such rest to be ready for anything else.
+
+Types of Living Constructs
+ Merchurion
+ Warforged
+ Basal golemIn Blood & Magic materials, the basal golem is described as a "living golem", implied to be spiritual and intelligent, and can turn into living creatures. This seems to fit the terms of a living construct, though this classification was invented eight years later for other creatures in D&D, namely the surprisingly similar warforged of the Eberron setting. Therefore, this article assumes the basal golem is a living construct.
+ The JuggernautIn Blood & Magic, it is said that the Pearl of Power can "bring life to arcane inventions" and the Juggernaut is described as coming alive. It is also described as a "beast" with "innards" as well as a "machine" and "device". While this may just be descriptiveness, it also seems to fit the terms of a living construct, like the basal golems. Therefore, this article assumes the Juggernaut is a living construct.
+
+Appendix
+Notes
+
+References
+
+External Links
+
+---
+
+## Light of Heavens
+
+Light of Heavens was an aasimar divine champion of Lathander of the Sword Coast North in the mid–14 century DR.
+
+Relations
+She was the twin sister of Joy.
+
+Description
+She was tall and beautiful, with the scars of battle. She carried herself with confidence.
+
+History
+When she was born, the priests that delivered her exclaimed "light of heavens" (for reasons not revealed), and they decided to name her that. Her twin sister was named Joy.
+
+Both sisters were raised by priests of Lathander and were determined to bring happiness and light to Faerûn. However, their methods of doing so were radically different: Joy decided that dancing was the best way to bring happiness to people, and became a traveling minstrel, while Light of Heavens, believing that fighting evil wherever it could be found was the best way, swore an oath to serve as a Knight of Lathander.
+
+During the evacuation of Neverwinter in the, Light of Heavens encountered the Kalach-Cha and party in the Merchant's District, where she tried to get a feel for the now-Knight-Captain of Crossroad Keep. She challenged the Kalach-Cha to a duel to test their resolve in the fight against the shadows. When the Kalach-Cha beat her, she left, but not before saying she would challenge them two more times.
+
+The Kalach-Cha and companions next encountered Light of Heavens at Port Llast, where she revealed how she got the name "Light of Heavens". She then challenged the Kalach-Cha again, this time using a larger portion of her strength. Again, the Kalach-Cha defeated her.
+
+Light of Heavens then made her way to Crossroad Keep. There she challenged the Kalach-Cha again, this time at full strength; again, the hero bested her. Impressed, Light of Heavens offered her services as a sergeant in the Graycloaks of Neverwinter. Evidently she left the Graycloaks following the King of Shadows' defeat.
+
+Later that year, Light of Heavens would be encountered by another hero whilst traveling, and offer to spar with them.
+
+Appendix
+External Links
+
+Appearances
+ Neverwinter Nights 2
+ Neverwinter Nights 2: Storm of Zehir
+
+References
+
+---
+
+## Light
+
+Light was a very common spell learned by most spellcasters. Depending on how the caster was trained, light was either a cantrip or a basic spell. In some spellcasting traditions, this spell was reversibleOnly the divine version of this spell was reversible. Wizards and Illusionists had a slightly different spell called Darkness, 15' radius. and called darkness when reversed.
+
+Effects
+The area illuminated by all versions of this spell was roughly 20 to 25 ft (6.1 to 7.6 m) in radius. The range and duration of this spell varied with the spellcasting tradition. For those that learned light as a basic spell, it could be thrown 120 yards (110 m) away and last one hour to many hours. After the Year of Wild Magic, 1372 DR, the cantrip version required the caster to touch an object to make it glow like a torch, and the spell lasted for ten minutes to a few hours depending on the caster's prowess. Post-Spellplague of 1385 DR, it could be cast at-will, creating a bright light on a nearby object or in a nearby unoccupied space, and lasted until dispelled or a new light was cast elsewhere.
+
+The ranged version of this spell that could target an object allowed the caster a chance to blind a creature by successfully casting the spell centered on its visual organs.
+
+The reverse of this spell, darkness, caused total and impenetrable darkness in the area of effect, but the duration was only half that of light.
+
+Light spells could be used to counter or dispel darkness of equal or lesser power, and vice versa.
+
+Sinhala stones were also known to prevent magical darkness. Hambergyle gems could be used to turn a light spell into continual light.
+
+Components
+The pre-Spellplague cantrip required a spoken command and a material component. For divine spell casters, their holy symbol or divine focus was sufficient. For everybody else, light required either a firefly or a bit of phosphorescent moss. The basic spell required only verbal and somatic components. The at-will version could be cast with a wave of the hand.
+
+History
+The spell was attributed to Netherese arcanist Brightfinger in  and was originally called Brightfinger's light.
+
+Notable Uses
+
+During the Time of Troubles of the Year of Shadows, 1358 DR, Khelben Arunsun cast light to dispel the darkness produced by the Dark Army of the Night when they invaded Castle Waterdeep. However, the spell went awry, becoming so bright it blinded all in the hall and let the Dark Army escape. Later, the restored avatar of Selûne used a simple light spell to cancel the dark power of Shar's Rod of Oblivion and finally banish the goddess herself.
+
+Users
+ Light was also a spell of pluma magic and could be learned by Maztican plumaweavers and Eagle Knights.
+ Staves of light required this spell to be cast upon them in order to activate their magical effect.
+
+Appendix
+See Also
+ Darkness
+ Darkness, 15' radius
+ Continual Darkness
+ Blacklight
+ Continual Light
+ Daylight
+ Sinhala
+ Hambergyle
+Gallery
+
+Notes
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Liveoak
+
+Liveoak was a transmutation or enchantment spell that turned one nearby oak tree into a treant guardian.
+
+Effects
+The tree to be transformed had to be alive and healthy and preferably of Huge size. The older enchantment version of this spell could be cast on smaller oaks and produced correspondingly smaller treants. The tree had to be growing in an area sacred to the caster like a grove of trees, near an ancestral spring, or even a forest under the druid's protection. Outside of such an area, the tree had to be within 300 ft (91 m) of something the caster needed guarded or protected. Only one liveoak spell could be active at a time—the caster could not recast this spell until the previous one expired.
+
+When liveoak was cast, very brief conditions and instructions were given to the tree that determined when the treant became active and what it was supposed to do. The higher the level of the caster, the more complex the instructions could be. The tree would then remain dormant but watchful for as many days as the caster had levels, or until the triggering conditions were met, whichever came first. A successful dispel magic could turn the treant back into a tree and it would take root where it stood. If the caster dismissed the treant, it would return to its original location and then revert back into a tree.
+
+The enchantment version of this spell allowed the tree or treant to be healed by a plant growth spell, repairing damage roughly equivalent to a cure moderate wounds. Used in this way, plant growth did not increase the size of the tree nor boost its health beyond its original condition at the time of casting liveoak.
+
+Components
+Only verbal and somatic components were required to cast the transmutation version of this spell. The enchantment version also called for the use of the caster's holy symbol.
+
+Appendix
+See Also
+ Plant Growth
+ Treant
+Appearances
+
+References
+
+---
+
+## Lightning lure
+
+Lightning lure is among the most basic swordmage spells, used most commonly by shielding swordmages. When cast lightning lure lashes a creature of the swordmage's choosing within fifteen feet with a whip-like bolt of painful lightning, which the swordmage can use to pull the target towards them. Lightning lure does not work, however, if there is no clear path between the swordmage and his or her target. The spell, which relies, like virtually all swordmage spells, upon its caster's intellect for power, increases in deadliness as the swordmage gains more experience. As a very basic and easy to learn spell, lightning lure can be cast at will.
+
+References
+
+---
+
+## Limited wish
+
+Limited wish was a universal spell that altered reality, within limits.
+
+Effect
+With the restriction that the effects listed had to be of decreasing power than the one listed before it, the possible effects the caster could create with a limited wish spell were to: duplicate a moderately-powerful sorcerer or wizard spell, provided they have experience casting spells from that school of magic; duplicate any non-sorcerer or -wizard spell, with the same restriction; duplicate any sorcerer or wizard spell from any school of magic; or duplicate the effects of any type of spell. If the spell duplicated requires a material component, the caster must provide that component.
+
+Limited wish can also be used to undo the harmful effects of many other spells, such as geas/quest or insanity.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lightning clash
+
+Lightning clash is a somewhat basic spell of the evocation school used by several inexperienced swordmages. When a swordmage casts lightning clash a bolt of rippling electrical energy sprouts from a creature struck by their sword, leaping through the air to strike another creature within twenty-five feet of the original target. Like most swordmage spells the precise power of the lightning's charge depends upon the swordmage's mental processing power. Lightning clash is relatively easy to cast and requires only a few minutes of rest in order to be recharged.
+
+References
+
+---
+
+## Lightning breath
+
+Lightning breath is a spell used by many sorcerers, most often dragon sorcerers. When a sorcerer casts lightning breath they exhale a blast of electrically charged air, injuring nearby foes, more so if the sorcerer is a dragon sorcerer. Regardless of whether or not the attack succeeds, lightning breath forces back any foes caught within its blast zone, which is roughly fifteen feet in diameter, a distance of five feet. If the sorcerer focuses, they may be able to maintain this repelling force even after the lightning itself stops. The spell is not one that comes easily and lightning breath can only be cast once per day.
+
+Appendix
+References
+
+Further Reading
 
 ---
 
@@ -2658,6 +3452,690 @@ __NOTOC__
 
 ---
 
+## Lizard king
+
+A lizard king or lizard queen was a demon-blooded lizardfolk who often ruled tribes of their non-fiendish kin. They served the demon lord Sess'innek.
+
+Description
+Resembling ordinary lizardfolk the lizard kings/queens had darker green scales, and distinct demonic features.
+
+Personality
+In control of a lizardfolk tribe, they would rule absolute, but in return the tribe would quickly become more advanced than those tribes without any kings/queens.
+
+Combat
+They would make use of more complex tactics than ordinary lizardfolk, and would not shy away from battle themselves. However they would always hold a small force of elite warriors nearby and never enter battle alone.
+
+Society
+The lizard kings/queens would always either rule their lizardfolk tribes or they would die trying to get control. around 20% of their children would also be of the king/queen variant, while the rest would just be ordinary lizardfolk, once the kings/queens grew up to adulthood only the strongest were allowed to survive, the rest sacrificed to Sess'innek. While ordinary lizardfolk tribes are not evil as such, those lead by the kings/queens are, as the malevolent nature of their demonic heritage leads them down a dark path.
+
+History
+Some sages claimed that the lizard kings/queens are a direct result of the war between the sarrukh and the khaasta. As that war raged Sess'innek sent his demonic forces onto Faerûn, hoping that by controlling the lizardfolk he could weaken the sarrukh on their homefront. After centuries of war he recalled his legions back to his realm of Kearackinin, leaving their offspring to continue the war. It was estimated in  that around four in ten lizardfolk tribes was lead by lizard kings/queens. The tribe of lizardfolk living the the Vast Swamp were said to be led by an especially cruel and wicked king, although years later once adventures arrived in the depths of the swamp, no sign of this foul specimen was found and the lizardfolk were no more hostile than other tribes without kingly/queenly leadership.
+
+Notable Lizard kings/queen
+ Sathka, Chosen of Sess'innek.
+
+Appendix
+
+Appearances
+
+Connections
+
+Reference
+
+FR:Roi-lézard
+
+---
+
+## Liam's Hold
+
+Liam's Hold was a small hamlet about a day's travel south of Daggerford along the Trade Way.
+
+Description
+Liam's Hold was a friendly little settlement standing on the eastern side of the Trade Way. It catered to the travelers and caravaners that moved along the Trade Way. The small outcropping of buildings was encircled by a low stone fence and metal gate, surrounded by welcoming bright-colored flowers. A sign by the entrance gate cheerily read: "Welcome to Liam's Hold!"
+
+By the late 15 century, the hamlet became a small fortified and walled village that surrounded the tower of The Holdfast Inn. A sizable field was located by the tower that served as a parking and loading area for caravans that traveled across the Trade Way.
+
+Geography
+The most notable feature of Liam's Hold was the two-acre-wide flat-topped tor of rock that overlooked the area. The village of Liam's Hold was crammed on the tor's top and surrounded by walls. The southern part of the village was punctuated by an ancient crumbling keep tower of the Holdfast Inn.
+
+To the east of the village laid cultivated lands and grazing fields. To the south was the pasture for the passing caravans' camping and their livestock feeding.
+
+Sunder Halyndliam's crypt and final resting place for the wizards and his magical treasures was located under the hamlet's tower. The crypt was spell-guarded but by 1372 DR, an entrance into the subterranean structure opened up in the tor's cracked wall but remained hidden from casual eye. Sunder's body was said to be locked in a casket along with his spellbooks, enchanted staff, magic blade, and numerous ensorcelled rings. However, almost no grave robber successfully plundered the crypt because it was hidden, guarded by planar beasts and locals of the hamlet, who denied entrance to all would-be adventurers.
+
+Government
+The township's leader was the Mayor, who made sure the trade flowed smoothly through the area and took care of any brigands or criminals via adventurers and mercenaries. The Mayoral position was elected by the inhabitants of several small villages along the Trade Way.
+
+Trade
+Liam's Hold's economy was supported by countless caravans that moved along the Trade Way and was home to crafters and artisans who sold their goods to traveling merchants and traveled to the city of Baldur's Gate to fetch better prices. Some of the goods exported out of Liam's Hold were textiles.
+
+History
+The hamlet was named for the mighty warrior and wizard Sunder Halyndliam, whose tower stood at the site and later became the hamlet's main attraction - the Holdfast Inn. As time passed, Sunder Halyndliam's name was shortened until it became just "Liam."
+
+During the Time of Troubles of 1358 DR, the monastery, later known as the Stronghold, was discovered to house a villainous Bhaalist sect and a temple to the evil deity in its undercroft. An adventuring dard hero from Waterdeep discovered the monastery's secret after it was mysteriously abandoned by its inhabitants during the Time of Troubles. The hero left the key to the empty keep with the town's mayor - Wilsey.
+
+By 1367 DR, Volothamp Geddarm featured the hamlet of Liam's Hold in one of his popular guidebook series. At the time of it being penned, the population of the hamlet was at 50 inhabitants.
+
+Sometime before 1368 DR, a gang of kobolds dug their way into Holdfast Inn's basement. However, that incident was quickly resolved with the aid of traveling mercenaries.
+
+The population of Liam's Hold grew steadily albeit slowly due to the village's humble size. By 1374 DR, the hamlet's population reached the whooping number of 62 residents.
+
+Rumors & Legends
+It was believed that Sunder Halyndliam, the hamlet's namesake, still guarded his home as a silent armored wraith armed with a chilling magical blade. This belief was only reinforced as six thieves were found tossed off the tor's top to their death in the night over the hamlet's history.
+
+The inhabitants of Liam's Hold claimed that plundering the old dead wizard's crypt would result in the tower's collapse and hamlet's destruction as the magic of the crypt was the only thing that held the structure together. However, that was likely just an excuse to keep the crypt under the Holdfast Inn undisturbed.
+
+Notable Locations
+ The Holdfast Inn: the main attraction in the hamlet, ran by Ivus and Nuli Barbarak circa 1372 DR.
+ Nell's Pie Shop: a humble bakery ran out of Nell Kirschtorte's home and specialized in cherry pies, eccles cakes, and toffee apples.
+ The Stronghold: the grim-looking stone structure across the Trade Way from Liam's hold that once housed seemingly peaceful monastery, secretly a lair of villainous Bhaalist sect.
+
+Notable Inhabitants
+ Hevesar Dimpet: the elected speaker of the farmers who tended to cattle and fields south of Liam's Hold circa 1372 DR.
+ Kellen: a young werewolf, kidnapped from Liam's Hold and settled with many other lycanthropes in Barovia of the Domains of Dread.
+ Lashar: a friendly and eloquent half-orc merchant who set his stall up in the center of hamlet circa 1372 DR.
+ Rab Bitnez: a garlic-obsessed gnome author of the seminal work of the 101 Garlic Recipes.
+ Twinkin: Mayor Wilsey's busy secretary circa 1372 DR.
+ Wilsey: the middle-aged and busy lady Mayor of Liam's hold circa 1372 DR.
+
+Appendix
+Appearances
+Adventures
+Ghosts of Dragonspear Castle
+
+Curse of Strahd
+Novels
+
+Baldur's Gate
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Living Forgotten Realms
+
+The Living Forgotten Realms (LFR) was an organized play program run by the Role-Playing Group Association (RPGA) for the 4 edition of Dungeons & Dragons. The program was officially sanctioned by Wizards of the Coast from its premiere in August 2008 up until fall 2010. Despite a lack of official support and funding beyond that point, LFR continued to release unofficial adventures until 2014. This wiki only covers the officially sanctioned adventures.
+
+Gameplay
+The Living Forgotten Realms was a massive coordinated campaign comprising dozens of adventures, intended as a "living world" experience shared by all participating players. The individual adventures were authored by fans, then purchased, edited, and published online by Wizards of the Coast.
+
+For administrative purposes, the Living Forgotten Realms divided players into twelve in-universe regions by way of real-world regions. For example, players in the southeastern United States were assigned to the Aglarond region. These individual regions all had their own series of adventures. Several region-agnostic adventure series were also released under the names "Core", "Special", "Quest", and so on.
+
+Core Adventures
+
+Adventures set outside the twelve regions, with some exceptions.
+
+Regional Adventures
+Adventures taking place within the twelve regions.
+Aglarond Adventures
+
+Akanûl Adventures
+
+Baldur's Gate Adventures
+
+Cormyr Adventures
+
+Dalelands Adventures
+
+Dragon Coast Adventures
+
+East Rift Adventures
+
+Impiltur Adventures
+
+Luruar Adventures
+
+Moonshae Isles Adventures
+
+Tymanther Adventures
+
+Waterdeep Adventures
+
+Adventuring Company Adventures
+
+Adventures that required at least four of the players to be part of the same Adventuring Company, a real-life organization tied to one of the twelve regions.
+
+Mini-Campaign Adventures
+
+Connected adventures intended to be played in sequential order.
+
+Preview Adventures
+
+Adventures intended to preview the Living Forgotten Realms campaign and 4 edition Dungeons & Dragons in general.
+
+Quest Adventures
+
+Adventures intended for characters that unlocked a series of hidden goals in other Living Forgotten Realms adventures.
+
+Special Adventures
+
+More challenging adventures that offered greater rewards for players who could finish them in time.
+
+Weekend in the Realms Adventures
+
+Special event adventures.
+
+---
+
+## Living City
+
+Living City was an organized play program run by the Role-Playing Group Association (RPGA) for the 2 and 3 editions of Dungeons & Dragons between 1987 and 2004. Its modules were chiefly set in the city of Ravens Bluff in the Vast.
+
+Modules
+
+History
+Early Development
+Living City began its life in 1986 as the RPGA's "City Project", a coordinated effort to "create a composite fantasy city out of submissions from the membership […] that we all can use, and we all will have contributed a little something to". James Ward and Harold Johnson were the primary creative forces behind the project. As of July of that year, few details had been nailed down except that the city should be "either a seaport or a river town to facilitate trade […] located in a temperate zone". A contest to name the city was announced in Polyhedron #30. The contest received roughly 150 entries. A shortlist of candidates was presented in Polyhedron #32, and the final results were announced in Polyhedron #36. The winner was "Ravensgate", but this turned out to already be trademarked by another company. Rather than going with the second-place name—because they had already commissioned a raven-themed map for the city—the RPGA decided to come up with another, to-be-determined name containing the word "raven". It was also announced that the Living City was to be part of the Forgotten Realms, "a little south of the city of Tantras […] on The Dragon Reach". The city's final name was settled on shortly after: Ravens Bluff.
+
+The very first Living City article, "On the Road to the Living City", was published in Polyhedron #34, written by Jean Rabe with contributions from Michael Lach. In addition to introducing the first two mini-adventures set in the Living City, the article announced a full campaign book was in the works alongside a "monthly newsletter which will feature current events within the city". The first Living City tournament adventure, Caravan by James Ward, debuted at Gen Con '87, which ran from August 20–23, 1987. The first Living City sourcebook, Gateway to Ravens Bluff, the Living City, was released at Gen Con '89. Featuring contributions from a plethora of RPGA members, it was only available for purchase at conventions and through mail order. Between 1989 and 1990, the Living City kept expanding through regular articles in Polyhedron and through the release of another sourcebook, Inside Ravens Bluff, the Living City, but the actual organized play aspect of the campaign was restricted to a single tournament adventure run each year at Gen Con. This changed in 1991 when, citing increased popularity, the RPGA opted to run two different adventures at Gen Con. The tournament was also opened for all RPGA members, not just those ranked as judges.
+
+This increased popularity came with some growing pains. The early Living City operated on an honor system, with players trusted to maintain their own characters without cheating by adding unwarranted magic items or gold to their sheets. In 1993, Jean Rabe noted that this had become a problem, and so the RPGA began tracking which characters received rewards from which adventure. A consortium was formed to oversee Living City specifically, headed by Wayne Straiton.
+
+Procampur Expansion
+In 1997, the RPGA announced the Procampur Project: an expansion for Living City set in the city of Procampur, Jewel of the Vast, overseen by the Universe Construction Company (a group of Living City designers) led by Jay Fisher and Daniel Cooper. The initial plan was for a 10-part series of connected adventures set in the Jewel of the Vast—what would eventually be known as the Cracked Jewel Saga—but the team was also open to adventure submissions not related to the main storyline.
+
+Farewell to the Living City
+The launch of 3-edition D&D heralded a major change for the Living City campaign. The RPGA struggled to convert the thousands of player characters (and their individual belongings) to the new edition, and ultimately ceased maintaining the campaign. Starting in 2002, the third-party company OrganizedPlay was given a contract to keep Living City running for 3 edition.
+
+Near the end of 2002, OrganizedPlay announced that Living City would be split into two different campaigns: one for high-level characters and one for low-level characters. This was intended to help Living City compete with Living Greyhawk, whose "[p]articipation rates […] averaged roughly 10 times that garnered by Living City". The high-level campaign would retain "the characters and context that has been created by the thousands of players who have made Ravens Bluff their homes" while the low-level campaign would "concentrate on a new iteration of the Living City campaign that doesn't have to account for nearly a decade of campaign development".
+
+Organized Play kept this up until the end of 2003, when dwindling interest forced them to drop the Living City contract. In June 2004, the Living City program was formally discontinued, with the RPGA preferring to focus on the Legacy of the Green Regent and Living Greyhawk campaigns.
+
+Gameplay
+Characters
+In the Living City campaign, players created characters according to a set of guidelines. These could then be used to participate in official Living City tournaments at conventions, where they could gain experience and magic items just like any other Dungeons & Dragons characters. Characters were prohibited from participating in the same tournament adventure more than once.
+
+Trading
+Player characters could trade gold and items for magic items in "Chemcheaux", a magic shop that existed both in-universe and out-of-universe at conventions.
+
+Notable Player Characters
+ Alydar, an elf fighter and adventurer.
+ Arroc, a mag member of the Wizards Guild.
+ Benzoate Glycol, a rather dimwitted and extremely handsome adventurer.
+ Denzil Lassar, or Lady D, the owner and the founder of the Inferno Hall, a temple to Sharess of Ravens Bluff.
+ Dinsul, the bard proprietor of The Golden Flute Tavern.
+ Dominique Thorin, a boisterous elf commoner.
+ Don Juan Montery, an infamous adventuring knight of the Golden Rooster.
+ Drakkar Von Damm, an adventuring paladin.
+ Farendrell, an adventurer from Ravens Bluff.
+ Glithander Ej-lahona, a mage member of the Wizards Guild of Ravens Bluff.
+ Harker Sorrel, a Knight of the Phoenix.
+ Jandar Stargazer, a Mystran adventuring comrade of Briar Oldhill.
+ Jean-Dorial Encarthan, an elvish Knight Commander of the Griffon Guard cavalry.
+ Jenilynn Leyland, a cleric of Tyr, and a Knight of the Right Hand of Tyr.
+ Ladyhawke, an adventuring knight of the Golden Rooster.
+ Opal Starlight, a half-elven scout of Ravens Bluff.
+ PomFritte Fromage, an eccentric hin adventuring knight of the Golden Rooster.
+ Rafim Cinder, a mage member of the Wizards Guild.
+ Rebekkah Darklyte, a drow priestess of Eilistraee.
+ Sally Elvenstar, an adventurer of Ravens Bluff.
+ Sarren Nightstalker, a Knight of the Griffon and husband of Jenilynn Leyland.
+ Selphiras Elvenstar, a squire from the city of Ravens Bluff.
+ Tatyanna Elfsdottir, a cleric adventurer.
+ Tief of Selûne, one of the very few tieflings in the Vast and a prominent Selûnite adventurer.
+ Vedina Stareye, a woman with a "face of a pock-marked road and a voice of like fingernails on slate."
+ Yvonne Chantel, a paladin of Tyr.
+
+Appendix
+References
+
+---
+
+## Lion
+
+Lions were powerful feline predators that travelled and hunted in large groups, known as prides.
+
+Description
+Male lions had large manes of golden fur. They were responsible for defending the pride against any attackers. Female lions, who had no manes, were the hunters of the pride. They used group tactics to hunt and provide food for the entire pride.. A male lion was  in length and weighed . Females were slightly smaller.
+
+Biology
+Lions lived in prides of up twenty individuals, mostly females and their cubs. Each pride only had up to three adult male lions. Lions were obligate carnivores and hunted large animals such as giraffes and zebras. If necessary, they will hunt domesticated animals. They rarely hunted humanoids. The gestation period of a lion cub was approximately three months.
+
+Combat
+Lions were powerful and dangerous predators. Female lions hunted prey in packs, co-operating to drive their prey into a location ideal for ambush. Their long and sharp claws delivered devastating damage.
+
+Abilities
+Their powerful hindquarters allowed a lion to jump up to . Their sense were very sensitive and as a result, it was very difficult to sneak up on a lion. Lions avoided climbing and swimming.
+
+Species
+Spotted Lion
+Spotted lions were about thirty percent larger than the standard lion, and had a speckled outer coat. They roamed the plains and hills of the land, and exhibited similar form and behavior as other lions. Fracto-Nimbuli, a cloud giant in Chondath, kept three spotted lions as pets.
+
+Ecology
+Habitat
+
+Among other places, wild lion prides were found in the wild grasslands surrounding the ancient city of Cursrah in the area that would later become the Calim Desert. Lions were frequently found near the Well of the Cloven Rock, an oasis within Anauroch, when not hunting in the Hills of Scent. Other locations there were known to inhabit were the Vilhon Reach and the island of Storna.
+
+In Cultures
+The golden lion served as the currency of Cormyr.
+
+In Tethyr, the Lion's Sword was the Tethyrian sword of state, wielded by princes and kings of the kingdom for centuries. In addition, the Monarch's Scepter, a unique rod of absorption that served as part of the regalia of the monarch of Tethyr, was a rod of pure silver, whose forward-oriented end was shaped to look like the head of a roaring lion.
+
+Barachiel, a member of the Celestial Hebdomad and ruler of Lunia, used a lion as his symbol.
+
+Nobanion was considered the deity of lions. The faithful of Nobanion celebrated two festivals dedicated to lions, the Festival of the Pride and the Newborn Celebration.. Lions were among the favored animals of Anhur.
+
+Waukeen was often pictured with a pair of golden lions reclining at her feet. One of a set of matching lion statues was recovered from an abandoned temple to the Merchant's Friend in Tantras and taken to the Temple of Torm's Coming by Dunn Tenwealth during the Time of Troubles; it was this statue which Torm brought to life to prove himself to Adon, and which he later joined with his human avatar to become the giant, lion-headed man who fought and slew Bane in Tantras Harbor.
+
+Chalsembyr's Heart, the sword which followers of Torm created to seek out the deity's lost kingdom from when he was a mortal, had cross guards shaped like lion's paws, and where they met the blade at the rain guard was an image of a lion's head, in profile on one side, face-on on the other.
+
+Usage
+Aurora's Whole Realms Catalogue sold lion hides for 24 gp a piece.
+
+Lions were raised from birth and trained to be companions and mounts in Turmish, even though this task was dangerous, laborious, time-consuming, and could cost a fortune.
+
+Trivia
+Numerous locations were named after lions:
+ Grinning Lion, an inn in Waterdeep.
+ Liongirt Tower, a tower in Sheirtalar that was home to Onsilur Maerdrathom, a Magister during the 4th century DR.
+ Lion's Share, a store in Triboar.
+ Lion's Shrine, a mosque that was located in the great fortress of Sarahin.
+ Roaring Lion Inn in Tantras.
+ The Raging Lion, an inn near Scornubel.
+ Way of the Lion, an inn along the Sword Coast.
+
+Numerous organizations were named after lions:
+ Army of the Lion of Aglarond.
+ Black Lion tribe of Beorunna's Well.
+ The Lionshield Coster was a trading company based in Yartar. Their symbol was a lion's head atop a field of blue.
+ The Lion Tribe, one of the major roaming tribes of the Shaar.
+ The Order of the Golden Lion, created in honor of Torm's aforementioned avatar and dedicated to fulfilling the Penance of Duty, were often called Golden Lions. Their leader was Sir Dylan Lionshand, and members of the order were often gifted with the spell great shout, which they knew as lion's roar.
+
+The entrance to the Shining Temple of Bishamon in Aru was guarded by massive lion statues, carved of ebony with eyes of gold and teeth of crystal.
+
+An amulet of health often had the head of a lion engraved on one side.
+
+Several years in the Roll of Years contain lions in their names: the  Year of the Rearing Lion, 935 DR, the  Year of the Lion's Heart, 1040 DR, the  Year of Lions' Roars, 1071 DR, the  Year of the Lion, 1340 DR, and the  Year of the Lion Rampant, 1511 DR.
+
+Appendix
+Appearances
+Adventures
+Dungeon #34: "On Wings Of Darkness" • Dungeon #57: "The Rose Of Jumlat" • Tomb of Annihilation
+Novels
+Star of Cursrah
+
+The Ring of Winter • The Council of Blades
+Organized Play & Licensed Adventures
+Giant Diplomacy • Mayhem in the Earthspur Mines
+Video Games
+Baldur's Gate II: Enhanced Edition • Baldur's Gate II: The Black Pits II – Gladiators of Thay • Icewind Dale II • Neverwinter • Neverwinter Nights • Tomb of Annihilation
+
+Icewind Dale II
+Gamebooks
+
+To Catch a Thief
+Miniatures
+Icons of the Realms
+
+External links
+
+ D&D Beyond
+References
+
+Connections
+
+---
+
+## Lizard
+
+Lizards were scaly reptilian animals that came in a variety of sizes, colors, and patterns.Lizards are mundane animals brought from the real world into the world of Faerûn, and as such, they are generally not described in any detail in sourcebooks—readers must rely on their real-world knowledge. However, dangerous, challenging, and/or fantastical lizards will likely have their own page on the wiki.
+
+Description
+Lizards had a moderately elongated body, a tail that tapered down from their body width, and two pairs of legs held outward from the body.The dictionary definition of a lizard They were non-venomous usually palm-sized to two feet (sixty centimeters) in length, depending on species.
+
+Ecology
+Lizards were most abundant in warm climates with forested or jungle terrain, but lizards could be found most anywhere on land or underground except where very cold.
+
+Varieties
+These varieties of lizard were known to exist in the Realms:
+ Bharang  A fast-moving insectivore, reddish in color, palm-sized, native to the rocky hills near Delzimmer in southeast Faerûn. Caught and used in food called scaletail.
+ Chameleon Unique lizards known for their distinctive color-changing skin.
+ Frost lizard  White magical lizards that used their camouflage and ice breaths to hunt in Icewind Dale and the Spine of the World.
+ Giant lizard  A particularly large variety of lizard.
+ Gila monster  A poisonous but sluggish lizard with a painful bite native to the Plain of Standing Stones.
+ Klonthaer  A slow-moving insectivore, dusty brown in color, hand-sized, native to the rocky hills near Delzimmer in southeast Faerûn. Caught and used in food called scaletail.
+ Minotaur lizard  A massive lizard with distinctive horns.
+ Monitor lizard  Charmed by yuan-ti to patrol lairs.
+ Riding lizard  Used as a mount by drow and other intelligent races of the Underdark.
+ Shocker lizard  Small and magical, they could deliver a nasty jolt. Possible familiar.
+ Spitting crawler A subterranean lizard with dangerous poison excretions.
+ Subterranean lizard  A lizard commonly used in the Underdark as a pack animal.
+ Treeclaw lizard  A type of lizard from the Hordelands.
+
+Appendix
+Appearances
+Novels
+Sentinelspire
+
+The Fanged Crown
+Notes
+
+External Links
+
+References
+
+---
+
+## Lilianviaten Dlardrageth
+
+Lilianviaten Dlardrageth, who usually went by Lilten, was a gold elf cleric, a high priest and chosen of Beshaba, a Masked Lord of Waterdeep, and last prince of House Dlardrageth. He resided in Waterdeep.
+
+Relations
+He took a fiend (possibly a fey'ri) as a mate and she bore him a daughter named Fayne.
+
+History
+Lilten was formerly a cleric of Erevan Ilesere, a deity of the Seldarine. At some point, he betrayed his god and began worshiping Beshaba, possibly because Ereven lost his power during the Spellplague. Around the beginning of the 15 century DR, Lilten became involved with a demoness and she produced a tiefling daughter whom they called Fayne. An eladrin named Ilira Nathalan, who happened to be Lilten's estranged wife, tracked down Lilten's demon lover and killed her, permanently scarring Fayne in the process.
+
+In Waterdeep the, Lilten became aware of a young wizard named Myrin Darkdance, who had a very powerful spellscar. He enlisted the help of his daughter Fayne and hired a dwarven monk named Rath to kidnap her. Lilten's plot was foiled by the paladin Kalen Dren, though Lilten's involvement wasn't discovered.
+
+Lilten traveled to Luskan in the, apparently to keep an eye on Myrin, who was in the custody of the Dead Rats gang. While in Luskan, he meddled with the abyssal Fury plague, even giving a priestess of Beshaba a scroll to summon the plague swarm.
+
+Later, Lilten directed Kalen and Myrin to the lair of the demon Scour, who was causing the plague, and the heroes destroyed the demon. Lilten gave Kalen a parcel containing the shards of Vindicator, which was apparently an attempt to lure Kalen to Westgate, where Kalen's would-be apprentice Rhetegast Hawkwinter had traveled.
+
+Later in 1480 DR, Lilten journeyed to Westgate, apparently to continue manipulating Myrin. He tricked Rhett into thinking Kalen had lost his mind and intended to kill him, turning Rhett against Kalen. He also aided Fayne, who attempted to avenge her slain mother by killing Iliria.
+
+Description
+Lilten was described as a beautiful gold elf. While in Luskan, he appeared with a rack of antlers, a sign of Beshaba's favor, although it's unknown if this was his true form or just an illusion.
+
+Appendix
+Appearances
+ Downshadow
+ Shadowbane
+ Eye of Justice
+
+References
+
+---
+
+## Lifedrinker
+
+Lifedrinker was an enchantment that could be applied to melee weapons. When the weapon gave the final blow to an opponent, some of its vitality was transferred to the wielder. This effect disappeared after the wielder rested.
+
+Notable Lifedrinker Weapons
+ Barthus, a vampire Banite priest, wielded a +1 lifedrinker mace.
+ Lifedrinker morningstars
+ Lifedrinker short swords
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Light hammer
+
+A light hammer was a light, martial melee weapon of the hammer family that could be used as a ranged weapon.
+
+Description
+The light hammer was a small sledge hammer, usually with a haft made of wood about one and a half feet long (45cm). Other versions of this weapon added a pick on the back of the hammer head. An average light hammer cost 1gp and weighed 2lbs (0.9kg).
+
+Weaponology
+Classified as a light weapon, the light hammer could be used while grappling. Some training was required to use this weapon, especially for throwing, therefore it was considered a martial weapon. Normal maximum range of a light hammer was 100ft (30m).
+
+Realmslore
+Light hammers were favored by dwarves.
+
+Notable light hammers
+
+Other Editions
+The 1st edition represents the light hammer (called just "hammer") as both a melee and hurled weapon. The 2nd edition presents the "hammer" only as a missile weapon.
+
+Appendix
+External links
+
+References
+
+---
+
+## Light mace
+
+A light mace was a simple melee bludgeoning weapon and a smaller form of the heavy mace.
+
+Description
+A light mace was little more than a club with flanges, knobs, or ridges of metal placed symmetrically around the head. It was made completely out of metal, making it a heavy but difficult to break weapon. A typical light mace weighed .
+
+Cost
+An average light mace cost 5 gp.
+
+Use
+This weapon was intended to be used one-handed and was simple enough for most combatants to use without any training.
+
+Realmslore
+The light mace was the favored weapon of the deities Amaunator and Lathander, who also treated the heavy mace the same.
+
+Appendix
+References
+
+---
+
+## Life domain
+
+The life domain was a deity domain that was associated with restoring or giving life to a creature, particularly one's allies if they needed healing.
+
+Deities
+
+Description
+The life domain focused on healing the wounded and curing the sick. Clerics of this domain were able to prevent their allies becoming wounded or diseased through an array of protective spells. Clerics that had mastered this domain could even raise the dead.
+
+This domain was very important to many deities, but certain deities had a very strong interest. Such deities were Chauntea, Silvanus, and Berronar Truesilver. Chauntea, the Great Mother, respected all living beings and supported the creation of life of any kind. Silvanus, the Forest Father, mainly cared for wildlife, and would smite those that destroyed the beauty of nature. Berronar Truesilver, the Revered Mother, believed kinship between dwarves was an essential part of their lives.
+
+Powers
+Life domain clerics were proficient at using heavy armor, such as plate mail, and their healing spells were more effective than that of normal clerics. When life clerics became more experienced, their weapons became infused with radiant energy, causing more damage.
+
+Novice clerics of this domain always had the bless, cure wounds, lesser restoration, and spiritual weapon spells prepared. Advanced life cleric domain spells were beacon of hope, revivify, death ward, and guardian of faith. The domain spells of master life clerics were mass cure wounds and raise dead.
+
+Appendix
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Liam Lenter
+
+Liam Lenter was a human bard and the "High Wheel" (town leader) of Amnwater, Amn as of 1368 DR.
+
+Activities
+His official job was to maintain the welfare and defense of the town, but the position was largely powerless being easily influenced by the three most powerful families in the town.
+
+History
+Around 1318 DR, Lenter was elected as the High Wheel of Amnwater.
+
+Appendix
+References
+
+---
+
+## Life among the Tuigan
+
+Life among the Tuigan was a book written by the lama Koja of Khazari in the early 1360s DR. It gave a careful and unbiased account of his experiences with the Tuigan people of the Hordelands and of the Horde.
+
+History
+Following King Azoun IV's crusade against the Tuigan Horde in the Year of the Turret, 1360 DR, Koja was a guest of Azoun in Suzail, Cormyr, for over a year. While there, on the king's request, he wrote up an account of his experiences with the Tuigan and their culture. He was aided in this by Thom Reaverson, who worked on a similar project and provided Koja with translations and guidance.
+
+Koja later dismissed it as an incomplete collection of notes about Tuigan customs, and felt that Reaverson put in an equal amount of work and written a more exhaustive account of the wars. Koja expanded his notes into A History of the Tuigan when he moved to Procampur in the Vast.
+
+Content
+Despite Koja's skills as a military historian, his works said little about how the Tuigan breached the Dragonwall, suggesting that magic was used.
+
+Locations
+One copy was in the possession of King Azoun IV of Cormyr in the early 1360s DR. By 1362 DR, the temple of Deneir in Procampur had one copy of Life among the Tuigan, bound together with Reaverson's History of the Crusade.
+
+Appendix
+Background
+Life among the Tuigan, History of the Crusade, and A Discovery of the World are purported to be the basis of research for the Horde Campaign sourcebook.
+
+References
+
+---
+
+## Lirela Drumsinger
+
+Lirela Drumsinger was a human woman from the city of Procampur in the Vast. She was a bard and a member of the Harpers.
+
+History
+Lirela was a daughter of a respected merchant family of Procampur. Her parents' coster transported goods from Mulmaster in the north, by road through the Vast, and then across the Sea of Fallen Stars. Lirella was well-loved by her parents, and displayed an early musical talent. Not long after turning 12, Lirela happily joined her father and older siblings on a trading expedition to Mulmaster, and was inspired by the itinerant bards they met on the way.
+
+However, in Mulmaster, her parents refused to accept an unfair deal that would harm both them and fellow Procampan merchants. By making this stand, they offended some powerful and dangerous people in Mulmaster, including a member of the Brotherhood of the Cloak. Therefore, the Mulmasterite merchants decided to make an example of them. On the way back, barely a day out from Mulmaster, a powerful wizard and a horde of bandits assaulted the family caravan, killing the guards by spell or blade in seconds before slaying the rest.
+
+Lirela was forced to flee, and became the caravan's only survivor. She had nothing more than her clothes and a small drum, a birthday gift from her father. Frightened, cold, and starving, Lirela ventured back to Mulmaster, seeking aid from her father's former business partners there. They had no charity for the fatherless, broke girl and turned her away. Fortunately, despite the wealth of her family, Lirela was adaptable and soon learned to put her musical talents to good use, quite literally singing for her supper. In time, she was able to gain passage on a caravan heading back to Procampur. It was a long and arduous journey, but finally she'd returned home.
+
+But there she had another shock, as she found that all her remaining family had also been slain, leaving her the only remaining descendent. She learned who had massacred her family and why. But with no other prospects, Lirela returned to the life of a wandering bard. She journeyed all over the Vast and the eastern Moonsea, while she watched carefully for an opportunity to bring her family's murders to justice.
+
+Meanwhile, others were watching her: the Harpers. They provided secret assistance to Lirela as she went about her mission. At last, Lirela tracked down those responsible and dragged them to Procampur to stand trial for their crimes. She had no desire for revenge however. With that done, Lirela had the rest of her life to consider.
+
+The Harpers then made themselves known to her. They were impressed by her desire for justice rather than revenge in the face of tragedy, and offered her a place with them. Lirela accepted, and became involved in a number of Harper missions, usually fighting against the plots of evil spellcasters like those who murdered her father.
+
+Physical description
+The deprivations of her youth and years spent traveling the countryside gave Lirela leathery skin and wrinkles, and after knowing starvation, she later ate plenty of good food, a habit that left her overweight. Singing in smoky inns and windy camps also roughened her voice, though she remained a talented singer. At only the age of 32, Lirela appeared and sounded more like a woman in her fifties. In disguise, she could pass for some old washerwoman, goodwife, or grandmother with ease.
+
+Skills
+Lirela was a talented musician and skilled bard. Though rough, her singing voice was rich, textured and pleasant, capable of pure notes and real emotion.
+
+She attained many of the abilities of a Master Harper. She could also fight with a rapier.
+
+Possessions
+In addition to more typical adventuring gear, Lirela fought with a magical frost-bladed rapier, was protected by an amulet of natural armor and bracers of armor but wore no ordinary armor. She played music with a mandolin and a snare drum.
+
+Appendix
+Notes
+ Given Lirela's background, "Drumsinger" is likely an assumed name rather than her family name.
+
+References
+
+---
+
+## Liham
+
+Liham, located at the mouth of Al-Sari River, was the most southerly of Zakhara's Free Cities circa 1367 DR.
+
+It also lay nearest to powerful Qudra, which, together with the presence of several mamluk units, gave the larger city enormous influence on Liham's politics. The large military led to the title "City of Soldiers", but it was also called Liham the Red, because the citizens enjoyed wearing clothing in various shades of crimson.
+
+Appendix
+Notes
+
+References
+
+Further reading
+
+Connections
+
+---
+
+## Lieshann
+
+Lieshann was a minstrel from the city of Ordulin in Sembia in the mid-to-late 14 century DR.
+
+Activities
+In the late 1350s DR, Lieshann journeyed around the Dragon Reach and through the Vast, singing in taverns and inns.
+
+History
+Once, Lieshann was traveling from Tavilar to Kurth in the Vast. However, she took the wrong trail and came upon the mysterious Mage's Tower that stood on the edge of the Flooded Forest. She only saw it from a distance, however, and left. Afterwards, by the late 1350s DR, Lieshann regularly sang about the mysterious tower, telling that it was an entrance to the lair or underground kingdom of a gold dragon or some other, even more powerful wyrm. According to her, this dragon shapechanged into another form to enter and descend to the subterranean realm. However, those who'd actually managed to enter the tower called this story "bardish moonshine". Lieshann admitted she'd only seen it from a distance, but still sang her version of the story.
+
+Appendix
+References
+
+---
+
+## Library of Tarchamus
+
+The Library of Tarchamus was a secret library hidden deep inside a mountain in ancient Netheril.
+
+Location
+The library was located in the Nether Mountains on the northern edge of the High Forest a few days' journey from what would later be Everlund in the Silver Marches. It was hidden deep inside a mountain, and accessing it required traversing a series of flooded caves known as Xammux. Deep within these caverns was the domed library sealed by large stone doors.
+
+Interior
+The library had three levels and was said to have housed over 100,000 volumes. The central level had a huge domed ceiling and was lit by mage lights. A total of 120 bookcases radiated out from the center of this level. The lower level contained a pit where Tarchamus's mummy resided, as well as air vents, which could be used as an escape route. Powerful wards were placed throughout the library to prevent scrying. There were also traps, although most were illusions.
+
+Additionally, the Book of Tarchamus, which contained Tarchamus's consciousness, sat on a pedestal in the central area on the second level.
+
+History
+The library was built by the legendary arcanist Tarchamus the Unyielding both as a repository for his knowledge and as a trap for his Netherese rivals. Many Netherese arcanists fell victim to traps or Tarchamus's mummy while searching the library for his secrets.
+
+The library was destroyed in Flamerule of the, by the warlock Farideh and her cambion master Lorcan and their allies in order to prevent Shadovar from gaining access to the library's knowledge.
+
+Inhabitants
+The library was inhabited by the ghosts of Tarchamus's apprentices as well as Tarchamus's mummy.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lily Pad Inn
+
+The Lily Pad Inn was a three-story floating inn in the Xiousing district of Marsember, owned by the Shou known as Shiau Chen. The inn was built on a floating platform on the large pond known as the Zhao. Chen ran a rickshaw service out of the inn.
+
+Food
+Among other dishes, the inn served fried vegetable rolls, boiled dumplings and duck-stuffed sweet buns.
+
+Drink
+The inn offered hot tea free of charge to all its patrons.
+
+Entertainment
+The inn was the performance venue of the renowned Shou twins Ping and Ling Chiang. Ping played a string instrument known as the erhu and Ling performed a fan dance.
+
+References
+
+---
+
+## Lightning Dragon Dojo
+
+The Lightning Dragon Dojo was a martial arts academy founded by the Shou Duc-Sum Li. The school was located in the Shou district of Xiousing in Marsember and was named after Master Li's fighting style. When Li became too old to spar, his son Chang Li took over operation of the dojo. Shou from all over Faerûn traveled to the dojo to learn from Li.Dan Anderson. "Backdrop: Xiousing." Dungeon #195. Renton, WA: Wizards of the Coast, October 2011.
+
+References
+
+---
+
+## Lighten load
+
+Lighten load was an alteration spell that reduced the weight of burdens by half.
+
+Effects
+This spell could be cast on a pile of non-magical objects—organic, inorganic, alive, or dead—and it temporarily reduced the weight of those objects by half. Once the items were enchanted, they could be divvied up among separate carriers. Magic items were not affected by this spell. The pile of objects could be no bigger than a  cube, and the spell lasted for a few hours. More experienced priests could stretch it out for hours longer.
+
+No other physical property (size, mass, strength, hardness, etc.) of the objects was modified by this spell—it was as if gravity were cut in half for the affected objects.
+
+Components
+Verbal and somatic components were required to cast this spell, as well as a feather and a piece of paper moistened by a soap bubble.
+
+Notable Users
+Religions
+ Crusaders were capable of casting this spell once per day.
+
+Appendix
+References
+
+---
+
+## Line of protection
+
+Line of protection was a cooperative abjuration spell that formed a field of force between two or more priests, or two or more stationary objects, that harmed all creatures passing through it, particularly evil and undead creatures. The reverse of this spell, line of destruction, was particularly painful to paladins and good-aligned creatures.
+
+Effects
+Two or more priests were required to cast this spell and had to decide during casting if the effect would be stationary or movable. If stationary, each priest drew a magical sigil on facing surfaces; opposite walls, two tree trunks, or facing supports of an arch or portcullis, for example. If the effect was to be mobile, then each priest became an endpoint (or an intermediate point, like a fence post) of the field of force. The distance between two adjacent sigils or priests was a maximum of, and once cast, could not be shortened or lengthened, forming a piecewise linear barrier.
+
+The shimmering, translucent field of force extended from the ground to a height of 10 ft (3.1 m) and made objects on the other side hazy and indistinct. Any creature that passed through the field had to overcome the magic of the spell or suffer a small amount of damage. The line of protection was more than doubly effective on evil creatures and the undead. Creatures could fly over, burrow under, go around, or even teleport through the barrier with no ill effect.
+
+If cast to be a movable barrier, the priests could move at half their normal rate and were forced to maintain the same distance apart as set at casting time. The field could not be bent and if any object greater than  in diameter blocked the line of sight between two adjacent priests, the spell was immediately broken.
+
+When cast in reverse, line of destruction functioned the same as above except paladins and good-aligned creatures took extra damage.
+
+Components
+In addition to verbal and somatic components, the priests casting the mobile version of this spell had to hold their staves, croziers, or religious standards vertically, forming an anchor or corner of the force field.
+
+Appendix
+References
+
+---
+
 ## List of sourcebooks in order of publication
 
 A list of  sourcebooks published in the Forgotten Realms setting.
@@ -3057,6 +4535,43 @@ Notes
 
 See Also
  Wyrms of the North
+
+References
+
+---
+
+## Life of Rebrum
+
+The Life of Rebrum was a bawdy autobiography of the life of the traveling merchant Rebrum of Sheirtalar. It was written around 1210 DR and was frequently copied.
+
+In it, among other things, Rebrum wrote of the "Eleave" trade-fair in Vaerndoun in the Underdark. Here, Rebrum mentioned a group of drow traders, sent by their matrons, who attempted to barter the Chanting Chain, a holy relic of Talos the Destroyer, to another group of drow from a distant city.
+
+Appendix
+References
+
+---
+
+## Liza
+
+Liza was a female human refugee in Fort Locke near the Mere of Dead Men on the Sword Coast North.
+
+History
+Liza was one of a group of people that traveled around the Mere of Dead Men in 1374 DR. They were attacked by bandits. She and others escaped, while the bandits took some people into their camp. She asked the Kalach-Cha to find those people and rescue them.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2
+
+References
+
+External links
+
+---
+
+## Lightal Barnshyn
+
+Lightal Barnshyn was a half-elf ranger in the city of Tantras in the Vast around 1367 DR. She was a caravan outfitter and a sponsor of caravans at Watchful Wheels Wagons & Gear. She was also an agent of the Harpers in the city.
 
 References
 
@@ -3488,6 +5003,604 @@ References
 
 ---
 
+## Lionshield Coster
+
+The Lionshield Coster, also called the Lionshields, was a merchant company based in the fortified city of Yartar, that operated throughout the greater Dessarin Valley during the 15 century DR.
+
+The merchant company's symbol was a image of a lion's head placed upon a wooden or metal shield. In some instances the lion was colored blue, while in others it was emblazoned over a blue background.
+
+Bases of Operation
+The merchant company were able to ship finished goods, such as supplies of armor and weapons, to small settlements and towns all throughout the northwestern region of Faerûn.
+
+One such settlement was the newly settled frontier town of Phandalin near the Triboar Trail and the Sword Mountains. The town's trading post was overseen by Linene Graywind. The organization also had a trading post in Nightstone, run by Darthag Ulgar, and a store called the Lion's Share in Triboar, managed by Narth Tezrin and Alaestra Ulgar.
+
+History
+Some time during the late 15 century, the trading post in Nightstone was sacked by a band of goblin led by Boss Hark after the town itself was devastated by a cloud giant.
+
+In the, incoming shipments to the Phandalin post were not received, indicating that bandit activity in the area had seized the goods. Linene Graywind mistakenly believed these raids were caused by the Redbrands bandits and refused to sell them weapons. The missing shipments were actually caused by goblins from the Cragmaw tribe.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Lost Mine of Phandelver • Storm King's Thunder • The Orrery of the Wanderer • Dragon of Icespire Peak • Storm Lord's Wrath
+References
+
+pt-br:Vendas Escudo Leonino
+
+---
+
+## List of sourcebooks in chronological order
+
+This is a list of all Forgotten Realms sourcebooks organized in chronological order.
+
+How the Mighty Are Fallen
+
+650 DR
+Cormanthyr: Empire of the Elves
+
+1335 DR
+Moonshae
+
+1340 DR
+Ruins of Adventure
+
+1357 DR
+Dreams of the Red Wizards
+Empires of the Sands
+
+Mirtul
+Waterdeep and the North
+
+Eleasias
+Old Empires
+
+Nightal
+Forgotten Realms Campaign Set (1st edition)
+
+1358 DR
+Hall of Heroes
+Forgotten Realms Adventures
+The Shining South
+
+Nightal
+The Savage Frontier
+
+1359 DR
+Halls of the High King
+The Bloodstone Lands
+The Great Glacier
+
+1360 DR
+Horde Campaign
+1363 DR
+
+ Hordes of Dragonspear
+
+1367 DR
+The Dalelands
+Arabian Adventures
+Land of Fate
+Monstrous Compendium Al-Qadim Appendix
+Golden Voyages
+City of Delights
+Assassin Mountain
+A Dozen and One Adventures
+Elves of Evermeet
+Secrets of the Lamp
+Ruined Kingdoms
+Cities of Bone
+Corsairs of the Great Sea
+Caravans
+The Complete Sha'ir's Handbook
+Reunion
+
+Nightal
+ Forgotten Realms Campaign Setting (2nd edition)
+ Forgotten Realms Campaign Setting (2nd edition) (revised)
+
+1370 DR
+Calimport
+Empires of the Shining Sea
+Lands of Intrigue (boxed set)
+The North: Guide to the Savage Frontier (boxed set)
+Skullport
+
+1372 DR
+City of the Spider Queen
+Lords of Darkness
+Monster Compendium: Monsters of Faerûn
+Silver Marches
+Unapproachable East
+
+Eleasias
+Forgotten Realms Campaign Setting (3rd edition)
+
+1373 DR
+Kythorn
+Player's Guide to Faerûn
+
+1374 DR
+Lost Empires of Faerûn
+Dragons of Faerûn
+
+1479 DR
+ Forgotten Realms Campaign Guide
+ Forgotten Realms Player's Guide
+ Neverwinter Campaign Setting
+
+1489 DR
+ Sword Coast Adventurer's Guide
+
+Appendix
+See Also
+ List of sourcebooks in order of publication
+
+Notes
+
+References
+
+---
+
+## Living idol
+
+Living idols were animated, semi-intelligent statues of stone, presumably created to serve as foci of ancient religions in Zakhara. Beyond this, they could be found in some areas of the Domains of Dread.
+
+As of 1367 DR, they were sometimes worshiped by small cults, who empowered the idols with sacrifices appropriate to the type of living idol. All living idols were considered opposed to Zakhara's predominant culture of Enlightenment.
+
+Combat
+Physically powerful, living idols could both take and deal a lot of damage by attacking with a stony appendage. They were immune to mundane and lowly enchanted weapons as well as many spells, while they are especially vulnerable against magic attacking stone. They possessed the ability to charm nearby creatures, and each variety had a different major magical power.
+
+Animal idol
+These most common of living idols were shaped like an animal, usually some kind of vermin (e.g., rat or scorpion). Given sacrifices of small valuables, these idols granted protection from the type of pest they depict to the worshiping community. Its major power supposedly also benefited its cultists, but was not known to outsiders.
+
+The Assad Head, found within the Assad Bazaar of Huzuz, was rumored to be an animal idol.
+
+Death idol
+These most feared and hated of living idols usually looked like some hideous monster or undead. They demanded human or demihuman as sacrifices from their followers, and protected them from aging in return. They also granted a powerful necromantic spell to the cult leader each week. Successful cults often attracted intelligent undead as members and leaders.
+
+Elemental idol
+These idols came in the shape of a man without a face. There were four different types of these promotors of chaos, air, earth, fire and water elemental idols, each demanding a different kind of sacrifice in return for protection against the ravages from their element. They were not evil, however, and only used their charm abilities against hostile persons. Their major power was the conjuration of a related elemental. Elemental mages viewed them as particular threats.
+
+Healing idol
+These benign idols were usually shaped either like the figure of a young girl or an aged man. As with their elemental counterparts, they only used their charm ability against hostiles. Their cults aimed for healing and positive development of their communities, and the idols provided protection from evil in the area surrounding them in exchange for sacrifices of beautiful objects or simply devoted words and prayers. Their major power were healing (for the female figures) or weather control (for male ones).
+
+Appendix
+Notes
+
+References
+
+---
+
+## Linal Alprin
+
+Linal Alprin was the harbormaster of the city of Tantras in the Vast during the Time of Troubles.
+
+History
+Alprin was a good man and an efficient city worker, married to Moira. However, in 1358, he sensed that something was bad in the high spheres of the city's council and the church of the god Torm beause one of his friends, who had asked too many questions, disappeared in the night. Alprin lived in fear that he would meet the same end.
+
+Later, Alprin met and befriend the hero Kelemvor Lyonsbane, just arrived in the city searching for the Tablets of Fate. He gave a lot of information to Kelemvor and hinted about his suspicions.
+
+When Kelemvor came back to his house, he found Alprin and his wife dead with their house in flames.
+
+Appendix
+
+Appearances
+Tantras
+
+References
+
+---
+
+## Lirdnolu Dhuurniv
+
+Lirdnolu Dhuurniv was a drow of House Dhuurniv involved in the Zhent invasion of Shadowdale in the Year of Risen Elfkin, 1375 DR.
+
+History
+Lirdnolu was the cleric commanding the drow guardposts under the Twisted Tower of Ashaba.
+
+Appendix
+References
+
+---
+
+## Lifeproof
+
+Lifeproof was a spell unique to Zakhara, the Land of Fate.
+
+Effects
+Lifeproof safely removed a vital portion of the target's life, even through solid objects. The removed essence was called the Shadow of the Heart and was placed within a glass container or crystal. The Shadow of the Heart appeared as a transparent image of the target's heart.
+
+The target was able to sustain nearly any form of physical damage as long as their Shadow of the Heart remained safely within the container. The target would even function normally beyond the point of "death" when their body would normally have given up. Severe damage made the target appear as one of the undead, but the target was able to heal from this damage over time. Severed limbs functioned normally and could be reattached.
+
+Though immune to physical and magical harm, the target was still vulnerable to magic such as the death spell. Poison and venom could also kill the target.
+
+The container holding the Shadow of the Heart needed to be within sight when the spell was cast. After a successful casting, the container could be removed to any distance from the target. If the container was destroyed, the target would instantly perish.
+
+The only way to cancel the effects of this spell was by using a wish or limited wish, or by casting the spell's reverse: revoke lifeproof.
+
+Components
+This spell required a transparent crystal or glass container to cast. The container needed to have a diameter of at least 1 foot (0.3 m).
+
+Appendix
+References
+
+---
+
+## Life water
+
+Life water was a spell used by wizards in Anauroch and Zakhara, the Land of Fate.
+
+Effects
+This wondrous spell transformed any liquid into a magical serum capable of healing wounds, curing blindness, disease, poison, rot, feeblemindedness, etc. Severed limbs could be regenerated after applying the liquid. This serum could not bring life back to a dead body and it could not revert a transformed creature back to its original form.
+
+A gallon (3.79 l) of this serum completely cured a man-sized creature. A water skin of this serum would cure only one ailment. The serum was applied to the skin and absorbed where its healing effects took place.
+
+Components
+This spell required any liquid to cast.
+
+Appendix
+References
+
+---
+
+## Lifesurge
+
+Lifesurge was a spell unique to Zakhara, the Land of Fate. This spell was primarily used by ghul lords.
+
+Effects
+Ghul lords could only cast this spell on a willing target, creating a negative energy field within the target that resulted in an increase of physical capabilities. The target gained more durability, mental acuity, and could even read spell scrolls that were previously beyond their comprehension.
+
+The target would be harmed by the negative energy leaving their body when the spell expired.
+
+Components
+This spell did not require physical components to cast.
+
+Appendix
+References
+
+---
+
+## Lich touch
+
+Lich touch was an arcane necromancy spell that temporarily granted the caster the power of a lich's chilling touch as well as immunity from most lich-like abilities and effects.
+
+Effects
+By means of this spell, a necromancer gained the painful paralyzing touch of a lich. Lich touch lasted for a number of minutes equal to the caster's level and could not be prematurely terminated. While this spell was active, the caster's hands glowed with an eerie greenish radiance, and anyone successfully touched by the caster was subject to the damage and paralysis inflicted by a true lich, unless they could resist the magic of this spell. If paralyzed, the victim remained immobile for up to eight hours, or until a sufficient dispel magic or remove paralysis was applied. The caster also gained immunity to all fear and paralysis spells and effects, including those of a lich, until the lich touch expired.
+
+Components
+In addition to verbal and somatic components, this spell required a material component in the form of a drop of the caster's blood and a sample of rancid meat or fish.
+
+History
+This spell was found in the tome "Studies in Death", written down by the lich Kyristan. It was later published in "Volo's Guide to All Things Magical" and became generally known to the magical community.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Lizel
+
+Lizel was a vendor employed by Master Velsin in Sundabar in 1373 DR.
+
+History
+In 1373 DR, Aliisza, while in disguise, saw Lizel treated rudely by Yrudis Gregan and somehow sensed that her father, a city guard, was killed some nights before by some tanarukk. Later in the House of the Triad, Tauran allowed Alissza inside Lizel's mind. She discovered that she was a follower of Ilmater and had two younger sisters, Kaiga and Sadil, who needed new clothes.
+
+Appendix
+
+Appearances
+Novels
+The Empyrean Odyssey:
+ The Gossamer Plain
+ the Fractured Sky (vision)
+
+References
+
+---
+
+## Lilit Pass
+
+Lilit Pass was the name of a narrow chasm in the Aphrunn Mountains. It led from the Halondar to Daroush.
+
+History
+In 145 DR, a small segment of the army of Dempster Turmish accidentally took Lilit Pass and ended up in Daroush. The confused troops captured the village with ease.
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Linan Swift
+
+Linan Swift was a human female commoner in the small town of Greenest, located in the Western Heartlands in west Faerûn.
+
+Personality
+As a mother, Linan would fight to the death to save her children and her husband.
+
+Possessions
+To protect her children, Swift was known to fight with a round shield and a worn spear.
+
+History
+Around 1489 DR during a battle with the Cult of the Dragon in the Tyranny of Dragons, Linan, her husband Cuth Swift, and their children were pursued by some kobolds until they were saved by some adventurers. After the fight, the commoners asked to be taken to the safety of the Keep.
+
+Appendix
+Appearances
+ Hoard of the Dragon Queen
+
+References
+
+---
+
+## Li Kao-teh
+
+Li Kao-teh was a Shou merchant who lived within the town of Ansi within the Quoya Desert during the mid–14 century DR.
+
+Activities
+Li owned a caravanserai where an assortment of regular goods could be acquired. He was an agent for Shou Lung and reported any suspicious activity back to his superiors in the Chukei province.
+
+Appendix
+References
+
+---
+
+## Liela
+
+Liela was a bureaucrat in Phlan in 1489 DR.
+
+Personality
+Liela's heart beat only for business. Everything in her office was placed to make her job more efficient. She spoke brusquely.
+
+History
+Liela was an employee of House Sokol at the administrative office that allowed access to Sokol Keep.
+
+Appendix
+Appearances
+ Secrets of Sokol Keep
+
+References
+
+---
+
+## Lilith (halfling)
+
+Lilith was a member of the Zhentarim in 1489 DR.
+
+Personality
+Lilith was a quick-witted individual who used humor to disarm others' mistrust.
+
+History
+In 1489 DR, Lilith was the Zhentarim delegate sent to help a hired adventuring party to defeat the great dragon Claugiyliamatar of Kryptgarden Forest. The Zhentarim's main objectives were to investigate some Red Wizards of Thay inside the new faction of the Cult of the Dragon, recover stolen cargo, and to stop a possible alliance of the fey lords of the forest with hobgoblins. Lilith revealed that a recently joined cultist, Yalek Snurd, was a Zhent spy.
+
+Appendix
+Appearances
+ Corruption in Kryptgarden
+
+References
+
+---
+
+## List of armor
+
+This is a list of armors that were non-magical and common in the Realms.
+
+For a collection of unique sets of armor and magical armors see :Category:Armor.
+
+List of armors
+
+Light Armor
+ Name Cost (gp) Weight (lb.) Source Page Mud armor  0  8  Races of Faerûn (2003) 157 Padded  5  10  Player's Handbook (2003) 123 Leather  10  15  Player's Handbook (2003) 123 Studded leather  25  20  Player's Handbook (2003) 123 Chitine web  75  10  Underdark (2003) 66 Sharkskin armor  85  15  Races of Faerûn (2003) 157 Chain shirt  100  25  Player's Handbook (2003) 123 Chameleon leather  360  15  Serpent Kingdoms (2004) 148 Spidersilk  750  10  Underdark (2003) 66 Nightscale  1,000  3  Underdark (2003) 66
+
+Medium Armor
+ Name Cost (gp) Weight (lb.) Source Page Hide  15  25  Player's Handbook (2003) 123 Thunderhide armor  25  25  Serpent Kingdoms (2004) 148 Scale mail  50  30  Player's Handbook (2003) 123 Chitin armor  75  20  Races of Faerûn (2003) 157 LamellarThe price and weights in for this item are based on 2nd Edition Dungeons and Dragons.  100  30  Arabian Adventures (1992) 92 Chainmail  150  40  Player's Handbook (2003) 123 Breastplate  200  30  Player's Handbook (2003) 123 Tentacled hide  315  30  Underdark (2003) 66 Serpentscale mail  800  25  Serpent Kingdoms (2004) 148
+
+Heavy Armor
+ Name Cost (gp) Weight (lb.) Source Page Ring mail  30  40  Player's Handbook 5th edition (2014) 145 Stonemail  180  35  Underdark (2003) 66 Splint mail  200  45  Player's Handbook (2003) 123 Banded mail  250  35  Player's Handbook (2003) 123 Half-plate  600  50  Player's Handbook (2003) 123 Full plate  1,500  50  Player's Handbook (2003) 123 Dendritic crystal  2,000  60  Races of Faerûn (2003) 157 Heavy plate  2,000  100  Underdark (2003) 66 Feeler plate  2,500 65  Underdark (2003) 66
+
+Appendix
+Notes
+
+---
+
+## Little Erik
+
+Little Erik was a bandit thug in the Moonsea in 1489 DR.
+
+Personality
+Erik believed that a hag had cursed him and he would die when he heard a screeching cry. Thus tis sound often paralyzed him fear.
+
+History
+Little Erik was one of the two lieutenants of the Gray Patriots bandit group under Sahnd Krulek. During a meeting with another bandit group, the Claws of Tiamat, an adventuring party hired to clean the Iron Route of outlaws caused havoc and in fighting Little Erik was killed.
+
+Appendix
+Appearances
+ Outlaws of the Iron Route
+
+References
+
+---
+
+## Liticia Gos
+
+Liticia Gos was a girl in Mulmaster in 1491 DR.
+
+Personality
+Liticia was a very naive girl. She loved the greatest, newest thing and believed that "newer" was always a synonym for "better". She had a bad relationship with her older brother Garwyl Gos.
+
+Relationships
+Liticia was the daughter of Lord Ninyon Gos and sister of Garwyl Gos and mad Andrik Gos.
+
+She spent most of her time with her two best friends, Stefan Rowick and Rahaiel Kakulska. Liticia also often stayed with other noble scions: Elred Korsinchev and Orym Illustriana.
+
+History
+With her noble friends, she spent time first with the Theorists, and later fell under the control of Thylius Caramitru and the Yellow Breath philosophy. She ran away from home to live in the Yellow Breath Chapter House, where she became Thylius's first disciple. At last, she was found and subdued by an adventuring party hired by her brother.
+
+Appendix
+Appearances
+ Breath of the Yellow Rose
+
+References
+
+---
+
+## Lilinuk
+
+Lilinuk was the largest settlement on the Great Glacier.
+
+Geography
+Lilinuk was located on a plateau south of the Nakalpgotak Sea, about 150 feet (46 meters) above the shore, and west of the Novularond mountains.
+
+Description
+Access to the village was afforded by a series of ramps of ice that spiraled up to the top of the plateau on which the village was built. North of the plateau, at the shore of the sea within a bay, the village maintained a small fleet of kayaks and larger umiaks. Pens made of ice blocks held herds of caribou and muskoxen for food.
+
+Everything in Lilinuk was meticulously kept in good condition. Even snowhouses were rebuilt every year. The villagers stored a year's worth of food in pits in the ice. Even the dogs and kupuk lived in relative luxury, having their own snowhouses, called jititip, in which to live.
+
+The center of the village was a large area with space dedicated for the yearly sukkiruchit festival. It included five communal feasting houses (quaggi) and a large two-domed rewqugi, where visitors could warm themselves by fire.
+
+Government
+Like most large Iulutiun villages, Lilinuk was advised by a village council, or iquemelum.
+
+Trade
+Lilinuk was famous for the quality of its clothing, kayaks, and dog sleds, and its people were excited to trade. It was also one of the two settlements—the other being Jukum—where the annual sukkiruchit trade fair took place. This festival attracted craftsmen and hunters from all over Alpuk. A typical sukkiruchit would gather over a thousand attendees.
+
+History
+In the Year of the Great Flood, year 1790 of the Ulutiun calendar, which corresponds to, a warm summer caused the water levels of the Nakalpgotak Sea to rise, flooding the villages around its shoreline.  Lilinuk, however, was spared, since it was built atop the high plateau.
+
+Around, a group of citizens of Lilinuk were exiled for plotting to murder the iquemelum. These exiles joined together with similarly banished Angulutiuns from the east and formed the village of Eghagu.
+
+Rumors & Legends
+Around, hunters from Lilinuk discovered the journal of an explorer whose body had been magically turned to ice. The journal described a hidden castle within Mount Okk in the Lugsaas Chain. This castle was supposedly the headquarters of a cabal of evil wizards from Vaasa who were trying to develop new spells of great power and failed.
+
+Inhabitants
+Lilinuk had a population of about one and a half thousand in . Its people were hard-working and perhaps the most industrious people of the Great Glacier.
+
+Luftuk was the shrewdest trader of the village, and in, he was the one responsible for organizing the sukkiruchit.
+
+References
+
+---
+
+## Little Wing
+
+Little Wing was an assassin member of the Cult of the Howling Hatred in the Moonsea.
+
+Personality
+Little Wing was a merciless servant of the Prince of Evil Aerial Creatures. He delighted in taunting his enemies during combat. In his madness, Little Wing believed that he hosted inside himself the spirit of a great roc so that it may continue its hunt.
+
+History
+Once in Kara-Tur, Little Wing was one of a shogun's deadliest ninja assassins. All changed when a giant roc ate him whole, and then died with him trapped inside its gut. When Little Wing believed he would die, Yan-C-Bin appeared in front of him and offered a warlock's pact. Thus he survived and became the leader of the assassins of the Cult of the Howling Hatred.
+
+In 1491 DR, after many schemes in Mulmaster were ruined, the high leaders of the cult decided to send Little Wing and his assassins to wipe out Aleksi Drejkov's cell. He first killed Niko Sevek. Afterward, he murdered the Cloak Zel Tregarthen, who was close to discovering the cell. The City Watch falsely accused an adventuring party—who at that time were being interrogated by Zel—of committing the crime.
+
+Next, Little Wing sent his men to burn Dreikov's mansion. Aleksi managed to escape in time but was confronted by the adventurers who'd been blamed for the cultists's assassination. At last, the adventurers found and defeated him.
+
+Appendix
+Appearances
+ Cloaks and Shadows
+
+References
+
+---
+
+## Lions' Dynasty
+
+The Lions' Dynasty was one of the ruling dynasties of Tethyr. It was largely to blame for the political instability and chaos leading up to the Tethyrian Interregnum period.
+
+Dynastic Seal
+The symbol and name of the dynasty derive from a tale told in which Prince Nearel used a magic horn to summon a pack of sea cats, or "sea lions", to defend against a band of assassins that where pursuing him.
+
+History
+The dynasty was established in 959 DR by Mhoaran the Tusk-Bearded, when he took the throne from King Teremir I of the Bormul Dynasty by force.
+
+Mhoaran was succeeded by his seventeenth son Nearel, and afterwards by Kortal, Haedrak I, Coram I, and Coram II.
+
+The line of rule was briefly interrupted in 1070 DR, when Teremir II of the Bormul Dynasty slew Coram II in a duel and briefly reestablished the Bormul's on the throne. When Alemander I killed Teremir II the next year, power returned to the Lions' Dynasty.
+
+In 1145 DR, Coram III, Alemander's great-grandson, officially changed the family's name from "House of Ithal-Strohm-Bormul" to simply "House Tethyr".
+
+Alemander II and Coram IV followed in line. Then, Kymer, an illegitimate half-elf son of Alemander II, usurped the throne, killing Coram and his family. One of Coram IV's sons, however, escaped death. The "Corsair Prince", Haedrak II, spent five years building an army and finally retook the throne from his uncle in 1227 DR, killing him in a duel.
+
+During the year 1274 DR, in an event known as the Kinslayings, seven royal princesses of House Tethyr were assassinated in Waterdeep. Upon hearing the news, King Haedrak died, leaving his third son Errilam I to take the crown. Errilam himself died in a hunting accident only a few years later in 1277 DR, and many humans of Tethyr blamed the elves for his death. This lead to a persecution of elves. Alemander III, Errilam's nephew, became the next king, since Errilam had no surviving heirs.
+
+In 1288 DR, the daughter of Errilam's surviving sister was also assassinated in Waterdeep. The so-called "Waterdeep Curse" continued as the next king, Jaszur, who was Haedrak II's grand-nephew, was slaughtered on a return trip to Tethyr from Waterdeep after having eased the tensions between the two lands.
+
+Olosar, Jaszur's twin, and Alemander IV followed in the line of succession. Alemander had two sons, Alemander V by his first wife, and secretly Haedrak III by his second.
+
+Alemander IV was a harsh ruler not well-liked by his people, and he had a strained relationship with his first son Alemander V. Alemander V joined with some of the lesser nobles of Tethyr and plotted a coup to gain power from his father. The plan did not go as planned, as the royal palace, Castle Tethyr, was burned to the ground, killing not only the king but also the queen, Alemander V, and their whole family. This event triggered the Ten Black Days of Eleint and ended the dynasty in 1347 DR.
+
+Family Tree
+
+Appendix
+References
+
+Connections
+
+---
+
+## Lights in the Dark
+
+Lights in the Dark was a shop located in the Grand Bazaar of Huzuz in 1367 DR.
+
+Description
+Located on the edge of the bazaar, this shop was easily noticed due to the variety of colored lanterns that were lit every day at dusk.
+
+Activities
+This shop sold lanterns and lamps. Their specialty revolved around illumination devices that gave off different colors. Red and blues were recommended to enhance romance, business transactions required yellow or white, green for religious events, and either purple or mauve for meals.
+
+Inhabitants
+Korat Minial owned and operated this establishment.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Lion's Shrine
+
+The Lion's Shrine was a mosque dedicated to Hajama that was located in the great fortress of Sarahin.
+
+Location
+The Lion's Shrine was located deep within the Haunted Lands of Zakhara in Sarahin.
+
+Description
+This mosque of Hajama, and the surrounding minarets, were decorated with beautiful green tile.
+
+A pair of griffon statues sat on either side of the main stair leading to the shrine's entrance. Farouk Abd al-Bazan stored his gritty phoenix powder poison within a hidden compartment located under the wing of the northernmost statue. While invisible, he checked on his cache daily to make sure it was secure.
+
+A lion pit housing a grown lioness stood in the courtyard of the mosque. The pit was the site of the Lion's Mouth, a test of courage for holy slayers.
+
+The main altar of the mosque held the Heart of the Lion, the most cherished relic of the Everlasting.
+
+Activities
+Daily prayers were held at the Lion's Shrine. The sacred texts of Hajama were stored within, but only the most devout of holy slayers were allowed to enter. Guards from the Courageous were stationed at the entrance at all times to prevent intruders.
+
+Appendix
+References
+
+---
+
+## Lion's Mouth
+
+The Lion's Mouth was a secret ritual held in the Lion's Shrine of the fortress of Sarahin.
+
+History
+Holy slayers of the Everlasting undertook this ritual to prove their courage to their superiors. The ritual occurred in a pit housing a fully-grown lioness, though the exact nature and events of the ritual were a secret.
+
+Appendix
+References
+
+---
+
 ## List of novels in order of publication
 
 A list of all novels, novellas, and anthologies set in the Forgotten Realms, sorted by order of publication. There are 299 listed publications (October 2024).
@@ -3513,6 +5626,625 @@ Notes
 
 ---
 
+## Lilanth Slytongue
+
+Lilanth Slytongue was a wizard shopkeeper in Skullport in 1370 DR.
+
+History
+Lilanth managed a kind of bookstore with an army of cats. Most of her money she gained, however, through selling inks, quills, and parchments.
+
+Appendix
+
+References
+
+---
+
+## Liset Cheldar
+
+Liset Cheldar was an innkeeper in Neverwinter.
+
+Relationships
+Liset claimed to be a descendant of Ophala Cheldarstorn.
+
+Description
+As of 1479 DR, Liset was a middle-aged woman.
+
+Personality
+Liset tried to really care for her guests. She was friendly and liked to flirt with men who caught her fancy.
+
+Activities
+Liset was one of the few survivors of the eruption of Mount Hotenow. She fled the city after the destruction of Neverwinter.
+
+Some time before 1479 DR, Liset approached Lord Dagult Neverember, and convinced him to allow her to reclaim her inheritance, the Moonstone Mask inn in the Protector's Enclave. She also convinced him to sponsor the re-opening of the inn.
+
+As of 1479 DR, she was pretty popular among the Mintarn mercenaries hired by Lord Neverember.
+
+Rumors
+Some believed Liset had seduced Neverember to convince him to help her reclaim and re-open the Mask.
+
+Some also believed Liset was working for sinister forces, either on her own free will or that she was being forced to do so, and that her friendly face was just a facade. However, the people who believed those rumors were unsure about the identity of the force behind Liset: some pointed to the Thayans or the Netherese, while others believed she was a thrall of the Abolethic Sovereignty.
+
+Appendix
+Games
+Neverwinter (game)
+References
+
+---
+
+## Lissa
+
+Lissa was a cleric of Lathander at the Temple of the Morninglord in Elturel and at the Lathanderite temple in Ankhapur in the mid–14 century DR. She became an ally of Pinch.
+
+Personality
+Lissa was a good person but very gullible.
+
+History
+In the, while at the Temple of the Morninglord in Elturel, she was tasked with the mission of recovering a recently stolen artifact, the amulet of the Dawnbreaker. Lissa followed clues of the thief to Ankhapur, where Pinch convinced her that not only had he taken it from other thieves, but also deserved a reward, and even should hang on to it for safekeeping. Lissa was decisive in the defeat of the lich Manferic III, thanks to her powers.
+
+Appendix
+
+Appearances
+ King Pinch
+
+References
+
+---
+
+## Library of Linguistic Wisdom
+
+The Library of Linguistic Widsom was located in the Potala in Saikhoi.
+
+History
+All of the volumes found within this library were related to languages.
+
+Appendix
+References
+
+---
+
+## Limbrar
+
+Limbrar was a monk of Ilmater who served as one of leaders of the Knights of Imphras II as well as a member of the Lords of Imphras II during the 14 century DR.
+
+History
+For many years, Limbrar and his fellow lords Helimbraun and Oriseus formed a strong triumvirate, often agreeing and deciding upon what they felt was best for the nation.
+
+However, as Lord Helimbraun became more zealous and fervent in his quest to "root out evil" from Impiltur, especially after the coronation of King Imbrar II, Limbrar became the most outspoken opponent of his friend and colleague.
+
+Appendix
+
+References
+
+---
+
+## Light of the Morning Star
+
+Light of the Morning Star was a unicorn ranger of Lurue and one of the leaders of the Fangshields.
+
+Appendix
+
+References
+
+---
+
+## Lidahan
+
+Lidahan was a language spoken by the inhabitants of the jungles and valleys of the Shao Mountains of southwestern Kara-Tur. The nine largest valleys each had their own dialect, the most sophisticated and developed of which was that of the Mahasiswa people of the Kesasar Valley.
+
+Appendix
+See Also
+ Lidahan dictionary
+Notes
+Ronin Challenge provides a list of common Lidahan words, but these are all taken from Indonesian.
+
+In "Kara-Tur: Ancestor Feats and Martial Arts Styles" in Dragon #315, the Bavanese and Bertanese languages are also suggested to be based on Indonesian (or Filipino), suggesting a possible, hypothetical connection between them.
+
+References
+
+Connections
+
+---
+
+## Ling Li Te Hsin
+
+Ling Li Te Hsin was a famous martial artist of Shou Lung in 1357 DR.
+
+Activities
+Ling Li worked as a cartographer for the Ministry of Public Works in Kuo Te' Shou. He was also the master of the Iron Hand School, where he taught his personal style of martial art, assisted by his numerous relatives and disciples. Ling Li accepted only students who had previously mastered another form of kung fu and his training was very hard in order to made the body as hard as iron. Despite this, fighting was consider the last resort for Ling Li, as martial arts were a way of personal betterment.
+
+Appendix
+References
+
+---
+
+## Lin Kwan Shu
+
+Lin Kwan Shu  was a famous female martial artist of Shou Lung in 1357 DR.
+
+Activities
+Lin Kwan Shu was a woman living in the city of Ping Chow in Wang Kuo province. She was the master of the Five Stars School, which she taught in the back of a bathhouse. Her style of martial art was very adaptable for young women and was based on five styles of movements. Lin Kwan Shu accepted only students who were brought in by a previous high-level student. The final test of a Five Star student was incredibly simple in theory: they only needed to pluck a shiny blue stone from the Master's open palm. Very few passed the exam.
+
+Description
+Lin Kwan Shu was a slender woman with startling blue eyes, a trait inherited from an ancestor from Faerûn.
+
+Appendix
+
+References
+
+---
+
+## Liu-hsia Chih
+
+Liu-hsia Chih was a wu jen leader of the Many-Hued Peacock Society in Nakamaru around 1357 DR.
+
+Activities
+He led the sixteen members of the Many-Hued Peacock Society in Nakamaru. Liu-hsia Chih was gathering forces in Nakamaru, awaiting the day when the society could operate in the light. The Society revived, fostered, and promoted old alliances with the ruling families of the province. Liu-hsia disguised the Society's meetings as a literary club studying the classics of Shou Lung. He had made contact with the Black Mist yakuza gang.
+
+History
+Liu-hsia Chih was one of the founders of the Many-Hued Peacock Society in 857 DR and remained as one of the members of the Inner Council of the Society. In 900 DR, he first fought against Gorath, the hidden leader of Shou Lung's Royal Vagabonds. From that time, Liu-hsia had destroyed many of Gorath's plots, some against the Society by the emperor's command but others more sinister.
+
+At the celebration of the birth of Goshukara Sadamoto's third son, Liu-hsia Chih sensed something strange coming from the merchant Yin-kung T'o (in truth, Gorath in disguise). Afterward, he sent Nan-kuo and Yench'eng Tzu Yu to read the aura of Yin-kung T'o but they noticing nothing untoward. That night, Yin-kung and Gorath led an attack on the Many-Hued Peacock Society's headquarters in Nakamaru. Liu-hsia and Gorath fought and disappeared in a huge blast.
+
+Personality
+Liu-hsia Chih was a formidable plotter and schemer with extraordinary patience and capacity for trickery. He hated his adversary and rival Gorath.
+
+Appendix
+References
+
+---
+
+## Lin Goh
+
+Lin Goh was the clanmaster of the Panthers of Xi ninja clan in Xi, Koryo, around 1357 DR.
+
+Lin Goh was the wielder of the black kumade, an enchanted javelin.
+
+References
+
+---
+
+## Li Koi
+
+Li Koi was a librarian in Kesasar Valley in Shou Lung.
+
+Activities
+Li Koi was the head librarian of the legendary Great Library of Perpustakaan. He checked that visitors followed all the rules of the library. He asked all visitors to help fund repairs to the library.
+
+Appendix
+References
+
+---
+
+## Li Kit Su
+
+Li Kit Su was an old shen lung living near the town of Aru in Wa.
+
+Lair
+Li Kit Su lived for more than a millennium in the Yama-san river, spending most of her time sleeping.
+
+History
+In 1358 DR, Li Kit Su's sleep was disturbed by a dam built by the daimyo Benju Matsutomo.
+
+Appendix
+References
+
+---
+
+## Lieko
+
+A lieko was a gold coin minted and used as currency in the kingdom of Ulgarth in southeast Faerûn around 1367 DR.
+
+Very much like the standard gold piece, liekos bore images of King Caladorn the Wise (the front) and a mounted knight (the back).
+
+Appendix
+See also
+ Currency
+
+References
+
+---
+
+## Liquid earth
+
+Liquid earth was a spell used commonly in Zakhara, the Land of Fate. This spell was only usable by wizards.
+
+Effects
+This spell turned a hemisphere of any earth-like substance into a thick fog. Any creature that was not a native of the Elemental Plane of Earth could move through this fog as if moving through water. The spell also allowed creatures passing through the fog to breathe normally. It should be noted that this spell did not create any light, so if cast deep underground, the fog area would be utterly dark unless an additional light source was provided.
+
+The hemisphere created by this spell had a 15 foot (4.5 m) radius. It lasted several hours depending on the skill of the caster.
+
+Components
+In addition to verbal components, this spell required a bent tube of nickel that was worth 100 gold to cast.
+
+Appendix
+References
+
+---
+
+## Lithocentric pendulum
+
+Lithocentric pendulums were simple magic items used to navigate on the Elemental Plane of Earth.
+
+Description
+This device was a simple string with a stone attached to one end.
+
+Powers
+When held and spun while on the Elemental Plane of Earth, this item would move briefly before pointing in the direction of the Sevenfold Mazework. This item was useless while within the Sevenfold Mazework or on any other plane of existence.
+
+Appendix
+References
+
+---
+
+## Little Fox
+
+The Little Fox was a yak folk fighter and the youngest member of the Seven Sages inhabiting the World Pillar Mountains in 1367 DR.
+
+Activities
+Little Fox was appointed to govern the Ghost Leopard province in the northwest region of the Yikarian Empire. Her close ties with a multitude of marrashi eyries allowed her to easily monitor all traffic through the foothills of the River Ruin.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Liam Sunmist
+
+Dawnbringer Liam Sunmist was a cleric of Lathander in Daggerford around 1370 DR.
+
+Description
+When at Morninglow Tower, Liam wore his polished golden armor that dazzled, reflected light off it.
+
+Personality
+Liam Sunmist was eager to help the members of his temple, as well as adventurers in need of healing. He often was preoccupied by other people's problems and sought to aid them or at least sought to find a capable adventure to resolve the strife.
+
+Liam held the unshakable conviction that Lathander being blamed for the Dawn Cataclysm was nothing but slander from the "lesser gods" and their followers.
+
+Activities
+Liam managed the biggest religious center of the duchy, the Moonglow Tower, and was directly supported by the duke. Liam was the only priest in the duchy capable of casting a raise dead spell. He wanted no money for that service, but elite citizens such as the duke and his family received a higher priority.
+
+Relationships
+Liam Sunmist was worried about the young lady that could be found wandering the streets of Daggerford late at night circa 1372 DR. Liam thought Lula Redcap to be a naive woman who unhealthily romanticized vampirism and was seduced by its mystique.
+
+History
+In 1372 DR, Liam Sunmist was gravely worried about the recent plague that broke out to the south of Daggerford, in Gillian's Hill, among the farming folk of the region, burning through them at an alarming rate. The affected suffered from a short period of insomnia that caused the fatigue and resulted in high fever, sweating, and delusions. These unpleasant symptoms resulted in the death of everyone infected. Liam theorized that this was an outbreak of vampirism as the graves of those who passed from the disease were exhumed a few days after the funeral. Liam Sunmist was bound to his temple by his duties, but he pleaded for aid with the adventurers who later would be known as the heroes of Daggerford. He recommended seeking out an old healer named Mabda in Gillian's Hill, who could tell them more on the strange epidemic.
+
+The Hero of Daggerford discovered that vampires had nothing to do with the plague, which seemed to be a quite mundane sickness to be handled by healers and clerics. The disappearing bodies were blamed on the local myth of Gothma, a giant vampire bat. In reality, a necromancer named Daxiong was stealing the bodies of recently dead victims of the sickness and performed unholy experiments on them. Even though the resolution accounts varied (some claimed that the Hero killed the necromancer, while others said Daxiong was convinced to leave), Liam was thankful. The Dawnbringer bestowed the title of the "Favored of Lathander" onto the Hero and presented amulet of the Morninglord as the reward.
+
+His home in Daggerford was located along Tymora Alley near the Harvest House.
+
+Rumors and Legends
+ It was a common rumor in Daggerford that Liam Sunmist harbored a crush on Maerovyna, the druid of Chauntea's shrine.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+References
+
+---
+
+## Lipo
+
+Lipo was a yikarian city located along the coast of Pearl Bay near the edge of Zakhara's northern border in 1367 DR.
+
+Inhabitants
+Lipo was the seat of power for the Coral Princess, the yikarian governor of the Sun's Eye province. The city received many pilgrims eager to commune with the Faceless God at the Shrine of the Jade Monolith, or at least to have a yak-men intercede on their behalf.
+
+Activities
+Given Lipo's distance from the heart of the Yikarian Empire, and their closer proximity to other cultures, the yak-folk of Lipo were not viewed with as much disdain as their mountainous brethren. Because of this, Lipo was able to trade freely with barbarians from the north and other traders sailing the Great Sea.
+
+Lipo also served as the only naval base for the Empire, docking just five ships. Despite its size, the yikarian navy was quite powerful. They patrolled the coastal waters for smugglers and transported their kin to the barbarian lands to the north, as well as to secret locations along the coast of the Free Cities of Zakhara and as far south as Qudra.
+
+Notable Locations
+ Shrine of the Jade Monolith
+
+Appendix
+Notes
+
+References
+
+---
+
+## Light domain
+
+The Light domain was a divine domain which granted a set of spells by deities whose portfolio included the aspect of light. Clerics who chose this domain were granted free access to these spells (they could cast them at any time without having to prepare them in advance).
+
+Deities
+
+Spells
+Novice Light domain clerics could cast light, burning hands, faerie fire, flaming sphere, and scorching ray. Experienced casters could cast daylight, fireball, guardian of faith, and wall of fire. The most powerful of these clerics were able to cast the mighty flame strike, and gain the ability to scry.
+
+Powers
+Light domain clerics gained access to the channel divinity power known as radiance of the dawn. They also possessed the ability to cause blinding light to flash before nearby attackers, making them less likely to hit their targets. Some clerics could even emit an aura of sunlight that caused enemies caught in it to become more susceptible to the damage of their spells.
+
+Appendix
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Lifferlas
+
+Lifferlas was an awakened tree in Goldenfields sometime after the War of the Silver Marches.
+
+History
+A druid of the Emerald Enclave gave life to Lifferlas. In time, he entertained children with tales of heroes and legends about gods.
+
+In the late 1480s or early 1490s DR, he was the oldest living sentient being in the place. He was in the town when giants attacked the city.
+
+Personality
+He loved children and was truly happy when they carved their names into his body or hung from his boughs.
+
+Appendix
+Appearances
+ In Storm King's Thunder, Lifferlas was one of the special NPCs that could be played by the players during the campaign's arc in Goldenfields.
+
+References
+
+---
+
+## Living Gate
+
+The Living Gate was a portal that connected the multiverse with the Far Realm.
+
+ Description
+The Living Gate was a tiny portal so small that its diameter was measured in eyelashes. It was made of a fleshy red crystalline substance, and seeped an oozing substance that transformed the surrounding world into a nightmare.
+
+Location
+The Living Gate was originally located in the Astral Plane during the ancient times before the Dawn War. However, after its destruction, fragments of the gate scattered across the multiverse. In the late 15 century DR, the gate was located in the Feydark, beneath the ruined city of Cendriane.
+
+Abilities
+Even when usually the Living Gate connected the multiverse with the Far Realm, the gate could also connect with any other place of the multiverse if ritually tuned to do so. Even a small fragment of it could thin the barriers between the worlds of the Prime Material plane.
+
+History
+Ancient History
+In the time before the Dawn War, the Living Gate was hidden in the depths of the Astral Plane, being watched over by a being that was neither a god or a primordial, but kin to both. The Oerthian deities Pelor and Tharizdun, as well as the Nerathian deity Ioun, discovered the gate and peered through it, while it's guardian was sleeping, learning terrible secrets that changed them forever. They left the gate alone, promising never to return.
+
+However, while the Dawn War was raging, Tharizdun returned, killed its guardian and opened the gate, releasing corruptive energy from the Far Realm into the multiverse, which in turn led to the formation of psionic power. Some time later, Pelor and Ioun managed to seal the barrier once again by destroying the Living Gate.
+
+At some point in the ancient past of the Feywild, the Living Gate appeared in that plane but was sealed, and the seal was protected by eladrin knights appointed by Queen Titania for the task.
+
+Modern History
+At some point in the past, a group of worshipers of Tharizdun managed to retrieve a shard of the Living Gate in the world of Nerath, and took it to Pandemonium, in an attempt to release their dark god from his ancient prison. They transformed the fragment into a Vast Gate, but the ritual was interrupted by a group of Nerathian heroes, among them the deva Demascus, who managed to destroy the Vast Gate, but not before they could unleash the Abyssal plague throughout the multiverse.
+
+Some time after the Spellplague, Soveliss, nephew of Queen Titania and leader of the eladrin wardens of the Living Gate in the Feywild, destroyed the seal for unknown reasons, releasing the horrors of the Far Realm into the world. The half-orc druid Haggar and his wife, the shiere knight eladrin Astriana, were able to re-seal the gate, but most of the guards of the Living Gate were destroyed in the attempt.
+
+In the late years of the 15 century DR, a fragment of the Living Gate has held by Zaltys Serrat in the form of an arrowhead. Zaltys believed the artifact to be a weapon against aberrations. The arrowhead was eventually used by Iraska to open a portal to the Far Realm in the Underdark, but Iraska, the portal and the fragment were destroyed by the sacrifice of Zaltys' bodyguard, Krailash.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Liongirt Tower
+
+Liongirt Tower was the home of Onsilur Maerdrathom, a Magister during the 4th century DR.
+
+Location
+The tower was located in the capital of Lapaliiya, Sheirtalar.
+
+Description
+Walled gardens surrounded the tower. Hungry lions prowled the gardens at all times.
+
+Defenses
+Liongirt Tower was guarded by many magical wards, as dozens of unfortunate wizards discovered when they tried to raid the tower after Onsilur's disappearance. Hidden teleport links and random spell-triggers were scattered throughout the tower. The entire tower actually crumbled when the central library was finally breached.
+
+Appendix
+References
+
+---
+
+## Little Stone Bridge
+
+The Little Stone Bridge was found just outside of the city of Manass in Khazari.
+
+Description
+The bridge straddled a small river that flowed by Manass on the south and west sides of the city, allowing road access to Manass from the west.
+
+Rumors & Legends
+Natives of Manass believed that a powerful oni used to live beneath the bridge. The oni would attack any travelers crossing the bridge during the cover of darkness. Tsikapasmatra was believed to have defeated the oni in combat. The oni's treasure was rumored to be buried somewhere near the bridge, but was never discovered. However, this did not stop the locals of Manass from selling treasure maps for the area.
+
+Appendix
+References
+
+---
+
+## Litchi fruit
+
+Litchi was an exotic fruit from Shou Lung.
+
+Description
+The unusual fruit was very sweet and tender and was usually served in the courts of Shou Lung.
+
+Availability
+Beyond Shou Lung itself, places in the Realms where one could find litchi included the following:
+ Aurora's Whole Realms Catalogue sold litchi in both a dried form, resembling Imnescarian dates, and preserved in syrup, in order to retain some of its fresh properties.
+ In Xiousing, a small Shou district in the city of Marsember, litchi was grown by Shen's Herb Garden under the name wolfberry.
+
+Usages
+ Some used litchi in the making of incense.
+ Some were known to cultivate litchi for medicinal purposes.
+ Litchi could be used to make tea.
+
+Appendix
+External Links
+
+References
+
+---
+
+## Lissa (Red Plumes)
+
+Lissa was a member of the Red Plumes in the Moonsea in the late 15 century DR.
+
+Activities
+Lissa was one of the soldiers assigned to the garrison in the Waydown. Secretly, she was also an agent of the Lords' Alliance.
+
+History
+Circa 1486 DR, a wizard named Olon disappeared inside the Waydown and the Lords' Alliance asked Lissa to investigate. Possibly, she gained the help of an adventuring party in disguise hired by Felratha and Arrizz.
+
+In the end, the adventurers discovered that Olon had been killed by some albino giant octopuses.
+
+Appendix
+
+Appearances
+Organized Play & Licensed Adventures
+The Waydown
+
+References
+
+---
+
+## Liar's Dice
+
+Liar's Dice was a popular gambling game in Harglast, one of the Windrise Ports of Laerakond.
+
+Background
+Liar's Dice was a very random game. It involved the gamblers rolling five dice in a cup and then covering the results with it. Each player then peeked under their cup at the dice roll they had received and bet against other players based on what they had rolled. Winning the game was largely dependent upon the gamblers bidding on the dice under their cup, bluffing, and reading the "tells" of others at the table.
+
+Appendix
+
+References
+
+---
+
+## Lisstra
+
+Lisstra was a hunter and treasure hunter in the Moonwood.
+
+Personality
+Lisstra was a reserved individual, partially because of her poor knowledge of the Common language.
+
+History
+In 1484 DR, Lisstra and her companions Dran and Garn followed Karrik to explore the ruins of Methegrist.
+
+Appendix
+Appearances
+ War of Everlasting Darkness
+
+References
+
+---
+
+## Livia
+
+Livia was an orphan girl who grew up under Tavis Burdun's care at the Weary Giant in Stagwick. After Avner, she was the second-oldest at the orphanage.
+
+Appendix
+Appearances
+ The Ogre's Pact
+
+References
+
+---
+
+## Livikus Arthantar
+
+Livikus Arthantar was a cleric of Bane and member of the Zhentarim in the early 1370s DR.
+
+History
+In 1374 DR, Livikus and his bodyguard Xeldar Orsalyn were sent by his masters to the Xûl-Jarak citadel in Thar to pay homage to the new orog warlord Thrull. In truth, his mission was to determine if Thrull could truly unite all Thar and ally with Zhentil Keep in an attack on Melvaunt.
+
+Personality
+Livikus truly believed in the possibility that Zhentil Keep would rule all of north Faerûn.
+
+Appendix
+
+References
+
+---
+
+## Liren Talis
+
+Liren Talis was an aged cleric of Azuth who lived in Mulmaster in 1373 DR.
+
+Activities
+Liren maintained the local Temple of Azuth in the city. This was a popular site considering that the worship of Mystra was prohibited in the city.
+
+Appendix
+
+References
+
+---
+
+## Li Dawchyuan
+
+Li Dawchyuan was a Shou priest living in Manass in 1357 DR.
+
+Activities
+Li managed the Temple of the Nine Travelers.
+
+History
+Originally from Shou Lung, Li settled in Khazari after leaving his home.
+
+Appendix
+References
+
+---
+
+## Lindelsan
+
+Lindelsan was the owner of The Black Boot, a popular tavern in Tarmalune as of 1479 DR.
+
+Description
+Lindelsan was a bald human male.
+
+Background
+Lindelsan homebrewed beer was very popular in Tarmalune in 1479 DR.
+
+References
+
+---
+
+## Lilac Rattleflutz
+
+Lilac Rattleflutz was a member of a cell of the Cult of Reborn Flame that operated out of Tarmalune in 1480 DR.
+
+Description
+Lilac was a gnome female who liked to dress in purple clothes.
+
+History
+In 1480 DR, Lilac was a member of a cell of the Cult of Reborn Flame operating out of Tarmalune. Her job was to awaken the primordial Achazar. Lilac was eventually killed by a group of adventurers sent by Halagothra the Healer to stop the cult.
+
+Appendix
+References
+
+---
+
+## Liberators of the Steel Sky
+
+The Liberators of the Steel Sky were a group of young dragonborn rebels who defied the dragonborn social norms and tried to breach the barriers between Abeir and Toril in 1486 DR.
+
+Beliefs
+Members of the Liberators believed that Abeir was the rightful place were dragonborn should be, a place were they would be masters of their own destiny, instead of unwelcomed guests of the inhabitants of Toril. They also wanted to be reunited with their "lost" brethren of Tymanchebar.
+
+Membership
+All members of the Liberators were rebellious young of many Thymari clans, including members of Clan Kepeshkmolik, Clan Shestandeliath and Clan Verthisathurgiesh.
+
+History
+On Nightal 15 of 1486 DR, members of the Liberators accomplished the impossible and opened a portal to Abeir—thanks to the weakening of the dimensional barrier as part of the Second Sundering—in the Catacombs of Djerad Thymar, believing they would save the dragonborn inhabitants of that world. However, one of the maurezhi granted to Gilgeam, whose mission was to infiltrate and debilitate the Shyran defenses, was accidentally sent to Toril through the portal, and killed nearly all members of the Liberators, before he went on to carry out his mission on Djerad Thymar instead.
+
+Known members
+ Kepeshkmolik Dumuzi (retired prior the group's destruction)
+ Shestandeliath Parvida
+ Shestandeliath Ravar
+ Shestandeliath Zaroshni
+ Verthisathurgiesh Baruz
+
+Appendix
+References
+
+---
+
 ## List of short stories
 
 A list of all short stories set in the Forgotten Realms, sorted by order of publication. Only the first official Realms publication is listed.
@@ -3522,6 +6254,414 @@ Contents2024 • 2023 • 2020 • 2019 • 2018 • 2017 • 2016 • 2015 • 
  2024Date Title Series / Tie-in Publication Author(s) Notes May 2024 "A Night in the Haunted Castle"  Ed Greenwood's Patreon Ed Greenwood  May 2024 "The Night of Too Many Wizards"  Ed Greenwood's Patreon Ed Greenwood  February 2024 "One Old Lord Too Many"  Ed Greenwood's Patreon Ed Greenwood  2023 January 2024 "Listening to Braeven"  Ed Greenwood's Patreon Ed Greenwood  2023Date Title Series / Tie-in Publication Author(s) Notes November 2023 "How the Bridge Was Held"  Ed Greenwood's Patreon Ed Greenwood  September 2023 "The Madness of the Executioner"  Ed Greenwood's Patreon Ed Greenwood  2020Date Title Series / Tie-in Publication Author(s) Notes October 2020 "Ice Out" Icewind Dale: Rime of the Frostmaiden Dragon+ #34 Greg Tito  2019Date Title Series / Tie-in Publication Author(s) Notes October 2019 "Kallinor's Charge" Baldur's Gate: Descent into Avernus Dragon+ #28 Mark Price, David Roomes  February 2019 "Law and Order" Baldur's Gate: Enhanced Edition Dragon+ #24 Dave Gross Part 1 was previously published online. 2018Date Title Series / Tie-in Publication Author(s) Notes December 2018 "Raven's Reckoning" Waterdeep: Dragon Heist Dragon+ #23 Mark Price, David Roomes June 2018 "Secrets of the Deep" Waterdeep: Dragon Heist Dragon+ #20 Mark Price, David Roomes February 2018 "Rancor" Baldur's Gate: Enhanced Edition Dragon+ #18 Dave Gross 2017Date Title Series / Tie-in Publication Author(s) Notes August 2017–April 2018 "Qawasha & Kupalué" Tomb of Annihilation Dragon+ #15, #16, #19 Adam Lee June 2017 "Prelude" Tomb of Annihilation Dragon+ #14 Bart Carroll April 2017 "Fiction: Sunless Citadel" Tales from the Yawning Portal Dragon+ #13 Bart Carroll April 2017 "Fiction: Forge of Fury" Tales from the Yawning Portal Dragon+ #13 Adam Lee April 2017 "Fiction: The Hidden Shrine of Tamoachan" Tales from the Yawning Portal Dragon+ #13 Adam Lee April 2017 "Fiction: White Plume Mountain" Tales from the Yawning Portal Dragon+ #13 Bart Carroll April 2017 "Fiction: Dead in Thay" Tales from the Yawning Portal Dragon+ #13 Scott Fitzgerald Gray April 2017 "Fiction: Against the Giants" Tales from the Yawning Portal Dragon+ #13 Bart Carroll April 2017 "Fiction: Tomb of Horrors" Tales from the Yawning Portal Dragon+ #13 Bart Carroll 2016Date Title Series / Tie-in Publication Author(s) Notes September 2016 "A Man & His Dog" Storm King's Thunder Dragon+ #9 Bart Carroll April 2016 "Dangerous World" Baldur's Gate: Siege of Dragonspear The Familiar #2 Andrew Foley February 2016 "Den of Chaos" Baldur's Gate: Siege of Dragonspear The Familiar #1 Amber Scott 2015Date Title Series / Tie-in Publication Author(s) Notes December 2015 "Amulet Fellow & The Regal Rose" Baldur's Gate: Siege of Dragonspear Dragon+ #5 Andrew Foley October 2015 "The Thweem" Rage of Demons Dragon+ #4 Adam Lee June 2015 "The Winter King" Icewind Dale Dragon+ #2 Chris Avellone 2013Date Title Series / Tie-in Publication Author(s) Notes December 2013 "The Unforking Family Tree" — Wizards.com Ed Greenwood "Spin a Yarn", 2013 July 2013 "The Night Thelva Clovenaxe Flew" — Dragon #425 Ed Greenwood "Spin a Yarn", 2012 2012Date Title Series / Tie-in Publication Author(s) Notes December 2012 "Best Friends" Baldur's Gate: Enhanced Edition Baldursgate.com Dave Gross Reprinted in Dragon+ #22. September 2012 "Unburdened" Baldur's Gate: Enhanced Edition Baldursgate.com Dave Gross September 2012 "Final Exam" Baldur's Gate: Enhanced Edition Baldursgate.com Dave Gross Reprinted in Dragon+ #22. September 2012 "Heir of Shadowbane" Shadowbane series Dragon #415 Erik Scott de Bie July 2012 "Jantharl's Surprising Journey" — Wizards.com Ed Greenwood "Spin a Yarn", 2011 2011Date Title Series / Tie-in Publication Author(s) Notes September 2011 "Chosen of the Sword" Shadowbane series Wizards.com Erik Scott de Bie September 2011 "A New Purpose" Shadowbane series Shadowbane Erik Scott de Bie Published in the enhanced Shadowbane ebook. August 2011 "The Rise of Bardic Beauty" — Wizards.com Ed Greenwood "Spin a Yarn", 2010 June 2011 "Tallfolk Tales" The Gilded Rune Untold Adventures Lisa Smedman February 2011 "The Dowery" Legend of Drizzt The Collected Stories R.A. Salvatore Originally published in The Highwayman. February 2011 "To Legend He Goes" Legend of Drizzt The Collected Stories R.A. Salvatore 2010Date Title Series / Tie-in Publication Author(s) Notes November 2010 "Dreaming of Waterdeep" City of the Dead Dragon #393 Rosemary Jones Reprinted in Untold Adventures. September 2010 "Watchers at the Living Gate" — Dragon #391 Paul Park Reprinted in Untold Adventures. August 2010 "Lord of the Darkways" Sage of Shadowdale Dragon #390 Ed Greenwood Reprinted in Untold Adventures. July 2010 "Night of the Dread Pudding" — Wizards.com Ed Greenwood "Spin a Yarn", 2009 May 2010 "Speak of the Devil" Circle of Skulls Wizards.com James P. Davis January 2010 "Pieces" The Haunted Lands Realms of the Dead Richard Lee Byers January 2010 "Soul Steel" — Realms of the Dead Lisa Smedman January 2010 "The Resurrection Agent" — Realms of the Dead Erin M. Evans January 2010 "Wandering Stones" — Realms of the Dead Bruce R. Cordell January 2010 "The Bone Bird" — Realms of the Dead Jaleigh Johnson January 2010 "Feast of the Moon" — Realms of the Dead Christopher Rowe January 2010 "A Prayer for Brother Robert" — Realms of the Dead Philip Athans January 2010 "The King in Copper" Blades of the Moonsea Realms of the Dead Richard Baker January 2010 "Dusty Bones" — Realms of the Dead Rosemary Jones January 2010 "The Many Murders of Manshoon" — Realms of the Dead Ed Greenwood January 2010 "A Body in a Bag" — Realms of the Dead Erik Scott de Bie January 2010 "Iruladoon" Legend of Drizzt Realms of the Dead R.A. Salvatore Reprinted in The Collected Stories. 2009Date Title Series / Tie-in Publication Author(s) Notes November 2009 "The Winter Scourge" Chosen of Nendawen trilogy Wizards.com Mark Sehestedt  July 2009 "Volo Breaks a Hot Tale" — Wizards.com Ed Greenwood "Spin a Yarn", 2008 May 2009 "Seven They Were" The Restless Shore Wizards.com James P. Davis April 2009 "Last Legend of Gedrin Shadowbane" Shadowbane series Wizards.com Erik Scott de Bie February 2009 "Serpentsong" The Haunted Lands Wizards.com Richard Lee Byers 2008Date Title Series / Tie-in Publication Author(s) Notes November 2008 "Pigs Explode" Crypt of the Moaning Diamond Wizards.com Rosemary Jones "Spin a Yarn", 2007 August 2008 "The Weaver of Dreams" — Wizards.com Ed Greenwood "Spin a Yarn", 2007 January 2008 "Continuum" The Twilight War Realms of War Paul S. Kemp January 2008 "Weasel's Run" — Realms of War Lisa Smedman January 2008 "The Last Paladin of Ilmater" — Realms of War Susan J. Morris January 2008 "Black Arrow" — Realms of War Bruce R. Cordell January 2008 "Too Many Princes" — Realms of War Ed Greenwood January 2008 "The Siege of Zerith Hold" Master of Chains Realms of War Jess Lebow January 2008 "Mercy's Reward" — Realms of War Mark Sehestedt January 2008 "Redemption" Songs & Swords Realms of War Elaine Cunningham January 2008 "Changing Tides" — Realms of War Mel Odom January 2008 "Chase the Dark" — Realms of War Jaleigh Johnson January 2008 "Bones and Stones" Legend of Drizzt Realms of War R.A. Salvatore Reprinted in The Collected Stories. January 2008 "Second Chance" The Haunted Lands Realms of War Richard Lee Byers 2007Date Title Series / Tie-in Publication Author(s) Notes December 2007 "The Way" Neversfall Wizards.com Ed Gentry September 2007 "Every Revel a Masterpiece" — Wizards.com Ed Greenwood "Spin a Yarn", 2006 July 2007 "Wraith" The Howling Delve Wizards.com Jaleigh Johnson May 2007 "The Knights of Samular" Songs & Swords The Best of the Realms III Elaine Cunningham May 2007 "Elminster's Jest" Songs & Swords The Best of the Realms III Elaine Cunningham May 2007 "Tribute" The City of Splendors The Best of the Realms III Elaine Cunningham Also published at Wizards.com May 2007 "Answered Prayers" Starlight & Shadows The Best of the Realms III Elaine Cunningham March 2007 "That Time of the Tenday" Depths of Madness Wizards.com Erik Scott de Bie 2006Date Title Series / Tie-in Publication Author(s) Notes August 2006 "The Lady of the Mists" — Wizards.com Ed Greenwood "Spin a Yarn", 2005 July 2006 "Bloodline" Bloodwalk Wizards.com James P. Davis June 2006 "If Ever They Happened Upon My Lair" Legend of Drizzt Dragons: Worlds Afire R.A. Salvatore Reprinted in The Collected Stories. May 2006 "Rivals" The Year of Rogue Dragons Dragon #343 Richard Lee Byers February 2006 "Traitors" The Last Mythal Realms of the Elves Richard Lee Byers February 2006 "The Staff of Valmaxian" The Last Mythal Realms of the Elves Philip Athans February 2006 "Necessary Sacrifices" The Last Mythal Realms of the Elves Lisa Smedman February 2006 "The Greater Treasure" The Last Mythal Realms of the Elves Erik Scott de Bie February 2006 "Comrades at Odds" The Last MythalLegend of Drizzt Realms of the Elves R.A. Salvatore Reprinted in The Collected Stories. February 2006 "Tears So White" The Last Mythal Realms of the Elves Ed Greenwood February 2006 "The Bladesinger's Lesson" The Last MythalBlades of the Moonsea Realms of the Elves Richard Baker January 2006 "The Bones of the Beast" Son of Thunder Wizards.com Murray J.D. Leeder 2005Date Title Series / Tie-in Publication Author(s) Notes December 2005 "Wayfarer" Ghostwalker Wizards.com Erik Scott de Bie September 2005 "Games of Chance" Songs & Swords Dragon #335 Elaine Cunningham Reprinted in The Best of the Realms III. August 2005 "Revenge among Thieves" Elminster series Wizards.com Ed Greenwood Fragment cut from Elminster: The Making of a Mage. August 2005 "Dark Times in Hastarl" Elminster series Wizards.com Ed Greenwood Fragment cut from Elminster: The Making of a Mage. July 2005 "A Ghost of a Chance" Elminster series Wizards.com Ed Greenwood Fragment cut from Elminster: The Making of a Mage. July 2005 "Not the Most Successful of Feasts" Elminster series The Best of the Realms II Ed Greenwood July 2005 "Dark Talons Forbear Thee" — The Best of the Realms II Ed Greenwood July 2005 "One Comes, Unheralded, to Zirta" — The Best of the Realms II Ed Greenwood July 2005 "A Dance in Storm's Garden" — The Best of the Realms II Ed Greenwood July 2005 "Bloodbound" — The Best of the Realms II Ed Greenwood July 2005 "The Long Road Home" — The Best of the Realms II Ed Greenwood July 2005 "The Night Tymora Sneezed" — Wizards.com Ed Greenwood "Spin a Yarn", 2004 June 2005 "Far Too Many Thieves" Elminster series Wizards.com Ed Greenwood Fragment cut from Elminster: The Making of a Mage. May 2005 "Faerie Ire" The Year of Rogue Dragons Realms of the Dragons II Erin Tettensor May 2005 "The Woman Who Drew Dragons" The Year of Rogue Dragons Realms of the Dragons II Rosemary Jones May 2005 "The Hunting Game" The Year of Rogue Dragons Realms of the Dragons II Erik Scott de Bie May 2005 "The Road Home" The Year of Rogue Dragons Realms of the Dragons II Harley Stroh May 2005 "How Burlmarr Saved the Unseen Protector" The Year of Rogue Dragons Realms of the Dragons II Kameron M. Franklin May 2005 "A Tall Tale" The Year of Rogue Dragons Realms of the Dragons II J. L. Collins May 2005 "The Book Dragon" The Year of Rogue Dragons Realms of the Dragons II Jim Pitrat May 2005 "Freedom's Promise" The Year of Rogue Dragons Realms of the Dragons II Ed Gentry May 2005 "Possessions" The Year of Rogue Dragons Realms of the Dragons II James P. Davis May 2005 "Queen of the Mountain" The Year of Rogue Dragons Realms of the Dragons II Jaleigh Johnson May 2005 "The Strength of the Jester" The Year of Rogue Dragons Realms of the Dragons II Murray J.D. Leeder January 2005 "The Silverfish" The Year of Rogue Dragons Dragon #327 Richard Lee Byers 2004Date Title Series / Tie-in Publication Author(s) Notes August 2004 "Soulbound" The Year of Rogue DragonsThe Erevis Cale Trilogy Realms of the Dragons Paul S. Kemp Reprinted in The Erevis Cale Trilogy August 2004 "First Flight" The Year of Rogue Dragons Realms of the Dragons Edward Bolme August 2004 "Gorlist's Dragon" The Year of Rogue DragonsStarlight & Shadows Realms of the Dragons Elaine Cunningham August 2004 "The Keeper of Secrets" The Year of Rogue Dragons Realms of the Dragons Ed Greenwood August 2004 "The Topaz Dragon" The Year of Rogue Dragons Realms of the Dragons Jess Lebow August 2004 "Wickless in the Nether" The Year of Rogue DragonsThe Sellswords Realms of the Dragons R.A. Salvatore Reprinted in The Collected Stories. August 2004 "Serpestrillvyth" The Year of Rogue Dragons Realms of the Dragons Richard Baker August 2004 "Waylaid" The Year of Rogue Dragons Realms of the Dragons Thomas M. Reid August 2004 "Standard Delving Procedure" The Year of Rogue Dragons Realms of the Dragons Lisa Smedman August 2004 "An Icy Heart" The Year of Rogue Dragons Realms of the Dragons Voronica Whitney-Robinson August 2004 "Penitential Rites" The Year of Rogue Dragons Realms of the Dragons Keith Francis Strohm August 2004 "How Sharper than a Serpent's Tooth" The Year of Rogue DragonsSembia: Gateway to the Realms Realms of the Dragons Dave Gross August 2004 "Beer with a Fat Dragon" The Year of Rogue DragonsThe Yellow Silk Realms of the Dragons Don Bassingthwaite August 2004 "The Prisoner of Hulburg" The Year of Rogue Dragons Realms of the Dragons Richard Lee Byers June 2004 "New in Town" The Year of Rogue Dragons Dragon #320 Richard Lee Byers 2003Date Title Series / Tie-in Publication Author(s) Notes December 2003–January 2004 "Only a Woman Can Take This Sort of Abuse" — Wizards.com Ed Greenwood "Spin a Yarn", 2003 November 2003 "Empty Joys" The Sellswords The Best of the Realms R.A. Salvatore February 2003 "Haunted" Sembia: Gateway to the Realms Dragon #304 Dave Gross 2002Date Title Series / Tie-in Publication Author(s) Notes November 2002 "Cause and Effect" — Dragon #301 Paul S. Kemp November 2002 "Ladies Night at the Yawning Portal" — Wizards.com Ed Greenwood "Spin a Yarn", 2002 September 2002 "Memories" Sembia: Gateway to the Realms Dragon #299 Lisa Smedman September 2002 "How Wisdom Came to the Maimed Wizard" Shandril's Saga Wizards.com Ed Greenwood Reprinted in The Best of the Realms II. July 2002 "And All the Sinners Saints" Sembia: Gateway to the Realms Dragon #297 Paul S. Kemp Reprinted in The Erevis Cale Trilogy March 2002 "Trial by Ordeal" Return of the Archwizards Realms of Shadow Lisa Smedman March 2002 "Assassin's Shadow" Return of the Archwizards Realms of Shadow Jess Lebow Reprinted in The Best of the Realms. March 2002 "Too Long in the Dark" Return of the Archwizards Realms of Shadow Paul S. Kemp March 2002 "Darksword" Return of the Archwizards Realms of Shadow Troy Denning Reprinted in The Best of the Realms. March 2002 "Liar's Game" Return of the Archwizards Realms of Shadow Jessica Beaven March 2002 "That Curious Sword" Return of the ArchwizardsThe Sellswords Realms of Shadow R.A. Salvatore Reprinted in The Collected Stories. March 2002 "A Little Knowledge" Return of the ArchwizardsCounselors & Kings Realms of Shadow Elaine Cunningham Reprinted in The Best of the Realms III. March 2002 "Astride the Wind" Return of the Archwizards Realms of Shadow Philip Athans March 2002 "The Fallen Lands" Return of the Archwizards Realms of Shadow Murray J .D. Leeder March 2002 "When Shadows Come Seeking a Throne" Return of the Archwizards Realms of Shadow Ed Greenwood March 2002 "King Shadow" Return of the Archwizards Realms of Shadow Richard Lee Byers March 2002 "The Shifting Sands" Return of the Archwizards Realms of Shadow Peter Archer 2001Date Title Series / Tie-in Publication Author(s) Notes November 2001 "Never a Warpig Born" — Wizards.com Ed Greenwood "Spin a Yarn", 2001 September 2001 "Living Forever" Pool of Radiance: Ruins of Myth Drannor Pool of Radiance manual Ed Greenwood Reprinted in The Best of the Realms II. May 2001 "Garden of Souls" Sembia: Gateway to the Realms Dragon #283 Richard Lee Byers April 2001 "Possessions" Counselors & Kings Dragon #282 Elaine Cunningham Reprinted in The Best of the Realms III. 2000Date Title Series / Tie-in Publication Author(s) Notes November 2000 "Another Name for Dawn" Sembia: Gateway to the Realms Dragon #277 Paul S. Kemp July 2000 "Shamur's Wager" Sembia: Gateway to the Realms Dragon #273 Richard Lee Byers March 2000 "Hard Choices" The Threat from the Sea Realms of the Deep Lynn Abbey March 2000 "Fire is Fire" The Threat from the Sea Realms of the Deep Elaine Cunningham Reprinted in The Best of the Realms III. March 2000 "Messenger to Serôs" The Threat from the Sea Realms of the Deep Peter Archer March 2000 "The Place Where Guards Snore at Their Posts" The Threat from the Sea Realms of the Deep Ed Greenwood Reprinted in The Best of the Realms II. March 2000 "Lost Cause" The Threat from the Sea Realms of the Deep Richard Lee Byers March 2000 "Forged in Fire" The Threat from the Sea Realms of the Deep Clayton Emery March 2000 "One Who Swims with Sekolah" The Threat from the Sea Realms of the Deep Mel Odom March 2000 "The Crystal Reef" The Threat from the Sea Realms of the Deep Troy Denning March 2000 "The Patrol" The Threat from the Sea Realms of the Deep Larry Hobbs March 2000 "Star of Tethyr" The Threat from the Sea Realms of the Deep Thomas M. Reid March 2000 "Persana's Blade" The Threat from the Sea Realms of the Deep Steven E. Schend March 2000 "And the Dark Tide Rises" The Threat from the Sea Realms of the Deep Keith Francis Strohm Reprinted in The Best of the Realms. 1999Date Title Series / Tie-in Publication Author(s) Notes December 1999 "The Innkeeper's Secret" The Cormyr Saga Dragon #266 Troy Denning June 1999 "The Honor of Two Swords" Forgotten Realms comic series Dragon #260 Kate Novak May 1999 "Stolen Dreams" Songs & Swords Dragon #259 Elaine Cunningham Reprinted in The Best of the Realms III. January 1999 "Dark Legacy" The Threat from the Sea Dragon #255 Mel Odom 1998Date Title Series / Tie-in Publication Author(s) Notes June 1998 "Speaking With the Dead" Songs & Swords Realms of Mystery Elaine Cunningham Reprinted in The Best of the Realms III. June 1998 "A Walk in the Snow" — Realms of Mystery David Cook June 1998 "The Rose Window" — Realms of Mystery Monte Cook Reprinted in The Best of the Realms. June 1998 "The Club Rules" The Ring of Winter Realms of Mystery James Lowder June 1998 "Thieves' Justice" — Realms of Mystery Mary H. Herbert June 1998 "Ekhar Lorrent: Gnome Detective" — Realms of Mystery Stan Brown June 1998 "The Devil and Tertius Wands" — Realms of Mystery Jeff Grubb June 1998 "H" — Realms of Mystery Richard Lee Byers June 1998 "Strange Bedfellows" — Realms of Mystery Keith Francis Strohm June 1998 "Whence the Song of Steel" — Realms of Mystery J. Robert King June 1998 "An Unusual Suspect" — Realms of Mystery Brian Thomsen June 1998 "Darkly, Through a Glass of Ale" — Realms of Mystery Peter Archer June 1998 "Lynaelle" — Realms of Mystery Thomas M. Reid June 1998 "The Grinning Ghost of Taverton Hall" — Realms of Mystery Ed Greenwood Reprinted in The Best of the Realms II. May 1998 "Reunification (Body & Soul)" Forgotten Realms comic series Dragon #247 Jeff Grubb April 1998 "The Great Hunt" Songs & Swords Dragon #246 Elaine Cunningham Reprinted in The Best of the Realms III. March 1998 "Honest and True" Avatar series Dragon #245 Troy Denning 1997Date Title Series / Tie-in Publication Author(s) Notes December 1997 "In the Bleak Deepwinter" The Simbul's Gift Dragon #242 Lynn Abbey November 1997 "Wishing You Many More" — Realms of the Arcane David Cook November 1997 "Secrets of Blood, Spirits of the Sea" Evermeet: Island of Elves Realms of the Arcane Elaine Cunningham Reprinted in The Best of the Realms III. November 1997 "Bread Storm Rising" — Realms of the Arcane Tom Dupree November 1997 "When Even Sky Cities Fall" — Realms of the Arcane J. Robert King November 1997 "The Grotto of Dreams" Escape from Undermountain Realms of the Arcane Mark Anthony November 1997 "A Narrowed Gaze" — Realms of the Arcane Monte Cook November 1997 "The Whispering Crown" — Realms of the Arcane Ed Greenwood Reprinted in The Best of the Realms II. November 1997 "The Lady and the Shadow" — Realms of the Arcane Philip Athans November 1997 "Shadows of the Past" — Realms of the Arcane Brian Thomsen November 1997 "Tertius and the Artifact" — Realms of the Arcane Jeff Grubb Reprinted in The Best of the Realms. August 1997 "Nothing But Trouble" — Dragon #238 Ed Greenwood Reprinted in The Best of the Realms II. 1996Date Title Series / Tie-in Publication Author(s) Notes April 1996 "The Fires of Narbondel" Legend of Drizzt Realms of the Underdark Mark Anthony April 1996 "A Slow Day in Skullport" — Realms of the Underdark Ed Greenwood Reprinted in The Best of the Realms II. April 1996 "Rite of Blood" Starlight & Shadows Realms of the Underdark Elaine Cunningham Reprinted in The Best of the Realms. April 1996 "Sea of Ghosts" — Realms of the Underdark Roger E. Moore April 1996 "Volo Does Menzo" — Realms of the Underdark Brian Thomsen 1995Date Title Series / Tie-in Publication Author(s) Notes December 1995 "Guenhwyvar" Legend of Drizzt Realms of Magic R.A. Salvatore Reprinted in The Collected Stories. December 1995 "Smoke Powder and Mirrors" — Realms of Magic Jeff Grubb December 1995 "The Magic Thief" Curse of the Shadowmage Realms of Magic Mark Anthony December 1995 "The Quiet Place" Vampire of the Mists Realms of Magic Christie Golden December 1995 "The Eye of the Dragon" — Realms of Magic Ed Greenwood Reprinted in The Best of the Realms II. December 1995 "Every Dog His Day" — Realms of Magic Dave Gross December 1995 "The Common Spell" The Finder's Stone trilogy Realms of Magic Kate Novak Reprinted in The Best of the Realms. December 1995 "The First Moonwell" — Realms of Magic Douglas Niles Reprinted in The Best of the Realms. December 1995 "The Luck of Llewellyn the Loquacious" — Realms of Magic Allen C. Kupfer December 1995 "Too Familiar" King Pinch Realms of Magic David Cook December 1995 "Red Ambition" — Realms of Magic Jean Rabe Reprinted in The Best of the Realms. December 1995 "Thieves' Reward" — Realms of Magic Mary H. Herbert December 1995 "Six of Swords" — Realms of Magic William W. Connors Reprinted in The Best of the Realms. December 1995 "The Wild Bunch" — Realms of Magic Tom Dupree December 1995 "A Worm Too Soft" — Realms of Magic J. Robert King December 1995 "Gunne Runner" — Realms of Magic Roger E. Moore December 1995 "The Direct Approach" Starlight & Shadows Realms of Magic Elaine Cunningham Reprinted in The Best of the Realms III. 1994Date Title Series / Tie-in Publication Author(s) Notes December 1994 "So High a Price" Elminster series Realms of Infamy Ed Greenwood Reprinted in The Best of the Realms II. December 1994 "The More Things Change" Songs & Swords Realms of Infamy Elaine Cunningham Reprinted in The Best of the Realms III. December 1994 "The Meaning of Lore" — Realms of Infamy Barb Hendee December 1994 "Raven's Egg" — Realms of Infamy Elaine Bergstrom December 1994 "The Third Level" Legend of Drizzt Realms of Infamy R.A. Salvatore Reprinted in The Collected Stories. December 1994 "Blood Sport" Vampire of the Mists Realms of Infamy Christie Golden Reprinted in The Best of the Realms. December 1994 "Gallows Day" King Pinch Realms of Infamy David Cook December 1994 "A Matter of Thorns" — Realms of Infamy James Ward December 1994 "Stolen Spells" — Realms of Infamy Denise Vitola December 1994 "The Greatest Hero Who Ever Died" — Realms of Infamy J. Robert King Reprinted in The Best of the Realms. December 1994 "Twilight" The Twilight Giants Realms of Infamy Troy Denning December 1994 "The Walls of Midnight" — Realms of Infamy Mark Anthony December 1994 "And Wringing of Hands" — Realms of Infamy Jane Cooper Hong December 1994 "Thieves' Honor" — Realms of Infamy Mary H. Herbert December 1994 "Laughter in the Flames" The Ring of Winter Realms of Infamy James Lowder December 1994 "Vision" — Realms of Infamy Roger E. Moore 1993Date Title Series / Tie-in Publication Author(s) Notes August 1993 "Moonrise over Myth Drannor" Eye of the Beholder III: Assault on Myth Drannor Eye of the Beholder III manual Ed Greenwood February 1993 "The Lord of Lowhill" Moonshae trilogy Realms of Valor Douglas Niles February 1993 "Elminster at the Magefair" Elminster series Realms of Valor Ed Greenwood Reprinted in The Best of the Realms. February 1993 "One Last Drink" Vampire of the Mists Realms of Valor Christie Golden February 1993 "The Bargain" Songs & Swords Realms of Valor Elaine Cunningham Reprinted in The Best of the Realms III. February 1993 "Patronage" The Empires trilogy Realms of Valor David Cook February 1993 "A Virtue by Reflection" The Night Parade Realms of Valor Scott Ciencin February 1993 "King's Tear" Crypt of the Shadowking Realms of Valor Mark Anthony February 1993 "The Family Business" The Ring of Winter Realms of Valor James Lowder February 1993 "Grandfather's Toys" Red Magic Realms of Valor Jean Rabe February 1993 "The Curse of Tegea" Avatar series Realms of Valor Troy Denning February 1993 "Dark Mirror" Legend of Drizzt Realms of Valor R.A. Salvatore Reprinted in The Collected Stories. 1989Date Title Series / Tie-in Publication Author(s) Notes December 1989 "The First Notch" Legend of Drizzt Dragon #152 R.A. Salvatore Reprinted in The Collected Stories.
 
 __NOTOC__
+
+---
+
+## Library of All Knowledge
+
+The Library of All Knowledge was the joint divine realm of the Faerûnian deities Deneir and Milil within the Great Wheel cosmology. It was located in Brux, the twilit second layer of the Beastlands.
+
+Inhabitants
+Aside from the petitioners striving for union with their respective deity, several proxies inhabited the Library. Foremost among these was the human Tomas Bookbinder (at least as far as Deneir was concerned).
+
+The immortal Ka from the world of Mystara, concerned with knowledge and study like the other resident powers, also made his home in this realm.
+
+Rumors & Legends
+Servants of the resident powers were able to quickly reach their common superior, Oghma, in his House of Knowledge on the Outlands, if the need arose. Thus it was assumed that there was a portal close by to connect the two places.
+
+History
+From the perspective of the World Tree cosmology, which became dominant after the Year of Wild Magic, Deneir and Milil were seen as residing together with Oghma and Gond in the celestial plane called the House of Knowledge. The various buildings within that plane, however, were still collectively known as the Library of All Knowledge. They supposedly held all lore, songs, spells and even magic items of the universe.
+
+Appendix
+Appearances
+Novels
+Tymora's Luck
+
+References
+
+Connections
+
+---
+
+## Lillend
+
+Lillends (plural also seen as lillendi) were celestials native to Ysgard. They were also known to live in the Infinite Staircase, Arborea, and Limbo.
+
+The goddess Selûne sometimes transformed favored petitioners into lillendi as a reward for their faithful service in their mortal lives. Lillendi were also known to serve the deities Sharindlar, Solonor Thelandira, Aerdrie Faenya, Corellon, Hanali Celanil, Labelas Enoreth, Lliira, and Oghma.
+
+Description
+Lillendi had the arms, head, and torso of a beautiful humanoid, but had feathers in place of hair and wings. From the waist down their body was that of a serpent. The feathers and scales  were all brightly colored and patterned. They were known to wear jewelry but never clothing.
+
+Abilities
+Lillendi were capable of carrying up to  while flying and could use their lower body to constrict smaller creatures when in a fight. Lillendi were also able to breathe underwater and were excellent swimmers.
+
+Lillendi were immune to poison and toxic gases, could cast a variety of bardic spells, and have several innate spell-like abilities. Additionally, they could fight with both their tail and held weapons.
+
+Ecology
+As celestials, lillendi did not require food or drink. However, lillendi did enjoy eating material food, and when visiting material worlds would frequently treat themselves to local fare during their visit. After eating large quantities of meat, lillendi would go into a torpid state that could last hours or even days. Despite their eating habits, lillendi did not excrete anything.
+
+Lillendi did not mate or marry. Some scholars theorized that lillendi reproduced parthenogenically, as most lillendi had female upper torsos. However, some lillendi did have male torsos.
+
+It was rumored that lillendi could choose the hour of their death. This was called the Silent Hour, and came when the lillend had grown weary of life and service. Before the Silent Hour, lillendi would make their goodbyes; if they began fighting during the Silent Hour, they fought fiercely with calm and focused fury. Lillendi who died in ways other than the Silent Hour were said to bear expressions of despair. The Silent Hour was said to either be a gift from the gods of the moon or a curse from the powers of law.
+
+Society
+Lillendi loved art and music and also valued unspoiled wilderness. They were normally peaceful, but the ill treatment of artwork or artist, or the destruction of wilderness, angered them. Lillendi were known to bear grudges for a long time.
+
+Lillendi also enjoyed learning astrological, ecological, and astronomical knowledge, and appreciated sages who could speak of such things. They were known to make alliances with rangers, bards, and druids to better protect wilderness.
+
+Social status among the lillendi depended on a system of mysteries and totem masks. The mysteries were akin to secret societies, and each held a specific piece of wisdom passed on to initiates. Each mystery group was associated with particular art forms and weapons. The more mysteries a lillendi was initiated into, the greater their social status. The masks were only tangentially related to the mysteries, as each mask design was unique to a family. The system was complicated, but the masks roughly indicated familial association.
+
+The lillends' love of art and creativity meant that they held the Infinite Staircase as their most sacred site. They were among its guardians, and threatening or harming the staircase would cause them to attack. While on the staircase, lillendi wore special, featureless masks.
+
+Lillendi did not get along with the shards that also served Selune. They hated modrons and devils, and were prejudiced against tieflings of diabolic heritage.
+
+Notable Lillendi
+ Cattariina. Helpful guide and guardian of the pathway between the Gates of the Moon and the Infinite Staircase.
+
+Appendix
+See Also
+ Hannya
+ Lamia noble
+ Marilith
+ Wereserpent
+ Yuan-ti halfblood
+
+Further Reading
+
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Lizard Marsh
+
+The Lizard Marsh was a large bayou in the delta of the Delimbiyr river meeting the Sea of Swords.
+
+Description
+The Delimbiyr river, also called the River Shining, plunged into the bogs and scattered waterways of the swamp delta. The Marsh was filled with cold and humid hanging moss-filled mangroves. The marshes did not freeze over in the winter, turning into slush instead. Sages were not sure of the reasons why that was the case. Some believed it was because of the seawater, while others suspected a magical phenomenon.
+
+A subterranean underwater cave connected the old dried-up well in Daggerford's Western Farmlands. The tunnel could only be traversed by the strongest swimmer and aquatic creatures.
+
+Inhabitants
+Fauna
+A variety of monstrous creatures and voracious insects inhabited the Lizard Marsh, including the eponymous lizardfolk who pestered and menaced settlements with frequent raids. Lizard-men of the marsh traded looted goods and slaves with intelligent aquatic races of the Sea of Swords. A species of bipedal humanoid lizards - the muckdwellers, lived in the shadows of the lizardfolk of the Marsh. These creatures were intelligent enough to use tools and build rafts but were not as advanced as the lizardmen that dominated the region.
+
+Among other dangerous inhabitants of the marsh were giant spiders, dire spiders, and wraith spiders, as well as bloated queen spiders of these species. Several species of giant beetle could also be encountered in the swamp, including giant bombardier beetles, stink beetles, and giant stag beetles. Among more mundane animals, wild dogs, badgers, and vicious piranha were a common occurrence. Rarer and deadlier creatures in the green muck included young black dragons and wyrmlings, and even the occasional hungry bulette. Several species of small and medium-sized dinosaurs were known to inhabit the Lizard Marsh, many of whom were tamed by the lizardfolk of the region. Known dinosaurs in the Marsh included ceratosaurs and pteranodons. A huge species of dinosaur known as the thunderbeasts were known to have inhabited the region or its adjacent lands at some point before the 14 century DR. By the late 14 century, their presence was only evident by sets of thunderhide armor favored by the wild druids who called the Lizard Marsh their home.
+
+By the 15 century DR, more common encounters within the marsh included giant frogs, giant lizards, giant centipedes, stirges, constrictor snakes, and will-o'-wisps. Bullywugs, harpies, trolls, and green hags were among more intelligent inhabitants of the swamps, while hydras were also not unheard of.
+
+Flora
+A species of giant gourds was a staple of the area. These enormous edible fruits were hollowed out and dried by the lizardfolk of the Marsh, making them into oversized containers, often bigger than an adult human in size. These gourds were painted, decorated, and used to store various liquids, such as freshwater, fermented alcoholic libations, and small swimming snacks. One such gourd became a curio item known as the Castaway Gourd and was displayed in Torleth's Treasures of Gillian's Hill.
+
+A species of flowering plant, simply called brightflowers could be found along the water edges in the marsh. This hardy plant had bright yellow flowers that, when crushed, served as a natural leech and mosquito repellant.
+
+Government
+Even though several tribes of lizardfolk dwelled in the marsh, many of them were united under the leadership of an ancient and cunning lizard-man known to others as Redeye. The leader was known to use magical powers to impress his followers.
+
+Several of the tribes splintered from Redeye's rule and worshiped black dragons as their gods, namely dragons Thuraskulusk, Thoss Fyurnen, and Cheleen.
+
+History
+In 302 DR, the settlement of Tavaray, which was located on the edge of the Lizard Marsh, was abandoned by its inhabitants and swallowed by the swamp's rising waters. That was one of the factors that contributed to the diminished influence of Illuskan on the Sword Coast south of the Sword Mountains.
+
+Circa 1357 DR, a lizard man witch doctor named Redeye was attempting to unify the lizardfolk of the marshes. To this end, he was attempting to trade metal weapons from nearby Daggerford's armory and merchants, in exchange for bird feathers and various delicacies. However, the request was shut down by Daggerford's Council of Guilds.While the exact year is not stated, Pwyll Daggerford became Duke after his father's death in the First Dragonspear War of 1356 DR. During the same stretch of time, Baron Cromm Redhand was a common sight in the Lizard Marsh, where he game-hunted dinosaurs and an occasional lizard-man.
+
+Many years before 1370 DR, a group of heroes ventures into the muck of the Lizard Marsh and slew the king of the lizardfolk known as Redeye. However, circa 1370 DR, a lizard man lich calling himself Redeye reemerged in the Marsh and took over the leadership once again. It was not known if the undead Redeye was indeed the same Redeye who was killed by adventurers, however, many researchers and scholars were interested in the nature of that mysterious lich lizardfolk.
+
+Sometime before 1372 DR, a group of adventurers led by Emythene Faldree, traversed the dangers of the Marsh. The deadly trek cost many companions' lives as they battled with nature, lizardfolk, black dragons, poisonous snakes, and giant snapping turtles. The adventurers' exploits were published in the book titled Beware the Lizard Marsh! that served as a guide and a cautionary story.
+
+1372 DR was a tumultuous year for the inhabitants of the Lizard Marsh. A lizardfolk tribe, led by a shaman Uzzak-Szalzik and chieftain Saslick took to worshiping an ancient black dragon Thuraskulusk, slitting from under Redeye's leadership. Conniving ruler, Redeye allied with the Green Hag of Lizard Marsh and the Hero of Daggerford to bring the tribe back under his control. The hag, who feuded with shaman Uzzak-Szalzik, provided the Hero and their companions with magics that disguised them as lizardfolk, while Redeye stole Thuraskulusk's egg and ordered the hero to stash it in chieftain Saslick's hut, framing him for the egg's theft. Eventually, the plan succeeded and the angered dragon slew chieftain Saslick and withdrew his protection of the tribe.
+
+Sometime in the late 15 century DR, the galleon named the Sea Robber was washed ashore by some mysterious great wave and sank within the putrid waters of the Lizard Marsh. A part of the ship, along with numerous shattered barrels, was accessible from the swamp, appearing nothing but a dark mound rising from the mud.
+
+Notable Locations
+ Cromm's Hold, a stone keep owned by Duchess Wynne Cromm.
+ Krandon Manor, a stone house, long abandoned leftover from the time then Daggerford attempted to expand into the Lizard Marsh. In the late 15 century DR, the manor was occupied by inbred and especially ugly half-orc, half-dwarf Clotskull tribe of orc bandits.
+ Tavaray, an abandoned settlement, reclaimed by the swamp in 302 DR.
+
+Notable Inhabitants
+ Caustilancer, a black dragon who laired in the Marsh in the late 15 century DR.
+ Mama Booga, a matriarch and leader of the inbred orcs of Krandon Manor in the late 15 century DR.
+ Redeye, the ancient leader of the lizardfolk who returned to life as a lich after being slain by a gang of adventurers.
+ Thoss Fyurnen, an adult black dragon and the Chosen of Talona who, along with his mate, Cheleen, laired in the Lizard Marsh and planned on taking over the region in the late 15 century DR.
+Appendix
+See Also
+Beware the Lizard Marsh!
+Notes
+
+Appearances
+
+References
+
+FR:Marécage du lézard
+
+---
+
+## Lion Tribe
+
+The Lion Tribe were one of the major roaming tribes of the Shaar. Their territory consisted of the plains ranging from Lake Lhespen to the Landrise, south of the River Shaar.
+
+Raiders of the Lion Tribe were known for charging their foes and making a frenzy of slashing attacks, similar to the animal from which they took their name.
+
+Appendix
+See Also
+ Singh rager
+References
+
+---
+
+## Lightning fog
+
+Lightning fog was a spell available to wizards and sorcerers that created a smoky cloud, 20 ft in radius, that was full of electrical charges. Any creature caught within this cloud would be damaged by the errant arcs. A strong wind, whether magical or natural, could dissipate a cloud of lightning fog.
+
+References
+
+---
+
+## Life and Light
+
+Life and Light was a divine spell, or Channel Divinity, given to clerics of Selûne that made the enemies of the caster more vulnerable against radiant magic.
+
+References
+
+---
+
+## Live world
+
+A live world, or plant body, was a debated classification for celestial bodies within a crystal sphere. The term was presented by the scholars of Kara-Tur as a description for a world that was alive, or perhaps even sentient. Other scholars preferred to limit the types of worlds to each of the four elements, air, earth, fire, and water. To these scholars, a plant body would simply be classified as an earth body.
+
+Notable Live Worlds
+ Garden
+
+Appendix
+Reference
+
+---
+
+## Liriel Nightstar
+
+Liriel Nightstar was a resident of Waymoot, Cormyr, in 1367 DR.
+
+Activities
+Liriel owned and operated Nightstar Guiding and Outfitters, which catered to foresters and travelers.
+
+Rumors & Legends
+Liriel was rumored to be an agent for the Harpers.
+
+Appendix
+References
+
+---
+
+## List of comic books
+
+DC Comics TSR Worlds Annual 1 July 1990Avatar seriesThe Avatar series is a trilogy of comics illustrating the Avatar series novels. Shadowdale February 1991 Tantras March 1991 Waterdeep May 1991AD&D SeriesAdvanced Dungeons & Dragons is a series of comic books originally published by DC Comics and set in the Forgotten Realms. The Gathering December 1988 The Bounty Seekers Of Manshaka January 1989 The Secret of Selûne's Eye February 1989 Sorcerer's Moon March 1989 The Spirit of Myrrth April 1989 Beneath the City of the Dead May 1989 Showtime! Or, Revenge of the Living Monologue June 1989 Die Laughing July 1989 Night of the Moonpenguin August 1989 Of Mirt & Mind Flayers September 1989 All Hades Breaks Loose October 1989 Down in the Depths November 1989 Shackles of the Past December 1989 Shell Game January 1990 Cat & Mouse February 1990 The Last Betrayal March 1990 The Ostus Legacy April 1990 Day of the Darkening May 1990 Selune Rising June 1990 Dark of the Moon July 1990 Lunatics August 1990 Total Eclipse September 1990 Lawyers! November 1990 Scavengers December 1990 Predators January 1991 Survivors February 1991 Death and the Dragon's Eye March 1991 Suspicion! April 1991 Dead of Night May 1991 Burning Questions June 1991 Pillar of Gold July 1991 Broken Pillars August 1991 Summer in the City September 1991 Telling Lies October 1991 The Truth November 1991 Rights and Wrongs December 1991 Annual 1990 September 1989DC Forgotten RealmsDC Forgotten Realms is a series of comic books originally published by DC Comics. The Ogre's Paw September 1989 Converging Lines October 1989 The Great Game November 1989 Fools Rush In December 1989 The Dragon in the Dale January 1990 Dragonspawn February 1990 Dragonsmoker March 1990 Dragons (and Other Beasts) April 1990 The Morning After May 1990 Head Cheeeese June 1990 Jasmine July 1990 Rivals August 1990 Trial September 1990 Liches in Love October 1990 Possessions November 1990 Mad Gods and Paladins December 1990 Annual: Waterdhavian Nights December 1990 Divine Rights January 1991 On Earth as it is in Heaven February 1991 Picking up the Pieces March 1991 Temptations April 1991 Cannibal Girls May 1991 Cat Logic June 1991 Unreal Estate July 1991 Everybody Wants to Run the Realms August 1991 The Wake of the Realms Master September 1991Devil's Due PublishingThe Legend of Drizzt: HomelandThe Legend of Drizzt: Homeland is the graphic novel version of R.A. Salvatore's novel Homeland. The Legend of Drizzt: Homeland #1 June 2005 The Legend of Drizzt: Homeland #2 July 2005 The Legend of Drizzt: Homeland #3 August 2005The Legend of Drizzt: ExileThe Legend of Drizzt: Exile is the graphic novel version of R.A. Salvatore's novel Exile. The Legend of Drizzt: Exile #1 September 2005 The Legend of Drizzt: Exile #2 October 2005 The Legend of Drizzt: Exile #3 November 2005The Legend of Drizzt: SojournThe Legend of Drizzt: Sojourn is the graphic novel version of R.A. Salvatore's novel Sojourn. The Legend of Drizzt: Sojourn #1 December 2005 The Legend of Drizzt: Sojourn #2 January 2006 The Legend of Drizzt: Sojourn #3 February 2006The Legend of Drizzt: The Crystal ShardThe Legend of Drizzt: The Crystal Shard is the graphic novel version of R.A. Salvatore's novel The Crystal Shard. The Legend of Drizzt: The Crystal Shard #1 November 2006 The Legend of Drizzt: The Crystal Shard #2 December 2006 The Legend of Drizzt: The Crystal Shard #3 January 2007The Legend of Drizzt: Streams of SilverThe Legend of Drizzt: Streams of Silver is the graphic novel version of R.A. Salvatore's novel Streams of Silver. The Legend of Drizzt: Streams of Silver #1 February 2007 The Legend of Drizzt: Streams of Silver #2 March 2007 The Legend of Drizzt: Streams of Silver #3 April 2007The Legend of Drizzt: The Halfling's GemThe Legend of Drizzt: The Halfling's Gem is the graphic novel version of R.A. Salvatore's novel The Halfling's Gem. The Legend of Drizzt: The Halfling's Gem #1 May 2007 The Legend of Drizzt: The Halfling's Gem #2 June 2007 The Legend of Drizzt: The Halfling's Gem #3 July 2007The Legend of Drizzt: The LegacyThe Legend of Drizzt: The Legacy is the graphic novel version of R.A. Salvatore's novel The Legacy. The Legend of Drizzt: The Legacy #1 February 2008 The Legend of Drizzt: The Legacy #2 April 2008 The Legend of Drizzt: The Legacy #3 June 2008The Legend of Drizzt: Starless NightThe Legend of Drizzt: Starless Night is the graphic novel version of R.A. Salvatore's novel Starless Night. The Legend of Drizzt: Starless Night September 2008Anthologies The Legend of Drizzt: Omnibus Volume 1 October 2008 The Legend of Drizzt: Omnibus Volume 2 April 2009The Worlds of Dungeons & DragonsThe The Worlds of Dungeons & Dragons series illustrates several short stories from the Forgotten Realms. Two issues are not listed as they are set outside the Forgotten Realms setting. The Worlds of Dungeons & Dragons #1 February 2008 The Worlds of Dungeons & Dragons #2 April 2008 The Worlds of Dungeons & Dragons #3 July 2008 The Worlds of Dungeons & Dragons #4 August 2008 The Worlds of Dungeons & Dragons #7 November 2008IDW ComicsAnthologies Dungeons & Dragons Classics, Vol. 1 May 2011 Dungeons & Dragons Classics, Vol. 2 November 2011 Dungeons & Dragons Classics, Vol. 3 June 2012 Dungeons & Dragons Classics, Vol. 4 March 2013 Forgotten Realms Classics Omnibus Volume 1 May 2014 Forgotten Realms Classics Omnibus Volume 2 September 2014 Forgotten Realms Omnibus February 2016Neverwinter TalesNeverwinter Tales is a collection of five comic issues centering on Thibbledorf Pwent, Drizzt Do'Urden, and Dahlia Sin'felle during the events of the Neverwinter Saga. Neverwinter Tales #1 August 2011 Neverwinter Tales #2 September 2011 Neverwinter Tales #3 October 2011 Neverwinter Tales #4 December 2011 Neverwinter Tales #5 February 2012Dungeons & Dragons: Forgotten RealmsDungeons & Dragons: Forgotten Realms is a collection of five comic issues focused on political intrigue in Waterdeep It is written by Ed Greenwood. Dungeons & Dragons: Forgotten Realms #1 May 2012 Dungeons & Dragons: Forgotten Realms #2 June 2012 Dungeons & Dragons: Forgotten Realms #3 August 2012 Dungeons & Dragons: Forgotten Realms #4 October 2012 Dungeons & Dragons: Forgotten Realms #5 November 2012CutterCutter is a collection of five comic issues centering on Tos'un and Doum'wielle Armgo and the sentient sword Khazid'hea; it takes place just prior to Night of the Hunter. Cutter #1 April 2013 Cutter #2 May 2013 Cutter #3 June 2013 Cutter #4 July 2013 Cutter #5 September 2013Legends of Baldur's GateLegends of Baldur's Gate is a series of Forgotten Realms comic books published by IDW Publishing as part of the Tyranny of Dragons storyline. Legends of Baldur's Gate #1 October 2014 Legends of Baldur's Gate #2 November 2014 Legends of Baldur's Gate #3 December 2014 Legends of Baldur's Gate #4 January 2015 Legends of Baldur's Gate #5 March 2015Shadows of the VampireShadows of the Vampire is a series of Dungeons & Dragons comic books published by IDW Publishing as a tie-in to the adventure Curse of Strahd. Shadows of the Vampire #1 May 2016 Shadows of the Vampire #2 June 2016 Shadows of the Vampire #3 July 2016 Shadows of the Vampire #4 August 2016 Shadows of the Vampire #5 October 2016Frost Giant's FuryFrost Giant's Fury is a series of Forgotten Realms comic books published by IDW Publishing. Frost Giant's Fury #1 January 2017 Frost Giant's Fury #2 April 2017 Frost Giant's Fury #3 June 2017 Frost Giant's Fury #4 August 2017 Frost Giant's Fury #5 August 2017Evil at Baldur's GateEvil at Baldur's Gate is a series of Forgotten Realms comic books published by IDW Publishing. Evil at Baldur's Gate #1 April 2018 Evil at Baldur's Gate #2 May 2018 Evil at Baldur's Gate #3 June 2018 Evil at Baldur's Gate #4 August 2018 Evil at Baldur's Gate #5 August 2018 A Darkened WishA Darkened Wish is an ongoing series of Forgotten Realms comic books published by IDW Publishing. A Darkened Wish #1 February 2019 A Darkened Wish #2 July 2019 A Darkened Wish #3 October 2019 A Darkened Wish #4 January 2020 A Darkened Wish #5 February 2020 Infernal TidesInfernal Tides is an ongoing series of Forgotten Realms comic books published by IDW Publishing. Infernal Tides #1 December 2019 Infernal Tides #2 February 2020 Infernal Tides #3 2020 Infernal Tides #4 2020 Infernal Tides #5 202021st Century  TSR Worlds Annual 1 July 1990The Forbidden Sands of Anauroch seriesThe The Forbidden Sands of Anauroch is a series of comics about the Anauroch desert. The Forbidden Sands of Anauroch: Part 1 of 6 2000 The Forbidden Sands of Anauroch: Part 2 of 6 2000
+
+Appendix
+References
+
+---
+
+## Liches in Love
+
+Liches in Love is the fourteenth issue of the Forgotten Realms comics series published by DC Comics. It was written by Jeff Grubb, drawn by Rags Morales, and edited by Elliot S. Maggin. The story in this issue is concluded in chapter four in TSR Worlds Annual 1.
+
+Index
+Characters
+Arvan • Dwalimar Omen • Foxilon Cardluck • Ishi Barasume • Jasmine • Labelas Enoreth • Minder • Priam Agrivar • Vartan Hai Sylvar • Viranton
+
+Alias • Midnight
+Creatures
+Demilich • Halfling • Human • Iron golem • Lich • Sun elf
+Locations
+
+Kozakura
+Magic
+Spells: Magic missile • Remove disease • Turn undead
+
+Detect magic • Fireball
+Religions
+Render
+
+Appendix
+External links
+
+References
+
+Connections
+
+---
+
+## Lionheart
+
+Lionheart was the secret command base of the Council of Admirals of the Elven Imperial Navy. While its location was changed every few years to avoid attacks from enemies, it was sometimes located near one of the asteroids of Garden in Realmspace.
+
+Description
+Like many elven bases of wildspace, Lionheart was composed of a ring of elven armada class spelljammers whose wings were fused together. The entire ring of armadas shared the same gravity plane and air envelope (atmosphere). Crops were grown on the upper platform formed by the ring of wings, and these replenished the air and provided food for the base's inhabitants. Lionheart was one of the largest such bases.
+
+At the center of the ring of armadas was a disk-shaped structure that contained the blue and silver meeting chamber of the Council of Admirals.
+
+Government
+Lionheart was controlled by the Council of Admirals, who were themselves headed by the Grand Admiral.
+
+History
+In 1362 DR, Vallus Leafbower and the current Grand Admiral here discussed what to do with Teldin Moore, the bearer of the Cloak of the First Pilot.
+
+Inhabitants
+ Serin Ghar
+
+Appendix
+Appearances
+ The Radiant Dragon
+
+References
+
+---
+
+## Light pellet
+
+Light pellets, also called daylight pellets, were magic items devised by drow to fight others of their kind. A stronger version called sun flash pellets existed too.
+
+Description
+Light pellets's creation process was to take a small piece of material like glass, rock crystal, or something else, have a cleric cast continual light on it, coat it with fat or grease, roll the coated thing in clay, and then bake it hard. They were collected and stored in pouches. One pouch held three to twelve of them. A daylight spell could be used to craft them too. Sun flash pellets were created using the exact same process except for the daylight spell; a sunburst spell was needed instead. Because those were very precious, they were stored one by one.
+
+Powers
+Light pellets had to be thrown to the ground to be used. On impact with the ground, they broke and blinding light, like a daylight spell, was unleashed. "Blinding" was not in the figurative sense but in the literal sense. Drow who saw the light were blinded for two to five minutes. Users of the magic item averted this effect by masking or hooding themselves or by being trained in blind-fighting.
+
+When it came to the sun flash pellets, the light was actually harmful to creatures like vampires because the unleashed light was that of a sunburst spell.
+
+History
+Light pellets were invented by drow at some point before the 14 century DR with the intent to be used against other drow.
+
+Reputation
+They were treated like special weapons and stored with special care by the nobles.
+
+Appendix
+References
+
+---
+
+## Liar's Night
+
+Liar's Night was a holiday celebrated along the Sword Coast on the 30 day of Marpenoth, paying tribute to the deities Leira and Mask. It was celebrated to appease the gods and guard against their unwanted attention. Revelers donned costumes or glamers to disguise themselves and pretended to be that which they were not. Common masks included the symbol of Mask himself and the mirror masks of the priests of Leira. Though there was no limit on the disguise someone could wear, the more elaborate the costume, the more celebrated the wearer.
+
+As of the late 15 century DR, Liar's Night was held in Waterdeep and in Neverwinter, where it came to be called the Masquerade of Liars.
+
+Celebrations
+The celebrations began in the evening when people placed candles into gutted pumpkins or gourds that had faces carved into them. Each pumpkin represented a person who had donned a mask, while the candle light represented who they truly were. For as long as the candle was lit, lies told and embarrassing acts wouldn't harm a person's reputation. As such, celebrations often devolved into chaotic anarchy. Bad luck came to those who returned after celebrating to find their pumpkin's candle had gone out. Intentionally blowing out someone else's candle or smashing their pumpkin risked drawing the ire of both Mask and Leira.
+
+Tricks, pranks, and even pickpocketing were common on this night; thus tradition had people filling their pockets with candy in lieu of money. Pickpockets took the candy and replaced it with a small token such as a folded scrap of paper, or a trinket. More commonly, people just traded candy at face value, and readily handed it out to children who asked. Illusionists and stage magicians were often hired to perform or wandered the streets in hopes of garnering clients.
+
+Reservations
+It was known that no deals were to be made, nor contracts signed on Liar's Night, as nobody trusted that the other parties would honor their commitments.
+
+History
+Beginning in the, Dagult Neverember declared that Liar's Night in Neverwinter was to be extended into a grand festival known as the Masquerade of Liars.
+
+Appendix
+See Also
+ Highharvestide
+Appearances
+
+External Links
+
+References
+
+---
+
+## Lines on the North
+
+Lines on the North was a book by Hommil Dundreth, the Merchant-Mage of Hlintar. It was unknown when it was written.
+
+By 1372 DR, the original was kept in the great library of Candlekeep.
+
+Appendix
+References
+
+---
+
+## Lion's Sword
+
+The Lion's Sword was the Tethyrian sword of state, wielded by princes and kings of the kingdom for centuries.
+
+Description
+The state sword of Tethyr had a hilt of gold, carved into the shape of a lion. The body, rear legs and tail made up handle and pommel, with its forelegs and front paws forming the crossguard. The head of the lion had open jaws, with diamond-encrusted mithral teeth set into the groove of the blade, which extended from the gaping maw. Two rubies were inset within the lion's eyes.
+
+History
+The sword was originally forged for King Alemander I by a dwarven ally of his in the Year of the Rose Pearls, 1122 DR. The wizard-king further enchanted the blade, transforming it into a flame tongue. It was wielded by the monarchs and heirs of Tethyr until the Year of Starlight, 1215 DR, when King Coram IV forged the Sword of Starlight for his son Haedrak II.
+
+The Lion's Sword was wielded by the Shade King Kymer,Page 27 of Lands of Intrigue: Erlkazar and Folk of Intrigue refers to the Shade King as "Kymerm". the illegitimate son of King Alemander II, before it was reclaimed by Haedrak II when he reclaimed the throne of Tethyr in the Year of the Wall, 1227 DR.
+
+It was believed to have been lost when King Jaszur was killed in Waterdeep in the Year of the Ormserpent, 1295 DR, but was returned to the kingdom by Haedrak, the long-lost son of Alemander IV and rightful heir to the throne, some seven decades later.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Lif
+
+Lif was a poltergeist that haunted Trollskull Manor in Waterdeep in the late 15 century DR.
+
+History
+Lif was a half-elf barkeeper who even after his death couldn't abandon his old tavern on Trollskull Alley and tried to scare away all new owners. In, Volothamp Geddarm acquired the place at a low price and later formally gave it to some adventurers whom he had hired to save Floon Blagmaar.
+
+Personality
+Lif's life was his work. If a new owner opened another tavern inside Trollskull Manor, he could gradually become quite accommodating to them.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Waterdeep: Dragon Heist
+
+References
+
+---
+
+## Lion's Share
+
+The Lion's Share was a store in Triboar in the late 15 century DR.
+
+It was recently purchased and refurbished by the Lionshield Coster company by 1485 DR. The company's trademark, a polished shield emblazoned with the head of a stylized golden lion over a blue background hung above the store's entrance.
+
+Narth Tezrin and Alaestra Ulgar ran the business and were paid well by the company.
+
+Appendix
+
+References
+
+---
+
+## Liam Woodgate
+
+Liam Woodgate was the best fighter in Auckney and a trusted worker of Lord Feringal Auck in the mid–14 century DR.
+
+Description
+Liam was a grey-bearded gnome with great fighting skill. The gnome was highly respected by his lord and was assigned important tasks, which no others in the lord's residence were included in. He was incredibly confident, rarely being bested in combat, and believed he could beat the gargantuan barbarian, Wulfgar, in fair one-on-one combat, despite his small stature.
+
+History
+Around the, the gnome fighter was given the important task of transporting Meralda Ganderlay, Lord Feringal's wife-to-be, from the village of Auckney to the noble's residence, Castle Auck. The area between them was a few miles in breadth and was populated by beasts and highwaymen.
+
+On one of his later trips, the loyal carriage driver was intercepted by Morik the Rogue and Wulfgar, two men down on their luck after being forced out of Luskan. The pair, who had resulted to brigandage, spotted the carriage. Wulfgar immediately realized Liam was a veteran fighter and thus the barbarian set up a trap, which ended in the coach being toppled over and Meralda and coin being taken. The gnome was knocked unconscious and, as a result, the brigands took Meralda with them to give them time to escape, and then released her back to Liam. He believed he had failed his lord, but there was nothing else he could do in such a situation.
+
+Later, Meralda falsely accused Wulfgar of rape but claimed not to remember his face. Lord Feringal sent out a wizard to capture the barbarian, who returned him to the castle. Liam explained that this man was definitely the brigand who'd captured Meralda, and Lord Feringal Auck sentenced Wulfgar to torture, castration, and death. However, Meralda freed the barbarian from prison.
+
+When Wulfgar and Morik returned to vouch for Meralda's innocence, Liam challenged the barbarian in combat. Liam drew his sword, and attacked, thrust and feigned. He was bested by Wulfgar but revealed no information to the huge man, claiming he'd rather die.
+
+Appendix
+Appearances
+Novels
+ The Spine of the World
+ The Orc King
+References
 
 ---
 
@@ -3536,6 +6676,1703 @@ Notes
 
 See Also
 List of plays (in-universe)
+References
+
+---
+
+## Lith
+
+Liths were a psionic type of magical beast.
+
+Description
+Liths were often described as looking like ugly or even misshapen stone statues. They had horns jutting from their foreheads, clawed hands on long arms, and a strong bite. A lith's body was not lithe; it was quite lumpy and some had actually twisted body parts. Their faces were universally described as ugly.
+
+A lith looked like a stone statue with skin looking like unworked stone. They did not need to eat, drink, or even sleep. They also could not suffocate.
+
+Personality
+Liths were practically always chaotic evil. As mentioned above, they had no need to eat, drink, or even breathe, and they killed others, by burying them alive or killing them outright, simply because they found it fun.
+
+Combat
+Liths had psionic abilities. They could psionically cast meld into stone as often as they wanted, passwall and wall of stone three times per day, and flesh to stone and stone sphere once per day. They tried to use these abilities when they caught their enemies by surprise.
+
+Liths looked like stone statues and were capable of standing still for any length time they wanted, effectively posing as statues. This was the primary means by which they surprised others. Their ability to hide was tremendously increased when they could use worked stone as a background for camouflage.
+
+Society
+When liths were encountered by themselves, they were either alone or in pairs. From time to time, they were found as guardians for caravans or treasure vaults employed by creatures who were more powerful than themselves. In the case of protecting treasure vaults, they were often paid well. The same races also sent them on special errands.
+
+History
+Changestones was a spell that changed stones into fake liths with no psionic abilities.
+
+Appendix
+References
+
+---
+
+## Li lung
+
+Li lungs, also known as earth dragons, were dragons that resided deep inside the earth in Kara-Tur.
+
+Description
+Li lungs were physically distinguished by their enormous size, up to  in length. Unlike most dragons, they lacked scales, and instead were covered in a coarse black fur the texture of metal wire. Only hatchlings had scales, usually light green in color. As they grew older, the scales were shed and replaced with fur; usually by the time a li lung was a juvenile, the scales were completely gone. A li lung had an unusual appearance that look more like an androsphinx than a true dragon. Its body and tail resembled that of a lion, yet it had a face similar to a humanoid. Its tail was adorned with colorful feathers similar to a peacock. The li lung was the only lung dragon with wings.
+
+Personality
+They lived a solitary life and rarely associated with other dragons, unless forced to under orders from the Celestial Bureaucracy.
+
+Combat
+They tried to avoid combat, choosing to bury themselves in the earth until an attacker gave up and left. When forced to defend themselves, a li lung would use their earthquake ability to bury their attacker, and would engage in melee combat using their claws and teeth. A li lung would roar continuously while attacking, which sounded like metal scraping on stone. Attackers would be near-deafened by this. While airborne, a li lung was very maneuverable no matter their size, and it was able to perform wing-over maneuvers, allowing them to make a turn of 120 to 140 degrees.
+
+Abilities
+Li lungs had a natural immunity to earthquakes and had innate magical abilities, each gained as they grew older. Three time a day, a mature li lung could use move earth, stone shape, and wall of stone. Once a day, a mature li lung could use disintegrate and flesh to stone.
+
+Ecology
+A li lung's diet consisted of earth, stone, and minerals. They were particularly fond of consuming precious metals such as gold and silver. Li lungs made their home in labyrinthine caverns deep underground, far from civilization.
+
+Celestial Bureaucracy
+Within the Celestial Bureaucracy, li lungs controlled the powers of the earth.
+
+Lands
+In the 1350s DR, several li lung laired in the Satoyama mountains on the island of Shinkoku in Kozakura. They had befriended Lady Sato Kitashi by 1357 DR. Dragon-hunters usually steered clear of these li lung—wu jen warned that their earthquake power might also awaken the great Earth Dragon that slumbered beneath Shinkoku, which would be catastrophic for all.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Lightning bug (spell)
+
+Lightning bug was an alteration/evocation spell that created a small mote of electricity that could shock an individual.
+
+Effects
+This spell was created as an amalgamation of the spells magic missile and shocking grasp. When a lightning bug struck a person, or a similarly conductive material, it generated an electrical charge that increased depending on the skill and experience of the caster.
+
+Casting
+This spell only required verbal and somatic components in order to be cast.
+
+History
+Lightning bug was developed by Gemidan, who served as apprentice to the original Blackstaff Khelben Arunsun during the 14 century DR. By the Year of the Banner, 1368 DR, it was known by several of Gemidan's close friends and comrades and was made readily available to members of Waterdeep's City Guard and City Watch.
+
+Appendix
+See Also
+ Magic missile
+ Shocking grasp
+References
+
+---
+
+## Liono Marlot
+
+Liono Marlot was the tactician of the hammership, the Probe.
+
+Description
+Liono was a short and slender man. He had a quick tongue.
+
+Relationships
+Liono was good friends with the ship's weapons master Bubbo, and the two spent much of their off-time sharing drinks in the officer's saloon aboard the Probe. He was also a long-time friend of the first-mate Aelfred Silverhorn.
+
+History
+On the journey from Krynn to Toril, while in the flow, the Probe was attacked by a neogi deathspider. As tactician, Liono's advice was to run fast, not because of cowardice, but because a deathspider's most powerful armaments were at its aft. Bubbo argued instead that they should turn and face the deathspider, since the hammership's most powerful weapons could only fire forward. The first-mate ultimately chose Bubbo's plan.
+
+During the battle, the spidership pinned the smaller vessel in its grappling ram, and the Probe was boarded by human and demihuman slaves and raging umber hulks. During the bloody fight, Liono was impaled by a spear thrown from one of the assailants.
+
+Appendix
+Appearances
+ Into the Void
+
+References
+
+---
+
+## Living unseen servant
+
+A living unseen servant was an unseen servant that had been conjured as a living spell in an area effected by wild magic. They served their master unerringly, as a sort of over-eager manservant or chambermaid.
+
+Description
+While they were typically invisible in appearance, as per their name, the use of certain divination spells such as see invisibility or true seeing showed they had the form of a slender, adult humanoid.
+
+As they were considered magical constructs, living servants were immune to poison, paralyzation, and petrification, and could not be rendered unconscious.
+
+Appendix
+See Also
+ Unseen servant
+References
+
+---
+
+## Liam Thistledown
+
+Liam Thistledown was a human child, and the first human encountered by Drizzt Do'Urden.
+
+Description
+Liam was the youngest child of the Thistledown family, and was somewhat mischievous. He had light brown hair and eyes, with several freckles.
+
+History
+In the mid—14 century DR, Liam ventured out of the farming household, slacking from his chores. Drizzt's panther, Guenhwyvar, started for the child, but the dark elf stopped her. Later, Drizzt approached the child, and explained his name, whilst pointing to himself. The child screamed in fear, "Help, it's a drizzit!", and ran back home to tell his family. Some of his folk, curious, ventured out with him. They too eventually met, and were scared off, by the drow renegade.
+
+Unfortunately, the Thistledown household was raided by the barghest Ulgulu, who murdered every family member, including young Liam.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lich's coffin
+
+A "lich's coffin" was a term given to a  special box designed to imprison an undying lich.
+
+Known Lich's Coffins
+In the Year of the Laughing Dead, 1056 DR, the lich Anthilar was severely incapacitated after a spell-battle in the streets of Tashluta in the Tashalar. Unconscious, he was trapped inside a lich's coffin and shipped north out of the city. His phylactery was not located. The intended destination was the Skullspire, a temple to Myrkul, the god of the dead, in Tulmon near the Lake of Steam, where the senior priests of the Conclave of Doom desired to study the lich. It never got there, and the lich's coffin changed ownership many times until at last it became part of the hoard of the mercury dragon Tostyn Alaerthmaugh in the Evermoors. It lay there, still unopened by 1374 DR.
+
+Description
+Anthilar's lich's coffin was fashioned from metal and described as massively armored. It levitated and stood upright. Tostyn was unable to open it by 1374 DR.
+
+Appendix
+References
+
+---
+
+## Lightning mephit
+
+A lightning mephit was a mephit from the Quasi-Elemental Plane of Lightning.
+
+Description
+Out of all the mephits, lightning mephits were the fastest. They were described to move like a lightning bolt through the air. Lightning mephit arms were essentially thin bolts of lightning, and their feet and hands were cloud-like, resembling a storm cloud. Unlike many other mephits, they had no wings, but that didn't stop them from traveling extremely fast (sometimes so fast that they couldn't control their path).
+
+Personality
+They were hyperactive, curious, and spoke very quickly. They constantly desired to be involved in activities.
+
+Combat
+Curiously, instead of engaging in combat, these mephits preferred to make friends with their opponents. Their lightning-bolt-like arms had no claws for attacking as regular mephits would. However, they could cause great damage if needed to, by casting lightning bolts within 80 ft (24 m). If they wished to cast further bolts, they would become slightly damaged.
+
+Lightning mephits could gate in up to four other mephits of the same type. Non-magical weapons would not damage these mephits, and would, instead, cause damage to the attackers. As well as this, they were immune to fire and heat, as well as electric damage of all kinds. However, they were very weak against large amounts of water, which could destroy them.
+
+On contact with an electrical source, lightning mephits would regenerate every single bit of damage. After gating in several other lightning mephits, they could consistently heal each other (only sacrificing a tiny amount of health to fully heal others), to the woe of uninformed enemies.
+
+Society
+Unlike all other mephits, lightning mephits were fairly often found in bands, instead of on their own.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Light (angel)
+
+Light aasimon, or simply lights, were shapeless angels composed of pure energy and goodness.
+
+Mystryl, the Netherese goddess of magic, utilized light aasimon as messengers.
+
+Description
+Lights appeared as small, swirling, constantly shifting mists of light. Deep within these mists, one could see a rainbow of changing colors. Some observers claimed that good beings would see memories of their best moments in life taking shape within the light's form. Evil creatures would instead heed visions of what might have been had they chosen the path of good.
+
+Abilities
+Lights had all of the magical powers common to the other angels. In addition, they could create various forms of magical light, bestow blessings upon others, dispel evil, and cause a person to cease movement. They were at all times protected from evil.
+
+Lights were immune to mind-affecting spells, and good creatures found it nearly impossible to attack them. Lights could not be harmed by mundane weapons.
+
+Unlike other angels, lights were able to create a gate to call assistance from an agathinon.
+
+Combat
+Lights attacked by enveloping an evil enemy and damaging her or him with raw energy.
+
+Society
+
+Lights were sometimes sent to serve as temporary familiars for powerful worshipers. To request a light aasimon familiar, a worshiper had to fast for three days and three nights, be baptized in holy water, and cast or have cast the find familiar spell. This request was only answered about one time in ten, but when it was answered, this was a tremendous boon against the forces of evil. A light would never stay with a master for more than a single mission.
+
+Lights were created by the good deities from the celestial essence of angels who had been slain while on other planes. It was also possible for trumpet archons or other archons to be promoted by lawful good deities into lights. For their sacrifices in their former forms, lights were viewed with awe by other celestials.
+
+There were only fewer than 1,000 lights in existence at any one time. Lights could be transformed into other celestial stewards by the will of the powers.
+
+Ecology
+Creatures of energy, lights subsisted from the energy supplied by their home plane. A light could not be destroyed, unless on its home plane. A light slain elsewhere would dissipate and simply reform on its home plane in one month's time.
+
+Appendix
+See Also
+ Lantern archon
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Life transference
+
+Life transference was a necromantic spell that allowed a caster to heal another.
+
+Effects
+When cast, the caster took necrotic damage and healed another creature. The spell functioned by transferring some of the life force of the caster to the injured creature. For the spell to be effective, the target creature was required to be within  of the caster. The amount of life force taken from the caster and the amount of healing it offered was determined by the caster's skill level.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lightning arrow
+
+Lightning arrow was a spell used by rangers.
+
+Effects
+This spell turned a weapon into a bolt of lightning. It only functioned with a ranged weapon, either the missile of one, such as an arrow, or the weapon itself, such as a throwing axe. When the spell expired, the weapon returned to its normal state. When the weapon struck a target, every creature within 10 feet (3 meters) suffered electrical damage.
+
+Components
+This spell required verbal and somatic components.
+
+Appendix
+See Also
+ Call lightning
+ Chain lightning
+ Lightning bolt
+External links
+
+References
+
+---
+
+## Linene Graywind
+
+Linene Graywind was the master of the Lionshield Coster trading post in Phandalin in the late 15 century DR.
+
+Personality
+She was described to be sharp-tongued. She worked tirelessly to keep her business running smoothly regardless of whether times were good or bad, and was grateful to anyone that could aid her in times of need. She was a reliable source for gossip.
+
+Activities
+Graywind was a representative of the Lionshield Coster, a Yartar-based merchant organization. She traded in a wide variety of supplies, and the Lionshield Coster was the main place to buy finished goods and horses in Phandalin. Linene did not deal in illicit goods, and was willing to sell weapons and armor only to those whom she felt would not threaten the village of Phandalin. If her store did not carry a piece of equipment, she could place a special order to have it delivered within a few days, a service for which she required the customer to pay a deposit.
+
+She lived in a small house just west of her business.
+
+Relationships
+Linene had a daughter, Minghee Graywind, about whom she was prone to worry but tried to be supportive.
+
+She was friends with Alaestra Ulgar, a colleague who managed the Lion's Share in Triboar.
+
+History
+In 1491 DR, Linene expected a large shipment of goods from Yartar, but they never arrived. The caravan transporting the weapons and armor was raided by Cragmaw tribe goblins, and was taken to their base.
+
+She refused to do business with the Redbrands, a local bandit group, and advised adventurers to stay away from the Sleeping Giant, where the ruffians drank.
+
+Following the attacks by the white dragon Cryovain in the surrounding region, Linene hired on Velleen Firecrow as a new assistant and courier. Velleen and her cadre of adoring kobolds turned out to be spies for the evil Cult of Talos.
+
+In 1496 DR, Linene was training her daughter, Minghee, to someday take over the business, which now found itself in stiff competition with the Phandalin Miner's Exchange under the ownership of Sharna Quirstiron. However, Minghee wanted to travel, or to at least find a job that would allow her to do so, which concerned Linene.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Living muck
+
+A living muck was an oozing mass of filth.
+
+Description
+Living mucks were described to be pudding-like creatures. As such, they were dark, featureless blobs.
+
+Combat
+Attacking such a creature with metal weapons would cause the weapons to be destroyed. Thus, usage of ranged magic or wooden weapons was often the best way to deal with them.
+
+As with other oozes, they had a large array of resistances and immunities. Living mucks were completely immune to acid, lightning, and poison, as well as resistant to fire. Cold-based magic would usually harm the creatures.
+
+Ecology
+Living mucks were known to serve the Dark God, and resided in the Temple of Lathander in Myth Drannor.
+
+Appendix
+Appearances
+Video games
+Eye of the Beholder III: Assault on Myth Drannor
+
+References
+
+Connections
+
+---
+
+## Lightbringer
+
+Lightbringer was an enchanted mace.
+
+Description
+The holy mace glowed with a great radiance, and was made of brass. The end of Lightbringer was shaped like that of a sun breaking out from the clouds.
+
+Powers
+Lightbringer, which shone like a torch when commanded, had a +1 enchantment, and allowed the wielder to cause extra damage to undead beings.
+
+History
+Some time in the 10 century DR, the explorer Urmon noted in his journal that the magical mace was commissioned by clerics of Lathander from artisans of the Forge of Spells. However, it was lost when Uruth Ukrypt raided the area.
+
+Circa 1491 DR, the mace, as well as Dragonguard, was watched over by a spectator beholder that was conjured by the original wizards that dwelt in the Wave Echo Cave.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Little One
+
+Little One was an ogre scholar that lived and studied in Candlekeep during the late 15 century DR. He was a reticent individual, unlike others of his kind, who found a haven in the library-fortress after being shunned by the rest of "civilized society". He was well-liked by the monks of Candlekeep and his intellectual pursuits were nurtured by their warmth and encouragement.
+
+Little One regularly stayed at the Hearth, the predominant festhall found in Candlekeep.
+
+History
+A few years before the, the ogre later known as Little One was as savage as any other of his species. One day, he encountered a halfling in the possession of a gold headband of intellect, whom he then killed without a second thought. The ogre recovered the magical item, attuned to it and placed it upon his own head.
+
+After gaining a genius-level intellect offered by the headband, the ogre became remorseful over the murder he committed. He sought to learn as much as he could, to combat the ignorance and the violence that previously filled his life, and adopted the name "Little One". He chose that name to honor the slain halfling whose death spurred his new life as an intellectual.
+
+Possessions
+In addition to the headband that so dramatically altered his life, Little One owned a copy of The Sum of Theology written by Saint Vetheera.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Lightning lance
+
+Lightning lance was an evocation spell that created a bolt of corporeal lightning that could be wielded or thrown as a weapon or discharged at will.
+
+Effects
+When the spell was cast, a 4-foot-long (1.2 meters) shaft of lightning appeared in the caster's hand. If they wished, the cleric could discharge the lance upon an object or surface, throw it in a manner similar to a javelin, or wield it as a polearm.
+
+If the lightning lance was thrown, it flew through the air and damaged any person or creature it struck, similar to a lightning bolt. When wielded as a melee weapon, the lance functioned as if it possessed a +1 enchantment.
+
+History
+The specifications of this spell were inscribed upon the Talassan relic, the Chanting Chain.
+
+Components
+This spell required verbal and somatic components in order to be cast.
+
+Appendix
+References
+
+---
+
+## Life bolt
+
+Life bolt was a spell used by sorcerers and wizards.
+
+Effects
+When cast, this spell created a beam of positive energy from the life force of the caster. The caster could target a single or multiple creatures. If the caster was attacking multiple targets, they had to be no more than  apart. The amount of beams the caster could create was determined by their skill level.
+
+Components
+This spell required only verbal and somatic components.
+
+History
+This spell was invented by Stavros of the Skulls, the Cyricist necromancer, as a result of an incident involving losing control of zombies. At the order of the Lord's Court of Waterdeep, he was ordered to create and develop four beneficial spells of the necromantic school or be forced to return to the bowels of Undermountain, a place from which he had just returned three months prior. He complied, and and this spell was one of the four he gave to the Watchful Order of Magists and Protectors.
+
+Melegost Starseer, a Magister of Mystra, once described this spell as an ideal spell which represented the values of the goddess herself.
+
+Appendix
+References
+
+---
+
+## Living prints
+
+Living prints was a spell used by harpers and rangers while tracking.
+
+Effects
+When cast, this spell allowed the caster to see a creature's trail as if it was fresh. This spell functioned on any tracks less than thirty days old. For the spell to be effective, the caster had to have detected the tracks naturally before casting.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+References
+
+---
+
+## Ling Yu Pao
+
+Ling Yu Pao, nicknamed the Weasel, was a korobokuru bushi in Linshung, Hungtse Province, in Shou Lung circa .
+
+Activities
+Yu Pau worked as a retainer for a wealthy merchant, Kao Ling of Linshung. When Kuang Ming Ling, the daughter of his employer, decided to go on pilgrimage to a far-away monastery, Kao Ling discreetly sent Hsiao Nan and another korobokuru retainer, Hsiao Nan Tzu Wen, to protect the girl.
+
+Personality
+With this being his first well-paid job, Yu Pao was very serious in his duty to protect Kuang Ming and he always advised caution and tried to convince her to go back home, often causing her anger. He endured this suffering.
+
+Relationship
+The bushi was skilled in the bow and short sword.
+
+Appendix
+References
+
+---
+
+## Lien Hua Liang
+
+Lien Hua Liang was a young noblewoman of Linshung, Hungtse Province, in Shou Lung circa .
+
+Relationship
+A member of the illustrious Lien Clan, Lien Hua was the only daughter of Lord Chen. Her great uncle was a renowned Minister of Public Works under Emperor Hsiao Chin.
+
+Personality
+At age 15, Hua displayed all the classic virtues for a Shou maiden: beautiful, devout, virtuous, talented, and obedient and respectful to her parents.
+
+Activities
+Hua pursued by many young suitors. However, her father gave impossible missions to all her suitors so she could not be separated from him.
+
+Appendix
+References
+
+---
+
+## Liara Portyr
+
+Liara Portyr  was a member of the Portyr patriar family, the commander of Fort Beluarian and the highest-ranking member of the Flaming Fist in Chult in the late 15 century DR. She answered only to Duke Ulder Ravengard of Baldur's Gate.
+
+Personality
+Liara was a hard-hearted and dedicated leader who held high respect for militaristic order. She saw hardships as challenges for her to overcome.
+
+She admired those who took up the adventuring life. She supported those who operated within her jurisdictional area of Chult and assisted them with overcoming obstacles they faced.
+
+History
+Liara was born to the well-off Portyr family of Baldur's Gate, niece of Grand Duke Dillard Portyr.
+
+At the age of forty-seven, she was assigned to the post of Fort Beluarian in Chult. During her command, she struck a deal with the pirates of Jahaka Anchorage, ensuring extra wealth for her and her soldiers, along with safe passage for Baldurian vessels. The Zhentarim subsequently heard rumors of this arrangement and sent their agent Rokah to find evidence with which to blackmail her.
+
+Three years into her command in Chult, the death curse afflicted Toril. Liara remained more invested in her mission than in learning about the curse, but she presumed that the ancient witch doctor known as Nanny Pu'pu likely knew something about its origins.
+
+When Grand Duke Ravengard became trapped in Elturgard during the city's descent into Avernus in the, Liara Portyr was summoned back to Baldur's Gate to take the lead of the Flaming Fist. When the Cult of Bane and its secret leader Lord Enver Gortash was reaching for political power in the Gate, the cult targeted Liara and her uncle. Gortash planned to remove Dillard from his seat in favor of Liara with simple threats. She, in turn, was to be infected with an illithid tadpole that would enslave Liara to the Absolute. During the Absolute crisis, Liara Portyr held the title of the Commander of the Flaming Fist Headquarters stationed in the Basilisk Gate barracks. During that time, Blaze Portyr dispatched investigators to tackle various crimes in the Gate, including sending investigator Valeria to a "plague ship" (case #612), a "hand-taking murderer" (case #655), the "mortal injury to the waveservant" (case #657). She supervised the investigation into the disappearance of Lora Bergauz's seven-year-old daughter from the Blushing Mermaid. Liara uncovered a lead, but in the process, she was bewitched by the culprit – the green hag named Auntie Ethel. Liara's mind was clouded and forced her to talk in circles as if completely forgetting anything related to the investigation or the missing child. If Auntie Ethel were to be successfully defeated, Liara would come to her senses, her mind clear, apart from headaches and a vague memory of a fey.
+
+Appendix
+Notes
+
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Lightning reflection
+
+Lightning reflection was a defensive wizard spell.
+
+Effects
+This spell offered the caster, or anyone they touched during the casting, the ultimate protection against lightning or other attacks involving energy discharge. The caster was protected against both natural and magical lightning including magic missiles.
+
+Components
+In addition to verbal and somatic components, this spell required as material components a drop of quicksilver and a shard of metal to cast.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Living Gem
+
+The Living Gem was a powerful and dangerous artifact that played a significant role both in the First Era of Skyfire and during the Living Gem War.
+
+Description
+The Living Gem was a floating multi-faceted ruby that glowed. It was as large as a human head.
+
+Powers
+The majority of mortals who touched the Living Gem were magically absorbed into the gem, both body and soul. Since their souls were consumed by the gem, they could not even be raised from the dead.
+
+Those mortals—never undead—who touched the Living Gem with two hands with the intent to control it would sometimes succeed at mastering the gems power. A successful master of the gem never needed to touch it again; in fact, he or she felt a strong desire not to.
+
+The Living Gem's master could allow others to touch the gem to gain the power to control it as well, but these were secondary masters, and the gem would obey commands from the primary owner over any others.
+
+To steal control of the gem from another required touching the gem with two hands, as above, except wresting control from another was more challenging and dangerous a task. If a new master was successful, the previous master's body and soul were absorbed into the gem.
+
+Only dying or becoming undead freed a master from ownership of the Living Gem.
+
+Controlling the gem required mental commands and concentration. The gem could be controlled from any distance, which was a part of what made the magic object so powerful.
+
+The gem could be moved at the command of the owner; otherwise it levitated in place. It could be summoned to teleport from any location to the master's.
+
+The gem served much like a crystal ball in that the master could use it to scry on any location. The image could be made to appear on one of the facets of the gem or upon the surface of an illusory mirror created by the power of the gem. The viewer could use the gem's magic to teleport to any location visible by such scrying.
+
+Evocation spells could be cast into the Living Gem, which were stored until any owner or co-owner willed them to be invoked. At such a time, the spells would originate from the current position of the gem.
+
+The Living Gem also absorbed any spells cast at its master, with the exception of curses, even if the gem were in a location no where near its owner. On the contrary, curses against the owner always succeeded but were prevented from killing the owner outright.
+
+The Living Gem was not actually alive, but it had a residual sense of self from the countless souls it had absorbed over the millennia from many worlds. Those who possessed the gem saw reflections of their own lust and greed, and confused them into thinking that the gem was alive. The Living Gem ultimately drove its masters insane in as little as a few days to as long as a few years.
+
+Some scholars believed that the Living Gem could be destroyed only by a touch from the scepter of a surviving member of the Djen still living on the Plane of Air. Others believed that the demilich Shoon VII could somehow consume the all the life forces from the gem, draining it of all its magic power. Finally, it was said that perhaps immersion in the pool of Evergold could quench the gem's dark magic forever.
+
+History
+The gem first came to Faerûn from the Plane of Fire, being a weapon used by the Army of Flame, led by the efreeti Memnon, against the Djen of the Calim Empire. With substantial aid with the powerful gem, the Army of Flame wreaked havoc on the Calim Empire over a period of time known as the First Era of Skyfire, until the war was finally ended by the elven high magic of the baelnorn Pharos.
+
+Historical records of the nomadic humans of the region have been discovered that suggest that the Living Gem survived the fall of Memnonnar and remained in what would later become the Lands of Intrigue. Documents found in the ruins of Shoonach further suggest that the gem played a role in the rise of the Shoon Imperium thousands of years later.
+
+In any case, the final qysar of the Imperium, Shoon VII was definitely aware of the Living Gems existence, having discovered its location, though it is not clear that he ever acquired the artifact for his own use before his own supposed death and the fall of the Empire.
+
+In the, a wizard adventurer from the city of Schamedar in Calimshan, arranged for the theft of the Tome of the Unicorn from the Green Rooms of Ruathym. The wizard's name was Shond Tharovin. It took a year for Shond to understand how to use the book and to communicate with the trapped soul of Shoon VII and agreed to free the lich in exchange for information on the whereabouts of the Living Gem. Shoon kept his agreement and revealed that the gem was hidden in the Forest of Mir.
+
+Shoon had told Shond that the gem was located in "a long-lost temple to the Great Slug, Ghaunadaur, beneath the roots of the Murabir's Woods." It took ten years, until the early months of  before Shond finally recovered the gem from a subterranean temple in Mir, some 20 miles southwest of the Vorpal Tower in a location in the Underdark far from the influence of Lolth and her priestesses.
+
+He returned to Schamedar in the month of Mirtul and began bringing the gem to meetings with the Council of Vizars. Within a month, he had murdered or exiled all of that city's Council of Vizars, declaring himself its new ruler. Claiming to be receiving orders from the Living Gem about the future greatest of Calimshan, he demanded that all citizens join him in the gem's worship. He established a religious order of rainbow-robed priests, called the Cult of the Living Gem, and commissioned the construction of a temple.
+
+The people of the countryside rose up against Shond Tharovin's rule, finding leadership in a group calling themselves the Seven Satraps. In response, Shond used the power of the gem to summon dark horrors to attack the rebels and villagers living along the River of Ice.
+
+Shond himself was finally defeated in the month of Eleint by the power of a curse called down by an archmage named Yoond Shalshymmyr. The curse resulted in Yoond's death, but it succeeded in stopping Shond, transforming him into an immense gibbering mouther. Shond was driven by the citizens of Schamedar into the sewers below the city.
+
+However, the Cult of the Gem now controlled the Living Gem, and they continued to use its powers to terrorize the people of Schamedar, sending down lightning bolts and fire. It took an extended siege by the forces of the Seven Satraps to finally retake the city in  and depose the Cult, but the survivors of the cult managed to escape with the gem, and it is not known what became of either them or the magical artifact.
+
+For some unknown reason, a number of dwarven houses sought the Living Gem for generations to the point of obsession.
+
+Appendix
+References
+
+---
+
+## Lizard's Gizzard
+
+The Lizard's Gizzard was a boarding house that operated in Daggerford during the late 15 century DR. It was owned by a half-orc woman named Sasha who had a soft spot for those people that society cast away.
+
+Location
+It was located on the north side of the town's Money Quarter, on the southern side of Duke's Way.
+
+Atmosphere
+While its sign featured rather gruesome depiction of the young Tyndal eviscerating a lizardfolk marauder, the Lizard's Gizzard was a place of altruism. Its staff comprised many young women that were left orphaned and abandoned.
+
+Services
+The establishment was wholly dedicated to offering folks a place to stay at night. It offered nothing in the way of libations or provisions.
+
+Appendix
+Appearances
+Adventures
+Scourge of the Sword Coast
+References
+
+---
+
+## Living Gem War
+
+The Living Gem War was an internal conflict in the city of Schamedar in southern Calimshan that lasted from Eleasias of 1367 DR to early 1368 DR. It centered around the artifact known as the Living Gem.
+
+History
+Background
+Shond Tharovin was an adventuring wizard out of Schamedar, with a reputation for insanity, who had sailed to the isle of Ruathym in the  to plunder the royal library in the city of Ruathym known as the Green Rooms. There he found the Tome of the Unicorn, which contained the demilich form of Shoon VII, trapped within its pages. He successfully mastered the powers of the artifact and, in the process, survived an encounter with Shoon himself. In exchange for the souls of seven innocents, Shoon promised to tell Shond the location of another powerful magical artifact that he had experience with. On Kythorn 15, the Lands of Intrigue Book Three establishes that the attack happened on the day that the gods fell to Toril at the beginning of the Time of Troubles; The Forgotten Realms Atlas establishes this date as the 15 of Kythorn., Shond ambushed a group of mages in the Cloud Peaks, who were traveling from Mosstone to Silverymoon. Shoon devoured the souls of most of the mages, but his final victim, Zallanora Argentresses, was spared by a surge of wild magic. Rather than losing her soul to the demilich, the elven wizard's consciousness traded places with that of Shoon.
+
+Free to act independently of the Tome, Shoon held true to his word and told Shond to seek his prize in "a long-lost temple to the Great Slug, Ghaunadaur, beneath the roots of the Murabir's Woods." After a roughly nine-year-long search in the Forest of Mir, Shond discovered, twenty miles southwest of the Vorpal Tower, a collapsed cave entrance. After clearing the passage, he found that the cave did indeed lead to a ruined temple of That Which Lurks, and deeper, beyond that, to a similarly ruined wizard's tower. Inside the tower was a glowing, faceted ruby around the size of his own head, levitating under its own power. Prize in hand, he returned to Schamedar in Mirtul of the, boasting of and showing off his discovery. Shond began participating in meetings of the city's ruling council of vizars, always bringing the Gem with him. The councilors all disappeared under mysterious circumstances over the next month, and sometime in Kythorn, Shond declared himself Syl-vizar and Caleph of Schamedar by showing an assembled crowd the magical assassination of former Vizier Artouk Fanzir, suggesting that if the people didn't serve him, the same thing might happen to them.
+
+Events
+After this successful coup against the government of Schamedar, Shond set to creating a cult and constructing a temple to get his subjects to worship the Gem as he did. After a couple of months, the leaders of seven villages and towns along the River of Ice, east of the city, declared that Shond and his cult were evil and vowed to stop him. These leaders called themselves the Seven Satraps. After this vow was made, monsters began attacking the rebellious Satraps. They were forced to hire adventurers and appeal to local wizards to defeat the monsters, but the attacks are near-constant and never-ending.
+
+An archmage named Yoond Salshymmyr, in Eleint, decided to cast a powerful curse on Shond but the magic of the curse was so powerful, Yoond lost his life in the casting. The cultists began murdering citizens seemingly at random, trying to enforce the idea that the cult was still in control of the city. The citizenry rebelled against these random killings, attacking the priests. They discovered Shond, cursed into the form of a gibbering mouther, and drove him into the city's sewers. The High Priest of the cult, Ong Thwarba, used the Living Gem to teleport himself out of the city. In response, the Seven Satraps marshaled their forces to attack any cultists outside of the city walls, while those still inside the city started shoring up the walls and hiring mercenary guards to repel any potential hostiles.
+
+By Uktar, Schamedar was under siege by the forces of the Satraps, with the Living Gem flinging spells at the attackers. The siege continued into the following year, until the few remaining cultists escaped with the Gem and went into hiding, allowing the Seven Satraps to take control of the city.
+
+Appendix
+See Also
+Notes
+
+Appearances
+Gallery
+External Links
+References
+
+---
+
+## Lightning ring
+
+Lightning ring was a wizard spell from the school of evocation.
+
+Effects
+This spell created a ring of lightning that surrounded the caster at chest-height. The lightning ring would move with the caster and the caster could work other magic while the ring was active. The ring prevented all forms of lightning from harming the caster.
+
+Lightning bolts shot from the ring twice per minute, harming any living targets they contacted. The caster could also decide to use all of the lightning ring's energy at once, releasing eight lightning bolts to selected targets which ended the spell.
+
+Components
+In addition to verbal and somatic components, this spell required as material components a glass ring of any size and some animal fur to cast.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Liontongue River
+
+The Liontongue River, also known as the River Pritan or the River Panka, was a waterway found in the Shining Lands.
+
+Geography
+The river flowed through Veldorn, Estagund and a small part of Durpar. It originated in the Thrulaliel Mountains in the southwest, flowing north to join the River Madras near the Wood of Dark Trees before turning east and meeting the western bank of the Golden Water. The Liontongue River stretched for several hundred miles along its path to the sea.
+
+Appendix
+References
+
+---
+
+## Lightning gen
+
+Lightning gen were gen native to the Quasi-Elemental Plane of Lightning.
+
+Description
+Lightning gen resembled tiny humanoids made of pure white light. Their legs resembled lightning bolts.
+
+Personality
+These gen were usually very cautious and aloof.
+
+Combat
+Lightning gen preferred to avoid combat but were quite capable of attacking with shocking bolts. These gen were quite stout compared to other gen, perhaps as a reflection of the powerful masters they served.
+
+Habitat/Society
+Lightning gen served powerful entities as heralds or familiars but they would not respond to sha'irs the way other gen would.
+
+Appendix
+See Also
+ Gen
+
+References
+
+---
+
+## Listle Onopordum
+
+Listle Onopordum was a living illusion spellWhile the living spell was created long after Listle's appearances, she fits perfectly the lore established for their creation, so this article assumes her to be one. turned elf illusionist living in Phlan in the Moonsea in the mid-to-late 14 century DR.
+
+History
+Listle was originally a simple illusion spell created by the evil elf mage Sifahir to guard his treasure, but somehow, either by its magical power or some spontaneous change, she became self-aware and gained a sense of morality. She stole a powerful magical ruby pendant made by gnome illusionists that granted her life. Then she escaped, rescuing Sifahir's prisoners as she left.
+
+Later in life, she became an illusionist herself and went to the city of Phlan and apprenticed to the wizard Shal Desanea. Later she joined her friend and later husband Kern Desenea on his quest to retrieve the Hammer of Tyr taken by the dark god Bane. With her fellow Heroes of Phlan, she was instrumental in destroying the Pool of Twilight that was terrorizing the city. In the process, Kern healed Listle, and by Tyr's grace, brought her full life.
+
+Her husband Kern was one of the paladins from Phlan attending the wedding ceremony for the Open Lord Piergeiron the Paladinson of Waterdeep in 1371 DR. The wedding was a disaster that resulted in the bride's abduction. The attending paladin heroes were recruited by Khelben Arunsun to be a part of the rescue mission. Both Listle and Evaine wanted to join their husbands on the adventure, but time was essential and traveling to Waterdeep would've taken days. The women stayed behind wishing their partners the blessings of Tyr.
+
+Relations
+She became the wife of Kern Desanea.
+
+Listle was friends with Evaine, the magic-user wife of Miltiades. The women bonded over their husbands' close friendship and camaraderie as paladins of Tyr.
+
+Personality
+Listle was a fun-loving, spirited, and upbeat woman with a streak of fiery temper. She used to mercilessly make fun of her husband, thanks to his student, young Harloon, who followed the paladin around showering him with admiration like a puppy dog.
+
+Appendix
+
+Notes
+
+Appearances
+Pool of Twilight
+The Paladins (mentioned)
+
+References
+
+---
+
+## Lilis
+
+Lilis was the consort of the Archduke Dispater of the Nine Hells.
+
+Description
+Lilis resembled a  plump human woman of middle age, her body "well-preserved". However, she numerous traits that set her apart from a human, including orange-red skin and small horns, copper-colored hair, bright green eyes, long red nails, delicate, cloven black hooves, a forked tail and wings.
+
+Personality
+Lilis was a careful strategist and figure of exceptional intelligence.
+
+Powers
+Lilis was one of the older and weaker consorts, but she still possessed an array of spell-like abilities. Her notable abilities, included the power to cause fear by pointing at a victim, cause insanity by touch once per day, and summon 1-3 erinyes with fairly high odds of success.
+
+Possessions
+Lilis possessed several gemstones and a few potions.
+
+Activities
+Lilis lived in the layer of Dis, and could almost always be found in Dispater's Iron Tower. Though she was just the consort of Dispater, she also served as spymaster and diplomat. She kept her eye on events in and beyond the Hells, her network of spies said to be second only to Asmodeus, and her careful maneuvering kept her position as secure as any of Baator's other nobles.
+
+Relationships
+Lilis was the consort of Dispater and presumably the mother of his daughter Malachlabra. However, Dispater's heavy reliance on his representative Titivilus gave him such uncanny levels of responsibility that he was put in charge of even Lilis.
+
+Lilis was also close to the archdevil Biffant, Dispater's provost and manager of the Iron Tower; the two both trusted each other (as much as devils did) and showed unfailing loyal to their lord Dispater, granting him enviable control over his layer.
+
+Appendix
+Further Reading
+
+References
+
+---
+
+## Living Axe
+
+The Living Axes were a dwarven cult dedicated to the worship of sentient items. Unlike other cults, which were short lived, the Living Axe resurfaced periodically.
+
+Organization
+Living Axe sects typically worshiped and obeyed the orders of sentient weapons, but most commonly those that were axes. These weapons were often either the prison of a malevolent spirit or being controlled by one.
+
+Activities
+Members of the Living Axe believed that the numerous magical items created over the years by dwarven smiths were guided by a divine inspiration that lived within the items themselves. They often sought to extend the rule of the items that led them over other dwarves and even small communities of halflings, humans, and gnomes. Having even gone to war at times to do so.
+
+Some of sects cults adhered to the principles of the faith of Clangeddin Silverbeard, but the majority strayed very far from them.
+
+Other members of the organization sought to create more magical weapons - this often took the form of two weapons that were inspired by relics of Myth Drannor, the guardian blade and watch axe.
+
+Possessions
+Living Axe priests typically carried multiple throwing axes and wore fantastical piked helmets.
+
+Relations
+Over the centuries, the Dwarven god Clangeddin Silverbeard embraced some of sects of this cult in hopes of making sentient weapons part of his portfolio and of folding those sects into the more orthodox branches of his battle-loving faith. Spells were even granted by Clangeddin to those cultists who adhered to his faith's principles, if not its ritual practices. However, he had little patience for those led by weapons that were sentient due to an insane or malevolent spirit. Because of this and so few of these sects adhering to his principles, the majority of Living Axe cults were granted spellcasting powers by other deities.
+
+Notable Members
+ The Living Axe was the most prominent leader among the Living Axe cults. It was a double-bladed, bronzed adamantine watch axe of unknown origin, from which the organization got its name. Some priests of Clangeddin suspected that it was in charge of many of the most depraved Living Axe cults.
+
+Appendix
+References
+
+---
+
+## Listening Tree
+
+The Listening Tree was an ancient massive oak tree in Elventree that was pruned so the leaves and branches acted like an amphitheater with perfect acoustics.
+
+Description
+The tree stood in the exact center of Elventree around 1367 DR. Thousands of suspended globes enchanted with continual light illuminated the tree.
+
+Activities
+An audience used the branches of the tree for seating for performances staged on a large branch three-quarters of the way up the tree. Meetings of significant importance to the community were held here as well.
+
+Appendix
+References
+
+---
+
+## Listen
+
+Listen was a person-affecting cantrip that wizards-in-training could learn. It conveyed a short message to a nearby entity, alerting them of the caster's presence if they were not already cognizant.
+
+Effects
+This cantrip worked on one target creature within The original range was  as specified in Dragon #100 and Pages from the Mages but was halved in Wizard's Spell Compendium Volume Four. that the caster could see. This spell did not amplify the caster's voice and could not overcome any sound barriers between the caster and the target, nor hearing impediments (such as deafness or magical silence). In addition, the target had to understand the language the caster used for precise meaning to be conveyed. It was most useful across a crowded room or a busy street. The message sent could be up to about six words long and did not, by itself, interfere with the concentration or spellcasting of the target creature.But a humorous quip might, for example. Unlike the message spell and cantrip, the recipient could not reply to the sender.
+
+Components
+This cantrip required verbal and somatic components to cast. The caster first pointed at the target creature, then back at themselves while saying the word "ahem". It was the visual line-of-sight and not the pointing that determined the target.
+
+History
+This cantrip was one of three unique cantrips (along with horn and scorch) recorded in Glanvyl's Workbook, penned by the relatively unknown Glanvyl of Scornubel in the 11 century DR.The three cantrips described in Dragon #100 were replaced with the cantrip spell when the 2-edition Pages from the Mages was published. The Wizard's Spell Compendium Volume Four describes all the 1-edition cantrips as examples of what you could do with cantrip.
+
+Appendix
+See Also
+ Message
+Notes
+
+References
+
+---
+
+## Limbo/Imagemap
+
+The following image map was generated using information compiled from the following sources:
+
+---
+
+## Lilitu
+
+Lilitus were tanar'ri demons born from the ashes of succubi who had sacrificed their lives to corrupt and destroy holy congregations.
+
+Description
+Lilitus had the general form of a beautiful mortal woman, standing around  tall and weighing around . They did, however, have many features that marked them as demonic, including taloned hands, cloven hooves for feet, and four tails tipped with poisonous stingers that were each  long. Their eyes were white and vacant. The wings they had as succubi were destroyed during their transformation and hung tattered and burned on their backs.
+
+While on the Material Plane, lilitus often used their innate magic to cloak themselves in the illusion of an attractive mortal woman, usually one involved in the local religious community.
+
+Abilities
+Lilitus had many innate magical abilities that they could use at will, including the ability to charm monsters, detect thoughts, detect good creatures, fly, teleport, make a magical suggestion, and speak any language. Unlike succubi, they could not physically change their forms. However, they could create an illusion to disguise themselves indefinitely, and when doing so they were imperceptible to magic that would detect their evil nature, even being affected by spells that aided good creatures as if they truly were. They also had access to divine magic from the Demonic domain and Trickery domain, though they could not rebuke or turn undead unless they actually became clerics. Once a day, they could dominate a person, create a powerful symbol of persuasion, and rapidly make a magical suggestion.
+
+Lilitus knew a small amount of Dark Speech and could speak it to charm or frighten enemies, empower their spells and magical items, weaken the physical structure of objects, and control swarms of vermin, though doing so was damaging to the speaker.
+
+A lilitu could endow a willing or helpless creature with her mark, which made the creature more charismatic and more resistant to damaging effects. The lilitu would hide the mark somewhere on the creature's body where it could not see it, and for the next 24 hours the demon knew exactly where the creature was and its physical condition, as well as being able to communicate with it telepathically regardless of distance or planar location. If the lilitu focused on the creature, she could even view the world through the marked creature's senses. While marked by a lilitu, a creature radiated chaotic energy.
+
+Lilitus had the standard tanar'ri immunities to electricity and poison and resistances to acid, cold, and fire, but were particularly vulnerable to divine magic as a result of their heretical natures.
+
+Personality
+Lilitus reveled in and subsisted on the corruption of priests and their faithful from within the fold. They were known to be incredibly sly, and they retained the seductive charms of a succubus.
+
+While lilitus worked well with most other demons, they despised other lilitus, viewing them as competition even when they served the same masters. They would regularly abandon all other plans simply to ruin the plans of another lilitu, with the ultimate goal of destroying her. Succubi were viewed with similar dislike and suspicion, since they could become lilitu as well if they wished to. Lilitu would even hire goodly mortal adventurers to destroying succubi, taking pleasure in the irony of the situation.
+
+Combat
+Lilitus preferred not to engage in combat at all, but when they did so they would have their corrupted minions defend them while they struck from a distance or supported their allies with their magic. They would try to disarm their attackers with magical suggestions, particularly targeting clerics, paladins, and other divine spellcasters who could do them severe damage. If forced into physical combat, they would reveal their true form and fight with their claws and tails.
+
+Society
+Lilitus were quite literally born to corrupt religious groups. A lilitu was created when a succubus had fooled a congregation that believed itself to be worshiping a good deity into worshiping a demonic power. She would then perform a hedonistic ritual that opened a portal to the deepest levels of the Abyss, releasing a blast of fire that consumed the congregation, their church, and the succubus herself. From the ashes, a lilitu would rise.
+
+As lilitus generally found each other incredibly annoying and actively sabotaged or attacked each other at every given opportunity, they shared little in the way of culture. Lilitus would spend a great amount of time with other demons however, especially enjoying those who held great ambition like they did. Glabrezus were their favorite companions.
+
+Lilitus spent a great deal of time on the Material Plane corrupting churches into demonic cults, moving between their conquests by teleportation. After proving their worth to demon lords, they could attain roles as demonic diplomats, spies, and assassins.
+
+Lilitus commonly expanded upon their ability to cast divine spells by becoming true clerics of Graz'zt or Malcanthet, but many became skilled sorcerers, bards, and mystic theurges.
+
+Notable Lilitus
+ Lavendeth: a lilitu high priestess of Graz'zt in the city of Zelatar.
+ The Radiant Sisters: a group of thirteen lilitu bards serving Malcanthet, notable for being incredibly loyal and not fighting among themselves. They were marked by halos of colored light, and each Sister was named for the color of her halo. The essence of the Radiant Sisters was immortal so long as Malcanthet lived; each time one was slain, another lilitu gained her halo. Known names of the Radiant Sisters included: Snow, Jade, Midnight, Crimson, and Violet.
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Lilith Lurraxol
+
+Lilith Lurraxol was a noblewoman of House Lurraxol who lived in Trademeet in the mid–14 century DR.
+
+Relationships
+Lilith was the favored grandchild of the Lurraxol matriarch, Lady Ximora. Her grandmother served as a mentor of sorts.
+
+History
+In the, Lady Lilith became involved in a fierce competition with Skarmaen Alibakkar over the Mantle of Waukeen. She sought the relic to prove that her ancestors founded the city of Trademeet so many years before.
+
+A couple years later, in the, Lady Ximora sought to reopen trade between Trademeet and the rebellious city of Riatavin. To this end she had Lilith attempt to convince High Merchant Logan Coprith to reopen the trade route, albeit unsuccessfully.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate II: Shadows of Amn
+
+References
+
+---
+
+## Littleman
+
+Littleman was a hero of halfling legend. Although the details of his mythic tale differed, hin cultures across many worlds agreed that he was the first follower of Yondalla and that he spearheaded their society's agricultural revolution.
+
+Description
+Littleman was generally pictured as sharing traits of all halfling subraces.
+
+Personality
+In one rendition of his story, Littleman was characterized as a clever, courageous, kind, and mischievous person, boastful of his ability to outwit any monster of the forest near which he lived.
+
+History
+Dependent on the storyteller, Littleman might have been the first halfling altogether, created by Yondalla from the essences of humans, gnomes, dwarves, and elves. Others, however, placed him at a point when halflings had already been created for a time.
+
+One storyteller placed Littleman's home in a place called the Green Fields, where he built a reputation for himself by thwarting monster attacks using his quick wit, which worked as a deterrent for attacks on halflings, as nobody wanted to risk getting into a conflict with Littleman. Yondalla observed the hero for a time, and eventually presented him with a bargain to unite his scattered kin into villages and communities in exchange for the Nurturing Matriarch's protection for all halflings. After some deliberation, Littleman agreed to the proposal, and went on to spread the goddess' mission across his world, and eventually to all worlds with halfling populations.
+
+After a long time spent travelling between worlds, Littleman came upon his old home of Green Fields once again. In an effort to make him fully settle down, Yondalla enhanced the hero's burrow to become the perfect home.
+
+Although he liked his newly redecorated home, over time, Littleman began to realize that he was lonely. Not long after this, he became infatuated with a local maiden called Melindy, who, despite already being courted by the farmer Genrill, reciprocated Littleman's feelings. This created no ill will between the brief romantic rivals, however, and Genrill even supplied the wedding feast with a roast beast.
+
+At some point, a string of disasters came to Green Fields. It began with devastating winds that dried out the fields and ruined the grain and fruit harvest. Then, come next spring, the land was flooded by the rain, and an infestation of flies killed the farm animals. What followed was a bitter winter, which covered the land in ice and killed the flowers and grass. Finally, great storms wrecked Littleman and Melindy's home, leaving them essentially without possessions. In the face of the dire situation, the couple took solace in the fact that they still had each other.
+
+Trivia
+The halfling child Wellyn had a stuffed toy bear named Littleman, after the mythic hero.
+
+Appendix
+References
+
+---
+
+## Lightning (horse)
+
+Lightning was an ironically named black gelding horse because it was docile enough to let the saurial hero Dragonbait handle it circa 1357 DR.
+
+History
+In 1357 DR, companions of the hero Alias purchased Lightning, along with other horses from Dimswart Manor in Cormyr.
+
+Lightning was a pack horse and was purchased especially for its calm demeanor, letting Dragonbait ride it, unlike all other mounts available. Dragonbait rode the horse to Suzail, the Shadow Gap, Shadowdale, and Yulash, where the heroes were forced to abandon their mounts while pursuing the Abomination of Moander through Cormanthor.
+
+Appendix
+Appearances
+Novels
+Azure Bonds
+
+References
+
+---
+
+## Lightning golem
+
+Lightning golems were a type of greater golem.
+Description
+Lightning golems were humanoid in shape and made from gold. Their movements were the same as a regular humanoid. Crackling electrical discharges were constantly present around its body.
+Abilities
+Lightning golems had the innate ability to duplicate the effects of the chain lightning spell, able to lash out with electricity to a target within . It was immune to most spells that affected living creatures as well as psionics. It was also immune to cold, electrical, ice, lightning and mind-based effects and spells. It remained vulnerable to effects and spells which targeted metals, as well as heat.
+Combat
+Lightning golems used their powerful arms to smash a target. Any opponent who came into physical contact with a lightning golem received a vicious electrical shock.
+Ecology
+Only the most powerful wizard could create a lightning golem. It was an extremely expensive process. The body of a lightning golem required  of gold alone, and the cost of the gold and the other materials required could cost up to 150,000 gp. Constructing the body took up to ten weeks. The wizard then had to infuse the body with an elemental spirit. This required the wizard to cast chain lightning, enchant an item, geas, permanency and wish spells, all in an open location during a fierce storm. If successful, a massive bolt of lightning struck the golem's body, infusing it with a powerful elemental spirit.
+
+Appendix
+Gallery
+
+Appearances
+Adventures
+Kandlekeep Dekonstruktion
+References
+
+Connections
+
+---
+
+## Lidahan dictionary
+
+This Lidahan dictionary is a list of terms from Lidahan.
+
+A
+ aba  order or command
+ abadi  eternal
+ abang  older brother
+ acbir  the end or finish
+ adik  younger sibling
+ agung  grand or noble
+ aib  shame or disgrace
+ ajar  to teach
+ aman  secure
+ anak  child
+ angsa  geese
+ anjaman  woven
+ api  fire or flame
+ asrama  garrison
+ atas  top or advanced
+
+B
+ bahaiya  danger
+ bahasa  languages
+ baik  good
+ bakar  burn
+ baling  turn or revolve
+ balasan  revenge
+ banjir  flood or overflow
+ banyak  much
+ batas  boundary or border
+ batu  stone or rock
+ bawa  bottom
+ bekas tuah  ancient
+ bekuk  arrest or seize
+ belajar  study or research
+ belut  eel
+ bengkok  bend
+ berkuda  cavalry
+ besi  iron or steel
+ binatang  animals
+ biru  blue
+ buaja  crocodile
+ buih  foam
+ bukit  hill
+ bumi  earth
+ bumi gerak  earthquake
+ bunga api  spark
+ burung  bird
+ buta  blind
+
+C
+ chadam  servant
+ chasumat  feud
+ churchi  to steal
+
+D
+ daging  meat
+ daja  deceit or trick
+ dalam  inside
+ darah  blood
+ dasar  simple or basic knowledge
+ dekat  nearby
+ dendam  grudge
+ desa  village
+ diatas  above
+ dibawa  below
+ diblakan  behind
+ dimuka  in front
+ dingin  cold
+ diuku  frog
+
+E
+ emas  gold
+ empang  to block or barricade
+ enak  tasty
+ erang  groan
+
+F
+ faham  understand
+ fikir  think
+ fitnah  slander
+
+G
+ gaib  invisible
+ genas  savage
+ ganti  change
+ garam  salt
+ gedung  great hall or building
+ gelap  dark
+ gereja  church or temple
+ gerhana  eclipse
+ gertak  threaten
+ gigit  teeth
+ gila  crazy or insane
+ goyang  sway or shake
+ gua  cave
+ gunung  mountain
+
+H
+ habis  finished
+ hadiah  gift
+ hajat  wish
+ hakim  judge
+ hampir  almost
+ hantu  ghost
+ hanya  only
+ harga   price
+ harimau  tiger
+ hijau  green
+ hitung  count
+ hormat  honor
+ hujan  rain
+ hukum  law or punishment
+
+I
+ ikan  fish
+ ikut  accompany
+ ilmu  knowledge
+ ingat  remember
+ intai  to spy
+ intan  diamond
+ isi  contents
+ istimewah  special
+ istri  wife
+
+J
+ jahat  evil
+ jalan  walk
+ jantung  heart
+ jatoh  fall
+ jelek  bad, broken or spoiled
+
+K
+ kabus  misty
+ kabut  fog
+ kaget  startled
+ kanan  right
+ kayu  wood
+ keadilan  justice
+ kelereng  marble
+ keluh  sighing
+ kemati  dying
+ kepala  head or leader
+ kera  monkey
+ kesasar  lost
+ ketcheel  small or miniature
+ kilap  gleaming
+ kiri   left
+ kobar  flaring
+ kuda  horse
+ kumandang  echo
+ kuning  yellow
+ kutuk  cursed
+
+L
+ lajang  float
+ langsung  direct
+ lapar  hungry
+ larang  forbidden
+ lautan  ocean
+ ledak  explode
+ leher  neck
+ lembing  quick
+ lihat  corrupted
+ lima  pyramid or temple
+
+M
+ magi  morning
+ maha  great
+ mahligwi  palace
+ makan  eat
+ malam  night
+ malas  lazy
+ masak  to cook
+ maskukan  entrance
+ mata  eye
+ maut  death
+ medan  plains
+ membakar  burning
+ menipu  dream or delusion
+ menuap  steam
+ merah  red
+ merebus  boil
+ miring  silent or slope
+ muntjul  spring (water)
+ musuh  enemy
+
+N
+ nafas  breath
+ naga  dragon
+ nanti  later
+ ngeri  dreadful
+
+O
+ obor  torch
+ ocheh  gossip
+ odoh  ugly
+ olah raga  sports or contests
+ olak  whirling
+ olokolok  ridicule
+ orang  person
+
+P
+ padang  ceremonial field
+ panas  hot
+ panen  harvest
+ panjang  long
+ pantai  beach
+ pesar  market
+ pasir  sand
+ pedang  sword
+ pejakit  disease
+ pekuburan  cemetery
+ pelan  slow
+ pelesit  vampire
+ pelosok  remote
+ penchuri  thief
+ pendam  concealed
+ pendek  short
+ pengkawal  watchman or witness
+ penjaga  guard
+ penting  important
+ penuh  full
+ perahu  boat or canoe
+ perang  war
+ perpustakaan  library or archives
+ pertama  first
+ pertanian  questions
+ putih  white
+
+R
+ rahasia  secret
+ rajawali  eagle
+ rangka  skeleton
+ rapat  meeting
+ ratjun  poison
+ ratna  jewel
+ raung  roar
+ rendah  low
+ rendam  submerge
+ robek   to tear
+ rompak  piracy
+ rumah  house
+ runtuh  collapse or cave in
+
+S
+ sakti  holy
+ salju  snow
+ samba1  chilies or hot sauce
+ sampai  until
+ sampar  plague or pestilence
+ sandiwara  theater or drama
+ sarang lebah  beehive
+ sejaraan  history
+ semerak  splendor
+ semerbak  fragrant
+ sendi  foundation
+ senja  twilight or dusk
+ sentosa  safe or peaceful
+ sepusang  pair
+ serampang  harpoon
+ setiap  each or every
+ sehir  magic
+ simpang  crossing
+ siput  snail
+ suami  husband
+ su-rai  prison
+
+T
+ tajam  sharp
+ takbar  surrender
+ takut  frightened
+ takwa  god-fearing
+ tambang  mine or mining
+ tangan  hand
+ tang-ga  staircase
+ tangkap  catch or trap
+ taring  fang
+ tebing  riverbank
+ tebuh  sugar cane
+ teman  friend
+ tembaga  copper
+ tembak  shoot
+ tempat  place
+ tenaga  strength
+ tengah  center
+ tengkorak  skull
+ tentara  army
+ tentu  certain
+ terachir  last or final
+ terbang  fly
+ tertawa  laughing
+ tidak  no or not
+ tinggi  high or tall
+ tolong  help or aid
+ tuah  old
+
+U
+ uang  money
+ ukur  measure
+ ular  snake
+ untung  luck
+ u-panah  bow and arrow
+ usaha  effort
+ utang  debt
+
+W
+ wajar  natural or proper
+ wakil  assistant or deputy
+ waktu  time
+ warung  store or small business
+ warung makan  restaurant
+
+Z
+ zamrud  emerald
+ zirah  armor
+References
+
+---
+
+## Living web
+
+Living webs, also known as duleeps, were a rare species of living, carnivorous webs.
+Description
+Living webs resembled their namesake, being composed of grey filaments that mimicked cobwebs. Their body structure consisted of millions of microscopic identical cells, clustered together in colonies. They were mobile and capable of climbing almost any surface. When a living web moved, it looked like a flowing mass.
+Abilities
+Living webs absorbed all electrical energy, both magical and mundane. It was immune to all fire, heat, cold, fear, repulsion and water-based effects and spells. They had significant resistance to blunt or dull weapons. While living webs lacked any sort of visible sensory organs, they were able to detect vibrations, heat and other living webs. A living webs grip on a surface was so strong, that it was impossible to separate it from a surface.
+Combat
+Living webs attacked a target by instinct. Any creature who came into physical contact with a living web received a nasty electrical shock. Living webs were capable of firing a lightning bolt at a target.
+Ecology
+Since living webs were nomadic, they did not make any permanent lairs. They were always on the move, searching for their next meal. They ingested plants, carrion and anything they killed. Anything they digested was transformed into electrical energy. It also fed directly from electrical energy, which caused the living web to grow. When two living webs encountered each other, the stronger web always tried to absorb the weaker web.
+Habitats
+Living webs were know to live within the midwood of Cormanthor and the woodlands between Mistledale and Shadowdale.
+
+Outside of the Prime Material plane, some could be found in the Domains of Dread.
+
+Relationships
+Living webs were known to act as servants of the Dark Seldarine goddess Lolth.
+Usages
+Living webs were sometimes used as guards or as a biological means of vermin control.
+
+Memory Web
+A memory web was a creature similar to a living web that fed on memories. A memory webs physical appearance was similar to the mass of webs from a web spells. It hid from a target by compressing itself into a small sphere. Once a target was close enough, it unwrapped and launched itself towards its prey. It was capable of jumping up to  vertically and while in the air, it spread its body as wide as  in diameter.
+
+It wrapped itself around a target and began constricting them. The web that made up its body was not very strong, with a similar strength as regular cobwebs. Once its target is killed, it absorbed the memories into itself. If a memory web was killed, all the memories it absorbed released in a burst, and any creature within  experienced these memories. Memory webs had a natural resistance to fire and magical weapons.
+Appendix
+Appearances
+
+References
+
+---
+
+## Living wall
+
+Living walls were very rare undead monstrosities created from multiple living creatures.
+
+Description
+To most creatures, these appeared to be mere ordinary walls of stone or brick. But to creatures who possessed truesight, the true seeing spell, a gem of seeing, or some other form of magic that saw through illusions, a living wall was seen to consist of greying and sinewy flesh, with various faces, hands, feet, and broken bones jutting from their surface. Whenever a living wall's flesh was exposed by cutting or blasting through it, a horrifying and nauseating stench was unleashed that could make the living pass out.
+
+Any creature that stood within  of a living wall could hear low moans of horror, pain, and sorrow issuing from it, including voices calling out, "Help me! Pull me out, free me!"
+
+Behavior
+Living walls had varying degrees of intelligence and any creature assimilated into them would take on a chaotic evil alignment. Their greatest motivation in life, above all others, was to destroy whoever created them.
+
+Abilities
+Assimilation
+Any humanoid or monster that died fighting a living wall was assimilated into its composition and lost forever, with only a wish spell being capable of removing them. In order to be assimilated a creature needed to be corporeal. The types of creatures that a living wall was capable of assimilating included aberrations, animals, dragons, fey, giants, humanoids, magical beasts, monstrous humanoids, outsiders, and vermins.
+
+The bodies of assimilated creatures would continue to possess any unique abilities or memorized spells that they'd had in life. However, the abilities and spells of paladins and lawful good priests would have their nature reversed—for example, detect evil would become detect good, while the laying of hands would cause harm rather than heal.
+
+Any magical items or weapons on a creature's body would also be assimilated into a living wall's mass, concealed until it came time to fight. Magical items would continue to bestow their effect. General loot, non-magical armor, and backpacks were not assimilated.
+
+Whenever their creator died within  of them, a living wall would assimilate them and release the bodies of every other creature it had ever consumed. It would then revert to a structure of pure stone, forever trapping its creator inside.
+
+Resistances
+The spell passwall could be used to pass through living walls. They were immune to all forms of planar spells or those from the time domain and time sphere. Whenever spells like ESP or speak with the dead were used on a living wall, the caster would hear only a cacophony of tortured minds and screams.
+
+Combat
+Generally, living walls did not initiate combat with other creatures. However, the arms of assimilated creatures were liable to reach out and tug at those who came within  of the wall.
+
+The bodies of various assimilated creatures that composed a living wall's form would fight to the best of their abilities. For example, the bodies of fighters or warriors assimilated into its flesh would have their arms jut out through the wall with a weapon in hand, while the body of any assimilated wizard would be used to fight with spells.
+
+Ecology
+
+Living walls were constantly active, never resting. Being constructs, they did not reproduce. The exact method for creating them was unknown, though it required several years of preparation and spellcasting. In addition, at least three corpses were needed.
+
+In the Demiplane of Dread, living walls could be created by the Dark Powers of the demiplane in response to despair and dread. This occurred whenever one living and sapient creature willfully entombed another in a wall, while the entombed cursed their killer in a loud enough scream for the land to hear their agony.
+
+Once dead, that victim's life force became trapped within the wall and within a matter of days it would be corrupted by madness, its alignment shifting to chaotic evil. At that point, any creatures that had died within  of the wall within the last month would arise and dig themselves from their graves, their corpses shambling to the wall and melding with it. Any subsequent deaths within that range would arise and wander to the wall as well.
+
+Habitats
+Beyond the Prime Material plane, living walls could be found in the Demiplane of Dread.
+
+Relationships
+Living walls were typically found in the lairs of malevolent creatures, serving as part of a torture chamber or covering the true entrance to a secret passageway. Most cultures and all good-aligned creatures tried to destroy them whenever discovered.
+
+History
+Following the actions of the Shoon Imperium's Necromancers' Corp in the, a few living walls were among the many undead that stood within the ruins of Mamlukkar in Tethyr.
+
+Circa, a living wall existed within the sewers beneath Waterdeep.
+
+A living wall was known to exist in Cholandrothipe's Tower as of .
+
+Rumors & Legends
+In the late 14 century DR, there were rumors in the Dalelands that part of the Wolfwall near Beacon Tor was a living wall. When visiting the region at that time, Volothamp Geddarm offered people money to investigate this rumor but was turned away.
+
+Also in the 14 century DR, living walls were said to likely reside within the demilich Histokle Rireetha's manor in Hawkgarth.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Libram of Lathintel
+
+The Libram of Lathintel was an arcane spellbook penned by the wizard Lathintel. It contained sixteen common and unique spells.
+
+Description
+This square tome was a thick maroon-colored volume. Its exterior was covered with tanned leather and it was bound with wire in six circlets. Each of the sixteen pages held a single spell.
+
+Powers
+The Libram of Lathintel contained the following spells:
+Spidereyes • Ghost pipes • Hover • Enlarge • Feather fall • Light • Read magic • Sleep • Unseen servant • Audible glamer • Invisibility • Locate object • Fly • Wizard lock • Dispel magic • Tongues
+
+Appendix
+References
+
+---
+
+## Libertas
+
+Libertas was a long pole arm weapon enchanted and wielded by the elves of Myth Drannor.
+
+Description
+Libertas was a long and thin pike weapon that was decorated with intricate elven designs. It was designed for two-handed use, and was too big to be thrown effectively.
+
+Powers
+Libertas was a a magical weapon that had a +2 enchantment, and allowed the wielder to move as if under the effect of the freedom of movement spell.
+
+History
+In 1369 DR, Libertas was found in possession of a group of orogs that tried too claim a part of the ruined city of Myth Drannor for themselves. The pike itself was looted from one of many fallen heroes of the City of Song in the Dwarven Dungeons.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+---
+
+## Lightning storm
+
+Lightning storm was an evocation spell used by wizards.
+
+Effects
+This spell created a series of lightning strikes within a sphere measuring  in diameter. The magic of the spell kept the lightning from reaching beyond the edge of the sphere. Any creature within the sphere, with the exception of the caster, was hit repeatedly with savage lightning strikes. The caster was also immune to any other electrical-based attack while their lightning storm was active.
+
+Components
+In addition to verbal and somatic components, this spell required a shard of glass, a scrap of fur, a flint, and a piece of silver to cast.
+
+Appendix
+Appearances
+Novels
+The Magehound
+References
+
+---
+
+## Lith (island)
+
+Lith was a small island in the Pirate Isles on the Sea of Fallen Stars.
+
+Geography
+The island of Lith sat between Hawk's Isle in the west and Lurath in the east.
+
+Description
+There were no natural harbors on the island.
+
+Inhabitants
+Lith was never settled by the pirates of the isles. A brood of ravenous neogi dominated the island. Though Lith lacked umber hulks for the neogi to enslave, their powers appeared to work on the natural animals of the island which were used as the neogi desired.
+
+History
+Lith was directly involved in the poetic naming of the Sea of Fallen Stars. Hundreds of years ago sages witnessed stars falling from the sky above the Pirate Isles. Research teams were sent to investigate and discover the landing spot, but none returned. The falling star was actually a crashing neogi broodship that was badly damaged in a struggle with a Shou dragonship. The neogi crashed on Lith and quickly made the island a new lair.
+
+Appendix
+References
+
+---
+
+## Linnorm
+
+Linnorms were a very rare, primeval breed of dragon-related creatures.
+
+Description
+Linnorms had immense bodies that were snake-like, lacking both wings and rear limbs. They moved through a combination of walking with their forelegs and slithering like a snake. Their bodies could grow to be as large as  and weigh as much as .
+
+These creatures had flexible skeletons, containing hundreds of vertebrae, and grew large trunk muscles that allowed them to dig into the ground with the scales of their underbelly and by pushing forward with their ribs. Their forelegs ended in sharp, razor-like claws.
+
+Personality
+These creatures were typically known to be cruel, hateful, and very spiteful. They were infamously untrustworthy, rarely honoring bargains. They never were known to show signs of compassion or empathy, caring nothing for the deaths of other creatures.
+
+They were fiercely territorial. Unlike some draconic creatures, not all linnorms were known to be avaricious. The oldest of linnorms typically suffered from some form of insanity due to their isolative nature.
+
+Abilities
+Much like the more common breeds of dragon, linnorms possessed varying forms of dragon breath. They also were immune to magical effects that induced sleep or paralysis. They generally did not grow more powerful as they aged and thus were considered to be a type of lesser dragon.In 2nd edition, the non-unique races of linnorm dragons progressed through the usual twelve age categories of true dragons.
+
+Linnorms had keen visual senses, possessing both a form of blindsight and darkvision.
+
+Combat
+When engaging in combat a linnorm relied upon their dragon breath and immense strength, attempting to crush their opponents and swipe them with their tails. Being brilliant tacticians and strategists, linnorms studied their foes from afar and formed plans of attack, then waited until conditions were in their advantage before they made a quick and decisive attack.
+
+Species
+
+ Corpse tearer: The most feared of all linnorms, these creatures were believed to be direct descendants of the legendary Nidhogg.
+ Dread linnorm: The largest variety of linnorm, they held the most irrational hatred towards humans.
+ Flame linnorm
+ Forest linnorm
+ Frost linnorm
+ Gray linnorm: The smallest and most aggressive variety of linnorm.
+ Land linnorm
+ Rain linnorm
+ Sea linnorm
+ Stygian linnorm: A variety of linnorm that was native to the Styx.
+ Swamp linnorm
+
+Rumors & Legends
+Some believed that all linnorms were the bastard offspring of a legendary, serpent-like creature known as Nidhogg. Other scholars speculated that linnorms originated from Niflheim.
+
+Some scholars believed that linnorms were lesser serpents that evolved from a common ancestor of all dragons.
+
+Society
+Due to their single-mindedness, these creatures lacked a societal structure and largely lived solitarily lives, usually refusing to ally themselves with any other living creature. Whenever they did ally with someone, a linnorm would typically turn upon them after they achieved their goals.
+
+Once every decade female linnorms would release pheromones that were tuned to the heightened senses of male linnorms, though this call to mate went unanswered more often than not. While mating these creatures entangled their long bodies around one another, forming a sort of "mating ball." The resulting clutch of eggs would be cared for by the female until they hatched, at which point they would be abandoned. Gray linnorms were the exception to this, remaining with their hatchlings until they could fend for themselves.
+Lairs
+These creatures lived inside deep tunnels, which they outfitted with elaborate traps. They did their best to ensure that their territories never encroached upon that of another linnorm.
+
+Homelands
+Linnorms infested some of the thinner and lower branches of Yggdrasil, including a divine realm on its third layer known as the Merciful Court.
+Languages
+Linnorms typically knew how to speak abyssal in addition to draconic.
+Relationships
+Some acted as servants of the deity Sharindlar.
+Usages
+Many scholars and trophy hunters prized their skins, willing to pay up to 12,000 gold pieces for an intact find.
+
+Notable Linnorms
+ The Hermit
+ Kroth, a dread linnorm that inhabited the unnumbered layer of Demonwing in the Abyss, acting as a guardian of the balor commander Straoth's tower.
+
+Appendix
+Notes
+
+Further Reading
+
+References
+
+Connections
+
+---
+
+## Lion Sword
+
+The Lion Sword was a magic sword once wielded by King Uthgrael Aumar and given to his son Elthryn Aumar when he retired to Heldon. The sword was destroyed in 224 DR by Undarl when he burned Heldon to the ground and slew Elthryn. The broken hilt was then taken up by Elminster Aumar and used to support his claim to the Stag Throne of Athalantar.
+
+Appendix
+
+References
+
+---
+
+## Libram of Rune Magics
+
+The Libram of Rune Magics was a rune magic spellbook of the College of Rune Magics.
+
+Powers
+This book contained all the rune magic spells and rituals that were taught by the College of Rune Magics, such as the ritual of dimension portal, ritual of healing, and ritual of warding with runesticks.
+
+History
+In 1358 DR, a group of adventurers from Suzail were seeking out the scattered remains of Awtawmatawn on behalf of Amelior Amanitas. As part of this quest they investigated the ruins of the College of Rune Magics and came across this book within a stone box that had been wizard locked. They found it to be exceedingly valuable, though very few people would actually be willing to pay them for it.Through it is not outright stated in the adventure, it's heavily implied that this copy of the spellbook was likely placed here within this box by Valmous the Shaper.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+The Shattered Statue
+References
+
+---
+
+## Living spell
+
+Living spells were spell-effects that were given permanence and some form of sentience, often as a result of unpredictable magical reactions or lingering dweomers from other-worldly or ancient arcane sources.
+
+Description
+They appeared as permanent manifestations of regular spell-effects but did not dissipate after a given duration. Rather they remained in existence and moved with distinct purpose and self-actualization.
+
+Abilities
+Living spells retained the powers of their spell-effect counterparts and could affect the world in the same manner.
+
+It was observed that their mere presence could recharge magic items or alter the magical powers wielded by others.
+
+Combat
+All living spells were immune to a myriad of harmful and debilitating effects including physical exhaustion, paralyzation, petrification, being poisoned, among others.
+
+Depending on the spell with which they were brought to life, some of them could be frightened or physically restrained.
+
+Society
+Living spells typically haunted an area that was greatly affected by magical energy, whether that was an area of wild magic or one that had been affected by eldritch powers.
+
+Ecology
+
+After a living spell was destroyed, it left behind the substance called spell amber. It resembled amber, or a colored piece of translucent glass imbued with some magical properties. Spell amber could be used in restoration of Lifeforged weapons.
+
+History
+Living spells could be found in a variety of locales found throughout the Realms, over the course of several centuries. They were often associated with dweomers that lingered from Faerûn's ancient magocracies, namely the ancient empire of Netheril, and the eastern empire of Raumathar.
+
+Many living spells that were let loose from Undermountain by the Mad Mage Halaster during Halaster's Higharvestide, in the . While many of these were since contained by the City Guard and trapped within the Citadel of the Bloody Hand in Mount Waterdeep, some remained even as late as the 15 century DR.
+
+As of the, living spells were observed in the land surrounding the Ring of Gray Flames in Rashemen.
+
+Circa the, the Dragonlords of Westgate spoke of living spells serving as guardians that presided over the "true lair" of the dragon Kisonraathiisar.
+
+As of the late 1480s DR, many living spells still languished in the frozen necropolis of Ythryn, set deep beneath the Reghed Glacier.
+
+Notable Living Spells
+Jhesiyra Kestellharp had become a special kind of living spell known as an arcanaweave.
+
+Listle Onopordum was an illusion who acquired self-awareness and became an illusionist herself. She became a Hero of Phlan and was granted full life as an elf.While the living spell was created long after Listle's appearances, she fits perfectly the lore established for their creation, so this article assumes her to be one.
+
+Everlast was a living spell that resided in the ruined Spire of Iriolarthas millennia after the collapse of Ythryn.
+
+The Hand That Sings was a living spell that lingered Waterdeep created one of Halaster's apprentices using two distinct spells, handfang and magic mouth.
+
+Other known examples of spells that have been given life included: unseen servant; sleep and ray of enfeeblement, used together to create a sickening sleep; glitterdust and fireball, used to make a glitterfire; one of the various Bigby's hands; cone of cold, to make a chilling fog; blasphemy and blade of disaster.
+
+Appendix
+Notes
+
+See Also
+ Living demiplane
+Gallery
+
+Appearances
+Novels
+Pool of Twilight
+Adventures
+Expedition to Undermountain • Waterdeep: Dungeon of the Mad Mage • Icewind Dale: Rime of the Frostmaiden
+Video Games
+Neverwinter'
+MiniaturesDungeons & Dragons Miniatures''
+References
+
+---
+
+## Lilith
+
+Lilith might refer to:
+ Lilith Lurraxol, the noblewoman of House Lurraxol;
+ Lilith (halfling), the member of the Zhentarim in 1489 DR; or
+ Lilith (archdevil), the consort of Baalzebul and former consort of Moloch.
+
+---
+
+## Lilith (archdevil)
+
+Lilith was an archdevil princessIn this context, a "Princess of Hell" is the consort of an archduke of the Nine Hells who served as the second consort of the Lord of the Seventh, Baalzebul. She was an infamous fiend, so known for the sting of her whip that the welt from a deep lash was commonly known in Hell as "Lilith's Mark". Sometimes she was portrayed as a romantic or wronged female figure (such as a rejected lover), and indeed the Slug Archduke's consort was a woman who felt scorned.
+
+Description
+Lilith appeared to be a beautiful, nubile,  tall woman, so alluring that she was easily the most attractive of Hell's fiends (at least for a time). She had crimson skin, hooves, a serpentine tail, small, curved horns, and eyes that glowed white, including her pupils. She rarely wore clothing, preferring to use clinging shadows when she felt it was necessary.
+
+Lilith was known to use her ability to change shape to take on the form of her victims' loved ones.
+
+Personality
+Lilith was an incredibly intelligent devil who exhibited the sadism common to most of her kind. She often toyed with her prey, subjecting them to psychological and physical torture before murdering them.
+
+Powers
+Among Lilith's various spell-like abilities were fire manipulation, charming, psionics, tongues, teleportation, dispelling magic, darkness, shape changing, necromancy, and lightning. She had an aura of desire which baatezu were immune to, and would cloak herself in clinging shadows. She could also summon other baatezu once per day.
+
+In melee, Lilith preferred to fight with her tail, which she used to strike and constrict.
+
+Possessions
+Although she used them less frequently in order to avoid breaking them, Lilith also fought with a scimitar and a metal-barbed whip called "Lilith's Caress" which sapped the strength of her victims, causing exhaustion.
+
+Activities
+Lilith mostly used her seductive charms to survive the tumultuous infernal political landscape whilst waiting for the chance to take over as the ruler of Maladomini.
+
+Relationships
+As a result of her attractiveness, many devils were willing to do small favors for Lilith.
+
+Though once a consort of Moloch, she was more loyal to Baalzebul than the Grand Duke, abandoning Malbolge when he fell from power to return to the side of the Lord of the Flies. However, even when she was under Moloch, her loyalty to Baalzebul was not what it had been in the past. She felt largely powerless and resented being moved around at Baalzebul's whim. Even though she chose to stick by him, she was only staying close in order to find some weakness to use in her own ascent to power. Until then, she gave counsel to the Slug Archduke so that he (and more importantly she) could be restored to glory.
+
+During Moloch's reign, Lilith often worked with the like-minded legate Tartach. For a time she worked closely with both him and Glasya, but chose not to work for the latter partially out of resentment for her sudden rise to power.
+
+Worshipers
+Lilith was held in high regard by witches, warlocks, evil druids, and other occultists of the Prime Material plane. She was often particularly regarded as the patron of dark witches, for it was they who held secret the rites for summoning her. She was mostly detached and disinterested in nurturing her already strong following in the Prime Material plane, which might improve her standing with her peers and make her a force to be reckoned within the Nine Hells. Once her foes were helpless, she commonly had them renounce their faith and submit to her before killing them and cackling as they turned into larva before her.
+
+History
+Lilith's residence in Baator could be traced at least as far back as Asmodeus's rule, and throughout that period she had always been a figure near power. The earliest records of her existence were when she was gifted to Moloch by Baalzebul as a blatant attempt to keep him obedient, for Lilith was easily Hell's most alluring denizen, with a way of diverting the attention of those she encountered from important matters. As Moloch's consort, she was also regarded as loyal to Baalzebul, as was the nature of all of Moloch's vassals at the time. She moved with Moloch between the many cornugon-led fortresses of Malbolge at Baalzebul's command, usually brought by his herald Neabaz.
+
+Over time, however, Lilith's loyalty wore thin, her patience for being moved here and there weakening. Like all who delivered the gemstones formed from Malbolge's volcanic activity to Baalzebul, she kept a few for herself for her own gain, keeping them hidden until she could trade them unbeknownst to the Lord of the Flies for less identifiable coinage. She also came to resent her service to Molcoh, and it got to the point that she might support a strong bid to overthrow Moloch and replace him with someone else.
+
+Lilith competed for her place as Moloch's consort with the night hag Malagard. Though she might have been able to expose Malagard's treachery (which would have resulted in a very different version of Hell), she lacked the passion for her duties to do so. With Malagard's scheme a success, she rose to become the Hag Countess and new Lord of Malbolge, at which point Lilith abandoned the 6 layer and returned to Maladomini, yet this change did nothing to alleviate her resentment. While her rival consort Malagard had ascended to the ranks of archdevil, she found herself demoted to Baalzebul's second consort, and her liege cursed with the form of a grotesque slug whose touch she despised.
+
+Despite the change of regime, Lilith's feeling of powerlessness under Baalzebul continued all the same. Tartach had remained in Malbolge, serving Malagard only nominally, but became a key ally of Glasya when she ascended. Despite working with them at first, both she and Tartach having once dreamed of supporting a new ruler of Malbolge, she eventually decided against joining Glasya's court, both out of resentment for the daughter of Asmodeus, and to achieve her own goal of some day overtaking the bloated Slug Archduke as the master of Maladomini.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Lion's Eye Oasis
+
+The Lion's Eye was an oasis found in the Sword region of Anauroch.
+
+Description
+The Lion's Eye was said to be the most lush of the oases found in the entirety of the desert.
+
+Geography
+Geographical Features
+Within the center of the Lion's Eye was a small lake that was encircled by ascending grasslands that was dotted with wildflowers and large boulders.
+
+A rocky outcropping  on the eastern stretch reached an apex that was referred to as the actual "Lion's Eye". As the winds whipped over the plains they passed through a hole in this rock formation creating a moaning sound that permeated the landscape.
+
+Flora & Fauna
+The sand dunes that comprised the western area of the oasis were dotted with mesquite trees that led into a southern stretch of acacia and palm trees.
+
+Rumors & Legends
+It was said that the lake in the center of the oasis held submerged treasure chests that were filled with an abundance of gold and glimmering gems. Further rumors spoke of magical items belonging to ancient civilizations that were protected by some form of underwater monstrosities.
+
+Inhabitants
+Unlike many oases found in Anauroch, the Lion's Eye was not home to the Bedine people, but rather a community of lamias. They grazed upon their verdant stretch of the desert, hunting any intruders that dare pass over their land.
+
+Appendix
+References
+
+---
+
+## Linnaeus Gozzling
+
+Professor Linnaeus Gozzling was a scholar at the University of Suzail in Suzail, Cormyr. Linnaeus wrote a treatise on natural science titled The Internal Structure of the Brachiopod.
+
+Appendix
 References
 
 ---
@@ -3877,6 +8714,2175 @@ Zzyczesiya, called The Ungrasped, was a demon lord associated with confused and 
 Appendix
 External links
 Demon lord at the Greyhawk wiki
+References
+
+---
+
+## Light maker
+
+Light makers were tiny sprite creatures that resided in and powered globe-like lighting mechanisms across the entirety of Mezro in Chult.
+
+Description
+These tiny fey creatures had slender bodies that resemble those of elves. Their movements were graceful, and they did not have faces or any other features that allowed others to distinguish individual light makers apart.
+
+Abilities
+The light makers appeared seemingly out of nowhere when a new magical globe device was crafted in Mezro. They showed up ready to work at all times.
+
+Behavior
+Light makers lived in and operated Mezro's magic clockwork spheres that provided the city with light. When a light maker was inside such a globe, its intricate mechanism silently worked, rotating and pushing numerous gears and levers inside. Once tiny creatures left a globe, its light dimmed, and the gears slowed to a halt. To deactivate such a light sphere, it was enough to say "thank you" in the Tabaxi language into the ball. Four light makers could work one globe at a time.
+
+Ecology
+Light makers powered all the light spheres in the Library of Mezro, found in the Scholars' Quarter.
+
+The number of these orbs and individual light makers was unknown. They did not need to eat nor sleep and existed simply to work Mezro's many spheres. Dhalmass Rayburton theorized that light makers could be some sort of quasi-elemental beings that were whether summoned or compelled by the orbs' mechanisms.
+
+History
+Light makers have been working on lighting up the city of Mezro long before Dhalmass Rayburton's arrival to the Chult circa 172 DR, and remained active in 1362 DR, when Artus Cimber became one of the city's barae guardians.
+
+Appendix
+Appearances
+Novels
+The Ring of Winter
+References
+
+Connections
+
+---
+
+## Liar's Night (adventure)
+
+Liar's Night is an Epic Adventures module set in the Forgotten Realms using the Dungeons & Dragons 5 edition ruleset. It is part of the Avernus Rising series of adventures published for the D&D Adventurers League. It is an adventure designed for 1- to 4-level characters.
+
+Index
+Characters
+
+Creatures
+
+Locations
+
+Magic
+
+Organizations
+
+Religions
+
+Credits
+ D&D Adventurers League Guildmaster: Chris Lindsay
+ D&D Adventurers League Administrator(s): Alan Patrick, Amy Lynn Dzura, Travis Woodall, Lysa Penrose, Claire Hoffman, Greg Marks
+ Playtesters: Paul Clinkingbeard, Justin Donie, Peter Orrestad, Allison Samowitz, John Tynes, Jesse Wood
+
+Appendix
+External links
+
+ Avernus Rising Adventurer's League
+References
+
+Connections
+
+---
+
+## Lifeleech otyugh
+
+A lifeleech otyugh was a type of powerful, magically-infused gulguthra that fed on the energy of healing spells.
+
+Description
+These uncommon gulguthras were far superior to standard otyughs, and had four sets of monstrous tentacles instead of two. Lifeleech otyughs were considerably stronger than normal otyughs, with their strength matching that of stone giants. They appeared bloated, and had a tough hides that strangely twisted over their bodies. Like ordinary otyughs, each life leech otyughs had a  central eye stalk and their bodies were of  diameter. Lifeleech otyughs weighed around  more than their more-ordinary cousins, but despite this, moved twice as fast.
+
+These gulguthras were very good climbers, and naturally blended in with their murky environments.
+
+Behavior
+Perverted by arcane experiments, lifeleech otyughs were often bent towards neutral evil alignment, unlike typical otyughs, which were usually neutral.
+
+Combat
+Lifeleech otyughs were challenging combatants, especially compared with ordinary otyughs. They could attack twice as often (due to having double the amount of tentacles), and deal more damage with each tentacle. Their bite was also more deadly. These twisted aberrations could last about thrice as long in combat as regular otyughs, and were much better naturally armored.
+
+The most unique ability of these creatures was its lifeleech aura. Whenever healing spells were cast within  of the creatures, they would sap the power of such spells, being healed in the process.
+
+Ecology
+These dung-eaters lurked in disgusting refuse-filled pits, where they often covered themselves in their mess. They were, unsurprisingly, reported to inhabit the sewers of Waterdeep.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Liora Leaffalling
+
+Liora Leaffalling was a half-elf druid member of the Archdruid's Grove, the druid circle of Mosstone, circa 1370 DR.
+
+Description
+Liora had distinctly sharp facial features. She was one of the most liked druids in Mosstone.
+
+History
+Liora Leaffalling was born out of an unlikely union of a human woman and father, a wild elf from Suldanessellar. She spent seventy years of her life as a beloved druid of the Archdruid's Grove, residing in Mosstone from circa 1300 DR. During those years, she was surrounded mostly by humans and human companionship. Only closer to 1370 DR, she was accepted by her fathers' people. Eventually, she departed for Suldanessellar to study her fey heritage deep in the Forest of Tethir.
+
+Appendix
+References
+
+---
+
+## Lightning arrow (item)
+
+Lightning arrows were a type of enchanted ammunition often used by various bowmen of the Realms.
+
+Powers
+These unassuming arrows exploded into bursts of lightning sparks on impact, dealing electricity damage to their targets.
+
+History
+In the mid-14 century DR, many enchanted lightning arrows were a common sight along the Sword Coast, the Moonsea, and used by numerous individuals and factions.
+
+Appendix
+Gallery
+
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights • Neverwinter Nights 2 • Neverwinter Nights: Darkness over Daggerford • Neverwinter Nights: Tyrants of the Moonsea • Neverwinter Nights: Doom of Icewind Dale)
+External links
+
+References
+
+---
+
+## Lime
+
+Limes were a type of citrus fruit, grown from trees of the same name, found in the Realms.
+
+Availability
+Places in the Realms where limes were known to be cultivated included:
+ In west Faerun's Lands of Intrigue region, limes were cultivated in abundance by the town of Imnescar.
+
+Usages of Limes
+ Mulled brew, a drink that often contained a slice of lime or apple.
+ Limes were among the multitude of things stuffed into giant squids in the town of Tulmene.
+
+Notable Users of Lime
+General
+ Some sailors kept limes on their ships, stored within chests of sand, in order to stave off scurvy.
+Restaurants & Taverns
+ Blackthorn's Brew served lastbowl, a dish consisting of lime, mango, and peach slices in a thick sweet syrup.
+ The Braundlae's Best served live eels in a mint-and-lime hor sauce.
+ The Chateau Elite served almond brandy from Mintarn with a splash of lime.
+ The Harfin Draether served bowls of hot pickled limes.
+ The Owlroost Head boiled squids in lime juice laced with slices of lemon before stuffing them into yams.
+
+Appendix
+
+Appearances
+Novels
+Star of Cursrah • Red Magic
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+External Links
+
+References
+
+---
+
+## Linen
+
+Linen was a common form of textile in the Realms, produced from the fibers of the flax plant.
+
+Availability
+Places in the Realms where linen was known to be produced included:
+ In east Faerûn, linen was produced in the nation of Mulhorand.
+ In interior Faerûn, linen was an export of Daerlun.
+ In northeast Faerûn's Great Dale, linen was produced and spun by families for use in clothing.
+ In southeast Faerûn's Shining Lands, linen was produced by the city of Sezilinta.
+
+Beyond Faerûn
+ Linen was a common trade good carried by caravans in the Endless Wastes.
+ On the continent of Kara-Tur, linen was regularly produced in the nation of Kozakura.
+ Linen was one of the major exports of the Korinn Archipelago.
+ On the continent of Zakhara, linen was a common export of the Cities of the Pantheon. The finest linen in the Land of Fate was produced in the Clothiers' District of the city Huzuz, where it was then sold to tailors or embroiderers.
+
+Derived Fabrics
+Damask A type of luxury patterned fabric.
+
+History
+The existence of linen on Toril dated as far back as the kingdom of Ostoria, where the dynast Nicias wore a cloak made of the material.
+
+In the mid-14 century DR, high-shouldered linen gowns were fashionable in the city of Tu Pe.
+
+Usage
+ Linen was frequently used for making clothing. In the land of Zakhara, this included keffiyehs, shirts, and veils.
+ Linen was one of many materials commonly used to make bowstrings.
+ Linen was a common material for making hammocks.
+ In the land of Zakhara, linen was a commonly used material for parasols.
+ Some used linen to make bedsheets, comforters, and pillow covers.
+ Some used linen yard to make swordknots, an ornamental cord or tassel that was tied to the hilt of a sword.
+ Some used linen to produce tablecloths.
+
+Magic
+ Some used linen to make paper for spellbooks or the covers of arcanabula.
+ A scrap of white linen was needed as a material component for the divine magic version of the death's door spell.
+
+Notable Users
+Classes
+ Warriors in the land of Mulhorand often wore light, wine linen capes as added protection from the sun.
+ Warriors in the land of Unther often wore white linen kilts.
+
+Groups
+ Aurora's Whole Realms Catalogue sold a wide variety of clothing manufactured in Saerloon from the linen made in Daerlun. These clothing items included breeches, chemises, codpieces, cotes, doublets, fullcloths, gloves, hats and caps, hoods, hose, jerkins, loincloths, mufflers, robes, sashes, slippers, surcoats, tabards, togas, and a linen coif in their disguise kits.
+ Non-clothing items made of linen that were sold by Aurora's Whole Realms Catalogue included altar cloths, purses, handkerchiefs, towels, candle wicks, and tourniquet cloths.
+ The Fellowship of Innkeepers arranged discount prices on linens by placing bulk orders for its members.
+
+Races & Sentient Creatures
+ Brownies typically preferred to wear garments that were made of either linen or wool.
+
+Regions & Settlements
+ In the nation of Calimshan, many members of the lower class wore simple shirts or tunics made from linen, while members of the upper class wore a wider ranger of clothing made of finer linens.
+ Both men and women in Koryo typically wore all-white tunics and trousers made of linen.
+ In the nation of Rashemen, the native Rashemaar women typically wore linen blouses.
+ In the nation of Tabot, some men wore plain white linen caps that covered the tops of their ears.
+ In the nation of T'u Lung, linen tunics were common.
+ In the city of Waterdeep, it was not uncommon to find women wearing bonnets, gorgets, or gowns made of linen.
+
+Religions
+ The clerics of the Mulhorandi deities Anhur, Geb, Horus-Re, Osiris, Sebek, Set, and Thoth typically wore kalasiris as part of their priestly vestments These were tight-fitting skirts made of linen.
+ The clerics of the Mulhorandi deities Hathor, Isis, and Nephthys typically wore dresses made of linen as part of their priestly vestments.
+
+Appendix
+Appearances
+Adventures
+Treasure Hunt
+Novels
+Sword Play • The Ruby Guardian • The Magehound
+
+Sentinelspire
+Gamebooks
+Secret of the Djinn
+Video Games
+
+External Links
+
+References
+
+---
+
+## Lionheart (Nobanionite spell)
+
+Lionheart was a divine abjuration and illusion spell used by specialty priests devoted to Nobanion called Firemanes to instill courage in others.
+
+Effects
+This spell filled the target or targets with the heart of a lion. Those under the influence of lionheart were immune to all forms of magical fear and would never flee from the threat of danger. Additionally, this spell would instantly remove any lingering magical or nonmagical fear within the target.
+
+This spell had no effect on the undead.
+
+Components
+In addition to verbal and somatic components, this spell required as material components a tuft of hair from a lion or similar creature such as a wemic to cast.
+
+Appendix
+References
+
+---
+
+## Lili Huntinghawk
+
+Lili Huntinghawk was a scout for Company Yargo that served aboard the Buccaneer's Tear during the late 15 century DR.
+
+Personality
+She was a pragmatist that could easily justify her actions depending on those taken by the people around her.
+
+Activities
+Lili was a collector of rare items, namely trophies taken from powerful beasts.
+
+History
+When the Buccaneer's Tear landed atop the Pirates' Skyhold earthmote in the, Lili and her fellow scouts Thoros and Shaben Shortcloak were sent ahead across the Vilebog wetlands to observe the local lizardfolk population. While Thoros sought to outright kill the resident lizardfolk, Lili "merely" sought to ransack their homes and recover any valuables within.
+
+When Shaben appeared to go missing near the sunken villages that surrounded the menacing Skull Fortress, Lili and Thoros both sought to aid to seek out more information.
+
+Appendix
+Appearances
+Video Games
+
+External Links
+
+References
+
+---
+
+## Libram of gainful conjuration
+
+A Libram of Gainful Conjuration was a tome of great value to arcane spellcasters of neutral alignment. After, the name referred to a version of the artifact that provided benefits to arcane spellcasters of good alignment.
+
+Powers
+To make use of the work, a wizard of the correct alignment (neither good-aligned nor evil-aligned before, only good-aligned after) needed to spend a week cloistered and undisturbed, perusing the tome. The earlier book would teach them approximately half of what they needed to take their skills to the next level; the later book instead increased the natural qualities of the magician that governed their spellcasting. In either case, the book disappeared after use, and no mage could gain the benefit of such a tome twice.
+
+For the earlier version, arcane casters whose alignment was rejected by the book suffered severe damage, leaving them unconscious for 50–200 minutes, commensurate to the damage taken, and needed an atonement spell cast in order to continue their studies. For the later version, rather than physical damage, their basic health was undermined with no period of unconsciousness; they still needed the atonement spell to continue advancing in their studies. Anyone not an arcane spellcaster in the first place who read the tome was at risk of insanity.
+
+History
+One libram of gainful conjuration was protected by four necrophidii in the Crypt of Badr Al-Mosak. Another example of the book was kept by the wizard Martek in the library at Martek's Inner Sanctum.
+
+Appendix
+See Also
+
+Appearances
+Adventures
+Desert of Desolation
+Video Games
+Dungeon Hack
+Card Games
+AD&D Trading Cards
+References
+
+---
+
+## Libram of ineffable damnation
+
+A Libram of Ineffable Damnation was a tome of great value to arcane spellcasters who venerated evil.
+
+Powers
+To make use of the work, an evil wizard needed to spend a week cloistered and undisturbed, perusing the tome. Before, the book would teach them approximately half of what they needed to take their skills to the next level; after, these books instead increased the natural qualities of the magician that governed their spellcasting. In either case, the book disappeared after use, and no mage could gain the benefit of such a tome again.
+
+Arcane casters whose alignment was rejected by the book suffered severe damage, were left unconscious for 50-200 minutes, commensurate to the damage taken, and needed an atonement spell cast in order to continue their studies before . After, rather than physical damage, their basic health was undermined with no period of unconsciousness; they still needed the atonement spell to continue advancing in their studies. Anyone not an arcane spellcaster in the first place who read the tome was at risk of insanity.
+
+Notable Users
+ Munafik, high priest of Amun-Re, and Master of Tomes of Terbakar, was interred with a libram of ineffable damnation.
+ Tiamat had one of these librams among the treasure horde in her lair in the Abyss.
+
+Appendix
+See Also
+
+Appearances
+
+References
+
+---
+
+## Listening shadow
+
+Listening shadow was a divine alteration and divination spell used by priests devoted to Mask, enabling them to transmit sound through a shadow.
+
+Effects
+This spell created a mobile shadow about the same size as the caster that transmitted sound within  of its location back to the caster. The caster could move the shadow about and change its shape at will. Experienced casters could even cast tongues on the listening shadow to understand different languages. Lead within a wall and gorgon's blood were effective barriers to blocking the sound transmitted by the listening shadow.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+Appendix
+References
+
+---
+
+## Liahona
+
+A liahona was an intelligent brass orb that served as a compass and as an oracle.
+
+Description
+A liahona resembled a brass ball of curious and intrincate design.
+
+Powers
+The brass orb would react only to lawfully good aligned characters. It could convey the direction of true north. Once per day, it could call on a locate object spell, and once per week it could answer a yes/no question.
+
+Notable Owners
+ Sithal Al-Husn
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Library of Curna
+
+The Library of Curna was a major center of worship for Curna within the Shining Lands of southeast Faerûn.
+
+Location
+The library was located within the Curna Mountains which were also known as the "Mountains of Wisdom."
+
+History
+The lore stored within the Library of Curna focused more on current events, business, and naturalistic studies.
+
+Appendix
+References
+
+---
+
+## Lilda's
+
+Lilda's was a cheap and rowdy festhall located in Westgate in 1367 DR.
+
+Description
+This large establishment had several wings and a large porch.
+
+Location
+The festall was located outside of the city walls beyond the West Gate across from the Cormaeril yards.
+
+Activities
+Lilda's attracted a raucous clientele.
+
+Appendix
+References
+
+---
+
+## Linseed oil
+
+Linseed oil was a type of vegetable oil in the Realms, made from the seeds of the flax flower.
+
+Availability
+Flax and linseed oil was traded widely around the Realms. It was produced by pressing flax seeds threshed from the flax plant. Traitor's Mill was one such grist mill, using the River Dessarin to power it.
+
+Usages
+
+ Some were known to use linseed oil in the production of ink.
+ The oil was used to lubricate and protect metal tools, weapons, and mechanisms. Boiled linseed oil was used to clean metal to prevent rusting, including darksteel. It was recommended to do so once every seven days or so.
+ Boiled linseed oil was used in a wide array of potions.
+ The oil was used to treat linen to make it airtight and waterproof.
+ Linseed oil was used in oil paints.
+
+Notable Users
+ The wizard Khelben Arunsun kept linseed oil in his Blackstaff Tower.
+
+History
+Blackwood, a soldier of the Neverwinter Guard in the late 1490s DR, used boiled linseed oil to clean his darksteel greataxe once a month, but it was causing rusting. Holga Kilgore criticized his laxness before she beat him up and took the axe. She planned to get some more boiled linseed oil before leaving the city.
+
+Appendix
+Notes
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Lissial
+
+Mistress Lissial was a heroic and fearless elf owner of the enchanted greatsword - Longbite.
+
+History
+Sometime before 1372 DR, Lissial commissioned a magic blade modeled after the infamous Veiled Tears. She received the enchanted blade named the Gentle Rain created by one of Quilin's apprentices. She wielded her powerful keen blade against a band of hill giants who ambushed the elf during her travels. Mistress Lissial knew she was outnumbered, but instead of fleeing, she charged at the giant leader, slashing his head clean off his shoulders, sending the rest hill giants to flee in terror. This encountered led to the greatsword being renamed as Longbite.
+
+Appendix
+Appearances
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Li Tzen Tomei
+
+Li Tzen Tomei was a well known and fearless explorer in the land of Kara-Tur.
+
+History
+Tomei ultimately perished one day at the hands of a monster that he was not prepared to face.
+
+Appendix
+Appearances
+Adventures
+
+Ronin Challenge
+References
+
+---
+
+## Literate Brotherhood
+
+The Literate Brotherhood was a group of scribes devoted to Deneir, the Lord of All Glyphs.
+
+Activities
+Any scribe within one of Deneir's temples who was certified by the church belonged to the Brotherhood. They wore either a pin or badge of a white quill to show their affiliation.
+
+Appendix
+References
+
+---
+
+## Lissa Uvarrk
+
+Lissa Uvarrk was a gnome of Thentia, quite adept at transmutation. Per Rilitar Shadow-water, she had died some time before Mirtul 20 of . Presumably, this was because of a spirit she summoned, which slipped her leash. By Mirtul 26, Taegan Nightwind and him were disabused of the idea, and certain that she had not summoned any spirits, but that a different magician had bound the fiend and used it to slay her.
+
+Appendix
+Appearances
+Novels
+The Rite
+References
+
+---
+
+## Lingale
+
+Lingale was a spice found in the Hordelands in the Northeast Faerûn.
+
+Description
+Lingale was used to bring out the flavor in meat, and to thicken broth.
+
+History
+In the, Berun, a druid from the Shalhoond, kept some lingale in an oilskin pouch.
+
+Appendix
+Appearances
+Novels
+Sentinelspire
+
+References
+
+---
+
+## Lifeblend
+
+Lifeblend was a powerful arcane necromancy spell that permanently fused two or more separate life forms into one creature.
+
+Effects
+The subjects of this spell could be any type of plant or animal so long as they were alive. The caster was unable to cast other spells for a full day after casting lifeblend.
+
+Each subject was placed into a special cage. The caster touched each subject at the same time during the casting, which by default meant that a maximum of four subjects could be used for a caster with two hands and two feet. The caster concentrated intensely on the desired form the new creature would take, otherwise the spell would fail. If any of the subjects resisted the spell's magic the caster would be struck with a backlash that imparted traits from the subjects onto them for several days. A successful casting resulted in the creation of a new creature with features and abilities of all subjects involved.
+
+Components
+In addition to verbal and somatic components, this spell required as material components a special cage for each subject made from precious metal worth at least 2,500 gp each, a candle for each creature, and a ruby worth at least 5,000 gp to cast. The candles were placed together and lit during the beginning of the casting so that the wax had time to blend together. The ruby represented a heart and was placed between the candles and eventually covered in the melted wax. All of the components were consumed during the casting.
+
+History
+This spell was included in Kyristan's Mysteries.
+
+Appendix
+References
+
+---
+
+## Lindin
+
+Lindin was an arrogant adventuring fighter from the city of Waterdeep in the mid−14 century DR.
+
+Possessions
+Lindin was armed with an enchanted +1 longsword, and protected by a suit of plate mail and a medium shield. He carried a potion of absorption and a potion of invisibility.
+
+History
+In the, Lindin's adventuring party, led by Kirian visited the area east of Beregost known as Mutamin's Garden. There, Lindin, Kirian, Baerin, and Peter antagonized travelers, fellow adventurers, and "rustic locals," provoking them into combat.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate
+External Links
+
+References
+
+---
+
+## Lia
+
+Lia was a tiefling resident of Elturel that became a refugee due to her peoples' exile following the Descent of the city during the late 15 century DR.
+
+Personality
+She was a compassionate person that strongly believed in cooperation for the greater good of her community.
+
+History
+Lia and her companion Cal followed the group of tieflings led by Zevlor, that collectively traveled together from Elturel to the western city of Baldur's Gate in the . While the group was given shelter from goblin attacks at the Emerald Grove, Lia and Cal believed they should stay and help the grove's druids, while their friend Rolan was adamant about arriving in Baldur's Gate as soon as possible.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+
+References
+
+---
+
+## Licorice
+
+Licorice was a plant with the edible roots used to create several types of alcoholic drinks.
+
+Availability
+Licorice was sold via Aurora's Whole Realms Catalogue for 5 sp per root.
+
+In the Shou district of Xiousing in Marsember, licorice, along with numerous other herbs, grew in Shen's Herb Garden in the late 15 century DR.
+
+Usages
+Food & Drink
+In the Moonshae Isles, fermented green mold and licorice was used to distill krogynth, a type of licorice-smelling moonshine that tasted like "currants mixed with earwax."
+Good folk of Sheirtalar distilled black licorice whisky, must disliked by Durnan of Waterdeep.
+In Tashalar, a drink called rollrum was laced with licorice.
+Blackfeather Bridge's Blackwater Stout tavern served Blackwater Stout a type of beer with melted licorice.
+Old Black Goblin was a pitch black porter-type beer made with licorice and cherrywood ash and consumed across the Dalelands, Cormyr, Sembia, and the Moonsea.
+
+Magic
+A shaving of licorice root was used as a material component for the haste spell.
+A Halruaan spell of rapid reflexive response required a glove once worn by a halfling, a frog's tongue, and a shaving of licorice.
+
+Notable Users
+Aoth Fezim carried licorice with him to cast haste on his griffon familiar Brightwing.
+Halaster Blackcloak kept several casks of licorice root shavings in his components storage room in the Undermountain.
+Taegan Nightwind, an Avariel bladesinger who sought to stop the Cult of the Dragon's conspiracy circa 1373 DR used licorice root to cast haste spell.
+
+Trivia
+Following the devastating effects of Spellplague, Vilhon Wilds were turned into a strange and alien land, with air smelling of jasmine and licorice.
+Halfling breastmilk was said to have a peculiar taste similar to unsweetened licorice.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lisbunt Mountains
+
+The Lisbunt Mountains was small mountain range found in the kingdom of Gnarhelm on the island of Alaron within the Moonshae Isles.
+
+Geography
+The mountains were located on the northwestern corner of Alaron, north of the Fairheight Range. The were bordered on their western edge by the Farfair River. The Lisbunt Mountains surrounded the Lisloch on its western shores.
+
+Appendix
+References
+
+---
+
+## Litter
+
+Litters were a variety of wheel-less vehicles, used to transport one or more individuals, that were carried by other humanoids. Across the Realms, they were typically utilized by the noble or wealthy members of societies, who were carried by either servants or in some regions slaves.
+
+Description
+These conveyances were essentially chairs or large, flat couches, sometimes featuring awnings.
+
+Prices
+In the bazaars of Zakhara, the price of a common litter varied from around 60 to 120 gold pieces depending upon how good one was at haggling. Great litters varied from around 120 to 200 gold pieces. And sedan chairs varied from around 75 to 150 gp.
+
+Varieties
+Al-Badian Woman's Litter A variety of litter used solely by well-to-do women among the Al-Badia of Zakhara. These had a wooden frame, covered with the skin of a gazelle, and with a seat hanging down from it. Al-Badian women would display these in their tents when not in use, using it as a symbol of their status, wealth, or experience with the loom.
+Great Litter A larger variety of litter found in the continent of Zakhara. These could carry up to four passengers and required sixteen people to carry, with four being stationed on each corner.
+Palanquin A type of litter found in the continent of Kara-Tur, particularly in the nations of Shou Lung and Wa. Inscribed within the constitution of Wa, it was illegal for commoners to ride in palanquins unless they were doctors, elderly, sick, or disabled. And on the Wa island of Tsukishima, the town of Aru offered palanquin rides up the immense steps of the Shining Temple of Bishamon to wealthy visitors.
+Plumalitter A variety of Maztican litters that were enchanted with that land's unique pluma magic.
+Portage chair A type of litter found in the city of Waterdeep that was popular among its elderly nobility. The number of people they could carry varied from one to four and were carried typically carried by two or four servants.
+
+Notable Users
+Groups
+The Waterdhavian guild known as the Fellowship of Carters and Coachmen operated litters throughout the city of Waterdeep.
+Individuals
+ Glasya, the archdevil of Malbolge, had a golden litter with a canopy that she had carried by winged devils.
+ Hiro Matsu, a samurai lord in Wa, often traveled around on a palanquin that was carried around by four people.
+ House Hothemer of Waterdeep owned a two-person portage chair that was typically carried by two ogre servants.
+ Kriga Moonmusk, chief of the Blue Bear Tribe during the late 15 century DR, typically traveled throughout the North by means of a fur-covered litter.
+ Matasuuri Nagahide, the shogun of Wa, had his own personal palanquin. One story claimed that Nagahide once executed a village headman and his family for having approached his palanquin without permission.
+ Sibonseni, the Chief Priestess of Waukeen in Port Nyanzaru, traveled around that city on an opulent sedan chair.
+ Vernon Condor, Ravens Bluff's Regent of the Exchequer in the 14 century DR, typically traveled around the city inside of a sedan chair enclosed by purple curtains and accompanied by a dozen guards.
+Races & Sentient Creatures
+ Noble djinn, when traveling on the Prime Material plane, often did so on luxurious palanquins that were carried by four servants.
+Regions & Settlements
+ In the nation of Amn, palanquins were a common sight among the nobility of Athkatla's Gem District.
+ In the city-state of Procampur, the pampered elite traveled around by means of palanquins.
+ Sedan beds were the primary form of transportation in Sigil for all denizens, rather than just the noble and wealthy, as the city largely lacked in horses. One could pay for a ride at the Great Bazaar and most of the city's important buildings, though there were some areas of Sigil that the humanoids who carried them would refuse to go.
+ The caravans of Huzuz typically had their leader ride upon a litter. But rather than being carried by humanoids, each corner of their litter was handled by a camel ridden by a mamluk.
+
+Appendix
+See Also
+ Minyan, portable shrines in Kara-Tur that were similar in style to palanquins.
+Appearances
+
+External Links
+
+References
+
+---
+
+## Lisloch
+
+The Lisloch was a freshwater lake located in eastern Gnarhelm on the island of Alaron within the Moonshae Isles.
+
+Geography
+The Lisloch abutted the Lisbunt Mountains on its southern and western shores. The lake was fed by an unnamed river flowing down from the mountain and emptied into the Sea of Swords on the far eastern coast of Gnarhelm near the island of Amarune. The Lisloch was one of the larger lakes found in Gnarhelm, covering approximately .
+
+Appendix
+References
+
+---
+
+## Living steel
+
+Living steel were highly adaptable creatures of pure brightly-reflective steel that fed on iron and lived in the vicinity of iron ore veins.
+
+Description
+Living steel usually took on a shape reminiscent of a humanoid made of shiny steel that moved with almost liquid grace.
+
+Abilities
+These metallic beings reflected light and light-based magics thrown at them, absorbed heat, and were immune to electricity. However, these immunities could be overcome by an immense amount of fire or electric damage done and needed to spend time reassembling their bodies together. Electricity simply traveled through living steel's conductive bodies, and fire liquified them, allowing them to change shapes much quicker than normal. The cold slowed the creatures down and immensely stifled their transformative abilities, making them vulnerable to normal weapons for two minutes.
+
+Their bodies were completely unaffected by mundane and magic weapons weaker than +2 enchantments. When attacked with such implements of war, the weapons harmlessly slid off or through living steel bodies, leaving them unharmed and angry. Living steel bodies simply came back together where mundane weapons attempted to wound them.
+
+When creatures with infravision observed a living steel specimen, they appeared as a simple cold blue lump of metal, making them extremely hard to notice in the underground habitats.
+
+Their malleable, almost ooze-like bodies allowed living steel to fit in tight places and even move through tiny cracks in a wall.
+
+Behavior
+Living steel were usually non-aggressive but capable of ferocious and aggressive zeal if provoked. Living steel were known to pursue their offenders mercilessly until their targets or the creatures themselves were dead.
+
+Combat
+
+Living steel were able to change their bodies into any weapon or shape at will. Even not being able to change color, this ability gave them an upper hand in combat, pursuit, or evasion. When they needed speed, living steel could assume the shape of a swift hound; when they needed to defend themselves, they could transform into humanoids with giant axes or blades for hands. However, living steel could not fly in any of the shapes they assumed, nor gained sensory benefits or other qualities of creatures they transformed into. With that in mind, their shapeshifting abilities were only limited by their body mass.
+
+It took living steel a bit of time to finish its transformation. During that time, the creatures were vulnerable to normal weapons. Because of that weakness, living steel avoided changing shape in the heat of battle.
+
+Ecology
+Living steel were solitary beings and formed no known society. They inhabited subterranean locations rich with iron - the substance they consumed. Their lairs were usually only accessible via small cracks and crevices in the stone. Living steel reproduced asexually and were extremely aggressive towards each other, battling to the death when encountered in the wild. After such a deadly encounter, the winner living steel absorbed the loser, adding it to the body mass. When living steel were in their lairs, the creatures maintained their blob-like amorphous relaxed shape.
+
+Living steel consumed iron, and most of it was burned off to sustain and nurture the creatures. At the end of each day, one small refined iron chunk was deposited by living steel in their lair. This mass was an immature embryonic living steel, and it became a fully functional creature after a year of daily iron refinement and deposits.
+
+Relationships
+Living steel were known to serve several Torilian deities, such as Helm, Hoar, and Clangeddin Silverbeard.
+
+Appendix
+References
+
+---
+
+## Lillemaren
+
+Lillemaren was a small town located on Oman's Isle within the Moonshae Isles.
+
+Geography
+Lillemaren was located on the Sea of Moonshae on the east coast of Oman's Isle. It was several miles north of the foothills of the Grampalt Highlands.
+
+History
+The village was reduced to ruins after giants passed through the region following the .
+
+Appendix
+References
+
+---
+
+## Lithandy Fine Casks
+
+Lithandy's Fine Casks was a cooper business in the Dock Ward of Waterdeep in the 14 century DR.
+
+Location
+This business was located in a building that fronted the west side of the Street of Six Casks, two doors south from where it met Presper Street.
+
+Services
+Being a cooper business, Lithandy's specialized in the production of barrels. By the mid-to-late 14 century DR, the building focused on producing small hangkegs and ornamental-finish "show" barrels. While another building owned by the business, located somewhere outside of Waterdeep, was centered around the "heavy" work of mass producing and storing larger barrels.
+
+History
+Lithandy's Fine Casks was one of the six competing cooper businesses that fronted the Street of Six Casks, earning its moniker. As the business was passed down through generations, it would come to be one of the two surviving businesses on that street, the other being Burnleir's Barrels.
+
+Appendix
+References
+
+---
+
+## Light of Xymor
+
+Light of Xymor was a spell used against evil dragons.
+
+Effects
+When casting this spell, the caster touched an item. The item then radiated a brilliant light and had the same effects and properties of daylight. Creatures who were harmed by natural light were vulnerable to this spell. Additionally, light of Xymor was a counter to many darkness-type spells, such as darkness or shadow of the dark queen. The most powerful effect of this spell was the any evil-aligned dragon or dragonkind creature were prevented from entering any area that the light touched.
+
+Components
+This spell required verbal and somatic components. Clerics and paladins of Bahamut cast this spell at a single level higher than their skill level.
+
+Appendix
+References
+
+---
+
+## Light of Creation
+
+The Light of Creation was an enchanted halberd that was wielded by the clockwork construct Bernard, Guardian of the Enchanted Tower.
+
+Description
+Several lodestones were inset into the shaft of the halberd, sparkling with some blue electrical current.
+
+Powers
+The Light of Creation possessed a +1 enchantment and was granted a form of arcane electrocution. Every time it was used to slash a non-construct creature the weapon it electrocuted them as well.
+
+History
+As of the, the Light of Creation was still in the possession of Bernard as he stood watch of the top floor of the Arcane Tower.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+External links
+
+References
+
+---
+
+## Liar's boots
+
+Liar's boots were a variety of enchanted boots that could aid in evading pursuers, and that were popular in the the Dalelands in the 14 century DR.
+
+Powers
+When activated, liar's boots would leave footprints in a direction of the wearer's choice (which must be mentally concentrated upon) and left no footprints of the actual direction the wearer walked with them. This effect could be activated twice per day.
+
+The maximum length by which a false trail could be made or extended out to was . Upon going beyond that limit or removing the liar's boots, the wearer's real footprints would begin to appear while their false ones dissipated.
+
+Notable Owners
+Most guilds in the Dalelands possessed one or more pairs of liar's boots.
+
+Appendix
+References
+
+---
+
+## Living Forgotten Realms/Aglarond
+
+The Aglarond region of the Living Forgotten Realms campaign was assigned to players in the southeastern United States. It was set in the area comprising Aglarond and its environs.
+
+Adventures
+AGLA1-1 Lost Temple of the Fey Gods
+
+ Designer(s): Bill W. Baldwin
+ Released: September 2008
+ Levels: 1 – 4
+
+AGLA1-2 At the Foot of the Lighthouse
+
+ Designer(s): Andrew Schneider
+ Released: November 2008
+ Levels: 4 – 7
+
+AGLA1-3 The Worst of All Snares
+
+ Designer(s): Brad Gardner
+ Released: January 2009
+ Levels: 7 – 10
+
+AGLA1-4 Through Twilight Boughs
+
+ Designer(s): Bill W. Baldwin
+ Released: June 2009
+ Levels: 4 – 7
+
+AGLA1-5 Silver Lining
+
+ Designer(s): Brad Gardner
+ Released: July 2009
+ Levels: 1 – 4
+
+AGLA1-6 Twisted Roots Run Deep
+
+ Designer(s): Jared Fegan
+ Released: October 2009
+ Levels: 11 – 14
+
+AGLA1-7 Twilight Ambitions
+
+ Designer(s): Kevin Kimball
+ Released: May 2010
+ Levels: 7 – 10
+
+AGLA2-1 The Undumor Connection
+
+ Designer(s): Will Dover
+ Released: March 2010
+ Levels: 7 – 10
+
+AGLA2-2 First Strike
+
+ Designer(s): Rishi Agrawal
+ Released: June 2010
+ Levels: 14 – 17
+
+---
+
+## Living Forgotten Realms/Akanûl
+
+The Akanûl  region of the Living Forgotten Realms campaign was assigned to players in Canada. It was set in the area comprising Akanûl and its environs.
+
+Adventures
+AKAN1-1 The Rotting Ruins of Galain
+
+ Designer(s): Colin Marco
+ Released: September 2008
+ Levels: 1 – 4
+
+AKAN1-2 The Depths of Airspur
+
+ Designer(s): Eric Menge
+ Released: December 2008
+ Levels: 4 – 7
+
+AKAN1-3 Property for Sale
+
+ Designer(s): Lawrence E.D. Vickers
+ Released: February 2009
+ Levels: 7 – 10
+
+AKAN1-4 Runes in Ruins
+
+ Designer(s): Stephen Baker
+ Released: June 2009
+ Levels: 4 – 7
+
+AKAN1-5 Shell Game
+
+ Designer(s): Stephen Baker
+ Released: July 2009
+ Levels: 7 – 10
+
+AKAN1-7 Faint Hope
+
+ Designer(s): Gregg Peevers
+ Released: December 2009
+ Levels: 1 – 4
+
+AKAN2-1 Set Adrift
+
+ Designer(s): DaK
+ Released: March 2010
+ Levels: 11 – 14
+
+Unreleased Adventures
+AKAN1-6 Abeir Eternal and AKAN2-2 Peripheral Concerns were never released.
+
+---
+
+## Living Forgotten Realms/Baldur's Gate
+
+The Baldur's Gate region of the Living Forgotten Realms campaign was assigned to players in South America and Central America. It was set in the area comprising Baldur's Gate and its environs.
+
+Adventures
+BALD1-1 Flames of Initiation
+
+ Designer(s): Otávio A. Gonçalves
+ Released: August 2008
+ Levels: 1 – 4
+
+BALD1-2 The Night I Called the Undead Out
+
+ Designer(s): Otávio A. Gonçalves
+ Released: December 2008
+ Levels: 4 – 7
+
+BALD1-3 Tome of the Traitor
+
+ Designer(s): JC Alvarez
+ Released: March 2009
+ Levels: 7 – 10
+
+BALD1-4 Silent Streets and Vanished Souls
+
+ Designer(s): Dave Brainard
+ Released: June 2009
+ Levels: 1 – 4
+
+BALD1-6 Brothers in Arms
+
+ Designer(s): Leonardo B. Koerich
+ Released: November 2009
+ Levels: 4 – 7
+
+Unreleased Adventures
+BALD1-5 Lost Refuge was not finished until after LFR lost official support; an unofficial version was released in 2013. BALD2-1 Turning Point, BALD2-2 Broken Pride, and BALD2-3 Scores to Settle were never released.
+
+---
+
+## Living Forgotten Realms/Cormyr
+
+The Cormyr region of the Living Forgotten Realms campaign was assigned to players in the northeastern United States. It was set in the area comprising Cormyr and its environs.
+
+Adventures
+CORM1-1 The Black Knight of Arabel
+
+ Designer(s): Mike Lee
+ Released: September 2008
+ Levels: 1 – 4
+
+CORM1-2 Gangs of Wheloon
+
+ Designer(s): Andrew Schneider
+ Released: October 2008
+ Levels: 4 – 7
+
+CORM1-3 Head Above Water
+
+ Designer(s): Alana Abbott
+ Released: March 2009
+ Levels: 7 – 10
+
+CORM1-4 All the King's Men
+
+ Designer(s): Andrew Schneider
+ Released: May 2009
+ Levels: 7 – 10
+
+CORM1-5 In the Bleak Midwinter
+
+ Designer(s): Alana Abbott
+ Released: September 2009
+ Levels: 1 – 4
+
+CORM1-6 Curse of the Queen of Thorns
+
+ Designer(s): Mike Lee
+ Released: October 2009
+ Levels: 11 – 14
+
+CORM1-7 Patronage and Pestilence
+
+ Designer(s): George Redifer
+ Released: November 2009
+ Levels: 1 – 4
+
+CORM2-1 For Crown and Kingdom
+
+ Designer(s): Matt Arnold
+ Released: February 2010
+ Levels: 1 – 4
+
+CORM2-2 Pain
+
+ Designer(s): Pierre van Rooden
+ Released: May 2010
+ Levels: 11 – 14
+
+---
+
+## Living Forgotten Realms/Dalelands
+
+The Dalelands region of the Living Forgotten Realms campaign was assigned to players in Northern Europe and Russia. It was set in the Dalelands area.
+
+Adventures
+DALE1-1 The Prospect
+
+ Designer(s): Pierre van Rooden
+ Released: September 2008
+ Levels: 1 – 4
+
+DALE1-2 Blades for Daggerdale
+
+ Designer(s): Matthias Schäfer
+ Released: October 2008
+ Levels: 4 – 7
+
+DALE1-3 Master and Servant
+
+ Designer(s): Matthias Schäfer, Arjen Laan
+ Released: January 2009
+ Levels: 7 – 10
+
+DALE1-4 The Lady in Flames
+
+ Designer(s): Brad Gardner
+ Released: May 2009
+ Levels: 4 – 7
+
+DALE1-5 Hunters' Down
+
+ Designer(s): Ralf Zuiderhoek
+ Released: July 2009
+ Levels: 7 – 10
+
+DALE1-6 The Vesperin Initiative
+
+ Designer(s): Mickey Tan
+ Released: October 2009
+ Levels: 11 – 14
+
+DALE1-7 Arts
+
+ Designer(s): Oliver Kemmet
+ Released: November 2009
+ Levels: 4 – 7
+
+DALE2-1 Forever
+
+ Designer(s): Eric de Vries
+ Released: February 2010
+ Levels: 1 – 4
+
+DALE2-2 Agony
+
+ Designer(s): Matthias Schäfer, Renout van Rijn
+ Released: May 2010
+ Levels: 14 – 17
+
+DALE2-3 Swords from Plowshares
+
+ Designer(s): Ryan Cannon
+ Released: October 2010
+ Levels: 4 – 7
+
+---
+
+## Living Forgotten Realms/Dragon Coast
+
+The Dragon Coast region of the Living Forgotten Realms campaign was assigned to players in the Asia-Pacific region. It was set in the Dragon Coast area.
+
+Adventures
+DRAG1-1 Many Hands Make Light Work
+
+ Designer(s): Bruce Paris
+ Released: September 2008
+ Levels: 1 – 4
+
+DRAG1-2 The Thin Gray Line
+
+ Designer(s): Joe Fitzgerald
+ Released: November 2008
+ Levels: 4 – 7
+
+DRAG1-3 A Stab in the Dark
+
+ Designer(s): Renout van Rijn
+ Released: January 2009
+ Levels: 7 – 10
+
+DRAG1-4 Falling Snow, White Petal
+
+ Designer(s): Patrick Williamson
+ Released: June 2009
+ Levels: 4 – 7
+
+DRAG1-5 White Flower Falling
+
+ Designer(s): Warwick Wright
+ Released: September 2009
+ Levels: 7 – 10
+
+DRAG1-6 Night of Fallen Petals
+
+ Designer(s): Pierre van Rooden
+ Released: October 2009
+ Levels: 7 – 10
+
+DRAG1-7 Crafts
+
+ Designer(s): Andrew Cowan
+ Released: November 2009
+ Levels: 1 – 4
+
+DRAG2-1 Discomfort
+
+ Designer(s): Ben McFarland
+ Released: February 2010
+ Levels: 11 – 14
+
+DRAG2-2 This Gathering Storm
+
+ Designer(s): Mark Somers
+ Released: June 2010
+ Levels: 1 – 4
+
+DRAG2-3 Of Wild and Darkened Waters
+
+ Designer(s): Joe Fitzgerald, Glenn Tait
+ Released: October 2010
+ Levels: 4 – 7
+
+---
+
+## Living Forgotten Realms/East Rift
+
+The East Rift region of the Living Forgotten Realms campaign was assigned to players in the Pacific United States. It was set in the area comprising the East Rift and its environs.
+
+Adventures
+EAST1-1 These Hallowed Halls
+
+ Designer(s): Bill Benham
+ Released: August 2008
+ Levels: 1 – 4
+
+EAST1-2 Marauder's Spear
+
+ Designer(s): Art Severance, Mike Rizzo
+ Released: December 2008
+ Levels: 4 – 7
+
+EAST1-3 Unbidden
+
+ Designer(s): Thomas J. Scott
+ Released: January 2009
+ Levels: 7 – 10
+
+EAST1-4 Darkness in Delzimmer
+
+ Designer(s): Roy Thalman
+ Released: April 2009
+ Levels: 1 – 4
+
+EAST1-5 Mole Hunt
+
+ Designer(s): Jeanette D. Martin, Sara D. Green
+ Released: August 2009
+ Levels: 4 – 7
+
+EAST1-6 The Fardrop Incident
+
+ Designer(s): Jared Twing
+ Released: November 2009
+ Levels: 11 – 14
+
+EAST2-1 Ends and Means
+
+ Designer(s): Travis R. Woodall
+ Released: March 2010
+ Levels: 4 – 7
+
+EAST2-2 Sibilant Whispers
+
+ Designer(s): Jonathon Kruger
+ Released: July 2010
+ Levels: 11 – 14
+
+Unreleased Adventures
+EAST1-7 Right of Passage was never released.
+
+---
+
+## Living Forgotten Realms/Impiltur
+
+The Impiltur region of the Living Forgotten Realms campaign was assigned to players in Southern Europe and Turkey. It was set in the area comprising Impiltur and its environs.
+
+Adventures
+IMPI1-1 Alone
+
+ Designer(s): Creighton Broadhurst
+ Released: September 2008
+ Levels: 1 – 4
+
+IMPI1-2 Breaking Point
+
+ Designer(s): Dominic Amann
+ Released: October 2008
+ Levels: 4 – 7
+
+IMPI1-3 Lost Souls
+
+ Designer(s): Dave Kayserman
+ Released: February 2009
+ Levels: 7 – 10
+
+IMPI1-4 Bandits on the Farm
+
+ Designer(s): Donovan Hicks
+ Released: May 2009
+ Levels: 4 – 7
+
+IMPI1-5 How to Hunt a Demon
+
+ Designer(s): Finn Kisch
+ Released: August 2009
+ Levels: 4 – 7
+
+IMPI1-6 The Ancient Temple
+
+ Designer(s): Karim Majeri
+ Released: November 2009
+ Levels: 11 – 14
+
+IMPI1-7 Masquerade
+
+ Designer(s): Jeanette D. Martin, Sara D. Green
+ Released: December 2009
+ Levels: 4 – 7
+
+IMPI2-1 Goblins from Below
+
+ Designer(s): Dan Taylor
+ Released: March 2010
+ Levels: 7 – 10
+
+IMPI2-2 Wetwork
+
+ Designer(s): Donovan Hicks
+ Released: September 2010
+ Levels: 11 – 14
+
+---
+
+## Living Forgotten Realms/Luruar
+
+The Luruar region of the Living Forgotten Realms campaign was assigned to players in the United Kingdom, Ireland, and South Africa. It was set in the area comprising Luruar and its environs.
+
+Adventures
+LURU1-1 Slivers of Eaerlann
+
+ Designer(s): Creighton Broadhurst
+ Released: August 2008
+ Levels: 1 – 4
+
+LURU1-2 The Gibbous Moon
+
+ Designer(s): Robert Wills
+ Released: November 2008
+ Levels: 4 – 7
+
+LURU1-3 Shades of Blue Fire
+
+ Designer(s): Dan Jewell, Creighton Broadhurst
+ Released: March 2009
+ Levels: 7 – 10
+
+LURU1-4 Prey for the Night
+
+ Designer(s): Bill W. Baldwin
+ Released: April 2009
+ Levels: 7 – 10
+
+LURU1-5 Beyond the Wild Frontier
+
+ Designer(s): Ian Hambly
+ Released: August 2009
+ Levels: 7 – 10
+
+LURU1-6 Desperate Times
+
+ Designer(s): Ian Hayward
+ Released: October 2009
+ Levels: 4 – 7
+
+LURU1-7 Demonic Dealings
+
+ Designer(s): David Birchall
+ Released: December 2009
+ Levels: 7 – 10
+
+LURU2-2 Shadows of the Knights
+
+ Designer(s): Mickey Tan
+ Released: June 2010
+ Levels: 7 – 10
+
+LURU2-3 Forgotten Crypts, Hidden Dangers
+
+ Designer(s): Pierre van Rooden
+ Released: August 2010
+ Levels: 1 – 4
+
+Unreleased Adventures
+LURU2-1 Hands that Rock the Cradle and LURU2-4 Need to Know were not finished until after LFR lost official support; unofficial versions of both were released in October 2010 and 2011, respectively.
+
+---
+
+## Living Forgotten Realms/Moonshae Isles
+
+The Moonshae Isles region of the Living Forgotten Realms campaign was assigned to players in the Western United States. It was set in the Moonshae Isles.
+
+Adventures
+MOON1-1 Nature's Wrath
+
+ Designer(s): Michael Mockus
+ Released: September 2008
+ Levels: 1 – 4
+
+MOON1-2 The Sea Drake
+
+ Designer(s): Jean-Philipe Chapleau
+ Released: October 2008
+ Levels: 4 – 7
+
+MOON1-3 Black Gold
+
+ Designer(s): Leonard Logan
+ Released: February 2009
+ Levels: 7 – 10
+
+MOON1-4 Black Blood
+
+ Designer(s): Jean-Philipe Chapleau
+ Released: April 2009
+ Levels: 7 – 10
+
+MOON1-5 Lost Love
+
+ Designer(s): Mick Hand
+ Released: September 2009
+ Levels: 7 – 10
+
+MOON1-6 Black Heart
+
+ Designer(s): Jean-Philipe Chapleau
+ Released: November 2009
+ Levels: 11 – 14
+
+MOON1-7 Treasure Hunt
+
+ Designer(s): Timmy Creese
+ Released: December 2009
+ Levels: 7 – 10
+
+MOON2-1 Darkness Falls over Moray
+
+ Designer(s): Louis Giersch
+ Released: February 2010
+ Levels: 4 – 7
+
+---
+
+## Living Forgotten Realms/Tymanther
+
+The Tymanther region of the Living Forgotten Realms campaign was assigned to players in the Southwestern United States. It was set in the area comprising Tymanther and its environs.
+
+Adventures
+TYMA1-1 Elder Wisdom
+
+ Designer(s): Jeff Hertel
+ Released: September 2008
+ Levels: 1 – 4
+
+TYMA1-2 Taking Stock of the Situation
+
+ Designer(s): Jeff Hertel
+ Released: November 2008
+ Levels: 4 – 7
+
+TYMA1-3 Tools of the Trade
+
+ Designer(s): Jeff Hertel
+ Released: March 2009
+ Levels: 7 – 10
+
+TYMA1-4 Death before Dishonor
+
+ Designer(s): Keith Symcox
+ Released: May 2009
+ Levels: 4 – 7
+
+TYMA1-5 From One Dwarf to Another
+
+ Designer(s): Joshua Freeman
+ Released: July 2009
+ Levels: 1 – 4
+
+TYMA1-6 Troubled Roads
+
+ Designer(s): Mark Pekel
+ Released: November 2009
+ Levels: 11 – 14
+
+TYMA2-1 Old Enemies Arise
+
+ Designer(s): Mike McTee
+ Released: June 2010
+ Levels: 1 – 4
+
+TYMA2-2 The Hand of Darkness
+
+ Designer(s): Pat Smith
+ Released: July 2010
+ Levels: 1 – 4
+
+Unreleased Adventures
+TYMA2-3 Tying Up Loose Ends and TYMA2-4 Stand Against the Darkness were not finished until after LFR lost official support; unofficial versions were released in 2011 and 2012, respectively. TYMA1-7 Stolen Cargo was never released.
+
+---
+
+## Living Forgotten Realms/Waterdeep
+
+The Waterdeep region of the Living Forgotten Realms campaign was assigned to players in the Midwestern United States. It was set in the area comprising Waterdeep and its environs.
+
+Adventures
+WATE1-1 Heirloom
+
+ Designer(s): Claire Hoffman, Keith Hoffman
+ Released: August 2008
+ Levels: 1 – 4
+
+WATE1-2 Dark Secrets of Downshadow
+
+ Designer(s): Claire Hoffman, Keith Hoffman
+ Released: October 2008
+ Levels: 4 – 7
+
+WATE1-3 The Woolmen's Restless Tomb
+
+ Designer(s): Brayden Glad
+ Released: February 2009
+ Levels: 7 – 10
+
+WATE1-4 Mystery of Deepwater Harbor
+
+ Designer(s): Brad Gardner
+ Released: April 2009
+ Levels: 7 – 10
+
+WATE1-5 Lost in the Fog
+
+ Designer(s): Timothy Bailey
+ Released: July 2009
+ Levels: 1 – 4
+
+WATE1-6 Out of Hatred
+
+ Designer(s): Claire Hoffman, Keith Hoffman
+ Released: October 2009
+ Levels: 11 – 14
+
+WATE1-7 The Missing and the Missed
+
+ Designer(s): Jeanette D. Martin, Sara D. Green
+ Released: November 2009
+ Levels: 4 – 7
+
+WATE2-1 Gilding a Noble
+
+ Designer(s): Brad Gardner
+ Released: February 2010
+ Levels: 7 – 10
+
+WATE2-2 Closing a Deal
+
+ Designer(s): Richard W. Brown
+ Released: May 2010
+ Levels: 11 – 14
+
+Unreleased Adventures
+WATE2-3 Noble Dangers was not finished until after LFR lost official support; an unofficial version was released in 2011.
+
+---
+
+## Living Forgotten Realms/Core
+
+The Core adventures in the Living Forgotten Realms campaign were typically set in areas not covered by any of the twelve regions, though there inevitably was some overlap involved.
+
+Adventures
+CORE1-1 Inheritance
+
+ Designer(s): Pieter Sleijpen
+ Released: August 2008
+ Levels: 1 – 4
+
+CORE1-2 The Radiant Vessel of Thesk
+
+ Designer(s): Shawn Merwin
+ Released: August 2008
+ Levels: 1 – 4
+
+CORE1-3 Sense of Wonder
+
+ Designer(s): M. Sean Molley
+ Released: August 2008
+ Levels: 1 – 4
+
+CORE1-4 Crystal Clear
+
+ Designer(s): M. Sean Molley
+ Released: October 2008
+ Levels: 4 – 7
+
+CORE1-5 Touched by Darkness
+
+ Designer(s): Travis R. Woodall
+ Released: November 2008
+ Levels: 4 – 7
+
+CORE1-6 Incident at the Gorge of Gauros
+
+ Designer(s): Mike Barnes, Jeff Barnes
+ Released: January 2009
+ Levels: 7 – 10
+
+CORE1-7 Sovereign of the Mines
+
+ Designer(s): M. Sean Molley
+ Released: February 2009
+ Levels: 7 – 10
+
+CORE1-8 Taken
+
+ Designer(s): Pieter Sleijpen
+ Released: March 2009
+ Levels: 7 – 10
+
+CORE1-9 Ages Best Forgotten
+
+ Designer(s): Charles Peacock
+ Released: April 2009
+ Levels: 7 – 10
+
+CORE1-10 Dancing Shadows
+
+ Designer(s): Bruce Paris
+ Released: June 2009
+ Levels: 4 – 7
+
+CORE1-11 Drawing a Blank
+
+ Designer(s): Colleen Simpson
+ Released: September 2009
+ Levels: 11 – 14
+
+CORE1-12 Songs of the Heart
+
+ Designer(s): Renout van Rijn
+ Released: August 2009
+ Levels: 7 – 10
+
+CORE1-13 The Fate of Camp 15
+
+ Designer(s): Wade Jones
+ Released: August 2009
+ Levels: 1 – 4
+
+CORE1-14 What Storms May Come
+
+ Designer(s): Teos Abadia
+ Released: August 2009
+ Levels: 11 – 14
+
+CORE1-15 Where Dragons Die
+
+ Designer(s): John Rogers
+ Released: October 2009
+ Levels: 11 – 14
+
+CORE1-17 Finding Harmony
+
+ Designer(s): Dave Guerrieri
+ Released: December 2009
+ Levels: 4 – 7
+
+CORE2-1 Killing the Messenger
+
+ Designer(s): Nick Jones, Dave Kay
+ Released: February 2010
+ Levels: 11 – 14
+
+CORE2-2 Rising of the Dark
+
+ Designer(s): Pierre van Rooden, Vincent van der Plas
+ Released: February 2010
+ Levels: 11 – 14
+
+CORE2-3 High Infidelity
+
+ Designer(s): Dave Kay
+ Released: January 2010
+ Levels: 14 – 17
+
+CORE2-5 The Black Card
+
+ Designer(s): Theron Martin
+ Released: May 2010
+ Levels: 7 – 10
+
+CORE2-6 Ripples in the Stream of Souls
+
+ Designer(s): Christopher M. Sniezak, Mark Knapik
+ Released: October 2010
+ Levels: 14 – 17
+
+CORE2-7 Where Secrets Lie
+
+ Designer(s): Gary Affeldt
+ Released: April 2010
+ Levels: 4 – 7
+
+CORE2-8 Enemy of My Enemy
+
+ Designer(s): Dave Kay
+ Released: July 2010
+ Levels: 14 – 17
+
+Unreleased Adventures
+CORE1-16 Fragments of a Shattered Mind was not finished until after LFR lost official support; an unofficial version was released in 2012. The same applies to CORE2-4 Lost on the Golden Way which was released in 2011.
+
+---
+
+## Living Forgotten Realms/Quest
+
+The Quest adventures in the Living Forgotten Realms campaign were restricted to player characters that had accomplished a series of hidden goals in other adventures.
+
+Adventures
+QUES1-1 Black Cloaks and Bitter Rivalries
+
+ Designer(s): Eric E. Menge
+ Released: July 2009
+ Levels: 7 – 10
+
+QUES2-1 Stir Not the World's Doom
+
+ Designer(s): Rydia Q. Vielehr
+ Released: June 2010
+ Levels: 11 – 14
+
+---
+
+## Living Forgotten Realms/Weekend in the Realms
+
+The Weekend in the Realms adventures in the Living Forgotten Realms campaign were one-time special event affairs.
+
+Adventures
+WEEK1-1, WEEK1-2, WEEK1-3 Beneath Haunted Halls
+
+ Designer(s): Matthew Sernett
+ Released: October 2008
+ Levels: 1 – 4
+
+WEEK1-4 The Icy Queen's Crossing
+
+ Designer(s): Shawn Merwin
+ Released: November 2009
+ Levels: 1 – 4
+
+---
+
+## Living Forgotten Realms/Mini-Campaign
+
+The Mini-Campaign adventures in the Living Forgotten Realms campaign were connected modules intended to be played in sequential order. Two mini-campaigns were released: "Embers of Dawn" and "Return to Ravens Bluff".
+
+Embers of Dawn
+MINI1-1 Stirring the Embers
+
+ Designer(s): Gary Affeldt
+ Released: August 2009
+ Levels: 1 – 4
+
+MINI1-2 The Burning Scent of Perfumed Swords
+
+ Designer(s): Eric E. Menge
+ Released: September 2009
+ Levels: 1 – 4
+
+MINI1-3 Building the Pyre
+
+ Designer(s): Richard W. Brown
+ Released: October 2009
+ Levels: 1 – 4
+
+MINI1-4 Coaxing the Flame
+
+ Designer(s): Craig Campbell
+ Released: November 2009
+ Levels: 1 – 4
+
+MINI1-5 Pyrophobia
+
+ Designer(s): Rydia Q. Vielehr
+ Released: December 2009
+ Levels: 1 – 4
+
+MINI1-6 Quench the Fire of the Raging God
+
+ Designer(s): Greg Marks
+ Released: March 2010
+ Levels: 1 – 4
+
+Return to Ravens Bluff
+MINI2-1 A Mourning of Ravens
+
+ Designer(s): Keith Hoffman, Claire Hoffman
+ Released: August 2010
+ Levels: 1 – 4
+
+MINI2-2 Ravens under the Midday Sun
+
+ Designer(s): Gary Affeldt
+ Released: August 2010
+ Levels: 1 – 4
+
+MINI2-3 Raven Knights
+
+ Designer(s): Shawn Merwin
+ Released: August 2010
+ Levels: 1 – 4
+
+---
+
+## Living Forgotten Realms/Adventuring Company
+
+The Adventuring Company adventures in the Living Forgotten Realms campaign were intended for player characters in the same Adventuring Company, a sort of meta-organization within the LFR regional framework.
+
+Adventures
+ADCP1-1 Jungle Hunt
+
+ Designer(s): Paige Leitman, Dave Brainard
+ Released: September 2009
+ Levels: 1 – 14
+
+ADCP2-1 The Paladins' Plague
+
+ Designer(s): M. Sean Molley
+ Released: February 2010
+ Levels: 1 – 17
+
+ADCP2-2 Heart of the Desert: Race Against Time
+
+ Designer(s): Renout van Rijn, Pieter Sleijpen
+ Released: June 2010
+ Levels: 1 – 10
+
+ADCP2-2 Heart of the Desert: Clash of Titans
+
+ Designer(s): Shawn Merwin
+ Released: June 2010
+ Levels: 11 – 17
+
+---
+
+## Living Forgotten Realms/Special
+
+The Special adventures in the Living Forgotten Realms campaign were more challenging and lengthier offerings that yielded greater rewards.
+
+Adventures
+SPEC1-1 Shades of the Zhentarim
+
+ Designer(s): Shawn Merwin, M. Sean Molley
+ Released: January 2009
+ Levels: 1 – 4
+
+SPEC1-2 Zhent's Ancient Shadows
+
+ Designer(s): Shawn Merwin, M. Sean Molley
+ Released: July 2009
+ Levels: 7 – 10
+
+SPEC1-3 H1 Ghosts of the Past: Hive of Corruption
+
+ Designer(s): Ryan Cannon, Pierre van Rooden
+ Released: September 2009
+ Levels: 1 – 4
+
+SPEC1-3 H2 Ghosts of the Past: Windsong Tower
+
+ Designer(s): Brad Gardner
+ Released: September 2009
+ Levels: 4 – 7
+
+SPEC1-3 H3 Ghosts of the Past: Siren's Lure
+
+ Designer(s): Joe Fitzgerald
+ Released: September 2009
+ Levels: 7 – 10
+
+SPEC1-3 P1 Ghosts of the Past: Dark Portal
+
+ Designer(s): Dave Kayserman
+ Released: September 2009
+ Levels: 11 – 14
+
+SPEC2-1 H1 The Scourge of Scornubel
+
+ Designer(s): Alana Abbott
+ Released: February 2010
+ Levels: 1 – 4
+
+SPEC2-1 H2 Dogs of War
+
+ Designer(s): Keith Hoffman, Claire Hoffman
+ Released: February 2010
+ Levels: 4 – 7
+
+SPEC2-1 H3 The Morninglord's Laughter
+
+ Designer(s): Shawn Merwin
+ Released: February 2010
+ Levels: 7 – 10
+
+SPEC2-1 P1 Blinking Eye of Fire
+
+ Designer(s): Verne Woolf
+ Released: February 2010
+ Levels: 11 – 14
+
+SPEC2-1 P2 Scout's Honor
+
+ Designer(s): Teos Abadia
+ Released: February 2010
+ Levels: 14 – 17
+
+SPEC2-2 P1 Tyranny's Bleak Depths
+
+ Designer(s): M. Sean Molley
+ Released: August 2010
+ Levels: 11 – 14
+
+SPEC2-2 P2 Tyranny's Bitter Frost
+
+ Designer(s): M. Sean Molley
+ Released: August 2010
+ Levels: 14 – 17
+
+SPEC2-2 P3 Tyranny's Perilous Bastion
+
+ Designer(s): M. Sean Molley
+ Released: August 2010
+ Levels: 17 – 20
+
+---
+
+## Library of Ont the Wise
+
+The Library of Ont the Wise was a library in the T'u Lung city of Balanzia, around the, that was either owned by or named for an individual known as Ont the Wise.
+
+Location
+This library was located in the western portion of Balanzia, across from the Cotnui Park and Zoo.
+
+History
+Around, this library was one of many buildings that were left intact in Balanzia as the city fell at the hands of the Shou Lung invasion of T'u Lung.The Library of Ont the Wise is not explicitly stated in text to have not been destroyed in the incident that destroyed the city. However, on the "before-and-after" maps of Balanzia in Kara-Tur: The Eastern Realms the building is still present on the "after" version. Therefore, it can be inferred that it was likely not destroyed. Centuries later, around, the building that once housed the Library of Ont the Wise still stood within the abandoned city and was recorded as such on a map made of the city in that year.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Lilac (village)
+
+Lilac was the home of lacerials who resided in the jungles of the Malatran Plateau. The name was inspired by the lilac scent lacerials emitted when feeling longing for home.
+
+Description
+Lilac was a busy village, well-hidden by the jungle vegetation. The village population included all four species of lacerials: finheads, bladebacks, hornheads, and flyers, who lived along with a smaller population of yuan-ti. These snake folk considered lacerials their "cousins" and showed them and their peaceful way great respect. In general, Lilac's doors were closed to outsiders. However, the village was always ready to answer pleas for help from goodly creatures.
+
+Most structures of Lilac were simple huts of various sizes. Each of the species of lacerials preferred slightly different homes. Fliers liked to nest in open-sided homes elevated from  to  above ground. Fliers liked to build light shelters as they felt uncomfortable with heavy construction above their heads. Oftentimes their homes were in dire need of repair after every storm. Bladebacks and finheads resided in the most traditional huts, usually consisting of a single huge room with decorated walls. The biggest huts usually belonged to hornheads as they were the biggest of their kind. Their homes tended to have one wall missing and often had gated backyards around their abodes.
+
+Geography
+Lilac stood on the downriver shores of the River of Laughing Idols.
+
+Government
+Lilac was ruled by the council of the village elders.
+
+Trade
+Lacerials of Lilac faced a fair share of xenophobia from their neighboring community of Rudra. On the other side of the political spectrum were the yuan-ti of Malatra, with whom Lilac engaged in mutually beneficial trade. If aggression with Rudra reached the boiling point, yuan-ti were sure to aid lacerials. Along with the yuan-ti, Lilac traded with hyena katanga folk.
+
+Culture
+Every night, the entire population of Lilac participated in the ritual known as the Moment of Remembrance. Lacerials lowered themselves on one knee with hands over their hearts and prayed to the southern sky. This ritual filled the air of Lilac with scents of roses, lilacs, and ozone - these smells signified sadness, longing for home, and despair in Lacerial scent language. The Moment of Remembrance was the ritual of grieving for lacerials' lost homeworld.
+
+History
+The conflict with the village of Rudra that took place in the 14 century DR was caused by the lacerials of Lilac "tearing out" vanilla plants from the grove that held significance in the eyes of both towns of Lilac and Rudra. In reality, lacerials carefully and lovingly transplanted two dozens of vanilla plants. Lacerials were in decline and produced no eggs after their arrival to Malatra, and they were hoping to use vanilla plants as a part of a powerful fertility spell to stop their race from eventual extinction. As another way of resolving the stranding in the alien world, lacerials searched for a way to repair an oscray skyship - a spelljammer.
+
+Notable Inhabitants
+Fisster, the Third Servant of the Snake-Mother, a yuan-ti guadian of Lilac circa the 14 century DR.
+Quickwing, the flyer elder of Lilac.
+Starr, the bladeback warrior elder of Lilac.
+Strongarm, the Guardian of the Lacerial, a finhead who kept his town free circa the 14 century DR.
+Trueblood, the hornhead wizard elder of Lilac.
+Appendix
+Appearances
+
+References
+
+---
+
+## Lii Gompa
+
+Lii Gompa was a monastery (a gompa in the Tabotan language) of the Way of Enlightenment in Tabot. It was nicknamed the Left Hand of U'Chan.
+
+Geography
+It stood in central Tabot, at the southern edge of the Po Yul Dzayul Range. Its position north of the capital U'Chan Gompa gave it its title; it stood opposite Pokarr Gompa, the Right Hand of U'Chan.
+
+Relationships
+Lii Gompa was the primary rival to neighboring Pokarr Gompa. This might be why Pang, a monk of Pokarr, spoke little of it to Mei Lung when the Dragon visited Tabot circa .
+
+Inhabitants
+It housed over a thousand lamas and novices.
+
+Description
+Lii Gompa was known for its two large annual festivals and its many bells. A legend held that when a true oracle of Tabot died, every bell in Lii Gompa would spontaneously ring nine times to help their soul travel to the Celestial Heavens.
+
+History
+It was founded some time between  and, when fifteen groups of monks and temple guardians escaped persecution in Shou Lung and journeyed southwest in search of a holy land that would remain pure and lasting, ideal for isolated hermitages. One of these groups built the beginnings of Lii.
+
+Appendix
+References
+
+---
+
+## Living Forever
+
+Living Forever is a short story written by Ed Greenwood and published as the Prologue in the game manual for the Pool of Radiance: Ruins of Myth Drannor video game released by Ubisoft in September 27, 2001. Reprinted in the The Best of the Realms II in 2005.
+
+Synopsis
+The story followed Ondruu the Immortal, once a powerful elven war wizard, now a ghost within Myth Drannor's mythal. The ghostly wizard communed with a group of adventurers and took them on a quick tour along the environs of the City of Song. He introduced them to other beings that dwelled within the mythal as well as told them of the recent invaders: the Cult of the Dragon, led by Kya Mordrayn, and an army of drow elves. The adventurers eventually met a grizzly end at the hands of an angry ormyrr and a war band of drow as they attempted to flee the accursed ruined city.
+
+Index
+
+Characters
+ •  •  •  •  •  •
+
+ •  •  •  •  •
+
+Creatures
+ •  •  •  •
+
+ •  •  •  •
+
+Locations
+ •  •  •  •  •  •  •
+
+ •
+
+Organziations
+ •  •
+
+Magic
+ •  •  •  •  •
+
+ •
+
+Religion
+
+ •
+
+Other
+ •  •  •
+
+ •  •
+
+Appendix
+See Also
+Pool of Radiance: Ruins of Myth Drannor
+Pool of Radiance: Ruins of Myth Drannor (novel)
+References
+
+---
+
+## Living Forgotten Realms/Preview
+
+The Preview adventures in the Living Forgotten Realms campaign were intended to promote both LFR and 4 edition Dungeons & Dragons in general.
+
+Adventures
+PREV-1 Scalegloom Hall
+
+ Designer(s): Mike Mearls
+ Released: June 2008
+ Levels: 1
+
+PREV-2 Escape from Sembia
+
+ Designer(s): Chris Tulach
+ Released: June 2008
+ Levels: 1
+
+PREV-3 Death in the Skyfire Wastes
+
+ Designer(s): Mike Mearls
+ Released: June 2008
+ Levels: 3
+
+---
+
+## Lifewarden
+
+A lifewarden was a specialty priest of the Church of Chauntea who was focused more on the welfare of humans, demihumans, and humanoids.
+
+Activities
+These individuals did everything in their power to heal others and preserve life, regardless of the race or demeanor of the victim. Any being who had not recently attacked the lifewarden or any members of their group, or had not caused harm witnessed by the lifewarden, would be granted healing.
+
+Culture
+Given that their skills involved helping others, lifewardens were usually found in inhabited areas such as cities and town.
+
+Abilities
+Lifewardens were skilled in healing others, the brewing of potions, and concocting antidotes for poisons and venom. The were usually able to correctly identify diseases and poison, allowing them to brew the correct countermeasure provided they had access to the necessary ingredients.
+
+The cost of brewing any form of magical healing potion was halved for a lifewarden. Any healing spell cast by a lifewarden always produced maximum healing power in the target.
+
+Spells from the combat sphere were not accessible to a lifewarden. At least half of a lifewarden's spell repetoire came from the healing sphere or necromantic sphere.
+
+Possessions
+Lifewardens chose to wear simple outfits with muted colors. A green sash wrapped around their left arm, or a circlet embedded with a small green emerald in the case of high-ranking lifewardens, was their badge of office. They could only wear leather armor or padded armor and could not use shields. During combat they wielded either a staff or club.
+
+Appendix
+References
+
+---
+
+## Littlefang
+
+Littlefang was an enchanted short sword that fed on blood and restored the owner's vitality.
+
+Description
+Littlefang appeared to have a metallic sheen, but the heft of the blade was carved out of an unknown beast's tooth. The sword was sheathed in a metal hilt, and its blade had fine holes. When wielded in battle, the blade emitted visible dark energy and made its greedy bloodthirsty essence felt.
+
+Powers
+The blade's fine holes soaked up all blood that touched Littlefang. The weapon used the consumed blood to heal its wielder, similarly to the effects of vampiric regeneration. Littlefang itself was enhanced with a +2 enchantment and had a chance of dealing devastating damage with a lucky strike.
+
+History
+By the, Littlefang found home in the treasure hoard of two black dragons of the Mere of Dead Men – Voaraghamanthar and Waervaerendor who became obsessed with Harbor Mead and attempted to take over its production in the hamlet of West Harbor.
+
+Appendix
+Appearances
+Video Games
+''Neverwinter Nights 2: Storm of Zehir
+
+References
+
+---
+
+## Lightning rat
+
+Lightning rats were a rural breed of dire rat found in the Delimbiyr Crescent in northwest Faerûn.
+
+Description
+Like a regular dire rat, it resembled nothing less than an enormous rat, with full-grown specimens weighing over  and up to  in length. They had spiky fur and long hairless tails, with sharp incisors, and appeared vicious with evil eyes. However, they were somewhat longer and leaner than typical dire rats, as well as faster, and might be mistaken for large otters from a distance.
+
+Abilities
+They had a unique sonic bite, which made their bites slightly more injurious. They could even make sonic barks, much like dogs; these sounded surprisingly loud and sharp.
+
+Like dire rats, they were very good at climbing and swimming.
+
+Behavior
+Lightning rats were omnivorous scavengers, but as they hunted in cleaner, natural environments, they tended to be healthier than their dire rat kin and lacked their diseased bite. They would also attack to protect their nests and territories.
+
+They lived in nests of three to twelve specimens and in packs of up to twenty.
+
+Combat
+They favored hit-and-run tactics, especially in packs, usually by running in and out of their burrows and biting their prey.
+
+Ecology
+Unique to the countryside of the Grayvale and Delimbiyr Crescent in the Savage Frontier, lightning rats could be found living in burrows along riverbanks. They were recognizable to local people, but unfamiliar to those of other lands.
+
+Usage
+It was not unknown for goblins to breed and train lightning rats to serve as guardians of their outposts and homes, a lot like others used dogs. Their sonic barks were effective in alerting their keepers to trouble.
+
+History
+Hekkut and his goblin bandits kept five lightning rats to guard their hidden base. The creatures lived in burrows and small caves by the river, on either side of the main entrance.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Extermination
+
+References
+
+---
+
+## Lightfingers
+
+The Lightfingers was the only thieves' guild of note in the city of Yhep along the Lake of Steam during the mid-to-late 14 century DR.
+
+Activities
+The familial members of the Lightfingers preferred to rob the homes of wealthy citizens of Yhep when they weren't home. They rarely accosted victims directly on the street like petty criminals.
+
+History
+The roots of the Lightfingers began with a feud between the Dabichi and Harauntan families of Yhep during the late 13 century DR. A member of the Harauntan's cheated a Dabichi out of their inheritence, leaving the family on hard times and eventually costing them their status as nobles. The Dabichis swore vengeance after that act and turned to stealing what they needed to make ends meet.
+
+Appendix
+References
+
+---
+
+## Library of the Binder
+
+The Library of the Binder was an Oghmanyte temple in the city-state of Saelmur.
+
+History
+In the, an order of Banite crusaders known as the Knights of the Black Gauntlet conquered and occupied the neighboring city-state of Mintar. Many Oghmanytes fled from Mintar in its fall, escaping to the Library of the Binder in Saelmur. There they donated to the temple's library whatever books and scrolls of faith, knowledge, or music that they had managed to carry with them.
+
+By the  the Library of the Binder's clergy were frequently pressuring their high priest, Presman Taliemin, to rally aid to the Oghmanytes who were operating a resistance movement in Mintar against the Knights of the Black Gauntlet.
+
+Appendix
+References
+
+---
+
+## Livewood
+
+Livewood was a rare variety of magical tree that was found on the world of Eberron.
+
+Description
+These trees were quite hardy and had a green coloration to their bark. Most notably, felling a livewood tree would not "kill" it, just stop it from growing any further.
+
+History
+In the late 15 century DR, adventurers in the Icewind Dale area occasionally came across bowls full of sap from a livewood tree. They proceeded to use this sap to create maple rot draught, a special alchemical concoction, at the request of Groundskeeper Seble.The lack of information provided in Neverwinter: Storm King's Thunder on the crafting material "livewood sap" makes it unclear if it was meant by the developers to be a reference to the Eberron tree of the same name or just a generic term. This article leans towards the former, but it is mere speculation.
+
+Appendix
+Notes
+
+Appearances
+Video Games
+
+External Links
+
 References
 
 ---
@@ -4413,6 +11419,960 @@ References
 
 ---
 
+## Lionshield Coster (Phandalin)
+
+The Lionshield Coster in Phandalin was a trading post that served the town in the late 15 century DR.
+
+Structure
+It was a modest building. Above the front door was a weathered wooden sign in the shape of a shield on which was painted a blue lion.
+
+Interior
+Armor and weapons were stored in a back room to keep them out of the hands of any who might wish harm upon the town of Phandalin.
+
+Services
+The store served as an outpost and delivery point for caravans run by the Lionshield Coster, and specialized mostly in providing the people of Phandalin with finished goods, horses, armor, weapons, and other adventuring equipment. It was perhaps the only place in town where adventurers could sell valuable treasures for reasonable prices, although the rates were much lower than in Neverwinter.
+
+History
+In the, deliveries to the Phandalin Lionshield Coster were frequently attacked by bandits, including the Cragmaw tribe. At least one caravan from Yartar was completely lost, with all of its goods being taken to the Cragmaw Hideout.
+
+As of the, the trading post had greatly expanded its inventory and was in direct competition with the Phandalin Miner's Exchange.
+
+Inhabitants
+The master of the trading post was Linene Graywind, who was assisted by her daughter, Minghee Graywind. They did not live on-site, but in a home just west of the trading post.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Little Gate
+
+The Little Gate was the most southern entrance into the city of Dhaztanar in Semphar during the mid-to-late 14 century DR.
+
+Location
+The Little Gate was located in the far southeastern section of the Furdah Rustauk District in southern Dhaztanar on the Street of the Murghôm Merchants. Aside from the harbor on Gbor Nor, it provided one of only two entry points through the walls of this district from outside of Dhaztanar.
+
+Appendix
+References
+
+---
+
+## Liontongue (village)
+
+Liontongue was a hamlet founded by Nerren Prentiyuel during his tenure as the Magister, in . It was depopulated in .
+
+History
+Nerren Prentiyuel founded Liontongue because he hated traveling but still intended to discharge the duties of the Magister; it was a hamlet of his students when he first created it. It eventually became a village; however, after his death in, his students became emboldened by the spells they had learned and slew each other in spell duels; the survivors split between those who fled and those who were slain by brigands. Little but founding stones remained thirty years later, in .
+
+Appendix
+References
+
+---
+
+## Lise
+
+Lise was a serving girl inhabiting the city of Zhentil Keep during the mid–14 century DR.
+
+Activities
+Lise worked in the House of Comfort, an inn located near the center of Zhentil Keep's Foreign Quarter on the south bank of the River Tesh. She had to be on the lookout for over-eager customers reaching out to grab her, but the innkeep, Maradad, was usually there to slap their hands away.
+
+Appendix
+References
+
+---
+
+## Lita's Equipment
+
+Lita's Equipment was a general goods store located in the city of Zhentil Keep during the late 14 century DR.
+
+Location
+The store was located in south Zhentil Keep in the western section of the Foreign Quarter on Teshwave Street near the South Force Gate.
+
+Activities
+A wide variety of equipment and goods could be purchased at Lita's Equipment. In fact, aside from food, arms, and armor, anything that was carried by Aurora's Emporium was found here as well.
+
+Inhabitants
+Lita's Equipment was owned by a young elf named Lita in the . She lived in a small apartment attached to the rear of the store.
+
+Appendix
+References
+
+---
+
+## Lita
+
+Lita was an elf shopkeeper inhabiting the city of Zhentil Keep during the late–14 century DR.
+
+Activities
+Lita owned Lita's Equipment, a general goods shop located in the Foreign Quarter on Teshwave Street.
+
+History
+She claimed to have been an adventurer, but her company was killed so she decided to settle in Zhentil Keep where she used the money from selling her friends' equipment to open her shop.
+
+Possessions
+Lita wore an amulet of proof against detection and location.
+
+Rumors & Legends
+Lita was actually a werefox who killed her own adventuring company.
+
+Appendix
+References
+
+---
+
+## Lion Street (Castle Ward)
+
+Lion Street, which was also called Sea Lion Street, was a small road located in the city of Waterdeep.
+
+Location
+Lion Street was found in southern Waterdeep within the Castle Ward. It passed north and northwest, branching from Dock Street in the south and ending at Tarnished Silver Alley to the north near the southern base of Mount Waterdeep.
+
+Appendix
+References
+
+---
+
+## Lisyil Sweetwhisper
+
+Lisyil Sweetwhisper was a moon elf herald of the city of Loudwater in the Delimbiyr Vale in the mid-to-late 14 century DR.
+
+Activities
+She was the representative of High Lord Kalahar Twohands around 1372 DR, often summoning people to an audience at High Lord's Hall and announcing formal introductions and accomplishments there, delivering orders and liaising with personnel, and delivering important news.
+
+She could be escorted by five members of the Loudwater Guard.
+
+Personality
+As her name hinted, Herald Sweetwhisper was well known for her melodic and mellifluous clear voice. She was also highly skilled in diplomacy.
+
+Description
+Lisyil was graceful and possessed a fey-like beauty.
+
+Relations
+Lisyil was a cousin of Teseryne Truesilver, a half-elf bard who lived outside Loudwater.
+
+Appendix
+Notes
+
+Appearances
+Organized Play & Licensed Adventures
+Humility
+
+References
+
+---
+
+## Lion Street
+
+Lion Street was a small road that was located in the city of Waterdeep.
+
+Location
+Lion Street was located in the northeastern section of Waterdeep's North Ward. The road connected the southern end of Horn Street with Saerdoun Street.
+
+Notable Locations
+The Raging Lion inn was located on the southern side of Lion Street. A tavern called A Maiden's Tears sat on a small unnamed alley that branched off the southern side of Lion Street.
+
+Appendix
+References
+
+---
+
+## Lirith
+
+Lirith was a dragonborn elder, leader of the  Inquest, and one of four overseers of the Abeiran city of Xorvintroth. Lirith and their colleagues enjoyed an afterlife; their consciousnesses were preserved as spectral echoes in the Astral Plane, despite the deaths of their dragonborn bodies.
+
+Description
+Like other Inquest leaders, Lirith wore a set of robes decorated astronomical symbols and imagery of the arcane embroidery. They also each wore a metallic necklace that featured a large medallion depicting a crown of viridian crystals.
+
+While in the Astral Plane, Lirith and the other Inquest elders appeared to wear these very crowns, which allowed them to avoid detection by roaming astral dreadnoughts.
+
+History
+Along with the other Inquest elders, Lirith's consciousness was transferred to a brain in a jar after their death. While researching the Far Realm, their astral forms became trapped in the Astral Plane itself. After that point, they arranged for their dead bodies and still-living brains to be transported elsewhere in Xorvintroth.
+
+At some point the being known as the Emissary of the Nine Eyes granted them a vision of a 'viridian planet' that would serve as an ideal new world for the dragonborn people. This planet would allow them to create new lives for themselves, free from constant strife and warfare. The Inquest immediately set to work on constructing the bridge of stars, a means by which they could travel from Abeir to this new world. Unfortunately, their work would never be completed.
+
+After an unknown amount of time, circa the, the living brains of Lirith, Ukthet and Krektesh were discovered within the ruins of Xorvintroth. They were all quite shaken after encountering the people that awoke them, uncertain of their surroundings and concerned about their fellow Graoul.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Plague of Ancients (Volatile Thoughts) • Dreams of the Red Wizards (Expedition to the Supreme Forge)
+References
+
+---
+
+## Little Street
+
+Little Street was, as the name implied, a small road that was located in the city of Waterdeep.
+
+Location
+Little Street was located in the southern section of Waterdeep's North Ward. It ran north to south, originating on the Street of the Manticore where it branched due south to end on Shattercrock Alley.
+
+Appendix
+References
+
+---
+
+## Librarian
+
+The Librarian was a consciousness that inhabited an enormous statue in the gem-encrusted Hall of Living Memory in Myth Nantar.
+
+Description
+The Librarian manifested as a statue of three elves performing daily tasks: reading, praying, and writing upon a scroll. It was situated in a domed chamber, the walls of which were lined with kiira. As the Librarian spoke to visitors, the eyes of the three elves in the statue shone and triggered similar flickering in the surrounding kiira.
+
+It was in fact the transmuted remains of three ancient elven sages that lived during the time of ancient Aryselmalyr.
+
+Personality
+The Librarian was rather cryptic in its interactions with others. It could only be spoken to when in the presence of people of elven lineage.
+
+Abilities
+If any entity touched the Librarian's surface, it would take from them their memories, likely causing some form of feeblemindedness. When this occurred, one of the Librarian's three faces would grow a new kiira upon its forehead and release it into the surrounding chamber.
+
+Activities
+The Library served as a repository of ancient elven knowledge. While it sometimes revealed secrets to those that sought audience, this was often a rather perplexing affair.
+
+History
+Some time during or around the, Red Wizards from the land of Thay sought out the Librarian in its home city. They were followed by Zehira Deryan and her fellow adventurers.
+
+Zehira and her companions were able to hold audience with the Librarian, and their ally Thessalia.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Dreams of the Red Wizards (Blood in the Water)
+
+Breaking Umberlee's Resolve • Saving Silverbeard • Foreign Affairs
+References
+
+---
+
+## Lichen lich
+
+A lichen lich was an undead being formed from the remains of powerful, once-living druids.
+
+Description
+These liches appeared much like their wizardly counterparts, with a few distinct differences. Their skeletal forms appeared overgrown with fungi, lichen, and other organic growths that resembled tree bark. Rather than any vasculature, the remains of these liches housed winding vines that pumped out some unknown, black viscosity.
+
+Abilities
+Like other liches, lichen liches were adept spellcasters. They had access to a variety of spells, including the devastating ability to call down fire storms upon their foes.
+
+Within their personal lair, they could conjure clouds of poisonous spores, instantly grow masses of rotting vines and tree roots, or summon forth shambling mounds.
+
+They were essentially immortal, so long as their phylactery remained intact and preserved. If a lichen lich were ever destroyed, its remains would reform near its phylactery within a manner of days.
+
+Combat
+Lichen liches possessed several inherent resistances and immunities. They were protected from extreme cold and chill, resisted forms of harmful necrotic energy, and were wholly unaffected by poison. Like other undead they never succumbed to exhaustion and could not be frightened away. In addition they could not be paralyzed, stunned into inaction, or charmed by magical or mundane means.
+
+Their mere touch was quite poisonous and they could wither away any organic material from up to  away. A few times each day, lichen liches could poison other creatures by mere sight, or syphon away their life force. This latter power would restore any damage inflicted upon their undead forms.
+
+Notable Lichen Liches
+ Xanthoria, the once-noble druid that created the saphrophytic plague that afflicted the Sword Coast in the 1492 DR.
+Appendix
+Appearances
+
+References
+
+---
+
+## Lion's Crossing
+
+Lion's Crossing was a town located at least a day's travel away from the city of Ravens Bluff in the Dragon Reach region and just  south of Fort DeVillars.
+
+History
+In the late 14 century DR, a quartet of bards traveled to the town of Lion's Crossing for a festival. Bards Frenchy, Absolute, Scar, and Morton came across a strange sight: a collection of young heroes from the far-away land of the Malatran Plateau, speaking through magic in a strange way, dressed in curious adventuring garb, and including some uncanny creatures such as saru, tam'hi, and katanga. The meeting proceeded with no incidents, and after a bit of trading, both groups continued on, the bards to Lion's Crossing and the Malatran heroes to find an obsidian artifact.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+
+Legacy of the Headshrinker
+References
+
+---
+
+## Living ward
+
+Living ward was a spell commonly used by evil clerics on the Domains of Dread.
+
+Effects
+This spell was the reverse of undead ward. When cast, this spell created a zone in which a living individual was unable to enter. The zone was cube-shaped, with a minimum length of  per side, which increased with the caster's skill level. Animals and monsters were able to pass through the zone with no issue. If a living individual was within the area of effect when the spell was cast, they were unaffected. However, if they left the area of effect, they were unable to return within. The spell was often used by undead sentient creatures.
+
+Components
+This spell required verbal and somatic components.
+
+Appendix
+References
+
+---
+
+## Life drain
+
+Life drain was a divine necromancy spell from the necromantic sphere that allowed the caster to strengthen a target's life force at the expense of another creature.
+
+Effects
+The amount of vitality drained with this spell depended on the skill of the caster and could be used by themselves or another target. Life drain did not function upon undead in any manner.
+
+Components
+This spell required only verbal components to cast.
+
+Appendix
+References
+
+---
+
+## Lionwinter
+
+Lionwinter was one of the Palace families who served the Crown of Cormyr in the 15 century DR.
+
+History
+In of the, Relvarra Lionwinter of the Palace Lionwinters, accepted the position of the Gardener Royal. The position was created when King Azoun Obarskyr IV ascended to the Dragon Throne and Relvarra took office after her predecessor's – Gordroun Palonder's death.
+
+By the late 15 century DR, Lionwinters were career officiers for multiple generations. Like other officers and chamberlains, the Lionwinter family resided at Cormyr's Royal Court south of Castle Obarskyr.
+
+Appendix
+References
+
+---
+
+## Lizard limbs
+
+Lizard limbs was a spell used by divine spellcasters of the Malatran Plateau who did not worship gods. Instead, their magics were granted by the spirits.
+
+Effects
+When the spell took effect, the caster gained the ability to shed one or two limbs without suffering any harm. It allowed the caster to escape being trapped or pinned down with only minor consequences as the torn limbs grew back. The limbs began growing back one hour after the shedding, and it took a full 24 hours for it to complete. The spell affected arms, legs, tails, and wings.
+
+Components
+Lizard limbs only required a verbal component to be cast.
+
+Appendix
+References
+
+---
+
+## Lightfinger Tempest
+
+The Lightfinger Tempest was a notably large and powerful water weird that served as a protector of the Lightfinger Estate in the late 15 century DR.
+
+History
+The Tempest was one of many water weirds bound in servitude to the Lightfinger family of Waterdeep. In particular, it served as a guardian of one of the early courtyards in the Estate.
+
+When the Estate became overrun by devils in the late 15 century DR, the Tempest attacked a group of adventurers sent to investigate the disturbance by Open Lord Laeral Silverhand. These adventurers defeated the weird, releasing it from its servitude and allowing its waters to drain away.
+
+Appendix
+Appearances
+Video Games
+Warriors of Waterdeep
+
+References
+
+---
+
+## Lightfinger (family)
+
+The Lightfingers were a wealthy and aristocratic family based in Waterdeep during the 15 century DR.The family is described as being "aristocratic" and the patriarchs are called "lord", but it is never stated that the family became members of the nobility of Waterdeep. The members of the family died out or disappeared during the tenure of Waterdeep's Open Lord Laeral Silverhand when their dealings with devils tore them apart.
+
+Activities
+The family actively sought to collect and flaunt its wealth, from collecting artwork from all over Faerûn to building a massively opulent mansion for themselves. They were also said to enjoy playing pranks, and perhaps as a result, some members had a reputation for being negligent in their duties to the city of Waterdeep. Lastly, they were also known to have many secrets, among which was their contact and dealings with devils.
+
+Base of Operations
+As of the late 15 century DR, the family lived in an opulent mansion within their sprawling Lightfinger Estate in Waterdeep's Sea Ward. This entire estate was almost maze-like, with plenty of hiding places or locations for secrets to be locked away.
+
+The city had assigned to the Lightfingers the duty of keeping the peace within their compound and the nearby Sea Ward, which they did with the help of their guards as well as protective water weirds (including the formidable Lightfinger Tempest) and shield guardians.
+
+Relationships
+The family was known to have many enemies. Their wealth had come from the spoils of adventuring, and the fact that they were a newly-wealthy family attracted the ire of many members of the established nobility of Waterdeep—notably the Cassalanters—who mocked them, gave them nicknames, and even launched covert attacks on them. The Cassalanters in particular were thought to have sent devils to attack the family, perhaps prompting them to make their own infernal deals. However, more dangerous than spiteful nobles were the powerful enemies that the Lightfinger's founder had made before establishing the family, notably Jurrgal, a rakshasa.
+
+As of the late 15 century DR, the family was bound by an "eternal" infernal contract to a pit fiend from Avernus known as Kurgaloth. In exchange for wealth, power, and protection, the Lightfingers pledged to help destroy Waterdeep through a myriad of small but cumulative betrayals.
+
+History
+The family was founded by Donovan Lightfinger, a rogue who amassed great wealth—and many enemies—over the course of a respectable adventuring career. He, like his ancestors, had a reputation for starting but not always ending fights all across Faerûn.
+
+Over time, the family began behaving less like retired adventurers and more like aristocrats, drawing the ire of the city's nobility—especially those who were also based in the Sea Ward. This led first to mocking names, then to rivalries, and finally to covert hostilities between the Lightfingers and other families. While these fights never became public knowledge, over a generation they escalated to include attacks on the Lightfingers by fiends and slithering trackers.
+
+At some point, perhaps driven to protect themselves from predations by the established noble families or perhaps just because Donovan's adventuring spoils were finally running out, the Lightfingers began making deals with devils. This included an "eternal contract" with Kurgaloth, to whom the family pledged to support nearby threats to Waterdeep in hopes of destabilizing the city. This included distracting the city from attacks by the Burntbone Horde out of Sharpstone Keep, the machinations of Mrolgyet's Legion in Frostsilver Mines, the rise of Qholillaroon in the Heartcoil Deeps, and the expansion of Forestfall Fen by the power of Vorazidrar. These deals were detailed on maps and written in fiery ink, and were then concealed among the family's ledgers. The Lightfingers soon gained a reputation for secrets, rightly knowing that if any proof greater than rumors got out about their dealings, it could lead to the loss of their prestige or worse.
+
+By the late 15 century DR, the Lightfinger family finished a new and sprawling estate in the Sea Ward where they lived with their servants, although at some point, these servants were all replaced by doppelgangers. Around this time, the current head of the family, Lord Terrathy Lightfinger, tried to back out of the family's deal with Kurgaloth, angering the pit fiend. At the same time, Donovan's old enemy, a rakshasa named Jurrgal whom the rogue had defeated in a duel, appeared and attempted to capture Lord Terrathy with a plan to impersonate him and destroy the family from within as revenge. While Terrathy managed to escape, Jurrgal proceeded with his plan to claim his identity.
+
+Not long after, Jurrgal—who was unaware of the family's contract with Kurgaloth—was confronted by the pit fiend’s minions. They were unable to resolve their different agendas regarding the Lightfingers—with Kurgaloth wanting them as servants and Jurrgal wanting them dead—so violence soon erupted in the Lightfinger Estate. This drew the attention of Open Lord Laeral Silverhand, who sent adventurers to investigate. They ultimately defeated Jurrgal, banished Kurgaloth back to Avernus, and learned the extent of the Lightfinger family's betrayal. By this time, the plots that the Lightfingers had helped to conceal in Sharpstone Keep, Frostsilver Mines, and Heartcoil Deeps had already been discovered and thwarted by Lady Silverhand and her agents, but it was from Lord Terrathy's journal that they learned of the ongoing crisis in Forestfall Fen.
+
+In the aftermath of the conflict and with Lord Terrathy still missing, it was declared that the Lightfingers had forfeited their grand estate.
+
+Members
+ Donovan Lightfinger, the family's founder who was a wealthy adventurer.
+ Terrathy Lightfinger, the family's last patriarch who tried to renege on the family's dealings with devils.
+
+Appendix
+Notes
+
+Appearances
+Video Games
+Warriors of Waterdeep
+References
+
+---
+
+## Lightfinger Estate
+
+The Lightfinger Estate was a sprawling complex belonging to the Lightfinger family of Waterdeep in the late 15 century DR. At its heart was the massive and luxurious Lightfinger Mansion.
+
+Description
+The Estate was a large and open space within the Sea Ward, with its own twisting streets and open courtyards adorned with fountains. The massive complex housed the Lightfinger family's servants and their families, while the Lightfingers themselves lived itself their opulently decorated and maze-like mansion at the center of the Estate.
+
+The opulent and exquisite architecture of the Estate—along with an extensive art collection from all across Faerûn—was meant to showcase the family's immense wealth, and in particular, to flaunt it as a warning to any who might think to challenge their influence. Even the family's books and documents were said to be ornate.
+
+Defenses
+The many open courtyards of the Estate were designed to be easy to defend, not only by Lightfinger guards but by a small army of shield guardians. In addition, fountains around the Estate concealed water weirds who also served to defend the area, with one particularly notable weird known as the Lightfinger Tempest.
+
+The mansion at the heart of the Estate contained many secret rooms and passages, and was protected against prying eyes from both the Material and Outer Planes.
+
+History
+The Estate was constructed using the considerable wealth acquired by Donovan Lightfinger during his career as a rogue, and it was still considered a recent addition to the Sea Ward in the late 15 century DR when Lord Terrathy Lightfinger incurred the wrath of both the rakshasa Jurrgal and the pit fiend Kurgaloth, one of whom wanted to destroy the family and the other of whom wanted to force them to follow an infernal contract.
+
+This soon led to the Estate being overrun by a wide array of dangerous monsters. The human guards were quickly driven into hiding, and the protective shield guardians were deactivated. Soon the chaos in the area led to the rise of rumors that Lord Terrathy Lightfinger was being derelict in his duty to keep the estate and surrounding Ward safe. Thus, Open Lord Laeral Silverhand to send a group of loyal adventurers to investigate the disturbance and protect the Sea Ward. This same disturbance drew the attention of Qholillaroon, an ulitharid who sent cranium rats to spy on the events at the Estate.
+
+Once it became clear to the adventurers that the Lightfinger guards were missing, they reactivated the Estate's shield guardians, only to then have to contend with the fact that the guardians also considered them to be intruders on the Estate. The adventurers soon discovered that all of the Estate staff and servants had been replaced by doppelgangers, and that strangely, there was less fighting and conflict closer to the mansion than on the outskirts. Upon arriving at the mansion, the adventurers encountered devils, including the barbed devil Garvlin, the cambion Morothec, and the erinyes Tacherani. They ultimately learned of the many betrayals against Waterdeep committed by the Lightfinger family before driving off Jurrgal and banishing Kurgaloth back to Avernus.
+
+As there were no signs of the family after the conflict, and given their many betrayals of Waterdeep, it was declared that any Lightfinger claim to their Estate would be forfeit.
+
+Inhabitants
+The Estate was home to the Lightfinger family, their guards and guardians, and their servants. However, by the late 15 century DR, all of the servants had been replaced by doppelgangers.
+
+Appendix
+Appearances
+Video Games
+Warriors of Waterdeep
+References
+
+---
+
+## Ligela
+
+Ligela was a fickle and vain earth spirit who dwelt on the Malatran Plateau in Kara-Tur and was a patron of a small saru village in the late 14 century DR.
+
+Description
+Ligela took on a form of an earth woman or an earth child. She walked about the saru unseen, and where she stepped, death followed.
+
+History
+In the late 14 century DR, the Year of Discovery on the Malatran Calendar, Ligela became angered with a saru village after a saru child broke tabu by falling on a patch of sacred flowers. She could not tolerate such disrespect and started reclaiming nourishment she gifted them through land, jungle, and beast.
+
+Spirits showed a vision of the wasting curse to Bengoukee, the shaman of Tribe of Big Chief Bagoomba, telling him that only a certain group of the heroes of the Living Jungle would be allowed to aid the saru.
+
+When the adventurers reached the village, they were greeted with the sight and scent of death. The homes were turned to tombs, and surviving saru were wasting away, consumed by painful convulsions, including Brunga, the child responsible for the spirit's rage. They learned that the saru were cursed a month prior. First, Ligela deprived the saru of food. Then she rotted any fruit gathered and stored in the village. Saru grew weaker and started perishing, unable to eat or drink. No healing magics was effective in removing the affliction.
+
+The saru shaman Magilla used the last of his waning strength to build a special totem to appease the spirit's rage. And the heroes of the Living Jungle were tasked with aiding him. They were sent to retrieve special green river stones and giant bee wax. Subsequently, they succeeded, and Magilla performed the sanctification and appeasement, removing the curse. Despite their best, Ligela's wrath took the lives of the majority of the saru. Survivors left the dead village behind to join another saru community.
+
+Appendix
+Appearances
+Licensed Adventures & Organized Play
+Once Broken
+
+References
+
+---
+
+## Lifequench
+
+Lifequench was a perilous spell that augmented another at the expense of a victim's life.
+
+Effects
+The spell first quenched a target's life, snuffing them out instantly, and then augmented a spell still in the caster's mind to double their normal power, increasing area, damage, and duration. It could be thwarted if the target survived.
+
+Components
+The first somatic component for the spell was grabbing the target; the spell also had a verbal component.
+
+History
+In Cormanthyr, as of, the spell was meant only for use in protection of the Coronal; nonetheless, Llombaerth Starym taught it to Elminster and tricked him into casting it to slay Nacacia, another of Llombaerth's apprentices, to augment an antimagic effect atop a hut. Through the scheme, he framed Elminster for Mythanthar's death.
+
+Appendix
+Appearances
+Novels
+Elminster in Myth Drannor
+References
+
+---
+
+## Light shield of defiance
+
+Light shields of defiance were enchanted shields that offered limited protection to the wearer, popularized in the 15 century DR.
+
+Powers
+Light shields of defiance magically improved the wielder's defenses as well as protections against mundane and magical effects. Additionally, these shields granted their masters regeneration when they suffered significant harm. These shields could only be used by clerics and fighters.
+
+History
+In the 15 century DR, various shields of defiance could be found among bandits and heroes of the Sword Mountains, areas surrounding and markets of the city of Neverwinter.
+
+Appendix
+Appearances
+Video Games
+Dungeons & Dragons: Heroes of Neverwinter
+
+References
+
+---
+
+## Living Seat
+
+The Living Seat was one of the thrones of the Coronal of Cormanthyr. It was situated on the Isle of Estel.
+
+Powers
+The Living Seat had a number of powers, which could be called upon by the mantle of the Coronal when they were close by, owing to unique enchantments. Such powers included the ability to bar any liquid or vapor, from rain to a green dragon's breath, from anywhere within a small area centered on the throne or mantle, and a few evocation spells such as flame strike.
+
+History
+In the, the Living Seat was in Coronal Eltargrim Irithyl's chambers instead of the isle of Estel.
+
+Appendix
+Appearances
+Novels
+Elminster in Myth Drannor
+
+References
+
+---
+
+## List of plays (in-universe)
+
+This is a list of plays, operas, and stage performances known to exist in the Realms, with dates (in Dalereckoning) and authors, if known. Some of these works could be found in the libraries at Candlekeep, Herald's Hall, the Vault of the Sages, and other repositories.
+
+TitleGenreDate WrittenLocationAuthorA Pleasurable Deal?Before 1492 DRBaldur's Gate, Western HeartlandsKingsley HarpA Throne O'erthrown?1403 DR?Mandarjack the MinstrelAnd So They Met the GargoyleGrand playLate 14 century DRAthkatla, AmnZargharAnother Dart in the Minstrel's Heart??Ravens Bluff, the Vast?Before the Black Days?1398 DR?Auhntryn Valavvur of AthkatlaBlack Blades of the Barons?1409 DR?Tarla Semmurt, Bard of YhaunnBurying Three Kings?1391 DR?Aumraerus FethurmyrCyric the Duck SunComedy1368 DRZhentil Keep, Moonsea?Darantha's Dance with Death?1384 DR?Lalaya Nabra, Bard of NythDarth Thorn Horn?1375 DR?Mydantha "Ladyminstrel" MarlestDaunthan Laid Waste?1404 DR?Dunsul Blaklam, "the Black Bard"Divinity Plays ?Before 1374 DRMulhorand?Hearts and Daggers for Them??Athkatla, AmnSperrusHow Ralindarria Fell?1447 DR?Ohndravvas Duskingstone, Bard High of DarromarMir Undefended?1360 DRMintar, Land of the LionsMrendra HalagoastNeverwinter NightsEpic poemBefore mid-14 century DRFarr Windward, Sea of SwordsPomplo the ElderNine Lords Errant?1380 DRAthkatla, AmnNarelra ManecandleOne Crown Cheaply Bought?1357 DRMelvaunt, MoonseaDarra OalthloneOrder of the Open-Eyed Owl?Before mid-13 century DRLuruar, Savage Frontier?Porklet?Before 1492 DRBaldur's Gate, Western HeartlandsArchibald RavenshadeShards and Swords?Before 163 DR?AnonymousSnow in Neverwinter?1345 DRSilverymoon, LuruarRulvaerlon DethmureonStorm-Tossed Seafarings?1392 DRMarsember, CormyrJostrin ZavalandurTerrible Tale of Talvadar the MerchantFarce?Athkatla, Amn?The Bright Throne Shattered?1382 DRAthkatla, AmnBaerlus MerlondThe Fall of Myth DrannorOperaBefore 1368 DR??The Fall of TiamatOpera1492 DRWaterdeep, Sword Coast North?The Fitting End of the Human King Halthor?Before 240 DRMyth Drannor, Cormanthor?The Folly and the FallTragedyBefore 1492 DR Elturel, Western HeartlandsCagon FeggThe Gilded UnicornGrand playLate 14 century DRZazesspur, TethyrRaulivan TorthtraThe Haunted BedpanComedy???The Lay of AhghaironComedyBefore the late 15 century DRWaterdeep, Sword Coast North?The Night the Gods Cursed?1382 DR?Rustarn HorhalloranThe Princess Denied?1403 DR?Aldaerlon "Chapbooks" PalameirThe Shattered Throne TumblesGrand playLate 14 century DRAthkatla, AmnAnnadas AthloThe Vulgar MaidenKabuki?Semmishi, WaMika ZorruiThe Wise CarpKabuki?Semmishi, WaMika ZorruiThrone of Three Kings?1412 DR?Delmur the Bold BardTwo Masked Dalliances and a MisunderstandingComedyBefore the late 15 century DRWaterdeep, Sword Coast North?Whi-yeu NohgKabuki?Tabot, Kara-TurMika ZorruiAballar the MightyComedy1306 DRNewerwinterNareth Quorl of NewerwinterBellagar the Black Dragon1242 DRScornubelOstryn Scardarr of ScornubelFive Fallen ThronesComedy1299 DRWaterdeepAmmathra Longalar of WaterdeepHarl the SerpenComedy1322 DRKing Helcantur the Doomed1266 DRAthkatlaAwnagur Hertrel of AthkatlaRorold the LustyComedy1297 DRSeven Swords Snarlclash1312 DRSaerloonImbaerla Nardragon of Saerloon
+
+Appendix
+See Also
+ :Category:Plays
+ List of books (in-universe)
+
+References
+
+---
+
+## Lifedrinker short sword
+
+Lifedrinker short swords were enchanted blades that sapped their victims vitality, found in the 15 century DR.
+
+Powers
+Lifedrinker short swords possessed an unholy aura as they thrived on bloodshed, absorbing the pain and blood of their victims and revitalized the wielder when they suffered significant harm. The sapped life essence regenerated and healed the wielder while dealing necrotic damage in addition to the swords' +2 enchantment.
+
+History
+In the late 15 century DR, the lifedrinker short swords were in use by bandits and orcs of the Sword Mountains, and the Old Owl Well. One such sword was wielded by pirate Lieutenant Gadain who worked for a Luskanite buccaneer Kajin.
+
+Appendix
+Appearances
+Video Games
+Dungeons & Dragons: Heroes of Neverwinter
+
+References
+
+---
+
+## Lifedrinker morningstar
+
+Lifedrinker morningstars were enchanted bludgeons that sapped their victims' vitality, found in the 15 century DR.
+
+Powers
+These morningstars possessed +2 enchantments and pulsated with purple necrotic magics. When wielded in combat, Lifedrinker morningstars dealt necrotic damage to their targets and sapped their life force, granting the wielder regeneration.
+
+History
+In the late 15 century DR, lifedrinker morningstars were in use among heroes, bandits, and orcs of the Sword Mountains, the city of Neverwinter, and the Old Owl Well. One such weapon was wielded by pirate named Lieutenant Gadain, who worked for the Luskanite buccaneer Kajin.
+
+Appendix
+Appearances
+Video Games
+Dungeons & Dragons: Heroes of Neverwinter
+
+References
+
+---
+
+## Lion Tower
+
+The Lion Tower was one of the towers in Castle Obarskyr.
+
+History
+Per Vangerdahast's recollection in Alturiak of, the Lion Tower had been built in  and much furniture was moved about. One of the rugs in the tower, bought in bulk from Wheloon, wound up in a room last used by Amedahast.
+
+Appendix
+Appearances
+Novels
+
+Elminster in Hell
+References
+
+---
+
+## Lightsinger Theater
+
+Lightsinger Theater was a theater located in Waterdeep during the mid-to-late 14 century DR.
+
+Description
+The festhall stood three stories tall.
+
+Location
+Lightsinger Theater was located in the northern section of Waterdeep's Castle Ward on the south side of Bazaar Street where it was joined by the Street of Bells.
+
+Rumors & Legends
+A portal located in the theater's prop room connected to the sewers in distant Ankhapur.
+
+Appendix
+References
+
+FR:Théâtre de Chantelueur
+
+---
+
+## Lichnee potion
+
+A lichnee potion, also known as a potion of transformation, was a highly poisonous mixture that had to be imbibed as part of an evil ritual to become a lich.
+
+Description
+When properly prepared, the mixture was a sparkling black liquid with a bluish glow.
+
+Recipe
+The following ingredients had to be mixed together in this specific order under the light of a full moon: 2 drops of pure distillate of arsenic, 1 drop of pure distillate of belladonna, 1 quart of blood from a human infant killed by wyvern venom, 1 quart of blood from a non-human humanoid killed by a phase spider, 1 quart of blood from an individual infected with vampirism, 1 simmered intact heart from a humanoid killed by a mixture of arsenic and belladona poisoning, 7 sets of ground-up reproductive glands from giant moths killed within a tenday, 1 pint or more of fresh phase spider venom (less than a month old), and 1 pint or more of fresh wyvern venom (less than two months old). There existed alternative recipes that disputed certain details, such as what kinds of humanoids' blood to use, how old they had to be, and whether or not they were a virgin.
+
+In addition, the soul of a sentient creature whose blood was used in the potion had to be sacrificed to the aspiring lich's phylactery.
+
+Some versions of the lich transformation ritual further called for the potion to be enchanted with castings of animate dead, cone of cold, feign death, permanency, and wraithform.
+
+Powers
+The purpose of the potion was to ready the drinker's soul to be placed into their phylactery, while also preparing their body to become an undead vessel that could only be completely destroyed via a disintegrate spell. Ingesting an improperly mixed potion was fatal, and ingesting the magically-enhanced version was irreversibly so.
+
+Some versions of the potion were consumed at the time of a ritual of transformation, killing the drinker and raising them as a lich, while other versions were not (usually) immediately fatal if properly prepared. An aspiring lich generally had to drink the potion within seven days of its creation, and had to finish it all within six minutes. This left the drinker notably paler, and had one of a few nasty side effects: the drinker might fall into a coma for up to seven days, be rendered feebleminded and frail, be paralyzed for up to fourteen days with possible permanent damage to their reflexes, or be rendered blind, deaf, or mute such that only a wish or limited wish could restore them. This was not even including the more than 1-in-10 chance that the potion would simply fail to take effect, which might kill the drinker or just cause them to lose all body hair. After resolving whatever side effects they experienced, the drinker was free to continue pursuing the final stages of becoming a lich, namely by preparing a phylactery. During this time, their status as a proto-lich was always known to them, irrespective of any magical or mundane memory loss, but it was undetectable to others.
+
+If the aspiring lich died before the phylactery was completed, they could sometimes be revived, and would be forced to brew and drink the potion again in order to continue pursuing lichdom.
+
+Appendix
+References
+
+---
+
+## Libram of silver magic
+
+A libram of silver magic was a magical tome of great value to good-aligned wizards.
+
+Description
+Librams of silver magic were mystic texts penned in silver ink.
+
+Powers
+When studied by a wizard of good alignment over a period of several days, it instilled a great deal of experience in their mind, allowing them to become a more powerful spellcaster. The libram would then disappear, and the reader could never again benefit from reading a similar tome.
+
+If a neutral or evil wizard attempted to read the work, they suffered a backlash and fell unconscious for a time as their mind suffered, with evil readers actively forgetting much of what they already knew. They required the casting of atonement, else they would be unable to progress their own skills at all. Non-wizards who tried reading the libram suffered even more, potentially being driven insane and requiring extensive rest, recovery, and magical healing to return to full form.
+
+Appendix
+See Also
+
+Appearances
+
+References
+
+---
+
+## Lilac
+
+The lilac was a type of flowering plant with a strong scent.
+
+Habitats
+ Lilac was planted along the River Ith within the city of Darromar in Tethyr.
+ Lilac Pond, in Cormyr, was named for the flower.
+
+Trivia
+When lacerials felt a longing for home, they emitted a scent similar to that of lilacs, and one of their villages was named after the flower.
+
+Appendix
+
+Appearances
+
+External links
+
+References
+
+---
+
+## List of specialty priest classes
+
+A full list of specialty priest classes for many pantheons, including the Faerûnian pantheon, Untheric pantheon, Mulhorandi pantheon, Chultan pantheon, Seldarine, Dark Seldarine, the Lords of the Golden Hills, Morndinsamman, Yondalla's Children, and even the Yuan-ti pantheon.
+
+List of specialty priests
+ Name Deity Pantheon Aesthete  Sune  Faerûnian pantheon Aetharnar  Abbathor  Morndinsamman Airwalker  Akadi  Faerûnian pantheon Alaghar  Clangeddin Silverbeard  Morndinsamman Amorphite  Ghaunadaur  Dark Seldarine Anchor  Umberlee  Faerûnian pantheon Apothecar  Mystra  Faerûnian pantheon Aquarian  Deep Sashelas  Seldarine Arachne  Lolth  Dark Seldarine Authlim  Iyachtu Xvim  Faerûnian pantheon Barakor  Gorm Gulthyn  Morndinsamman Battleforge  Tempus  Faerûnian pantheon Battleguard  Tempus  Faerûnian pantheon Bloodreaver  Garagos  Faerûnian pantheon Bloodstalker  Urdlen  Lords of the Golden Hills Brystar  Melira Taralen  Seldarine Catfoot  Mask  Faerûnian pantheon Chaos knight  Talos  Faerûnian pantheon Chronologian  Labelas Enoreth  Seldarine Circle singer  Angharradh  Seldarine Darkbringer  Moander  Faerûnian pantheon Darkmask  Vhaeraun  Dark Seldarine Darkwalker  Ibrandul  Faerûnian pantheon Deathstalker  Bhaal  Faerûnian pantheon Delvesonn  Dumathoin  Morndinsamman Demarche  Mask  Faerûnian pantheon Dhaeraowathila  Shevarash  Seldarine Divine arbiter  Osiris  Mulhorandi pantheon Doombringer  Hoar  Faerûnian pantheon Doomguide  Kelemvor  Faerûnian pantheon Doommaster  Beshaba  Faerûnian pantheon Doomscribe  Jergal  Faerûnian pantheon Dreadmaster  Bane  Faerûnian pantheon Druid of Chauntea  Chauntea  Faerûnian pantheon Druid of Rillifane  Rillifane Rallathil  Seldarine Druid of Shiallia  Shiallia  Faerûnian pantheon Dweomerkeeper  MystrylMystra  Netherese pantheonFaerûnian pantheon Earthblood  Callarduran Smoothhands  Lords of the Golden Hills Earthchild  Geb  Mulhorandi pantheon Earthfriend  Segojan Earthcaller  Lords of the Golden Hills Earthwalker  Grumbar  Faerûnian pantheon Eshowdowan shaman  Eshowdow  Chultan pantheon Faernar  Berronar Truesilver  Morndinsamman Fang of Talona  Talona  Faerûnian pantheon Fastpaw  Baervan Wildwanderer  Lords of the Golden Hills Favored  Tymora  Faerûnian pantheon Feywarden  Corellon Larethian  Seldarine Finder  Finder Wyvernspur  Faerûnian pantheon Firemane  Nobanion  Faerûnian pantheon Firewalker  Kossuth  Faerûnian pantheon Frostwarden  Rellavar Danuvien  Seldarine Glitterbright  Garl Glittergold  Lords of the Golden Hills Gloryblood  Tempus  Faerûnian pantheon Glyphscribe  Deneir  Faerûnian pantheon Goldheart  Hanali Celanil  Seldarine Goldeye  Waukeen  Faerûnian pantheon Gondsman  Gond  Faerûnian pantheon Goodwife  Nephthys  Mulhorandi pantheon Gray One  Myrkul  Faerûnian pantheon Greenfoster  Sheela Peryroyl  Yondalla's Children Greenlord  Silvanus  Faerûnian pantheon Grimwarden  Urogalan  Yondalla's Children Guide  Selûne (Lucha)  Faerûnian pantheon Halcyon  Aerdrie Faenya  Seldarine Hand of Tyr  Tyr  Faerûnian pantheon Heartwarder  Sune  Faerûnian pantheon Heralar  Naralis Analor  Seldarine Highborn  Siamorphe  Faerûnian pantheon Holy champion  Torm  Faerûnian pantheon Holy justice  Tyr  Faerûnian pantheon Holy singer  Oghma  Faerûnian pantheon Holy strategist  Red Knight  Faerûnian pantheon Homesteader  Cyrrollalee  Yondalla's Children Hoodwinker  Baravar Cloakshadow  Lords of the Golden Hills Horn guard  Yondalla  Yondalla's Children Hurndar  Vergadain  Morndinsamman Ice Hunter Beast Cult Shaman  Various  None Iceguardian  Ulutiu  Faerûnian pantheon Icepriestess  Auril  Faerûnian pantheon Indulgent  Sharess  Faerûnian pantheon Joydancer  Lliira  Faerûnian pantheon Jungle druid  Ubtao  Chultan pantheon Lone wolf  Fenmarel Mestarine  Seldarine Lorekeeper  Oghma  Faerûnian pantheon Loresinger  Milil  Faerûnian pantheon Luckbringer  Tymora  Faerûnian pantheon Luckmaiden  Haela Brightaxe  Morndinsamman Luckrider  Tymora  Faerûnian pantheon Magistrati  Azuth  Faerûnian pantheon Malagent  Talona  Faerûnian pantheon Malefactor  Gargauth  Faerûnian pantheon Martinet  Gilgeam  Untheric pantheon Masked traitor  Vhaeraun  Dark Seldarine Mazewalker  Ubtao  Chultan pantheon Militar  Anhur  Mulhorandi pantheon Misadventurer  Brandobaris  Yondalla's Children Mischiefmaker  Erevan Ilesere  Seldarine Mistcaller  Leira  Faerûnian pantheon Monitor  Mystra  Faerûnian pantheon Moon knights  Selûne  Faerûnian pantheon Morninglord  Lathander  Faerûnian pantheon Mystifier  Gerron  Faerûnian pantheon Nakurit  Ulutiu  Faerûnian pantheon Necrophant  Velsharoon  Faerûnian pantheon Nightcloak  Shar  Faerûnian pantheon Nighthunter (Set)  Set  Mulhorandi pantheon Nightrunner  Mask  Faerûnian pantheon Noroghar  Abbathor  Morndinsamman Norothar  Deep Duerra  Morndinsamman Pain  Loviatar  Faerûnian pantheon Painbearer  Ilmater  Faerûnian pantheon Paragon  Torm  Faerûnian pantheon Peacemen  Eldath  Faerûnian pantheon Peakwarden  Tarsellis Meunniduin  Seldarine Pyrosmith  Flandal Steelskin  Lords of the Golden Hills Quill  Oghma  Faerûnian pantheon Ranger of Gwaeron  Gwaeron Windstrom  Faerûnian pantheon Ranger of Solonor  Solonor Thelandira  Seldarine Revered mother  Hathor  Mulhorandi pantheon Sacred fist  Tyr  Faerûnian pantheon Scale  Tyr  Faerûnian pantheon Scrivener  Thoth  Mulhorandi pantheon Sea druid  Deep Sashelas  Seldarine Sensate  Sharess  Faerûnian pantheon Serphidian  Sseth  Yuan-ti pantheon Shadow stalker  Eshowdow  Chultan pantheon Sibylite  Savras  Faerûnian pantheon Silkwhisper  Sune  Faerûnian pantheon Silver ladies  Selûne  Faerûnian pantheon Silvermaid  Lurue  Faerûnian pantheon Silverstar  Selûne  Faerûnian pantheon Skyweaver  Isis  Mulhorandi pantheon Sonnlinor  Moradin  Morndinsamman Specialty priest of Arvoreen  Arvoreen  Yondalla's Children Specialty priest of Curna  Oghma (Curna)  Faerûnian pantheon Specialty priest of Yondalla  Yondalla  Yondalla's Children Spidersword  Selvetarm  Dark Seldarine Starsinger  Sehanine Moonbow  Seldarine Sternshield  Gaerdal Ironhand  Lords of the Golden Hills Stormharbor  Valkur  Faerûnian pantheon Stormlord  Talos  Faerûnian pantheon Stormrider  Talos  Faerûnian pantheon Strifeleader  Cyric  Faerûnian pantheon Sunhawk  Horus-Re  Mulhorandi pantheon Sunlord  Amaunator  Faerûnian pantheon Sunmaster  Amaunator  Faerûnian pantheon Swamplord  Sebek  Mulhorandi pantheon Sword dancer  Eilistraee  Dark Seldarine Tabaxi shaman  Ubtao  Chultan pantheon Talon  Malar  Faerûnian pantheon Tempest of Umberlee  Umberlee  Faerûnian pantheon Tethryl  Tethrin Veraldé  Seldarine Thalornar  Sharindlar  Morndinsamman Thuldar  Laduguer  Morndinsamman Totem sister  Angharradh  Seldarine Trailblazer  Marthammor Duin  Morndinsamman Treespeakers  Mielikki  Faerûnian pantheon Truesword  Arvoreen  Yondalla's Children Tuneservant  Milil  Faerûnian pantheon Twylar  Araleth Letheranil  Seldarine Urit  Ulutiu  Faerûnian pantheon Uthgardt Beast Cult Shaman  Various  None Vuddar  Thard Harr  Morndinsamman Watcher  Helm  Faerûnian pantheon Waterwalker  Istishia  Faerûnian pantheon Waveservant  Umberlee  Faerûnian pantheon Wavetamer  Valkur  Faerûnian pantheon Windrider  Shaundakul  Faerûnian pantheon Windwalker  Shaundakul  Faerûnian pantheon Woodscout  Mielikki  Faerûnian pantheon Woodwife  Shiallia  Faerûnian pantheon Wyrmkeeper  Tiamat  Untheric pantheon Wyrmlaird  Tchazzar (Tiamat)  Untheric pantheon Xothar  Dugmaren Brightmantle  Morndinsamman Yaaurit  Ulutiu  Faerûnian pantheon Yathrinshee  Kiaransalee  Dark Seldarine Zivorn  Kirith Sotheril  Seldarine
+
+Appendix
+References
+
+---
+
+## Lichskull
+
+Lichskull was a unique enchanted helmet made of half-orcish bone.
+
+Powers
+This grim visage was detrimental to the wearer's appearance. However, the Lichskull gave the wearer a dramatically increased ability to concentrate and weave more potent spells. Additionally, the wearer received significant resistance to magic. The item's magic made it only usable by sorcerers, wizards, red dragon disciples, and pale masters.
+
+History
+Lichskull was the creation of the arch-mage named Cledos, crafted some years before the . The wizard's loyal assistant, the half-orc Hans Kludgen, was tasked with traveling across Toril in search of the rarest arcane material components for his master. But his travels and tireless work were rewarded with decapitation. Hans unwittingly provided one last rare arcane component for Cledos, who, through a rare ritual, transformed the half-orc's skull into the Lichskull.
+
+In the,  the helmet found its way to the eastern nation of Rashemen, where it was discovered in Shadow Mulsantir, the city's dark Shadowfell echo.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights: Hordes of the Underdark • Neverwinter Nights 2: Mask of the Betrayer)
+
+References
+
+---
+
+## Lihala
+
+Lihala was a musician who lived on the Sword Coast during the late 15 century DR.
+
+Personality
+She was described as a joyous, loving individual who demonstrated true grace.
+
+Abilities
+Lihala was a talented musician and dedicated teacher. She loved to dance but had little talent for it.
+
+Relationships
+She had one very promising student, Alfira, who absolutely adored Lihala and their close bond.
+
+History
+Some time during the, Lihala and Alfira were traveling near the Risen Road when they were beset by a pack of gnolls. They did not hear the fearsome creatures begin their attack, and unfortunately Lihala paid the ultimate price. Fortunately, Alfira managed to get away and return to safety at the Emerald Grove.
+
+Some time later, Alfira began to write a song to honor her fallen friend and mentor, entitled The Weeping Dawn.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Life on the Rack
+
+Life on the Rack was a chapbook written by Shavryn Ilidar, a priest of Ilmater, in the .
+
+Contents
+In this biography, Ilidar wrote of his journeys as an itinerant healer, his service to the Lord on the Rack, and of his views of adventurers.
+
+Availability
+There was a copy of the book in Candlekeep by the early 1370s DR.
+
+Appendix
+References
+
+---
+
+## Linebreaker boots
+
+Linebreaker boots were a type of magical boots that bolstered the wearer's combat prowess whenever they ran headfirst into battle.
+
+Description
+The lightweight boots were crafted from leather and lined with some type of animal fur.
+
+Powers
+When the wearer of linebreaker boots dashed into a fight, adrenaline surged through their body and gained increased ferocity in battle.
+
+Notable Owners
+ Beastmaster Zurk, the worg-wrangler of the Shattered Sanctum.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lila
+
+Lila was a traveling musician, performer, and a bard on the Sword Coast North circa 1374 DR.
+
+Description
+Lila was a short and slender elven woman with large brown and chestnut braided hair. She wore a green performer's garb. She was a cold and aloof demeanor that strangely contrasted her vocation.
+
+History
+In the, Lila, a flautist, was a part of a roguish band of traveling performers that included Venn who played a lute, William – a tambourinist, and the troupe's leader, a flaming dancer named Azahr. Lila and the band spent some time performing at the Crossroad Keep as it was being reinvigorated by trade and commerce after a devastating Shadow War. The band's leader was happy to be making coin once again and planned on staying at the keep for a little while. However, that time was cut short after Azahr sole a precious artifact – Gauntlets of Ironfist, from the keep's seneschal. Lila accompanied her bandmates to Azahr's cabin hideout in the Neverwinter Wood. Khelgar Ironfist sent a group of adventurers to retrieve the precious stolen magic item; a brawl was ensured.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Storm of Zehir
+
+References
+
+---
+
+## Liam
+
+Liam was a adventurer who journeyed on the Sword Coast during the late 15 century DR.
+
+Description
+He was a fit man, who had shaggy, short-cropped ginger hair.
+
+Relationships
+Liam was part of an adventuring party led by a man named Aradin. Their group also included Remira, Barth, and a man named Brian.
+
+History
+As of the, Liam was and his fellow adventurers were hired by the Baldurian wizard Lorroakan to recover an artifact known as the Nightsong. To accomplish their mission, they served as guides to the archdruid, Master Halsin of the Emerald Grove, and made their way out to the Shattered Sanctum temple. The powerful druid had a different goal: investigating strange goings-on related to mind flayer tadpole infections in the region.
+
+The group was caught by the cult of the Absolute during their excursion; a few made it out, but Halsin, Liam and Brain were taken prisoner within. Liam was forced to endure torture at the hands of the goblin Spike, as True Soul Minthara Baenre attempted to uncover the secret location of the Emerald Grove enclave.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lightning serpent
+
+Lightning serpent was a wizard spell, during the period between the Spellplague and Second Sundering, that unleashed a serpent-shaped bolt of lightning.
+
+Effects
+When cast lightning serpent caused a bolt of lightning to crackle from the spellcaster's hand, that took take on a serpentine appearance as it flew towards the single target of choice. In addition to electrical damage, the target would become poisoned and their movements would become slowed down.
+
+The spell's effectiveness could be enhanced by the use of implements.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Little Davey
+
+Little Davey was the man who ran the Black Eye tavern and festhall in the city of Westgate in the late 14 century DR.
+
+Description
+Little Davey's name was a misnomer, as the man stood  tall and had a very muscular build. While behind the bar, he was covered in sweat, grime, and ale. Davey did not like spreading rumors or chatting up guests, however, he was willing to share information in exchange for some coin.
+
+History
+In the, Little Davey was in charge of the Black Eye and co-owned it with two huge bouncer brothers Gregory and Marv. Despite the establishment being a tavern without any rental rooms, Little Davey allowed customers to just plunk themselves in the corner of the taproom along with other drunkards sleeping the revelry off. At that time, Davey also employed a dancer named Dimples. One day she stopped showing up for work. Being a popular entertainer, many customers had been asking for Dimples. Marv was worried for the woman and asked a band of adventurers to look into the dancer's disappearance. It turned out Dimples was a member of the city guard and twisted her ankle on the line of duty, rendering her unable to dance until the wound was healed.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Li Mei
+
+Li Mei was a lover of an infamous monk from the nation of Shou Lung in Kara-Tur, named Jade Panther, active some years before the late 14 century DR.
+
+History
+Li Mei was responsible for the disappearance of the bloody fighting implement that gained the monk his infamy. With time, Li Mei grew disgusted with the monk's cruelty and stole the Claws of the Jade Panther, the monk's gloves affixed with razor-sharp blades to savage his opponents. Li Mei tasked one of her servants with destroying the enchanted gloves, but instead the Claws ended up on the black market.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lizardfolk Witch
+
+The so-called Lizardfolk Witch was a potion brewer and a merchant who operated in Undergate, Westgate's shady underbelly, in the late 14 century DR.
+
+Description
+The Lizardfolk Witch was a scaled humanoid, an upright-walking lizard with powerful physique, clad hands, long tail, and sharp-toothed jaws. She had reddish hide and grayish scales.
+
+Possessions
+Among potions concocted by the Witch were potions of barkskin, potions of bear's endurance, potions of bull's strength, potions of cat's grace, potions of death armor, and potions of lore.
+
+History
+The Lizardfolk Witch once was a respected shaman of her people until her tribe was made extinct by a great sickness. She believed that the plague was brought by the Great Lizard, Ibrandul. The Witch did not know how she escaped the sickness so she assumed the Great Lizard protected her as one of the deity's holy ones. Being left lone, the Witch sought safety among the "hairy ones," eventually settling in the Undergate, where the warm-blooded races allowed lizardfolk to live in relative peace.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Living Bigby's Hand
+
+A living Bigby's hand was a giant and incorporeal hand created from pure force energy. It was a living manifestation of the Bigby's hand family of spells.
+
+Behavior
+Bigby's hands often served as protectors for the spellcasters that brought them to life.
+
+Abilities
+Due to their unique nature, living Bigby's hands were immune to much that would harm other living beings. They could never become physically exhausted, terrified, or rendered unconscious, and could not be blinded or deafened. They were wholly impervious to charm spells, petrification, and paralysis.
+
+Combat
+When forced into combat, Bigby's hands often attacked in a manner similar to its namesake spells. They could punch out at foes by clenching themself into a fist or by ''grapping opponents and hurling them away.
+
+History
+As of the late 15 century DR, several living Bigby's hands lingered in the ruined necropolis of Ythryn.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lime (material)
+
+Lime or quicklime was a substance used for a variety of purposes.
+
+Description
+Lime had a distinct mineral smell and could be found in solid chunks, ground into a white powder, or mixed with water to make a paste called slaked lime. Flesh and bone, living or dead, that came into extended contact with lime inevitably dissolved with time, while water with dissolved lime could be dangerous to drink. In areas such as drains where water concentrated, the dissolved lime could leave a visible deposit.
+
+Availability
+ Aurora's Emporium sold pieces of lime for 1 sp per 12 oz, or powder for 2 sp per 12 oz.
+ Lime was widely available throughout the Realms and was regularly traded and transported in bulk, in powdered, slaked, or chunk form.
+
+Usage
+ Lime was a popular material in construction projects. It was commonly used as a binder mixed with sand and water to produce mortar, and the Cellarers' & Plumbers' Guild of Waterdeep had secret recipes involving pitch, lime, gravel, sand, and other materials. It was mixed with mud to make a kind of inexpensive cement for waterproofing drainpipes in warmer climates that didn't freeze, and could be mixed into thatching for roofs.
+ Slaked lime was made into whitewash, a bright white and hardy paint commonly used around the Realms to paint buildings white. It was used in traditional Maztican, Shou, and Calishite construction for thousands of years.
+ Skins and hides were treated with lime along with vinegar, beeswax, and various other substances in the production of leather, while vellum was made by treating calfskin.
+ Lime could be used for pickling food, and was used in the production of many alchemical potions.
+ When dwarven battleragers shaved their heads and beards, occasionally they left some hair that they stiffened with lime or grease.
+ Stinkpots were often made to shower foes with quicklime.
+ Brown mold oil was a dangerous flask of ground-up brown mold, temporarily neutralized by a mix of lime and algae.
+ Powdered lime was used to clean the privies of establishments such as the Masked Merfolk. Powdered lime and dirt was also laid over dung pits to limit the stench.
+ Space-efficient burials were sometimes performed with multiple bodies stacked together with lime and dirt between them. Entire pits of lime were sometimes used for the disposal of bodies, such as for dealing with the mass-burial of plague victims. Tubs or pits of lime were also used for quietly and discretely dissolving bodies that mustn't be found, such as those used by Sundarl Nightsoils the Dark Corner, Three Old Kegs, the village of Urbryur, and drow.
+
+Spell Components
+Various forms of lime were used in many spell components, including:
+ Flesh to stone used lime, water, and earth.
+ Greater magic weapon used powdered lime and carbon.
+ Leomund's secure shelter used a few grains of sand along with some stone, lime, water, and wood.
+ Statue used lime, sand, and a drop of water stirred by an iron bar.
+ Transmute mud to rock used sand, lime, and water.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Lightwine
+
+Lightwine was a fermented alcoholic drink from Twilight Tor in the Starmetal Hills.
+
+Powers
+
+Lightwine was made out of light pods that fell from the skies during the Simril season in the town of Twilight Tor and across the Starmetal Hills, where they were devoured by fish that dwelt in the region's lakes. This wine was fermented by magical means by the Master of Lights of Twilight Tor. Aged fortified and strengthened lightwine was consumed during the Liar's Night festival in Neverwinter.
+
+When consumed, lightwine boosted the imbiber's speed and granted them sped up regeneration.
+
+History
+
+In the late 15 century DR, lightwine was a common drink created during the annual Simril celebration in Twilight Tor.
+
+Appendix
+Appearances
+
+References
+
+---
+
 ## List of dishes (in-universe)
 
 This is a list of dishes known to exist in the Realms, excluding breads, drinks, sauces, and desserts. It includes information on the cuisine of the dish, establishments and cities where they could be found, and each of the dish's main ingredients. Cuisines are broken down into the nation of origin, or general area of the content that has shared culinary influences, and well as racial cuisines for non-human people of the Realms.
@@ -4423,6 +12383,695 @@ Appendix
 Notes
 
 References
+
+---
+
+## Lich lord
+
+A lich lord was any lich that deviated from the standard form because of modifications it had made under its own power. Among the Zhentarim beholders, the term referred specifically to the form adopted by Iliph Thraun on achieving lichdom.
+
+Description
+For the specific case of Iliph Thraun, the lich lord resembled a hovering skull with white pinpoints of light in its eye sockets.
+
+Abilities
+Iliph Thraun was unique in its need for specially modified spells to sustain itself, and its ability to wield spellfire.
+
+History
+One particular lich lord, Iliph Thraun, had risen ca. 350 DR, a thousand years prior to . The lich achieved its lichdom through a flawed process, and thus required spells to survive. It joined the search for Shandril Shessair in that year, after being brought before Manshoon by Zulthondre, who recommended the lich lord and furnished the means of controlling it. The beholder Xarlraun also had a bauble to control the lich lord.
+
+Notable Lich Lords
+ Iliph Thraun
+
+Appendix
+See Also
+ Demilich
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Living City/1987-1992
+
+Living City modules published between 1987 and 1992.
+
+Modules
+Caravan
+
+ Designer(s): James Ward
+ Released: August 1987
+This module was re-released in Polyhedron #66 in 1991 and then later as part of the Adventurer's Guild organized play program in 1998.
+
+At Last, Ravens Bluff
+
+ Designer(s): Bruce Rabe
+ Released: August 1988
+This module was re-released as part of the Adventurer's Guild organized play program in 1998.
+
+Counterfeit Dreams
+
+ Designer(s): Skip Williams, Jean Rabe
+ Released: August 1989
+This module was re-released in Polyhedron #50 in 1989 and then later as part of the Adventurer's Guild organized play program in 1998.
+
+Nightwatch in the Living City
+
+ Designer(s): Walter M. Baas, Kira Glass
+ Released: August 1990
+This module was re-released as an official paperback in 1991.
+
+Downunder the Living City
+
+ Designer(s): Wayne Straiton
+ Released: August 1991
+This module was re-released in Polyhedron #77 in 1992 and then later as part of the Adventurer's Guild organized play program in 1998.
+
+Day of the Raven
+
+ Designer(s): James P. Buchanan
+ Released: August 1991
+This module was re-released as part of the Adventurer's Guild organized play program in 1998.
+
+Eye of the Leviathan
+
+ Designer(s): Randall Lemon, Ed Peterson
+ Released: January 1992
+This module was re-released in Polyhedron #87 in 1993.
+
+Dungeon of Dracona
+
+ Designer(s): Greg Lloyd
+ Released: January 1992
+
+The Curse of Red Death
+
+ Designer(s): Wayne Straiton
+ Released: March 1992
+This module was re-released as part of the Adventurer's Guild organized play program in 1998.
+
+Your Tax Dollars at Work
+
+ Designer(s): Rob Nicholls
+ Released: August 1992
+This module was re-released in Polyhedron #97 in 1994.
+
+The Ugly Stick
+
+ Designer(s): Rembert Parker
+ Released: August 1992
+This module was re-released in Polyhedron #89 in 1993.
+
+The Tarots of the Tarot Hut
+
+ Designer(s): Mike Selinker
+ Released: August 1992
+
+Bard's Song
+
+ Designer(s): Jim Alan
+ Released: September 1992
+
+---
+
+## Living City/1993
+
+Living City modules published in 1993.
+
+Modules
+A Good Day To Die
+
+ Designer(s): Wayne Straiton
+ Released: January 1993
+
+The Wizard's Guard
+
+ Designer(s): Clint Heilman
+ Released: February 1993
+
+Bitter Harvest
+
+ Designer(s): Jean Rabe
+ Released: March 1993
+
+Morgan's Revenge
+
+ Designer(s): Brandon Amanico
+ Released: March 1993
+Part 1 of the "Morgan" series.
+
+What in the World Is This?
+
+ Designer(s): Bob Person
+ Released: March 1993
+Part 1 of the "The Menagerie of a Raven Lunatic" series.
+This module was re-released as part of the Adventurer's Guild organized play program in 1998.
+
+Call of the Griffon
+
+ Designer(s): Clinton C. Tate
+ Released: June 1993
+Part 2 of the "The Menagerie of a Raven Lunatic" series.
+This module was re-released as part of the Adventurer's Guild organized play program in 1998.
+
+Birds of a Feather
+
+ Designer(s): Wayne Straiton
+ Released: July 1993
+Part 3 of the "The Menagerie of a Raven Lunatic" series.
+This module was re-released as part of the Adventurer's Guild organized play program in 1998.
+
+False Prophecy
+
+ Designer(s): Stephen Glasgow
+ Released: July 1993
+This module was re-released as part of the Adventurer's Guild organized play program in 1998.
+
+The Phantom of Ravens Bluff
+
+ Designer(s): Shawn Carnes
+ Released: August 1993
+
+To Live and Die in Ravens Bluff
+
+ Designer(s): Ed Gibson
+ Released: August 1993
+Part 1 of the "Gathering Darkness" series.
+
+A Handful of Dust
+
+ Designer(s): John Rateliff
+ Released: August 1993
+This module was re-released in Polyhedron #98 in 1994.
+
+The Search for Run-Free Stockings
+
+ Designer(s): Wayne Straiton
+ Released: August 1993
+
+Death That Walks
+
+ Designer(s): Jim Alan
+ Released: September 1993
+
+Storm on the Horizon
+
+ Designer(s): Stephen Glasgow
+ Released: September 1993
+
+Terror in the City
+
+ Designer(s): Jim Alan
+ Released: September 1993
+
+The Great Green Sheep Mystery
+
+ Designer(s): Steve Hardinger
+ Released: October 1993
+Part 1 of the "RBBI" series.
+
+Invitation to a Wedding
+
+ Designer(s): Clint Heilman
+ Released: November 1993
+
+Pillar of the Community
+
+ Designer(s): John Terra
+ Released: November 1993
+Part 4 of the "The Menagerie of a Raven Lunatic" series.
+This module was re-released as part of the Adventurer's Guild organized play program in 1998.
+
+Spirits of the Night
+
+ Designer(s): Don Weatherbee
+ Released: November 1993
+Part 1 of the "Selûne" series.
+
+---
+
+## Living City/1994
+
+Living City modules published in 1994.
+
+Modules
+Scavenger Hunt
+
+ Designer(s): Rembert Parker
+ Released: January 1994
+
+The Greater of Two Evils
+
+ Designer(s): Wade Hellman
+ Released: February 1994
+Part 5 of the "The Menagerie of a Raven Lunatic" series.
+This module was re-released as part of the Adventurer's Guild organized play program in 1998.
+
+The Living Dungeon
+
+ Designer(s): Joseph Miller
+ Released: March 1994
+
+Bloody Trouble in Maskyr's Eye
+
+ Designer(s): Alex Lombardi
+ Released: March 1994
+
+Price of Rulership
+
+ Designer(s): Christopher B. Ravlin
+ Released: March 1994
+
+When Beastly Beauties Go Mad
+
+ Designer(s): Alex Lombardi
+ Released: March 1994
+Part 1 of the "Beastly" series.
+
+And Justice for All
+
+ Designer(s): Alex Lombardi
+ Released: March 1994
+Part 2 of the "Beastly" series.
+
+Why Is There Air?
+
+ Designer(s): Ted Stadtlander
+ Released: March 1994
+
+A Funny Thing Happened on the Way to Stag Falls
+
+ Designer(s): Willi Burger
+ Released: May 1994
+Part 1 of the "Just Lookin'" series.
+This module was re-released as part of the Adventurer's Guild organized play program in 1999.
+
+Stag Falls Knights
+
+ Designer(s): Willi Burger
+ Released: May 1994
+Part 2 of the "Just Lookin'" series.
+This module was re-released as part of the Adventurer's Guild organized play program in 1999.
+
+The Pyre Down Below
+
+ Designer(s): Willi Burger
+ Released: May 1994
+Part 3 of the "Just Lookin'" series.
+This module was re-released as part of the Adventurer's Guild organized play program in 1999.
+
+Dragon School
+
+ Designer(s): Greg Lloyd
+ Released: June 1994
+
+A Smuggler's Life for Me
+
+ Designer(s): Robert Wiese
+ Released: June 1994
+
+A Snowball's Chance
+
+ Designer(s): Jean Rabe
+ Released: July 1994
+
+Where the Teak Snakes Slither
+
+ Designer(s): Jean Rabe
+ Released: July 1994
+
+Pig in a Poke
+
+ Designer(s): Todd Kline
+ Released: July 1994
+
+Tempest in a Tea Pot
+
+ Designer(s): Lindsey Markus
+ Released: July 1994
+
+Dark Harvest
+
+ Designer(s): David W. Baker
+ Released: August 1994
+
+Death in the Shire
+
+ Designer(s): Kevin Melka
+ Released: August 1994
+
+Hammer of Fire
+
+ Designer(s): Dave Gross
+ Released: August 1994
+
+A Hero Takes a Fall
+
+ Designer(s): Wayne Straiton
+ Released: August 1994
+
+The Rat Pack
+
+ Designer(s): Brian Burr
+ Released: August 1994
+
+Darkstar
+
+ Designer(s): Jim Alan
+ Released: September 1994
+
+Dragon's Eye
+
+ Designer(s): Jim Alan
+ Released: September 1994
+
+The Heart of Ilmater
+
+ Designer(s): Brian Burr
+ Released: September 1994
+
+The Hunt for Discount Merlin
+
+ Designer(s): Cheryl McNally-Frech
+ Released: September 1994
+
+Knight Mission
+
+ Designer(s): Stephen Glasgow
+ Released: September 1994
+
+Stolen Property
+
+ Designer(s): Stephen Glasgow
+ Released: September 1994
+
+A Wedding Summons in Ravens Bluff
+
+ Designer(s): Ed Gibson
+ Released: September 1994
+Part 2 of the "Gathering Darkness" series.
+
+Friends in Low Places
+
+ Designer(s): Paul Gosselin
+ Released: September 1994
+
+Strongwind
+
+ Designer(s): Doug Smith, Glen Goodwin
+ Released: September 1994
+
+Just Because...
+
+ Designer(s): Don Weatherbee
+ Released: November 1994
+
+Kidnapped
+
+ Designer(s): Tom Prusa
+ Released: November 1994
+This module was re-released as an official paperback in 1998.
+
+Revenge's Sweet
+
+ Designer(s): Brandon Amanico
+ Released: November 1994
+Part 2 of the "Morgan" series.
+
+---
+
+## Living City/1995
+
+Living City modules published in 1995.
+
+Modules
+The Call of the Wilde
+
+ Designer(s): Daniel S. Donnelly, J. Allan Fawcett
+ Released: January 1995
+
+Luck Takes a Vacation
+
+ Designer(s): Daniel S. Donnelly
+ Released: January 1995
+
+An Ape for Mr. Mooney
+
+ Designer(s): Jean Rabe
+ Released: February 1995
+
+Mansion of the Mad Wizard Ren
+
+ Designer(s): James Ward
+ Released: February 1995
+
+Slugfest
+
+ Designer(s): Jim Alan
+ Released: February 1995
+
+My Death Bow
+
+ Designer(s): Doug Smith
+ Released: February 1995
+
+How Long Can You Tread Water?
+
+ Designer(s): Dave Schnur
+ Released: March 1995
+
+The Dying City
+
+ Designer(s): Andrew Bethke
+ Released: March 1995
+
+Stop the Madness!
+
+ Designer(s): J. Allan Fawcett
+ Released: March 1995
+
+Women of the Veil
+
+ Designer(s): Daniel S. Donnelly
+ Released: March 1995
+
+Mandolin Wind
+
+ Designer(s): Christopher B. Ravlin
+ Released: March 1995
+Part 1 of the "A Troubador's Reprise" series.
+This module was re-released as part of the Adventurer's Guild organized play program in 1999.
+
+Return of the Fire Witch
+
+ Designer(s): Christopher B. Ravlin
+ Released: March 1995
+Part 2 of the "A Troubador's Reprise" series.
+This module was re-released as part of the Adventurer's Guild organized play program in 1999.
+
+The Hall of the Crimson King
+
+ Designer(s): Christopher B. Ravlin
+ Released: March 1995
+Part 3 of the "A Troubador's Reprise" series.
+This module was re-released as part of the Adventurer's Guild organized play program in 1999.
+
+Monday's Child
+
+ Designer(s): Wayne Straiton
+ Released: March 1995
+
+One Thing...
+
+ Designer(s): Todd Kline
+ Released: March 1995
+Part 1 of the "Ebenezer" series.
+
+Rod of Guile
+
+ Designer(s): Carl Buehler
+ Released: March 1995
+
+A Day at the Circus
+
+ Designer(s): David W. Baker
+ Released: April 1995
+
+Last Stand at Dragon Falls
+
+ Designer(s): Tom Prusa
+ Released: April 1995
+
+On Patrol
+
+ Designer(s): John Harnes
+ Released: April 1995
+Part 1 of the "On Patrol" series.
+
+Quest for Survival
+
+ Designer(s): Greg Lloyd
+ Released: April 1995
+
+Ghosts of the Past
+
+ Designer(s): Frank Timar
+ Released: April 1995
+
+Inferno in the Living City
+
+ Designer(s): Ed Gibson
+ Released: April 1995
+Part 3 of the "Gathering Darkness" series.
+
+The Perils of Politics
+
+ Designer(s): Robert Wiese
+ Released: April 1995
+Part 1 of the "Mohammed" series.
+
+Short People, Too
+
+ Designer(s): Tom Prusa
+ Released: June 1995
+
+Cliché
+
+ Designer(s): Wayne Melnick
+ Released: July 1995
+Part 1 of the "Wild Magic" series.
+
+Crypt of Heroes
+
+ Designer(s): Daniel S. Donnelly
+ Released: July 1995
+Part 1 of the "The Murkos" series.
+
+The Murkos Mission
+
+ Designer(s): Daniel S. Donnelly
+ Released: July 1995
+Part 2 of the "The Murkos" series.
+
+Mercenaries, Judges, and  Wives
+
+ Designer(s): Neil Wilhite
+ Released: July 1995
+
+The Twilight Avenger
+
+ Designer(s): Daniel S. Donnelly
+ Released: July 1995
+
+Veil Threats
+
+ Designer(s): Jean Rabe
+ Released: July 1995
+
+The Voice of a Lyre
+
+ Designer(s): Sean Flaherty
+ Released: July 1995
+
+Mortgage Application
+
+ Designer(s): Elizabeth Patterson
+ Released: July 1995
+Part 1 of the "Investigations" series.
+
+Foreclosure
+
+ Designer(s): Elizabeth Patterson
+ Released: July 1995
+Part 2 of the "Investigations" series.
+
+The Ice Mage Cometh
+
+ Designer(s): Elizabeth Patterson
+ Released: July 1995
+Part 3 of the "Investigations" series.
+
+...Leads to Another
+
+ Designer(s): Todd Kline
+ Released: July 1995
+Part 2 of the "Ebenezer" series.
+
+Something Fishy...
+
+ Designer(s): Chris Doyle
+ Released: July 1995
+
+Only the Good Die Young
+
+ Designer(s): Kevin Melka
+ Released: August 1995
+
+The Dogs of War
+
+ Designer(s): Robert Wiese
+ Released: August 1995
+
+Petals of the Night's Rose
+
+ Designer(s): J. Allan Fawcett, Seth Forman
+ Released: August 1995
+
+The Crest of Doom
+
+ Designer(s): John Fitzpatick
+ Released: September 1995
+
+The Spice of Life
+
+ Designer(s): Eric Belser
+ Released: September 1995
+
+...And the Body Dies
+
+ Designer(s): Robert Wiese
+ Released: September 1995
+Part 1 of the "Crimson Sanction" series.
+
+A Goodly Apple
+
+ Designer(s): Robert Wiese
+ Released: September 1995
+Part 2 of the "Crimson Sanction" series.
+
+Sarbreen, the Undying City
+
+ Designer(s): Ed Gibson
+ Released: September 1995
+Part 4 of the "Gathering Darkness" series.
+
+Winter Weather Woes
+
+ Designer(s): Daniel S. Donnelly
+ Released: September 1995
+
+All for Love
+
+ Designer(s): Glen Goodwin
+ Released: October 1995
+
+Die, Scum!
+
+ Designer(s): Paul Gosselin
+ Released: October 1995
+
+The Case of Raymond's Oyster Farm
+
+ Designer(s): Steve Hardinger
+ Released: October 1995
+Part 2 of the "RBBI" series.
+
+The Inner Sea Romance
+
+ Designer(s): Daniel S. Donnelly
+ Released: November 1995
 
 ---
 
@@ -4752,6 +13401,758 @@ Starry Eyes
 
  Designer(s): Gregory A. Dreher
  Released: November 1999
+
+---
+
+## Living City/1996
+
+Living City modules published in 1996.
+
+Modules
+Planespeaking
+
+ Designer(s): Tom Prusa
+ Released: January 1996
+
+The Purrfect Opportunity
+
+ Designer(s): Wayne Melnick
+ Released: January 1996
+Part 2 of the "Wild Magic" series.
+
+Housecleaning
+
+ Designer(s): Daniel S. Donnelly
+ Released: January 1996
+Part 1 of the "Housecleaning" series.
+
+A Near Death Experience
+
+ Designer(s): Daniel S. Donnelly
+ Released: February 1996
+Part 1 of the "Soul" series.
+
+The Stroke of Midnight
+
+ Designer(s): Brian Burr
+ Released: February 1996
+
+Coming Attractions
+
+ Designer(s): Daniel S. Donnelly
+ Released: February 1996
+
+Dangerous Alliances
+
+ Designer(s): Alex Lombardi
+ Released: February 1996
+Part 1 of the "The Living City at War" series.
+This module was re-released as part of the Adventurer's Guild organized play program in 1999.
+
+Stop the Pack Train
+
+ Designer(s): Daniel S. Donnelly
+ Released: March 1996
+
+Hands of Mohammed
+
+ Designer(s): Robert Wiese
+ Released: March 1996
+Part 2 of the "Mohammed" series.
+
+Mine Your Own Business
+
+ Designer(s): Andrew Rothstein
+ Released: March 1996
+Part 1 of the "Bartold Brothers" series.
+
+Seeds of Discontent
+
+ Designer(s): Christopher B. Ravlin
+ Released: March 1996
+Part 4 of the "A Troubador's Reprise" series.
+
+Hall of the Black Phoenix
+
+ Designer(s): Christopher B. Ravlin
+ Released: March 1996
+Part 5 of the "A Troubador's Reprise" series.
+
+Brotherhood of Darkness
+
+ Designer(s): Christopher B. Ravlin
+ Released: March 1996
+Part 6 of the "A Troubador's Reprise" series.
+
+Not Quite Feeling Myself
+
+ Designer(s): Glen Goodwin
+ Released: March 1996
+
+Opposites Attract
+
+ Designer(s): Daniel S. Donnelly
+ Released: March 1996
+
+Altruists Only Need Apply
+
+ Designer(s): Frank Timar
+ Released: April 1996
+Part 1 of the "Vengeance" series.
+
+Protective Custody
+
+ Designer(s): John Harnes
+ Released: April 1996
+Part 2 of the "On Patrol" series.
+
+Braving the Elements
+
+ Designer(s): Todd Kline
+ Released: April 1996
+
+Troubled Waters
+
+ Designer(s): Ray Delgado
+ Released: April 1996
+Part 1 of the "Giant" series.
+
+A Spell of Bad Weather
+
+ Designer(s): Tom Prusa
+ Released: April 1996
+Part 2 of the "The Living City at War" series.
+This module was re-released as part of the Adventurer's Guild organized play program in 1999.
+
+Courtly Courtesies
+
+ Designer(s): Richard L. Dold
+ Released: May 1996
+
+Banner Day
+
+ Designer(s): Gail Reese
+ Released: May 1996
+
+A Knight in the Big House
+
+ Designer(s): Daniel S. Donnelly
+ Released: May 1996
+
+Attention Shoppers
+
+ Designer(s): Daniel S. Donnelly
+ Released: May 1996
+Part 1 of the "Notoriety" series.
+
+Slaves to Fashion
+
+ Designer(s): Ed Gibson
+ Released: May 1996
+Part 5 of the "Gathering Darkness" series.
+
+Unfinished Business
+
+ Designer(s): Troy Daniels
+ Released: May 1996
+Part 1 of the "Unfinished Business" series.
+
+Your Business is Mine Business
+
+ Designer(s): Andrew Rothstein
+ Released: May 1996
+Part 2 of the "Bartold Brothers" series.
+
+Small Threat
+
+ Designer(s): Cisco Lopez
+ Released: May 1996
+Part 1 of the "Small" series.
+
+The Water Babies
+
+ Designer(s): Rick Silva
+ Released: May 1996
+
+Innocent Lost
+
+ Designer(s): Cisco Lopez
+ Released: May 1996
+
+Special Delivery
+
+ Designer(s): Robert Wiese
+ Released: May 1996
+This module was re-released as part of the Adventurer's Guild organized play program in 1998.
+
+Big Trouble
+
+ Designer(s): Bob Tomihiro, Lisa Tomihiro
+ Released: June 1996
+
+Everybody Loves a Clown (A Dwarven Nightmare)
+
+ Designer(s): Doug Smith
+ Released: June 1996
+
+Foolish Pride
+
+ Designer(s): Daniel S. Donnelly
+ Released: June 1996
+Part 3 of the "The Living City at War" series.
+This module was re-released as part of the Adventurer's Guild organized play program in 1999.
+
+Love and Death on the Vesper River
+
+ Designer(s): Jean Rabe
+ Released: June 1996
+
+The Search for the Truth
+
+ Designer(s): Daniel S. Donnelly
+ Released: June 1996
+Part 4 of the "The Living City at War" series.
+This module was re-released as part of the Adventurer's Guild organized play program in 1999.
+
+The Only Thing to Fear
+
+ Designer(s): Wayne Melnick
+ Released: June 1996
+Part 3 of the "Wild Magic" series.
+
+Elements of an Assassin
+
+ Designer(s): John Bentas
+ Released: June 1996
+
+He Who Laughs...
+
+ Designer(s): Gail Reese
+ Released: July 1996
+
+Horseplay
+
+ Designer(s): George Aber
+ Released: July 1996
+
+One Giant, Coming Right Up
+
+ Designer(s): Ray Delgado
+ Released: July 1996
+Part 2 of the "Giant" series.
+
+Peaking Around
+
+ Designer(s): George Aber
+ Released: July 1996
+
+Skeletons in the Closet
+
+ Designer(s): Frank Timar
+ Released: July 1996
+Part 2 of the "Vengeance" series.
+
+The Longest Night
+
+ Designer(s): Roger Rhodes
+ Released: July 1996
+Part 5 of the "The Living City at War" series.
+This module was re-released as part of the Adventurer's Guild organized play program in 1999.
+
+With Great Risks
+
+ Designer(s): J. Allan Fawcett
+ Released: July 1996
+
+A Shipwreck for Kassy
+
+ Designer(s): Daniel S. Donnelly
+ Released: July 1996
+
+Playing Pieces
+
+ Designer(s): Theron Martin
+ Released: July 1996
+
+Grandmason Salt & Stone Co
+
+ Designer(s): James Buchanan
+ Released: July 1996
+
+In the Eyes of Revenge
+
+ Designer(s): John Bentas
+ Released: July 1996
+
+A Wish for Temptation
+
+ Designer(s): Glen Goodwin
+ Released: August 1996
+Part 6 of the "The Living City at War" series.
+This module was re-released in Polyhedron #123 in 1996.
+
+Destrier's Despair
+
+ Designer(s): Dave Kelly
+ Released: August 1996
+
+The Orcslayer Scroll
+
+ Designer(s): David W. Baker
+ Released: August 1996
+
+The Test of Fate's Strength
+
+ Designer(s): Daniel S. Donnelly
+ Released: September 1996
+Part 1 of the "Tarot" series.
+
+To Gain a Lady's Favor
+
+ Designer(s): Dave Kelly
+ Released: September 1996
+
+Overseer
+
+ Designer(s): Larry Douglas
+ Released: September 1996
+
+Strange Bedfellows
+
+ Designer(s): Ed Gibson
+ Released: September 1996
+Part 6 of the "Gathering Darkness" series.
+
+Whistling in the Dark
+
+ Designer(s): Gregory Dreher
+ Released: September 1996
+Part 7 of the "The Living City at War" series.
+This module was re-released as part of the Adventurer's Guild organized play program in 1999.
+
+Simple Man
+
+ Designer(s): Daniel S. Donnelly
+ Released: September 1996
+
+Beauty and the Beholder
+
+ Designer(s): Michael Watts
+ Released: September 1996
+Part 1 of the "Trumpeter" series.
+
+Night Shift
+
+ Designer(s): Michael Watts
+ Released: September 1996
+Part 2 of the "Trumpeter" series.
+
+Last Dance of the Fire Mage
+
+ Designer(s): David Santana
+ Released: September 1996
+
+After the Ball is Over
+
+ Designer(s): Roger Rhodes
+ Released: October 1996
+
+Sojourn
+
+ Designer(s): David Santana
+ Released: October 1996
+Part 1 of the "Sojourn" series.
+
+Dreamwraith
+
+ Designer(s): Richard L. Dold
+ Released: November 1996
+
+Too Many Chefs
+
+ Designer(s): Sean Flaherty
+ Released: November 1996
+
+Hero's Welcome
+
+ Designer(s): Bob Tomihiro
+ Released: November 1996
+Part 1 of the "Hero" series.
+
+Something Weird in Uncle Rupert's Cellar
+
+ Designer(s): Jean Rabe
+ Released: November 1996
+
+Tears of Selûne
+
+ Designer(s): Frank Timar
+ Released: November 1996
+Part 2 of the "Selûne" series.
+
+Dark Maiden
+
+ Designer(s): George Fulda
+ Released: November 1996
+
+Renegades
+
+ Designer(s): Gary Watkins
+ Released: November 1996
+Part 8 of the "The Living City at War" series.
+
+Case of Weatherbeaten Book
+
+ Designer(s): Steve Hardinger
+ Released: November 1996
+Part 3 of the "RBBI" series.
+
+---
+
+## Living City/1997
+
+Living City modules published in 1997.
+
+Modules
+The Deluge
+
+ Designer(s): Wayne Melnick
+ Released: January 1997
+
+Down Below
+
+ Designer(s): John Richardson
+ Released: January 1997
+
+Passing the Torch
+
+ Designer(s): Daniel S. Donnelly
+ Released: January 1997
+
+No Business Like It
+
+ Designer(s): Michael Smith
+ Released: February 1997
+
+Some Enchanted Evening
+
+ Designer(s): Bob Tomihiro
+ Released: February 1997
+
+Waterfalls
+
+ Designer(s): David Samuels
+ Released: January 30, 1997
+Part 1 of the "Elementally Speaking" series.
+
+Orcs Galore
+
+ Designer(s): Daniel S. Donnelly
+ Released: February 1997
+Part 2 of the "Notoriety" series.
+
+Much Ado About Mutton
+
+ Designer(s): Andrew Hauptman
+ Released: February 1997
+
+To Boldly Go...
+
+ Designer(s): John Bentas
+ Released: February 1997
+Part 1 of the "Boldly" series.
+
+Legends
+
+ Designer(s): Ray Delgado
+ Released: March 1997
+
+Mirror, Mirror
+
+ Designer(s): Gregory A. Dreher
+ Released: March 1997
+
+Slippery When Wet
+
+ Designer(s): Daniel S. Donnelly
+ Released: March 1997
+
+The Value of a Miracle
+
+ Designer(s): Robert Wiese
+ Released: March 1997
+
+Up, Up and Away
+
+ Designer(s): Daniel S. Donnelly
+ Released: March 1997
+
+To Fly
+
+ Designer(s): Bob Tomihiro
+ Released: March 1997
+
+The Scarlet Picaros
+
+ Designer(s): Ann Marie Paulukonis
+ Released: March 1997
+
+A Walk on the Wildside
+
+ Designer(s): Theron Martin
+ Released: April 26, 1997
+Part 9 of the "The Living City at War" series.
+
+Best Served Cold
+
+ Designer(s): Kim Winz
+ Released: April 1997
+
+Good Evening Ladies & Gentlemen
+
+ Designer(s): Jean Rabe
+ Released: April 1997
+
+Blaze of Glory
+
+ Designer(s): Tom Prusa
+ Released: April 1997
+
+Dawn's Early Light
+
+ Designer(s): Daniel S. Donnelly
+ Released: April 1997
+Part 10 of the "The Living City at War" series.
+
+It Happened One Night
+
+ Designer(s): Roger Rhodes
+ Released: April 1997
+
+To Protect and Serve
+
+ Designer(s): Joe Cirillo
+ Released: April 1997
+
+Wandering Heartwander
+
+ Designer(s): George Fulda
+ Released: April 1997
+Part 1 of the "Jewel of Putrescence" series.
+
+Potions, Lotions, & Notions: Closed
+
+ Designer(s): Todd Smart
+ Released: May 1997
+
+...The Gathering
+
+ Designer(s): Brandon Kavanagh, George Fulda
+ Released: May 1997
+
+The Stars and Moon Above
+
+ Designer(s): Daniel S. Donnelly
+ Released: May 1997
+Part 2 of the "Tarot" series.
+
+At Death's Door
+
+ Designer(s): Tom Prusa
+ Released: May 1997
+
+Stranded in Sarbreen
+
+ Designer(s): Michael Griffith
+ Released: May 1997
+
+Very Personal Request
+
+ Designer(s): Joseph Ward Jr.
+ Released: May 1997
+
+When the Maul Falls
+
+ Designer(s): Don Milinkovich, Keith Polster
+ Released: June 1997
+
+Going Ape
+
+ Designer(s): Jean Rabe
+ Released: June 1997
+
+Living: Impossible
+
+ Designer(s): Michael Capps
+ Released: June 1997
+
+Descent into the Deep
+
+ Designer(s): Roger N. Bert, Tom Nolan
+ Released: June 1997
+
+The Fisherman's Tale
+
+ Designer(s): Roger N. Bert, Tom Nolan
+ Released: June 1997
+
+Bursting Your Bubble
+
+ Designer(s): Sean Flaherty
+ Released: June 1997
+
+A Hard Place
+
+ Designer(s): John Richardson
+ Released: June 1997
+
+Aethalynmur's Wings
+
+ Designer(s): Jean Rabe
+ Released: June 1997
+Part 1 of the "Aethalynmur" series.
+
+Sea of Tears
+
+ Designer(s): Bob Tomihiro
+ Released: June 1997
+
+Knight Moves
+
+ Designer(s): Wayne Straiton
+ Released: July 1997
+
+Hunting Party
+
+ Designer(s): Joe Cirillo
+ Released: July 1997
+
+Baby's Got Blue Eyes
+
+ Designer(s): Gail Reese
+ Released: July 1997
+
+Vengeance
+
+ Designer(s): Frank Timar
+ Released: July 1997
+Part 3 of the "Vengeance" series.
+
+Fire's Eye
+
+ Designer(s): David Samuels
+ Released: July 1997
+Part 2 of the "Elementally Speaking" series.
+
+In Search of Beauty
+
+ Designer(s): George Fulda
+ Released: July 1997
+Part 2 of the "Jewel of Putrescence" series.
+
+Light in the Lover's Eye
+
+ Designer(s): Daniel S. Donnelly
+ Released: July 1997
+Part 3 of the "Tarot" series.
+
+A Last Request
+
+ Designer(s): Cisco Lopez
+ Released: July 1997
+
+Who's to Blame
+
+ Designer(s): Gregory A. Dreher
+ Released: July 1997
+Part 1 of the "CatCompilation" series.
+
+Cat and Mouse
+
+ Designer(s): Jeremy Fowler-Lindemulder
+ Released: July 1997
+
+Make a Wish
+
+ Designer(s): Steve Hardinger
+ Released: August 1997
+
+Pirate of Hearts
+
+ Designer(s): Daniel Cooper
+ Released: August 1997
+Part 1 of the "Cracked Jewel Saga" series.
+
+Stairway to Heaven
+
+ Designer(s): Daniel S. Donnelly
+ Released: August 1997
+
+Awakening the Beast
+
+ Designer(s): Larry Douglas
+ Released: September 1997
+
+Housecleaning 2
+
+ Designer(s): Daniel S. Donnelly
+ Released: September 1997
+Part 2 of the "Housecleaning" series.
+
+Saviors of Sarbreen
+
+ Designer(s): Robert Wiese
+ Released: September 1997
+
+Sojourn II: Wrath of Athuman
+
+ Designer(s): David Santana
+ Released: September 1997
+Part 2 of the "Sojourn" series.
+
+Very Serious Matter
+
+ Designer(s): Paul Pederson
+ Released: September 1997
+Part 1 of the "Saga of the Diabolical Grasp" series.
+
+Victus Enim Vermis
+
+ Designer(s): Larry Douglas
+ Released: September 1997
+
+For the Sake of Goodness
+
+ Designer(s): Liz Black
+ Released: September 1997
+
+Ascension
+
+ Designer(s): Shy Aberman, Sean Flaherty
+ Released: November 1997
+
+Knight to Remember
+
+ Designer(s): Pete Winz
+ Released: November 1997
+
+Reconstruction
+
+ Designer(s): Bob Tomihiro
+ Released: November 1997
+Part 2 of the "Hero" series.
+
+---
+
+## Lindon Huntcrown
+
+Lindon Huntcrown was a member of the Huntcrown noble family of Cormyr in the late 15 century DR. He was the short-lived husband of Queen Raedra Obarskyr but was exposed as an agent of Netheril. He was publicly executed when she discovered his hidden correspondences, bringing significant shame and disbelief to his parents.
+
+Appendix
+
+Appearances
+
+References
 
 ---
 
@@ -5601,6 +15002,1607 @@ Judgment Day
 
  Designer(s): John Hinkle, Todd Wallen
  Released: November 1998
+
+---
+
+## Living City/2001
+
+Living City modules published in 2001.
+
+Modules
+Amber's Story
+
+ Designer(s): Robert Wiese
+ Released: January 2001
+
+Tunnel Vision
+
+ Designer(s): James Traino, Frank Timar
+ Released: January 2001
+Part 5 of the "Destiny of Dwarves" series.
+
+Ineffable Tome
+
+ Designer(s): Gregory A. Dreher
+ Released: January 2001
+
+Dragon's Rage
+
+ Designer(s): Jason Nichils, Troy Daniels
+ Released: January 2001
+Part 5 of the "Cycle of Dragons" series.
+
+Thay Came from East
+
+ Designer(s): Mick Nelson
+ Released: February 2001
+
+Payback
+
+ Designer(s): Roger Rhodes
+ Released: February 2001
+
+Pirates of Yore
+
+ Designer(s): Daniel Cooper
+ Released: March 2001
+
+Something Fishy Going On
+
+ Designer(s): Morrie Mullins
+ Released: March 2001
+
+Pilgrimage
+
+ Designer(s): Andrew Hauptman
+ Released: March 2001
+Part 13 of the "Cracked Jewel Saga".
+
+A Squire's First Errand
+
+ Designer(s): Lee Sharp, Michelle Sharp
+ Released: March 2001
+
+When Chaos Reigns
+
+ Designer(s): Alan Bonnin
+ Released: March 2001
+
+Full Circle
+
+ Designer(s): David Samuels
+ Released: March 2001
+Part 5 of the "Elementally Speaking" series.
+
+The Good, the Undead, and the Ugly
+
+ Designer(s): David Santana
+ Released: March 2001
+Part 3 of the "Flight of Arrows" series.
+
+Missing
+
+ Designer(s): Sherrie Masdon
+ Released: March 2001
+
+Cowboy Diplomacy
+
+ Designer(s): John Bentas
+ Released: April 2001
+
+The Gift of Song
+
+ Designer(s): Catie Martolin, Rhonda Hutcheson
+ Released: April 2001
+
+Halur a'Moradin
+
+ Designer(s): Frank Timar
+ Released: April 2001
+Part 6 of the "Destiny of Dwarves" series.
+
+Dragon's Law
+
+ Designer(s): Daniel Cooper
+ Released: April 2001
+
+Swan Song
+
+ Designer(s): C.E. Caldwell
+ Released: April 2001
+
+Lost in Love
+
+ Designer(s): Mark Templeton
+ Released: May 2001
+
+A Night at Sharkey's Bar and Grill
+
+ Designer(s): Tom Nolan
+ Released: May 2001
+Part 1 of the "Devil of the Deep" series.
+
+Wild Ride
+
+ Designer(s): Christopher Jensen
+ Released: May 2001
+Part 1 of the "Forest of Lethyr" series.
+
+Queen of the Merchants
+ Designer(s): Robert Wiese
+ Released: May 2001
+
+Art Imitates Life
+
+ Designer(s): Todd Landrum, Lance Thomas, Richard Cain
+ Released: May 2001
+
+Broken Glass
+
+ Designer(s): Joseph Russell
+ Released: May 2001
+
+Family Matters
+
+ Designer(s): Rebecca Ward, Bill Ward
+ Released: May 2001
+
+Unmasked
+
+ Designer(s): Mark Grotewold, Chris Teegarden
+ Released: May 2001
+
+Family Ties
+
+ Designer(s): Rebecca Ward, Bill Ward
+ Released: May 2001
+Sequel to Family Matters'Starboard Stuff
+
+ Designer(s): Matt Lau
+ Released: May 2001
+Part 1 of the "Umberlee's Wrath" series.
+
+Swift Justice
+
+ Designer(s): Brian Chalmers
+ Released: May 2001
+
+Umberlee's Treasure
+
+ Designer(s): Matt Lau
+ Released: May 2001
+Part 2 of the "Umberlee's Wrath" series.
+
+Friend of a Friend
+
+ Designer(s): Jean Rabe
+ Released: June 2001
+
+The Case of the Missing Chef
+
+ Designer(s): Harold Johnson
+ Released: June 2001
+
+Too Much of Me Is Magic
+
+ Designer(s): Jean Rabe
+ Released: June 2001
+
+Last Defense
+
+ Designer(s): Barratt Moy
+ Released: June 2001
+
+No Stone Unturned
+
+ Designer(s): Wesley Lovell
+ Released: June 2001
+
+For Love Lost
+
+ Designer(s): Gary Labrecque
+ Released: July 2001
+
+Luck, Law, and Life
+
+ Designer(s): Gail Reese
+ Released: July 2001
+Part 3 of the "Luck of Tyr" series.
+
+Hawthorn Crown
+
+ Designer(s): Andrew Jaremkow
+ Released: July 2001
+
+Raison d'Être
+
+ Designer(s): Stephanie Zuiderweg
+ Released: July 2001
+
+Silence Going for Death
+
+ Designer(s): Jim Roberts
+ Released: August 2001
+
+Hawk's Pride
+
+ Designer(s): Daniel Perez
+ Released: August 2001
+
+Forever Hold Your Peace
+
+ Designer(s): Catie Martolin
+ Released: August 2001
+
+A Tale of Two Towers
+
+ Designer(s): Bill Kerney
+ Released: August 2001
+
+Street Survivors
+
+ Designer(s): Phil Thompson
+ Released: September 2001
+
+Once Upon a Time in the Vast
+
+ Designer(s): David Santana
+ Released: September 2001
+Part 4 of the "Flight of Arrows" series.
+
+Death Rides Brown Wings
+
+ Designer(s): Lee Sharp, Michelle Sharp
+ Released:''' November 2001
+
+---
+
+## Living City/2002
+
+Living City modules published in 2002.
+
+Modules
+A Day at the Races
+
+ Designer(s): Tom Nolan, Jason Krynicky
+ Released: January 1, 2002
+Part 2 of the "Devil of the Deep" series.
+
+News of the World
+
+ Designer(s): Tom Nolan
+ Released: January 24, 2002
+Part 3 of the "Devil of the Deep" series.
+
+A Kind of Magic
+
+ Designer(s): Tom Nolan
+ Released: January 24, 2002
+Part 4 of the "Devil of the Deep" series.
+
+No Good Deed Goes Unpunished
+
+ Designer(s): Marjorie Copeland, Gregg Peevers
+ Released: January 24, 2002
+
+Future Problems
+
+ Designer(s): Jason White
+ Released: March 1, 2002
+
+Ow, Quit It!
+
+ Designer(s): Jeff Hertel
+ Released: March 1, 2002
+
+Sea Dog Stories
+
+ Designer(s): Ray Mosco
+ Released: March 1, 2002
+
+The Shaft
+
+ Designer(s): Jason White
+ Released: March 1, 2002
+
+The Hive
+
+ Designer(s): Scott J. Magner
+ Released: April 5, 2002
+
+The Offending Forest
+
+ Designer(s): Joe Harney
+ Released: April 5, 2002
+
+Scum and Villainy
+
+ Designer(s): Scott J. Magner
+ Released: April 5, 2002
+
+Servants of the People
+
+ Designer(s): Scott J. Magner
+ Released: April 5, 2002
+
+---
+
+## Light in the Lover's Eye
+
+Light in the Lover's Eye is a one round adventure module set in the Living City organized play program and the third installment of the Tarot series of modules. It was published in 1997, and is intended for adventurers of all levels.
+
+Index
+
+Characters
+
+Creatures
+
+Locations
+
+Magic
+
+Religions
+
+Miscellaneous
+
+Appendix
+Background
+The events of this module were later recounted in The Trumpeter 1-6.
+Notes
+
+References
+
+---
+
+## Limeleech
+
+Limeleech was a drow professor and a member of the Society of Brilliance during the late 15 century DR.
+
+Personality
+She had the self-assurance that she was both exceptionally smart and exceptionally good-looking. Her ambition was to attain fame for her scholarly achievements.
+
+Relationships
+She couldn't help but feel jealous of Blurg's impressive intellect and she didn't hide it.
+
+History
+In the, Limeleech lived in the Lodge of the Society of Brilliance and was actively working on her research paper, revealing that gnolls' heightened aggression could be attributed to hyena mite infections.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Linsella
+
+Linsella was a hin True Soul of the Absolute in the Moonrise Towers's kitchens during the late 15 century DR.
+
+Description
+Linsella was a halfling woman with dark skin and huge brown eyes. Her black hair was in locks, and her face was decorated with a simple chin tattoo. Linsella proudly wore an amulet of the Absolute atop her simple dark blue leathers.
+
+History
+Shortly before the, Linsella rose in the ranks of the Absolutists and stood before her "goddess", receiving her blessing. In reality, Linsella was a zealot and became infected by the Absolute with an illithid tadpole. This gave Linsella psionic abilities that allowed her to "rewrite the lives of her faithful" – psychic control. Using these mental tethers, True Soul Linsella dominated three gnolls. She renamed her new slaves to Tomelia, Barnabus, and Timothy. Linsella claimed that she'd quelled the gnolls' savage nature and showed them a "gentler way." The halfling cultist truly believed in the goodliness of her actions and believed in "Her Design." The monstrous humanoids were instructed to work in the kitchen, and Barnabus was put in charge of soups. Yet bloodthirstiness and rage still seethed underneath the painful mental domination.
+
+When the gnolls and their mistress encountered a group of the True Soul heroes of Baldur's Gate, they may had been helped by severing Linsella's mental leash, leading to the hin's swift death. Some said that the heroes could've dominated the gnolls themselves, while by other accounts, the three gnolls could've remained under the cult's control and perished with Linsella in an assault by Harpers and the True Soul heroes on the Moonrise Towers.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+External links
+
+References
+
+---
+
+## Lithium
+
+Lithium was an elemental material found in the Realms.
+
+Availability
+In, the Elemental Store of Karsus Enclave sold pure elemental lithium bricks for 6 sp per .
+
+Usage
+ Lithium was used in the production of explosive materials by the ancient Netherese.
+
+Appendix
+External Links
+
+References
+
+---
+
+## Lightning's Folly Wine
+
+Lightning's Folly Wine was a variety of rare wine produced in a tiny winery in Tantras in the late 14 century DR.
+
+History
+In the, Jesperata, an ex-cleric of Talos turned vintner, attended the year-end celebration festival in the town of Mossbridges in the Vast. Jesperata's small wine-making business began very recently circa 1371 DR, and she only brought two bottles to the wine-tasting and rating competition that took place at the festival. Lightning's Folly Wine was a wonderfully tasting drink, possibly the best among the contestants, despite its scant quantity. Jesperata sold a single serving of her wine for a silver piece but limited it to one per person.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Library of Netheril
+
+The Library of Netheril was a prominent library and archive in Eileanar.
+
+Location
+The Library was on the northwestern edge of the city between the Shadow Consortium and Constabulary Branch One.
+
+Services
+The Library contained an astounding collection of tomes and scrolls on all manner of magical and mundane subjects, though still inferior to those found in Yeoman's Loft. The massive amount of texts were archived and catalogued by head librarian Vincent with the assistance of Linden and Penruddock, and without their expertise it would be impossible to find any particular text. Beltcher, Degliangeli, and Ebrard were three highly knowledgeable historians and the Library's most enthusiastic visitors, who spent much of their time examining the documents within.
+
+Appendix
+References
+
+---
+
+## Linden
+
+Linden was a Netherese arcanist who was a librarian at the Library of Netheril in Eileanar until its destruction in .
+
+Activities
+Linden worked alongside Vincent and Penruddock to catalogue the texts of the library, and help visitors find them on demand.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Lirremar
+
+Lirremar, the Sixth City of the Sword, was one of the main cities of Jhaamdath's imperial core.
+
+Geography
+The Sixth City was a few days west of Golmuth and Gharrent on the southern foothills of the Orsraun Mountains. After the destruction of Jhaamdath, the ruins were built upon by the city of Hlondeth.
+
+History
+Lirremar was founded on Jhaamdath's western frontier in  as the realm's sixth major city. Its foundation was publicly justified by the ongoing wars to the west between Coramshan and High Shanatar.
+
+Jhaamdath entered into a short era of aggressive imperial conquest in, which resulted in the deforestation of the Chondalwood and the slaughter of the Nikerymath elves. The elves retaliated in the, by performing a High Magic ritual that caused a huge wave from the Inner Sea to wash over the heartlands of Jhaamdath. Though the new Vilhon Reach cut deep into the interior, the ruins of Lirremar remained above water and were eventually resettled as the port city of Hlondeth in 50 DR.
+
+The nearby sunken lands of Jhaamdath were suddenly revealed by dropping sea levels following the Spellplague in 1385 DR, becoming the Vilhon Wilds. These momentous changes were rapidly reverted in 1486 DR when the low-lying ruins were submerged once more by the Great Rain and Second Sundering.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Lindavar
+
+Lindavar was a human mage and a member of the War Wizards of Cormyr in the mid–14 century DR.
+
+Personality
+He was a bookish and unpretentious sort, was shy and would say little to strangers, but he was curious and willing to investigate in a muddy swamp where others feared to tread. He was also the type to load his own baggage and sit in the front of a carriage with the driver than alone in the back. He enjoyed drinking clarry and was known to have read the Camber Fosrick detective stories, and even quoted them to others.
+
+Description
+He was of average height and had a thin build, and wore a slouch hat and a dusty brown cloak whilst traveling. He snored.
+
+Relationships
+He was a close acquaintance of the retired War Wizard Benelaius, who mentored Lindavar and chose him as his successor within the College of War Wizards. They communicated extensively by mail, with sizeable letters exchanged almost weekly.
+
+Abilities
+He was skilled in alchemy and could identify poisons. He was also adept at using his wits and ratiocinative ability to analyze and deduce, rather than relying on magic.
+
+History
+
+In Eleint of the, the young War Wizard was having "problems of a professional nature" as Benelaius put it. For help resolving these, Lindavar visited his mentor at his cottage in Ghars, the first time he had done so. Benelaius had his servant Jasper purchase some clarry for his stay. Lindavar came via overnight coach and arrived in Ghars early in the morning of Eleint 17 and waited at the Sheaf of Wheat until Jasper met him to take on a carriage to Benelaius's house by the Vast Swamp. En route, however, Lindavar spotted a body near the road and, despite Jasper's fears, went to investigate. They found it to be local blacksmith's assistant Dovo, dressed up as the ghost of the bandit chieftain Fastred and decapitated. Lindavar took the carriage to fetch Benelaius, leaving Jasper to guard the scene and begin searching for clues, and returned with the former War Wizard, who in turn had summoned Captain Flim of the local Purple Dragons garrison, Mayor Tobald, and Doctor Braum. The group examined the scene of the crime and, at Benelaius's suggestion, Tobald appointed him, Lindavar, and Jasper as honorary magistrates to investigate the murder. Thereafter, however, Lindavar remained at Benelaius's cottage aiding in his research while Jasper conducted interviews and investigations in town. The pair of them met Jasper with concern after he was chased by a monster late that night.
+
+Over breakfast the following day, they discussed the case, including the accounts book stolen from the Bold Bard tavern and the times of ghost sightings collected by Jasper, and they all shared theories and findings. They were interrupted by news from Flim, Tobald, and the gnome Darvik of another murder, that of royal envoy Grodoveth. Subsequently, Darvik guided Lindavar, Flim, and Jasper through the Vast Swamp to open tomb, wherein lay Grodoveth's body. They investigated the scene of the crime and Lindavar discovered it to be the legendary hidden tomb of Fastred himself. Afterward, Darvik led them out and headed back to his holding, though they had to evade a thornslinger tree on the way. Back at the cottage, Lindavar, Benelaius, and Jasper discussed their findings. At his mentor's request, Lindavar analyzed a sample he'd taken from Tobald during a medical examination and confirmed it to be the lethal blackweed poison. Late that evening, Lindavar and Benelaius met Jasper as he returned with Kendra, who'd been injured in a hydra attack. Lindavar helped her into the cottage and aided Benelaius in treating her wound. Afterward, they received a message from Vangerdahast ordering them to investigate Grodoveth's murder and the swift execution of the killer by Captain Flim. Lindavar was concerned at the lack of a formal arrest and trial, but accepted Benelaius's explanation of the need to avoid controversy because of Grodoveth's familial relation to King Azoun IV.
+
+Finally, at midnight on Eleint 20, Benelaius had all the suspects assembled at his cottage by Flim and the Purple Dragons. He credited Lindavar with solving much of the case and bade him to lead events and provide exposition. They revealed that Mayor Tobald and Dovo were spies for the Iron Throne and absolved Grodoveth. Furthermore, they exposed a plot to poison the whole town and thereby assassinate the visiting Grand Council of the Merchants' Guild. The guilty Tobald escaped into the Vast Swamp and Lindavar fetched a hooded lantern so Flim could pursue, but it was too late—the real ghost of Fastred scared Tobald into a bog, where he drowned. Afterward, Benelaius let Lindavar take the credit and the merchant Barthelm Meadowbrock promised to sing his praises, so the young War Wizard's standing amongst his peers was set to improve, as well as his own self-esteem. On the way back to Ghars and then Suzail the following morning, Lindavar encouraged Jasper to look after Benelaius. In fact, unbeknownst to Lindavar, the version of events he presented was not entirely true.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Light Pump
+
+The Light Pump was an unlikely device created in Myshella during the time of Netheril.
+
+Description
+The device was split into five parts. One of them, the Body was a large L-shaped block of stone, on which the other parts were mounted. The mounting block bore a flower-like device with metal petals, some of which carried lenses; these could be folded inside, once the second part, a fist-sized ruby called the Heart, was placed inside. The other three parts were metal staves each topped with a  round ruby, titled Compassion, Respect, and Pity. Each staff had a prismatic cross-section: one with eight sides, one with six sides, and one circular. Each could only fit into the correct socket on the device.
+
+Powers
+Once assembled, the contraption could concentrate light into deadly rays. Those rays dealt moderate damage but, most importantly, were not magical at all so they could pierce the defenses of creatures immune to magic.
+
+Using the weapon to destroy the ruby core of the stone juggernaut attacking Myshella would cause it to explode, but it was the only way to break it.
+
+History
+The light pump was ideated by Garavan during the times of Netheril, as a response to a phaerimm device of mass destruction anticipated by the Myshellan diviners. They had foreseen a weapon come to slay them, but to their surprise, it turned out to also be immune to magic and constantly lifedraining its surroundings, killing many of them before they managed to damage it. Garavan finally thought of the light pump, a device known elsewhere as a laser cannon, in order to defeat the construct.
+
+The device was never used, however, as the great mages of Myshella instead sacrificed themselves to hold off the weapon once it arrived.
+
+As of, the Light Pump was still hidden in a Myshellan temple, disassembled. The Body as half-buried under sand, while the others were held by four statues in the same room.
+
+Appendix
+External Links
+
+Appearances
+
+References
+
+---
+
+## Livaan
+
+Livaan was a power-hungry cultist of Tiamat, the The Dark Lady, active in the late 15 century DR.
+
+Description
+Livaan was a dragonborn, who wielded flaming magics. She was adorned in ceremonial garb of the Cult of Tiamat.
+
+Abilities
+Livaan's ambition in service of Tiamat knew no bounds. As a shaman, she burned everything in her way, and the destruction fueled her magical powers.
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Listless
+
+Listless was sailor from the Lower City of Baldur's Gate in late 15 century DR.
+
+Description
+Listless was a fair-skinned human man with sharp features, brown hair, and blue eyes. He wore dockworker's commoner clothes and a skullcap while aboard his vessel.
+
+History
+In the, Listless was a lowly sailor and laborer who worked alongside wood elf Kadugan under Bosun Sharley, who worked her crew hard. Kadugan was tasked with unloading the boat but lamented the fact that Bosun did not land under one of the docks' unloading cranes, making unloading that much harder for Kadugan and Listless, while Listless complained about cargo as heavy as lead and his lumbago issues.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Li-Raz
+
+Li-Raz was a city in the Plain of Horses of northwestern Kara-Tur or the northeastern Hordelands. It was a home and the capital city of the Fankiang tribe and was the largest and most peaceful, prosperous, and stable city of the Plain of Horses region.
+
+Geography
+It stood in the southwestern Chigidi Mountains, just east of the dry steppelands of the Chukei Plains. Roads led northwest to the subject city of Haxkhun and southwest to Jugicha.
+
+Government
+Circa, the qaghan of Li-Raz and the Fankiang tribe was the autocratic Chuqali Shilai, who kept the city stable and tightly controlled by his army. His strict administrative system was adopted by many other large tribes and cities of the region. In fact, Shilai had little love for administration himself and delegated most responsibilities to subordinates, and even ordered executions for administrators who pestered him with details and tasks.
+
+Defenses
+The city had a surprisingly large standing army: 12,500 mounted archers, 1,500 mounted swordsmen, and 1,000 mounted spearmen, all of them barbarians. During wartime or other crisis, the city could muster an additional 45,000 mounted archers, 3,000 mounted swordsmen, and 3,000 mounted spearmen. They had elite units known as ordo commanded directly by the qaghan and additional elite soldiers, she-li, with no dedicated commanders. The qaghan also commanded several units called keshig for his personal guard. One whole keshig was assigned to simply retrieving Shilai's precious silver arrows following a battle.
+
+Notable Locations
+Qaghan Chuqali reigned from a compound called the Tent of the Bows and Quivers, which was considered the grandest building in all the Plain of Horses.
+
+The Temple of Seven Bells was the most renowned religious building in Li-Raz.
+
+Society
+Formerly, Li-Raz was rent by feuds and fighting between its various factions, until Shilai passed laws that divided the people into two different classes. The Western Court was composed of people who descended from the original settlers, while the Eastern Court was composed of people who descended from those hsing (clans) that had been subjugated or annexed by the Fankiang tribe of Li-Raz. The Western Court found unity through their shared contempt for the Eastern Court, while the Eastern Court had no power anyway and any revolts they attempted were swiftly crushed by the army. In this brutal way, the city was kept peaceful, orderly and stable.
+
+To curb the growing numbers of excess, idle lamas in the city and growing less and less tolerant of them, the leaders of Li-Raz had a number of laws designed to restrict their activities. Here, lamas were required to gain permission in order to travel and were prohibited from speaking to women in public, while acolytes must be aged at least 14 and were required to attend government-sponsored lectures on how terrible and pointless being a lama was.
+
+Relations
+Li-Raz's main rival was Jugicha, the city of the Tsu-tsu tribe and second-largest of the Plain of Horses. They maintained a precarious state of peace.
+
+The divided city of Haxkhun served primarily as a military outpost for Li-Raz and was the first line of defense against any attack on the Fankiang from the north or west. However, it depended entirely on Li-Raz for supplies and services. Moreover, although they were both of the Fankiang tribe, the people of Li-Raz looked down on the people of Haxkhun, who were resentful of their subordinate, second-class status. They let the people of Haxkhun simply fight amongst themselves, but when it got out of hand they dispatched their own soldiers to quell them. The leaders of Li-Raz also easily controlled the city's incompetent but cruel qaghan, Yitriq Rukku.
+
+Qaghan Qaland T'akk of the Igidujin tribe bore a special hatred for the Fankiang tribe, Li-Raz, and Qaghan Chuqali Shilai and directed raids against their herdmen and caravans.
+
+History
+Around, a band of rebels split from Li-Raz. They desired to found their own community, and so settled Jugicha. This triggered a realignment of the hsing (clans) of the Plain of Horses, ultimately giving rise to the Tsu-tsu tribe.
+
+Later, the Tsu-tsu sought to conquer Li-Raz. To this end, around, they made a treaty with the Kashghun and allied against the Fankiang, proposing they assault them from opposite sides. Although the Tsu-tsu attacked the Fankiang from the north, the Kashghun changed their mind. The Tsu-tsu were forced to withdraw.
+
+In, the Tsu-tsu qaghan Shajji Hoijarek hatched a scheme to lure the Fankiang into a trap. He ordered forty camels be stained white, as white camels were held to be sacred by the Fankiang, and left to graze a day's ride west of Li-Raz, where they would inevitably be spotted by Fankiang scouts or herdsmen. Tsu-tsu horsemen then lay in wait to ambush any Fankiang who came to round up these apparently sacred beasts. Fankiang herdsmen sighted these possibly valuable camels and reported them to qaghan Shilai, who dispatched soldiers and adventurers to retrieve them. This ambush may have led to battle or all-out war between the two tribes.
+
+Notable Inhabitants
+ Chuqali Shilai, qaghan of Li-Raz and the Fankiang
+ Jeorug Khalaga, high lama of Li-Raz and a popular local guide.
+
+Appendix
+References
+
+---
+
+## Linnacker
+
+The Linnacker, sometimes referred to as the Linnacher family, was a patriar family of Baldur's Gate that owned gem mines in Tethyr in the late 15 century DR.
+
+Description
+The Linnackers lived in a home that was situated to the district of Manorborn in Baldur's Gate, directly northeast from the Hall of Wonders and east from the Six Wise Machinists statue.
+
+History
+In the, Baldur's Gate became plagued by a series of murders and disappearances. The members of the Flaming Fist showed little interest in addressing the incidents, but after the patriar families of Caldwell, Oberon, and Linnacher became affected, the pressure from Flaming Fist demanding investigations from their superiors started to increase.
+
+Notable Members
+Fariza Linnacker, lady Ruth Linnacker's favorite granddaughter in the late 15 century DR.
+Flaev Linnacker, a member of the Linnacker family killed and burned by the Guild in 1492 DR.
+Rewth Linnacker, the eldest living sibling of the head of the family in 1492 DR.
+Ruth Linnacker, a member of the Parliament of Peers in 1492 DR.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Lieutenant Talbot's Moonshine
+
+Lieutenant Talbot's Moonshine was a variety of expensive magical moonshine found in the city of Waterdeep in the late 15 century DR.
+
+History
+The drink was on the menu at the Yawning Portal tavern of Waterdeep, stashed away in Durnan's cabinet. One serving of Lieutenant Talbot's Moonshine was priced at ten gold coins.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lightning's Lure Liqueur
+
+Lightning's Lure Liqueur was a variety of magical spirits named after the lightning lure spell, available in the city of Waterdeep in the late 15 century DR.
+
+History
+The enchanted beverage was on Yawning Portal tavern's menu in Waterdeep with its bottle stashed away in Durnan's cabinet. One serving of Lightning's Lure Liqueur was priced at ten gold coins.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Liontower
+
+The Liontower family was a noble house of Ravens Bluff.
+
+Family Tree
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Ligus
+
+Ligus was a ghoul servant of Mystic Carrion, a mummy lord who resided in the Lower City of Baldur's Gate in the late 15 century DR.
+
+History
+Ligus was slain and risen as an undead servant sometime before the . Mystic Carrion, who performed dark magic services for the wealthy clients from the Upper City, kept Ligus and other undead as his minions in Philgrave's Mansion in the Lower City. The manse was a mysterious and suspicious landmark that attracted attention due to the putrid stench of the dead that emanated from the building.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Liadan
+
+Liadan was a human Feloguard that stood watch over the showroom of Felogyr's Fireworks in Baldur's Gate in late 15 century DR.
+
+Description
+Liadan was a pale-skinned human woman with mousy-blonde hair. She was outfitted with a simple chainmail and a spear.
+
+History
+In the, as the Cult of the Absolute planted its roots in Baldur's Gate and ravaged the Western Heartlands, Felogyr's Fireworks shop fell under the cult's sway. Its proprietor, Avery Sonshal, was made into a True Soul and used the shop as a front for the cult's terrorist activities. During that time, Liadan was employed as a Feloguard, standing guard of the shop's first floor and Avery himself, as he dealt with regular customers, selling them fireworks. Liadan knowingly or unknowingly also guarded the shop's areas that were off-limits to all but the Banite members of the Cult of the Absolute.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lia Faen Tlabbar
+
+Lia Faen Tlabbar was a disgraced drow warlock member of House Faen Tlabbar who ended up residing in the city of Baldur's Gate in the late 15 century DR.
+
+Personality
+Like many other drow, Lia was ambitious woman and she believed that the surface dwellers were too weak-willed to dominate others.
+
+History
+Lia was born into the drow House Faen Tlabbar of Menzoberranzan. She once had the favor of the matron mother, living a life of cruelty and machinations. She proved to be too ambitious and suffered the matron mother's wrath. Lia was exiled into the depths of Underdark. Desperate and starving, Lia began hearing strange whispers of the entity called Zargon. With time, the being unlocked depths of mind in the exile drow and led her to the surface world. Now invigorated with a new grand purpose, Lia made her way to the city of Baldur's Gate. Under orders from her otherworldly patron, Lia set out to accumulate power and status in the city to one day have enough to bring Zargon to the Prime Material plane. In her ambitious search for power, Lia of Hose Faen Tlabbar embarked on adventures and misadventures in the city alongside some other spirited individuals in the 1490s DR.
+
+Appendix
+Appearances
+Board Games
+Betrayal at Baldur's Gate
+References
+
+---
+
+## Lizardfolk language
+
+The Lizardfolk language, also known as Lizard man or Lizardman, was the racial language of lizardfolk, or "lizard men" as they were otherwise referred to, on both Toril and across Wildspace.
+
+Speakers
+Beyond lizardfolk themselves, the Lizardfolk tongue was a common secondary language among hurwaeti, lizard kings, muckdwellers, sea elves of the Inner Sea, sind, and trens.
+
+The Lizardfolk tongue was also somewhat common as a secondary language among warriors in Hlondeth and fairly common among most druids, including the jungle druids of the the Church of Ubtao. These specialty priests, who sought to learn the exotic languages of the creatures that lived around the Chultan Peninsula, commonly knew both the base tongue and its ptera-man dialect.
+
+Phonology
+This language consisted of various growling vowels and sharp consonants. Meaning was typically conveyed through tonal qualities, as well as simple sound.
+
+Derivations
+Coliar Lizard Man A dialect spoken by the lizardmen of the planet Coliar. Beyond the native lizardmen themselves, it was a common secondary language among elves of the Elven Imperial Fleet.
+Firenewt A dialect spoken by firenewts.Note that it is stated in that text that this dialect is distinct from, and spoken in addition to, the "Firenewt language". The racial language of the firenewts is not stated to be derived from the Lizardfolk tongue.
+Ptera-man A dialect spoken by the pteramen of Chult.
+Tren Trens, being that they were crossbreeds between lizardfolk and troglodytes, occasionally spoke their own creole language derived from combining the Lizardman and Troglodyte tongues.
+Western creole Also known as Lizard creole, a distinct dialect of Sespechian spoken in Sespech that combined elements of that language with the Lizardfolk tongue used by the lizardmen of Surkh.
+
+Dictionary
+Unknown Words
+The Lizardfolk tongue included words for "boredom", "prey", and "special friend".What exactly these words are is never stated within the cited texts.
+
+Notable Speakers
+ Arkaneus Silvermane, the Archdruid of Mosstone.
+ Brandywine Furfoot, a halfling cleric who worked at the As The Vine Twines vineyard in Ravens Bluff in the late 14 century DR.
+ Martha Tanner, a gnome illusionist that worked at the Jack Mooney & Sons Circus.
+ Captain Silas Windspray and his first mate Judy Longbow both spoke Lizardman, allowing them to communicate with their lizardman navigator Ssissilif.
+ Thanthal, a human mage and former adventurer who at the Jack Mooney & Sons Circus.
+ Vernon Condor, the city of Ravens Bluff's Regent of the Exchequer in the late 14 century DR.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Lifter
+
+A lifter was a magical transportation device used by beholders to move people and cargo.
+
+Description
+The lifter was a large disk-shaped platform up to  across, enchanted with a basic autonomous levitation effect. They were often heavily decorated with ornamental inlays and enameled designs of popular beholder artistic subjects, such as beholder eyeballs.
+
+Powers
+A lifter would float in place by default and could be programmed with a pre-set weight limit, whereupon it would begin gradually changing altitude. It would stop when a rider spoke the command word, or it came within  of a ceiling. Lifters were often placed in vertical tunnels that were only a few inches wider than the disk, in order to be used as elevators.
+
+Appendix
+See Also
+ Driftdisc
+ Tenser's floating disk
+
+References
+
+---
+
+## Li'l Fezmor
+
+Li'l Fezmor was a member of Fetcher's Brats and later the Guild in the Lower City of Baldur's Gate in the late 15 century DR.
+
+Description
+Fezmor was a young human girl with a light skin tone, light brown eyes, and chestnut hair. She wore a garb dyed with the Guild's green color and had a business-like demeanor.
+
+History
+In the, Li'l Fezmor was a part of a street urchin gang led by Osgur "Fetcher" Hallorn. When the man disappeared following a guild war breaking out between Nine-Fingers Keene and the Stone Lord, Fetcher's Brats were taken in by the Guild and given shelter in the Guildhall. Sticky Dondo took on the role of leader among the kids and Li'l Fezmor kept herself busy, sending clients to Sticky, who sold all sorts of "acquired" goods.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Limeburn Sphagwood
+
+Limeburn Sphagwood was a cultist of Bane who served the Cult of the Absolute in the late 15 century DR.
+
+Description
+Limeburn was a human man who wore dark hooded Baneite robes.
+
+History
+In the, the Cult of Bane joined forces with the Cult of the Absolute, led by the Chosen of Bane, Lord Enver Gortash. Limeburn Sphagwood was a part of the Cult's operations that targeted the countless refugees that flooded Baldur's Gate. His branch of the Cult assembled donations and toys rigged with blackpowder explosives in the Felogyr's Fireworks shop's third floor. Presumably, Limeburn perished during or shortly before the Cult attacked Baldur's Gate.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Limmator
+
+Limmator was a lordling in Galadorna during the mid-8 century DR.
+
+Rumors & Legends
+After reporting on the murder of the trader Anlavas Jhoavryn in Nethra during the year, the watch captain Rhoagalow confided in seneschal Elminster Aumar that he believed Baron Limmator was behind that killing. Elminster didn't seem to disagree; Limmator's reputation was such that he was said to be the only lordling busier with shady doings than Maethor.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Living undeath
+
+Living undeath was a divine necromancy spell from the second circle of magic that partially transformed the target into undead.
+
+Effects
+With a touch, a cleric could transform a target's physical body into that of undead without truly making them a walking corpse. The target remained living, but their vital processes and body functions were temporarily suspended, rendering them unaffected by sneaky strikes and not receiving grave damage from lucky, well-aimed attacks. The effects of the spell lasted longer, the stronger the caster's magic was; however, the target lost their appearance and charisma for the time being. Those creatures of great fortitude could shrug the spell's effects off if the transformation was unwilling.
+
+Components
+The spell required only a somatic and verbal components.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lil' Mountain
+
+Lil' Mountain, was a familiar who served Kursh Do Ran, a dwarvish sha'ir planeswalker from Zakhara and a member of a trans-dimensional organization called the Order of the Eternals in the late 14 century DR.
+
+Description
+Lil' Mountain was a daolani with a mahogany-colored skin and the hair the color of coal. He was a taller specimen, standing at  and weighting almost .
+
+Personality
+Like his master, Lil' Mountain was a boisterous and spirited creature. He spoke his mind and had no reason to be polite or show respect to anyone but more powerful genies, and even when dealing with the geniekind, Lil' Mountain was lippy. He was often in a gloomy mood.
+
+Abilities
+Like others of his kind, the daolani posesed a powerful infravision with an impressive distance of . As a familiar, he could detect danger aimed at Lil' Mountain and would travel the planes on command to fetch spells for the Dwarven Mage, of virtually any rarity, both arcane and divine.
+
+History
+When the Order of the Eternals elected to hold its 1,238 annual Symposium in the city of Ravens Bluff, in order to secretly investigate its unusually high levels of magical energies and planar incursions, Kursh Do Ran was among the guests and members who stayed at Glittering Star Inn for the multi-day event, accompanied by his loyal familiar, Lil' Mountain.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lively step
+
+Lively step was a spell used by bards, sorcerers and wizards.
+
+Effects
+When cast, this spell increased the speed of affected creatures by 33% to 50% for 12 hours, unless the spell was ended prematurely by taking any action other than movement. It affected allied creatures within  from the caster. The spell possibly also affected all forms of movement, not just walking or running, such as climbing, flying, swimming or burrowing.
+
+An elvish version of the spell was known to the bards and mages of Myth Drannor. It could be cast using Ruehar's flute and it affected all elves and half-elves who heard the melody, giving them improved speed for running, dancing, and other types of movement, however, it was not usable in battle.
+
+Components
+This spell required verbal and somatic components, as well as a small drum as an arcane focus.
+
+Appendix
+
+References
+
+---
+
+## Lionel Carrathal
+
+Lionel Carrathal was heir to the defunct Carrathal Dynasty of Callidyrr in the Moonshae Isles as of the turn of the 15 century DR. He claimed to be the "true king" of the islands as opposed to the ruling Kendrick Dynasty.
+
+Relationships
+Lionel was the son and heir of Brynth Carrathal, the bastard son of King Reginald Carrathal and an Amnian woman.
+
+History
+After King Reginald's death in the, the Carrathal Dynasty fell out of power, however the line of succession passed to Brynth in Amn. When Brynth died in the, Lionel became the heir. From Amn, he plotted to restore the Carrathal Dynasty.Canon sources do not explicitly state that Lionel was based in Amn, but Brian R. James (one of the authors of the Forgotten Realms Campaign Guide as well as the Realmslore: Sarifal article in Dragon #376) clarified in a Tweet that he operated "from holdings in Amn".
+
+Following the turn of the 15 century DR, around the same time that Amn was spreading its influence in the Moonshae Isles and was being blamed for stoking civil unrest against the Kendrick family, Lionel was making known his claim to be the "true" High King of the United Moonshae Isles. Amn would go on to annex the island of Snowdown in the, and in the, agents of Lionel Carrathal were blamed for the mysterious death of High Queen Alicia Kendrick, with many believing she had been poisoned in service of his claim to the throne. His loyalist insurgents in Callidyrr were subsequently defeated by the Callidyrr dragoons.Canon sources do not explicitly identify the allegiance of the insurgents during this event, but Brian R. James clarified in a Tweet that they were "Carrathal loyalists".According to Brian R. James, Lionel Carrathal was conceived as a key figure in the history of the Moonshae Isles during the writing of the 4th edition of the Forgotten Realms. This was demonstrated by him in a series of Tweets that summarized Lionel's bid to reclaim the throne followed by his death during a conflict with Sarifal. However, very little of this lore found its way into official published products, and so only the material presented above is considered canon for the purpose of this wiki.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Life preserver
+
+A life preserver was a ring-shaped flotation device used to rescue people that fell overboard on a ship, either in water or in Wildspace.
+
+Usage
+Using a life preserver required having a rope tied to it before throwing it out to an overboard individual so that they could be pulled back towards the ship. On surface worlds, life preservers helped to prevent people from drowning. In Wildspace, life preservers were meant to be thrown out into a spelljammer's gravity plane, wherein they would bob up and down across the plane until they came to rest on the gravity plane or was caught by the crew member that had fallen overboard.
+
+Notable Users
+ The Bludgeon, a caravel in the Ravens Bluff Navy, kept life preservers on board in its lower deck.
+ The Rosy Dawn, an Aglarondan merchant ship, kept life preservers on board.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Liantor Stoneborn
+
+Liantor Stoneborn was a dwarven adventurer who worked in Cormyr during the late 15 century DR.
+
+Description
+Liantor was a stout dwarven fellow with short brown hair and a beard. He wore a suit of plate armor and carried a wicked dwarven waraxe.
+
+History
+Sometime around the time of the Darkening, Liantor and his companions Jarus Brithandir, Tristran of Daggerford, Kirina Aelorothi, Popkin Shortshanks, and Helayna discovered an ancient tomb at the bottom of a crevasse in the Stonelands. They first fought their way past some undead inhabitants, then discovered a secret passage leading further underground. After passing into a larger, deeper cave system, the group was ambushed by militant Clan Daeronnax kobolds, who were able to overcome the group and separate them. While everyone else was trapped in the caves, the quick-footed sneak Popkin managed to escape back to Eveningstar to get assistance. Unfortunately for Liantor, he was caught and killed by a team of kobolds before help could arrive, though his companions survived to be rescued.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Lilanth's Librams
+
+Lilanth's Librams was a shop in the Central Trade Lanes of Skullport in the late 14 century DR.
+
+Structure
+Lilanth's Librams was a two-story building in fair condition.
+
+Services
+Lilanth's Librams served as Skullport's closest approximation to a library and bookstore. The shop contained an impressive collection of hundreds of books. Topics ranged from practical guides, such as Cormyrean gardening manuals, to esoteric subjects like hedge magic. Prices varied widely, with more common volumes starting at 20 gold pieces and rare tomes commanding prices of 2,000 gold pieces or more.
+
+In addition to book sales, Lilanth's Librams offered scrivening supplies, including parchment, ink, and quills, as well as bookbinding services. Imaginative leather book covers and ornate metal clasps had garnered particular praise among clientele.
+
+Inhabitants
+Lilanth's Librams was owned by the reserved and soft-spoken wizard Lilanth Shytongue. The shop was notably home to a small legion of cats, which served as vigilant guardians against mice, rats and jermlaine.
+
+Appendix
+References
+
+---
+
+## Livewood core
+
+The livewood core was a magical device similar to an Eberronnian warforged docent, recovered from Thorn Hollow in the King's Forest of Cormyr in the mid-1480s DR.
+
+Description
+The core was a sphere of living wood that pulsed with vital energy. When used by a warforged, it caused vines, leaves, and moss to grow across them.
+
+Powers
+The livewood core provided wide-ranging protection and fortification against most threats. It caused vines, bark, and moss to grow over the warforged body and add a layer of magical defenses.
+
+History
+The core was found in the Thorn Hollow caverns of Thorngap, at a time that the druid Halsaime had taken over and corrupted nature into being his tool.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Lighthouse (Port Nyanzaru)
+
+The lighthouse of Port Nyanzaru, Chult, was used to guide ships into port and to send smoke signals along the coast of the Bay of Chult.
+
+Location
+The lighthouse was located in the Harbor Ward at the mouth of the harbor itself, immediately across the harbor entrance from Fort Nyanzaru. It served to anchor the mighty chain that could be used to close access to the port.
+
+Activities
+The beacon at the top of the lighthouse maintained a constant signal flame that was visible through the dark of night, rain, and fog, and served to guide ships into port. This beacon made the docks of the Harbor Ward a safer place to do business than the outer docks in the Tiryki Anchorage.
+
+In times of pirate attack, the beacon's color was changed to a bright red to warn the people of the city. At night, this light was bright enough to bathe the entire harbor in an eerie red glow.
+
+The fire of the lighthouse could also be used to send smoke signals that were visible from anywhere on the Bay of Chult, from the mines in the northwest to Fort Beluarian in the northeast. These signals were created by adding various powders to the flames, which produced thick columns of colorful smoke.
+
+History
+When Port Nyanzaru came under attack by the fiendish pirate Idrianne Smoke during the events of the death curse in the late 1400s DR, the lighthouse's crimson beacon provided the city with its first warning of her approach.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Lilac Hesabon
+
+Lilac Hesabon was an elven adventurer and heroine active in the 14 century DR.
+
+Description
+Lilac had neck-length blonde hair, pale white skin, and grey eyes. She wore a collared white blouse, black cape, and a red cap with a feather on it. Her ears were not very pointy compared to other elves.
+
+Abilities
+She was a competent swimmer.
+
+Possessions
+She was the owner of a dog called Lightning. Lightning was able to fight alongside Lilac or her allies. The dog was always ready to sacrifice itself in combat to protect others from any attack when commanded to.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lives Are Falling Leave
+
+Lives Are Falling Leave was book penned by Roryndrel Tanroun, Sage of Athkatla, in the late 14 century DR.
+
+History
+Lives Are Falling Leave was a collection of sagely thoughts and ruminations of Roryndrel Tanroun, first published in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lightning quasi-elemental
+
+The Lightning quasi-elemental were elementals formed from the quasi-element of lightning.
+
+Description
+The lightning quasi-elemental were as all elementals, part of the very plane from which they existed, as such these small elementals were of the very Plane of Lightning, a quasi-plane located between the planes of Air and positive energy. The quasi-elementals themselves looked like small floating balls of lighting, with electricity constantly shooting towards the nearest conductor in the area. They were said to lean closer to chaotic than true neutral than every other type of elemental. They where mostly drifting around in groups of 1 to 6, either their home plane, the nearby planes of Air and positive energy or during particularly fierce thunderstorms of the Prime Material.
+
+Behavior
+When no lightning storms were around, the lightning quasi-elementals would float around, seeming to do nothing much at all, but whenever a lightning storm would be near, they would congregate to it and assemble in what were called electric conflagrations by outsiders. While no-one knew for sure it was theorized that they either reproduced, fed on the great energies, or exchanged information in these electric loaded masses, although no signs of organization where ever present between the different elementals. In addition to normal movement they could leap up to  to any metallic or grounded object with a mass of more than .
+
+Combat
+In combat the lightning quasi-elemental, would use its leaping ability to charge around the battlefield, discharge electrical power by touch, and disgorge a small globe of ball lightning every few seconds that would linger from half to more than a minute, depending on the strength of the lightning quasi-elemental, and would drift near the elemental. Whenever a significant amount of metal, such as armour, or a creature of more than  came near, the globe would drift into the target and discharge itself, giving the poor sod no ability to negate the electric shock. Only enchanted weapons could hope to damage the lightning quasi-elemental, and even then any melleé weapons of conductive materials such as metal would be shocked right back trough their own weapons. The elemental itself was immune to lightning and electrical attacks, while those of fire and acid would only do half damage to it. Water and ice however would severely damage it, and even common rain could whittle it down rather quickly.
+
+Ecology
+Three "tiers" of lightning quasi-elementals seemed to exist, with the higher more powerful ones looking exactly like their lesser kin, such that those who encountered them never new just how powerful they were until they decided to provoke the elemental.
+Feeding on energy, the elementals who found themselves outside their native  quasi-elemental plane, would seek energy sources, most commonly lightning storms to feed upon. While no real hierarchy seemed to exists within the lightning quasi-elementals themselves, the native Shockers would almost always suborn themselves under the command of the smarter, more powerful lightning quasi-elementals whenever the need arose.
+
+History
+Several powerful mages had found these creatures very useful as power sources for their more ex exotic artifacts.
+
+A few lightning quasi-elementals show up not far from Ravens Bluff entangled with the Mind flayers of Nar'Vheen.Jeffrey Morrison (1999). A Meeting of Brains, Living City scenario 382 HUD part 9, Knight Games p.22
+
+Appendix
+See Also
+Radiance quasi-elemental whom where sometimes mistaken for Lightning quasi-elemental as they too looked like balls of energy though without the crackling energy arcs.
+
+Appearances
+
+References
+
+---
+
+## Life mantle
+
+The Life mantle was a psionic mantle that granted ardents and divine minds an array of psionics powers and abilities derived from the universal concept of life, themed around restorative effects.
+
+Deities
+
+Abilities
+Those who followed the life mantle became more in tune with their powers of the mind. By expending a psionic focus, a manifester could temporarily open their mind as if they were a more experienced psionics user and expend greater degrees of psionic energy towards their manifestations.
+
+The psychic aura exuded by divine minds of the life mantle instilled a rejuvenating feeling in those within its radius, making them more resistant to the effects of death magic and psionic death effects.
+
+Powers
+The powers granted by the Life mantle were all of the psychometabolism discipline and its subdiscipline healing.
+
+Starting out, manifesters had only the power touch of health, letting them do minute healing and damage to the undead. Novice manifesters gained the power to stabilize the dying with from the brink and the further healing powers of body purification. Manifesters of some experience gained stygian ward, allowing them to grant immunity to death magic and negative energy, and could revive the dead with psionic revivify. As a manifester progressed further they achieved further heights in their healing capabilities with mend wounds and psionic restoration. Masters of this mantle obtained true metabolism, making themselves incredibly difficult to kill.
+
+Additionally, masters of the Life mantle had the unique power to share the effects of true metabolism with another willing creature.
+
+Appendix
+See Also
+ Life domain
+References
+
+Connections
+
+---
+
+## Light and Darkness mantle
+
+The Light and Darkness mantle was a psionic mantle that granted ardents and divine minds an array of psionics powers and abilities derived from the contrasting universal concepts of both light and darkness.
+
+Deities
+
+Abilities
+
+Those who followed the Light and Darkness mantle were granted either darkvision or low-light vision, out to a range of . If a manifester already had one of the two visions they would gain the other, but if they already possessed both types of vision then instead the distance by which they could perceive with both would be enhanced.
+
+The psychic aura exuded by divine minds of the Light and Darkness mantle made all darkness spells and light spells cast by the manifester, or allies within the radius of their aura, a degree higher in power for the purposes of countering their opposing effect.
+
+Powers
+Novice manifesters could adjust ambient light levels with control light, modify their version with elfsight, or project beams of light from their own eyes with my light. Additionally, followers of the Light and Darkness mantle uniquely had the power to augment control light, allowing them to produce an effect similar to the spells daylight or darkness.
+
+Manifesters of some experience could create claws of shadowstuff with claws of darkness and fire offensive rays of darkness, light, or shadow with light beam. As a manifester progressed they gained the power to rapidly travel through the Shadow Fringe with psionic shadow walk. Masters of this mantle obtained light burst, allowing them to unleash bursts of blinding hot light.
+
+Appendix
+ Darkness domain
+ Light domain
+References
+
+Connections
+
+---
+
+## Light boltslinger
+
+The light boltslinger were a kind of repeating light crossbow found in the mines of Tethyamar during the late 15 century DR.
+
+Powers
+This crossbow was especially effective at penetrating armor and could easily slay victims with a single shot, but it was most notably imbued with lightning that blasted those hit by it.
+
+History
+With the success of the iconic drow hand crossbows, designers went to work on scaling the weapon up to a more efficient mainstream crossbow. The light boltslinger was an experimental prototype that resulted from this effort, and was found in the House Argith stronghold in Tethyamar.
+
+Appendix
+See Also
+ Heavy boltslinger
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Liala
+
+Liala a Northman queen of the Korinn Archipelago of the Moonshae Isles during the 13 century DR.
+
+Description
+She was an attractive woman with shining, blonde hair.
+
+Relationships
+Her husband was the "Sea King" Viledel, and the pair of them aspired to rule over a great maritime empire. She was presumably the mother of Viledel's son, Prince Horedel.
+
+History
+Liala was born around the same time that Viledel established himself in the Korinn Archipelago, circa 1228 DR. She was about twenty years old when Prince Horedel died of disease, and was about forty when she was slain alongside her husband during a pirate raid of Viledel's Isle.The timeline of the relationship between Liala and Viledel is not clear in Treasure Hunt. It is implied that she was already Viledel's "lady" at the time of his arrival in the Korinn Archipelago, and that they ruled over the islands for "four decades" before being slain (p. 34). However, Liala is described as having been "about 40 years old" at the time of her death (p. 29).
+
+The bodies of Liala and Viledel were interred in the catacombs beneath the Manor of the Sea King by Keestake—one of Viledel's grooms and the sole survivor of the massacre—who laid their bodies alongside each other upon stone slabs, carved epitaphs in their honor, and babbled a number of desperate prayers over his fallen king. Unbeknownst to Keestake, Viledel was wearing a ring of wishes, which responded to the prayers by transforming both Viledel and Liala into undead creatures akin to zombies that did not rot or deteriorate. The pair of them laid patiently in this state, ready to slay any who dared to rob their crypt.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## List of video games in chronological order
+
+Contents:
+Unknown
+Appendix
+Notes
+See Also
+References
+
+Unknown
+Dungeon Hack
+Spelljammer: Pirates of Realmspace
+Iron & Blood: Warriors of Ravenloft
+Neverwinter Nights: Infinite Dungeons
+Neverwinter Nights: Mobile
+
+Before 1300 DR
+7 Century DR
+Blood & Magic >648 DR <657 DR
+
+ Icewind Dale
+ Icewind Dale: Heart of Winter
+ Icewind Dale: Trials of the Luremaster
+
+1300–1399 DR
+Early 14 Century DR
+Forgotten Realms: Unlimited Adventures <1358 DR
+Menzoberranzan ≈1339 DRBefore Matron Malice Do'Urden's death in 1339 DR.
+Ravenloft: Strahd's Possession
+Ravenloft: Stone Prophet
+Planescape: Torment <1369 DR
+
+Icewind Dale II
+
+Pool of Radiance
+
+Pools of Darkness
+
+Dungeons & Dragons: Dark Alliance
+
+Neverwinter Nights (AOL game)Based on 2e population as listed on the Neverwinter page.
+Curse of the Azure Bonds
+
+Hillsfar
+Gateway to the Savage Frontier
+Treasures of the Savage Frontier
+Eye of the Beholder (game)
+Eye of the Beholder II: The Legend of Darkmoon
+Eye of the Beholder III: Assault on Myth Drannor
+
+Al-Qadim: The Genie's Curse
+
+Baldur's Gate: The Black Pits
+Baldur's Gate
+Baldur's Gate: Tales of the Sword Coast
+Baldur's Gate: Siege of Dragonspear
+
+Baldur's Gate II: Shadows of Amn
+Baldur's Gate II: Throne of Bhaal
+Baldur's Gate II: The Black Pits II – Gladiators of Thay
+Pool of Radiance: Ruins of Myth Drannor
+
+Descent to UndermountainAfter retrieval of the second stone spider piece, the Blackstaff states that Time of Troubles happened 10 years prior to the events of the game. Additionally, two documents in the game state that Halaster's Higharvestide happened the year prior to the game's events. Assuming Khelben was approximating the 10 years that passed since the Time of Troubles, Halaster's Higharvestide puts the events of the game in 1370 DR.
+
+Neverwinter Nights
+Neverwinter Nights: Shadows of Undrentide
+Neverwinter Nights: Hordes of the Underdark
+Neverwinter Nights: Pirates of the Sword Coast
+Neverwinter Nights: Darkness over Daggerford
+
+Neverwinter Nights: Wyvern Crown of Cormyr
+Neverwinter Nights: Tyrants of the Moonsea
+Neverwinter Nights: Doom of Icewind Dale
+Forgotten Realms: Demon StoneThe game makes reference to events that occurred in The Two Swords, and features a major NPC who dies during the events of Blackstaff. This places the story of the game between 1371 DR and 1374 DR.
+
+Neverwinter Nights 2
+Neverwinter Nights 2: Mask of the Betrayer
+
+Late 14 Century DR
+Secret of the Silver Blades ≈1350 DR
+Dungeons & Dragons: Eye of the Beholder
+Neverwinter Nights 2: Mysteries of Westgate ≥1374 DR
+Neverwinter Nights 2: Storm of Zehir >1374 DR
+Baldur's Gate: Dark Alliance
+Baldur's Gate: Dark Alliance II
+
+1400–1499 DR
+Late 15 Century DR
+Dungeons & Dragons: Arena of War
+Dungeons & Dragons: Heroes of Neverwinter
+Neverwinter: The Maze Engine >1486 DR <1491 DR
+Neverwinter: Tomb of Annihilation >1488 DR <1492 DR
+Tales from Candlekeep: Tomb of Annihilation >1488 DR <1492 DR
+Neverwinter: Lost City of Omu >1488 DR <1492 DR
+Idle Champions of the Forgotten Realms
+Warriors of Waterdeep
+
+Dungeons & Dragons: Daggerdale
+
+Blood in Baldur's Gate
+
+NeverwinterNeverwinter: Fury of the Feywild1480s DRNeverwinter: Storm King's Thunder >1485 DRNeverwinter: Underdark >1484 1486 DR <1487 DRNeverwinter: Rise of TiamatNeverwinter: Tyranny of DragonsNeverwinter: The Cloaked AscendancyNeverwinter: The Heart of FireNeverwinter: Curse of Icewind DaleNeverwinter: ShadowmantleSword Coast LegendsNeverwinter: Elemental EvilNeverwinter: StrongholdsBaldur's Gate III''
+
+Appendix
+Notes
+
+See Also
+ List of novels in chronological order
+
+References
+
+__NOTOC__
+
+---
+
+## Liaga Kintree
+
+Liaga Kintree was a druid agent of the Emerald Enclave and a merchant from the city of Westgate in the late 14 century DR.
+
+Description
+Liaga Kintree was a fair-skinned elven woman with pleasant features, big brown eyes, and brown hair gathered in a bun. She wore a druid's garb of simple burlap cloth.
+
+History
+In the, Liaga Kintree was an uncommon sight – a druid and a member of the Emerald Enclave, selling her goods on Westgate's Market Triangle. Her affiliation was not a secret, and the druid was openly willing to discuss how a member of the organization from the Vilhon Reach ended up in Westgate. Liaga's orders were to learn all she could about the city and improve relations between the city folk and nature. The druid believed that opening a shop to help the inhabitants of such a city of coin was the best course of action. One of the complications Liaga faced was her immune system not being used to the crowded city and all the illnesses that it brought. However, the druid insisted on running her shop despite being sick, sniffly, and congested. Liaga refused to cure herself with druidic magic, believing it to be a vulgar abuse of power as sickness was part of nature.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Liber Occultatum
+
+Liber Occultatum was a recipe book that collected crafting instructions and arcane formulae needed to create several types of enchanted rogue armors, published sometime before the late 14 century DR.
+
+Content
+If this manual was in the hands of a skilled crafter of magical items, they could create several types of leather armor, provided they had proper materials for the crafting and enchanting process. Shadowy armor, improved shadowy armor, and greater shadowy armor required powerful water essence and a fire opal, star sapphire, and blue diamond, respectively, as well as the casting of an invisibility spell. Silent armor, improved silent armor, and greater silent armor required the same materials but with the casting of the silence spell. And lastly, quick armor could be created using weak power essence, weak air essence, a single blue diamond, and a casting of the haste spell.
+
+History
+As of the, copies of Liber Occultatum could be found across the Sword Coast, including the city of Neverwinter, and in the city of Westgate on the Dragon Coast.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lightfoot (lycanthrope)
+
+Lightfoot was a werewolf from Moray in the Moonshae Isles during the late 15 century DR.
+
+Relationships
+She was the daughter of Deucala, who had been a matriarch of the Black Blood tribe in northern Moray as of the mid-to-late 15 century DR. When Deucala found the Lady Amaranth in the late 1460s DR, and raised her, the young fey woman would become like a sister to Lightfoot, and was the one who named her. Lightfoot and her other siblings were fiercely protective of Amaranth.
+
+History
+When Amaranth became the de facto leader of the lycanthropes at Caer Moray, she led them to be peaceful and productive. Only females were allowed to reside within the walls, which included Lightfoot.
+
+Following the revival of the god Malar in the late 1470s DR, the community at Caer Moray was destroyed by the Black Blood tribe in the Battle of Caer Moray, and Lady Amaranth left it behind. Lightfoot was among the survivors of the battle, and as a daughter of the great Deucala, Amaranth entrusted the remains of her followers to her and her sister, Bay.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Living varnish
+
+Living varnish was a magical substance used in the land of Chult to create masterwork crafted items.
+
+Description
+This substance was a strong-smelling liquid that allowed various natural materials to take on a new life when submerged and soaked. This liquid could be created from Tears of Ubtao and lakh varnish.
+
+History
+In the late 15 century DR, living varnish was created in Chult by masterwork artisans of Port Nyanzaru for adventurers of Neverwinter, during the death curse crisis.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Linshung
+
+Linshung was a town in Hungtse Province in Shou Lung. It was a minor farming community, considered typical of the small cities and villages of Hungtse Province.
+
+Geography
+It lay in the fertile great To Chan Valley amongst the province's western hills on the Yang Road between the city of Kirin in the east and Falls Bridge on the Kiafeng Highway in the west.
+
+Government
+Circa, Linshung was governed by Lord Lien Chen of the renowned Lien Clan based in Linshung. His uncle had been a great Minister of Public Works under Emperor Hsiao Chin.
+
+Notable Inhabitants
+ Lien Hua Liang, only daughter of Lord Chen and the focus of many admirers and suitors
+ Kao Ling, a wealthy merchant of Linshung
+ Kuang Ming Ling, a would-be shukenja and daughter of Kao Ling
+
+Appendix
+References
+
+---
+
+## Lien Chen
+
+Lien Chen was the lord of Linshung, Hungtse Province, in Shou Lung circa .
+
+Relationship
+A member of the illustrious Lien Clan, Chen was the nephew of a renowned Minister of Public Works under Emperor Hsiao Chin. Chen's daughter was Lien Hua Liang, who displayed all the classic virtues for a Shou maiden.
+
+Activities
+Hua Liang was pursued by many young suitors. However, Lord Chen gave impossible missions to all her suitors so she could not be separated from him.
+
+Appendix
+References
+
+---
+
+## Lien Clan
+
+The Lien Clan was an illustrious Shou human clan based in Linshung in Hungtse Province, Shou Lung.
+
+History
+A member of the Lien Clan was a renowned Minister of Public Works under Emperor Hsiao Chin. Known for his forward-thinking and beloved for his kindness, he oversaw the construction of many roads and granaries, which raised the Lien CLan's profile.
+
+His nephew, Lien Chen, was lord of Linshung circa . As of that year, his 15-year-old daughter Lien Hua Liang displayed all the classic virtues for a Shou maiden: beautiful, devout, virtuous, talented, and obedient and respectful to her parents. Naturally, she was pursued by many young suitors, but Lord Chen gave impossible missions to all of them so she could not be separated from him.
+
+Members
+ Lien Chen, lord of Linshung
+ Lien Hua Liang, his daughter
+
+Appendix
+References
+
+---
+
+## Lightning (dog)
+
+Lightning was the dog of Lilac Hesabon, an elven adventurer and heroine active in the 14 century DR. It was able to help Lilac or her fellow adventurers in combat. The dog was always ready to sacrifice itself in combat to protect others from any attack when commanded to.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Light lathe
+
+The light lathe was a type of mechanical tool invented by Lorenzo Utrelli. It used a beam of light produced by a chemical reaction to produce holes in materials. Although it was originally intended as a drill or lathe, the designs were repurposed into Ugo Svarézi's  deadly Sun Cannon.
+
+Description
+
+The main body of light lathe was a device small enough to fit on a table, and about the size of a large hat.
+Two large spheres made from glass were a striking visual element. They were connected to a central chamber made of steel by a system of pipes controlled by valves. Each of the spheres held a different igniter chemical, and when they were rmixed together in the central chamber, an explosive chemical reaction ocurred. The explosion created a burst of light, which was focused by a lens made from quartz. The focused beam of the light lathe was incredibly powerful, enough to punch a hole through sturdy materials in an instant. The light lathe was activated by pulling two strings made from leather.
+
+The igniter chemicals were rare and highly acidic fluids that made hissing noises. While working in the palace of Sumbria, Lorenzo disguised the smell of the chemicals by mixing them with cherry essence.
+
+The quartz lens of the lathe was another costly element. It was polished into shape by a trained gemcutter. These lenses could not withstand more than a total of five seconds of operation, and would often shatter.
+
+The blast from the light lathe appeared as a flash of bright white light which caused purple afterimages in human eyes. A blast of one quarter of a second was powerful enough to burn a tiny, clean hole through an
+ of steel, and further into a stone wall behind it. In stone and untreated wood, the burst created small explosions, which sounded like the crack of a whip.
+
+History
+Lorenzo first announced the light lathe to Prince Cappa Mannicci and Blade Captain Gilberto Ilego of Sumbria, while he stayed there on a diplomatic mission in the . Hoping to use the boy as an agent in his schemes, Ilego arranged for him to have a workshop in the palace, and funded his efforts with 500 gold ducats. Lorenzo continued to develop the device, and his experiments caused many explosions in the palace.
+
+He demonstrated it to Gilberto Ilego and Rufo. Although they were unsure of the machine's potential, its destructive power caught their attention. Lorenzo offered the patent for the lathe to his patron Ilego, but Ilego declined. Ilego did take the chemical formulas required for the machine, suggesting that he might find cheaper sources of them for Lorenzo. After leaving the demonstration, Ilego secretly met with his conspirator Ugo Svarézi, and convinced him to expand the design for purposes of war.
+
+Later that year, the principles of the light lathe were expanded into the huge seige weapon called the Sun Cannon. With its destructive power under his control, Ugo Svarézi was able to take over the Blade Kingdoms of Zutria and Sumbria.
+
+Reputation
+The cherry essence that Lorenzo added to the igniter chemicals unintentionally made them delicious to rats. While he worked, the palace was plagued by exploding cherry-scented vermin.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Lightbringer (Eberron)
+
+Inquisitor Lightbringer was a servant of the Silver Flame in the world of Eberron.
+
+Description
+Lightbringer was a human woman with short brown hair, wearing a suit of scale mail and carrying a staff and maul.
+
+History
+During the Darkening of Faerûn, Inquisitor Lightbringer was one of the Silver Flame agents who pursued the Lords of Dust cult in Stormreach as they attempted to break into the Spinner's Prison and free the Spinner of Shadows. She was told of the results of the raid on the cultist base prompted by Brother Dectaran, and the revelation of Inquisitor Gnomon being a rakshasa. The cult had managed to finish their ritual and blasted open the road to Tarath Marad from the surface, which Lightbringer, Felnis, and Templar Orrex proceeded to investigate.
+
+Appendix
+Notes
+
+External Links
+
+Appearances
+
+References
+
+---
+
+## Lissa Boavartarr
+
+Lissa Boavartarr was a gnome inhabitant of Ieirithymbul in the late 14 century DR.
+
+Relationships
+She had a father, and at least one suitor, a local apprentice.
+
+History
+In Uktar of the, Lissa's suitor asked her father for permission to wed. He gave it and offered to help them build a house, provided he finished his apprenticeship by the following year.
+
+Rumors & Legends
+The suitor's stray thoughts were captured by a local apprentice, Burlmarr, who appeared to be familiar with the name, though he believed he was hearing his fellow apprentice Ambrythynn say those words. Mistakenly assuming Ambrythynn was the one speaking, Burlmarr said he wouldn't tell Maree Blimthalloon about him fancying Lissa. This was not what was happening, and Ambrythynn had nothing to do with Lissa or her suitor.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Liara
+
+Liara was a town in Nova Vaasa, one of the Domains of Dread.
+
+Description
+The city had stone homes with dark alleys between them, and the streets were made of compacted dirt. The richer Merchants' Quarter had more wooden buildings.
+
+Geography
+There was a large cavern somewhere near Liara.
+
+Trade
+Wood was imported there, like in most of Nova Vaasa.
+
+Defenses
+There was a city militia. The Merchant's Quarter had a single,  watchtower that doubled as a temple of Bane.
+
+History
+In a time roughly corresponding to the mid-to-late 14 century DR, the young kid Jebbrie Vokasich, while traveling with a caravan, got bitten by cursed spiders at a cave near the city. A ranger called Sundian Silgathen came into the cave to rescue him, and was bitten herself; he became bedridden, and she became a werespider. A week later, she began a series of grisly murders. Passing adventurers from Ravens Bluff were hired to investigate them.
+
+Notable Locations
+ Besker's Curatives
+ The Black Sam Tavern
+ The Boar's Tusk
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lion mask
+
+Lion masks were mundane ancient masks of dwarvish make that were restored in the late 15 century DR by the craftfolk of Neverwinter.
+
+Description
+These heavy masks were carved out of stone and made to resemble a lion's face. In their restored form, the sone had a bronze hue and was polished enough to shine like metal.
+
+History
+In the late 15 century DR, several lion masks were gifts of Dagult Neverember, Open Lord of Waterdeep and Protector of the City of Neverwinter, to a set of heroes, who aided in the defense of the city against many dangers that plagued the region during that time period. The gifts were announced via a postal courier and given out at Protector's Enclave between the Grand Emporium and the Tarmalune Auction House or by Sergeant Alphonse Knox himself.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lifemaimer
+
+Lifemaimers and their more powerful variants, exalted Lifemaimers, were a variety of artifact swords created to be used by fighter adventurers in the Chultan city of Port Nyanzaru in the late 15 century DR.
+
+Description
+These Lifemaimers were testaments of their owners' strength and the skills of the master weaponcrafters of Chult. Those heroes who wanted to survive the deadly dangers of the jungles commissioned these powerful swords to be created, paired with enchanted shields called Lifecrashers.
+
+Powers
+A Lifemaimer could be enchanted to hold various unique magics for each owner, in addition to boosting the damage inflicted by the owner in combat, their physical strength, ability to deflect enemy blows, as well as increasing the damage done by their well-aimed and lucky attacks. When a Lifemaimer was wielded with a Lifecrasher, both items boosted each other's magical powers, increasing the wielder's damage output and boosting their healing capabilities.
+
+History
+Lifemaimers were created in the late 15 century DR, and their design suggested the items' origins to be tied to the ancient Lost City of Omu.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Lifecrasher
+
+Lifecrashers and their more powerful variants, exalted Lifecrasher, were a variety of artifact shields created to be used by fighter adventurers in the Chultan city of Port Nyanzaru in the late 15 century DR.
+
+Description
+Lifecrashers were testaments of their owners' strength and the skills of the master weaponcrafters of Chult. Those heroes who wanted to survive the deadly dangers of the jungles commissioned these powerful swords to be created, paired with enchanted swords called Lifemaimers.
+
+Powers
+A Lifecrasher could be enchanted to hold various unique magics for each owner, in addition to boosting the damage inflicted by the owner in combat, their physical strength, ability to deflect enemy blows, as well as increasing the damage done by their well-aimed and lucky attacks. When a Lifemaimer was wielded with a Lifecrasher, both items boosted each other's magical powers, increasing the wielder's damage output and boosting their healing capabilities.
+
+History
+Lifecrashers were created in the late 15 century DR, and their design suggested the items' origins to be tied to the ancient Lost City of Omu.
+
+Appendix
+Appearances
+
+References
 
 ---
 

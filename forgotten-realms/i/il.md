@@ -4,6 +4,20 @@ _Source: forgottenrealms.fandom.com, CC-BY-SA 3.0, dump 2025-10-22._
 
 ---
 
+## Illyth Fleetwood
+
+Illyth Fleetwood was a noblewoman of the city of Ravens Bluff in the Vast in the late 14 century DR. She lived outside the city at Woodenhall manor, the home of the Fleetwood family. Despite her noble status, Illyth was an accomplished scholar and had an extensive personal library. She was married and delighted in activities such as the Game of Masks. She was also fast friends with Jack Ravenwild.
+
+Appendix
+
+Appearances
+Novels
+The City of Ravens
+
+References
+
+---
+
 ## Ilmater
 
 Ilmater, known to the Iulutiun people of the Great Glacier as Ayuruk and to the Angulutiun people as Itishikopak, was the Faerûnian intermediate deity of endurance, martyrdom, perseverance, and suffering. Known variously as the Crying God, the Rack-Broken Lord, and the One Who Endures, Ilmater was the patron of the suffering, oppressed, and persecuted. He encouraged them to endure and encouraged others to help them by taking their burdens or places. Ilmater was a willing sufferer, bearing the pain of others to spare them from it, and it was said that if he had his way he would do so for all the suffering in the world.
@@ -91,6 +105,497 @@ References
 Connections
 
 de:Ilmater
+
+---
+
+## Ilcanorr
+
+Ilcanorr of Luthcheq was a male Turami human and a powerful wizard of Luthcheq who came to reside in the Border Kingdoms realm of Bedorn.
+
+Description
+He was raven-haired with a handsome appearance and a chin-spike beard.
+
+Personality
+Ilcanorr was jaded in his ways.
+
+He was known to have a large collection of perfumed and dyed cats.
+
+History
+Ilcanorr began his career in Luthcheq, and focused on his research and perfecting items known as sevencirclingwands, but attacks by rivals and fearful neighbors drove him to move to Bedorn to live a more peaceful life and concentrate on his work.
+
+The last pirate landing in the town of Oparl before the mid-1370s DR was successfully and violently repulsed by Ilcanorr. He sent a flight of gargoyles out to turn them away.
+
+He authored the Hollow Codex, a work consisting of at least twenty-five volumes.
+
+Ilcanorr of Luthcheq magically bred a species of gently oozes called starry spheres sometime before the 15 century DR. The very first starry sphere was designed to clean up after Ilcanorr's dyed cat menagerie while remaining harmless to beasts and humans.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Illasera
+
+Illasera was an elven Bhaalspawn who emerged as a member of the group known as the Five during the mid–14 century DR.
+
+Personality
+She was supremely confident in her abilities and prowess in battle.
+
+Possessions
+Illasera wore a suit of elven chainmail.In the Throne of Bhaal novel, Illasera wielded a bow and arrows that were inscribed with runes along the shatf.
+
+Relationships
+She was seen as one of the weaker members of the Five, and was held in low regard by the Bhaalist priestess Amelyssan.
+
+History
+Illasera was tasked by the Five with murder of their fellow sibling Abdel Adrian. To accomplish this feat, she and her allies set up an ambush for him and his companions near the Grove of the Ancients in the .
+
+Abdel and his allies emerged victorious from the battle, and Illasera was slain.In the novelization, Abdel transforms into the Slayer and consumes Illasera.
+
+The Echo
+
+In the late 15 century DR, a collection of Bhaalspawn: Amelyssan, Abazigal, Illasera, and Sendai, were brought back as bloodied echoes of their former selves by Sarevok Anchev, placing them on the Murder Tribunal, hidden deep within Baldur's Gate's Undercellar, in the ruins of the Temple of Bhaal.
+
+Appendix
+Notes
+
+Gallery
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Illusion
+
+The Illusion school includes spells that deceive the senses or minds of others. They cause people to see things that are not there, not see things that are there, hear phantom noises, or remember things that never happened. Among these spells are included invisibility and disguise self. The illusion school had five subschools: figment, glamer, pattern, phantasm, and shadow. A wizard who specializes in the schools of illusion is referred to as an illusionist.
+
+Subschools
+ Figment: A figment spell creates an image/sound of something that isn't there but cannot make something appear to be something else.
+ Glamer: A spell from this subschool can fool all of the senses, sight, hearing, touch, taste, smell and can also make creatures and object disappear.
+ Pattern: Pattern spells are similar to figments, but they also can affect the minds of those perceiving them, often with negative effects.
+ Phantasm: Phantasms are personal mental images conjured into the subject's mind such as making them believe that they are witnessing their worst nightmare or a loved one. Observers see nothing.
+ Shadow: Using extra-dimensional energy, illusions from this sub-school are partially real and can affect the world around them or damage things.
+
+Appendix
+
+See Also
+ Shadow magic
+ :Category:Illusion spells
+ :Category:Illusionists
+
+External Links
+ D&D Glossary
+
+References
+
+Connections
+
+---
+
+## Ilsevele Miritar
+
+Lady Ilsevele Miritar was a sun elf spellarcher from the Queen's Guard on Evermeet, who went on to become the Coronal of restored Cormanthyr.
+
+Description
+Ilsevele was pale with copper-colored hair.
+
+Possessions
+She carried a magical bow crafted from deep red yew. She wore magical leather armor strengthened with steel rings, which was appropriate for a captain of the spellarchers. She also carried a pair of fine elven short swords. Ilsevele's spellbook was a slender volume with silver clasps, bound between thin sheets of laspar wood.
+
+Relationships
+Ilsevele's mother and father were Ilyyela Miritar and Seiveril Miritar respectively, both of whom were deceased.
+
+She was the partner and betrothed of Araevin Teshurr until the couple parted ways when Ilsevele fell in love with the resurrected Fflar Starbrow Melruth, whom she eventually wed.
+
+Ilsevele had a fine gray destrier named Swiftwind.
+
+History
+At around the age of 170,Ilsevele's age is determined from Araevin being almost 100 years her elder. she worked with her father on the Elven Crusade to Myth Drannor, and after his death took up leadership of the Army of Myth Drannor. After she defeated the armies of Scyllua Darkhope, she was visited by the Srinshee and granted the Rulers' Blade, becoming seventh Coronal of the rebuilt realm of Cormanthyr with Fflar as her consort.
+
+After the second destruction of Myth Drannor in 1487 DR, Ilsevele and Fflar led their people to Semberholme.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Shadowdale: The Scouring of the Land • Anauroch: The Empire of Shade
+Novels
+Forsaken House • Farthest Reach • Final Gate • Avenger • The Herald
+
+Stardeep • Swordmage • Corsair
+Organized Play & Licensed Adventures
+
+Shades of the Zhentarim • Zhent's Ancient Shadows
+
+References
+
+Connections
+
+---
+
+## Ilyyela Miritar
+
+Ilyyela Miritar was the wife of Seiveril Miritar, leader of the Miritar clan of elves on the island of Evermeet. She was killed in 1371 DR during the war launched by Kymil Nimesin when the Tower of the Sun was destroyed. Seiveril attempted to resurrect her, but she refused to return from Arvandor, telling him that he would fulfill his role in the mortal world before joining her.
+
+Appendix
+
+References
+
+---
+
+## Ilrin Sharadin
+
+Ilrin Sharadin was a guide in the town of Triboar during the 14 century DR.
+
+He possessed a bad reputation as it was rumored he allied himself with the drow. Others suspected him of even worse deeds.
+
+Appendix
+References
+
+---
+
+## Illusionist
+
+An illusionist was a wizard specializing in illusion magic, which created false images and other sensory tricks.
+
+Culture
+Illusionists wrote their spells in a secret language called Ruathlek.
+
+Appendix
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Iltarch
+
+The Iltarch was one of the seats on the Council of Six, and later the Council of Five, the ruling bodies that governed the nation of Amn during the 14 and 15 centuries DR. By 1479 DR, House Ophal of Crimmor held this seat on the council.
+
+Responsibilities
+The Iltarch of Amn acted as the nation's main information-gathering officer. They kept a wide network of spies and freelance counter-intelligence agents to both gather details about the nation's rivals and obscure council activities to others. Thanks to the influence of Grandmaster Rhinnom Dannihyr, they had strong ties to the Shadow Thieves, though in the 15 century this bond was kept with House Dannihyr who had ascended to hold the seat of Tessarch.
+
+Members
+ Curkon Gheldieg (1333 DR – 1345 DR)
+ Phaan Colwyvv (1345 DR – 1362 DR)
+ Rhinnom Dannihyr (1362 - ?)
+
+Appendix
+References
+
+---
+
+## Illusion domain
+
+The Illusion domain was a deity domain that granted divine spellcasters like clerics with illusion spells and powers.
+
+Deities
+
+Powers
+The priest's illusion spells gained greater potency.
+
+Spells
+Novice spellcasters were able to use the silent image, minor image, and displacement spells. Clerics of some experience could cast phantasmal killer, persistent image, and mislead. Those that were masters of this domain had access to project image, screen, and weird.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Illefarn
+
+Illefarn was an elven city-state that was founded during the First Flowering in, survived the Crown Wars, grew into an expansive nation and later fragmented into smaller realms.
+
+Geography
+Illefarn as a nation at its height stretched along the Sword Coast from just south of the settlement of Illusk, itself not far south of the Spine of the World, to the River Delimbiyr. Its capital was Aelinthaldaar which was built in the shadow of Mount Waterdeep.
+
+Sciences
+Illefarn was renowned as the nation first to have formulated the theory of gravity.
+
+History
+Crown Wars
+Illefarn attempted to remain neutral during the turbulent period of the Crown Wars. In, secret safe havens were provided to former Miyeritari citizens by elves of Illefarn. Its High Mages and priests of Corellon, Illefarn's nobility, began decades of prayer in, hoping the Seldarine would intervene and end the Ilythiir dark elves' use of fire. Their prayers were answered in, although the consequences fell on all dark elves, not just the Ilythiiri, who became drow.
+
+In, under control of House Vyshaan and the leadership of Coronal Giilvas Vyshaan, Aryvandaar attacked Illefarn and its Llewyrrwood colony. They aimed to prevent Illefarn's priests and High Mages from opposing the Aryvandaar court as they had done to the Ilythiir. Aryvandaar slew Illefarn's nobility and annexed its lands. Survivors fled south to join Shantel Othreier, while others settled in the Moonshae Isles where they became known as the Llewyrr.
+
+In, the surviving priests and High Mages came out of hiding to oppose Aryvandaar in the Fifth Crown War. Illefarn managed to survive through the fighting, becoming a powerful realm in the aftermath.
+
+The Founding Time
+Despite resistance to several orc hordes from out of the Spine of the World mountains, it was the encroachment of humans into Illefarn's territory that spurred Syglaeth Audark, Illefarn's coronal, to call for a retreat to Evermeet, magically razing Aelinthaldaar in  to remove any proof of its existence.
+
+Over the next seven and a half centuries, many elves abandoned their homes of the last seven millennia and Illefarn's elven population dwindled into three smaller kingdoms: Ardeep, Iliyanbruen, and Rilithar. After the fall of nearby Athalantar in the, the elves of Ardeep forged a strong alliance with the dwarves of Dardath and the two realms kept the name of Illefarn, striving to work with local populations of humans instead of hiding from them. This came to pass less than two centuries later in the, when the "Illefarn" elves and dwarves helped to form the realm of Phalorm after the Council of Axe and Arrow.
+
+Apart from scholars, the memory of Illefarn was kept alive by the dwarves of Clan Ironeater, who stubbornly clung to their Illefarn identity centuries after the fall of Phalorm.
+
+Rise of the Empire
+As Netheril rose, it knew only Illefarn and Eaerlann among its elven neighbors. Elves of the two nations tried to provide guidance to the Netherese wizards, but the relationship deteriorated. In, the elves stole a set of Nether Scrolls, establishing a delicate balance of power among the nations that lasted millennia.
+
+The King of Shadows
+Illefarn was threatened by Netheril. A human wizard whose name is lost to time volunteered to sacrifice himself to a magical ritual to create an effective deterrent. The Guardian that resulted was a being of pure Weave magic.
+
+When Karsus's avatar was cast, the Weave was interrupted momentarily, which would have destroyed the Guardian. It chose to change its power source to the Shadow Weave and became the King of Shadows. The Illefarn sent warriors to destroy it, but failed. They then bribed the great dragon Nolaloth. The King of Shadows struck him down, but was sorely wounded and retreated to the Plane of Shadows.
+
+Fate of the Subrealms
+In the, a massive orc horde streamed out of the Spine of the World and laid waste to the Kingdom of Illusk and the hidden city of Gauntlgrym, and ravaged the dwarven empire of Delzoun. Iliyanbruen, Rillithar and the neighboring elven kingdom of Eaerlann united to finally destroy the horde. They paid a bloody price for their success.
+
+Within a century, the human dominated realm of Illusk had rebuilt and began to encroach south into Illiyanbruen. War finally erupted in the, and culminated in an Illuskan defeat at the hands of Lord Halueth Never the following year. Peace eventually returned in the, with the River Mirar set as the boundary between the two kingdoms.
+
+By the, the orcs were once again a serious threat. Elven outposts in the Spine of the World were overwhelmed and Illusk was again overrun. Human refugees began to swamp Iliyanbruen. To halt the tide, the host of Iliyanbruen marched to war against the orcs. In a campaign which lasted over 20 years, the face and nature of Iliyanbruen was changed completely. Within three years after the, Iliyanbruen was gone. Many elves had fallen against the orcs or departed for Evermeet.
+
+With victory achieved, the few remaining elves under Lord Never settled in Eigersstor, an Illusk refugee settlement, which was renamed Neverwinter in the Elf Lord's honor.
+
+In the, the fall of human-ruled Athalantar to an orc horde precipitated a hasty alliance between the Stout Folk of Dardath and the Fair Folk of Ardeep that was made permanent after the last Council of Illefarn was called. The Alliance of Illefarn then began debating allying with the humans of the region against the burgeoning threat of orc hordes rising across the North. However, before that decades-long discussion could reach any form of consensus, King Harnorth II Snowsword and most of the lands of Elembar fell to the Tarnished Tusk horde, which was in turn destroyed while invading the House of Stone in the . Only the capitol city of Delimbiyran and the lands immediately bordering it survived the orc horde’s assault.
+
+A dozen years later, in the, the elves of Ardeep and the dwarves of Dardath invited the humans of the Delimbiyr river valley, the gnomes of Dolblunde, and displaced halflings from Mieritin (now absorbed into Amn) to the Council of Axe and Arrow at the Laughing Hollow, where Phalorm, Realm of Three Crowns was founded. Javilarhh “the Dark” Snowsword, son of Harnorth II and heir to the throne of Elembar, was crowned King of Delimbiyran, one of Phalorm’s ruling triumvirate.
+
+In the, a small group of drow arachnomancers took over one of the ancient Illefarn ruins, interestingly enough, located in the deep jungles of Samarach of the Chultan Peninsula. Even though their goal remained a mystery, the drow brought a pack of phase spiders with them. The creatures were kept in the top levels of the ruins.
+
+Notable Locations
+ Capital: Aelinthaldaar
+ Ardeep: Ardeep Forest
+ Iliyanbruen: Neverwinter Wood
+ Rilithar: Kryptgarden Forest
+ Mount Illefarn
+ The Laughing Hollow
+ Arvahn
+
+Appendix
+Notes
+
+Sources
+
+Appearances
+Video Games
+Neverwinter Nights 2: Storm of Zehir • Neverwinter Nights: Darkness over Daggerford
+
+Baldur's Gate
+
+Gallery
+
+References
+
+FR:Illefarn
+de:Illefarn
+
+---
+
+## Iliphar Nelnueve
+
+Iliphar Nelnueve, known as Lord of the Scepters, was an elven warrior-mage.
+
+Appearance
+Iliphar had long silver-blond hair, constrained by a circlet with three spikes and an inset amethyst. He has a scar from one temple to his chin, inflicted in combat with the ancient black dragon Thauglor.
+
+Background
+In the, Iliphar dared to make camp in the Land of the Purple Dragon; now known as Cormyr. He was spotted by Thauglor, who ruled said land, but respectfully retreated, in awe of the great dragon's speed and grace.
+
+Iliphar's powers in battle earned him the respect of the elven House Amaratharr after defeating the dragonkin of Thauglor on numerous occasions. In the, Iliphar and a small group of elves met with Thauglor and his two young witnesses, the blue Gloriankithsanus and red Mistinarperadnacles, in a parley. Iliphar challenged Thauglor to a Feint of Honor that would become known as The Passing of Power. Thauglor lost and the elves laid claim to the Forest Country.
+
+In the, Iliphar brought his elven court to the settlement of Suzail and organized the coronation of Faerlthann Obarskyr, the first king of Cormyr. He appointed Baerauble Etharr as the advisor to the crown.
+
+The date of Iliphar's death is not known but he died sometime before 900 DR.
+
+Personality
+Iliphar had a quick wit and came across as fearless.
+
+Possessions
+Iliphar carried a golden staff twisted so it appeared like rope. It was topped by a purple stone carved into the shape of a bird. He wore a sash of various wands in individual sheaths ready for combat. When expecting combat, Iliphar wore a soft green cassock and a dark green cape, threaded with gold and amber. The cape's hem was inset with extremely sharp crystals, so it could be flung towards opponents to cause injury. Beneath this, he wore a silvery mail body suit. Iliphar carried a thin, whip-like blade.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Iljak
+
+Iljak was one of the largest and most powerful city-states in the Vilhon Reach.. Sometimes it fell under the control of Chondath.
+
+Geography
+Iljak stood on the southern shore of the Vilhon Reach, neighboring Samra to the north-east and Shamph to the south-east. All three cities were connected by a triangle of routs connected to the Emerald Corridor trade route.
+
+Government
+Iljak was ruled by the governor, who, in turn, was controlled by Chondath. In the late-14 century DR, Iljak was ruled by Governor Anton Yinoran. He served expansionist Lord Eles Wianar of Arrabar, who retained solid control of Iljak through cunning political maneuvers. The Governorship of Iljak was considered a light dictatorship by some and an unwilling puppet by others, the fact that the city's governor denied. The truth of the matter was simple, Iljak paid its high taxes to Arrabar because it could not afford to go against northern Hlath southern Arrabar.
+
+Defenses
+Circa the mid–14 century DR, Iljak was defended in part by a band of mercenaries that specialized in amphibious-combat operations. Originally founded across Vilhon Reach sea, these Turmishite warriors were hired by various organizations across the Vilhon Reach region to deal with unwanted smugglers.
+
+Trade
+
+Iljak's main industries were fishing and agriculture. The city grew several crops and grains that were exported out to Arrabar, Reth, and even to the city's adversaries, such as Hlath.
+
+Even though both Iljak and Hlath were part of Chondath, the two cities shared animosity that resulted in a series of raids on Iljakian visitors and merchants who traveled along the Old Road and along the Emerald Corridor. Iljak was very much shaped by its past disastrous destruction. These historical scars informed the city's cautious demeanor and serious attitude towards aggression from its neighbors. The neighboring cities of Shamph and Samra were watched with suspicion and readiness.
+
+History
+Iljak was the first major trade city in the Vilhon Reach, established in the . Many smaller towns and villages that surrounded the area quickly joined the city to be able to use its busy port. The city grew rapidly, regularly pushing out farmers and moving their fields and pastures further and further away. By the end of the year, Iljak was controlling territory, 50-miles in radius surrounding the city.
+
+By the, Iljak had several towns that competed for territory and trade. Namely, the cities of Samra and Mussum. Iljak started a war with its two neighbors on the 12 of Flamerule. The battle took place on the beaches of Mussum and was in a state of a stalemate by the early Eleasius. The war ended soon after Samra's forces flanked Iljak's army and raided the city while it was unprotected. Iljak was overpowered and surrendered to Samra and Mussum, who, in turn, sold soldiers and civilians of the torched city into slavery.
+
+A disaster struck Chondath in the . A disease known as the Panicked Plague stricken Mussum. The plague wiped  75% of the city's population overnight. Survivors fled now dead city and settled in the small village of Iljak. The city grew after the demise of its old enemy. In 900 DR, Chondath entered into a civil war, the Rotting War, that lasted until 902 DR and ended in cities of Chondath becoming independent city-states. Iljak remained under the shattered nation's control.
+
+Iljak was almost completely burned down once again following a fierce trade war circa 1340 DR. By the, Iljak was rebuilt and found itself in a small-scale war with the city of Hlath along the Emerald Corridor, the main trade route through Chondath. Both cities considered themselves rightful recipients of the trade that flowed through the Corridor, and the conflict was kickstarted by Hlath's raids on Iljak's caravans. While this conflict smoldered, the cities of Arrabar and Shamph profited from the merchants unwilling to get involved. And by 1372 DR, the city's new walls were almost complete.
+
+With the advent of the Spellplague of the, the nation of Chondath was destroyed by the wild magics. The cities of Arrabar, Hlath, Iljak, Reth, and Shamph became twisted ruins of danger and lost riches that beckoned adventures. After the return of Mystra during the Second Sundering, the spell-scarred land of was healed, and as of late-15 century DR, Chondath was returned to the face of Toril.
+
+Notable Locations
+Landmarks
+Cascade, the seat of Iljak's power, a marble-carved palace, and the home of the city's Governor.
+
+Temples & Shrines
+Temple of the Vigilant Guard, one of the five major temples of Helm, the Vigilant One in the Vilhon Reach.
+The church of Silvanus had a shrine to the Forest Father in the city.
+
+Appendix
+Appearances
+Novels
+
+Whisper of Waves
+
+References
+
+FR:Iljak
+
+---
+
+## Iltharl Obarskyr
+
+King Iltharl "the Insufficient" was the 17th Obarskyr monarch, crowned King of Cormyr in the Year of the Hunting Horn, 242 DR.
+
+Appearance
+Iltharl usually dressed in immaculate robes. He also had a ceremonial bronze breastplate and leg guards, with fantastic beasts in relief. He wore the Crown of Faerlthann, the crown given to Faerlthann Obarskyr by Iliphar Nelnueve.
+
+Relatives
+Iltharl's father was Boldovar Obarskyr. He was married. His sister was Gantharla Obarskyr.
+
+Background
+Iltharl enjoyed the arts, including sculpture, painting and music. He also enjoyed hosting parties and feasts. This led to the feeling that he did not make enough decisions, nor did he let others make them. He was also unable to have a child with his wife.
+
+In 245 DR, just three years into his reign, Iltharl became aware of a plot to replace him by marrying his sister Gantharla to Kallimar Bleth and waiting for them to produce a male heir. This led him to reconsider his position as king, and chose to abdicate to Gantharla, making her the first queen of Cormyr, although this was not an easy thing for him to find the courage to do.
+
+After abdicating, Iltharl joined the elves in Cormanthor where he would be able to pursue his interest in the arts.
+
+Appendix
+Appearances
+Novels
+
+ The Siege
+References
+
+Connections
+
+---
+
+## Ildool (Lord)
+
+Lord Ildool was the Crown's representative in Marsember, Cormyr. He was widely distrusted because of his alleged dishonesty about taxes, and the Harpers were keeping him in check. Ildool lived at the King's Tower. He often met with trade delegations from other states such as Sembia, and he was rumoured to be on friendly terms with Thay. Ildool was also rumoured to use the apparently disused shrine to Waukeen as a covert meeting place. He was replaced by Bledryn Scoril after he died sometime between 1368 DR and 1372 DR.
+
+References
+
+---
+
+## Ilmeth
+
+Ilmeth was the grim, yet fair Lord of Essembra. He was somewhat obsessed with commanding Battledale's army known as the Lord's Men. Lord Ilmeth barely tolerated adventurers in his presence, so long as they remained out of his way.
+
+War-Chancellor Ilmeth was an accomplished warrior. He inherited the lordship of Essembra in 1351 DR.
+
+Disputes and justice were traditionally resolved by the lord of Essembra. Ilmeth disliked this duty, but tried to be as fair as possible.
+
+References
+
+---
+
+## Illsenstaad
+
+Illsenstaad  was a stone giant of Hotun-Shûl in the Ice Spires.
+
+Relationships
+He was the second son of Obadai.
+
+History
+Illsenstaad spent much of his life creating the many friezes within Hotun-Shûl, having been charged by his father Obadai with documenting both the tangible and religious history of the giants.
+
+Around the 10 century DR, 400 years prior to 1366 DR, Illsenstaad was killed in his living quarters by one of the many earth elementals unleashed by grimlocks assaulting Hotun-Shûl.
+
+Instead of passing on to the afterlife, Illsenstaad lingered in the temple as a ghost, his spirit tormented by the fact that he never got to finish carving the friezes for a room dedicated to the history of ettins and cyclopes.
+
+He would spend the following centuries working tirelessly to carve runes into the large statue that laid in Hotun-Shûl's central rotunda, eventually transforming it into a rune-forged guardian to protect the temple.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Illuskan
+
+Illuskan was the name usually given to humans from the Sword Coast North, the North, and the island realms of the Sea of Swords and Trackless Sea. They included the seafaring Northlanders, the Uthgardt tribes, the Reghedmen tribes, and the bulk of the human population in places like the Delimbiyr Vale, Luskan, Mirabar, Neverwinter, Silverymoon, and Waterdeep.
+
+Description
+Illuskans were tall, fair-skinned people. Most had blue or steel gray eyes. Those living on the islands in the Trackless Sea and Icewind Dale had more blond hair, with red and lighter brown also being common. Those in the Sword Coast North and surrounding lands had more raven black hair, from their significant Netherese heritage.
+
+Outlook
+Most Illuskans derived great pride from their resilience in the face of the harshness of their homelands. They saw folk from southern lands as weak and decadent.
+
+Culture
+Most Illuskan commoners were farmers, fishers, miners, or sailors. More adventurous types were known to become raiders, skalds, or runecasters.
+
+History
+The early ancestors of the Illuskans were seafarers who appeared out of the west to settle on the island of Ruathym in the Trackless Sea circa . The Illuskan people would come to regard Ruathym as their ancestral home, from where they spread onto the continent of Faerûn following the founding of the city of Illusk circa . By, they had also begun to settle the many islands west of the Sword Coast as far south as the Nelanther Isles.
+
+Appendix
+See Also
+ List of characters of Illuskan ancestry
+
+Further Reading
+ Races of Faerûn
+ Forgotten Realms Campaign Setting 3rd edition
+References
+
+Connections
+
+---
+
+## Ilthivaar Daemonscar
+
+Ilthivaar Daemonscar is a drow commander who has led a group of his kin from Cormanthor to Wolfwatch Manor in Battledale. He aims to conquer the dale as his own kingdom.
+
+References
+
+---
+
+## Illithid body tamer
+
+Illithid body tamers were illithids who focused on martial skill over psionic prowess.
+
+Description
+Illithid body tamers followed a discipline called the "Tamer Creed". This creed dictated that only a potent military force would ensure the illithid society's future existence. They maintained that only by abstaining from psionics would they strengthen their considerably frail bodies sufficiently enough to become accomplished warriors.
+
+Abilities
+These illithids followed a code of mental abstinence. As such, they trained their bodies for combat and forwent the use of their psionic abilities. Illithid body tamers could improve the fortitude of their bodies. Needless to say, such a payoff was valuable for a race of admittedly physically weak individuals. Such mind flayers were able to use their tentacles as weapons. These illithid body tamers could power whirlwind attacks, which could potentially kill their opponents instantly.
+
+Notable Illithid Body Tamers
+ Ralayn, an outcast good illithid body tamer
+
+Appendix
+
+References
 
 ---
 
@@ -264,6 +769,164 @@ Connections
 
 ---
 
+## Illius
+
+Illius was a sorcerer during the 14 century DR.
+
+Abilities
+He used a staff and a formidable array of magical powers, as well as a set of force beads he used in combat.
+
+History
+Illius was born into an ancient line of knights known as the Silver Guard of Silverymoon, but when he discovered that he had sorcerous powers he pursued that path instead. His father disapproved of this and disowned Illius, though it was later discovered that Ygorl had mentally influenced Illius' father from inside the demon stone.
+
+At some point, Illius trained under Khelben Arunsun. Later, he adventured with Rhannek and Zhai, and would come into possession of the demon stone.
+
+In recognition for their exploits, Illius and his companions were granted rulership over Vaasa on behalf of King Gareth Dragonsbane.
+
+Appendix
+
+Behind the scenes
+ He is voiced by Christopher Nissley.
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Ilthan
+
+Ilthan was an island in the Pirate Isles in the Sea of Fallen Stars.
+
+Description
+There were several harbors on the island, mainly situated along the southern edge. There were no major settlements, as the storms that occurred during the winter were so severe they tended to destroy most buildings.
+
+The most prominent feature of Ilthan was a city, built of stone and fallen into ruin, that stood in the center of the island,Pirates of the Fallen Stars places the city in "the northern highlands", but the later source, Sea of Fallen Stars, says it was in the center. forming its highest peak, and was built for creatures much larger than humans and cyclopskin.
+
+Inhabitants
+Cyclopskin claimed the northern edge of Ilthan, herding sheep and goats, but lived on the southern shore inside of high cliff caverns. Some were known to keep minotaur lizards as both pets and guard animals.
+
+Pirates tended to live in small communities on the southern edge of the island, departing to Dragonisle whenever the winter season came. They largely left the cyclopskin alone, considering the dearth of adequate harbors on Ilthan's northern shore not worth the trouble.
+
+Rumors & Legends
+According to legend, whoever once lived in Ilthan's ruined stone city had dominated the Sea of Fallen Stars, but were destroyed by vengeful gods.
+
+Rumors said that the cyclopskin who inhabited the island were lorded over by a small band of ettins.
+
+Appendix
+
+Notes
+
+References
+
+---
+
+## Ilighôn
+
+Ilighôn was one of two islands, along with Wavecrest, that made up the Eyes of Silvanus in the Sea of Fallen Stars. It was situated close to the mouth of the Vilhon Reach and benefited from the protection of reefs as well as the magic of the Emerald Enclave.
+
+The island was accessible via a gap in the reef, known as the Farshore Straits. This passageway was guarded by the Seven Sentinels of Silvanus, a group of water and air elementals who acted upon the direction of the enclave.
+
+Description
+Magic nullification
+A unique property of the island was that it naturally negated all arcane magic. If a wizard were to cast any magic on the island it would immediately fizzle into nothingness; this included spells that may have been cast prior to arrival such as stoneskin or contingency. Any scrolls, rods, staves or other items with magical charges would cease to function and their use would ultimately be a waste of magical energy.
+
+Divine magic was unaffected in this way, rather the island possessed a faith-magic zone, which improved the effects of certain magic of the gods. Although the nature of this boon wasn't fully known to the mortals of Toril, it was believed to have been a gift from the goddess Mystra to Silvanus.
+
+Geographical features
+Calling, Elder and Springbrook Rivers
+These three rivers were formed from the pools of water surrounding the House of Silvanus. They roared down the Elder Spires, forming magnificent waterfalls.
+
+Eldath's Ring
+
+Grandlore Forest
+ Covering over half its land, the Grandlore was easily the largest forest on Ilighôn.
+
+Great Forest
+ The smallest forest on the island, located on its southern reaches.
+
+Lake Bluesprings
+This getaway for the island's residents was surrounded by otherwise wild and overgrown lands.
+
+Mielikki's Garden
+A grove of primarily oak trees on the north-eastern region of the island.
+
+Notable Locations
+
+Archentree
+A settlement of sorts that served as a gathering place for treants, some of whom were extremely old.
+
+Druidhome
+ While it wasn't a settlement so much as a collection of small groves, Druidhome served as a haven for elder rangers, priests and druids who wished to live their last years in service to the nature deities.
+
+House of Silvanus
+A holy site for the worshipers of the Forest Father located in the heart of the island of Ilighôn. It could be reached by the Hierophant trail, a walkway that led to the temple from the city of Sapra.
+
+Sapra
+This enclave city was a haven to those across Faerûn who sought to live away from what saw as the tremendous negative effects of wizards and their brand of magic.
+
+History
+The island was originally settled by a group of druids in 374 DR. Within a few years they had constructed the temple known as the House of Silvanus.
+
+With the retreat of the waters of the Sea of Fallen Stars after the Spellplague, the island became part of mainland Turmish.
+
+Appendix
+Appearances
+
+References
+
+FR:Ilighôn
+
+---
+
+## Ilianaro Durothil
+
+Ilianaro Durothil was the patriarch of the elven House Durothil as of 1368 DR. He fought at the Fall of Myth Drannor using the Durothils' great weapon, the axe Redethemar.
+
+Appendix
+
+References
+
+---
+
+## Ildamoar Hardcastle
+
+Ildamoar Hardcastle was the head of the Cormyrian noble Hardcastle family in the latter half of the 14 century DR.
+
+Description
+He was a vigorous man even into his twilight years.
+
+Relationships
+Ildamoar was staunchly loyal to the ruling Obarskyr family, especially Alusair Obarskyr. He had two sons, Guldrin and Rathtar.
+
+History
+When the "Devil Dragon" Nalavarauthatoryl invaded Cormyr in, Ildamoar was among the nobles who pledged troops to aid in the realm's defense. He lost both his sons in the fighting.
+
+Alusair Obarskyr personally informed Ildamoar of his sons' passing, for which he was eternally grateful. The two became friends, with Alusair often inviting Ildamoar to parties with younger nobles.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Illitran Starym
+
+Lord Illitran Starym was Lord Speaker of the Starym clan. He infamously forged a pact with Moander in order to fool his Moonblade and retain power over the house.
+
+In 523 DR, a branch of  moon elven ex-patriate members of the Starym Clan returned to Myth Drannor to reclaim the house and return it to glory. The return drew the line of succession into question, as the heir at the time, Josidiah Starym, was away on a mission to find the lost Warblade since 500 DR. The Coronal Eltargrim Irithyl demanded that the current Lord Speaker, Illitran, draw his family's Moonblade to prove his worthiness and preserve Josidiah's heir status.
+
+Determined to draw the blade successfully, Illitran set out on a three-month trek through the woods intended to purify his soul and clense his spirit. Unknown to all, he actually visited the ruins of Moander's temple in the northern forest, where he forged a pact with the imprisoned god, gaining the ability to cancel the powers of the sword that would deem him unworthy of Lordship. Instead, the sword would only deliver an electric jolt to someone not of pure elven lineage, but would accept any pure-blooded elf regardless of character. Upon his return, he easily drew the blade, and proved to Myth Drannor his family's loyalty.
+
+While Josidiah was away, Illitran named his first son, Venali Starym the heir of the house Lordship.
+
+References
+
+---
+
 ## Ilythiir
 
 Ilythiir was a realm of the dark elves during the Dawn Ages and First Flowering (founded roughly ) before being destroyed after the Descent of the Drow following the Fourth Crown War.
@@ -371,6 +1034,418 @@ FR:Ilythiir
 
 ---
 
+## Ildilyntra Starym
+
+Ildilyntra Starym was a matriarch of the Starym clan of elves in of Cormanthyr in the 3 century DR. She was a chief opponent of Coronal Eltargrim Irithyl's plan to open Cormanthor to non-elves, and took her own life to form a blood dragon in an attempt to slay the elven ruler.
+
+Description
+Ildilyntra was known for her dark eyes that glinted gold when she was full of emotion, and her dark blue-black hair, which she wore unbound and so long it nearly touched the ground. She had perfect blue-white skin that shone brilliantly.
+
+Relations
+Ildilyntra once had a relationship with Coronal Eltargrim, as friends and possibly lovers.
+
+History
+Ildilyntra, angered by the Coronal's refusal to halt his plans for the Opening (in which all races could come to Cormanthor and enjoy its beauty), came to him in the  to plead with him in person. When he still would not be swayed, she took her own life with her honor blade, stabbing herself once in the breast, the neck, and the eye, to form a blood dragon that would attempt to slay Eltargrim. The Coronal defeated the dragon with magic and her attempt was in vain. Despite this attack, the Coronal had her buried with full honors and returned her family's relics without question.
+
+Appendix
+References
+
+---
+
+## Ilneval
+
+Ilneval  was the orc god of strategic warfare and patron of orc captains, symbolizing the race's combative nature. He was the archetypal leader in front who unflinchingly lead the charge, embodying the orcish tactic of overwhelming numbers, and the Horde Leader was revered by those that saw the wisdom in that strategy. With bloodied blade in hand, he called those that understood the flow of battle to sit around his council fire and learn the ways of the War Maker.
+
+Description
+Ilneval appeared as a confident and seemingly war-wise, yet perpetually unsmiling,  tall orc. His face and arms were marred heavily by battle scars that only increased his appeal to his orcish followers.
+
+Personality
+Bold and direct, Ilneval was a daring leader that charged headfirst into battle with only the destruction of his opposition and triumph over his adversaries on his mind. He was a take-charge figure of inspiring bravery that loathed cowardice and underhandedness, but was not, as one might assume, an unthinking brute.
+
+Indeed, Ilneval was actually a devious strategist, but his careful plans were made before the battle to maximize his odds of success and ensure he inflicted as much damage on the enemy as possible. He was both self-serving and ambitious, preferring to plan the conquest to come rather than reminisce on victories past.
+
+Powers
+Ilneval was nearly as strong as the incredibly powerful Bahgtru, and his avatar was immune to non-magical weaponry. It could also use clerical magic and cast domination three times per day.
+
+Possessions
+Ilneval's dreadful broadsword was enchanted, and caused profuse bleeding in those it struck unless magic on or above the level of cure serious wounds was applied. There was a chance that any non-orc it hit would be instantly slain.
+
+The War Maker also wore an enchanted suit of red, iron chainmail that deflected all missile weapons including arrows, bolts, and ray-form spells or spell-like abilities, though it was possible that enchanted missile weapons could harm him.
+
+Realm
+The orc pantheon was known to move between the planes in their war against the goblinoid pantheon. At one point they went from the Nine Hells to Acheron, with Ilneval inhabiting a smaller block orbiting the cube of Nishrek. Eventually he ruled the warriors with a fortress town on one of Nishrek's faces, the Blood Armor clan. His forces were often content to battle against the goblinoid legions of Clangor.
+
+In the World Tree cosmology, where Nishrek was its own realm (a twisted natural landscape marred by carnage and warped to fit orc ideals), Ilneval dwelt within Gruumsh's Iron Fortress.
+
+Activities
+Ilneval's role in the orc pantheon was that of the captain, the master commander (next to Gruumsh) who devised the tactics and stratagems that allowed orcs to dominate the battlefield and fill their war wagons with gore and treasure. Ilneval was called upon to lead Gruumsh's forces when the One-Eyed God lacked the time, or otherwise did not wish to do so himself, and the Crafty Warrior only sent an avatar at his superior's command, and only when the battle was important.
+
+Relationships
+Ilneval was Gruumsh's first lieutenant and right hand, and allowed no challenges to his position, systematically stopping any potential rival. He had deposed or destroyed one or two orc gods in the past, crushing demigods and relegating more powerful deities to lesser status in his climb to power. This was because he secretly coveted the position of Gruumsh, and had been waiting for ages to seize the throne of He-who-never-sleeps. However, many obstacles stood in the path of the Crafty Warrior's objective, and for a god of bold warfare, he was ironically restricted by several forces beyond his influence.
+
+Gruumsh was aware of Ilneval's desire and so rightly did not trust him, but with his son Bahgtru on his side, some of the One-Eyed God's concerns were relieved. Ilneval was absolutely terrified of Bahgtru's brutality, and so long as the Leg-Breaker remained loyal to Gruumsh, Ilneval would stay loyal enough to him as well, so Gruumsh chose not to take action. Ilneval secretly resented Bahgtru for this on top of being frightened by the stronger but stupid deity, and so avoided him as much as possible (never battling with him) while covertly working to undermine him. Ilneval was also believed to lust after Gruumsh's mate, Luthic, but was afraid to act on this desire as well.
+
+The more sinister members of the pantheon, Shargaas and Yurtrus (the orc god of darkness and stealth and the orc god of death and disease respectively), had a cold, quiet alliance to counterbalance the influence of the orcish gods of war, including Ilneval as well as Bahgtru and Gruumsh. Shargaas in particular, who was even more cunning than Ilneval, secretly revealed his treacheries to Gruumsh to simultaneously undermine the War Maker and cement himself in the pantheon. Ilneval intensely disliked the two of them for their craven, dishonorable methods but was smart enough to make use of their talents effectively when fighting other pantheons.
+
+Others
+Though he had his differences with his fellows in the orc pantheon, Ilneval hated the goblinoid gods, Morndinsamman, Seldarine, and all their other traditional enemies, and would never betray his race as a whole. He once found himself in battle with Bahgtru against the forces of Khurgorbaeyag, the goblin god, and Hruggek, the bugbear deity.
+
+Ilneval's proxy was the half-orc warrior known as General Guldrin Blut.
+
+Worshipers
+
+Ilneval was considered the god of orcish leaders, and his clerics were expected to be physically strong themselves, charismatic enough to lead, and able to command a military force effectively.
+
+Ilneval was also seen as the patron of orc crossbreeds, particularly the powerful ones, with ogrillons and tanarukks (orc-ogre and orc-tanar'ri hybrids respectively) being prime examples. Half-orcs were included under this purview, with those that worshiped the orc gods following him in particular, and orogs often revered him due to them frequently being in leadership roles. Tanarukks believed him to be their special patron, worshiping him almost as much as Gruumsh, and if the race were to expand he'd likely supplant the One-Eyed God in their eyes, with wiser tanarukks already favoring him.
+
+Dogma
+Ilneval taught his followers to train hard and think smart to prepare for the unending battle that was life. It was their duty to unite the tribe into a raging storm that could attack as one, using the strength found in numbers to triumph. Nonetheless, when combat began, they were to charge into the fray and let the blood fall as it would. Ilneval's own courage inspired great loyalty, and only through personal courage would one prove themselves worthy of leadership.
+
+Rituals
+Clerics and adepts of Ilneval prayed for their spells at dusk to prepare for the battle of the upcoming night. Their holy days were before and after battle, but they had only a few besides token rituals of obeisance to honor Gruumsh, a calculated show of fealty by the Crafty Warrior. The clergy's most sacred celebration was an annual raid on Greengrass, when the clerics of the War Maker gathered hordes of orcs to descend upon the civilized world and destroy all in their path. Sacrifices to Ilneval could be performed anywhere and consisted of blood and weapons.
+
+History
+Near the end of the Orcgate Wars, Ilneval fought against the leader of the Untheric pantheon, Gilgeam, before Tiamat used the situation to launch an ambush against the God-king. The Untheric aspect of Bahamut known as Marduk managed to defeat Tiamat before she could land a killing blow, though at the cost of his own life.
+
+Appendix
+References
+
+Connections
+
+de:Ilneval
+
+---
+
+## Ilnezhara
+
+Ilnezhara was a copper dragon who lived in the Bloodstone Lands in the 14 century DR.
+
+Description
+Her human form was that of an attractive woman with a shock of thick, copper-colored hair and huge blue eyes. She was often dressed in the finest of clothing. Her figure was straight, tall, and slender.
+
+History
+The dragon was centuries old by 1368 DR. She had a sister, Tazmikella, with whom she crawled from her egg in the great deserts of Calimshan.
+
+She and her sister were once approached by Zhengyi, the Witch-King, with the offer of immortality in lichdom if they served beside his conquering armies. The dragon sisters declined that offer.
+
+Arond 1368 DR, Ilnezhara was operating a shop at Wall's Around in Heliogabalus called "Ilnezhara's Gold Coins".
+
+Later, around 1484 DR, Ilnezhara was posing as the human Lady Zee, the owner of a curiosity shop called A Pocketful of Zzzzs at Wall's Around in Helgabal. That year, the drow Jarlaxle approached her and her sister, requesting them to help him in the events surrounding the Darkening and the involvement of several white dragons.
+
+Relationships
+For some time she was the lover of the drow mercenary Jarlaxle. She found him quite charming.
+
+Appendix
+
+Appearances
+
+References
+
+de:Ilnezhara
+
+---
+
+## Illuskan language
+
+Illuskan was an ethnic human language spoken in northwest Faerûn, largely by Illuskans.
+
+Speakers
+Illuskan was commonly used as a lingua franca along the Sword Coast North, in addition to the ubiquitous Common. Other regions where it was commonly spoken included Mintarn, the Moonshaes, Ruathym, and among the Uthgardt.
+
+Dialects
+There were three major dialects of Illuskan. Moonshae was spoken by the Ffolk and the Northlanders of the Moonshae Isles. Ruathen was spoken in Ruathym, and True Luskan was the dialect of the city-state of Luskan. Bothii, the language of the Uthgardt, was treated by some as a dialect of Illuskan.
+
+Script
+Like the majority of Faerûn's human tongues, Illuskan used the Thorass alphabet.
+
+History
+Illuskan was in the Illuski language group, the same family language as Bothii and Reghedjic. It derived from Old Illuskan and was strongly influenced by Netherese.
+
+Examples
+Common Illuskan surnames included Brightwood, Helder, Hornraven, Lackman, Stonar, Stormwind, and Winddrivver. Common male names included Ander, Blath, Bran, Frath, Geth, Lander, Luth, Malcer, Stor, Taman, and Urth. Common female names were Amafrey, Betha, Cefrey, Kethra, Mara, Olga, Silifrey, and Westra.
+
+The city of Neverwinter was originally called "Eigersstor", the Illuskan translation of the name.
+
+Dictionary
+ Dock-alfar  Dark elf
+ Eigersstor  Neverwinter
+ Hamfriggan  Lit. shapestrong, used to refer to the shapeshifters of Ruathym
+
+Appendix
+Appearances
+ Tangled Webs
+
+References
+
+Connections
+
+---
+
+## Illusory ambush
+
+Illusory ambush is an illusion spell similar to a simplified and easier to master version of the phanstasmal killer spell. Illusory ambush is learned by wizards, particularly those who wish to become illusionists. When cast, illusory ambush manifests a small number of illusory assailants at a location within fifty feet of the wizard, who seem to attack an intended target, distracting him or her from their own assault against the wizard. So realistic is this illusion that those who fail to see through it are actually injured in the process of fighting off the phantasmal attackers. The illusion does not last long but can be recast at any time.
+
+ References
+
+---
+
+## Iltkazar
+
+Iltkazar (the Mithral Kingdom) was a subterranean dwarven realm, originally one of the eight sub-kingdoms of Shanatar, and known for its stone carving and engineering. The term "Iltkazar" came to describe more than just the original sub-kingdom, and by  it was used to describe a sub-kingdom of Calimshan. The Shanataran sub-kingdoms of Barakuir, Drakkalor, Holorarar and Ultoksamrin were located in Iltkazar, as well as Zokir, City of Orbs.
+
+As of 1371 DR, Iltkazar was mainly inhabited by shield dwarves, although populations of humans, rock gnomes, svirfneblin and urdunnirin also existed.
+
+In its prime, Iltkazar had an estimated population of 7,506 (mostly shield dwarves) and was ruled by a silver dragon known as King Mith Barak the Clanless, who spent seventy-five out of every hundred years sitting still as a solid mithral statue on his throne. During this time, the Regency Council of Iltkazar ruled the city. It was probably the best defended city in the Underdark.
+
+In 1367 DR King Mith Barak's astral form was captured by Tiamat and he was only released in 1477 DR.  During his absence the city was ruled by regents.
+
+Appendix
+Further reading
+
+References
+
+Connections
+
+---
+
+## Illul
+
+Illul was a city on the island of Lantan in the Trackless Sea.Text in the sourcebooks consistently refer to Illul as a city, though The Forgotten Realms Atlas map marks all sites in Lantan as villages, presumably in error. It was the center of the faith of Gond the Wonderbringer in the Realms.
+
+Geography
+It stood on the southern shore of the island, facing the island of Suj over the channel called the Sambar Run.
+
+Notable Locations
+The High Holy Crafthouse of Inspiration in Illul was the center of the church of Gond in the Realms. It was a large walled monastery.
+
+Notable Inhabitants
+Circa 1370 DR, the monastery was run by High Artificer Danactar, Most Holy Servant of Gond. Danactar was the highest-ranking mortal cleric of the Lord of All Smiths.
+
+The techsmiths of the church of Gond were based and trained in Illul at the High Holy Crafthouse.
+
+Appendix
+Notes
+
+Reference
+
+---
+
+## Ilmater's martyrdom
+
+Ilmater's martyrdom was a divine spell that could be granted to worshipers of Ilmater. It allowed them to temporarily weaken themselves so as to immediately heal an ally close by who had just dealt a grievous injury.
+
+References
+
+---
+
+## Illusk
+
+Illusk was an ancient city that had been destroyed and rebuilt many times. The city of Luskan stood upon its ruins, the market district to its north, and the noisy slums to its south.
+
+Notable locations
+ Darkwalk A street bisecting the ruins of Illusk and lead to the Dark Arch. It was named for the haunted reputation of the ruins of Illusk.
+
+History
+   The city was founded around this date by Ruathen seafarers at the mouth of the River Mirar, displacing the local population of ice hunters.
+
+   Illusk and its people were crushed under a giant-led orc horde. Even help from Jeriah Chronos and his Netherese arcanists couldn't save the city.
+
+   The Netherese returned to refound the city as a magocracy ruled by a Grand Cabal of mages led by Fynran the Flamelord.
+
+   Another Netherese arcanist named Melathlar arrived in Illusk, fleeing the phaerimms. Fearing that he would be followed, Melathlar sarificed himself to magically erect the Host Tower of the Arcane as well as huge stone walls and spellwards. Over the next several years more and more Netherese refugees migrated to Illusk as their homes in Low Netheril were wasted by the phaerimm lifedrain magic.
+
+   Several orc hordes swept down from the Spine of the world at once and wiped out both Illusk and Gauntlgrym as well as most of Delzoun. Most of the citizens of Illusk managed to flee and the local elf population united to defeat the orcs. The resiliant netherese descendants then begin rebuilding their homes three years later, restoring Illusk to it's former state.
+
+   The Grand Cabal became imperialistic and expand their borders south and east; as a result, they quickly met with elven resistance which then became organized.
+
+   In the Year of Burning Glades an elven army led by Lord Halueth Never attacked and defeated Illusk, though they failed to extinguish all Illuskan resistance. After long peace talks, the Illuskans and the elves agree on making the River Mirar the border between their realms in the Year of Pacts.
+
+   Led by Uthgar Gardolfsson, Ruathens returned to Illusk, this time as invaders. They slew the Grand Cabal but the rest of the wizards retreated into the Host Tower. Expecting to be hailed as heroes, the Ruathens were surprised when the Illuskan people burned their ships and drove them out of the city. Over the next year, Stefan Blackspear drove most of the remaining wizards out of the city and established himself as Highlord of the city.
+
+ 151 DR  Illusk, possibly weakened by its efforts to help rebuild Gauntlgrym, is captured by yet another orc horde and renamed Argrock. This change doesn't last and after the orcs were driven out the city was recolonized by settlers from Yarlith, Uthtower and the Mlembryn lands. Taman Steeldrake rose to lead these colonists as the first Grand Prince of Illusk.
+
+ 306 DR  Illusk was attacked again by an orc horde, though this time it was defeated by an army of mercenaries.
+
+ 611 DR  The Everhorde leaves the city in ruins with only the Host Tower surviving the assault.
+
+ 806 DR  Laeral Silverhand, the witch-queen of Stornanter, sealed the liches of the Grand Cabal inside the Host Tower and began efforts to rebuild and resettle the ruins. By the time the construction was finished, the city was already prospering thanks to flourishing trade with Mirabar. This profit was used to obtain resources in order to build strong defensive walls. The city gained strong ties with Stornanter thanks to their mutual trading ties to Mirabar and then even more so when a Duke of Stornanter became the ruler of Illusk.
+
+ 1023 DR  After centuries of trade and successfully repelling attacks from Uthgardt, a Grand Prince named Galnorn tried and failed to conquer Mirabar.
+
+ 1044 DR  A Neverwintan wizard revealed Galnorn to be a doppelganger and slew it.
+
+ 1235 DR  Another band of orcs, calling themselves the Bloody Tusk tribe attacked and besieged Illusk. They continued the siege for 9 long years, ruining the city, until the last human resistance was defeated. The orcs used the ruins as a fortified bandit camp for 57 years until a Waterdhavian mercenary army cleared the ruins. With help from Neverwinter, the city was rebuilt and renamed Luskan by the next year.
+
+After the Spellplague
+Luskan later resided on the ruins of Illusk.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Illithocyte
+
+Illithocytes were illithid tadpoles that survived the fall of a mind flayer empire, and evolved into a new life form. They crawled about in groups seeking psychic radiation on which to feed.
+
+Description
+Illithocytes were deformed, slug-like illithid tadpoles grown to  long and . They had mottled purple and brown coloring, and tentacles coated in mucous in front of the mouth. Since illithocytes always lived in family groups, they frequently looked like a single larger creature.
+
+Behavior
+Illithocytes operated wholly on instinct, with no sense of good or evil. They were, however, highly aggressive and attacked anything that came too close.
+
+Abilities
+Illithocytes lacked the potent psionic abilities that made mind flayers so feared: they had, at most, the ability to sense all living creatures within  along with their blindsense, and a telepathic link with all other illithocytes within .
+
+Combat
+Illithocytes fought as a swarm, using their tentacles to tear at enemies.
+
+Ecology
+Illithocytes first appeared among the many illithid tadpoles survived the fall of the mind flayer empire; without access to hosts to ceremorphize, they were forced to adapt or die; some of those that survived became illithocytes and further became capable of reproducing (via budding) on their own.
+
+Illithocytes lived in damp, underground areas, staying in large family groups of up to thirty individuals. They fed on psychic radiation, and were themselves the primary prey of neothelids.
+
+History
+Following the demise of the city of Ch'Chitl, illithocytes appeared in the surrounding areas of the Underdark as a consequence of the death of the city's elder brain.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Illithidae
+
+The illithidae were an order of creatures that were from the same alien world as the illithids. They were related to illithids much the way mammals such as apes or wolves were related to humans. Various species of illithidae were known to live in and around illithid lairs and cities, though whether on purpose (as domesticated creatures) or by happenstance (simply drawn to the same places) was unknown.
+
+Like the mind flayers they were lesser kin to, the various species of illithidae typically had four limbs with four digits each (when terrestrial), an arrangement of four tentacles around a beaked mouth, and tough, slime-covered skin. Moreover, they all went through a larval stage in which the larvae dwelt and grew within some creature killed by the parent. They disliked light, and most exhibited some amount of psionic powers.
+
+Cessarid
+Cessarids were sometimes compared to canines, in that they were quadrupedal predators that traveled in packs. However, they had an large head and eyes, with a large rending beak surrounded by four short tentacles. The skin was smooth, grey, and slimy, and short spines stuck out of the back. The space between the toes was webbed. Although of average intelligence, they acted as little more than animals.
+
+Cessarids' tentacles were coated in a poison that induced a stinging and burning sensation to the touch, and they could use the psionic abilities body equilibrium, ESP, and dimension door. Additionally, they could telepathically communicate with other cessarids within  of themself with ease. They were wily and cruel; when they were not hungry cessarids were known to harass and torment prey for hours before killing it.
+
+Cessarids reproduced by depositing 1-3 larvae in a corpse, which the adults then guarded until they metamorphosed. For unknown reasons, cessarids seemed to favor intelligent victims as hosts. Cessarid packs did not cooperate with each unless pressed by other creatures; they would fight kaoulgrim ("dogs" bred by the githyanki) on sight regardless of restraints or magic, and szarkel ("dogs" bred by the githzerai) always avoided cessarids without fail.
+
+Embrac
+Embracs were large illithidae, slow ambush predators with sack-like bodies some  long, with 8  tentacles sprouting from its body; each tentacle tapered down to an end split in three. The limbs were short and stout, the beak was large and saw-edged, and the skin was striped and/or spotted black, grey, white, and/or dull red, and there were bone plates just beneath the skin.
+
+The slime on the tentacles was poisonous, and embracs were also recorded to be capable of psionics including: concussion blast, empathy, ESP, invisibility mind bar, crushing despair, deep slumber, sound burst, and displacement. Some were also reported to be capable of illusions akin to a non-dangerous spectral force.
+
+Embracs were solely ambush predators, though they would rarely make use of items taken from prey or bargain such items with other creatures. They had also been seen as servitors in illithid cities. Embracs reproduced in a similar manner to cessarids. Despite being of only low intelligence, embracs held all other creatures in low regard.
+
+Kigrid
+Kigrids were another type of quadrupedal predator, though somewhat stockier than a cessarid, with black skin and dull red eyes. They had sharp claws and four tough, spiky tentacles. Kigrids were cunning, malicous, and constantly hungry. They lived either alone or in small packs, though only of kigrids closely related to each other, for larger ones had no problem eating smaller ones. Like embracs, kigrids' tentacles were coated in poison.
+
+Kigrids had limited psionic ability, capable of blink, daze monster, detect thoughts, ESP, body equilibrium, levitation, and invisibility. Additionally, they could understand most languages thanks to some unknwon psionic skill and, though they did not speak, they were perfect mimics. Kigrids were sometimes used by illithids as beasts of burden.
+
+Saltor
+Saltors were scavengers that ate anything they could catch. They were said to vaguely resemble baboons, or perhaps even be akin to illithids as baboons were to humans, with three-fingered hands with opposable thumbs, and skin that was generally white or black but occasionally red, grey, or violet in color. Saltors were sometimes classified into two types: the more typical argid and the larger and longer-limbed jendrids, which were faster on the ground than argid but not so good at climbing.
+
+Saltors were of limited intelligence and psionic talent, known to use blur, magic missile, and haste. They sometimes used crude weapons or tools. Illithids bred enslaved saltors, for the creatures were unfailing obedient to their masters. Saltors were bold in numbers.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Iliyanbruen
+
+Iliyanbruen was an elven survivor-state of Illefarn that encompassed most of Neverwinter Wood.
+
+History
+Iliyanbruen was founded around, after the dissolution of Illefarn. During this time, the elven kingdom was known for its seemingly unending wars with the various incarnations of Illusk. After the destruction of Netheril in, the elves of Iliyanbruen decided to protect the location of fallen Xinlenal and maintained it a secret, deeming that the wild magic of the malfunctioning mythallars of the Netherese enclave could destroy Neverwinter Wood if misused.
+
+A few years later, the elves of Iliyanbruen helped Netherese survivors and the dwarves of Delzoun with the building of Gauntlgrym. Elven wizards helped Maerin of Illusk to extend the reach of the "roots" of the Host Tower of the Arcane in Illusk to carry the cooling waters of the sea to the sealed primordial Maegera the Inferno.
+
+In, Iliyanbruen helped the settlements of the North against the Orc Marches. The combined effort of Iliyanbruen, Rilithar, Siluvanede, and Eaerlann halted the tide, but not before both Illusk and Gauntlgrym were lost. Delzoun was greatly weakened, collapsing almost two centuries after.
+
+In, Iliyanbruen went to war against the orc-dominated Illusk, and led by Lord Halueth Never, the elves defeated the Illuskans with a decisive victory in . In, the leaders of Iliyanbruen made peace with the human survivors of Illusk, setting a border between their kingdoms at the River Mirar.
+
+Eventually, Iliyanbruen had to face the orcs of the Severed Hand and Argrock (later Luskan). The effort cost them greatly, however, and though they succeeded, their own kingdom finally collapsed in 177 DR. Many of its high elf inhabitants traveled to Evermeet or south to Ardeep, leaving only scattered wood elf settlements and the abandoned capital of Sharandar behind.
+
+Not all high elves went to Everment or to Ardeep, however. Although it was no easy task because of the interference of the dark fey, a few high elves used a powerful ritual to transport parts of Sharandar to the Feywild. There they rebuilt Iliyanbruen, where it thrived for the next thousand years.
+
+With the Spellplague of 1385 DR, when the Feywild was realigned with Toril once again, the eladrin of the Feywild's Iliyanbruen returned to Toril to see what had happened to their ancestral lands. Enraged at the desecration of their fallen lands by the Shadovar, the eladrin of Iliyanbruen built New Sharandar and began to restore their old kingdom on Toril.
+
+Appendix
+Appearances
+Adventures
+Lost Crown of Neverwinter
+Video Games
+
+References
+
+---
+
+## Ilbaereth
+
+Ilbaereth was an elven house in Neverwinter Woods. Its seal was a pegasus rearing over six wands. This seal is a combination of the seals of Houses Ealoeth and Ildacer which might suggest a union of these houses created the Ilbaereth line.
+
+Malruthiia Ilbaereth, mother of Tsarra Chaadren, was exiled from the Ilbaereth house on reaching adulthood on account of being an illegitimate child.
+
+Notable members
+ Ryul Ilbaereth, saved from the shores of Lake Eredruie by Arun Maerdrym in 360 DR, creating a blood debt between the houses.
+ Yaereene Ilbaereth, proprietor of the Elfstone Tavern in Waterdeep
+
+See also
+ :Category:Members of House Ilbaereth
+
+References
+
+---
+
+## Illuski languages
+
+The Illuski language group was a linguistic group that included the languages of the Northmen. Illuski languages were spoken in Ruathym and Luskan and from the islands as far north as the Uttersea south to the Moonshae Isles and Mintarn.
+
+Languages
+Illuski languages included the following:
+ Old Illuskan (dead language)The "Speaking in Tongues" article in Dragon Annual #4 includes a dead language called "Truskan" in its list of four Illuski languages, but nothing else is noted about it. Races of Faerûn, however, goes into some detail about the dead parent language of Illuskan, called Old Illuskan. It is possible that Old Illuskan and Truskan are the same. In any case, Old Illuskan was certainly an Illuski language.
+ Illuskan
+ Bothii
+ Reghedjic
+
+Script
+Like the majority of other Faerûnian languages, modern Illuski languages made use of the Thorass alphabet, although Old Illuskan had its own script.
+
+Appendix
+Inspiration
+The Illuski language group is based on real-life Nordic languages such as Old Norse, Danish, and Norwegian.
+
+Notes
+
+References
+
+---
+
+## Ilvani
+
+Ilvani was the witch of Ikemmu in the Shadowfell and the twin sister of Natan, the former high priest of Ikemmu.  In 1479 DR, Ilvani was sent on an expedition to scout an area of the Shadowfell north of Ikemmu.  Her party was captured by a shadar-kai enclave and most of the members were tortured to death.  Ilvani survived her imprisonment and was rescued by a group lead by the Ikemmu warrior Vedoran.
+
+A young Shadar-kai in the rescue party named Ashok was falsely accused of conspiring against Ikemmu by Vedoran.  Ilvani destroyed a crucial piece of evidence against Ashok although Ashok was still imprisoned.
+
+In 1480 DR, Ilvani began having disturbing visions.  In some of the visions, the ghost of a Rashemi witch appeared to her.  The visions continued to worsen and whenever Ilvani was near shadow creatures they would go berserk.
+
+Along with Ashok, Cree and Skagi, Ilvani traveled with a caravan led by Tatigan Carrlock to Rashemen to seek the source of the visions.  The visions were caused by the spirit of a witch named Yaraella who had been murdered by Sree,a Wychlaren.  Ilvani confronted Sree and put Yaraella's spirit to rest which ended the hauntings.  She agreed to remain in Rashemen for a while to help train Yaraella's daughter.
+
+Mental State
+Ilvani is nearly insane although she has occasional moments of lucidity.  Her imprisonment and torture appear to have worsened her mental condition.  After Yaraella's spirit was put to rest her mental condition improved remarkably.
+
+Appearance
+Ilvani has pale red hair and is very thin.
+
+References
+
+---
+
 ## Ilbratha
 
 Ilbratha, also known as the "Mistress of Battles", Haalorth, the Heir's Blade, and "the Warrior's Fang", was an enchanted bronze short sword that had the distinction of being a part of the royal regalia of two kingdoms, to be carried by the heirs of two royal lines: the Forest Kingdom of Cormyr on land and the merfolk kingdom of Eadraal under the sea. It was one of the Cormyrean Swords of State, commissioned by Azoun I and seen as a symbol of his victory over the armies of Shoon. It was also famously wielded by the merfolk princes and princesses of Eadraal for some seven centuries. However, the sword was lost to both realms, its whereabouts unknown but still searched for.
@@ -469,6 +1544,824 @@ References
 
 ---
 
+## Ilthuryn
+
+Ilthuryn was an elf mage who murdered Lady Alauthshaee.
+
+History
+Ilthuryn attempted to court the infamously wealthy and haughty Lady Alauthshaee, but she scornfully rejected him. Enraged, Ilthuryn attacked her with his spells as she rode in her flying carriage. It reportedly crashed to earth within Dead Tree Hollow in the Vast. Ilthuryn then using his magic to bury the carriage, the guards, and Alauthshaee herself alive. This took place a very long time before the 14 century DR, but still within elven memory.
+
+An apparent side-effect of Ilthuryn's reckless spellcasting was a dead-magic zone over the whole valley that was still there by 1370 DR.
+
+Appendix
+References
+
+---
+
+## Ilvarthaele Everstone
+
+Ilvarthaele Everstone was a Damaran human woman and a High Herald, as which she was known as the Silver Stag.
+
+History
+Ilvarthaele Everstone was once a scribe and loremaster in the city of Tsurlagol in the Vast.
+
+In the Year of Rogue Dragons, 1373 DR, Ilvarthaele was selected by the High Heralds to join them as a High Herald herself. She was also permitted to establish a new High Herald office, that of the Silver Stag, which she based in the Stormspire in the town of Songhal in Impiltur near the end of that year. This was the first time a new High Herald post had been created in the lands around the Sea of Fallen Stars since the Heralds had been founded in the Year of the Watching Helm, 992 DR.
+
+Activities
+Ilvarthaele was charged with supporting the practice of heraldry in the lands of Impiltur, Thesk, Damara, and the independent cities of northeast Faerûn. She was also tasked with maintaining and administering heraldry in lands east of the Inner Sea.
+
+References
+
+---
+
+## Illumor Sendever
+
+Illumor Sendever was a Chondathan human man living in the city of Wheloon in Cormyr. He owned and worked at Sendever's Stables. In this capacity, he bought and sold horses, provided veterinary care to them, and rented out stables  for them.
+
+History
+Sendever ran his stables by 1358 DR, and was still in business through 1369 DR and in 1374 DR. He was an aging man in 1374 DR.
+
+Appendix
+References
+
+---
+
+## Ill-Mater
+
+Ill-Mater was a fictional character commonly played by traveling entertainers in Faerûn by the mid–14 century DR.
+
+Ill-Mater was a clown dressed in a gray costume who was always being whacked, beaten, and pushed over for slapstick entertainment. The Ill-Mater character mocked members of the Church of Ilmater.
+
+Appendix
+References
+
+---
+
+## Iljack
+
+Iljack of the Black Blade was a highwayman based in the village of Bambryn in the Vast some time after the 7 century DR.
+
+History
+During the early Time of Glorious Fools, after humans first settled the central Vast in the mid–7 century DR, Iljack of the Black Blade arose to plague the area. He robbed itinerant merchants and dwarven metal-dealers. Many sought to trap, ambush, and kill him, but Iljack always escaped, barely avoiding death many times. In retaliation, he would hunt down and assassinate those responsible, no matter how far he had to travel.
+
+Finally, Iljack pursued a merchant to Procampur, but the merchant was due to marry a sorceress. Iljack caught his quarry in their bridal bed in their tower, but she rose and hurled him out of the window amidst a barrage of fireballs. Little more than ashes and a burning sword fell into the water below.
+
+Personality
+Iljack was a daring and vengeful bandit.
+
+Equipment
+Iljack wielded a dull black broadsword, from which he gained his moniker. It had magical powers that somehow allowed Iljack to escape many traps and ambushes.
+
+He was widely thought to have hidden his loot somewhere in Bambryn, but it was never located by the mid-to-late 14 century DR. Once, a tree fell over in a storm, revealing a stone marked with a black sword buried beneath. However, there was no treasure underneath, just another stone carrying the message "Moved it all. See me for your share." and another black sword symbol.
+
+Appendix
+Notes
+ Coincidentally, a black sword, a fiery death, and a similar name also figure in the tale of Feljack, also in the Vast and detailed in The City of Ravens Bluff.
+
+References
+
+---
+
+## Iliphanar
+
+Iliphanar was a trade city in Semphar.
+
+Geography
+Located at the mouth of the Golden Flow river, this small town drew many who sought their fortune within the Raurin Alta.
+
+Appearance
+Iliphanar had sheer smooth walls built on a thick earthen ring with a cluster of inns and way-stables surrounding them. Piercing the walls were three gates—Olephzgar (southeast), Parlymzgar (east), and Torrzgar (northwest)—that served as both armories and barracks for the Ahrakshar of Iliphanar with prison cells below the gate houses.
+
+The city had narrow winding streets with four-story rathra ("whitestone") buildings connected by "flying bridges" above ground and a daerath ("one-below") below ground that served the same purpose.
+
+The walls of Iliphanar were built atop a vast series of water reservoirs which are continuously fed by local springs.
+
+Economy
+Iliphanar lacked the great market of other trade cities; instead, most business was done in "surroukh" (restaurants) or "duthsurouk" (private restaurants) located on the lower levels of buildings and common trade is done amongst the shops and carts interspersing them. The city has a night curfew for carts, causing all after-dark shopping to be relegated to "sarrand" (paddocks outside the walls).
+
+History
+Iliphanar was destroyed by the Tuigan Horde before being subsequently rebuilt.
+
+Locations
+ Lavhelhar's: An expensive inn at the heart of the city.
+ Horl's Horn: A tolerant and friendly inn found inside the Olephzgar gate.
+
+Appendix
+References
+
+---
+
+## Ilnger Obskoth
+
+Ilnger Obskoth was a male priest of Ilmater in the 9th century DR. He was the high priest of the Ilmatari town of Carathryn in the Purple Hills of Tethyr.
+
+One morning in the Year of the Vigilant Familiar, 848 DR, the Tome of Torment appeared on the altar of Ilmater in Carathryn. The Ilmatari told the story that Ilmater himself had placed it there. Ilnger Obskoth proclaimed it as "the hand of holy Ilmater made manifest among us", and it swiftly became the most venerated sacred object in Carathryn.
+
+References
+
+---
+
+## Illusory script
+
+Illusory script, or illusionary script, was an illusion spell that disguised a written message and compelled non-authorized viewers with a brief suggestion for a short time.
+
+Effects
+
+Components
+In addition to verbal and somatic components, the message had to be written with a lead-based ink costing no less than 50 gp.
+
+History
+The spell was attributed to Netherese arcanist Raliteff in  and was originally known as Raliteff's illusion script.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ilmater's fist
+
+Ilmater's fist was a divine evocation spell that conjured an ethereal fist to strike a foe.
+
+Effect
+The spell produced a spectral fist that flew through the air to strike a chosen foe, delivering as much injury as the caster had suffered in the last minute or so, before disappearing. It was unavoidable and could go around barriers.
+
+It functioned similarly to the fangs of retribution spell.
+
+History
+The Ilmater's fist spell was naturally associated with the god Ilmater. It appeared within the Tome of Torment, the holiest book of the church of Ilmater, which first appeared in the Realms in 848 DR.
+
+References
+
+---
+
+## Ilhundyl
+
+Ilhundyl, known as the Mad Mage, was a powerful wizard of the early 3 century DR who briefly ruled the Calishar Emirates and was considered one of the most notorious and deadly wizards of his age.
+
+History
+Formerly of the city of Volothamp in Calimshan, then part of the Shoon Empire, Ilhundyl conducted terrible experiments and openly summoning and dealing with demons from the Abyss, which he proved unable or unwilling to control. Soon, the Calishite satraps could no longer overlook this, especially after they learned he was using the fiends to kill them. For his misdeeds, he was banished from both the city and the whole realm in the .
+
+The Mad Mage wiped out a number of Tethyrian garrisons in the Tejarn Hills the following year.
+
+In the, Ilhundyl conquered the largest settlement of the newly established halfling realm of Meiritin. He then named himself ruler of the Calishar Emirates. The Shoon Empire was unable to send an immediate military response because of low-level unrest in the south of the empire near Shoonach. He reign as a cruel sorcerer-tyrant from his so-called Castle of Sorcery and dominated the land within his magic, and countless people fled north in fear of his magic.
+
+Having been told by Lord Mage Dunsteen that Ilhundyl was the best living source of knowledge on the working of magic, Elminster Aumar, then known as Elmara, at the beginning of the young wizard's career, visited him at his Castle of Sorcery. She effortlessly passed through his maze of illusory walls and portal traps, pits, and worse, and impressed the Mad Mage enough to grant her an audience. Ilhundyl bade her to grow powerful and quest for and then sacrifice Ondil's Book of Spells, while arranging for her death. However, thanks to the intervention of Mystra herself, Elminster survived Ilhundyl's trap and the Mad Mage received a blank spellbook.
+
+Years later, Elminster, now a powerful wizard, decided to begin his campaign against evil wizards by facing Ihundyl. Confronting him in the summer of the, they fought a terrible battle; Elminster won but only with the help of his tutor, Myrjala Talithyn, who killed Ilhundyl with her spellfire to rescue him.
+
+Personality
+He was called the Mad Mage because he had strange whims and pursued them vigorously, heedless of whatever and whoever he destroyed in the process. He obsessively valued his life and privacy against all those who sought to stop him.
+
+Appendix
+
+Appearance
+ Elminster: The Making of a Mage
+
+References
+
+---
+
+## Ildryn Thallin
+
+Ildryn Thallin was a male wizard who was one of the magelords of Athalantar and was killed in Elminster Aumar's insurrection.
+
+History
+He was a sly and manipulative magelord. He agreed with his master Ithboltar to fight together but died in the spell-battle in Ithboltar's tower.
+
+References
+
+---
+
+## Ilimitar
+
+Ilimitar was an elven Royal Archmage in Cormanthyr at the time that Elminster Aumar was nominated Armathor.
+
+History
+When he was young, Ilimitar was an apprentice of the Srinshee. Later, he became one of the two Supreme Court Wizards in the service of Coronal Eltargrim.
+
+However, when Elminster was nominated armathor by the coronal, an insult in his eyes, Ilimitar considered his old master a traitor and tried to kill the Srinshee but after a fierce battle she defeated him.
+
+Appendix
+
+Appearances
+Elminster in Myth Drannor
+
+References
+
+---
+
+## Ilyich
+
+Ilyich was the chief of a duergar clan enslaved by Jon Irenicus in his dungeon circa 1369 DR.
+
+Possessions
+Ilyich wore an enchanted mail of the dead and was armed with a battle axe and a simple sling. A medium shield served as the duergar's main protector.
+
+History
+Ilych was the chief of the duergar slaves in the dungeon deep underneath the city of Athkatla in Amn. He and his men served Jon Irenicus and worked in the dungeon's smithy, forging knives and tools for torture. The duergar held the acorns of the Fairy Queen of the Windspear Hills, the only chance for freedom a group of dryads enslaved by the evil had. Ulene, Elyme, and Cania could escape by passing through a newly grown oak tree if the acorns of the dryads' tree were returned to the Fairy Queen. When Abdel Adrian approached the smithy, Ilyich and his fellow duergar attacked. The scuttle resulted in Ilyich's demise.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate II: Shadows of Amn
+References
+
+External links
+
+de:Ilyich
+
+---
+
+## Ilyykur's mantle
+
+Ilyykur's mantle was an arcane abjuration spell that gave the caster some protection against various types of magical attacks.
+
+Effects
+This spell gave the caster a protective aura that covered the body in a soft, form-fitting glow. Ilyykur's mantle was particularly good at protecting the caster from enchantment/charm spells, but also granted a minimal boost to protection from all other types of spells. One additional feature was that all damage from electrical attacks, such as lightning bolt or shocking grasp, was reduced by half.
+
+If the caster had a small familiar with which it maintained contact, then the familiar was afforded the same magical protection.
+
+The spell's duration was a matter of minutes, depending on the power and experience of the caster.
+
+Components
+In addition to verbal and somatic components, this spell required a natural, uncut, unpolished gem of any value. The later version of this spell specifically required the use of an uncut diamond.
+
+History
+This spell was published in "Volo's Guide to All Things Magical" and became generally known to the magical community.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Iliph Thraun
+
+Iliph Thraun was a spellfire wielder and lich lord. He was involved in the hunt for Shandril Shessair in late .
+
+Description
+Iliph Thraun had been reduced to a mere skull; while white, it was yellowed. Its eyesockets harbored two pale, flickering lights. Its voice was hollow, punctuated by its chittering teeth.
+
+Personality
+It was disdainful of the Harpers.
+
+Abilities
+Iliph Thraun was most unique in his ability to wield spellfire, which he possessed in life; in death, he was able to drain spellfire from fellow wielders, making their control of it more tenuous in the process. As a lich, he could cast a number of spells, presumably including disintegrate, magic missile, lightning bolt, at least one acid-based spell, and at least one spell to render itself invisible, almost certainly invisibility.
+
+Of note, there were ways of controlling the lich that were not available for use against other liches. Spells that drained lifeforce or those that created fire or lightning could be used to feed the lich by turning them into spheres, and centering them on the skull; a spell of governance over undeath, almost certainly control undead, and a masking charm, presumably nondetection, could be combined with the word "Calauthas"; such a combination allowed anyone to control the lich from anywhere through the use of a skull-shaped charm carved from its thighbone. However, the lich became aware of the identity of whoever controlled it.
+
+Iliph Traun could also be controlled with a brass cage holding a fist-sized black gem hanging from a neck-chain. The device allowed a wielder to see out of the lich's eyes and control it completely, without it being aware of any influence upon it.
+
+Activities
+The lich lord maintained itself through spells which required him to regularly train apprentices on their casting.
+
+Relationships
+Iliph Thraun was known to a number of beholders; at least two of them, Zulthondre and Xarlraun, had baubles that granted complete control of the lich.
+
+History
+In the mid-14 century DR, Iliph Traun's memories went back a thousand years.
+
+In late, Manshoon was introduced to Iliph Traun by Zulthondre, who offered him as the ideal hunter for Shandril Shessair, thanks to the lich lord's ability to absorb her spellfire and then wield it; after the lich departed for the task, the beholder brought up the lich lord's controllability due to flaws in the process of its construction. Soon after it caught up with Shandril Shessair, at Hullack Forest. Xarlraun, another beholder, offered a similar control to Fzoul Chembryl shortly after that.
+
+Iliph Thraun continued to watch Shandril since at least her arrival to Tethgard. He fed on Shandril, invisibly, both after Tethgard, while still in Hullack Forest, and while she was at the Stonelands. It continued to tail her stealthily through the battle at Irondrake Rock. Throughout this chase, Thraun was controlled directly by Manshoon, who preferred the lich lord not reveal itself; after his death, Iliph sought out Shandril directly to confront her and consume her spellfire.
+
+The lich lord struck Eveningstar, seeking Shandril; it broke into Tessaril's Tower, slaying many of the guards and the watch before reaching her. In the process, it severely injured Narm Tamaraith, all but killing him, and severely injured Shandril Shessair, stopping only briefly when Sarhthor attempted to control it using Manshoon's tokens and methods. Finally, after Elminster and Storm Silverhand intervened, Shandril was able to overload the skull with spellfire, and slew it. After the fight, Shandril learned her unborn child had perished in the fight, due to the lich's draining.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ilmurk Jongrath
+
+Ilmurk Jongrath was a miller and rancher in the county of Bardshyr in southwestern Tethyr, owner of Jongrath's Mill.
+
+Personality
+Ilmurk was an honest entrepreneur with a roguish streak. He did not display his modest wealth but rather kept it hidden and even misrepresented some of his assets.
+
+Abilities
+Jongrath was primarily a miller and could operate and repair his mill with only the help of draft animals, although he had to hire stonemasons to make grinding wheels. He was experienced in animal husbandry and kept livestock. In his spare time, he liked to design and paint heraldic devices and would adorn shields, coach doors, and other non-fabric equipment for a few gold coins.
+
+Possessions
+Ilmurk owned Jongrath's Mill and the adjoining cottage, stables, and the surrounding land. He kept livestock and had heavy draft horses that turned the mill and pumped water from a deep well. He built up a cache of spare millstones and cogwheels that he kept hidden under flour sacks after claiming they were broken. His coinage was kept on the property in abandoned dry wells in long, narrow coin boxes suspended from cords attached to the rim of the well. All but one of these stashes were covered by heavy, used millstones. The one cache he kept "handy" was covered by a flat stone and his compost heap.
+
+At any given time, Ilmurk had freshly painted shields and escutcheons hanging to dry in the rafters of the stable. He was known to keep the items he painted until customers came to pick them up, or until they could pay for it. He had a number of unclaimed items.
+
+Activities
+Jongrath ground grain into flour for the farmers in the surrounding countryside. He sold livestock and the surplus flour. He slept in the mill shed and rented the cottage out to traveling merchants. He enjoyed designing and painting heraldic devices for various nobles of Tethyr.
+
+Relationships
+Jongrath's heraldic side business drew the ire of two low-level local Heralds, Chastus Beldrorn of Darromar and Aldrur Hariburt of Myratma. They claimed that proper blazonry required professional expertise and his amateur efforts were an affront to their organization, not to mention that his prices were absurdly low compared to "professional" rates. Ilmurk acknowledged their expertise but not their claim of exclusive rights to create coats of arms for armigerous folks. His designs were relatively simple and he followed the Law of Arms without deviation or error, so the two heralds had no truly legal claim against him, despite their best efforts to have Ilmurk fined, arrested, and censured.
+
+Not only did Jongrath have the letter of the law on his side (actually, it was the absence of any law against his practice), but Lady Marilyn Haresdown, the Duchess of the Purple Marches, found Jongrath amusing and sometimes stayed at his cottage in disguise while on hawking expeditions. Even King Haedrak Rhindaun III did not take the aspersions by the petty heralds seriously. Upon receiving a letter of complaint from Jongrath, he reportedly replied "tell the good miller that I've every confidence in him and shall continue to do so until I personally find evidence otherwise."
+
+Rumors and Legends
+It was rumored that Ilmurk Jongrath was in possession of a powerful magical shield that had belonged to a cleric who fell in battle before returning to claim her newly decorated property. Jongrath hid the shield well and awaits for her return.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Ilthond
+
+Ilthond was a Zhentarim wizard who was one of the leaders of the Zhent occupation army in Daggerdale in 1369 DR.
+
+Description
+During his young apprentice years Ilthond could often be found in his dirty gray robes; made so by his cleaning duties. He was extremely thin and had a slightly hunched back. His face often showed the resentment he felt for all living things, especially his fellow wizards.
+
+History
+Ilthond was originally assigned to Darkhold to study under Ashemmi along with three other apprentices - Kadorr, Sashen, and Yarkul. As the least experienced of the four apprentices most of the mundane and unpleasant duties fell to him, and he was little more than a servant to head apprentice, Kadorr. That lead to Ilthond's resentment and contempt for all of the other wizards in the keep, including Ashemmi and Sememmon himself.
+
+After Sememmon and Ashemmi's disappearance Ilthond became an apprentice and loyal follower of Manshoon. In 1357 DR, he was briefly involved in the hunt for Shandril Shessair, helping his wounded master after a fight with Shandril. He also tried to capture Shandril but only barely managed to save himself from her spellfire.
+
+In later years, he was relocated to Dagger Falls as one of the senior wizard assigned to the Zhent occupation army in Daggerdale. In 1369 DR, Ilthond was involved in the kidnapping of Daggerdale's rightful heir and freedom fighter leader Randal Morn. Ilthond had a skirmish with the adventurers recruited to free Randal and with the powerful arch-shadow Gothyl.
+
+During the final battle for the liberation of the Dale, Ilthond was attacked and consumed by Gothyl.
+
+Appendix
+
+Appearances
+ Randal Morn trilogy
+
+References
+
+---
+
+## Ileuthra
+
+Ileuthra was a celestial great wyrm brass dragon who served the god Oghma, Lord of Knowledge, in his plane, the House of Knowledge.
+
+History
+Ileuthra was a very ancient dragon,  and legends said that Ileuthra lived for a time with Oghma, the god of knowledge.
+
+According to the legend, Ileuthra adored the game of chess and became so great at it that there came a time when no mortal players could provide him with enough of a challenge for a decent game. Finally, Ileuthra challenged Oghma himself to a match of three games—and handily defeated the god each time. Unusually, though brass dragons were known to be braggarts, Ileuthra instead politely thanked Oghma and offered to then play a game of the god's choice. It seems instead that Oghma raised Ileuthra as a minor servant of his.It's not specified what game Oghma challenged Ileuthra to. It may be that serving Oghma is the game, or possibly the price for losing.
+
+For his experience, he was chosen to represent his kind in Protanther's council to discuss the menace of the Cult of the Dragon and Tiamat in the 1480s DR. He heeded the call and came to the council with no predetermined position, and would consider all sides in the debate and consider all proposed plans. However, he did think the dragon masks were too dangerous if left where humanoids might find them. A band of adventurers sent by the Council of Waterdeep convinced him to ally with the humanoid races to stop the Cult's plot; Ileuthra decided they were reliable and capable of leading the alliance.
+
+Personality
+Having watched them for centuries, Ileuthra saw the potentials for good and evil as existing in equal measure among the lesser races and in each individual. He believed that it was individuals that made the difference between victory and defeat, and a trustworthy individual could be followed, even by dragons.
+
+Though he was known to dwell in Oghma's realm, Ileuthra was evasive about this when asked.
+
+Activities
+He was always hunting for knowledge and for more challenging games. He wandered the planes in his research.
+
+Ileuthra and Oghma continued to play chess, and Ileuthra continued to win.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Ilimalaaros
+
+Ilimalaaros, also known as Errant, was an insane bronze dragon living in the Moonshae Isles who worked with a Cult of the Dragon.
+
+History
+Around 1370 DR, the Cult used Errant as a spy among the metallic dragon on the Isles.
+
+Appendix
+
+References
+
+---
+
+## Iltharagh
+
+Iltharagh, also known as Golden Night, was a unique topaz dragon dracolich living near Luskan who worked with the Cult of the Dragon in 1370 DR.
+
+History
+Iltharagh was a very old topaz dragon who laired near the mouth of the Iceflow north of Luskan. He fought many territorial battles over the skies of the City of Sails against the white dragon Arveiaturace. Each struggle left both dragons badly wounded, but Arveiaturace seemed to gain slightly from each conflict.
+
+In despair, Iltharagh accepted the Cult of the Dragon's offer and underwent the ritual to become a dracolich in the Year of the Wave, 1364 DR. Since the transformation, he had not left his lair, but continued to burn hot with hatred for Arveiaturace. It is believed that the dragon retained its psionic abilities even after the transformation to undeath.
+
+Appendix
+
+References
+
+---
+
+## Iltkazar Highlands
+
+The Iltkazar Highlands were the eastern principality of the Kingdom of Tethyr.
+
+Geography
+The eastern Highlands sloped upwards to the chain of mountains that included the Snowflake, Omlarandin, and Alimir Mountains. The land was rough and uneven, a prime example being the Gorge of the Fallen Idol, where the River Ith began.
+
+The Upper Highlands were designated as the Golden Marches; the Lower Highlands made up the Duchy of Suretmarch.
+
+Government
+The official ruler of the Principality of the Iltkazar Highlands was Prince Coram Rhindaun. As he was still an infant, the Monarch's Champion, Vander Stillhawk, ruled in his stead.
+
+History
+Historically, this region of Tethyr was less civilized than the western areas of that country. Monsters were a problem in the area, and many armies marched through its lands in times past.
+
+In the month of Ches, in the Year of the Tankard (1370 DR), the Amnian settlements of Trailstone and Riatavin succeeded from Amn to join Tethyr. Since Riatavin was a bustling and rich metropolis, its inclusion in the Upper Highlands boosted the Iltkazar Highlands from the poorest to the richest territory of Tethyr.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Ilandra Wavemistress
+
+Ilandra Wavemistress was a half–aquatic elf pirate on the Moonsea in 1367 DR.
+
+Description
+Ilandra was a woman with deeply tanned skin and long, greenish-black hair. She usually dressed in a sea-green tunic, with leggings of the same color, and a cape colored deep aqua.
+
+Personality
+Ilandra was a charismatic leader and a good sailor. She hated Hillsfar for its racist policies and always harassed ships of that city.
+
+History
+Ilandra was bullied and driven out of Hillsfar for her half-elven heritage, and so she gathered some like-minded people and decided to go into piracy in order to get revenge on the societies that spited them. She become a very good pirate. Her ship was the Mingledblood.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Tyrants of the Moonsea
+References
+
+---
+
+## Illydia Maethellyn
+
+Illydia Maethellyn was a moon elf cleric of Sehanine Moonbow.
+
+Description
+She had the markings of lightning damage on her arms.
+
+Personality
+Faith kept her hopeful and focused.
+
+Relationships
+She had a close friend and defender in Larethar Gulgrin.
+
+History
+Illydia grew up in an elven village, with her family dedicated to the wardship of the Moontear of Sehanine Moonbow. When Illydia was around 15 years old, she had a friend called Cerric, but her parents did not approve of their friendship, as their family had a sacred duty and could not afford such dalliances. She and Cerric were eventually separated.
+
+Around that same time, Illydia encountered a group of drow travelers while out playing by herself, and, to spite her parents for denying her Cerric's companionship, gave the drow directions to their village. However they turned out to be scouts for a drow raiding party, and the village was invaded and her parents and the villagers killed or captured, and the Moontear lost to the drow.
+
+During her life, Illydia saw great suffering such as slavery in Menzoberranzan before she was saved by Tezzarae, a drow priestess of Eilistraee. It was said that Sehanine gave Illydia purpose. She used her bow and her divine powers to make up for past mistakes.
+
+Appendix
+Appearances
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Ilserv
+
+Ilserv, also known as Ilserv of the Illithids, was a mind flayer sage in Ch'Chitl in 1370 DR.
+
+History
+Ilserv originally acted as an emissary and ambassador of Ch'Chitl to the surface until, by accident, the beholder crime lord Xanathar petrified him. For many years, Ilserv was one of the statues in a rock garden near Mirt's mansion.
+
+However, Ilserv maintained a little awareness and psychic power. Finally, in 1367 DR, Ilserv dominated the mind of a wizard guest of Mirt who reversed the transformation. Immediately, Ilserv returned to Ch'Chitl, refusing to ever go back to the surface. Thereafter, he was considered the city's sage about all surface matters, thanks to knowledge gleaned from reading minds in the garden.
+
+Appendix
+Appearances
+Comics
+Night of the Moonpenguin
+References
+
+---
+
+## Ildibane Nasadra
+
+Ildibane Nasadra was the archmage of Ched Nasad until its fall in the year 1372 DR.
+
+Possessions
+Ildibane was known to possess a lurker cloak, an orb of radiance, a ring of antivenom, the robe of the Archmage of Ched Nasad, a staff of the abyss, and a wand of darkness.
+
+History
+Ildibane was the twin brother of Aunrae Nasadra. When the twins were twelve years old, they forged the Spiderblood Pact. In time, thanks to the pact and his magical power, Ildibane ascended to the position of archmage, becoming the most powerful male of Ched Nasad.
+
+In 1372 DR, however, Ildibane was helpless to stop the destruction of his city by the duergar stonefire
+
+Appendix
+Appearances
+Insurrection
+
+References
+
+---
+
+## Illance
+
+House Illance was a noble house of Cormyr based in Suzail.
+
+Holdings
+Although the family was based in Suzail, it had deep roots in Marsember and owned many properties through a complicated web of small companies bearing the names of others. The family owned a palatial home in Marsember known as "Iyrinthorn", and a summer house at Stag Well.
+
+Reputation
+The family's menfolk were notorious womanizers and were frequent patrons of Mask Dance clubs. The family was involved in some illicit dealings, and persistent local rumors of ongoing slaving operations using their Marsember-based vessels and warehouses plagued the family.
+
+The House was an enemy of the House Cormaeril.
+
+History
+Some members of the family plotted with Luthax against King Draxius in the .
+
+Several unnamed members fought with King Galaghard III against the Witch-Lords in the .
+
+House Illance was among those who fought with Arangor and King Azoun II against the dragon Thauglor in the, where one of their houses in Suzail was destroyed.
+
+House Illance slowly lost influence at the Royal Court over generations, and weak family leaders poorly managed and invested the family fortune, but the family was never in ruin.
+
+By 1479 DR, the family's fortunes had improved through deals with the Seven Suns Trading Company.
+
+Notable Members
+Mid-to-Late 14 Century DR
+ Martin Illance
+ Delamartina Illance, grandmother of Martin
+ Dagh Illance, one of the knights who rode with Princess Alusair
+ Fraeyer Illance
+ Frayault Illance, uncle of Martin Freyault Illance
+ Ilmreth Illance, killed in fighting at Arabel
+ Jhartos Illance, younger cousin of Mallik
+ Captain Mallik Illance, elder cousin of Jhartos
+ Sorgar Illance, patriarch of house in 1369 DR
+
+Late 15 Century DR
+ Meldrauvyn Illance, family patriarch
+ Rancelair Illance, Meldrauvyn's son
+ Tarmel Drouth - bastard son of Rancelair, exiled in 1479 DR
+
+1479 onward
+ Garonder Illance - the lord of the house
+
+Family Tree
+
+Appendix
+References
+
+Connections
+
+---
+
+## Ilbrost Mythyl
+
+Ilbrost Mythyl was one of the leading clerics of Mystra at the House of Wonder in Waterdeep in 1372 DR.
+
+Personality
+Ilbrost's lack of personal ambition stopped him from rebelling openly against the high priest, Meleghost Starseer. However, he wanted to side with the winning faction, no matter who. Because of this, he monitored the situation closely.
+
+Activities
+Ilbrost was involved in a conflict in the church over the leadership of Magister Meleghost Starseer, finding himself on the opposing faction.
+
+Appendix
+References
+
+FR:Ilbrost Mythyl
+
+---
+
+## Ildar Orsabbas
+
+Ildar Orsabbas was a famous fence in Waterdeep in 1372 DR.
+
+Personality
+Ildar was a stout, fun-loving and somewhat pompous individual. He enjoyed attending parties in costume as the so-called "Duke of Darkness", where he could be found making threats, dancing, and seducing others.
+
+Activities
+Aside from staying in his shop, Orsabbas's Fine Imports, Ildar spent most of his time going to parties in costume, where he always wore the guise that earned his namesake. He went to these parties to observe the tapestries, wine, and perfumes, as he specialized in fencing these items. He would buy such things with no questions asked, but if he recognized stolen goods, his prices was very low.
+
+Appendix
+References
+
+---
+
+## Iltztran Melarn
+
+Iltztran Melarn was the house wizard of House Melarn in 1479 DR.
+
+History
+Iltztran was a wizard from Ched Nasad and an arachnomancer. He survived the destruction of his home city in 1372 and joined House Melarn of Menzoberranzan as house wizard.
+
+Personality
+Iltztran was always in fear of Menzoberranzan falling like Ched Nasad had fallen, and used all his resource to stabilize the House Melarn complex.
+
+Appendix
+References
+
+---
+
+## Iltkazar (disambiguation)
+
+Iltkazar was the name of one of the dwarven sub-kingdoms of Deep Shanatar. It could also refer to:
+ Iltkazar, a city remaining from the time of Shanatar,
+ The Iltkazar Range, a chain of five mountain ranges above the dwarven kingdom,
+ Iltkazar (Calishite kingdom), a component kingdom of the Calimshan Empire and Shoon Imperium, or
+ the Iltkazar Highlands, one of the principalities of Tethyr, whose lands sloped upwards to that range.
+
+---
+
+## Iltkazar Range
+
+The Iltkazar Range was a long chain of five distinct mountain ranges that ran vertically from the Vilhon Reach in the north down to the Shining Sea in the south and roughly divided west Faerûn from interior Faerûn. The range included, from north to south, the Giant's Run Mountains, the Snowflake Mountains, the Kuldin Peaks, the Omlarandin Mountains, and the Alimir Mountains.
+
+Appendix
+Reference
+
+Connections
+
+---
+
+## Ilva
+
+Ilva  was a maid in Mulmaster in 1491 DR.
+
+History
+Ilva hailed from Phlan but like many others fled her hometown after Vorgansharax began to rule the city. She went to Mulmaster, where she started working as a maid at the bar called the Black Blade and Bloody Boar. Ilva befriended the half-elf Mixi.
+
+She later became obsessed with a strange dwarf prophet. After Mixi refused to follow her to more of the prophet's meetings, Ilva befriended the young noble Sebastian Stoe, who agreed to join her.
+
+Activities
+In 1491 DR, Ilva worked at the bar the Black Blade and Bloody Boar, in a lower part of the city.
+
+Appendix
+Appearances
+ City of Danger
+
+References
+
+---
+
+## Ilmeth Waelvur
+
+Ilmeth Waelvur was a shopkeeper in Red Larch and a member of the Believers during the Elemental Evil crisis.
+
+Personality
+Ilmeth was a hard-drinking and sullen man. He cared nothing for the troubles of others.
+
+Activities
+Ilmeth ran the Waelvur's Wagonworks. He was one of the Believers, and his objective was to use the group's influence to run his hated rivals of Thelorn's Safe Journeys out of business.
+
+History
+In 1491 DR, one of the carpenters of Ilmeth's shop named Stannor noticed his employer  and some others sometimes disappear into a hidden tunnel. That same year, under secret suggestions from Larrakh of the Cult of Black Earth, Ilmeth, along with Marlandro Gaelkur and Albaeri Mellikho, killed some people in order to protect the secret of the Believers. After his crimes were discovered by some adventurers, Ilmeth confessed in tears.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+
+References
+
+---
+
+## Ilvara Mizzrym
+
+Ilvara Mizzrym was a drow priestess of Lolth during the late 15 century DR.
+
+Personality
+The priestess was a very ambitious and cruel individual, wanting to rise in Lolth's esteem. She considered commanding the outpost garrison at Velkynvelve as a stepping stone in her ascension. She also knew the posting was temporary, and she intended to wring every advantage from it in the meantime. Ilvara also enjoyed taunting and tormenting enemies and underlings alike.
+
+Possessions
+Ilvara wielded a tentacle rod.
+
+Activities
+Ilvara was a drow of Menzoberranzan and a member of House Mizzrym, commanding the Velkynvelve outpost.
+
+Relationships
+Ilvara first had Jorlan Duskryn as a lover, but discarded him after his crippling injuries. She later took Shoor Vandree but cared no more about him than she did about Jorlan.
+
+History
+During the demonic crisis in the Underdark in the late 1480s or early 1490s DR, there was a great escape of prisoners. Ilvara decided to personally pursue the fugitive prisoners with her lieutenants.
+
+Appendix
+Appearances
+Adventures
+Out of the Abyss
+Video Games
+Idle Champions of the Forgotten Realms
+Gamebooks
+Escape the Underdark
+
+References
+
+---
+
+## Illuminated
+
+The Illuminated were located in the City of Brass on the Elemental Plane of Fire.
+
+Organization
+Umar al-Hadra al-Bazan led the 50,000 soldiers of the Illuminated.
+
+Activities
+The Illuminated served as constables for the City of Brass, patrolling the city and enforcing curfews. They walked through the streets each night, pounding drums and announcing the start of the curfew. Curfew violations were punished harshly. First-time offenders were arrested and fined. Offenders caught a second time lost a hand and third-time offenders were executed.
+
+Base of Operations
+The City of Brass served as the base of the Illuminated.
+
+Appendix
+References
+
+---
+
+## Iljrene Ahbruyn
+
+Iljrene Ahbruyn was a drow priestess of Eilistraee and friend of Qilué Veladorn.
+
+Description
+Iljrene, once described as a "tiny, kitten-soft doll of a priestess," was a drow of deceivingly soft, cuddly looks. She customarily concealed her magical surface elven chainmail beneath high-fashion gowns and sometimes went into Skullport with a basket over one slim arm to buy sundries (with backup guards shadowing her from behind, in case she needed aid). Few in Skullport bother her after she became known as the slayer of a Hired Horror who presumed too much apparent weakness in her.Ed Greenwood (December 1991). “If You Need Help - Ask the Drow!”. Dragon #176 (TSR, Inc.), p. 22
+
+Iljrene collected stuffed toys and dolls, had been known to squeal with delight at a gift, joke, or flowery compliment, and could be embarrassingly affectionate. Those who mistook this "little girl" act for weakness often didn’t live long enough to regret it. In battle, she seemed immune to pain, her wits lighting-fast and her icy calm unshakable. Piergeiron, Lord of Waterdeep, once called her "the most dangerous battlemaster I have ever laid eyes on in all Toril."
+
+Activities
+Iljrene was a priestess of Eilistraee in the Promenade of the Dark Maiden in Skullport. She was also the sub-commander of the Protectors of the Song, the temple guards.
+
+History
+In 1361 DR, Qiluè agreed to help Liriel Baenre against the Vhaeraun-worshiping Dragon's Hoard, sending her warriors, including Iljrene, to attack their headquarters.
+
+By 1375 DR, Iljrene was one of the sub-commanders of the Protectors of the Song and held the rank of Hand of the Protectors. She defended the temple of the Promenade against Dhairn's attack, who led the clerics of Selvetarm. She fought valiantly, but she fell to Dhairn's blade, which transformed her into a mass of spiders and absorbed it into his weapon. Without a physical body left, she was prevented from being resurrected.
+
+Appendix
+ Appearances
+ Daughter of the Drow
+ Windwalker
+ Sacrifice of the Widow
+
+References
+
+---
+
+## Ilztoj A'Qaran
+
+Ilztoj A'Qaran was a drow mage in Cormanthor in the late 15 century DR.
+
+History
+Ilztoj lived in Szith Morcane until it fell to fiendish fire giants circa 1486 DR. He, along with seven companions, followed Drava T'syrr to Cormanthor. There, however, Drava fell under the madness of the demon lord Graz'zt and started to dance and drink.
+
+Some adventurers (members of the Harpers hired by Elanil Elassidil to bring peace to her ancestor Meira Faerenduil) tried to convince Drava and her companions to go to a refugee camp, but she never complied and in the end she was defeated. Ilztoj became the new leader and agreed to the adventurers' proposal.
+
+Personality
+Ilztoj managed to resist the madness. However, he also started to like living in the forest. He continued to honor the drow social rules and followed Drava, who as a female was in a higher position than him.
+
+Relationship
+Ilztoj was always at Drava's side as her second-in-command.
+
+Appendix
+Appearances
+Herald of the Moon
+
+References
+
+---
+
+## Ilyana Wyrmmruff
+
+Ilyana Wyrmmruff was an innkeeper in Skullport.
+
+Personality
+Ilyana was the driving force behind the success of the inn: her organizational skills kept the building running efficiently. She was scared of spiders. Ilyana liked her current life but had a yearning for her adventuring days. She knew that her life was passing and waited for the day that the Trollsinge Vanguard would again be full, in the afterlife.
+
+Relationship
+Ilyana worked alongside her former adventuring companion Eulagad.
+
+Activities
+Around 1370 DR, Ilyana managed the Burning Troll inn with Eulagad.
+
+History
+Ilyana was once one of the most talented cat-burglars in Waterdeep. She joined the Trollsinge Vanguard party and they survived many adventures. Like Eulagad, Ilyana retired after the death of her friends and for a long time they managed an inn in Skullport.
+
+Appendix
+References
+
+---
+
+## Ildil
+
+Ildil was one of the leaders of the Knights of the North.
+
+Personality
+He was a vain and insecure individual.
+
+History
+Around 1374 DR, Ildil was one of the original founders of the order.
+
+Appendix
+
+References
+
+---
+
 ## Illistyl Elventree
 
 Illistyl Elventree  was a wizard and adventurer from Shadowdale in the Dalelands and a member of the Knights of Myth Drannor in the mid–14 century DR.
@@ -536,6 +2429,882 @@ Notes
 Appearances
 
 References
+
+---
+
+## Ilmara
+
+Ilmara was a queen of Impiltur and the third ruler of the Heltharn Dynasty.
+
+Relationships
+Ilmara was the only daughter of King Imphras I and Queen Sambral. Her elder brother was Imbrar I.
+
+In 1167 DR, in her early 60s, Ilmara finally married. Her husband was Rilaun of Sarshel, a man half her age. Their son was named Imphras II.
+
+History
+Born in 1104 DR, Ilmara was a sorceress like her mother and was tutored under Mhilra of Milvarune. As Princess, Ilmara discovered the Scrying Stones of Myth Drannor. With them, she founded Ilmwatch, from which she watched for any sign of the return of the hobgoblin hordes that had been defeated by her father.
+
+The hobgoblins did return. When she saw them through the stones in 1127 DR, her brother, King Imbrar, took an army to the Giantspire Mountains to defeat them. The king, his men, and the hobgoblins were never seen again. Ilmara took the crown with sorrow.
+
+Upon the birth of her son from her late marriage in 1169 DR, her husband became angry when she named her new son heir instead of him. He tried to take the throne by force but was killed.
+
+Ilmara served as regent until her son reached the age of sixteen years, at which point she left the throne. She died five years later in 1190 DR.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Ildriss
+
+Ildrisses, or wind terrors, were grue native to the Elemental Plane of Air.
+
+Description
+Ildrisses were either completely invisible, or they resembled a cloud-like mass with vaporous tentacles and red gleaming eyes. The color of their cloud form varied slightly. When traveling, ildrisses were always invisible.
+
+Combat
+Ildrisses were able to get the initial jump on any creature. When attacking, they transformed into their cloud form, striking out with their tentacles that were hardened by small bits of material.
+
+These creatures could only be harmed by magical weapons. Additionally, all air and lightning-based magic was useless against them. Spells of this nature were dispelled when an ildriss came within 50 feet (15 m) of them, including spells with permanent effects. Magical items were immune to this dispelling effect.
+
+Habitat/Society
+
+Much like their windy nature, ildrisses made and broke relationships with ease. They belonged to dynamic cliques on the Elemental Plane of Air, but were always solitary creatures when encountered on the Prime Material Plane.
+
+Groups of ildrisses did not have an established hierarchy, instead ildrisses followed the lead of others with defined goals so long as those goals suited them as well. Ildrisses served as spies for Yan-C-Bin, the Elemental Prince of Evil.
+
+Ecology
+Other races of the Elemental Plane of Air viewed ildrisses with disdain, considering them to be parasites. Ildrisses often spied on other creatures for days before attacking or taking action.
+
+Ildrisses fed on clouds, air, breezes, birds, and small elemental creatures. During the mating season they maintained strict territories, becoming instinctively aggressive to any intruders. These territories were pockets of air that moved about and not simply the air located over a stationary object or piece of land.
+
+Fog ildriss
+Rumors abounded of good-hearted ildrisses who abandoned the service of Yan-C-Bin. These timid creatures were known as fog ildrisses.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ilshara Naerthskul
+
+Ilshara Naerthskul was a thief in the Ten Towns in 1370 DR.
+
+Activities
+Ilshara was an infamous thief who specialized in working on rooftops, minarets, and chimneys and in the theft of diamonds, coins, magical items, and any kind of weapon.
+
+History
+In 1369 DR, the wizard Orlmar of Baldur's Gate caught her. Ilshara escaped and nobody saw her again.
+
+By 1370 DR, she had apparently resurfaced, reporting to be living in a villa in Caer-Konig as Istara, wife of a fishmonger and having the abilities of a practiced wizard.
+
+Appendix
+
+References
+
+---
+
+## Ilmra
+
+Ilmra was a drow apprentice wizard in Ched Nasad.
+
+History
+Ilmra was one of the few female drow who decided to study as a wizard in the Arcane Conservatory. She was a classmate of Q'arlynd Melarn.
+
+One day, she was about to fail a magic test in reading auras when Q'arlynd suggested the correct answer to her. However, Ilmra, instead of thanking, Q'arlynd reported the event to their instructor, admitting her failure as well.
+
+In 1379 DR, Q'arlynd remember her as his first lesson in not trusting anyone.
+
+Appendix
+Appearances
+Novels
+
+ Ascendancy of the Last
+
+References
+
+---
+
+## Ilstan Narbrace
+
+Ilstan Narbrace was a veteran member of the Purple Dragons in Suzail during the late 15 century DR.
+
+History
+Around 1479 DR, Hethel and four more Dragons acted as escorts for the War Wizard of Cormyr Ellard Gauntur in his pursuit of the renegade Rorskryn Mreldrake to Marsember through a portal. They found their renegade in the shape of a woman, but Gauntur recognized their quarry because of a stain in Mreldrake's robes right at the moment of crossing through the portal; as they expounded on this to their retinue, Ilstan quickly pushed their leader through the same portal. Then the evil vampire archmage Manshoon sent the death knight Targrael after them to hide Mreldrake's trail.
+
+Targrael caught up to Ilstan Narbrace while running up a flight of stairs at the king's tower in Marsember on the other side of the portal, and punched her sword through his helm, without any fight.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Illusory wall
+
+Illusory wall or illusionary wall (originally, Toscudlo's illusionary wall) was a mid-power illusionist spell, that created the false figment of a wall for persons to hide behind.
+
+Effects
+This spell allowed the caster to create a visual illusion of a wall or similar surface, such as a ceiling or floor. The illusion was visually perfect, but solid objects passed through it effortlessly. The surface could be placed anywhere within close range and it could have dimensions up to one inch in width by ten feet in length by ten feet in height. Once created, the illusion was permanent unless dispelled.
+
+Components
+Only verbal and somatic components were required to cast this spell.
+
+History
+The spell was invented by the Netherese arcanist Toscudlo  in .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ilthor
+
+Ilthor was a sea captain of Aglarond.
+
+Activities
+Ilthor sailed with her ship, the Windsinger, around the Sea of Fallen Stars, in particular from Sembia to Aglarond.
+
+History
+In 1374 DR, Araevin Teshurr's party boarded Ilthor's ship in order to arrive quickly in Aglarond.
+
+Appendix
+
+Appearances
+Novels
+ Farthest Reach
+
+References
+
+---
+
+## Ildomyl
+
+Ildomyl was an apprentice Zhentarim wizard in High Dale. He was a friend of Nordryn Spellbinder.
+
+History
+In 1358 DR, Ildomyl was a member of the secret Zhent occupation army in High Dale. He was on duty as gate-guardian when he was killed by Elminster Aumar and Sharantyr.
+
+Appendix
+
+Appearances
+Shadows of Doom
+
+References
+
+---
+
+## Ilnara Mremman
+
+Lady Ilnara Mremman was a Tashalan human archmage sorcerer in Lapaliiya in the 14th century DR.
+
+Circa 1373 DR, she was the ruler of the city of Sammaresh, ruling from the Mantimera Throne (named for the mantimera). She was advised by the Whispering Serpent.
+
+Ilnara was a descendant of Lord Daster Mremman.
+
+Appendix
+References
+
+FR:Ilnara Mremman
+
+---
+
+## Ilmwatch
+
+Ilmwatch was a large fortress-town that protected the infamous Buzzard Beak Harbor and traders of the Merchant's Run, located on the northern end of the Easting Reach, within the Farwater region of Impiltur.
+
+Description
+Despite its strategic location between Impiltur and Damara, Ilmwatch was not a particularly busy port city.
+
+Activities
+During most months of the year, sea-travel from the Sea of Fallen Stars was largely navigable along the Great Imphras River until the great city of Helgabal. As such, Ilmwatch only brought in a few ships that unloaded their goods within the fortress. The settlement did see some overland trade, primarily from smaller mercantile operations that only required wagons or horses as a means of conveyance.
+
+Ilmwatch was large enough to easily support several hundred troops. Soldiers from the Warswords were tasked with protecting merchants traveling to and from Damara as well as those who crossed the Easting Reach to Uthmere. Patrols regularly scouted the surrounding lands and often accompanied merchants traveling along the Merchant's Run and Herald's Road, as they passed closer to the fortress. Their influence extended as far north as Uthmerg to the southwestern local known as the Narrows, where the Herald's Road crossed the Bluefang Water.
+
+History
+Ilmwatch was founded by Ilmara, sister of Imbrar I, during his brief rule. There, she used the Scrying Stones of Myth Drannor to guard against the return of the hogboblin forces defeated by her father Imphras I.
+
+During the late 14 century DR, Ilmwatch was governed by Heskar Brandosk. He led a stalwart defense of the fortress against the influence of the Shadowmasters of Telflamm and pirates that scoured the coast of the Easting Reach.
+
+Appendix
+References
+
+FR:Ilmgarde
+
+---
+
+## Ilrune Symbaern
+
+Ilrune Symbaern was the baelnorn of Symbaern in Myth Drannor in the Year of the Tankard, 1370 DR.
+
+History
+Ilrune was an elf wizard who chose to become the baelnorn of his family.
+
+Around 1310 DR, the evil Shadow Shields adventuring company entered his family's crypt and he fought them. However, in the battle, the entrance to the crypt collapsed, killing most of the adventurers. Ilrune gained from their bodies the fabled Crown of Stars. However, some of the adventurers rose as wights and fought Ilrune again and again trying to recover the Crown.
+
+In 1370 DR, he was trying to somehow defeat the wights for good.
+
+Activities
+Ilrune wandered his family's crypt protecting the tombs of his ancestors and descendants.
+
+Personality
+Even in undeath, Ilrune remained elegant, polite, and deadly. He enjoyed battle but always introduced himself politely to intruders. He agreed to give adventurers who'd arrived in peace some of his treasures in exchange for permanently destroying the Shadow Shields and even to give the Crown to a good-oriented wizard.
+
+Appendix
+References
+
+---
+
+## Ilueth Dragonil
+
+Ilueth Dragonil was an evil adventurer in Myth Drannor in the Year of the Tankard, 1370 DR.
+
+Activities
+Ilueth was a member of the Masked Marauders.
+
+Personality
+Ilueth had a talent for creating new spells. She liked the company of men, and seeing them dying. Ilueth was fascinated by monsters and by magic and was willing to travel to faraway places to see new ones.
+
+Appendix
+
+References
+
+---
+
+## Ilyrana Moonflower
+
+Ilyrana was one of the princesses of Evermeet in 1367 DR.
+
+Activities
+Ilyrana dedicated her life to Angharradh and was uninterested in the throne. She lived among the woods of Evermeet, taking care of the temple of her goddess. Known across the island for her wisdom and closeness to the Seldarine, elves in bereavement or those who were troubled and uncertain often decided to consult her.
+
+History
+During Nimesin's War in 1371 DR, Ilyrana and her fellow clerics fought the Ityak-Ortheel. In order to stop it, Ilyrana sent her soul and the monster to Arvandor.
+
+Personality
+Ilyrana was a somewhat distant individual, totally devoted to her faith. She had a divine aura around her and was a kind and wise woman.
+
+Relationship
+Ilyrana was the eldest of the thirteen children of Amlaruil Moonflower and Zaor Moonflower and the second in succession if something happened to the heir Amnestria.
+
+References
+
+---
+
+## Iliya
+
+Iliya was a beautiful woman known to inhabit the oases of the deserts of the interior of Zakhara in 1367 DR.
+
+Description
+Iliya's beauty was shocking to anyone who spied her swimming in an oasis. When not swimming naked, she dressed in a robe made from golden feathers.
+
+Activities
+Iliya was in fact a polymorphed simurgh who wished to be married as soon as possible.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Ildamar Yeskrel
+
+Ildamar Yeskrel was the head of a wealthy and influential family of Tarmalune as of 1479 DR.
+
+Activities
+Ildamar believed that he and a few other trusted nobles were descendants of the original founders of Tarmalune, and as such they deserved to be nobility. To achieve that end, he bought many buildings in the districts of Arendermore and Dawnside, and tried to buy influence over those he could not own.
+
+He also ran a band of spies who operated throughout Tarmalune, and also manipulated criminals and a few merchants to sway the Council of Tarmalune when he wanted them to do things his way.
+
+References
+
+---
+
+## Ildmane
+
+Ildmane was a fire giant who, together with her husband Okssort, led an attack on Triboar sometime after the War of the Silver Marches.
+
+History
+In the late 15 century DR, Okssort and Ildmane went in search of pieces of the Vonindod under the orders of Duke Zalto. They led a giant contingent to Triboar, the town that stood over the site of an ancient great battle between giants and dragons. However, they were defeated by a band of adventurers.
+
+Appendix
+References
+
+---
+
+## Ilimar
+
+Ilimar was a long-ruined sarrukh city from the time of the empires of Isstosseffifil and Mhairshaulk.
+
+Geography
+The ruins of Ilimar were magically split by a portal in the center into two sections, each located in a different part of Faerûn. The northern ruins were found in the western Gulthmere Forest between the Vilhon Reach and Dragon Coast, close to the southern shore of the Lake of the Long Arm. The southern section was located in the foothills north of Rethild, on the eastern slopes of Muaroghal, the mountains in eastern Halruaa.
+
+Geography
+The city was overgrown and ruined.
+
+Inhabitants
+The northern section of the ruins was haunted by giant spiders and controlled by lamia nobles, who were descendants of the infamous lamia ruler of Westgate, Nessmara.
+
+The southern ruined city was fearfully guarded by a group of spirit nagas that sensed a great power beneath the surface and believed it to be the sarrukh, emerging from their ancient tombs. They bided their time, gathering information and waiting for when the primeval race would lead their kind and kin out from the Great Swamp of Rethild to battle and glory. The lizardfolk of the Great Swamp worshiped these nagas as gods and considered the ruins a holy site.
+
+History
+The city was originally constructed by the sarrukh, one of the creator races, by a minor clan responsible for providing slaves to the empires of Isstosseffifil and Mhairshaulk.
+
+Buried within the southern ruins of Ilimar were three sarrukh who had been hibernating since before the drow conquered Dambrath. These sleeping sarrukh were venerated as gods by the spirit nagas, who anxiously awaited the awaking.
+
+In the, an adventuring band called the Talons of Timindar unexpectedly discovered Yornar's Trail Companion, a moon-shaped spellbook sacred to Mielikki, within the ruins of Ilimar, after battling the nagas, lamia, and spiders. Oddly, they found it hovering in the air in the middle of a tower-top room that was scorched by flame, with broken windows and broken bodies all around, as if blasted by an explosion, possibly a fireball spell.
+
+Appendix
+References
+
+FR:Ilimar
+
+---
+
+## Iletian Blackeagle
+
+Iletian Blackeagle was a merchant living in Ashabenford in the late 14century DR, the leading partner of the Black Eagle Coster that operated in Mistledale. Iletian was a noted swordsman, journeying in an adventuring company with his business partners before they retired.
+
+As a side business Iletian brew his own beer, Blackeagle brew,  a raw and fiery ale that was extremely popular in the city of Glister.
+
+Appendix
+References
+
+---
+
+## Ilmryn Despana
+
+Ilmryn Despana was once the weapon master of House Despana.
+
+Possessions
+Ilmyrn owned a special House Despana insignia, crafted by his brother, Malavon. It was a small obsidian and adamantite amulet, with a purple ribbon attached to it. Ilmyrn was gifted the trinket by Malavon. This insignia was enchanted, and the wearer could cast three spells a day when it was worn: Melf's acid arrow, Otiluke's resilient sphere, and blur.
+
+History
+Ilmyrn was often found in the Ust Natha tavern, where he would tell of his adventures to fellow drow. He completed the Blooding in 1368 DR, where he made a long voyage to the surface with two brothers. He found the surface horrid, and met a beautiful young elf, whom he slaughtered "too easily". He and his brothers (who were slaughtered) were hunted by surface elf patrols, but Ilmyrn made it back to the Underdark, with the female's head in his hand. It was a fine trophy, and his matron mother, as a result, sponsored him entry into Ust Natha's male fighter's guild.
+
+When the Lolth-worshiping matriarchy was assaulted by his brother, Malavon, and his brother's allies in the worship of Vhaeraun, Ilmyrn had to face his brother in battle. At first, the weapon master had the upper hand, but Malavon invoked the power of Ilmryn's amulet by means of a secret word. The enchanted insignia Ilmyrn wore responded and cast a magical protective sphere around its wearer.
+
+However, when Ilmyrn emerged from the resilient sphere, he was faced against several powerful tanar'ri. Here, he was slain, cursing the name Malavon.
+
+Appendix
+Appearances
+Video games
+ Baldur's Gate II: Shadows of Amn
+ Icewind Dale II
+References
+
+---
+
+## Ildryn Doumath
+
+Ildryn Doumath was the head of Doumath mercantile house, as well as their representative on the Merchants Council, in the city of Ravens Bluff during the late 14 century DR. He was quite an ambitious half-elf, having worked his way from a skilled woodcarver to head of a Ravnenian merchant house.
+
+Despite his achievements, Ildryn preferred his time practicing his craft over the seemingly ceaseless talking and dawdling found in council meetings.
+
+History
+Ildryn became the patriarch of House Doumath after the death of Emryn Bentbow, having purchased the deceased councilman's business and thereby inheriting his seat. He often tried to end meetings early, interrupting his contemporaries with snappy, sarcastic comments in an attempt to move things along.
+
+Appendix
+
+References
+
+---
+
+## Ilikur's Bridge
+
+Ilikur's Bridge, known in the region as the "Haunted Bridge", was a monumental construction that spanned the Huntinghorn Water and Black Maw Bog between Westbridge and Triboar in northwest Faerûn. It was part of the Long Road that connected Waterdeep to Mirabar in the far north.
+
+Structure
+The bridge was made from three massive granite blocks and spanned the stream and bog in the north-south direction. The two plinths were 60 ft (18 m) from west to east, 20 ft (6.1 m) from north to south, and rose 30 ft (9.1 m) above the ground extending another 10 ft (3 m) below ground. The deck slab was 100 ft (30.5 m) long, 50 ft (15 m) wide, and 12 ft (3.7 m) thick with a slight arch of about 4.0 ft (1.2 m) in the middle relative to the ends. At both ends of the span were 100 ft ramps that sloped down to meet the Long Road.
+
+Each ramp was contained between two fitted stone walls that were anchored to a plinth. The space between the walls was filled with rubble, river rock, and gravel built up to form a roadbed 40 ft (12 m) wide plus another 5.0 ft (1.5 m) of guard wall on either side to prevent people, draft animals, and wagons from falling off the edge. These side rails were also made of tightly fitted smooth granite blocks and topped with a sloped capstone rail. The road itself was cobblestone for the entire length of the bridge and ramps. The choice and positioning of the blocks that formed the superstructure allowed water to pass through and drain away which minimized the problems of ice formation, both for travelers and for the long-term damage of countless freeze/thaw cycles.
+
+Features
+
+Ilikur's Bridge earned the "Haunted" moniker by virtue of the loud male voice that emanated from it under certain circumstances or when particular conditions were met. For example, when a creature walked solo across the midpoint of the bridge, the voice calmly and clearly stated "Be changed, for there are always too few to do the great deeds that are needful."The source does not specify what language was spoken by the various parts of the bridge. There were many such utterances and various sages that studied the bridge over the years determined that all of them came from an ancient version of the magic mouth spell. The vast majority of the mouths were visible on the underside of the span when triggered, with a few others placed on other surfaces of the bridge.
+
+The bridge was also riddled with secret compartments. Dozens of the well-fitted irregular stones could be moved or removed when the correct "trigger-stones" were depressed or manipulated. These hiding places varied from the size of a snuff box to a room able to hold eight humans.
+
+Other features included a portal at the southern end of the bridge that could be activated by touching two particular stones, one on the roadbed and one on the east wall, at the same time. Reports of the portal leading to a dragon's lair were corroborated, but they also indicated that either the portal was sealed or the lair was destroyed. The location of the lair remained unknown and the reports conflicted on whether it belonged to a red or black dragon.
+
+Three other stones, each marked with a tiny carving of two crossed swords, caused a cold presence to appear close by when they were pressed in the correct sequence. Stepping into this cold region was exactly like entering the extradimensional space created by a rope trick spell. If not accessed within two minutes, the cold space disappeared for an indeterminate interval. Pressing the stones out of order also caused the hiding place not to manifest for a time.
+
+One of the unsolved mysteries of the Haunted Bridge was the meaning of the markings on one of the thousands of cobblestones. Deeply engraved on one stone was what appeared to be the letter "W" atop the letter "V". Removing the stone and digging into the gravel below it revealed nothing unusual.
+
+Bridge Wisdom
+Over the years, by chance, observation, or experimentation, the conditions required to trigger some of the bridge's magic mouths were discovered. Others were heard without knowing the precise circumstances that triggered them. Here is a small sample of the cryptic messages and their triggers.
+
+ If a dwarf touched any part of the bridge, it said "Built in pride, rooted in power, six stones here point the way to anvils made to forge great magic but hidden elsewhere. Dismantle and destroy not, or suffer Baraurin's curse."
+ If a flying creature got within 60 ft (18 m) of the bridge, it said "Strike not the work that pleased Ilikur."
+ If that creature landed on or hit the bridge, it said "The dead watch, and mark what you do."
+ If an object or dead body (not undead) struck any part of the bridge, it said "To the earth, all returns—but not unheeded."
+There were other sayings triggered by elves, drawing magic weapons, or even lighting a torch or casting a light spell while on the bridge.
+
+Rumors & Legends
+Plenty of legends surrounded this ancient edifice, the most common being that it was haunted. Investigations by sages, wizards, and priests turned up no evidence of a haunting, just the bridge's penchant for pontificating for reasons known only to the builders. The many hiding places in the superstructure gave rise to rumors of amazing treasures to be found and was a constant draw for the curious. These rumors spread even beyond the bridge to include the bog beneath and to the east, where wagons from wealthy merchants or carriages from rich nobles were supposedly sunk and waiting to be looted. Some of these stories were proven true, but the bog swallowed some of the looters as well. One particularly persistent legend told of a chest of stolen coins and gems buried off the north end of the bridge out (some distance in some direction) from the end of the ramp retaining wall. Another version of this legend stated that it was guarded by undead creatures buried with it.
+
+Other tales handed down over generations told of a dragon landing on the bridge and then vanishing. This was probably based in fact due to the discovery of the portal at the south end. Likewise, a ring of wizards standing on the bridge at night surrounded by an eerie glow was a common tavern tale. But the most chilling legend was the story of some treasure hunters digging in the road at the center of the bridge and discovering a stone golem laying face-up under the roadbed. According to the legend, it sat up and blasted the defilers with lightning bolts so powerful that they were hurled off the bridge, dead and fried in their own grease before the bog could claim them. The golem then gathered the loose stones and reburied itself to await some unknown future purpose. According to Elminster, the truth behind this legend was that the bridge's superstructure contained quite a few stones that were enchanted to shoot lightning when disturbed, and a statue along with the stones from its pedestal were scavenged from a monument in the vicinity as material to build the road. The treasure seekers did dig up the statue and at least one of them got electrocuted, but it was dwarves that repaired the road and started the story of the golem to discourage other vandals. It was said that anyone who broke a stone or carried one off would surely meet a swift end.
+
+History
+The earliest known written records that mention Ilikur's Bridge dated from the mid–6 century DR and they described the structure as "old" even then. Who or what Ilikur was and what hands built the bridge were lost to time. The builders had skill equal to that of dwarven stonemasons of the era, but no known clan claimed the bridge as part of its ancestral works. The reburying of the statue notwithstanding, the Haunted Bridge has needed no repair work in recorded history.
+
+As of the Year of Wild Magic, 1372 DR, bugbears patrolled the area around the bridge looking for easy targets and organized raids on any travelers that attempted to spend the night above the bog.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Illumination
+
+Illumination was an Amaunatori spell.
+
+Effects
+On casting Illumination, the caster was surrounded by golden light. In this state, the caster was not affected by any magic that did not involve cold, darkness, or shadow.
+
+How long this state persisted depended on perspective for the flow of time was altered. For the caster, the spell took seven minutes to end, for all others, the spell's duration was merely a minute. During those seven minutes, the caster could do nothing. He or she could not cast other spells, turn invisible, simply move, or do anything else except for asking up to seven yes-or-no questions to his or her deity. The deity, apart from answering "yes, "no", and "I don't know", could give answers that would help the caster make decisions and were also tailored to furthering its own agenda.
+
+Another way to use illumination was to convert its power into a one-shot cure blindness or deafness, cure disease, prayer, or free action or up to four cure light wounds all on the caster him- or herself, instead of asking questions. Doing this ended the spell.
+
+Components
+Illumination required verbal and material components in the form of a holy symbol and holy water.
+
+Appendix
+References
+
+---
+
+## Ileria
+
+Ileria was a half-elf cleric that volunteered to join the to-be Heroes of Waterdeep circa 1358 DR.
+
+History
+In 1358 DR, the cleric and comrades journeyed underneath Waterdeep to fight evil and bring good. However, they were overwhelmed in such an environment, and most of them were killed. If the cleric was resurrected, Ileria stated that they had been given another chance to carry on their mission of good, all due to their faith. Ileria volunteered to join the adventurers in their quest to slay Xanathar.
+
+Appendix
+Notes
+
+Gallery
+
+Appearances
+Video games
+ Eye of the Beholder
+References
+
+---
+
+## Ilken Hundrabrar
+
+Ilken Hundrabrar was a shopkeeper dealing in repaired furniture and clothing in Harrowdale in the late 15 century DR. He also maintained a hidden profession as a toad breeder.
+
+History
+Sometime prior to running his shop, Hundrabrar was an apprentice gem-cutter and jewel-maker under Hulgur Yond, a legendary "jewel-master". After his master was eaten by a gray render under mysterious circumstances, he fell out of the profession.
+
+Appendix
+References
+
+---
+
+## Ilyaport
+
+Ilyaport was a port town and later fishing village in Lapaliiya in southwest Faerûn.
+
+Geography
+It stood on the shore of the Shining Sea, southwest of Ithmong in Ithmong Bay.
+
+History
+Ilyaport was founded sometime around 100 DR, based around a temple to Umberlee known as the Shell House, home to the Green Priests Umberlant order. The settlement flourished, becoming quite a grand town.
+
+However, during the Rage of Wizards in the Year of the Sword's Oath, 1142 DR, when rival wizards and yuan-ti engaged in wildly destructive spell-battles up and down the Tashtan Coast, the Shell House was destroyed. Many of the Green Priests died in the collapse, but before it did, the temple was struck by a huge scouring wave that carried away the Umberlant holy relic known as The Orglara. The Umberlants believed this to be "by Arm of the Goddess", that is, sent by the Sea Queen to steal that which she desired.
+
+Without the temple, Ilyaport's prosperity ebbed in the shadow of the city of Ithmong. It was just a simple fishing village by the mid–14 century DR.
+
+Government & Religion
+The civic deity of Ilyaport was Umberlee, the Sea Queen. Even after the fall of her temple, the town was ruled by the highest-ranked Umberlant priest who dwelled there on a permanent basis. Circa 1373 DR, this was Dread Wavelord Dumai Arachneie.
+
+Population
+In 1373 DR, Ilyaport was a small town home to 1,923 people.
+
+Rumors
+This small town was most commonly visited by adventurers hoping to find the treasures whispered to still lie unrecovered in the ruins of the Shell House.
+
+The pirates Captain Raurivyl Ornshield and first mate Dreak of the Scimitar of Fire may have had a safehouse hideout in Ilyaport around 1370 DR.
+
+Appendix
+Notes
+
+References
+
+FR:Ilyaport
+
+---
+
+## Ileldra Starntempest
+
+Ileldra Starntempest was one of the founding members of the Great Goblet crime syndicate. Circa the Year of the Tankard 1370 DR, she was an accomplished wizard and researcher of the Art.
+
+Description
+Ileldra was a dark-haired beauty with a slender build.
+
+Personality
+In council with her fellow Lords of the Goblet, she rarely spoke up or expressed her opinions, preferring to answer questions about magic and its possible uses to further the group's aims. She happily threw off her quiet nature when asked to participate in a nefarious scheme for the group. She relished playing a doxy or a damsel in distress as a decoy. She did not let anyone or anything rule her life because, in her view, no cause, friend, home, or material wealth was worth her life. She took life one day at a time and was ready to walk away if things ever went badly for the Great Goblet.
+
+Possessions
+Ileldra possessed one of the golden goblets that was a symbol of the organization. In it was kept a desiccated digit that belonged to her former master. It was intended to serve as a warning against treachery toward the other Lords of the Goblet.
+Abilities
+It was likely that Ileldra was a better mage than her older sister, Glaratha, but she kept a low profile and did not tout her magical successes.
+
+Relationships
+Despite the protectiveness of her older sister, Ileldra had brief trysts with most of the male members of the Great Goblet. She enjoyed the company of men but never gave away her heart.
+
+History
+In the late 1340s or early 1350s DR, Ileldra and her sister were both young apprentices to the wizard Halonidas Dreie in Scornubel during the time he was a member of a mercantile cabal with aims to bring down some Waterdhavian noble families that were interfering with local business. When he assumed control of the group over the objections of most of the other members, there began a power struggle that resulted in Halonidas slaying three rival members on separate occasions. The remaining co-conspirators approached the Starntempest sisters, asking them to betray their master. Because Halonidas was cruel and abusive to all his apprentices, they agreed. He was caught off guard by Ileldra and Glaratha, and drowned in his bath. Out of this conflict, the Great Goblet crime syndicate was born.
+
+Appendix
+References
+
+---
+
+## Illuun
+
+Illuun was an aboleth in Undermountain in the early 1490s DR.
+
+History
+The kuo-toa led by Noolgaloop were lured by Halaster to a place where an otyugh had lived until the Mad Mage petrified it. As planned by Halaster, the kuo-toa started to worship the petrified otyugh, which Noolgaloop identified as a god called Bulba-Slopp.
+
+In 1492 DR, the aboleth Illuun arrived with its chuul and troglodyte thralls. Illuun decided to settle in the area and started to mentally enslave the kuo-toa, gaining control of the grotto. Then the aboleth transformed the grotto into a den and lived there.
+
+Activities
+Illuun usually resided inside a grotto together with two chuul thralls and used a magical projection in order to deal with visitors.
+
+Personality
+Illuun wanted more slaves for its growing empire. It had had bad dealings with adventurers in past and feared them.
+
+Appendix
+Appearances
+ Waterdeep: Dungeon of the Mad Mage
+Notes
+
+References
+
+---
+
+## Ilverr Glaengath
+
+Ilverr Glaengath was one of the founding members of the Great Goblet crime syndicate in Scornubel. Circa the Year of the Tankard, 1370 DR, he was the unofficial leader of the organization.
+
+Description
+Ilverr was the oldest member of the cabal, with white hair and facial lines sculpted by many years on the road. Even though he was short and burly, his posture and mannerisms immediately gave the impression of aristocracy or of someone in authority.
+
+Personality
+Glaengath was an astute businessman and leader. He commanded respect from his associates and some also feared him. By all appearances, he did not seek power or prestige for himself within the inner circle of the Great Goblet, but seemed to have the safety of the Lords of the Goblet as his first priority. Because of this, the other Lords allowed him to chair meetings and take the lead on most of the cabal's efforts.
+
+Possessions
+Ilverr was wealthy by most standards. He had offices and residences in the North Ward of Waterdeep, Elturel, and his hometown of Scornubel. He loved horses and, by the 1370s DR, he owned some stables and breeding farms and their herds.
+
+Each of the Lords was in possession of a golden goblet that contained a finger or toe that once belonged to Halonidas Dreie (whose assassination marked the founding of the Great Goblet) as a reminder and warning against treachery.
+
+Activities
+Ilverr made his fortune as and was primarily known as a textile merchant that dealt in rugs and window drapes. He loved to ride horses and expanded this passion into the business of breeding and selling them. He started out trying to become the supplier for many mercenary companies in the region, but was aiming to become a major supplier of warhorses for Amn, Cormyr, and Tethyr.
+
+Appendix
+References
+
+---
+
+## Illusory dragon
+
+Illusory dragon was a powerful spell that created an illusion of a dragon.
+
+Effects
+This spell created an illusion of a massive dragon. The illusion was life-like and creatures who saw the dragon were wracked with fear. The illusion was also capable of using a breath weapon that inflicted terrible damage. During casting, the caster chose which type of breath weapon the dragon used: acid, fire, lightning, necrotic, or poison. The caster was able to move the illusion up to  in any direction. Magical and non-magical attacks had no effect on the illusion, and it was immune to damage from spells.
+
+Components
+Although this spell required only a somatic component, the caster had to draw shadow material from Shadowfell to cast it successfully.
+
+Appendix
+References
+
+---
+
+## Ilkin Ermbroar
+
+Ilkin Ermbroar was a cleric of Mielikki circa the mid– to late–14 century DR. He usually shepherded the preparations for the annual Rite of the Stag Lass in Amphail.
+
+Description
+Ilkin lived in the forested areas (Westwood and Kryptgarden Forest) not far from Amphail and his face showed the years of exposure to the elements. His hands were like knotted wood and he was thin and wiry. His hair tended to fly free and, as of the, it was more gray than not. He favored plain robes and boots. He had green eyes that glowed like a lamp when his ire was roused.
+
+Possessions
+He carried a staff made from a tree branch that always sprouted green shoots and leaves.
+
+Activities
+Ilkin was one of the senior members of the church of Mielikki in the vicinity of Amphail and was often involved in preparations for the Rite of the Stag Lass celebrated every year in that village.
+
+Appendix
+References
+
+---
+
+## Ilphara
+
+Ilphara was a female human wizard living in Amnwater in Amn in the 14 century DR.
+
+She was an apprentice of Kappiyan Flurmastyr of Waterdeep and was a notable sorceress and accomplished mage before the 1360s DR.
+
+Appendix
+
+Notes
+
+References
+
+---
+
+## Ilivarra
+
+Ilivarra was a drow cleric of Lolth of the mid–14 century DR. She was the leader of a group of drow that forced the Bruenghor Clan out of their mines in the Sunset Mountains.
+
+Description
+The drow cleric of Lolth had deep red eyes and several tattoos across her arms, chest and legs. Her black-red "armor" was quite revealing. She carried a large staff that glowed green-blue at its apex.
+
+Abilities
+Ilivarra was a powerful spellcaster, and was able to launch fireballs and magic missiles at her foes. She could teleport seemingly at will, as well as conjure undead to assist her in combat.
+
+History
+In 1374 DR, Ilivarra led a legion of drow to exterminate the Bruenghor Clan. She did this to protect the movements of the gnolls and ogres that roamed the area, but this was all part of a larger plan. Though her legion forced the Bruenghor Clan out of their mines, and killed several of them, many of them escaped to the surface.
+
+The three adventurers Adrianna, Kromlech, and Vahn gained access to the dwarven mines and fought their way through. They confronted Ilivarra, who told them that they would pay dearly for the deaths they had caused. They presumed that she ordered the attack, but in fact, Ilivarra cared not for the Sunset Mountains or even the cities of the surface. She claimed that they had been promised to others, and was surprised at the ignorance of the adventurers. Without saying any more, the two sides initiated combat. However, she was cut down, and the adventurers looted a horn used to access a cave, as well as a key to rescue Brogan, a dwarf Harper.
+
+Appendix
+Appearances
+Video games
+ Baldur's Gate: Dark Alliance
+
+References
+
+---
+
+## Illydrael
+
+Illydrael, also called the Broken Blade, was an elven bastard sword that was considered to be a holy relic of Tempus. It was wielded by a champion of Tempus during the Second Dragonspear War and used against the pit fiend Baazka.
+
+Description
+The sword did not give off an aura that could be detected by magical means.
+
+Powers
+After it was shattered, the hilt and handle of Illydrael remained in the heart of the Hold of Battle Lions altar within Dragonspear Castle. For years it powered the wards that kept the portal beneath the castle sealed, and had to be placed within the altar when the seal's rejuvenating rituals were performed.
+
+When the handle was removed from the altar by a follower of Tempus, a blade of white flame erupted from the hilt. It exuded radiance and was extremely effected when used against devils.
+
+History
+During the Second Dragonspear war, in the, a champion of Tempus plunged Illydrael directly into the heart of the fiendish general Baazka. While the blade was lodged in his heart, causing him to grow paranoid and vengeful in the Nine Hells, the hilt remained on Toril. It was placed within a white marble altar, in the Hold of Battle Lions of Dragonspear. Through certain magic, it kept the Dragonspear portal closed and prevented Baazka from entering the prime Material plane.
+
+Over a century later, in the, the rakshasa Nadir arranged for a group of vampires to dominate the cleric of Tempus, Darrondar Gweth. He had Gweth remove Illydrael from the altar and shed his own blood open the Dragonspear portal, with the intent of forcing his arch-rival Sir Isteval to sacrifice his soul to close it therafter.
+
+Appendix
+
+Appearances
+Adventures
+ Ghosts of Dragonspear Castle
+References
+
+---
+
+## Ilinvur
+
+Ilinvur, also spelled Ilinver, was a mining settlement located on the Moonsea North, east of The Ride.
+
+Government
+In the mid–14 century DR, Ilinvur comprised about 6000 residents and was governed by a mage installed jointly by Melvaunt and Thentia who was assisted by twenty heavily armed Keepers of the Peace. In the event of a major orc, flind, or ogre attack, the leader could report to Melvaunt and Thentia via crystal ball.
+
+In the late–15 century DR, the settlement comprised  only 250 residents—mostly human, with several dozen dwarves and a family of gnomes. The village then existed under the protection of Phlan and was governed by a diarchy, with one leader responsible for defense and the other for administration. The settlement had no formal military, but could raise a militia from among the community in times of need.
+
+Trade
+
+Ilinvur's main export was metal mined from the West Galena Mountains, which was smelted into bars and loaded onto caravans of rothé-pulled sledges for transport elsewhere, usually to be traded for food.
+
+By nature of the settlement's location between the Moonsea to its west via the Ilinvur Trail, Vaasa to its east via Garumn's Climb, and the Great Glacier and far-off reaches of the Moonsea North to the its north via the Way of the Powrie, Ilinvur was a crossroads and stopover for adventurers and merchants excited to seek and to sell treasures from these disparate places.
+
+History
+Ilinvur spent much of its existence as a client to powers on the Moonsea, including Melvaunt, Thentia, and Phlan. After the rise of the Warlock Knights of Vaasa in the 15 century DR, the settlement saw increased trade flowing to and from the east, but the people remained wary of the intentions of the Warlock Knights.
+
+In the spring of the, the town and the surrounding country underwent waves of attacks from barbarians and elementals originating out of the Tortured Lands. Much of the village was burned down and effectively abandoned, with many of its people seeking refuge by fleeing east to Avang or south towards Phlan.
+
+Notable Locations
+As of 1480 DR, the town was a small collection of two-story bungalows spread out around the town square. Most shops and merchants operated out of stalls in the town square, which had been built around a great fire pit that kept the merchants warm in the cold northern climate. An establishment called The Pick was the village's only inn and served also as its sole tavern. No temples existed within the settlement, but shrines could be found dedicated to Bane, Gond, Tempus, and Selûne.
+
+Appendix
+Appearances
+
+Adventures
+Dungeon #170, "Monument of the Ancients"
+
+References
+
+FR:Ilinvur
+
+---
+
+## Illnar Dreth
+
+Illnar Dreth was a crazed arsonist in the city of Konigheim in the Utter East during the time of the Bloodforge Wars (648–657 DR).
+
+During the Festival of Talos in Konigheim, Illnar started a fire in the heart of the city. It spread swiftly to nearby buildings then grew into a huge blaze that threatened to destroy the whole city. The leader of the Legendary Campaign discovered Illnar was the culprit and decided to punish them in a bloodforge battle amidst the burning city.
+
+Appendix
+Notes
+ The race and gender of this game character are not known, as their portrait is randomly selected every time the level is played. However, it is taken from the elf or monstrous options, not the human ones, and Illnar is described as a "fiend".
+
+References
+
+---
+
+## Ilmus Gallaway
+
+Ilmus Gallaway was a merchant living in Caer-Dineval during the 11th century DR.
+
+History
+During Eleint of the, Ilmus Gallaway sent a shipment of supplies to aid Easthaven in the coming winter for Gaspar, but the caravan was ambushed by an ogre raider and his orc henchmen.
+
+In the years that followed, Ilmus' business grew and the caravan routes expanded past Easthaven and Lonelywood. By the time the Gallaway Trading Coaster was established, it had trading depot across the Ten-Towns and traded with farther settlements such as Luskan and Shaengarne Ford. Subsequently, age and love for Cormyrian brandy caught up with Ilmus Gallaway and his family had to take over the business's daily activities and travel. Rawleigh Gallaway, Ilmus's son, guided the coaster to prosperity. In the, Ilmus's granddaughter who inherited his fiery personality and short temper, Deirdre Gallaway, was put in charge of the Gallaway Trade Depot in Targos.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ilitul
+
+The Ilitul  family was a noble family of Waterdeep in the 13, 14, and 15 centuries, Dalereckoning.
+
+Organization
+In the, the Ilitul family was headed by Murgos Ilitul and his consort Zorene. Their eldest son was Zak Ilitul.
+
+Activities
+The Ilituls made their fortune as goat herders and broadened their interests to include mercenary fighters.
+
+Base of Operations
+
+The Ilitul villa was located in the Sea Ward on the south side of Ivory Street in the point it made between the Street of Whispers and the Street of the Singing Dolphin. Directly across Ivory Street was the villa belonging to the Emveolstone family. On the opposite corner were the Shrines of Nature. Across the Street of Whispers was the Melshimber family villa.
+
+Possessions
+The family owned herds of goats, presumably kept outside the city.
+
+Relationships
+At some point in the early 1370s DR there was bad blood between the Ilituls and the Thorp family because Guster Ilitul was observed strangling Delbert Thorp during the second annual Black Bucket Hunt while they were exploring Undermountain. The viewing was accomplished by a modified arcane eye spell that projected the eye's view as an image that others could see.
+
+History
+The family was ennobled in the . They were of Chondathan descent and held Tempus in high regard. As of 1372 DR there were 34 members that could claim nobility.
+
+Notable Members
+ Murgos Ilitul: head of the family in 1368 DR.
+ Zorene Ilitul: consort to Murgos.
+ Zak Ilitul: eldest son and heir of Murgos.
+ Guster Ilitul: strangled Delbert Thorp during a Black Bucket Hunt.
+ Felgrar Ilitul: one of the so-called "Wild Lords" of Waterdeep, circa 1480 DR.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Ilvastarr
+
+The Ilvastarr family was one of the noble houses of Waterdeep that rose to prominence during the 13 century DR.
+
+Activities
+They owed much of their wealth and success to their prowess and skill as monster catchers. Frescoes in their possession seemingly depicted members of their family subduing and taming fantastic beasts such as chimeras, manticores, giant snakes, and even dragons.
+
+Interestingly enough, their family owned culinary interests that specialized in meats of an "exotic" flavor.
+
+Base of Operations
+They kept their family estate within the city's North Ward at the southwest corner of Saerdoun Street and Suldown Street.
+
+In addition to their familial home, the Ilvastarrs maintained a secret vault somewhere in the city. Within it were the family's historical records, the remains of their forebears, and a number of familial relics including the Bulwark of Ilvastarr. It was guarded by a spectator known as Qilnax.
+
+History
+The family has a storied history in Waterdeep and its surrounding lands, even before their ennoblement in the .
+
+Members of the family were present during the Battle of Blood-Drenched Swords of the Second Trollwar. Following the defeat of the Black Claw horde, members of the Ilvastarr family looted the corpse of Lord Palinor Belabranta and stole the griffontack of Belabranta from his griffon mount.
+
+During the Guild Wars of the 1250s DR, Lord Haran of the City Watch pulled his watchmen from the streets, allowing members of an allied family to destroy the estate of House Zoar. He was put to trial by the Lords-Magister and killed for the abdication of his responsibilities.
+
+Notable Members
+13 century
+ Haran Ilvastarr: Civilar of the Waterdhavian city watch during the time of the Guild Wars.
+
+14 century
+ Ulguth: The patriarch of House Ilvastarr
+ Mara: The lady of the family
+ Ulguth II: The elder son and secret worshiper of Gormauth Souldrinker
+ Gotom: Ulguth and Mara's second son and heir-apparent
+ Ajantis: A paladin in service of the Radiant Heart
+
+Appendix
+References
+
+Connections
+
+---
+
+## Ilinvur Trail
+
+The Ilinvur Trail, also spelled as the Ilinver Trail, was a winding path that ran through the lands north of the Moonsea.
+
+Geography
+The trail began at Castle Vathar and headed northwards past Lake Longreach, passed over a bridge at Need Creek, and then crossed open country until it reached the village of Ilinvur. Once there, the trail met with the Way of the Powrie trail heading north, and an eastbound trail that led to Avang (in the near edge of Vaasa). Not far south from the village, another trail (the North Glister Path) branched off in a southeasterly direction, running along the southern edge of the West Galena Mountains, heading towards Glister.
+
+Appendix
+References
+
+---
+
+## Ilipur
+
+Ilipur was a large port town located on the south-western shore of the Lake of the Dragons. Along with Pros, the towns were called the "eyes and ears of Elversult".
+
+Geography
+Ilipur had a shallow harborage with no real docks. Trade ships' cargoes needed to be unloaded onto flat barges and dragged to shore. New ships were constructed on land and pushed into the sea as the town did not have dry docks.
+
+Government
+Ilipur was ruled by the Council of Burghers and a lord mayor. The lord mayor was in charge of the city's sheriffs, tax collectors, inspectors, and accountants, and all suffered from nepotism. Traders from Elversult fully expected to pay fees and bribes to Burghers. They had little choice if they wanted to keep the cargo from the hands of local thieves and bandits.
+
+Trade
+Ilipur and Pros served as loading and unloading points for Elversult's trade.
+
+History
+In 1370 DR, the port towns of Ilipur and its neighbor, Pros, were used by the Cult of the Dragon for the smuggling of magical items, scrolls, material components, and other goods that the Cult required in the areas of the Dragon Coast. This operation made Ilipur a stage for numerous plots by the Cult, and opposing them were the Harpers, Astorians of Teziir, and the Night Masks of Westgate.
+
+By 1372 DR, thieves of the Purple Masks Guild and slaver-bandits of the Men of the Basilisk were present in the town and preyed on trade cargo unprotected by the Council of Burghers.
+
+Following the calamity known as the Spellplague, by 1479 DR, the town was doomed because of the receding waters of the Sea of Fallen Stars and Dragonmere. With the livelihood gone, the trading town dried up and blew away.
+
+Ilipur came to be known as Haunted Ilipur during that time. The empty seaport was littered with overturned skeletons of decaying ships. The town was not fully abandoned, however. A band of pirates called the Blue Dawn was in control of the remnants of Ilipur.
+
+Notable Locations
+The town had a small handful of fair inns and taverns. There were no temples, but a few shrines to Umberlee, Lliira, Tymora, and Tyr.
+
+Appendix
+Appearances
+ Azure Bonds (mention)
+ Marco Volo: Journey
+
+References
+
+FR:Ilipur
 
 ---
 
@@ -635,6 +3404,1782 @@ Queen of the Depths • The Sea Devil's Eye
 References
 
 Connections
+
+---
+
+## Ildul Stonegiant
+
+Ildul Stonegiant was an inhabitant of Dhedluk in Cormyr around 1367 DR.
+
+Activities
+Ildul served the town's ruler, Thiombar, as herald. He worked out of the Blushing Maiden Inn.
+
+Appendix
+
+References
+
+---
+
+## Ilkor
+
+Ilkor of Thay was a Red Wizard agent stationed in one of Daggerford's flophouses in 1372 DR.
+
+Description
+Ilkor was a tall human male with a shaved head, facial and scalp tattoos, common in Thay. He wore ragged crimson enchanted robes called the Tinder of the Mendicant.
+
+Personality
+Ilkor of Thay was stern but polite-spoken. He was cocky and cruel, however, he only attacked if provoked or if someone interfered with his illicit activities.
+
+Relationships
+Ilkor had a nasty and sadistic familiar, a fire mephit named Creech.
+
+Abilities
+Ilkor of Thay was a competent spellcaster that could summon skeleton warriors to aid him in combat.
+
+History
+In 1372 DR Ilkor of Thay resided in Daggerford's Money Quarter in one of the flophouses. He used the space as the base of his nefarious operations. The flophouse contained a large summoning circle that radiated an aura of necromancy, a crystal ball, and an oversized research book.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+References
+
+---
+
+## Ilgrim Marduth
+
+Ilgrim Marduth was the lord marshall of the Marsember Watch during the late 15 century DR.
+
+Relationships
+During his time with the Watch, Ilgrim was seemingly at odds with the stalwart Taggar Kenric, who believed it his duty to stop the dishonesty that ran do rampant in the organization.
+
+History
+Ilgrim ascended to the rank of Lord Marshall a mere tenday after Kenric's death.
+
+Appendix
+Appearances
+Novels
+ The Sentinel
+
+References
+
+---
+
+## Illefarn (poem)
+
+Illefarn was a book written in a narrative poem style and was a stylized retelling of Illefarn's history.
+
+Contents
+The poem of Illefarn narrated the fabled story of the ancient land. It started with placing Illefarn bordering elven lands and being well-protected. The dwarven residents of Illefarn welcomed their elven neighbors into the alliance, with humans following at a later date, bringing their agricultural and farming resources. After the years of fruitful co-existence, Illefarn lands fell in the orc horde attack from the north. Since then, the lands of Illefarn have been nothing but ruins and fables with their stories passed along the generations of surviving dwarves. This poem was known to inspire younger generations to uncover the ancient dwarven mines of Illefarn and return them to the prior greatness.
+
+History
+In late 14 century DR the Illefarn poem could be found in various locations, most notably, inside the Daggerford's library of Sorceller's Encapsulate.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Iliyasha Guidingstar
+
+Iliyasha Guidingstar was an sun elf resident of New Sharandar during the late 15 century of the Faerûnian calendar.
+
+History
+When the fomorian king Malabog threatened the elves of New Sharandar circa the, Iliyasha was one of the envoys who traveled to the Neverwinter to recruit allies from among its residents. She worked with some adventurers to fight back against the trolls and dark fey creatures that continued to plunder the ruins of Old Sharandar, before they ventured into her home in the Feywild.
+
+Appendix
+Appearances
+Video Games
+
+External Links
+
+References
+
+---
+
+## Ilyber Kitcher
+
+Ilyber Kitcher was the infamous would-be explorer of uncharted jungles of Chult, hailing from Scardale, who perished several centuries before 1362 DR.
+
+Description
+Ilyber Kitcher's likeness was preserved in stone and was known as Kitcher's Folly. The unwitting explorer had a stern and unpleasant expression on his face, stern eyes, bushy eyebrows. His tight thin lips were decorated with long mustache.
+
+Abilities
+Ilyber Kitcher was atrocious at navigation, which was evident from his missing the Bay of Chult, sailing along Chult's eastern coast, getting lost, and if not for a serendipitous storm that threw his ship to the Refugee Bay and into Kitcher's Inlet.
+
+History
+Several centuries before 1362 DR, a pompous and overly ambitious nobleman explorer from Scardale, Sir Ilyber Kitcher arrived in Chult. Financed by his rich uncle Castigliar, Ilyber embarked on uncovering unmapped Chultan lands and planned to erect a series of enchanted monuments to commemorate his future glorious achievements. He planned to place these busts on the sites of his discoveries and illustrious battles and enchant them to recite the tales of Sir Kitcher's achievements and inform travelers about local flora and fauna and survival tips.
+
+Kitcher spent some time in Chult and even named Kitcher's Inlet after himself, which was a smaller part of the Refugee Bay, as well as a plot of the beach after his uncle - Port Castigliar. The "discovery" of Kitcher's Inlet happened upon Ilyber's initial arrival in Chult. Even though inlet's existence was known before the nobleman claimed its name on the maps.
+
+In the end, Kitcher's career ended quickly. The ignorant explorer stumbled upon a violent confrontation between two local tribes. With his common sense blinded by his own sense of supremacy over the "savages," Ilyber commanded his wizard to create a display of power for the tribesmen. Sir Kitcher thought to heroically resolve whatever conflict he came across. Instead, both warring tribes found a common enemy and descended on the new and evident threat with a barrage of spears.
+
+Thankfully for Ilyber Kitcher's legacy, some of his hirings survived the attack and fled, bringing the story of the explorer's death and his few discoveries back to Scardale. His uncle, thankful for a plot of land named after him, paid a group of adventurers to sneak into the jungle and erect one monument that came to be infamous for its namesake's history, Kitcher's Folly.
+
+Rumors & Legends
+Kitcher's Folly, was believed by superstitious Tabaxi tribesmen to be a petrified evil giant, buried chest-deep in the ground by Ubtao as a warning to keep outlanders away from the jungle.
+Appendix
+Appearances
+Adventures
+
+Tomb of Annihilation
+Novels
+
+The Ring of Winter
+References
+
+---
+
+## Illistine
+
+The Illistine family was an ancient and powerful noble family based in Chondath, whose members at various other times also served as the rulers of  Hlondeth, Sembia, and even Westgate.
+
+History
+
+Members
+ Anthony Illistine, founder of the dynasty who emerged as the governor of Chondath after uniting the four city-states of Arrabar, Mussum, Samra, and Shamph.
+ Laviar Illistine, king of Chondath during its conflict with the elves of the Chondalwood in the . Laviar also waged an unsuccessful war against Turmish in the .
+ Alexander Illistine, king of Chondath during its continuing conflicts with Turmish, he oversaw the negotiations that led to peace between the two nations and the creation of the ritual Southsand Games in the .
+
+ Mulsantir Illistine I, a mercenary and distant relative of the royal family that overthrew the pirate lords to become king of Westgate.
+ Mulsantir Illistine II, the first son of Mulsantir Illistine who succeeded to the throne of Westgate following his father's death in the . He was slain by the renegade wizard Myntharan of the Shoon Imperium in the .
+
+Appendix
+
+References
+
+---
+
+## Ilphemon
+
+Lord Ilphemon was an Imaskari nobleman. After the fall of the Empire, he founded the city of Deep Imaskar, which his successors ruled for nearly two thousand years.
+History
+In the year -2488 DR, Lord Ilphemon fled to an uncharted corner of the Underdark with a small group of retainers and family. These Imaskari refugees fled in  to the Underdark, taking the Third Imaskarcana with them; in -2481 DR, Lord Ilphemon would found the city of Deep Imaskar in the Earthroot area of the Underdark. He commissioned a written story of the Imaskar at some point, which would be kept in the Purple Library of Deep Imaskar.
+
+His descendants would rule Deep Imaskar until -634 DR when a cabal of necromancers overthrew them.
+
+Appendix
+References
+
+---
+
+## Ilua Yhestin
+
+Most Fatal Horror Ilua Yhestin was the leader of the Place of Waiting Death, a secret temple dedicated to Talona, located beneath Westgate in the .
+
+Activities
+Ilua was the leader of Talona's faithful in Westgate. Her congregation within the temple consisted of four other priests and four followers. Ilua was a specialty priest of Talona called a malagent.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Ilithkar Darakh
+
+Ilithkar Darakh was the fifth Nentyarch of the Darakh Dynasty to rule Narfell.
+
+Activities
+Ilithkar assumed the title of Nentyarch upon the death of the previous ruler, Garthelaun the Goreclaw, in . He ruled until  when he was overthrown and slain by his cousin Rheligaun the Horned.
+
+Relationships
+Ilithkar was the half-fiend offspring of a human woman and the demon lord Orcus.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Ilione Olósynne
+
+Ilione Olósynne was the third Mage-Queen of the Olósynne Dynasty who ruled the nation of Aglarond.
+
+Activities
+Ilione reigned from the, until the . She inherited the throne where her brother, Halacar Olósynne, was killed by agents from Thay. She died of plague in .
+
+Relationships
+Ilione's mother was Ulae Olósynne.
+
+The Simbul was known to be Ilione's apprentice.
+
+Appendix
+
+References
+
+Connections
+
+fr:Ilione Olóssyne
+
+---
+
+## Ilzimmer
+
+The Ilzimmer  family was a significant member of the nobility of Waterdeep, first gaining nobility status in . Like House Amcathra and House Roaringhorn, House Ilzimmer's influence also reached out to the town of Amphail.
+
+Organization
+As of the, the patriarch of the Ilzimmer family was Lord Boroldan Ilzimmer with his consort Xantha and their eldest son as the designated heir, Thanvas. During this period, there were forty-two living members of the Ilzimmer noble family.
+
+Activities
+The Ilzimmer family were most notably gem merchants. but also designed and sold jewelry and gowns. They were also keen cartographers, making and collecting maps. The family, and Dauner Ilzimmer in particular, had an interest in horse-breeding and racing.
+
+Base of Operations
+The family villa and main base was located in the Sea Ward. The building was a distinctive and unique noble villa, consisting of two floors. A sublevel was accessible within the property via a portal, and provided two-way access from a lair that belonged to Misker the Pirate Tyrant in Trobriand’s Graveyard, to House Ilzimmer.
+
+Other Ilzimmer members owned properties within Waterdeep, including Simon Ilzimmer who dwelled in a four-story row house in the North Ward.
+
+Members
+ Boroldan Ilzimmer: Patriarch and leader of the noble family in the mid–14 century. While a powerful and rich noble, he was not well-liked or popular among his peers.
+ Xantha Ilzimmer: The wife and consort of Boroldan.
+ Thanvas Ilzimmer: The eldest son and heir of Boroldan and Xantha.
+ Simon Ilzimmer: A mage and minor member of the family. He was described as tall and broad and was infamous for frequenting courtesans while shapeshifted. Sometime around 1368 DR, he was arrested, found guilty of murder, and hanged from the city walls.
+ Jandar Ilzimmer: Jandar was one of many Waterdhavian nobles who joined the Deep Delvers, a group of young nobles who went adventuring into Undermountain. He was a human fighter who fought with a broadsword.
+ Dauner Ilzimmer: The Chondathan lord Warder of Amphail sometime after 1485 DR. He was described as somewhat of a pompous and lawful man with a deep love of horses.
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Illistine Dynasty
+
+The Illistine Dynasty ruled over the city-state of Westgate from the, until . The Illistine reign began when Mulsantir Illistine drove the last pirate king out of Westgate and claimed the throne for himself, becoming King Mulsantir I. The Illistine family only held the throne for two generations before a period of violent upheaval when their line was replaced by others who seized the throne by force.
+
+Monarchs
+ King Mulsantir I
+ Reigned  – . Mercenary of Chondathan descent who deposed the last pirate king.
+ King Mulsantir II
+ Reigned  – . Firstborn son of Mulsantir I. He was overthrown by the wizard Myntharan.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Ilistar Dynasty
+
+The Ilistar Dynasty ruled over the city-state of Westgate from the, until the . The Ilistar Dynasty began when the androsphinx King Lyonarth and the lamia noble Nessmara killed each other, and Farnath Ilistar was chosen to be the next king of Westgate.
+
+Monarchs
+ King Farnath I
+ Reigned  – . Wizard who was chosen to be the next King of Westgate after Lyonarth.
+ King Belhendar "the Stout"
+ Reigned  – . Firstborn son of Farnath I.
+ King Thartryn I
+ Reigned  – . Second son of Belhendar. He was slain by Iyachtu Xvim, who then took the throne.
+ King Farnath II
+ Reigned  – . Great-great-grandson of Farnath I. He drove the cambion king out of Westgate and reclaimed his family's throne.
+ Prince Farnath III
+ Simpleton and heir of Farnath II. Banished from the city.
+ King Temprith
+ Reigned  – . Younger brother of Farnath II.
+ King Thartryn II
+ Reigned  – . Son (twin) of Farnath III.
+ King Farnath IV
+ Reigned  – . Son (twin) of Farnath III.
+ King Pendernath
+ Reigned  – . Second son of Farnath IV.
+ King Halcoranth
+ Reigned  – . Nephew of Pendernath.
+ King Thartryn III
+ Reigned  – . Firstborn son of Halcoranth.
+
+Family Tree
+
+Appendix
+References
+
+Connections
+
+---
+
+## Ilistar
+
+Ilistar was a promising mage from Samarach on the Chultan Peninsula who lived some time before the 14 century DR.
+
+History
+Ilistar befriended the mage Selvar who gave her his tome Selvar's Ineffable Conjurations, Magicks, and Phantasms before his death. She later became the apprentice of Khelben Arunsun in Waterdeep. Ilistar would eventually add the final spell to Selvar's tome, Khelben's warding whip.
+
+Appendix
+References
+
+---
+
+## Ilphael Lorndessar
+
+Ilphael Lorndessar was the eighth King of the Eorn/Lorndessar Dynasty who ruled the city-state of Westgate.
+
+Activities
+Ilphael's reign began in the, when his grandfather, King Maeraedryn, died. He ruled until the, when he died.
+
+Relationships
+He died without naming an heir to the throne. His fiancée was Shlanarnla Durovree.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Ilmater's Safe Harbor
+
+Ilmater's Safe Harbor was a soup kitchen, run by the Ilmatari priestess Mother Brenia, in the Dock Ward of Waterdeep in the late 15 century DR. It was known to be frequented by almost every beggar in that ward.
+
+Interior
+The building's layout consisted of a cooking area, a dining room, a small room in the back, and a cellar. These rooms were provided illumination by means of lanterns and a heavy, iron chandelier of candles.
+
+Within the building's cellar was a hidden door, which opened to rough-hewn rock tunnels leading into the Warrens.
+
+Services
+Being a soup kitchen, this establishment provided free meals for the impoverished citizens of the Dock Ward. Additionally, in the building's small back room, Mother Brenia tended to the sick.
+
+Inhabitants
+In addition to Mother Brenia, the soup kitchen was run by a number of volunteers, as the elderly priestess could not afford to have a paid staff with the shoestring budget she ran the establishment on. Some of the known volunteers included Niela Snowdrop, Rik Milsean, and Ulmani.
+
+History
+At some point during the late 15 century DR there was a string of disappearances of both beggars  and stray dogs in the Dock Ward. This began not long after Ulmani, Rik Milesan, and some others began volunteering at the soup kitchen.
+
+A month later, the City Watchman Girnan Svann found himself frustrated at his superiors' not viewing the string of disappearances as something worth looking into. He went on to hire a group of adventurers at the Blue Mermaid to investigate, informing them that each missing beggar was connected to Ilmater's Safe Harbor, but that it could be a false lead.
+
+Looking around the establishment, the adventurers eventually discovered its hidden cellar door. Traveling through it, they came upona group of thugs dressed as Sharrans and accompanied by horribly mutated dogs and wolves. After beating up the thugs, the adventurers recognized some of them as the newer volunteers and that their Sharran identities were merely a red herring to distract from the mysterious mage they were truly kidnapping people for.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+The Missing and the Missed
+References
+
+---
+
+## Ilmadia Bariel
+
+Maiden Ilmadia Bariel was a renegade elf that devoted herself to the Ilmatari priest Revered Brother Poquelin during the late 13 century DR. She was quite a troubled individual that—despite her cruelty—suffered a tragic end that led to dire consequences across Icewind Dale for decades to follow.
+
+Personality
+Ilmadia was an arrogant and misanthropic individual. She believed that elves were the greatest race on all of Toril. She vehemently disagreed with the idea that elves cede their place of Faerûn to any of the lesser races.Ilmadia says the line: "To the Abyss with the retreat...", referring to the mass migration of elves from Faerûn that begain in 1344 DR. Because the Retreat was initiated some 60 years after the year Icewind Dale takes place, this is seen as an oversight by designers. Ilmadia's disdain towards others and her frustration with her own people led her to renounced the elven gods of the Seldarine.
+
+Ilmadia thought very little of Poquelin's other lieutenants, that Marketh's friends were all boorish idiots and that Malavon Despana had none whatsoever. She held an intense hatred for many people, especially the drow elves of the Underdark.
+
+Possessions
+Maiden Ilmadia donned the unique plate mail Black Swan Armor, and wielded the enchanted Argent Shield and longsword Alamion. She was also kept the blade known as Bhaal's Fire, and wore around her neck a special magical amulet that hid her "true nature" from others.
+
+After visiting the Severed Hand, Ilmadia accosted the spirit of Custhantos and took one of the last remaining copies of Elameth's Compendium from the tower's library.
+
+Activities
+
+Maiden Ilmadia oversaw the operations of the fire giants loyal to Poquelin in the lower reaches of Dorn's Deep. Among her other activities, Ilmadia sought to create black unicorns using arcane formulae she recovered from the Red Wizard Saablic Tan. She planned to attract a unicorn from the herd that grazed around the Severed Hand.
+
+Her personal calling was to restore the elven fortress of the Severed Hand, a feat with which she became entirely obsessed.
+
+Relationships
+Ilmadia was true devotee of Ilmater and wholly dedicated to the cause of Poquelin. She was not at all aware that the Revered Brother was actually the devil Belhifet.
+
+While Ilmadia died a maiden, she was somehow impregnated by the devil Belhifet. After Ilmadia's resurrection, she gave birth to twins: the half-elf cambions Isair and Madae. While Ilmadia had no relationship with her children, Madae was posthumously named after her late mother by the woman that would raise the twins.
+
+History
+In the, Ilmadia began to carry out a plan that would wipe out the drow of Rilauven once and for all. Her fire giant subordinates would dismantle the Great Forge of Dorn's Deep and repurpose its components in the construction of an enormous longboat. They would then propel the longboat down the magma flows near Dorn's Deep and break through the cavern wall near Rilauven, flooding the city with molten rock from above.
+
+Ilmadia's plan would not come to fruition. That same year she was killed alongside her fire giants by a band of adventurers that came to be considered heroes of the Ten Towns.
+
+The following year, Ilmadia was resurrected by Mother Egenia, a true disciple of the god Ilmater. Upon her return to life, Ilmadia became distraught over her failed dreams to rebuild the Severed Hand, and soon received news that was too much to bear: by some means she was with child. Egenia viewed the pregnancy as a blessing of Ilmater but the truth was far more sinister. Ilmadia gave birth to the two babes, one with a fiendish tail and the other with cloven feet, each sired by the devil Belhifet. Overwhelmed by the trauma she endured, Ilmadia threw herself off a cliff and died for the second and final time.
+
+Appendix
+Notes
+
+Appearances
+Video Games
+ Icewind Dale
+
+Icewind Dale: Trials of the Luremaster • Icewind Dale II • Neverwinter Nights: Doom of Icewind Dale
+References
+
+---
+
+## Ilsevele
+
+Lord Ilsevele was the master of Tower Aerilpe. To Kiril Duskmourn's recollection in, he had shown sympathy to the Keepers of the Cerulean Sign in the past; she thought to inform him that the nilshai had decided to reveal themselves as agents of the Abolethic Sovereignty. His tower was deserted as of that year, with the still rotting bodies of some of the guards around it.
+
+Appendix
+
+Appearances
+Novels
+
+Stardeep
+References
+
+---
+
+## Ilbaerth Malklyn
+
+Ilbaerth Malklyn was the khaldomaun, or ruler, of Yeshpek along the Lake of Steam during the mid-to-late 14 century DR.
+
+Description
+Ilbaerth was a powerful bear-like man.
+
+Activities
+He spent most nights drinking and conversing with travelers to learn current news from the region.
+
+History
+Ilbaerth used to craft canes and crutches.
+
+Appendix
+References
+
+---
+
+## Illythe Haudamar
+
+Illythe Haudamar was a shopkeeper inhabiting Yeshpek along the Lake of Steam during the mid-to-late 14 century DR.
+
+Personality
+Illythe was a shrewd judge of character and could usually spot when someone was being deceptive.
+
+Description
+She was an aging woman as of the mid-to-late 14 century DR but her singing voice was still beautiful. She had a soft spot for young suitors.
+
+Activities
+Illythe owned a festhall called the Dancer's Blushing Mask. Without an heir, and realizing she could not take her earned coin with her to the grave, Illythe invested in many local adventuring companies and businesses. She was beloved by many within Yeshpek who would come to her aid in an instant.
+
+Appendix
+References
+
+---
+
+## Ilder Taramont
+
+Admiral Ilder Taramont was the commander of Nimpeth's navy and the captain of the Wine & Song vessel in the late 14 century DR.
+
+Description
+Ilder was one of three chancellors who advised Lord of Nimpeth – Woren, despite having little skills to be an Admiral or even just a member of the navy. However, he was a quick-witted and subtle man.
+
+History
+Before Lord Woren became the leader of Nimpeth in the 14 century DR, Ilder Taramont made his name via deceit, trickery, and theft. When Woren rose to power, Ilder Taramont weaseled himself into the new Lord's good graces and was assigned the position of Nimpeth's Admiral. By the, Ilder learned the trade and commanded around twenty ships. His own ship was named Wine & Song from which the Admiral sent out navy patrols, ordered slave ships escorts, and managed safe sailing for the trade and transports ships that sailed to and from Nimpeth.
+
+Appendix
+Appearances
+Novels
+The Simbul: Wizard Hunting Season
+
+References
+
+---
+
+## Ilda
+
+Ilda was a scholar and apprentice to the powerful mage Diderius that was forced to linger in undeath for years until at least the late 15 century DR.
+
+Personality
+As a ghost, Ilda was erratic and obviously quite anguished by her "failures" in life. She only became violent against those that attempted to steal from Diderius' ruined manse.
+
+Relationships
+Ilda absolutely revered her master Diderius.
+
+History
+One day during her apprenticeship, Ilda was banished from her master's estate when it was believed that she stole one of his most prized tomes, Transubstantiality across Potentialities. Soon after Diderius' death, Ilda passed away herself. Her spirit returned in ghostly form within his study determined to preserve and protect all that remained of his collection. It still remained there as of the 1480s DR.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+ The Rise of Tiamat
+References
+
+---
+
+## Il-mater's Ground
+
+Il-mater's Ground was a shrine dedicated to Ilmater, the god of suffering, located in the city of Almorel on the Lake of Mists in the Hordelands in the mid-to-late 14 century DR.
+
+Location
+The shrine was located along the Golden Way in the northeast section of Almorel. It sat near the shore of the Lake of Mists.
+
+Appendix
+References
+
+---
+
+## Ildathchance Orlaer
+
+Ildathchance Orlaer was the Magister from  to .
+
+Personality
+Ildathchance was sophisticated and surly.
+
+Powers
+The mantle of the Magister that Ildathchance bore did not protect him from magic missile.
+
+History
+Ildathchance joined the conspiracy against the previous Magister not with plans of destroying him, but only to elude a Magister who planned on killing all his co-conspirators; he created a clone of himself to run his holdings, and then sped off to the slaying. Though he hadn't planned on it, he became Magister, and then returned home to slay his clone.
+
+The experience, however, shook him so much, that he fled his estate. He spent some time in the wilderness, praying to Mystra for guidance; it wasn't until he found a lost child from Shadowdale and employed magic to restore him to both health and home that Mystra replied. She beckoned him to a knoll deep in the forest; there, after their conversation, he swore to serve her dilligently even if it hastened his own destruction. As the Magister, he finally gave magic to over twenty apprentices, and visited some of the Schooled to further their mastery of magic.
+
+Ildathchance was finally slain in an ambush by Baerzlus Anagathiir, who found one of the mage's caches, an abandoned dwarven mine somewhere in the North, and laid down numerous shields, each bearing a spell akin to magic missile, linked them together, and covered them with an illusion. Though Ildathchance bore a brooch of shielding, it was overwhelmed by the volume of missiles, and before he could cast a protective spell, he was crushed by a boulder that Baerzlus dropped from the mouth of the hideout.
+
+Trivia
+The forest knoll where Ildathchance conferred with Mystra was consecrated to her ever since; Dammasae was buried there centuries later.
+
+Appendix
+References
+
+---
+
+## Ilitmur Auglad
+
+Ilitmur Auglad was a survivor of Netheril, who was thousands of years old by, having gone into a wizard's tower to live in. At some point between  and, he began a romance with the Magister Nasana Melnuthquel after she snuck into his wizard's tower. She lived with him for some years, until someone seeking to challenge her for the position of the Magister broke into his tower and slew him. He was at the time so feeble that he had become a thing of magic more than man.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Illian's hunting helm
+
+Illian's hunting helm was an enchanted horned hin helmet created for a hunter named Illian Willowdusk.
+
+Powers
+The helmet was enhanced with a +2 enchantment.
+
+History
+Illian's hunting helm was created sometime before the  as a reward for the famed elven hunter Illian Willowdusk. This ill-fated item was a gift from a group of halflings who were saved by the hunter from an evil Malarite priest and his trained bloodthirsty beast. Since Illian left the hin shire, the enchanted helm served him well until he embarked on a great hunt, chasing a large stag during the elven holiday of Cinnaelos'Cor. As the stag rushed through a thick patch of briars, the hunter rushed after it. Illian's hunting helm got caught on the vegetation, and with a loud snap, the hunter's neck was broken. His body was discovered the following day, still stuck in the shrubbery.
+
+By 1281 DR, Illian's hunting helm had fallen into the hands of the drow trader Nym in the underground stronghold of Dorn's Deep in the mountains of the Spine of the World.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale
+
+References
+
+---
+
+## Illinge Hardraw
+
+Illinge Hardraw was an apprentice to Zunroun Ilber in the early 8 century DR. He killed his master on the Night of Fourteen Magisters, but did not survive him for very long.
+
+Personality
+He was cold-blooded, and calm.
+
+History
+On the Night of Fourteen Magisters of Eleasis 4, he slew his master after the latter became Magister, before he regained consciousness from his spell to bind his own clones to his command. He became Magister, but while he gloated, he was scried on by Belmer of the Six Thunders, who slew him with a spell.
+
+Appendix
+References
+
+---
+
+## Illuse Nantennebra
+
+Illuse Nantennebra, affectionately called Mother or Mother Nantennebra by the locals, was the innkeeper and beloved cook from the small fishing village of Jhaansciim of Tethyr in the late 14 century DR.
+
+History
+Mother Nantennebra ran the only inn in her village of Jhaansciim that stood along the Firedrake Road on the Dragon's Neck Peninsula. The Wallside inn was famed for Illuse's secret family recipe of the Nantennebra spicy fish stew, a murky brown unappealing stew of divine taste. Her cooking was beloved by locals as all mouths in the village were happy to eat Mother Nantennebra's thick oily slop. The fame of the strange stew also brought visitors from afar to taste the rustic dish.
+
+By the late 14 century DR, Mother Nantennebra happily filled pots people brought with them but sternly refused to sell more than a potful of it per client. Many merchants and travelers tried to convince the woman to sell the recipe, sell the stew in bigger batches, or even relocate to a bigger city as she could be making a wealthy living by selling the stew. She refused every single time, happy with her little inn business in Jhaansciim.
+
+Appendix
+References
+
+---
+
+## Ilmater's Cathedral
+
+Ilmater's Cathedral was a small temple in Bezantur, the so-called "City of a Thousand Temples", in Thay. It was dedicated to Ilmater.
+
+Location
+The temple was located in south-central Bezantur. It was situated alongside the Temple of Helm and the Temple of Sharess, and sat opposite the slave market.
+
+Activities
+The Cathedral had only a small number of priests, but they sought to care for Bezantur's slaves and poorest residents. Their teachings were popular with the city's downtrodden folk as they offered hope that their suffering and oppression would some day be made worthwhile.
+
+History
+Ilmater had always been popular among the slaves of Thay, which naturally attracted the ire of the Red Wizards. Prior to the Time of Troubles, the only places for Ilmater's worship in the realm were mobile, and members of his church were often treated as fugitives. As of the late 1360s DR, this small temple had become popular among the poor and enslaved of Bezantur, and naturally the Red Wizards were once again angered and suspicious. They accused the Cathedral of undermining the city's government by smuggling slaves to freedom and by providing free magical healing to the victims of officially sanctioned punishments and torture. However, they were unable to prove any of these allegations.
+
+Appendix
+References
+
+---
+
+## Ilmairen Arnskull
+
+Ilmairen Arnskull was a dwarf warrior who inhabited the city of Waterdeep during the mid-to-late 14 century DR.
+
+Description
+He was a fat dwarf with dark eyes.
+
+Activities
+He lived within the Raging Lion inn located on Lion Street in the northeastern section of Waterdeep's North Ward.
+
+Ilmairen served as a point of contact for dwarves entering Waterdeep. He enjoyed whittling wood and singing.
+
+Appendix
+References
+
+---
+
+## Ilzantil Street
+
+Ilzantil Street was a road that was located in the city of Waterdeep.
+
+Location
+Ilzantil Street was located in the west section of Waterdeep's North Ward. Ilzantil Street originated in the north, branching south from Delzorin Street to eventually end on Tarnath Street. The road ran due south parallel to the High Road to the west. Ilzantil Street also connected with Sulmor Street and Hassantyr's Street.
+
+Notable Locations
+ Lanngolyn Villa
+ Durinbold Villa
+ Amcathra Villa
+ Hunabar Villa
+
+Appendix
+References
+
+---
+
+## Ilvastarr Villa
+
+Ilvastarr Villa was the family estate of the Waterdhavian noble house Ilvastarr.
+
+Location
+The villa was located in the east section of Waterdeep's North Ward. It sat on southeast side of the intersection where Suldown Street met Saerdoun Street. A small portion of the west side of the villa abutted Nindabar Street.
+
+Description
+The walled compound contained five buildings arranged around a central garden. The buildings were two and three storys tall.
+
+Appendix
+References
+
+---
+
+## Ilisar's Alley
+
+Ilisar's Alley was a small back alley that was located in the city of Waterdeep. It was sometimes miscalled as Illimar's Alley, and its old name was Grave Alley.
+
+Location
+Ilisar's Alley was located in the northern section of Waterdeep's Southern Ward. The alley branched south from Telshambra's Street at the border with the Trades Ward, cut west through a neighborhood, then turned north to reconnect with Telshambra's Street.
+
+Notable Locations
+The Stone House, which was the guild headquarters for the Carpenters', Roofers', & Plaisterers' Guild, was located on the eastern side of Ilisar's Alley where it branched from Telshambra's Street.
+
+History
+Prior to the establishment of gates to the City of the Dead by the wizard Anacaster to facilitate travel there, the poorest of Waterdeep's citizens used this alley as a graveyard, hence the original name of Grave Alley. To preserve space, coffins were buried vertically, with one corpse under each flagstone. The practice was eventually abandoned after it led to undead bursting from beneath the street.
+
+The alley was renamed for a Waterdhavian tailor named Ilisar, who became inexplicably wealthy and purchased the whole block. After he died of blacktongue fever, it was rumored that he had hidden or buried his wealth somewhere in one of the buildings on the alley.
+
+Rumors & Legends
+As of the mid-to-late century DR, there were rumors that ghouls, skeletons, wights, and zombies left over from the alley's days as a graveyard would still occasionally emerge to haunt the area.
+
+Appendix
+References
+
+---
+
+## Ilitul Villa
+
+Ilitul Villa was the family estate of the Waterdhavian noble house Ilitul.
+
+Location
+The villa was located in the northwest section of Waterdeep's Sea Ward at the intersection of the Street of Whispers and Ivory Street. The east side of the villa was also located on the Street of the Singing Dolphin.
+
+Description
+Ilitul Villa was a triangular-shaped wall estate that contained a separate building at each corner. The largest building was on the north side of the villa. Each building was two stories tall.
+
+Appendix
+References
+
+---
+
+## Ilzimmer Villa
+
+Ilzimmer Villa was the family estate of the Waterdhavian noble house Ilzimmer.
+
+Location
+The villa was located in the central section of Waterdeep's Sea Ward on the southwest corner where Shark Street intersected the Street of the Singing Dolphin.
+
+Description
+The walled compound contained three separate buildings and a large garden. Each building stood one or two stories tall.
+
+Appendix
+References
+
+---
+
+## Ilbrelm Nasker
+
+Ilbrelm Nasker was a shoemaker of Alaghôn in Turmish in the late 14 century DR.
+
+Personality
+Ilbrelm was stolid and patient, and a hard worker.
+
+Activities
+Ilbrelm's business made shoes, sandals, slippers, and clogs of all sizes in mundane designs. They were produced in great quantities for low prices, but they rarely lasted longer than a season. They were commonly worn by poor folk across Faerûn who lacked the coin for better, longer-lasting footware.
+
+Similarly, Ilbrelm hired the poor, orphans, outcasts, and disabled and deformed people in need from around Turmish. While the work was hard, he provided shelter, warmth, food, and the support of a big family of fellow employees.
+
+His company was a supplier of the Sembian trader Melvos Hammerstars.
+
+Appendix
+References
+
+---
+
+## Ilzabet
+
+Ilzabet was an erinyes that served Mahadi of the Wandering Emporium in Baator circa the late 15 century DR.
+
+History
+The rakshasa master of the Wandering Emporium could be found on the Avernus in the, following the city of Elturel being plunged into the Nine Hells. Ilzabet had already been bound to Mahadi by an infernal contract at the time. She was ready to be summoned by her master if a need arose.
+
+Appendix
+Appearances
+Adventures
+Baldur's Gate: Descent into Avernus
+
+References
+
+---
+
+## Illowarr
+
+Illowarr was a ranger of Turmish in the late 13 century DR.
+
+History
+Illowarr met a dryad near a stand of shadowtop trees circa 1270 DR and became infatuated with her. For the rest of his days, he lived here amongst the trees. The village of Illowwood grew up on the site.
+
+Abilities
+Illowarr acquired the powers to travel through trees, as with the pass plant spell, and create a tree door, as often as he needed. These were possibly granted by his dryad lover.
+
+Appendix
+References
+
+---
+
+## Illowwood
+
+Illowwood was a forest-village in Turmish in the late 14 century DR.
+
+Geography
+It lay in central Turmish, along a curving road between Dauntshield and Peldrathan's Pool and east of the Faraway forest. With it lying so deep in Turmish's countryside, few outsiders to the realm ever found their way here.
+
+A lush dense stand of shadowtops lay just to the west, and gave Illowwood half of its name. A tiny pond lay deep in the woods, called Illow Pool.
+
+Inhabitants
+Dryads had long been great in number around this woodland.
+
+History
+The ranger Illowarr met a dryad in this place circa 1270 DR and became infatuated with her. For the rest of his days, he lived here amongst the trees, giving Illowwood the other half of its name. The village grew up on the site.
+
+Rumors & Legends
+According to a local legend, the dryads protected a magnificent treasure, specifically several cart-loads of moonstones supposed once sunk in Illow Pool in times past. There was some truth to this: searches of the pond produced a number of empty carts and a handful of moonstones, as well as a piece of stone, the size of one's hand, inscribed with a rune. This was identified to be a ward token that would lift a magical ward and permit entrance to some hidden or barred place, probably elsewhere in the woods. The remaining moonstones were of course thought to be stored within.
+
+Local halflings and gnomes told the story that there was a hidden citadel of an elf archmage that could be entered via a gate somewhere in the area. This gate would only activate for those who held the correct token or uttered the correct words. This archmage, it was said, had escaped enemies in Halruaa and was still keeping them away, and was served in his citadel by either halflings (according to the halflings) or gnomes (according to the gnomes).
+
+Elves did say the area was once home to an elf-lord and their hall and household, with the entrance to it hidden somewhere in the area. However, their accounts differed on whether these elves had died, had been placed in magical stasis, or simply cut off all contact with the outside world.
+
+It's just possible these findings and tales were connected somehow, but the truth was yet to confirmed. It didn't help that, through the 1360s DR, a number of adventuring companies exploring the area went missing, and only one was found, with their decapitated bodies stacked neatly on the road near Illow Pool. This put a slight dampener on enthusiasm to go exploring around Illowwood.
+
+Appendix
+References
+
+---
+
+## Ildor Marcownt
+
+Ildor Marcownt was a priest of the church of Oghma, called a Namer, based on the island of Tharsult in the Shining Sea in the late 15 century DR. By around 1480 DR, Ildor had gained great prosperity from work in an arts or entertainment industry.
+
+Appendix
+References
+
+---
+
+## Ilidue Jahnessper
+
+Ilidue Jahnessper was a priest of the church of Oghma, called a Namer, based in Silverymoon in the Silver Marches in the late 15 century DR. By around 1480 DR, with her sister Narlylle, Ilidue had gained great prosperity from work in an arts or entertainment industry.
+
+Appendix
+References
+
+---
+
+## Ilund Marhymbel
+
+Ilund Marhymbel and his brother Vromur Marhymbel ran the well-reputed Marhymbel House Shipways shipwright business out of Sarshel in Impiltur, in the 1490s DR.
+
+History
+By the late 15 century DR, Ilund and Vromur were second-generation shipbuilders. They produced reinforced and rugged top-quality naval vessels in reasonably fast timeframes, earning the reputation of being some of the best shipwrights of the Sea of Fallen Stars.
+
+Appendix
+References
+
+---
+
+## Ilighast Chamnabbar
+
+Ilighast Chamnabbar was an Illuskan sage and wizard inhabiting Waterdeep during the mid-to-late 14 century DR.
+
+Personality
+He was a short man with a bitter attitude.
+
+Activities
+Ilighast was well-studied with regards to magic in general, the planes of existence—specifically the Astral, Ethereal, and Elemental planes—and the history of demihumans along the Sword Coast and northwest Faerûn.
+
+He was a member of the Watchful Order of Magists and Protectors. When he wasn't conducting research within the Font of Knowledge, Ilighast spent much of his time at the Tower of the Order hoping to glean some useful information.
+
+Appendix
+References
+
+---
+
+## Ilistar Maeringuld
+
+Ilistar Maeringuld was a Tethyrian wizard inhabiting Cormyr during the mid-to-late 14 century DR.
+
+Activities
+Ilistar actually masqueraded as Jhanthra Rowanmantle while living in the Forest Kingdom.
+
+History
+She was a student of magic who graduated from Blackstaff Tower in Waterdeep.
+
+Appendix
+References
+
+FR:Ilistar Maeringuld
+
+---
+
+## Ilbrul
+
+Ilbrul, also known as Ilbrul the Ramshorn, was a mage who challenged the Simbul prior to . She won, and Ilbrul perished.
+
+Legends & Rumors
+In, Elminster Aumar judged that the Simbul's slaying of mages, whether from Thay or not, had become excessive, and the feats of her power were tilting the balance of power around Aglarond. Amongst other mages slain, he counted Ilbrul the Ramshorn, who claimed to hail from Netheril, as he recalled.
+
+Appendix
+Notes
+
+Appearances
+Novels
+
+Elminster in Hell
+References
+
+---
+
+## Ilimar Chantreth
+
+Ilimar Chantreth was a tanner inhabiting Waterdeep, City of Splendors, during the mid-to-late 14 century DR.
+
+Activities
+Ilimar was the spokesman for the League of Skinners & Tanners circa the . He worked out of the League Hall—the guild headquarters located on the Tower Trail in the Dock Ward.
+
+Appendix
+References
+
+---
+
+## Illithiderro
+
+Illithiderro were hybrid ceremorphs that resulted from the cross-breeding of derro and mind flayers.
+
+Ecology
+However they reproduced, illithiderro were a highly prolific race of ceremorphs.
+
+History
+The illithiderro were the result of a bizarre illithid breeding experiment performed in the lower levels of the city of Gauntlgrym. In just ten years the madminds outnumbered the mind flayers and, craving freedom, rebelled and slaughtered their former masters before claiming their territory.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Iltmul
+
+Iltmul was an inhabitant of the Citadel of the Mists during the mid-to-late 14 century DR.
+Possessions
+Iltmul carried a ward token that allowed him to avoid the wardmist spell that protected the Citadel of the Mists.
+Activities
+Iltmul was a high-ranking member of the Everwatch Knights.
+History
+Iltmul defeated Hlam who had tried and failed to take his title of 'White Master of Dragons'. Iltmul was later defeated by Dumal Erard in the Citadel of Mists, who took his title. Iltmul subsequently became the Green Master of Dragons.
+Appendix
+References
+
+---
+
+## Illithium
+
+Illithium was a rare and expensive ore and a type of alloy sometimes available for purchase from the markets of Athkatla in Amn.
+
+Description
+Illithium ore was renowned for its luster and the unique property of never becoming soiled. In its pure form, illithium was exceedingly rare and next to impossible to find in huge quantities. In some usages, illithium was made into an alloy.
+
+Usages
+Illithium could be used to improve a mace of disruption, strengthening its magics and making it more deadly to the undead. In the late 14 century DR, such work was performed by Cromwell, a blacksmith from Athkatla in Amn.
+
+History
+In the, the famed Athkatlan sculptor Sir Sarles of the Jysstev Estate sought  of pure illithium ore to work on a piece commissioned by the Church of Helm. The only ore merchant in Athkatla at the time who occasionally had access to the elusive material was Jerlia, who ran her business from the Waukeen's Promenade. Despite Sir Sarles's demands, Jerlia could only get her hands on up to  of illithium ore per season. She also revealed that her source of the substance was a duergar merchant, Unger Hilldark, operating out of the Copper Coronet. Coincidentally, a serial killer named Neb stole a huge shipment of illithium from the duergar trader around the same time.
+
+It is unknown if Sir Sarles was able to finish his commission. There were several possible outcomes of the events. Sarles may have been presented with a significantly less valuable illithium alloy instead, allowing him to finish the commission without realizing the metal's true nature, unless the fake illithium angered the sculptor and made him leave Athkatla in fury. Alternatively, true illithium could've been retrieved from Neb and used to sculpt the Church of Helm's commission.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate II: Shadows of Amn
+
+References
+
+---
+
+## Ilgostrogue Sstar
+
+Clanmaster Ilgostrogue Sstar was a dwarf leader and revolutionary who left Citadel Adbar in order to claim Mirabar and beyond.
+
+Personality
+Sstar was said to be mad and never settled for anything.
+
+Relationships
+Ilgostrogue had tens of thousands of followers, including his son and successor, Beerkanstrouge.
+
+History
+First Expedition
+Ilgostrogue Sstar was originally from Citadel Adbar. More than a thousand years prior to 1358 DR, Sstar led almost a quarter of the Northkingdom's population, 35,000 dwarves, on an expedition to Mirabar in search of riches. However, they faced daily attacks from orcs while crossing the mountains north of Sundabar, and by the time they reached Mirabar, their ranks had been decimated. A large number of dwarves became disenchanted with the terrible conditions on the northern road and chose to settle down in the safety of the city.
+
+Final Expedition
+Ilgostrogue became fixated on his goal to establish a great dwarven empire after his initial expedition. He then led the remaining loyal soldiers of his army towards the end of the Spine of the World, ultimately crossing into Icewind Dale. Not long later, the leader perished.
+
+Legacy
+Beerkanstrogue, Ilgostrogue's son, continued to honor his father's vision and convinced the remaining dwarves to found Ironmaster in a rocky dell close to where Ilgostrogue first looked out over the sea.
+
+Appendix
+References
+
+---
+
+## Ilusproster
+
+The Ilusproster family was one of the wealthiest families in Suldolphor in far eastern Calimshan during the mid-to-late 14 century DR.
+
+Base of Operations
+The Ilusproster estate lay along the affluent Emerald Dragon Way in the heart of the Golden City.
+
+Activities
+The Ilusprosters were the second-wealthiest family in Suldolphor, giving them considerable influence within the city.
+
+Appendix
+References
+
+---
+
+## Ilyn Toth
+
+Ilyn Toth was a Red Wizard of Thay who infiltrated the village of Moonhaven during the late 14 century DR. He posed as the local healer, using a pseudonym to mask the more malign activities he conducted within his lair.
+
+{{Quote|Reanimation seems easy, but restoring life? That prize eludes me. The tome contains the magic I need, but it fights me at every step.|Excerpt from Ilyn Toth's journal.}}
+
+Description
+Normally, Ilyn wore the namesake red robes of Thay's Red Wizards, and adorned his head with prominent tattoos that proudly declared his status within his home nation. He was forced to hide both of those however during his time in the Western Heartlands.
+
+Personality
+He was a dark and twisted individual who paid no tribute to any gods. He also appeared to have a distinct dislike of the regent of Thay, Szass Tam.
+
+Activities
+
+By all outward appearances, Ilyn Toth was a healer who conducted his work out of the Moonhaven apothecary shop. He helped local townspeople with their maladies and offered all manner of herbs, unguents, and potions for the aid of others. In truth, the Red Wizard conducted macabre experiments at night―all related to the resurrection and undeath―within an underground laboratory.
+
+It appeared that Ilyn's experiments revolved around raising back from the dead a single woman, though he remained entirely unsuccessful. While he could easily reanimate the body of the deceased woman, restoring her back to life proved elusive.
+
+Possessions
+Hidden away in his lair, locked behind secret and magical barriers, Ilyn kept the powerful tome The Necromancy of Thay. He tried repeatedly to uncover the book's secrets to aid his research, but proved incapable of learning all it had to offer. Toth also kept a copy of The Collectanea Rubrum, along with his personal journal, and a log of any and all travelers that passed through or visited Moonhaven.
+
+The Red Wizard kept a collection of magical scrolls, along with a circlet of fire'' in an elaborate chest within his underground study.
+
+Relationships
+Ilyn Toth had an apprentice that worked for him, along with a quasit familiar named Shovel, who referred to him as "Illy". His lair was protected by a number of lesser, undead guardians, which were in fact former residents of Moonhaven.
+
+History
+Some time during or before the, Ilyn fled his homeland for West Faerûn, in such a manner that elicited the wrath of Thay's Council of Zulkirs. He believed that if he ever returned home he would immediately be put to death.
+
+Ilyn traveled across the breadth of Faerûn to the tiny village of Moonhaven, where he could formulate the correct combination of spells to resurrect the woman he so desired to bring back to life. While masquerading as the village healer he committed many terrible deeds. He killed many of the patients brought into his apothecary, buried them deep underground within his lair, and used their remains as part of his necromantic research.
+
+According to a journal left by his apprentice, Ilyn was eventually killed when Dark Justiciars under Ketheric Thorm destroyed Moonhaven. The apprentice had planned to retrieve the necromantic tome Ilyn had stolen to return with it back to his homeland of Thay and prove his loyalty, but perished in the tunnels where the keygem to the tome had been hidden.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Illithid mucus
+
+Illithid mucous was just that, a mucous that was naturally secreted by illithids by glands located below the dermis layer of their skin.
+
+Properties
+This variety of mucous gave off a faint odor similar to onions, garlic, or even vanilla, although the smell was imperceptible from afar.
+
+The most noteworthy feature of illithid mucous was its faint active psionic properties. Some sages theorized this mucous enhanced the innate psionic abilities of illithids, reduced the mental strain of psychoportation, and provided them their magic resistance. It was further conjectured that, if true, this meant loss of mucous would cause an illithid's psionic powers and magic resistances to dampen.
+
+Besides its psionic properties, illithid mucous was notably one of the few materials resistant to the corrosive enzyme produced by illithid tentacles.
+
+Usages
+ Non-illithid beings were mostly unaware of the psionic properties of illithid mucous, though some human mages were said to have developed formulas for potions of ESP that used it as an ingredient.
+ Coating a weapon in illithid mucous could imbue it with offensive psionic energy.
+ Illithids researched various methods by which they could use excess mucous to create psionic items, in part by means of the discipline known as imprint psionic circuitry.
+ Illithids used their mucous in conjunction with a type of fungus found in the Underdark to create Nyraala golems.
+ An oil of magic resistance could be derived from illithid mucous.
+
+History
+In the late 15 century DR, a group of adventurers traveling in and around Neverwinter found vials of illithid mucous within the Tarmalune Trade House and later harvested some themselves while adventuring in the vaults of Gauntlgrym.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Illusion stick
+
+Illusion sticks were magic rods, simple in appearance, charged with illusion magics.
+
+Powers
+An illusion stick possessed twenty charges and could disperse two spells on command: the ethereal jaunt spell consumed three charges per casting, and mirror image – a single charge.
+
+History
+In the years that followed the Shadow War, after the, illusion sticks were sold at the Thayan enclave in Neverwinter's Tyr's Eye plaza, by a well-trained Thayan gnoll..
+
+Appendix
+Appearances
+Video Games
+''Neverwinter Nights 2: Storm of Zehir
+
+References
+
+---
+
+## Ilsa Wisemantle
+
+Ilsa Wisemantle was a noble from Neverwinter who had an interest in the safety of Phandalin as of the late 15 century DR.
+
+Personality
+Ilsa was brave and kind. She sought to help those who needed it, even evil creatures, and would throw herself in harm's way to protect others despite the fact that was not a warrior.
+
+She had some knowledge about medical care.
+
+Activities
+While investigating goings-on around Phandalin, Ilsa took up residence in a sparsely furnished cave at the base of the Sword Mountains which had once been home to a group of yuan-ti who had been driven out by an unknown entity and subsequently captured some of the people of Phandalin to transform into fellow monsters.
+
+Relationships
+Ilsa was a friend of Sildar Hallwinter, and became a trusted ally of the Town Council of Phandalin.
+
+History
+Following Volothamp Geddarm's publication of Volo's Guide to Monsters, in which he highlighted the town of Phandalin, Ilsa began to take an interest in the town. She arrived in the town shortly after to investigate a spate of troubles plaguing the town, including monster attacks, strange magics, and virulent madness. Unknown to her, many of these were caused by the machinations of the beholder Gavmogon.
+
+She first took up residence in a cave that had been used by yuan-ti who had briefly terrorized the region. There, she soon befriended a sick mind flayer named Cerali, who was driven from its colony aboard a downed nautiloid in the Sword Mountains after its elder brain was driven mad. She nursed the mind flayer back to health until Sildar Hallwinter was able to send a group of adventurers to help remove the threat to the region posed by the elder brain. She then returned to Phandalin to continue her investigations.
+
+She subsequently heard rumors of an explorer named Aladair, who was likewise investigating the threats to Phandalin. She learned that Aladair believed that the chaos and madness in the region was being caused by a beholder (Gavmogon) lairing beneath a temple near Wave Echo Cave, and subsequently came to agree with this assessment after Aladair disappeared into said lair. She took her information to the Town Council of Phandalin, and helped a group of adventurers find the lair.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ilya Shkipin
+
+Ilya Shkipin is a California-based freelance artist who has worked as an illustrator on several Dungeons & Dragons 5th edition products since the line's inception. In 2023, he was involved in a controversy over the use of Artificial Intelligence in art that he submitted to Wizards of the Coast.
+
+Education
+Shkipin holds a Bachelor of Arts degree in illustration from the Academy of Art in San Francisco.
+
+Controversy
+In August 2023 news broke that some users who had pre-ordered Bigby Presents: Glory of the Giants on the D&D Beyond service had noticed irregularities in the artwork from the book that was attributed to Shkipin. They speculated online that the art could have been created using Artificial Intelligence.
+
+It was soon discovered that Shkipin had previously given an interview in December 2022 to AI Art Weekly about how he used AI in his work, and later spoke on Twitter, confirming that although he had, in fact, used some AI processes in the art he'd submitted for Glory of the Giants, the art was not fully AI-generated.
+
+This prompted a response from Wizards of the Coast, who moved to update their Artist Guidelines to reflect their opposition to the use of AI in the art submitted for their publications. Shkipin stated that he would rework the art in Glory of the Giants.
+
+Works
+Shkipin has worked on numerous sourcebooks for the 5th edition of Dungeons & Dragons.
+Baldur's Gate: Descent into Avernus
+Bigby Presents: Glory of the Giants
+Dungeon Master's Guide 5th edition
+Monster Manual 5th edition
+Mordenkainen's Tome of Foes
+The Wild Beyond the Witchlight
+
+Appendix
+
+Gallery
+
+External Links
+ Homepage
+
+---
+
+## Ilquog
+
+Ilquog was an Iyachtu Xvim-worshiping barghest guard and a member of the Legion of the Chimera in the early 14 century DR.
+
+History
+In the, the town of Targos in Icewind Dale became besieged by the Legion of the Chimera. One of the Legion's surprise attacks involved teleporting goblins from underground tunnels into the Targos docks. The next attack came as a direct assault on the town's palisades. Lord Ulbrec Dinnesmore of Targos ordered a group of mercenaries from Luskan to follow two of his scouts, Ennelia and Braston, southeast to the goblin fortress. Vunarg and his tribe resided in the recently erected fort in the frigid Icewind Dale tundra.
+
+In the cavers underneath the Legion's fortress, Ilquog stood guard of the barghest camp. The creature allowed anyone who knew the simple password "Xvim" through the barghest territory.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale II
+
+References
+
+---
+
+## Ilibrin
+
+Ilibrin was a spellcrafter from Impiltur prior to the 14 century DR.
+
+Legacy
+One of Ilibrin's spells of farscrying was known to Korthauvar Hammantle in .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Illithid Empire
+
+The Illithid EmpireThe article refers to the multiverse-spanning empire of the Illithids, not Nihilath, a singular illithid empire found somewhere in the Underdark. was the multiversal empire that spanned many planes of existence, long before the history of the multiverse was recorded.
+
+{{Quote|Past all knowledge of present worlds, before the crowning of Ra, when the Outer Planes were yet in flux, and while the elemental planes remained untarnished by counter-contamination, the illithids held an ancient empire.|Excerpt from The Planetreader's Primer.}}
+
+Organization
+At its height, the illithid race held control over vast swathes of the astral and ethereal planes, countless planets on the Prime Material plane, and even the furthest edges of the Outer Planes.
+
+Activities
+
+To continue their ongoing conquest, illithids harnessed the power of the stars themselves. They partitioned entire planes of existence to house the peoples they enslaved, who served as mere pack animals or fodder for their expansive war. One such race that was subjugated by the illithids was the gith. It was these people who would come to bring about the end of the great illithid empire.
+
+As they conquered world after world, the imperial illithids exterminated an untold number of humanoid races.
+
+Tactics
+To travel from world to world, the illithids employed unique magic to create spelljamming vessels, known as nautiloids.
+
+Base of Operations
+The great Illithid Empire originated from the artificially-created world of Penumbra. The colossal, artificial world was larger than the orbit of many planets, created out of substare in the shape of a perfectly flat disc. Within the center of Penumbra was a singular gaping hole, within which rested a star.
+
+History
+
+It was believed that the illithid race was so ancient, that it predated all of recorded history. According to one myth they originated on a world that was shrouded in "eternal night", that was destroyed in some calamitous event. The illithid were said to have overthrown the repression of their own creator race, then fled their doomed planet in space-faring vessels.
+
+The Illithid Empire rose up before the existence of many peoples across the multiverse, and their power soon became all but absolute. The threat of the empire against all existence was so profound, that even the archdevils of the Nine Hells at one point temporarily ceased their campaigns in the Blood War in order to act upon the emerging threat.
+
+War of Rebellion
+The Illithid Empire faced several slave revolts throughout its existence, and nearly all were put down by the mind flayer's―as they were more commonly known―potent psionic powers. Over time, illithid slaves began to develop minor resistances to psionics, and those clever enough to hide the protection they possessed even came to develop their own latent abilities of the mind.
+
+A single leader named Gith rallied forth her people―a group that would come to bear her name―approximately 2000 years before the Faerûnian Era of Upheaval, and together they overthrew their inter-planar oppressors. Other heroes rose to prominence in the great rebellion, such as Vlaakith I, who urged Gith to unite allies from across the planes and bargain with the goddess Tiamat, and Gith's own son Orpheus, the fallen Prince of the Comet. The individual known as Zerthimon became a prophet to his own people, and spread the knowledge of how to effectively combat the illithids to others.
+
+Penumbra itself even fell to the thralls of the illithids. The myriad slave races overthrew their oppressors and threw the world itself into chaos.
+
+Alternate Theory of the War's Origins
+There remained one outstanding and contradictory theory about the Illithid Empire, at least which was overthrown by the great gith rebellion. It was believed by some that it was not founded by illithids that overthrew their progenitors, but had arrived from some unknowable future. The entire illithid race faced extinction in the farthest reaches of future―the literal end of time. The most ancient elder brains sacrificed themselves to create a colossal psionic storm that allowed some of their kind to be hurled backwards in time. This accounting of the Illithid Empire was recorded in the Sargonne Prophecies.
+
+Ironically, it was speculated that the progenitors of the gith race were brought to the time preceding the great rebellion, by those illithids from the future that were fleeing their inevitable doom.
+
+Downfall & Aftermath
+
+Regardless of the illithids' origins,  Gith and her people earned their initial victory in earnest. Word of their victory spread, and world after world that remained under illithid control liberated themselves from their imperial overlords.  A dwarf by the name of Laduguer of clan duergar struck a deal with Archdevil Asmodeus for the power needed to overthrow the illithid's on his home world. The illithid race was slaughtered en masse across the cosmos.
+
+While their once-mighty empire was toppled, few surviving illithids remained after the great rebellion. Their race was forced to live in small, isolated communities, led by singular elder brains that were forced to enslave small scores of lesser beings to merely survive. Some managed to hide themselves away in deep, underground fortresses where few interlopers dared to tread. One crew aboard an illithid planetismal managed to cross through several crystal spheres before landed in a massive crater upon some unknown world.
+
+Remaining illithids were hunted down like animals by the githyanki rrakkmas, one of the two divergent races of the original gith people.
+
+Return
+
+The illithid remained as they ever were, an exceptionally patient and calculating race. Over the course of the following millenia, isolated elder brains formulated plots to return to existence the once-great Illithid Empire. This philosophy among the illithid people was known as the Grand Design. Unfortunately for the remaining elder brains, the knowledge of how their first empire arose―along with the specifications to build new nautiloids―had been lost to the ages.
+
+Individual efforts to carry out the Grand Design were repeatedly ended, often by the ever-vigilant githyanki who swore vengeance upon their long-ago oppressors. It was theorized by some however, that even the subterranean illithids of the impossible future―who dwelled on cold, husk planets nourished only by near-spent stars―would form their empire once again. It was said they would consume all hope from existence in their unimaginable cruelty.
+
+On the Overmind
+In the city of Stormport on some unknown world, an ulitharid called Shuluth schemed to darken the star around which the planet rotated. It would assimilate the surface population in preparation for the coming of the "True Masters".
+
+The True Masters appeared to reference an Elder Concord―a conclave of illithids from across the multiverse―that gathered shortly thereafter to discuss the discovery of gaps in the ethereal plane. The concord managed to construct a circular ring around one of these 'ether gaps', a device known as the "Overmind". The illithids hoped to utilize complex psionic machinery―known as the Engine Consummate―within the Overmind to siphon energy from hundreds of stars, to turn the adjoining ether gap inside-out, and replace their current reality with one in which their empire still reigned supreme.
+
+On Toril
+
+One elder brain on the planet of Toril came ever-closer to achieving the Grand Design by manipulating three servants of local deities to do its bidding. It utilized a specialized form of latent ceremorphosis, which remained undetectable to traditional means, to infect many in the late 15 century of the regional calendar. If successful, the infected would transform into mind flayers at the elder brain's command, and rapidly overwhelm the entire continent.
+
+A rogue illithid known only as the Emperor captured several individuals aboard a unique nautiloid, and infected with the same mind flayer tadpoles that inflicted latent ceremorphosis. He however also protected them with a mysterious artifact'' of gith origin, that prevented them from falling under the control of the elder brain and its three servants.
+
+Legacy
+The rise and fall of the Illithid Empire had consequences that spanned the breadth of the universe, some of which would not likely have been expected. It was the technology found within illithid nautiloids for example, that inspired the invention of githyanki astral ships and other vessels capable of navigating wildspace.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Ilyndele
+
+Ilyndele was a powerful member of the Arcane and one of three persons responsible for creating the World Serpent Inn, according to the wizard Elminster.
+
+Relationships
+Very little is known about Ilyndele except that the wildspace merchant was friends with an archmage from Toril named Alaurum. The two, together with the illithid High One Sharth, are said to have "crafted" the inter-planar inn.
+
+History
+Hundreds of years before the late 14 century DR, Alaurum, Ilyndele, and Sharth built the inn itself. The demiplane within which the inn resided—and the plane's many portals—had already existed, supposed by some cosmologists to be a dreamscape resulting from a sleeping fragment of the World Serpent.
+
+Appendix
+References
+
+---
+
+## Iliskar Northwind
+
+Illiskar Northwind was someone in Marsember in the late 14 century DR.
+
+Rumors & Legends
+The Harper Roldro Tattershar threatened the steward of Haelithtorntowers manor in Marsember, Elward with revealing to the Watch the fate of Illiskar Northwind last month in, while trying to gain access to Joysil Ambrur, lady of the manor. In doing so, he strongly implied Elward had been involved in an untoward act.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Illume
+
+Illume was one of the six daughters of Elhazir of Arabel and worked as a clerk in her father's shop in 1368 DR.
+
+Like the rest of her sisters, Illume was modest yet gracefully attired. She was skilled at recognizing would-be thieves. She was one of three of the sisters whom Volothamp Geddarm knew by name, the other two being Chantra and Myrele.
+
+Appendix
+References
+
+---
+
+## Ildacer Dynasty
+
+Ildacer was the sea elven royal family of Selu'Maraar in Serôs.
+
+Family Tree
+
+Appendix
+
+References
+
+---
+
+## Ilvellund Nordroun
+
+Ilvellund Nordroun was a head of the Highknights in Cormyr during the late 15 century DR.
+
+Personality
+He had little patience in the field, and was mindful of the chain of command.
+
+Activities
+He was commander of the Highknights of Cormyr, and he was well-regarded. He had also trained some highknights.
+
+Relationships
+He had been the one to train Merlar.
+
+During the raid where he died, Ilvellund Nordroun was part of a team that included Merlar, Eskrel Starbridge, and Therlon. Kelgantor was the leader of the full squad.
+
+History
+Ilvellund Nordroun was tapped for the raid on Tethgard in Mirtul 5 of, after the fugitive wizard Elminster Aumar, who had stolen the Royal Gorget of Battle was finally tracked there. He was at loggerheads with Shuldroon, a war wizard who tried to give the orders in the squad, eventually outright refusing an order from the latter when he told him to bind the Simbul, a sorceress and previous queen of Aglarond, when they found her with Elminster.
+
+Once the combat began, he continued to countermand Shuldroon's orders, even as casualties increased. After the raid, Eskrel Starbridge became the head of all highknights, clearly signaling that Ilvellund had not been among the survivors.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Illithid graft
+
+Illithid grafts referred to special flesh and body parts that were grafted onto a living creature by illithids (mind flayers).
+
+Description
+These grafts came in two kinds: illithid flesh that was melded onto other creatures, and other various body parts grafted onto creatures to increase their usefulness. Grafts were most often given to the illithids' slaves and thralls to make them more dangerous in combat or more useful as laborers. Having illithid flesh melded to their bodies also tended to weaken their free will. Horribly transformed thralls were a common sight in illithid settlements.
+
+Illithid grafts were neither magical nor psionic. If removed from a creature, they could not be reused.
+
+Creation
+Attaching illithid parts to another creature required familiarity with medicine and specialized knowledge of how to graft flesh. Only illithids were able to learn these secrets in full, and many illithids were known to have mastered a wide range of grafting techniques. The illithids of Faerûn's Underdark were known to treat the macabre practice of grafting as an artform.
+
+Illithid grafting techniques were not related to ceremorphosis.
+
+History
+Some scholars believed that the illithids were the very first to develop techniques for grafting flesh to another creature, although others argued that they had more likely learned the secrets from a fiend of corruption.
+
+In the mid-to-late 14 century DR, the Black Spear tribe of kobolds had struck a pact with the illithids of Ch'Chitl that included "gifts" of illithid grafts. By, the kobolds served as scouts in the environs around Waterdeep, and their grafts were inching them closer and closer toward becoming thralls.
+
+Notable Illithid Grafts
+Arms
+Burrowing claw Both of the thrall's hands were replaced with iron-hard claws used for digging.
+Extracting tentacle An arm or forelimb was replaced with a long, flexible tentacle able to pierce flesh and extract brains.
+Grabbing tentacle An arm or forelimb was replaced with a long, flexible tentacle covered in suckers that could be used to grab enemies.
+Raking tentacle An arm or forelimb was replaced with a long, flexible tentacle tipped with a sharp point of bone.
+Rending claw The thrall's entire arm was replaced with an oversized, muscled limb with razor-sharp claws.
+Weapon graft A weapon was grafted directly into the hand of a thrall.
+
+Head
+Brainmate A  piece of gray matter grown by an elder brain that was implanted at the base of a thrall's skull or neck. This graft granted limited access to the elder brain's knowledge, and was the rare instance of a graft than an illithid might give itself.
+Antennae graft A pair of tall antennae along with hundreds of short hairs were grafted to the thrall to grant it tremorsense.
+Darksight eyes Pupilless mind flayer eyes granted darkvision. These were reserved for favored thralls.
+Goring horn The thrall's entire facial structure was lengthened to accommodate a sharp horn, giving them a bestial appearance.
+Grasping mandibles The thrall's jaw and facial muscles were enlarged to accommodate a pair of umber hulk-style mandibles.
+Mind blast relay A graft located deep in the thrall's brain that allowed illithids to detect their presence and to use them as the origin for their mind blast ability. The graft also conferred immunity to the effects of mind blasts.
+
+Other
+Climbing legs Legs with sticky feet extended to the thrall's front, allowing it to climb walls.
+Hauling back The thrall was transformed into a quadrupedal beast of burden with an oversized spine and back muscles.
+Humanoid skin A thrall's skin was painfully removed and replaced with the flesh and features of another species of a similar build.
+
+Appendix
+See Also
+ Cerebral symbiont
+References
+
+---
+
+## Illag's Abominable Beacon
+
+Illag's Abominable Beacon was a magical lantern.
+
+Description
+Illag's Abominable Beacon was a creation of malevolent intent. It was a -tall, -wide cylinder, equipped with a single set of shutters, and was constructed from the blackest iron. Its appearance suggested partial melting, which was an intentional design feature. Atop the cylinder rested a large skull, with two black onyx gems set in the eye sockets. The handle, protruding through the top of the skull, was fashioned from human bone. The entire lantern weighs approximately .
+
+Abilities
+If any creature of good or neutral alignment touched the lantern, they suffered damage. Should an evil creature grasp Illag's Abominable Beacon, there was a chance it could result in possession, causing the creature to be unable to release the lantern and to defend it with their life. This possession was permanent and could only be removed by a limited wish or wish spell.
+
+Illag's Abominable Beacon possessed two enchantments. The first allowed it to create a cone of darkness,  long and  wide at its broadest point, lasting as long as the bearer maintained concentration. In other respects, this darkness functioned identically to the spell, darkness, 15' radius.
+
+The second enchantment bestowed the lantern with its name. Upon mental command, it acted as a beacon to any undead in the vicinity. When this power was activated, the onyx gems in the eye sockets of the skull emitted a pulsing black light. All undead within  were summoned by the pulses. These undead were controlled by the lantern holder. Undead that were not controlled attacked the lantern holder. This summoning did not work if the lantern holder was in an area inaccessible to the undead.
+
+History
+Illag's Abominable Beacon was the creation of the Void Mage, Illag, with the assistance of the priests of Bane. Illag sold it to the temple in Thay in exchange for divine aid. The lantern remained in the temple until it was stolen by a young Zhentarim priest named Zanepar and taken to Zhentil Keep. Zanepar employed this malevolent item frequently in his brotherhood's battles for control of the Moonsea region. However, when ordered to surrender the lantern to his superiors, Zanepar fled with it into the Thunder Peaks.
+
+The lantern was not seen again until it was used by an orc shaman during a raid. Numerous agents from Zhentil Keep have ventured into the mountains in search of the artifact, hoping to retrieve it, but none have succeeded. The lair of the orcs was rumored to be located somewhere northeast of the Spiderhaunt Woods, but no one has been able to find its entrance.
+Appendix
+References
+
+---
+
+## Iliymbrim Sharnult
+
+Illiymbrim Sharnult was a mage at some point before the 8 century DR.
+
+History
+In the, the sage Beldrune, working at the Moonshorn Tower, opined about a certain Olbert's triple-delayed blast fireball spell. Beldrune noted that Olbert had created that spell by combining the work of Illiymbrim Sharnult, Lhabbartan, and a third person whose name he could not recall at the moment. This strongly implied that Illiymbrim Sharnult predated Olbert.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ilbryn Starym
+
+Ilbryn Starym was an elf wizard of the Starym family during the mid–8 century DR.
+
+Personality
+Ilbryn Starym had, since the Fall of Myth Drannor, grown obsessed with the elimination of Elminster Aumar.
+
+Description
+Ilbryn was slim and looked young and haughty. His face was said to be "cut from cold marble". He wore a cloak of a dark color.
+
+By, he had taken to wearing dark robes. He wore maroon robes in, and was handsome still. However, half his face was a mass of scars, which was hidden by a spell. The scarring stretched to his armpit and all the way to his knee.
+
+Abilities
+He could ride a very fast ghostly horse, which was possibly the phantom steed spell. Ilbryn Starym could peek from within trees at times, likely with another spell. He employed at least one shielding spell. Another spell of his allowed him to conceal his facial features.
+
+He suffered extensive bodily trauma in Galadorna during, which led to the loss of a leg and its replacement with a metal prosthetic, as well as chronic pain issues. The elf could employ spells without properly mastering them, including one spell he employed to keep himself alive after suffering tremendous internal damage. However, that spell would be ruined if he attempted to restore himself to wholeness. Another spell of his made his horse stay still.
+
+One of his spells created a field of nigh-impenetrable darkness over an area, another one burst to attack more than one target, and one caused flesh to melt, but could be delivered through a dagger.
+
+He had a spell that multiplied a blade into three seeking missiles, almost certainly threesteel. Another of his spells cloaked him in a defensive sphere, while still allowing him to attack out of a pinhole in the barrier. He could also cast a flight spell, almost certainly fly, and also magic missile, clairaudience, and a guidance spell that allowed him to find buildings, likely similar to locate object.
+
+Possessions
+During, Ilbryn Starym carried a staff of live wood set with precious gems, at least two of which were green. The staff could be let go to float on its own, trailed black flames when moving on its own, and sometimes lightning. He also carried three wands at his hip. Ilbrym claimed the items he was carrying were long venerated in his family.
+
+After, Ilbryn also carried a scrap of red cloth once of the Court Mage of Galadorna, then Elminster Aumar, which he snatched during the latter's spellbattle with the sorceress Dasumia, then-queen of Galadorna. He also took to carrying a number of weapons, to make his spells more of a surprise.
+
+Relationships
+He had a low opinion of the Moondark family, and believed himself to be the last of his line.
+
+History
+At some point after the fall of Myth Drannor, Ilbryn Starym believed that all of the hunting lodges of the Starym family had been destroyed leaving him the only survivor. He then settled on the destruction of Elminster Aumar as his overarching goal, with a secondary consideration that he might afterwards sire a new House Starym himself if he succeeded.
+
+In spring of the, while tracking down Elminster, he entered Moonshorn Tower, where after being quite rude to the guardian, Mardasper Oblyndrin, he discovered Elminster's name on the logbook. Reluctantly, the guardian told him where his hated foe had gone; Ilbryn managed to leave without a fight, as the guardian was too meek. Riding in pursuit, he passed the sages Tabarast and Beldrune, who were in pursuit of Elminster too. He arrived at the Castle of the Lady not long after Dasumia took Elminster there.
+
+As of, Ilbryn Starym had continued to shadow Elminster during the length of his stay in the Castle of the Lady, though he was never able to get in the castle himself. Upon the coronation of the sorceress Dasumia as queen of Galadorna, Ilbryn learned from the sages Tabarast and Beldrune that Elminster and she had gone elsewhere. He physically pressed one of them for details; the sages responded violently, hurling him away with a strange spell that incapacitated him. The sages shared the details with him afterwards.
+
+During the last day of Dasumia's reign as queen of Galadorna, Ilbryn followed her to the castle from the Goblet of Shadows tavern. He followed her all the way to a shrine of Bane, where he suffered grievous bodily harm as collateral damage from her spell-battle with Elminster. He suffered severe injuries, which required extensive spellcasting and patching to repair.
+
+Ilbryn Starym followed Elminster to Westgate in the, where he took a room at the Stars and Sword, a local inn, while hoping to learn of his whereabouts. Afterwards, he rode for six days into Ripplestones, where he learned Elminster had gone into the Dead Place, and headed there immediately. While riding across the Dead Place, he stumbled upon a band of adventurers, who attacked him, killing his horse. He successfully slew them all, and then took a sword from them. Afterwards, he came across a group of Sharran Dreadspells, led by Dark Brother Elryn. He slew their guide, and then fled, using a spell to divine their target location, which he reasoned was most likely Elminster's target too.
+
+He prepared himself to ambush his most hated foe in the throne chamber within the depths of Karsus' Keep, delaying his attack because of the unpredictable, powerful magic circles all across the room. Ilbryn later emerged from hiding to stab Saeraede Lyonora after she managed to capture and weaken Elminster. He was then slain from her death throes, which unleashed an explosion of such force that it annihilated his body completely.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ildur Arntar
+
+Ildur Arntar was a human fighter and innkeeper of the Nighthunt inn, which stood on the Dawn Pass Trail a day's ride east of Loudwater in the Delimbiyr Vale, in the mid-to-late 14 century DR.
+
+History
+Ildur was once a ranger and adventurer until he lost his divine powers; he would never speak of how and why.
+
+By the mid-1360s DR, he had settled down with his family as the proprietor of the Nighthunt. He was still there as of 1370 DR.
+
+Relationships
+He and his wife, Shaltana had four daughters, two of whom were restless and keen to become sword-wielding adventurers themselves. He was also aided at the inn by six former adventuring companions. They were famous for their prowess in battle, at least in the area.
+
+Ildur was both an ally of the Harpers and an enemy of the Zhentarim. In particular, he was a vocal critic of their grip on Llorkh, so some feared the Zhents would target him for it.
+
+Appendix
+References
+
+---
+
+## Ilmaeri
+
+Ilmaeri was a bartender of Swordsfall House, a shraehouse (a small restaurant/tavern), in the city of Silverymoon in the Silver Marches in the late 14 century DR. Around 1372 DR, she was a kindly woman of middle years.
+
+Appendix
+References
+
+---
+
+## Il'tharis the Terrible
+
+Il'tharis the Terrible was a gray slaad summoned to a drow outpost beneath the Stonelands in the late 15 century DR.
+
+History
+
+Il'tharis was summoned by the drow ritualist Vur'din alongside many other slaadi, as part of an operation led by Mistress Laerion'vyr. Il'tharis was kept enslaved to the will of Vur'din by a control gem, and if the summoner was slain and the gem broken, Il'tharis would simply leave the plane.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Ilza Bormul
+
+Baronne Ilza Bormul was a renowned member of the noble patriar Bormul family of Baldur's Gate many years before the late 15 century DR.
+
+History
+Baronne Ilza Bormul was a historic individual, a patriar who lived many years before the . Ilza owned slave-labor mines in the mountains of Amn, importing ingots of precious metals to enrich herself and the city of Baldur's Gate. The bloody nature of Ilza Bormul's ingots was often not mentioned in classless and history books, however, her cruel imports were named on page thirty seven of Baldur's Gate and the Dialectics of Plunder, a book sold in the Gate in the late 15 century DR.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Ilnabbath
+
+Ilnabbath was an apprentice Red Wizard of Thay in the mid-to-late 14 century DR.
+
+Personality
+He was really worried about his fellow apprentices killing him.
+
+Relationships
+He was apprenticed to Azmyrandyr.
+
+History
+In the, the Simbul assaulted a temple of Shar somewhere in Thay where the Red Wizard Azmyrandyr was preparing for an intrigue. This was a revenge attack after Azmyrandyr participated in an attack on Silverymoon. During her attack, Azmyrandyr and his apprentices were rehearsing the impersonation of several notables from Nimpeth.
+
+Ilnabbath and Marlus Belraeblood arrived at the scene of the fight after Azmyrandyr and the four apprentices who were with him had been slain; the first ran off to sound an alarm, only to be eliminated with a single fireball on the spot.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Illithid slayer
+
+Illithid slayers, also known simply as slayers or caradhaker  in dwarvish, a name that loosely translated in common as "Mindstalker", were psionics users and wild talents who chose to dedicate their lives towards the noble cause of hunting down and eradicating illithids (caradhak in dwarvish), ceremorphs, and other illithid-kin. Though some rumors spoke of bands of slayers who went rogue from their creed, hunting all manner of psionic creatures.
+
+Activities
+Slayers often traveled together in grisly named bands, offering their skills as mercenaries to those who sought to travel through areas with a known illithid presence. Among the githzerai, such bands were known as rrakkma. Despite a mutual hatred for illithids, githzerai and githyanki hunting parties never allied against their common foe. Some illithids took advantage of this hatred between the gith subraces, pitting the illithid slayers against one another.
+
+Dwarven slayers, the caradhaker, were often a part of some elite sect of a clan, though most dwarven communities didn't boast one. Caradhaker typically worked apart from others, traveling abroad in search of other dwarven halls where they could pass on their knowledge to the uninitiated, though they were not adverse to traveling in mixed-race adventuring companies.
+
+Culture
+The path of an illithid slayer was most common among the githyanki, githzerai, and some dwarves. Even some dwarves with no psionic talent laid claim to the title of caradhaker, but often awakened as a wild talent from the strict training. Caradhaker were chosen from amongst the likes of priests, warriors, and even thieves. These dwarves who dedicated themselves to the life of a slayer forwent their race's usual hatred towards goblinoids and orcs, whom many dwarves similarly viewed as "foul infestations" that needed purged from their mountain homes.
+
+Slayers followed a strict set of physical and mental disciplines, training in techniques for combating their foes, tracking them down, and engaging in extensive study of illithid lore. They pledged themselves to a code with credos numbering in the hundreds, including a belief that once one undertook the training to become a slayer, they were devoted for life.
+
+The caradhaker had a number of secret passwords and signs that they used to identify one another. And they would seek out those dwarven members whose devotion to the cause they felt to be lacking.
+
+Some slayers notably labored to understand qualith, the esoteric script of the illithids that was notoriously hard for non-illithids to grasp. Lacking the necessary tentacles, such slayers read the language by running four fingers along the striated lines. They could decipher basic understandings or distinct messages, though many of the nuances and fine inferences were lost on them.
+
+Prerequisites
+In order to be considered an illithid slayer one had to have some knowledge of delving in dungeons, a keen eye for spotting and following tracks for at least  comparable to a ranger, and had to have slain an illithid, either by themselves or as part of a group of people numbering no more then six.In mechanical terms, one of the prerequisites of the class is having the "Track" feat of 3e & v3.5, which was by default given to rangers in those editions (Player's Handbook v.3.5, p.47) as a bonus feat. The text acknowledges this by stating that an illithid slayer might be "a ranger with the Wild Talent feat".
+
+Abilities
+All novice slayers possessed a supernatural talent of passively sensing illithidsIn the Dragon #245's article for the cardhaker class kit, this "Illithid Sense" was originally presented as a unique non-weapon proficiency. through psychic emanations,In the original text of Dragon #245 it is stated the player "...gives the Mindstalker a chance to integrate subtle clues—spoor, "tunnel vibrations," and even psychic emanations". As the Illithid Sense was re-imagined as a supernatural ability in 3e & v3.5e, it is assumed that of these three only the psychic impressions would remain applicable. even when they were hidden by darkness or walls, out to range of . However, this "illithid sense" could not pinpoint the exact location of an illithid and would only remain active so long as a slayer had three degrees or more of psychic energy within their mental reserve.
+
+As novices progressed in their journey they gained an ability to induce brain nausea.While presented in 3e & v3.5 as a supernatural ability, in the original text of Dragon #245 brain nausea was presented as both a unique non-weapon proficiency and alternatively new power if one were using psionics rules. Similar to the power aversion, this subtle defensive ability instilled within the minds of illithids an aversion to their natural desire of eating brains. Any who attempted to eat the slayer's brain would be disinclined to do so for the next 24 hours. This power was always active, even when unconscious, so long as the slayer had a sliver of psychic energy remaining within their mental reserve.
+
+Novice layers also gained a "lucid buffer", making them more resistant to mental attacks, compulsions, and other mind-affecting effects,While presented in 3e & v3.5 as an ability, in the original text of Dragon #245 this "Lucid Buffer" was originally presented as a unique non-weapon proficiency that functioned differently depending upon whether or not a DM was using the rules from The Complete Psionics Handbook, Player's Option: Skills & Powers or The Illithiad, or simply treating illithid psionics as spell-like powers. For the sake of being rules agnostic, all of these variations are equally represented. even when in an unconscious state. This included such things as charm, ESP, suggestion, an illithid mind blast, and an illithid's attempt to use contact to "open" a victim's mind to further psionic intrusions. Additionally, this bolstering of a slayer's mental defenses worked in tandem with any added by psionic defense modes.
+
+A slayer of some experience unlocked a sort of "cerebral blind" within their mind, protecting them from all manner of devices, powers, and spells that would reveal their location, so long as they were psionically focused. This included powers or psionic effects rooted in the clairsentience discipline that were used to gather information. It was even powerful enough to thwart the likes of the powers bend reality and reality revision, and the spells miracle, wish, and limited wish. In the case of effects that scanned a whole area, like remote viewing or scrying, the effect would function but leave the slayer undetected."Cerebral blind" is featured in all cited instances of this class, but the effects differ between all three sources.
+
+Other slayers described a cerebral blind as a sort of mental "riposte", an ability to send a backlash of psychic energy at a mental attacker and temporarily daze them. As they progressed further, a slayer learned how to imbue their psionically enhance their weapon strikes, allowing them to whittle away a creature's resistance to psionic power. Any such denting to resistances would remain for a period of 12 hours. This ability was active so long as the slayer remained psionically focused.
+
+The second to last unique psionic ability that this path had to offer an illithid slayer was that of "cerebral immunity". As long as they were psionically focused the slayer's mind was shielded against almost all mind-affecting devices, powers, and spells, though could selectively allow ones to affect them. It was even powerful enough to thwart attempts to mentally influence the slayer with bend reality, miracle, limited wish, reality revision, or wish.
+
+Master slayers exhibited the psionic ability to make an illithid's mind blast rebound back at them. Beyond their myriad of psionic abilities, an illithid slayer's extensive study and combat training made them skilled in fighting illithids to a degree that was comparable to that of rangers and the training they undertook to specialize in fighting a specific creature.This aspect of the class is laid out similarly to the ranger's "favored enemy" class feature.
+
+Possessions
+Slayers had no standard manner of dress or weaponry across the board, being equally proficient in all manner of armor, martial weapons, and simple weapons. However, many dwarves were known to style their hair to resemble that of the githyanki, shaving all on the top except for a long queue. Experienced slayers often wore one or more shrunken, mummified illithid heads on a harness, displaying them as signs of their dedication to the cause and as proof of their past victories.
+
+History
+While some believed the tradition started among dwarves, others learned of the path of the illithid slayer from other sources. Among the dwarves the tradition of illithid slaying began after a dwarven adventurer rescued a githyanki slayer, Kairoth of Tu'narath, from the confines of an illithid food pen. In gratitude the gith imparted upon the dwarf his ways, his knowledge and spells, and even some magic items that had been forged in the Astral Plane. The adventurer wasted no time in gathering fellow dwarves who shared his hatred of the illithid and passing on what he had learned. In time the dwarves came to refine what they had been taught, leading to what became known as the caradhaker.
+
+Notable Illithid Slayers
+ Teliene Coloara, a drow illithid slayer and psychic warrior who was experienced enough to have a "cerebral blind" in her mind. She was among those for whom the blind was a sort of mental "riposte".
+ Tyrak, a duergar hermit and psychic warrior who had trained Teliene.
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Ildru
+
+Ildru was one of the Magelords of Athalantar in the early 3 century DR.
+
+Description
+His voice was cold.
+
+Personality
+Ildru observed that the methods to gain arcane power were only through apprenticeship and experimentation, and took strong notice of that fact.
+
+Abilities
+He had at least one spell that would be best used with a blood sacrifice on a Mystran altar. He also had the power to compel actions out of people, whether through a spell or some other means, and a spell that revealed the arcane potential of other people to him.
+
+History
+Responding to an alarm that Mystra's Temple in Hastarl had been entered despite the locks, Ildru soon arrived at the scene with over a score of armsmen. Invoking magic without casting a spell, presumably by an enchantment of the place, the Magelord had a spell provide illumination, revealing an intruder: the thief Eladar the Dark, secretly prince Elminster Aumar of Athalantar.
+
+After using some enchantment to shackle his will, he magically questioned the thief, determined him to possess a unique connection to sorcery, and became curious. Offering him an apprenticeship, the mage was surprised to learn even under magical duress, the mage was willing to be loyal to the Stag Throne in exchange for being taken up as one. However, cross-examination showed he would never be willingly loyal to the Magelords of Athalantar, which convinced Ildru to kill him, ordering his armsmen spear the thief.
+
+As the thief spoke a death-curse, Ildru suddenly changed his mind; a divine manifestation followed, where the spears were consumed by golden fire. The golden fire then spread to the armsmen and Ildru himself, freezing him mid-spell, while Mystra manifested before the thief.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Iltakar Garrison
+
+Iltakar Garrison, also known as "the Katar Garrison", was one of the major border forts of County Calimmon of Tethyr, collectively known as the Calimmon Garrisons. It shared the name of Iltakar in Shoonach.
+
+Location
+This fort was located in Calimmon north of the River Agis between Fort Tufenk and Fort Calim, on the westernmost foothills of the Marching Mountains.
+
+Structure
+Like most of the Calimmon Garrisons, this simple but effective fortress was built from huge stones. Its walls were ten-to-fifteen-feet thick (3.0–4.6 meters) and 20 feet high (6.1 meters) with a deep, empty moat around them.
+
+Defenses
+Iltakar Garrison was defended by a complement of around 200 Tethyrian soldiers, overseen by 10 officers and the fort commander. It gained the name "the Katar Garrison" for its commander's preference for training the troops to fight with the Calishite katar, in addition to the traditional longswords and scimitars.
+
+History
+As of the 14 century DR, the fort was approximately 600 years old. It was conquered by the forces of Mulsparkh in the 1330s DR, then retaken and rebuilt by Tethyr. Out of the four Garrisons, Iltakar experienced the most attacks by raiders from the Calim Desert.
+
+Appendix
+Reference
+
+Connections
+
+---
+
+## Ilmatari church in Calimshan
+
+The Ilmatari monasteries of Calimshan were the disparate abbeys, priories, hospices, and other holy sites of Ilmatari and Triadic faith that were scattered across the countryside of Calimshan and the former Shoon Imperium. Though they operated independently of each other and the urban temples such as the House of the Broken God, they were each a bastion of kindness and virtue in the land.
+
+Geography
+These holy sites were often found in remote and dangerous locales, well away from the centers of power and wealth in Calimshan.
+ The region of the Marching Mountains included St. Dobla's Abbey, St. Faelar's Cloisters, and the School of St. Rucir.
+ The distant Alimir Mountains hid the Monastery of St. Fanal and St. Wityn's Hospice.
+ The dangerous Forest of Mir was home to the Hospice of St. Mariam and the Monastery of St. Aban.
+ In the depths of the Calim Desert was found the Friary of St. Amahl and St. Noradnar's Hermitage.
+ Elsewhere in Calimshan, the House of St. Liwan's Blessings perched on the Coast Trail, St. Taril's Monastery was near Schamedar, St. Saril's Priory was near the River Agis, and the Seminary of St. Ihrvyn was found south of the Spider Swamp.
+
+Activities
+As with the Ilmaterite faith elsewhere in the world, the cloisters in Calimshan were first and foremost devoted to the care and welfare of the poor, downtrodden, and abused, with no concern for wealth, fame, and temporal power. This doctrine was fundamentally alien in many ways to the dominant worldviews and philosophies of Calimshan, which tended to focus on material prosperity, social status, and practical self-centeredness in the pursuit of luxury, giving rise to the popular opinion that the Ilmataris were simply mad. In addition to aiding the poor and common folk of the land, they also offered guidance, healing, and other services to the wealthy and powerful, who would typically be anathema to their faith.
+
+A number of these holy sites developed academic traditions over time. Thus in addition to their charitable works they were schools of art, engineering, history, theology, and all kinds of other sage wisdom and practical skills.
+
+Though it would never be publicly admitted, these monasteries were also at the forefront of anti-slavery operations in Calimshan. In addition to working with groups such as the Nadhari, the temples used their legal sanctuary status to shelter any runaway slaves in need, before helping them get away to Tethyr or other lands.
+
+History
+
+Unlike the Ilmatari cloisters of Tethyr which largely emerged after the fall of the Shoon Imperium (such as the Cloister of St. Ramedar), those of Calimshan and their unique nature originated from the height of the Imperium. While the faith had a long history in the land, it was almost destroyed by the depredations of the realm's emperors. When prince Aleph's twin Ksan fell into a fevered delirium and screamed that he was haunted by their elder brother Qamar, no holy man could cure his sickness or dispel the apparent haunting before he died. Bearing nothing but hatred for all priesthoods, on his ascension as Shoon II in 75 DR he persecuted many faiths, driving them into hiding. Upon the death of younger sister in childbirth, he turned to actively attacking and destroying the temples of the land. These anti-theistic policies remained through the following poor rulers, culminating in the paranoid and murderous reign of Qysar Amahl Shoon IV. When fires spread through Shoonach, Calimport, Zazesspur, Almraiven and Memnon in the, he decided that the disaster was caused by the church of Ilmater, claiming that their attitudes towards enduring pain had driven them to insane pyromania in an attempt to end their suffering (the simultaneous massive urban fires were probably caused by the fireworks he demanded for his birthday celebrations). As a result, the faith was hunted ever more harshly, driving it to near extinction in the last few years of his reign. Fortunately for everyone, he was slain and succeeded by his brother, Amahl Shoon V, who was a sane and practical man that immediately restored the rights of the land's churches and ended the targeted persecution of the Ilmaterites.
+
+Decades later in, Qysar Amahl Shoon V's daughter fell from a horse and lay dying from a head injury. His court could devise no cure, and so he found a hermit monk of Ilmater in the Forest of Mir. Though skeptical of the good intentions of the Shoon towards his faith, the hermit still healed his daughter through divine aid. Joyous and respectful at the service done, Amahl Shoon decreed that the priesthood of the Crying God would be forever free from any persecution. This was reinforced by his casting of a great spell at the Taraqin Arena that sent crackling emerald energy through the crowd and across the land, declaring it an enforcement of his will. In the centuries that followed, the legend-turned-common-knowledge was that the Qysar had used his great magical powers to cast a great curse across the breadth of the Shoon Imperium, which would cause any person who did harm to a priest of Ilmater to have that same harm returned back a thousandfold.
+
+Whether out of respect for the legendary ruler or fear of his lingering spellcraft, the rulers of Calimshan that followed never rescinded that ancient legal protection, despite otherwise regularly countermanding the decrees of their predecessors. This extraordinary safety allowed the church of Ilmater to grow far and wide in the years to follow, founding temples and monasteries without fear of persecution, and making those sites a sanctuary for anyone they sheltered. Over the millenium since this allowed the Ilmatari priesthood to actively support the freeing of slaves in Calimshan, giving only an ambiguous nod and wry smile to the nobles and slavecatchers who followed the trail of escaped slaves to their doors.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Iltkazar (Calishite kingdom)
+
+The Kingdom of Iltkazar was an ancient kingdom in west Faerûn that was a component part of the Calimshan Empire and the Shoon Imperium. It drew its name from the dwarven realm of Iltkazar and the Iltkazar Range, and was eventually followed by the Principality of the Iltkazar Highlands in Tethyr.
+
+Geography
+The kingdom broadly ran along the Iltkazar Range, as far south as the Caltazar Hills around Kzelter.
+
+History
+The kingdom had its origins in the conquests of the Empire of Calimshan during its First Age as it pursued the wide-ranging Shanatar Wars. From  to  the Kingdom of Mir assailed the dwarven realm of High Shanatar, fragmenting and destroying what they had built upon the surface around the Omlarandin Mountains and south of the Wurlur (River Ith), and forcing the dwarves further north. This territory was still called Iltkazar in some human recordkeeping and was technically part of the Kingdom of Mir, though the expanse was essentially uninhabited wilderness that Mir controlled in name only, aside from the scattered military camps stretching to the Lake of Steam, including one that became Saradush. The Mir–Jhaamdath War was fought over this territory, as the battle lines swung between Ankhport and Saradush, ending with Mir and Coramshan unifying as the Calimshan Empire in .
+
+During the Second Age, the Shanatar Wars came to an end around  when the Calimshan Empire (led by the aggressive Tavihr Dynasty) finished the expulsion and extermination of dwarves from the surface, marked when the dwarven rearguard perished on the banks of the Sulduskoon River while sealing an entrance to Deep Shanatar. This made Calimshan the undisputed rulers of what would later become Tethyr and allowed further expansion north past the Wurlur, killing or enslaving the early Tethyrian humans who lived there. In the two centuries that followed, the Purple Marches, Tethyr, and Iltkazar were fully delineated, secured, and colonized by the Empire, with many settlements and fortifications being built on the site of old dwarven foundations as the Empire moved north, with Iltkazar in particular becoming heavily fortified against threats from the east. This period of aggressive expansionism halted in  when three flying beholder ships (possibly spelljammers) fell from the sky and crashed into the Alimir Mountains founding the Alimir Hive. The garrisons of Iltkazar bore the brunt of the fighting to come.
+
+The Third Age (–) saw Iltkazar expand from the Omlarandin Mountains north to the Kuldin Peaks and Snowflake Mountains as the Empire reached its greatest extents. Iltkazar, Coramshan, Mir, and Tethyr were kingdoms ruled by the Pasha in Calimport, while the frontier to the north became the locally-governed Calishar Emirates. The start of the age also saw beholders from the Alimir Hive skirmishing with Calimshan, with much fighting in the Caltazar Hills and destructive fires that razed eastern Forest of Mir. After five centuries of harassment the Alimir beholders launched a full invasion in  that conquered Calimshan and Iltkazar. The eyesores ruled the land until they were driven out by the Drakhon Dynasty in . A later attempt by beholders to invade from  to  saw the collapse of beholder power on the Lake of Steam and Calimshan's expansion as far as Mintar.
+
+The Fourth Age saw the Empire crumble, as the drow Night Wars weakened it and rebellion in Iltkazar inspired wider revolts elsewhere. Iltkazar became independent in, and mass slave escapes to the Dragon's Head Peninsula led to the formation of an separate Tethyrian people and later realm in . The Calimshan Empire was unable to handle this secession in part due to the deadly Empire Plague, forcing it to accept the loss of its northern estates.
+
+The Eye Tyrant Wars that started in  saw an alliance between an independent Tethyr, the underground dwarves of Iltkazar, and the much-reduced Calimshan Empire. As beholder forces marched north and west from the Lake of Steam, King Silvam Ithal of Tethyr organized a united defense that ultimately vanquished the beholder threat. Amid the four years of chaos, a number of gnomish settlements abandoned Iltkazar and moved to the hidden refuge of Myth Dyraalis.
+
+During the Shoon Imperium Iltkazar was restored as a kingdom but had no king, simply held by the authority of Emperor himself. This may have contributed to the misconception that the Tome of the Unicorn was created by an imagined mage-king of Iltkazar, in actuality created by Emperor Shoon VII (309 DR–367 DR). The realm was eventually succeeded, in a fashion, by the Iltkazar Highlands region of Tethyr, which contained the Golden Marches and Suretmarch.
+
+Appendix
+References
+
+---
+
+## Iltakar
+
+Iltakar was an ancient city in Faerûn that was variously of High Shanatar, the capital of the Kingdom of Mir, and eventually part of the urban complex of Shoonach as the Warrior's City before falling into ruins.
+
+Description
+Iltakar was well-built of stone and endured the ages better than most cities, even as a ruin. Like other parts of Shoonach, Iltakar retained the ancient dwarven water pumps of Shanatar. These reliable mechanisms continued operating autonomously for thousands of years, providing fresh water in the 14 century DR.
+
+Like the rest of Shoonach, Iltakar was under defensive mythal-like wards created by the wizards of Shoon, followed by more effects set by the Strohms and their elven allies to contain the dangers of the ruins. The end result was a patchwork of magics that maximized the power of fiery magic, greatly impeded the casting of magic relating to the air, cold temperatures, and teleportation or conjuration, slowed the passage of flung or shot missiles to a crawl, and prevented any undead from walking or flying in or out of the ruins. The ancient and decaying spellcraft also gave rise to random wild magic in the ruins.
+
+Geography
+Iltakar was located about  north of the River Agis (depending on the route), and was later engulfed by the wider area of Shoonach upon its construction, of which it became the northern extent. As part of the kingdom of Tethyr, it was inside of Monrativi Teshy Mir and Duchy Ankaram. Inside Shoonach it was not far from Fort Teqlar, and was surrounded by the Fedhiyajar fields and just north of the Imperial City proper.
+
+History
+Iltakar was first founded in High Shanatar during the dwarves' colonization of the surface in the wake of the Genie Wars. From  they built surface settlements in the lands between the Wurlur and Forest of Tethir in the formerly forested lands that had been cleared by the fighting between Memnon and Calim. It fell into human hands early in the Shanatar Wars when Murabir Mir of Coramshan attacked by surprise in, seizing the dwarven city of Iltakar and conquering the surrounding lands while Shanatar was distracted by the northern Giant Wars. It then became the seat of his new Kingdom of Mir, which allied closely with Coramshan and set about conquering the region more widely until the formation of the Calimshan Empire in .
+
+During the Fourth Age of Calimshan ( to ), Iltakar became increasingly populous and important, second only to Calimport itself. It was surrounded by a network of satellite towns and garrisons founded to support it, including one that later became Ithmong. It lent its name to Iltakar Garrison of the Calimmon Garrisons.
+
+In, Iltakar was host to the Garrison Meetings, where the leaders of Calimshan, Tethyr, and Iltkazar met to unite for the Eye Tyrant Wars. After fighting together and defeating the beholder threat, the ruler of Calimshan gifted King Silvam Ithal the lands of Mir including Iltakar itself, in order to mollify the Tethyrians and remove the threat of the disloyal raj of Mir.
+
+When the Shoon Imperium began building the sprawling Shoonach in, they did so on the Palace Mount between what remained of Iltakar and the river port of Agis. While the Imperial City rose nearby, Iltakar was renovated and repurposed as the Warrior's City, devoted to the military of the empire. It was filled with barracks, smithies, garrisons, and arenas, including hidden underground fortifications and illegal fighting rings. This was aided by the creation of the "Champion of Iltakar", a variety of construct used as a sparring and training partner for the warriors of Shoon.
+
+King Silvyr Ithal and his Tethyrian army marched on Shoonach in 450 DR, meeting Emperor Amahl Shoon VII in single combat. Though Silvyr was slain by treachery, Prince Strohm I had secretly infiltrated the city and avenged his father. Most of the city was destroyed in the following Great Fires of Shoonach along with the ruling caste of the empire, and the Shoon Imperium was destroyed with it.
+
+Following the end of the city, the last Champion of Iltakar wandered Faerûn, challenging and fighting people of Calishite and Tethyrian descent while wearing the belt of Iltakar. It eventually found its way into the Dungeon of the Crypt as the "property" of Artor Morlin. He also kept fine paintings of Iltakar, Debukhar, and the Imperial Mount as mementos in the Fireplace Level.
+
+Inhabitants
+
+Iltakar was home to a number of undead orcs derived from the Black Horde, hunted by the undead remains of Parmas Haraqimn and his Last Patrol. The ancient Necromancers' Corps was responsible for most of the shambling undead that filled the wider ruins.
+
+By the 14 century DR, Iltakar was home to a number of greater firedrakes that were the apex predators of the area. It was also broadly home to mobile bands of goblins, hobgoblins, gnolls, and lizardfolk. One particular band of 50 gnolls was led by the charismatic Bhurkh.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Illsa Merrymore
+
+Ilsa Merrymore was a half-sea elf diver who specialized in looting ships. She worked under Captain Coprates Bile in the mid-to-late 14 century DR.
+
+Description
+She was about  tall and, with blue hair and black eyes on pale blue skin.
+
+Personality
+She was moody, stubborn, and somewhat callous.
+
+Abilities
+Being a half-sea elf, she was notable for her ease of operation underwater; her agility was unmatched.
+
+Possessions
+Of note, she carried an enchanted trident, a portable hole, and leggins made of silverweave.
+
+Activities
+She was chief diver for the Emerald Tayar.
+
+Relationships
+Her mother was dead, and her father was a drunken longshoreman. Though she skimmed from the loot, she dealt otherwise professionally with Coprates Bile, the pirate captain, whom she saw as a friend, though only Rondo Marsh, the ship's mage, was a real friend; she suspected he had feelings for her.
+
+During the mission to find Myth Nantar, their crew was joined by the paladin Sturge Whitsunday, whom she found pushy and arrogant but paradoxically sensual despite being an upworlder. She responded by treating him with cold dismissiveness and sometimes making a practiced, cruelly accurate impression. His sister Aleine Whitsunday, was harder to hate as she was a priestess of Eldath, but she settled on interrupting her every time she spoke up and needling her with personal questions. Nagreous Twiddle, the gnomish inventor Sturge hired, was her favourite target, and he was so easy to wind up it barely seemed worth it.
+
+History
+After Illsa's mother was killed in a sahuagin raid when she was eleven years old, she was cast out for being a half-breed. Sent to her father, he turned out to be a severe alcoholic, who sold her to a traveling curiosity show for rum money. Rather than remain with the show, Illsa signed on with the first ship that would take her as a pearl-diver. Later she signed on as a diver under Coprates, who promised her a bigger slice of the takings.
+
+The mission that the Emerald Tayar took under Sturge Whitsunday in the  was promising to her, as she'd heard stories of Myth Nantar from her mother, and it sounded like a place where she could belong. If their mission took them to the Whamite Isles, she would find herself unaffected by the deadly siren-song of the kelpie ring, but might encounter some trouble during a possible encounter with the pirate Vilander, as the deaf man would not speak to "fish-elves".
+
+Rumors & Legends
+According to her late mother, her father was a dashing, handsome smuggler and pirate. The truth really disappointed her.
+
+Appendix
+Appearances
+
+References
 
 ---
 

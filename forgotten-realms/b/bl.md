@@ -4,6 +4,451 @@ _Source: forgottenrealms.fandom.com, CC-BY-SA 3.0, dump 2025-10-22._
 
 ---
 
+## Blood Rift
+
+The Blood Rift was the rift that the River of Blood created when crossing the planes.
+
+Description
+The Rift served as the main connection between the Nine Hells and the Abyss, so it was the main battlefield for the Blood War. In addition, it sometimes connected to other lower planes, bringing the eternal struggle there, until it floated away or a deity took action to stop the carnage.
+
+The Blood Rift was very similar to the Barrens of Doom and Despair, with empty plains and rocky badlands, perfect for ambushes and treachery.
+
+History
+Some time during the Hundred Years of Chaos, the Blood Rift was folded into the Abyss.
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Bloodstone
+
+Bloodstone was a semi-precious stone found mostly in northeast Faerûn, especially the Galena Mountains between Damara and Vaasa. Ninety percent of the bloodstone mined in Faerûn came from this area, known as the Bloodstone Lands, and one particular mine produced the majority of the supply,  circa the Year of Wild Magic, 1372 DR.
+
+Description
+Bloodstone was the Realms name for the mineral heliotrope, a deep green-gray chalcedony with inclusions of red jasper that looked like flecks of blood. When worn for adornment, it was usually cut cabochon, and either polished into smooth ovals or given beveled edges. A typical specimen had a base value of 50 gp.
+
+Historically, bloodstone was also sold in bars worth 25 gp, each with the stamp of a Damaran noble house on one side and the year in Damaran Reckoning on the other.
+
+Powers
+One of the most important properties of bloodstone was as a medicinal agent similar to the herb bloodstaunch. When a bloodstone gem was pressed on an open wound, it caused the blood to coagulate, the wound to close, and any blood diseases or poisons to be removed. No health was restored, but further injury from blood loss was prevented. The gemstone dissolved upon conferring its benefits, and a being could only receive this treatment once in a lunar cycle, i.e., another such treatment would not be effective until a month had passed.
+
+A bloodstone was one of the material components for the wu jen spell water to poison. Bloodstones could also be used as a substitute spell component for most divination spells and magics that were related to storms. One gem and one sprig of the heliotrope herb worked as material components for the invisibility spell.
+
+History
+Damara was established as a kingdom in the Year of the Bronze Banner, 1075 DR and became a wealthy nation by trading their iron, silver, and bloodstone. After the sudden rise of Zhengyi the Witch-King in Vaasa and the subsequent invasion of Damara in the Year of the Spur, 1348 DR, the trade bars were considered "cursed money" and lost much of their value. Once Gareth Dragonsbane took the throne in the Year of the Serpent, 1359 DR, an era of relative peace and prosperity gave people faith in the currency of Damara and the reputation of the trade bars was on the mend by the Year of Wild Magic, 1372 DR.
+
+Notable Bloodstones
+ Six matching bloodstones adorned the fabled sword Ilbratha, Mistress of Battles.
+ The lesser deity Iyachtu Xvim was known to occasionally send bloodstones to show favor or inspire his followers.
+ A necklace of prayer beads was known to include bloodstones as inert decorative beads.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Mysteries of Westgate;Baldur's Gate III
+External links
+
+References
+
+---
+
+## Blibdoolpoolp
+
+Blibdoolpoolp Based on the language guide provideded in Dragon Magazine 281: By Any Other Name, Blibdoolpoolp's name seems to be a combination of the words bli-p, meaning pincer or powerful, b-ool, meaning ancient, churning, rough, or sea, and d-oolp, meaning dangerous, guardian, or mother. Based on the order of the words and the given title of Blibdoolpoolp, this can be guessed to mean "Powerful sea mother". was the patron goddess of the kuo-toa, a paranoid, reality-denying deity of the sea of questionable sanity. The supposedly ancient Sea Mother viewed the kuo-toa as her children, though she herself might have been the nonsensical spawn of her fanatical followers' madness-fueled imaginings.
+
+Description
+Blibdoolpoolp usually took the form of a  nude human female, with a lobster's head and claws. Other depictions portrayed a crayfish's head and claws and an articulated shell covering her shoulders. Those forced to look deeply into her eyes at close range could be driven to insanity.
+
+Personality
+Blibdoolpoolp was a bloodthirsty goddess filled with hatred for the pain her kuo-toa children suffered at the hands of many races. A special enmity was held for surface-dwelling races, as well as illithids and drow. Humans and particularly elves were spited for the initial driving of her children to the Underdark, while mind flayers and drow were seen as competitors for the little territory her followers had left. On the other hand, her hatred for sea dwellers was relatively minor, except for sea elves.
+
+The Sea Mother was irrational, prone to unpredictable mood swings and fickle changes in behavior. She was also highly secretive, shunning contact with most other deities. She believed herself to hold deeply fundamental magical secrets related to the nature of the universe, but hoarded those secrets to herself, making them impossible to check.
+
+The Sea Mother placed a high value on pearls, which were considerably more effective than normal gems and precious metals in gaining her favor.
+
+Powers
+
+The Drowning Goddess manifested herself primarily as a spellcaster. She had access to numerous spells in the way of summoning magic and elemental control of water, although she was lacking in control of fire. Like her kuo-toa patrons, she was hard to poison or paralyze and she was immune to all water magic. Her eyes were powerful, capable of seeing through most illusions. She could grab opponents with her claws and force them to look into her eyes, potentially rendering the victims insane. In addition, she could create a symbol of insanity every day to drive her foes to madness. She was also capable of summoning waves of giant crustaceans to do her bidding for a short amount of time, as well as huge water elementals that remained in her service for up to 4 hours each day.
+
+Blibdoolpoolp's powers also extended to the empowerment of favored kuo-toa. The Whip of Whips could mark a single kuo-toa egg in a settlement as exalted, destining them for greatness by granting them extraordinary physical and divine power. She could also empower preexisting whips or monitors that she particularly favored with incredible power, causing them to grow to titanic size and become kuo-toa leviathans. She could bestow upon her faithful the unique spell touch of Blibdoolpoolp, which gave the caster the ability to turn his or her hand into a large lobster-like claw. She provided those in her service with the ability to speak a priestly language, which was distinct from the kuo-toa language and derived from Aquan.
+
+Possessions
+Blibdoolpoolp once possessed a magical necklace that was capable of generating pearls with an assortment of magical properties. A number of new pearls could be made each week, with effects lasting approximately one month. This necklace was stolen by the goddess Diancastra.
+
+She also possessed a ring of human influence and a wand of fear.
+
+Divine Realm
+According to the Great Wheel cosmology, Blibdoolpoolp's realm was known as the Murky Depths, located in the Elemental Plane of Water. Its waters churned and swirled based on her emotional state. The realm was kept surrounded by giant primitive crustaceans in an attempt by the Sea Mother to convince herself that her powers had not diminished. Visitors to her realm who could not breathe underwater were granted that ability by the deity herself, a boon which also put them immediately in her debt.
+
+In the World Tree cosmology, Blibdoolpoolp's realm was located in the Fated Depths, in an enormous, spherical temple resembling the moon that drifted through its fiendish waters. It was home to fiendish crustaceans and her kuo-toa petitioners and servants.
+
+Activities
+The Sea Mother spent most of the time brooding about her chosen race, while plotting her revenge against those who drove them from the surface. She was known for sending avatars to attend large-scale sacrificial rituals conducted by her priests, in which many humanoids were drowned. She also spent some time holding court for visitors, who made offerings in exchange for small favors from the goddess. Simply visiting the Sea Mother required an offering of exorbitant amounts of gold and gems in the tens of thousands of gold pieces, although the price was lessened if paid in pearls. Those who did not bring an offering to her domain were then commanded via a geas spell to later return and either bring the offering amount or a number of drow as sacrifices. Affected individuals were also forbidden from directly or indirectly harming the kuo-toa until they did so. She did not send omens to the kuo-toa as warnings or assistance, but simply to communicate her pleasure or displeasure, which could be somewhat random due to her unstable state of mind.
+
+Relationships
+Blibdoolpoolp avoided contact with most other deities. However, she was on relatively friendly terms with the ixzan deity Ilxendren. Blibdoolpoolp hated the drow, but would not directly oppose them. Instead, she compelled those of other races to bring drow to her as sacrifices when an opportunity arose.
+
+Worshipers
+Blibdoolpoolp's only worshipers were the kuo-toa, whose priests ran most of their civilization. Her kuo-toa priests kept large black pearls and giant crustaceans in their temples, looking for changes in the pearls' coloration or in the animals' activity that indicated favorable omens. Priests from different settlements collaborated with each other to ensure their mutual defense, and were mandated to immediately drive away any illithid settlers found close to their homes.
+
+Rituals
+Lobsters were one of Blibdoolpoolp's preferred offerings and were regularly sacrificed to her. As a scavenger goddess, she also appreciated offerings of personal objects that were discarded and later recovered. Regurgitation at her feet was seen as a sincere show of faith, practiced regularly by her more devout followers.
+
+The most commonly held ceremonies to Blibdoolpoolp involved the drowning of humanoids. Worshipers requested favors from the goddess by offering copious amounts of gems and pearls. Larger amounts had a better chance of winning the Sea Mother's favor, so an offering of about 100,000 gold pieces worth of gems (or 50,000 gold pieces worth of pearls) would be considered adequate.
+
+History
+After the kuo-toa were driven from the surface, they were captured by the mind flayers and forced into slavery. Unable to resist the illithids' psionic oppression, the peaceful kuo-toa were driven to insanity and to an extreme religious fanaticism, inventing deities upon which they relied for protection against their enemies, most notably the drow. If a large enough number of kuo-toa believed in an invented deity, it manifested a physical, albeit nonsensical form.
+
+Some sages maintained that Blibdoolpoolp was simply the most prominent among the deities invented by the kuo-toa, most likely the result of a human statue having been modified by a kuo-toa by adding a crustacean head and appendages and then worshiped as a deity. So intense was the insane fervor of kuo-toa priests that they managed to manifest as clerical powers. Notably, the nearly extinct ancient kuo-toa tribes of the open seas, mostly wiped out by sahuagin that rightly viewed them as a threat, had never heard of Blibdoolpoolp.
+
+At one point, the young demigoddess Diancastra snuck into Blibdoolpoolp's lair disguised as a kuo-toa and stole her magical necklace.
+
+Appendix
+Notes
+
+See Also
+Dagon
+Pale Night
+
+Gallery
+
+Appearances
+Adventures
+Out of the Abyss
+
+References
+
+Connections
+
+es:Blibdoolpoolp
+
+---
+
+## Blueshine
+
+Blueshine was a special magical quality that could be applied to metal armor, giving it a blue-black color and prevented it from being tarnished, becoming rusty, or being damaged by acid. It also allowed its wearer to hide significantly more easily.
+
+Process
+This quality was acquired by a series of actions in which the armor was heated, submersed in water and bathed in specific arcane solutions. The specially enchanted liquids were composed of a potion of sweetwater that was mixed distilled cockatrice feathers and drops of blood taken from a variety of species of dragons.
+
+Blueshine enchantment was considered to be the best protection for armor when fighting giant slugs.
+
+History
+The formulation to enhance a suit of armor as blueshine had been practices by the dwarves of Faerûn for centuries prior to the Era of Upheaval. It involved the stainless chant as one of its steps.
+
+During the 14 century DR, the Calishite wizard Toth created a spell that mimicked the process that created the blueshine effect. For his effects, he was soon killed by the Red Wizards of Thay.
+
+Notable Owners
+ Madeiron Sunderstone, owner of a suit +1 blueshine full plate armor.
+
+Appendix
+Appearances
+Licensed Adventures & Organized Play
+References
+
+Connections
+
+---
+
+## Blingdenstone warpick
+
+A blingdenstone warpick is a +1 magic heavy pick from the drow-infested city of Blingdenstone. Most of them are owned by the homeless deep gnomes in the Silver Marches. They are worth around 8,000 gold pieces.
+
+References
+
+FR:Pic de guerre de Blingdenpierre
+
+---
+
+## Bladesinger
+
+Bladesingers were elven wizards who practiced the sacred art of bladesinging, an ancient and sacred tradition of fighting that blended swordsmanship, along with other fighting styles, and unique arcane magic. These individuals were revered by their fellow elves as personifications of the perfect balance between skilled artistry and devotion to the guardianship of their people.
+
+Culture
+
+Bladesingers held a prominent place in the society of the Tel'Quessir of Faerûn. They were renowned as heroes of their elven brethren and welcome within any of their communities. As such, they often traveled across the Realms, seldom forming permanent ties to a single elven settlement.
+
+The tradition of bladesinging was taught in a single master-apprentice tutelage system. A master bladesinger would take on a single apprentice to carry on their work of defending the Tel'Quessir and promoting their principles and way of life. Tradition stated that the art of bladesinging was never to be shared by the written word.
+
+Bladesingers often had themselves tattooed with the animal that was associated with their style of bladesinging.
+
+Orders
+In the centuries prior to the Retreat, bladesingers of Evermeet formed small warrior lodges, with each individual member specializing in a different weapon. They distinguished themselves from other orders by arming themselves with the most antiquated weapons and tattoos of ancient elven runes, rather than animals. Unfortunately, many of their numbers dwindled during the first few decades of the Era of Upheaval.
+
+In the Arcane Ages, bladesingers served both as armathors of Myth Drannor as well as a unit of elite warriors within the Ahk'Velahr known as the Protectors. They specialized as bodyguards for the city's nobility, as well as defenders against great, magical monsters such as demons and dragons. In ancient texts it was mentioned they even invented their own spells.
+
+The Weavers of Bladesong was a group that served as a dedicated order of Corellon Larethian.
+
+Activities
+Bladesingers served as the guardians of the elven people and exemplars of their way of life. As such, they dedicated themselves to the Tel-quessir, forgoing any life that was more self-centered.
+
+While the larger elven communities often offered bladesingers opportunities to fight alongside their fellow practitioners of the art, many of their kind chose to work in solitude. Bladesinger adventurers who traveled the Realms alone often embarked on quests that greatly benefited the elven people.
+
+Combat
+In battle, bladesingers utilized discrete tactics and precise movement to maintain a highly effective defensive posture. Wielding a one-handed blade while keeping the other hand free allowed a bladesinger to parley that defense into powerful attacks that were empowered by their unique magic.
+
+Abilities
+Bladesinging was a defensive style of combat that allowed an elven warrior to cast spells without fear of a successful counter-attack. Bladesingers themselves referred to it as a sense of serenity amid the disorder and disruption of battle.
+
+While the word "bladesong" referred to the whistling sound a bladesingers weapon made when cutting through the air, the style itself actually resembled something of a dance. It was described as being both hauntingly beautiful and almost otherworldly in appearance. Bladesinging emphasized beauty and economy of movement over excessive force and was deceptively dangerous for its apparent gentility and obvious grace.
+
+Bladesong
+When novices began their tutelage under experienced bladesingers, they could maintain their bladesong for about a minute's time, two times every day. Throughout the course of their training, they developed great concentration that helped prevent their magic from being halted in any manner.
+
+Over time they learned how to further modify the magic of their bladesong in order to better suit their needs. These songs were often presented in pairs that shared some close association with one another.
+
+A song of defense a bladesinger could actually negate harm inflicted upon them, while the song of victory allowed them to attack with greater power.
+
+When performing a song of celerity a bladesinger was empowered to cast a spell with great quickness, while the song of fury allowed them to make a swift, "arcane strike" against their foe. With the choir of swords a bladesinger could strike out against every opponent near them, with similar blinding speed.
+
+Styles
+
+While bladesinging has traditionally been tied to the use of a longsword, different techniques utilizing a variety of weapons have developed throughout the years. Each type of weapon was associated with an animal group, with more specific weapons linked to species of that animal.
+
+ Cat: Practitioners of this family of bladesinging wielded swords in battle. The oldest tradition was the "lion style", which was practiced with the longsword but held no preference for a particular school of magic. Those who studied in the "leopard style" preferred short swords and illusion or stealth-oriented spells, while the "red tiger style" bladesingers wielded scimitars in movements that alternated between whirls and lunges.
+ Bird: While these newer styles were quite different from one another, they each made use of a weapon with a handled shaft. The "eagle style" focused on fluidity in combat, involving a pair of small handaxes; whereas bladesingers of the "raven style" made use of a pick and spells that made them more dexterous.
+ Snake: Another of the older style families, each of its styles utilized a weapon whose shape would change in combat, such as a flail or chain. For example, practitioners of the "viper style" employed the use of whips in their bladesinging, along with particularly wicked spells that made use of poison and disease.
+
+Bladespells
+In addition to their skill with a weapon and inherent spellcasting powers, bladesingers gained access to a number of unique spells. Among these spells were: dancing fire, dazzling sunray, frost bite, lightning ring, shadow sever, unseen hand, dimension switch, force volley, deceptive shadows, and black fire.
+
+Some of the most powerful bladesingers could let chain the effects of their spells as they reached the crescendo of battle.
+
+Possessions
+As was the case with other wizards, bladesingers still kept a spellbook within which they inscribed their spells for the day.
+
+Unlike other spellcasters, they could use their primary weapon, typically a one-handed blade, as their implement.
+
+History
+
+It was said that the moon elves were the first of the Tel-quessir to develop the art of bladesinging.
+
+New styles of bladesinging were continually in development throughout the years. One of the more recent styles came to use as recently as the 12 century DR.
+
+During the great Retreat, which began in the, many bladesingers dedicated their efforts to the safety of those elves who remained in the lands beyond Evermeet.
+
+The culture and practice of bladesinging in Faerûn enjoyed a great rebirth in the years following the re-connection between Toril and the Feywild. The eladrin bladesingers in the Feywild brought their tradition to the elves of the Realms, and the ranks of the bladesingers swelled among the sun elf and moon elf communities.
+
+Members
+Nearly all of the bladesingers were either elves or eladrin, along with a select few numbers of half-elves.
+
+Rumors & Legends
+Elven legends stated that Corellon actually taught the art of bladesinging to its first practitioner.
+
+Notable Bladesingers
+ Glorantha Steelrain, an adventuring bladesinger who worked for the betterment of elvenkind in the 14 century DR.
+ Istvelen, an eladrin who was known to be one of the very first bladesingers.
+ Josidiah Starym, an adventurer from Myth Drannor who famously recovered the lost Artblade of Cormanthyr.
+ Laethra Longtresses, a gregarious bladesinger and adventurer.
+
+Appendix
+
+Gallery
+
+Appearances
+
+References
+
+Connections
+de:Klingensänger
+
+---
+
+## Blackstaff (novel)
+
+Blackstaff by Steven E. Schend is the first book of The Wizards series of standalone novels and Schend's first novel.
+
+Synopsis
+Feast of the Moon, the Year of True Names
+On the Feast of the Moon in, in the Sword of Anauroch, a young human mage with no name fights alongside his estranged father, the half-elf Arun Maerdrym of Myth Drannor, to rescue the man's new elven family from attacking phaerimm. Both mages eventually run low on spells and are severely wounded. Fleeing from the phaerimm in a sphere of protection, they encounter the vampire Palron Kaeth, an enemy of the Harpers in Twilight and the murderer of Arun's first wife, Arielimnda, the nameless mage's mother. The vampire seeks to destroy the Sharnwall and release the phaerimm, and he believes that the blood of the two mages will allow him to do it. The two men agree to sacrifice their lives to stop Kaeth, shattering the Duskstaff of Sarael to cause a massive explosion, powerful enough to turn the surrounding sands into glass.
+
+Mystra herself, the goddess of the Weave, appears to Arun's son between life to death and tells him that he is her Chosen and will be given thirteen omens, nine soulnames, seven secrets, and three truths.
+
+28 Uktar, the Year of Lightning Storms
+Tsarra Chaadren, one of the teachers of Blackstaff Tower, returns to Waterdeep from an overnight hunting trip  in the Pellamcopse Woods with six apprentices and her friend Danthra.
+
+Index
+
+Characters
+  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+:  •  •  •  •  •  •  •
+
+Creatures
+  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+:  •
+
+Locations
+  •  •  •  •  •  • Griffon's Grog
+:  •  •  •  •  •  •  •  •
+
+Miscellaneous
+  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+:  •
+
+Organizations
+  •
+
+Spells
+  •  •  •
+:
+
+Weapons
+  •  •  •  •
+
+Appendix
+
+References
+
+---
+
+## Blackjackal
+
+Blackjackal was the lieutenant and later the leader of a small tribe of elves living in the eastern starwood of Cormanthor.
+
+The elven tribe once used a large area of blueberries as their primary food source, which they shared amiably with shambling mounds. When a couatl covered in strange markings fell out of the sky into the blueberry field, the elves and mounds did not think much of it, but its decomposing corpse infected the blueberries with a form of vine blight. The elves blamed their leader for this, and Blackjackal urged them to crush his head with a rock, assuming leadership for himself.
+
+Blackjackal formed an alliance with some of the shambling mounds, and the elves and mounds roamed the starwood, attacking whoever they found in the name of Talos.
+
+References
+
+---
+
+## Bloody Keel
+
+The Bloody Keel was the ship of the fiery red haired rogue Sheila Kree. It received its name from the punishment its captain exacted upon those who did not obey, keelhauling.
+
+Catti-brie sank the Bloody Keel by shooting the helmsman as Sheila Kree and her band was making a hasty escape from her cove. With no one at the helm, the Bloody Keel crashed against the rocks and sank.
+
+Appendix
+
+References
+
+---
+
+## Black Wizards
+
+Black Wizards, by Douglas Niles, is the second book in the Moonshae trilogy.
+
+ Summary
+The god Bhaal wants revenge on Tristan Kendrick and his allies for killing Kazgoroth. He is gradually destroying the power of the Earthmother. The druids of Alaron have been murdered by Hobarth, a cleric of Bhaal. Reginald Carrathal, High King of the Ffolk, who rules from Caer Callidyrr, also on Alaron, has fallen under the enchantment of a cabal of seven evil wizards led by Cyndre. Cyndre is also under the influence of Bhaal. The other wizards are Alexei, Kryphon (who uses crystals), Doric (an emotionally unstable female fire mage), and the weaker wizards Talraw, Wertam and Karianow. The wizards can see from a distance using a magical mirror. At their behest, the High King has created a mercenary army, the Scarlet Guard, which includes a troop of ogres. A dispossessed noble, Hugh O'Roarke, is leading a Robin Hood-style resistance from Dernall Forest. A group of duergar also invade the tunnels below the castle with Cyndre's support, slaughtering the local svirfneblin gnomes.
+
+The wizards send assassins led by the half-orc Razfallow – Daryth's former master – to kill all claimants to the thrones of the Moonshae Isles. Tristan is still drinking and arguing with his father. The assassins attempt to kill Tristan but his father dies in his place. The kingship is not hereditary and Tristan's main rival is Pontswain – a greedy cantrev lord who sat out the Darkwalker War but has more administrative experience than Tristan. They agree to seek a decision from the High King, although Tristan knows the High King's coins were found on the bodies of the assassins.
+
+Bhaal has sent his cleric Hobarth to assassinate Robyn Moonsinger. Hobarth stumbles on Tristan's party in Kingsbay, preparing to travel by ship. He curses the ship so it will rot when they travel, and summons a storm. The ship is destroyed and the sailor Rodger dies. Tristan, Daryth, Canthus and Pontswain are saved by the rising of the sunken castle Caer Allisynn. This is the enchanted burial place of Allisynn, wife of the ancient hero Cymrych Hugh. They fight some Sahuagin and fall foul of a trap while entering the castle. Daryth finds magic thieving gloves and floating sacks. Tristan encounters the spirit of Queen Alisynn who gives him a prophecy and returns the Sword of Cymrych Hugh, which he lost in the shipwreck. The prophecy refers to a descendent of Cymrych Hugh who will become High King.
+
+Tristan, Daryth, Canthus and Pontswain float away on the sacks and are picked up at sea by the bard Tavish and taken to Llewellyn on Alaron. Cyndre has Reginald send the Scarlet Guard hunting for Tristan, who the wizards have foreseen coming. The Scarlet Guard arrest Tristan's party at a bar. Pawldo is also in Llewellyn and rescues them. They fight the assassins and win, but Razfallow escapes. Tristan's party are hidden by Patriarch Trevor of Chauntea, who is later killed by the Scarlet Guard. They are then captured by followers of O'Roarke and taken to Doncastle, O'Roarke's hidden capital in Dernall Forest. O'Roarke reluctantly agrees to help them sneak into Caer Callidyrr. They leave Pontswain behind as a hostage. Tristan's party are smuggled into the castle by fishing boat and taken in by O'Roarke's agent Devin and his daughter Fiona. Leaving the others, Tristan and Daryth reach the king disguised as Scarlet Guard. They confront the king but are captured by Cyndre.
+
+Robyn is training as a druid under Genna Moonsinger. She lives at the druids' grove with Genna, Newt, and the great bear Grunt. Trahern, who still has the Heart of Kazgoroth, is recalled by Bhaal to attack the Moonwell. He appears in the guise of a helpless amnesiac feral druid, nicknamed Acorn by Robyn. Acorn eventually assaults Robyn but is slain by her, using the power of the goddess. Newt throws away the Heart of Kazgoroth but Hobarth finds it. Hobarth raises Acorn's body to attack Robyn but Grunt kills the zombie. Hobarth goes to Freeman's Down to raise the dead of the Battle of Freeman's Down. The army march on the grove, destroying forests and driving wildlife before them. The animals warn Genna and Robyn. The Earthmother calls Kamerynn the unicorn, who arrives at the grove, as does the sprite Yazilliclick. Robyn and Genna go to find the army in the form of eagles. They use earth and fire magic to kill many of the skeletons and zombies but are frustrated by Hobarth. They escape in wolf form. The other druids also arrive at the grove and raise magical protections. Genna gives Robyn a runestick with the magic of the four elements. In an epic battle involving druidic magic, animals, collapsing arches, and earth elementals, the undead are delayed but not defeated and the druids are pushed back to the Moonwell. Robyn is abducted by an aerial servant summoned by Hobarth, and drops her staff. She is rescued by Kamerynn who can see the invisible attacker and kills it. The other druids, including Genna, are fighting a desperate last struggle by the Moonwell when the Earthmother sends a tide of power which destroys many of the attackers and turns the druids to stone. Allisynn appears to Robyn and tells her to go to Dernall Forest to rescue Tristan. Robyn (in eagle form), Newt and Yazilliclick fly to Alaron. Hobarth commands the remaining undead, including some freshly raised druids, to throw the other corpses into the Moonwell, turning it into a Darkwell.
+
+At Caer Callidyrr, Alexei is suspected of betrayal and imprisoned. Cyndre contacts the Sahuagin who live underwater. They attack Alaron and their priestesses raise an army of undead from the sea. Finellen's dwarves detect the presence of the Duergar and march to war through the Underdark to Alaron. Robyn crashlands in the forest after being attacked by crows. She is found by O'Roarke's followers and taken to Doncastle.
+
+While imprisoned, Tristan witnesses Cyndre manipulating King Reginald. Daryth, held in a different cell, frees himself using his magic gloves. He stumbles on Alexei and frees him too. Daryth injures Cyndre's hand, stopping him using magic, but the wizard escapes. Tristan is freed. Alexei also cannot use magic, but leads the group to retrieve some scrolls he can use. Escaping underground, they run into the Duergar. They are trapped by a gorge, but Alexei uses flight spells on the group. The Scarlet Guard discover Devin's hideaway and kill Devin, but Pawldo, Canthus and Fiona escape through a trapdoor and swim to shore. Both parties find their way back to Doncastle. Finellen's dwarves attack the Duergar but are overwhelmed.
+
+Cyndre manipulates Reginald into ordering an attack on Doncastle. Kryphon and Doric teleport near to Doncastle, and join up with Razfallow. They use charm spells to trick their way to the hidden town. With Kryphon's help, Razfallow murders Annuwynn, the wizard of Doncastle. Kryphon's lust for Doric has faded, and Kryphon's attraction to Robyn makes Doric jealous. Doric attempts to kill Robyn using fire magic, and sets the inn ablaze, but Robyn's magic proves more powerful and Doric is killed. Kryphon misdirects O'Roarke's forces away from the route of the king's attack, and disables Doncastle's cleric, Vaughn Burne, using lightning magic. Daryth runs into Razfallow. They duel and Razfallow is killed.
+
+Against Tristan's advice, O'Roarke commits all his forces to a badly planned defence. Cyndre, travelling with the invading army, creates a poison gas cloud which kills and disperses many of the defenders. The survivors hold the line, but the ogre brigade attack through an undefended side-gate and flank the defenders, who are routed. Alexei finds Kryphon confusing more guards. The two wizards fight a magical duel. Kryphon uses a protective spell, but Alexei gets around it by blasting a rampart so it falls on Kryphon, killing him. King Reginald begins to break Cyndre's enchantment, and Cyndre kills him. Doncastle is destroyed.
+
+Tristan rallies the survivors on the edge of the forest. Robyn uses fire magic to destroy a unit of Scarlet Guard. Newt and Yazilliclick run into Finellen's dwarves while trying to find Robyn. O'Roarke recognises his earlier error and defers to Tristan. Tristan's force of about a thousand soldiers is caught between the ogres and another Scarlet Guard unit. Finellen arrives just in time. Her dwarves start a rockfall which routs the Guard. Tristan's army captures a coastal hilltop position with only one access road. They are surrounded by the King's army of human and ogre mercenaries, the duergar, sahuagin, and undead. Overnight, Alexei uses fire magic to kill Wertam, Tairaw, and Kerianow.
+
+In the morning, the massed forces attack. O'Roarke's troops hold back the Scarlet Guard and duergar. The ogres charge Finellen's dwarves, and Robyn summons two earth elementals to fight the ogres. The sahuagin capture the path to the hilltop, cutting Tristan's forces off from escape, but they are forced back by the heroes and the dwarves. O'Roarke dies fighting sahuagin and ogres. Cyndre pursues Alexei and a magical duel ensues. Cyndre tries to cast a doom spell, sending Alexei to a hell of eternal torment. Robyn arrives in the nick of time and uses magical vines to bind Cyndre. The battle is ended by an earthquake and tsunami. A fissure opens and swallows Cyndre and Alexei. The Scarlet Guard, duergar and undead are crushed or fall into the sea as the periphery of the hill collapses. The sahuagin mostly survive by diving into the sea.
+
+Three hundred survivors of Tristan's army survive on the hilltop, which is now an island. Finellen reveals that Tristan is descended from Cymrych Hugh and the name Kendrick is a corruption of Cymrych. This means Alisynn's prophecy referred to Tristan. The Crown of the Isles, which belongs to the High King, has fallen in the sea, but Alisynn sends a whirlpool which throws it to Tristan, and he is crowned King of the Isles. Tristan, Daryth, Pawldo, Canthus, Pontswain, Finellen, Newt, and Yazilliclick plan to return to Gwynneth, but Fiona stays behind to pass news to the people of Alaron. Bhaal orders the sahuagin priestess Ysalla to raise the dead of the final battle, including the ogres, as a new undead army.
+
+Index
+Characters
+Alexei • Allisynn • Annuwyn • Avalon • Bhaal • Vaughn Burne • Canthus • Reginald Carrathal • Cassidy • Chauntea • Cowan • Cyndre • Dai-Dak • Daryth • Gadrric Deepglen • Devin • Doric • Dornthwait • Dynnatt • Earthmother • Eileen • Evan (bandit) • Fergus • Finellen • Fiona • Glynnis • Ryder Greenleaf • Grunt • Hobarth • Isolde • Kamerynn • Karianow • Kazgoroth • Bryon Kendrick • Tristan Kendrick • Koart • Kryphon • Larrell • Macshea • Genna Moonsinger • Robyn Moonsinger • Newt • Nolan • Hugh O'Roarke • Pawldo • Randolph • Rasper • Razfallow • Rodger • Sean • Sythissall • Talraw • Tavish • Trahern • Trevor • Waine • Wertam • Yazilliclick • Ysalla
+Creatures
+cave bear • deer • dwarf (duergar) • faerie dragon • half-orc • halfling • horse (warhorse) • human (Calishite • Ffolk • Northmen) • ogre • snake • wood sprite • zombie
+
+camel • condor
+Locations
+Alaron • Black Oak Inn • Caer Allisynn • Caer Callidyrr • Caer Corwell • Callidyrr • Cantrev Kingsbay • Cantrev Lehigh • Corwell • Corwell Firth • Corwell Harbor • Dernall Forest • The Diving Dolphin • Doncastle • Druid's Gate (Doncastle) • Dwarvenhome • Freeman's Down • Gehenna • Grady • The Green Meadow • Gwynneth • Kingsbay • King's Gate (Doncastle) • Kressilacc • Llewellyn • Moonshae Isles • Myrloch Vale • The Old Sailor • The Raging Boar • Sea of Moonshae • The Silver Salmon • Strait of Alaron • Swanmay River • Trackless Sea • Whitefish Bay
+
+Amn • Anauroch • Snowdown • Tethyr • Thay
+Magic
+Items sword of Cymrych Hugh
+Spells invisibility to animals
+Materials
+diamond
+
+amber
+Organizations
+Bloodriders • Council of Seven • Scarlet Guard
+Religions
+Chauntea • Earthmother
+Vegetation
+grass • mold • moss • mistletoe • oak • pine
+
+ginyak weed
+Weapons
+arrow • bow • lance • shortsword
+Miscellaneous
+ale • anvil • backpack • beer • breeches • hammer • lamp • lantern • lute • mug • pouch • quiver • rope • saddle • scabbard • Song of Keren • spellbook • torch • wine
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Black unicorn
+
+Black unicorns were unicorns who had been corrupted with the blood of demons and other fiends. They were known to live in Thay.
+
+Description
+Black unicorns had coal-black fur and silky manes. Their eyes could be glossy black or burning red. Their distinctive spiraled horns were long and chased with silver. Unlike normal unicorns, they had the sharp teeth of a carnivore.
+
+Like regular unicorns, stallions and mares could be told apart in the stallions had small beards and mares were more slender; unlike regular unicorns, mares had the same heavier musculature.
+
+Behavior
+Black unicorns were crazed, hateful creatures that lived for violence. They delighted in causing pain and suffering and preferred to eat their meals alive. When wild, they enjoyed inflicting pain on anyone and everything around them for no reason other than the sheer joy of it. They especially hated horses and normal unicorns.
+
+However, they were also chaotic, fickle, and concerned for their own safety; it was not unknown for them to flee when the tide of battle turned against them.
+
+Abilities
+Black unicorns, like their more peaceful kin, had multiple magical abilities. Like all unicorns, they could not be magically charmed or held and were immune to poison and death spells. They continually radiated silence in a  radius around them. Three times per day, they could turn invisible, or radiate darkness for  around them. Additionally, if they successfully attacked an opponent with their horn, they could inflict light wounds up to three times each day. Once per day, they could teleport themselves and their riders without risk, but could only teleport while in darkness or shadow. Their teleportation ability did not necessarily affect their rider, however, and the person would sometimes be left behind to fend for herself.
+
+Black unicorns were highly intelligent and could learn to speak Common. Because of this, it was rumored that Thayan wizards were trying to teach them to cast spells with only verbal components.
+
+Additionally, black unicorns could see up to  in complete and even magical darkness. However, they disliked light.
+
+The horn of a black unicorn was poisonous; anyone struck by it risked being paralyzed for as long as three days before dying of heart failure. The horn could be used to make an extremely potent and fast-acting poison that could kill or paralyze the victim. It could also be ground up to make a highly potent contact poison.
+
+Ecology
+
+Black unicorns were normally solitary but could also be found in small family units dominated by the strongest male or female. They were unnatural carnivores that particularly enjoyed eating humans, elves, horses, and normal unicorns. When found in the wild, they lived in plains and forests. They were not territorial and wandered from place to place, often invisibly.
+
+Black unicorns were created by wizards in Thay, where they were kept as pets and as mounts in elite cavalry units. However, black unicorns would allow themselves to be ridden by any drow or human female of evil morality. They particularly enjoyed serving blackguards.
+
+The process of becoming a black unicorn rider was hazardous: the applicant had to petition the unicorn directly. If they were found acceptable, then the unicorn would serve; if not, then the unicorn would immediately attack.
+
+Usages
+The horn of a black unicorn, when powdered, could be used to create a potent contact poison. The horn could also be affixed to the head of a lance to create a dangerous weapon.
+
+History
+Black unicorns were created by Thayan wizards by mixing the blood of tanar'ri with that of normal unicorns.
+
+In the mid-to-late 14 century DR, black unicorns were known to be a mainstay of the Thayan military and served in it in large numbers. They were the most notorious element of the Thayan cavalry and were almost always ridden into battle by women. One prominent regiment of black unicorn riders were the Sisters of Cyric.
+
+In the, a contingent of black unicorn cavalry accompanied Zulkir Nevron's forces in the ill-fated Battle of the Gorge at the Gorge of Gauros.
+
+Notable Black Unicorns
+Omen of Despair, a unique unicorn corrupted by the necromantic powers of Szass Tam in the late 15 century DR.
+
+Appendix
+Appearances
+
+References
+
+de:Schwarze Einhörner
+
+---
+
 ## Blood War
 
 The Blood War was an ancient conflict that raged between the fiends of the Lower planes. The two main sides of the war were the demons, inhabitants of the evil plane of chaos of the Abyss; and devils, representing the equally evil but lawful realm of the Nine Hells. Neutral evil yugoloths played both sides against one another. The Blood War had raged on since the Age Before Ages, a dark time when the Prime Material Plane had not fully developed. The conflict was massive, spanning entire planes of reality and hosting an almost infinite number of fiends.
@@ -141,6 +586,1490 @@ Gallery
 References
 
 pt-br:Guerra do Sangue
+
+---
+
+## Blushing Mermaid
+
+The Blushing Mermaid was a famous lower-class tavern in the city of Baldur's Gate on the Sword Coast.
+
+Location
+
+It was located in the northeast part of the Lower City, in the neighborhood called Heapside, on Bindle Street.
+
+Description
+Structure
+The tavern was a long, low building that looked like it would collapse at any minute. It was surrounded on three sides by a tangle of stables, outbuildings, and enclosures. It was known to have at least four levels of cellars, and many more were said to exist. Stories told of hidden passages and connections to the city's sewer system.
+
+Interior
+
+The lobby had a high ceiling adorned with a crudely carved life-sized mermaid suspended over the reception desk. This nearly nude woman was adorned with more than a score of blackened and shriveled severed hands of patrons who did not pay their bills. There were rumors these hands could magically animate and aid the desk clerk in "handling" the city watch, intruders, or obnoxious guests. The tavern's other rooms had low ceilings and dim lighting; they were furnished with mismatched and much-abused furniture. All rented rooms were heavily lockable with iron or wooden bars, but patrons were still advised not to sleep too soundly, which was difficult to do as the establishment was usually noisy at all hours.
+
+Atmosphere
+The Mermaid was renowned up and down the Sword Coast as a meeting place for those who wished to conduct illicit business. It was a noisy place frequently beset by brawls, and patrons either went in heavily armed groups or studiously avoided provoking other patrons. A representative of virtually any illegal group operating in Baldur's Gate could usually be found somewhere on the premises, and the Mermaid was the best place to engage the services of any of them. About 1 sp was the usual fee to get a representative's attention, with an additional 1–5 gp (2 gp on average) fee to enter serious negotiations. Independent operators usually frequented the Elfsong Tavern rather than the Mermaid.
+
+Provender
+
+The Mermaid served a variety of drinks, including sea ale, stout, a light, golden lager from Mintarn, and several kinds of strong whiskey. No wines were available. Food came in two varieties: food ordered from nearby establishments and food prepared on the premises. The Mermaid had arrangements with several nearby eateries for the former. This food was excellent and more elaborate but tended to be lukewarm or cold by the time it got to a diner.
+
+Food
+Some of the more popular items on the menu included:
+Salted small-fish stew (rotting baitfish boiled with sea salt and seaweed)
+Bread with drippings (hard-crust nutbread rolls covered with a thick organ meat gravy)
+A variety of cheeses (sold by the handwheel)
+ Pork, thyme, and mushroom platters
+ Ale, bread, and fish (meal)
+Small pickled squid
+Whole roasted pigs
+Oysters, mussels, and other shellfish (sold by the heap, cooked or raw)
+Boiled flounder (house specialty)
+
+Prices
+Rooms for 2 gp per night (included stabling; long-term rates or bathing facilities, and room costs did not include food)
+Food for mounts an extra 3 cp per night
+A platter of fish, bread, and drippings for 2 cp
+Meat dishes for 3 cp per platter
+Shellfish for 1 gp per heap (several bushels)
+Ale for 3 cp per tankard
+Whiskey for 1 sp per tallglass
+
+Staff
+The owner(s) of the Mermaid were unknown and never seen. The staff was unobtrusive, swift, and extremely competent. Patrons took staff members lightly at great peril.
+
+History
+By the late 15 century DR, the Hlath patriar family co-owned the Blushing Mermaid as a silent partner.
+
+Rumors
+Many stories spoke about secret passages and hidden vaults under the Mermaid, but it was well-known that illicit goods and persons could be hidden quickly and well for a fee. Rumors stated there were facilities deep underground for holding persons, both willingly and unwillingly. For additional fees one could rent shackles and associated hardware, and even specialized equipment for restraining wizards.
+
+Within the Blushing Mermaid was an entrance to the Undercellar, a subterranean festhall beneath the city of Baldur's Gate.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Blackguard
+
+Blackguards, also referred to as antipaladins, were the quintessential champions of evil in Faerûn. They led armies of dread forces such as undead, fiends, and other extra-planar beings, often in the name of the more malevolent deities.
+
+Culture
+These individuals had the reputation as some of most reviled villains. They were just as equally feared as they were despised by the free folk of the Realms. They acted as killers, led as commanders, and even served as agents for more forces that were even more malignant than they.
+
+They accomplished their goals by any means necessary, whether through subterfuge, dark magic, anarchic destruction, or overwhelming force.
+
+Abilities
+Blackguards possessed a distinct auras of evil and despair, carrying blessings bestowed upon them by the forces of darkness. They were particularly adept at instilling fear in their foes.
+
+They were quite adept at readily uncovering good beings, and once per day, could smite them in battle. Blackguards could carry out smiting more often as the longer they carried out their dark deeds.
+
+The more venerated blackguards could turn away and take control of undead creatures they encountered.
+
+Members
+Among those individuals that ventured down the road of the blackguard were many who forewent more altruistic paths. It was not uncommon for fallen paladins and disgraced rangers to seek out a new life as one of these black knights.
+
+Due to their proficiency with shadow magic, Blackguards were often found in the service of the deity Shar.
+
+Notable Blackguards
+ Artor Morlin, the vampire lord of the Barony of Blood.
+Aribeth de Tylmarande, the right hand woman of Lord Nasher Alagondar who became a Blackguard in the service of Morag.
+ Gareth Cormaeril, the retired noble-born knight of House Cormaeril who secretly devoted himself to Cyric.
+ Imbrar I, Prince-Consort of Soneillon and the fallen king of Impiltur.
+ Krysus Vaant, a champion of Gargauth who was defeated by the planetar known as Resounding Justice.
+ Malkarion, the Sharran servant of the black dragon Despayr.
+ Scyllua Darkhope, the Castellan of Zhentil Keep and champion of the 14 century Zhentarim.
+ Slavin, the fiendish brown dragon that laired in the Altar of Scales.
+
+Appendix
+See Also
+ Blackguard spells
+ Oathbreaker
+
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Black pudding
+
+A black pudding was an ooze resembling a bubbling, heaping pile of thick black goo.
+
+Description
+The average black pudding measured 15 ft (4.6 m) across and 2 ft (0.6 m) thick and they weighed around 18,000 lb (8.2 mt). While most of these monsters were an inky black, some could be brown, grey, and even white. In underground locations, these creatures appeared as dark blobs.
+
+Some black puddings that managed to survive for a very long time came to be known as elder black puddings, they were significantly bigger than their younger counterparts and had almost impenetrable outer layer of aged material. These ancient black puddings were immune to all damage, unless the outer layers were dissolved first by a very specific concoction.
+
+Behavior
+These creatures were mindless underground-dwelling hunters and scavengers that wandered and absorbed whatever they found.
+A black pudding would position itself in a dungeon hallway like a shadow and wait for unsuspecting prey.
+
+Combat
+Black pudding attacked by grabbing, grappling, and constricting prey directly into their liquid-esque mass. Like other oozes, they also secreted a deadly acidic substance which strongly and quickly dissolved weapons, clothing, and organic tissue alike. When slashed at or pierced, the black pudding split into two smaller puddings, both of which would do the same; this continued until they were too small and weak to do so further. A black pudding would eat bone, metal, and wood leaving only stone behind.
+
+Ecology
+Like other oozes, black pudding desire warmth and sense their prey through movement. While the creatures seek living and breathing targets, they will feast on animal guts, slime, and mushrooms.
+
+Black puddings could be found inhabiting shrines and temples dedicated to Ghaunadaur, the drow deity of oozes. The worshipers of the deity cultivated alliances with black pudding for mutual defense.
+
+History
+Circa 1490 DR, the especially huge ancient Elder black pudding created a lair for itself in the Noxious Chasm just outside of Luskan that served as the city's sewer's exhaust. The significant age of the creature granted it an almost impenetrable crust of aged material making it almost invincible. The Elder has been disposed of using Relona's anti-pudding dissolving agent that dissolved its aged armor making it vulnerable.
+
+In 1492 DR, a black ooze could be found hiding on a statue in the Dungeon Level of Undermountain.
+
+Appendix
+
+See Also
+ Kartoeba
+ White pudding
+
+Gallery
+
+Appearances
+
+Further reading
+
+References
+
+Connections
+
+---
+
+## Black Road
+
+The Black Road was the trade route that ran through the great desert of Anauroch. It wound west from the ruins of Teshendale to Llorkh at the foot of the Graypeak Mountains.
+
+History
+The Black Road was built by the Zhentarim in the 1340s to 1360s as part of a larger trade network through the Anauroch.Ed Greenwood (November 1991). Anauroch. Edited by Karen S. Boomgarden. (TSR, Inc.). ISBN 1-56076-126-1. It included stops at artificial oases, including Vuerthyl.Paige Leitman, Ben Heisler (2016). The Black Road (DDAL5-02) (PDF). Edited by Claire Hoffman, Travis Woodall. D&D Adventurers League: Storm King's Thunder (Wizards of the Coast), pp. 1–45. Once the Black Road was completed, the rest of the network was slowly abandoned.Ed Greenwood, Sean K. Reynolds, Skip Williams, Rob Heinsoo (June 2001). Forgotten Realms Campaign Setting 3rd edition. (Wizards of the Coast). ISBN 0-7869-1836-5.
+
+The Black Road was lost to the Zhentarim sometime during the Shadovar attempt to rebuild Netheril from 1372 DR, presumably during the Shadowbane War, until Shadovar fell in the late 1480s. The Zhentarim regained control of it after the fall.Christopher Perkins, et al. (September 2016). Storm King's Thunder. Edited by Kim Mohan, Michele Carter. (Wizards of the Coast). ISBN 978-0-7869-6600-4.
+
+Appendix
+
+See Also
+ The Long Road to Riches, a similar Zhent trade route that instead passed south around the Anauroch on its way to the Sword Coast.
+
+Appearances
+Adventures
+ The Black Road
+
+References
+
+FR:Route noire
+
+---
+
+## Black dragon
+
+Black dragons, also known as skull dragons, were far and away the most vile tempered and cruel of all chromatic dragons. They were solitary creatures that lived in the swamps and marshlands all around Toril, from the Flooded Forest in Sembia to the jungles of Chult.
+
+Description
+
+Black dragons appeared abnormally slender in comparison to other chromatic dragons—wiry, but not gaunt. Physically, they were most distinguished by their horns, which protruded from the sides of their heads and wrapped around, projecting forward. A large frill adorned the upper part of the neck. They smelled like rotting vegetation and foul water. A black dragon grew up to a maximum size of  tall,  in length, with a wingspan of . They weighed up to .
+
+Personality
+Solitary and extremely territorial in their nature, black dragons would seldom form clans, opting to do so only when they lived in the most hazardous of environments or when faced with a danger that could wipe out large swaths of their population.
+
+Combat
+Black dragons preferred ambushes to straightforward fighting.
+
+Breath Weapon
+
+Black dragons breathed a stream of acid.
+
+Ecology
+Lair
+Black dragons lived in swamps, jungles and fetid marshlands. They were cunning creatures who lived to inspire fear and rule by intimidation. The black, glossy scales of black dragons added to their camouflage within swamp lands. They preferred to ambush their targets, using darkness or water as their cover. They were excellent swimmers and often made their lairs in submerged caves or underground chambers near swamps or murky ponds. Their lairs always had two entrances: one underwater through the adjacent swamp or pond, and one above-ground, disguised amidst the undergrowth.
+
+Parenting & Development
+Female dragons took the lead when it came to breeding, choosing their mate largely based on the size of the hoard of prospective males. Because of this, male black dragons would often brag about their accumulated wealth to communicative creatures or others of their own kind, in the hopes that rumors of their hoard would spread to any females in the area that were looking to mate. When two or more females selected the same male as their partner, they would fight for dominance high in the air above the lair of the male, allowing him to gaze upon his future mate's victory in admiration.
+
+Black dragons were not noted as good parents, relying more upon disguise and hiding to protect their eggs than upon guarding them personally. Black dragon eggs must be submerged in strong acid while growing, which helped protect the dragon as well. Black dragons would only protect their young so long as that responsibility didn't threaten their own life. If they had to choose between saving their own life or those of their clutch or spawn, they would most certainly choose the former; though they would assuredly seek revenge afterwards.
+
+Diet
+A black dragon's diet consisted of fish, mollusks, aquatic critters and some red meat from terrestrial animals.
+
+Regions
+The skies over the southwestern Bay of Chessenta and southern Chondalwood have been the source of multiple sightings of black dragons. Reports from the jungles of Chult of dense, multi-layered tropical forest complete with its own ecosystem, were highlighted with tales of black dragons living within the canopy.
+
+Cultural Significance
+The iconography of the Purple Dragon Knights of Cormyr stemmed from the legend of the great black dragon Thauglor, who once dominated the area upon which the kingdom was built.
+
+Black dragons sometimes served the dark Chultan demigod Eshowdow, and were seen as good omens by his followers.
+
+Trivia
+According to Fizban the Fabulous, black dragons took the longest time for Tiamat to craft and create.
+
+Notable Black Dragons
+
+ Alglaudyx, a former black dragon that achieved lichdom before being destroyed.
+ Amnemis, who allied herself with the Cult of the Dragon and dwelled within the Well of Dragons.
+ Arlauthra, known as "Manytalons".
+ Arngalor, a black wyrm who lived in a cave near Arkhen Falls.
+ Boglarmanthor, also known as "Acridtooth", who lived in the Marsh of Deception.
+ Chardansearavitriol, also known as "Ebondeath."
+ Daurgothoth, also known as “The Creeping Doom”, who embraced undeath and hunted the world as a dracolich.
+ Despayr, son of Skurge.
+ Hethcypressarvil, a dracolich formally known as Cypress the Black, finally destroyed in 1362 DR.
+ Insithryllax an ally of the red wizard Marek Rymüt.
+ Kazmil-urshula-kelloakizilian, also known as "Urshula the Black", "The Black Beast of Vaasa" and "The Beast of the Bog".
+ Maelestor Rex, the ancient dragon of the High Moor.
+ Mergandevinasander, who lived on the Chultan peninsula.
+ Rakor, a dragon who dealt with the Cult of the Dragon and sought the helmet of disjunction.
+ Ralas, who lived in the swamp of Karatorn.
+ Shift, of the Farsea Marshes in Cormyr.
+ Sjachmalsvir, also known as "Thoss Fyurnen" and "Sun Swallower" who was the self-proclaimed Chosen of Talona.
+ Skurge, who dominated much of the tunlands.
+ Thauglorimorgorus, also known as "Thauglor", "Black Doom" and "King of the Forest Country"
+ Tyra, Daughter of Skurge
+ Ueurwen, who lived in the swamp of Karatorn with her mate Ralas.
+ Voaraghamanthar, also known as “The Black Death” and "Weszlum". He shared the title of "Wyrm of the Mere" with his twin sibling Waervaerendor.
+ Waervaerendor, also known as "Wuzlor" and who shared the title  of "Wyrm of the Mere" with his twin sibling Voaraghamanthar. Also the self-proclaimed "Rapacious Raider".
+ Zarlandris, who died in  when he attacked Highmoon.
+
+Appendix
+
+Appearances
+
+Gallery
+
+External Links
+ OGL stats
+
+References
+
+Connections
+
+de:Schwarze Drachen
+
+---
+
+## Blue dragon
+
+Blue dragons, referred to by sages as draco electricus and also known as storm dragons,> were a breed of chromatic true dragon. Their breath weapon was a line of lightning or a large electrical discharge.
+
+Description
+
+Blue dragons were physically distinguished by the single large horn protruding from their heads and also by their ears, which were rather large and frilled. The neck was short and broad. The tail was thick and flat. They smelled like electricity or sand.
+
+A dragon egg could be identified as belonging to a blue by the web of thin blue lines seen when held in front of an intense white light.
+
+Personality
+They were orderly creatures and were unusual for chromatic dragons in that they maintained fairly well-ordered, hierarchical societies.
+
+Combat
+They were also extremely adept at burrowing in sand, and often lie in wait just below the surface of the desert for prey. When they were so burrowed, their large horns could easily be mistaken for pointed desert rocks.
+
+Abilities
+Blue dragons used a shocking burst of lightning.
+
+Society
+Lairs
+Blue dragons were native to arid wastelands and deserts. They made their lairs in underground caves; easily accessible to the dragons, as they could burrow through the ground. These dragons would fly above their territory, using the bleak landscape and its sparse terrain features as their best chance of spotting opponents.
+
+Reproduction
+
+Despite their evil nature, blue dragons were actually excellent parents to their young, and would rarely leave their eggs unattended.
+
+Notable Blue dragons
+ Abazigal, a Bhaalspawn dragon or half-dragon that was a member of "The Five" during the Year of the Gauntlet, 1369 DR.
+ Alasklerbanbastos, also known as "The Great Bone Wyrm", a dracolich ruling Threskel
+ Anaxaster and Chezzaran, offspring of Iymrith, living in Ascore
+ Araugauthos, also known as "The Bluetalon", imprisoned in the ruins of Undermountain
+ Arharzel, the offspring of Roraurim and Faenphaele
+ Clytemorrenestrix, also known as "Nestrix" and "The Terror of the Calim", who was turned into a human during the Spellplague
+ Eshaedra, the mate of Nahaunglaroth.
+ Faenphaele, Roraurim's mate.
+ Gloriankithsanus
+ Idrizraele, Kizilpazar's mate.
+ Iryklathagra, also known as "Sharpfangs" who plagued the Lands of Intrigue.
+ Iymrith, also known as "The Doom of the Desert" in Anauroch.
+ Kizilpazar, patriarch of the Morueme clan, from  to .
+ Krashos Morueme, who professed to be "Quevven Jusztiirn", a venerable drow mage.
+ Lennithon, an participant in the raid on Greenest and associate of the Cult of the Dragon in the 1480s DR.
+ Maldraedior
+ Nahaunglaroth, co-leader of the Blood of Morueme since .
+ Nystalancer, transformed into a human by the archmage Arcturia in the Arcturiadoom level of Undermountain.
+ Olothontor, also known as "The Minstrel Wyrm", whose lair was not far from Waterdeep.
+ Roraurim, co-leader of the Blood of Morueme since
+ Saluuknir, also known as "The Blue Vishap", trapped within the Urn of the Blue Vishap
+ Sapphiraktar the Blue, an ancient male blue dracolich.
+ Venasorrn, transformed into a human by the archmage Arcturia in the Arcturiadoom level of Undermountain.
+ Anwir Dupretiskava, an ancient blue dragon and the disguised head of state of Var the Golden.
+
+Appendix
+
+Appearances
+
+Gallery
+
+Further Reading
+
+References
+
+Connections
+
+de:Blaue Drachen
+
+---
+
+## Blue Griffon
+
+The Blue Griffon was an inn in Soubar around 1374 DR.
+
+Appendix
+
+References
+
+---
+
+## Blackrazor
+
+Blackrazor was a sword with powerful enchantments but an evil nature.
+
+Description
+The sword radiated evil and gave its wielder the sense that perhaps it was really controlling them. While some instances were longswords, others were greatswords.
+
+Powers
+Blackrazor was a +3 sword. When wielded, it bestowed regeneration and immunity to charm and fear magic. It had a chance with each hit to drain the target's life force and convert it into healing energy and a temporary boost of speed and strength for the wielder.
+History
+Sometime between 1479 DR and 1492 DR, a bald wizard clad in blue robes and a strange accent, possibly that of another world, entered the Yawning Portal and spoke of the fabled White Plume Mountain of Oerth. There he a told a tale of three powerful weapons that had been spirited away from a city into its depths and how a group of adventurers dared to recover them. In time, this planar story would be one of many spread across the Sword Coast.The framing story of Tales from the Yawning Portal is undated but is necessarily set between 1479 DR (when Durnan the Sixth manages the Yawning Portal) and 1492 DR (when the original Durnan manages the inn again in Waterdeep: Dragon Heist and Waterdeep: Dungeon of the Mad Mage. One of these three weapons was Blackrazor.
+
+According to some sources, following the recovery of this Blackrazor that had been taken by Keraptis, the blade had somehow made its way to the city of Baldur's Gate on the Prime Material world of Toril.
+
+When Abdel Adrian entered the pocket plane of Bhaal's Throne of Blood for the first time they faced a number of trials. During the "test of greed" Abdel could turn Blackrazor over to an enslaved genie, or keep the blade and use it to slay him.
+
+Appendix
+Notes
+
+Background
+The sword Blackrazor is most likely based on the sword of the same name from the 1979 adventure module White Plume Mountain. This sword was an intelligent and evil blade that encouraged its wielder to kill indiscriminately, eagerly devouring the souls of those it slew. However, despite some similarities, there are several differences, and it is not clear the extent to which they are meant to be the same sword. Furthermore, White Plume Mountain is set in the Greyhawk setting, not the Forgotten Realms.
+
+The original Blackrazor is in turn closely based on the sword Stormbringer from the Elric stories by Michael Moorcock.
+Appearances
+
+Gallery
+
+External links
+
+References
+
+de:Schwarzschnitter
+
+---
+
+## Blooding
+
+The Blooding was a drow coming-of-age ritual in which a maturing drow must hunt down and kill an intelligent or dangerous creature from the surface. Much of the time the ritual was fulfilled during a surface raid, the preferred target being surface elves, but captives may sometimes be placed in the Underdark for the purposes of slaughter.
+
+References
+
+---
+
+## Black Lion tribe
+
+The Black Lion tribe was a group of Uthgardt barbarians from the Moonlands region of the Silver Marches. Unlike most of their fellow tribes, the Black Lions abandoned their typical lifestyle of nomadic hunting and raiding to establish a village around near their ancestral mound in Beorunna's Well.
+
+Culture
+Forsaking their barbaric heritage, their agricultural advancement allowed the tribe to become a source of trade in the region. It was within the Black Lion community of huts and long houses the tribe found some contentment living as farmers and herders of livestock. They no longer faced violence and warfare on a regular basis.
+
+In addition to forsaking the old ways of the north, the Black Lions no longer revered their totem animal or Uthgar. Many clerics of the tribe took up worship of Helm or the gods of the Triad.
+
+History
+In the mid-14 century DR the Black Lions had tired of constant fighting and sought less-violent lives. Under the leadership of Chief Andar Heartwood, they changed their lifestyle from migratory hunters to that of loggers, trappers and tradesmen. They opened trade with the cities Quaervarr and Sundabar to strengthen their hold as a regional power.
+
+In the, Chief Claw led warriors of the tribe in the fight against the phaerimm that escaped from beyond the Sharn Wall. The Black Lion barbarians joined other fighting forces from across the Silver Marches and beyond to form the allied Army of the North.
+
+By the late 15 century DR, the Black Lion tribe often resorted to violent raids and pillaging. They targeted the smaller, weaker communities of the Silver Marches and the Druarwood.
+
+Notable Members
+ Stellok Kolraavi, Great Chief of the late 15 century
+
+Appendix
+
+Appearances
+Novels
+ The Siege
+References
+
+Connections
+
+---
+
+## Blacksilver
+
+Blacksilver was a noble family of Cormyr.
+
+Members
+ Maethe Blacksilver, born in 1335 DR, married Duke Bhereu
+ Lord Danthalus Blacksilver, a prominent member of the late 1400s DR
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Bleth
+
+Bleth was a noble family of Cormyr.
+
+History
+In the 1360s DR, the Bleth family was one of the more powerful and wealthier noble families of Cormyr, thanks to its control of the Seven Suns Trading Coster, one of the largest merchant groups in the kingdom. The family was headed by Lord Gruen Bleth.
+
+In the late 1360s, Lord Gruen and Lady Amarsa Bleth were guests of Lord Partic Thistle at his manor, Thistleflame Keep, on the occasion of King Azoun IV's birthday.
+
+The house was exiled in 1369 DR as a result of its involvement in the Abraxus affair.
+
+After the Fire Knives were driven from Cormyr, it was revealed that a number of members of the Bleth house were involved with the Fire Knives, causing the family to be exiled in 1359 DR.
+
+Activities
+In the 1360s, the Bleth family had little involvement in the affairs of Cormyr's Royal Court. Instead, the mercantile Bleths focused on expanding their business and dominating the Cormyrean finances. They were successful and wielded great economic power.
+
+Base
+The family was based at the Bleth Estate in the city of Suzail, Cormyr. It was situated beyond the Royal Gardens, near Castle Obarskyr.
+
+Relationships
+The main rival to the Bleths was the Rowanmantle family. There was a long-lasting but minor feud between them, still ongoing in the 1360s DR. The Bleths were also held in poor regard by the Roaringhorn family. It had been this way for centuries by the 14th century, and nobody remembered why.
+
+Members
+ Lord Gruen Bleth, the family head in 1367 DR.
+ Lady Amarsa Bleth
+ Faern Bleth, older brother to Aunadar
+ Dlothtar Bleth, older brother to Aunadar
+ Arphoind Bleth, leader of the Bleths, a discontented exile plotting against the crown from Westgate
+ Jaundamicar Bleth, leader of the Bleths in 1479 DR and First Lord of the city of Westgate
+ Aunadar Bleth
+ Maerlyn Bleth
+ Mondar Bleth, initial Bleth settler before the Kingdom formed
+ Minda Obarskyr, originally Minda Bleth, Mondar's sister, eventually married Ondeth Obarskyr.
+ Arphoind Bleth, youngest son of Mondar
+ Kallimar Bleth
+ Dintheron Bleth, loyal to King Duar
+ Althea Bleth, Marchioness in the early 14 century DR and the author of One Old Crone's Simperings: Seventy Seasons at Court.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Black Wolf
+
+Black Wolf by Dave Gross is the fourth book of the Sembia: Gateway to the Realms series.
+
+Summary
+In the month of Hammer of 1371 DR, Darrow, a carriage driver in Selgaunt working for Radu Malveen, encounters the werewolf Rusk, a cleric of Malar, who forces Darrow to bring him to Radu. Darrow witnesses a meeting between Rusk, Radu, and Stannis Malveen, an aquatic vampire who carries a burning hatred for House Uskevren. They discuss Rusk’s failed attempt to kill Talbot Uskevren, which cost the werewolf an arm. Radu disapproves of the plot, worrying it will endanger Laskar and Pietro, their brothers. Still, Rusk demands scrolls from Stannis, which he calls the Black Wolf scrolls. Radu intends to kill Darrow, but Stannis takes him as a servant.
+
+Meanwhile, Talbot discusses his lycanthropy with Feena Archwood and her mother Maleva, both clerics of Selûne, as well as his servant Eckhart and his friend Chaney Foxmantle. Talbot overhears them arguing about if he is the “Black Wolf.”
+
+As time passes, Darriow sees prisoners being kept in the ruined House Malveen as unwilling sparring partners for Radu. One of the prisoners is a woman named Maelin. Stannis tells Darrow how House Malveen fell due to his mother Velanna, associating with pirates, and that Thamalon Uskevren refused to help Velanna. Velanna called on a vampire, who killed and converted Stannis. Later, Radu found them, slaying the vampire to free Stannis but keeping him hidden in the River Hall, the ruined former estate of the Malveen.
+
+In Alturiak, Talbot meets with Thazienne Uskevren, still wounded after shadows attacked Stormweather Towers. He then begins to research werewolves, Selune, and Malar, and in Tarsakh, sets off for Yhaunn to visit Dhauna Myritar at Moonshadow Hall. Chaney accompanies him after Talbot saves him from some criminals. Talbot realizes his friend has become entangled with crime, but doesn’t press for details. Dhauna tells Talbot that the Black Wolf is a heresy of the church of Selune but doesn’t explain more.
+
+Meanwhile, Darrow accompanies Rusk and Radu into the Arch Wood to meet with Rusk’s pack. Talbot continues to perform at Madame Quickly’s theater, the Wide Realms, alongside fellow actors Mallion, Sivana, and Ennis. Darrow is chosen as the victim of a High Hunt by Rusk’s pack and the People of the Black Blood, as Radu still considered him a loose end.
+
+Feena begins teaching Talbot to control his transformation into a vampire. Talbot begins taking his sword lessons more seriously, but is forced to leave after accidentally injuring another student. He then discovers the other actors have learned of his lycanthropy from Quickly. In the Arch Wood, Darrow is converted into a werewolf by Rusk after being caught during the hunt. He meets the rest of the pack, the strongest of which include Sorcia, Ronan, Karneck, and Brigid. Darrow sees Rusk meet with Maleva, who is protecting the nearby villagers from his pack. Back at the Wide Realms, the other actors ask Talbot for sword training, and he agrees. He encounters a masked figure who battles him while asking for information. Talbot catches the figure, but releases her when he realizes she is Shamur Uskevren, his mother, wondering why he has distanced himself from the rest of the family.
+
+In winter of 1372 DR, Darrow overhears Rusk commune with Malar, learning that he has the spirit of the Black Wolf, but due to his missing arm, needs Talbot’s body as vessel. Rusk and his pack kill Maleva and move into Selgaunt. Darrow, Sorcia, Ronan, Karneck, and Brigid infiltrate the Wide Realms and provoke Talbot with various taunts, including the fact that Rusk killed Maleva. Talbot turns into wolf-form, mortally wounding Ronan and exposing his werewolf state. Talbot is arrested, and Darrow overhears Radu force Eckhart to give up the money for bail. Darrow realizes Maelin is Eckhart’s daughter and has been kept as a hostage. Radu nearly kills Eckhart, but Feena arrives and saves him. She learns of the plot and breaks Talbot out, revealing herself to be a werewolf as well, and the two escape the city and make love.
+
+Darrow tries to negotiate for Maelin’s safety, having formed some attachment to her, but ends up turning Stannis and the werewolves against him. Talbot tells Feena of Maleva’s death, and he realizes that Rusk is her father. They theorize that the Black Wolf is perhaps a state of being, control over a werewolf form, not a prophesied individual. When sneaking back into the city, Talbot encounters Larajin. After Thamalon scolded him for speaking to her, Tabot assumed she was his mistress, but Larajin is infuriated and explains that she is actually his daughter. Talbot agrees to keep the truth secret for now.
+
+Darrow joins Talbot and Feena at the Wide Realms, where they have gathered along with Quickly, Chaney, and the other actors, armed with silvered weapons. The pack attacks. During the battle, Quickly and Rusk are killed. Darrow realizes that Rusk manipulated him to warn Talbot, and that Rusk wanted to be killed from the start. Rusk’s spirit tries to possess Talbot, but Feena’s magic shields him, and he is dissolved in moonlight. The pack bows to Talbot, who orders them to leave the city.
+
+Talbot, Feena, Darrow, and Chaney set off for the Malveen estate to confront Stannis and Radu. Chaney is killed in the battle, and both Malveen brothers are wounded. When Stannis begins to blame Pietro and Laskar for the plot, Radu kills Stannis with an enchanted dagger, causing a magical explosion that kills both Malveens. The group rescue Maelin.
+
+Stannis is arrested and turned over to the church of Selune. Eckhart is reunited with his daughter, but Talbot fires her. Talbot takes ownership of the Wide Realms and moves back into Stormweather Towers, reuniting with his family. Finally, Talbot realizes he cannot keep his relationship with Feena a secret from his family for long, and makes her a proposition.
+
+Appendix
+Gallery
+
+Further Reading
+
+References
+
+---
+
+## Black Raven tribe
+
+The Black Raven tribe was a particularly conservative band of the Uthgardt barbarians who resided at Raven Rock. Their territory included foothills west of Mirabar, the Ice Lakes and an area west of the Frozenfar.
+
+They were considered among the most traditional and hostile of the Uthgardt tribes and held on to their heritage of pillaging and violence.
+
+Activities
+Black Raven barbarians rode giant ravens into battle, using them to carry out aerial raids. They regularly assaulted travelers, such as merchants and clerics, who were passing through the Northern Means and the Blackford Road.
+
+They used corpses of those they slew, as well as the goods they pilfered, as offerings to their ancestors.
+
+Base of Operations
+Black Ravens' ancestral mound was Raven Rock, a holy site they shared with the Gray Wolf tribe. During the 14 century DR they maintained a small camp on the southernmost peak of the Frost Hills.
+
+Notable Members
+ Pureheartman, shaman of the tribe circa 1370 DR
+ Wulphgehar,  Pureheartman's assistant
+
+History
+Circa 1340 DR, the barbarians of the north were targeted for Tyranthraxus, The Flamed One, to be taken over or used as allies for his army. The Chief of the Black Raven Tribe allied with the Flamed One after he was promised to be put in charge of all the barbarian tribes under Tyranthraxus's rulership.
+
+During Lord Nasher's younger days, before he assumed the throne of Neverwinter in 1329 DR, his adventuring group, including Dumal Erard, Ophala Cheldarstorn, and Kurth, rescued the Black Raven Tribe from an evil white dragon.
+
+Appendix
+Appearances
+
+Adventures
+
+Ruins of Adventure
+Novels
+Son of Thunder
+Video Games
+Icewind Dale II • Neverwinter Nights
+
+References
+
+Connections
+
+---
+
+## Bleached Bones Flats
+
+The Bleached Bones Flats was a land area in the Dragon Coast. The Bleached Bones Flats were all the land between Teziir and Westgate.
+
+ References
+
+---
+
+## Bloodstone Pass (adventure)
+
+This article is about the adventure module. For the region, see Bloodstone Pass.
+
+Bloodstone Pass is a 1st-edition Advanced Dungeons & Dragons adventure that was later retconned into the Forgotten Realms. It was the first module to feature the Battlesystem tabletop rules.
+
+Description
+Bloodstone Pass is an adventure with both a role-playing scenario and Battlesystem combat, in which the town of Bloodstone Pass hires the player characters to organize a defense against an army of evil humanoid monsters. The army also included human renegades led by a powerful assassin. Bloodstone Pass introduced the character of Gareth Dragonsbane and the Order of the Golden Cup, and was later expanded on in the H series of adventure modules.
+
+Contents
+ Introduction
+ Chapter 1: The Circus of Doctor Trundles
+ Chapter 2: The Road to Bloodstone
+ Chapter 3: The Village of Bloodstone
+ Chapter 4: Preparations for War
+ Chapter 5: The Bloodstone War
+ Chapter 6: The War Ends
+ Maps
+
+Index
+
+Characters
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Creatures
+ •  •  •   • dragon  •  •  •  •  •  •  •   •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Locations
+Bodies of Water  •
+Buildings  •
+Mountains
+Nations   •
+Settlements  •
+Valleys
+
+ •  •
+
+Magic
+Items  •  •  •  •  •  •  •
+Potions  •  •
+Spells  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •
+
+Organizations
+
+Religions
+ •
+
+Miscellaneous
+Books
+Events
+
+Food & Drinks  •  •  •  •  •  •  •  •
+Items  •  •  •  •  •  •
+Plants
+Weapons
+
+Behind the Scenes
+Because the adventure was not originally written as set in the Forgotten Realms setting, certain elements do not fit with later canon, such as Tanaroo calling the circus "the greatest show on Oerth", or mention of a sea route into Vaasa.
+
+Gallery
+
+Credits
+ Design & Editing: Michael Dobson, Douglas Niles
+ Graphic Design: John C. Meyers
+ Cover Art: Jeff Easley
+ 3-D Adventure Fold-Up Figures: Dennis and Marsha Kauth
+ Counter Art: Dave Sutherland
+ Cartography: Dave LaForce
+ Typography: Betty Elmore
+Appendix
+Notes
+
+See Also
+Images from Bloodstone Pass
+Further Reading
+
+External Links
+
+H series modules at The Acaeum
+
+References
+
+---
+
+## Blacktalons
+
+The Blacktalons Mercenary Company was a mercenary force based out of Iriaebor in the Western Heartlands in the mid–14 century DR.
+
+History
+Formed some time in the early 1350s DR, the Blacktalons were merely a gang of bandits before Taurgosz "Tenhammer" Khosann attained leadership of the gang (along with his nickname) by slaying ten men with a single swing of his warhammer. As the leader, he remade them into a legal mercenary company.
+
+After less than a decade, it was well established by the early 1360s DR.
+
+Organization
+The Blacktalons kept a standing army of 120 members, both men and women, comprising eighty veteran fighters and twenty recent recruits, as well as twenty rogues of various levels of experience who were skilled as scouts or bandits.
+
+Leadership
+While he commanded as an absolute dictator, "Tenhammer" had a small council of trusted aides who advised him.
+
+Symbol
+The company's symbol was a black claw with three talons on a blood-red field. This was shown on a member's breast or helmet, and never on a banner.
+
+Contracts
+They predominantly took contracts for guarding caravans, but could also be hired to raid caravans for a higher price. Following their bandit past, the Blacktalons also occasionally raided unguarded caravans off their own backs in order to encourage their owners to seek their protection. In addition, they were sometimes hired to operate as an irregular cavalry.
+
+Although the Blacktalons were fairly unscrupulous, they never reneged on a contract. However, if cheated, they sought revenge. They also defended Iriaebor when trouble broke out, not because of any goodness in their hearts but to ensure good relations with the city's government.
+
+They generally worked the trade routes around Iriaebor.
+
+Cost
+The Blacktalons charged 1 gold piece per person per day for guard duty. A raid would cost 300 gold pieces, in advance.
+
+Base of Operations
+They were based out of Blacktalon Citadel in Iriaebor.
+
+Equipment
+The Blacktalons were armed with a range of weaponry and armors. They had a habit of using mud or paint to darken their armor, in order that they not stand out.
+
+They had their own mounts, typically medium warhorses. They preferred these, but would choose mounts appropriate to a caravan they were protecting. Thanks to the fine horses of Iriaebor, the Blacktalons enjoyed quality mounts.
+
+Relationships
+Although they rarely conflicted with other mercenary companies, the Blacktalons had earned the ire of the Mindulgulph Mercenary Company and the Sirocco, as well as a number of adventuring companies.
+
+Members
+ Taurgosz Khosann
+
+Appendix
+References
+
+---
+
+## Blue Sigil
+
+The Blue Sigil was a mercenary company composed of ogres that was based in Mog's Keep, near Longsaddle and operated throughout the North. Around 1358 DR, they were led by an ogre named Mog the Fist, whose keep bore his name.
+
+History
+The Blue Sigil was founded by Thorog, after his tribe had been repeatedly raided by adventures, brandishing unique symbols while being paid to kill ogres. He reasoned that if others could be paid to kill ogres, his tribe could turn the table and return in kind. Finding work was difficult at first, but the company garnered a reputation of reliability.
+
+Recruitment
+Thorog and his successors (of which Mog was the eighth) accepted lone ogres into their group, provided they passed an initiation. This had led to a fairly large population within the group.
+
+Members
+ Thorog, founder of the Blue Sigil
+ Mog, the company's leader in 1358 DR
+
+References
+
+---
+
+## Blackalbuck's Swap Shop
+
+Blackalbuck's Swap Shop was a store and a trading post run by none other than the Harper Ulblyn Blackalbuck in Melvaunt.
+
+Activities
+With a large outdoor terrace for adventurers and traders to display their wares, the Swap Shop is a great place to trade equipment or information to others.
+
+Appendix
+References
+
+---
+
+## Blaerla Roaringhorn
+
+Blaerla Roaringhorn was a lady-in-waiting to princess Alusair Obarskyr in Suzail, the capital of Cormyr, circa the .
+
+Description
+Blaerla had sparkling brown eyes, brown hair, and bright red lips. She blushed noticeably when she got excited. Her figure fluctuated from pleasantly plump to obese, but was slightly shorter and thinner than her friend Darlutheene Ambershields.
+
+Personality
+Blaerla was a snoop and a tell-all gossiper, especially if it involved mystery, lies, or scandal. A tendency to be judgemental only increased the embellishment of the gossip she passed on, and she usually returned any slight with spite.
+
+Activities
+When not attending the princess, she was the caretaker of three rooms in the Royal Court: the Western Robing Room, the Room of the Ruby Archers, and Lord Valdasher's Solar. These rooms were her base of operations and headquarters for disseminating juicy gossip over mint wine or a white frothy.
+
+Relationships
+Blaerla did not have any close friends other than "Darling Dutheene" Ambershields. Those that found her antics amusing or mostly harmless nicknamed her "the Roarer", but courtiers that suffered from her machinations or just couldn't tolerate her breathless rumor-mongering called her "the Shrieking Horn" or "the Tongue That Never Sleeps".
+
+History
+She was born in the, and lived in a tallhouse with three balonies on the Promenade south of the Royal Court, seven doors west of the Dragon's Jaws tavern.
+
+She once related a somewhat salacious bit of gossip about the Royal Magician, Vangerdahast, directly to him while he was shrouded by illusion to look like someone else. The Court Wizard was not amused and the only thing that prevented her from being dismissed was her family name.
+
+Appendix
+References
+
+---
+
+## Blundebel Eldroon
+
+Blundebel Eldroon was a member of the minor noble house of Eldroon in Marsember.
+
+ History
+In the Year of the Gauntlet, 1369 DR, Blundebel tried to make King Azoun IV of Cormyr sign unknown documents while he was on his deathbead as a result of the abraxus affair.
+
+References
+
+---
+
+## Black Bottom
+
+Black Bottom was an ale with a rough-edged, smoky taste.
+
+Availability
+It was served in Cormyr, sometimes alongside hot sausage rolls with Silver Dragon sauce.
+
+Appendix
+Appearances
+Novels
+Cormyr: A Novel
+References
+
+---
+
+## Blue quartz
+
+Blue quartz was an ornamental stone found in the Realms.
+
+Description
+This gem-quality variety of quartz was pale blue and flawlessly transparent. It was rare to find sizeable specimens, but fist-sized and larger gems were known. A typical stone had a base value of 10 gp.
+
+Powers
+Large blue quartz crystals were the preferred ingredient to produce a gem of seeing, especially in ancient times. More modern uses include being a material component in casting scrying spells and, when properly sliced, prepared, and enchanted, as lenses for the various magical eyes, such as eyes of charming, eyes of the eagle, and eyes of minute seeing.
+
+Reputation
+Blue quartz was a common stone among the drow, a gem worn by drow of average station.
+
+Appendix
+See Also
+ Scrying
+External Links
+
+References
+
+---
+
+## Bledryn Scoril
+
+Bledryn Scoril was a member of the Scoril noble house of Cormyr, as well as the Crown's representative to, and Lord of, Marsember, having taken over the role from Ildool. He was the local Herald, Grand Marsember, and acted as the registrar of births, deaths, and marriages, as well as the Crown's witness to sentencing, contracts, treaties, and the like.
+
+Appendix
+
+Appearances
+Adventures
+Dungeon #113, "Practical Magic"
+References
+
+---
+
+## Bly Ruldegost
+
+Lord Bly Ruldegost was a proud and honorable member of the Knights of the Shield and the regent for the infant heir of House Ruldegost, circa 1368 DR.
+
+Activities
+While Ruldegost attempted to recruit other Waterdhavian nobles to his order, he did not believe in instituting a Knight of the Shield within the ranks of the Lords of Waterdeep, which put him at odds with his superiors.
+
+Lord Bly was the regent for his young nephew, Detan. He spent quite a lot of time in Riatavin representing the Knights of the Shield and his family's co-ownership of the Thousandheads Trading Coster.
+
+He supported the creation of a new duchy in eastern Amn, based in Riatavin, to be headed by Lord Mundal Krimmevol, but desired Lord Mundal to become a member of the Knights and give assurance of increased trade links between Riatavin and the rest of Amn to the west. At the end of the, Lord Bly assisted in negotiating support for the creation of the new duchy in exchange for gathering support from several noble families for Lord Pehllus Tanislove's bid to become the new king of Amn.
+
+Appendix
+References
+
+---
+
+## Blood Riders
+
+The Blood Riders were an organization of giant-killers that originated in the Hartsvale.
+
+Activities
+The Blood Riders possessed a large stable of war horses that they used to patrol the areas in which they operated. When not out patrolling or hunting they typically trained for battle, maintained their armaments, and cared for their horses.
+
+Anyone who joined the Blood Riders was branded on their right arm with the giant rune for death.
+
+History
+By 1366 DR the group's activity had largely died down and was being kept alive by a few stalwart rangers .
+
+By the late 15 century the organization reformed due to increased giant activity throughout the Sword Coast. By that point they were said to have gone centuries without killing any giants. The organization's bloodthirsty second-in-command at the time, Cathica Lygia, led a group of their most zealous members into the Ice Spires in secret and kidnapped the frost giant Burleigh Thurfurst, a member of the region's tribe Gorik Vader.
+
+Cathica sought to incite war with the area's giants at any cost. Thus, when she returned to camp she spun a tall tale to the rest of the organization, claiming that it was the giants who broke their unspoken peace with Hartsvale by attacking them whilst they were on a routine patrol of the Cold Woods. She urged their leader, Scarn Mikel, to execute the giant as a show of strength. However, Scarn was reluctant to do this as he believed the giant could be used as a bargaining chip should his tribe attack them.
+
+Relationships
+The King of Hartsvale in the late 15 century considered them a danger to his entire kingdom, as he highly prioritized maintaining peace with the local giants, but lacked the resources to force them into disbanding. This sentiment of disdain was shared by major organizations with interest in the area such as the Order of the Gauntlet, the Lords' Alliance, and the Zhentarim.
+
+Areas of Activity
+The Blood Riders operated in the Cold Woods, though they had no distinct base of operations as they nomadically moved their campsite from one location to another. These campsites typically consisted of open-air tents arranged in the form of a circle.
+
+Notable Members
+ Cathica Lygia, the Blood Rider's ruthless second-in-command in the late 15 century.
+ Eligos Tognög, a young member of the organization in the late 15 century who was murdered by Cathica near Darkwater Run after he had second thoughts about her plan and threatened to warn Scarn.
+ Scarn Mikel, leader of the Blood Riders in the late 15 century.
+ Valejek Nörswath, a patrol captain in the Blood Riders in the late 15 century who died while attempting to kidnap the giant Burleigh.
+ Veltig, a knight who was slain by fire giants and put to rest in a mausoleum nearby Castle Hartwick.
+
+Appendix
+
+Notes
+
+Appearances
+Organized Play & Licensed Adventures
+A Dish Best Served Cold
+References
+
+---
+
+## Blue Lightning (bow)
+
+Blue Lightning was an enchanted bow belonging to the ogre mage Sothillis, ruler of the Sothillisian Empire in Amn in the late 14 century DR.
+
+It was a +1 distance thundering, shocking burst composite longbow.
+
+Appendix
+
+References
+
+---
+
+## Blueleaf
+
+A blueleaf  was a type of tree found in Faerûn. Bluewood was the name of the wood taken from this tree.
+
+Description
+The tree resembled a large maple. It was so named for the color of its leaves, which were a strange, gleaming blue and had many points. They actually glowed with a faint, blue light.
+
+Blueleafs often grew in thick copses and typically reached heights of 40 feet (12 meters), but their trunks rarely grew thick. The wood of the tree was surprisingly durable; the relatively thin trunk rarely broke, even when under extreme stress. They bent in winds and under snows, and in winter they could stabilize snow tunnels over roads that sheltered travelers.
+
+Usage
+
+Blueleaf leaves and sap could be crushed to make a bright blue dye often used in clothing manufacture in the North, usually in cloaks. The leaves and wood could also be burned to produce vivid, jumping blue flames that were favored by minstrels and storytellers for special effects, such as mood lighting during sad scenes.
+
+The wood of the blueleaf tree, known as bluewood, was used by Volodni craftsfolk to make weapons and armor. Bluewood was magically treated to become as hard as steel, though it weighed half as much.
+
+Habitats
+
+ Blueleafs were often found north of Amn, in humid, temperate, and subarctic latitudes.Although The Shining South (1993) states that the Forest of Amtar was primarily blueleaf trees, this was retconned to be suth trees in Shining South (2004).
+ Evereska
+ Ardeep Forest on the Sword Coast North.
+ High Thorog in the Nether Mountains.
+ Banks of the Laughingflow in the Evermoors.
+ Silverymoon (Silver Marches), where most streets were lined with blueleafs.
+ Hermit's Wood in Cormyr, where they grew in large groves.
+ In the Nelanther Isles, these trees grew in the southern section of the pair of islets known as the Tusks.
+ The Vast Swamp, with stunted bluelead trees growing around the fringe.
+ The Shadow Swamp (a reflection of the Vast Swamp) in the Plane of Shadow, around the Shadow Citadel.
+ A small number of these trees grew on the island of Evermeet.
+ Blueleafs grew in the Grayvale, with a thick stand on the southern edge of the High Forest near Tanglefork Woods and few around the village of Shining Falls.
+
+Trivia
+A blueleaf tree was the location of a portal between Eveningstar and Suzail.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Extermination
+
+Novels
+Farthest Reach • Sword of the Gods • The Herald
+
+Video Games
+Tales from Candlekeep: Tomb of Annihilation
+
+Notes
+
+Further Reading
+
+References
+
+fr:Saule céruléen
+
+---
+
+## Bluecap
+
+Bluecap fungus was the main staple grain of the Underdark, where they absorbed magics of faerzress, while a more mundane species of bluecaps was grown in the High Moor of the Western Heartlands.
+
+Description
+Bluecaps were tall (up to 6 inches), slender white mushrooms with pale blue caps. These fungi were bland and tasteless.
+
+Uses
+Bluecaps found in the Underdark were inedible in their raw state, but the fungi could be ground into a bland flour and baked into nutritious sporebread (also called bluebread). Bluecap was known for its ease of cultivation (it could be grown with or without faerzress), and it was cultivated by nearly all of the Underdark races. A loaf of sporebread was equivalent to one pound (almost a half kilogram) of food.
+
+The caps of bluecap mushrooms could be prepared by those with the correct herbalism knowledge to make a stew that would neutralize poison. If eaten raw, High Moor bluecap proved mild amount of nutrients. Because of that, omnivorous creature of the High Moor consumed the mushrooms as a dietary supplement.
+
+Location
+Bluecap was cultivated nearly everywhere in the Underdark. It was also found on the High Moor, where it was eaten by the creatures that wandered the moor and collected by humans for food.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Bloodpurge
+
+Bloodpurge was an herb that could be found in the deeper parts of polluted freshwater marshes in Faerûn.
+
+Usage
+Bloodpurge could be dried and used as an herb to neutralize minor poisons. Bloodpurge that was to be used in this manner cost 15 gold pieces per dose.
+
+References
+
+---
+
+## Bloodstaunch
+
+Bloodstaunch was an herb used to stop or slow the bleeding of an open wound.
+
+Location
+The herb could typically be found in gullies located in relatively arid, temperate regions.
+
+Usage
+Bloodstaunch could be applied directly to open wounds. It thickened blood almost immediately, causing bleeding to slow or stop completely. Bloodstaunch had a base value of 10 gp.
+
+References
+
+---
+
+## Bloodwalk
+
+Bloodwalk by James P. Davis is the second book of The Wizards series of standalone novels.
+
+Summary
+
+Index
+Characters
+Morgynn • Quinsareth • Ransar Pristoleph
+Creatures
+Aasimar • gnoll • locust • ogre • shadow mastiff • war devil
+Locations
+Bodies of Water
+Lake of Steam
+Establishments
+Red Cup Inn
+Forests
+Duskwood • Qurth Forest
+Regions
+Narfell
+Settlements
+Bildoobaris • Brookhollow • Derlusk • Logfell
+
+Organizations
+Fallen Few • Order of Twilight
+Religions
+Gargauth • Savras
+Miscellaneous
+Food & Drinks cinnamon
+Games
+Fate Fall
+Plants
+Bloodthorn • Fethra • Razorvine
+Vehicles
+Longship
+
+Appendix
+Gallery
+
+External links
+ Sample Chapter (Wizards.com)
+
+References
+
+---
+
+## Blood frenzy
+
+Blood frenzy was a spell that allowed druids to enter into a rage similar to that of a barbarian.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights: Shadows of Undrentide)
+References
+
+---
+
+## Blade thirst
+
+Blade thirst was a spell that allowed a slashing weapon being wielded by a ranger to gain a +3 bonus and glow with a blue flame.
+
+The earlier version of this spell was an alteration spell called bladethirst. It was usable by wizards and worked on any single-edge blade.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blazidon One-Eye
+
+Blazidon One-Eye  was the secret owner of the Bowels of the Earth tavern in the city of Waterdeep.
+
+Despite this, Blazidon spent most of his time as a hiring agent for sellswords at the Dock Ward or at the city's various inns and taverns. He was a business rival of Filiare, as the two competed over clients looking for work.
+
+Appendix
+References
+
+---
+
+## Black Blood cultist
+
+Black Blood cultists were tribal barbarians who revered and served the lycanthropes of the People of the Black Blood. They were among the most dangerous members of the so-called Cults of the Moon.
+
+Activities
+Black Blood cultists were harbingers of destruction who yearned to unleash their base, animalistic urges when and wherever they could, and were said to commit acts of brutality beyond the ken of what most civilized folk could imagine. These evil barbarians worshiped Malar and idolized the shapeshifting lycanthropes of the brutal People of the Black Blood, believing them to be the paragon of their own bestial aspirations. Although their reverence went unrecognized by the lycanthropes themselves, such cultists drew power from their veneration, and became increasingly bestial; they imitated the corrupt nature of their masters. Many gravitated to the path of a Black Blood cultist either out of tribal tradition or personal experiences with lycanthropes that left them in awe or in life-changing terror.
+
+These cultists saw themselves as protectors of the natural order, and to embrace the natural phenomena of death, hunger, and loss, and were seen as nature's avengers among those who venerated Malar or his lycanthropes. They spent much of their time either training, hunting, or venerating Malar, although some cultists also venerated Talona or totemic animal gods. While they sought to eliminate those who failed to opposed Malar or who had not been touched by his power, they were largely territorial, and their attacks on settled lands were most often retaliatory rather than expansionist. They relentlessly pursued any who harmed their allies, chasing them even beyond the bounds of their own territory and until it became clear that they had lost their prey's trail.
+
+When faced with danger, they lived by the mantra of kill or be killed, and attacked with shocking speed and brutality. They fought in close quarters and commonly eschewed weapons, preferring instead to grapple their enemies and to rend flesh with their hands and teeth. They reveled in inflicting terrible injuries, even if it meant risking great harm to themselves.
+
+Culture
+Most individuals who would be recognized as Black Blood cultists hailed from the Uthgardt tribes of the North, but some arose among other uncivilized, wild barbarians of Faerûn and could be found as far as Chult in the south and Cormanthor in the east. Most Black Blood cultists hailed from barbarian tribes or cults dedicated to Malar, and thus becoming a true cultists was seen as following in the steps of their ancestors. Such tribal cultists were often the most fearsome as they had been raised since childhood to embrace their inner beasts. Aside from their veneration of the People of the Black Blood, the most important things to a Black Blood cultist were their tribe and their territory. Most cultists, assuming they proved their strength, could count on support and aid from their fellow tribesfolk. They were uncomfortable in settled lands, and could not relate to the comforts and fears of civilized folk.
+
+The transformation into a true Black Blood cultist was guided by the Malarite shamans who led their tribe (generally an evil druid or sorcerer), who helped to connect the aspirant's spirit to their inner beast.  Only those willing and able to give themselves over to rage and bloodlust in battle could become a true Black Blood cultist. Some rangers were found among their ranks, as well as the rare druid unable to resist the draw of the savage lycanthropes. The rituals to become a true cultist included subjecting oneself to repeated injury, from crawling through thorns to breaking their bones from great falls, and allowing these wounds to heal with the help of special ointments that strengthened their bodies and natural weapons. The transformation left scars that wild beasts and other savage entities honored as signs of the cultist's status. Those who had not grown up in one of the tribes that practiced these rites could only become a Black Blood cultist by first being accepted into such a tribe, which required its own series of dangerous and bloody trials to prove their worth (these often included solo hunts of great beasts and tests of survival in lands prowled by hostile lycanthropes).
+
+Many filed their teeth into sharp points.
+
+Abilities
+
+Cultists of the Black Blood gained a variety of abilities that increased their power and frenzied ferocity. They used these powers to constantly attack civilized beings.
+
+These barbaric cultists could strengthen the bones and muscles of their fingers, as well as their nails, in order to use them as viable weapons in battle. As the cultists became more experienced in this ability, they could use their teeth as natural weapons, as well as rend their enemies with their both of their clawed hands: it was said that their unarmed savagery could inflict as grievous wounds as any blade. Over time, they became more even more bestial in other ways, with their skin becoming thicker (save for against silvered weapons) and their sense of smell becoming more acute.
+
+Whilst raging, cultists of the Black Blood could use their teeth to snap their enemies' necks. Those who had learned to control their rage could use natural weapons at any given time.
+
+Possessions
+These cultists kept very few possessions. They did not collect gold, material goods, or other things that civilized folk would see as valuable, and they rarely made use of weapons. That said, they were known to keep magic items that they found, especially those that made them more dangerous in battle, but were wary that they could lose face with their tribe if they were seen as relying more on magic than on their own natural powers.
+
+Relationships
+Black Blood cultists were the sworn enemies of all civilized folk, and if ever the two met, the cultists would ensure that only one survived. The despised evil civilizations as much as any other. While it was possible to arrange an audience with leaders of a tribe, they almost never agreed to meet with someone who was not closely tied to nature, and any visit to their territory might entail a life-or-death test of the visitor's mettle. Most folk who lived near a tribe knew little about them save that they were animalistic raiders.
+
+Each tribe of cultists was independent from the rest, and each had different relationships to the People of the Black Blood in their home regions. Although they venerated the lycanthropes, the People were largely unconcerned with them. In recognition of their veneration of Malar and of nature, the lycanthropes tolerated the tribes to share their territory unless they came to be seen as disruptive, in which case they might wipe out the cultists entirely.
+
+History
+Many tribes of Black Blood cultists had arisen and fallen throughout the years. On occasion, clerics of Malar would seek to establish such a tribe in order to spread their god's influence.
+
+As of the mid-to-late 14 century DR, a number of notable tribes were active across Faerûn, largely as members of the Cults of the Moon. In the North, Uthgardt-affiliated nomadic tribes were active around the High Forest and Night Trees, and often raided caravans. In Chult, the Chultan tribes were very isolated, and so mostly focused on venerating lycanthropes (namely the nearby werebats of the People of the Black Blood) than attacking civilization. In Cormanthor, the main tribe was made up of elves, whose main concern had turned toward combatting the spread of drow into the region (although they also counted some drow among their own ranks). In the Underdark, a tribe of grimlock cultists came to revere the local werebats, and were known to hunt down nearby members of drow and duergar settlements.
+
+Notable Black Blood cultists
+ Shuk-Ta, a half-orc loner with a tiger companion named Unt.
+ Kaedthis, a drow chieftain of the elven Cult of the Moon in Cormanthor, accompanied by her dire wolf, Tsabtarr.
+
+Appendix
+See Also
+ Black Blood tribe
+ Black Blood hunter
+
+References
+
+---
+
+## Blackstaff Tower
+
+Blackstaff Tower (previously Arunsun Tower; renamed by Khelben in 1322 DR) was the home of Khelben "Blackstaff" Arunsun in Waterdeep as well as of his successors to the title of Blackstaff. The foreboding structure was one of the most recognizable landmarks in Waterdeep's Castle Ward.
+
+Structure
+Exterior
+Blackstaff Tower's main entrance was on Swords Street. There was also an apprentice's gate, through which apprentices could gain access by touching the gate with a left palm. The tower was surrounded by a  wall.
+
+The tower appeared to be made out of smooth black stone, with no windows or doors. From the outside, the structure appeared to be a three-story stone tower, but inside, there were at least a dozen more levels, and some of these could only be reached by magical means. Everything connected to the central stairwell, although magical passwords were required to transport to certain areas of this stairwell. The three levels visible from the outside were all freely accessible via simply using the stairs.
+
+The tower had the ability to repair itself, along with its outer walls and gates, when damaged, and this process could be helped along by Laeral Silverhand. After an attack in which a wall was demolished, the tower was back to normal the same day.
+
+Interior
+From the inside, windows appeared to show what was going on outside, but these were illusions. The interior (but not the exterior) of the tower was warded against magical intrusion. The tower was protected against scrying magic.
+
+Rooms were connected to the central stairwell and entry hall, which was full of floating doors and arches. Many alcoves and shelves covered the walls of the stairwell, displaying magical items and artifacts, and although they seemed unprotected, a command word was needed to remove any of them. The items changed on a regular basis, so returning to the same stairwell on another day might result in seeing different items. Leaving the dormitories without issuing a command word would lead to the second level's stairwell. Saying the command word nhurlaen in the stairwell took one to the study.
+On the top floor of the tower was a study and a scrying chamber. There was also a parlor where Khelben displayed his art. In the library was one-way dimensional door to Candlekeep (the other side of the door led to Jester's Court nearby). As of 1374 DR, the tower's entry chamber contained a wardrobe that Khelben was able to use to access almost any closet in the tower. In the tower's kitchen, Khelben liked to serve cups of roasted chicory.
+
+Tunnels linked the tower's basement to Piergeiron's Palace and other locations in Waterdeep, which could be accessed by uttering the command word vhuarm. One such tunnel could be accessed at Northspur Rock on Northspur Landing on the Talltumble Stairs in Mountainside.
+
+In 1361 DR, Danilo Thann moved the elfgate portal to Evermeet to Laeral's chambers in order to facilitate more quality time between her and Khelben.
+
+History
+
+The Tower was originally the home of Khelben "Blackstaff" Arunsun, his apprentices, and his consort Laeral Silverhand.
+
+After the death of Khelben, his heirs to the title of Blackstaff used the tower as both a home and a place of power. In fact, the tower became so linked to the Blackstaff that, upon the death of their master, the heir must immediately travel to the tower. On at least two occasions, the Blackstaff died outside of the tower and the heir was driven insane until they returned to the tower.
+
+In 1415 DR, the fourth Blackstaff, Krehlan Arunsun, modified Blackstaff Tower using the kiira N'Vaelhar to allow templates of the spirits of each former Blackstaff to communicate with anyone in the tower, and with the Blackstaff where he or she was. The templates were a permanent illusion of the spirit of each Blackstaff; in visible form, the template appeared as the Blackstaff did in life but with a green glow. While in the tower, the Blackstaff was also aware of every person in the tower or within a few feet of the tower.
+
+Beginning in 1479 DR, Vajra Safahr became the youngest Blackstaff to occupy the Tower.
+
+Inhabitants
+
+From the mid-to-late 14 century DR onward, the Tower was home not only to the Blackstaff, but to the Blackstaff's apprentices, which numbered fifty or so at any time. These apprentices, and their apprentices in turn, formed the Blackstaff Academy, an elite yet informal school for the training of wizards..
+
+Artifacts
+
+The tower contained The Fanged Tome of Lykanthus Szar, The Annals Adamarus, and Alaundo's Loop. The elfgate to Evermeet (created by Amnestria with Arilyn's moonblade) was located in Laeral's chambers after 1361 DR.
+
+Appendix
+Appearances
+Novels
+ Swords of Eveningstar • Windwalker • Songs & Swords series (Elfshadow, Elfsong) • The Paladins • Blackstaff Tower
+
+The Summoning
+Licensed Adventures & Organized Play
+A Wrinkle in the Weave
+Video games
+Eye of the Beholder II: The Legend of Darkmoon • Demon Stone
+
+Warriors of Waterdeep
+Card Games
+Spellfire: Master the Magic
+
+References
+
+FR:Tour de Bâton Noir
+
+---
+
+## Blingdenstone
+
+Blingdenstone  was a svirfneblin city-state founded in  by svirfneblin fleeing the phaerimm.  In 1371 DR, the city was destroyed and abandoned.  However, beginning around 1440 DR the svirfneblin began to resettle the town with support from Mithral Hall and Silverymoon.
+
+Geography
+The city was located some 45 miles west of the drow city Menzoberranzan in the Upperdark under the Silver Marches near Mithral Hall.
+
+History
+
+In 1338 DR, Drizzt Do'Urden spent many weeks there (in the company of Most Honored Burrow Warden Belwar Dissengulp) after surviving for ten years in the Underdark by himself. It was ruled by King Schnicktick at the time.
+
+Preceding their attack on Mithral Hall in the, Menzoberranyr troops entered Blingdenstone to find it abandoned. The deep gnomes had fled the approach of the advancing drow but returned to their city some time after the drow army had passed through. Later in the year, Most Honored Burrow Warden Belwar Dissengulp led a small force of svirfnibli in a scouting/rear attack move that aided in the defense of Keeper's Dale during the Battle of Keeper's Dale.
+
+In the, the drow destroyed Blingdenstone in retaliation, summoning dozens of bebilith demons that slaughtered around 9,000 gnomes. The survivors fled to settle in the Silver Marches, though most wished to reclaim their home. King Bruenor Battlehammer of Mithral Hall extended his hospitality to any surviving gnomes; the 350 or so that resided in the underground town were led by Belwar Dissengulp.
+
+Two years later, Blingdenstone was occupied by two groups living in relative harmony: drow scavengers, most of whom belonged to House Duskryn, and a band of 25 svirfneblin wererats. The drow excavated the cavern floor using dominated xorns to unearth spellgems placed there by the former occupants to prevent attacks from burrowing enemies. The wererats occupied the maze and entrance area of the city but could not venture further because of the collapsed and flooded tunnels that the fleeing gnome survivors made during their flight. They ambushed and killed small treasure-seeking parties that entered their realm but otherwise lived peacefully and comfortably in their domain.
+
+The svirfneblin began to return and rebuild starting in the . By the late 15th century DR, they had reclaimed their land.
+
+Description
+At the entrance to the city was a set of stairs and a large iron gate. Just past the gate, inside the city, was a large and winding maze aimed to slow down any would-be invaders. The city itself consisted of many cavern chambers connected by winding tunnels. The city's appearance was organic, carved smoothly into the stone. Many buildings appeared as simple piles of rocks but were in fact masterfully carved to appear so.
+
+Ogremoch's Bane
+The city is quite peaceful, but it is also home to Ogremoch's Bane, a mist of magical particles. Any summoned earth elemental that comes into contact with Ogremoch's Bane is driven into a rage and frenzy, causing great damage to anything and anyone around it.
+
+Notable Locations
+Like all cities, Blingdenstone had a marketplace, taverns, and religious buildings.
+
+The Trader's Grotto: The central marketplace with temporary and permanent stalls.
+The Foaming Mug: A tavern named after the heraldry of Clan Battlehammer of Mithral Hall catering to foreign (primarily human and dwarf) travelers.
+The House Center: Seat of power and location of the king's court.
+The Speaking Stones: A sacred place of ancient menhirs around which the original city was built. Some refer to it as an earthnode.
+The Ruby in the Rough: Temple to Segojan Earthcaller overseen by head priest Golden Gorger Suntunavick. The city's honored dead were mummified in the catacombs beneath the temple. The head priest cared for a number of cave badgers beloved by the city's residents.
+The Wormwrithings: An unclaimed maze of tunnels northwest of the city that led to Gauntlgrym, the mines of Mirabar, Darklake, and the Great Worm Cavern.
+
+Notable Inhabitants
+Most Honored Burrow Warden Belwar Dissengulp
+Councilor Firble
+King Schnicktick
+Golden Gorger Suntunavick
+Seldig
+Pumkato
+
+Appendix
+Appearances
+
+References
+
+de:Blingdenstein
+
+---
+
+## Black Mesa
+
+The Black Mesa was a large mesa with plentiful coal deposits visible as black striations on its sides. The Azuposi sometimes burned the coal during special rituals.
+
+Appendix
+
+References
+
+---
+
+## Black cohosh
+
+Black cohosh, also known as bugbane, was a plant found in Maztica.
+
+Description
+Black cohosh was found in the Pasocada Basin in Maztica, and was used by the Azuposi as an insect repellent.
+
+Appendix
+References
+
+---
+
+## Blodhlar's Wares
+
+Blodhlar's Wares was a hardware store in Amphail. It sold nails, ropes, gate hinges, and other assorted pieces of hardware. The general state of the building was poor.
+
+References
+
+---
+
+## Blackstaff (disambiguation)
+
+Blackstaff might refer to:
+
+In-universe
+ Khelben “Blackstaff” Arunsun, former Lord of Waterdeep and powerful archmage
+ The Blackstaffs, Khelben’s successors
+ Blackstaff Tower, the former home of Khelben “Blackstaff” Arunsun in the Castle Ward of Waterdeep
+ The Blackstaff (staff), staff of Khelben “Blackstaff” Arunsun and symbol of his successors.
+ The Blackstaff (spell), which became well-known across the Realms by the late 14 century DR
+
+Also
+ Blackstaff, a 2006 novel about Khelben “Blackstaff” Arunsun written by Steven E. Schend
+
+---
+
+## Black Claw
+
+The Black Claw was an orc horde assembled by the Brotherhood of the Scarlet Scourge.
+
+History
+In the, the Black Claw horde was formed with the intention of destroying Waterdeep after the Brotherhood's previous attempt, the Broken Bone horde, succumbed to Lhammaruntosz. The horde carried out massive raids on the Free City of Waterdeep, notably a siege known as the Battle of Blood-Drenched Swords. Their arrows felled many members of the Griffon Cavalry, including Lord Palinor Belabranta.
+
+The horde successfully killed the Waterdeep's leader, Warlord Laroun, before finally being defeated in the Stump Bog by Laroun's successor, Raurlor. Their defeat marked the end of Uruth Ukrypt and the Brotherhood of the Scarlet Scourge as major players in the region.
+
+Appendix
+References
+
+---
+
+## Bloodroot
+
+Bloodroot was a plant root that grew only in the Mhair Jungles.
+
+Uses
+It heightened the taste of blood and was therefore highly addictive to vampires, but not particularly to anyone else. On initial consumption, the user could feel dazed, but in vampires, it had the potential to instigate a rage upon smelling blood.
+
+Some were known to create a poison from the bloodroot for use with blowpipe darts.
+
+Geography
+It was illegal in Waterdeep.
+
+Appendix
+Appearances
+Adventures
+Dungeon #126: "Blood of Malar"
+References
+
+---
+
+## Bloodstone Lands
+
+The Bloodstone Lands were a part of the Cold Lands in northeast Faerûn which primarily encompassed Damara and Vaasa. They received their name from bloodstone, a precious gem mined throughout the region and which the nation of Damara used to establish itself as a major power in Faerûn.
+
+ Geography
+The Bloodstone Lands region was roughly triangular in shape and had an area of around 150,000 square miles (388,500 km2). It was nestled between the Great Glacier to the north, the nation of Impiltur to the south, Thar and the Moonsea to the west (with the Galena Mountains and Earthspur Mountains acting as a natural border), and Narfell, the Great Dale and Thesk to the east.
+
+The Bloodstone Lands were bisected by the Galena Mountains, which made the Bloodstone Pass through them vitally important to the region.
+
+History
+The early recorded history of the Bloodstone Lands begins with the prosperous rise of Damara as a nation in 1064 DR under the long unbroken line of Feldrin Bloodfeathers, the first King of Damara and founder of its capital Heliogabalus.  Their prosperity depended entirely on their export of the valuable gem Bloodstone, a chalcedony found throughout the realms and particularly in the Barony of Bloodstone in Bloodstone Pass.  The merchants of Damara took these precious gems to their neighbours, particularly westward to the Moonsea, where they found customers in Thesk, Sembia, Impiltur and other nations along the Sea of Fallen Stars.  The people of the Bloodstone Lands enjoyed a time of peace, protected by their harsh natural environment, and the baronies grew ever richer.
+
+The Rise of the Witch-King
+
+The prosperity of the Bloodstone Lands was forever changed in one night when Zhengyi, the Witch-King, erected Castle Perilous in the nation of Vaasa in 1347 DR.  The lich quickly took control of Vaasa and gathered to himself an army of goblins, giants and orcs, as well as formidable allies in the cult of Orcus, and the guild of the Grandfather of Assassins.  Occupied with troubles of their own, including an awakened evil in the Bloodstone Mines and an early winter which destroyed crops, caused starvation, and brought packs of dire wolves marauding across the countryside, Damara were unaware of  Zhengyi's quick ascension to power.
+
+The very next year, the Witch-King's armies took Bloodstone Pass, cutting off Damara from its main supply of Bloodstone.  They proceeded into Damara with incredible speed, but the people of Damara and Vaasa fought bravely, unassisted by their neighbours, who dealing with internal affairs of their own, offered little in the form of substantial aid.  For ten years, the war raged, until it came to a head on the Ford of Goliad in 1357 DR, where neither army could gain the advantage.
+
+Fooled by a traitorous lieutenant Felix, who tricked then King Virdin that his magical wand would enable safe passage across the river to gain the advantage on the Witch-King's armies, the Damarans marched into the waiting trap of Zhengyi and were swiftly defeated. Virdin himself was assassinated as he watched his army and nation fall, and it is widely believed that it was Felix who clutched the dagger.
+
+Zhengyi would be defeated the following year by Gareth Dragonsbane and his companions, who stormed Castle Perilous, broke the source of the Witch-King's power, and thus ended the threat of his undead army.
+
+The Kingdom of Bloodstone
+
+Gareth Dragonsbane was crowned King of Damara shortly after his victory over Zhengyi. In the following decades, he focused on rebuilding his kingdom's economy and on fortifying Bloodstone Pass against potential threats from Vaasa, but he had also considered annexing Vaasa since he first took the throne. He pursued this goal by pacifying the region, relying heavily on adventurers lured by large bounties for local monsters and stragglers of Zhengyi's armies, and by winning the hearts and minds of the Vaasan people, first by expanding economic opportunities in the south via the Vaasan Gate and later by liberating the north when Bregan D'aerthe seized the area around Palischuk in the late 1360s DR. At some point before the end of his reign, Vaasa was indeed absorbed into Damara as a barony, thus extending Gareth's rule over the entirety of the Bloodstone Lands. The capital was moved to Bloodstone Village, which would be renamed as Bloodstone City, and the realm was referred to as the Kingdom of Bloodstone, often shortened to simply Bloodstone.
+
+The reign of Gareth Dragonsbane and his heirs was generally peaceful until the rise of the Warlock Knights in Vaasa. This militaristic cult appeared shortly after a "falling star" landed in Vaasa during the Spellplague, and built its power by conscripting or killing Human, Dwarf, and evil Humanoid communities. In 1459 DR, the Warlock Knights took advantage of the political chaos created by the assassination of the ruling Queen of Bloodstone, Brianne Dragonsbane, to raise an army. In 1460 DR, they declared war on the kingdom of Bloodstone and began their conquest of Vaasa. In 1469 DR, they razed Bloodstone City to the ground and sealed Bloodstone Pass. Soon after, they claimed complete control of Vaasa and seceded from the Kingdom of Bloodstone, leading to the unified kingdom's collapse back into Vaasa and Damara. The two nations would then settle into a decades-long tense stalemate.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+FR:Terres héliotropes
+
+---
+
+## Bloodstone Pass
+
+Bloodstone Pass was the only reasonable crossing point through the Galena Mountains in Northeast Faerûn. The fertile vale through which it passed was known as Bloodstone Valley.
+
+Geography
+The pass acted as a trade route between Damara and Vaasa. Due to the extremely impassable terrain that constituted the majority of the mountain range, the pass was the easiest route and was of great strategic importance to both Damara and Vaasa. The entrances to the Pass were guarded by the Bloodstone Gates: the Damaran Gate to the southeast and the Vaasan Gate to the northwest.
+
+In the 14 Century DR, the Pass was part of Bloodstone Barony, and contained Bloodstone Village (later called Bloodstone City), the Bloodstone Mines, Lake Midai, Waukeshire, Windless, and Virdin. The Beaumaris River flowed through the Pass.
+History
+Bloodstone Pass was originally formed only around 1070 DR when the edge of the Great Glacier withdrew to the north. Prior to the rise of Zhengyi the Witch-King, the Pass was mostly remarkable only as an overland trade-route between Damara and the Moonsea. However, the Witch-King's forces used the pass to invade Damara in 1347 DR, and after his defeat in 1359 DR, the Pass became one of the most impressively fortified places in Faerûn with the construction of the Bloodstone Gates.
+
+The Pass would subsequently become the center of Gareth Dragonsbane's Kingdom of Bloodstone encompassing both Damara and Vaasa, with Bloodstone City as its capital.
+
+In 1469 DR, the Warlock Knights invaded the Pass and razed Bloodstone City, leaving the once lush Bloodstone Valley barren and lifeless. The Pass then became the site of a decades-long tense standoff between the Warlock Knights of Vaasa and the kingdom of Damara, with the Warlock Knights occupying the Vaasan gate and the ruins of Bloodstone City and the Damarans occupying the Damaran Gate in the south.
+
+Appendix
+Notes
+
+References
+
+FR:Défilé héliotrope
+
+---
+
+## Bloodstone (disambiguation)
+
+Bloodstone might refer to:
+ Bloodstone, a type of chalcedony (gem) found primarily in Damara.
+ Bloodstone, a wizard known for the creation of two necromatic spells:
+Bloodstone's frightful joining
+Bloodstone's spectral steed
+ Bloodstone, a barony in Damara.
+ The Bloodstone Lands, an area of northeast Faerûn encompassing Damara and Vaasa.
+ Bloodstone Pass, a strategically important pass through the Galena Mountains linking Damara and Vaasa.
+ The Bloodstone Mines, a dwarven mine in Bloodstone Pass.
+ Bloodstone Gate, a large city in Bloodstone Pass.
+ Bloodstone Village, a village in Bloodstone Pass.
+ The Bloodstone Wars, a conflict in Damara.
+ Bloodstone Pass, a 1st-edition D&D adventure module.
+ The Mines of Bloodstone, a 1st-edition D&D adventure module.
+ The Bloodstone Wars, a 1st-edition D&D adventure module.
+ The Throne of Bloodstone, a 1st-edition D&D adventure module.
+
+---
+
+## Blue Bear tribe
+
+The Blue Bear tribe was a tribe of the Uthgardt barbarians that secretly held territory throughout the Delimbiyr Vale. Though they were believed to have been completely eradicated, they persevered through many years of hardship and survived the hardships of the North.
+
+They claimed the cairn of Stone Stand as their ancestral mound.
+
+Relationships
+As of the late 15 century DR, some of the Blue Bear barbarians had allied themselves with the stone giants of Deadstone Cleft. Among them was Hydia Moonmusk, daughter of the tribe's Great Chief.
+
+History
+In 343 DR, a horde of orcs from High Moor overwhelmed the kingdom of Athalantar and drove many of its citizens northward. These refugees would come to be assimilated into the Blue Bear tribe.
+
+In the, during one of their annual Runemeets the Grandfather Tree tree inexplicably burst into flames. However, it and the forest were somehow left unharmed. Noticing the strangeness of this phenomenon, the tribe's then-shaman began to cut the sole low-hanging branch untouched by flame. As he did so a shadowy male figure garbed in green was said to have emerged from the branch and fled into the forest, with a trail of bear prints left in his wake. The tribesmen followed the trail of this figure and eventually came to an ancient ring of standing stones. It was here that the shaman planted the cut branch of Grandfather Tree and established the ancestral mound of Stone Stand.
+
+Around 1311 DR, an annis hag by the name of Tanta Hagara approached the tribe as their new shaman, coveting the magic artifacts that laid beneath Grandfather Tree. With her bearing the shapechanged form of a beautiful,  tall barbaric hunter goddess with deep blue skin and capable of transforming into a blue-furred bear, many believed her to be an avatar of their totem.
+
+Eventually the tribe was banished by the Grandfather Tree's guardian spirits for having grown corrupted by the hag's influence. A significant number of tribesmen would grow to reject the annis and in 1313 DR splintered off into their own tribe, the Tree Ghost Tribe. Thereafter, both tribes devoted themselves to searching for their lost and abandoned ancestral mound.
+
+In 1366 DR, unbeknownst to the tribe, a cambion from Hellgate Keep by the name of Kaanyr Vhok met with Hagara in the High Forest to discuss overthrowing his mother Mulvassyss as ruler of the Keep. Two years later she and the tribe were led by Kaanyr into Hellgate and he slew his mother. In the confusion that followed the tribe's chieftain, Hlutwig Long-throw, who was no more than a puppet to Hagara's whims at that point, was trampled to death in the confusion that followed. With the death of their chieftain, the Blue Bear tribe turned to Hagara as their new leader and Kaanyr wed her to cement their alliance.
+
+During their time allied with the demonic keep the tribe's totem grew weak and was killed by the evil lesser deity Malar. They were also known to conduct raids on the settlement of Jalanthar during this time.
+
+A year later in 1369 DR, two Harpers infiltrated Hellgate under the guise of Blue Bear tribesmen and exposed Hagara's existence as an annis hag, believing this would cause a riot among the tribesmen. But this did nothing to destroy their respect for her, since they viewed the hag's transformation as a gift from Uthgar meant to cement their alliance with Hellgate. They would retaliate by attacking caravans enroute to Sundabar and attempting to raid Silverymoon.
+
+Later that year she would lead 400 members of the tribe and over 100 demon allies in an attack on the Citadel of the Mists. An alliance of Everlund, High Forest, and Harpers drove them back and destroyed Hellgate Keep, killing nearly all of the Blue Bear tribe's people. While Hagara herself was slain by the treant Turlang the Great. Some members of the tribe who survived Hellgate's destruction became trapped beneath the keep, doomed to become revenants and zombies whose soul thought was exacting revenge.
+
+Some time after the War of the Silver Marches, a few Blue Bear barbarians emerged from hiding within the High Forest and migrated east. Amidst claiming any territory left ignored by the other tribes, they did all they could to ensure their secrecy. Occasionally they would risk this secrecy to visit their old ancestral mound of Stone Stand, but only under the cover of night.
+
+Around the late 15-century DR, under the leadership of their chieftain's daughter Hydia Moonmusk, some members the tribe allied themselves with the stone giant Kayalithica and her forces under a shared distaste for civilization. Together they destroyed the settlements of Orlbar and Llorkh.
+Rumors & Legends
+It was believed that before her death, Tanta Hagara enchanted Uthgardt burial totems to summon dead warriors of the Blue Bear tribe to defend the Stone Stand and all the hidden treasures deep underneath the ancestral mounds. Once such totem, the Wrath of the Blue Bear was stolen from the Stone Stand and found its way into a private collection in Daggerford.
+
+Appendix
+Appearances
+Video Games
+
+Baldur's Gate • Neverwinter Nights: Darkness over Daggerford
+References
+
+Connections
+
+---
+
+## Bloodstone Village
+
+Bloodstone Village, later called Bloodstone City and sometimes called Bloodstone Gate, was a settlement in Bloodstone Pass, the only real accessible link between the lands of Vaasa and Damara. It was within the Barony of Bloodstone and later became the capital of the Kingdom of Bloodstone encompassing Damara and Vaasa. The city was razed in 1469 DR.
+
+Geography
+The village of Bloodstone lay on the shores of Lake Midai, where it joined with the Beaumaris River, which ran into the Galena Mountains.
+
+History
+
+Before 1347 DR, Bloodstone Pass was an important trade route, which brought prosperity to Bloodstone Village as the second largest settlement in the Pass. However, when a dragon turtle was slain in the Moonsea to the south that had been terrorized shipping routes, trade by sea was opened to the Sea of Fallen Stars and the land route through Bloodstone Pass was less frequented.
+
+In 1347 DR, Bloodstone Village was ravaged by the harsh Wolf Winter, during which their crops died and starving dire wolves killed 70 of the village's inhabitants. Beginning the next year, the Bloodstone Pass became cut off from the rest of the Kingdom of Damara due to the war with Vaasa to the north, and the baron of the time, Baron Tranth, had little power over the dominion. Many settlements within the area were reduced to anarachy. In this anarchy came the Citadel of Assassins and their hold on the village. Bloodstone Village was forced to pay an annual tribute (two tendays after the annual harvest) in food, money, and slaves.
+
+In 1359 DR, it became the home of the King of Damara, Gareth Dragonsbane, and the site of the Tree-Gem. Beginning at this time, Baron Tranth began encouraging the King to annex Vaasa to create a unified kingdom of Damara and Vaasa called Bloodstone. Before the end of his reign, Gareth Dragonsbane followed through on this idea. The capital of this kingdom was later moved from Heliogabalus to Bloodstone Village, which by this time had grown to be a large city known as Bloodstone Gate and later Bloodstone City.
+
+In 1460 DR, the Warlock Knights of Vaasa rebelled against the Kingdom of Bloodstone, and in 1469 DR, they burned Bloodstone City to the ground. As of 1480 DR, the ruins were still garrisoned by the Warlock Knights.
+
+Notable Locations
+ Abbey of St. Sollars
+ Lake Midai
+ The White Tree
+ Inn of the Clowns
+
+Appendix
+Notes
+
+References
+
+FR:Village héliotrope
+
+---
+
+## Bloodstone (barony)
+
+Bloodstone was the name for the barony (and later duchy) of Damara that lay within Bloodstone Pass, a narrow valley that crossed the Galena Mountains between Vaasa and Damara.
+
+History
+The barony of Bloodstone was ruled by the king of Vaasa and Damara, Gareth Dragonsbane. The last Baron of Bloodstone was Gareth's father-in-law, Baron Tranth. Lordship passed to Gareth as a result of his magnificent leadership protecting Bloodstone Village from bandits, preventing evil priests from summoning Orcus to the material plane in the Bloodstone Mines, and defeating the Witch-King Zhengyi.
+
+Appendix
+
+References
+
+Connections
 
 ---
 
@@ -451,6 +2380,1471 @@ References
 
 ---
 
+## Blue Dragon (boat)
+
+The Blue Dragon was a Cormyrean cog that operated in the fleet at Prespur.
+
+Appendix
+
+References
+
+---
+
+## Black Tentacle (ship)
+
+The Black Tentacle was a Thayan ship on the Sea of Fallen Stars.
+
+Appendix
+
+References
+
+---
+
+## Blazevale
+
+The Blazevale was a valley near Evereska that separated the Sharaedim from the Greycloak Hills to the north.
+
+It was a broad, sand-scoured valley. It was made up of scrubby pines, cacti, and wolfroot, where only the hardiest of rabbits, moon foxes, mice, lizards, and meadow quail survived.
+
+Appendix
+
+Appearances
+ The Summoning
+
+References
+
+---
+
+## Blackbread
+
+Blackbread was a type of bread made from finely ground flour and Amnian molasses.
+
+Description
+Molasses gave blackbread its dark color. It was similar to a type on bread on another world, known as pumpernickel.
+
+Availability
+Blackbread was available in Amn. It was also available from the Friendly Flounder tavern in Waterdeep.
+
+Prices
+On average it would cost three silver pieces for a loaf of blackbread or ten for four loaves.
+
+References
+
+---
+
+## Bladesinger (novel)
+
+Bladesinger, by Keith Francis Strohm, is the fourth and final book of The Fighters series.
+
+Summary
+
+Index
+Characters
+
+Creatures
+
+Locations
+
+Miscellaneous
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Blood of the Yakuza
+
+Blood of the Yakuza is an adventure module for the Oriental Adventures campaign setting using the 1-edition Dungeons & Dragons ruleset, printed in 1987.
+
+Description
+Blood of the Yakuza is an adventure scenario set on the island of Wa and port of Nakamaru in Kara-Tur. It contains details yakuza gangs and the important families and temples, as well as the major non-player characters of the city.
+
+Contents
+ Introduction
+ Life in Wa
+ Timeline
+ Politics of Wa
+ History
+ Calendar
+ Districts of Nakamaru
+ Architecture of Wa
+ Factions of Nakamaru
+ Plots
+ Events
+ Glossary
+
+Also includes an Encounter Construction Booklet:
+
+ NPC Listings
+ Maps
+ NPC Record Form
+
+Index
+Characters
+Anchin • Bupposo • Funada Genzo • Funada Hashiba • Funada Mitsuhide • Funada Toyoo • Gamo Hidenobu • Gamo Mitsutoshi • Gamo Mochikuni • Getsu • Gorath • Goshukara Akinari • Goshukara Sadamoto • Hino Sadamoto • lchi • Jirozu no Nakamaru • Kaian • Kidera Takeshi • Kidera Ujisato • Kogi • Kura • Liu-hsia Chih • Mashida Kowa • Miyagi-ko • Nagoya Hatano • Nagoya Kenko • Nan-Kuo • Nyo-ko • O-Cho • Oe Shodayu • Oka Sanai • Oka Yoshinaka • O-Kaze • O-Shino • Sumi-ko • Taichi • The Serpent • Tsuga Mosake • Ueda Teisho • Uruma • Yen-ch’eng Tzu Yu • Yin-kung T’o
+Creatures
+bakemono • bamboo spirit folk • crane hengeyokai • fox hengeyokai • goblin rat • hu hsien • human • jiki-ketsu-gaki • jiki-niku-gaki • korobokuru • kuei • monkey hengeyokai • lesser nature spirit • lu nat • men-shen • oni • river spirit folk • sea spirit folk • tagamaling buso • tigbanua buso
+Locations
+Buildings & Structures Shining Mountain Temple • Shrine of Tsuyoi-no-kami
+Nations Wa
+Settlements Nakamaru
+Organizations
+Arao • Big Heads • Black Mist Gang • Funada Clan • Grey Blossom Regiment • Hijo Clan • Hino • Kidera • Many-Hued Peacock Society • Nagoya • Northern Goshukara • Phoenix Clan • Royal Vagabonds • Shining Mountain Sect • Winter Sect • Worthless Flower Gang
+Miscellaneous
+Vehicles
+
+Gallery
+
+Credits
+ Editing: Christine Christensen, Karen S. Martin
+ Cover Art: Jeff Easley
+ Interior Art: Richard Bennett
+ Cartography: Dave Sutherland
+ Typography: Kim Lindau
+ Graphic Design: Dennis Kauth, Colleen O’Malley
+Appendix
+See Also
+Images from Blood of the Yakuza
+Notes
+
+Further Reading
+
+External Links
+
+References
+
+---
+
+## Blade-rite
+
+The ritual of Blade-rite (or Blade Rite) was an elven ritual that involved the drawing of a magical sword to determine the worthiness of its wielder for a given assignment or position among the hierarchy of the elves. It was most closely associated with the drawing of the famous Elfblades—the Artblade, Warblade and Crownblade—used to determine the Coronal of Cormanthyr, and his two Defenders, the Arms-Major and the Spell-Major.
+
+Nature of the Rite
+The potent and ancient Blade-rite was always attended and closely governed by two elven High Mages. During the ritual, the sword's magic was enhanced by High Magic, creating a powerful test for any potential ruler. The testing challenged the would-be wielder's practical skills, their reasoning, and their character, and these tests occurred completely within the imagination of the candidate, privy only to himself and the two High Mages. Should the elf pass all three tests, he or she rose to the rank befitting the blade. Should they fail, however, certain consequences would befall him or her as befitting the blade he or she had drawn.
+
+Those that succeeded at the rite wore special rings that enhanced their martial and magical abilities—the rings of mystic charisma, constitution, dexterity, intelligence, strength, and wisdom.
+
+References
+
+---
+
+## Blood of Morueme
+
+The collective term Blood of Morueme originally was given to a subservient race of half–blue dragon hobgoblins and their descendants but later was also used to describe a clan of blue dragons that lived beneath Dragondoom Mountain in the easternmost peaks of the Nether Mountains circa the Year of Rogue Dragons, 1373 DR. The hobgoblins selected for breeding came from the Red Flayers tribe, which, at the time, occupied Doomspire castle on the slopes of Dragondoom.
+
+Organization
+As of 1373 DR, the Blood of Morueme consisted of four adult blue dragons, sixteen half–blue dragon hobgoblins, and about 120 draconic hobgoblins (offspring of the half-dragons and normal hobgoblins, and their descendants). In the long history of the Morueme clan, there were seldom more than six pure-blood dragons living together at one time. Female dragons born into the clan were driven out or killed once they reached maturity in order to prevent inbreeding.
+
+Under the rule of the brothers Nahaunglaroth and Roraurim, the primary focus of the Blood was to increase their store of magic weapons, their knowledge of spells, and their library of arcane lore from the ancient realms of Ammarindar, Delzoun, Eaerlann, and Netheril. Each dragon had their own hoard and a selected group of hobgoblins from the Red Flayers as servants. At first the half-bloods, and eventually the more capable draconic hobgoblins, were sent out to gather wealth and magic for their respective masters. Clan status was measured by the amount each member contributed in coins, gems, magic, and arcane lore, listed here in increasing order of value. Those trusted to leave Dragondoom Mountain were given the freedom to choose how they went about their quest for acquisition, but all were expected to be absolutely loyal to the dragons and never betray the Blood or jeopardize their safety.
+
+Base of Operations
+The ancestral home of the Blood of Morueme was located beneath Mount Dragondoom at the far eastern end of the Nether Mountains overlooking the wastes of northern Anauroch. The entrance to their lair, known as the Mouth of Morueme, was high on the eastern slope of the mountain above a three-tiered fortified hobgoblin settlement called Doomspire. In addition to the Mouth, a few secondary entrances were located behind the walls of Doomspire. A switchback road led up to the castle under the eyes of those who maintained catapults and ballistae on the ramparts.
+
+Inside the cave, the soft limestone had been eroded over the millennia by runoff and seepage from snow melt into a warren of large caverns separated by natural stalactite and stalagmite sculptures. Each dragon had their own treasure chamber and sleeping quarters with a staff of hobgoblin servants to attend them. In addition to the hobgoblin fortress outside and the phalanx of servants and guards inside, the lair was fortified with many passive defenses as well. There were passages with sharp turns to prevent effective ranged attacks and provide cover from even the breath weapons of invading dragons. For human-sized creatures (in particular, humans) there were numerous traps, the majority of which were rockfalls that could be triggered by yanking on a chain. The rocks were held in a mesh of chains, allowing them to be hoisted back up and set for reuse.
+
+Possessions
+Each dragon was rumored to have a hoard of hundreds of thousands of coins and piles of gems. In addition, the brothers Nahaunglaroth and Roraurim had secretly collected many spells and magic weapons by sending out their half-dragon offspring (the original Blood of Morueme) on missions and raids to acquire such items. Their most prized possessions were ancient tomes of spells written in Netherese, which they studied intently, trying to decipher their secrets. It was also believed that at least one page of the Nether Scrolls was in their possession.
+
+History
+Morueme was the name of a mighty blue dragon that ruled the Nether Mountains and surrounding territories during the Time of Dragons. The clan that resided in Dragondoom Mountain claimed to be descendants of this legendary wyrm and had occupied the limestone caverns beneath the mountain for at least a millennium as of the Year of the Tankard, 1370 DR.
+
+During the Dracorage of 1018 DR, the ruler of the clan, Moruharzel, fell into madness and his adult offspring Kizilpazar was forced to slay him and take over the leadership of the clan. He and his younger mate, Idrizraele, eventually had two male offspring, Nahaunglaroth and Roraurim. As per tradition, all female progeny were driven off once they reached breeding age. One such female eventually laid the egg that hatched Krashos Morueme.
+
+Less than a decade after assuming control, in the Year of Crimson Magics, 1026 DR, Kizilpazar began to insulate his clan from the outside world and "recruited" a tribe of hobgoblins from the High Moor, mercenaries known as the Red Flayers, to serve as guards outside the clan's lair. In the years that followed, the hobgoblins were completely beholden to their dragon masters, but they built Doomspire castle and thrived in the relative safety that the strong, defensible position afforded. The most intelligent or capable hobgoblins were selected to be servants to the dragons, each wyrm building their own cadre of near-slaves, either through fear, loyalty, or both.
+
+Over the next few centuries, as Nahaunglaroth and Roraurim became mature adults, they believed that their sire's policy of isolation and their dependence on the Red Flayers was courting eventual disaster. Because their movements were under the scrutiny of their sire, the two males began a secret breeding program with promising hobgoblin females, producing half–blue dragon hobgoblins they called the Blood of Morueme. These progeny were raised, trained, and equipped to go out and seek new spells, magical items, and weapons and return them to the brothers without Kizilpazar's knowledge. The ones that returned successfully were given a few potential mates as a reward, and from their issue came the draconic hobgoblin mercenaries.
+
+Using the magic weapons they had acquired from their proxies, Nahaunglaroth and Roraurim attacked and killed Kizilpazar sometime during the Year of the Unstrung Harp, 1371 DR. Idrizraele, their mother, was allowed to live but was forced to leave immediately, and never return. She apparently flew the entire length of the Nether Mountain chain and unwisely attacked the Lady's Hand Monastery, perhaps hoping to gain powerful Netherese magic, rumored to be stored there, to use against her treacherous offspring. After she had destroyed the tower of the Lady's Hand, the Loviatan monks, led by High Whipmistress Lorthalae Shamrass, unleashed their secret weapons upon the former matriarch of the blue dragons and she was utterly destroyed in mid-flight.
+
+When the shocking news of Idrizraele's death reached the new co-leaders of the clan, they quickly decided that the violent death of a Morueme (by someone other than another Morueme) could not go unanswered and they mobilized their army of Red Flayers. The exact number of blue dragons that razed the Lady's Hand Monastery is unknown, but most of the buildings were destroyed and several caverns were breached by their rampage. The dragons then backed away and sent the hobgoblin army in to finish off the monks who had retreated to the deepest caves. Armed with their Netherese weapons and in an entrenched position, the monks held firm and eventually drove out the hobgoblin army, but barely forty Loviatans survived the devastation. After suffering heavy losses, the Red Flayers numbered about six hundred, but only because most of that number had been left behind to guard the Mouth of Morueme.
+
+Relations between the Red Flayers and the Moruemes were deteriorating even before the coup and subsequent defeat at the hands of the Lady's Hand monks. Each new generation of hobgoblins questioned and rebelled against the servitude to which they had been indentured by ancestors long forgotten. On top of this, the brothers were fixated on their breeding program which made the choice females off limits and gave the Blood the best of everything. As the months stretched into a year, about a third of the tribe was ripe for change and only lacked a leader with the charisma to incite a rebellion or a mass exodus. But it was not to be.
+
+On the first day of Hammer, 1373 DR, prophetically called the Year of Rogue Dragons, the lich Sammaster set off a Dracorage that lasted nearly a full year. The brothers and their mates flew out of the Mouth of Morueme and hunted down their hated enemy and favorite food source, the orcs of the Thousand Fists tribe, rooting them out of their caves and warrens in wholesale slaughter. Roraurim and his mate Faenphaele left behind their wyrmling son Arharzel, who by draconic standards was still wet from hatching, being a youth of scant years. The Blood of Morueme were less susceptible to the Rage, but it eventually overcame their will and they rallied around Arharzel, who led them in a devastating assault on the purebloods of the Red Flayer tribe. Being attacked from within, Doomspire was overrun in less than a day, but Arharzel was killed in the fighting.
+
+When their madness finally faded, the brothers and their mates returned to Dragondoom to discover what had been lost during their absence. They grimly put to death the remaining male hobgoblins and gathered the females for breeding new generations of the Blood. Except for a few that may have escaped, the Red Flayers were effectively extinguished and the Blood of Morueme took over the castle of Doomspire and the job of defending their kin and the clan of dragons that sired them.
+
+Relationships
+The orcs of the Thousand Fists tribe earned the enmity of the Morueme clan generations ago when a patriarch of the clan fell in battle with an orc horde. Orcs and ogres were always a favorite food of the dragons as well. Relationships with members of the Lady's Hand Monastery were never warm but after the razing of their enclave they were inclined to attack first and ask questions never. Members of the Blood of Morueme generally avoided humans in the wild.
+
+Once the chaos in the aftermath of the Dracorage was brought under control, the brothers Nahaunglaroth and Roraurim returned to their original plan of opening up relations to the outside world, and reversing some of the isolationist policies of their sire. The half-dragon Lothouryte Morueme was sent to Silverymoon as an ambassador with a proposal for a non-aggression pact with the peoples of Luruar. She was granted an audience with the High Lady of the League of the Silver Marches but the outcome of that meeting was not made public. In addition to being an accomplished bard, Lothouryte was a dragonsong lyrist and hoped to earn a position at Utrumm's Music Conservatory and generate renewed interest in the study of dragonsong.
+
+Notable members
+ Akkanrithux: A draconic hobgoblin talon of Tiamat.
+ Arharzel: Offspring of Roraurim and Faenphaele.
+ Eshaedra: The mate of Nahaunglaroth.
+ Faenphaele: Roraurim's mate.
+ Idrizraele: Kizilpazar's mate.
+ Kizilpazar: Patriarch of the clan, 1018 DR – 1371 DR.
+ Krashos: Lived among the drow of Ched Nasad.
+ Lothouryte: Emissary to Luruar.
+ Maruxthal: A draconic hobgoblin dragonkith.
+ Myshik: Companion of Kaanyr Vhok.
+ Nahaunglaroth: Co-leader of the Blood of Morueme, 1371 DR –
+ Roraurim: Co-leader of the Blood of Morueme, 1371 DR –
+
+Appendix
+References
+
+---
+
+## Black Garius
+
+Black Garius was a powerful archmage of Luskan and a member of the city's sinister ruling cabal, the Arcane Brotherhood.
+
+Description
+Garius wore regal-looking black robes and regarded others with a deep, intimidating stare.
+
+Abilities
+A powerful necromancer, Garius was skilled enough to undertake the transformation into lichdom.
+
+History
+Early Life
+Not much is known of his early life, save that he was once a lower-level agent of the Arcane Brotherhood. Garius was noted for his nigh-insatiable hunger for power and prestige, and his never-ending quest for this brought him into contact with the fallen Guardian of Illefarn, the King of Shadows. After he entered into an alliance with the shadow priests (unfortunates who were enthralled into the King of Shadows' clergy), Garius eventually came to realize that his place in this alliance did not suit his needs.
+
+Serving the King of Shadows
+As he searched for a way to dupe the King of Shadows, Garius enlisted the aid of many powerful beings. Among them was the only man who was able to defeat the King of Shadows single-handed: the mighty warlock Ammon Jerro. It's not known what Garius inquired of the warlock, but Ammon easily defeated Garius and his captors and returned to waging his war against the King. However, Garius learned of a weapon capable of destroying the King, the Silver Sword of Gith, and how it was split into many shards.
+
+He eventually tracked down several of the shards and found them in the possession of a powerful adventurer, the Kalach-Cha or Shard-Bearer, from the village where the sword was broken, West Harbor. Thus, Garius engineered to bring them to Luskan. There, Garius thought to use his connections in the city to get the shards into his hands. He was however thwarted in this, as the Kalach-Cha, along with the aid of the skilled wizard and former Hosttower mage, Sand, was able to prove their innocence in court and succeed in the Trial-by-Combat versus the warrior Lorne.
+
+However, this was but a temporary setback; Garius had all he needed for the ritual that would grant him the King of Shadows' power and thus usurp him. However, Garius's stronghold of Crossroad Keep (located in Neverwinter's territory) was assaulted by the Shard-Bearer and a group of Many-Starred Cloaks. Making it into the lowest chamber of the keep, they disrupted Garius' ritual. However, this was to the benefit of the Shadow Priests and the King of Shadows: Garius and the mages who aided him were transformed into the King of Shadows' greatest servants, powerful undead liches known as Shadow Reavers. Meanwhile, the Shard-Bearer claimed Crossroad Keep for the glory of the north.
+
+Now granted invulnerability and immense magical power, Garius and his fellows set about the destruction of the lands of Neverwinter and the Shard-Bearer. However, aided by Ammon Jerro and a githzerai Zerth known as Zhjaeve, the Shard-Bearer used the power of the true name scrolls to undo the Reaver's invulnerability, destroying them one-by-one and turning back Garius's attempt to retake his Keep. The Shard-Bearer and companions then cornered Garius in an ancient Illefarn stronghold, where the undead wizard attempted to tempt Sand, Qara, Ammon Jerro, or Neeshka depending on who was present. Having already recited his true name at Crossroard Keep, the Shard-Bearer defeated and slew Garius and then proceeded to destroy the King of Shadows, thus freeing the North from their evil.
+
+Appendix
+Behind the Scenes
+Black Garius was voiced by Christopher Murney.
+
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Blushing Maiden Inn
+
+The Blushing Maiden Inn was an inn in Dhedluk, Cormyr.
+
+References
+
+---
+
+## Black Courser
+
+Black Courser is a 2-edition Advanced Dungeons & Dragons adventure module that was set in the Forgotten Realms.
+
+Description
+Black Courser is designed for four to eight characters of levels 6-9. The adventure module revolves around the players' efforts to stop a band of evil pirates who have been raiding the coast. The pirates are led by a powerful sorcerer known as the Black Courser, who has the ability to control sea monsters and is seeking to build an army to conquer the coast.
+
+Contents
+ Introduction
+ Part I: Solon
+ Part II: Through the Mountain Kingdom
+ Part III: Khazari
+ Part IV: Kuo Meilan
+ Part V: Beneath Kuo Meilan
+
+Also includes NPC statistics, new monsters and a new magical item.
+
+Index
+Creatures
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+Magic
+Items  •  •  •  •  •  •  •
+Potions  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+Religions
+
+Miscellaneous
+Diseases
+
+Gallery
+
+Credits
+ Design: Troy Denning
+ Graphic Design: Roy E. Parker, Dee Barnett, Paul Hanchette
+ Cover Art: Brom
+ Cartography: Diesel
+ Interior Art: Paul Abrams
+ Typography: Angelika Lokotz
+Appendix
+See Also
+ Images from Black Courser
+External Links
+
+Amazon.com product page
+
+References
+
+---
+
+## Blood Charge
+
+Blood Charge is a Forgotten Realms adventure using the 2-edition Dungeons & Dragons ruleset, published in 1990 by TSR, Inc.
+
+Contents
+ Introduction
+ Non-Player Characters
+ The Stone Sceptre of Shih
+ Part I: Reunion
+ Part II: Red Mountain Monastery
+ Part III: Blood Charge
+ New Monsters
+
+Index
+Magic
+Items
+ • cursed Imaskari bag • cursed Imaskari boots • cursed Imaskari flask • cursed Imaskari gloves • cursed Imaskari hat • cursed Imaskari horn • cursed Imaskari horseshoes • cursed Imaskari shovel • Ebony Artifacts • Mirror of Flattery •
+Weapons
+ •  •  •
+Miscellaneous
+
+Gallery
+
+Credits
+ Design: Troy Denning
+ Graphic Design: Roy E. Parker, Dee Barnett, Paul Hanchette
+ Editing: Anne Brown
+ Cover Art: Brom
+ Typography: Angelika Lokotz, Tracey Zamagne
+ Interior Art: Paul Abrams
+ Cartography: Diesel
+ Production: Sarah Feggested
+
+Appendix
+See Also
+ Images from Blood Charge
+External Links
+
+Amazon.com product page
+
+References
+
+---
+
+## Blink dog
+
+A blink dog was a mysterious, intelligent canine creature. Most blink dogs had yellow-brown fur and large ears. They were well known for their ability to blink—a supernatural teleportation ability.
+
+Abilities
+Blink dogs had an average intelligence. They had powerful senses, including the ability to see in low light and see in the dark, as well as possessing acute scent detection and tracking.
+
+A blink dog's most well-known ability was its ability to blink, as well as use dimension door.
+
+Society
+Languages
+Blink dogs spoke their own language.
+Relationships
+They had a long hatred of displacer beasts, and would attack them on sight.
+
+Blink dogs were a favored monster of the deities Baravar Cloakshadow, Marthammor Duin, and Urogalan.
+Usages
+The heart of a blink dog could be used as an alternative material component for the spell Mordenkainen's faithful hound.
+
+Appendix
+See Also
+Foo dog
+Hound archon
+Moon dog
+Gallery
+
+Appearances
+
+Further Reading
+
+References
+
+FR:Chien esquiveur
+
+---
+
+## Blue Dragons
+
+The Blue Dragons was the name of Cormyr's Royal Navy. It was based in the Citadel of the Purple Dragons in Suzail and patrolled the waters of the Dragonmere.
+
+Organization
+In the, the Blue Dragons numbered more than 2,500 trained naval warriors. Fourteen large vessels led the fleet. The flagship and unofficial royal yacht was called the Crown of Cormyr. It was like a floating palace but was well-equipped with ballistae and catapults for flinging "firepots" (alchemist's fire) at enemies. The command ship was called the Dragon and was the largest warship in the fleet. The mere presence of these ships in the harbor was enough to dissuade Westgate and the other enemy navies of the Sea of Fallen Stars from attacking Suzail.
+
+The ships that did most of the work were much smaller and faster coast-runners such as the Blade of Espar and the Lance of Wheloon. These were out almost every day on the waters of the Inner Sea hunting pirates.
+
+Appendix
+References
+
+---
+
+## Blue Age
+
+The Blue Age was a time in the ancient history of Abeir-Toril when life on the planet resided in a single, vast ocean.
+
+The Dawn War between the gods and the primordials raged mostly over this unfortunate planet at the time and one of the primordials, Dendar the Night Serpent, devoured the sun. The temperatures on Abeir-Toril subsequently dropped markedly and not long afterward, most life on the planet became extinct. Thus ended the Blue Age and the Shadow Epoch began.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Blackstaff (staff)
+
+The Blackstaff was the name for a series of powerful magical staves, created and used by Khelben "Blackstaff" Arunsun and/or his successor.
+
+Description
+Khelben's Blackstaff
+It was believed that Khelben Arunsun, who carried the first Blackstaff title, selected a new Blackstaff every time he left Blackstaff Tower. However, it always appeared as a long wooden staff. It was longer than an average human was tall, roughly seven feet from base to tip.  A ring of bulbs circled the staff at about eye level, and the staff was topped by a curved claw shape. The entire staff was pure black in color.
+
+Samark's Staff
+Samark Dhanzscul, the sixth Blackstaff, carried a staff known as the Duskstaff, which was a twisted metal staff with a crystal on top that flashed various colors. It was unknown whether this was an iteration of a Blackstaff or a different staff. The Duskstaff could only be moved by the current Blackstaff or by someone wielding Ncral's Ring.
+
+Vajra's Blackstaff
+Vajra Safahr, the seventh Blackstaff, carried a silver-shod Blackstaff. The Blackstaff she carried when proclaiming her status as the new Blackstaff was the "true blackstaff", a large rune-inscribed duskwood staff with silver veins. The whole staff was blackened by use. Atop the staff was a large axe head in the shape of a snarling wolf's head, which had glowing green eyes.
+
+Known powers
+The Blackstaff had all the powers of a staff of power.
+
+The staff also had a permanent blackstaff (spell) upon it that could…
+ …grant an enhancement when used in melee combat,
+ …dispel magic with a touch,
+ …cause a spellcaster to loose a spell or expend a bit of their magical power, and
+ …channel various mind-affecting spells.
+
+A Blackstaff's Heir needed to touch the Blackstaff in order to be centered in his or her new powers. Only a Blackstaff or the Blackstaff's Heir could safely carry and wield a Blackstaff. As long as a Blackstaff's Heir was touching the Blackstaff, the powers of the actual Blackstaff (person) could be channeled through the staff.
+
+Appendix
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Blackstaff
+
+Blackstaff was the title and name given to the master of the eponymous staff and Blackstaff Tower, including Blackstaff Academy, as well as the Archmage of Waterdeep. "Blackstaff" was originally a nickname given to Khelben Arunsun because of his powerful staff of the same name, but after his death it became the title used by his successors.
+
+Blackstaffs
+Over time, rituals and traditions formed, and it became customary for the Blackstaff to choose an heir. The heir served as the apprentice and assistant to the Blackstaff.
+
+The magical quasi-spirits of the former Blackstaffs resided within the tower and served as advisors to the Blackstaff. They were not true spirits but were green-tinged facsimiles produced by the green kiira N'Vaelahr whose magic was bound to the tower. The kiira N'Vaelhar once held the spirits and combined knowledge of the first three Blackstaffs, Khelben Arusun, Tsarra Chaadren, and Kyriani Agrivar, but Krehlan Arunsun and the Grand Mages of Rhymanthiin dissipated the kiira in the Year of Staves Arcane (1415 DR) and bound its magic to Blackstaff Tower and its twin in Rhymanthiin, N'Vaerymanth. Now whenever someone became a Blackstaff or the heir, a template of their spirit, intellect, and knowledge became part of the Blackstaff and the tower (not the actual spirits). These spirits could not leave the tower, but the Blackstaff could communicate with them or tap into their knowledge whenever he or she so wished. Krehlan merged the gem with the tower so that it could be the Blackstaff’s advisor, rather than have all the combined consciousnesses of the previous Blackstaffs overwhelm the current Blackstaff.
+
+The Blackstaff could also manipulate the tower at will, opening any door with a thought, and could listen in on the conversations of anyone within the tower. He or she also knew the location and nature of every magical item within the tower and could see the tower’s twin, N'Vaerymanth, in his or her mind. Maliantor further notes in her book My Eyes Open Always: Memories of the Blackstaff (1416 DR) that the Blackstaff knew the location, identity, general mood, and intent of anyone within the tower by his or her magical ties to the stones.
+
+The seventh Blackstaff was Vajra Safahr. The following were the Blackstaffs in order from earliest to latest:
+Khelben Arunsun
+ A Chosen of Mystra and the original Blackstaff who created Blackstaff Tower, Khelben was almost a thousand years old when he sacrificed his life to raise Rhymanthiin, the Hidden City of Hope, on the Feast of the Moon, 1374 DR. He was considered the greatest of the Blackstaffs.
+Tsarra Chaadren
+ Tsarra was a half-elf sorceress who became the Blackstaff after Khelben’s death. In public, she wore a magical illusion of Khelben so that others not close to the Blackstaff would believe Khelben was still alive. She could commune with Khelben’s spirit whenever she wished and had all the knowledge and memories of the previous Blackstaff. Tsarra was able to hold the Spellplague at bay the first time it struck Waterdeep, but the second time, when it surged from Undermountain, it shattered her illusion as Khelben and revealed her true self before a crowd of gathered nobles at the palace. This revelation led to the two years known as the Retributive Years when Khelben’s enemies descended upon the city, only to be defeated by Tsarra.“Maliantor of Waterdeep, My Eyes Open Always: Memories of the Blackstaff, Year of the Enchanted Puppet (1416 DR).”  Tsarra, her heir, and most of the Moonstars died in battle against a coven of vampire-wizards in the Stump Bog in 1399 DR, the Year of Fallen Friends.,
+Kyriani Agrivar
+ Kyriani, the mischievous and playful mistress of Selûne’s Smile in Waterdeep and a member of the Moonstars, was the daughter of a human wizard and a drow. She had to reconcile and merge her warring natures of light and dark, and twice she had been split into separate bodies. Kyriani survived the battle against the vampires and, in honor of her friends, carried the Blackstaff back to Waterdeep, risking her sanity along the way due to the staff’s sheer power, and she became the third Blackstaff. With Open Lord Caladorn at her side, Kyriani gave a proclamation, magically attuned so that everyone in the city could hear it, atop Blackstaff Tower, announcing her assumption of the Blackstaff and pledging herself to the city. This proclamation atop Blackstaff Tower became tradition with each succeeding Blackstaff performing slight variations of it.“Paerl Nhesch, Architects Arcane: Waterdeep and the Sword Coast North, Year of the Dog-Eared Journal (1424 DR).”
+Krehlan Arunsun
+ Krehlan, silver-haired from birth, was the son of Khelben Arunsun and Laeral Silverhand. Unlike his parents, Krehlan was not a Chosen of Mystra, though one must still be a highly skilled spellcaster to become a Blackstaff. Laeral noted that Krehlan had his father’s temper.“Laeral Arunsun, Lifelong with Regrets, Year of the Wrathful Eye (1391 DR).”  Krehlan became Blackstaff in 1400 DR, the Year of Lost Ships. He was later killed by Chartham Dellenvol.
+Ashemmon
+ A sorcerer and long-time friend of Krehlan, the golden-haired half-elf Ashemmon of Rhymanthiin became Blackstaff in Ches of 1424 DR, the Year of the Dog-Eared Journal, after Krehlan’s death. Ashemmon was adept in matters of statecraft.“Sarathus Hothemer, Blackstaves: Their History, Year of the Forged Sigil (1459 DR).”
+Samark Dhanzscul
+ The heir to Ashemmon, the wizard Samark became Blackstaff in 1464 DR, the Year of the Six-Armed Elf, after Ashemmon’s death. Samark was murdered by the ambitious wizard Khondar “Ten-Rings” Naomal on 20 Marpenoth, 1479 DR.
+Vajra Safahr
+ Vajra was a young woman from Tethyr, She was Samark’s lover and became heir to the Blackstaff after his death. She is the daughter of the paladin Tamik al Tamik el Safahr and Parama yr Manshaka. Though naturally a sorceress, she abandoned the art of sorcery at the age of fourteen and adopted wizardry when her sorcerer’s spells were not enough to save her father and aunt, Mynda Gyrfalcon-Thann, from assassins. Vajra’s heir is the sorceress Laraelra Harsard. Vajra is descended from Khelben through his great-grandson Count Gamalon Idogyr of Spellshire.
+
+References
+
+---
+
+## Blood fiend
+
+Blood fiends were abominations who fed on the blood of living creatures. Initially created in the Elemental Chaos by the ancient primordial, Haemnathuun, they were just as prevalent in other planes, wherever there were creatures to provide food for them.
+
+Description
+Blood fiends were humanoid in form, with a purple-black or reddish scaly hide, a lupine muzzle with great fangs, red eyes, and four clawed hands. Each of these hands had five razor-sharp claws extending from them, as did the feet.
+
+Abilities
+Blood fiends preyed on other fiends, as vampires preyed on humans. They also had the same ability to transform other creatures into their kind. In order to assist them in their hunts, blood fiends could use a terror gaze that immobilized their unfortunate victim, making the feast all the easier for the blood fiend. Blood fiends themselves were immune to fear.
+
+Most wounds inflicted on them would heal in a matter of moments.
+
+Notable blood fiends
+ Tsagoth
+ Mari Agneh
+
+Appendix
+
+Appearances
+Adventures
+City of the Spider Queen • Dungeon #128, "The Fireplace Level"
+
+References
+
+Connections
+
+---
+
+## Blasphemy
+
+Blasphemy was an evocation spell that could incapacitate or even kill non-evil creatures and banish those of extraplanar origin. The counterpart to this spell for casters of good alignments was holy word.
+
+Effects
+This spell compared the target's toughness or experience level with the experience level of the caster and had no effect on creatures that were superior to the caster, but the effects were increasingly severe and cumulative for those equal to or inferior. The only way to avoid these effects was to not hear the blasphemy, either by virtue of already being deaf, or some form of magical silence.
+
+In addition to the effects described below, this spell could send extraplanar creatures back to their home plane, as long as the blasphemy was spoken on the caster's home plane. This affected all weak-willed nonevil creatures, thus allowing it to banish those of a neutral alignment as well. This dismissal happened even if the creatures in the area of effect could not hear the blasphemy, and any banished creatures were blocked from returning to the caster's home plane for at least 24 hours.
+
+The area of effect was a circle of 40 ft (12.2 m) radius centered on the caster. Upon completion of casting, all non-good creatures equal to or inferior to the caster suffered one or more of the following cumulatively:
+ Relation to Caster  Effect Equal to  dazed for a minute Strictly inferior  and weakened for a few minutes Greatly inferior  and paralyzed for up to 10 minutes Completely dominated  and killed (destroyed if undead)
+
+Components
+This spell only required a verbal component to cast.
+
+Appendix
+See Also
+ Holy Word
+ Silence
+ Silence, 15' radius
+Appearances
+
+References
+
+---
+
+## Bless
+
+Bless was an enchantment or conjuration spell that temporarily increased the morale and combat skill of allies. The conjuration version of this spell was reversible and was called curse, also known as bane, and temporarily lowered the morale and combat skill of enemies.
+
+Effects
+Those allies blessed were granted a brief boost to their morale in the face of fear and a slight improvement in combat skill that increased their chance to strike a blow or aim true.
+
+The conjuration version of this spell had to be cast just before the recipients engaged in combat. It could also be used to enhance a single weapon or item, such as a sword, an arrow, or a sling bullet, improving the chance to hit an enemy.
+
+Bless countered and dispelled bane or curse, and vice versa.
+
+The sundering version of the spell could only effect 3 allies and gave a minor bonus to attacks and recistence to effects. If used with more skill the spell could effect a higher number of targets. Unlike the earlier versions this does effect the Bane spell
+
+Components
+The enchantment version of this spell required verbal and somatic components and the caster's holy symbol or divine focus. The conjuration version also required (un)holy water. The sundering version required a sprinkle of holy water.
+
+Appendix
+See Also
+ Bane
+Gallery
+
+Appearances
+Card Games
+Spellfire: Master the Magic
+External links
+
+References
+
+---
+
+## Blade barrier
+
+Blade barrier was an evocation spell that summoned a wall of spinning, razor-sharp blades of force.
+
+Effects
+Older versions of this spell created a deadly curtain that could be as small as 5 ft (1.5 m) square or as large as 60 ft (18.3 m) square. Newer versions capped the height at 20 ft (6.1 m) and the shape could be a straight wall or a circular barrier whose length or radius was dependent on the caster's level.
+
+Any creature passing through the wall was harmed, although nimble creatures could avoid some of the blades from the newer version of the spell. If cast in an area already occupied, those quick enough could avoid the wall as it formed and be safely on whichever side they chose.
+
+The barrier not only kept opponents at bay, but also provided some cover from ranged attacks that passed through it.
+
+After the Sundering the spell changed to cover more area in ether a wall or a ringed wall. The straight wall could stretch 100 feet long (30,48 meters), 20 feet high (6.096 meters) and 5 feet thick (1.524 meters). The round wall could have up to 60 feet in diameter, 20 feet high and also 5 feet think.
+
+Components
+Only verbal and somatic components were necessary to cast this spell.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Blastback swipe
+
+Blastback swipe was a spell used by some swordmages, particularly those of the assault style.
+
+Effects
+When cast, even when charging, blastback swipe caused the swordmage's weapon to strike a foe with the force and sound of a thunderclap. The sonic energy not only caused the creature extra injury, but also pushed them back 10 feet (3 meters).
+
+Assault swordmages could also use it for their aegis of assault spell.
+
+Appendix
+References
+
+---
+
+## Bless weapon
+
+Bless weapon was a transmutation spell that grants a weapon a temporary holy aura.
+
+Effects
+A paladin used this spell to enhance a weapon to be more deadly against evil creatures. When the spell was in effect, the blessed weapon was able to cause terrible damage to all evil creatures, including incorporeal creatures. A paladin was able to cast this spell on the ammunition of a ranged weapon, such as arrows. If the spell was cast on a ranged weapon but not the ammunition, the ammunition would not be blessed.
+
+Components
+This spell required only  verbal and somatic components.
+Appendix
+See Also
+Holy sword
+Appearances
+
+Further Reading
+
+External links
+
+References
+
+---
+
+## Bleeder (axe)
+
+Bleeder was an enchanted axe.
+
+Description
+The axe was heavy but finely crafted.
+
+Powers
+The axe was heavily ensorcelled, though it was not clear how. However, the axe was able to easily cut through the trunk of a four-inch-diameter maple tree.
+
+Notable Owners
+ Roddy McGristle  The bounty hunter Roddy McGristle wielded the axe from before 1341 DR through 1347 DR.
+
+References
+
+---
+
+## Blade and Stars
+
+The Blade and Stars was an inn in Baldur's Gate on the Sword Coast of Faerûn.
+
+Structure
+
+The long building was four stories high with an attached stable. The kitchens were on one side and the upper-room balconies were on the other. The rooms were tidy and clean. The front lobby hosted a small lounge where guests could meet citizens. Outside, the inn sign displayed a female hand clutching a lightly curved saber and several enchanted stars that twinkled softly. It was rumored the sign was plundered and purchased years ago from a raiding party in Amn.
+
+Atmosphere
+The inn was fairly quiet and sold drinks at moderate prices. Meals were served in guests' rooms rather than a dining room and consisted of regular ale, bread, and fish. The bread could be ordered with cheese or melted eggs. On winter nights, the staff served ruby cordial, a sweet brew of cherries dissolved in sugared red wine.
+
+Staff
+The innkeeper, Aundegul Shawn, hired several guards to turn away street rogues and thugs from entering the establishment. They were especially on the lookout for doppelgangers, which posed a growing problem in Baldur's Gate around 1367 DR.
+
+About a century later, the Blade and Stars was run by the half-orc Aurayaun. After her sudden disappearance, it was taken over by her wife Lupin.
+
+Rumors
+Local legend stated a female yuan-ti was trapped within the inn's walls, imprisoned while fighting a wizard. Rumors said she would finally be released upon his death.
+
+Prices
+ Rooms (included bath, stabling, one free drink, and meals) for 3 gp per night.
+ Cordial for 3 cp per goblet.
+ Ale for 3 cp per tankard.
+
+History
+
+As of the, regular patrons included G'axir the Seer and Elkart.
+
+At some point during the 15 century DR, the magical sign of the Blade and Stars was stolen. One Baldurian begger claimed that the thief was Aurayaun, the former innkeeper who had just recently gone missing.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Black Altar
+
+The Black Altar was the temple complex devoted to the god Bane in the ruined city of Zhentil Keep.
+
+Location
+The Black Altar was located in Zhentil Keep's Inner Quarter along Elephstron Way.
+
+History
+In 1263 DR, Fzoul Chembryl broke with the Black Lord's Altar, the orthodox banite church run by the High Imperceptor of Bane in Mulmaster and declared the Black Altar the new centre of the Black Lord's church. With this power shift, Fzoul brought a large portion of Zhentil Keep's priests of Bane into the ranks of the Zhentarim. Fzoul remained highpriest of the Black Altar well into the 1350s DR.
+
+In 1357 DR, warrior-priests of the High Imperceptor briefly took control of the Black Altar, but Fzoul routed the orthodox banites. During the Time of Troubles in 1358 DR, the Black Altar was destroyed when the avatar of the god Bane fell to the Realms directly on top of the temple. Bane ordered the temple to be rebuilt. On the final night of Marpenoth, 1361 DR, the Black Altar was again devastated by a huge column of flame that fell from a low hanging cloud. This was the signal that the Banedeath was to commence. Again, it was rebuilt, though as a temple to Cyric.
+
+From 1361 DR to 1368 DR, the Black Altar was a temple to Cyric, but in 1368 DR, the Black Altar was finally obliterated by a blast of powerful divine fire sent from the god Mask. On a nine-day ritual in Mirtul, 1370 DR, Fzoul Chembryl consecrated the ruins of the Black Altar to Iyachtu Xvim and summoned the Tyrantfog. With the return of Bane in 1372 DR, the Black Altar was still not rebuilt.
+
+Structure
+Several of the many-paned windows were inset with rubies. The buildings of the complex were linked by railless spans of stone bridges, twenty man-heights above the ground.
+
+Interior
+At the center of the Black Altar was a room known as the Inner Chamber of Solitude. The door to the chamber was heavy oak and bronze and it was said within the chamber one would be close to Bane. The floor of the chamber was highly polished marble and in the center of the chamber was a massive, giant black throne.
+
+Defenses
+The Black Altar had numerous traps and guardian creatures protecting the temple.
+
+Appendix
+References
+
+---
+
+## Blackfeather Bridge (village)
+
+Blackfeather Bridge was the name of a village surrounding the bridge of the same name across the River Ashaba in Featherdale on Raauthauvyr's Road.
+
+History
+The village of Blackfeather Bridge was founded in 1358 DR The Blackfeather Bridge itself was once a wooden bridge painted black, but by 1368 DR, it was made of stone.
+
+Geography
+The village marked the western end of Featherdale.
+
+Notable locations
+Temples
+The Blackfeather bridge itself was considered a sacred site for the church of Cyric, as it was the location Cyric killed Leira., and where mortal Cyric passed in life.
+
+References
+
+---
+
+## Bladen'Kerst Baenre
+
+Bladen'Kerst Baenre was a daughter of Yvonnel Baenre and a high priestess of Lolth.
+
+Personality
+Bladen'Kerst was known for her sadism and cruelty, as well as her lack of recognition for the protocols of drow society. Those traits led her mother to keep her in-house for fear that she would attempt to form her own house and succeed, fail, or disgrace her mother in the process. In the meantime, Bladen'Kerst was kept busy by terrorizing the house males.
+
+History
+Bladen'Kerst was killed by Gandalug Battlehammer, who strangled her with her own whip in 1358 DR.
+
+Relationships
+Bladen'kerst was the daughter of Yvonnel Baenre and the second-oldest daughter (after Triel Baenre) at home at House Baenre in the 1350s DR.
+
+Appendix
+Appearances
+Novels
+Starless Night
+Siege of Darkness
+Condemnation (mentioned)
+
+Sourcebooks
+Menzoberranzan (boxed set)
+Menzoberranzan: City of Intrigue
+A Reader's Guide to R. A. Salvatore's the Legend of Drizzt
+
+References
+
+de:Bladen'Kerst Baenre
+
+---
+
+## Black Isle Studios
+
+Black Isle Studios was a division of the PC and video game developer and publisher Interplay Entertainment, created specifically for the development of PC role-playing games. The division was formed during 1996, adopting the name "Black Isle Studios" during 1998. The idea for the division's name came from the Black Isle in Scotland - founder Feargus Urquhart's native country. Black Isle Studios was most famous for working on the Fallout, Icewind Dale and Baldur's Gate series of PC role-playing games, though it only published the Baldur's Gate series.
+
+Closure
+In 1998, several key members responsible for the division's first title, Fallout, left Interplay to form Troika Games. On December 8, 2003, in the midst of serious financial difficulties, Interplay laid off the entire Black Isle Studios staff., filing bankruptcy on June 2, 2004. By then, most members had moved on to found Obsidian Entertainment.
+
+Until last, Black Isle Studios worked on new innovative games, such as Fallout 3 (Codename: Van Buren) and Black Isle's Torn.
+
+Products
+Fallout (1997)
+Fallout 2 (1998)
+Planescape: Torment (1999)
+Icewind Dale (2000)
+Icewind Dale: Heart of Winter (2001)
+Icewind Dale: Heart of Winter - Trials of the Luremaster (2001)
+Icewind Dale II (2002)
+Baldur's Gate: Dark Alliance II (2004)
+
+Among the products whose development Black Isle assisted are:
+Baldur's Gate (1998)
+Baldur's Gate: Tales of the Sword Coast (1999)
+Baldur's Gate II: Shadows of Amn (2000)
+Baldur's Gate II: Throne of Bhaal (2001)
+Lionheart: Legacy of the Crusader (2003)
+
+Two compilations bearing their name were also released:
+Black Isle Compilation (2002)
+Black Isle Compilation Part Two (2004)
+
+References
+
+External links
+GameSpot: "Interplay shuts down Black Isle Studios" (8 December 2003)
+Black Isle Studios profile on MobyGames
+
+de:Black Isle Studios
+en:Black Isle Studios
+
+---
+
+## Bloodhorn
+
+The Bloodhorn was a great mountain crag overlooking Sessrendale.
+
+Inhabitants
+In 1370 DR, the red dragon Thraxata was known to lair on Bloodhorn.
+
+Appendix
+
+References
+
+---
+
+## Blustich
+
+Blustich was a small hamlet in southern Cormyr on the edge of the Hermit's Wood and the west bank of the Wyvernflow.
+
+Trade
+The villagers of Blustich spent most of their time hunting, fishing, and farming. They were known for their skill at windraising dances where they could summon winds strong enough to blow the nuts off hickory trees, that they then gathered up in baskets.
+
+These dances used log drums and gourd rattles as instrumental accompaniment. Some were of the opinion that this apparent success at weather control had more to do with knowledge of the natural wind currents from the Lake of Dragons, rather than a "divine response to bad music".
+
+The villagers harvested local mushrooms such as uttercaps, khondyn, and thoud. These mushrooms were prolific around Blustich but rare elsewhere.
+
+Appendix
+References
+
+---
+
+## Black Raven Monastery
+
+Black Raven Monastery was founded in 1181 DR by Valas Belaem del Pharm and dedicated to the teachings of the Black Raven, a near mythical hero and a quasi-deity of the Uthgardt people.
+
+Location
+The monastery was located in the Spine of the World and connected Valas' Tomb to the Underdark.
+
+ Interior
+There were three floors to the monastery. The ground floor was the most used floor, and the general hub of the monastery. Upon entering the building, was an entrance hall which held a gathering of monks. Further along was a large combat training area for practising in unarmed combat. There was also a dedicated library, but many bookshelves all around the monastery. Other rooms in this floor consisted of a storage room, quarters (archmandrite's, guests', and monks') and a kitchen.
+
+The lower floor held a lobby, stationed by a monk, and nine rooms to host the Eight Chambers. Each room was vastly different in both size, color and style.
+
+The bottom floor was essentially an underground cavern, bearing Valas' tomb. The tomb was surrounded by four iron golems, and would activate if the tomb was disturbed. The area was protected by many gates bearing the symbol of the Black Raven.
+
+Activities
+General
+The monks of the monastery were taught to fight slavery of any kind, even imprisoning a criminal was prohibited by the monastery's philosophy. Furthermore, since Valas Black Raven was once a slave, the monks believed all servants were to be treated with respect. Monks would follow Valas' values and were taught to fight in unarmed combat.
+
+Initiation
+Only monks were allowed to visit Valas' Tomb. In order to become one of these monks, one had to master the Eight Chambers. The newest monk of the order would become the Master of Chambers, and give up that position once another monk joined the monastery. The master would show potential initiates from chamber to chamber, and instruct them on the trials ahead.
+
+The Eight Chambers
+The Eight Chambers were a series of trials which had to be completed in order to join the Black Raven Monastery. The lower floor of the monastery was dedicated to these sets of trials. Initiates looking to join had to enter each chamber without their armor, weapons and items. They could only use a small selection of weapons available in the chambers. Due to the deadliness of the trials, many challengers died within.
+
+The Chamber of Stone
+The first chamber was a seemingly empty room containing five levers. They had to be pulled in the correct order, or would reset. The first successful pull would summon a magic-resistant stone monk, which had to be defeated. The second pull would summon two of these monks, and so on, up to the fourth lever. The potential initiate would have to defeat a minimum of ten stone monks, then could trigger the final lever, to complete the trial.
+
+ The Chamber of Shadows
+In the chamber of shadows, one had to navigate through a series of dark portals in a particular order. The shadows could both hinder and help the challenger. Each incorrect turn would summon a shadow monk, and then reset the participant's progress. These monks could be avoided, and didn't have to be defeated. After the correct passage of dark portals was taken, one could pass to the next trial.
+
+ The Chamber of Sorcery
+This chamber contained a series of flowing panels on its floor. The challenger had to use them wisely to defeat the foes within the chamber. Two crystalline monks awaited the challenger. The pair of monks would cast lightning bolts. The challenger could only survive the encounter by standing on a specific glowing rune, which would grant protection to lightning. The two monks had to be slain in combat.
+
+ The Chamber of Clockwork
+The fourth chamber was filled with deadly whirling blades and drill. Three clockwork monks would appear in the chamber. After one of the monks was defeated, he would explode in a fiery burst. Only by getting to a specific platform, whilst avoiding the traps, could the challenger survive the bursts. All three monks had to be defeated.
+
+ The Chamber of Sand
+The participant started the trial by being teleported to a room filled with sand, with four levers on the walls. Two powerful sand monks would attack the participant with magical attacks. The challenger had to pull the levers, which would cause a beam of fire to shoot across the room. Only by luring the monks into the beams of fire, whilst avoiding their onslaught, could the participant kill them and complete the trial.
+
+ The Chamber of Silk
+Poisonweb spiders had strung venomous webs across this room, and lurked in its dark corners. Upon entering the chamber, several spiders would swarm the challenger with deadly poison. Multiple web spells are cast, and the challenger could find themselves trapped. The challenger had to kill every single spider in order to continue.
+
+ The Chamber of Battle
+This chamber consists of two rooms, the first containing one iron monk, and the second room, another one. The first room had a single platform, whilst the second had two. The participant had to pull a level whilst each iron monk was on the platforms. The lever, however, was far away from the platforms. The participant could kill the monks whilst they were on the platforms. Other ways were to achieve this were to summon creatures to distract the monks at the location of the platforms. Once all levers were pulled, the challenge was complete.
+
+ The Chamber of Immolation
+The final chamber was incredibly dangerous. Huge gouts of fire would erupt from the floor and flames would strike down from the ceiling. Two very powerful brass monks would engage in combat with the challenger. The competitor would have to kill both monks, whilst avoid dying in the hostile environment. Only after defeating this final trial could one become an initiate at the Black Raven Monastery.
+
+History
+After his escape from slavery, Valas Belaem del Pharm founded the monastery in 1181. In the late 13th and early 14th centuries DR, Ormis Dohor lead the monks of the monastery. The title of the current leader of the monastery was archimandrite. Ormis took leave to visit the Legion of the Chimera capitol at the Severed Hand, and left Aruma Blane in charge. When Ormis refused to side with the legion, an envoy named Dolon Daemba was commanded to corrupt Aruma and make sure that the monastery kept out of the legion's business. Aruma was a harsh leader, and exiled every monk which spoke out against her.
+
+After Dolon's plans were exposed by a group of adventurers, he confessed his love for Aruma. He then convinced her to leave Faerun with him, to his place of origin, Sigil. Aruma left control of the monastery to Salisam Harbash as part of a three monk council.
+
+Sometime before the late 14 century DR, a splinter group of monks left the Black Raven Monastery, establishing the Dark Ravens – a monastic order of assassins for hire. The group operated out of the Dark Raven Monastery. One notable victim of their lethal arts was drow House Uoswiir of Menzoberranzan.
+
+Inhabitants
+The monastery held many monks, all of which followed the current archimandrite. The monastery seldom had visitors, but were sometimes visited by adventuring groups.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Black Raven River
+
+The Black Raven River in the North was a tributary feeding into the River Mirar.
+
+Geography
+Situated in a canyon near this river was the Raven Rock. The Black Raven River spilled out of the River Caves in the Spine of the World and flowed south, past the Fell Wood and the Cold Marshes, the Ice Lakes and merged into the River Mirar.
+
+Appendix
+References
+
+---
+
+## Blood amniote
+
+Blood amniotes were a type of undead ooze made of congealed blood and which gorged on blood.
+
+Description
+Blood amniotes were composed of hundreds of dead bodies that had died within close proximity of each other.
+
+Combat
+Blood amniotes would sneak up behind their prey and attempt to grapple them with numerous grasping tendrils, then proceed to drain blood from their victim's body.
+
+History
+Around the, one could occasionally find blood amniotes within the Dungeon of the Crypt.
+
+Rumors & Legends
+Scholars were uncertain as to the exact origin of blood amniotes, with debates split between spontaneous formation or artificial creation through necromantic rituals involving mass sacrifice.
+
+One legend claimed that they inadvertently came about due to the actions of priests of Orcus. The legend stated that the priests unleashed a storm of burning blood against two opposing armies and that from this mass slaughter arose the first blood amniotes.
+
+Appendix
+
+Appearances
+Novels
+Unholy
+References
+
+Connections
+
+---
+
+## Black Cloaks
+
+The Black Cloaks were a secret cabal of mages created by the archmage Manshoon in the mid–13 century DR, based out of Zhentil Keep.
+
+Loyal to him and of like mind, they were a basis for the Zhentarim and remained a core element of the Black Network.
+
+Appendix
+References
+
+---
+
+## Blaskaltar
+
+Blaskaltar was a settlement in the Shaar. It had been ruined for long ages by the mid–14th century DR.
+
+The place was home to the First Shrine of the Queen of Air, the first known shrine dedicated to Akadi, the Queen of Air, in Faerûn and the holiest site of her church. However, the structure had long since been erased by time, the elements, and neglect, leaving only a mound by 1370 DR.
+
+Nevertheless, every Midsummer, the faithful of Akadi from all around Faerûn, after traveling for tendays, gathered here for their only calendar festival. Together, they chanted the names of heroes of the faith and added the names of those who'd died in the last year. In this way, they remembered the history of their church so they did not forget their past nor were doomed to repeat it.
+
+References
+
+---
+
+## Bloodkiss beholder
+
+A bloodkiss beholder was a kind of undead vampiric beholder whose eyestalks had mutated into mouths that allowed it to drain the blood of its victims.
+
+Description
+The flesh of a bloodkiss beholder's body had been twisted by necrotic energy until it barely resembled its living form. At the end of its stalks were toothed orifices it used to drain blood.
+
+Personality
+Bloodkiss beholders were intelligent undead similar in behavior to their old selves despite their cravings for blood. They preferred to live alone, but could be forced into service by powerful necromancers.
+
+Combat
+Bloodkiss beholders could perform a banshee-like scream that disoriented their prey, and they would rush into a group of victims before screaming at them. Their thirst for blood drove them into a violent frenzy, attacking nearby prey with ferocity. The scent of bloodied prey drove them into a deeper frenzy, and they would hook their teeth into injured food and drain it to recover. If they could smell blood nearby but couldn't reach it, they would scream even harder in a fit of hunger to prevent prey from fleeing. Great injury would result in writhing and banshee-like screaming in distress. Despite their thirst for blood, they were still rational beings and would flee when a situation became too dangerous.
+
+History
+In 1479 DR,The date for all Year 1 RPGA sanctioned adventures is considered to be 1479 DR for the purposes of this wiki. having learned that a group of adventurers were on their way to Relkath's Foot to kill her, the baelnorn lich Voldini recruited the aid of a bloodkiss beholder to ambush the caravan they were traveling in so she would have time to make preparations for an escape.
+
+Appendix
+
+See also
+ Death kiss
+Notes
+
+Appearances
+Organized Play & Licensed Adventures
+Twilight Ambitions
+References
+
+Connections
+
+---
+
+## Black Raven (disambiguation)
+
+Black Raven might refer to:
+ The Black Raven tribe of Uthgardt barbarians from Raven Rock.
+ The Black Raven (person), the mysterious Uthgardt quasi-deity or a near mythical figure.
+ The Black Ravens, a group of thieves that operated in the city of Tantras and later Ravens Bluff.
+ Valas Belaem del Pharm, known as "Black Raven" and founder of Black Raven Monastery.
+ The Black Raven River located in the North
+
+---
+
+## Blade of banishing
+
+A blade of banishing was a magical dagger that was able to destroy magical barriers, illusions, or protections upon coming in contact with them.
+
+The dagger was always active, it could not be "switched off", and would have this effect whether or not it was being wielded, or if it was drawn. It simply needed to come into contact with the magic against which it was acting. A blade such as this was worth around 5,000 gold pieces as of 1368 DR.
+
+Appendix
+References
+
+---
+
+## Black Hand of Bane
+
+The Black Hand of Bane, preferred weapon of the tyrant god Bane, was a +5 axiomatic mighty cleaving unholy gauntlet.
+
+References
+
+---
+
+## Blasko Halamar
+
+Blasko Halamar was a stout ex-warrior and stable owner who owned Halamar's Horses in Beliard around 1370 DR.
+
+Description
+The stable master was stout with a long white beard.
+
+Personality
+Blasko enjoyed telling stories about adventures, orc battles, and treasure; his favorite tale was about riches buried by wealthy ladies fleeing the fall of Netheril. Halamar was known for his shady side as well, buying lame horses and then reselling them at marked up prices.
+
+Appendix
+Appearances
+The North: Guide to the Savage Frontier
+Volo's Guide to the North
+
+References
+
+---
+
+## Bloodrun
+
+The Bloodrun was a street near the sea wall in Luskan which wrapped around the wall at the south end to become the Piers.
+
+Inhabitants
+The road was heavily patrolled by the local soldiers.
+
+Appendix
+References
+
+---
+
+## Bloodmire Manor
+
+The Bloodmire Manor was a manor owned by Lady Luvia Bloodmire located in the Upper City of Baldur's Gate. It had a large hidden basement complex in which Luvia Bloodmire experimented with cadavers and created monstrous flesh golems. By the late 15 century DR, it had been shuttered for some time, the manor was seemingly abandoned and viewed by the local townsfolk as haunted.
+
+Description
+
+The manor had floods of laid tiles and columns scattered around the manse. It was well furnished, with vases, bookcases, fireplaces, and even a harpsichord in the foyer by the entrance, that, when a certain melody was played, opened a secret passage to Lady Bloodmire's underground laboratories. It had three staircases that led to a hallway and several other rooms. In the late 14 century DR, it was inhabited by creatures such as demon dogs that inflicted deadly poison, and shambling stitched together dead creatures. The building also had a cellar full of reanimated skeletons and spiders and a vermin-infested attic used for storage.
+
+History
+In the late 14 century DR, the Bloodmire Manor was investigated by a group of six heroes, tasked with investigating mysterious disappearances across Baldur's Gate. The heroes discovered the manor filled with monstrosities menacing the staff and servants. Subsequently, the group confronted the mistress of the manor – Lady Luvia Bloodmire, after slaying her stick together cerberus-like monster she called Atrocius.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Blackbutter Inn
+
+Blackbutter Inn was an inn owned by Dhelosk Quelbeard in the town of Red Larch.
+
+Structure
+The inn was a two-story building of stone and timber with a covered porch that ran parallel to the Long Road.
+
+History
+The Blackbutter Inn was named after the Barglun Blackbutter, the founder and previous owner of the inn who was killed around 1365 DR.
+
+References
+
+---
+
+## Blackfeather Barrens
+
+Blackfeather Barrens was an area of badlands in southeast Faerûn. A kenku-dominated wasteland known for its hostility towards outsiders, it was feared even among the other inhabitants of the Beastlands in the late 14th century DR.
+
+Geography
+It was a land of fractured plains and desolate canyons. It lay between the monster realms of the Beastlands.
+
+Locations
+A rookery town of kenkus called Blackfeather was hidden somewhere in the Barrens.
+
+Relations
+The kenkus of Blackfeather Barrens mercilessly attacked all trespassers.
+
+References
+
+---
+
+## Blade
+
+A blade was a type of sharp-edged melee weapon. Blades, particularly swords and daggers, were used throughout Faerûn and beyond.
+
+Description
+Blades were specifically used to cut and slice. Such items were hand-held slashing weapons made of metal or other rigid material. Specifically for blades, the cutting edge made up most of the length of the weapon, unlike axes and pole arms, where the cutting edge was much shorter than the overall length. As such, examples of blades were swords (short or long), daggers (very short, double edged), and knives (very short, single edged).
+
+Appendix
+References
+
+---
+
+## Black Ash Plain
+
+Black Ash Plain was located west of Unther in East Faerûn.
+
+History
+In 1373 DR, many refugees from the Untheric - Mulhorandi conflict ran through the plain. The ones that got out alive saw several ruined structures jutting up from the blackened earth. Survivors stated these ruins extended below the surface of the ground, but no one explored or proved that these subterranean levels even existed. When the Spellplague struck in 1385 DR, this wasteland, south of Tymanther, was devastated when part of Tymanchebar fell into Faerûn.
+
+Geography
+Only sparse grass and twisted shrubs grow on the plain and strange rock formations shift and move around the landscape on their own. Hardly any soil other than the volcanic ash itself exists within this dark land, which was blackened and infertile, and even the Mulhorandi army avoided it.
+
+Inhabitants
+Named for the volcanic black ash always falling from the Smoking Mountains to the north, the plains were home to brown dragons and an endemic subrace of stone giants known locally as ash giants. These ash giants learned to predict the movements of the ashen spires within the region, with certain giant adepts also being able to direct these formations for use in combat.
+
+Gallery
+
+References
+
+FR:Plaine des cendres noires
+
+---
+
+## Black Horde
+
+The Black Horde was an orc horde that assaulted the Sword Coast in the Year of the Black Horde, 1235 DR. It was the largest orc horde in the history of Faerûn by the late 14 century DR. The Black Horde besieged countless settlements in the North and threatened kingdoms far south of it as well.
+
+History
+The Black Horde erupted out of the North in 1235 DR and marched south along the Sword Coast and through Amn, Tethyr, and Calimshan. It brought war and laid siege to numerous settlements in these lands. Many thousands of them surged over the plains and hills of the south. Having rarely been seen south of the Far Hills and Reaching Wood, and even then only alone or in pairs, the appearance of an orc horde came as a shock to the nations of the Shining Sea. The armies and adventurers there used to combating goblins could barely withstand the orcs' numbers and basic ferocity. Moreover, the orcs came in the middle of summer, when many leaders were away at their summer villas in the Marching Mountains.
+
+In the North, while Silverymoon was under siege by the Black Horde orcs, Warlord Khallos Shieldsunder seized control of the city. Khallos underestimated the orc threat, and was killed in battle with them and the city walls were breached for the first time in six centuries. But the new Spellguard held the city under siege for three months. During this, almost unnoticed, rule of the city was usurped in turn by the mage Shallos Ethenfrost. Finally, in the Battle of Tumbleskulls, a Harper army commanded by Alustriel and Storm Silverhand, aided unexpectedly by the archmage Tulrun of the Tent, defeated the besieging orcs and liberated the city.
+
+In Amn, King Belhinn II was killed by the Black Horde orcs. Amnian forces took many orc prisoners of war, brought them to Purskul, and put them to work as slaves in agriculture and stoneworking. Eventually, many gained their freedom and settled in the area, giving rise to Purskul's sizeable half-orc population.
+
+In Tethyr, four orc armies arrived on the Plains of Clovis by Midsummer and local villagers panicked. The armies of King Haedrak II routed the orcs and drove them out of western Tethyr; the surviving orcs escaped into the Kuldin Peaks, Shilmista, the Forest of Mir and other places, and into the ruins of Shoonach and Mamlukkar, where they remained as undead.
+
+In Calimshan, orcs of the Black Horde killed the Syl-Pasha of Calimport and at least 43 key influential and underworld figures of the realm. This would mark the end of the Eighth Age of Calimshan.
+
+The Horde also laid siege to Waterdeep, in a battle called the Siege of Waterdeep. During it, orcs infiltrated the city and possibly stole the ettin axe of Uruth, an emblem of orc power. Ultimately, the city escaped devastation, thanks to Ahghairon and his generals providing griffons as flying mounts for the army.
+
+The Lords' Alliance sent the Company of the Crescent Blade, the militia of Baldur's Gate, led by Eldrith the Betrayer. Despite being outnumbered, Eldrith and her group attacked and scattered the horde. However, looking to deal a fateful blow on the horde to ensure it never threatened Baldur's Gate again, as it would have attacked Baldur's Gate after Waterdeep, she defied the Grand Duke's orders and fought the horde for a second time. The horde, however, fought viciously and dealt Eldrith her first defeat, an action that would lead to the construction of the Onyx Tower.
+
+The Knights of the Shield mercantile consortium aided in the defeat of the Black Horde.
+
+Appendix
+References
+
+---
+
+## Blades of the Moonsea
+
+The Blades of the Moonsea series by Richard Baker is a trilogy of novels that follow a few years of the life of Geran Hulmaster, a thirty-something swordmage who returns from a decade of adventuring to find his home of Hulburg being taken over by those not native to the town.
+
+The novels take place primarily between mid-Eleint of 1479 DR to mid-Ches of 1480 DR, though there are occasional flashbacks to Geran's earlier history. The epilogue takes place a little less than a month after the events of the final novel.
+
+The novels include:
+ Swordmage (May, 2008)
+ Corsair (November, 2009)
+ Avenger (November, 2010)
+
+The artwork of the cover was provided by Raymond Swanland.
+
+---
+
+## Bluestone
+
+Bluestone was the Realms name for sodalite or ditroite, an ornamental stone found primarily in geologically older mountain ranges such as the Galena Mountains near Vaasa, and the Storm Horns and Thunder Peaks near Cormyr.
+
+Description
+As its name suggested, bluestone had a deep blue color but was usually shot through with hues of pink, yellow, cream, or white. This stone was often too soft and brittle to make faceted gems, so it was typically cut cabochon and polished, or tumbled smooth. A typical stone had a base value of 10 gp.
+
+Powers
+Bluestone powder could be used to make minor healing or neutralize poison potions. Mixed with plain water that was illuminated by any form of magical radiance, the water turned into a potion that would either restore a minor amount of health, or neutralize poison. It conferred both of these benefits if added to any standard magical healing potion.
+
+Appendix
+Gallery
+
+External Links
+
+References
+
+---
+
+## Black opal
+
+Black opal was a dark version of opal found in ancient active or dormant hot springs.
+
+Description
+This stone had a dim greenish matrix with blotches of black and flashes of gold. It was usually smoothed by tumbling and cut cabochon. A typical specimen had a base value of 1,000 gp.
+
+Powers
+Black opals had an affinity for force effects and could be used in the creation of wands that were particularly good at delivering force spells. If powdered and mixed with crushed orl, it formed a powerful explosive that could be touched off by an open flame, if done properly. The blast was extremely devastating to anything within 10 ft (3 m) and could still do significant damage to creatures and objects up to 30 ft (9.1 m) away.
+
+One recipe for a Helm of darkness called for thirty-six black opals and a black sapphire.
+
+Trivia
+Calling a rogue (or anyone who operated in the shadows, away from the spotlight) "black as a black opal" was an ironic way of saying that they had a good heart without causing them too much embarrassment.
+
+Back opals were considered a prized gem among the drow. It was actually one of their favorites.
+
+The drow deity Vhaeraun showed his pleasure or displeasure by making his followers stumble on or change the quality of a black opal in their possession.
+
+Appendix
+See Also
+ Opal
+ Fire opal
+ Water opal
+ Hydrophane
+
+Appearances
+
+Gallery
+
+External Links
+
+References
+
+FR:Opale noire
+
+---
+
+## Black sapphire
+
+Black sapphire was a rare variety of sapphire found mainly in south Faerûn, particularly around the Great Rift where the dwarves of the Deep Realm prized them greatly.
+
+Description
+These stones were an inky, lustrous black that reflected white or yellow highlights and were facet-cut in the same way as their blue cousins.
+
+Powers
+When cut and polished, a jewel-quality black sapphire prevented time-related spells from operating within a range of . Spells such as temporal stasis, time stop, and spells from the arcane chronomancy school or divine time sphere all ceased functioning, either temporarily or permanently, depending on the nature of the spell. These gems could also be used in the creation of exceptionally powerful wands that stored spells like darkness and related magics. The darkness effects produced were either more difficult for the target to resist or the strength of the spell increased, again, depending on the nature of the spell.
+
+The shadow magic item helm of darkness used a large black sapphire and thirty-six black opals in its construction.
+
+Price
+A typical specimen had a base market value of 5,000 gold pieces.
+
+Notable Black Sapphires
+ The Wyvern Crown of Cormyr was studded with jewels, including black sapphires.
+
+Notable Users
+ Black sapphires were considered prized gems among the drow, being one of their favorites.
+ The drow deity Vhaeraun sometimes showed his favor or disfavor with black sapphires.
+ The drow deity Lolth sometimes showed her favor to followers by having them discover black sapphires that had spiders encased in them.
+ Black sapphires were sacred to the Chultan demigod Eshowdow, who also valued unholy items made of the material.
+
+Appendix
+See Also
+ Sapphire
+ Star sapphire
+External Links
+
+References
+
+FR:Saphir noir
+
+---
+
+## Black helmet
+
+Black helmet was a cassidae shell found in the Realms.
+
+Description
+Helmet shells were sought after for making cameos. Black helmet shells had a dark brown layer beneath a lighter colored layer. This gave a cameo an onyx-like appearance. A large specimen in good condition had a base value of 45 gp.
+
+Appendix
+See Also
+ Flame helmet
+ Red helmet
+ Sardonyx helmet
+External Links
+
+References
+
+---
+
+## Blueflame ghost
+
+Blueflame ghosts were spirits that were imprisoned inside blueflame magic items. Some members of the adventuring group, The Nine, were among the blueflame ghosts.
+
+Description
+The term came from the magical blue flames that surrounded such ghosts. The owner of an item containing a blueflame ghost was able to call the spirit forth and force it to do their bidding, which was often to kill someone. At least seven blueflame ghosts were known to exist and there may have been many others.
+
+History
+Larloch created the blueflame items with the help of the Imprisoners by binding the spirits of three liches to the items. Each of the items possessed its own power when the ghost was imprisoned but the power was dormant when the ghost was outside the item. Part of the goddess Mystra's power was bound to the items and the Simbul believed that it may have been possible to bring Mystra back through such items.
+
+Known Blueflame Ghosts
+
+ Mirt, a Masked Lord of Waterdeep was hastily imprisoned inside a blueflame axe prior to the Spellplague.  In his haste, the mage failed to bind Mirt to the item. When Mirt was called forth from the axe by the young noble Marlin Stormserpent, he simply fled to Suzail.
+
+ Relve Langral, contained in the Flying Blade, one of The Nine. The blade was an heirloom owned by the Stormserpent family of Suzail but was taken by Cymmarra.
+
+ Treth Halonter's spirit resided in the Wyverntongue Chalice. It was hidden in the haunted wing of the Royal Palace for many years until Marlin Stormserpent stole it. The chalice was taken by Cymmarra when she killed Marlin.
+
+Unnamed Blueflame Ghosts
+ Ghost inside the Fang of Baerovus, which was hidden in the haunted wing of the Royal Palace in Suzail. Targrael took the dagger and attempted to use it to heal herself.
+
+ Ghost inside a belt buckle, which was owned by a noble of Cormyr. Its name and the spirit contained inside were unknown. Elminster and Storm Silverhand took the buckle and used it to restore the Simbul to sanity.
+
+Appendix
+Appearances
+Novels
+ Bury Elminster Deep
+ Elminster Enraged
+ Elminster Must Die
+References
+
+---
+
+## Blink
+
+Blink was a transmutation spell caused the caster to "blink" randomly between the Prime Material Plane and the Ethereal Plane, similar to a blink dog.
+
+Effect
+This made the caster harder to attack, since there was a chance an attack or spell would miss due to the caster not being on the Prime Material Plane at the time.
+
+The caster could attempt to move through solid objects on the Prime Material Plane while blinked onto the Ethereal Plane, however, if the caster materialized in the same location as a solid object, he or she became "shunted" to the nearest available empty space, and this caused damage.
+
+The later post-Sundering version of the spell worked much in the same way but it allowed movement of only 10 feet. The caster could see and hear into the prime to a distance of only 60 feet but in shades of gray. While on the ethereal plane, the caster could not interact with creatures on the prime, only with those that connected to the ethereal plane. If no unoccupied space was found within 10 feet when the caster had to return, they would be randomly be placed in the nearest unoccupied area.
+
+Components
+Only verbal and somatic components were needed for the casting.
+
+History
+The spell was attributed to Netherese arcanist Oberon in  and was originally called Oberon's blinking.
+
+Notable Uses
+During the Time of Troubles of 1358 DR, Luna confronted the false avatar of Selûne, but she cast sink and caused her to fall into the ground. Luna used a blink spell to escape.
+
+Notable Users
+The fang dragon Nartheling, the "Master of the Mountain", could cast blink.
+
+Appendix
+Gallery
+
+Appearances
+Novels
+The Sapphire Crescent
+Comic Books
+Selune Rising
+Video Games
+Pool of Radiance: Attack on Myth Drannor • Icewind Dale II • Baldur's Gate III
+Card Games
+Spellfire: Master the Magic
+External links
+
+See Also
+ Improved blink
+
+References
+
+---
+
+## Blackstaff (spell)
+
+Blackstaff was a spell applied to a staff or quarterstaff that enhanced its combat effectiveness, and gave it the ability to dispel magic or cause a spellcaster it struck to lose a prepared spell.
+
+Effects
+When cast, this spell bestowed upon the target non-magical staff, polearm or club, a +4 enchantment.
+
+When the blackstaff struck a magical item or any person, it dispelled magic and in the case of spellcasters, caused them to forget spells they had memorized. In some instances, the spell even disrupted the minds of individuals with psionic talents and drained a small amount of life force from beings it struck.
+
+The effects of blackstaff could not be dispelled and the staff absorbed any spells cast directly at it.
+
+None of the effects of the blackstaff could harm the caster in any way.
+
+History
+This spell was created by Khelben "Blackstaff" Arunsun and was part of the reason why his common appellation was Blackstaff, as he carried a staff of power that had this spell cast on it with permanency.
+
+The blackstaff spell was found in Laeral's Libram, a spellbook written by the wizard Laeral Silverhand. Laeral lost the spellbook sometime during her madness induced by the Crown of Horns, and it was not been seen since. Khelben only shared this spell with those he trusted implicitly.
+
+However, by the, the spell blackstaff was known and in use across the Realms.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Black Claw Mercantile Company
+
+The Black Claw Mercantile Company was a fellowship run mainly by House Baenre in Menzoberranzan.
+
+Organization
+The fellowship was one of two competing merchant houses in Menzoberranzan.  It existed primarily to trade goods between Menzoberranzan and House Zauvirr in Ched Nasad, and was based upon a trade agreement.
+
+Appendix
+
+References
+
+---
+
+## Blazing Banner of Ologh the Overking
+
+The Blazing Banner of Ologh the Overking was the famous battle standard of Ologh, the Overking of the orcish kingdom of Vastar in the 6 century DR.
+
+History
+Ologh carried the Blazing Banner into battle, before being slain by the black dragon Iyrauroth in the Year of Writhing Darkness, 572 DR.
+
+At some point, the sapphire dragon Bleucorundum, a collector of important military artifacts, obtained the Blazing Banner of Ologh the Overking. He kept it in his lair in the Halls of the Sleeping Legion in the Omlarandin Mountains of Tethyr by 1370 DR.
+
+Powers
+The Blazing Banner had the powers of a law's banner, boosting the morale of lawful armies. When raised in battle, it also turned into a tapestry of fire.
+
+Appendix
+References
+
+---
+
+## Bloodbriars
+
+Bloodbriars was an evocation spell that entangled a foe in unseen briars.
+
+Effects
+The spell created unseen but very sharp briars from magical energy, ensnaring the foe. It harmed them if they attempted to move or cast spells.
+
+Component
+The spell required a drop of blood.
+
+History
+The armathors of Myth Drannor often used the bloodbriars spell to capture criminals.
+
+References
+
+Sources
+
+---
+
+## Bloody Skull (Earthfast Mountains)
+
+The Bloody Skull was an orc clan in the Earthfast Mountains in north Faerûn.
+
+History
+In the mid-12th century DR, the Bloody Skull were among an alliance of goblins and orcs that were determined to annihilate the dwarves of Earthfast.
+
+In the Year of the Turret, 1360 DR, while joining the Army of the Alliance, the Earthfast dwarves discovered an orcish attack on them south of Uthmerg in the Great Dale. Alusair Obarskyr feared the Bloody Skull were responsible, but they turned out to be from Zhentil Keep instead.
+
+Appendix
+See also
+
+ Bloody Skull, an orc tribe in Thar
+
+References
+
+---
+
+## Black Watch
+
+The Black Watch was a dark group of mercenaries who operated in the Moonsea area.
+
+Equipment
+Members of the Black Watch dressed in black clothing and wore chain mail with their demon's eye sigil.
+
+History
+In 1340 DR, the organization was hired by Gensor, a wizard working for Porphyrys Cadorna, to take control of the Cadorna Textile House and the library located in the ruins of Phlan. A little while later, the company took control of the city watch and assassinated the First Councilman of Phlan with an orc arrow, which allowed Cadorna to take the place of the councilman.
+
+References
+
+---
+
 ## Blood & Magic
 
 Blood & Magic is a real-time strategy computer game released by Interplay Productions in 1996. It is set in the Utter East region of the Forgotten Realms campaign setting and uses the Dungeons & Dragons license.
@@ -673,6 +4067,202 @@ Connections
 
 ---
 
+## Blanaer
+
+Blanaer was a village in the Vast in the mid-to-late 14 century DR.
+
+Geography
+It was located on the Cross Road between Kurth and Thindilar. The Pass Trail led from it to Tavilar.
+
+Description
+Blanaer was a stopover village home to hardworking farmers. It was a local agricultural center, with a market for selling sheep and cattle from nearby farms, paddocks to hold stock, and piles of manure for sale. "Stinks like Blanaer" was a common expression in the Vast. It was fairly unexciting.
+
+History
+However, in the early and lawless years of human settlement of the Vast, bandits battled openly along the Cross Way near where Blanaer later arose.
+
+Over the course of a decade in the mid-1300s DR, on a number of mornings, bodies were discovered hanging from trees beside the roads around Blanaer. These were likely thieves who'd been caught by their intended target.
+
+Rumors
+Despite Blanaer's reputation, it had local treasure tales like many other communities in the Vast. On occasion, chests, buckets, saddlebags, and nosebags stuffed with coins were unearthed in Blanaer's pastures, stockyards, and even manure piles, and more finds were expected, though they were usually well defended by herds of cattle. Supposedly, these treasures were hastily buried by thieves on the run, from either their victims or their former partners, and by metal merchants from Kurth being pursued by bandits.
+
+Appendix
+References
+
+---
+
+## Blowpipe
+
+Blowpipes, otherwise known as blowguns, were a type of exotic ranged weapon.
+
+Description
+Blowpipes were long hollow tubes, ranging from  in length.
+
+Usage
+Some tribes were known to use stands to brace their blowpipes, in order to prevent swaying.Gary Gygax (August 1982). “New Weapons from Another Great Mind”. In Kim Mohan ed. Dragon #64 (TSR, Inc.), p. 6.
+
+Beyond their purpose as a weapon, some were known to use blowpipes as breathing tubes for swimming underwater.
+
+Ammunition
+A wide variety of ammunition were known to be used in blowpipes. This included blowgun darts, needles, and little pellets of hardened clay. Darts were the most commonly used form of ammunition, while needles were used to deliver poison and pellets were used in hunting small game.
+
+Blowgun darts were small arrows, with cotton or some other form of plant fiber used as fletching. This fletching made an efficient seal in the pipe, allowing for a greater build up of pressure from the wielder's breath. Feathers were often attached to keep them stable in flight.
+
+Blowgun needles were typically  in length and made of iron. They were known to be sold in groups of twenty in small wooden cases. Poisons typically used with these needles included greenblood oil, bloodroot, blue whinnis, shadow essence, and deathblade.
+
+Varieties
+ Netherpelter, a type of magical blowpipe that was developed by arcanists.
+ Tufenk, a type of blowpipe unique to the land of Zakhara that was used to project liquid star.
+
+Notable Blowguns
+ Blowgun of Accuracy
+ Blowgun of Distance
+ Blowgun of Wild Emotions
+
+Notable Users of Blowpipes
+Classes
+ Ninjas were often known to use blowguns, either as weapons or a distraction.
+ Blowguns were a preferred weapon for priests among deities associated with wind.
+ Blowguns were a common weapon among the Eagle Knights and Jaguar Knights of Maztica.
+ Some Spirit Warriors were known to use blowguns.
+ Some wu-jen were known to use blowpipes.
+Individuals
+ Esmeralda
+ Tee-a-nicknick
+ Onyx the Invincible
+ Vartain
+ Kaele Nierna.
+Organizations
+ Members of the Anaconda Company often used blowguns when needing to fight from a distance.
+Races & Sentient Creatures
+ Grippli were known to occasionally use blowpipes.
+ In the land of Kara-tur the korobokuru, hsing-sing, and people of Purang were often known to fight with blowguns.
+ The fabled "beastmen" of the Forbidden Plateau were said to have fought with bolas.
+ Qullan were well known for fighting with blowpipes.
+ Wild dwarves were known to frequently use blowpipes.
+Regions & Nations
+ The inhabitants of Malatra were often known to fight with blowpipes.
+
+Appendix
+Gallery
+
+Appearances
+
+External Link
+
+References
+
+---
+
+## Black Eye
+
+The Black Eye was a tavern in Westgate that offered a good view of the city docks, the Market Triangle, and the Tower at its center, all visible from its patio.
+
+Location
+The Black Eye was located in the center of the city on Silverpiece Way, right off the Harbor Loop.
+
+Activities
+
+The food at the Black Eye was not very good and cheap with most of the clientele were dockhands or whores.
+
+The Black Eye was staffed with massive bouncers who were ready to break any of the fifths that were common at the tavern. Those who started trouble were tossed into the harbor, "feeding the quelzarn." Two bouncers who guarded the tavern circa 1374 were Gregory – a giant of a man who loomed over any one customer, and Marv, who was smaller than Gregory but was still an intimidatingly "big man." Both were the tavern's co-owners and brothers of Little Davey, the man who ran the establishment. At that time, the Black Eye had one hired dancer named Dimples. Little Davey allowed brawls, as long as the fighters cleaned up after themselves and did not use shivs or blades.
+
+The tavern did not offer lodgings but had a selection of alcohol that included locally made Brother Tobias' 1368, imported Night Masks' Nightmare, as well as ale, stout, hard liquor, and wine. Despite the establishment being a tavern without any rental rooms, Little Davey allowed customers to just plunk themselves in the corner of the taproom along with other drunkards sleeping the revelry off.
+
+History
+The tavern and festhall was still open into the late 15 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blue Banner
+
+The Blue Banner was a tavern and inn located in Westgate's Shou Quarter. The inn's growing popularity forced the owner to expand several times.
+
+Location
+The Blue Banner was found in the south section of the city at the end of East Market Street.
+
+Appendix
+References
+
+---
+
+## Bloated Gargoyle Inn
+
+The Bloated Gargoyle Inn was an inn in the city of Tsurlagol in the Vast.
+
+In the early 7th century DR, the infamous pirate Urthag the Knife boldly caroused for several hours at the Bloated Gargoyle Inn. Finally, the Royal Constabulary discovered him and tried to arrest him and Urthag fled across the rooftops of the city.
+
+References
+
+---
+
+## Blue Wyverns
+
+The Blue Wyverns were an adventuring company based in Ravens Bluff in the Vast in the late 15 century DR.
+
+History
+In the, Jack Ravenwild hired the Blue Wyverns at a pay rate of 500 gold pieces each to help him recover the Sarkonagael, a spellbook of shadow magic from the ancient dwarven city of Sarbreen located beneath Ravens Bluff. In Sarbreen, the group fought and defeated a tribe of troglodytes who were in service to a beholder. Once they found the book in the Temple of the Soulforger they had to fight Myrkyssa Jelan's gang, the Moon Daggers, for possession of the book.
+
+Later, Jack hired the Blue Wyverns to back him up when he delivered a shadow simulacrum of himself to a mage who was trying to imprison Jack once again in the mythal beneath Ravens Bluff. Jack hired the group a third time to ambush and capture the notorious slaver Fetterfist. The fourth service performed for Jack was on the house as the band rushed to a nobleman's party to drive off Fetterfist's gang and a group of drow who intended to kill as many nobles as possible and enslave the rest.
+
+Members
+ Narm, a half-orc warrior and leader of company
+ Arlith, a halfling knife-wielder
+ Halamar, a human fire mage
+ Kurzen Brewhammer, a dwarf fighter
+
+Appendix
+Appearances
+Novels
+Prince of Ravens
+
+References
+
+---
+
+## Bleyshar
+
+Bleyshar was a noble house of Cormyr.
+
+Members
+ Tantram "Tallturrets" Bleyshar
+ Shalice Bleyshar, aunt to Tantram
+
+History
+In the year 1479 DR, there were only two surviving Bleyshars: Shalice Bleyshar and her nephew Tantram. Shalice was both feeble and old, while her nephew was eager to assume full control of the family wealth upon her death. Shalice had not left the family mansion west of Gray Oaks (Bleys Hard) for at least two decades.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Blakrho Phull
+
+Lord Blakrho Phull was a former scion of the noble House Phull of Waterdeep who turned on his family and pursued a life of banditry along the southern Sword Coast.Ed Greenwood. "Eye on the Realms:  The Wild Lords." Dungeon  #190. Renton, WA: Wizards of the Coast, May, 2011.
+
+Description
+In spite of his age, Blakrho was described as youthful and handsome looking in 1479 DR.  His youthfulness was attributed to either dark magic or vampirism although the former was considered more likely.
+
+History
+Blakrho Pull was the second son of Phull of Waterdeep.  Around 1440 DR, Blakrho stabbed his older brother to death and blamed the crime on a younger brother, a charge that was initially believed by the city guard.  However, Blakrho's father, Mhairdren Phull caught him beating his mother and Blakrho threw his father down a flight of stairs, severely injuring him.
+
+Blakrho fled Waterdeep with most of his family's money, his father's best horses and a carriage full of wine.  He traveled to Amn where he began conning farmers and lordlings into giving him shelter.  He would then kill his host and steal any valuables.
+
+He left Amn for Tethyr before the law could catch him and joined forces with other exiled Waterdavian lordlings to form a bandit gang known as the Dark House.  For the next forty years he marauded up and down Southern Faerûn but was never caught.
+
+His objective was to regain his rightful lordship and to enjoy his luxurious retirement. He claimed that the only misdeeds that could be proven against his name were in the uncouth lands that were far from Waterdeep, and therefore they should not matter within the City of Splendors.
+
+Appendix
+References
+
+---
+
 ## Black Blood tribe
 
 The Black Blood tribe was a loose collection of tribes of lycanthropes, shifters, and antherions on the Isle of Moray during the 15 century DR. They were possibly the most openly threating and dangerous faction in the whole of the Moonshae Isles.
@@ -756,6 +4346,3596 @@ References
 
 ---
 
+## Blind
+
+The Blind was an ancient beholder who lived in Skullport beneath Waterdeep in the 15th century DR.
+
+Personality
+As his name implied, he was blind, and weakened from centuries living in Skullport.  He claimed to be the Eye, the infamous Xanathar from Skullport's past but most considered the claim unlikely since the Eye was known to have died in a fight with his former minion, the lich known as Avaereene.
+
+The Blind had an encyclopedic knowledge of Skullport's history.
+
+Relationships
+The Blind was too weak to command his own gang but, because he was allied with no gang and vastly knowledgeable about Skullport, the gangs trusted him as an arbitrator of disputes. He was often called upon to serve as a consultant and intermediary between Skullport's gang factions. He sat as adjudicator at many meetings that finalized gang boundaries. Although he was unable to command the respect of gangs or personally enforce rulings, his judgments were respected and maintained.
+
+History
+The Blind claimed that while his fight with Avaereene left him severely wounded, his death was a ruse to deceive his rival. As of 1479 DR, he was looking for the Crown of Horns, a relic rumored to be in the Murkstalker's possession. He believed the artifact would restore his power and help him get revenge on Avaereene.
+
+References
+
+es:El Ciego
+
+---
+
+## Blade of Aihonen
+
+Blade of Aihonen was the sword of the hero Aihonen.
+
+Description
+Even broken, the blade was extremely sharp.
+
+History
+Around 1181 DR on the banks of Lac Dinneshere, the hero Aihonen fought against the last white dragon matriarch of the Spine of the World Icasaracht. During the battle, Aihonen was slain, but before his death, he drove the sword through the heart of the foul beast. In Mirtul, 1281 DR, the sea spirit Elisia gave the shattered blade to Aihonen's relative, Jhonen.
+
+Appendix
+Appearances
+Icewind Dale
+
+References
+
+---
+
+## Blessed watchfulness
+
+Blessed watchfulness was an alteration spell that bestowed extraordinary powers of vigilance on a creature. It was one of the first spells that priests of both Arvoreen and Gorm Gulthyn learned.
+
+Effects
+This spell lasted a minimum of five hours (longer for more experienced casters) and granted the recipient alertness to their surroundings for the duration. Benefits included a greater resistance to beguiling, charm, emotion, fear, and especially sleep spells and effects. The target of this spell remained awake and vigilant, making them very difficult to surprise.
+
+Components
+This spell required only verbal and somatic components to cast, including touching the recipient of the spell.
+
+Appendix
+References
+
+---
+
+## Blessed warmth
+
+Blessed warmth was an alteration spell that caused a shaft of light to shine down from the sky on the caster and close-by allies, giving them immunity to natural cold and a better chance to resist magical cold.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Blessed abundance
+
+Blessed abundance was a conjuration spell that allowed the caster to multiply a quantity of animal or vegetable matter.
+
+Effects
+This spell worked on raw or prepared food and live or harvested plants, not on live creatures, metals, minerals, or magical items. Up to one cubic foot (0.28 m3) of organic matter could be multiplied by the caster's level. The creations were real and permanent.
+
+Components
+Verbal and somatic components, as well as the priest's holy symbol were required to cast this spell.
+References
+
+---
+
+## Blacklight
+
+Blacklight was an evocation or alteration spell that created an area of magical darkness that only the caster could see through. This spell was also available as divine magic provided to priests of Ibrandul.
+
+Effects
+Blacklight was very similar to darkness with the exception that the caster could act and see normally while within the area of effect. Normal light sources were extinguished by blacklight, as well as lower-level light spells. Those outside the sphere of darkness, including the caster, could not see into the affected area. The older version of this spell created a stationary area while the newer version could be cast on a movable object if desired.
+
+For the older version of blacklight, every minute spent inside the blacklit area allowed a creature a chance to overcome the blindness, but it was difficult, and even if they succeeded their sight returned for only one minute. Also, light, continual light, or dispel magic would dissipate the older blacklight.
+
+For the newer version, blacklight countered daylight and any lower-level light spells. Blacklight was countered by daylight and any higher-level light spells.
+
+Components
+Verbal and somatic components were required to cast this spell. The material components were a small chunk of coal and a dried eyeball from any creature.
+
+History
+This spell was in general use around Faerûn, once it was published in Volo's Guide to All Things Magical.
+
+Appendix
+See Also
+ Darkness
+ Darkness, 15' radius
+ Continual Darkness
+ Light
+ Continual Light
+ Daylight
+References
+
+---
+
+## Blindness or deafness
+
+Blindness or deafness was a necromancy—or, in a variant, illusion—spell that rendered a target blind or deaf as chosen by the caster.
+
+Effects
+There were several versions of this spell. The later version could be cast at any creature (living or undead) within  and rendered them blind or deaf for up to one minute. The target continually attempted to resist the magic of this spell, and the stronger its constitution, the more likely it would recover before the minute was up. If cast at a higher level, more creatures could be targeted.
+
+The older version of this spell had a much longer range (a minimum of ) and the target only got one chance to resist or was struck blind or deaf permanently. This magically-induced condition could only be reversed by a remove blindness or deafness spell, or more powerful magics. Only living creatures were affected by this spell.
+
+There also existed two older separate versions based on illusion magic, where one could only inflict blindness, the other deafness.
+
+Components
+The different versions of this spell required only a verbal utterance to cast, except deafness, where also gestures and beeswax were needed.
+
+History
+The deafness spell was developed by Netherese arcanist Cragh of Northreach, himself deaf since birth, in 1860 NY (−1999 DR) as Cragh's deafness. It was his only spell. blindness was an invention of his prolific colleague Smolyn in 1895 NY (−1964 DR), then accordingly named Smolyn's blindness.
+
+By the 1360s DR both spells were uncommon among magic-users in Faerûn and widespread among those in Zakhara.
+
+In 1372 DR, the Year of Wild Magic, a combined version came into use in the magical community, quickly replacing the two more restrictive spells.
+
+Appendix
+See Also
+Mass blindness or deafness
+ Remove blindness or deafness
+ Witherite
+Notes
+
+Gallery
+
+Appearances
+
+External links
+
+ D&D Beyond
+
+References
+
+---
+
+## Blaern's Trail
+
+Blaern's Trail, also called the Wandering Trail, ran through the Vast, connecting the city of Calaunt and the village of Dead Tree Hollow.
+
+From west to east, it began at Calaunt, ran through Thindilar, Sendrin, and Fallentree, and ended at Dead Tree Hollow. On the way, it linked with the Hlintar Ride, the Cross Road, the Long Reach, and Feldar's Trail, and ended at the North Road.
+
+Appendix
+Galleries
+
+References
+
+---
+
+## Black bear
+
+The black bear was a forest-dwelling animal.
+
+Description
+These creatures had black, blond, or cinnamon fur. Black bears, on average, were 5 ft (1.5 m).
+
+Behavior
+These omnivore ursoids were not usually dangerous unless their cubs or food supply was threatened.
+
+History
+A black bear was found in the Wyllowwood level of Undermountain, where it enjoyed following strangers around for food.
+
+Notable black bears
+ Darlow and Tilbee, black bears that dwelled within Harvesthome Abbey in Goldenfields.
+
+Ecology
+Habitats
+Beyond the Prime Material plane, black bears could be found in the woods of Barovia.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Blaermon
+
+Blaermon the Blessed was a knight of Ilmater and a member of the Holy Warriors of Suffering in the mid–13th century DR.
+
+History
+Blaermon the Blessed was known for surviving a string of hopeless battles, for which he earned his name.
+
+Circa 1267 DR, Althea the Abased—the leader of the House of the Broken God temple in Keltar and journeying up and down the Sword Coast—selected Blaermon for a holy task. She bade him to take away the Tome of Torment, the holiest book of the faith, to the "wild places" of the Realms and bestow it upon the first "needy and worthy" Ilmatari he met, someone who worked or fought for the benefit of the common people and their faith, not merely for wealth and adventure.
+
+Blaermon obeyed and, in the Year of the Daystars, 1268 DR, he gave the Tome to Flaergon of Glister, who devoted his efforts to assisting miners and caravan-workers in the frozen north of the Moonsea.
+
+References
+
+---
+
+## Blade Dlardrageth
+
+The Blade Dlardrageth was an enchanted broadsword wielded by Xhalph Dlardrageth in the late 14 century DR.
+
+Powers
+The Blade Dlardrageth possessed a powerful +2 enchantment that made its blade more deadly and guided the weapons towards its target. It was also a giant slayer – a weapons particularly destructive to true giants and giant-kin such as trolls, ogres, ogre magi, titans, ettins, and the giants of Zakhara. The same enchantment also could knock a giant down on a successful slash. Lately, the Blade Dlardrageth greatly boosted the wielder's physical strength.
+
+History
+In the, the Blade Dlardrageth was still in Xhalph Dlardrageth's hands within the dreaded Hellgate Keep, where the sword was used to gleefully dice unwitting adventurers.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blackroot
+
+Blackroot was an herb that could be distilled to create a poison used in the Underdark.
+
+Description
+The herb caused paralyzation. One could become immune to the poison by ingesting small quantities of it over a long period of time.
+
+Blackroot could be distilled into notoriously thick alcoholic blackroot beer. One tankard of it was considered to be almost a full meal.
+
+References
+
+---
+
+## Bloirt Waelarn
+
+Bloirt Waelarn was a human male priest of Ilmater and leader of the House of the Broken God temple in Keltar, Calimshan, in the late 13th and 14th centuries DR. He was infamous for launching a holy war against the rival House of Holy Suffering in Mussum, and for his descent into murderous madness in an effort to possess the holy relic the Tome of Torment.
+
+History
+By 1265 DR, Archsuffer Bloirt Waelarn was the Father of the House, or high priest, of the House of the Broken God in Keltar, Calimshan, already the greatest temple of Ilmater in the Realms.
+
+At that time, the Tome of Torment—the holiest book of the Ilmatari faith—had come into the possession of another temple, the House of Holy Suffering in Mussum. There, the senior Sage-Priest of the church, known as the Spontaer, prayed to Ilmater and received visions of powerful magical protections that would render the Tome usable only by priests of Ilmater. The Spontaer explicitly requested that the Tome of Torment be delivered to the House of the Broken God, before he worked the magic on the Tome and sacrificed his own life, circa 1265 DR. However, against the Spontaer's wishes, Shrymaun Beldaerth, leader of the Mussum temple, refused to relinquish the Tome to the House of the Broken God.
+
+In response, Waelarn called for all Ilmatari to cast "all the heretics of the degenerate House in Mussum" out of the faith and to treat them as mentally ill. A few ambitious minor priests joined Waelarn and together they journeyed to the Mussum house, intending to "cleanse the filth". But Waelarn and his followers were attacked by the Mussum priests and the Companions of the Noble Heart paladin order, who labeled them "false clerics" and "subverted by evil".
+
+An angry Waelarn summoned three other knightly orders—the Holy Warriors of Suffering, the Knights of the Bleeding Shield, and the Order of the Golden Cup—to his side and vowed holy war against the "unclean ones of Mussum and all who stand with them". The war saw the violent clashes of Holy Hill Farm in 1266 DR and Bronsheir's Charge and Weeping Rock in 1267 DR. Finally, Lord Sir Jargus Holenhond of the Golden Cup called an end to the bloodshed between true believers, insisted that the Tome of Torment be transferred to Keltar as planned, and blamed Bloirt Waelarn for the senseless violence. Holenhond determined that Waelarn should be removed from office and sent into hermitage for the remainder of his years, to devote himself alone to Ilmater. The weary paladins accepted and carried out his judgment. Waelarn was replaced as leader of the House of the Broken God by Althea the Abased.
+
+Now titled only Brother Priest, Waelarn was sent to the small, windswept isle of Falconsrise in the Trackless Sea. But as the ship took him to Falconsrise, Waelarn used his magic to murder most of the crew. An Ilmatari priest escaped the slaughter and locked himself in a cabin, using the brief opportunity to magically contact an archmage he knew, before Waelarn broke in and murdered him too. The archmage soon arrived, grabbed Waelarn off the ship, and delivered him to Falconsrise. Furthermore, to prevent the rogue priest from signaling passing ships and passing himself off as a shipwrecked sailor, the archmage transformed Waelarn into a frightful monster, with animal appendages that made it hard to work magic. In under a year, Waelarn went insane. This archmage is unnamed, but is described as "a certain bearded archmage" and "mysterious", suggesting a famous mage of the Realms, such as Elminster Aumar or Khelben Arunsun.
+
+Finally, however, circa 1341 DR, a pirate ship driven by a storm out of the Nelanther Isles ran aground on Falconsrise. Waelarn used the ship to escape the island and return to the mainland, travelling back to Keltar and the House of the Broken God. There he murdered the Guardian of the Tome, Daern, stole the holy book, and escaped.
+
+Bearing the Tome of Torment, Waelarn journeyed further inland, apparently making his way toward Mussum. He attempted to command and coerce the Ilmatari who met him, but failed. At Thorlor's Well near Sespech, Waelarn was finally confronted by Sir Guth of the Golden Cup, who challenged him to single combat before their god. Waelarn accepted, and promptly used a cairn spell from the Tome to bury Guth. Calmly and cruelly, Waelarn then dug Guth out with a pick, and used an axe to chop off any limb that was revealed. Guth was soon killed and Waelarn left with the Tome, resuming his journey east.
+
+But that was not the end. Ilmater, the One Who Endures, caused Sir Guth to rise from his grave, but not from the dead. Guth was reassembled as a zombie. Untiring and unrelenting and resisting all spells hurled at him, Guth tracked the rogue priest across Sespech. Waelarn finally collapsed of exhaustion outside Elbulder and the zombie Guth strangled him as he slept. The deed done, Guth hid the Tome of Torment then constructed a funeral pyre to burn Waelarn's corpse to ash. Guth then threw himself on the pyre, still obeying the will of Ilmater the Broken God.
+
+Description
+Following his forced transformation at the hands of the archmage, Waelarn's body was a misshapen assemblage of animal parts, similar to a mongrelman. This included a lobster-like claw for one hand a raccoon-like paw for the other. He was described as "half-man, half-monster", and spent much of his time in this state. He could use spells to transform back to his original form, but this slowly failed and shifted back to his bestial form.
+
+Waelarn was quite elderly by 1341 DR.
+
+Personality
+Bloirt Waelarn was known for his great pride and supercilious manner. Later in life, he grew quite insane and cruelly murderous, occasionally going into fits described as "barking, capering madness".
+
+Abilities
+Despite Waelarn's crimes, the god Ilmater still granted the rogue priest spells. Waelarn also briefly bore the Tome of Torment, and had access to all the spells contained therein.
+
+Relationships
+Before his fall from power, Bloirt Waelarn was the head priest, or Father of the House, of the House of Holy Suffering, the greatest temple of Ilmater in the Realms. In this high position within the church of Ilmater, he was able to call upon several knightly orders, including the Holy Warriors of Suffering, the Knights of the Bleeding Shield, and the Order of the Golden Cup.
+
+Possessions
+Waelarn was most notably a bearer and wearer of the Tome of Torment, the most sacred hair-shirt and book of the church of Ilmater, and able to cast the divine spells contained within it.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Black Pearl
+
+Black Pearl was a half-elf descended from a human and a sea elf.
+
+Description
+Black Pearl had white skin, dark eyes, and long black hair.
+
+History
+Black Pearl's mother was rescued by sea elves after her ship was sunk off the coast of Calimport. Black Pearl did not feel accepted among the sea elves, so she spent most of her time with the selkies in the ocean not far from Waterdeep. She participated in the Relay information system.
+
+Relationships
+Black Pearl was acquainted with Arilyn Moonblade, who contacted her through the Relay. She and Arilyn shared a kinship because of their half-elven ancestry.
+
+Appendix
+Appearances
+Novels
+Elfshadow
+
+References
+
+---
+
+## Black cloud of vengeance
+
+A black cloud of vengeance was a monstrous sentient storm found in Zakhara.
+
+Creation
+Though their true origins and nature were unknown, there was much speculation about black clouds of vengeance. Some thought they were the creations of those who violated the Laws of the Loregiver, or that they were the instruments of the Loregiver, sent to punish breakers of the Law. Others declared they were sent by Fate itself to punish those who dared break her laws. Some claimed they were the products of potent magicks that had once been unleashed. All this was said to have occurred in the early days of the world, before the Loregiver's beneficence was known. It was said their occurrences were remembered in the earliest memories of elven grandfathers by 1367 DR. Despite being incredibly rare, they were known to all cultures in Zakhara — an indication of their awesomely destructive power.
+
+Although many people believed that only one black cloud of vengeance existed, sages held that there were actually several of them. However, only one would be observed at a time.
+
+Description
+Black clouds of vengeance took the form of enormously powerful monsoons or thunderclouds. Some were large enough to engulf whole cities. Bright red lightning flashed occasionally within their dark depths. Black clouds combined the elements of fire and air into a deadly combination.
+
+Their coming was presaged by great winds that blew hot, hard, and fast. They echoed with thunder and carried sand mingled with ash and soot, which darkened the air and ground before them. The sand was picked up by the black cloud's winds in its previous courses across the land. The winds increased their fury to a roar as the cloud approached. Their violence could only be compared with the strongest desert storms.
+
+They were capable of moving against even the strongest gales if they wished, which indicated their sentience. If a black cloud approached, one could only hope that it would veer away.
+
+Combat
+When it descended upon its target or was challenged by some would-be hero, the black cloud unleashed its full force, producing howling winds capable of destroying whole buildings. It also rained fire, and the resulting flames were whipped up and spread by the winds, burning the wreckage and people trapped inside the storm.
+
+Society
+Despite being known to be sentient, almost nothing was known of the habits of the black clouds of vengeance. It could not even be said for sure if they were alive.
+
+They usually assailed cities or large camps in the desert. They never assaulted cities holding mosques of the enlightened deities or cities where genies resided, indicating that they had some way of knowing if a city held either. Nevertheless, it wasn't clear if they served the enlightened deities, or if they feared the powers of the gods and genies. If not tools of divine retribution, it was speculated they might be free spirits, going wherever their whims led them. Regardless of the truth, they certainly encouraged enlightened faith in Zakhara.
+Diet
+Their diet was unknown, but black clouds seemed to thrive on inflicting devastation.
+Homelands
+Beyond the land of Zakhara, black clouds of vengeance could be encountered in some areas of the Domains of Dread.
+
+Notable Black Clouds of Vengeance
+ Al-Amzija,  a black cloud of vengeance that shielded the ruins of Sokkar from the rest of Zakhara.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Reunion
+References
+
+---
+
+## Blast of pain
+
+Blast of pain was a divine spell that inflicted a sharp pain into the target.
+
+Users
+The spell could be cast by clerics who commanded the combat and necromantic spheres. It was commonly used priests of Ilmater.
+
+Effect
+As its name suggested, the blast of pain spell inflicted intense pain on its victim, via a ray of smoky grey light shot from caster to the target. A creature that succumbed to the pain was left writhing in agony for some time, their nervous system damaged, incapable of action or coherent thought, and senseless to goings-on around them. One who resisted was merely slowed both mentally and physically, and harmed less, before the spell passed.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+Appendix
+References
+
+---
+
+## Blessing of Silvanus
+
+Blessing of Silvanus was a divine spell, or Channel Divinity, granted to worshipers of Silvanus that gifted one nearby ally the benefit of the caster's prowess when the ally attempts to heal himself or herself.
+
+References
+
+---
+
+## Blaine
+
+Blaine was a human soldier of Fort Locke near the Mere of Dead Men on the Sword Coast North.
+
+History
+Blaine was one of Fort Locke's best soldiers (who spent decades in the Neverwinter army) that went with Tann and his men to patrol. However, they were captured by the shadow priest. Repko was cornered, as the room he was in was trapped. The Kalach-Cha and Tann could've rescued him.
+
+Appendix
+Appearances
+Video games
+ Neverwinter Nights 2
+
+References
+
+External links
+
+---
+
+## Black Vizor
+
+In the Heralds of Faerûn, the office of Black Vizor was one of the High Heralds. This office was charged with keeping a finger on the pulse of society, particularly political society in various states of conflict. The job required crisscrossing Faerûn to visit courts of nobles and governing bodies as well as regularly communicating with local Heralds and agents, keeping track of attitudes, mores, court dynamics, and intrigues, to declarations of war, peace treaties, trade agreements, and the balance of power. This herculean task was greatly assisted by magical portals and various magical means of communicating. In addition to collecting this information for the Heralds, Black Vizor kept the Lords' Alliance and the Merchant's League informed of the status of conflicts around Faerûn. The residence of this office was a fortification known as Black Helm Tower on the outskirts of Daggerford.
+
+Possessions
+With the office came a giant-sized black war-helm which looked very threatening but was extremely heavy and unwieldy. Peering through the eyeslits gave Black Vizor true sight, allowing him or her to pierce illusions and avoid deception. This Herald office was originally named "Black Helm" after this artifact and then later was renamed "Black Vizier" to better describe the function of the office. The name "Black Vizor" was a rather low-brow compromise between the two. The rod of office was a huge mace over 4 ft (120 cm) long, with no special enchantments.
+
+Office Holders
+ Ghelimar Firefrostarr (circa 1368 DR – 1374 DR)
+
+References
+
+---
+
+## Bloodsong
+
+The Bloodsong was a special ceremony performed on the Feast of the Moon each year by the Heralds of Faerûn.
+
+Heralds had a number of duties on the Feast of the Moon, a day when the dead were traditionally honored. Prime among these was to perform the Bloodsong ceremony, at which a Herald publically recited the genealogies of each noble family in the area. In this way, the Heralds reaffirmed a noble family's traditional authority and status, as well as the respect accorded to them.
+
+History
+In the Year of the Tankard, 1370 DR, Thorn Tree, the Herald of Riatavin in Tethyr, disappeared hours before he was to recite the Bloodsong. This triggered a storm of controversy; for one reason, the rebel government of Riatavin had hoped to use the Bloodsong to assert their authority over the city amidst their secession from Amn to Tethyr.
+
+References
+
+---
+
+## Blaskar Lauthom
+
+Blaskar Lauthlon was a male human wizard, and the Overwizard of the Host Tower of the Arcane and Master of the West Tower. He was responsible for the Arcane Brotherhood's operations in the western quadrant of Faerûn.
+
+Description
+Blaskar looked like a very ordinary, middle-aged man with a sturdy build and inexpensive clothes. But his looks were a tactic carefully crafted by Blaskar. He knew that looking ordinary gave him an advantage against an enemy that at first glance would not think him dangerous.
+
+History
+Blaskar was a member of the Watchful Order of Magists and Protectors of Waterdeep but was fired from the organization when his fellows discovered that he stole rare magical components for himself.
+
+Soon he become a mercenary wizard, known among smugglers and thieves for his complete amorality, willing to do anything for the right price.
+
+One day he was employed by a group of smugglers to protect their ship from pirates. When Luskan's pirates attacked the smuggler's ship, Blaskar destroyed them all. Agents of the Brotherhood discovered that it was Blaskar who destroyed the pirates and approached him with an offer to join their ranks. Blaskar saw no reason to refuse, and accepted.
+
+Blaskar quickly become indispensable in the organization with his skill in the creation of magic artifacts. He quietly noticed that the Brotherhood's upper ranks destroyed themselves in civil war, leaving many positions empty, so it was no surprise when Arklem Greeth promoted him to the West Tower.
+
+References
+
+---
+
+## Black Helm Tower
+
+Black Helm Tower was the home of Black Vizor, one of the High Heralds of the organization known as the Heralds of Faerûn.
+
+Location
+Black Helm Tower was located about a day's ride (approximately 30 mi or 48 km) to the north and east of Daggerford in west Faerûn, just north of the Delimbiyr river.
+
+Structure
+This fortified compound sat on a small hill, affording it a minor strategic advantage.
+
+References
+
+---
+
+## Blooden
+
+Blooden was a succubus and mistress of the Deep Crest, the breeding grounds of the Abyss.
+
+She was one of the demons and devils bound to Ammon Jerro in order to increase his warlock power.
+
+She appeared to have an infatuation with Koraboros, despite the fact he was devil and she was a demon. She commented rather casually that she had mated with many mortal men, even those of celestial descent, but none had survived her violent mating habits.
+
+Appendix
+
+Appearances
+ Neverwinter Nights 2
+
+External links
+
+References
+
+---
+
+## Blackdagger Bandits
+
+The Blackdagger Bandits were a powerful bandit group that operated on the Sword Coast North in the late 15 century DR and were the most successful and notorious bandits of the area at the time. It was named for and led by the brothers Malus and Traven Blackdagger.
+
+History
+Rise to Power
+Hailing from Luskan some time in the 1400s DR, Malus and Traven Blackdagger started out as a pair of penniless brothers. It was unclear whether they were related to the old pirate Bartholomew Blackdagger or were simply inspired to adopt his name and legacy. They gathered a small gang and turned to banditry, and had much success. Coming to be called the Blackdagger Bandits, they became notorious and yet more bandits and other criminals went to their side.
+
+With the rebuilding of Neverwinter in the 1470s DR, trade along the Sword Coast North swelled and so too did the Blackdagger Bandits' numbers and riches. They seized and rebuilt the ruins of Cragmire Keep, making it their fortress and base of operations. They engaged in banditry, piracy, shipwrecking, slaving and extortion of local businesses such as Melkhor Goldseeker's Angelhead Mine. With the Blackdaggers posing a serious threat and disrupting trade, Lord Dagult Neverember of Neverwinter put a bounty on the heads of Malus and Traven Blackdagger. Shortly after, the two brothers apparently disappeared and were not seen by anyone outside the bandit army. This started much speculation and rumors that someone else now commanded the Blackdagger Bandits, who remained as powerful and organized as before.
+
+The truth was more nefarious. The Red Wizard necromancer Kallos Tam met Malus and Traven and proposed to excavate and take control of the undead army within the Cragmire Crypts, giving them the army they desired to take over Neverwinter and become lords of the land. The brothers were receptive to his offer, and, in the, he broke the magical seal of Cragmire Crypt and discovered inside some artifacts he was seeking, found the undead army still waiting there, and, he said, the means of controlling them. While Malus prepared the defenses of Blackdagger Keep and an attack of Neverwinter itself, Traven and Kallos went with some of the Blackdaggers' best fighters into the crypts to take the undead army, and they put Jareth Grim in charge of the Blackdaggers' raids.
+
+Downfall
+That year, Melkhor's miners uncovered ancient ruins and statues in Angelhead Mine. Whereas previously the Blackdaggers had cared little for mining and the mines had no other value to them, they now believed they could find treasure too, broke their deal with Melkhor, and refused to make another. The Blackdaggers raided Melkhor's wagons and Krag Foultooth and his bandits assaulted Angelhead, imprisoned and enslaved the miners, and took Melkhor's niece and mine foreman Mira Thamros hostage to ensure his silence and cooperation. Marion Hexbane, meanwhile, sent some of her men to the Broken Crown inn to apply their new leverage on Melkhor.
+
+Other victims of the Blackdaggers at the time were Old Len, the lighthouse keeper, whom the bandits robbed; halfling settlers migrating to Neverwinter, who lost their supplies to the bandits; and a group of ghostwise halflings led by Gilern Ghostwise. Cecil Proudfoot recruited a halfling adventurer to aid the latter two. The High Road was left littered with slain bodies and wrecked and looted wagons.
+
+However, the Blackdaggers' enemies were not idle. The Neverwinter Guard sent Spycatcher Westband to apprehend Blackdagger spies and retrieve any information they carried; operating out of the Broken Crown inn, he recruited adventurers for this task. The Harpers had their gnoll agent Garl Gnarlclaw work undercover with the Blackdaggers for months, learning much about their operations. They offered their aid to Neverwinter, and Sergeant Alphonse Knox sent the Hero of Sleeping Dragon Bridge to meet the Harper agent Seven Toes at the Broken Crown. Seven Toes in turn had the adventurer find fellow Harper Xalliana, herself a survivor of one of the shipwrecks. Working together, Xalliana and the adventurer disrupted the shipwrecking and salvaging operations at Raven Cliff Beach, defeated Marion Hexbane, and discovered the Blackdaggers' extortion of Melkhor Goldseeker. Finding Melkhor, he admitted what had happened at Angelhead. The adventurer discovered survivors led by Sergeant "Dusty" Yates and liberated the mine from Krag Foultooth.
+
+Meanwhile, a drow spy of House Xorlarrin worked with the Blackdaggers to provide them with magical weapons and aid. An unnamed drow operative of Bregan D'aerthe learned of this and had a drow adventurer sabotage the delivery at Raven Cliff Beach to make it seem as if the Xorlarrin had double-crossed the Blackdaggers. When the Xorlarrin spy came out of hiding to meet with the Blackdaggers to repair relations, just as the operative planned, he sent the adventurer to slay the spy and her contacts in the abandoned mineshaft they met in.
+
+In time, Xalliana discovered Kallos Tam's plot and sent the adventurer to work with Garl Gnarlclaw. With targeted attacks, they thinned their ranks and weakened their command structure. Garl then helped the adventurer infiltrate Grimstorm Keep and slay the bandits' raid leader, Jareth Grim, to sabotage their leadership. Later, he sent a band of adventurers into Cragmire Crypts to seek Xalliana, and found and defeated Traven Blackdagger and Kallos Tam. Finally, Garl and Xalliana were able to move a siege tower close to Blackdagger Keep. With it, they sent a band of adventurers to storm the keep and finally slay Malus Blackdagger before his bandit army could assault Neverwinter. Thanks to these efforts, the Blackdaggers were broken and scattered.
+
+Activities
+
+By 1479 DR, the Blackdagger Bandits were engaged in a wide range of criminal activities. They robbed travellers and raided caravans on the High Road north of Neverwinter. They extinguished warning beacons at Raven Cliff Beach, causing ships to be caught and wrecked on the treacherous rocks, so they could loot the wrecks and enslave the survivors, and salvaged the debris that washed up onshore. Blackdagger pirates were reported to be plying the waters off the Sword Coast. They even engaged in protection rackets with businesses like Melkhor Goldseeker's Angelhead Mine, demanding from Melkhor a large cut of the profits to leave the mines alone.
+
+Members
+The Blackdagger Bandits were commended by the brothers Traven Blackdagger and Malus Blackdagger. They were advised by Kallos Tam, a Red Wizard. Their lieutenants were Jareth Grim, the battle-leader in charge of raids during their absence; Marion Hexbane, who oversaw the shipwrecking and salvaging operations at Raven Cliff Beach; and Krag Foultooth, leader of a group of gnolls who allied with the Blackdaggers. Beneath them were officers, enforcers, and "hexer" mages. The rank-and-file were many human and elf bandits, who operated as cutthroats, snipers, and salvagers, while the different gnolls were termed "huntsmen", "fangs", "bloodtrackers", and "deathpledged".
+
+Base of Operations
+The headquarters of the Blackdagger Bandits was the ruined Cragmire Keep, which they partially rebuilt and renamed Blackdagger Keep. A central was named Grimstorm Keep after Jareth Grim when he was raid leader. From here, they launched their raids and looting efforts along the High Road, and when threatened by patrols they could retreat to the safety of its walls.
+
+They also prowled Raven Cliff Beach, where they picked over and looted shipwrecks, and based themselves in a hidden cove and sea caves there. They set up tents and cranes for the work and collected whole crates and chests.
+
+Appendix
+Background
+Early versions of Neverwinter gave the Blackdagger Bandits a very different backstory via one of its in-game Lore entries. In this, Traven and Malus were pirate captains who operated on the Sword Coast North between Neverwinter and Luskan some time after the Spellplague of 1385 DR and reigning from Blackdagger Keep, until they were killed and the keep destroyed in the Mount Hotenow eruption. The ruins were later occupied by bandits and Kallos Tam reanimated and controlled the Blackdagger brothers, who took over the bandits and turned them undead. The Harpers became involved because of rumors of a Red Wizard among them. However, this Lore entry was later removed and the undead models for Traven and Malus replaced with living models. Some elements of this remained, with undead-seeming models for Marion Hexbane and others and pirate trappings for bandits who seem to do little actual piracy. In any case, the whole Blackdagger Ruins zone and this storyline were removed in July 2021.
+
+Either way, the connection of the Blackdagger Bandits to the still-undead actual pirates led by Bartholomew Blackdagger in the Pirates' Skyhold zone is unknown. However, a Lore entry there makes allusions to new Blackdagger pirates and the question of whether they are related to or simply inspired by Bartholomew Blackdagger. In addition, both Blackdaggers use the same banner and crest, displayed above, but this may be a case of a reused model.
+
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Blade ward
+
+Blade ward was an abjuration cantrip spell that gave a brief resistance to weapon attacks.
+
+Effects
+The spell bestowed resistances to piercing, slashing and, despite its name, bludgeoning damage.
+
+Components
+The components were verbal and somatic.
+
+Appendix
+See Also
+Circle of blades
+Appearances
+Video Games
+ Baldur's Gate III
+External links
+
+References
+
+---
+
+## Blight (spell)
+
+Blight was a necromancy spell that bathed a creature or plant with necromantic energy.
+
+Effects
+The spell would effectively drain water and vitality from a creature, which would suffer serious necrotic damage. Undead and constructs were immune as they either didn't have or didn't need moisture. Plants would just wither and die unless they were plant creatures or a magical plant, in which case they would just have a disadvantage to resist the spell, If they failed, they would suffer the full damage of the spell. The strength of the necromantic damage inflicted onto a target is determined by the caster's skill level.
+
+Components
+The spell had verbal and somatic components.In Player's Handbook v.3.5, this spell also required a divine focus.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Tomb of Annihilation • Waterdeep: Dungeon of the Mad Mage
+Video Games
+Idle Champions of the Forgotten Realms • Baldur's Gate III
+External links
+
+References
+
+---
+
+## Blinding smite
+
+Blinding smite was an evocation spell that made the next hit with a melee weapon create a explosion of light and radiant damage against the target.
+
+Effects
+For the duration of the spell, a struck target could be blinded and would have to try and resist the magical brightness that struck their eyes. The spell also caused radiant damage to the target.
+
+Components
+Only a verbal component was required to cast this spell.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blur
+
+Blur was an illusion spell that made the contours of a caster "blurry".
+
+Effects
+When under this spell, the caster would become harder to hit as they did not appear to have a solid form any more. Attacks made against a blurred caster by someone who couldn't see it ignored this spell, of course, as they couldn't see the effect.
+
+Components
+The older versions of the spell needed verbal and somatic components, but the later version only needed a verbal component.
+
+History
+The spell was attributed to Netherese arcanist Smolyn in  and was originally called Smolyn's blurring.
+
+As of the late 15 century DR, there were some among the feywardens of Sarifal who, by embracing the trickery of the Feywild, could gain the ability to replicate this spell.
+
+Appendix
+Appearances
+
+Gallery
+
+External links
+
+References
+
+---
+
+## Blood of Lathander
+
+The Blood of Lathander was a minor artifact associated with the Lathanderian faith that remained unknown to or forgotten by most of the Realms.  A relic of a long-ago battle between an avatar of the Morninglord Lathander and one of Mystra's chosen Sammaster, it was literally four drops of the Morninglord's blood suspended in amber, and later installed within the haft of an enchanted mace.
+
+Description
+Small and unremarkable other than in its rarity, the Blood of Lathander was, at first, merely four drops of the deity's blood suspended in hardened amber the size of a clenched fist. However, whenever a follower of Lathander made use of its powers, it would levitate motionless in the air and burn with a warm pink light that, depending on the god's will and the actions and intentions of the follower using it, could be soft and soothing or blazingly bright. The blood would also pulse or blink when queried for divine wisdom.
+
+After being damaged in a conflict with Sharrans, the amber that held Lathander's blood was set within an enchanted mace, empowering the weapon with the holy light of the Morninglord. The mace itself was cast from steel, inlaid with gold, with a spherical head that housed a glowing core. The actual amber that housed the Morninglord's blood was set just a bit down the haft of the mace, within its own enclosure.
+
+The head of the Blood of Lathander mace resembled an ever-shining sun, with a dozen spikes that resembled sunrays, extending out from its iridescent core.
+
+Location
+For quite some time, the artifact resided in the Lathander's Open Hand shrine in the Dalelands thorp of Hap. At some point it was stolen by agents of the goddess Shar, and taken to an outpost in the Western Heartlands. The Sharrans were thwarted by the Lathanderian paladin Vaseid. In the battle, the artefact was damaged, and Vaseid deemed it too unstable to transport. He instead built a chapel at the site of their victory with intent to build it into a true stronghold, founding Rosymorn Monastery. There, the Blood of Lathander remained - first in the care of the clergy, and then behind a significant magical security system.
+
+Destruction
+The Blood of Lathander, it was said, would flare up and burn away if the amber holding it was ever broken. How that could be accomplished depended on the source. Some said, likely in reference to it having come about due to the creator of the Cult of the Dragon, that it could only be crushed in the jaws of the oldest dracolich still in existence; others stated it had to be taken to a dead-magic zone and kept there for ninety-nine years, while still others pointed to divine intervention by describing it meeting its end either by the boot of an avatar of Talos or the fist of the current god of the dead.
+
+At one point, the artefact was damaged by "a maul of pure void" crafted and wielded by Sharran combatants.
+
+Powers
+Amber
+
+When called upon by a paladin or cleric of Lathander only, the piece of amber that held Lathander's blood could be employed to cast cure critical wounds four times a day and raise dead once a day; every other day it could be used to regenerate a missing body part or to cast restoration. In all of these capacities it had to touch the one in need of healing, sent flying through the air to them by the wielder's thoughts.
+
+Additionally, it could be used, when employed by a cleric only, to detect lie, identify, or determine if one who professed a devotion to the Morninglord was being truthful.
+
+Anyone who attempted to touch or transport the Blood who did not follow Lathander would discover the amber burning brighter than a continual light spell, thereby causing all nearby to be aware of its presence. They would also suffer from horrific nightmares of dripping, fiery blood for three days, after which the Blood would rise in temperature in exactly the manner of a heat metal spell, and stay that way until they returned it to its rightful place and owner.
+
+Mace
+After being reformed as a weapon, the Blood of Lathander mace possessed a +3 enchantment. It continually emitted light that could blind both undead creatures and fiends alike.
+
+Approximately once per day, on the occasion they fell in battle, the wielder could evoke the powers of Lathander's blood to heal themself and their allies. They could also invoke radiant energy from the sun itself and call down a magical sunbeam to smite their foes.
+
+History
+Origins
+The Blood of Lathander dated from a time long-forgotten by most—partly simply due to the fog of ages, but also because none in either the faith of Mystra or Lathander would prefer to remember such a dark event, seeing as it proved the goddess of magic to be neither omniscient nor infallible and the god of light and hope to be vulnerable.
+
+In the, the maddened and fallen Chosen of Mystra, Sammaster, was well on his way to spreading great evil in the Realms, having created the first dracolich fourteen years before and through his prophecies and writings inspired the Cult of the Dragon. When the Harpers at last discovered that he and his followers were traveling to Cormanthyr so as to make contact with two green wyrms, they tracked down the relatively undefended archmage and ambushed him. But although they slew many of his followers, the power invested in him by the Lady of Mysteries protected him from destruction.
+
+Followers of Lathander among the Harpers prayed to their deity for intervention, and the Morninglord sent an avatar that then did battle with Sammaster. The god's power was at last sufficient to slay the wizard whose goodness, stability, and judgment Mystra had so sadly underestimated, but drawing upon his former goddess' magical bequest, he succeeded in badly wounding Lathander's avatar even as he died. From its side fell four drops of blood, which were scooped up and rescued from the scene by one of the priests of Lathander from nearby Hap. The magic imbued within it transformed the amber flask he used into a hardened sphere, sealing the blood within.
+
+Hidden in the Heartlands
+
+Thanks to the deaths of so many on both sides of this skirmish, the relic was lost to history, with only the few survivors in Battledale to know of its existence and powers. Even the majority of Lathander's clergy were not aware of it.
+
+At an unspecified point during the tenure of Dawnmaster Dovaer, Sharran operatives briefly stole the artifact. They managed to smuggle it westward for miles, well out of the Eastern Heartlands, near the Sword Coast. At the orders of Dawnmaster Dovaer, stalward paladin Vaseid led a force of Lathanderian faithful in tracking the Sharran thieves. Vaseid found them en route to a nearby Sharran enclave, and and successfully ambushed the Sharran convoy in a valley near the River Chionthar. During the conflict, the amber containing the Blood was damaged, and blinding light from the artefact incinerated the remains of the Sharran forces. Vaseid then deemed the artefact too unstable to transport back to Hap, instead building a small chapel on the spot and declaring it would one day become a great monastery. The Blood of Lathander was then encased in steel to be wielded as "a most righteous cudgel", and Rosymorn Monastery was built to house it.
+
+At Rosymorn, the Blood of Lathander became a beacon of hope for all Lathanderian faithful. Folks from across the Realms would make pilgrimage to Rosymorn to bask in the artifact's glory.
+
+The exact date when the Blood of Lathander was recovered and Rosymorn Monastery was founded is unclear. Some sources indicate the Blood remained within Lathander's Open Hand until at least the .While an exact year for the adventure Search for the Diamond Staff is not given, most 4 edition sourcebooks and adventures are set in or around 1479 DR. Others, however, indicate Rosymorn Monastery had been in operation for over a century - long enough to see four separate Dawnmasters and a githyanki takeover well before the, indicating the Blood of Lathander had been stolen much earlier.During the events of Baldur's Gate III, adventurers can find an amulet in the ruins of Grymforge that contains the spirit of an unnamed Lathanderian monk, who was captured and tortured to insanity by Sharrans. Sharran documents in the area indicate the amulet was present at Grymforge when Ketheric Thorm was commander of the Dark Justiciars - sometime in or around 1371 DR. If players bring this amulet to Rosymorn Monastery, the monk in question mentions having visited the monastery before in a "forlorn and forgotten age" to see the Blood of Lathander himself. This indicates the monastery was in operation prior to the monk's capture by Sharrans, meaning the Blood of Lathander must have been stolen from Lathander's Open Hand and subsequently recovered prior to 1371 DR at the very latest. This is mostly consistent with other evidence in the monastery itself, such as stained glass works depicting four separate Dawnmasters and mentions of a "reconsecration" event later in its history.
+
+It is possible - but unlikely - that the Lathanderian monk in question was captured by Sharrans in an earlier occupation of Grymforge, given that the records of the amulet during Thorm's era suggest it was found by these later forces rather than made. This would place the founding of Rosymorn significantly earlier, since the last known Sharran occupation of Grymforge was noted by Thorm's forces to be nigh 800 years prior - roughly 600 DR. However, given that during the course of the quest said monk expects his granddaughter to be alive and well but does not appear to be of a race with a multi-century life expectancy, it is reasonably safe to assume his unfortunate Sharran encounter was during Thorm's era.
+
+The change from Lathanderian monastery to githyanki creche also appears to have taken place well before 1492 DR - the year in which Baldur's Gate III is set. The remains of those caught in the githyanki invasion are naught but skeletons, all fabric clothing long decayed away, and the temple itself is dilapidated and overgrown. Banter dialogue between Gale and Karlach also notes the monastery was once known for its ale, but has been "long ruined", suggesting the githyanki have had control of it for quite some time. This is consistent with dialogue from the githyanki youth living within the temple, several of whom mention never having met non-githyanki before. If it is assumed these githyanki youth were hatched in the creche rather than part of the invasion (or otherwise transferred there after the takeover), this would put the githyanki occupation of Rosymorn Monastery beginning 10-20 years prior to the events of the game.
+
+After githyanki from the Astral Plane invaded Rosymorn sometime before 1492 DR, the Blood of Lathander mace was rapidly removed from open display and interred in a secluded vault deep within the heart of the monastery. There it remained inaccessible, save to anyone that puzzled out the various safeguards and traps that prevented it from being stolen once again.
+
+Notable Owners
+ Cathalandra Dovaer, priestess and Dawnmaster of Lathander's Open Hand in Hap.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Blas Iwan
+
+Blas Iwan was a young red dragon who sought to transform into a dracolich around 1370 DR.
+
+Relationships
+Blas was a fanatical worshiper of Sammaster's theories and entered the Cult of the Dragon thinking this was his destiny. However, he was too young to undergo the dracolich's transformation, so the Cult decided to helped him gain a treasure hoard and experience before the treatment.
+
+Appendix
+References
+
+---
+
+## Blister
+
+Blister was a Netherese military outpost established in  in the mountains of southeast Netheril.
+
+Defenses
+The outpost was so well defended that it survived beyond the fall of the Empire.
+
+Rumors and Legends
+There was a portal from the Temple of Tyche in what would later be known as the village of Monksblade, Cormyr.
+
+History
+Though not its official name (a name which, in Loross, roughly translated as "All-Seeing Master of Lightning"), the soldiers stationed there colloquially referred to the outpost as "Blister", owing to the difficult life they led.
+
+In, phaerimm attacked Blister. They destroyed many of the underground supply rooms and several connecting tunnels beneath the outpost. Blister's garrison came close to starvation, and the commanding archwizards fled after personal issues begin turning into spell-battles.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Blackthorn
+
+Blackthorn was an assassin of the Night Masks in 1370 DR.
+
+History
+Blackthorn was a half-elf living in the Gulthmere Forest until human expansion in the area consumed him with bitterness. Blackthorn decided to not only fight back against humanity but also conduct his personal war in one of the biggest cities of the Realms.
+
+He went to Westgate and joined the Night Masks, using his talents as a poisoner for the guild. In time, Blackthorn learned that the guild was a very useful tool in his war and he greatly delighted in poisoning merchants involved in the timber market.
+
+Appendix
+
+References
+
+---
+
+## Blagothkus
+
+Blagothkus was the cloud giant ruler of Skyreach Castle.
+
+Personality
+Blagothkus was a survivor of the giant empires of the past, and his main dream was to somehow go back to those glorious times. Using this motivation, the Cult of the Dragon convinced him that they were reestablishing a time when only giants and dragons would rule, though his commitment to that alliance was borne more out of a desire to spur giant-kind to action.
+
+History
+Blagothkus was a very old cloud giant lord in command of the floating Skyreach Castle. In the late 15 century DR, he allied with the Cult of the Dragon, dreaming to go back to the age when giants and dragons fought for the dominion of the world. The Cult used his castle as one of their main headquarters. When the Cult tried to bring Tiamat back to the Prime Material Plane and let chromatic dragons run rampant throughout the Sword Coast, Blagothkus and his allies collected there all the treasures destined for the hoard of the Dragon Queen.
+
+Prior to the shattering of the Ordning, Blagothkus and his son Eigeron traveled to the Eye of the All-Father to consult the oracle there. Not liking what the oracle told Blagothkus, he slew his son and retreated to his castle to mourn. His son rose as a ghost wishing for vengeance on his father.
+
+Eventually, a band of adventurers boarded the castle and may have killed Blagothkus.
+
+Appendix
+Appearances
+Adventures
+Hoard of the Dragon Queen
+
+Storm King's Thunder
+
+References
+
+---
+
+## Blindsight
+
+"Blindsight" was a general term for the natural ability of certain creatures to perceive their surroundings as well as a sighted creature yet without using visual senses. Senses that could contribute to a creature's overall blindsight included enhanced hearing, an acute sense of smell, sensitivity to vibrations, or such specialized senses as echolocation. Because the sense of sight was not involved, a creature with blindsight was not hindered by such spell effects as invisibility or darkness.
+
+Appendix
+See Also
+ Darkvision
+ Low-light vision
+ Tremorsense
+
+Reference
+
+---
+
+## Bloom
+
+Bloom was a minor arcane spell that allowed a magic-user to conjure flowers in bloom.
+
+Effect
+The bloom spell simply conjured a cut flower, typically a rose, in full bloom and floating in the air where directed.
+
+Practitioners
+It was a special spell known to elves of Shadowdale. It was considered a simple and harmless spell.
+
+History
+Cybriana of Shadowdale was traveling to Waterdeep in the Year of the Prince, 1357 DR when she lodged with Jalma and two other elven women. At Jalma's question about the spells of Shadowdale elves, Cybriana demonstrated the bloom spell. However, she was shocked to find her fingers transformed into pink crystal, the result of a curse when she used arcane magic.
+
+Later, when trapped inside a forcecage, Cybriana used a bloom spell, conjuring fresh flowers throughout the caverns below where her friends battled through Imgig Zu's ogre minions. The flowers formed a trail, leading Timoth Eyesbright and the others to her rescue.
+
+During the Time of Troubles of 1358 DR, when magic went awry, Kyriani attempted bloom. It worked, but created not only a flower in bloom, but a monstrous flower monster that attempted to swallow her. Luna's dispel magic did not work on it. Timoth rescued her as Vajra Valmeyjar burned the monster.
+
+Appendix
+Appearances
+ The Gathering
+ Sorcerer's Moon
+ Selune Rising
+
+References
+
+---
+
+## Bloodberry bush
+
+Bloodberry bushes grew on the plains surrounding the Battle of Bones.
+
+Description
+Reddish-purple berries and heart-shaped reddish-green leaves characterized this bush.
+
+Uses
+These bushes were extremely poisonous in every part. Eating just a few of the berries killed most creatures within minutes. Chewing the twigs or brewing the leaves in a tea was similarly deadly. Even using the twigs from this bush in a campfire could prove dangerous, causing eyes to swell shut from the toxic smoke and making food cooked over the fire toxic as well. Surviving the poison still left one seriously sick.
+
+Despite this, bloodberries were reputed to be an ingredient in Turmishite apple and bloodberry pie, which was known to be incredibly tart.It's unknown if the bloodberries used in the pie are the same poisonous bloodberries used in minute amounts or a unique cooking method to eliminate or reduce the poison, are a different plant species entirely, or if only Battle of Bones bloodberries are poisonous. More likely, the bloodberries could be mistaken for goblinberries, which are similar, also found around the Battle of Bones, and can be consumed in a sweet dish.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Blades for Daggerdale
+
+Blades for Daggerdale, designed by Matthias Schäfer, is an adventure module set in the Forgotten Realms using the Dungeons & Dragons 4th edition ruleset. It focuses on Daggerdale, the gnolls, and the zhents.
+
+Summary
+The adventure starts off as adventurers stumble across a merchant caravan bound for Dagger Falls under attack by gnolls. After the ambush, the adventurers learn rumors of the Zhent Headless Horseman of Daggerdale and soon arrive in Dagger Falls. In the town, they learn that Zhent mercenaries are helping to fight off gnoll raids but a concerned Constable Morn asks for the adventurers' support in a meeting with the mayor. At the meeting, attempts are made to convince the mayor not to hire the Zhents and the adventurers are sent to seek out a gnoll hideout.
+
+Along the way, they encounter a drowning dwarf who points them in the right direction to find the gnolls. Upon finding the gnoll cave, the adventurers locate proof of the Zhents' involvement in the gnoll attacks. However, as they leave, a group of Zhents confront the adventurers but the sudden appearance of Swift Elyan disguised as the Zhent Headless Horseman scares most of them away. Finally, back in Dagger Falls, the adventurers are able to finish their meeting with the mayor with evidence of the Zhent plot.
+
+Index
+
+Characters
+ •  •  •  •  •  •
+
+ •  •  •  •  •  •
+
+Creatures
+ •  •  •  •  •
+
+ •  •
+
+Items
+ •  •  •  •  •
+
+Locations
+Buildings & Sites  •  •
+Roads
+Settlements
+Wilderness  •
+Realms
+Regions
+
+ •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Magic
+ •
+
+Organizations
+ •  •
+
+Religions
+ •
+
+ •  •  •
+
+Miscellaneous
+
+  •  •
+
+Appendix
+Notes
+
+Gallery
+
+External Links
+ Living Forgotten Realms Website
+
+---
+
+## Blade of forgetfulness
+
+Blades of forgetfulness were magical weapons that could be found in Zakhara, the Land of Fate. These special weapons were only used by Holy slayers.
+
+Description
+These blades were available in sizes ranging from jambiyas to scimitars.
+
+Powers
+Blades of forgetfulness did not grant their wielder any additional fighting prowess. A wielder who waved the blade in a figure eight pattern could make anyone viewing the display lose their memories from the past few minutes before the display to the next few minutes after the display. These weapons were especially handy when bypassing guards while on an assassination mission.
+
+Appendix
+References
+
+---
+
+## Bleucorundum
+
+Bleucorundum was a sapphire dragon living under the Omlarandin Mountains near Iltkazar in the Underdark in 1370 DR, who was the self-appointed Sapphire Sentinel of the Sleeping Legion of the Knights of the Crescent Moon.
+
+Personality
+Bleucorundum  was not aggressive by nature but was highly territorial and distrustful of strangers. He was a lover of history, and his language was laced with military and historical jargon. He was strongly dismissive of anyone who had not served in the military and even more so towards pacifists. The most important virtues, in his mind, were duty, honor, and military readiness.
+
+His devotion to duty meant that Bleucorundum was lonely. He longed for a mate, but he could not forsake his post guarding the Sleeping Legion, even though he had taken that role upon himself.
+
+Bleucorundum followed the dragon deity Null as well as the dwarven god Clangeddin Silverbeard. He also had great respect for Selûne, though he did not worship her directly.
+
+In battle, Bleucorundum was a cautious combatant, taking his time to evaluate opponents before going on the offensive. He often relied on the mirror image spell to trick his opponents. He was a much better fighter on the ground than in the air, following his sonic breath weapon with physical attacks. He would use his psionic powers to escape a losing battle.
+
+Abilities
+Bleucorundum could cast the spells, alarm, blessed watchfulness, dancing lights, dispel magic, hold person, mirror image, neutralize poison, and weighty chest. As a sapphire dragon, he had psionic powers that included antimagic field, continual light, passwall, and stone shape effects, as well as the ability to use the ego whip and psionic blast attack forms and the intellect fortress and mind blank defense forms. He was skilled in clairsentient and psychoportive powers, such as teleportation.
+
+As a sapphire dragon, Bleucorundum was immune to fear and magics that held or paralyzed an opponent.
+
+While primarily speaking the sapphire dragon dialect of Draconic, Bleucorundum could readily communicate with any intelligent creature.
+
+Possessions
+Bleucorundum wore a dwarven fist on his right foreclaw, a spellbattle ring on his left rear claw, and a ring of gargoyles on his right rear claw. On his head, he wore a mithral coronet with a single black sapphire set within.
+
+Lair
+Bleucorundum had two known lairs. For a long time he lived under the catacombs of the Chapel of the Blooded Moon while guarding the sleeping Knights of the Crescent Moon. When Bryth Moonaxe and his fellows awoke in 1370, he changed his lair to the Spiderstalking Caverns, where he could eat the favorite prey of sapphire dragons, giant spiders.
+
+His lair under the Chapel of the Blooded Moon was more than 70 feet height. Access to the two-roomed cavern chamber was through a 40-foot tunnel about 20 feet in diameter. This tunnel had trip wires that set off warning bells. The whole lair was under the effects of several continual light spells in the floor.
+
+In the southwestern corner of his lair was a reflecting pool that enhanced the display of his hoard. Bleucorundum favored sapphires among other gems and historical artifacts from the region. His bed was composed of between 40 and 50 thousand coins, more than half of which were silver, and primarily of Calishite, Chondathan, and Shanataran mint. On a display ledge behind his bed were 19 blue sapphires, seven black sapphires, three star sapphires, and thirteen other jewels. Among other treasures, his hoard also contained the following historical items:
+ Blazing Banner of Ologh the Overking
+ Seven Scrolls of Syòrpiir
+ Karlyn's Thunderaxe
+ Firefan of Teshyllal Fields
+ Eyestalker
+
+Bleucorundum also maintained a backup lair in the Kuldin Peaks, and he possessed a teleport trigger that could take him there in emergencies.
+
+Territory
+Over the years, Bleucorundum expanded his territory to include regions of Deep Shanatar from beneath Darromar east to the High Peaks and from Impresk Lake south to below the Forest of Mir.
+
+History
+Bleucorundum guarded the Knights for centuries, first coming to the Omlarandin Mountains in 757 DR. His parents and siblings had been slaughtered by the beholders who ruled Cortryn (which later became eastern Amn), and he fled through the tunnels of Shanatar to the Omlarandins, where he stumbled upon the Chapel of the Blooded Moon. Through magic, he discovered that the Sleeping Legion still lived. When he learned through research that the Legion had actively fought against beholders in the Eye Tyrant Wars, he vowed to defend them until they awoke again as the prophecy foretold, even beginning to merge his veneration of Null with that of the dwarves' god Clanggedin.
+
+Appendix
+References
+
+---
+
+## Blade of mastery
+
+The Blade of mastery was a magical weapon that could be found in Zakhara, the Land of Fate.
+
+Description
+This weapon appeared as a small jambiya with an ethereal blade.
+
+Powers
+The blade of this weapon did not cause any damage. Instead, anyone struck by the blade received a permanent enhancement to one of their main physical or mental abilites.
+
+Appendix
+References
+
+---
+
+## Blightbringer domain
+
+The Blightbringer domain was a prestige domain granted to certain divine spellcasters of Talona. It granted the power to command or rebuke blightspawned creatures, evil animals, and even evil plants, just as some evil priests could order the undead.
+
+Deities
+
+Spells
+Novice spellcasters were able to use the hold animal, Snilloc's snowball swarm, and contagion spells. Clerics of some experience could cast fear, cone of cold, and finger of death. Those that were masters of this domain had access to command plants, horrid wilting, and energy drain.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Blade of doom
+
+Blade of doom, also known as Shaeroon's scimitar, was an evocation spell that threatened one creature with injury from an invisible sword of force that was triggered by a condition chosen by the caster.
+
+Effects
+This spell was a curse that followed its target, hovering over the creature's head, waiting to strike if the trigger condition occurred. The sword of force was invisible except to the caster, individuals that could see invisible objects, and to anyone who cast a successful detect magic on the unfortunate creature. The trigger condition was usually some action that was undesirable to the caster, such as drawing a weapon or beginning to cast a spell. This spell could last up to one year.
+
+The target did not get a chance to resist blade of doom until the curse was triggered and the blade struck the target. At that time, if the creature managed to resist the spell, no injury was received. Otherwise, the damage was proportional to the level of the caster. This curse could be removed before the expiration of the spell by the caster or powerful magic such as a limited wish. A normal dispel magic had no affect on this spell. Only one such curse could be put on a single creature at a time.
+
+Components
+In addition to verbal and somatic components, this spell required a small model of a scimitar made from rock crystal (with a value of 300 gp), diamond or colorless sapphire (valued at 3,000 gp).
+
+Uses
+In practice, this spell was used as a punishment for those who drew the displeasure of a powerful wizard. It could also be used during negotiations to encourage honesty or discourage treachery.
+
+History
+This spell first appeared as Shaeroon's scimitar in the Book of Bats, which was first recorded as part of the treasure of a satrap in Calimshan around 1147 DR. It was also found in Tidings of Conflict and Woe under the name blade of doom.
+
+This spell was eventually published in "Volo's Guide to All Things Magical" and became generally known to the magical community, but remained uncommon around 1358 DR.
+
+Appendix
+
+Appearances
+Novels
+
+Tantras
+
+References
+
+---
+
+## Blood wine
+
+Blood wine was a wine exported from Aglarond.
+
+Description
+This heavy-bodied wine had deep red tones complimented by a full taste with a slight afterbite.
+
+Blood Wine used shriveled grapes that only grew on vines rumored to be possessed by spirits who performed acts of cruelty during life.
+
+Availability
+ Aurora's Whole Realms Catalogue sold blood wine in a variety of containers.
+ The Candlekeep Inn had Blood Wine on its drinks menu, charging 5 copper pieces per glass.
+ The Nashkel Inn in Amn carried Aglarond Blood Wine, charging 8 gold pieces per serving.
+ The popularity of blood wine even reached Menzoberranzan, an infamous drow city in the Underdark, by 1479 DR. The wine was among goods imported into the City of Spiders from the surface world.
+
+Prices
+Blood wine could be purchased in the following containers:
+ Hand keg (15 sp)
+ Cask (4 gp)
+ Barrel (10 gp)
+ Butt (30 gp)
+ Tun (70 gp)
+
+History
+Thanks to its appearance in Aurora's Whole Realms Catalogue and being made more widely available, Aglarondan blood wine became a popular export.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Bladeling
+
+Bladelings were a species of outsider found in Acheron known for their xenophobia.
+
+Description
+Bladelings were humanoid in form, about  tall, covered in sharp, metallic spines that grew in patches on their tough, metal-hued skin. Bladelings had purple eyes that glittered like ice.
+
+Personality
+Bladelings were superstitious and xenophobic, though those that travelled the planes were somewhat more amiable to strangers. However, while they immediately attacked and killed any who invaded their home, they were at least courteous to those who came peacefully.
+
+Abilities
+The skin of bladelings, although metallic, was immune to rust and acid, and resistant to both cold and fire; they were known to be resistant to some magics, although this seemed to be a property of the unknown metal their skin was made of rather than a property of bladelings themselves. Additionally, spells that targeted metal, such as heat metal, could target bladelings.
+
+The metallic skin of bladelings also offered them some protection from ordinary piercing or bladed weapons. They could also unleash what was called a "razor storm", wherein they expelled part of their skin as high-speed shrapnel. However, this lowered their natural resistances and armor.
+
+Combat
+Bladelings were quick to fight and fearless in combat due to their natural armor and weapons. They were capable of fighting with either their spiked fists or actual weapons, such as longswords.
+
+Society
+Bladelings were considered natives of the Outer plane of Acheron, with most living in their city of Zoronor, situated in the Blood Forest on the layer of Ocanthus. However, old legends said that the bladelings had originally come to Ocanthus from another plane, variously said to be Gehenna, Baator, or even an unknown metal plane. Yet other rumors stated they had originally been tieflings who became their own species. Bladelings were also known to live in the Barrens of Doom and Despair.
+
+Some bladelings, normally female but not always, had the ability to call upon their mysterious deities; these individuals became clerics and leaders amongst the bladelings. Most other bladelings became fighters, while a few males were known to become conjurers.
+
+Zoronor was ruled by a priest-king whose tenets gave some amount of safety to the bladelings, and thus they obeyed him fanatically and would defend Zoronor with their lives. Other clerical bladelings were prone to playing politics, as bladelings in general had a tendency to internal strife; though only the clerics' politics were known to sometimes embroil whole districts. However, bladelings pulled together quickly when faced with an external threat. Few bladelings left their city except as assassins or as travellers.
+
+It was said that a blade golem could only be made using the spirit of a bladeling as the animating force.
+
+Ecology
+Bladeling spikes were used as a magic or alchemic component that needed to be ground into powder before being distilled with a mortar and pestle.
+
+History
+It was said that when the bladelings first arrived in Acheron, they were not immune to rusting and consequently were almost wiped out in their first years there due to the depredations of rust dragons, until through magical experiments they rendered themselves immune to corrosion of any sort.
+
+Appendix
+Appearances
+
+Gallery
+
+Further Reading
+
+References
+
+---
+
+## Black Horn Regiment
+
+The Black Horn Regiment was a yugoloth mercenary company led by the ultroloth Inthracis. They were based in Corpsehaven within the Blood Rift.
+
+Description
+The company was composed by 500 members of various kinds of yugoloth.
+
+History
+In 1373 DR, Inthracis was approached by the god Vhaeraun, who demanded that Inthracis kill the three priestesses who were candidates to become the Yor'thae (Chosen of Lolth): Quenthel Baenre, Danifae Yauntyrr, and Halisstra Melarn. As a reward, Vhaeraun promised Inthracis a higher position. Inthracis led his company to the Pass of the Soulreaver near the Demonweb Pits and there battled Quenthel, Danifae, Halisstra, Jeggred Baenre, and Pharaun Mizzrym. They defeated the regiment, however, and Inthracis was killed by Pharaun. His death was not permanent, however, as he had another clone body to revive in.
+
+Appendix
+Appearances
+Novels
+ Resurrection
+
+References
+
+---
+
+## Blaizette
+
+Blaizette was a halfling waitress in Phlan during the late 15 century DR.
+
+Activities
+Blaizette worked as waitress for her mother at the Madame Freona's Tea Kettle.
+
+Relationships
+She was the daughter of Madame Freona, the Tea Kettle's owner and proprietor. Her other sisters included Briez, Grelinda, Reece, and Whittlee.
+
+History
+In the 1480s DR, she was briefly interrogated by Buhrell Caah about a missing dangerous magic item.
+
+Appendix
+Notes
+
+Appearances
+Organized Play & Licensed Adventures
+Tyranny of Dragons (Defiance in Phlan)
+References
+
+---
+
+## Blade (disambiguation)
+
+Blade might refer to:
+ Blade: a general term for a sharp edge.
+ Blade (Berdusk): a "sergeant" in the Guard of Berdusk.
+ Blades (Mulmaster): sixteen lords who (with the High Blade) composed the ruling council of Mulmaster.
+ Blade (shell): the valuable parts of shambos, or sea turtle shell.
+ Blade (class): a type of bard that uses bladed weapons to whirl around themselves as a performance for the crowd.
+ Blade, a wood elf fighter and assassin
+ Blade, a Night Parader.
+
+---
+
+## Blazen Stoe
+
+Blazen Stoe  was one of the Blades in Mulmaster.
+
+Personality
+Stoe took great pride in his family's position and his role as a Blade. He was concerned that his son did not understand this. Stoe wanted for Sebastian a good marriage that would produce the next generation of the Stoe family.
+
+Relationships
+Stoe was the father of Sebastian Stoe.
+
+History
+In 1491 DR, Stoe's son fell in love with a girl who worked in a bar, and he felt she was a woman totally inappropriate for a Blade's son. He confronted Sebastian, urging to him to break off the relationship but instead his son ran away from home. Later, at a great party in the Astrid Saj villa, Blazen Stoe hired an adventuring party to find and take the boy home.
+
+Appendix
+Appearances
+ City of Danger
+
+References
+
+---
+
+## Blentra Whaelbuckler
+
+Blentra Whaelbuckler was an inhabitant of Marsember in 1367 DR.
+
+Description
+A giant of a woman, Blentra's immense strength aided her well when fighting pirates.
+
+Activities
+Blentra was a secret agent for the Harpers. She owned a restaurant in Marsember that was a popular retreat.
+
+She was also a shipbuilder and owned Whaelbuckler's Fine Masts & Hulls on Starmouth Street in Marsember.
+
+She loved adventuring and hated not being part of anything exciting taking place in Marsember.
+
+Appendix
+Appearances
+Adventures
+Dungeon #113, "Practical Magic"
+References
+
+---
+
+## Blades (Mulmaster)
+
+The Blades were the council of nobles that governed the city of Mulmaster in the Moonsea.
+
+The Blades were sixteen of the most preeminent citizens, normally from the noble houses of the city. The Blades were ruled by the High Blade, the titular ruler of Mulmaster. They were based in the Tower of Blades.
+
+Appendix
+
+References
+
+---
+
+## Bloodwind
+
+Bloodwind was a high-member of the Cult of the Howling Hatred at the Monastery of the Yellow Rose.
+
+History
+In 1491 DR, after his fellow cultists infiltrated the monastery, Bloodwind went there to commence an elemental ritual. He dismissed the local cultist leader. He and his genasi assistants arrived at the monastery disguised as a group of sages and established themselves at the Tower of the Winds. There they started the ritual, generating a strange storm around the monastery.
+
+At last, thanks to Lana's report, an adventuring party hired by the Order of the Gauntlet, the Lords' Alliance, and Zor Garwyl Gos of Mulmaster stopped the ritual and defeated him.
+
+Appendix
+Appearances
+Eye of the Tempest
+
+References
+
+---
+
+## Bloppblippodd
+
+Bloppblippodd was a kuo-toa cultist living in Sloobludop during the 15 century DR.
+
+Personality
+Bloppblippodd was a bloodthirsty sadist who was absolutely assured that her divine vision would raise her in glory to rule her people.
+
+History
+Bloppblippodd lived quietly in the village of Sloobludop on the Darklake, which was ruled by her father Ploopploopeen. Circa 1486 DR, however, she had a vision of a new god named Leemooggoogoon the Deep Father (in truth, the demon lord Demogorgon) and spread her new religion among the kuo-toa. Soon, she had gathered so many followers to her that her father Ploopploopeen started to make plans to reclaim his position.
+
+To her surprise, her father and his minions came to Leemooggoogoon's temple offering a party of adventurers who had escaped from drow slavers of Velkynvelve as sacrifices to the new god. Bloppblippodd was pleased by her victory over her father and, after sacrificing the duergar Hemeth, she went to sacrifice the adventurers. But then the adventurers and Ploopploopeen and his warriors attacked her and her lieutenants—all this being part of his plan to infiltrate the temple to cut off the head of her cult. At this point, however, "Leemooggoogoon", along with dozens of ixitxachitl, rose from Darklake and started to destroy Sloobludop, killing all present, including Bloppblippodd and her cultists.
+
+Appendix
+Appearances
+Adventures
+Out of the Abyss
+Gamebooks
+Escape the Underdark
+
+References
+
+---
+
+## Blurg
+
+Blurg was an orog member of the Society of Brilliance in the late 15 century DR.
+
+History
+Details of Blurg's early life were unknown, though he eventually joined the Society of Brilliance alongside Omeluum, Grazilaxx, Sloopidoop, Y, and Skriss. Blurg and all the other members of the Society went on a pilgrimage to Gravenhollow some years before the demonic crisis that struck the Underdark circa the .
+
+As of the, Blurg was studying alongside Omeluum at the Ebonlake Grotto.
+
+Subsequently, Blurg and Omeluum departed the Ebonlake Grotto and returned to the Lodge of the Society of Brilliance in the Lower City of Baldur's Gate. There he and other members of the Society may have been murdered by Ptaris, a githyanki hatched from an egg acquired by Lady Esther, whose development had been magically accelerated as part of an experiment run by the Society.
+
+Appendix
+Background
+In Baldur's Gate III, Blurg appears as a hobgoblin. However, his speech still refers to the light vulnerability of orogs, suggesting a late change or incorrect model.
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Black Eagles
+
+The Black Eagles, also called the Ashes, were part of the standing army of the efreet in the City of Brass on the Elemental Plane of Fire.
+
+Organization
+The Black Eagles were the only unit of jann among the armies of the efreet. The 3,000 hardened warriors of the Black Eagles were evenly divided between ranks of light cavalry, foot soldiers, and mounted archers.
+
+Activities
+Each member of the Black Eagles was stolen from their tribe as a child. They were indoctrinated to be loyal servants to their efreet masters.
+
+Base of Operations
+The City of Brass served as the base of the Black Eagles.
+
+Appendix
+References
+
+---
+
+## Black Darts
+
+The Black Darts were part of the standing army of the efreet in the City of Brass on the Elemental Plane of Fire.
+
+Organization
+The Black Darts was a formation of 2,000 manscorpion slaves who wielded javelins effectively.
+
+Activities
+The Black Darts used their ranged weapons to weaken enemy lines for the infantry.
+
+Base of Operations
+The City of Brass served as the base of the Black Darts.
+
+Appendix
+References
+
+---
+
+## Blue Lady
+
+The Blue Lady was a spellplague-changed sirine worshiped by the Choir cult.
+
+History
+The Blue Lady was a sirine that was transmuted by the Spellplague. Twisted, she resided in Tohrepur. There, prior to 1473 DR, she transformed the farmer Khault, who was fleeing from his destroyed village, into an aberration and he gathered a cult around her.
+
+In 1479 DR, Khault sent members to Airspur to recruit. The Choir kidnapped several residents of Airspur, including the twin sister of a genasi named Ghaelya who the cult believed to be a prophetess. With the help of Uthalion and a few of his friends, Ghaelya traveled to Tohrepur, where one of her friends killed Khault and destroyed the Blue Lady.
+
+Appendix
+Appearances
+The Restless Shore
+
+References
+
+---
+
+## Blugdub
+
+Blugdub was an orog leader in Blingdenstone.
+
+History
+In 1478 DR, Blugdub, like Ashkabbar, led a group of orcs into a section of Blingdenstone. They too started raiding the deep gnome settlers led by Kargien Dissengulp. Finally, in 1479 DR, an adventuring party hired by Kargien defeated Blugdub and Ashkabbar and forced the orcs to abandon the city.
+
+Appendix
+
+Appearances
+Reclaiming Blingdenstone
+
+References
+
+---
+
+## Blade of disaster
+
+Blade of disaster, also known as black blade of disaster, was a powerful conjuration spell that weaponized a rift in the very structure of the planes that could be used to cut through anything in its path. It could be learned by sorcerers, warlocks, and wizards
+
+Effects
+The spell summoned a  crack between the planes that was roughly shaped like a dark blade. The "blade" appeared at a point of the caster's choosing within a range of  and lasted up to a minute, as long as the caster maintained concentration. It could be commanded by the caster to move around and perform muliple devastating attacks against opponents in quick succession. The blade dealt great damage against all creatures that touched it and could even disintegrate them if a vital spot was hit. It also damaged nonliving structures and could penetrate magical barriers such as a prismatic wall or sphere, a wall of force, or even an antimagic shell.
+
+The version that had become most popular in  was vulnerable to dimensional anchor, and would collapse if struck with one.
+
+Components
+The spell required only verbal and somatic components.
+
+History
+Black blade of disaster was a spell of the dreaded drow of the Underdark, but was also known and used by dimensionalists due to its plane-related nature. The abjurer Delphe, a Keeper of the Cerulean Sign and star elf warden of Stardeep, employed a nearly identical spell in ; however, she knew her version of the spell as spellscythe.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Black Mist
+
+The Black Mist gang was a yakuza group in Nakamaru in Wa in the mid–14 century DR.
+
+Activities
+Seemingly powerful across Wa, the Black Mist were recently established in Nakamaru by 1357 DR. The Black Mist tried to control all illegal business in the city, entering into feuds with the both Big Head and Worthless Flower gangs, who were cautious in trying to destroy the Black Mist.
+
+Organization
+The Black Mist followed the normally family-like hierarchy but were also divided into different branches, based on the type of illegal activity: one for gambling, one for protection, and, unique to the Black Mist, the gurentai, thugs that often attacked the Big Head bases.
+
+Relations
+The Black Mist did not have the city authorities' recognition so they were always on their guard against the police and local samurai. Instead, they forged an alliance with traders of the foreign districts, especially merchants from Shou Lung.
+
+Appendix
+
+References
+
+---
+
+## Black Leopard Cult
+
+The Black Leopard Cult, later the Black Leopard Society was a very ancient and much-talked-about organization in T'u Lung.
+
+Description
+The Black Leopard Cult worshiped the Black Leopard Bauhei, an ancient greater spirit who preceded the Celestial Empire. However, in early forms, their high priests in truth enslaved Bauhei to give them power they misused.
+
+History
+Bauhei and his Black Leopard cultists ruled over the lands around Fenghsintsu province from before the founding of the empire of Shou Lung. In time, however, Bauhei was enslaved by the greedy high priest of the cult, Nan Kung Chi, who started a regime that spread terror. So Emperor Tan Chin, around, decided to destroyed them. Thanks to his friend the poet wu jen Kar Wuan, Tan Chin went to the main temple in Durkon and managed to free Bauhei, who quickly killed Nan Kung Chi. The remaining followers fled out to sea, led by the Second High Priest of the order, so the Black Leopard Cult was defeated.
+
+In, the Black Leopard Cult's power, again active, reached its zenith with their kio ton mu (mystic witch doctors) held in more fear and reverence than that of the Shou Lung emperor in Durkon. In 420 Shou Years (−830 DR), however, the army of General Wo Can of Shou Lung destroyed the main Black Leopard Cult temple at the mouth of the Fenghsintzu River. The Black Leopard Priest fled with his remaining followers to Akari island.
+
+In, the first hints arose of the resurfacing of the Black Leopard Cult as a secret society working to aid peasants displaced by warring forces. In 253 DR, the Black Leopard were suspected to be behind the Nights of the Screaming Demons, a six-day event during which spirits killed many of the most incompetent and corrupt prominent bureaucrats along the Fenghsintzu River. In 1067 DR, the Black Leopard Society supported the first T'u Lung emperor Shin Lu, who had made appeals to banned secret societies to help to repel the First Incursion of Shou Lung forces.
+
+Appendix
+References
+
+---
+
+## Black kumade
+
+The black kumade was a magical javelin wielded by Lin Goh, clanmaster of the Panthers of Xi in Koryo around 1357 DR. It became a symbol of that ninja clan.Although named as a kumade, a kind of weaponized rake, the black kumade is only statted and described as a javelin. It is unclear if or how this weapon functions as a kumade. It may be that it has a barbed head.It is unknown what relation this weapon has to the black kumade appearing in the Neverwinter Nights games.
+
+It was an obsidian +2 javelin that would return to its wielder when hurled. It could also be spun like a baton to deflect attacks; while spinning, it served as a +3 shield.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Black kumade (spear)
+
+A black kumade was one of a number of magical spears once wielded by Guul Shatterneck and his bandits in the North of Faerûn.A black kumade originally appeared in Kara-Tur: The Eastern Realms, and this weapon is likely named after it. However, the attached story and powers are completely different. It is unknown how the two weapons are related.
+
+Description
+These spears had three-pronged heads, hence their name as "kumades", a type of weaponized rake of Kara-Tur.Although named as a kumade, a kind of weaponized rake, the black kumade is only statted and described as a spear, as kumades were not implemented in Neverwinter Nights. It is unclear if or how this weapon functions as a kumade. The name likely derives from the barbed head shown in artwork.
+
+Powers
+A black kumade was a +2 spear that also granted a degree of resistance to spells.
+
+History
+The bandit Guul Shatterneck and his kin used the black kumades to harass and dispatch their victims. Following the bandits' defeat to the Gray Wolf Tribe, the black kumades circulated around the North and other lands by 1372 DR.
+
+Appendix
+Notes
+
+References
+
+External links
+
+---
+
+## Black Leopard
+
+The Black Leopard, also known as Bauhei and Hei Te Pao,The names "Bauhei" and "Hei Te Pao" both appear to be based on a Chinese translation of "black leopard": "黑豹" or "hēi bào". Moreover, "Pao" means "panther" in the Shou language. and titled the Great Cat and the Most Feline Master, was an ancient greater spirit in Kara-Tur. He was the at-times unwilling patron of the notorious Black Leopard Cult.
+
+Personality
+The Black Leopard was neither good nor evil, but rather chaotic, unaligned, and free. He was highly intelligent and wise, and favored strength. While he did not care much for mortals, and interfered in their affairs less and less, he occasionally took interest in the cults and secret societies that bore his name and venerated him, and gave them assistance when he had the whim. However, if they misused his name or conducted evil deeds in his old temples, then he would be stirred to action. As a greater spirit, he was still accorded much respect, as well as fear.
+
+Description
+He generally appeared in one of two forms. The first was as a big black leopard. The other was as a man of large size and muscular build, bearing the head of a black leopard.
+
+Abilities
+All who beheld the Black Leopard were struck with awe, unless they had experience of beings of power.
+
+The Black Leopard could shape change into the form of any feline—cats, big cats, and cat-like creatures—and grow to giant size at will. He could also teleport flawlessly thrice a day. Moreover, he cast divine spells as a shukenja would.
+
+According to the cult, the Black Leopard and his faithful are both eternal and immortal.
+
+Tactics
+He fought as a leopard, with his claws and fangs.
+
+Relationships
+The Black Leopard was served by the bauh-yin, who resembled men with the heads of leopards. In life, they were the most devoted followers of the Black Leopard, whether in the cult, society, or elsewhere, and after death became his minions, serving as his scouts and agents.
+
+The Black Leopard was not officially a part of the Celestial Bureaucracy that managed the Celestial Empire.
+
+History
+Long before the Celestial Empire, in ancient times, Bauhei was said to have ruled the lands along the Fenghsintzu River. His reign was based on power and strength, as befitting the violent past, yet it was also marked by wisdom.
+
+However, in time, with the ascendancy of the Celestial Empire and the Nine Immortals, Bauhei's power waned. According to the cult history, the Black Leopard advised the Nine Immortals during the time when they reigned as emperors over Kara-Tur, during the Second Age of Shou Lung (from Shou Year −637 (−1887 DR).
+
+At last, however, the Black Leopard was even imprisoned by the priests of his own cult, who'd grown corrupt on the power he'd bestowed on them. They used the legendary Ivory Chain of Pao—stolen from the Nine Immortals by an unknown thief—to trap and bind him. In this state, he was known as a great demon panther and he was worshiped as Hei Te Pao. Under their villainous high priest Nan Kung Chi, the cult terrorized the once-peaceful lands of the Fenghsintzu River, extorting treasure and rice from officials, kidnapping innocents for sacrifice, and cruelly slaying all who stood up to them. The earliest written record of the Black Leopard Cult dates from this time, Shou Year −120 (−1370 DR), recording that temples to him stood along the Fenghsintzu River, with the major one at Durkon.
+
+Then, in the seventh year of his reign, in Shou Year −120, Emperor Tan Chin of Shou Lung heard rumors of the Black Leopard Cult's crimes and decided to destroy the cult. First, he sent seven parties of heroes, one after the other, but none came back alive. But he did learn that the high priest was a mighty wu jen, and unassailable in his lair, and decided he must do it himself. First, he read in the libraries of Kuo Meilan the legend of the demon panther trapped by the ivory chain. Accompanied by his friend, the poet wu jen Kar Wuan, Tan Chin went in secrecy to the main temple in Durkon. But Nan Kung Chi saw them with his magic and surprised them, and summoned the Black Leopard to kill the blood brothers. However, guided by Kar Wuan, Tan Chin cut the Ivory Chain with a sweep of his spear, Shan Tien, and managed to free the Black Leopard, who quickly seized Nan Kung Chi and dragged him screaming into the night. The Second High Priest and the surviving cultists escaped out to sea, but their power was ended (but it would see resurgences). Though the defeat of his cult caused him to lose yet more power, the Black Leopard was pleased as those who'd misused his power had been destroyed.
+
+In Shou Year 710 (−540 DR), in Tabot, a miracle was reported when seven lamas from Zotung Keep discovered a man frozen in ice at Mesku Peak. They defrosted the ice, but the man himself melted away, leaving a male leopard cub, alive and well. Thereafter, they raised the cub to adulthood, when it was as large as a horse. One day, it talked, and requested to be set free. Although surprised, the lamas opened the gates, and the leopard returned to Mesku Peak. Thereafter, the new abbot of the Zotung monastery could get the leopard's advice on decisions, and since then, many lamas dreamt of a great leopard that gave them guidance on the way to seek enlightenment.While this incident is not explicitly connected to the Black Leopard, it may be inferred from the mention of Black Leopard myths in Tabot.
+
+In Shou Year 2608 (1358 DR), the Black Leopard believed the Dragon Claw was becoming too powerful and tyrannical and so had to be deposed. Thus, he sent a bauh-yin, one of his leopard-headed servants, to guide the adventuring party hired by Ko Ho San in recognition of their effort to protect one of his worshipers in the Black Leopard Society in T'u Lung. If they did not attack it, the silent bauh-yin led the adventurers around the ruins of Balanzia to where they would find a single link of the Ivory Chain of Pao, which would aid them in their battle against the Dragon Claw. Touching it granted one of the adventurers a vision of the link's history and of the Black Leopard's liberation from the chain.
+
+Worshipers
+The Black Leopard was an old spirit who was commonly worshiped in Kara-Tur's distant past. His faith was originally the most powerful of the many wild pagan cults of the lands of T'u Lung, and its crushing marked the cementing of Shou power in this land. However, in modern Kara-Tur, he was not much more than an old folk tale, and often viewed unfavorably because of the deeds of his priests. The faith survived in certain parts of the continent, however.
+
+In particular, the last priest of the original Black Leopard Cult survived and reestablished it on Akari Island, but the Black Leopard did not blame those who finally slew him, instead thinking he got what he deserved.
+
+Legends of the Black Leopard were remembered in Fengnao Province of T'u Lung, particularly around Durkon. The common folk living along the Fenghsintzu River bordering the province recalled the Black Leopard as a champion of oppressed peoples who stands up against the powerful. The faith in T'u Lung also lived on in the form of the Black Leopard Society, a secret society.
+
+Meanwhile, the traditional faiths of southern Tabot knew the Great Cat as a power of law and vengeance, and some legends of the Black Leopard were remembered there.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Bloodring worm
+
+Bloodring worms were small parasites found in Zakhara, the Land of Fate.
+
+Description
+These small worms had metallic skin and four red eyes that looked like small gems.
+
+Ecology
+Bloodring worms curled their bodies into a circle, appearing just like a jeweled ring, and waited for a victim to put them around their finger. Once attached, bloodring worms feed off the blood of their host, using most of this energy to fuel their natural magic resistance. When well-fed they could grow up to one inch (2.5 cm) per week and reach a length of one foot (30 cm).
+
+Appendix
+References
+
+Connections
+
+---
+
+## Bliss
+
+Bliss was a divine magic spell available to priests of Lliira, the Joybringer. It caused one creature to fall into a trance of intense joy, ignoring other beings or dangerous situations and feeling no pain.
+
+Effects
+This spell could be cast at any creature that could be targeted within 45 ft (14 m) of the caster (more experienced casters could extend this range). The subject had a chance to resist the magic of this spell and, if successful, the spell fizzled and they remained unaffected. If the target failed to resist, they became dazed, dropped items in their hands, strolled around without purpose, and smiled with happiness for the next four minutes. This trance was so intense that the subject felt no pain while in this state, did not react to personal danger, could not be persuaded to perform any task, and could not be mentally influenced by charm spells, hypnosis, or psionics.
+
+As a side effect of being under the influence of this spell, the subject was rendered immune to bliss for the next day or two. Those with stronger constitutions got more hours of immunity than those less sturdy.
+
+Components
+Only a somatic component was required to cast this spell.
+
+Realmslore
+When specialty priests of Lliira reached sufficient level, they were granted the ability to cast this spell once a day.
+
+Appendix
+References
+
+---
+
+## Blue Kumi Bandits
+
+The Blue Kumi Bandits were a group of bandits who plagued the Fochu Peninsula around 1358 DR.
+
+They were originally a group of disaffected bushi of the city of Fochu. Without work, they turned to banditry, using a distinctive blue kumi (braid) dangling down their backs.
+
+At last, they were defeated by the combined efforts of the heroine Oe-Ura and of Osari Minhiro and his foreign adventuring party.
+
+Appendix
+
+References
+
+---
+
+## Bloodaxe Mercenary Company
+
+Bloodaxe Mercenary Company was a mercenary company based in Sundabar.
+
+Organization
+The Bloodaxe were very skilled and versatile, they adapted their tactics depending of the kind of job they would do. They accepted any kind of job, but preferred ones that involved killing humanoid. They charged 10 gold pieces per day for their services.
+
+History
+The Bloodaxe were founded by the dwarf adventurer Deldagg Huldgrym gathering many dwarves outcasts from Adbarrim around 1317 DR. Many of these initial members were criminals and blasphemers against Moradin. The vast majority of these dwarves died in various battles thought to be unwinnable against bandits, orcs (led by Eldoul), and overland raiders from Luskan. This led to human troops joining the ranks, mostly recruited from the Sword Coast (notably Baldur's Gate), the North, the Vilhon Reach, and Westgate.
+
+After the death of Deldagg in 1331 DR, his second in command, the human fighter Velkor Minairr, was chosen as new leader, and maintained that capacity through the mid–14 century DR.
+
+The Bloodaxes remained a noteworthy mercenary company in the North through the late 15 century DR. By this time, they were no longer a predominantly dwarven group, but comprised outcasts and exiles of many species seeking to forge a new life with the group.
+
+Appendix
+References
+
+---
+
+## Blackwash Fens
+
+The Blackwash Fens was a boggy lowland area found along the coast of the Great Sea in the far northern reaches of Zakhara in 1367 DR.
+
+Geography
+The fens were located in the Sun's Eye province of the Yikarian Empire on the banks of the River Ruin at the edge of Pearl Bay near the city of Lipo. The fens were created by the heavy rainfall the region experienced. The depth of the fens was determined by both the tides of the Great Sea and the current state of the River Ruin.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Blinnet
+
+Blinnet was a deep gnome in Silverymoon.
+
+History
+In 1379 DR, she welcomed Q'arlynd Melarn into the deep gnomes' quarter of Silverymoon and took him to the shop of his friend Flinderspeld.
+
+Appendix
+
+Appearances
+Novels
+ Ascendancy of the Last
+
+References
+
+stub
+
+---
+
+## Blackscale
+
+The Blackscales were a tribe and subrace of lizardfolk dwelling in the Vast Swamp of Cormyr.In Monster Manual III (v.3.5), the blackscale (in lower case) is a subrace of the lizardfolk, and thus might have tribes of their own. However, Cormyr: The Tearing of the Weave presents Blackscales (upper case) as a tribe of lizardfolk. Thus, it appears the Blackscales are a tribe of blackscales and the blackscale subrace might only exist in the Vast Swamp. This article assumes a single tribe.
+
+Description
+A blackscale was a humanoid reptilian, resembling other lizardfolk but much larger, standing 8.5–9.5 feet (2.6–2.9 meters) tall and weighing around 600 pounds (270 kilograms), about the size of an ogre. It had stocky and thickly muscled build and its scales were black, and its tail was 4–5 feet (1.2–1.5 meters). Its sunken eyes and flat nostrils gave it a skull-like appearance, and a leathery crest ran from the top of its head to halfway down its back. It had claws and fangs like regular lizardfolk.
+
+Abilities
+Blackscales were much like ordinary lizardfolk but larger and stronger, possessing a tougher scaly hide that protected against blows, an ability to hold their breath for long periods of time, and the same skill in swimming, leaping, and balancing. However, they also had darkvision and a resistance to acid.
+
+Personality
+Blackscales were proud and ferocious warriors, focused on performing mighty deeds and gaining glory. They were highly dangerous when provoked, and weren't even as smart as other lizardfolk. Their crests rose when aroused to aggression.
+
+Combat
+Blackscales had no patience for cunning ploys and setting traps, thinking these were the tools of smaller, weaker lizardfolk. They preferred to just hit hard. In a battle, they fought without order or discipline, though their chiefs could focus them to work together, but briefly. They roared challenges at opponents before engaging. They typically fought with greatclubs and javelins.
+
+Society
+The Blackscale tribe was somewhat smaller than a typical lizardfolk tribe, numbering around 20 to 40 members, but was organized much the same.
+
+Many blackscales were barbarians. The priests were in fact adepts who commanded the Protection and Sun domains of priestly magic.
+
+The Blackscales spoke Draconic, while the smarter ones knew the Common tongue.
+
+History
+The Blackscales told that they carried the blood of black dragons, as evidenced by their dark-hued scales, resistance to acid, and skull-like facial features. There was little to corroborate this however.A connection to black dragons is only mentioned in the "Blackscale Lizardfolk in Eberron" section in Monster Manual III, and this does not apply to the Forgotten Realms campaign setting. However, the various features of the blackscale subrace still strongly imply such a connection, suggesting it applies to blackscales in other campaign settings. Thus it is assumed here.
+
+In the Year of Lightning Storms, 1374 DR, the Blackscales were one of the Vast Swamp tribes attacked by the Shadowscales. At least two of their number were taken captive and dragged to the Lost Refuge, including Kossaandar, and then into the Plane of Shadow, ultimately becoming shadowslain themselves. One was kept as a guard at the Shadow Citadel, and Kossaander became the devoted follower of Ketsarra Shadowscale.
+
+The remaining Blackscales allied with other victims of the war, the Sharptooth and Poison Dusk lizardfolk tribes, under the Sharptooth chief Kessessek. In early Eleint of 1374 DR, a war-party of Sharptooth, Blackscale, and Poison Dusk lizardfolk ventured into Shadowscale territory and laid an ambush at the Skull Staff in efforts to kill their enemies or capture "dream walkers", the mentally dominated victims of the Shadowscales' Sharran allies. In fact, the next group to pass that way were actually adventurers in service to Mystra investigating the Sharrans' activities. This unfortunate misunderstanding was eventually resolved in parlay with Kessessek.
+
+Notable Blackscales
+ Kossaandar
+
+Appendix
+Notes
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Black talon
+
+Black talon was a divine magic spell available to priests of Cyric, the Prince of Madness. It turned the caster's arm into a claw-tipped, stretchable appendage for a short time.
+
+Effects
+This spell lasted for at least three minutes, with more experienced casters able to add more minutes to the duration. When cast, one of the caster's arms became stretchable out to a distance of 10 ft (3 m) and the hand became a talon with sharp nails. The caster could extend or retract this appendage at will to attack a foe. The talon could do a small amount of both physical damage and magical cold damage on a successful attack. A victim had a chance to resist the cold portion and took only half the damage if successful. Undead creatures were immune to the chilling damage.
+
+While this spell was in effect, the caster was unable to cast any spell that required a somatic component.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blessing of Vhaeraun
+
+Blessing of Vhaeraun was a spell used by priests of Vhaeraun, the drow god of thievery, to augment their abilities.
+
+Effects
+The caster's abilities were temporarily augmented, but only for a very short time and only for one use. This one use could be expended to increase the accuracy of a physical attack or the abilities as a thief of the caster or another person touched with the spell.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+Appendix
+References
+
+---
+
+## Blood Above, Blood Below
+
+Blood Above, Blood Below is an Epic Adventures module set in the Forgotten Realms using the Dungeons & Dragons 5 edition ruleset. It was designed to be played by three different parties of adventurers at the same time, each with their own objectives but with the success of all of them together determining the final outcome.
+
+It is part of the Rage of Demons series of adventures published for the D&D Adventurers League. It focuses on Hillsfar, Maerimydra and Szith Morcane, and is an adventure designed for three to seven 1- to 16-level characters. This module debuted at GenCon2015.
+
+Summary
+As two mass combats play out at the same time, a trio of powerful incubi, called the Crimson Trinity attempt to channel the souls of those who die to their master, Graz'zt, in the hopes of giving him enough power to begin a conquest of Toril. Drow refugees from Szith Morcane have warned the Emerald Enclave, Harpers, Lords' Alliance, Order of the Gauntlet and Zhentarim of the plot, and each faction together sends hundreds of their most able agents in secret to foil it.
+
+Index
+Characters
+Arias Goldthorn • Dargol Rend • Dragomira Var • Fayd Uldrane • Fluuz Agruub • Gheriot • Guldocht • Hledh Hellspawn • Kaele Icaryd • Kel Morcane • Myrkthrasir • Oromoth • Solom Ned'razak • Tonorok • Urek Coldwater • Vheloch • Ygrmog • Zor Mirko
+
+Alisannara Morcane • Graz'zt • Maalthir • Torin Nomerthal
+Creatures
+Barlgura • Cloaker • Darkmantle • Dretch • Drow • Elf • Eye of flame • Fire giant • Flameskull • Giant scorpion • Giant spider • Gorgon • Half-orc • Hell hound • Helmed horror • Human • Incubus • Minotaur • Pegasus • Quasit • Skeleton • Violet fungus • Vrock • Wight
+Locations
+Region Moonsea
+Settlements Hillsfar • Maerimydra • Szith Morcane
+
+Abyss • Azzagrat • Cormanthor • Daggerdale • Melvaunt • Mulmaster • Phlan • Sporedome • Stojanow River • Thentia • Zelatar
+Magic
+Items Belt of fire giant strength • Ioun stone
+Potions Potion of healing
+Spells Animate dead • Bestow curse • Blade ward • Blur • Burning hands • Charm person • Cloud of daggers • Cloudkill • Command • Crown of madness • Cure wounds • Dancing lights • Darkness • Disguise self • Dispel magic • Divination • Draining kiss • Eldritch blast • Elemental bane • Entangle • Etherealness • Expeditious retreat • Faerie fire • Fire bolt • Fireball • Flaming sphere • Fly • Fog cloud • Friends • Greater restoration • Gust of wind • Hellish rebuke • Hex • Hold person • Hunger of Hadar • Identify • Inflict wounds • Invisibility • Legend lore • Lesser restoration • Levitate • Light • Mage armor • Mage hand • Magic circle • Magic missile • Mass healing word • Mirror image • Phantasmal force • Prayer of healing • Prestidigitation • Protection • Protection from evil and good • Raise dead • Remove curse • Revivify • Sacred flame • Shatter • Shield • Shield of faith • Shocking grasp • Slow • Speak with dead • Spider climb • Spiritual weapon • Stoneskin • Thaumaturgy • True strike • Vampiric touch • Witch bolt
+Organizations
+Player Factions  Emerald Enclave • Harpers • Lords' Alliance • Order of the Gauntlet • Zhentarim
+Others
+
+Brotherhood of the Cloak • Red Plumes
+Religion
+
+Bane • Lloth • Talos • Tempus
+Miscellaneous
+Vehicles
+
+Credits
+ D&D Organized Play: Chris Tulach
+ D&D Adventurers League Wizards Team: Chris Lindsay, Adam Lee, Chris Tulach
+ D&D Adventurers League Administrator(s): Claire Hoffman, Robert Adducci, Bill Benham, Travis Woodall, Greg Marks, Alan Patrick
+Appendix
+External links
+
+ Rage of Demons Adventurer's League
+References
+
+Connections
+
+---
+
+## Blakkal Mord
+
+Blakkal Mord was a leather-worker and council member who lived in High Dale during the mid-14 century DR.
+
+History
+Mord was a very able warrior in High Dale and a secret agent of the Cult of the Dragon. When in 1358 DR a secret Zhent occupation army occupied the dale, Blakkal was a member of the Council of the High Dale. He hated all outsiders. Constable Heladar Longspear believed him a sinister individual.
+
+Appendix
+
+Appearances
+Shadows of Doom
+References
+
+---
+
+## Blade (wood elf)
+
+Blade was a wood elf fighter and assassin who ultimately abandoned his party of evildoers.
+
+Description
+Long, brown hair framed Blade's stern face, which was adorned with green eyes, full lips, and a prominent nose.
+
+Personality
+Blade was not a gentle man, but he also found the company of evil tiresome.
+
+Possessions
+His extensive equipment included thieves' tools, a dagger made from rib bone and obsidian, caltrops, a pair of bracers of defense, a ring of protection, as well as a cloak of protection.
+
+History
+Blade started out as a fighter, but was taught the art of assassination by his brother, who was an expert poisoner. Blade followed in his brother's footsteps for a while, working as an assassin, but eventually grew tired of his evil compatriots and abandoned them.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blackhold
+
+Blackhold was a trademoot located in a cavern of the nation of Fimbrul, on Laerakond. It was inhabited only by humanoids.
+
+Background
+The population of Blackhold was not fixed, waning and waxing with the passage of travelers and adventurers exploring the Howling Mountains. Blackhold was rarely attacked by dragons, giants or other monsters, and thus was considered neutral territory.
+
+Economy
+Adventurers and travelers used Blackhold to get supplies, to rest during their travels, or to recruit new companions. The few permanent residents traded with them and with the dwarves of the nearby settlement of Forgefires.
+
+Architecture
+Blackhold was made originally by dwarves, inside of a cavern near the surface of the Howling Mountains. Its dwellings were chains of narrow-linked side chambers cut into the walls of the cavern. The main area was dominated by beast pens, rocks that served as a podium, and by a pool referred to as the Drinkwater Pool.
+
+Notable inhabitants
+ Iskh Lammarask, a mother-like figure in Blackhold and owner of the only "inn", Iskh's Rest.
+ Bleys Orltusk, owner of the Crossed Blades shop.
+ The Cloaked, the only known resident wizard of Blackhold.
+
+Appendix
+References
+
+---
+
+## Bleys Orltusk
+
+Bleys Orltusk, also known as The Blade or as Old Tusk, was a dwarf shopkeeper in Blackhold, Fimbrul.
+
+Appareance
+Bleys had lost one of his eyes.
+
+Activities
+As of 1479 DR, Bleys managed the Crossed Blades shop.
+
+History
+Many rumors abounded about Bleys colorful heritage and his presumed evil deeds.
+
+Appendix
+References
+
+---
+
+## Blue ice
+
+Blue ice was a mysterious magical substance found in the Yellow Sea of Kara-Tur. Blue ice was so cold it burned flesh, yet it sizzled and smoked when immersed in water.
+
+Appendix
+Notes
+It is unknown what blue ice could be. A magical substance called blue ice is presented in Frostburn, but it has different properties. It is unknown if this blue ice exists in the Forgotten Realms setting.
+
+References
+
+---
+
+## Blue slaad
+
+Blue slaadi, also known as talon slaads, were members of the slaad race and rivals to the interrelated red slaadi. The batrachian bullies were generally superior to them in every way, but only barely so, and were still considered to be of low status.
+
+Description
+Blue slaadi were  bipeds that weighed approximately, resembling roughly humanoid toads with light, electric blue skin marked by grey streaks. Despite being bigger, broader and stronger than their red slaadi counterparts they were also more limber and had longer snouts. As opposed to the larger hands of the red slaadi, blue slaadi had two long, scimitar-like hooks of bone protruding from the back of both of their hands. Otherwise, they were typically identical in bodily structure, complexion and dress to the red slaadi.
+
+Personality
+
+Blue slaads were only marginally more intelligent than red slaads and shared their other behaviors, namely their poor tempers. Strength was the only trait they valued and they constantly sought to prove their own.
+
+Abilities
+Blue slaadi were stronger than their already physically powerful red counterparts, fighting with their claws and hooks and rending flesh with their fangs, although they had the added advantage of being able to, if only rarely, inflict a rotting disease like that of a mummy's through their bite. They were also reported to posses some spell-like abilities, namely hold person, passwall and telekinesis. Their slaad summoning powers allowed them to call upon other blue slaads, although it was said that they were also able to summon green slaads and on exceedingly rare occasions, red slaads.
+
+In terms of psionic powers, blue slaadi exhibited only the defensive powers of mind blank and thought shield.In Monster Manual II, the Psionic Attack/Defense modes for blue slaadi are listed as "Nil/F,G". According to the 1st edition Players Handbook, page 110, these letters correlate to mind blank and thought shield respectively.
+
+Combat
+
+The fighting style of the blue slaadi allowed them to attack with both their actual claws and their bone protrusions. They specialized in fighting en masse and were usually found in groups, being able to coordinate effectively by the low standards of the red slaadi. At the same time, they weren't exactly tactically superior, typically just wading into combat with tooth and claw throwing enemies overhead and furiously slashing at anything close enough. As a result of their surly nature, need to prove their physical superiority they had a tendency to attack most other creatures on sight.
+
+Society
+Blue slaadi were the errand runners used to accomplish various missions and the soldiers gathered to wage war on behalf of more powerful slaadi, both against other civilizations and rival slaad societies. When blue slaads were together they could be in groups as small as a pair or as large as a dozen, but despite their maximum pack size being smaller than the red slaads, they were still more likely to be found in gatherings of their own free will since red slaads preferred to be alone. Only in the gravest situations would blue slaads assist red slaads.
+
+Ecology
+Despite passionately hating each other, blue slaads and red slaads were irrevocably tied together by their reproductive cycles, instinctually driven to produce offspring that, unfortunately for them, were slaad of the rival color. Blue slaads spawned red slaads and vice versa, but after conception the spawn was raised by the opposing variety.
+
+Biology
+By striking humanoid victims with their bony hooks, although some said they used their bite, blue slaadi could afflict them with a disease known as chaos phage or slaad fever, similar in effect to lycanthropy. It lasted somewhere between a few days and three months and if left untreated, the disease would slowly drain not only the victim's vitality and mobility but their personality. At the end of the process, they would quickly be transformed into a full-grown red slaad, or green slaad if the victim had been a capable arcane spellcaster or possibly just an otherwise skilled or powerful being, with no memories or abilities from their former lives. Blue slaads, conversely, were born as a result of red slaadi injecting humanoids with egg-pellets that hatched into slaad tadpoles before eating their way out of their host, feeding on carrion and other bits of meat until growing to maturity some time later.
+
+Only a wish spell could return a transformed victim to normal after the process was complete  and the disease simply killed non-humanoids, but before then the process could be stopped using spells that cured disease or greatly restored vitality, and the infection could be found using a detect evil spell. Because of this, slaadi often kidnapped victims, bringing them to or creating prison camps to keep them in until they had fully transformed.
+
+Spawning Stone
+During the blue slaadi breeding season, they almost inaudibly scratched the area around the Spawning Stone.
+
+Subraces
+
+Digesters were a variant of ordinary blue slaadi that had their own philosophy for spreading chaos throughout the multiverse. Believing that reality was truly chaotic under the surface, they sought to devour as much of it as they could in order to unveil its hidden nature. They grabbed as much prey as they could, their skin being covered in sticky secretions, before spraying them with predigestive acid and devouring them and using their tongues to trip up anyone that tried to escape.
+
+Notable Blue Slaadi
+ Gamp Laa'ren, a blue slaad born from a deformed egg who, despite the break in his right leg, tenaciously survived in the lower planes and took over a crew of over 300 blue and red slaadi. He and his group served as mercenaries and guides for those making their way through Limbo, Pandemonium and the Abyss, although his prices were as wildly variable as his mood.
+
+ Xanxost, an interplanar researcher and writer whose bizarre writing style was marked by his tendency to go off on random tangents, become distracted by thought of food and seeming inability to count.
+
+Appendix
+Notes
+
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Bloodforge
+
+A bloodforge was a mystical and mysterious artifact found in numbers in the Utter East. From raw magic, the bloodforge was able to create living golems and thus manufacture great armies with which powerful mages did battle. The bloodforge dominated warfare and society in the Five Kingdoms of the Utter East.
+
+Description
+A bloodforge took the form of a large and heavy square slab with beveled sides and rounded edges. The entire surface glowed and shimmered with waves of magic, all in blue or red or some other color (with different hues to better distinguish factions in a battle). A bloodforge could not be damaged by any mundane means.
+
+Powers
+
+The bloodforge was both fueled by and a generator of a form of raw magic called "mana" by those of faith. Owing to its own magical nature, the bloodforge slowly generated mana and could store a large amount of it collected from other sources (though this had a maximum limit). With the power of a bloodforge, a mage could turn a portion of this mana into a kind of living golem called a basal golem, utterly loyal to the bloodforge's owner.
+
+More mana could be generated in various ways. Most commonly, a basal golem that sat idle meditated in the form of an obelisk and gathered mana, which it then transferred to the bloodforge.
+
+A friendly basal golem standing upon the bloodforge would be strengthened, but an enemy who did so would be harmed.
+
+A golem transformed into a higher-level creature could be reverted back to its basal golem form when beside the bloodforge of its master.
+
+Somehow, however, every use of a bloodforge steadily weakened ancient prisons binding fiends and undead beneath the Utter East.
+
+Operation
+
+To command a bloodforge, one had to be a mage and to have mastered the use of the artifact.The requirements for using a bloodforge are not specified, but game documentation commonly refers to "mages" and the majority of game opponents are described as mages. It is not clear what kind of mage one must be however. This wiki will refer to "bloodforge mages", but this does not necessarily indicate a traditional mage.
+
+A bloodforge had to be transported and placed on a suitable terrain that was clear and flat and met certain requirements. There were typically only a few appropriate sites in a landscape where a bloodforge could be located, but these were usually somewhere on the outskirts of a soon-to-be battlefield. The bloodforge was then fixed into the earth.
+
+Rather than stand on the battlefield, the mage who mastered a bloodforge took a place high above it, so they could survey the whole land (at least as far as they'd explored) and the disposition of their forces. They issued commands to their army via a marble "oracle" (created by the Great Mage).
+
+Reputation
+The bloodforge was naturally the core apparatus of a leader during the Bloodforge Wars.
+
+The Great Mage taught a number of principles of warfare related to the function and philosophy of the bloodforge and its use in battle. His adherents labeled the bloodforge "the mother of battle", a thing pregnant with magic that gave life to armies, with basal golems "the children of battle" who would serve without question or doubt. They saw mana as a kind of food that fed their war effort. They saw themselves as masters of battle who would achieve greatness through conflict.
+
+History
+It was believed that the gods themselves created the bloodforges.It is unknown which gods, but Blood & Magic has temples of Chauntea, Lathander, Mystra, Myrkul, and Tempus erected on mystical sites and their symbols on the Well of Immortals at the Hall of Legends. While it is likely that Ffolk colonists associated their gods with existing artifacts, the gods of life, rebirth, magic, death, and war are well suited to what the bloodforges do and cause. They were known to be ancient engines of war.
+
+The bloodforges were discovered in the Year of the Dancing Daggers, 648 DR, first by King Grewe of Konigheim and within tendays by Ffolk across all the Five Kingdoms. Being able to mass-produce entire armies of golems, they eliminated overnight the cost of mustering and maintaining armed forces. Losing all restraint, turning war-mad, the Ffolk rulers of the Five Kingdoms each manufactured great golem armies and marched them against one another, bursting into the Bloodforge Wars. A number of conflicts large and small raged back and forth across the Utter East, with all sides commanding bloodforges and basal golem armies. Their kingdoms throve on the arcane magic of the bloodforges and were governed by military might.
+
+Late in the Bloodforge Wars, the master inventor and mage Eldura Moreen worked within the Hall of Wonder to study a bloodforge and unveil the secret of its operation. However, the leader of the Legendary Campaign, who aimed to unify the Utter East through conquest, attempted to put an end to Eldura's research through bloodforge battle, feeling the gods' creation should remain a secret.
+
+Eventually, this rampant use of bloodforges weakened the ancient prisons beneath the Utter East. Finally, in the Year of the Nine Stars, 657 DR, the horde of antediluvian horrors escaped and rampaged across the ruins of the land, killing without regard for kingdom or race. This was the Plague of Fiends. Grand Caliph Arash bint Sanjar of Zakhara sent an armada to the Utter East in early Mirtul of 657 DR. They launched a surprise attack on the Five Kingdoms, razing every village and slaying all they encountered, whether fiend or undead or human, in the Scouring of the Utter East. The Grand Caliph saw the land as infected and ravaged. Their bloody work done by the time autumn fell, they departed, leaving behind a wasteland of burned and ruined cities and slaughtered peoples.
+
+Notable Owners
+See: :Category:Bloodforge mages
+
+Appendix
+See Also
+ Mana Forge
+
+Notes
+
+Appearances
+Novels
+Double Diamond Triangle Saga
+Video Games
+Blood & Magic
+
+Further Reading
+ Faces of Deception
+ Double Diamond Triangle Saga
+
+Gallery
+
+References
+
+---
+
+## Blasingdell
+
+Blasingdell, was a small village located northwest of Mirabar. It was the closest settlement to the secret dwarven stronghold of Khundrukar.
+
+Geography
+Blasingdell was situated thirty miles south of the mountain known as the Stone Tooth, a peak of the southern Spine of the World range.
+
+Defenses
+Blasingdell had a town watch of four men-at-arms. Their leader was a half-orc named Sergeant Grendar Kuln; he was assisted by Constable Dara Whitewood; under them were two full-time guardsmen. In times of strife, these four would supplement their numbers with a militia of up to a hundred local men and women.
+
+Notable Locations
+Shops & Businesses Tolm's Superior Outfitting and Dry Goods run by a male dwarf named Kheldegan Tolm.
+Inns/Taverns Griffon's Nest Inn and Tavern run by a female half-elf named Sarel Bankdown.
+Temples A small town temple that a human priest named Sister Alonsa looks after, assisted by two acolytes.
+
+Appendix
+References
+
+---
+
+## Bloenin
+
+Bloenin was a high cleric of Gond in Lantan in 1357 DR.
+
+Activities
+Bloenin as lantar was the envoy of the ruling Ayrorch council to other nations.
+
+Personality
+Bloenin loved observing the interactions between human systems like governments, economics, and politics. However, he was reserved and somehow alien in his dealings with other people.
+
+Appendix
+
+References
+
+---
+
+## Blood Moon
+
+The Blood Moon tribe was a tribe of orcs dwelling in the Vast Swamp of Cormyr.
+
+Base of Operations
+The Blood Moon tribe had territory on the west side of the Vast Swamp.
+
+Relationships
+Around 1367 DR, Blood Moon territory was bordered in the west by the Sharp-tooth lizardfolks and by the Kyara hobgoblins and Scimitar goblins in the north.
+
+History
+The Blood Moon tribe was known to live in the Vast Swamp around 1367 DR.
+
+Appendix
+References
+
+---
+
+## Blacker Crow
+
+Blacker Crow was a human warrior known for his eye-catching black and red attire.
+
+Description
+Over his chain mail, Blacker wore a black and red-trimmed cloak. He wore red gloves, and a wide-brimmed cavalier hat adorned with a red feather.
+
+Possessions
+Blacker's chainmail was of the heavily enchanted variety, and so was his longsword.
+
+Activities
+Blacker struggled to stand out from other adventurers, eventually causing him to adopt his signature style of fashion. This helped keep him memorable and attracted multiple copy dressers, to the point that he would sometimes get credit for deeds he had no part in.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blackstone rune
+
+A blackstone rune was a magical token used by shadow fey to transit between the Material Plane and the Plane of Shadow.
+
+Description
+It was a small glossy stone bearing a complex sigil.
+
+Crafting
+A blackstone rune was carved by a spellcaster who knew the plane shift spell and the art of crafting wondrous items.
+
+Powers
+The token allowed its bearer to travel from the Material Plane to the Plane of Shadow, or the reverse, as with a plane shift spell. They could take only 50 pounds (22.7 kilograms) of possessions with them. It functioned only three times.
+
+Users
+Shadar-kai weakened by their shadow curse used blackstone runes to take respite in the Plane of Shadow.
+
+Appendix
+References
+
+---
+
+## Blade of the elements
+
+The blade of the elements was a magical katana from Kara-Tur that may have appeared in Faerûn in the mid–14 century DR.
+
+History
+Lord Sunang of Kara-Tur was forced to make alliances and purchase magical weapons like the blade of the elements when his lands were besieged by the forces of a mighty wu-jen. However, this strategy proved very costly: Sunang was near-bankrupted and his influence waned, while his enemy continued to grow in power. Ultimately, Sunang's realm collapsed from its own weaknesses, not to conquest. It was supposed that the profit-hungry merchants supplied arms to both sides, but proof was lost to history.
+
+The blade of the elements may have turned up in the Sword Coast North in 1372 DR.
+
+Description
+The katana was observed to have a guard, with either a tassel hanging from the guard or a brown cloth wrapped around the lower half of the blade.
+
+Powers
+A blade of the elements was a +3 katana that could slay an elemental on impact.
+
+Appendix
+References
+
+External links
+
+---
+
+## Black Pits
+
+The Black Pits was a famous Underdark fighting pit in the 1300s DR, operated by the powerful drow sorcerer Baeloth Barrityl.
+
+Location
+The Black Pits was located on an island somewhere in the Underdark. It was used to pit adventurers against monsters and other adventuring groups. When the contestants had won fifteen battles, they would fight the pit master themselves.
+
+History
+
+The structure was originally dug out by duergar. When Baeloth Barrityl seized control of the area, he enslaved the original builders and established the Black Pits as a fighting pit. When Baeloth was slain by the Champion of Baeloth's Pits, the duergar reclaimed the area.
+
+Appendix
+Appearances
+Video games
+Baldur's Gate: The Black Pits
+
+Baldur's Gate II: The Black Pits II – Gladiators of Thay
+References
+
+---
+
+## Bludwite Sharp-pick
+
+Bludwite Sharp-pick was a wealthy dwarven nobleman of Almorel in the Hordelands in 1357 DR.
+
+Activities
+Bludwite owned a large estate called the Fief of the Lesser Lord that was found nearly in the center of Almorel.
+
+Appendix
+References
+
+---
+
+## Bluefang Water
+
+Bluefang Water was a large lake found in northeastern Impiltur.
+
+Geography
+The lake sat downstream where the River Icehilt joined the Great Imphras River just northwest of the Herald's Road. Bluefang Water, along with sister lake Old Water further downstream, were collectively referred to as Traders Bay.
+
+Notable Locations
+ Abbey of Grimjaws
+ Bay Town
+
+Appendix
+References
+
+---
+
+## Bloodsword
+
+Bloodsword was the name given by the people of the city-state of Ormpur, on the edge of Lapaliiya in southwest Faerûn, to the day of Kythorn 12 in the Year of Thunder, 1306 DR. On this day, a princess murdered her father, usurped the throne, burned a temple, and triggered a holy war.
+
+Events
+On this day, Chansreena (princess) Maerildarraine murdered her own foster father, High Suikh (king) Askulder, the Hand of Tiamat. She seized the throne and declared herself Queen of Ormpur, then led her loyal knights to plunder and burn the temple of Tiamat, but the flames spread through the city. This outrageous act triggered a holy war, and by the end of the day, hundreds lay dead.
+
+At Torch Court at the end of this dark day, the jester Jeremmer Hardree alone dared quip to the still wounded and enraged Queen Maerildarraine, and kept his life.
+
+Appendix
+References
+
+---
+
+## Blackford Road
+
+Blackford Road was a road between Mirabar and Luskan in northwest Faerûn, in use by 1370 DR.
+
+Appendix
+
+References
+
+---
+
+## Blaskarn
+
+The Blaskarn House was wealthy and powerful in Khôltar, south Faerûn, circa the Year of Wild Magic, 1372 DR. They were one of the twenty families that made up the Onsruur—the council of lords that governed the Iron City.
+
+Organization
+Blaskarns were typically large and sturdy, with great physical strength. They were unrefined, aggressive, and warlike, and would have made good soldiers except that their wealth allowed them to indulge their every hedonistic whim. They had a slightly inflated opinion of their standing among the Onsruur families.
+
+Activities
+They were largely invested in local building companies, but they also owned one or more costers and had a piece of the slave trade.
+
+Appendix
+References
+
+---
+
+## Blacklake
+
+Blacklake was a lake found in the city of Neverwinter.
+
+Description
+The lake sat in the middle of a city park, and was large enough to support boating. During summer months, it would shrink and leave behind a smelly and muddy swamp at its edges, which would become overgrown with brambles.
+
+Geography
+The lake was located in the center of the Blacklake District, which was named for it.
+
+History
+Pollution
+In the late 15 century DR, Blacklake became utterly polluted by ash and debris from the eruption of Mount Hotenow in the, as well as by filth and rubbish from the refugees and vagabonds who made their homes in nearby ruined houses. It even contained several destroyed ships. By 1479 DR, the lake looked more like a midden pit, overflowing with a thick, black sludge than a body of water.
+
+That same year, the sludge even developed magical properties and gave rise to sludge-covered zombies in the streets, suggesting it was more than mere pollution, and alchemists like Hazel studied the phenomenon. The cause of this transformation was apparently the corrupting power of Ghaunadaur, a god of abominations and oozes, for a self-proclaimed Chosen of Ghaunadaur later led an attack of sludge zombies on Blacklake District. He was defeated by Hazel and the Hero of the Sleeping Dragon Bridge.
+
+Restoration
+Efforts to dredge and restore the lake and surrounding park had begun in the late 1470s DR, and by the end of the decade this had become one of New Neverwinter's goals.
+
+As of 1489 DR, the lake had been significantly cleaned and cleared, and it was renamed the "Bluelake," although it remains unclear to what extent this name entered into general use.The name "Bluelake" is used on the 5-edition map of Neverwinter in the Sword Coast Adventurer's Guide, page 52, set circa 1489 DR. However, other products, such as the Neverwinter MMO (which is up to date with the current D&D storyline but set circa 1479 DR) and the Orrery of the Wanderer adventure (understood to be set in 1496 DR), still use the name "Blacklake".
+
+Appendix
+Notes
+
+Appearances
+
+Adventures
+Lost Crown of Neverwinter
+Video Games
+
+References
+
+---
+
+## Blacklake Sewers
+
+The Blacklake Sewers were the sewer system beneath the Blacklake District of Neverwinter.
+
+Geography
+Most of the sewer system of Neverwinter was destroyed during the Ruining of 1451 DR, as many buildings collapsed over their foundations, leaving a maze of precarious wreckage and treacherous tunnels. The Blacklake Sewers survived the Ruining mostly unscathed, however. Despite this, much of the Blacklake Sewers were drowned by the waters of Blacklake.
+
+History
+Around 1479 DR, the Dead Rats cell of Neverwinter had taken control of most of the sewer system of the Blacklake District.
+
+Notable Inhabitants
+ Rsolk
+
+Appendix
+Appearances
+Adventures
+Lost Crown of Neverwinter
+Games
+
+External Links
+
+References
+
+---
+
+## Blood link
+
+Blood link was an arcane necromancy spell that allowed the caster to drain the life force from their target on touch. It was used in conjunction with a permanency or permanency prayer spell in the creation of magic items.
+
+Morality
+The act of casting blood link was considered an evil act, and as such, good- and neutral-aligned spellcasters could lose favor with their deity.
+
+Components
+The material components for this spell were a drop of blood, three walnut shell halves and a chain carved from the wood of a zalantar tree.
+
+Appendix
+References
+
+---
+
+## Blackule Lane
+
+The Blackule Lane was a street in the Blacklake District of Neverwinter.
+
+History
+As of 1480 DR, the Blackule Lane was one of the few streets still operational in Neverwinter after the Ruining of 1451 DR.As the material in Ed Greenwood Presents Elminster's Forgotten Realms is intended to be useful regardless of what Dungeons & Dragons edition one may be playing, this implies that Blackule Lane must have survived the destruction of most of Neverwinter during the storyline that took place in 4th-edition.
+
+Notable Locations
+ The Starshine Academy
+
+Appendix
+Notes
+
+References
+
+---
+
+## Black Sword
+
+The Black Sword was a title within the government of Archendale, one of the three anonymous Swords of Archendale. The Black Sword was the most prominent of the Swords, supervising the militia of Archenbridge.
+
+Identity
+In the Year of the Gauntlet, 1369 DR, the Black Sword was Jalia Mossgreen, a grizzled old veteran. When not operating under an anonymous identity, she operated the Old Stonebows Inn. Like all the Swords, she protected her identity with a number of illusion spells and a pair of bracers of misdirection.
+
+Appendix
+References
+
+---
+
+## Blue Sword
+
+The Blue Sword was a title within the government of Archendale, one of the three anonymous Swords of Archendale. The Blue Sword was the battle-mage of the Archenriders.
+
+Identity
+In the Year of the Gauntlet, 1369 DR, the Blue Sword was Alduvar Snowbrand, a veteran mage of the army. In his public life, Alduvar was the proprietor of Jandalar's Fine Fruits, a trading coster representing Archendale's vast produce and orchard exports. Like all the Swords, he protected his identity with a number of illusion spells and a pair of bracers of misdirection.
+
+Appendix
+References
+
+---
+
+## Blackfeather Bridge
+
+Blackfeather Bridge could refer to:
+ Blackfeather Bridge (village), the rapidly growing village in Featherdale;
+ Blackfeather Bridge (bridge), the bridge after which the town was named;
+
+---
+
+## Black Eagle Coster
+
+The Black Eagle coster was a trading company whose headquarters, little more than a warehouse, was located on the eastern side of Ashabenford in late 14 century DR. They would purchase locally made food stuffs like grain, cheese, ale and salted meats and sell them out in Hillsfar, Harrowdale and Scardale, to be sold and shipped overseas.
+
+The company's ownership consisted of a five-man partnership of former adventurers led by the swordsman Iletian Blackeagle.
+
+Appendix
+References
+
+---
+
+## Black Banner Inn
+
+The Black Banner Inn was a popular establishment in Daerlun, interior Faerûn, circa the Year of Wild Magic, 1372 DR.
+
+Location
+This building was located on the west side of Daerlun near the Sunset Gate. Its main entrance was on the north side of the Street of the Dragon which connected the gate to the Westmarket and beyond.
+
+Structure
+From above, the building looked like a giant gauntlet laying on its side with the fingers curling around the central courtyard and the wrist/forearm part jutting off to the northeast.
+
+Interior
+The rooms at the Black Banner were luxurious and most walls were paneled with exquisite wood.
+
+Atmosphere
+The lighting was muted throughout most of the establishment, making it fairly private but gloomy. Community dining and revelry was discouraged—guests were almost exclusively served food and drink in their rooms.
+
+Services
+The only exception was the grand lounge where businessfolk could meet and gambling tables were available. There, the clientele could enjoy fine vintages from the well-stocked wine cellar.
+
+Appendix
+References
+
+---
+
+## Black Stars Logging
+
+Black Stars Logging was a collectively owned lumber mill in the town of Velarsburg, Harrowdale during the mid–14 century DR. Ownership was shared among all of the woodcutters who were not part of the Torsyld family.
+
+They worked with furniture makers within the town, who would display their fine work within their showcased products. These finely crafted items were quite popular in the Dragon Reach.
+
+As was the practice in Velarsburg, each logger that worked out of the Black Stars yard learned how to specifically harvest, cut, and season only one, or at most a few, types of wood. They would then brand their wood with the company's logo, an arch of three black stars.
+
+Appendix
+
+References
+
+---
+
+## Bladebend
+
+Bladebend was a magical effect used by Vhaeraun, the drow god of thievery.
+
+Effects
+Bladebend caused one edged weapon within 70 ft. (21.34 m) to twist and strike the wielder with perfect accuracy and to maximum effect.
+
+Components
+Bladebend was an innate ability of Vhaeraun, but he could cast it a second time while holding Nightshadow, his longsword. Both the innate and external effect were usable once every six minutes.
+
+History
+How Vhaeraun's original bladebend effect came to be was unknown, but the church of Vhaeraun made efforts to duplicate it in a form of a spell. By the 14 century DR, two methods existed.
+
+One was a spell, that caused weapons to fly around in an uncontrolled manner. It was viewed as an imperfect adaptation and was used as a last-ditch act of desperation.
+
+The second one was used by accomplished darkmasks as a magical effect instead of a spell. It shared the name with the original but was slightly different. First, it was a defensive ability instead of an offensive one. Second, it worked by choosing a target instead of a weapon and caused the target's strikes with edged weapons to twist to hit the enemy. Third, while this protection lasted for 30 seconds unlike the instantaneous original, it also didn't strike the target with the weapon's maximum effect.
+
+Appendix
+References
+
+---
+
+## Blackjammer's cutlass
+
+Blackjammer's cutlass was a +3 intelligent heavy cutlass that was highly desired and renowned by spelljammer pirates and marauders.
+
+Description
+Although it was a heavy cutlass of ancient design, Blackjammer's cutlass was surprisingly light. The blade did not appear to be made of metal, save for the hilt, and its cutting edge was composed of a material resembling a dull, matte onyx. Its elaborate hilt was carved to resemble a keelhauled sailor.
+
+Powers
+The +3 intelligent cutlass had powers similar to that of a defending weapon, could conjure darkness within a 15' (4.6-m) radius and granted its wielder the ability to see through that obstruction.
+
+This sword possessed a ribald personality, as well a vast knowledge of naval navigation, seamanship, and bawdy jokes. It was speculated to have granted leadership abilities to several of its wielders, as it was known to inspire confidence and morale in their respective pirate crews. Furthermore, it drew its wielder more and more into a life of piracy, imposing some of its personality on them.
+
+History
+The blade was rumored to have been forged in one of the Tears of Selûne, and wielded by a spelljamming pirate who earned his name from the blade itself. Blackjammer was known to raid Realmspace up until his death in the late 13 century DR.
+
+The cutlass passed from owner to owner for several years until coming into the possession of Elsun, the captain of the Dragon Claw. After Elsun was killed in combat against a man-o-war of the Elven Imperial Navy, Blackjammer's cutlass was lost overboard and last seen floating in the Flow between the crystal spheres Oerth and Krynn.
+
+Appendix
+External Links
+
+References
+
+---
+
+## Black Buckler
+
+The Black Buckler was a loose-knit group of mercenaries that was based in Everlund, circa the Year of Wild Magic, 1372 DR.
+
+Organization
+This group was a confederation of warriors and rogues with a reputation for strong loyalty to the patron that hired them.
+
+Activities
+The most common type of job the Bucklers took on was guarding caravans, warehouses, people, or whatever folks wanted protected. They looked out for each other, so if one member got hired, he or she would recommend others in the organization for employment.
+
+Tactics
+This group did not wait for patrons to come looking for them. They closely watched visitors, travelers, and the locals, and when they saw a need, they offered their services. One of their favorite places to pick up leads on possibly lucrative jobs was the Missing Minotaur tavern in west Everlund. They had at least one spy listening to the tavern talk (and possibly on the other side of the walls of the private rooms), fishing for opportunities.
+
+Appendix
+References
+
+---
+
+## Blazon
+
+The Blazon was a small, wood-framed, tavern and inn located within the village of Deadsnows during the 14 century DR. It was considered one of the best taverns in the bar, thanks to the efforts of its proprietor, a shrewd businessman named Lonnor.
+
+Description
+A wooden sign adorned the front of the tavern, emblazoned with a painting of a large shield with simple heraldry. It featured a green field, with a broad white band across its center. Despite its common appearance, the origins of its meaning were unknown to Lonnor since he bought the Blazon.
+
+Patrons
+Before the gold rush, the Blazon primarily catered to local lumberers, merchants, or herders from the upland pastures. After the influx of travelers into Deadsnows, the regulars came in for some refuge from the constant hustle and bustle of new travelers looking to strike it rich. They were less-than-cordial to strangers, but mainly kept to themselves.
+
+Services
+The Blazon had three rooms for rent, each of which could accommodate six people in relative comfort. Following Deadsnows' boom in population after the region's gold rush in 1372 DR, Lonnor raised the price of a room to 5 gp a night.
+
+The kitchen offered visitors a plate of roast meat, either beef or mutton, with a side of boiled potatoes and vegetables for 5 sp a plate.
+
+Appendix
+References
+
+---
+
+## Blackraven Wagons, Doors, and Shutters
+
+Blackraven Wagons, Doors, and Shutters was a woodworking shop run by one of Sundabar's famous master carpenters, Hundarr Blackraven. It was an extremely efficient workshop, providing high-quality pieces in a short amount of time.
+
+Goods
+While Hundarr and his apprentices specialized in only the specific items advertised in the name of his shop, they were simple and strong pieces, with exceptionally sturdy joints and hinges.
+
+Appendix
+
+References
+
+---
+
+## Blackbarn
+
+Blackbarn was a small market town located at the intersection of the Long Trail and the Scelptar Road in the southern part of the Border Kingdoms.
+
+Geography
+Blackbarn was located on the southern bank of the River Scelptar, just north of The Land of Two Princes. The streets were paved with cobbles and most buildings were made of brown stone, with maroon-tiled roofs.
+
+Despite its name, there was no barn within the town. "Wagonhouses" were used instead to store produce for trade. These warehouses were designed so that a wagon could be filled via chutes located along the bottoms of the buildings.
+
+Government
+Blackbarn was governed by a council of local merchant lords called the Trantors. They elected a High Trantor from their numbers who acted as head of state.
+
+Trade
+Blackbarn was a prosperous town and was home to many merchants. These merchants would travel the Border Kingdoms in caravans or river barges towards ports along the Shining Sea for export to Calimshan and beyond.
+
+Local inns included The Silent Knight, The Black Boot, The Unsnug Snail, The Laughing Cat, The Minstrel's Folly, Old Nag and Dance With The Knights.
+
+Defenses
+The town was a peaceful and safe place to live thanks to the presence of the Ghost Lances, also know as the "Black Knights". They were the ghosts of knights exiled from Tethyr centuries ago, who resided in a crypt under Blackbarn, cursed by a powerful wizard named Kulaskular.
+
+The Lances hunted thieves and brigands, leaving the law-abiding locals in peace. They appeared in small groups whenever criminal action occurred in the town, from kicking a dog to murder, or when the town was under threat from outside forces. They usually appeared in groups of three to a dozen. The spectral knights never spoke but were elegant in their gestures and could write messages in many languages.
+
+History
+The town was founded when exiled female mercenaries of the Silent Knife from Calimshan settled the area. The town's name derived from one of the early large structures, a large black barn built with duskwood.
+
+Some time in the late 14 century DR, the town became infested with gremlins. They committed many acts of thievery and vandalization, persistently resisting the residents' efforts to exterminate them. Eventually residents started to refer to them as "the Blackbarn Curse" and bodies of those killed were strung up on posts. To circumvent the gremlins many things in the town began being made from stone or were locked away behind cupboards or with stout locks.
+
+Inhabitants
+ Althalas, a local sage who resides on Barwinter Street. Originally from Tethyr.
+ Thurbald, another loca sage who resides on Crowns Street. Originally from Calimshan.
+
+Appendix
+External Links
+ Blackbarn
+References
+
+Connections
+
+---
+
+## Bloutar
+
+Bloutar was a small town in the Border Kingdoms with a dangerous reputation.
+
+Geography
+The town was located along the southern edges of the Qurth Forest in the Barony of Blacksaddle. The town was a disorganized maze of unpaved streets and log houses.
+
+Trade
+Bloutar's economy was primarily logging and hunting. Furs and wild game meat were especially sought after, and were sold as far as Derlusk and Tharsult. There were a few inns offering accommodation, such as Althyn's Lodge and The Spitted Stag.
+
+History
+The town was named after Bloutar Hilathan, also known as the Bloodsword Baron. He was a baron of fierce reputation who had his hold located in Bloutar.
+
+Appendix
+
+Further Reading
+
+External Links
+ Bloutar
+References
+
+Connections
+
+---
+
+## Blackalblade
+
+Blackalblade was a small city and the capital of Ondeeme in the Border Kingdoms.
+
+Geography
+The town was located on the border of Ondeeme and The Barony of Great Oak near the western edge of Qurth Forest.
+
+Government
+The city was governed by a council of eight merchants, which would choose three of its members to head it. This council was influenced by a group of local wizards called the Slee.
+
+Trade
+Blackalblade was one of the weathiest cities in the Border Kingdoms and was famed for its gem-cutting and jewellery-making industry. Its location near the Raundawn Hill gave it access to a plentiful supply of raw gems. The council would hire famous gem-cutters from abroad to work their trade for the benefit of the city. The city was home to the Sparkling Hall, the first human school of gem-cutting and jewellery-making. Gems and jewelry from Blackalblade were seen adorning many nobles across Faerûn.
+
+There were several inns located in the city. The most popular inns were Naraxalan's on Gardlaer Street, Orlisk's Orb on The Street of Stallions, and The Old Knight on Reldruth Street.
+
+Blackalblade was home to a unique type of festhall called a drauda. They ranged from regular taverns with some gambling and gossip to dark, violent establishments filled with illicit business.
+ Droum's Beard was located on Turnwall Lane, and was a large drauda with a whole central floor for dancing and other exhibits.
+ Skaeling's Scorpion was located on Sarkskull Lane, and was a "dark" or "blood" drauda infamous for illicit activity.
+ The Burning Mask was located on Dragonfang Street, and was a "dark" or "blood" drauda infamous for illicit activity.
+ The Laughing Nazir was located on Glaudra Lane, and was known for gambling.
+ The Sunset Cloak was located on Darcandle Street and was the most expensive drauda.
+
+Defenses
+Law and order were maintained by the Kauroanars, a constabulary of roughly 70 men led by Lord Mace Heldraego Rauntlet. Their base of operations was Lawgauntlet Hall on Murloar Street, which also housed the Hall of Law and the constabulary armory and barracks.
+
+Inhabitants
+ Astlur Adaunt, council member and master weaver originally from the Sword Coast North.
+ Lord Mace Heldraego Rauntlet, originally from Calimshan and in charge of the Kauroanars.
+ Ildyn Onsypir, a gem-cutter from Athkatla.
+ Nardarra Leonpur, council member and seller of scents and potions originally from Calimshan.
+ Urthe Crownshimmer, a gem-cutter from Baldur's Gate.
+ Ylothin Tlarst, council member and moneylender from Rashemen.
+
+History
+The city was named after Kururn Blackalblade, a famous pirate who built the first house in what would become the city.
+
+Appendix
+Further Reading
+
+References
+
+Connections
+
+---
+
+## Bladesemmer
+
+Bladesemmer  was a noble family in the city of Waterdeep, with a marked history of over two hundred years as of the 14 century DR. They were well known for their sword-forging and exotic-design armor crafting.
+
+Base of Operations
+The family owned a villa in the Sea Ward, on the northeast corner of Sul Street and Rough Road.
+
+Members
+Taeros Bladesemmer: The family's patriarch
+Onya Bladesemmer: Lady of House Bladesemmer
+Dhannan Bladesemmer: Taeros and Onya's eldest daughter, and heir to the Bladesemmer fortune
+Gutrek Bladesemmer: Dhannan's younger brother, sent to Eriabor to continue his studies and become a paladin, one of the 35 Knights of the Eternal Order.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Black Sword (weapon)
+
+The Black Sword was a unique intelligent bastard sword from the ancient Imaskari Empire, crafted to aid in the overthrowing of an emperor during its height. It possessed the special purpose of overthrowing tyrants. Made of obsidian, the sword had been used to commit dozens of regicides since its creation. In, the Black Sword might have been in the City of Solon, where it intended to slay Raja Ambuchar Devayam at the first opportunity.
+
+Personality
+Haughty and unwavering in its aims, the Black Sword was only vocal in the hands of someone it believed to be worthy of its power. If it was wielded by a person it deemed undeserving, it would remain mostly silent, unless given the opportunity to defeat a tyrannical power.
+
+Powers
+This +3 bastard sword granted a number of spell-like abilities to its wielder. In  they could cast darkness, silence, and dispel magic thrice a day each, whereas in  they were believed to be able to use the first two powers indefinitely and at a higher level. It began to speak languages other than Roushoum sometime between  and . When wielded against a tyrant, its powers were further increased.
+
+Appendix
+
+References
+
+---
+
+## Black Viper
+
+The Black Viper was a notorious pickpocket, burglar, mugger, and assassin of Waterdeep who died in the late 14 century DR after a long criminal career.
+
+History
+The title of Black Viper was originally claimed by Alauneth Orrane in the mid-14 century DR. The original Black Viper focused on stealing from nobles and rich merchants. She had a habit of barely escaping capture in her daring heists and always left a calling card signed: "The Black Viper." Some time around 1368 DR she allied herself with the Shadow Thieves in Waterdeep and acted as a scout and recruiter for the organization, eventually rising to the title of Silhouette of Shadows. Around this time she also began stealing information which she used to blackmail and extort rich merchants into making purchases on behalf of the Thieves, in order to make them harder to trace.
+
+The Black Viper's Return
+One century after the death of the original Black Viper, in the late 15 century DR, she returned to Waterdeep to continue her criminal activities. Rumors passed between the noble houses of Waterdeep discussing how and why she'd returned, but none were true. In reality, the Black Viper's title and persona were adopted by Esvele Rosznar, a brash young noble woman of Waterdeep who wanted a way to escape her day-to-day life.
+
+Appendix
+Appearances
+Board Games
+Dungeons & Dragons Dice Masters: Adventures in Waterdeep
+Miniatures
+Icons of the Realms
+
+References
+
+FR:Vipère Noire
+
+---
+
+## Blackblades
+
+House Blackblades was a mercantile house that operated within the city of Ravens Bluff during the 14 century DR. Their business involved the shipping of goods in and out of the city, specializing in quick runs across the Reach to several ports in Sembia. They were known for buying stakes in shipping vessels that regularly sailed the Sea of Fallen Stars.
+
+Despite the common misconception, the family had no involvement with any of the activities that centered around the Pirate Isles, despite their numerous nearby holdings.
+
+Members
+As of the year 1370 DR, the family was led by Eldivvyr Blackblades, who held a seat on the city's Merchant Council.
+
+Appendix
+References
+
+---
+
+## Blacktree
+
+House Blacktree was a noble family that lived in the city of Ravens Bluff during the 14 century DR. They were highly respected among the city's nobility and commoners alike, and remained quite wealthy, despite some previous poorly chosen and somewhat shady investments.
+
+Their family motto was: "outroar the lion".
+
+History
+During the war, Lord Blacktree contributed his complement of 250 "gardeners" and his 20-strong cadre of personal guards, known as the Black Knights, to the raising of the Ravenian army. In a complete turn of character, the notoriously lazy and fickle patriarch of House Blacktree exhibited great civic virtue and bravery, joining the fight against the Warlord Myrkyssa Jelan, rising to the rank of Field General of the Ravenian army. He commanded his forces with a courage that bordered on reckless abandon, and won a decisive blow against the Warlord's oni mage forces on the fifth day of the Six-Day battle.
+
+Following the conflict, Lord Blacktree brought a great deal of acclaim and renown to the noble house. He was praised by his fellow nobility and granted knighthood in the Order of the Lady. In the mayoral election that followed the war, Lord Blacktree campaigned for the post, with full support of the Ravenian army. Despite this, he couldn't quite raise enough gold as Lady Amber Lynn Thoden, and she won the post.
+
+The Blacktree family further solidified their power base in Ravens Bluff, as well as their ties with House Moorland, one of the founding families of the city, following the marriage of Lord Charles Blacktree IV to Lady Katherine Moorland, Lord Speaker of the Council of Lords. Following this joyous and celebrated union, many in the city felt the two families would officially unite as one, joining together two of the oldest and most respected noble houses of Ravens Bluff.
+
+Members
+Lord David Blacktree IV: The former patriarch of the Blacktree family died at sea with his wife and eldest son.
+Lady Melanie Blacktree
+David Blacktree V: The elder son of Lord and Lady Blacktree was being groomed to lead the noble house before their unfortunate passing.
+Lord Charles Blacktree: The only surviving member of the Blacktree family after the deaths of his parents and older brother, Lord Charles had transformed himself from a lazy, drunk, womanizer to a capable and brave leader during the the war of the same year. Following his exemplary service as the Field Marshal of Ravens Bluff, he married Lady Katherine Moorland.
+Lady Katherine Blacktree: Just as beautiful as she was brilliant, Lady Katherine was the matriarch of House Moorland and served as the Lord Speaker of the Council of Lords for some time.
+Henry Mason: "Iron Henry" was the seneschal of the family's Blackwood Manor and "First Knight" of their personal guard.
+
+Former Members
+Ilhans Silverspeak: The former custodian of the family and its estate nearly sent them bankrupt with his ill-advised investments and rampant embezzlement.
+
+Holdings
+Blackwood Manor: This sprawling manse stood on a nearly-2000 acre estate owned by the Blacktree family. It was overseen by the trusted Henry Mason, and serviced by 250 gardeners, who in fact doubled as a well-armed force of guards.
+
+Family Tree
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Black Maw Bog
+
+The Black Maw Bog was a wetlands surrounding the Huntinghorn Water, a stream out of the foothills of the Sword Mountains in the Dessarin Valley region of the Savage Frontier.
+
+Geography
+The bog covered an area of about 8–10 square miles (21–26 square kilometers) mostly to the east of the Long Road. The stream disappeared into the bog, forming a landscape of thick mud that reached about 30 ft (9.1 m) at its deepest point, but averaged over 20 ft (6.1 m) deep across most of its sprawl. It was difficult to detect the edge of the muck without a sharp eye or some experience in the wilderness because it was covered with crabgrass and other small, hydrophilic plants, just like the more solid parts of the valley. Two or three strides into the bog was usually enough to reach the edge of the shallows where a medium-sized humanoid slowly sank hip- to chest-deep in heavy, sucking mud. Movement was slowed to a crawl and it took significant strength to pull someone out. If that creature moved any further into the Black Maw, or could not touch bottom for some reason, they began a slow descent to total immersion in roughly six minutes.
+
+Geographical Features
+
+The narrower, western end of the bog was crossed by Ilikur's Bridge (known as simply the "Haunted Bridge" by most folks in the region) which carried the Long Road connecting Westbridge and Triboar. The enormous megalith spanned the Huntinghorn Water and bog for 100 ft (30 m) with another 100 ft of ramps on either end. At 40 ft (12 m) wide and 30 ft (9.1 m) above the Black Maw, it was easily the most dominant feature in the region.
+
+History
+As of the Year of Wild Magic, 1372 DR, Ilikur's Bridge had been standing for at least 800 years and was described as "old"  in records that dated back that far, so Black Maw Bog was probably even older. Over the years, it shifted and expanded, mostly toward the east.
+
+Rumors & Legends
+Rumors of treasure-laden merchant wagons and nobles' carriages submerged in the bog were enough to draw the brave, ingenious, or foolish to the vicinity of the Haunted Bridge in the hope to recover some of this lost wealth. Some well-equipped adventurers did find valuables on occasion, which served to perpetuate the stories, but most were lucky not to drown in the attempt.
+
+Inhabitants
+The primary inhabitants of the region around the Black Maw Bog were bugbears, and they kept an eye on the bridge. Travelers from Triboar or Westbridge were often advised not to camp on the Haunted Bridge for superstitious reasons, but it was excellent advice for avoiding an almost certain bugbear raid.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Blindsight (spell)
+
+Blindsight was a transmutation spell that could grant the caster the ability to sense the shape of objects without vision. The spell was utilized by both divine and arcane casters.
+
+Effects
+After casting of the spell, anyone touched by the caster was granted an extraordinary capability of sensing vibrations so well as to be able to fight and move as deftly as a creature with vision. This magical sense extended for ten yards (nine meters) and lasted for two or more minutes, depending on the power of the caster.
+
+Since it did not require vision, a creature granted blindsight could easily detect invisible creatures or creatures hiding in total darkness, but it did not allow one to sense the presence of ethereal beings. It allowed one to also sense the true location of creatures under the effects of blur or displacement spells, but it did not allow someone to perceive color or read. A creature under the effects of this spell was not prone to gaze attacks or blinding flashes of light—unless it still had normal vision. Deafening attacks did not weaken the spell, as it relied on felt vibrations, not hearing, but it could not function in a vacuum.
+
+Components
+Blindsight required only verbal and somatic components.
+
+History
+Ghaunadauran clerics, who were initiated in the secrets of their faith, could more easily cast blindsight than other clerics.
+
+Appendix
+References
+
+---
+
+## Black Dwarf Mine
+
+The Black Dwarf Mine was a mining and smelting operation run by Aldurghen Stormhammer and four of his dwarven associates circa the . They also had a lucrative side business in storing items that people wanted quickly hidden.
+
+Location
+
+The Black Dwarf Mine was located on and in a ridge in the low hills about  east of Waterdeep. It was accessed by a gravel path that connected to the Run (a spur of the Trade Way that bypassed the big city and connected to the Long Road). Another path ran west over some hills to a limestone quarry.
+
+Structure
+The mine proper consisted of many tunnels dug into the western side of the ridge about mid-height or above. Mine tailings were used as gravel to pave paths from these tunnels down to the furnace or the tailings dump. The furnace was a circular shaft lined with firebrick topped by a chimney that stuck up out of the hillside. The chimney had an opening (the "maw") in the side where cartloads of ore, charcoal, and limestone were tipped in. A nearby spring drove a waterwheel bellows system with two keg-sized pistons that blasted air down into the furnace via tapering copper pipes. Down the hill was a large wooden shed that covered the entrance to the furnace's "hearth" where a few different-sized taps (made from clay plugs) were opened (about twice a day) to allow the molten iron to flow into small clay molds for making pots and pans or into a large half-cylinder trench (the "sow") in the sand that fed smaller molds (the "pigs"). The shed also supported a hook-and-pulley system for lifting the pigs and sows out once they cooled.
+
+The only other building in the Black Dwarf Mine was another large shed that kept the charcoal dry and provided storage for a few carts and any other raw materials they needed. There were no living quarters as most civilized folk defined them—the dwarves slept with the products of their labor in one of the abandoned tunnels. A short walk north of the main furnace were three smaller fireboxes with piston-driven bellows that were used to turn the brittle pig iron into more malleable, higher grade metal that could be wrought into goods to sell in Waterdeep.
+
+Interior
+The mine tunnels were typical dark and dirty holes in the side of the hill. Several early shafts were unfruitful and abandoned quickly. These were usually plugged with heaps of slag and used for storage of spare parts for carts, chains and pulleys, waterwheel buckets and components, and other valuable items that might disappear if left out in the open. The forge area was extremely hot and noisy most of the time.
+
+Activities
+When they had enough goods to sell, or needed to replenish their food and drink supplies, Aldurghen and at least two of his partners took handcarts of their products to Waterdeep and sold them for a tidy profit while still undercutting most other suppliers on price. Aldurghen would say a few choice words to certain contacts about what was "in back" of the mine and hopefully generate some very lucrative side business. The dwarves typically got the latest news before and after trade negotiations and then filled their carts with kegs of strong spirits and sides of smoked meats and trundled back home again.
+
+Services
+
+The primary output of the Black Dwarf Mine was pig iron, at least by weight. A "pig" weighed about 75 lb (34 kg) and a "sow" was 250 lb (about 114 kg). They also made cast iron pots and pans, flatirons, trivets, fireplace screens, door dragons, and bootjacks.
+
+The other side of the business was discreet storage of things that needed to be hidden quickly and quietly, away from the eyes of the authorities or others that had an interest in illegal or questionable contraband. For a price, Aldurghen and his partners would put things (normally brought to them at the mine) "in back", meaning they would be securely hidden behind a wall of rubble deep in a worked-out mine shaft or under one of the many piles of slag that dotted the hillside. Sometimes they even buried them under the gravel paths that their carts passed over many times a day. Delicate or dangerous items, such as corpses or monster parts, were covered by an overturned cart before burial. It was generally made clear that this storage service was short-term only—just long enough for "hot" items to cool down a bit—and no questions would be asked.
+
+Defenses
+
+The mine had no real defenses unless hiding behind a pile of rubble or in a mine shaft was a defensible position. Each of the dwarves had armor and weapons, but they only wore armor when they went to Waterdeep.
+
+History
+Sometime around the, Aldurghen Stormhammer and his cohorts, having fled from persistent Zhentarim attacks in the Sunset Mountains, began prospecting in the low hills east of Waterdeep. After three years of searching, around, they hit upon a vein of rich iron ore and began mining and smelting at the site. The name of the mine came from Aldurghen's nickname, "the Black Dwarf", which he earned because of his black chainmail shirt, black helm, a black beard that reached his ankles, and a face that was blackened from the thaolet oil that dwarves used to clean their tools and protect their armor from rust. He was not one to care about appearances and his skin was either permanently stained or he just never washed his face.
+
+Rumors & Legends
+During their first year, after setting up the Black Dwarf Mine, the miners were plagued by rumors that circulated in the Dock Ward of Waterdeep of "walking metal men" and other deadly constructs seen around the mine, but those curious enough to investigate only found hard-working dwarves too busy toiling to make much mischief.
+
+Appendix
+References
+
+---
+
+## Bloodswords
+
+The Bloodswords was a mercenary company that originated in Amn and operated within the Western Heartlands during the mid-14 century DR.
+
+Activities
+These mercenaries had an agreement with the Zhentarim where they would drive away any non-Zhent caravans and unwanted travelers in the region of the High Road north of the Bridge of Fallen Men and west of the Eagle Peak in the Storm Horns. They would openly fight with any patrols from Cormyr or adventurers who attempted to cross their territory and would only allow certain Amnian merchants to travel eastward into the mountain pass.
+
+Thanks to the efforts of the Bloodswords, exclusive trade routes to the nations of Amn and Tethyr, within the Lands of Intrigue, opened up to the Zhent forces.
+
+Appendix
+
+References
+
+---
+
+## Blaskin
+
+Blaskin was an engineer and entrepreneur who lived in the Cormyrean city of Arabel during the mid–14 century DR.
+
+Owning their own business, Blaskin led a crew of builders and contractors that worked within the Caravan City. Their motto was:
+
+Appendix
+References
+
+---
+
+## Bloody Umber
+
+The Bloody Umber was a "sailrig" coaster, essentially a large raft outfitted with a trisail, that shipped goods throughout the Sea of Fallen Stars and the Dragonmere during the 14 century DR.
+
+History
+In Ches of 1357 DR, the Bloody Umber sailed from the Neck of the Dragonmere north to Harrowdale on the coast of the Dragon Reach. It was carrying a mix of goods such as pottery, clothes, rugs, live hogs, and poultry, as well as ironware, including axeheads and arrows for the armed forces of Scardale. Unfortunately, it never reached its destination and was never heard from since.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Bladethirst
+
+Bladethirst was an alteration spell that greatly increased the accuracy of any slashing weapon designated by the caster. It could be found within the tome Sabirine's Specular, the spellbook of the noted mage of the North, Sabirine.
+
+Description
+A weapon affected by bladethirst began to glow with a blue-white fire.
+
+Effects
+Upon the spell's casting, any single-bladed slashing weapon was granted a +3 enchantment, cumulative with any existing magical enhancement, allowing its wielder to strike with greater precision. It did not however increase the skill of the wielder, nor did it make their slashing attacks any more damaging.
+
+Only one casting of the spell could affect a weapon at one time, and the effects could not be affected by the spell permanency.
+
+Casting
+The spell required verbal, somatic, and material components, the latter being a single drop of blood and a small pinch of silver powder.
+
+Appendix
+References
+
+---
+
+## Bloodfreeze arrow
+
+Bloodfreeze arrow was a transmutation spell that transformed a projectile's tip into ice.
+
+Effects
+As mentioned above, bloodfreeze arrow was cast on a projectile like an arrow or a bolt. It could be cast on those of masterful quality. On successful casting, the tip of the arrow or bolt changed into blue ice. When the projectile was shot and hit somebody, the target did not just suffer from the cold, but could become paralyzed from the magic of the enchanted projectile.
+
+Components
+Bloodfreeze arrow required verbal and material components. The latter was the arrow or bolt of masterful quality that was to be enchanted.
+
+Appendix
+References
+
+---
+
+## Blood Tide
+
+The Blood Tide were a group of slavers operating on the Sea of Fallen Stars during the 14 century DR. They were subsidiaries of the Night Masks of Westgate. As of 1359 DR they were known for using gargoyles in their attacks and were in the service of The Taker in his campaign for dominance of the sea.
+
+Appendix
+
+Appearances
+Novels
+The Sea Devil's Eye
+References
+
+---
+
+## Bloodspear
+
+Bloodspear was a transmutation spell known to orc clerics of Gruumsh.
+
+Effects
+Bloodspear allowed its caster to touch a spear, Gruumsh's favored weapon, and instill the god's anger into it, turning it into a wounding spear. The magic caused the spear tip to ooze blood.
+
+This spell expired 6 seconds after the spear left the caster's hand. Therefore, the spear could be thrown and still harm the target with the wounding quality.
+
+Components
+Bloodspear required somatic and verbal components.
+
+History
+Bloodspear was only available for clerics of Gruumsh and even among them only to those who were initiated in the faith's secrets.
+
+Appendix
+Battle line
+Eyebite
+Pocket cave
+Waves of exhaustion
+
+References
+
+---
+
+## Blueshine (spell)
+
+Blueshine was an alteration spell that protected metals and metallic items by enhancing them with the blueshine property.
+
+Effects
+When this spell was cast upon a metal item, any fractures or weaknesses within it were immediately repaired. This included damage caused by combat, caustic materials, and even the natural processes of rust and oxidation. In the latter case, these effects were removed with no decrease in the item's structural integrity. Regardless of the damage done, the item was restored to a pristine condition free from any blemishes or markings.
+
+In addition, the metal affected by this spell became much more resistant to acid and other corrosive substances and was immune to future rusting. In addition, it shone with a deep blue gleam whenever it caught natural light.
+
+Any item could be affected by this spell, even those comprising a number of different inorganic substances, so long as they were equal or less than the total volume of the spellcaster's body. Some organic matter could be included within the affected item, as long as it did not take up more than 1/10 of its total volume.
+
+History
+This spell was developed by the Calishite wizard Toth. Shortly thereafter, its specifications were stolen by a rival mage and Toth was killed by the Red Wizards of Thay, who sought the formula for their own ends.
+
+Components
+In addition to verbal and somatic components, this spell required a shard of cobalt-blue glass or a chip taken from a blue gemstone such as a sapphire.
+
+Appendix
+References
+
+---
+
+## Blade of roses
+
+The blade of roses was an enchanted longsword believed to have been crafted under the direct influence of Sune herself.
+
+Powers
+In addition to its +3 enchantment, this longsword bestowed a great boon upon its wielder, making them more charming and influential in their actions.
+
+History
+The captivating effects bestowed by the blade of roses were put to great use by a number of soldiers throughout the years of the sword's existence.
+
+Appendix
+Appearances
+Video games
+Baldur's Gate II: Shadows of Amn
+
+External Links
+
+References
+
+---
+
+## Blood leech
+
+Blood leech was an invocation realm spell, a powerful ritual that could be cast only by drawing mystical energy from the land.Blood leech is part of the "Scions of the Desert" setting variant from Dragon magazine 233, which combines the rules from the Birthright campaign with the Al-Qadim setting to give a framework for playing Zakharan regents. It was designed to steal a fraction of the power inherent in a person's bloodline, and took a whole month to put in effect.
+
+Effects
+With this spell, a small portion of the power that some Zakharans inherited from the seven followers of the Loregiver could be transferred to the caster. The victim had to be within 20 miles (32 km) and known to the caster. Blood leech could affect a person only once during their life.
+
+Components
+This ritual required power from a land with a strong natural flow of magic. The caster also needed to invest materials worth 2000 gp, a pinch of bloodsilver, and some of their metaphysical power of rulership.
+
+History
+Blood leech was one of the means used by the infamous yak folk of northern Zakhara to gain access to the bloodlines of the Sharit and the power they granted over the land.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Black Heart of Vengeance
+
+Black Heart of Vengeance is an adventure module set in the Forgotten Realms using the Dungeons & Dragons 5 edition ruleset. It is part of the Elemental Evil series of adventures published for the D&D Adventurers League. It focuses on Mulmaster, and is an adventure designed for three to seven 5- to 10-level characters.
+
+Index
+Characters
+Aleyd Burral • Cassyt • Cora Peytir • Edik Brey • Fatell • Fedosia Peytir • Grady Moll • Groshin Lor • Jaseen Drakehorn • Olisara Lightsong • Tareen Kafour • Wylan Burral
+
+Ardet Peytir • Ector Brahms • Vorgansharax
+Creatures
+Bulette • Elf • Galeb duhr • Gargoyle • Gorgon • Half-elf • Human • Piercer • Shrieker
+
+Archomental • Green dragon
+Items
+Fancy Stones Amethyst
+Jewels Black diamond • Yellow diamond
+Weapons Sword of wounding
+Locations
+Buildings & Structures Fatell's Firewood • Peytir Timber • Tower of Blades
+Inns & Taverns Hammer-Felled Tree
+Region Moonsea
+Settlements Mulmaster
+
+Phlan
+Magic
+Potions Potion of greater healing
+Spells Acid splash • Blade ward • Bless • Blindness or deafness • Blur • Burning hands • Color spray • Control flames • Create bonfire • Cure wounds • Dispel magic • Divination • Dominate person • Erupting earth • Expeditious retreat • False life • Fire bolt • Fire shield • Fireball • Friends • Frostbite • Greater invisibility • Greater restoration • Guidance • Haste • Hold person • Hypnotic pattern • Ice knife • Identify • Illusion • Invisibility • Lesser restoration • Light • Mage armor • Magic missile • Mass healing word • Maximilian's earthen grasp • Meld into stone • Melf's minute meteors • Mending • Minor illusion • Misty step • Mold earth • Phantasmal killer • Prayer of healing • Prestidigitation • Raise dead • Remove curse • Revivify • Sacred flame • Sanctuary • Scorching ray • Shatter • Shield • Shield of faith • Spare the dying • Speak with dead • Spiritual weapon • Step • Stoneskin • Suggestion • Thaumaturgy • Thunderclap
+Organizations
+Cult of the Black Earth • Cult of the Eternal Flame • Hawks • House Peytir
+Player Factions  Emerald Enclave • Harpers • Lords' Alliance • Order of the Gauntlet • Zhentarim
+Religion
+
+Imix • Kelemvor • Tymora
+
+Credits
+ D&D Organized Play: Chris Tulach
+ D&D R&R Player Experience: Greg Bilsland
+ D&D Adventurers League Wizards Team: Greg Bilsland, Chris Lindsay, Shelly Mazzanoble, Chris Tulach
+ D&D Adventurers League Administrator(s): Claire Hoffman, Robert Adducci, Bill Benham, Travis Woodall, Greg Marks, Alan Patrick
+Appendix
+External Links
+
+ Elemental Evil Adventurer's League
+References
+
+Connections
+
+---
+
+## Blue abishai
+
+Blue abishai were the second-highest of the abishai devils. Like their true dragon counterparts, the blue dragons, they had a supernatural affinity to lightning and were highly intelligent.
+
+Personality
+Blue abishai were the most well-learned of their kind, possessing vast, scholarly knowledge and devilish guile. They sought out lost lore, searched for ancient relics, and researched occult tomes and spellbooks from across the planes. Their spellcasting was primarily used in aid of their queen Tiamat.
+
+Abilities
+The barbed stinger on the end of a blue abishai's tail induced a powerful electric shock. Even without their magic, they were naturally armed with fangs and claws.
+
+Combat
+These abishai were prolific spellcasters, knowing several wizard spells that controlled the environment, manipulated minds, or purely destructive spells related to frost and electricity such as cone of cold or chain lightning. While they could attempt to call in a small group of lemures they could also try to summon other abishai, primarily of the blue or green caste. When forced into close combat, a blue abishai could strike out with their quarterstaff or bite and claw at their enemies. As well as staves, such abishai were also known to wield tridents.
+
+Appendix
+Gallery
+
+Appearances
+Video Games
+Idle Champions of the Forgotten Realms
+Miniatures
+Icons of the Realms
+
+Further Reading
+
+References
+
+Connections
+
+---
+
+## Black abishai
+
+Black abishai were the second-lowest of the abishai devils. Like their true dragon counterparts, the black dragons, they had a supernatural affinity to acid and were skilled in ambushes.
+
+Abilities
+In order to help them slink through the shadows, black abishai could cast the darkness spell. They could summon other black abishai, as well as white abishai and lemures. Their tail stingers contained acid they used to burn their foes when they weren't simply biting and clawing at them.
+
+Combat
+Black abishai were as skilled at infiltration as they were at assassination, weaving shadows in order to veil their approach, before attempting to take out their marks foes with a single fatal strike. While some made use of scimitars, one of the common weapons they used were halberds.
+
+Society
+The station of black abishai was seen as lower than the previous rank of spinagons by most beings in the Nine Hells. While spinagons were weak and craven they had amazing potential, able to advance into a wide variety of different forms. The near minimal promotion of a baatezu into a black abishai was commonly used as an indicator that a spinagon had failed to live up to its potential. They were often used as a form of cannon fodder in Hell's legions and those without the ambition to climb out of the position would be doomed to suffer the humiliation, although in truth some abishai's were never spinagons at all but had been directly promoted into abishais by Tiamat. At the same time, black abishai's were still fairly easy to summon, making them highly useful at tempting low-level casters with uncontrollable magic.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Blackiron Blades
+
+Blackiron Blades was a small smithy and weapons shop in Bryn Shander in Icewind Dale. Located a short distance north of the town square, it was known as a one-stop shop for travelers and adventurers.
+
+Services
+The smith, Garn, made and sold the cheapest blades in the Ten-Towns, rather than trying to make better weapons to compete against the dwarves of Kelvin's Cairn. Garn's weapons were worth half the typical price. To keep the shop profitable, the manager of the store, Garn's sister Elza, marked up all other goods by 50%. She also expanded the shop's product line to include various adventuring supplies, such as fur cloaks and snowshoes.
+
+Many veteran sellswords in Bryn Shander had disdain for Garn's lack of skill as a craftsman and joked about the quality of his blades, telling tales of unfortunate travelers that often ended with the words "…an' 'e was carryin' a Blackiron blade, to boot!"
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Bleveth Carduth
+
+Bleveth Carduth was a merchant that specialized in swords for hire. He was also one of the nine founding members of the crime syndicate known as the Great Goblet, and a member in good standing as of the Year of the Tankard 1370 DR.
+
+Description
+Bleveth was a tall, stocky, and very imposing figure. He often spoke loudly and aggressively, but his eyes remained cold and calculating.
+
+Personality
+Carduth had a very suspicious nature and few, if any, friends. He was preoccupied with having multiple escape routes, cover stories, and fallback schemes. He also set up diversions to deflect attention away from his business interests. He never went out in public without multiple bodyguards, both obvious and under cover.
+
+Abilities
+Bleveth had an eidetic memory when it came to names, faces, and words spoken within his range of hearing.
+
+Possessions
+Carduth, like all of the Lords of the Goblet, kept a golden goblet that held a dried finger or toe that once belonged to Halonidas Dreie—the arrogant and presumptuous wizard whose assassination was the inceptive event in the forming of the Great Goblet—as a warning against backstabbing among the leadership.
+
+Activities
+By the 1370s DR, Bleveth had spent over twenty years making his fortune hiring reliable mercenaries, bodyguards, and caravan guards for clients in Elturel. He was expanding his business to other towns when he fell in with the merchant cabal in Scornubel that eventually became the Great Goblet. He then focused on being a high profile and legitimate moneylender, but still stealthily arranged security for clients nervous enough to come to him and pay his fee, based on his reputation.
+
+He had an extensive spy network that operated mainly in Elturel and Scornubel, and he was well-informed about most of the activity in those two cities.
+
+Rumors & Legends
+During the 1350s and 1360s DR, he was dogged by recurring rumors that alleged he was involved in kidnapping and slave-trading, but the allegations were never proven.
+
+Appendix
+References
+
+---
+
+## Blue Dragon Mask
+
+The Blue Dragon Mask was one of the five dragon masks that carried the blessings of Tiamat in the efforts of the reformed Cult of the Dragon to summon her to Toril.
+
+Description
+The Blue Dragon Mask was glossy blue in color, with spiked edges and a central horn.
+
+Powers
+The wearer of the Blue Dragon Mask gained a large number of powers, such as extremely strong resistance to damage from lightning, as well as an increase in the potency of lightning attacks and improvements to defense and endurance. The mask also granted its wearer with darkvision and blindsight, as well as the understanding of Draconic.
+
+The main feature of the Blue Dragon Mask was to turn its wearer into a wyrmspeaker, who could think like a dragon and was capable of subtly influencing other dragons' behaviors.
+
+When two or more of the masks combined, they magically transformed into the Mask of the Dragon Queen, which combined the properties of all five masks and granted immense powers to its wearer. The Mask of the Dragon Queen was essential in the ritual to free Tiamat from her imprisonment in the Nine Hells.
+
+History
+In the 1480s DR, a forgery of the Blue Dragon Mask was in Iskander's possession within Xonthal's Tower.
+
+The location of the true mask was revealed by Tiamat to Severin Silrajin.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+ The Rise of Tiamat
+References
+
+---
+
+## Bloodwater
+
+Bloodwater was a common spell used by wizards in Serôs.
+
+Effects
+This spell created an expanding zone of blood, within an area of  radius. This spell could trigger the natural blood frenzy of some sea creatures such as sharks or sahuagin. If triggered, the frenzied creature began attacking any creature near it, whether friend or foe. It could only be cast in water.
+
+Components
+In addition to verbal and somatic components, the spell required a material component in the form of a drop of blood.
+
+Appendix
+References
+
+---
+
+## Blight
+
+A blight was a plant-based creature.
+
+Description
+Blights were plants that had been tainted with evil, usually after a forest was corrupted by an evil force. They resembled dead versions of their original plants. The first blights were spawned when the vampire Gulthias was stabbed with a stake. The stake turned into a sapling which grew into a tree. This tree released seeds from which the first blights emerged.
+
+Types
+ Needle blight
+ Tree blight
+ Twig blight
+ Vine blight
+
+Appendix
+
+Gallery
+
+External Links
+
+References
+
+---
+
+## Black Dragon Gate
+
+The Black Dragon Gate, also known as the Landward Gate, was the grand northward gate that allowed passageway through the northern wall of Baldur's Gate. It also segregated the Outer City slums of Blackgate, from the entirety of the Upper City.
+
+Description
+The gate earned its name from the large stone sculpture of a black dragon head that loomed over the inner side of the wall. The stone statue of the dragon's head was actually constructed in honor of a real black dragon that was slain by a knight and whose head had been proudly displayed in the exact same location.
+
+Activities
+Each morning, laborers and peddlers traveling along the Trade Way would wait in the streets outside the Black Dragon Gate, in order to enter into, or pass through, the city at dawn. Each individual passing through the Black Dragon Gate was required to pay 2 cp, and an additional fee if they were selling goods at a stall in the Wide.
+
+All of the goods brought in by parcel, handcart or wheelbarrow were inspected by members of the Watch.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blossom
+
+Blossom was a spell unique to Maztica.
+
+Effects
+This spell allowed a caster to transform an area to become more fertile and verdant. The spell could transform a stagnant swamp into cropland or dry prairie soil into moist soil. The spell had limitations. If an area was struck with a long drought or was in the middle of a desert, the spell had no effect. The effects of the spell lasted until the end of the season. The spell could be cast in conjunction with other spells such as water summoning.
+
+Components
+In addition to verbal and somatic components, the spell required material components, an ear of grain and about a gallon of water. The caster required a full day of concentration before casting the spell.
+
+Appendix
+References
+
+---
+
+## Bladebane
+
+Bladebane was a transmutation spell that caused a bladed weapon to be temporarily more harmful to a specific type of creature.
+
+Effect
+By use of this spell, the caster bestowed upon one bladed weapon with the bane quality, focused against a type of being of the caster's choosing. The enhanced weapon struck these creatures more often, and inflicted more damage upon them. The cleric had to be able to touch the weapon, and the effect last only a short time.
+
+Casting
+In addition to verbal and somatic components, this spell required as a material component a drop of blood and an amount of ruby dust worth at least 500 gp.
+
+Appendix
+References
+
+---
+
+## Blinding beauty
+
+Blinding beauty was a transmutation spell that made the caster as beautiful as a nymph, allowing them to blind humanoids that gazed upon them. The spell was granted to the Celebrants of Sharess by their goddess.
+
+Effect
+The caster acquired a nymph's supernatural physical beauty for about forty-two seconds, or longer for more capable casters. Any humanoid within 60 feet (18 meters) who saw him or her directly risked being permanently blinded, similar to the blindness spell, if they could lack the fortitude to resist. However, the caster could quickly and easily suppress the blinding effect if he or she so desired, while staying just as beautiful.
+
+Component
+In addition to verbal and somatic components, the caster required to practice abstinence, by abstaining from sex for one week before casting.
+
+Appendix
+Reference
+
+---
+
+## Blade boot
+
+Blade boots, or bladeboots, were nasty footwear with concealed, spring-loaded daggers in the soles, worn by some rogues and adventurers.
+
+Description
+Blade boots were constructed from sturdy leather and typically custom-designed to an already existing pair of boots. The sole assembly was sturdy and hid the steel blade, which was activated by a heel-kick mechanism. Modified boots weighed about .
+
+Uses
+Blade boots were most effective when used in a surprise attack, typically after the wearer was apprehended and stripped of weapons. Blade boots housed a dagger-sized blade within the sole of the boot. The blade was triggered by clicking the heels together, causing it to spring forward where it could be used with kicking attacks.
+
+As long as the blade was hidden, a wearer could move just as easily as in a normal pair of boots, but with a blade out, it made it difficult to run.
+
+A blade boot was also handy for escaping from ropes if bound.
+
+Availability
+
+A single boot cost 15 gold pieces to modify. Pairs of blade boots were available for purchase through Aurora's Emporium for that same price, though they cost double that most places elsewhere.
+
+Reputation
+They were commonly employed as an escape device, since captured thieves were usually relieved of their weapons but not their footwear.
+
+Appendix
+See Also
+ Dagger boots
+Appearances
+Board Games
+Dungeons & Dragons Dice Masters: The Zhentarim
+References
+
+---
+
+## Bleak Sky at Morning
+
+Bleak Sky at Morning, or Bleak Sky for short, was an ice hunter shaman who ruled over the village of Icewolf in the mid-1300s DR.
+
+Description
+Bleak Sky wore a large metal helmet, a huge furred coat and set of gloves. The shaman also carried a spear and a shield.
+
+The ancient shaman ruled over 200 people, and was said to have incredible patience and a sense of humor.
+
+History
+Circa 1358 DR, the ruler himself guarded the entrance to the steepest climb of the Ice Peak. Bleak Sky and his ancestors, for about 600 years, had watched over the entrance to the great climb. The Heroes of Ascore, having proved their might and loyalty to goodly folk across Faerûn, wished to ascend the peak—they needed to stop the Zhentarim and their allies from acquiring Freezefire's gem. Bleak Sky at Morning granted them permission.
+
+Appendix
+Appearances
+Video games
+ Treasures of the Savage Frontier
+
+References
+
+---
+
+## Black Gryphon
+
+The Black Gryphon was an inn in the city of Elturel in the Western Heartlands in the mid–14 century DR.
+
+It was once managed by the sisters Allet and Vindara Tzuntzin, but their more monstrous clientele and visitors were unwelcome in Elturel. They sold the inn and moved to Waterdeep, opening the Misty Beard before the mid–1360s DR.
+
+As Lord Dhelt decreed that inns and taverns could not operate under the same roof, and inns could not serve drinks, the Black Gryphon was expressly an inn.
+
+Appendix
+References
+
+---
+
+## Blood challenge
+
+A blood challenge was a sacred fight to the death that took place among sahuagin.
+
+Procedure
+Despite the fact that sahuagin usually fought each other to the death since they were in the nursery, blood challenges carried a more formalized tone. When there were two sahuagin that differed in their positions and were not willing to work it out through dialogue, one might issue a blood challenge to the other. Insults and insubordination could also constitute enough to issue a challenge; no refusal was accepted, for the culture and doctrine of the sahuagin greatly despised weakness and only the mighty could keep living, which would be proved through victory only. Even though sahuagin were savage, they would not issue a blood challenge against an injured opponent, nor would they issue a second blood challenge if the first one was won but left the winner injured. That ensured that no successive blood challenges would be issued in order to ensure someone's death.
+
+When the challenge was issued, there would be no interference from third parties and the two participants had to fight until one died. The losing sahuagin was often eaten by the victor and the other sahuagin present.
+
+Notable Cases
+In her search for the One that Swims with Sekolah, Laaqueel, a malenti priestess, was accompanied by three other sahuagin. Since they had been searching for months without results, in the, Thuur scorned her and argued that they should go back. Since Laaqueel did not change her mind and found her behavior intolerable, they fought to the death in a blood challenge where the other two sahuagin were only witnesses. After Laaqueel prevailed, they ate Thuur's body and left the remains for the sharks and other scavengers.
+
+In the, when Huaanton told Iakhovas to produce a sign of Sekolah's approval for his ambitious plans to wage war against all land-dwellers, Iakhovas summoned the kraken that had been guarding the royal palace as a sign of divine support. However, the sahuagin king accused him of magic, which prompted the issuing of a blood challenge that resulted in Iakhovas's victory and ascension to the position of king among the sahuagin.
+
+Appendix
+Appearances
+ Rising Tide
+ Under Fallen Stars
+
+References
+
+---
+
+## Blastcloak
+
+Blastcloak was a spell that was first developed by the phaerimms.
+
+Effects
+This spell was identical to backblast but more powerful. When cast, this spell surrounded the caster or target creature with an invisible aura. If the individual was targeted by a fire-based spell, that spell was automatically thrown back to the source. Distance was not a limiting factor with this spell, so if the targeted creature was struck by a time-delayed fire-based spell, such as delayed blast fireball, the fireball was sent back to the person who cast it, even if they had left the area. Dispel magic was able to cancel this spell. This spell only protected a single creature at a time.
+
+Components
+This spell required only a verbal component.
+
+History
+This spell was originally created by the phaerimms of Myth Drannor.
+
+Appendix
+References
+
+---
+
+## Blaenther's bowls
+
+Blaenther's bowls was an alteration spell that created a dimensional link between two surfaces and allowed the caster to transport items between them.
+
+Effects
+When cast, a priest created a connection between two facets or surfaces that were smaller in surface area than their body. When an item that could wholly fit upon the surface was placed on it, was uni-directionally transported to the other surface. This could be repeated for a number of different items, from the same surface to the other for the duration of the spell.
+
+It was required that the priest touch both surfaces before the spell was cast and that the two surfaces began within 60 feet (18.3 meters) of the other.
+
+Usage
+This spell was often used by priests, as it was by its Waukeenar creator, to collect coins from a donation bowl at a church or temple.
+
+Components
+In addition to verbal and somatic components, this spell required a bit of gold dust, a spiral of particularly thin wire, and a bit of ivory or bone with arrowheads attached at each end.
+
+Notable Uses
+This spell was used in the House of the Moon temple to Selûne in Waterdeep to link the silver offering bowls in its various chapels to a counterpart in the cimeliarch (treasury). These uses of Blaenther's bowls were permanent and specially modified so that items could be sent back, but this was a secret known only to a few senior priests.
+
+Appendix
+References
+
+---
+
+## Bloodriders
+
+The Bloodriders were a Northmen cavalry unit unit active in the Moonshae Isles in the early-to-mid 14 century DR. They were transformed into blood warriors in the service of Kazgoroth the Beast during the Darkwalker War when the living human riders were turned undead by Kazgoroth's magic.
+
+Organization
+Bloodriders were once a several-dozen strong Norl cavalry unit that served as the personal guard of King Grunnarch the Red, and were said to be the most dangerous mounted warriors among the Northmen. They wore crimson-colored fur-lined cloaks, hence their name.
+
+They were corrupted by Kazgorth's evil forces related to their committing massacres and subsequent firelit festivities during the Darkwalker War. As undead, Bloodriders had stretched grey skin and glowing red eyes. They were able to drain power and sustenance from those they killed. This power was addictive and the Bloodrider leader Laric became fixated on killing and obtaining the power of others. Some of this power even transferred to their mounts which corrupted them toward evil. The hooves of their horses left trails of fire in their wake.
+
+Activities
+The Bloodriders fought in the Darkwalker War against the Sisters of Synnoria. Several Bloodriders died before or during the Battle of Freeman's Down. All the rest, save Laric, were killed by Robyn's magic during the siege of Caer Corwell. Laric was later killed by Kamerynn, aided by Robyn, Newt and Genna Moonsinger, during a failed attempt to sacrifice Robyn and absorb her power.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blast jewel
+
+Blast jewel was a spell that could only be cast by dragons.
+
+Effects
+This spell allowed a dragon to enchant a gem. Once enchanted, the gem was thrown into a target area and exploded, saturating the area with razor-sharp shrapnel. Everything within a  radius of the blast was vulnerable to the shrapnel. The dragon was also able to set off the explosion from afar, even a great distance. The blast could be contained if the gem was placed in a strong container such as a chest. If the gem detonated inside a  bag of holding or a portable hole, the blast destroyed anything within.
+
+The spell was often used by dragons to booby-trap their treasure hordes. They would cast this spell on several gems, and when they noticed one was missing, would activate the gem.
+
+Casting
+In addition to verbal and somatic components, the spell required a material component, a gemstone. The gem had to have a value of at least 500 gp. The gem could not be embedded in another item.
+
+During casting, the dragon used their claw to trace an invisible glyph into the gem. This glyph was only visible to the dragon. A detect magic spell would reveal the enchantment, and detect invisibility or true seeing would reveal the actual glyph.
+
+Appendix
+References
+
+---
+
+## Bloodburn
+
+Bloodburn, also known as bloodboil, was a spell that could only be cast by dragons.
+
+Effects
+This was a truly terrible spell cast by only the most evil dragons. Red dragons were the most common users of this spell. When cast, the liquid within a creature or a plant instantaneously became hot enough to reach the boiling point. Creatures such as slimes and oozes instantly dissolved. This spell had no effect on undead creatures or creatures with an immunity to fire or heat. The only defense against the spell was dispel magic or a cold-based spell.
+
+Casting
+This spell required only a verbal component.
+
+Appendix
+References
+
+---
+
+## Blood lust
+
+Blood lust was an enchantment spell that granted a person or creature a heightened state of awareness and increased fortitude for a limited amount of time.
+
+Effects
+When this spell was cast, an individual touched by the spell's caster became immune to pain, illness and any fear-like effects. They gained strong feelings of confidence, as if their morale was completely unshakable.
+
+Additionally, the recipient of blood lust gained a keen sense of smell. It was so heightened that it allowed an individual to track another being akin to a scent hound or a skilled outdoorsman.
+
+Components
+The casting of blood lust required only verbal and somatic components.
+
+History
+The specifications of this spell were detailed in the Malarite relic, the Book of Fangs and Talons.
+
+Appendix
+References
+
+---
+
+## Bluster
+
+Bluster was a brown bear who was a friend of the ranger Montolio "Mooshie" Debrouchee in the early 14 century DR.
+
+Description
+Bluster was a brown bear and in the middle of his life.
+
+History
+In the 1340s DR, Drizzt came to his cave after coming to the surface. Bluster did not argue, but let him live in his cave for the winter. Drizzt gave him fish most of the time, and when he left, he left one final fish meal for Bluster.
+
+Appendix
+
+References
+
+---
+
+## Blinding spittle
+
+Blinding spittle was a spell used by druids.
+
+Effects
+When cast, the spell turned the caster's saliva into a caustic liquid. The caster then spat into the eyes of a targeted creature. The caster was able to strike a creature within, this range increased with the caster's skill level. The caustic salivia only harmed the eyes of a creature and had no effect if used on a creature without eyes.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+References
+
+---
+
+## Bluespawn stoneglider
+
+Bluespawn stonegliders were dragonspawn born to blue dragons. They acted as guards for temples of Tiamat.
+
+Description
+Bluespawn stonegliders vaguely resembled large, iridescent blue termites.
+
+Behavior
+Bluespawn stonegliders were single-minded and ferocious in their mandate to slay any and all creatures that did not bear the mark of Tiamat. They were only barely more intelligent than beasts and ill-tempered.
+
+Abilities
+Bluespawn stonegliders might not have been the most intelligent dragonspawn, but they possessed several abilities that made them effective as guards and deadly in a fight. They were immune to electrical damage, magic that charmed or compelled, and coukld not be stunned; they themselves released an electrical shock when they bit that potentially stunned victims. Even worse, stonegliders could earthglide, meaning that they glided, rather than dug, when burrowing, and left no tunnel behind them nor created any ripples in the ground while burrowing. Their iridescent scales and swift movement meant that they were blurry and difficult to spot while moving.
+
+Additionally, all bluespawn stonegliders in an area were linked by a collective conscious.
+
+Combat
+Bluespawn stonegliders never fought alone, instead always retreating. In groups, however, they were deadly, as their collective conscious allowed them to coordinate attacks perfectly. They preferred to swarm and surround one or two foes, attacking or retreating as one. While they had some sense of self-preservation, they would continue to attack even in the face of extreme odds.
+
+Ecology
+Bluespawn stonegliders were first created by priests of Tiamat in the Altar of Scales, although it was possible that the secret of creating them had leaked to the Cult of the Dragon.
+
+Stonegliders ate meat and refuse, and areas where they lived were always immaculately clean since they would eat anything resembling food. Their trainers normally were the ones to feed them, as temple guards and priests often refused to do so because of the spawns' poor temperament.
+
+Bluespawn stonegliders were normally trained to recognize a certain sound or smell, such as a fragrence only worn by priests of that temple; anyone who did not match this would be immediately attacked.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Blackspawn stalker
+
+Blackspawn stalkers were terrifying but nearly mindless predatory dragonspawn combining the worst traits of black dragons and spiders. A related creature was the blackspawn gloomweb, which could also shroud itself in darkness.The 3.5-edition Monster Manual IV first presented the blackspawn stalker, and the 4-edition Monster Manual later presented the blackspawn gloomweb. While they have some key differences, they are very similar in concept and hence are both covered on this page. It is unclear what lore about stalkers also applies to gloomwebs. However, it is unknown if the gloomweb may be found in the Realms.
+
+Description
+A blackspawn stalker was a large arachnoid creature with six legs and two spined tails from which webbing was emitted. They also had six eyes and four horns on their heads, while their mouths drooled green acid. Blackspawn stalkers stood 6–8 feet (1.8–2.4 meters) tall, with a 7–10 foot (2.1–3.0 meters) leg span, and weighed up to . The females were generally larger than the males.
+
+Personality
+Although not nearly as smart as their dragon progenitors, and in fact almost mindless, blackspawn stalkers were nevertheless superb and patient hunters and constantly sought new prey. They respected strength, especially the strength to overpower others, and would even be proud to serve a more powerful master, at least until they showed weakness or abused their services. Thus, they were chaotic evil in nature. The goddess Tiamat, the Queen of Evil Dragons, created blackspawn stalkers to terrorize their prey, as she gained strength from fear and panic, and this they did gladly. They viewed her as their ultimate master and believed that, through their breeding, they would give rise to a perfect servant worthy of being chosen to serve Tiamat herself. If they had nothing else to do or no other master to serve, blackspawn stalkers bred as often as they could.
+
+Gloomwebs were equally unintelligent, and very aggressive and impatient. These qualities meant they were very hard for others to train. However, they were more bestial and lacked a truly evil nature.
+
+Abilities
+Blackspawn stalkers were immune to acid and were also capable of spitting their acidic saliva to a distance of  and biting their prey to inflict corrosive injuries. Additionally, thanks to Tiamat's blessing, other dragonspawn within  of the stalker gained immunity to acid as well.
+
+Blackspawn stalkers could produce spider-like webbing, up to eight times each day and two at a time with each of their tails. There were two ways they could use their webs. One way created a sheet of webbing up to  to a side, which they used to form traps; they were difficult to spot before one blundered into them. The stalker could climb this web easily and sense any creature in contact with it. The other way hurled webbing directly at creature, up to  away or more, tangling them up like a net and sticking them to the ground where they were. The webs were tough and sticky and difficult to break out of.
+
+Similarly, gloomwebs were highly resistant to acid and had acidic saliva, with which they could bite prey to also inflict corrosive injuries. But rather than spit acid or spin web traps, they launched sticky acid-dripping webs that tangled and burned their victims at the same time.
+
+True to its name, a gloomweb was surrounded by ever-swirling shadows. When the gloomweb remained stationary for some seconds, these shadows settled into a cloud around it, making it very hard to target. When it moved again, this cloud dissipated. Either way, they aided its already impressive stealth skills.
+
+Stalkers and gloomwebs were both excellent climbers.
+
+Combat
+
+Blackspawn stalkers were not fighters so much as hunters. Skilled and patient predators, they preferred to set traps by stretching webs between trees or over the ground, depending on their choice of prey, and then wait for prey to blunder in. They remained in the trees, where they had the advantage of height and safety. If this tactic failed, the stalker attacked directly, whether by hurling webs or spitting acid to first weaken the prey, and then rushing in to gore them with their four horns or bite with their acidic saliva, or strike with their two tails.
+
+Lacking such patience, blackspawn gloomwebs preferred to lurk in shadows and then simply charge at and gore their victims with their four horns. Thereafter they engaged in skirmish tactics, rushing away again to come about and repeat the process. When faced by multiple opponents, they launched their acidic webs to restrain one or more of them. They began devouring even before their prey were overcome by the acid.
+
+Ecology
+Blackspawn stalkers were capable of breeding more of their kind. To impress a potential female mate, two males locked horns and wrestled in a test of strength. They mated for life, and each mated pair laid eggs annually, which they distributed across up to six nests to increase the chances of some surviving. Since many other creatures (like large birds and other flying creatures) ate the eggs, only a few would hatch. In the rare event that all survived, the hatchling stalkers would gather and maraud through the area, slaughtering all living creatures they came across.
+
+Blackspawn stalkers were voracious carnivores who could consume prey by either biting, tearing off, and swallowing flesh or by using their acidic saliva to dissolve organic matter and sucking it up.
+
+With age, they grew bigger and ever more dangerous. This was particularly the case for the best hunters, and especially those that got to hunt good dragons and devour their flesh.
+
+Society
+Although normally solitary, mated pairs of blackspawn stalkers were sometimes come across. Otherwise, they saw others of their own kind as competition, either for food or for mates.
+
+Stalkers were willing to serve more powerful creatures, usually true dragons or stronger dragonspawn. The stalkers had a preference for black dragons, but occasionally joined green or red dragons, who respected the stalkers' hunting skills. The blackspawn stalkers worked for them as guards or assistants in a hunt. They would leave a master who abused them or displayed weakness, usually attacking them before they went.
+
+Like dragons, they collected treasure, but instead of hoarding it they spread it around in many stashes and caches.
+
+Habitats
+Found in warm and temperate climes, blackspawn stalkers favored swamplands, but could adapt to dense forests if need be. Either way, they occupied the canopy of trees, constructing nests and laying eggs in the upper branches. Gloomwebs, meanwhile, occupied remote caves.
+
+By the 1370s DR, blackspawn stalkers lurked within Chult's southern jungles. Here they competed for hunting grounds with the predatory flying dinosaurs. Otherwise, they multiplied without limits.
+
+Appendix
+Notes
+
+References
+
+External Links
+
+Connections
+
+---
+
+## Bluespawn ambusher
+
+Bluespawn ambushers were a breed of dragonspawn. They were dangerous hunters and sentinels who burrowed in order to surprise their victims.
+
+Description
+Bluespawn ambushers were heavily muscled creatures, said to be similar in shape to a badger (albeit much larger), with blue scales and a single forward-pointing horn on their head. Ambushers stood about  tall at the shoulder, and were  long and nearly as wide. They weighed about . Females were distinguishable by their slightly narrower heads and longer horns. Young ambushers had light blue scales, while older ones had darker blue scales. The very oldest ambushers would have scales lined with black.
+
+Personality
+Bluespawn ambushers were dim-witted, little more than beasts, but enough so that they could strategize in fights- and serve Tiamat and her worshipers.
+
+Abilities
+Bluespawn ambushers were valued as guards for their tremorsense, and they were just intelligent enough to understand and speak the Draconic language. Beyond that, their were naturally immune to electricity and could blast a burst of the energy at a creature within .
+
+Combat
+Bluespawn ambushers hunted by burrowing below the surface of the ground and waiting for a creature to come close. When they sensed potential prey, they would burst out of the ground and use their electrical blast ability. If the victim survived the first such attack, they would burrow again and pursue (if it fled) and repeat as needed. If this strategy could not be used, then bluespawn ambushers relied on their claws and fangs instead. They would flee if severely injured, unless commanded to fight to the death by an evil dragon or a follower of Tiamat.
+
+Ecology
+Bluespawn ambushers worshiped Tiamat and willingly served evil dragons and other followers of her. They were valued by other dragonspawn as guardians and sentinels.
+
+These dragonspawn preferred to live in warm deserts, particularly sandy deserts, and established a seasonal migration path between watering holes. They shared the draconic hoarding instinct and would bury any treasure they found near these watering holes to admire when they passed through.
+
+Bluespawn ambushers lived in tightly knit packs of four to twelve, with equal numbers of males and females. They were carnivores who hunted small or larger creatures, although a single small creature could sustain a single ambusher for up to a month. After finishing a large meal, ambushers would retreat below ground, leaving only their noses uncovered, and rest. If another creature came to investigate the carcass of the meal, the bluespawn did not hesitate to attack them.
+
+Bluespawn ambushers mated for life and produced eggs once every ten years. The females buried the eggs and then hunted after laying, leaving the males to stand guard. The males used electricity bursts to signal the females when the eggs started hatching. Both parents helped to care for the young ambushers. Bluespawn ambushers were much more aggressive when protecting a nest or young.
+
+Homelands
+Bluespawn ambushers could theoretically be found anywhere that blue dragons lived, but most of the population in Faerun lived in Unther. Several packs there served a hobgoblin worshiper of Tiamat named Hurthoogul.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Bluespawn burrower
+
+Bluespawn burrowers were large dragonspawn that lived in burrows in the deepest parts of deserts.
+
+Description
+Bluespawn burrowers were large creatures that stood  tall and were about 8‒10 feet (2.4‒3.0 meters) long. The front claws were massive, to aid in digging, and the tail had numerous spikes on it. Bluespawn burrowers weighed about . Their scales were normally a pearlescent deep blue, although the young were a dusky gray color.
+
+Combat
+Bluespawn burrowers preferred to ambush their victims, bursting out of the sand and quickly attacking with their tail and electric blast. Bluespawn burrowers had a strong affinity for lightning, so much so that it coursed through their body constantly.
+
+Ecology
+Bluespawn burrowers were not the most intelligent spawn of Tiamat, but they were often employed by other dragonspawn to dig out fortifications and monuments to the goddess. Using their lightning abilities, bluespawn burrowers could even craft glass at the direction of more intelligent dragonspawn.
+
+Bluespawn burrowers preferred to live in the deepest parts of deserts near oases. However, servants of Tiamat would bring burrowers with them for building and fighting, so finding one far from a desert was not impossible.
+
+Bluespawn burrowers were carnivores who hunted in small groups. They did not require much water and could go weeks without food. They preferred to remain near oases for the steady food supply; once a pack had exhausted the area's food supply, they moved on.
+
+True to their name, bluespawn burrowers lived in burrows that were maintained by smaller pack members. Larger pack members acted as hunters.
+
+It was not known if bluespawn burrowers were capable of reproducing like bluespawn ambushers, or if they were hatched in a different way like some other dragonspawn.
+
+Appendix
+External Links
+
+References
+
+Connections
+
+---
+
+## Bluespawn godslayer
+
+Bluespawn godslayers were massive, powerful dragonspawn born to kill the most powerful enemies of Tiamat.
+
+Description
+Bluespawn godslayers were massive, draconic humanoids that stood some  tall and weighed as much as . They were covered in blue scales and had dragon-like horns and claws.
+
+Combat
+Bluespawn godslayers were at their most deadly when fighting outsiders and good dragons. They were immune to electricity and utilized it in their attacks. They had little skill at ranged attacks and preferred to fight using melee weapons.
+
+Ecology
+Bluespawn godslayers were the favored spawn of Tiamat, which they knew from hearing her distant roars in their dreams. In dragonspawn armies, they acted as heavy hitters and anchor points in the front lines.
+
+Bluespawn godslayers, although deadly and arrogant, were not very smart and had little leadership ability. They valued their skill with melee weapons and disliked wearing armor.
+
+Bluespawn godslayers were always sexless, hatching from the eggs of blue dragons. They were carnivorous creatures willing to eat anything that fell to their blades.
+
+These dragonspawn were recorded living in Anauroch, the Calim Desert, and Raurin.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Bluespawn stormlizard
+
+Bluespawn stormlizards were burly, horse-sized dragonspawn that sometimes acted as mounts for other spawn.
+
+Description
+Bluespawn stormlizards were large creatures that resembled bulky, wingless blue dragons. They normally stood about  tall at the shoulder and weighed about . Older stormlizards had darker scales.
+
+Ecology
+Bluespawn stormlizards preferred to live in warm, dry regions. They naturally formed packs of four or eight, with an equal number of males and females in each group.
+
+Bluespawn stormlizards were naturally immune to electricity, and could release electrical surges between them. They could also confer this immunity to other dragonspawn within  of them.
+
+Bluespawn stormlizards reproduced on their own. Each stormlizard egg had two hatchlings in it, always producing same-sex twins. The twins would be inseparable from birth, and would grow listless and despondent if separated. If one twin died, the other would go on a mindless killing spree until it, too, died.
+
+Bluespawn stormlizard pairs naturally sought out an opposite-sex pair for mating, but did not mate for life: within a pack, mates were known to change. The pairs used the same lair for their eggs, and twin fathers raised their sons together, and twin mothers raised their daughters together.
+
+Bluespawn stormlizards recognized other dragonspawn as kindred creatures and refused to attack them. They could be domesticated if raised from the egg and trained as mounts, although the twins could not leave sight of each other.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
 ## Blood Wars
 
 Blood Wars was a collectible card game (CCG) created by TSR, Inc. and based on their popular Planescape campaign setting.
@@ -792,6 +7972,3090 @@ Appendix
 External Links
 
 Further Reading
+
+References
+
+---
+
+## Blood horse
+
+Blood horses, also known as a blood pegasi, were winged, nightmarish equines that resembled a cross between a horse and a dire bat.
+
+They were often used as mounts by the sky mages of the Zhentarim.
+
+Description
+Blood horses resembled sleek, lithely muscled horses about  tall at the shoulder and weighing approximately . Blood horses also had massive bat-like wings with a  wingspan. They had a jet-black coat and small, pink eyes. The nostrils were oddly flared. Blood horses had hooves that closely resembled talons, and they had sharp carnivore teeth. The tail was thin and hairless.
+
+Abilities
+Blood horses could see by emitting high-frequency sounds for up to . However, a silence spell or effect could negate the ability, forcing them to rely on their poor (only  at most) darkvision. They could also detect good at will.
+
+Blood horses were capable of making an ear-piercing screech to partially deafen and stun potential prey within  of the blood horse.
+
+While flying or walking, a blood horse could easily carry up to . They could less easily carry up to, or as much as  with great effort.
+
+Ecology
+Blood horses were carnivores that would eat almost any prey, but they preferred the taste of fresh blood, and were known to pin and drain enemies during combat. They were fickle, cruel creatures that typically lived in warm or temperate forests, hills, and plains.
+
+Blood horses were known to live alone, in pairs, or in herds of 5-8 individuals. They matured at the same rate as normal horses.
+
+Blood horses were fairly intelligent and understood Common, although they could not speak.
+
+History
+Historically, blood horses were originally created by another being and did not naturally appear on Toril. Their progenitor was a former Red Wizard of Thay that later joined the ranks of the Zhentarim.
+
+As of the mid–14 century DR, a blood horse filly or colt was worth about 8,000 gp. The cost for rearing a foal was about one quarter that price.
+
+Appendix
+See Also
+Pegasus
+Black unicorn
+References
+
+---
+
+## Blackthorn Belgadar
+
+Blackthorn Belgadar was a merchant and author who lived during or before the .
+
+History
+Blackthorn was known for writing a book called A Merchant's Sagacity. In the book, he mused on a variety of subjects such as the folly of not learning from the mistakes of others and the darkness that dwelled within each person.
+
+Appendix
+References
+
+---
+
+## Blackthorn (disambiguation)
+
+Blackthorn might refer to:
+
+ Blackthorn, the assassin
+ Blackthorn Belgadar, the merchant and author
+ Llachior Blackthorn, the duke of Cape Velen
+
+---
+
+## Black Bull's Tail
+
+The Black Bull's Tail was a poor-quality inn and tavern found in the village of Uluvin, in the Delimbiyr Vale.
+
+Services
+While the tavern offered discretion, in the way of private rooms, its libations were limited to watered-down beer and old Winter Wine. While the quartered-off rooms were not intended to be used as such, some travelers turned them into makeshift sleeping quarters.
+
+History
+The Black Bull's Tail was nearly completely destroyed by a group of hill giants during the late 15 century DR.
+
+Appendix
+References
+
+---
+
+## Blue Clam
+
+The Blue Clam was a tavern located in the docks of Termalaine, within the Ten Towns of Icewind Dale. It was the favored establishment of fishermen and its decor was a reflection of its clientele.
+
+Interior
+The Clam had a number of long hearths that were lined with engraved tables and benches. Its walls were decorated with scrimshaw, carved from the bones of knucklehead trout, and fish that were mounted as trophies.
+
+Services
+In addition to drinks, the tavern offered spiced chowder and the occasional roasted hare or moose.
+
+Appendix
+References
+
+---
+
+## Black ice
+
+Black ice was a mineral found throughout a few areas of the Frozenfar in northwest Faerûn. It was magical in nature, having been permeated with the evil quintessence of the monolith known as the Cryshal-Tirith.
+
+History
+In 1369 DR, a small deposit of black ice was formed in the corrupted pool of radiance under Castle Cormanthor when a dracolich Pelendralaar's phylactery was plunged into the exposed node of the weave.
+
+The destruction of Cryshal-Tirith in the mid–14 century DR did not end the evil corruption of the artifact known as Crenshinibon. Rather, a remnant of the power formed black ice beneath the ice at the site of its destruction.
+
+The substance was discovered by the dwarven stone-carver Baerick Hammerstone, sometime before the, while being influenced by the undead Akar Kessell. After some time, Hammerstone and his dwarves managed to mine out hundreds of pounds of the black mineral.
+
+Around the same time, the Ice Witch of the North either discovered or built herself, an entire tower made of black ice.
+
+Properties
+Black ice was extremely resilient and able to withstand the swing of a pickaxe made by an experienced miner.
+
+In addition, black ice exuded a malevolent influence over those that kept it within their possession. Over time it corrupted their spirits.
+
+Applications
+When heated, black ice could be shaped and carved for use in crafting jewelry, armor, and even weapons.
+
+Baerick Hammerstone carried a maul and wore a suit of armor that were each crafted in part from black ice.
+
+Appendix
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Bloodril's Snug Haven
+
+Bloodril's Snug Haven was an inn located in the town of Bryn Shander during the 14 century DR. It was one of the oldest establishments within the town's walls.
+
+Structure
+Like many of Bryn Shander's inns, the Snug Haven was poorly constructed. It stood high above ground level, which offered little protection from icy winds and freezing temperatures.
+
+Atmosphere
+The poor construction of the ironically named Snug Haven left guests of the inn cold and shivering.
+
+Appendix
+References
+
+---
+
+## Blackstone (building)
+
+Blackstone was the name of the Theresparin family manor in Cormyr in the 11 century DR. The family and all their belongings disappeared sometime in the  and the home was briefly rumored to be haunted before it was consumed in a fire only days after the disappearance was discovered.
+
+Location
+The Blackstone manor was located on the west side of the Starwater River north of Marsember where the river bent to the south. It was situated on a high stone ridge and overlooked the river. In the 11 century, the hill was covered in dense forest. By the 1370s DR, it was a grass-covered place for sheep to graze.
+
+Structure
+The building was constructed primarily of stone with wooden beams for roof support. There was also a stable for horses.
+
+Interior
+The Theresparin family was relatively wealthy and Blackstone was finely furnished. The main dining area was a feast hall surrounded by elaborately carved balconies.
+
+Activities
+The family business of weaving and raising sheep was headquartered at Blackstone.
+
+Defenses
+Other than stone walls and stout doors, the manor had no special defenses. Years later, after it fell into ruin, the Crown built a watchtower on the site near the rocky remains.
+
+History
+Blackstone was built by the Theresparin family when their fortunes were on the rise, having made good profits from their weaving business and real estate. Naronder Theresparin was the patriarch of the family at the time and, one day in 1018 DR, he failed to show up at an important meeting with court officials. This was unusual behavior for the merchant who had a reputation for paying attention to details. When news of other missed appointments was passed up to the authorities, it became an item on the king's docket. King Arangor decided to send four men to Blackstone to determine the reason for the absences.
+
+The king chose Lareth Huntsilver, Aiken Wyvernspur, Gardrath Roaringhorn, and Aubleth Crownsilver to investigate the Theresparin disappearance because he was impressed with their willing cooperation and resourcefulness regarding the mysterious Harp of Healing incident earlier that year. The four rode out to Blackstone and found it completely empty and devoid of life. The furnishings were gone, the walls were bare, the cellars were empty, and even the horses and their fodder had been removed. They searched the entire house, from rooftop to cellar, and found nothing except a very large bloodstain covering the floor of the feast hall, as if many humans or a number of large beasts had been slaughtered there. Two of them stayed behind to guard the place while the other two rode to the nearest outpost to request assistance from the War Wizards and then returned.
+
+The four courtiers decided to camp in the house, just in case suspected bandits came back to search for well-hidden wealth (which was rumored to be considerable). They set up watches and took turns resting, but no tangible creatures disturbed them that night. However, all four men heard a wavering woman's voice whispering in their ears, saying things like "Gone, all gone away", and "Elven work, without a doubt". They whirled their swords all around the empty space, hoping to strike an invisible being, but made no contact. Lareth Huntsilver reported also hearing a man's voice using a lilting tone to say "The blood calls them down. There is no escaping them." and, closer to dawn, "Watch for the sword that turns into a pegasus. She who bears it can break the gates."
+
+The War Wizards arrived the next day and cast their spells, but all attempted magical means of finding the missing people and their belongings failed to reveal their fate. Having found nothing new, the four investigators and the wizards departed for their homes, leaving Blackstone abandoned. On the night of the following day, the manor house was seen burning furiously like a beacon, despite not containing much in the way of fuel. Just before dawn, the building collapsed into its cellars, leaving nothing but fire-seared stones to bear witness to the intense heat.
+
+Eventually, the Crown took possession of the land and held it in stewardship for the Theresparins in case they ever returned. A watchtower was built on the hill and used as an output for the Purple Dragons.
+
+Rumors & Legends
+Rumors of the haunting of Blackstone were borne out of the experiences of the four investigators who all reported hearing at least one whispered voice during their night of vigil. The large amount of blood apparently spilled on the premises was cause for speculation that the Theresparins were tortured into revealing where their material riches were hidden. According to the family accountant, their riches amounted to at least 80,000 gold pieces and several times that amount in trade bars and gems.
+
+Appendix
+References
+
+---
+
+## Black sickle
+
+A black sickle, also known as a blightbringer, was a magical sickle of unholy power.
+
+Powers
+In combat, the black sickle could be wielded as a sickle +2.
+
+This evil weapon was the bane of plants and plant-based creatures. Upon striking a normal plant, it suffered an instant withering death along with all other normal plants and vegetation within a radius of 30 feet (9 meters). Plant-based monsters (myconids, shambling mounds, treants, and so forth) had a chance of resisting this herbicidal fate, but even if they managed to avoid it, they were compelled to make like a tree and leaf the area at once.
+
+Appendix
+See Also
+ Golden sickle
+References
+
+---
+
+## Blood warrior
+
+Blood warriors were previously living human fighters of the Moonshae Isles who had been transformed into powerful undead warriors through the dark magic of Kazgaroth.
+
+Description
+Blood warriors were similar in appearance to decaying zombies, but with burning red eyes and armed with weapons. As they transformed from life into undeath, their skin turned pasty and pale and their eyes became clouded as they sunk into their sockets. Their skin became stretched across their skulls, giving them a terrifying appearance. When presented with the chance to kill, their eyes lit with an inner fire.
+
+Personality
+They were extremely bloodthirsty, absolutely loyal to Kazgaroth, and had unwavering morale. They were also intelligent, and while they fought without fear of death or pain, they did not throw themselves into unwinnable fights.
+
+Combat
+Much like vampires, blood warriors had to kill to preserve their unholy vitality. For each week that went by without taking a life, the warriors lost more of their essence until they died or regained it through slaughter.
+
+They also had the ability to fight under the benefit of a haste spell. In order to receive this power, the blood warrior leader had to perform a dark ritual involving human or demihuman sacrifice and then bless his soldiers with the spilled blood of the victim. This effect could also extend to the blood warriors' mounts. As undead creatures, the blood warriors were immune to the aging brought on by the haste spell.
+
+Society
+A unit of blood warriors consisted of 50–500 soldiers under a leader, all of whom were under Kazgaroth's control. Kazgaroth could form one of these units every time he came out of hibernation to spread terror and destruction throughout the Moonshaes. He did this via a corruptive mass charm that transformed a living contingent of soldiers into his blood warriors, although this power could only succeed if the troops already had a strong commander who could enact Kazgoroth's will. The warriors' horses would also assumed similar undead properties, becoming gaunt and skeletal but seemingly immune to fatigue.
+
+Notable Blood Warriors
+ Laric, the captain of the Bloodriders during the Darkwalker War.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blackland Ironhoof
+
+Blackland Ironhoof was a centaur who ran the Agri Plantation in Thay circa 1362 DR and was the father of Wynter.
+
+Activities
+Blackland ran the biggest plantation in northern Thay. He taught his son Wynter the plantation business until the young centaur rebelled and left Thay out of disdain for the country's slavery.
+
+Personality
+Blackland was a proud Thavian who felt deeply patriotic towards his country and its ways. He had no hesitation beating slaves and killing the ones who were too old or sick to work.
+
+He feared the Zulkir of Necromancy Szass Tam yet hoped the lich would take over the tharchion where the plantation was located as working for a powerful necromancer meant power for Blackland himself.
+
+History
+Around 1352 DR, Blackland's son Wynter left the plantation his father worked at and left Thay, eventually becoming a Harper.
+
+By 1362 DR Blackland Ironhoof had been running the plantation for some time, making almost all of his slave purchasing in Eltabbar, while the Agri Plantation had a good slave breeding program in place.
+
+Appendix
+Appearances
+Red Magic
+
+References
+
+---
+
+## Blacksteel
+
+Blacksteel was a spell used to help cloak and conceal weapons.
+
+Effects
+Though this spell could be used on any weapon, it was commonly cast upon metal or bladed weapons. When cast blacksteel temporarily changed the weapon into a dark and silent tool. Light did not reflect off of a weapon under the effects of this spell, nor did the weapon make any sound when striking another object including if the weapon was shattered or destroyed. Any blood shed from the weapon would adhere to the weapon without spilling or splattering.
+
+This spell could be used on both magical and mundane weapons. The spell would be terminated if the weapon came into contact with any form of magic.
+
+Components
+In addition to verbal and somatic components, this spell required a pinch of iron filings and a scrap of cobweb to cast.
+
+Appendix
+References
+
+---
+
+## Blackthorns
+
+Blackthorns was a short-lived, but useful, defensive spell.
+
+Effects
+When cast this spell created a 10 ft. thick ring of thorns surrounding the caster. This ring of thorns terminated at the height of the caster's chest and was open on top. Once cast the ring of thorns could not be moved by physical or magical means. The ring was immune to fire but could still be hacked apart by weapons.
+
+The thorns of the ring were exceptionally sharp, causing a fair amount of physical harm to any creature attempting to pass through them to reach the caster. The thorns appeared to be even more harmful if a creature tried to aggressively force their way through them.
+
+While standing within the ring the caster enjoyed some slight additional protection from physical harm. The caster could also move through the ring unharmed for the duration of the spell.
+
+While useful, the blackthorns spell only lasted for six minutes once cast.
+
+Components
+In addition to verbal and somatic components, this spell required three thorns to cast. Whittled wood or bone fragments that resembled thorns could also be substituted.
+
+Appendix
+References
+
+---
+
+## Bladeleap
+
+Bladeleap was a wizard spell used on bladed weapons.
+
+Effects
+This spell caused a bladed weapon to spring from their hand to strike a target of their choice. The caster did not need to be skilled with the weapon used for this spell.
+
+This spell could only be used for a single attack with the weapon. Once the blade left the caster's hand it did not return on its own, nor was it consumed by the spell.
+
+Components
+In addition to verbal and somatic components, this spell required a weapon and either a hair from the caster or a thread from their clothing to cast.
+
+Appendix
+References
+
+---
+
+## Blood golem
+
+A blood golem was a horrific golem fashioned from the coagulated blood of beings sacrificed to dark gods by evil priests and intended to deliver death and destruction to their foes.
+
+Creation
+Making a blood golem was a costly, difficult, and above all bloody process. The creator needed to be capable of a high level of divine magic, and required the spells animate objects, bull's strength, gentle repose, and heal. Materials and components costed a total of 50,000 gp. But most of all, they needed blood, a lot of blood. This had to come from no less than sixteen humans or humanoids of similar size who had been sacrificed to their deity. Draining this blood efficiently, rather than spraying it everywhere, required some surgical knowledge.
+
+While the blood golems' original creators were content with their crude, raw forms and the mess they made, later creators added an extra step. They sealed their blood golems in custom-made, large-sized suits of +1 full plate armor (costing 4,150 gp) and fused masterwork weapons (typically heavy flails) to their arms, and even equipped them with fuel tanks to store extra blood. More magical or special armors or weapons could also be employed. Blood golem armor could be reused for another blood golem, but was no wearable by others; the magic armor did not change size to fit. If the armor and reservoirs were removed or destroyed somehow, the blood golem reverted to its raw form.
+
+Description
+In its raw form, a blood golem was a vaguely humanoid mass of coagulated blood that was thickened and semisolid, colored red and black. It continuously leaked blood, especially when it moved, and this attracted swarms of flies and other flying pests.
+
+When encased in armor, the blood golem was a strange, seemingly mechanical figure, girded all over in metal plating and with heavy flails fused to both arms. It had two spherical reservoirs mounted on the shoulders that held extra blood for fuel, and these were connected to the golem via metal pipes and valves. These were not perfectly sealed, so they still leaked blood through the pipes and seams. The unholy symbol of their faith could be etched into the armor plating, but this would soon be obscured by blood both fresh and crusted. They emitted disturbing grinding and whirring noises.
+
+Combat
+The blood golem was a direct but brutal combatant, targeting the nearest enemies and at random otherwise and simply hitting them with whatever weapon it was equipped with: slamming with its limbs in its raw form, or lashing with the heavy flails attached to its armored form. However, it could also spin its entire upper body around at shocking speed for several seconds, unleashing a whirlwind of death as it attacked all foes within a radius of around . In the several seconds after this, its actions were limited, being only able to move or make one plain attack. It was slow even for its size, and unable to run.
+
+Abilities
+Due to its sloppy construction, a blood golem continuously leaked the very fluid that comprised it, losing a little of its resilience each day whether it was standing still or exerting itself in combat or labor. Armor would halve, but not eliminate, the rate of blood loss. A fully fueled blood golem was quite robust but would run down in only thirteen days, or twenty-six days if sealed in armor, after which it was destroyed, leaving only the armor.
+
+To counter this and keep functioning, a blood golem could absorb or suck the blood from other creatures, either alive or slain no more than an hour previously. Both blood golem and victim needed to be immobile; a living creature was typically restrained, unconscious, or otherwise helpless. If freed before siphoning was complete, the victim was weakened by blood loss. It took around one minute to drain an ordinary human and this would fuel an unarmored blood golem for only five days, or an armored one for ten.
+
+To extend fuel reserves, an armored blood golem was equipped with two spherical reservoirs, which could together hold the blood of two average humans. The blood golem could freely draw from this to make up for daily blood loss or damage sustained in combat.
+
+Being a golem, it was immune to all magic, including all spells and similar powers and other supernatural effects. However, certain spells had unexpected effects due to the blood golem's unusual organic composition. A gentle repose spell (which prevented decay in dead flesh) slowed it for around 18 seconds and horrid wilting (which evaporated moisture from living matter) caused some damage to the clotted blood body, while a regenerate spell repaired a little damage.
+
+Activities
+Blood golems were intended to guard temples to evil and slaughter enemies of the faith, either alone or in groups of up to four. While these mindless, tireless constructs could stand unmoving for days on end, their need for fresh blood and resupply made them unsuited for isolated locations where few victims visitors could be expected. Where they were kept, their priests gave them prisoners and fresh corpses with which to refuel themselves.
+
+Personality
+While lacking any true intelligence, a blood golem was yet cruel and spiteful in battle. They seemed to gain some satisfaction from killing opponents. They couldn't speak.
+
+Notable Blood Golems
+The Cyricists under Skull Servant Bineera Ethar once obtained a blood golem, among other constructs and monsters, and gifted it to their Sharran allies in Despayr's plot to tear apart the Weave. In the, the Sharrans had it stationed in the North Tower in the Black Rift in the Plane of Shadow, where it attacked all intruders (identifying and ignoring those displaying symbols of Shar and Cyric, shadar-kai, and shadowslain lizardfolk. It drained corpses of blood and tossed their bodies onto the surrounding plateau.
+
+Deep beneath the ruins of a castle in Tethyr, a blood magus named Ixin left a blood golem to guard their one-way portal of blood to Calimport.
+
+Appendix
+Background
+First appearing in Dragon #292: "Living Greyhawk Journal" and Fiend Folio (3 edition), this construct is originally known as a "blood golem of Hextor", being made by priests of Hextor, a god of tyranny of Oerth in the Greyhawk setting. Hextor has no known presence in the Forgotten Realms setting, but Cormyr: The Tearing of the Weave included this construct under the generic name "blood golem", making its Realmsian origins unclear. Accordingly, this article adopts the latter name, preferring the later, Realms source, and ignores the Hextor and Greyhawk connections. It is assumed that blood golems can be created by priests of any evil god who accepts blood sacrifice and doesn't mind a mess.
+
+It is unknown if the Cyric worshipers in this adventure module created the blood golem themselves or if they obtained it elsewhere, before giving it to the Shar worshipers. The suggested counterparts of Hextor in the Forgotten Realms Campaign Setting 3rd edition, page 9, are Loviatar and Bane, whose tyranny-focused church was partially supplanted by the Cyricists, suggesting a possible creation among the church of Bane, but this is only speculation.
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Blushing Nymph
+
+The Blushing Nymph, or just the Nymph, was a festhall in the Castle Ward of Waterdeep in the mid–14 century DR.
+
+Location
+It stood on the north side of Rainrun Street, two buildings west of the corner with Cook Street.
+
+Inhabitants
+The mage Zabbas Thuul rented rooms here around 1372 DR.
+
+Features
+The backyard or alley behind the Blushing Nymph was the haunt of stray cats and garbage. The staff tossed drunks out the door here too.
+
+From an oubliette (in fact, a covered garbage pit) in the alley, a passage known as the Long Dark Stair led down into the first level of Undermountain.
+
+Appendix
+References
+
+---
+
+## Blue Mermaid
+
+The Blue Mermaid was a tavern in the Dock Ward of Waterdeep in the mid–14 century DR. It was owned by Mother Jalyth Hlommorath in the mid-1360s DR.
+
+Location
+This tavern stood along Ship Street, between Keel Alley and Oar Alley.
+
+Atmosphere
+Volo described it as a perfectly safe place with perfectly safe patrons, and accordingly he called it "boring".
+
+Description
+The tavern was well appointed and clean, if a bit tired.
+
+Services
+It was known for good ale and bad wine.
+
+Features
+From a dry well in the cellar, a passage known as the Blue Mermaid Passage led down into Skullport.
+
+Appendix
+References
+
+---
+
+## Blood lightning
+
+Blood lightning was a bizarre wizard spell.
+
+Effects
+This spell could be used on the caster or anyone they touched. Once cast, blood lightning was undetectable until the target of the spell bled. A remove curse spell could negate the spell if cast before blood lightning was activated.
+
+Once they began to bleed from an injury, the target of this spell had ten minutes where they could either heal themselves a bit or lash out with the spell's energy. If released as an attack blood lightning appeared as a web of red lightning shooting from each of the caster's bleeding wounds. Any creature within a  radius of the caster would suffer intense harm from the lightning attack. The caster was unable to protect anyone within striking distance from harm.
+
+Components
+In addition to verbal and somatic components, this spell required the caster or the spell's target to bleed for its material component.
+
+Appendix
+References
+
+---
+
+## Black Chronology
+
+The Black Chronology, also known as the Shadow Roll, was an alternate prophecy by the Lost Sage, Augathra the Mad, who penned the Roll of Years. In addition to her daytime visions that were recorded in the Roll of Years, she experienced dark visions at night while sleeping and these she wrote down in a book that eventually became known as the Book of the Black. She believed that the goddess Shar was the source of these revelations and that they were part of a plan by the Dark Goddess to destroy the Weave and its embodiment, Mystryl.
+
+History
+Augathra began having her nightmarish visions around  and they propelled her to wander Toril, slowly driving her insane. The Book of the Black was lost for over a millennium until the, when the Dark Diviners of Myth Drannor discovered it in the Fane of Shadows, a multi-planar temple that roamed the planes in service to various shadowy deities. The sages of the Dark Diviners studied the tome and thought they discovered a weakness or vulnerability in Shar's plans or perhaps the goddess herself at some point in the future, and they recorded their deciphering of the Book in their own tome called The Leaves of One Night. When Shar learned of this, she cursed both books to be illegible and then had her followers steal both works.
+
+In the, adventurers investigating a false temple of Mystra in Wheloon eventually traveled to the Monastery of the Ebon Dome on the Plane of Shadow. There, they confronted and defeated the Cyricist Skull Servant, Bineera Ethar. On her person, they found an unfinished letter to her superior, Blackwill Haarken Akhmelere, and a piece of parchment that purportedly contained the first thirty-four years of the Black Chronology and, more importantly, the matching names from the Roll of Years.
+
+A Portion of the Black Chronology
+The scrap of parchment believed to have been written by a Sharran monk of the Monastery of the Ebon Dome contained the following list:
+ Year  Roll of Years  Black Chronology 1352 DR  Year of the Dragon  Year of the Lost King 1353 DR  Year of the Arch  Year of Masks 1354 DR  Year of the Bow  Year of Great Reaping 1355 DR  Year of the Harp  Year of Retreat 1356 DR  Year of the Worm  Year of the Drow 1357 DR  Year of the Prince  Year of Spell Flames 1358 DR  Year of Shadows  Year of Ascension 1359 DR  Year of the Serpent  Year of the Carnival 1360 DR  Year of the Turret  Year of Armies 1361 DR  Year of Maidens  Year of the Golden Discovery 1362 DR  Year of the Helm  Year of the Sun 1363 DR  Year of the Wyvern  Year of Winter 1364 DR  Year of the Wave  Year of Lords 1365 DR  Year of the Sword  Year of Joyous Elves 1366 DR  Year of the Staff  Year of Icy Waters 1367 DR  Year of the Shield  Year of Unmasking 1368 DR  Year of the Banner  Year of the Sons 1369 DR  Year of the Gauntlet  Year of the City's Sorrows 1370 DR  Year of the Tankard  Year of the Deep War 1371 DR  Year of the Unstrung Harp  Year of the Toppling Towers 1372 DR  Year of Wild Magic  Year of Dark Returns 1373 DR  Year of Rogue Dragons  Year of Madness 1374 DR  Year of Lightning Storms  Year of the Unraveling 1375 DR  Year of Risen Elfkin  Year of Harsh Goals 1376 DR  Year of the Bent Blade  Year of False Hopes 1377 DR  Year of the Haunting  Year of the Black Banner 1378 DR  Year of the Cauldron  Year of Broken Hearts 1379 DR  Year of the Lost Keep  Year of Lost Wisdom 1380 DR  Year of the Blazing Hand  Year of the Dull Blade 1381 DR  Year of the Starving  Year of the Fool 1382 DR  Year of the Black Blazon  Year of Unwelcome Guests 1383 DR  Year of the Vindicated Warrior  Year of Unjust Rewards 1384 DR  Year of Three Streams Blooded  Year of Stolen Thrones 1385 DR  Year of Blue Fire  Year of the Revelation
+
+Appendix
+References
+
+---
+
+## Bloodaxe
+
+The Bloodaxe was an enchanted battleaxe that was the personal weapon of the First Axe of Ruathym, Rhaumon Bloodaxe.
+
+Description
+This powerful axe had a +3 enchantment. It's companion shield was the Redshield.
+
+History
+Circa 1358 DR, several undead beings, such as wights, spectres, and wraiths, watched over the final resting place of the First Axe of Ruathym, Rhaumon Bloodaxe. Patrolling the mansion to the northwest of Ruathym, they would attack intruders on sight, making it difficult for anyone to access the magical axe and shield that lay there.
+
+Notable Owners
+ Rhaumon Bloodaxe, First Axe of Ruathym
+
+Appendix
+Appearances
+Video games
+ Treasures of the Savage Frontier
+References
+
+---
+
+## Blood hawk
+
+Blood hawks were a species of deadly predatory bird.
+
+Description
+Blood hawks were about the same size as a regular hawk with a large wingspan. They had speckled grey feathers. Their beaks and talons were strong and extremely sharp.
+
+Behavior
+Male blood hawks hunted in groups called murders. Blood hawks were more vicious than other birds-of-prey. They possessed an insatiable desire for fresh blood. They were known to attack a target merely for the pleasure they gained from killing.
+
+Combat
+Blood hawks were very deadly opponents. They were very fast and maneuverable. They were stubborn fighters, continuing to attack a target even if they suffered injuries.
+
+History
+Evil bird maidens in Zakhara were known to shapeshift into blood hawks.
+
+Ecology
+Male blood hawks often took gems from the corpses of their prey, which they used to decorate their nests to attract females.
+Diets
+Blood hawks were obligate carnivores and hunted humanoids, particularly humans. They got their name from their habit of consuming as much fresh blood as possible.
+Habitats
+Outside of Faerun, blood hawks were known to be encountered in various deserts in Maztica.
+
+Beyond the Prime Material plane, blood hawks could be found in the plane of Acheron.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Where Secrets Lie • City of Danger • Ruined Prospects • The Black Road • Breaking Umberlee's Resolve
+
+External Links
+
+ D&D Beyond
+References
+
+---
+
+## Blacksaddle
+
+The Barony of Blacksaddle was a small kingdom in the southern Border Kingdoms in the mid–14 century DR. It was located right on the northern edge of the Shaar.
+
+Geography
+Blacksaddle was a kingdom filled with small hills and roughly triangular in shape, with the towns of Bloutar, Syrnt and Telcharn marking each corner of the triangular border. the southern border was marked by the Shaarwall, a strip of hills separating the Border Kingdoms and the Shaar. Blacksaddle Keep was located in central Blacksaddle.
+
+Government
+The barony was ruled by the Blacksaddle family. The baron ruled with the assitance of three Lords. The Lord Marshal was in charge of the defenses of the kingdom, the Lord Wizard handled magical affairs, and the Lord Watchful acted as magister and ombudsman.
+
+Trade
+The main sources of revenue for the Barony was farming, stonecutting and crafted items. The barony was covered in small farms, providing enough agricultural product for domestic use as well as a trade good to be exported. Blue and red marble was quarried in the Shaarwall. Gems were often found in these quarries and were used by artisans to craft or decorate a range of items.
+
+Defenses
+Raids and skirmishes are commonplace due to the location and prosperity of the barony along the northern edge of the Shaar. Stone watchtowers were constructed across the barony and the citizens are always armed while travelling. The Swords, heavily armed cavalry numbering just under 400 members, was the army of the kingdom.
+
+The barony has gained a far-reaching reputation for both their military skill and constant skirmishes. As a result, adventurers from as far away as the Vilhon Reach and Waterdeep travel to the barony to improve their skills in battle.
+
+History
+Uorn Blacksaddle founded the barony after defeating the warriors of two villages. He then forcefully re-settled the residents across the new kingdom.
+
+Inhabitants
+In the mid–14 century DR, the key inhabitants of the barony were:
+ Thaltor Blacksaddle, the baron and ruler of Blacksaddle.
+ Aldrorn Raegrel, the Lord Marshal.
+ Thaerarla Summercloak, the Lord Wizard.
+ Haslan Faerndar, the Lord Watchful.
+
+Appendix
+Further Reading
+
+References
+
+Connections
+
+---
+
+## Blade in the soul
+
+Blade in the soul was a wizard spell from the school of enchantment.
+
+Effects
+This spell compelled a target to perform a specific task or be gravely injured. The target did not need to be visible to the caster if they were within range, but the caster did need to know their name or be able to recognize them.
+
+The target felt a tingle near their heart as the caster held a blade, typically a dagger, when casting the spell. The sensation was followed by a mental command from the caster and the choice to either follow that command or perish. The command could be as vague or as detailed as the caster wished.
+
+Targets accepting the commanded task were known as "bladed ones". In order to check on the bladed one's progress the caster could establish mental contact with them at any time and see and hear what the target experienced. This could be maintained for as long as the caster concentrated. The spell also allowed the caster to teleport without error to the target's side a single time during the spell's duration.
+
+If the bladed one died for any reason they would rise as a zombie and travel to the caster's location. When the caster touched the zombie it would then become a completely loyal servant for the caster.
+
+Components
+In addition to verbal and somatic components, this spell required as material components a bladed weapon to cast. The weapon was consumed when the spell was cast.
+
+Appendix
+References
+
+---
+
+## Bloodbag imp
+
+Bloodbag imps were a specialized variety of imp that served the Nine Hells as an informal nurse corps.
+
+Description
+Bloodbag imps were  tall humanoids with short limbs, stubby digits and powerful wings. They were almost as wide as they were tall due to being bloated with gallons of blood, the source of most of their weight. Their internal organs floated freely within the blood filling their torsos, held in place only by their pink, delicate and semi-translucent skin. They were preening creatures with long, crooked teeth that could make them difficult to understand despite their ability to speak.
+
+Abilities
+Bloodbag imps, with their powerful wings and aerial competence, were good fliers, but kept from greater excellence by their heavy weight, and were slow and ungainly creatures in general. They had some of the common devil powers: the ability to see perfectly in normal or magical darkness, an accelerated rate of regeneration, resistance to unsilvered weapons, and the imp ability to polymorph into certain small creatures. They also had spell-like abilities, including the power to castdetect good, detect magic, and invisibility (on itself only) at will, and vampiric touch once per day.
+
+The iconic ability of the bloodbag imps was their power to grant a supernatural blood transfusion. Other creatures could drink a bloodbag imp's blood to heal themselves, so long as the imp was willing, conscious and remained inactive during the process. Although this damaged the imp, it was not lethal and they quickly recovered. Bloodbag imps also possessed the unique ability to curse a creature within  of themselves, causing the subject to be wounded by strikes from any weapon and bleed profusely when injured, a curse which could be used up to three times each day. In addition, the bite of a bloodbag imp delivered a strength-sapping poison.
+
+Combat
+Bloodbag imps preferred to stay out of direct combat and afflict enemies with their wounding curse from a safe distance.
+
+Society
+Bloodbag imps were skilled healers created by the devils as a means to restore their strength mid-battle due to their otherwise lacking access to curative magic. They were solitary creatures found throughout the Nine Hells, and could also be summoned by the spell summon monster IV. Bloodbag imps spoke the Common and Infernal languages.
+
+Notable Bloodbag Imps
+ Caedes, a bloodbag imp that served a vampire in Waterdeep.
+
+Appendix
+Appearances
+Adventures
+Dungeon #127: "Dungeon of the Crypt"
+References
+
+Connections
+
+---
+
+## Black Bucket Hunt
+
+A Black Bucket Hunt was an annual revel and treasure hunt held in Waterdeep that ultimately led into Undermountain. It was sponsored each year by a different noble family and tacitly allowed by city officials. It had no purpose or meaning beyond entertainment for apathetic and cynical nobles, but by the second Hunt, it became quite popular among the upper echelons of Waterdhavian society that were able to observe the hunt from safety on the surface.
+
+Description
+A Black Bucket Hunt began at a party hosted by a noble family. The wealthier, usually more senior members of the House sponsored the event: by providing the treasure to be hunted; paying healing fees to clergy of various faiths; and hiring wizards to facilitate the Hunt, enforce the rules, and, beginning with the second Hunt, provide visual observation of the participants while they wandered about Undermountain.
+
+At the kick-off revel (where much alcohol was available), the ceremony began with the Black Bucket being escorted by a bevy of women wearing masks. The large Bucket appeared to have seen many years of hard use and was blackened by exposure to fire. It contained tokens that were drawn by the participants to randomly determine teams. After the drawing, there were typically at least eight teams with a minimum of six persons on each team. The empty Bucket was then filled with rubies and twelve tokens that granted the bearer freedom from city taxes, fees, and fines for one year. In a flare of pageantry and showy spells, the Black Bucket was teleported away to "a secret corner of Undermountain". Likewise, monsters were summoned and sent off to provide a challenge to the hunters.
+
+The "Hunting Ground" for the event was the Dungeon Level of Undermountain with many of its exits to lower levels temporarily walled off. Prior to the event, various adventuring groups (mostly from outside the city) were hired to kill or remove the worst monsters from the Hunting Ground. Invariably, these same groups were approached by agents from noble families with an interest in the outcome of the Hunt to plant notes, disallowed weapons, and/or fake Black Buckets in the section they were clearing. In addition to the summoned monsters and those left behind by the cleansing crews (skeletons, spiders, etc.), there were other unpleasant hazards throughout the Hunting Ground, such as heaps of smelly refuse, dung slides, and "perfume bombs"—breakable bags of inexpensive, strong-scented liquids that could be thrown at rivals or creatures.
+
+After teams were chosen, the participants donned silly costumes to represent their team. They were made of thin, cheap cloth in bright colors (pink, yellow, orange, etc.) and styled to give the wearers a distinctive characteristic, such as a huge bird beak, a wagging tail, or a dozen extra tiny arms. The costumes were enchanted to glow like a torch and were the only source of light allowed on the Hunt. Likewise, all armor, weapons, and magic items were prohibited, but the contestants did their best to sneak them in. The teams then formed a loud and boisterous parade through the streets of Waterdeep in their ridiculous, luminous splendor to places where they would either be teleported into the Hunting Ground or escorted to an entrance through a cellar, and the Hunt began.
+
+Activities
+The Black Bucket Hunt served as an excuse for all sorts of misbehavior by jaded nobles. Since the teams were chosen at random, it was possible that rivals and enemies could be placed in close proximity to each other, or even on the same team. Fights commonly broke out between teams and between team members using whatever weapons were at hand or smuggled in. At best, a person might get their face rubbed in some foul substance or be doused with a perfume bomb, but it was not uncommon to be stripped of one's costume and left to wander alone in the dark. At worst, there were serious injuries, maimings, and murders.
+
+During the first annual Black Bucket Hunt, those left behind had to wait until the winning team appeared back at the revel to find out what happened, although some wizards may have spied on the proceedings with arcane eye. By the second Hunt, a modified version of arcane eye that allowed the image from the eye to be projected in the air for anyone to view was under development and was successfully cast twice. The violent and salacious images brought back were deemed greatly entertaining by the crowd and more such remote viewing was strongly demanded at future Hunts. Representatives of the Watchful Order of Magists and Protectors were tasked to watch for and prevent any other spells from being cast into the Hunting Ground. Wagering on the winner and other aspects of the event was minimal at first, but increased year by year.
+
+Outcome
+The first team to find and touch the Black Bucket was immediately transported back to the celebration where priests from the prominent churches were available for any needed healing. All winning team members—alive, dead, wounded, or malodorous—were brought back, no matter how far away they were from the Black Bucket, and then began dividing up the prize in view of the crowd, which provided even more drama. While the revel continued above, members of the Watchful Order and some soldiers rounded up the rest of the participants and brought them back. At the second annual Hunt, "consolation prizes" were given out to individuals or teams that accomplished the most impressive and entertaining successes or failures. One such prize was a large tankard made of silver with a sculpted lid in the form of a beholder decorated with gems.
+
+History
+At the time intrepid explorer Volothamp Geddarm reported on the Black Bucket Hunt in the early 1370s DR, there had been only two events thus far with plans being made for a third. The first Hunt was hosted by the Kothont family and the second was taken on by the Urmbrusks. Between Hunts, the Black Bucket was displayed in an alcove of the entry hall of Piergeiron's Palace. The guards and magical wards were increased after each of several thefts of the iconic trophy.
+
+Despite the silly pageantry and frivolous nature of the Black Bucket Hunt, the event gained a particular notoriety in Waterdeep that spread down the Sword Coast and northward as well. It was spoken of with pride to non-natives, and those that risked humiliation, injury, and death in a Hunt experienced an increase in social standing. The winners, even if they were commoners or outsiders, were welcomed into various cliques, guilds, and formal groups that otherwise would have been unreceptive.
+
+During the second Hunt, modified arcane eye spells revealed two encounters that fascinated the viewing crowd and ensured that more such spells would be cast at the next Hunt. The first was a fight between teams where Guster Ilitul was clearly shown strangling Delbert Thorp to death and then stuffing the body in some watery nook. The second was a passionate interlude between Daervin Husteem and Tlannada Gralhund that displayed more than just acrobatic flexibility. Arsten Thunderstaff II technically broke the rules by magically teleporting a large quantity of cherry fruit jelly to their location, dumping it on the randy lovers and their immediate surroundings.
+
+Rumors & Legends
+Rumors about the event stated that Halaster himself approved of the Black Bucket Hunt, but it was more likely that he was amused enough to refrain from doing unspeakable evil things to the participants. The Black Bucket itself was the subject of much speculation because its origin was not publicly known. The rumors ran the gamut of it having magical properties, being sacred to some unnamed cult, and being sentient with its own sinister agenda.
+
+Appendix
+References
+
+---
+
+## Blast spike
+
+Blast spikes were a type of dwarven mining tool.
+
+Description
+Blast spikes were three-sided, pointed wedges constructed of fine steel. They had wide, circular heads to ensure efficient hammering. They were roughly the length of an adult human's hand.
+
+Powers
+Blast spikes could only be activated by being struck with another. To ensure their safety, users typically did this by either throwing their second blast spike or strapping it to a long pole and then ramming it into the first. Once struck by another, blast spikes would unleash a large, violent explosion.
+
+Usage
+Blast spikes were designed primarily dangerous situations in which splitting or shattering a rock was required, such as removing blockages from underground rivers or waterfalls. However, they were just as easily hammered into trees, wooden structures, and even refined stone walls.
+
+In many deep dwarven caverns there were known to have been blast spikes placed, yet never activated, being used as a sort of climbing hold instead of an explosive. In terms of other alternative uses, some dwarves were known to utilize blast spikes as weapons.
+
+Appendix
+References
+
+---
+
+## Bloodbloater
+
+A bloodbloater was a type of amphibious ooze that drained blood from its victims.
+
+Description
+A solitary bloodbloater was only  in diameter, though they almost always formed swarms. These swarms usually had about 650 bloodbloaters each, making them seem like a single medium-sized creature. Individual bloodbloaters were white-red in colour, and had particularly large central bulges. They became even redder in color after a blood feast.
+
+These amphibious creatures could walk on land, but were far quicker when swimming. As with many other oozes, bloodbloaters had blindsight.
+
+Combat
+In combat, these oozes were able to rapidly drain blood from their foes. Never satisfied, they would continue to suck blood even after their small bodies could hold no more. The victims would take damage upon having their blood drained, become increasing weaker, and may even become nauseated. Spellcasters would find it much harder to concentrate on their spells whilst taking on a swarm of bloodbloaters.
+
+Bloodbloaters most often employed swarm tactics. This made them immune to spells that only affected a single target, as well as all weapons. The swarm was able to avoid critical blows, and flanking these creatures was futile.
+
+History
+In the 14 century DR, bloodbloaters were known to lurk in the sewers of Waterdeep.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Blinding light
+
+Blinding light was a type of giant rune.
+
+Effects
+Once activated this rune gave off a blinding burst of light, similar to the spell sunray, and would turn the first undead that saw it.
+
+Components
+Like most giant runes, it required no material components to cast, but the process of shaping it could take anywhere from one to eight hours.
+
+Appendix
+Appearances
+Novels
+The Glass Prison
+References
+
+---
+
+## Bluelight
+
+Bluelight was a personal cantrip that apprentice wizards could learn. It created a sphere of light that softly illuminated the immediate surroundings.
+
+Effects
+When cast, this cantrip created a  diameter sphere in the palm of the caster's hand that gave off a soft, blue radiance. The light reached only  away in all directions and did not reveal anything beyond that radius. Because of this, a viewer from far away was struck by an eerie sense that something was not right. Bluelight did not inhibit or hinder natural or magical infravision or ultravision. The glowing globe lasted as long as the caster maintained concentration on it.
+
+If the caster held an alicorn when casting bluelight, the sphere of light formed on the unicorn's horn rather than his or her palm, and moved with the alicorn. The radiance continued to emit from the alicorn regardless of the distance between it and the caster, for as long as the caster maintained concentration.
+
+Components
+This cantrip required verbal and somatic components. The caster extended an open palm and spoke a simple rhyme that included the words "blue" and "light". ("Show me true, light of blue," for example.)
+
+History
+This cantrip was described on page three of Bowgentle's Book, penned by the famous mage from Silverymoon.The three cantrips described in Dragon #97 were replaced with the cantrip spell when the 2-edition Pages from the Mages was published. The Wizard's Spell Compendium Volume Four describes all the 1-edition cantrips as examples of what you could do with cantrip.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Black Boar
+
+The Black Boar was an expensive and posh but crammed inn in Iriaebor, known for its slow service, small rooms, and meager food.
+
+Services
+The inn employed too few staff for its abundant clientele, resulting in notoriously slow service and small-portioned meals.
+
+By 1357 DR, the Black Boar put its name on ale commonly found in expensive inns and taverns across the Western Heartlands.
+
+Location
+The Black Boar inn stood to the southwest of the High Tower of Iriaebor, on the road from the city's docks, right where it split in two to circle around the tower. It was a prime location for an expensive establishment, an envy of merchants, who even tried to murder for it on a few occasions. Because of that, the owner of the inn preferred to stay incognito, keeping his name from the general public.
+
+Structure
+The inn was a large twin-towered building.
+
+Interior
+The tiny rooms and halls of the inn were furnished in exquisite luxury. The snobbery of the clientele guaranteed the establishment's full occupancy by the nightfall every single day.
+
+Appendix
+Appearances
+Azure Bonds (mention)
+
+References
+
+---
+
+## Black slaad
+
+Black slaadi, also known as void slaads, were a rare and powerful variety of slaad with unparalleled powers of entropy.
+
+Description
+Black slaadi were inherently different to other slaadi; rather than being batrachian monsters with actual bodies, black slaads were simply voids, areas of insubstantial darkness in the shape of humanoid toads. Their prehensile tongues were  long and their eyes were akin to gleaming stars that shimmered with malice.
+
+Personality
+Though typically chaotic neutral like most slaadi, black slaadi had a tendency towards evil behavior, possibly as a result of their origins.
+
+Abilities
+Black slaadi eclipsed even some ancient dragons in terms of strength, possessing many of the same powers of white slaadi. Like them, black slaadi could harness raw chaos, an incredibly dangerous substance that caustically dissolved most things like acid, which they could spit at their foes in globs or deliver with a touch of their dexterous tongues.
+
+Their power over degradation was even more fearsome than that of the white slaadi; they could blast foes with rays of entropy, create black, harmful voids, and even a swipe of their raking claws made it more difficult for their victims to recover. Black slaadi shared several of the spell-like abilities of the white slaadi as well as their ability to summon others of their kind, with the added benefit of more powerful magic and the option to summon white slaadi themselves.
+
+Combat
+Black slaadi took advantage of their superior vision to outmatch their enemies, using their truesight ability to see past trickery involving spells like invisibility and blur while creating deeper darkness to fight within since most creatures couldn't see within it. They teleported across the battlefield, rending their opponents and blasting them with entropic power.
+
+Society
+Black slaadi were known to become clerics, supposedly serving and perhaps even worshiping the slaad lords.
+
+Ecology
+Like green and death slaadi, white slaadi that survived for over a century were known to enter a period of self-isolation, reappearing after over a year as black slaadi. However, the process was potentially different from that undertaken by their lesser counterparts. When ordinary slaadi underwent the process of exile, there was a high chance that they would fail and be reabsorbed into the primal chaos of Limbo. Black slaadi, on the other hand, were formed when slaadi had their physical forms engulfed by the entropic energies of the Abyss, transforming them into living embodiments of the destructive force.
+
+The energy that composed the void slaadi was similar to that wielded by the Lord of Entropy, Ygorl. Sometimes Ygorl personally selected certain void slaadi to undergo a special transformation, with his touch turning them into special black slaadi known as entropics. Entropics were his closest followers, but far more fragile than normal black slaadi and far more direct, simply charging directly into combat and only attacking from range when unable to reach their enemies.
+
+What made them dangerous was that upon death they would transform into entropic voids, drifting, barely sentient black holes that pulled enemies towards them until destroyed. A destroyed void was still problematic, since in their wake they left only a pocket of nothingness from which, if the slaadi had fought alongside Ygorl, a new entropic would likely appear.
+
+Appendix
+See Also
+ Entropy
+Notes
+
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Blink (cantrip)
+
+Blink was a person-affecting cantrip that beginning wizards could learn. It caused a target creature to momentarily close one or more eyes.
+
+Effects
+This cantrip had a range of  and could target a single person or creature. If the target did not resist the spell, then all of its eyes closed for about half a second. If the target succeeded in resisting the spell, then only one eye was affected (or none, if the target had only one eye).
+
+Components
+This cantrip required verbal and somatic components to cast. The caster performed a finger snap while softly speaking a magic word such as hat-cha-cha.This is an allusion to the signature catchphrase of 20-century American comedian Jimmy Durante.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Bloodbone Throne of Uruth
+
+The Bloodbone Throne of Uruth served as the throne for three of the orcish kings of the realm of Uruth Ukrypt until it was stolen.
+
+Description
+The throne was made from the fused bones of the orc-king's defeated enemies, particularly the defenders of Uthtower and Phalorm, and a great crag cat. The seat itself was made from the ribcage of the crag cat and the back was a triangular stack of skulls, each with a single eye of Gruumsh. The stairs leading up to the throne were believed to be made from the skulls of six Phalorm princes. Overall the throne had a diameter of over  and a height of .
+
+Powers
+When someone sat upon the throne, they could call upon its various powers. Among them were the ability to shroud the throne in unholy darkness, command nearby creatures, spew a cloud of greasy darkness, and cloak themselves in a dragon-shaped shroud of bones. Perhaps the most powerful ability of the throne, and the one that gave its name, was the ability to summon forth a "blood elemental" of varying degrees in size. The elemental was essentially a water elemental whose touch could cause one's blood to boil.
+
+History
+Fashioned for the first king of Uruth Ukrypt, the Bloodbone Throne went on to serve two additional orcish kings in the Sword Mountains. During the Rage of Dragons, the realm was attacked by the black dragon Shammagar and the green dragon Claugiyliamatar. Shammagar seized the orcs' capital at Melairrin as his new lair, and the throne was among the treasures he claimed.
+
+When a rogue named Asilther Graelor plundered Shammagar's hoard over three centuries later, she took possession of the throne for a short time. It was soon lost in transit on its way to Herald's Holdfast during an ambush near the town of Nesmé. Where it went from there is not definitively known. Rumors spread that it may have been in the western reaches of the High Forest, where it was being used by an antlered orc king.
+
+Notable Owners
+ Uruth, the first king of Uruth Ukrypt
+ Shammagar, a black dragon
+ Asilther Graelor, a half-elven rogue
+
+Appendix
+References
+
+---
+
+## Black Wyrms
+
+The Black Wyrms were a group of powerful elder black dragons who ruled over a kingdom of dwarves and humans on another world.
+
+History
+In the, this world was visited by a band of adventurers from Toril—Prince Royal Shaliim of Lapaliiya and some "wildblades" hailing from Waterdeep—who had discovered a network of portals. They were quickly captured, but battled to escape. In the end, Shaliim even jumped inside the mouth of one of the black wyrms and killed it from the inside. On the way, they even robbed from the dragons' hoard.
+
+However, the Black Wyrms sought revenge. Following ten years of effort, they tracked the wildblades back to Toril, located the adventurers themselves, and discreetly killed them, one by one. News of the disappearances eventually reached Shaliim, now Overking of Lapaliiya. When in the, a black dragon was sighted swimming in Talar Bay, Shaliim stayed sheltered within the Domed Palace as he worked desperately on a plan to respond to the Black Wyrm's threat.
+
+Appendix
+References
+
+FR:Dracosires Noirs
+
+---
+
+## Black firedrake
+
+Black firedrakes were the mutant offspring of a black dragon and a fire drake.
+
+Abilities
+They possessed a breath weapon that was composed of both acid and flame, arising from both sides of their heritage. They had wings that allowed them to fly.
+
+Combat
+They would attack opponents with their breath weapons as well as their sharp teeth and claws.
+
+History
+The only known case of this mutant creature being created was when the Thayan Red Wizard Marek Rymüt bred them in the 1360s DR while he was a resident of the city of Innarlith. He used the male black dragon great wyrm Insithryllax and female firedrakes in order to create them. The female firedrakes were captured from the north shore of the Lake of Steam.
+
+At first, he ran a hatchery/nursery for them underneath the second quarter of Innarlith, but found problems when he ran out of space and food for them, leading to some of them escaping to the surface and causing destruction in the city.
+
+He later transferred them to a pocket dimension called the Land of One Hundred and Thirteen, where he bred them into an army under his control.
+
+Marek intended to use the army in order to overthrow and replace the Ransar of Innarlith.
+
+This plan reached fruition in 1365 DR, when Marek's puppet, Senator Salatis overthrew Ransar Osorkon with the help the black firedrake army that had been polymorphed into human form.
+
+The black firedrakes served as Salatis's personal bodyguard up until the time when Senator Pristoleph invaded Innarlith with an army and took power for himself. The black firedrakes then turned on Salatis and murdered him themselves before giving themselves over to Pristoleph's command.
+
+Appendix
+Appearances
+ Whisper of Waves
+ Lies of Light
+References
+
+Connections
+
+---
+
+## Blood Screamers
+
+The Blood Screamers were a savage and bloodthirsty pack of dire weremole gnomes led by a gnome vampire known as the Blood-Curdling Scream, active in southwest Faerûn in the mid–14 century DR. All were priests of Urdlen, the Evil One.
+
+The Blood Screamers were based in the Bandit Wastes of Lapaliiya and were the worst of the outlaws there. They launched raids from the Nathaghal Mountains and all the way to the Nath in Halruaa and to the Rathgaunt Hills at the end of the Channath Vale in the Shaar. They terrorized and preyed upon all living creatures they caught in these lands, and had been an ever-present enemy of the gnomes who lived in the Nath and Rathgaunt Hills for decades up to the early 1370s DR.
+
+However, the exact location of their base, whether a warren hideout or a temple to the Crawler Below, remained unknown, though many courageous gnome adventurers had searched for it to end the Blood Screamers' marauding. In fact, they lived in tunnels dug by giant ants beneath the barrens in the western end, east of Lapalgard.
+
+Appendix
+References
+
+---
+
+## Blood-Curdling Scream
+
+The Blood-Curdling Scream was a rock gnome vampire illusionist and priest of Urdlen of the 14 century DR. The Blood-Curdling Scream led the Blood Screamers, a savage pack of dire weremole gnomes who made their lair in the Bandit Wastes of Lapaliiya and launched raids from the Nathaghal Mountains and all the way to the Nath in Halruaa and to the Rathgaunt Hills at the end of the Channath Vale in the Shaar.
+
+Appendix
+References
+
+---
+
+## Block and tackle
+
+A block and tackle was a set of ropes and pulleys that enabled a user to vertically lift objects heavier than their strength would normally be capable of lifting.
+
+Description
+A block and tackle typically consisted of a set of square, wooden blocks with greased internal wheels. These blocks were attached to something, such as a wall or tree branch, by multiple straps and harnesses in order to securely suspend it above the desired object. Finally, a rope, typically  in length, was then threaded through these series of internal wheels and then a hook that attached to the desired object.
+
+A block and tackle was commonly sold in three different weight classes. A light version was capable of lifting objects less than, a medium version was capable of lifting objects up to, and a heavy version was capable of lifting objects up to  in weight.
+
+Availability
+ In Athkatla, one could find block and tackles for sale at the market Waukeen's Promenade.For Duty & Deity states that every nonmagical item featured in the Arms and Equipment Guide can be purchased at Waukeen's Promenade.
+ In Zhentil Keep, one could find block and tackles for sale at Lita's Equipment.Ruins of Zhentil Keep states that everything from the Arms and Equipment Guide, except for arms and armor, can be purchased at Lita's Equipment.
+
+History
+Some time between the First and Second Mulhorandi Empires, around  to, people in the land of Mulhorand invented the block and tackle system. This enabled them to construct buildings with greater ease.
+
+In the, the Lords of Waterdeep construct a massive system of blocks and tackles that they dubbed "the hoist." A system capable of lifting and manipulating seagoing vessels into or out of the locks that led to and from Waterdeep's underground neighbor, the city of Skullport.
+
+Notable Users
+A block and tackle was a common tool in the skill of stonemasonry.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+The Shattered Statue
+Gallery
+
+References
+
+---
+
+## Black Alaric
+
+The Black Alaric was a pirate, or more accurately, a number of different individuals each taking the name and appearance of the pirate. Over the years Black Alarics unified pirate forces during 7 major wars on the Sword Coast. This led some to believe that the pirate was one immortal individual.
+
+Description
+Each Black Alaric adopted the same distinctive look, a black bandana and cowl covering the hair and face. The ships flew the same azure and black banner throughout the year.
+
+Possessions
+ Amulet of Ioma
+
+History
+The First Black Aleric
+-88 DR The chief of Clan Fyrson, Alaric the Pious, accused a young nobleman also named Alaric of piracy, theft, fraud, and the worship of dark gods, namely Bane and Myrkul. Alaric the Pious barred the young Alaric from the line of succession.
+
+-86 DR The younger Alaric now called ‘Alaric False-Oaths’ was linked to a large enclave of pirates operating out of ruins in Velen. These ruins were caused by the great storms of -133 DR.
+
+-54 DR The Black Alaric led a group of pirates on a raid of the Karlag shipyards on the southern shores of Tethyr. Making off with 5 ships, the Black Alaric led his crew to the Nelanther Isles to the west of the Dragon’s Neck Peninsula.
+
+-44 DR King Nishan Ithal II of Tethyr launched an assault against the pirates who had been disrupting sea trade for years. Tethyr lost his best captain and capital ship in the battle, but the Tethyrian Navy was able to sink the Talon, the Black Alaric’s flagship. The Black Alaric was believed to have been killed in the fighting.
+
+The Second Black Aleric
+-9 DR Volsun Fyrson led a clan rebellion against his brother, the current clan chief, Tavis Fyrson II. He joined up with pirate forces and took up took the name Black Alaric, as his father’s brother had before him.
+
+-6 DR During the now aged King Nishan II’s birthday celebration, the Black Alaric led the pirates of the Nelanther alongside aid from Clan Fyrson, in an attack on Ithalyr. Many members of royalty along with several nobles were killed, and substantial damage was done to the castle. The Prince, Tarsax Ithal and the Black Alaric killed each other in what was described as an epic saber duel. Losses were heavy on both sides, but the pirates lost nearly two-thirds of their fleet and nearly 500 men.
+
+Iakhovas
+A wereshark named Iakhovas adopted the name for a time, he was killed Ches 30 in 1369 DR during an attack on Waterdeep.
+In the Lands of Intrigue: Book Three: Erlkazar & Folk of Intrigue in the description of the Black Alaric it states "The last appearance of Black Alaric was over a century ago, but tavern tales now whisper that Black Alaric has returned." The Threat from the Sea series that describes the events of Iakhovas was written after after Lands of Intrigue. The Black Alaric is mentioned specifically at being the fall of Murann less than a year later so it's possible that there were two Black Alarics at the time, or that this was just an oversight.
+
+At the fall of Murann
+1370 DR Cyrvisnea enlisted the aid of a new Black Alaric, to provide a naval blockade during the siege of Murann. She has promised him half of the ships captured in the attack, provided that he and his crew provide five years of service to the planned empire.
+
+Rumors & Legends
+Legends say that only a true Black Alaric will lead the pirates to conquering the southern mainland. Some say it is why Akbet-Khrul and his crew of 3000 pirates failed.
+
+Appendix
+See Also
+Notes
+
+Appearances
+Gallery
+External Links
+References
+
+---
+
+## Black Bane minion
+
+A black Bane minion was a Bane minion that was equally skilled in fighting, and both the clerical and wizardly arts.
+
+Description
+Black Bane minions were slower and had lesser physical prowess than the other known types of Bane minions. However, these minions were very intelligent and wise.
+
+Combat
+These creatures had a large amount of abilities they could use to take down their foes. They used their natural acid breath attacks and an assortment of spells, such as ice storm and hold monster.
+
+Appendix
+Appearances
+Video Games
+ ''Pools of Darkness
+References
+
+---
+
+## Blue Bane minion
+
+A blue Bane minion was a Bane minion that was well-versed in fighting and could breathe a stream of electricity.
+
+Description
+Though these Bane minions could not utilize spells, as black Bane minions could, they were physically stronger than them. However, they were much more weaker than red Bane minions, who were the toughest type.
+
+Combat
+Blue Bane minions relied on their fighting abilities and their electrical breath attacks. They could sheathe themselves in protective auras.
+
+Appendix
+Appearances
+Video Games
+ ''Pools of Darkness
+References
+
+---
+
+## Blueglow moss
+
+Blueglow moss was a unique species of magical moss found growing within and in very close proximity to the mythal surrounding the ruins of Myth Drannor.
+
+Description
+Blueglow moss was created by Myth Drannor's powerful mythal magic that granted it potent healing abilities and quick growth. Blueglow moss could be easily spotted at night when it glowed with blue faerie fire. During the day it emitted gentle blue luminescence.
+
+The moss could not survive outside of the mythal's magic and could not be created without the spells that were used to create the mythal of Myth Drannor.
+
+Blueglow moss was fairly common among the ruins of Myth Drannor, namely it could be found in the Shrine of Mystra, by the Temple of Sehanine Moonbow, and in the Glim-Gardens, Speculum Grounds, and many other locations across the city.
+
+Use
+Any creature that decided to rest on the bed of blueglow moss received magical healing from it; the longer the rest was, the more healing was provided.
+
+If the creature was to spend six or more hours resting on the bed of this moss, the magic plant gifted the creature with the following effects: remove disease, an ability to use darkvision at will, the power to levitate (after the first six hours of rest, the ability could only work if the creature was naked, the effect increased with longer rest, allowing the levitation carry higher weights), the ability to detect poison at will, increased resistance to petrification, and the ability to use the regenerate spell (but only after a cumulative twelve hours of rest). All these effects disappeared once the creature left the mythal.
+
+When a handful of the blueglow moss was consumed, it acted as a cure light wounds spell, but only within one minute after harvesting.
+
+Blueglow moss could be distilled into a potent potion of healing of a uniquely blue color. Although, just like the moss itself, it likely lost its magic when taken outside of the mythal that spawned it.
+
+History
+In 1369 DR, blueglow moss that grew within the mythal was affected by the magical corruption of it by the Cult of the Dragon via the pool of radiance that surfaced in the ruins. With the alteration of mythal, blueglow moss started wilting, losing its healing powers, and dying. The moss returned to health after the mythal was restored by the Veiled Ones and Anorrweyn Evensong the same year.
+
+Appendix
+Appearances
+Adventures
+Pool of Radiance: Attack on Myth Drannor
+Novels
+Pool of Radiance: Ruins of Myth Drannor
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Blue ring octopus
+
+Blue ring octopi were a species of sentient octopus found in the Underdark.
+
+Description
+Blue ring octopi looked like a regular octopi but much larger. Their tentacles could grow to up to  in length. Their eyes were large and golden-hued and their beaks were a greenish-brown. Their skin was covered in hundreds of small blue circles.
+
+Some blue ring octopi were born with rings of deep oxblood red and grew to be even larger than others of their species. They were known as red shamans or shaman blue rings.
+
+Personality
+Despite their size, blue ring octopi were shy creatures. They were highly intelligent and good-natured and were committed pacifists..
+
+Abilities
+Like most octopi, the skin of a blue ring octopus was saturated with chromatophores. This gave the blue ring octopus excellent camouflage. They could vary the color of their skin from a dirty gray to a dark gray-brown.
+
+In fact, its camouflaged was so effective that it was capable of altering how light was reflected off its skin. This provided a blue ring octopus with camouflage against creatures who used infravision or ultravision to see.
+
+Red shamans lacked this ability but were capable of casting powerful divine spells.
+
+Combat
+Blue ring octopi avoided combat when possible, preferring to evade a potentially hostile creatures. However, if forced into combat, blue ring octopi were fierce fighters. In melee combat, they used their powerful tentacles, which were poisonous, to grab and then constrict an opponent. Blue ring octopi released a poisonous cloud of ink as a defensive measure. It released enough ink to fill a sphere with a  radius. The poison affected any water-breathing creature as well as any creature using magic to breath water.
+
+Society
+Red shamans were the priests of blue ring octopi society. They were considered wise by other blue ring octopi and provided advice to their tribes. It was not known what, if any, deity they worshiped to acquire their divine powers.
+
+They were known to make intricate carvings out of coral and exchanged these with friendly sea-dwellers.
+
+Ecology
+Blue ring octopi were nomadic and lived together in small tribes within the oceans of the Underdark. Occasionally they found a passage to the bottom of a surface ocean, where they lived in the dark, cold waters of the ocean depths. They made their homes in cracks and crevices in the seabed and tried to avoid detection by the more dangerous creatures of the oceans.
+
+Realms
+Blue ring octopi maintained an underwater realm called Suswynfa within the waters of the Giant's Chalice, a subterranean lake below the Western Heartlands.
+
+Relationships
+Blue ring octopi had a co-operative relationship with locathah and tako. Those of Suswynfa traded and had allies in the sea elf realm of Naramyr.
+
+Uses
+Aboleths and kuo-toa were known to capture blue ring octopi to use them as slaves. Enslaved blue ring octopi were usually treated well. Blue ring octopi had the uncanny ability to know when another one of their species were being held as slaves, and used whatever means necessary to free them.
+
+Appendix
+
+References
+
+---
+
+## Black Flagon
+
+Black Flagon could refer to:
+The Black Flagon, a tavern in Memnon.
+The Black Flagon, an inn and tavern in Xonthal's Tower.
+
+---
+
+## Black Flagon (Memnon)
+
+The Black Flagon was a popular tavern in Memnon, Calimshan, owned and staffed by a family of sprites.
+
+Location
+The tavern was located in the middle of Memnon, right on the shore of the River Agis.
+
+Interior
+The Black Flagon was a classic tavern in many respects: softly lit, smoky, and with a low-beamed ceiling and heavy, battered wooden furniture.
+
+Atmosphere
+Although the Flagon was anything but a quiet tavern, with little privacy to be had, it was a popular meeting place.
+
+Services
+Prices at the Black Flagon were somewhat more expensive than the norm, made up for in part by the swift and energetic sprite staff.
+
+Defenses
+The sprites had several magic items concealed within the tavern to facilitate the removal of unruly guests and also had an adventuring troupe named the Flagon Five on their payroll for protection.
+
+Rumors & Legends
+Although it was not common knowledge that the Black Flagon was owned by sprites, patrons were careful to avoid insulting the staff lest they be kicked out.
+
+Appendix
+References
+
+---
+
+## Black Dog Alley
+
+Black Dog Alley was an alley in the North Ward of Waterdeep.
+
+Geography
+The alley was a loop inside the southern part of a city block in the northeastern corner of the North Ward, delimited by Tower March to the north, the Trollmarch to the east, Stallion Street to the south, and Immar Street to the west. The northern access point to Black Dog Alley was another looping alley known as Watch Alley. Other access points existed from the Trollmarch and Immar Street as well.
+
+History
+The alley was named after the silent ghost of a black dog that could frequently be seen roaming the alley at night. The dog, which was as tall as a goat, wore a spiked collar and had flaming red eyes. It ignored people and objects, just walking past or through them.
+
+Notable Locations
+Sunrise Tower, or more colloquially known as the "Mad Tower" – an asylum for persons of addled or sick mind open in the 15 century DR.
+
+Inhabitants
+Like most alleys in the North Ward, Black Dog Alley was very safe. It was frequented by the occasional drunk who wanted to sleep undisturbed, as well as lone lantern guides. It was considered safe enough for children to play unattended during nights of the full moon.
+
+Appendix
+References
+
+---
+
+## Black Flagon (Xonthal's Tower)
+
+The Black Flagon was a tavern and inn in the village of Xonthal's Tower in the  Western Heartlands.
+
+Interior
+The tavern had a rustic, backwoods appearance.
+
+Services
+In the estimation of famed traveler Volothamp Geddarm, The Black Flagon was overpriced and served heavy cuisine caked in gravy.
+
+Appendix
+References
+
+---
+
+## Blade of larceny
+
+Blades of larceny were the scimitars of choice among the members of Myth Drannor's Thieves' Guild before the Weeping War and the fall of the city.
+
+Description
+These ornate blades bore distinct markings of the Myth Drannor Thieves' Guild.
+
+Powers
+These scimitars could only be used by rogues and their magics improved the owner's dexterity, along with bearing the +2 combat enchantment.
+
+History
+In the glory days of Myth Drannor, these magic scimitars were a telltale sign of their owners' belonging to the local Thieve's Guild.
+
+Centuries after the fall of the once glorious city, in 1369 DR one of these enchanted rogue weapons could be found in one of the rooms of the Bedlam Prison in Dwarven Dungeons under ruined Myth Drannor. That blades of larceny was held by the dwarves and the prison's lockmaster after being confiscated from some unlucky thief.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+---
+
+## Bloodstone's spectral steed
+
+Bloodstone's spectral steed was a necromancy spell used by wizards. This spell was developed by Bloodstone.
+
+Effects
+This spell created a spectral creature resembling a vulture, capable of flying the caster and their companions about. The caster needed to name all passengers at the time of casting.
+
+The spectral steed uttered ghastly screeches while it flew. Natural creatures shunned the spectral steed and only monsters would dare attack it. The steed did not have any form of attack and would vanish if destroyed.
+
+Components
+In addition to verbal and somatic components, this spell required a material component to cast. This took the form of a whistle, which had to be carved out of a hollow bone from a vulture's wing, and it had to be blown when the spell was cast.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Bloodstone's frightful joining
+
+Bloodstone's frightful joining was a necromancy spell used by wizards. This spell was developed by Bloodstone.
+
+Effects
+This spell allowed the necromancer to transfer their spirit into an undead body with total domination. Intelligent forms of undead had a chance to resist the spell, driving the caster's spirit back to their body, often painfully so for the caster. If the joining was successful the caster could use any of the powers of the undead host, excluding any spells memorized by the undead.
+
+The caster's body remained comatose, and extremely vulnerable while joined with an undead body. The wizard's spirit could travel anywhere in the undead body so long as they remained on the same plane of existence as their own body. Joining with intelligent undead left the wizard open to experiencing an onslaught of mental threats from the undead host, which could drive them to insanity.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+Appendix
+References
+
+---
+
+## Bloodstars
+
+Bloodstars was a rare evocation spell used by wizards.
+
+Effects
+Bloodstars created seven spiky electrical stars from the caster's blood that whirled around the caster. The caster could direct the bloodstars to attack up to seven different targets, though only one bloodstar could strike a particular target at any given time. Bloodstars could not move more than  from the caster. Bloodstars moved with dashing speed and accuracy, ignoring armor and other non-magical barriers.
+
+When striking a target, a bloodstar lodged itself in the target to cause harm. Once the bloodstar was attached, the caster could detonate it when they wished to cause additional harm to the target and any other creature standing within . Bloodstars, even upon exploding, never harmed the caster.
+
+Components
+In addition to verbal and somatic components, this spell required drops of the caster's blood to cast.
+
+Appendix
+References
+
+---
+
+## Blade of destruction
+
+Blade of Destruction was the enchanted greatsword that once belonged to one of the original Knights of Myth Drannor, Jelde Asturien.
+
+Description
+Blade of Destruction was a blue tinted heavy two-handed sword that shimmered with magic.
+
+Powers
+Blade of Destruction had a +2 enchantment that also tripled the damage done with critical strikes.
+
+History
+At some point before 1369 DR, while exploring the ruins of Myth Drannor, Jelde Asturien found his way into the ancient tomb under the mansion of House Ammath in the Glim-Gardens district and created a vault in one of its secret rooms. In  1369 DR, the vault still contained Jelde's blade of destruction and a set of arcane mail.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+---
+
+## Blade of venom
+
+Blades of venom were fairly common enchanted short swords in Myth Drannor before the Weeping War.
+
+Description
+Blades of venom appeared inconspicuous, not showing their deadly enchantment that coated the edge of the sword with magic poison.
+
+Powers
+Blades of venom's enchantment added additional poison damaged upon hit.
+
+History
+In 1369 DR, during the Cult of the Dragon's occupation of the ruins of Myth Drannor, some of these swords could be found among disturbed and looted graves of the Dwarven Dungeons. One could be found inside a chest in the Halls of Stone and another in the Deep Halls among the ruins of an old war-time infirmary.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+---
+
+## Blackberry
+
+Blackberries were a common type of wild berry in the Realms, closely related to the dewberry.
+
+Habitats
+Places in the Realms where blackberries were known to grow included:
+ Cormyr
+ Dalelands, particularly west of the town of Eagles' Eyrie and along the upper Tesh.
+ The Vast
+ Kozakura, such as on the island of Miyashima.
+ Unapproachable East, throughout the nation of Aglarond.
+
+History
+The existence of blackberries on Toril dated all the way back to the days of Netheril.
+
+Usages
+ Homemade wines in Cormyr and the Dalelands were often made from them. Blackberry wine was also found in the land of Thay.
+ The High Flagon in Waterdeep offered its patrons sweet tarts with blackberry filling.
+ In Neverwinter, blackberry-and-apple was a commonly prepared flavor of sweet pie.
+ The Moonstone Mask festhall in Neverwinter offered its patrons blackberry pies.
+ Blackberries were sometimes brewed into a tea in the Dalelands, the Western Heartlands, and Waterdeep.
+ During the 14 century DR, two swine herders in the Vast known as Harkina and Swithin would sell blackberry preserves and pies for 2 and 3 silver pieces respectively.
+ Blackberries were one of the many types of edible berries in the Realms that could be used as material components for the spell goodberry.
+ Medicinally, some used blackberries in the treatment of dysentery or to act as an astringent.
+
+Appendix
+External Link
+
+Appearances
+
+References
+
+---
+
+## Blueberry
+
+Blueberries were a common type of berry in the Realms that grew on bushes.
+
+Habitats
+Places in the Realms where blueberries were known to grow included:
+ Cormanthor, particularly in the Starwood.
+ Cormyr produced hundreds of acres of blueberries. Some of the settlements that were known to farm them included Thunderstone and Wheloon. There were also bogs to the west of Kirinwood that yielded bushels of blueberries.
+ The Silvershield estate in Baldur's Gate.
+ In north Faerûn, they could be found in the Earthspur Mountains.
+ In northwest Faerûn, they could be found in the Nether Mountains.
+
+History
+In the mid–14 century DR, a farmer from Thunderstone named Del Geery used the dried skin of a hydra to make coverings for his raspberry, blueberry, and strawberry bushes. This covering kept the air around them at a cool, extending their growing period deep into autumn. The hydra hides proved to be effective only on these three types of berry bush.
+
+Species
+ Bilberry, a species of blueberry that was endemic to the High Moor plateau and the Serpent Hills.
+
+Usages
+ The bears that inhabited the forest of Cormanthor particularly favored gooseberries and blueberries to most other food.
+ The High Flagon in Waterdeep offered its patrons sweet tarts with blueberry filling.
+ Blueberries were gathered by the Disciples of St. Sollars the Twice-Martyred and used to brew a wine that they were famous for.
+ Blueberries were one of the many types of edible berries in the Realms that could be used as material components for the spell goodberry.
+ Some used blueberries in the treatment of certain medical conditions, such as dropsy and typhoid.
+ The Green Hag of Lizard Marsh used blueberries to cook up a hag frozen treat called "Eye Scream", as described in the Witch's Brew Cookbook.
+
+Appendix
+Appearances
+Novels
+Sojourn • Mortal Consequences • The Rite • The Spectral Blaze • Starlight Enclave
+Comic Books
+The Legend of Drizzt: Sojourn
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+Licensed Adventures & Organized Play
+Mama Needs Her New Pair of Shu
+
+External Link
+
+References
+
+---
+
+## Blacksoul sickle
+
+Blacksoul sickles were sinister magical sickles that possessed a vampiric enchantment.
+
+Powers
+Blacksoul sickles radiated evil magic and possessed a +1 or +6 enchantments and gave the wielder vampiric regeneration.
+
+History
+Even though the creator of Blacksoul sickles was unknown, there weapons were surrounded by stories and rumors of evil rituals under the cover of night. Unlike the usual sickle, these sinister items were never associated with druids or any creatures of neutral alignment.
+
+In 1372 DR, a Blacksoul sickle was in possession of a group of evil druids worshiping Malar who had a lair in the Lonely Barrens area outside of Daggerford.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights • Neverwinter Nights 2 • Neverwinter Nights: Darkness over Daggerford
+References
+
+---
+
+## Blas Gallego
+
+Blas Gallego is an artist that has worked on Forgotten Realms cover material, particularly novels. Blas illustrated the cover of the Finder's Bane novel, as well as some anthologies. His art for Realms of Magic was reprinted for the comic, The Grand Tour.http://www.isfdb.org/cgi-bin/ea.cgi?26616
+
+Works
+Blas has provided cover art for:
+ Realms of Magic
+ Realms of Infamy
+ Realms of the Arcane
+ Finder's Bane
+ The Grand Tour
+
+Appendix
+External Links
+ Official Site
+References
+
+---
+
+## Black Jungles
+
+The Black Jungles were a heavily forested region of southern Tashalar on the Chultan Peninsula of southwest Faerûn.
+
+Geography
+The Black Jungles were bordered in the west by the Hazur Mountains, in the east by the Lapal Sea, and in the north by the Delphin Mountains. The jungles ran right up to the coast of the Great Sea in the south and a smaller arm of the jungles reach the coast of the Shining Sea in the north. The Tashan Gap, though it was technically a pass between the two mountain ranges, was filled with an arm of the Black Jungles. Several rivers branching off from the Lapal Sea, including the River Amarast and River Lapar, marked the end of the Black Jungles and beginning of the Mhair Jungles.
+
+Notable Locations
+ River Chun
+ Pit of Vipers
+
+Appendix
+References
+
+FR:Jungles noires
+
+---
+
+## Black grog ale
+
+Black grog ale was a cheap watered down ale favored by the pirates and criminal elements of Waterdeep and Immurk's Hold of the Pirate Isles.
+
+History
+Black grog ale was brought to Waterdeep by the immigrants from the Pirate Isles of the Sea of Fallen Stars. The pirates who found a new home in Waterdeep served as the core consumers of the grog and eventually the local taverns and inns started importing numerous barrels of the grog from Immurk's Hold.
+
+By 1372 DR, black grog ale was being moved from Waterdeep to other cities along the Sword Coast and down the Trade Way, such as Daggerford, (available from Happy Cow and Black Stone Inn), as well as Liam's Hold.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+References
+
+---
+
+## Bloodfire ooze
+
+Bloodfire oozes were an unnatural type of ooze, infused with elemental fire, that were created through horrid rituals.
+
+Description
+The average bloodfire ooze was roughly  long and weighed around . Though larger specimens were known to exist and these oozes grew larger the more blood they consumed.
+
+These amorphous oozes resembled a slithering mass of seething and boiling blood. Occasionally they manifested faces that were twisted in torment, which were personifications of its demonic essence and often resembled the faces of those whose blood was sacrificed to create them.
+
+Bloodfire oozes radiated tremendous heat from their bodies and reeked of the smell of sulfur. Whenever they quickly absorbed any faces that manifested upon them, clouds of poisonous sulfuric gas would be disgorged.
+
+Behavior
+These oozes were virtually mindless creatures, only dimly aware of their surroundings. Though they were motivated by evil acts and the moment they came into existence a bloodfire oozed pursued nourishment.
+
+Abilities
+These creatures were impervious to harm from elemental fire and their bodies radiated a sort of demonic fire. Though they were vulnerable to cold-based attacks.
+
+Due to their affinity for fire, they increased the power of any fire-based spell or spell-like ability that was cast within  of them.
+
+Combat
+Bloodfire oozes did not employ any sophisticated tactics, beyond overwhelming and burning their enemies. Any creature that struck them or was touched by them would be inflicted with harm from elemental fire, said fire being so potent it could partially bypass fire resistance . In addition, they were known to spew flames at their enemies from distances of up to ., also they could spew sulfur to poison their enemy
+
+History
+In 1375 DR, a phaerimm lairing within the tomb of the Netherese scholar Augathra the Mad created a blighted bloodfire ooze.
+
+In 1479 DR, bloodfire oozes could be found within Mount Hotenow.
+
+Ecology
+The ritual to create these creatures involved mixing large quantities of sacrificial blood with the ichor of a demon. This sacrificial blood had to be sourced from at least a hundred good or neutrally-aligned humanoids — even more depending upon the desired size of the ooze. The mixture had to be done in an enormous cauldron, inscribed with special runes, and worth at least 3,000 gold pieces. Finally, the ritual had to be done within the area of an unhallow spell and it took a total of twenty four hours to complete.
+
+They were often created to serve as guards or to enhance a creature's own magical fire-based abilities.
+Diet
+Bloodfire oozes fed upon the blood of other creatures and were especially nourished by the blood of good-aligned creatures.
+Relationships
+Bloodfire oozes recognized their creators and could be harnessed as guardians so long as they were regularly fed. They were often paired alongside traps and other monsters that had a strong resistance or immunity to fire.
+
+In Faerûn, these oozes were most common in the land of Thay. There they were created by Red Wizards to guard their laboratories, temples, and other important locales. Beyond them, fanatical priests of Orcus and other demon princes were most often associated with creating these creatures.
+
+Evil evokers and evil outsiders that could use fire spells or abilities, as well as beings of fire, were known to create or keep these creatures nearby in order to enhance their own fiery abilities. Such "beings of fire" included efreet and salamanders.
+
+Appendix
+Appearances
+Adventures
+Anauroch: The Empire of Shade
+Novels
+Ascendancy of the Last
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Blood of the Raven
+
+Blood of the Raven was a black wine consumed by the members of the Cult of the Raven, a secretive organization that was already quite old in 1370 DR.
+
+Description
+Blood of the Raven was black in color and salty to taste. This wine was consumed communally among the worshipers of the spirit only referred to as the Raven. The wine had the ability to pass dream-like visions of the Raven's will to its worshipers, although that happened very rarely and only to the favored individuals.
+
+Appendix
+References
+
+---
+
+## Blood Frenzy (axe)
+
+Blood Frenzy was an exotic dwarven waraxe that was enchanted to be especially effective against orcs.
+
+Powers
+Blood Frenzy possessed the +2 enchantment and the +5 enchantment when wielded against orcs. The waraxe also gave its owner the ability to go into blood frenzy once per day.
+
+History
+Blood Frenzy was a unique axe forged for a dwarven chieftain King Taik to help him keep marauding hordes of orcs that constantly menaced his underground realm. The main material of note that was used in Blood Frenzy's creation was the blood of the infamous orc sorcerer called Sajifot. The blood infused the axe with the orc's innate magics and bloodthirsty nature.
+
+The waraxe served King Taik his whole life, famously chopping the head of Kumon, the leader of the orcish horde that threatened the dwarven folk under Taik's command. The death of the orc leader effectively dispersed the horde ending the dreaded conflict for good.
+
+Upon King Taik death, Blood Frenzy was interred along with its master within a tomb. The location of which was lost to the ages.
+
+By 1372 DR, Blood Frenzy found its way to Daggerford where it was in stock of Derval's Bright Blade, the local smith shop that belonged to a dwarven smith Derval Ironeater.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Bloodthorn
+
+Bloodthorn vines, also known as vampire vines or vampire thorns, were a species of predatory vine found in the Realms.
+
+Description
+These tough, wiry plants had smooth trunks that varied in brown to yellowish tones and on average grew to heights of . They had vines that were light green in color, yet looked desiccated, and were covered in leaves as well as sharp, hollow thorns. Their leaves were pointed, had two-lobes, and were pale in color. But once a bloodthorn fed, their leaves took on the same color as a victim's blood.
+
+On average their vines grew to lengths of, while their thorns were typically  in length. Bright red berries also grew continually on these plants. They were juicy, yet bitter, and produced a fragrant odor that appealed to most creatures
+
+Abilities
+These plants were capable of a limited degree of movement. In addition, a few scholars believed that extreme cold could immobilize these plants and that electricity could cause them to grow.
+
+Combat
+Whenever a living creature came close to them a bloodthorn would lash out with as many of its tendrils as possible, grappling the creature and jabbing it with its thorns in an effort to extract blood. However, they typically ignored scavengers and allowed them to remove the carcasses of their victims.
+
+History
+Following the Spellplague, the inhabitants of the city of New Sharandar grew bloodthorns on their defensive wall, the Living Abatis.
+
+Ecology
+After a good feeding of three or more human-sized victims, a bloodthorn would reproduce by shooting out seed thorns away from itself. Such thorns typically flew around  away from their parent.
+
+Diet
+These plants were a sanguivorous species, subsisting entirely on the blood of living creatures.
+
+Habitats
+Bloodthorns were generally known to grow in thick, briar-like patches in deserts and plains. They were native to the Outer Planes, but could sometimes be found transplanted on Prime Material plane.
+
+In northwest Faerûn, bloodthorn grew in the heavy woods of Cormanthor, Daggerdale, and Shadowdale. Particularly the Border Forest, Spiderhaunt Wood, and the Vale of Lost Voices. In west Faerûn, bloodthorns grew in the Forest of Tethir and the Forest of Mir. And beyond Faerûn, they grew in the jungles of Chult.
+
+Beyond the Prime Material, bloodthorns grew in the barren wastelands of the Abyss, Carceri, Outlands, Pandemonium, and Baator. In the Abyss, they were particularly known to be found on the 1 and the 248 layer. They also grew in the fiendish plane of Fury's Heart.
+
+Relationships
+Dryads and vine horrors were known to sometimes cultivate this plant to use as a guardian. And stirges were known to lair near them in hopes of preying on their ensnared victims.
+
+On the plane of Baator, bloodthorns were often consumed by grazing herds of stench kine.
+
+Usages
+Alchemists and wizards could often find uses for the hollow thorns of these plants.
+
+Trivia
+Bloodthorns could be summoned by means of the spell summon nature's ally IV.
+
+Appendix
+Notes
+
+See Also
+ Razorvine
+Appearances
+
+References
+
+---
+
+## Blade spider
+
+Blade spiders were a type of monstrously sized spider that emerged in the Realms following the Spellplague.
+
+Description
+These creatures had red fur and blade-like appendages at the end of each of their limbs, including their pedipalps.
+
+Abilities
+The blade-like appendages of these creatures were laced with a type of poison.
+
+History
+Around the late 15 century DR, blade spiders could be found in the pit fights conducted by the Gray Wolf tribe in Vellosk. Around the same time, Doomguide Volahk recovered a map from Jack's laboratory and deciphered the location of a Thayan compound known as the Menagerie within the Neverwinter Wood. There, Red Wizards performed unholy experiments on various creatures, including blade spiders. The hidden enclave was posing active danger to the city of Neverwinter, and eventually, a group of heroes stopped the twisted experimentations.
+
+By 1493 DR, they could be found in many parts of Undermountain.
+
+Ecology
+Blade spiders were typically known to lurk under thick foliage or in crevices, pits, or bolt-holes in floors of caverns.
+Habitats
+These creatures could be found in the Underdark.
+Relationships
+Blade spiders were a favored pet of drow and some creatures were known to use them as mounts.
+
+The driders of the drow city of Tel Verinal, deep beneath the western end of the Moonsea, were known to command small packs of obedient blade spiders.
+
+Appendix
+Gallery
+
+Appearances
+
+External links
+
+References
+
+Connections
+
+---
+
+## Black Stone Inn
+
+The Black Stone Inn was a shady drinking establishment located in Daggerford on Water Street and ran by Gildamesh in the late 14 century DR.
+
+Location
+The Black Stone Inn was located in Daggerford's River Quarter, right outside the gates that led to the city's docks and marina.
+
+Exterior
+The Black Stone Inn was a sturdy and under maintained two-story building. Its signage that hung over the inn's main entrance was made of wood and depicted a foaming beer stein sliding across a table surface, above which the inn's name was written in cursive. The sign itself was filthy, and neglected, encrusted with layers of drunk patrons' sick. The innkeeper likely used that as a statement and a way of keeping certain type of clientele away.
+
+Interior
+The interior was far from pristine. The taproom had many dirty spots and dried splatter of dubious origins, drunk passed out patrons, broken furniture after many-a bar fights, and bent tankards.
+
+Services
+The Black Stone Inn offered cheap lodgings, cheap alcohol, and one could almost curtly find a shady fence merchant in the tavern's dark corner away from prying eyes. The tavern also had an underground gambling den.
+
+Clientele
+The clientele of the inn consisted mostly of the city's criminal underbelly and poorer citizens. Due to close proximity to the docks, many of the drunkards inside were mariners and sailors, and occasionally, pirates.
+
+History
+The Black Stone Inn was once a ballroom of the same name, where Zhentarim agents had once committed a mass murder. That ballroom was bought by Gildamesh and turned it into an inn.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+References
+
+---
+
+## Blackspawn corruptor
+
+Blackspawn corruptors were stunted, manipulative dragonspawn.
+
+Description
+Blackspawn corruptors were heavily muscled, but only stood about  tall. They were covered in black scales, had lank black hair, and a face that was a hideous mixture of a crone's face and a black dragon's.
+
+Personality
+Blackspawn corruptors were nasty, crafty creatures that preferred to work either alone or with creatures they could bully into submission.
+
+Abilities
+Blackspawn corruptors, like the black dragons they were descended from, would naturally putrefy their territory. In particular, all non-magical liquids within  of them would become toxic. The pool that a corruptor dwelled in would become poisonous to the point of acidity. Corruptors themselves were immune to both poison and acid, as well as disease, and could not be blinded.
+
+Three times a day, a blackspawn corruptor could implant a suggestion into a creature's mind so long as the creature was within  of it. If the suggestion was successful, then it caused the victim to jump into the corruptor's pool.
+
+Blackspawn corruptors, like some other dragonspawn, possessed what was called a blessing from Tiamat. This "blessing" was the ability to grant any dragonspawn within  of them immunity to both poison and acid. A corruptor could revoke this immunity at any time.
+
+Combat
+Blackspawn corruptors typically fought by ambushing enemies from the water and then submerging again, sometimes biting and sometimes splashing the toxic water in its pool (which could blind a person if it got in their eyes), in attempts to wear down opponents' defenses.
+
+Society
+Blackspawn corruptors were descended from a combination of black dragons and green hags. Among the most reclusive of the dragonspawn, they lived in deep pools of water located in swamps. They were territorial, and their lairs often contained hazards both natural and unnatural. In Faerûn, corruptors had been recorded in the Lizard Swamp, the Farsea Marshes, the Vast Swamp, the Evermoors, and the Great Swamp of Rethild. They often came into conflict with other inhabitants of the area because of their putrefying aura.
+
+Corruptors would sometimes work with other dragonspawn, or similar creatures they could bully into submission. They typically spoke the Common, Draconic, and Giant languages.
+
+Appendix
+Connections
+
+References
+
+---
+
+## Blackbuckle's Wines & Tonics
+
+Blackbuckle's Wines & Tonics was a shop in Myth Drannor that specialized in selling wine, fortified spirits, and herbs that could be used for healing and medicine. It was run by the well-known halfling businessman Tyullac Blackbuckle.
+
+Location
+It was located the Old City of Myth Drannor.
+
+Structure
+The shop was built upon the ground floor of the city and extended two stories higher into the boughs of a tree.
+
+Services
+Among the various beverages offered at Blackbuckle's was a unique drink made by mixing elven elverquisst and stout. While some elves saw this drink as profane to their culture, it was quite popular among the city's ahk'faern.
+
+Appendix
+References
+
+---
+
+## Bloody Longblade
+
+The Bloody Longblade was an enchanted and vicious bastard sword that once belonged to Hadrian Colton, a rare item procurer from Waterdeep.
+
+Description
+This bastard sword had a wide paddle-like shape and was hard to handle in combat without loathing to wield this exotic weapon first.
+
+Powers
+The Bloody Longblade was a +2 wounding weapon.
+
+History
+The Bloody Longblade was gifted to Hadrian Colton by his nobleman father as a symbolic gesture—a bastard sword for a bastard son of a serving wench. The sword was left unused for years until Hadrian Colton realized he needed to improve his sword-fighting skill to enhance his procurement career. Sword-wielding guards and their unwilling owners guarded well the many items he was targeting. Despite the Bloody Longblade being a hurtful and offensive gift, Hadrian learned to wield the deadly blade, making his career long and fruitful.
+
+By 1372 DR, the Bloody Longblade found its way to Daggerford where it was in the stock of Stran, the local black market trader staying at the Black Stone Inn.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Blog
+
+Blog was a troll guard in the dwarven prison in Undermountain controlled by Horazak in the mid–14 century DR.
+
+Description
+Blog was a huge troll even by the standards of his race. He spoke broken Common and took his guard job seriously.
+
+History
+In 1370 DR, Horazak allied the group of marauding humanoids under his leadership with drow plotting against Waterdeep. Blog was among the monstrous humanoids who took over the ancient dwarven prison in the Underdark. Blog was tasked with guarding the storage room in the mines underneath the prison complex that held precious stones, rubies, and diamonds that the marauders' slaves dug up. The agent of Waterdeep sent to investigate the sinister plot against the City of Splendors defeated Blog after the troll demanded a password that the adventure did not know.
+
+Appendix
+Appearances
+Video Games
+Descent to Undermountain
+References
+
+---
+
+## Black Dugal's Music Shoppe
+
+Black Dugal's Music Shoppe was a music store in the city of Ravens Bluff in the 14 century DR.
+
+Location
+This store was situated in the Crow's End district of Ravens Bluff, along two nameless lanes in the neighborhood of Anvil. It was surrounded by fish-drying warehouses and was around the corner from Vlard's Maintenance Yard.
+
+Structure
+This shop was an old, repurposed two-story stone building.
+
+Interior
+The main floor consisted of a single large room cluttered with instruments laying on the floor, hanging from the ceiling or wall, or resting on stands and tables. They rarely had dust on them, as the store's owner spent part of his free time wiping them. The only clear area within the room was a workspace in the rear left corner.
+
+Opposite of that workspace was a staircase leading up to the building's second floor, the living quarters of the store's owner.
+
+Services
+Black Dugal's sold a variety of instruments including citterns, dulcimers, flutes, harps, lutes, lyres, and recorders. The instruments available in this store were all carved and shaped by Dugal Buchannan, who used the finest materials and would not settle for any of his work having a flaw.
+
+Select customers were given the privilege of viewing special instruments that were stored in cases behind the counter. Each instrument was enchanted with runes, inscribed with enchanted tools, which endowed them with a wizards' spell of first through third level. These spells were either defensive or benign, owing to Dugal being a devout pacifist.
+
+The spell of each instrument could be cast up to three times per day by playing a melody to which the runes were attuned—these were repetitive musical renditions of a spell's verbal component. These melodies were always taught to the buyer by Dugal at the time of their purchase. Once the melody was played, an instrument would resonate and activate its runes, which served as the somatic component of their spell.
+
+In 1370 DR, he had on display a flute with knock for 2,600 gp, a lute with continual light for 3,200 gp, a lyre with detect magic for 3,000 gp, and a recorder with dispel magic for 3,500 gp. Other spells he could offer on an instrument included alter self, blur, change self, comprehend languages, detect invisibility, gust of wind, read magic, sleep, tongues, and whispering wind. All spells were sourced from Dugal's own spellbook.
+
+Dugal accepted special orders for both mundane and enchanted instruments. The time they took to make varied depending on their size and complexity. A single mundane instrument could take anywhere from one to ten months, while an enchanted one could take three to twelve months. In addition, Dugal was usually working on multiple instruments at any given time. He also tended to hire adventurers to deliver his best pieces to wealthy customers both in and outside of Ravens Bluff, or to find and bring him back certain rare woods and/or metals.
+
+Appendix
+See Also
+ Interactive map of Ravens Bluff
+Appearances
+
+References
+
+---
+
+## Black Wand of Myrkul
+
+Black Wand of Myrkul was a powerful enchanted wand that held a piece of Myrkul, the Lord of the Dead, and could be used to return the deity in case of his demise.
+
+History
+The Black Wand of Myrkul was created at some point long before the god's death during the Time of Troubles. The wand was wielded by Myrkul's High Priests in the temple under Waterdeep in Undermountain. After the Time of Troubles, the temple was mostly abandoned, with undead guardians left to deter any opportunistic adventurers from pillaging the temple. The wand itself was hidden inside a well-protected vault and stayed there until 1370 DR.
+
+In 1370 DR, Khelben Arunsun stumbled upon information of the Black Wand's existence and its location right under the Blackstaff's nose. Still filled with hate for the dead god over taking control of his love, Laeral Silverhand in 1337 DR, Khelben seized the opportunity to destroy the bit of Myrkul's divine essence within the wand. He tasked his recently acquired trusted agent to search for the item in the Undermountain temple, a task Khelbenite completed.
+
+The Black Wand of Myrkul was left in Khelben's possession, possibly destroyed.
+
+Appendix
+Appearances
+Video Games
+Descent to Undermountain
+
+References
+
+---
+
+## Blanket
+
+A blanket was soft rug used to cover one's body in order to keep warm and comfortable.
+
+Description
+Blankets were made of comfortable material, such as wool. Some used their cloaks as blankets when journeying through cold locations or during winter, or to protect themselves from scorching sand. Furthermore, they could also be used to cool others down or drive off swarms of flying vermin.
+
+Blankets were used all over Faerûn, Kara-Tur, Zakhara and Maztica. Specific types of blankets were sometimes placed between the saddle or the barding and a mount, in order to make the ride more comfortable, and to protect the mount.
+
+Powers
+Magical blankets were known to exist throughout the multiverse.
+
+History
+When Zhengyi the Witch-King plagued Vaasa, part of his citadel was occupied by a banshee. She covered herself in a blanket, and sobbed, drawing adventurers towards her as if she was an upset girl. The banshee aimed to spring unwary adventurers and attack them, should they approach her.
+
+Throughout the Grand Bazaar of Huzuz, one could set up a vending stall by simply placing a blanket on the ground.
+
+Notable Producers
+ Aurora's Whole Realms Catalogue sold both single and double blankets made of flannel or wool.
+ Keshtin Pueblo, a Maztican village, was known for its embroidered blankets.
+
+Appendix
+See Also
+ Hammock
+Further Reading
+
+Appearances
+Adventures
+The Throne of Bloodstone • Swords of the Daimyo • Ochimo: The Spirit Warrior • Mad Monkey vs the Dragon Claw • Ronin Challenge • Test of the Samurai • Caravans • City of Gold • Icewind Dale: Rime of the Frostmaiden • Tomb of Annihilation • Waterdeep: Dragon Heist • Waterdeep: Dungeon of the Mad Mage
+Video Games
+Hillsfar
+References
+
+---
+
+## Blooded one
+
+The blooded ones were humanoids, predominantly orcs, that were magically enhanced to be "perfect" warriors in the service of the notoriously evil Thayan Red Wizards.
+
+Description
+The blooded ones resembled regular orcs if created from an orc. One noticeable difference was darker skin mottled with maroon red. The creatures' eyes were of deep yellow color noticeable from a great distance.
+
+Personality
+The orcs that emerged from the bloodying process retained their personalities, but had decreased intelligence, more pliable, and much more obedient.
+
+Abilities
+Blooded ones had slightly tougher hide than normal for their species, and were also stronger and hardier, but at the price of decreased intelligence. The only noted special ability shared by all blooded ones was that, once per day, a blooded one could scream a special war cry that stirred all other blooded ones within  to greater aggression and, consequently, made them a greater danger in combat.
+
+Perhaps the biggest weakness of the blooded orcs was their sensitivity to light. They found it hard to hit the targets or concentrate while exposed to daylight, making them more effective in underground locations and at night.
+
+Combat
+In combat, blooded ones were a fierce sight. They showed little regard for their own well-being and laser-focused on the fight or the assigned goal. When surrounded by their kin, blooded ones could emit a mighty war cry once a day that had the reach of . The war cry boosted morale and increased the attack strength of the blooded ones who heard it and it affecter they crier themselves.
+
+Society
+The blooded ones were not natural beings, rather than a group of humanoids, enhanced by a grueling ritual. By the time Red Wizards perfected the process, creating a blooded one was achieved via baptism in a vat or a pool of magically and alchemically altered blood. The ritual was performed on infants, usually orcs. The child was submerged in the pool of sinister magical blood and was altered into a tougher, stronger creature.
+
+This ritual could be performed on any humanoid, but Red Wizards used it exclusively on creatures of evil alignment to better serve their goals.
+
+Creation
+The blood pool required for the creation of a blooded one could be created by a proficient potion brewer. The mixture enough for one creature was worth 500 gp, and whatever was the worth of fresh blood used. Usually, the amount of blood needed was roughly equal to two fully bled out medium-sized humanoids or for small-sized. The creature undergoing the bloody baptism was required to stay in the pool for at least 24 hours. Unwilling creatures had a chance of rejecting the magical transformation. This process could be used only on the creatures that had not reached adulthood. This arcane alchemical blood mixture was severely harmful and poisonous to adult creatures.
+
+History
+The blooded ones were born out of the Red Wizards' desire to breed perfect warriors to serve them. Eventually, after many failures, they realized that creating the perfect race was much more challenging than taking an existing one and enhancing it. The idea of taking orcish youngs and putting them through a dangerous magical process led to the creation of the blooded ones.
+
+By the period between 1371 and 1373 DR, the process of creating the blooded ones was established and successful. Due to its exorbitant price, only a few in Thay could afford to create armies of these creatures. Of course, the Zulkir of Necromancy Szass Tam had barracks full of the creatures and planned on expanding experiments to other humanoids. Most of the blooded ones' barracks were located in Thaymount adjacent to orange orchards where the creatures were trained in the art of war.
+
+Later in 1373 DR, on Kythorn 3, a tanar'ri lord Eltab was freed from under Thaymount and led an army of fiendish darkenbeasts, troglodytes, and slug-like lamia nobles. Thazienne Uskevren led Szass Tam's army of blooded ones against the demon lord, eventually, defeating Eltab and sealing him once again.
+
+Notable Blooded Ones
+Thazienne Uskevren, a noblewoman rogue was forced to undergo the bloodying in order to lead Szass Tam's army of blooded ones against Eltab. She survived the dangerous and painful process. Thankfully, she was submerged only briefly, making the effects only temporary.
+
+Appendix
+Appearances
+Novels
+The Crimson Gold
+Connections
+
+References
+
+---
+
+## Blizzard (horse)
+
+Blizzard was a mare owned by Brianna Burdun.
+
+Description
+Blizzard had a black coat with white flecks and a tail that was snow white.
+
+History
+In 1366 DR, while stabled at the Weary Giant he was badly startled by Earl Dobbin as he tried to search her stable for a missing thief and ended up badly bruising him. One of the earl's guards then injured a glacier skunk hiding in the stall and caused it to spray, further agitating Blizzard.
+
+Appendix
+
+Appearances
+Novels
+The Ogre's Pact
+References
+
+---
+
+## Blighted Grove
+
+The Blighted Grove, also known as the Blighted Forest was a wild region of the Feywild that was corrupted by the malevolent influence of the dark fey.
+
+Description
+The once-beautiful forest was tainted by the efforts of the fomorian king Malabog of the Feydark, and the denizens of the dark fey enclave located elsewhere in the Feywild.
+
+Geography
+Geographical Features
+Flora & Fauna
+
+History
+After Malabog formed an alliance with the lich Valindra Shadowmantle, circa the Faerûnian, he began a campaign of destruction and scourge against every living being within the Feywild. He inflicted the creatures and the plants of the forest with blight and disease, corrupting the very soil of the earth within the plane.
+
+In response, the Iliyanbruen elves of New Sharandar launched a campaign against the corruptive influence of Malabog and the dark fey. Under the leadership of Pelendethas Everstride, they worked with adventurers to slay the evil creatures that overran the forest, destroyed and then healed the corrupted plants that took root in its earth, and nurtured new life by planting seedlings that had been enchanted by magic.
+
+Pelendethas uncovered the whereabouts of a particularly harmful fomorian champion that was known as the Scion of Corruption, and enlisted the Hero of Sleeping Dragon Bridge to defeat the twisted giant.
+
+Notable Locations
+Landmarks
+ Gnarlroot cave, an underground cave system that was corrupted by the red cap Grimak Nailbiter.
+ Wyldwood Gate, a portal that linked the grove to New Sharandar.
+
+Inhabitants
+
+Appendix
+Appearances
+Video Games
+ Neverwinter: Fury of the Feywild
+
+External Links
+
+References
+
+---
+
+## Bloodsilk spider
+
+Bloodsilk spiders were a magical species of spider.
+
+Description
+These creatures had a bloated, red blister of flesh on their back and powerful legs. The average bloodsilk spider grew to be  in length and weighed around .
+
+Behavior
+Bloodsilk spiders surprisingly possessed a cunning level of intelligence and could be very patient when hunting. They typically were neutrally-aligned, though those inhabiting areas tainted by malice could tend towards evil.
+
+Abilities
+Eight times per day a bloodsilk spider could launch a sticky blood-red web out to a range of, which were their namesake. These webs were non-flammable and could uniquely be commanded by a bloodsilk spider to drill into ensnared prey, drain them of their blood, and then channel it into the spider itself to temporarily make it tougher. Though this had no effect on elementals or plant creatures.
+
+Combat
+Bloodsilk spiders typically hunted in groups of four to eight, lurking in foliage or rubble for prey to pass by, as individually they were not that powerful. When hunting alone, a bloodsilk spider would use hide-and-pounce tactics to surprise their prey. These creatures usually positioned their webs to ensnare flying prey, but sometimes they would try to trap ground prey.
+
+Ecology
+On average a bloodsilk spider nest would contain anywhere from eight to sixteen individuals. They lived and reproduced in a manner similar to most spiders. Whenever they exhausted the stock of prey within an area, they would move on to find a new home.
+Habitats
+These creatures inhabited the south reaches of Faerûn. Notably in the forests of Chondalwood, Lluirwood, and forests near the Shaar like Thornwood and Qurth Forest. They preferred areas of heavy foliage for their lair, though some would lair within ruins if a great number of their natural predators were in the area.
+
+Bloodsilk spiders were also found in the Demonweb Pits, Lolth's divine realm in the Abyss.
+Relationships
+These creatures were often preyed upon by giant wasps and spider eaters. In Lluirwood, halfling druids and rangers occasionally banded together to destroy infestations of bloodsilk spiders.
+
+Rumors & Legends
+Some rumors claimed that bloodsilk spiders originated from the curse that was placed upon the Qurth Forest.
+
+Appendix
+Appearances
+Adventures
+Expedition to the Demonweb Pits
+References
+
+Connections
+
+---
+
+## Bloodbow
+
+The Bloodbow was an enchanted longbow that belonged to an ancient elven hero Arianna the Archer.
+
+Description
+The Bloodbow was a relatively simple-looking longbow of elven crafting, its most notable feature was its blood-red color.
+
+Powers
+The Bloodbow had a +4 enchantment as well as it gave its owner the ability to cast the slay living spell. In 1369 DR the bow only had three charges of theft spell left.
+
+History
+The Bloodbow was laid to rest long before the fall of Myth Drannor during the Weeping War, in the Elven Catacombs deep underneath Castle Cormanthor. Arianna the Archer was one of the ancient elven heroes interred within one of the crypts within the catacombs. In 1369 DR, the Bloodbow was still within its mistress' sarcophagus. Arianna's spirit, along with several other heroes' in the same crypt, was still trapped inside the ruined city and corrupted by the magics of the Weeping War. If the Bloodbow were to be removed from the sarcophagus, Arianna's wraith was there to punish the grave-robbers.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+---
+
+## Blushing Mermaid (Waterdeep)
+
+The Blushing Mermaid was a tavern, inn, and festhall in Waterdeep managed by Lady Alathene Moonstar circa the . It was well-known for its luxurious atmosphere, privacy, and unique dining with merfolk servers.
+
+Location
+
+This establishment was located on Net Street in the Dock Ward, just one door up from Dock Street and its intersection with Keel Alley.
+
+Structure
+The Blushing Mermaid was a converted villa that consisted of three two- and three-story connected buildings. The lowest level was connected to a series of well-secured secret tunnels once used for smuggling. The merfolk staff used these to commute to work, swimming in from the harbor and exiting the same way when their shift was over.
+
+Interior
+The rooms were luxuriously appointed and each one was a suite composed of a reception area that could also be an office, a private bedroom, and a private bathroom. The common areas were partitioned with thin curtains and had many cushions for comfortable lounging. The carpets were thick and sound-absorbent. The main attraction was a large heated pool filled with scented water where guests could soak while being served food and drink by mermaids and mermen.
+
+It was a well-known fact that the Blushing Mermaid was riddled with secret passages. Nearly every room had a sliding panel in the wall, but they were spell-locked so only Lady Alathene or a trusted staff member carrying one of four enchanted silver hands could operate them. Guests seldom if ever managed to circumvent Lady Alathene's spells.
+
+Atmosphere
+The Blushing Mermaid was a refuge from the loud and noisome harbor. Many hanging lamps gave off pleasant scents and warm amber glows. The plush carpets and gauzy curtains made cozy nooks for socializing between guests and escorts. All the waitstaff, maids, and escorts (and even Lady Alathene herself) wore black masks made of thin, light metal with black veils to hide their faces, adding an air of mystery. Even more macabre was the spiral staircase that wound from the main dining pool room up to a rooftop greenhouse or garden under a glass cupola. The railings and risers were decorated with human bones affixed by thin wire.
+
+Services
+As of 1367 DR, a typical room at the Blushing Mermaid rented for 5 gold pieces per night, but the rate varied by size and the distance from the ground floor, ranging from 3 gp for a small upper room to 9 gp for a large room lower down. The tenday rate was anywhere from 10 to 50 gp, but a typical room was 20 gp. For this price, the scents in the room were adjusted to the renter's choice, fresh linens were provided for the asking, and a seemingly unlimited supply of clean, scented bath water was available.
+
+The kitchens specialized in seafood and whole roast pig. Volothamp Geddarm, the author of many guidebooks, noted that the food was too lightly seasoned for his taste and fairly expensive. A meal ran 1 to 3 gp per person and did not include a drink. Beer could be had for 2 copper pieces per tankard, zzar was 1 silver piece per glass, and wine from the extensive cellar ranged from 1 to 22 gp a bottle.
+
+The service at the Blushing Mermaid was excellent. The staff received a percentage of the profits and often gave guests personal attention. Tipping was a common practice here, and individuals got to keep their tips. Some regular customers gave the establishment extra funds (a gold piece per day was typical) and asked that it be shared with all the staff members.
+
+Activities
+
+The Blushing Mermaid was known for its "Hour of Darkness" when all lights in the common rooms and hallways were extinguished, requiring guests who were still up and about to navigate by feeling their way around. Many pranks, a few frights, and much laughter ensued. This occurred every night in the early morning hours and the only source of illumination outside of private rooms was the soft blue-silver glow given off by the enchanted hands carried by certain staff members.
+
+Defenses
+The flammable fixtures and furnishings were all protected from fire, magical or mundane, by powerful and expensive enchantments. In the 1367 DR, security was provided by a  barbarian from the North named Reetha and a Chultan woman covered in oil and tattoos named Leilatha Subraira. The merfolk tunnels were secured with locking gratings and alarms. A 4-person City Watch patrol passed by the establishment about every twenty minutes. A 12-person detachment of the City Guard could be summoned by the Watch using a warning horn and usually arrived in eight minutes or less.
+
+Lady Alathene Moonstar was an archlich masquerading as an elderly human matron that maintained her beauty by magic. Few outside of her family and the Lords of Waterdeep knew her secret. She was a wizard of great accomplishment even before she transformed herself and did not fear the occasional drunken mage or anything else. She did not hesitate to defend her staff and her home with all the spells and magic at her command.
+
+History
+The Blushing Mermaid was originally a villa owned by the Moonstar family. In the, the Moonstar clan joined the growing number of nobility that were constructing bigger and more unique domiciles north of the city. They retained ownership of their first villa through proxies and turned it into an inn, tavern, and festhall under the proprietorship of Lady Alathene.
+
+Rumors & Legends
+Many stories revolved around a gentleman falling in love with one of the mermaids (or vice versa) and them having to seek out magical assistance in order to live together, either on land or under the waves.
+
+The bone-covered circular staircase in the main dining hall engendered many rumors about guests disappearing and never seen again. These stories had their basis in fact. Lady Alathene's continued existence depended on her using energy drain on two or three people every year. She always chose those whom she judged to be evil (or she strongly disliked), and the Lords of Waterdeep tolerated her survival technique because she occasionally reported details of criminal plots and illegal deals to them.
+
+Inhabitants
+In addition to the staff of over twenty maids, these individuals were known to frequent the Blushing Mermaid:
+ Lady Alathene Moonstar: Proprietress since the mid–13 century DR.
+ Reetha: Staff that provided security.
+ Leilatha Subraira: Staff that provided security.
+ Bensyl Iyrivvin: A Harper agent that worked as an escort.
+ Felibarr Blacklance: A bounty hunter and assassin who frequented the bar.
+
+Appendix
+Appearances
+
+References
+
+FR:Sirène Rougissante (Eauprofonde)
+
+---
+
+## Bleeding Citadel
+
+The Bleeding Citadel was a holy sanctuary that was found on the plane of Avernus in the Nine Hells.
+
+Location
+The citadel sat atop and within the massive mound of unidentifiable mass of seemingly living tissue referred to as the Scab. Great chains of infernal iron bound the citadel to the ground surrounding the living hill.
+
+Structure
+The alabaster temple was partially covered by the disgusting mass of the Scab, to the point where little more than its domed roof was still visible. Its walls were decorated with stained-glass windows depicting angelic figures, that could bolster the vitality of any goodly creature that touched it.
+
+The citadel's absorption by the Scab was an ongoing process, believed by some to fully envelop it by some point. The temple's massive brass doors had been wholly enveloped within the depths of the Scab tissue. Untarnished by the unholy mass, they bore the likeness of the blind solar Zariel and an inscription written in Celestial.
+
+Interior
+The interior of the citadel featured a path of stone pillars that led to a dais inscribed with Celestial runes, atop which rested the Sword of Zariel.
+
+Atmosphere
+By some unknown means, a bright and restorative sunlight shone through the glass windows of the temple, regardless of the surrounding landscape. It removed grit and grime from possessions and offered a sense of rejuvenation to those within.
+
+Purpose
+The citadel was created with one singular motivation, to house and keep safe the Sword of Zariel so that it could not be claimed by the forces of evil.
+
+History
+The Bleeding Citadel was formed after the events of The Ride, when Zariel led the Hellriders of Elturel into a losing battle in Avernus, offering her services to Asmodeus, and becoming an archdevil herself. Yael, Zariel's most loyal soldier, and Lulu, her golden mastadon mount took Zariel's sword and made sacrifices of themselves to create a sanctuary for its safekeeping. Yael gave up her life and Lulu sacrificed both her memories and magical powers.
+
+Inhabitants
+The only known inhabitant of the Bleeding Citadel was the ghost of Yael, Zariel's most loyal follower.
+
+Rumors & Legends
+It was believed that if a worthy individual attuned themself to the sword of Zariel and removed it from its dais the entire citadel would be destroyed in an explosion of light.
+
+Appendix
+Appearances
+Adventures
+ Baldur's Gate: Descent into Avernus
+Video Games
+
+References
+
+---
+
+## Black obelisk
+
+The black obelisks were a series of magical artifacts originating from ancient Netheril that possessed various forms of incredible power, including the potential for time travel.
+
+Description
+The obelisks were said to be otherworldly in appearance, described as being formed from either obsidian, a polished rune-covered black stone, or a type of unidentified black metal.The discrepancies in appearance may be attributed to a distinction between obelisks created by the Weavers and those crafted by the arcanists of Netheril. From an out-of-universe perspective, this may simply be different creative choices made in books that were published several years apart from one another. The monolithic devices were formed to gradually narrow from a wide base, to a pyramid-shaped peak in a range of different heights. Different obelisks were created in a variety of sizes, anywhere from  to even  and  tall.
+
+At least in one instance, it was observed that any shard broken off from an obelisk would be somehow "absorbed" back into the whole by merely touching it to the surface.
+
+Powers
+The most notable and powerful power associated with the obelisks was the ability to alter time and reality. An individual could merely reverse the age of every nearby being by a decade's time, or even go so far as to transport an entire world thousands of years in the past within their timeline. Full activation of these powers required another powerful artifact with magical charges that seemingly had to be keyed into an obelisk, as was the instance with the staff of power belonging to the arcanist Iriolarthas.
+
+The obelisks radiated auras of arcane energy, often in the form of abjuration magic. A spellcaster could readily tap into this energy to teleport themself and anyone else touching the device to a random location. These teleportation powers were known to have been linked to an "ebon pool" of black ooze and small, corresponding black marbles.
+
+More than one obelisk was known to harbor a powerful extra-planar creature within its form, including a nalfeshnee, and even a couatl called Tezca-Zyanya.
+
+They were seemingly unaffected by energies from the Far Realm, and were observed to elicit some form of reaction from the faerzress that permeated the caverns of the Underdark.
+
+History
+The predecessor of the Netherese obelisks were those created by an enigmatic group of spellcasters known as the Weavers. These were capable of altering time and reality on a grand scale, effectively working as a safeguard in the case a truly catastrophic event was brought upon their place of origin. At some point in time the Oerthian being Vecna procured one of these obelisks, along with the specifications of their creation, and used it to remove the artifacts creators from existence.
+
+The information regarding the obelisks' creation eventually found its way to Netherese arcanists, who built the Faerûnian variety that could still be found millennia after their empire's demise. While the obelisks ultimately failed to save Netheril in the known world, several of them were stolen or otherwise recovered, and hidden away in remote locations throughout the Realms.
+
+Some time after the, cloud giants from a floating castle stole the obelisk from its namesake town of Nightstone on the Sword Coast North, believing it to be a relic of ancient Ostoria.According to page 79 of Monster Mythology the holy symbol of the giant deity Memnor was a black obelisk.
+
+Reputation
+Knowledge of the obelisks, along with their function and creation were wholly lost to time on the planet of Toril.
+
+Notable Obelisks
+The obelisks known to have appeared throughout the Realms included those in the following locations:
+ Nightstone. The great megalith was the landmark around which the walled town was built.
+ Phandalin. An obelisk that once stood in the wilderness where the town would later be built. It was shattered long before, with its pieces spread far across the surrounding region.
+ Shadowdusk Hold. An intact obelisk was recovered in Undermountain by the disgraced Shadowdusk family and later held within their subterranean domain.
+ Tomb of the Nine Gods. A moss-covered obelisk defaced by the lich Acererak marked the entrance to the deadly dungeon in Chult.
+ Whorlstone Tunnels. A broken obelisk could be found in the labyrinthine tunnels beneath Gracklstugh in the Underdark.
+ Ythryn. One fully-functioning obelisk remained embedded within the ground of the fallen enclave Ythryn, stuck deep beneath the ice of the Reghed Glacier.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+ Out of the Abyss • Tomb of Annihilation • Waterdeep: Dungeon of the Mad Mage • Icewind Dale: Rime of the Frostmaiden
+
+References
+
+---
+
+## Blind Fish
+
+The Blind Fish was a rowdy tavern close to the edge of Sarguth in the Dredge area of Skullport.
+
+Interior
+The Blind Fish served strong alcohol and food. The tavern was well-furnished and filled with neer-do-wells who often started fights and were ready to gut someone for coin.
+
+In the late 15 century DR, the bartender of Blind Fish was an aging male orc with a long white beard and an eyepatch.
+
+History
+Sometime in the 1490s DR, a halfling thief, and an unwilling agent of Laeral Silverhand found himself in the tavern Blind Fish on his quest to recover the missing baby griffon stoled from the Open Lord by the Xanathar. Most regulars of the tavern were loyal to the master of the Thieves' Guild and attacked the halfling once he started asking questions about the guild. Fundunsun, Heleen, and Ssslasssh were part of the scuffle.
+
+Appendix
+Appearances
+Gamebooks
+To Catch a Thief
+
+References
+
+---
+
+## Black Gold
+
+Black Gold, designed by Leonard Logan, is an adventure module set in the Forgotten Realms using the Dungeons & Dragons 4th-edition ruleset.
+
+Index
+Characters
+ •  •
+
+Creatures
+ •  •  •  •  •  •
+
+Items
+ •  •  •  •  •
+
+Locations
+ •  •  •
+
+ •  •  •  •  •  •  •
+
+Organizations
+
+Spells
+
+Miscellaneous
+
+Appendix
+External Links
+ Black Gold at Livingforgottenrealms.com
+Notes
+
+References
+
+---
+
+## Black Blood (adventure)
+
+Black Blood, designed by Jean-Philipe Chapleau, is an adventure module set in the Forgotten Realms using the Dungeons & Dragons 4th-edition ruleset.
+
+Index
+
+Characters
+ •  •  •  •
+Creatures
+ •  •  •  •  •  •  •  •
+Locations
+Islands •  •
+Mountains
+Settlements
+Organizations
+
+Religions
+ •  •  •
+Miscellaneous
+Ships
+
+Appendix
+External links
+ Black Blood at Livingforgottenrealms.com
+Notes
+
+References
+
+---
+
+## Bloodweb spider
+
+Bloodweb spiders were a species of spider that frequently gathered in swarms of thousands, often by the machinations of a malign influence.
+
+Abilities
+These creatures had a poisonous bite.
+
+Combat
+Bloodweb spiders typically avoided creatures that were protected by dangerous auras.
+
+Ecology
+Homelands
+In the Feywild, bloodweb spiders could be found in a realm known as the Spiderwood.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Black Heart
+
+Black Heart, designed by Jean-Philipe Chapleau, is an adventure module set in the Forgotten Realms using the Dungeons & Dragons 4th-edition ruleset.
+
+Index
+
+Characters
+ •  •  •  •  •  •
+Creatures
+ •  •  •  •  •  •  •  •  •  •
+
+ •  •  •  •  •  •
+
+Locations
+Bodies of Water
+Buildings •
+Islands •
+Settlements •  •
+
+ •  •  •  •  •  •  •  •  •
+
+Magic
+Items •  •
+Spells •
+Organizations
+
+ •
+Religions
+ •  •  •  •  •
+Miscellaneous
+Ethnicities  •
+Food & Drink •  •  •
+Gemstones
+Items  •  •
+Instruments
+
+Languages
+Vessels
+Ships
+
+Weapons •
+
+Appendix
+External links
+ Black Heart at Livingforgottenrealms.com
+Notes
+
+---
+
+## Bloodbark Grove
+
+Bloodbark Grove was a grove of trees found in the southern stretch of the High Moor on the Sword Coast.
+
+Geography
+It was located a short ways away from the Misty Forest, southeast of Dragonspear Castle.
+
+Flora & Fauna
+Blackthorn trees and belladonna bushes were found within the grove.
+
+History
+In the, Lord Dushwick and his manservant Chalmers were passing through the grove, traveling from the nobleman's estate. Unfortunately for him, Chalmers lost nearly half of his lord's belongings during the journey.
+
+Notable Locations
+A single stone house could be found within the Bloodbark Grove. It was home to a hunter, his wife, and their son. At some point the young man went missing in the forest and was transformed into a fledgling vampire. Someone in the household was the proud owner of the warhammer that was falsely stated to have been the fabled Crom Faeyr.
+
+Inhabitants
+The woods were full of dangerous creatures such as wolves, along with their dire and dread varieties, as well as greater basilisks and bombardier beetles. Even the plants of the grove were deadly, as evidenced by the resident shambling mounds.
+
+It was also home to an elder druid named Onoroth.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate: Siege of Dragonspear
+
+External Links
+
+References
+
+---
+
+## Blushcap
+
+Blushcap mushroom was a species of fungi made famous by many nursery rhymes throughout Faerûn.
+
+Description
+Blushcaps had red tops, sprinkled with white dots.
+
+They were known to grow in forest detritus of the Western Heartlands and depths of the Underdark.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+External links
+
+References
+
+---
+
+## Blessed Sword of Tyr
+
+The Blessed Sword of Tyr was an enchanted greatsword wielded by Nayeli Goldflower in the late 15 century DR.
+
+Description
+The Blessed Sword of Tyr was a hefty two-handed sword with a red haft and an octagonal pommel.
+
+Powers
+
+Nayeli's greatsword was enchanted by Tyr's divine magic, improving its ability to deal damage. When wielded in battle against multiple adversaries, the sword had a one in four change of releasing a wave of magic, damaging a row of targets with one swing.
+
+Notable Owners
+Nayeli Goldflower: a paladin from the city of Daggerford and an adventurer who worked with other warriors of Waterdeep, performing missions on behalf of Laeral Silverhand in the late 15 century DR.
+
+Appendix
+Appearances
+Video Games
+Idle Champions of the Forgotten Realms • Warriors of Waterdeep
+
+References
+
+---
+
+## Blackcloak Alley
+
+Blackcloak Alley, formerly known as Blacklock Alley, was a long, shaded alley in the southern most end of the Southern Ward of Waterdeep.
+
+Description
+Blackcloak alley was originally named after a lone obelisk that stood in its center. Local Waterdhavians believed it to be a boon to their neighborhood as it warded away demons and possessed restorative powers. Any person of "pure heart" that put their hand or other part of their body through the hole in its center was supposedly granted some form of healing.
+
+Geography
+
+The street ran parallel with the Way of the Dragon, from the rear of a building on the south side of Brian's Street down toward Kolat Towers.
+
+Inhabitants
+Some local gangs and thieves were known to prowl along Blackcloak alley. Additionally, children were often known to come by and play games with the alley's obelisk that involved hurling a rag-and-rock ball or coconut through its hole.
+
+Appendix
+References
+
+---
+
+## Black Rat
+
+The Black Rat was a murky but offered well-appreciated genuine hospitality, especially for the area it was located in Suzail of Cormyr.
+
+Location
+The Black Rat was located to the east of Suzail's marketplace near one of the city's docks. Located on the Tholone Lane, a short arc air street that housed Valkur's Berth. It ended at Nerester's Run to the west and the Silverscales Street to the south. Black Rat's main entrance was facing the Silverscales Street.
+
+The Black Rat was located just several doors to the west from Starsails House, the headquarters of Suzail's Seafarers' Guild.
+
+Interior
+The main taproom had low ceiling and dark interior. The room was filled with wobbly chairs and uneven tables. The northern wall of the room was dominated by a fireplace. The dirty windows let little daylight in.
+
+Atmosphere
+The Black Rat was often full, filled with folk and pipe smoke that cling to the air. The Rat could accommodate around two dozen clients. The tavern was filled with aromas of pipeweed and sizzling meat. Brawls were rare and notably bloodless at the Rat.
+
+Services
+The Rat offered food and drink. The breakfast time was the busiest of the day.
+
+History
+In 1360 DR, the Black Rat tavern in Suzail was visited by King Azoun Obarskyr IV disguised as an elderly commoner. During the tumultuous time directly preceding the Crusade against the Tuigan Horde, the King was there to see the reaction of his subjects to the announced war. There, he met Ambrosius, a paladin who was able to see through the disguise, thinking Azoun to be one of the king's spies. During that evening, Ambrosius informed the discussed king that many Cormyrians signed up to be part of the army, the paladin himself included. During that time the tavern was frequented by the members of the Trappers' Guild the organization actively opposing the Tuigan Wars as well as attempted assassination of King Azoun the same year.
+
+Inhabitants
+Between 1360 DR and 1362 DR, and likely much longer, the Rat employed one barmaid who lived in the tavern. She was a jolly and frumpy red-headed woman. The owner of the Rat in the mid-to-late 14 century DR could often be found sweating in the kitchen. He was a large intimidating man with long wavy black hair. His hairy chest was covered by a grease-stained apron. He defended his tavern fiercely, not hesitating to use his hefty meat cleaver. The owner of the Rat did not tolerate individuals scaring his customers away.
+
+Appendix
+Appearances
+Novels
+Crusade • The Ring of Winter
+
+References
+
+---
+
+## Blood Sport
+
+"Blood Sport" is a short story by Christie Golden, first published in the 1994 anthology Realms of Infamy, and reprinted in the 2003 anthology The Best of the Realms.
+
+Summary
+The Shark, a bounty hunter specialized in vampire-slaying, follows Jander Sunstar to Waterdeep, hoping to finally defeat the blooder.
+
+Index
+Index based on the Realms of Infamy edition.
+
+Characters
+ •  •  •  •  •
+
+Creatures
+ •   •  •  •
+
+ •  •
+
+Locations
+ •  •  
+
+ •  •  •
+
+Miscellaneous
+ •  •  •  •  •  • stake
+
+Organizations
+
+Religion
+
+ •
+
+Appendix
+References
+
+---
+
+## Bleeding Eye
+
+The Bleeding Eye tribe was one of the orcish tribes that inhabited the Spine of the World in the 14 century DR.
+
+History
+In Eleint of the, the Bleeding Eye orcs were under the leadership of Chieftain Uligar and his wand of trap detection. Several members of the tribe descended the Spine to raid caravans moving between Easthaven and Kuldahar with a goblin tribe. They were present at a ruined mill outside of Kuldahar during the Kuldahar Pass avalanche of 1281 DR.
+
+By 1370 DR, orcish tribes of Skortchclaw, Skreetch, and Bleeding Eye took over dwarvish fortresses on the Spine of the World, renamed by the new occupants to Eyegad, Tame, and Vokan.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale
+
+References
+
+---
+
+## Black Shaernauba
+
+Black Shaernauba was a werewyvern brigand reputed to dwell within the Storm Horns mountains in Cormyr in the mid–14 century DR.
+
+Activities
+A subject of local legend, Black Shaernauba robbed travelers on the High Road. If they got the better of her, she transformed into a wyvern and flew back to her lair. This was said to be a cave in the mountains, stuffed with coins and gems. She was even said to kidnap handsome men and keep them captive there.
+
+Supposedly, she'd even murdered Purple Dragons who tried to establish an outpost in the hamlet of Wyvernhunt and people who tried to build inns there. However, Volothamp Geddarm thought this unlikely, as Cormyr's Purple Dragons and War Wizards wouldn't be deterred by one bandit, even if a werewyvern, if they'd been serious.
+
+Appendix
+References
+
+---
+
+## Blackroot beer
+
+Blackroot beer was one of the more exotic highlights on the Dryad's Dreams' menu, the only festhall in Mosstone, Tethyr.
+
+Description
+Blackroot beer was an alcoholic beverage distilled out of the blackroot herb. The resulting conception was very thick, considered to be an entire meal in a tankard. Volothamp Geddarm once stated that the drink was so viscous that it almost needed to be chewed.
+
+History
+Blackroot beer was served at the Dryad's Dreams in the mid-to-late-14 century DR. The beverage was featured in one of Volothamp Geddarm's published travel guides.
+
+Appendix
+References
+
+---
+
+## Blunderbuss
+
+The blunderbuss, also known derisively as the Gondgun, was a variation of the arquebus.
+
+Description
+Like any arquebus, the blunderbuss consisted of a wooden stock, metal barrel, and a matchlock firing mechanism. Unlike a standard arquebus, this weapon had a wide bore and a trumpet-flaring barrel. They were also larger and heavier, weighing around .
+
+Blunderbusses that came from Lantan typically had the symbol of Gond stamped on the butt of their stock.
+
+Weaponology
+Due to the design of a blunderbuss, it had less muzzle velocity than a standard arquebus. Meaning it was less accurate, had less penetrating power, and very poor range. Due to their size and weight, a blunderbuss also required support in order to keep its barrel aimed when firing.
+
+Their advantage over the standard arquebus was that, rather than requiring a projectile carefully shaped for its bore, anything that could be fit down its barrel, such as nails or stones, could be used as a projectile. A blunderbuss could also fit several projectiles, rather than one, and their barrels were designed to scatter their shot across a wide arc. Together these made it so blunderbusses had the potential to hit several targets simultaneously.
+
+Like any arquebus, they were sturdy enough to be wielded like a club, but they could be damaged in the process. They required smokepowder to use.
+
+History
+On the world of Toril, the blunderbuss originated on the island nation of Lantan, during the Time of Troubles, after the deity Gond revealed to his followers how to make reasonably safe and accurate firearms that utilized smokepowder. From 1358 DR onwards, the Lantanna priests of Gond (mainly the specialty priests) would work to spread the use of firearms, shipping them to Western ports.
+
+When the blunderbuss and other arquebuses first showed up off of Lantan they were considered mere curios, but after five or so years they became increasingly common. Their increasing prevalence on Toril was due in part to spelljammers bringing in arquebuses from elsewhere. With one source being the Smiths' Coster trading company, who conducted business with the Lantanna, Waterdhavians, and elsewhere.
+
+By 1370 DR, one could purchase a blunderbuss among other types of arquebuses from The Brigadier, a giff gunsmith, in Skullport.
+
+Price
+In the first three years that it was available for purchase outside of Lantan, a blunderbuss cost roughly 5,000 gold pieces. Through the third to fifth year, as the weapon became more common, the cost lowered to 1,000 gold pieces. Following the fifth year, a blunderbuss on Toril consistently cost around 500 gold pieces.
+
+Appendix
+Background
+The name blunderbuss is derived from a Dutch word and translates literally to "thundergun."
+External Links
+
+References
+
+---
+
+## Black Lord's Altar
+
+The Black Lord's Altar was one of the largest temples to Bane in the Realms,While the adventure module Mulmaster Undone states this temple in Mulmaster is the largest, Faiths & Avatars states that the temple in Mourktar holds that distinction. one that was considered for many years to be the center of the Black Lord's worshipers in the Realms. It was considered the seat of power for the High Imperceptors of Bane, leader of the orthodox branch of the Banite Faith.
+
+For a period during the mid–14 century, the temple was re-dedicated to the worship of Cyric, but was restored some decades later.
+
+Description
+Deep beneath the temple was a hidden vault that held an artifact sacred to the Banite faith: a single scale of a topaz dragon, upon which had been inscribed a message in Iokharic by the mortal Bane himself. The text described the events surrounding the destruction of Borem of the Lake of Boiling Mud, a primordial that dare infringed upon the Dark Lord's domain.
+
+Geography
+The temple was located along the northern slopes of Mulmaster, near the city's Tower of the Blades.
+
+History
+Following the death of Bane during the Time of Troubles in the, High Imperceptor Szchulan Darkoon converted to the faith of Cyric, taking on the title of Strifelord, and transforming the Black Lord's Altar in the process. Darkoon began hiding within his Mulman temple like a coward, trying to avoid the wrath of Fzoul Chembryl, leader of the transformed church of Bane, and no High Imperceptor was recognized by the Banite church following his blasphemy.
+
+Some time in or around the, the Cult of the Black Earth ventured through the sewers beneath Mulmaster and attempted to use stonecutter acid to weaken the temple's foundation, and demolish the structure with the detonation of a devastation orb in the city. They sought to humiliate the Banites of the city and demonstrate the faith was weaker than it appeared.
+
+Appendix
+See Also
+ Black Altar, temple of Bane in Zhentil Keep.
+Notes
+
+Appearances
+Organized Play & Licensed Adventures
+
+Embers of Elmwood
+
+References
+
+---
+
+## Black Blade and Bloody Boar
+
+The Black Blade and Bloody Boar was a rough-and-tumble tavern that was renowned as perhaps the most unsavory establishment found in city of Mulmaster. It also served as a bloody area run one of the city's most notorious criminals, Gethmedra Darmov.
+
+Location
+It was found amid the squalor that was the southern region of Mulmaster, some ways east of the lighthouse. It was readily identifiable by the sculpted likeness of a skewered boar placed atop its entrance.
+
+Interior
+The main feature of the tavern's spacious common room was the great fighting pit set  deep within its floor, known as the "Boar Pit". Off to the sides of the fighting area were a magnificent hearth, within which often roasted a giant boar (as befitting the tavern's name), a single throne offered only to the tavern's owner, and a -tall seated bronze statue that held a casket full of invaluable magical potions. Viewing galleries encircle the common room, allowing bystanders to fully take in each match.
+
+Beneath the inn's floor were a series of pens that housed its gladiatorial combatants.
+
+Atmosphere
+Services
+As of the late 15 century, the tavern bar was tended by the diminutive and matronly woman known to her patrons only as Ma. She offered a variety goods and services to her clientele, such as watered-down ale for the low price of 1 sp per mug, along with information about goings-on in the city, albeit for a much steeper price.
+
+The Black Blade's true claim to fame however were the lethal pit gladiatorial matches it held for the entertainment of the city's nobility. Challengers would be thrown into the pit to face off terrifying combatants, such as the Fangs of the Chimera fighting group, or perhaps the monstrous beast after which they were named.
+
+Defenses
+The Black Blade was protected by the guardsmen loyal to Lady Darmov, the Fangs of the Chimera gladiators, as well as the enigmatic mage Devamari.
+
+Notable Inhabitants
+ The Stone Dwarf, a pit fighter that survived the odds of the tavern's arena and became its champion for some time.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+ Adventurers League: Elemental Evil: City of Danger • Mayhem in the Earthspur Mines
+
+References
+
+---
+
+## Blood of the Vine
+
+Blood of the Vine was a shoddy tavern in the village of Barovia, in the Domain of Dread of the same name.
+
+Structure
+This building measured around  in total. Outside of it hung a sign bearing the name of the establishment.
+Interior
+The tavern's central lounge contained a blazing hearth. Every door featured a stout bar that could be swung down to bar it against forceful intrusion. And additionally, its backrooms and upper rooms acted as guestrooms, with chimneys poking out from each of them.
+
+The establishment overall was lacking in luxuries, but felt as comfortable as any home.
+
+Services
+Befitting its name, this tavern primarily offered its patrons wine. Selling a small glass for a single copper piece and a pitcher of wine for a single silver piece. Food on offer included ale, stews, round loaves of dark nut bread, and strong yellow-green cheeses. These foods were all rather simple and cheap, but thickly spiced compared to most food one would find in Barovia.
+
+Beyond food the tavern offered lodgings, though the sale of food outstripped these so much that the owners didn't see fit to call themselves an inn. These were primarily utilized by weary travelers far from home or those who were temporarily apart from their family for whatever reason.
+Atmosphere
+The tavern acted as a neutral meeting ground for vistani to gossip, trade, and pursue hobbies that their family members would disapprove of, such as gambling. Around night time local minstrels would make their presence, serenading patrons with tragic ballads.
+
+Inhabitants
+The tavern was owned by three vistani sisters named Alenka, Mirabel, and Sorvia. They all saw to it that visitors paid their tabs. The bar itself was tended by a man named Arik Lorensk.
+
+History
+At some point in the tavern's history a traveler from late-15 century DR Toril, Volothamp Geddarm, came barging in after sprinting there on the recommendation of Ezmerelda d'Avenir. While there he took time to note down aspects of the tavern and its atmosphere before speaking with Arik, who he mistook to be its owner. From Arik the man was regaled with the layout of the domain Barovia, given the names of the many notable locations one could find within it.
+
+After informing Arik that he had been recommended the tavern by Ezmerelda, he suggested to Volo that he seek out another newcomer, a half-elf bard named Rictavio that resided in the village of Vallaki across Lake Baratok. Intrigued by his words, Volo stayed the night and headed out in search of Rictavio the next morning.
+
+At some point a group of adventurers from Toril, who had been helping the Harpells track down a missing owlbear, wandered into Barovia and took shelter in the tavern against the hordes of monsters chasing after them. Therein they fought against bats, giant rats, and a minotaur skeleton.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blue jay
+
+Blue jays were a kind of bird common in the Realms. They were considered favored animals of the deities Brandobaris, Gwaeron Windstrom, and Mystra.
+
+Habitats
+They could be found in the High Forest of northwest Faerûn and parts of the Western Heartlands.
+
+Notable Blue Jays
+ Tinqmiaq.
+ Topaz, a blue jay that nested in the Emerald Grove during the late 15 century DR.
+
+Appendix
+
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Bloodstone double axe
+
+Bloodstone double axe was an enchanted double axe from Tethyr.
+
+Powers
+This double-ended axe was enchantmented and granted its wielder regeneration.
+
+History
+Bloodstone double axe belonged to the Bloodstone mercenary group circa 1090 DR. The history remembered this particular company for their attempted participation in the Battle of the Bones of 1090 DR. The mercenaries outfitted themselves, sparing no expanse for the battle. However, the ship that transported the Bloodstones from Tethyr was swarmed and sank. This dread double axe remained on the very few reminders of their existence.
+
+In 1373 DR, the Bloodstone double axe was in the hands of the leader of the Bloodaxe. After his death, however, the axe's whereabouts remained unclear.
+
+Notable Owners
+Jarl Bashnagg: the leader of the nomadic frost giant Bloodaxe tribe that dwelt in a cave between Voonlar and Yûlash circa 1373 DR.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights • Neverwinter Nights: Tyrants of the Moonsea)
+
+References
+
+---
+
+## Blessed Seahaven
+
+Blessed Seahaven was a kuo-toan settlement located in Lowerdark.
+
+Description
+Blessed Seahaven was a kuo-toan thorp of roughly 40 inhabitants. It was home to a temple of Blibdoolpoolp.
+
+Geography
+The settlement was located in the lower Deep Wastes on the Glimmersea. In relation to the surface, it was found under the coasts of Sembia.
+Government
+In, the settlement was ruled by Pliil Seachild, a cleric of Blibdoolpoolp.
+Defenses
+Blessed Seahaven was protected by a small force of sixteen adult kuo-toa.
+Appendix
+References
+
+---
+
+## Black Lord's Cloak
+
+The Black Lord's Cloak, also known as the Black Lord's Altar, was a temple-complex dedicated to Bane in the city of Mourktar within the Old Empire of Threskel.
+
+Structure
+Even more so than his temples in Zhentil Keep and Mulmaster, as the Moonsea region considered the "core region" of the god's faith, the Black Lord's Cloak was the largest and most-influential temple of Bane in all the Realms.
+
+Interior
+Described as being more of a palace than a traditional temple, the Black Lord's Cloak was the home to the vast riches of Threskel for a time.
+
+Activities
+Temple leaders sponsored excursions to pillage local ruins for wealth and riches in order to further fill the church's coffers.
+
+For years the Mourktar cell of the Cult of the Dragon operated in secret within the ranks of the temple's clergy. While venerating the Dark Lord in one aspect, they also maintained a somewhat strained relationship with the church of Tiamat. They stressed following the dogma set forth by Bane's head priests, while trying to create new forms of undead draconic beings.
+
+Defenses
+Beyond the temple's massive congregation, the Banite priests commanded a formidable army of loyal Banite templars, equipped with magical weapons purchased from Thayan merchant-wizards.  Beyond their own forces, they also conscripted local adventuring companies such as Six Black Blades and the Crow Banners to carry out their grim directives.
+
+History
+Following the death of King Theris in the, along with the collapse of the Untheric pantheon during the Time of Troubles that same year, the local priests of Bane came to take over the entire city of Mourktar. Even with the death of Bane's avatar, the faithful of the Black Cloak did not waver in their devotion. This fervent grab for power had the unintended effect of protecting Mourktar and Threskel alike from an invasion from Thay from across the Alamber Sea. In fact, Imperceptor Kabbarath believed he could leverage his power to take control of the entire nation of Threskel.
+
+Around the, Imperceptor Kabarrath was afflicted with some sort of mental illness that was believed to be caused by the new god Cyric.
+
+Sometime during or before the, the soldiers of the Black Lord's Cloak changed the secondary color of their livery from red to green, hinting at some new association with Iyachtu Xvim, though this wasn't concerned.
+
+In the, Mourktar's Banite soldiers were dispatched to Messemprar to aide in the city's defense against invading Mulhorandi forces.
+
+Rumors & Legends
+The temple was named after a holy relic of Bane that was kept within its walls. A black cloak once word by Bane in his mortal life that could forcibly constrict someone and relieved them of all their blood.
+
+Appendix
+See Also
+ Black Lord's Altar
+
+References
+
+---
+
+## Bloodstone Mines
+
+The Bloodstone Mines were a mine located within the Valley of Bloodstone.
+
+Description
+The mine was a large mining complex. It's tunnels were usually  in height and  tall. The tunnels of the upper parts of the mine were worn with age and often covered in a layer of dust. The tunnels found in the lower parts of the mine better maintained. Meandering irregular circular tunnels with smooth walls were found here.
+
+Geography
+The mine was located in the eastern part of Bloodstone Pass. It's three entrances were found within a high canyon.
+
+Appendix
+
+References
+
+---
+
+## Blood Skull (tribe)
+
+The Blood Skulls, also called the Bloody Skulls and previously the Black Spears, were a powerful orc tribe in Thar from the late 14 through late 15 centuries DR.
+
+Base of Operations
+The Blood Skulls were based out of Bloodskull Keep, a stronghold located in central Thar northwest of Bloodmuck. It was named in honor of the tribe's tradition of painting the skulls of fallen enemies and comrades red and mounting them in the keep's great hall. The collection was said to include hundreds of human, dwarf, and orc skulls, as well as prominently displayed giantkin and wyvern specimens.
+
+History
+The Blood Skull tribe was originally known as the Black Spear tribe, which was led by shamans of Gruumsh and was named in honor of their god's favored weapon, The Bloodspear. It was one of the more fearsome orc clans in Thar as of the late 14 century DR when the upstart half-orc warchief Wertha rallied most of the tribe's warriors and overthrew the shamans in Bloodskull Keep. The tribe then became embroiled in a civil war for many years between Wertha's faction in Bloodskull Keep, calling themselves the Bloody Skulls, and the Gruumshites based in the tribe's outlying strongholds. While this infighting weakened the tribe's influence significantly, Wertha eventually wrested full control away from the Gruumshites and restored the clan to its former glory.
+
+In the, the Blood Skull tribe led a horde of orcs, hobgoblins, and ogres, bolstered by manticores and wyverns, to destroy the town of Glister and attack the city of Hulburg. They were defeated at the Battle of Lendon's Dike after their leader, Mhurren, was killed. Their defeat created a power vacuum among the monstrous tribes of Thar, leading to fighting between dozens of lesser tribes of orcs, goblinoids, and giantkin who rushed to assert dominance.
+
+Secretly, this invasion had been made possible by Kardhel Terov of the Warlock Knights of Vaasa, who had helped to bring together and equip the Blood Skulls' coalition. His goal had been to secure access to the Moonsea for Vaasa.
+
+Members
+The orcs of the tribe were highly religious, having strong ties to clerics of the orc pantheon. The tribe was known to honor strength above all, and it was not uncommon for half-orcs to rise to power within the ranks if they demonstrated their skill in battle.
+
+Appendix
+Appearances
+Novels
+Swordmage
+
+References
+
+---
+
+## Black Holes of Sunderland
+
+The Black Holes of Sunderland, also called simply the Black Holes, were a region along the slopes of the southern Galena Mountains of Vaasa pocked with monster-infested caves.
+
+Description
+The Black Holes were notorious for having one of the densest populations of unfriendly beasts and monsters in Vaasa, making its proximity to the farming and mining communities of the heavily populated Sunderland a central reason why the Vaasan people were known to be always ready for a fight. During the rule of King Gareth Dragonsbane of Damara, the Black Holes became a popular destination for adventurers and mercenaries seeking to claim the generous bounties posted on the Holes' monstrous inhabitants.
+
+Geography
+The Black Holes lay in the slopes of the Galena Mountains at the southern edge of the Sunderland grasslands.
+
+Geographical Features
+The caves that comprised the Black Holes were varied in terms of size and depth. Some were shallow and just large enough for a monster to hide within, while others were deep and part of an interconnected network of caverns leading to the Moondeep Sea in the Underdark, while still others were said to be tunnels that stretched as far as Damara or Thar.
+
+Flora & Fauna
+Local monsters used the Holes for shelter from the harsh Vaasan winters, making them into lairs and nests. Goblinoids and giantkin were common, and leucrotta, owlbears, and quaggoths were not unheard of.
+
+History
+While the Black Holes had always been dangerous, they became even more perilous after the defeat of Zhengyi the Witch-King in the, when the remnants of his monstrous armies were said to have fled to the caves to regroup. This led to an aggressive, decades-long effort to incentivize bounty hunters to pacify the area.
+
+Among the stragglers of Zhengyi's forces was the Cult of the Goat's Head, a group dedicated to the demon lord Orcus that was once led by Zhengyi himself. Their presence drew the attention of drow faithful of Kiaransalee dwelling in V'elddrinnsshar deep below the Black Holes, who began launching attacks against this cult to their goddess's rival. Within a decade, they had nearly wiped out the Orcus worshipers, and inadvertently provided a great service to the surface-dwellers of Vaasa and Damara (who mistook the drow for Zhengian allies if they ever came across them).
+
+In the late 15 century DR, one of the rising threats from within the Black Holes was a tribe of deranged quaggoths who worshiped The Render, an aspect of Malar more commonly venerated as the Bear God of the Great Glacier.
+
+Appendix
+References
+
+---
+
+## Bloody Skull
+
+Bloody Skull is the name shared by two orc tribes:
+
+ Bloody Skull (Earthfast Mountains), a tribe known for warring with the dwarves of Earthfast in the 12 through 14 centuries DR.
+ Bloody Skull (Thar), also called the "Blood Skulls," known for destroying Glister and attacking Hulburg in the late 15 century DR.
+
+---
+
+## Bloodskull Keep
+
+Bloodskull Keep was an orc stronghold in Thar. It was home to the Blood Skull tribe, sometimes called the "Bloody Skulls."
+
+Description
+The Keep was a forbidding fortress that earned its name from the inhabitants' tradition of painting the skulls of fallen enemies and comrades with red dye and haphazardly mounting them in the Keep's great hall. The collection was said to include hundreds of human, dwarf, and orc skulls, as well as prominently displayed giantkin and wyvern specimens.
+
+Geography
+Bloodskull Keep was quite isolated. It was located in central Thar northwest of the Tormel River's source at Bloodmuck.
+
+History
+The Keep was originally the home of the Black Spear orc tribe. They were one of the stronger tribes among the humanoids and goblinoids of Thar, and from Bloodskull Keep they managed a series of smaller strongholds spread throughout the moorland. Sometime in the mid-to-late 14 century DR, the Black Spears' chieftain passed away and their clerics of Gruumsh seized control of the tribe and the Keep. Shortly after, the Keep was usurped by the half-orc Wertha, who rallied many of the tribes' warriors against the Gruumshites. Wertha and his faction then adopted the Keep's name, calling themselves the Bloody Skulls, as they waged a civil war against the Gruumshites holed up in the tribe's outlying strongholds.
+
+In the late 15 century DR, the Blood Skulls were again one of the most powerful tribes in Thar, and the Keep was ruled by an orc chieftain named Mhurren. In the, Mhurren formed an alliance with Kardhel Terov of the Warlock Knights of Vaasa in order to conquer Thar and cities on the Moonsea. Mhurren became the leader of a coalition of orcs, goblinoids, and ogres who sacked Glister and marched on Hulburg, but he was killed and his army was scattered at the Battle of Lendon's Dike. With this defeat, the power of Bloodskull Keep was broken, leading to a period of war between the tribes of Thar as they vied to fill the power vacuum.
+
+Appendix
+See Also
+
+Fangjaws Hold, an ogre stronghold in Thar and ally of Bloodskull Keep in 1479 DR
+Red Castle, a hobgoblin stronghold in Thar and ally of Bloodskull Keep in 1479 DR
+
+References
+
+---
+
+## Black Mace
+
+The Black Mace was a mace from the ancient Imaskari Empire. As of, it might be found within the Star Houses of Solon.
+
+Powers
+The Black Mace carried an enchantment of the highest order to increase its deadliness. It rendered the wielder invisible to all undead and functioned as a powerful priest's undead turning on each blow.
+
+Appendix
+References
+
+---
+
+## Black Bow
+
+The Black Bow was a bow from the ancient Imaskari Empire. As of, it might be found within the Star Houses of Solon.
+
+Powers
+This bow always struck true at any target within a mile, and always dealt the harshest possible wound. However, it drained its wielder's health with each arrow launched.
+
+Appendix
+References
+
+---
+
+## Black Quiver
+
+The Black Quiver was a quiver from the ancient Imaskari Empire. As of, it might have been found within the Star Houses of Solon.
+
+Powers
+The Black Quiver held but one magical, black arrow within, which would be replenished immediately once drawn. Anyone struck by the arrow would suffer one of four unforgiving curses. The target could be prevented from using magic for a day, paralyzed without recourse for perhaps an hour, slain outright, or even explode. However, every time one of its arrows was shot, the archer's hand blackened and stiffened permanently, reducing their dexterity.
+
+Appendix
+References
+
+---
+
+## Black Eye (person)
+
+The Black Eye was an Eye of Gruumsh orc shaman who lived in the Many-Arrows-occupied Tower District of Neverwinter in the late 15 century DR.
+
+Activities
+The Black Eye acted as the guardian of a shrine of Gruumsh that had been erected by the Many-Arrows orcs in the district's Merchant Square.
+
+History
+In the, the Black Eye fought a battle with Gord Roundshield and wounded the dwarf in the gut. To get his revenge, Gord Roundshield enlisted a dwarven adventurer to kill the Black Eye and burn his shrine to the ground to draw the shaman out.
+
+Appendix
+Notes
+
+Appearances
+Video Games
+
+External Links
+
+References
+
+---
+
+## Blazing skeleton
+
+Blazing skeletons, also known as blazing bones, were a variety of skeletons that were usually the animated spirits of those who had died in flames. Some were the result of a contingency, cast for a spell meant to prevent one's death, malfunctioning after the affected individual died from flames.
+
+Description
+These skeletons were engulfed in an aura of ever-burning flames. Particularly around their shoulders, skull, and hands. Their bones were usually charred, their eyes glowed like the ends of hot fire pokers, and they had clawed hands.
+
+Personality
+Blazing skeletons were constantly tormented by their flames. Because of this they were filled with a hatred for life and happiness. Thus, when left to their own devices, they sought to burn anything they came across and destroy the living, as doing so would momentarily lessen their pain.
+
+Blazing skeletons could never be directly controlled by their creators, but could be compelled to not attack them and to remain within a certain area of structure. They were often known for taunting or threatening their adversaries, which came out in a roar of crackling words.
+
+Abilities
+Blazing skeletons were impervious to harm from fire-based spells and abilities, with some even being augmented by flames. They were impervious to charm, hold, and sleep, spells. They could be harmed to some extent by water, especially holy water, though alcoholic liquids had no harmful effect on them.
+
+Blazing skeletons were capable of hurling head-sized balls of flame. Their flames cleanse disease causing germs and were especially harmful to "cold" undead, such as ghouls, liches, vampires, and wights.
+
+Those who were priests or wizards in life who reanimated due to a contingency spell going awry had the unique ability to collapse their bodies and turn into a whirlwind of bones and flames. This was best described as acting like a fireball, erupting from where they stood and expanding to a  radius sphere.
+
+Combat
+These skeletons preferred to fight their enemies from afar, hurling balls of flame, but if necessary they would fight with their clawed hands.
+
+History
+In 1367 DR, these skeletons could be found guarding the armory of the Citadel of the Riders.
+
+Following the Spellplague, blazing skeletons could be found in Gauntlgrym and beneath the ruins of Cragmire Keep, inside the Cragmire family's crypts. They could also be found within the Shadowfell's reflection of Mount Hotenow, following its Prime Material counterpart's eruption in 1451 DR. They were also deployed in the mines of Tethyamar by the Banite Rezlus and his Zhentarim forces.
+
+Ecology
+Habitats
+These skeletons could occasionally be found in Avernus.
+Relationships
+Blazing skeletons typically avoided associated with other undead if they could help it, even other blazing skeletons.
+
+There were some cases of evil archmages or high priests deliberately creating blazing skeletons to act as guardians. In one case they were known to be used as a walking garbage-furnace by an archmage.
+Usages
+The clawed hand of a blazing skeleton could be used as a form of undead graft. These granted the one they were grafted to a slight resistance to fire, a fiery fist, and the ability to throw small orbs of flame.
+
+Trivia
+Blazing skeletons were one of the types of undead that could be linked to an area affected by the wardmist spell to act as guardians.
+
+Appendix
+
+See Also
+ Burnbones
+Gallery
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Blight dragon
+
+Blight dragons were wicked, destructive planar dragons native to the Shadowfell.
+
+Description
+Blight dragons closely resembled brown dragons, but had rusty red scales rather than brown. Dust always swirled around blight dragons.
+
+Personality
+These malevolent dragons hated life and light.
+
+Abilities
+Blight dragons naturally leeched away the life force of any living creatures nearby them (incidentally healing themselves in the process), and the dust that swirled around them became a "small" dust storm when they were angered. Like other dragons, they had a fear-inducing aura and a breath weapon, in their case a cone of necrotizing fire.
+
+Combat
+Blight dragons preferred to fight, or at least begin fighting, while flying, pouring down its breath weapon upon foes and raising a dust storm before diving in to bite. They fled if they thought they were going to be overwhelmed, using a dust storm to cover their retreat.
+
+Ecology
+Blight dragons were native to the wastelands of the Shadowfell, and they spread death and destruction wherever they went. They always turned the land around their lairs into desolate wastes, both for the destruction itself and to give them a good view of any intruders who might steal from their hoards.
+
+Blight dragons fed upon life energy stolen from other creatures, and their very presence could turn common plants into dust and animals into bleached bones.
+
+Notable Blight Dragons
+Sseelrigoth
+
+Appendix
+Appearances
+Novels
+The Captive Flame
+References
+
+Connections
+
+---
+
+## Black rot
+
+Black rot was a disease that consumed the infected's brain but left their bodies completely intact.
+
+Effects
+The disease was said to have similarities to vampirism. It caused insomnia and fatigue followed by high fever, sweating, delusions, and ultimately death.
+
+History
+In 1372 DR, the necromancer Daxiong who was working on improvements to the process of zombification, followed a case of strange plague to the hamlet of Gillian's Hill. There he was experimenting on recently perished farmers. During that period of time, there were also rumors of a black rot outbreak in the farmlands further south.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blood mantle
+
+Blood mantle was a divine alteration and necromancy spell used only by specialty priests devoted to Garagos called Bloodreavers.
+
+Effects
+This spell called into being a shroud of blood droplets swirling around the caster. The droplets would coagulate into an iron wall to intercept any physical attacks aimed at the caster. A blood mantle was very conductive to electricity, posing a risk for the caster while active against that form of attack. The caster was able to hurl the mantle up to  away to form a  curtain of blood to serve as a protective wall similar to the wall of iron spell but not susceptible to any rust attacks. Once thrown the blood mantle could not be moved for the spell's duration.
+
+Components
+In addition to verbal and somatic components, this spell required as material components the priest's holy symbol and a red gemstone worth at least 24 gp to cast.
+
+Appendix
+References
+
+---
+
+## Blood rage
+
+Blood mantle was a divine enchantment spell used only by specialty priests devoted to Garagos called Bloodreavers.
+
+Effects
+This spell filled the target with the rage and bloodlust of a berserker, causing them to wildly attack nearby opponents including their own companions. A target affected by blood mantle would attack the closest foe, moving on to the next closest when they were slain. The spell would last until the target went three minutes without being within  of an opponent to attack.
+
+A target affected by this spell was easily able to resist physical pain and magical attacks that would have felled them otherwise. The chaos of the blood rage prevented the target from using any ranged attack, nor did they even bother to try to avoid incoming ranged attacks. Any healing spells cast upon the target did not take effect until the blood rage ended. If the target survived the wounds accumulated during their rage, they were left enfeebled when the spell ended. Blood mantle could be ended early via a dispel magic spell or similar magic.
+
+This spell had no effect on true berserkers, dwarven battleragers, or similar beings.
+
+Components
+In addition to verbal and somatic components, this spell required as material components the priest's holy symbol either a bloodstone or pieces of a bloodstone to cast.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale II
+References
+
+---
+
+## Black Boot Stout
+
+Black Boot Stout was a variety of beer made and sold by Arlho's Fine Flasks, in the city of Ashabenford in Mistledale.
+
+Description
+It was considered by the brewery to be its most prized beer.
+
+Appendix
+References
+
+---
+
+## Bloody Tusk
+
+Bloody Tusk was an orcish tribe, led by a chieftain and active sometime before 1372 DR.
+
+History
+Bloody Tusk orcs were known to rival the barbarian Bear-Tooth tribe and its shaman leader Leustrarax. During one faithful attack, the Bloody Tusk and the Bear-Tooth tribe clashed in a long and fierce battle. After several waves of attacks, Bloody Tusks were pushed back into the cave system they called home. Armed with the Deep Dark Red set of enchanted armor that allowed its wearer to see in the dark, Leustrarax ventured into the void of the caverns, tracked the Bloody Tusk chieftain, and put an end to his raids with a single poisoned arrow.
+
+Appendix
+Appearances
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+References
+
+---
+
+## Blindglyph
+
+A blindglyph was a powerful handglyph weapon favored by the Geomancers of Kadar used to blind their enemies.
+
+Powers
+A blindglyph stored the power of the power word, blind spell, unleashing it at an enemy when presented and the proper command word was uttered. The wielder selected a target to serve as the center of the blindglyph's power. Anything within a  radius of that center was temporarily blinded for up to an hour.
+
+These handglyphs could not be recharged.
+
+Appendix
+References
+
+---
+
+## Black Scourge
+
+The Black Scourge was the skyship captained by the self-styled Pirate Kin Bartholomew Blackdagger, leader of a crew of sky pirates in Pirates' Skyhold that terrorized the Sword Coast North and the Sea of Swords for over ten years in the mid–15 century DR.
+
+History
+The Black Scourge lived up to its name in the years leading up to and for the decade that followed the . Following the Blackdagger crew's decade-long career, the ship was moored at the Pirates' Skyhold at the Pirate King's Retreat and did not see flight for at least another 50 years. Captain Blackdagger, his lieutenants and his remaining crew were cursed by the black dragon Garrundar, bound to their strongholds for eternity and made unable to leave the flying isle and engage in piracy.
+
+It was finally recovered in the, when the Heroes of Sleeping Dragon Bridge raided the Pirate King's Retreat and defeated Blackdagger once and for all. The adventurers gained access to the skyhold by the efforts of Company Yargo, a mercenary company that was looking to expand their fleet of skyships. The final fate of the Black Scourge was unknown.
+
+Appendix
+Appearances
+Video Games
 
 References
 
@@ -871,6 +11135,576 @@ Short Stories
 
 The Collected Stories: The Legend of Drizzt Anthology: "If Ever They Happened Upon My Lair"
 Gallery
+
+---
+
+## Blast scepter
+
+Blast scepters, also known as Netherese blast scepters, were rare offensive magic items from lost Netheril.
+
+Description
+These items were metal rods the size of a wand. Ornamental knobs were found at either end.
+
+They were self-identifying in nature.
+
+Powers
+The magic of a blast scepter was controlled by the silent will of whoever held it. This item would not function while being held by more than one person. Each of the scepter's powers took about ten minutes for the user to master. They could also be used as an arcane spell focus.
+
+A blast scepter would absorb the energy from all natural and magical electrical and heat attacks directed at its wielder. This occurred without any control from the wielder and did not consume one of the item's charges. The scepter would also automatically shield the wielder by reflecting the force of any explosions, preventing them from being knocked over or stunned. This protection did not extend to debris created by an explosion. The scepter also completely protected the wielder from fire and lightning
+
+Offensive Powers
+Touching a target with the blast scepter would stun them similar to the power word, stun spell for one minute. This power expended a single charge.
+
+Expending two charges would create a shock wave that would stun targets within a cone up to  distant. In addition to causing physical harm and breaking some carried objects, the shock wave would knock targets off of their feet.
+
+Once per day a blast scepter could be used to powerstrike a touched opponent at the cost of five charges. This powerstrike would cause a great deal of physical harm to the target.
+
+Newly-crafted scepters held 50 charges, while others had between 5–60 charges. Most scepters found during the Era of Upheaval had only between one to 10 charges. Only a handful of people retained the knowledge of how to properly recharge them.
+
+Notable Owners
+ Alcedor Kolat, a powerful mage from Waterdeep, owned a blast scepter.
+ Halaster Blackcloak, the Mad Mage of Undermountain.
+ Nymra Elpurtann, the "Wave Witch" of the Sword Coast.
+ Qilué Veladorn, chosen of Mystra and youngest of the Seven Sisters.
+
+Appendix
+Appearances
+
+References
+
+FR:Sceptre de dévastation
+
+---
+
+## Blood Altar
+
+Blood Altars were important unholy items found within shrines and temples dedicated to Garagos.
+
+Description
+Blood Altars were made from stone. They were surrounded with troughs used to collect blood.
+
+History
+The faithful of Garagos used Blood Altars to commune with their dark lord. A supplicant would approach a Blood Altar, cut themselves, and drip a few drops of their blood into the troughs around the altar. The blood of a sacrifice was also acceptable. Once the blood was spilled the supplicant prayed to the Reaver and promised to perform an act of carnage in return for an answer to their prayer.
+
+Appendix
+References
+
+---
+
+## Blood Festival
+
+The Blood Festival was a special feast held by worshipers of Garagos.
+
+Activities
+A Blood Festival could be called when seven or more priests of Garagos were together. The priests feasted with a least a portion of the food being butchered at a nearby table and consumed while still bloody and not fully cooked.
+
+Appendix
+
+References
+
+---
+
+## Bloodreaver
+
+Bloodreavers were specialty priests devoted to Garagos, the god of war and destruction.
+
+Activities
+As with all worshipers of Garagos, bloodreavers were mortal enemies of anyone associated with Tempus. They attacked and slaughtered Tempus' followers whenever they could.
+
+Abilities
+Bloodreavers were completely immune to any kind of magic attempting to command them or take control of their mind. Spells such as taunt, forget, suggestion, domination, geas, demand, succor, enthrall, quest, and exaction were useless against them. They were also immune to magic items that affected the target's emotions or loyalties. However, they found it particularly difficult to resist the effects of a philter of love or philter of persuasiveness.
+
+Bloodreavers could incite a berserker rage within themselves on a daily basis. While raging, the bloodreaver was more easily able to strike and harm their enemies and often got the jump on their opponents during combat. These rages lasted for a full ten minutes. The intensity of the berserker rage was so high that if the bloodreaver ran out of enemies to attack while raging, they would turn on their comrades and attack the nearest person until their rage ended.
+
+These individuals were extremely hearty and healthy. They gained the following spells as they progressed through the ranks: chaotic combat, blood mantle, and whirlwind of steel. Spells from the combat sphere cast by higher ranking bloodreavers were twice as potent as normal.
+
+Garagos used to grant bloodreavers the blade barrier and an enhanced prayer ability during the time of ancient Netheril, but these powers had not been granted since Garagos' demotion to that of a demigod.
+
+Possessions
+Unlike priests of other faiths, bloodreavers could wield any kind of weapon and wear any kind of armor. Their armor was of the highest quality, but often marred from frequent use during battle. Bloodreavers wore red gloves and boots and crimson capes. High priests typically wore rubies shaped to look like drops of blood. All bloodreavers proudly displayed the tentacus, the holy symbol of Garagos, on their person.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blue Dragon's Bones
+
+The Blue Dragon's Bones was a rather standard dark, dirty, and rowdy tavern in the village of Hultail.
+
+History
+This tavern was named for having once been the site of a wizard slaying a blue dragon.
+
+Around 1368 DR this tavern was visited by Volothamp Geddarm, who noted in his book Volo's Guide to Cormyr that it had good ale.
+
+Appendix
+References
+
+---
+
+## Black Abyss
+
+The Black Abyss was a demiplane which the wizard Martek used to hide one of the pieces of the crystal model of his citadel. It was said to be at the edge of the Prime Material Plane and the 666 layers of the Abyss.
+
+Description
+The Black Abyss was described by planar sages as being in a constant state of dissolution.
+
+Anyone arriving into the demiplane came into a cavern built of polished white stone, lit by points of white light, with trees and shrubbery arranged in neat paths. The entry point from the Grand Hall of the Crystal Prism led behind two statues, one of them labeled "Space" while the other was labeled "Time". Between them, there was an obelisk with writing; further beyond the cavern ended, allowing red light to stream in from outside. Other planewakers came into other places within the demiplane, not recognizing any such landmarks; some of the caverns they arrived into were instead closed.
+
+Exiting the carved cavern from Martek's Tomb led outdoors, into a zone dominated by a red mist. It was possible to see for a distance of miles, but eventually, one saw thousands of red clouds rapidly rolling through the sky, dimming the wall-lights. Plants in this area were thin and sickly. Past the area where no vegetation would grow, dangerously strong winds began to build. If one continued past that point, then distances would first go haywire, randomly changing for everyone in the area of effect, then there would be sudden and random changes in the speed of time for everyone involved, magic would grow wild next, and finally, at the edge of the breakdown effect, all paths would crumble into pieces while simultaneously growing back at sufficient speed to remain in equilibrium.
+
+A maelstrom served as both the center of the dissolution effect, and the demiplane itself. Anyone entering the center of the demiplane would be deposited on the 666 layers of the Abyss, though some sources suggested the endpoint might be in the Negative Energy Plane instead.
+
+Inhabitants
+As of, wanderers of the black abyss included xorn, umber hulks, troglodytes, spectral minions, otyughs, neo-otyughs, dopplegangers, djinn, efreeti, and also adventurers.
+
+History
+The Black Abyss was used by Martek to hide one of the crystal minarets required to enter the Inner Sanctum of Martek. It was accessible from the Grand Hall of the Crystal Prism, and was, in fact, on the year of Martek's resurrection. It was held on a platform within a single island hovering past the complete breakdown area. That island crumbled shortly after the minaret was seized; the center of the storm became briefly a teleporter back into the Tomb of Martek.
+
+Trivia
+Color curtains leading to the Black Abyss were black with red whorls.
+
+Appendix
+Appearances
+
+Additional reading
+
+References
+
+---
+
+## Black Stag
+
+The Black Stag was an inn and tavern found in Selgaunt.
+
+Location
+The Black Stag was found in the southwest section of the city.
+
+Description
+This gloomy, yet comfortable, establishment was often filled with unsavory characters such as pimps, smugglers and drug runners.
+
+Activities
+The inn was one of only several places within the city that tolerated adventurers.
+
+Appendix
+References
+
+---
+
+## Blood weed
+
+Blood weeds were carnivorous vines that could grow underground or in sewers.
+
+Description
+Blood weeds fed on the blood of creatures. Each weed was a long vine covered in cruel thorns designed to ensnare and drain blood from passing victims. They were highly resistant to being cut or bashed aside, but were susceptible to extreme temperatures such as fire or magical cold.
+
+Ecology
+Blood weeds grew underground, and would worm their way through cracks to form into dense clumps that could block tunnels. This made them suitable as traps, hazards, or obstacles in dungeons.
+
+Blood weeds had been observed in tunnels beneath Waterdeep's Dock Ward.
+
+Appendix
+References
+
+---
+
+## Bladebless
+
+Bladebless was a powerful divine necromancy spell used by priests devoted to Tempus, enabling them to heal a wound by blessing the weapon that caused it.
+
+Effects
+This spell only worked upon nonmagical weapons which were held by the caster during their intonations. Once the spell was cast the last wound caused by the blade within the last several hours would be fully healed. The bladebless would even heal severed limbs, poisonings, or decapitations. The caster did not need to know or even see the target of the healing, and the magic would even function across the planes.
+
+Components
+In addition to verbal and somatic components, this spell required as material components the blade in question, the caster's holy symbol, and a drop of holy water to cast.
+
+Appendix
+References
+
+---
+
+## Black Daggers
+
+The Black Daggers were a pirate guild based in the Nelanther Isles in the Sea of Swords in the mid-to-late 14 century DR.
+
+History
+Only recently formed in the 1360s DR, the Black Daggers graciously declared that ships of Waterdeep were off-limits to its members, though this of course did not apply to non-members, so Waterdhavian vessels were only at reduced risk of attack around the Nelanther. Regardless, this amnesty was in thanks for Mirt the Merciless destroying the The Black Basilisk, a pirate-hunter from Luskan crewed by Hosttower mages, and scattering their Dead Fleet.
+
+Appendix
+See Also
+ Bartholomew Blackdagger
+ Blackdagger Bandits
+
+References
+
+---
+
+## Blood ape
+
+Blood apes were large primates found in the jungles covering the Guth Mountains on the Chultan Peninsula. Blood ape hides were prized as status symbols by wealthy hunters from Aztul.
+
+Description
+The alpha male blood ape had silver fur and a bald head. Other blood apes had red fur covering their compact and muscular bodies.
+
+Behavior
+Alpha male blood apes had the ability to expand the size of their entire body and could also increase the size of other non-alpha blood apes in the vicinity. They could revert back to their normal size at will.
+
+Combat
+When a threat was perceived, the alpha male of a hunting group composed of other males, would use his growth ability on himself and the other males. The males would pair up and attack specific targets without any display or forewarning. Blood apes would attempt to strike and grapple with any targets smaller than themselves.
+
+A blood ape's sense of smell was incredibly strong, allowing them to catch intruder's scent before they were spotted.
+
+Ecology
+Blood apes were peaceful foragers primarily active during the day. However, they were territorial and would fight to the death to protect their kind.
+
+A typical blood ape colony was mostly composed of infants and females, with a single dominant alpha male. The alpha male was the only blood ape allowed to mate with a colony's females, forcing other males to branch out on their own when they matured.
+
+Appendix
+References
+
+---
+
+## Black Boot (Westgate)
+
+The Black Boot was a dangerous inn found in Westgate in 1358 DR.
+
+Location
+The Black Boot was located near the River Bridge in the far east section of the city on Rivergate Way.
+
+Activities
+The accommodations of the Black Boot were poor but the prices were cheap, attracting a motley crowd. Brawls and murders were a nightly occurrence here.
+
+Appendix
+References
+
+---
+
+## Bloodflame
+
+Bloodflame, also called "mass resurrection", was a unique and powerful necromancy spell invented by Thyaast Ammath who sacrificed her life for Myth Drannor during the Weeping War.
+
+Effects
+Once unleashed, the magical fires of the Bloodflame jumped from corpse to corpse, returning them to semblance of life.
+
+History
+Thyaast Ammath was considered to be a prodigy of the arcane and spent years woking on a powerful spell of her own creation - the Bloodflame. When the Weeping War arrived to he gates of the City of Song, Thyaast foreseen the doom of her home but moved to never leave it. She performed necromantic rituals transforming herself into a spectral lich, a unique form of undead and feverishly tried to finish the work on the "mass resurrection". The new undead state deteriorated her mental state but she managed to join the final events of 714 DR. Armed with the magics, she unleashed the Bloodflame on the field of dead defenders of the city. The outcome of the unleashed spell remained unrecorded, even though the lich survived the War in one way of the other and returned to obsessively work on her spells following the centuries that followed.
+
+Another copy of the spell remained scribbled on an unfinished parchment scroll in Thyaast's laboratory at the bottom of the Elven Catacombs under Castle Cormanthor.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Blackfeather Bridge (bridge)
+
+Blackfeather Bridge was an old bridge that spanned the River Ashaba near the town of Blackfeather Bridge in Featherdale.
+
+Description
+This black-painted bridge was found just north of the town.
+
+History
+Blackfeather Bridge was constructed to replace a bridge built under Rauthauvyr.
+
+Appendix
+References
+
+---
+
+## Blancheflor
+
+Blancheflor was one of the Squires of the Order of Tye, an elite organization dedicated to guarding the members of the Lords' Alliance circa 1372 DR.
+
+Description
+Squire Blancheflor was a young woman of a notable straightforward demeanor that often made her a natural leader. Even though she lived by the principle that "a knight should face danger with a stout heart and a sturdy shield," her youth and lack of experienced could leave her shaken after facing an overwhelming danger.
+
+When Blancheflor was outfitted for battle, she wore a gold-tinted heavy armor and a heavy greatsword.
+
+History
+By 1372 DR, Squire Blancheflor was a member of the Order of Tye, a knightly order from the city of Waterdeep. Close to the end of her training, she, along with her fellow Squire Launfal and Squire Camelon was sent on the final test - the Knight's Trial, that, if successful, was to elevate the trio to full knighthood. Such trials were rigorous and sometimes suicidal. The trio was sent to slay the vilest and feared creature that laired in the Lonely Barrens of the Delimbiyr Vale - the Mighty Rat of Cunning Demeanor. When the squires entered the beast's lair, the sentient rat lured them deep into the "dining room" inside its cavern and sent a swarm of its kin to devour the young knights.
+
+The squires of the Order of Tye managed to escape the cave. However, the experience left them traumatized, terrified, and panicked. Blancheflor's stoic demeanor was reduced to stuttering, quivering mess. This was when a traveling hero and their allies stumbled across the trio. The Hero of Daggerford agreed to help Blancheflor slay the horrific creature and eventually successfully ridding the land of MRCD's ferocious swarm. The Hero, however, did not slay the rat. Instead, the creature was convinced to surrender itself to the squires and be taken to Waterdeep as a prisoner.
+
+Squire Blancheflor thanked the Hero, and the trio departed the Lonely Barrens in anticipation of being knighted and treated as valiant heroes.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+References
+
+---
+
+## Blackwater Stout
+
+Blackwater Stout was a popular ale brewed and served at the Blackwater Stout tavern and inn found in Blackfeather Bridge.
+
+Description
+The ale's unique flavor reminded Volothamp Geddarm of melted licorice.
+
+Appendix
+
+References
+
+---
+
+## Blackmoor
+
+The Archbarony of Blackmoor, or simply Blackmoor, was an unruly barony on the world of Oerth.
+
+Description
+Blackmoor was a wild land and a collection of sporadic tribes, each with their own leader, with the city of Dantredun being the capital and the biggest settlement of the barony. The land was permeated with strange and unidentifiable magic. Some believed that a strange substance called the black ice, found to the north of Blackmoor, was responsible for the arcane radiation.
+
+The Blackmoor Bay was a part of the Oerthian Icy Sea divided into two bays by a stretch of land. The frigid waters of the bay were the home of several aquatic species, while barbarian tribes roamed its shores.
+
+Government
+Little was known of the government structure of the Archbarony of Blackmoor. The region was ruled by His Luminous Preponderancy, Archbaron of Blackmoor and the barony maintained no diplomatic relationships with other regions of Oerth.
+
+History
+Historically, Blackmoor faced little danger from invading armies as most invaders did not bother with the region. However, kobolds from the Burneal Forest posed some minor threat to the inhabitants of the barony. In the ancient days, the Northern Adepts of Old Blackmoor constructed mysterious mounds and standing stones that could be found throughout the land. These strange structures were believed, according to legends, to constrain magics of the black ice in the north.
+
+Scaldulin was a venerated hero from the region of Blackmoor who was known to the sages of the word of Toril. The hero famously wielded the enchanted weapon called the Hoarfrost Blade, which he pulled from the heart of a glacier. Armed with the powerful weapons, Scaldulin stood against a demon horde in the Battle of the Thousand Dead. Later, he used the sword to dismember a powerful lich, Scaroth the Warped of Blackmoor.
+
+Eventually, Scaldulin was transformed into a death knight, killing a solar named Arazium in the process. Subsequently, the Hoarfrost Blade was broken and was lost to the planes. The shards resurfaced on Toril in 1372 DR. One piece was in the possession of a death slaad named Loru who sought to start a slaad plague, and another was carried by a half-celestial escaped criminal named Alaffinel‎.
+
+Appendix
+Appearances
+Adventures
+
+Lost Ships • Dead Gods
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+Card Games
+
+References
+
+---
+
+## Black Fingers
+
+The Black Fingers was a secret society of assassins devoted to Beshaba, the Maid of Misfortune.
+
+Organization
+The Black Fingers were composed of only male clergy, warriors, and particularly wicked thieves.
+
+Appendix
+
+References
+
+---
+
+## Black ice ioun stone
+
+Black ice ioun stones were enchanted gems that floated around a bearer's head, imbuing magics onto the owner.
+
+Powers
+These magic items were created when an ioun stone was exposed to the corrupting powers of black ice. When one of these ioun stones was activated, it granted the owner magically increased defense when they were hit by an opponent, and additionally it increased the speed of the wearer's allies.
+
+History
+Black ice ioun stones started appearing in the northern region of Icewind Dale circa 1485 DR, following the influx in production of items of black ice that originated in Kelvin's Cairn and led by Baerick Hammerstone who attempted to wrestle the leadership position from Stokely Silverstream of Clan Battlehammer.
+
+Appendix
+Appearances
+Video games
+Neverwinter: Curse of Icewind Dale
+
+References
+
+---
+
+## Blaz Merrymar
+
+Blaz Merrymar was a strongheart halfling merchant in the village of Shining Falls in the Delimbiyr Vale in the mid-to-late 14 century DR.
+
+Relations
+He was the husband of Rinyon Merrymar. Together, they had two daughters and four sons, as well a number of nephews.
+
+Activities
+Blaz owned Merrymar's Merchandise, the only general store in Shining Falls. While Rinyon and their children handled the day-to-day running of the store, Blaz procured goods for the store. He had exclusive deals with all the crafters in the village so that only he could sell their wares to outsiders. Fortunately, his reasonable commissions from fellow halflings and fair prices for customers made this monopoly profitable for all.
+
+However, he spent much of his time engaging in a variety of get-rich-quick schemes. In mid-1372 DR, his fixation was helping village leader Deogol Fengrath to discover the dwarven complex thought to lie behind the Shining Falls, after which the village was named. Rinyon thought this was foolish.
+
+Personality
+
+He was a good judge of character and a knack for getting customers to pay appropriate prices, such as by guilting them into it. He was skilled in such negotiation and deception.
+
+History
+In the summer of, goods meant for Merrymar's Merchandise were raided on the road by bandits, thought to be orcs of the High Forest. Tragically, Blaz and Rinyon lost not only merchandise but also all four of their sons and three of their nephews, leaving the extended family decimated and the store understaffed. Rinyon and her two daughters were left to run it alone while Blaz went on the road as a merchant.
+
+Then, about a month later, Blaz was attacked himself, and not by orcs as he'd thought but by a group of goblinoid bandits working for Hekkut and the Hark. While the bugbear Gvrag held him up, their leader, the goblin Skar, beat him and burned his feet with a torch. An hour before twilight, a band of adventurers happened upon the scene, defeated the bandits, and rescued Blaz. Consumed with anger, Blaz urged them to track down and exterminate the rest of the goblin bandits, and hopefully recover the stolen goods, even any surviving sons, and he convinced them however he could. However, several halfling remains discovered in the goblins' sacrificial pit suggested there were no survivors. The adventurers routed the bandits and retrieved the stolen goods, including a silvered short sword belonging to Blaz's son, and thereafter were feted as heroes in Shining Falls.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Extermination • Denial of Resource
+
+References
+
+---
+
+## Bloodscaled fury
+
+A bloodscaled fury was a dragon that, after developing the ability to draw on their rage through other means, supernaturally honed this ability to a transcendent degree. When driven into a rage, their scales oozed with dragonblood, preternaturally increasing their might.
+
+Abilities
+Most bloodscaled furies had approached that power from the path of a barbarian but other kinds of berserkers amongst dragons gravitated towards this path, as did some sohei. The power of a bloodscaled fury bolstered its frightful presence and increased the power unlocked by its fury. Soon, a bloodscaled fury achieved the namesake ability to make the dragon's blood ooze around its scales, bolstering its resistances to damage and to spells alike.
+
+Bloodscaled furies of some experience learned how to rend anything that more than one of its claws managed to catch at the same time. More advanced furies further enhanced their rage and the defense provided by their oozing blood, making the rage last longer, managing their energy better so as to not suffer the debilitating effects of a rage ending, and finally gaining the ability to awaken a similar rage within their allies. The most experienced of bloodscaled furies gained the ability to act in bursts of blinding speed, akin to a haste spell, but without involving any magic in the process.
+
+Notable Bloodscaled Furies
+ Malazan
+
+Appendix
+References
+
+---
+
+## Blinding breath
+
+Blinding breath was a spell used by dragons that granted their breath the power to blind those who were affected by it.
+
+Effects
+The spell only worked on breath weapons based on fire or lightning. When cast, it suffused the breath weapon of the caster with bright light. Those who failed to avert the worst of its force became permanently blinded.
+
+Components
+Besides its somatic component, blinding breath required a breath weapon to be used alongside the casting.
+
+Appendix
+Appearances
+Novels
+The Rite
+References
+
+---
+
+## Black Library
+
+The Black Library of Hudid carried all manner of foul tomes, scrolls, and other dangerous and heretical writings.
+
+History
+It was said that when priests of Zann, the Zakharan god of learning, discovered writings that they deemed dangerous, but that they could neither keep nor destroy, that they sent them to the Black Library for safe keeping in Hudid. Any dark scholar lucky enough to gain explicit permission from Hudid's caliph to enter the library could find information about holy slayer fellowships, dark elemental rituals, secrets about the Brotherhood of the True Flame, and ancient heretical beliefs from the Ruined Kingdoms.
+
+Defenses
+A pair of incredibly stout dao guarded the library.
+
+Appendix
+References
+
+---
+
+## Blue Roan
+
+The Blue Roan was a boarding house complex in the center of the cramped city of Hlath in the 14 century DR.
+
+Structure
+This establishment consisted of four buildings and stables that were well-kept.
+
+Services
+The Blue Roan offered its patrons rental rooms, along with Cormyr-styled food and stabling of animals, at a high cost. Its rooms were noted for having feathered beds and no vermin to speak of.
+
+History
+Around 1358 DR, a barbarian army from Kara-Tur was threatening the lands of Chondath and Turmish. In the days leading up to the impending battle, the Turmish mercenary Dak Zarre, along with important members of his mercenary company, the Blood Hawks, took up residence in the Blue Roan. One day Zarre came across a group of adventurers and, believing them to be seasoned warriors more fit for commanding an army than Commander Pohidge Plam, invited them to stay with him and his men in the Blue Roan.
+
+Appendix
+Appearances
+Adventures
+Swords of the Iron Legion
+References
+
+---
+
+## Blades of the Old Man
+
+The Blades of the Old Man were a cult of Bhaal-worshiping assassins led by Alaodin, the Old Man of the Mountain. They operated out of Sentinelspire.
+
+Organization
+The leader of the Blades of the Old Man was Alaodin, a priest of Bhaal better known as the Old Man of the Mountain. After 1365 DR, however, leadership was contested on three occasions. The last was in 1369 DR, when Chereth slew Alaodin and became the new Old Man of the Mountain.
+
+Activities
+The Blades of the Old Man were hired out as assassins to nobles and the wealthy throughout Faerûn. Though the payment was sometimes in money, they preferred services such as official sanction for establishing the worship of Bhaal. The ultimate purpose of the Blades was to spread the worship of Bhaal.
+
+Base of Operations
+The Blades of the Old Man resided at the Fortress of the Old Man, which was hidden within a canyon in the mountain of Sentinelspire. The Fortress itself was Imaskari in origin, but the Old Man of the Mountain had repurposed it as a paradise for his followers.
+
+History
+The Old Man of the Mountain built a paradise-like dwelling for his followers in the former Imaskari fortress while Bhaal was still alive. There, he began a cult of assassins who would serve evil rulers and ambitious men with the ultimate purpose of spreading the worship of Bhaal. He maintained the fortress with divine inspiration and aid.
+
+After the death of Bhaal during the Time of Troubles in the, the divinely granted abilities of most of his followers were losty. To compensate, the Old Man of the Mountain recruited fighters, magicians, and priests of Bhaal, and began looking for relics and artifacts that could grant him the power he needed. By, there were about fifty killers in his employ and 200 servants were kept in the fortress.
+
+In the, the Old Man of the Mountain sent his best assassins against the Masters of the Yuirwood. His best assassin, Kheil, was slain and the some of the druids managed to escape. This great loss, combined with the loss of his god, made him weak in the eyes of many of his followers. He survived two uprisings, the second one led by his own daughter, Talieth, in the . However, his forces had not recovered from the uprising in time before the attack that the druid Chereth mounted on the fortress that year. The Old Man was slain and the cult accepted Chereth as their new leader.
+
+But as the druid's goal was to destroy civilization all across Faerûn, Talieth conspired against him as well. She sent out a band led by the assassin and hunter Sauk to fetch Erael'len, an artifact that the druid needed for his rite, in an effort to better thwart it. In Tarsakh 25 of, the druid's attempt at his ritual was thwarted by his own student, Berun, who was actually Kheil resurrected. Of the original population of the fortress, only three assassins and one servant survived, all of them loyal to Talieth, most of the others slain by infighting and the druid's killoren servants.
+
+Notable Members
+Alaodin
+Talieth
+Sauk
+Berun
+Valmir
+Chereth
+
+Appendix
+Appearances
+Novels
+Sentinelspire
+
+References
+
+---
+
+## Black Mask
+
+The Black Mask was a tavern that operated in Arabel during the mid–14 century DR. It was considered among the most popular establishments in the city.
+
+History
+In the, a mage created a bright sphere of light in front of the black mask and inadvertently trapped himself within. Business at the tavern soared over the course of the following week as other mages tried to free the trapped individual and onlookers came to gawk at the disturbing incident. The poor trapped mage died of thirst at the end of that week's time.
+
+Appendix
+Appearances
+Novels
+
+Shadowdale
+
+References
+
+---
+
+## Blaervaer Lorndessar
+
+Blaervaer Lorndessar, who was also called the Reluctant, was the fifth King of the Eorn/Lorndessar Dynasty who ruled the city-state of Westgate.
+
+Activities
+Blaervaer inherited the throne after King Roadaeron's brief reign after his return from exile in the . Blaervaer ruled until the, and died in the .
+
+Relationships
+He had two sons, Roadaeron II and Maeraedryn, both of whom would hold the crown during their lives.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Blood of Tyche
+
+Blood of Tyche were variety of potions used by worshipers of Tymora. These potions entered circulation post-Spellplague.
+
+Description
+Blood of Tyche was a swirling potion of liquid luck and deadly poison, bottled in golden vials.
+
+Powers
+When consumed, Blood of Tyche suppressed the imbiber's ability to heal naturally in exchange for a dose of luck.
+
+Appendix
+References
 
 ---
 
@@ -978,6 +11812,2763 @@ References
 
 ---
 
+## Black Gauntlet
+
+The Black Gauntlet was an adventuring company active during the 13 century DR.
+
+Organization
+The group was led by Jhastan and Quarra. They were based out of Starmantle on the Dragon Coast.
+
+History
+The Black Gauntlet confronted and slew the mighty green dragon Chathuulandroth in his lair. Upon sorting through the dragon's hoard they discovered the tome Unique Mageries. The group disbanded following the deaths of their leaders.
+
+Appendix
+References
+
+---
+
+## Blood of the Child
+
+The Blood of the Child was a set of enchanted plate mail with the creation process so vile it was only usably by the most evil and foul of creatures.
+
+Powers
+This magic armor glowed in sinister dim red light, illuminating  around it. When the armor was hit, it projected the weakening magics onto the attacker, similar to that of the doom spell. Additionally, the wearer of the Blood of the Child gained ability to use scare and vampiric touch spells once per day each.
+
+History
+The Blood of the Child first appeared in history records in the scorching hot land of Zakhara. The creation process of this armor included being tempered in the fiery breath of red dragons and bathed in blood of sacrificial children. The dark armor only had a handful of owners throughout its history as only few were so blinded by lust for power and lacked empathy to use this evil magic item.
+
+The plate's latest wearers was a vampire assassin Nosfiraat who traveled to the Sword Coast from Zakhara. His ship crashed along the Blade Cliffs of the Delimbiyr Vale and the vampire stayed trapped in the wreck as late as 1372 DR.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Blunt natural weapons
+
+Blunt natural weapons was a spell that targeted natural weapons.
+
+Effects
+When cast, this spell diminished the strength of a creature's natural weapons, such as claws or teeth.
+Components
+This spell required only a verbal and somatic component.
+Appendix
+References
+
+---
+
+## Blythe
+
+Blythe was a small town located in the kingdom of Callidyrr on the island of Alaron within the Moonshae Isles.
+
+Geography
+Blythe was found on Alaron's eastern coast with the Sea of Swords. The town was near the center of Callidyrr just a few miles south of the Tearglade in the county of Stirgewick.
+
+Appendix
+References
+
+---
+
+## Blightlord
+
+Talontar blightlords, or more commonly just blightlords, were corrupt Talontar priests reveling in decay, feared and reviled throughout the Unapproachable East. They sought to infest its forests with the same blights that had turned the Rawlinswood into a foul mockery of a forest. Most of them served as the Rotting Man's handpicked lieutenants and emissaries, armed with the power to warp forest creatures to their own, sick purposes.
+
+Most blightlords had once been clerics, rangers, or even druids. Though some were drawn from other classes, such as the martial or the arcane, all who sought to become a blightlord needed considerable skill at divine magic.
+
+Activities
+In, the blightlords and their minions menaced Damara, Impiltur, and the Great Dale, ensnaring creatures of the forest, particularly volodni, and twisting them into their cause. The Circle of Leth was trying to stop them from expanding past the Rawlinswood, after they had successfully ousted the Nentyarch from Dun-Tharos. The Rotting Man's secret weapon that time had been druids of the Circle of Leth, corrupted by Talona's Blight into blightlords. The Rotting Man sent parties of blightlords into Fortress Narder, hoping to discover the source of the puzzling, interesting blight found in the vicinity; it was not of their working.
+
+On a cold night of early Marpenoth in, three blightlords had destroyed the village of Denderdale. It was possible in 1372 DR that the blightlords' attacks on Damara's border may have driven King Dragonsbane to advance his borders further out, to make them more defensible. Similarly, the Qu'encesta tribe of the Nar had plans to head south, through blightlord territory; the outcome of such a move was still up in the air.
+
+Abilities
+A curious effect of becoming a blightlord was, for a druid, that they no longer needed heed their vows against metal. More generally, they gained access to a unique priestly ability, the divine domain of the Blightbringer: granted by Talona alone and only to the blightlords, it granted them the ability to rebuke and command the blightspawned as if death had already claimed them. They also became completely immune to any disease, whether natural or not, and were granted a protection that no blightspawned creature could breach unless attacked first.
+
+A blightlord that continued their advancement would find that their animal companions, if they had them, would become taken by blight, becoming blightspawned monsters. The blightlord would, along with their advancement in the mysteries of Talona, acquire the power of blight touch, that inflicted Talona's Blight upon those it struck; the blight was a deadly disease that could not be halted with anything short of magic, and that turned those it slew into blightspawned monsters. Not long after, a blightlord gained the ability to control the blightspawned around them.
+
+Talona would grant them more daily uses of her blight before granting the next ability: turning every glaive they wielded into black glaives, capable of delivering icy damage and the blight touch; with a little more progress, the glaive would cause deadly bleeding wounds. At the pinnacle of a blightlord's advancement, their infected blood turned them into winter-hearted monsters, plants in all but name.
+
+Equipment
+Diseased weapons were sometimes found in the hands of Talontar blightlords.
+
+Notable Blightlords
+ Gameliel
+ Anammelech
+ Damanda
+ The Rotting Man
+ Nashyim of the Desolate Wood
+
+Appendix
+Appearances
+
+Novels
+Lady of Poison
+
+References
+
+---
+
+## Black Mountains
+
+The Black Mountains, sometimes called the Deepglen Mountains, were a mountain range located on the island of Gwynneth within the Moonshae Isles.
+
+Geography
+The Black Mountains were found in northwest Gwynneth, forming much of the northern border of Myrloch Vale. They touched Aspenheight in the west and were separated from the Cambro Mountains in the east by the Codsrun Creek. The Deepglen Stream flowed south from the Black Mountains' eastern slopes into Deepglen.
+
+The Black Mountains were steep and rugged. They were approximately  long and were notable for their canyons and cliffs. Because they were heavily exposed to the elements, the mountains were a landscape of broken and twisted rock.
+
+Flora & Fauna
+The Black Mountains were barren, lacking any trees or common plants.
+
+The only creatures that could survive in the mountains were migratory and predatory avians, notably griffons, perytons, and rocs.
+
+History
+During the era when the northern coast of Gwynneth was settled by Northlanders, the Black Mountains served as a border between their domain and Myrloch Vale.
+
+Inhabitants
+In the mid–14 century DR, the southern side of the mountains were overseen by a druid known as Gadrric Deepglen.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blightspawned creature
+
+A blightspawned creature was affected by the supernatural blight brought forth by the Rotting Man.
+
+Description
+While at first almost normal, the blightspawned slowly blackened, clotted with oozing sores, found their bodily fluids becoming black and oily. Eventually their eyes sank in to become black pits animated with green, malevolent luminescence. Life would eventually desert them completely as they turned undead.
+
+Abilities
+Granted horrid vitality and frightful strength by their condition, the blightspawned were also immune to anything that plants could endure, though dimmed somewhat. Within months, their condition progressed into complete undeath, turning them into juju zombies.
+
+Personality
+Blightspawned creatures loathed anything clean and whole, seeking to spread their horrid poison for the Rotting Man. They never attacked blightlords unless attacked first, save for the most absolute neophytes to their ranks.
+
+Combat
+The blightspawned carried a terrible supernatural disease that could not be healed by normal means. Animals or plants that succumbed to it wouldd become blightspawned themselves.
+
+History
+By, the blightspawned were central to the forces of the Rotting Man, and servants to many blightlords. They protected Dun-Tharos for them and they had been part of the force that leveled Denderdale. Their presence in the Rawlinswood had also made it a dangerous proposition to trap animals or log for wood there.
+
+In, a force of blighted volodni attacked Fullpoint in search of Araluen, bringing a blightspawned dire lion with them. More of the blighted numbered amongst the forces of the blightlord Gameliel in the Mucklestones and amongst the personal guard of the Rotting Man in The Close.
+
+Notable Blightspawned
+ Molkai
+
+Appendix
+Appearances
+Novels
+Lady of Poison
+References
+
+FR:Créature putréfiée
+
+---
+
+## Blackstone
+
+The Cantrev of Blackstone was a small mining town located in Fairheight county of the kingdom of Callidyrr on the island of Alaron within the Moonshae Isles.
+
+Geography
+Blackstone was nestled in a valley on the far southwestern end of the Fairheight Range in northern Callidyrr overlooking the border with Gnarhelm. The town sat near the source of the Swanmay River and served as the start for the western branch of the High King's Road. It lay a few days journey north of Caer Callidyrr along a well-maintained stretch of the road paved with white granite, and travel via coracle down the Swanmay River was the fastest route to southern Callidyrr.
+
+Description
+Blackstone appeared to be less of a town and more of a collection of provision shops with housing added as an afterthought. While the town was generally shabby, there were hints of the great wealth that had been extracted from the mines. Black smoke permeated the town and valley, stinging the eyes. Foul smells and the detritus of industry were everywhere.
+
+The town's mines were located in at the base of the nearby mountains.
+
+Government
+The town was the seat of the Earl of Fairheight, held by the Blackstone family.
+
+During the early-to-mid 14 century DR, the town lord and head of the militia was McDonnell.
+
+Defenses
+Blackstone maintain a large albeit poorly trained militia (of potentially as many as 800 fighters) to protect it from the constant threat of raids by the goblins and orcs of the Fairheight Range. The militia marched around town each day.
+
+Trade
+The town was founded for the purpose of mining for metals in the nearby mountains. The iron extracted by the town was said to be among the finest in all of Faerûn, and carts constantly moved back and forth from the mines in the mountains to the forges and smelters in the town proper.
+
+As of the mid–14 century DR, miners had also discovered gold in some of the mines, leading to a boom in the businesses of liquor, food, and prostitution. The town had several taverns.
+
+History
+When the legendary first High King Cymrych Hugh died in the, he was entombed in a barrow in the foothills north of Blackstone.
+
+Circa the, the cantrev was visited by Elminster, who understood it to be an archetypal Callidysh mining town.
+
+In the, Earl Angus Blackstone betrayed High King Tristan Kendrick in exchange for favors from an agent of Talos. When his betrayal was discovered, he was slain and replaced as Earl by another son, Hanrold Blackstone.
+
+Inhabitants
+The town's Ffolk miners worked day and night. Their operation was supervised by a number of well-paid dwarven foremen.
+
+Appendix
+
+References
+
+---
+
+## Blackhorn Alley
+
+Blackhorn Alley was a hard-packed dirt and gravel alleyway in the Trades Ward of Waterdeep.
+
+Geography
+This road ran east off of the Way of the Dragon, ending in a deadend in the block of buildings that stood between Way of the Dragon and the High Road. In the center of the alleyway, it was the northern terminus of Burdag Lane.
+
+History
+Blackhorn Alley was named for a cobbler that once lived on it, Alsible Blackhorn. Long after his death, by 1360's DR, it became a frequent haunt of brown giant rats. Some of the more destitute Waterdhavians were known to go after these rats with clubs or the alley's empty crates, viewing them as an easy meal.
+
+Appendix
+References
+
+---
+
+## Blackmul Street
+
+Blackmul Street was a hard-packed dirt and gravel paved alleyway in the Trades Ward of Waterdeep.
+
+Geography
+This alley ran in a straight line from north to south, running north off of Telshambra's Street and terminating on Shoor Street. It was situated along blocks of buildings between Beacon Street and the High Road.
+
+Notable Inhabitants
+Quite a number of retired adventurers lived in the block of buildings between Beacon Street and Blackmul Street.
+
+Appendix
+References
+
+---
+
+## Bladuid
+
+Bladuid was an elder gold elf high mage from Evermeet that served as the aide to Lord Laerm Ryence, co-commander of the Swift Cavalry as of the late 14 century DR.
+
+Personality
+Like other gold elves, Bladuid had a particular disdain for humans and half-elves.
+
+History
+Bladuid attended to Lord Ryence during the campaign against the phaerimm in the . Bladuid and Ryence were among those that survived the initial attack by the phaerimm as their group crossed Serpent's Tail on Nightal 28 of that year, though their fate was unknown after the subterranean aberrations let loose their most terrible war magic.
+
+Appendix
+Appearances
+Novels
+ The Summoning
+
+References
+
+---
+
+## Bleached Bones Pass
+
+The Bleached Bones Pass, previously known as the Vale of Naurogloth or simply Naurogloth, was an ancient route that wound through the Greypeak Mountains within the Fallen Lands of the Savage Frontier. It was named for the end seemingly endless piles of sun-bleached bones that littered its length though the mountains.
+
+Description
+It was a narrow, saddle-shaped pathway carved through the mountains, ideal for predators or hunters to ambush their prey.
+
+History
+During the Age of Humanity, and for some centuries before, the Vale of Naurogloth as it was known marked the southern border of the fabled dwarven kingdom of Ammarindar. In that same era, it linked the Netherese city of Dekanter with the elven realm of Illefarn to the west.
+
+In the 11 century DR, the Spellbook of Daimos was recovered from within the pass by a caravan master named Muirhar "Duskbrow" after gnolls unsuccessfully ambushed his wagon train.
+
+When the phaerimm escaped from behind the Sharn Wall in the, they raised an army from those that dwelled within the Greypeaks. Within half a tenday of their released, the phaerimm's enthralled mind flayers overran the Bleached Bone Pass.
+
+Rumors & Legends
+It was rumored by some that at least one shadow dragon was known to haunt the Bleached Bone Pass.
+
+Notable Locations
+While not situated within its route, the ancient dwarfhold of Citadel Yaunoroth was built into one of the Greypeaks that directly overlooked the pass.
+
+Inhabitants
+Throughout history, this pass through the Greypeak Mountains was home to great many orcs. Their strongholds endured for centuries even into the Era of Upheaval, during which they spent endlessly warring with one another. Centuries before them the pass was a regular staging point for gnoll raiders.
+
+Appendix
+Appearances
+Novels
+
+The Summoning
+References
+
+---
+
+## Blackstone House
+
+Blackstone House was an inn found in the capital city of Immilmar in Rashemen in the .
+
+Location
+The inn was located in the southwest section of the city near the Temple of Chauntea.
+
+Description
+Blackstone House derived its name from the shiny dark granite used for its construction.
+
+Activities
+Blackstone House catered primarily to foreign merchants. The inn provided a nice selection of wines and ales and cuisine from a dozen different nations. Patrons appreciated the comforts of the inn even though at 5 gp per night for a room, and 3 sp per meal, they were not cheap by any means.
+
+Inhabitants
+The innkeep was a Rashemaar named Varro.
+
+Appendix
+References
+
+---
+
+## Blood Tor
+
+The Blood Tor was the 13 layer of the Abyss, home of the Maid of Misfortune, Beshaba, and the Bitch Queen, Umberlee. In the World Tree cosmology, the Blood Tor was considered the part of the Barrens of Doom and Despair in Gehenna.
+
+Geography
+The Blood Tor was one of the layers of the Abyss survivable by mortals and planewalkers. The Tor was a large peak of black rock, surrounded by a complex of steep boulder-strewn slopes, tress-like ridges, and treacherous ravines and chasms. That mountain complex rose up high above the blood-red waters of the River of Blood, which crashed against the rock with the anger of a fierce storm—the domain of Umberlee, the goddess of seas and oceans on Toril. Red streams ran down the black rocky hill and joined with the red waters underneath the Tor. It was said that the red rivulets were the blood shed by victims of misfortune on Toril. The rocky mountainside was blasted by powerful winds making surface traversal a taxing and dangerous task. The realm of the Blood Tor was illuminated; however, it was unclear what was the source of light.
+
+Black rocks of the Blood Tor hid numerous caverns, often used by Beshaba's devotees and servants. The goddess herself was known to use caves with pools of blood-red water as her scrying bowls as she dispensed cruel punishments on those who slighted her. A sprawling cave system closer to the pinnacle of the Tor was the home and place of worship for Beshaba's devotees. Entrances into the cave system of Beshaba's court were well-hidden secret doors. Behind them, travelers could find stairs that let up the mountain, hallways, caves, shrines, and temples to the Lady of Misfortune.
+
+A single tower of granite stood on the summit of the Blood Tor—the palace of the goddess of ill luck Beshaba.
+
+The Blood Tor held portals to other layers of the Abyss.
+
+Flora & Fauna
+Very little vegetation could be found on the Blood Tor. The most common plant life was the red and black lichen that grew on the black and grey rocks of Beshaba's mountain.
+
+The 13 layer of the Abyss was home to huge black stags, totem servants of Beshaba. These creatures haunted the visitors of the Maid of Misfortune's realm. Among the wildlife of the Blood Tor, visitors could encounter creatures such as pest-like eyewings and deadly fetch.
+
+History
+The Blood Tor was considered one of the greatest tanar'ri military successes of the Blood War. The layer was the site of a major but unsuccessful baatezu blitz.
+
+In the, Beshaba used one of her blood-water scrying pools to punish Doljust, an aging nobleman who had displeased the goddess of ill-luck. She watched Doljust as he faced off against a werebat. The creature's cave had two dead toddlers in front of it, which was a grim omen of things to come. The goddess swayed the noble's hound, forcing the beast to pounce at the lycanthrope as Doljust swung his sword. As the man mourned his beloved dying dog, Beshaba's vengeance became apparent. Doljust swung his blade once again at a sound that came from behind. A moment later, another, smaller werebat, cleaved by Doljust's sword, shifted back to its humanoid form. The adolescent werebeast was a young child who whispered "grandfather" as he died in his older relative's arms. Satisfied with her work, Beshaba dismissed the scrying spell and left the cave with the blood-red pool.
+
+Later the same year, a group of adventurers, sent by Beshaba's fellow Torillian deity Finder Wyvernspur, arrived at the Blood Tor. Joel the Rebel Bard, a winged fighter named Jasmine, and a cheerful kender called Emilo Haversack traveled the deadly slopes of the Tor towards Beshaba's tower, thinking that the Lady of Misfortune was behind recent power surges that plagued Beshaba's sister Tymora. During their travels, Iyachtu Xvim attempted to lead the group to certain death in the guise of a god from the world of Krynn, Sirrion. The adventurers faced a deadly fetch, survived, and eventually discovered the Beshaba suffered the same affliction as her sister, sending waves and quakes of her divine power across the Blood Tor and wreaking havoc on Toril.
+
+Following the events of the Spellplague of 1385 DR, the Blood Tor became part of Tempus's divine realm of the Warrior's Rest in Limbo.
+
+Notable Locations
+Gallowshill, a cloistered fortress on the Blood Tor that belonged to a marilith general Taramanda. The fortress was closed to all by the general's most trusted advisers.
+
+Inhabitants
+The goddess herself resided in the granite tower, served by petitioners, alu-fiends, and other abyssal creatures. Beshaba was occasionally visited by her good consort Tempus.
+
+Notable Individuals
+Airdna and Okim, Beshaba's loyal servant alu-fiends circa 1368 DR.
+
+Appendix
+Appearances
+Novels
+Tymora's Luck
+
+References
+
+---
+
+## Blood Mountain
+
+The Blood Mountain tribe was a clan of bugbears who dwelt in the Giantspire Mountains.
+Activities
+The tribe had a reputation for savagery. They were known to hunt humanoids to collect their severed heads both within the Giantspire Gap, through which the Long Road ran, and along the eastern edge of Damara.
+History
+In the late 15 century DR, the Blood Mountains were known to be one of the most fearsome tribes in the Giantspires. They vied for control over the Giantspire Gap with the hobgoblins of the Razor Heart tribe.
+Members
+The tribe was led by Garnuuk as of the . Although predominantly a clan of bugbears, their ranks occasionally included ogres and giants as well.
+Appendix
+References
+
+---
+
+## Black Wolf (tribe)
+
+The Black Wolf tribe was a clan of hobgoblins active in the southern reaches of the Giantspire Mountains and in the Dunwood.
+Relationships
+The clan maintained a close alliance with the worgs of the Dunwood.
+History
+In the late 15 century DR, the Black Wolf clan was one of the only tribes which could successfully resist the expansionism of the Razor Heart tribe throughout the Giantspires. This was largely thanks to their ability to fall back to the Dunwood and their worg allies within, as well as to the fact that their chieftan possessed a Crown of Whispers, one of a pair of magic items which imbued the wearer with great charisma. The other Crown lay in the hands of the Razor Heart queen, Maaqua.
+Members
+The chieftan of the Black Wolf clan was Aruugan in the . While it was a clan of hobgoblins, they like many of the mightier goblinoid tribes of the Giantspires counted ogres and giants among their ranks.
+Appendix
+References
+
+---
+
+## Bloody Sash
+
+The Bloody Sash was a temple dedicated to Ilmater located within the fortified city of Yeshpek on the Lake of Steam in the late 14 century DR.
+
+Activities
+The temple, and Ilmater's worship in general, was unpopular in Yeshpek as the clergy preached that the goods produced within the city should be made as cheaply as possible to lower prices and increase affordability. Their teaching fell mostly on deaf ears.
+
+Inhabitants
+The Bloody Sash was run by Reverend Mother Hervanda Suulrath.
+
+Appendix
+References
+
+---
+
+## Blood bond
+
+A blood bond was a unique ritual performed by specialty priests of Malar called beasthearts.
+
+Activities
+A beastheart would select an animal species to empathize with during their very first hunt. Choices could include practically any mammalian predator, but common choices included bears, wolves, large cats, or wolverines. Once selected, the blood bond would ensure that the beastheart would never raise a hand to harm a member of the chosen animal species, nor would that type of animal ever harm the beastheart. Members of the selected animal species viewed the beastheart with respect as if they were in the same pack, but they were not the beastheart's companion or familiar.
+
+Appendix
+References
+
+---
+
+## Bloodsailors
+
+The Bloodsailors were a pirate guild with power and influence in the Docks District of Neverwinter circa .
+
+Organization
+The gang was led by the swashbuckler Vengaul Bloodsail, with Lieutenant Callik as his second-in-command.
+
+Base of Operations
+The Bloodsailors had several hideouts in the Neverwinter Docks District, including a secret base of operations in the basement of the Seedy Tavern.
+
+Possessions
+The Bloodsailors had a distinct red and blue uniform that was familiar to many in and around the Docks District, allowing them access to their hideouts and the Seedy Tavern. This uniform was bestowed on a member of the Bloodsailors when they joined, and was deemed so important to the gang that they would not expect to give it up easily.
+
+Relationships
+The Bloodsailors had many enemies fighting for territory in the Docks District, the most notable of which was the Blackriver Bandits.
+
+History
+In the, Callik betrayed Vengaul and attempted a revolt within the organization. Callik kidnapped Vengaul's girlfriend Dara'nei and sabotaged Vengaul's attempt to illegally auction off a cockatrice, which was an important component in curing the Wailing Death. Later the same year, in the wake of the Luskan-Neverwinter war, Bloodsailors found themselves in a full-on gang war with the Blackriver Bandits in the streets of the Docks District.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blindelsyn Olóssyne
+
+Blindelsyn Olósynne was the appointed leader of Relkath's Foot in Aglarond from at most  to at least . She spent most of her time overseeing the functioning of the town from the Royal Hall. She was the sister of Prince Branelwyr; both of them were direct, yet distant descendants of Brindor Olóssyne.
+
+Appendix
+Appearances
+Novels
+
+Stardeep
+
+References
+
+---
+
+## Bloody Scar
+
+The Bloody Scar were an orcish tribe that inhabited the Greypeak Mountains and the northern reaches of the Fallen Lands in the 14 century DR.
+
+Possessions
+Like most orc tribes in the Fallen Lands, the Bloody Scar occasionally rode upon axebeaks. While doing so, they typically wielded lances or shortbows.
+
+Relationships
+The other orcish tribes that inhabited the Graypeak Mountains and northern Fallen Lands, ruled by petty and constantly feuding kings, showed fealty to the Bloody Scar tribe and their leader. These included the Black Bone, Black Slasher, Seven Eye, and Severed Fist tribes.
+
+Members
+This tribe was ruled by an orc known as Ogrash.
+
+Appendix
+References
+
+---
+
+## Black Slasher
+
+Black Slasher was an orcish tribe that inhabited the southern reaches of the Fallen Lands in the 14 century DR.
+
+Possessions
+Like most orc tribes in the Fallen Lands, the members of the Black Slasher tribe occasionally rode upon axebeaks. While doing so, they typically wielded lances or shortbows.
+
+Relationships
+More often than not, the members of Black Slasher were seen to engage in warfare with the other orcish tribes that inhabited the southern reaches of the Fallen Lands. However, they showed fealty to the Bloody Scar tribe and their leader King Ogrash, who ruled over the northern reaches of the Fallen Lands.
+
+Appendix
+References
+
+---
+
+## Black Bone
+
+Black Bone was an orcish tribe that inhabited the southern reaches of the Fallen Lands in the 14 century DR.
+
+Possessions
+Like most orc tribes in the Fallen Lands, the members of the Black Bone tribe occasionally rode upon axebeaks. While doing so, they typically wielded lances or shortbows.
+
+Relationships
+More often than not, the members of Black Bone were seen to engage in warfare with the other orcish tribes that inhabited the southern reaches of the Fallen Lands. However, they showed fealty to the Bloody Scar tribe and their leader King Ogrash, who ruled over the northern reaches of the Fallen Lands.
+
+Appendix
+References
+
+---
+
+## Bloodarch Gate
+
+The Bloodarch Gate was a gate and tower located within the city of Tulmon along the coast of the Lake of Steam in south Faerûn.
+
+Defenses
+The Bloodarch Gate was always garrisoned with two hundred soldiers of the Stone Spears, Tulmon's standing army.
+
+Appendix
+
+References
+
+---
+
+## Blood in the Water
+
+Blood in the Water, designed by Ashley Warren and Chris Lindsay, is an adventure in the Dreams of the Red Wizards storyline published for the Adventurers League. It is the second part of the Sea of Fallen Stars series.
+
+Index
+
+Characters
+ •  •  •  •  •  •  •
+
+Creatures
+ •   •  •  •  •  •  •  •
+
+ •  •  •  •  •  •  •  •  •
+
+Items
+ •  •  •
+
+Locations
+ •  •  •  •  •  (,, ) •  •  •  •  •
+
+ •  •  •  •  • •  •
+
+Magic
+ •  •  •
+
+ •  •  •
+
+Organizations
+ •  •
+
+Religion
+
+Miscellaneous
+
+Appendix
+Credits
+ D&D Adventurers League Guildmaster: Chris Lindsay
+ D&D Adventurers League Wizards Team: Adam Lee, Ari Levitch, Bill Benham, Chris Lindsay, Mike Mearls
+ D&D Adventurers League Administrator(s): Lysa Chen, Amy Lynn Dzura, Claire Hoffman, Greg Marks, Alan Patrick, Travis Woodall
+ Playtesters: Will Ansell, Bill Benham, Justin Donie, Sarah Keortge, Ari Levitch
+References
+
+Connections
+
+---
+
+## Blackfingers Ralingor
+
+Blackfingers Ralingor was an infamous pirate captain of the Kissing Shark in the Utter East circa 1371 DR.
+
+History
+The Kissing Shark under Raligor was a legendary raider of the Utter East's seas.
+
+Some time in the, the Kissing Shark was destroyed in a blast of smoke powder. Blackfingers Ralingor perished and only seven of the Sharkers survived.
+
+The Sharkers later revealed that Blackfingers Ralingor had in fact died at some point and afterward, at the suggestion of crewman Belgin Dree, Blackfingers Ralingor became an alias: all the Sharkers were Blackfingers, and he was them.
+
+Appendix
+Appearances
+Novels
+The Mercenaries (mentioned only)
+
+Conspiracy
+
+References
+
+---
+
+## Black Orc Grog
+
+Black Orc Grog was a strong intoxicating brew distilled by some orcish tribes of the Delimbiyr Vale.
+
+Description
+This dark, almost pitch-black beer was aggressively bitter and unpalatable to most non-orcs. Its sinister appearance and bitter taste made most folk think that Black Orc Grog was, indeed, an evil brew.
+
+History
+Black Orc Grog was concocted by orcs who were enrolled in an army of the Gorgomorz–Daggerford's devil adversary. In the, Gorgomorz's army was hidden in caverns not far from the Wild Pastures to the west of the hamlet of Liam's Hold.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Blood rock
+
+Blood rock was a rare, magical variety of stone that would form at areas where great violence was committed, such as the site of a great slaughter, a site of ceremonial sacrifices, or the site of an ancient battlefield.
+
+Properties
+This stone was charged with necromantic energy, or what some described as being the very essence of war and violence. Its name was derived from the mineral streaks that ran through it, which were blood red in coloration.
+
+When carried around, blood rocks did not impart any special benefits. But when one stood upon it, a creature had a far greater chance of inflicting a significant wound upon a foe, making weapons strike harder and claws tear deeper than they would otherwise.
+
+A creature that died upon blood rock would have its life force pulled at by the necromantic energies that suffused it. This led to all fluids in a corpse quickly draining, leaving it as a shriveled husk within a matter of a few days.
+
+Habitats
+Blood rock naturally occurred on some Outer Planes. It could be found in parts of the Elemental Chaos. And on the Prime Material world of Toril, it could be found in parts of the Thunder Peaks and in some of the rubble of the Spellgard ruins.
+
+Usage
+If extracted, blood rock could be used to infuse the earth or stone of another location with the same violent essence it gave off. For every  of area that one wished to deliberately seed with blood rock,  of the material was required. Once set, it took a period of 48 hours or more before the presence of blood rock would permeate the area.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blade (class)
+
+Blades were a variety of bards that demonstrated fantastic showmanship while wielding bladed weapons. The term was also used to refer to those bards of the College of Swords. They were considered to be both excellent combatants as well as captivating entertainers.
+
+Activities
+While some blades were content as performing knife-throwers at carnivals, others took up more daring occupations such as that of an adventurer or even an assassins. Yet others blended two lives together, acting as a beloved entertainer by day and deadly sword-for-hire by night.
+
+Abilities
+They performed elaborate demonstrations that involved flashy leaps, intricate slashes, and forceful jabs made with their chosen blade. These displays demanded exacting movements and gracefulness on the part of the performer. When executed in combat, a blade's performance could inspire their allies and demoralize their foes, assuming they were intelligent enough to recognize the blade's prowess and skill.
+
+Blades were exceptionally skilled in one of two forms of bladed combat: either wielding a one-handed blade with an empty offhand, or wielding two lighter bladed weapons. They could alter their dance-like twirls and slashes referred to as 'spins' or 'flourishes'. These maneuvers could be performed defensively, allowing them to better parry incoming attacks, or offensively, to threated their foe and inspire fear in their heart. Blades could also utilize their combat flourishes to exact especially harmful strikes in combat, and if needed reposition themselves around their foe.
+
+Skilled blades could strike faster than their less-experienced counterparts, performing more attacks in the same amount of time in battle.
+
+Master blades could perform flourishes whenever they desired in combat, and did not require rest to replenish themselves between engagements.
+
+Possessions
+They preferred to wear medium armor, often in darker colors, and many chose to obscure their appearance behind half-masks or head scarves.
+
+Notable Blades
+ Haer'Dalis, the tiefling bard from Sigil that performed with Raelis Shai's wandering troupe.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Black Boot (disambiguation)
+
+"Black Boot" or "The Black Boot" can refer to:
+ The Black Boot, a cheap and dangerous inn in Westgate,
+ The Black Boot, a notorious sailor's inn in Tarmalune,
+ The Black Boot, an affordable and busy inn in Blackbarn, or
+ Black Boot Stout, a beer brewed at Arlho's Fine Flasks in Ashabenford.
+
+---
+
+## Bloomers
+
+Bloomers were an uncommon type of women' pants with with legs that were the widest and puffiest at the bottom.
+
+Availability
+Elves of Evermeet wore bloomers. When a person had think and unsightly "chicken" legs, children joked about them needing longer bloomers.
+In Cormyr, and the city of Marsember, bloomers were a common sight. They came in various sizes and often were white.
+In the underground city of Skullport, the store Girdles, Bloomers, and Hose sold various feminine clothes in the late 14 century DR.
+Bloomers were worn by inhabitants of some of the Domains of Dread.
+
+History
+In the, Glarasteer Rhauligan, a Cormyrean merchant, used oversized freshly laundered bloomers as a bandage.
+
+Appendix
+Appearances
+Novels
+
+Evermeet: Island of Elves • Elminster's Daughter
+
+References
+
+---
+
+## Bladedance
+
+Bladedance was a spell used by clerics of Eilistraee.
+
+Effects
+This spell was cast on any single-bladed melee weapon. When cast successfully, the touched weapon became animated and attacked a targeted creature. The enspelled weapon only moved and fought; no other magical ability was given. The caster had to remain within  of the weapon otherwise the spell expired prematurely and the weapon fell to the ground. The caster's skill level determined the size of the weapon that could be enchanted.
+
+The weapon attacked the targeted creature as if wielded by the caster. It could also effectively defend the caster from attack. The weapon did not require the caster's focus. While the spell was in effect, the caster was free to move about and cast another spell.
+
+Components
+In addition to verbal and somatic components, this spell required both a material component, the holy symbol of Eilistraee.
+
+Appendix
+References
+
+---
+
+## Black Dragon Mask
+
+The Black Dragon Mask was one of the five dragon masks that carried the blessings of Tiamat in the efforts of the reformed Cult of the Dragon to summon her to Toril.
+
+Description
+The Black Dragon mask was crafted to resemble a shiny black color skull, akin to the visage of a black dragons.
+
+Powers
+The wearer of the Black Dragon Mask gained protection from harm caused by acid or physical attacks. Whenever they struck a creature or ignitable object with flame-related magic or any incendiary weapons, their target would catch aflame. The wearer was also granted darkvision and blindsight, along with an the understanding of the Draconic language.
+
+The main power of the Black Dragon Mask, along with the other dragon masks, was to transform its wearer into a wyrmspeaker. These individuals were granted thought processes similar to those of dragons, and granted slight influence over their behavior.
+
+When two or more of the masks were brought together, they reformed as the Mask of the Dragon Queen, which combined their respective properties and granted them each upon the wearer. Additional pieces of the five other dragon masks could later be added as well. This valuable artifact was the essential piece needed to complete the ritual that could free Tiamat from the Nine Hells.
+
+History
+As of the 1480s DR, the Black Dragon Mask remained in possession of Wyrmspeaker Rezmir of the Cult of the Dragon. It was taken to the cloud giant stronghold Skyreach Castle for a time, before being taken to the cult's citadel at the Well of Dragons, and used to summon Tiamat to the Realms for a brief time.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+ Hoard of the Dragon Queen
+
+The Rise of Tiamat
+Comics
+ Tyranny of Dragons
+References
+
+---
+
+## Blue Feather (lizardfolk)
+
+The Blue Feather were a lizardfolk tribe in the Lizard Marsh who wore belts and baldrics decorated with blue feathers.
+Possessions
+The leader of one band of Blue Feather lizardfolk possessed an amulet of ceratosaur summoning and control that allowed them to bring nearby ceratosaurs to their aid.
+Relationships
+Tensions arose between Redeye and the Blue Feather Clan when the Blue Feathers' raids drew scrutiny from the Daggerford militia.
+History
+Around the, the Blue Feather Clan raided Cromm's Hold while Baron Cromm and his men were out hunting. The lizardfolk slaughtered most of the hold's occupants, looted household items, and set the tower ablaze, resulting in its partial collapse.
+Appendix
+Appearances
+Adventures
+Under Illefarn
+References
+
+---
+
+## Blue Feather
+
+Blue Feather can refer to:
+
+ Blue Feather (lizardfolk), a tribe in the Lizard Marsh.
+ Blue Feather (orcs), a tribe in the High Moor.
+ Agents of a Pan yakuza family who bore a small blue feather tattoo.
+
+---
+
+## Blue Feather (orcs)
+
+The Blue Feather were an orc tribe of the High Moor.
+Relationships
+Blue Feather orcs were among those tribes treated with hostility by the humans and goblinoids of the High Moor, such as the Belcondi and Girondi barbarian tribes.
+History
+Around the, orcs of the Blue Feather Clan joined with other orcs and goblins under the leadership of Jagurt Redclaw and mustered in the Misty Forest to mount an assault on Daggerford.
+Appendix
+Appearances
+Gamebooks
+Spawn of Dragonspear
+References
+
+---
+
+## Blessed craftsmanship
+
+Blessed craftmanship was a spell used by clerics of Laduguer.
+
+Effects
+When cast on a targeted individual, this spell greatly increased their craftmanship and skill while crafting an item. The item in turn became permanetly enchanted.
+
+Components
+In addition to verbal and somatic components, this spell required material components, the holy symbol of Laduguer and whatever materials and tools that were required. These had to by physically touched by the caster during casting.
+
+Appendix
+References
+
+---
+
+## Blackdorn's Way
+
+Blackdorn's Way was a street found in the coastal town of Aithelar in Callidyrr on the Moonshae Isles in .
+
+Location
+Blackdorn's Way was found in southwest Aithelar in between Finn's Alley and Aithe High Street. Blaedar Street branched to the northeast from the middle of Blackdorn's Way. Callidyrr Ride merged with Blackdorn's Way where the Silver Boar was located.
+
+Notable Locations
+ Seaview House
+ The Silver Boar
+
+Appendix
+References
+
+---
+
+## Blaedar Street
+
+Blaedar Street was a street found in the coastal town of Aithelar in Callidyrr on the Moonshae Isles in .
+
+Location
+Blaedar Street was located in southern Aithelar. It ran northeast between Blackdorn's Way and Bottle Lane, intersecting Aithe High Street near its center.
+
+Appendix
+References
+
+---
+
+## Blacksmiths' Guildhouse
+
+The Blacksmiths' Guildhouse was the guildhall for the blacksmiths in the city of Daggerford in the Western Heartlands in the mid-to-late 14 century DR.
+
+Location
+The guildhall was located along the Trade Way where Water Street connected in the southern section of Daggerford near the River Gate.
+
+Appendix
+References
+
+---
+
+## Black adder stew
+
+Black adder stew was a local delicacy served at the Slithering Serpent Inn in the city of Hlondeth in the Vilhon Reach.
+
+History
+At some point before the, Adamar Session, Bard of Starmantle, visited the Slithering Serpent Inn during his twelve-year adventuring trek across the Reach. Black adder stew was highly recommended by Adamar in his guide book to the Vilhon Reach.
+
+Appendix
+See Also
+Snake soup
+References
+
+---
+
+## Blood Axe Smashers
+
+The Blood Axe Smashers, who were also called the Smashers, were a Zhentilar patrol of wicked humanoids that operated out of Darkhold during the mid-14 century DR.
+
+The symbol of the Smashers was a large skull on a purple field which was designed to be an insult to the Purple Dragons.
+
+Organization
+The group was led by an scro named Thergod. Those under Thergod's command included sixteen ogres and a trio of hill giants.
+
+Activities
+The Blood Axe Smashers had never been defeated in battle and were skilled in setting elaborate ambushes for their targets. The Smashers were such a threat that King Azoun Obarskyr IV offered a reward of 2,000 gp for their destruction.
+
+Appendix
+References
+
+---
+
+## Black Street
+
+Black Street was a road located in the city of Zhentil Keep during the mid–14 century DR.
+
+Location
+Black Street was located within the Common Quarter in eastern Zhentil Keep. The road ran north to south in between the Street of Swords to the north and Ale Street to the south. Along the way Black Street was intersected by Dusk Street, Traders' Way, and Realm Street.
+
+Notable Locations
+A barracks for the Zhentilar was located on Black Street.
+
+Appendix
+References
+
+---
+
+## Bloodhound
+
+Bloodhounds were a domestic breed of dog. They were among the largest breeds of dogs and were quite adept at tracking, to the point that they were primarily utilized for this purpose.
+
+Ecology
+Relationships
+Bloodhounds sometimes acted as servants of the halfling god Arvoreen. And members of the Fellowship of Stalkers of the Silent Path typically had a bloodhound companion.
+
+History
+Around 1035 DR, the Hultmark family of Waterdeep owned a pair of vampiric bloodhounds. In their manor's kitchen the family kept a jar of dog treats for them that were infused with blood.
+
+Trivia
+A tuft of fur from this breed was needed as a material component to cast the spells locate creature and locate animals or plants.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Black Chimes
+
+Black Chimes was a unique heavy flail that hailed from the long-destroyed by the beginning of the 14 century DR town of Slow Cedric's Gallop in Icewind Dale.
+
+Description
+Black Chimes haft was a metal rod. Three heads were attached to it via thin black chains of iron; each was a hollow metal tube. When the flail was in someone's hands, its heads moved about as if in a breeze, clanking together like a wind chime. There was no way of muffling the chime sounds, not even by wrapping the weapon in padding.
+
+Powers
+The weapons possessed a +1 enchantment, and when swung in battle, the Black Chimes collided with the sound of thunder, likely leaving its targets deafened.
+
+History
+When the small village of Slow Cedric's Gallop was raided and destroyed by a tide of orcs in the winter of the, the entire settlement was buried under the copious winter snows of the Spine of the World. The following spring, travelers braved the dangerous Southern Pass and discovered only the top of Slow Cedric's Gallop's stone belltower being above the snow. The travelers found Black Chimes laying on the tower's blood-stained floor, surrounded by frozen orc corpses.
+
+Little lore was recorded of Slow Cedric's Gallop, but it was believed that Black Chimes was the symbol of office, wielded by the town's Bell Warden, who was in charge of ringing the tower's bell in the face of danger and defending the village in combat. Loremasters believed that the last, or one of the village's past Bell Warden were the creators of Black Chimes.
+
+At one point before Mirtul of the, Black Chimes was in stock of the Gallaway Trade Depot and available for purchase from Deirdre Gallaway in Targos.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale II
+
+References
+
+---
+
+## Blaermar
+
+Blaermar of Athkatla was a mage of the late 3 century DR. He challenged Adriyana Voudsarr for the position of the Magister; during their duel, though he lost, his flames laid waste to much of the Neverwinter Wood.
+
+Appendix
+References
+
+---
+
+## Blade of Chult
+
+Blades of Chult were enchanted greatswords wielded by cruel slavers from the danger-filled jungles of Chult.
+
+Powers
+These hefty blades were imbued with +1 enchantments and were ensorcelled to produce potent poison that sapped the target's health and withered their physique.
+
+History
+These gruesome weapons originated from the jungles of Chult, wielded by its serpentine slavers. In order to keep their "cattle" cooperating, the slavers used swords imbued with deadly poisons on the most spirited captives or on those who were brave enough to attempt an escape. A single cut was enough to make the unruly captives sick and suffering. It often took a promise of antidote to keep poisoned slaves in line. In the, one Blade of Chult was sold in Westgate, among countless unique rare weapons and armor on the city's Market Triangle.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights: Shadows of Undrentide • Neverwinter Nights 2 • Neverwinter Nights 2: Mysteries of Westgate)
+
+References
+
+---
+
+## Black Blades at Sunset: Ten Years a Pirate
+
+Black Blades at Sunset: Ten Years a Pirate was a book of personal accords penned by Vardrella “Bloodmaiden” Blawdul in 1391 DR.
+
+Contents
+Black Blades at Sunset was a memoir and a collection of musings of a pirate, reaping ten years of her life as a buccaneer. Vardrella proclaimed in the book her preference for the dangers of the sea than being a lying ruler or a politician in a big city, surrounded by betrayal and falsehoods.
+
+Appendix
+Appearances
+Novels
+Death Masks
+
+References
+
+---
+
+## Blast-globe
+
+Blast-globes, also known as blast globes, were a favored magical weapon of the Zhentarim. Their destructive potential was awesome.
+
+Description
+Each blast-globe resembled an irregular cluster of a dozen or so glassy spheres. Once activated, the spheres separated and began to hover and spin lazily around each other, glowing with a white, faint inner radiance; past one minute, they instead pulsed with bright, inner fire.
+
+The version best known after  carried a slight inner fire even when not yet activated.
+
+Powers
+Blastglobes were not magically reinforced; their magic dissipated if even one sphere was cracked. They remained inert until activated with a command word; on activation, they took a minute to power up. If smashed during this minute, they unleashed a chain lightning effect. After the minute had elapsed, their full powers manifested, and they could be thrown or otherwise smashed. As soon as they made contact with a solid, they dealt out an absolutely devastating explosion to all within ; the explosion extended all the way to  with only mildly reduced force, and flinging all living creatures within the area up to  away. As a small mercy, the roiling air around them cushioned any further damage on impact. Any unattended item within the area was about as likely to be blown to cinders as it was if it had been disintegrated; attended objects were still very, very likely to be crushed by the force of the explosion. People within  were at risk of deafening for around five minutes, maybe eight at the most.
+
+The version best known after  was more stable, without any risk of chain lightning during activation, and they could be directed to strike instead of hurled; they possessed a reach of  on their own power. They were also much more mild in their destructive effects, dealing mostly fire damage as a powerful fireball, and a small amount of sonic damage. Targets inside the area were also likely to get deafened for around seven minutes. They were also flung up to  away from the epicenter. A key difference, however, was that the globe reformed at the user's hand; it would be ready to attack again the next day.
+
+History
+Blast-globes were initially devised by Isilger Mountrant, who shared the secret with Alvagaerus Firthond, who was in turn mind-reamed and slain by Sememmon, who shared the secret with other high-ranking members of the Zhentarim. As of the early 1370s, fewer than 100 blast-globes were thought to exist; the secrets of their construction were left only with Manshoon, Sememmon, and maybe other high-ranking members of the Zhentarim: many of the latter perished in the fighting between Shandril Shessair and the beholders of Zhentil Keep in .
+
+Construction
+Isilger Mountrant's original version employed a number of spells, including disintegrate and fireball. The version most common after  employed instead fireball and shout only.
+
+Appendix
+See Also
+Blastglobes, a less lethal weapon found in Neverwinter.
+
+Appearances
+Novels
+Shadows of Doom
+
+References
+
+---
+
+## Blastglobe
+
+Blastglobes were a favored magical tool of the Graycloaks of the Neverwinter Guard.
+
+Description
+These devices resembled bronze-hued glass spheres.
+
+Powers
+When hurled (usually in battle), they released a powerful blast of pure concussive damage. Some blastglobes instead enclosed objects for delivery to the site, though they did not work for enclosing liquids, gases, or living things, even in stasis fields.
+
+History
+Blastglobes were manufactured by the mages of the Many-Starred Cloak as of the mid-to-late 14 century DR.
+
+In, the Kalach-Cha may have found a box of blastglobes, some of which were unstable and thus unsuited for use in battle. The unstable globes may have been used later to clear a rockfall in a mountain; it is possible that he may have been informed about their uses by Grobnar Gnomehands; to his recall, they had been last used in the far past, against an orcish horde of hundreds.
+
+Appendix
+See Also
+Blast globes, a more lethal item used by the Zhentarim.
+
+Appearances
+Video Games
+Neverwinter Nights 2
+References
+
+---
+
+## Blood elemental
+
+Blood elementals were creatures summoned form the life-giving liquid – blood, known to be exceedingly rare outside the Domains of Dread.
+
+Description
+Blood elementals took shape that was similar to that of a humanoid made out of flowing crimson blood, and occasionally the shape of a formless blob. Each step they took left puddles of drying blood. Like regular blood, these elementals smelled distinctly of iron and salt. The creatures could form tentacles made of blood used to interact with objects and slam the enemies. Smaller tentacles continually angulated and retracted throughout the rest of the body.
+
+Abilities
+The elementals were a variation of a water elemental, but despite being liquid, blood elementals could not cross open water as it quickly diluted and washed away the monsters' bodies.
+
+Behavior
+Blood elementals were considered to be purposeful and orderly creatures when unchecked from magics that controlled them. Even though their intelligence was lackluster, blood elementals often stalked the creature that summoned them tirelessly while destroying anything on their path.
+
+Combat
+In combat, blood elementals were single-minded brutes. They slammed opponents with powerful tentacles of blood. However, physical trauma was not the only danger when dealing with these elementals. Every time a slamming tentacle touched a living creature, it had a chance of drawing blood from the opponent, increasing the size of the elemental. The second attack they unitized was smothering enemies inside their bodies. The elementals could hurl themselves at opponents, engulfing them and drowning within their blood-formed bodes.
+
+Ecology
+Blood elementals were unnatural creatures summoned from copious amounts of blood and water from the lungs of the drowned. This made blood elementals quite rare. Summoning a blood elemental using blood or lung water from an extremely evil and malicious individual had a chance of summoning a dramatically bigger and stronger creature.
+
+History
+In the, a powerful magical artifact known as the Bloodbone Throne of Uruth that once belonged to an orcish king Uruth of Uruth Ukrypt, was claimed by black dragon Shammagar, and eventually changed hands and was lost. The throne's magics allowed it to summon blood elementals of various sizes.
+
+Rumors & Legends
+Vistani people of Barovia talked of a blood elemental summoned from the blood of a pack of evil werewolves. The resulting creature was said to be bigger, stronger, and had strange and powerful abilities far beyond a normal elemental.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Tome of the Traitor
+
+References
+
+---
+
+## Bladreth Crackbone
+
+Battlemaster Bladreth Crackbone was the High Priest of Tempus in Battlehall in the Foreign Quarter of Zhentil Keep in the .
+
+Activities
+Bladreth ran the operations within Battlehall and was assisted by eight other priests. He saw a surge in followers flocking to Tempus' banner following the destruction of Zhentil Keep in the .
+
+Apendix
+References
+
+---
+
+## Black Network Headquarters
+
+The Black Network Headquarters was the base of operations for the Zhentarim in Zhentil Keep during the mid-to-late 14 century DR following the city's destruction in .
+
+Location
+The Headquarters was located in south Zhentil Keep in the eastern section of the Foreign Quarter just off of Bridge Street.
+
+Description
+The building was a small mansion.
+
+Inhabitants
+Nimbaud was the head of the Zhentarim using the headquarters. A priest of Cyric named Synnda worked within the headquarters as well.
+
+Defenses
+Both the front and rear doors were guarded with glyphs of warding. Six Zhentarim warriors armed with greatswords guarded the building.
+
+Appendix
+References
+
+---
+
+## Bloodlick
+
+Bloodlick was a type of paste from the village of Maskyr's Eye in the Vast that was eaten as a spread for hardbread.
+
+Description
+Bloodlick was made by cooking meat scraps and animal blood into a thick gravy, and then thinning it with bacon fat. It was eaten by farmers, often to accompany wildsage stew.
+
+Appendix
+References
+
+---
+
+## Blade Cliffs
+
+The Blade Cliffs was a chain of dangerous high cliffs on the Sword Coast North, to the southwest from the city of Daggerford and to the south from the Lizard Marsh.
+
+Description
+The length of the Blade Cliffs coastline ended in a perilous drop to the sea level and jagged rocks. A large structure of note was Castle Exeltis that was built on a large cliff and protected by a drawbridge across a chasm. On the bottom of the cliffs by the castle was the gravestone monument dedicated to Lady Exeltis, murdered by her son in the 14 century DR. The rest of the area held several caves that ran deep toward the sea level and lush green woods and vineyards of the Exeltis family. To the south of the noble family's keep, was an old shipwreck impaled by the Blade Cliffs' dangerous rocks.
+
+Flora & Fauna
+The coastline had a population of hungry seagulls and majestic ospreys that used updrafts to glide over the clifftops. An occasional wild boar or deer could be seen dashing through bushes of small delicate grey grapes with wide green leaves not found anywhere else on Faerûn, used to create the famed Exeltis Ice Wine. The sea caves were home to dangerous ochre jellies.
+
+History
+
+Castle Exeltis was built on the Blade Cliffs several human generations before the late 14 century DR, and the lands were used by the family's vineyards. The family became its decline after the scion of the Exeltis family murdered his father and, several years later, tossed his mother off the Blade Cliffs. In the, Castle Exeltis became besieged by Sir Griswald and his knights seeking to rescue his kidnapped lover.
+
+Notable Inhabitants
+Feldran Exeltis, the murderous noble scion of the Exeltis family in the late 14 century DR.
+Nosfiraat, a vampire trapped within the crashed ship, possibly slain in 1372 DR.
+Wogbog, a hungry hermit who lived in a tent not far from the sea circa 1372 DR.
+Xianga and Beb-Shuur, two dim-witted members of the so-called Order of Theorosophers circa 1372 DR.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Blackstar Lane
+
+Blackstar Lane was a small alley that was located in the city of Waterdeep.
+
+Location
+Blackstar Lane connected Snail Street with Gut Alley in Waterdeep's Dock Ward, branching due west from Snail Street and merging with Gut Alley a few buildings south of Leera's Alley. Both Three Daggers Alley and Dust Alley connected to the south side of Blackstar Lane.
+
+Notable Locations
+The Blackstar Inn was located at the intersection of Blackstar Lane and Gut Alley.
+
+Appendix
+References
+
+---
+
+## Black Well Court
+
+Black Well Court was a small courtyard that was located in the city of Waterdeep.
+
+Location
+Black Well Court was located in Waterdeep's Dock Ward. The court sat between Book Street and Snail Street, with the main entance branching west off of Book Street. A well sat in the center of the court.
+
+History
+The well found in the center of Black Well Court was polluted with black water, thus giving the court its name. It was also infested with a variety of monsters. It was sealed by order of the Lords of Waterdeep. The court served as a meeting place for various street gangs and cultists and was heavily patrolled by the City Watch.
+
+Appendix
+References
+
+---
+
+## Black Wagon Alley
+
+Black Wagon Alley was a small backalley that was located in the city of Waterdeep.
+
+Location
+Black Wagon Alley was located in Waterdeep's Dock Ward. It originated on Book Street, branching east to terminate at several dead ends in between Book Street and the Way of the Dragon.
+
+History
+The houses lining Black Wagon Alley were the homes of destitute citizens of the City of Splendors. As such, thieves lurked in the shadows and often set trip and strangle wires for unsuspecting victims, especially on the eastern end of the alley. City Watch patrols were often busy clearing such traps.
+
+The alley was named for a ghostly black plague wagon that was sometimes witnessed moving slowly and silently along the road without a horse or driver. It was said that any who encountered the wagon risked catching cackle fever.
+
+Appendix
+References
+
+---
+
+## Bloody Eye
+
+The Bloody Eye tribe was an orcish tribe that inhabited the High Forest in the mid-to-late 14 century DR.
+
+Homeland
+The orcs lived in small villages and underground tunnels in the High Forest, located around two days' journey from the forest's edge.
+
+Customs
+Their tribal symbol and totem was of course a bloody eye.
+
+Like many of the High Forest orc tribes, the Horned Lord tribe worshiped Herne the Wild Hunter.
+
+Abilities
+The members of this tribe possessed many of the forestry skills typical of rangers.
+
+Relationships
+The members of this tribe were often at odds with human, elf, and half-elf rangers.
+
+Appendix
+References
+
+---
+
+## Bladder
+
+Bladders were animal bladders that could be inflated to be enjoyed as children's toys, employed as bardic props, or used as spell components.
+
+Description
+While they could vary in size, the most popular bladders for entertainment purposes were from pigs, and could be inflated to the size of a human head. Bladders could be inflated with air or water. With air, they could be tied to a string, released to splutteringly fly around, or popped to produce a loud noise. With water, there was little more that could be done save for throwing them, although children could reliably devise more mischievous uses.
+
+Bladders were useful for causing diversions or distractions.
+
+History
+In the mid-to-late 14 century DR, bladders were sold as bardic equipment from Aurora's Emporium, where they cost 1 gold piece per five pig bladders. The Emporium also carried smaller animal bladders for 5 copper pieces apiece, which were sold as material components for priest spells such as deep breath or steal breath. Around the same time, inflated odd-sound-making goat bladders were available for same from a magical curio shop called The Tricky Thief in the hamlet of Skull Crag in Cormyr.
+
+Appendix
+See Also
+ Wineskin, a form of canteen or flask generally made from sheep's bladders.
+
+Appearances
+
+References
+
+---
+
+## Bloodstone Runehammers
+
+The Bloodstone Runehammers, also referred to simply as the Runehammers, were a group of dwarven warriors dedicated to protecting the dwarfholds of the Kingdom of Bloodstone in the 15 century DR, although their oath survived the fall of that realm.
+
+Activities
+The Runehammers were sworn to defend the various dwarven clans and holds of the Bloodstone Lands from monsters and other incursions. They were professional fighters and warlords known for their perceptiveness and dungeoneering skills.
+
+History
+The Runehammers' duty became increasingly taxing following the overthrow of Bloodstone by the Warlock Knights of Vaasa, and in particular the Knights' subsequent assault on Hillsafar Hall and expulsion of Clan Orothiar from Bloodstone Mines in the .
+
+Despite opposing the Warlock Knights, the Runehammers remained active in Vaasa. As of the, the Runehammers were party to a plot between Clan Hillsafar and Clan Orothiar to reclaim Bloodstone Mines.
+
+Appendix
+References
+
+---
+
+## Blue Bess
+
+Blue Bess was a female miniature behir used for breeding at the Behir's Nest shop in Khaerbaal circa 1370 DR.
+
+History
+As of the, Blue Bess was considered a good breeding stock. In the spring of that year, she produced a new brood of three from mating with another miniature behir named Ethan, under the watchful eye of artificer Justin, the proprietor of the Behir's Nest. Blue Bess's spawn were kept in a series of shallow pools within the shop where the young creatures were groomed, fed with chopped-up fish and eels, and allowed to lounge on sunning rocks until purchased. All three of Blue Bess's brood had only six legs, owing to their young age, and topaz-blue scales, which was a color popular among the mages of Khaerbaal.
+
+The hero of the Battle of Akhlaur's Swamp, Tzigone, briefly worked at Behir's Nest, taking care of Blue Bess's brood in the spring of 1370 DR.
+
+Appendix
+Appearances
+Novels
+
+The Magehound
+
+References
+
+---
+
+## Bleskos Wavesilver
+
+Bleskos Wavesilver was a lord and noble of the Waterdhavian noble house Wavesilver during the mid-to-late 14 century DR.
+
+Activities
+He lived within Wavesilver Villa located at the corner of Ivory Street and Flint Street in the central section of Waterdeep's Sea Ward.
+
+Relationships
+Bleskos' consort was Apryl Wavesilver and his second son and heir was Aristed Wavesilver.
+
+Appendix
+References
+
+---
+
+## Bliss Street
+
+Bliss Street was a small road that was located in the city of Waterdeep.
+
+Location
+Bliss Street was located in the western section of Waterdeep's Sea Ward. It branched east from Westwall Street and ended on the western curve of Ivory Street after passing several buildings.
+
+Appendix
+References
+
+---
+
+## Blood sauce
+
+The so-called blood sauce was a popular condiment that originated from Calimshan in West Faerûn.
+
+Description
+Despite its colorful name, Calishite blood sauce contained no bodily fluid. Instead, the bloody color was achieved by cooking tomatoes into a mildly-spicy and unsweetened chili sauce. The condiment was served with pan-fired quipper fish as evenfeast at the Yawning Portal in the City of Splendors, Waterdeep.
+
+Appendix
+References
+
+---
+
+## Blade Lane
+
+Blade Lane was one of the easternmost streets in Suzail that ran parallel to Torch Street to the west.
+
+Description
+Blade Lane began on Coachwheels Way, moved south while curving west, until reaching its end on the street that housed the Market Hall of Suzail and the print shop – Tavernant's Tellings.
+
+Appendix
+Notes
+
+See Also
+Interactive map of Suzail
+References
+
+---
+
+## Black Cat Way
+
+Black Cat WayThe Forgotten Realms Interactive Atlas has this street mislabeled as "Black Cart Way." was a road that was located in the city of Waterdeep.
+
+Location
+Black Cat Way was located in the south section of Waterdeep's North Ward. The road branched south off of the southwest side of Golden Serpent Street just south of the intersection with Undal's Lane and Downybeard Tobacconist. Black Cat way passed southeast before turning sharply east at its southern end to merge with Sammarin's Street. Unnamed alleys branched off both the east and west sides of Black Cat Way.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Blightguard
+
+Blightguard was an enchanted tower shield created imbued with magics of the Wood Man.
+
+Powers
+The shield possessed a powerful +4 defensive enchantment. When the shield was wielded against plant creatures, it effectively became a +8 item. Additionally, the wielder of Blightguard had their physical strength boosted dramatically as long as they held the shield in their hands.
+
+History
+Blightguard was created ages before the 14 century DR by the spirit of Ashenwood – the Wood Man, when it was at peak power. The shield was believed to be powered by the forest itself.
+
+By the, the tower shield found its way into possession of a Rashemaar berserker named Odesya stationed in the Ashenwood's Lake of Tears Garrison, a Rashemi fort led by a wychlaran Dalenka.
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Mask of the Betrayer
+References
+
+---
+
+## Black Frog
+
+The Black Frog was a tavern of some repute in the city of Athkatla in Amn.
+
+History
+The Black Frog was a favorite local establishment in the city's Trades District as of the late 14 century DR. However, the Frog was not distinct enough for the famous writer Volothamp Geddarm to talk about it in any detail in his book – Volo's Guide to Baldur's Gate, published at some point in the late 14 century DR.
+
+Appendix
+References
+
+---
+
+## Blue Flagon
+
+Blue Flagon was a type of ale concoction found in the fishing town of Tulmene on the Dragon's Head Peninsula in Tethyr.
+
+Description
+Blue Flagon was served at the Fast Sails tavern in Tulmene. It was more expensive than the tavern's swirl – Red Wyrm Ale. The Flagon was a dark nutty ale with an after taste that cleared up one's throat. Some called it almost minty.
+
+Appendix
+References
+
+---
+
+## Black Bastion
+
+The Black Bastion was the divine realm of the greater god Bane, god of strife and tyranny.
+
+Description
+Bane's fortress was said to have one been the most imperious and terrifying domain in all the Barrens of Doom and Despair. It was said to be so massive that it struck out any lingering light in the barrens' skies.
+
+The magnificent palace was constructed from the darkest metals and wood, like adamantine and ebony, and adorned with lustrous precious stones like jet and obsidian.
+
+Cosmography
+By the the Great Wheel cosmological model, the Black Bastion was said to reside in Avalas, the 1 layer of eternal battleground of Acheron.
+
+Under the World Tree and World Axis models, it was situated in the Barrens of Doom and Despair, also known as 'Banehold'.
+
+Notable Locations
+The only recorded landmark of note within the Black Bastion was Bane's personal throne of skulls.
+
+Inhabitants
+The Black Bastion housed Bane's personal army, which included devils and other extra-planar soldiers that heeded his call for war.
+
+It was also home to the beasts of Bane, nocturnal monsters that were much more menacing than their mundane kin.
+Appendix
+Appearances
+Adventures
+
+Shadowdale: The Scouring of the Land
+References
+
+---
+
+## Blood Plagues
+
+The Blood Plagues were a supernatural weather event caused by the wrath of the orcish god Yurtrus that led to widespread disease and death in the Sword Mountains during the .
+
+Description
+Beginning on Uktar 30, red thunderclouds amassed above the Sword Mountains. For three days—Uktar 30, the Feast of the Moon, and Nightal 1—blood rained down on the mountains, leaving the slopes red and reeking of decay and rot. Once the rains ceased, diseases and plagues swept through the bloody mountains.
+
+While many died in the following days, the hardest hit were the orcs. The survivors believed that they had proven their strength and worthiness merely by surviving the ordeal imposed upon them by their god Yurtrus.
+
+History
+Before the blood rains began, an orc shaman called Wund rose to prominence and prophesied the exact time and nature of the coming storms. When the Blood Plagues struck, every orcish chieftain in the Sword Mountains died, and Wund took advantage of this power vacuum to found the Brotherhood of the Scarlet Scourge and to unite the orcs of the Sword Mountains into a single kingdom called Uruth Ukrypt. Yurtrus's holy symbol—two white hands—was adopted as a symbol of this new kingdom.
+
+Appendix
+References
+
+---
+
+## Black Logan
+
+Black Logan was reputed to be a warlord of the Sword Coast North early in its history and the commander of Black Logan's Keep in the Red Rocks in the Sea of Swords.
+
+History
+A local legend claimed that the fortress was built by Black Logan, who was supposedly a peer of an early warlord of Waterdeep, but it wasn't specified which. In any case, the story went that the two came into conflict, Black Logan escaped to his island keep, and the warlord's army laid siege to it for over a year. Finally, Black Logan suffered heartstop and died and his troops tossed the body off the wall as a sign of surrender.
+
+However, the warlord remained enraged that Black Logan had evaded justice, and brought his body back to Waterdeep, where it was put on trial, found guilty of something, and then hung, drawn, and quartered.
+
+Rumors & Legends
+The legend went on to say that the ghost of Black Logan haunted the keep and hungered for revenge. However, visitors to the later Hall of Reflected Moonlight had seen no sign of it, so either the story was false or else the Order of the Blue Moon had made a deal with Black Logan.
+
+Appendix
+References
+
+---
+
+## Blue Lethe
+
+Blue Lethe was an ancient Netherese drink enjoyed by dwarves and some elves.
+
+Description
+Blue Lethe was bright blue in color, and it refracted light, making it appear as if the liquid radiated a gentle glow. The drink was slightly opaque. Blue Lethe was pleasantly sweet and nutritious. One could use the drink as a food substitute without ill effects for an entire tenday.
+
+The name "Blue Lethe" was given to the drink by dwarves. It was named such for its color and for inducing short-term memory blackouts when dwarves drank a bit too much, after the River Lethe, the River of Forgetfulness that flowed through the planes.
+
+This striking-looking alcohol was created using juice from at least three types of berries. One of them was mixed with a certain type of forest plant sap, fermented, and altered through magical means. Its rarity and almost addictive taste were always highly prized and sought after.
+
+History
+The secret of making Blue Lethe was presumed lost with the destruction of ancient Netheril. All who knew how to create the drink perished as the floating cities plummeted to earth. However, some elves of ancient Myth Drannor managed to recreate the recipe through long and arduous experimentation. By the late 15 century DR, Blue Lethe was considered extremely rare, and on occasion, casks of seemingly eternal alcohol could be uncovered in Netherese tombs and burial chambers. Elven-brewed Blue Lethe's production was kept a secret, with the barrels of the drink being sold and re-sold through intermediaries under claims of it being a genuine Netherese libation taken from a crypt.
+
+Appendix
+Appearances
+Novels
+Elminster: The Making of a Mage
+References
+
+---
+
+## Blazing sword
+
+Blazing sword was a spell used by clerics of Arvoreen.
+
+Effects
+When cast, this caster's melee weapon, often a sword, began to glow with a sparkling silvery light. The spell increased the damage inflicted by the sword. When the spell expired, the sword was usually ruined. This spell was a stronger version of sparkling sword.
+
+Components
+In addition to verbal and somatic components, this spell required a material component, a small amount of sulfur. The sulfur was tossed onto the weapon during casting.
+
+Appendix
+References
+
+---
+
+## Bladesemmer Villa
+
+Bladesemmer Villa was the family estate of the Waterdhavian noble house Bladesemmer.
+
+Location
+The villa was located in the eastern section of Waterdeep's Sea Ward on the northeast corner of where the Rough Road intersected Sul Street.
+
+Description
+The walled compound contained several separate buildings arranged around a central garden. Each building stood between one and three stories tall.
+
+Defenses
+The chambers of Tamaeril Bladesemmer, above the ground floor, were magically protected in various ways until at least .
+
+History
+In early Flamerule of, Tamaeril Bladesemmer was assassinated by Amril Zoar while inside Bladesemmer House.
+
+Appendix
+Appearances
+Novels
+Elminster in Hell
+References
+
+---
+
+## Blue Sword River
+
+The Blue Sword River was part of the River of Swords located at the border between Unther and Mulhorand in the Old Empires.
+
+Geography
+The Blue Sword River lay entirely within Unther, originating at a freshwater spring in the southeast section of the country and flowing north to join the River of Swords at the border with Mulhorand at the ruins of Sekras.
+
+Appendix
+References
+
+---
+
+## Black Tomb of the Corsair
+
+The Black Tomb of the Corsair was the final resting place of King Haedrak II of Tethyr, known as the Corsair Prince, who died in 1274 DR.
+
+Location
+The Black Tomb of the Corsair was located along the Firedrake Road that hugged the Firedrake Shores, starting at the town of Mosstone and moving west. The cove where the tomb was built was once used by the Corsair Prince for mooring. It stood about  north along the Firedrake Road from the Monastery of St. Domin and approximately  south of the Rock Orchard hamlet.
+
+Structure
+The tomb was constructed of black basalt. By the late 14 century DR, the landmark showed signs of decay. The tomb's ruins resembled a broken black hand raising up from the cliff overlooking the scenic Firedrake Bay.
+
+History
+This tomb was built on the order of King Errilam I of Tethyr before his own demise in, for his father, Haedrak II. The structure was meant to celebrate Haedrak's revolutionary piratical struggle against his uncle Kymer the Shade King. The Corsair Prince claimed the cliff that later would be his tomb was the best vantage point overlooking both peninsulas of Tethyr and its access to the Trackless Sea.
+
+As the nation of Tethyr burned in the events of Ten Black Days of Eleint, the Black Tomb of the Corsair was spared pillaging as the Corsair Prince was beloved by the common folk. However, the tomb did not escape desecration. In the years that followed the Black Days, a gang of ogres cracked the black basalt spires and toppled the statue of Haedrak II. The tomb was opened, and the ogres plundered it for valuables. By the late 14 century DR, the Black Tomb of the Corsair remained a broken-open cairn and a landmark for travelers. Its riches were gone, along with the Corsair Prince's body.
+
+Rumors & Legends
+After the tomb's desecration, locals started talking about a ghostly apparition of the Corsair Prince haunting the roads close to the ruins. The ghost caught those responsible for the destruction of his final resting place and confronted lone travelers seeking revenge. One minstrel song about Haedrak the Second claimed that if his ghost were ever to find aid against the ogres responsible, who dwelt in the forests of the peninsula, the Corsair Prince would reveal the location of his long-lost treasure as a reward.
+
+Appendix
+References
+
+---
+
+## Blevynsoar House
+
+Blevynsoar House was a shop in Athkatla's rich Gem District in the 14 century DR.
+
+Location
+Blevynsoar House stood in the chaotically clustered eastern part of the Gem District. Its northernmost neighbor was Fallenstar Fine Gems shop across the street, and Redcloak Trading on Sarbront's Walk, several doors east.
+
+Activities
+The shop dealt in expensive jewelry and maps. Jewelry on offer was unimpressive by the Gem District's bloated standards, but the shop's main stock was maps dealt from its back room. The owner did not allow browsing, knowing that a map's true price depended on the number of eyes and copies. The establishment also purchased maps, yet due to the proprietor's impressive memory, it was almost impossible to sell him fakes. On occasion, Blevynsoar House commissioned adventures to go on mapping expeditions on the proprietor's behalf.
+
+History
+The shop's proprietor, Jared Blevyn, the "Mapmaster of Amn," was known as a loyal employee of the gem-trading Zhanye family of Athkatla. While under its employ, Jared traveled countless roads and, thanks to his uncanny memory, mapped every single detail along his travels. One day, sometime before the, Jared used his mapmaking to discover a treasure of Parlek's Folly. He used the loot to open the Blevynsoar House.
+
+Appendix
+See Also
+Interactive map of Athkatla
+
+References
+
+---
+
+## Black Star Gate
+
+The black star gate was a portal.
+
+Description
+The gate transported people from Elbulder's ruins, in a location where they crossed the Old Road, the River Arran, to a tomb-knoll in the marsh of Chelimber. It activated when people carried black rocks such as jet or obsidian.
+
+History
+Its name came from a record in an old book in Candlekeep.
+
+Appendix
+References
+
+---
+
+## Blackbark soup
+
+Blackbark soup was a type of common elvish soup in Faerûn.
+
+Description
+Like most elven soups, blackbark was usually served cold. It was prepared using a mix of bark from four or five different species of trees and bushes. When cooked, blackbark soup tasted somewhat similar to beef stew and was quite thick.
+
+Appendix
+References
+
+---
+
+## Blending
+
+Blending was an arcane illusion and alteration spell that allowed to caster to blend in with their surroundings.
+
+Effects
+This spell only worked on subjects of man-size or smaller. The spell's magic caused the subject to appear to be part of its surroundings. Their appearance could be changed for the duration of the spell if the subject conentrated on doing so. The subject's friends and allies would view them normally. Viewers with higher intelligence stood a greater chance of seeing through the spell when they came within  of the caster.
+
+Components
+In addition to verbal and somatic components, this spell required as a material component a dried piece of chameleon skin to cast.
+
+History
+Knightengale, a paladin in Cormyr during the 14 century DR, wore a suite of plate armor enchanted with the blending property.
+
+Appendix
+References
+
+---
+
+## Black Mercy
+
+Black Mercy was a tavern located in the capital city of Luthcheq in Chessenta during the mid–14 century DR.
+
+Location
+The tavern was located in northeast Luthcheq several blocks due west of the city's east gate near the Palace of the Karanoks.
+
+Appendix
+References
+
+---
+
+## Blooded greataxe
+
+The blooded greataxe was a minor enchanted axe from the city of Elturel in the Western Heartlands.
+
+Description
+The weapon was covered in brown caked blood from its countless victims, emitting a potent stench of iron.
+
+Powers
+The blooded greataxe was enchanted to become more deadly, the closer its wielder was to death.
+
+History
+This grim-looking axe was once wielded by a notorious and deranged killer whose deeds were so grim that their name was magically removed from everyone's memories and records. By the late 15 century DR, the weapon. found its way into the hands of blacksmith Dammon of Elturel.
+
+Notable Owners
+ Dammon, a tiefling smith from the city of Elturel who found shelter in the Emerald Grove in the late 15 century DR.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+
+References
+
+---
+
+## Blood Fortress
+
+The Blood Fortress was the most prominent temple dedicated to Anhur, the General of the Gods within the Mulhorandi pantheon.
+
+Location
+The Blood Fortress was located in the coastal city of Sultim in northern Mulhorand.
+
+Description
+The entire massive structure was made from granite. Seven deep red obelisk towers surrounded the temple. Most of the interior walls were decorated with frescoes depicting ancient battles or strategic maps. The halls were lined with weapons and armor, as well as forbidding statues, many of which could be animated for defensive purposes.
+
+Appendix
+References
+
+---
+
+## Blackgorgons
+
+Blackgorgons was the tower home of Baskor Tranth, a surly hard-drinking retired adventurer of significant magical repute, who settled in Suzail, the capital of Cormyr as of the mid-14 century DR.
+
+Location
+The grim-named wizardly tower stood on the southern side of Stonebow Street, rising above Courtyard of Zathchos to the south from Blackgorgons, located in the middle os the city block. Stonebow Street's crossing with Torch Street was located one door east of the tower.
+
+History
+Blackgorgons was Baskor's home as early as the . The tower contained it's masters impressive collection of spell scrolls that he was willing to trade.
+
+Appendix
+See Also
+Interactive map of Suzail
+References
+
+---
+
+## Blackshield Apartments
+
+The Blackshield Apartments, or simply Blackshields, were the Court of Cormyr's residences, located in Suzail, the Forest Kingdom's capital.
+
+Description
+The Blackshield Apartments was a large four-storied apartment complex with a sizable attic, numerous workshops, and a full cellar. The apartments offered its residents heated baths and a guest lounge on the ground floor, in the back of the complex. Guests could find a buffet of food and drinks open at all hours in the lounge.
+
+The most important visitors to Cormyr, such as royalty, political dignitaries, envoys, ranking members of clergies, or diplomats, were housed in Castle Obarskyr, while lower-ranked guests of the Court were granted apartments in the Blackshields' first and second floors. In addition to guests, Court clerks were housed in the apartments as long as they remained in service of the Crown. Numerous servants of the Blackshields lived in the complex's attic.
+
+Location
+The Blackshield Apartments stood on Suzail's grand Promenade, facing Cormyr's Royal Court and the Tower of the Royal Magician, across the street to the northwest. The apartments' city block was nestled between Stonebow and the Street of Staves.
+
+History
+The apartments were built at some point before the .
+
+Appendix
+See Also
+Interactive map of Suzail
+References
+
+---
+
+## Black wolf talisman
+
+The black wolf talisman was a simple, magical necklace associated with Kresselack the barbarian king.
+
+Description
+I looked to be a simple flat stone upon which was painted the likeness of a wolf's paw.
+
+Powers
+Despite its simple appearance, the black wolf talisman possessed powerful magic that benefited the wearer. Anyone that hung the talisman around their neck felt a boost to their vitality, natural fortitude, and inherent resistance to extreme cold.
+
+History
+As of the, the black wolf talisman could be found in the network of crypts and cairns within which Kresselack and his barbarian horde were interred.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale
+References
+
+---
+
+## Black Anzil
+
+Black Anzil was a feared and infamous pirate from Turmish who prowled the Sea of Fallen Stars in the early 13 century DR.
+
+History
+Black Anzil was a follower of the legendary Immurk the Invincible, the Great Pirate, sailing as part of his fleet of 100 ships based at Dragonisle. However, after Immurk's death in the, a half-dozen rival pirates each claimed to be Immurk's successor and broke the fleet apart between them and turned on each other in the Pirate Wars. Black Anzil rose to prominence in this period.While it is only known that Anzil appeared at this time, it may be assumed he was previously a follower of Immurk and may have been one of the rival claimants. This is supported by Anzil having Immurk's shield.
+
+In the, Black Anzil was recorded to be in the possession of Jhalanrojir, the shield of Immurk himself. However, he later lost it and three more pirates would wield the Pirateshield even before Black Aznil died in the .
+
+Possessions
+Anzil was notably an owner of Jhalanrojir, the Pirateshield, a magical shield.
+
+Activities
+One of the cruelest pirates of his day, Black Anzil had his captured foes covered in pitch, and then lit on fire.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Blue (goblinoid)
+
+Blues were a psionic variant of goblin.
+
+Description
+Blues were typically smaller than regular goblins, with distinctive blue-tinged skin.
+
+Personality
+Since most goblin tribes would readily kill blues just for being different, those blues that survived to adulthood tended to be paranoid and cunning as well as cruel.
+
+Abilities
+Blues were set apart from regular goblins by their innate psionic powers. At will, a blue could use charm person, far hand, or finger of fire. They readily augmented their natural abilities by training as psions.
+
+Combat
+When they fought, blues preferred to support other goblins from the back of the group.
+
+Society
+Just because they were different, blues were typically poorly integrated into their tribes at best- at worst, a tribe would kill blues at birth. Where they lived, common goblins railed against them and leaders distrusted them, despite their usefulness. This generally meant a blue lived in a cave of their own, but since they were dependent on the tribe for their well-being and protection, they couldn't go too far.
+
+In some tribes that had multiple blues, a "Council of Blue" might form, secretly manipulating the leaders to control the tribe from behind the scenes. Such tribes were invariably more dangerous than ordinary tribes thanks to the blues' cunning.
+
+In the goblin warrens of Brikklext in the Earthspur Mountains, a pair of twin blues, Driklret and Gryxt, were the brains behind the settlement, rather than the bugbear that was the public leader.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Blynn
+
+Blynn, who was nicknamed Blynn the Wild, was a wealthy merchant inhabiting the Shining South during the mid-to-late 14 century DR.
+
+Activities
+Blynn lived in the city of Turelve in western Durpar within the Shining Lands. He was a member of the Baroda chaka and a member of the Shining Lands' ruling Council of Merchants.
+
+Appendix
+References
+
+---
+
+## Black Spires of the Maiden
+
+The Black Spires of the Maiden was a temple devoted to Loviatar, the Maiden of Pain, located in Amn during the mid-to-late 14 century DR.
+
+Location
+The temple was located west of Ishla in the Vale of Wailing Women near the southern border with Tethyr.
+
+Activities
+The Black Spires of the Maiden was the largest and wealthiest temple of Loviatar in Faerûn. Agents from the temple were distributed across the continent spreading Loviatar's "love."
+
+Appendix
+References
+
+---
+
+## Black Opal Crown
+
+The Black Opal Crown was a supposedly magical artifact from ancient Netheril that was said to reflect the evil of humanity within its jewel.
+
+Description
+Befitting its name, the golden crown featured a large, glimmering opal upon its band.
+
+Powers
+Some yuan-ti believed that the Black Opal Crown possessed the ability to awaken Dendar the Night Serpent from her slumber.
+
+History
+The crown originally belonged to the archmage Sadamor of Netheril. When he gazed into its opal, he came to witness how truly malevolent humankind could become, and created a massive sphere of annihilation to swallow all of Toril. He was unsuccessful in his efforts, and the sphere claimed his life instead.
+
+At some point in its existence, the lich Acererak transferred the Black Opal Crown to the Tomb of the Nine Gods in Chult, and placed it upon a pedestal within the Chambers of Horror level. It was one of several powerful artifacts meant to lure would-be adventurers and treasure seekers, so that Acererak could claim their souls for his own purposes.
+
+Sometime during or before the late 15 century DR, the yuan-ti malison Fenthaza began receiving prophetic dreams regarding the Black Opal Crown. She came to learn of its resting place within the Tomb, and believed it to be the sole means by which to release Dendar upon the world. They sought to transport it to the nearby Peaks of Flame mountains, Dendar's supposed resting place.
+
+Rumors & Legends
+Certain walls of the Hall of Serpents within the Fane of the Night Serpent depicted scenes of Ras Nsi wearing the Black Opal Crown, leading the yuan-ti on the quest to free Dendar.
+
+While the crown was worth approximately 5,000 gold pieces to most people, it was believed that some collectors would pay upwards of 20,000 gold pieces.
+
+Appendix
+Appearances
+Adventures
+Tomb of Annihilation
+
+The Tortle Package
+
+References
+
+---
+
+## Black lotus extract
+
+Black lotus extract was a potent poison created using the black lotus orchid-like flowers. The poison was created in a powder or oil form.
+
+Description
+The powder took effect within seconds of skin contact. The substance's high price was due to black lotus blooming only once per three years. The toxin contained within was extracted as oil.
+
+Effects
+Black lotus extract was considered to be one of the most deadly contact poisons ever devised. Few survived encounters with those whose blades were coated in the dangerous substance. When black lotus extract touched the skin of a creature, it immediately affected their physical health, quickly weakening them and likely ending in death.
+
+History
+Agents of the Zhentarim grew their own black lotus plants to produce the deadly toxin circa the .
+
+In the, black lotus extract was imported into Samarach and sold by mind flayer merchant slavers in the black market located to the east of the city of Samargol.
+
+Appendix
+Appearances
+Adventures
+Shadowdale: The Scouring of the Land
+Novels
+Baldur's Gate • Dissolution
+Video Games
+Neverwinter Nights 2: Storm of Zehir
+
+References
+
+---
+
+## Black Raven (person)
+
+The Black Raven was a near mythical figure among the Uthgardt people of North Faerûn.
+
+Description
+The Black Raven wore bloodied chains hanging from his wrists. He appeared to be a dark-skinned man with eyes burning with resolve. Historians speculated that he could've been a drow or a half-drow man, yet others presumed the Black Raven was a quasi-deity that stood against oppression.
+
+History
+The legendary Black Raven was thought to be a spirit of vengeance that emerged from the underworld among Uthgardt barbarians. The Black Raven taught them humility and broke their arrogance. Epic legends told stories of the Raven's fight against evil-doers and slaves across North Faerûn and southern kingdoms.
+
+The Black Raven's legacy was preserved in the form of a secluded monastic order with its monastery on the Spine of the World.
+
+Appendix
+Appearances
+Video Games
+
+Icewind Dale II
+References
+
+---
+
+## Bloodsong (Malar)
+
+The Bloodsong was a sacred ceremony observed by worshipers of Malar, the Beastlord.
+
+History
+This droning ceremony was performed over the bodies of creatures killed during a hunt by Malar's faithful. This was followed by ritual prayers and chants and usually a feast.
+
+Appendix
+References
+
+---
+
+## Blades of abundant caution
+
+The blades of abundant caution were a pair of unique enchanted short swords crafted by Laeral Silverhand for Naomlen Girdaur in the late 15 century DR. They were just two of many pieces of so-called "Silverhand gear" crafted for adventurers who helped to protect Waterdeep.
+
+Description
+Silverhand conceived of the blades as honoring Naomlen's gift of patience in combat.
+
+Powers
+Those struck with the blades of abundant caution were compelled to take time to consider the fight and their fate, thus forcing them to slow down and become vulnerable.
+
+Notable Owners
+ Naomlen Girdaur, a dwarven rogue and assassin for the Zhentarim, to whom Silverhand also gifted the seal of circumspection.
+
+Appendix
+Appearances
+Video Games
+Warriors of Waterdeep
+
+Gallery
+
+References
+
+---
+
+## Blades Injurious
+
+Blades Injurious was the name given to a unique gem-studded bracer of flying daggers owned by Jarlaxle Baenre in the late 15 century DR.
+
+Description
+The ornate design and many gems of the Blades Injurious meant it matched Jarlaxle's more exquisite and resplendent outfits. In truth, each gem and ornament worked into the bracer was a reminder of a secret, a promise, or a debt that kept the High Captains of Luskan under Jarlaxle's thumb.
+
+Appendix
+Appearances
+Video Games
+Warriors of Waterdeep
+References
+
+---
+
+## Black raptor staff
+
+Black raptor staff was an enchanted druidic staff found in the jungles of Chult in the late 15 century DR.
+
+Powers
+Black raptor staves were carved out of dark and solid suth wood and decorated with gemstones and raptor talons. The staves possessed a potent +3 enchantment and strengthened the druid abilities of the wielder as well as the druid's allies.
+
+Notable Owners
+ Qawasha, a druid of the Emerald Enclave from Chult in the late 15 century DR.
+
+Appendix
+Appearances
+Video Games
+Tales from Candlekeep: Tomb of Annihilation
+
+References
+
+---
+
+## Blood dragon
+
+Blood dragon, also known as the Bane of the Purebloods, was an elven spell oft used as a doomed elven mage's revenge.
+
+Effects
+When cast by a pure-blooded elf, the spell consumed their life first, and then caused an eruption of smoke-like corrosive venom to rise from where their veins were touched by a dragon's tooth during casting. The force turned into a red, dragon-like construct, wingless and dripping gore from its jaws, which attacked a being designated as the spell was cast.
+
+The creature began its attack as soon as the caster finally died, pursuing its target over solid or liquid surfaces and striking with vicious force, but decaying over the next six minutes. Its attack sheared away many magical defenses progressively and quite effectively; if the target had any amount of the caster's blood on itself, then no magical barriers would apply against the dragon's attack.
+
+The force's attack withered the flesh of its target into a gray, rotting mass. It was possible to stop the dragon through damage, but the creature defended itself quite well.
+
+Components
+Besides verbal and somatic components, this spell consumed the caster's life, and required at least one object made of dragon teeth to touch the caster's blood during casting.
+
+History
+Ildilyntra Starym employed this spell against the Coronal of Cormanthyr, Eltargrim Irithyl, in the, in an attempt to prevent the Opening of Cormanthor.
+
+Appendix
+Appearances
+Novels
+Elminster in Myth Drannor
+
+References
+
+---
+
+## Blackstaff Academy
+
+Blackstaff Academy was a loosely organized group of elite apprentices and students who studied under the Blackstaff at Blackstaff Tower in the 14 and 15 centuries DR.
+
+Organization
+The Blackstaff served as the master/mistress of the school, under whom trained senior apprentices who were responsible for most of the day-to-day running of the academy, including the conducting of lessons for junior students, as well as the defense of the Academy against monsters and hostile mages.
+
+Activities
+The school trained wizards and sorcerers who sought to learn from the Blackstaff, and those who trained at the school were able to master more spells more quickly than their counterparts without such elite mentors and resources. In addition to instruction in arcane magic and spellcraft, the school also stressed alchemy, literacy, and the study of history, the planes, and general arcana. These assorted talents meant that the apprentices might be called upon by folk in Waterdeep to identify or research ancient magic items or relics.
+
+Studying under the purview of the Blackstaff offered students access to some rare or even unique spells designed by the Blackstaff or other notable members of the Academy, including blackstaff, Khelben's dweomerdoom, Khelben's suspended silence, Laeral's cutting hand, and Laeral's silver lance.
+
+It was a priority to make sure that no student was treated badly or was not given the opportunity to keep busy with studies. This was done to ensure that graduates would continue to regard the Academy as allies, and so even when an apprentice decided to leave, the Academy helped them to establish themselves in their new endeavors. As of the mid-to-late 14 century DR, this strategy had proven to be effective at minimizing any treachery within the school.
+
+Base of Operations
+The Academy operated out of Blackstaff Tower, and in particular, in its dozen or more secret sublevels reachable only by magic. These areas included multiple libraries and laboratories.
+
+The role of protecting the Tower fell to the senior apprentices, who were always well-trained in defensive magics.
+
+History
+The school was founded following the arrival of Laeral Silverhand to live at Blackstaff Tower with the original Blackstaff, Khelben Arunsun, in the . Magic practitioners flocked to seek apprenticeship under the two legendary mages, and as those apprentices took on their own students in turn, they formed an elite yet makeshift and informal school that came to be known as Blackstaff Academy. In those initial years, Khelben and Laeral held the titles of master and mistress of the school. The school was in operation by the 1360s DR, and as of the, Laeral had assumed most of the administrative duties of the Academy, which boasted 54 students and apprentices.
+
+Wizards continued to train with the Academy after Khelben's death and into the late 15 century DR when Vajra Safahr took up the mantle of Blackstaff in the . Vajra continued to train wizards at Blackstaff Tower, and made it her mission to see the Academy become the center of magical studies in Faerûn, even pursuing multiple plans at once to make this a reality. She was known to roam the Academy wearing magically silent boots, which allowed her both to avoid disrupting the apprentices' studies or to make a sudden appearance for a pop quiz or to provide crucial insight. She was rumored to invite particularly talented apprentices to read and copy spells from her own spellbook, and sometimes extended the even greater honor of having them add a spell of their own invention to it.
+
+At one point during Laeral Silverhand's tenure as Open Lord of Waterdeep in the late 15 century DR, a group of adventurers in her service recovered a sample of Frostsilver armor from Frostsilver Mines, and sent it to the Academy at Laeral's behest in hopes that the students would be able to learn its secrets.
+
+Members
+The school was made up of an everchanging roster of about fifty apprentices and students to the Blackstaff, with new arrivals always ready to replenish the ranks as graduates moved on.
+
+Acceptance to the Academy was predicated on either demonstrating extraordinary magical aptitude (those who could not cast arcane spells were very rarely admitted) or having a particularly compelling personal history. Joining the Academy was free, however monthly dues were required to continue attendance. These fees started at 10 gp per month and increased as a student gained seniority and required more advanced tutelage. In addition, it was a requirement that any new spell that was discovered or researched by an apprentice had to be added to Blackstaff Tower's library.
+
+Notable Members
+Apprentices prior to 1372 DR
+ Turth Anczibul, a Neverwinterian mage who died before 1372 DR.
+ Kiirma Blackmane, a member of the Shadow Thieves of Amn.
+ Illius of Silverymoon, a sorcerer and adventurer.
+ Ilistar Maeringuld, a Tethyrian wizard who mascaraded as a member of Cormyr's Rowanmantle family.
+ Aleena Paladinstar, daughter of Open Lord Piergeiron Paladinson.
+ Danilo Thann, a notable Waterdhavian nobleman.
+ Aznar Thrul, a Zulkir of the Red Wizards of Thay.
+ Sharlarra Vendreth, a star elf adventurer.
+ Achem el Zalath, who became a member of the Guild Arcane of Almraiven.
+
+Apprentices as of 1372 DR
+ Tammert Landral, a brilliant youth.
+ Sydon Gundwynd, an Illuskan wizard.
+ Maresta Rhanbuck, a "motherly whirlwind" who helped to run Blackstaff Tower.
+ Jalarra Sakrel, a Tethyrian wizard.
+ Araeralee Summerstar, an orphan who was raised in the Tower.
+ Savengriff, who refounded the Covenant.
+ Tamar Harpell Wands, a wizard raised in Longsaddle who had been sent to Waterdeep to study.
+
+Apprentices as of 1374 DR
+ Elkord, a tall Tethyrian male.
+ Tarik al Farid al Fuqani, a Tethyrian human from Myratma.
+ Chaid al Farid al Fuqani, a Tethyrian human mage.
+ Fhaornik, a male sun elf.
+ Lhoris, a fiery-tempered human from Fireshear.
+ Maeralya, a female sun elf.
+ Pikar Salibuck, a male halfling.
+ Sarshel, an apprentice.
+ Traya Ginara, a shy female human.
+ Trehgan, a male wizard from barbarian lands.
+ Triam, a male wizard.
+ Walaxyrvaan, a copper elf from the Elmanesse tribe in Tethyr.
+
+Apprentices prior to 1492 DR
+ Gale Dekarios, a male wizard.
+
+Apprentices as of the 1490s DR
+ Corlin Cardin, a kind and loyal apprentice of Vajra.
+ Eiruk Weskur, a young human wizard.
+ Shevarith Kendia, a Rashemi wizard who worked as an adventurer for Open Lord Laeral Silverhand.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Bloodrose
+
+Bloodrose bushes were a decorative plant from Teziir.
+
+Description
+The bloodrose was a darker rose bush with blood-red flowers.
+
+Cultivation
+These roses were at first only known to have been grown by a conclave of clerics near Teziir, then gifted to the Lord of Suzail. In the, they started growing in the wild in the Battle of Bones; though all of the roses died that year, enough were taken to propagate the type.
+
+Usage
+Bloodroses were pricey to cultivate because of how delicate they were, but that made them all the more valuable.
+
+Appendix
+See Also
+ Undead bloodrose
+
+References
+
+---
+
+## Bluerot
+
+Bluerot was a disease carried by undead that affected various species of humanoids.
+
+Effects
+Within hours after transmission, someone afflicted bluerot rapidly grew blue boils upon their face and back. In short time they developed a fever and began to feel distinct tingling sensations in their hands and feet. In addition to those maladies, victims grew increasingly vulnerable to radiant energy.
+
+Not all the symptoms of bluerot were detrimental however, as the afflicted individual also gained the ability to breathe underwater.
+
+History
+Numerous undead followers of Gar Shatterkeel, the leader of the Cult of the Crushing Wave, could inflict bluerot upon others with their attacks.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Locathah Rising
+References
+
+---
+
+## Bladecall
+
+Bladecall was an arcane spell known in the realm of Cormanthyr.
+
+Powers
+The spell snatched several blades from elsewhere and sent them flashing point-first, towards a given target.
+
+History
+In, Elminster Aumar used this spell against a number of bandits.
+
+In, during the coup attempt by Llombaerth Starym, the latter attempted to magically compel Elminster Aumar to cast the spell to attack the Srinshee. Elminster later cast this spell on his own to attack Llombaerth's forces instead.
+
+Appendix
+Appearances
+Novels
+Elminster in Myth Drannor
+
+References
+
+---
+
+## Bloody Fist
+
+The Bloody Fist was a tavern located in Waterdeep during the mid-to-late 14 century DR.
+
+Description
+The building stood just one story tall.
+
+Location
+The Bloody Fist was located in Waterdeep's Dock Ward where Presper Street and Shrimp Alley joined Snail Street.
+
+Activities
+A man named One-Eyed Jukk dealt in stolen goods within the Bloody Fist.
+
+Appendix
+References
+
+---
+
+## Blackrabbas Khuulthund
+
+Blackrabbas Khuulthund was a Tethyrian sage inhabiting Waterdeep during the mid-to-late 14 century DR.
+
+Personality
+He had a reputation for being a pompous individual who enjoyed the sound of his own voice and praising himself. This caused his reputation as a sage to suffer.
+
+Activities
+Blackrabbas Khuulthund studied the birds, insects, herbs, and flowers of the Sword Coast and northwest Faerûn. He spent much of his time within the Font of Knowledge in the Castle Ward and rented a house nearby.
+
+Appendix
+References
+
+---
+
+## Blaskos' Fine Carvings
+
+Blaskos' Fine Carvings was a shop located in Waterdeep during the mid-to-late 14 century DR.
+
+Description
+The rear of the shop faced a small unnamed alley.
+
+Location
+Blaskos' Fine Carvings was located in the central section of Waterdeep's Trades Ward on the west side of the Way of the Dragon just east of Virgin's Square.
+
+Appendix
+References
+
+---
+
+## Blood ring
+
+Blood ring was a spell unique to the Simbul.
+
+Effect
+The spell brought to the Simbul's aid any creatures of her choice that had some of her blood encysted anywhere inside their body, normally from battling the Simbul: she had sent some of it herself into their wounds during the struggle. The creatures were commandable by her, and neither perceived her nor each other.
+
+History
+The Simbul employed that spell when fighting the legions of Hell in, bringing all her deadliest enemies forth to strike at the devils. The foes she summoned included one beholder, two human mages, Ravaedrin of the Zhentarim and Kaladras Yarlamm of the Red Wizards, and a dragon. All but the dragon and Ravaedrin were slain ere she dismissed the spell and returned from Hell. She expected to spend centuries rebuilding the spell, implying those were the only creatures she'd failed to slay, though it had taken her decades to create in the first place.
+
+Appendix
+Appearances
+Novels
+Elminster in Hell
+
+References
+
+---
+
+## Bloodhook
+
+Bloodhook was a spell known to the archdevil Harhoring.
+
+Effect
+Harhoring appeared to expect that it pulled a target to the caster, torn open and in their death agonies.
+
+History
+The spell was used by Harhoring against the Simbul in, during her scouring of Avernus in search of Elminster.
+
+Appendix
+Appearances
+Novels
+Elminster in Hell
+
+References
+
+---
+
+## Blackstone House (Waterdeep)
+
+Blackstone House was a row house located in Waterdeep during the mid-to-late 14 century DR.
+
+Description
+The home stood four stories tall.
+
+Location
+Blackstone House was located in the southern section of Waterdeep's Trades Ward on northeast corner of where Telshambra's Street met the Way of the Dragon.
+
+Services
+Mercenaries could be hired at Blackstone House.
+
+Appendix
+References
+
+---
+
+## Blester
+
+Lord Blester was a member of the court of Cormyr in the mid-14 century DR.
+
+Description
+He was quite portly, obese even.
+
+History
+As of Ches 14 in the, Andemel Graeven believed him to be at the same revel as he was at the time.
+
+Appendix
+Appearances
+Novels
+
+Elminster in Hell
+
+References
+
+---
+
+## Blue Jack
+
+The Blue Jack was a tavern located in Waterdeep during the mid-to-late 14 century DR.
+
+Description
+The tavern stood a single story tall.
+
+Location
+The Blue Jack was located in the far southeast section of Waterdeep's Castle Ward on the High Road just a few buildings north of the intersection with Waterdeep Way. The rear of the tavern sat on the Cat's Tail.
+
+Appendix
+References
+
+---
+
+## Blaskyn
+
+Blaskyn was the apprentice of Laeral Rythkyn in the mid-14 century DR. He betrayed her to get at Thalon's Throne, but the artifact instead rendered him into the lich's host.
+
+Personality
+He had an easy grin.
+
+Abilities
+At least one of his spells could cause rocks to fall from the ceiling, and he was very good at blasting spells.
+
+He also had some means to follow someone who had teleported, whether through scrolls or spells, as he joined his teacher subreptitiously after she teleported.
+
+Possessions
+Laeral gave him the Helm of Hiding shortly before his death. He took many of Laeral's items after she was pinned by a rockfall.
+
+Activities
+As of mid-Kythorn of, he was the apprentice of Laeral Rythkyn. He was almost ready: his final task before completing his apprenticeship had been to create a spell on his own.
+
+Relationships
+Per Thalon, he fancied Laeral, his tutor in the Art.
+
+History
+As of, Blaskyn had been the apprentice of Laeral Rythkyn for years. In mid-Kythorn of that year, she departed to find Thalon's Throne, leaving him to watch over her home with the helm of hiding. However, unknown to Laeral, he followed her; after she defeated the lich guarding Thalon's Throne, he ambushed her with a rockfall and then filched many of her magical items while she was still alive. He also sat on the throne himself; unknown to him, it turned him into the undead host to Thalon's malign intelligence.
+
+Appendix
+Appearances
+Novels
+Elminster in Hell
+
+References
+
+---
+
+## Bliaut
+
+Bliauts were a form of overgarment dress found in the Realms, worn by both men and women.
+
+Description
+Bliauts were finely-pleated and often had embroidery on their hem, neck, and sleeves. They were typically worn over some form of plain gown or tunic.
+
+History
+In the 14 century DR, the bliaut was a common garment among women in the cities of Waterdeep and Westgate.
+
+Notable Wearers
+ Abdel Adrian.
+ Jamal the Thespian owned a white bliaut that he loaned to Alias.
+
+Appendix
+Appearances
+Novels
+Masquerades • Baldur's Gate
+External Links
+
+References
+
+---
+
+## Black Geoffrey
+
+Black Geoffrey was one of the small group of mercenaries and adventurers from Cormyr called the Iron Collar Band, active in the early 14 century DR.
+
+Description
+Black Geoffrey was a splint mail-clad man with dark hair and a scar across his face—the wound left by a woman scorned and a bottle shattered over Geoffrey's face. His weapons of choice was a bastard sword.
+
+Personality
+Black Geoffrey was a loud and obnoxious man of a foul attitude. He did not tolerate his loud drinking stories being interrupted. Just like his friends and comrades Blanchard Pike and Kickshaw, Geoffrey cared more about drinking than fulfilling his mercenary obligations.
+
+History
+In the, Black Geoffrey and his comrades found themselves in the town of Targos as the city was being besieged by a goblin force that served the Legion of the Chimera. Originally, the trio came from the southern nation of Cormyr where they did mercenary work far from the frigid waters of Maer Dualdon. They fled the Forest Kingdom due to some unrevealed event involving plundering tombs and being shackled by Cormyr's Purple Dragons. The group did not regret the flight. Geoffrey and his mates were not willing to comply with Cormyr's many laws and fees that governed adventuring companies.
+
+Black Geoffrey, Blanchard Pike, Kickshaw, and a priest named Koluhm Bonecutter, all traveled as an "adventuring band" named the Iron Collar Band and eventually reached the unruly city of Luskan. There, they met a raggedy wizard, secretly an agent of the Arcane Brotherhood, Phaen of the Rags, who joined the group and told them of "easy gold" to be made in Targos as the town put out a call for adventurers at the time.
+
+The Iron Collar Band accepted the contract with Targos, the worst possible employment, as far as Black Geoffrey was concerned. On the day when a band of adventurers who would soon become heroes of Targos arrived at Ten Towns, the settlement was attacked, as goblins somehow found a way past palisades and fortifications and started ravaging Targos's docks and warehouses. Geoffrey, Pike, and Kickshaw didn't care for the attack and spent their day drinking and boasting at The Salty Dog Tavern.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale II
+
+References
+
+---
+
+## Blanchard Pike
+
+Blanchard Pike was one of the outlaw mercenary band from Cormyr called the Iron Collar Band, active in the early 14 century DR.
+
+Description
+Blanchard Pike was a human male who wore studded leather armor and a horned helmet. He was, appropriately so, armed with a pike.
+
+Personality
+Blanchard, just like his rowdy teammates, was a boisterous braggart who attempted to intimidate others with the Iron Collar Band's so-called "famous" status.
+
+History
+In the, Blanchard Pike and his two heavily drinking comrades found themselves in the town of Targos as the city was being besieged by a goblin army that served the Legion of the Chimera. Originally, the trio came from the southern nation of Cormyr where they did mercenary work far from Icewind Dale. They fled the Forest Kingdom due to some unrevealed event involving plundering tombs and being shackled by Cormyr's Purple Dragons. The group did not regret the flight. Pike and his mates were not willing to comply with Cormyr's many laws and fees that ruled over adventurers there.
+
+Black Geoffrey, Blanchard Pike, Kickshaw, and a priest named Koluhm Bonecutter, all traveled as an "adventuring band" named the Iron Collar Band and eventually reached the unruly city of Luskan. There, they met a raggedy wizard, secretly an agent of the Arcane Brotherhood, Phaen of the Rags, who joined the group and told them of "easy gold" to be made in Targos as the town put out a call for adventurers at the time.
+
+The Iron Collar Band accepted the contract with Targos, the worst possible employment, as far as Blanchard Pike was concerned. On the day when a band of mercenaries, who would soon become heroes of Targos, arrived at Ten Towns, the settlement became attacked as goblins somehow found a way past palisades and fortifications pouring into the docks and warehouses. Geoffrey, Pike, and Kickshaw didn't care for the attack and spent their day drinking and boasting at The Salty Dog Tavern.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale II
+
+References
+
+---
+
+## Blackmantle
+
+Blackmantle was an arcane spell from the schools of necromancy and enchantment that allowed a wizard to halt a target's healing.
+
+Powers
+This spell created a shimmering aura around all targets within, preventing them from healing or regenerating via normal or magical means for the spell's duration.
+
+Components
+In addition to verbal and somatic components, this spell required as a material component a small mummified animal to cast. Toads and mice were commonly used.
+
+History
+This spell was found within the Book of Shadows, a tome based upon the oration of the necromancer Nebt Bhakau of Zakhara.
+
+Appendix
+References
+
+---
+
+## Bluebird
+
+Bluebird was a species of small blue-feathered bird found in the Northwest Faerûn, the forest of Cormanthor, and in Kara-Tur.
+
+Ecology
+Trees in the Midwood of Cormanthor were homes to many species of forest wildlife, including chirping bluebirds.
+
+In the 14 century DR, popularity of keeping bluebirds as pets in Cormyr increased and local breeders in the city of Wheloon started training these little blue animals.
+
+Water nagas inhabiting Cormanthor preyed on bluebirds, slithering up the tree trunks in search of their nests. Shikki-gaki, a type of undead spirit found in the land of Kara-Tur, were known to devour bluebirds after turning to evil.
+
+Goddess Lliira, the Mistress of Revels, counted bluebirds among her beloved animals and was known to manifest herself as a bluebird. The deity Tyche favored bluebirds as well.
+
+Appendix
+Appearances
+Novels
+Honor Among Thieves: The Road to Neverwinter
+
+Sword Play •Prophet of Moonshae • Thornhold • The Rage • The Rite • The Restless Shore
+References
+
+---
+
+## Bluestars
+
+Bluestars was a perfume that activated its scent when applied to a humanoids skin.
+
+Description
+Bluestars was a clear blue liquid with floating golden flecks and a strong medicinal smell. On application to the skin of a humanoid, it changed to a pleasant scent of fresh before-storm winds, and its color turned clear. An exception was its effect on orcs, whereupon it took on the smell of freshly-baked bread. Its application instantly removed all unpleasant bodily aromas and strong smells like curry or garlic, and lasted for about a day.
+
+The high price of 220 gp per pint was not only due to its odor-banishing properties, but the common false belief that it protected the wearer from poisons.
+
+It was rumored that bluestars was concocted out of forest dew that saw starlight, the tears of a virgin, and a distillate of a unicorn's alicorn. In truth, its recipe included powdered shells of a certain species of snail, a special type of clay, and sap from three common weeds.
+
+Appendix
+References
+
+---
+
+## Blackwood (soldier)
+
+Blackwood was a human officer of the Neverwinter Guard in Neverwinter in the late 15 century DR.
+
+Description
+He had long hair and a beard.
+
+Possessions
+Blackwood owned a darksteel greataxe with a telescoping haft that was forged by Ghelryn Foehammer of Triboar. He cleaned it with boiled linseed oil once a month, but Holga thought this should be once every seven days or so to as it was displaying rusting.
+
+History
+
+Blackwood became a loyal henchman of Lord Forge Fitzwilliam and his wizard advisor Sofina when they took power in Neverwinter in the late 1490s DR. After Sofina captured Edgin Darvis and Holga Kilgore in Castle Never, Forge ordered Blackwood to take them back to the Revel's End prison and collect the bounty on them. But Sofina whispered in Blackwood's ear that he should discreetly kill them instead. He and his soldiers led the pair into a shadowy back alley to execute them. But Holga recognized Blackwood's axe and keenly asked about its make, use, and maintenance, even criticized his laxness. All this bought time for Holga to pry loose a paving stone and use it as a weapon as she escaped and defeated the guards. Blackwood recovered and tried to get Holga from behind, but was clobbered by Edgin's reinforced lute. Holga caught and kept the axe.
+
+Later, Sofina sent for Dralas and his band of six fellow Thayan assassins. Arriving by boat on the Neverwinter River, Dralas met Sofina, Blackwood, and some of his soldiers at the docks. Sofina ordered Dralas to dispatch Blackwood and his soldiers because they had failed to stop Edgin and Holga's escape. Dralas slew them all single-handedly.
+
+Appendix
+Background
+Blackwood is played by actor and stuntman Barry O'Connor.
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Blacknee's Halfhappenstance
+
+Blacknee's Halfhappenstance was a well-appointed inn in Halfhap built around 1368 DR, and run by the halfling couple Buzzrip Blacknee and Broonella Blacknee. The signboard displayed a lucky halfling finding a gold piece on the ground.
+
+Services
+The inn was served by a staff consisting of Buzzrip's family, along with many handsome keghands and pretty barmaids. It offered a full service of meals, accommodation, and luxurious baths. The inn had a stable that took care of the customer's mounts, no matter the type.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blending (quality)
+
+Blending was a magical quality found on armor and clothes that allowed the wearer to hide more effectively.
+
+Powers
+Blending equipment allowed the wearer to appear to be part of existing rocks or plants, or as an innocuous creature. It could make the wearer appear to be up to twice as large or half as small. The illusion was not perfect, however, and sharp-eyed observers would notice soon enough that something was amiss if they passed within 30 feet.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Blessing of the Daystar
+
+Blessings of the Daystar were enchanted longswords that were used by the Sons of Light in the . These legacy weapons were later scattered around Toril, and came into the possession of many different people.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Black Swan armor
+
+The Black Swan armor was a unique enchanted set of delicate enameled bluish-black plate armor from the Hand of the Seldarine citadel.
+
+Description
+The Black Swan was exceptionally light and beautiful. The armor had everbright silver edges and featured a small silver emblem of a swan in the center of the breastplate. It was forged to fit a slender female elven frame.
+
+Powers
+The armor possessed a strong +2 defensive enchantment and offered resistance against fire, ice, electricity, and acid. Additionally, the armor's beauty effortlessly boosted the wearer's charisma.
+
+History
+The Black Swan armor was created in the heyday of the Hand of the Seldarine and Dorn's Deep's era of cooperation. The metal shell was forged by the renowned dwarven smith Karador and its enchantments were woven by Elameth of Five Trees, who was the author of Elameth's Compendium of enchantments. The armor was created for a female elven marshal and so, after the citadel's fall, it was not looted by orc marauders. Sometime in or shortly before the, the Black Swan was stolen from the ruins by Maiden Ilmadia, a renegade elf devotee of Revered Brother Poquelin. She was wearing the armor when she was defeated by the Heroes of Icewind Dale.
+
+In the, Black Swan armor ended up in the hands of the shady drow merchant Nym. It was available for purchase from his camp outside Bryn Shander's wall.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale • Neverwinter Nights: Doom of Icewind Dale
+
+References
+
+---
+
+## Bloody Tongue
+
+The Bloody Tongue were a tribe of orcs active in the Vast in the 7 century DR.
+
+History
+In the Year of the Bloody Crown, 649 DR, the orcs of the Bloody Tongue tribe joined a horde of orcs that engulfed the dwarven kingdom of Roldilar in the lands later known as the Vast. At Viperstongue Ford, the Bloody Tongue battled the elf hero Beluar and his forces, but were defeated and forced into a rout. As the sun set, Beluar's forces pursued the orcs north and east into an area of rolling, rugged hills. All through the night, they hunted and ran down the orcs, and trampled them with their horses, skewered them with lances, and lopped off their heads with their blades. Finally, Beluar's forces chased the remaining orcs up the North Road to the village of Maskyr's Eye. Beluar himself killed the last orc on the road in front of the village smithy at dawn.
+
+Possessions
+
+The smith of Maskyr's Eye at the time had the opportunity to examine the Bloody Tongue's armor, and found it poor quality, comparable to the basic hardware known as blackwork.
+
+Appendix
+References
+
+---
+
+## Blast mine
+
+A blast mine was a large explosive device that could be buried within the earth, and would detonate when anyone walked nearby.
+
+Description
+These explosives were immensely heavy, each one weighing s. They were buried underground, with only a thin later of earth or other material resting upon its top.
+
+It was possible to disarm a blast mine using a trap disarming toolkit, or trigger them using certain weapons or manipulating force energy.
+
+Function
+A blast mine was triggered by putting weight upon its uppermost section, the device's trigger. Once sufficient weight was placed upon the mine, it would burst in a great explosion of fire and force energy.
+
+History
+As of the, the Cult of the Absolute used blast mines to trap caves and caverns near to the Shattered Sanctum.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+
+References
+
+---
+
+## Blue mist fever
+
+Blue mist fever, sometimes known as mad monkey fever,The name of this disease as well as its effects were changed in an errata issued in 2021. The original "mad monkey fever" caused individuals to suffer a random type of madness within six hours and to remain so for up to 100 hours (per Tomb of Annihilation, p. 40). This wiki has retained the old name because of its appearance in the physical book and usage in tie-in media, notably the Neverwinter video game. was a magical disease found in Chult as of the late 15 century DR.
+
+Acquisition
+The disease was spread by contact with odorless blue mists that would drift through the jungle. This mist could cover as much as  at a time and could travel more than  in an hour. The mist was thin enough that it was not immediately obvious to travelers in the jungle as it approached. It was also known to linger in enclosed spaces, such as ruined buildings.
+
+Effects
+The disease attacked the minds of humanoids and giants. Those afflicted with blue mist fever suffered madness or began to see vivid hallucinations involving blue monkeys, which would set in within six hours of infection and would last at least a day, if not more. While not deadly in and of itself, intense bouts of the disease could put the victim in dangerous or deadly situations, especially in the middle of the jungle (e.g., from falling or drowning).
+
+Prevention
+Blue mist fever could be prevented by avoiding contact with the blue mists that spread it. As these mists were magical in nature, they could be destroyed using spells like dispel magic, although larger patches of the mist would not be negated in their entirety.
+
+Cure
+Afflicted individuals could fight off blue mist fever on their own. Eating the flesh of a yahcha beetle was known to help people snap out of their hallucinations, and antidotes for the disease were said to exist, although they were often in short supply. Otherwise, lesser restoration and similar curative magics were known to cure the disease.
+
+History
+At some point in the early-or-mid–15 century DR, a wizard and his shield guardian entered the Chultan jungle, but did not return after the wizard contracted blue mist fever and died after hitting his head on a rock. His shield guardian was left to sit unmoving in the forest, and came to be known as "Vorn" by the local batiri goblins of Yellyark.
+
+Mist-borne diseases were a notable concern in the jungles of Chult by the 1470s DR, and blue mist fever was one of the better known Chultan diseases.
+
+By the late 15 century DR, blue mists had settled into parts of the ruins of Omu. A yuan-ti pureblood named Sev became afflicted with it, and his brethren in the Fane of the Night Serpent imprisoned him for the duration of his sickness, which he spent throwing rocks at hallucinated blue monkeys.
+
+Around the same time, blue mist fever was one of many diseases plaguing Camp Vengeance, the base of an Order of the Gauntlet expedition that had been undertaken to rid Chult of undead. The expeditionary leader, Niles Breakbone, sought to transport a number of his infected troops to Port Nyanzaru for recovery.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Blinding sickness
+
+Blinding sickness, also known as river blindness, was a disease that could cause permanent loss of vision and even death.
+
+Acquisition
+Blinding sickness was generally contracted by drinking water contaminated with the disease and could also be acquired by aquatic creatures who breathed such water. It was further known to be transmissible if tainted water came into contact with a creature's unprotected eyes, nose, or ears. Creatures who dwelt in the waters and sewers in which the disease was pervasive tended to be immune to it.
+
+The disease could also be acquired by inhaling the spores of a variety of white toadstool mushrooms that could be found in Undermountain.
+
+Blinding sickness was one of several diseases that could be inflicted using the contagion spell.
+
+Effects
+Symptoms usually began to set in after one to three days. The initial effect was a steady deterioration of the infected individual's strength, followed by loss of vision. The progression of the disease could also include a loss of stamina as well as blurry vision—which made it hard to see more than about —before advancement to total blindness. This blindness lasted until the disease was cured, but could even be permanent. Afflicted creatures' eyes turned a milky white and they felt pain in their heads, which interfered with their willpower.
+
+The steady deterioration of the infected individual's strength and stamina was a bigger danger than the blindness as it could ultimately cause weakness to the point of death.
+
+Treatment
+A healthy immune system could fight off the disease in as little as two days, although any vision loss that occurred would remain. Only restorative magics, such as lesser restoration, could undo this damage.
+
+History
+The "red tides" of the Elemental Plane of Water carried blinding sickness.
+
+As of the mid-to-late 14 century DR, stagnant waters contaminated with blinding sickness could be found in places like Dead Orc Pass in the North, the Underdark, and Zakhara. The disease was rampant in the sewers of cities like Mulmaster, and especially in the sewers of Waterdeep.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Blacklung fever
+
+Blacklung fever was a potentially fatal disease and one of the Five Fevers of Faerûn.
+
+Acquisition
+The disease was transmissible through the air. It took a day for symptoms to manifest.
+
+Effects
+Sufferers of blacklung fever suffered a steady loss of their stamina and endurance. While a healthy individual could fight off the disease in a matter of days, the disease could ultimately be fatal.
+
+History
+Deldagg Huldgrym, the founder of the Bloodaxe Mercenary Company, died of blacklung fever in the .
+
+Appendix
+References
+
+---
+
+## Blacktongue
+
+Blacktongue, also known as blacktongue fever, was a well-known disease in Faerûn, and was one of the so-called Five Fevers.
+
+Acquisition
+Blacktongue was transmissible through ingesting the disease. Symptoms manifested within four days.
+
+Effects
+Sufferers of blacktongue experienced fever and a steady loss of their mobility and reflexes. While a healthy individual could fight off the disease in a matter of days, blacktongue could ultimately be fatal as the sufferer's tongue turned black and swelled to fill their mouth.
+
+History
+Ilisar, the Waterdhavian tailor for whom Ilisar's Alley was named, died of blacktongue.
+
+Appendix
+References
+
+---
+
+## Blacktongue (disambiguation)
+
+Blacktongue could refer to:
+ Blacktongue, a well-known disease across Faerûn;
+ The Blacktongues, a tribe of bullywugs located in Undermountain as of the late 15 century DR; or
+ Another name for the orc language.
+
+Appendix
+References
+
+---
+
+## Bloodmuck
+
+The Bloodmuck was a lake in the land of Thar in the Moonsea North region of north Faerûn.
+
+Geography
+The Bloodmuck served as the source of a short winding Tormel River that flowed from the lake towards the Moonsea to the south, where it met the sea at the city of Melvaunt. The lake was located to the northwest from the hills of the Fangjaws Hold, a collection of stone and turf lodges of the Skullsmashers ogres. On the lake's southwestern shore stood Nouth, a ruin of a tower and a walled stableyard, once, part of the human nation of King Beldoran.
+
+Appendix
+
+---
+
+## Blade of memory
+
+Blade of memory was an evocation spell that created a magical weapon in the caster's hand.
+
+Effects
+For the blade of memory to be cast, the wizard needed to touch an edged weapon of any kind that the spell consumed. At a later date, anytime after the spell was cast, the wizard could utter a word to "recall" a ghostly version of the weapon consumed during the casting. The spell remained active as long as the caster remained alive, was not a target of the dispel magic, or the caster replaced the memorized blade of memory spell with another.
+
+The weapon that served as the spell's component could be any edged weapon that the caster could hold in one hand. They did not need to know how to wield the said weapon. When the blade of memory was activated, it remained affixed to the caster's hand and visible to all. The translucent weapon was intangible. It could not be dropped, thrown, or passed to another creature; it was not affected by electricity or magnetism, nor could it actually cut or slash objects. The weapon only became solid for a moment when hitting its intended target. The target was a single creature or object mentally selected by the caster each time the blade of memory was activated.
+
+When summoned, the blade of memory was at its strongest, being equal to a magic blade of a +4 enchantment strength. With each passing minute, the blade of memory became weaker, eventually vanishing as the enchantment strength passed +1 potency. The caster could dismiss the blade at will but was unable to make it reappear after one use.
+
+This spell was simple magic, something Mordenkainen called "apprentice tools" and Elminster Aumar – "the stock-in-trade of us all."
+
+Components
+The blade of memory required verbal, somatic, and material component to be cast.
+
+History
+Blade of memory was one of the spells that originated from one of two worlds: Toril or Oerth. The spell, along with several others, was exchanged between Elminster, Mordenkainen, and Rautheene of Oerth, during one of their visits to the home of Ed Greenwood on Earth.
+
+Appendix
+References
+
+---
+
+## Blackweb
+
+Blackweb was a fungal disease affecting grapes.
+
+Effects
+This blight occurred on grape vines grown in a cold, damp environment, resulting in a powdery mildew. The grapes were bitter and stunted as a result.
+
+History
+The grape vines grown in Maskyr's Eye in the Vast in the mid–14 century DR were often afflicted with blackweb, owing to the climate. Despite this, they were used for the local sour wine known as sund.
+
+Appendix
+References
+
+---
+
+## Blazer of benevolence
+
+The blazer of benevolence was an set of magically enchanted clothes that were especially beneficial to magic-wielding bards of the Realms.
+
+Description
+The blazer comprised an embroidered velvet doublet set over a fine shirt with a frilled collar and puffed out upper sleeves. It was bound with a wide belt with a buckle that featured an elaborate depiction of a songbird.
+
+Powers
+The outfit imbued the wearer with a bolstered sense of self-confidence and assertiveness. Whenever a bard donned the blazer, and sang or played a song to inspire their comrades, their own vitality was strengthened, if temporarily.
+
+History
+This set of magic clothing belonged to Volothamp Geddarm in the .
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Blackhair
+
+A blackhair was a breed of horse originating from the village and vale of Maskyr's Eye in the Vast.
+
+Description
+It was a rugged equine, with short legs and a pony-like build yet reaching the weight and breath of a warhorse, albeit not as tall. Their coats were thick and shaggy with black and dark-brown colors, from whence came their name. A unique adaptation of the breed was a bony plate shielding the sole of the hoof from loose stones.
+
+Abilities
+Blackhairs were renowned for their strength and endurance, and especially their surefootedness over rocks and mountain slopes. They could carry  with ease, and up to  at a slow pace.
+
+Availability
+These horses were bred and trained in the well-fenced farms west of the road in Maskyr's Eye. Two of the most notable breeders circa 1357 DR were Gundul Hulvesper of Hulvesper Farm and Elephon Stoneshoulder of Northreach Farm. For fear of horse thieves, stable-hands and laborers from beyond the vale were rarely hired at these farms.
+
+The blackhair breed was much-sought-after in the Vast, with a single fully trained animal going for up 400 gold pieces in the stock markets of Hlintar or Kurth. However, local Maskyrvians rarely paid more than 75 gold pieces unless they were expected to take it out of the vale to far-off lands for war, trade, or long-distance travel.
+
+Appendix
+References
+
+---
+
 ## Blood in Baldur's Gate
 
 Blood in Baldur's Gate is a community-driven free-to-play narrative browser game developed  and published by Larian Studios. It was released in June 2023.
@@ -1053,6 +14644,295 @@ Gallery
 
 ---
 
+## Black Blade (brigand)
+
+The Black Blade was the name given to a powerful brigand operating in the Eastern Heartlands in the mid–14 century DR.
+
+Description
+Never seen without a mask, the Black Blade was believed to be a female human.
+
+Abilities
+She was known to possess magical powers or else equipped with magical items.
+
+Activities
+This brigand habitually robbed traders traveling by land in the southern Dalelands, eastern Cormyr, and western Sembia.
+
+History
+By around 1357 DR, three whole war bands had been sent to kill the Blade Blade, and she had defeated all three of them. Adventuring companies had also come for her; she was thought to have forced The Company of The Fire Shield to flee and to have slaughtered The Company of the Torch in their entirety.
+
+Appendix
+References
+
+---
+
+## Blackjaw
+
+Blackjaw was a species of predatory fish that inhabited the Lake Glorfindar in the Starmetal Hills and remined active through the winter months under the lake's ice.
+
+Description
+These somewhat uncommon creatures had long eel-like sinuous bodies and large heads with massive mouths. They had green scales.
+
+Ecology
+Blackjaws were a nuisance for ice-fishers and anglers. They waited for a fish to be caught by an angler and snatched the easy prey before the catch could be dragged out of the ice hole. They were edible and were a part of a winter's hero's feasts served during the annual Simril celebration in Twilight Tor. The feast also consisted of cooked brown bream, candlefish, and durgrace.
+
+Appendix
+References
+
+---
+
+## Blush (plague)
+
+The blush was a plague that afflicted the Border Kingdoms during the .
+
+History
+The disease appeared on Marpenoth 23. It first struck the village of Logfell north of the Qurth Forest.
+
+Appendix
+References
+
+---
+
+## Bloatfish
+
+The bloatfish was a species of fish found in the Great Glacier.
+
+Description
+The bloatfish resembled a white manta ray, featuring an inflated organ that protruded from its belly like a balloon. This organ's diameter matched or slightly exceeded the fish's length.
+
+Behavior
+The bloatfish displayed non-aggressive behavior, swiftly swimming away from any perceived threats.
+
+Ecology
+The balloon organ of the bloatfish remained filled with fresh water due to the fish's distinctive body chemistry. On rare occasions, fortunate fishermen managed to capture a bloatfish. They may choose to keep the frozen carcass with them, allowing them to enjoy sips of the organ's fresh water by puncturing a hole in the fish's side. Once the balloon organ was depleted, the fish could be savored as a satisfying meal.
+
+Bloatfish were scavengers. They consumed plankton, organic waste and any organic material.
+
+Habitat
+The bloatfish inhabited the rivers and seas of the Great Glacier. Bloatfish were not territorial and had a natural inclination to form schools of different sizes. Their reproductive strategy involved laying numerous tiny eggs, typically numbering in the thousands.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Black burner
+
+Black burners were an uncommon species of aquatic mammal found in the Great Glacier.
+
+Description
+The black burner was a small marine mammal. It has a chubby black body, a puckered blowhole, and a wide mouth, resembling a miniature whale. It secreted oil through tiny pores in its skin. The entire surface of the black burner was covered in oil, which prevented it from freezing when taken out of the water.
+
+Behavior
+Black burners displayed non-aggressive behavior, swiftly swimming away from any perceived threats.
+
+Ecology
+Black burners were scavengers. They consumed plankton, organic waste and any organic material.
+
+Habitat
+Black burners inhabited the rivers and seas of the Great Glacier. Black burners were not territorial and had a natural inclination to form schools of different sizes.
+
+Uses
+If the corpse of a black burner was set on fire, it burned steadily for up to twelve hours, providing light and warmth similar to a small campfire. Approximately a cup of oil could be drained from a black burner corpse and saved for future use as fuel.
+
+Appendix
+References
+
+---
+
+## Bloodguzzler garb
+
+The bloodguzzler garb was a set of clothing that bolstered the combat prowess of the wearer, the more injured they became in battle.
+
+Description
+The clothes absorbed any blood that came into contact with its surface.
+
+Powers
+Whenever the wearer of the bloodguzzler garb became severely wounded in battle, their body produced adrenaline. As a result they became more adept at inflicting more grievous wounds in battle.
+
+History
+As of the, the garb remained in the belly of a rogue bulette that roamed around Ebonlake Grotto.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Black Eel Street
+
+Black Eel Street was street that crossed the Seatower district in the Lower City of Baldur's Gate.
+
+Description
+Black Eel Street began at Baldur's Gate's western city wall and moved in a relatively straight line across the Seatower district, passing the beginning of Wendserpent Street, one block west of the water, and ending at Glaezel's Dock overlooking the Gray Harbor. Black Eel Street ran parallel to Caundorl Street.
+
+Appendix
+References
+
+---
+
+## Blackriver Bandits
+
+The Blackriver Bandits were a division of the Neverwinter thieves' guild with power and influence in the city's Docks District in the late 14 century DR.
+
+Organization
+The gang was led by four bosses, and was a part of the Neverwinter Thieves Guild.
+
+Base of Operations
+The Blackriver Bandits had four hideouts scattered around the Docks District.
+
+Possessions
+The Bandits wore custom dark-grey armor. They also used distinct and custom-made daggers, maces, bastard swords, and axes.
+
+Relationships
+The Blackriver Bandits were enemies of the Bloodsailors.
+
+History
+Circa the, the Bandits were in a gang war with the Bloodsailors. Some believed that they were destroyed by the adventurer known as Eater-of-Garm during this conflict.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights • Neverwinter Nights: Pirates of the Sword Coast)
+
+References
+
+---
+
+## Blentra's cider and vinegar oyster sauce
+
+Blentra's cider and vinegar oyster sauce was a seafood sauce made at the Platter of Plenty in Marsember in the mid-to-late 14 century DR. It was attributed to Blentra Whaelbuckler.
+
+Description
+A serving of sauce was sufficient to smother a large meal of raw oysters, enough to feed a very hungry patron. It started with a large, tart greenheart apple being peeled and diced, then mashed and mixed with a spoonful of crushed black pepper, a pinch of dried mustard, and a half-cup of of red-wine vinegar. A handful of shallots or scallions were then minced and mixed in, along with a half-cup of apple cider and finally a pour of zzar or almond sherry. The mixture was then chilled for an hour and then stirred before being spooned onto the chilled, raw, half-shell oysters.
+
+Availability
+The sauce was made in large cauldrons by low-ranking kitchen staff at the Platter of Plenty, alongside a multitude of other sauces that doused the meals of the Platter.
+
+Appendix
+References
+
+---
+
+## Bluth
+
+Bluth was a swordmaster of the Zhentarim in the mid-14 century DR.
+
+Personality
+He was generous with his words to underlings, and believed in duty. He also considered it dangerous to speak overmuch about one's orders.
+
+Abilities
+He could oversee trap work.
+
+Activities
+He was a Zhentarim swordmaster.
+
+Relationships
+He oversaw the trap-building of Alorth Bloodshoulder, Guld, and a third, younger swordsman.
+
+History
+Bluth had led an effort to build pit traps on Hullack Forest ahead of Shandril Shessair in, trading a few words with the three warriors he oversaw.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Black Urchin
+
+Black Urchin was a type of enchanted shield forged in the Underdark in the likeness of blackblood urchins.
+
+Powers
+Black Urchin was designed by the duergars to resemble a blackblood urchin, a species of venomous shellfish found in the seas of the Underdark. Such shields were made of iron and often appeared black and strained with rust. The shield's front was covered in rusted barbs. Each time the shield bashed a target or an attacker pricked themselves, its barbs injected the target with harmful toxins.
+
+History
+As of the, one Black Urchin shield was wielded by Harhord Dorm, a duergar bodyguard of Barud Barzam, who was placed in charge of an old duergar stronghold in the River Caves, where the Black Raven River emerged and ran south in northwest Faerûn.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale II
+
+References
+
+---
+
+## Blatant Beast
+
+The Blatant Beast was a strange monster that roamed throughout the Kingdom of Mertwig in search of stories and rhymes. Anyone that managed to tell the creature a tale that was to its liking would be gifted treasure, whilst though whose stories failed to impress would be attacked.
+
+Description
+The Blatant Beast was a bipedal creature with stubby arms, a tail, and green skin.The creature's skin color is only apparent on the cover of the book.
+
+History
+When King Mertwig was on the verge of death at age 65, various fortune hunters and individuals claiming to be his long-lost heirs scoured his kingdom in search of wealth and treasure. During their journey to claim the throne, the would-be heirs of King Mertwig encountered the Blatant Beast.
+
+Appendix
+Background
+This creature's name may have been derived from the Blatant Beast in the English poem The Faerie Queene, which got its own statblock for 2nd edition AD&D in Dragon #58.
+Notes
+
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Blackweed
+
+Blackweed was a highly potent poison known in the mid-to-late 14 century DR.Blackweed is presumably extracted from a plant of the same name, but no such plant is known.
+
+Description
+In its pure form, it was a pale yellow fluid. A concentrated dose of blackweed poison had a quite a distinct odor,
+but it dissolved unnoticeably in water.
+
+Effects
+A slow-acting poison, following ingestion, blackweed had no immediate effects on a victim. After 12 hours or more, however, they would begin to feel pains, growing from irritating to agonizing. In under 24 hours, the victim would be dead. A small vial of blackweed to sufficient to slay a whole townful of people.
+
+History
+In Eleint of the, the Iron Throne provided two vials of blackweed to two of its spies in Cormyr, king's envoy Grodoveth and Mayor Tobald of Ghars, along with orders to poison the village water supply via its cistern. This was part of a plot to assassinate the visiting Grand Council of the Merchants' Guild of Cormyr—and incidentally the town's entire population—and thereby benefit the Iron Throne's interests in Sembia and fill the vacancies left in Cormyr.
+
+Fortunately, during a medical examination on Eleint 18, the retired War Wizard Benelaius found the vial in Tobald's cloak, identified it by its odor, cleaned it out, and replaced it with a harmless crystalline powder that glowed in the dark. He had already found and taken Grodoveth's vial when he came across his dead body earlier that day. To confirm his suspicion, he then had junior War Wizard Lindavar test the stolen poison. Lindavar used a centrifuge, together with reagents and an alembic, to examine a sample and identified the blackweed.
+
+At a midnight gathering on Eleint 19, Benelaius revealed that everyone who had drunk the water of Ghars that day had a glowing mouth, and so exposed Tobald, who'd not touched a drop, as the would-be poisoner.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Blood Iron
+
+Blood Iron was a unique enchanted short sword created by Hekedder, a wicked barbarian shaman, many years before the late 13 century DR.
+
+Description
+The weapon was a crudely forged iron sword. The blade's metal was covered in gouge marks and dents from the shaman's unskilled hammer strikes. Blood Iron's handle was a simple wrapping of bright red leather.
+
+Powers
+Despite its crude appearance, Blood Iron possessed a powerful +4 enchantments that guided the wielder's hand towards the target and ensured the weapon's damage to be much deadlier than that of a regular weapon. Additionally, Blood Iron's necromantic magics healed the wielder with each successful strike. However, due to the weapons dark enchantments, it could only we wielded by creatures of neutral or outwards evil morals.
+
+History
+Blood Iron was forged by Hekedder, was a shaman of low morals. He forged and enchanted the crude blade and gifted the sword to his cousin. In the years that followed, the cousin and all subsequent wielders of Blood Iron found themselves hated because of its evil necromantic taint, which was much reviled by the barbarian tribes of the Frozen North. Hekedder's creation became infamous among his people long before the, with them thinking that even uttering the sword's name to be a curse.
+
+Appendix
+Appearances
+
+References
+
+---
+
 ## Bleak Cabal
 
 The Bleak Cabal was one of the official philosophical and political factions of the Outer Planes. Based in the planar city of Sigil, they formed a triumvirate of fatalistic philosophies with the Doomguard and Dustmen. And they were one of the more ancient factions of the City of Doors, rivaled in age only by the Dustmen.
@@ -1122,6 +15002,652 @@ Appearances
 References
 
 Connections
+
+---
+
+## Blackstaff wine
+
+Blackstaff wine was a type of red wine from the city of Waterdeep. It was exported to the Western Heartlands, the lands along the River Chionthar, and the city of Baldur's Gate, as of the late 15 century DR.
+
+Description
+Just like its namesake and the city it was from, the Blackstaff had a big, bright, and unbalanced flavor. It was said to perfectly capture the spirit of the City of Splendors.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Blue Dolphin
+
+Blue Dolphin was a tavern in the city of Ravens Bluff in the Vast owned and operated by Jonathon Morningmist, a goodly elf who was secretly a vampire.
+
+Location
+It was located near the wharves of Ravens Bluff, in the Harbor District, just down the street from the market in front of the Gates of the Watchful Raven.
+
+Structure
+The tavern's sign was a bright blue-painted silhouette of a dolphin, but the paint had faded and peeled with time. The façade looked run-down.
+
+Interior
+The tavern's interior was best described as dark and rustic. Looking in from the narrow entrance, the bar was on the left side, with tables on the right. The seating area consisted of several raised platforms, or "steps", the highest of which was about  tall. The tables and bar stools were shorter on the higher platforms, so all patrons were seated at roughly the same height.
+
+The bar was well-worn, and behind it was mounted a stuffed dolphin with a glass eye. Jonathon kept a magic mirror in the establishment, which was enchanted so that he would cast a reflection in it despite his vampiric nature.
+
+Atmosphere
+A popular hang-out for adventurers and sailors, the Blue Dolphin was a great place to hear tall tales and adventuring rumors.
+
+Services
+Fine foods and spirits could be had here, but also lumpy fish stew and cheap beer.
+
+History
+Jonathon Morningmist established the Blue Dolphin with funds he had accumulated from centuries of preying on mortals with his brother Jeremiah—who was also a vampire. During one of the brothers' adventures, Jonathon had accidentally donned a helm of opposite alignment, forever changing his moral outlook on life away from evil. The brothers could not see eye to eye after this, and so they parted ways, with Jonathon settling in Ravens Bluff.
+
+But Jeremiah remained rather miffed at his brother, so he eventually followed him to Ravens Bluff and started feasting on Jonathon's patrons.
+
+Inhabitants
+The owner, Jonathon, lived in a room above the tavern proper. He had a tendency to magically charm evil female thieves into serving as his barmaids, hoping to influence them into changing their ways. Beggars were often allowed to spend the night in the tavern.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Blood sausage
+
+Blood sausage, or black pudding, was a somewhat uncommon type of sausage found in Faerûn. Blood sausages were reported to taste a lot like stirge meat.
+
+Availability
+In the Western Heartlands and the city of Baldur's Gate, now could find platters filled with an assortment of grilled, fried, baked, and boiled blood sausages, served with a ramekin of dipping sauce. These dishes were referred to as Black Pudding Platters. Occasionally, blood sausage was served with a bowl of porridge.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blepp
+
+Blepp was a kobold from the Dragon's Rest cloister in the late 15 century DR.
+
+Personality
+With a keen instinct for peril, Blepp maintained a steadfast belief in his uncanny luck.
+
+Possessions
+His most cherished possession was an ordinary dagger and he insisted it to be magical. He wore a simple robe.
+
+History
+Blepp shared with three other kobolds a small monastic cell in the Dragon's Rest cloister cut into the cliff face. Each of the four slept on individual hammocks. Just like all the other kobolds, he worked at night because of their sensitivity to sunlight.
+
+Circa the, Blepp and the cloister gardener Tarak were attacked by zombies when they went fishing. At the point of near-death, they were rescued thanks to the timely aid of a group of adventurers. Yet Blepp was convinced that his good luck and his "magical" dagger spared him from an inevitable demise.
+
+Appendix
+Appearances
+
+Notes
+
+References
+
+---
+
+## Black's Finest
+
+Black's Finest was a variety of wine produced in Tantras by the Black Family of Merchants in the late 14 century DR.
+
+History
+In the, Black's Finest was brought to the year-end celebration festival in the town of Mossbridges in the Vast by Carl Morthinson, a representative of the Black Family of Merchants. Carl trusted in the wine-tasting and grading competition's in which Black's Finest was enrolled to be fair. The wine produced by this noble Tantran family was sold at five silvers per tankard, and only judges were allowed free tasting.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blanc
+
+Blanc was a Netherese thief who worked as a guide in Karsus Enclave until its destruction in . She was one of those locals who gave guided tours to visitors.
+
+Appendix
+References
+
+---
+
+## Blackrocks
+
+The Blackrocks were a region of rocky wasteland north of Scornubel along the Trade Way.
+
+Geography
+The Blackrocks stretched from just after Scornubel to Triel and beyond. The region contained many stone formations, a few streams, some trees, and much scrub. It was hilly.
+
+Inhabitants
+Per local traders and caravaneers, the Blackrocks were abundant in orcs, bandits, bears, wolves, leucrotta, goblins, probably ghouls, and other predators.
+
+History
+In late, Orthil Voldovan's caravan crossed the Blackrocks during the early leg of its trip between Scornubel and Waterdeep.
+
+Locations in the Blackrocks
+ Orcskull Rise
+ Face Crag
+ Haelhollow
+ Two Pools trail
+ Dowan Pool
+
+Appendix
+Appearances
+
+Gallery
+External Links
+References
+
+---
+
+## Bloodbite
+
+Bloodbite was a deadly poison.
+
+Powers
+Per Sharantyr, bloodbite was extremely deadly, but too many people had since developed a resistance to it.
+
+History
+When Tornar poisoned Sharantyr in  using a crossbow bolt and announced his bolt was poisoned, Sharantyr assumed the poison to be bloodbite and said as much.
+
+Notable Owners
+ Tornar
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Black Alaric's
+
+Black Alaric's was a tavern in the Amnian city of Esmeltaran during the 14 century DR.
+
+Location
+The tavern was built on the western side of Esmeltaran, near the western city gate.
+
+Services
+Black Alaric's provided fair service at surprisingly cheap prices.
+
+Appendix
+References
+
+---
+
+## Blue Alley
+
+The Blue Alley was an alley in the Sea Ward of Waterdeep.
+
+A mad wizard lured adventurers into the alley to test their mettle, including undead skeletons still wearing ball gowns and fancy dress attire and dancing with each other.
+
+One building in particular was a trap-laden obstacle course that thoroughly tested anyone foolish enough to wander inside.
+
+Appendix
+References
+
+---
+
+## Blizzard dragon
+
+Blizzard dragons were a species of catastrophic dragon that were infused with para-elemental ice.
+
+Description
+The species were classically draconic in form (four legs and two wings and a head on a long neck) and, like other species of dragons, grew larger as they aged.
+
+Abilities
+These dragons emitted an aura of freezing cold wind. Their mere presence caused surrounding air to chill and the ground to ice over. As they grew older, blizzard dragons learned to expand this aura at will, making the torrents of wind more violent and unbearably cold, slowing down their enemies and blinding them with snow. And if they were ever hit by an some magic or ability rooted in elemental cold, their aura would unleash a flurry to send the attacker flying back.
+
+Their jaws and claws were painfully cold to the touch. A bite from them could temporarily freeze a creature in place and a swipe of their claws could send creatures sliding backwards.
+
+Finally, blizzard dragons could unleash a torrent of ice when injured, with those of an ancient age capable of severely immobilizing their attackers.
+
+Combat
+Though they were fast fliers, blizzard dragons were quite clumsy and thus preferred to fight on solid ground. Fighting with their claws, jaws, and freezing cold special abilities. They preferred to take advantage of their surroundings whenever possible, such as triggering an avalanche and making icicles plummet down upon their opponents.
+
+Ecology
+Habitats
+In addition to the Elemental Chaos and the plane of Pandemonium, blizzard dragons could occasionally be found in the coldest reaches of Prime Material worlds. Wherever they made their lair, whether it was on a mountainside or underground, a blizzard dragon would use their powers to mold the environment to their liking.
+
+Languages
+Blizzard dragons typically spoke the Common, Draconic, and Primordial languages.
+
+Relationships
+Blizzard dragons harbored enmity towards all deities, but their greatest animosity was towards the Raven Queen and her servants. They would display anger towards anyone that invoked her or bore her holy symbol.
+
+Blizzard dragons typically allied themselves with beasts of cold environs, such as winter wolves, and creatures of elemental ice like frost giants, frost titans, and ice archons. They were also willing to ally with others that had destructive and tyrannical ambitions, such as the winter fey or even a lich, if their goals aligned. They never hesitated to work alongside others of their kind or even other species of catastrophic dragons. Groups of blizzard dragons sometimes banded together under a dragon or some humanoid if doing so would either enact what they perceived as vengeance upon the gods, free Primordials from their imprisonment, or unleash dragons even more powerful than themselves.
+
+History
+Following Io's death at the hands of Erek-Hus during the Dawn War, a number of dragons became rebellious and discouraged. Viewing his successors Bahamut and Tiamat as weak and selfish, they instead turned to the Primordials for power.
+
+It was a Primordial known as Umboras, the Lord of Rimefire, who attracted them as he sought out creatures that could help carry out his vengeance upon the Raven Queen. He ferried them away to the deepest, cold reaches of the Elemental Chaos. There their bodies were entombed by the ice and Umboras spent an entire year working his foul magic, eventually transforming them into blizzard dragons. As part of his forces the blizzard dragons transported the primordial's various frost titans and ice archons to the Raven Queen's realm. The goddess fled his forces and they chased her to the plane of Pandemonium, not suspecting that they were being lured into a trap. In the labyrinthine tunnels of that plane the Raven Queen managed to separate Umboras from his forces and trapped him within an empty vault.
+
+With their master gone the blizzard dragons dispersed across the multiverse. Some stayed within the plane of Pandemonium, others returned to the Elemental Chaos, and a few managed to find their way to the coldest reaches of worlds on the Prime Material.
+
+Notable Blizzard Dragons
+ In the late–15 century DR, a blizzard dragon lived beneath a frozen lake at the heart of Delhalls, acting as an obedient servant to an iceborn clone of Iyraclea.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Blaise Hhune
+
+Blaise Hhune was a member of the Hhune patriar family of Baldur's Gate in the late 15 century DR.
+
+History
+At some point in the, Blaise Hhune became afflicted by lycanthropy, the affliction that led him into the servitude of the Kozakuran vampire Cazador Szarr, the lord of the Szarr Palace in Baldur's Gate. Along with Gheris Hhune, Duver Rillyn, and other werewolves, Blaise massacred a party of influential guests at the Szarr Palace, shortly before Cazador attempted to perform his ascension ritual. The beasts and lycanthropes were likely put out of their misery by the Absolute Adversaries and the vampire spawn Astarion Ancunín.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+
+References
+
+---
+
+## Blood Island
+
+Blood Island was a small island that sat in the River Mirar in the city of Luskan. It was fortified to house the standing army responsible for defending the city. This fortress briefly came to be known as the Dragon's Lair during the late 15 century DR.
+
+Description
+The island was dominated by a guard tower, two barracks, and an armory. There was little else of interest on the island.
+
+The interior of the fortress was decorated with tapestries depicting coastlines and ships as well as furniture of black oak. The windows in the officers' quarters commanded an excellent view of the coast.
+
+Geography
+Blood Island sat further upstream than the other islands in the River Mirar's mouth (namely Closeguard Island, Cutlass Island, Fang Island, and Harbor Arm Island). It lay in the middle of Luskan's Harbor Cross bridge: it was connected to Luskan's South Bank by the Short Span of the bridge and to the North Bank via the Long Span.
+
+Defenses
+The barracks contained layers of fortifications, with three separate sets of staggered walls designed to trap attackers and many murder holes designed to then kill them.
+
+Catapults mounted on the roof of the island's guard tower were capable of bombarding enemy ships in either of Luskan's harbors as well as those coming from upriver. They could also fire into the city itself.
+
+History
+Blood Island was occupied by Luskan's standing army through the 14 century DR.
+
+In the, forces led by Deudermont and Lord Brambleberry attacked Luskan to drive out Arklem Greeth and the Arcane Brotherhood. They seized Blood Island for their assault across the Harbor Cross, and the city guard remained hunkered within their garrison as they fretted over which side to join.
+
+With the descent of Luskan into anarchy following the events of the Spellplague in the, Blood Island was abandoned: the barracks fell into ruin and its windows were boarded up, and the island became cut off from the city as the Harbor Cross fell into disrepair (although the bridge was rebuilt and known as the "Blood Bridge" in the ).
+
+By the late 15 century DR, the island had become the headquarters of a Shou crime syndicate known as the Dragonbloods, and the refurbished garrison came to be called the "Dragon's Lair". This gang trafficked in all manner of illegal goods—including drugs and slaves—and were known to be violent, hence the name "Blood Island" came to be seen as all too appropriate. The gang's leadership was killed by Kalen Dren, Myrin Darkdance, Rhett Hawkwinter, and Sithe during the outbreak of the Fury plague in the .
+
+By, the guard tower and barracks once again housed Luskan's soldiers. Access to the island was restricted to members of Luskan's Ships or to those otherwise approved by the High Captains of Luskan.
+
+Notable Inhabitants
+ Kasi, a high-ranking member of the Dragonbloods as of 1480 DR.
+ Umbra, known to the public as "the Dragon", the enigmatic leader of the Dragonbloods in the late 15 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blaedron
+
+Blaedron was a person known to a War Wizard of Cormyr in the late 14 century DR.Blaedron almost certainly must have been a War Wizard or sanctum staffer.
+
+History
+One of the War Wizards protecting Vangerdahast in his sanctum near Mouth o' Gargoyles after his retirement as Royal Mage called out to someone thinking they were Blaedron during Harnrim Starangh's raid into the sanctum. Harnrim took that moment's hesitation to slay them.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Black-eyed susan
+
+Black-eyed susans were a type of a flower in the Realms that could be found growing in the Moonsea North and the Vast.
+
+Description
+These flowers were brightly colored and bore some resemblance to the blooms found on an echinacea.
+
+History
+Around the late 14 century DR, a shop in the city of Ravens Bluff known as Flora's Flower Shop carried black-eyed susans. They were kept outside the shop in a bucket, underneath a sign written in Common inviting customers to "Hep yoreselfs to a free flowa." At the time the flowers sold by Flora served as badges of official entry whilst in the hidden market of Flask Circle. If she couldn't convince a visitor to purchase one her flowers she would insist they take and wear one of the black-eyed susans offered outside, as lacking a flower whilst in Flask Circle would signify that an individual had snuck into the hidden market.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Blades and Bardings
+
+Blades and Bardings was a ballad from the Sword Coast region, composed sometime in or before the mid 14 century DR.
+
+History
+Blades and Bardings, its sheet music, and lyrics, all were recored in the book simply titled Sword Coast Songbook, compiled by Silke Rosena. The book was made available for purchase in the city of Baldur's Gate in or before the late 15 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Bloomridge Park
+
+Bloomridge Park was a public park located in the Bloomridge neighborhood of the Lower City of Baldur's Gate in the late 15 century DR.
+
+Location
+
+Bloomridge Park was a small park nestled against the Old Wall, just east of the Manor Gate.The city map in Baldur's Gate III is merely representative of a much larger Lower City. The name – Bloomridge Park implies it is located in the Bloomridge district. As such, the only point of reference that can be used in locating the park is the district's only gate, the Manor Gate. The Park had one main entrance – a large gate in the park's metal fence on the park's southwestern side. Another entrance, a smaller gate, was located on the eastern side with the groundskeeper's quarters adjacent.
+
+The park opened into a paved plaza with a statue of Balduran. It extended away from the main gate into a round risen area built around an old tree. Pathways extended away from the plaza with a gazebo to the left of the entrance, a small pond further in towards the Old Wall, and an area with wall-carved fountains straight across the main entrance at the Old Wall. The park's paths were decorated with statues carved by Stoney and Boney, two elementals from the Circus of the Last Days. The statues were "A Tribute to Liberty."
+
+Various medicinal plants and fungi could be found growing throughout the park, such as balsam, autumncrocus, swarming toadstools, weavemoss, mugwort, rogue's morsels, belladonna, and others. Some of the trees in the park house honey-filled wild bee combs.
+
+Services
+The park was open to public and was maintained by a groundkeeper who was responsible for clearing paths off fallen branches, polishing benches, cleaning the ponds, raking leaves, exterminating pests, repainting of signage, as well as locking and unlocking the gates daily.
+
+History
+In the, during the Absolute crisis, Death's Head of Bhaal Spaulder led a group of Bhaalists to massacre park-goers in the name of the Lord of Murder.
+
+The same year, the Bloomridge Park groundskeeper, Lavernica, fell victim to Orin the Red and her bloodthirsty sacrificed to Bhaal.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Bloodmarrow skeleton
+
+Bloodmarrow skeletons were a type of undead creature created by the unholy slayer of Bhaal.
+
+Description
+Bloodmarrow skeleton were humanoid skeletons, perpetually covered in fresh blood.
+
+Abilities
+These creatures could be created via a dead body being reanimated by a slayer. Bloodmarrow skeletons emerged from inside corpses. Despite being semi-intelligent creatures, they followed the slayer's commands and could not verbally communicate. They were immune to all poisons and venerable to bludgeoning weapons. In combat, bloodmarrow skeletons attacked their enemies in mêlée, trying to grab and slam their opponents, leaving bleeding wounds in the process.
+
+History
+In the, Orin the Red, daughter of Sarevok Anchev, fought for the title of the Chosen of Bhaal. When she confronted the group of heroes known as the Absolute Adversaries, her blood raged, transforming her into a monstrous slayer of Bhaal, an ability given to all Bhaalspawn children of the deity if they fed the bloodthirstiness in their blood. Bloodmarrow skeletons were created by the slayer out of the bodies of the slain Bhaalists in the Temple of Bhaal underneath Baldur's Gate.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blackflame Curtain
+
+The Blackflame Curtain was a brothel in Suzail during the late 15 century DR.
+
+Location
+The Blackflame Curtain was located in Suzail.
+
+Services
+The playpretties at the brothel also did house calls.
+
+History
+Before the Council of the Dragon in, Marlin Stormserpent called on his trusty Whelandrin to fetch him a playpretty from a place like The Blackflame Curtain.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Bloodshields Band
+
+The Bloodshields Band was an adventuring party of the late 15 century DR.
+
+Organization
+The band was made up of veteran adventurers. Their leader was Gaerond of the Scars.
+
+History
+They were hired by a wealthy Sembian to find the wizard Elminster Aumar in the ; they made it to Shadowdale by early spring. At the Old Skull Inn, they took on the young Thal as a guide, who offered to lead them to where Elminster Aumar was said to reside. He led them instead to an ambush by doppelgangers, being one himself, and the whole band died.
+
+Members
+ Gaerond of the Scars
+ Lylar
+ Rornagar Breakblade
+ Flamdar
+ Malkym
+ One unnamed member
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Black Mound
+
+Black Mound was an exclusive neighborhood in the city of Evernight in the Shadowfell.
+
+Description
+The neighborhood lay in the southwestern corner of the city atop a small hill—also known as the Black Mound—that overlooked the lava that flowed into the sea. The steam that arose from the hot lava meeting the water would occasionally cause a cloud of fog and mist to settle over the area.
+
+Black Mound was the site of houses and manors that were much larger than buildings in other parts of the city. While sometimes opulent,  they were just as filthy and decrepit as the rest of Evernight.
+
+Notable Locations
+ The House of Screams, a large and old manor that was the closest thing to a courthouse in Evernight.
+
+Inhabitants
+Black Mound was home to some of Evernight's most powerful undead (mostly intelligent ghouls), including its ruling Tribunal. The residents were accustomed to getting their way in disputes with inhabitants of other parts of Evernight.
+
+Any lesser undead or visitors to the city were liable to be stopped for questioning if they lingered in Black Mound.
+
+Appendix
+References
+
+---
+
+## Blink dog language
+
+The Blink Dog language was the racial language of blink dogs, an intelligent breed of canines.
+
+Phonology
+Blink Dog was an entirely verbal language, lacking any sort of writing system. Being that blink dogs were canines, the language consisted largely of various barks, growls, whines, and yaps. Despite its outward simplicity, Blink Dog was considered to be a complex language, capable of communicating intricate information.
+
+Notable Speakers
+ Derry Brandondale, a human who owned two blink dogs and operated the Friendly Familiar pet shop in Ravens Bluff in the late 14 century DR.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Blackclaw (dark stalker)
+
+Blackclaw was a dark stalker who led the Glumguts family of dark creepers in the Shadowfell city of Evernight as of the late 15 century DR.
+
+Personality
+Blackclaw was harsh and wrathful. He would inflict surprising and cruel punishments on his subordinates for any insult or failure. He spoke with a snarl.
+
+Possessions
+He wore black clothes and wielded a scimitar.
+
+Activities
+As of, Blackclaw and the Glumguts were employed by agents of Netheril to maintain their consulate in Evernight: a mansion that came to be known as the dark creeper enclave. The Netherese forbade them from attacking or stealing from any of the city's undead citizens lest their actions embarrass the Netherese or disrupt their operations. Blackclaw was quick to punish anyone who violated these rules or who put the family at risk.
+
+Relationships
+Blackclaw was rightly feared among his subordinates in the Glumguts family, and only three of them dared to challenge him, although this took the form of pranks and activities that might embarrass him or his Netherese employers. These three included his own son, Blackcut, and his cousins, Thrax and Vynnia. While Blackclaw was somewhat aware of their antics, he was unaware of the damage they had done to Netheril's reputation. The three were under the (mistaken) assumption that Blackcut's familial ties could protect them from Blackclaw's wrath if he ever discovered what they were doing.
+
+Appendix
+References
+
+---
+
+## Blackcut
+
+Blackcut was a dark one who was a member of the Glumguts family of dark creepers in the Shadowfell city of Evernight as of the late 15 century DR.
+
+Personality
+He sought merriment and excitement by going on sneaky adventures and playing pranks on the inhabitants and visitors of Evernight. He was unafraid to do things that challenged or might embarrass the Glumguts or their employers, the Netherese. This put him and the whole family potentially at risk if his antics were discovered.
+
+Relationships
+Blackcut's father was Blackclaw, the terrifying and merciless leader of the Glumguts. Along with his father's young cousins, Thrax and Vynnia, Blackcut tempted fate by defying his father with his behavior.
+
+He lived at the dark creeper enclave with the rest of the Glumguts.
+
+History
+By, Blackcut, Thrax, and Vynnia had caused enough trouble that, if their involvement were ever discovered by the ghouls of Evernight, it would put the whole Glumguts family at risk of retaliation from the Netherese. Luckily, Blackclaw had yet to learn what they had done, else he would punish them severely. Blackcut, meanwhile, believed that he would be spared his father's wrath because of their familial connection.
+
+Appendix
+References
+
+---
+
+## Blue Lynx Adventurers
+
+The Blue Lynx Adventurers were an adventuring troupe for hire from the Sword Coast North in the late 15 century DR.
+
+History
+In the, the Blue Lynx Adventurers were hired by Lady Jannath to search for her missing consort, a painter of some renown, Oskar Fevras. The group was paid one thousand gold pieces for the service and one thousand more in incidentals. The band returned empty-handed, no trace of Oskar was found from Baldur's Gate to Waterdeep, which was not surprising as he was captured and enslaved by a gang of Zhentarim smugglers and kept in the Zhentarim hideout underneath Waukeen's Rest inn in the Chionthar Valley.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Black Champion
+
+The Black Champion was the personal caravel of Azla, a famed pirate of Immurk's Hold in the 14 century DR.
+
+Description
+The ship had a crew of 25 moderately competent pirates, and was armed with a medium ballista.
+
+Appendix
+References
+
+---
+
+## Bliggerillo
+
+Bliggerillo was a hin commoner from the Lower City of Baldur's Gate in the late 15 century DR.
+
+Description
+Bliggerillo was a lightfoot halfling man with a light skin tone, curly head of light brown hair, and blue eyes.
+
+History
+In the, during the threat of the Cult of the Absolute, Bliggerillo could often be seen arguing with human friend, Porter Juxon, over the Baldur's Mouth gazette's reliability and its claims that the walls of the Gate would protect its citizens. Bliggerillo showed no confidence in the broadsheet's propaganda, unlike his friend. He believed that the gazette's monopoly on the news in the city had became a problem.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blades of fire
+
+Blades of fire was an arcane and divine conjuration spell from the first circles of magic that lit a weapon aflame. The spell could be used by rangers, sorcerers, wizards, and warmages.
+
+Effects
+After uttering the spell's words, the caster touched a target weapon that immediately became sheathed in flames. The fire did not damage the wielder or caster, nor the weapon itself, but dealt additional fiery damage to the targets of the weapon's attacks. The spell could be cast on a weapon that already possessed other item enchantments, making them even more deadly.
+
+Components
+The spell required only a verbal component.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Bladeweave
+
+Bladeweave was an arcane illusion spell from the second circle of magic that affected the caster's weapon. The spell could be used by bards, sorcerers, and wizards.
+
+Effects
+When the spell's words were uttered, bladeweave imbued the caster's weapon with a scintillating pattern or the hum of a dazzling rhythm. This weapon then could be used in battle to land strikes that had a chance of dazzling their targets. Additionally, such weapons could simply be used to swiftly touch an opponent. Such a touch dealt no damage but still could render the target dazed. The duration of the spell increased with the spellcaster's magical prowess.
+
+Components
+The spell required only a verbal component.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blood to water
+
+Blood to water was a powerful divine necromancy spell from the 7 circle of magic that transformed the target's blood into water. The spell could be used by clerics who venerated deities of the water domain.
+
+Effects
+When the spell was cast, all targeted creatures suffered excruciating pain and grave damage to their constitution as divine magic transformed the blood in their veins into water. Creatures who managed to shrug off the magics still suffered harm and pain and were affected by nausea afterward.
+
+The spell could affect up to three living creatures as far as  apart from each other. Some versions of the spell affected all creatures within a colossal area in front of the caster. The harm dealt to the targets, as well as damage to their constitution, could be split between all three targets, or concentrated on one or two creatures instead, increasing the spell's damage output. The damage potential and the spell's range grew with the spellcaster's magical power. Creatures of fire and water natures were unaffected by blood to water.
+
+Components
+The spell required only a somatic and verbal components.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blaspheme
+
+The Blaspheme was a rebel udadrow group of former driders who fought against the clergy of Lolth in Menzoberranzan in the late 15th century DR.
+
+Organization
+The Blaspheme were led by Mal'a'voselle Amvas Tol, who had led the drider contingent in the Demonweb Pits.
+
+Relationships
+
+History
+The Yochlols Yiccardaria and Eskavidne initially summoned the driders who would come to form the bulk of the Blaspheme from the Demonweb Pits in the  as an army to gift to Matron Zhindia Melarn so as to foment chaos among the drow of Menzoberranzan, making it look like Zhindia enjoyed the favor of Lolth in greater proportion than any other of the city's matrons, while also tipping the balance of temporal power in the city in her house's favor.
+When Zhindia's forces were about to clash with those of House Baenre and its allies on the surface, a magical trap had been set up, empowered by the birth magic sent out by Catti-brie during the birth of her daughter. When any drider stepped through this trap, they were painfully transformed back into humanoid drow. Seeing the opportunity after the first transformations, all of the other driders present on the battlefield, from both armies, willingly entered the trap, transforming themselves back into their original drow forms. After the battle swiftly concluded, the identities of the newly-transformed drow were recorded and all armies returned home, taking the former driders with them.
+
+Once in Menzoberranzan, the former driders began fighting against the Lolthites in the city, in a conflict expected to take years, if not decades to resolve.
+
+Members
+Dinin Do'Urden, the half-brother of Drizzt Do'Urden was a member. Though he initially assumed an alias of a houseless male named Dininae to avoid being recognized as such.
+
+Appendix
+Appearances
+Novels
+Lolth's Warrior
+Video Games
+Neverwinter
+References
 
 ---
 
@@ -1198,6 +15724,1374 @@ The names of most of the Black Academy's teachers were a mystery to outsiders. S
  Ferranifer, the headmaster of the Black Academy ever since its founding and a vampire scion. Her vampiric nature was unknown to most, though her being undead was widely rumored among devotees.
  Leon, a human fighter who guarded the academy's entrance. They wore a unique set of armor, a sort of exoskeleton made up of various humanoid bones fused together.
  Instructor Ngise, an eccentric human necromancer and instructor. He was among the first necromancers to establish the Black Academy alongside Mistress Ferranifer and thus considered to be among its primary instructors. He taught remedial courses, such as "Anatomy 101", as well as the advanced course "Adventures In Animation".
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Blade of the High Priestess
+
+The blade of the High Priestess was the sacrificial dagger of High Priestess Hekta Szind of Sschindylryn in the late 15 century DR.
+
+Description
+The blade had a curved point and many barbs angled backwards, ensuring that it would tear apart the victim when pulled from a wound.
+
+Powers
+The dagger bore a number of enchantments that improved its ability to inflict gruesome wounds, as well as being able to drain the willpower from and paralyze the victim when struck. It also helped channel magical power for the user.
+
+History
+The High Priestess Hekta carried the blade during the Sschindylryn invasion of Eveningstar in the Darkening, when she conspired to steal the Thread of the Weave and gift it to Lolth. She used the blade to perform countless dark and bloody rituals while she had it, and was eventually defeated at the Temple of Lolth atop the Sschindylryn Ziggurat.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Bloris Meadhoney
+
+Bloris Meadhoney was an employee of the Counting House and columnist for Baldur's Mouth in the late 15 century DR.
+
+History
+Bloris Meadhoney penned articles for the Baldur's Mouth Gazette circa . The "Money-Saving Advice" column was published during the Absolute crisis in Baldur's Gate.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Bluecap pie
+
+Bluecap pie was a variety of Duergar pie made using the flesh of bluecap fungi.
+
+Availability
+As of the late 15 century DR, expensive  servings of bluecap pie were sold by Gorstaf, a rude duergar baker from the city of Gracklstugh in the Underdark in northwest Faerûn. Despite bluecap mushrooms being quite mundane, the pies looked lumpy and misshapen, making them appear unappetizing.
+
+Appendix
+See Also
+Bluecap pie
+Myconid pie
+
+Appearances
+Video Games
+Sword Coast Legends
+
+References
+
+---
+
+## Blunt Skuncher
+
+Blunt Skuncher was an evoker mage thug who opposed the The Guild crime gang of Baldur's Gate in the late 15 century DR.
+
+Description
+Skuncher was a human man with an olive skin tone and seceding brown hair. He wore a red sorcerer's robes and was armed with a simple quarterstaff.
+
+Abilities
+Blunt Skuncher's spell repertoire was limited to simple firebolts and magic missiles.
+
+History
+In the, during the Absolute crisis, Farlin led a gang of Guild members in dealing with the Stone Lord and his men. The new kingpin secretly served the Absolute and was trying to remove the Guild's influence from across the Gate. Farlin's group faced a band of the Stone Lord's men led by the tiefling Cairos, including Blunt Skuncher. They clashed under the Wyrm's Crossing bridge in Rivington over a shipment of supplies. However, the meeting devolved into a battle and either of squads's fate remained uncertain.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blackguard's greaves
+
+Blackguard's greaves were a pair of enchanted medium armor ornate-plated boots that were once worn by a blackguard and later by a death knight they became.
+
+Powers
+The boots possessed a simple enchantment that allowed the wearer move faster and further in combat, similarly to the permanent effects of the longstrider spell, and increased their skills and proficiency in acrobatics.
+
+History
+In the, blackguard's greaves were worn by the guardian death knight called That Which Lurks, who, along with That Which Guards and That Which Watches, guarded the entrance to the chamber of the Bhaalist Murder Tribunal in the Undercellar of Baldur's Gate.
+
+Appendix
+See Also
+Blackguard's gauntlets
+Blackguard's plate
+Blackguard's sword
+Shield of the Undevout
+
+Appearances
+
+References
+
+---
+
+## Blackguard's plate
+
+Blackguard's plate was a set of ornate enchanted plate mail that was once worn by a blackguard and later by a death knight they became.
+
+Powers
+The blackguard's plate possessed a +1 defensive enchantment that not just blocked enemy strikes but also reduced all incoming damage. Its magic also gave the wearer streamer steeled mind that made it harder for the wearer fall under the effects of various mind-altering magics and abilities.
+
+History
+In the, blackguard's plate were worn by the guardian death knight called That Which Guards, who, along with That Which Lurks and That Which Watches, guarded the entrance to the chamber of the Bhaalist Murder Tribunal in the Undercellar of Baldur's Gate.
+
+Appendix
+See Also
+Blackguard's gauntlets
+Blackguard's greaves
+Blackguard's sword
+Shield of the Undevout
+
+Appearances
+
+References
+
+---
+
+## Blackguard's gauntlets
+
+Blackguard's gauntlets were a pair of enchanted medium armor ornate-plated gauntlets that were once worn by a blackguard and later by a death knight they became.
+
+Powers
+Blackguard's gauntlets allowed the wearer to cast an empowered version of the inflict wounds spell once per day. Additionally, the gauntlets increased the wearer's physical strength and magically guided their hands and weapons towards the targets, similarly to that of +1 offensive enchantments.
+
+History
+In the, blackguard's gauntlets were worn by the guardian death knight called That Which Watches, who, along with That Which Guards and That Which Lurks, guarded the entrance to the chamber of the Bhaalist Murder Tribunal in the Undercellar of Baldur's Gate.
+
+Appendix
+See Also
+Blackguard's greaves
+Blackguard's plate
+Blackguard's sword
+Shield of the Undevout
+
+Appearances
+
+References
+
+---
+
+## Blackguard's sword
+
+Blackguard's sword were am enchanted longsword that was once wielded by a blackguard and later by a death knight they became.
+
+Powers
+Blackguard's sword possessed a potent +2 enchantment that made its blade more deadly, guiding the wielder's hand towards the target, and allowing them to damage creatures that were otherwise unaffected by mundane weapons. The sword also dealt additional necrotic damage with every slash. When wielded by a paladin or a blackguard, the sword empowered their divine smite abilities, rendering the targets dazed after each successful smite attack.
+
+History
+In the, blackguard's greaves were worn by the guardian death knight called That Which Guards, who, along with That Which Lurks and That Which Watches, guarded the entrance to the chamber of the Bhaalist Murder Tribunal in the Undercellar of Baldur's Gate.
+
+Appendix
+See Also
+Blackguard's gauntlets
+Blackguard's plate
+Blackguard's sword
+Shield of the Undevout
+
+Appearances
+
+References
+
+---
+
+## Black wine
+
+Black wine was a variety of salty dark wine originating in the city of Phelzol in Semphar in the mid-to-late 14 century DR.Although "black wine" has been mentioned many times, it's often unclear when it's a generic dark-red wine or a regular wine in low illumination or even colored, and when it's intended to be a specific type of wine. Moreover, some black-hued wines are not salty and clearly very different (such as among drow), while others are salty but have separate names and details, such as utterdark. As such, this article covers only salty black wines that can't be linked to anything else. Nevertheless, it is unclear if these wines should be the same or not.
+
+Description
+The black-hued wine was strong-tasting and bitter, while it was customary to sprinkle on salt prior to every sip. As such, some thought it vile, but it had its enthusiasts.
+
+Powers
+History
+Reputation
+In Ravens Bluff, the Cult of the Raven shared a communal cup of salty black wine during their ceremonies, calling the Blood of the Raven. They believed it granted the most favored among them dream visions from the Raven whom they revered.
+
+Notable Owners
+ Ruldarr, proprietor of Ruldarr's Pipes, Locks, Tobacco, and Fine Furniture in Bargewright Inn, who had a taste for it.
+
+Appendix
+See Also
+ Utterdark
+ Ruith
+
+Notes
+
+Appearances
+
+Gallery
+External Links
+References
+
+---
+
+## Blackraven Lane
+
+Blackraven Lane was a street in the rich Manorborn district of Baldur's Gate that began at the edge of the Temples District and moved west crossing almost the entire Manorborn.
+
+Description
+Blackraven Lane began near the Chalsendace Street, from the plaza where the Vammas Estate stood, passed the home of Krammoch Arkhstaff, crossed with Hauth Lane and Wendserpent Street on the Three Spires moot, continued west past the Bormul House, and ended after reaching the Sashenstar Estate.
+
+Appendix
+See Also
+Interactive map of Baldur's Gate
+
+References
+
+---
+
+## Black willow
+
+Black willows were a sentient and mobile species of tree, akin to a treant, that could alter their forms to look like normal willow trees.
+
+Description
+The black willow tree had black leaves hanging from its long branches. It was mobile and could move from place to place in order to move to new hunting grounds. When the black willow was not mobile it usually looked like a perfectly normal willow tree, and was so efficient in its deception that even druids would mistake it for a normal tree, though treants could tell the difference immediately.
+
+Behavior
+The stomach of this evil tree was coated with sticky, nonflammable digestive sap, that would ooze up from its roots and slowly consume its victims alive inside its trunk, leaving only what gear its weak acid could not digest. These treasures would be left behind whenever the black willow moved on, and some intrepid treasure hunters would seek out places where people had disappeared hoping to retrieve coins and other metallic items left behind.
+
+Abilities
+The black willow preferred to get creatures sleepy, waiting for them to climb onto a safe-looking limb of the willow or camp near its welcoming tree trunk. When the hapless creature rested it, would open up a hole in the tree beneath or beside the victim forcing them to fall into a hollow limb and onward into the hollow trunk cavity. To increase the chance that a creature would choose to sleep on or near it, the black willow created an aura of drowsiness, making tired creatures fall into a deep natural sleep. When attacked or if desperate for food, it would attack with its lashing, whip-like branches, then attempt to lift its victims and swallow them.
+
+Ecology
+Diet
+Black willows were a mixture of autotrophic and carnivorous. While they derived some nourishment from the earth and the sun, most of their diet came from feeding on living beings. They especially favored humans, elves, gnomes.
+
+Habitats
+These trees usually inhabited regions where normal willow trees grew, but could be found anywhere, even underground lakes and abandoned ruins where they would not go amiss and people would like to rest beneath its bough. Seldom did they manage to find their ways into druid groves, only doing so when they were left improperly maintained for some time.
+
+In interior Faerûn, black willows could be found in the Vast Swamp.
+
+Relationships
+Being an evil variety of sentient plant-life, black willows were universally reviled by the Church of Rillifane Rallathil, whose priests devoted themselves to rooting out and destroying them.
+
+Rumors & Legends
+It was commonly believed that black willows were either a perversion of quickwoods or an evil offshoot of treants, having been perverted by some external force. This was a predominant belief among the clergy of Rillifane Rallathil.
+
+Appendix
+References
+
+---
+
+## Black Blade (disambiguation)
+
+Black Blade may refer to:
+
+ Belkin's Black Blade, a weapon shop in Hill's Edge in the late 14 century DR,
+ Black Blade, one of the honorific titles of the nobility in Mulmaster,
+ Black Blade, a powerful brigand who operated in the Eastern Heartlands in the mid–14 century DR,
+ Black Blade, or Acridirk, a powerful black dragon blade,
+ Black Blade and Bloody Boar, a rough-and-tumble tavern in Mulmaster,
+ Black Blades at Sunset: Ten Years a Pirate, a book penned by Vardrella "Bloodmaiden" Blawdul in 1391 DR,
+ Black blade of disaster, a powerful conjuration spell,
+ Hyldur the Black Blade, a vicious Amnian mercenary in the early-to-mid 14 century DR,
+ Iljack of the Black Blade, a brigand active in the Vast sometime after the 7 century DR,
+ Valshee of the Black Blade, a notorious Sword Coast pirate .
+
+---
+
+## Blue Blade (disambiguation)
+
+Blue Blade may refer to:
+
+ Blue Blade, one of the nobility titles in Mulmaster,
+ Blue Blade, a folk hero and a gallant brigand from Cormyr,
+ Blue Blade, or Azurazor, a blue dragon sword,
+ Blue Blade, an office of the Heralds of Faerûn, gone by the 14 century DR,
+ Men of the Blue Blade, the adventuring troupe that uncovered the Tomb of Thelarn.
+
+---
+
+## Bloodgate Keep
+
+Bloodgate Keep was a Red Wizard fortress built on top of an ancient Netherese temple to the Princes of Elemental Evil.
+
+Geograpy
+Bloodgate Keep was located in the Forlorn Hills, northeast of Daggerford.
+
+Defenses
+Bloodgate Keep was defended by the powerful Red Wizards, but with inside help it was possible to access the elemental nodes via teleportation circles.
+
+Interior
+The fortress itself consisted of an academy, and below it, a nexus of portals leading to four elemental nodes, each one containing an elemental key that kept the nodes stable.
+
+History
+The temple containing the four elemental portals were constructed by a cult dedicated to the Princes of Elemental Evil, consisting of Netherese nobles led by Lord Reynard Ambergul. Ambergul had become obsessed with the worship of Elemental Evil after he came into possession of a scroll describing the four Princes. A seductive and influential man, his new cult attracted quite a bit of interest and attention within Netherese society.
+
+When the nobles could no longer avoid unwanted attention to their endeavors, they disbanded the cult, and sealed the temple with four elemental Keys. The keys themselves where hidden away within at least three altars dedicated to each Prince within the estates of prominent members of the cult: Ambergul Estate, Floshin Manor, and Cromm's Hold.
+
+Around 1485 DR, The Red Wizard Tarul Var was planning to invade the Sword Coast via the Bloodgate, a portal that was being constructed in the portal nexus underneath the Keep.
+
+Each elemental node was a demiplane that channeled elemental power, which the Red Wizards used to reestablish the connection of an ancient elven portal network based in the House of Long Silences in Ardeep Forest. Using the combination of Evil Elemental power and blood sacrifice, the portal network could be rewired to connect Thay to the Sword Coast through the newly constructed Bloodgate.
+
+In the, Bloodgate Keep was assaulted, and the Bloodgate closed, with the help of Sir Isteval and Shalendra Floshin, among others.
+
+Notable Inhabitants
+ Tarul Var: A trusted lich servant of Szass Tam, in charge of constructing the Bloodgate.
+ Arvik Zaltos: A Red Wizard tasked with acquiring the elemental keys.
+ Mennek Ariz: A Red Wizard enchanter working as a designer of the Bloodgate Nexus.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Blackcreek Crossing
+
+Blackcreek Crossing was a small family landholding in Shadowdale during the mid-to-late 14 century DR.
+
+Geography
+The place was a few tens of miles away from Freedale, and not that much further from the town of Shadowdale.
+
+Government
+Blackcreek Crossing was largely independent.
+
+History
+As of the mid-to-late 14 century, Blackcreek Crossing was one of many small landholdings named after the family inhabiting it.
+
+Inhabitants
+The holding was named after its local family, presumably Blackcreek.
+
+Appendix
+References
+
+---
+
+## Black Tankard
+
+The Black Tankard was a tavern in Lower Port, Skullport.
+
+Structure
+The Black Tankard was a dilapidated single story structure of black stone and decaying wood. A large, fire-blackened mug, overflowing with bones—presumably from those who met grim fates within—hung ominously over the door.
+
+Interior
+Under hushed conversations and the sound of patrons sipping bitter, muddy ales, dark schemes were discussed and set in motion. Unfamiliar faces were generally unwelcome; anyone who sought a table would be wise to be prepared to fight to secure and keep their place.
+
+Services
+The beverages were strong, the odor of the patrons even stronger, and the prices reflected the poor quality of the fare—affordable, yet low-grade.
+
+Rumors & Legends
+Regulars of the Black Tankard often spoke of a shallow well in the tavern's basement, said to connect to the sewers and, eventually, to the dungeons beneath Skullport. It was rumored that the passageways were heavily guarded by both deadly traps and monstrous sentries to deter intruders.
+
+Inhabitants
+The establishment was owned by Clant "Silent" Pitchmaw, an overweight, toothless, and bald human. The tavern's three barmaids, who bore a striking resemblance to Clant, were elderly, unattractive, and known for their frequent bouts of rage.
+
+The tavern was linked to Ahmaergo, the infamous Horned Dwarf, who could be contacted indirectly through runners and his intermediaries, known as "mouths." Many believed that Ahmaergo was the true owner of the Black Tankard, with Silent Clant acting as its public face and manager.
+
+Appendix
+References
+
+---
+
+## Blood of My Sisters
+
+Blood of My Sisters was a ballad penned sometime before the early 14 century DR.
+
+Contents
+This song was one of many ballads and musical compositions in Mintiper Moonsilver's repertoire. The Company of Crazed Venturers was present at the famed bard Mintiper's performance in Neverwinter sometime in the early-to-mid 14 century DR, during which he performed several songs, including Blood of My Sisters.
+
+Appendix
+References
+
+---
+
+## Blazing sun
+
+The blazing sun was a magical crystal orb held by the Cult of the Dragon in the mid–1480s DR.
+
+Description
+The orb was carved from crystal, and emblazoned with a symbol of Amaunator.
+
+Powers
+The blazing sun protected the holder from elemental threats such as heat, cold, acids, and shocks, and greatly improved the power of light, positive energy, alignment-based spells while also improving the holder's concentration and thoughtfulness.
+
+History
+The orb was taken from the Cult of the Dragon by Harper agents, who assaulted their safehouse in the hopes of capturing the White Dragon Mask.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Blossom Brislen
+
+Blossom Brislen was a daughter of Leepak and Dharin Brislen and sister to Bunny, all inhabitants of the Lower City of Baldur's Gate in the late 15 century DR.
+
+Description
+Unlike the rest of her family, Bunny was a human with a light skin tone. She had hazel eyes and bright red hair.
+
+History
+In the, as the Cult of the Absolute menaced the city of Baldur's Gate, Dharin Brislen attempted to ship Leepak and their daughters away from the Gate. He attempted to negotiate a passage to Waterdeep with Captain Sleam, a smuggler with her own boat and crew. Sleam asked for too much money, claiming it was a life-and-death situation for her crew too. Dharin could not afford to pay for four seats, so he resorted to staying behind. It was unknown if Leepak and the girls escaped the Gate before the battle of the Upper City commenced.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Bluenose
+
+Admiral Bluenose was an infamous Dread Pirate servant of Umberlee, the Bitch Queen, who lived sometime before the late 14 century DR.
+
+History
+Admiral Bluenose served his goddess even after displeasing her. As a punishment, Umberlee sent a lightning to strike Bluenose, however, the Dread Pirate survived the ordeal. He later donned a set of enchanted Umberlant chains called Stormscale, designed in honor of the Bitch Queen's sahuagin servants. Admiral Bluenose spent time trying to make amends with his deity, eventually parting ways with the magic chainmail sometime before the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blowfish venom
+
+Blowfish venom was a highly toxic substance extracted from blowfish found inhabiting the Sea of Swords.
+
+Effects
+For it to be deadly, blowfish venom must be ingested or applied to a weapon and introduced into the bloodstream via injury. The first symptoms of the poisoning were nausea and shortness of breath, and eventually, it led to death within just several minutes.
+
+Once poisoned, one had to apply vinegar-based anti-venom and immediately seek priestly or medical aid.
+
+History
+In the, vials of blowfish venom were used by the sailors and pirates of the Nelanther Isles in the Sea of Swords.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blink ring
+
+A blink ring was an enchanted ring with certain magical powers.
+
+Description
+Rings known during the Time of Troubles were plain affairs made of brass, while those found between the Spellplague and the Second Sundering were instead of adamantine, unstably shifting between hands in a blink.
+
+Powers
+Early examples, known during the Time of Troubles, could be used constantly to cast blink, invisibility, or mirror image or act as a cloak of displacement. However, it had a cool-down period of about a minute between uses, and the displacement function became inactive for about ten minutes after using any of those powers.
+
+A particular blink ring belonged to Thanadar of Dragonrock, and it had instead the blink, dimension door, and teleport without error spells each available twice daily.
+
+Blink rings during the period between the Spellplague and the Second Sundering referred to a kind of ring that enhanced thieving skills, and could daily be used for a minor teleportation, reaching no further than  away. It was possible to repeat successive teleportations for as long as concentration lasted, though the ring did not do an initial activation more than once a day. Users who had hit their stride and were yet to wind down from an earlier encounter could even push the ring to repeat teleportations with barely any attention involved.
+
+Notable Owners
+ Ulgon, a Zhentarim mage in Waterdeep during, the Time of Troubles.
+ Thanadar of Dragonrock, a caravan guard and associate of Laeral Silverhand, by .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blooming Cord
+
+The Blooming Cord was an artifact enchanted belt that boosted the wearer's force of personality and mental prowess.
+
+Description
+The Blooming Cord was a delicate belt made of a blooming vine that exuded an emboldening aura and a gentle scent.
+
+Powers
+The belt increased the wearer's damage dealt via lucky and devastating attacks and well as granted them better awareness of their surrounding. It also increased the wearer's charisma and wisdom. The Blooming Cord was a part of a set that, when used together, boosted the magics of all items in the set: a staff of flowers, the Woven Vine, and the Blooming Cord.
+
+History
+The Blooming Cord was among many magical treasures hidden deep within the mega-dungeon of Undermountain and its Wyllowwood level.
+
+Appendix
+Appearances
+Video Games
+Neverwinter: Undermountain
+
+References
+
+---
+
+## Black Blades of the Barons
+
+Black Blades of the Barons was a stage play penned by Tarla Semmurt, Bard of Yhaunn, in the beginning of the 15 century DR.
+
+History
+Black Blades of the Barons consisted of two or more acts and featured the character named Nahlvur the Bowman. The play was first performed in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blikwik
+
+Blikwik the Beast was a creature of unknown type from the Land of the Beastly Brigands in the Whamite Isles. Together with Badmuddin the Bald, Blikwik represented the Land of the Beastly Brigands in a series of wild conflicts between various nations and pirates of the Whamite Isles at some point prior to the mass death of the population in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Black Dan
+
+Black Dan was a pirate from the nation of Klocckbarn in the Whamite Isles. Black Dan represented Klocckbarn in a series of wild conflicts between various nations and pirates of the Whamite Isles at some point prior to the mass death of the population in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Bloody Buggers
+
+The Bloody Buggers was a group of pirates from the Land of the Beastly Brigands in the Whamite Isles. The Buggers represented the Land of the Beastly Brigands in a series of wild conflicts between various nations and pirates of the Whamite Isles at some point prior to the mass death of the population in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Black ice beholder (artifact)
+
+Black ice beholder was an artifact, a unique figurine of wondrous power that captured a memory of a black ice beholder that once plagued Icewind Dale in the late 15 century DR.
+
+Powers
+
+This figurine of wondrous power was a twisted and corrupted artifact, tainted by the evil magic of the black ice. Instead of conjuring forts a creature, it manifested a memory of a black ice beholder. The image then moved forward, where its summoner was looking, and once it reached an enemy, the beholder exploded violently.
+
+When the figurine of wondrous power was wielded by someone who also possessed the cloak of black ice and the greater belt of black ice, the set boosted all of its items' offensive power.
+
+History
+The black ice beholder appeared for the first time in the, during the black ice crisis in Icewind Dale.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Black Jack
+
+Black Jack was a short-lived ruler of an unknown region in the 8 century DR.
+
+History
+He was born in the Year of the Fortified Mind, 777 DR. His reign of evil lasted for a short but unknown amount of time. The time he spent ruling was memorable because of the high death count of chickens in his empire.
+
+For unknown reasons, there was a statue in memory of him on the second level of Undermountain as of 1372 DR, which related the above information about him.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Bloodcut armor
+
+Bloodcut armor was a variety of magical armor, either hide or leather, that was available in the period between the Spellplague and the Second Sundering.
+
+Powers
+Bloodcut armor had a crimson tinge to it, which would flare in hue to a blood red when its powers activated. Whenever a wearer passed a certain threshold of injury, bloodcut would grant its wearer greater resistance.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Blade of Shadows
+
+Blades of Shadows were powerful enchanted greatswords used by the fabled Black Lotus Assassins from the far-off Jade Empire. The uniqueness of the blades came from them being cooled down many times in poison during the smithing process.
+
+Description
+These sturdy large swords were made from countless thin layers of steel folded many times. The blade was decorated with one green stone.
+
+Powers
+The weapons bore a +4 enchantment that guided the wielder's hand toward the target. Due to being cooled down repeatedly in poison during the smithing process, cuts from the blade were able to sometimes reduce the victim's strength.
+
+History
+Blades of Shadows were originally used by the Black Lotus Assassins from the Jade Empire.
+
+In the, a powerful knight belonging to the cult of Vix'thra used such a blade while patrolling Vix'thra's temple.
+
+Appendix
+See Also
+ The Shadow's Blade, a unique enchanted shortsword also known as a short sword of backstabbing.
+
+Trivia
+The history of these weapons is possibly a reference to Bioware's video game, Jade Empire. In the game, an organization calling themselves the Lotus Assassins are one of the forces opposing the player's character.
+
+Appearances
+
+References
+
+---
+
+## Blaskar Toldovar
+
+Blaskar Toldovar was an old slaver operating out of Scornubel until the mid-to-late 14 century DR.
+
+Description
+As of, Blaskar walked with a cane. He was balding, with a notably raspy voice, and had recently taken to wearing a monocle.
+
+Personality
+Though he'd grown rather paranoid and jumpy by 1369 DR, none less than Dove Falconhand counted him as a reliably gentle, giving person, despite the fact he was a slaver, because of his practice of sending the cold, the cruel, and the killers to malevolent masters and making sure the gentler victims of his trade were treated more gently. She thought him leery still, but even in that, counted him gentle. While in contact with him, probably employing some mind-reaming method, Dove also mentioned he'd grown less superficial over time, finally marrying a good woman in his old age. He was also tired of living in fear by that year, and hadn't really laughed in years.
+
+Possessions
+Blaskar lived in a manor with a tall stone-wall, its top covered in bottle-shards; the garden boasted at least one moss-girt stone statue. Despite its value, the house was quite dusty.
+
+He wielded a cane adapted to fire a mageslaying dart, and kept a row of identical canes in his study.
+
+Activities
+Blaskar Toldovar was a slaver. By 1369, he'd rather dissociated from the trade, pushed out by younger, rowdier slavers.
+
+Relationships
+He had two dogs, and employed at least that many guards. He was acquainted with Dove Falconhand, who'd grown fond of him somehow.
+
+History
+At some point, Blaskar Toldovar branded and sold Dove Falconhand, who at the time he took to be a young girl. She had since returned to check up on him a dozen times prior to 1369 DR, using disguises. He'd later confirm to Dove that he'd slain a woman he intended to marry after she'd turned out to be a drow infiltrator that had most likely killed and replaced the original. He'd also admit to twenty-three "matches", implied to be inducements to other merchants to engage in slavery.The exact nature of Blaskar's twenty-three "matches" is implied rather than stated and very ambiguous. They involve money to merchants he deemed suitable, "off with the chains" and the establishment of new partnerships. However, what is meant by "off with the chains" appears to be negative, strongly implying it does not involve freeing slaves.
+
+In the, Dove disguised herself as an old woman and entered his home by giving the right password to the door guard. Meeting with him, she found him paranoid and jumpy, but got him at ease by manacling herself and revealing her brand to him. She then inquired with him regarding drow infiltrators, casting a spell to shield them from detection and another to determine whether he was telling the truth.
+
+Blaskar offered to give up all his information regarding the drow in exchange for being spell-sent to Neverwinter, as Dove offered. Come morning, he was gone from the manor, permanently.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Black Bowl
+
+The Black Bowl was a gambling den of Scornubel in the mid-to-late 14 century DR.
+
+Interior
+The place had at least one outer room, accessible from the street.
+
+Atmosphere
+At least one night in 1369 DR, the outer room was shoulder-rubbingly-crowded.
+
+Services
+The Black Bowl was a gambling den.
+
+Defenses
+At least one bouncer was hired in .
+
+History
+The Black Bowl was a relatively new establishment as of 1369 DR. One evening, it was visited by Dove Falconhand, who scorned the establishment and gave the bouncer a sour look in the guise of a mule driver by the name of Tarthan.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blackmanacles
+
+Blackmanacles was a private club in Scornubel during the 14 century DR that was taken over by drow infiltrators by .
+
+History
+In, in the guise of a drow trader named Iylinvyx, Dove Falconhand investigated a drow infiltration of Scornubel; she proposed a trade for glowcap mushrooms at Cata's Pump, being directed there to speak to Sarltan instead. After talking to a drow impersonating the owner, who gave her name as Yamaerthe at Chasper's Trading Tower, she was directed to Daeraude at the Blackmanacles private club, who'd direct her to Sarltan. In turn, Daeraude sent her to someone else.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Black Baron
+
+The Black Baron was a tavern from Westgate in the mid-to-late 14 century DR.
+
+Location
+The tavern was outside Westgate.
+
+Services
+It was a tavern.
+
+History
+While disguised as the cloth merchant Blandras Nuin of Neverwinter, a fellow from his same cabal of conspirators related to Auvrarn Labraster in  news of their intrigues, mentioning that the tavern had burnt down. Labraster immediately cut him off with a couple quick questions regarding who survived and what was found in the ashes and cellars, strongly implying that the tavern was of particular interest to him within their cabal.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blandras Nuin
+
+Blandras Nuin was a textile merchant of Neverwinter who was sacrificed to Shar and impersonated in the .
+
+Description
+Auvrarn Labraster thought himself to be way more handsome than Blandras was.
+
+Personality
+To the Sharran priestess Meira, he was innocent and gentle.
+
+Possessions
+Of note, Blandras Nuin owned a grand home in Prendle Street.
+
+Activities
+The man was a trader in textiles.
+
+Relationships
+Blandras Nuin had six live-in servants, one of them called Alaithe.
+
+History
+The textile trader seldom traveled; when he did, it was for business that took him to Everlund and Silverymoon.
+
+In, he was sacrificed by the Sharran priestess Meira, who gave his likeness to Auvrarn Labraster, a conspirer. Auvrarn killed his servant Alaithe not long after, replacing her with two other servants.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blaeragh Ridranus
+
+Blaeragh Ridranus was a slyblade assassin for the Zhentarim in the mid-to-late 14 century DR.
+
+Description
+He was a tall, large man.
+
+Relationships
+He worked for Calivar Murpeth, and was someone that fellow slyblade Taerach Thone would avenge.
+
+History
+Blaeragh Ridranus was one of the Zhentarim operatives present at Warmfires House in the, during the attempted assassination of the scrivener Maervidal Iloster. After the scribe was poisoned, Calivar Murpeth sent him and Taerach Thone after him at the jakes. There, they came across a harlot, Talantha, whom Ridranus largely ignored, but Thone found suspicious. He hired her, and brought her upstairs with Calivar, who paralyzed her with a sip of poisoned wine. Ridranus helped Thone with the torture-interrogation there.
+
+However, she told Calivar that Ridranus had paid and threatened her to help that scribe escape. He took her at her word, and had him killed by Toarin Klustoon, over her protests. In fact, Ridranus hadn't helped the scribe. It was a fabrication from the woman, who was actually Storm Silverhand in spell-guise.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Bloodyknuckles
+
+Bloodyknuckles was a shop in the Central Trade Lanes of Skullport in the late 14 century DR.
+
+Structure
+Bloodyknuckles was a two-story building in good condition.
+
+Services
+Bloodyknuckles provided carpentry and woodworking services for a reasonable price. Its primary clientele were taverns and other drinking establishments, which frequently required repairs due to the volatile tempers and excessive drinking habits of their patrons.
+
+Inhabitants
+Bloodyknuckles was owned by Griggen Ekmiran. Circa 1367 DR, a rumor emerged in Skullport suggesting that Griggen was secretly hiring troublemakers to incite bar brawls, thereby increasing demand for his services. However, after one of the rumor's proponents was discovered with a ten-copper nail embedded in his forehead, no further accusations were made.
+
+Appendix
+References
+
+---
+
+## Blue Glaucus
+
+The Blue Glaucus was a unique submersible of unknown make, manned by the fallen aasimar Aiden and his crew of goblins in the Sea of Swords in the late 15 century DR.It is never explained in A Darkened Wish where the Blue Glaucus came from, who made it, or how it was acquired. In issue 2, page 7, of the mini-series Janolus states that he "invested" in his prior submersible, the Nudibranch, by investing the money he had won from gambling with Captain Nycto. This could be taken to imply that the Blue Glaucus was similarly purchased from a third party, possibly the same place where the Nudibranch had been acquired.
+
+Description
+
+The submersible design resembled some manner of sea animal, complete with a tail and four fin-like propulsion mechanisms, two on each side. It had a singular porthole access, but the very front of the vessel's "head" could also open up to allow for multiple passengers to enter at once. On either side of the "head" was some manner of naval artillery.The offensive capabilities of the Blue Glaucus are only ever shown off in one panel and never discussed. The information provided by the art leaves it unclear as to whether these weapons are magical in nature or simply cannons.
+
+The ship had a variety of circular glass windows throughout its interior, allowing for passengers to see out into the watery depths.
+
+History
+Some time after his adventuring party parted ways, following a squabble with the Black Blood tribe on the island of Moray that ended in their companion Rayonde becoming possessed by the deceased red dragon Skadaurak, Aiden joined up with the goblin crew of Janolus Fuscus and acquired the Blue Glaucus, becoming its new captain.
+
+After some time, his former party members—Helene, Xander, Karrin, and Kerrin—rallied the armies of the Moonshaes on Alaron against the return of Skadaurak. In the midst of a heated battle on Alaron, as all hope seemed lost for the four adventurers, the Blue Glaucus arrived on the scene along with the kenku Solivigant. It blasted the opposition, dispersing them, and opened up its head to allow for the remainder of the defending forces to evacuate. As the reunited adventurers recuperated, the submersible headed for Skadaurak Island for a final confrontation.
+
+Appendix
+Background
+The name and design of the submersible both seem to be derived from the Glaucus atlanticus, a species of sea slug whose common names include "blue glaucus", or the Glaucus genus as a whole.
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Blizzard (disambiguation)
+
+Beyond its mundane usage, the word blizzard could also refer to:
+ Blizzard, the ice-mage daughter of Maalthiir,
+ Blizzard, a male wizard from Procampur in the 14 century DR,
+ Blizzard, a mare owned by Brianna Burdun in the 14 century DR,
+ Blizzard, an ancient white dragon who plagued High Haspur in the mid-14 century DR,
+ Blizzard dragon, a species of dragon,
+ Blizzard King, better known as Cryonax,
+ Blizzard troll, a species of trolls serving Cryonax,
+ The Master of the Blizzard, the dragon named Torixileos, or
+ The Eternal Blizzard, a valley within the Ice Spires.
+
+---
+
+## Blizzard (person)
+
+Blizzard, whose birth name was same as her mother's – Monique, was the daughter of Maalthiir, the ruler of the northern city of Hillsfar in the 14 century DR. Blizzard made it her life's goal to end her father's life.
+
+Description
+Blizzard was a young human woman with a light skin tone and brown hair she wore slicked back. She preferred to wear wizardly garb and clothes dyed blue.
+
+Personality
+She was a cold and direct individual, which fit her icy reputation and name. She bore deeply-seated resentments and rarely talked about her past. One thing she inherited from Maalthiir was his dark temper.
+
+Abilities
+As her chosen name suggested, Blizzard specialized in spells that tapped into ice and cold. She sought to expand her magical skills and acquire new spellbooks after relocating to Icewind Dale.
+
+Possessions
+Blizzard wore a unique set of magely robes that were believed to originate from Ulcaster School of Wizardry. The robes granted her magical protection and empowered her spells' ability to penetrate the enemies' defenses.
+
+Relationships
+Blizzard was born into an abusive relationship between Maalthiir and Monique. Her parents were absentees. The mother was a slave to addictive substances, spending every coin of Maalthiir's allowance on chasing the high to deal with his treatment of her. Her father was a cold and cruel man, whom Blizzard learned to hate early on.
+
+During her time in the Hillsfar Arena, Blizzard befriended fellow gladiators, Garth, Kalor, and others.
+
+History
+
+Blizzard, then called Monique, was born in Hillsfar, to the city's cruel leader, sometime before the .Hillsfar takes place 1357 years after the Standing Stone monument was erected (in 1 DR), and 473 years after the Battle of the Singing Arrows, both point to 1358 DR. In 1358 DR, Monique's childhood friend, Jared Jymn, one of Hillsfar's gladiators, was accused of murdering one of the castle's bodyguards and getting away from a handful of jewels. During the bodyguard's funeral, Monique met a dwarvish adventurer named Granite who was tasked with tracking the murderer down. She asked for the adventurer's help, believing her friend to be innocent. Subsequently, when Jared was found, he claimed that he was framed by Mordak Brelliar. However, it was unknown if the claims were true or if Jared Jymn was apprehended and convicted, or slain as there was a kill-on-sight order for him.
+
+The abusive relationship with her parents led Monique to change her name to Blizzard and join a resistance group first thing after coming of age. She sought Maalthiir's downfall. The group's plot was uncovered by Maalthiir's agents, and every member of the resistance was executed, while Blizzard ended up being convicted to slavery and gladiatorial fights in the Hillsfar Arena. Sometime before the conviction in the, Blizzard met and fell in love with the pirate of the Moonsea called Illandra. However, she became entangled in mage Maganus's plot to bring the Moonsea to ruination. Illandra was mentally dominated by Eremuth Silverwind, the malaugrym who pretended to be an ally, while Blizzard was fighting for her life in the Arena. Illandra died at the hand of the same hero who aided Blizzard in escaping slavery in the Arena and defeated Orcus, who was unleashed onto the city of Zhentil Keep by Maganus.
+
+Unable to bring herself to avenge Illandra's death, Blizzard left the Moonsea behind and traveled to the secluded region of Icewind Dale. Blizzard was plagued by dreams of her lover and nightmares of Jana, the Hero of Daggerford, pummeling Illandra to death. There, she forged an unlikely friendship with Arveiaturace, the White Wyrm of the Ice Peak. The two met during one of Arveiaturace's visits to her favorite Dragon's Dip lake when the ancient dragon swooped down from the skies and, instead of gobbling Blizzard up, offered conversation, noticing her being consumed by sadness. The two females bonded over the loss of their loved ones. Soon after, Blizzard found herself reluctantly joining the Hero of Neverwinter in their quest to recover the Hero's lost memories. On their adventure, Blizzard accompanied the Hero to Termalaine and lent her magical knowledge to rescuing the famed hero Wulfgar from being turned into a slab of ice by a flesh to ice spell. When the threat to Icewind Dale was revealed to be the imprisoned demigod son of Auril, Arveiaturace eagerly joined the growing army of the encroaching cold. The dragon may have convinced Blizzard to abandon the Hero of Neverwinter in favor of the shaman Iceblood and the demigod Arctus.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Blunce Tetoco
+
+Blunce Tetoco was one of the children of Oliver Tefoco, the proprietor of the Beehive Goods and Wares general store in the Lower City of Baldur's Gate, who joined the Flaming Fists in the late 15 century DR.
+
+Relationships
+Blunce was a son of Oliver and Kroyce Tefoco, and had a number of siblings. The oldest of them was Bubbles Tefoco, who lived in the Stonyeyes district of the Gate with her family and the newborn Dorimara. another older sibling was Dariel Tefoco who served the Flaming Fist. Thegglis' brother Thegglis was a fellow caravan guard, and the youngest siblings Hemjax, Maggie, and others, still lived with Oliver and Kroyce as of the late 15 century DR.
+
+History
+In the, as the Cult of the Absolute threatened Baldur's Gate's safety, two of the Tetoco children, Blunce and Harvel, applied to join the Flaming Fist Company. According to the letter signed by Manip Seyama of the Basilisk Gate barracks, both men, Blunce and Harvel, were approved and commanded to immediately report to the Seatower of Balduran to receive gear and equipment training.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Black Giant
+
+Black Giant was a mountain in the Orcskull Mountains on the island of Moray in the Moonshae Isles.
+
+Geography
+It was the southernmost of the curved ridge of jagged peaks that defined the Orcskulls.
+
+History
+As of the late 15 century DR, although there were no longer any human settlements near the mountain, its name was known to folk from other islands in the Moonshaes.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Black dragon bolt
+
+Black dragon bolt was an arcane conjuration spell that blasted the target with corrosive acid, similar to the breath weapon of black dragons.
+
+Effects
+The spell summoned up a bolt of acid and shot it up to  away, that doused the target and inflicted great harm. The acid remained for some time, allowing it to continue burning the target long after the initial hit.
+
+Components
+The spell required verbal, somatic, and material components to cast.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blindheim
+
+Blindheim were frog-like humanoids that inhabited the Underdark, where their ability to project beams of light from their huge eyes made them a unique light source in the dark realm. Most blindheim had only animalistic intelligence and dwelled alone or in small groups, but around 10% of the population were more advanced and lived in settlements, most of which worshiped the slaadi.
+
+Fascinated by the surface, the intelligent blindheims believed their ancestors had stolen a piece of the sun and still feared its retribution. They would offer their services to surface dwellers they considered too strong to ambush, asking payment of fresh food, metal weapons, or surface trinkets in return.
+
+Description
+Blindheim were bipedal frog-like humanoids that possessed a pair of huge eyes capable of emitting blinding beams of light at will. These beams were blocked by an extra eyelid while a blindheim was resting, but could be instantly emitted when the creature opened its eyes. The beam was equivalent in strength to natural light, although if focused it could char flesh and bone. The beams ceased upon a blindheim's death, after which their eyes appeared a dull gold in color. Other features of a blindheim's head included a mouth full of needle-like teeth and fang incisors, a long tongue, and two flat nostrils. They possessed an acute sense of hearing that allowed them to identify the direction of those around them even when their eyes were shut. Their hands had four digits with hooked talons including a thumb and their webbed feet had three clawed toes.
+
+Blindheims were generally varying shades of yellow in color, with darker shades on their back and lighter shades on their underbelly. Colored variants with additional abilities also existed, with amber blindheim whose eyes were hypnotic, blue blindheim whose eye beams afflicted targets with faerie fire, gold blindheim who could emit small fireballs from their mouths, and white blindheim who could discharge sunbeams from their eyes periodically.
+
+Ecology
+Amphibious by nature, blindheim could move equally well on land or in water and thrived in damp subterranean settings, dwelling near pools, lakes, or other underground water bodies. They were capable of eating all but the most toxic types of fungi and mosses and supplementrf their omnivorous diet with other underground creatures such as jermlaine, whose numbers they were highly effective at keeping low.
+
+Society
+The majority of blindheims had an animalistic level of intelligence. They were not known to use tools and communicated among themselves through guttural croaking, although it was unknown if this was a true language. When attacking, they used their eye beams or bit their targets if at close enough range, swallowing those that were tiny enough whole.
+
+Generally solitary, they could be encountered in small groups of up to four individuals, but would sometimes gather in large groups of tens or even hundreds of individuals and then move through an area as a ravening horde. These large groups would attack and devour all in their path before suddenly quietly dispersing back to their individual territories.
+
+Around 10% of the blindheim population were part of more advanced tribes, living in crudely constructed villages of between 30 and 120 members that spoke with rudimentary, halting, croaking Undercommon and used tools. Otherwise generally similar to their less advanced cousins, the advanced blindheim groups were protected by barbed dart-wielding warriors, with leaders from one of the blindheim color variants. The largest tribes also had shamans or witch doctors and in general the advanced blindheim worshiped the slaadi.
+
+Culture
+According to blindheim tales, their ancient ancestors lived on the surface until they stole a piece of the sun and fled to the Underdark, where they consumed it in order to gain the ability to project light from their eyes. As such, blindheim feared that the sun would one day venture down into the Underdark and take revenge on them.
+
+Despite this, blindheim were fascinated by tales and objects from the surface, especially plants or other pieces of nature. Usually dwelling on the fringes of the Underdark, they would gather near routes used by merchants  and other travelers from the surface in order to try and obtain fresh food, metal weapons, or surface trinkets.
+
+Tactics
+Opportunistic ambushers, blindheim would attack those they encountered if they felt they had sufficiently superior numbers or greater strength, taking what they desired. However, if those they encountered were deemed superior in strength, the blindheim would approach cautiously and offer their services in exchange for payment of what they sought. When interacting with surface dwellers, blindheim would insist that no one inform the sun of their existence and would endlessly ask questions about the sun's actions, anger, and attitudes. Believing that the sun could not possibly have forgotten their ancestors' heroic theft and that they were infamous and feared by all on the surface, blindheim became angry and offended should any surface dweller attempt to soothe their fears about the sun's wrath.
+
+Relations
+Blindheim represented a unique source of light in the Underdark and, although they were very rarely encountered, they proved particularly troublesome to those adverse to bright light, such as goblins and drow. Despite the risk and hindrance that blindheim's eye beams posed to them, other denizens of the Underdark—drow and kuo-toain particular—would raid blindheim settlements to enslave them for use as living weapons. The sorcerer Mordenkainen always brought a holy symbol of the sun god Pelor with him when visiting the Underdark in order to impersonate a vengeful priest should he encounter any blindheims.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blood apricot
+
+A blood apricot was an uncommon magical fruit that grew from trees in the Prime Material in areas that had once been the site of bloody scenes of mass barbarism. These trees were often transplanted beyond the Material Plane to Baator, where they were cultivated by devils.
+
+Description
+These deep orange-red fruits were named in part for heavily resembling apricots not only in appearance, but in taste. However, they were said to have a richer taste than apricots, with a subtle flavor of iron. If watered with large volumes of blood, these fruits would take on a darker hue and their taste would further resemble blood.
+
+Powers
+If a blood apricot had been bled upon within 12 hours prior to its consumption, it would act to supplement the body's  natural healing processes. However, if the fruit had not absorbed any blood within 12 hours prior to being consumed, it would only provide a minor healing effect.
+
+Notable Users
+ Among the devils of Baator, those passionate about cooking were willing to pay large sums for a blood apricot sapling. Those who had blood apricot trees in their possession would often water them with the blood of tortured souls.
+
+Appendix
+References
+
+---
+
+## Blau
+
+Captain Blau was a ship captain active in the Moonshae Isles during the late 15 century DR.
+
+History
+Sometime prior to the late 1470s DR, Captain Blau claimed to have witnessed a ship be burned and sunk by fire nagas off the east coast of the isle of Moray. In his account, these nagas appeared as human-headed snakes who hunted through the wreckage for survivors and tore them apart. This was a tale he once told to Lukas, captain of the Sphinx, while drunk in Callidyrr.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Black Blood hunter
+
+Black Blood hunters were the most vile and depraved lycanthropes among the ranks of the People of the Black Blood, and who had been granted terrible power by their patron god Malar in recognition of their cruelty.
+
+Culture
+Any lycanthrope within the People of the Black Blood could conceivably be blessed as a hunter, regardless of whether they were natural born or had been afflicted with the condition as long as they could control their transformations. It was only necessary that they be powerful combatants who indulged in sadistic behavior above and beyond the mundane, bestial evil that characterized most members of the People of the Black Blood.
+
+Not all tribes of the People of the Black Blood counted these vile hunters among their ranks. While Black Blood hunters had the brute strength necessary to be leaders of their tribes, some only wished to use their terrible gifts for hunting, torture, and other evil acts.
+
+Abilities
+Black Blood hunters experienced enhancements to nearly all aspects of their lycanthropic abilities: they were hardier, could transform faster, became more dangerous in hybrid form, and their bites spread a more virulent form of lycanthropy. Injuries inflicted by a Black Blood hunter were infused with such vileness that they could only be healed with spells such as consecrate or hallow.
+
+They could also assume limited aspects of their animal forms even when in humanoid form, such as to call upon the strength, endurance, or grace of a beast. They furthermore gained an empathetic connection to wild beasts, allowing them to communicate with animals in a limited fashion through body language and vocalizations.
+
+Possessions
+While they did not specialize in the use of weapons or armor, Black Blood hunters did master the use of wild equipment and wilding clasps, magic items that normally were designed to be used by druids while in the form of an animal.
+
+Appendix
+See also
+ Black Blood cultist
+
+References
+
+---
+
+## Bloodlord's Visage
+
+Bloodlord's Visage was an enchanted skull-shaped helmet of demonic origins from the depths of the Underdark.
+
+Powers
+This skull mask was blackened and twisted by the demonic dark magics. It changed the wearer, making them crave death and allowing them to feed on the souls of enemies in battle. After an opponent died in battle, the mask consumed their soul, temporarily empowering the wearer physically.
+
+History
+In the late 14 century DR, Bloodlord's Visage found its way to the city of Neverwinter, following the destruction brought on by the Spellplague.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blacklake District Lodge
+
+The Blacklake District Lodge, or simply the Blacklake Zoo, was a small menagerie located in the Blacklake District of Nevertiner in the late 14 century DR. The Lodge was sponsored by the city's nobles and had several city officials who supported its operation.
+
+Services
+The Blacklake District Lodge was run by the hunter named Montgomery "Sureshot" Weatherson and his employee. The Weatherson family was known as great advocated of animal rights, but the same could not be said about Sureshot. The lodge was cramped, filthy, and the beasts were mistreated, at least according to the druids of Chauntea and Silvanus. Some of the beasts that were kept at the zoo were a bear, a panther, a wolf, and a lion.
+
+History
+When the Wailing Death of the  plagued the city of Neverwinter, Nyatar, a druid activist, sought a partner in crime. Nyatar was convinced that it was not only the townies who suffered in the plague but also the city's animal life. Namely, he believed that the animals suffered in cages in the Blacklake District Lodge. The druid feared that as the Wailing Death tightened its grip on Neverwitner, the animals would be slain and turned into trophies.
+
+Nyatar thought through a plan to find a willing criminal or an adventurer to break into the zoo and free the animals. He created a scented fetish that was ensorcelled with the ability to grant a ranger's or a druid's ability to commune with animals onto the fetish's owner and created a scroll of transport via plants to help them escape. If he were to find a willing adventurer, he offered a humble reward for the deed. It was unknown if Nyatar's plan came to fruition before the war between Neverwinter and Luskan further weakened the city.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Bladeback (werewolf)
+
+Bladeback was a powerful werewolf bandit who lurked in the King's Forest during the late 15 century DR.
+
+Description
+Bladeback was a large, black-furred werewolf. It had a large, jagged blade pierced through its body, emerging from its back in a gruesome display. Despite the injury, Bladeback was unbothered.
+
+History
+During the Sschindylryn invasion of Eveningstar in the mid-1480s DR, Bladeback was part of a werewolf-filled gang of bandits that prowled the King's Forest and nearby High Road, who were able to act more aggressively thanks to the war distracting Cormyrean forces. When the drow invaders destroyed an outpost in the forest the bandits took the ruins for their own base, not realizing that it was an important magical site. In response, the Wizard of War Arganon Pine and the Purple Dragons counterattacked, intent on completing a ritual that would protect the area from the forces of evil. Bladeback fought back along with Claive the Carver, but arrived too late to stop the ritual, dying in the battle.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Blackfeather
+
+Blackfeather was the alias used by a Harper agent who was active in the cities of Eshpurta of Amn, and Darromar of Tethyr in the late 15 century DR.
+
+History
+In the late 1480s DR, Blackfeather reported on an adventuring minstrel only known as Fizben the Magnificent. According to Blackfeather, Fizben frequented "singing clubs" in Eshpurta and Darromar – establishments that offered traveling minstrels and bards overnight lodgings, watered down house wine, and scant meals, in exchange for performing five or more songs for the guests.
+
+Appendix
+References
+
+---
+
+## Blooded Wood
+
+The Blooded Wood was a section of the King's Forest in Cormyr.
+
+Geography
+
+The Wood was located in the northwestern King's Forest, not too far from the High Road and Tyrluk. The woodlands were split by a trail that led to Granwell Keep, dotted with homes and hamlets. The low-lying center of the woods was a sodden mire, from which rose a small island that supported the Keep.The exact location of the wood is vague, but it is either in the northwestern extent of the King's Forest, or very close by it.
+
+Flora & Fauna
+The dense woods were home to bears, wolves, and brush creeper spiders that included the prodigious Greenstalker. The swamps were home to elemental mudmen, among which was the great Miremere.
+
+History
+
+Following the Shadovar invasion of Wheloon and during the Sschindylryn invasion of Eveningstar, Oriphaun Huntsilver took the captured Abyssal Planus Mechanus Nether Scroll and scattered its pieces along the High Road in an attempt to delay the agents of Thultanthar and give the Harpers time to follow up. The Shadovar hired mercenaries to secure the area and attacked Granwell Keep by surprise, slaughtering the garrison. They then used the keep as their base of operations while they searched the area for more Scroll fragments along the High Road.
+
+The mission culminated in them catching and killing the Harper agent Girmond Dyle while spying in the woods, allowing the Shadovar to claim all the pieces and reassemble the Nether Scroll at the keep. The Harpers then assaulted the keep in force, culminating in a battle that let Rina Belostos and Elminster secure the dangerous artifact.
+
+Appendix
+Notes
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Bloody Buccaneers
+
+The Bloody Buccaneers were a small pirate fleet operating in the Nelanther Isles, Sea of Swords, and the Shining Sea of west Faerûn in the late 14 century DR. They were a subsidiary of the Rundeen.
+
+Organization
+They comprised seventy corsairs, all sponsored by the Rundeen, and were captained by Jhamil al Tassand and his elder brother, who was succeeded by his first mate, Jafar.
+
+Activities
+Although they worked hard to make good the "bloody" part of their name, they struggled to kill enough people to get a reputation, as many ships they attacked and raided managed to escape. Nevertheless, they were relatively successful in their piracy and served the Rundeen's ends.
+
+They targeted non-Rundeen-affiliated ships transporting trade goods south into the Shining Sea. What cargoes they took were given to the Rundeen in return for rewards and the goods were then sold on by Rundeen businesses. By preying on shipping like this, they helped make transporting goods south harder for rival businesses and easier for the Rundeen, granting them their cut of the majority of profits around the Shining Sea.
+
+Base of Operations
+The Bloody Buccaneers often hunted around the western horn of Calimshan and in the vicinity of the Singing Rocks, where the Sea of Swords met the Shining Sea.
+
+Possessions
+They commanded a pair of cutters called Umberlee's Wake and the Water Weird, captained by Jhamil and Jafar, respectively.
+
+History
+Since about 1366 DR, the Bloody Buccaneers had successfully attacked and raided over eight ships.
+
+Then, in the, ships owned by the Bladesmile and Bormul merchant houses of Amn fought back against a raid, even killing the captain of the Water Weird. His death left his brother Jhamil disturbed and angry and he and Jafar, former first mate and now captain of the Weird, swore to have their revenge on Bladesmile and Bormul.
+
+Appendix
+See Also
+ Scimitar of Fire
+ Sea Reavers
+
+References
+
+---
+
+## Blue star quartz
+
+Blue star quartz may have been a local mineral from the mountains near Stag Falls, or it may have been star rose quartz labeled mistakenly.All the other references to local mining in the module are to star rose quartz, with blue star quartz being referred to nowhere else anywhere. This means it may have been an editing error.
+
+Description
+If it existed, then presumably it was a variety of blue quartz presenting asterism.Note that no such mineral exists in real life, thus adding more evidence for the conclusion that the name may have been an editing error, with star rose quartz being the actual mineral.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Blinding beacon
+
+Blinding beacon was an Evermeet warlock spell that allowed the caster to make blinding light erupt around one foe, searing them in wild energy.
+
+Effects
+The damage this arcane spell inflicted, and whether it succeeded at all, was bound to the strength of character of the casting warlock.
+
+Opponents that did not successfully avoid the spell received radiant damage and were blinded for a short while. While blinded, they also shined, giving off bright light in a small radius. This spell had a range of .
+
+Appendix
+References
+
+---
+
+## Black Cave
+
+The Black Cave was a cave in the Land of the Beastly Brigands in the Whamite Isles. It was a key defense of the Land of the Beastly Brigands in a series of wild conflicts between various nations and pirates of the Whamite Isles at some point prior to the mass death of the population in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blossom Snobeedle
+
+Blossom Snobeedle was a halfling druid and the matron of the wealthy Snobeedle family of Waterdeep in the late 15 century DR. They oversaw the Snobeedle Orchard and Meadery in Undercliff just outside the walls of Waterdeep.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Bloodspiller
+
+Bloodspiller and its more powerful variant, exalted Bloodspiller, were a variety of artifact created to be used by barbarian adventurers in the Chultan city of Port Nyanzaru in the late 15 century DR.
+
+Description
+These Bloodspillers were testaments of their owners' strength and the skills of the master weaponcrafters of Chult. Those heroes who survived the deadly dangers of the jungles were honored with these greatswords. These weapons could be created to be used with Bloodcatcher that were often attached to Bloodspillers.
+
+Powers
+A Bloodspiller could be enchanted to house various additional magics for each owner, in addition to boosting the owner's combat damage output and healing provided to their allies. When a Bloodspiller was wielded with a Bloodcatcher, both items boosted eachother's magical powers, increasing the wielder's damage and healing capabilities greatly, and, with each enemy life taken, the magical powers of both items replenished.
+
+History
+Bloodspillers were created in the late 15 century DR, and their design suggested the items' origins to be tied to the ancient Lost City of Omu.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Bloodcatcher
+
+Bloodcatchers and its more powerful variant, exalted Bloodcatchers, were a variety of artifact created to be used by barbarian adventurers in the Chultan city of Port Nyanzaru in the late 15 century DR.
+
+Description
+These Bloodcatchers were testaments of their owners' strength and the skills of the master weaponcrafters of Chult. Those heroes who survived the deadly dangers of the jungles were honored with these enchanted attachments to the greatswords called Bloodspillers.
+
+Powers
+A Bloodcatcher could be enchanted to hold various additional magics for each owner, in addition to boosting the damage inflicted by the owner in combat and the healing provided to their allies. When a Bloodspiller was wielded with a Bloodcatcher, both items boosted each other's magical powers, increasing the wielder's damage and healing capabilities greatly, and, with each enemy life taken, the magical powers of both items replenished.
+
+History
+Bloodcatchers were created in the late 15 century DR, and their design suggested the items' origins to be tied to the ancient Lost City of Omu.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Blastpatch
+
+Blastpatch was a volatile alchemical explosive used in the creation of traps.
+
+Description
+Blastpatch comprised a large collection of small, granular crystals that exploded when broken, such as by being stepped on.
+
+Creation
+Production of blastpatch was relatively straightforward, although required some knowledge about either arcane magic or trapmaking. Instructions could be found in books of collected alchemical formulas.
+
+Powers
+There were three distinct types of blastpatch that could be crafted, and they differed based on the type of explosion they produced:
+Firepatch These crystals exploded in a fiery blast that immobilized anyone caught in the burst.
+Icepatch These crystals produced an immobilizing explosion of cold.
+Shockpatch These crystals unleashed lightning that immobilized and left vulnerable anyone caught in the blast.
+
+History
+An explosive formula similar to blastpatch was used in mining operations in the Moonshae Isles as of the late 15 century DR. This was used in the mines of Langmuir in southern Moray, where a clerk named Jinkerton conspired to provide the Black Blood tribe with the formula to allow them to bomb the village and its lighthouse.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Bloodeye
+
+Bloodeye was a werewolf and leader among the lycanthropes of the Black Blood tribe on the island of Moray in the Moonshae Isles during the late 15 century DR.
+
+Personality
+He was ambitious, aggressive, viscous, and moved quickly to pursue his goals. In combat, he fought with great savagery and would prioritize attacking lightly-armored opponents. He was known to take prisoners and inflict them with moon frenzy.
+
+Abilities
+Bloodeye could freely alter his form between that of a human and that of a gray wolf. His bite could transmit the moon frenzy disease, although he himself was immune to its effects.
+
+Possessions
+He dressed only in shredded pants, but was known to carry treasure with him.
+
+History
+In the,The events of Darkness Falls over Moray are stated to take place one year after the events of Black Blood, which is presumed to take place in 1479 DR. Bloodeye began terrorizing the village of Langmuir, and over the course of a few months, he became increasingly bold in his strikes against their mining caravans. Unknown to the leaders of Langmuir, he was being fed information by a clerk named Jinkerton, who helped him to seize large amounts of alchemical explosives. Bloodeye intended to use these explosives first to destroy the lighthouse critical for Langmuir's supply lines, and then to breach the village's fortified walls.
+
+Putting his plan into action, Bloodeye seized the lighthouse and lured members of Langmuir's militia into a trap where he infected them with moon frenzy, rendering them little more than mindless minions. After three days, he was finally ready to detonate the lighthouse at the same time that his lycanthrope followers (mostly wereboars and wererats) had amassed to attack Langmuir.
+
+Appendix
+Appearances
+
+Notes
+
+References
+
+---
+
+## Black Knight
+
+The Black Knight was a magical chess piece that could be used to summon a fighter to support its owner.
+
+Description
+This chess piece was a black knight, crafted from ebony.
+
+Powers
+The Black Knight was a one-time-use item. Upon activation, the chess piece disappeared, summoning the Black Knight. This warrior fought on behalf of the person who invoked the chess piece's effect. The range of the summoning was 20 feet (6.10 meters). The creature remained for 200 seconds, after which it disappeared.
+
+History
+This was one of the many lost pieces from the fabled chess sets of Niri Alud. He created a wide variety of chess sets of different colors that would summon constructed, golem-like automatons to aid him in battle.
+
+This piece was among those lost when Niri was attacked by desert raiders in Calimshan.
+
+In the, this piece was present in the Temple of the Forgotten God on the Spine of the World.
+
+Appendix
+See Also
+ Magical Chessmen of Ultham-Urre
+
+Appearances
+
+References
+
+---
+
+## Black Widow Nation
+
+The Black Widow Nation was an interstellar confederation of drow in Realmspace in the 14th century DR.
+
+Organization
+The drow of Wildspace, or "void elves" as they preferred to be known, traditionally organized themselves into  independent confederations called "nations", based around a single matriarchal house. In the case of the Black Widow Nation, they had originated from the city of Rilauven in Toril's Underdark and were led by Matriarch Aunrae Dalael.It is not exactly certain if the origins of the Black Widow Nation lay in the city of Rilauven. The text states that Tanthalyn Rrostarr's "homeland" was Rilauven, but otherwise only refers to Realmspace when speaking of the Black Widow Nation's origins as a whole and "the Underdark" when discussing the origins of its Lolthite relics.
+
+Tactics
+The drow kept their operations in Realmspace on the down low, acting clandestinely.
+
+Possessions
+The Black Widow Nation was composed of a small fleet of elven spelljammers that had been either salvaged or captured through privacy, namely man-o-wars and an armada. The latter served as their flagship and was manned by the nation's matriarch herself. In consideration of the drow sensitivity to sunlight, some of their spelljammers were modified to be windowless and both their topdecks and weapon emplacements were covered with opaque crystal domes, with a small slit so that weapons could have free vertical range. They also possessed damselflys, which were designed by the arcane with drow needs in mind.
+
+A great deal of their equipment were provided courtesy of the ever mercantile arcane. These included helmets of light-seeing, whose visors were enchanted by a variant of the glassteel spell, which completely negated the deleterious effects of sunlight. The crews outfitted with such helmets completely forwent the use of opaque crystal domes. The arcane also supplied the drow with darkboxes, magical storage containers that kept drow enchanted equipment–like drow chain mail, piwafwi, and drow sleep poison–from becoming disenchanted upon exposure to sunlight. In case of tampering by non-drow, they would inscribe a way-marker rune upon them.
+
+In lieu of darkboxes, the drow otherwise carried unholy Lolthite relics that they had brought to Wildspace from the Underdark. These emitted faerzress and thus rejuvenated their magic items. These idols varied in their material makeup, with some being made of adamantite and others black granite.
+
+Relationships
+Like other space drow nations, the Black Widow Nation was aligned against the forces of the Elven Imperial Navy and considered its destruction one of their ultimate goals.
+
+History
+For a time the Black Widow Nation had an ongoing deal for smokepowder with the pirate smuggler Tomigan Rex. As a favor for his services, the Matriarch assigned one of her lesser priestesses, Nedylene Telenna, to serve on his squid ship the Spectral Hand as helmsman. Unbeknownst to Tomigan, Nedylene's true purpose was to observe and relay back where Tomigan was acquiring his smokepowder from so that the drow could cut out the middleman.
+
+The Black Widow Nation later set their sights upon Pirtelspace and sent out a large crew commanded by Tanthalyn Rrostarr in the Sunless Scather on a spying mission. They were to scout the system's defenses of the and prepare a new stronghold for the Matriarch. Once these tasks were complete, Aunrae would arrive with the remainder of the fleet and expand the Black Widow Nation's operations against the Elven Imperial Navy. After some initial scouting in the asteroid belt Guinmir's Band, Tanthalyn stumbled upon a ruined stronghold. Shoring up its defenses with walls of stone, he dubbed the stronghold Oloth Kulggen and left part of his crew to explore it more thoroughly whilst he left spy upon the defenses of the spaceport Skyport.
+
+Using a hat of disguise, Tanthalyn posed as an lumber merchant named "Alton", claiming to be in town to resupply his ship. While in Skyport he seduced a traveling reigar artist named Cosette, who could see through his disguise with her glasses of true seeing. He departed after three days, having bought supplies typical of an elven man-o-war and a small herd of a dozen rothé, but also store a valuable platinum necklace from her.
+
+After four days of studying the necklace, Tanthalyn determined it to be a powerful talisman of the spheres. Realizing this powerful item could accelerate the timescale of the Black Widow Nation's plans by a whole ten weeks, rapidly transporting the drow fleet from Realmspace to Pirtelspace, he set out to the edge of the crystal sphere with his crew to open up a portal, a process that would take a few days. It was around this point that Cosette realized that she had been robbed and quickly set out to hire a group of adventurers to go after Tanthalyn, using an adamantite ring the drow had left behind and a limited wish to track his whereabouts.
+
+Once the portal grew large enough, Tanthalyn sent a flitter through to determine its safety. Within a few hours a scout returned and confirmed the validity of the portal, citing the distinctive rune patterns that marked the crystal sphere of Realmspace. At that point, Tanthalyn had only but to wait two or three days for the portal to grow large enough for him to take the Sunless Scather through. However, by this point Cosette's hired helpers had made their way to his location.
+
+Following their plans being foiled and the potential death of Tanthalyn, sources were uncertain as to whether or not the Black Widow Nation kept pursuing the Pirtel system or began investigating other crystal spheres for potential expansion.
+
+Members
+ Aunrae Dalael, Matriarch of the Black Widow Nation.
+ Chessintra Luen, a Lolthite priestess who was sent with Tanthalyn on his mission into the Pirtel system to keep watch on the adventurous captain's antics.
+ Darkeyes Dalael-Afinstre, a half-drow daughter of Aunrae.
+ Drisinil Dalael, a young daughter of Aunrae and a relatively inexperienced priestess who accompanied Tanthalyn on his mission into the Pirtel system.
+ Nedylene Telenna, an adventurous priestess.
+ Prrind Rrostarr, brother of Tanthalyn.
+ Szordrin, a warrior and Lolthite priestess who was sent with Tanthalyn on his mission into the Pirtel system to keep watch on him.
+ Tanthalyn Rrostarr, a swashbuckling drow captain that longed for freedom and adventure.
 
 Appendix
 Notes

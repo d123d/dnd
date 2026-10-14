@@ -99,3 +99,180 @@ Connections
 
 ---
 
+## Ubriien Orlyn
+
+Ubriien Orlyn was one of the most powerful magelords of the kingdom of Athalantar.
+
+History
+Ubriien was the first leader of the magelords, before Neldryn Hawklyn, and the first Royal Mage of Belaur Aumar, as which he dominated the nation. He loved to travel the country in disguise to spy on people.
+
+However, in 222 DR, disguised as an elf, he tried to cast a spell on an alert dwarven axelord at a feast, but the dwarf killed him.
+
+Appendix
+References
+
+---
+
+## Ubar
+
+Ubar, also called the Lost City of Ubar, was a unique city found in Zakhara, the Land of Fate, in 1367 DR.
+
+Ubar was the given name of the city in Jannti, the common genie tongue, but the desert giants referred to the location as Dayya in their own language.
+
+Geography
+This mystical city was said to rise from the sands of the Genies' Anvil of the High Desert whenever the genies commanded. Other travelers said it was a permanent fixture of the desert.
+
+Description
+Ubar was ringed with strong stone walls and iron gates. Eight octagonal-shaped towers provided splendid views of the surrounding terrain. Ubar's central market was built around a deep well. All of the buildings in Ubar were large enough to accommodate giants, prompting the logical conclusion that it was originally constructed by desert giants.
+
+Because of the Amir's poor health, and lack of leadership to direct routine maintenance, many of the buildings in Ubar were in need of repair.
+
+The Amir's palace, the Red Tower of Dayya, was located in the center of the city.
+
+Mosques to Hajama, Najm, and Haku could be found within Ubar.
+
+Activities
+Perhaps in an attempt to win back a location that was originally theirs, desert giants raided Ubar frequently.
+
+Inhabitants
+Ubar was populated by an astonishing 200,000 jann, though many of them only visited periodically while wandering the desert. Any janni within the city was not required to answer the call of a sha'ir.
+
+Defenses
+Ubar fielded 2,000 soldiers to guard the city. Many of these soldiers were camel lancers and archers.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Ubergast
+
+Ubergast was a sage living in Amn in the mid–14 century DR.
+
+Some time before 1356 DR, Ubergast observed that the informal handwriting in the untitled wizard's workbook known traditionally as Briel's Book of Shadows matched that in a letter from Briel stating his plan to found a school of wizardry in Baldur's Gate, preserved in the city's archive. This supported the supposed authorship of the book.
+
+Appendix
+References
+
+---
+
+## Ubbalux
+
+Ubbalux was an imprisoned barlgura in Avernus, first layer of the Nine Hells, in the late 15 century DR.
+
+History
+Once, archdevil Bel defeated Ubbalux and imprisoned him inside a circle of obelisks, telling him that the secret of escaping was inside the runes inscribed into the obelisks. From then on, Ubbalux studied the runes but with no fortune.
+
+In the, Ubbalux was posing as a human wizard, one whom he had previously devoured, hoping to manipulate the next visitors the circle in order to gain their help.
+
+Appendix
+
+Notes
+
+References
+
+---
+
+## Ubar khel Muhif
+
+Ubar khel Muhif was the Caliph of the Free City of Umara in north Zakhara in .
+
+Activities
+Ubar was the Khan of the Astok hill tribe of barbarians who inhabited the Furrowed Mountains near Umara. After becoming enlightened, Ubar offered his services to Umara's former Caliph. He staged a rebellion within the palace during a battle between Umara and Muluk, seizing the throne for himself and marrying Princess Maran ber Ubar to solidify his claim. Order was reestablished in Umara before troops from Qudra arrived, so Ubar was accepted as the new Caliph of Umara in order to prevent a prolonged siege of the city.
+
+Appendix
+Notes
+
+Refs
+
+---
+
+## Ubtao's Thorn
+
+Ubtao's Thorn was a legendary enchanted druidic staff from the jungles of Chult created sometime before the late 15 century DR.
+
+Powers
+Magics imbued into Ubtao's Thorn were inspired by belief of some members of the Church of Ubtao in the late 15 century DR, that their deity did not leave Chult. Instead, they believed that Ubtao was poisoned via a thorn plunged into his side by Dendar the Night Serpent, driving the Father of Chult mad. Ubtao's Thorn possessed a powerful +5 enchantment and it improved abilities of the weeding druid as well as the druid's allies'.
+
+Notable Owners
+Qawasha: a druid of the Emerald Enclave from Chult in the late 15 century DR.
+
+Appendix
+Appearances
+Video Games
+Tales from Candlekeep: Tomb of Annihilation
+
+References
+
+---
+
+## Ubtao's Jaws
+
+Ubtao's Jaws was a large, south-facing gate in the exterior walls of Port Nyanzaru in Chult. It connected the interior Harbor Ward and Market Ward to the exterior slum district of Malar's Throat.
+
+Location
+The gate sat in the walls of south-central Port Nyanzaru at the mouth of the ravine that formed Malar's Throat. This placement meant that during rains, water runoff down the ravine would pass through the gate to empty into the harbor and the Bay of Chult beyond.
+
+Defenses
+Whenever Malar's Throat came under attack from jungle monsters or undead, mercenaries on the payroll of the merchant princes would keep them out of the city. However, they would not go out of the gate to defend Malar's Throat.
+
+History
+As of the late 15 century DR, the waters that flowed through Ubtao's Jaws during heavy rains were known to carry along small unattended items, dead animals, and the occasional person.
+
+The area just outside the gate was known to be a place where beggars would cluster.
+
+Appendix
+See Also
+ Tiryki Gate
+Appearances
+
+References
+
+---
+
+## Ubtao's Favorite
+
+Ubtao's Favorite was a young triceratops who competed in the dinosaur races of Port Nyanzaru in Chult during the late 15 century DR.
+
+History
+As of the start of the death curse, Ubtao's Favorite was on a winning streak, and bookies were giving it 5:1 odds of winning. Ubtao's Favorite was present at the inaugural Na N'buso's Haka, and may have competed in the final leg of that event in which racers rode triceratopses.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Ubiquitous vision
+
+Ubiquitous vision was a psionic power of the clairsentience discipline that granted manifesters a 360-degree sphere of vision.
+
+Effects
+This power granted its user sight from all angles of their head. This had the benefit of making a psionicist far more observant of their surroundings, less likely to be flanked or attacked from behind, though it also made them more vulnerable to gaze-based attacks.
+
+Ubiquitous vision could only be manifested upon the psionics user themselves and had a basic duration of ten minutes, extended further depending upon how skilled the user was. The manifester of the power could also will the power into prematurely ending.
+
+Displays
+This manifested a standard visual display.
+
+Significance
+A powerful psionics user could render the effects of ubiquitous vision permanent through use of the power incarnate.
+
+This power was required for the creation of the seeing armor quality and eyes of expanded vision.
+
+Users
+This power was knowable by battleminds, lurks, psions, psychic warriors, and wilders.
+
+Known/Notable Users
+ Raulothim, a great wyrm emerald dragon.
+
+Appendix
+References
+
+---
+

@@ -259,6 +259,83 @@ Connections
 
 ---
 
+## Arcane devotee
+
+Arcane devotees were particularly faithful arcane spellcasters who dedicated themselves to their patron deity. Usually they expand their studies into divine magic and acquire lesser divine-related abilities. Arcane devotees often worked for the respective church of their deity and are among their most respected members. Devotees also supported the church's armies during times of conflict.
+
+The churches of Azuth and Mystra attracted the highest number of arcane devotees, though Lliira and Bane had a few devotees of their own.
+
+Culture
+Although many deities appealed specifically to certain niche groups, most of the greater gods pulled followers from all walks of life. Arcane spellcasters in particular held few solid allegiances to deities other than Mystra, and many of those who studied and used arcane magic could be found worshiping just about any of the major deities.
+
+Although many of these individuals were not particularly devout in their worship and allied themselves with their church primarily for reasons of caution or convenience, others could be truly pious individuals who are willing to give themselves over fully to their patron god's will. Some of these pious arcanists went on to become arcane devotees.
+
+Arcane devotees were useful assets to any church as they complemented the divine power of clerics or paladins with the arcane power of mages. As such, many arcane devotees became important and respected members amongst their gods' followers. They often their arcane power to both aid the church in times of war or create powerful magic items. In combat, arcane devotees often fought near the front line in order to wreak havoc on enemy forces or destroy the divine spellcasters of opposing gods.
+
+Abilities
+After beginning the life of an arcane devotee, these spellcasters continued to develop along the same path of their previous training in the Art.  Among the most basic of the abilities available to arcane devotees was the metamagic power that allowed them to extend the area of effects of their spells twofold. This extended effect was roughly proportional to the strength of their personality and willpower.
+
+However, as part of their part-arcane, part-divine training, arcane devotees obtained a number of unusual powers and abilities. One of these was the sacred defense, which offered arcane devotees protection from the prayers of others or the supernatural abilities of outsiders.
+
+Similarly, the most experienced arcane devotees gain the ability to, once per day, surround themselves in an aura of divine power that partially protected them against hostile magic.
+
+Another ability arcane devotees possess is the ability to focus their god's moral conviction into divine power, allowing them to cast prayers that draw upon the forces of good, law, evil, or chaos for their strength.
+
+Among the most powerful of the arcane devotee's abilities was to bolster the effects of the spells cast by their patron deity's other faithful worshipers.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Arnglar
+
+Arnglar was a sleepy hill village in the west of the Border Kingdoms, situated not far from where the River Rith and Tumblestone River originated. It was a windswept site suited to pastoral grazing, on a location that was once the elven realm of Glorfindral.
+
+Environment
+Unlike many other parts of the Border Kingdoms (see the Garden Coast), Arnglar's high elevation exposed it to the elements, making it difficult to grow crops that were not protected. Arnglar was home to shepherds who kept flocks on the hillsides. The burial mounds of the elven kings of Glorfindral formed a ring around the village. The water supply was crystal-clear and came from a deep well which had never run dry.
+
+Government, Trade and Religion
+Arnglar was ruled by the Circle of Elders, a council of nine of the village's most influential people, including the village blacksmith Harneth Breldren. The village was generally unfriendly to visitors but would trade wool, tallow candles or mutton sausages with passing merchants. It favored lone or small groups of merchants as opposed to large, well-armed bands.
+
+Arnglarrens worshiped Talos in order to appease the god against hurling lightning at the exposed village.
+
+Badge
+The badge of Arnglar was composed of two circles linked by two diagonal, zigzag lines (the sun or moon over the well, joined by two lightning bolts). It was scratched on boundary stones at the borders of the independent settlement, and a beacon stone in the center of its marketplace.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Arkanis Gath
+
+Arkanis Gath was an agent of the Shadow Thieves that lived in Athkatla during the mid–14 century DR.
+
+Possessions
+He carried with him a Rifthome axe, a variety of dwarven throwing axe that returned to its wielder's hand.
+
+History
+Arkanis was a member of the famous Amnian thieves' guild when they got into conflict with a rival guild led by the vampire Bodhi in the .
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate II: Shadows of Amn
+External Links
+
+References
+
+---
+
 ## Aru
 
 Aru was a town on the island of Tsukishima and part of the nation of Wa in Kara-Tur. Circa 1357 DR, it was a center of worship of Bishamon and pilgrims from all over Wa traveled here. Aru was capital of the Aru Province.
@@ -349,6 +426,689 @@ Notes
 
 Appearances
  Ninja Wars
+
+References
+
+---
+
+## Aru (river)
+
+Aru was a small river on the island of Tsukishima in Wa. It supplied the area with fresh water.
+
+In Wa Year 1608 (1190 DR), the shogun Eiko gave its name to the town of Aru when it was officially recognized by the government of Wa. Furthermore, he decreed the town the capital of the new Aru Province (cleaved off the existing Jasuga Province).
+
+Appendix
+References
+
+---
+
+## Armed forces of Waterdeep
+
+The armed forces of Waterdeep were several organizations that kept the peace throughout the city. They were divided into four branches, along with a specialty group of elite adventurers.
+
+ Griffon Cavalry
+
+Elite airbourne division of the City Guard, led by Lord Moedt.
+ City Guard
+
+Waterdeep's army, patrolling the city and the surrounding countryside.
+ City Navy
+
+The force assigned to protect the seas around the city and the busy merchant shipping lanes.
+ City Watch
+
+The police force of the city, with powers of arrest over its citizens.
+ Gray Hands
+
+An elite force of adventurers answering directly to the Lords of Waterdeep, for those who need a more powerful option.
+
+Appendix
+
+References
+
+---
+
+## Arrow of biting
+
+An arrow of biting was a projectile that carried poison and was manufactured individually instead of in batches. Bolt and javelin variations were also available.
+
+Appendix
+
+Appearances
+Video games
+ Baldur's Gate
+ Baldur's Gate II: Shadows of Amn''
+References
+
+FR:Flèche mordante
+
+---
+
+## Arcane archer
+
+Arcane archers were students of an archery technique developed by elves that imbued magic into their arrows, granting them a variety of effects and almost supernatural accuracy.
+
+Culture
+In elven nations, arcane archers were elite warriors usually posted to defend the borders of their territories or lead the elven armies into combat.
+
+Abilities
+Arcane archers were capable of enhancing their arrows, turning mundane arrows into magical projectiles. The strength of this enhancement increased as the archer became more experienced.
+
+Over time, some arcane archers learned to place an area spell on an arrow, which would detonate centered on where the arrow landed, thus increasing the range of certain spells to as far as the archer could cast an arrow.
+
+Other arcane archer abilities drew magical properties from the different schools of magic, granting them the ability to bend around corners to seek their targets by using divination magic or causing them to explode upon hitting their targets by using evocation magic, among other effects.
+
+Some experienced arcane archers could loose an arrow at any target known to them in their range. This arrow would then fly straight at the target, traveling through any nonmagical barrier or wall. If correctly aimed, it would strike the target directly, even passing through its armor.
+
+Master arcane archers could create a powerful arrow known as an arrow of death, which could strike a foe dead. It took an entire day to create such an arrow, and it could only be used by the archer who created it. The magic of an arrow of death lasted up to a year, and only one such arrow could be produced at a time.
+
+Appendix
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Archmage
+
+Archmages were among the most powerful arcane spellcasters found throughout all of Faerûn. These practitioners of the Art were experts at manipulating and altering their spells, often in strange ways.
+
+Culture
+Many cities across Faerûn had a single archmage who dedicated themselves to serve that settlement and its people. Some notable cities included Lyrabar in Impiltur, and the great western metropolis of Waterdeep.
+
+The term "archmage" was often used to refer to  spellcasters who took on leadership roles among similarly-inclined practitioners of The Art. In the drow city of Menzoberranzan, the head of the arcane academy known as Sorcere was granted the title, Archmage of Menzoberranzan. Similarly, the leader of the Arcane Brotherhood was referred to as the Archmage Arcane.
+
+Abilities
+Archmages continued developing their skills as spellcasters in the same manner as they had during their previous experiences in the Art. While they gained knowledge and lore about "high arcana" (that typical wizards and sorcerers had no knowledge of), they were forced to focus less on the number of spells they could prepare each day.
+
+By forgoing one of their most powerful spells, archmages could tap into a power known as arcane fire. This arcane fire was essentially a bolt of raw magical energy that was drawn from the power they typically reserved for normal spellcasting.
+
+They learned techniques that allowed them to reach across long distances, using spells that normally took effect upon touch and utilizing them from as far away as .
+
+As archmages were considered master spellcasters, it followed that they were capable of mastering particular elements of spellcasting. Rather than performing typical counterspelling, archmages could turn spells back upon their casters. They mastered ways to alter their spells that drew upon the elements, particularly those that were acidic, cold, fiery, electric, or sonic in nature. Additionally, they perfected the practice of "spell shaping", and could readily manipulate the area over which a spell took effect.
+
+Plainly put, the spells cast by archmages were capable of a level of power unheard of by typical spellcasters. Overall, they functioned more intensely than lesser experienced wizards and sorcerers. By forgoing one of the spells they would normally prepare, they could cast a spell twice in a day or more, without having to normally inscribing it within their spellbook.
+
+Members
+Many sun elves who wished to continue their arcane studies often chose the path of the archmage, as did many of the human Red Wizards.
+
+Notable Archmages
+ Elminster Aumar, the famous Sage of Shadowdale.
+ Gromph Baenre, the archmage of Menzoberranzan.
+ Ioulaum, the Netherese arcanist who established Xinlenal,  the first enclave of ancient Netheril.
+ Jon Irenicus, "the Shattered One", an elven exile who attempted to steal divinity prior to the Bhaalspawn crisis.
+ Manshoon, founder of the Zhentarim and progenitor of the numerous "Manshoon clones".
+ Mordenkainen, the powerful planewalker and spellcrafter who originated from the planet of Oerth.
+ Nezram the World-Walker, another exceptionally powerful planewalker who hailed from the eastern realm of Mulhorand.
+ Raumark, this arcanist of Netheril who escaped Karsus's Folly and led his people to the land that came to be known as Halruaa.
+ The Simbul, the fearsome and enigmatic ruler of Aglarond who was born as one of the Seven Sisters.
+ Tulrun of the Tent, the Uthgardt archmage and spellcrafter of the reclusive Tulrun's Tent in the Cold Wood, Luruar.
+
+Appendix
+
+Appearances
+
+References
+
+Connections
+
+de:Erzmagier
+
+---
+
+## Aribeth's ring
+
+Aribeth's ring was a magical ring that provided its wearer with resistance to spells. It was worth around 50,000 gold pieces.
+
+This ring was the family heirloom of Aribeth de Tylmarande, an elven paladin of Tyr, but it was lost when she was defeated in combat in Neverwinter in 1372 DR.
+
+Appendix
+
+References
+
+FR:Anneau d'Aribeth
+
+---
+
+## Arilyn Moonblade
+
+Arilyn Moonblade was a half-elf assassin and Harper originally from Evereska active in the mid-to-late 14 century DR.
+
+Description
+Like most half-elves, her ears were pointed and she retained her youthful appearance and vitality even into middle age. Around her fourth decade of life, Arilyn appeared only 20 years of age, as reckoned by a human. Her eyes were blue and flecked with gold, and she had a more human build than elvish, though her skin was still quite fair. She had black hair and a hint of blue beneath her skin. She generally looked more like an elf rather than a half-elf. She was  tall.
+
+Arilyn's typical travel outfit included boots, trousers, a dark cloak, and a simple blue tunic over a loose shirt. However, she was very skilled at disguises. Aided by her moonblade, she could take on a number of disguises, such as a Sembian courtesan, a street waif, and a cleric of Mielikki.
+
+Personality
+Khelben "Blackstaff" Arunsun described Arilyn as hot-headed, stubborn, and independent. She had an aversion to magic, especially teleportation and magical fire (due to having witnessed the incineration of the Hammerfell Seven). She disliked cooking.
+
+History
+Born around 1320 DR,She is said to be almost 40 in 1361 DR. Arilyn was the daughter of Princess Amnestria of Evermeet and the human ranger and Harper Bran Skorlsun. Before Arilyn's birth, Amnestria left Evermeet in disgrace and settled in Evereska to raise Arilyn alone, taking the name Z'beryl. A skilled warrior-mage and teacher at the College of Magic and Arms in Evereska, Z'beryl/Amnestria was nevertheless killed by common thugs when Arilyn was less that 15 years old. The family moonblade was then passed on to Arilyn; however, it had been dismantled and the moonstone (which had been entrusted to Bran as "punishment") had been replaced with topaz. Arilyn did not know anything of her royal parentage.
+
+Arilyn later adopted her surname, Moonblade, from her sword. For the next decade or so, she studied swordsmanship under the tutelage of Kymil Nimesin, one of the teachers for the academy in the city. She became an assassin and adventured with the Hammerfell Seven band during the Time of Troubles; she was the only survivor of the mage's miscast fireball. She later began working as an agent for the Harpers, officially joining the organization late in the .
+
+In 1361 DR, Arilyn was working for the Harpers when news spread of the Harper Assassin, who seemed to following her. Khelben "Blackstaff" Arunsun sent his nephew and secret Harper Danilo Thann after her to both protect her and spy on her in order to find the assassin. In the meantime, Bran Skorlsun (Arilyn's father) was trailing her in order to kill her, believing that Arilyn herself was in fact the Harper Assassin.
+
+Danilo found Arilyn (or rather, Arilyn found Danilo by taking him hostage) at the Halfway Inn near Evereska and they traveled together to Waterdeep, where Arilyn ran into Elaith Craulnobur and solicited his help. That night, Danilo was attacked by the Harper Assassin but was saved by Arilyn. The two sought more information from Khelben Arunsun, who had them consult with sages in Candlekeep about Arilyn's moonblade. Arilyn learned about her heritage and the powers of her sword. Eventually, it was determined that the Harper Assassin was the moonblade's elfshadow ability being controlled by Arilyn's old tutor, Kymil Nimesin, who sought to obtain the moonblade for its elfgate ability that would open a portal to Evermeet, allowing him to take over the elven island. With the help of Bran and Danilo, Arilyn restored her sword and defeated Kymil. The portal was moved to Blackstaff Tower and Arilyn was granted a Harper pin by her father, who pledged to stay in touch.
+
+Arilyn remained a Harper for a while, but left them in 1368 DR after undertaking a rescue mission for Isabeau Thione, a noblewoman from Tethyr, whom she considered to be not worth rescuing.
+
+Possessions
+Arilyn's iconic possession was her hereditary moonblade.
+
+Arilyn carried silver panpipes that she used to contact the Relay. Arilyn wore a ring on her left hand that was a simple silver band with the unicorn holy symbol of Mielikki; she won it from the ranger Rafe Silverspur in a game of dice.
+
+Relationships
+
+Danilo Thann
+Arilyn became romantically involved with the Waterdhavian noble Danilo Thann, whom she traveled with and later married. Arilyn had kept Danilo at a distance for some time, until she managed to make peace with her past, her elven side and family, and with herself and was finally able to accept Danilo's honest affection and love for her. Arilyn and Danilo finally formalized their relationship, overcoming their past issues and the opposition of his formidable mother, who disapproved of her son's half-elven love, an opposition hinting at secrets in the family.
+
+Elaith Craulnobur
+Arilyn worked with Elaith Craulnobur while seeking the Harper Assassin. Despite knowing some of his background, she found him quite likable and approached him several times, despite warnings from others. For his part, Elaith helped Arilyn willingly, telling Bran that she "should have been [Elaith]'s daughter," since he (Elaith) had originally been betrothed to Amnestria before his self-imposed exile from Evermeet.
+
+Foxfire
+She had a brief, but passionate, relationship with the wood elf chieftain Foxfire while helping defend his tribe in Tethyr.
+
+Family
+Arilyn established links with her family on Evermeet, at first through the young and liberal Prince Lamruil Moonflower and later with Queen Amlaruil Moonflower, after Arilyn proved herself by thwarting the machinations of Kymil Nimesin, who was conniving to bring about the end of Moonflower rule on Evermeet.
+
+Appendix
+
+Notes
+
+Appearances
+
+References
+
+FR:Arilyn Sabrelune
+Further Reading
+
+---
+
+## Aribeth de Tylmarande
+
+Lady Aribeth de Tylmarande was a half-elf paladin of Tyr, the Blind God of Justice, and a member of the Tylmarande family.
+
+Relationships
+Desther Indelayne of Helm, who worked closely with Aribeth's lover, Fenthick Moss, was a loud critic of hers, claiming that her lack of faith in Tyr led to several setbacks during the Wailing Death crisis. Aribeth felt that Desther's Helmites actively sought to undermine her efforts. However, Fenthick convinced her that Desther's people brought hope to the city. Ironically, both Desther and Aribeth were right about each other, as time proved both of their claims.
+
+Possessions
+Aribeth wore a magic ring that granted her resistance to spells. Although a family heirloom, after Aribeth's death, the ring was lost and was known as Aribeth's ring.
+
+History
+Early Life
+Aribeth was born in Thundertree, a town in the Neverwinter Woods, of uncertain parentage; some say a union between half-elves, others a moon elf and a human. At a very young age, Aribeth proved to be resourceful and resilient, at one point saving Thundertree from a certain power-hungry mage from Luskan. Aribeth used her enchanted ring of the wood elves – a gift from the ranger Ansal Bloodshoulder, to achieve this feat. Subsequently, the village's population was wiped out in an orc raid, leaving her the sole survivor of the massacre. Vowing vengeance, she hunted down the perpetrators and slew them all. Unsatisfied, she continued to hunt and kill orcs in an obsessive quest until she was trapped in a sudden blizzard and rescued by a one-armed man she believed to be an avatar of the god Tyr, who took her to a monastery of Ilmater. Recovering her health there, she learned to be a paladin, gaining such fame that when she moved to Neverwinter, she was named to the elite bodyguard of Lord Nasher Alagondar, being the first woman and first non-human to be so honored. There she met and became engaged to Fenthick Moss, a cleric of Tyr in the Hall of Justice.
+
+The Wailing Death
+
+Lady Aribeth was chosen by Nasher Alagondar to be in charge of the investigations surrounding the Wailing Death that afflicted Neverwinter in the . She began training adventurers at an academy to combat the forces behind the plague. However, after the Waterdhavian creatures needed for a magical cure became scattered throughout the city, Aribeth placed a student at the academy (who later became the Hero of Neverwinter) in charge of tracking them down.
+
+After her lover, Fenthick Moss, was found guilty by association and was hanged for trusting Desther Indelayne, a false Helmite and agent of Maugrim Korothir, Morag appeared to Aribeth in her dreams and tempted her to join Maugrim's cult with promises of revenge against the city that unjustly murdered Fenthick. Aribeth initially continued to lead Neverwinter's effort to find the cult in and around Port Llast, but eventually disappeared. When agents reached Luskan's Host Tower of the Arcane, they learned that Aribeth had become a blackguard in the service of Morag and had agreed to lead Maugrim's Luskar army in their impending assault on Neverwinter. At the climax of this assault, the Hero of Neverwinter confronted Aribeth and defeated her in combat. Not long after the forces of Morag were repelled, Aribeth was persuaded to surrender and return to Lord Nasher to face judgment, and she was soon executed for her crimes.
+
+Afterlives
+
+Later that year, upon encountering her spirit in Cania, an adventurer known as Drogan Droganson's pupil found Aribeth distraught. She'd realized she had never truly loved Fenthick, and her betrayal of Neverwinter, therefore, was not motivated by love as she had thought and was consequently much less justified. The hero could either persuade her to return to the service of Tyr or accept the evil path that she had chosen; either way, she could join the hero in their quest. Aribeth herself said that she'd died violently, though her memories were somewhat hazy. The hero of Neverwinter may have attempted to defend Aribeth while she was tried for her crimes, but was heavily outvoted, since the majority of Neverwinter called for Aribeth's execution, and Lord Nasher complied with the city's request. As a result, the hero of Neverwinter's friendship with Lord Nasher ended, and they left Neverwinter, never to be heard from again. Because of this, Nasher had revisionists play down his role in saving Faerûn from destruction.
+
+If Aribeth was at the pupil's side in their confrontation with Mephistopheles, the archdevil would try to use his considerable charisma to play on her uncertainties and turn her to his side unless her companion could sway her.
+
+After beating Mephistopheles and if she had been redeemed as a paladin, she returned as a spirit to Neverwinter, aiding the sick and wounded, and ended up finding redemption and going to Lunia. She may even have fallen in love with the Slayer of Mephistopheles, with Aribeth staying with him until his death, when he promised to "meet her on the other side", After he died, Aribeth's spirit faded from the mortal realm and she went on to spend the rest of her existence with him.
+
+Legacy
+The Tylmarande family remained in Neverwinter after Aribeth's death and were some of those who refused to leave when Mount Hotenow erupted. Aribeth's great-great niece Seldra Tylmarande spent much of her life trying to restore the name of her family to a respectable status.
+
+Appendix
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Arach-Tinilith
+
+Arach-Tinilith was the clerical school in the drow city of Menzoberranzan. Like the rest of the Academy, it was located in Tier Breche.
+
+Structure
+The complex -- the largest of the Academy -- was located on the northern side of the Tier Breche cavern and was shaped like a spider. The "cephalothorax" of the spider housed the grandest chapels, the holiest altars, and the quarters of the senior priestesses. The crowning gem of the complex was the main chapel, carved from a single mass of black stone. Inside, seats surrounded a circular platform that held a statue of a spider with the head of a drow female.
+
+The Mistress of the academy had an office on the highest level that had a tapestry depicting Lolth looming over a sacrificed surface elf. The Mistress also wore a brooch that allowed her to unlock all doors in Arach-Tinilith.
+
+There were dungeon-like kitchens located in the lower levels. Slaves, such as the ogre slave Chirank in 1361 DR, were employed there.
+
+A small library was located somewhere in the complex.
+
+History
+Arach-Tinilith was founded as part of Tier Breche, Menzoberranzan's educational institution as House S'sril's literal last act, in order to standardize Lolth's teachings and produce clerics of any meaningful quality. House S'sril was one of Menzoberranzan's founding Houses, though a total lack of heirs and inheritors led to the house's extinction. Before the founding, it was normal in Menzoberranzan for each House to teach only their own children. House S'sril, seeing that this practice led to numerous different interpretations of Lolth's teachings, believed that the founding of Arach-Tinilith would increase the quality of clerics and divine spell casters in Menzoberranzan.
+
+In 1372 DR, the Mistress of Arach-Tinilith, Quenthel Baenre, was attacked at the school by a number of demons intending to assassinate her. A number of novice priestesses and even instructors led by Drisinil Barrison Del'Armgo believed that Quenthel had lost the favor of Lolth, and thus they planned to murder her. Quenthel discovered their plot and summoned hordes of spiders to kill them and demonstrate that she was in her goddess's favor (although that was during the Silence of Lolth). In truth, unbeknownst to her, the demons had been sent by her brother, Gromph Baenre, the Archmage of Menzoberranzan.
+
+In 1469 DR, members of the Jaezred Chaulssin infiltrated and tampered with the graduation ceremony. It caused a large number of demons to be summoned, who then ran amok causing heavy damage, not only to the temple's structure but also in a lot of lives.
+
+Schooling
+
+Most new priestesses (called novices) had to share rooms with one or two others until the fifth year (although Liriel Baenre was able to secure her own room). Novices wore black robes with red trim.
+
+Each day ended in the chapel in prayer and praise of Lolth.
+
+Priestesses received training in weapons combat from older students of Melee-Magthere.
+
+Inhabitants
+All female, the priestesses of Lolth went to Arach-Tinilith after being trained by their houses in the basics of worship of the Spider Queen. This usually happened around the age of 40, and they were to spend 50 years studying under the tutelage of the mistresses there. By 1361 DR, it appeared priestesses were expected to enter Arach-Tinilith by age 25. The priestess Dab'nay Tr'arach, however, entered the academy at age 35.
+
+Priestesses provided religious instruction to other students of the Academy.
+
+It was a crime for males to enter Arach-Tinilith unsummoned.
+
+Notable inhabitants of Arach-Tinilith
+
+Matron Mistresses/Mistress Mothers
+The Matron Mistress was often addressed as "Exalted Mother," a title also used for matron mothers.
+ Triel Baenre in 1361 DR, until Quenthel's ascension.
+ Quenthel Baenre in 1372 DR.
+
+Mistresses (teachers)
+ Zeld Mizzrym (1361 DR).
+ Lidnolu, an instructor at Arach-Tinilith who was murdered prior to 1372 DR. She had a classroom in an indoor ampitheatre which was left unused for some time after her death.
+ Quave, senior instructor (1372 DR).
+ Viconia Agrach Dyrr, senior instructor (1372 DR).
+ Vlondril Tuin'Tarl (1372 DR).
+ T'risstree T'orgh, a commoner warrior-priestess who wielded a falchion (1372 DR).
+ Molvayas Barrison Del'Armgo (?-1372 DR), deceased).
+
+Novice Priestesses (students)
+ Liriel Baenre (1361 DR).
+ Shakti Hunzrin (?-1361 DR).
+ Drisinil Barrison Del'Armgo, who plotted to kill Quenthel (?-1372 DR).
+ Halavin Symryvvin
+ Gaussra Kenafin, who had black teeth (1372 DR).
+ Jyslin, a second-year novice priestess in 1372 DR.
+ Minolin Fey-Branche, a fifth-year novice priestess in 1372 DR.
+ Rilrae Zolond (1372 DR) who attempted to kill Quenthel.
+
+Appendix
+See also
+Melee Magthere
+Menzoberranzan
+Sorcere
+Tier Breche
+
+Appearances
+Novels
+Homeland
+Daughter of the Drow
+Windwalker
+Dissolution
+
+References
+
+de:Arach-Tinilith
+
+---
+
+## Arrow
+
+Arrows were a type of projectile shot by bows. A normal arrow consisted of a wooden shaft with a metal arrowhead attached to the front end, with fletchings and a nock at the other. Arrows could also be made from stone, bone, horn, and more exotic materials.
+
+Some arrows were enchanted in some way so they could deal larger damage, dispel, blind or silence their target.
+
+Projectiles launched from a crossbow were known as bolts, while ballistae launched similar, but much larger missiles.
+
+Varieties
+Ekaa arrow An Iulutiun hunting arrow carved from antler and bone.
+Flight arrow A long, light arrow designed for distance.
+Play arrow Arrows that were designed for children to play with. Rather than having an arrowhead meant to inflict grievous injury, these were affixed with bean bags.
+Sea arrow An arrow made by sea elves for underwater use.
+Sheaf arrow A heavy arrow designed for maximum lethality at shorter ranges.
+Signal arrow An arrow that emulated a bird's call when shot.
+Trukaa arrow A blunt Iulutiun hunting arrow used for small game.
+
+Notable arrows
+ Acid arrow
+ Arrows of biting
+ Arrows of detonation
+ Arrows of dire flatulence
+ Arrows of dispelling
+ Arrows of petrification
+ Arrows of second death
+ Arrows of slaying
+ Arrows of the vampire
+ Elfshots
+ Fire arrows
+ Holdfast arrows
+ Ice arrows
+ Kerrenderit arrows
+ Lightning arrows
+ Translocation arrows
+ Unbreakable arrows
+
+Appendix
+Appearances
+
+Gallery
+
+External Links
+
+References
+
+---
+
+## Artifact
+
+An artifact was a type of magic item of exceptional power that could not be reproduced using normal magical means. They were the works of the greatest mages, clerics, and even deities.
+
+Minor Artifacts
+
+Minor artifacts were rare and not producible, but not necessarily unique:
+A sampling of minor artifacts of note:
+ Book of Vile Darkness
+ Myrjala's Shards
+ Tablets of Pharyssolnyth
+ Talisman of Shajar
+ Windsong Towerkin ring
+
+Major Artifacts
+
+Major artifacts were unique and legendary items:
+ Chalice of Amaunator
+ Coin of Jisan the Bountiful
+ Ring of Winter
+ Ruby Rod of Asmodeus
+ Shadow Engine
+ Staff of the Forgotten One
+ Stone of Golorr
+ Wyrmskull Throne
+
+Appendix
+
+See Also
+ Relic
+
+References
+
+---
+
+## Arvoreen
+
+Arvoreen, also known as The Defender or The Wary Sword was the halfling pantheon's deity of defense, guardians, and watchers. Sages of other races considered him the closest the halflings had to a war god.
+
+Description
+The avatar of Arvoreen appeared as a handsome young muscular halfling dressed in light clothing and chain mail. His weapons of choice ranged from two short swords to a short sword and shield. He was always accompanied by a Keeper, and he sometimes appeared to go on patrol with his worshipers.
+
+Personality
+Arvoreen was strict and preached aggressive watchfulness but only to react to aggression. He didn't support starting conflicts unless it was done to stop evil practices. Arvoreen never attacked first and didn't hold thieving to be dishonorable as long as it was against a foe. However, it was extremely forbidden to steal from the Hin (halflings) or their allies.
+
+Relationships
+
+The Defender's enemies were evil deities such as Bane, Cyric, the Deities of Fury, and the goblinoid pantheon. His closest allies were the rest of the hin pantheon, especially Yondalla, Cyrrollalee, and Urogalan, but he disapproved of the behavior of Brandobaris.
+
+Worshipers
+
+The faith of Arvoreen was strong in like-minded strongheart halflings and some isolationist halflings. Devotees followed procedures of military drills, training regimens, and building traps, signal beacons, and fortifications. Their temples were specially built keeps. This mix, along with the ideal that the enemies to the hin community mostly came from mixing with other cultures, made them less popular with lightfoots, who stayed away except in times of war.
+
+The followers of Arvoreen also taught blade-work to the young, especially the deity's favored weapon, the short sword. The clergy prayed before dawn, before going on patrol. If able, they would also pray before battle with the Battle Hymn of the Keepers, an oral depiction of halfling military victory dating back centuries.
+
+The vestments of the priesthood were silver-colored chain mail and helmet, along with dark blue tabards with his holy symbol. They also wore an amulet of a small silver buckler.
+
+Specialist priest and worshipers
+
+Novices of the church were called "Shieldbearers" and the ranks in order of ascent were: Shieldbearer, Warder, Guardian, Defender, Protector, Magistrate, Sheriff, Marshal (full priest), and High Marshal.
+ Trueswords: Specialized priests skilled in fighting with short swords, engineering, and reading and writing.
+ Keepers: Elite halfing warriors who'd fallen in battle and patrolled the Green Fields in the afterlife.
+ Arvoreen's Warders: A militaristic branch of the religion with less spellcasting ability, who made up for this drawback with tenacity and skills.
+
+Holy Days
+ Ceremony of Remembrance: This took place during Feast of the Moon, where they remembered those who fell in the defense of the halfling community.
+
+Affiliated Orders
+ Arvoreen's Marchers: Known for keeping anarchy from spreading during the Tethyrian Interregnum, they then became a recognized knightly order. During this time, they were active in the Purple Hills under the leadership of Estermal Talltankard. They gained a chapter-house near Barrowsmorn, called Keeperstone, and they patrolled the Purple Marches.
+
+Appendix
+
+Trivia
+There is a sling of Arvoreen found in Baldur's Gate II: Shadows of Amn in a beholder den that states falsely that Arvoreen is female.
+
+In the game Neverwinter Nights 2, Daeghun Farlong has an Arvoreen's amulet of aid in a chest in his room. Daeghun never mentions the amulet or how he got it. It is known that Arvoreen grants gifts to defenders of hin communities and that might be how he gained this item.
+Further Reading
+
+References
+
+Connections
+
+---
+
+## Araevin Teshurr
+
+Araevin Teshurr was a sun elf wizard of Evermeet in the 14 century DR.
+
+Relations
+Araevin's parents had both been dead for over one hundred years by 1374 DR. He had a sister, Sana Teshurr, who lived in Drelegara, and cousins Eredhor and Erevyella, who both had children. He was distantly related to Elorfindar Floshin.
+
+Araevin carried the blood of House Dlardrageth through some unknown bonding in the distant past, and this technically made him a member of the house but he was not evil like them.
+
+His betrothed was Ilsevele Miritar until she broke their engagement after falling in love with ally Fflar Starbrow Melruth.
+
+Before 1364 DR, Araevin's familiar, Whyllwyst, died.
+
+Description
+Araevin was tall by sun elf standards, and stood about the height of an average human.
+
+Home
+He had been living at Tower Reilloch on Evermeet for eighty years by 1374 DR.
+
+Possessions
+Araevin wore a mithril mail shirt and a magical scarlet cloak that conveyed protection and warding. He carried the blade of House Teshurr, a magical longsword named Moonrill.
+
+History
+Araevin was born around 1108 DR,Araevin is said to be 266 years old in 1374 DR. at the House of Cedars, where he explored the surrounding trails as a child.
+
+Araevin spent years traveling northwest Faerûn studying elven portals and spell structures after finding that Evermeet's libraries were not sufficient. Most of these were relics of Illefarn or Siluvanede. In order to explore the ruins of these realms, he formed the Company of the White Star.
+
+Araevin was accepted for training as a High Mage in the, though his actual training was not due to begin for 50 more years.
+
+However, events that unfolded soon after his acceptance, such as the attack by the daemonfey and the Elven Crusade of Lord Seiveril Miritar later forced him to travel to Faerûn. There, he found an ancient loregem (selu'kiira) from ancient elven empire of Aryvandaar and by gathering all the pieces, he gained the knowledge of how to cast high magic. In order to cast high magic by himself rather than as part of a group, he made contact with a celestial eladrin from Arvandor or Celestia, who let him take some of her soul essence. He lost some of his mortality as a result and became a half-celestial eladrin himself, through the high magic ritual known as the Telmiirkara Neshyrr.According to author Richard Baker, here, "My intention was that Araevin became a half-celestial, although just the "celestial creature" template might be enough--in game terms, I figured that he needed his type to change to Outsider in order to solo "trans-mortal" Elven High Magic. The actual transformation scene is near the end of Farthest Reach. Sort of the inverse of what the Dlardrageths did to themselves a few thousand years ago. Hope that helps!"
+
+Appendix
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Arkaras
+
+Arkaras was a very tall bearded man who maintained a fierce expression in the mid 14 century DR. He was a shipwright who operated out of the eastern side of the harbor at Scornubel, and he maintained the ships that operated in the area, including owning the ferry that crossed from Scornubel to the south bank of the River Chionthar.
+
+Appendix
+References
+
+---
+
+## Arahnar
+
+Arahnar is a female human werewolf. She was found injured in human form by Kharran Fel, who nursed her back to health and they began a relationship. She does not remember who caused these injuries, how she got separated from her pack, or much about her pack, but she is determined to find them again.
+
+Appearance
+Arahnar has trim build, dark hair and dark eyes. She has hawkish features. Because of her lycanthropy, she prefers loose-fitted garments that won't tear when she changes shape.
+
+Equipment
+Arahnar carries both a dagger and a short sword and is equally dangerous with either.
+
+Search for her pack
+Arahnar believed that the Circle of Vehlarr was the key to her finding her pack again. She remembered hearing legends about it when she was a child and it is holy to her people. She travelled to Scornubel with Kharran to find Angah Lalla, the fence whom she believes to possess a map to the Circle. On entering Angah's shop and asking for the map, three members of the Silver Stake stepped out of a hidden door and confronted Arahnar and Kharran. Kharran defeated all three but not without injury to himself, and the pair seized the map and made their exit.
+
+Arahnar discovered from the map that her pack had likely gone to Myth Lharast, but soon after this realization, she and Kharran were approached by Avan Vatsisen, a Wizard of Thay, who magically paralyzed her and took samples of her blood. She was enraged and chased the wizard down, but she fell under another of his spells that caused her to fall in love with him. When Avan ordered his flesh golems to kill Kharran, she managed to break free of this spell and had intended to kill Avan until he said that he was able to use his magic to help her rediscover her pack.
+
+Back in Scornubel, Avan gave Arahnar a ring with several charges of both detect lycanthrope and teleport without error so that she could use them together to become reunited with her pack, and offered to recharge the ring if she returned to him. She used the ring to transport with Kharran to the last known home of her pack, a cave in the Wood of Sharp Teeth. There
+they encountered two hostile werewolves who attacked them. The outcome of this combat is unclear.
+
+References
+
+---
+
+## Arabel
+
+Arabel  was a fortified city in northern Cormyr. The city stood at an important crossroads and was a major trade center.
+
+Demonym
+A person from Arabel was known as an Arabellan.
+
+Geography
+Arabel was about  east of Eveningstar.
+
+Arabel was at the junction of the High Road, Calantar's Way, the East Way, and the Moonsea Ride. The farming town of Clarkswell was located fifty miles north of Arabel, in the foothills of the Storm Horn Mountains.
+
+Description
+
+The city contained almost a thousand structures in 1357 DR.
+
+Government
+From as early as 1353 DR until at least 1372 DR, Arabel was ruled by Myrmeen Lhal.
+
+Trade
+Arabel was a merchant city, primarily known for its jewelry. Other major exports included coal, horses, dry red wine, black beer known as Bitter Black, and cheese. It was the major source of coal for all of Cormyr, obtaining it from the nearby Gnoll Pass.
+
+Several major trading companies had outposts within the city, and the city also had a number of powerful local merchants. Arabel also had a large assortment of mercenaries for hire. Under the rulership of Myrmeen Lhal, merchants were only lightly regulated and given leeway to trade as they wished, provided that no harm was performed nor danger came to the royalty.
+
+Laws & Customs
+Unlike other Cormyrian cities, inhabitants of Arabel, even mercenaries, could keep their weapons unbound.
+
+Culture
+Festivals & Holidays
+During winter, inhabitants of Arabel celebrated Highharvestide. In addition, special prayers known as the "Gathering In" were led every tenday by the churches of Chauntea and Sylvanus.
+
+Preparing Winter
+Known as the "Granary of the North" by the folks of Cormyr, the cellars and attics of the city were used for constant storage of food for winter. In addition, dry firewood was piled along the insides of the city walls before snow accumulated too much around Arabel.
+
+History
+Arabel was almost as old as Suzail. It began as a logging camp, and maintained a degree of independence. The first rebellion occurred during the reign of King Tharyann, who put an end to it. By 245 DR, Arabel was in rebellion again. By 376 DR, Arabel had seceded three times.
+
+Another rebellion occurred some time between 376 DR and 432 DR, caused by a "Merchants' Revolutionary Committee". A battle in the Stonelands caused orcs to be driven south, and although this would normally be enough to cause Arabel to rejoin Cormyr, there was no military aid available, and the orcs conquered the heart of the King's Forest.
+
+In 1018 DR, Arabel was attacked by a pair of green dragons.
+
+The Usurper King Gondegal seized power in Arabel in 1352 DR with the aim of using the city as a central location for the formation of a new kingdom. He was overthrown eight days later by the Cormyrean army, led by King Azoun IV. King Azoun retook the city without shedding any blood, because Gondegal had abandoned the city and apparently fled.
+
+During the Time of Troubles, the goddess Tymora, Lady Luck herself, visited the city.
+
+In 1368 DR, heavy rain lasted for two entire seasons, spring and summer. This downpour caused a sinkhole underneath stables of a respectable Arabellan inn, within a hundred steps of the Lady's Hall, the temple of Tymora. The collapsed building exposed a hidden shrine to Beshaba and killed thirty-seven worshipers of Lady Luck's hateful sister Beshaba. Lord Priest Doust Sulwood, along with the High Lord Priest Daramos Lauthyr of the Lady's Hall, were present during the excavation of the destroyed shrine. One of the dead worshipers of Beshaba belonged to the respected Marliir noble family. Daramos Lauthyr chose to lie about the noble's association and claim that the dead Marliir was at the stables when the disaster struck. The High Priest wanted to play the game of politics. Many attributed the flooding to Chauntea, but the Church of Tymora was sure it was Lady Luck's doing. Lauthyr planned to petition with Lady Lord Myrmeen Lhal to claim the land of Beshaba's ruined shrine for his church, placing a rectory or a cleric school there. However, the same collapse caused one of the springs in Arabel to change its path and pour directly into  Tymora's temple's scriptorium and the library, dealing significant damage to the church's tomes and scrolls.
+
+Arabel was one of the cities damaged in the Goblin War.
+
+In the, nobles of Arabel found themselves in a conflict with the cultists of Urdlen. The conflict was stated to had been prolonged according to the reporting on the pages of the Baldur's Mouth Gazette.
+
+Locations
+Inns & Boarding Houses
+ Eastwatch Inn
+ Elfskull Inn
+ Falcon's Rest
+ High Moon Inn
+ Irriphar's Inn
+ Murdered Manticore Inn
+ Mother Lahamma's House
+ Night Wolf Inn
+ Nine Fires Inn
+ Phaesha's
+ Pride of Arabel
+ Scarlet Spear
+ Shassra's
+ Swinging Gate
+ Red Stirge Inn
+ Tired Traveler Inn
+ The Watchful Lynx
+ Weary Knight
+ Wild Goose (also known as "The World Serpent Inn")
+
+Taverns
+ Bent Bow
+ Black Barrel
+ Black Mask
+ Coiled Whip
+ Dancing Dracolisk
+ Ivory Jack
+ Lame Camel
+ Lazy Lizard
+ Silver Tankard
+ Striking Snake
+ Two-Headed Lion
+ Wink and Kiss
+
+Restaurants
+ Hungry Man
+
+Temples
+ Lady's House, also referred to as the Lady's Hall or simply as the Temple of Tymora, was the most resplendent cathedral in Arabel dedicated to the Lady Luck.
+
+Notable Inhabitants
+ Epicot, a renowned Arabelan wizard, murdered by the Night Parade in 1360 DR.
+ Myschanta Halarra, an abjurer and another of the city's sought-after mages, also died in the Night Parade's attack—but she got better.
+ Westar of the Gates, the city's hard-working, local Herald, who served Myrmeen and the city during the 14 century DR.
+
+Appendix
+
+Notes
+
+Appearances
+
+Map Gallery
+
+References
+
+fr:Arabel
+
+---
+
+## Aris (house)
+
+Aris was a noble house of Cormyr.
+
+Members
+ Lord Vorik Aris
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Ardenor Crush
+
+Ardenor Crush was a a mercenary leader who led the mercenary company known as the Chill during the mid–14 century DR. While he appeared as a hobgoblin, he was in fact a human who had been reincarnated in a hobgoblin body.
+
+Personality
+Even in his second life he could still appreciate humans' sense of humor.
+
+Possessions
+Ardenor had gauntlets of ogre power and an amulet which allowed him to summon a nightmare.
+
+History
+Following his human death, Ardenor was reincarnated by his wizard friend Grangor. His first task in his new body was to muster the goblinoid soldiers who lived through the Second battle of Urml and take revenge on those who killed him. The five separate divisions of the Chill traveled far to the North to this end.
+
+Ardenor and his mercenaries were involved in the events of the iron crisis in the . Along with the Blacktalons they led raids on caravans traveling along the Coast Way and rerouted any iron shipments to their overseer Tazok. While Ardenor and the leader of the Blacktalons were under the impression they were under the employ of the Zhentarim, they were actually being manipulated by the Iron Throne.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate
+
+External Links
+
+References
 
 References
 
@@ -533,6 +1293,1605 @@ Connections
 
 ---
 
+## Ardulace Despana
+
+Matron Mother Ardulace was a powerful drow cleric and the head of the Ust Natha branch of House Despana. She formed an alliance with Jon Irenicus with the intent of attacking the elves of Suldanessellar. Using the eggs of the silver dragon, Adalon, given to her by Irenicus, she was to buy the services of a powerful demon to lead the attack. However, her own daughter Phaere conspired to murder her and take her place as matron mother.
+
+Possessions
+
+Ardulace carried on her person several valuable jewels, a ring of spell turning, and a gorgon plate, a very powerfully enchanted set of chain mail that granted the wearer protection from fire and acid.
+
+History
+
+In 1369 DR, the dragon Adalon tried to recruit Gorion's Ward to infiltrate Ust Natha and retrieve her eggs, which were held by Ardulace. To do this, they had to show their ability by performing a number of tasks for House Despana, after which they were brought to meet Ardulace. She commanded the ward to retrieve the blood of the leaders of one of the powerful rivals of the drow in the area - either kuo-toa, illithid or beholders. She planned to use the blood to summon a demon. Phaere, her daughter, asked the ward to steal the real eggs and replace them with fakes, so that she might be the one making the deal with the demon.
+
+Rumors
+
+It was rumored that both Ardulace and Phaere were either killed by the demon, or turned hostile after they found out that the party of Gorion's Ward were actually surfacers.
+
+Appendix
+Appearances
+Video games
+ Baldur's Gate II: Shadows of Amn
+References
+
+---
+
+## Archmage of Menzoberranzan
+
+The Archmage of Menzoberranzan was a title for the head of Sorcere in the drow city of Menzoberranzan in the Northdark.
+
+Activities
+The Archmage's role was to advise and serve the ruling Council, especially in devising magics for the defense of the city, and to help the inhabitants of the city keep track of time in the lightless Underdark by casting a lingering heat enchantment on Narbondel. This duty, incidentally, kept him tied to the city and under the watchful eye of its priestesses.
+
+Membership
+The Archmage was almost always a wizard of House Baenre, who used their influence to ensure that one of their own occupied the position.
+
+Possessions
+The Archmage of Menzoberranzan was known to possess a brooch allowing him to cast a lingering heat enchantment, an amulet of perpetual youth, and an ornate, powerfully enchanted piwafwi called the robe of the Archmage of Menzoberranzan.
+
+Notable Archmages of Menzoberranzan
+ Gromph Baenre
+
+Appendix
+
+References
+
+---
+
+## Archendale
+
+Archendale, one of the lands' trading Dales, was the most aggressive, influential and well-defended of the dales within the Dalelands. The large trading hub viewed themselves as the leader of the region, boasting the largest standing army and strong economy based on its self-reliance and abundance of rich natural resources such as game, crops and valuable minerals.
+
+Geography
+Geographical features
+
+The Dale rested in the gorge of River Arkhen, a steep and rocky cliffside that offered natural protection on either side. The only routes into the Dale were the mouth of the valley at Archenbridge and a winding trail at White Ford leading to Highmoon.
+
+Forests and woods
+ Arch Wood, the forest that extended from the Forest of Cormanthor. It bordered the northern edge of Archendale between Deepingdale to the north and Tasseldale to the east.
+
+Mountains & Valleys
+ Arkhen Vale: This steep, rocky valley, formed by the river Arkhen, cradled the entirety of Archendale.
+ Mount Thalagbror, the mountain overlooking the dale that was named after an ogre mage who formerly terrorized the region, but has since been slain.
+
+Bodies of Water
+ Arkhen Falls, the beautiful waterfall that flowed from a natural spring in Mount Thalagbror to the vale below.
+ River Arkhen, a major river set into a deep gorge within the Arkhen vale.
+
+Society
+Despite their warlike attitude, the dale owed its prosperity to mercantile success rather than military prowess. As such the life of a successful trader and businessman was highly valued.
+
+Lawfulness and order were paramount to achieve continued prosperity in the eyes of the Archendalesmen, a view that was propagated by the Three Swords. As such, adventurers were not necessarily welcomed as they often brought uncertainty and chaos.
+
+Government
+The most powerful of the Dales was ruled by the leaders of its army, a group of three known as the Swords of Archendale. The identity of these leaders was a well-kept secret among the town's leadership and they were only known as the Black Sword, Red Sword and Blue Sword. There were perhaps a dozen people who knew their true identity, but it was a high law of Archendale that they never be revealed.
+
+The Swords lost rulership over Archendale during the, when they were discovered to be consorting with Sembia.
+
+Law and order
+Military justice was prevalent in Archendale, and punishment for breaking the law was particularly harsh. Officers of the Ride had the power to charge or arrest lawbreakers, sentence minor offenders and bring major criminals to the Swords for judgement and sentencing.
+
+Spying was severely punished in the Dale: usually by permanent exile and a confiscation of all goods, a sentence which couldn't be appealed. The isolationist Arkhenfolk tended to accuse strangers of spying to entertain themselves and to make outsiders fear them—this resulted in a variety of merchants visiting the Dale using false names and clumsy disguises, due to past suspicions.
+
+In addition, the Dalesmen followed a couple atypical laws:
+ No man could reveal the identities of the three Swords.
+ The army patrols had strict orders to unearth anything buried by visitors, and confiscate it if it was of value.
+
+Trade
+Archendale was entirely self-sufficient, having scattered farmlands as well as apple and grus-grus orchards along the valley floor. The numerous streams were full of crawfish and fresh-water crabs. It also had a number of very profitable ore mines adding to the Dales overall exports.
+
+Due to its self-sufficiency, only fancy, exotic or extravagant items were required to be imported. The wealthiest merchants in Archendale operated out of its largest city, Archenbridge. A number of trading costers operated out of the city. Among these were the Darkwater Brand, a merchant clan that traded ore from Archendale for finished goods from the Moonsea region; Jendalar's Fine Fruits, the company that exported the goods from Archendale's orchards and farms; and Mirksha, Mirksha and Mirksha, a company of three brothers that traded exotic goods from southern coast of the Sea of Fallen Stars.
+
+Defenses
+Archendale was defended by an army known as the Archenriders, consisting of ten rides of 60 mounted soldiers. While half of the army was typically standing down, the other half would be active, stationed throughout the Dale. Three of them were always stationed at Swordpoint, a stone keep and the Dales' major garrison, one at White Ford and another would patrol the Dale in 10-man units. Rides would alternate between active and off-duty in two month rotations.
+
+Regular militias were kept at a number of towns, comprising veterans and young men and women preparing for regular service. Due to its security, the region was a haven for merchants.
+
+Relationships
+After a major war victory, the Dalesmen wrestled a treaty out of Sembia. It required the city of Ordulin to pay 300,000 gp worth of gems to the Dale every year—at least until its destruction in the .
+
+Notable locations
+Temples
+Most rural Archendalesman were followers of Chauntea, but there were also temples in devotion to Lathander and Tempus. There were also smaller shrines in the woods of the Dale, devoted to nature deities such as Silvanus, Eldath, Mielikki and Selune.
+
+ Bounty of the Goddess, a prominent Chauntean temple that was a richly-painted, re-purposed barn, whose entrance was flanked by two pillars carved to look like enormous stalks of wheat. It was overseen by an ambitious priest named Thaliach Mindogar.
+ Glory of the Morning, built a bit before 1369 DR, this sanctuary to the Morninglord was served by Stellaga Brightstar and a dozen minor clerics.
+
+Settlements
+Archenbridge, Archendale's capital and the largest city in the Dalelands. It was a bustling metropolis with a heavy influence from the Sembia, both in trading opportunities and fear of military action.
+Arch Wood, a tiny village hidden in the forest of the same name.
+Swordpoint, the capital building of Archendale was a massive, old fortress that served as a seat of power to both the Swords and Archenriders.
+White Ford, a sleepy town that was formed around a group of boulders that were dumped into the river
+
+Appendix
+
+Gallery
+
+Appearances
+Novels
+The Glass Prison
+
+The Parched Sea
+
+References
+
+FR:Valarchen
+Connections
+
+---
+
+## Aruph Thunderfist
+
+Aruph "Red" Thunderfist was a red-haired, burly fence from Luskan. A man who could always get the best deal on just about any item a person could want, Red was well-liked and respected all over the city. He could often be found conducting business in a corner booth in the Cutlass, where he downed an endless number of drinks with near immunity to the effects of intoxication. Red was never one to betray the trust and was often willing to accept favor over gold as payment for his services.
+
+History
+In 1372 DR the Cutlass was under Aruph's proprietorship. During that time the inn was not bustling with clientele, instead, it housed local refugees fleeing from the High Capitas' all-out war for control what was ravaging Luskan. The Cutlass had almost no rooms available and only served watered-down ale during the long weeks of the conflict.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights
+References
+
+---
+
+## Aran Linvail
+
+Aran Linvail was an assassin in Athkatla in Amn in the late 1360s DR.
+
+History
+In 1369 DR, Abdel Adrian needed a large sum of money in order to go after two of his friends, and Bodhi passed him the offer to gain the sum by killing Linvail. Abdel hesitated at first, having decided never to kill for money again, but as he very much needed the money, he decided that killing an assassin might be a form of justice. He infiltrated Linvail's house, waited in his closet for him to be finished with a lover, and finally killed him after a protracted, awkward fight. Who wanted Linvail dead and why, or if there even was a genuine outstanding price on his head, is unknown. The only source of information on this was Bodhi, who had her own agenda.
+
+Aran Linvail was the Shadowmaster of Athkatla, the leader of the Shadow Thieves, and one of the most powerful people in all of Amn. In 1369 DR, the position of his entire guild in Athkatla was threatened when Bodhi formed her own, using vampire abilities to gain an advantage. Linvail and Bodhi both tried to gain the service of Gorion's Ward and their party, whose choice ultimately turned the situation to the advantage of their allies.
+
+Aran Linvail became involved if they elected to take the Shadow Thieves, rather than Bodhi, up on their offer to get them to Spellhold once they had enough gold to pay for it. It was revealed openly for the first time that it was the Shadow Thieves, not Bodhi, who were making the offer. The party entered their guildhall in the Docks District and there a secret door that led to an inner part of the guild. Linvail, staying in his own luxurious room, flanked by guards, put on a reasonable and polite air, but refused immediate aid and instead said that he needed the party's help before he could sail them to Spellhold. They would need to first take some minor actions to help in the guild war, and finally enter Bodhi's lair and destroy her and all her vampires (though she would get away). Then Linvail would give the party some enchanted items for extra compensation and send them on their way on Saemon Havarian's ship.
+
+When Gorion's Ward's party later returned to Athkatla, they could go to Linvail again to ask for help against Bodhi and for extracting revenge on Havarian.
+
+If, on the other hand, the party sided with Bodhi, they would be sent on a series of similar tasks, culminating in attacking the guild building and killing Linvail.
+
+Appendix
+References
+
+---
+
+## Arphoind Bleth I
+
+Arphoind Bleth was the child of Mondar Bleth and his wife, born in 8 DR or 10 DR. On p. 125 of Cormyr: A Novel (paperback, 1998), it is stated that, as of 16 DR, Arphoind is "a strapling of all of eight winters" (in other words, eight years old), giving a date of birth of 8 DR. On p. 144 of the same book, it is stated that, as of 26 DR, Arphoind is "now sixteen" which would require his birth to have occurred in 10 DR. Sixteen in 26 DR is more likely because Mondar Bleth arrived in 10 DR and Ondeth Obarskyr was present for Arphoind's birth. Arphoind was the first man knighted by Faerlthann.
+
+Relatives
+Arphoind's father was Mondar Bleth. He was the youngest sibling, his mother having died whilst giving birth.
+
+Over 1300 years later, another member of the Bleth family was given the name Arphoind. Arphoind Bleth II eventually became the head of the merchant family.
+Appendix
+Notes
+
+References
+
+---
+
+## Arrk
+
+Arrk was a well-known troll mercenary who operated in the Lake of Steam region in 1372 DR.
+
+Personality
+While he was smaller than normal trolls, Arrk was a bit more intelligent (though still possessing a quite short attention span) and dependable. Arrk had a disturbing habit of licking his sword, which was cursed to continually bleed, whenever he was nervous or bored. He also had poor, trollish hygiene.
+
+Background
+Arrk was born to a troll tribe at the Neth Stand. As he was somewhat diminutive within his tribe, Arrk was often a victim of their cruelty and fought to survive until he eventually chose to leave. After stumbling across and joining a group of bandits, he discovered a true knack for the work.
+
+However, finding the compensation of looting to be less than he wished, Arrk began working in a mercenary company. In this role, he was quite successful and became well known around the Lake of Steam area, though not popular.
+
+Activities
+Arrk worked for anyone who had the money, provided the job didn't take more than a tenday, as he soon grew distracted and irritated with the company of other people. Thus he often found work as a caravan guard or bodyguard in hostile lands, and occasionally hired on as muscle for adventuring companies. This work allowed him to succumb to his natural bloodlust.
+
+While he was known to reliably hold up his end of a bargain, Arrk had the bad habit of eating people who didn't do the same, ensuring they paid him or didn't rob him.
+
+Possessions
+Along with his +1 spell storing greatsword, which possessed an inflict serious wounds spell and was cursed to continually bleed when drawn, Arrk carried with him two masterwork throwing axes, a chain shirt, and a gold necklace that acted as a ring of feather falling.
+
+References
+
+---
+
+## Arno and Julian
+
+Arno and Julian were the two heads of a single being, the origin of the ettin race.
+
+Relatives
+Arno and Julian were the two heads of one of Annam All-Father's sons.
+
+History
+Arno was killed by Tavis Burdun with a rune-arrow when the firbolg attacked their camp. Julian was able to yell the magical word required to make what would have been his death shot explode before Tavis could fire, seriously wounding Tavis. He was later killed by Princess Brianna of Hartwick.
+
+Appendix
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Arctic dwarf
+
+Arctic dwarves, also known as Inugaakalikurit
+, were a race of dwarves located in the isolated reaches of the Great Glacier in Faerûn's northernmost reaches. Arctic dwarves had a different origin from most other dwarves in Faerûn and were significantly different physiologically and culturally from other members of the Stout Folk, so much that they might be considered their own race. Arctic dwarves were almost entirely unheard of until a group of them began settling the edges of Luruar around the mid–14 century DR.
+
+Description
+Arctic dwarves were a very small race, not only in general but in comparison with dwarves as well. The average arctic dwarf was even shorter than a gnome or halfling, standing at just over half the height of a shield dwarf. Physically, arctic dwarves were squat, with pinched faces and stubby legs, being nearly as wide as they were tall. Their fingers and toes were thick and blunt, and their feet flat and wide to help them walk across the snow. Their skin was typically quite pale, ranging from a pale shade of blue to white, except for their cheeks which were a ruddy red. That said, their frequent exposure to the sun meant many were almost always sunburned, although this did not cause them any discomfort. Arctic dwarf eyes were bright blue and their curly hair, which they usually let flow freely grow long to their waists, was white. Unlike most dwarves, arctic dwarf females couldn't grow beards. Males often grew short beards with twisting mustaches. Arctic dwarf dress was typically simple, most often little more than tunics of polar bear fur, and they were always barefoot.
+
+Abilities
+While ostensibly dwarves, arctic dwarves had many significant physical differences between themselves and other dwarves. For instance, while arctic dwarves were frequently sunburned because of their constant exposure to the sun, this caused them no harm. Arctic dwarves were also significantly stronger than most dwarves, despite their smaller size, whilst being less dexterous. Arctic dwarves were also completely immune to the effects of extreme cold.
+
+Personality
+In general, arctic dwarves were a gregarious people, open to the company of others. Unlike other dwarves, they cared little from what bloodline another dwarf came from and had next-to-no materialistic drive, believing instead in living life to the fullest. In part, this was derived from the primitive nature of arctic dwarven society, which relied on hunting and foraging to sustain themselves, restricting the accumulation of private property but at the same time allowing for a greater amount of free time than civilized cultures had.
+
+While individualistic and open-minded, arctic dwarves rarely ventured beyond their own homelands to adventure. Those that did were usually driven by a spirit of curiosity, falling into the life of an adventurer more by default than by conscious decision. These individuals often became rangers or barbarians, which the self-sufficient lifestyle of an arctic dwarf was well-suited for and which drew upon the long history of their people's fight against the frost giants of the north.
+
+Society
+Given the scattered nature of their population, arctic dwarf society was surprisingly homogeneous, most likely the result of millennia spent in isolation from other races. Unlike most dwarves, the arctic dwarves did not divide themselves by clan lineage but neither was individualism highly valued among them, and they did not frequently remember individual deeds for more than a generation. Arctic dwarves also did not value hard work or craftsmanship to the same degree as other dwarves or indeed as most other races.
+
+Instead, arctic dwarves focused themselves on contributing to the greater communal good, which itself demanded very little from them, meaning that most of the race were content to live in ease without concern for the future. Young children received a great deal of attention and were largely raised by the community as a whole. Elders were largely devoid of any responsibility at all in arctic dwarf society, which saw it as their right to live without worries for the remainder of their days before being buried beneath the snow and ice when they finally left the mortal world.
+
+Arctic dwarves were few in number and only very rarely did they migrate from their northern homes to more temperate regions. As a result, they integrated poorly with other cultures and often exerted a great deal of effort looking for others of similar mind to replicate the casual lifestyle of their culture.
+
+Culture
+
+Some arctic dwarves dwelt in snowhouses, like the arctic humans of the regions in which they lived.
+
+Arctic dwarves almost exclusively spoke Kurit, a rare dialect of Dwarvish that was significantly influenced by Uluik, though a few also spoke the Sossal dialect of Common. Other arctic dwarves learned Uluik, Giant, Damaran, or Draconic. Although nearly all arctic dwarves were illiterate, Kurit did use a version of the Dethek alphabet and many arctic dwarves who became adventurers were literate.
+
+Art & Leisure
+Because of their hunter-gatherer lifestyle, arctic dwarves did not have a great degree of free time on their hands and as a result valued leisure. Among the activities enjoyed was dog riding and the arctic dwarves employed a large number of riding dogs as pets, mounts, hunting companions, and beasts of burden.
+
+Arctic dwarf crafts were largely limited to practical items, such as hunting weapons or survival tools. Many arctic dwarfs wore hide armor, the pelts of polar bears being the most valued. Most arctic dwarfs went barefoot, in spite of the cold. For hunting tools, arctic dwarfs preferred the use of arctic harpoons, even though their size made this awkward, with the practice driven on by myths about arctic dwarfs felling improbably large quarries with similar harpoons.
+
+Magic & Religion
+For the most part, arctic dwarves lacked any significant magical traditions and largely view the Art as impractical. The magical items found among the race were mostly created by druids or the race's small number of arcane spellcasters, among the most common of which were amulets of natural armor and snowshoes of speed. One of the few magic items unique to arctic dwarves were kerrenderit or magically shaped ice crystals often used as arrowheads.
+
+In addition to lacking an arcane spellcasting tradition, the arctic dwarves were not particularly religious and venerated neither the Morndinsamman nor any other gods.  Instead, the arctic dwarves venerated the natural world, sometimes honoring Talos or Ulutiu in the process. Those few dwarves who practiced any magic of any kind were most frequently druids, adepts, or rangers. Arctic dwarf druids were somewhat notable for their reliance on fire-based magic, which they employed against frost giants, frost worms, and other foes to great effectiveness.
+
+Relations
+Arctic dwarves had very little contact with anyone besides themselves; frost giants, with whom they were deadly foes; and Ulutiun humans, with whom they had friendly relations. However, because arctic dwarves were a friendly and open-minded race they were usually very tolerant of outsiders. Gnomes and other dwarves were often considered amusing to arctic dwarves, owing to their mix of familiar appearance and alien customs, an attitude that also applied to a lesser extent to humans other than the Ulutuiuns. The most familiar of the elves to arctic dwarves were the flying avariel and as a consequence arctic dwarves typically treated all elves with a degree of awe. Most other humanoid races only rarely encountered the arctic dwarves and were considered quite exotic.
+
+History
+Unlike most dwarves, arctic dwarves did not claim descent from the ancient kingdom of Bhaerynden. Instead, they seemed to be an artifact from an even more ancient lineage, the origins of which little was known about save that they came from one branch of the first dwarves in Faerûn that migrated from beneath modern day Semphar.
+
+The Innugaakalikurit dwelt upon the Great Glacier since about, but contact with the outside world was almost entirely absent until the mid–14 century DR, when small groups began to settle the shores of the Great Ice Sea and parts of Luruar's northern reaches.
+
+Most scholars believed their initial migration to the north occurred about the same time as the founding of Bhaerynden. Others claimed that the arctic dwarves once ruled a mighty empire of their own.  Other than the fact that the arctic dwarves, prior to the coming of the Ulutiuns, once covered most of the Great Glacier living in small villages, but were later limited to the peaks of Novularond, almost all theories about the race's origins and history were poorly supported speculation.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Arachnomancer
+
+Arachnomancers were spellcasters of the Underdark who focused on the strength and power of spiders.
+
+Description
+Because of the worship of Lolth among the drow, arachnomancers could expect good reception within the majority of drow society. The aranea and chitine were also drawn to the pursuits of arachnomancy due to their own relativity to spiders. All arachnomancers were arcane spellcasters, thus, clerics who worshiped a deity of the spider domain may have taken up arcane studies in order to delve into arachnomancy.
+
+Requirements
+All spellcasters who wished to become skilled arachnomancers must have been part of a scarification ritual, which involved burning symbols into their faces. The symbols must have been rubbed with ash or other coloring agents in order to create raised and clear spider-shaped markings, detailing their devotion to the mastery of spider magic. In addition, those who wished to become versed in arachnomancy must have been undeniably evil, as well as have clear grasps on the intricacies of nature.
+
+Abilities
+Arachnomancers were able to speak with any type of spider. In response, spiders and spiderkind were typically non-aggressive. These arcane casters could cause their own skin to ooze a poison that would harm others upon being touched.
+
+Once per day, experienced arachnomancers could create wall-like barriers of webbing. Unlike normal webs, these were resistant to fire and were as hard as steel. Arachnomancers themselves could pass through these walls without any issues. Like how some clerics could command the undead, these arcane spellcasters could command and rebuke spiders.
+
+Powerful arachnomancers could create blasts of hundreds of regular-sized, but very poisonous, spiders. The spiders disappeared after attacking anyone unfortunate enough to be caught in the blast. The casters that became very versed in such magic could learn to walk over and climb on webs as natural as walking normally, just as spiders could.
+
+Three times per day, skilled arachnomancers could even transform into spiders. The size of the arachnid that the spellcasters could turn into was limited to the casters' power. Novice spellcasters could turn into medium-sized spiders, whilst masterful ones could turn into tiny spiders, or even gargantuan ones.
+
+History
+In the, a small group of drow arachnomancers took over one of ancient Illefarn ruins, interestingly enough, located in the deep jungles of Samarach of the Chultan Peninsula. Even though their goal remained a mystery, they brought a pack of phase spiders with them and kept the deadly creatures in the top levels of the ruined structure.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+de:Arachnomanten
+fr:Arachnomancien
+
+---
+
+## Arcane Brotherhood
+
+The Arcane Brotherhood was a mercantile company and wizards' guild that operated out of the Host Tower of the Arcane in Luskan. The organization was shrouded in mystery, as even its most high-ranking members were unknown. It was known however that their primary goal was the political and economic control of the North.
+
+Base of Operations
+The organization was based on Cutlass Island in the mouth of the River Mirar. While the leaders dwelt within the Host Tower, which resembled a giant stone tree, the Brotherhood's most junior members were housed in the Sea Tower on the opposite side of the island.
+
+History
+Arklem Greeth, the original Archmage Arcane of the Brotherhood, first appeared in Luskan around 1311 DR. Meticulously building a group of powerful and evil mages, Greeth sought to acquire control of the North by first dominating trade using the far reaching arm of Luskan. Greeth and the Brotherhood first gained full control of Luskan (through the High Captains) sometime around 1357 DR. After conquering the island of Ruathym (on the second attempt) in 1361 DR, Luskan was forced to return it by the Lords' Alliance.
+
+Greeth then had Luskan embark on a number of disastrous military and naval ventures. After a botched war against Lantan, Greeth was forced to flee to Mirabar when two of his high-ranking subordinates sought to overthrow him and proceeded to assassinate his assistant. While in exile, Greeth successfully gained his long-sought immortality by becoming an undead lich. Returning to the city sometime in late 1371 DR or early 1372 DR, he used his new-found powers to reclaim the Brotherhood.
+
+After setting the High Captains of Luskan under his heel yet again, Greeth and his erinyes ally Nyphithys turned their attention to recruiting new mages for their guild and plotting means to conquer the newly created country of the Silver Marches.  It was during this time that Arabeth Raurym of Mirabar became an Overwizard of the Brotherhood.
+
+Around the end of 1376 DR, Luskan was invaded by a group of Waterdhavian lords led by Captain Deudermont and Lord Brambleberry. The Brotherhood's presence in Luskan was essentially nullified and a number of wizards killed. Greeth himself fled the city after causing tremendous damage to invading forces.
+
+The Arcane Brotherhood was then absent from Luskan for over a century, and the Host Tower sat as a haunted ruin. However, in 1486 DR the Host Tower was magically rebuilt and the Arcane Brotherhood returned to the city. The wizards quickly gained the trust of the people by clearing undead from the ruins of Illusk, protecting the city from a dragon, and promising to stay out of politics. This new incarnation of the Brotherhood quickly established itself as a prestigious organization known for its vast accumulation of arcane lore. Dozens of wizards flocked to Luskan every year to petition to join them, but almost all were rejected immediately. Instead, the Brotherhood grew by recruiting like-minded wizards who would otherwise be rivals or threats to their efforts to continue seeking knowledge and power.
+
+Hierarchy
+14th Century
+The Archmage Arklem ruled over the guild and under him served four Overwizards. Each Overwizard was assigned a quadrant of Faerûn to administer and an arm of the Host Tower of the Arcane to coordinate.
+
+As of 1372 DR, below the Archmage was Overwizard Valindra Shadowmantle, who was responsible for the North Tower. Dominion of the North was the main goal of the Brotherhood, so Valindra led the Overwizards in their objective to collect information on their regions to help her. She was a moon elf, born in the High Forest. Frustrated with her wizardly education, she left her homeland and headed for Mirabar looking for a mentor. One year later, she murdered him and escaped to Luskan, where she found a place among the Brotherhood.
+
+At this time, Overwizard Rimardo Domine was Master of the East Tower, Overwizard Arabeth Raurym was Master of the South Tower, and Overwizard Blaskar Lauthom was Master of the West Tower.
+
+15th Century
+As of 1489 DR, the Archmage Arcane was Cashaan, beneath whom were Zelenn the White (Overwizard of the West), Jendrick the Blue (Overwizard of the South), Teyva the Gray (Overwizard of the East), and Druette the Raven (Overwizard of the North). All five were famous and accomplished mages who were responsible for hand-picking new members.
+
+Relations
+Many powerful groups, such as the Zhentarim, the Cult of the Dragon, and the Red Wizards of Thay attempted to infiltrate the Brotherhood, to no avail though the Unseen had a minor success in this regard.
+
+The Order of the Gauntlet believed that the Brotherhood was too lax in allowing their members to pursue dangerous or evil knowledge, and did not trust them as a result.
+
+The people of Icewind Dale tended to be wary of the Brotherhood.
+
+Notable Members
+14th Century
+ Arklem Greeth, Archmage Arcane
+ Arabeth Raurym
+ Valindra Shadowmantle
+ Morkai the Red, former Master of the North Tower
+ Damien Morienus, former master of the North Tower, around 1269 DR he relocated to the Icewind Dale region with his wife to finish the research of achieving eternal life
+ Akar Kessel
+ Dendybar the Mottled, former Master of the North Tower
+ Celerum the Black, Dendybar's opportunistic apprentice who sought lichdom in 1369 DR
+ Kaladar the Cruel, Celerum's rival who hired adventurers to find the lichdom formula ahead of his opponent
+ Sydney
+ Eldeluc
+
+The Traitors
+ Eldeluc: One of the two that led the initial coup against Arklem Greeth in 1371 DR. Killed in retaliation upon Greeth's return. Rumored to have a hidden clone.
+ Valkebar: One of the two that led the initial coup against Arklem Greeth in 1371 DR. Killed in retaliation upon Greeth's return.
+ Jaluth Alaerth: Aka “Snakeface" was one of the former Overwizards. She fled to the wilds around Icewind Dale.
+ Ornar of the Claw: One of the former Overwizards. He fled to a stronghold in the Evermoors.
+ Deltagar Zelhund: One of the former Overwizards. He went into hiding among the yuan-it in Hlondeth.
+ Eltuth Oyim: Aka “Wyvernmaster” was also one of the Overwizards. He was killed and fed to his own pets.
+ Galguth Shund: He was an underling of Jaluth, but betrayed her upon Greeth's return. Greeth felt he could not be trusted and sent him away to run operations in Waterdeep rather than keeping him as one of the Masters.
+
+15th Century
+ Vaelish Gant, an apprentice of Overwizard Jendrick the Blue who attempted to undermine Ten Towns
+ Avarice, an albino tiefling evoker active in Icewind Dale
+ Dzaan, a former Red Wizard
+ Nass Lantomir, a diviner and apprentice to Overwizard Zelenn the White; she died in Icewind Dale in 1489 DR
+ Vellynne Harpell, a necromancer from the Harpell family of Longsaddle
+ Maccath the Crimson, a researcher of dragons
+
+Appendix
+
+References
+
+---
+
+## Artox Frayhammer
+
+High Hammer Artox Frayhammer was a priest of Moradin as well as the founder of the Templestars. He died a few years before the final battle in the Weeping War.
+
+ References
+
+---
+
+## Archlich
+
+Archliches were a type of lich that was good and noble, both in life and undeath. They could be of any type of spellcaster—including wizards, bards or clerics—and devoted their existence to whatever noble purpose motivated their transformation into lichdom.
+
+Description
+Archliches appeared almost indistinguishable from normal liches. They had skeletal appearances and blank eye sockets containing only points of light, and their bodies showed no signs of life. They did not eat, sleep, or breathe unless they wished to.
+
+Unlike common liches, their bodies and minds did not continue to deteriorate with time. As such, they had a virtual eternity to hone their skills, and would inevitably become very powerful.
+
+Personality
+Archliches retained all of the memories, personality, and abilities that they possessed in life. They were driven by the noble goals that had led them to seek undeath, generally a strong desire to protect someone or something, but occasionally their motivations were loftier. They might exist to serve a particular individual or organization, or even to pursue revenge. They generally avoided interjecting themselves into mortal affairs directly, instead preferring to monitor situations from afar and offer aid to those in need or information to those fighting to make the world a better place. They tried to avoid compelling or controlling others, either by magic or with fear.
+
+While archliches were known to make friends with the living, to engage in earthly pleasures like eating and smoking, and even to fall in love, they were irrevocably undead and ultimately these showings of humanity were fleeting.
+
+Patience, cunning, and intelligence were defining features of an archlich, and they were known for their great depths of knowledge. This was at least in part because they had perfect memories, which was both a blessing and a curse. Many archliches felt that their ever-lengthening pasts were a burden, however they never spurned or disregarded their old friends. Most preferred to spend their eons in private study and contemplation.
+
+Abilities
+The unique circumstances surrounding an archlich's creation meant that they had several unique powers. For one, upon the moment of their creation, an archlich was able to permanently affix up to nine spells in their memory, allowing them to cast these without the need for normal preparation or memorization. Most opted for a few offensive spells alongside dispel magic, fly, invisibility, and teleport. They could also walk on water and see perfectly clearly even in complete darkness.
+
+An archlich had the ability to know if its name had been spoken anywhere on the same plane as it. Knowing an archlich's true name afforded no special power over it.
+
+Despite their noble natures, archliches often made use of zombies and skeletons as minions as they had the ability to animate such creatures at will. Still, they had no interest in raising armies.
+
+Combat
+In general, archliches preferred to avoid combat.
+
+Like other powerful forms of undead (such as a vampire or mummy), an archlich had unnatural powers owing to its state. For example, they could put mortals in a paralyzed state of hibernation with a touch, making them seem dead to others. An archlich was capable of sustaining tremendous physical damage, and was immune to diseases, poisons, fatigue and other things that affected only the living. Owing to the unique methods by which an archlich achieved undeath, they were additionally immune to all mind-affecting charms or enchantments, most shape-altering magics, and any mundane injuries. Despite all these undead "gifts", an archlich (like a lich) counted its vast intellect, its supreme mastery of wizardry and limitless time to research and plan, as its greatest resources.
+
+Simply being near an angry archlich could be dangerous for its foes. Living enemies might have to brave an aura of necrotizing energy that drove them to flee in terror, while undead enemies were bombarded with radiant energy or could be repelled at will. Some archliches had such a mastery over the forces of life and death that they were energized by the deaths of their enemies and—on occasion—even by their own deaths, allowing them to continue fighting when they ought to have been defeated.
+
+If destroyed, an archlich's remains would instantly teleport to the site or item where its essence was hidden.
+
+Society
+Archliches were so rarely encountered that some sages disbelieved that they existed. They were generally solitary, and sequestered themselves in secluded or extraplanar hideouts to allow the world to live its life without them. However, they always kept an eye on things—either via scrying or spies—and worked to manipulate affairs from behind the scenes. A notable exception was archlich bards, who would prowl desolate dungeons, ruins, and wildernesses playing their own compositions, which were often melancholy and haunting ballads about the past.
+
+Relationships
+Archliches existed for the sole purpose of achieving their noble goals, and would often seek to partner with goodly adventurers, particularly rangers, bards, and wizards (whom they would sometimes accept as pupils).
+
+Most archliches concealed their true nature from the living in order to avoid confrontation or attack. Due to their goodly nature and activities, institutions normally dedicated to eradicating the undead—such as the church of Kelemvor—often sought to coax them into restful death rather than destroy them outright. This potentially included aiding an archlich in its pursuits if this would persuade it to pass on.
+
+Creation
+Archliches did not create phylacteries as did normal liches, and instead used practical magic items that could serve as more than just a repository for their souls, typically taking the form of a small spellbook. If this item was destroyed, so too was the archlich.
+
+The first step in achieving archlichdom was to create the item that would house their soul. It then required them to brew a special potion, which had to be augmented with the spells animate dead, chill touch, contingency, pass without trace, permanency, teleport, trap the soul, and wraithform.
+
+The prospective archlich then had to drink the potion while holding the created item—which was to be at least partially covered in the spellcaster's blood—while a secret spell was cast. This rite carried a small chance (less than one-in-ten) of possibly killing the prospective archlich and ruining the process. Otherwise, it put the drinker into a deathlike slumber for four to sixteen minutes. If the sleeper survived, they would wake up as an archlich. At that point, only divine intervention could reverse the transformation.
+
+This process did not need to be completed wholly by the archlich on their own. They did need to have a direct hand in the creation of their magic item, but work on the item, the brewing of the potion, or the casting of the spell could all be performed by another. That said, the mark of an individual who was sufficiently noble and strong-willed to become an archlich—and not lose their sanity as did so many evil liches—was having the patience to recognize that the transformation should only be undertaken once they were ready to complete it themselves. Only a willing participant could undergo the transformation process and survive.
+
+Notable Archliches
+Lady Alathene Moonstar of Waterdeep
+Bandaerl Dumatheir.
+Ezzat
+Renwick Caradoon
+Rhaugilath the Ageless
+Lady Saharel
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Arganth Snarrl
+
+Arganth Snarrl was a revolutionary and divinely-inspired shaman of Gruumsh One-Eye. He later became the chief shaman and principle advisor of Obould Many-Arrows, and god-blessed him.
+
+Description
+The orc shaman wore a bright-colored headdress adorned with many feathers. He wore a long necklace and several bracelets, made of teeth from different creatures. His eyes were said to be yellow-hued, wild and wide, and he had a loud and shrill bird-like voice. Arganth also wore a deep red cloak he had taken from a fallen shaman.
+
+Personality
+Arganth was a surprisingly wise shaman, who had his own political aspirations. As other shamans, he was fervent and zealous. He was described to be spectacular and incredibly charismatic, able to command the attention of all around him with his intelligence and revolutionary ideals.
+
+Relationships
+Arganth was chosen as Obould's chief shaman and advisor, who greatly appreciated him. He gained the respect of almost everyone who encountered him, even drow believed him to be clever and worthy.
+
+History
+A new philosophy
+Circa 1370 DR, Obould Many-Arrows had attempted to unite the orc tribes of the Silver Marches and beyond. It was believed that Obould's forces had slain the dwarven king, Bruenor Battlehammer, which greatly aided his cause. However, many tribes believed that they were better sticking with their own, instead of uniting as a community.
+
+After Obould led his forces to destroy the town of Shallows, Arganth began to declare that Obould Many-Arrows was actually a god-king. At first, the other eleven shamans didn't believe in Arganth's vision, preferring to keep to their individual tribes. Arganth explained his philosophy to the others, and conducted a sacred dance to Gruumsh. Almost all of the shamans rallied to Arganth's side, chanting "Obould is Gruumsh!" The powerful display moved all but one shaman, Achtel Gnarlfingers, who wished to keep to tribal dependence.
+
+Some time after Arganth's bold proclamation, Achtel was murdered in the night by the renegade drow, Drizzt Do'Urden. This was to Arganth's advantage, as it appeared that Achtel, the only shaman disagreeing with his political philosophy, had been singled out and killed. The zealous shaman went on to explain to his peers that Achtel had angered Gruumsh by denying the joining of Gruumsh's spirit with Obould's body.
+
+Obould seeks Arganth
+As Arganth's pronouncement spread through the orc ranks, many began taking up his cause. The news quickly reached Obould himself, and his sentries advised the chieftain to seek him out. After he was located, the two held a private meeting in Arganth's tent where the animated shaman told Obould of his ideas. Arganth then explained to Obould that he could conduct a ritual to Gruumsh, to bestow great blessings of power upon him. At first, Obould was not convinced, as this could be mimicked by spells. However, the shaman assured him that this would be a permanent and rare god-blessing, delivered by his own hand.
+
+God-blessed
+Arganth had gathered several thousands of orcs, around a hundred frost giants and a handful of drow to witness the god-blessing ceremony. The onlookers were quietened, and the ritual began. Arganth Snarrl raised himself upon a statue of Gruumsh and took up two burning torches. After a bird-like cry, several other torches lit up around the statue, with other orc shamans appearing, covered in red and white face paint. The communion was incredibly well co-ordinated, impressing even the drow onlookers. Soon, almost all creatures in attendance were chanting the name of Gruumsh.
+
+After ritual sacrifices, Obould came under a mutual trance, as Arganth drew near. The shamans collectively granted Obould strength through the power of Gruumsh. A drow cleric, Kaer'lic Suun Wett felt intensely great magic emanating from the distant ritual. After a series of multicolored lights surrounded Obould, they were engulfed by him. Now, with extreme strength, Obould became extraordinarily powerful, grabbed a sacrificial bull, and broke its neck with ease. A wave of intense energy spread out to the onlookers, which knocked them, including the most powerful frost giants, to their knees. Next a great mountain cat was brought forth, and Arganth infused Obould with its speed and dexterity, which was, again, easily slain by Obould. In a display of power, the orc shaman fully resurrected all the sacrificed orcs, as well as the animals, which ran off into the dark night.
+
+Arganth's ritual was completed; Obould had been god-blessed.
+
+A proven shaman
+Obould, impressed by Arganth's success and intellect, met with him every night, seeking council. Arganth had become Obould's chief advisor, and greatly clarified the orc king's vision and foresight. The heir to the frost giant throne, Gerti Orelsdottr became incredibly agitated with the intelligent shaman, as his wisdom allowed Obould to gain great advantages over her forces. She wished to crush the life out of him.
+
+Arganth bestowed upon Obould an armored headpiece with glassteel eye sockets, rendering all attacks against his eyes useless. The orc shaman had proven himself more than worthy, and began attracting much attention, not limited to just friends...
+
+Fall of the revolutionary
+The news of Obould's ascension, and the one behind it, soon reached the ears of Drizzt Do'Urden. In the black of the night, the drow ranger slipped through the orc forces, and murdered them one-by-one, as they slept. He finally managed to locate the lead chieftain and advisor of Obould, Arganth Snarrl. Drizzt put a scimitar to the orc's throat and a hand around his mouth, and dragged him out of his chamber.
+
+The clever orc shaman, having achieved his goals, pushed his throat towards Drizzt's sword, to not give any information. However, the drow retracted his blade and tied Arganth up, and believed he could get vital details from him. Even after several hours, the drow could not extract any information of use. Drizzt's companion, Innovindil withdrew her bow and killed the shaman.
+
+Appendix
+See Also
+ Obould Many-Arrows
+Appearances
+Novels
+ The Lone Drow
+References
+
+---
+
+## Arabian Adventures
+
+Arabian Adventures is a 2-edition Advanced Dungeons & Dragons accessory. It is part of the Al-Qadim campaign setting and set in Zakhara.
+
+Description
+Arabian Adventures was published by TSR, Inc. as a 160-page softcover AD&D campaign rulebook. Design was by Jeff Grubb with Andria Hayday, a cover by Jeff Easley, and illustrations by Karl Waller.
+
+Arabian Adventures contains over 40 pages of player character kits, including the sha'ir, barber-thieves, beggar-thieves, and other rogues, as well as other characteristically Arabian roles such as merchants, moralistic priests, hakimas, mystics, mamluks, corsairs, and elemental wizards. Each kit includes benefits, hindrances, and discussion of the kit's societal role in the desert of Zakhara, the Land of Fate. The rulebook also includes rules for calling upon Fate, the Evil Eye, and discussions of honor, piety, the salt bond, and other characteristics of Arabian society. The rulebook offers a comprehensive list of desert equipment, lists of spells with a desert motif, Arab character names, and proficiencies like Haggling and Display Weapon Prowess.
+
+Contents
+ Introduction
+ Chapter 1: The Land O Fate
+ Chapter 2: Characters
+ Chapter 3: Kits
+ Chapter 4: Proficiencies
+ Chapter 5: Perils of Adventure
+ Chapter 6: At the Bazaar
+ Chapter 7: Sha'ir Abilities
+ Chapter 8: Wizard Spells
+ Appendix A: Wizard Spells by Province
+ Appendix B: Spell Index
+ Glossary
+ Guide to Major Illustrations
+ Index
+Gallery
+
+Credits
+ Design: Jeff Grubb
+ Additional Writing and Development: Andria Hayday
+ Cover Painting: Jeff Easley
+ Black-and-White Illustration: Karl Waller Color Illustration: Richard Bober (21 and 45), Fred Fields (61), Henry Mayo (81), Bryn Barnard (101), Carol Heyer (133)
+ Logo and Decorative Borders (Cover and Interior): Robin Raab
+ Cartography: David C. Sutherland III
+ Page Layout: Andria Hayday, Stephanie Tabat
+ Cover Layout: Dee Barnett, Sarah Feggestad
+ Production: John Knecht
+ Playtesting and Review: Tim Beach, Bill Church, Cathy Collins, David Collins, "Damage, Inc." (Anna Behling, Darryl Behling, Don Hageenson, Paul Kalman, Jon Kugath, Guadalupe Nerios, Ann Smolinski, Joel Westphal), "Fellowship of the Tower" (Geoff Hinkle, Jeff Neville, Robert Schneider, Dave Shidler, Mitzi Young), Ed Greenwood, Allen Grimes, Joe Karpierz, Sharon Karpierz, Clark Loche, Jim Lowe, Troy Malden, Greg Minter, Chris Moore, Jon Pickens, Robert Quillen II, Wayne Rasmussen, Craig Rickman, John Rufner, Peter Rufner, Sandy Sanford, Roger Shultz, James Ward, Bill Weaver, Steve Winter
+Appendix
+See Also
+Images from Arabian Adventures
+Notes
+
+Further Reading
+
+External Links
+
+References
+
+Connections
+
+de:Al-Qadim
+
+---
+
+## Ardeep Forest
+
+The Ardeep Forest, also known as the Faraway Forest or Elfwood, was a relatively small but thick woodland in northwest Faerûn. Elven scribes usually compounded the name to "Ardeepforest" in order to denote the forest as opposed to the realm that once encompassed a large part of the Sword Coast.
+
+Geography
+In the Year of Wild Magic, 1372 DR, the forest was a few miles east of Waterdeep, on the south bank of the River Dessarin. Three clearings in the northwest corner closest to Waterdeep were favorite rendezvous spots for clandestine lovers and runaways. The interior of Ardeep Forest contained many ridges and steep gullies that were hidden beneath thick vines, dense shrubbery, and cloaking mists that presented a danger to casual travelers. In addition, tunnels, cellars, and vaults constructed by dwarves during a time of alliance became pitfalls centuries later.
+
+History
+
+The forest was once much bigger than the extent shown on maps of the 14–century DR. In the Year of Oaths Forsaken, −626 DR, the trees extended unbroken (except by rivers) from Neverwinter Wood down through Kryptgarden Forest, Ardeep Forest, the Misty Forest, and ended in the Trollbark Forest north of the Troll Hills. Millennia before that, the forest was connected to what eventually became the High Forest.
+
+The dwarvish contributions to the (eventual) hazards of Ardeep Forest were primarily built during the 6–century DR when the kingdom of Phalorm briefly flourished.
+
+During the Retreat, begun in the Year of Moonfall, 1344 DR, the elves left behind many baelnorn and green warder guardians to protect the tombs of their ancestors and guard their legacy.
+
+About a decade before the War of the Silver Marches, the inhabitants of the neighboring village of Nightstone, led by Lord Drezlin Nandar from Waterdeep, started making hunting expeditions into the forest in an attempt to reestablish the hunting lodge held there by House Nandar two centuries earlier. These incursions infuriated the few remaining elves. In the following years, the conflict escalated until the elves assaulted Nightstone and killed Drezlin. In the aftermath, his widow, Velrosa Nandar, made peace with the elves and pledged never to make any such expeditions into the forest again. She kept that promise until her death one year later when the cloud giants attacked Nightstone.
+
+Rumors & Legends
+
+Floating towers (including Maddgoth's Castle) have been observed above Ardeep Forest over a good portion of its history. They were attributed to various mages and cloud giants but the owners rarely revealed themselves. Bard-spun yarns of ships from other worlds were also tavern favorites.
+
+Somewhere in the eastern section of the forest were the remains of a desecrated elven tomb. As of the, all that was left above ground was a stone arch with a decrepit iron gate, and even the bones had been looted from the site. The arch was a one-way portal to the Crystal Labyrinth in Undermountain.
+
+Notable Locations
+ The Crypts of the Deepening Moon
+ The royal vaults of abandoned Ardeep.
+ Dancing Dell
+ Contained a magical rock sacred to the followers of Eilistraee.
+ The Glen of Aloevan
+ The site of a portal that led to a pocket plane wherein lay the ghost of the maddened laranla (queen) and Chosen of Mystra and Sehanine, Embrae Aloevan. The site was guarded by an otherworldly dragon and the laranla's attendants, all priests of Sehanine.
+ The Floshin Estates
+ A lightly wooded expanse of land that bordered the forest proper. Elorfindar Floshin, lord of the lands, guarded the House of Long Silences from his secret fey'ri relatives in penance for his family's actions.
+ The Green Glade
+ a ring of elm trees that encompassed a minor mythal's effects.
+ Harpshield Lands / Dungeon of the Shield
+ Were owned by the Harpshield royal family, some of whose members survived the drow raids of, fled to Nimoar's Hold, and eventually became House Majarra, although they mostly forgot their royal lineage over the centuries. Their land bordered the southeastern ridge of the forest. The dungeon was beneath Harpshield Castle.
+ The House of Long Silences
+ Was located at the bottom of the northern spur of the forest.
+ House of Stone
+ A huge tower fallen to ruin just east of the forest contained Stoneturn Well that connected to the Underdark.
+ Nandar Lodge
+ The foundations of a hunting lodge that was abandoned by its stubborn owner after repeated elf attacks.
+ Phylund Hunting Lodge
+ Known for hosting hunts of exotic creatures, brought from elsewhere.
+ Reluraun's Tomb
+ The final resting place of a fallen elf warrior, cursed by evil magic during his final battle.
+ Talmost Keep
+ Located just outside the end of the forest's northern spur and was the royal seat of House Talmost, never reclaimed by its descendants.
+
+Inhabitants
+In 1358 DR, Strumferrel, a Tanar'ri posing as a evil human wizard named Glandowr, lived in a tower in the forest.
+
+Traditionally, the Eldreth Veluuthra had been active in the forest. As of 1374 DR, two cells operated here, one hunted down worshipers of Eilistraee near the Dancing Dell and the Ladystone; and the other guarded the ruins of Phalorm.
+
+By the 1480s DR, in the years surrounding the War of the Silver Marches, the forest was inhabited by a group of wood elves from Evermeet, led by Rond Arrowhome. The elves took it upon themselves to preserve the forest's ruins and wildlife.
+
+Flora & Fauna
+Thanks to the loamy ground, Ardeep Forest's vegetation was thick and healthy and aided the growth of mushrooms that glowed faintly. Visitors to Ardeep Forest either came to experience a truly untamed woodland or to seek privacy. It was a place with sun-speckled paths, parcels of deer, and pleasant verges among blueleaf, duskwood and weirwood trees. Deeper into the forest the vegetation became dense with shrubbery, cloaked in vines, shrouded in mists, home for wild boar, wolves, and the occasional owlbear. After the elves left, various monsters including assassin vines, tribes of kobolds, nyths, tendriculoses, thirsts of stirges, and other creatures moved into the forest. As of 1372 DR, patrols by rangers and the Harpers kept the larger predators and bandits from settling in the verges.
+
+Appendix
+Appearances
+
+References
+
+fr:Forêt d'Arprofond
+
+---
+
+## Ardabad
+
+Ardabad was a gnome and a local hero of the village of Ieirithymbul in the Sword Mountains.
+
+Ardabad was the namesake of Mount Ardabad, a mountain located in the western edge of the Sword Mountains near Ieirithymbul, by the mid-to-late 14 century DR.
+
+Appendix
+References
+
+---
+
+## Aryselmalyn calendar
+
+The Aryselmalyn calendar is an example of how all elven nations marked the passage of time (and still do in Evereska and Evermeet). It was used by the ancient and fallen Aquatic elf nation of Aryselmalyr.
+
+Four years marked one aeloulaev ("when peaces meet" in elven) which ended during the celebration of Cinnaelos'Cor ("The Day of Corellon's Peace") and started a new one. The elves also marked time by the length of the reign of their rulers, known as a rysar which encompassed the entire reign of a single ruler of Aryselmalyr.
+
+When Aryselmalyr fell over 1500 years ago, the calendar had reached the 71st aeloulaeva of its 197th rysar, which sages later agreed added up to over 11000 years.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Archfiend
+
+An archfiend was a particularly powerful fiend, usually a demon lord or an archdevil. An archfiend typically ruled a layer of the Abyss or the Nine Hells. Some archfiends were worshiped as gods, while others preferred to discreetly accrue power.
+
+Types of Archfiends
+Demon Lords
+
+Demon lord was a self-proclaimed title used by the most powerful demons of the Abyss. Though there were no formal criteria for the title, most demon lords were extremely powerful, controlled at least one Abyssal layer, and commanded armies of lesser demons. Each of them had a unique set of powers and abilities. The most powerful demon lords sometimes called themselves demon princes. Prominent demon lords included Demogorgon, Orcus, and Graz'zt.
+
+Archdevils
+
+Archdevils were the greatest of devils, and the archdukes of the Nine Hells. As befitting their kind, their position was strictly dictated by the hierarchy of the Nine Hells. Only nine archdukes ruled at any given time, one for each layer of Baator. Deposed or banished archdukes were also referred to as archdevils. Prominent archdevils included Asmodeus, Zariel, and Mephistopheles.
+
+Altraloths
+
+Altraloths were yugoloths that were transformed by night hags into powerful archfiends. It was believed that there were no more than half a dozen altraloths in existence. Like the yugoloths as a whole, altraloths were much less well-known than their demonic and diabolic counterparts.
+
+Appendix
+See Also
+ List of archfiends
+
+References
+
+---
+
+## Artor Morlin
+
+Artor Morlin, also known as The Baron of Blood, was a vampire Lord who saw Waterdeep as his own personal hunting grounds and brooked no challenges from rival vampires to his domain.
+
+Personality
+As an immortal creature who had been living in the same place for well over four centuries, Artor had to create several personalities for himself to remain incognito. In this, he lacked imagination as every one of his personae was a mercenary captain.
+
+He was a wary individual, He would try to observe his foes and send his vampire spawn or other minions to deal with threats instead of confronting them himself. He therefore preferred to avoid notice wherever possible and maintain his public identity so that he could spend his free time hunting. After his expulsion from the Dungeon of the Crypt, he spent the next three decades anxiously waiting and watching for signs that people had forgotten about the existence of the Dungeon and that he was still out there.
+
+Artor spent a small fortune on bloodroot in order to suggest an addiction to the drug. The purpose of this was to suggest a weakness that enemies would think to exploit and thus reveal themselves. The ploy was successful in drawing out the Malar worshiping vampire, Dhusarra yr Fadila el Abhuk.
+
+He was a pragmatic tactician and strategist who was determined to never lose a fight. He would never intentionally put himself in a position where there was any doubt of his absolute victory. He spent a small fortune and several years of unlife researching all of the inherent weaknesses of a vampire's condition just so he could cover all of his bases if an opponent ever tried to exploit even one of them.
+
+However, if ever he found himself in a situation where he had to draw sword and enter the fray, his bloodlust took over and he reveled in the chaos and blood of combat.
+
+Relationships
+Artor didn't maintain many relationships for a centuries-old person. He preferred to kill his allies after a certain number of years and make new ones rather than keep the same ones around for a long time. He maintained a coterie of vampire spawn, the last of whom that were documented being Arrick Kaarvol, Fhang, Rorrina of Clan Stoneshaft and a medusa named Medechai who was his favorite.
+
+He had made several acquaintances in his time, including Halaster Blackcloak, whom he first met before he became undead when Halaster was still known as Hilather. Of his true friends though, there were very few, though it was known that Durnan was one.
+
+Through Fhang, Artor had a connection to the Unseen. He also had connections within the Church of Loviatar and the Shadow Thieves.
+
+He was closely connected to the Gost family of Waterdeep, in a relationship dating back for centuries. In the late 14th Century DR, Djarrus Gost was his dominated puppet (a fact that would've shocked Djarrus' vampire-hunting half-sister Corinna Lathankin if she'd ever found out). Artor maintained dominated servants that were connected to the church of Lathander in order to supply information to the church about rival vampires which would then be destroyed by church-sponsored vampire hunters.
+
+Possessions
+ Artor wielded a +2 vampiric two-bladed sword in combat that he named Shoonfangs. He frequently coated it in purple worm poison. It was also the key to a portal that linked the Fireplace Level to the Morlin Catacombs underneath Castle Daggerford - Morlin's emergency escape route.
+ Artor wore a mithral chain shirt called Artor's Armament.
+ He also kept a 6 inch (15 cm) bloodstone gem, carved into the shape of a bowl that would fill with blood on command.
+ Artor's coffin was finely carved black marble and worth thousands of gold pieces to a collector.
+ Artor acquired one of two known copies of the Workbook of Lhoril Delhiirnyn that contained extensive research on summoning demons and a list of treasures seen in Ahghairon's Tower before it was spellwarded.
+ A pair of boots of elvenkind.
+ A kiira that contained the spells analyze dweomer, contact other plane, moment of prescience, scrying, and vision.
+ Twin daggers of venom decorated with jewels, stolen from the noble Sultlue family of Waterdeep.
+ A book describing religious rituals of the yuan-ti.
+ A pair of dueling swords won by defeating a young scion of the Silmerhelve noble family. Artor posed as a rival and acquired a rapier of puncturing and a luck blade (with no wishes left).
+ Artor had a large collection of treasures from the time of the Shoon Imperium including a suit of red dragonhide full plate armor once worn by a helmed horror made by the Shoon court mages.
+
+History
+The first documentary evidence of Artor Morlin placed him as a loyal mercenary guard in the court of Qysar Shoon III at Shoonach. Despite being quite aware of the Qysar's younger brother wishing to supplant his employer, Artor, through no fault of his own, was too late to save the Qysar's life during the coup against Shoon III in the .
+
+Artor became an infamous Shoon outlaw who worked as a mercenary from the 2 to 10 century Dale Reckoning. Famed for his hatred of all things Calishite, he took to harassing Calishite trade caravans. He built Morlin Castle on what is now the site of the town of Daggerford and proclaimed himself Baron of Steeping Falls and Lord Protector of the Sword Hills in the .
+
+At some point, he fell to evil and became a powerful vampire. He continued to harass Calishite caravans in the south, seemingly uncaring that his realm disintegrated in 403 DR, he allowed his castle fall to ruins during the Second Trollwar in the, around which time he disappeared. He only returned when he heard that Castle Daggerford was being built on top of the ruins of his home in 947 DR. Artor, discovering the burgeoning settlement of Waterdeep, ignored Daggerford's development and instead moved his coffin to Waterdeep.
+
+Artor was the first vampire to take up residence in Waterdeep and built the Dungeon of the Crypt just north of the City of the Dead.
+
+In, Artor made a deal with Open Lord Ahghairon in which he promised to keep Waterdeep free of vampires other than him himself, in exchange for assurances that he would have a say in how the city was ruled. As a result, Artor would become one of the Masked Lords of the city.
+
+In the, Artor found himself fighting an undead horde in the Fields of the Dead that almost destroyed the city of Baldur's Gate. Here, he encountered the grisgol form of Hazamir al Aktorral, whom he abducted and entombed within his lair.
+
+He dwelt in the Dungeon of the Crypt for almost four centuries, keeping the citizens of Waterdeep safe from other vampires per his agreement with Ahghairon. In the  though, the Company of Crazed Venturers chanced upon and defeated him. Artor managed to stay just out of reach of the adventurers in the Fireplace Level and eventually moved his coffin there. After a decade had passed, he had a vampiric servant move back into his old lair to test whether people would actually remember that he was never destroyed or not. Every five years he would kill his servant, create another and send them to perform the same task. The fourth such servant, a doppelganger named Fhang, was intended to be the last such imposter before he would return in person to the Dungeon of the Crypt. However, in the, a vampire of Undermountain, Dhusarra el Abhuk, decided to challenge Artor for the privilege of using the city of Waterdeep as a private hunting ground. In Dhusarra's ignorance, she failed to comprehend her blunder, but in so doing, had invoked the divine interdiction of a Malarite High Hunt, trapping herself in the city along with Artor, who was a far more powerful vampire than her. When Dhusarra realized her mistake, she managed to get another group of powerful adventurers involved to save her own hide by hunting for Artor.
+
+Like with the Company of Crazed Venturers, Artor survived his encounter with the adventurers sent after him, but he decided to abandon his old redoubts and eventually moved into the crypts beneath the Gost mausoleum in the City of the Dead. Another century passed. In 1492 DR, the leader of Bregan D'aerthe, the drow Jarlaxle, learned of the existence of a powerful potential rival based out of the Gost crypts. Rather than be distracted trying to learn more about this rival, and expend resources getting rid of them himself, Jarlaxle commissioned numerous fake treasure maps that lead to the mausoleum, and distributed them to other treasure hunters and adventuring types, banking on his rivals eliminating each other for him. Artor eventually decided to allow one of these groups sent against him to live with the knowledge of his undead state, in exchange for them stopping the distribution of the fake maps to his lair, confident that he could murder them if betrayed. These agents were successful, but enough maps remained in the city that Artor decided that he had to find another new lair.
+
+At first, he decided that he would move into the Dungeon Level of Undermountain, and temporarily moved to Skullport while that was being set up, but troubles with other undead in Undermountain eventually caused him to settle on making the far deeper level of Shadowdusk Hold his new lair.
+
+His last secondary lair was a reserve crypt beneath the villa of the Gost family.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Dungeon #128: "The Fireplace Level"
+Board Games
+Lords of Waterdeep
+Organized Play & Licensed Adventures
+Beneath the City of the Dead • Dock Ward Double-Cross • A Wrinkle in the Weave • Purging the Blood • Into the Dark • Crypt of the Dark Kiss • Fangs and Frogs • The Vampire of Skullport • Forge of Fangs
+
+Trivia
+ Artor was intended to appear in Waterdeep: Dragon Heist, with several new pieces of concept art created, but wasn't included in the final version. Instead, he became a major NPC in Season 8 of the Adventurers League
+
+References
+
+---
+
+## Arcata
+
+The Duchy of Arcata was a province in the Kingdom of Damara in the Cold Lands.
+
+Geography
+Arcata was the westernmost province of Damara, abutting the Galena Mountains. The land was flat and dusty.
+
+Government
+As of 1359 DR, it was ruled by Duke William Horgath from its capital town of Valls.
+
+Trade
+Arcata traded with the other Damaran provinces via the King's Road. As one of the so-called "supply provinces," its farms produced food for the kingdom and its mines harvested iron and silver.
+
+History
+The start of the Bloodstone Wars was marked by a conflict between Arcata and the neighboring Barony of Bloodstone, in which Duke William Horgath attempted to seize the bloodstone mines in Baron Gareth Dragonsbane's territory. The attack was ill-prepared and hundreds of Arcatans died before peace was instated by Gareth in what became known as Gareth's Gamble.
+
+The resolution of the conflict led to the concentration of both armies against the threats to the south led many of the Arcatan people to favor unification with the Barony of Bloodstone under Gareth Dragonsbane's rule as king. Rumors were rife in 1359 DR that the Ducal Guard in Valls were loyal to Gareth instead of William.
+
+Notable Locations
+ With a population of 1300, Valls was the largest settlement in Arcata as well as the capital in the mid-to-late 14 century DR.
+ Tomrav was a mining and farming settlement in the Earthspur Mountains.
+ Sudrav was a village on the shores of Lake Icemelt, in the Earthwood.
+
+Inhabitants
+Arcata had a population of around 15,000 in the mid-to-late 14 century DR. The duchy was mainly made up of farmers, and the Arcatan people were known for their work ethic and self-sufficiency.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Araugauthos
+
+Araugauthos, called the Bluetalon, was an old blue dragon that was imprisoned in the ruins of Undermountain by Halaster Blackcloak.
+
+Relationships
+Araugauthos and her mother Iryklathagra had a genuine love and affection for each other.
+
+History
+At some point in her life, Araugauthos was kidnapped and imprisoned in Undermountain by the Mad Mage Halaster. Iryklathagra suspected that the reason for Halaster's imprisonment of her daughter dated back to when she herself was a wyrmling and looted an abandoned tower that belonged to the Mad Mage in 150 DR.
+
+During Halaster's Higharvestide in the, Araugauthos escaped her imprisonment. Shortly after, Citadel Amnur in Amn was attacked by an unknown red wyrm, and Araugauthos came to the rescue by ripping through its wings with her claws, causing it to fall to its death and become impaled on sharp rocks. Araugauthos questioned the Captain of the Citadel Arilan Krimmevol for news of Faerûn since her imprisonment and left after two tendays, taking most of the treasure from the lair of the red wyrm. She then traveled to the lair of her mother, Iryklathagra, in the Small Teeth where she aided in the defense of the lair and acted as a decoy to would-be dragonslayers. Her mother rewarded her well for the service and the two got along very well.
+
+Appendix
+
+References
+
+de:Araugauthos
+
+---
+
+## Arumn Gardpeck
+
+Arumn Gardpeck was the owner of the tavern called The Cutlass in Luskan. He took in the famed barbarian Wulfgar when he was battling with his personal demons after being imprisoned by the balor Errtu.
+
+Relationships
+Arumn Gardpeck was familiar with Boswell Peddywinkle, as he passed Luskan quite often on his trade routes.
+
+History
+In 1369 DR Arumn was a barkeep at the Cutlass in Luskan. He posted a notice on the Cutlass' door about a caravan guard job, heading to Targos, Icewind Dale.
+
+Appendix
+
+Appearances
+ The Silent Blade
+ The Spine of the World
+ Sea of Swords
+ The Pirate King
+ The Accursed Tower
+
+References
+
+---
+
+## Archipelago of Altumbel
+
+The Archipelago of Altumbel was a collection of islands off the coast of Altumbel, on the Sea of Fallen Stars. The islands were composed of coral and rock, and primarily contained fishing villages. There were numerous wizard towers on the islands, some of which were disused and some of which were still in use. Pirates also occupied the archipelago.
+
+Islands
+Shamandra
+
+The third largest island in the archipelago.
+
+Stolys
+
+The second largest island in the archipelago.
+
+Thonn's Fist
+
+The largest of the islands, also known as Vosos.
+
+Appendix
+References
+
+FR:Mille Épées
+
+---
+
+## Artblade
+
+The Artblade (also known as the Noble Sorcerer's Sword, or Ary'Faern'Kerym in Elven), is one of three Elfblades created in ancient Cormanthyr to help the elves establish a ruling family.  This particular blade is used to name the Spell-Major, the Defender by Art, as he is called. The wielder of the Artblade is responsible for the upkeep of magical defenses of the realm, and command of the Akh'Faer, the arcane arm of the military.
+
+Characteristics
+The Artblade, like others of its type, shares some common characteristics with its kin (see Elfblade), but also has its own special powers, described here.
+
+The blade appears as if made of darkness, and its shape is a tangible black void, outlined in a crimson streak which is the source of the blade's light. It crackles like lightning when drawn, and creates a sharp buzzing sound when swung, like that of an angry bee.  Oddly, when the blade strikes a foe, there is no sound from the hit, despite the strength behind it. An elven rune near the pommel signifies a thing of magic.
+
+The Artblade like all of the elfblades has a bladerite, a test of character given by the blade itself. Passing the bladerite established a magical bond with the sword where the sword recognizes it's prospect as it's rightful wielder. Failing the Artblade would sever the prospect's connection to the Weave leaving them barren of magic for up to two decades. The blade favored arcane casters that had a selfless love for the Art and the people of Cormanthyr.
+
+The bearer could sense magic and negate other's. In battle the blade could be used as a weapon while still allowing the wielder to cast. The blade channeled the bearer's magic acting as their material focus and used the wielder's swing and its own buzzing to complete the casting. This also allowed the wielder to wear heavier armors without fear of hindering their casting. The blade also enchanced the wielder's evocation magics.
+
+Through the bond with the blade the wielder could call the blade to themselves from any location. This made the blade nearly impossible to be lost or stolen. This bond was only broken upon the death of the wielder.
+
+History
+The Artblade was created by Elven High Magic alongside its mates, the Warblade and the Rulers' Blade in, at the behest of the ill Coronal of Jhyrennstar, Oacenth, who desired the magical swords to determine the rulers of the united tribes and new nation of Cormanthyr.
+
+For over four millennia, the sword served the elves well.  However, in 450 DR, the Spell-Major Zaos Durothil lost the blade while battling the Red dragon Edallisufanxar.  For a time, the sword was replaced by Faervian, a Baneblade, created by the human wizard Demron.
+
+In 500 DR, the elven noble and bladesinger Josidiah Starym embarked on a famous quest to retrieve the Warblade from the Twisted Tower with a band of his adventuring friends but when he returned in 674 DR he had found the Artblade instead. Josidiah bore the Artblade until his demise in 714 DR during the Weeping War and the fall of Myth Drannor, when the blade was consumed in a great magical attack by the Starym noble.
+
+References
+
+---
+
+## Arachne
+
+An arachne was a powerful cleric of Lolth. The arachne called upon Lolth's power only to dominate everyone else in drow society.
+
+Abilities
+Arachne were able to summon hairy spiders as familiars, and skilled arachne could see through the eyes of their familiars. In addition, experienced arachne were able to use giant spiders as a mounts. These clerics, when they become skilled enough, were able to create types of undead known as zin-carla. These undead could be commanded by the arachne themselves, and would carry out their will. These spellcasters of the greatest power became divine in nature and effectively immortal. They could also assume the shape of yochlols, the closest minions of Lolth.
+
+Appendix
+
+References
+
+---
+
+## Arphoind Bleth II
+
+Arphoind Bleth was the leader of the Bleth family around the time of Azoun IV's death. He was the second known Arphoind of the Bleth family, likely named after Arphoind Bleth I from the earliest days of Cormyr.
+
+References
+
+---
+
+## Archivist
+
+Archivists were powerful divine spellcasters. However, their method of spellcasting was more akin to that of wizards than clerics. These skilled casters were professional at collecting and archiving divine lore.
+
+Abilities
+Archivists could cast spells from prayerbooks. These spells could come from any source of divine lore, such as holy tablets, ancient steles, magical scriptures, divine scrolls, or another archivist's prayer book.
+
+By drawing on their great knowledge of monsters, archivists could strengthen their allies and weaken particular types of monsters that they faced. Such knowledge became greater as the archivist became more experienced. Due to their great mental discipline, archivists became resistant to enchantment spells.
+
+Alignment
+Archivists were not tied to any specific alignment in the same way that clerics were. In general, they followed whatever morals they chose, but most were of similar alignment to their patron deity. Because of their scholarly approach, they tended to favor lawful alignments.
+
+Orders of Archivists in Faerûn
+Benign Order of the Third Eye This secretive order dedicated to Savras was founded during the Feast of the Moon in 1371 DR, after a vision was sent by Savras himself. He spoke of accumulating knowledge and magic for an upcoming battle with Cyric. The order attempted to accumulate knowledge from all sources, and (though they were not supposed to) some overstepped the boundaries of sacred places in their attempts to do so.
+
+The Brotherhood of the Secret Quill These were record keepers of Oghman temples. They made extra copies of texts to keep in the Vault of the Bound, a large extradimensional library with restricted entry.
+
+Order of Ibis Servants of the deity Thoth, this order was founded during an excavation by clerics and wizards. A vision appeared, telling them to keep the Mulhorandi interests first. They became archivists, and attempted to control trade and knowledge throughout the region. They were based at the university of Gheldaneth in Mulhorand.
+
+There were also significant numbers of archivists in the churches of Mystra and Azuth.
+
+Appendix
+References
+
+---
+
+## Army of Darkness
+
+The Army of Darkness was a massive force of nearly 60,000 yugoloths, orcs, bugbears, hobgoblins, gnolls, flinds, ogres, and trolls that assaulted Myth Drannor in the early 8 century DR. They were led by the Trio Nefarious who organized the monsters into tightly regimented battalions, which made it the biggest army that Faerûn had ever seen (while some orc hordes were of comparable size, they lacked their structure and direction).
+
+Organization
+It was led by nycaloths. Aulmpiter was leader and tactician; Malimshaer was head scout, saboteur, and spy; while Gaulguth was field commander.
+
+Each nycaloth had a legion of five battalions under their command, except Aulmpiter, who had six. Each battalion was led by a summoned mezzoloth general, who each led five regiments of troops. These eighty regiments were each led by colonels who were either the chieftains of the larger tribes who made up the warriors in said regiment or more summoned mezzoloths. Under the colonels were the majors, who tended to be the chiefs of the smaller tribes or further mezzoloths. Under them were the captains and commanders, who consisted mainly of the sons and daughters of the aforementioned chieftains, or again mezzoloths. The giants who joined were all automatically given one of these two ranks (most of them were hill giants who commanded by 'allowing' their mezzoloth second-in-commands to suggest tactics). The commanders each controlled twenty-five warriors (five lots of four soldiers and a sergeant).
+
+This organization was the key to the success of the Army, without it, Myth Drannor would have been much less likely to fall as it eventually did. The city did only fall however, once the nycaloths were all slain. The monsters reverted to their normal horde tactics and swept down upon the city en masse.
+
+History
+It took twenty-nine months for the army's forces to be gathered.
+
+The first military action the army took part in was the attack on the mining and trading encampments in the western Moonsea (eventually this area would become Zhentil Keep) in late autumn of the . By the Feast of the Moon of that same year, the Army attacked the Cormanthor Forest. This was the beginning of the Weeping War.
+
+Appendix
+
+References
+
+---
+
+## Arthindol
+
+Arthindol, also known as the Terraseer or T Source, was originally a powerful ancient sarrukh lord who eventually became a lich and thereby survived the downfall of the ancient progenitor race. He dwelt, ever since, in the ruins of ancient Oreme, rarely interacting with the outside world. Most notably he served as a source of ancient arcane knowledge for the Netherese Empire.
+
+Activities
+Arthindol built the watchtower at Old Owl Well, as can be asked of Agatha.
+
+History
+In the, the Terraseer appeared before Karsus and stated "Mystryl was about to face her greatest challenge - one that could alter the perception of magic for all time."
+
+Appendix
+
+Appearances
+Adventures
+
+Anauroch: The Empire of Shade
+References
+
+---
+
+## Artificer
+
+Artificers were a rare kind of arcane spellcaster who treated magic in the same manner as a mason might see a chisel as a tool for the creation of marvels. An artificer learned to wield their magic through the mastering of sigils and diagrams that they etched into that which they enchanted, as well as magical ingredients. Artificers infused objects of the world, be they inanimate or alive, with the power of the arcane, making them both powerful crafters and healers.
+
+Culture
+
+Artificers were also prominent in Lantan.
+
+Religion
+Regardless of their race or origin, artificers were generally known to worship the god Gond. Though some were known to worship deities related to their pursuits of crafting or knowledge, such as Moradin, Oghma, or Torm. Others were known to worship gods of magic, such as Corellon or Mystra. But there were also some who saw little use for gods, instead aligning themselves with universities or wizard enclaves.
+
+Abilities
+
+Artificers, like swordmages or wizards, gained their ability to wield arcane magic through training and practice. However, unlike either, artificers approached magic in an almost scientific way, and manipulated arcane energy through complex patterns of arcane power known as sigils, which they etched onto their weapons, implements (such as rods, staffs, or wands), and other such items for use as components for their spellcasting. If they lacked these components, artificers could simply etch sigils onto a different item for use over a period of extended rest.
+
+Through these sigils, artificers could craft magical items, brew potions, or even infuse themselves or allies with magically enhanced abilities. It was this latter ability that was the most directly applicable to combat, as artificers could use the healing infusion spell to heal the wounds or boost the morale of their allies. Artificers might also call their powers rotes or infusions, though the term "spell" remained the technically correct term for all varieties. An artificer's sigils and training also allowed them to cast rituals, much like wizards or clerics.
+
+Another ability gained by artificers from their unique approach to magic was their ability to replenish a magical item's energy without additional materials. Artificers could do this over a short rest by using their body as a channel for arcane energy, with which they then replenished the item. Their ability to do this was directly proportional to their own experience and intelligence.
+
+The spell-like effects that were closest to the artificer's view of magic were collectively called the school of artifice. As these spells were produced in way very different from conventional casting, it was considered a school of thaumaturgy. It was opposed to the schools of necromancy and enchantment/charm.
+
+Artificer Specializations
+Artificers often focused on specific technological pursuits, preferring to work more exclusively in one field or another. Depending on an artificer's specialization they could develop more fantastic inventions of a given type.
+
+Alchemist
+
+These artificers specialized in combining various substances, compounds, and reagents in order to create spectacular effects. It was one of the more adaptable of artificery disciplines as well as the one practiced furthest back in history. An alchemist's concoctions would often grant amazing powers to themselves or their allies, but could also sap the life force away from their opponents.
+
+Novice alchemists regularly achieved some level of proficiency with their required supplies and learned how to brew experimental elixirs. These draughts granted one of numerous boons to the imbiber and could even heal them of their wounds. Over the course of their career, more experienced alchemists developed more potent version of their elixirs and learned how to incorporate various restorative techniques to heal and restore their fellows. Master alchemists gained superior understanding of revitalization techniques, and had exposed themselves to so many chemicals, over time developed resistances and immunities to acids and poisons.
+
+Artillerist
+
+Some artificers explored more direct methods to solving their problems through invention, by crafting devices that would launch energy projectiles, explosives, and other volatile missiles at others. Their industrious efforts produced spectacular ordnance that were sought out by wagers of war from across the planes.
+
+Artillerists utilized woodcarver's tools to develop and craft spectacular and volatile weaponry. Novice artillerists first learned how to construct and wield eldritch cannons, technological conduits of arcane energy that more–or–less resembled oversized firearms. These magic-infused bombards varied in size and form, ranging from hand-held devices the size of a pistol, to cannons the height of a goblin that had to rest on fabricated legs. In function, eldritch cannons could be made to spout a cone of flame, discharge bolts of force energy, or a blast of rejuvenating positive energy.
+
+Beyond their eldritch cannons, more experienced artillerists developed techniques to repurpose arcane implements―that is wands, rods, and staves―into magical firearms. By utilizing unique sets of sigils, these 'arcane firearms' would function as an artillerist's arcane focus, bolstering the potency of their chosen spells.
+
+As they continued to hone their craft, skillful artillerists fine-tuned their eldritch cannons to make them more explosive. Master artillerists learned how to strategically place their cannons behind forms of cover and even operate two cannons simultaneously.
+
+History
+
+Following the destruction of Lantan during the Spellplague, many of the fallen nation's artificers scattered throughout Faerûn.
+
+Many traveled to the East Rift to explore the ruins that had been unearthed in the wake of the Underchasm's creation, becoming engineers for the dwarven city of Eartheart. Others took to exploring the Underdark for ancient relics and competing against artificers of factions rival to the Church of Gond.
+
+Others became obsessed with studying the fallen civilization of Lantan and sought to recreate its lost technological wonders. Some were so bold as to aspire to one day defeat the sea monster that guarded its flooded ruins.
+
+Appendix
+See Also
+Gnome artificer
+A list of artificer spells
+Appearances
+
+Gallery
+
+External Links
+
+References
+
+Connections
+
+---
+
+## A Reader's Guide to R. A. Salvatore's the Legend of Drizzt
+
+A Reader's Guide to R. A. Salvatore's the Legend of Drizzt is a guide written by Philip Athans in cooperation with R. A. Salvatore which was published by Wizards of the Coast, Inc. in August 2008 to celebrated twenty Years of The Legend of Drizzt Saga.
+The book is a large reference book detailing the characters, items, and locations within R.A Salvatore's novels. Their book is printed in color with numerous detailed maps and illustrations.
+
+Index
+
+Characters
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Deities
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Creatures
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Locations
+Planes
+ •  •  •
+Regions
+ •  •  •  •  •  •  •  •  •
+Landmarks
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+Geography
+ •  •  •  •  •  •  •  •  •   •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+Settlements
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+Roads
+ •  •  •  •
+
+Items
+Magical weapons
+ •  •  •  •
+Magical artifacts
+ •  •  •  •  •  •  •
+Non-magical items
+ •  •  •
+Ships
+ •  •
+
+Organizations
+ •  •  •  •  •  •  •  •  •  •  •  •
+
+Spells
+ •  •
+
+---
+
+## Arangor Obarskyr
+
+Arangor Obarskyr was a king of Cormyr and the father of Azoun II. He was on the throne in 1018 DR.
+
+Relatives
+Arangor's only son was Azoun II.
+
+Background
+In the same year, while attacking a red dragon that had set Suzail ablaze, he was thrown out of his saddle and severely injured.
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Arrayan Faylin
+
+Arrayan Faylin was a female half-orc wizard who lived in Palischuk, in the northeastern region of Vaasa.
+
+Description
+Arrayan's appearance favored her human half of her heritage, however, her features combined the most attractive qualities of all her racial aspects. Her reddish-brown hair was long and soft, flowing as if her face was framed by a soft red halo. She was short, like many orcs, but because of her mixed blood, Arrayan was far from stocky, and had delicate shoulders. Her face was somewhat orc-like, but set with human-like large emerald green eyes, thick lips, narrow angled eyebrows and a button nose.
+
+In 1368 DR, she was in her mid-twenties. She often wears leather breeches and a vest, and a thin belt with several pouches for her spell components, as well as a set of writing components. Sometimes she dons a blue robe of light material over her clothes, held together at her waist by the belt.
+
+History
+Arrayan had human and orc blood in her, and also some elf, so her mother told her. As a teenager, Arrayan learned her wizardly craft in a wizard's tower in Damara.
+
+Around 1368 DR, Arrayan received one of Zhengyi's writings from her uncle, Wingham, to study. However, her life-force triggered the unleashing of the Witch-King's power and the book started to create a replica of Castle Perilous in due course draining Arrayan of her life-force. Arrayan, along with her companion Olgerkhan, and a troupe under command of Ellery Dragonsbane set out to unravel the mystery of book and castle and save her life. Her uncle gave her and Olgerkhan rings of arbitration so that the drain of her life-force could be compensated by Olgerkahn's own. After the defeat of the castle and its dweomers, Arrayan and Olgerkhan returned to Palischuk.
+
+Relationships
+Arrayan had known Olgerkhan for all her life but only during the crisis within the construct of Zhengyi had she come to understand the truth of her feelings for him.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arcane magic
+
+Arcane magic, also called the Art, was a form of magic involving the direct manipulation of magical energy. Practitioners of arcane magic were generally called arcane spellcasters.
+
+Nature of Arcane Magic
+
+It differed from other types of magic such as divine magic because the wielder was tapping directly into the Weave itself.
+
+Arcane magic was created out of manipulation of the Weave.
+
+Manipulating the Weave could be done through such means as magical writings and components, gem magic, circle magic, elven high magic, elemental magic, spellfire and silverfire, and spellpools.
+
+History
+Creation of the Weave
+The original deity of magic, Mystryl, was created from the energy produced in the battle between the deities Selûne and Shar, and was key in providing a balance in this ongoing conflict. Her birth had the effect of creating the Weave, a sort of ethereal layer that pervaded all of space. It was by drawing upon the Weave that mortal creatures were able to use magic.
+
+Mystryl and the Weave could not exist without one another, because she was the "embodiment" of the Weave itself. She acted to repair the Weave, and where action occurred that harmed the Weave, Mystryl was harmed as well.
+
+Karsus's Folly
+
+In, a Netherese arcanist named Karsus prepared and cast a spell called Karsus's Avatar, which proved too great in power for him to control, and caused a massive failure in the Weave. At this time, there was no practical limit to the power of arcane magic or the spells that mortals could use.
+
+Mystryl chose to sacrifice herself to save the Weave, a choice that led to her death, and the subsequent rebirth as Mystra, who was able to repair the Weave, although Netheril was destroyed.
+
+Mystra's Ban
+
+To prevent a similar episode occurring again, Mystra imposed restrictions on magic that used the Weave. Firstly, she banned a number of very high-level spells that she considered too powerful for mortals to use responsibly. Unless the wielder was able to harness epic magic, the limit could not be circumvented. Casters were also limited in the number of spells they could keep in their heads at any one time, therefore further reducing their capability to damage the Weave.
+
+The Magister
+In an attempt to further control the Weave, Mystra appointed a Magister in the form of Azuth, a mortal mage who became deity, and became responsible for the championing of magic.
+
+Time of Troubles
+
+In 1358 DR, during the Time of Troubles, Mystra, in corporeal form, was slain by Helm while attempting to ascend the celestial stairway without the Tablets of Fate, defying the will of Ao.Ed Greenwood (1989). Shadowdale. (TSR, Inc.), p. 21. ISBN 978-0880387200. This caused her "essence" to merge with the land, and subsequently, wild magic occurred in some areas, while the Weave failed completely in others.
+
+A mortal wizard named Ariel Manx, and dubbed "Midnight", took on the mantle of divinity and portfolio of Mystra. She was able to mostly restore the Weave and return magic to normal, and her focus leaned more towards the proper use of magic instead of simply maintaining a balance.
+
+As the new Mystra, Midnight continued to respect those who sought divine magic from her. Midnight's slight leaning towards good became evident, but she did not discriminate, and from her ascendancy onward, she would allow any arcane spellcaster to access the Weave.
+
+Appendix
+
+See Also
+ List of arcane spellcasters
+
+References
+
+Connections
+
+---
+
+## Army of the Lion
+
+The Army of the Lion was a subsection of the Aglarondan army stationed at the fortress Emmech (later Undumor) and tasked with the defence of the nation against the threat from Thay through the Tannath Gap. In 1374 DR it was led by Lord Gante Demelin. Its battle wizards were led by Canton Karlesad, while the Aglarondan griffonriders were led by Captain Araevil Darkeye. A special detachment of the army was assigned to guard the ruler of Emmech at the time: Lady Mantelia Parsuns.
+
+References
+
+---
+
+## Araevil Darkeye
+
+Captain Araevil Darkeye was a star elf fighter, rogue and Aglarondan griffonrider. He commanded the griffonriders based in Emmech (later known as Undumor) around 1374 DR.
+
+References
+
+---
+
+## Arkanuirr Tchallem
+
+Arkanuirr Tchallem (also seen as Tchellem) was a human sorcerer and ruler of the city of Tulmon on the Lake of Steam in 1372 DR. He magically prolonged his life, and in 1372 DR, he was over 300 years old.
+
+Appendix
+
+Notes
+
+References
+
+---
+
+## Armor of darkness
+
+Armor of darkness was a spell available to clerics with the Darkness domain. Earlier versions were the purview of priests of Shar. It armored the subject with shadow.
+
+Effects
+When cast, the spell enclosed a target creature with a cloak of shifting shadows. This cloak afforded the target creature protection from attacks as well as minimal resistance against certain spells and effects, including any good, holy or light spell. The cloak was also able to hide the target creature's distinguishing features. The target creature was able to see through the cloak. The spell also gave the target creature the ability of darkvision. If this spell was cast on an undead creature, they were able to resist being turned.
+
+Components
+This spell required only verbal and somatic components. Later versions of the spell required a divine focus as well.
+
+History
+Armor of darkness was first known to the Nightcloak priests of Shar in Netheril. It remained a secret of the clergy of Shar for centuries. However, by 1372 DR, the clerics of Lolth, Mask, Set, and Shargass had also gained knowledge and use of this spell.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Armor of Agathys
+
+Armor of Agathys, named after the sixth layer of Carceri, was a spell used by warlocks.
+
+Effects
+When armor of Agathys was cast, it created a layer of thick, black ice around the body of its caster, adding to their vitality for several minutes and injuring enemies who came too near with its frigid power. The deadliness of the ice depended upon the durability of the warlock. Armor of Agathys drew heavily on a warlock's power and it could only be cast once per day.
+
+After the Sundering, warlocks could cast it any number of times according to ability.
+
+Stronger Spell
+If cast at higher spell levels, the damage and vitality was amplified.
+
+Components
+The material component was a cup of water.
+
+Appendix
+Gallery
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Arch Wood
+
+Arch Wood was a forest on the northern border of Archendale.
+
+Geography
+Throughout history, the majority of the forest was never been logged. The Arch Wood was a dark, dense forest full of oak, ash, elm, shadowtop and duskwood trees.
+
+Inhabitants
+Owlbears
+People of the Black Blood
+Quamara Keleidsa
+
+Notable locations
+ The Arch Wood had ruins in it including the remains of an old elven school of wizardry.
+ It contained the ruined estate of House Keleidsa, which was guarded by a baelnorn before being taken over by Quamara Keleidsa in the late 14 century DR.
+
+Appendix
+References
+
+FR:Bois de l'arche
+Connections
+
+---
+
+## Archwizard
+
+An archwizard was an arcane spellcaster of extremely high power who successfully claimed a floating enclave.
+
+Requirements
+In order to become an archwizard during the times of Netheril, the arcanist had to:
+ Create a mythallar
+ Carve an enclave from a mountain
+ Construct a city on top of the enclave
+ Claim the enclave
+
+Some arcanists skipped the first steps and gained archwizard status by taking over the city of a floating enclave. Most arcanists, however, followed the course laid out by their peers, going through all four steps.
+
+History
+Ioulaum of Netheril invented the first mythallar in . He achieved archwizard status when he created the first flying city in Faerûn, Xinlenal in . After Xinlenal was afloat, many arcanists of sufficient power strove to make their own floating enclave.
+
+In, the great Karsus was born. 22 years later, he became the youngest archwizard ever known.
+
+Notable Archwizards
+For a list of archwizards, see here.
+ Ioulaum, the first archwizard.
+ Karsus, the youngest archwizard who would become known as "The Archwizard".
+ Buoyance, an archwizard who killed many of his archwizard rivals.
+
+Appendix
+References
+
+---
+
+## Aryselmalyr
+
+Aryselmalyr was an ancient elven kingdom.
+
+ History
+  Because the Deep Netherese enslaved all the Serôsians who wandered near, the High Mages of Aryselmalyr destroyed Deep Netheril by transforming the crystal domes into a substance that burns in water. The subsequent explosion created Saerloon Bay and Selgaunt Bay.
+
+Appendix
+
+References
+
+---
+
+## Aryvandaar
+
+Known also as the Vyshaantar Empire, Aryvandaar was a sun elf kingdom that fell during the Fifth Crown War.
+
+History
+
+First Flowering
+The first settlements of Aryvandaar were founded around  in the area later known as the High Forest.
+
+Control of Aryvandaar was gained by the clan Vyshaan in, under the leadership of Coronal Ivosaar Vyshaan. The Vyshaanti of Aryvandaar claimed a family link to the ruling family of Miyeritar. They then attempted a peaceful annexation of Miyeritar which was resisted.
+
+First Crown War
+Aryvandaar began the First Crown War by invading Miyeritar in . They also put pressure on Shantel Othreier to accept their rule or suffer the same. By  Aryvandaar had fully annexed and occupied Miyeritar though some parts continue to resist. Miyeritar wasn't considered fully conquered until .
+
+Third Crown War
+In  Aryvandaar, now the Vyshaantar Empire, ceased talks with Shantel Otheier and invaded, starting the Third Crown War. Around this time the Vyshaan lords gained a secret patron in Malkizid, a fallen solar. The Battle of the Gods' Theater was fought in, one of the greatest and bloodiest battles of the Crown Wars. Over 70,000 elves died as an orc horde fell upon the battling armies of Aryvandaar and Shantel Othreier. Aryvandaar was victorious and occupied the northern half of Shantel Othreier. Aryvandaar fully conquered Shantel Othreier in, after the death of Coronal Ynloeth, ending the third Crown War. Following this, resistance movements sprang up in Shantel Othreier and neighboring Miyeritar. Shortly thereafter the Dark Disaster occurred, and Miyeritar was destroyed by its killing storms. The histories written by the victorious Vyshaanti claim that Miyeritar was responsible. But in reality the high mages of Aryvandaar caused the killing storms.
+
+ Aftermath
+In, the Nether Scrolls were discovered by Finder, a Netherese human, within the area once controlled by Aryvandaar.
+
+Geography
+Aryvandaar encompassed the High Forest, which in the days of the Crown Wars reached the River Dessarin.
+
+Appendix
+Appearances
+Novels
+
+The Summoning
+References
+
+FR:Aryvandaar
+
+---
+
+## Arcane Power
+
+Contents
+
+Arcane Power is a 4th edition Dungeons & Dragons sourcebook intended as supplementary rules for players playing as characters using the arcane power source, such as wizards or warlocks. It covers all of the officially released classes of the arcane power source, including swordmages, to that point but not later released ones, such as the artificer class. In addition to providing new builds, the book also comes with new feats, rituals, paragon paths, and epic destinies as well as rules for using familiars. Although a book mostly built on game mechanics and rules, also known as "crunch," the book contains a small amount of lore to provide players with a context for their class, such as details on how different races play out different classes.
+
+The book is organized into seven chapters, as follow:
+
+ Introduction - This foreword gives players a brief glimpse at what the book details, as well as how to integrate new material into an already running game.
+ Bards — This chapter focuses solely on bards, introducing the prescient bard build as well as new paragon paths such as the euphonic bow or life singer.
+ Sorcerers — This chapter introduces two new sorcerer power origins, the cosmic and storm sorcerers along with new paragon paths, such as the blizzard mage and the primordial channeler.
+ Swordmages — More options for the Forgotten Realms swordmage class are included here such as the ensnaring swordmage build or sigil carver and sword of assault paragon paths.
+ Warlocks — A new warlock pact, an adaptation of the 3.5 binder class known as the vestige pact, is introduced in this chapter, along with new paragon paths such as the god fragment or storm scorge.
+ Wizards — Two new wizard builds, the illusionist and summoning wizard are presented in this chapter, along with a new implement type, the tome, and a new type of orb. Additionally, new paragon paths such as the arcane wayfarer and rimetongue caller are introduced.
+ Arcane Options — Additional character options are presented here, such as how to use familiars in 4th edition, new feats, and new epic destinies, such as the archlich.
+
+Appendix
+External Links
+
+---
+
+## Arcanaloth
+
+Arcanaloths, or arcanadaemons, were greater yugoloths known for their covetousness of information and arcane power. The sly fiends were the record keepers of the yugoloths and scribes of Gehenna, managing transactions for services rendered in the Blood War.
+
+Description
+Arcanaloths appeared as  tall humanoids with the heads of fanged jackals or war dogs. Protruding out from the top of their skulls was a pair of ivory, whitish horns. They kept themselves well groomed and dressed in immaculate robes, but often wore disgruntled expressions. When conducting negotiations they took on the guise of other humanoids, replacing their hateful snarls with charming smiles.
+
+Personality
+
+Arcanaloths were a relatively civilized breed of yugoloth, possessing both keen minds and silvered tongues. They were business minded and somewhat surly, but were generally truthful and had expertise in manipulation and diplomacy. Their kind had earned a negative reputation for being adulating, avaricious and conniving in their dealings,  and it was true that they viewed all around them as stepping stone to reach the rank of ultroloth.
+
+Unlike most yugoloths, their greed manifested not as a thirst for wealth but a hunger for the power found in knowledge and information. The easiest way to deal with them was to appeal to such greed, whether bluffing or being honest, hinting to them that one had access to esoteric knowledge without being too specific.
+
+Abilities
+
+The claws of an arcanaloth were poisonous and both their fangs and horns could be used in combat. Mind-affecting spells did not work on them due to a combination of their sharp minds and enchanted nature although this did not extend to the use of their true name to force them to obey. They could be harmed only by magical weapons of great enchantment, could magically fly at will and also attempt to summon small teams of mezzoloths, dhergoloths, or another arcanaloth to assist them.
+
+Combat
+All arcanoloths commonly memorized offensive spells but were smart enough to learn spells for defense and escape. They were extremely intelligent and used their spells to maximum effect but avoided hand-to-hand combat despite their poisonous claws.
+
+Society
+Within the feudal hierarchy of Gehenna, arcanaloths were responsible for commanding units of lesser yugoloths while keeping track of their contracts, records, and accounts. Their schemes were not in service to their kind but meant to bolster their own power and reputations, dependent as they were on their careful judgement.
+
+Their role in the Blood War was casual but crucial, as they performed all negotiations between the tanar'ri and baatezu and conducted them with skill born from experience. It fell to them to decide which legions would live another day and those who suffer at the front lines. They employed tactics all the more devious for their transparency, such as openly discussing the offers made by a client's enemies in order to prompt them into outbidding their rivals. Their ability to both speak and read all languages furthered their ability to forge contracts. They could douse the flames of discord and promote peace with the same grace with which they sparked wars. It was not simply the nature of a contract that they arbitered but also the costs of the services, although when it came to themselves they bartered in information and magical items rather than conventional rewards.
+
+Arcanaloths preferred to dwell within Gehenna, only leaving if needed and never for long, as they drew their power from its powerful furnaces. They ruled from their respective baronies from red-iron fortresses scattered throughout the plane. The forts were occupied by small amount of lesser yugoloths that acted as its servants. While the larger keeps contained portals to other planes, with some rumored to reach into the Material Plane, they were warded by pentagrams and other magical protections. Most of their kind dwelt within the Tower of the Arcanaloths located on Chamada, writing the contracts in the blood of some petitioners on the living skin of others. Arcanaloths that were born as opposed to being promoted were more likely to be found there.
+
+Promotion
+To be promoted from arcanaloth to ultroloth was a task unlike any a yugoloth had previously faced. Rather than learning a special lesson an arcanaloth had to figure out how to take the place of an existing ultroloth, making the title incredibly exclusive. Making this task harder was the fact that every ultroloth not only realized this but was well aware of how they themselves rose to power, ensuring an arcanaloth would need to exercise creativity. A direct approach was also unwise as the yagnoloths were under orders by the ultroloths to execute any arcanaloth that tried to rise to power in such an obvious manner.
+
+Ecology
+The Tower of the Arcanaloths was thought to be the focal point of the caste's powers. After becoming an arcanaloth, a yugoloth could focus their mind and access all knowledge within the tower allowing them to gather information on the behaviors of those they had dealt with before, such as treacherousness or determination. However, this search was known to all other yugoloths equal to or higher than an arcanaloth and made their location known to such beings, making it impossible to do a search secretly. Arcanaloths could only be permanently destroyed while on Gehenna, rather than on Carceri or Hades. When this happened, an arcanoloth's accumulated knowledge traveled to the Tower of the Arcanaloths to be absorbed into the racial memory of all arcanaloths.
+
+Like each of the greater yugoloths, arcanaloths could breed only with other members of their caste and produced young arcanaloths. The children were raised gracefully and given lessons in negotiation and diplomacy. In terms of food they were fond of eating bone marrow, partially as a show of disdain and also as an expression of their fiendish role as devourers of life from the inside out.
+
+Within the Book of Keeping was an incantation detailing instructions on how to brew a potion that would grant success in anything. The potion's actual effectiveness was unknown, but it involved a piece of an arcanaloth's heart.
+
+History
+
+Arcanaloths were rumored to have originated within the Abyss but had been driven out by the demon lords due to their deceptive nature. It was also claimed that both the raavastas and rakshasas were the descendants of the arcanaloths, a notion supported by their mutual greed, but quickly dismissed as slander by the more honorable rakshasas.
+
+Notable Arcanaloths
+Aximus and Exekarus, two arcanaloths who managed a shrine to Laduguer on the Terminus Level of Undermountain.
+ Ygga Raxyg, an arcanaloth bound to the Tomb of the Nine Gods by Acererak in the late 15th century DR.
+ Yrkhetep was an arcanaloth who attempted to conquer Chondath and Turmish.
+ Nisviim was an arcanaloth seneschal living in Corpsehaven that had been bound to the Oinoloth Inthracis via knowledge of his true name.
+ An arcanaloth was hired by Halaster to manage the Dweomercore level of Undermountain as its headmaster, while keeping itself disguised as the mad mage.
+ Scrivenscry, a cruel, vainglorious book hunter in search of the Books of Keeping, a collection of tomes that was said to contain the true names of all yugoloths. Its search took it to Ythryn with its awakened albino giant penguin companion, Kingsport, in the late 15th century DR.
+ Fetchtatter was an arcanaloth in Avernus who swore loyalty to Bel in exchange for magic items and spellbooks.
+
+Appendix
+Appearances
+Adventures
+Swords of the Iron Legion • Curse of Strahd • Tomb of Annihilation • Waterdeep: Dungeon of the Mad Mage • Baldur's Gate: Descent into Avernus • Icewind Dale: Rime of the Frostmaiden
+Novels
+The Black Bouquet • Resurrection
+
+Once Around the Realms
+Video Games
+Idle Champions of the Forgotten Realms
+Card Games
+Blood Wars
+Miniatures
+Icons of the Realms
+Licensed Adventures & Organized Play
+Foreign Affairs • The Tower of Ahghairon • Infernal Insurgency • It's All in the Blood
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Arklem Greeth
+
+Arklem Greeth  was a powerful human wizard and later lich and Archmage Arcane of the Arcane Brotherhood of Luskan in the mid-to-late 14 century DR.
+
+Description
+After spending many years attempting to extend his lifespan with powerful spells such as wishes, Arklem Greeth's body was eventually wracked with age.
+
+History
+Arklem had spent much of his very long life searching for the secrets of the greatest magic on Toril, going as far as Mulhorand and Thay, and even to Kara-Tur and Zakhara to delve into arcane lore. It was only in the mid-1300s DR that he came to believe one of his great knowledge and power had a destiny to also rule, and so he sought to extend his control over a significant part of Faerûn.
+
+After an attempted ambush in his bedchambers on the night of Eleint 14 in the  by his lieutenants Eldeluc and Valkebar, after they'd assassinated Arklem's top lieutenant, the Wizard of Green Fire, Arklem fled the Host Tower. During this period Nyphithys the erinyes visited him and offered him the secrets of lichdom in exchange for the Arcane Brotherhood's conquest of the North—a deal which Arklem gladly agreed to. Following his transformation, a devastating clearing out of the Host Tower of the Arcane with the help of his new devilish allies began, setting Arklem back up as the undisputed master of the Arcane Brotherhood and Luskan itself.
+
+During his time as leader of the Arcane Brotherhood, he had a dragonborn apprentice named Morlanth. Arklem sent her to Neverwinter to bring back a necromantic artifact known as the Shroud of Souls, but she never returned.
+
+Fall of the Arcane Brotherhood
+In the, Captain Deudermont rallied an army against the Host Tower of the Arcane in response to Arklem Greeth's funding of the piracy around Luskan. During the battle, Arklem slew Lord Brambleberry of Waterdeep and sent Drizzt Do'Urden to the Abyss for awhile. He then detonated his staff in a cataclysmic release of energy, killing thousands and leaving the Host Tower in ruins.
+
+The following spring, Arklem resurfaced when the High Captains of Luskan united to overthrow Deudermont. Seeking revenge on the captain who destroyed his hold over Luskan, Arklem attacked the Sea Sprite. Fortunately, Arklem was beaten in combat by Robillard, the wizard-protector of Sea Sprite.
+
+However, he was not destroyed and retreated to the graveyards of Luskan aided by mysterious allies where his beloved Valindra Shadowmantle had been returned to life as a lich.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Araumycos
+
+Araumycos (Dwarvish for "Great Fungus") was an enormous fungal growth that lived in the Upper Northdark of the Underdark, and lay beneath the High Forest between the cities of Menzoberranzan and Ched Nasad.
+
+Description
+Araumycos was a huge life form, a single organism that covered almost all the parts of the Underdark beneath the High Forest, beginning at a depth of 1 mile (1.6 kilometers) under the surface and ending at a depth of 3 miles (4.8 kilometers). It was believed to extend from the Shining Falls to the Lost Peaks and from Tall Trees to the Hall of Four Ghosts, wholly occupying the labyrinth of tunnels and caverns that existed beneath the High Forest. But it seemed that it had reached its peak of volume since it no longer grew through other territories by 1372 DR.
+
+It was described as spongy, grey, and humid, similar to the outside of a brain.
+
+History
+The area where Araumycos was located was once mined and occupied by the dwarves of Ammarindar, during the time of the elf realm Eaerlann.
+
+The dwarves of ancient Ammarindar told of how their mines located in the region beneath the elven realm of Eaerlann were abandoned to the slow, inexorable growth of Araumycos. The elves had legends that date back farther still, linking the birth of Araumycos to the fell sorceries of the Vyshaantar Empire, but so little was known of that era, even among the long memories of the elves, that no origin could be conclusively determined. Araumycos was thought by some to be the oldest living creature on Toril; even the gods did not speak of it, and divine divinations regarding the titanic fungus always failed. Some believed that the creature was an avatar of Psilofyr, the lord of the myconid, but this was only a theory.
+
+After the Spellplague of 1385 DR, the rumored awareness of Araumycos was proven. Referring to itself as "King Araumycos", it brought millions of myconids under its domination, and tried to do the same with any sentient creature within hundreds of miles through strange nightmare-dreams (which the drow called golhyrrl' fhaazht or "the Dream Trap") that spoke of the comfort of the mass and the hopeless chaos of individuality.
+
+Abilities
+Araumycos was immune to magic and greatly resistant to psionic energy. Some areas of Araumycos could be attacked with normal weapons or were vulnerable to fire, acid, and other means, but destroyed parts grew back within a short time. Prior to the Spellplague, it seemed that the fungus was unaware of intruders and their destructive ways, but there were rumors telling otherwise. Araumycos had terrible defenses such as poisonous gas and enormous psionic power, and it could manifest slimy creatures similar to oozes. Araumycos could also use spores to dominate the will of victims and emit substances that could animate skeletal remains upon which they clung.
+
+From time to time, without explanation, large sections of Araumycos withered and decayed, revealing ancient, undisturbed caverns. These caverns sometimes contained ancient ruins and were greatly sought after (especially by the Shade Enclave). They were eventually reclaimed, either in hours or centuries.
+
+Locations
+Although Araumycos for the most part completely filled the tunnels it inhabited, a few areas were not entirely covered:
+ Blacktooth Rock: Blacktooth Rock was an intersection of tunnels in ruined Ammarindar named for a large black stalactite that looked like a fang biting into the fungus. The intersection was a layered chamber carved by the dwarves. It was passable but full of Araumycos.
+
+Appendix
+
+Appearances
+
+References
+
+de:Araumycos
+fr:Araumycos
+
+---
+
+## Archfey
+
+Archfey were fey beings who gained nearly god-like powers and established a position of preeminence among fey-kind. Each archfey had a unique appearance and set of abilities, most controlled a portion of the Feywild and had self-proclaimed titles.
+
+Some of them were powerful fey of many races, others were the awakened spirits of natural places such as forests or rivers, others the sentient incarnations of different types of animals, and others were noble eladrin so old and powerful they transcended the bounds of mortality.
+
+Some archfey were regarded as deities and granted divine abilities to their worshipers. Archfey could be contacted by a willing warlock to form a fey pact.
+
+Archfey were difficult to kill, for each one had a nemesis- an item, special condition, or creature- that could slay it, but only the nemesis could destroy them. Nemeses were unique to each archfey.
+
+Notable Archfey
+ Baba Yaga, Mother of All Witches
+ Cerunnos, the Horned Lord
+ Hyrsam, the Prince of Fools
+ Neifion, the Lord of Bats
+ Nintra Siotta, the Princess of Shadow Glass
+ Oberon, the Green Lord
+ The Prince of Frost
+ Psilofyr
+ Queen of Air and Darkness
+ The Stag King, a dark fey who dwelled in Rashemen.
+ Titania, the Queen of the Seelie Court
+ Verenestra the Oak Princess
+ Kannoth, the Vampire Lord of Cendriane
+ Yarnspinner, an enormous spider archfey that is obsessed with stories. He owns Fablerise, a small domain of delight within Prismeer.
+ Zybilna, the Ruler of Prismeer and the patron of the Witchlight Carnival
+
+Additionally, the deities Auril (under the name of Aurilandür), Relkath, Sarula Iliene, and Lurue were considered by some as archfey in the late years of the 15 century DR.
+
+Appendix
+See Also
+The Seelie Court
+The Unseelie Court
+
+References
+
+---
+
+## Aranea
+
+The araneas (sometimes called "werespiders";  ) were a magical race of sentient, shape-changing spider-like creatures inhabiting the Spider Swamp in Calimshan.
+
+Description
+While they were not true lycanthropes, aranea could transform between the appearance of a humanoid and a giant monstrous spider. Their humanoid form was that of a Calishite human, a Calishite half-elf, or, in some rare cases, a drow. The form and gender they could take was fixed at birth.
+
+In their natural form, these creatures appeared to be giant humpbacked spiders with some subtle differences. In this form they also had a pair of short arms ending in many-jointed fingers and double-jointed thumbs, which extended from below their mandibles. Oddly, their brain was not located in their head segment but in a large hump on their back.
+
+Aranea also could take on a third, hybrid form. This form was humanoid, but the aranea bore sharp fangs, had spinnerets in his or her hands, and had four eyes instead of two. On occasion, the hybrid form would also include additional arms, but never more than eight in total.
+
+Abilities
+
+Aranea were inherently magical beings and could cast a certain number of spells much like a sorcerer or dragon could. They preferred illusion, enchantment, and charm spells and avoided ever casting fire spells.
+
+In hybrid or natural forms, aranea had poisonous bites and could throw webs.
+
+Combat
+Aranea tried to avoid combat, but if pressed into it, they would take advantage of their webs and spells, immobilizing or distracting the most powerful opponents first. They would take prisoners and exchange them for ransom rather than killing them.
+
+Trade
+The aranea, in the disguise of human forms, traded silk, herbs, and poisons with nearby settlements, such as Almraiven and Volothamp. In 1370 DR, a group of them worked secretly for the Silverstars Trading Coster of Saradush.
+
+History
+According to legend, the aranea were created by Calishite wizards during the Night Wars to infiltrate the ranks of the drow armies. When the wars ended, the "werespiders" were hunted down and killed or driven into the Spider Swamp. They became a neutral, pacifistic people. Originally, they were only able to change into drow, but after a while, some gained the ability to change into Calishite human or half-elf forms and returned to the human cities incognito as well as spreading out from Calimshan into the wider world. This allowed them to trade their silks, herbs, and poisons with the coastal city of Volothamp.
+
+For a brief time during the Eye Tyrant Wars of the Fifth Age of Calimshan, the aranea ceased their pacifism and joined in the fight against the beholder armies from the Alimir Mountains who were seeking to take over the entire Forest of Mir. The aranea only allied with the Calishite forces long enough to repel the eye tyrants, before the two "allies" turned on each other.
+
+Over 800 years after their banishment, in 290 DR, Qysara Shoon V blamed them for a plague that was ravaging Almraiven. As a result, they were nearly wiped out by Volothamp's military. During this time, some adopted the worship of Zanassu, a demon lord of spiders, for protection and came to inhabit a city that was once called Ajhuutal somewhere in the swamp. The Qysara banished their god back to the Abyss two years later, which led to a gradual degradation of their society while the priests of Zanassu desperately awaited their god's return for the next 1000 years. Unbeknownst to them, Selvetarm had defeated Zanassu and stolen his divine essence, though the aranea remained relatively peaceful.
+
+Rumors & Legends
+Some drow believed that araneas were transformed from drow for failing Lolth, the Spider Queen. Others maintained that araneas were Lolth's first creation before she perfected the drow.
+
+Appendix
+
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
 ## Archenbridge
 
 Archenbridge was the only major town of Archendale, and its de facto capital.  It was the largest and most fortified city of all the Dalelands, as well as one of their most important trading hubs.
@@ -675,6 +3034,569 @@ The Parched Sea
 References
 
 FR:Pontarchen
+Connections
+
+---
+
+## Arcanabula
+
+An arcanabula, sometimes known as an orizon, was the term used for a wizard’s working spellbook; often a hodgepodge of spells (including some that were unusable by the author) and research notes for both the completed spells therein and for spell concepts still in progress.
+
+An arcanabula differed in concept from a "travelling spellbook" in that the latter was generally a distilled copy of one or more arcanabulae, lacking the research notes for the sake of compactness, though most travelling spellbooks with blank pages remaining almost inevitably became aracanabulae.
+
+Description
+Throughout Faerûn, the most common form of arcanabula was the spellbook that every aspiring wizard started his or her career with. This was a well-bound book, approximately 9” × 12” (23 × 30 cm), with leather-covered suthwood front and back covers protecting fifty leaves of well-crafted parchment suitable for writing on both sides for a total of 100 pages. The whole tome weighed in at three pounds (1.4 kg).
+
+The cover material varied widely from region to region. Some were cloth or felt covered, some were uncovered, and some used linen paper or even vellum instead of parchment. Likewise, page counts varied from 25 to 500 pages, though these were commonly purchased and used only after the first one had been filled to capacity.
+
+Commonly, the front cover and/or spine bore the owner’s sigil marked upon it, either visibly or invisibly.
+
+The arcanabulae of an illusionist was often glamered to look like something else. They were typically nondescript, or resembled something other than a book―a gaming board, for instance.
+
+Appendix
+References
+
+---
+
+## Arrow catching
+
+Arrow catching was an enhancement that could be added to magical shields. They were useful defensive items, as they provided an added level of protection against ranged weaponry to the wielder and his or her allies, but diverted ranged attacks were far more likely to hit an arrow catching shield.
+
+Creation
+To enchant a shield with the arrow catching property, the enchanter had to have the spell entropic shield available.
+
+Activation
+The wearer of an arrow catching shield could activate or deactivate the property with a command word. When active, it drew thrown weapons and projectiles to it. An arrow catching shield thus granted the wielder an additional level of defense against ranged attacks.
+
+However, any projectile or thrown weapon that passed within 5 feet (1.5 meters) of the shield-bearer bent in its flight path and targeted the bearer instead. If the bearer was obscured to the sight of the attacker, the attacker's chance of missing was eliminated. This did not hold true if the wearer was under total cover relative to the attacker, or if the projectile or thrown weapon had a higher level of magical enhancement than the shield in question.
+
+Appendix
+Appearances
+Adventures
+Shadowdale: The Scouring of the Land
+References
+
+Connections
+
+---
+
+## Arun Maerdrym
+
+Arun Maerdrym Half-Elven was a half-elf of House Maerdrym from Myth Drannor. He was the father of Khelben "Blackstaff" Arunsun and Phaerl Hawksong by different mothers. He was a member of the Harpers in Twilight from 386 DR.
+
+Description
+Except for his pointed ears, Arun looked almost a twin to his son Khelben with long black hair and a beard. He was a powerful mage.
+
+Relationships
+Arun's wife was Arielimnda. His son was Khelben Arunsun.
+
+Khelben and his father did not have a close relationship. In fact, Arun had only seen Khelben nine times since his seventh birthday, and he rarely had much to say to him.
+
+Arun's first wife Arielimnda was murdered by the vampire Palron Kaeth. He married a second time, to an elven woman,In the prologue of the novel Blackstaff, when Khelben mysteriously arrives to help his father defend his family from the phaerimm, Arun says, "Calarel saw a reunion written in the stars today. What are you doing here, son?" It is possible that Calarel is the name of his new elven wife. with whom he started a family. One of his two children with this woman was a daughter named Phaerl Hawksong.
+
+History
+Arun was born in the  to the elven noble house Maerdrym, the first half-elf ever born to a noble family. Despite this, he was allowed to keep his elven family name.
+
+Arun joined the Harpers in Twilight in .
+
+Arun married fellow Harper, Arielimnda, who was a human ranger. In the, the two had a son. Since the boy was considered human, he was not permitted to take the Maerdrym name. Arun further decided to follow an ancient tradition by not giving him a first name either, instead giving him the freedom to choose his own name once he had earned it.
+
+Arun was killed in 464 DR, while on a journey west across the Sword of Anauroch with his new elven family. While defending them from an ambush of phaerimm, he was joined by his son Khelben, who had been sent there by a dream from Mystra. While in combat with the phaerimm, they learned that the ambush was planned by Palron Kaeth, the vampire who had murdered Arielimnda. She somehow planned to use their blood to destroy the Sharnwall. Arun and his son were low on spells, and inside a protective sphere, they realized that the only way to stop the vampire's plans was to sacrifice themselves. They shared a final moment, in which Arun told his son that he was proud of him and that he wished that he could have learned his name in that lifetime. Arun then struck the Duskstaff of Sarael with his former wife's Lupinaxe, killing them both—and presumably their foe—and transforming the surrounding desert into a crater of glass. Khelben would later be resurrected by Mystra to become a Chosen of Mystra, and he took the name of his father as his last name.
+
+Appendix
+Notes
+
+Appearances
+ Blackstaff
+
+References
+
+---
+
+## Aragrakh
+
+Aragrakh was the second oldest of the Draconic languages, emerging sometime before the First Sundering. It was descended from Auld Wyrmish and a precursor to the Draconic tongue spoken in the Present Age. It boasted many of the same variant names as its precursor. These included Auld Wyrmish, Auld High Wyrmish, Old High Wyrm, and Old High Wyrmish.In many of the cited sources author Ed Greenwood confusingly uses the term "Auld Wyrmish" interchangeably as another name Aragrakh or a distinct precursor language. In order to reconcile these discrepancies, Ed Greenwood's description of Aragrakh as the "later, more everyday and widespread language" is selectively used on this article to infer what sources using the term "Auld Wyrmish" are in fact referring to Aragrakh.
+
+Aragrakh saw more widespread and everyday use than Auld Wyrmish, continuing to see use well into the mid-14 century DR. By 1372 DR, Aragrakh had become considered an "ancient" language that only saw use among wyrms and great wyrms, the oldest ages of dragons.
+
+Speakers
+For much of history, this language was spoken by all varieties of dragons on Toril, acting as a sort of universal language to communicate across species. By the late 14 century DR, when the language had largely fallen into disuse outside of wyrms and great wyrms, among the few younger generations of dragons to study the language were the members of the blue dragon clan Blood of Morueme.
+
+Beyond dragons themselves, Aragrakh was learned by most members of the Cult of the Dragon and sometimes known by sun elves, as many sun elves sought to learn dead languages like Aragrakh so as to increase their access to ancient works.
+
+Auld Wyrmish was also somewhat common as a secondary language among some specialty priests in the Realms, more specifically those who tended towards learning the tongues of dragons or other monstrous creatures. These included the noroghor of Abbathor, the wyrmkeepers of Tiamat, and the wyrmlairds of Tchazzar.
+
+Derivations
+Aragrakh lacked any regional dialects, but the various racial dialects that each dragon species possessed was derived from it.
+
+Dictionary
+O
+Oum Kouram
+"Peerless Ruler"
+Oum Or
+"Supreme One"
+Osvithien
+"Sanctuary"
+Unknown Words
+Auld Wyrmish included a word for "mold".What exactly this word is was never stated within the cited text.
+
+Writing System
+For much of its existence, Aragrakh was written in the same script as its precursor, Old Draconic. At some point the language transitioned into instead using the same draconic script alphabet used by modern Draconic.
+
+Notable Speakers
+ Byrth Moonaxe, an ancient half-dwarf champion.
+ Esklindrar Iol, a human sage.
+ Imvaernarhro, a great wyrm red dragon.
+ Karasendrieth, an adult song dragon.
+ Miirym, a great wyrm silver dragon.
+ Tchazzar, a fiendish great wyrm red dragon and dragon ascendant.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+Connections
+
+fr:Aragrakh (langue)
+
+---
+
+## Arvin
+
+Arvin was a human inhabiting Hlondeth during the 14 century DR.
+
+ Description
+Arvin used his easily forgettable appearance to his advantage, slipping between the cracks of society. He has short, had dark hair and wore a clay cat's eye bead around his neck.
+
+Background
+Arvin was orphaned at a young age when his psionicist mother died of a plague. He spent his later childhood and adolescence at an orphanage headed by the priests of Ilmater, weaving ropes. He later took to the streets of Hlondeth where he was intercepted and put to work by the local thieves guild, making magical ropes exclusively for their use. Arvin was kidnapped by The Pox and poisoned. The yuan-ti, Zelia neutralized his poison and coerced him into spying for her. They discovered that Arvin was able to manifest psionic powers such as the ability to charm and to move small objects with his mind.
+
+Appearances
+ Venom's Taste
+ Viper's Kiss
+ ''Vanity's Brood
+
+ References
+
+---
+
+## Araldyk
+
+Araldyk was a helmed horror directly under the control of the mage, Yather Indaglol.
+
+Personality
+Being a mindless helmed horror under control of a wizard, Araldyk was silent, attentive, and menacing.
+
+Activities
+The floating suit of metal armor, Araldyk, worked at Yather's tavern, the Helm at Highsun, in Red Larch. Araldyk served as waiter, usher, bouncer, and occasionally a cloak rack. Araldyk also enforced the tavern's motto, "No one bothers you at the Helm."
+
+Appendix
+Appearances
+Sourcebooks
+The North: Guide to the Savage Frontier
+Volo's Guide to the North
+
+References
+
+---
+
+## Arcturia
+
+Arcturia was a female lich or half-fey human worm that walks and one of Halaster Blackcloak's apprentices, who were collectively known as the Seven. She resided in Arcturiadoom, deep in Undermountain.
+
+Description
+Through much magical experimentation, Arcturia had transformed her human appearance into that of a beautiful one with sylph-like wings and fine scales of blue to protect her body.
+
+However, after her death during Halaster's Higharvestide, she was once more transformed through her carefully prepared contingency magic into a worm that walks. Her true form became one of a vile undead amalgamation of worms, though she would wear a mask to hide her inner appearance.
+
+Personality
+Put simply, Arcturia was a lonely madwoman. She viewed other humans and demihumans as creatures that could be physically improved upon and set the task for herself. When it came to other wizards, she viewed them as carriers of magic for her to take in order to increase hers. The exceptions to this rule were those wizards who did not just meet her standards of attractiveness but were also a lot more powerful than her in an obvious way. Arcturia tried to counter her loneliness by trying to get romantically involved with such a wizard. That said, her initial reaction to hostile encounters was to try to kill first. The reason was that she valued her life and her lifework more than trying to solve her loneliness problem.
+
+Arcturia was the most ambitious of the Seven, which did not mean that she was also the most powerful, that position was taken by Trobriand. She was infatuated with her master Halaster to the point of desiring to marry him, something she kept secret. The Mad Mage getting increasingly mad and hostile to others was the reason why she went mad.
+
+Since Arcturia's death and transformation into a worm that walks, she became far more measured in her activities and began to carefully plan and place contingencies for all eventualities.
+
+Abilities
+She was a particularly dexterous individual and combined with aforementioned blue scales, it was hard to physically hurt her. Another speciality about her body were her elbows. Arcturia grafted some bone spurs, which she used to attack people she flew by. Magic also gave her some regenerative capabilities.
+
+Possessions
+She wore at all times a powerful ring of protection. When she was wandering around in Undermountain, she equipped herself with a wand of polymorph and a +4 dagger.
+
+Throughout Undermountain, she owned well-stocked laboratories.
+
+Activities
+Arcturia magically tinkered with other people's bodies. She did so also with her own but she did this only when there was no other body at hand.
+
+Relationships
+Arcturia once secretly loved Halaster, her master in magic, and her mind could not handle that he grew increasingly more hostile towards her as his madness grew, so she went mad too.
+
+She always had a retinue of bodyguards of at least three and a dozen at most. These bodyguards were her experiments. They often sported physical specialties like an additional tentacle or wings.
+
+History
+In 168 DR, Arcturia arrived with Halaster Blackcloak and the other members of the Seven at Mount Waterdeep, where they constructed Halaster's Hold. She dwelt here for many years, studying and residing in one of the many lesser towers that ringed Halaster's.
+
+As Halaster spent more time in Undermountain instead of his tower, he eventually lured Arcturia and the other apprentices into the dungeon where they were tested by Halaster's creations. By 307 DR, Arcturia had broken ties with Halaster and established a domain of her own in Arturiadoom.
+
+On the morning of Highharvestide, in 1369 DR, Arcturia was slain by four frost giants after members of the Twisted Rune captured Halaster and sent the magic of Undermountain awry. Despite her death, she still managed to kill two of the giants and was able to activate her contingency magics to remove her corpse and left an illusion of her dead body instead.
+
+After her body was returned to her sanctuary, she rose as an undead creature known as a worm that walks. However, she was later reported to have become a lich.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Army of Gold
+
+The Army of Gold was the name of the expedition of gold dwarves that set out from the Great Rift to reclaim the glory of Deep Shanatar, the lost kingdom of the shield dwarves.
+
+History
+In the caves of Taark Shanat, the Army of Gold entered into the War of Gold and Gloom with the gray dwarves of the Underspires around 1369 DR. As of 1372 DR, the fighting between the Army of Steel and the Army of Gold still raged.
+
+References
+
+---
+
+## Army of Steel
+
+Army of Steel was the name for the duergar army from Underspires that clashed with the Army of Gold in the caverns of Deep Shanatar, the lost kingdom of the shield dwarves.
+
+History
+In the caves of Taark Shanat, the Army of Steel fought the gold dwarves from the Deep Realm around 1369 DR in the War of Gold and Gloom. As of 1372 DR, the fighting between the Army of Steel and the Army of Gold still raged.
+
+References
+
+---
+
+## Arathluth
+
+Arathluth was a malaugrym of the 14 and 15 centuries DR.
+
+Abilities
+Unable to fly in air, he disliked winged shapes; having no magic power of his own, he collected magic items to empower him.
+
+Activities
+Circa 1372 DR, he was believed to reside in Amn and was impersonating a human merchant. Known aliases included "Ulstult" and "Imbar".
+
+By 1479 DR, Arathluth was on Sword Coast posing as a merchant or a mercenary and had added to his known aliases "Gahnek" and "Napid".
+
+Appendix
+
+References
+
+fr:Arathluth
+
+---
+
+## Arathane
+
+Queen Arathane was a stormsoul genasi and the ruler of Akanûl in 1479 DR.
+
+Appearance
+Arathane was a stunningly beautiful genasi with lavender skin. Unlike other genasi of Abeiran descent, her silvery szuldar lines were almost non-existent.
+
+Relationships
+Personal
+Arathane was the daughter of Cyndra, and she was also the aunt of Carmenere. As of 1479 DR, she was approaching her fourth decade of life, remaining unmarried, and was besieged by would-be suitors. Arathane was in no hurry to bear a successor, as both her mother and grandmother bore children late in life.
+
+Political
+Arathane was considered a fair and just ruler by her subjects, and praised publicly for continuing the policies of her mother, although she had a difficult relationship with the nobility and was frequently opposed by the Four Stewards. Queen Arathane was always searching for alternatives to circumvent the "Covenant of Stewardship", such as secretly endorsing and employing the Firestorm Cabal.
+
+History
+Arathane became Queen of Akanûl in 1469 DR, after succeeding her mother, the late Queen Cyndra.
+
+In 1479 DR, Aoth Fezim of the Brotherhood of the Griffon sought out Queen Arathane to convince her to not give her support to Tchazzar in the invasion of Tymanther, however he was unable to convince Queen Arathane to not attack the dragonborn. She changed her opinion later, when Aoth and members of the Firestorm Cabal killed the gray dragon Vairshekellabex.
+
+That same year, she indirectly aided the deva Demascus to deal with Murmur and the cult of the Elder Elemental Eye in Airspur. In Leafall of 1479 DR, Queen Arathane asked Demascus and Riltana to investigate potential trouble at an arambarium mine on Ithimir Isle off the coast of Akanûl. She later went to Ithimir Isle alongside Demasccus, Riltana, Chant and Jaul Morven and fought Chenraya Xorlarrin and her minions. Unfortunately, the drow were able to transmute the arambarium into a staff and escape. The group traveled back to Airspur and entered a portal to the Demonweb Pits in the catacombs just as Chenraya was completing a ritual to open a gate to Menzoberranzan.  Demascus interrupted the ritual and grabbed most of the arambarium staff from Chenraya as she entered the gate.
+
+Rumors
+It was rumored that Arathane had a secret on-again-off-again affair with one of the commanders of the Firestorm Cabal, that would endanger both of them if it became public knowledge.
+
+Appendix
+Appearances
+ The Spectral Blaze
+ Sword of the Gods
+ Spinner of Lies
+
+Notes
+
+References
+
+---
+
+## Argentor
+
+Argentor was a village of earthsoul genasi located in southern Tethyr within the Mir Spires.
+
+Description
+The village's dwellings were hollowed out from the spires by the genasi using their innate ability to shape rock.
+
+History
+In 1479 DR, Argentor was attacked by minotaurs sent by the ruler of Calimport to abduct his long lost son, Cephas, who was traveling with a circus giving a performance at the village.
+
+References
+
+---
+
+## Ariella Kulmina
+
+Ariella Kulmina was a Windsoul genasi swordmage from Airspur.  In 1479 DR she traveled with a delegation from Akanûl to Almraiven.  While in Almraiven she became friends with the Earthsoul genasi Cephas and taught him how to manifest as a Windsoul.
+
+Appearance
+Like many Windsouls, Ariella has silver skin.
+
+References
+
+---
+
+## Archon (disambiguation)
+
+"Archon" can refer to:
+ Celestial archon, a member of an elite group of lawful good celestials,
+ Elemental myrmidon, a member of an elite group of usually chaotic evil elementals,
+ Elemental archon, a worshiper of one of the elemental lords who gained the powers of one of the four elements, or
+Another name for the gemstone Blue John, a low-grade variety of fluorspar.
+
+---
+
+## Arkaiun
+
+The Arkaiun were a human ethnic group residing primarily in Dambrath but also in Halruaa and the Shaar. Arkaiun culture was formed through the interbreeding of Nar refugees from Shandaular and Illuskan tribes. As of the, the Dambrathan Arkaiuns lived as servitors of the half-drow Crinti. The Arkaiuns were called the Shebali, or "lower ones", by the Crinti.
+
+Etymology
+Scholars debate the true etymology of the name "Arkainun". Some claimed that it translated into Common as "people of the wind". Others argued that they took their name from the mythological king of Ashanath, Arkaius the Archmage.
+
+Description
+
+Arkaiuns tended to be short and swarthy with black or dark brown hair. They originally had very fair skin, but most Arkaiuns had mixed bloodlines by the late 14 century, leading to tanned skin.
+
+Society
+Arkaiuns living in Dambrath were considered second-class citizens and often worked at manual labor. Outside Dambrath some traditional Arkaiuns continued to live a nomadic lifestyle.
+
+Horses were very important to Arkaiun culture, and nearly every child learned to ride one before his or her fifth birthday.
+
+Religion
+In 1374 DR, Arkaiuns in Dambrath were forced to worship Loviatar or Lloth. Those living outside Dambrath often worshiped Tempus and sometimes Malar.
+
+Language
+The original language of the Arkaiuns seems to have been Akalan, one of the Akalaic languages, and most of the Arkaiuns in Dambrath still spoke that tongue. Arkaiuns living in Dambrath also spoke Common and Dambrathan, which was a creole. Only a small percentage were literate. Second languages sometimes spoken included Illuskan, Halruaan, Shaaran, and Undercommon.
+
+Arkaiuns living in the outlaw Swagdar wastes spoke a dialect of Akalan called Swag creole.
+
+Combat
+Arkaiuns favored ranged weapons, because of the open grasslands in their homelands, such as crossbows, javelins, and slings. For melee weapons, they tended to use daggers, short swords, and rapiers. Because of the temperature of the south, the Arkaiuns rarely wore heavy armor or heavy shields.
+
+History
+
+The Arkaiuns could trace their origins to the fall of the city of Shandaular in Ashanath in the far north in . Refugees from the city fled through a portal to the Council Hills area in the Shaar. Their king, Arkaius the Archmage, remained behind to close the portal, and it is from Arkaius that they supposedly took their name. For several centuries, the Arkaiuns roamed the Council Hills region, interbreeding with a lost tribe of Illuskans.
+
+The Arkaiuns, under the influence of the demon lord Eltab, attempted an invasion of Unther and Mulhorand in the . After Eltab's defeat in the, the Arkaiuns were harried by the armies of Unther and Mulhorand over the next seven years, eventually fleeing south from the Council Hills in the  to the Bay of Dancing Dolphins. In the ninth century DR, the Arkaiuns discovered the Underdark and attempted to capture a drow city. Instead they were enslaved by the drow and lived as servants of drow and half-drow thereafter.
+
+Notable Arkaiuns
+ Reinhar I
+ Reinhar II
+ Reinhar the Foolish
+
+Appendix
+
+See Also
+ Images of Arkaiuns
+
+References
+
+Connections
+
+---
+
+## Arlgolcheir
+
+Arlgolcheir was a demon lord trapped in The Wells of Darkness.
+
+Description
+All that was left of Arlgolcheir was a pile of rotting, oozing flesh that continuously seeped from his well of darkness as the Abyss tried to resurrect him. Abyssal ghouls and chasmes fed upon this flesh, and if it were not for their activity Arlgolcheir would indeed eventually regenerate.
+
+Anyone who looked into the perfectly still pool of inky blackness would perceive what was likely Arlgolcheir's living form: a scaly, corpulent person with a three-pronged horn growing from the end of an elongated snout. However, the image also appeared pale and lifeless, and was unresponsive.
+
+History
+Arlgolcheir once made a pact with the demon lord Ahazu in for power, pledging his body and essence if he ever died on another plane. He rose quickly in power after that, soon becoming a minor demon lord.
+
+However, Laeral Silverhand found an amulet tied to him and, after calling Khelben Arunsun and Alduth of Neverwinter by sending, the two mages gemjumped to her by way of a pair of rogue stones she was carrying, and all three were ready to fight when Arlgolcheir appeared. He was subsequently destroyed.
+
+Arlgolcheir was then drawn to and trapped in a well of darkness as the second part of his foolish pact came into effect.
+
+Appendix
+References
+
+---
+
+## Arvin Kothonos
+
+Arvin Kothonos was the Guildmaster of the Merchants' Guild of Ravens Bluff in the mid–14 century DR.
+
+Description
+At age 46, Arvin was 5 feet 9 inches (1.7 meters) tall and weighed 205 pounds (92.9 kilograms). In his younger days, he was 40 pounds (18 kilograms) lighter. He wore expensive clothes and was always neat and clean shaven.
+
+Personality
+Arvin was known as an affable and jovial family man but was a skillful negotiator (mostly due to his medallion of ESP) and would skate around the edges of the law to ensure profits. However, he was a poor planner and secretly depended on his wife Charlotte for ideas and advice on major decisions. He would "sleep on it" if the matter was very important and then go home and describe the situation to Charlotte and get her insight. In addition, Arvin had a checkered past and would go to any lengths to conceal it.
+
+History
+Before coming to Ravens Bluff, Arvin was the pirate captain Garnet Smithson and he was a wanted man, although most people who knew of him had written him off as lost at sea by then. Garnet wore a full beard, which was why Arvin was adamant about staying clean shaven. Once, when a former henchman came to town, Arvin spotted him first and arranged for the Thugs' Guild to bump him off while Arvin was on an extended "trading venture" to establish an alibi. Arvin began his new life in Ravens Bluff as the head of the Blue Star Trading Company and, with his medallion of ESP, was able to quickly establish a thriving business.
+
+He joined the Merchants' Guild and worked his way up to Guildmaster, chairing the Council of Ten and representing the guild before the Council of Lords. He depended heavily on his magical medallion to keep himself one step ahead of everyone else and able to cover up questionable dealings and unethical practices. However, the Regent of the Harbor, Lord Calvin Longbottle, suspected that the guild was behind several unexplainable accidents that resulted in the sinking of non-guild ships, but he had no solid proof as of 1356 DR. He knew for sure that guild ships often violated harbor regulations in several minor ways.
+
+Relationships
+Arvin married Charlotte in 1342 DR and they had two children Biff and Miriam. Arvin needed his wife's advice to help him shrewdly navigate the legitimate ways of doing business and would do anything to protect her.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Ardanac Harpell
+
+Ardanac Harpell was the chief family elder of the Harpell family and spokesman for the town of Longsaddle in the Savage Frontier of Faerûn.
+
+Personality
+The son of Adanac Harpell, Ardanac was the only Harpell who could deal with the stress and headaches of the local politics or the doings of the world around them.
+
+Relationships
+The wizard was a member of the Lords' Alliance.
+
+History
+By 1358 DR, Ardanac lived in the Ivy Mansion, the Harpell's ancestral home, high on a hill in the center of Longsaddle.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arrath Vir
+
+Rath was a dwarven monk who lived in Waterdeep in the late 1470's DR.  Rath's true name was Arrath Vir but he was known to nearly everyone simply as Rath.  He despised dwarven culture and turned his back on his people and his gods.
+
+Description
+Rath wore his face clean shaven which was very unusual for a dwarf and often caused other dwarves to challenge him.  He was very handsome for a dwarf and fastidious about his appearance. One side of his face was severely burned by Ilira Nathalan but Rath had it partially healed. Rath wore a heavy black robe at all times.
+
+Abilities
+Rath was an expert at unarmed combat and was able to move with preternatural speed and grace. He carried a light blade of masterwork quality, which he refused to use against all but the most worthy of opponents.
+
+History
+Rath left his clan at an early age and trained at a monastery deep under a mountain.  Once he learned all he could he slew his masters and traveled to Waterdeep where he began working as an agent for Lilten, the high priest of Beshaba. In 1479 DR, at Lilten's request, he killed a high ranking priestess of Sune named Lorien Dawnbringer, in her chambers but was seriously wounded by Lorien's friend Ilira Nathalan. Shortly thereafter, Lilten hired him to kidnap a powerful young wizard named Myrin. Rath was successful in his mission but gave Kalen Dren clues to his location because he wanted to duel the young paladin. Kalen was able to defeat Rath by knocking him off a roof but spared Rath's life by turning him over to the city watch. Rath served time in the Waterdeep dungeon. Later he was one of the inmates of Helm's Hold in Neverwinter. He spent his time meditating to atone his sins.
+
+Appendix
+References
+
+---
+
+## Arrhenish
+
+Arrhenish was a sweet Cormyrian wine. Although it was popular in the royal court, connoisseurs thought it was swill.
+
+Appendix
+
+Appearances
+Novels
+Elminster Must Die • Fire in the Blood
+References
+
+---
+
+## Archon (hardstone)
+
+Archon was a valuable hardstone found in Faerûn. It was also called Blue John.
+
+Description
+Archon was a low-grade fluorspar that was blue to purple and banded with white. Large specimens were used for carving because it was soft and easy to work. A typical price was 2 gp per lb (0.45 kg).
+
+Powers
+Archon gave off a faint greenish glow if a magically invisible creature or object came within 20 ft (6.1 m). This hardstone was only sensitive to magical invisibility, not creatures on the Ethereal plane or merely in disguise.
+
+Appendix
+See Also
+ Fluorspar
+Notes
+
+External Links
+
+References
+
+---
+
+## Arclath Delcastle
+
+Arclath Delcastle was a noble in Suzail and the heir of House Delcastle. He was sometimes referred to derisively as the "Fragrant Flower of House Delcastle", owing to his family's penchant for floral designs in their mansion.
+
+Relationships
+Arclath had a frosty relationship with his mother, who seemed more interested in being pleasured by young men than in the family business. His father was a drunkard who cared for little more than drink. Arclath and Amarune became lovers.
+
+Initially, Arclath was extremely suspicious of Elminster, whom Amarune voluntarily allowed to possess her body. Later, Arclath came to trust the Sage of Shadowdale and even allowed Elminster's spirit to inhabit his body too.
+
+History
+Arclath spent his free time visiting various private clubs, especially those that featured mask dancers. In 1479 DR, at the Dragonriders Club, he fell in love with a mask dancer named Amarune Whitewave, who was Elminster's great-(great?)-grandaughter.
+
+In the days prior to King Foril's Dragon Council, Arclath and Amarune blundered around Suzail, slowly uncovering a plot by Manshoon and his flunky Marlin Stormserpent to destroy Elminster and seize the crown for Manshoon. Later, they helped Elminster restore the Simbul to sanity.
+
+In 1487 DR, at the request of Elminster and Storm Silverhand, Arclath accompanied Storm and Amarune to join the battle for Myth Drannor on the side of the elves, fighting a mercenary army under the command of the Shade Enclave.
+Appendix
+Appearances
+
+References
+
+---
+
+## Arcadia
+
+The Peaceable Kingdoms of Arcadia  was the Outer Plane representing alignments between lawful neutral and lawful good in the Great Wheel cosmology model. Some characteristics of this plane were ascribed to the World Tree cosmology planes of Dwarfhome, House of the Triad, and even Dweomerheart when that cosmology became popular. Dwarfhome and the House of the Triad (which became known as Celestia) survived the Spellplague and became part of the World Axis cosmology. Dweomerheart was destroyed at the start of the Spellplague.
+
+Description
+Arcadia connected to Seven Heavens, Nirvana, and Concordant Opposition by portals made of either white ivory or black steel, shaped like flower trellises. These portals were few in number but rested at fixed locations in the first layer. Little is known about the other two layers.
+
+Abellio
+
+Abellio was the first layer of Arcadia in the Great Wheel cosmology. An endless stretch of orderly plains dotted with a few mountains and hills, it contained the divine realms of Clangeddin Silverbeard and Marduk.
+
+Buxenus
+
+Buxenus was the second layer of Arcadia in the Great Wheel cosmology. It contained the divine realms of Azuth and Savras, as well as Heliopolis, the shared divine realm of Horus-Re, Isis, Osiris, and Ra of the Mulhorandi pantheon.
+
+ Nemausus
+
+In the Great Wheel cosmology, Nemausus was moved to Mechanus and was no longer the third layer of Arcadia.
+
+Orb of Day and Night
+The Orb of Day and Night was a great sphere perched atop Arcadia's highest peak, with one half glowing and the other half dark. It rotated evenly and continually, at all times illuminating one half of the infinite plane and leaving the rest in natural darkness. This caused day and night in Arcadia, though there was no twilight, just day and night.
+
+Inhabitants
+The trees of Arcadia were truly extraordinary, flourishing in meticulously arranged forests and evenly spaced orchards. Their bark, shimmering like metal, varied between copper, gold, silver, or iron, depending on the species. Their foliage, ranging from deep greens to fiery reds, remained ever-present, resembling Prime planar trees that did shed their leaves, though these never did. The enchanted fruit they bore was perpetually available, possessing magical properties. Once harvested, the fruit retained its potency for one to ten days before inevitably spoiling, regardless of preservation efforts, and granted effects akin to random magical potions.
+
+Many woodland creatures roamed the mountains, hills, forests, and fields of Arcadia. They resembled Prime Material creatures except for their coloring, which was metallic like the trees, and their eyes, which were white without iris or pupil. Examples included copper colored rabbits, golden foxes, and sheep with silver wool. Organized, hive-dwelling insects such as ants, bees, and wasps were also found in this plane. None of the animals could speak but all were peaceful in nature and native to the Outer Planes so they were unaffected by magics that usually worked on Prime Material creatures. In addition, their eyes allowed them to see through any illusion and the more intelligent animals could be trained into superb watch beasts.
+
+The primary inhabitants of Arcadia were the spirit legions formed from the souls of good and lawful warriors, much like their evil counterparts in Acheron. Other sentient creatures that dwelled in Arcadia included hollyphants, planetars, foo creatures and the occasional deva. It was not uncommon to see creatures from neighboring planes visiting: shedu, greater and lesser lammasu, and ki-rin for example.
+
+Realms
+ Azuth the High One, Patron of Magic Users, once had a realm sharing his name on the layer of Buxenus.
+ Clangeddin Silverbeard, the dwarven Father of Battle once commanded an impenetrable fortress carved out of a mountain located near the peak that held the sphere of day and night. It was said that this mountain redoubt was big enough to house all the dwarves on the Prime Material Plane.
+ Marduk the Valiant of the Untheric pantheon once made his home also named Marduk in Arcadia in a simple but well-ordered large city.
+ The three Mulhorandi deities Horus-Re (and Ra before himIn Planescape material, Ra had Thekele-Re as his realm, while Horus roamed all of Heliopolis. According to Powers & Pantheons, Horus-Re, who emerged after the death of Re, Mulhorandi incarnation of Ra, ruled Thekele-Re.), Isis and Osiris shared a realm called Heliopolis on the second layer, Buxenus.McComb, Colin, and Wolfgang Baur. Planes of Law. Arcadia, pp. 18-21. Lake Geneva, WI: TSR, 1995
+ Savras the All-Seeing resided in the caverns called the Eye on Buxenus.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
 Connections
 
 ---
@@ -977,6 +3899,200 @@ Connections
 
 ---
 
+## Arabeth Raurym
+
+Arabeth Raurym was a female human sorcerer, an Overwizard of the Host Tower of the Arcane and Master of the South Tower. She was responsible for the Brotherhood's operations in the southern quadrant of Faerûn. She was also the eldest daughter of Elastul Raurym, Marchion of Mirabar.
+
+Description
+Arabeth's stature was average but she bore a striking mane of reddish-brown hair that reached down to her waist. She tended to wear clothing that complemented her abilities as a spellcaster, with numerous storage spaces for her spell components. During her journeys to the lands south of Luskan, Arabeth would garb herself in clothing that matched whatever culture she would be encountering.
+
+Abilities
+During her misspent youth in Mirabar, Arabeth developed skills in burglary and selling stolen goods. By 14, she had already manifested sorcerous powers and by 18 she had enough skill to defy her father, the Marchion of Mirabar, and evade his guards long enough to reach Luskan. Eventually her ability with magic was considered enough for her to become an Overwizard of the Arcane Brotherhood.
+
+History
+Born in 1345 DR, Arabeth was the eldest daughter of Elastul Raurym, Marchion of Mirabar. Aware from a young age that she was likely to be married off as soon as able, Arabeth quickly grew to loathe her parents. Her initial rebellious attitude soon fermented into dallying in the less savory part of Mirabar and even joining a gang of youths involved in burglary, fencing stolen goods, and worse.
+
+By the age of 14, in 1359 DR, Arabeth began to develop powers of sorcery, which caused ever-greater conflict between herself and her parents.
+
+In 1361 DR, when Arabeth had reached 16 years, her parents decided to address her increasingly provocative behavior and sent her to Waterdeep to study under a wizard cousin of Arabeth's. Though her parents had hoped tutelage by her cousin would tame her magical outbursts, her cousin instead encouraged it, letting her defiance and mastery of sorcery grow.
+
+However, in 1363 DR, just when Arabeth turned 18, her father, Elastul Raurym, called for Arabeth's return to Mirabar to prepare for her marriage to a young noble he had selected for her. Arabeth maintained a pretense of decorum and complied with her father's wishes up until the wedding day. On that day, she destroyed the entire ceremony with an unleashed torrent of magic and fled. For the rest of the year, she ran from the numerous hired soldiers of her father until she reached Luskan and found protection among the Arcane Brotherhood.
+
+By 1372 DR, at the age of 27, Arabeth had worked her way up the ranks of the Arcane Brotherhood to become the Master of the South Tower and an Overwizard.
+
+References
+
+fr:Arabeth Raurym
+
+---
+
+## Ari Marmell
+
+Ari Marmell (born March 22, 1974) is an American novelist and freelance role-playing game writer.
+
+Marmell has worked on many Dungeons and Dragons books including Tome of Magic 3.5, Draconomicon: Chromatic Dragons and the Neverwinter Campaign Setting
+
+---
+
+## Arush Vayem
+
+Arush Vayem was a small, isolated walled village located on the frontier of Tymanther in an unmapped region of the Smoking Mountains.
+
+History
+Arush Vayem was a remote village unknown to most people. It was a home for misfits, exiles and outcasts, and had a number of tieflings among its population. It also had one of the few "natural" portals that connected the worlds of Toril and Abeir.
+
+Notable Residents
+ Farideh
+ Havilar
+ Mehen
+ Caisys the Vicelord, a warlock of the Toril thirteen
+
+Appendix
+References
+
+---
+
+## Arrow demon
+
+Arrow demons were valued tanar'ri made specifically to fight in the armies of the Abyss. Although dangerous on their own, their true power came into play when working with others, whether demons or otherwise.
+
+Description
+Emaciated, but possessing unnatural strength for its frame, arrow demons stood about  tall and weighed . An arrow demon's body was also completely hairless, with gray skin that felt like cured leather, but it also had a strange wetness to the touch.
+
+Otherwise humanoid, an arrow demon's remarkable feature was its four arms, with which it could simultaneously wield two large longbows with deadly expertise. Despite being not much taller than an above average human, their legs were long and wiry with four-jointed toes that clenched onto the area which they stood.
+
+ Personality
+Possibly more than any other demons, arrow demons understood the virtue of teamwork. Individuals were easily outranked by a variety of other demons, and as such were forced to follow their commands. However, when in large enough numbers, arrow demons knew that they were instrumental enough to their masters plans that they could challenge demons normally above their station.
+
+Because of their existence as warriors and dependency on group status to survive, arrow demons clearly understood that making themselves useful was their best road to longevity. This understanding of group survival was not to be mistaken for altruistic behavior, as they were still thoroughly demonic. Arrow demons were cruel, cold-hearted, creatures that spat upon concepts like hope and goodness.
+
+Abilities
+Arrow demons were masters with a bow, as one might expect, capable of firing weapons too big for creatures of their size to normally wield and easily making close-up shots. Not only did they wield two bows in perfect unison but they also possessed a short-range teleportation ability. If lacking in help, they could attempt to summon a small pack of dretches to act as meat shields or a second arrow demon to assist them.
+
+Combat
+Arrow demons were fielded by their commanders in large units where they did what they did best and rained huge numbers of large arrows down on their foes. They were often shielded from melee combat by masses of demonic fodder, allowing them to concentrate on firing off as many shots as they could. When in smaller groups, arrow demons made extensive use of their ability to cast dimension door to maximize their damage potential while minimizing the wounds they suffered.
+
+More often than not, arrow demons carried quivers of arrows set with heads made from alchemical silver, adamantine, and/or cold iron to overcome the resistances of their most commonly-encountered otherworldly enemies.
+
+Society
+Perhaps due to their purpose as a warrior race, arrow demons preferred to fight in orderly legions with several hundreds of their kind. The Abyssal archers, once exclusively serving as warriors, were later given missions outside of outright warfare by their masters.
+
+Summoning
+Higher caliber demonic summoners could conjure arrow demons by sacrificing their ability to call the recruiters known as babaus, sacrificing a ruthless spy for a battlefield dominating archer.
+
+History
+Though originally found only in the Abyss, Avernus, and the Blood Rift—where the Blood War was most commonly fought—they later spread to the rest of the Lower planes, crossing planar borders when the Blood Rift moved close enough to bridge them. This meant that these demons could be found in the Barrens of Doom and Despair, the Dismal Caverns, the Demonweb Pits, Fury's Heart, Hammergrim, Nishrek, and the Supreme Throne. Conjurers were also to blame for bringing arrow demons to Faerûn with summoning spells.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Argent Legion
+
+The Argent Legion was the state army of Luruar.
+
+Activities
+Formed in an attempt to ensure the safety of the smaller settlements of Luruar, the Argent Legion's forces were drawn from the various armies maintained by the more powerful city-states of that nation. Its purpose is to patrol Luruar's territory and garrison its settlements.
+
+Base of Operations
+Based in Rauvinwatch Keep, which stood roughly 15 miles west of Silverymoon, the legion maintained a force of 400 troops (mostly dwarves) who spent their time either training or going out on patrols with the Knights in Silver. The other half of the Legion were stationed in or around Citadel Felbarr (100 dwarves, 100 Knights in Silver) and Sundabar (200 soldiers), which had both seen heavy fighting prior to the formation of the Legion. A force of 50 Legionnaires were also stationed in Jalanthar as it was a frequent target for orc and Uthgardt raids.
+
+Membership
+Any member of Luruar's various official state military forces could be transferred into the Legion. Many cities chose to send their barely-trained new recruits to maintain their commitment to the force while not losing their own veterans. In 1372 DR the group numbered 850 soldiers - 200 Knights in Silver (Silverymoon), 250 Iron Guard (Citadel Adbar), 200 Shieldsar (Sundabar), 50 dwarves each from Citadel Felbarr and Mithral Hall, and 100 archers & cavalry from the Army of the Vale (Everlund).
+
+Leadership
+Methrammar Aerasumé was appointed High Marshal of the Legion by his mother, Alustriel Silverhand. An able warrior, Methrammar was an excellent drillmaster whose training regimen turned green youths into elite warriors.
+
+The High Marshal of the Legion was considered the seventh member of the Nine Peers council that governed the League of the Silver Marches.
+
+Notable Members of the Argent legion
+ Methrammar Aerasumé, half-elf, High Marshal of the Legion in 1372 DR.
+ Badel Kilmander, human, commander of the company stationed in Jalanthar in 1372 DR.
+ Jandar Starblade, half-elf, paladin commander of the company station in Citadel Felbarr in 1372 DR.
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Arunika
+
+Arunika was a succubus devil in the mid–15 century DR and one of the major players in the struggle to claim Neverwinter from the ashes of the cataclysm that tore the city apart and plunged several factions into contention.
+
+History
+Working indirectly, Arunika planned to weaken the warring factions of Thay and the Shadovar by playing them off one another until such a time as they were easy picking for the Abolethic Sovereignty.
+
+Initially, in the Year of the Reborn Hero, 1463 DR, Arunika sided with Herzgo Alegni, the Shadovar representative in Neverwinter, thinking he was the most likely to come out on top. Things quickly changed, however, when Sylora Salm was defeated by Drizzt Do'Urden and Dahlia Sin'felle, which effectively removed Thay from the equation.
+
+Arunika changed her plans after this. She sensed that Alegni was up against forces that even he could not hope to overcome; accordingly, she shifted her intentions. In the ensuing showdown in 1463 DR, Arunika failed to come to the aid of her ally, instead searching for further information on the dark elf through contacts in the Abyss. As a result, Alegni was defeated at the hands of Drizzt, Dahlia, and Artemis Entreri. She continued to make moves from behind the scenes to pave the way for the Sovereignty. However, for her illicit relationship with Alegni, Arunika was killed by Brother Anthus.
+
+Siblings
+Arunika had a sister, also in league with the Sovereignty, by the name of Rohini. In 1478 DR, she was subsumed by the artifact known as the Hex Locus.
+
+Appendix
+References
+
+---
+
+## Arundel
+
+Arundel was a human druid and the archdruid of Kuldahar in the Spine of the World in the late 13 century DR.
+
+Description
+Arundel was an old man.
+
+Abilities
+He was capable of using the Heartstone Gem, which only someone with great natural or supernatural power could do.
+
+Personality
+Acting as representative of Kuldahar, Arundel spoke for the village like its leader, although some living in the village were not capable of describing him. He was very wise and knew many things about the surrounding lands in the Spine of the World mountains.
+
+Possessions
+He created and owned a magical staff, known as the Staff of Arundel. It allowed the wielder to have resistance to both cold and fire damage, as well as the ability to memorize extra clerical spells.
+
+History
+After managing the affairs of Kuldahar, he was killed by the devil, Belhifet, in the .
+
+Appendix
+Appearances
+Video Games
+Icewind Dale
+
+Icewind Dale II • Baldur's Gate II: Enhanced Edition • Baldur's Gate II: The Black Pits II – Gladiators of Thay
+
+External Links
+
+References
+
+---
+
+## Ardeep
+
+Ardeep was a realm of moon elves founded during the First Flowering, around .Cormanthyr: Empire of the Elves has the first settlements of Shantel (misspelled Shamel) Othreier established around, and those of Illefarn (encompassing Ardeep Forest) settled around, while The Grand History of the Realms has the first settlements of Ardeep established in −23,600 DR. Lost Empires of Faerûn has Ardeep founded by Shantel Othreier in . Hence founded "around" is used.
+
+Geography
+The realm of Ardeep encompassed the area later known as the Ardeep Forest as well as lands north of the River Delimbiyr.The Grand History of the Realms has Ardeep founded in the area later known as Greenfields. However, it is noted in Lost Empires of Faerûn that Ardeep was founded by and a vassal realm of Shantel Othreier and encompassed the forest that later became known as the Ardeep Forest. Therefore, it is more likely the extent of Ardeep lay further north, encompassing the area of Ardeep Forest, stretching along the Sword Coast, and not in the area known as Greenfields.
+
+History
+Ardeep was a vassal state of Shantel Othreier at the beginning of the Crown Wars. At the conclusion of the Third Crown War in, Shantel Othreier was conquered by the Vyshaantar Empire of Aryvandaar. Ardeep continued to battle against the forces of Aryvandaar until it was conquered in . It took the next hundred years for Aryvandaar to gain complete control and two of Ardeep's rulers were slain: Ilitharath and his grandson, Tarosspur.
+
+After Shantel Othreier was conquered by the Vyshaantar Empire, it was taken as a vassal realm of the Empire. When the Vyshaan were dissolved, Ardeep joined with Illefarn in . When Aelinthaldaar was razed by its own people in, Illefarn split into three fragmented states of which Ardeep was one and became independent for the first time in many millenia.
+
+Alliances were made with the dwarves of Dardath, the humans of Delimbiyran, the gnomes of Dolblunde and the halflings of Secomber and together they formed Phalorm in the .. Phalorm eventually fell in the, and was replaced by the Kingdom of Man. Many of the elves of Ardeep left for Evermeet at that time and most of those that remained followed in the .
+
+Appendix
+
+Notes
+
+References
+
+---
+
 ## Artus Cimber
 
 Artus Cimber  was an adventurer and a former Harper, who became the keeper of the Ring of Winter, and was the youngest son of the highwayman known as Shadowhawk.
@@ -1098,6 +4214,827 @@ References
 
 ---
 
+## Arn Forest
+
+The Arn Forest was a forest on the edge of the Silver Marches.
+
+Description
+The Arn Forest was an area of pine forests and swamps, which did not see many visitors. On the edge of the forest stood Graevelwood, a small hidden settlement of rock gnomes. The western area of the forest was very rainy and marshy, unlike the eastern side. It was infested by several bands of kobolds and various ruins could be found inside that dated back to the ancient empire of Netheril.
+
+Geography
+It was located south of Ascore between Anauroch and the Nether Mountains.
+
+Flora
+The eastern region of the forest had scrub pines.
+
+Notable locations
+Settlements
+ Graevelwood
+
+Appendix
+
+References
+
+---
+
+## Arlen
+
+Arlen was the captain of the guard and commander of the garrison at Caer Corwell and the teacher of Prince Tristan Kendrick during the early 14 century DR.
+
+Description
+Arlen was a gruff old war veteran.
+
+Personality
+While training Prince Kendrick, Arlen had the youth run across the moors for exercise.
+
+History
+Arlen was responsible for leading not only the guard but also the militia of Caer Corwell in times of war. He held a seat on the council that advised Corwell's king on matters of defense.{{Cite digital book/Darkwalker on Moonshae||6}
+
+Arlen died in 1345 DR while fighting a group of firbolgs in Llyrath Forest, giving his life to protect Tristan. His body was recovered and brought to Corwell Town, where King Bryon Kendrick gave him a hero's funeral. By the end of that night, the legendary bard Keren Donnell composed and performed the Song of Arlen in his memory.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arlho's Fine Flasks
+
+Arlho's Fine Flasks was an exceptional brewery and winery located in Ashabenford.
+
+Location
+Situated on the north of the Moonsea Ride as it passed through Ashabenford, Arlho's Fine Flasks was one of many shops dotting the route.
+
+Services
+Selling ales and wines of quality rivalling those found in Cormyr, Sembia or The Vast, Arlho's drinks were quickly snatched up by many travelling merchants. However he was known to manage the production of his goods so that local Mistrans were never without drink. Of particular note was Arlho's Ashaben Ale and the proudly recommended Black Boot Stout or the green grape wine, Pearls of the Moon.
+
+Appendix
+References
+
+---
+
+## Arambarium
+
+Arambarium was an extremely rare metal that resembled polished silver. It was tuned to primordial and elemental energy and could amplify magical effects. It also had mundane uses such as in armor.
+
+The only known source of Arambarium around 1479 DR was Ithimir Isle off the coast of Akanûl. The Akanûlans mined the deposit and kept its location a closely guarded secret. In reality, the Arambarium mother lode was the preserved fist of the dead primordial Arambar.
+
+Appendix
+References
+
+---
+
+## Arlith
+
+Arlith was a halfling adventurer living in Ravens Bluff in the late 15 century DR. She was a member of an adventuring group known as the Blue Wyverns.
+
+Abilities
+In a fight, she preferred to use ranged weapons rather than melee attacks and was proficient in the use of the crossbow.
+
+History
+In the, Arlith participated in the company's foray into the ancient dwarven city of Sarbreen to recover the Sarkonagael, a tome of shadow magic.
+
+Description
+Arlith had reddish hair.
+
+Appendix
+Appearances
+Novels
+Prince of Ravens
+
+References
+
+---
+
+## Arthylmas
+
+Arthylmas was a sage of the city of Saerloon in Sembia of the 13th century DR.
+
+History
+In the late 13th century DR, Kesten Orthalin of the Grimblades adventuring company had Arthylmas identify a short sword that had come into his possession. Arthylmas discovered it to be Sarghathuld, a legendary relic of Roldilar and Impiltur, and lost since the Year of the Luminar Procession, 1127 DR, a century and a half before.
+
+References
+
+---
+
+## Archtassel
+
+Archtassel was an unwalled "tassel" (outsiders would call it a village) of Tasseldale.
+
+Trade
+Woodcutting and trapping were the usual trades in Archtassel. Brethyl fur—fox fur studded with "drops" of clear rock crystal—was produced here and sold in Sembia. The carvers here were famous for their relief-cut doors and wall panels.
+
+Notable Locations
+ Baeremar's Stargirt Stallion
+
+Appendix
+References
+
+---
+
+## Arakon
+
+Arakon was an archmage who attacked the barbarian tribes of Icewind Dale with a band of mercenaries.
+
+History
+The archmage fought the tribes of the Uthgardt and Reghedmen, but when his army appeared to have been beaten, Arakon opened a portal to the Lower Planes. To save both sides from the demon hordes, the shaman Jerrod sacrificed himself by throwing himself into the gate and creating the Jerrod's stone which destroyed the passageway to the plane: Baator.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Arch of Goolgog
+
+The Arch of Goolgog was an orc-made monumental arch in the Vast. It held a portal to the Battle of Bones in the Western Heartlands.
+
+History
+The arch was constructed on the orders of the orc leader Goolgog Elvenbane to celebrate his great victory against elves and humans in ancient times. To that end, it was fashioned from the bones of the defeated enemies on the battlefield. Goolgog marched his whole army under the arch to demonstrate his triumph, before he returned to his base.
+
+In the late 11th century DR (shortly after circa 1072 DR), followers of the god of the dead, Myrkul, Lord of Bones, arrived at the Arch of Goolgog. They built a hidden temple close by, and desired a swift means of joining their brethren near the Well of Dragons in the Battle of Bones. One of their number was a sorcerer, and they worked together to create a portal within the arch and linked it to the center of the Battle of the Bones valley. The priests also animated the bones of the arch to defend it against the unfaithful.
+
+Eventually, however, the temple to Myrkul was destroyed (well before 1358 DR), and the priesthood scattered and took up with other gods. The clergy as a whole forgot about the portal, as well as the passphrase for it. In addition, the Cult of the Dragon attacked and pillaged the Myrkulyte temple near the Well of Dragons too, around 1312 DR, so all knowledge of the portal there was also lost.
+
+From time to time, adventurers came to the Arch of Goolgog, only to fall afoul of the skeletal defenders. One told how she lost two of her group to the skeletons, and expected their bones had joined the arch.
+
+Occasionally, restless skeletons in the Battle of Bones wandered through the active portal there and emerged from the Arch to terrorize people in the surrounding lands. However, all on the Vast side assumed these skeletons had simply climbed down from the Arch. There were too few living beings or undead still possessed of their minds in the Battle of Bones for the portal to become known. Thus, the portal itself was still completely unknown by 1372 DR.
+
+Geography
+The Arch of Goolgog stood on a hill amid a desolate landscape, close to where the River Vesper emerged from the Earthspur Mountains.
+
+Description
+The arch had a height of 8 feet (2.4 meters) and a width of 4 feet (1.2 meters), wide enough to accommodate an orc or human walking through. It was constructed entirely of the bones of humans and elves, and very thick. It was marked with runes in ancient Orc, declaring "In this place, Goolgog Elvenbane and his armies crushed the puny humans and elves, eradicating them from his lands."
+
+The other side of the portal was an unremarkable bone circle, barely distinguishable from the other bones lying in the Battle of Bones. Only the Myrkulytes of old knew where to look for it.
+
+Properties
+On the Arch of Goolgog side, the portal was activated by a passphrase, "By Myrkul and Jergal, I ask passage from these bones." These words also allowed a traveler safe passage past the skeletal guardians. On the Battle of Bones side, the portal was continuously active, allowing creatures to wander through.
+
+The skeletal guardians were animated by powerful necromancy and were commanded to attack anyone who ventured within 20 feet (6.1 meters) without saying the passphrase. When activated, they assembled themselves and climbed down the arch in macabre scene, before forming ranks and attacking the trespassers.  When the threat was ended, they climbed back into the arch and disassembled.
+
+References
+
+---
+
+## Argent Palace
+
+The Argent Palace was Graz'zt's personal home in the city of Zelatar.
+
+Structure
+The palace was composed of sixty-six ivory towers and scores and scores of mirrored hallways. The cold but meticulous hallways were filled with wandering bodaks and other more malevolent abyssal denizens as part of the demon lord's amusements. Woe to those residents of Zelatar who received an invitation to an audience with Graz'zt in his palace!
+
+Inhabitants
+From his palace, Graz'zt planned and schemed his intricate plots to gain more power while thwarting his enemies.
+
+Appendix
+Appearances
+Adventures
+For Duty & Deity
+
+Out of the Abyss
+References
+
+---
+
+## Army of the Black Spider
+
+The Army of the Black Spider was an army put together by the noble houses of Menzoberranzan to defeat the approaching armies of Gracklstugh (joined by Kaanyr Vhok's Scourged Legion) in 1372 DR during the Silence of Lolth.
+
+Description
+The Army of the Black Spider was composed of soldiers from all great houses, as well as sixteen minor ones. There were 30 commanding high priestesses, 4,000 drow soldiers, and 2,500 slaves.
+
+After the first battle, a fourth to a third of the army had been lost. House Baenre had 90 dead and 44 wounded—more than a quarter of their strength. House Barrison Del'Armgo lost a quarter of their forces and all of their wagon trains.
+
+Base
+The army mustered in a plaza near the border of the West Wall and Narbondellyn districts in Menzoberranzan.
+
+History
+At the end of 1372 DR, during the Silence of Lolth when the city's priestesses were greatly weakened, the forces of Gracklstugh, driven by Nimor Imphraezl of the Jaezred Chaulssin, moved to attack Menzoberranzan. Allied with House Agrach Dyrr within the city and wanting to draw the city's forces out, Nimor disguised himself as Captain Zhayemd of House Agrach Dyrr and reported that Rhazzt's Dilemma, a drow outpost in the Underdark, had been attacked. That report spurred the mustering of the Army of the Black Spider.
+
+The army moved to engage the attacking duergar at the Pillars of Woe. However, that was in fact a trap manufactured by Nimor. Once at the Pillars of Woe, the soldiers of Agrach Dyrr turned on their fellows and the tanarukks of the Scoured Legion led by Kaanyr Vhok joined in the fray. The drow army was not very unified, particularly after the loss of Agrach Dyrr. Reinforcements from House Baenre arrived after Nauzhror Baenre scried the battle and saw their predicament. The Baenre contingent allowed the army to retreat, but not without heavy losses. The companies of Houses Fey-Branche, Duskryn, and Kenafin had been wiped out, but many soldiers of Houses Baenre, Xorlarrin, and Tuin'Tarl, among others, were able to retreat back to the city. Nimor was briefly captured by Andzrel Baenre, but he was able to escape using his ring of shadow.
+
+After the defeat of the Army of the Black Spider, the duergar and tanarukk armies subsequently marched forth and began the Siege of Menzoberranzan.
+
+Members of the Army of the Black Spider
+ Mez'Barris Armgo: The nominal commander of the army, though the male commanders truly ran the show.
+ Andzrel Baenre: As weapons master of House Baenre, he was the male commander of the army.
+ Nimor Imphraezl: Under the alias Captain Zhayemd of House Agrach Dyrr, this prince of the Jaezred Chaulssin was able to infiltrate the army to weaken it and foster its betrayal by the forces of House Agrach Dyrr.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arilyn's moonblade
+
+Arilyn's moonblade was the hereditary moonblade wielded by Arilyn Moonblade, having been passed to her by her mother, Princess Amnestria of Evermeet.
+
+Description
+The sword and its hilt appeared antique. After Amnestria left Evermeet, the moonstone in the hilt was removed; it was later replaced by a modernly cut topaz stone by Kymil Nimesin. That was how Arilyn carried it for many decades. However, the original moonstone was restored to the sword in 1361 DR. There was Espruar writing on the sword, as well as wards to protect the runes against translation spells. All in all, there were nine runes on the sword, each one indicating an ability of the sword that the wielder had given it.
+
+Arilyn wielded the sword with two hands.
+
+Abilities
+Like other moonblades, Arilyn's moonblade burned anyone who attempted to touch the sword, and potentially killed anyone who attempted to wield the blade. However, in 1361 DR, Arilyn placed a rune on the sword that removed this restriction so that others could touch the sword if needed. The sword would not shed innocent blood.
+
+The sword was wielded by eight of Arilyn's ancestors, each of whom had left with it a special power, as indicated by a rune. The moonstone in the hilt enabled each successive wielder to grant a power to the sword over a period of time. The ninth rune that Arilyn placed granted removal of the restriction that prevented people from touching the blade and getting burned; it is implied she did this for Danilo Thann, who had been burned when he carried the sword to her.
+
+The different powers were:
+ Rapid striking (the sword could strike abnormally fast)
+ Immunity to fire
+ Warning glow (glowing blue when danger approached)
+ Silent warning (humming with silent energy when danger was near)
+ Dreamwarning (waking the wielder with a dream when danger approached)
+ Illusion (projecting illusions to disguise the wielder)
+ Elfgate (controlling a portal between Faerûn and Evermeet)
+ Elfshadow (calling forth the shadow of the wielder; the shadow could fight and kill)
+
+History
+Dar-Hadan was a mage who wielded the moonblade. He was the one to imbue the sword with a warning glow.
+
+Dar-Hadan's daughter Zoastria later wielded the moonblade. In 867 DR, it was recorded by Ventish of Somlar that she was searching for her twin sister Somalee, who had vanished on a voyage at sea, and that she often used the moonblade's elfshadow ability.
+
+The moonblade then passed to Xenaphor, the oldest child of Zoastria's youngest brother. Xenaphor was once attacked by a red dragon; after that, he made the moonblade confer immunity to fire on the wielder.
+
+A later wielder was Thasitalia, a solitary adventurer, so she gave the sword its dreamwarning ability. She was Arilyn's great-aunt and passed the moonblade to Amnestria.
+
+Amnestria inherited the moonblade from Thasitalia, who had been away from Evermeet. Amnestria fell in love with a human, Bran Skorlsun, and bore his child, Arilyn. She imbued the sword with the elfgate ability to control a portal between Evermeet and Faerûn in an attempt to "unconsciously" combine her two worlds. The elves then had the moonblade dismantled; Amnestria carried the sword into exile and Bran was forced to carry the moonstone so that they could never meet each other again.
+
+In the, Kymil Nimesin attempted to obtain the moonblade for its elfgate ability in order to take over Evermeet. He gained control over the sword's elfshadow ability, creating the Harper Assassin that mysteriously killed people around Arilyn. The moonblade was restored and the portal opened. However, Arilyn arrived in time to defeat Kymil and Danilo Thann was able to move the portal to a safer location (Blackstaff Tower in Waterdeep).
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Aralent
+
+Aralent was a settlement in the Deepwing Mountains in the Vilhon Reach.
+
+It was the site of the House of the Harmed temple of Ilmater, and home to the well-respected priest Master Sufferer Olbedan.
+
+History
+In the Year of the Boot, 1343 DR, the people of Hlondeth in the Vilhon Reach requested that the Graycloak's Wolves adventuring company deliver the Tome of Torment—the holiest book of the church of Ilmater—to Master Sufferer Olbedan at the House of the Harmed in Aralent. However, during the harsh winter, Graycloak's Wolves fell prey to doppelgangers and leucrotta preying on travellers and never made it to Olbedan. The Tome was thought lost in the winter snows.
+
+References
+
+---
+
+## Aris
+
+Aris could be:
+ Aris (house) — a noble house of Cormyr
+ Aris (giant) — a stone giant priest and companion to Galaeron Nihmedu
+
+---
+
+## Arauthator
+
+Arauthator was a white dragon who lived in Oyaviggaton in the Sea of Moving Ice.
+
+History
+Arauthator was orphaned as a wyrmling in 940 DR when the archmage Tulrun slaughtered his entire family in revenge for his mother Sneighfanglen killing the crystal dragon Krustalonos, a close companion of Tulrun. The dragon spent much of his early life plotting revenge against his family's killer. In 1279 DR, he sent the first of many waves of attackers against his enemy's stronghold of Tulrun's Tent. Ten years later in 1289 DR, Tulrun met Arauthator face-to-face, not looking to kill him but rather to parley. Arauthator agreed to not attack the civilised parts of the Silver Marches in exchange for Tulrun leaving him alone.
+
+Arauthator strongly valued protecting and maintaining his domain against traps, enemies, and overhunting. To that end, he destroyed the frost giant community of Bulindiful and the bugbear hold located within Sardin's Sword. He and the white dragon Ingeloakastimizilian came to an uneasy truce to avoid a mutually destructive battle over rulership of the Reghed Glacier prior to the latter's death. Arauthator avoided Icewind Dale even after his rival's death.
+
+Arauthator gained fame in 1324 DR for slaying the red dragon Rathalylaug above the city of Neverwinter as well as the sorceress Shareera when he smashed her tower in his triumph. He was also known for killing the Hosttower mage Phaurothlin over contested claims to a Netherese spellbook by freezing and shattering the mage against a mountain, and for shoving the blue dragon Eltagrathuuloor into a mountain (and subsequently burying them alive in a rockslide) during a visit to a Magefair in Var the Golden.
+
+Arauthator was among the dozen or so dragons that attacked the Host Tower of the Arcane in Luskan due to Sammaster's Rage of Dragons in 1373 DR. When part of the tower fell, Arauthator made off with a good deal of magical items, including a few powerful, priceless tomes.
+
+While Lonefang Mountain remained his primary lair, Arauthator established several smaller lairs in the icebergs of the Sea of Moving Ice. One such lair was Oyaviggaton, from which he would meet with his mate Arveiaturace.
+
+In 1484 DR Arauthator and his son Aurbangras allied with the orc and drow forces that assaulted Luruar during the Darkening; he also was ridden by Tiago Baenre in the assault against Nesme.
+
+Relationships
+Arauthator's mother was the "Spawn of Auril", Sneighfanglen. She, her mate and all of Arauthator's siblings were killed when he was a wyrmling.
+
+Arauthator's first mate was Ghaulantatra, the "Old Mother Wyrm", but he seemingly did not care when she was killed.
+
+Arauthator's mate after that was Arveiaturace. They had offspring, including Aurbangras.
+
+Arauthator is said to have killed more than 20 of his own offspring defending his territory from ambitious dragons.
+
+Appendix
+Appearances
+Adventures
+The Rise of Tiamat
+Novels
+Rise of the King
+Gallery
+
+References
+
+fr:Arauthator
+
+---
+
+## Arveiaturace
+
+Arveiaturace  was an ancient white dragon that made her home on the Ice Peak in the Sea of Moving Ice. She was the former student, consort, and companion of the wizard Meltharond.
+
+Description
+Even after Meltharond's death, Arveiaturace still carried his skeletal remains and rider's palanquin on her back. In his later years, Meltharond used a complex web of spells to keep his bones intact and in their proper place—these magics continued even after his death, causing his skeleton to sit upright and even move his skull to face whichever direction Arveiaturace was facing.
+
+Personality
+She was more intelligent and patient than most other white dragons, and vastly more sensitive. Yet she still retained her kind's lust for revenge and instinct for savagery, and was not gentle or kind by any means. In combat, she would lose all sense of self-control, ripping and tearing until everything and everyone around her was destroyed.
+
+Meltharond's death was keenly felt by Arveiaturace, and she was gripped by a deep and abiding loneliness. She interacted with mortals primarily to find a new, trustworthy companion, but could never find someone who inhabited all of Meltharond's good qualities.
+
+Abilities
+She was notably lacking in magical competence, and was only capable of casting mending by herself. In spite of this, she had an immense insight into the battle tactics and stratagems used by wizards, and could recognize many popular spells on sight. This made her a formidable opponent for most spell-flingers. She frequently dealt with such foes by flying very low near the ocean's waves, enticing casters to waste their spells firing at a glimpse of the white wyrm, only to hit nothing but roiling waters. Another tactic involved crushing mages standing on deck by toppling their ship's masts.
+
+No other creature on Toril could match her knowledge of the winds and waves of the Sea of Swords, the Sword Coast, and large swaths of the eastern Trackless Sea. She was a true master at sinking ships and at plucking things from deck without ever slowing down or tumbling.
+
+Prior to his death, Meltharond bestowed two powerful magical boons on Arveiaturace. He permanently bonded her with a ring of spell turning, granting her the ability to shrug off spells or even direct them back at hostile casters. Meltharond also ensorceled Iceclaws with a spell of awaken from afar, allowing her full control of his substantial inventory of magical wands, rods, and staves.
+
+Lair
+Arveiaturace laired at the top of the Ice Peak, located just south of the Sea of Moving Ice and due west of Fireshear. Her main abode was a cold cavern complex on the peak's east face, right next to a set of smaller chambers that once was home to Meltharond. Ice Peak consisted largely of soft, malleable rock that was easily sculpted by dragon claws. Arveiaturace took care when digging out her cavern to allow for the walls separating the wizard's sanctum to be carefully removed from her side, allowing her access with snout and claw. The soft rock also meant that Ice Peak was not the sturdiest of lairs—bits of roof would come crashing down whenever she bumped into it or made a too-heavy landing.
+
+She was fiercely protective of her isle, attacking those who sailed too close on sight. She was even known to venture far beyond her own territory in pursuit of fleeing adventurers.
+
+It was said that magic items and spellbooks belonging to Meltharond could still be found in his old rooms, largely where he left them.
+
+Activities
+She preyed on ships all along the Sword Coast, sometimes destroying them entirely in the process. She seemed to be committed to eating as many sailors as she could, and in making all seafarers and other dragons terrified at the prospect of journeying north of Ruathym. Few ships could mount appropriate defenses against Arveiaturace's overwhelming attacks, but she was known to have been driven off on occasion by aerial patrols from Evermeet as well as the Nimbran Knights of the Flying Hunt.
+
+After Meltharond's death, Iceclaws became overwhelmed by loneliness to the point that she sometimes spared would-be-victims, provided they shared her dislike of wizards, did not try to attack her, and had the presence of mind to try communicating with her. She was even known to, on rare occasions, rescue shipwreck victims when offered lavish rewards and treated with respect. Several humans snatched by Arveiaturace actually survived captivity in her lair after enduring roughly a month's worth of terrifying and suspicious conversations with the wyrm. Provided these captives did not attack her or steal any of Meltharond's things, Iceclaws was happy to fly them home to any location on Faerûn as soon as they admitted to feeling lonely. The accounts of these survivors made up the brunt of what was known about Arveiaturace and her lair.
+
+Iceclaws frequently came under attack from other dragons, human and elvish dragon hunters, as well as her own offspring.
+
+Relationships
+Although their relationship began with hatred, Arveiaturace eventually came to love her rider, Meltharond. He treated her as an equal, and the two chatted with each other constantly. When Meltharond died after many centuries of companionship, she fell into a deep melancholy.
+
+Her loneliness occasionally compelled Arveiaturace to answer the white dragon Arauthator's calls to mate—on these occasions, she left the remains of Meltharond at home. During the 1480s DR, Arauthator sought to provide her a new master, Maccath the Crimson, in hopes of strengthening Arveiaturace's support of the Cult of the Dragon.
+
+Once her children grew large and bold enough to challenge her domain over the Ice Peak, Arveiaturace drove them from her lair to fend for themselves.
+
+Arveiaturace had friendly relationships based on mutual respect with the archwizard Laeral Silverhand of Waterdeep and the shipwright Old Aldon of Mintarn. She was feared in Candlekeep following an incident in which, having learned from one of her captives of a sage's disparaging account of Meltharond, she flew directly to the fortress library, ripped the roof off the main building, and snatched up the terrified writer to correct his views on the dead wizard. Less than a month after that, Laeral personally visited Arveiaturace at Ice Peak to hand her a copy of the more laudatory tome The High History of the Mighty Mage Meltharond. Laeral stayed with Iceclaws for more than a tenday hence, discussing matters of an unknown nature. What is known is that following Laeral's visit, Arveiaturace seemed to steer clear of vessels sailing in the vicinity of Waterdeep.
+
+History
+
+Meltharond died sometime around the .
+
+In the, Arveiaturace befriended the wizard named Blizzard, an aptly-named ice-mage, who took to meeting the dragon to converse at the Dragon's Dip pond in Icewind Dale. The two females bonded over the loss of their loved ones. The Dragon's Dip was named after Arveiaturace and her visiting the lake regularly for centuries. Subsequently, Blizzard found herself reluctantly joining the Hero of Neverwinter in their quest to recover the Hero's lost memories. When the threat to Icewind Dale was revealed to be the imprisoned demigod son of Auril, Arveiaturace eagerly joined the growing army of the calamitous cold. She may have convinced Blizzard to abandon the Hero of Neverwinter in favor of the shaman Iceblood and the demigod Arctus. Regardless of Blizzard's allegiances, Arveiaturace would survive her battle with the Hero and the fall of Arctus and his army.
+
+Rumors & Legends
+Arveiaturace was feared by all sailors along the Sword Coast, save for the foolish few who dismissed her as a legend. Seafarers referred to her as "Iceclaws" due to her habit of swooping down on ships to grab crew members for a quick snack.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Arval
+
+Arval was a male human of Neverwinter on the Sword Coast North in the 1370s DR.
+
+History
+Arval was a servant of the King of Shadows. He was sent to Neverwinter to form a secret cult and attract the younger citizens to join the cult. Once he gathered enough followers, he prepared the ritual to join with the shadow.
+
+Gameplay
+When the Kalach-Cha came to the end of the Bryce crypt, Arval would be about to finish the ritual. He and his followers would attack the Kalach-Cha. However, Lisbet Bryce then completed the ritual, causing Arval and his followers to be revived as shadows, who would attack once more.
+
+Appendix
+References
+
+Appearances
+ Neverwinter Nights 2
+
+External links
+
+---
+
+## Arren
+
+Arren was a male human butler of Lord Temar on the Sword Coast North in the 1370s DR.
+
+Activities
+Arren was Lord Temar's butler, who assisted him.
+
+History
+If the Kalach-Cha and companions accepted Sir Nevalle's quest, they needed to visit Lord Temar. Arren would lead them to Lord Temar, then come to Temar's assistance to attack the Kalach-Cha soon after.
+
+Appendix
+References
+
+Appearances
+ Neverwinter Nights 2
+
+External links
+
+---
+
+## Arguth
+
+Arguth was a half-elf wizard living on Ambral Isle in the Sea of Fallen Stars.
+
+He was in Cormanthor's Courts in 261 DR and offered his help in the creation of the mythal of Myth Drannor.
+
+References
+
+---
+
+## Arledrian
+
+Arledrian was an elven merchant and member of the Shadow Thieves' chapter in Athkatla, Amn, under Gaelan Bayle in the late 14 century DR.
+
+Possessions
+Typically for a man of his skills, Arledrian wore studded leather armor and was armed with an enchanted +1 short sword as well as a simple shortbow. He also carried a potion of invisibility and a potion of extra Healing.
+
+History
+In the, Arledrian could be found in Gaelan Bayle's Shadow Thieves' safehouse. On the house's second floor, Arledrian sold his wares to allies of the guild, acquired from undisclosed sources.
+
+Appendix
+References
+
+External links
+
+de:arledrian
+
+---
+
+## Araundor
+
+Araundor was a wizard from Mulhorand, who became a lich. He controlled a domain known as Araundordoom in the Underdark.
+
+Description
+Araundor's body was nearly skeletal.
+
+Personality
+Araundor greatly enjoyed destroying his enemies, but he usually tried to read their minds first so he could use their personal information against them. Araundor liked mocking his enemies by telling them what he had learned from reading their minds, but only when one or two adversaries remained.
+
+History
+A long time before 1372 DR, Araundor was once a human wizard in Mulhorand. However, by 1372 DR, he was a semi-crazed lich that existed only to destroy intruders in his lair.
+
+Appendix
+References
+
+fr:Araundor
+
+---
+
+## Arghain
+
+Arghain was a half-ogre bandit who wandered near the town of Nashkel. He lived during the iron crisis of the Sword Coast and in desperate need for good iron to restore the reputation of his clan, he and three other half-ogres attacked Gorion's Ward, leading to Arghain's death.
+
+Appendix
+
+References
+
+External links
+
+de:Arghain
+
+---
+
+## Arcane gate
+
+Arcane gate was an arcane conjuration spell that created a portal between two points.
+
+Effects
+The caster picked two spots that they could see, the first within  and the other within, and a portal would be created between the two. The portal was 10 feet in diameter and could only be seen and accessed on one side. The portal showed showed glowing mist on its surface. The portal could not be cast on a creature and the portal could also be turned on and off at the will of the caster.
+
+Components
+This spell required only verbal and somatic components.
+Appendix
+See Also
+ Dimension door
+ Lutzaen's frequent jaunt
+Appearances
+Miniatures
+Icons of the Realms
+External links
+
+ D&D Beyond
+
+References
+
+---
+
+## Araman
+
+Araman (also known as Eveshi and Ahrraman) was a priest of the former god of the dead, Myrkul, and later a Red Wizard who lived in Mulsantir in Thay in the late 14 century DR.
+
+History
+He, along with his brother Akachi, was offered as a "sacrifice" and he was given the name "Eveshi". He became a priest of Myrkul like his brother but unlike him Eveshi was shy and seldom spoke, often remaining in the shadow of his brother, though he would sometimes laugh or giggle. Akachi named him "Ahrraman".
+
+Ahrraman remained a cleric of Myrkul while his brother rose through the ranks, becoming high priest and a Chosen of his god.
+
+When, in the wake of the death of the Founder, Akachi turned against his faith and god and started a crusade against Myrkul, Araman loyally joined him. After Akachi's defeat, Myrkul himself approached Araman and gave him a choice: to join his brother as a spirit eater or to correct these mistakes by killing the 'Red Woman'. Araman chose the latter, and was made immortal and placed under a geas. Araman came to believe he finally made a choice for himself, and tried to correct Akachi's acts by pursuing the Founder and returning her to the Wall of the Faithless. His previous reputation as the shy younger brother allowed him to join the Academy of Shapers and Binders unnoticed.
+
+In the, he led a coup against the headmistress Nefris, one of the Founder's aspects, and sent the Red Wizard Khai Khmun to kill Lienna and Safiya, but the latter, with the help of the Kalach-Cha, killed Khmun. Araman was confronted by the Kalach-Cha in the Founder's Sanctum and was ultimately slain in the ensuing battle.
+
+His soul, however, had been bound to the Fugue Plane, remaining there until he killed the Red Woman or died trying. He remained devoted to Myrkul, and continued to serve under the new god of the dead, Kelemvor.
+
+If the Kalach-Cha chose to undertake the Third Crusade, then Araman would eventually confront the Kalach-Cha at Eternity's End, intent on stopping the crusade. He would be angered by the Kalach-Cha's choice, seeing them as stubborn and deluded as Akachi, and wished Myrkul had just left Akachi in the Wall and never started this mess. On the other hand, if the Kalach-Cha betrayed the crusade, then Araman would join the Kalach-Cha's party temporarily to help them stop the crusade and retrieve a soul from the Wall. In this case, a vengeful Kaelyn the Dove would attack the Kalach-Cha instead of Araman at Eternity's End.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Mask of the Betrayer
+
+External Links
+
+References
+
+---
+
+## Arcane lock
+
+Arcane lock, also known as wizard lock, was an arcane abjuration (formerly alteration) spell that allowed the caster to lock closed entryways.
+
+Effects
+By touching a closed door, window, gate or other entryway, the caster would lock it. The caster could pick a creature type or even a password that would allow them to open the locked entryway.
+
+Unwanted visitors could enter only if the object was broken or if the spell was suppressed. The spell could be suppressed by a knock or dispel magic spell and the suppression lasted for 10 minutes. When the spell was active, the lock was harder to pick or break.
+
+Components
+The spell required verbal and somatic components and gold dust worth 25 gold pieces.
+
+History
+The spell was attributed to Netherese arcanist Ptack in  and was originally called Ptack's locking.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Arms of Hadar
+
+Arms of Hadar was a conjuration spell for warlocks that used the power of Hadar, the Dark Hunger, a Far Realm-infested star that existed within Realmspace.
+
+Effect
+At the caster's behest, the ground would sprout tendrils of dark energy in a 10-foot (3 meter) radius. They would swing at the creatures in the area and harm them with their necrotic energies and hinder them. Only a test of strength would lessen the harm and not cause the creature to be hindered.
+
+Components
+The spell required verbal and somatic components.
+
+Appendix
+Gallery
+
+External links
+
+References
+
+---
+
+## Arleon
+
+Arleon, also known as Arleon the Unforgiven, was a powerful ogre warlord living in Neverwinter in ancient times.
+
+History
+Arleon was a powerful warrior who in life killed many strong opponents. He was killed only by the combined efforts of ten valorous heroes and subsequently interred in Neverdeath Graveyard
+
+In 1479 DR, the emissary Xivros, a Red Wizard of Thay under Valindra Shadowmantle, decided to raise him as an undead to guide Valindra's undead army in the conquest of the city. Xivros succeeded in his ritual and Arleon the Unforgiven became a wight. However, soon after an adventurer sent by Sergeant Knox to stop the plot arrived and fought and defeated the ogre wight.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Arcanist
+
+Arcanists, also referred to as Netherese arcanists, were Netherese individuals who wielded arcane magic in the days of the first Netherese Empire. The title "arcanist" was synonymous with the word "wizard", in the centuries that followed the fall of the empire.
+
+In the long past days of Netheril, practitioners of the Art once were able to bend arcane powers in ways few those in later centuries could match. A small number of people from the time of Netheril, a few liches, Larloch being the most well known, and some of the Princes of Shade from Thultanthar, are direct survivors of that fallen empire. Some few others have researched the past thoroughly enough that they have uncovered the secrets of the ancient Netherese.
+
+Culture
+The Netherese culture was extravagant, wasteful, and decadent. Magic was plentiful and nearly everyone could wield it to some extent. Arcanists were the elite spellcasters in society and were looked to for the defense, prowess, and prosperity of Netheril. The most powerful arcanists were known as archwizards.
+
+Arcanists were arrogant in general and looked upon divine magic with utter disdain because they felt they were on a path to godhood, and to accept healing or aid from a priest was to forfeit their chance at becoming a deity themselves. Thus, arcanists of this stripe relied heavily on potions of healing and other arcane forms of healing and life preservation.
+
+Abilities
+The Netherese arcanists achieved the highest level of magical ability ever wielded by mortals. Indeed, one archwizard, Karsus, actually promoted himself to godhood for a very brief moment by stealing the power of Mystryl, the Mother of All Magic, in the Year of Sundered Webs, –339 DR. While this extreme act of hubris resulted in the death of the goddess, the destruction of Netheril, and the eternal prohibition of the greatest magics from mortal minds, it was nevertheless a testimony to the incredible abilities achieved by the Netherese arcanists and archwizards.
+
+They were particularly adept at developing new magical items and spells, and were focused spellcasters who were seldom damaged by the backlash of their own magic.
+
+Their study of magic was divided up into three specializations. Every arcanist chose a major and a minor specialization and was barred from the third. The three specialized forms were inventive, mentalism, and variation. An Inventor created or destroyed matter and material things; a Mentalist operated in the arena of the mind; a Variator altered existing objects, materials, and even magic itself.
+
+Relationships
+The Netherese thought they were the chosen race among humans and this tainted their view of all other races.
+
+In general, the Netherese had a good relationship with the dwarves of Delzoun, trading magic items and inventions for gems, precious metals, weapons, and crafted stonework.
+
+Relations with the elves of Cormanthyr started out cordially, when they befriended the early Netherese settlers and taught them about magic. As the power and arrogance of the arcanists grew, the elves began to distance themselves from what they saw as an ostentatious, oafish, and reckless group of spellcasters. Gnomes were used as slave labor by the early Netherese but eventually won their independence by going on strike and refusing to work. After their release, many of the former slaves fled south, migrating far away from their insensitive former masters.
+
+Half-elves were treated as second class citizens by the Netherese, reinforcing the notion that they didn't belong with either humans or elves. They were allowed to mingle if they had magical ability, but were relegated to the less wealthy districts and earned less than humans doing the same jobs. Halflings had much the same relationship to the Netherese as the half-elves. Humanoids such as orcs were usually killed on sight.
+
+Possessions
+Arcanists created many quasi-magical items that only functioned while in the vicinity of a mythallar, the magical engine that powered their floating cities. Few arcanists desired to leave the safety and comfort of their enclaves; nevertheless, some magic items were created either before the mythallar was invented or by "eccentric" individuals that were brave enough to venture out of the nest.
+
+Some of these rare items were:
+Chardalyn: A black rock that could hold a spell and be released when needed.
+Congenio's pebbles : Later referred to as Ioun stones.
+Halavar's Universal pantograph : A small box that could duplicate nearly anything non-magical, including cloning creatures (or people if they could be shrunk to fit in the box).
+Lefeber's Enchanter : A rod that imbued items with the ability to store spells.
+Netherpelter : A magical blowgun with a variety of ammunition effects.
+Skimmer : A small boat propelled by an air elemental.
+Storm star : A magic morning star that could release a version of chain lightning when it hit.
+
+History
+See also:History of Netheril
+
+Notable arcanists
+ Aksa the Destroyer
+ Anglin, a respected general from Seventon and inventor of many of the prismatic spells, such as prismatic sphere, prismatic spray and prismatic wall.
+Aumvor the Undying, infamous since Netheril's Age of Discovery for his unmatched mastery over necromancy.Jeff Crook, Wil Upchurch, Eric L. Boyd (May 2005). Champions of Ruin. (Wizards of the Coast), p. 125-128. ISBN 0-7869-3692-4.
+ Candlemas, the mentalist steward of Lady Polaris
+ Chever
+ Congenio Ioun, arcane inventor of the Mythallar Era
+ Halavar,
+ Ioulaum, developer of the mythallar who raised the first Netherese enclave
+ Karsus, arguably the most famous arcanist who brought upon the fall of Netheril
+ Larloch, an arcanist of Jiksidur who became one of the most powerful liches of Faerûn
+ General Matick
+ Noanar
+ Olostin
+ Princes of Shade, the twelve Netherese-turned-shadovar sons of Telamont Tanthul of the 15 century
+ Rhaugilath, an archmage who served Larloch in undeath
+ Sadebreth
+Shradin Mulophor, "Lord of Bones", a powerful Netherese necromancer and later an apprentice to Halaster Blackcloak under whom he converted the Sargauth Enclave into Skullport and ruled over it.Joseph C. Wolf (1999). Skullport. (TSR, Inc), pp. 6–7, 93. ISBN 0-7869-1348-7.
+Tarchamus the Unyielding, who devised a volcano spell which destroyed the flying city Tenish, and extended his life as a mummy and sentient book.
+ Telamont Tanthul, ruler of Thultanthar who reformed the Empire of Netheril on Toril in the late 14 century
+ Trebbe, one of Netheril's most prolific spell-crafters
+ Volhm
+ Xolund the Maker, the High Arcanist of Sakkors who created the first sentient /self-aware Mythallar
+
+Appendix
+See also
+ List of arcanists/Netherese arcanists
+ List of arcanist spells
+
+References
+
+Connections
+
+---
+
+## Argyle
+
+Argyle was a shadovar warlock serving under the Netherese lord Draygo Quick. He briefly tutored the young tiefling Effron in the warlock's ways.
+
+Appendix
+
+Appearances
+ Neverwinter (minor)
+
+References
+
+---
+
+## Ariton Delmis
+
+Ariton Delmis was a male human paladin and second-in-command of the Freedom Riders in 1369 DR.
+
+History
+Ariton was a longtime member of the Riders, fighting the Zhentarim together with Randal Morn for a very long time. In 1369 DR, he was the second-in-command of the group and the leader of the cavalry. He was the only survivor on an ambush in which Randal was kidnapped by the Zhents.
+
+Afterward, he keep control of the Riders and, with the help of Elminster Aumar and Lhaeo, recruited some adventurers to find his leader. Ariton commanded the last battle against the invaders in Dagger Falls and afterward he welcomed Randal back to the freed dale.
+
+Appendix
+
+Appearances
+Randal Morn trilogy
+ The Sword of the Dales
+ The Return of Randal Morn
+
+References
+
+---
+
+## Arellaxerrontoal
+
+Arellaxerrontoal was an bronze dragon living in the Forest of Tethir and the regional agent of the Moonstars for Amn and Tethyr in the Year of the Tankard, 1370 DR.
+
+History
+In, Arella and her mate, the bronze dragon Trollushanthallor, welcomed a clutch of three wyrmlings while living in the Small Teeth mountains. Unfortunately for the pair, the blue dragon great wyrm Iryklathagra awoke from her slumber in 1369 DR and learned of the wyrmlings' existence. She waited until Arellaxerrontoal, the more powerful of the adults, left the lair, and then attacked and slew Trollushanthallor and two of their offspring. Iryklathagra carried the two wyrmling bodies back to her own lair to feast, while the third wyrmling, the female Alaerurrgos, escaped, but was badly wounded. Iryklathagra also looted the hoard of the bronze pair, adding their wealth to her substantial hoard.
+
+Arellaxerrontoal and her daughter relocated to the Forest of Tethir, where Arella left Alaerurrgos with a centaur settlement in the Wealdath. Count Gamalon Idogyr, Sage of the Court of Tethyr at the time, was charged with her safety and tutelage.
+
+For a long time she was consumed by revenge. Arellaxerrontoal's work for the Moonstars alleviated her pains.
+
+Personality
+Arellaxerrontoal believe that the unity of humanity and elves that the Moonstars hope to achieve can bring the demise of all evil dragons, like the killer of their mate.
+
+Appendix
+References
+
+---
+
+## Arsekaslyx
+
+Arsekaslyx was a red dragon member of the Cult of the Dragon. She was called to the Well of Dragons to reinforce the defense of the Cult's stronghold there.
+
+Relationship
+Arsekaslyx enjoyed playing with the Cult's commanders in the Well; she kept her presence secret from Naergoth Bladelord to avoid a confrontation for power. On the other hand, she tempted Vargo Kent with the secret of becoming a half-dragon dracolich.
+
+History
+In order to retain her sanity during the Rage of Dragons of the, she used an artifact called the bone scepter of Zceryll, known as the "the star-spawn", which protected her from the Rage's effects but also warped her physiology.
+
+She arrived at the Well of Dragons in around 1373 DR and remained there until at least the .
+
+References
+
+---
+
+## Arkuel
+
+Arkuel was a member of the Cult of the Dragon.
+
+History
+In 1357, Arkuel was one of the servants of the Cult's archmage, Malark Himbruel, helping his master to enter the Twisted Tower of Ashaba in Shadowdale in order to capture Shandril Shessair.
+
+Appendix
+
+Appearances
+Spellfire
+
+References
+
+---
+
+## Artuur
+
+Artuur was an illithid merchant in the illithid city of Zorvak'Mur during the Valsharess's campaign to conquer all the Underdark in 1372 DR.
+
+References
+
+---
+
+## Arena of Blood
+
+The infamous Arenas of Blood, also known as the Blood Arenas, were a pair of identical gladiatorial arenas located in the city of Manshaka in Calimshan.
+
+Location
+One of the Arenas was located in the northeastern drudach of the northwestern sabban of the city; the other was found in the southern drudach (south of Drudach Street) of the northeastern sabban.
+
+Description
+The Arenas were large, circular structures, walled all around and with two levels of stands for spectators. The high walls around the arena bore banners and circular emblems depicting downward-pointing daggers. Huge gates led down to the dungeons beneath.
+
+Defenses
+
+Beneath each Arena was a labyrinth of passages and tunnels intended to prevent escape, in addition to 100 guards. These dungeons were such a maze that it took the gladiator Vajra two years to memorize them before she made good her escape. Since that time, by 1357 DR, a blue dragon was kept in the dungeons as a guardian, though it was slain that year.
+
+Activities
+
+As of 1370 DR, each Blood Arena held five shows per day for three djenayin per show or one djenarba for the whole day. The matches were almost always to the death. An exception was if a match was set up to settle a political matter rather than for entertainment.
+
+The Manshaka city council focused largely on maintaining the Arenas of Blood, and openly encouraged betting on the fights, as these were a primary source of tax revenue. All matches generated huge sums of money from bets. In fact, Manshaka was second only to Calimport as a gambling center because of the Arenas. On an average day, the combined attendance of both arenas was over 10,000 spectators, and this number increased to 14,000 in the winter months when it was cooler.
+
+History
+In the time of their existence, only two gladiators had ever escaped the Arenas of Blood—Vajra Valmeyjar and Jhalarn.
+
+Vajra was a 12-year-old Tethyrian slave of Pasha Abon Duum, placed with his stable of gladiators at the Arena of Blood. There she learned the arts of the sword, spear, and net and became the most accomplished of Duum's stable. She slew creatures such as a bugbear and a reptilian, and the crowds roared her name, but she never responded. She found a friend in a fellow gladiator, Salabak.  However, after ten years, she had had enough and wanted out. Escaping, she seriously wounded several of Duum's best fighters and escaped from the labyrinth of corridors below the arena and into freedom. However, Abon Duum sent many bounty hunters after her, seeking to punish and reclaim his champion gladiator, though she remained free by 1357 DR. Eventually, Salabak agreed to serve Duum: he would gain Vajra's trust and return her to him.
+
+Finally, in the Year of the Prince, 1357 DR, Salabak did just that, and Vajra was again in Duum's power. He put her back in the Arena, setting her against a troll: she hacked its arm off, skewered it on her sword, then drove it into the otyugh kept to devour carrion, all to the cheers of the crowd. However, Salabak created an illusory manticore to appear to assault Duum as part of a ruse, causing chaos among the spectators, such as Allamon Sorn. Meanwhile, Vajra escaped into the tunnels beneath the Arena, where she battled the blue dragon guardian. The Catlord came to her aid, slaying the dragon, whose death throes collapsed part of the roof and opened a hole in the outer wall.
+
+The largest event ever held in the Arenas was the Great Games. They were held in Hammer of 1370 DR on the last tenday and resulted in the deaths of over 3,000 gladiators and 5,000 wild animals and monsters as the crowds cheered on. During the Great Games, a spellcaster disguised as a slave appeared and dissolved one of the walls with magic. He was quickly killed by arrows from the guards, but a pack of dire wolves did escape and attacked the audience.
+
+Inhabitants
+
+Each Arena had pens for over 30 monsters and cells for between 50 and 100 humanoid gladiators. Both free folk and slaves fought in the Arenas. However, very few slave-gladiators survived their time there.
+
+Champion gladiators wore a special golden manacle bearing the symbol of a jawless skull on one side and a dagger on the other. Those who recognized it knew they were in the presence of a deadly warrior. Champions also tended to wear other skull emblems, such as an earring or belt-buckle.In "Shackles of the Past", page 13, Vajra says "Every day I awaken to see this slave's manacle and it reminds me that I have never been free...", possibly implying the manacle cannot be removed. Vajra and Salabak are always depicted wearing their manacles.
+
+A number of otyughs were kept behind bars beside the arena. They were used to dispose of the dead, but Vajra found they seized the living readily enough.
+
+Appendix
+Notes
+
+See Also
+ Djen Arenas
+
+Appearances
+Comics
+ ''Advanced Dungeons & Dragons
+ "Spell Games, Part 1—Shackles of the Past"
+ "Spell Games, Part 3—Cat & Mouse"
+
+References
+
+---
+
 ## Archmage (novel)
 
 Archmage by R.A. Salvatore is the first book of the Homecoming series, which follows the Companions Codex series.
@@ -1197,6 +5134,3376 @@ bag of holding • Chacker and Whacker • Faerzress • Horn of Valhalla • Ic
 
 Events
 Battle of the Cavern • Battle of the Mines • Battle of the Under Way • Darkening • Festival of Founding • Spellplague • Time of Troubles • Treaty of Garumn's Gorge • Tyranny of Dragons • War of the Silver Marches
+
+References
+
+---
+
+## Arrowhawk
+
+An arrowhawk was a creature from the Elemental Plane of Air.
+
+Description
+Arrowhawks had four wings and four eyes (one pair on either side of its beak). They were covered in blue scales with the occasional tuft of yellow feathers. Adults (11–40 years old) were about  in length, with a wingspan of . Adults weighed about .
+
+Abilities
+Arrowhawks had the ability to fire a ray of electricity at their enemies.
+
+Ecology
+Arrowhawks were able to fly as soon as they hatched and the majority spent their entire lives in the air without ever setting down. Their ability to levitate aided them in flight.
+Habitats
+Beyond the Plane of Air, arrowhawks could be found in the Elemental Chaos.
+
+Appendix
+Appearances
+Novels
+Annihilation
+External Links
+
+References
+
+---
+
+## Aristocrat
+
+Aristocrat was a general term for a member of the wealthy and educated upper class. The rulers of most nations, or those holding some other form of political power, were often aristocrats.
+
+Training and Education
+Usually, one was born into the role of aristocrat.
+
+Because of their wealth, aristocrats had access to the best schooling and training, and so they could become exceptionally skilled in the fields of their choice.
+
+Outlook
+Most members of this class were strong-willed individuals.
+
+Abilities
+The aristocratic upper class was typically trained in the use of simple and martial weapons and shields and in the wearing of armor, even though their roles in society did not usually involve combat.
+
+Notable Aristocrats
+Several famous persons in the Realms were trained specifically as aristocrats; among them were:
+ Miklos Selkirk
+ Danilo Thann
+ Zelphar Thann
+
+Appendix
+See Also
+ Adept
+ Commoner
+ Expert
+ Warrior
+
+External Links
+
+References
+
+---
+
+## Arin el Sujil
+
+Sultan Arin yn Kahar el Sujil was the official ruler of Memnon in Calimshan in 1370 DR. In truth, the real power lay with his advisers and the pashas.
+
+Personality
+Arin el Sujil was arrogant and paranoid with little power. His vizars kept him in power for show.
+
+Activities
+Technically, Arin controlled the city's fishing, ship building, tavern, and wheelwright trades.
+
+History
+The only reason Arin was a sultan was because of a political deal arranged by his father Kahar el Sujil.
+
+Reference
+
+---
+
+## Arglath
+
+Arglath was a massive elder orb beholder from Ooltul, presumed to be alive in 1370 DR.
+
+History
+Arglath was a beholder of monstrous size from Ooltul, and one of the mightiest beholders to escape the city's destruction.
+
+At one point, it tried to conquer the Twisted Tower of Ashaba in Shadowdale but was destroyed by Elminster Aumar. Afterward, from time to time, Elminster disguised himself as Arglath, aided by the fact that nobody else knew of the death of the elder orb. In that role, Elminster foiled Manshoon's plot to take over Zhentil Keep and received in exchange a list of true names of powerful beings, including the phaerimm Triumvirate ruling Ooltul.
+
+Appendix
+References
+
+---
+
+## Armor of swimming
+
+Armor of swimming was a magical armor that could be found in Zakhara, the Land of Fate.
+
+ Description
+This armor looked like regular lamellar armor.
+
+Powers
+Wearers of this armor could move about in water as if they were unencumbered. This armor did not grant the ability to swim to someone who did not already know how to swim.
+
+Appendix
+References
+
+---
+
+## Artist genie
+
+Artist genies were special tasked genies who were brilliant craftsman and artists capable of creating masterpieces so long as their masters treated them well. Enslaved, charmed, or mistreated artist genies always produced inferior work.
+
+Artist genies were once dao and djinn but were reshaped over time.
+
+Description
+Artist genies varied in appearance based on their specialization.
+
+Combat
+Artist genies could use the following spell-like abilities: duo-dimension, mirror image, illusion, polymorph self, and stone shape.
+
+Habitat/Society
+Artist genies were sharp rivals with each other. The talked freely with other skilled creatures but disdained those who were deemed untalented.
+
+These genies were often very eccentric, wearing clothes bordering on the latest fashions and consuming bizarre foods on a regular basis.
+
+Ecology
+These genies depended on their patron and were only found where knowledge people could appreciate their work. Artist genies separated from the tools of their trade eventually went mad or died.
+
+Appendix
+Appearances
+Card Games
+ AD&D Trading Cards
+References
+
+Connections
+
+---
+
+## Architect genie
+
+Architect genies, also called builder genies, were special tasked genies who were common in the Great Dismal Delve. They were also bound by sha'irs in Zakhara to serve princes and lords as architects and builders. These genies were once dao but changed over time to suit their tasks.
+
+The mystical stories told of cities springing up overnight were a direct result of the power of the architect genies.
+
+Description
+These genies were bald and muscular. They usually had a brand of ownership on their hand or forehead.
+
+Combat
+Architects could use the following spell-like abilities: minor creation, vacancy, warp wood, stone shape, stone tell, and passwall. Once per month they could use a wish related to building.
+
+These genies were masters at finding the weak points of any structure, making them deadly during a siege.
+
+Architects would only resort to combat as a final option, preferring to let others fight instead. These genies would defend their worksite if commanded, but would rarely fight beyond its walls.
+
+Habitat/Society
+Their work was an architect's reason for living; their way to be remembered for all time.
+
+Buildings constructed by these genies cost four times as much were twice as strong as normal buildings and lasted for twice as long.
+
+They could replicate the style of any building that they have seen and been able to study for one day.
+
+Ecology
+These genies were slaves to the dao and resented them.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Arxhadk
+
+Arxhadk was the morkoth ambassador of Olleth in Sshamath in the year 1370 DR.
+
+Arxhadk hailed from the Arcanum of Olleth, the morkoth magocracy in the Sea of Fallen Stars. He survived out of the water thanks to a golem-like construct that resembled and had the powers of a massive water elemental, which he dwelt inside. Arxhadk had a slithering tracker as a familiar and sometimes he used it as silent and unseen assassin, unknown to the drow of Sshamath.
+
+Appendix
+References
+
+---
+
+## Arcane trickster
+
+Arcane tricksters were roguish mages who combined arcane spellcasting ability with stealth.
+
+Culture
+Arcane tricksters tended to prepare for any eventuality and then winged it, relying on their stealthiness to sneak in and use their spells to maximum advantage, then get away quickly.
+
+Abilities
+An arcane trickster could sneak attack just like a rogue. As an advanced technique, the trickster could, once a day, just decide to make a particular melee or ranged attack a sneak attack, catching their opponent off-guard and flat-footed. A highly advanced trickster could do this twice per day.
+
+Combining magic with the practical abilities of the trade, an arcane trickster could perform sleight of hand moves, disable devices, and open locks on targets up to  away.
+
+History
+Around 1372 DR, the city of Waterdeep had a higher than average population of arcane tricksters.
+
+Notable Arcane Tricksters
+Zabbas Thuul, a thief of Waterdeep.
+
+Appendix
+Appearances
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Arnagus
+
+Arnagus the Shipwright was the wealthiest shipbuilder in Waterdeep in 1372 DR.
+
+Personality
+Arnagus was a strong and vital man. He was truly friendly with all people that he met but often had few words to say, even to friends he knew for years.
+
+Activities
+As a shipbuilder with a great reputation, Arnagus was very influential in the Order of Master Shipwrights. He was also an able handler and trader. For his profound knowledge about the city's docks, he often helped the City Watch with crimes that happened in the port.
+
+Appendix
+References
+
+FR:Arnagus
+
+---
+
+## Ara bint Cala
+
+Ara bint Cala was a sea elf living in Chaos Bay near Hawa in 1367 DR.
+
+Activities
+Ara was a pilot who helped safely guide incoming ships through the treacherous coral maze of Chaos Bay.
+
+She ran afoul of the Corsair Council after demanding more pay and prestige for the sea elves living in Chaos Bay, even going to far as to reveal the secrets of safely navigating the coral maze to outsiders.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Arkhelthingril
+
+Arkhelthingril (also known as Ice) was an old female white dragon who was transformed into a dracolich by the archmage of Maerimydra, Duneth Wharreil.
+
+Description
+About 20-ft-long (6 m), Ice's form had not fared well since its transformation into a dracolich and her flesh had rotted to the point where her bones were visible.
+
+Personality
+Arkhelthingril was a manipulative and patient example of her kind. When dealing with others she was coldly calculating and would often try to seek to bargain something out of them, trading information and even her co-operation depending on the prize offered. She had the same avarice as other dragons and was even willing to subject herself to the dangerous experiments of Duneth Wharreil in order to acquire great wealth.
+
+Despite being transformed into a dracolich, she was a cautious creature, and preferred to observe and avoid her foes until she was sure she could overwhelm them. She would even take time to administer coup de grace's on her foes, if she could.
+
+Abilities
+As a white dragon of some age, Arkhelthingril could expel a 50-ft (15.2 m) broad cone of cold upon her foes and was able to manifest a cloud of freezing fog.
+
+Upon her transformation into a dracolich, Ice gained considerable powers. She could paralyze foes with but a glare or touch and was able to reform even after defeat, thanks to her phylactery.
+
+Possessions
+Despite Arkhelthingril's agreement for treasure with the archmage of Maerimydra, after her transformation into a dracolich she was still without a single coin. Even her phylactery—a large, flawless pearl—was held in ransom by Duneth to keep her obedient. The pearl alone was worth 2,600 gp, even before considering its status as a powerfully enchanted item.
+
+Relationships
+Ice had a checkered relationship with Duneth Wharreil, the archmage of Maerimydra. For a time, they had an agreement of mutual benefit where Duneth would provide the dragon with great wealth. However after Arkhelthingril's transformation into a dracolich, Duneth reneged on the agreement and used her phylactery as a means of keeping Ice compliant.
+
+History
+Early Life
+Arkhelthingril was born at some point between 972 DR and 1171 DR. Although Ice shared the same draconic lust for treasure as the rest of her kind, eventually she became desperate enough for more wealth that she was willing put her life on the line to negotiate with the drow of Maerimydra.
+
+Silence of Lolth
+In 1372 DR, Irae T'sarran raised the Undying Temple in Maerimydra and transformed the archmage of Maerimydra into a silveraith in the wake of Lolth's Silence. As the Undying Temple began to disrupt the Weave around it, the silveraith Duneth Wharreil started experimenting with the corrupted magic from the temple in Castle Maerimydra. Duneth set his sights on creating a dracolich and despite at least one failed attempt with a black dragon, the archmage managed to persuade the white dragon Arkhelthingril (also known as 'Ice'), to become a subject.
+
+To this end, Duneth promised Ice a vast amount of wealth in exchange for her cooperation in the process. Together they were able to bind the white dragon's life force to an enormous pearl, successfully transforming her into a powerful dracolich. However, after the completion of the ritual, Duneth left Ice ensconced in the former banquet hall of House Chûmavh and placated the undead dragon with promises of future treasure. To add weight to his promises, Duneth kept hold of Ice's phylactery to ensure the dracolich's dwindling obedience.
+
+By 1374 DR, Ice still resided in Maerimydra.
+
+Appendix
+Appearances
+ City of the Spider Queen
+ Dragons of Faerûn
+
+References
+
+---
+
+## Arvik Zaltos
+
+Arvik Zaltos was a Red Wizard of Thay in Daggerford circa 1485 DR.
+
+History
+In 1485 DR, Arvik paid the Clotskull orcs, led by Booga, to attack the Floshin Estates in order to gain access to an ancient altar to Yan-C-Bin in the family crypts. A maid from the Floshin Estates survived the attack, escaped, and told Daggerford authorities about who had attacked them. Eventually, Arvik was identified and captured by Daggerford authorities. Arvik was hanged in the town square, on the rainy Midsummer of 1485 DR.
+
+Possessions
+Prior to his capture and hanging, Arvik Zaltos was in possession of The Tome of Blasphemous Magic, a spellbook loaned to him by Szass Tam himself, for his mission. The book was filled with bizarre necromantic rituals and twisted variations of existing spells.
+
+Appendix
+References
+
+---
+
+## Araneth Idogyr
+
+Araneth Idogyr was a half-elven former adventurer if the Idogyr clan, who later ran the Hills' Cheer Distillery & Brewery in the Shalanar Barony of Erlkazar. He was the half-brother of the famous Tethyrian mage Gamalon Idogyr.
+
+Activities
+Araneth's claim to fame was his brewing of the popular brew, Old One Eye. He acquired the recipe for this unique ale from a cyclops he met and befriended during his time in the Goblin Wars of 1358 DR.
+
+Appendix
+References
+
+---
+
+## Arabellan Dry
+
+Arabellan Dry was a ruby wine exported from Arabel and sold through Aurora's Whole Realms Catalogue.
+
+Description
+This fine red wine was best served at cellar temperature. It was dry with a slight woodsy undertone with a hint of berry.
+
+Availability
+ The Candlekeep Inn had Arabellan Dry on their drinks menu, charging 1 silver pieces per glass.
+The Friendly Arm inn had Arabellan Dry on their drinks menu for two gold pieces per serving.
+Further south, Arabellan Dry was served at the Belching Dragon in Nashkel.
+In the town of Waymoot of Cormyr, Arabellan Dry was used by cooks of the Silver Wink inn. A whole roasted boar, smothered in garlic butter and braised in Arabellan Dry was a once-a-week event.
+Some taverns and eateries in Baldur's Gate and the Western Heartlands, along the River Chionthar, carried bottles of Arabellan Dry that were scribbled on by someone named Captain Trombone. These bottles had a drawing on the bottle that depicted a sad pig eating a bacon sandwich, accompanied by the words "Rise up!"
+
+Prices
+Arabellan Dry could be purchased in the following containers:
+ Cask (25 sp)
+ Barrel (6 gp)
+ Butt (20 gp)
+ Tun (48 gp)
+
+History
+In the, A Modest Guide to Sword Coast Wine sang praises to Arabellan Dry's virtues.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Arabellan cheddar
+
+Arabellan cheddar  was a cheese crafted in Arabel. It was also sold through Aurora's Whole Realms Catalogue.
+
+Description
+This sturdy orange cheese was the most popular cheese around the Sea of Fallen Stars. It was tasty, with a robust flavor, and traveled well, making it the cheese of choice for adventurers.
+
+Prices
+Arabellan Cheddar could be purchased in the following sizes:
+ Wheel, 4 sp
+ Circular Whey, 35 gp
+
+Arabellan cheddar along with many other cheeses was on offer at The Rising Moon inn Deepingdale.
+
+History
+
+In the, an adventuring party known as the Seekers procured a large quantity of Arabellan cheddar after allowing a halfling member of the party, Samkin, to be in charge of buying supplies while in Arabel. Samkin compared the cheddar favorably to halfling's cheese.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ardulrae Melarn
+
+Ardulrae Melarn was a member of House Melarn and Matron of Scriptures of Arach-Tinilith in 1479 DR.
+
+History
+Ardulrae was the third daughter of Kyrnill Melarn and thanks to the strength of the new House Melarn she rose through the ranks of the Arach-Tinilith instructors. Ardulrae's main objective was actually to take total control of the school for her house. Her spies constantly moved among the halls, hoping to unveil the secrets of Ardulrae's rivals.
+
+Appendix
+References
+
+---
+
+## Araag Dyrr
+
+Araag Dyrr was a member of House Agrach Dyrr of Menzoberranzan in 1373 DR.
+
+History
+Araag graduated from Sorcere at an unknown time.
+
+During the siege of Dyrr's compound for their betrayal of Menzoberranzan during the Siege of Menzoberranzan, Araag was called back to his house together with all other Dyrr wizards to help raise magical defenses.
+
+Appendix
+References
+
+---
+
+## Arandur
+
+Arandur was a naturally-occurring metal found within igneous rock throughout Toril.
+
+Description
+Arandur was a blue-green streaked metal that appeared within pockets of hyaline glass. After refinement and final forging, it turned a silver-blue color with a green reflective radiance. Refined arandur had the same weight as steel.
+
+The metal bonded extremely well with others, so much so that the spell crown meld was not needed when enchanting items that had a component made of arandur.
+
+Use
+The process of refining arandur ore was previously a secret of the gnomes, but has since been shared with the elves of Evereska. To prevent arandur from being brittle after it was mined, it was tempered with the blood of either red or blue dragons. As such, the extremely skilled smiths that were capable of working with the metal, used it in a diverse selection of items, from gnomish locks and tackle to the legendary elven warblades.
+
+Blades forged from arandur held a sharp edge even after much abuse. Armor and shields that were made from the metal were resistant to sonic waves, elemental forces, acid, magical force and even disintegration. It was said that armament forged from arandur could even completely absorb the arcane released by a magic missile spell.
+
+Appendix
+Appearances
+
+References
+
+FR:Arandur
+
+---
+
+## Arkas
+
+Arkas was a grass found on the fields of the ranchos in Dambrath.
+
+Uses
+This hearty grass was used as feed for local livestock. It was known within Dambrath, though secret outside the nation's borders, that feeding arkas to a young horse would contribute to its growth as a superior steed. This was notable in the domestic Dambrathan breed, the dambraii.
+
+Description
+Blades of arkas could grow between 3 to 4 ft. (0.9 – 1.2 m) tall.
+
+Appendix
+References
+
+---
+
+## Argul Marammas
+
+Argul Marammas was a wizard who lived in Suzail in 1367 DR.
+
+Personality
+In Argul's view, most people, warriors especially, were little more than lumbering fools who destroyed everything they could get their hands on. Argul's condescending attitude kept many mages from his company.
+
+Activities
+Argul spent most of his time researching exotics planes of existence and spells involving personal protection. In order to fund his research, and his expensive taste in exotic dining, Argul sold scrolls containing one to three spells. These scrolls sold for 5,000 gp per spell.
+
+Rumors and Legends
+Eager to learn more about the planes, Argul was always interested in speaking with planar travelers.
+
+Appendix
+References
+
+---
+
+## Arietta Seasilver
+
+Arietta Elbetrina Ifig Seasilver was a Cormyrean noblewoman of House Seasilver in Marsember, and the chosen of Siamorphe. She took a role in some critical events in Faerûn during the Second Sundering in the late 15 century DR.
+
+Personality
+True to the teachings of Siamorphe, Arietta believed that the nobility of the Realms had a duty to serve their land and its people above their own interests.
+
+Activities
+In order to get away from the life of a young noblewoman, Arietta would masquerade as a bard named Elbertina and perform at The Old Oak tavern.
+
+Possessions
+Among Arietta's most prized possessions were her yew hunting bow and her lyre. She even had a quiver of magical arrows that were personally made by the great War Wizard Glathra Barcantle.
+
+Relationships
+Arietta  was the daughter of Grand Duke Farnig and Grand Duchess Elira Seasilver. She had a contentious relationship with her mother, and believed her father was not dutiful to his subjects.
+
+She was well-served by her lady-in-waiting Odelia, and less-than-well served by a number of house guards, including Mannus and Suther.
+
+During her adventures Arietta grew close to two of her companion, the city guard Kleef Kenric, and the heartwarder Joelle Emmeline, the latter with whom she became a lover. With Joelle's love and Kleef's trust and devotion, she overcame a crisis of identity and uncovered her powers as Siamorphe's chosen.
+
+History
+Arietta grew up as a bright and dutiful young woman, wholly devoted to the teachings of Siamorphe. While she had never received any sort of divine vision or mandate, she had periodic dreams that featured the Divine Right. Afterwards, the priests and priestesses at the temple began to lavish praise and favor upon Arietta, to the point where she believed herself to be Siamorhpe's chosen.
+
+When the shadovar armies assaulted Marsember, on Uktar 2 of the, Arietta was placed under strict protection in her family's estate by orders of her father. She was to be kept safe until the family could sail to Elversult aboard their ship, the Wave Wyvern.
+
+Arietta escaped Marsember with Kleef Kenric, paladin follower of the dead god Helm, and two Chosen, Malik el Sami, follower of Cyric, and Joelle Emmeline, follower of Sune. Malik and Jeolle had a mission from their gods to take the Eye of Gruumsh to the earth primordial Grumbar's temple in the Underchasm. Arietta decided to help them, for a time under the guise of Elbertina.
+
+The group traveled with the Eye across the Sea of Fallen Stars to the lands of the Vilhon Reach, and all the way through the Chondalwood forest. As the group was rafting down the a rover to the Underchasm Arietta was confronted with a hurtful "truth" posed by Malik: that she was not Siamorphe's actual chosen, and her "powers" had merely been an after effect of Kleef's leadership as a follower of Helm. Arietta fell for Malik's hurtful words, and doubted her abilities and importance for much of their journey.
+
+Eventually, the party reached the Underchasm and Sadrach's Spire. When the group was confronted with the great rage of the plaguechanged Sadrach himself, Arietta proved she was indeed Siamorphe's chosen. With the support of her lover Joelle, and the confidence of Kleef, Arietta commanded the noble presence necessary to step past the Sadrach and his magic, allowing the group to deliver the Eye to the temple of Grumbar.
+
+A short time later, Malik betrayed his companions in a final desperate attack to slay Arietta in the name of Cyric. Joelle tackled the traitorous man to save her lover, sacrificing her own life in the process. While she suffered great loss, Arietta and Kleef managed to escape Sadrach's Spire, setting free the people that were trapped within. They began their journey back to their home in Cormyr, as noblewoman and devoted knight.
+
+Appendix
+Appearances
+Novels
+ The Sentinel
+
+References
+
+---
+
+## Araundras Othaun
+
+Araundras Othaun was a Chosen of Mystryl in ancient Netheril.
+
+History
+In the time of Netheril, Araundras was a Chosen of Mystryl. However, Larloch, a fellow Chosen, doubted Araundras's loyalty to the goddess, so he gave him a ring with a scrying spell inside. Some time later, Telamont Tanthul killed Araundras and took his ring as a trophy. Thus, after Thultanthar returned to Toril in 1372, Larloch was able to use the ring to spy upon the shadovar's plans. In 1487 DR, Larloch told Elminster Aumar all about Araundras.
+
+Appendix
+Appearances
+The Herald
+
+References
+
+---
+
+## Ar-Rabi
+
+Sheik Ar-Rabi was a bandit leader during the mid–14th century DR.
+
+Activities
+Ar-Rabi was the leader of the bandit group known as the Desert Wind. His base of operations was the Grinning Skull oasis located deep within the Plains of Purple Dust.
+
+Ar-Rabi would use captured prisoners to sample the potentially deadly water of the oasis before allowing his men to drink.
+
+He would organize raids on the tribes of the desert and southern Murghôm.
+
+Appendix
+References
+
+---
+
+## Ardred Briferhew
+
+Ardred Briferhew was a veteran caravan master just before the Tyranny of Dragons.
+
+Activities
+Ardred worked for the High Road Charter Company with the role of managing the caravan traffic to points north of the city.
+
+History
+At the start of the Tyranny of Dragons in 1489 DR Ardred led a great caravan that, unbeknownst to him, was full of agents of the Cult of the Dragon transporting treasures for the Hoard of the Dragon Queen.
+
+Appendix
+Appearances
+ Hoard of the Dragon Queen
+
+References
+
+---
+
+## Arlaenga
+
+Arlaenga was one of the servants in Lord Marsten's hunting lodge.
+
+History
+Arlaenga was the head maid for Lord Marsten until, some time before the Tyranny of Dragons, her master was killed and the lodge occupied by Cult of the Dragon agents under Talis Kasterel. She decided to use Arlaenga and the other servants as her own. Arlaenga hoped to show her loyalty to the new masters by spying on things she found suspicious.
+
+Appendix
+Appearances
+ Hoard of the Dragon Queen
+
+References
+
+---
+
+## Aria of peace
+
+Aria of peace was a powerful enchantment spell used to stop hostile interactions.
+
+Effects
+This spell created soothing melodies of different instruments within the area of effect around the caster. Listeners who were charmed by these sounds ceased all violent activities. The tunes could be kept up by the caster through concentration and then lasted some time longer, giving the caster the chance to settle the situation with more permanent means.
+
+Components
+This spell required verbal components only.
+
+History
+Aria of peace was the most powerful of the "magics of sight and sound" collected by Faerûnian master bard Morion in his special spellbook. It saw widespread use within Zakhara, but had a different name there. Possibly the spell was invented in the Land of Fate.
+
+Users
+Aria of peace was generally eschewed by evil spellcasters due to its nature.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Artreth Obarskyr
+
+Artreth Obarskyr, a son of King Ortolar, he was the 39th Obarskyr monarch and one of the three "boy kings" of Cormyr while Rathdar Orlenthar ruled as regent. He died in the Purplethroat Plague.
+
+Appendix
+
+Reference
+
+Connections
+
+---
+
+## Arathra Obarskyr
+
+Arathra "the Little Spider" was the 45 Obarskyr monarch of the royal line and a queen of Cormyr. She was one of the grandnieces of Gorauna.This suggests she is the granddaughter of either Berost, Gorann, or Ulbaeram; and daughter of Silbran, Raerboth, Belmuth, or Ortolar.
+
+Arathra's nickname came from her inherited small, frail build and her venomous disposition. She was softly smiling cruelty personified and intrigues and treachery were her fascination, delight, and entertainment. In the years before ascending the throne, she took a consort and bore him three sons, two of whom, in the fullness of time, wore the crown.
+
+Appendix
+
+Notes
+
+Reference
+
+Connections
+
+---
+
+## Armories (Oryndoll)
+
+The Armories of the illithid city of Oryndoll were located all throughout the city.
+
+They stored weapons and armor that were needed to equip an army of thralls. They were heavily guarded in the event of another thrall uprising. Most tzakandi under the control of the Tamer Creed were stationed in barracks around the arenas that lay at the core of each armory.
+
+Appendix
+
+References
+
+---
+
+## Ariser Creed
+
+The Ariser Creed was one of the major illithid Creeds in the Realms. They sought to dominate the surface world. They believed that the best way to obtain exclusive knowledge was by attacking knowledge storehouses on the surface. For many years, the Arisers wished to plunder Candlekeep.
+
+Bases
+The Arisers had a base called the Darkened Vault in Oryndoll. It was a minor faction in the city, unlike in other illithid hives.
+
+This Creed also founded a colony at Tellectus, with the aim of stealing from Candlekeep.
+
+Appendix
+
+References
+
+---
+
+## Argath
+
+Argath was a member of the Cult of the Howling Hatred.
+
+History
+Argath was originally a scoundrel from a settlement near Silverymoon. After being banished from his home, he joined the Howling Hatred. In 1491 DR, he acted as the cult's liaison and the supervisor of the bugbear chieftain Hrar, in Damara near the Monastery of the Yellow Rose. Eventually, an adventuring party hired for a mission at the monastery were convinced by sergeant Sergor to fight Hrar and his minions, and Argath also was killed.
+
+Appendix
+Appearances
+Eye of the Tempest
+
+References
+
+---
+
+## Armor of the desert evening
+
+Armor of the desert evening was a magical suit of armor that could be found in Zakhara, the Land of Fate.
+
+Description
+This magical armor was made using lamellar armor.
+
+Powers
+Though it did not grant the wearer any additional protection compared to regular lamellar armor, the armor of the desert evening could be worn in the heat of the desert without causing any kind of additional discomfort to the wearer as other armor would when heated under the fierce burning sun.
+
+It should be noted that this armor did not protect the wearer from dehydration or sun exposure. Instead, it did not increase these effects as other armor would.
+
+Notable Owners
+ Nabilanasa, an elven ranger and guide who traveled the deserts of Zakhara.
+ Raji al-Taqi, an elven moralist, wore a version made of banded mail instead of lamellar.
+
+Appendix
+Appearances
+Card Games
+AD&D Trading Cards
+References
+
+---
+
+## Ariana Riverlost
+
+Ariana Riverlost was a wizard member of the Harpers in the Dessarin Valley during the Elemental Evil crisis.
+
+History
+In 1491 DR, Ariana and her two half-elven scout companions Elifar and Lorendil were sent to the Halls of the Hunting Axe in order to stop Gargosh Blusterhelm from reclaiming the legendary axe Orcsplitter. Somehow, the adventurers hired by Gargosh resolved the matter.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+
+References
+
+---
+
+## Arcorar
+
+Arcorar, also known as the Great King Forest, was a large forest region that at one time included the realms/domains of Rystall Wood, Cormanthyr, Elven Court, Jhyrennstar, Semberholme and Uvaeren.
+
+Geography
+At its largest extent, Arcorar stretched from west of Cormyr to east of the Moonsea.
+
+History
+The forest was originally populated after the Crown Wars when the elves were spreading out looking for new unspoiled regions to settle. Over time, this forest broke up into smaller and smaller pieces until the name was no longer relevant, with the largest remaining fragment being Cormanthor.
+
+Appendix
+References
+
+---
+
+## Arms and Equipment Guide
+
+The Arms and Equipment Guide is a 2-edition Advanced Dungeons & Dragons accessory. It is the third book in the DMGR series.
+
+{{Quote|At one time or another, every Dungeon Master faces questions like "What's the difference between banded mail and splint mail?" and "What do all these pole arms look like?"
+ DMs and players alike will be thrilled to find answers to these and other equipment questions all in this book, the Arms and Equipment Guide. Lavishly illustrated, this book provides valuable descriptions and diagrams for a variety of armors, weapons, and barding, as well as important items of clothing and equipment. This is the essential volume for the well-equipped character!}}
+
+Description
+The Arms and Equipment Guide provides detailed descriptions and rules for a wide variety of weapons, armor, and other equipment that can be used by characters in the game. It includes information about the different types of weapons and armor, as well as guidelines for their use and customization.
+
+The book also includes rules for creating and modifying magical items, as well as guidelines for handling and using firearms and other ranged weapons. It also provides rules and descriptions for various vehicles and mounts that can be used in the game, such as horses, wagons, and ships.
+
+In addition to its rules and mechanics, the Arms and Equipment Guide'' also includes a wealth of background information about the history and lore of various weapons and pieces of equipment.
+
+Contents
+Chapter 1 Armor
+
+Written by Grant Boucher and illustrated by Kelly Freas, Laura Freas, Mark Nelson and Karl Waller.
+Chapter 2 Equipment for mounts
+
+Written by Jon Pickens and Troy Christensen, and illustrated by Valerie Valusek.
+Chapter 3 Weapons
+Written by John Terra and illustrated by Stephen Sullivan.
+Chapter 4 Equipment
+Written by Jon Pickens and Troy Christensen, and illustrated by Ken Frank.
+Chapter 5 Clothing
+Written by Scott Davis and illustrated by Ned Dameron.
+
+Index
+
+Armor
+
+Clothing
+
+Creatures
+
+Equipment
+
+Religions
+
+Weapons
+
+Miscellaneous
+
+Gallery
+
+Appendix
+See Also
+ Images from Arms and Equipment Guide
+External Links
+
+References
+
+---
+
+## Ariana
+
+Ariana was a deep gnome merchant in Gracklstugh in the late 15 century DR.
+
+History
+Ariana was a gem merchant in Gracklstugh. Her duergar business partner was arrested and executed for selling stolen jewelry. She tried to find smugglers near the city's gate to sell her goods.
+
+Appendix
+Appearances
+ Out of the Abyss
+
+References
+
+---
+
+## Ardet Peytir
+
+Ardet Peytir was a young socialite in Mulmaster.
+
+History
+In 1491 DR, Ardet was one of the main opponents of the Liberators led by Aleyd Burral, saying that Mulmaster did not need a war against Phlan and could use those men in better ways. For this he was kidnapped, and his mansion was destroyed by Aleyd and her brother Wylan Burral, who was secretly a member of the Cult of the Black Earth. He was eventually saved by an adventuring party hired by his cousin, Blade Cora Peytir, when she uncovered the truth and defeated Wylan and his minions.
+
+Activities
+Ardet usually did nothing, instead existing on the money inherited from his dead father. He was a famous party habitué.
+
+Relationship
+Ardet was the cousin of Blade Cora Peytir and Fedosia Peytir.
+
+Appendix
+Appearances
+ Black Heart of Vengeance
+
+References
+
+---
+
+## Arrizz
+
+Arrizz was a drow elf in the Moonsea in the late 15 century DR.
+
+History
+Arrizz was a member of a drow noble house very far from the Moonsea until he betrayed his house and struck out on his own. He escaped pursuit by bounty hunters in the Underdark until he reached the Moonsea.
+
+Near Cormanthor, Arrizz met the moon elf scout Deriel Rethslane and the two fell in love.
+
+In the, Arrizz was pursued by duergar bounty hunters and contracted the darkborne rot illness. So he hid near the Goodroot farm. Unfortunately, he infected the half-elf farmers, and they died. Soon after, the farmer's daughter, Constance Goodroot, found him but a patrol of Red Plumes arrived to retrieve the red dye that the Goodroots produced from the beet juice harvested on the farm, as well as some adventurers and even two duergar bounty hunters.
+
+Later that year, Arrizz was saved from his illness but was captured by the Red Plumes and destined to go to the Hillsfar Arena. His lover Deriel negotiated an exchange for him: she would deliver them worthy fighters and they would release Arrizz. At last after a riot in the Arena, Arrizz was freed by the adventurers.
+
+Later, in the, he agreed to work as smuggler to deliver goods from the surface to the refugees from Szith Morcane. Arrizz gained the help of a minstrel band led by a Joydancer of Lliira named Felratha. Together, they gained a shipment of supplies from the Zhentarim and planned to deliver them using the Waydown. For this they hired an adventuring party to escort them.
+
+However, during a subsequent journey in the Underdark, Arrizz was attacked by a group of githyanki.
+
+Personality
+Despite being close-lipped, Arrizz never hesitated to criticize foolish or weak behavior. He truly wanted to abandoned the Moonsea area for all the bad things that had happened to him there. Arrizz never wanted to speak about Deriel again. He was still a drow inside, evil and intolerant of weakness.
+
+Appendix
+
+Appearances
+ Harried in Hillsfar
+ Shackles of Blood
+ The Waydown
+ Writhing in the Dark
+
+References
+
+---
+
+## Archive of Curiosities
+
+The Archive of Curiosities was part of the complex of the Palace of the Enlightened Throne in Huzuz in 1367 DR.
+
+Activities
+Unique gifts presented to the Grand Caliph and other treasures were displayed here for the public to see. Some of the more interesting items included a pirate flag taken by the Grand Caliph himself during his adventuring days, a jade throne presented by the emperor of Shou Lung, a magical harp that played music on command, and a large tapestry depicting a king with a purple dragon on his shield.
+
+The Grand Caliph desperately wanted to add a genuine Halruaan skyship to his collection, and was willing to pay handsomely for the acquisition.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Araunglauth
+
+Araunglauth was a massive beholder and a member of the Zhentarim in the 13 and 14 centuries DR.
+
+Araunglauth lived by the river Tesh in the valley of Arntethyl in Desertsmouth Mountains in the Dalelands from around 1288 DR. An ally of Manshoon by 1358 DR, it aided Ruatheene's rule.
+
+Appendix
+References
+
+---
+
+## Arachhar Sevenstar
+
+Arachhar Sevenstar was a wizard and a member of the Zhentarim. He served as a mageling to Ruatheene and was based in a Zhentilar camp in the valley of Arntethyl by the river Tesh.
+
+Arachhar was a genius boy from Yhaunn, known for his talent in creating new spells and his frequent episodes of insanity.
+
+References
+
+---
+
+## Arhymeria Ithal
+
+Queen Arhymeria Ithal was the wife of King Nishan Ithal II of Tethyr.
+
+Description
+Arhymeria was an exquisitely beautiful Calishite woman and also a loving and compassionate one.
+
+Abilities
+She was a wizard, a student of Princess Rhynda Ithal and a better one than her grandfather ever was. She was the creator of the royal artifact known as  Arhymeria's  Dagger, and she also developed several peaceful and fun spells.
+
+Family
+Arhymeria was born Arhymeria yr Una el Shoon, the youngest daughter of Akkabar Shoon the Elder's oldest son and Una el Shoon, making her a granddaughter of Akkabar Shoon.The timeline in Calimport calls Arhymeria Akkabar the Elder's daughter in one location; however, she is his granddaughter in another location in that same sourcebook, and Empires of the Shining Sea is very clear that she is his granddaughter, implying that the first reference in Calimport is an error. She had an older brother, Akkabar, and a younger brother, Amahl. Her nephew, through Akkabar the Younger, was Amahl Shoon II.
+
+She gave birth to three sons and two daughters. Her third son and youngest child Clovis' descendants lived in exile until the fall of the Shoon Imperium.
+
+Relationships
+Arhymeria was happily married to Nishan. She had little contact with her Calishite family, with the exception of her younger brother Amahl.
+
+History
+When Arhymeria was only four-years-old, she was engaged to be married to Nishan Ithal II, grandson of Princess Rhynda Ithal, as part of a treaty orchestrated by Akkabar the Elder to support the regency of Rhynda, Akkabar's former tutor, until Nishan would come of age. She grew up in the royal palace of Tethyr as a lady-in-waiting.
+
+Secretly, Akkabar the Elder intended to use his granddaughter to steal magic from his former tutor Rhynda, but Arhymeria grew close to Rhynda and was a better student of hers than Akkabar ever was. Akkabar soon gave up on his plan to use Arhymeria, considering her, in his own words, an "insolent and traitorous" granddaughter.
+
+Arhymeria and Nishan were married at the end of Kythorn in the Year of Gleaming Frost, −64 DR, when they each were fifteen-years-old, the age of majority in Tethyr, becoming queen.
+
+Nishan and Arhymeria had their five children over the next seven years, and the kingdom was at peace.
+
+During her husband's 73 birthday celebration in the Year of Scarlet Scourges, Arhymeria, Nishan, and all but four members of the royal family were killed during a siege of the castle of Ithalyr by Clan Fyrson and their hired pirates. These four survivors were spared because of the wise planning of Queen Arhymeria and the help of an elven woman named Ochyllyss Bormul. Arhymeria led the survivors to a secret room in the castle and placed two of her grandchildren and her great-grandson Yardane, heir to the throne, into the care of Ochyllus. She also gave Ochyllus the Shield of Silvam and a magic dagger she created that could only be wielded by someone of royal blood of House Ithal. The elven woman would raise Yardane among the Suldusk elves of the Forest of Tethir.
+
+Despite the fact that Arhymeria saved the royal line of Tethyr from extinction, because Tethyr soon after came under the control of the Shoon Imperium, her blood family, for centuries most Tethyrians believed that Arhymeria was a traitor who orchestrated her husband's death. Even though her innocence was proven when the Imperium fell, it was perpetuated by the inaccurate Chronicla Tethyria of Alemander III. This false belief earned her terrible nicknames, such as the Betrayer, the False Queen, and Tethyr's Bane. The true history of Arhymeria was written down by King Haedrak Rhindaun III in 1370 DR as part of his Historia Tethyra, in an attempt to clear her name. Haedrak theorized that it was because she had prepared entertaining spells for her husband's birthday that she was unable to help defend the castle with her magic.
+
+Afterward, her brother Amahl took the throne, as orchestrated by the wicked Pasha Akkabar Shoon the Elder. Amahl refused to obey his grandfather's orders, however, because of his love for and in honor of the memory of his sister.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Arktash
+
+Arktash was an orc chieftain of the Il-Khan tribe that made its home in the Spine of the World, around the 14th century DR.
+
+Personality
+While a mighty warrior in their own right, Arktash obtained their position as leader of the Il-Khan tribe through guile, not strength. Arktash was an intelligent and shrewd leader.
+
+History
+Less than a year into Arktash's reign, the orc chieftain was slain by rivals. These usurpers felt Arktash had shown disrespect by not claiming power through force.
+
+Legacy
+As a child, the blackguard Dorn Il-Khan greatly admired Arktash. He later used the fallen chieftain's story as a cautionary tale in conversation with the Bhaalspawn known as Gorion's Ward.
+
+Appendix
+Arktash's gender is not defined in Baldur's Gate: Siege of Dragonspear, as the game files simply alter the orc chieftain's gender to match that of the player character.
+
+Appearances
+Baldur's Gate: Siege of Dragonspear
+
+References
+
+---
+
+## Arash bint Sanjar
+
+Arash bint Sanjar was a Grand Caliph of Zakhara, ruling from the Enlightened Throne in the mid–7th century DR. He was the daughter of Sanjar.In both the Arabic naming convention and the Arabian Adventures sourcebook, page 26, the patronymic "bint" means "daughter", and thus Arash bint Sanjar is "Arash, daughter of Sanjar". However, the text of The Grand History of the Realms, page 95, refers to Arash as "he". Furthermore, the name "Arash" is a common Iranian name for men. The discrepancy may be an error, either in-universe or in the text, or may suggest a change in sex or gender, or a woman ruling as a man. This article adopts the literal interpretation for faithfulness.Arash's role as Grand Caliph on the Enlightened Throne may be a continuity error, as Land of Fate—undated, but conventionally assumed to be set in 1367 DR—establishes that the First Caliph, first of the Grand Caliphs and founder of Enlightenment, arose five centuries before, or in the 800s DR, while Arash rules much earlier, in 657 DR. Furthermore, it states that there had only been eighteen caliphs since, all men. There are countless possible explanations, the simplest being that the Mar writers of the treatise presented in The Grand History of the Realms, perhaps made centuries later, are mistaken, or it really is just an error by author Brian R. James.
+
+History
+According to a treatise by a Mar writer of the Utter East, in the Year of the Nine Stars, 657 DR, suffering the Plague of Fiends, the Five Kingdoms of the Utter East had sent ships out north and south, desperately begging for aid from their neighbors. Grand Caliph Arash bint Sanjar heard these pleas, but he saw the Ffolk people as only heathens and barbarians, the land as infected and ravaged by the fiends and undead.
+
+Instead, he sent an armada of sambuk to the Utter East in early Mirtul of 657 DR. The corsairs launched a surprise attack on the Five Kingdoms, swiftly overrunning and seizing their defenseless port cities. Then legions of askar, clad in djinn-forged lamellar and thrusting killing katars, disembarked and marched across the land. With murderous efficiency, they razed every village and slew all they encountered, whether fiend or Ffolk, in what became known as the Scouring of the Utter East. The Grand Caliph had no plans to occupy this land, so by the time autumn fell, his forces boarded their sambuks and sailed home again.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Aravilar Moondown
+
+Aravilar Moondown was a moon elf Knight of the Weave who served with the order during the 14 century DR. He was extremely dedicated to the Weave and magic throughout his years of service.
+
+Description
+In his younger years, Aravilar believed himself superior to others due to his elven heritage, and often spoke to others as if they were his lessers. While he was confident in himself to the point of being arrogant when he first joined the Knights, he had mellowed out quite a bit after spending time in the order.
+
+History
+In one of his first missions, Aravilar was tasked with finding and stopping a potion-peddler who sold magic items corrupted by the Shadow Weave.
+
+Some time later he sought an ancient artifact, dating back to the Empire of Netheril, that reportedly consumed the Weave and spewed forth "pure primal chaos. He believed it resided in a set of ancient ruins that were protected by an ancient lich or evil phaerimm.
+
+Possessions
+Among Aravilar's possessions were a +2 mithral full plate and a pair of boots of elvenkind.
+
+Appendix
+References
+
+---
+
+## Arush Ashuak
+
+Arush Ashuak was a village located on the southern lands of Tymanther, in the green lands near Ash Lake.
+
+History
+For most of its history, Arush Ashuak was one of the agricultural trade hubs for the dragonborn.
+
+In 1487 DR, Arush Ashuak became one of the most important settlements of Tymanther, as it provided Djerad Thymar with supplies during the war against Unther.
+
+References
+
+---
+
+## Argrum Blackspear
+
+Argrum Blackspear was a bandit leader in Tethyr in 1358 DR who preyed upon the Trade Way. He once clashed with the Company of Eight. He tried to gather all bandit leaders of the area to form an alliance, hoping to also attract the Company of Eight so that he could eliminate them. He had a knack for organization, which made him a good leader.
+
+References
+
+---
+
+## Arkaneus Silvermane
+
+Arkaneus Silvermane was the Archdruid of Mosstone and a member of the Company of Eight in Tethyr in the 14 century DR.
+
+Abilities
+Arkaneus knew how to fight with hammer, dagger, and staff. He could ride horses and knew healing techniques and how to tell the weather.
+
+Arkaneus was a polyglot, speaking a large number of languages, including such rare languages as the tongue of manticores and several dialects of Sylvan.
+
+He was one of the most powerful members of the Company of Eight.
+
+Personality
+Despite his great druidic powers, Arkaneus always adopted a low profile, rarely intervening during heated discussion between his companions. His patience extended to all areas of life.
+
+He had never maintained a single absolute point of view of things but changed according to facts, being a cool and rational decision-maker without emotional attachment. Arkaneus believed his service in the Company was a means to confer balance to the chaos of his country.
+
+Relationships
+Arkaneus was attended by three apprentice druids, the married couple Leisha and Thastrun, who were devoted to the care of Cayr Thalwood, and Manfred Arbustle, who in 1357 DR joined the Company. He had great faith in Manny and trusted that he would find his way despite his struggles and would one day became his successor.
+
+Arkaneus felt a close bond of friendship with those in the Company of Eight. Because of his coolness under pressure, Tardeth Llanistaph relied on him for good advice.
+
+Possessions
+Arkaneus' primary weapon was his Staff of the Woodlands, but he also carried some throwing daggers and a hammer. He wore leather armor.
+
+History
+Arkaneus was born in Mosstone and was tutored by Archdruid Tethirmin. Tethirmin wanted Arkaneus to be his successor, but Arkaneus was hesitant about this.
+
+In 1346 DR, he joined the Company and became the longest surviving member after Tardeth Llanistaph.
+
+After fighting with the Company of Eight in the Tethyrian civil war, Arkaneus did in fact succeed Tethirmin, despite his misgivings. As Archdruid of Mosstone, Arkaneus also became a member of Queen Zaranda's Royal Privy Council.
+
+References
+
+---
+
+## Arkhen's Invocatorium
+
+Arkhen's InvocatoriumVolo's Guide to the North and The Savage Frontier both use the spelling "Arken's Invocatorium". Since Silver Marches is a more recent publication, the spelling therein of "Arkhen's" takes precedence. was a college of magic in Silverymoon that specialized in sorcery and invocation magic. Once an independent institution, its relocation came with being subsumed into the Conclave of Silverymoon.
+
+Location
+The Invocatorium was once situated in a stone fortress, on the east side of Silverymoon's Northbank. It later moved into an entirely new building in the Southbank, between the Lady's College and Miresk's School of Thaumaturgy.
+
+Inhabitants
+The school took its name from its head teacher, Arkhen the Icy, the Magus Invoker at the Conclave of Silverymoon and later Master Sorcerer. He was an infamously strict teacher.
+
+The second building to call the Invocatorium home full of many furnishings, almost all of whom were animated constructs under the command of Arkhen.
+
+History
+In the past the stone fortress that would later be home to the Invocatorium was a garrison post for Silverymoon's soldiers. Around the, Arkhen moved into the fortress and turned it into a school for magic. This state of affairs was maintained until, when the building suffered extensive structural damage as a result of two spectacular spell miscastings by students who were subsequently expelled. Following this incident, the High Mage Alustriel Silverhand implored Arkhen to abandon the building and move his school to a new building.
+
+Appendix
+Notes
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Arctic circle
+
+The arctic circle was a druid circle associated with the cold climate where glaciers formed and winters were harsh. Druids who took up the cause of nature in such a climate had an affinity for this circle and the suite of spells that came with them.
+
+Arctic circle spells
+Fairly new druids could cast both hold person and spike growth. More versed druids could use the sleet storm, slow, freedom of movement, and ice storm spells. Those that had gained significant skill in such a circle could cast commune with nature and cone of cold.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Archfey patron
+
+An archfey patron was one possible sponsor for a warlock. If a bargain was made between a warlock and one of the archfey, the warlock's patron gave them access to certain powers, including a suite of spells.
+
+Culture
+Archfey Patrons
+
+Abilities
+Archfey Spells
+Novice warlocks that were sponsored by an archfey patron had access to faerie fire, sleep, calm emotions, and phantasmal force. These warlocks, if they were somewhat experienced could cast blink, plant growth, dominate beast, and greater invisibility. Master warlocks under the sponsor of an archfey could even cast dominate person and seeming.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Armor of concealed wizardry
+
+Armors of concealed wizardry were special suits of armor whose enchantments were hidden from magical detection. Shields also fell into this group. These items originated in Zakhara, the Land of Fate.
+
+Powers
+The magic of these items prevented spells such as detect magic, legend lore, and identify from revealing the magical nature of the armor or shield in question, including whether or not the armor was even magical.
+
+Rawuns and barbers were able to use their special skills to determine the basic magical nature of these items.
+
+Appendix
+References
+
+---
+
+## Arquiuius
+
+Arquiuius was a wizard in Thay.
+
+History
+Arquiuius was a reclusive wizard who took as apprentice the young orphan Halloran. He possessed a tower in the desert of Thay that leaned at an angle, but gravity magically in the tower made it so that anyone inside walked on the angled floors as though they were parallel to the ground like normal.
+
+Around 1351 DR, he tried a very difficult summoning spell that went wrong. The summoned monster broke free and killed Arquiuius and destroyed his tower while Halloran escaped.
+
+Appendix
+References
+
+---
+
+## Arglander River
+
+The Arglander River was one of the major sources of the Deepwash.
+
+Geography
+The river was located within Ahlarkhem Barony in Erlkazar. It flowed down from the tallest of the High Peaks of the Cloven Mountains into the Deepwash. The river had many cascades and rapids, making it extremely difficult to cross. The only exception was at the Shadebridge.
+
+Appendix
+Reference
+
+---
+
+## Ardanthe
+
+Ardanthe was one of the Nimbral Lords. She was a motherly figure and one of the leading Elders.
+
+References
+
+---
+
+## Arthagus
+
+Arthagus, called "Arthagus of the Miracles", was a mage living in Yhaunn in the mid-to-late 14 century DR.
+
+Description
+In 1358 DR, Arthagus was an elderly man with a white beard and green eyes.
+
+By 1373 DR, Arthagus was a thin and trembling man.
+
+Personality
+Arthagus was a kind man, but he had been betrayed and threatened enough times that he firmly believed that lies and deception were necessary to survive life in Faerûn.
+
+Activities
+Arthagus was a skilled illusionist and spent most of his time quietly in his Yhaunn home, refining his skill with the Art of illusion magic, and only occasionally tutoring young spellcasters interested in illusions. He was known to aid the rulers of Sembia by spreading false rumors that affected public opinion inside Sembia, or the impressions of foreign powers. This gained him quite a few friends on the Merchant's Council.
+
+Possessions
+Arthagus owned many protective magic items including an onyx dog.
+
+History
+In 1373 DR, Arthagus briefly met the Moonmistress-Designate of Moonshadow Hall Feena Archwood at a high-society party hosted by Ammanas Aumleagarr.
+
+Appendix
+
+References
+
+---
+
+## Ardethra Murmarand
+
+Ardethra Murmarand was a cleric of Chauntea with the rank of Watchful that resided in the Bounty of the Goddess temple in Voonlar.
+
+Abilities
+Watchful Sister Ardethra was a horticulturist who specialized in herbalism for both humans and farm animals.
+
+Appendix
+References
+
+---
+
+## Ardreyth Mizzrym
+
+Ardreyth Mizzrym was a drow woman and a former matron mother of House Mizzrym in Menzoberranzan.
+
+One day during a hunt, she happened to swat a wingless wonder out of her way when it suddenly snarled and created a meteor swarm, obliterating her and most of her family in the area. As the dust cleared, the merely blackened wonder sighed and waddled away, as the remaining drow looked on in shock, none daring to stop it. It was thought to still be active by the mid–14 century DR.
+
+Appendix
+References
+
+---
+
+## Armas
+
+Armas was a half-elf sorcerer and a Chosen.
+
+Activities
+In a secret shadovar village for captured Chosen, Armas was one of the associates of Oota.
+
+History
+In 1486 DR, Armas helped Dahl Peredur and Tharra and introduced them to the eladrin Cereon.
+
+Later, Dahl discovered he was a Chosen.
+
+Appendix
+
+Notes
+
+References
+
+---
+
+## Arton Githsberry
+
+Arton Githsberry was the ruler of Turmish in 522 DR, whose seat of power was the city of Alaghôn.
+
+Activities
+When petitioned by a joint delegation of Gulthmere druids and Xorhunian elves to cease Turmish's logging operations, Githsberry made a show of inviting all his lords to discuss the issue. This gathering was merely a political facade, however, as Githberry had no intention of heeding the druids' request.
+
+Appendix
+References
+
+---
+
+## Arauntan of Selgaunt
+
+Arauntan of Selgaunt (the Wandering Wizard) was a wizard from Selgaunt. He is notable because in 1351 DR, he recalled that three brothers in Harrowdale had dramatically changed their appearance.
+
+History
+In 1351 DR, Arauntan was described as a "three-hundred-year-old wizard" so he was born in or prior to 1051 DR.
+
+A farmstead in Harrowdale was home to three brothers from Sembia: Torstan, Ulbaern, and Durthar Morgath. However, on the morning after "fey blue mage-fire" was seen above the farmstead, Arauntan swore that the appearances of these brothers had become those of Lord Elmaer Oraun (formerly Lord of Harrowdale circa 1180 DR), his son Erammon Oraun, and his swordmaster Thaeron, who had disappeared centuries earlier at the Battle of Marak's Stile. Durthar Morgath would later, during the second inter-dale war, declare himself "Thaeron, Rightful Swordmaster of Harrowdale".
+
+Appendix
+References
+
+---
+
+## Artur Grossman
+
+Artur Grossman was the leader of the Rogues of Tilverton in the 1350s–1360s DR.
+
+Description
+Artur was a grossly overweight man who was typically bedecked in flashy jewellery.
+
+Personality
+Grossman was a pleasant and reasonable man, and wished to operate his thieves' guild in a quiet and inconspicuous manner. He very much enjoyed the company of beautiful women who served him, and while otherwise charming he was quite sexist towards the women in his guild. He rather enjoyed bad poetry, and had an interest in historical texts.
+
+Possessions
+Artur wore regal, tattered robes that were actually robes of defense. He had a comprehensive library of bad poetry and history books that he was very fond of.
+
+Relationships
+Grossman had two beloved pets, a pair of dire wolves he raised from pups named Fluffy and Bojangles.
+
+His daughter Lharae Grossman worked loyally for him by charming the clergy of Gond and the city's Purple Dragons garrison, gathering confidential information that she passed on to the Rogues.
+
+History
+Artur's father, the former Guildmaster, was slain by members of the Fire Knives who sought shelter in Tilverton after being driven from Cormyr in 1341 DR. He fought a quiet war against the Fire Knives afterwards, wishing to keep them from destabilizing Cormyr or killing King Azoun Obarskyr IV, as he very much appreciated the status quo.
+
+In 1367 DR he had disappeared, presumed dead, and his daughter Lharae took over the Rogues.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arcanali
+
+Arcanali was a very old drow wizard in Battledale in 1357 DR.
+
+Activities
+Arcanali was responsible for brewing up drow venom for a band of drow mercenaries.
+
+History
+By the, Arcanali was a decrepit and slightly addled old woman, "retired" to the caves underneath Haptooth Hill. She brewed her poisons using local mushrooms for the wizard Dracandros who took over Hap. These interactions were not voluntary, and Arcanali considered Dracandros a "robber-baron." She was willing to help those trying to depose the Red Wizard usurper.
+
+Appendix
+Appearances
+Adventures
+Curse of the Azure Bonds
+
+References
+
+---
+
+## Arzastra
+
+Arzastra was a half-ogre innkeeper and tavern owner in Xantharl's Keep sometime after the War of the Silver Marches.
+
+Activities
+Arzastra managed the Falling Orc inn and tavern.
+
+History
+in the late 1480s or early 1490s DR Arzastra took as waiters the poor shield dwarf Larg (in truth a wanted criminal from Icewind Dale).
+
+Appendix
+Appearances
+ Storm King's Thunder
+
+References
+
+---
+
+## Arthus Cavilos
+
+Arthus Cavilos was the Lord of Hawk's Nest sometime after the War of the Silver Marches.
+
+Activities
+Cavilos, a veteran of War of the Silver Marches, raised hippogriffs. He was also a member of the Order of the Gauntlet.
+
+Appendix
+Appearances
+ Storm King's Thunder
+
+References
+
+---
+
+## Arleosa Starhenge
+
+Arleosa Starhenge was a tavern owner in Amphail sometime after the War of the Silver Marches in the .
+
+Description
+Arleosa had gray hair and cleverly ironic sense of humor.
+
+Abilities
+She had the inborn ability to alter self a few times a day.
+
+Possessions
+In the late 1480s or early 1490s DR, she was the proprietor of the Stag-Horned Flagon, a tavern in the village of Amphail. She had a magic ring made of wood and carved with cavorting nymphs. She was told that it would provide aid or advice if she spoke the name of its creator into the ring, but she never availed herself of this boon.
+
+Relationships
+Arleosa knew Miros Xelbrin from her years with a traveling carnival and they were still friends into retirement.
+
+History
+Arleosa was of Chondathan descent, born in an area infused with wild magic which apparently gave her a shapechanging ability. This ability led her to join a carnival and she traveled widely for many years. In the late 1480s or early 1490s, she settled in Amphail where she bought the Stag-Horned Flagon tavern and worked as a tavernmaster. No one in Amphail knew of her magical nature and she did not use her ability any more, having retired from that life.
+
+Appendix
+Appearances
+ Storm King's Thunder
+
+References
+
+---
+
+## Arina Homurr
+
+Arina was a merfolk princess in Myth Nantar.
+
+History
+Arina was a member of the merfolk Homurr clan and seventh in the line of succession to the throne of Eadraal.
+
+She was born in 1354 DR to King Vhaemas. In her early life, nobody cared for this spitfire of a mermaid.
+
+During the Twelfth Serôs War at the Battle for Voalidru, however, Arina suddenly summoned a pod of whales saving her wounded father. The whales that followed her were decisive at the final battle in Myth Nantar against Iakhovas.
+
+After the war, she was chosen as her people's representative in the Nantarn Council. Arina found herself to be very good in this work and she also helped her elder brother in matters of state while Voalidru remained in monstrous hands. In her free time, Arina taught merfolk songs to the whales and learned their songs from them.
+
+Powers
+As a member of the bloodline of Selana, she could communicate with whales.
+
+Personality
+Despite most seeing her as a leading figure in Serôs, Arina was interested only in becoming a noted bard.
+
+Appendix
+References
+
+---
+
+## Arashta Tharbrow
+
+Arashta Tharbrow was a Zhentarim sorceress in 1358 DR.
+
+History
+In 1358 DR, just after the start of the Time of Troubles, Arashta was in Daggerdale with the mission to kill Randal Morn. Suddenly her god Bane appeared in front of her, saying that she would became his chosen tyrant in Faerûn if she could kill Elminster Aumar and that Randal was not an important being in his plots. Quickly Arashta went to kill the Old Mage, not knowing that "Bane" was Issaran of the malaugrym.
+
+Arashta attacked Elminster, who was together the Rangers Three and others allies, alongside a band of hobgoblins but she failed in her assassination. Sharantyr attacked Arashta that managed to cast a defense spell but, as often in Time of Troubles, her spell no worked and Sharantyr killed her.
+
+Appendix
+Appearances
+Cloak of Shadows
+
+References
+
+---
+
+## Argus Treader
+
+The Argus Treader was a Gontese merchant ship owned by Captain Madwave of Szant.
+
+History
+The Argus Treader was one of the few Gontese ships that didn't belong to the Twelvefold. It was famous across Laerakond as the ship that never had lost either crew or cargo.
+
+Appendix
+References
+
+---
+
+## Arambar (energy)
+
+Arambar was a kind of ambient energy that enveloped the atmosphere of the world of Abeir, changing the color of the sky from blue to steel-colored. Abeirans called this phenomenon the Steelsky.
+
+Uses
+Since ancient times, the arambar was used by the Steelsky Liberators, a group of rebels dedicated to free Abeir of draconic oppression, as a source to power certain spells and abilities of divine nature to combat dragons and other monsters that oppressed the people of Abeir.
+
+Likewise, a few Abeiran dragons inhaled arambar in a complicated ritual before their sleep in hopes of gaining insights into current or past events in a specific area of knowledge. This process was not reliable, however, and most of the time the dragons who performed the ritual learned nothing. In a few and rare instances, dragons failed to wake up again, and in time faded to a wraith-like form called rathrea, gaining the ability to predict the future.
+
+As of 1479 DR, the Empress Dragon Gauwervyndhal was known for forcing her suzerains to perform the ritual on her behalf.
+
+Arambar had other uses as well, such as its ability to grant temporary precognitive powers.
+
+History
+The arambar began to exist on Abeir not long after the death of the primordial Arambar, and many believed this energy came from its corpse, hence the name. The arambar was blessed by an unknown entity or god who opposed the rule of dragons, and this blessing was strengthened by the souls of those who died under draconic oppression ever since.
+
+In 1385 DR, when the Spellplague sent the continent of Laerakond to the world of Toril, the arambar suffusing the land was so strong that it changed the portion of the Torilian sky over Laerakond from blue to steel-colored. The Steelsky persisted even a century after, as in 1479 DR the sky above Laerakond was still the color of steel.
+
+References
+
+fr:Arambar
+
+---
+
+## Arambar
+
+Arambar was one of the primordials who fought against the gods before the sundering of Abeir-Toril.
+
+Appareance
+Arambar was a gigantic primordial with the size of a mountain and a vaguely humanoid form.
+
+History
+Arambar fought against the gods and was killed during the conflict that took place before the world of Abeir-Toril was divided into two twin worlds, Abeir and Toril, when his dragon mount betrayed him amid the battle and delivered itself the killing blow. Arambar's corpse was left in the world of Abeir after the two worlds were separated, in the continent of Laerakond in the lands that would later will be known as Skelkor. The stones that made its corpse rearranged themselves each night, and some believed the spirit of Arambar was the one who changed the position of the stones as a way to mark the time left for some great event to happen.
+
+Not long after the residual energy from his corpse enveloped Abeir, causing the Steelsky.
+
+Eventually, a group of escaped slaves from Skelkor founded a village in the remains of Arambar named Wandering Stones. Dragons who knew the town was near the resting place of Arambar, shunned the place out of fear.
+
+During the Spellplague, a broken fist of Arambar buried in Ithimir Isle was transported to Toril along with the isle. The genasi of Akanûl eventually found its remains and began to mine the rare metal Arambarium from it.
+
+In 1479 DR, the spirit of Arambar briefly awakened to protect the adventuress Jada Marlserpent, the shaman Olothon, and the inhabitants of the Wandering Stones village from the attack of the brown dragon Thovantareth.
+
+Appendix
+Appearances
+ Spinner of Lies (mentioned only)
+ Realms of the Dead, The Wandering Stones short story.
+
+References
+
+Connections
+
+---
+
+## Araband Tymin
+
+Araband Tymin was a commander in Chondath in 1358 DR.
+
+Activities
+Araband was the commander of the military forces of the city of Timindar, which was ruled by his father, Reland Tymin. Usually he spent most of his time drinking with friends. He usually talked with all strangers about faraway lands.
+
+History
+In 1358 DR, at the Black Eye inn, Araband got totally drunk and argued with the Gray Doom mercenaries leader Olway Lezard.
+
+Later, he became involved in the Battle of Thurgabanteth.
+
+Personality
+Despite looking irresponsible, in times of need Araband was a capable leader. He dreamed of becoming an adventurer but never left home. Normally Araband disliked metal armor and never used the emblem of his station.
+
+Relationship
+Araband was the best friend of Zerbin Gethrik, the local cleric of Tempus.
+
+Appendix
+References
+
+---
+
+## Ardeep River
+
+The Ardeep River was a river in the Sword Coast North region, a few miles southeast of Waterdeep, between the River Dessarin and the River Delimbiyr.
+
+Geography
+The river originated in the Ardeep Forest and flowed westward to the Sea of Swords, where it forked into three branches forming a small delta. The northern branch was considered a continuation of the Ardeep River, while the central branch was a creek known as the Selpir and the southernmost branch was known as the South Ardeep River.
+
+Settlements
+The fortified village of Nightstone was located on a fenced island on the Ardeep River, a few miles south of the Ardeep Forest. The river served as a moat to the village, and the area was rich with trout.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Aragath Taltar
+
+Aragath Taltar was an evil lich-like undead in Turmish in 1370 DR.
+
+History
+Aragath was a priest of Talos in the smugglers' city of Jathrin's Jump. He was planning to become undead when his temple was destroyed by followers of Lathander. Somehow he returned from death as a wraith-like lich leading some stone golems.
+
+Around 1310 DR, a thief recovered Aragath's diary and sold it to the Uluuthin family, who died later during an adventure.
+
+Around 1370 DR, Aragath killed an adventurer.
+
+Appendix
+References
+
+---
+
+## Arctigis
+
+Arctigis was a white dragon servant of Zhengyi in Vaasa in 1357 DR.
+
+History
+Zhengyi subdued Arctigis centuries before when the wizard was still a living being.
+
+In 1357 DR, Arctigis was protecting the walls of Castle Perilous when Gareth Dragonsbane and his party infiltrated the castle.
+
+Personality
+Arctigis was a cruel and vicious being, who loved tormenting the weak. He truly enjoyed making illusions that had a captive believe they had the possibility of escape and then snatching that hope away. However, Arctigis had learned to be cautious in approaching powerful enemies.
+
+Relationship
+In his twisted way, Arctigis loved Zhengyi and he would do anything to avenge his death, not caring for his own safety.
+
+Appendix
+References
+
+---
+
+## Argust Coppernight
+
+Argust Coppernight was a dwarf in Undermountain in 1479 DR.
+
+History
+In 1479 DR, he went into Undermountain in search of locations for mining. However, he was captured by the goblin and kobold followers of the mad half-elf mercenary Zarr. Zarr plucked out the dwarf's eyes for giving him an insolent look. Argust remained shocked and distraught, refusing to move.
+
+References
+
+---
+
+## Aranghthal
+
+Aranghthal was a dragonborn settlement in Relmaur, Laerakond.
+
+Background
+Aranghthal was one of the two "mobile" settlements the Relmorn dragonborn always maintained near the city of Rokthorl. Every time the location of Rokthorl changed, the dragonborn also moved Aranghthal to a western cavern near the capital's current location.
+
+Appendix
+References
+
+---
+
+## Argularragh
+
+Argularragh was a dragon who lived in the realm of Eskorn, Laerakond, in the centuries before the Spellplague.
+
+Description
+Argularragh was a massive dragon, even by dragon standards.
+
+History
+Argularragh was the ruler of the castle of Argul, in Eskorn, where it lorded over a commune of dragonborn slaves. However, one day Argularragh simply vanished without a trace. Most of the other Eskornar dragon lords believed Argularragh was killed by a rival during a sea battle and its body was lost in the waters, but a few of them believed that Argularragh was either trapped inside a magical item, or that the dragon learned how to change shape and went to live its remaining days as a member of another race. The few individuals who believed this tale, also believed Argularragh was still alive as of 1479 DR.
+
+Appendix
+References
+
+---
+
+## Argul
+
+Argul was a ruined castle located in northern Eskorn, Laerakond.
+
+History
+Argul was built by dragonborn slaves to serve as a lair for the dragon lord Argularragh. Over time, people named the castle after the dragon. When Argularragh vanished without a trace, other Eskornar dragon lords razed the castle to stole whatever wealth Argularragh had hoarded within its lair and to ate its dragonborn inhabitants.
+
+References
+
+---
+
+## Arrak
+
+Arrak was a veteran member of the Riders of Nesmé in 1484 DR.
+
+History
+Just after the start of the War of the Silver Marches, Arrak was one of the Riders of Nesmé. He remained neutral in the dispute between his leader Varen and the young idealist Selinus.
+
+Relationship
+All Riders trusted Arrak.
+
+References
+
+---
+
+## Arizza
+
+Arizza was the bookkeeper of the Xanathar Thieves' Guild in Skullport in 1479 DR.
+
+Activities
+Arizza was the only human slave living in the Xanathar's lair, as it preferred elven slaves. Arizza was an exception because of her eidetic memory, which made her the perfect bookkeeper for the beholder. She was always at the Xanathar's side during business meetings, ready to use her memory.Derek Myers. "The Xanathar: Beholder Crime Lord of Waterdeep." Dungeon #206. Renton, WA: Wizards of the Coast, September 2012.
+
+Personality
+Arizza, thanks to her memory, was very good with numbers and figures. She had few social skills. Arizza would never betray the Xanathar or do something that would hurt him.
+
+Relationship
+Arizza, having no family or friends, had developed an attachment to the Xanathar.
+
+References
+
+---
+
+## Arbenita Darkwind
+
+Arbenita Darkwind, mostly known as Benita, was an evil cleric of Malar in Undermountain in 1375 DR.
+
+Activities
+Benita led the human community inside the forest of Wyllowwood. She loved to hunt and kill personally the adventurers that arrived there. Benita personally dealt with Wyllow.
+
+History
+Benita one day plunged into a portal that transported her to that section of Undermountain. She liked the place and founded a community there, using a place that was formerly a part of Melairbode. Later Benita befriended Wyllow.
+
+Personality
+Benita knew well that her community's survival depended upon the will of Wyllow and that, if enraged, the elf could trigger the arrival of an irate Halaster Blackcloak.
+
+References
+
+---
+
+## Artides
+
+Artides the Finder was a rock gnome historian and collector.
+
+History
+Artides from his early years was fascinated by tales of ancient battles and as a child he explored ancient ruins. As a teenager, he studied as an apprentice of Delitar the Slow of Westgate and during this time Artides started studying the history of Shanatar and its successor kingdoms. In maturity, he settled in Waterdeep, living among priests of Deneir and Oghma.
+
+Here, in 1370 DR, for the first time he found hints about the Knights of the Crescent Moon. Following this clue, he went first to Candlekeep, where he found the location of the order's headquarters and gained a companion in the Calishite scholar Reft al-Fohjin. Together they went to Tethyr and with the king's permission Artides went alone to Saradush. On Eleint 1, he found the last clue to the exact location of the order's headquarters.
+
+He hired some mercenaries to protect him and went to the Omlarandin Mountains. However, the beholder Vaxall had noticed his studies and sent his helmed horrors to capture him. The helmed horrors killed all the mercenaries but Artides managed to escape and decided to continue his search alone, believing the ambush to be only the actions of common bandits.
+
+Personality
+Artides was exuberant and outgoing, always indulging in theatrical flourishes and exaggerated gestures. He was truly an expert in his field, the military history of early southwest Faerûn, and had a bardic talent to explain his study without annoying others. Artides had a good memory and was well-cultured.
+
+References
+
+---
+
+## Argens Bruil
+
+Argens Bruil was the heir of House Bruil in Melvaunt in 1374 DR.
+
+Abilities
+As a paladin-in-training, Argens had developed the abilities to detect and smite evil-doers, heal wounds, and embolden allies. In addition, Argens was adept in the use of the longsword and a fine horseman.
+
+Argens was also skilled carpenter.
+
+Possessions
+As the heir of house Bruil, Argens had access to a great deal of items and wealth. However when adventuring he was noted to don a suit of finely-crafted half-plate and shield. He wielded a magical longsword and a shortbow in combat.
+
+Activities
+Argens was undergoing paladin training at the Temple to Tyr in Melvaunt, studying under the cleric Jens Galt, who often told about his adventures in Thar.
+History
+Argens was chosen as the heir of his House despite being a bastard, owing to the bad relationship between Lord Vanth Bruil and his older son Halmuth Bruil.
+
+In 1374 DR, he helped to rebuild a local hostelry that had been destroyed by fire. However, secretly he met with his friends Elaint Marsk, Kalman Leiyraghon, Kara Calaudra, and Oreal Nanther, planning to go on adventure, with the support of the dwarf mercenary Dorn Crownshield.
+
+They found a "treasure map" (in truth, a trap devised by Bremen Leiyraghon) and went on adventure in Thar, only to be captured by the orog Daazlag and his orc minions.
+
+Argens was imprisoned in a cave in Xûl-Jarak with all his friends.
+
+Appendix
+References
+
+---
+
+## Arbane's Sword of Agility
+
+Arbane's swords of agility were a set of artifacts originally crafted by the wizard Arbane of Myth Drannor. At least a dozen of these longswords were forged by Arbane or others before the secret of its manufacture was lost to history.
+
+Powers
+The sword of agility always appeared as a +2 longsword, although the enchantments varied depending on the individual blade.
+
+One variety was known to glow brightly, negating any effects of magical darkness. It dispelled the effects of both hypnotic pattern and fire charms, granted protection from the spell color spray as well as immunity to hold and slow spells. Furthermore it allowed the wielder to cast the spell jump or a limited-duration haste on themself, once a day.
+
+Yet a different version was longsword of speed that granted the wielder continuous freedom of movement and immunity to illusion spells and magical effects. Like its counterpart, it also gave the ability to cast jump, as well as daylight, in place of the other blade's inherent glow, to dispel darkness once a day.
+
+Owners
+One of the swords of agility once came to the possession of an outlaw named Garno, who slayed a great many clerics of various denominations following his religious disillusionment at the hands of the church of Loviatar, and their brutal slaying of his family. Rumors divine intervention surrounded these slayings, as it was said one of the deities of chaos had a had in his acquisition of the weapon as well as much delight in the mayhem he caused.
+
+Appendix
+Appearances
+Video games
+Baldur's Gate II: Shadows of Amn
+External links
+
+References
+
+FR:Épée d'agilité d'Arbane
+
+---
+
+## Aravae Irithyl
+
+Aravae Irithyl was the lost heiress of the coronal Eltargrim Irithyl and the first sign of the Fall of Myth Drannor.
+
+History
+Born in 146 DR, Aravae was tutored from birth by the Srinshee and a select group of elder priests of elven and human gods (notably Corellon, Sehanine, Eldath, and Mystra) to be the heir of Irithyl and the new coronal. In time, she became a wonderful woman gifted with many skills in magic and diplomacy.
+
+Shortly after 261 DR, with the Srinshee's support, Aravae secretly went to adventure in the Realms with a group of friends including Josidiah Starym. Thanks to a magic simulacrum, everyone believed her she was studying in her house.
+
+She assisted her great-uncle Eltargrim before his passing. After Eltargrim's death in 661 DR, many pressured her to crown herself as the new coronal but, heartbroken, she decided on a five-year-long time of mourning like ancient traditions dictated (in truth, she hoped for the return of Josidiah).
+
+However in 664 DR, Aravae and her bodyguards were killed by unknown assailants, ending both the line of the house of Irithyl and the time of coronals in Myth Drannor. Lord Speaker Illitran Starym was the elf who slew Aravae Irithyl, though his treachery was never discovered.
+
+Relationship
+Aravae loved only one one man in her life, Josidiah Starym, and only the Srinshee knew this. She always hoped to marry him, reforging the bond with the Starym but Josidiah went to adventure in search of the missing Ary'Velahr'Kerym (elfblade) and Aravae promised to await his return.
+
+By the time of her death, Aravae was well loved by many in Myth Drannor. Thyaast Ammath, a prodigy in magical arts of House Ammath, grieved the death of the Coronal Heiress, but she was hopeful for the next ruler and the city's bright future.
+
+Appendix
+
+Appearances
+Video Games
+
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+---
+
+## Arrowflight
+
+Arrowflight was a pluma spell unique to Maztica used to help archers. It could be used by clerics, plumaweavers and Eagle Knights.
+
+Effects
+This spell increased the ability to shoot arrows of (depending on the power of the plumaweaver) one or several persons: It allowed them to shoot the projectiles twice as far as usual, and also slightly increased the severity of the wounds inflicted.
+
+Components
+Aside from verbal and somatic components, a small amount of downfeather shaped like the fletching of an arrow was needed.
+
+Appendix
+References
+
+---
+
+## Ardsem Skalarn
+
+Ardsem Skalarn was a member of the Zhentarim in Mulmaster in 1373 DR.
+
+History
+In 1373 DR, Ardsem led a Zhent slaver expedition to Mulmaster to buy some slaves. He temporally resided in Seskaya Atnall's safe house in that city.
+
+Appendix
+
+Appearances
+ Mysteries of the Moonsea
+
+References
+
+---
+
+## Arvo
+
+Arvo was a druid in Chult.
+
+History
+Arvo was born in Ravens Bluff but went to Chult to study plants.
+
+There, Arvo saved a Tabaxi tribe dying from a strange disease and they adopted him, deciding to settle near his cave.
+
+Activities
+Arvo lived alone in a large cave and nearby live a Tabaxi tribe devoted to him. He was busy studying the plants of Chult, often traveling far from home to find new examples.
+
+Personality
+Arvo was quiet, brooding, and absorbed in his work. He disliked disruptions to his routine, preferring to remain alone.
+
+Appendix
+
+References
+
+---
+
+## Argast
+
+Argast was a promising young malaugrym in the mid–14 century DR.
+
+Relationship
+Argast was the son of Halthor, a very powerful malaugrym.
+
+History
+In the, following hints discovered in the writings of the long-dead Shadowmaster High Melvydur, Argast found a secret grotto inside the Castle of Shadows. However, using a separate way, his rival Amdramnar also found it. They decided to temporarily cooperate to discover the secret of this place. Afterward, both decided to travel to Faerûn. He secretly hoped to find his mother.
+
+Upon their arrival, they were attacked by some members of the Cult of the Dragon but thanks to their shapechanging powers, Amdramnar killed all the cultists. After arriving in Daggerdale, Amdramnar and Argast learned about the death of Elminster during the second battle of Shadowdale.
+
+Later, they went in disguise inside the Tower of Ashaba in order to collect more information about Elminster. At the arrival of Tantor Dauntinghorn, envoy of King Azoun IV of Cormyr, Argast and Amdramnar posed as the War Wizard delegate Luthtor of Suzail and Shaerl Mourngrym in order to gain information.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Arleithe Harlhaun
+
+Arleithe Harlhaun was a member of the Harlhaun merchant family in Delzimmer circa the Year of Rogue Dragons, 1373 DR.
+
+Description
+Arleithe was a beauty that embodied the Harlhaun family traits—tall and willowy with large eyes and high cheekbones. Her sensual looks were somewhat spoiled by her bitterness over her role in the family business.
+
+Relationships
+After her mother passed away, Arleithe found herself being shunted into the role of mother and chatelaine of the family. She deeply resented this because she was the oldest child and considered her two younger brothers to be dim-witted and lacking in subtlety compared to herself. Both of them regularly ignored their sister and operated under the assumption that one of them would take over leadership of the family someday.
+
+Appendix
+See Also
+ Maraunt Harlhaun
+ Lariond Harlhaun
+ Narthel Harlhaun
+References
+
+---
+
+## Arshryke Taranth
+
+Arshryke Taranth was an Impilturan spy who lived in the 15th century DR.
+
+Activities
+Arshyke was the head spy of the Royal Intelligence of Impiltur.
+
+History
+During his long years as a spy he had documented a lot of information about multiple powerful organizations of Faerûn, such as the Cult of the Dragon, the Harpers, the Eminence of Araunt, the Zhentarim, and Queen Filfaeril's Blades, among many others.
+
+In 1477 DR,The article says that Arshryke went missing "two summers ago". According to the Forgotten Realms Campaign Guide and the Neverwinter Campaign Setting, the 4th-edition campaign starts in 1479 DR, meaning that Arshryke disappeared in 1477 DR. he went missing in Sembia while on duty, and many presumed that he was discovered and killed by the Sembian counterespionage force. In 1479 DR, a cache that contained, among many things, notebooks penned by Arshryke, was found in the roof of the palace in Lyrabar.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Arundi River
+
+The Arundi River was an important waterway found in the northeast region of the Hordelands known as the Plain of Horses.
+
+Geography
+The Arundi River originated within the southwestern expanse of the Quoya Desert. It flowed northeast through the desert for hundreds of miles before turning northwest to pass the plains before reaching Yal Tengri near the Iceroot Forest.
+
+Appendix
+References
+
+---
+
+## Arender
+
+Arender was a legendary gnome architect and builder who lived in Tarmalune, one of the Windrise Ports of Laerakond.
+
+History
+Arender was the architect who designed and built almost all the manors of Arendermore, one of the wards of Tarmalune, a long time before the Spellplague.
+
+His descendants became the most skilled builders in the history of Tarmalune.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Arambar Gulch
+
+Arambar Gulch was a canyon located in Laerakond, related somehow to the primordial Arambar.
+
+Background
+During the dragonborn rebellion, one of the major battles was fought at Arambar Gulch.
+
+References
+
+---
+
+## Archadamius Luciard
+
+Archadamius Luciard was an elven merchant and wizard from Westgate.
+
+Description
+Archadamius had light skin, blue eyes, and long, gray hair. He wore a blue robe and metallic bracers.
+
+Possessions
+He owned several magical items, including a pair of bracers of defense, a ring of protection, and a staff of power.
+
+Activities
+He ran a small, yet successful shipping company out of Westgate's port. Archadamius had many connections in the city's nobility, which he used both for financial and political gain. His successful business allowed Archadamius to finance his magical training.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arcane abjuration
+
+Arcane abjuration was a channel divinity power granted to clerics of the Arcana domain.
+
+Effects
+By presenting their holy symbol at a single celestial, elemental, fey, or fiend, the cleric could compel it to turn and flee for up to one minute.
+
+More powerful clerics using this power on a creature that was not on its native plane could banish it for one minute. The stronger the cleric became, the stronger the creatures that were susceptible to being banished by this power.
+
+Components
+Only the cleric's holy symbol was required to evoke this power.
+
+Appendix
+See Also
+ Turn undead
+References
+
+---
+
+## Argentil
+
+Argentil was the palace of Selûne, goddess of the moon, in her planar realm known as the Gates of the Moon. It was also inhabited by Finder Wyvernspur, god of art, around 1372 DR.
+
+Description
+Lying in the middle of the plane, Argentil was a vast hall fashioned of shining silver. It was a beautiful place, but quiet, where all sound seemed hushed. The ever-present moonlight hugged all beings and things, making them glow with a soft, silvery light.
+
+From the 1370s DR, the hall was adorned all over with the artworks created by Finder's petitioners. His own chambers enjoyed constant music.
+
+By 1479 DR, it was surrounded by Brightwater, the city of Sune, goddess of love.
+
+Features
+The Infinite Staircase appeared inside Argentil every full moon when fog rose from the water. This strange passage, extending up and down and in every other direction, was said to connect to every city in every plane and perhaps in every time. Traversing this mysterious conduit was known to be quite hazardous and unpredictable. Most of these allowed travel in only one direction. It was unclear why the Infinite Staircase was anchored in Selûne's residence and not some place else. It was possible this was due to Shaundakul, god of travel, making his home in the Gates of the Moon, though he spent much time journeying elsewhere. Planewalkers came to the Gates of the Moon mostly only to use the Infinite Staircase.
+
+Selûne was also known to keep portals to the astral dominions of Arvandor, the Deep Wilds, the Green Fields, and to the Feywild.
+
+Appendix
+References
+
+---
+
+## Arcane sensitivity
+
+Arcane sensitivity was a spell that allowed the caster to touch another living being and instantly have knowledge of their arcane magic capabilities.
+
+References
+
+---
+
+## Archomental
+
+Archomentals, also known as Elemental Princes or collectively Princes of Elemental Good and Evil, were powerful beings of the Elemental Planes and rulers over the elementals.
+
+Description
+Although archomentals were not truly rulers of their planes, they liked to consider themselves as such and often granted themselves regal titles like Prince or Princess.
+
+Personality
+All archomentals varied wildly in personality according to their elemental natures, but each of them skewed strongly to either good or evil
+
+Abilities
+All archomentals shared a handful of traits beyond their great power. Their natural weapons, as well as any weapons they wielded, held either good or evil energy (according to the archomental's alignment). They could each shapechange, akin to the spell, into any creature of the same elemental subtype; this change could not be dispelled except at the archomental's will, though true seeing revealed its true nature.
+
+Each archomental could also innately attempt (and mostly likely succeed) to gain control over any elemental of their subtype; the rare elemental that resisted such control was immune to further attempts for only 24 hours. There was no limit to the number of elementals an archomental could control in this manner, and it took no concentration or effort on their part to maintain the effect, which lasted either the archomental dismissed it, the elemental (or, in theory, the archomental) died, or, if summoned on another plane, the duration of the summoning spell expired. This effect overrode even the power of summoning spells, to the point that an archomental could command a summoned elemental to attack its summoner.
+
+And lastly, the archomentals had a certain number of spell-like abilities in common. They could speak to and understand any creature as per the tongues spell, an effect that was always active, and could mimic the effects of detect good, detect evil, greater dispel magic, greater teleport, see invisibility, suggestion, and telekinesis at will.
+
+Known Archomentals
+The Princes of Good:
+Chan of Air
+Ben-hadar of Water
+Sunnis of Earth (and possibly her consort, Entemoch)
+Zaaman Rul of Fire (formerly Bristia Pel)
+The Princes of Evil:
+Yan-C-Bin of Air
+Olhydra of Water
+Ogrémoch of Earth
+Imix of Fire
+ Bwimb II of Ooze (formerly Bwimb)
+ Cryonax of Ice
+Rumored or Claimed:
+Alu Kahn Sang of Dust
+Chlimbia of Magma
+Crystalle of Mineral
+Ehkahk of Smoke
+Gazra of Ash
+Sun Sing of Vacuum
+Ty-h'kadi of Lightning
+ Unguliustûk of Earth, a peer of Ogrémoch
+
+History
+The major Princes of Elemental Evil were rumored to have been sired by the Elder Elemental Eye, making them strange siblings indeed; while the Princes of Elemental Good were said to have been birthed by the Elemental Planes as a balancing force. Certainly, they were all unimaginably old and powerful entities. Though Yan-C-Bin was said to be the youngest of the major Princes of Elemental Evil, and Zaaman Rul was certainly the youngest of the Princes of Elemental Good.
+
+In the Age Before Ages, it was said, many of the Elemental Princes joined in the great war between Law and Chaos: Chan, Ben-hadar, Sunnis, and Bristia Pel decided as one to join the Wind Dukes of Aaqa who fought for Law, who eagerly welcomed them as allies. Chan, however, was dismayed to find that Yan-C-Bin also fought on the side of Law, and consequently left the fighting. It was during the Battle of Pesh that Sunnis first met and fought against Ogrémoch, who had joined the side of Chaos in opposition to his then-rival Yan-C-Bin. Bwimb, too, fought on the side of Chaos.
+
+Two lesser-known archomentals, Chlimbia and Ehkahk, were also said to have fought on the side of Law, until during one of its major battles they betrayed the good archomentals, and ambushed and killed Bristia Pel. After that, Ben-hadar joined the side of Chaos until the end of the war.
+
+In the 15 century DR, several archomental-worshiping cults became active in Faerûn. Such cults were ultimately responsible for the Elemental Evil crisis.
+
+Appendix
+References
+
+---
+
+## Arcane (disambiguation)
+
+The term "Arcane" most often referred to a kind of magic art distinct from divine magic. It could also refer to:
+ The Arcane, a race of spacefaring merchants
+
+See Also
+ Arcane abjuration
+ Arcane archer
+ Arcane Brotherhood
+ Arcane devotee
+ Arcane eye
+ Arcane gate
+ Arcane lock
+ Arcane Power
+ Arcane scholar of Candlekeep
+ Arcane sensitivity
+ Arcane spellcaster
+ Arcane trickster
+ Arcane wellspring
+
+---
+
+## Arcane (race)
+
+The Arcane, also known as mercanes, were a race of spacefaring and extraplanar merchants, especially interested in dealing in spelljamming equipment.
+
+Description
+The Arcane looked like tall and slender blue-skinned giants with long, delicate fingers. Some reported that each finger had an additional joint; others claimed that they had five fingers and a thumb on each hand.The text of "Lorebook of the Void", as well as later depictions give the arcane an additional joint in each finger. The image there, however, shows the same number of joints as a human, but an additional finger on each hand. The authors of the Cloakmaster Cycle of novels seemed to have followed the image in "Lorebook of the Void" rather than the description. They had narrow shoulders and a sunken chest. Their skulls were narrow and double-domed, with a slight bulge over their brows and their dark eyes sunk into their heads.
+
+The Arcane typically dressed in robes.
+
+The entire Arcane race had a type of collective telepathy. They became immediately aware if a member of the race was harmed, which made it impossible for an aggressor to conduct business with any other Arcane until amends were made.
+
+Personality
+The Arcane were viewed by other species as a very cool, efficient and uncaring race. Their response to attempts at haggling was unpredictable, but they invariably reacted badly to threats. Wronged Arcane did not forget a slight, but took their time in exerting revenge in non-violent and subtle, albeit damaging, ways. In addition, the Arcane were very suspicious of newly contacted groups and never initiated contact themselves, preferring to negotiate through representatives. This irritating behavior led other species to tolerate the Arcane as a necessary evil.
+
+Combat
+Despite their size, the Arcane were considerably weak and non-combative. They preferred to avoid confrontations through negotiation. They were usually accompanied by bodyguards, especially when conducting business in dangerous areas. If confrontation did break out, they were capable of defending themselves by using magic items, but the most frequent response would be for them to flee by using their innate invisibility and dimension door abilities, with no regard for their bodyguards.
+
+Society
+
+The Arcane were the major (often the only) source of spelljamming helms for most spacefaring races, including humans, elves, mind flayers, lizardfolk, and even beholders. The only exception were the neogi, who were capable of acquiring their own helms through other means. For that reason, the Arcane kept themselves neutral in all situations and did not get involved in any confrontation whatsoever between factions. In fact, it was common for the Arcane to supply both sides of a conflict, even at the risk of mutual annihilation, which the Arcane viewed as a small loss compared to the magnitude of their business.
+
+As skilled merchants invariably connected with the business of spelljammers and helms, the Arcane could only be found in crystal spheres that contained races at least aware of the possibility of space travel. They were completely absent from superstitious or isolationist worlds but were remarkably easy to find in places where spelljamming technology was at least heard of. Since they most commonly traveled alone, some more primitive cultures visited by the Arcane viewed them as deities themselves, sometimes even spawning cults that prayed to them asking for power.
+
+It was not known whether the Arcane themselves produced space travel technology or acquired it from another mysterious dealer. It was uncommon to find an Arcane traveling aboard a spelljammer: they were ubiquitous all over space and came and went as they pleased. This suggested that they traveled by a different, unknown, means.
+
+The Arcane were the only non-beholders that were authorized to freely land and conduct business on the planet H'Catha. They provided the planet's inhabitants with all their ships.
+
+According to the illithid Estriss, there were likely many Arcane residing on Toril. He knew of at least one each in the massive cities of Calimport and Waterdeep and had heard rumors of the Arcane controlling the Dock, which was located in the Wu Pi Te Shao Mountains. (Estriss did not believe this latter rumor, however.) At least two Arcane lived on the Beacon Rocks in the middle of the Great Sea.
+
+Despite their reputation as eternal wanderers, some Arcane were permanent inhabitants of Dweomerheart, the realm Mystra (Midnight) shared with Azuth, Savras, and Velsharoon.
+
+Some Arcane were known to revere the "Departed Elders"; whether these elders were considered a pantheon in their own right is unknown.
+
+History
+There was little known about the origin of the Arcane. Rumors abounded about their origins. One tale claimed that the home world of the arcane was not within a crystal sphere but instead was hidden somewhere within the phlogiston. A thri-kreen legend told that their origin had something to do with the legendary Spelljammer, in that they gave up their homeworld in exchange for the ship with an ancient deity. Failing to properly control the ship, they ended up as eternal wanderers, and their planet ultimately fell into its sun. The Arcane themselves did not comment on these legends.
+
+The illithid Estriss theorized that the Arcane had learned their magic from the ancient spacefaring race known as the Juna. For their part, the Arcane denied that the Juna had ever even existed. Estriss, admitting his bias about Juna-theories, also proposed a second theory that the Arcane had received their technology instead from the reigar. He noted that esthetics, the reigars' strange spelljamming craft, were almost always crewed by the Arcane.
+
+Notable Arcane
+ Calabrie Zhentle, regarded as the highest authority in charge of The Dock in the mid-14 century DR.
+ T'k'Pek, an arcane attending an auction at Rauthaven on Nimbral in 1361 DR.
+ L'riyt, an ancient arcane who visited the Malatran Plateau in the late 14 century, bringing a dangerous bacteria to the Living Jungle from off-world.
+ Maskado (potentially)
+
+Appendix
+Notes
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Arkhan
+
+Arkhan the Cruel  was a dragonborn oathbreaker paladin of Tiamat who lived in the late 15 century DR.
+
+Possessions
+In battle, Arkhan carried the magical axe Fane-Eater and carried a dragonscale shield. He also owned the Wreath of the Prism, an amulet that granted him control over a vicious manticore called Chango.
+
+History
+After a brief visit to the world of Exandria, Arkhan replaced his left hand with a legendary artifact known as the Hand of Vecna, with the intention of using its power to free Tiamat from her prison in Avernus.
+
+By the, Arkhan, having taken residence in a tower located near a monument dedicated to Tiamat in Avernus, had yet to succeed in his endeavor. Prolonged possession of the Hand of Vecna was slowly causing his left side to become corrupted, a process that could only be slowed down by sacrificing the life of good creatures.
+
+Appendix
+
+Notes
+
+Background
+Arkhan is based on a character in the streamed campaign Force Grey. He is played by Joe Manganiello, an American actor who is a lifelong D&D enthusiast.
+
+Appearances
+Adventures
+Baldur's Gate: Descent into Avernus
+Video Games
+Idle Champions of the Forgotten Realms
+Miniatures
+Icons of the Realms
+
+Gallery
+
+External Links
+
+ Force Grey: Lost City of Omu
+
+References
+
+---
+
+## Aremag
+
+Aremag  was a dragon turtle who lived in the Bay of Chult from at least the mid–14 to the late 15 centuries DR. His activities in the bay were well known by the locals of Port Nyanzaru.
+
+Description
+Thanks to the fight with the Narwhal, Aremag had a blind, milky left eye and was missing a piece of its shell. He had a particularly grouchy personality.
+
+Personality
+Aremag thought highly of himself, and expected deference from any sailors he encountered.  When forced into combat with his patrons, he would often avoid direct combat, and rather knock his enemies into the water or capsize their vessels for them to be devoured by reef sharks.
+
+Activities
+Aremag considered a region of the Sea of Swords north of Chult his territory. The trade routes from Baldur's Gate and Waterdeep to Chult passed right through it. Unlike other dragon turtles around Chult who simply enjoyed destroying every vessel they encountered, Aremag demanded tribute from any ship he found entering or exiting the Bay of Chult, and this could be in the form of treasure, often tossed overboard into the Bay, or in the lives of sailors, as many as ten put out in a boat. This led to the practice of ships carrying payment for the dragon turtle whenever they planned to pass through the southern Sea of Swords, usually in the form of treasure although pirates were known to capture captives to offer him. Aremag would then take up the amassed loot and store it in his lair, the location of which was unknown.
+
+History
+In the, the Refuge Bay Trading Company made a deal with Aremag to pay a monthly toll for permission to pass. However, after some months, Aremag reneged and threatened the Narwhal under Captain Bawr for another toll; under protest, she agreed to pay treasure and ten men of the watch who'd failed to spot Aremag, plus Artus Cimber for being in the way. His guardian spirit, Skuld, defeated the monstrous Bawr and threw her into the sea, to be the first of the sacrifices. Artus then threw a magical bomb—a gunstone given by Skuld—that damaged Aremag's shell, then ordered ballista to shoot the dragon turtle. Eight struck, and one blinded his left eye. Aremag breathed scalding steam over the ship, and sank back into the sea. The dragon turtle's injuries did not diminish him in the slightest, and if anything made him more ornery. For more than a century, he would continue demanding payment from passing ships, and did not suffer to negotiate.
+
+Rumors & Legends
+In the late 14 century, some believed that the harbormaster of Port Nyanzaru had made an agreement with Aremag, paying a monthly tribute for the beast to keep all other sea monsters out of the Bay.
+
+Appendix
+Background
+Aremag is likely named for Gamera, a turtle-like gigantic monster or kaiju of a series of Japanese movies.
+Appearances
+
+References
+
+---
+
+## Armor of Bahamut
+
+Armor of Bahamut was a divine spell, or channel divinity, granted to members of any divine class who worshiped Bahamut, that allowed them to create a magical shield that protected them or their allies against enemy attacks.
+
+Appendix
+
+References
+
+---
+
+## Arcanabula of Jume
+
+The Arcanabula of Jume was the ornate arcanabula of the mage known as Jume, who lived in Baldur's Gate around the 11th century DR. It was enchanted in a number of ways that ensured its protection.
+
+Description
+This spellbook was beautifully designed, with 22 pages made of sheets of polished rock crystal, bound in brass rings. Its cover was adorned with Jume's rune, and the back cover would glimmer with a faint silver light. The script was embossed in Ruathlek, with lettering of colored paste made of rubies, emeralds, and silver.
+
+Enchantments
+The arcanabula was enchanted with spell turning and would produce an effect similar to the ring of the same name if targeted by or within the area of any spells. There was also a five percent change it would teleport to a random location in Faerûn every 60 days, regardless of magical barriers.
+
+Contents
+Jume's spellbook contained the following spells, four of which were uniquely crafted by Jume herself:
+Audible glamer • Change self • Gaze reflection • Dark mirror (unique) • Hypnotic pattern • Magic mouth • Misdirection • Phantom steed • Spectral force • Shadow monsters • Shadow hand (unique) • Shadow magic • Prismatic eye (unique) • Shadow gauntlet (unique) • True seeing
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Arlon Bladeshaper
+
+Arlon Bladeshaper was the leader of the Nashers faction of the Sons of Alagondar in the late years of the 15 century DR.
+
+Family
+Arlon claimed to be the great-great-grandson of one of the Neverwinter Nine who served Nasher Alagondar.
+
+Personality
+Arlon was a charismatic, honorable and pragmatic person, who believed that the end justified the means. However, he also suffered from stress and was frowning all the time. He was described as taciturn and serious.
+
+Description
+Arlon was considered a handsome man.
+
+Abilities
+Arlon was a warrior of considerable skill.
+
+Activities
+Arlon was the leader of the aggressive faction of the Sons of Alagondar insurgent movement, the Nashers. Although he resorted to violence, he did so because he genuinely believed it was the only way to depose the tyrannical rule of Dagult Neverember, as Arlon had Neverwinter's best interests as a priority.
+
+Relationships
+He was aided in his endeavors by his lieutenant Karzov.
+
+History
+After the death of Cymril in the, Arlon took the leadership of a few Sons of Alagondar and founded the Nashers faction. Although at first he was leery of embracing an aggressive stance against Lord Neverember, he was convinced by Valindra Shadowmantle to abandon Cymril's methods and embrace a darker path. It was Arlon who took the decision to ally the Nashers with the Thayans and the Dead Rats of Neverwinter, although reluctantly.
+
+A few months later, Arlon supported at first the self-proclaimed "Lost Heir" of the Alagondar line. However, when the "Lost Heir" began to incite a civil war among the citizens, Arlon joined forces with a group of adventurers hired by Lord Neverember to stop the "Lost Heir", as he believed that a civil war was not the best for Neverwinter.
+
+Appendix
+Appearances
+Adventures
+ Lost Crown of Neverwinter
+
+Video Games
+
+External Links
+
+References
+
+---
+
+## Archenriders
+
+The Archenriders, also known as the Ridesmen, were the standing military of Archendale, the largest and most powerful of the Dales. They were responsible for defending the Dale, patrolling its territory and enforcing its laws.
+
+Organization
+The army consisted of 10 rides, each of which was made of 60 mounted soldiers. Each ride was under the command of a ridemaster, particularly experienced fighters. Only five rides were usually active at a time, and soldiers alternated being on-duty and off-duty every two months (but could be assembled quickly in case of trouble).
+
+The whole organization was led by three officers —the Swords of Archendale— until they lost their positions during the, when they were discovered to be consorting with Sembia.
+
+Tactics
+Ridesmen preferred to engage in mounted combat.  However, due to the rough terrain of the Dale, they were often forced to fight on foot.
+
+Activities
+In addition to defending the Dale's territory, the army was responsible for enforcing its laws. Every officer had the authority to charge and arrest wrongdoers, and commanders of the rides could try and sentence offenders. Law enforcement by the army was known to be harsh, and to favor local Dalefolk over foreigners. As a result, minor disputes were often settled "out of court" without involving the military.
+
+When not patrolling the Dale or attending guard duty, ridesmen spent most of their time honing their skills. As a result, they were amongst the most alert and deadly citizens of Archendale.
+
+Base of Operations
+The main base of operation of the army was Swordpoint in Archenbridge, a fortified garrison hosting three rides (180 soldiers) at all times.
+
+In addition one ride was stationed in White Ford, while a last one was dispersed throughout the territories in 10-man patrols. Villages that hosted patrols were equipped with small barracks to accommodate the soldiers.
+
+History
+The Archenriders were formed, and Swordpoint refurbished, after Archendale's war with Sessrendale when the Swords realized they needed a stronger, regularly maintained army.
+
+Equipment
+The Ridesmen were typically equipped with chainmail, lances, longswords, and composite bows.
+
+Appendix
+Appearances
+Novels
+
+The Glass Prison
+References
+
+---
+
+## Archenwood stout
+
+Archenwood stout was a lager brewed in Archendale from well-roasted wheat and rye in the later half of 14 century DR. It was offered in the tavern of The Black Horse inn within Archenbridge.
+
+Prices
+Archenwood stout could be purchased in the following containers:
+ Draft (5 cp)
+
+The Black Horse inn in Archenbridge had the stout on its menu. Essembra's The Silver Taproom offered a variety of local libations, including Archenwood stout.
+
+Appendix
+Appearances
+Video Games
+Sword Coast Legends
+References
+
+---
+
+## Arrowpoint
+
+Arrowpoint was the headquarters for the Pegasus Archery Company, a mercenary group that operated out of High Dale in the 1300s DR.
+
+Due to the remote location, and abundant training grounds of the holding, they were able to provide quality protection to their patrons, as well great experience to their members, albeit with relatively low pay. They would support the local militia, under the High Constable, in their protection of the dale.
+
+Description
+This military hold consisted of several barracks and stables, all protected by a semi-circular earthwork, located just outside the village of Highcastle. The barracks housed the 75 mounted archers, who unlike the Flying Auxiliary, would only ride horses and not pegasi.
+
+Appendix
+References
+
+---
+
+## Arvien's Home
+
+Arvien's Home in Ashabenford was a building on the north side of town from which the town's tinsmith and pewterer, Arvien Blackhair, ran her business in the 14 century DR.
+
+Services
+She worked out of the back rooms of her house and created high-quality items for a hefty price. Arvien specialized in crafting a large number of the same, identical items, a feat which required no small amount of skill. For example, she made dozens of matching beer steins all engraved with the coat-of-arms of the establishment for which they were ordered.
+
+The parlor of Arvien's home was used to showcase her work and would attract many passersby to stop, enter, and admire her works. She would offer them tea and/or wine while they examined the masterfully crafted goblets, dishes, bells, spice dishes and other finished goods she had on display.
+
+Appendix
+References
+
+---
+
+## Arvien Blackhair
+
+Arvien Blackhair was an ill-tempered and skilled pewter and tinsmith who lived in and worked out of Ashabenford in the 14 century DR. Arvien's work was in high demand and her shop was constantly buzzing with prospective customers and admiring passers-by. She was known for being highly observant, and although she was known as the nosiest person in town, was respected enough to be suggested for a position on the Council of Six.
+
+Activities
+Arvien would sometimes stroll around town, typically in the side streets and back alleys at early dusk, observing the comings and goings of the Mistran. Although this might seem innocuous, Arvien actually served as spy for the Zhentarim, detailing the activities and movements of both the Council members and the Riders of Mistledale. The rest of the townsfolk were completely ignorant of her duplicity and her reputation remained sterling as of 1372 DR.
+
+Appendix
+References
+
+---
+
+## Araleth Letheranil
+
+Araleth Letheranil, called the Prince of Stars and the Twilight Rider, was a minor elven god of light, particularly twilight and starlight. He was also considered a god of the sun, moon, and stars.
+
+Description
+Araleth appeared as a  tall male elf with silvery hair, glowing, golden eyes, and a right shoulder bearing a dark scar. He wore white robes and was sometimes surrounded by a shimmering white aura.
+
+Personality
+Araleth took an aggressive stance towards combating evil, and encouraged elves to combat any evil creatures. This applied especially to darkness-loving creature, the drow being a prime example, and he frowned upon the unneeded usage of darkness spells.
+
+Powers
+Araleth's strikes were more effective against beings larger than the average human. He could cast continual light, sunray, or rainbow every minute as often as he desired; when using the bow form of the rainbow spell he could pick any color as often as he wished (within the normal limit of seven total). He was immune to spells that altered light and darkness, including indirectly like fire or lightning-based spells, and was immune to psionics.
+
+Possessions
+
+Araleth fought with a +5 longsword that was twice as potent against evil creatures and thrice if they originate from the lower planes.
+
+Divine Realm
+Araleth's divine realm was the House of Glowing Stars, a dwelling beset by drifting, glowing stars on the plane of Arborea in Arvandor.The phrasing indicates that the House of Glowing Stars is located within the joint realm of the Seldarine, Arvandor. It is not explicitly stated that Arvandor here does not refer to the first layer more generally, where that realm is located. But as that layer is usually called Olympus outside Forgotten Realms sources, it seems likely.
+
+Activities
+Araleth was engaged in a never-ending war against the forces of darkness.
+
+Relationships
+Araleth was an ally to the other members of the Seldarine, working closely with them when needed. He was particularly allied to the lunar goddess of the pantheon, Sehanine Moonbow, as well as the moon goddess of the Faerûnian pantheon Selune. He occassionally associated with the Pharaonic god Seker and the Norse god Frey due to their similar objectives.
+
+As a member of the elven pantheon, Araleth was an enemy of the goblinoid and drow deities, especially the Queen of Darkness Lolth, who personally scarred him with her poisonous fangs. The Prince of Stars was also opposed to the Nightsinger Shar and the Chained God Tharizdun.
+
+Worshipers
+
+Araleth's followers could be found among all non-evil elves, though those in his clergy were also non-lawful. He was specifically a favorite of elf adventurers due to his proactive encouragement to fight against evil, and his clergy worked with those of other priesthoods in their attempts to eliminate it just as Araleth cooperated with the Seldarine to do so.
+
+Araleth's clergy prayed at dusk, when his presence in the heavens could be felt. Beautiful objects were sacrificed to Araleth semiannually, though the clergy had few holy days save for the spring equinox, during which they sacrificed items of beauty within a circle illuminated by starshine spells.
+
+The Twilight Rider was to be worshiped in wide clearings, and while within the church (or during holy days), his clerics and specialty priests (known as Twylars) wore robes of white. They dressed as they pleased at all other times, though dark colors were so frowned upon that wearing them was considered a minor transgression. Aside from the clerics (who made up half the clergy) and the Twylar (who made up about a third), the rest was composed of crusaders.
+
+History
+Araleth Letheranil was one of the younger deities of the Seldarine—one of the "Second Born" who came after Lolth's rebellion and exile. There were many tales of Araleth's battles against the forces of evil, with him being known for his relentless pursuit of the drow when they returned to the surface. One of his most commonly known stories, debatably his most famous one, was that of his battle with Lolth herself.
+
+After the drow had been banished underground they had adapted to their new environment and eventually grew strong. Meanwhile, Lolth had developed plans to destroy those above, and through her clerics organized them into an army numbering in the thousands. Realizing what was going on, Araleth warned his own clerics, who in turn assembled a host of gray, wood, and high elves to hold back her dark forces. Though this long struggle was called the War of the Elves, various humans and demihuman parties came to the aid of the elves after realizing the severity of the situation.
+
+The dark elf sensitivity to light put them at an extreme disadvantage, as they could only fight at night or on gloomy days incited by the clerics, forced to withdraw against the light of the sun (with opposing forces sometimes foolishly following them). Dark elf casters, realizing their weakness in this environment, had tried to find a way to venture the lit world without penalty, and just when it seemed the forces of good would prevail, all of them were called back to the battle, and suddenly, Lolth had appeared to join the fray.
+
+Knowing that Lolth's presence would guarantee her side's success, Araleth personally took to the battlefield as well, fighting his way through the dark elven legions to strike at Lolth and the clerics (and other magic users) surrounding her. Araleth's magic and bladework cut down powerful drow and wounded Lolth while the Spider Queen's own magic, webs and fang took their own toll in the furious combat, and before the Prince of Stars knew it she had jumped on him and bit into his shoulder, venom pumping into the wound.
+
+Crying out in pain, Araleth fought on and plunged his magical blade into Lolth's abdomen, nearly killing her and forcing her to retreat to the Abyss, after which he proceeded to slay a great many casters and warriors before himself having to return to Arvandor. The presence of the Prince of Stars had inspired the forces of good and destroyed much of Lolth's forces, reducing the drow to a fraction of their original number as her followers fled back to the Underdark. Araleth would use the scar as a reminder to his followers on the necessity of evil's destruction.
+
+Rumors and Legends
+The first memory an elf experienced in reverie that came from another mortal life, when not attributed to Labelas Enoreth was called the Revelation, in which case Araleth was honored for its occurence.
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Arcane eye
+
+Arcane eye, also known as wizard eye, was an arcane divination spell that allowed its caster to spy on things from a distance.
+
+Effects
+The spell would create an invisible floating "eye", about one inch (two and a half centimeters) in diameter, which would provide the caster with visual information. The eye could see up to ten feet (three meters) with infravision and with a normal visual range after that and could move between  to  per minute. It moved more slowly if the caster was looking more than only straight ahead. The eye could be created anywhere within sight but could move to any distance from the caster.
+
+Solid barriers blocked the eye, but it could fit through holes that were not smaller than its diameter. It could not pass through portals or other means of entering other planes.
+
+Although the eye could not be used unless the caster was actively concentrating, a break in concentration merely disabled the eye and did not end the spell, and concentration could be resumed later. The spell was effective even if the caster was blind or in an area of magical darkness, as long as the eye itself was not.
+
+Components
+
+The spell took a full ten minutes to cast and required verbal, somatic, and material components. The material component was a bit of bat fur.
+
+History
+This spell was the first of many developed by Netherese arcanist Trebbe in . It was then called Trebbe's eye.
+Appendix
+Appearances
+Video Games
+Baldur's Gate series • Icewind Dale series
+MiniaturesIcons of the Realms''
+
+Gallery
+
+Reference
+
+---
+
+## Arcane Lore
+
+Arcane Lore was a column in Dragon magazine by various authors. It was published from July 1987 (Dragon #123) to July 2003 (Dragon #309).
+
+While similar to Bazaar of the Bizarre, which had a focus on magical artifacts, this column focused on spells and other magical lore.
+__TOC__
+
+Articles
+Note that only articles relating to Realms canon (relating to the Forgotten Realms or Core D&D) appear here.
+ Issue Title Author Description Citation templateDragon #123A new column of spells and enchantmentsHarold Dolan The debut of a new column presents eight new fire-based magic-user spells, and one new related magic item.Dragon #127A Legacy of IllusionsArthur Collins New spells for illusionists.Dragon #129Magic of the Dwarven PriestsLen Carpenter A look at dwarven magic.Dragon #130Magic from East to WestLen Carpenter From Oriental Adventures to Western campaigns: new spells for the casting in Advanced Dungeons & Dragons.Dragon #134New spells for healing.D.F. Fjellhaugen Clerical spells that heal even when the cleric is gone.Dragon #136One Charge is Never Quite EnoughDan Snuffin A new spell for recharging rods, staves, and wands.Dragon #142Spells of the Wild CultAndrew Kasarskis, Christopher Krough, Craig Dudek, David Ulrich, Mike Rodgers, Nathaniel Downes and Tom Hazel15 new druid spells.Dragon #148Healing magic for wizardsBruce Kvam Wizards aren't clerics, but they, too, can cure wounds.Dragon #164Pages From the Mages, Part VI Ed Greenwood More famous Realms spell books.Dragon #167Fleshing Out the Bare Bones of Necromancy Spells Jeffrey Pettengill Necromancy is a dead art, but these new spells will bring it to life again.Dragon #187Additional spells for elemental wizardsRichard A. Hunt Earth, air, fire, and water - an elementalist's playground for new spells.Dragon #205New (And Old) Priest And Druid SpellsJon Pickens Add these new (and old) spells to the priest's and druid's repertoire.Dragon #220Sea MagicDeborah Christian Spells from the oceans.Dragon #227And the Rocket's Red GlareDale Hueber Firework magic adds a new aura of flash and dash to your mage's portfolio.Dragon #230Dragon DweomersRobert S. Mullin Dragon magic by dragons, for dragons. Dragon #235Sea SpellsBrian Dunnell Seagoing sorcery for nautical adventures. Dragon #235Spells of the ScaledSteve Berman Amphibious, reptilian, and piscine spells. Dragon #236Demihuman Priest SpellsRobert S. Mullin Spells for the dwarven, elven, gnomish, and halfling priests of your campaign. Dragon #239Larcenous legerdemainJeff Dancey New spells for the criminally inclined. Dragon #242Magic of Sight and SoundLloyd Brown The spellbook of Morion, master bard from Faerûn, contains many specially researched spells that use light and sound to good effect.Dragon #243Traveling SpellbooksDavid Head and Anthony NixonFor those who would seek these magical tomes of the Greyhawk campaign. Naturally, these spellbooks are just as appropriate for the Forgotten Realms game setting.Dragon #244Spells of Elemental AirRobert S. Mullin Spells of Elemental Air can take your wizards to new heights. Dragon #248Dragon Dweomers III: Draconic Priest SpellsRobert S. Mullin Magic gifted by the dragon gods.  Dragon #250Secrets of the Arch-GeomancerPaul Fraser This article reveals magical secrets of the geomancer Tisan Balshareska and her spellbook, the Kitab al-Asfr, from Al-Qadim's Ruined Kingdoms region. Dragon #252Tomes of Forbidden LoreMatthew Martin Filled with dark knowledge and forbidden magics, spellbooks found in the Demiplane of Dread are best left alone.Dragon #253The Mage's SecretLloyd Brown III Divination spells.Dragon #256Haunting MelodiesJames Wyatt Bards and Spellsingers can learn a new tune.Dragon #260DragondoomJohnathan M. Richards A compilation of spells useful in hunting and slaying dragons. Dragon #261Conjuring in the Half-DarkSpike Y. Jones Shadowy spells.  Dragon #265Savage SpellsJeffrey N. Mendoza Wizardry from the wilderness.  Dragon #266Unleash the Beast WithinBrian P. Hudson New lycanthropic spells.  Dragon #271Spells of DefenseOwen K.C. Stephens Spells of defense come in handy for every wizard.  Dragon #272Dragon Dweomers IVRobert S. Mullin As if dragons weren't deadly enough, here are even more spells with which they can crush those meddling heroes.   Dragon #273The Green DweomerClaudio Pozas Druid spells.  Dragon #299Blessings of WarAmber Scott 18 new paladin spells.   Dragon #302A Clutch of CantripsKieran Turley and S. Deniz BucakMore level 0 spells.    Dragon #309War SpellsSean K. Reynolds Powerful new spells designed to effect the course of battles.
+
+Dragon Annual
+ Issue Title Author Description Citation templateDragon magazine annual #1Scrolls of the Ice MageAnne W. Davis Frosty new spells for all wizards.Dragon magazine annual #3The Prayers of Stromp and HavvelLoren Coleman To see how impressive dwarven magic can be, one need only look to the earth.Dragon magazine annual #4Secrets of the Slime WizardLloyd Brown III Dirty, nasty, icky, slimy, gummy, stinky, gnarly...a number of repentantly gooey spells.
+
+Appendix
+See Also
+ Bazaar of the Bizarre
+Spellcraft
+Connections
+
+---
+
+## Armor of faith
+
+Armor of faith was a type of enchanted magical armor that, during creation, had been consecrated by the clergy of a specific deity. These included a variety of armors including leather, chain, and plate mail among others and were popular among clerics, druids, paladins, and even some rangers.
+
+Description
+The breastplate or chest protector of the armor often bore the holy symbol of the deity to which it was devoted, though this was not always the case.
+
+Powers
+Armor of faith offered magical protection like other magical armors, from +1 to +5. When worn, it projected an aura around the wearer that was visible to similarly aligned people of the same faith. To these observers, the wearer appeared as an ally, of a similar mindset who shared in their cause. To onlookers that shared their religion, but not alignment, the sameness of faith would be clearly evident.
+
+The alignment of the armor, detectable by a know alignment spell, was the same as the deity to which it was dedicated and, as such, it could only be worn by people of this faith who shared this alignment. If anyone who did not meet these requirements donned the armor, it would damage them until it was removed.
+
+Notable Owners
+The ranger Seffer Ekr possessed a set of +3 chainmail, blessed as armor of faith, which exemplified his favor in the eyes of Mielikki. The armor, as well as a promise from the Forest Queen, protected Seffer's life for many years, allowing him to die from a heart attack, rather than at the blade of an opponent. At some point, this set of mail passed to Sir Sarles of Athkatla.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate II: Shadows of Amn • Icewind Dale II • Icewind Dale: Enhanced Edition
+
+External links
+
+References
+
+---
+
+## Arcane mark
+
+Arcane mark, also known as wizard mark in times and places unfamiliar with sorcerers, was originally from the alteration school of magic, but became a universal spell that anyone practicing the Art could cast. It was simple enough to learn that it became a cantrip.
+
+Effects
+This spell allowed the caster to put a personal rune or mark of up to six characters on any object he or she could touch. The symbols had to fit within a 1 foot (30 centimeters) square to maintain cohesiveness. The writing could be visible or invisible, and was magical, so a detect magic made it glow, and a read magic revealed the meaning, if any. Other means, such as a see invisibility spell, a robe of eyes, a gem of seeing, or true sight also revealed an invisible mark. The mark did not physically alter or damage the object in any way, even though it seemed to be etched into the surface. The object was permanently marked until the caster dispelled his or her own mark, or an erase spell was used on it. If the mark was placed on a living creature, then it normally faded away in about a month.
+
+Some versions of Drawmij's instant summons required an arcane mark be placed on an object before it could be summoned.
+
+Objects with an arcane mark could be used to trigger an arcane mark ward.
+
+Components
+All versions of this spell required a verbal utterance and the somatic gestures of drawing the sigils. The early version of this spell also required a material component of a pinch of diamond dust worth about 100 gp and one or more pigments with which to draw the symbols. The caster used a finger for a visible symbol or a stylus for an invisible one.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Arcane mark ward
+
+Arcane mark ward was an abjuration spell used by the Red Wizards of Thay to protect their enclaves from intrusion without their knowledge.
+
+Effects
+This spell took ten minutes to cast and lasted a few days to many days, depending on the level of the caster. The spell covered a sphere with a radius of  centered on a point. The effect of the spell was very similar to the alarm spell, except the trigger was a person or object that had previously been tagged with the caster's arcane mark. When such a person or object crossed the perimeter of the sphere in either direction, the caster was alerted by a mental touch that was noticeable without breaking concentration. If the caster was in a natural sleep state, he or she was awakened. The caster had to be within  of the ward in order to receive the alarm.
+
+Objects and creatures that were traveling in the Ethereal or Astral planes did not trip the ward unless they phased into the Material plane while inside the warded volume.
+
+Components
+In addition to verbal and somatic components, this spell required the same arcane focus as the alarm spell: a very thin silver wire and a tiny bell.
+
+Appendix
+See Also
+ Alarm
+ Arcane mark
+References
+
+---
+
+## Arkhen Vale
+
+The Arkhen Vale was a long valley within Archendale, created by the River Arkhen. Either side of the gorge was beset by steep cliffs leading down into the swift current of the Arkhen.
+
+The Dawnpost road came into the vale from Ordulin, running alongside the River Arkhen until crossing it at the Arkhen Bridge just north of the city of Archenbridge, before extending further south to Daerlun. On the other end of the valley was a road leading north from White Ford, leading to Highmoon.
+
+Description
+The valley floor was rich with lush flora such as ferns, mosses and full of small ponds and waterfalls.
+
+Notable locations
+Archenbridge
+White Ford
+
+Appendix
+References
+
+---
+
+## Arkhen Falls
+
+The Arkhen Falls were the largest and most beautiful waterfall in all of the Dalelands. It was formed by a spring shooting out from Mount Thalagbror, cascading down the southern face of the northern ridge of the Thunder Peaks. The rushing waters emptied out into the gorge of the Arkhen Vale and formed the River Arkhen.
+
+There was a legend that pegasi would flutter around the falls. Followers of Chauntea and Mielikki would travel to the falls in hope of catching a glimpse of these majestic beasts.
+
+The rocky cliffs behind the falls were rich with valuable minerals such as copper and gem stones.
+
+Appendix
+References
+
+---
+
+## Armada (spelljammer)
+
+Armadas were the largest of elven-made spelljammers. They were the backbone of elven space activities, supporting smaller craft in exploration and military operations.
+
+Description
+Armadas were shaped like enormous butterflies, with the wings straightened so that they could serve as landing platforms for the smaller flitters. The "head" of the butterfly was the ship's bridge, where the spelljamming helm was located. A secondary bridge with a backup helm was located in the ship's tail.
+
+These large ships were mainly employed as bases for large military operations. A single armada could hold up to 40 flitters, some of them even equipped with spelljamming helms. These small vessels could be used as messengers or advance invasion troops.
+
+Typically, an elven fleet could count on one or more armadas, supporting a fleet of several men-o-war and hundreds of flitters. Armadas that served as command posts for such large fleets were modified to include large towers on their backs, similar to those of dwarven citadels, where high-ranking officers lived and coordinated their efforts.
+
+The usage of armadas was reserved for elven nations. If any other race was caught using an armada, elven fleets would pursue and kill the offenders. It was preferable for the elves to destroy a captured armada than to let it fall into others' hands.
+
+Like other elven spacecraft, such as men-o-war, flitters, and gadabouts, elven armadas were enchanted fruit from starfly plants that were allowed to grow to maturity without taking root, shaped into their final form thanks to the starfly's easily changeable nature. As living vessels, armadas took a long time to grow, but had enormous lifespans.
+
+History
+The space station Lionheart, the secret command base of the Council of Admirals of the Elven Imperial Navy, was composed of a ring of armadas whose wings were fused together. While its location was changed every few years to avoid attacks from enemies, it was sometimes located near one of the asteroids of Garden in Realmspace.
+
+In the mid‒14 century DR, the elven admiral Icarus commanded a large fleet of elven spacecraft that contained seven armadas, among other types of spelljammers. Icarus operated exclusively in Realmspace.
+
+Around the same time period, the government of Wa designed the tsunami and the locusts with the explicit purpose of developing a fleet that could match the might and versatility of the armadas and flitters.
+
+Rumors & Legends
+There were rumors of a purple armada operated by drow, known as the Gypsy Moth, but no confirmed sighting existed of it.
+
+Appendix
+See Also
+ Monarch armada
+Appearances
+Adventures
+Under the Dark Fist
+External Links
+
+References
+
+---
+
+## Arleanda
+
+Arleanda was a Wearer of Purple within the Dragonwell cell of the Cult of the Dragon during the late 14 century DR. She was tasked with overseeing ogre laborers who were excavating the caves around the Well of Dragons.
+
+Personality
+Arleanda was known for preferring academic interests over other pursuits.
+
+History
+Arleanda was in charge of the excavation of the cave when an ancient tablet was discovered by Reveilaein Brant, a young and brash cult member who served as the mostly disregarded apprentice of Vargo Kent. The tablet was an ancient relic of the draconic demigod Kalzareinad, that described a process in which a half-dragon could transform into a dracolich known as a kaemundar.
+
+Appendix
+References
+
+---
+
+## Arvandor (layer)
+
+Arvandor, sometimes called Olympus, was the first layer of Arborea in the Great Wheel cosmology. It contained the realms of Arvandor, Olympus, and Brightwater.
+
+Description
+Arvandor was a place of endless forests and open spaces. It had a day-night cycle similar to the one on Toril, with a sun, a moon, and stars. Hunting challenges were practiced during the day, while feasts were held and stories were told around campfires during the warm nights. Enormous redwoods and oaks formed forests dotted by orchards, grape and wheat fields, and settlements.
+
+Locations
+The three great joined realms within Arvandor were separated from each other by enormous expanses of wilderness and hills that dwarfed most mountains in the Prime Material plane.
+
+The layer was perhaps best known for its homonymous realm of Arvandor, an arboreal expanse of glades, forests, and groves that harbored Corellon's tower, the Evergold, the town of Grandfather Oak, the House of Glowing Stars,The phrasing indicates that the House of Glowing Stars is located within the joint realm of the Seldarine, Arvandor. It is not explicitly stated that  Arvandor here does not refer to the layer in general. But as the layer is usually called Olympus outside Forgotten Realms sources, it seems likely. and the palace of Mythralan,Dragon magazine 251 states that Mythrien Sarath's realm of Mythralan is located in the layer of Arvandor, but does not say if it is within or outside the joint realm of the Seldarine, Arvandor. with Aerdrie Faenya's floating palace drifting above. This was the realm of the Seldarine, the original home of all elves in the multiverse and their final resting place.
+
+The second realm was called Olympus. Its fields were more pastoral and tamed than Arvandor, inviting the accomplishment of epic deeds.
+
+The third realm of Arvandor was Brightwater, a fully urban realm in which recklessness, luck, and impulsiveness ruled the day. It was the divine realm of Tymora, Lliira, and Sune.
+
+Utu, the god of the sun of the Untheric pantheon also had his own separate realm on Arvandor, named the Absorbing Light. However, its interor was a mystery as none who entered returned. Rumor had it that they were all forcefully merged to its master.
+
+In the valley between Olympus and Arvandor, near the realm of Brightwater, stood the Gilded Hall of the Sensates, a large palace of domes and towers where constant parties were held. Known to the elves as Perlamia, the Gilded Hall was also a place of healing.
+
+Inhabitants
+The main inhabitants of the settled areas of Arvandor were eladrin. The wilderness was also inhabited by centaurs and nymphs. The unsettled areas of Arvandor were inhabited by giants and cyclopes seeking to challenge adventurers.
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Arkhen
+
+Arkhen the Icy was a Master Sorcerer who lived in the Conclave of Silverymoon during the mid-14 century DR. He ran a college of magic, called Arkhen's Invocatorium, that specialized in the arcane education of sorcerers.
+
+Within the college, Arkhen had animated nearly all the furnishings and controlled them at will.
+
+Personality
+Arkhen was particularly known for his strict demeanor and sarcastic sense of humor.
+
+Appendix
+
+References
+
+---
+
+## Arrow of Justice
+
+The Arrow of Justice was an elven armada under the command of Icarus during the mid‒14 century DR. It played an important role in the War of the Spheres.
+
+Description
+The ship was mainly active in Realmspace while under the command of Icarus.
+
+History
+During the early stages of the vodoni invasion of Realmspace, the Arrow of Justice intercepted a ship whose crew of adventurers had had close contact with the invading forces and could provide valuable information in order to form a defense. The Arrow of Justice escorted the adventurers' ship to the Rock of Bral, where a meeting of the Free Space Alliance was held to determine the next course of action.
+
+Throughout the battle, the ship served as the site for the war conferences and as the Alliance's flagship. In the final battle, the Arrow of Justice led the attacking forces of the Alliance into Vodonispace.
+
+Appendix
+Appearances
+ Under the Dark Fist
+References
+
+---
+
+## Arlagh Deathclaw
+
+Arlagh Deathclaw was the "Old Gut", or chieftain, of the Ripped Gut orc tribe that lived in the stronghold of Baraskur, in the Nether Mountains during the 14 century DR.
+
+While Arlagh typically led the tribe with the help of a council of elders, his authority was overshadowed in the presence of the ghost of the sorceress, Aumathra. When her spirit would periodically possess a body brought to her by the orcs, her commands superseded all others and she treated the orcs as slaves.
+
+Relationships
+Chief Arlagh had a son, Ragrath Deathclaw, who was a cleric of Gruumsh who was greatly influenced by Orauth Skullstone, another faithful of the One-Eyed God.
+
+Appendix
+References
+
+---
+
+## Arvoreen's Marchers
+
+Arvoreen's Marchers was a knightly order of Arvoreen dedicated to the protection of Tethyr and the elimination of the lands' monsters. They were highly respected amongst both the Hin and Tethyrians alike.
+
+Organization
+The Marchers consisted of primarily halfling paladins, though there were some gnomes within their ranks. Many of the paladins of this order also doubled as priests of Arvoreen, fighters, and even rogues. Those of the roguish persuasion typically served the order under the capacity of couriers and spies. Their numbers also notably included some Arvoreen's Keepers, special warriors-priests within the Arvoreenan faith.
+
+They regularly patrolled the duchy of Purple Marches, primarily through County Vintor. Through their efforts a great deal of monsters were ousted from the duchy.
+
+Tactics
+The paladins of the order, referred to as Wary Swordknights, were known for their martial prowess and being quite vigilant. They could dodge as well as any barbarian, trip and grapple with foes twice their size, and could cast haste on themselves once per day.
+
+Base of Operations
+Keeperstone was the chapterhouse of the Marchers, a forsaken manor  north of the halfling community of Barrowsmom that they had rebuilt after its destruction during the Ten Black Days of Eleint.
+
+History
+The order was formed in 1358 DR, and they gained great renown for their efforts during the Tethyrian Interregnum. While they protected the Purple Hills, Arvoreen's Marchers kept full-blown anarchy from spreading over their realm as it had been the rest of the country. They also ensured that halfling communities remained safe during the Interregnum.
+
+Notable Members
+ Estemal Talltankard, the order's founder and leader.
+ Brenth Stoutshield, an officer who resigned from duty in 1367 DR.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Arthyn
+
+Arthyn was a large port town on the Lake of Steam. It was an independent city-state in the Border Kingdoms.
+
+Geography
+The town was located on the southern shores of the Lake of Steam, in the northeast section of the Border Kingdoms, between the kingdoms of High Mukshar and Middle Mukshar. It had a small harbor and was surrounded by low hills, which contained mines and farms.
+
+Government
+The town was governed by the Arthlord, who was chosen by the two local temples. The position was similar to a mayor but also had the powers of a police chief and magistrate. The Arthlord acted as judge in all trials, which were held in public in the town square. Policy was drawn up between the temples, landowners, and the Arthlord.
+
+Religion
+The two temples in Arthyn had great power over the town. The Morningtable was a temple to Lathander, and The Bright Sheaf was a walled garden temple to Chauntea.
+
+Trade
+The town had rich deposits of copper and iron in the surrounding hills, and as a result Arthyn had a thriving smelting industry. Fine daggers from the city, called "Arthyn fangs", were sought after across the Border Kingdoms. The town also had a reputation for healing, and a saying in the Border Kingdoms was "healing is at hand in Arthyn". This reputation was earned by the Witch of the Mists, who resided in Arthyn for many years and developed medicines that saved many lives over the years. Her medicines were still sold in local markets in the 1370s DR.
+
+Defenses
+Peace was maintained by the town watch, the Lockgates. They were commanded directly by the Arthlord. There was a small militia as well, called the Badgelars.
+
+Inhabitants
+ Darraskyn Eldron, the cleric in charge of the temple of Lathander, The Morningtable. He was originally from Tashalar.
+ Harrond Tralvus, current Arthlord in the mid-1370s. He was originally from Chondath.
+
+Badge
+A white pick, head to the upper left, and crutch, diagonally crossed on a green circle.
+
+Appendix
+Further Reading
+
+References
+
+Connections
+
+---
+
+## Artemel
+
+Artemel  was a noble house of Waterdeep during the 14 century DR.
+
+Organization
+The house was officially ennobled in 1233 DR.
+
+From at least the Year of the Prince, 1357 DR, to at least the Year of Wild Magic, 1372 DR, the family was led by Lord Bresnoss with his consort Lydda. The designated heir was Ord Artemel. Around this time there were 31 living members of the house.
+
+Activities
+Their family trade was that of money-lending and were well-known for their interest in hunting boar.
+
+Base of Operations
+
+The family's estate, Artemel Villa, was in the Sea Ward, on the northeast corner of Vondil Street and Sul Street.
+
+Members
+Bresnoss Artemel: House Artemel's patriarch.
+Lydda Artemel: Bresnoss' consort.
+Ord Artemel: Heir of house Artemel.
+Lord Charnos Artemel: Bressnos' fourth son.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Arnise
+
+House Arnise, also referred to as De'Arnise,In Baldur's Gate II: Shadows of Amn, family members have the surname "De'Arnise" was a noble family of warriors from the nation of Amn, during the 14 century DR. Unlike the many mercantile families that were so common in the nation, the Arnise family were well-renowned for their trade as warriors and soldiers-for-hire.
+
+They were an honest, and somewhat simple noble family, who were fair and hospitable of the farmers that looked to them for protection and leadership.
+
+Their familial hold was located west of the Trade Way in Zehoarastria.
+
+Members
+ Lord Arnise
+ Nalia de'Arnise
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Arnise Hold
+
+The Arnise Hold,In Baldur's Gate II: Shadows of Amn, the keep was referred to as "De'Arnise Hold". or Arnise Hall, was the familial keep and homestead of the noble Arnise family of Amn. It was a well-kept, if rather plain, stronghold that offered a few amenities to visitors and farmers in the region. The Arnise family possessed a great deal of hospitality, a trait well-appreciated by their vassals.
+
+Description
+
+The Arnise keep was a small, two-story stronghold with a small courtyard and spacious cellar.
+
+Cellar
+Beneath the keep were a number of long hallways, which connected to a small, subterranean cavern down one path and the Arnise family tomb in the opposite direction.
+
+Courtyard
+Outside the main keep, but within the outer walls, was the hold's courtyard where Lord Arnise kept his dogs.
+
+Ground floor
+The grand hall was the central feature of the ground floor of the keep. Surrounding the hall were storage rooms, servants' quarters, the keep's kitchens, and a forge.
+
+Second floor
+The top floor of the keep contained the keep's library and a columned chamber where a portion of the Arnise family treasure was held. The chests in this hall were protected by a cadre of golems.
+
+Services
+Outside the keep were spacious stables, with room and feed for plenty of mounts and pack animals (though livestock were forbidden). Use of the stables cost 4 sp per animal.
+
+There was an adjoining guest house that was available for rent for a mere 2 sp a head per night. Patrons staying in there were given comfy fur blankets to keep the cold away. Meals provided by the skilled cooks of the Arnise kitchen were exceptionally delicious and well-prepared. They included delights such as boar dumplings and fried hack, a plate of smoked fish and bacon; both of which were served with a dish made of barley and mushrooms.
+
+Drunks were not allowed to stay at the guest house and were relocated to the horse stables.
+
+Inhabitants
+Arnise family
+Lord Arnise: Ruler of the hold and patriarch of the Arnise family
+Delcia Arnise
+Nalia de'Arnise
+
+Staff and servants
+Captain Arat
+Daleson
+Glacias
+
+History
+Sometime around 1368 DR, the Arnise keep was invaded by a band of yuan-ti and trolls, led by Torgal.
+
+Appendix
+Notes
+
+External Links
+
+References
+
+---
+
+## Armor of Deep Night
+
+The Armor of Deep Night was a magical suit of leather armor, bestowed unto Toril by the deity Umberlee.
+
+Description
+The armor was made from black leather and fastened with ebony rivets.
+
+History
+The Armor of Deep Night was a gift from Umberlee to the rogue Dami Darn, after she killed the conjurer Looxil, who had betrayed the Bitch Queen.
+
+In the, the Armor of Deep Night was available for purchase from Ribald Barterman's Adventurer Mart in Athkatla.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate II: Shadows of Amn
+External Links
+
+References
+
+---
+
+## Archers
+
+Archers was a card game for 4–8 players enjoyed in northwest Faerûn, circa the Year of Wild Magic,1372 DR. Gambling on the outcome of the game by choosing the winner was common. Wagering on the second-, third-, and even fourth-place winners was common for games with more than four players. This game was offered at the High Flagon gambling hall and inn, located just outside Waterdeep.
+
+Set-Up
+This game used the same three-suit deck of sixty cards that was used to play High Dragon, and kept the same rankings (a Hero ranked higher than a Knight and a Knight beat a Minstrel, etc.). The dealer gave each player one card face down and then dealt hands of two cards. Players were allowed to look at the two cards in their hand but not the face-down card.
+
+Rules
+Known rules included:These rules do not completely describe all the mechanics of the game. The gaps are left to the reader to fill in.
+
+The object of the game was to accumulate five additional face-down cards in a "booty" pile. After a player was chosen to go first, that player began the game by "shooting an arrow" at another player.
+
+Shooting an Arrow
+To shoot an arrow, the attacker (called the archer) revealed one card from their hand and indicated another player as the target. The defending player then revealed one card from their hand and the player with the highest-ranked card won the exchange. Hand size was required to stay at two, so archer and defender each received a card to replenish their hands after an attack.The source does not explicitly say that new cards are acquired, but it is presumed that "arrows" cannot be reused.
+ If the archer won, he or she acquired the defender's face-down card, looked at it, and then chose to keep the card as booty or to move their face-down card to the booty pile and replace it with either the newly won card or a card from their hand.The source does not indicate how a losing defender acquires another face-down card.
+ If the defender won, hands were replenished and the defender became the archer and proceeded to shoot the next arrow at any other player, including the previous archer.
+ If both attacking and defending cards were the same rank, then the two combatants exchanged face-down cards without examining them.Presumably, a new archer was then chosen.
+
+The first player to acquire a booty of five cards was the winner.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Arrion Weatherspoon
+
+Arrion Weatherspoon, who was affectionately referred to as "Old Horseface", was the special effects artist of the Ravens Bluff Playhouse and an officer within the city's bards' guild during the late 14 century DR. He was a merry, seemingly care-free old man who took delight in pranks and practical jokes, just as much as he did pleasing his friends and fellow performers.
+
+Within the guild, he was considered a master actor, dancer, juggler, tumbler, singer, pan-pipes player, ventriloquist, and voice mimic, though he was also skilled in the art of disguise and knowledgeable of proper etiquette.
+
+Description
+Arrion was tall and thin, with a pale complexion and long, blonde hair that flowed to the middle of his back. His long, narrow face and large blue eyes lent to the affectionate nickname of "Old Horseface".
+
+While the prankster magician maintained an amiable and eager-to-please demeanor, he was prone to periodic bouts of melancholy and wistfulness. This side of Arrion was so well guarded and so seldom seen that only his wife Beatrice and a select few others had caught him singing intense love songs in a minor key.
+
+History
+The jovial Arrion was born to servants of a lord whose estate was located in the lands surrounding Procampur. Early in life, he displayed a natural gift for comedy; those skills, combined with his unique appearance, allowed him the opportunity to become the lord's house jester. Some years later, he studied the arcane arts under the lord's private tutor, specializing in illusory trickster magic.
+
+This tutelage continued until one day, seemingly without reason, Arrion left the manor without a word to anyone in his life and began to wander Faerûn, seeking magical knowledge. While he never openly discussed his reason, it was speculated he left the lord's estate due to a broken heart, as he had fallen in unrequited love with one of the lords' daughters.
+
+In the 1360s DR, Arrion's travels led him to Ravens Bluff, where he found a home in the city's theater. He used his illusion magic to enhance shows and performances put on by the local bard's guild and became an invaluable addition to their fellowship. He went on to marry the theater's director, a famed actress and singer, Beatrice Weatherspoon.
+
+Appendix
+References
+
+---
+
+## Armor of the viper
+
+The armor of the viper was an enchanted suit of leather armor found in Faerûn during the 14 century DR. While it provided significant protection against physical attacks, it left the wearer more vulnerable to poison and paralyzation.
+
+History
+The armor got its name not from a monstrous snake or serpentfolk but rather from the nickname of the drow assassin, Raroh. He was renowned for the potent poisons he used in his murders. When he learned of his armor's susceptibility he presented it as a gift to Avlorm, a skilled but novice assassin, who was quickly rising in rank within his guild. When the novice's prowess eventually grew to rival his own, Raroh easily eliminated the threat to his power.
+
+Appendix
+External Links
+
+References
+
+---
+
+## Armor of the hart
+
+The armor of the hart was an exquisite set of enchanted full plate mail that was counted among some of the finest suits of armor in all of Faerûn. While its exact origins were unknown as of the 14 century DR, it had a number of folk stories and legends associated with its use on Toril.
+
+Powers
+This +3 suit of full plate armor offered superb protection for its wearer, while requiring significant strength to don in combat.
+
+History
+The most commonly spoken tale regarding the armor of the hart told of a heroic effort put forth by Arngor of the Oak and his allied forces of men and elves, against a horde of orcs in a battle within the Three Trees Pass between the Giantspires and Troll Mountains in the Vast. Arngor battled the general of the orc army in single combat until the sun set and the mists rolling over the battlefield comprised blood rather than water. The mighty leader defeated the orc commander but was mortally wounded and beyond the saving of any cleric or healer. His blood soaked into his armor, imbuing the plate mail with his noble courage and making it famous.
+
+Appendix
+Appearances
+Video games
+Baldur's Gate II: Shadows of Amn
+
+External Links
+
+References
+
+---
+
+## Army (spell)
+
+Army was a rare and powerful conjuration spell of the southern magic tradition that would allow the caster to instantly summon an army.
+
+Effects
+The spell created soldiers made of stone, dirt, or sand. The number of soldiers summoned and the duration of their existence depended on the wizard's skill (more experienced casters could summon more soldiers that lasted longer). These soldiers obeyed the orders of the caster only, and were immune to all enchantment or charm spells. The soldiers had a range of up to 500 yards (457 meters) from the caster. When the spell was cast, the soldiers appeared within a 250-yard (229-meter) radius of the caster, arranged as the caster desired. When the spell expired, the soldiers vanished.
+
+Components
+In addition to verbal and somatic components, this spell required a material component, an expensive diamond, at least 5,000 gp in value, for a material component. This diamond was crushed into dust during casting.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Armun
+
+Armun was the spokesperson of the dwarven clan that resided below the sewers of Waterdeep, during their time of need.
+
+History
+In the past, the ancestors of Armun were driven from their halls by evil creatures, and had to live above ground. In this climate, the clan dwindled, and King Teirgoh had had enough. The king gathered his fellow dwarves and led them underground, in search of their ancestral home.
+
+Using secret knowledge passed down by the royal family, they finally discovered the stone-carved halls. The halls were huge and the dwarves had to make camp close to a stone portal. Whilst they slept, the stone portal blazed with magical light, and a horde of evil drow charged them, led by Shindia Darkeyes. They fought valiantly, but were exhausted by their long weeks of travel. They finally managed to force the dark elves to retreat into the portal, but suffered enormous casualties in the process. In the battle, King Teirgoh was wounded by a poisoned dagger, and lay in eternal sleep. Unfortunately, their cleric could not do a thing. His only son, Prince Keirgar, was captured during the drow invasion. With no member of the royal family among them, Armun and the rest of the dwarves no longer had access to the secret royal knowledge.
+
+The dwarves spent much time recovering from the devastating attack and luckily came across a band of adventurers. The party heard Armun out, who told them the story of his past. He told them that, when they are prepared, they will strike. However, he offered an alternative. If the party were to rescue Prince Keirgar and return him to them, he would pass on the information about the exits from the dwarven halls.
+
+If the party accepted, Armun was grateful, and handed them a medallion made of stone. The medallion belonged to Shindia, who'd dropped it in the battle. This magical item was actually the key to the portal that previously sent hordes of evil creatures and drow to fight the dwarves. Before they headed off, he gave them instructions on the portal's usage, and told them that his ancestors would use them for quick transportation. He also told the adventurers  a legend about an oracle of knowledge, and the key to its operation was a powerful black orb. Here, the young dwarven warrior, Dorhum, joined the adventurers, if they so wished.
+
+Appendix
+Appearances
+Video games
+ Eye of the Beholder
+References
+
+---
+
+## Ardulia's Fall
+
+Ardulia's Fall was a magical mace that allowed the wielder to slow their opponents with every blow.
+
+History
+The weapon was wielded by a priest of the Sword Coast named Itgan. It earned its name when the extremely quick and deadly raider named Ardulia came to Itgan's village, and challenged the devout clergyman to one-on-one battle for control of his home. While Ardulia was renowned for his agility and prowess in battle, he met his match when he was repeatedly bludgeoned by Itgan's mace, unable to endure the priest's steady blows.
+
+At some point, it came into the possession of the clerics of Helm within the city of Athkatla, as of the year 1369 DR.
+
+Appendix
+Appearances
+Video games
+Baldur's Gate II: Shadows of Amn
+
+External links
+
+References
+
+---
+
+## Arulf
+
+Arulf "the Swordmerchant" was a weapons-dealer who lived in Battledale during the mid-14 century DR. Arulf offered high quality steel weapons of all sorts within the city of Essembra.
+
+Due to Arulf's nickname, it was believed they had a fine selection of blades and swords.
+
+Appendix
+References
+
+---
+
+## Archdevil
+
+The archdevils were powerful, unique devils. The most powerful archdevils were the Lords of the Nine.
+
+Hierarchy
+The position of archdevils in the hierarchy of Baator was clear: archdevils were the most powerful and were, therefore, on top. The most powerful of the archdevils were the archdukes, also called the Lords of the Nine. Other archdevils were dukes, ruling portions of a layer, generals, or bureaucrats of various sorts. Each used the unique qualities of their layer to keep its essential nature pure of chaos.
+
+Powers
+The presence of an archdevil twists and warps the layer over which they rule to be closer to what they themselves embody.
+
+Archdevils by Layer
+Archdevils of Avernus
+ Zariel: The Lord of the First and commander of the diabolical armies in the Blood War, Zariel was a fallen angel who had been appointed to her archdukedom by Asmodeus himself.
+ Bel: A general under the command of Zariel and a former archduke himself.
+ Qirozz: A tactician under the command of Bel and later Zariel.
+ Under Tiamat's rule of Avernus, her generals included the archdevils Amduscias and Malphas.
+
+Archdevils of Dis
+
+ Dispater: The Lord of the Second, Dispater rarely left his Iron Tower due to his extreme paranoia.
+ Lilis: The loyal consort of Dispater.
+ Titivilus: Although not very powerful personally, Titivilus was Dispater's closest adviser.
+ Bitru: A duke of Dis in the service of Dispater.
+ Arioch: A vassal of Dispater who meted out vengeance on those who dared defy his master.
+ Biffant: The loyal provost of Dispater.
+ Merodach: A duke of Dis.
+ Alocer: A duke of Dis.
+
+Archdevils of Minauros
+ Mammon: The ruler of Minauros and patron of greed.
+ Glwa: Mammon's consort after Glasya left him.
+ Bael: A powerful general in the service of Mammon.
+ Focalor: The cautious seneschal of Mammon.
+ Caarcrinolaas: A duke of Minauros.
+ Melchon: A duke of Minauros.
+
+Archdevils of Phlegethos
+
+ Fierna: The official Lord of the Fourth.
+ Belial: The father of Fierna as well as her predecessor, Belial was in part the power behind the throne of Phlegethos.
+ Chamo: An archdevil who served Belial as Legate of Abriymoch; his loyalties during Fierna's rule were unknown.
+ Balan: A duke of Phlegethos who served Belial; he remained loyal to Belial even after the archduke "retired".
+ Bathym: A duke of Phlegethos who served Belial; he chose to cast his lot in with Fierna after she rose to power.
+ Gaziel: A duke of Phlegethos who served Belial; he remained loyal to Belial even after the archduke "retired".
+
+Archdevils of Stygia
+ Levistus: The Lord of the Fifth was imprisoned in an iceberg by Asmodeus for past crimes. He was therefore forced to telepathically relay instructions to his minions, even as he also had to deal with his predecessor's continued existence.
+ Geryon: The deposed Lord of the Fifth, Geryon was a savage archdevil who sought to reclaim his former position.
+ Agares: A vassal and duke under Geryon's reign; he found a new position as a commander under Levistus's rule.
+ Machalas: The weakest duke who served Geryon; he found a new position as a commander under Levistus's rule.
+
+Archdevils of Malbolge
+ Glasya: The daughter of Asmodeus, Glasya was the Lord of the Sixth.
+ Tartach: Formerly the legate of Moloch, he abandoned Baalzebul to serve Glasya.
+
+Archdevils of Maladomini
+ Baalzebul: Also called the Lord of Lies, the Lord of the Seventh was the repulsive fallen angel who was once called Triel.
+ Baftis: The quiet First Consort of Baalzebul.
+ Lilith: formerly the consort of Moloch, she later became after Baalzebul's Second Consort.
+ Neabaz: Called the Herald of Lies, he served as the herald of Baalzebul.
+ Barbatos: The Marshal of Maladomini.
+ Abigor: A duke and general of Maladomini.
+ Zepar: A duke and general of Maladomini.
+ Bileth: Formerly the tribune of Moloch, he became a general in the service of Baalzebul after returning to Maladomini.
+
+Archdevils of Cania
+ Mephistopheles: The Lord of Cania was always plotting against Asmodeus.
+ Baalphegor: Consort of Mephistopheles and quite possibly the reason why the Lord of the Eighth was not demoted.
+ Hutijin: A duke of Cania and powerful general who loyally served Mephistopheles.
+ Bele: The justiciar of Cania.
+ Adonides: The steward of Cania.
+ Barbas: An archdevil who served Mephistopheles as chamberlain.
+ Bifrons: A powerful duke and vassal of Mephistopheles.
+
+Archdevils of Nessus
+
+ Asmodeus: The Lord of the Ninth and King of the Hells, Asmodeus was a deity in his own right.
+ Adramalech: The Chancellor of Hell and Keeper of Records, Adramalech answered only to Asmodeus.
+ Phongor: The dreaded Inquisitor of Hell.
+ Buer: A duke of Nessus.
+ Bune: A duke of Nessus.
+ Morax: A duke of Nessus.
+ Rimmon: A duke of Nessus.
+ Zagum: A duke in the service of Asmodeus.
+
+Other Archdevils
+Of course, due to the nature of politics in the Nine Hells, archdevils wound up exiled or dead at various times. Some exiles remained in the Nine Hells (such as Geryon and his court, listed above), while others were forced to leave completely.
+
+Additionally, the dragon goddess Tiamat spent some time as an archdevil after her Untheric aspect was killed. She was ruler of Avernus during some of her time there. Another archduke that wasn't an archdevil was Malagard the Hag Countess, who ruled Malbolge before Glasya. She was actually a supremely powerful night hag, rather than a devil.
+
+Exiled Archdevils
+Some archdevils, former archdukes, were exiled or imprisoned, but survived. These included:
+ Gargauth: A once-powerful archdevil who left the Hells for unknown reason.
+ Malkizid: Also called the Branded King, Malkizid was a fallen solar who became an archdevil. He was exiled after earning Asmodeus' disfavor, and went to reside in the Blood Rift.
+ Nergal: An archdevil exiled by Asmodeus.
+ Moloch: Former Lord of the Sixth, Moloch was exiled for rebellion by Asmodeus.
+ Herodias: An archdevil who once served Geryon as a magistrate; he was driven into exile after Geryon lost power.
+ Amon: A vassal and former duke who was formerly in the service of Geryon; he was driven into exile after Geryon lost power.
+ Malachlabra: The outcast daughter of Dispater.
+
+Other exiled archdevils included Armaros, Azazel, Bist, Cahor, Caim, Duskur, Jaqon, Kochbiel, Malarea, Nisroch, and Rumjal, all of whom lived as wandering outcasts in Avernus.
+
+Deceased Archdevils
+
+ Bensozia: The consort of Asmodeus and Queen of the Hells, Bensozia was slain by Levistus.
+ Naome: The consort of Belial and mother of Fierna.
+ Beherit: The original Lord of Sixth.
+ Batna: Consort of Beherit, destroyed alongside him.
+ Cozbi: The consort of Geryon; she was destroyed after he lost power.
+ Gorson: The bailiff of Geryon; he was destroyed after Geryon lost power.
+
+Appendix
+Further Reading
+
+References
+
+Connections
+
+---
+
+## Arcane Chambers
+
+The Arcane Chambers made up the second level of Undermountain. It used to serve as a laboratory for Halaster Blackcloak's apprentices, and was thus infested with sentient magical experiments and other leftovers.
+
+Geography
+Rooms
+Hall of the Black HelmThe Hall of the Black Helm was a 80-feet (24 meters) high dark room. It was once decorated with tapestries of armored pegasi-riders hunting dragons. It was also the destination of a gate in a room from the Dungeon Level.
+
+HelmwatchPeople who passed the Ghost Gate entered the center of the Helmwatch-room. This 60-feet (18 meters) high room had a number of peculiarities. A white sphere with a translucent female elf inside that was circled by sixteen helmed horror guardians. The 10-feet (3 meters) radius circle that worked as the entry point of the gate and the 20-feet (6 meters) radius circle that worked as the protective circle formed by the helmed horrors were the only two places in the entire room, where magic worked. The rest of the room was effectively a dead-magic zone.
+
+Lord Hund's TombLord Hund's Tomb was not a single room, but an entire complex that was not created by Halaster, but by people hired by Lord Hund Hiilgauntlet, a necromancer who eventually became a mummy.
+
+Pillars of the SocietyPillars of the Society was a 10-feet (6 meters) high warm room. It was illuminated by a green-white glowing mold. The entire room smelled like yeast and it had two pillars. One of them was plain, the other had cracks or other irregularities. The former was warm and Halaster enchanted it so that organic material that touched it were glued to it for about five hours, the victim effectively being at the mercy of whatever monster comes across.
+
+Traffic
+Halaster built a number of magical entrances and exits in this level.
+
+Entrance
+Ghost GateThe Ghost Gate was a one-way gate. It was found in a shaft in a dead-end in one of Waterdeep's southern wards. It led to the Helmwatch-room.
+
+Exit
+The following ways could be used to leave the Arcane Chambers:
+ An Archgate in the northern part of this level connected it to an eastern cavern on Level 4.
+ An Archgate in the western part of this level connected it to a house in the center of Level 5.
+ An Archgate in the south-west part of this level connected it to a chamber in the east of Level 6.
+ The so-called Doomgate connected the Carnelian Cavern on the Sargauth Level with the Chamber of the Fallen.
+ There was also the Old Xoblob Gate that linked the Old Xoblob Shop in Waterdeep with the Cloaker's Chest in the Arcane Chambers.
+
+Inhabitants
+Goblins The Rustbone tribe of goblins secured a large complex of chambers in the north of this level. It was a bazaar by 1493 DR. There were rumors it was originally a throne room.
+
+Xanathar Guild Unlike the Xanathar's Thieves' Guild's goals for the Dungeon Level, the representatives on this level would rather plunder it and sell the takings in Skullport to help their horrid economy. Around 1493 DR, they had two watch posts on this level, one commanded by Shunn "Spider Eyes" Shurreth, a drow, and Nadia the Unbent, a human berserker.
+
+Drow A drow mage allied with the Zhentarim had a hidden base in the center of this level around 1493 DR.
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Archveult's skybolt
+
+Archveult's skybolt was an alteration spell that created a giant bolt of arcane energy that followed the arc of a crystal focus thrown by the caster. It was developed by the mage Archveult and could be found within the tome known as The Wizards' Workbook.
+
+Effects
+Upon casting the spell, the caster threw the crystal focus at the target creature or area. Starting 10' (3.0 m) away from the caster, a massive blast of energy appeared, 4' (1.2 m) in diameter, and followed the arc of the thrown focus. If the focus struck a wall or other barrier, the beam of energy ceased at the impediment. If the focus was caught and thrown by the target, the bolt continued along the same path.
+
+Those struck by the crystal were harmed in proportion to the inherent vitality and those who stood in the path of the bolt were shocked.
+
+The skybolt continued for at least 100' (30.5 m), depending on the power of the caster, but could not form underwater. If it entered an area that was protected from arcane power, such as an antimagic field, the bolt dissipated. Once formed, the bolt lasted for a matter of seconds and could not be deflected, grounded, or otherwise altered by any creatures or objects.
+
+Casting
+The spell had verbal, somatic, and material components, the latter of which was a focus made of crystal, at least one inch (2.5 cm) in length. This could be anything as simple as a piece of glass, or as valuable as a cut gem.
+
+Appendix
+References
+
+---
+
+## Arrowsplit
+
+Arrowsplit was a conjuration spell.
+
+Effects
+Arrowsplit was not cast on a person but on an arrow or bolt of masterful quality. When this arrow or bolt was shot within six seconds after enchanted, two to five arrows or bolts of identical quality were created out of thin air, flying in the same direction towards the same target as the enchanted arrow or bolt. Whether the original arrow hit or not, the magic of the spell caused the enchanted projectile to be destroyed after it was shot. Shooting the arrow or bolt after the aforementioned six seconds caused nothing for the magic would have expired by that point.
+
+Components
+Arrowsplit required verbal component and material ones. The material component was the arrow or bolt to be enchanted.
+
+History
+Arrowsplit was the spell that allowed somebody with the necessary knowledge to craft a splitting weapon.
+
+Appendix
+See Also
+ Splitting (weapon quality)
+
+References
+
+---
+
+## Armanite
+
+Armanites were a form of centauric tanar'ri that served as the heavy cavalry of demonic armies, furiously charging into battle with savage bloodlust. When not racing across the blasted plains of the Abyss in disorganized mercenary companies, armanites surged out from its infinite depths to make war with all that was lawful and good.
+
+Description
+Armanites looked like undead centaurs with ram or bull horns sticking out from their brows, standing  tall at their haunches and  tall overall. Their hauntingly pale complexions were made more eerie by their sagging stomach flesh, with older armanites looking practically gutted. Their seemingly sickly upper halves were covered with festering sores, while their lower halves were more muscular, contributing to their astonishing weight of . Their tails were long, serrated, and covered in the same stiff bristles and spines that constituted their manes, which protruded out from the gaps in their armor. Curved claws and spiked hooves made them all the more terrifying.
+
+All wore full-plate armor that was constructed of demonic chitin and heavier than it might first appear. The black, fluted barding they wore seemed to be more ornamental than utilitarian in purpose.
+
+Some armanite breeds had kangaroo-like lower halves with hands as opposed to front legs, capable of manipulating small items, and weaponry.
+
+Personality
+Armanites fully understood their role on the battlefield and savored it, acting with bravery that bordered on foolishness. However, their preferred jobs were ones that offered them the greatest amount of bloodshed with the least personal risk. Despite their excellent service they were also arrogant and fickle beings that were not shy about leaving a battle even at its climax. If not rewarded the plunder they expected for their services, or if given orders they didn't like, they would desert or even rebel against their employers.
+
+Armanites were clannish and territorial demons that forbade any trespassers within their lands. However, though they exercised coordination and discipline admirable by even their hated baatezu foes, armanites were in no sense creatures of order. They were disorganized and quarrelsome, brawling amongst each other when no other enemy was available, and they greatly enjoyed the chaotic nature of group combat. They found such conflict far more preferable than individual duels or competitions of skill, and upsetting one was likely to provoke an entire troop. They were at their most dangerous when not actively engaged in plotting or conflict, as they were not currently expressing their bloodlust yet and were eager for targets.
+
+Abilities
+Armanites were practically living weapons with their sharp hooves, talons, and tails allowing them to rip their foes to pieces with ease. Outside of their natural weaponry, more powerful armanites could let loose lances of lightning against their enemies.
+
+Armanites could also fly by galloping into the air for a maximum of one hour a day. They began flying slowly into the air, seemingly running up an invisible hill, and could not stop or quickly change directions while they did so. If the need arose, armanites could summon a small crowd of dretches or another armanite to their aid.
+
+Combat
+In addition to their natural weapons, many armanites were walking armories, wielding many different weapons kept immaculately clean and covered in Abyssal runes, ranging from crossbows, composite bows, shortbows, lances, halberds, sabres, flails, longspears, flanged maces, and flamberge swords.
+
+Although tactically efficient and able to cooperate, armanites depended on the speed of their stampedes rather than timing or planning. They were efficient as mobile shock troops, striking with stunning speed before retreating and striking again. Their aerial charges especially were effective against foot soldiers, and designed to wreak maximum mayhem and carnage.
+
+After wading into combat they normally switched from their spears or lances to other melee weapons like flails, wildly kicking and rending their opponents throughout the battle in whirlwinds of destruction. If pressed by sturdier oppositions they attempted to use their lightning abilities to blast their foes apart.
+
+Society
+
+The 377 layer of the Abyss, the Plains of Gallenshu, was the dwelling place of most armanites, a series of massive plains constantly tread by huge herds of their kind. The layer was run primarily by the armanites, who functioned in independent companies and were willing to work as guards, scouts, messengers, or otherwise spread mayhem and acquire loot. Most herds of armanites were specialized in specific tasks, like foraging, archery, skirmishing, and other war related skills. They might also equip others for warfare but they never conducted sieges. They had high costs for their services, starting at 100 gold pieces a day and only going up from there.
+
+All armanite packs were disorderly, but were commanded by a charismatic leader who controlled the group through threats and promises. Most armanites not only served, but worshiped their respective warlords, who often encouraged the formation of these cults. These singular leaders were known as Knechts or "Pathwardens", and often provided ranged support to their packs. The loss of a pack's Knecht resulted in the armanites rampaging until they were stopped or a new Knecht arose. It was much more common to find lone armanites than small groups, as those were almost always the results of failed raids, and with nothing left to fight they often turned upon each other.
+
+Sycophants who took the proper initiative had the near-suicidal honor of carrying a herd's standard into battle. Every herd of armanites possessed a troupe banner and a banner of their current warlord, such as a diagonal black-and-white slash for Graz'zt  or a golden talon with a dark red background for Pazuzu. A troupe banner was a unifying symbol amongst armanites and losing it in battle prompted the same response as losing a Knecht, causing most troupes to feud and disband before either joining forces with one of the lords from the Plain of Infinite Portals or simply aligning with another troupe.
+
+Armanite towns were run by beings known as Konsuls, masters of up to 100 packs. Some Konsuls were capable spellcasters, and rumors had it that priests were also within their midst. Twenty-four towns of the armanites were known in Gallenshu, including: Amber, Basalt, Bloodstone, Bone, Clay, Cold Iron, Dark Spring, Gray Glass, Jade, Mageblood, Maroon, Obsidian, Ochre, Oxblood, Purpure, Silver Spike, and Steelshank. The other seven were run by female armanites, and were small camps of tents, carts, and large, wheeled towers. Mobile towns frequently changed their names while the named ones were stationary. Armanite towns were essentially stables used to regroup, and rearm before engaging in the next big battle.
+
+While rebel armanites were normally buried underneath a leafless tree, crippled or weak armanites were put down like horses or enslaved. Those slaves that worked as smiths sometimes earned a reputation great enough to earn the attention of significant Abyssal figures, and were taken by these beings for work. This was known as a Bitter Emancipation by both the slaves and former slavemasters, as not only did their herd lose a capable craftsman, but the slave might end up getting turned into a mane if they failed to produce amazing works. Outside of weapons they were also known for being excellent farriers, making outstanding and sometimes magical horseshoes, and some of the best yokes and harnesses in all the planes, Puffed and slashed cloaks, colorful flags, and battle standards were also well-made pieces.
+
+Armanites often worked as special operatives for demon lords due to their excellence when working in independent packs. Territory and soul larvae were also acceptable methods of payment from their Abyssal masters. The denizens of the Upper Planes referred to them as Dark Horsemen or Darkriders and feared their presence, and they were also hired to serve as bodyguards within Sigil.
+
+Relations
+Armanites loathed and often abused least tanar'ri, including manes, dretches, and rutterkin, although rutterkin were infrequently taken into armanite herds to serve as servants, smithies, grooms, and auxiliary riders. A hezrou might work with a troop, but they also refused to cooperate with bulezau demons.
+
+Armanites hated their goodly counterparts the bariaur and immediately attacked them.
+
+Biology
+Armanites came into existence either from being born from male and female armanites or ascending from weaker tanar'ri. Female armanites made up a third of the population and the two sexes were segregated as fighting was almost inevitable if they were allowed to mingle amongst themselves. Herds of different genders joined together after a victorious battle against the baatezu, whereupon mating occurred.
+
+Young armanites were simply herded along with a camps servants and other followers until they seized a weapon from a deceased troupe member and vanquished their first opponent although many were abandoned and they received no special care. They reached maturity after approximately a year.
+
+Diet
+Both the body and spirit was consumed by armanites, a substance legends purported they enjoyed above all others. This process could leave someone incapable of being resurrected. Their favorite foods consisted of Abyssal bats, baatezu, and yugoloths, in that order.
+
+History
+The first armanites were from six clans of Feywild centaurs that had been enslaved and twisted by fomorians before escaping and stumbling upon a portal to Pazunia. After time spent in the realm of demons some turned into demons themselves, abandoning their proud heritage in favor of becoming abyssal mercenaries.
+
+During one of the hotter points of the Blood War, many armanites worked with the similarly blood-crazed bulezaus of Baphomet, and their combined assaults were core to the defeat of Hell's legions. When the equally violent demons attempted to claim the spoils of war, conflict broke out on who would take what. The grudges from these battles are still seen in the inability of both demons to cooperate. Although some armanites within Gallenshu still worshiped Baphomet, many switched to serve under demons like Demogorgon or Kostchtchie, with bands who worked with the Horned King being rare and usually doing so briefly.
+
+During the Fiend Wars of the, a troop of armanites fought in the Scaled Horde under the half-fiend Berdrinnar.
+
+Known Armanites
+The demon lord Graz'zt was known to employ a group of eight armanites—four white and four black—to draw his carriage.
+
+The Amber Stallion was an armanite whose true name was unknown, even to those closest to him, for fear of magical manipulation. He led some of the most prosperous and numerous armanite herds.
+
+Appendix
+See Also
+Bariaur
+
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Armor of dragonshape
+
+An armor of dragonshape was a special +3 dragoncraft hide armor.
+
+Description
+An armor of dragonshape was a hide armor made of dragonhide that was treated to become a dragoncraft item.
+
+Powers
+
+As mentioned above, an armor of dragonshape was a +3 dragoncraft hide armor. As an armor made of dragonhide, it was impossible to destroy with the kind of energy that the dragon from which the hide originated from breathed. The dragonhide was treated to be crafted into a dragoncraft item and therefore conferred the wearer some degree of protection against the aforementioned energy. Both of these qualities were of mundane nature and not susceptible to an antimagic field.
+
+Furthermore, an armor of dragonshape was an enchanted armor. It had the qualities of a +3 hide armor and provided one more ability to those who had the ability to wild shape, as druids for example did. Such people could change their forms into those of dragons of halfling to human size. This shapechange caused no drain on the wearer's ability to shapechange by means of his or her wild shape ability.
+
+Notable Owners
+ Aerosclughpalar owned an armor of dragonshape as part of his own hoard.
+
+Appendix
+See Also
+ Dragon scale mail
+References
+
+---
+
+## Arla's Dragonbane
+
+Arla's Dragonbane was an enchanted +3 sling that was used by Arla Surestep.
+
+History
+
+The halfling adventurer, Arla Surestep, used the magical weapon to slay a green dragon. She fired a bullet through its large skull in mid-flight, felling the creature.
+
+Rumors
+It was rumored that Arla actually slew the dragon by firing the bullet squarely into the creature's buttocks for humor, rather than lethal effect.
+
+Notable Owners
+ Arla Surestep, whom the weapon was named after.
+
+Appendix
+Appearances
+Video games
+ Baldur's Gate
+ Baldur's Gate II: Shadows of Amn
+ Baldur's Gate: Enhanced Edition
+External links
+
+References
+
+---
+
+## Arrow swarm
+
+Arrow swarm was an alteration/evocation spell that transformed a single, non-magical flight arrow into a barrage of magical arrows that darted around for several moments.
+
+Effects
+This spell was cast upon a single arrow that was subsequently shot by someone other than the caster. When it was shot from a bow, the arrow disappeared and was consumed by the spell's magic. Multiple duplicates of the arrow were created, depending on the experience of the caster. They could not be set aflame, poisoned or otherwise affected by magical enhancements regardless of the state of the original arrow.
+
+Upon the caster's designation, the arrows reappeared in a 90'-long (27.4 m) cone that widened to a 45' (13.7 m) diameter. Rather than merely strike any solid object or creature within the area of effect, the magical arrows darted around for about 12 seconds until they faded away. They could not pass through globes of invulnerability or other powerful magical barriers.
+
+The arrow swarm did not have to take effect immediately, but could be designated to appear at any time, oriented in any direction, at a point 12' (3.7 m) above the ground in any location the caster had traveled to within the previous 24 hours. They could be set to appear under a number of conditions, such as the appearance of a specific individual or those that triggered a magic mouth spell. A casting of dispel magic, limited wish, or wish removed the magic of this spell without triggering its effects.
+
+Components
+In addition to verbal and somatic components, this spell required a single flight arrow.
+
+Appendix
+References
+
+---
+
+## Arathis Hune
+
+Arathis Hune was the first main lieutenant within Jarlaxle's Bregan D'aerthe in the early 11 century DR.
+
+History
+Arathis hailed from House Hune in Menzoberranzan. However, his house was destroyed and a few Hune nobles, among them Arathis, survived. In time, most of them joined House Ozzl but Arathis had previously killed a noble of that house and was forbidden to join the new House Ozzl'Hune. At one point, Jarlaxle met and befriended Arathis, who in time became the main lieutenant of the rising Bregan D'aerthe.
+
+In 1018 DR, Arathis and Jarlaxle were hired by matron mother Zeerith Q'Xorlarrin to deliver the weapon master of House Simfray, Zaknafein, to Matron Malice of House Do'Urden. They used an attack from House Tr'arach as cover to infiltrate the Simfray compound. Arathis had a mission to kill most of the Simfray priestesses and to recruit as many males as possible from both the Simfray and Tr'arach forces. At the end of the mission, Arathis had saved around forty members of the two Houses, including many warriors, two mages, and a priestess. Around half of them decided to join Bregan D'aerthe.
+
+After some time, Arathis went to Ched Nasad together with Jarlaxle and the temporarily recruited Zaknafein to kill Matron Mother Sheeva Zauvirr of House Zauvirr, who had outraged Matron Mother Yvonnel Baenre.
+
+In the years between 1018 and 1118 DR while Jarlaxle remained in Menzoberranzan dealing with matron mothers, Arathis took care of the missions outside the city, quite often assassination works in Ched Nasad, but was not too happy about it.
+
+In 1118 DR Arathis discussed with Jarlaxle the duel between Zaknafein and Duvon Tr'arach and he decided to secretly ask the help of Quavylene Oblodra to sabotage Zak.
+
+The cheating however went bad thanks to Jarlaxle's prudence; Afterwards, with the help of Dab'nay Tr'arach, Arathis was ambushed by Zak and after a long fight the weapon master defeated the rogue assassin until the arrive of Jarlaxle that stopped the two and again proposed to resolve the matter with a fair duel. The matter was instead resolved with Arathis doing a long job in Ched Nasad. However just returned in city in 1119 DR Arathis and Zaknafien were both called in a isolate spot and there were attacked by a House Barrison Del'Armgo war party led by Uthegentel Del'Armgo. They partnered and managed to kill most of the Armgo warriors, but not Uthegentel, when suddenly they restarted their fighting because was Arathis himself that had conspired with the Armgo together with Dab'nay in order to kill Zak. Zaknafein however was the cleverest and expected the betrayal and finally managed to kill the assassin but spare Dab'nay.
+
+Personality
+He liked fishing. Arathis was knowledgeable about halflings.
+
+Relationship
+Arathis considered Jarlaxle to be like a brother and his boss had the same feeling. He knew many of Jarlaxle's secrets. He greatly disliked Zaknafein, fearing that he would become his substitute and considering his behavior strange.
+
+Arathis was the grandfather of Valas Hune.
+
+In 1118 DR he divided the bed with Quavylene Oblodra.
+
+Weapons
+Arathis possessed a quite large crossbow, a very unusual weapon for a drow.
+
+Appendix
+Appearances
+
+Novels
+
+Timeless
+Boundless
 
 References
 
@@ -1302,6 +8609,6407 @@ References
 
 ---
 
+## Armor quality
+
+An armor quality, sometimes called an armor special ability, was the name of an enchantment that could be placed on a piece of armor. Pieces of armor enchanted in such a way usually made them more resistant to certain types of damage, enhanced the wearer's abilities, or allowed them to hide or creep easier.
+
+Enchantment
+In order to enchant an existing piece of equipment, a versed enchanter had to use a powerful spell during the process. However, not all pieces of armor could be enchanted. Some specific enchantments were limited to the type of material the armor was made from.
+
+List of Armor Qualities
+For an extensive list, see :Category:Armor qualities
+
+Any Armor
+ Negative energy protection: made the wearer more resistant to attacks associated with energy from the Negative Material plane.
+ Nimbleness: made the armor less restrictive, and reduced its weight.
+ Proof against transmutation: made it so the wearer's form could not be changed (polymorphed or petrified).
+ Magic eating: gave the wearer a degree of resistance to magic.
+
+Metal Armor
+ Blueshine: gave the armor immunity to acid and rusting, and allowed the wearer to hide more efficiently.
+ Everbright: made the armor incredibly bright, as well as providing the wielder with resistance to acid.
+
+Appendix
+References
+
+---
+
+## Arthaeuil Nrensam
+
+High Trident Arthaeuil Nrensam was a priest of Umberlee at the temple of Onthalasp in the Nelanther Isles in the 10 and 11 centuries DR.
+
+In the Year of the Roaring Tempest, 1016 DR, Arthaeuil wrote an autobiography titled Words on a Wave. It detailed his life and the customs of the Umberlant faith, such as The Orglara and the rites of the Green Priests at the Shell House in Ilyaport, Lapaliiya, but it might be considered biased toward his faith.
+
+Appendix
+References
+
+---
+
+## Arcturiadoom
+
+Arcturiadoom was the 14 level of the massive dungeon known as Undermountain. It served as the personal retreat and doom of Arcturia, a unique lich who was infamous for being one of the most powerful of Halaster Blackcloak's seven apprentices.
+
+Description
+Several of the hallways and alcoves were decorated with statues of Arcturia and Halaster himself. While Arcturia thoroughly made the domain her own, many chambers and rooms featured crypts and foundries, holdovers of the old Melairkyn dwarves. Among these was a large iron tankard that weighed over 1,500 lbs (680.4 kg) and several dwarf-sized statues that had escaped arcane transformation.
+
+As Arcturia herself was a master transmuter, her domain contained a great number of traps that were designed to transmogrify and alter the form of any humanoid creature that happened to set them off. They typically came in the form of magical glyphs, inscribed into the domain's floors. While they could be easily dispelled, they had the potential to possibly alter the form of any interlopers to anything from otyughs to gelatinous cubes and even wyverns.
+
+Geography
+Entrances
+ The great bore worm dug a large tunnel that led down from Trobriand's Graveyard to a cave that opened up into large set of double doors that featured carvings of skulls that had been eaten away by worms. Behind these doors was they foyer of Arcturiadoom, decorated with dwarven statues that had been grotesquely altered by Arcturia's magic.
+
+Notable Locations
+Central hall
+ In the center of Arcturiadoom, down a hallway north of the entrance, was grand main hall. Its arched ceiling stood 150' (45.7 m) tall and was buttressed by broad stone pillars. It was illuminated by a number of sconces that were enchanted with continual flames.
+
+Classroom
+ Like her master Halaster, Arcturia occasionally took on a number of apprentices and dedicated a portion of her domain to their education. However, their quarters were often empty and the classrooms were strewn with evidence of the displeasure she had in her pupils. In addition to words like "YOU ALL FAIL" being scrawled across the blackboard, the remains of several arcane apprentices could be found throughout this area of Arcturiadoom.
+
+Disintegration room
+
+Foundry
+ In the northwest section of Arcturiadoom was a large smithing room with an arched ceiling that reached 30'(9.1 m) high. The foundry itself was a vast room and three smaller chambers that extended beyond corresponding 70' deep (21.3 m) pits that, when active, were partially filled with bits of scrap metal. Within each chamber were stone stairs that led up to the three forges, whose flames were drawn from the Elemental Plane of Fire. The heat of the foundry was so intense it was harmful to anyone who spent more than an hour within, while the flame itself was comparable to that of the fiery breath of a young red dragon.Based on the damage from 5e SRD
+
+Laboratory
+ Arcturia kept a small, but often-used experimentation room in the eastern part of her domain. It featured a large stone operating table, atop which she kept the subjects of her transformative "innovations". Another room just off to the side of the lab had several chains linked to iron rings, which had been bolted to the floor. It gave the archmage a space to secure some of her particularly hideous creations.
+
+Prison
+ North of the main entrance, down a pair of halls, was a half dozen holding cells where Arcturia kept her subjects before she could experiment upon them.
+
+Timekeeping room
+ Within the halls of her realm, Arcturia kept an entire room dedicated to the marking of time, allowing her to keep track of the day and night cycle of Toril. An 20' (6.1 m) wide iron ring was suspended in the air, attached to the four pillars that extended into the room's partially-concave ceiling. Within this ring was a slightly smaller disc that was inscribed with a symbol of the sun on one side, and the moon on the reverse.
+
+ Two alcoves within the room contained life-size statues of human wizards, which had been heavily enchanted by evocation and transmutation magic. At dawn and dusk each day, the statues exerted arcane energy upon the disc, displaying the symbol of the sun during the daytime, and the moon at night.
+
+Transmutorium
+ A single room in the northern part of Arcturiadoom held some of Arcturia's most horrifying creations. On the western wall hung a tapestry made of flesh, that was in fact the beholder Xebekal. After invading her lair, the eye tyrant was stripped of all its powers and transformed by means of a wish spell.
+
+ Hidden behind a crystal door within the transmutorium was a small alcove that held a magical device comprising a brass panel and a number of buttons. Within this chamber any being could be made larger or smaller, as if they were affected by the spell enlarge or reduce person.
+
+Exits
+
+Inhabitants
+The halls of Arcturiadoom, along the caves outside, were inhabited by several types of creatures and humanoids native to the Underdark. Just outside the front entrance of the archmage's domain, a group of carrion crawlers dwelled within a small garden of luminescent fungi. Giant fire beetles could be found scurrying around the stone floors, and were often thrown together in a large cage to create naturally-powered lanterns.
+
+Assistants
+ For quite some time, Arcturia had an illithid assistant who lived within her domain. She even went so far as to create a tentacle-themed private room for them near her own lab. However, after beheading her assistant to study the psychic energy found within, she was forced to lure Ellix Gaspar from the arcane academy Dweomercore. As of the Year of Three Ships Sailing, 1492 DR, Ellix could be found wandering around Arcturiadoom in a state of befuddlement and stupor, after having displeased Arcturia.
+
+Fire giants
+ The half-dozen or so fire giants that called this level home spent most of their time in the foundry. Several of them focused their efforts on the creation of the giant metal construct referred to as Mecha-Hallaster.
+
+Experiments
+ Arcturia's domain was full of unique "creations", horrific creatures she had experimented upon in one manner or another. Among these abominations were a, ogre with the head of a carrion crawler, a two-headed rodent the size of a man, a number animated rusty swords that were animated into a humanoid form along with an umber hulk that had been polymorphed into a giant scorpion and forced to live within an enormous shoe.
+
+Guffaw the Stone Eater: One of Arcturia's experiments was a deep gnome named Guffaw, who had been altered by Arcturia to possess a voracious appetite for worked and carved stone. He felt wholly compelled to eat any such stone he encountered and had to limit to how much he could devour.
+
+Death's Head Phalanx
+ This band of hobgoblins established a barracks and base camp within the south-eastern halls of Arcturiadoom sometime during the 15 century DR. Their leader, Doomcrown, kept his personal quarters in a nearby chamber. The clan also maintained several guard posts throughout the level, along with a training room and a large rallying area, used for mustering their ranks.
+
+History
+Before Arcturia claimed this domain as her own it existed as part of the subterranean realm of the dwarves of Clan Melairkyn.
+
+Sometime prior to 1492 DR, Emberosa and her fire giant kin came to Arcturiadoom on a mission to aid their efforts in dethroning the storm giants of Faerûn within the giants' ordning. They originally sought an ancient rune of power created some 40,000 years before the Second Sundering, which they believed was stolen by dwarves and taken to their domain beneath Mount Waterdeep.
+
+During their excursion into Undermountain, the fire giants were accompanied by the Death's Head Phalanx band of hobgoblins, led by the Warlord known as Doomcrown.
+
+Within the central hall of Arcturiadoom, the fire giants gathered scrap metal from Trobriand's Graveyard and began construction on an enormous magical-iron automaton called Mecha-Hallaster. This 100' (30.5 m) tall machination was the near-exact duplicate of Halaster himself, though by 1492 DR, it was still incomplete. The Mad Mage intended to use this colossus to combat the Walking Statues of Waterdeep when the time arrived to conquer the surface city.
+
+Appendix
+
+Notes
+
+References
+
+Connections
+
+---
+
+## Arnie Swekel
+
+Arnie Swekel is an artist whose work has appeared in many Dungeons & Dragons books and Dragon magazine articles. He has also illustrated cards for the Magic: The Gathering collectible card game.https://rpggeek.com/rpgartist/14679/arnie-swekel
+
+Sourcebooks
+Note that only sourcebooks relating to Realms canon (relating to the Forgotten Realms or Core D&D) appear here.
+Cover Artist
+ Epic Level Handbook
+ Manual of the Planes
+ Psionics Handbook
+Interior Artist
+ Book of Exalted Deeds
+ Book of Vile Darkness
+ Complete Divine
+ Deities and Demigods
+ Dungeon Master's Guide 3rd edition
+ Epic Level Handbook
+ Faiths and Pantheons
+ Fiend Folio 3rd edition
+ Fiendish Codex I: Hordes of the Abyss
+ Hordes of Dragonspear
+ Manual of the Planes
+ Monstrous Compendium Annual Volume 2
+ Monstrous Compendium Annual Volume 3
+ Oriental Adventures
+ Player's Handbook 3rd edition
+ Psionics Handbook
+ Savage Species
+ The Ruins of Myth Drannor
+ The Sea Devils
+ Wizard's Spell Compendium Volume 1
+ Wizard's Spell Compendium Volume 2
+ Wizard's Spell Compendium Volume 4
+
+Magazines
+Note that only articles relating to Realms canon (relating to the Forgotten Realms or Core D&D) appear here.
+Cover Artist
+ Dragon #306
+ Dragon #314
+ Dragon #321
+Interior Artist
+
+Appendix
+Signature Gallery
+
+External Links
+ Behind the Canvas: Arnie Swekel
+ Wikipedia
+References
+
+---
+
+## Argissthilliax
+
+Argissthilliax was an ancient dragon realm during the Dawn Ages ( to ). It warred with the giant kingdoms of the day.
+
+Appendix
+References
+
+---
+
+## Arrow of slaying
+
+Arrows of slaying were magically enchanted arrows designed to kill one particular type of target.
+
+Description
+Several different types of arrows of slaying existed, meant for a wide variety of targets, with varying degrees of specificity. For example, while very specific arrows of blue dragon slaying existed, it was also common to find more vague arrows of dragon slaying.
+
+Other, less common variants of this type of projectile existed, such as bolts of slaying, intended to be used in crossbows.
+
+Powers
+When an arrow of slaying hit its intended target, it caused a devastating amount of damage, some of which could be resisted by the target. After one hit, the enchantment ended and the arrow of slaying became an ordinary arrow.
+
+Notable Arrows of Slaying
+During the council of metallic dragons led by Protanther in the Nether Mountains in the late 15 century DR, a few members of the council considered awarding arrows of dragon slaying to adventurers in their quest to prevent the return of Tiamat at the hands of the reformed Cult of the Dragon.
+
+Notable Owners
+ Olwen Forest-Friend owned two arrows of demon slaying and a single arrow of giant slaying during the Bloodstone Wars.
+ Dazar, a cavalry commander of a tuigan fighting force, had in his quivers arrows of undead slaying.
+Appendix
+Appearances
+
+References
+
+---
+
+## Arena beneath Llorkh
+
+The Arena beneath Llorkh was a fighting pit located under Llorkh in the mid–14 century DR.
+
+Location
+The arena was constructed far beneath Llorkh, and one of its tunnel entrances was connected to the Griffon's Grange tavern.
+
+Structure
+The Arena beneath Llorkh seemed to have a dirt floor that was surrounded by a huge stone observation area. This area had several columns and torches lighting it, as well as a central dais. Steel gratings held the monsters in the preparation areas before fights, and were right next to the arena.
+
+Several small holding cells housed gladiators expected to fight in future battles. Here, the gladiators were only served disgusting slop in metal bowls.
+
+Atmosphere
+Those who visited the arena were said to have a sick kind of humor.
+
+Services
+The large fighting pit held many thousands of seats for those waiting to be entertained. Not only common races such as humans frequented the arena, but also orcs, goblins, bugbears, and potentially drow.
+
+History
+Circa 1358 DR, the Heroes of Ascore-to-be came unto the arena, where they were again confronted by Vaalgamon. The Zhentarim general, who was on a podium at the western side of the arena, motioned for his followers to sit down. Once they complied, Lord Vaalgamon mocked the adventurers, but admitted that they had courage and cunning to have escaped the Kraken Complex he left them in. He promised to allow them to live if they defeated three waves of dangerous creatures.
+
+Somewhat true to his word, Vaalgamon sent three waves of creatures at the adventuring party. Ogres, hell hounds, and griffons charged the team, but were slain. However, the general only let them live until their next day in the arena. During their stay, the valiant half-orc, Muthtur, created a commotion with a jailor, whereby the heroes grabbed the keys to the cells and escaped.
+
+Known Gladiators
+ The Heroes of Ascore
+ Muthtur
+
+Appendix
+Appearances
+Video games
+ Gateway to the Savage Frontier
+References
+
+---
+
+## Armor of gleaming
+
+An armor of gleaming was a magically enchanted armor that was always spotlessly clean.
+
+Description
+Any suit of medium armor, such as hide, chain shirts, scale armor, breastplates, and half plate, or even heavy armor such as ring, chain, splint, and plate mail, could be enchanted to become an armor of gleaming.
+
+Powers
+The enchantment present in an armor of gleaming ensured that it never became dirty.
+
+Appendix
+References
+
+---
+
+## Arkanis
+
+Arkanis was a dwarven fighter who stayed in Candlekeep for a time during the 14 century DR.
+
+History
+In the Year of the Banner, 1368 DR, Arkanis and a handful of others were gathered together by the Gatewarden of Candlekeep's to assist Gorion's Ward with a few of the finer points of group dynamics in combat. Together, the group found waves of illusory beasts and monsters that were summoned by the mage Obe.
+
+Some time later, as Candlekeep was being infiltrated by doppelgangers, Arkanis and the halfling thief Deder escaped into the library-fortress' subterranean catacombs. Within, they encountered Gorion's Ward yet again.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate
+External Links
+
+References
+
+---
+
+## Archveult Tattercloak
+
+Archveult Tattercloak  was a powerful wizard known for inventing several spells.
+
+Description
+He was tall and handsome, and had a silver beard.
+
+Personality
+A graceful, dignified man, Archveult was the epitome of a cultured archwizard.
+
+Magic
+Archveult developed several spells, such as Archveult's skybolt and Archveult's spell dagger. He was credited with authoring the book Thesis on Conditional Ruptures, which contained descriptions of the spells teleport, phase door, shadow door, maze, and Archveult's skybolt.
+
+Possessions
+He was known to possess a plethora of strange and powerful magical items.
+
+Relationships
+He was the consort of the gold dragon Tlanchass. They were said to have had a deep and abiding love for each other. The pair lived in a subterranean cave network somewhere in the Vast.
+
+History
+In the 600s DR, Archveult studied magic under the Seven Wizards of Myth Drannor. Together with his consort, Tlanchass, he left the city in a spectacular fashion during the festival of Greengrass in the . Tlanchass (who had long borne the guise of a human female) publicly revealed herself to be a gold dragon, and the pair flew off together to the southwest.
+
+Following his departure, Archveult spent some time spreading the magical teachings he had learned in Myth Drannor abroad.
+
+Around the, Archveult fought a mysterious dragon over the harbor of Ravens Bluff. The exact nature of their quarrel was not known, but it was commonly agreed Archveult fought to defend his consort, Tlanchass. The attacking dragon was said to be a gigantic specimen of an unknown breed (some speculated it was a "cinnamon dragon"), and easily Archveult's equal in the Art. Their brief battle ended in an enormous explosion at dawn, leaving no trace of either combatant. Some sages argued that the explosion was not necessarily fatal, and could instead merely have masked a shifting to a different plane of existence. Whatever the case, Archveult was never seen again.
+
+Legacy
+Upon learning of Archveult's apparent death, Tlanchass circled Ravens Bluff for the remainder of the day as she cried. The tears that fell to the ground hardened into magical gemstones known as Tears of the Dragon. This event was remembered in the ballad "The Dragon Cried".
+
+In the Year of Lightning Storms, 1374 DR, Tlanchass participated in a high magic ritual to cleanse part of the High Moor and create the city of Rhymanthiin. She did this in place of the fallen Archveult, to honor his association with the Seven Wizards of Myth Drannor.
+
+Rumors & Legends
+After Archveult's untimely disappearance, Tlanchass was rumored to be pregnant with his child. Some said the result of such a pairing could produce a "cinnamon dragon".
+
+In the Year of the Sword, 1365 DR, many years after his disappearance, Archveult was mentioned in the tome The Fools Who've Stood Here Before You by Malchor Harpell. Harpell repeated a rumor that Archveult was trapped somewhere in Calimshan, subjected to a tortured existence as his captor forced him to operate magical automata.
+
+Appendix
+Notes
+
+Appearances
+Novels
+
+Blackstaff
+
+References
+
+FR:Archveult
+
+---
+
+## Archveult's spell dagger
+
+Archveult's spell dagger was an evocation spell that sent a ghostly dagger flying at a target to disrupt its bodily functions and any spellcasting. The spell was named for its inventor, the wizard Archveult Tattercloak.
+
+Effects
+Upon casting Archveult's spell dagger, magical force gathered to form a dagger-like image. This was then hurled at the intended target, provided said target was visible to the caster at some point during the casting. The dagger-image vanished upon striking its victim, causing slight injuries and sending surges of energy through their body, as well as causing any ongoing spellcasting to be disrupted. The target's bodily functions were also affected: the spell could cause nausea, dizziness, and a feeling of weakness in random body parts. Particularly unfortunate victims of Archveult's spell dagger could find themselves unable to gather the will to cast spells for a short duration after being affected. Extremely unfortunate victims fell senseless to the ground in a state of temporary paralysis.
+
+Components
+In addition to verbal and somatic components, Archveult's spell dagger required a six-inch sharp dagger (with a handle) made out of a single piece of glass as a material component.
+
+Notable Users
+ The spell was known to the archwizard Elminster Aumar. He once tried to trade Archveult's spell dagger to the Turmish wizard Skaera Attulbrae, in return for descriptions of certain spells she had devised on her own.
+
+Appendix
+References
+
+---
+
+## Arallia Silverbow
+
+Arallia Silverbow was a rogue and apprentice to the Waterdhavian crime lord Elaith Craulnober, circa the .
+
+Activities
+As part of her apprenticeship to Craulnobler, she spent many months carefully probing and mapping the House of Stone for her patron. She disabled traps and was cautiously making her way toward the center of the citadel in 1374 DR.
+
+Appendix
+References
+
+---
+
+## Armor of resistance
+
+Armor of resistance was an enchanted suit of armor that offered protection against a particular type of magical energy.
+
+Description
+Any suit of armor could be enchanted to gain the properties of an armor of resistance.
+
+Powers
+A creature attuned to the armor of resistance enjoyed considerable protection from one particular type of energy or substance while wearing the full suit, roughly reducing any damage taken of the specified type by half. Most common variants offered protection against acid, cold, fire, force, lightning, negative energy, poison, positive energy, psychic energy, or sonic energy.
+
+Appendix
+Appearances
+
+External Links
+ D&D Beyond
+References
+
+---
+
+## Arcana domain
+
+The Arcana domain was a deity domain that granted divine spellcasters like clerics with spells and powers related to arcane magic and lore.
+
+Deities
+
+Powers
+The priest with this domain had proficiency or greater skill pertaining to matters of the arcane.
+
+After the Spellplague, they treated certain divine prayers as arcane magic, namely lance of faith (for clerics), divine bolts (for invokers), radiant vengeance (for avengers), and virtuous strike (for paladins) and could aim arcane spells better afterward.
+
+Spells
+After the Second Sundering, clerics who chose this domain could learn two wizardly cantrips. They were granted free access to the spells detect magic and magic missile initially; then magic weapon, Nystul's magic aura, dispel magic, and magic circle at moderate experience; and arcane eye, Leomund's secret chest, planar binding, and teleportation circle at the highest levels of power.
+
+Channel Divinity
+After the Spellplague, they could channel divinity to use arcana ward, which shielded against elemental forces.
+
+After the Second Sundering, they could instead use arcane abjuration to turn away otherworldly beings.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Armor of faith (spell)
+
+Armor of faith was a spell used by clerics.
+
+Effects
+When cast, this spell create a barrier of magical energy in the shape of armor. If offered some protection against magical attacks. The amount of damage absorbed was determined by the caster's skill level.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate II: Shadows of Amn • Baldur's Gate II: Throne of Bhaal • Icewind Dale: Enhanced Edition
+
+External links
+
+References
+
+---
+
+## Argent Black
+
+Argent Black was one of the seven liches who created Crenshinibon, and was later consumed by it.
+
+Description
+This lich was described to be a monstrous being. He fed on the pure energy of hate and darkness.
+
+History
+Black originated from the Negative Material plane.
+
+Appendix
+References
+
+---
+
+## Arcane scholar of Candlekeep
+
+Arcane scholar of Candlekeep was a title among the wizards, bards, and sorcerers at the fortress-library of Candlekeep in the late 14 century DR; It was also a way of practicing and mastering arcane magic by people who never stepped inside Candlekeep.
+
+Activities
+Arcane scholars from Candlekeep were known to research archives around Faerûn and collect knowledge on magical theory. Other people practicing the arts of the scholars sometimes became adventurers.
+
+Culture
+Arcane scholars seldomly explored the practical application of spells because their interests mostly focused on expanding magical theory. These scholars sought to understand the fundamental processes of magic and the inner workings of the Weave. To achieve this goal, these researchers had to often leave Candlekeep and explore other expressions of magic worldwide. This led arcane scholars to spread their traditions and practices. The wizards of Candlekeep were very open to sorcerers and bards joining their ranks because they prized their unique insights into arcane magic.
+
+Blue robes and feathered hats were associated with arcane scholars of Candlekeep.
+
+Abilities
+By achieving a deeper understanding of magic and by discerning its underlying laws, arcane scholars become specialists in metamagic. Arcane scholars started their practice by learning to better concentrate while casting, to identify spells as they were cast, and how to increase the intensity of spells. With time, arcane scholars learned to maximize and quicken their spells with ease, which was not available to other arcane casters.
+
+They were also masters of protecting themselves and others from spells with the use of their considerable knowledge of magic. Arcane scholars have also become especially adept at explaining the workings of magic to ordinary folk. The appraising of magical items, alchemy, diplomacy, and history were often learned by arcane scholars.
+
+Becoming an arcane scholar meant improving previously learned magical arts from one arcane spellcasting tradition only.
+
+History
+The traditions and practices of arcane scholars probably started developing around the 2 century DR, when Candlekeep started to become a sanctuary of knowledge. Scholars began exploring the writings of mages that were found in the keeps dusty libraries.
+
+Because even the archives of Candlekeep had their limits, arcane scholars started exploring places outside the fortress in search of arcane knowledge and different perspectives on arcane magic. This led to the spread of their traditions around Faerûn.
+
+Appendix
+See Also
+Avowed
+Incantatrix
+Appearances
+
+Background
+The arcane scholar class was created in-house by Obsidian Entertainment for Neverwinter Nights 2: Mask of the Betrayer.
+
+External Links
+
+References
+
+---
+
+## Armor of the glacier
+
+The armor of the glacier was a magical set of armor.
+
+Powers
+This set of armor had a +1 enchantment. Whoever wore the armor gained resistance to fire. In addition, attacks from fire-based monsters (such as efreeti and fire giants) did half as much damage as normal to the wearer of armor of the glacier.
+
+History
+In 1358 DR, a knight of Tuern called Kestutis was tied up by a group of pirates. He was rescued by the Heroes of Ascore, and in return, he gifted the heroes the armor he wore during his service, the armor of the glacier.
+
+Notable Owners
+ Kestutis
+ The Heroes of Ascore
+
+Appendix
+Appearances
+Video games
+ Gateway to the Savage Frontier
+References
+
+---
+
+## Arik Stillmarsh
+
+Arik Stillmarsh, better known as the Womford Bat, was a vampire residing in the settlement of Bargewright Inn within the Dessarin Valley in the late 15 century DR.
+
+Description
+He appeared to be a young man with sallow skin and dressed well.
+
+Home
+He was one of a handful of permanent residents of the Old Bargewright inn as of around 1485 DR. He took a corner room on the uppermost floor, where he lived as a recluse. The vampire's coffin, filled with grave dirt, was hidden in the attic above his room, reaching via a concealed hatch in the ceiling of the closet.
+
+Activities
+The vampire hunted for victims by night, seeking them in the surrounding rural settlements, on the Long Road, and in neighboring Womford. There, he preyed on the poor folk of the village when caught on the streets after dark and was whispered of in fear as the Womford Bat. He was the reason they locked their doors and windows at night.
+
+He had a deal with Nalaskur Thaelond, the Zhentarim spy and innkeeper, agreeing not to prey on the people of Bargewright Inn itself, not its guests, at least without their permission. Nalaskur sometimes had him take care of certain guests he wished to be rid of.
+
+History
+In Womford in the, after a mann called Darreth disappeared just outside paces outside his home, the Womford Bat was blamed. In fact, he was kidnapped by the Cult of the Crushing Wave.
+
+Rumors & Legends
+The common folk of Bargewright Inn rumored, falsely, that Arik was in hiding with the aid of the Zhentarim, after conducting a swindle on some important families of Waterdeep.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arachar Calatharr (innkeeper)
+
+Arachar Caltharr was the innkeeper of the Watchful Knight in the village of Beliard during the mid—14 century DR.
+
+Relationships
+Despite them having the exact same name, he was not related to Arachar Caltharr the adventurer. Arachar became very annoyed whenever anyone suggested as such.
+
+Appendix
+References
+
+---
+
+## Army of the Vale
+
+The Army of the Vale was the army that served the city of Everlund, in the Silver Marches.
+
+Activities
+In addition to their regular duties, soldiers of the Vale were tasked with defending the Hall of Elders within their home city.
+
+Members
+As of the, the army consisted of over 600 infantry, 300 elven archers, 300 light cavalry riders and 150 heavy cavalry.
+
+100 of the army's archers and riders served in the Argent Legion, the unified army of the Silver Marches.
+
+Appendix
+References
+
+---
+
+## Arborea/Imagemap
+
+The following image map was generated using information compiled from the following sources:
+
+---
+
+## Arrow of darkness
+
+An arrow of darkness, was an enchanted type of arrow.
+
+Description
+Arrows of darkness could be shot from standard bows. When they hit a surface, they created a zone of darkness.
+
+History
+Such arrows were known to be found around the Western Heartlands in the 15 century DR.
+
+Notable Owners
+ Arron, a Lightfoot halfling druid trader from the Emerald Enclave in the 15 century DR.
+ Barcus Wroot, a deep gnome from the Western Heartlands in the 15 century DR.
+ Dammon, a tiefling refugee blacksmith from the city of Elturel in the 15 century DR.
+ Mari, a looter from the Western Heartlands in the 15 century DR.
+ Roah Moonglow, a hin agent of the Zhentarim who did business with the Cult of the Absolute in the 15 century DR.
+ Talli, a Harper quartermaster who followed Jaheira into the Shadow-cursed Lands in the 15 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Aradin Beno
+
+Aradin was an adventurer that lived in the Western Heartlands during the late 15 century DR.
+
+Description
+Aradin had dark skin and dark, curly hair.
+
+Possessions
+He fought with a spiked club.
+
+History
+In the, Aradin led the group of adventurers – the Beno Boys: Remira, Barth, Liam, and Brian, were hired by a Baldurian wizard to recover a treasure known as the Nightsong.
+
+During their travels, the group encountered the druid Halsin, and together made their way to the ruined Selûnite temple known as the Shattered Sanctum. They were ambushed by a group of goblin cultists led by Za'krug, and driven back towards the gates of the Emerald Grove. By the time the tiefling Zevlor called his people to let the adventurers in, Za'krug's goblinoids came upon them.
+
+Appendix
+Appearances
+
+External Links
+
+Gallery
+
+Notes
+
+References
+
+---
+
+## Arka
+
+Arka was a female tiefling that lived in Elturel before being forced to live on the road for a time during the late 15 century DR.
+
+Description
+The tiefling had mid-long black hair and horns that curled up and back. Arka wore a brown jerkin with rings sparsely positioned throughout it. The jerkin covered a blue long-sleeved garment.
+
+Posessions
+Arka carried her brother, Kanon's handkerchief after his death at the hands of the Absolutists.
+
+History
+In the, Arka's brother Kanon was killed by a goblin when her she and her fellow tieflings were taking refuge at the Emerald Grove druidic enclave.
+
+A goblin known as Sazza, who was part of the cult of the Absolute, was captured at the grove, and Arka wished to take her anger out on her. She grabbed a crossbow and considered shooting her dead.
+
+Arka may had ended up dead with her corpse overlooking the bridge to the Shattered Sanctum in 1492 DR.
+
+Appendix
+Appearances
+Video games
+ Baldur's Gate III
+Gallery
+
+References
+
+---
+
+## Araugh
+
+Araugh was a traveler and writer from Oslin in Chessenta in the 4 century DR. He wrote the travelogue chapbook Travels of Araugh around 350 DR.
+
+Araugh told of his journeys in a chatty and personal manner, and the man seemed as much of a rogue as the later travelogue writer Volo. His book became very popular as entertainment in the Vilhon Reach at the time.
+
+Notably, Araugh provided the earliest known, reliable identification of the Sunite relic the Sash of Sune. Araugh told of sighting a senior male Sunite priest dancing nude and alone in a meadow, but when he approached to investigate, guardian priests emerged from concealment and blocked him, explaining that the priest was calling for spells from Sune. Afterward, he plied priests with wine until they told him about the sash the man was dancing upon. Later, Araugh reported the Sash of Sune was stolen and how Sunites assaulted the house of a wizard in Arrabar to retrieve it, and theorized they had a way to track it.
+
+Appendix
+References
+
+---
+
+## Arakhor
+
+An arakhor  was a mighty tree-like creature, of which the most well-known and perhaps only example in the Realms was the great Grandfather Tree. The name was Elven and loosely translated as "tree warden" or "one who protects the forest". Arakhora were possibly an elder form of treant, or even ancestors of that race.Serpent Kingdoms advises to treat an arakhor as an advanced elder treant from Epic Level Handbook, and those stats are used for this article, but it is not necessarily the case that an arakhor is an elder treant.
+
+Abilities
+Similar to elementals in certain aspects, arakhora absorbed energy, life, and even intelligence from the forests that they lived in and in exchange served as caretakers and guardians of the land.
+
+History
+In, an arakhor was summoned by the elves of Aryvandaar to guard the location of the Hall of Mists in the High Forest, for fear of the evil inside. Over the following millennia, it grew and became known as the Grandfather Tree, still standing over the site. Records made by the church of Labelas Enoreth at this time postulated arakhora were elder treants.
+
+By the mid–14 century DR, the Grandfather Tree and a cutting at Stone Stand were the last surviving arakhora known to exist in Faerûn.
+
+Appendix
+Notes
+
+References
+
+FR:Arakhora
+
+---
+
+## Ardagast Falconhand
+
+Ardagast Falconhand was the commander of the King's Scouts in Cormyr in the early 1200s DR. He was an ancestor of Florin Falconhand of the Knights of Myth Drannor.
+
+Description
+Ardagast was very tall—about, plus or minus—and svelte. He had a prominent aquiline nose, sparkling dark-blue eyes, and light brown hair that turned gray around his temples. His face was weathered from a life spent outdoors.
+
+Personality
+He was a dour man of few words and quiet bearing.
+
+Abilities
+Ardagast was an excellent huntsman, trailblazer, and scout. He rose to the position of leader of the King's Scouts early in the reign of King Dhalmass Obarskyr. He favored a saber in battle and always had a number of throwing knives on his person.
+
+History
+Ardagast was one of the witnesses to the heist of what became known as Waevor's Wagon—a well-guarded carriage that was carrying about 60,000 silver pieces for paying the stipends of the Purple Dragons. He was part of an armed escort for a Sembian envoy that was camped for the night when the wagon in question went hurtling past them in the dark, knocking down two of the nobles in the escort. Lord Nelnar Orthwood bid Ardagast to give chase, and the huntsman took a route that brought him within arm's reach of the careening wagon, only to be forced off his horse by a spear thrust from the back window of the vehicle. His armor saved him from being skewered.
+
+Appendix
+References
+
+---
+
+## Argos
+
+Argos  were amoeba-like creatures covered in eyes and mouths. They were found in wildspace, around the same areas where beholder nations laid.
+
+Society
+On Toril, argos could be found in the Moonlit Tower and the lowest levels of Undermountain.
+
+Notable Argos
+An adventuring party carrying the Stone that Speaks was slain by an argos on the site of Tempus's Tears.
+
+An argos was brought to Spindleskull's Tomb by the Zhentarim wizard Baergil. The creature was kept there for the purpose of killing any fellow Zhent wizards transported to the tomb by its captor, using a specialized variant of a teleport spell.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Arielimnda
+
+Arielimnda was the mother of Khelben Arunsun, the first Blackstaff.
+
+Description
+Arielimnda was a human ranger who joined the Harpers in Twilight.
+
+Relationships
+Arielimnda became the wife of fellow Harper Arun Maerdrym, a half-elf. The two became the parents of the one who would grow up to be the first Blackstaff.
+
+Possessions
+Arielimnda fought with a powerful magical axe called the Lupinaxe, which could summon a dire wolf among several other powers. The axe passed into her husband's possession upon her death.
+
+History
+Arielimnda gave birth to the son who would become Khelben Arunsun on Highharvestide in the . He was not permitted to take the elven family name of Maerdrym, and Arun, within elven tradition, decided to not give the boy a first name either, allowing him to take his own name when he had earned one.
+
+Arielimnda was murdered by the vampire Palron Kaeth under unknown circumstances.
+
+Appendix
+References
+
+---
+
+## Archelon ischyras
+
+Archelon ischyras, also known as archelon, was a species of large marine turtle. Archelons were technically not dinosaurs.
+Description
+Archelons were large turtles, with a massive shell. Their shell was a leathery shell instead of a hard shell. It was thick and formed in plates. Archelons had a pair of large, powerful flippers.
+Combat
+Their thick and strong shell provided archelons with amble defence against predators.
+Habitat
+Archelons were found in oceans, spending most of their time in the water.
+Biology
+Archelons were carnivores and were solitary creatures.
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Arcadia/Imagemap
+
+The following image map was generated using information compiled from the following sources:
+
+---
+
+## Arms and Equipment Guide 3rd edition
+
+The Arms and Equipment Guide is an accessory for 3-edition of . The sourcebook details a wide assortment of gear for players and dungeon masters.
+
+Contents
+ Introduction
+ Chapter 1: Weapons and Armor
+ Chapter 2: Adventuring Gear
+ Chapter 3: Vehicles
+ Chapter 4: Hirelings and Creatures
+ Chapter 5: Magical Items
+ Chapter 6: Special Magical Items
+ Appendix: Treasure Tables
+
+Index
+
+Adventuring Gear
+
+Armors and Weapons
+
+Clothing
+
+Creatures
+
+Food and Drink
+
+Hirelings
+
+Magic
+
+Poisons
+
+Vehicles
+
+Miscellaneous
+
+Appendix
+External Links
+
+Connections
+
+---
+
+## Arcadian avenger
+
+Arcadian avengers were militant outsiders that acted as defenders of the planes of Arcadia and the House of the Triad. They could be summoned by the summon monster IV or the planar ally spells.
+
+Description
+All Arcadian avengers looked remarkably similar, resembling winged human women of athletic build standing  tall, their skin and wings seemingly made of a silver-like metal.
+
+Personality
+In accordance with the ideals of Arcadia, most Arcadian avengers were of a lawful good bent, but a number of them that dispassionately valued the rule of law over benevolence fell into lawful neutrality.
+
+Combat
+Arcadian avengers wore armor seemingly made of the same metal as their skin and wings. They also wielded a pair of masterfully crafted longswords.
+
+Society
+In the Peaceable Kingdoms of Arcadia, Arcadian avengers lived in grand barracks on the plane's second layer, Buxenus.
+
+Within the House of the Triad, a large group of Arcadian avengers were loyal to Helm.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+External Links
+
+Connections
+
+---
+
+## Arwyl Swan's Son
+
+Arwyl Swan's Son was the Mercykillers' Ward Monitor of the Lady's Ward in Sigil and later leader of the breakaway faction known as the Sons of Mercy. During his time on Toril, he was a Cormyrean paladin devoted to Torm.
+
+Description
+At age 150, owing to a blessing of Torm, Arwyl still looked youthful, possessing a sturdy build and attractive features, although his hair had turned white by this point. His eyes were a bright blue.
+
+Personality
+Although committed to the cause of his faction, Arwyl placed his faith in Torm before his allegiance to the Mercykillers. An opponent of tyranny, he strove to keep Sigil an orderly haven, although he was willing to stray from the letter of the law in the name of justice, sometimes even going as far as circumventing the law entirely if he deemed it the right thing to do.
+
+Possessions
+On his person, Arwyl had an enchanted longsword called the sword of justice, a ring of protection, a dagger, a heavy shield, and a set of plate mail.
+
+Relationships
+Although he pledged allegiance to the faction, Arwyl did not think highly of his factol Alisohn Nilesia, and was of the opinion that she perverted the faction's mission of delivering justice.
+
+History
+Prior to becoming a member of the Mercykillers, during the mid–14 century DR, Arwyl was a zealous paladin champion of Torm. He ended up in the Outlands after chasing a succubus he was fighting, successfully defeating her before she could escape back to the Abyss. The conflict left Arwyl heavily wounded and unable to return home.
+
+Arwyl was eventually found by an unknown Mercykiller Justiciar, who tended the paladin's wounds, telling tales of his exploits and triumphs of justice over demons and other wrongdoers. After Arwyl regained enough strength and the Justiciar left, he made the trek to Sigil to pledge his allegiance to the Mercykillers, inspired by his rescuer's tales.
+
+Once he became a full-fledged member of the faction, Arwyl started to realize that a lot of fellow Mercykillers had troubling ideas about justice. Wanting to work against these elements while maintaining his allegiance to the faction as a whole, the paladin tried to work from within to steer the faction towards a more just path. To this end, he shifted his attention towards making sure nobody got executed by the Mercykillers for a crime they didn't commit. He also tried to increase the number and standing of fellow lawful good faction members.
+
+Like many other prominent figures in Sigil, in the lead-up to the Faction War, Arwyl was subject to the manipulations of Duke Rowan Darkwood, factol of the Fated, who had long been rumored to be in a romantic relationship with Mercykiller factol Alisohn Nilesia. The Duke ingratiated himself with Arwyl by pushing for a reform in the sentencing guidelines of the Prison, as well as backing the paladin's plan to pardon those unjustly imprisoned. Rowan had an ulterior motive for making this move, however, planning to release around a dozen experienced murderers with grievances against Sigilians of high standing.
+
+In an at first seemingly innocuous speech held at Petitioner's Square, Arwyl made a series of shocking announcements. The first was that factol Nilesia had disappeared, a fact that the higher-ups of the faction had kept under wraps for some time. Secondly, the Mercykillers were fracturing into three separate factions as a result of their missing leader: the predominantly evil-aligned Sodkillers, the mainly good-aligned Sons of Mercy (which Arwyl would lead), and a neutral-leaning group retaining the name of the Mercykillers. The last announcement was that, as the group in charge of the Prison, the Sons of Mercy would be proceeding with sentencing reforms and were releasing over a thousand unjustly detained prisoners. To conclude his speech, Arwyl cut down the noose from the gallows.
+
+As the Faction War itself started gearing up, Arwyl participated in its first real battle, leading 50 members of the Sons of Mercy in storming the Armory. In the aftermath of this conflict, which left the building in ruin, the paladin offered any survivors respite and medical aid at the City Barracks and Prison in a bid to end the war.
+
+As the war wound down, Arwyl shifted his attention to the violent offenders that Darkwood had manipulated him into releasing from the Prison, directing the Sons of Mercy to hunt them down and lock them back up.
+
+Arwyl would continue leading the Sons of Mercy for at least another century after the group's formation.
+
+Appendix
+Appearances
+Adventures
+Faction War
+
+References
+
+---
+
+## Architecture
+
+Architecture was the field of the design and planning of buildings and other large structures.
+
+History
+In any decent-sized city, a sage specialized in architecture could be found with a 5% chance, or 15% in Waterdeep and Sembia, around 1358 DR. The term "architect" itself was largely unknown in Waterdeep in the 14 century DR.
+
+Notable Architects
+Main: :Category:Architects
+
+Appendix
+
+See Also
+ Architect genie
+External Links
+
+References
+
+---
+
+## Argent
+
+The Argents were a noble family of humans and aasimar from the city-state of Waterdeep.
+
+Activities
+The family had strong ties to the militant warriors of Lathander known as the Order of the Aster. Several members of the Argent family joined their ranks for service throughout the years.
+
+Possessions
+One of the family's heirlooms was an enchanted suit of armor, the Mail of the Hallowed Hero.
+
+History
+While the family had some divine heritage, it appeared dormant in its members for generations before the Era of Upheaval.
+
+Some time before the, Aun Argent saved his niece Caelar from damnation when she inadvertently opened a portal to the Nine Hells by reading from the Tome of the Nine.
+
+As it turned out, Caelar became the first member of the Argent family to exhibit noticeable traits of their aasimar lineage.
+
+In the, Caelar led a crusade to march on Dragonspear Castle with the goal of rescuing her uncle from the clutches of Belhifet in Avernus.
+
+Members
+ Olen Argent, a noble warrior who fought for just causes
+ Aun Argent, a dutiful paladin of the Order of the Aster
+ Caelar Argent, the proud crusader known as the "Shining Lady"
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate: Siege of Dragonspear
+
+References
+
+Connections
+
+---
+
+## Argent (disambiguation)
+
+Argent may refer to:
+
+ Argent, the noble family of Waterdeep;
+ Argent, a Zhentarim trireme
+ Argent Black, one of the seven liches who created Crenshinibon;
+ The Argent Legion, an army that defended the nation of Luruar; or
+ The Argent Palace, home to Graz'zt in Zelatar.
+
+---
+
+## Arrows of the Gods
+
+The Arrows of the Gods, as it was commonly referred to in the Sword Coast North, was a constellation in Realmspace.
+
+Among the Bedine tribes of Anauroch it was known as At'ar's Arrows. In other regions of the Realms it was known as the Caltrop and Sun's Signpost.
+
+Description
+This constellation consisted of three lines of stars that converged and each ended in a cluster of stars at their outward point, which gave it a resemblance to a set of arrows. The Bedine of Anauroch shared this sentiment, but associated the Arrows with their goddess At'ar the Merciless. In some regions of the Realms they were thought to resemble a caltrop instead.
+
+Where the three lines of stars converged was always the direction of true east in the North.
+
+Observation
+This constellation could be observed in the Anauroch and the Sword Coast North. It was especially visible from the village of Twilight Tor around the same time as the Simril festivities.
+
+Rumors & Legends
+Stories told by the Bedine claimed that the Arrows had been shot into their place in the sky by their sun goddess, At'ar the Merciless, in order to permanently clear and mark the way for her to rise in that spot each day.
+
+Some astrologers claimed that people born under this constellation were highly driven, took a direct approach to handling their problems, and had blunt personalities.
+
+Appendix
+Appearances
+Video Games
+ Neverwinter
+References
+
+---
+
+## Archmage (disambiguation)
+
+Archmage could refer to a particularly powerful or experienced spellcaster. It could also refer to a number of honorifics including:
+ Archmage Arcane, the leader of the Arcane Brotherhood; or
+ Archmage of Menzoberranzan, the head of the magical academy of Sorcere.
+
+Archmage may also refer to a number of classes including:
+ Archmage, a 3 and 3.5 edition prestige class;
+ Archmage, the 4 edition epic destiny; or
+ Archmage, the 5 edition NPC class.
+
+Archmage could also refer to:
+ Archmage (novel), the first novel of the Homecoming series.
+
+---
+
+## Arrabas Snome
+
+Arrabas Snome was the patriarch of the noble Snome family of Waterdeep for much of the 14 century DR. He oversaw the family's brewing and distilling companies and an import business that specialized in alcoholic beverages. He named his youngest grandson, Dandobar, as his heir before he passed away sometime around 1370 DR.
+
+Description
+Arrabas was quite rotund. He extended his life through the use of magic potions and regimens and therefore appeared younger than his age.
+
+Personality
+He was a very practical man with particular notions on how the family businesses should be run. He could be quite stubborn. He bragged that he had tasted every type of distilled spirits known across Faerûn.
+
+Relationships
+Arrabas loved his family but was disappointed in all fourteen of his children, whom he considered too careless and profligate to run the family business the way he felt it should be managed. He never designated an heir from among his children and he outlived all of them. At the age of 112, he was considering the prospects of all of his 47 grandchildren. The oldest granddaughter, Thyriellentha, was the logical choice and the assumed favorite. However, the youngest grandson, Dandobar, had undertaken a year-long junket through Calimshan and the cities around the Lake of Steam, and returned with agreements, formulas, and alliances that greatly expanded the family business and opened up export opportunities. Before he died, Arrabas named Dandobar his heir. This made Thyriellentha bitter and she distanced herself from the family, despite the fact that Dandobar designated her as his heir.
+
+History
+Arrabas was seventeen when the Snome family was ennobled. He eventually rose to be the patriarch of the family and held that position for the better part of a century.
+
+Appendix
+References
+
+---
+
+## Ardic Santele
+
+Ardic Santele was a young noble who lived in Saradush during the mid–14 century DR.
+
+Relationships
+Ardic was the son of Count Santele and Countess Mirnielle. He had a good friend in Mateo, a soldier in the Tethyrian army.
+
+History
+During the siege of Saradush, in the, Ardic was abducted by the traitorous thief Kiser Jhaeri. Kiser used Ardic's incarceration to blackmail Countess Santele to frame Mateo for the traitorous crime for which Kiser was responsible.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate II: Throne of Bhaal
+
+External Links
+
+References
+
+---
+
+## Aru Province
+
+Aru Province was a daimyate and province of the nation of Wa, situated on the island of Tsukishima and based around the town of Aru, its capital.
+
+Geography
+Aru Province lay in the northern part of Tsukishima, where it was dominated by the Ikuyu Mountains. The province included many of the rugged passes through these mountains.
+
+The Aru was a small river that supplied the area with fresh water. It gave its name to the province.
+
+The Isle of Devils was also under the jurisdiction of Aru Province, which it was nearest to on the mainland.
+
+History
+The area was originally part of Jasuga Province, until Wa Year 1608 (1190 DR), when shogun Eiko officially recognized the growing settlement around the Shining Temple of Bishamon and named it "Aru" after the Aru river. Furthermore, he decreed Aru the capital of the new Aru Province (cleaved off Jasuga Province) and appointed Arata Matsutomo, head of the completely loyal Matsutomo clan, as its first daimyo; the Matsutomos dutifully relocated to Aru. Arata served ably for two decades, until Wa Year 1627 (1209 DR), when bandits aided by unidentified supernatural creatures (tengu being one possibility) massacred a large pilgrim train in one of the mountain passes with Aru Province. The shogun reprimanded Arata for this failure of security. The next year, Arata's samurai guarded the next pilgrim train, but they too were attacked and slaughtered to a man. The shogun removed Arata and the Matsutomos from power.
+
+Next, the daimyate went to Sousuke Toda, of the newly arrived Toda clan. Sousuke led well and Aru enjoyed a decade of peace. When Sousuke died in a hunting accident, his 17-year-old son Eiji became daimyo; he was eager to do well but inexperienced. The following three years saw resurgent bandits devastate the pilgrim trains, though shogun Takahiro forgave Eiji because of his age and inexperience. Then, in Wa Year 1640 (1222 DR), a foreign raiding party (possibly from Shou Lung) made it through the daimyo's defenses to Aru's outskirts and razed part of the Eta District. This failure was too great and Eiji was removed.
+
+The shogun returned Aru to the Matsutomo clan, now under Koji Matsutomo. A weak man, Koji was liked by peasants but hated by rival nobles who'd moved to Aru. He survived two attempted coups in Wa Years 1645 (1227 DR) and 1649 (1231 DR), and thereafter focused only on protecting himself and his clan. As a result, he neglected Aru Province's administration and corruption got out of control. When in Wa Year 1652 (1234 DR) the annual shipment of tax payments at Uwaji was 30% less than reported on the manifest, Koji was removed.
+
+Next, the daimyate passed to Seiji Kubahachi; the Kubahachi clan ruled well for two generations. However, the third daimyo, Koji Kubahachi, was cruel and vindictive. In Wa Year 1713 (1295 DR), when he levied a special tax to pay for castle improvements and a certain fishing village fell short, Koji killed every inhabitant, razed it, salted the earth, and did the same to two neighboring villages, insisting they must been aware of a plot to defraud him. In Wa Year 1717 (1299 DR), two ninjas infiltrated Aru disguised as pilgrims and tried to assassinate Koji. They were killed in the attack, Koji couldn't identify who hired them, and in revenge and as a message to his unknown enemy, he executed every one of the pilgrims in the train. At this excess, shogun Masanori removed Koji both from office and from the mortal world.
+
+The daimyate went back to the Matsutomos. Vowing to do better, Masakito Matsutomo was efficient and enlightened, if strict, but too old to reign for long. He died in Wa Year 1725 (1307 DR) and was succeeded by his son, Hisao. Hisao lacked his father's wisdom and corruption flourished in Aru Province again. Many of his advisors established their own "business interests", most egregiously charging pilgrims a "visitation fee" to worship at the Shining Temple of Bishamon. When the shogun heard of his violation of tradition, the Matsutomos were removed again in Wa Year 1730 (1312 DR).
+
+The next daimyo was Takashi Yayazato. He ruled ably, but his three sons all died tragically, leaving him with no male heirs to succeed him when he died in Wa Year 1758 (1340 DR). shogun Matasuuri Nagahide returned the daimyate once again to the Matsutomos. Benju Matsutomo, a renowned samurai, governed Aru Province well but as he grew older he worried about his family's future. Deciding his ancestors' failures resulted from overambition, he resolved to be as quiet, safe, unobtrusive, and error-free as he could, hoping that if the Matsutomos could hold the daimyate for a few generations, they might achieve a better position. He remained in power through Wa Year 1775 (1357 DR).
+
+Government
+In the mid-to-late 1700s, Aru Province was governed by the daimyo Benju Matsutomo of the Matsutomo clan. He focused on playing it safe whilst ensuring the safety of pilgrims to and from the Shining Temple and on making sure the Ceremony of the Three Thousand Steps proceeded without issues.
+
+Benju brought to his side good and reliable advisors, chief among them his vassal and right-hand-man, Yuji Takaesu. He was a loyal and skilled administrator who trained Benju's samurai.
+
+Defenses
+Thanks to Yuji's training, Aru Province samurai were among the finest in the country, said to be equal even to the shogun's personal bodyguard, and were known to be incorruptible. Called the Home Guard, they were commanded by Toshikazu Wada. They patrolled the mountain passes, escorted the pilgrim trains, and policed Aru and its environs.
+
+Legends
+A local legend of Aru held that a powerful jiki-ketsu-gaki dwelt in the mountains. Supposedly, it also had prophetic powers and when a time of trouble was imminent, it left a grisly omen: a wise man slain with a "gaki-spear". In Wa Year 1775, the Yamaguchi ninja left the body of a murdered shukenja pilgrim in the Shining Temple of Bishamon, stabbed through and pinned to a screen with a strange spear to evoke this legend.
+
+Notable Locations
+Settlements Aru • Anjiro
+Rivers Aru • Yama-san
+Islands Isle of Devils
+
+Appendix
+References
+
+---
+
+## Arctic fox
+
+Arctic foxes were a small mammal related to the fox.
+
+Abilities
+Arctic foxes had a keen sense of smell. They were capable of detecting another creatures scent over a distance of up to . Its white fur provided blended in with the snow and ice of the tundra.
+
+Behavior
+Arctic foxes, like their cousins, were cunning creatures.
+
+Combat
+When faced with a larger opponents, arctic foxes fled instead of standing their ground.
+
+Ecology
+Arctic foxes lived alone or in mating pairs. They were found in cold plains and tundra. In the Realms, arctic foxes could be encountered in the northern Hordelands and the High Ice.
+
+Uses
+The pelt of the arctic fox was used as clothing by the frost folk.
+
+Appendix
+See Also
+ Hoar fox
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Aridarye Brokengulf
+
+Lady Aridarye Brokengulf, formerly Aridarye Phylund, was a noble in Waterdeep in the latter part of the 14 century DR.
+
+Description
+Lady Aridarye was devastatingly beautiful with high cheekbones, sharp features, pale skin, warm brown eyes, and a dazzling smile. Her bell-like laugh was almost her trademark. She had dark hair long enough to reach her waist, but she usually wore it up in a fancy coiffure held in place by a golden headpiece. Often judged younger than her actual age, she was slender and curvaceous, standing  and weighing . She favored blues and purples for the extravagant gowns that accentuated her figure. She was rarely seen without her elaborately decorated dagger in its equally ornate scabbard. Many who were the target of her ire said that her eyes flashed scarlet in her fury.
+
+Personality
+Aridarye was the quintessential noble, observing every social protocol with impeccable manners and grace tempered by flirtation. In the business world, she had a reputation for good financial sense. She kept her own counsel, never revealing her true thoughts in social situations. Behind the perfect public facade, she was demanding, controlling, and rigid toward her servants, family, and close business associates. She governed herself with discipline and disciplined those she governed. When things were going the way she planned, she indulged in hedonistic pastimes, mostly centered around promiscuity. When thwarted, she calculated her revenge and retribution carefully, waiting for the best opportunity to strike.
+
+Abilities
+Lady Aridarye was an astute businesswoman with an eye for market trends up and down the Sword Coast. She was an expert bookkeeper and knew more about that side of business than most nobles bothered to learn (she could also forge documents if needed). She was good at appraising the value of things that other nobles wore or displayed. She was well versed in the gaming pastimes of the rich and could hold her own on the dance floor. Lady Aridarye wielded her beauty, charm, wealth, and business acumen like weapons to carve out more of the world for herself, lying and manipulating people as needed to raise her station.
+
+Possessions
+She wore a +2 ring of protection and her dagger was a +1 dagger of venom.
+
+Relationships
+Lady Aridarye came to Waterdeep as the consort of a successful trader from Amn and quickly adapted to the noble life in the City of Splendors. After her husband was killed during an apparently shady business deal, she soon married Lord Urtos Phylund I, patriarch of the Phylund family. She had a son by him, Urtos III, and then she was widowed again when Urtos I was killed by an accidentally released owlbear. Her stepson, Urtos II, was already reported to have been killed on a hunting expedition, so she was set to take over the family businesses and become regent for her infant son, but Urtos II appeared within a tenday of his father's funeral and claimed the Lordship. She was coolly tolerated in the family villa by Urtos II and his new wife Lythis. Lady Aridarye had many suitors, the most notable being Prendergast Brokengulf, a former rival in business, whom she later marred.
+
+Other business rivals included the Lords Gundwynd and Ilvastarr. She reportedly had two husbands before the trader from Amn.
+
+History
+Lady Aridarye arrived in Waterdeep in Alturiak of the  with her husband, the Amnian trader. After getting a sense of the social environment and finding an easy target for her charms, she sabotaged one of her husband's business deals by replacing the gold pieces he intended to use as payment with counterfeits while he was asleep. He was killed in a back alley in the Southern Ward for his attempted swindle. Aridarye played on the sympathies of her noble acquaintances for luxurious room and board until she caught the eye of Urtos Phylund I, an elderly widower with a lucrative business in monsters and exotic creatures.
+
+Her business advice to Lord Urtos proved sound and increased the family's fortunes and social prestige. They were married in Ches of the . For the next five years, she and the elder Urtos were stars in Waterdhavian social circles, hosting ostentatious parties with expensive themes, even through her pregnancy and the birth of their son, Urtos III, in the . This lavish lifestyle disgusted Urtos II and he spent more and more time at the Phylund Hunting Lodge in Ardeep Forest, hunting and hosting monster safaris for the jaded nobles in the big city. This suited Aridarye just fine because, once she secured another heir, she intended to rid herself of the old Lord and her stepson and take over the family as regent for the infant Urtos III.
+
+In Alturiak of the, she subverted a servant to do her bidding and gave him a scroll to read when a hunting party led by Urtos II was deep in the woods. The scroll summoned a huge pack of wolves that slaughtered nearly every hunter (including the disloyal servant). The sole survivor finally made his way back to Waterdeep and reported the deaths of the entire party including Urtos II. This was a terrible blow to Urtos I, despite their estrangement, and he was grief-stricken. Aridarye had used her wiles to turn business rival and famed gladiator Prendergast Brokengulf into a devoted lover since 1364 DR and she manipulated him into arranging the owlbear escape that killed Urtos I and six other beastmasters, making it appear that the old Lord had gotten careless in his misery.
+
+Her plan nearly succeeded, but during the mourning period in Tarsakh, just after the funeral for Lord Urtos, her stepson reappeared in Waterdeep, alive and apparently fully recovered from the wolf attack. Much to her fuming frustration, he rightfully claimed the Lordship and moved back into the family villa on Copper Street. His miraculous escape was orchestrated by an unknown agent and, unbeknownst to any but one trusted servant, he had been afflicted with lycanthropy.
+
+In the, the new Lord Phylund married Lythis Mhairuun (who found out he was a werewolf but married him anyway) and they eventually had three sons, any of whom would have been in the line of succession before Urtos III except the Lords of Waterdeep mysteriously declared them unfit to inherit the title. Urtos II suspected it was because of his affliction, but he blamed Aridarye for this and most every other misfortune that befell his family since she arrived in town, but he was not able to find solid proof.
+
+In the, Aridarye married Prendergast and continued to plot ways to take over the Phylund clan, as her son was destined to be the next Lord Phylund.
+
+Appendix
+References
+
+---
+
+## Arm hammers
+
+Arm hammers was a southern magic divine spell available to worshipers of Geb.
+
+Effects
+When cast, this spell turned the caster's arm and hands into strong hammers of adamantine. The hammers were strong enough to cut or tunnel through stone. The hammers were heavy, which made it difficult for the caster to move or manipulate objects nor could they cast spells requiring somatic and material components. While the spell was in effect, the caster was immune to both haste and slow spells. The hammers were vulnerable to spells such as shatter.
+
+Components
+In addition to somatic and verbal components, this spell required material components—a pair of small hammers made from stone—and the holy symbol of the caster. The stone hammers had to be crafted from a single stone.
+
+Appendix
+References
+
+---
+
+## Arraccat
+
+Arraccats were rarely seen aggressive monstrous predators, a particularly nasty combination of a spider, scorpion, and a lion. Arraccats were encountered in the ruins of Myth Drannor circa 1369 DR
+
+{{quote|- What's an arraccat?- I think it's a creature with eight eyes and eight legs with really sharp claws… and a wide mouth with wicked fangs…- How do you know that, Durwyn?- Because I'm looking at one.|Kestrel and Durwyn during their adventures in Myth Drannor}}
+
+Description
+Arraccats were a nightmarish combination of features of various territorial predatory beasts. They walked on four scorpion-like two-jointed legs ending in sharp claws, with two pairs of frontal clawed appendages resembling a scorpion's chelicera. Their bodies had thick leathery hides and patches of fur that grew like a lion's mane and in stripes on the creatures' back, akin to those of a tiger. The bodies ended in a long scorpion-like tail with a dangerous stinger. Their boar-like faces had tusks and six spider-like eyes.
+
+Abilities
+Arraccats were completely immune fo paralysis and poison, and their thick hides made them especially resistant to critical hits. Staring into their eyes could cause dizziness.
+
+Arraccat mothers had paralyzing venom in their tail stingers.
+
+Behavior
+
+Even though arraccats were terrifyingly aggressive, they were not particularly intelligent, mostly functioning on instinct. Due to those two characteristics, arraccats often attacked creatures much bigger and stronger than them and fought to the death. When around the arraccat mother, all other arraccats did everything they could to frenziedly defend the leader.
+
+Arraccats showed aggression with a loud hiss.
+
+These creatures were known to collect everything that sparkled, dragging shiny gems and treasures into their lairs.
+
+Combat
+Arraccats had higher than average movement speed and could attack twice in six seconds.
+
+Their main tactics when hunting was reliant on the fast movement and precise attacks, followed by a retreat into shadows while searching for another opportunity to strike with their bites causing infection and injecting minor green-colored venom.
+
+Ecology
+
+Arraccats dwelt in the ruins and dungeons and catacombs under the destroyed city of Myth Drannor. They lived in hive-like groups and ventured away from their nests to hunt and drag the slain prey back to the nest to feed the mother arracat.
+
+Black arraccats were a dark-furred bigger and stronger type of these creatures.
+
+Some arraccats were known to be trained or possibly charmed to be hunters and guards for the Cult of the Dragon and drow of the House Freth. These trained creatures were known as guard arraccats.
+
+History
+Arraccats could be found in many locations across the ruined Myth Drannoor circa 1369 DR. They hunted in Dwarven Dungeons, Nightingale Court, Speculum Grounds, and nested deep under Castle Cormanthor in Elven Catacombs.
+
+Notable Arraccats
+Kalannar - was a trained guard arraccat pet of Greyanna Freth circa 1369 DR.
+
+Appendix
+See Also
+Shadowcrawler
+Appearances
+NovelsPool of Radiance: Ruins of Myth DrannorVideo GamesPool of Radiance: Ruins of Myth Drannor''
+
+References
+
+Connections
+
+---
+
+## Arrow of dire flatulence
+
+Arrows of dire flatulence were rare and extremely dangerous magical arrows that exploded into a cloud of noxious gas.
+
+Description
+The arrowheads of the arrows of dire flatulence were thin and spike-shaped and they emitted a very peculiar foul odor.
+
+Powers
+These arrows were magically enchanted to deal extra damage and made it easier to hit the target. Upon impact, the arrows created a  cloud of sickening noxious mist similar to the effect of the stinking cloud spell.
+
+History
+Some of the magical arrows of dire flatulence could be found in the areas of the Elven Catacombs under Myth Drannor that were controlled by the drow of House Freth circa 1369 DR.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Arrow of second death
+
+Arrows of second death were powerful enchanted arrows created to grant eternal peace to the undead.
+
+Description
+Arrows of second death were adorned with mystical runes that granted their undead-slaying powers.
+
+Powers
+When used against undead targets, these arrows became very accurate and even more damaging.
+
+History
+Arrows of second death were quite rare. In 1369 DR, some of these arrows were in possession of orogs and dark nagas residing in the Lower Keep level of the Elven Catacombs under Castle Cormanthor of Myth Drannor.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Arata Matsutomo
+
+Arata Matsutomo was a head of the Matsutomo clan and a daimyo of Aru Province in Wa in the early 1600s on the Wa Calendar.
+
+History
+In, the shogun Eiko officially recognized the settlement of Aru and decreed it the capital of the new Aru Province. Choosing the completely loyal Matsutomo clan to lead it, he appointed Arata Matsutomo as its first daimyo; the Matsutomos dutifully relocated to Aru.
+
+Arata served ably for two decades, until, when bandits aided by unidentified supernatural creatures (tengu being one possibility) massacred a large pilgrim train in one of the mountain passes. The shogun reprimanded Arata for this failure of security. The next year, Arata's samurai guarded the next pilgrim train, but they too were attacked and slaughtered to a man. The shogun removed Arata and the Matsutomos from power, passing the province to the Toda clan.
+
+Appendix
+References
+
+---
+
+## Artoth's Bane
+
+Artoth's Bane was a magical battleaxe that belonged to a dwarven architect Artoth Frayhammer who was buried with honors long before the Weeping War's advent, in the Elven Catacombs under Castle Cormanthor in Myth Drannor and guarded by dwarven statue golems.
+
+Description
+Artoth's Bane was named after its owner. The axe was of elven design, heavily used, combat-damaged, and blunted.
+
+Powers
+Even though blunt, Artoth's Bane was still a powerful enchanted weapon. Its enchantments were so strong that even though it dealt crushing damage due to being blunt (instead of cleaving), it was still magically enhanced. Additionally, the Bane held magics that allowed the user to stop their opponents once a day akin to the hold person spell.
+
+History
+Artoth's Bane along with Artoth himself were long dead and entombed by the time Myth Drannor fell in the Weeping War. Even though the catacombs where his tomb was located were regularly raided by drow, orcs, orogs, and the Cult of the Dragon, in 1369 DR, Artoth's Bane was still with its master. Along with a few other tombs of heroes in the depths of the Elven Catacombs, Artoth's final resting place had the Receiver of Respect. It was designed to release the legendary weapon in exchange for another mundane battleaxe in times of dire need.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Arron
+
+Arron was a merchant who lived with the druids of the Emerald Grove in the late 15 century DR.
+
+Personality
+While he was a businessman and a merchant, Arron was a rather caring individual.
+
+Possessions
+Among the various goods Arron had for sale were an amulet of elemental torment as well as the Rain Dancer quarterstaff, and the Dragon's Grasp handaxe.
+
+History
+In the,  the threat of goblin attacks threatened the residents of the Emerald Grove. Arron was of the opinion that the tiefling community they harbored should not be outcast into the wild, left to fend for themselves.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+
+References
+
+---
+
+## Arrowflight of Angels
+
+Arrowflight of Angels was an elven enchanted longbow that once belonged to an Akh'Velahr war party leader, Victoria, who died in the Weeping War.
+
+Description
+Arrowflight of Angels was a delicately crafted elven bow decorated with angel wings.
+
+Powers
+Victoria's bow possessed a powerful +5 enchantment and increased the user's constitution. Arrowflight of Angels gave the user ability to cast resurrection.
+
+History
+During the Weeping War, Victoria led her elven war party against the invading Army of Darkness and met her demise in the Elven Catacombs. In 1369 DR, the drow of House Freth were smuggling elven artifacts from the catacombs under the city and Victoria's gear was among the items that were collected and prepared for transport. Arrowflight of Angels never reached the Underdark as a group of adventurers from Phlan destroyed drow operations in the Elven Catacombs.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+---
+
+## Areana
+
+Areana was a noblewoman who lived in Baldur's Gate during the mid–14 century DR.
+
+Relationships
+She was an acquaintance of the mercenary Tor Lobo.
+
+History
+Some time in the, Areana had an affair in the Undercellar beneath Baldur's Gate. A man by the name of Cyrdemac became aware of the tryst and started blackmailing Areana in order to keep his silence.
+
+Areana in turn sought out individuals to kill Cyrdemac, offering a sum of 2,000 gold pieces.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate
+
+External Links
+
+References
+
+---
+
+## Ardul
+
+Ardul was a guardsman who served in the Marsember Watch during the late 15 century DR.
+
+Description
+He began serving in the Watch at quite a young age.
+
+Relationships
+Ardul's moral compass was regularly tested by his superior in the Watch, Topsword Kleef Kenric.
+
+History
+On Uktar 2 of the, when the city of Marsember was being evacuated in response to the invasion of the Shadovar, Ardul and his fellow watchmen were tasked with clearing out Wilhastle Square.
+
+Later on, when Grand Duchess Elira Seasilver was abducted by Yder Tanthul aboard the Wave Wyvern, Ardul was among those brave Cormyrians to board the Lonely Roamer with Topsword Kenric to ensure her safety.
+
+Appendix
+Appearances
+Novels
+ The Sentinel
+
+References
+
+---
+
+## Arknor's Vile Voice
+
+Arknor's Vile Voice was an enchanted ring that improved the wearer's physical shape and muscle tone and a part of the Fading Rings set.
+
+Description
+Arknor's Vile Voice appeared as a regular ring that exuded strong pungent odor.
+
+Powers
+When worn, Arknor's Vile Voice improved strength and constitution as well as allowed the spell of Melf's acid arrow to be cast.
+
+History
+In 1369 DR, Arknor's Vile Voice came to be possessed by a mysterious monument, the Great Stone Head, located in the Nightingale Court in the ruins of Myth Drannor. In exchange for one of the eidolons, small totem statues depicting various gods, the monument dispensed powerful magic rings, one being the Arknor's Vile Voice.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Arcand
+
+Mad Arcand was a rather deranged old sage whose ship crashed on the Sword Coast during the mid−14 century DR.,
+
+Description
+He spoke in a rhythmic and at times nonsensical manner.
+
+Personality
+While his strange manners were quite suspicious, he was not actively antagonistic towards people he met.
+
+History
+In the, Arcand went searching for his unique cursed ring, called the Discipliner. He knew the ring to remain on the ship on which he was aboard.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate
+
+External Links
+
+References
+
+---
+
+## Armor Through the Ages
+
+Armor Through the Ages was a reference book detailing armor metallurgy practices throughout Toril's history, up until the early 14 century DR.Beyond it being a metallurgical reference book, the contents of this book were not detailed in this adventure. Thus the listed summary was partially inferred from the title of the book itself.
+
+History
+One copy of this tome laid within Bard Keep, a temple of Oghma that stood within the North near Silverymoon.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Dungeon #29, "Ex Libris"
+References
+
+---
+
+## Aralynn
+
+Aralynn the Pious was a priestess who lived in Neverwinter during the late 15 century DR.
+
+Activities
+She spent much of her time at the Halls of Justice teaching devout citizens in the city how to invoke the blessings of their deities.
+
+History
+Circa the, Aralynn and Sergeant Knox of the Neverwinter Guard began investigating the spectral image of Dyrl Godsword, which had been appearing in the city and the Neverwinter Wood.
+
+Appendix
+Appearances
+Video Games
+
+External Links
+
+References
+
+---
+
+## Argenach
+
+Argenachs were a subspecies of rilmani.
+
+Description
+Argenachs were tall, slender humanoids with a silvery sheen to their skin. Like all rilmani, their eyes emitted a pearly light. On their home plane they typically dressed in flowing robes of a white hue.
+
+Personality
+Argenachs were incredibly intelligent and resourceful.
+
+Out of all the rilmani, they were the most interested in the affairs of the countless worlds on the Prime Material plane. They believing that the war between opposing forces of good and evil, law and chaos, would be fought and won on the Prime Material.
+
+Abilities
+Despite their appearance, argenachs were very strong and had dense hides that could only be harmed by weapons with a +3 or greater enchantment.
+
+Argenachs possessed a number of innate spell-like abilities, which they could use one at a time. These included advanced illusion, detect invisibility, detect magic, ESP, fly, hallucinatory terrain, invisibility, mass charm, mirror image, slow, solid fog, suggestion, and wall of fire. Once per week they could cast geas, three times per day they could cast cone of cold, and once per day they could cast legend lore and prismatic spray.
+
+Their more unique spell-like abilities included lay on hands once per day, replicating the effects of heal, opening a gate once per day to bring either four ferrumachs or another argenach to their aid, and shooting two rays of silvery light from their hands, out to a range of, that always struck as an energy form that their target was weak to.
+
+They could also cast a number of spells that were known to all rilmani — darkness, dismissal, continual light, hold monster, and teleport without error. They always had the spell know alignment active.
+
+Like all rilmani, they could freely travel to the Astral plane or any of the Outer Planes, but their access to the Prime Material plane was restricted. They were only capable of traveling there if a creature of law or chaos of equal power was already present.
+
+Combat
+Argenachs avoided physical combat when possible, using their spell-like powers of charm, illusion, and suggestion to avoid such confrontations. When forced to engage someone in close quarters, they typically fought with long-handled axes and wide-bladed broadswords with +3 enchantments.
+
+Society
+In the hierarchy of rilmani society the argenachs were above all but the aurumachs, who they answered directly to, and were the most reclusive. They were usually only given broad guidelines, rather than specific orders, such as "There's trouble on Toril. Deal with it."
+
+They acted as advisers and agitators, entrusted with the most delicate and subtle aspect of the rilmani's grander purpose — the careful adjustment of the Balance, especially in places where it couldn't fix itself, making sure that no one side gained the upper hand for long.
+
+When getting involved in matters of balance the argenachs took a subtle approach and neutral role. They would conceal their true identity, then give advice and knowledge to whatever side was threatened.
+Homelands
+Like all rilmani, the home of argenachs was near the Spire in the Outlands. However, they spent a lot of their time on the Prime Material plane.
+
+History
+In the mid-14 century DR, an argenach was living in Westgate, acting as part of the staff of the Blais House inn.
+
+Notable Argenachs
+ Jemorille, an argenach who whispered something to Yamun Khahan that compelled him to lead the Grand Army of the Tuigan against the kingdoms of Faerûn.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Arrit
+
+Arrit was an abjurer and one of five novice wizards stationed at the enclave run by the young Red Wizard Hinnar.
+
+Description
+Arrit's body bore a magical tattoo from the Red Wizards that made abjurations more difficult to resist.
+
+Abilities
+Arrit was tough, dexterous, and intelligent and was trained in alchemy, spellcraft, and the scribing of scrolls.
+
+Possessions
+Arrit carried a dagger and a small crossbow.
+
+Arrit's spellbook contained nineteen different spells.
+
+Activities
+Arrit alternated with the other five novice wizards in running the compound's sales booth with two other companions. When sales were slow, Arrit might offer assistance to the wizards responsible for crafting the magic goods that were for sale.
+
+Appendix
+Errata
+The source lists ray of frost and burning hands as spells in Arrit's spellbook, yet evocation is a forbidden school for Arrit.
+
+References
+
+---
+
+## Arianna
+
+Arianna the Archer was an ancient decorated and proud elven hero of Myth Drannor who died long before the advent of the Weeping War.
+
+Possessions
+Arianna's most notable possession was her unique enchanted longbow named Bloodbow, which served her in life and was buried with her in death.
+
+History
+Arianna the Archer died many centuries before her grave was disturbed by the Cult of the Dragon and their drow allies in 1369 DR. Her body was laid to rest within one of the decorated crypts of elven heroes of the City of Song, alongside Magister Luther, Erik Sliphand, Sindar, Bannoc, and Shyla. Their final resting places were corrupted by the wild magics of the Weeping War. Arianna, and her crypt-mates became cursed with an undead existence as wraiths, forever guarding the artifacts they were interred with.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Arctic stink squirrel
+
+Arctic stink squirrels were creatures found in Icewind Dale. They were sometimes kept as familiars.
+
+Abilities
+Arctic stink squirrels owed their unflattering name to their ability to exude a stench comparable to a stinking cloud.
+
+Behavior
+Although noted to be fierce in the wild, domesticated arctic stink squirrels were playful and snuggly companion animals.
+
+Appendix
+See Also
+ Skunk
+References
+
+---
+
+## Arilain
+
+Lady Arilain was a Netherese archwizard that lived during the Shadowed Age.
+
+History
+The female arcanist controlled the Opus enclave, a great flying city in the empire of Netheril. In, the talented archwizard discovered that the great Karsus was developing a new extremely powerful spell. The spellcasters of Opus managed to divine the effects of this spell, which would become known as Karsus's avatar. Arilain warned the other arcanists of Opus, but personally set out to approach Karsus himself. However, after meeting with Karsus, she was never heard of again.
+Appendix
+Notes
+
+References
+
+---
+
+## Araton
+
+Aratons, more commonly known as desert devils, were devils surrounded by an unending sandstorm.
+
+Description
+Aratons typically appeared as, naked humanoids around . Their forms seemed flayed and sand-blasted and constantly oozed blood, giving them an appearance that often saw them mistaken for undead. This was the result of the  radius halo of swirling, abrasive sand that surrounded them wherever they went; the howling of the sand heralded an araton's approach.
+
+Abilities
+Like most devils, aratons were impervious to fire, and had some level of spell resistance and regeneration, (powerful enough in their case to regrow lost limbs and even instantly re-attach them by holding them against their stump). In addition, the abrasive grit that surrounded them harmed any creature that went within it. They were not exempt from its effects, and in fact the only reason they were alive, if gruesomely wounded, was because of their constant regeneration.
+
+Combat
+Aratons typically fought by whirling their pair of scimitars, each tinged red from the blood that oozed from their bodies.
+
+Society
+Native to the Nine Hells, desert devils were solitary creatures to whom the wastes called.
+
+Language
+Aratons typically knew how to speak both Common and the Infernal language.
+
+History
+Circa 1375 DR, aratons could be found wandering outside the ruins of Oreme in Anauroch.
+
+Appendix
+Appearances
+Adventures
+Anauroch: The Empire of Shade
+
+References
+
+Connections
+
+---
+
+## Arcane mail
+
+Arcane mail was the enchanted set of plate mail that once belonged to one of the original Knights of Myth Drannor, Jelde Asturien.
+
+Description
+Arcane mail was a set of heavy armor covered in magical sigils and runes.
+
+Powers
+This unique plate armor had a +2 enchantment and dramatically improved the wearer's defense. The most notable thing about the arcane mail was that this item's magic allowed a wizard to wear it with no adverse impact on their spellcasting ability, apart from the armor's weight.
+
+History
+At some point before 1369 DR, while exploring the ruins of Myth Drannor, Jelde Asturien found his way into the ancient tomb under the mansion of House Ammath in the Glim-Gardens district and created a vault in one of its secret rooms. In  1369 DR, the vault still contained Jelde's blade of destruction and a set of arcane mail, with a message written by him that offered these enchanted items as aid to future explorers as their original owners no longer needed them. However, a dark naga nested in the adjacent room to the hidden vault making it dangerous to access.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+---
+
+## Arnolinus
+
+Arnolius was an armorsmith and merchant who lived in Athkatla during the mid–14 century DR.
+
+Personality
+He spoke in broken Common and had the peculiar affectation of referring to himself in the third person. He was proud of the name "Arnolius" – a fine dwarven name.
+
+Activities
+Arnolius operated his smithy in the Waukeen's Promenade marketplace in the Center District of Athkatla, sharing the workshop with a renown fletcher named Perter. He offered a great variety of enchanted shields painted in a variety of different colors.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate II: Shadows of Amn
+
+External Links
+
+References
+
+---
+
+## Archetymbal
+
+Archetymbal by Kastor was a classic work of fiction published in Faerûn. It was acclaimed as a literary masterpiece. It had one volume.
+
+The retired War Wizard and sage Benelaius had a copy in his library at his home near Ghars, Cormyr. His servant Jasper read it in 1367 DR.
+
+The original manuscript was kept in Candlekeep around 1372 DR.
+
+Appendix
+References
+
+---
+
+## Argys Kral
+
+Argys Kral was an inhabitant of the town of Ghars in Cormyr in the mid–14 century DR.
+
+History
+When Argys went to Aunsible Durn's smithy, Dovo—a friend of Argys who'd worked there and fancied himself a prankster—put a burr under his mare's saddle so it threw him when he mounted. Aunsible Durn chewed Dovo out for that. Argys was likely even less impressed.
+
+Appendix
+References
+
+---
+
+## Ariast
+
+Ariast was a noblewoman and a notorious gossipmonger member of the Society of Stalwart Adventurers from Suzail, active in mid-to-late 14 century DR.
+
+Personality
+Ariast's was the eldest daughter of an elven noble family dated back to the glory days of the old Myth Drannor. The young woman was arrogant and disdainful of many other Stalwarts. She led the clique of rich and spoiled nobles of the Society of Stalwart Adventurers, whom Artus Cimber called "Warts" instead of "Stalwarts." She loved nothing more than to spread gossips, especially when gossips were aimed at tarnishing older Stalwarts' reputation. She showed little to no respect or compassion for less fortunate than her.
+
+Abilities
+Ariast had a bad habit of casting cantrips on individuals that annoyed or angered her. Harmless yet embarrassing cantrips such as hiccups, belching, tripping and falling down, or fits of uncontrollable laughter.
+
+History
+In 1362 DR, Ariast decided to make a snarky comment about Artus Cimber's trusted friend, Theron Silvermace who recently returned from an unfortunate expedition to Chult. The snooty elf made fun of Theron's diminished mental state, which was a result of an exceptionally traumatic experience during his imprisonment in drow prisons of Menzoberranzan. Artus retorted to her cruel comments by saying that associating with Ariast was more damaging to one's psyche than torture in drow prisons. In response, Ariast tried to cast one of her cantrips on Artus. Unbeknownst to Ariast, at the time, Cimber was under the magical protection of a guardian being known as Skuld. The creature retaliated with extreme prejudice against anything and anyone threatening his master. To Artus' protests, the four-armed guardian crushed the elf woman's arms to stop her from casting spells. That encounter left Ariast badly hurt and in a long process of recovery.
+
+Appendix
+Notes
+
+Appearances
+Novels
+The Ring of Winter
+References
+
+---
+
+## Armillary sphere
+
+An armillary sphere was an astronomical model of the courses of the sun, moons, planets, and stars and of the principle celestial circles.
+
+Description
+Usually made of bronze, an armillary sphere held globes representing the sun or a planet such as Toril, surrounding by rotating concentric rings that might be mounted with their own spheres representing other planets.
+
+Availability
+Aurora's Whole Realms Catalogue sold an almost-flawless armillary sphere for 60 gp in the 1360s DR.
+
+A Netherese armillary sphere of similar quality was valued at 100 gp circa 1479 DR.
+
+Notable Armillary Spheres
+Moonmaiden's Hall, a temple to Selûne in her navigational aspect in Murann, Amn, possessed an intricate armillary sphere large enough to have an altar and a priest at the very center.
+
+Another massive armillary sphere existed in the Tomb of the Nine Gods under the city of Omu in Chult. This was large enough for people to sit inside the planets and operate it from within them, and on key conjunctions strange magical effects might occur.
+
+Notable Owners
+The retired mage Benelaius owned an armillary sphere at his home outside Ghars, Cormyr, circa 1367 DR. He once had to move quickly to save after one of his cats bumped it off a shelf.
+
+Appendix
+See Also
+ Astrolabe
+Appearances
+
+External Links
+
+References
+
+---
+
+## Arachnar
+
+Arachnars were spider-like constructs, believed to have been simplified adaptations of scaladars, that emerged following the Spellplague.
+
+Description
+Arachnars were constructed of common materials. These included wood, strips of heavy cured leather, and dull or rusting metals, typically iron. Their bodies always sported dark and neutral colors, making them harder to spot in underground environments.
+
+Abilities
+Arachnars were highly mobile and had great climbing capabilities.
+
+Varieties
+Shockweb Shockweb arachnars had electrified jaws, were capable of unleashing pulses of electric energy, and deployed sheets of electrified webbing to slow or wear down their enemies. They often unleashed these pulses when enemies came close to their webs, knocking the unaware parties into them. They also could teleport a short distance, but doing so would disable their ability to produce electrified webbing for a time.
+Skittervenom Skittervenom arachnars were a highly mobile form of arachnar that carried a tank of poison on their backs. They had poisonous jaws and could spray this poison at their enemies.
+
+Ecology
+These constructs were sometimes  deployed among military units. They saw use by belligerent nobles, bandit lords, and many races within the Underdark. They often served the role of artillery or scout.
+
+Rumors & Legends
+More complex models of arachnar, constructed with higher quality materials, were rumored to roam various levels of Undermountain.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Ardonell Firemoon
+
+{{Person
+| image          = Ardonell firemoon.jpg
+| caption        = Ardonell Firemoon and her enchanted spellblade.
+| name           = Ardonell Firemoon
+| alt_spelling   =
+| titles         =
+| aliases        =
+| nicknames      =
+| true name      =
+| home           = the Dalelands
+| formerhomes    =
+| sex            = Female
+| gender         =
+| race           = Half-elf
+| ethnicity      =
+| occupation     = Harper agent
+| age            =
+| patron deity   =
+| languages      =
+| basicrefs      =
+| reckoning      =
+| dob            =
+| dobnotes       =
+| turned         =
+| turnednotes    =
+| death          =
+| deathnotes     =
+| destroyed      =
+| destroyednotes =
+| daterefs       =
+| parents        =
+| spouses        =
+| siblings       =
+| children       =
+| familyrefs     =
+| dynasty        =
+| start of reign =
+| end of reign   =
+| predecessor    =
+| successor      =
+| successionrefs =
+| alignment1e    =
+| class1e        =
+| refs1e         =
+| alignment2e    = Neutral good
+| class2e        =
+| refs2e         =
+| alignment3e    =
+| challenge3e    =
+| class3e        =
+| refs3e         =
+| alignment35    =
+| challenge35    =
+| class35        =
+| refs35         =
+| alignment4e    =
+| class4e        =
+| refs4e         =
+| alignment5e    =
+| challenge5e    =
+| class5e        =
+| refs5e         =
+}}
+Ardonell Firemoon was a Harper agent who harbored anti-Cormyr views in the 14 century DR.
+
+Description
+Ardonell Firemoon was known for her passionate views on the growing political power of Cormyr. Her speeches often riled up unrest towards the Land of the Purple Dragon. Another notable quality of hers was the knowledge of old lore, ancient stories, and legends that surprised even Elminster Aumar hiself.
+
+Possessions
+Ardonell Firemoon's gear included an enchanted +2 chainmail, a spellblade that made her untochable to lightning bolt spells, and a pair of boots of speed.
+
+Appendix
+Appearances
+Card GamesAD&D Trading Cards''
+References
+
+---
+
+## Arasper's Little Book
+
+Arasper's Little Book was a book of musings on chronicling adventures and their stories written by Arasper Ardanneth, the Sage of the Road and published in 1357 DR.
+
+Contents
+Arasper's Little Book was collection of thoughts and musings making case for the need to recording not only histories of countries and kings but also daring adventures. It talked about how many adventures started with misfortune and hardship and those humble beginnings were not well preserved in record.
+
+Appendix
+Appearances
+Novels
+Swords of Eveningstar
+
+References
+
+---
+
+## Arrick Kaarvol
+
+Arrick Kaarvol was a prominent merfolk cleric of Umberlee that fought against the Army of Iakhovas when they invaded Waterdeep in the . The vampire lord, Artor Morlin, was impressed by his battle prowess and took him for one of his vampire spawn.
+
+Description
+Arrick was a strong figure as a merman, with a head and torso that resembled a Calishite human. After his turning, his mouth became a fanged maw similar to that of a lamprey and his tail lost its scales and became smooth skin with the two side fins characteristic of that blood-sucking eel. His eyes were red like other vampires. He wore sharkskin armor and sported a dark purplish black cloak that gave him the look of a manta ray.
+
+Personality
+Arrick was a vicious predator that enjoyed the scent of blood in the water. He purposefully wounded his prey so they would bleed a while before going for the kill. He had six merfolk spawn of his own for which he felt no compunction against sacrificing if necessary.
+
+Abilities
+Becoming undead did not prevent Arrick from receiving spells from Umberlee, and he cast evil spells with even more skill and effectiveness than he did when alive—banishment, antilife shell, and create undead, for example. He had all the strengths and weaknesses of a vampire except for the vulnerability to being immersed in running water (although it still prevented him from crossing). He was particularly resistant to cold, electricity, silver weapons, and magic. He could call swarms of piranhas or leeches, or a frenzy of sharks to his aid.
+
+Possessions
+His favored weapon was Piranha's Teeth, a +1 wounding vampiric trident. He wore a +3 ring of protection and Sharktooth Scales (his +2 sharkskin armor). His coffin was a giant clam shell.
+
+Activities
+Arrick was subservient to his master, Artor Morlin, and was tasked with keeping intruders from using the portals at the bottom of his pool, especially the silver curtain that was a conduit to the Ethereal plane where Morlin kept his coffin.
+
+History
+Arrick Kaarvol was originally from Tharqualnaar, the merfolk village in Waterdeep's harbor. As a senior cleric of Umberlee, he fought in the Deepwater War of 1369 DR, and his noteworthy victories got the attention of Artor Morlin, the master vampire of Waterdeep. Morlin kidnapped Arrick and turned him into one of his chosen spawn, leaving Arrick's fellow clergy to believe their leader had fallen in battle. Morlin commanded Arrick to create a pack of vampire spawn for himself and Arrick ambushed a merfolk patrol in the sewers and took six of them back to his lair in the Fireplace Level beneath the North Ward of Waterdeep.
+
+Appendix
+References
+
+---
+
+## Arvold
+
+Arvold was a seaman and the sailmender for the Storm Sprite for a time during the mid–14 century DR.
+
+Description
+He had a strong look about his face, with a prominent nose and dark eyes that readily gave away his severe outlook on life.
+
+Personality
+Arvold saw the world in harsh terms and would easily abandon, seek recompense from, or even violence against, anyone that got in the way of his survival at sea.
+
+Abilities
+He was quite skill at his work, but had a proclivity for taking things that did not belong to him.
+
+History
+Arvold was aboard the Storm Sprite in the, when it was destroyed at sea following an encounter with the dracolich Hethcypressarvil in the seas of the Dragonmere. He managed to survive the assault, along with the ship's captain Fowler, and the sorceress Ruha. The trio were stranded at sea for a short time, before being rescued by the nearby Shou caravel, the Ginger Lady. After being passage to the coastal town of Pros, they were granted safe haven by the Maces of Elversult and the city's Lady Constable, Vaerana Hawklyn.
+
+Appendix
+Appearances
+Novels
+ The Veiled Dragon
+
+References
+
+---
+
+## Ardanthe (plant)
+
+Ardanthe was a plant found in the King's Forest of Cormyr, notably in the areas around Dathyl, not far from the village of Espar.
+
+Description
+Ardanthe was an aromatic plant. Its sap was crushed out of the pant and rubbed through clean hair to imbue it with pleasant herbal scent.
+
+Culture
+The Chondathan word "ardanthe" meant "strong heart" or "stirring spirit". It also was a popular female first name and a style of music from Sembia, Cormyr, and Westgate.
+
+History
+In 1348 DR, Florin Falconhand offered ardanthe sap to Narantha Crownsilver as they cleaned themselves up in Dathyl's ice waters from sweat and grime of traveling through King's Forest.
+
+Appendix
+Appearances
+Novels
+Swords of Eveningstar
+References
+
+---
+
+## Ardreth Ulnshoor
+
+Ardreth Ulnshoor was the shopkeep of Uncrimmon's Trophies & Sundries in Mosstone in the 14 century DR.
+
+Description
+Ulnshoor was thought to be a creepy inexpressive man by many residents of Mosstone.
+
+Personality
+Ardreth was mainly interested in his trade and used his magic amulet to read minds, deterring thieves and scammers. However, he also enjoyed little probing of all of his clients as he liked knowing people he dealt with.
+
+Abilities
+Ardreth Ulnshoor possessed all abilities of doppelgangers, and he liked to take on the shape of an illithid to terrify would-be thieves.
+
+Possessions
+Ardreth possessed the ability to read minds, something that spread all sorts of rumors about him throughout the town of Mosstone. In reality, the ability came from his medallion of ESP, the enchanted item he used to detect and track thieves and scammers. He was also armed with blowdarts, dipped in sleeping poison.
+
+History
+It was unknown when or how Ardreth Ulnshoorr came to work for Uncrimmon, the mysterious beholder owner of Uncrimmon's Trophies & Sundries. However, one thing was clear, as per Volothamp Geddarm's research, Ardreth feared his many-eyed employer.
+
+At some point, rumors of Ardreth Ulnshoor being an illithid attracted the attention of local Harpers. The investigation revealed that the shopkeep was, in fact, a doppelganger who was seen shapeshifting into a mind flayer when dealing with thieves. As Ardreth was not doing anything evil, the Harpers left him alone but placed an enchantment on his ESP medallion that allowed them to listen in when the doppelganger was using the item.
+
+Rumors & Legends
+Many Mosstonians believed Ardreth Ulnshoor to be a disguised mind flayer who, on occasion, let the ruse go, exposing his aberrant nature when dealing with thieving customers.
+Appendix
+References
+
+---
+
+## Ardogh Stonegrip
+
+Ardogh Stonegrip was a barbarian who worked at the Dryad's Dreams of Mosstone in Tethyr.
+
+Description
+Ardogh Stonegrip was a mountainous man.
+
+History
+Ardogh was one of the male escorts who worked at Dryad's Dreams in the late 14 century DR. Along with several men and women who offered their services and companionship at the only festhall in Mosstone. Ardogh stood out among his peers for his sheer size and musculature, while his fellow courtesan Chalavon Narthiir was known for his slender build and quick mind.
+
+Appendix
+References
+
+---
+
+## Arth Tembroar
+
+Arth Tembroar was a saddler of the city of Arabel in Cormyr in the mid–14 century DR and a noted supporter of the Lost King Gondegal in his uprising of the .
+
+Activities
+Arth sold saddles out of Tembroar's Fine Saddles on Dalarn Lane in Arabel.
+
+History
+During Gondegal's war, Arth Tembroar was declared an outlaw in a proclamation penned by the Sage Royal Alaphondar on Ches 11, 1352 DR, and was wanted dead or alive by the crown.
+
+Appendix
+References
+
+---
+
+## Arquebus
+
+The arquebus, also known as a hackbut, was a type of firearm.
+
+Description
+An arquebus consisted of a wooden stock and a metal, smooth bore barrel, which often had a hook-like projection on the underside. Where some firearms had a trigger, arquebuses had a curved piece of metal called the "serpentine". This was known as a matchlock firing mechanism.
+
+Arquebuses that came from Lantan typically had the symbol of Gond stamped on the butt of their stock.
+
+Weaponology
+
+An arquebus required both hands to fire, with arms absorbing the recoil, and unlike a musket they didn't require a stand to support their barrel. They were also sturdy enough to be wielded like a club, but they could be damaged in the process.
+
+Arquebuses were loaded by pouring smokepowder from a powderhorn into the muzzle, firmly packing it with a piece of paper, and then ramming in the projectile (an iron ball). Once the barrel was loaded a user needed to fill the firearm's priming pan with smokepowder, close it, and place a burning slow-match within the serpentine. Putting pressure on a metal plate would then release the serpentine into the pan, thereby firing the weapon.
+
+If an arquebus ever backfired it was fouled and couldn't be used further until it was cleaned, a process that could take at least thirty minutes.
+
+Variants
+Blunderbuss a variation of the arquebus that offered more versatility in terms of ammunition.
+Caviler a lighter variation of the arquebus.
+Musket a heavier variation of the arquebus.
+
+History
+On the world of Toril, the arquebus originated on the island nation of Lantan, during the Time of Troubles, after the deity Gond revealed to his followers how to make reasonably safe and accurate firearms that utilized smokepowder. From 1358 DR onwards, the Lantanna priests of Gond (mainly the specialty priests) would work to spread the use of firearms, shipping them to Western ports.
+
+When arquebuses first showed up off of Lantan they were considered mere curios, but after five or so years they became increasingly common. Their increasing prevalence on Toril was due in part to spelljammers bringing in arquebuses from elsewhere. With one source being the Smiths' Coster trading company, who conducted business with the Lantanna, Waterdhavians, and elsewhere.
+
+By 1370 DR, one could purchase arquebuses among other firearms from The Brigadier, a giff gunsmith, in Skullport.
+
+Price
+In the first three years that it was available for purchase outside of Lantan, an arquebus cost roughly 5,000 gold pieces. Through the third to fifth year, as the weapon became more common, the cost lowered to 1,000 gold pieces. Following the fifth year, an arquebus on Toril consistently cost around 500 gold pieces.
+
+Reputation
+Arquebuses were thought by some to be as dangerous to their user as they were their target.
+
+Notable Users of Arquebuses
+Classes
+ Lantanna rogues were noted for their use of the arquebus.
+Groups
+ All giff members of the Mindulgulph Mercenary Company carried arquebuses.
+Individuals
+ On the plane of Acheron, a cambion by the name of Thrao was known to sell arquebuses.
+ The deity Gond was able to instantly summon a fully loaded arquebus whenever he desired.
+
+Races & Sentient Creatures
+ It was not uncommon for giff to carry around an arquebus.
+ Approximately a quarter of any scro fighting force were likely to be armed with arquebuses.
+
+Regions & Settlements
+ In the city of Bezantur, the clergy of the local Temple of Gond were outfitted with arquebuses.
+ The armed forces of city-states in the Blade Kingdoms included troops armed with arquebuses.
+ These weapons rarely saw use in the Domains of Dread, being considered primitive by technologically advanced domains and unreliable by primitive domains.
+
+Religions
+ The arquebus was among the weapons favored by priests of the Church of Gond, as well as the specialty priests known as Gondsmen.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Arrath Darcylon
+
+Arrath Darcylon, known as the Wandering Bard, was an itinerant writer active in Faerûn sometime between the 8 and mid-to-late 14 centuries DR.
+
+Arrath once wrote of encountering a Triadic knight dedicated to Ilmater and marveling at her resilience.
+
+Appendix
+References
+
+---
+
+## Armor of freedom
+
+Armor of freedom was a set of enchanted heavy armor that allowed the wearer to move freely when restrained by magical means.
+
+Powers
+Armor of freedom possessed a +3 enchantment. Additionally, the armor's wearer was under the effects of the freedom spell.
+
+History
+The first armor of freedom was developed by a warrior-priest Archiel after he survived magical imprisonment. Archiel made a vow to himself never to be restrained by spells. He spent years forging armors of freedom for his own use and his companions. Ironically enough, Archiel's life ended being imprisoned with no magics holding him there, apart from ordinary iron chains.
+
+These armors became more common in the late 14 century DR, found in several cities across the Sword Coast, Neverwinter, and the Moonsea region.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights • Neverwinter Nights 2
+
+References
+
+---
+
+## Arik Lorensk
+
+Arik Lorensk was a human barkeeper at the Blood of the Vine tavern in the village of Barovia.
+
+Description
+Arik was a short man with a pudgy body. He spoke in a dull, hollow voice, and looked wary.
+
+Personality
+Arik was quite a quiet man, often ignoring attempts to question him.
+
+History
+At some point in the Blood in the Vine's history, a traveler from late-15 century DR Toril by the name of Volothamp Geddarm came barging into the tavern, having sprinted there on the recommendation of Ezmerelda d'Avenir. While there he struck up a conversation with Arik, who he mistook to be its owner. Arik regaled the man with the layout of the domain Barovia, giving him the names of many notable locations one could find within it. And after Volo informed him that the tavern had been recommended by Ezmerelda, Arik suggested that he seek out a half-elf bard by the name of Rictavio on an island in Lake Baratok.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Arathylar
+
+Arathylar was a priest of Helm and member of Sir Justin Melenikus's watchers at Iniarv's Tower in the mid-to-late 14 century DR.
+
+Appendix
+
+Appearances
+Adventures
+Dungeon #69: "Slave Vats of the Yuan-ti"
+
+References
+
+---
+
+## Artificer (Imaskari)
+
+Imaskari artificers were the mages of the Raurin Empire, or Imaskar. They were known to be haughty, arrogant, and overwhelmingly powerful.
+
+ Lord Artificers and Artificers
+In the year, Emperor Umyatin of Imaskar gave himself the title of Lord Artificer; all emperors would use the same title until the destruction of the Empire in .
+
+The Imaskari were known to have an Artificers' Guild. The guild was active in the facility underneath Maskana, where they studied the powers of unusual creatures. The symbol of the Guild consisted of a crescent and a fox.
+
+ Portal Manipulation
+The longest-lasting legacy of the Imaskari was their extensive use of extradimensional spaces and portals, which had transformed their cities' design almost from the beginning of their empire. Throughout the Early Dynastic period, Imaskari Artificers created the Bukhara Spires, two-way portals which became the foundation of Imaskar's military might: by using them, they were capable of mobilizing entire armies in the blink of an eye.
+
+By, the razing of the kobold city of Zexthandrim was carried out by a combined force of portal golems, which were slow and carried a large portal in their chest, and shepherd golems, which were smaller, faster, and capable of forcing the kobolds through these portals to parts unknown. Sonjar's Tower, which belonged to an artificer who lived through the end of the Empire, had permanent portals to the Inner Planes for things as minor as pond water, ventilation, and even cooking fire. The ancient Fortress of the Old Man in Sentinelspire also had portals to elemental planes for heat and cooling, as well as an outer plane dominated by nature.
+
+ Planar Contacts
+The artificers were aware not just of planes from the Great Wheel, but also some otherwise unknown planes, such as a Dimension of Silence and a Dimension of Darkness, both accessible from portals in the City of Solon. Under the orders of Lord Artificer Khotan, artificers of the Middle Kingdoms period kidnapped the ancestors of the Mulan not only from a different crystal sphere, but across different times, suggesting that the artificers were also capable of creating permanent portals across time. Imaskari wizards were also asiduous users of pacts with extraplanar creatures: both Umyatin and Omanond were often represented as making compacts with demons or strange fey creatures; devas reincarnated from the Mulhorandi as of  sought vengeance on the leShay of Sarifal for having aided in the construction of the portals used to abduct their ancestors.
+
+Combining both aspects of their extraplanar crafts (portals across time, space, and extraplanar entities), the Elder Evil Pandorym was summoned to the Realms near the end of the Imaskar empire, probably under the orders of Lord Yuvaraj. It was said to hail from an entirely different cosmology, and it was capable not only of seeing across thousands of years, but make minute changes across the timeline.
+
+ Antidivine Wards
+Shortly after the plague known as the Silent Death in the late Middle Kingdoms period, The Imaskari had developed an intense scorn for the divine. Artificers created wards aimed at thwarting divine magic through experimentation and torture of druids, priests, shamans, and similar. Those wards were later employed to keep the Mulan slaves' prayers from reaching their gods. The practice of torturing divine spellcasters, however, continued well up until the final collapse of the Empire, almost 2000 years later; Sonjar's Tower had rooms for that purpose.
+
+ Binder Magic
+An ancient arcane Imaskari text, "The Chants of Arcainasyr, as recorded by Macchius the Ebon Flame" held incantations that were worded as hateful littanies of foul destruction, prayers to nameless deities of malevolence. A copy available in the College of Mages of Cimbar circa  was also enciphered with a simple substitution cypher. Per Aeron Morieth's judgement after reading the text, the Imaskari sorcerers had probably bound dark spirits in their own bodies for power; that kind of sorcery was openly employed in the Empire.
+
+ Longevity
+Imaskari wizards were known to extend their lives through sorcery. Lord Artificer Omanond ruled for a minimum of 700 years between  and . Kujawa, another artificer and later Emperor of the successor state of Anok-Imaskar, ruled between  and . Hilather, another wizard, lived from Omanond's reign to the end of the Empire, and then for more than a millenium as Halaster Blackcloak. The artificer Yaravindar Ipurnos had accomplished the same feat.
+
+ Monsters
+Imaskari artificers were the original creators of shadesteel golems. They were also rumored to have created many other creatures, such as locathah, morkoth, kuo-toa, and even the Scalamagdrion. Per some sources, the Imaskari had created the phaerimm, though the aberrations were known to have battled the Sarrukh as early as, tens of millenia before the Imaskari empire began. Rumours abounded of an imaskari scepter capable of summoning star spawnNote that at the time of publishing Dragons of Faerun, 2006, the Monster Manual with star spawn had not been published yet and would not be until 2009, in a different edition. A vestige featured in a web enhancement, Zceryll, was also referred to as the Star-Spawn. In the absence of later references to the same artifact, it remains somewhat ambiguous whether the scepter was meant to summon them. hidden somewhere in a ruin in Unther, which they created hoping to eventually summon aberrant forms of dragons; the Cult of the Dragon and the faithful of Tiamat both sought this scepter. Sages from Unthalass theorized that the realm to which this scepter connected had creatures similar to aboleths and mind flayers.
+
+ Earth Magic
+The Imaskari were aware of earth nodes. Sonjar's Tower was built inside an earth node to better take advantage of its powers; Deep Imaskar was built in a cave sought specifically for the strength of its faerzress.
+
+The portals in the Fortress of the Old Man were also believed to be capable of altering the behaviour of the volcano, Sentinelspire, beneath; it was possible to manipulate those enchantments into causing tremors. In Solon, an ancient temple bore portals to the planes of Ash, Vacuum, and Ice, where artifacts capable of triggering a volcanic eruption were hidden.
+
+ Trivia
+A small number of spells presumed to have been created by Netherese arcanists had actually been known by artificers for some time before. Excavations in Solon had chances to unearth scrolls of mass gaseous form, audible glamer and even continual light. Variant forms of mantle magic had been known since the time of the Imaskari.
+
+ Known Artificers
+Imre
+Umyatin
+Khotan
+Omanond
+Madryoch
+Hilather
+Sonjar
+Yuvaraj
+Mardava
+Ondbiras
+Yaravindar Ipurnos
+Kujawa
+
+Appendix
+Notes
+
+References
+
+---
+
+## Ardasir al-Darah
+
+Sheikh Ardasir al-Darah, also called the Incomparable, was a leader among the Jann of the Haunted Lands in the Burning Lands of interior Zakhara in 1367 DR.
+
+Description
+Ardasir stood  tall and appeared like a majestic Zakharan. He had dark hair and the distinctive pointed ears of his kind. His skin was tanned until it was almost black from long exposure to the harsh desert sun. He had piercing blue eyes that almost sparkled when he was excited. Ardasir wore dark robes typical of the al-Badia with the hopes of appearing as a large human or ogre at a distance.
+
+Personality
+The sheikh often displayed extreme arrogance about his own importance, perhaps because of a vision he received. He was well known for his generosty and hospitality, though he was prone to insult and the erratic behavior common to jann.
+
+History
+Ardasir experienced a powerful vision after drinking from the Well of Destiny in the Weeping Desert. The vision showed him as Amir of all jann of the Haunted Lands, ruling from an elegant throne adorned with peacocks. Spirits within the desert informed him this was the legendary Peacock Throne of Moradask. The throne was known to have been separated into 15 pieces, and Ardasir only believed he would become Amir after fully reassembling the throne. He had but a single piece as of 1367 DR.
+
+Possessions
+Sheikh Ardasir carried a gold-hilted enchanted great scimitar named Final Arbiter, an enchanted longbow named Steel Rain, a gem of seeing, potions of dreaming, treasure finding, and clairaudience. He wore gilded lamellar armor and electrum bracers carved lions.
+
+Relationships
+The shiekh's favorite concubine was a tasked artist genie named Safia. Ardasir's uncle was Amir Heidar Qan, the ruler of the jann of the Haunted Lands. Since Heidar disappeared decades ago, Ardasir began amassing favors among the other sheiks of the jann with the plan to assume outright rule over them.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Armor of the Wolf
+
+Armor of the Wolf was a type of light armor created out of a simple wolf hide and enchanted using the animal's spirit.
+
+Powers
+These sets of armor were crafted and enchanted by the most masterful artisans of the Realms. Unlike regular wolf hide armor that offered little protection, armor of the Wolf held a +3 enchantment. When imbued with the animal spirit, these armors gained enchantments that improved the wearer's ability to move silently and granted them potent protection against shapechangers' attacks, including lycanthropes, doppelganger, and many other dangerous monsters.
+
+History
+Historically, armors of the Wolf were prized among the many beast-worshiping cults across the lands. By the late 14 century DR, several sets of these hides could be found in the Sword Coast region and in the city of Hillsfar, Moonsea.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights • Neverwinter Nights 2 • Neverwinter Nights: Tyrants of the Moonsea)
+
+References
+
+---
+
+## Armridge Mountains
+
+The Armridge Mountains, also known as the Ushar Mountains,This alternative name seems to appear only in The Great Glacier (1992), so it could be reasonably inferred that this is the Armridge Mounatins' name in the Ulutiun language. were a mountain range in Sossal near the border with the Great Glacier.
+
+Geography
+The Armridge Mountains sat in the west of Sossal just outside the eastern edge of the Great Glacier, and lay due northeast of the Glacier's Novularond Mountains.
+
+The Sossrim settlements of Uldfest and Shannath lay between the mountains' eastern edges and the Angsaas Chain, while the settlement of Dharvil lay on the southeastern side. A road heading east from Dharvil connected these settlements to Sundice and then beyond to Naupau on the coast, while a trail known as "The Reach" heading south from Uldfast connected them to the Great Glacier and then beyond to far off Vaasa.
+
+The Forrok Stream originated in the southeastern corner of the mountains and flowed west into the Glacier.
+
+History
+The Armridge Mountains were settled in  by a clan of Rashemi explorers and traders. They were led by a warrior named Soss, and would come to be known as the first of the Sossrim.
+
+The Sossrim of the Armridge Mountains came under attack from an invading force of frost giants in the, and drove them off with aid from the empire of Raumathar. This event led to the area's Sossrim swearing fealty to Raumanthar, although that empire would crumble a century and a half later.
+
+In the, the Sossrim clans were united under the first king of Sossal, Ylaethar "The Bear."
+
+Notable Locations
+ Dharvil
+ Shannath
+ Uldfest
+
+Appendix
+Notes
+
+References
+
+---
+
+## Armor of shadows
+
+The armor of shadows was a unique set of enchanted leather armor that belonged to Erik Sliphand, an ancient decorated hero of Myth Drannor.
+
+Description
+Erik's armor of shadows was a set of darkened leathers.
+
+Powers
+This armor held a +3 enchantment and increased speed and reactions of its wearer. Additionally, the armor of shadows granted its users resistance to spells, spell-like abilities and effects.
+
+History
+Long before the fall of Myth Drannor in the Weeping War, the Elven Catacombs deep underneath Castle Cormanthor. Erik Sliphand was one of the ancient heroes interred within one of the crypts within the catacombs. In 1369 DR, the armor of shadows was still within its original owner's sarcophagus. Erik's spirit, along with several other heroes' in the same crypt, was still trapped inside the ruined city and corrupted by the magics of the Weeping War. If the armor of shadows were to be removed from the sarcophagus, Erik Sliphand's wraith was there to punish the grave-robbers.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Armor of command
+
+Armor of command were enchanted sets of impressive and beautiful medium armor often worn by nobility and military leaders.
+
+Powers
+Armor of command was imbued with a +3 enchantment. The potent magic of these sets surrounded the wearer with an aura of influence and admiration, increasing their charisma and persuasiveness.
+
+History
+Throughout history, these sets of armor were highly sought after by accomplished and aspiring generals. One notable incident that involved an armor of command happened at the Battle of Moregrade when an unlucky sycophant was granted command of an army just because they wore this beautiful enchanted armor.
+
+These armors became more common in the late 14 century DR, found in several cities across the Sword Coast, Neverwinter. One set of armor of command could be found in catacombs underneath Voonlar in the Moonsea region circa 1373 DR.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights • Neverwinter Nights 2 • Neverwinter Nights: Tyrants of the Moonsea)
+
+References
+
+---
+
+## Archaic device
+
+An unnamed archaic device was a rune arm kept at the Temple of Mystra in King's Forest.
+
+Description
+The archaic device was made out of some kind of gemstone.
+
+Powers
+By absorbing some incoming elemental damage, the archaic device could convert that energy into blasts of force. This energy additionally energized the wielder's other weapons, allowing them to deal extra force-based damage.
+
+Wielding the archaic device also boosted the effectiveness of casting spells and deflecting attacks.
+
+History
+The archaic device was stored alongside an ancient gemstone at the Temple of Mystra at some point before the deity's death and the Spellplague of the . The temple quickly became abandoned.
+
+In the mid-1480s DR, after Ana Brabener was rescued by adventurers from the slavers Eldrin Szind, Odezzt Avithoul and Phargred Avithoul, the archaic device was taken from the temple.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Arc welder
+
+Arc welders were prototype dwarven tools intended for welding metal using electricity, but in the hands of an artificer they functioned similarly to Eberronian rune arms. Several of these novel devices could be found in the dwarven city of Tethyamar on Faerûn.
+
+Description
+
+Arc welders consisted of a main device and separate power-supply materials that connected to a slot on the back. Many safety precautions were recommended when operating arc welders, including but not limited to avoiding looking directly into the aperture, not pointing the welder at non-metal apparatuses while powered, keeping the device out of water, not attempting to disassemble the device or power-supply materials, and wearing safety goggles when operating the welder.
+
+Powers
+Depending on if it was a short- or long-range variant, arc welders could either discharge a wide field or a single long beam of electricity, with the power building up over time. In addition, in the hands of an artificer the device passively increased the potency of their electricity-based spells and made their other weapons more deadly, including electrifying them. It also made it easier to stun, trip, and pierce the armor of an opponent.
+
+History
+Prototype arc welders were found in and around the mines of Tethyamar in the, during Hal Stoutheart's expedition to the mines of Tethyamar. A long-range welder could be found in Mineshaft 214S with the mad dwarf Egil Hakon, while a short-range welder was in the possession of the drider slaver Phy'xzar at a drow camp.
+
+Appendix
+See Also
+ Scaladar
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Aranah al-Mursal
+
+Aranah al-Mursal was a moralist priest inhabiting Talab in the Pantheist League of interior Zakhara in 1367 DR.
+
+Personality
+Aranah was scholarly and quiet.
+
+Activities
+Aranah was Caliph Kia al-Sadid's chief assistant. She served as his scribe, record-keeper and librarian. Her duties included oversight of all trade documentation of both goods and slaves, as well as inspecting outpost forts. She often visited Hilm on official business to represent Talab.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Archaeus
+
+Archaeus were a variety of fish found in the Sea of Moving Ice, most often around Icecrag Island.
+
+History
+Archaeological evidence conducted in the Present Age found that this creature, or at least one similar to it, had been around on Toril ever since prehistoric times. Because of this, scholars often referred to the archaeus as a "living fossil."
+
+Appendix
+Appearances
+Video Games
+
+External Links
+
+References
+
+---
+
+## Arafaj
+
+Arafaj were enchanted aquatic plants that grew on the surface of the Burning Pool of Natifa in the High Desert of west Zakhara.
+
+Description
+These lanky plants resembled bundles of dry grass. Arafaj completely covered the surface water of the Burning Pool of Natifa. The plants burned continuously so long as they remained in contact with the pool regardless of weather conditions. Their illumination could be seen as far as  away.
+
+Appendix
+References
+
+---
+
+## Art of Necromancy
+
+The Art of Necromancy was a tome penned by Kazerabet, the Angel of the Dark.
+
+Description
+The Art of Necromancy was a heavy tome.
+
+History
+Within this volume Kazerabet detailed her research within the art of necromancy covering nearly two centuries of study. The tome contained spells focused on necromancy and a list of undead complete with their strengths and weaknesses. Detailed information regarding dark and powerful magic items was covered in the book, including the secret method for recharging the unique handglyphs used by the ancient geomancers of Nog and Kadar. The tome also served as a history of the Necromancer Kings of Sahu.
+
+The Art of Necromancy also contained a complete dictionary for the Kadari language.
+
+Magic items covered within the Art of Necromancy included:
+ Handglyphs of power
+ Amulet of terror
+ Horn of the exalted dead
+ Nether scarab
+
+Appendix
+References
+
+---
+
+## Arglas Duskeldarr
+
+Arglas Duskeldarr was a Highknight of Cormyr and King Azoun Obarskyr's IV cellarer, active circa 1348 DR.
+
+Relationships
+Arglas Duskeldarr was attracted to his fellow Highknight Malustra Thaurant‎‎ and often had to drown his feelings in the King's bottles and decanters.
+
+History
+Arglas Duskeldarr's main function was serving as the King's cellarer, personally tasting every bottle, every drink, and every decanter that was to reach the ruler's lips to ensure his safety. He often worked closely with Malustra Thaurant‎‎, under the direct orders of Vangerdahast Aeiulvana, the Royal Court Wizard of Cormyr. The duo were tasked with taking acre of adventurers favored by the King, who turned to treason and proved to be danger to the throne. Together they disposed of about half a dozen individuals, often via poison and subterfuge.
+
+Appendix
+Appearances
+Novels
+Swords of Eveningstar
+References
+
+---
+
+## Arnagus the Shipwright's residence
+
+This was a large shipbuilding shed owned by Arnagus the Shipwright in the Dock Ward of Waterdeep.
+
+Location
+This shed stood along Dock Street, facing Deepwater Harbor. It was situated to the left of the the Full Sails guildhall and across the street from the Mermaid's Arms.
+
+Structure
+This structure stood three stories tall, had white walls and a red roof, and out front of it a slipway for ships ran from the shed down into the harbor.
+
+Activities
+In addition to being the shed where Arnagus's shipbuilding business was conducted, which were some of the finest ships to sail the Sword Coast, it acted as his place of residence. Arnagus was unwelcoming of visitors as he feared sabotage or someone setting the place on fire.
+
+People often went to the docks to peer in at the work going on inside and the launching of ships drew large crowds.
+
+History
+In the mid 14 century DR, this shed was considered to be among the largest privately owned buildings in Waterdeep.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Artur
+
+Artur was an elderly brown bear in Marigold's Menagerie in the mid-14 century DR.
+
+Behavior
+In his old age Artur was a rather lazy creature.
+
+History
+Artur spent most of his life as the animal companion to a druid. When his druid eventually died he was taken in by Marigold Mufflefoot and given a permanent home at Marigold's Menagerie, for he knew that simply letting the aged bear return to the wild would surely spell its death. Whenever Marigold could manage to get Artur outside to exercise, it always attracted a crowd.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arvend Chisolm
+
+Arvend Chisolm was a mercenary living somewhere in Faerûn in the mid–14 century DR.
+
+Relationships
+He was the husband of Jemima Chisolm and the father of Derek, Allison, and Karl.
+
+History
+Arvend had a habit of getting drunk, until finally this led him to inadvertently kill a noble, some time in the 1350s DR. For his crime, he was executed and all the family's belongings seized. Destitute and ashamed, Jemima and the children departed to build a new life in Ravens Bluff in the Vast.
+
+Appendix
+References
+
+---
+
+## Aroma of dreams
+
+Aroma of dreams was a type of magical, aromatic oil with a sleeping effect.
+
+Powers
+When a dose of this oil was worn, any creature that came within  of the wearer would fall into a magical slumbere for 5 to 8 minutes.
+
+The magical effect of an application of this aroma remained potent for around three to twelve minutes, after which time it would evaporate from the wearer.
+
+Availability
+ The Dancing Maiden in Westgate, run by the mage Chalaratha, was said to create aroma of dreams upon request for a hefty commission.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Armory of Waterdeep
+
+This building was the armory of the City Guard in Waterdeep.
+
+Location
+The armory stood along Trollkill Street in the Sea Ward, south of North Tower and the Sated Satyr.
+
+Structure
+This structure stood three stories tall and was directly connected to the city walls that separated Sea Ward from the Field Ward.
+
+Activities
+Though this armory was primarily under the purview of the City Guard, the City Watch also had access to it.
+
+Appendix
+References
+
+---
+
+## Arazium
+
+Arazium was a solar celestial from the world of Oerth and one of the opponents of the hero-turned death knight - Scaldulin.
+
+History
+Sages of Toril knew about some of Scaldulin's feats and heroics on a distant world of Greyhawk, including the hero's fall and transformation into a death knight. In the process of his fall from grace, Scaldulin slew Arazium using his enchanted sword that was especially effective against planar opponents. Eventually, the Hoarfrost Blade left the death knight's hands and ended on on the world of Toril.
+
+Appendix
+Appearances
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Arleenaya Kithmaer
+
+First Arleenaya Kithmaer was the High Priestess in the House of the High One Ascendant in the .
+
+Activities
+Arleenaya oversaw the other priests and followers within this large temple complex located in the Lhairghal Mountains.
+
+Appendix
+
+References
+
+---
+
+## Argûl Marammas
+
+Argûl Marammas was a wizard of note inhabiting Suzail in the mid-to-late 14 century DR.
+
+Personality
+Argûl was a soft-spoken and patronizing man. He thought most people fools and cattle, especially warrior brutes. He shared no love for wizardly organizations like the Red Wizards of Thay, thinking the attempts to kill and dominate were a waste of energy. The wizard's main drive behind his research was financing his expensive tastes in exotic seafood dishes, decadent sauces, and wines.
+
+Activities
+Argul earned a living by selling magical scrolls at a stiff price. A single scroll penned to order by Argûl could contain up to three spells, and the service was valued at 5,000 gold pieces. His scholarly research made Argûl an expert on the planes of existence, while his arcane specialization was in spells that offered protection and concealment.
+
+History
+By the late 14 century DR, Argûl's collection of scrolls was so sizable its extent was not known to the wizard himself. He eagerly interviewed those who traveled the planes to aid in further research.
+
+Appendix
+References
+
+---
+
+## Armor of fleetness
+
+Armors of fleetness were enchanted leathers that granted the wearer unnatural speed.
+
+Powers
+These sets of light armor held a potent +3 enchantment  as well as allowed the wearer to magically haste themselves. An average armor of fleetness held fifty charges of the speedy spell.
+
+History
+Possibly the most notorious owner of an armor of fleetness was a poor rogue named Cromback. The thief was always seen wearing his magical leathers and used its magic quite often, fleeing from angry victims of his poor pickpocketing skills. However, the armor's magic did not save Cromback whom a victim who carried a bow.
+
+By 1372 DR, several sets of these enchanted armors could be found on the Sword Coast as well as in the Moonsea region.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights • Neverwinter Nights 2 • Neverwinter Nights: Tyrants of the Moonsea)
+
+References
+
+---
+
+## Argosh
+
+King Argosh, who was nicknamed the Scaled, was the half-fiend ruler of Impiltur for several years in the 8 century DR.
+
+Relationships
+Argosh was the son of Duke Errendil Tarrik, a prominent noble of Impiltur and secretly a fiend worshiper. Argosh was the direct result of a dalliance between his father and an other-wordly being.
+
+Activities
+Argosh claimed the throne of the kingdom after the death of King Forvar II in the . He held the throne for several years until the, when he was slain during the Fiend Wars.
+
+Appendix
+References
+
+---
+
+## Arthauld Crell
+
+Arthauld Crell, who was also called Arthauld the Accursed, was a Nentyarch of Narfell during the time of the Crell Dynasty.
+
+Activities
+Arthauld ruled Narfell from -890 DR to -843 DR.
+
+Relationships
+Arthauld was the second son of Nentyarch Derevan Crell. It remained unclear what happened to Arthauld's older brother. Arthauld himself had only one son named Belevan.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Arvoreen's amulet of aid
+
+Arvoreen's amulets of aid were amulets imbued with Arvoreen's benevolent divine magics.
+
+Description
+These amulets were golden disks  in diameter with the holy symbol of Arvoreen the Defender inlaid in platinum.
+
+Powers
+Arvoreen's amulets of aid held six charges of the aid spell. While more powerful exemplars also could cast the dimension door spell. Usage of each spell expended certain number of charges, aid - one, while dimension door - three. Due to the divine nature of these necklaces, they could only be used by creatures who did not venerate evil. If an evil being attempted to wear one of these amulets, they suffered a wave of weakness as if covered in negative energy. This weakness could not be alleviated by any means apart from discarding the amulet. If the wearer of Arvoreen's amulets of aid ever attacked a goodly halfling, the necklace immodestly crumbled into dust.
+
+Creation
+Arvoreen's amulets of aid could only be created by proficient hin wondrous item crafters. During the crafting process, the halfling needed to use aid and dimension door spells.
+
+History
+These goodly magical items gained popularity in the late 14 century DR and could be found invidious cities across the Sword Coast, not necessarily worn by halflings.
+
+In 1372 DR, one of these amulets belonged to a planar-traveling wizard and merchant of the magical trinkets named Vejoni H. Wyzz‎‎ who pitched his pocket plane tent outside the town of Liam's Hold.
+
+Notable Owners
+Daeghun Farlong, an ex-adventurer and the father of Kalach-Cha, the Knight-Commander of Crossroad Keep.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights: Shadows of Undrentide • Neverwinter Nights 2 • ''Neverwinter Nights: Darkness over Daggerford)
+
+References
+
+---
+
+## Arkhan (title)
+
+The Arkhan was the traditional title for the ruling monarch of Raumathar.
+
+History
+The first individual to hold the title of Arkhan was Umathar I after he united the various tribes of Raumathar and began the rule of the Nhalass Dynasty.
+
+List of Arkhans
+ Umathar I
+ Umathar II
+ Umathar III
+ Umathar IV
+ Darthen I
+ Shendar
+ Darthen II
+ Umathar V
+ Rhendar I
+ Darthen III
+ Umathar VI
+ Rhendar II
+ Tharen
+ Sharath
+
+Appendix
+References
+
+---
+
+## Arrowmark
+
+Arrowmark was hamlet that was renowned for its skilled fletchers and bow-makers.
+
+Description
+Arrowmark was a small and exceptionally quiet tassel. It was so unassuming that many Tassadrans did not even know the hamlet existed. Arrowmark was composed of cottages built along a very straight main road, built in the shade of the large trees found in the area.
+
+Geography
+Arrowmark was located in Tasseldale, to the northeast of Archtassel.
+
+Economy
+Arrowmark, despite it's sleepy reputation, was famous for the quality of the arrows and bows produced by the locals. An arrow from Arrowmark was always marked with small spiral that held a heart with an arrow piercing it. This mark was made near the tip of the shaft. The bowyers and fletchers of Arrowmark tended to test their new arrows and bows on the main street of the hamlet, taking advantage of its straightness. A sounding of three chimes warned of an upcoming test.
+
+Rumors & Legends
+Arrowmark was also home to who is likely the most famous ghosts in the Dalelands: the Gray Lady.
+
+Notable locations
+ I Shot an Arrow
+ The Old Archer's Eye
+ The Sheathed Dagger
+ The Stag That Got Away
+
+Appendix
+References
+
+---
+
+## Arbitrators of the Quiet One
+
+The Arbitrators of the Quiet One was a group of peaceful men and women devoted to Eldath, the Goddess of Singing Waters.
+
+Activities
+Members of this group traveled to war-torn areas to serve as neutral mediators with the hope of reaching peaceful agreements between all parties involved. They attempted to get to the very heart of each conflict in order to prevent history from repeating itself.
+
+Appendix
+References
+
+---
+
+## Arvyn Umbryl
+
+Arvyn Umbryl was the proprietor of the Smiling Satyr tavern outside Loudwater in the Delimbiyr Vale in the mid-to-late 14 century DR.
+
+Description
+Circa the 1370s DR, Arvyn Umbryl appeared to be a strong and muscular man of average height who was starting to grow a belly. His shoulder-length hair was starting to grey and his face was always clean-shaven. He had icy blue eyes and hooked nose. Diagonally across Arvyn's left forearm stretched a scar from his old adventuring days.
+
+Arvyn's usual garb included thick heavy boots, leather beeches, and open pirate's shirt. When he was at the Smiling Satyr, Arvyn wore a leather apron. He hid a knife and a dagger tucked away in each of his boots.
+
+Personality
+He was a warm and pleasant man who spoke in gravelly voice.
+
+Possessions
+Arvyn owned the Smiling Satyr tavern, the hill it stood on, and the two fields on either side, which he allowed to be used as campsites. Among the antique weapons, broken shields, skulls of monsters, and other trophies of adventures past on the walls, behind the bar were two crossed magic battleaxes of dancing. Arvyn, and only Arvyn, could command these to animate to defend himself and his staff.
+
+History
+Arvyn was a retired adventurer, but his accomplishments, if any, were unknown to the likes of Volo. Regardless, he was running the Smiling Satyr by 1365 DR and through 1370 DR, alongside his quiet wife Marra Umbryl who ran the establishment's kitchen. Their three daughters Dauntra, Shammarra, and impish Lantrue ran business errands, tended to guests' horses, and helped with the business.
+
+Relationships
+He had a descendant in the person of Gharwin Umbryl, who ran the Smiling Satyr in the late 1480s DR.
+
+Appendix
+References
+
+---
+
+## Arnaglym
+
+Arnaglym was a mage of Arrabar in Chondath some time before the mid–14 century DR and infamous for cruelty and destructiveness.
+
+Arnaglym once hurled a fireball at the wielder of a sword that happened to be occupied by Eldenser, the Worm Who Hides in Blades. Eldenser reflected the fireball back and it ignited vast, old, and very dry tapestries hanging from a huge hammerbeam ceiling under which Arnaglym was standing at the time. The resulting raging fire led to Arnaglym's death.
+
+Appendix
+References
+
+---
+
+## Arrow of dispelling
+
+Arrows of dispelling were enchanted arrows that were especially useful when used against spellcasters.
+
+Powers
+Even though their magic did not deal additional damage, arrows of dispelling possessed an invaluable enchantment that dispelled any magics that were in effect on the target.
+
+History
+By the mid and late 14 century DR, arrows of dispelling were used across the Sword Coast. Halbazzer Drin of Sorcerous Sundries carried arrows of dispelling in stock in Baldur's Gate.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate series (Baldur's Gate • Baldur's Gate II: Shadows of Amn • Baldur's Gate II: Throne of Bhaal)
+
+References
+
+---
+
+## Arbold Tethyr
+
+Arbold Tethyr was a wainwright and businessman who lived in the village of Eveningstar during the late 14 century DR.
+
+Description
+He was quite fat and greedy.
+
+Activities
+Arbold ran the Old Boot, a wagon repair and harness shop that was located near the center of Eveningstar across the street from the Market Square. He also owned Tethyr Hardware and Tethyr's Court, but let his three daughters run the store while his wife ran the rooming house.
+
+Appendix
+Further Reading
+
+References
+
+---
+
+## Arrow of petrification
+
+Arrows of petrification were enchanted arrows that could turn their targets to stone.
+
+Powers
+Upon impact, arrows of petrification acted as a powerful version of the flesh to stone spell, petrifying creatures vulnerable to such magics.
+
+History
+These enchanted arrows were famously wielded by Bliney Granter, a renowned basilisk hunter. He shot the missiles at his prey to either slow them down or petrify them, then finishing them up close with the Shattermaster, his enchanted hammer. Bliney Granter's career ended ironically, when he accidentally pricked his finger on an arrow of petrification. His petrified remains were later proudly displayed in the Granter widow's manor courtyard.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights: Hordes of the Underdark • Neverwinter Nights: Tyrants of the Moonsea)
+
+References
+
+---
+
+## Arabella
+
+Arabella was a tiefling child who traveled among a group of refugees across the Western Heartlands during the late 15 century DR.
+
+Relationships
+Arabella was the daughter of Locke and Komira. She was also a member of the children's thief network led by Mol.
+
+History
+Like other tieflings in Elturel, Arabella and her family were exiled from the city following its descent down to the plane of Avernus in the . Following the lead of Zevlor, the tiefling refugees trekked west along the Risen Road towards Baldur's Gate, but were forced to seek shelter with the druids at the Emerald Grove when goblins threatened their safety.
+
+Growing weary of their cohabitation with the tieflings, the druids of the grove led by Kagha began the ritual known as the Rite of Thorns, sealing their home away from the surrounding Heartlands. The acting lead druid planned to eject the tieflings from Emerald Grove, subjecting them to a second exile. Taking matters into their own hands, the tiefling children arranged for Arabella to steal the idol of Silvanus from the druids, temporarily halting their ritual.
+
+Kagha became aware of Arabella as the guilty party, recovered the idol, and openly interrogated her in front of her fellow druids. She had her viper Teela threaten the child, ready to execute Arabella on the spot as her parents looked on helplessly if no others intervened. It is unknown if Arabella survived the incident or not. If Arabelle had perished after being bitten by Kagha's viper, and depending on the outcome of events surrounding the grove, Komira would poison Kagha's wine at a later celebration, incapacitating Kagha and leaving her at the mercy of her dagger.
+
+During the tieflings' subsequent exodus from Emerald Grove, they were forced to travel through the Shadow-cursed Lands to reach Baldur's Gate. Arabella's parents were murdered at the hands of one Malus Thorm, the undead surgeon of the House of Healing in Reithwin. If Arabella still lived, then she was separated from them during the journey, and when found had developed sorcerous powers shadowy in origin. If rescued, she would brief enjoy the company of Withers, who comforted her about the death of her parents.
+
+Appendix
+Gallery
+
+Appearances
+Video Games
+ Baldur's Gate III
+External links
+
+References
+
+Connections
+
+---
+
+## Arrow mind
+
+Arrow mind was a simple spell that aided an archer in close combat.
+
+Effects
+The spell worked in conjunction with a weapon that shot arrows, such as a bow. The spell gave the caster greater focus and coordination with their bow, allowing them to opportunistically shoot targets who had moments of distraction while engaged in melee combat with the bow-user. It also gave the caster the ability to nimbly shoot their bow while engaged in close combat, without themselves provoking a reactive attack from an enemy seeking to take advantage of their normally awkward weapon.
+
+Components
+In addition to verbal and somatic components, this spell required a material component, an arrowhead made from flint.
+
+Appendix
+References
+
+---
+
+## Araksa
+
+Araksa was a small island located off of the eastern coast of Evermeet on the Trackless Sea.
+
+Geography
+Araksa sat roughly  due east of the coastal town of Taltempla, or  northeast of the island of Sumbrar.
+
+Description
+Of the satellite islands surrounding the elven homeland of Evermeet, Araksa was by far the smallest.
+
+Appendix
+References
+
+fr:Araska
+
+---
+
+## Arches of Xenosi
+
+The Arches of Xenosi were a ruined path, lined with great arches. They were near the southern end of the Rawlinswood.
+
+Description
+The arches framed a tree-lined corridor, which had similar arches every approximately forty or fifty feet; the trees often encroached in the space between the arches, which were themselves covered in ivy and other greenery. Near the entrance, a verdant mist blocked sight further than the approximate distance between arches, also muffling sound. Further along the path, visibility continued to deteriorate, and the forest intruded further into the space lined by the arches.
+
+History
+In, the Talontar blightlord Anammelech ambushed Marrec's party at the entrance of the Arches of Xenosi.
+
+Appendix
+Appearances
+Novels
+Lady of Poison
+
+References
+
+---
+
+## Araithe
+
+Araithe was the leShay prince and war leader of Sarifal on the island of Gwynneth in the Moonshae Isles as of the late 15 century DR.
+
+Description
+As a leShay, Araithe was pale (almost appearing albino) and ageless. He and had an almost predatory and grotesque beauty, with gray-hair and a calm face with a placid smile. He was about medium-height (maybe a bit taller). He spoke with a low voice.
+
+Following a terrible injury inflicted by a wereboar, his right arm was replaced by a delicate golden prosthetic with elegant, clockwork fingers. He was prone to dress in a manner that was both inappropriate for fighting and generally ugly: he wore a tasseled codpiece, soft leather boots and gloves, purple moleskin trousers, and an open linen shirt or dublet, sometimes topped by a long velvet cloak or a velvet hat.
+
+Personality
+
+Araithe was not clever, but he was a pragmatist. He strove to appear calm and reserved, only allowing himself the most minor expressions of anger, however he was also proud, callous, and prone to petulance and violence when he felt slighted.
+
+While he could be gracious and welcoming, he was quick to deceive, betray, and threaten when it suited him. He was contemptuous of those he deemed lesser than himself, and displayed no interest or ability to intuit the emotions of such people or creatures. He wore a self-satisfied smile in the midst of combat with lesser enemies.
+
+Abilities
+Araithe wielded illusions that were particularly potent against intelligent creatures, and would weave psychic barriers around himself to deter his attackers. He had the ability to alter perceptions (such as by appearing to take away the light in a room), to slow the thoughts and stall the actions of those in his presence, to force his attackers to grovel and crawl, and even to take control of others to have them fight for him.
+
+He could halt projectiles fired at him, making them slow and stop as if the air was too viscous for them to move forward. He could also summon and control fey creatures to do his bidding.
+
+Activities
+He handled most of the daily governmental functions of running Sarifal and its capital city of Karador, which he did on behalf of his mother, the High Lady Ordalf. He was also responsible for leading Sarifal's forces in its wars, and most notably fought to protect the realm from the unseelie fey issuing forth from Citadel Umbra in the Winterglen forest. His fey troops were considered the champions of Sarifal, although he himself was regarded by many as a tyrant.
+
+Relationships
+
+Araithe was the son of Sarifal's ruler, the High Lady Ordalf, with whom he was close and fiercely protective despite their often hostile relationship. His family was obsessed with the purity of their bloodline, and as such, Araithe's grandfather was also his father, making him half-brother to his own mother. He and his mother subsequently had a son of their own, although he died a few days following his birth. Prior to this, Araithe had desired to have a child with his grandmother, Princess Callia, but she rejected him. When he discovered that she had instead had a daughter with an elf, he killed her and her lover in a jealous rage, and he then turned his desires toward grooming her daughter and his new aunt, Amaranth, into a future mate.
+
+As of, there was a possibility of an arranged marriage between Araithe and Princess Tarilyn Kendrick of Callidyrr. Though Araithe showed no interest in a romantic relationship nor in the princess herself, he understood how such a union could both strengthen Sarifal against the many dangers it faced and perhaps position it to expand beyond the borders of Gwynneth. He thus invited Tarilyn to live as his guest in Karador.
+
+History
+Araithe was thousands of years old by the time he arrived from the Feywild onto Gwynneth alongside his mother in the . He soon was leading a century-long war against the humans of the Moonshaes that began with the conquest of Corwell and the expulsion of the humans from Gwynneth. While he questioned his mother's true reasons for returning to the Material plane, he had no time for doubts as his mind remained occupied with fighting both the humans and the dark fey of Winterglen.
+
+Beginning in the early 15 century DR, Araithe's tyrannical and monstrous tendencies began to lose him the support of the Llewyrr and eladrin of Sarifal, and over the next six decades, fewer and fewer deigned to follow him. This led him to make use of human slaves and to make empty promises to the drow beneath Gwynneth in order to secure them as a private army. He also orchestrated the capture of a fomorian princess named Marabaldia in the late 1460s DR, and held her for ten years as he extracted concessions from her people relating to the Pact of Eschatos, which allowed him to add cyclopes to his retinue. When Marabaldia escaped her captivity in the late 1470s DR, one of her fellow escapees, the lycanthrope Poke, subverted Araithe's illusions and destroyed his right arm, leading him to have it replaced with a prosthetic.
+
+That same Spring, Araithe's aunt, Amaranth, returned to Gwynneth after having vanished as a child a decade prior. While he invited her to stay with him, his mother—who wished Amaranth dead—intervened and attempted to humiliate them both, leading to an altercation between mother and son. Amaranth then fled to join Araithe's discontented subjects in Synnoria, but was pursued by Araithe and his army of drow and eladrin. She ultimately chose to parlay with him to secure the escape of her friend, Captain Lukas, and his allies.
+
+For some time, Araithe held Citadel Umbra and used it as his base. As of 1479 DR, the Citadel was held by unseelie fey led by Urphania, and Araithe's forces had fought to a stalemate against them within Winterglen. At the same time, he was engaged in negotiations with King Derid Kendrick of Callidyrr as they both sought to strengthen their realms through alliance.
+
+By, Araithe was known to waive Sarifal's usual policy of isolationism to recruit adventurers from across the Strait of Alaron to aid him in his struggle in Winterglen.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Arrowsar Apartments
+
+The Arrowsar Appartments was a rather ornate, rental complex in the city of Waterdeep in the late 14 century DR.
+
+Location
+This building was located along Snail Street, in the Dock Ward of Waterdeep.
+
+History
+The Arrowsar Apartments were constructed sometime after 1367 DR, atop the site once occupied by the Heartflame festhall, following the latter being burnt to the ground on the Night of Pirates.
+
+Appendix
+References
+
+---
+
+## Arfinnsheim
+
+Arfinnsheim was a small village located on the island of Norland within the Moonshae Isles.
+
+Geography
+The village was located along the windward side of the southern end of the North Jotunhammer Mountains near central Norland. Fierce storms rolling in off the Trackless Sea were common in Arfinnsheim given its lack of natural protection.
+
+Appendix
+References
+
+---
+
+## Arndtbergom
+
+Arndtbergom was a small village located on the island of Norland within the Moonshae Isles.
+
+Geography
+The village was located along Norland's western coast with the Trackless Sea near the northern foothills of the South Jotunhammer Mountains, putting it in close proximity to the giant-occupied region of Norland called Grondsgrunn.
+
+Appendix
+References
+
+---
+
+## Araluen
+
+Araluen, Ash, the Child of Light, the Horned Aspect and The Step-daughter of Talona were fragments of a divine being sent by Lurue to the Great Dale in  to bolster the forces fighting the Rotting Man. After the latter captured most of his essence, he twisted it into the Step-Daughter of Talona; the remainder of her hope formed a small baby, capable of speaking only the word 'Ash'. Both aspects were reunited in, reforming a complete Araluen who drove the Rotting Man off of Dun-Tharos.
+
+Description
+As Ash, she resembled (and for many purposes was) a frail five-year old in peasant clothes. Her hair was baby brown as a baby, and her eyes were sky blue.
+
+As the Step-Daughter of Talona, she was a foul, vile abomination the size of a barn, all festering flesh on four elephantine legs, with a single fifteen-foot long spiraling horn. It had no other features beyond the horn. It screamed in basso from an unseen mouth.Though never described as a rotvine defiler, she is written by the same author of the corresponding book, her abilities in that form seem to roughly match the rotvine defiler's, and her origin story matches that of a rotvine defiler. This article thus assumes the Step-Daughter of Talona is a rotvine defiler, or more precisely, that the rotvine defiler is written to mirror the Step-Daughter of Talona.
+
+As Araluen restored, she was a shifting shape, both a woman and a white-gold unicorn with a crystal horn.
+
+Personality
+As Ash she was pure of spirit but extremely simple-minded, unable to comprehend so much as betrayal. Even in the moments she was in the most contact with her divine nature, she could scarcely form a sentence. Though she was able to speak the word 'Ash' from birth, she never learned to speak any other words in her five years of life under her own power.
+
+As the Step-daughter of Talona, she was under the complete control of the Rotting Man, though at her core, she was still a creature of the green powers.
+
+As Araluen, she sought only to defeat the Rotting Man and preserve the forests of the Great Dale. She still had a place in her heart for Marrec and his party, as well as the farmer Hemish.
+
+Abilities
+Ash possessed healing hands capable of restoring health, vigor and strength to many creatures: not a month after birth, she reversed years of mistreatment on a horse, and through the next years she healed several aches in her community. When she joined up with Marrec's party, they found her healing touch to be capable of reversing damage, though she seemed to distribute it randomly, sometimes ignoring dying people in front of her. Her touch was also capable of reducing vampires to nothingness, just like sunlight could, and she disintegrated an uthraki spy for Gameliel with it too. When she was most in touch with her divine nature, she could grant redemption in the name of Lurue. When fighting the Rotting Man, she managed to thwart many of his attacks.
+
+The step-daughter of Talona was possessed of physical strength matching her size, and of frightful regeneration. Her very presence sucked away the light of Lurue from the world, weakening the clerical abilities of priests like Marrec. She was also capable of devouring the other sliver of her power, Ash; however, recovering the last of her light proved, alongside Marrec's encouragement, sufficient for her to self-destruct and immediately be reborn as Araluen.
+
+The fully restored Araluen had recovered her divine light enough to battle the Rotting Man and make him flee Dun-Tharos.
+
+Possessions
+A pony named Henri was procured for Ash in Culdorn. The Nentyarch gifted her with a magical leather bridle, chased with green thread, that allowed the horse to always find its way back to safety, to Yeshelmaar, and to never lose its way. The fully restored Araluen carried a blade of celestial fire.
+
+Activities
+Until, both Ash and the Step-Daughter of Talona remained in their place of birth: Ash remained in Fullpoint with her adoptive father, Hemish, while the Step-Daughter remained encysted in the Thieving Ash at Dun-Tharos.Albeit the Thieving Ash was in Dun-Tharos as of 1373, the forces of Talona had not occupied the Close until 1371. Given the light was captured in 1368, there are either multiple Thieving Ashes or the tree was moved after the capture.
+
+Relationships
+Ash loved her adoptive father, Hemish, and she was totally taken in with her pony, Henri. Though her feelings towards the traitor Fallon were unclear, she redeemed him for his betrayal; the Step-Daughter of Talona seemed to have no strong feelings other than her obedience to the Rotting Man. After the synthesis of both aspects restored Araluen, she kept Ash's feelings rather than the Step-Daughter's.
+
+History
+After the Rotting Man began his activities in the Rawlinswood on, the Green Powers promised a Child of Light that would join the fight of the Circle of Leth against him, contesting the power of the champion of Talona.
+
+In, the Green Powers sent a light into Faerûn, full of promise, joy and hope; the Rotting Man set a trap, diverting and stealing that light, with the Thieving Ash. He did not capture all of it, a single drop of light escaping his trap and forming the baby Ash, who was found by the farmer Hemish.
+
+Ash remained in Fullpoint until 1373, when the blightspawned volodni sent by Gameliel attacked the village. She was briefly taken by volodni who sought her as the Horned Aspect, but the combined efforts of the Nentyar hunter Elowen, cleric Marrec and Gunggari Ulmarra broke the volodni forces. Afterwards, she joined them (with Hemish's grudging approval) in their quest to reach Yeshelmaar; along the way, a pony named Henri was procured for her. Along the way, she showed the power to annihilate uthraki with a touch. It was only in Yeshelmaar that the Nentyarch explained her true nature to her companions; she showed no indication of being able to make anything out of what was spoken there. He also gifted her a magical bridle for Henri. A traitor amongst the Nentyar hunters, Fallon, kidnapped her there and took her to Dun-Tharos, alongside Henri.
+
+While in the tunnels beneath Dun-Tharos, the Rotting Man attempted to destroy Fallon's personality by planting a compulsion that would hollow him out into a servant; Ash broke his curse, giving him an opportunity to turn against the Rotting Man, which he took eagerly. However, the two of them were captured later by the blightlord Damanda; Ash destroyed one of her vampires in the process. Marrec's party finally rescued Ash from her, but Fallon was mortally wounded during the fight. Ash granted him redemption in his last moments.
+
+On Mirtul 7, once they reached the Rotting Man, she blocked several of his spells during the ensuing fight, but was ultimately devoured by the greater part of her, the Step-Daughter of Talona, who had been gestating in a cyst at the base of the Thieving Ash at Dun-Tharos. Thanks to Marrec's words, however, she was able to recover her full personality, and emerged from the Step-Daughter's flesh in her full power, or at least, in full control of herself. She then battled the Rotting Man, ultimately making him flee The Close. However, this depleted enough of her power to force her to depart the material realm afterwards.
+
+Appendix
+Notes
+
+Appearances
+Novels
+Lady of Poison
+
+References
+
+---
+
+## Artoth Frayhammer
+
+Artoth Frayhammer was the dwarven architect who built the Great Hall of Myth Drannor long before the advent of the Weeping War.
+
+Possessions
+Frayhammer was the owner of the unique enchanted waraxe - Artoth's Bane.
+
+History
+Artoth Frayhammer's final resting place was the biggest crypt within the dwarven tomb complex in the lowest level of the Elven Catacombs of Myth Drannor. The entrance to the tombs was indicated by a sign, engraved in languages of dwarves, humans, and elves, that read "Last Repose of the Stout Folk of Myth Drannor". These tombs were protected by dwarven statues and the spirits of its inhabitants that were ready to destroy anyone who tried to claim the enchanted arms laid within the tombs, without paying the levy first.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Ariel-than
+
+Ariel-Than was an elven city in Chondalwood, raised to the ground in 144 DR.
+
+History
+In the winter, early 144 DR, armies of the free-cities of Vilhon Reach invaded the forest of Chondalwood. The city of Ariel-Than was the closest to the edge and was burned to the ground by the invaders. With the dead toll exceeding two thousand, very few elves survived the assault and and retreated deeper into Chondalwood. Some said that the survivors settled in Rucien-Xan, a legendary undiscovered elven city in the heart of Chondalwood.
+
+The destruction of Ariel-Than was the event that created the nation of Chondath.
+
+Appendix
+References
+
+---
+
+## Arrow of the vampire
+
+Arrows of the vampire were a type of enchanted ammunition often used by various bowmen of the Realms.
+
+Powers
+These arrows were enchanted with spells similar in effect to the vampiric regeneration. When an arrow of the vampire hit its target, the magics inside syphoned the life energy out of the target and into the shooter.
+
+History
+In the mid-14 century DR, many enchanted arrows of the vampire were a common sight along the Sword Coast, and used by numerous individuals and factions. The origin of these arrows, however, remained a mystery. Some told stories that arrows of the vampire were made using teeth of actual vampires. This was probably not true due to the sheer number of these arrows circulating the quivers in the Realms.
+
+Notable Users
+ Feldran Exeltis, a lone heir of the Exeltis noble family kept a quiver of the arrows of the vampire in his bedroom circa 1372 DR.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights • Neverwinter Nights 2 • Neverwinter Nights: Darkness over Daggerford)
+
+References
+
+---
+
+## Archentree
+
+Archentree was less of a settlement and more of an ancestral gathering place for treants of Mielikki's Garden on Ilighôn island off the coast of the Vilhon Reach.
+
+Geography
+Archentree and the rest of Mielikki's Garden contained a huge number of oak trees. Some speculated that treants seeded the mighty trees, while other sages claimed that the abundance of oaks was what attracted treant to the area.
+
+Archentree was located on a curve of Elder River that flowed from the Elder Spires into the Inner Sea. The House of Silvanus, the main temple of Silvanus in the region ran by the Emerald Enclave was located several miles to the south of Archentree.
+
+Inhabitants
+Treants that inhabited Mielikki's Garden were old creatures who peered to stay out of business of others. They were likely to ignore pleas for aid or requests to dispense their ancient wisdom by humans. Archentree's treants did not tolerate lit torches often wielded by unwitting visitors and retaliated with swift and deadly efficiency.
+
+When left alone, Archentree's treants laughed, and danced with slowly swaying steps.
+
+Appendix
+Appearances
+Novels
+The Reaver
+
+References
+
+---
+
+## Arcane Tower
+
+The Arcane Tower, also referred to as the Enchanted Tower or simply the Ruined Tower, was an underground magical research site that served as the home of the Mystran cleric Lenore De Hurst for a time during the late 15 century DR. The structure exemplified an unconventional blend of technology and arcane craftsmanship, demonstrating how the dual disciplines could best be utilized for the comfort of those required to work in less-desirable circumstances.
+
+Location
+The tower was situated in an area of the Underdark, roughly beneath the Sunlit Wetlands of the Western Heartlands. It was built overlooking the Ebonlake near a colony of myconids.
+
+Structure
+
+The Arcane Tower was unlike others of its kind constructed above ground. Its structure was built from stone in a fairly unremarkable architectural style, but utilized technological features and artificer seldom seen elsewhere in the Realms. Metal piping wound around and within and around the tower's exterior, conducting streams of arcane energy from a central power source at its bottommost level.
+
+Interior
+
+The primary entranceway and entrance chamber was found on the tower's fourth floor. While its stately appearance featured beauteous decorations it was rather cold and impersonal, and held no remarkable features. The only items of note on this level were the two arcane cannons that stood sentry over the double doors of the entrance.
+
+Within the core of the Arcane Tower was an impressive cylindrical elevator that granted access to each of its numerous floors. Like the artificial lighting system it too was powered by the tower's central power source. The floor of the elevator was emblazoned with the eight-pointed star of Mystra.
+
+The interior chambers of the tower were illuminated by translucent bulbs that radiated white-blue light, the same color associated with the powers of Mystra. The energy flowing through the tower's conduit system was used to power its massive elevator along with stunning chandeliers that decorated its ceilings on multiple floors.
+
+Upper Floors
+
+The fifth floor of the tower held its primary residence, personal study and library. It was perhaps the most intimate place in the Arcane Tower, most resembling a 'normal' home found in the world above.
+
+The top floor served as the tower's workshop. It housed a forge and anvil, granting De Hurst a place to carry out repairs or tinker with her clockwork constructs. Pieces of machinery were strewn across the numerous desks and tables and all across the floor.
+
+Lower Floors
+
+The floor beneath the entranceway served as the storage and primary research area for the myriad fungi that De Hurst studied. All manner of fungal specimens were found within, including some that nearly reach the ceiling above.
+
+The ground floor and first basement of the tower were built within the same chamber, one large enough to house the core of its arcane engine. Large casks, storage crates and unidentified machinery lined the walls of the room, surrounding the massive engine in its center. The device was a cylindrical, glass-lined chamber large enough for any man to step through, with pipes extending out to the rest of the tower. Within it was a pedestal on which the blooming flowers of sussur plants could be placed. While sussur blooms held profound anti-magic properties, De Hurst's experimentation and inventions demonstrated how they could be used to power magic-based technology.
+
+Beneath the two-floor engine room was De Hurst's secret, hidden away study. It was within this chamber that the insightful cleric kept her most prized possessions, personal diaries, accounts of profound excavations, and fittingly, more space to conduct additional studies.
+
+Atmosphere
+For those walking across the stone bridge leading up to the structure, and facing down the unforgiving metal turrets, the Arcane Tower was an imposing site unwelcoming of visitors. Once inside however, it was full of marvelous and otherworldly sights that appealed to those with intellectual curiosity. From the rivulets of arcane power that ran through glass tubing along the, to the lower-level research room teeming with bizarre fungal specimens, the tower was an impressive, if not discomforting locale.
+
+Despite the stark isolation in the alien environment of the Underdark, the Arcane Tower offered some solace to its resident research and any potential visitors. The upper floors of the tower held creature comforts that put any scholar at ease. While its resident construct may be inelegant in appearance and mannerisms, he did all he could to welcome his mistress and put her at ease with recitation of artistic works.
+
+Activities
+
+For at least three years, the Arcane Tower served as the site where De Hurst conducted her study of magical properties of plants in the Underdark, specifically those surrounding the sussur tree, its use as a magical power source, and the creation of enchanted items.
+
+Defenses
+A battery of forbidding arcane cannons lined the bridge leading up the double doors at the tower's entrance, with another pair set in the main entrance way. These non-intelligent constructs shots out beams of arcane energy against any creature detected within a certain field of vision.
+
+The true protectors of the Arcane Tower however were the handful of constructs led by a unique automaton built for precisely this purpose. Anyone who engages in hostilities -- or does not answer their questions correctly when interrogated -- incur their wrath.
+
+History
+De Hurst was believed to have left the Arcane Tower for the final time on Alturiak 2 in the, during a return trip to Baldur's Gate. She left behind her magically-constructed companion, which remained alone in the tower for over a decade.
+
+Inhabitants
+
+Aside from De Hurst, the tower housed one additional semi-intelligent being: the arcane construct named Bernard. The erudite automaton did not appear to have free will but could be given set instructions by reciting lines from one of Lenore's favorite plays, The Roads to Darkness.
+
+Four sets of animated armor remained within the top floor of the tower alongside Bernard. Unlike him, the armors were unable to communicate aside of the squeak of their joints or clunks of their movements.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+
+External Links
+
+Gallery
+
+References
+
+---
+
+## Arnuth
+
+Arnuth was a Ffolk stablemaster inhabiting the town of Aithelar in Callidyrr on the Moonshae Isles in .
+
+Activities
+Arnuth ran a stable located on the south side of town on Aithe High Street.
+
+Appendix
+References
+
+---
+
+## Arandron
+
+Arandron was a continent a long distance to the southwest of Faerûn.
+
+Notable Locations
+Around the 8 century DR, there was a bustling port city on Arandron called Haunvaerune, inhabited by humans. Ships such as Captain Imbryn Ultal's Aelusteen sailed between Haunvaerune and Lantan to trade in Lantanna inventions.
+
+Behind the city was a high, bare rocky ridge upon which stood Steelspires, a castle constructed by stone giants for the steel dragons Malavauvrantarandra and Phaudrantanthildrar.
+
+Appendix
+Background
+Ed Greenwood mentions "the continent of Arandron far to the southwest of Faerûn", but its exact position is unknown and there are three candidates on the map of Toril. The continent of Katashaka also lies southwest of Faerûn, and is identified as the largest of the southwestern continents, labeled "Unknown Lands". This article presumes Arandron to be the unlabeled continent lying below Faerûn and between the two labeled "Unknown Lands". Regardless, Arandron may be another name for Katashaka.
+
+See Also
+ Akota
+
+Notes
+
+References
+
+Connections
+
+---
+
+## Aragath
+
+Aragath was an Tomb Guardian that lived in and fought for Evereska as of the late 14 century DR.
+
+Relationships
+He served in the unit of the Tomb Guard led by Galaeron Nihmedu.
+
+History
+Aragath was among the guardians that investigated a band of tomb robbers that infiltrated a burial chamber of House Vyshaan in the Border Desert South on Nightal 20 in the . He was killed that day when the disintegrating eye beam of the beholder Shatever, an ally of the tomb robbers, tore through his chest.
+
+Appendix
+Appearances
+Novels
+ The Summoning
+
+References
+
+---
+
+## Aris (giant)
+
+Aris was a gentle-natured and trusting stone giant artist that hailed from Thousand Faces within the Greypeak Mountains as of the late 14 century DR. He was the only member of his community to survive when his settlement was assailed by beholders, and subsequesntly rescued by a group of adventurers led by Melegaunt Tanthul and Galaeron Nihmedu. Aris' adventures saw him travel across the Heartlands, from his home in the mountains, to the flying city of Thultanthar, the deserts of Anauroch, and even the kingdom of Cormyr. He became a famous artist across the lands, with acclaimed works that were in high-demand among the aristocracy of the Realms.
+
+Description
+As a giant, Aris was quite taller than many of his friends and fellow traveling companions. He always seemed to have a dour and severe look about him with sad eyes that belied his immense creativity and skill.
+
+Personality
+The gentle giant was a true and loyal friend, even to those not worthy of his comradery. He was very observant and quite insightful at times, capable of seeing things in situations that others missed.
+
+Abilities
+Aris was a masterful sculptor, one that could chisel out breathtaking depictions in a brief amount of time.
+
+Possessions
+Upon leaving his home, Aris' only possession were his stone-carving tools and a wooden club, the latter of which he was forced to surrender upon entrance into the High Forest. After settling down some time later, Aris reacquired a set stone carving tools.
+
+Activities
+Aris spent much of his time working on sculptures, often made to honor the spirit and deeds of people in his life. He worked exceptionally fast and could create a finished piece in a fraction of the time of other sculptors. One of his most notable pieces was  The Descent of the Shadow Army, that featured in the collections of a Prince of Shade and even a high lord of Cormyr.
+
+Relationships
+
+During their adventures together, Aris became close to the increasingly volatile elven shadow adept Galaeron Nihmedu as well as the disingenuous and exploitative follower of Cyric, Malik el Sami. Aris believed himself to owe a life debt to the unscrupulous Malik, and remained by his side during very perilous times. Malik came to exploit Aris' generosity, having his friend create sculptures for the Princes of Shade to curry favor for himself. Aris was entirely aware of the malevolent nature held by his friends, but still preferred their company to none.
+
+History
+In the, nearly all the stone giants of Thousand Faces were killed by beholders allied with the phaerimm that escaped from behind the Sharn Wall underneath Anauroch. Aris survived and taken captive with charm-magic for a time by the eye tyrant Kanabar. The lone giant was freed from his magical bondage when a band of travelers, comprising Galaeron Nihmedu, Melegaunt Tanthul, Vala Thorsdotter and Malik el Sami, killed the beholder and its allies.
+
+As his community's only survivor, Aris accompanied his rescuers as they traveled towards the Delimbiyr Vale through the High Forest, granted special disposition by Turlang himself, passing through the Dire Wood until their final destination at the ancient city of Karse. Once there, Aris bravely dug a deep tunnel that drew the phaerimm away from his new friends long enough for them complete a ritual to bring back Melegaunt's home city from the plane of Shadow. Aris was tortured by the aberrant creatures and just barely managed to survive the ordeal.
+
+Aris survived the ordeal and soon relocated to the city of Thultanthar with Malik, Galaeron, and Vala. He found immediate success within the city, impressing even the Princes of Shade and the mighty archmage, High Prince Telamont Tanthul himself. Tensions grew between the group as the Harper witch Ruha openly stated her intent to arrest Malik, and Galaeron grew resentful of Vala and their Shadovar hosts. When Galaeron told the others he would leave Thultanthar and venture across the Anauroch desert alone, Malik convinced Aris follow him, while simultaneously staging the giant's death and framing Ruha for his murder. While traveling across the Saiyaddar Aris suffered greatly from dehydration, a condition that was made worse by the selfish actions of his friend Galaeron. The giant was nearly killed during an attack from a blue dragon, but survived by the efforts of the witch Ruha. Aris' near-death experience shook Galaeron, pulling him back from the malign influence of his shadow self.
+
+Once Aris was in better condition, he traveled with Galaeron and Ruha to Arabel in Cormyr. His arrival was welcomed and even celebrated by Myrmeen Lhal, who was a great fan of his artistry. Despite this, the trio were accused of theft by Prince Rivalen Tanthul of Thultanthar, and imprisoned within the Citadel. While in the dungeons of the Citadel, Rivalen and his Shadovar attempted to free the group from their cells—to take them back to Thultanthar—but were intercepted by Myrmeen Lhal, Regent Alusair Obarskyr and her royal retinue. She executed several of the Shadovar on the spot, and ensured Aris and his friends were safe.
+
+Aris returned the favor to the Lady Regent and Cormyr by assisting the Mage Royal Vangerdahast by transporting a powerful magical contraption into and through the city of Tilverton while it was under siege by the Shadovar. Aris was taken to safety before the city fell, and—having made amends with his friend Galaeron—offered the elf a friendly and fond farewell before the city was ultimately destroyed.
+
+Rumors & Legends
+Appendix
+
+Appearances
+Novels
+Return of the Archwizards (The Summoning, The Siege, The Sorcerer)
+References
+
+---
+
+## Argen
+
+Argen was one of the guards who served the noble family of Arrabar - House Matrell, circa 1373 DR.
+
+History
+Argen was one of the guards of House Matrell circa the  and could often be found in the family's barracks. He forged a friendship with the family's youngest scion - Emriana Matrell, a rebellious and talented rogue. He taught her the use of daggers in combat.
+
+Appendix
+Appearances
+Novels
+
+The Sapphire Crescent
+
+References
+
+---
+
+## Arrabarran stuffed fish
+
+Arrabarran stuffed fish was a morningfeast dish served in Arrabar of the Vilhon Reach.
+
+Description
+Each fish was stuffed with sausages, potatoes, and baked. When cooked until flaky, fish was served, accompanied by scrambled eggs with cheese and lemon-wine sauce, and hand-ripped fresh bread.
+
+History
+This morningfeast was served to young Emriana and her grandmother Hetta Matrell on Tarsakh 10, the, after the young lady witnessed a murder of two commoners the night before.
+
+Appendix
+Appearances
+Novels
+The Sapphire Crescent
+
+References
+
+---
+
+## Aruugan
+
+Aruugan was chieftain of the hobgoblin Black Wolf clan of the Giantspire Mountains as of the .
+
+Possessions
+He possessed one of the Crowns of Whispers, which made him more persuasive. This item had been left with his people by the demon lord Soneillon during the events of the Spellplague nearly a century prior.
+
+History
+At some point, Aruugan had pledged himself to the god Bane.
+
+Under Aruugan's leadership, the Black Wolf clan was one of the only tribes in the Giantspires able to maintain independence in the face of the expansionism of the Razor Heart tribe and their queen, Maaqua. Their continued success was thanks to his willingness to take shelter in the Dunwood alongside his clan's worg allies.
+
+Appendix
+References
+
+---
+
+## Artisan's blessing
+
+Artisan's blessing was a channel divinity power granted to clerics who chose the Forge domain.
+
+Effects
+In order to channel divinity, the cleric had to conduct a ritual that lasted an hour. The ritual involved laying out the coins or other metal on top of a surface, that were equal in value to the thing that was to be created. Once the ritual had finished, an item that contained some sort of metal (tools, weapon, armor, etc) would coalease on top of a free unoccipied surface within . The produced item could not be magical or be worth greater than 100 gold pieces.
+
+Appendix
+References
+
+---
+
+## Ariskrit Darowdryn
+
+Ariskrit Darowdryn was the matriarch of the noble House Darowdryn, one of the oldest and wealthiest merchant families of Arrabar and all of Chondath in the 14 century DR.
+
+Description
+By 1373 DR, Ariskrit was a matronly woman, almost as old as her good friend, Hetta Matrell. Even into her advanced age, Ariskrit had a keen mind and the charismatic presence of a capable leader.
+
+Relationships
+Ariskrit was old friends with the fellow noble family matriarch Hetta Matrell of the House Matrell. The women were often seen socializing during events of the Arrabarran nobility and visited each other at their families' estates. Lady Darowdryn felt protective of her friend's favorite granddaughter, Emriana Matrell, and aided her on several occasions.
+
+Ariskrit was often accompanied and protected by her nephew Tharlgarl "Steelfists" Darowdryn.
+
+History
+On Tarsakh 13 of the, Ariskrit Darowdryn and Tharlgarl "Steelfists" attended Emriana Matrell's grand celebration of becoming an adult, an Arrabarran tradition for a woman's 16 birthday. During the celebration, Ariskrit witnessed an assassination attempt on her friend Hetta's life orchestrated by the cabal of Talriccis, Pharaboldis, and, as later revealed, Hetta's own family, as retaliation for the matriarch's disapproval of the sneak coin activities. Later, Ariskrit aided young Emriana after her grandmother's spirit was trapped in a magic ring, another sinister ploy by the Talriccis.
+
+Appendix
+Appearances
+Novels
+The Sapphire Crescent • The Ruby Guardian • The Emerald Scepter
+
+References
+
+---
+
+## Arnrock
+
+The Arnrock, also known as Arnrock Island and Old Smokey, was an active volcano and the largest island in the Lake of Steam. It erupted violently in the .
+
+Description
+Prior to the eruption, the island comprised a wide caldera about a mile (1.6 kilometers) deep. The soil in the caldera was the most fertile in the Land of the Lions, and it was home to woods and hot springs. Geothermal vents dotted the area, an ever present reminder that the volcano was still alive. During this time, the island was home to a population of strongheart halflings who collectively called themselves the Arn.
+
+Following the eruption, the mountain grew both taller and wider, and the whole caldera was filled with bubbling lava.
+
+Geography
+The Arnrock was one of countless volcanoes laying within the Lake of Steam, but the only one that broke the surface to form an island. It lay near the lake's center, and was the landmark used by sailors to mark the transition from the relatively safe and stable western half to the more dangerous eastern half.
+
+Defenses
+The island had no notable defenses in the mid-to-late 14 century DR, although it did have a cog moored on the eastern shore that was large enough to evacuate the whole population.
+
+History
+The island's caldera was formed when the volcano violently exploded sometime circa the 4 century DR.
+
+Thanks to an ancient treaty imposed by Calimshan, the cities along the coast of the Lake of Steam were prohibited from claiming the volcano or from using the island as a naval base.
+
+On Flamerule 1 of the, Iakhovas detonated a powerful magical device within the volcano in order to open a gate into the Ship of the Gods volcano in the Sea of Fallen Stars, resulting in the eruption of both volcanoes. While the eruption of the Ship of the Gods resulted in the destruction of Vahaxtyl and the deaths of more than 20,000 sahuagin, the eruption at Arnrock was so minor that the locals did not even notice, and continued to suggest that their volcano was long overdue to erupt.
+
+The massive eruption in 1386 DR completely destroyed the halfling settlement on the island. As late as the, the caldera remained filled with magma, completely erasing any signs of the former inhabitants.
+
+Notable Locations
+The Arn population in the mid-to-late 14 century DR was scattered around the island, and the closest thing resembling a town was a ramshackle collection of buildings known as Sleeping Hollow. This was where the island's only inn, known as the Brazen Buck, could be found.
+
+Inhabitants
+Prior to the eruption in the late 14 century DR, the caldera was home to the halflings who called themselves the Arn. They farmed on the volcano's slopes, fished in the surrounding waters, and used the geothermal heat to create copper crafts.
+
+The slopes of the caldera were a favored site for temporary lairs among mercury dragons, while firenewts were known to make their homes inside of the active volcano.
+
+Appendix
+References
+
+FR:Arnroc
+
+---
+
+## Arn
+
+The Arn was a collective term adopted by the strongheart halflings who lived on the Arnrock island in the Lake of Steam.
+
+Culture
+Each member of the Arn belonged to the Brolluck, Minstrelwish, or Rauligar clans, but all of them were related to each other. They were somewhat insular, and non-halflings were generally not welcome among their social gatherings.
+
+They populated the whole caldera of the Arnrock—which they called "Old Smokey"— and took advantage of the rich soil to grow crops and the easy access to the Lake for fishing. The Rauligar family also used the natural geothermal heat of the volcano's rifts to cast copper. The closest they had to a town was a ramshackle village called Sleeping Hollow.
+
+History
+Thanks to an ancient treaty that prevented the cities of the Lake of Steam from laying claim to the island, the Arn were the sole inhabitants of the Arnrock.
+
+The Arn had weathered eruptions of Old Smokey, and as of the mid-to-late 14 century DR, they were well aware that the volcano was overdue for an eruption. Sure enough, the Arnrock blew its top in the appropriately named, and the Arn were wiped out. Any survivors migrated elsewhere, including eastern Amn and the Sea of Fallen Stars.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Army of the North
+
+The Army of the North was a military that comprised soldiers, mages, and other combatants of numerous races, drawn from several tribes, nations, and city-states from all across the North of Faerûn. They banded together to face the growing threat posed by the phaerimm, after their release from the Sharn Wall in late 1371 DR.
+
+Organization
+The Army of the North was commanded by Laeral Silverhand, chosen of Mystra and Lady of Waterdeep. Among its commanders were Yoraeida, who led 500 elves from Evermeet, the dwarven leader Skarn Brassaxe, and Chief Claw of the Black Lion Uthgardt tribe.
+
+Members
+Some of the fiercest and most renowned fighting forces from across the Sword Coast North, the Silver Marches and beyond joined cause to defend their lands from the highly destructive phaerimm. The allied forces included volunteer soldiers from Waterdeep, elves from Evermeet, barbarians from the Moonlands, members of the Knights in Silver from Silverymoon, Slugsmashers from Citadel Adbar, Sundabaran mercenaries Bloodaxe Company, and Vaasan warriors from the far-eastern Cold Lands.
+
+History
+The Army of the North began as a small relief force that came together on Nightal 30 of the . Some twenty Waterdhavian warriors and wizards Joined Laeral on a dangerous mission to Rocnest to help her fellow chosen Khelben Arunsun and the elven high mages within. After teleporting to the ruined elven outpost, the group managed to kill a few phaerimm but were pushed back to the Marsh of Chelimber. It was there that Laeral made first contact with the Princes of Shade.
+
+By Mirtul of the, the Army of the North had grown to its full strength. The army remained mired in downpour rain within the High Moor, poised to face the phaerimm in the greatest conflict either side had seen in over four months of fighting. Aided by the of Shadovar of Thultanthar, a group with whom Laeral Silverhand forged a tentative alliance, the Army of the North emerged victorious.
+
+The Army of the North fought their next engagement against the phaerimm army, forces composed of bugbears, mind flayers, and beholders, on Mirtul 15 while crossing the Winding Water. With Boareskyr Bridge flooded due to unusual downpours, the Army of the North resorted to fighting in unfavorable conditions. As Uthgardt warriors and other soldiers crossed the waters atop rafts, hippogriff riders, war wizards and other aerial combatants fended off the incoming phaerimm and their minions. The fighting was long and arduous but the Army of the North emerged victorious. The Shadovar were notably absent from the engagement however, having withdrawn from their alliance following a disastrous council with the Lords of Waterdeep and other regional leaders.
+
+By the 19 of the month, the full force of the army had reached the Forest of Wyrms. Tired of an endless march that led to excessive casualties, Laeral had her mages translocate the entirety of their forces from the forest way to the Greycloak Hills. They appeared just beyond the shadowshell, a magical barrier formed by the Shadovar to cut off the phaerimm's access to the Weave. They accomplished this magnificent feat of in a matter of hours, by means of expertly timed marches into a well-placed teleportation circle. The Army of the North was perfectly positioned to finally relieve the beleaguered Evereskan defenders, and managed to slay 20 or so phaerimm in a few days time.
+
+This maneuver surprised both the army's Shadovar allies along with the phaerimm themselves; the latter of whom believed the Army of the North still remained over  to the southwest. This tactical benefit was short-lived however. On Mirtul 25 the Shadovar withdrew from siege of Evereska, and sabotaged their magical detection efforts. Magical enchantments were placed upon the army's commanders—either by the Shadovar or the phaerimm themselves—leaving their forces temporarily leaderless. The Shadovar's dual betrayal drew the phaerimm right to the Army of the North at its weakest moment, and their forces suffered tremendous losses in a single day.
+
+Appendix
+Appearances
+Novels
+ The Siege
+References
+
+---
+
+## Armorers of the Wonderbringer
+
+The Armorers of the Wonderbringer was an honorary order whose members were devoted to Gond, the Wonderbringer.
+
+Organization
+Members of this organization were skilled armorers who praised the Lord of All Smith by making and repairing armor.
+
+Appendix
+References
+
+---
+
+## Arkiem Arren
+
+Arkiem Arren was an elf cleric of Milil in Waterdeep in the mid-to-late 14 century DR.
+
+Description
+Arkiem was a tall and slender sun elf with a deep bronze skin and long, curly, blond hair.
+
+Personality
+Arkiem was usually smiling and of pleasant company, sharing few of the prejudices his people held against humans. He was a skillful musician and gave names to his personal instruments, leaving some to wonder whether those were magical. His talent with instruments often caused people to mistake him for a bard.
+
+Possessions
+Arkiem favored simple clothes of white and green color, such as a tunic, jerkin, breeches, and soft leather boots. He wore no ornamental jewelry, apart from a golden oak-leaf clasp on his cloak. He always carried birdpipes on his belt.
+
+Back when he adventured, Arkiem used a cloak of displacement and some pipes of sounding.
+
+Activities
+After building the Temple of Good Cheer with his wife Rachel Arren, Arkiem spent much of his time teaching music and playing nightly at the Safehaven Inn, in order to raise funds for the temple.
+
+Relationships
+Arkiem joined the Harpers in 1329 DR. For most people in Waterdeep, his involvement with the Harpers was no more than a rumor.
+
+Appendix
+
+Appearances
+ City of Splendors
+
+References
+
+---
+
+## Arboreal scamper
+
+Arboreal scamper was a divine magic spell granted to priests of Baervan Wildwanderer, the Forest Gnome. It allowed one or more creatures to climb, hang, and jump through the trees like a squirrel.
+
+Effects
+The caster had to touch the target(s) of this spell during casting. The duration for a single creature was three hours (longer for more experienced casters). Bestowing arboreal scamper on more creatures reduced the duration for each, divided equally, with a minimum of thirty minutes per target. The targets had to be human-sized or smaller (no scampering ogres, sorry) and have bare hands and feet with which to grip trees. The unencumbered movement rate was half that of a real squirrel, and encumbrance slowed a creature by half again. Jumping from limb to limb was a test of agility limited to, but even if a bespelled creature missed a branch, they could easily grab any other tree limb with which they came in contact, hopefully preventing a disastrous fall. Recipients of this spell could end its effects before they expired by uttering a certain command word.
+
+Components
+This spell required verbal and somatic components plus the use of the priest's holy symbol.
+
+Appendix
+References
+
+---
+
+## Arcanum of Magic
+
+The Arcanum of Magic, also known as the Great University, was a prominent university and temple dedicated to Thoth, a common combination among Thothian temples. It was also the center of Thoth worship in Mulhorand.
+
+Location
+The Arcanum was located in the northern part of Gheldaneth, adjacent to a wizard's college available only to Thoth's clergy.
+
+Structure
+The Arcanum was the largest building in all of Gheldaneth, with its towers lining the city's northern wall.
+
+Activities
+This university taught students of various ages how to count, read, and write. It also taught basic information on the Mulhorandi pantheon and the history of Mulhorand.
+
+Inhabitants
+Operation of the Arcanum was conducted by the Scribes' Guild.
+
+Attending the Arcanum was compulsory for all citizens of Gheldaneth, even slaves. This occurred frequently during childhood and adults annually came to be retested. The most exemplary of students received invitations to join the Scribes' Guild. In addition to students, the Arcanum was home to a secret order of Thoth worshiping archivists known as the Order of Ibis, which was founded following an excavation of a forgotten complex beneath the university.
+
+Appendix
+References
+
+---
+
+## Argus Skeel
+
+Argus Skeel was a vampire spawn in service to the necromancer Ularan Mortus. He spied for the Cult of Myrkul in Phandalin in the late 15 century DR.
+
+Activities
+Skeel resided in the cellar of an abandoned hut on the outskirts of town, together with a horde of ghouls under his command. He frequently spied on the Stonehill Inn. Because of his sunlight hypersensitivity, Skeel almost never came out of hiding in daylight, and when he did, he covered his skin with heavy clothing to protect himself.
+
+History
+Circa 1491 DR, following the attacks by the white dragon Cryovain in the surrounding region, Argus Skeel came to Phandalin from the Mere of Dead Men. He pretended to be a prospector, but he was actually a spy for the Myrkul cultists.
+
+At some point, a group of adventurers from Leilon, who had previously thwarted the plans of the Myrkul followers, arrived in Phandalin to pick up supplies for Leilon. Before they could leave town, Skeel and his ghouls confronted them. At the same time, Velleen Firecrow, a spy for the rivaling Cult of Talos, confronted the adventurers with her kobolds, resulting in a three-sided battle.
+
+Appendix
+Appearances
+Adventures
+Storm Lord's Wrath
+
+References
+
+---
+
+## Artichoke
+
+The artichoke was a type of vegetable found in the Realms.
+
+Availability
+Places in the Realms where artichoke was known to be produced were as follows:
+ In west Faerûn's Lands of Intrigue region, artichokes were cultivated in abundance by the town of Imnescar.
+ Ground artichokes were sold via Aurora's Whole Realms Catalogue for 200 gp per pound.
+
+Notable Artichoke Products
+ Some used juiced artichokes as a curative for jaundice.
+ In Calimshan and the ancient Calim Empire, artichoke hearts were used to stuff plum wine-picked peacock eggs.
+
+Notable Users of Artichokes
+Businesses
+ The Old Troll's Foot would often serve a spicy bean soup featuring artichoke and asparagus.
+
+Individuals
+ Suleman al Fataq had artichokes at his disposal, often eating them in the midmorning with honey.
+
+Appendix
+See Also
+Quarrada
+Appearances
+
+External Links
+
+References
+
+---
+
+## Artiuk
+
+Artiuk was a loyal half-orc bodyguard to the tiefling merchant Vadin'ya of Samargol circa 1374 DR.
+
+Description
+Artiuk was a stout and short gray-skinned half-orc. His silent demeanor and no-nonsense attitude gave him an intimidating presence.
+
+History
+Circa the, Artiuk and his feisty mistress were doing business in the capital of Samarach–Samargol. The half-orc could be seen guarding the merchant's tent in the Openpalm Bazar, the only district open to very few select outsiders. During that time, Artiuk oversaw dealings between a group of hirelings of a local merchant Sa'Sani and his mistress.
+
+Among the items Vadin'ya sought to procure was an axe, touched by fire elemental magic of firenewts who took over salt Mines of Selgol. She claimed that the axe was for Artiuk.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Storm of Zehir
+
+References
+
+---
+
+## Arn Akannathi
+
+Arn Rockfist Akannathi  was the chieftain of the Akannathi goliaths of Skytower Shelter during the late 15 century DR.
+
+Description
+He had a deep and imposing voice.
+
+Personality
+Chieftain Arn was not a particularly patient or subtle leader and would not hold back from ordering violence against others when provoked.
+
+Relationships
+He shared his cave within Skytower Shelter with his husband, Harad and his elderly mother-in-law Kaniaka.
+
+The Akannathi clan maintained a years-long feud with the Thuunlakalaga goliaths of Wyrmdoom Crag, originating from a series of unfortunate events that led to a wounded child and slain Akannathi griffon. Arn was absolutely detested by the chief of the Thuunlakalaga clan, Ogolai Thuunlakalaga.
+
+Appendix
+Appearances
+Adventures
+ Icewind Dale: Rime of the Frostmaiden
+References
+
+---
+
+## Aruna
+
+Goodwife Aruna was a cleric of Chauntea who settled in the hamlet of West Harbor in the Mere of Dead Men circa 1374 DR.
+
+Description
+The healer was an older human woman. Aruna wore her graying hair in a tight bun. Her clothes were simple robes.
+
+Personality
+Goodwife Aruna was a calm and kindly woman. She had a caring and pleasant personality, and her facial expression advertised respect and understanding.
+
+Possessions
+Aruna was armed with an enchanted weapon—a Gardener's Spade. Her most prized possession was a hand-woven shawl, which Aruna lost while fleeing Wanderfen. Goodwife's shawl emanated a strangely comforting aura of mystery and holiness.
+
+History
+Goodwife Aruna hailed from the hamlet of Wanderfen in the Mere of Dead Men. When it started being reclaimed by the swamp, the woman left the village and relocated to a settlement north of Wanderfen called West Harbor. She was thankful to the villagers who welcomed her with open arms, and she gladly paid them back with her healing magics and skills in medicine. She often welcomed visitors to the village, offering them blessings of Chauntea and healing at no charge. Given opportunity, Aruna was willing to give up her enchanted staff in exchange for a brave adventurer returning the Goodwife's lost shawl. She claimed that a gang of lizardfolk picked up the shawl Aruna dropped while fleeing her previous home.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Storm of Zehir
+
+References
+
+---
+
+## Arlathna
+
+Arlathna was one of the elven mages who fell at the hands of Horaundoon the Eater-of-Mantles of the Zhentarim in 1348 DR.
+
+History
+In the, an ambitious wizard from Zhentil Keep named Horaundoon developed a type of magic that allowed him to tap into spell mantles and drain their knowledge and spells, incinerating the target in the process. Horaundoon targeted elves due to his hate of the Fair Folk. Arlathna was among the victims. Elminster Aumar and Dove Falconhand were acquainted with the elven mage and were ordered by the Lady of Mystery to helm the investigation of her strange death. Elminster theorized that a strange possessing spirit or a Zhent wraith was to blame.
+
+Appendix
+Appearances
+Novels
+
+Swords of Eveningstar
+
+References
+
+---
+
+## Archdruid
+
+The title of Archdruid was bestowed upon certain powerful druids that took on additional responsibilities within their given druidic circle.
+
+Activities
+Archdruids were different in that they strived to maintain the balance of nature with regards to the moral and ethical perspectives of others. They spent much of their time traveling across their lands, to fully understand the creatures, people, and magical power that resided within. They did not often socialize or work with residents of towns and cities unless their domain came under threat.
+
+Each druidic circle could only maintain three separate archdruids. Such was the case in the Cloak Wood forest circa the mid–14 century DR.
+
+Powers
+They were exceptionally powerful shapeshifters and could take on the form of powerful beasts or elementals numerous, or even unlimited times each day.
+
+Relationships
+Archdruids were considered higher-ranking than other druids, but not held in as high esteem as great druids.
+
+Notable Archdruids
+ Arundel, village leader of Kuldahar.
+ Halsin, the head of the Emerald Grove on the Sword Coast.
+ Wyllow, a moon elf that was manipulated into becoming master of her own domain within Undermountain.
+ X'ahni'din the Weaver, a drow merchant of the Wandering Emporium.
+
+Appendix
+References
+
+---
+
+## Arthagast Ulbrinter
+
+Arthagast Ulbrinter was one of the Masked Lords of Waterdeep as of the late 15 century DR. He was slain by agents of the Cult of the Dragon, an act that drew the wrath of his wife Remallia Haventree and her allies from among the powers of the Western Heartlands.
+
+Relationships
+Lord Ulbrinter was married to Lady Remallia Haventree an agent of the Harpers. Together they had two half-elven children, a boy Arthius, and daughter Serenore.While not explicitly stated, the inclusion of half-elven children Arthius and Serenore in a family portrait with mother Remallia Haventree and Arthagast highly suggest he is their father.
+
+History
+Some time during the 1480s DR, the White Dragon Mask was taken by the Zhentarim agent Ratshadow from Neverwinter and stashed at the Ulbrinter villa in Waterdeep. Agents of the Cult of the Dragon abducted Lord Ulbrinter from his home, stole the dragon mask, and assassinated the Masked Lord. Arthagast's death left his wife Lady Haventree a widow.
+
+Appendix
+Notes
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Arbalest's House
+
+The Arbalest's House was a monastery and the most significant temple to Milil circa 1358 DR.
+
+Location
+Arbalest's House was located on a hilltop in the town of Athkatla, north of Goldspires and of the harbor.
+
+Structure
+The walls, floors and ceilings of the temple were mostly made of stone.  Its most notable architectural feature was the Bellows of Milil, a gigantic pipe organ intertwined with the structure of building itself.
+
+Defenses
+The Bellows of Milil provided the temple with several protecting spells, with both defensive and offensive capabilities. It also contained several caches in the form of false pipes, used to store most of the temple's treasure (perfectly formed gemstones).
+
+History
+The temple was developed by the Patriarch of Song, the utmost authority of the church. Milil himself journeyed to Arbalest's House during the Time of Troubles, and personally founded a singing circle there.
+
+Rumors & Legends
+The temple was said to contain several teleportation portals, including a portal leading to New Olamn in Waterdeep and created by Milil himself.
+
+Inhabitants
+While the temple itself hosted mostly Sorlyn priests, the Bellows was roamed by various creature such as wind walkers and volts.
+
+Appendix
+References
+
+---
+
+## Arietta Innevar
+
+Arietta Innevar was the persona by a doppelganger that pretended to be of two sisters traveling the Sword Coast during the late 15 century DR.
+
+Activities
+"Arietta" and her sister "Zelina" took on the likenesses of unassuming travelers that sought company while navigating the trade routes of the Sword Coast. They would join a band of travelers or caravan for some time, earn some level of trust among the group, then be poised to strike. The Innevar "sisters" would lure a lone member of their traveling companions away in night and attack when their guard was down.
+
+History
+During the 1480s DR, "Arietta" and her sister traveled north along the Trade Way towards the direction of Waterdeep.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+ Hoard of the Dragon Queen
+References
+
+---
+
+## Arn Widdens
+
+Arn Widdens was an owner of the Cart and Coin caravan outfitter in Triboar in the Dessarin Valley in the late 15 century DR.
+
+Relationships
+Arn was married to Syreen Widdens and together they owned the store and had four young children.
+
+Appendix
+References
+
+---
+
+## Aravele
+
+Aravele was a mercenary that lived in Phlan during the late 15 century DR.
+
+Relationships
+She was known to be freinds with a fellow mercenary named Keria and Grim, a guardsman and member of the Black Fist.
+
+History
+During the 1480s DR, various problems began to arise in Phlan, and the beacon over Sokol Keep went out. Both the city's Black Fist guardsman and the local dockworkers blamed each other for the emergent problem. Some members of the Black Fist, including Keria's friend Grim went missing.
+
+One night when having drinks at the Laughing Goblin Inn, Aravele and Keria got into a heated argument with a group of Phlan's dockworkers.
+
+Appendix
+Notes
+
+Appearances
+Organized Play & Licensed Adventures
+Tyranny of Dragons: (Secrets of Sokol Keep)
+References
+
+---
+
+## Arden
+
+Arden was a dragonsoul of the Cult of the Dragon that served the goddess Tiamat during the late 15 century DR.
+
+Description
+He wore a suit of armor that featured spiked greaves, shoulder pauldrons, and a helmet that resembled the visage of a black dragon.
+
+Possessions
+Arden wielded a massive, one-handed sword in battle.
+
+History
+In the 1480s DR, Dragonsoul Arden let the cult's efforts to uncover the resting place of Cruven Gantara, in order to locate a portal to the isle of Tuern. He and his fellow cultists used barrels of dragon fire tar to excavate tombs within Ebon Downs.
+
+Unfortunately for Arden and the Cult of the Dragon, their mission in Ebon Downs was thwarted by Preceptor Theraclast of the Order of the Gauntlet and the adventurer known as the Hero of Sleeping Dragon Bridge.
+
+Appendix
+Notes
+
+Appearances
+Video Games
+
+References
+
+---
+
+## Arghorst Talandor
+
+Arghorst Talandor was the Magister from  to . He was beloved by a wide variety of wizards.
+
+Appearance
+He was described as impressive and well-spoken.
+
+Personality
+He was fond of teaching to the point that he praised the technique of the student that slew him even as he was doing it.
+
+Possessions
+The first of the Talandor's helms were created by Arghorst.
+
+Activities
+During his tenure, Arghorst Talandor freely gave spells to every mage he met, mediated disputes between them, started many careers, and often aided in spell creation. He was also known to have a recipe for potion of longevity which he both used and sold to nonwizards.
+
+History
+He defeated the previous Magister, Phambra Chalyphar, by goading her into a rage, being already prepared to defeat her.
+
+As the Magister, he became largely beloved by being indiscriminately helpful to all wizards he came across. His end came ultimately when one of his students took advantage of his good will by running him low on spells, and then challenging him to a duel on the spot.
+
+After his death, he became one of Mystra's most favored shadowstaves. He was occassionally allowed to return to flesh and blood to help a mage in need of insight, if they prayed to Mystra.
+
+Appendix
+References
+
+---
+
+## Arc Asunder
+
+Arc Asunder were a type of enchanted halberds that possessed magics that dealt death electricity damage to their targets.
+
+Powers
+Arc Asunder possessed a +1 enchantment and arced electricity onto its targets upon a successful strike. Additionally, the weapons increased the wielder's ability to parry attacks and glowed with blue light, illuminating  around it.
+
+History
+These enchanted halberds were thought to have originated from the great wastes of the Anauroch desert. Sages believed that the electricity that enchanted Arc Asunder came from heavy thunderstorms that ravaged the region's air. The original creator likely wanted the weapons to be as dangerous as the Great Sand Sea itself.
+
+By the late 14 century DR, Arc Asunder weapons could be found in the city of Neverwinter on the Sword Coast North as well as the Market Triangle in Westgate.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights • Neverwinter Nights 2 • Neverwinter Nights 2: Mysteries of Westgate)
+References
+
+---
+
+## Articles of the Compact
+
+The Articles of the Compact were an agreement between the various Lords of the towers on Forever's Edge, added after the Traitor was discovered to be in the service of the Far Realm. They allowed any of the Lords to search any other Lord's tower, basically at will.
+
+They were invoked in  by the Lords Dramvar and Eloar of the Spire of Summer's Mist to investigate the Spire of Winter's Peace, because of the Lady of the Tower, Malyanna, had been missing for an extended time. This made Taal, her castellan, murder them.
+
+Appendix
+References
+
+---
+
+## Archiloque
+
+Archiloque was a gnome warrior and wizard inhabiting the city of Daggerford in the Western Heartlands in the mid-to-late 14 century DR.
+
+Description
+Archiloque was small even for a gnome.
+
+Activities
+Though he practiced magic, arthritis in his hands prevented him from casting all but the most basic spells.
+
+He lived in a house in the south section of Daggerford located on Kaoth Alley near the barracks.
+
+Relationships
+Archiloque was close friends with the skilled weaponsmith Ransaran. Ransaran crafted a special set of short swords for Archiloque that included a series of straps and safety catches, allowing him to effectively wield the weapons with his arthritic hands.
+
+Appendix
+References
+
+---
+
+## Aramman Freebane
+
+Aramman Freebane was the ruler of Kzelter in the Lake of Steam region during the mid-to-late 14 century DR.
+
+Activities
+Aramman held the position of Constable General but ruled in name only. The real power in Kzelter lay with Teldorn Darkhope and his Banites in nearby Mintar. Aramman followed any orders from Teldorn dutifully.
+
+Appendix
+References
+
+---
+
+## Arbor Square
+
+Arbor Square was a large public plaza roughly at the center of Halarahh in the wizard nation of Halruaa.
+
+Description
+Arbor Square stood at the center of the loop formed by the Promenade. To the west from it stood the grand Zalathorm's Palace and immediately to the south – the Dockside Square.
+
+The plaza was a beautiful and spacious square built out of green and pink stone. The plaza was decorated with intricate pink grape vine-shaded iron trellises and arches. Numerous chairs, benches, and small tables were placed all around the Arbor Square, offering passers-by rest in the shade of the hot southern sun. The air around the square was filled with sweet fragrances of grapes, overripe oranges, and savory aromas of the open-air market, mixed with the fresh smell of the Great Sea.
+
+The center of the Arbor Square held a stage, a risen platform, used by self-absorbed orators, town criers, and musicians, as well as occasional display of wizardly magic.
+
+Appendix
+Appearances
+Novels
+The Magehound
+
+References
+
+FR:Place des Charmilles
+
+---
+
+## Aralagath Tarsil
+
+Aralagath Tarsil was the Magister from  to .
+
+Appearance
+As a boy he was uncannily beautiful.
+
+Abilities
+He was known to have spells akin to wizard eye, fly, invisibility, and wraithform.
+
+History
+Originally the favourite pet of Pasha Eiruidin Ondaru, after the latter was assassinated by Ongraunnathan the Blind in  and presented as alive with magic, Aralagath was tested for magic, alongside many people in the Palace, by Ongraunnathan. Realizing those who demonstrated skill disappeared, Aralagath pretended to fail to cast any spell. However, during moments when his master was drunk on whiteworms in wine, Aralagath practiced with new intensity, reaching basic competency in the Art by the time another sorcerer challenged and slew Ongraunnathan by turning his own flying zombies against him, some time after .
+
+Aralagath escaped with three of Ongraunnathan's tomes in the confusion; though the challenger sent three zombies against him, he eventually lost them. After that, he became a traveling hermit that sometimes snuck into wizards' abodes to copy their spells, spending much effort on thwarting the ensuing pursuit and always returning the spellbooks afterwards. In few years, he had developed a number of new spells that was uncommon for mages much more gifted; Azuth offered him the position of the Magister at this time.
+
+As the Magister, Aralagath continued to move about, mainly active in the lands north of Calimshan along the Sword Coast, though he ventured a little into the Sea of Fallen Stars. He also created a casting ground on a Cormyrean hill overlooking the Whitewater, teaching some nearby dwelling children of its powers, and dropping in on some mages to furnish them with a spell.
+
+Aralagath was accidentally killed by Orten Imdrar, who used a high-explosive spell to enlarge a flooding mine. The spell blasted apart the top of some natural caverns, and the Magister who thought he was safely sleeping above them.
+Appendix
+References
+
+---
+
+## Armor of loyalty
+
+Armor of loyalty was a type of light armor that protected the wearer from magical charming.
+
+Powers
+These sets of leathers possessed a +1 enchantment and made the wearer immune to the effects of charm person and dominate person spells.
+
+History
+The first accords of armors of loyalty came from a wizard Mekhari, who sometime before the 14 century DR became targeted by his one bodyguards, charmed by a rival enchanter, wronged by Mekhari. The wizard thought such a waste of hired guards to be expensive, so he set out to find a way of protecting himself without resorting to killing his employees. Subsequently, Mekhari outfitted his men with armors of loyalty. His death still arrived at the hands of his own lieutenant after a heated wage dispute.
+
+By the late 14 century DR, armors of loyalty could be found in several locations across the Sword Coast, including the city of neverwinter, and town of Highcliff.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights • Neverwinter Nights 2)
+
+References
+
+---
+
+## Arena (Zhentil Keep)
+
+The Arena was a coliseum located in the city of Zhentil Keep during the mid–14 century DR before that city's destruction.
+
+Location
+The Arena was located in Zhentil Keep's Inner Quarter along the Street of the Gods.
+
+Activities
+All manners of gladiatorial games were conducted within the Arena. The structure was also used heavily by Zhentil Keep's justice system by having condemned criminals fight to the death and even during a trial of guilt where an accused faced their accuser with weapons bared. Trials of combat were held four or five times per week. There was slim hope for combatants who managed to survive their first contest as they would be summoned to fight again and again until slain. Furthermore, the living conditions for combatants within the Arena cells were deplorable and injured combatants were not given any form of healing.
+
+The Arena was used as a bazaar to unload larger caravans on days where no fights were scheduled.
+
+Appendix
+References
+
+---
+
+## Archer's belt
+
+Archer's belts were enchanted belts created by the shamans of the orcish Kingdom of Many-Arrows.
+
+Powers
+These orcish belts came with two variations of the enchantment—regular archer's belts, and more potent greater archer's belts. The belts possessed magics that made the wearer resistant to piercing missiles and weapons.
+
+History
+Archer's belts were commissioned by the King Obould of the Many-Arrows after his orc archers started getting wounded and losing lives to the archers of Citadel Sundbarr. Orcish shamans started creating these belts for the most distinguished archers and warriors of the Spine of the World. The worthiness of the warriors was determined in contests that, with time, became the height of orcish entertainment. By the late 14 century DR, many of archer's belts fell into the hands of non-orcs, and were found along the Sword Coast as well as far-away lands of Samarach. One belt could be fun in the Tempest's Fury, a magical conclave of researchers, slaughtered by a rogue djinni in the .
+
+Notable Owners
+Dela Nereth, a black market merchant of the Bloodsailors of Neverwinter in 1372 DR.
+
+Appendix
+See Also
+Belt of the Many Arrows
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights • Neverwinter Nights: Pirates of the Sword Coast • Neverwinter Nights 2 • Neverwinter Nights 2: Storm of Zehir)
+
+References
+
+---
+
+## Artagalor Goldbeard
+
+Artagalor Goldbeard was an dwarf jeweler and shopkeeper inhabiting the city of Zhentil Keep during the late–14 century DR.
+
+Description
+As his name implied, Artagalor's beard was brilliant gold.
+
+Activities
+He owned the Eye of the Beholder, a jewelry shop located in the Foreign Quarter on Twilight Street. He was a dextrous and skilled craftsman who worked with jewels and precious metals.
+
+Artagalor stayed in Zhentil Keep following the city's destruction in the  because his god, Moradin, commanded it of him. Moradin appeared to him saying "this city needs a few shining lights amongst the filth."
+
+Appendix
+References
+
+---
+
+## Armor of the clerics of Myrkul
+
+Armor of the clerics of Myrkul were sets of enchanted Myrkulyte plate mail worked by the members of the Lord of the Dead's clergy.
+
+Powers
+These sets of magic armor were enchanted to offer improved protection from several necromantic spells such as paralyze and death magic. Additionally, the armor increased the wearer's fortitude. The armor proved that Myrkulyte priests only dealt in the business of death, showing no desire to join the ranks of the deceased.
+
+History
+Before Myrkul's death during the Time of Troubles, his clerics were adorned in these severe-looking armors as they performed duties of the faith, aiding the dead and dying, organizing funerals, and ruling in the cases of deceased's unfinished affairs and enacting their wills. One of these magic armors fell into the hands of drow merchant of exotic goods – Nym sometime circa the, as he camped in Icewind Dale's Wandering Village.
+
+Appendix
+See Also
+Appearances
+Video Games
+Icewind Dale II
+
+References
+
+---
+
+## Arun's Alley
+
+Arun's Alley was a small road located in the city of Waterdeep.
+
+Location
+Arun's Alley was found in southern Waterdeep within the Dock Ward. It branched east off of Ward's Way before terminating at a dead end. The alley ran parallel to Lackpurse Lane to the north and Belnimbra's Street to the south.
+
+History
+Arun's Alley was wide, making it usable by carters accessing nearby warehouses and businesses. Private guards hired by the businesses located on the alley and the Carters and Coachmen Guild ensured this small road was kept safe.
+
+Appendix
+References
+
+---
+
+## Arundoom
+
+Arundoom was a mage who inhabited the city of Waterdeep at an undertermined time.
+
+History
+Arundoom was treacherously attacked by his apprentice who hurled three daggers into his back. Arundoom survived however, and enacted his revenge in a truly creative way. He placed a magical curse upon the alley where he was attacked, causing a trio of daggers to fly through the air and attack his apprentice. Arundoom used magical fear to force his apprentice to walk through the alley three times, once for every eight years of apprenticeship. The alley was later named Three Daggers Alley because of this incident and the curse survived through the late 14 century DR despite many attempts to dispel it.
+
+Appendix
+References
+
+---
+
+## Ariel Heremet
+
+Ariel Heremet was a laborer inhabiting the city of Waterdeep during the mid-to-late 14 century DR.
+
+Activities
+Ariel worked as a barmaid.
+
+Relationships
+She had a sister and brother named Edrianna and Donar, though Ariel suspected she was adopted since both her siblings looked like their parents while she did not.
+
+Appendix
+References
+
+---
+
+## Artemel Villa
+
+Artemel Villa was the family estate of the Waterdhavian noble house Artemel.
+
+Location
+The villa was located at the corner of Sul Street and Vondil Street in the northeast section of Waterdeep's Sea Ward.
+
+Description
+Artemel Villa was composed of several two-storey structures that surrounded a central garden. The walled estate dominated much of the city block where is was located.
+
+Appendix
+References
+
+---
+
+## Armult Tesper
+
+Armult Tesper was a noble and patriach of the Waterdhavian noble house Tesper during the mid-to-late 14 century DR.
+
+Personality
+Armult trusted too easily, a trait that led to two failed marriages when he realized his wives were only after his coin. Unbeknownst to him, the ancestral ghosts of the family villa coerced the wives to leave him before causing too much harm.
+
+Activities
+He lived within Tespergates located at the corner of Mendever Street and Delzorin Street in the central section of Waterdeep's Sea Ward.
+
+History
+He spent much of his youth adventuring south of Waterdeep, earning his father's respect.
+
+Relationships
+Armult's current wife, a Harper named Nleera Tarannath Tesper, was discovered while masquerading as one of the ancestral ghosts of Tespergates during a party. Armult grew to love the Harper, and with the ghosts' approval, eventually married her.
+
+Appendix
+References
+
+---
+
+## Aristed Wavesilver
+
+Aristed Wavesilver was a noble of the Waterdhavian noble house Wavesilver during the mid-to-late 14 century DR.
+
+Activities
+He lived within Wavesilver Villa located at the corner of Ivory Street and Flint Street in the central section of Waterdeep's Sea Ward.
+
+Relationships
+Aristed was the second son and heir of Bleskos Wavesilver.
+
+Appendix
+References
+
+---
+
+## Archer's redoubt
+
+Archer's redoubt was a spell used by clerics of Solonor Thelandira.
+
+Effects
+When cast, an invisible shield surrounded the caster. Within the shield is an arrowslit, allowing the caster to safely fire arrows at will. The caster could mentally reposition the arrowslit. Once cast, the shield could not be moved until the spell expired or the caster walked through the barrier.
+
+Components
+In addition to verbal and somatic components, this spell required a material component, the holy symbol of Solonor Thelandira.
+
+Appendix
+References
+
+---
+
+## Arveene Dalurieth
+
+Arveene Dalurieth was Vonn Dalurieth's daughter.
+
+Description
+She was round-faced with freckled cheeks, a snub nose, and dark hair.
+
+Possessions
+Much of her room's contents were themed around bears.
+
+History
+The avariel bladesinger Taegan Nightwind tried to retrieve her from her home one night, believing she was in love with Falar Aporos. Though he fought with her guardians, he later realized his mistake and left without her.
+
+Appendix
+Appearances
+Short Stories
+New in Town
+References
+
+---
+
+## Armor of Horus
+
+The armor of Horus was an enchanted suit of scale mail that also provided resistance to all forms of lightning and fire attacks.
+
+Powers
+The armor of Horus blocked half of all harm from fire and lightning-based attacks.
+
+Appendix
+References
+
+---
+
+## Ariton Maliwick
+
+Ariton Maliwick was the Grand Druid of the Gulthmere Forest in the Vilhon Reach, active in the 3 century DR.
+
+History
+In the, Ariton Maliwick opposed the establishment of two Chondathan logging towns – Timindar and Orbech. The grand druid issued a stern warning to the ruling family of Chondath – the Illistine Dynasty, to stop despoiling Satyrwood's natural beauty or face the wrath of its inhabitants. The warning was ignored, resulting in the disaster seven years later -  known as the Crushed Helm Massacre.
+
+Appendix
+References
+
+---
+
+## Arildan Belvrost
+
+Arildan Belvrost was the patriarch of the Belvrost clan of mages in the late 14 century DR.
+
+Abilities
+He was known to have the ability to enchant daggers so that they struck on their own.
+
+History
+As of, he was the patriarch of the Belvrost family.
+
+Possessions
+He dwelt in the family manor at Sundstone, in the hamlet of Baernwood.
+
+Activities
+He was known to pen scrolls and enchant daggers to strike on their own.
+
+Appendix
+References
+
+---
+
+## Arisrathra Baerlbohun
+
+Arisrathra Baerlbohun was the daughter of Unsible Baerlbohun, the "Mad Toymaker," who rose to wealth and prominence in Athkatla in the 14 century DR.
+
+Personality
+Arisrathra was a revelry-lowing and wild daughter of a gaudy-rich and decadent merchant Baerlbohun family. Some described her as a "winking" woman who was renowned for being "ready and willing for all foolery" among men of Athkatla. She spent her time as an eager revel-companion and social butterfly of the city's affluent Gem District.
+
+History
+By the late 14 century DR, Arisrathra was the most well-known member of the family, apart from her "Mad Toymaker" father. She had three large, lazy, lumbering brothers, Purdynkul Baerlbohun being the oldest. Along with most of the family, Arisrathra Baerlbohun resided in a famously gaudy monstrosity of a mansion in the Gem District – Baerlbohun House, not to be confused with equally vulgarly grandiose Baerlbohun Towers.
+
+Appendix
+References
+
+---
+
+## Arduelth
+
+Arduelth, or the Lost Witch, was once a young and promising hathran who succumbed to an unknown malicious influence and madness sometime before 1374 DR.
+
+History
+Arduelth was a promising young Rashemi wychlaran from the city of Mulsantir. Like every person in the country, she grew up under oppressive influence and constant danger from Rashemen's southern neighbor – the land of the Red Wizards, Thay. When the time came for her dajemma, the journey of self-discovery traditional among her people, Arduelth departed home, searching and researching the most powerful magics to be used against Thay. Several years passed. She returned bearing a glowing periapt, later known as the Periapt of the Lost Witch, and a haunted look in her eyes. The young woman claimed to have uncovered the creation secret of  periapts of the Lost Witch and several other powerful artifacts.
+
+Arduelth persuaded hathrans with her zealous intensity, despite their doubts, that using such dire magics and artifacts against Thay would break the Red Wizard nation. Gravely, she was made a hathran. With time, the other hathrans realized their error. Arduelth succumbed to obsession, or madness, searching for darker and eviler magics. She developed more elaborate plans. They started from abolishing slavery in Thay, eventually turning into plans to enslave the Red Wizards and sap their magic to be used for the witches' empowerment.
+
+Fearing Arduelth's madness and disaster it could end in, hathrans dispensed Rashemi justice. Arduelth was bound and thrown off a seaside cliff in Mulsantir. As of the, the Lost Witch's skeletal remains and still glowing Periapt of the Lost Witch could be found amid rocks of the same cliff that became her grave. Those who touched the amulet felt Arduelth's determination radiating from within the glowing amulet, eager to finish the witch's plans of enslaving the Red Wizards and their nation.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Mask of the Betrayer
+
+References
+
+---
+
+## Arachnophobia
+
+Arachnophobia was an arcane illusion spell that created a terrifying illusion of thousands of spiders.
+
+Effects
+The number of targets affected by this spell depended on the skill of the caster, but all needed to be within a sphere with a diameter of .
+
+Components
+This spell required only verbal and somatic components to cast.
+
+History
+Arachnophobia was a spell developed by the neogi.
+
+Appendix
+References
+
+---
+
+## Arena of Games
+
+The Arena of Games was an open pavilion located in the capital city of Skuld in Mulhorand during the mid–14 century DR..
+
+Location
+The Arena was located in the southeast corner of Skuld near the River of Shadows.
+
+Description
+The Arena of games was encircled by a grove of trees.
+
+Appendix
+References
+
+---
+
+## Archimemlos
+
+Archimemlos was a salesperson in the town of Bralizzar who specialized in statues. They were known to be active in the mid-14 century DR. Their shop was the third one from the north on the west side of the bazaar.
+
+Appendix
+References
+
+---
+
+## Araundordoom
+
+Araundordoom was a rather typical doom in the Underdark of Faerûn controlled by the once-human lich Araundor.
+
+Description
+Like most lich dooms, Araundordoom was a labyrinthine network of twisted tunnels and cave rooms, with hiding places for magic items.
+
+Defenses
+Araundor filled pools of water in his doom with poison and snare traps to grab intruders' legs. He would hide underwater in such pools or in pools of mud through which they could also be trapped. Araundor avoided placing crushing traps, because liches were not immune to being physically smashed.
+
+History
+Araundor discovered the passageways and rooms that he claimed as his doom.
+
+Appendix
+References
+
+fr:Fonds d'Araundor
+
+---
+
+## Ariabel
+
+Ariabel was a paladin devoted to the Bringer of the Dawn, Lathander, active sometime before the mid–14 century DR.
+
+History
+Ariabel's most renowned deed was when she wielded her enchanted blade Harrower against vampire Zerafex. The blood-sucking undead assembled a number of spawn under her control at some point long before the  and Ariabel sought to end her reign of terror. Unfortunately, Ariabel perished in the battle and her corpse, as well as Harrower were left abandoned within Zerafex's crypt somewhere in Tethyr. Years later, a band of thieves found a way into Ariabel's final resting place and recovered her famed blade.
+
+Appendix
+Appearances
+Video Games
+
+Baldur's Gate
+
+References
+
+---
+
+## Arbalest (modron)
+
+An arbalest was a special kind of quadrone modron, shaped something like the weapon of the same name.
+
+Description
+An arbalest looked like a giant repeating crossbow, with mechanical wings and four legs. Their bodies shot out metal crossbow bolts.
+
+Abilities
+Besides appearance, arbalests functioned in a similar manner to other quadrones.
+
+History
+Twelve arbalests were known to guard the Simulacrux, a trench and archway within a vast cavern of Trobriand's Graveyard in Undermountain. They had shot and killed two ogres, who were part of a band of hobgoblins led by Captain Kurlog. Kurlog was eager for help defeating the modrons so that he could defeat Zox Clammersham.
+
+Appendix
+Appearances
+ Waterdeep: Dungeon of the Mad Mage
+
+References
+
+---
+
+## Armor of thorns
+
+Armor of thorns was an unsettling leather armor that was rumored to hold some malevolent intelligence or influence.
+
+Powers
+This set of leathers drank the blood spilled on the battlefield, healing and rejuvenating the wearer. The armor of thorns made an unsettling slurping sound when absorbing enemy blood. Additionally, the armor possessed a +2 defensive enchantment and allowed the wearer to cast the vampiric touch once per day.
+
+History
+As of the late 14 century DR, rumors claimed that the armor of thorns hid some sinister entity within as many individuals who wore it fell ill after a single use. In the, the armor of thorns could be found underneath the Crossroad Keep, stashed in a tunnel.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights • Neverwinter Nights 2)
+
+References
+
+---
+
+## Artillerist
+
+Artillerists were those artificers that chose to construct and utilize magically explosive devices, such as firearms and hand-held cannons.
+
+Culture
+The distinct creativity and ingenuity artillerists displayed for laying pure destruction across battlefields made them highly sought after by commanders and generals across the Realms. During times of peace, they often concentrated their efforts to help prevent ongoing conflicts.
+
+Abilities
+Artillerists typically utilized a certain set of spells that they learned throughout their career. Among these were: shield, thunderwave, scorching ray, shatter, fireball, wind wall, ice storm, wall of fire, cone of cold, and wall of force.
+
+In addition to other tools and devices, they trained themselves in the use of woodcarver's tools. Experienced artillerists learned how to use these tools to customize arcane implements―namely rods, wands, and staves―into magical firearms to conduct spells they cast. By utilizing specific arcane sigils, these firearms dealt significantly more damage than when wielded in the hands of others.
+
+Possessions
+
+One of the first unique devices artillerists learned to craft were eldritch cannons. Functioning as a type of magical ordnance, these cannons were highly customizable and could deliver destruction in a variety of different ways. Eldritch cannons could be hand-held in size, or mounted upon stands for additional stability. Types of eldritch cannons included:
+
+ Flamethrower, which projected jets of flame outwards up to .
+ Force ballista, which shot out bolts of pure force energy to to a range of .
+ Protector, which released a pulse of positive energy that bolstered the life force of allies within a  radius.
+
+As they continued throughout their careers, artillerists mastered the art of warfare utilizing their arcane cannons. They developed techniques to make their cannons more destructive, implemented self-destruction contingencies, and created fortified defenses of shimmering magical energy. Mastere artillerists were so adept at their craft, they could crew and maintain two arcane cannons at once.
+
+Appendix
+Appearances
+Card Games
+
+References
+
+Connections
+
+---
+
+## Argathakul
+
+Argathakul was a red dragon who laired on Harvestshield Mountain as of the 15 century DR.
+
+Personality
+He was relatively young in dragon terms as of the late 15 century DR, but would display the cruelty of a dragon twice his age. He was prone to wander away from his territory, yet was willing to go to great lengths to defend that territory. However, he was not above fleeing a battle to save himself.
+
+Activities
+Argathakul laid claim to Harvestshield Mountain, but generally stayed out of sight unless he believed that his authority was being questioned. His lair sat at the summit of the mountain, and from it seeped sulfuric runoff that poisoned much of the water and plants of the mountain.
+
+History
+
+Argathakul famously wreaked havoc on the Harvestsheild Mountain region sometime between the late 8 and early 15 century DR, thus ending its long years of agricultural prosperity.Warriors of Waterdeep is set in the late 15 century DR during Laeral Silverhand's tenure as Open Lord of Waterdeep, and Laeral states that "Few are still alive who remember how cruelly Argathakul despoiled Harvestshield Mountain, but I do." Laeral was born in, giving the stated range from the late 8 to early 15 century DR. Laeral subsequently describes Argathakul as "young for a dragon", which might suggest a more recent date within this range. He then reemerged in the late 15 century DR after Mrolgyet's Legion had claimed Chauntea's Citadel atop the mountain, and inserted himself into the middle of a battle between the Legion and the Lords' Alliance in order to assert his claim over the mountain. He was driven off by a group of adventurers in the service of Laeral Silverhand, the Open Lord of Waterdeep.
+
+Appendix
+Notes
+
+Appearances
+Video Games
+Warriors of Waterdeep
+
+Gallery
+
+References
+
+---
+
+## Arcane dice
+
+Arcane dice were enchanted dice that could be used by wizards in combat. They could be found in Waterdeep as of the late 15 century DR.
+
+Powers
+A roll of these magic dice had the chance empower a wizard's spells and other magical attacks to score lucky hits on their target.
+
+Notable Owners
+ Shevarith Kendia, a rashemi wizard who worked as an adventurer on behalf of Laeral Silverhand, the Open Lord of Waterdeep, during the late 15 century DR.
+
+Appendix
+See Also
+ Dragon cult cubes
+ idle dice
+Appearances
+Video Games
+Warriors of Waterdeep
+References
+
+---
+
+## Araemyth
+
+The araemyth was an effect created through a mighty spell, and one of the most awesome and destructive spells known to the elves of Cormanthyr.
+
+Effects
+The araemyth took a couple of minutes to set up, but once it did, it created a sphere of light that would transform other spells cast at it, and enchanted items placed on it, into rays of magical energy with the most awesome destructive power. There were no known magical or non-magical barriers capable of enduring the force of the araemyth. The sphere was not subject to dispel magic.
+
+History
+Araemyths were used by the rebels besieging Mythanthar in Cormanthyr after the naming of Elminster as an armathor in the .
+
+Appendix
+Notes
+
+Appearances
+Novels
+Elminster in Myth Drannor
+
+References
+
+---
+
+## Arandron (elf)
+
+Arandron was an elf from Cormanthyr until the 3 century DR.
+
+History
+In the year, Arandron was named amongst those dead from the explosion at the Narnpool.
+
+Appendix
+Appearances
+Novels
+
+Elminster in Myth Drannor
+References
+
+---
+
+## Arkheld Kolnarrbeir
+
+Arkheld Kolnarrbeir was a shipwright from the city of Marsember in Cormyr, active in the 1490s DR.
+
+History
+By the late 15 century DR, old sarcastic Arkheld Kolnarrbeir assembled a multi-racial crew of veteran shipwrights who, under his leadership, gained a reputation of being the best quality for the money in the shipbuilding business. Their vessels were cheap, constructed quickly, and of relatively good quality. Arkheld's crew operated from the best crane-equipped non-magical drydock in the Sea of Fallen Stars.
+
+Appendix
+References
+
+---
+
+## Archmages of the Inner Fire
+
+The Archmages of the Inner Fire, also known as the Defenders of Halruaa, were an organization of mages based in Halruaa in the mid–14 century DR.
+
+Their Master Teacher was Melliyechorl Varast, who wrote the book Words to all Wizards in the .
+
+Appendix
+References
+
+---
+
+## Arlburt Nammond
+
+Arlburt Nammond was a cobbler from Hultail in Cormyr, active in the late 15 century DR.
+
+Description
+Arlburt was a pleasant-mannered, short and rotund man with a pronounced nose and bowed legs.
+
+History
+By the late 15 century DR, Arlburt Nammond worked out of his shop on Bell Lane of Hultail repairing clothing, belts, baldrics, also selling and repairing footwear and boots of his own making. He had a reputation as a hard-working man who "was stitching in his sleep." His work was sturdy but unattractive, but steadily attracted customers from all around.
+
+Appendix
+References
+
+---
+
+## Arundoon sauce
+
+Arundoon sauce was a condiment which paired well with people.
+
+Use
+Arundoon sauce was to be applied prior to cooking people, preferably alive.
+
+History
+The lich Thalon had a preserved decanter of arundoon sauce in his lair as of the . He poured it on Laeral Rythkyn, a Harper wizard, before cooking her. Laeral managed to destroy the lich with a fiery explosion before Thalon was able to devour her; Laeral later awakened, and found her way back home, where the Harper cleaned herself of the arundoon sauce. Laeral found the sauce to be "gluelike."
+
+Appendix
+Appearances
+Novels
+Elminster in Hell
+References
+
+---
+
+## Arrant Quill
+
+Arrant Quill was a renowned bard and member of the Harpers. He was famously imprisoned within a demiplane that resembled his home village, in order prevent him and those he cared about, from succumbing to the effects of an ancient cursed artifact.
+
+{{Quote|We lift up our light to reveal what is hidden and banish the darkness forever.|The penultimate line spoken by Vargan, in The Curious Tale of Wisteria Vale.}}
+
+Description
+Quill was a handsome man with a distinguishing scar that ran down from his cheekbone to his jaw. He received the scar on the night when his home was burned down by a heartless nobleman.
+
+Personality
+He was a notable charming and confident man who carried himself without pretense or arrogance. Despite the fame he achieved and accolades he received, Quill remained a humble servant of goodness in the Realms.
+
+Abilities
+Quill was an adept spellcaster, having first developed a knack for the Art as a boy. While he wrought tremendous magical power in his career with the Harpers, he never used that power for selfish reasons.
+
+He was especially skilled at delivering cutting insults at his foes, enchanting his words so they harmed his opponent's psyche.
+
+Possessions
+Quill had in his possession a cli lyre, one of the legendary instruments of the Bards.
+
+Activities
+From his youth all the way through to adulthood, Quill had a passion for telling stories.
+
+History
+Arrant Quill had a rather idyllic childhood, growing up in the small village of Wisteria Vale, a few miles away from the sprawling metropolis of Baldur's Gate. When he was just a teenager however, Wisteria Vale was burned down by a visiting noble lord, who found the village's accommodations insufficient to his tastes. At some point during the chaos, the evil lord slashed Quill with a crystal dagger, leaving a long gash upon the boy's face. Quill swore vengeance that day, but was entirely unsure how he could strike out against the callous nobleman.Quill's past is derived from the story of Wisteria Vale, which existed as a biography of his life prior to imprisonment.
+
+Eventually Quill tracked down the nobleman to a bustling city. While in the city, Quill was approached by a wizard who saw his determination to right the terrible injustice. The wizard invited the young Quill to join him as a member of the Harpers. Working together, Quill and the wizard snuck the young bard a grand revel that the lord was attending. Quill confronted the lord amidst his noble peers and slew him where he stood. Although he finally carried out justice against the murderous lord, Quill was troubled by the corruption and malice he saw within the city's nobility. He vowed to root out the forces of evil wherever he encountered them, confidant that he and the Harpers could rid the Realms of their presence.
+
+Over time, Quill acquired more power as a spellcaster in the Harpers service, and attained a legendary reputation among the adventurers of Faerûn. In or around the, he entered into a terrible battle with an archmage, who had been corrupted by a crystal touched with malign forces of the mad god Cyric. While he emerged victorious, Quill was unfortunately affected by by the crystal's corruptive nature. Quill became convinced that Harpers organization had grown too powerful for its own good, and had to be destroyed. In order to protect themselves―and prevent Quill from making a horrific mistake―the Harpers imprisoned him within the demiplane of Wisteria Vale, a near-perfect simulacrum of the bard's home village. While Quill remained imprisoned within, the Harpers worked vigilantly to find a cure to the curse that corrupted their comrade's mind.
+
+Some time later, a beholder named Renekor dreamed itself into existence within Wisteria Vale. Renekor's mere presence within the plane twisted the carefully-tailored simulation. The errant beholder trapped Quill in an extradimensional space within painting in Wisteria Vale's manor house, and created a fake copy of the bard for its own amusement.
+
+The real Quill became aware of the beholder's presence and came to understand the true nature of Wisteria Vale. The corruption of the Cyricist artifact left Quill paranoid that the Harpers planned to kill him, rather than cure him of his affliction. Unbeknownst to Quill, his affliction could only be cured by slashing him with a certain amethyst dagger, that resembled the blade used by the evil lord to scar his face.
+
+In the, a Harper wizard named Ryllia Liadon, who knew Quill in his youth, solicited a band of adventurers to free Quill from the demiplane and administer to him the cure that would free him from his terrible paranoia.
+
+Rumors & Legends
+Arrant Quill's adventures were immortalized in the story entitled The Curious Tale of Wisteria Vale. The book told the tale of Vargan, a young man whos life story mirrored that of the famous bard.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+ Candlekeep Mysteries'': "The Curious Tale of Wisteria Vale"
+References
+
+---
+
+## Araeralee Summerstar
+
+Araeralee Summerstar was an apprentice wizard inhabiting Waterdeep during the mid-to-late 14 century DR.
+
+Personality
+She was a compassionate woman.
+
+Activities
+Araeralee was a student of Blackstaff Academy within Blackstaff Tower in the Castle Ward of Waterdeep in the .
+
+History
+She was an orphan who grew up in Blackstaff Tower.
+
+In, she was one of the apprentices on watch when Qilué Veladorn attempted to enter Blackstaff Tower from a hidden entrance. Rather than slaying her, she decided to rouse Laeral Silverhand, to the mocking of her fellow apprentice on watch.
+
+Appendix
+
+Appearances
+
+References
+
+FR:Araeralee Étoilété
+
+---
+
+## Arastor Windriver
+
+Arastor Windriver was the middle son of Sabrast Windriver in the mid-14 century DR.
+
+Activities
+Per his father, Sabrast Windriver, Arastor was turning out to be the most important man in stonemasonry within the city of Westgate as of .
+
+Relationships
+In a revel on, Sabrast Windriver explained he wasn't sending his middle son any money.
+
+Appendix
+Appearances
+Novels
+
+Elminster in Hell
+
+References
+
+---
+
+## Arlkan's Rift
+
+Arlkan's Rift was a location in Avernus.
+
+Notable Locations
+Per Elminster, Somewhere in it was a gate leading outside of the Nine Hells.
+
+Appendix
+Appearances
+Novels
+
+Elminster in Hell
+References
+
+---
+
+## Arch Wood (village)
+
+Arch Wood was a tiny village hidden inside the forest of Arch Wood in the Dalelands and largely unknown to the outside world.
+
+Description
+The village consisted of a small cluster of cottages, a blacksmith, and a watermill.
+
+Inhabitants
+The Selûnite priestess and werewolf Feena Archwood lived in Arch Wood in the mid-to-late 14 century DR, both fighting a protracted war against Malarite lycanthropes and serving the community as a healer. She was preceded by her mother, Maleva, also a priest of Selûne who fought against Malarites.
+
+Appendix
+References
+
+---
+
+## Arjale
+
+Arjale was a metal only found in the Nine Hells, and one of the component of the alloy known as dajavva. Seldom found outside the infernal planes, it reached very high prices when sold on the Prime Material plane.
+
+Properties
+By itself, arjale was a lightweight metal easy to polish and to sharpen into razor-like blades.
+
+Alloying
+By alloying arjale with iron, smiths were able to create a material known as dajavva. Light green-gray in color, it was particularly flexible, to the point that Moloch's whip was crafted using this alloy.
+
+Arjale could also be alloyed with tantulhor and silver to create an extremely durable yet pliable metal, of untarnished silvery color with flecks of green.
+
+Applications
+Arjale was used in the creation of magic items such as the demonshields of the Shoon Imperium. It was also used to create the talisman of many devils such as Agares, Asmodeus, Barbatos and Buer.
+
+Production
+Arjale was mined by nupperibos and spinagons in Phlegethos and Nessus. They could also be found in Malbolge and Maladomini, where it was less abundant.
+
+Appendix
+See Also
+ Tantulhor, another metal exclusively found in the Nine Hells.
+
+References
+
+---
+
+## Arpeggi Trill
+
+Arpeggi Trill (not his real name) was a Sembite half-elf adventurer and bard who was part of the Ruby Blades adventuring company in the mid-to-late 14 century DR.
+
+Personality
+Arpeggi was clever and quick-witted, and enjoyed making up mocking rhymes to unnerve the party's rivals.
+
+Possessions
+Arpeggi carried a +2 broadsword, a harp of charming, and a brooch of shielding, in addition to his mundane leather armor and lute.
+
+Abilities
+He prepared a array of esoteric bardic spells that could be used in a wide variety of situations.
+
+History
+In the, the Ruby Blades joined the Wolfmasters company on an excursion to explore and loot Orvaskyte Keep in the Vast Swamp. The Ruby Blades were heavily delayed, and by the time they arrived their allies were already dead. Seeking a new goal, they attempted to hunt a nearby black dragon, only to be overwhelmed and almost killed by it, and were rescued by a band of Cormyrean adventurers. Their fortune waxed once more, and they were joined by two-dozen mercenaries that allowed them to chase away the Cormyreans and secure what was left of Orvaskyte Keep.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Aris Castle
+
+Castle Aris was the fortified estate of Lord Vorik Aris, a traitorous noble of Cormyr. It was located  north-west of Eagle Peak in the far western reaches of Cormyr, on the Tunlands plains beyond the Storm Horns.
+
+It was linked to Wyvernwatch Castle via a permanent portal, which Lord Aris used to move treasure, troops, and himself around without the Crown noticing. The portal archway in Castle Aris had three red gems embedded in it, on the keystone and two pillar bases, with the removal of one deactivating the portal until it was replaced. Removing all three would violently destroy the portal and blast both ends of it with potentially lethal energy.
+
+Appendix
+References
+
+---
+
+## Areghaeb
+
+Areghaeb was the animal companion of the Tashlutan bounty hunter named Inshula sar Mashewe in the late 14 century DR.
+
+Description
+Areghaeb was a large pitch-black wild jungle cat.
+
+History
+Areghaeb was already Inshula's trusted companion by the . The cat traveled with Inshula and her sister – Kwesi sar Mashewe, from Tashluta to the jungle nation of Samarach. Areghaeb generally remain out of sight, until called by Inshula. Subsequently, Areghaeb accompanied the bounty hunter to the far land of the Sword Coast, before returning back to their home in Tashalar.
+
+Appendix
+Background
+'Areghaeb' is an anagram of 'Bagheera', a Hindi word for 'panther' or 'leopard' and a character in Rudyard Kipling's The Jungle Book novels.
+
+Appearances
+
+References
+
+---
+
+## Arthoum
+
+Arthoum was the smallest of the islands west of the shores of the fortress library of Candlekeep on the Sword Coast. During the century that followed the Spellplague, it was a part of the Cimarine Isles.
+
+Description
+Arthoum was similar to all seven islands west of Candlekeep. It was a rocky outcropping that rose above the Sea of Swords. It was a collection of fissured granite with temperate woodlands growing among the cracks. Pools of collected rainwater in rock basins and freshwater springs could be found on the island. Most of the island was barren and dotted with sea caves and geyser-like blowholes that released clouds of steam and water mist in fumes that darted up into the air from the crevices during storms. Its rocky southern shores were suitable for hauling ashore large marine vessels.
+
+Geography
+Arthoum's northern shores were awash by Skoond's Run, which separated it from the large island of Thelve and three of its southern sisters. Arthoum was the smallest and westernmost of the three, the others being Nairn's Tomb and Askalet. Arthoum laid  south of Thelve and just  away from Nairn's Tomb.
+
+Flora & Fauna
+Arthoum's rocks housed an impressive seabird population of thousands, and its rocks were marked by the birds' guano. Several species of predatory sea creatures could also be found on the island.
+
+History
+The origin of the island's name was lost to the ages. However, sages believed that Arthoum and its other six sibling islands were all named after sailors and settlers who claimed these lands in the long-forgotten past.
+
+Appendix
+References
+
+---
+
+## Aromal's Truth
+
+Aromal's Truth was a powerful enchanted rapier that once belonged to the man named Aromal some years before the late 14 century DR.
+
+Powers
+This weapon possessed a powerful +5 enchantment was made its attacks devastating and guided the wielder's arm toward the target. Additionally, its magics specifically were useful in dealing with human enemies, dramatically improving the wielder's defense. Aromal's Truth also gave the wielder the skill of improved evasion and granted the effects of the freedom of movement spell as long as they held the raider.
+
+History
+Aromal lived sometime before the  and was known for his sharp tongue rather than his sharp sword. He could easily charm the wealthy out of their money with a story and was accompanied by several fellow conmen nearly as talented as Aromal. He was a terrible fighter, however, and feared his luck would run out one day. It was uncannily fortuitous that one day Aromal "discovered" the rapier that could help him in this.
+
+In the, the weapon fell into he hands of Mother Feodorra, a charm and magic item peddler from the Rashemi city of Mulsantir.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Mask of the Betrayer
+
+References
+
+---
+
+## Archive Annex
+
+The Archive Annex was a library found in the city of Neverwinter during the late 15 century DR.
+
+Interior
+The upper levels of the repository were closed off to many of its patrons, though staff were permitted to retrieve books from within and lend at their discretion.
+
+Services
+It was overseen by a stern, blue dragonborn librarian, who belittled some of the library's patrons.
+
+History
+Sometime during or before the, a hill dwarf cleric of Marthammor Duin came into the Archive Annex, looking for more information about an island that appeared to them in a dream.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Arelin Starbrow
+
+Arelin Starbrow was the Roadwarden, the leader of the Roadwarden Guard, stationed in the Skull Crag Keep in the Storm Horn Mountains of Cormyr in the 14 century DR.
+
+Relationships
+Arelin Starbrow was married to Morudel of Marsember, with whom she sired several children, including a fellow Roadwarden Guard – heroic Vidruand, and the problem child and a notorious vandal Dazmilar.
+
+History
+By the early 1360s DR, Arelin Starbrow was a renowned hero of Skull Crag and a beloved Roadwarden. Locals often shared tales of Arelin's and her son, Vidruand's heroics. Her career and life ended when she and the Chief of the Roadwarden Guard, Sir Dutiocs, were ambushed by monsters of an encroaching horde. Sir Dutiocs rushed back to the Skull Crag Keep with Arelin's body, leaving behind the symbol of the office she wielded in battle – the Arms of the Roadwarden.
+
+Some time later, a rakshasa who forged an alliance between ogres and oni mages of the Storm Horns took on Arelin Starbrow's guise to trick adventurers and their companion Arderiel. However, the ruse failed and Arelin's memory remained untainted.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Arderiel
+
+Arderiel was a Champion of Sune from the town of Skull Crag in the mid-to-late 14 century DR.
+
+Description
+Arderiel was a polite male half-elf with pale skin and long blonde hair. He was a devoted follower of his goddess, a talented fighter, and a capable mage.
+
+Possessions
+The half-elf champion was armed with a long sword and a composite longbow. He was protected by an elfin chain and a helmet.
+
+Relationships
+Arderiel was a trusted companion of Kallithrea Starbrow, a daughter of the Roadwarden Arelin Starbrow.
+
+History
+In the early 1360s DR, when Arderiel was 27 winters old, Arelin Starbrow perished in a treacherous monster ambush on the High Road. Her set of enchanted arms – the symbol of the office, were lost to the monsters. Subsequently, Kallithrea Starbrow was tasked by her father in the recovery of the Shield of the Roadwarden in her stead, Kallithrea sent Arderiel, who was to join a group of caravan guards in the arms' recovery.
+
+The search of the Shield of the Roadwarden led the group to an ogre cave village in the Storm Horns. Arderiel witnessed image of Arelin Starbrow in a crystal ball, alive and well, and he immediately rushed to what he thought was the Roadwarden. The woman he found looked like the hero but in reality was just a trick of the mastermind behind the ogre and ogre magi alliance, a fiendish rakshasa who claimed the Shield of the Roadwarden. A second rakshasa joined the fray, but both were slain by the adventurers who claimed the enchanted item and returned it to Kallithrea Starbrow.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Armoghh's Armoire of Arms and Armor
+
+Armoghh's Armoire of Arms and Armor was a store in Loudwater in the Delimbiyr Vale in the mid–14 century DR.
+
+Location
+It stood on the bank of the Delimbiyr River, conveniently located opposite the Loudwater Hall of Training.
+
+Services
+In business by 1358 DR, the store sold weapons and, presumably, armor.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arrow of detonation
+
+Arrows of detonation were arrows enchanted with volatile and dangerous magics.
+
+Powers
+When fired, arrows of detonation flew towards their targets and upon collision, exploded in a debilitating burst of fire and shrapnel. The exploding effect was similar to that of the fireball spell.
+
+History
+In the late 14 century DR, arrows of detonation could be found on the Sword Coast, notably, in the cities of Athkatla in Amn and sold at the Sorcerous Sundries of Baldur's Gate. Some such ammunition could be recovered from Durlag's Tower on the Sword Coast. Arrows of detonation were also among enchanted ammunition sold at the gladiatorial arena in Thay, ran by Dennaton, a Red Wizard.
+
+Notable Users
+Angelo Dosan, a corrupt Flaming Fist officer who was in cahoots with the infamous Bhaalspawn Sarevok during the iron crisis of 1369 DR.
+Halbazzer Drin, the proprietor of Sorcerous Sundries in Baldur's Gate in the mid-to-late 14 century DR.
+Rahvin, a member of the Flaming Fist from Sembia and another servant of Sarevok's in 1369 DR.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate series (Baldur's Gate • Baldur's Gate: Tales of the Sword Coast • Baldur's Gate II: Shadows of Amn • Baldur's Gate II: Throne of Bhaal • Baldur's Gate II: Enhanced Edition • Baldur's Gate II: The Black Pits II – Gladiators of Thay)
+
+References
+
+---
+
+## Araugul
+
+Araugul  was the great fortress-city capital of Hlundadim in the Goblin Marches and later Anauroch.
+
+Geography
+At the time of its founding, Araugul lay in the Windy Plains region of the southern Netheril steppes, midway between the Shinantra Mountains and the Storm Horns, not far southeast of the cities of Kismet and Rasilith. As the Anauroch desert expanded past it, it came be in the Sword between the Quarter of Emptiness to the north and the habitable remains of the Goblin Marches to the south.
+
+History
+The southern frontier of Netheril had long been fought over by tribes of goblinoids, orcs, and other humanoids, with the goblins becoming the most powerful and entrenched group by the Shadowed Age. The arrival of the mysterious Great Hlundadim in the, led to the creation of the nation of Hlundadim and the great fortress of Araugul in the Windy Plains, unifying many disparate groups into an army with a single identity. From Araugul, the realm of Hlundadim expanded in all directions, waging war upon the Lost Kingdoms, Cormyr, and others. The region around it became known as the Goblin Marches.
+
+Dust storms and the desertification of the Windy Plains by 268 DR drove the inhabitants of Araugul into a panic, sending them fleeing south as the land seemed to turn against them. The Great Hlundadim disappeared as well, and the nation of Hlundadim ceased to exist. Over the following centuries Araugul and the lands around it were slowly resettled as the goblinoids and their kin attempted to rebuild what was lost.
+
+The last great massing of the goblins from Araugul occurred after the warming period that began in 1038 DR. Faced with a drier climate that turned much of the remaining Goblin Marches to dust, the inhabitants of Araugul and nearby regions rallied under the warlord Izac Uthor and attempted a huge migratory invasion of the North, only to be annihilated in the Battle of Bones at Torgor's Triangle and Skull Gorge.
+
+Appendix
+References
+
+---
+
+## Arrow of Ilmater
+
+Arrows of Ilmater were a variety of deceptively named arrows, enchanted by a particularly devious cleric of Loviatar.
+
+Description
+These missiles featured a three-pronged arrowhead made out of some manner of bone. Loviataran by craft, Arrows of Ilmater were ironically named for the reputation Ilmatari clerics had as altruistic healers who bestowed their services for folks across the Realms.
+
+Powers
+
+These arrows were imbued with necrotic energy. When they struck true, the arrows of Ilmater prevented a target from magical or mundane healing for several seconds.
+
+History
+These magic arrows could be found in select locales across the Sword Coast as of the late 15 century DR.
+
+Notable Owners
+ Dammon, the tiefling smith from Elturel came across one of these arrows during his travels and offered it for sale to others.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+External links
+
+References
+
+---
+
+## Arbonne
+
+Arbonne was a tiny fishing village in the Vast in the mid-to-late 14 century DR.
+
+Geography
+It lay on the shore of the Sea of Fallen Stars, somewhere south of Procampur.
+
+Trade
+Apart from a few outlying farms, Arbonne made its living off the sea. It had its own shipbuilder, known as Justin of Arbonne.
+
+Appendix
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Arkhigoul
+
+Arkhigoul was a lich and former foe of Zhentil Keep who was destroyed some time before .
+
+History
+In a meeting within Zhentil Keep in Mirtul 21 of, the destruction of Arkhigoul was cited by Lord Kalthas as the reason why defending Thar was no longer an issue, almost certainly implying his defeat had been recent and that he had been an obstacle to an effective defense of Thar.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arntethyl
+
+Arntethyl was a high mountain valley where the River Tesh was born and cascaded to the east, across the Dalelands and into the Moonsea.
+
+Description
+River Tesh moved across downslope across many gorges of the Desertsmouth Mountains and formed the river's Tesh Valley.
+
+Arntethyl held a supply encampment of the Zhentarim that supported the Black Network's activities in the great dessert of Anauroch.
+
+History
+The encampment also held Zhentish troops that could be used as reinforcements across the region. The valley held at least a thousand Zhentish warriors and twenty wizards circa the . During that time, the troops were led by the mage named Ruatheene, a Manshoon's favored, and her massive and powerful beholder Araunglauth. The beholder called the valley of Arntethyl its home for seventy years prior.
+
+Appendix
+References
+
+---
+
+## Arblood Street
+
+Arblood Street was a road found within Tulmon along the Lake of Steam during the mid-to-late 14 century DR.
+
+Notable Locations
+Dashalam Winery, a winery specializing in ruby wine and sherry, was located along Arblood Street.
+
+Appendix
+References
+
+---
+
+## Architrave
+
+Architrave was a malaugrym in the mid–14 century. He sought spellfire in the Prime Material plane.
+
+Description
+A shapeshifter, Architrave's own form was mutable. While in his own form, Architrave made use of multiple tentacles.
+
+Personality
+The malaugrym chafed under the need for keeping up his guard.
+
+Abilities
+He showed great prowess when using his tentacles in combat.
+
+Possessions
+Architrave carried a doomstar that required recharging, per him.
+
+Relationships
+Architrave stayed close to his sister, Sintre. They had spent some time with their mother, Amarune, but he had talked to her less than his sister. He suspected their father may have been Dhalgrave.
+
+History
+Architrave was named after a late human servant of Malaug. They'd known their mother, Amarune, for some time, but she'd since disappeared from their lives, and he never truly knew whom his sire was. By, he came to seek spellfire at the Gates of Doom, though Shandril had yet to manifest the ability, strongly implying he possessed some foresight of the coming events. These events transcurred on Mirtul 20.
+
+At that point Architrave and his sister, Sintre, came across two other malaugrym, Magusta and Stralane, while impersonating warriors in the caravan of the Cult of the Dragon at the Gates of Doom. One of the four, almost certainly Architrave himself,As Architrave is hunting for spellfire, and the killer sought entry across the Gates, it stands to reason that Architrave was the most likely killer. decided to kill the rest of the caravan to make their way, and their partner revealed themselves; the other two showed themselves afterwards, and a fight ensued between the two groups. Architrave and Sintre lost the other two, of which one had determined that Architrave was seeking spellfire. Architrave sought this spellfire to wield it as a weapon against the Shadowmaster High.
+
+Architrave kept hunting for spellfire for at least two more months. He posed as a priest of Bane during a coup at Zhentil Keep; it was there that his sister found out he sought spellfire, and he revealed to her the doomstar that was the linchpin of his plan.
+
+Not long after, Architrave struck against Thiszult of the Cult of the Dragon, who fled him. Afterwards, Architrave flew up into the air, drawing the attention of Shargrailar, who slew him on the spot. The event happened on Flamerule 9.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Arlho
+
+Arlho was a brewer and merchant inhabiting the town of Ashabenford in Mistledale during the mid-to-late 14 century DR.
+
+Activties
+Arlho owned a brewery and winery called Arlho's Fine Flasks located in the center of Ashabenford. Though the quality of his wares would easily allow him to expand his business to earn more income, Arlho preferred to keep things small and manageable.
+
+History
+Arlho was originally from Arabel.
+
+Appendix
+References
+
+---
+
+## Arbrest Thunwyllun
+
+Arbrest Thunwyllun was an inhabitant of the village of Maskyr's Eye in the Vast in the 14 century DR.
+
+History
+Circa 1341 DR, Arbrest Thunwyllun joined the effort to drive the local cobbler, wizard, and former Elder of the Council Ssuntyr out of the village for his crimes. But the fight turned bloody, and Arbrest pierced Ssuntyr with his pitchfork.
+
+Appendix
+References
+
+---
+
+## Artengak
+
+An artengak was a type of harpoon used by Angulutiun and Iulutiun hunters.
+
+Description
+The artengak was designed specifically for seal hunting. An artengak possessed a slender profile compared to the unungak but shared a comparable bone tip. Its primary function was as a hunting tool. A lengthy cord was attached to the shaft, terminating in a loop that the hunter securely fastened around their wrist. This cord served the purpose of preventing the game from eluding the weapon, ensuring a successful capture.
+
+Appendix
+References
+
+---
+
+## Arkaiun courser
+
+The Arkaiun courser was a breed of heavy warhorse from the lands of Dambrath and the Shining South.
+
+Description
+These hardy and stout equines had brown hide and a white muzzle. They were bred to endure long rides and nomadic lifestyles of the Arkaiun humans that inhabited Dambrath, Halruaa, and the Shaar.
+
+History
+By the late 15 century DR, Arkaiun coursers were a valuable commodity and exported from the Shining South as far as the northern city of Neverwinter.
+
+Appendix
+References
+
+---
+
+## Arcane blight
+
+An arcane blight was a magical disease that transformed the sufferer into a nothic.
+
+Acquisition
+Any humanoid exposed to an area radiating an arcane blight ran the risk of contracting it within twelve hours. If they did so, the first obvious signs were feelings of isolation and experiencing paranoid delusions that left the victim unable to trust anyone around them. As the disease progressed, the victim would transform into a nothic over the course of three days if they were unable to shake the blight. This entailed symptoms of clammy skin, hair loss, and near-sightedness before the transformation culminated on the final day.
+
+Treatment
+The best way to avoid the disease was to prevent prolonged exposure to it. Once an individual became infected and their three day countdown began, their chances of fighting off the disease actually increased day-by-day until it became too late. During this period, curative magic on the level of greater restoration could remove the disease as well as its physical and psychological symptoms, however, once the full transformation into a nothic had occurred, only divine intervention or the wish spell could reverse it.
+
+Those who beat the disease naturally found themselves immune to it, although this was not the case for those who were magically cured.
+
+History
+When the floating Netherese enclave of Ythryn crashed into the Reghed Glacier in the, the ruined city radiated an arcane blight that soon turned the surviving mages into nothics. Even centuries later, as of the late 15 century DR, visitors to the crash site risked succumbing to the blight as well if they lingered for too long.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arluth
+
+Arluth was a Zhentarim mage of the mid-14 century DR.
+
+Abilities
+Arluth was a mage.
+
+Activities
+Arluth formed part of a squad of Zhentarim mages.
+
+Relationships
+Other mages in the same squad to which Arluth belonged were Chsalbreian and Sundarth.
+
+History
+In, Sundarth reported to Manshoon that a group of mages seeking spellfire in Sembia was attacked, first by Harpers and then by Cult of the Dragon forces. He named Arluth as one of the casualties.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Armond Arhesian
+
+Armond Arhesian was a reporter who wrote for the Ravens Bluff Trumpeter broadsheet in Ravens Bluff in the late 14 century DR.
+
+History
+Armond Arhesian's most notable article was published in Uktar-Nightal of the . The reporter interviewed Ambassador Belakira from Thay regarding her complaint against the adventurers of Ravens Bluff. Armond listed the accusations' specifics and reported on the Ambassador placing the blame on a new lord in the City of Ravens, Lorien Darkarrow. He also stated that the accusations had little evidence and were on shaky ground at best. Lastly, Armond Arhesian stated that Mayor Thoden interviewed the young lord at Fort Thoden. He had an alibi. Darkarrow was allegedly hurt by a black dragon's acid and sharp teeth, but his bodily wounds were the proof. According to the Trumpeter, Sir Voltroy of Lathander was tasked by Mayor Thoden with casting healing spells on the crippled Lord.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Arroc
+
+Arroc was a mage member of the Wizards Guild of Ravens Bluff, active in the late 14 century DR.
+
+History
+In Eleint of the, or within less than a month, Arroc, Rafim Cinder, and Glithander Ej-lahona became the three most recent additions to the famed Wizards Guild of Ravens Bluff. Their acceptance into the guild was personally sponsored by the Old Sage, Elminster Aumar himself, who, at the time, visited the guild to address the looming planet threat to The Vast. All three new gamers were rumored to have elvish blood and to be originally from Elminster's home – the Dalelands. Arroc's acceptance into the guild and Elminster's visit were reported in the popular broadsheet – Ravens Bluff Trumpeter, by Nadd Parker, a freelance reporter.
+
+Appendix
+Notes
+
+Background
+Arroc was a player-character who participated in the Living City RPGA events and adventures. He was played by Richard Gurdak of Vermont.
+
+References
+
+---
+
+## Archer
+
+Archers were fighters or rangers that devoted themselves to the art of archery, becoming the best of marksmen.
+
+Activities
+An archer was typically worked as artillery in military units, castle defenders, a hunter of wild game, and occasionally worked as brigands or caravan guards.
+
+Culture
+
+In Faerûn archers could be found across the Sword Coast, all the way up to the Icewind Dale region, as well as in west Faerûn in the nations of Amn and Tethyr.
+
+Abilities
+Like any ranger, archers had some degree of training in magic.
+
+Combat
+Through archers were primarily bow users — from longbows and shortbows to crossbows — they also typically had some skill with throwing weapons, such as slings. Having devoted themselves to archery, they were less skilled than other rangers in the use of melee weaponry, especially blunt weaponry.
+
+History
+In the, during the Bloodstone Wars the "army of the minor baronies" boasted 260 archers.
+
+Notable Archers
+ The Huntress, a demonic humanoid archer who was linked to the fortress of Watcher's Keep during the mid–14 century DR.
+ Schael Corwin, an officer of the Flaming Fist during the mid–14 century DR.
+
+Appendix
+See Also
+ Arcane archer
+ Peerless archer
+Notes
+
+Appearances
+
+Gallery
+
+External Links
+
+References
+
+---
+
+## Arauntril: Lady Death, Lady Flame
+
+Arauntril: Lady Death, Lady Flame was an extraordinarily popular book of comedic adventure fiction in the Heartlands of the Realms.
+
+Contents
+Arauntril was the epic adventure story of Arauntril, a sorceress with a sword who possessed decidedly un-heroic qualities. Though bold, beautiful, and clever, she was also rather evil, sharp-tongued, selfish, and wanton in her ways, and met her challenges with swordplay, trickery, and seduction as she acrobatically tumbled between beds and fights as she sought her fortune. Unlike the scandalously pornographic Tal Tessoran, the sex in Arauntril was treated as comedic or perfunctorily matter-of-fact, not getting in the way of the story's true passion: righteously skewering ridiculous caricatures that all audiences could relate to. Arauntril used her cunning to run circles about these contemptible victims and get what she wanted, and did not hesitate to turn her vicious wit on herself when she made mistakes and errors of judgment.
+
+History
+The book was written by the clerk Sarkoarvhan Dhurr of Tethyr in the 14 century DR, inspired by his frustrations with the unbearably pompous and unpleasant people that he had to deal with. It reached tremendous popularity in the Realms, beloved for its witty prose and sharp parody of human nature that brought fresh laughter even from those who knew its pages well. Shortly after, an anonymous author wrote their own sequel of sorts, Arauntril Scourged. Though initially upset, Dhurr found it delightful once he got the chance to read it.
+
+Appendix
+References
+
+---
+
+## Arauntril Scourged
+
+Arauntril Scourged was an controversial, yet highly-sought-after book of erotic fiction in the Heartlands of the Realms.
+
+Contents
+Arauntril Scourged was the unauthorized sequel of the adventure story Arauntril: Lady Death, Lady Flame by Sarkoarvhan Dhurr. Moving away from the original's rollicking adventure-comedy, Scourged was intensely and unrelentingly pornographic on every page. In the midst of these highly novel and memorable sex scenes, it featured and made sharp social commentary of current rulers, realms, writers, and customs that the author found worthy of critique.
+
+History
+Arauntril Scourged was written by an anonymous author, working without the knowledge or approval of Sarkoarvhan Dhurr. The book had a limited run and was very hard to find, with the rare few held tightly by their owners. Though Dhurr was upset when he first heard of it, when he finally got a chance to read it he was quite delighted by the contents. The Sage Royal of Cormyr Lord Alaphondar commented that the depictions of people in the book were "wincingly accurate".
+
+Appendix
+References
+
+---
+
+## Ardoso: A Romance of Magic
+
+Ardoso: A Romance of Magic was a popular book of fiction in the Heartlands of the Realms.
+
+Description
+Ardoso was a slender book, and the cover was always decorated in various pseudo-magical symbologies. On occasion, the cover was used to transmit coded messages amid the innocuous nonsense.
+
+Contents
+The book told the tale of the fictional wizard Ardoso, as he rose from obscurity in his youth to become the ruler of his own realm and a matchless archwizard. Though the story revolved around magical concepts, all of it was complete nonsense made up by the author and had absolutely no use in reality.
+
+Ardoso had famously overdone purple prose verging on poetry, but this turned in favor of its reputation as it generated a number of novel phrases that came into use by other writers and in common speech. These included "all eye-fingered" (describing someone looking about warily in all directions), "gods-kissed" (describing someone struck with a brilliant idea, or possessed of extraordinary natural talent in a skill), "storm-browed" (describing someone glowering furiously), and "dusk-eyed and soft-shouldered" (describing a beautiful woman comporting herself through dress and manner so as to request attention without being flirtatious or demanding).
+
+Appendix
+References
+
+---
+
+## Argent Shield
+
+The Argent Shield was one of the enchanted shield created in the Seldarine's Hand citadel on the Spine of the World.
+
+Description
+This silver shield bore markings of the Seldarine's Hand and was designed to protect its wielder physically and magically.
+
+Powers
+The Argent Shield possessed a potent defensive +3 enchantment and granted the wielder limited resistance to magic. Its magics were attuned exclusively to elves, rendering the shield unusable by anyone else.
+
+History
+After completion of construction of Seldarine's Hand circa the, the inhabitants of the citadel lived in a close alliance with the dwarves of Dorn's Deep. The troops of the elven citadel were outfitted with the best armor and weapons created by the crafters of both races. By the, the Seldarine's Hand had been ruined for centuries and came to be known as the Severed Hand. After the citadel's fall, the Argent Shield remained within the ruins, discard by invading orcs and goblins as trash due to its magical attainment. Maiden Ilmadia Bariel, who served Ilmatari priest Revered Brother Poquelin, reclaimed the enchanted shield from the Hand's ruins and bore it until her death in 1281 DR at the hands of the Heroes of Icewind Dale.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale • Icewind Dale: Trials of the Luremaster
+References
+
+---
+
+## Artwork from Baldur's Gate III
+
+Artwork from Baldur's Gate III is a non-fiction book showing concept art and images used for the Baldur's Gate III video game. It was released by Larian Studios on August 3, 2023 and has a foreword by Joachim Vleminckx, Art Director for the game.
+
+Appendix
+Gallery
+See :Category:Images from Artwork from Baldur's Gate III
+
+References
+
+---
+
+## Argus
+
+Argus was a powerful fighter from Deepingdale in the late 14 century DR who died while on an expedition in the Shining Sea.
+
+History
+Argus worked in Deepingdale as an inexperienced lumberman until meeting the charismatic Waukeenar known as Devlin, who recruited him into his company of eccentric entertainers, entrepreneurs, and scientists that were sailing across the Realms. Devlin made him the captain of one of the group's ships, the Erine's Smile. Eventually the group discovered an island in the Shining Sea, south of Calimshan, which they dubbed the "Forgotten Island". Sometime around the month of Flamerule, in the, Devlin led them all on a colonizing expedition to the island with aims of creating a tourist attraction on the isle that would attract people from all across the Realms. Three months later, things began to go awry for the expedition.
+
+On Marpenoth 5, Argus and a Chultan by the name of Wedonai were patrolling the island when they came across the horrifically mutilated corpse of a stegosaurus. Wedonai would go on to express concerns about angered forest spirits, whilst Angus would tell Devlin that the creature's wounds were suggestive of an attack from another dinosaur. On Marpenoth 11, five velociraptors attacked the expedition site's messhall and both men aided in fending them off, though Argus would die in the process. Later that same day Argus's body was buried near the campsite beneath a copse of tropical fruit trees, with a large stone obelisk bearing his name carved into it erected as a burial marker. The expedition's leader Devlin would go on to lament the loss of Argus within the pages of his diary.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Art Imitates Life
+
+Art Imitates Life is an adventure in the Living City organized play campaign for Dungeons & Dragons 3 edition.
+
+Appendix
+Notes
+
+---
+
+## Arrival
+
+Arrival is an adventure in the Living City organized play campaign for Dungeons & Dragons 2 edition.
+
+Index
+Locations
+
+Appendix
+Reception
+In his review of Arrival, RPGA designer Gregory A. Dreher praised the adventure's writing and its level of connectedness with the Forgotten Realms. He did not recommend it, however, because the adventure causes players to "lose control […] to the whims of fate", and because most "PCs' powers will be rendered useless by the module". He also criticized the high lethality of two early combat encounters. In Dreher's estimation, these factors led to many players "being unable to play their characters as they would like". Finally, he pointed out that an earlier version of the adventure featured even smaller rewards than the "below average" offerings in Arrival. Noting that followers of Torm might enjoy the adventure in spite of its flaws, Dreher rated it a 1 on a scale from 1–5.
+
+Notes
+
+References
+
+---
+
+## Argonethestor
+
+Argonethestor was a brewer, scholar, a retired adventurer, and a powerful mage who studied under Vangerdahast Aeiulvana of Cormyr, active in the late 14 century DR.
+
+Description
+In the late 14 century DR, Argonethestor was a tall and thin man in his twilight years.
+
+Personality
+Argonethestor was a paranoid sort, wary of people, especially those whom his dog Fluff didn't like.
+
+Relationships
+Argonethestor's trusted and beloved companion was his yuppy female dog named Fluff, who was sensitive to evil and malicious magic items.
+
+History
+Argonethestor of Cormyr had a long life. He studied magic and transmutation the Royal Magician of Cormyr himself, Vangerdahast Aeiulvana, and alter, had a fruitful career of an adventurer. By the late 14 century DR, Argonethestor left his adventuring life behind and focused his time on scholarly pursuits, study of magic, and brewing.
+
+On the 17 of Flamerule, the, Argonethestor was visiting the Wizards' Guild of Ravens Bluff to study the secrets of old dwarven brewing. During that time, the Ravenian temple of Mystra – the Halls of Mystery, recovered an evil artifact that belonged to baneliches – the Book of Vile Darkness, penned by the deity Bane himself. Argonethestor's associate in the Wizards' Guild, Sebastian Silverlocke, Dean of Abjuration and Knight of the Mystic Flame, approached the man and asked for his magical help on behalf of the temple. Argonethestor was a spell-caster trustworthy enough to keep that request secret and powerful enough to cast a potent version of the teleportation circle on the group of goodly heroes of the Living City tasked with transporting the book to Harris Redfire in Dragon Falls.
+
+Then, the adventurers met the foreign wizard at or around eight bells. He was amused by the temple's request but agreed to cast the spell nevertheless, despite it being a long casting process. During the preparation, Argonethestor held a lengthy discussion with a dwarvish adventurer about the brewing practices of the stout folk of the Vast. But when the chanting and preparations were done and amber dust was spread around the circle, Fluff attempted to jump and attack the adventurers. However, Argonethestor suspended the barking dog in the air with a quick spell.
+
+Appendix
+Note
+
+Appearances
+
+References
+
+---
+
+## Arthane Furnace
+
+Arthane Furnace was a bloomery east of Beliard during the 15 century DR.
+
+Services
+Arthane Furnace was a large furnace for smelting iron ore and forging raw blades from it. It used ore from nearby Arthane-owned mines, charcoal fuel from local felsul and blueleaf trees on Arthane properties, and quenching vine oil from local Arthane and Secomber-based sources. It was linked by merchants' map to Samril's Fine Blades in Secomber who finished the blades before sending them on to the Arthane Armory in Waterdeep for sale.
+
+History
+The Furnace and the greater business was founded by Eldegul Arthane, who sought to fill the gap left by declining dwarven industry in the North.
+
+Appendix
+References
+
+---
+
+## Arim Montgar
+
+Arim Montgar was a horse trader and owner of Montgar's Horse Outlet in the Port District in the city of Procampur in the late 14 century DR.
+
+He was the eldest son of Quen Montgar, who owned Montgar's Horses, the parent company.
+
+A young man as of 1370 DR, Arim was charming, persuasive, and amiable to all his potential customers. He was also skilled in negotiations and in making a sale.
+
+Appendix
+References
+
+---
+
+## Ardanna
+
+Ardanna was a barmaid who worked in the Cracked Tankard tavern in the Crow's End district of Ravens Bluff in the mid-to-late-14 century DR.
+
+History
+Circa the, Ardanna worked the tables of Relfin Tagorlad's establishment alongside two other barmaids – Torianne and Brianna. They kept an eye on the suspicious customers and were useful to a group of the Living City adventurers, informing them of suspicious Zhentarim-type mercenaries who had recently been seen at the Tankard. Ardanna also stated that the Crow's End district had been in decline of late, with many businesses closing due to the lack of city guard patrols.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Artimezt
+
+Artimezt was a drow mercenary who accompanied Dhourn Ba'Tol during his search for the legendary Adamantine Forge.
+
+History
+The drow wizard Dhourn Ba'Tol vowed to share his fortune with a group of drow mercenaries in exchange for protection if they found the Adamantine Forge. The group consisted of Arcagh, Artimezt, Izwae, Moy and Tecothy.
+
+However, Dhourn's rival Xargrim sought to find the Forge first and once met Dhourn. The rivals were both planning an ambush against each other, but began to talk of a pact, ultimately arguing until their words turned to screams. Xargrim summoned an unusual spectator adept at petrification and fled. Dhourn and his companions were all petrified for so long that Dhourn's memory shard faded.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arcagh
+
+Arcagh was a drow mercenary who accompanied Dhourn Ba'Tol during his search for the legendary Adamantine Forge.
+
+History
+The drow wizard Dhourn Ba'Tol vowed to share his fortune with a group of drow mercenaries in exchange for protection if they find the Adamantine Forge. The group consisted of Arcagh, Artimezt, Izwae, Moy and Tecothy.
+
+However, Dhourn's rival Xargrim sought to find the Forge first and once met Dhourn. The rivals were both planning an ambush against each other, but began to talk of a pact, ultimately arguing until their words turned to screams. Xargrim summoned an unusual spectator adept at petrification and fled. Dhourn and his companions were all petrified for so long that Dhourn's memory shard faded.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Arilan Krimmevol
+
+Captain Arilan Krimmevol was a member of the Amnian Krimmevol family and the Council Army officer who commanded Citadel Amnur in the late 14 century DR after the untimely demise of Commander Endrick Hardlm.
+
+History
+Arilan Krimmevol was stationed as an officer at Citadel Amnur in the service of the incompetent Commander Endrick Hardlm, until the Commander was devoured by a red dragon attack in the . The beast was in turn attacked by the blue dragon Araugauthos, who tore apart the red wyrm's wings and caused it to fall into a nearby chasm where it was impaled upon sharp rocks. Captain Krimmevol took the opportunity to step forward and represent the fortress when Araugauthos returned and demanded an audience, and over two tendays he took part in an exhaustive set of discussions wherein he informed the Bluetalon of the historical events that had passed since she was imprisoned in Undermountain.
+
+To everyone's relief, Araugauthos thanked the humans for their assistance and departed after claiming all the treasure from the dead wyrm's nearby lair. Captain Krimmevol led a detachment of soldiers to investigate the lair as well, and though the hoard had been quite effectively cleared out, he discovered a portable hole that had been crammed into a crack and contained a dozen +1 short swords and a dozen +1 shields of dwarven make.
+
+With no challenges to his command of the fortress, Captain Krimmevol proceeded to administer it much more effectively than his predecessor did. He addressed the glaring deficiencies that had been allowed to fester thus far, and instilled discipline and training that soon had his troops approaching the elite competency held by nearby Citadel Rashturl.
+
+Appendix
+References
+
+---
+
+## Arbas Rosznar
+
+Captain Arbas Rosznar was an Amnian Council Army officer of the Rosznar family who was assigned to command Hillfort Keshla on the realm's borders in the 14 century DR.
+
+Personality
+
+Arbas was a gifted soldier and commander, but since his banishment to Keshla became a perpetually angry, bitter man who took out his frustrations on those below him. Despite his failings, he was still a competent and driven officer who was determined to do a good job—at any cost.
+
+History
+Arbas worked hard at Citadel Rashturl to win the command of the prestigious fortress, but in 1363 DR his aspirations were undone when he accidentally killed a man in a drunken brawl while on leave in Athkatla. To his misfortune, the man was the lover of Lady Phillippa Argrim, and only his family connections saved him from execution. Instead, he was assigned to the Hillfort of Keshla in the distant Tejarn Hills, a notorious posting used to dump malcontents and incompetents.
+
+Arbas managed to take command of the inferior fort through the judicious use of murder, extortion, and other nasty deeds, and set about transforming it into a proper military operation. He ruled the fort through tyranny and abuse, and took out his frustrations in life on the bevy of incompetent soldiers who were sent his way. Arbas engendered fear and hatred in those under him, though his methods were actually very effective in raising the slipshod standards he had inherited. Through his efforts, the fortress was kept clean and in good repair, the troops improved from useless dregs to borderline-normal soldiers, and the underofficers started expressing some ingenuity, such as in developing a new boiling oil defense.
+
+Desperate to show off his work and be reassigned elsewhere, Arbas requested an inspection from General Labak Craumerdaun (or failing that, Commander Balacer Macefist) every year that he was at the fort, and the General finally agreed to perform a visit on Midsummer of 1370 DR. Unfortunately for Arbas, this was interrupted by the crisis with Tethyr over the secession of Riatavin and Trailstone. General Craumerdaun arrived at Keshla in Eleasias at the head of the army in preparation for the attack on Riatavin, only to be diverted away by the Sothillisian War suddenly breaking out elsewhere.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arbas
+
+King Arbas "the Black Usuper" was an interloper who briefly seized the throne of Amn in the 7 century.
+
+Relationships
+Arbas was married to Leluia Torlath, the only daughter of King Brinnaq Torlath I.
+
+History
+After the death of King Brinnaq I in 694 DR, Arbas set about killing all the male Torlaths in Amn and wiped out most of the royal family by 696 DR, including newly-crowned King Esmel IV and his baby son Esmar. Arbas took the crown of Amn for himself, but his reign ended the next year when the surviving Torlath heir Jhanos I returned and slew him, reclaiming the throne for his family.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Arlen Bormul
+
+Arlen Bormul was a member of the Bormul family in the late 13 and early 14 century DR who contributed to the collapse of the kingdom of Amn and directly caused the extinction of the Parhek dynasty.
+
+History
+Following the collapse of Amn following the assassination of King Dhanar Parhek in the, Arlen took part in the intrigues and conspiracies that sought to take advantage of the chaos. His agents located a branch of the Parhek dynasty in Silverymoon, and sent assassins to take care of them in the . The heirs Choris and Rosa were killed while Prince Rasa and Rhothar escaped, but Rohav was captured and the eight-year-old was sent to Baldur's Gate for safekeeping, and was brainwashed to believe that the assassins had actually rescued him. Rohav proved useful in tracking down his uncle Prince Malek the Coinmage, and, in the, Malek and his children Rhinn, Savra, and Parav were all killed. Rohav outlived his usefulness, and Arlen poisoned him to death in 1306 DR, putting an end to the Parhek family.
+
+Appendix
+References
+
+---
+
+## Arkhen's Hoard
+
+Arkhen's Hoard was a variety of blended wine, produced in Sembia. It was exported as far as the Western Heartlands, the lands along the River Chionthar, and the city of Baldur's Gate, as of the late 15 century DR.
+
+Description
+Arkhen's Hoard was a middling quality blended wine. It had notable sweet jam and tabacco flavor notes.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Arauntar
+
+Arauntar was a Harper operating as a caravan driver in the Sword Coast during the mid-14 century DR.
+
+Appearance
+Arauntar was grizzled.
+
+Abilities
+Arauntar could wield two swords.
+
+Relationships
+As of, Tessaril Winter was aware of Arauntar and Beldimarr's status as Harpers. Both of them worked for Orthil Voldovan, who wasn't a Harper himself. She, too, was an acquaintance of his'. Arauntar and Beldimarr had a pact to kill each other if the other was to ever be mortally wounded and left in agony.
+
+History
+Arauntar had been to Aglarond and Rashemen.
+
+In, Tessaril Winter instructed Shandril Shessair and Narm Tamaraith to join Voldovan's caravan to make the road from Scornubel to Waterdeep, telling them also that Beldimarr and Arauntar, of his men, were Harpers.
+
+The two departed Scornubel alongside Orthil Voldovan with a caravan of thirty-two wagons, plus two "ready-wagons", one wagon for strongboxes and small cargo, and a cook wagon. Orthil was pleased when Shandril and Narm asked to disguise themselves as guards, which they did during the departure from Scornubel; Arauntar and Beldimarr helped Sharantyr disguise herself better as one of Voldovan's men, which were all men. However, even from the start, one of his guards, Storstil, was slain almost as soon as they left Scornubel, and spells in the wagons killed two people. He quickly began to suspect Shandril and Narm at that point, though he had eyewitnesses that placed them away from the murder scenes. Arauntar took forward scouting position, while Orthil tasked Beldimarr, who remained behind, with searching the dead Storstil. Orthil claimed to be traveling with one mage, but believe there were a dozen more amongst the travelers; rather than find the culprit, he priorized making it to Face Crag before nightfall, which made for a better defensible position. Along the way, they were attacked before making it to the crag.
+
+During the ambush, Voldovan tied up Narm, believing him to have gone out of line by trying to go find Shandril, abandoning his post, rather than protecting the part of the caravan where he had been assigned. Voldovan later approached Shandril, who was with Thorst; he called on her to find some of his healing accoutrements, and ordered Arauntar and Beldimarr, one of which had slain two bandits during the ambush, to drive Thorst's wagon. Arauntar and Beldimarr later checked on the wagons; one of the wagons they checked was Haransau Olimer's; the man on whom they checked up there was actually Marlel, who had impersonated the blandreth seller. Arauntar informed Shandril that her husband, Narm, was being tended to after the ambush; she protested she'd tend to him herself.  The man later took Narm to her, after asking for his silence on Narbuth and Jathun knocking him out and tying him up.
+
+Arauntar informed Shandril in the morning that she was oversleeping and Orthil was in a rush. Orthil later personally came to demand why she wasn't up. During their conversation Arauntar and Beldimarr turned up and said how they'd arranged for some goods to be moved to the abandoned wagons, still in better shape; Shandril resolved she and Narm would drive on the same wagon, which Beldimarr approved of, claiming they'd be easier to keep track of. During that morning, Arauntar and Beldimarr inspected the wagon belonging to Mhegras and Sabran, twice; the second time, they checked on the secret floor they had spotted the first time. Voldovan was summoned for that. The master of the caravan brought along Shandril and Narm, and the latter checked the contraband horse barding for magic; finding nothing of interest, they left.
+
+After a later ambush, Orthil Voldovan personally sought out Shandril and Narm, and took them to Arauntar and Beldimarr. The latter was about to fulfill a pact with Arauntar, to dispatch him painlessly if mortally wounded; instead, Shandril used her spellfire to heal him. She later used her power to heal Beldimarr; she found the limit of her strength there. Voldovan called afterwards on everyone to hurry to Orcskull Rise. At Orsckull Rise, Arauntar briefly chatted with Shandril.  The night was itself uneventful.
+
+During the next ambush, after Orcskull Rise, Arauntar was helped in attacking Thoadrin's forces by Shandril. She heard his response to the spell that Aumlar Chauntoun called down, which was rather crude. Arauntar took refuge in Shandril's wagon when the fighting turned even uglier. While he was there, he witnessed Aumlar teleport into the wagon, but was disabled by electricity crackling around him, likely the product of a forming spellstorm. He recovered quickly enough to slay the Zhentarim mage shortly after.
+
+Arauntar and Beldimarr killed Mhegras and Sabran later, while the latter two spied on Shandril. Arauntar later carried Shandril back to the caravan, and together with Beldimarr, transferred Narm and Shandril to a wagon which they crammed with spare axles and wheels. Arauntar had slain Mhegras, while Beldimarr had slain Sabran; unknown to them, the two had been raised thanks to a contingent spell. Approaching Triel, Voldovan told Darhabran Windhome that he was already willing to kill Shandril. Closing on Triel, in sight of Duskview house, Beldimarr related to Shandril and Narm about Triel. At Duskview house, Orthil Voldovan and Beldimarr met with herald Stormshield for hiring new sellswords as guards. Briefly, Beldimarr was distracted by another Harper he'd never seen telling him the Three Laws would soon apply on every city; Orthil, after that moment, seemed to have difficulty recognizing Beldimarr, and spoke more stiffly; Beldimarr told Arauntar as much later.
+
+After Triel, Arauntar met with Shandril and Narm one night, to ask them to douse their lights before going to sleep: he claimed that bad runs between Scornubel and Waterdeep were far worse than that one had been. Arauntar reviewed the damage to Shandril's wagon later, after another attacker, almost certainly Mhegras of the Zhentarim, tried to smoke Shandril out of it. During the night after leaving Triel, Arauntar and Beldimarr had to protect Shandril and Narm again, as a magic-drinking entity, Evaereol Rathrane, had the caravan in its influence and was blocking both her spellfire and his spells. Sharantyr reached the caravan at this point, and Arauntar took her to be another hunter after spellfire.
+
+Only Shandril's intervention prevented them from killing each other; Sharantyr, after that point, said that the man pretending to be Orthil Voldovan wasn't. Beldimarr was then mortally wounded; when Shandril attempted to heal him, she failed, and instead slew him. Orthil ordered all the guards away from Shandril at that point.
+
+Unknown to them, Orthil had been replaced by a red wizard while in Triel: Thavaun. Thavaun had Shandril and Narm sleep in his wagon. As Shandril's spellfire went almost completely out of control, the fake Voldovan stabbed Narm from behind, mortally wounding him. Arauntar was the one who finally slew Thavaun, after the latter lowered his guard on watching Shandril disintegrate.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Arsonist's oil
+
+Arsonist's oil was a type of magic oil that turned resistance to fire to a vulnerability.
+
+Description
+Arsonist's oil was a white oil, usually packed in round glass containers that could be quickly opened and applied to weapons in the heat of battle or tossed at an enemy with ease.
+
+Powers
+When a weapon coated with this oil stricken a creature or an object that possessed resistance to heat, flame, and high temperatures, such as a cambion, they immediately lost the protection from that element, becoming vulnerable to fire. The effects of this oil had no effect on those who were immune to fire.
+
+Creation
+A recipe of this elixir required a mixture of alchemical sublimate of unmelting ice mephit's frosted ears and certain types of ashes.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Argument Solver
+
+Argument Solver was a type of enchanted greatclub from the Western Heartlands of Faerûn.
+
+Powers
+Argument Solver possessed a +1 enchantment that guided the bludgeon towards its targets and made its damage more severe. Additionally, Argument Solver reeked of foul and could discharge a cloud of poisonous mist upon contact with a target.
+
+History
+In the, Argument Solver was wielded by a member of the Cult of the Absolute based out of the Moonrise Towers in the Shadow-cursed Lands.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Arnell Hallowleaf
+
+Arnell Hallowleaf was an elven werewolf who devoted to himself to the goddess Selûne in the mid-to-late 15 century DR.
+
+Abilities
+
+He had the ability to transform into the form of a wolf, a power not entirely uncommon among the Selûnite faithful.
+
+Relationships
+Arnell was married to the human woman Emmeline. Together they had a single daughter, Jenevelle, who was taken from Selûne's grace by the faithful of Shar.
+
+History
+Around the Year of the Elves' Weeping, 1462 DR, Jenevelle was left alone in the woods at night and directed to find her way home, as was tradition among the Selûnite faithful's soon-to-be-adult children. Unfortunately, a group of Sharran priestesses led by Mother Superior Viconia DeVir plotted to abduct the child during the rite and utilize her for their own ends. Arnell Hallowleaf learned of the Sharrans' plan, took on his wolf form and tried to rescue his daughter. He was too late however, and Viconia and Shar's servants abducted Jenevelle.
+
+The couple were taken to the same Sharran church as their daughter, called Cloister of Sombre Embrace. During their imprisonment, they saw their daughter Jenevelle, now renamed Shadowheart, and other Sharran neophytes being brainwashed into worshiping the Lady of Loss. They were made the subjects of their own daughter's training in torture and they had to watch their daughter's memory and personality being erased over and over. The Sharrans also cursed their daughter with a bond of torment between the parents and her. Despite being imprisoned and tortured for years, the couple still hoped to see their daughter to become herself again.
+
+They were intended to be the last stage of Shadowheart's full conversion to the Lady of Loss: to kill her own parents in veneration of Shar. She was intended to become Shar's new Chosen and reform the order of Dark Justiciars from the Gauntlet of Shar.
+
+As the Absolute crisis shook Baldur's Gate, Shadowheart may have discovered her true nature, which led her to confront the dark goddess. Shadowheart could choose to abandon Shar for Selûne and give her long-suffering parents and herself freedom by ending Emmeline's and Arnell's lives, or choose to save her parents and bravely bear the curse.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arthur Billfold
+
+Arthur Billfold was an art connoisseur who once lived in the city of Baldur's Gate, sometime in the late 15 century DR.
+
+History
+Arthur died some time between the  and the . He was buried in a small wealthy graveyard located by the Lower City Mortuary in the Lower City on the inner side of the city walls, northwest from the Basilisk Gate. His well-kept headstone read: "Here lies Arthur Billfold, dedicated patron of unconventional arts."
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Art Cullagh
+
+Art Cullagh was a member of the Flaming Fist who served Grand Duke Eltan in the late 14 century DR.
+
+Description
+Art was a human man with olive skin and short curly black hair. His hands had calluses typical of a musician who played a stringed musical instrument.
+
+History
+Sometime before the, Flame Cullagh of Baldur's Gate was ordered to infiltrate the Moonrise Towers in order to investigate its ancestral Thorm family. Art was personally tasked with the investigation by Grand Duke Eltan. The Grand Duke had become aware of a corruption that had begun spreading through the towers and the town of Reithwin in addition to rumors of a Sharran enclave emerging in the area. Art was to rent a room at the Last Light Inn and work from there, starting with the investigation of the town's House of Healing.
+
+However, Flame Cullagh was among those consumed by the Shadow-cursed Lands when the town was enveloped by a Sharran curse. Unlike many others, Art survived, his mind addled. He was found wandering in the shadows in the  by the Harpers led by the High Harper Jaheira and the Flaming Fist under Councilor Florrick. His now catatonic yet still-living body was laid down in the Last Light Inn. Fist J'ehlar attended to the comatose man, who was unresponsive and only mumbled lyrics of an ancient song. His condition was a spiritual malaise; his mind was gripped by the Shadowfell, but he remained human as the world of darkness failed to break Art's mind fully. Fist J'ehlar was trying to help the catatonic man in order to find out any information about Grand Duke Ulder Ravengard, who had been kidnapped and dragged into the Moonrise Towers.
+
+It is unknown if Flame Cullagh was woken up, remained bed-ridden, or if he survived when the shadow curse finally consumed the Last Light Inn.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Arsenic
+
+Arsenic was a toxic elemental material found in the Realms.
+
+Availability
+ In, the Elemental Store of Karsus Enclave sold pure elemental powdered arsenic for 8 gp per .
+ Aurora's Emporium sold arsenic for use by wizards as a material component for 3 sp per .
+
+Occurrences
+ Arsenic could be found naturally occurring in certain plants.
+ Chain devil dung resembled a kind of soft, crumbly slag that contained large amounts of arsenic and sulfur.
+ Arsenic was found in volcanic areas such as the Lake of Steam.
+
+Usages
+ Arsenic was used as an ingested poison that weakened and then killed the target. It was especially popular and prevalent in Zakhara.
+ The vile lichnee potion that transformed someone into a lich used three drops of pure arsenic, as well as the heart of a humanoid killed by a combination of arsenic and belladonna.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Arborius
+
+Arborius was a Netherese fighter who worked as a guide in Karsus Enclave until its destruction in . He was one of those locals who gave guided tours to visitors.
+
+Appendix
+References
+
+---
+
+## Arconi
+
+Arconi was a Netherese arcanist who was the Dean of Teachers at the Inventor's Conservatory in the enclave of Eileanar until its destruction in .
+
+Activities
+Arconi oversaw and taught alongside the other seven resident teachers, made up of Dolci, Agassaz, Belair, Koler, Clayton, Ballarini, and Staufehaus.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Aratus
+
+Aratus was a Netherese priest who worked as a healer for hire in Karsus Enclave until its destruction in .
+
+Appendix
+References
+
+---
+
+## Arrow of salving
+
+Arrows of salving were a type of arrow imbued with curative magics.
+
+Description
+An arrow of salving had a strange orb for its arrowhead that contained a type of fizzling and soothing balm well known for its curative properties. When the arrow met its target, it unleashed the balm locked in its arrowhead, treating and alleviating such conditions as poison, paralysis, and blindness.
+
+History
+Such arrows were known to be found around the Western Heartlands and the city of Baldur's Gate in the 15 century DR.
+
+Notable Owners
+ Esther, an adventuring agent of the Society of Brilliance in the late 15 century DR.
+ Talli, a Harper quartermaster who followed the High Harper Jaheira into the Shadow-cursed Lands in the late 15 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arnhake
+
+Arnhake were freshwater organisms that moved in schools, almost certainly fish. They were a food staple.
+
+Behavior
+These entities moved in schools.
+
+Ecology
+Communities along the Easting Reach in Impiltur fished schools of arnhake with nets.
+
+Arnhake were eaten fried in the Sword Coast.
+
+History
+Fried arnhake were amongst the provisions of Haransau Olimer, eaten by Marlel after slaying him.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Archibald Ravenshade
+
+Lord Archibald Ravenshade was a patriar member of the Ravenshade family in Baldur's Gate sometime in or before the late 15 century DR.
+
+Description
+Archibald was a haughty-looking half-elven man with greenish-tinted skin, long wavy brown hair, and well-groomed facial hair.
+
+Activities
+Lord Ravenshade was known as a master author and playwright who penned sonnets and plays about "ambition, supernatural tensions with the natural world, avarice, love, and moving bushes." One of his plays was called Porklet.
+
+History
+In the, a portrait of Archibald Ravenshade painted by Oskar Fevras was kept in the attic of the Jannath estate of Baldur's Gate. That year, it became possessed by wailing poltergeist unwittingly summoned by the painter. The picture whispered alluringly, only to shriek later, startling observers. Other copies of the same painting were seen across the city of Baldur's Gate.
+
+Appendix
+Gallery
+
+Appearances
+Video Games
+
+Baldur's Gate III
+
+References
+
+---
+
+## Aradin the Elder
+
+Aradin the Elder, father of Aradin Beno, was an inhabitant of Baldur's Gate who died some years before the late 15 century DR.
+
+History
+Aradin the Elder died sometime before the  and was buried in the Lower City Graveyard, next to the Grand Mausoleum. His gravestone was etched with a single inscription: "Aradin the Elder - Open the Bloody Gates." His grave may had been accidentally desecrated, and his body risen as a zombie by Nina Dortmell, a talented child with a gift, who was trying to resurrect her recently deceased brother.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Armor of Landfall
+
+The Armor of Landfall was a set of druidic light armor that granted the wearer the ability to grow plant life magically, found in the city of Baldur's Gate in the late 15 century DR.
+
+Description
+The Armor of Landfall had a distinct non-unpleasant aroma of a wild garden of roses, moss, and hibiscus.
+
+Powers
+This light armor possessed the power to boost the wearer's spellcasting abilities, guiding their spells towards the targets. It also granted them an upper hand in resisting constitution-draining spells and effects. Lastly, the wearer could invoke druidic magic to cast the plant growth spell once per day, and whilst the wearer of the Armor of Landfall stood amidst the magically created plants, they received small amounts of magical healing.
+History
+The Armor of Landfall was once worn by a powerful but reclusive druid sometime before the, when the druidic garb found its way into the stock of the Sorcerous Sundries in Baldur's Gate.
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Arch Hold
+
+Arch Hold was a stronghold in Archendale that was a part of White Ford's defensive system.
+
+Name
+Arch Hold was named for its strategic position, overseeing the dark and perilous Arch Wood.
+
+Location
+It stood close to the western edge of Arch Wood and bordered White Ford's Wolfwall.
+
+Structure
+Arch Hold comprised a ring-shaped stone wall with a protective ditch. It had a dug-out sleeping quarters for the members of the one or two  Rides (sixty members each) garrisoned in White Ford and the Archenriders patrolling Archendale.
+
+Its elevated location afforded a commanding view of the whole Wolfwall encircling White Ford and linking Arch Hold with the other local stronghold, Beacon Tor.
+
+Defenses
+Around 1370 DR, the stronghold possessed some ballista emplacements scattered along its walls. Arch Hold's arsenal had giant crossbow used by the garrison to target the edge of Arch Wood. The bolts were often treated with pitch and ignited to be used as fire arrows.
+
+Appendix
+Trivia
+It was planned to implement Arch Hold in the cancelled Baldur's Gate III: The Black Hound.
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Ardhuval Raiserek
+
+Ardhuval Raiserek was a human militant wizard and a scion of a noble Cormyrean family in the mid–14 century DR.
+
+Description
+Ardhuval was a resourceful man with a brilliant mind.
+
+Abilities
+He was specialized in fire magic.
+
+Possessions
+The wizard wielded an enchanted +2 longsword and a wand of lightning offensively and protected himself with bracers of defense and a ring of projection, and carried a potion of growth.
+
+History
+Ardhuval Raiserek was born into a prominent noble house of Suzail. Showing a keen mind, he studied under the Royal Magician of Cormyr himself, Vangerdahast Aeiulvana. Upon reaching adulthood, Ardhuval took to adventuring and traveled far and wide, aiding agents and interests of Cormyr abroad.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Aric Cozar
+
+Aric Cozar was the transmuter mage son of Prince Frun of Bral in the mid–14 century DR.
+
+Possessions
+Aric protected himself with a cloak of protection and a ring of protection, as well as a ring of spell turning. The prince was armed with a staff of power and often carried a potion of water breathing.
+
+History
+Prince Aric was the rightful heir of Bral's throne, but his uncle, Prince Andru took the throne for himself and disinherited Aric Cozar. In turn, Aric planned to reclaim what was his birthright.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arabellan Palace
+
+The Arabellan Palace was the home of the ruler of Arabel in Cormyr.
+
+Description
+The palace was luxurious to behold. It had five narrow towers, with elegantly sweeping turrets and conical roofs. The palace contained the court of Myrmeen Lhal and an assembly hall.
+
+Location
+The palace was located in the most prosperous section of the city, the north, being surrounded by the citadel and multiple mansions of the rich elite and by the Lady's House, a temple to Tymora.
+
+Defenses
+Soldiers of the Purple Dragons were stationed as palace guards. These were members of the city's garrison, which was under the command of Myrmeen Lhal.
+
+Several floors of the palace were also warded by ring wards.
+
+Services
+Guests of the king were usually housed nearby in the Dragon's Rest instead of in the palace.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Armor of comfort
+
+Armors of comfort were enchanted sets of heavy armor that were masterfully crafted to be soft and comfortable on the inside.
+
+Description
+Armors of comfort were constructed of interlocking iron plates, greaves, and gauntlets, seemingly heavy and unwieldy. However, once the armor was put on, it felt light and comfortable, as if nothing more than a soft tunic. These sets of amore were even magically scented with lavender to hide the wielder's bodily odors.
+
+Powers
+Armors of comfort possessed potent +2 protective enchantments and boosted the wearer's healing, both skills and spells.
+
+History
+In the, Neurik of Port Llast's temple of Tyr offered a set of armor of comfort for sale. In the, a set of armor of comfort was interred within an ancient crypt deep within the Neverwinter Wood.
+
+Appendix
+See Also
+Cloak of comfort
+Appearances
+
+References
+
+---
+
+## Archenbridge sewers
+
+The Archenbridge sewers were a sanitation system of tunnels beneath the small city of Archenbridge in Archendale.
+
+Structure
+Functionality
+These sewers were directly connected to the River Arkhen, which carried away its waste.
+Surface Connections
+ The cellars of The Bridge and Bow alehouse were connected to the sewers.
+
+Appendix
+Trivia
+ Baldur's Gate III: The Black Hound, the cancelled third entry in the Baldur's Gate series of video games, was planned to feature the Archenbridge sewers.
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Armeld
+
+Armeld was a War Wizard of Cormyr in the late 14 century DR.
+
+Personality
+Some of his underlings regarded Armeld as a death-seeking glory-hound.
+
+History
+Armeld was a part of the retinue of the Royal Magician of Cormyr, Caladnei in early spring of, when they raided the Marsember meeting of the Rightful Conspiracy. He was the superior of a number of War Wizards, many of them answering to him during the raid, and coordinating with him.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arrias
+
+Arrias was a Netherese arcanist who was the Dean of Teachers at the Variator's Intelligentsia in Eileanar in Netheril before its destruction in .
+
+Activities
+Arrias managed his team of experts as they taught their students the finer points of mythallar creation. This included Heritier, Carvajal, Scribani, Heroicus, and Darius.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Arr... Maties
+
+Arr... Maties is a one-round tournament adventure module set in the Living City organized play program. It was published in 1998 and is intended for a party of adventurers of any levels.
+
+Index
+
+Characters
+
+Creatures
+
+Locations
+
+Magic
+
+Religions
+
+Miscellaneous
+
+Appendix
+References
+
+---
+
+## Arls Beatorh
+
+Arls Beatorh was a vintner merchant from the city of Athkatla in Amn who lived some years before the 15 century DR.
+
+History
+Sometime before the 15 century DR, Arls Beatorh infamously met his doom inside one of his own vats of wine. Even though presumably he died from drowning, some believed that Arls had some "help."
+
+Appendix
+References
+
+---
+
+## Arongahurr
+
+Arongahurr was an enclave of Netheril that was destroyed during the Fall, notable for its ultimate distance from its homeland.
+
+Geography
+When the enclave crashed, it came to a rest on the shores of Yal Tengri at the east end of the Shadowmount Peaks, just north of the Iceroot Forest.
+
+History
+After crashing during Karsus's Folly in, the enclave was ruined but still partially intact. Due it its remote location, it remained completely unknown to the wider world through the 15 century DR.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Argrad Stonefist
+
+Argrad Stonefist was a dwarf jeweler active sometime before the late 14 century DR.
+
+History
+Argrad Stonefist was a fine crafter. One of the dwarf's pieces was recovered in the mid-to-late 14 century DR in the mountains of the Vast, among the treasures found on the Griffon Peak. This item was a thick golden ring encrusted with five heart-shaped emeralds. Argrad's mark was engraved on the band's inner surface and it was valued at 1,500 gold pieces.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Artificial leech
+
+Artificial leech was a surgical tool occasionally used as a weapon, that possessed a minor enchantment.
+
+Powers
+Artificial leeches bore a simple enchantment, similar to that of a +1 weapon that made it more deadly and easier to aim with. The device itself was used for bloodletting. It had mechanism that activated with a twist, sending the leech's needles spinning.
+
+History
+In the late 15 century DR, several of the artificial leeches could be found in the House of Healing in Reithwin and in the hands of undead nurse Sister Geanne who served depraved Sharran surgeon Malus Thorm. Another such bloodletting tool belonged to the drow blood magic researcher Araj Oblodra who ran Crimson Draughts apothecary in the Lower City of Baldur's Gate circa the .
+
+See Also
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Arita
+
+Arita was a village located in Miyama Province in Kozakura.
+
+Description
+Arita, a small village with eigthy-three buildings, was once a serene and prosperous farming community. It served as a vital hub where local peasants could trade their produce downstream and interact with merchants from Okahira. However, recent events have cast a shadow over the village's former tranquility.
+
+The village has fallen under the control of hu hsien from a nearby fortified tower. Shortly after assuming command of the nearby tower, one of the hu hsien infiltrated Arita, assassinated the myoshu, and assumed his role. This impostor, along with his compatriots from the tower, was exploiting the village and its environs, masquerading as rightful authorities.
+
+The villagers, deceived by the guise of legitimacy, have reluctantly accepted the hu hsien's oppressive rule, enduring their increasing demands and injustices. Yet, beneath this veneer of submission, tensions were escalating. The hu hsien's greed grows, even as their plunder yields diminishing returns, pushing the community to its breaking point.
+
+As of, Arita stood on the brink of revolt, its people yearning for a figure of strength and leadership to rally them against their oppressors.
+
+Appendix
+References
+
+---
+
+## Armor of devotion
+
+Armors of devotion were enchanted sets of plate mail armor imbued with defensive holy magics.
+
+Description
+Apart from their splendorous appearance, armors of devotion produced a soft hum of constant prayer to some deity.
+
+Powers
+When these plates were donned by a paladin, the armor's eternal devotion enchantment allowed the wearer to recharge a power based on channeling their oath, once per day.
+
+History
+One such set of paladin's plate armor was available for purchase from Roah Moonglow, a merchant of questionable morals and allegiances who worked with the Cult of the Absolute in the . The halfling merchant was a representative of the Zhentarim who had an armor of devotion on offer during her time in the Moonrise Towers in the town of Reithwin and later, in the city of Baldur's Gate.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Arbrace
+
+Arbrace was a War Wizard of Cormyr in the late 14 century DR.
+
+Rumors & Legends
+In Mirtul of the, while grumbling about how difficult it was to hunt down Elminster Aumar, Arbrace was named by the War Wizard Eskrel Starbridge alongside Belandroon and Hawksar as one of the few War Wizards who might well be as competent as they thought themselves to be. All mages present grinned at that.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arlond Stormserpent
+
+Arlond Stormserpent was a nobleman of House Stormserpent sometime prior to the late 15 century DR.
+
+History
+A statuette of Arlond Stormserpent was kept in Stormserpent Towers. The statue was known as "Arlond Stormserpent Slaying a Dragon", and was used by Mirt as a projectile against the young Lord Broryn Windstag, after the latter turned on him, alongside Marlin Stormserpent, having released Mirt from an enchanted axe and realized that Mirt wasn't a blueflame ghost that he could command.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arden Thurlow
+
+Lady Arden Thurlow was a lady of fine breeding in an arranged marriage with the speaker of Lonelywood, Baldemar Thurlow of the Ten Towns in the late 13 century DR.
+
+Description
+Arden was a human woman with a fair complexion who wore the fanciful dresses of a noblewoman.
+
+Personality
+Lady Thurlow was a woman of refined taste and uppity attitude. Even though she lived in the largest home in Lonelywood at the time, she thought it to be a shack. She could not stand local riffraff tracking mud all over her expensive carpets. She did not enjoy boorish traveling merchants visiting her home to exchange coin with Baldemar.
+
+History
+Arden Thurlow entered an arranged marriage with Baldemar Thurlow, an opportunistic man, away from the freezing Icewind Dale. Baldemar was a cartwright who made a fortune by supplying caravan wagons for the costers in northwest Faerûn. She could have never imagined that the marriage would result in her living in the smallest of the frontier Ten Towns. By the, Arden's husband took on the position of the representative of Lonelywood's merchants and tradesmen, a profitable stature that made him the town's speaker. Subsequently, the town of Lonelywood became menaced by a barbarian army led by Wylfdene. Instead of trying to settle the crisis peacefully, speaker Baldemar hired an assassin to end Wylfdene's life. Purvis, the assassin, however, was unable to fulfill the contract. When the word of the assassin got out, the barbarian camp doubled the guard, making Wylfdene unreachable. As the adventurers investigated the threat, Wylfdene's true identity was revealed, and the barbarian was put to the sword. Unwilling to gain the reputation of a failure, Purvis assassinated Speaker Thurlow, Arden Thurlow, and just needed to finish off the last witnesses of his failure – the Heroes of Icewind Dale.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale: Heart of Winter
+
+References
+
+---
+
+## Armor of the sporekeeper
+
+The armor of the sporekeeper was rare enchanted variety of light armor created to boost the abilities of the Circle of Spores druids sometime before the late 15 century DR.
+
+Powers
+The wearer of the armor of the sporekeeper was granted a boost in weaving magics that dealt in necrotic energies, their spells were harder to dodge or break and the amount of necrotic damage dealt was increased. When a druid tapped into their symbiotic entity ability, the armor of the sporekeeper allowed them to spread bibberbang mushroom spores that created poisonous noxious clouds, timmask mushroom spores that poisoned and befuddled affected creatures, as well as haste spores that boosted allies' speed.
+
+History
+This set of unique armor was said to had once been enriched by a myconid sovereign's spores. In the, the armor of the sporekeeper ended up in the hands of a powerful mummy lord of Baldur's Gate – the Mystic Carrion. The magic armor and its undead master could be found in Philgrave's Mansion in the Gate's Lower City.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Archmeagan
+
+Archmeagan was an arcanist of ancient Netheril who lived in Eileanar, the Karsus Enclave, until its destruction in .
+
+History
+When Archmeagan's close friend Parzal the Outrageous was imprisoned after dealing with his traitorous partner Mortimar, she took temporary ownership of his QM III business. He intended to take control of the business again on his release, but chose to take a long vacation outside of Netheril that meant that he survived Karsus's Folly—unlike Archmeagan.
+
+Appendix
+See Also
+ Archmeagan, another wizard with a suspiciously similar history.
+
+Notes
+
+References
+
+---
+
+## Argrant
+
+Argrant was a sage of Cormyr in the late 15 century DR.
+
+History
+In the, alongside Loagranboydar, Orkrash, Wyshbryn, and Garendor, Argrant had been given the task of investigating the secret records of noble family trees. The War Wizard Glathra Barcantle sought to make use of their knowledge to find out who had sent a blueflame ghost against the Crown. However, when Glathra and Vainrence went to meet with them, they found them to have been reduced to piles of ash, with magic still hanging about their remains.
+
+Appendix
+Background
+With Loagranboydar presumed to be named after Eric L. Boyd and Orkrash after George Krashos (as suggested by Krashos here, it is almost certain that Argrant may also be named after a person from the real world known to Ed Greenwood.
+
+Appearances
+
+References
+
+---
+
+## Ardent Low
+
+Ardent Low was a Council of Four Liaison and a property inspector who worked for the city of Baldur's Gate in the late 15 century DR.
+
+History
+In the, Ardent Low was forced to gain entrance and perform inspections of the "Old Garlow's Place" in the Lower City, after the building owner failed to respond to communications from the city. Ardent determined the abandoned building to be in gross violation of the city by-laws 38a-39c and had it condemned in accordance with by-law 42a. Liaison Low left a notice on Garlow's home, and recommended the owner to contact the local Builder's Guild representative in regards of immediate repairs.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arkanon Nalander
+
+Lord Arkanon Nalander was a nobleman of Cormyr in the late 15 century DR.
+
+Possessions
+He had a house.
+
+Relationships
+His son was Arkeld Nalander. One of his bullyblades was called Clarn.
+
+History
+In the wake of the massacre at the Council of the Dragon, Arkanon Nalander extended an invitation to Arclath Delcastle to join him, alone, at his home for a meeting. Arclath was sure that treason would be plotted at the meeting.
+
+Rumors & Legends
+Per Arclath Delcastle, the man had a number of Sembian backers. He also anticipated he'd become a foe by not attending.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Aria Whucknolls
+
+Aria Whucknolls was a human follower of Oghma and a librarian serving at the Font of Knowledge temple in the Castle Ward of Waterdeep in the mid-to-late 14 century DR, working alongside her sister Cera. She was fluent in many demihuman languages.
+
+Appendix
+References
+
+FR:Aria Whucknolls
+
+---
+
+## Art Appraisal
+
+Art Appraisal was a book with a self-explanatory title, penned by Gonner Maude and published sometime in or before the late 15 century DR.
+
+Content
+The book combined musings and autobiographical elements from Gonner's childhood. One day, when the author was still a single-year-old child living in the City of Splendors, Waterdeep, Gonner's mother informed him that his stepfather had gone mad. The author assumed that it was more of an artistic obsession – a man locking himself in the studio, painting for three days straight, but it was not the case. The artist stepfather attacked the author's mother with a sharpened brush. As such, Gonner Maude stated that the art was a funny thing. The book continued on talking about Mitcher and Webson's thoughts and definition of what art was and how it replicated real life, whilst great art overcame life.
+
+History
+In the, a copy of Art Appraisal could be found in one of the homes of the Jannath patriar family in Baldur's Gate's Lower City.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Argosy
+
+The Argosy was the personal longship of Wessalen Arturia, a questing Chessentan noble in the 14 century DR.
+
+Description
+The ship had a crew of 70 elite sailors.
+
+Appendix
+References
+
+---
+
+## Archer's eye
+
+Archer's eye was an utterance from the Lexicon of the Evolving Mind that used truespeak to allow a subject to strike true regardless of concealment, or protect them from ranged weapons, if reversed.
+
+Usage
+In its straight form, the utterance granted the target the power to strike true regardless of concealment with any ranged weapon they wielded. In its reversed form, it was akin to the protection from arrows spell, making arrows miss their mark, or fall from the air instead of striking.
+
+History
+The utterance was known to word archons.
+
+Appendix
+References
+
+---
+
+## Artisan's Tomb (Neverdeath)
+
+The Artisan's Tomb was a mausoleum located in the Craftsman's Rest area of Neverdeath Graveyard in Neverwinter.
+
+History
+
+By the late 15 century DR, the tomb had been overrun with undead. In the, a group of gnolls allied with Valindra Shadowmantle began to use the tomb as their base. These gnolls attracted the attention of the Harpers when they attacked a scholar named Tristopher Chettlebell and stole his pack, including his notes and his copy of The Annals of Neverdeath.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arrinye
+
+Fist Arrinye was a member of the Flaming Fist mercenary company from the Lower City of Baldur's Gate in the late 15 century DR.
+
+Description
+Arrinye had a fair complexion with long light chestnut hair. She wore a set of leather armor as a part of her Flaming Fist uniform and was armed with a deadly heavy crossbow.
+
+History
+In the, Fist Arrinye was stationed within the barracks of the Heapside district of Baldur's Gate, where she, a steel watcher, and several other Flaming Fists guarded a small dungeon prison.
+
+Appendix
+Appearances
+
+References
+
+---
+
 ## Artemis
 
 Artemis  was a multispheric interloper deity of hunting, young women, childbirth, wild beasts, and all manner of wild things. Some also associated her with the moon, but it only rarely counted among her portfolio. There was no evidence that this deity was directly worshiped in the Realms.There were no known worshipers of Artemis in the Realms. She is featured on this wiki due to her mentions in the adventures A Friendly Wager and Experience Preferred, Part One.
@@ -1374,6 +15082,1350 @@ External Links
 References
 
 Connections
+
+---
+
+## Arc of lightning
+
+Animalistic power was an arcane and divine conjuration spell from the fourth and fifth circles of magic that dealt electricity damage to two objects within range. The spell could be used by: druids, sorcerers, wizards, warmages, and wu jen.
+
+Effects
+The spell could be cast on two creatures within  from the caster, and the spell's distance increased with the caster's magical proficiency. When the spell was discharged, it instantaneously connected two creatures with a bolt of electricity, affecting their natural conductivity. The power of the blast of electricity grew with the caster's magical skills.
+
+Components
+The spell required a verbal, somatic, and material components. Its material components were two small rods of iron.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Ariel (disambiguation)
+
+Ariel is a name that could refer to:
+
+Individuals
+Ariel Blackroot-Crothers, wife of Cyrus Crothers of Ravens Bluff,
+Ariel du Plumette, a ghost from the Castle Ravenloft,
+Ariel Evertongue, mother to Wiglaf,
+Ariel Jhansczil, a consort of Harkas Jhansczil of Waterdeep,
+Ariel Heremet, a barmaid from the Safehaven Inn of Waterdeep,
+Ariel Manx, the real name of Midnight, the mortal wizard who became the Goddess of Magic during the Time of Troubles,
+Ariel Nightglow, a High Priestess of Selûne in Ravens Bluff,
+Ariel Moonsomething, a misremembered given to Arilyn Moonblade, a half-elf Harper,
+
+Locations
+Ariel-than, an elven city in the Vilhon Reach,
+
+Items
+Ariel's levituting dart, a type of dweomer dart.
+
+---
+
+## Arvas
+
+Arvas or Avras was a warrior in the Frostfire Banner adventuring party during the mid–8 century DR.
+
+Personality
+He had a bit of a reputation for drink. He laughed with his comrades when they brought that up, but sarcastically so.
+
+Description
+His voice wasn't as deep as Paeregur's.
+
+Possessions
+He carried a sword and wore a cowl.
+
+History
+Arvas was a member of the Frostfire Banner when they took on High Duke Horostos's assignment to search for the reason why all animals larger than one's hand, as well as most people, were vanishing on the road between Starmantle and Ripplestones.
+
+They were ambushed on their first night out of Starmantle by a chiming mist, the Slayer. Avras took first watch; when his comrade Paeregur checked up on him, hearing the tinkling bell-like sound, he found Avras had been reduced to a skull and a husk that collapsed into ash at the slightest touch.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Ardelnar Trethran
+
+Ardelnar Trethran was an adventuring cleric of Tempus during the mid–8 century DR.
+
+Description
+He had a stubbly chin.
+
+Possessions
+He wielded a warhammer.
+
+Abilities
+He could cast at least one healing spell.
+
+Relationships
+He was an adventurer, in an alliance of adventurers that also included Klargathan Srior and Larando. Larando in particular was a friend of his, and they may have been in the same party to start with.
+
+History
+In the, Ardelnar Trethran was part of an alliance of three parties that adventured together into Myth Drannor, with a total of seven wizards, two of them archwizards. ut, despite the team-up, they still found themselves slaughtered by baatezu. Before being forced to flee for their lives, Ardelnar had pried a double handful of gems from the chest of a mummified elven corpse. Ardelnar escaped with Larando and Klargathan. After Larando was slain, Ardelnar and Klargathan ran on.
+
+Eventually, Klargathan called on Ardelnar to help him make a stand; though the two of them fought furiously, they were ultimately ambushed by more of the endless hordes of baatezu just as they reached a clearing with a fallen duskwood, close to Halidae's Height.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Arlavaunta
+
+Arlavaunta was a green dragon in the Wizard's Reach during the mid–8 century DR.
+
+History
+The dragon Arlavaunta attacked the company of knights with which King Baerimgrim was riding in the year, when he set out to demand a renewed vow and back taxes from his baron Tholone. The dragon was ultimately slain by his court mage, Ilgrist.
+
+Rumors
+It was said that Arlavaunta attacked King Baerimgrim on Baron Tholone's orders.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Arman Argentine
+
+Arman Argentine was a dwarven member of the Tethyamar expedition during the 1480s DR.
+
+Description
+Arman had bright orange beard and bald head, wore a practical green outfit, and carried a pickaxe.
+
+Personality
+Arman was very enthusiastic about the expedition, and shared it with the people of Eveningstar. This vigor was in part due to the intoxicating effect of the Jewels of Ardor.
+
+History
+
+After the Tethyamar expedition got into full swing, Arman traveled to Eveningstar in Cormyr to spread the good word about the impossibly wonderful gemstones to be found there, the Jewels of Ardor. He brought some samples with him to show off, and began recruiting optimistic and opportunistic locals and adventurers to join the effort, unaware of the danger waiting for them.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Armor of vulnerability
+
+Armor of vulnerability, also known as plate mail of vulnerability, was a type of cursed plate armor that posed more harm to threats than protection, often created with the intent of tricking one's foes into wearing them.
+
+Powers
+In the ages prior to the Spellplague, this armor gave of the impression of carrying a +1, +2, or +3 enchantment. In actuality, sets of this armor carried either a -2, -3, or -4 enchantment. And the armor was liable to completely fall apart if struck was a devastatingly powerful blow.
+
+In the years following the Spellplague, the enchantments upon these armors changed. These did indeed carry protective enchantments, but these would vanish and inverse as soon as a wearer was severely injured, instead giving a -2.
+
+Following the Second Sundering, the effects of this armor were in fluctuation once more. Initially, sets of the armor would give off the impression of having a +2 enchantment, but really carrying a -2. And once more, the armor would completely fall apart if ever struck critically. Eventually the effect changed for a final time. Now each set of armor offered greater protection to either bludgeoning, piercing, or slashing type harm. However, they offered protection to only one of these categories, making their wearer more vulnerable to attacks of the other two varieties. However, the curse of the armor would only activate once the wearer was attuned to it.
+
+Creation
+Creating a suit of armor of vulnerability required powerful magic, such as the spells limited wish or miracle.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Arne Jacobson
+
+Arne Jacobson was a commoner from the Rivington district of Baldur's Gate in the late 15 century DR.
+
+Description
+Arne Jacobson was a human man with a pale skin tone and a shaved head, hidden underneath a commoner's hat. His skin and commoner's garb were often dirty.
+
+History
+In the, Belron Strongstep, gold dwarvish commoner, could often be seen conversing with Arne Jacobson on the streets of Rivington, discussing the Cult of the Absolute and the refugee crisis that affected the Outer City.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Armand
+
+Armands were a small desert-dwelling armadillo-like people that wandered the Anauroch desert in northern Faerûn.
+
+Description
+An armand was a stout armadillo-looking humanoid with thick plated skin that protected them against the desert environment in which they lived. They stood on average 3½ to 4 feet (1.04–1.22 meters ) tall and weighed 150 pounds (68 kilograms).
+
+Abilities
+These small creatures were uniquely adapted to their native desert environment and able to stand against almost anything the desert might throw at them. With their darkvision they could sense when danger approached and with their paws they were able to dig into the ground to protect themselves from predators.
+
+Society
+Armands lived in small tribes of a few close-knit family groups and every adult had an equal vote in their decision making. Likewise, all members of the group shared the possessions and resources of the entire group, and they did not believe in the concept of individual ownership. These democratic groups wandered the desert in search of new experiences, as knowledge of the land, animals, and other ways of life was seen as the greatest of value. So it was that those armand who journeyed away from their groups and came back with new experiences were called "wise ones" and had a far greater influence on the rest of the group than those that stayed. Thus, many a young armand left to wander and become "wise ones" themselves.
+
+Most armands avoided fighting as every fight often meant the end of a life and thus the end of experience for that individual. That said, they would most certainly fight if they or their group was attacked and they were unable to hide or burrow away. Indeed, when they needed tom armands were able to become stalwart bastions of defense, refusing to move an inch, instead raking their enemies with furious claws. If a foe was more than an individual tribe could defeat, then many tribes would converge on a known defensible location where they would stand together as one. Each family group was lead by a Warden, each of whom was a particularly experienced "wise one" that had tavelled far wider than most other armands. As each tribe was made of a few groups, it was normal for the tribe to be led by several wardens who together led and advised the rest, although their votes were still only equal to every other adult.
+
+The armand tribes rarely built permanent dwellings, as they were a nomadic people, and lived in large communal tents. Caverns too were seen as good dwellings whenever a tribe happened upon one.
+
+Armands were drawn to those deities who represented travel, nature, and the sun.
+
+History
+The armands once wandered the great Anauroch desert, even maintaining a permanent presence on the slopes of Azirrhat with trading posts and a large monastery.
+
+With the arrival of the City of Shade in the, however, the armand monastery was destroyed by the Shadovar. They forced the surviving tribes to flee south, through the Scimitar Spires and into the Saiyaddar. There, they were stopped by a great blue dragon named Jyrrathazur, who enslaved the surviving armands. Those who refused to kneel were devoured, and entire clans were lost to the dragon. Then one day the dragon simply disappeared, how and since then the armands wanderedd the land free as the sun upon the sky.
+
+Appendix
+References
+
+---
+
+## Aratha
+
+An aratha or killer beetle was a rare type of psionic giant beetle.
+
+Description
+An aratha was a giant beetle, 12 feet (3.6 meters) long, with six legs, and four 8-foot-long (2.5 meters) spiked tentacles that could extend their reach out to 20 feet (6 meters). It had eyes on both its back and belly in addition to two eye-clusters in the front. Its massive curved purple-to-brown-colored carapace was rock-hard, and immune to even the hottest fire.
+
+Behavior
+While appearing as an unthinking monstrous beetle, it was highly intelligent, with a sharp mind and powerful psychic abilities it would use to dominate its prey.
+
+They were called "killer beetles" by many because of their very aggressive nature, and would tirelessly hunt down their prey by scent and thought both. Highly prizing brain moles as food, they were also fond of feeding on owlbears and halflings, but if none of these were available, then any meat would do in a pinch. While they hunted their prey ruthlessly, they were actually quite polite and sociable with creatures they weren't attempting to eat, and were particularly kind to small animals.
+
+Although seen as solitary creatures, the aratha were fiercely devoted to their mates and young, mating only once in their life, although the female died soon after giving birth and the young would feed on its body. When the aratha felt itself slowing down with old age, it would seek out a mighty creature so as to die in combat.
+
+Ecology
+Death
+After an aratha died, its carapace would quickly soften, though there were not many creatures except scavengers that would eat the meat of a dead aratha as the meat, no matter how fresh, had a strong vinegar-like taste to it. Its claws however would stay strong and made quite sharp arrow or spear points.
+
+Habitats
+The aratha lived in the Cormanthor forest, from the Midwood into the Starwood. and around the ruins of Myth Drannor. They were known for serving clerics of Lathander in the Dawnspire, a temple located in the ruins of Myth Drannor.
+
+Given their threat, they had been hunted to near extinction.
+
+Appendix
+See Also
+ Control aratha - The spell used by clerics of Lathander to control these creatures
+
+References
+
+---
+
+## Architects Arcane: Waterdeep and the Sword Coast North
+
+Architects Arcane: Waterdeep and the Sword Coast North was a book dedicated to the powerful mages of Waterdeep and the Sword Coast North, penned by Paerl Nhesch and published in the early 15 century DR.
+
+Contents
+
+History
+Architects Arcane: Waterdeep and the Sword Coast North was published in the . It included the history of the Blackstaff title being passed between several powerful mages of Waterdeep: Kyriani Agrivar, Khelben Arunsun the Younger, and Ashemmon.
+
+Appendix
+References
+
+---
+
+## Arilyn Dathlue
+
+Arilyn Dathlue was a maker of harps and owner of Heartsong Harps in the city of Silverymoon in the Silver Marches in the late 14 century DR. Around 1372 DR, Arilyn was a regular client of Chesmyr Morrowynd, a maker of harp strings, and they met to do business in Swordsfall House.
+
+Appendix
+References
+
+---
+
+## Ardan Cymrych
+
+Ardan Cymrych was High King of the Moonshae Isles in the late 8 century DR.
+
+Relationships
+He was a member of the Cymrych Dynasty. He was the newphew of High King Declan and the cousin of his immediate predecessor, High King Ciaran. His successor was his son, Byron.
+
+History
+Ardan assumed the throne of the High King in the, after his predecessor was killed.
+
+He ruled for eleven years before he died of natural causes in the .
+
+Appendix
+References
+
+---
+
+## Arrr, Yarrr, and Garrr: A Guide to the Pirate Idiom
+
+Arrr, Yarrr, and Garrr: A Guide to the Pirate Idiom was a reference book found on the Sea of Swords and the Nelanther Islands in the late 14 century DR.
+
+History
+By the, Arrr, Yarrr, and Garrr was already in its third printing, ever-popular among new pirates. Several copies of the reference book could be found in the pirate-ridden Spindrift Town of the Nelanther Islands.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arkwright
+
+Gatekeeper Arkwright was guardian of a great gate in the Shadowfell city of Evernight, which led from the Graveyard into the city proper, during the late 15 century DR.
+
+Activities
+Arkwright interrogated mortals attempting to enter Evernight via a Crevice of Dusk that had brought them to the Graveyard. If properly convinced, he would also be willing to petition the Tribunal of Evernight on their behalf. However, he was quick to slay any who then broke a pact with the Tribunal.
+
+Relationships
+He was owed an old debt by the lich Zarifrax, whom he referred to as "that old rattlebones".
+
+History
+During the crisis appearance of the Cloaked Ascendancy in Neverwinter, a hero from Neverwinter was instructed by Zarifrax on how to enter Evernight and then to speak with Arkwright. Upon repayment of the lich's debt, Arkwright agreed to petition the Tribunal for the hero's protection, and to seek their guidance for the hero's suicidal mission to infiltrate the Shard of Night.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Araj Oblodra
+
+Araj Oblodra was an alchemist and trader in blood and the sanguinous arts, the proprietor of the Crimson Draughts shop in Baldur's Gate, and one of the very few surviving members of the House Oblodra of Menzoberranzan in the late 15 century DR.
+
+Description
+Araj was a drow woman with a flirtatious personality and questionable morals. She was fully dedicated to her fallen house and the art of blood alchemy. Oblodra's blood was disgusting to taste to vampires, possibly evidence of strange blood-mixing of cross-breeding with the mind flayers that was rumored to be one of the crimes of House Oblodra. Araj's obsession with blood also resulted in an overwhelming desire to be drained by a vampire, an act that gave her sublime pleasure.
+
+Posessions
+Araj's alchemist shop, the Crimson Draughts, was located in the Lower City, across the street from Beehive Goods and Wares. The shop carried a wide variety of potions, bombs, alchemical ingredients, and some select enchanted items, such as a circlet of hunting, boots of arcane bolstering, ring of free action, thunderskin cloak, and many others.
+
+She also developed a selection of potions concocted using the blood of various races, such as elixir of tiefling vice, elixir of elven elegance, elixir of halfling luck, sanguine explosive, and others.
+
+Relationships
+Araj Oblodra was familiar with the work of Jon Irenicus and how he was able to adapt the shape of Bhaal's Slayer through a Bhaalspawn's blood. She planned to offer an alliance with Lord Enver Gortash as the daughter of the most powerful House of Menzoberanzan in exchange for a supply of Gortash's blood to try and make Bane think of her as one of his Chosen.
+
+History
+
+During the Time of Troubles of the, House Oblodra gained the power to become the most powerful House of Menzoberanzan, but that power didn't last. The House Baenre, aided by demons, was cast down the Clawrift. The House was destroyed while Araj Oblodra was among very few survivors, being away from Menzoberanzan at the time. She falsely believed herself to be the last living member of the fallen House. In the centuries that followed, Araj dedicated herself to studying and developing her sanguinous arts in hopes that she could create something so valuable and powerful that even Lolth herself would sponsor the reestablishment of House Oblodra.
+
+By the, Araj had been running the Crimson Draughts for some time. By the time the Absolute crisis began to shake Baldur's Gate, Crimson Draughts had had several months' worth of customer complaints, prompting an investigation by the Flaming Fists. An official investigation was opened in accordance with the Public Health Act and the Civilian Protection Order, and a notification was mailed to the shop. Araj Oblodra was ordered not to interfere with the investigation and not to leave the city, or she would be held in contempt of the Council of Four. She also joined the dread Cult of the Absolute in the Moonrise Towers at the heart of the deadly shadow-cursed lands that consumed the town of Reithwin a century earlier. Regardless of what happened at the Moonrise Towers, Araj Oblodra would likely have had survived the battle between the Absolute Adversaries and one of the cult's leaders.
+
+Araj Oblodra might have had an opportunity to use her shop's laboratory to develop special and deadly types of potions using the blood of the Absolute Adversaries, True Souls infected with altered illithid tadpoles, if the heroes were inclined to share their life-giving substance. If her research was successful, Araj could've left the Gate for her House's home in Menzoberranzan to bring House Oblodra back and into good graces with the use of her new sanguineous magics.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Aryvindaire
+
+Aryvindaire was a trader and a leader of a wood elven band that resided within the Neverwinter Wood in the late 14 century DR.
+
+Description
+Aryvindaire and the group of elves were proficient at stealthily moving across the Neverwinter Wood trees unnoticed, ready to riddle their enemies with arrows at a moment's notice. Aryvindaire was a confident elf who spoke with a melodic voice with a noticeable wood-elven accent.
+
+Possessions
+Aryvindaire's elves all wore boots of elvenkind. Some of the items sold by Aryvindaire to allies of the group included elven chainmail, shederran longbows, a composite longbow of deadly precision and of precision,  amulets of natural armor, cloaks of elvenkind, stones of alarm, a ring of the wood elves, and a selection of enchanted arrows and potions.
+
+History
+Circa the, Aryvindaire elven band could be found  amidst the trees of Neverwinter Wood on the Neverwinter River's eastern bank. They warned strangers that they were not welcomed in that part of the wood; however, if the invaders proved to be allies, elves, or individuals knowledgeable of wood elven culture and language, Aryvindaire offered to trade for the group's valuable elvish goods.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arrowroot
+
+Arrowroot, known as nduma in the Chultan language, was a starchy plant found in Chult.
+
+Ecology
+It was one of the few starch-based plants that was able to thrive in the extremely rainy Chultan climate. Some could grow to enormous size, becoming giant arrowroots.
+
+Uses
+Arrowroot was used as bait by hunters in Chult to lure great apes.
+
+In alchemy, arrowroot (as well as carrot, jimsonweed, and sesame) was a key ingredient in powders designed to provide the user with night vision (comparable to that of a cat). Arrowroot was also used to make cosmetics, namely eyeshadow, such as was favored by Nerys Kathon of Baldur's Gate.
+
+History
+In the late 15 century DR, particularly enormous arrowroots could sell for more than 4 silver pieces in Port Nyanzaru. At that time, the hunter Desha of the Shadows devised a plan to use such a giant arrowroot as a lure to hunt a massive ape known as Gigantopithecus, which was said to dwell in the lost city of Omu deep within the Chultan jungle.
+
+Rumors & Legends
+It was said that among some monastic traditions, arrowroot represented the power of healing, and some monks were said to have magical tattoos depicting these plants.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Aryn Vasar
+
+Aryn Vasar was a hunter operating out of Port Nyanzaru in Chult during the late 15 century DR.
+
+Personality
+She was a skeptical woman with a particular distaste for undead and yuan-ti.
+
+Activities
+
+She specialized in hunting the undead, and was willing to help other hunters to lure them out. She sought to cull ogre zombies near the River Soshenstar.
+
+Relationships
+Aryn was a member of the Hunters' Guild of Chult, and could often be found at Hunter's Square in Port Nyanzaru.
+
+History
+During the events of the death curse Aryn perceived an increase in the number of undead haunting the jungles outside Port Nyanzaru. She became interested in hunting a evil spirit known as Maita as well as an undead abomination known as Split-ti, a lich known as Thazar-De, and a beholder called Erjellel.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Arnthiir Windrivv
+
+Arnthiir Windrivv was an adventuring human bard of the mid-to-late 14 century DR, and a member of the Nine.
+
+Description
+He was visibly restless.
+
+Personality
+Arnthiir was a hearty thrill-seeker, prone to reckless deeds, and a pranksome man, though he was somewhat exhausting.
+
+Abilities
+Despite his age, the rogue was still notably dexterous by, despite a career that stretched back before  and a human lifespan. He was possessed of remarkable force of personality.
+
+Of note, due to a curse, Arnthiir had to change his name.
+
+Possessions
+Windrivv was known to carry an enchanted dagger that could be made to glow with faerie fire on command, a ring of the ram, and a ring of spell turning.
+
+Activities
+Arnthiir Windrivv wandered from tavern to inn throughout Amn and Tethyr as of the mid-to-late 14 century DR, occasionally serving Laeral Silverhand on covert matters. Those sometimes took him through Waterdeep and even Skullport.
+
+Relationships
+He was once one of the Nine alongside the ranger Thanadar and Laeral Silverhand. After they were released from their curses, Arnthiir continued to serve Laeral Silverhand, who nonetheless found his company exhausting.
+
+One of his maternal ancestors had a bad reputation; he named himself after that one when he changed his name.
+
+History
+The bard was one of the Nine in the, the year in which they acquired the Crown of Horns, a Myrkulite artifact. The crown put a curse on them that gave any hordling in Hades the ability to teleport without error to their presence, even across planes, by simply uttering their names. Laeral came to possess the Crown through most of that time; with its fell power, the artifact drove the adventurers to fight each other until Laeral was rescued by Khelben Arunsun. The mage then broke the curse on the surviving members, including the bard and the ranger, but that required them to abandon their old names.
+
+By the mid-to-late 14 century DR, Arnthiir, as he was now known, spent most of his time wandering Amn and Tethyr, but had undertaken occasional missions for Laeral where she required a covert agent.
+
+Appendix
+References
+
+---
+
+## Arya Venkyr, the Lion of Everlund: A Memoir of My Mother
+
+Arya Venkyr, the Lion of Everlund: A Memoir of My Mother was a book penned by Rhyn Venkyr in the late-14 century DR.
+
+Contents
+The book was a memoir of Rhyn Venkyr's mother, Arya Venkyr, the so-called Lion of Everlund. It collected stories from her military carrier, including being taken prisoner by the Kingdom of Many-Arrows in Northwest Faerûn.
+
+History
+Arya Venkyr, the Lion of Everlund was published in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arariel Solar'el
+
+Arariel Solar'el was a warrior of the Solar'el Clan in Luskan during the late 15 century DR.
+
+History
+Arariel was the second daughter in her family. As she was her parent's favorite daughter, and considered different within her clan, she was gifted with the Dagger of Clan Solar'el.
+
+Around 1487 DR, Arariel attacked the Champion of the Burning Dawn in the slums of Luskan, but was slain by their party.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Argrisdfzak
+
+Argrisdfzak was a demon of the fifth layer of the Nine Hells who was summoned to a child's 5 birthday party.
+
+History
+The demon was born in the Year of the Jeweled Aerie, 744 DR. Ulysses the Not-so-Smart summoned the demon to his son Harry's 5 birthday party.
+
+For unknown reasons, there was a statue in memory of the demon on the second level of Undermountain as of 1372 DR, which related the above information. The inscription on the statue described the party where Argrisdfzak attended as very memorable.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arves Silvermount
+
+Arves Silvermount was a client of the Sharran House of Grief and an inhabitant of Baldur's Gate in the late 15 century DR.
+
+History
+In the, Arves sought the services of the House of Grief aid. The Mapping of the Heart revealed Arves's "melancholy heart." The ritual was paid for in full and Arves was referred for Unburdening.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arrow of direction
+
+Arrows of Direction were enchanted arrows that could be used as locate object spells.
+
+Powers
+Though an Arrow of Direction looked like any other ordinary arrow, it could be tossed into the air once per day by anyone, and would fall and point to the requested location. For about one minute one could then throw the arrow again and again, gauging the direction to travel.
+
+The arrows could only point to the location of the nearest stairway, sloping passage, exit, entrance, or closest cavern. When tossing the arrow the first time one requested the distance and/or direction, making the arrows far more useful inside caverns or dungeons than outside in the wilderness.
+
+Notable Owners
+Onyx the Invincible a dwarven fighter, thief, and allround adventurer made use of his Arrow of Direction to move through the waterdeep sewers when searching for the, then young, centaur Timoth Eyesbright.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ardent (4e)
+
+An ardent was a spiritual warrior of psionics that emerged on Toril in the nine-decades following the Spellplague. Their mastery of the Invisible Art was driven and empowered by emotions and emotional energy, taking their focus on emotions farther than other manifesters. They were akin to a warlord among the various types of psionic wielders.
+
+Culture
+The form of psionics that ardents wielded required some discipline and careful study, though their psionic journey rarely ever began with formal training, rather manifesting spontaneously one day. It was said that without basic empathic capacities, no amount of studying could make one an ardent. Many ardents took on the path of a wandering adventurer, as their powers of emotion manipulation often drew wedges in the life they were living prior to psionically awakening. In the land of Kara-Tur, some took to the path of a sohei in obscure religious sects that focused on the power of the mind.
+
+Due to the nature of their powers, ardents were highly emotional people. They often felt emotions to extreme degrees, sometimes overreacting at people, and became rather emotionally driven or impulsive. Some reacted negatively to these changes, trying to force a projection of stoicism, rarely speaking, growing jaded of the emotions of others, or avoiding large groups in order to avoid encountering strong emotions.
+
+Others embraced the flow of emotions, becoming boisterous, but more often becoming solicitous, sympathetic, and kind. Some even traveled in search of experiences with strong emotions. Such ardents hoped that exposure would help them to better master their control over emotions, prepare them for unexpected encounters with strong emotions, and learn how to harness such emotional energy to empower their psionic powers.
+
+The emotions that flooded out of mortal creatures upon their death could have long lasting repercussions upon an ardent. They may become despondent for some time afterwards, jump headlong into another adventure in hopes that it might help clear their minds of the incident, or they might go so far to vow never to kill again, making exceptions only for the most vile of creatures.
+
+Among the sentient races of the world, those most drawn to the path of the ardent were humans and half-elves, followed by dragonborn, halflings, and gnomes. Beyond Toril, ardents could be found on the worlds of Nerath and Athas.
+Religion
+The deities that ardents most gravitated towards were of a wild and unpredictable nature, often favoring those who included war or the wilderness among their portfolio. Ardents of an evil bent might favor the god Gruumsh.
+
+Abilities
+In the eyes of an ardent, raw emotions could dominate the mind, leaving them vulnerable to mental attacks and possibly causing madness when left to fester for too long, such as fear, hatred, greed, lust, or sorrow. To protect themselves from the hazardous effects of such emotions, ardents sought to learned to safeguard their minds by donning certain emotional states, which they called mantles. Through a mantle an ardent controlled and channeled their emotions. The powers accessible to an ardent did not vary depending upon their mantle, as they drew upon all emotions, but it was the emotion which they most frequently drew from. In some cases an ardent used their mantle to shun negative strong emotions, jettisoning them from their mind.
+
+Whenever they used their powers, an ardent's emotions would be transmitted along with the power's effect into the targeted creatures, instilling them with an appropriate emotion. Some weak willed ardents especially struggled to restrain their emotions and would let them flood out whenever they fought. Ardents could also absorb the emotions of others to add to their own power, a power that largely went unnoticeable. They could empathically feel the emotions of those around them and might take on aspects of those feelings. And they could project their own emotions onto those around them. Neither phenomenon enacted an instant change in an individual's behavior, though might create subtle long-term effects. And if a group of ardents gathered together to project their emotions, it could have a substantial impact on surrounding mindsets and emotional states.
+
+Every use of their power was accompanied by a material display in the form of a corona of light that flared and swirled around the ardent's head. This light took on different hues and intensities depending upon their mood, such as red for anger or black for fear, and would also intensify in its radiance whenever the ardent augmented their powers. In some cases this aura took on recognizable shapes depending upon the individual, such as the silhouette of an angel or weapon. In other cases this aura was found to make certain displays depending upon the psionic power being used, such as armor or a shield when a defensive power was used.
+
+All ardents exhibited a basic power to inspire their allies when injured, to unbalance enemies when injured, and to unleash a powerful surge of emotion to heal themselves or an ally. This surge displayed additional minor effects depending upon what emotional state the ardent was adorned in.
+
+In battle they were equally capable martial combatants, usually taking to the front-line and becoming incidental leaders. Through their power over emotions they mentally encouraged their allies, guarded their minds against despair and other negative emotions, soothed their injuries with the emotion of love, injured their foes with blasts of anger, and exciting certain emotions in the minds of enemies to cause them to falter in their defenses.
+
+Relationships
+For most of the general populace of the Realms, psionics and those wielded it were unrecognized or barely understood, often confused with traditional spellcasters of magic. Consequently, a commoner's view of a psionics user could differ little from their attitude and reactions towards arcane spellcasters, which in many cases could mean a sense of distrust. As the least understood of psionics users, many being unable to recognize them as such, this posed an issue for ardents. Their abilities to magnify or reflect back ambient emotions could lead to these initial feelings of distrust being amplified.
+
+The far more disciplined likes of monks and psions often questioned the discipline of ardents, due largely in part to their emotional and impulsive nature, viewing them as wild cards that lacked the self-control necessary to master the powers they wielded. Psions in particular, often valuing logical processes over instinct, would philosophically butt heads with ardents. Battleminds were more accepting of their abilities, but their propensity for shutting themselves off from emotions was incomprehensible to ardents.
+
+Appendix
+Background
+In a preview of the class provided in Dragon #382, one comment by designer James Wyatt made it clear that the class should not be considered a true update of the 3.5 class, "The name of the class and some of the terminology within it—such as mantles—come from a 3rd edition class that appeared in Complete Psionic. That’s about where the similarity ends, though."
+External Links
+
+References
+
+Connections
+
+---
+
+## Ardent
+
+An ardent was an unconventional philosopher of psionics, whose strong commitment to and pursuit of particular cosmic philosophies allowed them to tap into their obscure reserve of great power, a psionic mantle, obtaining a suite of thematic powers. They were akin to a cleric among the various types of psionic wielders, a comparison that was not without some faults, as their powers were not reliant upon reverence of a deity.
+
+Culture
+Across the Realms, ardents were comparatively far fewer in number than the more common psionic pathways of the psion, psychic warrior, soulknife, and wilder. Many ardents could be found living in organized religious structures, such as a monastery of Deneir or temple of Deep Duerra, but could just as often be found on their own.
+
+They were passionate individuals, showing just as much enthusiasm towards these philosophies as any divine missionary. They sought signs of, and support for, their cosmic philosophy everywhere they went. Ardents often viewed their involvement in just about any enterprise as an opportunity to spread awareness of their philosophy, and to enlighten those who relied upon less "universally true" sources for their daily guidance and inspiration. They naturally gravitated towards groups that would support bringing their brand of enlightenment to others and might see members of an adventuring company as potential first converts. The most dark and corrupt of ardents would go so far as to force others to follow their path.
+
+Ardents were typically very intelligent people, with sufficient bodily stamina to keep up with a life of traveling for their studies. Becoming an ardent required having a philosophical mind and a good deal of education in esoteric concepts and ideas. They were equally as likely to come from any of the psionically-inclined sentient races, but humans seemed most apt to follow such a path. Savage and monstrous humanoids generally lacked the aforementioned pre-requisites.
+Religions
+One could find an ardent drawing power from any one of the deities of the Faerûnian pantheon, as well as Corellon Larethian, Garl Glittergold, Gruumsh, Moradin, Yondalla, and even Vecna. However, they were most frequently found among religions with a specific connection to psionics, such as Deep Duerra, Deneir, Ilsensine, Laduguer, Pisaethces, and Sseth. During the time of Jhaamdath, ardents within the empire typically worshiped Auppenser, and some could still be found worshiping the god in the late 14 century DR.While Complete Psionic says that they can be irreligious, this aspect of the ardent is de-emphasized in the Realms source, Class Chronicles: Psionic Classes, as being wholly irreligious is quite rare in the Forgotten Realms setting. Some ardents who dedicated themselves to the concept of storms, drawing power from either Talos or Umberlee, took their devotion to greater heights by becoming what were known as storm disciples.
+
+Compared to clerics and other divine spellcasters, ardents were more detached from the religion they followed. Their worship was more casual, less focused on reverence towards a deity's sanctity, but more to the concepts and philosophies that a deity represented. They might view these to be the only constants throughout the multiverse or as concepts that transcended the multiverse itself. This resulted in them often being beneath a god's notice.
+
+An ardent's choice in the cosmic philosophies they followed was of a personal nature. They gravitated towards those that were suitable to their own life experiences, their upbringing, their heritage, and emotional leanings. The choice could also derive from an ardent's alignment and the portfolio of the deity they worshiped. The personal nature of this choice resulted in ardents developing unique understandings of their chosen philosophies, as well as unique approaches to the pursuit of greater psionic power.
+
+Abilities
+Ardents, like divine minds, drew their psionic powers and a unique psionic ability from the knowledge of psionic mantles, distillations of universal concepts and philosophies. But whereas the latter started their journey with only one mantle, ardents always started theirs with two, knowing one power from each mantle. These were their "primary" mantles, the ones that most appealed to them and that an ardent believed held the most potential power.
+
+Over the course of their career an ardent could learn four additional mantles. These other mantles were "secondary", philosophies worthy of study but less central to the universe from the ardent's perspective. An ardent always had to maintain a balance between the two, having more powers from their primary mantles than from their secondary. At two points within their long pursuit of power and philosophy, as their worldviews changed and they began to value other concepts more highly, an ardent was capable of swapping the priority of two mantles.
+
+While divine mind could only choose among their favored deity's mantles and never from their opposing alignment, an ardent had no qualms with choosing mantles that were diametrically opposed, such as the chaos mantle and law mantle, or even aligned mantles that they did not share the alignment of. This was usually done by those of a neutral alignment, however, as manifesting powers from aligned mantles was considered to be an act of that alignment.
+
+The reasons for why an ardent might choose contradictory mantles varied. Some might desire to embody a series of contradictions, some might wish to constantly seek ways of balancing such contradictory philosophies. Others may do so in pursuit of better understanding an alignment they have taken to fighting against. And some may do so simply as part of their scholarly pursuit to better understand universal truths.
+
+Over time, as they grew increasingly aware of the interconnected nature of cosmic philosophies and their understanding of how the multiverse functioned expanded, an ardent gained access to further powers from their mantles. These powers, much like those of other methodologies for wielding psionics, were ingrained in the ardent's head and thus required no preparation like the spells of a spellcaster. However, they did need to rest each day to regain their mental strength.
+
+In terms of combat, they were equally capable of wearing any form of armor and shield, though they wielded simple weapons and would never use a tower shield. Their ardent's approach to battles varied depending upon what mantles they followed, though it was usually a single approach. Those who followed the mantles of Conflict and Guardian would relish wading into the thick of a battlefield, while one who followed the mantle of Energy or Mind might prefer to assist from the back lines. Unlike other psionic users, an ardent could supplement their powers with their mantle abilities, allowing them to conserve psionic energy when necessary.
+
+Relationships
+Some strongly religious communities could take umbrage with ardents, viewing them as encouraging people away from the traditional institutions of religion.
+
+Ardents had a special fondness for other intellectuals, such as psions and wizards. Towards divinely focused folk like clerics, paladins, and druids an ardent might express pity, disdain, or possibly even unease around them. For most other forms of adventurer, ardents largely felt ambivalence.
+
+Appendix
+Notes
+
+Background
+In a preview of the class provided in Dragon #382, one comment by designer James Wyatt made it clear that the 4 edition base class ardent should not be considered a true update of this base class, "The name of the class and some of the terminology within it—such as mantles—come from a 3rd edition class that appeared in Complete Psionic. That’s about where the similarity ends, though."
+References
+
+Connections
+
+---
+
+## Arabella's shadow entangle
+
+Arabella's shadow entangle was a conjuration spell from the 1 circle of magic, possibly created by Arabella of Elturel in the late 15 century DR.
+
+Effects
+Arabella's shadow entangle functioned in a similar manner to the regular entangle spell. However, unlike it, Arabella's magic enveloped and restrained undead and shadow creatures, including that of an incorporeal nature. The undead creatures with great physical strength could force themselves out of the entanglement.
+
+History
+In the, Arabella and her parents were among the tiefling refugees forced out of the city of elturel. On their journey to Baldur's Gate, Arabella had a chance to survive encounters with a deadly viper and the restless dead of the shadow-cursed lands. Were she to survive, it would become evident that she was changed by the magic of the Idol of Silvanus of the Emerald Grove. Endowed with seemingly innate magical power, Arabella might have had created shadow entangle spell later taught to the Absoulte Adversaries.
+
+Appendix
+See Also
+Sheela's entangle
+Appearances
+
+References
+
+---
+
+## Artemus Dimartius
+
+Artemus Dimartius was a human swashbuckler living in Waterdeep in the mid 14 century DR.
+
+Description
+He had a full, yet finely trimmed beard.
+
+Personality
+A swaggering buffon, he was far better at telling tall tales in the Waterdhavian bars than actually committing glorious acts of daring-do. Nonetheless, he was a man with a good heart, and he at least fought duels against purse-stealing thieves.
+
+Possessions
+He wielded an enchanted +1 rapier in one hand and a main-gauche in the other. A ring of protection, and an exceptional cloak of displacement, that also attracted all electricity-based spells in the manner of a lightning rod, kept him safe, while his boots of striding and springing allowed him to prance around in a most "heroic" fashion.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arden (psionicist)
+
+Arden was a half-elven psionicist whose powers began to manifest in the mid–14 century DR.
+
+Description
+She had inherited her mother's beauty and brilliance, and kept her golden hair frizzled.
+
+Personality
+From her father she had a passionate love of all things living.
+
+Possessions
+She owned a luckstone alongside her bejeweled clothing.
+
+History
+Arden was the daughter of a human wizard and an elven ranger.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arthius
+
+Arthius was a male half-sun elf musician who resided in Silverymoon during the late 15 century DR.
+
+Relationships
+His parents were Remallia Haventree and Arthagast Ulbrinter of Waterdeep. He had a sister named Serenore.
+
+History
+Circa the early 1470s DR, Arthius (who was a child at the time) posed for an oil painting with his family, which his mother would go on to keep with her.
+
+As an adult, Arthius moved to Silverymoon to study music, and lived there as of the .
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Ardalis the Bent
+
+Ardalis the Bent was a Zhentarim mage in the mid-to-late 14 century DR.
+
+Description
+The man had a bent back, grayed hair, and wrinkled skin. He was  tall.
+
+Personality
+Ever cautious not to travel without guards, he was not above going back on his word after bargaining for his life.
+
+Abilities
+Ardalis was a powerful wizard of genius intelligence and exceptional agility. He knew various spells, culminating in animate dead and cloudkill.
+
+Possessions
+Of note, he carried bracers of armor that provided protection equivalent to chain mail, a ring of protection, a wand of fear, a potion of extra healing, and an elixir of madness.
+
+Relationships
+During one particular outing as part of the machinations of Lychor, Ardalis made it a point not to travel without guards: two fellow Zhentarim soldiers and a Zhentarim mage.
+
+History
+In the, Ardalis was one of the Zhentarim sent to the Chantry of St. Sammaster near Volkumburgh, as part of a force of around twenty-five soldiersThe book notes the limited number of soldiers in the group, with thirteen inside and a number outside outnumbering the intruding adventurers two-to-one. Assuming the Adventurer's Guild standards are used, and the number of adventurers is six, that would be an additional twelve soldiers. Thus, though the adventure is written for four to six adventurers, this article assumes twenty-five to be the best guess for the number of soldiers. and five wizards under the command of the Naug-Adar Lychor. By that time, Ardalis's back had been bent, his hair greyed out, and his skin wrinkled as a result og habitual excessive magic use.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Armor of the Warblade
+
+The armor of the Warblade, also known as the Warblade's reflection, was a kind of clothing and armor found in Myth Drannor during the late 14 century DR, magically derived from the legendary Warblade.
+
+Description
+These reflections took the form of various pieces of elven armor and clothing with a consistent silver and blue appearance, including light, medium, and heavy armor, cloaks, robes, helmets, whole outfits, and docent-like trinkets.
+
+Powers
+These items were exceptionally protective and aided the wearer's prowess in combat. Cloaks caused a defensive light distortion, while helms let the wearer focus and draw upon truly heroic reserves of energy.
+
+History
+These disparate pieces of gear were created when the echo of the Warblade defiantly broke from the Warblade proper, creating an array of linked magical items from pure magic. These remained in Myth Drannor, waiting to be found by those like Tannivh Dahast's Cormanthor Elves and the Red Wizards of Droic Orgul. The Red Wizards further strengthened these items, but their connection to the Warblade let them withstand the corruptive evil of their rituals.
+
+Appendix
+See Also
+ Armor of the Artblade
+ Armor of the Crownblade
+ Echo of the Artblade
+ Echo of the Crownblade
+ Echo of the Warblade
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Armor of the Artblade
+
+The armor of the Artblade, also known as the Artblade's reflection, was a kind of clothing and armor found in Myth Drannor during the late 14 century DR, magically derived from the legendary Artblade.
+
+Description
+These reflections took the form of various pieces of elven armor and clothing with a consistent black and red appearance, including light, medium, and heavy armor, cloaks, robes, helmets, whole outfits, and docent-like trinkets.
+
+Powers
+These items were exceptionally protective and aided the wearer's spellcasting while protecting them from the same. The cloaks further aided fiery and electric spells, while helms empowered cold and acidic spells.
+
+History
+These disparate pieces of gear were created when the echo of the Artblade defiantly broke from the Artblade proper, creating an array of linked magical items from pure magic. These remained in Myth Drannor, waiting to be found by those like Tannivh Dahast's Cormanthor Elves and the Red Wizards of Droic Orgul. The Red Wizards further strengthened these items, but their connection to the Artblade let them withstand the corruptive evil of their rituals.
+
+Appendix
+See Also
+ Armor of the Crownblade
+ Armor of the Warblade
+ Echo of the Artblade
+ Echo of the Crownblade
+ Echo of the Warblade
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Armor of the Crownblade
+
+The armor of the Crownblade, also known as the Crownblade's reflection, was a kind of clothing and armor found in Myth Drannor during the late 14 century DR, magically derived from the legendary Crownblade.
+
+Description
+These reflections took the form of various pieces of elven armor and clothing with a consistent gold and brown appearance, including light, medium, and heavy armor, cloaks, robes, helmets, whole outfits, and docent-like trinkets.
+
+Powers
+These items were exceptionally protective and aided the wearer's healing abilities. The cloaks made the wearer seem more threatening and impressive, while helms simply gave more protection.
+
+History
+These disparate pieces of gear were created when the echo of the Crownblade defiantly broke from the Crownblade proper, creating an array of linked magical items from pure magic. These remained in Myth Drannor, waiting to be found by those like Tannivh Dahast's Cormanthor Elves and the Red Wizards of Droic Orgul. The Red Wizards further strengthened these items, but their connection to the Crownblade let them withstand the corruptive evil of their rituals.
+
+Appendix
+See Also
+ Armor of the Artblade
+ Armor of the Warblade
+ Echo of the Artblade
+ Echo of the Crownblade
+ Echo of the Warblade
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Arbuckle Nit
+
+Arbuckle Nit was an inhabitant of Baldur's Gate in the late 15 century DR.
+
+History
+In the, Arbuckle was a customer of the Sword Coast Couriers, a mail and parcel delivery service that serviced Baldur's Gate. When the Couriers started experiencing mail disappearances alongside with its pigeons, Arbuckle Nit was among the people affected. He was missing broadsheet deliveries, however, it only mildly irked the man.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arghel
+
+Arghel was a swordsman of Athalantar under Helm Stoneblade during the early-to-mid–3 century DR. He spent some time as a bandit.
+
+Activities
+Arghel spent a number of years as a bandit during the rule of the Magelords.
+
+Relationships
+He was the brother of Baerold, a fellow bandit.
+
+History
+In the, during the month of Hammer, Arghel was part of an ambush on some Athalantan soldiers, in a bandit team composed of himself, Baerold, Sargeth, Engarl, Nind, and the disguised prince Elminster Aumar. They slew a dozen armsmen in the cold.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Armor of midnight
+
+The armor of midnight was a suit of armor found in Myth Drannor during the late 14 century DR.
+
+Description
+This medium armor was a mix of leather and chain armor, layered together with midnight blue and moonbow-themed decorations.
+
+Powers
+The armor of midnight embodied the inevitability and portentous power of midnight. In addition to protecting the wearer, it enhanced their skill in combat and their spellcasting power.
+
+History
+This armor was found in the ruined Throne of Thought in Myth Drannor by Tannivh Dahast's Cormanthor Elves during the Elven Crusade.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Armor of moonlight
+
+The armor of moonlight was a suit of armor found in Myth Drannor during the late 14 century DR.
+
+Description
+This light armor was a mix of leather and chain armor, layered together with deep blue and moon-themed decorations.
+
+Powers
+The armor carried the power of moonlight, guiding the wearer in darkness. It made them a quicker and more deadly warrior, more able to avoid danger, and assisted with their spellcasting.
+
+History
+This armor was found after the Cormanthor Elves attacked Droic Orgul's forces at Castle Cormanthor during the Elven Crusade.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Armor of the new moon
+
+The armor of the new moon was a suit of armor found in Myth Drannor during the late 14 century DR.
+
+Description
+This heavy armor was a kind of chain armor decorated in moon symbology and deep blue colors.
+
+Powers
+The armor of the new moon bore the power of the moon that endured even during the darkness of eclipse. It made the wearer a more fierce and ruthless combatant, able to land blows in any situation.
+
+History
+This armor was found after the Cormanthor Elves searched the Burial Glen for the remains of Earynspieir Ongluth.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Armor of sunset
+
+The armor of sunset was a suit of armor found in Myth Drannor during the late 14 century DR.
+
+Description
+This heavy armor was decorated in warm yellows and tans, including the sun itself.
+
+Powers
+The armor of sunset carried the steadfast power and certainty of the setting sun. The wearer became more adept a warrior, better able to defend themselves, and better able to hold the attention of foes.
+
+History
+This armor was found after the Cormanthor Elves searched Tyrintar's Hall for Uhlsdrin Nirveth.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Armor of sunlight
+
+The armor of sunlight was a suit of armor found in Myth Drannor during the late 14 century DR.
+
+Description
+This leather armor was decorated in warm yellows and tans, including depicting the sun itself.
+
+Powers
+The armor bore the power of fire and radiance after a cold and dark night, giving hope to the weary. The wearer was made a more skilled and deadly combatant, more capable in all areas of war.
+
+History
+This armor was found after the Cormanthor Elves searched Ildrannath's Tower for the Key to the Mythal.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Armor of midday
+
+The armor of midday was a suit of armor found in Myth Drannor during the late 14 century DR.
+
+Description
+This medium armor had a shining breastplate and was decorated in the warm yellows of the sun.
+
+Powers
+The armor of midday bore the blazing power of the noontime sun, making the wearer a more resilient and relentless fighter in all areas.
+
+History
+This armor was found after the Cormanthor Elves searched the House of Song for the lost Zelliira.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Argon Bael
+
+Argon Bael was an angel of vengeance in service to the god Malar on the island of Moray in the Moonshae Isles. He was instrumental in restoring Malar to power during the 15 century DR, for which his life was taken as a sacrifice.
+
+Description
+He made an effort to appear as a human swordmage, although he seemed not to care if his true nature became obvious. In this form, he had pale, transparent skin that glowed dimly and through which his veins and arteries were clearly visible. A discolored, scaly rash marked his cheeks, extending down his neck and onto his torso. His hair was thin and often dirty. His eyes were hauntingly blank, but would blaze with light when he was angered.
+
+Personality
+
+He was unfalteringly loyal to Malar, and fought hard to maintain and propagate the god's worship among the lycanthropes of the Black Blood tribe on Moray. He tortured and killed many innocent sacrifices to his god. He was dispassionate and quick to kill his followers, whether as punishment for failure or just to provide meat for the ravenous werewolves in his entourage. He was also quick to anger, and hated "heretics" among the lycanthropes.
+
+By the late 15 century DR, he had grown desperate to revive his god, and was almost scared to hope for the success of his plans to bring Malar back.
+
+He only discarded his human disguise in battle if needed, such as to protect his god.
+
+Possessions
+He wielded a greatsword covered in runes that glowed with a cyclone of white fire in battle.
+
+Relationships
+
+He commanded a fearful respect among the Black Blood tribe, who did not dare to defy him. He despised the Yellow Rose of Sarifal, who converted the lycanthropes at Caer Moray away from the ways of Malar and towards a lifestyle of embracing their humanity and helping those in need.
+
+He was in communication with High Lady Ordalf of Sarifal, who assisted him in his quest to revive Malar for her own reasons. They communicated via reflecting pool.
+
+History
+At one time prior to Malar's supposed death during the Spellplague, Argon Bael served his god by guarding a particular crypt in the ancient and ruined city below Scourtop on southern Moray. Following the death, Argon Bael was said to have spread lamentations for his fallen god aboard a seven-masted ship that sailed along the islands of Moray and Gwynneth, and seemed to draw out wails of despair from the land itself. He subsequently learned of a prophecy that detailed how Malar could be revived, which would require the consent of a greater deity, presumed to be Malar's longtime enemy, Chauntea. Invigorated by the promise of restoring his god, Argon Bael worked to keep Malar's faith and bloody rituals alive on the island of Moray among its lycanthrope inhabitants, aspiring to turn the island into a haven for their kind. As the decades wore on and any lycanthropes who had remembered Malar died, keeping the faith alive became an increasing struggle for the angel.
+
+In the late 1470s DR, Argon Bael was informed by High Lady Ordalf that she had sent the crew of the  Sphinx to Moray, and two of them—the empathic cat-shifter Kip and a priestess of Chauntea named Marikke—were suitable sacrifices for fulfilling the prophecy to revive Malar. Aided by Ordalf's signal fires, Argon Bael and his Black Blood followers ambushed the adventurers at Kork Head as they landed ashore, and captured Kip and Marikke as well as their ally, The Savage, whom Argon Bael was forced to duel personally. His troupe then rushed the trio to Malar's tomb in time to complete the ritual to revive the god. The ritual did not go smoothly as the Savage escaped and attacked Argon Bael alongside two druids who had infiltrated the Black Blood. Forced to unleash his full power, Argon Bael would have slain the Savage if not for the intervention of Chauntea, who caused Marikke to fall upon the angel's back and allow the Savage to slay him. This was done to provide Bael's blood as a sacrifice to Malar, which was the final thing needed to cause the god to be reborn within the body and mind of Kip.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Arthlach
+
+Arthlach was an Axelord of Westdelve in the early 3 century DR.
+
+Description
+He was wide-bodied, with a broken nose on a scarred, flinty face.
+
+Personality
+He was wary to the point of twitchiness.
+
+Abilities
+His aim was excellent, even with improvised weapons.
+
+Possessions
+He had a waraxe that he carried everywhere.
+
+History
+Arthlach was a guest at Morlin Castle on Eleint 11 of the, where he arrived on the same day as Highlord Falaeve of Siluvanede. They were at each other's throats all day, which got on the nerves of their host, Lord Breiyr.
+
+During dinner, the Axelord sought to discuss the recent fires that had damaged much of Halangorn Forest; the elflord was actively dismissive of the idea they might've been set by sorcery. However, the dinner was joined soon after by Herald Huntinghorn of Tavaray, who revealed he had reason to believe the blazes were set in fact by sorcerers from Athalantar. As the conversation turned to the Magelords of Athalantar, the Axelord discovered the elven lord trying to cast a spell, and immediately cried out for help, hurling his own leg of lamb into the elf's face. The elf wordlessly tried to cast another spell, and the Axelord hurled an axe, decapitating him in a single throw.
+
+The elf's dead body melted into the form of a human, identified by the castle's Knight of the Gate as Mage Royal Ubriien Orlyn. The herald, in turn, revealed himself to be the sorceress Myrjala Talithyn, who praised the axelord's aim and judgment as she saw herself out. The Axelord said nothing, but smiled at her gleefully while she departed.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arcton Greenwort
+
+Arcton Greenwort was a trader in the town of Eveningstar in Cormyr in the late 15 century DR.
+
+Description
+Arcton had long brown hair and wore a green-brown outfit.
+
+History
+During the Sschindylryn invasion of Eveningstar in the mid-1480s DR, Arcton, Ravanys Woodsoul, and Celemin Ilver together represented the interests of the druids of the King's Forest and the dryads of the Grove of the Great Tree, who worked with the forces of Cormyr against the drow, demons, and other threats that emerged. He offered up supplies to allies including potions of barkskin and restoration, the implement of the deep woods and the leathers, lenses, and boots of the woodsman.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Art of Communications and Sigils
+
+Art of Communications and Sigils was a spellbook written by the sage Flamsterd sometime before the mid–14 century DR.
+
+Contents
+The book contained five powerful wizard spells, including three relating to the "communications" piece of the title (power word, blind, power word, kill, and power word, stun) and two relating to the "sigils" piece (explosive runes and symbol).
+
+Appendix
+References
+
+---
+
+## Arganon Pine
+
+Arganon Pine was a human Cormyrean Wizard of War in the late 15 century DR.
+
+Description
+Arganon had light skin and back-swept red hair.
+
+History
+
+During the Sschindylryn invasion of Eveningstar in the mid-1480s DR, Arganon joined the Cormyrean forces at Eveningstar as they fought back against the drow and their allies. In the midst of this, a forest outpost that sat upon a magical locus was destroyed by the drow, and was then taken over by werewolf bandits. In response, Arganon took a team of Purple Dragons and adventurers (hired by Yenward Chorster) to seize the site and performed a magical ritual on the spot to protect the valley from creatures like those malevolent werewolves. In the process of creating the spell ward, the bandits launched a fierce assault, including the fearsome Claive the Carver and Bladeback, but Arganon's efforts succeeded in the end. After securing the area he left the ruined keep to the handling of Zenyff Bravehand, and traveled to the High Road to continue his investigations into the gang of werewolves.
+
+Appendix
+Notes
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Arborean (disambiguation)
+
+Arborean may refer to:
+ A demonym referring to inhabitants of the outer plane Arborea, or
+ Arboreans, a race of humanoid plant creatures.
+
+---
+
+## Arborean
+
+Arboreans were sentient humanoid plant creatures.
+
+Description
+The skin of an arborean was brown and resembled the bark of a black walnut tree, allowing them to camouflage in wooded areas. They dressed in similarly camouflaged robes, sometimes stained with the blood of their victims.
+
+Combat
+Arboreans preferred to attack from ambush and fought with weapons, most often short swords and scythes. Some also cultivated magical abilities, such as to launch a volley of poison needles at their foes, to summon a burst of entangling vines, or to turn invisible.
+
+As plant-based beings, arboreans hated and were acutely vulnerable to the effects of fire, so much so that they involuntarily fled from any flame that singed them.
+
+Society
+Arboreans were evil. They worshiped certain plants and would attack travelers in order to feed blood to these plants.
+
+Arboreans dwelt in dangerous woodlands, such as the Reaching Woods in the Western Heartlands. Their territory was notable for the complete absence of the sounds of living creatures, including [[bird]. They were known to ally themselves with similarly deadly plant monsters, especially shambling mounds and vine horrors.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arrow of attraction
+
+An arrow of attraction was an enchanted arrow that held fast inside wherever it was shot.
+
+Powers
+These arrows were tied to a string that was made almost indestructible through enchantment. The arrows were nigh-impossible to remove, because of the same enchantment.
+
+History
+The wild elf Khalt Laathine employed such arrows in the slaying of the copper dragon Chalintash on the, after the wyrm succumbed to the Rage of Dragons. The arrows were strong enough to hold him.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arlon
+
+Arlon was a mage of the Cult of the Dragon during the late 14 century DR.
+
+Description
+The young man shaved; while on the road, he sometimes developed dark stubble.
+
+Personality
+The mage was quite patient, ready for pain, though ruthless.
+
+Abilities
+One of his spells allowed him to track where someone had been. Another spell allowed him to levitate. Another spell hurled a myriad small objects at a target, as an attack. A last spell resembled a ball of fire that expanded upon impact, most likely a fireball.
+
+Relationships
+Per a knowledgeable source, he was affiliated with the Cult of the Dragon.
+
+History
+In Flamerule of the, Arlon heard travelers tell of an old woman in destroyed Orunn, Diadree, tell them she did not want to leave the mountain, that she wanted to stay with Amrennathed. Knowing the name belonged to an amethyst dragon, he reasoned she must have some relationship to her. In Ironfang Deep, he secured the services of the hiresword Bahrn to bring him to Orunn, claiming that Diadree was his cousin, and a wizard.
+
+When they finally arrived at her home, Diadree gave no signs of knowing him; Bahrn revealed he was already acquainted with the old woman, and knew she was no wizard. He still helped seize the old woman; Arlon took a scrap of her cloth and used a spell to find where else she may have been. This showed him the entrance to a cave housing Amrennathed's remains.
+
+In the cave, he fought some guardians of an unknown nature successfully. However, when he realized some of Ammrenathed's essence had clung to Diadree after the dragon's passing, he antagonized her, and Bahrn attacked him. As he attempted to strike Bahrn down, more of the cave's guardians ambushed him, and he died.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Armor of quick recovery
+
+Armors of quick recovery were a variety of light armor used by the adventurers in the Chultan city of Port Nyanzaru in the late 15 century DR.
+
+Powers
+An armor of quick recovery was imbued with magical energies that made the wearer feel refreshed in the midst of fighting, and it also boosted the wearer's vitality, physical protection, and the ability to land well-aimed, devastating, and lucky strikes.
+
+History
+Armors of quick recovery were used in the late 15 century DR, by the adventurers who aided Makos and Eku during their work researching the deadly lich Acererak.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Arena Efreetum
+
+The Arena Efreetum or the Djen Arena was a gladiatorial arena located in the city of Calimport in Calimshan. It and the Arena Sabam were known collectively as the Djen Arenas, a pair of arenas dedicated to entertaining the rulers of the city and the common folk alike and among the most important structures in the City of Slaves. It was half-destroyed in 1479 DR.
+
+Location
+A grandiose four-story building, the Arena Efreetum lay in the city's Trades Ward, within the Shomuz Drudach of the Larau Sabban and not far from the Arena Sabam.
+
+Formerly, the Djen Arenas were part of the Games Sabban, before Syl-Pasha Ralan el Pesarkhal established the system of wards in the .
+
+Structure
+Like slightly larger Sabam, the arena was huge: four stories in height and visible across almost the whole Trades Ward, being seen from atop the sabban walks up to three sabbans distant. It was only a little less prominent on the skyline than the nearby temples of Tempus (the Arms House) and Bhaelros (the Plaza of Divine Truth). It had seating capacity for up to 50,000 people. It had an elongated oval shape, which formed the basis for the Larau Sabban's mark.
+
+For the nobility, the Arena Efreetum was entered from the byways, with wide ramps leading up to between the second and third levels. Its entrances were marked by many huge pillars carved to resemble great jets of flame. Entry ramps led up to the upper levels; beggars would take shelter beneath these.
+
+Beneath both of the Djen Arenas was a tunnel formed from an old sewer line that linked the staging areas to the Arms House, a barracks and temple to the Lord of Battles. Favored gladiators who were unlikely to try to escape were permitted to live and train there; they used the tunnel to reach the arena to prevent escape attempts regardless.
+
+Interior
+In the Arena Efreetum, the majority of the upper-class spectators sat in the second and third levels.
+
+Around 1479 DR, illumination was provided by massive floating lamps.
+
+Activities
+This arena presented battles fought between slave gladiators, a wide variety of wild animals, and captured monsters. These were held on the 10 of each month and the major holidays of the Calendar of Harptos: Greengrass, Midsummer, Shieldmeet, Higharvestide, the Feast of the Moon, and Midwinter. It was open to all.
+
+There were no admission fees; instead, the arena turned a profit on a peculiar tradition: spectators "voted" on the outcome by hurling coins at the one they wanted to see lose a match, and avoided the one they wanted to see win. The higher the value of the coin, the higher the social status one wished to display to fellow spectators. Thus, the arena had takings of no less than 3,200 gp for a day of games. Of course, being pelted with coins distracted gladiators and aggravated beasts and monsters. The coins and blood on the arena only made the ground more slippery, especially by the end of the day. A gladiator could win their freedom by catching three coins—silver pieces or higher values—out of the air, winning their match, and finally presenting their three coins to the syl-pasha's vizar, provided the vizar was present.
+
+History
+The newly built Djen Arenas received 1,480 enslaved warriors captured when Calimshan's forces reconquered Calimaronn and Artrimmar in the . The majority of these gladiators died fighting one another or against monsters for the entertainment of the people.
+
+Under the Shoon Imperium, the eastern Djen Arena was dubbed the Efreetum by Qysar Shoon II (74–107 DR) for its flame-shaped entry pillars. The syl-pashas of the Larau family were the biggest supporters of the Djen Arenas in these days.
+
+True to its name, though, the Arena Efreetum was burned in the Arena Fires of the . A wizard attempted to escape by causing fires in both the arena and audience, which spread to the surrounding slave and gladiator barracks and beyond into the Games Sabban. The resulting inferno killed 5,600 slaves and gladiators, whose deaths went unrecorded, and another 3% of the city's population, and destroyed 1% of Calimport.
+
+In the, riots broke out at one of the Djen Arenas, leading to an escape of slaves.It is unknown which arena; the source refers only to a singular "the Djen Arena". Since the Arena Efreetum is called the Djen Arena in Sandstorm and the slave-turned-mercenary Wagym is most likely a fighting gladiator, it is presumed to be the Efreetum.
+
+A man named Bashir was sentenced to fight in the Arena Efreetum for failing to pay his debts. He died fighting, and his sons, Rasaad and Gamaz were left orphaned.
+
+After the Second Era of Skyfire in the 15 century DR, the windsoul genasi and pasha Marod el Arhapan rose to power off the gladiatorial games. He had his flying palace fly constantly between the two Djen Arenas and owned stables of slave gladiators. In the, Marod disposed of his former wife Valandra el Shelsper after the birth of their child Cephas by making her a slave beneath the Arena Efreetum. A tenday later, he ordered the untrained slave to face the great gladiator Azad in front of 18,000 spectators. Her death was inevitable, whilst Azad was granted his freedom. The gladiatorial matches remained in full swing in the Arena Efreetum as of the, with Cephas's friends Shan, Cynda, and Tobin forced to fight there. After Cephas tampered with the magic, Marod's own flying manor ultimately crashed into the Arena Efreetum, obliterating one whole side of it. Although Marod hoped to escape and restart gladiatorial combats in the Arena Sabam, Cephas fittingly slew his evil father on the arena sands.The novel Sandstorm refers only to the Djen Arena(s) and the Arena Sabam. Given the focus on gladiatorial combat and a mention of the Sabam remaining in use after the other's destruction, the former is presumed to be the Efreetum of earlier lore. This earlier name is used here for clarity.
+
+Notable Gladiators
+ Wagym, a wereboar who'd been enslaved and raised at the Djen Arena before escaping in the 1352 riots.
+ El Dyram, "the Arm," a powerful gladiatrix who'd earned her title for her headlocks and neck-snapping kills.
+ Azad the Free, a champion gladiator, considered the greatest of his day around 1460 DR, who was granted his freedom.
+
+Appendix
+Background
+Although they are two entirely separate and different arenas, the Arena Efreetum and the Arena Sabam, references in the sources commonly refer to them collectively as the Djen Arenas, or even singularly as the Djen Arena. The novel Sandstorm even renames the Arena Efreetum as the Djen Arena throughout, leaving the other as the Sabam. As such, it can be unclear if a given reference to a Djen Arena refers to one or the other or both. For example, it is unknown if Wagym and the 1352 riots were at the Efreetum or Sabam. However, in most cases, the two may be distinguished by the context: if gladiatorial combat is implied, then it is the Efreetum, as in the case of el Dyram. Thus, this article covers only the Efreetum and information pertaining to both.
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Arena Sabam
+
+The Arena Sabam was a chariot racing arena located in the city of Calimport in Calimshan. It and the Arena Efreetum were known collectively as the Djen Arenas, a pair of arenas dedicated to entertaining the rulers of the city and the common folk alike and among the most important structures in the City of Slaves.
+
+Location
+A grandiose four-story building, the Arena Sabam lay in the city's Trades Ward, within the Mirab Drudach of the Larau Sabban and not far from the Arena Efreetum.
+
+Formerly, the Djen Arenas were part of the Games Sabban, before Syl-Pasha Ralan el Pesarkhal established the system of wards in the .
+
+Structure
+Slightly larger than the Efreetum, the arena was huge: four stories in height and visible across almost the whole Trades Ward, being seen from atop the sabban walks up to three sabbans distant. It was only a little less prominent on the skyline than the nearby temples of Tempus (the Arms House) and Bhaelros (the Plaza of Divine Truth) and the sound of its races would thunder across Calimport. It had seating capacity for up to 50,000 people. It had an elongated oval shape, which formed the basis for the Larau Sabban's mark.
+
+Beneath both of the Djen Arenas was a tunnel formed from an old sewer line that linked the staging areas to the Arms House, a barracks and temple to the Lord of Battles. Favored gladiators who were unlikely to try to escape were permitted to live and train there; they used the tunnel to reach the arena to prevent escape attempts regardless.
+
+Interior
+Around 1479 DR, illumination was provided by massive floating lamps.
+
+Activities
+This arena featured chariot races on the 4, 16, and 28 days of every month, with five races held around highsun. Typically, these were two-wheeled chariots with teams of horses driven by gladiators, but occasionally other beasts or even monsters were employed for a spectacle or battle. Charioteers had a slim chance of winning their freedom: whilst racing past the syl-pasha's seat at top speed, they must somehow catch a coin tossed by a pasha or someone doing their bidding. Those who succeeded were usually hired as chariot drivers in the syl-pasha's own household.
+
+Admission fees and mandatory wagers at the Sabam ranged from 2 cp to 10 gp according to the choice of seating. People sold cakes outside.
+
+History
+The newly built Djen Arenas received 1,480 enslaved warriors captured when Calimshan's forces reconquered Calimaronn and Artrimmar in the . The majority of these gladiators died fighting one another or against monsters for the entertainment of the people.
+
+The syl-pashas of the Larau family were the biggest supporters of the Djen Arenas during the time of the Shoon Imperium.
+
+Once in the Arena Sabam, a novelty race saw one chariot pulled by a hippogriff and the other by a behir. Audiences packed the stands expecting to see a catastrophe—they did.
+
+After the Second Era of Skyfire in the 15 century DR, the windsoul genasi and pasha Marod el Arhapan rose to power off the gladiatorial games. He had his flying palace fly constantly between the two Djen Arenas and owned stables of slave gladiators. The chariot races remained in full swing in the Arena Sabam as of the .The novel Sandstorm refers only to the Djen Arena(s) and the Arena Sabam. Given the focus on gladiatorial combat and a mention of the Sabam remaining in use after the other's destruction, the former is presumed to be the Efreetum of earlier lore. This earlier name is used here for clarity.
+
+Appendix
+Background
+Although they are two entirely separate and different arenas, the Arena Efreetum and the Arena Sabam, references in the sources commonly refer to them collectively as the Djen Arenas, or even singularly as the Djen Arena. The novel Sandstorm even renames the Arena Efreetum as the Djen Arena throughout, leaving the other as the Sabam. As such, it can be unclear if a given reference to a Djen Arena refers to one or the other or both. For example, it is unknown if Wagym and the 1352 riots were at the Efreetum or Sabam. However, in most cases, the two may be distinguished by the context: if chariot racing is implied, then it is the Sabam. Thus, this article covers only the Sabam and information pertaining to both.
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Artak
+
+Artak was a shipowner of the Sword Coast in the late 14 century DR.
+
+History
+Circa 1372 DR, Artak was approached by the Rundeen merchant consortium to join them, but declined. It was an offer he should not have refused. Later, when the merchant Sudeik transported Calishite silks up the Sword Coast to Waterdeep on one of Artak's ships, Rundeen pirates came to pursue, raid, or even scuttle the merchant vessel.
+
+Appendix
+References
+
+---
+
+## Arcane whirlwind
+
+Arcane whirlwinds were simple elemental spirits infused with arcane magics created by wizards of Neverwinter.
+
+Description
+An arcane whirlwind was a visible swirling gust of wind. Its ethereal ribbons of blue and purple energy spiraled up it like a twister of magical energies.
+
+Powers
+When an arcane whirlwind was willing to cooperate with an adventurer, it allowed them to ride the winds. Those who rode arcane whirlwinds could fly and hover at high speeds, faster than an average mount. When forced into combat, an arcane whirlwind could turn into an arcane maelstrom, clobbering its enemies and pushing them away from the whirlwind's center.
+
+History
+Arcane whirlwinds were known to be created by wizards in the late 15 century DR. Being stubborn creatures, arcane whirlwinds were occasionally inclined to aid adventurers in their quests, while some were bound to the buyers by the mages who created them.
+
+Appendix
+Gallery
+
+Appearances
+
+References
 
 ---
 

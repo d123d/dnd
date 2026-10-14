@@ -4,6 +4,21 @@ _Source: forgottenrealms.fandom.com, CC-BY-SA 3.0, dump 2025-10-22._
 
 ---
 
+## Oebelar
+
+The Oebelar was formerly a mage in the city of Scornubel.
+
+One night around 1338 DR, his tower was struck by blue-white cold fire and destroyed, but the next night, one of his eyeballs and a blackened forearm appeared. Thereafter, they wandered the city either together or independently. The hand was both able to write and make gestures. Ballads were written about the remnants of the Oebelar, and more than one adventuring band has chosen the name the Eye and the Hand. Most citizens hated the floating eye and forearm but even the most powerful magic seemed to have no effect on them. They could, however, be harmed by regular weapons.
+
+Appendix
+Appearances
+Novels
+
+The Nether Scroll
+References
+
+---
+
 ## Oeble
 
 Oeble, previously known as Oeble-town, was a city in the Border Kingdoms, well-known as a trade center and as a haven for criminal activity in the region.
@@ -101,6 +116,212 @@ Gallery
 References
 
 FR:Oeble
+
+---
+
+## Oerth
+
+Oerth  was a planet located in the center of Greyspace, a crystal sphere located in the Prime Material Plane.
+
+Cosmography
+Greyspace was part of a celestial configuration known as the Triad, which also included Realmspace, where the world of Toril was found, and Krynnspace, home of the world of Krynn. The phlogiston, a rainbow-colored chaotic liquid that surrounded the spheres, had strong currents flowing from Grayspace toward Krynnspace, from Krynnspace toward Realmspace, and in both directions between Greyspace and Realmspace. Traveling with any of these currents was a relatively simple matter, but traveling directly from Krynnspace to Greyspace or from Realmspace to Krynnspace was impossible.
+
+Geography
+There was a land here called the Flanaess, a body of water called the Coral Sea, and a subterranean region called the UnderOerth (akin to the Underdark under Toril).
+
+Calendar
+Similarly to Toril, the inhabitants of Oerth used a number of different calendars to mark the time. The standard most commonly used was the Common Year (CY) calendar. A year on Oerth lasted 365 sidereal days, but as a result of the sun's orbit around the planet, a calendar year contained only 364 solar days.This difference in the number of days of the Oerthian year is due to the fact that the sun orbits Oerth in the same direction as the planet's rotation around its own axis. For that reason, every 365 times Oerth completes a full rotation around itself, the sun completes one, subtracting a day, for a total of 364 calendar days.
+
+The  marked the first meeting between Elminster and Mordenkainen on Earth. On Oerth, this was shortly before the year 581 CY, when Mordenkainen was beginning to suspect a plot to destroy the Circle of Eight, which culminated in Vecna's first failed attempt at becoming a greater deity.
+
+History
+In the mid‒14 century DR, Jewely Carseah and Marcus of the Waters were sent as emissaries from Oerth to the Rock of Bral to discuss the threat of invasion the Vodoni Empire posed to the crystal spheres of Realmspace, Greyspace, and Krynnspace, in the early stages of the War of the Spheres. The meeting marked the formation of the Free Space Alliance.
+
+In the late 15 century DR, a book on the history of Oerth was part of the collection of the arcanaloth headmaster of the Dweomercore level of Undermountain.
+
+Inhabitants
+
+Oerth was home to prominent wizards such as Bigby, Drawmij, Tenser, and Mordenkainen, whose spells were well known on Toril. Mordenkainen was an acquaintance of Elminster's; the two had met on numerous occasions in the home of Ed of the Green Wood on Earth to exchange spells and lore.See other articles in the Wizards Three series in Dragon Magazine. Mordenkainen, when he had newly mastered interplanar travel, used to visit Waterdeep with some regularity.
+
+When Harkle Harpell entered into an unorthodox contest of wizardry with the Sea Sprite's wizard Robillard, Harkle and Robillard mentioned a number of Oerthly wizards, including Bigby, Melf, Otiluke, and Tenser. In particular, Robillard regarded Bigby as one of the most powerful and impressive wizards of all time, on any world.
+
+The Oerthly bard Gwydiesin of the Cranes also chatted with Elminster on occasion.
+
+Both Elminster and Khelben "Blackstaff" Arunsun spent time on Oerth, and Elminster suspected that Khelben Arunsun the Younger settled there to begin a life away from the elder Khelben.
+
+Oerth was the homeworld of Scaldulin, a famous hero who wielded a powerful enchanted sword, the Hoarfrost Blade. Before the blade ended up broken and then reforged on Toril, the sword accompanied its owner in the Battle of the Thousand Dead, battle against lich Scaroth the Warped of Blackmoor, and stayed with its master after his transformation into a death knight. The sword also cut down a solar named Arazium.
+
+Notable Locations
+ Blackmoor, a particularly unruly barony that was known by sages on Toril for the tale of Scaldulin and his Hoarfrost Blade.
+ Castle Greyhawk, home of the mad archmage Zagig Yragerne, that was abandoned with his demise. Situated northeast of the City of Greyhawk, which Zagig once ruled, it and its many-leveled dungeon were a powerful draw to adventurers, for its halls were said to be filled with all manner of marvels as well as numerous portals to other planes.
+ The Free City of Greyhawk, a major independent city-state, a beacon of civilization, located near the geographic center of the Flanaess region. Ruled by an oligarchy of various faction leaders, It was a center of commerce and diplomacy, linked to several critical trade routes, as well as learning and adventure. It drew in adventurers from all over.
+ Isle of Woes, a sunken isle that was believed by some to be the birthplace of the legendary Codex of the Infinite Planes.
+ Lost Caverns of Tsojcanth, a set of caverns in the Central Flanaess deep in the Yatil Mountains that once served as the lair of the legendary archmage Iggwilv the Witch Queen.
+ Sunless Citadel, a once proud Baklunish fortress that sunk into the ground, though other sages say it in fact lied in the Crags of the Sword Coast North.
+ The Tomb of Horrors, a labyrinthine crypt deep within the Vast Swamp. Lair of the demilich Acererak, who once ruled over much of the Eastern Flanaess. It was filled with terrible traps, strange and ferocious monsters, and treasures. Legendary in its status, it attracted and claimed the lives of countless adventurers.
+ White Plume Mountain, a legendary volcanic mountain that was home to the archmage Keraptis.
+
+Culture
+Large green plover's eggs were a delicacy in the Flanaess.
+
+Appendix
+Notes
+
+Appearances
+
+Further Reading
+
+Cook, Monte and Ray Vallese. Faction War. Renton, WA: TSR, 1998.
+Cordell, Bruce, and Steve Miller. Die Vecna Die!. Renton, WA: Wizards of the Coast, 2000.
+
+External Links
+
+Gallery
+
+References
+
+---
+
+## Oenath
+
+Oenath, also known as Dreamers, were intelligent, wolf-like creatures living in the wilds of Akanûl. They were originally a pack of wolves changed by the Spellplague into their current form.
+
+Combat
+Oenath hunted in packs. Their roar has the ability to knock an opponent over at close range.
+
+Description
+Oenath had thin gray fur and white skin. Their faces often looked nearly humanoid.
+
+Appendix
+References
+
+---
+
+## Oel'yvia Reefglider
+
+Oel'yvia Reefglider was an aquatic elf barmaid in Skullport.
+
+History
+Around 1370 DR, Oel'yvia was hired as a barmaid for Basil Willowbrook's inn, the Bindle's Blade in the Lower Heart district, where she would delight customers with her songs.
+
+Appendix
+
+References
+
+---
+
+## Oedachlo
+
+Oedachlo was a powerful mind flayer wizard until a human wizard magically imprisoned him under the sands of Anauroch. However, in 1358 DR, a Zhentarim expedition freed him. Oedachlo remained deeply hidden while exploring the modern Realms. His goal was to find the human wizard or his descendants and enact his revenge.
+
+References
+
+---
+
+## Oe Shodayu
+
+Oe Shodayu was a retainer of the Funada clan in Nakamaru around 1357 DR.
+
+Activities
+Shodayu was an old warrior tired of fighting. He preferred to study the classics and train himself.
+
+History
+In 1357 DR, during the plot of Goshukara Akinari to make Funada Mitsuhide lose face in front of the special envoy of the shogun, Lord Masago, Shodayu would attempt to strike down Akinari.
+
+Personality
+Shodayu lacked a true warlike spirit, so he did not advance much in his profession. However, he carried out his duties faithfully and to the best of his abilities.
+
+Appendix
+References
+
+---
+
+## Oey Sambal Pedas
+
+Oey Sambal Pedas was the sultan of Kilap Valley in Shou Lung in 1358 DR. He ruled over the Laska people.
+
+Personality
+Oey Sambal Pedas  of Kilap Valley loved stories and storytelling games and always tried to find a a good opportunity for a game.
+
+History
+In 1358 DR, during a hunt, Oey Sambal Pedas met an adventuring party hired by the Emperor of Shou Lung to find General Goyat Nagumo, and challenged them to a storytelling game. The adventurers had to guess if a story told by the sultan was true or false and vice versa. After some stories, he said goodbye to the adventurers.
+
+Appendix
+References
+
+---
+
+## Oe-Ura
+
+Oe-Ura, mostly known as the Peachling Girl, was a heroine in the Fochu Peninsula in Wa.
+
+Personality
+Oe-Ura preferred the company of animals to people. She was an intelligent, quick-witted, and eloquent woman.
+
+History
+One day, a poor farmer was fishing when he discovered a peach floating down the Nanaichi River. He took the peach from water, and a female child burst from it. He and his wife decided to raise her, naming her Oe-Ura.
+
+Oe-Ura grew strong and the daimyo decided that she would be a menace, ordering her execution. Oe-Ura's parents hid her in the Momoben Forest and were executed in her place.
+
+Oe-Ura from then on became the champion of poor people against corrupt government soldiers, thieving tax collectors, and other threats to the underclass.
+
+Usually she traveled with her companions, the parrot Ai, the monkey Haya, and the wild dog Tomo.
+
+In 1358 DR, she was busy defeating the Blue Kumi Bandits but at last successes than to help of Osari Minhiro and his foreign adventuring party.
+
+Appendix
+References
+
+---
+
+## Oelaerone
+
+Oelaerone was a pleasure queen in Zhentil Keep as of the mid–14 century DR, and also a Harper.
+
+Personality
+She knew all the dirty jokes in the business. Oelaerone had joined the Harpers for adventure.
+
+Relationships
+She was never far from Belarla, and she knew Mirt. She also knew the way to Myrintara's home.
+
+History
+Oelaerone's work as a Harper and a pleasure queen of Zhentil Keep continued until the, when Mirt called upon them to aid Shandril Shessair after her first assault on the Citadel of the Raven. They followed her afterwards when she set out to attack the Wizards' Tower. When she was prevented from reaching that location by the patrols in the city, Oelaerone guided Mirt to a passage across the sewers, through which they reached Myrintara's home.
+
+Myrintara later transported them to the Lonesome Tankard in Eveningstar. There, she argued in favor of Shandril striking again at the Zhents, rather that fleeing to Silverymoon. During the tussle with the forces of Fzoul Chembryl at the Wizards' Tower, Oelaerone was struck by a poisoned arrow, taking her out of the fight. She survived the fight, however, and was healed by a kiss from Shandril and her spellfire, getting well enough to leave on her own power soon after.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Oemeril Talos–claere
+
+Lord Oemeril Talos–claere was a Llewyrr Marchlord of Synnoria on the island of Gwynneth in the Moonshae Isles during the late 15 century DR. He protected the valley's northern border.
+
+Description
+His features were beautiful, handsome, and delicate, and his fingernails were long and curved. His voice was melodious and melancholic.
+
+Personality
+He dearly cared for the sanctity of the land which he protected, and ruefully regarded it as polluted if any non-fey entered its woods. He assumed that all non-Llewyrr were slaves, and treated them as such. He was utterly oblivious to the emotions and sarcasm of humans.
+
+Possessions
+He dressed in scale armor and carried both a sword and a thin, curved knife used to cut a mark into intruders' flesh so as to broadcast their crime to any who saw them.
+
+Relationships
+He had a cousin (his mother's brother's son) named Askepel, who served as a leader in the Knights of Synnoria.
+
+History
+
+In the late 1470s DR, a human named Rurik and a gnome named Suka accidentally trespassed into Synnoria while fleeing a wyvern attack. Although they just barely crossed the border and turned to leave immediately, they were intercepted by Lord Talos–claere and two of his associates. Talos–claere informed them that they had polluted the land and that no words or deeds could remedy the crime they had committed, and all there was to do was to mark them as trespassers and (as he presumed them to be slaves given too much leeway to wander) to find and punish their master. As he approached Rurik to cut a mark into him, Rurik stabbed him with a hidden dagger, then took his sword and slew one of the other elves while Suka dispatched the third. The pair fled the scene immediately, but the Llewyrr claimed to be able to detect the smell of a man and a gnome in the aftermath, and to smell Talos–claere's blood on Suka. Talos–claere's cousin, Lord Askepel, therefore attempted to detain Suka to bring her to justice in Synnoria, although he failed. She would ultimately escape Gwynneth with her comrades.
+
+Appendix
+Notes
+
+Appearances
+
+References
 
 ---
 

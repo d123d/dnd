@@ -4,6 +4,164 @@ _Source: forgottenrealms.fandom.com, CC-BY-SA 3.0, dump 2025-10-22._
 
 ---
 
+## Identify
+
+Identify was a divination spell that determined the features of a magic item.
+
+Improved identify was a more powerful version of the original spell, and thus it could only be cast by more experienced mages. The improved spell determined all the magic properties of the item in question, as well as the object's name.
+
+Effect
+The caster instantly learned all properties and features of one selected magic item they could touch, such as how a function was activated and, if it contained charges, how many remained, as appropriate. It did not work on artifacts.
+
+Components
+The spell required verbal and somatic components and took a full hour to cast. Divine casters needed a divine focus. Arcane casters needed a material component, namely a pearl worth 100 gp or more, which was crushed and stirred into wine using the feather of an owl. This infusion had to be drunk before beginning casting.
+
+Inscription
+According to the Book of the Silver Talon, the ingredients for the ink used to inscribe identify into spellbooks were one ounce of giant octopus ink, a clump of the honey fungus plant, one bunch of fennel, a fist-sized chunk of rose quartz, one drop of holy water, a single saffron plant, and a small flawless diamond.
+
+The honey fungus had to be plucked from rotting tree bark at night and immediately submerged in a silver vial full of the octopus ink and drop of holy water, the entirety of which was heated over a small fire. The rose quartz, fennel, and saffron were powdered with a mortar in a bowl of water and added to the vial as it was warming. This concoction was then shaken until properly mixed and cooled in a dark place. The leftover water was boiled in the bowl until evaporation, during which the diamond was to be powdered and combined within. This residue should then be added to the vial, which was sealed and stored under a rapid stream of water for six days before it could be used.
+
+History
+The Netherese arcanist Trebbe was given the credit for the creation of this spell in . It was originally named Trebbe's scry identify.
+
+It was an uncommon, though not unpopular, spell in Faerûn around 1358 DR.
+
+Users
+The magistrati, specialty priests of Azuth, were granted access to a special version of identify.
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Idea
+
+Idea was a divination spell that monks could use to gain a burst of inspiration toward solving a problem.
+
+Effects
+This spell induced a clarity of thought in the caster that could be used to prompt a memory of a forgotten detail or overlooked clue that was relevant to solving a conundrum. This spell had a cool-down period of six hours before it could be cast again.
+
+Components
+One gold piece was required to cast this spell, in addition to verbal and somatic components.
+
+References
+
+---
+
+## Idalia's flute
+
+Idalia's flute was a magical flute that affected a person's emotions.
+
+Description
+Idalia's flute was a small and rather ordinary-looking flute carved from a piece of gray driftwood, yet it played beautiful, clear music. It was said that Idalia put a key inside this flute to unlock any heart.
+
+History
+The flute was carved by the monk Idalia of the Yellow Rose. The carving became the focus of his existence and he nearly starved to death completing it.
+
+The flute was lost and centuries after Idalia's death it fell into the hands of Ilnezhara, a dragon disguised as a human in Heliogabalus. In the, Ilnezhara's sister, Tazmikella, hired Artemis Entreri and Jarlaxle to retrieve the flute. The task was in fact a ploy for the two dragon sisters to judge the abilities of the pair. They proved themselves worthy and Ilnezhara gave the flute to Artemis, telling him, "Perhaps you will come to better appreciate beauty you cannot yet understand."
+
+For Artemis, playing the flute helped to clear his thoughts. Jarlaxle persuaded him to do so often, believing it would help Artemis free himself of his emotional burdens. However, the flute brought up old, unwelcome memories and placed Artemis in a state of emotional turmoil. Eventually seeing the flute as part of Jarlaxle's attempt to manipulate him, he threw it to the ground at Jarlaxle's feet, wanting no more to do with it or Jarlaxle.
+
+A century later, when Artemis was enslaved by the sword Charon's Claw, he believed that Idalia's flute would have kept the sword's powers at bay, but as far as he knew the flute was in the possession of Jarlaxle.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Idriane Nethis
+
+Idriane Nethis was a female human rogue who was an operative for the Shadow Thieves in Beregost.
+
+Description
+Idriane was tall and thin with shiny black hair and beady dark eyes.
+
+Personality
+Soft-spoken, Idriane preferred to engage foes indirectly, using distraction and misdirection as her weapons. She was completely loyal to her guild but worried that she would be sacrificed to protect the identity of those she was covering for.
+
+Relationships
+Her father was noted as being a turnip farmer. Her dusty brown owl familiar was named Xynn and rarely left its perch on her shoulder.
+
+History
+Idriane was a petty thief living on the outskirts of Soorenar. By her thirteenth winter, she was already the leader of a gang of unscrupulous youths. She later mistook a man as a simple, fat merchant but he turned out to be a Cloakmaster of the Shadow Thieves in disguise; however, instead of killing her, the Cloakmaster took the young Idriane under his wing and instructed her.
+
+Idriane became a foil in Beregost, presenting herself as the lead agent of the Shadow Thieves in that town, but she really only held the rank of Silhouette.
+
+Appendix
+References
+
+---
+
+## Idris
+
+Idris was a Netherese necromancer who lived in Neverwinter in 1484 DR.
+
+In the burial grounds of Ebon Downs on the High Road, she found a powerful artifact known as the Deathknell and with it Idris made pacts with the Barrow Lords of Ebon Downs, seeking to build an army of undead to strike at their Thayan foes. However, the appearance of this undead army alarmed Lord Dagult Neverember, who sent a contingent of his army to stop them, accompanied by Doomguide Vesper Soulhearth.
+
+To deal with the situation, Vesper recruited an adventurer to destroy the Deathknell. The adventurer fought and defeated Idris and destroyed the Deathknell, stopping the dead from rising.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Idikut
+
+Idikut lived within the city of Alashan in Khazari during the mid–14th century DR.
+
+Personality
+He was described as being cunning and wise.
+
+Activities
+Idikut was the governor of Alashan and a loyal supporter of Prince Ogandi.
+
+Appendix
+Behind the Scenes
+Idikut's name is derived from Idiqut ("Sacred Fortune" in Old Uyghur), which was both the self-designation of the Qocho Kingdom in modern-day Xinjiang/East Turkestan and the title of its rulers.
+
+References
+
+---
+
+## Ido Kunarakuai
+
+Ido Kunarakuai was a judge in Wa around 1357 DR.
+
+History
+Ido Kunarakuai was the chief justice of the executive hyojosho court in Uwaji. He had been in that position for twenty years. He was so totally devoted to his career that he neglected his family. His wife divorced from him in 1347 DR and all his three daughters worked as geisha in Semmishi.
+
+Personality
+Kunarakuai was a wise and stern man, appreciated by both nobility and commoners for his common sense approach to the law. He greatly regretted the problems with his family.
+
+Appendix
+References
+
+---
+
+## Idolflow
+
+The Idolflow was a river in eastern Tethyr that fed into the Gorge of the Fallen Idol.
+
+Geography
+The river was fed by the longer Levast River. Both rivers were birthed in the Omlarandin Mountains. The river formed part of the border between County Morninggold and Surkazar.
+
+The Idolflow poured into the Gorge of the Fallen Idol and joined the River Ith.
+
+History
+There was evidence that the river had once been much larger and that a lake once filled the area between its connections with the River Ith and the Levast.
+
+References
+
+---
+
 ## Idle Champions of the Forgotten Realms
 
 Idle Champions of the Forgotten Realms is a free-to-play idle game developed by Codename Entertainment. It was released for early access on September 7, 2017.
@@ -126,6 +284,387 @@ External Links
  Wizards of the Coast page
 
 Connections
+
+---
+
+## Idrizraele
+
+Idrizraele was a Morueme blue dragon that lived in the Morueme lair within the Nether Mountains until the 14 century DR.
+
+History
+In 1371 DR the patriarch of the Morueme dragon clan. Kizilpazar, was killed by his power-hungry sons, Nahaunglaroth and Roraurim. As Idrizraele was the elder dragon's younger mate, she was driven out of the clan's ancestral home by the two younger males. Whether out of frustration, despair, or rage, Idrizraele assaulted the nearby Lady's Hand Monastery and was blasted away by the clergy of Loviatar, via weapons from ancient Netheril.
+
+Oddly enough, her death was avenged by Nahaunglaroth and Roraurim, who proceeded to destroy over half of temple's Loviatan inhabitants.
+
+Appendix
+References
+
+---
+
+## Idriane
+
+Idriane was a knight of Ilmater and one of two women to sit on ruling council of Impiltur, collectively known as the Lords of Imphras II, during the 14 century DR.
+
+Activities
+Among the lords, Idriane served as a temperate voice that strived for moderation. This viewpoint existed in stark contrast to some of the more extreme perspectives that expressed by her fellow councilors.
+
+Generally, Idriane and Rilaunyr coordinated with one another, constantly striving for understanding and consensus-building among the rest of the Impilturan lords, especially when the safety and well-being of the realm was at stake.
+
+Appendix
+References
+
+---
+
+## Identity penetration
+
+Identity penetration was a psionic power of the telepathy discipline that uncovered another creature's real identity.
+
+Effects
+If successful, the identity penetration power correctly discerned the target's true identity, regardless of disguise, illusions, polymorphing, and so on. It targeted one individual with unlimited range, but required an initial contact.
+
+Prerequisite Powers
+It required an initial contact.
+
+Users
+Identity penetration could be learned by psionicists. Some duergar could know it innately.
+
+Notable Users
+ Vhondryl, a psionicist in Skullport and head of the Hall of Mental Splendor
+ Ryvvik Dlardrageth, daemonfey psionicist and third-in-command of House Dlardrageth
+
+Appendix
+References
+
+---
+
+## Idyllglen
+
+Idyllglen was a settlement in Faerûn that was the target of multiple gnoll attacks. Their final assault upon the city was pivotal in the events that led to the fall of Zariel.
+
+History
+In the city's distant past, it was constantly threatened by neighboring gnoll tribes. The town's cleric Solndor Brightstar led the population in prayer to Lathander for help. The deity, moved by the townsfolk's bravery, sent the then-solar Zariel to their aid. With the angel's help, the gnolls were driven away.
+
+Some time later, the gnolls attacked again, personally led by Yeenoghu and aided by demons. Zariel led the Hellriders to fight the demons, banishing Yeenoghu. She later led her loyal servants into Avernus to continue the battle. However, a group of Hellriders led by Jander Sunstar panicked and deserted the band, sealing the portal back behind them and stranding the remaining members in Avernus.
+
+Appendix
+
+Appearances
+Adventures
+Baldur's Gate: Descent into Avernus
+Video Games
+Idle Champions of the Forgotten Realms
+
+References
+
+---
+
+## Id Ascendant
+
+The Id Ascendant was a nautiloid that was crewed by gnome ceremorphs and squidlings and used as a research vessel.
+
+Description
+The nautiloid was a semi-organic construction, mixing wood and iron with organic materials and reinforced with chitin. The ship was also circulated with a fluid created from the liquefied consciousnesses of several mind flayers, which allowed it to operate telepathically. Its interior was lit by bioluminescent orbs and kept at a temperature of  by the ship's life-support systems.
+
+The Id Ascendant had three decks: the lower deck had a forward section that housed one of the ship's ballistae and an aft cargo deck equipped with several stasis pods designed to keep the crew alive during long voyages; the middle, or battle, deck contained the second ballista and the ship's propulsion crystal; and the upper, or command, deck housed the bridge with the spelljamming helm and the captains' quarters.
+
+The nautiloid was equipped with a single spelljamming helm that could only be operated by mind flayers. Several of the ship's main functions could be operated by one or both of its captains.
+
+History
+In the winter of the, the Id Ascenant passed through Realmspace while it was being pursued by a neogi slaver ship. The ship crashed in southern Icewind Dale as a result of bad weather, while flying low to look for research specimens. The nautiloid sustained heavy damage and lost its propulsion system in the crash.
+
+The nautiloid was seen plummeting from the sky from several locations across Ten Towns, and was judged to be a comet. Following the crash, the ship emitted a rudimentary telepathic distress signal that could be picked up by a few of Ten Towns' inhabitants.
+
+The crew was focused on getting the ship's propulsion back to work so they could return to wildspace. The captains surmised that a temporary fix would be to use a psi crystal to replace the nautiloid's destroyed propulsion system. While investigating a nearby cave, the crew discovered the ruins of the Abeiran city of Xorvintroth, along with a brain in a jar that they enthusiastically consumed for sustenance.
+
+They allowed a group of adventurers and the giff mercenary Lieutenant Prook to use the Id Ascendant's spelljamming helm to charge explosives in the lieutenant's possession.
+
+Inhabitants
+The ship was crewed by the gnome ceremorphs Vorrin Q'uuol and Dredavex Sinfiz and the gnome squidlings Rin, Rix, and Zglarrd. In addition, it carried a number of creatures that the ceremorphs kept as pets or as test subjects, such as a flesh golem, a bulette, and two carrion crawlers. Following the crash, the bulette and the crawlers were released from the ship and allowed to roam the surrounding frozen landscape in search for food, as well as patrolling for visitors.
+
+Appendix
+Appearances
+Adventures
+Icewind Dale: Rime of the Frostmaiden
+Organized Play & Licensed Adventures
+Plague of Ancients (Volatile Thoughts)
+
+The Fallen Star • Into Darkness • Recipe for Retribution)
+References
+
+---
+
+## Idioms & Rare Cryptographs
+
+Idioms & Rare Cryptographs was a spellbook authored by Elminster Aumar.
+
+Contents
+This book revolved around spells that allowed one to communicate with others, especially through covert means. The spells inscribed in this book included the following:
+audible glamer • illusionary script • magic mouth • message • tongues • write
+
+Appendix
+References
+
+---
+
+## Idle dice
+
+Idle dice was a set of two enchanted dice.
+
+Description
+Idle dice were six-sided dice. They were crafted out of silvery metal, had sharp edges, and runes embossed on the sides of the cubes. These were the numbers 1 to 6 in Dethek, the dwarven script.
+
+Powers
+Idle dice allowed their owner to provide small amounts of healing to a random ally. The healing potency and target were determined via a literal roll of idle dice. This ability was known as the song of rest.
+
+Notable Owners
+Calliope: a bard adventurer owned a pair of idle dice during her time working with other warriors of Waterdeep, performing missions on behalf of Laeral Silverhand in the late 15 century DR.
+
+Appendix
+See Also
+ arcane dice
+ Dragon cult cubes
+
+Appearances
+Video Games
+Warriors of Waterdeep
+
+References
+
+---
+
+## Idun
+
+Idun was an interloper goddess of spring and youth from the Norse pantheon. There was no evidence that this deity was directly worshiped in the Realms.There were no known worshipers of Idun in the Realms. However, Idun is mentioned in On Hallowed Ground as having a friendship with the Faerûnian god Lathander. For this reason, Idun is documented in this article.
+
+Description
+Idun's avatar took the form of a spry girl in her early teens, but her true form was that of a beautiful young woman.
+
+Personality
+Idun was a very cheerful and friendly individual. She took great delight in seeing things grow and maintain healthiness, but was also extremely conscientious about her main duty.
+
+Abilities
+Idun was said to have the power to slow or reverse the aging process of any being, as well as the power to awaken any sleeping being.
+
+Her avatar form could cast spells from the all, animal, charm, divination, elemental, healing, necromantic, plant, and weather spheres
+
+Possessions
+Idun possessed a magical,  by  wicker basket that she carried her apples in and which could hold an infinite amount of them. Whenever she threw an apple in the basket at someone as if a weapon, one of many effects analogous to a wand of wonder would result upon making contact with its target.
+
+A more conventional weapon of hers was a magical staff, which upon striking someone would make them ten years younger.
+
+Activites
+Idun played an important role in the Norse pantheon, as she watched over the Tree of Youth from which grew the Apples of Youth. Though she also maintained whole orchards of apples. The Apples of Youth would be fed to the Norse gods once every year come spring, keeping them youthful.This page of On Hallowed Ground states that she feeds the apples, "...to the Olympians once every year come spring." Considering the rest of information given on her in the book, this can be considered an error.Deities & Demigods and Legends & Lore both state that these apples would reverse 10 years of age, with the latter book stating they were eaten every ten years. However, On Hallowed Ground does not state how much age they reverse and instead says they were eaten every spring. As the former two are Core sourcebooks, the latter is given precedence. Some of these apples would be taken to the Norse powers on her behalf by a young human proxy named Gudrun.
+
+She took turns watching over the Tree of Youth with Shou Hsing of the Celestial Bureaucracy, who gathered peaches from the tree for his own pantheon, but Idun rarely ever left her estate when it was his turn.
+
+On several occasions near-immortal beings on the Outer Planes, such as giants, would try to kidnap Idun for the Apples of Youths, but her fellow Norse gods always managed to rescue her in time.
+
+Relationships
+Idun was married to the Norse god Bragi.
+
+Among the rest of the Norse pantheon she was highly valued for the role she played. She was also friends with a number of deities outside the Norse pantheon, including the Faerûnian power known as Lathander.
+
+Realm
+Idun lived in Ysgard, on the layer of Asgard, sharing a home with her husband Bragi. This was a rather simple house that stood amidst the orchards she tended.
+
+She often visited Bragi in the plane of Elysium,  where he had a divine realm by the name of HarpHearth, with the two returning together to Asgard shortly after such visits. But she had no interest in permanently moving to Elysium, as she preferred to live among the Norse pantheon.
+
+Worshipers
+Only women were allowed to be priests of her faith and they had to dedicate themselves to her at a young age. Once they reached the age of eighteen, they stopped physically aging.
+
+Her priestesses typically wielded slings or staves as weapons. They wore costly robes as part of their priestly vestments. Much like Idun's avatar, her priestesses had access to spells from the all, animal, charm, divination, elemental, healing, necromantic, plant, and weather spheres.
+
+The duties of her priestesses revolved around blessing the annual planting of crops in spring and the caring for orphans.
+
+Rumors & Legends
+Some legends claimed that the buraq were a result of some horses stealing apples from the Tree of Youth.
+
+Appendix
+Notes
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Ide
+
+Ide was a tiefling child from Elturel that was kicked out from the city along with others of his kind in the late 15 century DR.
+
+History
+After the Descent briefly dragged Elturel down to the Nine Hells in the, the city's tiefling population was promptly blamed and exiled from the city. The community traveled west from the city towards Baldur's Gate, but was forced to stop for a time at the Emerald Grove due to increased goblin attacks along the Risen Road.
+
+Under the supervision of the stalwart Asharak, tiefling children like Ide were given training with small blades so that they could defend themselves against goblins if the need ever arose. While some other children were more hesitant, Ide was confident in his ability to face down a goblinoid attack.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+
+References
+
+---
+
+## Ideepton
+
+Ideepton was a small fishing village that stood on the shores of Lake Weng in Amn.
+
+Description
+The most notable feature of the settlement were its blue glowing waters, sacred to the followers and clergy of the church of Eldath. The population of Ideepton did not exceed 200 in the late-14 century DR.
+
+Geography
+Ideepton stood on the northern shore of Lake Weng, at the base of the Cloud Peaks, an altitude of . The town's closest neighbors were the village of Edive to the east, Minsor Vale on the southwestern shore, and Shatar to the southeast. It was the closest settlement to the Mountain of Skulls.
+
+Trade
+The village of Ideepton produced fish and root vegetables. The locals kept the crops and sold the excess to marching military or inhabitants of surrounding citadels. It was rarely visited by travelers.
+
+Appendix
+References
+
+---
+
+## Idol Island
+
+Idol Island was an island on the mudflats just off the town of Leilon.
+
+Description
+The island was uninhabited but covered in ancient and mysterious ruins.
+
+Geography
+Idol Island sat out in the marshland off Leilon that extended to the Sea of Swords. The island was located just beyond Quayside, the town's harbor.
+
+Rumors & Legends
+The locals would hear ominous whispers from the island at night, and it was rumored that anyone brave enough to spend the night there would experience prophetic dreams.
+
+Appendix
+Appearances
+Storm Lord's Wrath • Sleeping Dragon's Wake • Divine Contention
+
+Gallery
+
+References
+
+---
+
+## Idriane Deslin
+
+Idriane Deslin was a half-elf enchanter and sage living in the city of Loudwater in the Delimbiyr Vale in the late 14 century DR.
+
+Description
+At more than a hundred years of age, Idriane had a wizened appearance and was understandably quite slow in her speech and actions.
+
+Personality
+Though a pleasant, caring, and generous woman, Idriane had little tolerance for rudeness and swiftly dismissed such people—with her magic if she must. She kept no less than four lesser geas spells prepared for this purpose. When talking, she tended to ramble and had a habit of banging her walking stick on the hardwood floors of her house, loudly and just out of rhythm.
+
+Activities
+Idriane retained a sharp intellect and was a master of enchantment magic. For her services as a sage, circa 1372 DR, she charged only 5 gp to answer a significant question, but took a couple of days to provide a result.
+
+Appendix
+References
+
+---
+
+## Idol of Silvanus
+
+The Idol of Silvanus was a sacred wooden carving of Silvanus, the Oak Father, the god of nature known for his impartial fairness. It was located within the Emerald Grove, a sanctuary of the Emerald Enclave in the Western Heartlands.
+
+Powers
+The idol was the focus for a powerful ritual called the Rite of Thorns, which would protect and seal away the grove from possible intruders. The statue also radiated a magical glow that made those basked in it understand the natural word a bit better.
+
+History
+In the, the tiefling child Arabella stole the idol from atop its pedestal in the Emerald Grove.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+References
+
+---
+
+## Idruth
+
+Idruth was a Selûnite acolyte and the head cook of Moonshadow Hall in Yhaunn during the 14 century DR.
+
+Activities
+Idruth led a team of cooks who fed the inhabitants of Moonshadow Hall. She and her cooks were also responsible for preparing the feast for the New Moon Beneficence, the temple's monthly charity banquet. The kitchen and the cooks fell under the ultimate responsibility of the senior priestess Velsinore, who handled all internal administration of the temple.
+
+History
+As of 1373 DR, Idruth served under High Moonmistress Dhauna Myritar. From Eleasis of that year, she served under Moonmistress-Designate Feena Archwood during the tumultuous events of that period, continuing to run the kitchen dutifully and loyally despite the transformation of Moonmistress Dhauna into a werewolf and her subsequent death. Her dedication to the feeding of her charges was only thwarted when Sharrans cultists publicly attacked the Beneficence feast she was assembling.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Idalia Golddust
+
+Idalia Golddust was a Sembite adventurer and co-leader of the Company of Night in the mid-to-late 14 century DR.
+
+History
+In, Idalia and Iona Waukeenservant attended a party at Thistleflame Keep, held by Lord Partic Thistle for King Azoun IV's birthday. They were interviewed as suspects after Lord Thistle appeared to be murdered at the party, but were not involved and knew nothing of it.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Idogyr
+
+The Idogyr family was the ruling house of Spellshire.
+
+Family Tree
+
+Appendix
+
+References
+
+---
+
+## Idle Champions: Peril at the Greenhow
+
+Peril at the Greenhow is a three-part short story by Gail Simone and B. Dave Walters, a mystery that features the characters created by the authors, Detective Umberto Thornheart and Spymaster Aeon, for Idle Champions of the Forgotten Realms. The story was published in three parts in June 2024 on Codename Entertainment's website.
+
+Summary
+
+Index
+Characters
+Aeon • Alister Harlow • Beaky • Brenton Lonefire • Cricket (kenku) • Deuce • Rickard Harlow • Sliver Thornheart • Sylgar • Umberto Thornheart • Xanathar (Zushaxx) • Xev Karshar
+
+Walsh
+
+Creatures
+aarakocra • automaton • bear • bee • beholder • deer • dracolich • dwarf • goldfish • goliath • halfling • human • kenku • salmon • squirrel • tabaxi • tiefling
+
+monkey • ogre
+
+Locations
+Copper Street • Court of the White Bull • Galloping Minotaur • Greenhow • New Velar • North Ward • Harrowdale • River Gate (Waterdeep) • Waterdeep
+
+Icewind Dale • Luskan • Skullport • Sword Coast • Temple of Knowledge
+
+Organizations
+Waterdhavian Guard • Watchful Order of Magists and Protectors • Xanathar's Thieves' Guild
+
+Bregan D'aerthe • Masked Lords • Zhentarim
+
+Magic
+detect magic • jump • sending stones • silence • teleportation circle • true polymorph
+
+speak with dead • weave
+
+Miscellaneous
+albinism • apple pie • blackberry pie • caltrops • corset • music box • pickle • sausage • skinning knife • spyglass • staff
+
+Appendix
+References
 
 ---
 

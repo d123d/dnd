@@ -4,6 +4,41 @@ _Source: forgottenrealms.fandom.com, CC-BY-SA 3.0, dump 2025-10-22._
 
 ---
 
+## Yharaskrik
+
+Yharaskrik was an illithid of the mid-to-late 14 century DR.
+
+Description
+As an illithid, Yharaskrik had a truly horrible appearance. The humanoid creature had a bulbous head that resembled a huge brain, with several tentacles protruding from the part of its face where a nose, mouth, and chin should have been. Like other illithids, the Yharaskrik was a powerful psionics user, easily defeating any enemy with stunning blasts of mental energies. The illithid has a bubbling, watery voice that was described by Artemis Entreri as like the sound made by a very old man with too much phlegm in his throat.
+
+History
+Yharaskrik and Bregan D'aerthe
+Yharaskrik came to Calimport to study the sword Charon's Claw. The creature lived in the deep tunnels below Kohrin Soulez's throne room in Dallabad Oasis after pretending to be defeated by Kohrin Soulez.
+
+After Jarlaxle and Bregan D'aerthe successfully attacked Dallabad Oasis in the, Yharaskrik allied himself with Kimmuriel Oblodra. The creature taught Kimmuriel how to prevent Crenshinibon from controlling him, thereby making Kimmuriel an ally of necessity.
+
+Yharaskrik provided Kimmuriel with a small square lantern which had one open side and the other three sides shielded. When the candle inside the lantern was lit, the glow of the lantern (similar to the psionic power Tower of Iron Will) over Crenshinibon would temporarily diminish the shard's power. The lantern was used in a coup by Bregan D'aerthe's lieutenants (Berg'inyon Baenre, Rai-guy, and Kimmuriel) against their leader, Jarlaxle.
+
+Yharaskrik used Rai-guy, the current leader of Bregan D'aerthe, to locate Crenshinibon after Artemis Entreri escaped the Bregan D'aerthe coup with Crenshinibon and Jarlaxle. Later, in the tunnels close to the dragon Hephaestus's chamber, Yharaskrik attacked Rai-guy so that Crenshinibon could be destroyed by bringing it before Hephaestus. But the illithid was defeated by Rai-guy. Yharaskrik then surrendered to Rai-guy, but was supposedly killed (when the creature tried to escape by melting into the stone) along with Rai-guy (and the destruction of Crenshinibon) by the fiery breath of Hephaestus.
+
+The Ghost King
+When the Spellplague began in the, Yharaskrik was able to come back from death and become a kind of mind-force without a body. He lured Hephaestus into smashing the remains of Crenshinibon into his forehead. The dragon became a dracolich and with Crenshinibon and Yharaskrik, the three become the entity known as the Ghost King. The mind of the dragon and that of Yharaskrik united to some degree.
+
+While scouting Yharaskrik found and possessed the dwarf Ivan Bouldershoulder, then took him to the cave the dracolich had moved to. He did that in order to have his own place to reside and hide his thoughts from the conscience of Hephaestus and the Crystal Shard. After some time, Ivan began to recover and the illithid decided to let him go and see him die facing the dracolich. The dwarf survived, however, and escaped thanks to a slide-like tunnel. Yharaskrik tried to possess him again, but to no avail.
+
+Driven by vengeance, the consciousness of Crenshinibon and Hephaestus became a single being. Yharaskrik was expelled from the triumvirate as the new mind formed in the Ghost King didn't pay follow logic and was too powerful for the illithid to control. With no place to go, Yharaskrik thought that he was about to fade away, but then realized Kimmuriel Oblodra could possibly help him.
+
+Finding the drow in Luskan, the illithid, acting out of desperation, made a deal with him. Yharaskrik gave all the information he knew about the Ghost King and in return Kimmuriel opened a dimensional door to the Astral Plane. Yharaskrik then left to the only place where he could exist without having to worry about physical limitations.
+
+Appendix
+Notes
+Novels
+Servant of the Shard • The Ghost King
+
+References
+
+---
+
 ## Yhaunn
 
 Yhaunn  was a coastal city of Sembia built on an ancient quarry site. The oldest city in Sembia, Yhaunn was a small but lively place that was quite different from the other major cities of the realm.
@@ -131,6 +166,138 @@ Appearances
 References
 
 FR:Yhaunne
+
+---
+
+## Yhliivast
+
+The Yhliivast family was a human mercantile family of Amnwater in Amn.
+
+Activities
+The Yhliivasts concerned themselves mainly with caravan-related trades and businesses in Amnwater, including horse breeding, horse training, wheelwrights, and the Gilded Spur, a luxury inn that gathered coins and information from caravaneers. Together with the Ironseth and Wheelarit families, they had gained near complete control over Amnwater by about 1320 DR, with the Yhliivasts the wealthiest and most powerful of the trio. The family also had a 30% ownership in the Ysnomm Carriage Company, makers of carriages and harnesses.
+
+Members
+ Lord Jhanos Yhliivast, the fearsome family patriarch in 1370 DR.
+ Krigar, the lover of Lord Jhanos.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Yhalvia
+
+Yhalvia was an ancient kingdom that was part of the empire of Narfell ( to ).
+
+History
+The baatezu devil lord Orlex ruled Yhalvia with an iron fist. His reign was naturally cruel, depraved, and wicked.
+
+In time, a band of rebellious wizards arose to depose Orlex. Led by the archmage Thakorsil, they created the throne known as Thakorsil's Seat to imprison and permanently bind and enslave the evil fiend. Unfortunately, although they had the best of intentions, the device demanded deeds of despicable evil to function. Thus, they devised the ritual of twin burnings, which involved the sacrifice of beings of good heart, believing this was for the greater good, that the ends justified the means. They went ahead with the horrific rites, and successfully bound and enslaved Orlex in the Seat.
+
+Afterward, they formed a council of wizards that governed Yhalvia. However, corrupted by the sacrifices and with Orlex as their slave, they soon became as cruel, depraved, and wicked as the devil they had replaced. In time, others overthrew them, Orlex was banished to the planes and Thakorsil's Seat was lost and believed destroyed.
+
+Legacy
+By the 14th century DR, Yhalvia was believed to possibly lie on another world entirely, but had been confirmed to be a part of Narfell in the 15th century.The earlier sources suggested that Yhalvia "may have been located on another world altogether", but the Forgotten Realms Campaign Guide made it a part of ancient Narfell. This article assumes this to be the ancient empire of Narfell, rather than the later land of the same name, but the date of Yhalvia remains unknown. However, Narfell is known for its close links with demons, so the appearance of a devil with such power is unusual.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Yhekal
+
+Yhekal was a wizard member of the Zhentarim operating in Anauroch in the mid–14 century DR.
+
+History
+In the, Yhekal plotted an attack to enslave the Bedine. He disguised himself as the assistant of the Zhentilar warrior El Zarud to aid his scheme. However, thanks to the witch Ruha and the Harper Lander, his army was destroyed and El Zarud was killed.
+
+Appendix
+
+Appearances
+The Parched Sea
+
+References
+
+---
+
+## Yhelsed Cablehand
+
+Yhelsed Cablehand was the owner of The Spouting Fish inn located in Scardale Town during the mid–14 century DR.
+
+In addition to being an innkeeper, Yhelsed lived a double life as a spy for the Zhentarim. He kept track of the vessels coming in and out of the ports of the city, noted their cargoes, and reported his findings to the agents at the Zhent compound within the city.
+
+Appendix
+References
+
+---
+
+## Yhauntan Bay
+
+Yhauntan Bay, also known as the Bay of Yhaunn, was a natural bay found on the Dragon Reach on the Sea of Fallen Stars.
+
+Geography
+Yhauntan Bay was located on the western side of the Dragon Reach where it branched north from the Sea of Fallen Stars. Underwater its seabed overlooked an area known to the people of Serôs as the Haunted Plains.
+Flora & Fauna
+The bay had a high density of fish, being a frequently fished area. It was also host to a large forest of kelp, comparatively larger than that found beneath the Ravens Bluff Harbor.
+
+Notable Locations
+ The city of Yhaunn was founded on a rock quarry along the bay.
+ Keryvyr, a kingdom of sea elves within the depths of the bay that stood along the cliffs overlooking the Haunted Plains. It existed from  to .
+ The Silent Monastery, an Order of the Dark Moon monastery that was built inside of an earthmote that floated  above the bay sometime following the Spellplague.
+
+Inhabitants
+The Lurker in the Shallows was a mysterious creatures that dwelled beneath the waters of Yhauntan Bay.
+
+Appendix
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Yhep
+
+Yhep was a fortified town located on the coast of the Lake of Steam.
+
+Description
+The fortified town was built around its harbor. A part of the town was built right on the water. The buildings in this part of town were built on solid stilts that were sunk deep into the lake bed. Instead of streets, these buildings were linked together by bridges made from rope or wood. The majority of the residents who lived here were fishermen and oyster farmers, who docked their vessels under their homes. The buildings were made from lightweight materials; as a result a strong storm could inflict serious damage.
+
+Geography
+Yhep was located on the northeastern shore of the Lake of Steam, directly across from the Border Kingdoms settlement of Derlusk.
+Trade
+The economy of Yhep was based on seafood and jewelry exports. However, the most valuable part of the Yhevvan economy was the rare deep red pearls cultivated in the oyster beds in Yhep's territory.
+
+Defenses
+The law was enforced by seven hundred constables. The harbor, and the valuable oyster beds, were guarded by the Harbor Watch. The 250 guards of the Harbor Watch patrolled the waters around Yhep in unique magical boats called strike boats.
+
+The strike boats of Yhep varied from large rowboats with high gunwales to small single-masted sailboats. Circa, a Harauntan mage cast a version of levitation upon the fleet. This raised the boats hull out of the water. Runners extended down into the water. Guided by the runners, the strike boats were capable of reaching incredible speeds.
+
+Notable Locations
+ The Dancing Lion
+ The Open Oyster
+ The Scarlet Pearl
+Appendix
+References
+
+FR:Yhep
+
+---
+
+## Yhelbruna
+
+Lady Yhelbruna was the leading Rashemaar hathran inhabiting Urling in Rashemen in the late 14 century DR. She lived in the Witches' Hall in Immilmar during the 15 century DR.
+
+Activities
+As of, Lady Yhelbruna was the wisest and most powerful hathran throughout all of Rashemen. The hathrans under her, particularly Nythra, managed the affairs of Urling, leaving Yhelbruna free to to attend other matters within the Urlingwood.
+
+Appendix
+References
 
 ---
 

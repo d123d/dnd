@@ -170,6 +170,38 @@ pt-br:Vale do Vento Gélido
 
 ---
 
+## Icingdeath
+
+Icingdeath was the nickname for Drizzt Do'Urden's main right-hand scimitar.The sword Icingdeath first appeared in The Crystal Shard but remained nameless until it was called "the newly named Icingdeath" as a side-note in the book The Silent Blade.
+
+Description
+The hilt of this scimitar was black adamantite and the blade was made of silver with a diamond edge. Its pommel was shaped like the head of a hunting cat.The appearance of Icingdeath has changed over time. Since Todd Lockwood began drawing Drizzt, the cat design hilt has gone, and both Twinkle and Icingdeath now look remarkably similar to each other. Both blades have gone from being curved scimitars to being straight-backed with a tapered point. On the replica swords authorized by Drizzt's author R.A. Salvatore, both Icingdeath and Twinkle now have Drow or Espruar script written on the blades, despite neither weapon being of drow manufacture.
+
+Powers
+Icingdeath was a +3 scimitar. It had the powers of a frost weapon. When the sword detected or fed on fire, it started glowing with a pale blue shimmer.
+
+It was also a frostbrand weapon. The weapon absorbed fire and heat, protecting its wielder against fire. It also had the ability to extinguish magical fire. For example, it extinguished a portion of the wall of fire conjured by the powerful demon, Errtu and completely negated Valindra Shadowmantle's fireball in Gauntlgrym. However, it could also be set on fire in order to harm trolls, though this was only when the magic of the blade was being repressed.This is an element from the game Forgotten Realms: Demon Stone, and so this may not be canon. This possibility could just be for the sake of game play.
+
+History
+In the, Drizzt Do'Urden, famed hero of the Companions of the Hall, found the blade in the treasure pile of Ingeloakastimizilian the white wyrm, better known as "Icingdeath", and the weapon's namesake. The barbarian Wulfgar and Drizzt killed the dragon and found the scimitar after a dramatic battle.
+
+Appendix
+Notes
+
+See Also
+ Twinkle
+Appearances
+
+Gallery
+
+External links
+
+References
+
+fi:Jäänsurma
+
+---
+
 ## Icewind Dale (game)
 
 Icewind Dale is a computer role-playing game developed by Black Isle Studios, released in June 2000.
@@ -294,6 +326,192 @@ References
 Connections
 
 de:Icewind Dale
+
+---
+
+## Icewind Dale: Heart of Winter
+
+Icewind Dale: Heart of Winter was the expansion pack for the year 2000 game Icewind Dale.
+
+Description
+Icewind Dale: Heart of Winter introduced numerous changes and additions to Icewind Dale, including a new campaign. A downloadable add-on to this expansion pack, titled Trials of the Luremaster, was released for free. Both the expansion and add-on were later included in Icewind Dale: Enhanced Edition.
+
+Gameplay
+Changes introduced by the expansion include a significantly higher experience point cap, new magical items and spells, a special "Heart of Fury" difficulty setting that increases enemy power and boosts experience point gain, and a maximum resolution of 800x600. The game continues to use the Advanced Dungeons & Dragons 2 edition ruleset.
+
+To access the new campaign, players must either enter a previously locked door in the town of Kuldahar with a party of characters level 9 or above, or import their party after completing the main campaign, when the party is exported.
+
+Summary
+
+The expansion to Icewind Dale involves stopping the white dragon Icasaracht from causing the possessed barbarian chieftain, Wylfdene to attack the Ten Towns. The party has only one real ally, the shaman Hjollder who is quickly banished by the possessed Wylfdene to an island in the middle of Maer Dualdon reserved for the dead. Once the party rescues him from the undead there and finds the despoiled tomb of an apparently dead Wylfdene, they have to track down the Gloomfrost Seer who has been hiding in Gloomfrost, inside the peak of Kelvin's Cairn for 10 years, having foreseen her death at the party's coming. She tells you of Icasaracht and gives you a magical mirror which will drive the dragon's spirit out of the corpse of Wylfdene. They do so and the seer is killed after she teleports herself to Wylfdene's tent to taunt the dragon's spirit. Wylfdene's Wyrm tribe also attacks at the apparent murder of their leader but when it's all over, Icasaracht's spirit is tracked to the Sea of Moving Ice where she is protected by undead, trolls, sahuagin and other creatures, constructs and elementals. Once Icasaracht is dead, and the crystal containing her soul is destroyed, the party is teleported to safety.
+
+Index
+Characters
+
+Alledec • Alpheus • Ambere Dunn • Angaar • Arden Thurlow • Baldemar Thurlow • Beornen Walson • Digby • Donal • Doogal • Edion Caradoc • Emmerich Hawk • Gloomfrost Seer • Hailee Dunn • Hjollder • Icasaracht • Jemeliah Smithson • Jorn • Karrl Rider • Kieran Nye • Mebdinga • Murdaugh • Young Ned • Purvis • Quinn Silverfinger • Rawleigh Gallaway • Roald Tunnelfist • Tiernon Denthelm • Tybald Dunn • Vaarglan • Vexing Thoughts • Wylfdene • Xactile
+
+Aihonen • Ani Haloua • Archendros • Bael Cooper • Baika Himura • Bedwyn Fayr • Bemban • Ben-Karad • Brein Chestnut • Caldinar • Caligope • Celemon • Chirchet • Daen Winterbrush • Daviol • Debian • Durlow Ironbar • Eil-Makar • Eimhec • Eled • Epp • Eron • Farl Greenbog • Faynegar • Fehll Brownbriars • Galesic Caith • Giddeon • Gullwyn • Gundak • Gural • Harl Jamison • Hegelfden • Hekedder • Hrethric • Hugh • Ilfain Blackfeather • Isanan • Jed • Jerrod • Jonan • Jontan Dunmoss • Kadan Ibn-Kadur • Kalamnin • Kalassan Brevered • Kardod • Kath Tahl • Ket Stillpond • Khamu Bedi • Legedain • Machinery Man • Marhap • Namji • Nesk Vhaltim • Nido Ochita Inazuma • Ogi-Luc • Ogien • Omad • Pelan Rainwind • Pep Greenfields • Phellep • Pouldinus • Prespara • Proud Keth • Raag • Recken • Redani • Renard • Rhigaerd • Seldon Mirai • Sephica • Shanin • Shenarr Caith • Skaldar • Skeld • Svian • Takkok • Tamberlin • Tiron • Tredain Caith • Turbar Talinbar • Ulcaster • Valkur • Velaic Caith • Vicalet Hawkeye • Winter King • Xainlaphar • Ylmandi
+
+Creatures
+Playable races
+ dwarf • elf • gnome • half-elf • human • halfling
+
+Other
+ barrow wight • bergclaw • bone scavenger • boneguard skeleton • cold bones • drowned dead • frost giant • frost salamander • ghost • glabrezu • horse • ice golem • iced bones • polar bear • remorhaz • sahuagin • troll (ice, scrag, snow) • vodyanoi • wailing virgin • water kin elemental • werewolf • white dragon • winter wolf • yeti
+
+ape • baelnorn • colossal squid • drow • elk • half-ogre • iron golem • lich • maedar • mammoth • mane • medusa • nycadaemon • ogre • rabbit • remorhaz • turtle • vampire • whale • yochlol
+
+Locations
+
+Bodies of water
+ Maer Dualdon • Sea of Moving Ice
+
+Buildings & Sites
+ Hengorot
+
+Inns & Taverns
+ Whistling Gallows
+
+Temples
+ Golden Lodge
+
+Regions
+ Icewind Dale • Ten Towns
+
+Settlements
+ Lonelywood • Wylfdene's camp
+
+Wilderness
+ Burial Isle • Field of Bones • Gloomfrost • Isle of the Great Wyrm
+
+Amn • Auckney • Baldur's Gate • Beregost • Black Spires of the Maiden • Bremen's Run • Bryn Shander • Calimport • Castle Auck • Chessenta • Cormanthyr • Cormyr • Dougan's Hole • Eastern Shaar • Easthaven • Elturel • Endless Ice Sea • Evermeet • Goldenspires • Good Mead • Great Glacier • Great Rift • Gwynneth • Host Tower of the Arcane • Immersea • Kara-Tur • Kelvin's Cairn • Lac Dinneshere • Luskan • Mintarn • Moonshae Isles • Mulhorand • Myrloch • Myrloch Vale • Netheril • Obsidian Chapel • Ordulin • Orlumbor • Sembia • Soubar • Spine of the World • Sunset Mountains • Suzail • Sword Coast • Targos • Termalaine • Tethyr • Threskel • Trollbark Forest • Ulcaster Academy • Urmlaspyr • Vale of Wailing Women • Waterdeep • Western Heartlands • Zakhara
+
+Magic
+Magic items
+ Amaunator's Legacy • Barrier Amulet • Belt of Bones • Blade of Aihonen • Blood Iron • Blood of the Gloomfrost • bolt of Sekolah's fire • Bracers of Blasting • cloak of displacement • Cyclocone • Cynicism • Dagger of Safe Harbor • Daisy • Debian's Rod of Smiting • Edion's ring of wizardry • Evil Spider Crusher of Doom • Fang of the Gloomfrost • Fist of the Gloomfrost • Flail of Mae • gauntlet of valor • Girdle of Ogre Blood • goblin arrow • Hand of the Gloomfrost • Hands of Takkok • Hellpick • holdfast arrow • Inconsequence • Jamison's sling • Kinetic Spear • Kiss of the Gloomfrost • Kondar • Kossuth's Blood • Legacy of the Masters • Lover • Mourner's Armor • Namji's robe • Ogi-Luc's great robe • Ogien's Scale • Pestilent Dawn • Pikeman's End • Quinn's fancy sling • Reliance • rhino beetle shield • ring of the will-o-wisp • robe of fire resistance • Rogue's Cowl • Sarutobi's Stone Breakers • scarab of goodwill • Scepter of Tyranny • Selûne's Caress • Shimmering Sash • Storm Bow • Svian's club • Talon of the Gloomfrost • The Black Bow • The Blade of Bael • The Frost's Embrace • The Icon of Power • The Love of Black Bess • The Lucky Scimitar • The Shield of the Revenant • The Staff of Eron • The Sword of Myrloch Vale • The Unstrung Harp • The Whistling Sword • Three White Doves • Tiernon's sundered shield • Tombsweeper • Tongue of the Gloomfrost • Topsider's Crutch • translocation arrow • Trollslayer • Varscona • Vexed Armor • Wailing of Virgins • war hammer of phasing • Waukeen's Defender • Winter King's Plate • Worn Whispers • Xainlaphar's Flying Skull • Young Rage • Zilzaner's Magnificent Dart
+
+Potions
+ Oil of Second Chances
+
+Spells
+ Abi-Dalzim's horrid wilting • alicorn lance • animal rage • beast claw • blade barrier • blood rage • cause critical wounds • cause disease • cause light wounds • cause moderate wounds • cause serious wounds • cat's grace • circle of bones • cloud of pestilence • cloudburst • contact other plane • darts of bone • destruction • earthquake • exaltation • great shout • greater command • greater shield of Lathander • harm • holy smite • holy word • iron body • lance of disruption • lower resistance • magic resistance • mist of Eldath • mold touch • moonblade • Mordenkainen's force missiles • poison • power word: blind • seven eyes • shield of Lathander • shout • slay living • smashing wave • soul eater • spike growth • spiritual wrath • stalker • star metal cudgel • storm shell • suffocate • sunfire • sunscorch • thorn spray • trollish fortitude • undead ward • unfailing endurance • unholy blight • unholy word • vitriolic sphere • wall of moonlight • whirlwind
+
+Bloodfarmer • Jerrod's stone • magic jar • Namji's Burning Hands • project image • ring of readiness • Ring of the Gorgon • skull trap
+
+Organizations
+ Arcane Brotherhood • Clan Battlehammer • Clan Hearthstone • Gallaway Trading Coster • Heroes of Icewind Dale • Tribe of the Bear • Tribe of the Elk • Tribe of the Gray Whale • Tribe of the Great Wyrm • Tribe of the Wolf
+
+Baika Clan • Bedine • Brotherhood of the True Sun • Company of the Black Snake • Red Wizards of Thay • Sons of Green Hills • Zhentarim
+
+Religions
+Sekolah • Tempus • Waukeen
+
+Amaunator • Arvoreen • Auril • Bane • Beshaba • Bhaal • Brandobaris • Corellon • Eldath • Gond • Gruumsh • Helm • Hoar • Ilmater • Kossuth • Loviatar • Malar • Milil • Moradin • Myrkul • Lolth • Nephthys • Selûne • Silvanus • Talona • Talos • Torm • Tymora • Tyr • Umberlee
+
+Miscellaneous
+Armor
+ coral plate armor • shark skin armor • shark skin and coral armor
+
+Languages
+ Netherese
+
+Materials
+ ivory
+
+Metals & Allows
+ gold • steel
+
+Plants
+ elm
+
+Poems
+ "The One Hundred Lives of Ket the Keen"
+
+Substances
+ thrym extract
+
+Gallery
+
+Appendix
+See Also
+Icewind Dale
+Icewind Dale: Trials of the Luremaster
+Icewind Dale II
+External links
+
+ Planet Baldur's Gate
+
+References
+
+Connections
+
+de:Icewind Dale: Heart of Winter
+
+---
+
+## Icewind Dale: Trials of the Luremaster
+
+Icewind Dale: Trials of the Luremaster was a downloadable expansion pack for Icewind Dale: Heart of Winter set in the Anauroch desert, rather than the standard locale of the games namesake, Icewind Dale.
+
+Description
+Heart of Winter was deemed too short (especially in comparison to other Black Isle expansions like Throne of Bhaal) so a free downloadable addition was made called Trials of the Luremaster. This made available an entirely new adventure set in Anauroch (and according to in-game canon this was where the party who saved Easthaven left for after they'd completed their quest).
+
+Gameplay
+Icewind Dale: Trials of the Luremaster includes a large, dungeon-like location featuring several new areas to explore, new enemies to combat, and items to discover. Additionally, it serves as the game's final patch, addressing numerous bugs and updating the game's version to v1.42.
+
+Plot
+The player encounters a mysterious halfling named Hobart Stubbletoes at the Whistling Gallows Inn in Lonelywood. He introduces himself and seeks a party of stalwart heroes for a quest to a place of great wonder, promising treasures beyond imagination. Should the party accept, they will be transported far from the icy terrain of the Ten Towns to the Anauroch desert, finding themselves within the walls of Castle Maluradek in an unfamiliar land.
+
+The castle is inhabited by the mad spirit of a bard named Luremaster, who constantly challenges adventurers with numerous traps and monsters. To escape, the party must defeat all the monsters, avoid the traps, seek out valuable loot if possible, and ultimately confront and defeat the Luremaster.
+
+Index
+Characters
+Adran Runeshadow • Criek • Erris • Fallon Maluradek • Geddian • Giles • Harald • Hobart Stubbletoes • Luremaster • Mag • Rikasha • Shelhai • Zierkki
+
+Aehirglass • Ammal-Matis • Amir Talmed • Calim • Chautog • Dabath • Drosus • Kraag • Memnon • Merdros • Mordigan • Prashnak • Shandellon • Teraven Docen • Wychgar
+
+Creatures
+bat • beetle (bombardier, rhinoceros) • beholder • crypt thing • dire bear • djinni • elemental (earth, fire, water) • ghost • golem (ice, iron) • halfling • harpy • invisible stalker • jackal • minotaur • mummy • mustard jelly • myconid • neo-orog • ochre jelly • olive slime • rakshasa • revenant • shambling mound • skeleton (blast, boneguard) • slime zombie • spider (phase, sword, wraith) • stone nuisance • troll • umber hulk • water elemental kin • wyvern
+
+baatezu • blue dragon • duergar • efreeti • githyanki • lava mephit • orc • salamander • tanar'ri • troll • wight
+
+Locations
+Buildings & Sites Castle Maluradek
+Regions Anauroch
+
+Astral Plane • Bryn Shander • Calimshan • City of Brass • Cormanthor • Dead Man's Tree • Elemental Plane of Air • Hallowed Pass • Moonshae Isles • Sea of Moving Ice • Spine of the World • Storm-Barrows • Tamjuhk • Unicorn Run • Waterdeep
+
+Magic
+Magic items Axe of the Minotaur Lord • Backbiter • bag of holding • Bracers of Icelandic Pearl • Chautog's Thinker • Cloak of Scintillating Colors • Dead God's Dreaming • Druid's Ring • Hell's Bane • Missile Attractor • Shortbow of Ebullience • Skullflail • Staff of the Hanged Man's Glee • Wind of Heaven
+
+acid storm • wand of fireball
+
+Religions
+Bane • Helm • Tyr
+
+Auril • Bhaal • Jergal • Myrkul • Tymora
+
+Miscellaneous
+Events Hallowed Pass
+Gemstones diamond • emerald • fire agate • moonbar • moonstone • pearl • skydrop • star sapphire • sunstone • waterstar
+Metals & Alloys bronze • copper • electrum • gold • platinum • silver
+
+willow
+
+Appendix
+
+See Also
+Icewind Dale
+Icewind Dale: Heart of Winter
+Icewind Dale II
+
+External Links
+
+References
+
+Connections
+
+de:Icewind Dale: Trials of the Luremaster
 
 ---
 
@@ -460,6 +678,758 @@ Planet Baldur's Gate
 Connections
 
 de:Icewind Dale II
+
+---
+
+## Ice Star
+
+The Ice Star is an enchanted morning star that was once carried by Gromnir Il-Khan. Its head is forged from unbreakable ice-like crystal. Besides of its substantial enhancement bonus, it grants fire resistance and does extra cold damage.
+
+External links
+
+---
+
+## Ice troll
+
+Ice trolls were a type of troll that inhabited the cold north.
+
+Description
+Ice trolls stood about  tall and weighed around . They had sickly translucent white skin and if someone got close enough without being eaten they could see pale blood coursing underneath an ice troll's skin.
+
+Biology
+Much like the scrag, the regenerative abilities of ice trolls would only function when their bodies were immersed in water. Because of this, their lairs were typically found near lakes or rivers.
+
+Ice trolls typically mated in the springtime and gave birth around the fall.
+
+Behavior
+Compared to other troll species, the ice trolls were highly cooperative in order to ensure each other's survival. They were also generally smarter than most troll species and preferred the use of weapons over their fists.
+
+They did demonstrate the same insatiable hunger and cruel disposition as their temperate-climate cousins.
+
+Combat
+Some ice trolls were known to fight with scale armor and mauls. Some fought with mauls made out of solid ice, known as rimehammers. Though in some cases they were also known to spit out globs of freezing slime at their enemies.
+
+History
+In 1480 DR, ice trolls living in the Icespire Peak were gathered together with a number of other frost creatures by the legendary frost giant Hrimnir as part of his campaign to acquire the Winterforge. Those that fought for him seemed to be especially motivated to engage in cruelty and violence.
+
+Later in the late-15 century DR, a great deal of ice trolls in the North were working under Jarl Starvald.
+
+Society
+Like all trolls, they were meat eaters and would gladly consume anything, even humanoids. What set them apart however was their ability to craft (and use) weapons and armor skillfully. They prefer armor made from the scales of remorhazes or white dragons.
+
+Homelands
+Ice trolls were commonly found in the Unapproachable East, along the Spine of the World, on the Great Glacier, and in the Icespire Peak. In the Sea of Moving Ice, they were often known to lair inside ancient ice-locked ships.
+
+Beyond the Prime Material plane, ice trolls were typically found in the Frostfell, the Iron Wastes, and other places where supernatural cold resided. Some resided in the frozen reaches of the Feywild, serving under the archfey Koliada.
+
+Religion
+On the Prime Material plane, some tribes of ice trolls were known to worship the archfey Koliada.
+
+Relationships
+The ice trolls that lived in the Icespire Peak had a long history of collaborating with their local frost giants, enjoying the carnage and carrion that accompanied their raiding parties.
+
+Usages
+The blood of ice trolls was often utilized by other races in the manufacturing of frostbrands and rings of cold resistance.
+
+Their hearts could be removed from a troll's body as long as their regeneration was nullified. The heart was continuously cold after its removal, and offered a form of regeneration upon its consumption. If an ice troll's heart was planted into the earth, it would conjure forth a vicious blizzard that would last for a matter of hours. It could also be used to formulate a potion of cold resistance.
+
+Some hags were known to perform rituals on their hearts, turning them into magical talismans with an effect similar to brown mold.
+
+Rumors & Legends
+Circa 1480 DR, there was a rumor spread among the dwarves of Clan Icehammer that the ice trolls in Icespire Peak were hearing the voice of Thrym whispering along the mountain winds.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Ice Mountains
+
+The Ice Mountains were a mountain range located northeast of the Rauvin Mountains and east of Cold Wood. Just to the south was the Vordrorn Forest.
+
+Geography
+This mountain range was snow-capped.
+Flora & Fauna
+Many of the same wildlife that could be found in the Spine of the World could be found roaming the Ice Mountains. This included galeb duhr, hoar foxes, ice toads, taer, winter wolves, yetis, devil dogs, remorhazes, and ice lizards.
+
+History
+Between  and, the Ice Mountains were part of the dwarven kingdom of Delzoun.
+
+Inhabitants
+Humans were rarely encountered among these mountains, other than members of the Red Tiger tribe and merchants traveling from Sundabar. Dwarves often traveled through these mountains in search of the lost dwarf strongholds of Delzoun and would treat strangers with suspicion, fearing they may be treasure hunters.
+
+In terms of giants, this mountain range was inhabited by frost giants, verbeeg, and fog giants.
+
+White dragons commonly vied for dominion in this region.
+
+Rumors & Legends
+Legends claimed that an ancient silver dragon roamed these mountains with his bronze dragon companion in the guise of an old hunter and his hound.
+
+Appendix
+
+Appearances
+Video Games
+
+Baldur's Gate
+References
+
+FR:Montagnes de Glace
+
+---
+
+## Ice Spire ogre
+
+Ice Spire ogres were a race of ogre inhabiting the Ice Spires, between the Great Glacier, Silver Marches, and Anauroch.
+
+Description
+Ice Spire ogres on average stood  tall and weighed around . They had dirty-gray hair and skin colors varying from yellow to brown-black, while their irise were a surprising purple hue. Tusks protruded from their lower jaw, their chins jutted out, and they had big floppy ears. They stunk worse than regular ogres, describing as being like rotting meat.
+
+Some clothing seen among these ogres included bronze nose rings and headdresses made from the skull and skin of a wolf.
+
+History
+Around the late 15 century the frost giant jarl Ryndölg recruited a number of ice spire ogres and sent them out across the land in search of ancient runes of power.
+
+Society
+Ice Spire ogres dwelled, for the most part, in an extensive cave and cavern network situated in the highest part of the Ice Spires. The caves were full of a thick, choking mist that rose from subterranean vents in the deepest caves.
+
+A second tribe of Ice Spire ogres made their homes in an icy chasm called the Dour Fissure. This was the only tribe that possessed the Blood Dance ritual ability, a barbarian's rage which they viewed as divinely inspired.
+
+Relations
+Among the giants and giant-kin living around the Ice Spires, the Ice Spire ogres were among the lowest in status.
+
+Religion
+The ogres of the Ice Spires revered the ogre god Vaprak the Destroyer, but also obeyed Lanaxis, the Twilight Spirit. Those who lived instead in the Dour Fissure followed the demon lord Baphomet.
+
+Appendix
+
+Appearances
+Novels
+The Ogre's Pact • The Giant Among Us • The Titan of Twilight
+Organized Play & Licensed Adventures
+In Dire Need • The Iron Baron • Forgotten Traditions • Jarl Rising • Hartkiller's Horn
+References
+
+Connections
+
+---
+
+## Icy terrain
+
+Icy terrain was an evocation spell learned by some beginning wizards that used cold terrain to impede their foes.
+
+Effect
+When a wizard cast icy terrain, he or she filled a small area within 50 feet (15 feet) with a thick layer of ice, which caused any creatures within the area's 5-foot (1.5 meter) diameter without fast enough reflexes to slip and fall to the ground. For the next few moments, the affected terrain impeded enemy movement.
+
+Appendix
+Appearances
+Video Games
+Neverwinter
+References
+
+---
+
+## Icy rays
+
+Icy rays was a spell used by some young or inexperienced wizards.
+
+Effects
+When cast, icy rays caused two bolts of bright, frigid energy to shoot out from the wizard's location and towards a spot somewhere within . Bluish-white in color, these rays could strike one or two targets, though only one ray could be used on any one target. If the wizard was successful in his casting, he was able to momentarily freeze the target in its place. The spell was relatively easy to cast, though the caster required a short rest of a few minutes or more before casting it again.
+
+Appendix
+References
+
+---
+
+## Ice storm
+
+Ice storm, formerly known as Veridon's storm, was an evocation spell that blasted an area with hail.
+
+Effect
+The spell caused large hailstones to bombard an area, inflicting both impact and cold injuries to those they struck. The storm also slowed their movement and made it harder to hear.
+
+Components
+The spell required some drops of water and a pinch of dust.
+
+History
+The spell was created by the arcanist Veridon of Netheril, ruler of the enclave of Lathery. He introduced it in 3415 NY (−444 DR) under the name Veridon's storm. At Lathery, continual Veridon's storms were used to chill the city's cold storage rooms for the freezing of fish.
+
+It later became known simply as ice storm.
+
+Ice storm was a common spell in Faerûn in the 1360s DR.
+
+Notable Uses
+During the Time of Troubles in the Year of Shadows, 1358 DR, Kyriani hurled an ice storm at an avatar of the goddess Shar to hold her off, but she deflected the hail with a wall of force.
+
+Appendix
+Gallery
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Ice dragon's teeth
+
+Ice dragon's teeth was a spell available to sorcerers after the Spellplague, circa 1479 DR.
+
+When ice dragon's teeth was cast, tooth-like daggers of ice burst over an area  in diameter that was no more than  from the sorcerer. Any beings struck by them were not only injured by cold, but found their movements slowed for several seconds.
+
+Appendix
+References
+
+---
+
+## Icelace River
+
+The Icelace River was a twisting waterway in the Cold Lands.
+
+Description
+It flowed fast enough so that it never froze over, even in the harshest of winters, but it was deadly cold if someone fell in. This made it useful as a boundary between Damara and roving Nar tribes.
+
+Geography
+The river flowed southwest down from the Great Glacier, through the far western part of Narfell and into the Damaran Duchy of Soravia before arriving in Lake Mogador in central Damara.
+
+History
+Every harvest, the farmers of Soravia would brave the treacherous rapids of the river to bring their meager goods to market in the south of Damara.
+
+The Nars rarely crossed the river, but did so during the Vaasan War to probe the strength of Zhengyi the Witch-King's armies as they ravaged northern Damara. The riders fell upon a Vaasan camp along the Icelace, easily cutting through the goblin ranks, but were quickly routed when a member of Zhengyi's Cult of the Goat's Head suddenly raised an army of undead to face them.
+
+As of the early 1370s DR, King Gareth Dragonsbane of Damara found the river useful for protecting the northeastern border of his kingdom from aggressive Nar tribes. If the river became needed to repel the tribesmen or the blightlords of Dunwood, he planned to expand his borders to better defend the river.
+
+Appendix
+References
+
+FR:Rivière de glace
+
+---
+
+## Icelin Tearn
+
+Icelin Tearn was a human wizard from Waterdeep in the late 15th century DR.
+
+Description
+Icelin was short and thin with black hair and pale skin. She looked much older than her true age due to the effects of wild magic.
+
+Abilities
+She had a spellscar that made her magic much more powerful than it would otherwise be. However, her magic often ran wild and she had a difficult time controlling the effects of her spells. Additionally, every time she used magic, it took a huge emotional and physical toll.
+
+History
+Childhood
+Her birth mother was a wizard and she inherited some of her mother's magical ability. Icelin's parents were scholars from Baldur's Gate who were adventuring partners with a gold elf named Cerest Elenithil and a human named Elgreth. They often took her along on expeditions to study the effects of the Spellplague. On one of their expeditions, her parents accidentally released dormant blue fire, which killed them and left Icelin, Elgreth, and Cerest spellscared.
+
+Elgreth's spellscar gave him the power to detect magic, an extremely useful skill for a treasure hunter. He was concerned that Cerest believed Icelin had the same ability and would attempt to use Icelin's power, so he took Icelin to live with his brother, Brant, in Waterdeep's South Ward.
+
+Icelin grew up in Brant's dry goods shop. She received training in the arts from a local wizard and became a very powerful mage for her age although she had difficulty controlling her magic. Icelin accidentally burned down a boarding house, killing several people, when a spell went wild. She helped to support herself and Brant by performing magical services for pay.
+
+1479 DR
+One afternoon, Icelin ran into Cerest completely by chance in the South Ward. She saved his life by pushing him out of the way of a spooked horse. Cerest recognized her and when Icelin wasn't willing to accompany him back to his home, his men killed Brant and framed Icelin for the murder. Cerest convinced the City Watch that Icelin was responsible for the murder and the Watch attempted to apprehend Icelin.
+
+Icelin fled with Sull the butcher to Mistshore in an attempt to hide from the Watch and Cerest. In Mistshore, she hired the services of a monk name Ruen Morleth to hide her from Cerest. Cerest captured Icelin briefly but she was able to escape with the help of Sull and Ruen. She hid for a time in the hideout of a local crime lord and had a final showdown with Cerest on an old wrecked ship in Waterdeep's harbor.
+
+Icelin called upon the blue fire within her and in the wreck to kill Cerest. The effects of the blue fire aged her and she thereafter looked and felt like a middle-aged woman. Icelin was later exonerated by the Watch for Brant's murder and left Waterdeep with Ruen and Sull on a journey to find a cure for her spellscar.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Icedawn Syllabus
+
+The Icedawn Syllabus is a book penned by Demetrios Whitefire of Sossal, a High Chillbringer of Auril, in the Year of the Elves' Weeping (1462 DR). It deals with aspects of Aurilian faith.
+
+ Excerpt
+
+ References
+
+---
+
+## Icasaracht
+
+Icasaracht was a white dragon that ruled over the Spine of the World, considered to be the last of the region's white dragon matron mothers. She lived up until late 12 century DR, when she was fatefully slain by a single warrior, and returned nearly 100 years later to claim her revenge upon the people of Icewind Dale.
+
+Personality
+Icasaracht hated humankind all of the "civilized" races for their continual encroachment upon the territory of dragonkind. Throughout her many years of existence, and even after her rebirth, she saw no sign that their kind would stop stealing the lands of others. She saw what happened to her kind as a tragedy that if not prevented, could not go unavenged.
+
+Activities
+She made her lair within the White Wyrm iceberg in the Sea of Moving Ice. It possessed two special wards, one that would preserve soulless bodies for her to inhabit and another that attracted her spirit's return upon death.
+
+Abilities
+
+Icasaracht had at least some control over powerful magic. She utilized a soul gem as a type of phylactery that would house her soul in case of her death.
+
+She also laid two eggs within her lair that hatched without accepting any form of soul within them. Rather, Icasaracht's own soul would transfer into the soulless white dragons bodies that emerged from within.
+
+Relationships
+Icasaracht's mate attacked her when he learned of her scheme involving their brood. She was forced to slay him and left his remains within White Wyrm. She appeared to be genuinely heartbroken about his loss. Like the other ills that plagued her, Icasaracht seemed to blame his death on civilization that threatened the home of other white dragons.
+
+A small group of sahuagins served Icasaracht within her lair.
+
+History
+
+Some time circa the late 12 century DR, Icasaracht entered into battle with the legendary warrior Aihonen at the edge of Lac Dinneshere. Aihonen slew the white dragon matron by plunging his sword into her breast, piercing her heart. Both Icasaracht and her killer were plunged into the icy waters of the lake. The sentience of the sword knew Icasaracht's soul could escape her body and somehow prevented her from taking new form, in effect imprisoning her within Lac Dinneshere.
+
+Nearly a century later, in the, Aihonen's blade was recovered from its resting place within Icasaracht's heart at the bottom of the lake. Her soul was freed from its imprisonment and return to the soul gem in her lair.
+
+Seeing the barbarian leader Wylfdene as a kindred spirit, and the plight his people faced at the hands of the Ten Towns, Icasaracht then willed her spirit to possess his body. Claiming he was the reincarnation of the barbarian shaman Jerrod, Icasaracht raised a great army to conquer Icewind Dale and destroy the settlements of the Ten Towns.
+
+Eventually her spirit was separated from that of Wylfdene and she took form in the body of her white dragon offspring within her lair. Icasaracht was confronted within by a band of adventurers from Kuldahar, and destroyed once and for all.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale: Heart of Winter
+
+Icewind Dale
+External Links
+
+Gallery
+
+References
+
+---
+
+## Ice axe
+
+Ice axes were a type of axe specially designed for the purpose of climbing icy surfaces, though they could also be used as weapons if needed.
+
+Description
+Ice axes bore a resemblance to the horseman's pick.
+
+Ice axes had sharp metal heads that were perpendicular to their shafts and their handles were capped with a spike.
+
+Notable Ice axes
+ Icemaiden's Caress: a unique ice axe that was owned by the goddess Auril.
+
+Notable Users
+Groups
+ In the colder regions of their homeland, where such a tool was prevalent, Rashemi were known to use ice axes in combat.
+Individuals
+ Raryn Snowstealer
+Religions
+ Icepriests, the specialty priests of Auril, sometimes wielded ice axes as weapons.
+
+References
+
+---
+
+## Icewind Dale series
+
+The Icewind Dale series is series of computer games by Black Isle Studios.
+
+Games in the Icewind Dale series
+Icewind Dale
+The original, released in 2000.
+Icewind Dale: Heart of Winter
+An expansion pack for the original game.
+Icewind Dale: Trials of the Luremaster
+A free-for-download second expansion pack for the original game.
+Icewind Dale II
+The sequel to Icewind Dale, released in 2002.
+Icewind Dale: Enhanced Edition
+The remake to Icewind Dale, released in 2014.
+
+Connections
+
+---
+
+## Icelance
+
+Icelance was an alteration spell that created a magical lance from an existing supply of ice which then flew off to strike a chosen target.
+
+Effects
+This spell required a supply of approximately 10 lbs. (4.5 kg) of ice, or the remains of an ice storm spell or similar effect. The ice particles formed a sharp lance in a few seconds and then propelled itself in a straight line toward whatever target the caster designated. The lance attempted to hit its target with considerably more skill than the caster had, and if successful, did heavy damage and had a chance to stun the target for a few minutes. Regardless if the attack was successful, unsuccessful, or intercepted by a non-intended target, the lance dissolved back into ice particles once the attack was attempted.
+
+Components
+This spell required verbal and somatic components as well as a supply of ice nearby.
+
+History
+Icelance was one of four unique spells contained in the Tome of Rathdaen. By the 1360s DR, icelance was an uncommon spell in the Realms.
+Appendix
+Gallery
+
+Appearances
+
+Further Reading
+
+References
+
+---
+
+## Ice Spires
+
+The Ice Spires were a range of mountains in the far north of Faerûn.
+
+Geography
+The Ice Spires were located north of the Silver Marches and south of the Endless Ice Sea, and north-northwest of Anauroch. They were also one of three mountain ranges that encompassed the forest of Glimmerwood.
+
+Two of the most dangerous weather phenomenons that could be encountered in the Spires were whiteouts and fairy ice, posing a concern to even the giants that inhabited the mountain range.
+
+Notable Locations
+ Hartsvale A small human kingdom situated in a remote valley.
+ Hotun-Shûl A subterranean temple.
+ Ironslag A great fire giant dungeon-forge, located underneath a mountain called Mount Hamarhaast, or "Hammer of Ashes", by Silver Marches dwarves. A yak folk village was located on the mountainside above Ironslag.
+ Twilight Vale An isolated valley on the northern fringes of the Ice Spires that was considered sacred to giants. It was once a meeting place for the sons of Annam All-Father.
+
+Inhabitants
+Many races of giant and giant-kin inhabited the Ice Spires. Most notably the eponymous Ice Spire ogres dwelt there. White dragons were also known to frequently vie for dominion over the region.
+
+Appendix
+
+References
+
+---
+
+## Ice dagger
+
+Ice dagger was an evocation spell used by arcane spellcasters in the Realms.
+
+Effects
+The spellcaster would shape a dagger-shaped shard of ice, which would then launch itself unerringly at a target within close range and explode upon impact, causing cold injuries to the target and others in an area within a 5-foot (1.5-meter) radius, if they could not evade.
+
+Components
+This spell required both verbal and somatic components, in addition to a material component in the form of a few drops of water that must have originated from melted ice.
+
+Appendix
+See Also
+ Ice knife
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Ice Run
+
+The Ice Run was a network of tunnels and sunken trails in the Great Glacier along northern Vaasa in the 14 century DR.
+
+By the late 15 century DR, this section of the Great Glacier had melted away, revealing the Lugsaas Chain mountains and two passes through them called The Ice Run and the Valley of the White Worm.
+
+Description
+The Ice Run was a network of ice-walled pathways cutting through the Great Glacier. These twisted and winded, making a quite tortuous maze. All in all, they extended several hundred miles in length.
+
+Many of these paths were open to the sky, but the sun above reflected off the walls of ice, filling the passages with dazzling light. This could be quite bewildering to explorers, and so the open tops offered no better chance of escape.
+
+Geography
+In the mid–14 century DR, the many miles of tunnels that made up the Ice Run stretched all along the southern face of the Great Glacier in Vaasa. This section of the Glacier reached as far south as Delhalls in western Vaasa and Talagbar in eastern Vaasa, although the areas occupied by Castle Perilous and Palischuk were free of the Glacier by that time. As the Great Glacier continued its centuries-long melt and retreat northward, the Ice Run would gradually disappear, revealing ancient settlements and landscapes from beneath it.
+
+Inhabitants
+The folk of the White Worm tribe saw the Ice Run as their holy ground, and also used it as a defensive retreat. Only they knew how to traverse this hazardous maze, and they most often wandered there. This most unwelcoming of tribes was especially hostile to trespassers.
+
+Also roaming the Ice Run were remorhazes, the white worms held as totems by the barbarians, as well as northern bears.
+
+The Ice Run was naturally very dangerous for explorers.
+
+References
+
+---
+
+## Icerim Mountains
+
+The Icerim Mountains were located in the far northern expanses of the Hordelands bordering Narfell and Rashemen.
+
+Geography
+These mountains were once part of the Great Glacier, but a recession of the ice over the centuries had separated the Icerim.
+
+History
+The mountain range was once home to the two realms of Dareth and Hoarfaern, with Dareth laying in the central parts of the mountains that divided the Great Glacier from the Great Ice Sea, and the Hoarfaern located in the northern end of the mountains.
+
+Inhabitants
+Many tribes lived within the Icerim Mountains, including the Tark, Chif, and Dagranost.
+
+Appendix
+Gallery
+
+References
+
+FR:Montagnes de Bordglacé
+
+---
+
+## Ice worm
+
+Ice worms were odd creatures living on the Great Glacier. They were white, furry creatures about a yard (a meter) long. Ice worms survived by drinking melted ice and eating snowflowers.
+
+References
+
+Connections
+
+---
+
+## Icy-White
+
+Ice-White was an ice mephit in the Samek Valley.
+
+History
+In 1366 DR, Icy-White acted as assistant to the gelugon Vreesar in his plan to conquer the Samek Valley. He captured the Harper Martine and took her to his master.
+
+Appendix
+Appearances
+ Soldiers of Ice
+
+References
+
+---
+
+## Icy Claws
+
+The Icy Claws of Iyraclea were a group of gelugons who served the self-proclaimed Ice Queen Iyraclea on the Great Glacier.
+
+Description
+Each of the Icy Claws was more powerful and better trained then the typical ice devil from Cania would be.
+
+Notable Members
+The Icy Claw Tosvin, while investigating the ancient giant ruins of Gharreil for Iyraclea, was chosen by the last Prince of Jhothûn to be Gharreil's portal guardian.
+
+Appendix
+
+Appearances
+ The Ruin
+
+References
+
+---
+
+## Ichi
+
+Ichi was a head sohei in Kozakura in 1357 DR.
+
+Activities
+Ichi led the 420 sohei of the Konjo Provincial Monastery of Miyama Province under orders from temple authorities.
+
+Appendix
+References
+
+---
+
+## Ichi (korobokuru)
+
+Ichi was a korobokuru yakuza in Nakamaru around 1357 DR.
+
+Activities
+Ichi was a kobun of the Big Head gang. He often visited the Winter Sect temple but preferred life among the eta community.
+
+History
+Ichi was recruited by the monks Kogi and his friend Bupposo to find a girl that could seduce monks. Ichi hired the young maiden O-Shino.
+
+Personality
+Ichi was a wispy individual, forever cringing and bowing in the presence of others. He played the part of a boastful bully, self-important, and cruel. He had many miserable cronies, but no true friends.
+
+Appendix
+References
+
+---
+
+## Ice axe (spell)
+
+Ice axe was a divine magic spell available to clerics of Auril, the Frostmaiden. It created a whirling cloud of ice slivers shaped like a battleaxe that the caster could wield with proficiency.
+
+Effects
+When cast, this spell produced a magical battleaxe made from swirling slivers of ice that appeared in the caster's hand. For the next five minutes (longer for more experienced casters) it could be wielded as if the caster were proficient with this type of weapon. The strength of the caster was not important because the ice axe was magical and nearly weightless. On a successful hit, the ice axe did both slashing damage as per a battleaxe, and potentially greater damage by magical coldness.
+
+While the caster held the ice axe, he or she could not be disarmed of the weapon and it could not be physically damaged. If the caster used the axe hand for some other purpose, like holding another object or grappling with an opponent, the ice axe disappeared until the hand was empty and ready to wield it again. This spell lasted until dismissed by the caster or the duration expired, whichever came first.
+
+Components
+In addition to verbal and somatic components, this spell required a shard of ice, glass, or crystal to cast.
+
+History
+This spell was believed to be recorded in a holy book of Auril called Revelations of the Icedawn and was only granted to her clerical followers.
+
+Appendix
+See also
+ Flame blade
+
+References
+
+---
+
+## Ice gauntlet
+
+Ice gauntlet was a divine magic spell available to clerics of Auril, the Frostmaiden. It encased one of the caster's fists in a spike-covered ball of ice that was an effective melee weapon.
+
+Effects
+This spell covered one of the caster's hands with ice spikes that were as hard as rock, giving the wielder the equivalent of a +1 spiked gauntlet that could be used in melee combat. This spell lasted for one minute (higher level casters were able to prolong this) or until it was dismissed, whichever came first. On a successful hit, the gauntlet did physical damage according to the caster's size and strength, plus a modicum of cold damage. The physical attack could be mitigated with normal damage reduction techniques, but the cold attack was not affected—some form of resistance was necessary to prevent the damage caused the frigid temperature.
+
+While a hand was encased in ice spikes, other actions like climbing or casting a spell that required two hands for the somatic component, were more difficult to impossible.
+
+If the wielder of the ice gauntlet was subjected to any damage by fire, the spell ended as the gauntlet melted away.
+
+Components
+This spell required only a verbal chant and the caster's holy symbol or divine focus to cast.
+
+History
+This spell was believed to be recorded in a holy book of Auril called Revelations of the Icedawn and was only granted to her clerical followers.
+
+Appendix
+See also
+ ice axe
+ Flame blade
+
+References
+
+---
+
+## Ice blade
+
+Ice blade was a divine magic spell given to specialty priests of Auril, the Frostmaiden. It produced whirling formation of ice crystals in the shape of a sword that the caster could wield with great skill.
+
+Effects
+When cast, a four-foot (1.2 meters) force blade, 4 inches (10 centimeters) wide, made up of swirling ice shards grew out of the caster's hand to form a sword-like shape. It weighed nothing to the caster and was considered a +2 magical weapon. The flying shards moved around obstacles, like small shields, parrying weapons, or trees, giving the wielder an exceptionally high chance to hit any creature that it passed through. On a successful attack, it lacerated the target like a blizzard of sharp ice and did additional damage from magical cold. A sweeping maneuver could attack more than one creature in range of the blade with no combat penalties.
+
+The ice blade lasted long enough to make seven consecutive attacks or actions (higher level casters could extend the duration) and then faded away.
+
+Components
+In addition to verbal and somatic components, this spell required as a material component small shard of ice, glass, or crystal to cast.
+
+Appendix
+See also
+ Ice axe
+ Frost whip
+Appearances
+Video Games
+Icewind Dale II
+References
+
+---
+
+## Ichi Krijiku
+
+Ichi Krijiku was a bushi of Fochu Peninsula in Wa.
+
+Activities
+Ichi Krijiku led the Soldiers of Iron kabukimono of the village of Seinin in Fochu Peninsula.
+
+History
+Ichi and his group lorded it over Seinin and the shoya Toi Jujishiki did nothing to stop them. In 1358 DR, Ichi and his men met Osari Minhiro and a foreign adventuring party and attacked them but were defeated.
+
+Appendix
+References
+
+---
+
+## Ice box
+
+An ice box was a quasimagical item invented in Netheril to allow people to preserve food by keeping it cool.
+
+Description
+An ice box was roughly the shape of a coffin and was constructed from a material with about the same thickness and strength as hardened clay. One weighed about . During the height of the Netherese Empire, they typically sold for 225 gold pieces.
+
+Abilities
+As a quasimagical item, an ice box only functioned if within  of a mythallar. If within a mythallar's range of effect, an ice box maintained a magical conduit to the Paraelemental Plane of Ice, which provided a constant source of cold to keep food frozen.
+
+Appendix
+See also
+ Lathery
+
+References
+
+---
+
+## Ice mephit
+
+Ice mephits were mephits composed of air and water. They were cold and indifferent,  and the most cruel of all the mephits.
+
+History
+In the ancient city of Cursrah, ice mephits were found in the kitchens of some nobles, where they were used to keep food chilled.
+
+Ecology
+Ears of ice mephits could be harvested to be used in alchemy. Frosted ears could be processed into an alchemical sublimate of frosted mephit ears that, in turn, was mixed with certain types of ashes to brew arsonist's oil.
+
+Notable Ice Mephits
+ Icy-White
+
+Appendix
+
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Icelace Lake
+
+Icelace Lake was a frigid lake in Narfell that was created from runoff from the Great Glacier.
+
+Description
+The body of Icelace Lake was long and thin, almost resembling a bloated river. It stretched across much of northern Narfell, acting as a kind of barrier against the Great Glacier.
+
+Activities
+Various tribes of Nar braved the frigid waters of the lake in deerskin canoes for the rich salmon and trout teeming in the water. Bears were also drawn to the lake because of the fish, but viewed humans as an easy target for a quick meal.
+
+Appendix
+References
+
+FR:Lac de glace
+
+---
+
+## Ice Hunters
+
+"Ice Hunters" or "Ancient Men of the North" were the names given to a sub-ethnicity of Ulutiuns who resided in the northwestern-most regions of Faerûn.
+
+Regions
+The Ice Hunters lived in the Cold Run, on the Ice Peak, and on the Sea of Moving Ice.
+
+Description
+Like their cousins from the Great Glacier, the Ice Hunters had light brown skin, dark hair, and broad faces. They were relatively short. Men were about five feet to six feet two inches (150 to 190 centimeters) tall, while women stood five inches (thirteen centimeters) shorter on average. Males weighed between 135 and 260 pounds (60 and 115 kilograms), and females between 100 and 225 pounds (45 and 100 kilograms). The Ice Hunters were particularly clever and tended toward a lifestyle of lawfulness.
+
+Society
+The Ice Hunters lived barbaric lives compared to more southern peoples, not dissimilar to the Uthgardt tribes, but their lives were comparatively simple and peaceful. They occupied small villages and traveled by dog sled. They used boats called khyeks and oumyeks. They supported themselves by fishing and the hunting of polar bear, seal, walrus, and whale.
+
+Among the Ulutiuns of the Great Glacier, the Ice Hunters were most similar in culture to the Nakulutiuns.
+
+In Ice Hunter culture, ones real name was kept private and personal. Instead, they gave outsiders nicknames to use, such as "Red Seal Man" or "Reindeer Girl".
+
+Religion
+The Ice Hunters worshiped various nature spirits (beast totems) and were led by shamans. These spirits included:
+ Grandfather Walrus,
+ Great White Bear,
+ Clever Oomio the Gray Seal, and
+ Pindalpau-pau the Reindeer Mother.
+
+In addition, they venerated the god Ulutiu. Powerful priests of Ulutiu were known as iceguardians
+
+Language
+Speakers of Uluik, the Ice Hunters began using the Thorass alphabet by the 14 century DR.
+
+History
+Scholars believed that the Ice Hunters immigrated to the far northwest from Kara-Tur over the polar icecap before the coming of either the Illuskans or the Netherese. When the Illuskans arrived, many Ice Hunters were displaced from their native lands.
+
+Notable Ice Hunters
+ Bleak Sky at Morning, shaman of the village of Icewolf.
+ Orcaheart, village champion of the tribe that dwelled upon the island of Oyaviggaton.
+
+Appendix
+Appearances
+Adventures
+The Rise of Tiamat
+Video games
+Treasures of the Savage Frontier
+Video Games
+Baldur's Gate
+
+Further Reading
+
+References
+
+Connections
 
 ---
 
@@ -670,6 +1640,560 @@ References
 
 ---
 
+## Icewind Dale: Enhanced Edition
+
+Icewind Dale: Enhanced Edition  is a remaster of the video game Icewind Dale and its expansions Icewind Dale: Heart of Winter and Icewind Dale: Trials of the Luremaster. It was developed and published by Beamdog in 2014.
+
+Gameplay
+The game is largely identical to the original Icewind Dale, with a handful of new features such as cross-platform multiplayer, a revamped user interface, a new renderer, several bug fixes and improvements, as well as 60 new or restored items and 30 new class/kit combinations.
+
+Index
+
+Characters
+Calliana • Daen Winterbrush • The Voice of Durdel Anatha
+
+Bordel Farpath • Geraq • Gulph • Icasaracht • Idstan • Kedl • Lin Mei • Orrick • Saito Kagitsu • Sarutobi • Ubath • Yodama Akira
+
+Creatures
+Playable races
+ half-orc
+
+Other
+air elemental • djinni • efreeti • hakeashar • nishruu • nymph • shambling mound
+
+elf • gnome • goblin • ogre • orc • remorhaz • stone giant • winter wolf • yuan-ti
+
+Locations
+
+Acheron • Aglarond • Athkatla • Dorn's Deep • Kara-Tur • Kuldahar • Moonsea • Myth Drannor • Outer Planes • Phlan • Shou Lung • Sword Coast • Thentia
+
+Magic
+Magic items
+ Benorg's Truth • Cloak of the Winter Wolf • Darig's Rest • Darkened Glory • Fang • Gauntlet of Valor • halberd: defender • helmet of charm protection • ioun stone (clear, deep red, scarlet/blue) • longbow: repeater • morning star of confusion • Morohanotsurugi • poisonous battleaxe • Remorhaz Shell Helm • ring of fire resistance • Sarutobi's Stone Breakers • shield of missile deflection • Silver bracers of Kedl • Solemn Duty • Staff of Besieging • Stomper's Boots • The Glory of Suffering • The Flaming Fists of Lin Mei • The Shadow's Blade • The Summoner's Staff • White Dragon Scale
+
+Spells
+ absolute immunity • aerial servant • armor of faith • Bigby's clenched fist • Bigby's crushing hand • black blade of disaster • bolt of glory • breach • cacofiend • call woodland being • carrion summons • cat's grace • chain contingency • champion's strength • chaos shield • clairvoyance • command • conjure air elemental • conjure animals • contagion • contingency • control undead • deafness • death ward • delayed blast fireball • detect illusion • dolorous decay • doom • enchanted weapon • energy drain • expeditious retreat • false dawn • farsight • favor of Ilmater • find familiar • fireshield (blue) • fireshield (red) • freedom • gate • glitterdust • greater restoration • greater shield of Lathander • hold undead • holy power • improved chaos shield • improved haste • improved mantle • iron skins • Khelben's warding whip • lesser restoration • limited wish • mantle • mass cause light wounds • mass cure light wounds • maze • Melf's minute meteors • meteor swarm • minor sequencer • minor spell deflection • minor spell turning • mislead • Nahal's reckless dweomer • nature's beauty • negative plane protection • oracle (spell) • phantom blade • physical mirror • pierce magic • pierce shield • pixie dust • polymorph other • polymorph self • power word: sleep • project image • protection from acid • protection from electricity • protection from magic energy • protection from magical weapons • protection from the elements • ray of enfeeblement • reflected image • regeneration • remove magic • repulse undead • righteous magic • ruby ray of reversal • secret word • shadow door • shapechange • shield of the Archons • simulacrum • spell deflection • spell immunity • spell shield • spell sequencer • spell thrust • spell trap • spell trigger • spell turning • spellstrike • sphere of chaos • spider spawn • spook • stalker • summon djinni • summon efreeti • summon fiend • summon hakeashar • summon insects • summon nishruu • symbol, death • symbol, fear • symbol, stun • teleport field • time stop • true seeing • true sight • wail of the banshee • wish • wither • wizard eye • wondrous recall • wyvern call • zone of sweet air
+
+crystal ball
+
+Organizations
+
+Swivelback
+
+Religions
+
+Ilmater • Sseth
+
+Miscellaneous
+Books
+ The Ballad of Daen Winterbrush
+
+Languages
+ Goblin
+
+Weapons
+ katana • ninjatō • wakizashi
+
+Appendix
+References
+
+External Links
+
+ Official Website
+ Icewind Dale Enhanced Edition on GOG
+ Icewind Dale Enhanced Edition on GooglePlay
+
+Connections
+
+---
+
+## Ice Claw
+
+Ice Claw was an intelligent, +3 frostbrand short sword that was crafted by dwarves of the north in their fight against dragons of the region.
+
+Description
+This unique sword had a polished, almost-white blade that was cool to touch. Its pommel was twined silver and adamantite with a diamond set within.
+
+Powers
+Possessing the enchantments of a +3 frost brand, Ice Claw had a special purpose of defeating dragons of any alignment, protected its wielder from these magical beasts, and granted them immunity to their area of fear.
+
+History
+Ice Claw was forged centuries before the Era of Upheaval when the dwarves of Citadel Adbar sought to stave off the repeated attacks of dragons from the Ice Mountains. It was kept in the personal armory of the Dwarf King and occasionally bestowed upon particularly worthy champions when they embarked on quests for the realm. Dwarven lore claimed the blade had slain a dragon and at least three fiends during its generations of use. Some time before the mid 13 century DR, the last hero who bore the storied blade for the Kingdom lost it after failing his appointed quest.
+
+The fabled weapon was lost for over 40 years, before it wound up in the possession of a small-time mercenary, Captain Farzahd. It remained with him until he attempted to force himself on an elven sorcerer named Ulshanya, when she killed him and took Ice Claw for herself.
+
+Appendix
+References
+
+---
+
+## Icarus
+
+Icarus was a veteran elven admiral and also the captain of the armada Arrow of Justice in the mid–14 century DR.
+
+Description
+Icarus was known to be a colorful individual.
+
+Personality
+
+His experience in over fifteen battles had conferred him an unyielding integrity.
+
+One of Icarus's interests was to reactivate the haunted derelict elven base orbiting Karpri.
+
+Activities
+Icarus worked exclusively in Realmspace. On top of his command of the Arrow of Justice, he also commanded an elven spelljamming fleet consisting of the following vessels:
+ 7 armadas;
+ 1 monarch armada;
+ 50 flitters;
+ 12 men-o-war;
+ 1 radiant ship;
+ 5 eel ships.
+
+History
+In the early days of the War of the Spheres, Icarus's armada had intercepted several vodoni attacks, but always too late to be of any help. In one such attempt, the ship intercepted a group of adventurers with valuable information on the vodoni. The Arrow of Justice promptly escorted them to the Rock of Bral to participate in the first meeting of the Free Space Alliance in order to assess the threat of a vodoni invasion.
+
+The Arrow of Justice also served as the Alliance flagship throughout the war and in the final battle against the Vodoni.
+
+Appendix
+Appearances
+Adventures
+Under the Dark Fist
+Card games
+AD&D Trading Cards
+
+References
+
+---
+
+## Ice knife
+
+Ice knife was an arcane evocation or conjuration spell that hurled a knife of ice at a target for moderate damage.
+
+Effects
+The impact of the evoked knife of ice would cause not only flat damage, but also a wave of cold to creatures within a  radius. The creatures in this area could be damaged, and would also become numb, making it harder to both move and attack. However, if the target was in the presence of a large source of heat, they would have a chance to negate the numbness. The spell caused no damage to spelljammers
+
+Components
+As well as a verbal and somatic components, a droplet of water from melted snow and a small silver dagger were used as the material components.
+
+Usage
+This spell was mainly used by wu jen and others in eastern lands. However, it could also be used by frost or water mages, although it was uncommon.
+
+Appendix
+See Also
+ Ice dagger
+
+Gallery
+
+Appearances
+Adventures
+ Princes of the Apocalypse
+ Black Heart of Vengeance
+ Boltsmelter's Book
+ Dark Rites at Fort Dalton
+ Foulness Beneath Mulmaster
+ Mulmaster Undone
+ The Drowned Tower
+ The Sword of Selfaril
+Video games
+Menzoberranzan
+External links
+
+References
+
+---
+
+## Icespire Peak
+
+Icespire Peak was a mountain located in the Sword Mountains on the Sword Coast region of the North. It was home to a fortress of frost giants, and the ancestral home of a clan of dwarves that had ties to an ancient artifact that granted power over frost and cold.
+
+Description
+Icespire Peak was a jagged, snow-topped mountain and the tallest peak of the Sword Mountains. It was formed park by the frozen remains of a long-dead frost giant that grew to near-unimaginable size by magical means.
+
+In the winter, the beauteous waterfalls that ran down the mountain slopes would freeze over, forming curtains of ice that were stunning to behold.
+
+Mines rich with mithral wound through the heart of the mountain.
+
+Geography
+
+The mountain was located among the northeast peaks of the Sword Mountains.
+
+The peak was so huge that in good weather it was visible from the nearest settlement, Phandalin, which was about  away.
+
+Geographical Features
+Certain naturally-forming landmarks of the mountain were given distinct names such as 'Prospector's Ridge' and 'Windchill Reach'.
+
+History
+The warlord Delsendra Amzarr built Icespire Hold on Icespire Peak and lived in the fortress for many years. She kept the orcs of the Sword Mountains at bay until the supply chains were cut off by the extreme weather of a very harsh winter. Delsendra and her soldiers were trapped in the fortress and starved to death.
+
+When Icespire Hold was abandoned, it was damaged by an earthquake. Ten years later, an orc tribe led by the war chief Kra took over the fortress. The orcs' reign didn't last long because the young white dragon Cryovain decided to make Icespire Hold its new lair. He gained access through the southwest section that was still damaged by the earthquake. Cryovain ate Kra and several other orcs, causing the remaining orcs to flee.
+
+Circa the, the dwarves of Clan Icehammer discovered the Winterforge artifact within Icespire Peak, along with the frozen body of Lakkar. After the frost giant Hrimnir caught wind of this discovery, he decided to recreate Lakkar's exploits. Hrimnir gathered an army of frost creatures and tried to acquire the Winterforge for himself. In the end was killed by some adventurers from Neverwinter that allied themselves with Florin Icehammer.
+
+During the 1480s DR, the reborn Cult of the Dragon took over at least one of the Icehammer mithral mines, while the dwarves were busy dealing with frost goblins. Dragon Cult agents led by Dragonsoul Theures stole mithral from within the mine and used it for their own nefarious ends. Fortunately for the Icehammer dwarves, the cult's efforts were thwarted by Fitzhugh Montgomery of the Lords' Alliance and his adventurer ally.
+
+Cryovain continued to occupy the fortress circa the .The description of the town of Phandalin in the Dungeons & Dragons Essentials Kit is the same as in the Dungeons & Dragons Starter Set, which is set in 1491 DR. This includes the same ages being given for both Elmar Barthen (p. 9 in the Essential Kit and p.16 in the Starter Set) and Linene Graywind (p. 9 in the Essential Kit and p. 17 in the Starter Set).
+
+Notable Locations
+ Fallen Axe Bridge, this landmark was a massive bridge formed from a colossal-sized axe that spanned a great chasm adjacent to the mountain.
+ Frozen Heart, this giant fortress housed the Winter Forge, an artifact associated with the Elemental Chaos.
+ Icespire Hold, a well-protected stone fortress situated on the northeast spur of the mountain at an altitude of . Surrounded by sheer, icy cliffs, it was only accessible by a narrow trail.
+ Toreundar, a mountain village founded by the dwarves of Clan Icehammer.
+
+Inhabitants
+The mountain was home to ice trolls, along with the Winterkill tribe of goblins.
+
+Notable Inhabitants
+ Cryovain, a young white dragon that claimed much of the Sword Mountains as its own domain.
+ Lakkar, the original owner of the Winter Forge.
+ Merothrax, the white dragon ally of the Cult of the Dragon.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Dragon of Icespire Peak
+Video Games
+
+External Links
+
+References
+
+---
+
+## Ice blight
+
+Ice blight was a powerful spell commonly used by wu jen in Kara-Tur. The spell was very rare outside Kara-Tur.
+
+Effects
+Using this spell, a wu jen was able to summon a mighty blizzard that lasted for several days. Six hours into the first 24 hours, snow began to fall. In a warmer climate, snow would not fall until 36 to 48 hours after the spell was cast. Up to 48 inches (121 centimeters) of snow might fall until the spell expired. Thick clouds formed and the temperature dropped to as low as −20 °F (−29 °C). Strong winds would form large snow drifts and caused visibility to drop to less than 200 feet (60 meters).
+
+Any creature exposed to the spell experienced the same adverse effects of an arctic climate. Without adequate clothing, shelter, or a fire, creatures quickly froze to death. Casting a control weather spell would not stop the spell, but it could make the spell's effects less powerful or prolonged. A wu jen was unable to cast this spell in the phlogiston.
+
+This spell was very difficult for a wu jen to cast. They had to harness massive amounts of magical energy and when the spell was cast, a massive burst of energy spread through the wu jen's body, damaging both their body and soul. This spell also caused the wu jen to forget any spell they had memorized. The wu jen was required to rest after casting.
+
+The reverse of this spell was drought. Drought has the opposite effect of ice blight. It dried the land and raised the temperature up to 120 °F (48 °C). The spell cleared any clouds in the sky and no rain would fall until the spell expired. The spell reduced large rivers into small streams and dried deep wells. The spell could last up to 25 days.
+
+Casting a control weather spell would not stop the spell, but it could make the spell's effects less powerful or prolonged. Both this spell and ice blight cancelled each other out.
+
+Components
+In addition to verbal and somatic components, the spell required a material component, a piece of ice, while the material component of drought was a small amount of desert sand.
+
+Appendix
+References
+
+---
+
+## Icy Trees
+
+Icy Trees was an ice hunter who lived in the village of Icewolf in the mid–14 century DR.
+
+Description
+Icy Trees was short, had black hair and light brown skin.
+
+History
+Circa 1358 DR, he was captured by the guards of Tranjer Rolsk and thrown into a cell in Aurilssbarg. The Heroes of Ascore, who had recently escaped, broke his shackles, and he warned them to stay away from Rolsk at all costs. He directed them to his leader, Bleak Sky at Morning.
+
+Appendix
+Appearances
+Video games
+ Treasures of the Savage Frontier
+
+References
+
+---
+
+## Ice Peak
+
+The Ice Peak, also called the Icepeak or Ice Peak Island, was an island that was mostly made up of a huge volcano.
+
+Geography
+Ice Peak island was essentially a large area of floating ice that was somewhat close to the shore. It was to the west of the Spine of the World and to the northwest of Fireshear. Just north of the Ice Peak marked the start of the Sea of Moving Ice.
+
+The island was at mercy to raging seas and the freezing cold storms all but four months of the year. Thick fog covered the region.
+
+Geographical Features
+From the center of the isle outward was a huge icy volcano. Other than this, Ice Peak Island had three settlements: Aurilssbarg, Bjorn's Hold, and Icewolf.
+
+Government
+The small settlements were spoken for by the First Captain of Aurilssbarg, the largest town in the area that was essentially a colony of Luskan.
+
+Trade
+The bulk of the trade came from the harvesting of fish, whales, and seals. Animal products were mostly shipped to Luskan, but some inhabitants, particularly those of the smaller settlements, sold them elsewhere.
+
+The Ice Peak This volcanic island, located close to the northern coast, is inhabited by Northmen and Ice Hunters. Its tiny capital is controlled by a ruler loyal to Luskan, but other villages on the island often act in support of the Lords' Alliance.
+
+Defenses
+Each village in the region had big fishing boats that could be used by its military of order a hundred people. Aurilssbarg itself had several longships it could put to use.
+
+History
+In the 1 century DR, the mortal Uthgar (who would later become a demigod), gathered his first armada. He voyaged across the sea and ransacked Bjorn's Hold of the Ice Peak, taking with him boat loads of fish, furs, and other products.
+
+Several hundreds of years prior to the 14 century DR, the white dragon, Freezefire, had its last fight recorded, and lay dormant. However, in 1358 DR, mages of Hellgate Keep had heard that the wyrm, now ancient, held a powerful magic gem in its claw. The Heroes of Ascore beat the mages in the chase, but Freezefire had returned to life. The heroes slew the beast, and its hoard was distributed to goodly folk of the North.
+
+Inhabitants
+The isle was mainly populated by Northlanders and Ice Hunters. However, creatures such as goats, seals, whales, fish, and yetis were known to roam the Ice Peak. A couple of white dragons were reported to have made residence in the high-up caves.
+
+Notable Locations
+ Aurilssbarg
+ Bjorn's Hold
+ Icewolf
+
+Appendix
+Gallery
+
+Notes
+
+Appearances
+Adventures
+Storm King's Thunder
+Video games
+Treasures of the Savage Frontier
+
+Neverwinter Nights (AOL game)
+
+References
+
+FR:Pic de glace
+
+---
+
+## Icewolf
+
+Icewolf was a small village located on the Ice Peak.
+
+Government
+The shaman, Bleak Sky at Morning, ruled over this village. The governor and the rest of the village were anti-Luskan, and would not support them in their conquests. Luskan, however, did not see Icewolf as a threat.
+
+Defenses
+Icewolf had a standing army of 50 warriors, as well as several large boats.
+
+History
+In the, mages of Hellgate Keep infiltrated the village and tried to find the location of Thlaaklauthimir's lair. After getting permission from the shaman, the Heroes of Ascore slew the robed mages and the great white dragon.
+
+Rumors & Legends
+It was rumored that a shipwreck lay very close to the village, and that it contained a vast sum of valuables. In 1358 DR, it was reported that seal hunters were being driven from their hunting by fighters dressed as Ice Hunters—many hunting groups did not return. The Ice Hunters themselves chose not to join the hunt, potentially ruining the annual seal harvest. A High Captain of Luskan, Suljack, promised to take action against the hunters that did not meet their yearly quota.
+
+Notable Locations
+The village contained a temple, a training hall, and a gem-trader's office. An Ice Hunter cleric had a home here, and he provided treatment for the injured. There was a small Northlander complex to the north of the village, which was also the place of the magical Northhelm. A cursed ring, known as the ring of vulnerability, was stashed in a chest by mages of Hellgate Keep. Icewolf Village was the last stop before ascending to Freezefire's lair.
+
+Inhabitants
+Though originally only inhabited by Ice Hunters, many Northlanders moved into the village. Yetis and ice hounds also roamed the settlement.
+
+The women of Icewolf wore very expensive jewellery, from ancient gold to platinum coins.
+
+Appendix
+Appearances
+Adventures
+ Storm King's Thunder
+Video games
+ Treasures of the Savage Frontier
+References
+
+---
+
+## Iceshield
+
+Storm King's Thunder
+The Iceshields were an orc tribe dwelling in an area of rolling grass-covered hills where the Dessarin Valley met the western High Forest in the late 15 century DR. Where a branch of the Dessarin Valley meets the western High Forest are rolling grass-covered hills recently claimed by the orcs of the Iceshield tribe. They dwell in crude lodges made from timber cut from the forest. Elves and centaurs regularly emerge from the High Forest to attack and set fire to these lodges, but the orcs keep cutting down trees and rebuilding them. The Iceshield orcs haunt the hills and grasslands north of Grudd Haug, near the western edge of the High Forest, and have forged a tenuous alliance with Guh the hill giant chieftain. They are the least loyal of her supporters and don't get along with the goblinoids. Boorvald Orcbane, Great Chief of the Ghost Tree Uthgardt tribe, true to his name, hunts orcs and frequently launches attacks against the crude Iceshield orc-holds along the western edge of the forest.
+
+ Out of the Abyss
+A male orc from the Iceshield tribe, Ront fled from the slaughter of a band of orcs at the hands of the dwarves, falling down a shaft and wandering in the Underdark before being captured by the drow. # Christopher Perkins, Adam Lee, Richard Whitters (September 1, 2015). Out of the Abyss. Edited by Jeremy Crawford. (Wizards of the Coast), p. 7. ISBN 978-0-7869-6581-6.
+
+ Princes of the Apocalypse
+Orc raids are common occurrences throughout the frontier, as small bands of orcs steal livestock or waylay the occasional supply wagon. In recent days, a tribe hiding in the rough lands east of the Sumber Hills has become markedly bolder. The Iceshield orcs are attacking farms and cattle ranches throughout the region, and orc scouts have been sighted by patrols less than a day's ride from Yartar.
+
+The Iceshield orcs reside in a handful of lodges spaced about a day apart along the western edge of the High Forest. They have long been a thorn in the side of the denizens of that wood and the settlers who farm and ranch in the plains to the west. Now the Iceshields have become a prominent threat. Disruptions to the weather and landscape due to the powerful magic being used by the elemental cults has been taken as a sign from Gruumsh that blood and gold must flow from the lands of lesser races.
+
+The orcs seek supply sources in the valley. Scouts found that the farmers and ranchers in the area are prime options. Now, roving war bands attack the frontier families directly, raiding the homesteads with impunity. In addition to stealing livestock, the Iceshields take any carts and wagons they find, loading them with loot. They take the families as slaves and force them to tow the conveyances back to the Iceshield lodges.
+
+Some independent-minded squads of orcs decided that the fertile land of the homesteads was more appealing than serving as underlings in their own lodges, and they killed the original owners to occupy the land. They have no intention of farming the crops or tending the livestock, but they intend to stay until the food runs out, then move on to the next settlement.
+
+The homesteaders, in conjunction with members of the Emerald Enclave and the Order of the Gauntlet, asked the elves of the High Forest for aid. The elves organized hunting parties to put an end to the disturbance. Now the farmers and ranchers are trying to hang on long enough for the elves to quell the uproar. # Richard Baker, et al. (April 2015). Princes of the Apocalypse. Edited by Michele Carter, Stacy Janssen. (Wizards of the Coast), p. 163. ISBN 978-0-7869-6578-6.
+
+Appendix
+
+References
+
+---
+
+## Iceflow
+
+The Iceflow was a river that intercepted the Northern Means.
+
+Geography
+This river spanned from the southwest of the Spine of the World to the Trackless Sea. The Cold Run tundra began at the Iceflow, and ended at Icewind Dale.
+
+Description
+The Iceflow was an almost freezing river that rushed at very high speeds, making it unnavigable. Flowing from the Spine of the World, the river coursed through a great gorge of ice. In warmer seasons, such as summer, huge ice boulders would break off of the walls of the gorge, plummeting into the Iceflow. The large ice chunks moved through the gorge and floated out to sea.
+
+History
+In, and potentially prior to, the 14 century DR, a mighty topaz dragon known as Iltharagh made its lair right near the mouth of the Iceflow. The age-old dragon managed to shift the flow of the river with his psionic powers, making it flow through his cavern.
+
+The red wyrm, Klauth, was known to steal and eat dragon eggs and their hatchlings. On many occasions, he was known to have broken into the lair of Narnardinath, a mist dragon, which lay near the mouth of the Iceflow. Klauth became trapped, but collapsed the roof of the lair and escaped. The Neverwintan adventuring company, the Bright Broadaxe, witnessed the collapse of this lair and discovered the mist dragon's corpse and hoard.
+
+Rumors & Legends
+It was heavily rumored that there was a treasure buried around the gorge, as well as tales of ancient ruins. However, all human expeditions were unable to find anything of note, not even rich ores in the walls of the forge.
+
+Inhabitants
+Many horrific spiders suited to cold climates, such as snow spiders and ice spiders, dwelt near the banks of the river. Remorhaz were found in the area. A few notable dragons also made their home near here.
+
+Appendix
+References
+
+---
+
+## Icespear River
+
+The Icespear River was a river located in the Silver Marches region of Northwest Faerûn. It flowed down from the Ice Spires, through the Cold Vale and the Rauvin Mountains, before joining the River Rauvin in the Sundabar Vale.The location, span, and even existence of the Icespear River is inconsistent throughout various editions. It is not listed in The North: Guide to the Savage Frontier nor the Forgotten Realms Interactive Atlas. The map from Silver Marches indicates that the river was south of and parallel to the Fork Road. Page 75 of Storm King's Thunder shows the Icespear River running around the eastern edge of the Rauvin Mountains, north of the Fork Road.
+
+Geography
+As of the, the river appeared to begin in the Nether Mountains, before turning east to run roughly parallel with the Fork Road, near the town of Deadsnows.
+
+Over century later, around the, the source of the river had changed. It flowed along the eastern slopes of the northern Rauvin Mountains, north of the Fork Road.
+
+Appendix
+Gallery
+
+Notes
+
+References
+
+---
+
+## Ice hound
+
+An ice hound was an extraplanar wolf-like creature.
+
+Description
+Ice hounds were said to be "cold hell hounds", and were in fact relatives of them.
+
+Combat
+These creatures could not be harmed by any cold-based attacks. They were particularly susceptible to fire damage, and thus were often countered by fireballs.
+
+They attacked by using their icy breath, as well as a deadly bite.
+
+Ecology
+When summoned to the Prime Material plane, they were often used to protect areas in freezing cold places. As such, ice hounds were known to lurk in the Frozenfar, in places such as Fireshear, Aurilssbarg, Bjorn's Hold, and Icewolf.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Icy burst
+
+Icy burst was a weapon quality that, when applied to a frost weapon, would cause it to release a burst of ice when it critically hit.
+
+Powers
+Weapons with the icy burst weapon quality would cause more damage to opponents when they were critically hit, provided the opponent wasn't immune to cold damage. If a user fought at range with a icy burst-imbued crossbow or longbow, the ammunition also carried the property.
+
+Creation
+The creator must have used chill metal, or ice storm to add the property to a weapon.
+
+Uses
+Some veteran Thayan gladiators had their horns, claws, and other natural weapons enhanced as icy burst weapons.
+
+Appendix
+See Also
+ frost
+Appearances
+Video games
+ Baldur's Gate: Dark Alliance
+References
+
+Connections
+
+---
+
+## Ice Lakes
+
+The Ice Lakes were a group of lakes in northwest Faerûn, situated northeast of Luskan.
+
+Geography
+
+Some of the larger lakes were named:
+Derthym The northernmost named lake, also known as Longknife Lake.
+Belardym Also known as Tynkur's Fist.
+Rarghraum The largest lake, also known as Ondran's Grave.
+Loroloth A lake that bore several islands, also known as Daern's Copper Camp.
+Antaerth The southernmost lake, also known as Saeriphahra's Mirror.
+
+Government
+The Waterdhavian noble house Majarra owned land by the Ice Lakes. Starting in, the property was overseen by Axor Majarra.
+
+History
+In the, Illusk sent out a garrison to wipe out the local kobolds, but this campaign was repelled.
+
+Rumors & Legends
+The presence of ice serpents in the North was rumored to be the doing of an Akadian cleric dwelling somewhere around the Ice Lakes.
+
+Inhabitants
+The kobold tribe known as the Selgryn inhabited the area.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ice spider
+
+An ice spider was a breed of giant spider that was suited to freezing-cold environments.
+
+Description
+Generally, ice spiders had snow-white fur and red eyes. They wove webs just as regular giant spiders did, but the webs crystallized very quickly due to the freezing cold temperatures they were exposed to. Therefore, their cocoons appeared to be sheathed in ice.
+
+Combat
+Like other giant spiders, ice spiders attacked with poisonous bites and restraining targets with their webs. Ice spiders, however, were resistant to all cold-based damage. Even the webs spun by these arachnids were slightly different to that of regular giant spiders. As such, the icy webs inflicted cold damage to any foe entangled by them, but the webs were able to be shattered by bludgeoning weapons.
+
+History
+AS of the, the Fell Wood on the Spine of the World was inhabited by many dangerous creatures, including a frost spider infestation.
+
+In 1374 DR, these giant spiders could be found in icy caves among the Sunset Mountains.
+
+In the late 15 century DR, several ice spiders tunnelled under the Eye of the All-Father of the Spine of the World. The tunnel-dwelling spiders were led by a queen ice spider.
+
+Ecology
+Habitats
+In northwest Faerûn, these creatures could be found around the Iceflow.
+
+Appendix
+See Also
+Snow spider
+Appearances
+Adventures
+Storm King's Thunder
+Video games
+Baldur's Gate: Dark Alliance • Icewind Dale II
+
+References
+
+Connections
+
+---
+
+## Ice necklace of the Ulutiun
+
+An ice necklace of the Ulutiun was a type of magic necklace that originated from the Great Glacier.
+
+Description
+Each necklace was made up of six acorn-sized ice crystals that had been magically hardened and preserved. Two of these crystals were opaque, while the other four were transparent.
+
+Powers
+When one of these crystals was detached and thrown by the wearer at a distance of  or less, the crystal would explode upon reaching the end of its trajectory and unleash one of two spell effects depending upon the type of crystal. The opaque crystals would unleash an effect similar to the spell sleet storm, while the transparent crystals caused an effect similar to the spell ice storm.
+
+History
+These necklaces were said to have been created by a half-mad sorcerer that wandered among the Ulutiun tribes of the Great Glacier.
+
+Appendix
+References
+
+---
+
 ## Icewind Dale: Rime of the Frostmaiden
 
 Icewind Dale: Rime of the Frostmaiden is a 5-edition Dungeons & Dragons adventure that takes place in Icewind Dale. It is designed for 1- to 12-level characters.
@@ -841,6 +2365,1216 @@ External Links
 References
 
 Connections
+
+---
+
+## Ice Runners
+
+The Ice Runners were two large land-bound warships designed for the purpose of navigating the Great Glacier.
+
+Description
+The Ice Runners sported sails that were over  wide. The bottom of the ships were fitted with enormous razor-sharp blades, allowing them to skid across the ice of the Great Glacier.
+
+History
+The Ice Runners were built by a fire giant king in the  for a frost giant jarl in the Ice Spires, whom he had lost to in a wine drinking contest held at a hill giant encampment. They were presented to the jarl at Twilight's Vale. In the years that followed, the frost giants of the Ice Spires would use them to conduct numerous raids upon the people of the Cold Lands.
+
+In the late 1480s or early 1490s DR the then-jarl of the frost giants, Ryndölg, sent men out on the Ice Runners for many months in search of the fabled Hartkiller's Horn.
+
+Appendix
+ Cloudskate, a type of magical ship that skated over glass.
+
+References
+
+---
+
+## Iceling
+
+Icelings were small winter fey that lived in frozen regions of the Feywild.
+
+Description
+Icelings resembled quicklings, but were covered in ice and possessed a pair of wings that resembled thin ice.
+
+Abilities
+Icelings were very fast, and were never affected by difficult terrain caused by ice or frozen ground. They could also teleport up to . They were immune to damage inflicted by the cold.
+
+Icelings possessed low-light vision and were known to speak the Common language.
+
+Personality
+Icelings were mischievous but cruel, and their sense of humor was better described as dark and dangerous.
+
+Combat
+Icelings preferred to rely on their speed in combat, using their claws in hit-and-run attacks.
+
+Society
+Icelings commonly served more powerful winter fey as servants and spies.
+
+Some rumors claimed that all icelings served the archfey Koliada, the Winter Witch, even those who ostensibly served other fey.
+
+Appendix
+References
+
+---
+
+## Ice toad
+
+Ice toads were a unique species of giant toad that could only be found in cold climates.
+
+Description
+The body of an ice toad on average grew to a length of, was comparable in size to a horse, and weighed around  or more. Their skin was a of a ghostly white hue, while their warts were a pale blue. Their mouths were filled with many small, sharp teeth. Their webbed front feet were quite dexterous, capable of wielding tools or other items. Sometimes they had pouches slung around their necks in which items were carried.
+
+Personality
+These creatures were far more intelligent than other species of giant toad, having a mental capacity above that displayed by most wild animals. This intellect was comparable to that of a winter wolf. However, ice toads were not intelligent enough to strategize or make use of tactics.
+
+Ice toads were drawn towards sources of heat and fire drove them into a sort of frenzy, with large blazes attracting dozens of enraged specimens. They actively collected various types of jewelry and gems, in particular diamonds.
+
+Biology
+Being amphibians, ice toads were capable of breathing both air and water. They could also leap up to  into the air and across gaps that were  wide, even from being completely stationary.
+
+Ice toads were impervious to harm from intense cold temperatures or cold-based spells, though they were quite vulnerable to fire and spells based around it. However, felt it was futile to fight them with fire due to the aforementioned frenzying effect.
+
+Abilities
+At will, an ice toad could emit an aura of intensely cold temperatures radiated from their bodies that harmed anyone within a  who could not withstand such low temperatures. This cold that radiated from their bodies was so intense that it could kill.
+
+Combat
+These creatures typically fought others with a vicious bite, their mouths filled with rows of sharp teeth, and would attempt to swallow prey whole. They also would use their extensive tongues to grab hold of other creatures and drag them closer.
+
+History
+Some time in the 1480s DR, the white dragon Arauthator began attracting a large number of ice toads to his lair of Oyaviggaton in the Sea of Moving Ice. There they worked to maintain the dragon's iceberg and his treasure, acting as overseers of the dragon's kobold and ice troll servants. The ice hunters who also were subservient to Arauthator would provide the ice toads with fish, sea birds, and seals to feed upon.
+
+While working under Arauthator, the ice toads on Oyaviggaton amassed exhaustive information regarding the Sea of Moving Ice, weather north of the Spine of the World, and the culture of the ice hunters. They inscribed this information upon homemade parchment or stone slabs, using either sharpened antlers or their own feet.
+
+Society
+Though they could be found solitarily or in pairs, ice toads often traveled in colonies of three to four members or more.
+Diet
+Ice toads were a carnivorous species. They were willing to attack and devour almost anything. In High Ice they generally fed upon small mammals, such as arctic foxes and icejacks, as well as on occasion members of wandering caribou herds.
+Homelands
+These creatures were only known to be found in regions with arctic to subarctic climates, either above or below ground. Above ground they were typically found in marshes.
+
+On Faerun they were known to inhabit the High Ice region of Anauroch, in and along the River Pelauvir, the arctic plains of the Hordelands, and in the Great Glacier, especially in the mountainous region of Novularond.
+
+Beyond those largely arctic regions, ice toads could be encountered rarely in the marshes of Cormyr.
+
+Beyond Toril, ice toads could be found in arctic forests and subarctic marshes of the planet Oerth. Outside of the Prime Material plane, they inhabited the Para-Elemental Plane of Ice.
+Languages
+These creatures possessed their own unique, bizarre form of language. This consisted primarily of croaking. Their language was relatively obscure, though a few arctic druids were proficient in speaking it.
+
+The ice toads that lived in Oyaviggaton knew how to speak some degree of Draconic and Uluik, though their pronunciation was poor and they spoke with thick accents.
+Relationships
+In the High Ice region of Anauroch, ice toads were often preyed upon by winter wolves. In the Great Glacier, arctic dwarves were known to hunt both creatures.
+
+In that same region, some Nakulutiun villages outlawed the hunting or killing of ice toads. Such villages kept an ice toad in a pit in the village's center, who villagers were instructed to keep happy and well-fed. They also were required to bow before the pit as they passed it by.
+
+Ice toads were one of the many creatures associated with cold that served as minions of the evil archomental Cryonax.
+Usages
+The blood of an ice toad could be mixed with the blood of a white dragon in a broth to enchant the latter's tooth.
+
+Notable Ice Toads
+ Marfulb, the leader of the ice toads that lived and worked on Oyaviggaton for the white dragon Arauthator.
+
+Appendix
+See Also
+ Fire toad
+Notes
+
+Appearances
+
+References
+
+---
+
+## Ice spikes
+
+Ice spikes was a divine magic spell given to specialty priests of Auril, the Frostmaiden.
+
+Effects
+When cast, this spell created a ball of hard ice around the caster's hand. The ball was covered in sharp spikes of ice, similar to a mace. For the duration of the spell, the caster's hand were protected from harm. Due to the nature of the spell, while the spell was in effect, the caster was unable to cast most spells and they were unable to use their hands for anything but the most basic of tasks. The caster could channel some of their life energy into the spell, which increased the damage the ice fists inflicted.
+
+Components
+In addition to somatic and verbal components, this spell required a material component, an icicle or a shaving of ice.
+Appendix
+References
+
+---
+
+## Icewind Dale: Rime of the Frostmaiden Dice & Miscellany
+
+Icewind Dale: Rime of the Frostmaiden Dice & Miscellany is an accessory for 5th edition Dungeons & Dragons that ties into the adventure Icewind Dale: Rime of the Frostmaiden.
+
+Contents
+ Eleven dice (two d20s, one d12, two d10s, one d8, four d6s, one d4).
+ Player-friendly foldout map of Icewind Dale and Ten-Towns (10.5" × 15.75").
+ Durable, felt-lined box that functions as two dice trays.
+ Twenty double-sided cards with descriptions and illustrations of characters and creatures one might encounter in Icewind Dale.
+
+Gallery
+
+Appendix
+External Links
+ Icewind Dale: Rime of the Frostmaiden Dice & Miscellany at Wizards of the Coast
+
+---
+
+## Ice bat
+
+Ice bats were a hairy species of bats that dwelt in the deep frozen caverns of the Sunrise Mountains of Thay.
+
+Description
+Ice bats were a bigger subspecies of ordinary bats, known for their thick, soft, and velvety fur. The creatures' sharp claws were more dangerous than their smaller cousins as they were used to hold on to the smooth ice-crusted walls and ceilings of their habitats.
+
+Ecology
+Ice bats nested in big groups. All the creatures hung in big pillowy clusters, holding each other close to preserve heat. If startled, the entire cluster exploded in a swarm of claws and wings, disorienting any creature attempting to hunt the bats.
+
+History
+In Mirtul 1373 DR, a Sembian noblewoman and a rogue, Thazienne Uskevren, traveled to the Sunrise Mountains in search of the fabled crimson gold. She encountered a swarm of ice bats as she fled from the buried ones.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Ice Castle
+
+Ice Castle was a castle located in the Alpuk region of the Great Glacier.
+
+Location
+The castle stood within a fissure at the base of the northern side of Mount Okk.
+
+Structure
+Ice Castle was constructed primarily of ice that was resistant to all forms of heat. The interior of the castle was an intricate maze of corridors. At random, these corridors could be filled with blasts of freezing winds, storms of ice, and blizzards. Somewhere within the castle was a vault made from glowing ice, containing the magical research of the wizards. Beneath the castle was a labyrinth, in which the wizards stored a horde of gems and precious metals.
+
+History
+Ice Castle was built in . In, a powerful earthquake caused the castle to sink into a large fissure, which was covered in snow and ice by a massive avalanche.
+
+Around, hunters from Lilinuk discovered the journal of an explorer whose body had been magically turned to ice. The journal described the interior of the castle, the experiments of the resident wizards and the castle's denizens.
+
+Inhabitants
+The castle was built by a group of evil Vaasan wizards, who sought an isolated location to create new cold-based spells and creatures with the purpose of conquering Vaasa. They eventually developed an entirely new type of cold-based magic. After the cataclysm that buried the castle, the wizards encased their dying bodies in large icicles hanging from a huge central chamber. Their spirits later roamed the corridors of the castle. The wizards' magical creations, including headless ice zombies, still wandered the castle.
+
+Appendix
+References
+
+---
+
+## Ice golem
+
+Ice golems were towering magical constructs crafted out of ice, and often resembling a humanoid warrior.
+
+Description
+Ice golems were huge creatures carved out of glaciers or icebergs. The ice they were created from made them appear bluish-white in color, and the animation process left them covered in smoking glowing white arcane runes. The most common shape they were carved to resemble was that of an armored humanoid warrior that weighed around  and was approximately  tall.
+
+Abilities
+These golems, being creatures made entirely out of ice, were able to move across frozen icy surfaces as if under the spider climb spell's effects. Additionally, the ice golems were able to spray their opponents with ice shards every 12–30 seconds. These deadly projectiles dealt cold and piercing damage to everyone within  from the construct. The shards could also blind some incredibly unlucky targets.
+
+Like other constructs, ice golems were immune to poisons, diseases, sleep, paralysis, stunning, magics that caused death, necromancy spells, and magic that affected one's mind. Their natural toughness also made them invulnerable to critical hits, ability, and energy drain. Constructs could not be healed via magic but could be repaired.
+
+Ice golems were immune to spells that were affected by spell resistance. All fire-based spells affected ice golems normally, penetrating their magical immunity, and cold magic healed them.
+
+Certain versions of ice golems were also immune to non-magical weapons, requiring enchantment of +2 strength or its equivalent. Weapons with fire enchantment, of course, were the exception from the rule.
+
+Behavior
+Like many other golems, ice golems possessed minimal intelligence, allowing them to follow only the simplest commands and tasks. They were unable to speak. There was a small chance of a newly created ice golem to go berserk, attacking its crafter.
+
+Combat
+
+Ice golems did not utilize strategies, nor could they plot cunning traps. Their limited intelligence made them simple and straightforward opponents. They attacked the nearest target unless commanded otherwise by their master. When close to their opponents, ice golems attempted to grab and crush them. These constructs utilized their ability to spray their opponents with razor-sharp ice shards. They were especially dangerous on ice or inside frozen caverns, owing to them being unaffected by slipping and sliding on frozen surfaces.
+
+Ecology
+Golems were unnatural creatures, created by capable wizards but more often by clerics or druids. The price of creating one ice golem was at least 2,000 gp, and that cost excluded the amount of time and skill it took to carve the creature, as well as the price of spell material components required to animate the construct. The body of an ice golem was carved out of a solid piece of glacial ice. The runes on its body were part of the process, allowing the magical energies to permeate the creature's body and animate it. The runes were chiseled onto the golem's body and infused with a species of snow-like lichen and sapphire dust. The final part of the creation was casting the ice shape, wall of ice, animate snow, and cone of cold spells. Some golem creation manuals also included the Otiluke's freezing sphere, wish, polymorph any object, as well as the use of a potion of fire resistance to animate these hulks. The finished golem was worth 60,000 gold pieces, and the total time required to create one was around two months.
+
+When exposed to warmer temperatures, ice golems needed to be replenished monthly, using spells like ice storm or magical items like wands of cold.
+
+Uses
+Shards of destroyed ice golems could be used as immobilizing thrown weapons. If flung at a creature, they could encrust them in ice.
+
+History
+
+Circa 1311 DR, multiple exceptionally strong ice golems could be found within a maze-like temple to Auril in Icewind Dale, whose inhabitants were plotting the destruction of Kuldahar and Ten Towns.
+
+Ice golems were common in the land of Rashemen. One documented encounter with them was in the . A party of drow warriors encountered an  ice golem that was transported to face them via frost magic. That construct was immune to non-magical weapons and was able to drain life force out of grappled opponents. A drow wizard named Nisstyre was able to defeat the fierce construct via the use of a fireball spell.
+
+In the, ice golems were encountered as one of many guardians within Watcher's Keep in Tethyr that guarded the entity known as the Imprisoned One.
+
+Appendix
+See Also
+Rimefire golem
+Snow golem
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Ice Road Trackers
+
+Ice Road Trackers is an adventure module set in the Forgotten Realms using the Dungeons & Dragons 5 edition ruleset. It is part of the Plague of Ancients series of adventures published for the D&D Adventurers League. It focuses on Icewind Dale, and is an adventure designed for 1- to 2-level characters.
+
+Index
+Creatures
+ •  •  •  •  •  •
+
+Magic
+Items  •  •  •
+Potions  •
+Spells cure wounds • divination • greater restoration • identify • lesser restoration • prayer of healing • raise dead • remove curse • revivify • speak with dead • true resurrection
+
+Credits
+ D&D Adventurers League Guildmaster: Chris Lindsay
+ D&D Adventurers League Wizards Team: Lea Heleotis, Adam Lee, Ari Levitch, Chris Lindsay, Mike Mearls, Ray Winninger
+ D&D Adventurers League Administrator(s): Alan Patrick, Amy Lynn Dzura, Travis Woodall, Ma’at Crook, LaTia Bryant, Claire Hoffman, Greg Marks, Shawn Merwin, Will Doyle
+ Art Director and Graphic Designer: Rich Lescouflair
+ Interior Art: Provided by Wizards of the Coast
+ Playtesters: Bill Benham, Justin Donie, Lea Heleotis, Sarah Keortge, Aurora Merwin, Beth Merwin
+Appendix
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Ichthyglug
+
+Ichthyglug the Voluminous was a marid in Undermountain in the early 1490s DR.
+
+History
+In 1492 DR, Ichthyglug was summoned into a pool in the Caverns of Ooze inside Undermountain and he couldn't go back to the Elemental Plane of Water until he obtained the phylactery of the lich Ezzat. However, he was confined to the pool. Afterward, the marid tried to convince all travelers to accept the quest of recovering the item for him, in exchange for a great treasure. If someone gave the phylactery to Ichthyglug, he immediately returned to the Elemental Plane of Water with all the pool but left the promised reward. If someone gave the item to Jaruk the dao instead, the marid learned of this and tried to kill the person.
+
+Activities
+While waiting to go back home, Ichthyglug used his time to swim around the pool with the quippers and sing. If killed, Ichthyglug re-formed in 24 hours.
+
+Appendix
+Appearances
+ Waterdeep: Dungeon of the Mad Mage
+
+Notes
+
+References
+
+---
+
+## Icespire Hold
+
+Icespire Hold was a stone fortress on Icespire Peak, the tallest peak of the Sword Mountains on the Sword Coast North.
+
+Structure
+Icespire Hold consisted of two separate buildings that were situated on different ledges of the mountain flank and connected by a stone bridge. For non-flying creatures, the only entry point was a narrow trail. It led to the smaller building, which was used as a gatehouse and included stables. The difficult access and the presence of arrow slits made the fortress easy to defend.
+
+The main building was only accessible via the stone bridge. The outer defenses as well as the undercroft were hidden behind secret doors. The undercroft contained the crypts and a secret exit: a toboggan that could be used to escape via the mountainside in an emergency.
+
+Location
+
+Icespire Hold was located on the northeast spur of the mountain and was surrounded by sheer, icy cliffs. The fortress sat at an altitude of  and was more than  away from Phandalin, the nearest settlement. Because of its seclusion, not many people knew about Icespire Hold.
+
+History
+Icespire Hold was built by Delsendra Amzarr, a local warlord who lived there for many years and kept the orcs of the Sword Mountains at bay. Eventually, a very harsh winter ended her reign. The extreme weather cut off the supply chains and Delsendra and her soldiers were trapped in the fortress and starved to death.
+
+When the fortress was abandoned, it was damaged by an earthquake. Ten years later, an orc tribe led by the war chief Kra took over Icespire Hold. The orcs' reign didn't last long because the young white dragon Cryovain decided to make Icespire Hold its new lair. He gained access through the southwest section that was still damaged by the earthquake. Cryovain ate Kra and several other orcs, causing the remaining orcs to flee. The dragon then settled on the roof and occupied the fortress in the late 15 century DR.
+
+The Stone-Cold Reavers, a group of reckless adventurers, tried to steal the presumed treasure hoard of Cryovain from its lair. They waited for the dragon to leave Icespire Hold so they could raid it in its absence. However, Cryovain hadn't amassed any treasure yet.
+
+Appendix
+Appearances
+Adventures
+ Dragon of Icespire Peak
+
+References
+
+---
+
+## Ice bullet
+
+Ice bullets were enchanted variety of sling bullets that were carved from the bodies of ice para-elementals.
+
+Powers
+When launched at the enemies, ice bullets gave off a blast of freeing cold upon impact. Their power allowed these bullets to flash-freeze armor and flesh alike.
+
+History
+In the mid-14 century DR, many enchanted sling bullets were a common sight along the Sword Coast, the Moonsea, and used by numerous individuals and factions.
+
+Notable Users
+Jarl Bashnagg: the leader of the nomadic frost giant Bloodaxe tribe that dwelt in a cave between Voonlar and Yûlash circa 1373 DR.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate series (Baldur's Gate: Enhanced Edition) • Neverwinter Nights series
+
+References
+
+---
+
+## Ice drake
+
+Ice drakes were a species of elemental drake.
+
+Description
+Ice drakes were draconic in form, about  long, with ivory-colored scales with tinges of ice-blue. Their limbs were short and stocky, and the tail was wide and flat, to help them climb on icy surfaces.
+
+Personality
+Ice drakes were wild and vicious, but also cautious.
+
+Abilities
+Ice drakes, like other dragons, were immune to magic that induced sleep or paralysis. They were unaffected by even the coldest temperatures, but vulnerable to fire and heat. The claws of an ice drake were naturally freezing cold.
+
+Combat
+Ice drakes only attacked creatures smaller than they were unless they were desperate. In a fight, they focused on a single enemy at a time, trying to weaken that enemy until they could easily grab it and fly off.
+
+Ecology
+Ice drakes were scavengers that lived in cold deserts. They were intelligent enough to speak, and knew the Draconic language and either Auran or Aquan. Ice drakes lived either alone or in clusters of up to six individuals.
+
+Appendix
+Appearances
+ Novels  The Ruin
+References
+
+Connections
+
+---
+
+## Ice arrow
+
+Ice arrows, also known as Arrows of Ice or freezing arrows, were arrows enchanted with cold magics, common throughout the Realms.
+
+Description
+Their tips were cold, creating curling vapors, reminiscent of a breath on a cold winter's day. Some had shafts crafted from unmelting ice.
+
+Powers
+These missiles were enchanted to burst into a ball of magical ice and cold on striking a target. Upon impact, an ice arrow exploded in a shock of freezing energy that traveled through the target, simultaneously burning and numbing them. This could have the effect of slowing their movements.
+
+History
+These magic arrows were in wide use throughout North Faerûn, in Icewind Dale and the Spine of the World. By the mid and late 14 century DR, ice arrows were utilized across the Sword Coast.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Ice archon
+
+Ice archons were a variety of elemental archons, beings created by conjuring and bonding elementals into ritually created suits of armor to act as servile weapons of war.
+
+Description
+Ice archons were beings composed entirely of elemental ice, with bodies that were roughly human in size and shape.
+
+Like all elemental archons, ice archons wore thick armor, typically of the plate mail variety. These not only protected them against attacks, but contained their form and was integral to their being. After some time they were capable of removing this armor and replacing it with something else, but many never saw any need to do so. Their armor was all that would remain of them when killed.
+
+Abilities
+Ice archons were immune to the effects of diseases and poisons, as they were composed wholly of elemental essence. Also, like other elemental beings, they had no need for sleep.
+
+Hailscourges could conjure small hailstorms and jagged shards of ice resembling shurikens in shape. Frostshapers and rimehammers lacked these abilities, but they both exuded an aura of cold that froze the ground around them. Additionally, frostshapers could conjure blades and javelins of ice.
+
+Combat
+Hailscourges preferred to fight from afar over close-quarters. Because of this, they typically fought with no weapon, instead wielding shields of ice and relying upon their abilities.
+
+Frostshapers also relied upon their abilities, but used them to aid in fighting close-quarters. Finally, rimehammers solely preferred close-quarters, fighting with mauls of ice so numbingly cold that they impeded their enemies.
+
+Varieties
+Frostshapers One of the more powerful varieties of ice archon. They sometimes served as advisors or commanders in elemental armies.
+Hailscourges The term used for the basic variety of ice archon. They often served as artillery in elemental armies.
+Rimehammers One of the more powerful varieties of ice archon. They often served as bodyguards for powerful elemental beings.
+
+Society
+Like any elemental archons, when left to their own devices these beings would form societies that had the same structure, one that was roughly militaristic. They were rigidly disciplined and had hierarchies based on rank, with rank determining every aspect of life in their stronghold. These ranks did not have proper titles, as ice archons simply knew where they and others ranked. They did not challenge authority or compete against one another for rank, each being satisfied with their station and feeling they best serve in that position.
+
+Outside of combat, ice archons spent much of their time trying to hone their knowledge of strategy and tactics, engaging in tactical exercises, or sparring. Constantly training for the next conflict, which satisfied their innate desire to make war.
+
+Creation
+Some said that constructing an elemental archon required a special foundry, with a special forge built in a significant concentration of elemental energy, and a summoning crucible that served as the transformation space. These forges rarely appeared like a common forge, being unrecognizable contraptions of arcane and elemental magic.
+
+A working foundry could produce them as often as the ritual could be performed and for as long as the foundry's resources were maintained. The forge's power determine what kind of myrmidon was created. A forge with ebbing power could only generate the most basic of ice archons, while those at high flow could produce more powerful varieties, such as rimehammers and frostshapers.
+
+A notable forge, controlled by ice archons and used to create more of their kind, was located in a part of the Elemental Chaos called the Crater of Blue Ice.
+Homelands
+Like all elemental archons, ice archons could often be found in the Elemental Chaos.
+
+Beyond that plane, a colony of ice archons existed in the Iron Wastes of the Abyss, served by ice devils. This colony lived there in search of an artifact spear that had belonged to an ancient primordial who they believed to be burred in the mountains that layer. Much further down in the Abyss, ice archons could be found on a layer known as Soulfreeze.
+
+Relationships
+Many ice archons were known to serve Cryonax, the evil archomental of elemental ice. Those that lived in Soulfreeze served the demon lord Aseroth. And some ice archons served the Faerûnian goddess Auril, acting as escorts for her winter hags.
+
+Rimehammers were also known to serve creatures with ties to the Elemental Chaos, such as frost giants, frostshapers, and frost titans. But elemental archons in general had no aversions to working with creatures of other elements, so one could even see rimehammers working for such unlikely masters as fire giants and efreeti.
+
+Among their fellow archons, ice archons worked better with earth archons than fire ones, due to the former having similar approaches to warfare. And they were sometimes seen working alongside air archons.
+
+Appendix
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Ice walk
+
+Ice walk was a divine alteration spell used by specialty priests devoted to Ulutiu, enabling them to allow targets to safely walk on ice.
+
+Effects
+This spell allowed the targets to safely walk upon ice of any thickness as if it were firm ground. The target's feet did not actually touch the ice, nor did their passing leave a trace.
+
+Components
+In addition to verbal components and somatic components, this spell required as material components the priest's holy symbol and some snow or a piece of ice to cast.
+
+Appendix
+References
+
+---
+
+## Icepriestess
+
+Icepriestesses, or icepriests for males, were specialty priests devoted to Auril whose hearts were filled with the Frostmaiden's frigid embrace.
+
+Activities
+These specialty priests composed about one third of Auril's clergy. As with all of Auril's clergy, the vast majority of these individuals were female. They spread the fear of Auril throughout Faerûn, particularly in the northern regions and the Western Heartlands.
+
+Abilities
+Once embraced by Auril, all icepriestesses were completely immune to the effects of all natural cold, and they were able to more easily resist the effects of magical cold-based attacks. They gained several magical abilities as they progressed, including casting the following spells once per day: frost fingers, frost whip, ice blade, and cone of cold. Twice per tenday they could cast ice storm or wall of ice, and once per tenday they could cast conjure ice paraelemental.
+
+Possessions
+Icepriestesses wielded all sorts of blunt weapons as well as the ice axe. They were permitted to wear armor as heavy as chainmail, though many enjoyed scampering around frigid environments with little clothing to showoff the blessing of Auril.
+
+Appendix
+References
+
+---
+
+## Ice darts
+
+Ice darts was an arcane conjuration spell that hurled darts of ice at close targets.
+
+Effects
+The spell threw icicle-shaped darts at targets. Some of the damage was from the physical impact, but the rest was due to severe elemental cold. Up to five darts could be produced and launched by an experienced caster.
+
+Components
+The spell had verbal and somatic components.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ice serpent
+
+Ice serpents were a variety of air elemental encountered in cold and snowy climates.
+
+Description
+Ice serpents had no bodies, and were instead comprised of constantly moving, ice-cold air. They were naturally invisible, but they could usually be seen thanks to snow, ice particles, and small stones that were picked-up by their windy forms as they moved.
+
+Unlike most air elementals, ice serpents could not fly, and instead moved forward by propelling themselves along the ground, giving the appearance of writhing and slithering.
+
+Combat
+Ice serpents attacked by wrapping themselves around a target, but instead of constricting as a physical snake would, they instead drained the heat from their prey. Their victims would begin to go numb from the cold, and ultimately fall unconscious as the serpent proceeded to drain the last of their vital heat.
+
+As creatures of pure cold air, they were difficult to injure with mundane weapons and were fully immune to any magic that relied on ice or cold, although they were highly susceptible to fire.
+
+Ecology
+Ice serpents fed upon the body heat of living creatures, which they hunted in snowy regions. During the mid-to-late 14 century DR, they were known to inhabit the Sea of Moving Ice and the North as far south and east as the Trollmoors, although they would range further south during the cold winter months.
+
+History
+These elementals first appeared in Faerûn in the mid-to-late 14 century DR, and were thought to have been summoned by an evil cleric of Akadi who dwelt near the Ice Lakes in the Frozenfar.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Icy claw
+
+Icy claw was a powerful spell.
+
+Effects
+When cast, the spell created a large dragon claw, made from ice, in mid-air. The hand had four sharp talons and was about  in length. It flew through the air at a target with great speed. A targeted creature could not use effects or spells, such as darkness or invisibility, to conceal itself from the claw. Icy claw was vulnerable to dispel magic and disintegrate. Additionally, the claw could not break through a wall of force nor could it enter an antimagic field. It was also affected by both the prismatic sphere and prismatic wall spells.
+
+Components
+In addition to verbal and somatic components, this spell required a focus, a claw from a white dragon.
+
+Appendix
+References
+
+---
+
+## Ice Troll lodge
+
+The Ice Troll lodge was a lodge of Rashemaar berserkers active within Rashemen as of the late 14 century DR.
+
+Base of Operations
+The Ice Troll lodge was based in Mulsantir. Telthor badgers usually guarded an Ice Troll longhouse.
+
+Activities
+Berserkers from this lodge experimented with bizarre drafts and exposure to freezing weather in order to toughen up their skin, allowing them to ignore strikes that would harm lesser warriors.
+
+Appendix
+References
+
+---
+
+## Iceborn River
+
+The Iceborn River was river system found in the North Country of Rashemen.
+
+Geography
+The Iceborn River was formed from several smaller unnamed tributaries that flowed south from the Icerim Mountains along the border of Rashemen and Narfell. The Iceborn flowed through the far northwestern region of the Endless Wastes, crossing the Long Road before emptying into the northern reach of Lake Ashane.
+
+Appendix
+References
+
+---
+
+## Ice dagger (weapon)
+
+Ice daggers were a unique enchanted weapons used exclusively by specialty priests of Auril called chillbringers.
+
+Powers
+Ice daggers made it easier for the wielder to strike and harm their opponents. In addition to physical harm, ice daggers caused chilling cold within the wounds they inflicted.
+
+History
+These weapons were made by high-ranking clergy of Auril during the Feast of the Moon using ice taken from the Great Glacier. The magic infusing the weapon allowed it to last until Greengrass.
+
+Appendix
+See Also
+Borea's Blood
+References
+
+---
+
+## Ice bracer
+
+Ice bracers were unique pairs of enchanted bracers worn exclusively by specialty priests of Auril called chillbringers.
+
+Powers
+These bracers imparted physical protection on the chillbringer as if they were bracers of defense. Additionally, ice bracers behaved like a ring of warmth and protected the wearer from cold from both weather and magical cold-based attacks.
+
+History
+Ice bracers were made by high-ranking clergy of Auril during the Feast of the Moon using ice taken from the Great Glacier. The magic infusing the bracers allowed them to last until Greengrass.
+
+Appendix
+See Also
+Borea's Blood
+References
+
+---
+
+## Ice Floe
+
+The Ice Floe was a galley owned by the dragonborn captain Kristoffen. The ship plied the Sea of Swords in the late 15 century DR, hauling goods for merchants as well as passengers.
+
+Description
+The Ice Floe was a galley specifically equipped for the frigid seas of the far north.
+
+History
+Circa 1491 DR, Valdi Estapaar, who was a member of the Leilon town council, was looking to hire a ship to transport a group of adventurers to the Thunder Cliff Caves. The caves at the foot of the Thunder Cliffs were used as a hideout by the Cult of Talos, which had previously attacked Leilon, and were only accessible by sea. The Ice Floe competed with the Dancing Delight for the job. Secretly, the captain of the Ice Floe, Kristoffen, was a follower of Talos himself. However, he couldn't stop the adventurers from defeating the cultists in the caves.
+
+Around the same time, the crew of the Ice Floe was dissatisfied since their captain had been acting strangely in recent months. To stay closer to Neverwinter, he had declined much more lucrative contracts to travel northwest to the Moonshae Isles. This had resulted in lower remuneration for the crew, which they were unhappy about. The reason for Kristoffen's unusual behavior was his secret membership in the Cult of Talos, which operated around Neverwinter. The crew's dissatisfaction eventually led to a mutiny.
+
+Appendix
+Appearances
+Adventures
+Storm Lord's Wrath
+
+References
+
+---
+
+## I'Cath
+
+I'Cath was formerly a province somewhere in Kara-Tur, before it became one of the Domains of Dread, under its darklord, Tsien Chiang.
+
+History
+Part of one of the empires of Kara-Tur, the province of I'Cath was reigned over by a local prince. He thought women were only good for making children and so forbade his daughter, Tsien Chiang, from receiving a high education. Nevertheless, she secretly learned the military arts, magic, and poisoncraft. At this time, she became fascinated by the number four, and its mystical relationship with death. Yet still her father belittled her ambitions, and her indignation soon turned to an intense hatred of first her father and then of all men.
+
+Tsien eventually murdered her father with poison, and then used her magic to turn her mother and three brothers into imbeciles. Thus, Tsien Chiang was acclaimed the ruler of I'Cath by the local elders, who would rather see her as lord than one of her feebleminded family members. She soon ruled that province as a notorious and utterly inflexible tyrant. Many suitors came seeking marriage to the beautiful and powerful lord, but Tsien had many of the samurai fight to the death and soon killed the four husbands she did take, keeping four daughters. She also gathered the finest sages from all over Kara-Tur to help her uncover the secrets of the number four but, unsatisfied, she had most of them slowly tortured to death. Very few sages visited I'Cath after that, and fewer still ever returned.
+
+In time, Tsien Chiang was the most dreaded, distrusted, and despised individual in all of Kara-Tur. As a tactical genius and powerful wizard, she handily defeated the neighboring princes who allied against her and attempted to overthrow her evil rule, taking their lands as her own and making her one of the most powerful persons in Kara-Tur too. Those who didn't attack her, the emperor, local princes, and rulers of other lands, were compelled to pay homage to appease her, but those lords too were often murdered. Because of binding oaths of loyalty from her clan to the emperor that she did not dare break and was begrudgingly forced to uphold, Tsien spared the emperor, but she was feared even by him. She demanded from the emperor four bells, the biggest in the empire and all sacred relics housed in great shrines. He granted them to her, despite the angry protests and curses of the priests and his people. Tsien corrupted them to hold her and her daughters' spirits and ensure they never again aged a day.
+
+Even the gods despised Tsien—for her lack of faith, her desecration of their shrines, and the beatings she gave her good daughter Nightingale, whose voice they loved. They plagued I'Cath with storms whenever Nightingale was beaten for questioning her. But prideful Tsien disdained and hated the gods, believing they were deliberately withholding the truth of the number four from her. Finally, when Tsien intended to finally beat her daughter to death, thick fog enveloped the Palace of Bone. Certain the gods were working to cast her down to the Nine Hells, Tsien blasphemed and denied them. When the emperor finally plucked up the courage to intervene, she laughed and killed him, thereby breaking her sacred oaths of loyalty. With these four ultimate sins, the fog that had engulfed her palace tore the land of I'Cath out of Kara-Tur and carried it into the Demiplane of Dread in the year 732 BC. The dark powers of that place made it a domain there, with Tsien Chiang as its darklord. No one else lived there except her, her daughters, and their remaining victims.
+
+Notable Locations
+Over many years, Tsien used the remains of her daughters' suitors to build herself the ghastly Palace of Bones: the structure made from their bones, the walls painted with their blood, the carpets weaved from their hair, and the clothing from their skin and flesh. The floors cried in madness and pain when stepped on. A giant-sized backgammon board had dice and pieces made from fingernails and skulls. Even the broken promises of men, "the one substance that the world has in limitless abundance", she used to erect the Tower of Broken Promises. Spread around them were the Four Groves of corrupted trees that cursed and killed all who came near, and the four Shrines of the Four Bells, which held Tsien's and her four daughers' spirits.
+
+Appendix
+Background
+Being created for the Ravenloft campaign setting with largely unconnected lore, it is unknown where in Kara-Tur I'Cath originated, or even when in Kara-Tur's history it existed. There is no I'Cath province, no characters named Tsien, and no clans named Chiang in the setting lore. The comparatively recent date in Ravenloft's timeline suggests a recent, mid-1300s DR origin on Toril, but correspondence between the setting timelines is unknown and ambiguous. The slain emperor is unnamed, and none of the modern emperors of the major powers died a violent death by the Kara-Tur setting date of 1357 DR. In contrast, the Tree of Venom grove is said to be centuries old. It is possible these events occurred after 1357 DR, though later history is thin. T'u Lung is known to have lost two emperors in the following 18 years, so it seems a candidate. Otherwise, I'Cath may originate in one of the other smaller, undetailed nations of Kara-Tur, such as the Warring States.
+
+I'Cath is the setting of a number of the 4-edition Living Forgotten Realms modules as Tsien is a pawn in Shar's grand scheme to rule the multiverse. These are CORE2-11 "The Sign of Four", EPIC3-3 "The Tangled Skein of Destiny", EPIC4-1 "Shooting the Moon", EPIC4-2 "Age of Ruin", and EPIC4-3 "Dark Hearts of Madness". However, as these were released after the end of official support, these are not deemed canonical to this wiki. They may be downloaded from the Living Forgotten Realms website.
+
+A wholly new I'Cath was created for 5-edition's Van Richten's Guide to Ravenloft, but this has no Realms or Kara-Tur relations and thus is not considered canon to this wiki. Only the original 2-edition version is presented above.
+
+External Links
+
+References
+
+---
+
+## Ickshar
+
+Ickshar was a rakshasa inhabiting the Savage Frontier during the mid–14 century DR.
+
+Activities
+As of the, Ickshar was trapped in stasis within a collapsed cavern located beneath an ancestor mound in Beorunna's Well in the Moonlands.
+
+Relationships
+Ickshar's companion, a mind flayer named X'ss'a', shared his fate.
+
+Appendix
+References
+
+---
+
+## Ice Hunter Beast Cult Shaman
+
+Ice hunter beast cult shamans, or simply ice hunter shamans, were specialty priests devoted to Ulutiu, the Lord in the Ice.
+
+Culture
+Ice hunter shamans were always ice hunter humans native to the Great Glacier called Ulutiuns. Their tribe's totem animal dictated certain aspects of their behavior to include the following:
+
+ Clever Oomio the Gray Seal, could not harm seals, eat seal meat or fat, or wear anything made from a seal.
+ Grandfather Walrus, could not harm walruses, eat walrus meat or fat, or wear anything made from a walrus.
+ Great White Bear, could not harm polar bears, eat polar bear meat or fat, or wear anything made from a polar bear.
+ Pindalpau-pau the Reindeer Mother, could not harm reindeer, eat reindeer meat or fat, or wear anything made from a reindeer.
+
+Abilities
+The magic and special abilities an ice hunter shaman had access to depended on their tribal totem animal. Their powers are outlined below:
+
+ Clever Oomio–could bestow selkie form upon themselves or others once per day for ten minutes.
+ Grandfather Walrus–could call upon tusks of strength for themselves and others once per day for ten minutes.
+ Great White Bear–could call upon polar fury for themselves and others once per day for ten minutes.
+ Pindalpau-pau the Reindeer Mother–could call upon horns of wisdom or reindeer hooves for themselves and others once per day for ten minutes.
+
+All ice hunter shamans could summon common forms of their totem animals to their clan's base twice every tenday. They could shapechange into their totem animal twice per tenday. They eventually became completely immune to all normal and magical cold-based attacks save for a white dragon's breath weapon, powerful artifacts, or other such powerful creatures.
+
+Possessions
+They typically wore leather or hide armor and never carried a shield. Some weapons favored by nakurits included the short bow, dagger, ritiik, spear, trident, and iuak.
+
+Appendix
+References
+
+---
+
+## Iceguardian
+
+Iceguardians were specialty priests devoted to Ulutiu, the Lord in the Ice.
+
+Culture
+Iceguardians were always ice hunter humans native to the Great Glacier called Ulutiuns. They abided by the taboo that they would never personally start a fire. Doing so would cause them to lose all of their special abilities. They could however enjoy the benefits of a fire started by someone else.
+
+Abilities
+They eventually became completely immune to all normal and magical cold-based attacks save for a white dragon's breath weapon, powerful artifacts, or other such powerful creatures. They had access to elemental water wizard spells or any other spells related to cold, chill, snow, and ice. They could cast ice storm, wall of ice, cone of cold, and Otiluke's freezing sphere once per day. They could shapechange into their totem animal twice per tenday.
+
+The magic and special abilities an ice hunter shaman had access to depended on their tribal totem animal. Their powers are outlined below:
+ With Clever Oomio, they could bestow selkie form upon themselves or others once per day for ten minutes.
+ With Grandfather Walrus, they could call upon tusks of strength for themselves and others once per day for ten minutes.
+ With Great White Bear, they could call upon polar fury for themselves and others once per day for ten minutes.
+ With Pindalpau-pau, the Reindeer Mother, they could call upon horns of wisdom or reindeer hooves for themselves and others once per day for ten minutes.
+
+Possessions
+They typically wore leather or hide armor and never carried a shield. Some weapons favored by nakurits included the short bow, dagger, ritiik, spear, trident, and iuak.
+
+Appendix
+References
+
+---
+
+## Icewind Dale (disambiguation)
+
+Icewind Dale could refer to:
+
+ Icewind Dale, the region of the North beyond the Spine of the World;
+ Icewind Dale: Rime of the Frostmaiden, the 5 edition adventure;
+ Icewind Dale: Rime of the Frostmaiden Dice & Miscellany, an accessory set that accompanied the adventure;
+ The The Icewind Dale Trilogy, the first trilogy of books set in the Legend of Drizzt series; or
+ The The Icewind Dale Trilogy Collector's Edition, the omnibus collection of that novel trilogy.
+ DN1 Caverns of Icewind Dale, a Dungeon Tiles set released in 2011
+
+It could also refer to several video games from the Icewind Dale series:
+ Icewind Dale (game), the original game of the series, set within the region in 1281 DR;
+ Icewind Dale: Heart of Winter, the game's first expansion;
+ Icewind Dale: Trials of the Luremaster, the game's second downloadable expansion; or
+ Icewind Dale: Enhanced Edition, the remastered version of the original game.
+
+---
+
+## Ice chest
+
+Ice chests, also known as iceboxes, were insulated storage containers used to keep food or drink cool.
+
+Description
+Ice chest resembled small insulated wardrobes.
+
+Availability
+ Aurora's Whole Realms Catalogue sold ice chests that could easily hold a dozen jars at a cost of 35 gold pieces.
+
+Notable Users
+ Ice chests were often favored by wizards, for storing specific ingredients or material components at lower temperatures.
+Businesses
+ The Jade Jug, a luxury inn in Waterdeep, had an icebox placed by the bed of every suite. These were used to store chilled wine and shrimp snacks.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Icetail
+
+Icetails were a very rare species of fish found in the Great Glacier.
+
+Description
+At first glance, the icetail appeared more like skeletal remains than a living creature, with only fragments of bluish tissue hanging from its ribs. However, a closer examination revealed the presence of a complete body, including a transparent head, fins, and tail resembling glass. The touch of an icefish also emanated an intense coldness, so much so that if someone touches a live icefish with bare skin, they will suffer damage. Once an icefish died, it assumed the temperature of its surroundings.
+
+Behavior
+The icetails displayed non-aggressive behavior, swiftly swimming away from any perceived threats.
+
+Ecology
+Icetails could be cooked and consumed, although their raw flesh was exceedingly bitter. However, if they are not thoroughly cooked for at least six hours, the consumer faced the risk of severe indigestion with severe cramps for up to a day.
+
+Icetails were scavengers. They consumed plankton, organic waste and any organic material.
+
+Habitat
+Icetails inhabited the rivers and seas of the Great Glacier. Icetails were not territorial and had a natural inclination to form schools of different sizes. Their reproductive strategy involved laying numerous tiny eggs, typically numbering in the thousands.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ichiyama
+
+Ichiyama was a mountain located in Kozakura.
+
+Description
+Ichiyama was located in Oie Province on the island of Shinkoku. The colossal peak dominated the surrounding mountain range, its snow-covered summit visible even from the distant capital, Dojyu.
+
+Regarded as a sacred mountain, Ichiyama stood as the tallest in central Shinkoku, and it held a significant place in the island's formation myths. Numerous shrines and temples graced its slopes, offering pilgrims and travelers a place of spiritual solace.
+
+The northern side of Ichiyama sheltered a glacier and was susceptible to frequent avalanches during the winter season. Lower down its slopes, the renowned Temple of Kanchai-ryu was found, a distinguished religious center within Kozakura.
+
+Inhabitants
+The mountain was believed to be the dwelling place of at least one t'ien lung, also known as a celestial dragon. Additionally, encounters with tengu and oni mage were not uncommon on its hallowed grounds.
+
+Appendix
+References
+
+---
+
+## Icicle (long sword)
+
+Icicle was a unique long sword forged by the song-smith named Gehorg Diamondforge of Ravens Bluff in the late 14 century DR.
+
+Description
+Icicle got its name from the sword's blade, which had turned transparent during forging.
+
+Powers
+Apart from its impressive appearance, Icicle possessed a +2 enchantment to the wielder's aim and the blade's damage. It was also especially deadly to creatures that were not scared of any sort of cold. When wielded against such creatures of cold, the weapon's blade became effectively a devastating +5 enchanted weapon. Additionally, Icicle acted in the same fashion as a ring of warmth did and allowed the wielder to unleash the cone of cold spell once per day.
+
+History
+In the, Gehorg Diamondforge and many other stores of Ravens Bluff's Market District fell victim to extortion by a group of criminals. These people—Marella, Elizza, Moamar, and Rundell—were members of the warlord Myrkyssa Jelan's army that waged war on the Vast just a year prior. Gehorg spent years of his life creating weapons of great power through the ancient dwarven art of song-smithing. The master smith lost several magic weapons to the extortionists: Icicle, Stone Splitter, Flame Quencher, and Starshine. This loss disillusioned Gehorg Diamondforge, and he decided to leave Ravens Bluff and its corruption unless the city was to reimburse him for the masterworks lost to the people whom he perceived to be Living City watchmen.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Ice sapphire
+
+Ice sapphires were enchanted sapphires found in the plane of Ysgard that protected against cold.
+
+Description
+These crystals had a deep blue coloration and inner light, though once their magical effect was used this inner light faded. They were notably always cool to the touch. Their value was significantly diminished after use.
+
+Powers
+Ice sapphires granted their wielder the power to make a single, powerful casting of endure cold.
+
+History
+In the, a group of adventurers from the city of Ravens Bluff on the world of Toril traveled to Ysgard in search of the legendary Well of Mimir. While traveling in Asgard, they stopped at the hall of Gloamingard at the same time as the Seelie Court was visiting. Queen Titania, desiring some entertainment, challenged the adventurers to a series of friendly competitions against her fey entourage. Her consort, Enilbright, suggested wagers be made to to make things more interesting. Agreeing with him, Titania offered to wager three magic items if the adventurers would wager three comparably permanent or major charged items in turn. She offered as prizes an ice sapphire, a Svartalfheim cloak, and a horn of Valhalla.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Icehauptannarthanyx
+
+Icehauptannarthanyx, or Icehaupt, was a venerable white dragon who laired on Mount Speartop in the Cloud Peaks of Amn.
+
+Personality
+Icehaupt was very cautious and cunning, choosing to avoid detection rather than be known openly. He dealt with the threat of humans by largely ignoring and avoiding them, only attacking when they were easily overcome or about to discover his lair. He understood that knowledge of his lair and the treasure within would bring far more attention than he could handle, and wished to enjoy his favored territory without such bothers.
+
+Possessions
+In the 14 century DR, Icehaupt had a hoard of over half a million danters in jewelry and gems, and more than 30 powerful magical items.
+
+Activities
+Icehaupt laired in an inaccessible cave on the northeast face of Mount Speartop, about  short of the peak (itself  tall), and was the only dragon of note in the Cloud Peaks besides another mysterious red dragon who was slain by Araugauthos north of Citadel Amnur. He was very reclusive, and only left his lair 15 times between the 6 and 14 centuries DR.
+
+Although mountaineering to the summit of Mount Speartop was a popular hobby for wealthy Amnians, they rarely encountered Icehaupt. The mountainside around his lair was extremely difficult to climb, and the few who chose that path up were swiftly devoured. As the northeast face was already a dangerous route, their disappearances were blamed on a combination of bad luck and foolishness. Although there were public rumors of ancient dragons lairing on Mount Speartop, thanks to his care they were widely considered completely baseless.
+
+Despite his lofty isolation, Icehaupt took an interest in matters that could affect him. In particular, he kept an eye on Ghazir the Desert's Edge, held by Iryklathagra, to ensure it was not used to alter the cold climate of the Cloud Peaks.
+
+History
+Icehaupt's most notable action was his attack on the realm of Minsorran. During a harsh blizzard in the winter of the, Icehaupt attacked Minsor Vale and the other three towns and devoured all of their inhabitants, leaving no traces of his passing.
+
+Appendix
+References
+
+---
+
+## Iceborn
+
+An iceborn was a type of clone that was similar to a simulacrum.
+
+Description
+Iceborns were exact clones of an individual, but had pale blue skin and cold blue eyes. While it was not obvious from their appearance, iceborns were hollow constructs made wholly of living ice. They did not appear to breathe.
+
+If defeated in battle, an iceborn would loudly crack and shatter. They could not be knocked unconscious, and instead would fall to pieces.
+
+Creating an iceborn required the flesh of the individual being cloned.
+
+Personality
+Similar to clones produced by the clone spell, iceborns were fully sentient and believed themselves to be the person from whom they had been cloned.
+
+Abilities
+An iceborn's touch, breath, and even glare were supernaturally cold, and could even injure creatures that were normally resilient against such cold. In turn, an iceborn was highly resistant to the cold, and could absorb and weaponize the cold. They could also confer some resilience against cold to nearby allies.
+
+Iceborns could fly.
+
+Notable
+ The Ice Queen Iyraclea created an iceborn clone of herself and concealed it in a vault beneath the Delhalls in Vaasa. The clone survived the Spellplague and sought to escape when an earthquake opened the way to its prison in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Icebeast
+
+The Icebeast orcs were a tribe who lived in the High Ice during the time of Netheril.
+
+History
+The Icebeast tribe lived in the High Ice and came down into Netheril to perform raids. They got along quite well with the local ice trolls and frost giants, and were exceptionally good at taming the wildlife such as remorhazes and mammoths, including for the purpose of combat.
+
+Appendix
+See Also
+ Greenhaven tribe
+ Rocktroll tribe
+ Thousand Fists tribe
+ Thundercall tribe
+
+References
+
+---
+
+## Icebite robe
+
+Icebite robes were enchanted wizardly robes created sometime before the late 14 century DR.
+
+Description
+These blue robes were declared with delicate glittering ferns of frost.
+
+Powers
+The wearer of the robes was granted resistance to mundane and magical cold. Once per day, they could cast the armour of Agathys at a higher casting proficiency.
+
+History
+A single icebite robe was interred with its original owner within one of the sarcophagi near Reithwin, long before the area round it was consumed by the shadowcurse in the late 14 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ice para-elemental
+
+Ice para-elementals, sometimes referred to as cold or frost para-elementals, were a variety of para-elementals composed of elemental ice.
+
+Description
+These elementals had hulking, humanoid forms composed entirely out of ice, having a translucent white quality and being covered in patches of frost, sometimes covered in sharpened icicles. The glint of light off their roughly hewn forms sometimes gave off the impression of eyes. On average these forms stood around  tall, though one could also find individuals that were smaller or larger, with the true scope of potential height ranges being  tall.
+
+Personality
+Like most of their para-elemental kin, their intellects ranged from low to high and they typically had a neutral disposition.
+
+Abilities
+Ice para-elementals were impervious to harm from cold-based spells and magics, but vulnerable to those based around heat. They could only be struck by weapons with a +1 or greater enchantment.
+
+These elementals exuded an aura of intense cold around them. Their touch was so frigid that it could freeze a body of water, or any other liquid that was primarily composed of water, up to a distance of  and a depth of . And they could freeze metal around them, in a manner similar to the spell chill metal. If they ever found themselves injured in any way, they could heal themselves if in contact with natural cold material such as ice, snow, or sleet.
+
+Combat
+Ice para-elementals were typically patient combatants, waiting for their enemies to approach them first, with the more larger among them pretending to be rather slow or delayed in movement so they could better lure their opponents closer.
+
+Society
+Most visitors to the home plane of these para-elementals typically encountered them in small, leaderless loose bands, hunting for warmth or patrolling the area for any intruders. Rulers in their society obtained their positions through show of strength and respect. Whilst it was not uncommon for leaders to be challenged by those under them, in general ice para-elemental society was largely without disorder.
+
+Diet
+Ice-paralementals gained sustenance by the act of draining warmth, converting it into energy. This warmth could be extracted from any nearby source of heat. This draining of heat also mitigated the threat that heat had upon them. However, they did not actually require sustenance to survive.
+
+Homelands
+These elementals were indigenous to the Para-Elemental Plane of Ice, but could on rare ocassions be found on the neighboring Plane of Air Plane of Water. Most lived together in isolative kingdoms, ruled over by numerous minor ice para-elemental lords and nobles, referred to by some as "ice-lords".
+
+In the Outer Planes, ice para-elementals could be found in the Iron Wastes, the domain of Kostchtchie in the Abyss. In the World Tree cosmology, they could be found in the divine realm of Winter's Hall.
+
+On the Prime Material plane, they were often encountered on the River Ith in Tethyr, living alongside many other water-based monsters.
+
+Languages
+Those that were intelligent enough spoke their own para-elemental language, as well as Aquan and Auran.
+Relationships
+Whilst a good deal of ice para-elementals served in the grand army of Cryonax, most of them ignored his evil biddings and preferred to remain neutral and devoted purely to coldness. Beyond Cryonax, these para-elementals were known to act as servants of the frost goddess Auril.
+Summoning
+High ranking Icepriestesses, specialty priests in the Church of Auril, were capable of conjuring ice para-elementals once per tenday, in a manner similar to the spell conjure fire elemental. The more powerful among them were capable of summoning them more than once. A magical tome of their faith, the Codicil of White, also featured a ritual for summoning them.
+Usages
+Enchanted projectiles known as ice bullets could be carved from their bodies.
+
+Notable
+ Permafrost.
+ Zzutam, an ice para-elemental who was somewhat influential in north Faerûn in 1369 DR, their actions contributing to the Fall of Zhentil Keep.
+
+Appendix
+Notes
+
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Ice cream
+
+Ice cream was an uncommon variety of frozen dairy dish served as a last kiss of a meal or a smallbite dessert.
+
+Description
+Typically made with eggs, sugar, and cream, making ice cream was a long process. Egg whites were whipped with sugar until they achieved a stiff-peak consistency, then the same was done with cream, and the two mixtures were carefully folded into each other and left to freeze.
+
+Some cooks who were blessed with the Gift could use such spells as ray of frost to chill and freeze the ice cream mixture into the cold dessert form. Others could use ice-boxes or freezing temperatures and snow outside.
+
+Availability
+ Rab's Riotously Intense Ice Cream was a unique garlic ice cream recipe created by Rab Bitnez, a garlic fanatic from the town of Liam's Hold in the late 14 century DR.
+ Vanilla ice cream was a delectable treat available from the Golden Goblet Inn in the town of Mossbridges in the Vast, imported from the magically controlled winter Resort.
+ Griffon Gravel was a variety of ice cream that was similar to the ice cream called "rocky road" on other worlds, found in the city of Ravens Bluff.
+ Ice cream was also available on Earth, where it was purchased by Ed Greenwood (especially butter pecan ice cream), whose fridge and pantry was raided by Elminster, Mordenkainen, Rautheene, and Dalamar of Krynn on occasion. During such visits, Elminster introduced his magely companions to Earth's root beer floats.
+
+Appendix
+See Also
+Watermelon sorbet
+Appearances
+
+References
+
+---
+
+## Icepeak (Oman's Isle)
+
+The Icepeak was a beautiful spire and the highest mountain on the Oman's Isle of the Moonshae Isles. In clear weather, it was visible from the Strait of Oman, aweing ships traveling from Callidyrr to Corwell.
+
+Description
+The Icepeak was a picturesque spire located in the Grampalt Highlands mountain range, amidst its groves, in the south of Oman's Isle. The mountain's summit was covered in snow and ice year-round.
+
+History
+According to the legends, the Capstone of Oman's Isle – The Icepeak, was claimed to have been the birthplace of the giant clans and the firbolgs on the Moonshaes. It was also the ancient home of the Forger of Giants, encased in ice.
+
+In the, the Northmen tribes signed the Treaty of Oman, under the spire of the Icepeak.
+
+In the, Garisa, the firbolg shaman wife to Klatnaught, sought to travel to the Capstone of Oman's Isle bearing the Silverhaft Axe to free the legendary Forger of Giants from the ice in the mountain's pristine summit.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Iceroot Forest
+
+The Iceroot Forest lay in the far north of the Hordelands between the Shadowmount Peaks and the great Horse Plains.
+
+Description
+The Iceroot Forest was a dry forest consisting mostly of birch, elm, and larch trees. It teemed with life of all sorts, and where the trees made way for small clearings, willows, brush, and berry bushes sprung up from the fertile earth. Small rivers ran from the peaks down into the land, feeding a constant stream of nourishment into the land, until, at the very end of the woods, the waterways would run out and peter into the great plains.This is general information about forests in the Hordelands; it is presumed to apply to the Iceroot Forest as well, but this is not necessarily the case.
+
+Geography
+The forest lay protected from the harsh storms of the Yal Tengri by the Shadowmount Peaks to the north, sheltering and nourishing this important source of lumber for the tribes.
+
+Flora & Fauna
+While no orcs lived in these woods, their bakemono and hobgoblin kin did, establishing raiding sites from which to launch out into the Horse Plains for plunder.
+
+Likewise, both yu lung and chiang lung dragons lived in the rich waterways of the forest, living off the many types of beasts that inhabited this great forest, including monstrous centipedes and giant water spiders.
+
+During wintertime, kala, giant lynxes, and winter wolves became active and roamed the woodlands.
+
+Inhabitants
+The nomadic Gur people lived in and around the Iceroot Forest, and the nearby plains.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Ice weird
+
+Ice weirds were a frozen and crystalline variety of elemental weirds, elemental creatures from the Elemental Plane of Water who possessed an uncanny ability to prognosticate future events, outcomes of various struggles between law and chaos, and esoteric arcane knowledge. Some sages erroneously identified them as fey.
+
+Description
+Ice weirds were elementals composed of clear ice and shaped to resemble a large and statuesque beautiful woman. Their eyes were lit with flame and their bodies were wrapped in evaporating vapors. Their lower bodies were columns of ice that merged into the large bodies of ice underneath.
+
+Personality
+Ice weirds were creatures of keen intelligence, who lived in constant fear of melting and disappearing. This fear coupled with their intelligence made ice weirds unerring predictors.
+
+Abilities
+They possessed darkvision and heat sense within . As elementals, ice weirds were completely immune to poison, sleep, paralysis, and being stunned. They could not be flanked nor had any weak spots vulnerable to lucky and deadly attacks, could not be raised, resurrected, nor reincarnated. An ice weird constantly regenerated any damage sustained, however, fire and head made them vulnerable.
+
+They also possessed impressive spellcasting abilities. They could produce divine spells from the chaor, cold, and law domains and had access to sorcerous spells of up to the 9 circle of magic. Some of the arcane spells in their hands were: mass hold monster, polar ray, dictum, dream, feeblemind, solid fog, wall of ice, and whispering wind among many others.
+
+Combat
+Unless they or their elemental ice home were threatened, ice weirds did not engage in combat. Their physical attacks left freeze burns on the targets. Otherwise, ice weirds could summon powerful water elementals from the pools of elemental ice they dwelt in with the magical power of the summon monster IX spell. They also could control any and all ice or water elemental creatures within . Once the control was established, it could only be ended with the elementals' or the weird's deaths.
+
+Ecology
+Their habitats were locations of utter cold, such as glaciers, icebergs, or special ensorcelled chambers that kept the temperatures frigid. When they were not kept by wizards venerating law or chaos to be used for their prognostication, ice weirds were found living a solitary life, in couples or in small charms of three of four individuals. In the wild, their homes were pools of elemental ice that the weirds fully controlled. Any unwanted creature that entered such a pool was instantly and irrevocably transformed into ice.
+
+Weirds spoke Aquan, Auran, Common, and their own language, and used tongues magic to communicate with others.
+
+Notable Ice Weirds
+Assyntia, an ice weird who dwelt in a frozen lake in the Reghed Glacier, targeted by Jaluth Alaerth, the Overwizard of the North, wanting to usurp the godly power of Arctus the Walking Winter in 1373 DR.
+
+Appendix
+See Also
+ Snow weird
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Icehand
+
+Icehand was a frost giant working for Exeter during the latter's vengeance upon Wemick and the Nellie Thursday Home for Experienced Adventurers retirement home.
+
+Personality
+He was a brute who fought for money, but would assault innocent bystanders who passed him by.
+
+Possessions
+He owned a huge enchanted battleaxe +1.
+
+History
+He would duel Ratha Rann and attempt to slay the ranger.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Icewind Enchantments
+
+Icewind Enchantments was a magic shop located in the town of Targos in Icewind Dale and run by Silvenius Crim in the late 14 century DR.
+
+Location
+Icewind Enchantments was a shop located in a two-story building in or near Targos's market square.
+
+Services
+The business carried a wide variety of magic items, including jewelry, clothing, potions, books, spell scrolls, and various wizardly supplies.
+
+History
+The Icewind Enchantments shop was opened in late 1372 DR or early 1373 DR, soon after the Neverwinter–Luskan War, by Silvenius Crim. The mage was sent away from the Host Tower of the Arcane to the town of Targos to open a shop and seek "economic opportunities." Despite Silvenius's disdain for the backwater settlement and its poor inhabitants, he welcomed the distance away from his superiors and freedom to pursue his magic research. In the, Silvenius Crim performed a dangerous summoning ritual using rare materials provided to him by Luskan. He summoned a snow weird from the Elemental Plane of Air into a summoning circle in the shop to question her about the danger looming over Icewind Dale, but the questioning turned into a battle. Silvenius Crim and his shop survived thanks to the Hero of Neverwinter.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ice Reaver
+
+Ice Reavers were a variety of enchanted handaxes created on the Sword Coast North in the late 14 century DR and originated from the barbarian tribes of Icewind Dale.
+
+Powers
+There existed three variants of Ice Reavers, with a +1, +3, and +8 enchantments that made the axe's edge deadlier and guided the wielder's hand towards the target. All three variants dealt damage with gravely cold with each swing and protected the wielder from the cold.
+
+Stonefire axes could be created from an enchanted handaxe and some dragon's blood.
+
+History
+Ice Reavers were originally wielded by Uthgardt barbarians of Icewind Dale. One story about these weapons talked about a powerful gang of fire giants that was lost in the northern tundra and how easily the Uthgardt warriors dispatched of them with their Ice Reaver axes. The warriors recovered a great sum of money from the slain giants, and, to commemorate the victory, the tribe's chieftain had more powerful Ice Reavers crafted. Subsequently, most of these axes mysteriously disappeared from the tribe's hands, and occasionally, a young warrior would get dispatch on a quest to retrieve one of these legendary weapons.
+
+Ice Reavers with a simpler +1 enchantment were forged by Master Blacksmith Marrok of Shining Knight Arms and Armor shop of Neverwinter to help the heroes who sought the cure from the dreaded Wailing Death of the . Later the same year, more powerful versions were created by Master Blacksmith Barun of Beorunna's Well to help the forces of Neverwinter stand against Lady Aribeth the Betrayer, who led a marching army of Luskan in the deadly but short-lived Neverwinter-Luskan war.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Icerazor
+
+Icerazor was a powerful magical sickle used by House Avithoul in the late 15 century DR.
+
+Powers
+Icerazor's blade was made of magical ice, and it imparted a deadly chill to whatever it hit. It empowered the freezing spells of the wielder and could itself freeze the target solid with a single blow.
+
+History
+The sickle was held by the drow slavemaster Banister Avithoul during the Sschindylryn invasion of Eveningstar. When Cormyr sent a team to sabotage the drow operations, they may have found Icerazor among the spoils.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Ice Chain
+
+The Ice Chain was a slaving company based in Calimshan in the 14 century DR. It was a subsidiary of the Rundeen mercantile organization.
+
+History
+The Ice Chain was once commanded by a man named el Bhiras with a frost brand weapon.Although not stated in the source, it seems likely that the company was named for the weapon, or the weapon for the company. He took his fourteen-year-old son, Saibhon el Bhiras, into the company and taught him about the business and the operations of both slave-raiding parties on land and slave ships at sea.
+
+Then, when Shadi'ar nomads killed el Bhiras with an arrow in the Land of the Lions, the grieving Saibhon seized his father's frost brand weapon and battled the senior slavers over control of the company. He gained the support of the younger slavers over the following months, which guaranteed that he could retain command of the Ice Chain.
+
+Saibhon proved very competent as a slaver, always judging correctly which slaves would survive until they arrived at the markets in Calimshan and appraising slaves for strength or beauty. He was also generous to his employees. In time, a number of the senior slavers decided to retire, so Saibhon bought each of them a festhall business in Calimshan using his own coin, whilst retaining a 30% share in these businesses.
+
+His ambition and talent were recognized by the Rundeen in the, when the First Yrshelem of Slaving appointed Saibhon as his replacement. Saibhon accepted and gave control of the Ice Chain to his best friend, though again he retained a 30% share.
+
+Appendix
+Notes
+
+References
 
 ---
 

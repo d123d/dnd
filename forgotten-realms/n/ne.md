@@ -608,6 +608,88 @@ de:Neverwinter Nights (BioWare)
 
 ---
 
+## Neutral good
+
+Neutral good characters desired good without bias for or against order.In 4th edition mechanics for Dungeons & Dragons neutral good is found under the umbrella of the good alignment.
+
+They did good for goodness' sake, rather than being directed to by law or by whim. Such characters would obey the law or break it when they felt it would serve a greater good. They weren't bound strongly to any particular social system or order. Their need to help others and reduce suffering took precedence over all else.
+
+A healer who treated both sides of a fight and somebody who fed the starving in a war zone were both examples of neutral good characters.
+
+Opposing alignment
+Neutral good characters exhibited benevolence without reason. Those of neutral evil exhibited  pure selfish pragmatism. These alignments were in opposition to one another.
+
+Appendix
+ See Also
+ Creatures of neutral good alignment
+ Inhabitants of neutral good alignment
+ Neutral good deities
+
+Notes
+
+References
+
+---
+
+## Neutral
+
+The neutral alignment, sometimes known as true neutral, was an alignment that did not include prejudice or compulsion. Those of such an alignment either disregard any commitment to good, evil, law and chaos, or believe a balance is needed between these forces in the world.In 4th edition mechanics for Dungeons & Dragons, neutral is found under the umbrella of the unaligned alignment.
+
+Neutrality
+A neutral person did what seems to be natural to them, without strong feelings with regard to good versus evil or order versus chaos. They were not personally committed to upholding good in any abstract or universal way.
+
+Being neutral was the most common alignment of sentient creatures of Faerûn and beyond, as well as the alignment of almost all animals and other creatures of very low intelligence.
+
+Several deities that had influence over Realmspace were of purely neutral alignment. Many of these divine powers focused on either nature or scholarly pursuits. Some examples were Silvanus, Oghma, and Dumathoin.
+
+True Neutrality
+Some that were said to be neutral committed themselves philosophically to neutrality. They were of the true neutral alignment. They saw good, evil, law and chaos as dangerous, extreme prejudices. They advocated balanced life, carefully maintaining neutrality in the long run. Such people sometimes went so far as to dedicate their lives to making sure that no extreme of any alignment gained an upper hand over the others, seeking to maintain a Cosmic Balance.
+
+Some of such an alignment, particularly druids, actively supported balance in the world, and sought to avoid being either evil or good. They did not wish that one side would become more powerful over them or anyone else, and would work against whichever side was the most powerful. Those of neutral alignment tended to side with the underdog in any situation, and they were often opportunistic in their actions.
+
+Druids
+Nearly all druids were true neutral. This alignment is central to the philosophy of balance that druids seek. Those that druids sought to protect plants, animals, and the ecological health of Toril, essentially lacked alignment or ethos, and felt free to use almost any means in their protection.
+
+Druidic orders often worked to maintain the natural balance among the alignments. However, many druids realized that most individuals' actions (including their own) will prove significant to the cosmic balance. Druids saw the friction between alignments as the driving force in the world.
+
+Some druidic spells of the Realms, such as word of balance, were able to paralyze or even kill those who were not of neutral alignment.
+
+Appendix
+See Also
+
+Creatures of neutral alignment
+Inhabitants of neutral alignment
+Deities of neutral alignment
+
+Notes
+
+References
+
+---
+
+## Neutral evil
+
+The neutral evil alignment is pure pragmatism without honor and without variation - survival of the ruthless. In 4th edition mechanics for Dungeons & Dragons neutral evil is found under the umbrella of the evil alignment. Neutral evil characters do whatever they can get away with and are completely out for themselves. They show no remorse for those they kill, and have no love of order or law.
+
+They hold no illusion that following laws or traditions would make them better people. On the other hand, they do not seek out conflict and strife like those of the chaotic evil alignment. Yet, some villains of this alignment hold up evil as an ideal and commit malevolent acts for the sake of it, often in service of evil deities or secret societies.
+
+Career criminals, particularly those who harm others for money, such as killers for hire, are the most clear example of neutral evil.
+
+Opposing alignment
+Characters of neutral evil alignment are concerned with getting ahead in life and look out only for themselves. Neutral good characters perform kind deeds without other biases or mitigating factors. These alignments are in direct opposition with one another.
+
+Appendix
+See also
+Creatures of neutral evil alignment
+Inhabitants of neutral evil alignment
+Neutral evil deities
+
+Notes
+
+References
+
+---
+
 ## Neverwinter Nights 2
 
 Neverwinter Nights 2 is a computer role-playing game developed by Obsidian Entertainment and published by Atari. It is the sequel to BioWare's Neverwinter Nights (NWN). Where NWN was based on the Dungeons & Dragons 3rd edition rules, NWN2 is based on Dungeons & Dragons 3.5 edition rules (also known as the Revised 3rd Edition), changed to adapt to real-time gameplay.
@@ -829,6 +911,334 @@ Connections
 
 ---
 
+## Neeshka
+
+Neeshka was a devil-descended tiefling rogue who journeyed with the Kalach-Cha during the hero's quest to defeat the King of Shadows.
+
+Description
+
+Neeshka, like many tieflings, was vaguely human in appearance, though her fiendish ancestry was also immediately obvious. Reddish-brown speckles marked the sides of her head near her ears and two small horns brushed aside her coppery hair. A long, spiked tail also marked her fiendish heritage, which she often waved about. Like many tieflings, Neeshka was also impulsive, yet another mark of her otherwordly ancestors.
+
+Personality
+Neeshka had a relatively timid and defensive demeanor, often wary because of the stigma associated with tieflings. She particularly responded favorably to any kindness or support given to her, and often only showed courage if backed by friends such as the Kalach-Cha. Towards males she was interested in, she was particularly territorial at times, and she would have likely shown great animosity and jealousy towards Elanee and Shandra Jerro were the Kalach-Cha male, particularly when they first joined the party. True to her tiefling nature, she was often impulsively stealing, almost to the point of kleptomania. She frequently swiped goods from others, checking companions' pockets, and often would admit to it casually in conversation. She distrusted the Neverwinter city watch, though would still be supportive if the Kalach-Cha joined them, while still encouraging the hero to bend the rules (such as with smuggled weapons).
+
+History
+Neeshka's parents are unknown, though at least one of them must have had some degree of fiendish background. When she was an infant, Neeshka was abandoned to and raised by priests of Helm. The priests took care of her but spent much of their time trying to convert her, which irritated Neeshka. Their efforts were in vain and Neeshka always managed to get herself into trouble. She decided to leave the priests after a "particularly moving" sermon, but not before stealing a full collection plate.
+
+Life in Neverwinter
+Neeshka eventually made her way to Neverwinter and set herself up as a professional thief, taking on Leldon as a partner. During a particularly lucrative heist, Neeshka singlehandedly got past patrolling guards and defeated the trap on the vault they were robbing. Afterwards, however, when they were dividing up the loot, Leldon demanded a larger share. Since Leldon had failed to properly plan the heist, Neeshka naturally refused. In response, Leldon called in his hired thugs to threaten the money out of her. With no other choice, Neeshka gave up everything she had, but shortly after stole it all back from him before leaving the gang entirely.
+
+Furious, Leldon put a bounty on Neeshka's head, and the rogue escaped Neverwinter before the thugs could catch up with her. What happened to the money from the heist is unknown. Neeshka later explained it as "expenses... and stuff". By the time she met the Kalach-Cha, however, most if not all of the funds had appeared to run dry.
+
+The Shadow War
+The Kalach-Cha first encountered Neeshka on their way to Fort Locke, where she was being harassed by soldiers for her heritage. One way or another, the Kalach-Cha became involved and rescued Neeshka from the guards, who decided thereafter it would be safer with the hero given the prejudices many locals had towards tieflings. The Kalach-Cha accepted Neeshka as a companion despite Khelgar's protests about letting a "no-good backstabbing tiefling" travel with them. Neeshka was similarly distrusting towards the dwarf, at least at first, though gradually both characters became close, often bickering like brother and sister.
+
+Eventually Neeshka followed the Kalach-Cha all the way back to Neverwinter, where she was greeted by Bennon and then later Tremmel, the thugs working for Leldon who threatened her before she left the city. It became quickly apparent that Leldon still held a grudge towards Neeshka for robbing him blind and had not canceled the bounty. The threat posed by the thugs would continue and Neeshka might have convinced the Kalach-Cha to help her defeat Leldon, first by stealing his lucky coin, which was, in fact, Neeshka's lucky coin stolen from her when Leldon first betrayed her and which she never won back. If this happened, Neeshka would have likely been forced into a direct confrontation with Leldon and possibly a competition for the title of "greatest thief in Neverwinter" by seeing who could rob a famous art collector, called simply "the Collector", first. A continued competition between the two thieves could have led to Leldon's death.
+
+Neeshka followed the Kalach-Cha through the rest of the hero's quest, but as they approached the King of Shadows Neeshka was forcibly taken by Black Garius and tortured. He tried to turn her against the Kalach-Cha by using some sort of binding ritual that was effective because of her devil blood. Depending on how close the Kalach-Cha and Neeshka were, the ploy might have worked, or it might have failed. Regardless, Garius and the King of Shadows were defeated and if Neeshka survived she would have likely joined Khelgar in searching for the Kalach-Cha, who disappeared shortly after the battle. When the Kalach-Cha returned from Rashemen, they would have reunited with their old friends, which might have included Neeshka.
+
+Appendix
+Behind the Scenes
+In Neverwinter Nights 2, Neeshka was originally slated to be voiced by Naomi Peters, and a few examples of her dialogue can still be found in gameplay videos from pre-release media coverage. However, sometime during development, Obsidian Entertainment chose to change Neeshka's voice actor, deciding it wasn't what they were looking for, and hired Robyn Kramer to revoice all of the character's dialogue. This caused some confusion and led to Peters being erroneously credited on several websites, such as IMDb.
+
+It is also widely believed, and partially confirmed by developer comments, that Neeshka was originally intended as a romance option for male PCs (the Kalach-Cha). The evidence for this is Neeshka's extremely jealous attitudes towards Shandra and Elanee if the PC is male as well as her constant pseudo-flirtations and appeals for approval. However, this was cut due to time constraints, as was a great deal more, though many of Neeshka's quests remained implemented.
+
+Other examples of cut content include a few cut quests. Besides Bennon and Tremmel, Neeshka was intended to encounter a third member of her old gang, Raines. Allegedly psychopathic, Raines threatened in the cut dialogue to cut Neeshka's tail off and strangle her with it.
+
+Neeshka also appears in Storm of Zehir as a summonable creature for the summon baatezu spell. However, the canonicity of this is in dispute since no other tieflings are summoned by the spell nor is character interaction possible with her. It is considered by several fans to therefore be a non-canon easter egg.
+
+Lineage
+There is much debate and speculation when it comes to Neeshka's heritage. It is known that Neeshka is only one-quarter fiend, and that it was her grandfather that was the pure-blooded fiend that started her family. A lot of subtle hints are dropped that indicate she may be descended from a very powerful lineage. One of the reasons why Garius's binding was effective on her, even if her blood was diluted, was because of the strong lineage she descended from.
+
+Upon entering Ammon Jerro's haven, many of the demons and devils bound there remark on her unique heritage. One of them points out that she has baatezu scent about her. One of them also points out that a relative of hers may also be trapped within the haven, "perhaps a long-lost father'. Of all the fiends the PC encounters throughout the quest, only Mephasm, a pit fiend in disguise as an eladrin, seems to show any special interest in her and refers to her as "little Neeshka". For some reason Neeshka seems to get an allergic reaction whenever Mephasm is near, much like the reaction she got when she stood too close to Casavir. It has been confirmed by the developers (and the dialogue files) that Mephasm did have a role in Neeshka's creation, but what that role was has not yet been revealed and it was another element ultimately cut from production.
+
+Appearances
+
+Gallery
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Netherese
+
+The Netherese, also known as the Neth, were an ethnic group of dark-haired, fair-skinned humans that resided in the ancient magocratic nation of Netheril. Many cultures and ethnic groups in Faerûn were either descendants or absorbed into the Netherese people, such as the Shadovar, the Halruaans, the Bedine, and the Illuskans, among others. Only a few select groups of pure-blood Netherese still existed on Toril as of the 14 century DR, over a thousand years after the fall of the great Empire of Magic.
+
+The Netherese had always lived in a hierarchical magocracy that was separated into the flying enclaves of High Netheril and the cities of Low Netheril located around the Narrow Sea. While the people shared a common script of draconic alphabet, the people of Low Netheril spoke Netherese while the nobles of High Netheril spoke Loross. The reason for two languages was due to separation of the classes.
+
+History
+Following the fall of the High Netheril in the 4 century before Dale Reckoning, the survivors of three cities of High Netheril, Anauria, Asram, and Hlondath, along with the commoners of Low Netheril spread out from northern Faerûn across the rest of the realms. The enclave of Thultanthar managed to survive the cataclysmic destruction by magically shifting into the Shadowfell.
+
+High Netherese
+As the "Netherese survivor states" continually fell to external forces, Anauria in 111 DR and Hlondath in 329 DR, the last-living people of High Netheril migrated south into what would be Cormyr and east into the Moonsea region. They were absorbed into the burgeoning Chondathan and Vaasan ethnic groups of humans.
+
+Low Netherese
+The people of Low Netheril, referred to as the free folk, mostly endured Karsus's Folly but had their essence and life force drained by the Phaerimm. Sometime around the mid-5 century DR they began migrating westward, fracturing into two groups in the process. One group moved northwest to the Savage Frontier and merged with the Illuskan people, while the others went southwest into the Western Heartlands where coalesced with the native Tethyrian tribes.
+
+Pureblood Netherese
+As of the 14 century, only four groups of pureblood Netherese humans were known to exist on Faerûn.
+
+ Marsh Drovers of the Farsea Marshes in Cormyr were believed to be descended from the people of Anauria who never integrated with the Chondathan population.
+ The barbarians of the Tunlands were descendants of the Rengarth tribe, cousins of the commoners of Low Netheril.
+ There was a tribe of nomadic barbarians in the Ride, north of the Moonsea, whose distant ancestry could be traced back to Low Netheril.
+ The Netherese of Thultanthar survived for over a thousand years in the plane of Shadow, and came to be known as the Shadovar.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Neverwinter Nights: Shadows of Undrentide
+
+Neverwinter Nights: Shadows of Undrentide is an expansion pack for Neverwinter Nights produced by Floodgate Entertainment and published by Infogrames Entertainment (now Atari). It was released in June 2003.
+
+Story
+Chapter One
+In the small village of Hilltop located in the Silver Marches, the apprentice of the dwarven wizard Drogan studies alongside his fellow apprentices Xanos Messarmos, Dorna Trapspringer, and Mischa Waymeet. However, the peaceful studies would not continue, as a group of kobolds raid the village. Drogan was left poisoned and barely alive, and certain valuable artifacts were stolen from his laboratory.
+
+Soon after the attack, Ayala (an elven Harper) arrives and uses her magic to sustain Drogan. She then reveals that she and Drogan are members of the Harper order and that Drogan was assigned by the Harpers to guard four magical artifacts: the mummified hand of a dead lich, the tooth of a dragon, a mask which once belonged to a high priest of the Lord of Shadows, and a statue of a tower that was found in a desert tomb. Being Drogan's favorite apprentice, he places his student in charge of recovering the artifacts.
+
+As the search progresses, it is discovered that a mage named J'Nah desires to collect the artifacts on behalf of a mysterious hooded woman whom she serves. She had originally been in alliance with a dragon named Tymofarrar, who led the kobolds, desiring all of the artifacts, she had her gnolls attack the kobolds after they had left Hilltop in order to try to take all of the artifacts for herself. Upon the collection of all four artifacts, it is discovered that the tower statue, which was believed to be the least powerful of the artifacts, actually contains a crystal of tremendous magical power. Drogan, who has by now recovered from the effects of the poison, requests that the hero visit an archeologist named Garrick who is investigating some Netherese ruins in the Anauroch, believing that he may be able to identify the crystal.
+
+Interlude
+
+Upon Drogan's request, his student sets out across Anauroch with a halfling caravan on the way to an encampment of Ao worshipers at which Garrick is located. Upon meeting up with Garrick and showing him the crystal, Garrick reveals that it is a mythallar, a crystal containing incredible magical energy akin to those that were used by the mages of the Netheril to levitate their flying cities. He also mentions that he and a party of fellow archeologists were exploring some ruins to the north located in a certain Valley of the Winds when they were attacked by a mysterious hooded woman who led a horde of demonic creatures who was trying to open some kind of portal. The student takes this woman to be the master of J'Nah. After entering these ruins, the student sees this woman travel through a portal which disappears soon after. At this point, Drogan uses magic to teleport to the student's side and aids in reactivating the portal. After the portal is reactivated, it is discovered that the woman had placed some kind of trap on it which causes the ruins to begin to collapse when triggered. Drogan uses a magical shield to sustain the weight of the collapsing ruins long enough for the student to enter the portal, but Drogan himself is crushed soon afterwards.
+
+After passing through the portal, the student emerges back in the desert and pursues the hooded woman to another area of ruins. Upon confronting her, she removes her hood, revealing herself to be a medusa and uses the medusa's petrifying gaze to turn them to stone. While the student is in this state, the medusa takes the mythallar from them and identifies herself as a powerful sorceress by the name of Heurodis, and claims to have sought the mythallar so that she could use its power to raise the ancient Netherese flying city of Undrentide, the ruins of which she is located on, and use it to gain power over Faerûn.
+
+Chapter Two
+The student returns to their normal form after Ashtara, an Asabi merchant and slaver who is searching the ruins of Undrentide for treasure, uses a magical potion to restore them. He afterwards clamps a magical collar around the hero's neck with which he can force them to do his bidding by sending electrical charges through the collar. Upon destroying the city's guardian golems who were preventing Ashtara's slaves from their search for treasure, Ashtara frees the hero, allowing them to search the ruins for Heurodis, who at this moment is in the process of completing a ritual which will restore Undrentide to the skies. It is discovered that she is atop a certain Tower of the Winds located in the center of the city and has used a magical force field to prevent anyone from entering the tower. By using three magical artifacts, the Wise Wind, the Dark Wind, and the Death Wind, known collectively as the Three Winds, the force field can be broken, however. Upon the hero collecting these artifacts, opening the force field, and climbing the tower, Heurodis has already succeeded in raising the flying city. The hero ascends to the top of the city, where they find that Heurodis, who is now a lich, has set up a circle of crystals through which the power of the mythallar flows in order to keep the city in the air. In the ensuing battle, one of the crystals is destroyed just as the mythallar's energy is passing through it, causing the energy to escape and the city to plummet. Knowing that as a lich, Heurodis might be able to survive the fall, the hero kills her with his/her own hands, and afterwards uses a magical mirror which was found within Undrentide to escape to the Demiplane of Shadow and avoid impending death.
+
+Gameplay
+The expansion scenario pack adds a new campaign and new features including five prestige classes: arcane archer, assassin, blackguard, Harper scout, and shadowdancer; new creatures, feats, and spells, and other nuances such as allowing the player to access and modify their henchman's inventory. The Windows version also included scripting options for the Aurora toolset.
+
+Index
+Characters
+Main Drogan Droganson's pupil
+Companions Deekin Scalesinger • Dorna Trapspringer • Xanos Messarmos
+Foes Heurodis
+Allies Ayala Windspear
+Other Adam Blake • Arzig • Becka Hurst • Bethsheva • Birgen • Daschnaya • Farghan • Ferran Valiantheart • Fiona • Furten • Gilford • Gishnak • Glendir • Haniah Dales • Hurc • Isande • J'Nah • Karsus • Katriana Dorovnia • Kipper • Klonk • Klumph • Lodar • Mara • Nafeeli • Nathan Hurst • Nilmaldor • Nora Blake • Piper • Riisi • Rumgut • Szaren • Toli Hurst • Toman Bross • Torias • Tynan Blake • Urko • Veraunt Shuttlescomb • Yazka
+
+Belpheron • Dmitra Flass • Eliak • Garg • Henna (druid) • Hephaestagon • Hol Halstrom • Jer • Kilrav Klugehose • Mung • Nashekk • Regis • Tymofarrar
+
+Creatures
+asabi • badger • bat • battle horror • bear (black, brown, cave, grizzly, polar) • boar • chicken • cow • crag cat • deer (shadow hart) • dog • elemental (water) • faerie dragon • formian • gnoll • goblin • golem • hill giant • kobold • lich • manticore • medusa • mephit (earth, water) • minogon • ogre • orc • ox • rat (dire) • shield guardian • skeleton • sphinx • stinger • wolf (winter) • white dragon • white stag • worg • zombie
+
+asp • tressym • troll
+
+Locations
+Buildings & Sites Undrentide
+Inns & Tavers The Bubbling Cauldron
+Settlements Blumberg • Hilltop
+Wilderness High Forest • Nether Mountains • Oasis of the Green Palm • Rauvin Vale • Valley of Winds
+Regions Anauroch • Silver Marches
+Planes Material Plane • Plane of Shadow
+
+Amn • Ascalhorn • Cormyr • Eltabbar • Great Glacier • Longsaddle • Moonwood • Neverwinter • Neverwinter Wood • Silverymoon • Thay • Zhentil Keep
+
+Magic
+Magic items amulet of undead turning •  Arvoreen's amulet of aid • Beholder Crown • Breath of the Maiden • cape of the fire bath • cape of winter • censer of controlling air elementals • cloak of Black Flame • cloak of resistance • deck of hazards • Eliak's Vengeance • Eyes of Doom • Eyes of the Eagle • gem of brightness • giant's bane • gloves of appraisal • gloves of the balanced hands • gloves of the artificer • golden chalice of Lathander • goggles of minute seeing • headband of the Binder • Heart of Neely • Ice Grinder • Janthra's harp • Katana of the North • Kilrav's Ring • Kossuth's belt of priestly might and warding • lantern of revealing • lens of detection • lesser ice necklace of the Ulutiun • monk's belt • Mystra's Hand • mystran belt of priestly might and warding • ring of force shield • ring of improved evasion • robe of energy • shar's belt of priestly might and warding • Skin of the Forest • Valiantheart Longbow • The Wanderer's ring • wand of arcane disjunction
+
+Spells acid splash • amplify • aura of glory • Balagarn's iron horn • bane • banishment • Bigby's clenched fist • Bigby's crushing hand • Bigby's forceful hand • Bigby's grasping hand • Bigby's interposing hand • blood frenzy • camouflage • continual flame • dirge • displacement • divine favor • drown • earthquake • electric jolt • entropic shield • expeditious retreat • firebrand • flare • greater magic fang • greater sanctuary • gust of wind • inferno • inflict critical wounds • inflict light wounds • inflict minor wounds • inflict moderate wounds • inflict serious wounds • Isaac's greater missile storm • Isaac's lesser missile storm • magic fang • mass camouflage • one with the land • owl's insight • planar ally • quillfire • shield • shield of faith • spike growth • sunburst • Tasha's hideous laughter • true strike • undeath's eternal foe • wounding whispers
+Other elixir of Horus-Re • holy water
+
+Organizations
+Bedine tribes • Church of Ao • Church of Lathander • Dripping Fang • Harper • Ice Hound • Red Wizards of Thay
+
+Grey Ash Order of Thieves • Harpell • Purple Dragons • Ulutiun
+
+Religions
+Ilmater • Mystra
+
+Chauntea • Corellon • Cyric • Mask • Shar • Vergadain
+
+Miscellaneous
+Books 101 Tales of Adventure • Influential Sorcerers Through the Ages
+Languages Common • Goblin • Netherese
+Other caltrop • choking powder
+
+Reception
+Shadows of Undrentide received mainly positive reviews. GameSpot referred to it as "not the most memorable RPG with BioWare's name on it, but it's got plenty of good, new content to satisfy most any Neverwinter Nights fan", and praised it for the quality of its campaign.http://www.gamespot.com/pc/rpg/neverwinternightssou/review.html
+
+Appendix
+See Also
+ Neverwinter Nights: Hordes of the Underdark
+Further Reading
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Negative energy protection (armor quality)
+
+Negative energy protection was a quality that could be applied to armor.
+
+Powers
+The wearer of negative energy protection armor was granted the effects of the negative energy protection spell once per day for a period of around thirty seconds. This ability triggered the first occasion each day when they were struck by any form of negative energy.
+
+Creation
+Fittingly, the spell negative energy protection was used when bestowing this quality upon a suit of armor.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Netheril: Empire of Magic
+
+Netheril: Empire of Magic is a 2-edition Advanced Dungeons & Dragons boxed set for the Forgotten Realms.
+
+Description
+Netheril: Empire of Magic the ancient and powerful empire of Netheril. The boxed set was designed to provide Dungeon Masters and players with a detailed account of Netheril's rise, zenith, and eventual fall, along with resources to create adventures within this lost civilization.
+
+The boxed set contains two sourcebooks filled with historical narratives, descriptions of life in Netheril, and details on the empire's geography, politics, and society. These books also looked into the workings of the Netherese arcanists. The sourcebooks provide a look at the magical innovations and artifacts that defined Netheril, offering insight into the arcane forces that both empowered and doomed the empire.
+
+Netheril: Empire of Magic includes a series of adventure scenarios that allow players to engage directly with key events in Netheril's history. These adventures are designed to guide players through significant periods in the empire's timeline, from its ascension to its catastrophic fall, providing opportunities to interact with legendary figures and witness firsthand the consequences of unrestrained magical ambition.
+
+The boxed set also features detailed maps and charts that depict the empire's geography, including its famous floating cities. In addition, it covers the mythallars, massive magical artifacts, including the floating cities and powerful spells that defined the empire. The set provides rules and guidelines for incorporating mythallars and other Netherese magic into AD&D campaigns.
+
+Contents
+The Winds of Netheril
+ Netheril
+ The Campaign
+ Equipment
+ The Gods
+ Concordance
+ Karsus Enclave
+ NPCs
+ After The Hall
+ Encyclopedia Arcana
+Magical Items
+Spells
+
+Index
+Characters
+Aksa • Alimon • Anglin • Berthot • Brightfinger • Candlemas • Carbury • Chever • Chronomancer • Congenio Ioun • Cragh • Dace • Decampus • Dethed • Delzjhava • Efteran • Enollar • Fahren • Fjord • Fourfinger • Hamring • Halavar • Hersent • Ioulaum • Jarm • Karsus • Keonid • Kutson • Lefeber • Lucke • M'dhal • Matick • Nalevac • Niquie • Noanar • Nobrow • Oberon • Olostin • Pockall • Polaris • Polybeus • Primidon • Proctiv • Prug • Ptack • Quantoul • Raliteff • Sadebreth • Shadow • Shan • Smolyn • Stoca • Terraseer • Tipald • Tolodine • Toscudlo • Trebbe • Undine • Valdick • Vilate • Yong • Xanad • Yturn • Zahn • Volhm • Xanad
+
+Locations
+Rivers
+Bodensee River • Canton River • Conch River
+
+Organizations
+Greenhaven
+
+Gallery
+
+Credits
+The Winds of Netheril
+ Authors: slade with Jim Butler
+ Additional Design: Julia Martin and Cindi M. Rice
+ Editor: Jim Butler
+ Project Coordinator: Thomas M. Reid
+ Proofreaders: Eric L. Boyd, Steven Cox, Leonard McGillis, and Deneen Olsen
+ Cover Illustrator: Ciruelo Cabral
+ Interior Illustrators: Jesus Redondo
+ Graphic Designer: Dee Barnett
+ Typography: Tracey L. Isler
+ Cartography: Roy Boholst, David C. Sutherland III, Dee Barnett
+ Art Coordinator: Bob Galica
+ Prepress Coordinator: Dave Conant
+ Special Thanks to: Rich Baker, Ed Greenwood, Jon Pickens, Roger E. Moore, Steven Schend, and Skip Williams
+ Encyclopedia Arcana
+ Authors: slade with Jim Butler
+ Additional Design: Julia Martin
+ Editor: Jim Butler
+ Project Coordinator: Thomas M. Reid
+ Cover Illustrator: Alan Pollack
+ Interior Illustrators: Jesus Redondo
+ Typography: Tracey L. Isler
+ Graphic Designer: Dee Barnett
+ Art Coordinator: Bob Galica
+ Prepress Coordinator: Dave Conant
+ Special Thanks to: Ed Greenwood, Jon Pickens, Roger E. Moore, and Steven Schend
+
+Appendix
+See Also
+ Images from Netheril: Empire of Magic
+External Links
+
+ RPGGeek
+
+---
+
+## Nether the Elder
+
+Nether the Elder, also known as King Nether, was the shaman king of Gers, one of the seven towns whose coalition formed Netheril.
+
+Personality
+The shaman king was tyrannical and egotistical in his rule.
+
+Activities
+Nether was credited with developing the calendar that began measurement at the beginning of the coalition, and was referred to as "Netheril Years" or NY.
+
+History
+Nether the Elder was born in  in Gers of the soon-to-be Alliance of Seventon. He became the shaman king of Gers sometime before forming the Alliance of Seventon and created Nether's Calendar to celebrate the formation of the coalition.
+
+Death
+The shaman was assassinated by a poisoned dirk from an unknown killer, but Nether was succeeded by Nether the Younger.
+
+References
+
+---
+
+## New Dawn
+
+New Dawn was the name chosen for a proposed village, farming community, and temple of Lathander in the Hindhorn Hills, northwest of Secomber in the early 1370s DR.
+
+Due to the roaming wolves, gnolls, and orcs in the area, an offer of two dragons per day was made for anyone defending the project when it began. Its spokesperson was Harammas Malark.
+
+References
+
+---
+
+## Necromancy
+
+Necromancy, also referred to variously as the "Dark Art" or "the Dark School", was a school of magic whose spells manipulated the energies or power of death, unlife, and the life force that was in all living creatures. Such spells can grant an extra reserve of life force, drain the life energy from another creature, create the undead, or even bring the dead back to life. The necromancy school had no subschools, but had moral divisions: white, black, and grey. A wizard who specialized in the necromantic school was called a necromancer.
+
+Abilities
+Spells involving the undead made up a large portion of this school, including animate dead and finger of death.
+
+Practitioners
+Some practitioners were referred to as "white necromancers", individuals that used their powers to heal the living, ensure the dead were properly and permanently interred, and otherwise served to the betterment of society. They were typically found within the clergies of Jergal, Kelemvor, and Chauntea. Most "white necromancer" were publicly unknown due to the deep stereotype spread by "black necromancers" in history, therefore, these "white necromancers" have a "cover identity" and a job as a herbalist, gardener, or gravekeeper.
+
+Notable Necromancers
+ Aumvor the Undying
+ Kazerabet
+ Sammaster the Mad
+ Shoon VII
+ Sumulael
+ Szass Tam
+ Sofina
+ Velsharoon
+ Xzar
+ Ysuran Auondril
+ Zallanora Argentresses
+
+Appendix
+
+See Also
+
+References
+
+Connections
+
+de:Nekromantie
+
+---
+
 ## Nesmé
 
 Nesmé  was a small frontier city located in the Savage Frontier of northwest Faerûn.
@@ -931,6 +1341,101 @@ References
 
 de:Nesmé
 FR:Nesmé
+
+---
+
+## Nethmoun Aln
+
+Nethmoun Aln was a reclusive wizard who lived in a ramshackle hut on the east side of Scornubel.
+
+He protected his home with flying daggers, margoyle, and modified Evard's black tentacles spells. Nethmoun was a collector of rare spells. He sometimes sent his strikingly beautiful cook, or a projected image of her, out into the city to discover new spells or effects.
+
+Appendix
+References
+
+---
+
+## Nether Mountains
+
+The Nether Mountains were a chain of dark peaks that once marked the boundary between the ancient empires of Netheril and Delzoun.
+
+History
+Many travelers avoided these peaks, because several orc tribes laired in the region, such as the Thousand Fists and the Ripped Gut tribes who fought ferociously over the Moon Pass, a large gorge that split the mountains into its eastern and western ranges. Around 1372 DR, the orcs made an uneasy truce, making them an even greater threat to anyone traveling the region.
+
+Geography
+The greatest danger within these mountains were an entire clan of blue dragons known as the Morueme which resided in Morueme's Cave on the high slope of the mountain peak aptly named Dragondoom. The dragons' threat was only enhanced by the servitude of a large tribe of hobgoblins called the Red Flayers, who maintain the Doomspire, a citadel carved into the rock, and protect their masters with an almost deific reverence.
+
+Geographical features
+Mountains
+ Dalagar's Dagger
+ The highest peak in the northeast, also known as a dragons' graveyard.
+ Orcsblood Peak
+ Found just east of Dalagar's Dagger; the orc fortress Baraskur was located here.
+ Dragondoom
+ Located in the eastern end of the Nether Mountains; Morueme's Cave and the Doomspire were located here.
+ Ladypeak
+ Located at the westernmost end of the mountains.
+ Mount Ieldroun
+ One of the tallest mountains east from the Moon Pass.
+ Mount Thorog
+ The other of the two tallest mountains east from the Moon Pass.
+
+Caves and caverns
+ Morueme's Cave
+ Home of the Morueme clan of blue dragons.
+ Thousand Maws
+ Home to the Thousand Fists orc tribe.
+
+Valleys
+ High Thorog
+ A valley located between Mount Thorog and Mount Ieldroun.
+ Moon Pass
+ An ancient gorge through which the River Rauvin flowed splitting the eastern and western section of the Nether Mountains.
+ Silverymoon Pass
+ This pass separated the two sections of the western end.
+ Turnstone Pass
+ The pass which the road from Sundabar to Ascalhorn, but around 1372 DR, it was a wilderness area.
+
+Notable locations
+Settlements
+ Baraskur
+ A stronghold of caves containing the main settlement of the Ripped Gut orc tribe, found on the southern slopes of Orcsblood Peak.
+ Doomspire
+ A hobgoblin village guarding Morueme's Cave.
+ Rauvincross
+ A small village within the Moon Pass.
+ Hilltop
+ A tiny settlement located west of Ladypeak.
+
+Other locations
+ Lady's Hand Monastery
+ A temple dedicated to Loviatar on Ladypeak.
+ Telkoun's Tower
+ A wizard stronghold.
+ Tombs of Deckon Thar
+ Seven tombs named after the first bandit chieftain buried here.
+
+Inhabitants
+The peaks were also home to dozens of other dangerous monster species making them one of the most inhospitable wild regions in all Faerûn. There were even suggestions that portals or deepspawn were responsible for the amazing abundance of monsters roaming the higher slopes of the Nether Mountains. For those daring enough to brave the dangers, gold, silver, and copper could be mined in quantity. Finally, many adventurers hunted the mountains in search of the legends of lost caches of Netherese magic.
+
+Following the destruction of Hellgate Keep in 1369 DR, five tribes of displaced tanarukka began to wander these mountains, numbering over 1,200 in all.
+
+ Blood of Morueme
+ A clan of blue dragons that laired in the easternmost peaks.
+ Ripped Gut
+ An orc tribe which lived on the northern slopes.
+ Thousand Fists
+ The orc tribe who resided on the southern slopes.
+
+Appendix
+Appearances
+Video Games
+
+Baldur's Gate
+References
+
+FR:Montagnes Nétheres
+Other Sources
 
 ---
 
@@ -1044,6 +1549,281 @@ Connections
 
 ---
 
+## Neversfall (novel)
+
+Neversfall, by Ed Gentry, is the first novel of The Citadels series. It was released on November 27, 2007.
+
+Summary
+
+Appendix
+External links
+
+References
+
+---
+
+## Neverwinter Wood
+
+The Neverwinter Wood, previously called Llewyrrwood by the elves of Illefarn, was a dense forest located in the North. It possessed a sense of magic within it.
+
+Geography
+The Neverwinter River flowed down from Mount Hotenow through the Neverwinter Wood.
+
+Geographical Features
+
+The western region of the Neverwinter Wood was known as the Watcher's Forest, so named for its sacredness amongst the Helmite priests of the region. It was tended to by his devout followers that lived in Helm's Hold, and even held an entranceway into the subterranean Crypts of the Vigilant Eye.
+
+The Neverwinter River ran through an area of the forests. Notable hills and mountains within included Berun's Hill and the Crags, within which lay the famous Mount Hotenow.
+
+Flora & Fauna
+Abundant whitethistle shrubbery grew throughout the Neverwinter Wood. If consumed, the plant was known to give someone the runs. Shederran were a highly valuable species of trees found only within Neverwinter Wood. They were highly sought after for their use in crafting the highest quality bows and crossbows.
+
+History
+
+This forest was originally called Llewyrrwood by the elves of the region, and it came to be a colony for those fair folk of Illefarn. When Aryvandaar annexed both Illefarn and the Llewyrrwood in, many of the residents fled to Shantel Othreier. Some stayed for a century, living under the yoke of the Vyshantaar until the queen of the Llewyrr, Synnoria, led a large force of her people out of their lands and across the Trackless Sea to the Moonshae Isles, where they established the kingdom of Synnoria in her honor.
+
+The Llewyrrwood was occupied once more when the realm of Illefarn was reformed. Circa, the last Coronal of Illefarn, Syglaeth Audark, decided to take his people to Evermeet.
+
+Again, some chose to remain in the Llewyrrwood, and formed the realm of Iliyanbruen. The elven realm of Illiyanbruen persisted until 177 DR when the last of its moon elves traveled to Evermeet and Ardeep in Faerûn, or left for the Feywild to form the colony of New Sharandar.
+
+As of 1374 DR, elves still lived in the wood, though they made up one of the largest cells of the Eldreth Veluuthra, with other smaller cells operating in the surrounding area.
+
+After the Spellplague of 1385 DR, Neverwinter Wood experienced a mass migration of fey from the Feywild. Elves and eladrin were also drawn to the woods in large numbers and they attempted to re-found Iliyanbruen near the ruins of Old Sharandar. Though they had to defeat a force of dark fey to reclaim their ancestral home, they quickly went about establishing the military outpost of New Sharandar, around the Fey Crossing connected to the greater settlement of the same name in Feywild.
+
+Following the rise of Forge Fitzwilliam as Lord of Neverwinter in the late 1490s DR, the wood elves of Neverwinter Wood questioned his legitimacy, and in retaliation he ordered clear cutting of the Wood and executions of elves and their allies among the Emerald Enclave.
+
+Rumors & Legends
+It was said that Helm himself spent a single day in the western stretch of the forest during the Time of Troubles, meditating upon his guardianship of the Celestial Stairway.
+
+Notable Locations
+Landmarks
+
+ Agatha's Grove, a grove that was haunted by the banshee after which it was named.
+ Circle of Thunder, a circular arrangement of menhirs placed atop of hill, protected by worshipers of Talos.
+ Dread Ring, an evil fortress built by Thayan agents of Szass Tam.
+ Emerald Tavern, a meeting place for members of the Emerald Enclave.
+ Morgur's Mound, the burial ground sacred to the Thunderbeast tribe of Uthgardt barbarians.
+ Whispering Caverns
+Falcon's hunting lodge
+
+Settlements
+ Gauntlgrym, the fabled dwarven city of ancient Delzoun.
+ Helm's Hold, a fortified settlement that was originally founded by Helmite paladins.
+ Thundertree,
+ Vellosk
+
+Structures
+ Cragmaw Castle, a long-abandoned keep that was taken over by various goblinoid creatures.
+ Sharandar, the hidden elven keep that was abandoned long before the Era of Upheaval.
+ Tower of Twilight, the personal residence of Malchor Harpell.
+ Woodland Manse, a solitary house of stone that once belonged to a half-elf wizard.
+
+Inhabitants
+
+The Neverwinter Wood had a circle of druids, the Ring of Swords, who worked to drive out hobgoblins, gnolls, and bugbears from the woods, as well as protect its ancient sites from treasure seekers. In the late 15 century DR, the Neverwinter Wood became the hunting ground of the green dragon Deathsleep.
+
+Another notable inhabitant of the forest was the Spirit of the Neverwinter Woods, a mysterious defender, served by dryads and nymphs.
+
+Appendix
+
+Notes
+
+Appearances
+
+Gallery
+
+External Links
+
+References
+
+de:Niewinterwald
+
+---
+
+## Neversfall
+
+Neversfall can refer to:
+
+ Neversfall, a citadel near the city of Estagund.
+ Neversfall, a book by Ed Gentry.
+
+---
+
+## Neverwinter Nights: Hordes of the Underdark
+
+Neverwinter Nights: Hordes of the Underdark is the second expansion pack for Neverwinter Nights. New features included new prestige classes, tilesets, monsters and the ability to craft items. The key new feature of the expansion, though, was the introduction of epic levels, which allowed players to theoretically achieve level 40.
+Campaign Storyline
+Chapter one
+The story follows on some time after Neverwinter Nights: Shadows of Undrentide. The player character from that campaign has emerged from the Plane of Shadow with a relic which, when used, transports you to a place inhabited by a creature known as the Reaper. He will bring you back to his realm if you die and send you back to the place where you died. Also, by expending the inherent magic in a rogue stone you can "bind" a place to the relic, allowing you to transport yourself to that place from inside the Realm of the Reaper. Every attempt to get rid of the relic is futile.
+
+Answering the call for heroes to save Waterdeep from an assault of Underdark creatures emerging from the Undermountain, you have traveled to the city and arrived at the Yawning Portal, where Durnan gives you a free room. After a strange, vivid dream involving a Drow priestess being told that you were the one who was going to defeat her according to some supernatural source, you wake to the sight of a dark elf thief stealing your equipment. You kill the thief but your equipment is lost, having been teleported away somewhere. Durnan tells you that the drow have been assassinating prominent people in the city. The inn is then attacked by drow and duergar, killing most of the patrons before you can drive them into the portal room, where they are defeated. Moments later, a beholder levitates up the well and knocks you and some of the others down. Four adventurers (Tomi, Sharwyn, Daelan and Linu from the original campaign) charge off down the well after it. A cleric of Sune resurrects the dead and gives you a magical rod that will bring back the quartet who rushed off, in case they should have run into a trap and perished. The kobold bard Deekin turns up and offers his services; since he was short-changed by the publishers when he sold his original book about you, he wants to make another one. He also thinks that you would be the only person to accept him after the bad treatment that he'd received locally.
+
+The player character then enters Undermountain and traverses three levels of the dungeon, potentially finding and raising the four other adventurers - who become available as henchmen - settling a dispute between a tribe of Ogres and a group of Fey (one way or another) and discovering the reasons for the recent attacks. You find out that a Drow calling herself the Valsharess (the priestess you dreamed of) has captured Halaster and, using the Silence of Lolth as a distraction, somehow conquered the surrounding Underdark, creating a vast army out of its inhabitants. She has now begun an invasion of the surface world, starting with Waterdeep. You are also told by a dark elf named Nathyrra that there is a resistance movement and she wants you to help as you are the only thing that the Valsharess fears.
+
+You find your equipment and, with the help of Nathyrra, assault the base where Halaster is being kept. You break the wards holding him when a clone of Halaster arrives, just too late to help. While the two mad mages argue amongst themselves about who is the real Halaster you pipe up and are immediately placed under a geas to stop the Valsharess' plans from succeeding before he teleports you away, accompanied by Nathyrra by her request.
+
+Chapter two
+
+You arrive in the Temple of Lolth in the dark elf town of Lith My'athar, where a fragile alliance exists between the native Lolth-worshipers and a group of Eilistraee followers led by The Seer, a powerful Eilistraeean priestess who explains how the Valsharess has gotten this far. It seems that she has somehow bound the arch-devil Mephistopheles, the lord of Cania, into her service. The Seer tasks you with weakening the Valsharess's armies before she makes her inevitable strike on the town. You can achieve this by bargaining with or destroying her allies. When the attack finally comes, the Valsharess's force is weak enough for you and the defenders of Lith My'athar to handle. You are then to lead the assault on the Valsharess' fortress, but the Valsharess commands Mephistopheles to teleport you to her throne room alone. He does so and you find yourself alone, trapped in a magical cage. She orders him to kill you but he refuses, killing her guards and releasing you from your cage. You kill the Valsharess and Mephistopheles reveals his betrayal. Apparently, the Relic of the Reaper was a plant. His and your fates were intertwined with the relic and by ordering him to kill you, the Valsharess broke her pact with him. Mephistopheles banishes the player character to Cania and prepares to start his own conquest of the surface.
+
+Chapter three
+
+Back in the Realm of the Reaper, you find that neither you or your companions (who were killed by Mephistopheles) can bring yourselves back to life on the Prime Material. The Reaper explains things, saying that Mephistopheles knows his true name and thus is in complete control of him, and has banned him from allowing you to go back to Toril. If you learn the Reaper's true name too, however, then you could command him to let you back. He tells you to walk through a door behind him, one that previously barred your passage. Upon doing so you find yourself in Cania and soon discover that Mephistopheles is using the souls here to re-animate the corpses killed in the Valsharess's war in order to take over Toril so that he can turn it into the new lowest level of hell, putting him above Asmodeus in the infernal hierarchy. In addition to discovering the soul of Aribeth de Tylmarande (who can then follow you, either as a blackguard or a paladin depending on your choices) you find out that the Knower of Names, a former lover of Mephistopheles, betrayed and imprisoned by him on this plane, would know the Reaper's name. You set out to find her, braving this hell's painfully cold temperatures and other dangers to free her and learn the Reaper's name. You speak it to him and he sends you back to Toril whereupon you find that Mephistopheles has made it to Waterdeep. You defeat Mephistopheles, either in combat or by using his true name if you managed to find it out, and once you've beaten him are lauded as the savior of the world.
+
+Index
+Characters
+
+Creatures
+
+Locations
+
+Magic
+
+Organizations
+
+Religion
+
+Miscellaneous
+
+Appendix
+External links
+
+Connections
+
+---
+
+## Nelanther Isles
+
+The Nelanther Isles, also just called the Nelanther, were a widely scattered chain of nearly one thousand islands west of Amn and Tethyr in the Trackless Sea. More than half the islands lacked potable water and were an unfit place to live. The hundreds of islands that could support life were fought over by ruthless pirates who tended to prey upon the shipping lines of Amn, Tethyr, Calimshan, the Sword Coast and the Moonshae Isles.
+
+Geography
+The archipelago comprised hundreds of islands of various kinds, but only the biggest of them bore names and of these names only a handful were known to folk of mainland Faerûn. Maps drawn by mainlanders depicted these major islands and many of the smaller ones, but not the various currents and hazards like shoals and tiny exposed or submerged islets, such as would be encountered in the heart of the island group. Moreover, most of the islands were surrounded by perilous reefs. However, the local pirates knew them like the backs of their hands and knew all the hiding places and safe routes in the area, so the majority were never caught by the various of the Sea of Swords.
+
+The named islands were:
+ Carcathen
+ Hook Isle
+ Ioma
+ Irphong
+ Skaug
+ Nemessor
+ The Rookery
+ Thordentor
+
+The channel between the Nelanther Isles and the Tethyr Peninsula was known as Asavir's Channel (presumably named after the pirate Asavir). It was a well-traveled sea lane but treacherous because of the many pirates.
+
+History
+By 1369 DR, the Twisted Rune placed a magical gate on the islands to allow for instantaneous movement to other locations.
+
+Demographics
+Aside from their shared acts of violence and larceny, the Nelanthers had surprisingly little in common with the Pirate Isles of the Dragon Coast. Most of the Nelanthers' pirates were nonhumans such as orcs, lizardfolk, ogres and minotaurs. These various races and factions waged war on each other as often as they did with outsiders.
+
+Life & Society
+The reavers of the Nelanther Isles were entirely honorless pirates that tortured their victims, leaving them to horrible deaths. The Nelanther youth were born into the society's violence and their only escape was death, typically while still young. Nearly all fit adults fought aboard ships, while weak and crippled children who somehow survived were left ashore to repair ships or salvage wrecks.
+
+Notable Locations
+Except for a couple of smaller settlements, the pirates of the Nelanther Isles lived in their ships or in huts that could be abandoned at a moment's notice.
+
+Ports
+Skaug
+
+Landmarks
+ The Sea Towers, magically warded hard stone towers that were located on some of the islands and in the sea of the region.
+ Oboron's Maw, an area of deadly whirlpools.
+
+Appendix
+Appearances
+
+Gallery
+
+Further Reading
+
+References
+
+FR:Îles Nélanthères
+pl:Wyspy Nelanther
+
+---
+
+## Nerval Watchwill
+
+Nerval Watchwill was the High Priest of the temple of Tyr in Ashabenford around 1372 DR. He spent his time aiding the Riders in their defense against the drow of Cormanthor.
+
+Personality
+Nerval was known for being wary and distrustful of adventurers.
+
+References
+
+---
+
+## Nephthys
+
+Nephthys, known as Nesharia in Thay and as Neselthia in Unther, was a vain but caring member of the Mulhorandi pantheon. She was Mulhorand's goddess of the dead, protecting both graves and the riches found therein.
+
+Description
+Nephthys typically appeared as a Mulan woman in royal dress. She often wore numerous pieces of gold jewelry as well.
+
+Manifestations
+Nephthys' will was sometimes communicated through golems or hoarding animals, such as rats. The face of Nephthys might appear to forces hostile to her, and a golden mist might appear to ward off grave robbers. A single gold coin might lead to great treasure, and an individual who pleased the Guardian of Wealth and Commerce might experience a shower of such coins.
+
+Powers
+Nephthys could stun enemies with her mere presence, and kill with a simple gaze. She had the ability to raise the undead into her service, and could increase wealth with a touch of her hand.
+
+Relationships
+Nephthys was the daughter of Geb and Nut. She was the twin sister of Isis and was once married to Seth, who she left after his murder of Osiris.
+
+Nephthys had few true allies. Waukeen closely monitored the growth of the church of the Devoted Lady.
+
+Nephthys openly opposed Mask and the Red Wizards of Thay.
+
+Worshipers
+
+Nephthys urged her followers to accumulate wealth, but had little patience for true greed. Worship of the Devoted Lady was most common among nobles and housewives.
+
+Church of Nephthys
+
+The clergy of the church of Nephthys was composed entirely of women of Mulan descent. These priestesses must be married or widowed.
+
+Clerics of Nephythis administered the economy of Mulhorand, as well as served in the funeral preparations of those in the upper classes.
+
+Temples dedicated to Nephthys were defensible structures designed to display great wealth. These buildings often served as banks for the Mulhorandi people. The center of the church of Nephthys was the Vault of Golden Commerce, located in the city of Neldorild.
+
+The church of Nephthys had spread throughout Unther, and had even begun to push beyond this border.
+
+Clerics of Nephthys usually wore white linen skirts and robes or linen dresses. They wore wigs on their shaved heads as well as sandals. Three blue circles were painted on a priestess' forehead, a mark of her divine calling.
+
+When preparing themselves for combat, the clergy of Nephthys selected the most expensive equipment they could afford.
+
+Clerics of Nephthys prayed for spells at noon.
+
+Orders
+The clergy of Nephthys took up arms to protect the wealth of their nation.
+
+The Order of the Golden Coin served as guardians for hire to the people of Mulhorand.
+
+Celebrations
+The clergy of Nephthys performed rituals over the deceased in preparation for burial.
+
+On the Feast of the Silver Coin (known as the Feast of the Moon throughout the rest of Faerûn), Nephthys was thanked for the wealth accumulated over the past year.
+
+During Passage Onward, protective wards, spells, and traps were set to protect the tombs of the recently deceased.
+
+History
+
+Nephthys assisted Isis in resurrecting Osiris, who had been murdered by Set.
+
+During the Second Sundering, Nephthys and other deities from the pantheon returned in the form of demigods and led the Mulhorandi uprising against the Imaskari, in a manner similar to how the Chosen manifested in other regions. As of 1489 DR, Mulhorand was led by the returned pantheon, who temporarily set their differences aside for the good of the Mulhorandi people.
+
+Appendix
+
+Appearances
+Card Games
+Blood Wars
+References
+
+Connections
+
+---
+
 ## Nether Scrolls
 
 The Nether Scrolls, originally known as the Golden Skins of the World Serpent, was the name given to one set of fifty scrolls that dealt with fundamental magic theory. It was paired with a second set that was transformed by the elves of Faerûn into the Quess Ar Teranthvar, or the Golden Grove of Hidden Knowledge, the magical tree to which The People could attune. Unlike the elven tree, that was only stolen once, the Nether Scrolls that always remained in their original form had been continually lost, stolen, and even partially destroyed throughout the course of five millennia.
@@ -1121,6 +1901,133 @@ Appearances
 References
 
 FR:Parchemins nétherisses
+
+---
+
+## Neversfall (fortress)
+
+Neversfall was a fortress in the wilds of Veldorn.
+
+Description
+
+Neversfall comprised several buildings, most notably three towers, surrounded by a very skillfully made wall of large dark stones and strong mortar. The towers were made of the same stones, yet stood out slightly. The two smaller towers leaned into the central larger tower, where the fortress's magical defense was kept in the topmost room, which was sealed by magic.
+
+The other buildings, of wood and stone, included barracks, prisons, normal housing, a chapel, and room for a market.
+
+The overall design of the citadel was so that it could withstand a large assault from most adversaries with a small number of defenders.
+
+Appendix
+
+References
+
+---
+
+## Neverwinter Nine
+
+The Neverwinter Nine were the personal bodyguards of Lord Nasher Alagondar, the leader of Neverwinter in the late years of the 14 century DR. They later swore allegiance to his descendants, the Alagondar royal bloodline. The group was named after the nine guards of the founder of Neverwinter, Lord Halueth Never.
+
+History
+Original Nine
+According to legend, before the foundation of Neverwinter, Lord Halueth Never gathered a group of his most loyal guards and named them the Neverwinter Nine. Under his lead, the Nine and his army prevailed in the war with Illusk. However, two of them perished in the war, and one died as a traitor, for murdering his fellow Nine. After his death, Halueth was buried in his tomb beneath Castle Never, surrounded by the statues of the first Nine, their names carved on the statues.
+
+Lord Nasher Alagondar's Nine
+Inspired by the legends, Lord Nasher Alagondar assembled a new group of Neverwinter Nine when he became the ruler of Neverwinter, choosing its members from among his most selfless and good men and women, to serve as his bodyguards.
+
+After the death of Lord Nasher, the Neverwinter Nine swore fealty to his descendants, the Alagondars.
+
+After the deaths of the original Nine, they became celebrated heroes of Neverwinter. Their remains were entombed in a crypt below Castle Never, known as the "Vault of the Nine", protected with powerful magic seals to allow their souls to rest unmolested.
+
+The Alagondars knighted a new generation of Neverwinter Nine to serve them. This new generation of Neverwinter Nine died alongside the Alagondars during the Ruining of 1451 DR.It can be assumed that there were at least two generations of Neverwinter Nine following the ones knighted by Lord Nasher, as the Neverwinter Campaign Setting states that the Neverwinter Nine were the bodyguards of the Alagondars, and that all the closer servants of the Alagondars died with them during the Ruining, in page 148, while also describing the Vault of Nine as the place of rest for the Nine of Nasher's time, in page 152.
+
+Attempts to Resurrect the Nine
+In 1479 DR, Valindra Shadowmantle was conducting arcane experiments in the hopes of controlling the ghosts of Lord Nasher's Neverwinter Nine, although she was unable to do it using what resources she had in hand.
+
+The dragonborn necromancer Morlanth attempted to raise the Neverwinter Nine as wraiths using the Shroud of Souls, but was stopped by adventurers.
+
+In the late 15th century DR, the attempts to resurrect the Nine were quite literal. The artifact known as the Sigil of the Nine was used by the heroes of the Siege of Neverwinter. It called to the souls of the Neverwinter Nine to join in the battle to protect Neverwinter from peril.
+
+Possessions
+The Neverwinter Nine of Lord Nasher's time all wore magic armors and had magical swords, and also had access to all the magic items Lord Nasher had acquired during his career as an adventurer. After the tumult of 1372 DR, the garb worn by the members of the Nine was decorated with the Eye & Tears design, believed to be a symbol of protection by the locals.
+
+Notable Members
+Original Nine
+ Talven
+ Galavren
+ Floashebel, the only known female of the group.
+ Thracier, the traitor, according to legend.
+ Shoce
+ Coneth
+ N'halien
+ Tamper
+ Slade.
+
+Lord Nasher Alagondar's Nine
+ Kalach-Cha
+ Aribeth de Tylmarande
+ Callum
+ Darmon
+ Khelgar Ironfist
+ Melia Ceralle
+ Nevalle
+ Sedos Sebile
+
+Rumors & Legends
+According to legend, the ghosts of Lord Nasher's Neverwinter Nine were bound to serve the heirs of the Alagondar bloodline.
+
+Appendix
+Notes
+
+See also
+ Legends of the Neverwinter Nine
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Nelve Harssad
+
+Nelve Harssad was an inhabitant of Tsurlagol, a traveler and an author.
+
+Nelve was the author of My Journeys Around the Sea of Fallen Stars, a book detailing their travels on the Sea of Fallen Stars. It was written in the Year of the Sword and Stars, 1332 DR.
+
+Appendix
+References
+
+---
+
+## Nergal (deity)
+
+This is an article about an Untheric deity. For the archdevil, see Nergal (archdevil).
+
+Nergal was the Untheric deity of the underworld and the dead.Brian Cortijo. "Volo's Guide: War Upon the Sands." Dragon #358. Page 72. Paizo Publishing, 2007. His manifestation on Toril was killed during the Orcgate Wars. His symbol was a dark man holding a black shield.
+
+Description
+Nergal manifested as a human, and never appeared in any other form. In battle, he wore a night-black shield as both a weapon and a means of defense. When using the shield, no one could strike Nergal from behind, no spell of less than 8th level could affect him, and all feared the deadly aura that emanated from it.
+
+Worshipers
+Prior to Unther's destruction in the Spellplague, cultists of Nergal stood watch over the god-tomb of their master and searched for holy relics in the hope they might bring back Unther's lost glory.
+
+Rituals
+Nergal's worshipers practiced the sacrifice of good (including lawful good) creatures on their altars of black basalt. Another form of sacrifice was a "promised sacrifice," in which Nergal's worshipers would dedicate the proceeds of future actions to their deity's church.
+
+ History
+Nergal presumedly came to Toril with the other Untheric deities aboard the Galley of the Gods. He was killed by one of the orcish gods in, and his body was laid to rest in a God-Tomb in Unther.
+
+After his death, Nergal's manifestation was permitted to bypass the Imaskari barrier and was reabsorbed by his original self in his cosmology of origin. Much more recently, after the Time of Troubles, Nergal took part in a plot to murder the god Enki.
+
+Appendix
+External Links
+
+References
+
+External links
+ Nergal on Wikipedia
+
+Connections
 
 ---
 
@@ -1313,6 +2220,587 @@ Maps
 
 ---
 
+## Nerrol Hamastyl
+
+High Steward Nerrol Hamastyl was a half-elf ranger and paladin, and was the High Steward of the Royal Council of Aglarond as of 1374 DR. The council's duty was to appoint representatives of the cities and provinces of Aglarond, and Hamastyl was representative of the Simbul at the council, except at times when the Simbul appeared herself.
+
+References
+
+---
+
+## Neth Stand
+
+The Neth Stand was a dark, thick forest on the Lake of Steam.
+
+Etymology
+Some people in the Border Kingdoms were of the belief that the forest was named because of the refugees from Netheril making a stand in the forest. Sages preferred to believe that the word "stand" merely referred to the thick concentration of tall dark trees here.
+
+Description
+It contained underground volcanic vents that emitted a sulfurous mist. The wood here was valuable, despite the need to treat it to get rid of the sulfur smell.
+
+As of 1374 DR, the forest was extremely dense and dark, containing phosphorescent fungi, some of which could move and had intelligence. Among the thornbushes were carnivorous plants and the forest was inhabited by spiders.
+
+A range of crumbling rock faces ran north to south through the forest. They had no official name, and were peppered with caves and ledges. Wyverns and perytons densely inhabited this area, making it attractive as a food source for dragons from the surrounding areas. Around this time, Thay launched many expeditions here in search of powerful magic, at the cost of many lives. Many Calishite hunters also lost their lives here over the years.
+
+Inhabitants
+The forest contained a tribe of semi-aquatic trolls and a group of weresharks, who opposed one another.
+
+Rumors & Legends
+It was believed that the presence of so many hostile creatures here could be put down to deepspawn or priests of Malar at work, the presence of powerful spellcasters wanting to stay in isolation, or the presence of portals from which the monsters were emerging.
+
+Appendix
+
+References
+
+FR:Neth
+
+---
+
+## Nevron
+
+Nevron was the Zulkir of Conjuration and one of the eight leaders of the Red Wizards of Thay.
+
+Description
+Nevron had several tattoos on his face and body. Some took on the appearance of hideous faces. He had a constant sneer on his face and the brimstone smell of his demon servitors clung to his person.
+
+Personality
+Nevron despised the vast majority of human beings, preferring the company of demons and devils. He often entertained the idea of seeking a new destiny in other planes, such as the Blood Rift, the Barrens of Doom and Despair, and similar realities. In order to achieve that aim, he tried to develop powers comparable to denizens of these worlds in an attempt to establish himself as a prince among baatezu or tanar'ri.
+
+Relationships
+He was acquainted with the zulkirs Aznar Thrul and Lauzoril and was the declared enemy of Szass Tam during the War of the Zulkirs.
+
+History
+At the start of the War of the Zulkirs in the, Nevron was a member of the council of zulkirs.
+
+In the, when it became apparent that a war against Szass Tam could not be won, Nevron killed Zola Sethrakt with one of his demons, being annoyed at her constant claims to be his equal as zulkir. He also caused the demise of Kumed Hahpret before abandoning Bezantur with the other zulkirs, fleeing Szass Tam's forces.
+
+His powers enabled the zulkirs to withstand Szass Tam's attack by summoning denizens of the infernal oceans to counter the lich's undead aquatic legions. Their flight thus secured, he escaped with the other zulkirs to the Wizard's Reach.
+
+In the, he was convinced by Bareris Anskuld to return to Thay along with the surviving zulkirs to stop Szass Tam from completing a ritual that would "unmake" Toril and allow the lich to make a new world where he would rule supreme. Pushing into Thay, he and the other zulkirs snuck into the Citadel and discovered that Szass Tam had been trapped in the underground dungeons in the castle, and trapped in the artifact called Thakorsil's Seat. They freed him in a temporary alliance as Szass Tam's former servant, Malark Springhill, planned to use the unmaking himself. In the alliance, they defeated Malark and stopped his ritual, but immediately afterwards, the zulkirs turned on the Regent of Thay and attempted to kill him. They failed. Szass Tam apparently had a sense of humor as each of the zulkirs died ironically. Nevron was killed and his soul transformed into a mane, the weakest form of a demon, slave to all others.
+
+Appendix
+Appearances
+Adventures
+Throne of Deceit
+
+Hellgate Keep (adventure)
+Novels
+The Crimson Gold • Unclean • Undead  • Unholy
+Video Games
+
+Baldur's Gate
+
+References
+
+---
+
+## Neo-orog
+
+Neo-orogs were a race created to serve as warriors for Thay. They were hybrids of orcs and ogres, as well as of other creatures. There were two kinds: red neo-orogs and black neo-orogs.
+
+Description
+Both types of neo-orog were tall and muscular, with tough, leathery skin. They had large, hooded eyes and bestial snouted faces. Red neo-orogs had mottled dark-red skin and yellow eyes. Black neo-orogs were leaner and slightly taller, with skin that ranged in color from dark green to sooty black, slightly less bestial facial features, and smaller, completely black eyes.
+
+Personality
+Neo-orogs were violent creatures that lived for battle, yet were also loyal to Thay.
+
+Abilities
+Red neo-orogs had a unique war-cry that heartened them and all other neo-orogs, orcs, and ogres within earshot.
+
+Black neo-orogs were exceptionally stealthy, such that even alert enemies had a very small chance of spotting them while they hid.
+
+Combat
+Red neo-orogs were known to fight with broad swords, warhammers, axes, maces, spears & shields, crossbows, and daggers. Black neo-orogs were known to fight with broad swords, shortbows, crossbows, longbows, spears, daggers, and shortswords.
+
+Society
+For many decades the Thayans tried to breed their own type of orcs that would be violent but loyal; in the neo-orogs they had largely succeeded. Bred by magic from orcs, ogres, and other creatures, the biggest drawback was their slow rate of reproduction, such that Thay could only field a few companies. Red neo-orogs were bred as elite troops, while black neo-orogs were bred as archers, scouts, and infiltrators.
+
+No independent neo-orogs existed, with all of them living in barracks built and maintained by the Red Wizards.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale
+References
+
+Connections
+
+es:Neo-orog
+
+---
+
+## Netheris Ket
+
+Netheris Ket a human woman of Mulhorand and a glorious servitor of Sebek.
+
+She fought hard to gain her exalted position within the cult of Sebek. Once she had access to her deity's giant crocodile form, she used it frequently to inspire loyalty in her followers.
+
+References
+
+---
+
+## Newander
+
+Newander was a druid of Silvanus at the Edificant Library in the Snowflake Mountains of Erlkazar in the mid–14 century DR.
+
+Description
+Newander had blond hair.
+
+Personality
+The druid was a shy man who loved nature yet yearned for civilization at the same time, which aroused contradictory feelings in him regarding his faith. As a druid, he viewed the forest with love and wished to be as powerful as his friends, who had the ability to shape-change into various animals—an ability he had not yet developed.
+
+History
+In the, when the Edificant Library was assaulted by agents of Castle Trinity, Newander joined his friends Danica Maupoissant and Cadderly Bonaduce in battle against the cleric Barjin. Newander and Cadderly were the only ones not affected by Barjin's Chaos Curse—potent magic that enhanced one's desires even until self-destruction. Newander resisted the curse to a high degree because his desires were contradictory and unclear even to the druid himself.
+
+In the final battle with Barjin, the druid finally achieved the ability to shape-change into a great wolverine and sprayed Barjin with his musk. The musk disintegrated the mage's enchanted robes and thus weakened his defenses to a point where Newander's friends could overcome the cleric. But before Newander could get away, Barjin killed him with his enchanted mace, the Screaming Maiden.
+
+Appendix
+
+Appearances
+ Canticle
+
+References
+
+---
+
+## Netherese pantheon
+
+The Netherese pantheon was pantheon of deities worshiped by those of the ancient Netherese Empire. Majority of this pantheon formed the foundation of the Faerûnian pantheon.
+
+Overview
+The Netherese pantheon was composed of ten deities. After the fall of Netheril, most of the deities died, vanished, or came to be known by different names. Four goddesses within the Netherese pantheon represented the four seasons.
+
+Members
+Ten deities made up the Netherese pantheon:
+Selûne: The goddess of the moon, moonlight, and stars; beauty and purity; love and marriage; navigation and navigators; tracking, wanderers, and seekers; diviners and dreams; good and neutral lycanthropes; and autumn. Her allies were the Netherese goddesses, excluding Shar. Her foes were Shar, Kozah, Moander and Targus. She was believed to be the twin sister of Shar, and to have created Jannath and Mystryl during their conflicts.
+Shar: The goddess of the night, darkness, secrets, hatred, sleep, nightmares, illusions, lies, trickery, hiding places, betrayal, treachery, seduction, thieves, thievery, murder, and winter. Her allies were Kozah, Jergal, Moander and Targus. Her foes were Selûne, Amaunator and Tyche. With her twin sister Selûne, she was believed to have created Jannath and Mystryl.
+Jannath: The goddess of agriculture, wild animals, wild nature, forests, the sea and sea creatures, cultivation, farmers, gardeners, fundamental elements, and summer. Her allies were Selûne and Tyche, and her foes were Jergal, Kozah and Moander. Her name changed to Chauntea, the goddess of life and bounty, after the fall of Netheril.
+Mystryl: The goddess of magic, the Weave, wizards, spellcasters, energy, creativity, knowledge, invention, song, time, and spring. Her allies were Selûne and Tyche, and her foes were Kozah and Moander. Her death was part of what ultimately caused Netheril to fall. Her death also marked the restraint placed on the Weave, establishing spell slots and limiting spells to the 9th level.
+Amaunator: The Netherese god of the sun, law, order, and time. He held influence over bureaucracy, contracts, and rulership. His ally was Jergal, and his foes were Kozah and Shar. After Netheril's fall he vanished and was believed to have died, or possibly have turned into Lathander. He returned to Faerûn during the period before the Spellplague.
+Jergal: The Netherese god of death, as well as the dead, order in death, undeath, the undead, funerals and tombs, wasting, old age, exhaustion, tyranny, and dusk. His allies were Amaunator, Shar and Tyche, and his foes were Jannath and Moander. He became the seneschal for future gods of death, such as Myrkul and Kelemvor.
+Kozah: The Netherese deity of storms, rebellion, strife, hurricanes, earthquakes and destruction. His allies were Moander and Shar, and his foes were Amaunator, Jannath, Mystryl, Selûne and Tyche. His name changed to Talos after the fall of Netheril. Worship of him was outlawed by many of Netheril's archwizards. Because of this, Kozahyn shrines and temples were built within secretive, underground locations.
+Moander: An evil god of rot, corruption and decay. He was known to be an enemy of Jergal. His existence predated Netheril. His allies were Shar and Kozah, and his foes were Selûne, Jannath, Mystryl, Tyche and Targus.
+Targus: The Netherese god of war, as well as skill-at-arms, duels, berserkers and plunder. He was allied to Shar and foes with Moander. He respected the purity of spirit, such as Shar and Selûne. His name changed to Garagos around or after the fall of Netheril with his death in combat at the hands of Tempus.
+Tyche: The goddess of fate, as well as fortune, luck, victory, chance, accidents, accountability, adventurers, explorers, traders, and trade. Her allies were Selûne, Mystryl, Jergal and Jannath. Her foes were Shar, Moander and Kozah.
+
+Appendix
+
+References
+
+---
+
+## Nedeheim
+
+Nedeheim (meaning "Down-home" in the Giant language) was an ancient kingdom of stone giants, during the Time of Giants of the Dawn Age ( to ).
+
+Geography
+This kingdom was located north of Shanatar and south of the Cloud Peaks. It stood beneath Mount Dodild, part of the Giant's Run Mountains, within a high mountain cavern that extended to a depth of  miles. Spread out through a series of lava tubes and caves.
+
+Government
+Cairnheim was a monarchial kingdom, ruled by a king and his council of Dodforerir, or "Death Chiefs." Both the king and the Dodforerir were all cairns, a form of undead stone giant. Each of the Dodforerir, raised from the dead by the king, had in life had served as a clan chieftain.
+
+The government did not tolerate trespass into their land, particularly among dwarves.
+
+History
+Being of the kingdoms that made up the ancient empire of Ostoria, Nedeheim controlled the Giant's Run Mountains and carved great roads and stairs through its peaks, as well as tremendous halls beneath its peaks.
+
+It was one of the giant kingdoms that warred with the ancient dragon kingdoms during the Dawn Age and was also one of the few fragment kingdoms that survived past Ostoria's fall. It eventually came into a conflict with the dwarves of High Shanatar, a conflict known as the Giant Wars, that listed sixty years. Finally falling in -5350 DR, having lost half its population and reduced to scattered clanholds, whose remaining inhabitants fled into the Upperdark by means of the lava tubes of a dormant volcano. There they grew to be backwards and reclusive, living in small clans that over the years fended themselves against countless threats, such as the people of Korolnor, Oryndoll, and Torglor.
+
+In -160 DR, a cairn by the title of Dodkong came to to the site of the fallen kingdom with the crown of Obadai, the legendary crown of Faerûn's first stone giant, and gathered its stone giants clans together, refounding the kingdom under the name of Cairnheim.
+
+Over time this kingdom grew slowly, until by 1372 DR it had a sizeable population of 546 living within it. In addition, more than a dozen minor clanholds of stone giants and hill giants acknowledged the Dodkong as their ruler. Several large tribes of hobgoblins and orcs would rally around him if asked to do so. And nearby human communities offered him tribute. Around this time some communities within the Underdark began to fear that Cairnheim might be preparing themselves to expand beyond their borders, noting a growing number of barrowes roaming the Giants Run Mountains.
+
+Appendix
+
+Further Reading
+
+References
+
+---
+
+## Netherese language
+
+Netherese was a language spoken in Netheril both before and after Karsus's Folly in . Though it was considered a dead language by 1372 DR, scholars believed that it evolved into the Halruaan and Ruathlek languages.
+
+Speakers
+Netherese was the primary language of Low Netheril, but it was also spoken by commoners in High Netheril. (Loross, its sister language, was spoken by the nobles of High Netheril.)
+
+While by 1374 DR, Netherese had not been commonly spoken for over one thousand years, small pockets of Netherese speakers did still survive, particularly among the shades and Shadovar of the Anauroch desert.
+
+Script
+Netherese used the Draconic script known as Iokharic.
+
+History and Legacy
+The Netherese language was one of the oldest known human languages, dating back to two or three thousand years before the beginning of the Dalereckoning. It was part of the Ulou language family, which also included Ulutiun and Damaran.
+
+The term "Netherese" was also used by scholars to refer to Netherese and those languages derived from it, namely, Halruaan and Ruathlek.
+
+While Halruaan and Ruathlek were the direct linguistic descendents of Netherese, several other common languages bore traces of the Netherese tongue, including Chondathan, Damaran, Illuskan, and Tethyrian.
+
+The ruins of Low Netheril in the Anauroch desert were covered in Netherese writing, and Netherese words were often used as "command words" for magic items.
+
+Dictionary
+turodahel the power of discretion
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+References
+
+Connections
+
+---
+
+## Nereid
+
+Nereids were a race of aquatic fey related to the tritons. Like the nymphs who lived in the coves and streams, the dryads who lived in the trees, and the oreads who dwelt in the mountains, nereids were fey who were bound to the seas and oceans.
+
+Description
+Nereids physically resembled tritons, or humans when not in water, except that their bodies displaced light. This made them nearly transparent and hard to see, especially when they were in the water. Some would say they were nearly 95% undetectable whilst in water, appearing as merely froth and golden angel seaweed.
+
+The humanoid form of nereids was largely feminine in shape, with either a slim or voluptous frame,  though they could take on a masculine appearance. What passed as their "skin" was pearly white in appearance, their "hair" was long and golden hair, and sparkling green eyes. They were also noted for possessing beautiful, enchanting singing voices. Nereids sometimes manifested white and gold garments for themselves, but were more often nude. The one article of clothing they were almost always seen with was a white shawl, either being carried in their hands or draped over their head and shoulders.
+
+Abilities
+The shawls that a nereids carried around were the vessels for their essence or "soul". If destroyed, a nereid's body would dissolve into formless water. Out of fear of destruction a nereid would do anything asked of it by someone that controlled its shawl, all the while lieing and doing almost anything, short of hostile actions, to get it back.
+
+History
+In 1361 DR, a nereid ensnared Fyodor on Ruathym and almost drowned him. However, Liriel Baenre rescued him by snatching the nereid's shawl and enslaving her.
+
+Society
+Homelands
+Evil nereids roamed the streets of the underwater city of Ascale. They also lived in and defended Lake Ashane in Rashemen. And the Great Sea of Zakhara.
+
+Nereids were also rumored to live within the forest of Shilmista, within a pool formed from the headwaters of the River Valashar.
+
+Beyond the Prime Material plane, nereids could be found in the Elemental Plane of Water and in Oceanus.
+
+Relationships
+Nereids were frequently accompanied by some form of animal companion, such as dolphins, giant eels, giant leeches, giant octopi, giant otters, giant poisonous snakes, giant squids, and sting rays. Those that lived in the Great Sea were known to domesticate and keep sea wyrms as pets.
+
+Some acted as servants of the marid Kalbari al-Durrat al-Amwaj ibn Jari in her Citadel of Ten Thousand Pearls.
+
+Notable Nereids
+Ghaliyah, a nereid in Hawa who was enslaved by a cult of Istishia worshipers in 1367 DR.
+Shoal
+
+Appendix
+
+See Also
+Naiad
+Gallery
+
+Appearances
+
+Notes
+
+References
+
+---
+
+## Neverwinter Nights series
+
+The Neverwinter Nights series of computer games by BioWare Corp and Obsidian Entertainment was released between 2002 and 2009 and features two standalone titles with various expansion packs available for each.
+
+Games in the Neverwinter Nights series
+ Neverwinter Nights (June 2002)
+ Neverwinter Nights: Shadows of Undrentide (June 2003)
+ Neverwinter Nights: Hordes of the Underdark (December 2003)
+ Neverwinter Nights: Pirates of the Sword Coast (2005)
+ Neverwinter Nights: Infinite Dungeons (2006)
+ Neverwinter Nights: Wyvern Crown of Cormyr (2006)
+ Neverwinter Nights: Enhanced Edition (2002)
+ Neverwinter Nights: Darkness over Daggerford (2018)
+ Neverwinter Nights: Tyrants of the Moonsea (2019)
+ Neverwinter Nights: Doom of Icewind Dale (February 2025)
+
+ Neverwinter Nights 2 (October 2006)
+ Neverwinter Nights 2: Uninvited Guests (October 2006)
+ Neverwinter Nights 2: Mask of the Betrayer (September 2007)
+ Neverwinter Nights 2: Storm of Zehir (November 2008)
+ Neverwinter Nights 2: Mysteries of Westgate (April 2009)
+ Neverwinter Nights 2: Enhanced Edition (July 2025)
+
+Related games:
+ Neverwinter Nights (AOL) (1991)
+ Neverwinter (2013)
+
+Connections
+
+---
+
+## Necromantic singularity
+
+Necromantic singularity was a spell of epic magic.
+
+Effects
+When cast, necromantic singularity created a temporary link between the Prime Material Plane, the Weave, and the Negative Energy Plane within 300 feet (91 meters) for a very short time. Through this link came negative energy in its purest form that killed living beings until it was exhausted. It started with those that were closest to the link and continued to the next nearest living creature and so on until the negative energy was completely exhausted or no lifeform was to be found within 1 mile (1.6 kilometers) of the epicenter.
+
+Components
+Necromantic singularity required somatic, verbal, and material components. The material component was a sphere of annihilation that was destroyed upon casting. The spell took one minute to cast.
+
+History
+Necromantic singularity was one of the most fearsome spells developed on Faerûn. It took twenty-two days and 1,071,000 gp to develop it.
+
+Appendix
+See Also
+Nycopolis
+
+References
+
+---
+
+## Neifion
+
+Neifion, the Lord of Bats, was an archfey of the Feywild.
+
+Activities
+Neifion was known to enter into fey pacts with warlocks.
+
+Description
+Neifion appeared as a thin, bald, and pale human male with narrow squinting eyes and pointed ears. In this form, he wore drab black clothes. However, his true form was a giant long-limbed humanoid covered in ratty fur, with huge leathery wings and a mouth full of large teeth.
+
+History
+Neifion walked on Toril during the Days of Thunder. He was among the archfey venerated by primitive humans.
+
+Information about the Lord of Bats and his pacts could be discovered in dusty old tomes on the shelves of Candlekeep circa 1390 DR.
+
+He entered into a fey pact with the warlock Japheth Donard, who stole the pact stone and imprisoned Neifion in Darroch Castle in the Feywild. In order to escape, Neifion sought the aid of Behroun Marhana and Malyanna.
+
+Abilities
+Neifion could summon and control bats and conjure restraining vines.
+
+Possessions
+He had in his possession a trek bell.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## New Sarshel
+
+New Sarshel was a busy trade city on the coast of Impiltur as of the late 15 century DR.
+
+History
+New Sarshel was founded in response to the decline of trade through Sarshel following the rise of Zhengyi the Witch-King in Damara in the . Incensed by what they saw as indifference on the part of Sarshel's rulers as Damaran trade dried up and the city began to stagnate and shrink, fifteen merchants financed the construction of New Sarshel just across the water. By the, the newly built city was vying to steal business away from Sarshel, especially trade from the east. However, these efforts were largely unsuccessful, and many presumed that the upstart city was as like as not to be abandoned within a year. In the decades that followed, it became increasingly clear that the city seemed doomed to be overrun by banditry and piracy.
+
+After the Spellplague of 1385 DR, the waters of the Sea of Fallen Stars receded, leaving many port cities—like Dilpur and Hlammach—high-and-dry. However, thanks to its history and dire situation, New Sarshel was better able than any other city to rapidly build structures that kept up with the dropping water level, and it thus became an increasingly important and prosperous trading hub as the folk of these other cities flocked there. Competition within New Sarshel was fierce, and as the city became increasingly favored as a trading partner of Telflamm and the Great Dale, it even captured some of Lyrabar's trade. By the, New Sarshel was continuing to grow, and Sarshel had come to be known as part of New Sarshel.
+
+Inhabitants
+As of the late 15 century DR, several members of Impiltur's ruling council lived in New Sarshel, which increased the city's influence. Owing to the huge influx of people and competition that the city had experienced following the Spellplague, New Sarshel was full of ruined merchants who had to scrounge for other sources of income.
+
+Notable Locations
+ City Docks
+ Marivaux Manor
+ Marhana Manor
+
+Notable Organizations
+ Fraternity of Tharos
+ Marhana Shipping Company
+
+Appendix
+
+Appearances
+
+References
+
+FR:Nouvelle-Sarshel
+
+---
+
+## Nentyarch
+
+Nentyarch was an archaic title given to the rulers of the ancient empire of Narfell.
+
+History
+The first Nentyarch, Thargaun Crell, created Dun-Tharos in the Rawlinswood in  and forged the Crown of Narfell the same year, before uniting the various Nar realms under his rule. The empire of Narfell lasted 794 years until Narfell and the neighboring empire of Raumathar destroyed each other.
+
+The last true Nentyarch was Rheligaun "the Horned", but he disappeared after the fall of the empire.
+
+In the, the leader of the druid circle of Leth claimed the title of Nentyarch when he occupied Dun-Tharos in the Rawlinswood and erected a tree-fortress around it.
+
+When the Rotting Man came to the Rawlinswood in the, it sparked a conflict that ended in the  when the Rotting Man and his forces overran Dun-Tharos and the Nentyarch and his circle had to flee the blighted forest and go south into the Forest of Lethyr to Yeshelmaar.
+
+In the, the Rotting Man became trapped in Dun-Tharos after he failed to create a divine abomination. The mystical energies used in his attempt brought back many demons that infested what was thereafter called the Dunwood. They slew the blightlords, followers of the Rotting man, and eventually the Rotting Man himself died, leaving future Nentyarchs to battle the demons.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Nexal
+
+Nexal was the capital of the greatest empire in Maztica. Much of the city was destroyed in 1361 DR during the Night of Wailing.
+
+Geography
+Nexal was both the name of the empire and the city-state that conquered and controlled it. The empire itself covered the Valley of Nexal, Pezelac, Huacli (with the exception of Otomi), and Kolan. The city-state of Nexal was a grand city located on an island in the center of the lakes in the Valley of Nexal, thus occupying a central position in the Valley itself.
+
+ The Pyramid of Zaltec The great pyramid and temple of Zaltec in the city of Nexal was first built by the tribe that settled on the muddy island and placed the stone pillar atop it, but over the years it was expanded, enlarged, and rebuilt it was the tallest pyramid in Maztica, only second to the Pyramid of the Gods in the fabled city of Tewahca.
+
+Inhabitants
+Nexal was inhabited by humans, primarily of the Maztican ethnic group, although the original Nexalans had been a tribe of Dog People. They spoke the Nexalan language, and were fierce warriors and devoted to the god Zaltec, who was their patron god.
+Society
+The Nexalan had a fierce, warlike culture, and were devoted to their patron god Zaltec. They were ruled by a Revered Counselor, but the high priest of Zaltec, as well as military leaders, had a great deal of influence.
+
+The Nexalans regularly practiced human sacrifice, holding Feathered Wars when captives were scarce. They sacrificed the most to Zaltec, but also honored Azul and Tezca greatly.
+
+Nexalan merchants were known to travel as far as the cities of Far Payit to trade. They placed more emphasis on aesthetics than substance in art, with things tending to be gaudy and ostentatious.
+History
+Early History
+
+The ancient Nexalans were a tribe of the Dog People, living far from the Valley of Nexal in the vast northern desert. One night, though, the shaman of that tribe, Tecco, had a vision. This vision caused him to journey through the desert for a full year before he found a massive, artificially constructed cavern, in which he found a stone pillar. Before his very eyes, this pillar turned into a living statue of the god Zaltec, which gave him a prophecy commanding him and his tribe to go south. The image then faded back into a crude statue of the god, and Tecco carried the statue back to his tribe, repeating the exact prophecy all the way. The tribe then set out, heading south.
+
+Years later, when Tecco's grandson Cattl was shaman, they came to the Valley of Nexal, and claimed a small island in the center of the lakes on which to build their village. Here they built a pyramid to Zaltec as well, on which they placed the stone pillar that Tecco had carried back to them and they had carried with them for so long. They also pledged fealty to the greatest city-state in the Valley at the time, Tezat, and fought for it in the Valley's constant wars. In this time they grew strong and multiplied, until they made their move many years later.
+
+The ancient Nexalans were fierce warriors, and Tezat came to rely on them in its fighting, for with their aid Tezat came close to conquering the entire Valley of Nexal. But the Nexalans allied with their rivals, Azatl and Zokik, and in a single campaign conquered their former ally, and then used threats and diplomacy to subdue the other city-states of the Nexal Valley. With these victories, their town grew into a city, and they took for themselves a new name, "Nexala".
+The Empire
+The empire Nexal built, starting with their betrayal of Tezat, was ruled by Revered Counselors. The 15 Revered Counselors that ruled, over the course of 299 years, provided an easier way to record their history.
+Ipana I was the first Revered Counselor of Nexal. Much of his thirty-five year reign was spent uniting the city-states of the Valley under Nexal's control, a goal which he accomplished with Zokik and Azatl but which Tezat resisted.
+Upon Ipana I's death, his grandson Tenoch took the throne. He devoted his twenty-year reign to the struggle of thoroughly subduing Tezat, a goal he never accomplished.
+However, Tenoch's son Ipana II succeeded where his predecessors failed, using subtlety and poison to accomplish where force had failed in his reign of twelve years. Ironically, the same poison he used to kill the leaders of Tezat was later used to kill him.
+Upon Ipana II's death, his ten-year-old son Ipana III ascended to the throne, marking the start of one of Nexal's most prosperous periods. Ipana III ruled for fifty-one years, during which the other cities of the Valley were finally cemented under the rule of Nexal, and the first Feathered War was introduced to the Valley's inhabitants. But Ipana III's biggest contribution to Nexalan history was when he carried Nexal's dream of empire beyond the Valley, conquering the city-states of Cordotl and Palul and five of the six city-states of Huacli. Only the three-year-long siege of the sixth city-state, Otomi, and the campaign into Kultaka failed.
+After Ipana III's death, of old age, his grand-nephew Tolco was crowned Revered Counselor. Tolco immediately went looking for a war. Since he had been part of the siege of Otomi, and knew the futility of attacking them, he instead launched disastrous campaign against Kultaka. After that failed, he spent nearly a decade fighting the Pezels, always defeating but never conquering them. His final campaign, again against Kultaka, ended when he himself was slain by an arrow.
+With Tolco's death a great-grandson of Ipana III was chosen as Counselor. Tenoch II ruled for a peaceful twenty-one years, during which he had roads built connecting Nexal directly to Cordotl, Palul, and the Huacli border. The third road, which led into Pezelac was abandoned when the Pezels rebelled. The rebellion was quickly and brutally quashed by an army led by Tenoch II's son, Chimal.
+Chimal later became Nexal's seventh Revered Counselor after the death of his father. He ruled for eighteen years, during which the empire flourished and the roads were expanded, and with them trade. Nexalan merchants ventured as far as Payit under his reign, and the only fighting was limited to skirmishes with Kultaka.
+Chimal's son Totep was weak ruler, interested more in the pleasures of his palace than anyting else, and ruled only six years before his untimely death.
+It was one of Totep's military advisers and nephews, Zomoc, who ruled after him. Zomoc was responsible for the conquest of Kolan, which lasted a full twenty years during which Nexal's armies were commanded by the general Coyo, before his triumphal return to Nexal. But Zomoc, suspicious of Coyo, engineered his death. Aferwards Zomoc grew paranoid, and his death five years after Coyo's victory came as a relief to Nexal.
+At Zomoc's death, the nephew of Coyo, a descendant of a cousin of the line of Ipana, was chosen as the Revered Counselor. Izco's short reign was marked by the expansion and consecration (with the sacrifice of 1,000 humans) of the great pyramid of Zaltec. However, the insufficiency of the consecration's sacrifice was made apparent when Mount Zatal erupted. Izco stepped down from his throne at the time, allowing his son to take over.
+After a new consecration sacrifice, of 10,000 humans, was made on Zaltec's pyramid, Izco II was crowned. His reign was much like his father's, for their combined reigns of twenty-seven years were prosperous and peaceful.
+However, the long period of peace left Nexal longing for war, and the military leader Pakli was crowned. He immediately launched simultaneous campaigns against Kultaka and Otomi, both of which ended in failure and worse- three of the five conquered Huacli cities rebelled against the army attacking Otomi, and rebellions also started in Kolan and Pezelac. Much of Pakli's fourteen-year reign was occupied with putting down these revolts.
+Chalco was the Revered Counselor chosen after Pakli's death. He accomplished Nexal's greatest victories against Kultaka and Otomi, though he failed to conquer both. In Kultaka he nearly took the city, but was defeated by the young warrior Takamal, and Otomi he invaded and occupied for years, but eventually left since the natives had fled into the mountains, leaving their city empty. He sent missions into the northern desert searching for the cavern wherein Tecco found the stone pillar, and into the House of Tezca looking for Tewahcoa, the City of the Gods. Both searches ended in failure, though, Ultimately, Chalco's reign of twenty-six years was counted as one of the greatest in Nexal's history.
+Chalco's grandson Axalt succeeded him at a young age. Axalt sent campaigns against Kultaka, in later years often led by his own son, Naltecona. However, his greatest accomplishment was the building of the great aqueduct that supplied Nexal's citizens with clear, fresh spring water. Axalt's death after twenty-two years marked the end of the rise of Nexal.
+Naltecona ascended to the throne after his father's death. He ruled for a tragic twelve years, primarily marked by the decade of mysterious omens. His reign and Nexal itself, came to an end during the events of the Night of Wailing.
+
+Night of Wailing
+In 1361 DR, the Golden Legion from Amn arrived in Maztica. It defeated Ulatos and Kultaka before heading to Nexal in the same year. Naltecona, who had become convinced that the strangers were gods, surrendered the city to the Legion. Cordell, the Legion's commander, demanded massive sums of gold to be handed over to the Legion from Nexal and Naltecona obliged. Many Nexalans wanted to fight the strangers, but to keep the city pacified, Cordell took Naltecona as a hostage into the Palace of Axalt, which the Legion had taken over as their base in Nexal. }
+
+The Ancient Ones, who were Drow that effectively had control over the cult of Zaltec, had prophesied and planned for this moment many years in advance and had attempted to set these events in motion, as they believed that if the events went in the correct manner, it would end with them having total dominance over Nexal and eventually all of Maztica.}
+
+An Ancient One assassinated Naltecona while he was in the Legion's custody in order to make it look like the Legion had murdered him, and they succeeded in thus inciting a battle between more than a hundred thousand Nexalan warriors and the few hundred men of the Legion along with their Maztican allies that they had brought from Ulatos and Kultaka. The Legion and their allies were almost completely destroyed by the onslaught. However, the Ancient Ones' plans were foiled when Erixitl of Palul and her companions confronted them in the Highcave within Mount Zatal. A fight between them ended with Erixitl's couatl ally falling into the magical Darkfyre focus that the Ancient Ones kept within the Highcave. This was then immediately followed by a massive volcanic eruption from Mount Zatal that covered the city with ash. Lolth who had been jealous of the Ancient Ones' betrayal of her in favour of Zaltec, was able to corrupt the ancient Drow magic of the Darkfyre to cause the ashes from the volcano to produce hideous transformations on Nexalans who had been marked with the Viperhand. These zealots then turned into monsters that then began mercilessly slaughtering many of the people of Nexal. Some Nexalans escaped and headed south into the House of Tezca, but all who remained in Nexal were destroyed by the volcano or the transformed Viperhands. They followed along a series of oases created by Qotal in the desert, and settled in a valley in the desert's center, founding the city of Tukan.
+
+Following the destruction, the city remained a ruin that was inhabited by the monsters of the Viperhand.
+Appendix
+References
+
+de:Nexal (Stadt)
+
+---
+
+## Neothelid
+
+Neothelids were extremely rare creatures, so called as they were illithid tadpoles who had undergone neoteny. They typically appeared once a mind flayer society was destroyed and the tadpole tank left unsupervised. The larval illithids engaged in cannibalism until the last survivor became a gargantuan leviathan loathed by all, especially the mind flayers themselves.
+
+Behavior
+Neothelids were voracious and destructive, constantly searching for intelligent lifeforms so as to eat their brains. They were ferocious predators driven only by a desire to consume. Their low intelligence made them undetectable even by elder brains.
+
+Description
+Neothelids were slime-covered worms with a quadri-tentacled mouth that resembled gigantic versions of illithid tadpoles. They were often mistaken for purple worms due to their purple skin, and massive larval body structure.
+
+Combat
+Neothelids shared numerous abilities with illithids and elder brains, capable of levitating at will, resisting magical abilities, sensing sentient beings, and possessing blindsight. A neothelid could send the minds of its prey into disarray and use telekinesis to move things around it, although its poor mind meant this was taxing for it. It was also capable of breaking the minds of its victims and dissolving their bodies using its acid-like enzyme-based breath weapon that dissolved most organic tissue, leaving only clothing, possessions, and brain intact. The latter of which is then used for sustenance.
+
+Neothelids could use their mouth tentacles to squeeze and draw in prey, swallowing them whole and digesting them from inside their stomachs. If hurt too much from the inside, they would have to resist the urge to regurgitate their prey, and those who survived being consumed could crawl out their carcasses.
+
+Ecology
+To create a neothelid, not only must an illithid tadpole not undergo ceremorphosis, but the elder brain of the colony must be absent, as the elder brain would normally eat all tadpoles that failed to undergo ceremorphosis. Without the elder brain, the tadpoles would be forced to engage in cannibalism in order to survive. If one tadpole survived the resulting chaos, it would grow to the size of a dog, forced to flee its home and feast on rats and other vermin until it grew larger. Without the ability to create tunnels of their own, they relied on preexisting tunnel systems to travel, eventually relying on purple worm tunnels to travel in. The process of becoming a neothelid completed when it digested a sentient mind. Doing so caused a similar reaction to that caused by the consuming the host's brain during ceremorphosis, granting the neothelid self-awareness and psionic powers. They constantly hunted for new brains, dissolving their victims' bodies with acid breath and devouring the untouched brains.
+
+Society
+Mind flayers saw neothelids as abominations and never normally created one willingly, since allowing one to exist was one of the largest taboos in their culture. Likewise, a neothelid had no knowledge of its link to the mind flayers and would gladly consume them the same as any other sapient being.
+
+History
+One of these creatures took up residence in the old illithid colony of Phanlinksal.
+
+In the late 15 century DR, the ulitharid Extremiton and its colony in the Seadeeps deliberately bred a neothelid with the purpose of unleashing it upon the githyanki contingent in the Crystal Labyrinth of Undermountain.
+
+Appendix
+
+Gallery
+
+Appearances
+Adventures
+Waterdeep: Dungeon of the Mad Mage
+Video games
+Baldur's Gate: Siege of Dragonspear • Neverwinter
+Miniatures
+Icons of the Realms
+Organized Play & Licensed Adventures
+When the Lights Went Out in Candlekeep
+
+References
+
+Connections
+
+---
+
+## Nerve swimmer
+
+Nerve swimmers were derived from immature illithid tadpoles and were used as living instruments of torture and interrogation.
+
+Description
+Nerve swimmers were minuscule, enough so that casual visual inspection revealed few details.
+
+Personality
+Nerve swimmers were undoubtedly malevolent: they enjoyed the cruel tasks that they had been created for and, when independent, undertook similar or worse tasks on their own.
+
+Abilities
+Nerve swimmers moved in swarms of at least dozens of individuals, and often such swarms kept company with each other. Like all swarming creatures, they could easily surround foes, while being difficult, if not impossible, to damage with conventional weapons; an enemy so surrounded by nerve swimmers risked being nauseated at the creeping, crawling bodies swarming over their own.
+
+Moreover, like the mind flayers they were derived from, nerve swimmers had quite a few innate psionic talents: all nerve swimmers in a given swarm formed a hive mind, could telepathically communicate with any intelligent creature within  of the swarm, and, while in possession of a host, could discern lies thrice each day.
+
+Perhaps the most horrifying ability of a nerve swimmer swarm was that they could burrow into the flesh of a victim, as parasites in a host. While hidden in such a host, they lacked the physical traits of a swarm, but wielded several psionic talents: they could control the host's body directly for six minutes once per day, induce wracking pain in the host thrice each day, and, five times per day, could simply paralyze the host by shutting off their nerve impulses.
+
+Ecology
+Nerve swimmers had first been created as instruments of torture and interrogation, a task they succeeded at and enjoyed, easily controlling victims in the service of the swarm's master. Swarms without masters found their own goals and schemes, and enslaved creatures for the purposes of furthering those goals. Drow wizards were a favorite host amongst independent swarms: possessing the authority and reputation to get things done, but lacking the physical prowess needed to endure the torture of nerve swimmers.
+
+Nerve swimmers were long-lived and, if they went too long without a host, would have to hibernate for long periods of time. During hibernation, some members of the swarm would die, spreading their vital energy to the other members, who then made new nerve swimmers.
+
+In the illithid city of Oryndoll, members of the Abysmal Creed were known to experiment with nerve swimmers to spread terror among other creatures. These experiments with illithid tadpoles were considered distasteful even by other illithids.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Nergal
+
+Nergal may refer to:
+ Nergal (archdevil), an outcast archdevil residing in Avernus that once held Elminster captive.
+ Nergal (deity), the deceased Untheric deity of destruction and pestilence
+
+---
+
+## Nergal (archdevil)
+
+Nergal was an outcast archdevil exiled by Asmodeus to Avernus.
+
+In an attempt to learn the secrets of silver fire, he captured Elminster whilst the wizard was in Avernus and exhausted from sealing a planar rift between Avernus and Shadowdale. Nergal subjected Elminster to horrific suffering, all the while stealing his memories using a mental link, until Nergal's body was destroyed by the Simbul (his life-force seemingly escaped).
+
+References
+
+---
+
+## Needle (water tower)
+
+The Needle was a water tower in Luskan situated on the north side of Setting Sun Street, and was used during weekly flushes of the sewer system.
+
+Structure
+The tower could also be used as a water supply in case fires broke out in the city. The Needle was fed from the River Mirar by a series of windmills that pumped water upwards into its tank.
+
+Appendix
+
+References
+
+---
+
 ## Neverwinter Campaign Setting
 
 Neverwinter Campaign Setting is a Forgotten Realms sourcebook on Neverwinter published in 2011.
@@ -1391,6 +2879,82 @@ Gallery
 External Links
 
 References
+
+---
+
+## Nexalan language
+
+Nexalan was a language considered to be the primary tongue of the people of Maztica, though in actuality was the native tongue of the Nexalan ethnic group of humans.
+
+Speakers
+The Nexalan tongue was spoken primarily in the nations of Huacli, Nexal, Kultaka, and Pezelac. Beyond the Nexalans themselves, a crude form of the language was spoken by the orcs, ogres, and trolls that lived in the Valley of Nexal.
+
+Beyond the land of Maztica, the Nexalan tongue had a few speakers in the nation of Amn, but was otherwise unknown to most Faerûnians.
+
+Related Languages
+Huacli A related, though distinct language spoken in the nation of Huacli. It had six dialects, each spoken in one of the nation's six city-states. Huacli was the most divergent of the related languages, being the most difficult language for speakers of Nexalan to converse with.
+Kultakans Another related, though distinct language spoken in the nation of Kultaka. Speakers of Nexalan and Kultakan could only achieve roughly a partial understanding of what the other were saying.
+Pezelac A dialect spoken in the nation of Pezelac. It carried an accent distinct from Nexalan and could be readily understood by Nexalan speakers.
+
+Writing System
+Nexalan was typically written using either the Draconic alphabet or its own pictographic alphabet.
+
+Dictionary
+M
+Mayz
+"corn"
+P
+Payatli
+"father"; honorific "Most Honored Patriarch"
+Pluma
+"feathermagic"
+Potec
+"traveling merchant"
+T
+Tonalpalli
+A divinatory calendar used by Mazticans.
+X
+Xipalli
+A solar calendar used by Mazticans.
+Unknown Words
+The Nexalan language had a word for "fame".What exactly this word is was never stated within the cited text.
+
+Notable Speakers
+ Gontonia, a Watcher of Helm who self-taught himself Nexalan.
+ Kixitiloc, a Payit warrior.
+ Stonekiller, a desert dwarf warrior.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Nether
+
+Nether was a shaman king of Gers who created the realm of Netheril.
+
+References
+
+---
+
+## Netheril trilogy
+
+The Netheril trilogy was a series of books set in the Forgotten Realms during the age of the Netheril empire (circa -700 DRNetheril Trilogy). The trilogy was written by Clayton Emery.
+
+The main character is the barbarian Sunbright Steelshanks of the northern Rengarth tribe.
+
+ Netheril Trilogy
+ Sword Play (May 1996)
+ Dangerous Games (November 1996)
+ Mortal Consequences (January 1998)
+
+ References
 
 ---
 
@@ -1745,6 +3309,58 @@ References
 
 ---
 
+## Neverwinter (disambiguation)
+
+Neverwinter may refer to:
+ Neverwinter, the city
+ Neverwinter Wood, the forest
+ Neverwinter (novel), the novel by R.A. Salvatore
+ The Neverwinter Saga, the series of novels by R.A. Salvatore
+ Neverwinter Campaign Guide, the sourcebook
+ Neverwinter Nights series, the computer game series
+ Neverwinter Nights, the computer game
+ Neverwinter Nights: Hordes of the Underdark, the computer game expansion
+ Neverwinter Nights: Shadows of Undrentide, the computer game expansion
+ Neverwinter Nights 2, the computer game
+ Neverwinter Nights 2: Mask of the Betrayer, the computer game expansion
+ Neverwinter Nights 2: Mysteries of Westgate, the computer game expansion
+ Neverwinter (game), the online MMORPG
+ Neverwinter Nine, the bodyguards of Lord Nasher Alagondar
+
+---
+
+## Nevalle
+
+Nevalle was a male human fighter, and a member of the Neverwinter Nine in 1374 DR.
+
+Description
+Nevalle was a very handsome man, with a chiseled physique to match. He had blonde hair and light skin, and wore the rich, blue attire of the Neverwinter Nine.
+
+Appendix
+
+External Links
+
+References
+
+---
+
+## Nelvine
+
+Nelvine, also known as pigeon stone, was the Realms name for a variety of feldspar called albite which was found in large quantities in older rock formations.
+
+Description
+The gem quality version of these ornamental stones had a blue iridescent flash known as peristerism. Nelvine was soft enough to be easily cut with even crude tools, but it was too fragile for fine detail work. The base stone was usually white, cream, fawn, or brownish pink and was therefore sometimes called a "pigeon stone". A typical stone had a base value of 10 gp.
+
+Powers
+Nelvine was used as a component in spells that disguised a person or object without changing the target's true nature. It was also powdered for the magical ink to inscribe such spells on scrolls.
+
+Appendix
+Gallery
+
+References
+
+---
+
 ## New Neverwinter
 
 New Neverwinter was an imperialist political organization created by Dagult Neverember, the then-Open Lord of Waterdeep, in the late years of the 15 century DR. Nominally, the faction's goal was to rebuild the city of Neverwinter, but in reality it was a simple propaganda movement to annex the city on behalf of Neverember.
@@ -1845,6 +3461,53 @@ By 1491 DR, Neverember's efforts to rebuild the city proved successful, and Neve
 
 Appendix
 Notes
+
+References
+
+---
+
+## Necromental
+
+Necromentals were undead remnants of elementals.
+
+Behavior
+Necromentals were warped and evil, retaining only a fraction of the awareness and intelligence they had in life.
+
+Abilities
+Necromentals retained much of the abilities they had while alive, but gained some as undead: they "healed" quickly as long as they were by some form of their element, they could drain the energy of creatures they attacked, and any elementals they slew in that manner would rise as necromentals 1-4 days after death.
+
+Ecology
+Necromentals usually inhabited the same environment as they had in life.
+
+Appendix
+Appearances
+Novels
+Unholy
+
+References
+
+---
+
+## Newt
+
+A newt was an aquatic amphibian, which included some salamanders, although not all aquatic salamanders were considered newts.
+
+Varieties
+Rough-skinned newt A newt with warty skin and a long tail. It was not aggressive except to its natural prey, but inflicted a powerful toxin in its bite.
+
+Usage
+Older versions of the spell cloak of bravery required the brain of a newt as a material component.
+
+Appendix
+
+Appearances
+Adventures
+Halls of Undermountain
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+
+External Links
 
 References
 
@@ -1995,6 +3658,210 @@ Connections
 fr:Neverwinter Nights 2: Storm of Zehir
 pl:Neverwinter Nights 2: Gniew Zehira
 ru:Neverwinter Nights 2: Storm of Zehir
+
+---
+
+## Negative Energy plane
+
+The Negative Energy plane, sometimes called the Plane of Death or the Negative Material plane, was an Inner Plane or Energy Plane of the Great Wheel cosmology and the World Tree cosmology models. Cosmologists believe that negative energy and its opposite positive energy, combined with the four elements, make up the known universe. This plane was extremely hostile to all forms of life and energy. Only the undead could travel with impunity here, and the more powerful undead could harness this death energy to attack the living with devastating effect. After the Spellplague, the Negative Energy plane collapsed into the Elemental Chaos, mixing with all the other Inner Planes. The goddess Shar managed to channel some of this death energy into the Plane of Shadow and create the Shadowfell.The fate of the Negative Energy plane is not expressly explained in the Forgotten Realms Campaign Guide, but p. 69 mentions "he energy of death that didn't make the transition to the Elemental Chaos", where "energy of death" most likely refers to negative energy and thus the Negative Energy plane. The Negative Energy plane was restored following the Second Sundering.
+
+Cosmology
+According to the Great Wheel cosmology model, the Negative Energy plane could be reached via the Ethereal Plane or an adjacent elemental plane, but not by an elemental vortex. (However, there is speculation that the Void card in the deck of many things brought a person here.) If traveling through the Deep Ethereal, a pure black curtain of vaporous color indicated the boundary of the Plane of Death's Border Ethereal region. Such was the influence of the Negative Energy plane that the boundary with the Border Ethereal was weak and fluctuated randomly at times. Travelers thinking they were safe staying in the Border Ethereal could suddenly be dumped on the Plane of Death some distance from the rapidly receding border. Using the spherical model, this plane was adjacent to the quasi-elemental planes of Dust, Ash, Vacuum, and Salt. Temporary gates could be created by the plane shift spell.
+
+As described by the World Tree cosmology model, the Astral Plane connected all planes with the Prime Material Plane and the Ethereal Plane was only used for journeying between locations on the Prime. The Negative Energy plane was not connected or coterminous with any other elemental plane. The spell astral projection  could be used to reach the Negative Energy plane via a cold ebony color pool. Additionally, the gate  and plane shift  spells could be used to open a temporary portal to this plane.
+
+Description
+
+Both cosmological models described this plane as being an airless, featureless void of darkness with gravity being an individual choice. Somewhat paradoxically, both models also allow that structures existed on a landscape of sorts, either made of the physical, solid darkness, or perhaps of elemental earth that could survive in regions of the plane (called doldrums) that did not exhibit the major-negative dominance trait. The atmosphere was not vacuum but could not be used by winged creatures for propulsion, nor could it sustain life, yet torches and lanterns would burn for a short while before being extinguished. Magical light sources worked as usual but visibility was extremely limited. These characteristics led cosmologists to speculate that it was the energy-sucking nature of the plane that greedily devoured any life-giving energies rather than the complete lack thereof, but the difference is of interest only to sages. In practical terms, without protection from the negative energy and elimination of the need to breathe, death was only a few minutes away at best.
+
+Just as there were areas where the negative energy seemed to recede and create the doldrums, some locations exhibited concentrations intense enough to create stable chunks of solid matter that were dubbed voidstone. These absolutely black blobs ranged from a few inches/centimeters in diameter to the size of a small house and perhaps larger. Anything that touched a voidstone was destroyed in the span of a few heartbeats—even the undead were not immune. This property led scholars to speculate that voidstone may have been a component in the creation of magic items like the sphere of annihilation. Another curious and deadly property of these silent death traps was that voidstones of a certain size, not too small and not too large, were attracted to life and would move toward the nearest living creature in jerky, uneven leaps. The exact range of this attraction was unknown because of limited visibility, and all reports of attempted mental control indicated failure.
+
+Inhabitants
+The Negative Energy plane was so inimical to life that, in the time of the Great Wheel cosmological model, the only creatures that had actually been seen in the plane were the inscrutable outsiders, the xeg-yi. The "energy vultures" known as trillochs were thought to be from this plane but may not have originated here. By the time the World Tree cosmological model became popular it was discovered that undead creatures could survive here and that powerful undead, such as vampires, liches, wraiths, wights, and spectres, made this plane their home base. And where undead are found, necromancers are seldom far behind. The doldrums were best suited for necromantic work but there was always a danger the negative energy would surge and overwhelm the area.
+
+Realms
+ Null, draconic god of death, had realms named the Mausoleum of Chronepsis and the Mausoleum of Pain in the Outlands and Carceri, respectively. Parts of these were thought to exist on the Negative Energy Plane at the same time.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Nezram's amethyst aura
+
+Nezram's amethyst aura was an abjuration spell shielding the subject from poison and disease. It was presumably developed by Nezram.
+
+Effect
+The subject of Nezram's amethyst aura was encompassed by a bright violet light that blocked all poisons and diseases from penetrating, whether by a weapon or a creature's touch or bite. It did not however cure such things already affecting the target.
+
+Components
+The spell required a pinch of amethyst dust.
+
+References
+
+---
+
+## Nezram's sapphire screen of shielding
+
+Nezram's sapphire screen of shielding was an abjuration spell that had the dubious distinction of having one of the longest names in the school of Abjuration.
+
+Effects
+It created a floating, square shaped shield of sapphire blue colored force that protected the target from physical and magical attacks.
+
+History
+This spell was presumably developed by Nezram.
+
+References
+
+---
+
+## Nezram's emerald energy shield
+
+Nezram's emerald energy shield was an abjuration spell that caused the target to be covered by an emerald green hued layer of protective energy.
+
+Effects
+This shield protected against effects causing deafness and sonic type attacks.
+
+History
+This spell was presumably developed by Nezram.
+
+References
+
+---
+
+## Neveren Darkdance
+
+Neveren Darkdance was a half-drow noble and the father of Myrin Darkdance. He was a member of the Night Masks and trained Ilira Nathalan. Neveren was married to Shalis Ptolexis, a Mulhorandi priestess of Sharess.
+
+Appendix
+
+Notes
+Eye of Justice offers strong hints that the vampire Kirenkirsalai is actually Neveren although it's never stated explicitly.
+
+References
+
+---
+
+## Newt (faerie dragon)
+
+Newt was a faerie dragon who lived in Myrloch Vale in the mid–14 century DR.
+
+Description
+Newt's hide was orange and his body measured  in length, longer than the average faerie dragon.
+
+History
+Newt made the acquaintance of Tristan Kendrick when the prince and his companions were on a mission to rescue Keren Donnell. When they were escaping from the firbolg fortress, he helped them by creating illusions that distracted the giants. A few days later, Newt found Kamerynn after the unicorn's attempt to cleanse a corrupted Moonwell of the Earthmother. It was crippled and blinded but the faerie dragon found out that it could see illusions and thought about a way to help Kamerynn by recreating the surroundings as an illusion so the unicorn could run towards Genna Moonsinger, the Great Druid of Gwynneth. The two creatures helped her rescue her daughter, Robyn Moonsinger, from Laric the Bloodrider who had kidnapped her. Finally, Robyn rode the unicorn while Newt helped it with its illusions so she could help Tristan in the fight against Kazgoroth.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Necromantic sphere
+
+The Necromantic sphere was a group of spells granted to clerics and, to a lesser degree, monks and crusaders. These powerful spells could restore life force, limbs, or even forgotten experiences. Wielded by an evil priest, they were extremely deadly.
+
+Spells in the Necromantic Sphere
+Many spells were available to those who had chosen this sphere.
+
+Beginner spellcasters of this sphere could cast:
+ dispel fatigue
+ invisibility to undead
+Novice divine spellcasters were able to cast:
+ aid
+ restore strength
+Somewhat skilled spellcasters were able to cast:
+ animate dead
+ cure/cause blindness or deafness
+ cure/cause disease
+ feign death
+ negative plane protection
+ remove paralysis
+ speak with dead
+Intermediate divine casters had the ability to use:
+ suspended animation
+ unfailing endurance
+Those with a high level of skill had access to:
+ raise dead/slay living
+Divine spellcasters who had mastered this sphere could cast:
+ breath of life/death
+ regenerate/wither
+ reincarnate
+ restoration/energy drain
+ resurrection/destruction
+
+Appendix
+References
+
+Connections
+
+---
+
+## Neutralize poison
+
+Neutralize poison was a spell claimed by various schools that could detoxify one poisonous weapon, poisonous object, a venom-carrying creature, or a victim of poisoning. The reverse of this spell was simply called poison and inflicted a possibly deadly toxin into a target creature.
+
+Effects
+The caster had to successfully touch the target of this spell. For a poisonous creature, this spell neutralized the creature's current supply of venom that would normally be delivered by sting, bite, breath, scratch, spit, or other method. This lasted for the duration of the spell, after which the creature might generate new, toxic poison. The same was true for poisonous weapons and objects.
+
+For a victim of poisoning, this spell stopped any further harm due to a toxin, but did not restore lost health, abilities, or function that were caused by that toxin. However, it had no effect on hangovers.
+
+If successfully cast in reverse, this spell delivered a deadly poison into the victim that was immediately incapacitating and fatal within 10 minutes, barring magical intervention.
+
+Components
+Verbal and somatic components were required for all versions of this spell. The non-reversible conjuration version also required a small amount of charcoal.
+
+To inscribe this spell on a magic scroll, divine scribes often used ink made from the talon of a behir.
+
+Appendix
+See Also
+ Slow poison
+ Delay poison
+ Poison (spell)
+ Poison (substance)
+ Water of Eldath
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Negative plane protection
+
+Negative plane protection was an abjuration (if divine) or abjuration/necromancy (if arcane) spell that gave the recipient one chance to completely avoid the draining effects of a negative energy attack. This spell could not be cast on the Negative Energy plane.
+
+Effects
+The caster had to touch the recipient in order to cast this spell. The duration of this spell lasted for minutes to a couple hours or until the target was hit by an attack form using negative energy. The divine version of this spell opened a channel to the Positive Energy plane but either way gave the recipient a chance to overcome the loss of strength or life experience due to the energy-draining effects of creatures and spells that channeled negative energy. If successful, the protected creature was only subject to the physical damage of such an attack, and the attacker was blasted with positive energy in return. If unsuccessful, the target suffered double the physical damage as well as any draining effects from the negative energy attack.
+
+Creatures that partially existed on the plane, including shadows, wights, wraiths, spectres and vampires, could damage the target of the spell normally.
+
+Development
+The arcane version of this spell was developed by the tiefling Grand Vizar of Calimshan, known as Shangalar the Black before he achieved lichdom. It was originally described in his personal spellbook.
+
+Components
+Verbal and somatic components were required to cast this spell. The arcane version also required three drops of blood from the caster as a material component.
+
+History
+This spell was inscribed within the Kelemvorite relic the Testament of Vraer.
+
+Appendix
+See Also
+ Negative energy protection
+
+Appearances
+
+References
 
 ---
 
@@ -2464,6 +4331,2922 @@ Connections
 
 ---
 
+## Nether Scroll
+
+Nether Scroll could refer to:
+
+ Nether Scrolls, a collection of artifacts from ancient Netheril,
+ The Nether Scrolls (book), an in-universe describing the contents of the scrolls, or
+ The Nether Scroll, the real-world novel by Lynn Abbey in which one of the scrolls makes an appearance.
+
+In addition, there is also:
+ History of the Nether Scrolls, another in-universe book written about the magical scrolls.
+
+---
+
+## Net of Stars
+
+The Net of Stars was a tavern found in the city of Tantras in the Vast.
+
+It was described as a very good tavern around 1358 DR.
+
+Appendix
+
+References
+
+---
+
+## Nezznar
+
+Nezznar, also known as the Black Spider, was a drow who was in search of the Forge of Spells in Wave Echo Cave.
+
+Description
+Nezznar wore a long purple cloak with a red interior, and wielded a black quarterstaff known as a spider staff.
+
+He was quite intelligent and curious, and had knowledge of the arcane arts. The drow did not break into a combat at any given opportunity, but preferred to first study and understand the motives of potential foes. He would, though, betray his enemies after they had exhausted their usefulness. Nezznar was a skilled wizard, and focused on different schools of magic, from evocation to illusion to abjuration.
+
+The ambitious drow had many spies reaching all the way to Neverwinter, as well as several giant spiders, which acted as guards.
+
+Possessions
+Nezznar owned a spider staff, which was a quarterstaff that could poison foes. He also carried a potion of healing, a key to a cell, several pieces of coin, nine gemstones, and a slab of electrum crafted in the shape of a mug of dwarven ale. The drow also claimed the dwarven temple to Dumathoin as his personal quarters during the exploration of Wave Echo Cave.
+
+History
+Circa 1491 DR, the drow promised a share to Iarno Albrek of the Lords' Alliance in exchange for his loyalty and aid. Nezznar was the true leader of the Redbrands, controlling them (as well as the Cragmaw tribe of goblinoids) in the hopes of finding Wave Echo Cave and unlocking its secrets (while also keeping it a secret for himself).
+
+After finding the mine, Nezznar came across two of the Rockseeker brothers, Nundro and Tharden. He slew Tharden, but kept Nundro as a hostage, as he thought the dwarf knew more than the he was letting on. From then on, he focused on getting to the legendary forge, but was set back by hordes of undead, and rooms full of poisonous fungi.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Neldryn Hawklyn
+
+Neldryn Hawklyn was a male wizard who was one the most powerful magelords of Athalantar but was killed by the magister Dorgon Heamilolothtar.
+
+History
+Neldryn was the Royal Mage and the leader of the magelords that ruled the kingdom of Athalantar.
+
+One night at a banquet, Neldryn attempted to impress his friends and colleagues by using the lost Netherese Crystal Chain of Blinding. He summoned the Magister, Dorgon Heamilolothtar, but Dorgon demonstrated himself too powerful and easily slew Neldryn and all the evil people at the dinner. This was secretly observed by a young Elminster Aumar, who for the first time was impressed by magic.
+
+Appendix
+References
+
+---
+
+## Neogi
+
+The neogi were a race of spider-like creatures. They were ruthless, xenophobic slavers and plunderers, hated in all known crystal spheres.
+
+Description
+Neogi were small eight-legged creatures, the adults no bigger than a small child. They had a head with reflective eyes that sat upon a long eel-like neck. With their hairy flattened abdomen, they were sometimes described as akin to a cross between a wolf spider and an eel. Despite the similarities, neogi were warm-blooded creatures.
+
+Neogi frequently dyed their fur and tattooed their bodies, either as decoration or as symbols of family and rank.
+
+Personality
+Neogi personality was utterly alien. Their innate ability to control other individuals led them to believe that mind control was entirely normal and appropriate. They did not comprehend the basic aspects of social relationships of other humanoids and operated on the assumption that individuals were always the property of others. For example, neogi crewmembers considered themselves the property of their captain, but could own their own slaves.
+
+Despite their reputation as a trader race, the neogi only engaged in trade if they could not get away with taking what they wanted.
+
+Because trading was just another facet of the neogi predatory practices, they were extremely clever and devious when conducting their affairs. When not working for their masters, they were free to pursue any profitable activities they saw fit. Even when doing business, neogi were extremely dangerous due to the possibility that they could enslave their patrons. For that reason, everyone except the most desperate individuals avoided trading with neogi. However, the neogi's ability to travel to extremely hostile environments and to conduct business with races that would be aggressive and inimical to any other creature did allow them access to a variety of rare and precious commodities, so they were still sought after by greedy humanoids in search for profit. They were also known for setting up shops near mind flayer and drow settlements.
+
+They were intensely cautious, choosing not to fight unless there was a significant prize of gold or other valuables.
+
+Combat
+Neogi were aware that they were not extremely powerful in physical combat. For that reason, they often sent their slaves to weaken their opponents before they themselves moved in. They produced a natural poison that could be delivered through their weapons or through their bite. They were also capable of mentally enslaving other creatures, rendering them docile and susceptible to commands for up to 24 hours, as long as the neogi remained within one mile (1.6 km) of its victim.
+
+They were reported to sometimes fight using a psychic ability to cause pain and discomfort, but it seemed to be limited to their line of sight.
+
+Society
+
+The neogi traveled through the Sea of Night using large spider-shaped spelljammer ships known as deathspiders and, less commonly, lighter ships known as mindspiders. All neogi ships shared a similar spider-like appearance.
+
+Some neogi ships were capable of crossing to different planes. Plane-traveling neogi were sometimes referred to by other members of the race as "tso" and typically preyed on githyanki and djinn vessels.
+
+The neogi spelljamming enterprise was a rare exception in the sense they did not acquire their spelljamming helms from the Arcane. Instead, they either built their own helms (or acquired them from different sources) or powered their ships by different means, which were largely unknown. For example, some neogi had access to starry compasses, magical devices similar to crowns of the stars that, when properly installed, could allow a normal seafaring craft from Toril to lift out of the water and rise into the Sea of Night.
+
+Neogi were usually accompanied by umber hulks, which they employed as slaves to do their physical labor, such as construction of their ships, and combat. Usually every neogi had at least one umber hulk slave. Enslaved creatures of other species were held in a much lower standing than the umber hulks and were treated as little more than food. It was also common to see neogi accompanied by gray renders.
+
+Language
+The complicated language of the neogi was called K'azz'jak'n. It was full of sibilants.
+
+Reproduction
+
+Neogi did not have a biological sex or gender. They had a unique asexual reproductive cycle. When an individual reached the end of its lifespan and began showing signs of mental decay, other adult neogi injected a type of poisonous secretion that transformed the old individual into a swollen 20 feet (six meter) tall creature known as a great old master (yrthni ma'adi in the neogi language) that lost all previous intelligence and autonomy and existed only to eat. The other neogi hunted exclusively to feed the great old master and to lay eggs on it. After a two-month period, the eggs hatched and between 20 and 40 newborn neogi fed on the great old master and on each other until the strongest few survived.
+
+Magic
+Neogi that were capable of using magic did so through pacts with elder evils such as Acamar, Caiphon, Gibbeth, and Hadar. The neogi encountered those creatures during their space voyages and accepted them as mentors by forging warlock pacts.
+
+Spellcasters among the neogi had developed new and modified spells that were more suitable for their needs. Some had the objective of slowing and terrifying their opponents, such as venom bite and arachnophobia, while the identify race spell was employed to locate strong potential slaves when visiting a new world. In a combat situation, the lethal hatchling spell injected a victim with a neogi egg that could hatch and devour its host from the inside out.
+
+Some neogi also developed special magic items, such as the protective charm of distraction, or the more utilitarian bands of the serpent and bands of the arachnid, which the wearer to transform into their namesakes, among other properties.
+
+An obscure necromantic ritual allowed the neogi to create undead hulks, undead versions of umber hulks put together by joining pieces of several different umber hulk bodies.
+
+Religion
+The neogi had an unusual view of their deities: they did not offer prayers and rarely sacrifices, but demanded favors and boons from them regularly, seeing the deities as servants of the neogi race. The neogi powers were sexless just like the neogi themselves.
+
+Speaking the name of one of their deities incorrectly was seen as a sacrilege worthy of a slow and painful death by the neogi. Given the difficulties of the neogi language for other races, it was advisable to refrain from the attempt of pronouncing the deities' names.
+
+The neogi pantheon included:
+
+Ka'jk'zxl, the dead god of creation.
+Kil'lix, a chaotic evil lesser god of death, murder, and poison.
+Kr'tx, a chaotic evil lesser god of war, brutality, and strength.
+P'kk, a lawful evil lesser god of fear and tyranny.
+Thrig'ki, a neutral evil lesser god of "love" (actually more like envy and jealousy in human terms).
+T'zen'kil, a neutral evil lesser god of torture, pain, and suffering.
+
+History
+
+The neogi were said to come from a distant world that their legends called Ka'jk'z. In a very distant past, they abandoned their original home world and conquered an entire other planet inhabited by umber hulks, which they assimilated as slaves to construct their spelljamming fleet and spread across the Prime Material plane. They have wandered through space for so long that some sages speculated that their homeworld did not exist anymore.
+
+It was also speculated by some sages that the neogi were responsible for the creation of gray renders.
+
+In the mid-14 century DR, the neogi held a base on Journey's Legg, an asteroid in the Tears of Selûne. Most neogi attacks within Realmspace started from that location. Neogi were very rare in Krynnspace, as the result of a confrontation with the Speljammer sometime before the 13 century DR that almost wiped out the neogi fleet.
+
+By the late 15 century DR, neogi spelljammers were still in use, being constructed and maintained by some neogi groups.
+
+Notable Neogi
+ Brassons, a former neogi slave trader who later became a follower of Torm. He owned the Ocean's Wake bar on Dragon Rock in the Tears of Selûne and was a good source of information.
+ Prissith Nerro, master of the Void Reaper, one of many neogi in pursuit of the Cloak of the First Pilot.
+
+Trivia
+A flag with a black field and a red neogi skull as the device was the universal symbol used by wildspace pirates.
+
+Appendix
+
+Gallery
+
+Appearances
+
+Further Reading
+
+External Links
+
+References
+
+Connections
+
+es:Neogi
+
+---
+
+## Neira
+
+Neira was a female druid bounty hunter who tried to collect the bounty on the head of Gorion's Ward in Nashkel.
+
+Description
+The druid could cast a handful of spells, with rigid thinking being the most powerful. She had little remorse for for slaying her bounties.
+
+Possessions
+Neira fought with a club and a medium-sized shield. She wore splint mail and an Eyes of Truth helmet.
+
+Appendix
+References
+
+External links
+
+de:Neira
+
+---
+
+## Neera
+
+Neera was a half-elf wild mage that traveled across west Faerûn during the mid–14 century DR.
+
+Description
+Neera previously had light blond hair, but it was changed pink as a result of a wild surge. At one point it was even lavender in color.
+
+Personality
+Most of the time Neera was quite upbeat and whimsical, though like her magical powers, her mood was not always predictable. On a deeper level she was troubled by events in her past.
+
+Neera had the habit of making nicknames for people that were often not well received.
+
+Abilities
+[[File:Neera CLB.jpg|thumb|280px|"In magical terms, I can play a pretty mean tune. But when I miss a note, the flute shoots fire at everyone." —Neera]]
+As a wild mage, Neera was a powerful and at times dangerous spellcaster whose magic often had unforeseeable results. Her instructors believed it was a flaw in her character that caused her wild surges. She was particularly skilled at casting evocation spells.
+
+Possessions
+Neera had few possessions, but did own a unique quarterstaff that she won from a classmate Pollae.
+
+Relationships
+While she was living in the High Forest, Neera's best friend was an irreverent tressym named Ettin.
+
+History
+Early Life
+Neera was born and grew up in the community Highbough within the High Forest. She trained in magic with the other elves of her village and learned about her unpredictable powers at a young age. On one occasion, she conjured a sphere of fire that burnt another student when she tried to merely form an illusion of fire in the likeness of her gnome classmate Binster. Terrified of her own powers, she fled Highbough and went to live in the region of Turlang's Wood.
+
+She stayed in the woods for some time but regularly became involved with the wrong sorts of people. In autumn of one year, she and her friend Ettin encountered a band of orcs trudging through the forest. To defend herself, Neera cast a number of fire spells of increasing power. The treant Turlang intervened and exiled her from the High Forest for good. She wandered the surrounding lands for some time but was ill-suited for a life on the road.
+
+At some point she stole 200 gold pieces from a halfling man named Meklin while he slept. To get away from him she threw a pot over his head and beat it with a spoon.
+
+On the Run
+
+Some time around the, a team of Red Wizards guided by the invoker Ekandor began to chase after Neera. They sought to experiment on wild mages in order to understand how they could wield the "power of arcane chaos". She fled from them for months, eventually reaching the town of Beregost.
+
+After evading the Red Wizards, Neera sought out a fellow wild mage by the name of Adoy. She believed he could help her with the erratic effects caused by her magic. She found him at his hidden enclave east of the Firewine Bridge, but was interrupted by the sudden appearance of Ekandor and his allies. After the group of Red Wizards was bested, Adoy cast a conjuration spell and disappeared in a sudden wild surge.
+
+Some time later Adoy was captured by Red Wizards from the Order of Eight Staves. However while in the Fugue Plane, he was able to communicate only with Neera by some form of telepathy. Having his voice in her head became too much for the young wild mage, and she sought out the ingredients for a potion'' that could sever their link and give her peace of mind. During her search Neera herself came to be trapped in the settlement of Bridgefort while it was besieged by the Shining Crusade.
+
+Forming a Community
+In the  Neera founded the hidden refuge, a commune that Sheltered wild mages from the clutches of the Order of Eight Staves. It was hidden within the Forest of Tethir, in an area just beyond an area of wild magic. At some point, Neera traveled to the city of Athkatla to rescue the young wild mage Mereth.
+
+Appendix
+
+Appearances
+Comics
+
+Legends of Baldur's Gate
+Novels
+"Final Exam" • "Best Friends"
+Video Games
+Baldur's Gate series (Enhanced Edition • Enhanced Edition II • Siege of Dragonspear)
+Card Games
+
+Behind the Scenes
+Neera was voiced by Nicola Elbro.
+
+External links
+
+References
+
+Connections
+
+de:Neera
+
+---
+
+## Neb
+
+Neb was a crazy serial killer in Baldur's Gate who fled to Athkatla in Amn the 1360s DR.It is unclear what species Neb actually is. The first game implies he is a gnome, but in the second game, it alternately refers to him as a gnome and as a dwarf. Ungar Hilldark describes him as "looking like a hill dwarf" and his severed head is stated as coming from "Neb the dwarf", but he uses a gnome sprite and voiceclips, and he is referred to as a gnome in the journal and by the government officials to whom his head is delivered.
+
+Possessions
+Neb owned a unique, magical dagger that he coated in poison before he killed.
+
+History
+Neb was an assassin in Baldur's Gate until he was caught by the Flaming Fist in the, and held at their headquarters in the Upper City. There he met Abdel Adrian, who at that time was imprisoned within the same cell. Neb helped Abdel escape from the prison after he solved Neb's riddle, which involved the number of children he had slain.
+
+After the escape, Neb traveled to Athkatla. In the  he was involved in the theft of some illithium from the merchant Unger Hilldark.
+
+Appendix
+Appearances
+Video games
+Baldur's Gate • Baldur's Gate II: Shadows of Amn
+
+External links
+
+Notes
+
+References
+
+de:Neb
+
+---
+
+## Nefris
+
+Nefris was a female Red Wizard of Thay and the headmistress of the Academy of Shapers and Binders.
+
+She was the one who first drew the Kalach-Cha to Rashemen by manipulating her daughters Lienna and Safiya. However, it was discovered that she was acting under the hidden orders of the Founder and she was a partial reincarnation of her. For this, Akachi's brother Araman, under Myrkul's geas, led a coup in the academy and captured the Founder and killed Nefris.
+
+References
+
+---
+
+## Negative energy
+
+Negative energy was a type of energy originating on the Negative Energy Plane. It manifested as a black, crackling surge of power. It was the antithesis of positive energy, being the "lifeforce" of undead creatures, healing them while causing harm to the living.
+
+Clerics
+Clerics were adept at using the power of negative energy. It was the power of negative energy that evil clerics channeled to awe or command undead, and it was used in the inflict series of spells (e.g., inflict light wounds) to injure living beings and heal undead.
+
+Shadow Magic
+As many people thought of positive energy as "light" and negative energy as "dark", it was popularly believed that negative energy was associated with shadow magic, and that they somehow originated from the same source. However, this was to misunderstand the key philosophy of shadow magic: the manipulation of the symbolic (shadow) rather than the real (negative energy). Even learned sages and some wielders of shadow magic made this misconception.
+
+In fact, they were distinct and separate cosmic sources, though they could be used to accomplish similar effects. A shadowcaster who drained the life from a foe instead channeled it into the Plane of Shadow and summoned shadow in its place; they did not manipulate negative energy or the Negative Energy Plane. Both negative energy and shadow magic attracted many of the same entities and users, however.
+
+Applications
+Negative energy could be used to screen and invert the nature of positive energy and other negative energy effects. The spell shroud of undeath cloaked the caster in invisible negative energy, making them appear undead for all intents and purposes. Mindless undead perceived the caster as fellow undead, and inflict spells cast upon him or her were transformed into cure spells, and vice versa. Furthermore, a caster shrouded in this way could be stunned and panicked when a cleric channeled positive or negative energy to repel, rebuke, command or destroy undead.
+
+Ghul lords, a certain type of wizard from Zakhara, were able to employ negative energy both to cast conventional spells and to produce spell-like abilities of different kind.
+
+Appendix
+References
+
+External links
+
+Connections
+
+---
+
+## Nethmurta
+
+Nethmurta  was the proprietary of the Blinking Owl tavern in Ashabenford and the regional agent of the Moonstars for Dalelands in the Year of the Tankard, 1370 DR.
+
+History
+Nethmurta owned the Blinking Owl tavern in Ashabenford and also owned four warehouse in the city. She gathered information from tavern talks and from the caravan leaders that used her warehouse.
+
+Appendix
+References
+
+---
+
+## Neronvain
+
+Neronvain was the Green Wyrmspeaker of the reformed Cult of the Dragon that attacked the Misty Forest during the late 1480s DR.
+
+History
+Neronvain was the elven prince of the Misty Forest, son of the king Melandrach; he had a terrible relationship with his father for the cautious mood of the king. After a very fierce discussion Neronvain was exiled. After he joined the Cult of the Dragon and became the companion of the green dragon Chuth, he rose in rank. In the late 1480s DR, he was selected as the Green Dragon Wyrmspeaker; he guided a series of raids in the Misty Forest in order to gain treasures for a treasure hoard intended to summon Tiamat into the Prime Material plane. At last he was eventually defeated by a band of adventurers.
+
+Appendix
+Appearances
+Adventures
+The Rise of Tiamat
+Video Games
+Idle Champions of the Forgotten Realms
+
+References
+
+---
+
+## Neldorild
+
+Neldorild was a the fourth largest city in Mulhorand in 1357 DR and was still relatively new around that time.
+
+Geography
+
+Neldorild was located in the Menesankh region of Mulhorand, the southern coast of the Alamber Sea.
+
+Description
+Compared to the other major cities of Mulhorand, Neldorild was a new city, with constant construction projects occurring at any given time.
+
+Trade
+Located several miles down the coast, the small port of Rasolind served as a supply station for both the city and the fishing fleet out of Delgora.
+
+Notable Locations
+ A large temple dedicated to Istishia.
+ Vault of Golden Commerce, a temple dedicated to the goddess Nephthys and the central temple of her worship in Mulhorand.
+
+Inhabitants
+Many rich Mulhorandi came to Neldorild to retire and enjoy the rest of their lives. The priesthood of Nephthys ruled the city. Counting slaves, Neldorild had a population of 40,000.
+
+Appendix
+
+References
+
+FR:Neldorild
+
+---
+
+## Ned Dameron
+
+Ned Dameron is a prolific science fiction and fantasy illustrator whose art fills many 1 and 2 edition Dungeons & Dragons sourcebooks. He has also illustrated the covers of authors such as Stephen King.
+
+Background and Education
+Dameron was born Edward Palfrey IV on May 7, 1943. He grew up in Louisiana and studied art at the Newcomb School of Art of Tulane University.
+
+Career
+Dameron has worked as a freelance artist for TSR, Inc.
+
+Appendix
+
+External Links
+
+ http://wow-art.com/Qstore/Qstore.cgi?CMD=009&DEPT=1353178912
+ http://darktower.wikia.com/wiki/Ned_Dameron
+
+---
+
+## Nelnfaen Sauntarae
+
+Nelnfaen Sauntarae was the only drow Magister. He hailed from Sshamath and reigned from 1104 DR to 1126 DR.
+
+History
+Nelnfaen was the Master of Alteration in Sshamath and so a member of the Conclave of Sshamath. However, Nelnfaen broke with the Council, becoming a renegade for his wish to spread magic, especially magic not connected to faerzress. Nelnfaen considered the faerzress as an evil weakness that made the drow subservient to the rulers of their cities, usually clerics of Lolth.
+
+He wandered the Underdark exploring many areas, especially the Upperdark. In his tenure as Magister, he befriended some priestesses of Eilistraee and even a few humans from Waterdeep. However, in truth, most human wizards of the surface never realized that there was a Magister in the Underdark and thought it was a time without a Magister.
+
+His fate was unknown, and one day in 1126 DR, Azuth appeared to Olohmber Starnardyn, offering to him the position of Magister.
+
+Appendix
+References
+
+---
+
+## Neerg
+
+Neerg was a wizard and a member of the Shadow Thieves in Esmeltaran around 1370 DR.
+
+Personality
+Neerg was easily frustrated by people who could not understood his instructions or who were condescending to him.
+
+Abilities
+Neerg specialized in divination and counterspell magic. He was famous among the Shadow Thieves for his creation of a long-lasting variant of the knock spell.
+
+Activities
+Neerg worked as a support for burglars and assassins in his city.
+
+Appendix
+References
+
+---
+
+## Neverwinter Academy
+
+The Neverwinter Academy, also known as the Adventurer's Academy, was a school for adventurers of all vocations located in the district of the Beggar's Nest in the city of Neverwinter on the Sword Coast North.
+
+Description
+The Neverwinter Academy taught numerous skills, including melee and distance combat, arcane and divine magic, and rogue skills.
+
+Structure
+The Neverwinter Academy consisted of a large building with numerous rooms, including the training halls, assembly hall, senior barracks, and stables. In the training halls was a small chapel, menagerie, store, and library.
+
+The Graduation Chamber: A spacious hall housing a Divining Pool, where senior students participated in their graduation ceremonies.
+The Senior Barracks: Exclusive living quarters for senior students which offered greater privacy and comfort compared to standard dormitories.
+Training Halls: The primary area where students engaged in most of their instructional exercises.
+Academy Store: A shop which catered to the needs of the Neverwinter Academy's students.
+The Library: A vast collection of texts on training, lore, and essential knowledge for adventurers.
+The Menagerie: A compact zoo which featured dangerous beasts for academic study.
+The Combat Room: A sizable training space equipped with dummies and targets for honing melee and ranged combat skills, as well as tactical drills.
+The Spell Chamber: A grand, book-lined room where arcane practitioners refined their magical abilities.
+The Temple: A sacred space where clerics and druids mastered healing arts.
+The Dungeon: A shadowy chamber where rogues and bards train in stealth and subterfuge.
+
+History
+
+In the, when Neverwinter was suffering from the Wailing Death, the Neverwinter Academy was attacked during its graduation ceremony, and the Waterdhavian creatures that had been brought there in search of a cure were stolen. Many students and instructors were killed. The Waterdhavian creatures were later retrieved by the Hero of Neverwinter, a former student.
+
+Notable Inhabitants
+Faculty
+Berna, instructor who taught students to keep records of their travels, and operated the Academy's Library.
+Bruno, Ketta's assistant.
+Dendy, instructor of melee weapons wielding.
+Elwynyd, instructor of divine magic.
+Ferdinand, an instructor who managed the Academy's Menagerie.
+Geldar, an instructor.
+Herban, a head instructor of tactics.
+Hewwet, an instructor of ranged combat.
+Jaroo, an instructor of arcane magic.
+Ketta, chief of security, espionage and intrigue of the Neverwinter Academy, an instructor of espionage.
+Olgerd, the quartermaster of the Neverwinter Academy.
+
+Students
+Ansel, a student of clerical arts.
+Bim, former student, and brother to Pavel.
+Chandra, a student of arcane arts.
+Deelin, a graduating student.
+Erdan, a student of combat.
+Fonlim, a graduating student.
+Gilbert, a student.
+Hero of Neverwinter, a student and a famed
+Kiki, a graduating student.
+Meiron, a graduating student.
+Naiad, a graduating student of stealth.
+Pavel, former student, and brother to Bim.
+Rezron, a graduating senior.
+Shade, a student of espionage.
+Silk, a student of espionage.
+Tabitha, a student of clerical arts.
+Zarn, a graduating senior.
+Zedir, a student of arcane arts.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Neverwinter Nights 2: Mysteries of Westgate
+
+Neverwinter Nights 2: Mysteries of Westgate (NWN2:MoW) is an expansion to Neverwinter Nights 2 developed by Ossian Studios and published by Atari.  The game was released on April 29, 2009.
+
+Plot Summary
+
+Index
+Characters
+Companions
+Charissa Maernos • Mantides • Rinara
+Other
+Alazander • Beylia • Benevolent Kalim • Bohemund the Belligerent • Brom (human) • Challseus • Codepoetz • Dallia Urdo • Darius Falgar • Dimples • Drazachytus • Dutiful Azram • Egar Vhammos • Fennesh • Fulgrim Bonebreaker • Garrett the Bold • Glarn • Gothos One-Eye • Greely • Grenn • Gregory • Grenn Lanley • Hugie • Jargle • Pentical Bleth • Kajeel • Kokrulobis • Latasha • Liaga Kintree • Little Carby Vhammos • Little Davey • Lizardfolk Witch • Lord Rochester • Maelstrom (person) • Maevhaun • Magdalene Vhammos • Marv • Masked Marauder • Mazzar Devali • Mintassan • Meddie Vhammos • Mordecai • Obid Teltas • Okuzo • Pudwig • Rapzin Ellestyn • Reverian Vhammos • Salty Jack • Screeb • Skyrim Bloodfang • Slicker • Tarmesh • Tiberius • Tobias Timble • Turfang • Thurlow Fezziwink • Twilight Knight • Tyrian • unnamed dao (Undergate) • Uzalimon • Variak • Vharlan Vhammos • Viglor • Visdun Fardara
+
+Angwile • Alias • Arauvrim • Balduran • Belub-Zi • Boo • Dhalmass Obarskyr • Durgar the Just • Fennibal Bale • Fukio • G'varok • Gorgomorz • Iggwilv • Immurk • Jack Corvet • Jade Panther • Jeswick Salem • Jimkal • Jondar the Valiant • Khad • Khan Zohrin-Ka • Kisonraathiisar • Kochi • Kuldrak • Larithylar • Larloch • Lanley • Li Mei • Maelstrom • Marruti • Mibbet the Meddler • Minsc • Mujibar • Rauthstokh • Reaver King • Saldrinar • Serenia • Slogg Ogrum • Sorenhotep • Suldrian • Szass Tam • Thauglorimorgorus • Tylanna • Tchazzar • Piergeiron the Paladinson • Redshadow • Verovan Lorndessar • Viglor • Volothamp Geddarm
+
+Creatures
+androsphinx • bladeling • bugbear • dao • dire rat • dog • drow • duergar • dwarf • erinyes • fire elemental • frost giant • giant spider • githyanki • gnoll • goblin • half-orc • halfling • hamster • human • imp • iron golem • lich • lizardfolk • mummy • ogre • ogre mage • quelzarn • red wolf of Payit • shadow mastiff • shadow wolf • tiefling • troll • vampire • werebadger • werebear • wereboar • wererat • werewolf • zombie • zombie lord
+
+drider • fang dragon • fox • harpy • lamia • medusa • parrot • pigeon • sea serpent • unicorn • viper
+
+Locations
+Buildings
+Bent Mermaid Inn • Black Eye Tavern • Brother Tobias Winery • Harbormaster's Office • Hidden House of Leira • Morningstar Haven • Okuzo's Imports • Quivering Thumb Arena • Rumbolt Mansion • Sods and Sundries • Statue of Kisonraathiisar • Statue of Verovan Lorndessar • Temple of the Faceless • The Seven Hills • The Track
+Dungeons
+Sewers of Westgate
+Settlements
+Westgate
+Regions
+Dragon Coast • Sea of Fallen Stars
+
+Abyss • Akkaido • Amn • Ardeep Forest • Baldur's Gate • Calimport • Calimshan • Chult • Cormyr • Daggerford • Damara • Dragonsfire Mountains • Ganathwood • Golden Fox Martial Arts School • Gulthmere Forest • Graypeak Mountains • Great Glacier • Great Rift • Great Swamp of Rethild • Halruaa • Helmsport • Icewind Dale • Ingdal's Arm • Ithmong • Jhaamdath Empire •  Maztica •  Menzoberranzan • Mirabar • Mulhorand • Nine Hells • Oerth • Payit • Phlan • Priapurl • Sembia • Shou Lung • Spine of the World • Starspire Mountains • Sword Lane • Temple of Helm (Helmsport) • Tilverton • Thay • Unther • Vilhon Reach • Wa • Waterdeep
+
+Organizations
+Brotherhood of the Ferret • Church of Ilmater • Dukes of Daggerford • Church of Lathander • Church of Leira • Church of Shar • Church of Tyr • Cormaeril Company • Dukes of Daggerford • Ebon Claws • Emerald Enclave • Fire Knives • House Cormaeril • House Urdo • Maernos • Menagerie • Night Masks • Purple Dragons • Purple Legion • Quivering Thumb • Red Wizards of Thay • Westblade Guild
+
+Campion Dynasty • Church of Nobanion • Clan Hillsafar • Council of Four • Flaming Fist • Merchant Council • Mindgulph Mercenary Company • Prince Templars • Thunkers • Ul-shim Guild • Valjevo • Yakuza • Zhentarim • Westgate Archaeological Guild
+
+Magic
+Weapons
+dart of accuracy • Demon's Spite • Devil's Guile • dwarven bloodstone blade • Golden Bamboo Staff • Golem Slayer • Hook (weapon) • Mordecai's morningstar • Netherese axe • Ogrum's Siegebow • Spider's Kiss • Steel Blossom • Stormbringer • Tempest's Touch • Tethyr-wood cudgel • Wrath of Tyr
+
+Dawnbringer • Mercy of Tyr • Wisdom of Tyr
+Armor
+bracers of bruising • bright shield • Dazzler • great wyrm gauntlets • green dragon scale • Helm of the Horselords • Maelstrom's Mesh • mail of Fennibal "Thunder" Bale • mail of terror • medusa shield • Mintassan's miraculous bracers • prismatic chain • Rinara's Rogue Links • salamander hide studded leather armor • shield of the Maimed God • Suldrian's stunning self-shining armor • umber hulk hide breastplate • umber hulk hide heavy shield
+Clothing
+antimagic cloak • Auril's Truth • Claws of the Jade Panther • cloak of arachnida • Cloak of Mysteries • displacer beast hide • domino mask • Fukio's Silks • Jack's Folly • Jimkal's boots • Healing Hands • Mane of the Lion God • Shar's Embrace • Tasha's Atrocious Robe
+Accessories
+amulet of the wolf • Fire Knife medallion • Larloch's Soul Stealer • Lathander's Favor • Maernos family crest • Mantle of Kossuth • Root of Life
+
+Moonlight Arrow • Sacred Wand • wand of disintegration
+
+Religions
+Shar • Tyr • Umberlee
+
+Auril • Garagos • Garagos • Ghaunadaur • Helm • Ishtar • Jergal • Malar • Moander • Nobanion • Savras • Selûne • Silvanus • Spirit of Wa • Talos
+
+Miscellaneous
+Food & Drinks
+ale • Brother Tobias' 1368 • Maelstrom's Punch • Night Masks' Nightmare • Sembian Swill • Souleman's Sublime • stout • Thayan Red
+
+Tanagyr's Stout
+Ships
+Dark Dahlia • Dragon's Flame • Gut Cutter • Sea Serpent
+Vegetation
+Chultan Throttler
+Other
+Alias Versus the Night Masks • Dragons of the Dragon Coast • embalming fluid • game set of Mujibar the Foolish • King Verovan's Treasure • mandolin • Pedestal of Jondar the Valiant • Statue of Alias the Sellsword • Statue of Kochi • Stone-Tree of Rethild • The Armoire of Queen Serenia of Mulhorand • Volo's Guide to Magic, Appendix III
+
+Battle of Ingdal's Arm • furbid • Omi War • Rout of the Pirate King • smokepowder • Suldrian's Charge • Templeban Edict • Time of Troubles
+
+Appendix
+
+Gallery
+
+External links
+
+References
+
+Connections
+
+---
+
+## Neverwinter Tales
+
+Neverwinter Tales (full name: Dungeons & Dragons: The Legend of Drizzt: Neverwinter Tales) is a collection of five comic issues centering on Thibbledorf Pwent, Drizzt Do'Urden, and Dahlia Sin'felle during the events of the Neverwinter Saga. The story was written by R.A. Salvatore and his son Geno Salvatore. The majority of the art and colors were done by Agustin Padilla and Leonard O'Grady, but Tim Seeley and Gonzalo Flores also contributed to special covers.
+
+Issues
+ Neverwinter Tales #1 (August 2011)
+ Neverwinter Tales #2 (September 2011)
+ Neverwinter Tales #3 (October 2011)
+ Neverwinter Tales #4 (December 2011)
+ Neverwinter Tales #5 (February 2012)
+
+Summary
+Chapter 1/Issue #1
+The story opens with the lich Valindra Shadowmantle and the vampire Korvin Dor'crae looking over the stone cairns under which the dwarves Bruenor Battlehammer and Thibbledorf Pwent were buried. They see that it appears that one of the dwarves, Pwent, has survived. Dor'crae remarks that he was the one to kill Pwent, then Valindra orders him to find the dwarf.
+
+Meanwhile, Pwent awakes in Gauntlgrym with foggy memory. He wonders what made the marks in the ground and follows them to the lit Forge of Gauntlgrym. The place seems very familiar to him. He begins to remember fighting the tieflings alongside Bruenor and Drizzt Do'Urden. He remembers Beealtimatuche, the pit fiend, and how Bruenor was able to pull the lever to release the primordial only after Pwent saved him from Dor'cae's bite. He realizes that he should be dead, then discovers that he is in fact a vampire. His thirst for blood drives him outside and he slays an entire band of goblins, sucking them dry.
+
+The next morning, Drizzt Do'Urden and Dahlia Sin'felle arrive on the scene, having gone out to kill the goblins that were plaguing the area. However, the pair find the goblins already dead. Dahlia states the wounds must have been cause by a vampire; Drizzt is firm that the wounds were caused by a dwarven battlerager.
+
+Chapter 2/Issue #2
+Drizzt and Dahlia ride back on Andahar the unicorn from the scene of the goblin's murder, arguing all the while about whether vampires or battleragers killed the goblins. They arrive in Neverwinter. They find the sergeant but Drizzt refuses payment, since they were not the ones to slay the goblins. Meanwhile, Dahlia obtains a magical wand that is supposed to point the way to any undead in the area.
+
+In the dark of Neverwinter Wood, Pwent spies a camp of humans. A ghostly voice in his head (Dor'crae) encourages him to drink from the humans, but he refuses. Instead, he finds an owlbear and attempts to sate his thirst on that beast, despite its inability to satiate him.
+
+In the morning, Drizzt and Dahilia ride out on Andahar again with the undead-seeking wand in hand. It leads them to the corpse of the owlbear. They continue to argue over whether their foe is a vampire or battlerager. They eventually find themselves in the middle of the forest with the wand pointing upwards. Thinking it broken, they head back to Neverwinter.
+
+At night, a the ghostly spirit of Dor'crae speaks to the camp of humans that Pwent saw the previous night. They are angry because they expected to be turned into vampires the night before. Dor'crae explains that Pwent is not yet ready. He orders them to set up camp by the river instead. Dor'crae then returns to Pwent to find the dwarf allowing his hand to be burned by the sunlight in order to remind himself of who he is.
+
+Chapter 3/Issue #3
+As soon as the sun sets, Pwent leaves his cave and Dor'crae egging him on to attack the humans nearby. However, Pwent refuses despite his hunger and seeks other sustenance in the forest.
+
+In Neverwinter, Drizzt and Dahlia confront the merchant that sold them the undead-seeking wand. The merchants claim that the wand is not broken but Dahlia won't take that for an answer. At her insistence, she receives a replacement wand. Drizzt, however, is inclined to believe that the wand was not broken in the first place and that perhaps another undead creatures haunts the woods. They ride out to the mountains, hearing a whisper in the air that they cannot make out. Drizzt summons his astral panther Guenhwyvar. They find a group of red-clad Ashmadai. The two approach the group with questions about vampires. The humans quickly hostile and attack.
+
+As they fight, one of the women sits near Pwent's cave, tempting him to leave as soon as the sun sets.
+
+Drizzt and Dahlia finish slaying the group of Ashmadai. Dahlia believes that the merchants had set them up for a trap. Drizzt, however, takes another look at the wand and wonders if perhaps there had been a stronger undead present, such as the lich Valindra.
+
+Back at Pwent's cave, the woman approaches the dwarven vampire. Her pulse beats in his ears and he knows that if she enters he will not be able to resist. From a scrying bowl in an unknown location, Valindra eggs the woman on.
+
+Chapter 4/Issue #4
+Drizzt and Dahlia approach the cave where the human woman edges closer to Pwent. Pwent gives in to the temptation and attacks her. At her scream, Drizzt, Dahlia, and Guenhwyvar rush inside. Guenhwyvar pins Pwent to the ground. Drizzt and Dahlia are shocked to see the dwarf they buried not too long before. He tells them they should have burned him and attacks. When Drizzt traps him with a blade to his neck, Pwent begs Drizzt to finish him off and return him to his rightful burial place with Bruenor.
+
+Drizzt is about to make the killing strike when Dahlia yells that Dor'crae's ghostly form has appeared. Pwent realizes that Dor'crae is the voice in his head encouraging him to attack people and attacks Dor'crae in vengeance. However, Dor'crae escapes. Pwent asks that Drizzt spare him the blade for a just a little longer so that he can enact vengeance on Dor'crae, the one who made him a vampire in the first place. Drizzt agrees and the three, plus Guenhwyvar, head out to find Dor'crae.
+
+Pwent follows the scent of the woman that was in the cave with them until they find her. She attacks Drizzt, then slays herself with her own dagger. The group's only lead to finding Dor'crae is gone
+
+Chapter 5/Issue #5
+The group—Pwent, Dahlia, Drizzt, and Guenhwyvar—hunt Dor'crae far into the night. As the sun begins to rise, they return in failure to a cave. Pwent resolves to sit and wait for the sun to kill him. Drizzt and Dahlia leave him, trusting him to follow through. However, after they leave and the sun begins to burn his flesh, Pwent gives up and retreats inside.
+
+Flashback to "some time ago": Dor'crae's vampire form is gone, replace with a ghostly form. Valindra compels him to follow her command. He flies out to find Pwent.
+
+Back to the present, Dor'crae finds Pwent and attacks him. Pwent holds his own until he loses consciousness. When he awakes, Dor'crae is gone, either dead or flown. Pwent knows he can't stay on the surface where there will always be temptation to attack people. He remembers something that Drizzt had said—that the tunnels were made by a volcano and many of them lead as deep as the Underdark. He resolves to hunt in the Underdark where he can drink from goblins and other "things that deserve to be killed." The last image is of Pwent walking down a tunnel to the Underdark.
+
+Index
+Characters
+Main characters
+Dahlia Sin'felle • Drizzt Do'Urden • Thibbledorf Pwent
+Supporting characters
+Andahar • Dor'crae • Guenhwyvar • Valindra Shadowmantle
+Mentioned characters
+Athrogate • Beealtimatuche  • Bruenor Battlehammer
+Locations
+Settlements Neverwinter • Mithral Hall (mentioned)
+Geography Crags • Neverwinter Wood
+Ruins Gauntlgrym
+Creatures
+astral panther • deer • drow • dwarf • elf • ghost • goblin • human • lich • owlbear • pit fiend • tiefling • unicorn • vampire
+Organizations
+Ashmadai • Gutbuster Brigade
+Artifacts
+Icingdeath • Kozah's Needle • Twinkle
+
+Cover Gallery
+
+Appendix
+Notes
+ This collection was originally published as five separate issues under the name Dungeons & Dragons: The Legend of Drizzt: Neverwinter Tales Issues #1-5.
+ At the end of the bound collection is Dungeons & Dragons Forgotten Realms Official Game Adventure: The Legend of Drizzt, described as "An Adventure for 4 to 6 Characters, Level 1 and up."
+
+References
+
+---
+
+## Nerve dance
+
+Nerve dance was a spell unique to Halruaa.
+
+Effects
+This spell created 1 to 3 red streamers to strike forth from the casters hand. The streamers could strike at one target or get split between several targets. If hit by a streamer, the target was stuck and experience excruciating pain as long as the streamer was attached.
+
+Target stuck by streamers could not cast spells or perform similar actions. The cast needed to maintain concentration on the streamers for them to remain in contact with the target. Breaking the caster's concentration ended the spell.
+
+Components
+This spell required a 6-inch strand of red spider silk and a glass rod that has a continual light spell cast upon it to cast.
+
+Appendix
+References
+
+---
+
+## Nezram
+
+Nezram, known as the World-Walker, was a powerful Mulhorandi wizard who traveled the planes extensively.
+
+Activities
+Nezram was a wizard with a passion for gem-based magic, and he specialized in planar and transportation magic as well. He maintained a tower on the western shore of Lake Azulduth, where he created several spells and wrote the spell tome known as Unique Mageries as well as crafting several unique magic items, such as the Claw of Nezram.
+
+History
+In 643 DR, Nezram began a centuries-long journey in the planes after having discovered the ancient ruins of Okoth. Searching for clues about the fabled sarrukh, one of the Creator races, he used an ancient Okhotian portal to travel to the outer planes.
+
+In the late 14th century DR, after hearing of the return of Thultanthar and the discovery of Deep Imaskar, he returned home to his tower, which he found ruined (it had been looted and destroyed in 681 DR by the green dragon Chathuulandroth). With the help of his mortal descendants, who had become known as the Nezramites, he built a new tower in the town of Nezras.
+
+A few years after Nezram went again to explore the planes, searching again for the sarrukh, until he learned about the Spellplague. When Nezram returned to Toril, he found Mulhorand was no more and in its place was a new nation, High Imaskar. Blaming the Imaskari for the Spellplague, he began to plot the eventual fall of High Imaskar. In 1479 DR, Nezram subverted High Planner Yanay, a member of the Body of Artificers, Planners, and Apprehenders, gaining her aid to the Mulhorandi cause.
+
+During Mulhorand's reclamation war against High Imaskar, Nezram provided a great deal of help to the gods, enabling them to more easily overthrow the occupiers and drive them out of his homeland.
+
+Relatives
+Many of Nezram's children were slain by Chathuulandroth when the dragon attacked his tower, but a few survived, as did other relatives, who went on to produce a sizable number of descendants, known as Nezramites, who formed their own community, surviving east of Mulhorand.
+
+Perhaps Nezram's most infamous relative was his grand-nephew Nezras, who turned traitor against the forces of Myth Drannor during the Weeping War.
+
+His familiar was a rat named Nezlit.
+
+Appendix
+See Also
+ List of spells created by Nezram
+
+References
+
+FR:Nezram
+
+---
+
+## Nelvik
+
+Nelvik was the pseudodragon companion of Severin Silrajin the Red Dragon Wyrmspeaker and the main leader of the reformed Cult of the Dragon. He was always at his master's side during all the Tyranny of Dragons
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Nelvon deJun
+
+Nelvon deJun  was a member of the Brotherhood of the Cloak in Mulmaster.
+
+Personality
+Nelvon truly believed in the righteousness of the Cloaks. He was also ambitious. He genuinely cared about his younger brother Larch. Nelvon felt that as older brother his responsibility was to protect Larch, even if he did not like his lifestyle.
+
+History
+Nelvon was a promising member of the Cloaks. He led the testing of Maude Kron, who showed an innate affinity for magic and was thus required to undergo training with the Cloaks. Maude's refusal to join the Cloaks led to her being exiled from Mulmaster and ultimately killed by bandits.
+
+In 1491 DR, Maude's family planned revenge against Nelvon. With the assistance of Proskler, an acolyte of Talos, they devised a plot to kidnap and murder Larch deJun, to get back at Nelvon. They acted at a great party held in Astrid Saj's villa, but Nelvon hired an adventuring party that happened to be present and they eventually saved Larch.
+
+Appendix
+Appearances
+ City of Danger
+
+References
+
+---
+
+## Nestra Ruthiol
+
+Nestra Ruthiol was the ruler of Yartar and a member of the Lords' Alliance during the late 15 century DR.
+
+Personality
+Nestra considered her allegiance to the Lords' Alliance vital for the survival and prosperity of her city. She permitted the Harpers and Zhentarim to travel the streets, but she only dealt with them when it was absolutely necessary. She was quite cunning and vindictive.
+
+History
+Ruthiol was accused of murdering a former lover, Kaidrod Palyr, after arguing publicly with his wife, Tiarshe. While she was cleared of the charges, some speculated that the Hand of Yartar criminal organization was involved.
+
+She ruled Yartar while the Elemental Evil crisis of 1491 DR occurred.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+ Storm King's Thunder
+
+References
+
+---
+
+## Nerise Gladham
+
+Nerise Gladham was a prisoner at the Fane of the Eye under Tyar-Besil during the Elemental Evil crisis.
+
+History
+In 1491 DR, Nerise was captured by air cultists, who took her to a jail at the Fane until some adventurers infiltrated the temple and freed her.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+
+References
+
+---
+
+## Neverlight Grove
+
+The Neverlight Grove was a myconid community in the Northdark. Its isolation permitted the myconids to live in peace until the late 15 century DR.
+
+History
+Neverlight Grove was led by the myconid sovereign Phylo for a long time.
+
+Circa 1484 DR, fellow sovereign Basidia led its colony to the Grove and assumed co-leadership of the community. Two years later, the demon lord Zuggtmoy considered the Neverlight Grove to be perfect for her headquarters on Toril and corrupted Phylo. With its help, Zuggtmoy slowly corrupted most of the myconids.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Neheedra Duskryn
+
+Neheedra Duskryn was a drow turned medusa ally of Ogremoch's Bane in Blingdenstone in the late 15 century DR.
+
+Personality
+As a drow, she was full of greed and vanity and was obsessed with spell gems for their power and beauty. She dreamed of one day ruling a drow settlement as queen and hoped Blingdenstone was the perfect location.
+
+History
+Neheedra was part of a contingent of House Duskryn that remained in Blingdenstone after the drow attack on the city in the . She wanted to collect as many spell gems as possible. Soon Neheedra engaged in dark rituals designed to secure her hold on power, but the magical pacts she made transformed her into a medusa. Enraged by her fate, Neheedra turned her servants to stone and descended into madness.
+
+She wandered the ruins, petrifying any creature she encountered, until met the Ogremoch's Bane. She somehow made an alliance with it and from then on they worked in concert.
+
+Circa 1486 DR, she may have been encountered by a party of adventurers who had been hired by some deep gnome factions after escaping from drow slavers of Velkynvelve.
+
+Appendix
+
+Appearances
+ Out of the Abyss
+
+References
+
+---
+
+## Neachal Fountain
+
+Neachal Fountain was a large gyser located in the Endless Wastes.
+
+ Description
+Located along the Old Iron Road, Neachal Fountain served as the edge marker of a thermal basin that lay south of the road. Caravans avoided this area due to dangers such as hot springs, and mud pits, many of which were hidden by thin layers of dirt that looked like normal ground.
+
+The nomads of the area considered the site holy for being a “nostril of the earth god.”
+
+The waters from this area were used as an ingredient in potions that removed curses, due to the minerals found here.
+
+ Appendix
+ References
+
+---
+
+## Neverwinter River
+
+Neverwinter River, known to the ancient dwarves as Nethlur, was a major river in the Sword Coast North of northwest Faerûn that flowed through the city Neverwinter. Its source was at Mount Hotenow and it emptied into the Bay of Mists on the Sea of Swords.
+
+Description
+Neverwinter River's bright waters ran warm throughout the year, and many believed this feature was thanks to the heat produced by Mount Hotenow. Keeping the Neverwinter Wood area warm, it was the river that prevented the city of Neverwinter or its harbor from freezing during the winter.
+
+Three bridges once spanned the river in the city Neverwinter: the Sleeping Dragon, the Winged Wyvern, and the Dolphin, each sculpted in the form of its name. Following the eruption of Mount Hotenow in 1451 DR, only the Winged Wyvern remained functional until Lord Dagult Neverember ordered the full reconstruction of Neverwinter in the late 1480s DR.
+
+Geography
+
+As it flowed through Neverwinter Wood, the river was fed by Berun's River, Edal's Creek, the Gibdraw, and the River Morgur.
+
+History
+Many believed the city of Neverwinter was named for the persistent heat in the river that provided warmth regardless of the season. The River District in the city was also named for the Neverwinter River.
+
+When Mount Hotenow erupted, dark ash choked the river for months before it was able to flow properly.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights (AOL game) • Neverwinter Nights 2: Storm of Zehir
+Gallery
+
+References
+
+---
+
+## Nemevon
+
+Nemevon was a fallen angel in the Labyrinth in the Northdark in the late 15 century DR.
+
+History
+The gods condemned Nemevon and seven other fallen angels to remain as stone statues in the depths of the Labyrinth for unknown crimes.
+
+Personality
+Nemevon tried to convince other beings to kill it for its sins.
+
+Appendix
+
+Appearances
+ Out of the Abyss
+
+References
+
+---
+
+## Newsbearer
+
+A newsbearer was a small device made out of glass, used by the inhabitants of Ten Towns in Icewind Dale to communicate across large distances.
+
+Description
+The glasspiece would be used to reflect sunlight in a series of signaling codes.
+
+History
+Originally crafted in Termalaine, newsbearers were used to relay crucial messages between the towns during the Battle of Icewind Dale in 1356 DR.
+
+Appendix
+Appearances
+The Crystal Shard
+
+References
+
+---
+
+## Nestor Podgin
+
+Nestor Podgin was a human transmuter from Waterdeep and the proprietor of Monsters Made to Order in Skullport in the late 14 century DR.
+
+History
+Born and raised in Waterdeep, Nestor Podgin was conducting innocent research in his quarters within the city until, in the, one of his experimental subjects escaped and caused much in the way of property damage, but no recorded deaths. It took the combined efforts of the Red Sashes and the Watch Wizards to stop the menace and destroy it. While he avoided being formally charged, Nestor had to pay significant fines because of the damage and was forbidden to conduct experiments inside the city walls.
+
+Finding few other options suiting him, he relocated to Skullport. Nestor established a secure laboratory in the Heart Ward and went to work capturing creatures and creating hybrids. His earliest experiments were… not so successful. But practice made, if not perfect, then good enough, and in only a year Nestor refined his technique until he could successfully combine two different creatures and do so consistently enough to make monstrous creatures to order. He had made a profitable business of it by the .
+
+At that time, the russet owlmonster, which combined a rust monster and an owlbear, was his most successful creation, with three specimens produced. What's more, Nestor expected one to bear young of its own before long. If so, and if the offspring also bred true, then he would have created a whole new species. However, the owlmonsters were highly unstable and aggressive, perhaps more so than even the owlbear. They resisted all attempts to train them and had to be charmed into compliance.
+
+Activities
+Based in the Central Heart Ward of Skullport, Monsters Made to Order—or rather Nestor Podgin, since he was its only owner, operator, and employee—provided custom-made monsters to a client's specifications. This filled a demand for dependable watch-creatures and guardians in both Skullport and the surface world. While his fees were high, being individually negotiated for each order and 1,500 gp at a minimum, they were cheap compared to renting a deepspawn at Hired Horrors.
+
+To create and combine his creatures, Nestor used potent spells and magical items. One of these spells he knew under the name join animal and had purchased it shortly before leaving Waterdeep from an apparently reputable dealer. (In fact, it was Duhlark's animerge and had been stolen, amongst other magics and secrets, from Duhlark Kolat's tower on the orders of Hlanta Melshimber before being fenced to the dealer.) To acquire specimens, Nestor hired mercenaries and adventurers to capture various beasts and monsters in Undermountain. Having some principles, Nestor refused to merge sentient creatures of any kind.
+
+More generally, Nestor had a too-keen interest in researching all aspects of the creation of life, but particularly how hybrid monsters such as owlbears, chimerae, and perytons came to be. He theorized magic had been used to make them in ancient times and identified common traits of aggression and unpredictability in them and in his own experiments, suggesting they had not naturally evolved.
+
+He was also quite knowledgeable in ancient history and civilizations such as Netheril. He could read old Netherese writings to a degree, being able to understand approximately 25% of the meaning before requiring magical translation. He believed (correctly) Skullport had once had a Netherese influence.
+
+In his free time, Nestor Podgin visited the Flagon and the Dragon tavern, where he usually studied a scroll or book of lost lore while sipping a sweet mead.
+
+Personality
+He was softly spoken and introspective and displayed periods of abrupt seriousness and contemplation in silence.
+
+Description
+Aged in his late 20s, Nestor Podgin was of unremarkable build. However, his hair was thinning from premature balding, which he covered up by donning a metal skullcap.
+
+Possessions
+For his own protection, Nestor was well-equipped with a variety of magical items, including a ring of wizardry, a ring of shocking grasp, a wand of polymorphing, a robe of useful items, and a helm of teleportation, as well as a quarterstaff +2 and a dagger +1. Most of these he obtained before coming to Skullport, and the robe and helm were retrieved during an expedition into a long-disused burial mound on the High Moor; these he especially cherished.
+
+Relations
+Nestor's unique trade was not without rivals and Monsters Made to Order had quickly eaten into the income of Hired Horrors, raising the ire of its more ambitious partners. Chantos Graybeard saw Nestor Podgin as an inexperienced upstart and would rather see him and his business be terminated, gruesomely and publicly, as a warning to other would-be entrepreneurs.
+
+Appendix
+References
+
+---
+
+## Nester
+
+Nester was one of Halaster Blackcloak's apprentices.
+
+Description
+In life Nester was a handsome, slender man with thinning hair and a penetrating stare. After achieving lichdom, Nester appeared as a green-glowing, floating skull and skeletal arms.
+
+History
+Nester tried to become a lich and succeeded—in part. He attained undead status, but he badly bungled his spells. He became a lich, in form, but gained slightly different powers. His phylactery was disintegrated and his body followed slowly.
+
+Appendix
+
+References
+
+---
+
+## Nestrun Damond
+
+Nestrun Damond, formerly Nestrun Farclutch, was a former member of the Company of Eight in Tethyr in 1358 DR.
+
+History
+Nestrun was one of the original members of the Company in 1344 DR. In time, he fell in love with his companion Ralma Damond and in 1352 DR they abandoned the company to settle in Pailstone to form a family. They took care of a sanctuary for the company in the northeastern arm of the Forest of Tethir.
+
+References
+
+---
+
+## Newt Longscar
+
+Newt Longscar was a bloodforge mage operating out of the Serpent Valley in the Utter East during the time of the Bloodforge Wars (648–657 DR).
+
+Newt Longscar mustered and trained a bloodforge army in the Serpent Valley to fight against the advancing leader of the Legendary Campaign, who aimed to unify the Utter East through conquest. The leader tried to strike first before Newt was fully prepared and established.
+
+Appendix
+Notes
+ The race and gender of this game character are not known, as their portrait is randomly selected every time the level is played. However, it is taken from the elf or monstrous options, not the human ones.
+
+References
+
+---
+
+## Net of plenty
+
+The net of plenty was a magic item that originated in Zakhara, the Land of Fate, and was prized by fishermen.
+
+Description
+This item looked like a regular fisherman's net.
+
+Powers
+When cast into fresh water or sea water, the net of plenty would always snare enough fish to feed the user and an additional 1-3 people.
+
+The net possessed another wondrous ability. Once per week the user could shake the net and instantly release up to 500 gallons (1900 liters) of water, sufficient enough to douse a decent-sized fire.
+
+Appendix
+References
+
+---
+
+## Nexalan
+
+The Nexalans (or Nexala) were the largest ethnic group of humans living in Maztica. They were one of the seven major tribes of Mazticans. When most folk in Faerûn used the term "Maztican", they were most likely referring to Nexalans, as Nexalans were the only people of Maztica who had traveled to the east as of 1372 DR.
+
+Description
+Nexalans were taller than the Payits. They had lean bodies and angular features. The men never had beards.
+
+Nexalans, as a rule, were strong and intelligent, but they often lacked wisdom in their decisions.
+
+Geography
+The Nexalan people lived in the nations of Pezelac and Kultaka, and the city-states of Huacli and the Valley of Nexal (the most famous of which was the city of Nexal). In addition, the people of Kolan possessed some Nexalan traits, although they were primarily an offshoot of the Green Folk.
+
+Society
+Nexalan culture was largely warlike, and the Nexalans were the first people in Maztica to practice human sacrifice. They worshiped the Maztican pantheon, especially Zaltec. However, the gods Tezca and Azul (who they called Calor) were also honored greatly.
+
+Nexalan culture placed a strong emphasis on aesthetics and did not care as much about substance. A prime example was the Great Pyramid of Nexal with its grandiose mosaics and gaudy colors.
+
+Language
+The people in the Valley of Nexal the Nexalan language, with a distinct dialect of that language spoken by the people of Pezelac. The people of Huacli spoke their own, related, language, with a separate dialect for each of the six city-states. The Kulatakans also had their own language, though it too was related to Nexalan.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Necklace of fireballs
+
+Necklaces of fireballs were magical items that provided the possessor with the ability to throw explosive beads.
+
+Description
+A necklace of fireballs was created with an illusory effect that made it appear like a series of beads on a string, sometimes tied into a necklace. Whenever handled by the owner, however, the illusion faded, revealing a series of golden spheres hanging from a golden chain. The spheres could be removed easily by the owner, but others found it impossible to do so.
+
+A necklace of fireballs market value depended on how many beads it currently had and on how powerful those beads were. The cheapest kind of bead would usually be valued at 300 gold pieces, while the most expensive and powerful bead would sell for 1,500 gold pieces. These necklaces often were constructed with seven common configurations, known as "type I" to "type VII" to those who cataloged magic items.
+
+These necklaces gave off a faint aura of evocation magic of moderate intensity.
+
+Powers
+When thrown, a bead from a necklace of fireballs would explode with the power of the fireball spell.
+
+Because a necklace of fireballs did not provide any magical abilities to its wearer apart from the power within a thrown bead, it did not clash with any other magic item its owner might be wearing around his or her neck.
+
+Possessing a necklace of fireballs had a dangerous risk to it, as all the beads on the necklace could explode together if the necklace was itself ever subjected to a magical fire attack.
+
+Creation
+Those trained in the art of crafting wondrous magical items who also knew the spell fireball could make necklaces of fireballs in any configurations they choose.
+
+History
+The most notable part of the history of these enchanted necklaces was back when the infamous Zulkir of Necromancy, Szass Tam, was still a simple human being. One of his bitter rivals was a fellow Red Wizard from the school of evocation whom Szass Tam faced in a spell-slinging duel. The Red Wizard was prepared to face Tam's necromancy spells and was caught off-guard when the future lich flung twelve fireballs into his face. This prompted Tam's opponent to waste most of his spells in deflecting and defending against the infernal onslaught, while Szass Tam had his entire repertoire of memorized spells at his disposal. Needless to say, the future lich emerged victorious.
+
+Notable Wearers
+ Dabron Sashenstar: a famous explorer and merchant from Baldur's Gate
+ Elisseer: a fighter and abjurer from Shadowdale.
+Marcos Flass a Red Wizard who specialized in golemcraft and creation of gemstone golems used in Thay the late 14 century DR.
+ Mhezenter Mirilar: thief from Wheloon
+ Torleth Mindulspeer: the antique and curio dealer from Gillian's Hill kept one of the lanterns of revealing, along with a necklace of fireballs, and the original Greatshout as a Young Man, in his trapped vault under Torleth's Treasures circa 1372 DR.
+ Szass Tam: used one of these necklaces long before he achieved lichdom.
+
+Notable Necklaces of Fireballs
+ One Gift Lost
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Nessarch
+
+The Nessarch was the elected mayor of the city of Yhaunn in Sembia.
+
+Activities
+The position of Nessarch was chosen by the ruling Fives Council of Yhaunn. Once selected, a Nessarch would serve for life.
+
+Known Nessarchs
+ Andilal Tharimpar
+
+Appendix
+References
+
+---
+
+## Nerath
+
+Nerath, also known to its inhabitants as "The First Work", was a world that existed in a different continuum, parallel to that of Toril.
+
+Cosmography
+The world of Nerath was located in the same Prime Material plane where the world of Abeir-Toril, among others, existed, but was separated from it by a unthinkably long distance. While it was possible to reach Nerath by traveling beyond the known regions of the Astral Plane or the Elemental Chaos, such a travel would take many long years and it was easier just to find a portal that connected both worlds.
+
+Gateways
+There was at least one known portal to Nerath in Sigil.
+
+Baba Yaga knew of Nerath and had probably even visited in her dancing hut, which traveled all the worlds and planes. In its Hall of Gateways, a portal called the World Gate linked to every world Baba Yaga knew of, as well as their respective Shadowfells and Feywilds.While the world of Nerath is not specifically mentioned in the adventure, Baba Yaga is among the archfey known by the people of that world, according to the 4th edition Manual of the Planes (page 36).
+
+Notable locations
+The Nentir Vale was a small vale located in a northern region of this world, where the town of Fallcrest was located. The Silver Unicorn Inn, where Acquisitions Incorporated was founded, was one of Fallcrest's more popular inns.
+
+Notable individuals
+The deva Demascus and the plague demons Murmur and Scour were originally from this world.
+
+Omin Dran, Jim Darkmagic and Binwin Bronzebottom were also from this world.Acquisitions Incorporated (sourcebook) mentions that Acquisitions Incorporated was founded in the city of Fallcrest. Fallcrest is the sample city located in the Nentir Vale, described in page 196 of the 4th edition Dungeon Master's Guide.
+
+The wizards Mordenkainen and Emirikol had visited this world at least once.
+
+History in Relation to the Realms
+Ancient History
+In ancient times, the dragonborn ruled a world-spanning empire named Arkhosia, that warred against Bael Turath, an empire ruled by tieflings. Eventually both empires destroyed each other in a devastating war. Even though both races had a long tradition of "enmity", those empires existed so long ago that the dragonborn of Tymanther in the late years of the 15 century DR considered such enmity more theoretical than practical.The ancient empires of the dragonborn and tieflings mentioned in Venom in Her Veins seem to be a reference to Arkhosia and Bael Turath, two ancient empires that existed in the world of Nerath. While there is no evidence in Realmslore of said empires existing in the past history of Abeir-Toril, the lore of said empires mentions that they build some colonies in other worlds and planes. Perhaps the history of these ancient empires was discovered by the dragonborn and tieflings of the Realms from these places.
+
+Modern History
+Approximately 100 years before the fall of the empire of Nerath (the great empire of humankind on this world), worshipers of Tharizdun native to this world went to Sigil, and from there to Pandemonium, trying to free their god from its ancient prison. They ultimately failed, thanks to the efforts of heroes from the world of Nerath, among them the deva Demascus. However, the evil cultists managed to unleash the abyssal plague into many worlds of the multiverse, including Toril.
+
+Religion
+Deities
+Some deities from this world were summoned by the gods of Realmspace during the Dawn War, to help them defend the newly born worlds of the Material Plane against the primordial threat.
+
+The patron goddess of Demascus, Ioun, was originated from this world. The Raven Queen and Torog were also said to have originated from Nerath.
+
+Of the gods of the Faerûnian pantheon, Bane was worshiped in Nerath as a god of conquest and war.
+
+Appendix
+External links
+
+Notes
+
+Background
+This world is the core setting of 4th-edition Dungeons & Dragons, commonly called the "Points of Light" world. It is home to Nentir Vale and a fallen empire called Nerath, after which this world is known.
+
+According to Christopher Perkins, the Nentir Vale was originally conceived to be part of the Forgotten Realms setting, before being used as the setting for the Nerath world. Shadowfell Keep and the town of Winterhaven are the only places of Nentir Vale that eventually appeared in a Forgotten Realms product.
+
+References
+
+---
+
+## New Velar
+
+New Velar (formerly Harrowdale Town or Harrowdale) was the capital and largest settlement of Harrowdale in the Dalelands.
+
+Names
+The town began as Harrowdale Town (or simply Harrowdale), but, in 1428 DR, the town was renamed New Velar, to mark the formal alliance between the Council of Seven Burghers and Myth Drannor.
+
+Geography
+Geographical features
+As of 1368 DR, Marco Volo noted that (then) Harrowdale Town had kept more old buildings than any other settlement in the Dalelands.
+
+Government
+The Council of Seven Burghers, the governing council of Harrowdale, was run from the Council Hall in New Velar as of 1368 DR.
+
+Trade
+Defenses
+Law enforcement was provided by the town Watch, which, as of 1368 DR, consisted of thirty "constables", equipped with ring mail, a crossbow, and a short sword. The Watch Barracks in the town also provided a court and a jail, although, in 1368 DR, there were no prisoners. The Watch was led by Ellarian Dawnhorn.
+
+Under Ellarian Dawnhorn of the town watch, as of 1368 DR, merchants felt safe in leaving doors open at any time, knowing that sufficient protection would be provided. The last six thieves operating in (then) Harrowdale Town were all apprehended and killed.
+
+History
+Rumors and legends
+Notable locations
+ Council Hall
+ As of 1368 DR, this acted as the meeting point for the Council of Seven Burghers, the ruling council of Harrowdale.
+ Harrow Market
+ As of 1368 DR, a muddy market with a fishy aroma, charging vendor fees of 4 sp per stall or cart per day. Due to the cramped nature of the market, and therefore the limited size of the stalls, they were unable to provide serious competition for proper shops.
+ Harrow Point Light
+ As of 1368 DR, a small lighthouse on Harrow Point, which was used by sailors on the Dragon Reach, and, at this time, was manned by Hesketh.
+ Two Rocks
+ As of 1368 DR, an island in the center of the (then) Harrowdale Town harbor, and thought by many to contain pirates' gold.
+ Watch Barracks
+ As of 1368 DR, this provided a court and a jail (although the jail was empty in 1368 DR). At this time it was at the junction of Melurk Street and Lancegallop Lane, and had catapults on the roof that could be used to defend the harbor.
+
+Inhabitants
+From a population of 1085 in 1368 DR, the chaos in neighboring Scardale is thought to have played a part in the boom in population of (then) Harrowdale Town to 4206 in 1372 DR.
+
+Appendix
+
+References
+
+FR:Nouvelle Vélar
+
+---
+
+## Nelkin Danniker
+
+Nelkin Danniker, better known as the Snail, was a member of the Zhentarim in Daggerford sometime after the War of the Silver Marches.
+
+Activities
+Nelkin was the primary Zhent contact of the succubus Pencheska. Usually he spent his time at the River Shining Tavern where he was well protected. He often hired the Seven Snakes group.
+
+Appendix
+Appearances
+ Storm King's Thunder
+
+References
+
+---
+
+## Nellis Saradexma
+
+Nellis Saradexma was an Imaskari human wizard who served as the ambassador of High Imaskar.
+
+Description
+Nellis was tall and thin, and had gray lines, like those of genasi, adorning his skin in intricate patterns.
+
+History
+In 1479 DR, Nellis served as the ambassador of High Imaskar in Tymanther. When ambassador Perra was banished from Chessenta, she discovered that High Imaskar and Akanûl had began diplomatic relationships. Nellis was summoned by Vanquisher Tarhun to explain this, but the Imaskari was unable to do so.
+
+When Tchazzar began to prepare to invade Tymanther, Tarhun sent Nellis, alongside the paladin Medrash, Balasar, Biri, Khouryn Skulldark of the Brotherhood of the Griffon, and the Platinum Cadre, back to High Imaskar in order to procure the military aid of the Imaskari to help them halt the invading Chessentan forces. After Empress Ususi agreed to help the dragonborn, Nellis was tasked with aiding them during the operation to search for and destroy Gestaniius.
+
+Appendix
+Appearances
+ The Captive Flame
+ The Spectral Blaze
+
+References
+
+---
+
+## Nera Muirreste
+
+Nera Muirreste was the wife of Elvath Muirreste.
+
+History
+In 1374 DR, after Elvath's death in the Battle of the Cwm, Seiveril Miritar went to visit Nera in order to tell her how her husband died valorously.
+
+References
+
+---
+
+## Nesterin Deirr
+
+Nesterin Deirr was a star elf bard in the 1370s DR in Sildëyuir.
+
+History
+In 1374 DR, Nesterin found House Aerilpe abandoned and infested by nilshai. He tried to return but during the voyage was attacked by two nilshai. He was saved by a timely meeting with Jorin Kell Harthan and Araevin Teshurr's party. He offered them hospitality inside the House Deirr palace.
+
+Later, he joined Araevin's party in their search for the Gatekeeper crystal.
+
+He was greatly injured inside the Waymeet fighting Malkizid and his yugoloth servants in order to gain time for Araevin to use the Gatekeeper.
+
+Appendix
+
+Appearances
+Novels
+ Farthest Reach
+
+References
+
+---
+
+## Nelyssa Shendean
+
+Nelyssa Shendean was the leader of the Riders of Mistledale in the mid-to-late 14 century DR.
+
+History
+During the Time of Troubles in the, Nelyssa fought alongside the Knights of Myth Drannor and the Harpers against an invading Zhent army in Archendale.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Nehushta
+
+Nehushta was a primordial artificer who fought against the gods during the Dawn War.
+
+Description
+Nehushta was a massive being made of different metallic alloys who shined star-white when roused to fury. Over the years, she modified her own body with fantastic assemblages of gears, blades, and other golem-like improvements.
+
+History
+Genasi from the world of Abeir believed Nehushta was the creator of both Abeiran and Torilian genasi, having created them in the dawn of time to serve as her slaves. Members of the Burned believed themselves to be direct descendants of the original genasi crafted by the primordial. The ancient artifact known as the Birthing Furnace was a creation of Nehushta as well, lending credence to those claims. Nehushta was also credited as the creator of the dreaded anaxims.
+
+Before the separation of Abeir-Toril, Nehushta erected the fortress of Glaur in the northern lands of Gontal to serve as a central front during the Dawn War. After the primordials were defeated and Ao split Abeir-Toril into the twin worlds, Abeir and Toril, Glaur was transported to the world of Abeir. Nehushta isolated herself in her fortress until the War of Fang and Talon, when she was killed by traitorous dragons. Her worshipers believed that the tears she wept when she was betrayed formed the Quicksilver Lake of Glaur.
+
+Even when she was reported as dead by the dragons of Abeir, scholars debated whether if this was actually true or not, and many believed  a living remnant of Nehushta herself was hidden in the ruins of Glaur.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Nekiset
+
+Nekiset was the most powerful cleric in service to Set in Mulhorand in 1357 DR.
+
+History
+Born in Sampranasz as a slave, Nekiset became the leader of her slave group as a youth, impressing her masters.
+
+During a trip to Sampranasz, Seti, the current incarnation of Set, noticed Nekiset for her devotion and evil tendencies and freed her, offering a place among the clergy of Set. Soon she rose through the ranks to the very top.
+
+In 1357 DR, she planned the assassination of Pharaoh Akonhorus II.
+
+Activities
+Nekiset was the leader of the Fangs of Set. She had the same plans as Hodkamset, to replace the young pharaoh Horustep III with a rakshasa follower of Set in order to create chaos inside the clergy of Horus-Re, hoping to use this to give the throne to Seti.
+
+Personality
+Nekiset had started to think that Hodkamset needed to be replaced, both for her to achieve supremacy and for Hodkamset's mad tendencies, but she understood the need to wait until after seizing power to act.
+
+Relationship
+Nekiset and Hodkamset were so close that many thought they were lovers.
+
+Appendix
+References
+
+---
+
+## Nebuseddar
+
+Nebuseddar was a fighter in Unther and one of the best champions in the service of Gilgeam in 1357 DR.
+
+History
+In 1357 DR, under the orders of his god-king, Nebuseddar went to participate in the tournament held in Mourktar in Threskel to choose the new king. He managed to finish among the tournament's finalists.
+
+Powers
+Gilgeam powered Nebuseddar with his divine powers.
+
+Appendix
+
+References
+
+---
+
+## Nearel
+
+King Nearel of the House of Ithal-Strohm-Bormul was the second king of the Lions' Dynasty of Tethyr.
+
+Relationships
+Nearel was the seventeenth son and 32 child of King Mhoaran the Tusk-Bearded, the first ruler of the dynasty.
+
+Nearel had at least two sons.
+
+History
+The man who would become King Nearel was born in the Year of the Empty Hourglass, 951 DR. Because the nobles of the land were trying to restore power to the Bormul Dynasty, Nearel was hidden at birth and raised in a fishing village on the Dragon Neck Peninsula.
+
+When Nearel was fourteen years of age, his father, the king, came to visit him. On the voyage, assassins tried to kill Mhoaran but failed. When Mhoaran and Nearel were reunited, the young man used a magical horn to summon a pack of sea cats, who slaughtered the pursuing assassins. After this incident, the "sea lion" was made a part of the royal seal and coat of arms of Tethyr.
+
+Nearel took the throne about nine years later in 974 DR, upon his father's death. Much of his reign was spent tracking down and executing surviving members of the Bormul dynasty. Nearel himself killed King Teremir's oldest son by 981 DR. By 991 DR, Teremir's second son and family were also dead, leaving only Teremir's daughters and her descendants to challenge the throne.
+
+Nearel died six years later, in 997 DR, and was succeeded by his second son, Kortal, who would be the one to kill off the rest of King Teremir's family.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Neri
+
+Queen Neri was a storm giant queen in the late 15 century DR.
+
+Relations
+Neri was the queen of the storm giants, and was married to King Hekaton.
+
+History
+At one point, she went with her youngest child Serissa to the Sword Coast and the Moonshae Isles to meet friendly small folk.
+
+In the late 1480s or early 1490s DR, her brother-in-law, Uthor, found Neri's dead body. Uthor went to his niece, Serissa, for counsel and the daughter of the queen managed to calm her father's rightful rage. After this, Hekaton decided to first uncover the truth behind his wife's demise, before taking action.
+
+Personality
+Neri was known for her friendliness towards the small folk, a trait she passed to her youngest daughter, Serissa. However, she showed equal favor for her children, Mirran and Nym believed she showed favoritism, leading to jealousy of Serissa.
+
+Appendix
+
+References
+
+---
+
+## Nevik'Dethig
+
+Nevik'Dethig was an aboleth in the Lake of Blood in the late 15 century DR.
+
+History
+Circa 1486 DR, having heard the whispers of the demon lord Graz'zt, Nevik'Dethig settled inside the Lake of Blood, quickly gaining some orc minions from Maerimydra.
+
+When the allied factions attacked Maerimydra, the aboleth was confronted by an adventuring party supported by a mind flayer, Vilcuum.
+
+Personality
+Nevik'Dethig was curious about the war at Maerimydra. He believed that no humanoid could harm him.
+
+Appendix
+
+Appearances
+Assault on Maerimydra
+
+References
+
+---
+
+## Nebbish
+
+Nebbish was a human patron of the Elfsong Tavern in Baldur's Gate around 1372 DR.
+
+History
+Nebbish appears to have lived in Baldur's Gate long enough to know about the history of the local thieves guild and the new guild that had usurped the former's dominance in the city. He enjoyed a simple life of drinking rather than involving himself with city functions.
+
+Nebbish was met by Adrianna, Vahn, and Kromlech after they were attacked by thieves on the city streets outside of the tavern. When Nebbish first met the trio, he dismissed them as beggars and did not wish to be bothered. He then explained how he had seen the new thieves guild take over operations in Balder's Gate, merely commenting on them as being a more blood-thirsty batch than the previous guild. Because he had not had any dangerous encounters with them, Nebbish was in favor of allowing the thieves to do as they pleased. His only problem was not being able to spend his money on drinks due to Alyth the bartender cutting him off two nights before. Once the trio helped Nebbish by giving him a drink found in the storage cellar, Nebbish rewarded them with a healing potion.
+
+Appendix
+Appearances
+ Baldur's Gate: Dark Alliance
+
+References
+
+External links
+
+---
+
+## New Olamn
+
+The College of New Olamn, simply known as New Olamn, was a traditional bardic college in Waterdeep. It was formed as a successor to the old College of Ollamh, also known as just Olamn.
+
+Membership
+Bards traveled from around Faerûn to study there.
+
+Organization
+Students of New Olamn were trained in their chosen instruments and underwent a rigorous study of ancient history and memorization of ancient songs and sagas. Most bards of New Olamn studied the College of Lore and practiced its methods.
+
+Master bards (those generally acknowledged to have finished their studies elsewhere) who studied at New Olamn and completed their studies there were conferred the degree of Magnus Alumna.
+
+Base of Operations
+The old Olamn college stood on the site later occupied by the House of Song in the Trades Ward. (A popular local story held that Olamn had stood on the site of Halambar Lutes & Harps, but this was false.)
+
+The New Olamn college was located in two villas, Heroes' Rest and Stormwatch, in the Castle Ward. They stood on the Cliffride, a gravel path that ran up the northern side of Mount Waterdeep, overlooking the sea near Waterdeep.
+
+The Cliffride was used to bring supplies to the college, but most visitors and students used the underground tunnel that had been bored through the mountain to improve access. Known as the Mount Melody Walk, the tunnel was staffed round-the-clock by a contingent of the City Guard, with two guards at each end. The passage was illuminated by magical glowing gems; these brightened and changed their hue in response to nearby by sounds. The tunnel was continuously resounding with music due to an ongoing concert known as the Neverending String of Pearls that was performed by bardic students in a small alcove in the tunnel.
+
+New Olamn held a moderately sized amphitheater, where many musicians (particularly members of the Council of Musicians, Instrument-Makers, & Choristers) performed their own works. It also featured operas, which were attended by wealthy citizen.
+
+History
+
+The original College of Ollamh was one of the seven elder bardic colleges, dating back to the legendary bard Falataer who established it as the final level of his bardic college. The Ollamh harp, one of the Instruments of the Bards, was named after this college. It had been created by Falataer to test and reward his students who achieved mastery of the Ollamh level of skill. Following this tradition, bards studying to obtain the rank of Magna Alumnae attended all seven colleges, and Ollamh was traditionally the last. However, this practice was abandoned once the original colleges declined, with Olamn falling out of use centuries before the mid–1300s DR.
+
+Following the disgruntled bard Iriador "Garnet" Wintermist's attacks in the Year of the Wave, 1364 DR, Danilo Thann saw a need to re-establish a bardic college in Waterdeep. Working with Kriios Halambar, master of the musician's guild, he developed a plan to re-found such institutions, beginning with one in Waterdeep. Led by Halambar, the Council of Musicians, Instrument-Makers, & Choristers threw their weight behind the proposal, and it was backed by wealthy patrons of the Crommor, Estelmer, Majarra, Melshimber, and Thann noble families. Lord Kelthul Majarra and Lady Hlanta Melshimber even donated the Stormwatch and Heroes' Rest villas to serve as the college's new home. In the Year of the Staff, 1366 DR, the college was reopened with the name of New Olamn.
+
+Within a few years, New Olamn made a name for itself as a quality source of education and a premier storehouse of lore. Bards traveled from around Faerûn to study there.
+
+When Kriios Halambar died in the early 1370s DR, with an election for his replacement as guildmaster not scheduled until the Year of the Haunting, 1377 DR, leading guild musicians began to jostle for influence and position. This provoked thinly veiled tensions between leading Waterdhavian musicians, both in the Council and in New Olamn's leadership.
+
+Appendix
+
+Appearances
+Adventures
+
+Waterdeep: Dragon Heist
+Board Games
+Lords of Waterdeep
+
+Further Reading
+ City of Splendors (boxed set)
+ City of Splendors: Waterdeep
+
+References
+
+FR:Nouvel-Olamn
+Connections
+
+---
+
+## Nezras
+
+Nezras the Traitor was the infamous traitor that betrayed Myth Drannor by allying himself with the Army of Darkness.
+
+History
+Nezras first arrived in Myth Drannor in 683 DR and joined the Six Tyryl Towers magic school in search of magic to restore his granduncle's Unique Mageries tome. In 686 DR, he wed the elf sorceress Raejisa Sicafei after both graduated at Six Tyryl Towers.
+
+At the start of  the Weeping War, however, Nezras joined the Army of Darkness.
+
+He fought with his master the lich Laummas in the decisive battle of Hammer 25–29, 712 DR, against the Harpers at Twilight, where most of the Harpers died. However, Laummas was destroyed by the Harper leader Dathlue Mistwinter.
+
+Nezras fought in another decisive battle that ended in a victory for the Army of Darkness on Kythorn 23 of 714 DR. In this battle, however, after the death of the elf Spell-Captain Phyrra Iliathorr, the young moon elf Akh'Faer mage Juppar in a rage managed to defeat Nezras, who was presumed killed.
+
+In truth, at the last moment, using some lost spell, Nezras changed his position with another human traitor mage and survived. However, he turned into a lich and went into hiding. Around 1014 DR, the Harpers finally discovered the truth, believing him to be hidden in a lair in the Vilhon Reach.
+
+Relationship
+Nezras was the apprentice of the lich Laummas. He was the grandnephew of the Mulan archmage Nezram the World-Walker.
+
+Possessions
+Nezras's mysterious chainmail was an oddly shapeless set of armor that belonged to Nezras before and during the events of the Weeping War.
+
+Rumors
+A rumor said that after the Time of Troubles Nezras was restored to life and youth.
+
+Appendix
+
+Appearances
+Video Games
+
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+FR:Nezras
+
+---
+
+## Neville Dobbin
+
+Earl Neville Dobbin was the 35 earl of Stagwick in Hartsvale. He was known as the author of A Full History of the Dobbins of Stagwick. Ruther Dobbin was one of his descendants.
+
+Reference
+
+---
+
+## Netocris bin Shalah
+
+Netocris bin Shalah was a yuan-ti pureblood ambassador to the necropolis of Ysawis for the population of yuan-ti inhabiting the Grey Jungle in east Zakhara in 1367 DR.
+
+Appearance
+As a pureblood, Netocris appeared as an attractive human woman. She wore daringly revealing silk clothing to further enhance her sexuality. Her sharp fangs were only bared when she was angered.
+
+Personality
+Netocris exhibited grace and manners in her dealings with the living inhabitants of Ysawis. These outward traits masked her wicked intelligence.
+
+Activities
+Netocris maintained the illusion that she was a bored noblewoman from Kadarastro in front of the rulers of Ysawis, hoping to establish an embassy in the city. The reality of the situation was that Netocris was there to determine the strengths and weaknesses of the necromancers ruling the city.
+
+She was accompanied by a quartet of yuan-ti halfblood bodyguards at all times.
+
+Possessions
+She owned a ring of protection, a magical short sword, and a philter of glibness.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Nelac
+
+Nelac was a beholder living in Mulmaster in 1373 DR.
+
+Activities
+Nelac laired within the sewers of Mulmaster, inside a secret temple to Bane. It had an agreement with the gelugon Irunteld.
+
+Appendix
+
+References
+
+---
+
+## Nenon
+
+Nenon was the Flaming Fist commander of Fort Beluarian in Chult during the late 14 century DR. She was an officer within the Flaming Fist, serving under Grand Duke Eltan.
+
+History
+After 1362 DR, Nenon was hired to drive the Batiri away.
+
+Activities
+Nenon permitted truly desperate explorers to remain one or two days inside the Fort.
+
+Appendix
+
+References
+
+---
+
+## Neiron
+
+Neiron the Schemer  was a very powerful ranger in the Dragon Reach area in 1357 DR.
+
+Activities
+Neiron had several hidden refuges in the area of the Dragonmere and wandered alone around the Sea of Fallen Stars, always following his mysterious agenda.
+
+History
+During his wandering, Neiron had killed the hobgoblin chieftain Gothag and in the Stonelands he had eliminated the frost giants Gurrl and Kutharr. He had saved many people lost in the woods or attacked by bandits.
+
+Relationship
+Neiron had many contacts in the area among druids and foresters of little power and influence. He was the most powerful ranger in the area not allied with the Harpers.
+
+Rumors
+Rumors said that Neiron wanted to settle in the area after founding a stronghold.
+
+Appendix
+
+References
+
+---
+
+## Nentor Thuldoum
+
+Nentor Thuldoum was a Zhentarim high wizard.
+
+History
+Nentor briefly led the armies of the Citadel of the Raven in battle against brigands, Thentian freebands, and monsters of Thar. He was later relocated to Zhentil Keep to train wizards for the Network.
+
+On Flamerule 16 of 1358 DR, he was in Ordulin with his apprentice Baedelkar. However, Nentor received orders from Manshoon to depart, but when he went to find Baedelkar at the Winking Will-o'-the-Wisp Pleasure Palace, Baedelkar was dead. Nentor went to Dalelands and met the Zhentilar commander Amglar and the young Zhent wizard Myarvuk. They were attacked at the Standing Stone by mysterious flying arrows that killed Myarvuk and injured Amglar.
+
+Later Nentor discovered that two malaugrym were marching to Mistledale to fight Elminster and the Rangers Three.
+
+The next day Nentor together with Amglar lead the Zhent army against the defenders of Mistledale. The Zhent were winning when Sylune appeared behind Nentor and Amglar and killed the two Zhent commanders.
+
+Appendix
+Appearances
+All Shadows Fled
+
+References
+
+---
+
+## Necreme
+
+The Necreme was a sorcerous boat powered by undead rowers used to ply the waters of the Whispermere in the Shadow Swamp in the Plane of Shadow in the early 1370s DR. It was piloted by the shadar-kai ferrymaster Sithierel of the church of Shar.
+
+Description
+It was a simple keelboat, about 30 feet (9 meters) long and 10 feet (3 meters) wide, with a wooden hull 3 inches (7.6 centimeters) thick. It had a peculiar and ungainly design, with a raised platform at the stern where the coxswain could operate the tiller, an oarpit with benches for chained rowers set low amidships, and a small cabin at the forward end, with a foredeck over it. A raised catwalk led over the oarpit, leading to the coxwain's stand. It had a mast but no sails, having no need of them in the swamp. Instead, lanterns were hung from the mast and bowsprit. The whole vessel was painted black, and its name were picked out in bleached bones set into the sides of the hull, so as to drive the point home.
+
+Powers
+The Necreme itself was barely magical; its real power was in its crew and the means used to direct them—four animated orc skeletons and the command amulet that controlled them. One who wore the command amulet around their neck could order the skeletons to begin rowing, or to stop rowing. This gruesome engine provided motive power to the boat, letting it travel at a speed of 2 miles (3.2 kilometers) an hour over water. The pilot of the vessel (who might also be the amulet-wearer) still needed to steer it, however.
+
+New crew could be brought on by ordering a skeleton (already controlled by a cleric or wizard) to obey the wearer of the amulet, whoever that may be, and they switched masters, becoming bound to the amulet. However, they could do nothing but begin rowing, continue rowing, and stop rowing, and would keep rowing until specifically ordered to stop. Otherwise, they sat quietly and still. Nevertheless, the skeletons were chained to their oars for safety's sake.
+
+Crafting
+To create the command amulet, one versed in crafting magical items needed the command undead spell or an evil cleric's power to dominate undead. They also, of course, needed an existing keelboat or similar vessel that could be propelled by four uncomplaining rowers.
+
+History
+The Necreme was constructed by members of the church of Shar for use in the Shadow Swamp, as its waterways were the easiest way of getting around. Thereafter, Sithierel and his companion Grask ferried duped petitioners of the Temple of Mystra in Wheloon over the Shadow Swamp to their ultimate fates.
+
+Finally, in early Eleint of the Year of Lightning Storms, 1374 DR, Sithierel and Grask may have been defeated by adventurers in service to Mystra investigating the Sharrans' activities, and the Necreme seized by them, possibly destroyed.
+
+Activities
+Operating the Necreme as a ferry over the Whispermere through the Shadow Swamp, Sithierel's duty was to transport captives from the Shadow Citadel to the Monastery of the Ebon Dome. The trip took around 10 hours. He made his journey every two days, and rested for a night at the monastery. Along the way, he refilled the beacons that lit the route with shadowlight oil and restocked on oil at the monastery. He also occasionally took Sharran leaders to the Shadowscale Warren on the dark lake.
+
+Cargo
+Sithierel kept his belongings and loot in an iron coffer in the small cabin. He also stored five casks of shadowlight oil.
+
+Appendix
+References
+
+---
+
+## Nerifar
+
+Nerifar was a dragonborn of Abeir, a descendant of Shasphur, and an ancestor of Clan Kepeshkmolik.
+
+Relationships
+Nerifar was the direct ancestor of Kepeshkmolik Thymara.
+
+History
+Nerifar was one of the dragonborn clan leaders who took part in the battle of the Crippled Mountain. While Iskdara, Shurideh, Reshvemi, and Thuchir infiltrated the Celestial Mountain to kill Rhodrolytharnestrix, Nerifar was one of the clan leaders who led the dragonborn rebels against Rhodrolytharnestrix's dragon army.
+
+Nerifar survived the final battle and was one of the founders of Tymanchebar, and presumably, he was the first patriarch of Clan Kepeshkmolik.
+
+Appendix
+Appearances
+ Ashes of the Tyrant
+
+References
+
+---
+
+## Neverember
+
+Neverember was a  noble family that lived in Waterdeep and Neverwinter in the 15 century DR.
+
+Residence
+The Neverember family lived in both cities of Waterdeep. and Neverwinter.
+
+History
+According to some conflicting records, Nasher Alagondar, king of Neverwinter in the late years of the 14 century, had a bastard son named Vers Never, who left Neverwinter and settled in Waterdeep, marrying Mirtria Ember and founding the Neverember family.
+
+Around 1468 DR, the Neverember family rose to prominence when Dagult Neverember became first the Open Lord of Waterdeep and then subsequently the Lord Protector of Neverwinter.
+
+Known Members
+Vers Never, presumed son of Nasher Alagondar and founder of the family.
+Mirtria Ember, wife of Vers Never.
+Dagult Neverember, a descendant of Vers Never who served as both Open Lord of Waterdeep and Lord Protector of Neverwinter.
+Renaer Neverember, son of Dagult and a member of the Moonstars.
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Neverwinter Nights: Enhanced Edition
+
+Neverwinter Nights: Enhanced Edition is an updated version of the 2002 video game Neverwinter Nights and its expansions, Shadows of Undrentide and Hordes of the Underdark, as well as several premium modules, including the Forgotten Realms offerings of Pirates of the Sword Coast, Infinite Dungeons, and Wyvern Crown of Cormyr. The Enhanced Edition brings numerous technological improvements to the game, including an updated graphics engine and revitalized multiplayer support.
+
+New features
+The Enhanced Edition brought a number of additions and features.
+
+Support for modern displays, including UI scaling
+Updated graphics engine, featuring new shaders and post-processing effects
+Numerous fixes for known bugs, exploits, and security loopholes
+Updated multiplayer support
+New scripting commands for content creators
+Backwards compatibility with existing Neverwinter Nights modules
+
+Appendix
+
+External links
+ Beamdog's Neverwinter Nights site
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Neverwinter/Protector's Enclave
+
+The Protector's Enclave was one of the districts of Neverwinter, named after Dagult Neverember, the Lord Protector of the city.
+
+Geography
+Most of the original buildings of this district were left unscathed after the destruction of the city. As such, the Protector's Enclave was the only part of Neverwinter that looked like it did in its old days.
+
+Economy
+The city's market, where all commerce in Neverwinter took place, was located in the Protector's Enclave. Merchants from Waterdeep and other cities of the Sword Coast had to pay high taxes to sell their wares here.
+
+Inhabitants
+Besides Lord Neverember and his underlings, the Protector's Enclave was inhabited by survivors of the cataclysm as well as immigrants who took up residence in the city after its recovery. Most of the inhabitants of the Protector's Enclave were staunch supporters of Neverember's rule.
+
+History
+
+The Protector's Enclave was originally known as the Merchant Quarter of Neverwinter.Based on the locations of certain buildings in the game. This district in turn was part of other two different districts: the City Core and the Peninsula District. Both were heavily damaged during the war against Luskan. The damaged parts were rebuilt as a different district.
+
+Long before the 14 century DR, two children were buried under the city watch in the Merchant Quarter. Their invisible ghosts became known to run around the area, endlessly playing a game of tag. Local superstition claimed that those who came across the ghostly children were paralyzed by fright. In the, the adventure troupe led by Francis the All-Seeing, famously, banished the kids' ghosts by exhuming the children's bodies and performing a sanctified burial ceremony. It was never discovered how the dead children ended up being buried under the city watch.
+
+When the Spellplague of 1385 DR struck Neverwinter, the lands surrounding the Moonstone Mask became an earthmote.
+
+When Mount Hotenow erupted in 1451 DR, bringing about the destruction of most of Neverwinter, the southwestern part of the city was left mostly untouched by the pyroclastic flow. This made this quadrant a suitable place for survivors to establish their Settlers' Enclave. It thus also became the primary target for Lord Neverember when he began his efforts to rebuild Neverwinter. He later fused the City Core, the Peninsula District and the Merchant Quarter into only one area. Soon after, survivors of the cataclysm, as well as new immigrants began to quickly repopulate the district.
+
+As the seat of power of Neverember, the district was soon renamed the "Protector's Enclave" by the people.
+
+Notable Inhabitants
+ Lord Dagult Neverember
+ Major Soman Galt
+ General Sabine
+ Liset Cheldar
+
+Notable Locations
+Businesses & Mercantile
+ Grand Emporium, the business that provided wild beasts for sale and mercenaries for hire.
+ Manycoins Bank
+ Sage's Shop, an out-of-the-way specialty shop that catered to those interested in the arcane arts.
+ Seven Suns Coster Market, a grand marketplace run by the famous Seven Suns company.
+ Shaundakul Stables, the shop of Brendon Canter, that specialized in all sorts of steeds, from horses to exotic beasts.
+ Tarmalune Trade House, the establishment run by a consortium from the Abeiran city of Tarmalune.
+
+Inns, Festhalls, & Taverns
+ Moonstone Mask, the famous festhall built upon a earthmote that rose over the city.
+
+Landmarks
+ Alteration Tower, the mage's tower of Lady Jyllian
+ Castle Never
+ Tower of Solace, a partially destroyed tower that served as an illegal hospital for the city's plaguetouched.
+ The Wall
+
+Temples
+ Hall of Justice
+ House of Knowledge
+
+Roads
+ Coriol Street • Dagger Way • Deekin Street • Fiddler's Path • Protector's Road • Tymor Street
+
+Appendix
+
+Notes
+
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Neverwinter Nights (AOL game)
+
+Neverwinter Nights is a computer game released in 1991. It was developed by Stormfront Studios and published by Strategic Simulations, Inc. and ran on MS-DOS. It was the first multiplayer online role-playing game to display graphics, and was hosted on AOL.
+
+Gameplay
+Neverwinter Nights was developed with gameplay similar to other games in the Gold Box series. Players begin by creating a character. After creating the character, gameplay takes place on a screen that displays text interactions, the names and current status of one's party of characters, and a window which displays images of geography marked with various pictures of characters or events. When combat occurs, gameplay switches to full-screen combat mode, in which a player's characters and enemies are represented by icons which move around in the course of battle.
+
+Situated in the city of Neverwinter and more than twenty surrounding regions/areas, the game itself was similar to other official AD&D Forgotten Realms games of its time. As it was an online game, it had several additional menus for online purposes, as well as features unknown to standard AD&D games of the time, such as the ability to teleport from one region/area to another.
+
+Index
+Characters
+ Ardanac Harpell • Nasher Alagondar • Skulner Wainwright
+
+Berun • Malchor Harpell
+
+Creatures
+ ankheg • banshee • basilisk • beholder • black dragon • bronze dragon • bugbear • bulette • carrion crawler • centaur • cloud giant • cockatrice • crocodile • cryo snake • cyclopskin • displacer beast • dracolich • drider • dwarf • earth elemental • efreeti • elf • electric spider • ettin • fire elemental • fire giant • frost giant • gargoyle • ghoul • giant centipede • giant crocodile • giant kampfult • giant lizard • giant rat • giant scorpion • giant skeleton • giant slug • giant snake • giant spider • giant toad • gnoll • gnome • goblin • great vilstrak • green hag • griffin • half-elf • halfling • harpy • hell hound • hill giant • hippogriff • hobgoblin • human • hydra • ice hound • iron golem • kobold • lich • lizard man • mammoth • manticore • margoyle • mastodon • medusa • minotaur • mobat • mummy • neo-otyugh • ogre • ogre mage • orc • otyugh • phase spider • poisonous snake • purple worm • pyro snake • red dragon • remorhaz • rock reptile • salamander • shambling mound • skeleton • sphinx • stirge • storm giant • tiger • troll • umber hulk • warg • white dragon • white gorgimera • wild boar • wolf • wyvern • yeti • zombie
+
+dragon • duergar • horse
+
+Locations
+Bodies of Water
+Neverwinter River • River Mirar • Sea of Swords
+Dungeons
+Sewers of Neverwinter
+Regions
+Sword Coast North
+Settlements
+Crossergate • Floodblest • Longsaddle • Luskan • Neverwinter • Nightsedge • Port Llast • Triboar • Vilnask • Windycliffs
+Buildings
+Bayless Arms & Armor • Calacirya's Inn • Counting House • Cragdyk's Arms & Armor • Castle Never • Curious Items Emporium • Cutlass • Daglow's Inn • Gilded Horseshoe • Ivy Mansion • Kroegel's Arms & Armor • Mancuso's Inn • Mataga's Inn • Neverwinter Health Society • Rankled Boar Inn • Red Mage Inn • Seven Sails Inn • Sinda's Trading Post • Southwall • Temple of Helm • Temple of Tyr • Warehouse District • Western Weapon Shoppe • Wharves
+Wilderness
+Berun's Hill • Lost Hills • Neverwinter Square • Neverwinter Woods
+Roads
+Evermoor Way • Long Road
+Ships
+Gallant Prince
+
+Amn • Fireshear • Gundarlun • Ice Peak • Lantan • Mintarn • Mount Hotenow • Orlumbor • River Dessarin • Ruathym • Trollmoor • Vilnask • Waterdeep
+
+Organizations
+ Company of the Brazen Pennant • Harpell • Kraken Society • Potter's Guild • Zhentarim
+
+Five Captains of Luskan
+
+Religions
+ Chauntea • Helm • Oghma • Tyr
+
+Miscellaneous
+Armor & Clothing
+banded mail • chain mail • leather armor • padded armor • plate mail • ring mail • scale mail • shield • splint mail • studded leather armor
+Conditions
+petrification
+Food & Drink
+alfalfa • corn
+Items
+mirror
+Materials
+brass • gold • platinum • silver
+Substances
+holy water • oil
+Weapons
+arrows • awl pike • bardiche • bastard sword • battle axe • bec de corbin • bill-guisarme • bo stick • dagger • dart • fauchard • fauchard-fork • flail • glaive • glaive-guisarme • guisarme • guisarme-voulge • halberd • hand axe • javelin • jo stick • light crossbow • longbow • long sword • lucerne hammer • mace • military fork • military pick • morning star • partisan • quarterstaff • ranseur • scimitar • short bow • short sword • sling • spear • spetum • staff sling • trident • two-handed sword • voulge
+Other
+gloveball • rolling cog
+
+ghost ship
+
+Appendix
+
+Notes
+
+Further Reading
+
+Gallery
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Neverwinter Nights: Pirates of the Sword Coast
+
+Neverwinter Nights: Pirates of the Sword Coast is a premium module for the computer game Neverwinter Nights that features sea-voyaging, pirate-style, swashbuckling adventure.
+
+Gameplay
+
+The player takes the role of a character who is employed by Captain Allendry as part crew member and part passenger aboard the Midnight Rose.  The adventure is intimately bound up with the sea and redolent with piratical artifacts and references, such as swashbuckling items, treasure maps, navigational instruments and a talking parrot who will not leave you alone. It also features adventures with undead pirates, underwater adventures, and a lengthy episode where the player is marooned on a wild island. The game featured:
+
+ Stand-alone story that includes many colorful characters and possibilities.
+ New tilesets, including pirate caves and underwater location Fiddler's Green.
+ New pirate-styled items and characters.
+
+Plot
+
+After some initial events in the dock region of Neverwinter the plot focuses around an attempt by a misguided priestess of the evil sea goddess Umberlee, Tasina Alcrest, to unleash her patron through the use of a mysterious statue. The priestess in question is a passenger aboard the Midnight Rose and when she discovers that the artifact is in the hands of a wizard who is also aboard she uses her powers to capture the ship and slaughter the crew. At this point the Sorcerer/Barbarian henchman Nisar Zayid is lost, presumably perishing at the hands of summoned sahuagin, divine magic or the hunger of the sea.
+
+Due to aid the PC gave to the priestess earlier he/she is marooned rather than killed. Thus they loses all of their equipment and must scavenge what supplies they can, construct equipment and then find a way to reach the inhabited area of the island. The island is peopled by a tribe of troglodytes and an insane inventor who is using illusions to protect his cave from the trogs. The troglodytes were recently converted to the worship of Umberlee and have abandoned their nameless old gods. Through a mixture of negotiation and/or battle with these characters the PC is able to have a raft constructed and escape the island, regaining all of their equipment from the troglodytes king in the process. During these negotiations the PC is captured by the troglodytes and must fight their champion Garm or die, success means that Garm surrenders utterly, accords the PC the dubious title of 'Eater of Garm' and serves as a faithful henchman until the PC chooses to eat him, (not something any character is prepared to do).
+
+Having set off on the raft the PC arrives in an independent port town that is ruled by an ex-pirate and populated mostly by still-pirates, it also contains Nisar who actually survived the battle and gladly rejoins the PC. The captured Midnight Rose is docked here as well and the PC must gather a crew in order to take her back and defeat the priestess. Having recruited a crew the PC confronts the priestess in the temple of Umberlee but is unable to prevent her from escaping on the Rose.
+
+The PC and crew pursue their ship by joining forces with an unsavory captain and his skeletal companion. However, the captain insists that they cannot proceed until a certain artifact has been retrieved from an obscure island. The captain's servant in turn secretly offers a strange item and a mysterious warning. It turns out that the island and its puzzle are a trap used by the captain in order to allow him to complete a necromantic ritual which turns the PC and all their companions into undead, (thus creating a useful source of cheap and loyal labor). Fortunately the mysterious item somehow allows the PC to avoid the treacherous captain's control and kill him. Thus the crew, while remaining undead, will regain their free will and are able to continue their quest.
+
+The final part of the module sees the PC meeting the ghost of Allendry, (he demands revenge for his death), searching the abandoned Rose and venturing beneath the sea, (the area beneath the sea is referred to as Fiddler's Green). Once beneath the sea the PC meets a young dragon who explains that the PC must stop Umberlee's plan by destroying her two aspects, the humanoid and the kraken like Dweller. The dragon also pleads for the lives of the priestess and her entourage; she claims that they are not evil but are in fact being manipulated by their patron. The PC then enters the underwater temple of Umberlee and confronts the priestess Tasina Alcrest for the final time. The outcome and aftermath depend upon the player's preferences and possibly on how they have acted towards the priestess throughout the adventure. If the player shows hostility towards the priestess, he has to fight her in the hag form. If the player wanted to help the priestess realize the Umberlee's evil nature, he fights against the Umberlee humanoid aspect: a giant female with trident.
+
+Index
+Characters
+Protagonist Eater-of-Garm
+Companions Garm • Nisar Zayid
+Other Aktul • Allendry • Blackeye • Bradley Blackriver • Dela Nereth • Doisin Kivna • Drak • Edgrimm • Falstaff the Tattooist • Fanny Blackeye • Featherheart • Francis of the Dragon • Gilda • Gretchen • Grogbeard McPherson • Honeypea Blackriver • Hook (person) • Jack Ketch • Karys McPherson • Kolmarr • Longneck Langer • Martins • Old Tom • Pegleg Paulsson • Poly the Parrot • Prugdush Glurp • Rahman Madani • Rascally Pete • Redtip • Rusty Al • Scurvy Johnson • Shakey McGuire • Snitch • Sweetie Marie • Tasina Alcrest • Utnal • Vantabular Garsp • Vengaul Bloodsail • Whipped Willigan • Yxondralu
+
+Darius Gulch • Farquhart Garsp • Garssshta • Gonchklas • Kiirgka • Kraggus • Sariah Badgerriver • Zhond’marael
+
+Creatures
+ bat • beetle (stag, stink) • boar (dire) • dire wolf • dog • dragon (bronze) • dwarf • elf • ettin • gnome • half-elf • half-orc • human • jaguar • minotaur • ochre jelly • ooze (gray)  • panther • parrot • rat (giant) • rock cod • sahuagin • seagull • shark (mako, goblin, hammerhead) • spectre • spider (dire) • troglodyte
+
+kraken • ocean strider
+
+Locations
+Buildings & Sites The Temple-Under-The-Sea
+Inns & Taverns The Golden Apple Inn • The Monkey's Cutlass Tavern  • The Seedy Tavern
+Ships Midnight Rose • The Skull and Bones
+
+Ravager • Red Prow
+Shops Falstaff's Follies Tattoo Parlor • Prugdush's World of Weapons • Rusty Al’s Tattoo and Pawn • Twenty in a Quiver
+Settlements Neverwinter • Spindrift Town
+Regions Island of the Dead • Nelanther Islands
+
+Amn • Calimshan • Luskan • Maztica • Moonshae Isles
+
+Magic
+Magic items
+aquatic bolt • boarding arrow • boots of the calming wave • boots of the sahuagin • brawler's belt • coral bullet • dragonbreath arrow • ensign's tunic • Grogbeard's Grimace • harp of the Beastmaster • lucky squid tentacle • ollamh harp • Prize of the Ocean Strider • ring of the aquatic elves • ropecutter • sail burner • sailor's harp • shipwright's gloves • salt-crusted sailor's cloak • swashbuckler's boots • Juggling Axes of the Twelve Short Adventurers
+Potions
+elixir of cure moderate seasickness
+Spells
+create magic tattoo • permanency
+Wands
+wand of the winds
+Other
+ghost ship
+
+Organizations
+Blackriver Bandits • Bloodsailors • Silver Sails Trading Company
+
+Order of the Calming Wave • Twelve Short Adventurers
+
+Religions
+Umberlee
+
+Chauntea
+
+Miscellaneous
+Books 20,000 Leagues Under the Sea • Arrr, Yarrr, and Garrr • Folklore of Faerun • Maritime Tales of Faerûn • Mothers, Don’t Let Your Sons… • The Nelanther Isles (book) • Off the Map! • On the Worship of Umberlee • Religions of the Sword Coast • S is for Scurvy: A Pirate Potboiler
+Food breadfruit • dragonfruit •  potato
+Instruments harp • kazoo
+Items astrolabe • suction goblet
+
+sextant
+Materials adamantine • elm • iron • ironwood • oak • steel
+Poisons bebelith poison • blowfish venom • centipede venom • deathly poison • giant bee venom • sea urchin poison • spider venom • stingray poison
+
+Appendix
+External Links
+ Neverwinter Nights: Pirates of the Sword Coast on Steam
+References
+
+Connections
+
+---
+
+## Neverwinter Nights: Wyvern Crown of Cormyr
+
+Neverwinter Nights: Wyvern Crown of Cormyr is a premium module for the computer game Neverwinter Nights. It occurs in Cormyr. It features fully ridable horses, flowing cloaks, tabards and long coats, a new prestige class, the Purple Dragon Knight, and extensive new art, creatures, and tilesets.
+
+Plot
+The story started as the player character, the former adventurer, returned to his family in Cormyr after hearing news of a recent war. The hero worked with his family members and friends on their farm in the Hullack forest. One day, while working in the forest aside from the farm, the hero, his brother Jonas and their friend Godfrey Cormas noticed the smoke above the trees. They rushed back but found the farm destroyed, with everybody killed, including Jonas' wife, Lena, and their father, Patrick. Few corpses of the attackers were found on the ground: hobgoblins.
+
+The hero, Jonas, and Godfrey decided to find Sir Gilbert Hawklin and become his squires in order to avenge the massacre. They journeyed to the nearby town of Morfen, where they meet Valetto, Sir Hawklin's trading partner, and the owner of the farmlands. He directed them to Thunderstone, where Sir Hawklin, along with his family and many other royal families lived.
+
+In Thunderstone, the hero managed to become Sir Hawklin's squire after winning in a jousting tournament. Sir Hawklin was willing to stop the raids on the farms that had become too often. He asked the hero to meet Manthis of the Forest Folk, the leader of the creatures living in the Hullack forest. Hero met Manthis the satyr, who revealed that the raiders were actually seeking ancient burrows.
+
+The hero and his two companions ended up fighting with raiders in one such burrow. There, Jonas found a mysterious ring. The ghostly figure appeared, claiming that if Jonas were to wear the ring he would have had a chance to avenge his wife. Jonas agreed, but the whole event was revealed to be a trap by the unknown villain. Jones became possessed, killed Godfrey Cormas, and ran away.
+
+The hero became a knight and soon, set out to storm the raiders' lair, Polter's Fort. After fighting his way through hobgoblins, ogres, undead, and even vampires, he met a strange masked person claiming to be a Witch Lord, an ancient lich. After defeating him, the Witch Lord revealed that he was not truly evil and that he was only a servant of the true mastermind, the Wyvernvapor, a mist dragon. The main motive of the dragon was to find the legendary Wyvern Crown.
+
+After venturing to the dragon's lair, a mythical castle located on the Wyvernwater lake, the hero successfully sabotaged the powerful artifact, Mythallar, that held the castle above water, and killed pirates who resided here and plagued the lake. The hero dealt with Valetto, who was revealed to be the servant of the dragon and the one responsible for piracy. After sinking the castle, the hero met Wyvernvapor himself, who revealed that the hero was fooled by the Witch Lord, who was immortal. Both dragon and lich competed for the Wyvern Crown, and with dragon rendered powerless, the lich was likely to claim it.
+
+After participating in a jousting tournament where Jonas, under the guise of Black Knight, tried to kill the hero with poison, Caladnei, official high mage of Cormyr arrived to help with the case of Witch Lord. Jonas was now under the Witch Lord's power. The final battle for the Wyvern Crown's burrow was about to begin. There, hero, with the help of Caladnei, Purple Knights, and Hawklin soldiers, crushed the Witch Lord army. After venturing in the burrow and destroying the golem guardians, the hero was finally able to reach the Crown. Jonas was abandoned by the Witch Lord and his fate was decided by the hero.
+
+With the Wyvern Crown in his possession, the only thing left for the hero was to battle the Witch Lord, Szass Morg, and claim the Crown for Cormyr for himself.
+
+Index
+Characters
+Adris Colebriar • Alice Broadhand • Baradin Hawklin • Bardas Frem • Brondar • Caladnei • Dalan Cormas • Draco • Eladora Palmer • Gilbert Hawklin • Godfroy Cormas • Jonas • Lacinda Cormaeril • Lena • Londro Hardheim • Mander • Magurk • Manthis • Maria Cormas • Mia •  Patrick • Valetto Stoutbold • Wangle Towerstruck
+
+Alusair Obarskyr • Arianne FitzCormaeril • Azar Truesilver • Azoun IV • Beldin • Faril Laheralson • Giogioni Wyvernspur • Nalavarauthatoryl • Tanalasta Obarskyr • Thiodor Hurim
+
+Creatures
+boar • bodak • chicken • cobra (black Cormyrian) • cow • curst • dwarf • dog • ghoul • giant rat • goblin • golem • hobgoblin • horse • lich • messenger pigeon • mist dragon • ogre • ox • poltergeist • rat • sahuagin • satyr • shadow fiend • skeleton warrior • spectre • troglodyte • vampire • wolf • wraith • wyvern • zombie
+
+centaur • ghazneth • pig
+
+Locations
+Bodies of Water
+Wyvernwater
+Buildings
+One-Armed Magurk's • Furniture's Fate • Sign of Thunder • Wangle's Livery
+Settlements
+Cormyr • Hultail • Morfen • Polter's Fort • Thunderstone
+Wilderness
+Hullack Forest
+
+Dragon Lake • King's Forest • Sembia • Suzail • Thunderstone Peaks • Wheloon
+
+Organizations
+Churches
+Church of Lathander
+
+Families
+Cormas • Emmarask • Huntcrown
+
+Other
+Six Coffers Trading Coster • Purple Dragons • War Wizards
+
+Night Masks
+
+Religion
+Deities
+Chauntea • Lathander • Tempus • Torm • Tymora
+
+Magic
+Accessories
+Beldin's belt • Mindstar
+Potions
+potion of healing • potion of invisibility • potion of lore
+Rods
+rod of ice
+Trinkets
+glittering necklace • Life Protector • periapt of wisdom • prayer amulet • ring of protection
+Wands
+wand of light
+Misc
+bag of holding • bag of wind • magic pouch • horn of goodness/evil
+
+Miscellaneous
+Armor
+barding • caparison • helmet
+
+Clothing
+cloak • robe
+
+Currency
+golden lion
+
+Food & Drinks
+ale • cheese • garlic • Hultail spirits • wine
+
+Games
+jousting
+
+Gems
+alexandrite • fluorspar • greenstone • phenalope
+
+Materials
+bronze • copper • gold • ivory • leather • steel
+
+Plants
+belladonna • elm • fungus
+
+Substances
+antidote • dye • fairy dust • venom (centipede, giant bee)
+
+Tools
+cavalry horn • healer's kit • holy trap • rope • spike trap • tent • thieves' tools • tinderbox • torch • wagon
+
+Weapons
+battleaxe • bow (and arrows) • chainmail • club • crossbow (and bolts) • dagger • dart • flail • greataxe • katana • lance • light hammer • longsword • morningstar • quarterstaff • shield • shortbow • shortsword • sling (and bullets) • spear • throwing axe
+
+Appendix
+Notes
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Neverwinter Nights: Infinite Dungeons
+
+Neverwinter Nights: Infinite Dungeons is a premium module for the computer game Neverwinter Nights. The module is set in Undermountain of Waterdeep.
+
+Gameplay
+The game is a dungeon-crawler featuring an entirely randomized environment, items, and NPCs. The player journeys through Undermountain, killing hordes of hostile creatures and encountering traders, quest givers, and allies. The game is split into seven sections each corresponding to its ruler, a game's boss. A unique feature of the module is the map, which, when used, appears under a player's feet, showing the entire level and its sections, and the player position.
+
+Index
+Characters
+Antoine Baccha • G'Zhorb • Hagatha • Halaster Blackcloak • Harat • Maggris • Masterius
+Locations
+Undermountain
+
+Appendix
+
+External Links
+ Neverwinter Nights: Infinite Dungeons on Steam
+ Infinite Dungeons on NWNWiki
+
+References
+
+Connections
+
+---
+
+## Newfort
+
+Newfort was a small hamlet built atop a hill found in the Sundabar Vale, within the Old Delzoun region of the Silver Marches.
+
+Description
+The small hamlet comprised about two score wood cottages built around a small stream, built atop a small hill encircled by a wooden palisade.
+
+Geography
+Newfort was located approximately  east of Sundabar,  south of the Fork Road, in the foothills of the the Rauvin Mountains.
+
+History
+Newfort was founded in the, by two retired members of the Zhentarim named Trevis Uhl and Gyreth Ilgarn. Trevis took it upon himself to serve as the town's first mayor while Gyreth served as its constable.
+
+In the, Newfort and the settlements of Jalanthar and Quaevarr were all terrorized by the barlgura Scauuont, all within the span of a single week.
+
+By the time of the War of the Silver Marches in the late 15 century DR, Newfort had become a way station welcoming any travelers to stay the night in safety.
+
+Notable Locations
+ Hero's Reward, a cozy tavern that stayed in the town for over a century.
+ Narm's Exchange, a trading post owned by the Half-orc Deliyra Narm.
+ Shrine of Tempus, the Tempuran shrine erected by the bull-headed, ex-Zhent priest Nargroth.
+ Stauvin's Mill, a successful millhouse run by Stauvin Stonebrace, the landowner atop whose land Newfort was originally built.
+
+Inhabitants
+Because Newfort's founders both had a strong affiliation with the Zhent armies of the Moonsea, it attracted many people that fled the region following the rise to power of the Zhentarim.
+
+Notable Inhabitants
+14 Century
+ Trevis Uhl, Newfort's first mayor.
+ Stauvin Stonebrace, a man considered to be the richest in all of Newfort.
+
+15 Century
+ Delf Dereldar, half-elf tavern owner.
+ Jorok Narm, half-orc constable.
+
+Appendix
+Appearances
+Adventures
+Storm King's Thunder
+
+Novels
+Son of Thunder
+
+References
+
+---
+
+## Neverwinter/Docks District
+
+The Docks District of Neverwinter, also called the Neverwinter docks, was the location of the commercial docks of that city. It comprised the western portion of the city between the Protector's Enclave and the Blacklake District.
+
+Description
+The docks were located on the Bay of Mists at the mouth of the Neverwinter River. It was one of the seedier parts of the city, and the center of the smuggling trade as well as more respectable commerce. Much of Neverwinter's original wealth and influence was thanks to its position as one of the few ports on the Sword Coast North.
+
+The Docks were operational and busy as of the late 15 century DR, however a portion of the northern section was still in ruins from the eruption of Mount Hotenow, and parts were rotting and half-sunken beneath new construction. This section was known as the swamped docks, and was home to criminals and the destitute, as well as to a tribe of sahuagin.
+
+History
+During the Spellplague of 1385 DR, the Docks District was hard hit by the wild magic. Chunks of land broke away and rose into the sky, forming earthmotes. The surviving residents of the district quickly adapted to their new situation, connecting the low-floating motes to the shore with ropes, chains, and bridges.
+
+The eruption of Mount Hotenow in 1451 DR, however, proved to be disastrous for the Docks. It destroyed the foundations of these bridges, and the changed currents swamped whole areas of the port with tidal waves, leaving the docks a rotting ghost town. Only a few fishers and the occasional pirate ship made port during the following years.
+
+When Dagult Neverember began to rebuild Neverwinter years later, he made rebuilding the Docks District a top priority. He hired engineers and loggers and ordered them to shop for any usable tree in the Upland Rise to be used to rebuild the docks. By 1479 DR, most of the Docks District was fully rebuilt and operational, once again the heart of commerce of the Jewel of the North.
+
+Notable Locations
+Rusty Al's Tattoo & Pawn, a small dockside shop run by Rusty Al in the late 14 century DR.
+The Golden Apple, a nice enough inn for the area in the late 14 century DR.
+Twenty in a Quiver, a shop that dealt in weapons, armor, and other goods, run by Jerol in the late 14 century DR.
+
+Notable Inhabitants
+ Len-jes, the harbormaster as of 1479 DR.
+ Jimn, the harbormaster in the late 1490s DR.
+ Palas, a notorious halfling bandit in 1479 DR, who had a hideout in the swamped docks.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Neverwinter/Neverdeath
+
+Neverdeath, also called the Neverdeath Graveyard, was the burial ground and cemetery of Neverwinter. It was named for a common blessing given over the dead: as long as the city remained in summer, it was believed that the dead would not turn into undead.
+
+Description
+
+Neverdeath consisted of two wide, roughly square areas of the city surrounded by a thick and looming black wall of stone and wood pierced by stark black gates. Each of these was a sprawling cemetery: the so-called Main Graveyard was located in the northeastern of the two sections, while the southwestern section was known as the Pauper's Section. The graveyards included sprawling rows of tombstones interspersed with old trees, crumbling statues, and mausoleums. These mausoleums were interconnected via underground catacombs that extended under both cemeteries.
+
+The graveyard was considered sacred to Kelemvor, and doomguides from the Eternal Order of Kelemvor were responsible for protection of the area.
+
+Geography
+It was located within the Neverwinter city walls, and lay on the southern edge of town near the Protector's Enclave. A cobblestone street surrounded the graveyard, and no buildings were built within 50 paces its outer walls.
+
+In Neverdeath's same location on the Shadowfell were Evernight's Graveyard (coinciding with the Pauper's Section) and the Corpse Market (coinciding with the Main Graveyard).
+
+History
+Neverdeath was a centuries-old burial ground for the people of Neverwinter. It was struck hard by the Spellplague of  as well as by the Ruining of, which collapsed buildings, exposed graves, and changed the elevation of some sections to create small, jutting cliffs scattered with bones and coffins. It was left to fall into disrepair, becoming overgrown with withered grasses and clogged with rubble and overgrown brush. Although its walls had become cracked, they were patched and the eastern edge of the graveyard became the southern anchor of The Wall that fortified Neverwinter against the horrors of the Chasm.
+
+The graveyard was still used to bury the dead—albeit with much simpler markers and haphazard graves than before the disasters—until Thayan forces under Valindra Shadowmantle seized the graveyard in the mid-to-late 15 century DR, despite the best efforts of the doomguides. The Thayans began to use their necromancy spells to raise the corpses buried in Neverdeath as undead minions, and used the mausoleums as a base. The place became so haunted that even daylight appeared murky within the graveyard's walls. By, the number of undead was growing at an alarming rate and unattended corpses might spontaneously rise from the dead, leading people to become fearful of the graveyard and preferring to cremate their dead instead of burying them in Neverdeath. The gates were always kept closed, and if ever they opened, it would draw the attention of concerned onlookers.
+
+Also in 1479 DR, the Red Wizard Tolivast hid in Neverdeath while cursing the Crown of Neverwinter. While Tolivast had control over a small army of undead, he was chased down by a group of adventurers that killed him, retrieved the Crown, and destroyed most of his undead minions. Around the same time, yet another Red Wizard necromancer named Jack began raising undead in the cemetery.
+
+Finally, following the events of the Siege of Neverwinter, the Neverwinter Guard turned its attention to Valindra's activities in Neverdeath, and sent the Heroes of the Sleeping Dragon Bridge to assist the Kelemvorites—led by Doomguide Volahk—in ending her plots. From the Kelemvorites' last foothold of Doomguide's Watch, the adventurers started by culling the undead, rescuing Doomguides throughout Pauper's Field, and reconsecrating the area. The adventurers also delivered the phylactery of the lich Zarifrax to Volahk, ended a Thayan effort to revive a dangerous ogre named Arleon the Unforgiven, helped the Harper agent Windle to thwart a plot by the Cult of the Dragon, and clashed with Valindra's forces at the Clockwork Tomb. Ultimately, they succeeded in driving out the Thayans from the graveyard, and were able to report evidence of her future plans to Neverwinter's Sergeant Knox.
+
+Sometime in the 1480s DR, Neverdeath became the site of infighting by members of the Cult of the Dragon between traditionalists and the followers of Severin Silrajin, who were seeking the remains of Cruven Gantara with the aid of the green dragon Charthraxis. The Harpers coordinated efforts to thwart both factions, led by an agent named Boward.
+
+The graveyard continued to be infested with undead as of at least .
+
+Notable Locations
+Main Graveyard
+
+The Main Graveyard was the northeastern walled-in half of the graveyard. The thick western wall separating it from the Pauper's Section was the site of numerous towering mausoleums with interconnected catacombs. Notable locations in the Main Graveyard included:
+ Craftsman's Rest, an old section of the cemetery containing ornamental tombs and graves. Craftsman's Rest in turn contained:
+ A shadow crossing to Evernight located in the center.
+ The Artisan's Tomb.
+ The Waterclock Guild's Crypts, a massive complex beneath an unassuming mausoleum dedicated the city's Waterclock Guild.
+ Hallix Mausoleum, the humble family tomb of the Neverwinter Hallix family.
+ Merchant's Landing, a section where many of the most prominent merchants of Neverwinter were interred.
+ The Monini Crypts, the family tombs of the Neverwinter Monini family.
+
+Pauper's Section
+
+The Pauper's Section, also known as Pauper's Field or the Pauper's Graveyard, was the southwestern walled-in half of the graveyard. It was a hilly area that traditionally served as the place where Neverwinter's poorest were buried, and which became a site of mass graves following the Ruining. It contained more simple headstones and tombs than the Main Graveyard. It's communal catacombs dated back to the establishment of Neverdeath, and had been built by a handful of civic-minded citizens. Notable locations in the Pauper's Section included:
+ Crypt of Vers Never, a presumably empty tomb that was once intended for Vers Never.
+ Graves of the Lucanis family.
+ The Lynching Tree, a site where accused criminals were buried.
+ A nondescript tomb recognizable only by an inscription above the doorway reading "Home Again, To Rest Forever". This tomb was connected to the Dolindar Tomb in Evernight via a Crevice of Dusk.
+ The Rift, a ravine formed during past disasters.
+ Soldier's Memorial, a burial section for military veterans. Soldier's Memorial in turn contained:
+ The Soldier's Monument.
+ The Wizard's Tomb.
+
+Inhabitants
+As of 1479 DR, corpses were said to shamble about the graveyard at all hours. This included skeletons, wights, and zombies (including zombie hulks).
+
+Any visitors to Neverdeath found themselves assailed by lesser undead creatures that burst from the ground. Many of these were servants of the Thayans, and were meant not only to deter intruders but to provide advance warning of any threats to their operations. At this time, living cultists and gnolls allied with the Thayans also became active in the area. Despite these dangers, unscrupulous individuals were known to hunt for treasures in the graves.
+
+Appendix
+Notes
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Neverwinter/Blacklake District
+
+The Blacklake District was one of the districts of Neverwinter. It was named after the eponymous Blacklake at its heart.
+
+History
+14 century
+
+In the mid-to-late 14 century DR, the Blacklake District was the northern district of Neverwinter.
+
+During the city's struggle with the Wailing Death in the, the Blacklake District was barred to the public to stop the plague from entering. The few who were allowed access found the District's population in turmoil from food scarcity. Much of the conflict centered on the wizard Meldanen, who had hoarded great amounts of food in his warehouse, and was known for his cruel magical experiments. The noble Formosa Laitannen loudly opposed Meldanen and his acts, and actively tried to hire someone to kill the mage.
+
+With the murders caused by the warlock Ammon Jerro in the, the district was cut off once more pending investigation. After entering the district, the Kalach-Cha managed to find the wizard Aldanon, who would later prove invaluable to the quest for the Silver Sword of Gith.
+
+15 century
+When Mount Hotenow erupted in the, bringing about the destruction of most of Neverwinter, the northwestern district was left mostly untouched by the pyroclastic flow, although the Blacklake became a pit of debris, garbage, and ash from the eruption. In the rebuilt city, the Blacklake District lay in the northwestern part of Neverwinter, while the northeastern became the River District.
+
+By 1479 DR, Dagult Neverember's efforts to rebuild the Blacklake District had been fruitless because of obstruction by the Sons of Alagondar and their allies.
+
+The Nashers moved in to take over the district and use it as their base of operations. The Nashers stole from the poor to finance their rebellion against Neverember, leading poor citizens to hire adventurers to deal with them for the sake of stability. They openly defied Lord Neverember's dictates and attacked those who did not swear loyalty, driving off the rest. For those who refused to leave, they burned down their houses or else barricaded them inside. The Ashmadai were trying to infiltrate the gang. Meanwhile, the Neverwinter Guard made a ramshackle defense of certain areas and gates out. An undercover Harper spy operated amongst the Blacklake gangs, communicating via coded messages stashed in secret places with handlers like Elminster and they sought to capture coded messages from the Dead Rats to decrypt.
+
+Later that year, to celebrate Neverwinter's successes, Lord Neverember declared the Protector's Jubilee. The event drew merchants from up and down the Sword Coast but some came through Blacklake District and needed escorting by adventurers.
+
+Description
+The buildings remained largely intact in the wake of the various disasters that laid the city low. This was thanks to the nobles who'd previously inhabited the District, as they had built buildings and other structures using quality materials and sound architectural techniques, and protected them with magic.
+
+However, most buildings were later repurposed into makeshift barracks to defend Neverwintan survivors against the dangers that plagued the city after its destruction, while others just fell into disrepair over time, or were vandalized by vagrants, making the district look significantly different from what it used to.
+
+On the southeast shore of Blacklake lay two particularly troubled areas, the Tatters and Riverside, which were linked by a short bridge. Both largely lay in ruins. Some "notable" locations in the Tatters were, or had been, Brimbleton Place, Chadwick Stoop, and Thatcher Road, but in ruins these were little different from anywhere else.
+
+The Blacklake at the center was filled with ash and volcanic debris, filth, and trash dumped by the locals, as well as several destroyed ships. It came to resemble a vast midden more than a lake, overflowing with a dense black sludge. It even developed magical properties and gave rise to sludge-covered zombies in the streets, suggesting it was more than mere pollution, and alchemists like Hazel studied the phenomenon. A drow self-proclaimed Chosen of Ghaunadaur later led an attack of sludge zombies on Blacklake District in 1479 DR, suggesting that he or his god had transformed the sludge.
+
+Even though several well-detailed and annotated maps of the Blacklake District existed, their mass production was banned by Lord Nasher to protect the district and the city from any illicit and spy activity. Very few maps were in existence, with one of them found in Gillian's Hill's curio store - Torleth's Treasures in 1372 DR.
+
+Inhabitants
+In the mid-to-late 14 century DR, the Blacklake District was inhabited by Neverwinter's nobles, before the destruction of the city in the Mount Hotenow in 1451 DR. Afterward, a few survivors and refugees that decided to remain in the city relocated themselves to the District.
+
+These survivors were generally highly nationalist and proud of the Alagondar lineage, and violently resisted Dagult Neverember's rule. The Nashers claimed the area for themselves, daring Neverember's soldiers and mercenaries to try to take it from them by force. The Nashers and Dead Rats gang largely prowled the Tatters, with the Dead Rats based in the sewers of Blacklake District.
+
+Likewise, the Ashmadai under Mordai Vell had gained a foothold in the Blacklake District, even infiltrating the ranks of both the nationalist refugees and Neverember's troops stationed in the district.
+
+In addition, circa 1479 DR, someone regularly graffitied a wall of a dilapidated building in the south with Iokharic writing (the language unrecognized) and a symbol. Locals believed the images were evil and worried of a devil-worshiping cult in the area. They were mistaken—it was a dragon-worshiping cult.
+
+Notable Locations
+14 Century
+Blacklake was the site of the Neverwinter Academy, Neverwinter Archives, a church of Lathander, and Castle Never.
+
+Businesses
+ Archive Annex
+ Blacklake Zoo
+ Manycoins Moneylending
+
+Shops
+ Dannar's Mechanical Marvels
+ Jaesor's Fineware Porcelain Works
+ The Mute Lute
+
+15 Century
+Inns & Taverns
+ The Beached Leviathan, a moored ship repurposed as a tavern for pirates and sailors.
+ The Driftwood Tavern, a cozy little tavern run by Madame Rosene.While the tavern appears in the Protector's Enclave zone in the Neverwinter MMO, the Neverwinter Campaign Setting locates in the Blacklake District.
+ The House of a Thousand Faces, a favored inn that served as the headquarters for the Neverwintan branch of the Harpers.
+
+Geographical Features
+ Blacklake
+
+Landmarks
+ Castle Never
+ Lakeside, a stretch of beachside property that became a cesspool of sludge that emerged from the lake itself.
+ Starshine Academy
+ The Tatters, a particularly rough neighborhood that was taken over for a time by the Nashers.
+
+Residences
+ Vellgard Manor
+
+Notable Inhabitants
+ Mordai Vell
+
+Appendix
+
+Notes
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Neverwinter/Beggar's Nest
+
+The Beggar's Nest was one of the districts of Neverwinter in the 14 century DR.
+
+Geography
+The Beggar's Nest comprised the southeast quadrant of the city. It was named for the district's inhabitants, the poorest of Neverwinter.
+
+History
+Plague
+During the city's struggle with the Wailing Death in 1372 DR, the Beggar's Nest was the most afflicted, as the plague first appeared there. The district was soon overrun by undead, as many of the inhabitants of the district died to the plague and a yuan-ti named Gulnan took advantage of the chaos to raise an army of undead. Eventually, the Hero of Neverwinter defeated the yuan-ti, disrupting her necromantic rituals and putting an end to the undead nightmare.
+
+Eruption
+When Mount Hotenow erupted in 1451 DR, bringing about the destruction of most of Neverwinter, the Beggar's Nest was completely destroyed by the earthquakes that followed the cataclysm. A huge, canyon-like chasm replaced most of the district.
+
+Notable landmarks
+ Neverwinter Academy
+ The Shining Serpent Inn
+
+Appendix
+Appearances
+ Neverwinter Nights
+
+External links
+
+References
+
+---
+
+## Neverwinter/City Core
+
+The City Core was one of the districts of Neverwinter in the 14 century DR.
+
+Geography
+The City Core was connected to all the other districts of Neverwinter, and it was also the district where the city gates were located.
+
+History
+Plague and War
+During the city's struggle with the Wailing Death in 1372 DR, the City Core was badly damaged during the war against Luskan. Portions of this district were later rebuilt as a new district, the Merchant Quarter.
+
+Eruption
+When Mount Hotenow erupted in 1451 DR, bringing about the destruction of most of Neverwinter, most of the City Core was left untouched by the pyroclastic flow. When Dagult Neverember began his efforts to rebuild Neverwinter, in the late years of the 15 century DR, he fused the City Core, the Peninsula District, and the Merchant Quarter into only one area. Eventually, the survivors of the cataclysm renamed this new area the Protector's Enclave.
+
+Notable Inhabitants
+ Nasher Alagondar
+ Ophala Cheldarstorn
+
+Notable landmarks
+ Castle Never
+ Hall of Justice
+ House of Knowledge
+ Maskado's Maps & Legends
+ Moonstone Mask
+ Shining Knight Arms & Armor
+
+Appendix
+Appearances
+ Neverwinter Nights
+
+External links
+
+References
+
+---
+
+## Neverwinter/Peninsula District
+
+The Peninsula District was one of the districts of Neverwinter in the 14 century DR.
+
+Geography
+The Peninsula District was named for the geographic peninsula that conformed most of the territory of this district. Most of this district was taken up by the prison of Neverwinter.
+
+History
+Plague and War
+During the city's struggle with the Wailing Death in 1372 DR, the district was in turmoil because of a prison break. However, the Hero of Neverwinter was able to deal with this problem.
+
+The Peninsula District was badly damaged during the war against Luskan. Portions of this district were later rebuilt as a new district, the Merchant Quarter.
+
+Eruption
+When Mount Hotenow erupted in 1451 DR, bringing about the destruction of most of Neverwinter, most of the City Core was left untouched by the pyroclastic flow. When Dagult Neverember began his efforts to rebuild Neverwinter, in the late years of the 15 century DR, he fused the City Core, the Peninsula District and the Merchant Quarter into only one area. Eventually, the survivors of the cataclysm renamed this new area the Protector's Enclave.
+
+Notable Landmarks
+ * Neverwinter's Prison
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights
+
+External links
+
+References
+
+---
+
+## Neverwinter/River District
+
+The River District was one of the districts of Neverwinter in the late 15 century DR. Its eastern end was also known as the Tower District, after its three notable landmarks: the  Cloak Tower, the Fallen Tower that had once stood there, and the hovering Shard of Night.
+
+Geography
+The River District was the northeastern district of Neverwinter, and was named after the Neverwinter River, which marked its southern edge. To the west was the Blacklake District.
+
+History
+
+The eruption of Mount Hotenow in the  destroyed most of the River District.
+
+Fortunately, the Neverwinter River formed a natural barrier that protected the River District from being overrun by the plaguechanged creatures that appeared from the Chasm in the city's south.
+
+In the late 1470s DR, a vanguard force of orcs from the Many-Arrows kingdom under commander Vansi arrived at Neverwinter. They penetrated the city walls and established a base camp in the shadow of the abandoned Cloak Tower. Then they occupied the tower itself, making it their headquarters. From there, they claimed territory in the Tower District, where the city was still ruined. They even reopened the old Fallen Tower tavern. Enjoying the most well-defended stronghold in the district, the orcs could not be defeated or evicted and their presence prevented New Neverwinter's Mintarn mercenaries from pacifying the district. For a time in the, Vansi and Lord Dagult Neverember held negotiations in the neutral ground of the Fallen Tower tavern and established a truce, until Neverember could work out how to evict them. The Fallen Tower marked the limit of New Neverwinter's reach into the River District on the occasion they made a patrol.
+
+Later that year, Vansi's orcs were finally in open war with Neverwinter across their part of the River District. They heavily fortified the area around the Cloak Tower, expanded their camp, took over an old private guard barracks, and turned the old Merchant Guild Hall into a fort. They attacked and killed all who trespassed upon their territory and looted whatever wealth they could find within and destroyed artworks and Neverwintan banners. The Neverwinter Guard fought to keep them contained with their own barricades, and supplemented their dwindling ranks with many adventurers. Captain Janros, Sergeant Creed, Scout Gaelen, and their adventurers waged a war to weaken and defeat Vansi's orc army. Finally, a party of adventurers infiltrated the Cloak Tower itself, relentlessly fought their way through the orc army and the tower, and slew Vansi Bloodscar herself.
+
+Around that time, Kynorath Greybeard led treasure hunts to recover lost Waukeenar relics from the ruins of the orc-occupied Tower District.
+
+Afterward, the River District was liberated and finally under Neverwintan control. The survivors of the orcish force departed, heading east to rejoin Many-Arrows. By, new citizens and old were reclaiming and restoring the old merchant villas along the river.
+
+Inhabitants
+Before the devastation of the city in the mid–15 century DR, the River District was inhabited by much of the merchant class of Neverwinter, together with their families and servants. It was also home to a few nobles, merchants' guilds, and wizards.
+
+Afterward, the district was left largely abandoned, though some folk sneaked in for dares, adventures, or secret meetings, to take advantage of the privacy. Many members of the Sons of Alagondar hailed from the old River District, so they knew the area much better than New Neverwinter's Mintarn mercenaries. They also returned to establish hideouts and safehouses. Other River District refugees, meanwhile, had resettled in the House of Knowledge.
+
+Circa 1479 DR, an army of orcs and ogres from Many-Arrows seized the easternmost area known as the Tower District. They killed anyone who trespassed on their territory or interfered with their activities.
+
+Sometimes, beasts from the wilds got into the River District and hunted on its streets. They made it hazardous for refugees to return. People also sighted plaguechanged monsters in the River District's north around 1479 DR. In fact, the orcs kept a lid on the number of monsters in the district, including the plaguechanged, which were emerging from the sewers.
+
+Description
+Originally occupied by the merchant class, many of the houses built in this district were large and sturdy, but not especially ostentatious compared with those in the Blacklake District. Such houses could fit a family of up to eight people, together with their servants.
+
+There were also many guardhouses and security walls, though in the urban conflicts of 1479 DR, these provided cover for skirmishers and ambushers. At that time, a hastily built barricade was put up to separate much of the River and Blacklake Districts; however, the Mintarn mercenaries left it largely unguarded, instead just posting warning notices.
+
+Once, long flower gardens ran down the middle of every street, but by the late 1400s these had died off or been taken over by weeds.
+
+Tower District
+
+One notable area was Merchant Square, once a marketplace that received traders from up and down the Sword Coast, whether to buy, sell, or barter. It was the financial hub of Neverwinter, and was close to rivaling Waterdeep in terms of money exchanged each day. It lay near the Merchant Guild Hall. However, it was destroyed in the eruption and anything remaining of value pillaged by thieves, bandits, or orcs. Little more than a grassed-over battlefield remained in 1479 DR.
+
+On the other side of the Merchant Guild Hall was the neighborhood of Pedlars Path. Cobblers, tinkers, and other low-end merchants and craftsman lived, worked, and sold their wares around its narrow streets. The orcs later rebuilt these small houses into defensive structures.
+
+In contrast, Waukeen Way was where prosperous merchants built their stately manors and fine gardens. Most of these were destroyed in the eruption. Despite this, a single shrine to the Merchant's Friend remained standing within the ruins. As the name suggested, many of the merchants were worshipers of Waukeen and they kept private shrines boasting golden cornucopias believed to bless them with wealth; most of these cornucopias were lost in the destruction and occupation, but were recovered by Kynorath Greybeard.
+
+The Cloak Tower stood near where the Neverwinter River entered the city, on its easternmost side, close to the city wall. In the 1400s DR, it was contained within a trapezoidal area filled with open parkland and trees and ringed by a fortified wall. The Many-Arrows occupation of the area saw this space filled with orc camps and barracks, as well as barricades and watchtowers.
+
+Notable Locations
+
+Inns & Restaurants
+The Board Laid Bare • Fallen Tower
+Landmarks
+Cloak Tower • Merchant Square • Shard of Night • Waukeen Way
+Public buildings
+Merchant Guild Hall
+
+Appendix
+Notes
+
+Appearances
+
+External Links
+
+Gallery
+
+References
+
+---
+
+## Neverwinter/Chasm
+
+The Chasm was a huge canyon-like crack amid the southeastern district of Neverwinter in the late years of the 15 century DR.
+
+Geography
+The Chasm occupied what was once the districts known as the Beggar's Nest and the Arcanist Quarter, that were destroyed during the cataclysm that followed the eruption of Mount Hotenow. Because of that, the surrounding areas were in utter ruins, a maze of destroyed buildings and clotted streets.
+
+The Chasm proper was big, covering almost all of the central part that once was the Arcanist Quarter central area, and many earthmotes floated amid and around the abyss, some drifting slowly and others bashing against the walls of the Chasm or against each other. The Chasm was also deep, reaching down to a lake located in the Underdark.
+
+The land within the Chasm proper was warped and twisted because of the plagueland located below Neverwinter. Storms of elemental energy and other strange phenomena could surge up from the depths without warning at any moment.
+
+Inhabitants
+All manner of plaguechanged creatures dwelt in the earthmotes and on precipices and caves in the walls of the abyss. In the lake at the deepest part of the Chasm, a cell of the Abolethic Sovereignty had their headquarters.
+
+History
+
+During the Spellplague of 1385 DR, when the catastrophe struck Neverwinter, a small plagueland was created in the Underdark below Neverwinter. In the following decades, a branch of the Abolethic Sovereignty became interested in cultivating and studying this plagueland.
+
+When Mount Hotenow erupted in 1451 DR, bringing about the destruction of most of Neverwinter, the Beggar's Nest and the Arcanist Quarter were completely destroyed by the earthquakes that followed the cataclysm. A huge, canyon-like chasm replaced most of the districts, and released the foul energies of the Spellplague, as well as the plaguechanged creatures living there. The survivors of the catastrophe built a wall to better protect themselves against the monsters.
+
+The Chasm was magically sealed around 1485 DR, although at such cost to the city's coffers that some of its outer walls still lay in ruins and several of its neighborhoods remained abandoned by 1491 DR. Even as of 1496 DR, telltale signs of plagueland, including blue fires and warped reality, could still be observed above the sealed Chasm.
+
+Notable landmarks
+ Scar Keep
+ The Twisted Fane
+ The Plaguechanged Warrens
+ The Cauldron of Blue Fire
+ The Unhallowed Grounds
+
+Appendix
+Appearances
+Video games
+
+External Links
+
+References
+
+---
+
+## Neverwinter knife
+
+A Neverwinter knife was a small, jeweled dagger that could be concealed in a hair comb, belt buckle, or bracelet.
+
+Background
+Neverwinter knives were made in the city of Neverwinter, hence its name.
+
+Appendix
+References
+
+---
+
+## Neverwinter/Arcanist Quarter
+
+The Arcanist Quarter was one of the districts of Neverwinter prior to the mid–15 century DR.
+
+Geography
+The Arcanist Quarter was located in the southeastern portion of the city, near the Beggar's Nest.
+
+It was built around a lavish cathedral to Mystra.
+
+History
+Before the eruption of Mount Hotenow, wizards and sorcerers from across the Sword Coast came to the Arcanist Quarter to pursue their studies and fraternize with colleagues in the mystic arts.
+
+Eruption
+When Mount Hotenow erupted in the, bringing about the destruction of most of Neverwinter, the Arcanist Quarter was almost completely destroyed by the earthquakes that followed the cataclysm. The huge, canyon-like Chasm replaced most of the district, however a portion of the Arcanist Quarter remained floating several hundred feet down inside the ravine. It was presumed that the high concentration of arcane magic in the neighborhood had caused this part to become an earthmote.
+
+Inhabitants
+The Arcanist Quarter was home to many spellcasters, hence the name of the district. The area known as Apprentice Row housed a motley assortment of wannabe mages and students.
+
+Notable inhabitants prior to the Ruining included Roderick the Wary.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Neverwinter Guard
+
+The Neverwinter Guard was a military organization that served as the army and garrison of Neverwinter in the latter half of the 15 century DR.
+
+Organization
+The leader of the Neverwinter Guard was General Sabine. Among the most prominent commanding officers was Sergeant Knox.
+
+The Neverwinter Guard was largely made up of mercenaries from Mintarn who were loyal to Dagult Neverember, with these hired swords outnumbering the local Neverwintians by 3-to-1 at one point. However, as the years went on, the Guard would come to be made up of more and more local citizen volunteers who wished to protect their home.
+
+As of the late 15 century DR, the Guard was funded through taxes and dock fees levied by Neverember and the city of Neverwinter.
+
+Activities
+The Neverwinter Guard was the city's de facto army rather than a city guard or city watch. Their duties included patrolling the areas located in Neverwinter's immediate vicinity and manning the walls and gates. They utilized ballistae and catapults from the city's battlements to defend against invaders and protect the harbor.
+
+They trained alongside and shared intel with the Neverwinter city watch, the Wintershield watchmen.
+
+History
+The Neverwinter Guard was originally a group of Neverwintians who refused to leave the city following its destruction in the Ruining of the, and instead took it upon themselves to construct the fortification that would come to be known as The Wall. These Guards considered it a near sacred duty to defend the Wall and protect their loved ones from hostile forces from the Chasm and from the undead of the Red Wizards. During this time, they were led in all but name by Jelvus Grinch, the so-called "First Citizen" of the badly ruined city.
+
+In the, the heroics of Barrabus the Gray earned him an invitation to become captain of the Neverwinter Guard, although he refused. Subsequently, the Neverwinter Guard allied with Herzgo Alegni's shadovar forces as part of the ongoing Shadovar–Thay War to defend themselves against the Thayan forces led by Sylora Salm. This culminated in Herzgo Alegni declaring himself to be the new "Lord of Neverwinter", much to the Guards' dismay. Alegni then renamed the organization as the "White Guard"—to contrast it with his own forces who would serve as the city's "Shadow Guard"—and formally named Jelvus Grinch as its leader. Grinch and the people of Neverwinter would subsequently revolt against Alegni, and would drive back the shadovar with the aid of Drizzt Do'Urden, Artemis Entreri, and Dahlia Sin'felle.
+
+When Lord Dagult Neverember arrived in the city in the, he turned his attention to the Wall and ordered that it be further fortified and manned by his Mintarn mercenary forces. This quickly led to resentment among the original Guard, who disdained having to follow the brutal mercenaries' orders and acutely felt that Neverember did not respect their hard work or accomplishments. In particular, they chafed under the direction of the new "Captain of the Wall", Durham Shaw, who was seen as receiving preferential treatment from Neverember.
+
+Over time, the combined forces of the old Guard and Neverember's mercenaries came to be known as the Neverwinter Guard. They came to be jointly in charge of enforcing the law as a city watch and protecting the city from monsters and bandits as a military force.
+
+In the, the Neverwinter Guard suffered heavy losses while defending the city during the Siege of Neverwinter. They subsequently were involved in various campaigns to liberate Neverwinter and the region from the Many-Arrows orcs and the Thayan forces operating out of the Dread Ring, as well as to liberate the breadbasket of Rothé Valley from drow raiders. Serving on the Wall remained a guaranteed way to earn the thanks and respect of the people of Neverwinter.
+
+Neverember's mercenaries had a well earned reputation for being brutal thugs who violently repressed the people they were supposed to protect within the walls of Neverwinter. Thus, by the, much of the citizenry no longer wished to be policed by them. Fearing clashes between the Neverwinter Guard and neighborhood militias, Neverember began replacing more and more mercenaries with local soliders—including those who continued to defend the Wall as well as many members of the Sons of Alagondar, who had softened to the Lord Protector and were glad to replace the hated mercenaries. Rather than remove all of his mercenaries right away, Neverember instead created the Wintershield watchmen, a gentler organization comprised mostly of local troops to serve as a city watch while the Neverwinter Guard, including its remaining mercenary forces, became a dedicated military force. Neverember continued to prefer hiring mercenaries rather than to accept any help of the armies of the Lords of Waterdeep, whom Neverember felt had betrayed him when they exiled him from their city.
+
+When Lord Neverember's claim as Lord Protector of Neverwinter was in doubt because of the actions of the Cloaked Ascendancy, many of the Mintarn mercenaries quit the Guard and left Neverwinter after questions arose about his ability to pay them. They were later replaced by local Neverwintians.
+
+Notable Members
+ General Sabine, Neverember's mercenary leader.
+ Captain Durham Shaw, the "Captain of the Wall".
+ Sergeant Knox, a local volunteer and hero.
+ Lieutenant Josef Linkletter, a local volunteer.
+ Private Wilfred, a local volunteer.
+ Jelvus Grinch, Neverwinter's "first citizen" prior to the arrival of Dagult Neverember.
+ Reginald Roundshield, who joined as a mercenary under the pseudonym Bonnego Battleaxe in the .
+
+Appendix
+Appearances
+Novels
+The Neverwinter Saga (Neverwinter, Charon's Claw) • The Companions
+Video Games
+Neverwinter
+
+External links
+
+References
+
+---
+
+## Needle (disambiguation)
+
+Needle could refer to:
+
+ Needle, the common handheld implement used for sewing and surgery,
+ Needle-blade, another name for a stiletto,
+ The green dragon Ormalagos, also known as Needle,
+ Needle (treant), a treant,
+ Needle's Bones, a sinkhole in Chult, and final resting place of Ormalagos,
+ The Needle (water tower), a water tower in Luskan,
+ Needle blight, a plant creature,
+ Needle Leap, a chasm in the East Rift,
+ Needle of lively tattoos, an enchanted tattooist needle,
+ Needle of mending, an enchanted sewing needle,
+ Needle of sewing, a magic needle that boosted a seamster's talents,
+ Needle of the outlaw rogue, a minor enchanted dagger,
+ Needle Peak, a mountain in the Ice Spires,
+ Stoner's Needle, a mountain on the Sword Coast,
+ Kozah's Needle, a magical staff used by Dahlia Sin'felle,
+ The Needle of the Crossroads, a magical artifact that could create portals, or
+ Locust needle, a type of tree found on the Pirate Isles.
+
+---
+
+## Neverwinter black icewine
+
+Neverwinter black icewine was a popular variety of icewine produced near Neverwinter in the 14 and 15 centuries DR.
+
+Description
+Considered somewhat rare, black icewine was held in high regard both by local Neverwintans, and by wine enthusiasts along the Sword Coast.
+
+Locations
+Black icewine was made by farmers in the area around Neverwinter. It was sold in wineries such as Waterdeep's House of Good Spirits.
+
+Appendix
+See Also
+Exeltis Ice Wine
+Appearances
+
+References
+
+---
+
+## Neogi deathspider
+
+Neogi deathspiders were the standard spelljamming ships employed by neogi spacefarers. They were easily recognizable for their size and characteristic shape and were one of the largest vessels in Known Space.
+
+Description
+Deathspiders were large spider-shaped vessels. Unlike the spelljammers crafted by most other races, deathspiders were built from a dark crystalline material. Their forward sections contained the spelljamming helm and crew's quarters, while the aft section (the "abdomen") was used as slaves' quarters, weapon platforms, and cargo compartments. The rear cargo hold was large enough to carry up to sixteen urchin vessels or a full-sized mindspider. During battle, the upper half of the abdomen could slide open to reveal a small citadel containing the weapons.
+
+The interior of a deathspider had black, crystalline walls and was lit by an eerie red light coming from disc-shaped implements in the ceilings. The bridge had three red, circular windows that served as the spider's "eyes".
+
+Deathspiders were capable of sustaining a compliment of up to 100 individuals and required a minimum crew of at least 30 to remain operational. Typically, eight neogi, each with an umber hulk slave, commanded a deathspider, while the remainder of the crew was composed of slaves working in the deeper sections of the ship. Command hierarchy followed typical slaver neogi logic: the captain owned every other crew member, as well as their own slaves. Should a captain be killed, a replacement would be elected among the remaining neogi on board.
+
+Deathspiders were the pride of the neogi. As their standard vessel, they were employed for a variety of uses, as trade ships, slave hunters and carriers, exploration vessels, and warships. It was also common to see deathspiders that had been modified to carry mindspiders in their abdomens, or to serve as broodships for a great old master. Different configurations did not substantially change the ship's appearance, so deathspiders were either attacked on sight or avoided by other vessels.
+
+Rare, heavily armed deathspider variants known as black widows were sometimes used to fight against enemies against whom the neogi held a particularly vicious grudge.
+
+Combat
+A deathspider had four forward-flowing "arms" that functioned as grappling rams, with which it trapped other ships. Because of this design, boarders—that is, neogi slaves—had to travel from the fore of the open citadel or battle deck over the narrower command section and above the bridge to reach the opponents' grappled ship. This gave defenders a slight tactical advantage when being boarded, assuming the trapped ship could repel an onslaught of scores of slaves and possibly umber hulks.
+
+In a space battle, deathspiders were most deadly from the rear, as a typical vessel had two rear facing heavy ballistae, a heavy catapult, and a heavy jettison. This was in comparison to only two front-facing heavy ballistae. On the other, hand, a vessel attacking or defending against a neogi deathspider from the front was a risk at being grappled.
+
+History
+In 1361 DR, the Void Reaper, a deathspider captained by Prissith Nerro, ambushed the hammership Probe as it was on its way to Realmspace with the Cloakmaster Teldin Moore. The crew of the Probe narrowly escaped from the attack but took heavy loss of of life. The Void Reaper pursued the Probe as far as the planet Toril, before its captain was slain in combat in orbit around the planet.
+
+Appendix
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Neverwinter Tales 1
+
+The Legend of Drizzt: Neverwinter Tales #1 is the first issue in a collection of five comic issues centering on Thibbledorf Pwent, Drizzt Do'Urden, and Dahlia Sin'felle during the events of the Neverwinter Saga. The story was written by R.A. Salvatore and his son Geno Salvatore. The majority of the art and colors were done by Agustin Padilla and Leonard O'Grady, but Tim Seeley and Gonzalo Flores also contributed to special covers.
+
+Synopsis
+The story opens with the lich Valindra Shadowmantle and the vampire Korvin Dor'crae looking over the stone cairns under which the dwarves Bruenor Battlehammer and Thibbledorf Pwent were buried. They see that it appears that one of the dwarves, Pwent, has survived. Dor'crae remarks that he was the one to kill Pwent, then Valindra orders him to find the dwarf.
+
+Meanwhile, Pwent awakes in Gauntlgrym with foggy memory. He wonders what made the marks in the ground and follows them to the lit Forge of Gauntlgrym. The place seems very familiar to him. He begins to remember fighting the tieflings alongside Bruenor and Drizzt Do'Urden. He remembers Beealtimatuche, the pit fiend, and how Bruenor was able to pull the lever to release the primordial only after Pwent saved him from Dor'cae's bite. He realizes that he should be dead, then discovers that he is in fact a vampire. His thirst for blood drives him outside and he slays an entire band of goblins, sucking them dry.
+
+The next morning, Drizzt Do'Urden and Dahlia Sin'felle arrive on the scene, having gone out to kill the goblins that were plaguing the area. However, the pair find the goblins already dead. Dahlia states the wounds must have been cause by a vampire; Drizzt is firm that the wounds were caused by a dwarven battlerager.
+Index
+Characters
+Main characters
+Dahlia Sin'felle • Drizzt Do'Urden • Thibbledorf Pwent
+Supporting characters
+Andahar • Dor'crae • Guenhwyvar • Valindra Shadowmantle
+
+Athrogate • Beealtimatuche  • Bruenor Battlehammer
+Locations
+Settlements Neverwinter
+Geography Crags • Neverwinter Wood
+Ruins Gauntlgrym
+
+Mithral Hall
+Creatures
+astral panther • deer • drow • dwarf • elf • ghost • goblin • human • lich • owlbear • pit fiend • tiefling • unicorn • vampire
+Organizations
+Ashmadai • Gutbuster Brigade
+Artifacts
+Icingdeath • Kozah's Needle • Twinkle
+
+Gallery
+
+Appendix
+References
+
+---
+
+## Neverwinter Tales 2
+
+The Legend of Drizzt: Neverwinter Tales #2 is the second issue in a collection of five comic issues centering on Thibbledorf Pwent, Drizzt Do'Urden, and Dahlia Sin'felle during the events of the Neverwinter Saga. The story was written by R.A. Salvatore and his son Geno Salvatore. The majority of the art and colors were done by Agustin Padilla and Leonard O'Grady, but Tim Seeley and Gonzalo Flores also contributed to special covers.
+
+Synopsis
+Drizzt and Dahlia ride back on Andahar the unicorn from the scene of the goblin's murder, arguing all the while about whether vampires or battleragers killed the goblins. They arrive in Neverwinter. They find the sergeant but Drizzt refuses payment, since they were not the ones to slay the goblins. Meanwhile, Dahlia obtains a magical wand that is supposed to point the way to any undead in the area.
+
+In the dark of Neverwinter Wood, Pwent spies a camp of humans. A ghostly voice in his head (Dor'crae) encourages him to drink from the humans, but he refuses. Instead, he finds an owlbear and attempts to sate his thirst on that beast, despite its inability to satiate him.
+
+In the morning, Drizzt and Dahilia ride out on Andahar again with the undead-seeking wand in hand. It leads them to the corpse of the owlbear. They continue to argue over whether their foe is a vampire or battlerager. They eventually find themselves in the middle of the forest with the wand pointing upwards. Thinking it broken, they head back to Neverwinter.
+
+At night, a the ghostly spirit of Dor'crae speaks to the camp of humans that Pwent saw the previous night. They are angry because they expected to be turned into vampires the night before. Dor'crae explains that Pwent is not yet ready. He orders them to set up camp by the river instead. Dor'crae then returns to Pwent to find the dwarf allowing his hand to be burned by the sunlight in order to remind himself of who he is.
+Index
+Characters
+Main characters
+Dahlia Sin'felle • Drizzt Do'Urden • Thibbledorf Pwent
+Supporting characters
+Andahar • Dor'crae • Guenhwyvar • Valindra Shadowmantle
+
+Athrogate • Beealtimatuche  • Bruenor Battlehammer
+Locations
+Settlements Neverwinter
+Geography Crags • Neverwinter Wood
+Ruins Gauntlgrym
+
+Mithral Hall
+Creatures
+astral panther • deer • drow • dwarf • elf • ghost • goblin • human • lich • owlbear • pit fiend • tiefling • unicorn • vampire
+Organizations
+Ashmadai • Gutbuster Brigade
+Artifacts
+Icingdeath • Kozah's Needle • Twinkle
+
+Gallery
+
+Appendix
+References
+
+---
+
+## Neverwinter Tales 3
+
+The Legend of Drizzt: Neverwinter Tales #3 is the third issue in a collection of five comic issues centering on Thibbledorf Pwent, Drizzt Do'Urden, and Dahlia Sin'felle during the events of the Neverwinter Saga. The story was written by R.A. Salvatore and his son Geno Salvatore. The majority of the art and colors were done by Agustin Padilla and Leonard O'Grady, but Tim Seeley and Gonzalo Flores also contributed to special covers.
+
+Synopsis
+As soon as the sun sets, Pwent leaves his cave and Dor'crae egging him on to attack the humans nearby. However, Pwent refuses despite his hunger and seeks other sustenance in the forest.
+
+In Neverwinter, Drizzt and Dahlia confront the merchant that sold them the undead-seeking wand. The merchants claim that the wand is not broken but Dahlia won't take that for an answer. At her insistence, she receives a replacement wand. Drizzt, however, is inclined to believe that the wand was not broken in the first place and that perhaps another undead creatures haunts the woods. They ride out to the mountains, hearing a whisper in the air that they cannot make out. Drizzt summons his astral panther Guenhwyvar. They find a group of red-clad Ashmadai. The two approach the group with questions about vampires. The humans quickly hostile and attack.
+
+As they fight, one of the women sits near Pwent's cave, tempting him to leave as soon as the sun sets.
+
+Drizzt and Dahlia finish slaying the group of Ashmadai. Dahlia believes that the merchants had set them up for a trap. Drizzt, however, takes another look at the wand and wonders if perhaps there had been a stronger undead present, such as the lich Valindra.
+
+Back at Pwent's cave, the woman approaches the dwarven vampire. Her pulse beats in his ears and he knows that if she enters he will not be able to resist. From a scrying bowl in an unknown location, Valindra eggs the woman on.
+Index
+Characters
+Main characters
+Dahlia Sin'felle • Drizzt Do'Urden • Thibbledorf Pwent
+Supporting characters
+Andahar • Dor'crae • Guenhwyvar • Valindra Shadowmantle
+
+Athrogate • Beealtimatuche  • Bruenor Battlehammer
+Locations
+Settlements Neverwinter
+Geography Crags • Neverwinter Wood
+Ruins Gauntlgrym
+
+Mithral Hall
+Creatures
+astral panther • deer • drow • dwarf • elf • ghost • goblin • human • lich • owlbear • pit fiend • tiefling • unicorn • vampire
+Organizations
+Ashmadai • Gutbuster Brigade
+Artifacts
+Icingdeath • Kozah's Needle • Twinkle
+
+Gallery
+
+Appendix
+References
+
+---
+
+## Neverwinter Tales 4
+
+The Legend of Drizzt: Neverwinter Tales #4 is the fourth issue in a collection of five comic issues centering on Thibbledorf Pwent, Drizzt Do'Urden, and Dahlia Sin'felle during the events of the Neverwinter Saga. The story was written by R.A. Salvatore and his son Geno Salvatore. The majority of the art and colors were done by Agustin Padilla and Leonard O'Grady, but Tim Seeley and Gonzalo Flores also contributed to special covers.
+
+Synopsis
+Drizzt and Dahlia approach the cave where the human woman edges closer to Pwent. Pwent gives in to the temptation and attacks her. At her scream, Drizzt, Dahlia, and Guenhwyvar rush inside. Guenhwyvar pins Pwent to the ground. Drizzt and Dahlia are shocked to see the dwarf they buried not too long before. He tells them they should have burned him and attacks. When Drizzt traps him with a blade to his neck, Pwent begs Drizzt to finish him off and return him to his rightful burial place with Bruenor.
+
+Drizzt is about to make the killing strike when Dahlia yells that Dor'crae's ghostly form has appeared. Pwent realizes that Dor'crae is the voice in his head encouraging him to attack people and attacks Dor'crae in vengeance. However, Dor'crae escapes. Pwent asks that Drizzt spare him the blade for a just a little longer so that he can enact vengeance on Dor'crae, the one who made him a vampire in the first place. Drizzt agrees and the three, plus Guenhwyvar, head out to find Dor'crae.
+
+Pwent follows the scent of the woman that was in the cave with them until they find her. She attacks Drizzt, then slays herself with her own dagger. The group's only lead to finding Dor'crae is gone.
+Index
+Characters
+Main characters
+Dahlia Sin'felle • Drizzt Do'Urden • Thibbledorf Pwent
+Supporting characters
+Andahar • Dor'crae • Guenhwyvar • Valindra Shadowmantle
+
+Athrogate • Beealtimatuche  • Bruenor Battlehammer
+Locations
+Settlements Neverwinter
+Geography Crags • Neverwinter Wood
+Ruins Gauntlgrym
+
+Mithral Hall
+Creatures
+astral panther • deer • drow • dwarf • elf • ghost • goblin • human • lich • owlbear • pit fiend • tiefling • unicorn • vampire
+Organizations
+Ashmadai • Gutbuster Brigade
+Artifacts
+Icingdeath • Kozah's Needle • Twinkle
+
+Gallery
+
+Appendix
+References
+
+---
+
+## Neverwinter Tales 5
+
+The Legend of Drizzt: Neverwinter Tales #5 is the fifth and final issue in a collection of five comic issues centering on Thibbledorf Pwent, Drizzt Do'Urden, and Dahlia Sin'felle during the events of the Neverwinter Saga. The story was written by R.A. Salvatore and his son Geno Salvatore. The majority of the art and colors were done by Agustin Padilla and Leonard O'Grady, but Tim Seeley and Gonzalo Flores also contributed to special covers.
+
+Synopsis
+The group—Pwent, Dahlia, Drizzt, and Guenhwyvar—hunt Dor'crae far into the night. As the sun begins to rise, they return in failure to a cave. Pwent resolves to sit and wait for the sun to kill him. Drizzt and Dahlia leave him, trusting him to follow through. However, after they leave and the sun begins to burn his flesh, Pwent gives up and retreats inside.
+
+Flashback to "some time ago": Dor'crae's vampire form is gone, replace with a ghostly form. Valindra compels him to follow her command. He flies out to find Pwent.
+
+Back to the present, Dor'crae finds Pwent and attacks him. Pwent holds his own until he loses consciousness. When he awakes, Dor'crae is gone, either dead or flown. Pwent knows he can't stay on the surface where there will always be temptation to attack people. He remembers something that Drizzt had said—that the tunnels were made by a volcano and many of them lead as deep as the Underdark. He resolves to hunt in the Underdark where he can drink from goblins and other "things that deserve to be killed." The last image is of Pwent walking down a tunnel to the Underdark.
+Index
+Characters
+Main characters
+Dahlia Sin'felle • Drizzt Do'Urden • Thibbledorf Pwent
+Supporting characters
+Andahar • Dor'crae • Guenhwyvar • Valindra Shadowmantle
+
+Athrogate • Beealtimatuche  • Bruenor Battlehammer
+Locations
+Settlements Neverwinter
+Geography Crags • Neverwinter Wood
+Ruins Gauntlgrym
+
+Mithral Hall
+Creatures
+astral panther • deer • drow • dwarf • elf • ghost • goblin • human • lich • owlbear • pit fiend • tiefling • unicorn • vampire
+Organizations
+Ashmadai • Gutbuster Brigade
+Artifacts
+Icingdeath • Kozah's Needle • Twinkle
+Gallery
+
+Appendix
+References
+
+---
+
+## Neekar
+
+Neekar was a unique intelligent broadsword that could communicate in any language native to the Prime Material plane.
+
+Description
+This steel broadsword had a rather plain, silver pommel and was sheathed in an ivory scabbard. It was created to be as inconspicuous as possible, giving only a faint aura of divination.
+
+The sword's personality had a particular pride in its ability to aid its wielder during negotiations and parleys.
+
+Powers
+While the blade possessed no magical enchantment, it was capable of communication, speech, and could read non-magical writing. Its main power laid in its ability to speak any language that was native to the Prime plane, including ancient tongues and local dialects across Toril. While it could visually perceive in all directions and listen to all sounds within 60' (18.3 m), it possessed no telepathic abilities.
+
+Creation
+While the sword was unique, it was known that the spell tongues was used in its creation.
+
+History
+This special sword first appeared in the treasury of a noble family of Waterdeep in the 13 century DR. At some point, Neekar was lost to rival nobility in a duel, who after a generation fell on hard times and wound up selling the blade. It was since used on the behalf of a number of individuals during diplomatic endeavors.
+
+Appendix
+References
+
+---
+
 ## Neverwinter Nights: Darkness over Daggerford
 
 Neverwinter Nights: Darkness over Daggerford is a premium module for Neverwinter Nights: Enhanced Edition.
@@ -2542,6 +7325,1073 @@ allergy • The Army Banner of Daggerford • Barrels of Bamboozle • The Boile
 Aesthetics of Human Anatomy • almond • allspice • Baldric's Brilliant Blamblower • barley • Battle of the Thousand Dead • beef Sharburg • black rot • blueberry • butter • catapult • clove • corn starch • cow chip • Buckled Knot • cinnamon • champagne • cheeeese • cognac • cream • Dangle-Sit-Me-Doodle • egg • eldritch berry custard • filo pastry • goat's cheese • grape • Great War of the Burrow • Gurn's Great Gnomeflinger • Harvest Stew • hemp • honey • hops • hot toddy • lemon • lime • Marsember beets • milk • Mintarn almond brandy • mulled wine • New Harvest Festival • New Harvest Punch • orange • parsley • peppermint tea • pickle • rose • salt • Second Dragonspear War • Shred-o-Matic 1000 • tea • Time of Troubles • tulip • turnip • vanilla • vinegar • Wailing Death
 
 Appendix
+Gallery
+
+References
+
+Connections
+
+---
+
+## Neviol Tathtard
+
+Neviol Tathtard was a human furniture maker in Silverymoon, circa the Year of Wild Magic, 1372 DR. He was also the leader of Tathtard's Rose, a syndicate of merchants across Luruar.
+
+Personality
+Neviol was greedy and ruthless, but extremely intelligent, cautious, patient, and subtle.
+
+Activities
+Tathtard's Rose was a secret organization that grew under Neviol's leadership. He worked to create opportunities for the members to make great profits, but not so great that they drew attention from the authorities. His tools were price fixing, cronyism, market manipulation, artificial shortages of goods, and leveraging insider information.
+
+Relationships
+Neviol guided things such that all members saw increased profits, but only in long-term schemes. He did not want the temptation of a huge short-term gain to cause any member to betray the others. However, he did not follow his own guidance. Neviol once eliminated a rival member by ordering his most trusted agents to poison the entire household, including the servants, and loot all the cash, gems, and trade bars before anyone discovered the crime. Neviol planned to mete out the same fate to the other members when their fortunes had grown enough to make it worth the risk.
+
+Appendix
+References
+
+---
+
+## Neogi mindspider
+
+A neogi mindspider was a small and maneuverable spelljammer employed by the neogi in addition to their standard deathspiders.
+
+Description
+Mindspiders were small, fast, and maneuverable ships. They were more resistant than deathspiders, despite being less heavily armed. A mindspider needed a minimum crew of three neogi to operate and could sustain up to 40 individuals without compromising its air supply. The crew usually included umber hulks and slaves of other races, subjugated to the captain's command via charm spells. Crew hierarchy functioned as in other neogi vessels: the entire crew was seen as the property of its captain.
+
+Mindspiders were employed in a variety of functions. Most typically, they were used in situations that called for more subtlety, in which the large size of a deathspider could be problematic. Another common use for a mindspider was as the flagship in a fleet of deathspiders, serving the lair of the fleet's owner.
+
+Less commonly, mindspiders were also employed as pirate vessels, commanded by renegade neogi captains. Such neogi could go rogue, for example, to escape from being transformed into great old masters. Ship modifications for this purpose could include more heavy armaments, or changes to increase its stealth and maneuverability.
+
+History
+Sometime in the mid–14 century DR, a fleet of six mindspiders defending Elmonitae in the Tears of Selûne was defeated by the tsunami Storm of Honor. After salvaging the wreckage, the captain of the tsunami, Daimyo Akahu Nagasa, rescued the 100 captives that were being held on the asteroid.
+
+Rumors & Legends
+There were rumors that a neogi experiment in colonization was being carried out using mindspiders. It was possible for a mindspider to be modified to serve as a colony ship. Stripped of its engines and weapons, they were loaded with neogi eggs and an undead great old master, then deployed from their deathspider motherships onto planets deemed suitable for colonization and conquest. By the mid–14 century DR, no such experiments had been successful.
+
+Appendix
+Appearances
+
+External Links
+ Mindspider article at the Spelljammer Wiki.
+References
+
+---
+
+## Newborn Celebration
+
+The Newborn Celebration was a holiday that celebrated the lions of the Vilhon Reach and the rebirth of the deity Nobanion.
+
+It took place during the third week of Kythorn, exactly three and a half months after the Festival of the Pride in Ches. This time represented the gestation period of a lion cub.
+
+Appendix
+
+References
+
+---
+
+## Nemausus
+
+Nemausus, sometimes called Menausus, was the former third layer of Arcadia before it was absorbed into Mechanus.
+
+Geography
+Nemausus had rich forests and verdant fields, all perfectly organized and aligned. No cities existed in the realm, but modron fortresses and abandoned training camps could be found scattered in the otherwise pristine landscape.
+
+The realm could still be reached by gates from Buxenus, but access through those gates was extremely restricted by the Harmonium. Officially, the faction did not want to worsen the situation of the former layer's separation from Arcadia. Moreover, Nemausus was the site of the faction's most bitter defeat, which was sufficient reason for the Harmonium to want to keep it as secret as possible.
+
+History
+Before its separation, Nemausus was the most beautiful of the three layers of Arcadia.
+
+Nemausus had been separated from Arcadia for millennia. The reason for the separation was often attributed to a large expansion of its formian inhabitants and their ruthless adherence to law. However, other sages maintained that the real reason for its separation were the training camps kept by the Harmonium. Designed to forcefully convert creatures of chaotic tendencies to their harmonious view of the universe, the Harmonium camps fouled the good nature of the layer and pushed it into neutrality.
+
+When the layer separated, the imprisoned chaotic creatures broke free, also mingling their natures into the plane. For that reason, Nemausus retained a level of disorganization and recklessness unlike the rest of Mechanus.
+
+The realm was constantly invaded by troops controlled by the Harmonium in attempts to reclaim it for Arcadia. However, those attempts were often contaminated with selfishness and evil, which meant that there was very little chance that it would ever come back to Arcadia. The layer had become so ingrained in Mechanus that it was often difficult to distinguish it from the rest of the plane.
+
+Inhabitants
+There were still petitioners from Arcadia in Nemausus. Driven by the chaos inserted into the realm and the hatred for its controlling factions, they dwelt underground in warrens that were deep enough to reach the very cogs of the plane.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Nesmyth
+
+Nesmyth was a farming village in southern Cormyr.
+
+Geography
+Nesmyth was situated in the center of a cluster of nearby villages including Gladehap to the north, Bogbrook to the south, Kallamarn to the west, and Ongul's Water (and the Hermit's Wood) to the east. It was located near the bend of Starwater River where it turned south to flow into the Lake of Dragons.
+
+History
+The Great Popper Crisis
+When the people of Nesmyth were clearing the surrounding hills of trees, the land began to dry out. They built irrigation canals to bring water from the river, but the water kept draining out of them, even after they tried to seal them with sand and pebbles. A ranger suggested that they use the discarded shells of popper crayfish that were native to the Wyvernwater. The shells were discarded, or "popped", by the crayfish once a month and turned into a gluelike substance when mingled with mud and sand. It was suggested that this substance could be used as a waterproof sealant for the canals.
+
+The villagers followed the ranger's advice and harvested hundreds of poppers from the Wyvernwater, then dumped them into the canals. The plan worked perfectly until the poppers ate all the snails and tadpoles in the canals. They found their way to the river and began eating the valuable game fish that the fishermen relied on. They also quickly multiplied, and their bad-tasting flesh meant they had no commercial value.
+
+A Shocking Development
+Lured by the poppers, swarms of freshwater electric eels from the Lake of Dragons came up the river, invaded the canals, and began feeding on the crayfish. The good news was that the ecosystem of the canals eventually balanced itself out. The bad news was that the eels could release an electrical discharge deadly to humans, as dozens of fishermen found out the hard way.
+
+Fortunately, a merchant arrived one day with samples of stelk, a shrub that was grown in Hilp as fish bait that no aquatic creature could resist. What made this even more favorable was that any eel that ate from this shrub could not use its electrical ability for an entire week.
+
+A Village Divided
+Not all the villagers thought using the stelk against the eels was a good idea. A local wizard named Harhansen had discovered that a glass jar of eel-shocked canal water glowed as though it were enchanted with a spell of continual light. Only water from the canal itself had this strange property, and the wizard claimed that by selling these wondrous "light jars", a fortune could be made. Many villagers supported the wizard's plan, while others were against it since it was dangerous and the eels had already caused too many deaths.
+
+This contentious issue split the village into three militant factions. The first faction wanted to leave the eels alone and begin selling the light jars, the second faction wanted to use the stelk to render the eels harmless, and the third wanted to get rid of the eels and the canals altogether, and grow crops that didn't need to be irrigated. By 1367 DR, this state of affairs had threatened to erupt into civil war.
+
+Inhabitants
+Because of the violent disagreements that could potentially break out among the people of Nesmyth, visitors were advised not to bring up the subject of eels.
+
+Appendix
+References
+
+---
+
+## Necklace of adaptation
+
+A necklace of adaptation was a magical necklace that protected the wearer from things that affected their ability to breathe.
+
+Description
+It took the form of a platinum medallion hanging on a heavy chain.
+
+Powers
+This necklace allowed the user to breathe under suffocating circumstances, even when underwater but not in a vacuum such as space. By wrapping the wearer with a field of fresh air. This in turn made gives the user advantage on saves for all harmful gases and vapors, such as inhaled poisons and magical effects like stinking cloud or cloudkill. This enchanted necklace allowed the wearer to survive without air for up to one tenday.
+
+Creation
+Crafting one required an alter self spell.
+
+Notable Owners
+ Algashon Nathaire: a priest of Bane who was responsible for Sammaster's madness.
+ Bleys Dhacrylon: a vampire hunter from Waterdeep possessed an electrum holy symbol of Sune that had powers of a necklace of adaptation.
+ Calvin Longbottle owned a scrimshaw version of this amulet that was shaped like a porpoise.
+ Casimir: a wicked wizard who grew bitter in his old age.
+ Jannaxil Serpentil: a very disliked book seller and a fence from Waterdeep.
+ Nythra of Seven Rivers: a Rashemi wizard who was known to travel the Astral Plane and taking missions to Thay in the 14 century DR.
+ Solonor Thelandira: the elven god of archery, whose avatar wore a necklace of adaptation.
+ Pikel Bouldershoulder: an eccentric dwarf druid who was said to have a necklace of adaptation as of the late 15 century DR.
+ The Magister: a self-aggrandizing necromancer made use of a necklace of adaptation.
+
+Trivia
+Monadic devas could naturally breathe in any environment as if they wore a necklace of adaptation.
+
+Appendix
+See Also
+ Adaptation
+ Talisman of adaptation
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Nerys Kathon
+
+Nerys Kathon was a cleric of Kelemvor and a member of the adventuring troupe known as the Heroes of Baldur's Gate in the late 15 century DR.
+
+Description
+Nerys was a muscular woman with pale skin and black hair. She had purple eyes, accentuated with eyeshadow made from arrowroot.
+
+Personality
+Courageous and headstrong, Nerys was a very devout and proud follower of Kelemvor. Due to her belief in the concept of final death, she had a strong dislike of undead. Her vocation meant she often dealt with the dying and dead, staying coolly detached even as she healed others, or helped them to overcome their suffering.
+
+Possessions
+
+In combat, Nerys wore a metal breastplate and wielded a greatsword blessed by Kelemvor. She carried with her a holy symbol of Kelemvor, and often wore an elaborate wolfskin cloak she received in the city of Fireshear.
+
+Relationships
+She was close with Alby, her superior priest at the Temple of Kelemvor in Baldur's Gate. Alby served as a mentor to Nerys, teaching her about the Kelevorite faith from a young age.
+
+While Nerys considered all of her adventuring companions her friends, she grew particularly close with Minsc, the brave but somewhat naïve Rashemaar berserker with true heart.
+
+History
+First Adventure
+
+Some time after the, Nerys served Kelemvor at his temple in Baldur's Gate, serving as protector of the Kelemvorite relics that were safeguarded within. When the growing number of disturbances at the church, Father Alby enlisted a group of adventurers to help investigate, a fact to which Nerys took umbrage. When a pair of werewolves and the priest Sangin assailed the church, they stole its relics and abducted Nerys to their hideout. The heroic adventures tracked down Nerys' abductors and fought them off until gray mist transported everyone to Barovia, one of the Domains of Dread in the Shadowfell.
+
+Filled with anger, Nerys accompanied the adventurers across the dark realm, visiting camp of vistani wanderers, saving the young Adrian Martikov from a pack of ghouls, and even managing a night's rest at the Wizard of Wines vineyard. Even in that unholy land, Nerys attempted communion with Kelemvor for guidance. The following day Nerys and her companions made their way to the village of Vallaki, where they met up with the newly-turned vampire Sangin and the werewolves. A fight broke out, with Nerys suffering a vicious bite from one of the lycanthropes, but finally ended with the appearance of Count Strahd von Zarovich. The group struck out against the great vampire, but were no match for his unrivaled power. They were saved by the same relic that transported them to Barovia, which when hit by one of Delina's wild surges returned them to Faerûn, albeit hundreds of miles away from Baldur's Gate in the frigid north.
+
+Stranded in the Frozenfar
+
+Badly wounded during the last fight, Nerys was carried by Minsc across the snowy landscape as the group found shelter so she could recover. When a band of ogres threatened their safety, Nerys's new allies defended her in battle with the aid of the dragonborn ranger Saarvin. They managed to arrive at Fireshear, where group could rest and Nerys receive healing. When the town healer showed concern about her wound, Nerys refused further investigation and put the trouble from her mind.
+
+Nerys reunited with her friends for a brief moment of joy, before they were were forced to defend the town from Gryttmort and his band of frost giants. After turning away the giants and freeing their captive white dragon Nilanthe, they retained one of the giant raiders as a captive and interrogated him to learn Gryttmort's schemes. They learned of his plot to recover an orb of dragonkind from the dragon's lair in mountain Cold Crag, rallied their allies in town, and ventured out across the ice and snow. The heroes allied themselves with Nilanthe and helped fight out the approaching giants, until Gryttmort seized the orb and turned Nilanthe to his side in the battle and caved in the lair upon the heroes.
+
+After regrouping at Fireshear and praying to Kelemvor, Nerys joined her companions in sneaking onto a frost giant longboat, into their glacial fortress. Their infiltration ended abruptly as Minsc inadvertently attracted the attention of all the frost giants. The heroes fought valiantly against the overwhelming giant warriors. When the intrepid Shandie managed to nullify the orb of dragonkind's powers and the hamster Boo grew to even more tremendous proportions, the battle turned in their favor. When they returned to Fireshear victorious, most of the heroes celebrated with the townsfolk. Nerys however marked the occasion alone, haunted by the growing realization that she had been inflicted with the werewolf's curse.
+
+Return to the Sword Coast
+
+As the heroes returned to Baldur's Gate they each went their own way for a while, Nerys returning to see Father Alby at Kelemvor's temple. She tried meeting Minsc and then the others for a night at the Gibbering Gizzard tavern, but was distracted and wholly preoccupied with her new affliction. When Krydle inadvertently drew the ire of a half-orc, and Nerys took a dagger slash across the face, the young Kelemvorite cleric made her transformation in her werewolf fore, and had to be subdued by her friends for the safety of all.
+
+The adventurers took Nerys to see Father Alby at the temple. Fearful they may have waited too long to remove the curse, Alby prepared a ritual that would hopefully restore Nerys to her fully-human state before she was bitten. He coaxed Nerys into transformation, and while her friends restrained her physical form, guided her psyche as it confronted some deep fears that manifested in her curse. In the end Nerys overcame her self-doubt and stayed true to what she held dear, banishing the curse and celebrating the victory with her companions.
+
+Some time later, Nerys and the group gathered together to help Aubree Lucent, a Hellrider from Elturel whom Minsc and Delina had saved from a fiendish hell knight. They helped her investigate the mysterious infernal puzzle box she had recovered at Fremin Greer's shop, leading them to visit Great Reader Sylvira Savikas in the library-fortress of Candlekeep. When they took Aubree to meet with Sylvira, one of Delina's wild surges triggered something within the puzzle box, transporting the group to Elturel, just as it was being pulled down to the Nine Hells.
+
+Trapped on Avernus
+
+As the holy capital of Elturgard descended into the Hells, the heroes were beset on all sides by horrific devils. Nerys followed Minsc and he rushed off to defeat Haruman, the same hell knight that harried Aubree days earlier, and was pulled into a lengthy battle with the servant of Zariel. Just as Haruman was about to kill Minsc, Nerys plunger her blade through the corrupted knight's chest. In an act of defiant vengeance, Haruman leveled the precipice upon which they were standing, causing them to fall from Elturel's streets a great distance onto a pile of bones on Avernus' scorched battlegrounds.
+
+Standing atop the actual top layer of the Nine Hells, Nerys and Minsc witnessed the true horror that was the eternal Blood War. They ran away from rampaging demons, were briefly captured aboard the infernal war machine of the Bloodrovers, and thrown into the waters of River Styx, nearly stripping them of their memories and humanity. Just as she overcame the trauma of lycanthropy, Nerys faith in her god and her freinds helped endure the horrific effects of the Styx; Minsc however was not so resilient. Seeing that Minsc had been stripped of his memories and warrior instinct, Nerys took charge until she and Minsc could be reunited with their friends. Facing down Archdevil Zariel herself, the group managed to survive together long enough to see Elturel returned to its rightful place in the Western Heartlands.
+
+Back Home Again
+
+Back in Faerûn, the Heroes of Baldur's Gate stayed in restored Elturel for some weeks. Nerys found some peaceful time with her friend Minsc, listening to him re-learn the memories of his great adventures, as explained by his pet hamster.
+
+Appendix
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Negate magical weapons
+
+Negate magical weapons, also known as protection from magical weapons,This spell appeared in the Baldur's Gate series as a 6 level wizard spell called protection form magical weapons. was an abjuration spell that allowed the caster to protect someone from the magical abilities bestowed upon certain enchanted weapons.
+
+Effects
+For the duration of the spell, any magical weapon that struck a person or creature did so as if it were a mundane version of the same weapon-type. Furthermore, any spell-like abilities or effects produced by these weapons had no effect on the being under the spell's protection.
+
+The spell did not negate any powers of weapons that did not directly target its recipient and offered some protection from weapons with the special purpose of defeating arcane spellcasters. While it negated the extra damage these weapons could cause, it did nothing to stop the effects they caused, such as blindness or deafness.
+
+Appendix
+Appearances
+Video games
+Baldur's Gate II: Shadows of Amn
+Baldur's Gate II: Throne of Bhaal
+Notes
+
+References
+
+---
+
+## Nethentir
+
+Nethentir was a city of Thay located within the tharch of Lapendrar, just beneath the First Escarpment on the northern shore of Lake Umber. It was an important settlement that took in heavy caravan traffic and housed a large fortress and a number of legion outposts that guarded a series of switchback trails that led up to the Thayan Plateau.
+
+Nethentir was the sister-town of Nethjet, though it never attained the same level of prosperity. Together they served as the starting point for a number of Thayan invasions into the lands of Thesk and Aglarond.
+
+Description
+In addition, Nethentir had a great many businesses and inns that served the outlanders who entered Thay from the west. Bored and unruly gnolls and Thayan legionnaires regularly wreaked havoc in the city's establishments, starting brawls and harassing passersby. When soldiers arrived in Nethentir on leave, citizens were prepared to bar the doors of their homes or make arrangements to leave town for a short while.
+
+Nethentir had a port that opened up into Lake Umber, and many sea captains of the city shipped their goods to Nethjet and back. While no major Thayan roads extended into the city, many merchants established their own overland trade routes, and typically evaded the attention of the Red Wizards.
+
+History
+Nethentir fell into ruin during the events of the Spellplague in the, when the upheaval of the Thayan Plateau and eruption of the Thaymount caused the entire region to become broken and transformed into the Bonedark Hills.
+
+In the late 15 century DR, Thayan forces began rebuilding and reinforcing Nethentir into a ringed fortress known as a Dread Ring, and patrols of Thayan troops (including undead increased around the city.
+
+Appendix
+References
+
+FR:Néthentir
+
+---
+
+## Necrotic skull bomb
+
+Necrotic skull bomb was a necromancy spell that imbued a humanoid skull with negative energy. The skull could then be thrown as a projectile that would burst upon impact, releasing the energy stored within.
+
+Effects
+Any living creature caught within the blast of a necrotic skull bomb was drained of their life force in a similar manner to the spell energy drain. If they survived the initial effects they would slowly regain their energy over the course of a number of hours, depending on the skill of this spell's caster.
+
+This spell had a different effect on the undead, making them more robust for the duration of an hour.
+
+Casting
+In addition to verbal and somatic components, this spell required the skull of a humanoid creature.
+
+Appendix
+References
+
+---
+
+## Nelorth Broamshoulder
+
+Nelorth "Firefists" Sheirtalar, also known as Nelorth the Luckless was an idealistic young mage of Sheirtalar, Lapaliiya, who served as the Magister during the mid–3 century DR. He had a brief tenure as the champion of Mystra that ended in the Year of the Hunting Horn, 242 DR.
+
+Description
+Nelorth was an energetic young man, exceptionally so for the title of Magister, who constantly dreamed about improving the societal and power structures that surrounded the practitioners of the Art in Faerûn. He constantly came up with ideas of how to increase the importance of mages across the various Realms.
+
+History
+The naive young mage ascended to the post of Magister in the Year of the Hippogriff's Folly, 241 DR, having been offered the role by Azuth. But Nelorth had the unfortunate fate of succeeding two immensely powerful Magisters, Malanthus Stormstaern and Dorgon Heamiiolothtar, known among mage-circles as the "Feeble Giants". They possessed so much personal magical prowess that no mages sought to challenge them, and the title of Magister had gone uncontested for nearly a century. Hence, Nelorth was viewed as an inferior successor, and was nearly immediately challenged by rival mages. He defeated two of them.
+
+During his short tenure, Nelorth managed to hide away some powerful spellbooks and Netherese magical items he had come into possession of. He believed these items to be too powerful for any mage to wield, but too useful to destroy outright. It was believed he stashed these in an invisible floating magical sphere larger than a manor house dubbed "the Sphere of Spells", but both its location and the means of accessing it were lost to future generations.
+
+Merely a year after he assumed the title of Magister, Nelorth was defeated and killed by his third challenger, the arrogant battle-mage Weldrarn Orblin.
+
+Appendix
+References
+
+---
+
+## Net (spell)
+
+Net was an evocation spell that created a heavy and adherent net that entangled any person or creature caught within. It was considered a lesser version of the spell web.
+
+It was designed specifically for the members of the City Watch of Waterdeep.
+
+Effects
+When this spell was a cast, a heavy and sticky net, which somewhat resembled a spider's web, appeared over a 10' (2.9 m) area. While it was possible for anyone caught within the area to dodge out of the way, if they failed to act quickly enough they were immobilized for a matter of moments.
+
+This spell could be cast so that the net appeared in the air and dropped on top of people below, or used to ensnare aerial creatures. Compared to web, it was much more useful in cities as it was less-likely to harm bystanders or other passersby.
+
+The netting created by this spell was not flammable, however it could be cut away in order for someone to free themself. Because of this, a number of nets were often cast in conjunction with one another to douse small flames.
+
+Components
+In addition to verbal and somatic components, this spell required a small bit of spider web or rope.
+
+Appendix
+References
+
+---
+
+## Nerozar
+
+Nerozar the Defeated was a beholder zombie in Undermountain in the early 1490s DR.
+
+Activities
+Nerozar was floating together with three gas spores in a cave inside the Sargauth Level.
+
+History
+When it was alive, Nerozar challenged the Xanathar for lordship over Skullport but lost and was killed. Later, as a zombie, it became a pet of the mind flayer ambassador of Skullport.
+
+In 1492 DR, the mind flayer ambassador took Nerozar with it during the visit to the hobgoblin warlord Azrok. However, Azrok disliked the zombie and the ambassador decided to leave Nerozar in a cave.
+
+Appendix
+Appearances
+ Waterdeep: Dungeon of the Mad Mage
+Notes
+
+References
+
+---
+
+## Nessus
+
+Nessus was the ninth and deepest layer of the Nine Hells of Baator.
+
+Geography
+The layer was a featureless plain with jagged edges that extended  from east to west and  from north to south, floating in an endless red void. The plains were scarred by chasms and ravines several thousand miles deep, and were frequently ravaged by fiery storm winds.
+
+Geographical Features
+The River Styx trickled down into Nessus through a little-known, small offshoot. It was heavily guarded by devils who slew any unauthorized visitors on sight. The river drained into a shallow pool known as the Forgotten Lake, then continued at the bottom of some of the crevasses before percolating through the earth and continuing its course into Gehenna.
+
+The River Lethe also flowed across Nessus, occasionally also falling into its trenches and ravines.
+
+Government
+The layer was ruled directly by Asmodeus, who presented himself as an illusion of a tall, red-skinned, slender man. He was assisted by a court of archdevils that included the Chancellor of Hell Adramalech, Inquisitor Phongor, and several commanders. His pit fiend generals included Executioner Alastor, Asmodeus's majordomo Baalberith, and Constable Martinet.
+
+History
+Asmodeus allowed Zariel to recover in Nessus from the wounds sustained by her fall before assigning her as Duchess of Avernus.
+
+Rumors & Legends
+
+The tiefling midwife Destiny Agganor from Nightstone had a set of runes burned onto her front door to ward off unwanted visitors. It contained a prayer that included damning any intruders to burn in Nessus for almost a century.
+
+Notable Locations
+ Malsheem, the largest city in all of the Outer Planes and home to Asmodeus. Located at the bottom of an enormous trench directly below the portal from the Pit in Cania, it was inhabited by millions of devils held in reserve for an unknown cataclysmic battle. Asmodeus's citadel of Fortress Nessus rose far above the plain from the bottom of the rift.
+ The Serpent's Coil, the deepest rift of the layer, said to have been blasted as a result of Asmodeus's fall into the Hells. It was home to his true form as he healed from the wounds sustained by his fall. The blood shed by Asmodeus's wounds constantly sprouted new devils, perfect specimens of pit fiends and cornugons.
+ Tabjari, a citadel made of copper that stood along the walls of Reaper's Canyon. It contained one of the three copies of the Pact Primeval―the other two remaining in Mechanus and Mount Celestia.
+
+Inhabitants
+Nessus was inhabited by a majority of greater devils, including Asmodeus's legions of amnizus, pit fiends, and cornugons, among others.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Neutral water
+
+Neutral water was a common spell used by wizards in Serôs.
+
+Effects
+When cast, the spell neutralized all scent in the water within a  radius. As a result, sea creatures were unable to detect the scents of creatures within the spell's area of effect.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+References
+
+---
+
+## Negative energy flood
+
+Negative energy flood was a necromancy spell that bombarded a creature with waves of negative energy.
+
+Effects
+The caster targeted a visible creature within a range of, sending bands of negative energy. If living and unable to resist the effect, the target creature's flesh shriveled away as the life force was drained from it. A creature killed by this spell rose as a zombie under the caster's control within seconds.
+
+If the target creature was already undead, the spell bolstered the target's vitality temporarily.
+
+Components
+The spell only required verbal and material components. The materials required were a broken bone and a square of black silk.
+
+Appendix
+References
+
+---
+
+## Neo-otyugh
+
+A neo-otyugh was a rare and powerful type of gulguthra.
+
+Description
+Neo-otyughs were a distinct species of gulguthra. However, they could fertilize the eggmass of otyughs, though the offspring would grow up to be otyughs, not neo-otyughs. Neo-otyughs had large bodies and small mouths — this made them easy to tell apart from ordinary otyughs, which had mouths that seemed to stretch across their entire bodies. Though they could not interbreed, both species were similar in appearance and behavior.
+
+These monsters could reach  tall, and  wide, or even larger. Neo-otyughs had very thick hide, two huge arms, and three stumpy legs. They also had an eye-stalk protruding from the top of their bodies. In general, neo-otyughs were fairly clever creatures, but could even become highly intelligent. As such, they had decent telepathic abilities.
+
+Behavior
+Neo-otyughs were very aggressive at hunting prey, and were not trusting. Thus, they often attacked intruders on sight.
+
+History
+In 1357 DR and up to 1367 DR, neo-otyughs could occasionally be found in the sewers beneath Waterdeep.
+
+In 1367 DR, at least one neo-otyugh lived within the Rat Hills dump near Waterdeep.
+
+Notable Neo-otyughs
+ Happy Hogun
+
+Appendix
+Gallery
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Neverwinter Nights: Tyrants of the Moonsea
+
+Neverwinter Nights: Tyrants of the Moonsea is a premium module for Neverwinter Nights: Enhanced Edition.
+
+Index
+Characters
+Protagonist Hero of Daggerford
+
+Companions Astar Graysteel • Beirmoura • Eremuth Silverwind • Lyressa • Sharalyn Lockleaf
+
+Other Aerel Hassammar • Agatha the Cook • Alamarayne Moonray • Alazander • Amarune • Amberlyn Goldwaters • Amaril Sweetwater • Anders • Angrym • Arigashal • Artemis Entreri • Baerdeth Malagar • Baerimel Dunnath • Bale Khodolis • Bashnagg • Berk • Bennart Waters • Bifely Lyeelm • Blizzard (person) • Branon Oakheart • Buorstag Hlammythyl • Burak • Cassius (wolf) • Chadee • Chandlar Hummerspoon • Challseus • Chesslyn Onaubra • Cheswick Goldwaters • Codepoetz • Craster Rees • Creel (person) • Crenshyl Khodoil • Crippled Fang • Cyril • Cyrvisnea • Daisy Hawthorne • Dalgar • Dela Alder • Delphaeryn Leiyraghon • Devalle • Dmitra Flass • Dounalis Guff • Dragoth • Drizzle • Dryden Bruil • Elf (person) • Enrad Daleborn • Ezril Treewarder • Flammuldinath Thuldoum • Fzoul Chembryl • Gareth Aumantor • Gideon Birneir • Gloomfang • Glor "The Trebuchet" Bloodaxe • Gorlax • Gormstadd • Grazkahn • Grimswold • Grunt Steelstorm • Halanther Dayne • Haliator Mendara • Harfist • Harthoon • Hermuk • Hilrad • Hlessen Muragh • Hugie • Ilandra Wavemistress • Immithra Shrae • Innovator of Pain • Isaac Glinckle • Iyrauroth • Jackdaw • Jannatha Goldenshield • Jeyna • Kaela Ulsant • Kalor Onehand • Karandas • Karim Ninetrees • Kauvra • Kazz'Temmet • Kettia Freeborn • Kornah • Kragdar • Kramer • Lana Graysteel • Lashan Waters • Lita • Luanna • Maalthiir • Madoc • Maganus • Malakar • Malik • Mard • Meldonder Nurian • Melyrk Rubyripper • Merrik • Miséla Derlson • Moavar • Nightshade (person) • Niskal Rinay • Noric • Ogson the Trader • Old Jeffers • Ootamal • Orcus • Orinskar • Oswul Farnf • Peter Derlson • Quah-Nomag • Rak Alumeater • Raest • Red Minotaur • Render • Reyvan • Rikard Graysteel • Sabarak • Scyllua Darkhope • Selfaril Uoumdolphin • Sentinel • Shankly • Shrazgul • Slink • Sorin • Sparrow (person) • Stormmistress • Sureene Aumratha • Suzildara Sharranen • Sylar • Tavis • Tayrom Onetry • Thalia Tanthul • Theldar Hammerfist • Thorne • Thoyana Jorgadaul • Thud • Tiberius • Titys • Tusk (orc) • Tyana Softfoot • Tyrian • Ulblyn Blackalbuck • Valda Skullsplitter • Valen (Elmwood) • Vaporandir • Varius Mizz'reth • Veris • Vesvur Alder • Wak Rathar • Wenda • Wrecker • Zacharus • Zain • Zalazar Oram • Zeltoon Saan • Zor (person) • Zamakus
+
+A'Tuin • Aumvor • Avagard • Berne • Charon (Banite) • Demogorgon • Drizzt Do'Urden • Dundeld Nanther • Dyrlar Graywinter • Eleanor Highbossom • Elenawen • Elminster Aumar • Essul Blackmoon • Fang (wolf) • Gastar Hawkwinter • Gelduth Blackturret • Gorgomorz • Hero of Neverwinter • Hlaavin • Ikathilo • Ioulaum • Izu • Jenna • Jorgen Berginblade • Karsus • Khelben Arunsun • Marcus Aumanthor • Manshoon • Manxam • Merkul • Ologh • Ootamal • Orgauth • Pater Ogson • Pwyll Greatshout • Ren o' the Blade • Shal Bal • Simbul • Storm Silverhand • Telamont Tanthul • Thurndan Tallwand • Uhlmor • Usta • Vecna • Vorbyx • William (Hillsfar)
+
+Creatures
+air elemental • badger • balor • banedead • baneguard • banelich • battle horror • bear (dire) • beast of Malar • bebilith • beholder (elder orb) • black cobra • bodak • burnbones • cat • chicken • cougar • cow • deer • direguard • djinni (noble) • dog • doppelganger (greater) • dracolich • dragon (black • green • mist • red • shadow • white) • drider • dwarf • earth elemental • elf (drow • marel • sea • sun • wood) • erinyes • ettin • fallen solar • fire elemental • gargoyle (elder) • gelatinous cube • giant (fire • frost • hill • mountain) • gnoll • gnome • goblin • golem (adamantine • bone • demonflesh • diamond • emerald • flesh • iron • magic • mithral • ruby • stone • Thayan) • gray render • halfling • half-dragon • half-elf • half-orc • hell hound • helmed horror • hezrou • hobgoblin • horse • human (Chultan • Eraka) • invisible stalker • kobold • malaugrym • manticore • mephit (water) • mind flayer • minion of darkness • minion of hatred • minion of tyranny • minotaur • mountain rothé • nightmare • nightwalker • ochre jelly • ogre • ogre mage • orc • ox • pit fiend • pixie • quasit • rat (dire) • raven • render • seagull • shark (mako) • shield guardian • skeleton (warrior) • slaad (blue, death, gray, green, red) • spider (dire) • stink beetle • succubus • tanarukk • tri-flower frond • umber hulk • vampire • vrock • water elemental • werebear • wight • will-o'-wisp • wolf (dire • winter) • wyvern • zhentarim spirit • zombie (lord • warrior)
+
+Batiri • cockroach • dragon turtle • frog • griffin • hawk • hornet • lich • mule • myconid • pegasus • phaerimm • phase spider • tarrasque • toad • skeleton • troll • unicorn • urchin • wererat
+
+Locations
+Inns & Taverns Beacon Inn • Boring Pig • Breakwater • Diamond in the Dung • Floating Fighter Inn • Oxpit Tavern • Pride of Zhentil Keep • Still Waters • Swaying Bough Inn • Swords Meet • Traveler's Cloak Inn
+Stores Angrym's Livery • Blackalbuck's Swap Shop • Gold Cave • Grange • Hermuk's Allgoods • Laris's Curios • Mad Mrlyrk's • Titys's Emporium
+Temples Dark God Reformed • Gate of Good Fortune • Halls of the Unicorn • House of the Moon (Thentia) • Jagged Rocks • Lodge of the Great Hunt • Purple Portals • Resting Place of the Whip • Temple of Bane • Temple of Cyric (Mulmaster) • Temple of Chauntea • Temple of the Half Moon • Vault of Swords
+Keeps Castle Maalthiir • Dragoth Keep • Dreadspire • Kur-Tharsu • Locktower • Tower of the Wyvern
+Other Ruins of Candlemas • Hillsfar Arena • Livestock Pen • Thayan enclave (Mulmaster)
+Roads Shind Road
+Settlements Elmwood • Elventree • Hillsfar • Melvaunt • Mulmaster • Thentia • Voonlar • Yûlash • Zhentil Keep
+Regions Moonsea • The Ride • Thay • Thar
+Wilderness Cormanthor • River Lis • Tesh
+Planes Mechanus
+
+Anauroch • Bell in the Depths • Calimshan • Ched Nasad • Chult • Citadel of the Raven • Cormyr • Crab's Claw Coast • Daggerford • Dalelands • Damara • Debtors' Prison • Earthspur Mountains • Elventree • Evereska • Forest of Lethyr • Great Dale • Great Glacier • High House of Wonders • Impiltur • Lantan • Maztica • Mulhorand • Myth Drannor • Netheril • Nine Hells • Northkeep • Old Empires • Phlan • Sembia • Shadowdale • Shadowfell • Silver Marches • Suzail • Teshwave • Tethyr • Thultanthar • Trollbark Forest • Underdark • Waterdeep • Westgate • Yûlash
+
+Organizations
+Blades (Mulmaster) • Bloodaxe (tribe) • Church of Bane • Church of Chauntea • Cult of the Dragon • Dukes of Daggerford • Forsaken • Gutripper • Harpers • House Mizz'reth • House Tanthul • Order of the Crippled Fang • Red Plumes • Red Wizards • Shadovar • Shield Trading Company • Thentia's Resistance Army • Thieves' Guild of Zhentil Keep • Unseen • Zhentarim
+
+Bruil • Crimson Guard • Cult of the Bright Sword • Crimson Guard • Flaming Fist • Hawkwinter • House Bruil • House Leiyraghon • Hillsfar Rogues' Guild • Leiyraghon • Nanther • Purple Dragons • Rundeen • Shadoweirs • Swords of Tempus
+
+Religions
+Cyric • Bane • Chauntea • Mystra • Selûne • Silvanus • Tempus • Tymora • Umberlee
+
+Azuth • Beshaba • Bhaal • Corellon • Gruumsh • Hem • Hoar • Ilmater • Kelemvor • Kossuth • Lolth • Loviatar • Malar • Moradin • Myrkul • Sehanine Moonbow • Shar • Sune • Tyr
+
+Magic
+Weapons Abyssal blade •  Agatha's spear of stirring • Black Lord's Caress • Cheswick's dagger • Discord (sword) • Dorgan's Defender • dwarven thrower • ebon lash • hammer of Vorbyx • Heavenly Bow • Izu's hammer of fabrication • Legacy of the Oni • mace of darkness • mace of the moon • the Maiden's Fury • marel spear • Nightthief's Nimbleknife • Oathkeeper • Red Ruin • repeating crossbow • Siegebreaker • silver sickle of Soranth • Skull-King's flail • staff of the tutor • woodcutter's axe • Striker • sword of the solars • Titanfell • trident of thunder • Viper Fang • Worldbreaker • Wrath of Talos
+Armor Astar's half plate • anti-magic shield • bone mask • gold dragon armor • grave touched mail • The Wall (shield)
+Clothing Eremuth's robe • grey robe of the archmagi • Lyressa's tunic • Skin of the Manticore
+Accessories Astar's ring • horned ring • Shadoweir amulet • Stoneeater's ring
+Wands wand of stoneskin
+Ammunition bullet of crushing • dart of pinning • Moonsilver Shard
+Wondrous Items Figurine of wondrous power
+
+Ascendancy • Dappled Blade • Harper pin
+
+Miscellaneous
+Food & Drink ale • bread • egg • spices • stew • wine
+
+biscuit • ham • sweetmeats • tea
+Substances carrion crawler brain juice • manticore venom • perfume • phase spider venom
+Material leather • wool
+Vegetation begonia • oak • philodendron • pipeweed • violet • yucca
+Ships Flotsam • Grim Voyager • Mingleblood • Purple Star
+Games dice • roulette • twenty-one
+Works The Art of Golem Crafting • Book of Gond • The City of Hillsfar • Crimson Tides of Tethyr • Darkness over Daggerford (book) • Fiendish Codex: The Demon Lords • The Knights of Dragon Down • The Pirate Who Would be King • Grimoire of the Undying • The Lord of the 133rd Layer • Religions of the Moonsea • Rituals of Aumvor • Volo's Bestiaries: The Malaugrym • Voonlar (book)
+Other ballista
+
+Bhaalspawn crisis • Fall of Netheril • Highsummer • prosthetic • Time of Troubles • trebuchet
+
+Appendix
+Notes
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Necrophidius
+
+A necrophidius, also known as a death worm, was a construct that looked like a huge skeletal snake with the skull of a human.
+
+Description
+The bodies of death worms were bleached-white and their human-like heads had snake-like fangs. Their skulls seemed to have swirling white eyes, and their bodies emitted no odor. They were able to crawl completely silently, and could stand on the tip of their tail to elevate themselves to around 12 feet (3.7 meters).
+
+These very rare creatures could understand Common, but were unable to speak. As well as this, they were adept at climbing, sneaking, and hiding. Although they appeared to be undead, they were not, much like a bone golem.
+
+Combat
+Owing to their stealthy nature, necrophidii would often hide and then launch a sneak attack on an opponent. If spotted in plain sight, these creatures could hypnotize prey by whirling in a specific manner, and then viciously bite their victims. This vicious bite could even paralyze a foe, and cause them to become unconscious for up to 10 minutes. They sometimes attacked in groups, causing their enemies to be flanked, giving the constructs an advantage in combat.
+
+As with other constructs, they were immune to poison, paralysis, disease, and sleep as well as other mind-affecting spells and abilities.
+
+Variants
+Two-Headed A two-headed variant of necrophidius that was developed by the Zakharan necromancer Sumulael. He scribbled in the margins of his necrophidicon how one could extend the usual recipe for these golems in order to create his two-headed variant.
+
+Ecology
+As these golems had no need for food or sleep, they did not have a large impact on ecology. However, they obeyed the word of their masters, and so could hunt down creatures in an area they were commanded to protect.
+Creation
+Necrophidius constructs were often made to serve as assassins or guards. The base cost for such a construct was 5,000 gp, but more powerful ones could be made. The spellcaster had to have the ability to craft wondrous items, as well as be willing to lose power in the production of such a construct, and five days spare.
+
+The required components were a skeleton of a snake, a skull of a humanoid, and the material components needed for the individual spells. Arcane spellcasters required the usage of geas/quest, hold person, Mordenkainen's faithful hound, and hypnotism. Divine spellcasters required the same first two spells as a mage, but also needed animate objects and command. Other spell combinations were known to create a necrophidius, as well as differing expenditures in both gold and time.
+
+However, it was also possible to create these constructs by using a tome similar to a manual of golems, known as a necrophidicon.
+Habitats
+Beyond Toril, these constructs were known to exist on the planet of Oerth and in the Domains of Dread.
+
+History
+Such creatures were known to be kept by Netherese lords in the Shadowfell, such as Draygo Quick.
+
+They were also known to lurk in the first level of Undermountain in the 14 century DR.
+
+In the mid–15 century DR, Effron Alegni managed to acquire one of these constructs.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Neverwinter Nights (disambiguation)
+
+Neverwinter Nights may refer to:
+ Neverwinter Nights (poem), the origin of the name in lore, and an epic poem
+ Neverwinter Nights (publication), the series of chapbooks
+ Neverwinter Nights (original game), the original game by Strategic Simulations, Inc
+ Neverwinter Nights (BioWare game), the popular BioWare game
+ Neverwinter Nights (series), the series of BioWare games
+ Neverwinter Nights: Enhanced Edition, the enhanced edition of the BioWare game
+
+---
+
+## Neverwinter Nights (poem)
+
+Neverwinter Nights was an epic poem written by Pomplo the Elder.This was the first usage of the term Neverwinter Nights within lore terms. Treasures of the Savage Frontier and the original Neverwinter Nights were developed at a similar time by the same developers, so the poem that appeared in the former game was most likely a reference to the latter. The latter game revolves around the Knights of Neverwinter (the player characters in the MMO), i.e., the Neverwinter Knights. Hence, the name Neverwinter Nights is probably a witty equivoque of Neverwinter Knights.
+
+Description
+The poem was often performed in an entertainment hall in the colony of Farr Windward. Neverwinter Nights was acted out as a play, where three men would stand against each side of a square chamber, and recite the epic work of literature. They would do this whilst balancing bowls of kumquats on their heads.
+
+Appendix
+Appearances
+Video Games
+Treasures of the Savage Frontier
+Notes
+
+References
+
+---
+
+## Necromancer's stone
+
+A necromancer's stone was a fist-sized black sapphire used in necromantic summonings.
+
+Powers
+Unless it was being used, it had to be covered at all times with a magical cloth. Anyone sensitive to the arcane could feel its magical emanations when it was in close proximity.
+
+When uncovered, the gem would start pulsating, sending a summoning call to any undead in the area. It also helped in controlling more powerful undead, like mummies; when that was the case, the stone started glowing with an eerie black-purple luminescence.
+
+History
+When the imp Druzil sneaked into Barjin's chambers, he started checking all of his belongings, among them, the necromancer's stone. The stone was used during the plan to destroy the Edificant Library, where Barjin uncovered it in the catacombs, which summoned a group of ghouls and also helped control a powerful mummy.
+
+The stone was finally stolen by Druzil, who stepped into the flames of Barjin's brazier and into the Abyss, abandoning the library until Barjin had things under control.
+
+Notable Owners
+ Barjin, a cleric of Talona who dabbled in wizardry, necromancy, and sorcery possessed one of these stones. However, Druzil, Aballister's familiar, took it with him when he left the Edificant Library.
+
+Appendix
+Appearances
+ Canticle
+
+References
+
+---
+
+## Nesmorae
+
+Nesmorae was a female human wizard living in Callidyrr in the Moonshae Isles in the 14 century DR.
+
+She was an apprentice of Kappiyan Flurmastyr of Waterdeep and was a notable sorceress and accomplished mage before the 1360s DR.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Nesim Waladra
+
+Nesim Waladra was a monk of the late 15 century DR.
+
+History
+Nesim Waladra was the disciple of Leosin Erlanthar.
+
+In the 1480s DR, Nesim Waladra was very concerned about Leosin Erlanthar's well-being and whereabouts and requested help from an adventuring party while in Greenest.  The monk was wounded when Lennithon the blue dragon attacked the town with forces of the Cult of the Dragon.
+
+Appendix
+
+Appearances
+Adventures
+Hoard of the Dragon Queen
+
+References
+
+---
+
+## Newton H. Ewell
+
+Newton H. Ewell is a designer, developer, editor, cartographer, and artist of Dungeons & Dragons material, from sourcebooks to accessories. He particularly focused on the Forgotten Realms and Spelljammer campaign settings, but worked on several others as well. Ewell is personally credited with designing many ships and maps of Realmspace. He also provided art for Dragon magazine, but not for the Realms or a related campaign setting.https://spikecon.org/guests/utah-fandom-organization-guests/newton-ewellhttps://web.archive.org/web/20050215003639/http://www.pen-paper.net/rpgdb.php?op=showcreator&creatorid=223
+
+He is a lover of tabletop gaming, and names Dungeons & Dragons as his favourite game of all time.https://www.deviantart.com/newtman001
+
+Works
+ Wild Things (developer, editor)
+ Monstrous Compendium Spelljammer Appendix 1 (designer)
+ Realmspace (interior artist)
+ Monstrous Compendium Spelljammer Appendix 2 (designer)
+ Maztica Campaign Set (interior artist)
+ The Drow of the Underdark  (editor)
+ The Ruins of Myth Drannor (editor)
+ The Great Glacier (editor)
+ Pirates of the Fallen Stars (editor)
+
+Appendix
+References
+
+---
+
+## Net of shadows
+
+Net of shadows was a spell used by sorcerers and wizards and by the adepts of the Grodd goblins.
+
+Effects
+With this spell, a caster could blind a creature by using ordinary shadows. The shadows flew to the creature and wrapped them in a net of darkness. Within this net, the creature was unable to see anything beyond . Darkvision was rendered useless. The net of shadow did not hinder the creature's movement.
+
+Components
+This spell required only verbal and somatic components.
+Appendix
+References
+
+---
+
+## Negative energy burst
+
+Negative energy burst was a spell that dealt negative energy damage.
+
+Effects
+When cast, this spell created a burst of negative energy. This burst was large, affecting an area with a  radius. Any creature within this area were weakened. Undead creatures were healed. The strength of the burst was determined by the caster's spell level.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+See Also
+Negative energy ray
+Appearances
+Video Games
+Neverwinter Nights
+External links
+
+References
+
+---
+
+## Negative energy ray
+
+Negative energy ray was a spell that dealt negative energy damage.
+
+Effects
+When cast, this spell caused a beam of pure negative energy to shot out from the caster's fingers. Any creature with this beam were weakened. Undead creatures struck with the beam were healed. The strength of the beam was determined by the caster's skill level.
+
+Components
+In addition to verbal and somatic components, the spell required a material component, a mirror. The caster broke the mirror during casting.
+
+Appendix
+See Also
+Negative energy burst
+Appearances
+Video Games
+Neverwinter Nights
+External links
+
+References
+
+---
+
+## Negative energy protection
+
+Negative energy protection was a spell that protected against negative energy attacks.
+
+Effects
+When cast, this spell granted immunity to all negative energy based attacks to a targeted creature.
+
+Components
+This spell required only verbal and somatic components.
+
+Other Uses
+This spell was used in the enchantment of armor with the negative energy protection armor quality.
+
+Appendix
+See Also
+Negative plane protection
+Undeath's eternal foe
+Appearances
+Video Games
+Neverwinter Nights
+External links
+
+References
+
+---
+
+## Needle's Bones
+
+Needle's Bones was a massive grotto, resembling a sinkhole, located in the jungles of Chult.
+
+Description
+The walls of the cavity were sheer rock, covered in vines and moss. The bottom was covered by a shallow pool of murky green water that was full of skeletal remains.
+
+History
+Originally, this landmark served as the lair of the green dragon Ormalagos.
+
+At some point the nearby batiri goblins concocted a plan to slay the dragon commonly known as Needle. They trapped her with nets and pelted her with spears while schools of carnivorous quippers consumed her from below. Ormalagos was slain and the tribe of goblins were nearly completely eradicated.
+
+Appendix
+References
+
+---
+
+## Neil Uyetake
+
+Neil Uyetake is the Art Director for IDW Publishing. He letters a large number of comics series for IDW.
+
+Credits
+Neil has done the lettering for the following Forgotten Realms comic series.
+
+A Darkened Wish
+Cutter
+Dungeons & Dragons: Forgotten Realms
+Evil at Baldur's Gate
+Frost Giant's Fury
+Infernal Tides
+ Legends of Baldur's Gate
+ Shadows of the Vampire
+ ''Tyranny of Dragons
+
+Appendix
+External Links
+Works by Neil Uyetake
+
+---
+
+## Nematodes of the Northdark
+
+Nematodes of the Northdark was a seminal scholarly tome on subterranean worms.
+
+History
+Originally kept in the library fortress of Candlekeep, the book was lost at some point in the 15 century DR, having been taken into the Underdark by an explorer. Wendolyn Shoosh, of the Candlekeep Order of Librarians Militant, spent decades tracking the lost tome before locating it in the drow settlement Zesraena in the Northdark. In, Shoosh successfully petitioned an adventurer to retrieve the book.
+
+Appendix
+Appearances
+Video Games
+Neverwinter
+References
+
+---
+
+## Nepenthe River
+
+The Nepenthe River was an underground body of water that flowed beneath a region of the Sword Coast, primarily the High Moor.
+
+Geography
+The source of the river was somewhere in the Misty Forest and was accessible by a cave therein. It flowed southeast, along a path underneath the southern border of the High Moor. The river culminated in a large, subterranean whirlpool that emptied into Kanaglym, within the Underdark.
+
+Description
+The waters of the Nepenthe were extremely cold, to the point of nearly freezing. The air was equally cold and noticeably humid.
+
+Along the path of the river, the surrounding caves were quite striking. The walls sparkled with veins of valuable minerals and incandescent mushrooms shone in a wide variety of colors.
+
+History
+During the fall of Dragonspear Castle, in the, the mage Ithtaerus Casalia stole a clutch of eggs away from Halatathlaer's lair. He hid them away in a cavern on the banks of the Nepenthe.
+
+In the, a group of adventurers rafted down the river in order to reach the labyrinth beneath Dragonspear Castle.
+
+When the Shining Crusade took over Dragonspear Castle, around the, they established a supply depot on the banks of the Nepenthe and used it as a means of transporting soldiers and resources. Among them was the mage Strunk of Silverymoon, who was binding the river's water elementals to his will.
+
+Sometime before the, a group of undead led by Born rose up from the Nepenthe and made their way into Dragonspear.
+
+Notable Locations
+The river passed directly under Dragonspear Castle. It was accessible through the castle's cellar, by means of the underground warrens.
+
+Inhabitants
+A number of creatures dwelled within the caves around the river, including sahuagin and ankhegs. The waters were home to a number of water elementals, a nereid, and even a particularly nasty morkoth called Sallissi.
+
+During the mid–14 century, the alchemist Bellowgulp Bluefingers and his myconid companion known as the Concoctor regularly traveled along the banks of the Nepenthe, selling their concoctions.
+
+Appendix
+Appearances
+Novels
+Waterdeep
+Video Games
+Baldur's Gate: Siege of Dragonspear
+References
+
+---
+
+## Nelnar Orthwood
+
+Nelnar Orthwood was the head of the noble Orthwood family in Cormyr in the early 1200s DR. The family lost their noble status when Nelnar was murdered by his son, Nars in the .
+
+Description
+Nelnar did not have a beard or a mustache, but had long brown hair that matched any young woman's hair in the style of the time. His eyes were light blue. He was usually seen with a bemused smile on his face and often took sips of sherry from a flask he kept on his belt.
+
+Personality
+He was a quiet man, not given to outbursts. Under his leadership, the family's influence was on the rise before it was tragically lost because of treachery.
+
+Relationships
+Nelnar was married to Freeyel and they had three children. Nars was the son and heir, and his two sisters were Taeronissa and Imroserel.
+
+History
+Nelnar was one of the witnesses to the disappearance of Waevor's Wagon—a carriage filled with silver pieces intended for paying the salaries of the Purple Dragons. He was one of a delegation of nobles that were on a mission to escort an important Sembian trade envoy to Immersea. While camping for the night on the road, the stolen wagon streaked through the camp without lights or outriders, killing fellow nobles Elbryn Scatterstars and Tharim Roaringhorn. Orngrym Cormaeril mounted his horse and gave chase while Nelnar directed the huntsman Ardagast Falconhand to try and intercept the fleeing vehicle. Neither of the pursuers were able to stop the wagon from disappearing into the night.
+
+Later that same year, Nelnar discovered that his son Nars was plotting against King Dhalmass Obarskyr. The confrontation, either deliberate or accidental, resulted in Nelnar being stabbed to death by Nars. This act of patricide effectively ended the nobility of the Orthwoods. The Crown seized the Orthwood estate and possessions to pay off the family's debts but Nelnar's widow and daughters were allowed to live in a house on government land east of the Starwater River and given an adequate stipend on which to live.
+
+Appendix
+References
+
+---
+
+## Nehwon ghoul
+
+Nehwon ghouls were transparent-bodied creatures from the world of Nehwon. They were unrelated to the more familiar ghouls.
+
+Description
+The "crystal flesh" of Nehwon ghouls was transparent, rendering their pinkish skeletons visible.
+
+Personality
+Nehwon ghouls generally considered themselves to be more civilized than others and saw cannibalizing humans, turning them into more of their clear-bodied kin, as an altruistic act.
+
+Occasionally, Nehwon ghouls would break free of their customs, joining human adventuring bands.
+
+Combat
+Nehwon ghouls were similar to humans in terms of combat prowess. Their transparent bodies made locating their vital spots difficult.
+
+Notable
+The axe-wielding Lacheera, companion to Tamper Tencoin when he fought Whisper alongside the Knights of Myth Drannor, was a Nehwon ghoul.
+
+Appendix
+References
+
+---
+
+## Net of stars (spell)
+
+Net of stars was a wizard spell from the school of evocation.
+
+Effects
+This spell created swirling cluster of small stars around the caster that could be used to strike out against targets or spin around the caster to serve as a shield. The caster decided during the casting if the spell would behave in an offensive or defensive manner and could not be changed once cast. The caster was unable to work other magic while wielding the net of stars as a lash, but could perform mundane actions while using the net as a shield.
+
+The stars always hit their target when lashing out. Any targets touched by others coming to their aid shared in the harmful effects. The lash was fan-shaped and  wide at its base and  wide at its end and  thick. It could extend for  from the caster.
+
+When stationary, the net filled an area  wide and tall. The use of magic within this area was blocked by the spell's energy. The caster was immune to harm from the net, but the energy within the net harmed anything that was both within the net's boundary or when attempting to cross the boundary.
+
+Components
+In addition to verbal and somatic components, this spell required as material components an eyelash from a wizard who had cast a wild magic spell and a small powdered diamond, moonstone or piece of rock crystal to cast.
+
+Appendix
+References
+
+---
+
+## Needle blight
+
+Needle blights were medium-sized blights spawned from a Gulthias tree.
+
+Description
+Needle blights looked enough like a hunched humanoid to be mistaken for one in the shadows of a forest, but a closer look made their plant-like nature obvious. Conifer-like needles grew in clumps across their bodies, and their gait was best described as shuffling.
+
+Behavior
+Needle blights, like the rest of their foul kin, were evil-hearted, malevolent creatures.
+
+Abilities
+Needle blights possessed blindsight only, and could understand Common but did not speak- as plants, they lacked eyes and a mouth. They were, however, capable of flinging the needles from their bodies as short-ranged projectiles.
+
+When a needle blight detected a potential threat, it released a particular pollen into the air. This pollen carried to and was detected by other needle blights who, alerted to the location of the threat, would swarm in from all sides.
+
+Combat
+Needle blights attacked with their clawed hands and the needles that grew on them.
+
+Ecology
+Like most other blights, needle blights were found in forests.
+
+Needle blights were known to inhabit the Quivering Forest as of the 15 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Neverwinter Nights (publication)
+
+Neverwinter Nights was a serialized chapbook typically published every six to ten days in Neverwinter.
+
+Contents
+Neverwinter Nights was a periodical that covered topics of interest for the Neverwintian high society: culture, arts, events, reviews of musical, theater, and oratorical performances, and of course, gossip. The publication followed a lax schedule, releasing regular issues and printing "special issues" if something sudden of note happened in the city. Neverwinter Nights kept its readers informed of famous musicians' visits, new fanciful establishments, and upcoming book releases. Arguably, the Neverwinter Nights' gossip section was the most popular, covering high society feuds, disgraceful occurrences, scandals, bans, and even murders and pregnancies. As of the, Neverwinter Nights was edited and published by Lundrago Mursimmur.
+
+Appendix
+References
+
+---
+
+## Netherese enclave
+
+An enclave was a magical city or castle built by the Netherese during the time of Netheril, and most famously referred to the flying cities built in the dozens that floated above Faerûn until they fell during Karsus's Folly. Making an enclave fly was known as the oldest of Netherese rituals.BioWare, Floodgate Entertainment (June 2003). Designed by Brent Knowles, Rick Ernst. Neverwinter Nights: Shadows of Undrentide. Atari.
+
+Forms
+
+Although shearing off a mountaintop and using it as the base for a city was a (relatively) convenient solution, many enclaves were raised before the invention of Proctiv's move mountain and utilized other techniques. Even after its development, the exclusivity of the spell and the desire of Netherese archwizards to prove themselves meant that many pursued divergent techniques that may have been more difficult or less effective, and as a result each enclave had its own unique appearance.
+
+While visually impressive, severing a mountaintop was not particularly productive, as the tips of mountains were often made up of heavily weathered, fissured layers of rock that did not hold together well on their own. As a result, that technique would require additional work to fully stabilize. Although Netheril was dotted with flat-topped mountains, most were actually the result of extensive mining and quarrying that simply reduced them to plateaus, rather than a grand spell that levitated the tops off.
+
+One common technique for the creation of a flying enclave was the laying of cottage-sized boulders as a foundation, that were then magically melded into each other and sculpted into more elaborate forms. Another popular style involved creating an enormous wall of force that acted as a platter that carried the requisite structures.
+
+Other forms of magically-supported cities and outposts also existed. The Sargauth Enclave used its mythallar to support the underground space it was inside, while the cities of Werapan, Cuulmath and Quaeluuvis were underwater constructions, shielded by huge crystal domes.
+
+History
+The earliest forms of the flying enclave came after the arcanist Ioulaum invented the mythallar in . Using the great powers available, arcanists were able to levitate single buildings atop tiny islands of rock, gravity-defying sculptures, and elaborate artistic installations that flowed through the air.
+
+The first true flying enclave was raised in, Xinlenal, also created by Ioulaum. This prompted many ambitious arcanists to create their own, leading to many diverse designs as they tried to outdo each other and claim a place of prestige.
+
+The process was later revolutionised by the development of the epic magic spell Proctiv's move mountain in, which cut the top off a mountain, flipped it over, and floated it through the air so they could build a city on the flat surface.
+
+The vast majority of remaining enclaves were destroyed as one during Karsus's Folly in . Their flight was broken and they crashed to the ground, often killing all within. Only a few enclaves survived, including Hlondath, Asram, and Anauria, which crash-landed intact, and Thultanthar, which escaped into the Shadowfell.
+
+As a result of their far-flung explorations, many flying enclaves did not come to a rest within the traditional bounds of Netheril. This included Ythryn in the Reghed Glacier, Arongahurr near Yal Tengri, Telarrzhard in the Yehimal Mountains, and Urvraunt on the edge of the Yellow Sea.
+
+Appendix
+See Also
+ Earthmote
+
+References
+
+Connections
+
+---
+
+## Neanderthal
+
+Neanderthals, otherwise known as cavefolk, were an ancient humanoid race distantly related to humans. They were descended from the same archaic humans who lived during the Days of Thunder.
+
+Description
+Neanderthals largely looked like humans, albeit with a number of distinctions. They were tall and thickly built, had long arms, and were incredibly hairy. Their heads were generally a bit larger than those of humans, with a sloping brow and protruding jaw.
+
+They were often known to adorn their bodies in war paint or a crude form of tattoos. Crudely tanned hides were the most common form of armor for them.
+
+Personality
+Unlike many intelligent races, neanderthals had no interest in the alignment concepts of good, evil, law, and chaos. They also rarely felt an ambitious drive to expand their territory, though would defend their homes quite fiercely.
+
+Despite their primitive way of life, neanderthals were largely just as intelligent and cunning as humans.
+
+Biology
+Neanderthals were known to possess a slightly greater degree of strength and keener sense of smell than humans, though their eyesight was considered to be poorer than average.
+
+Neanderthals were also known to have a great tolerance for extreme climates, suffering little in environments where temperatures ranged between . Despite all these distinctions, neanderthals were still largely human and could be affected by the same things as them. The offspring of a human and neanderthal coupling could easily pass for either parent's race.
+
+Combat
+The fighting style of neanderthals was generally comparable to that of a barbarian or savage warrior, though many were also known to be capable druids and witch doctors.
+
+Neanderthals fought with weapons that were made of stone or otherwise considered primitive. The weapons typically used by them included bolas, clubs, harpoons, shortbows, slings, spears, and throwing axes. Out of all of these, spears were the most commonly used.
+
+History
+Around 1340 DR, a tribe of fifty neanderthals inhabited the lower hills north of Phlan.
+
+At some point prior to the Time of Troubles of 1358 DR, a group of neanderthals living in the isolated reaches of the Thunder Peaks acted as lackeys for the rune magic disciples of Valmous. Among those disciples, the healer known as Erigol was an ardent advocate for their rights.
+
+As part of maintaining the illusory Stranded Tern, the green dragon Tarith disguised a number of neanderthals and other creatures roaming the Thunder Peaks as the establishment's guests and staff using the powers of the Dragon's Pearl.
+
+Society
+Neanderthals had a hunter-gatherer society, with men hunting for food animals and women gathering edible plants. They lived in clans, consisting of six to ten extended families. The names of these clans were typically derived from an animal predominant in their area. When interacting with outsiders a neanderthal always referred to themselves by their clan or profession, with their personal name reserved for only close friends and other clan members.
+
+Scrimshaw was one of the few art forms that neanderthals were known for, such as carving hunting scenes upon fangs harvested from a saber-toothed tiger. Their druids were known for crafting talismans from skulls.
+
+Neanderthals were known to domesticate saber-toothed tigers, elk, and glyptodons, and using the latter two as mounts and pack-animals. Some were also known to keep white-furred apes as pets.The "white apes" that this Dragon article refers to are likely in reference to the eponymous creature from D&D Basic, who were described as an animal often kept by neanderthals as pets. These could be considered a sort of a precursor to the carnivorous ape.
+
+Homelands
+Following the rise of human civilization, neanderthals were displaced from the lands they traditionally inhabited. They were forced to move far away from their cousins to largely isolated and uninhabited areas. They never built their own homes, instead often lairing within large cave networks or caverns. Some were known to lair within ancient ruins or the crevasses of rock formations when such caves were not available.
+
+The area surrounding a neanderthal clan's lair was considered their hunting grounds. These were usually no larger than a half-day's travel, since neanderthals preferred to return to their dwellings by nightfall. These hunting grounds were often marked with crude fetishes made of skin, bone, and trophies taken from their defeated enemies.
+
+Diet
+Neanderthals were typically known to hunt bison, caribou, deer, horses, ground sloths, glyptodons, woolly mammoths, and branta.
+
+Religion
+Religious belief varied widely among neanderthals throughout their history, with faith being taught by their druids or sorcerers through oral tradition and cave paintings. Religion was considered a significant part of their society, as it provided a framework for explaining everything they couldn't understand about the world.
+
+Worship of specific deities was rare, though a few clans were known to worship the giant gods Thrym and Ulutiu. They would build elaborate fetishes or crude altars at which to worship them or perform sacrifices. More common for them was reverence of fire and clans often had a central bonfire chamber that they sought to keep burning eternally.
+
+Other clans practiced a form of ancestor worship and would mark graves with a complex series of cairns. The clans who practiced this form of faith believed that their ancestors watched over them throughout their lives, protected them, and then judged them once they died.
+
+Languages
+Neanderthals spoke a crude form of modern Common and had no written language. Instead they used cave paintings and a rich oral tradition to maintain important concepts and stories. Some were also known to be familiar with the languages of dwarves, orcs, and giants.
+
+Relationships
+Neanderthals traditionally had poor relationships with other races. Most notably with frost folk, orcs, ogres, goblins, and kobolds. They often competed with ogres over caverns and the same sorts of prey.
+
+Appendix
+Notes
+
+Appearances
+
+External Links
+ Caveman article at Wikipedia. The Free Encyclopedia.
+
 Gallery
 
 References
@@ -2665,6 +8515,6059 @@ Appearances
 References
 
 Connections
+
+---
+
+## Nemessor
+
+Nemessor was a small island located in the Nelanther Isles.
+
+Description
+Unlike many of the other islands in the region, freshwater springs and fertile soil were present here. Fertile soil allowed fruit to grow in abundance and so the island had the potential to support civilized life. However, dangerously strong winds and summer storms made it difficult to simply navigate to the island.
+
+Notable Locations
+The high hills around the cove helped to protect its only settlement, Black Skull Cove, located on the eastern side of the island. The high surrounding hills helped to protect the settlement and docks from the strong winds and storms. It was home to the 600–900 individuals making up the Black Skull clan. Sailors, refugees, and escaped slaves from Tethyr and Calimshan founded this city. Due to the dangers in navigating to the island, the sailors of the Black Skull Clan were some of the best in the region. As many as a quarter of the clan's members were pirates by trade.
+
+Largely collapsed dwarven caves and tunnels, which were once a part of Deep Shanatar, could be found beneath island and were occupied by monstrous creatures. Prior to the destruction of the tunnels during the fall of Shanatar, it would have been possible to walk from Nemessor to Zazesspur entirely underground.
+
+One of the Sea Towers that were present throughout the region was located on the northeast side of the island. It was built on the cliffs that rose  above the sea below.
+
+Appendix
+References
+
+FR:Némessor
+
+---
+
+## Necromharge
+
+Necromharge was an enigmatic evil mage who terrorized the the North in 1358 DR.
+
+History
+Around 1358 DR, Necromharge was the leader of an army of organized bands of undead that ravaged major trade routes throughout the North. The undead within these bands included skeletons, spectres, wights, and zombies.
+
+These undead would kill those that they encountered, then steal both their valuables and their bodies. The latter of course were used to swell their ranks. Eventually, the Lords' Alliance put out a bounty on Necromharge. Their ultimate fate was unknown.
+
+Appendix
+References
+
+---
+
+## Nethjet
+
+Nethjet was a city located in Thay.
+
+Inhabitants
+Marek Rymüt was native to this city and received training in magic to be a Red Wizard at a magic school located there in the early 14 century DR.
+
+History
+Nethjet fell into ruin during the events of the Spellplague in the, when the upheaval of the Thayan Plateau and eruption of the Thaymount caused the entire region to become broken and transformed into the Bonedark Hills.
+
+In the late 15 century DR, Thayan forces began rebuilding and reinforcing Nethjet into a ringed fortress known as a Dread Ring, and patrols of Thayan troops (including undead increased around the city.
+
+Appendix
+
+Appearances
+
+References
+
+FR:Nethjet
+
+---
+
+## Necklace of prayer beads
+
+Necklace of prayer beads were enchanted amulets imbued with divine magic of the deity worshiped at the temple where they were created.
+
+Description
+Most of the necklaces of prayer beads appeared cheap and nothing more than a string of polished round stones.
+
+Powers
+These necklaces were usable only by divine spellcasters, such as clerics, rangers, paladins, and druids.
+The necklaces of prayer beads that dated to the age of the old Myth Drannor gave the wearer the ability to cast the prayer spell.
+
+The 14 century version of the item came with fifty charges and was able to cast a set of spells, each consuming the certain number of charges. Bless consumed no charges, cure serious wounds - three charges, remove blindness or deafness - three charges, and remove disease - three charges as well.
+
+History
+In 1369 DR one ancient necklace of prayer beads could be found on a master spectre of one of the fallen of the Weeping War deep in the Elven Catacombs of Myth Drannor.
+
+In the 14 century, necklaces of prayer beads were occasionally distributed or sold by the bigger temples of the Sword Coast to the faithful of the congregation as a reward, or a way of enticing new followers.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Nezras's mysterious chainmail
+
+Nezras's mysterious chainmail was an enchanted set of chainmail armor that once belonged to the infamous Nezras the Traitor.
+
+Description
+Nezras's mysterious chainmail was an oddly shapeless chainmail.
+
+Powers
+Apart from the +5 enchantments to armor and defense, Nezras's mysterious chainmail possessed the ability to cast the spell blink. The mysterious chainmail also affected the wearer in a negative way: it reduced the wearer's wisdom, will defenses, and reflexes.
+
+History
+Even though the traitor Nezras survived the end of the Weeping War in 714 DR, and eventually achieved lichdom in 1014 DR, his mysterious chainmail was left behind in the ruins of Myth Drannor. By 1369 DR, Nezras's mysterious chainmail came to be possessed by a dark naga named Sleethur, who laired in the depths of the Elven Catacombs. The naga used bluff, magic, and the mysterious chainmail to lure unwitting victims into a trap just to bombard them with fireballs.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Neh-thalggu
+
+Brain collectors, or neh-thalggu in their own language, were a race of creatures found across multiple planes.
+
+Description
+Juvenile neh-thalggu were about  with six crab-like legs and dozens of short tentacles. They had yellow-orange skin and a bloated, almost amorphous body. The head area of the body had four yellow eyes and a large, tooth-filled maw. Additionally, a brain collector could have up to twelve lumps on its head, which contained the brains it had collected.
+
+Adult neh-thalggu were much larger and had more legs, typically twelve but some could have as many as eighteen or even twenty-four legs. Additionally, they possessed a thirteenth lump on the head that could hold an extra brain.
+
+Abilities
+Neh-thalggu were highly intelligent, and were also capable spellcasters. The amount of spells they could cast depended on the number of brains one had collected. The more brains a juvenile had, the more spells it knew. For adults, the number of brains dictated both the number and power level of spells they knew. Neh-thalggu also drew upon any knowledge held by the brains they absorbed.
+
+As juveniles, neh-thalggu could cast spells of up 3rd level. They could also enhance their spells in one of three ways by absorbing a brain, allowing one to either cast a spell without using somatic or verbal components, increase the range of a touch spell to up to, or cast a spell while biting another creature, although the last had a chance to fail if the creature managed to evade the bite.
+
+As adults, neh-thalggu were much more dangerous. They became incorporeal, could cast more and more powerful spells, and could use dimension door, teleport without error, and plane shift at will. They could also remove the brain from any creature they could see by extradimensional means (a dimensional anchor spell could block this effect). Their bite became venomous, injecting a debilitating poison into victims. A single hit from the whip-like tentacles on the head could dehydrate someone.
+
+Neh-thalggu spoke their own language, which was a silent one consisting of the movement of their tentacles, as well as Diabolan, the language of the diaboli. They also could speak any language spoken by someone whose brain they had taken. Juvenile neh-thalggu possessed telepathy with a range of, while fully grown adults had a telepathic range of .
+
+Neh-thalggu possessed an alien physiology that constantly shifted and changed within them. This rendered them immune to both disease and poison.
+
+Personality
+Brain collectors possessed a completely alien psychology: while not exactly hostile, they did not regard humanoids as people, only as food. They had no interest in wealth, power, magic, or other pursuits common to most species.
+
+Combat
+In combat, neh-thalggu relied on their powerful jaws and their spellcasting ability, and displayed considerable tactical ability due to their high intellect. Interestingly, they would take great care to avoid damaging the cranium of their opponents.
+
+Society
+
+Neh-thalggu were solitary creatures known to live on the Material plane, Astral plane, Ethereal plane, and the Demiplane of Nightmares. On the first in particular they were known to prefer ruins or caverns where there was little light and minimal disturbances. However, the homeplane of the neh-thalggu was unknown, though it was speculated to be some strange demiplane in the Ethereal or a bizarre Material plane, or even a plane that had been destroyed long ago. Other reports claimed the neh-thalggu came from the Far Realm.
+
+Juvenile brain collectors always sought to acquire brains as quickly as possible, and did so by carefully cutting off the top of the head of a slain humanoid using surgical tools, then swallowing the brain. Once one had collected twelve brains, it immediately sought to return to its home plane. According to one theory, a twelve-brain neh-thalggu could open a link to its native plane when in a certain location, while other records stated that when a neh-thalggu acquired twelve brains it could potentially transform from a juvenile into an adult.
+
+On the Demiplane of Nightmares, neh-thalggu occupied a place in diabolus legends similar to the one dragons held in human legends. Diaboli regarded neh-thalggu as creatures of great power, cunning, and inscrutability. Additionally, neh-thalggu were some of the few creatures whose magic could affect a diabolus.
+
+Neh-thalggu were known to go to the Astral plane to rest and recover from their activities on the Material plane, and so did not often hunt while there. However, when they did fight in the Astral plane, they still took the brains of fallen opponents.
+
+Adult neh-thalggu were sometimes accompanied by up 5 mind flayers or, more rarely, a single paragon mind flayer. Normal mind flayers were drawn by and would study the neh-thalggu's ability to collect brains and how it used them in arcane casting. The exact nature of the relationship between a neh-thalggu and such followers was unknown, but theories about it ranged from simple self-interest to something close to worship on the part of the mind flayers. Neh-thalggu would pass along brains they collected but did not want to keep to the mind flayers.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Nerra
+
+Nerras were an enigmatic people from the Plane of Mirrors.
+
+Description
+All nerras were humanoid in form with perfectly mirror-like skin. Varoots and sillits were typically slender, while kalareem were somewhat larger and more bulky, and their skin appeared to form mirrored armor. Both kalareems and varoots had indistinct facial features, whereas sillits had completely smooth faces. Only sillits were known to wear clothing, typically wearing robes of fine, shiny black silk.
+
+Personality
+Nerras were enigmatic and naturally contrary creatures, constantly balancing between many different moralities and ethics. They strove to maintain a neutral outlook, but always saw themselves as naturally superior to the creatures they saw through their mirror-portals.
+
+Abilities
+All nerras spoke both Common and their own language. They were resistant to fire, cold, and electricity, but were highly vulnerable to sonic energy. Varoots and sillits possessed some spell-like abilities.
+
+Nerras were capable of moving in and out of the Plane of Mirrors through mirrors and reflective surfaces at will, and could use this ability in a manner similar to the spell shadow walk. By simply touching a mirror, a nerra could vanish into the mirror-plane and emerge shortly after from another mirror that was within . They could also attempt to do this with other highly reflective surfaces, although this had a chance of failure, and they could only exit through a mirror.
+
+Nerras also had a peculiar kind of spell resistance that caused any spell they successfully resisted to bounce off and return to the caster, who then became either the spell's target or the point of origin for the spell's effects as applicable. Nerras were also immune to all gaze attacks and simply reflected them back to the attacker.
+
+Combat
+Although sillits were natural mages, all nerras were proficient with the special shard weapons that they made out of the substance of their homeplane. Shard weapons appeared as blades made out of shards of a broken mirror set into a shiny hilt, and were incredibly tough and razor-sharp. Shard weapons functioned similar to weapons with the wounding property. Other creatures found shard weapons difficult to handle, however, and had difficulty making proper use of them.
+
+Society
+Nerras were native to the Plane of Mirrors, where they observed creatures on the Material plane through the mirrors that served as conduits to their home. Sometimes nerras would cross over into the Material plane in order to kidnap individuals and bring them back to the Plane of Mirrors. At other times, nerras would wander the planes to collect information or infiltrate some organization. They were known to monitor the actions of all kinds of people, but often those in power. Their goals, however, were a complete mystery, although some theorized that they were planning an invasion of the Material plane.
+
+Much about nerras was a mystery, but it was known that sillits were their leaders and mages, but ruled more through necessity than for the sake of power. Varoots more often operated similarly to rogues, while kalareems could be called their equivalent of fighters.
+
+Later reports spoke of additional subraces, including the meeraks, whose bodies were jagged and razor-sharp; the delphars, who were master commanders; and the teltarym, who were the laborers of the nerra race.
+
+History
+During the Dracorage in the, the bronze dragon Nymmurh accidentally transported himself into the Plane of Mirrors. Afterwards, he became obsessed with learning more about the nerras.
+
+Appendix
+References
+
+---
+
+## Nettie
+
+Nettie was a healer in the druid hierarchy of the Emerald Grove in the Western Heartlands in the late 15 century DR.
+
+Personality
+She was a careful individual who would take nearly any actions needed to help keep safe the druids of her grove.
+
+Possessions
+Nettie wore the Key of the Ancients circlet, which bestowed upon her greater understanding of all things related to nature. She also kept with her several potions, poisons, and other solutions, including a vial of wyvern poison and a single elixir of Silvanus.
+
+Abilities
+
+While Nettie was a skilled healer, her powers paled in comparison to those of her teacher and mentor.
+
+Relationships
+She was an apprentice to Master Halsin, the archdruid of the Emerald Grove.
+
+History
+In the, Nettie helped Halsin in his investigation of increased cases of ceremorphosis that appeared across the Sword Coast. The two found a single drow, who had been infected with a mind flayer tadpole, and took the dark elf's remains back to the Emerald Grove for study.
+
+When Master Halsin ventured off to the Shattered Sanctum to learn more, Nettie was left in charge of completing the investigation of the drow and learning whatever more she could. She gave a group of visiting adventurers infected with tadpoles a vial of wyvern poison, explaining it would cause a swift death and making them swear to immediately drink it if they felt symptoms of ceremorphosis, becoming hostile if they refuse to swear it.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+Gallery
+
+References
+
+---
+
+## Nevertoken
+
+A nevertoken was an enchanted item developed as trading tokens for Halruaan families before later being adopted as badges of recognition carried by members of the Soft Claws, given to them by the dragon Zundaerazylym.
+
+Description
+Zundaerazylym's nevertokens were identical, smooth, glossy, silver-blue metal stars with four blunted points, about  thick and  across. They were relatively light. They had a tiny hole in the center to allow a chain or strap to be tied around them. They were made of some unknown durable alloy. When they broke, they usually burst into flames and crumbled to dust within seconds. They produced a pleasant sound and a particular chord when struck, which was one way to identify whether they were authentic.
+
+Powers
+Their powers functioned when they were held in one's bare hand and willed into action, but one must already know what their powers were. Known powers included:
+ Drawmij's instant summons
+ elsewhere
+ feather fall
+ invisibility
+ mending
+ mind blank
+ neverturn
+ pass without trace
+ sending
+ silence
+ sovereign succor
+ teleport without error
+ trace nevertoken
+
+History
+Their origins were unknown, and creating new ones would probably require extensive experimentation. They were previously Halruaan family trading tokens, and many early Halruaan families owned similar items, though newer families did not. Zundaerazylym was given a cache of more than a hundred of them in  by Ensible Mritavvalan, the dying last member of their family.
+
+Notable Owners
+ Ensible Mritavvalan
+ Zundaerazylym
+
+Appendix
+Notes
+
+References
+
+---
+
+## Nephryt
+
+Nephryt was the loving wife of the Archmage of Thoth, Ankh-Kephra, who lived in Waterdeep and after their deaths, sometime long before the mid–14 century DR, interred within a tomb in Undermountain.
+
+Personality
+Nephryt and her husband had opposite personalities. She was kind, understanding, and appreciative of goodly morals, while Ankh-Kephra was abrasive, angry, and despised anyone who desecrated graves and disrespect tradition. In her undead life within the Tomb of Ankh-Kephra, she often asked adventurers and aspiring looters to leave before they were killed by the many dangers of the tomb, sometimes even warning the intruders of hidden undead guardians released by her husband.
+
+Both Ankh-Kephr and Nephryt worshiped many gods of the Mulhorandi pantheon, with Hathor being her main deity of devotion.
+
+History
+Nephryt hailed from Mulhorand and eventually relocated to the City of Splendors, Waterdeep, long before the 14 century DR with her husband. They were wealthy and built a sprawling burial complex for themselves, according to Mulhorandi traditions. The tomb was located in Undermountain and well protected. For Nephryt's happiness after death, Kephra added a wing to the tomb that held a beautiful garden with fountains and statues, a replica of the area she loved in life. After the end of their lives, both of the Mulhorandi wizards received the gift of unlife together, continuing their existence within the lavish tomb.
+
+In 1370 DR, lone Khelbenite adventurer was sent to retrieve the magical scarab and had to survive the dangers of the Tomb of Ankh-Kephra. Nephryt sensed good intentions in the adventurer and aided Khelbenite through the tomb with soft whispers of guidance and warnings. Subsequently, the adventurer found the way into the tomb's inner sanctum and came face-to-face with the wizards. Ankh-Kephra wanted nothing but to be left alone, telling the hero that he was the scarab's true owner. However, Nephryt kindly asked the hero to leave as the item did not rightfully belong to the Wands family who claimed it to be their heirloom. The hero agreed to leave the scarab within the tomb. To the hero's surprise, Nephryt thanked the adventurer for the wise choice and admirable decision, rewarding the lone adventurer with the scarab and a selection of enchanted items from the wizards' vault.
+
+Appendix
+Appearances
+Video Games
+Descent to Undermountain
+References
+
+---
+
+## Neverwinter: Ravenloft
+
+Neverwinter: Ravenloft is an expansion module for the Neverwinter massive-multiplayer role-playing game. Released in June of 2018, the expansion added a number of new features.
+
+Features
+ New Adventure Zone: Barovia
+ New Dungeon: Castle Ravenloft
+ New Campaign: Ravenloft
+ New Lockbox: Undying Lockbox
+ New Collection/Ravenloft sets
+ New Hunts
+ Changes to overflow level rewards' drop rates of Astral Diamonds and Tome of Experience
+
+Plot
+
+Index
+
+Characters
+
+Creatures
+
+Items
+
+Locations
+
+Organizations
+
+Religions
+
+Miscellaneous
+
+Appendix
+References
+
+Connections
+
+---
+
+## Neverwinter: The Heart of Fire
+
+Neverwinter: The Heart of Fire is an expansion module for the Neverwinter massively multiplayer role-playing game focused on the adventuring company Acquisitions Incorporated. Released in November 2018, the expansion added a number of new features.
+
+Features
+ The Acquisitions Incorporated Campaign
+ New Skirmish: Manycoins Bank Heist
+ An overhaul to the profession system
+ Removal of the salvage system
+ Replacement of dungeon chest keys with Reward Reroll Tokens
+ Dungeon chests now also contain some Rough Astral Diamonds
+ Changes to classes
+ Enemy drops are now automatically picked up
+ Traveler's treasure insignia bonus added
+
+Plot
+Following a flyer posted in Protector's Enclave, the Heroes of Neverwinter joined Acquisitions Incorporated as interns. After completing their orientation, they plummeted into the Mount Hotenow caldera with feather fall to retrieve a deep crow egg for Jim Darkmagic. Afterwards, Omin Dran told the heroes he sought a legendary gemstone known as the Heart of Fire. To find out more information, they traveled to Icespire Peak to consult the frost giant Lakkar. Lakkar told them only that he had cut the Heart of Fire himself, so they infiltrated a beholder convention to gather more information. After learnign about a treasure-filled temple in Chult, Omin sent the adventurers to Pirates' Skyhold to rescue a lizardfolk whose tribe had built it. Armed with the lizardfolk's secret key, they infiltrated the temple and pried not one but two Hearts of Fire from a statue of the archdevil Moloch. After fighting off a vengeful deep crow, they returned to Neverwinter where Omin Dran told them to keep one of the gems lest having both in one place attract too much attention.
+
+Some time later, Omin learned that the Zhentarim had kidnapped Lord Neverember's son, Renaer. The heroes tracked him to an old Xanathar hideout on Blackdagger Coast, and after rescuing him discovered that the Zhentarim were seeking information about the Stone of Golorr and intended to blame the Xanathar for the kidnapping, having also captured its pet goldfish, Sylgar. After the heroes returned the goldfish, the beholder told them that the Zhentarim planned to use rust monsters to break into the Manycoins Bank in Neverwinter and steal the stone from the vault. Aided by Jim Darkmagic and his wand of wonder, the heroes defended the bank from the Zhentarim and protected the contents of Neverember's vault.
+
+Index
+Characters
+
+Creatures
+
+Magic
+
+Locations
+
+Organizations
+
+Religion
+
+Miscellaneous
+
+Appendix
+References
+
+Connections
+
+---
+
+## Neverwinter: Lost City of Omu
+
+Neverwinter: Lost City of Omu is a campaign expansion module for the Neverwinter massive-multiplayer role-playing game. Released in February 2018, the expansion added a number of new features and raised the level cap of the game.
+
+Features
+ Expansion of Jungles of Chult Campaign: Omu
+ New Adventure Zone: Lost City of Omu
+ New Heroic Enocunter: Wrath of Acererak
+ Expanded Masterwork Professions
+ New Hunts
+ New Boons
+
+Plot
+The Heroes of Sleeping Dragon Bridge journeyed to the ruins of Omu and met up with a guide named Eku. She explained that Omu once honored nine trickster gods, whose power was being constrained by Acererak and his yuan-ti minions. Eku's communications with the trickster gods eventually revealed that the death curse was being caused by an artifact called the Soulmonger that was harvesting the souls of the dead and resurrected, though what Acererak intended to do with these souls she could not say. While helping to restore the gods' power, the heroes rescued Tristopher Chettlebell, who had been captured by the yuan-ti and taken below the city. They also met a mysterious woman named Val, who insisted that the Soulmonger be shut down without destroying it so that she could study it.
+
+The heroes found an entrance to the Fane of the Night Serpent deep beneath the city. They were joined by Celeste, who had received a vision from Selûne regarding the evil serpent god Dendar. After slaying the yuan-ti priestess Fenthaza and clearing their way to Acererak's tomb, Makos arrived and made his own plea that the Soulmonger could be used for good. By denying liches souls to feed on they could be destroyed forever, and Nanny Pu-Pu's ritual could be used to save those who must be raised. Celeste furiously accused him of being a lich himself, swearing to personally destroy his phylactery if he ever advocated for Acererak again. Through Eku, the trickster gods revealed that Acererak had somehow found an atropal and intended to use the Soulmonger to nurture it into a new evil god. The heroes descended back into the Tomb of the Nine Gods, where the trickster gods severed the atropal's connection to the Soulmonger, destroying the artifact.
+
+Index
+Characters
+ Acererak • Chonigi Tomi • Copper Bell • Eku • Erene-Afa • Erjelle • Fenthaza • Makos • Mokabaru • Ord Firebeard • Rasalas • Val
+
+Creatures
+ atropal • beholder • eotyrannus • gigantopithecus • lich • lion • sun bear • triceratops • will-o'-wisp • yuan-ti (mind whisperer)
+Companions
+infant gorilla
+
+Items
+Artifacts
+ Soulmonger
+
+Locations
+Buildings
+ Omuan Royal Palace
+
+Dungeons
+ Lost City of Omu
+
+Religion
+ Omu
+
+Appendix
+External Links
+Developer Blogs
+ Announcing Neverwinter: Lost City of Omu • Lost City of Omu - Story Overview • Masterwork Professions in Lost City of Omu • Cradle of the Death God • Fashion Bag • The Lost City of Omu - Rewards Worth Raiding For! • Lost City of Omu Campaign • Expedition Leader Pack • The Atropal • Omu's Undercity • Fane of the Night Serpent • Hunts in Omu • Lost City of Omu is Live • Soulmonger's Lockbox
+
+References
+
+Connections
+
+---
+
+## Neverwinter: Tomb of Annihilation
+
+Neverwinter: Tomb of Annihilation is a campaign expansion module for the Neverwinter massive-multiplayer role-playing game. Released in July 2017, the expansion added a number of new features and new locales far away from the North and the Sword Coast.
+
+Features
+ New Adventure Zone: Port Nyanzaru
+ New Adventure Zone: Soshenstar River
+ New Dungeon: Tomb of the Nine Gods
+ New Campaign: Jungles of Chult
+ New Lockbox: Merchant Prince Lockbox
+ New Weapon and Armor sets
+ New Hunt system
+ Private PvP Queues
+ Quest Journal Improvements
+
+Plot
+When the clerics at Helm's Hold began to report that people were turning up in varying states of decay, suffering from some sort of curse that their magic could not stop, the Heroes of Sleeping Dragon Bridge went to investigate. After receiving an anonymous letter telling them that the  "death curse" could be found in Chult, an expedition to the jungle land was financed by the half-orc Waterdhavian noble Morga Longlived, who was served by the scholar Tristopher Chettlebell. Joined by Minsc, Celeste, and Volothamp Geddarm, Tristopher and the heroes set sailed along the coast, and ventured south to Chult. When they arrived in the Bay of Chult, their ship was destroyed by a dragon turtle and the expedition was scattered and the heroes washed up on the shore.
+
+Believing that the others would head for Port Nyanzaru if they survived, the heroes made their way through the jungle and were reunited with Minsc, who had already been hired by one of the city's merchant princes, Wakanga O'tamu, to fight the undead in exchange for the use of a compound in the city by the expedition. While Volo and the captain had survived as well, Minsc had seen no sign of Celeste or Tristopher. They were soon joined by Makos, who explained only that he had set up contingencies in the event of his death and was the one who sent them the letter at Helm's Hold. While aiding the Order of the Gauntlet at Camp Vengeance, the heroes learned of a crone at Mbala named Nanny Pu'pu who might have knowledge of the death curse.
+
+Nanny Pu'pu agreed to help them, in exchange for recovering magical supplies stolen from her by the batiri of Yellyark. There they also found Celeste's dead body, but when they returned to Mbala, Nanny Pu'pu offered to help restore her to life. She demanded a sacrifice in exchange, and Makos offered up a captive batiri. Celeste rose in undeath, angry at Makos for helping bring her back in such a state. While dead, however, Celeste received a vision from Selûne about a Chosen paladin of Ubtao named Ras Nsi who had betrayed his oaths, and had now pledged himself to a great evil within the Lost City of Omu. The heroes finally uncovered the location of Ras Nsi, hidden within within a shrine of Ubtao called the House of the Crocodile.
+
+Index
+Characters
+ Aremag • The Belly • Boo • Celeste • Drania Flameburst • Dunmish • Eku • Hedetet • Karkinos • King of Spines • Makos • Minsc • Morga Longlived • Nanny Pu'pu • Niles Breakbone • Perne Salhana • Ras Nsi • Shondra • Sister Cyas • Tristopher Chettlebell • Volothamp Geddarm • Wakanga O'tamu • Ze'Vana Ritzulma
+
+Creatures
+ arachne • crab (bigclaw, purple marsh crab) • dinosaur (allosaurus, compsognathus, deinonychus, eotyrannus, tyrannosaurus,  velociraptor) • dragon turtle • fish (giant puffer, giant tigerfish, irrinda, kapenta, likoto, minjiriya, mkunga, quipper, red discus, striped puffer) • giant scorpion • goblin (Batiri) • hag (green) • leatherjacket • smilodon • spider (jungle tarantula) • yuan-ti
+
+Items
+Armor
+dastana • zephyr armguards
+
+Artifacts
+ Soulmonger
+
+Food & Drink
+asa wat • atkilt wat • crema Athkatla • doro t'ibs • kinche • kita • t'ej
+
+Materials & Substances
+ dark residuum • propolis • spider silk • wootz
+
+Locations
+Bodies of Water
+ Bay of Cult • River Soshenstar
+
+Buildings
+ House of the Crocodile
+
+Dungeons
+ Tomb of the Nine Gods
+
+Landmarks
+ Mist Cliffs
+
+Regions
+ Chult
+
+Settlements
+ Camp Righteous • Camp Vengeance • Mbala • Port Nyanzaru
+
+Magic
+Miscellaneous
+ death curse
+
+Plants
+ menga • senna • teak
+
+Religion
+ Dendar • Orcus • Ubtao
+
+Appendix
+External Links
+Announcments & Developer Blogs
+ Announcing Neverwinter: Tomb of Annihilation • Jungles of Chult Campaign • Stronger Enemies, Stronger Equipment • Come Visit Port Nyanzaru – Your Next Adventure Awaits! • Port Nyanzaru Environment Art • Tomb of Annihilation - Story Overview • Tomb of the Nine Gods Environment • Tomb of the Nine Gods • Creating Soshenstar River • Merchant Prince Lockbox • Animating the T-Rex • New Foes Await! • Tomb of Annihilation Now Live! • Hunting in Chult • Reap the Rewards of Chult!
+
+References
+
+Connections
+
+---
+
+## Neverwinter: The Cloaked Ascendancy
+
+Neverwinter: The Cloaked Ascendancy is a campaign expansion module for the Neverwinter massive-multiplayer role-playing game. Released in February 2017, the expansion added a new campaign, adventure zone, skirmish, and even more.
+
+Features
+ New Adventure Zone: River District
+ New Skirmish: Illusionist's Gambit
+ New Campaign: The Cloaked Ascendancy Campaign
+ New Lockbox: Many-Starred Lockbox
+ Return and redesign of Spellplague Caverns
+ New Ascended Weapon Set
+
+Plot
+During the public remembrance of the fallen hero Makos in Neverwinter, the celebrations were interrupted by Gyrion of the Cloaked Ascendancy, a man who bore the crown of Neverwinter and claimed to be the ruler of the city. As the revolutionary Nashers assailed the city, Lord Neverember was protected by the Heroes of Sleeping Dragon Bridge, Xuna, and Sergeant Knox in the vaults beneath Protector's Enclave. After reaffirming his right to rule the city and confirming that Gyrion was an imposter, Lord Neverember was charmed by the warlock Nostura who attempted to seize the genuine crown.
+
+The heroes ventured into an old Nashers hideout in the Blacklake District and encountered Kabal, a member of the Many-Starred Cloak who worked alongside Gyrion, Nostura, and another mage called Lukan. In pursuit of Gyrion, the heroes ventured to Scar Keep overlooking the Chasm, where they reunited with Captain Josef Linkletter, and soon learned that Gyrion sought to unleash the Far Realm upon Neverwinter and its citizens. After speaking to Lord Neverember, the heores came to learn about the city's financial woes and agree to drive away the Cloaked Ascendancy from the River District, reclaim the city's treasures that were lost within, and bring glory back to Neverwinter.
+
+With the aid of an Arcane Brotherhood mage named Kavatos Stormeye, the heroes found a way to enter the four demiplanes that were created by the members of the Ascendancy. They confronted Gyrion, Kabal, and Nostura in each of their demiplanes, but were unable to apprehend any of the wizards. As the Neverwinter Guard clashed with Nasher rebels, the heroes confronted Lukan who had used his illusion magic to hide away the ritual site that the Ascendancy created to harness the powers of the Far Realm. As the heroes reached the ritual site, Gyrion sent Nostura and Kabal away while he battled the heroes himself. After receiving mortal wounds, Gyrion told the heroes that it was up to them to protect the city. Lord Neverember told the heroes later that Nostura and Kabal had fled into the Spellplague Caverns within the Chasm; the heroes gave chase and put an end the Cloaked Ascendancy for good.
+
+Index
+Characters
+ Arkwright • Grazilaxx • Gyrion • Kabal • Kavatos Stormeye • Kendricks • Margath Bale-eye • Morlanth • Myros • Nostura • Ostaram Copperwise • Xuna • Zarifraz
+
+Kaross
+
+Creatures
+ nothic
+
+Items
+Armor
+ Deepknight's Bridandine • Dragon Loyalist's Visage • Historian's Regalia • Jarl's Gaze • lifesilk spineret • Zulkir's Dreadnought
+
+Books
+ Tome of Ascendance
+
+Clothes
+ garb of the Ascended • Picaroon's tricorne • psion's shroud
+
+Substances
+ Fartouched residuum • jade • petrified dust • spell amber • tainted soil • volatile ichor
+
+Other
+ Key of Night • Shroud of Souls
+
+Locations
+Landmarks
+ Shard of Night • Spellplague Caverns
+
+Planes
+ Ember Hollow • Evernight • Realm's Edge • Tainted Grove
+
+Regions
+ River District
+
+Organizations
+ Cult of Orcus • Cloaked Ascendancy • Evernight Tribunal • Many-Starred Cloak
+
+Appendix
+External Links
+Announcements & Developer Blogs
+ Upcoming Expansion Features • Monsters of the River District • The River District • River District Environment • The Cloaked Ascendancy • Instances of the River District • Illusionist's Gambit Environment • Illusionist's Gambit Skirmish • Artifact Equipment - The Cloaked Ascendancy • Spellplague Dungeon Environment • Many-Starred Lockbox • Bosses of Spellplague Caverns • River District Treasure Cache • The Cloaked Ascendancy is Live!
+
+Notes
+
+References
+
+Connections
+
+---
+
+## Neverwinter: Storm King's Thunder
+
+Neverwinter: Storm King's Thunder is a campaign expansion module for the Neverwinter massive-multiplayer role-playing game. Released in February 2017, the expansion added a new campaign, several new adventure zones, a new dungeon and numerous other updates. The campaign module had its own expansion, Sea of Moving Ice, which concluded the storyline introduced in the Storm King's Thunder campaign.
+
+Features
+ New Adventure Zones: Bryn Shander, Lonelywood, Cold Run, Sea of Moving Ice
+ New Campaign: Storm King's Thunder
+ New Fangbreaker Island dungeon
+ New item progression system - Ostorian Relics
+ Major class balancing revamp for Guardian Fighter, Hunter Ranger, and Scourge Warlock.
+ Queue system, companion, enchantment, campaign, and PvP updates
+ 5 new insignia bonuses
+ Invocation revamp
+
+Plot
+When the town of Bryn Shander decided to hold a special celebration, Lord Neverember decided that the Heroes of Sleeping Draogn Bridge, along with Makos and Xuna should represent Neverwinter. They were soon presented with strange occurrences, such as creatures that were frozen solid in Rothé Valley as well as frost giant assaults and great icy blasts in Bryn Shander. Working with Speaker Duvessa Shane, the group investigated the blast's epicenter, encountering the brave barbarian Wulfgar along the way. Finally, they encountered an icy cocoon that they believed held the body of Artus Cimber and his son Sirac. In order to free Artus and his son, the group  traveled to Lonelywood and back, enlisting the aid of Wulfgar's adventuring companion Catti-brie.
+
+Using a thistle from Catti-brie's garden in Lonelywood, Artus and Sirac were freed from the cocoon. Artus shared the information that the frost giants had wrested the ring of Winter from him, and taken it to their leader Storvald on Fangbreaker Island. During the trek to the isle, the heroes and their allies enlisted the aid a giant of their own, Harshnag, and together they fought off Drufi and her forces. They were overwhelmed during the battle, and Makos had to sacrifice himself in order to allow his allies to escape. The party regrouped after their defeat, infiltrated Harshwind Hold to defeat Drufi, but were unable to recover the ring.
+
+Sea of Moving Ice
+Fortunately, the Artus Cimber had with the ring granted him insight as to its presence in the Sea of Moving Ice. Aided by the Arcane Brotherhood and the Elk tribe, along with the frost giant Serissa, the group began an assault of Svardborg. They defeated Jarl Storvald in combat and allowed Artus Cimber to depart the North with the ring of Winter safely in his possession.
+
+Index
+Characters
+ Alden Lowell • Artus Cimber • Avandro Perth • Catti-brie • Cecil • Dahlia Harlis • Dereth Hope • Drufi • Duvessa Shane • Fangstrom • Frijin • ghost of Bryn Shander • Gurglin Hexcaller • Harris Manstin • Harshnag • Harshten • Hati • Heimstal • Jorl • Kavatos Stormeye • Makos • Maluk Whalewalker • Markham Southwell • Nord Gantara • Serissa • Storvald • Tam Arret • Xuna • Wulfgar
+
+Kaross
+Creatures
+dragon turtle • frost goblin • ice troll • knucklehead trout • remorhaz • yeti
+Creatures used as bait
+krill • lugworm
+Creatures found from fishing
+ angler's lantern • cephalopods (endoceras • giant squid • squid, northern) • clam (giant clam • reef clam • razor clam) • Common Trollslyer • crustaceans (duskwalker • emperor crab • rock lobster • sorceror shrimp) • eel (Icewind eel • wolf eel) • fish (anglerfish • archaeus • arctic blindfish • arctic char • arctic goby • arctic skate • barracuda, silvertail • beholderfish • coelacanth • devilfish • enchodus • flailfish • Frozenfar quipper • glacefish • haddock, northern • halibut • herring • herring, moonglow • ice climber • icewind smelt • lantern fish • monkfish • nelma • pike, northern • polar oarfish • sturgeon • Swordsea bass • torchlight loosejaw • Trackless sailfish • tuna, skipjack • Queen's knife • Valkur's fish • ventdiver • viper fish) • gorgonocephalus • nautilus • oyster • rift dragon • shark (goblin shark • gurry shark • sleeper shark) • sea snail (whelk, icebound • whelk, northern) • slug (chiton • sea deva) • urchin (snowbarb)
+Creatures found as mounts
+crag cat • howler • manticore, bound
+
+Locations
+
+Magic
+Armors frostborn armor • relic armor
+Artifacts Eye of the Giant • Lostmauth's horn of blasting • ring of Winter
+Potions endurant permafrost
+
+Organizations
+Arcane Brotherhood • Elk tribe
+Miscellaneous
+Foods & Drinks cawl cenin • chestnut stew • onion soup • stone soup • zurek
+Gemstones amethyst • emerald • rubellite • ruby • sapphire
+Items Ice Hunters' fishing rod • trowel
+Materials & Substances bibliothol • borax • chert waterstone • dragon shell oil • dragon turtle moult • dragon turtle scales • dragon turtle scales, polished • dubbin • enchanted loam • lanolin • livewood sap • mana plaster • naphtha • Ostorian residuum • Ostorian resin • voninblod
+Plants Frozenfar mistletoe
+Vessels Ice Hunters' Khyek
+
+ichthyology
+
+Appendix
+Gallery
+
+External Links
+ Storm King's Thunder Developer Hub
+
+Notes
+
+References
+
+Connections
+
+---
+
+## Nettle
+
+Nettle was a common edible plant found in the outskirts of Neverwinter and the Sword Coast North that possessed curative properties and could be used as a material component.
+
+Description
+Nettle was known for its tiny "hairs" that covered the plant and upon contact with unprotected skin caused it to itch, sting, and burn.
+
+When eaten raw, nettle tasted very bitter, and its notorious burning could be equated to hot peppers.
+
+Usage
+Stinging nettle could be used to prepare workman's balm, and, when mixed with aegwyrt, workman's poultice. Both topical curative substances were often used by the folk of the trade to aid them in their daily work.
+
+When treated and prepared correctly, nettle plant could be used to create potions of minor healing.
+
+Before the Time of Troubles, stinging nettle was a component of the repel vermin spell.
+
+Nettle was a natural counter-agent to magical and mundane sleep. The plant's natural bitterness and burning irritation staved off the drowsiness and stopped the chewer from falling asleep, even though they still felt drowsy. The gnome Madarn Spiderhunter recommended it for those afflicted with sleep when they approached the tower of Gothyl in Spiderhaunt Wood, and gathered leaves in the forest for this purpose.
+
+Golden Sands Gold brew was produced by fortifying regular Golden Sands lager with nettle and cactus extracts, giving its its titular color and notably bitter aftertaste.
+
+Nettle was used by priests of Ilmater and Loviatar. One of the techniques used by the followers of Ilmater was stuffing their undergarments with nettle. Priestesses of Loviatar used nettle for self-flagellation.
+
+Wild nettle grew on the Malatran Plateau in Kara-Tur where it was used to brew nettle beer or cooked down into nettle soup.
+
+Availability
+Aurora's Whole Realms Catalogue made nettle available throughout the Realms, selling it in its Priest's Alcove section.
+
+In Neverwinter, late 15 century DR, Bolden Coarsca of the Seven Suns Trading Coster sold nettle, along many other herbs, materials, and substances used in crafting.
+
+The Wood of Sharp Teeth in the Western Heartlands was notorious for its overgrown nettles and thornbushes.
+
+Appendix
+Appearances
+Adventures
+Doom of Daggerdale • The Secret of Spiderhaunt
+Novels
+
+The Council of Blades
+Video Games
+Neverwinter
+
+Sword Coast Legends
+
+References
+
+---
+
+## Neverwinter: Curse of Icewind Dale
+
+Neverwinter: Curse of Icewind Dale is a campaign expansion module for the Neverwinter massive-multiplayer role-playing game. Released in August 2014, the expansion added a new campaign, several new adventure zones, a new epic skirmish along with numerous other updates.
+
+Features
+ New zones: Caer-Konig, Icewind Pass, Dwarven Valley
+ New epic skirmish: Kessell's Retreat
+ New profession: Black Ice Shaping
+ New campaigns: Icewind Dale Campaign, PvP Campaign
+ Heroic Encounters
+ New Hunter Ranger paragon path: Pathfinder
+ Overflow Experience
+ Dungeon Delve keys
+ Overload enchantments
+ Shared Account Bank
+
+Plot
+In the, a mysterious substance known as black ice was discovered in Icewind Dale. This substance could be forged into extremely powerful weapons and armor, but drove people into violent, murderous rage after prolonged exposure. Nonetheless, its high value resulted in both the Ten Towns and the Arcane Brotherhood fighting over claims of black ice deposits.
+
+Meanwhile, the undead army of the long-dead wizard Akar Kessel began to rise once more, now empowered by black ice. The substance also drove the local Reghed barbarian and frost giant tribes into a frenzy. Ultimately, it was discovered the Akar Kessel himself had returned as an undead wight and was rebuilding his forces to continue the conquest he had begun before his death. To help counter this threat, Sergeant Knox sent the Heroes of Sleeping Dragon Bridge to recover artifacts of the Neverwinter Nine from a hidden vault beneath Castle Never. With these artifacts, they were able to destroy Akar Kessel once more before he could lay waste to the region.
+
+Index
+Characters
+
+ Akar Kessell • Aelred Windsinger • Alden Lowell • Anara the Cerulean • Atenas Swift • Bael Thrymskald • Baerick Hammerstone • Biggrin • Beorne Steelstrike • Bowen Brant • Captain Dunmish • Eglendar • Fenton Hale • Flint Vreesh • Grigoi Skrimshander • Gurth Grimstalker • Jubal Oakstaff • Kinnera Foxwood • Lodos Battlehammer • Noramos Battleheart • Notan Ivoryknife • Queen of Hammerstone • Rolf the Relentless • Rory Hammerstone • Stokely Silverstream • Ugus Battlehammer
+
+Classes
+Paragon path
+Pathfinder
+
+Creatures
+bear (polar) • fish (knucklehead trout) • giant (frost) • human (Reghedmen) • remorhaz • troll (fell • ice) • wight • wolf (winter) • yeti
+Companions
+young yeti
+
+Items
+
+Clothing tricorn • tunic
+Jewels
+ Auril's tear
+Substances
+ black ice • deathlock ash • holy water • mithral
+Weapons
+seax
+
+Locations
+
+Buildings
+ Baerick's Iceforge • Frostmound Keep • Frozenfar Expeditions • Hook, Line, and Sinker
+
+Landmarks
+ Galebreak Divide • Kelvin's Cairn • Shattered Hollow
+
+Regions
+ Dwarven Valley • Icewind Dale • Icewind Pass
+
+Settlements
+ Daledrop Vale • Ten Towns (Caer-Konig)
+
+Bryn Shander • Cryshal-Tirith
+
+Magic
+Items
+ black ice beholder • black ice ioun stone • cloak of black ice • Oghma's token of free movement • scroll of break enchantment • slayer ring of the Xvim • tactician's banner • vanguard's banner
+
+Organizations
+ Arcane Brotherhood • Bear Tribe • Clan Battlehammer • Clan Hammerstone • Clan Icereaver • Elk Tribe
+
+Slayer Knights of Xvim
+
+Religion
+ Moradin
+
+Appendix
+External Links
+
+ Curse of Icewind Dale Features
+
+Notes
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Neverwinter: Shadowmantle
+
+Neverwinter: Shadowmantle is a campaign expansion module for the Neverwinter massive-multiplayer role-playing game. Released in December 2013, the expansion added a new campaign, adventure zone, skirmish, and a new dungeon, along with numerous other updates.
+
+Features
+ Hunter Ranger class
+ Dread Ring adventure zone
+ Dread Ring Campaign
+ Dread Legion skirmish
+ Valindra's Tower dungeon
+ Artifacts
+ Collections
+ New Paragon Paths
+ Introduced Winter Festival and Challenge of the Gods events
+ Introduced Sword Coast Adventures mini game
+
+Plot
+While the elves of New Sharandar were busy dealing with Malabog, Valindra's Thayan armies established a Dread Ring within the Neverwinter Woods. Within the forest, she sought to raise the ancient black dragon, Lorragauth, as a massive dracolich. In order to deal with this new threat, Neverwinter raised a massive army called the Neverwinter Vanguard, that allied themselves withe a new faction that appeared on the Sword Coast known the Thayan Resurrection. Led by the enigmatic Rath Modar, this group of Red Wizards were exiled from Thay for speaking out against the actions of the nation's regent, Szass Tam.
+
+Joined by the Heroes of Sleeping Dragon Bridge, the Neverwinter Vanguard penetrated the Dread Ring in the Neverwinter Wood and set up a base camp to fight back against Valindra and her Red Wizard allies. With the aid of the Thayan Resurrection they removed the undead-controlling Thayans from their home and finally destroyed Valindra herself, sending her soul back to her phylactery.
+
+Index
+Characters
+ Abbey Fargo • Celeste • Dell McCourt • Fadime Zatar • Florin Icehammer • General Sabine • Hlarkus Baltreyo • Jawbone • Jesket • Makos • Praddak • Quorthon • Rath Modar • Saj Amog • Sazohiel • Sergeant Knox • Shatterspine • Thalos Oathbreaker • Valindra Shadowmantle • Vario Cepheid • Varkoss the Unliving • Vesper Soulhearth • Windle • Xuna • Zemmer
+
+Lorragauth
+
+Classes
+ ranger
+Paragon Paths
+ anointed champion • iron vanguard • master of flame • swordmaster • whisperknife
+
+Creatures
+ beetle (emperor, giant) • black dragon • deer • dog (Damaran shepherd) • dread hound • dread warrior • energon (xeg-yi) • fish • golem (bone, iron, rimefire) • horse • human (Thayan) • ice sprite • imp • legion devil • lich • lightfoot halfling • orc • shadow wolf • shocktroop devil • skeleton • twilight yeti • wight • zombie
+
+dracolich
+
+Events
+ Winter Festival
+
+Items
+Books
+ Aurora's Whole Realms Catalogue • Thayan Book of the Dead
+Currencies
+ Seal of the Unicorn
+Food & Drink
+ Heroes' feast • lightwine
+Miscellaneous
+ celestial mantle • fishing pole
+Substances
+ blacklead • citrine • onyx • waters of Elah'zad
+Weapons
+ cutlass • stiletto
+
+adamantine • mithral • platinum • silver • starmetal
+
+Locations
+Buildings
+ Dread Spire • Phantasmal Fortress • Valindra's tower
+Regions
+ Thay
+Settlements
+ Dread Ring (Neverwinter Woods) • Twilight Tor
+Landmarks
+ Lake Glorfindar • Neverwinter Wood
+
+Astral Plane • Elah'zad • Shadowfell
+
+Magic
+Items
+ bloodcrystal raven skull • emblem of the Seldarine • eye of Lathander • Forgehammer of Gond • lantern of reveleation • Lathander's belt • Lathander's cloak • Lliira's bell • Oghma's token of free movement • phylactery • rod of cancellation • rod of shattering • sphere of annihilation • Tymora's lucky coin • Valindra's crown • Zulkir's Dreadnought
+Weapons
+ Forgehammer of Gond
+
+Organizations
+ Neverwinter Vanguard • Red Wizards • Thayan Resurrection
+
+Gray Wolf tribe
+
+Religion
+
+Amaunator • Chauntea • Corellon • Gond • Helm • Kelemvor • Lathander • Lliira • Moradin • Oghma • Selûne • Shiallia • Silvanus • Sune • Tempus • Torm • Tymora • Waukeen
+
+Appendix
+External Links
+ Module 2: Shadowmantle is now live!
+
+Notes
+
+References
+
+Connections
+
+---
+
+## Neverwinter: Fury of the Feywild
+
+Neverwinter: Fury of the Feywild is a campaign expansion module for the Neverwinter massive-multiplayer role-playing game. Released in August 2013, the expansion added a new campaign, adventure zone, skirmish, and a new dungeon, along with numerous other updates.
+
+Features
+ Sharandar Campaign
+ Malabog's Castle dungeon
+ Master of the Hunt skirmish
+ Drow, Moon Elf and Sun Elf races
+ Boon system
+ Introduced Coins of Waukeen, Masquerade of Liars, and Midsummer Festival events
+
+Plot
+Valindra Shadowmantle made a deal with the fomorian king, Malabog, in the Feywild: in exchange for destroying New Sharandar, Valindra offered him a blue orb of dragonkind to give him control over a blue dragon named Fulminorax. Malabog's dark fey army quickly overran much of New Sharandar, and even corrupted the moon elf named Celadaine. With the aid of the Heroes of Sleeping Dragon Bridge, the Iliyanbruen were able to retake New Sharandar and slay both Malabog and his dragon.
+
+Index
+Characters
+ Alihan Duskflight • Aluella Shieldheart • Argist the Fierce • Bressana Wildmaster • Cardiamus Hawklight • Celadaine • Cerandis Greenward • Elaver • Emrae Firesky • Finderal Birchspear • Fulminorax • Gathir Trueshot • Grimak Nailbiter • Iliyasha Guidingstar • Kehl Skywatcher • Krol Nightforge • Legaeth Songscythe • Mab • Magra Curse-Eye • Malabog • Margold Tarmikos • Marril • Master of the Hunt • Merrisara Winterwhite • Nyx • Olirien Mistcrown • Parvo • Pelendethas Everstride • Riverwind • Samulkin Farcaster • Scion of Corruption • Shaek Trueblood • Thradisar Starwise • Triste • Usha • Valindra Shadowmantle • Xylene • Yina Morradi
+
+Creatures
+ aranea • bear • blink dog • blue dragon • boar • chicken • cyclops • deer (sylvan stag) • elf (drow, moon, sun) • fey hound • flail snail • fomorian • leprechaun • lich • owlbear • pig • pit fiend • portal hound • pseudodragon • quickling • redcap • spider (bristle, blade, deathjump, phase, spiderling, spitting) • sylph • troll (fell) • unicorn • water horse
+Mounts
+Wolf of the Wild Hunt • winter wolf • worg
+
+ bloodworm • dryad • llewyrr
+
+Events
+ Masquerade of Liars • Midsummer Festival
+
+Items
+Armor
+ fabled Iliyanbruen armor • Iliyanbruen ancestral armor
+Clothing
+ Huntmaster's cloak
+Currency
+ gold crescent
+Food
+ corn • squash • watermelon
+Jewelry
+ Emblem of the Seldarine
+Plants
+ fireblossom
+Substances
+ dispersal agent
+
+Locations
+Buildings
+ Arcane Reservoir • Malabog's Castle • Tower of Celadaine
+Landmarks
+ Barbican ruins • Blighted Grove • Gnarlroot Cave •
+Planes
+ Feywild (Feydark)
+Portals
+ Banshee Gate • Moonlight Gate • Wyldwood Gate
+Realms
+ Dark fey enclave (Horrid Mire, Putrid Fen, Witch Fen) • Iliyanbruen • Realm of Malabog
+Settlements
+ Helm's Hold (Helm's Cathedral) • New Sharandar
+Wilderness
+ Neverwinter Wood
+
+Sharandar • Temple of Leaves
+
+Magic
+Items
+ The Blackthorn • communication orb • orb of dragonkind • potion of fey healing • potion of heroism
+
+Miscellaneous
+ feydark crystal • feywild spark • lute
+Plants
+ adder's tongue • bronzewood • greenvice vine • oak • witchcap toadstool
+
+Organizations
+
+Gloaming Court
+
+Religion
+ Helm • Sune • Waukeen
+
+Shevarash
+
+Appendix
+External Links
+ Fury of the Feywild is Live!
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Neverwinter: Tyranny of Dragons
+
+Neverwinter: Tyranny of Dragons is the 4 campaign expansion module for the Neverwinter massive-multiplayer role-playing game. Released in August 2013, the expansion added a new campaign, adventure zone, skirmish, and a new dungeon, along with numerous other updates.
+
+Features
+ Scourge Warlock class
+ Tyranny of Dragons Campaign
+ Lair of Lostmauth normal and epic dungeon
+ The Shores of Tuern normal and epic skirmish
+ Armor Reinforcement Kits
+ Artifact equipment
+ Dragonborn playable race
+ Draconic Heroic Encounters
+
+Plot
+A new faction of the Cult of the Dragon led by the wizard Severin Silrajin, arose in Faerûn to bring back glory to the dragons of the Realms. Aided by the green dragon Charthraxis, a group of this new sect appeared in Neverdeath Graveyard, searching over graves and crypts in order to open a portal to the island of Tuern. After having their efforts slowed by the Heroes of Sleeping Dragon Bridge, the cult began operating out of Ebon Downs, seeking out the aid of the black dragon Vartilingorix. At the same time, the cult cell in Icespire Peak enlisted the aid of the white dragon Merothax to plunder the mithral mines owned by the dwarves of Clan Icehammer, while those in Rothé Valley forged an alliance with House Xorlarrin in order to gain unhindered access to the blue dragon Venfithar. Finally in the Whispering Caverns in the Northdark, the cult sought to unearth the ancient hoard of a dragon named Saphirax, and summoned the dracolich Vilithrax to guard the site. Though the heroes destroyed the undead Vilithrax, the cultists finally got what they were searching for: the location and activation sequence for the portal to Tuern.
+
+In an unprecedented move, the Harpers joined forces with the Order of the Gauntlet, the Emerald Enclave, the Lords' Alliance, and even the Zhentarim to stop the Cult of the Dragon. The allied force ascended the slopes of Kelvin's Cairn to the portal's location, activating it with the hope of securing a foothold in Tuern. Unfortunately they were betrayed by Rath Modar, who was secretly working with the cult and its leader Severin. After the five factions secured the location, the Heroes of Sleeping Dragon Bridge went through the portal and discovered ancient draconic ruins that housed the lair of the red dragon Lostmauth. While they heroes slew the great dragon, they were unable to prevent Severin from retrieving the Red Dragon Mask. Armed with new power, the Cult of the Dragon launched a massive assault on Neverwinter, breaching the walls with the aid of their numerous draconic allies.
+
+Index
+Characters
+ Akregon • Arden • Boward • Charthraxis • Cruven Gantara • Delrin Bass • Drann Barrow • Eziderax • Fitzhugh Montgomery • Galvan • Glaxenheim • Halectrizar • Hazrah Stormhammer • Heiron • Ikzinfraxis • Kazlotar • Lostmauth • Malthus • Merothrax • Ohmertz • Phlagethax • Saphirax • Severin Silrajin • Shay Cutter • Thanin • Thar Greenbough • Theraclast • Theures • Toxicallus • Vartilingorix • Venfithar • Venitaxis • Vilithrax • Virkul • Windle • Zavarak
+
+ Belast Messandar
+
+Classes
+ warlock
+
+Creatures
+ dracolich • dragon (black, blue, green, red, white) • dragonborn
+
+Items
+Books
+ Breyer's Draconic Investigations • Haerl's Treatise on Dragonkind
+
+Gems
+ aquamarine • black pearl • dragon forged steel
+
+Substances
+ mithral
+
+Locations
+Buildings
+ Soldier's Memorial
+
+Landmarks
+ Ebon Downs • Icespire Peak • Lair of Lostmauth • Tagnik'zur Pass • Valley of the Ancients • Whispering Caverns
+
+Regions
+ Icewind Dale • Silverwisp Swamp • Tuern
+
+Settlements
+ Neverwinter (Neverdeath Graveyard) • Rothé Valley
+
+Magic
+Items
+ belt of wisdom • girdle of strength • lightning jar • Lostmauth's horn of blasting • mantle of the Zhentarim
+
+Organizations
+ Clan Icehammer • Cult of the Dragon • Emerald Enclave • House Xorlarrin • Order of the Gauntlet • Zhentarim
+
+ Lords' Alliance
+
+Appendix
+External Links
+ Tyranny of Dragons Features
+
+Notes
+
+References
+
+Connections
+
+---
+
+## Neverwinter: Rise of Tiamat
+
+Neverwinter: Rise of Tiamat is the 5 campaign expansion module for the Neverwinter massive-multiplayer role-playing game. Released in November 2014, the expansion added a new adventure zone, skirmish, and raid dungeon, along with an expansion of the Tyranny of Dragons campaign and numerous other updates.
+
+Features
+ Soulbinder Scourge Warlock paragon path
+ Artifact cloaks
+ Artifact off-hands
+ Jewelcrafting profession
+ Well of Dragons zone
+ Expansion of the Tyranny of Dragons Campaign
+ Temple of Tiamat raid
+
+Plot
+Following the dragon attack on Neverwinter, it became clear to all that the Cult of the Dragon's ultimate goal was to summon Tiamat herself from the Nine Hells, an event that was considered to be unpreventable. The five allied factions of the Harpers, Zhentarim, Lords' Alliance, Emerald Enclave, and the Order of the Gauntlet, believed only solution was to try and push her back before she fully entered Toril. Led by Elminster and the Heroes of Sleeping Dragon Bridge, the powers of the five factions and the elves of Iliyanbruen banded together and traveled to the Well of Dragons to assault Tiamat's temple itself, which had already erupted into the mortal world. The alliance found additional allies in Linu La'neral and Sandesyl Morgia, a dragon cultist who disagreed with the dogma of Severin Silrajin. Together, they fought against the Cult of the Dragon's forces, the Red Wizards of Thay, as well as the five chromatic dragon heralds of Tiamat: Glycamerax, Rogrotus, Volzakaris, Kradazuur, and Hohengroth.
+
+After defeating Tiamat's heralds, the alliance ultimately led an attack into the Temple of Tiamat. Within the temple they found Severin and Rath Modar in the midst of summoning Tiamat from the Nine Hells. Though Severin and the rest of the summoners were slain, the heroes were too late to stop the coming of Tiamat, who began emerging into Faerûn. Fortunately, Linu La'neral was able to channel a spell to weaken her long enough for their allies to defeat the dragon goddess, pushing her back into the Nine Hells and putting an end to the Cult of the Dragon's plot.
+
+Index
+Characters
+ Boward • Delrin Bass • Elminster • Feldon Strongbeard • Fitzhugh Montgomery • Glycamerax • Hohengroth • Kradazuur • Linu La'neral • Lyri Fawnten • Merrisara Winterwhite • Rath Modar • Rogrotus • Sandesyl Morgia • Severin Silrajin • Shay Cutter • Theraclast • Tiamat • Volzakaris
+
+Classes
+Paragon Paths
+ soulbinder
+
+Creatures
+ drake • mimic
+
+Items
+Books
+ Incantations of the Dragon Queen
+
+Locations
+Buildings
+
+ Temple of the Full Moon
+
+Landmarks
+ Well of Dragons
+
+Regions
+
+ Cormyr • Evereska • Thay
+
+Magic
+Items
+ cloak of black ice • Imperial Dragon cloak • cloak of the Seldarine • Lathander's cloak • Tiamat's Orb of Majesty • token of chromatic storm
+
+Organizations
+ Cult of the Dragon • Emerald Enclave • Harpers • Lords' Alliance • Order of the Gauntlet • Red Wizards • Zhentarim
+
+ Purple Dragon knights
+
+Appendix
+Notes
+
+External Links
+ Coming Soon: Rise of Tiamat
+ Coming Soon: Soulbinder Warlock Paragon Path
+ Rise of Tiamat: Coming November 18th!
+ New Artifact Gear Coming with Module 5
+ Rise of Tiamat Official Gameplay Trailer
+ Patch Notes 11/18/14
+
+References
+
+Connections
+
+---
+
+## Nest of Retribution
+
+The Nest of Retribution was a group of aarakocra from the Star Mounts who had survived the destruction of their colony by the green dragon Elaacrimalicros.
+
+Organization
+The Nest of Retribution was made up of ten members who were clerics, druids, and wizards that all had ties to the Elemental Plane of Air.
+
+Activities
+The members of this organization dedicated their lives to reclaiming their home in the Star Mounts and exacting revenge upon Elaacrimalicros for the destruction of their colony. They were prepared to accomplish this goal by any means necessary, up to sacrificing their own lives. Over time they would summon elementals from the Plane of Air and either perform services or retrieved items for them in return for a pledge that it would one day aid them in their battle against Elaacrimalicros.
+
+Base of Operations
+This group operated out of an aerie in the Lost Peaks. As they were frequently out on missions it was rare to see more than three members present at their aerie. At most, one could typically be found within their aerie.
+
+Possessions
+The members of this organization created a portal that hung roughly  away from the eastern edge of the Lost Peaks. To maximize its secrecy the portal no visible signs of its location or boundaries, leaving the aarakocra to memorize how to orient themselves to find it. Opening the portal requires speaking the phrase, "swift passage," in Auran.
+
+Relationships
+The aerie of this organization was guarded by a variety of air elementals, air mephits, and arrowhawks. An air genasi, known as Shyven Arvagress, served as the captain of this elemental guard and unlike the others was paid for their services by the aarakocra.
+
+Appendix
+References
+
+---
+
+## Neverwinter: Sharandar
+
+Neverwinter: Sharandar is an expansion module for the massively-multiplayer role-playing game Neverwinter. Released in February 2021, the expansion revamped the content of the previous module Fury of the Feywild, but also added a number of new features.
+
+Features
+ Visit a revamped and re-visualized Sharandar
+ New social hub
+ New adventure zone: the Ruins of Malabog
+ New dungeon: the Vault of Stars
+ An epic story told across three episodes
+
+Plot
+
+Index
+Characters
+Frothas • Gathir Trueshot • Iliyasha Guidingstar • Granny Necksnapper • Legaeth Songscythe • Mathilda Soulstealer • Merrisara Winterwhite • Oggrok • Riverwind • Zamorah
+
+Malabog
+
+Creatures
+displacer beast • dryad • fey eladrin • fomorian • giant toad • grung • hag (annis, green, night) • high elf • oni • redcap • troll (fell) • unicorn
+
+Locations
+Feywild • New Sharandar • Ruins of Malabog • Sharandar • Tower of Celadaine • Vault of Stars
+
+Organizations
+Odious Court
+
+Religion
+Corellon
+
+Miscellaneous
+fey crossing • feydark crystal
+
+Appendix
+References
+
+Connections
+
+---
+
+## New Sharandar
+
+New Sharandar was a settlement of elves and eladrin that straddled two realms, one on Toril and the other in the Feywild, on either side of an extra-planar portal. It was the home to the descendants of the elven kingdom of Illefarn, offering them protection from the malevolent forces of the dark fey.
+
+Description
+On the continent of Faerûn, New Sharandar took root in the remains of Sharandar, the  capital of the elven survivor state Iliyanbruen from which it drew its name. Although they lay in ruin, the magnificent buildings of Old Sharandar featured ornate architecture and decoration.
+
+Within the Feywild, New Sharandar took the form of utilitarian wooden structures and outposts set within the boughs of the plane's massive trees.
+
+On the side in the Neverwinter Wood, the Fey Crossing that connected the two instances of New Sharandar resembled a gaping hole in the center of a gigantic oak tree. While peering through the passageway only shows the other side of the tree, stepping through the hole leads directly into the courtyard of the New Sharandar in the Feywild.
+
+Geography
+Due its unique formation in both the Prime and Feywild, New Sharandar had two geographical location. In Faerûn, it existed in the ruins of Old Sharandar, within the Neverwinter Wood on the Sword Coast North. Within the Feywild, New Sharandar was located within a region of the Feywild beneath the fey temple called the Arcane Reservoir.
+
+Government
+As of the late 15 century DR, the bi-planar settlement was led by the fey knight, Merrisara Winterwhite.
+
+Defenses
+The outpost of New Sharandar was protected by several forward observation camps established by the Iliyanbruen elves. These posts allowed them to take note of incoming threats from further out into the Feywild.
+
+History
+Millenia before the Era of Upheaval, the great elven kingdom of Illefarn stood as the home of the Tel-quessir in the North. It remained strong until the, when its last coronal called for a Retreat to Evermeet, and it was divided into three smaller realms, Ardeep, Rilithar, and Iliyanbruen in the Neverwinter Wood.
+
+Iliyanbruen continued on for nearly 1300 years, until it too fell to ruin by the . Only a few scattered elven settlements remained within the forest, along with the ruins of Sharandar, its capital city. Many of those who left Faerûn traveled to the Feywild to continue on the traditions of the Iliyanbruen elves and Eladrin.
+
+When the Spellplague fractured the foundations of existence on Toril, in the, the barriers between the planet in the Prime and the Feywild were weakened. Over time, the elven and eladrin descendants of Iliyanbruen uncovered a portal that connected the Neverwinter Wood to their ancestral home in the Feywild. They formed a new home for themselves, with fortifications on both sides of the portal, called New Sharandar, in honor of the capital of their lost home.
+
+After claiming their new home, many elves set out to restore the lost settlements of Iliyanbruen and repair the ruins of Old Sharandar. Not all of the fey were so committed to peaceful endeavors however. In the years leading up to the 1480s DR, the elves and eladrin launched a campaign against the dark fey that desecrated and took their region of the Feywild.
+
+Around the, the fomorian king Malabog threatened their home when he waged war upon New Sharandar, from his castle in the Feydark. Led by Merrisara Winterwhite, the fey of New Sharandar responded with swift action of their own, sieging the giant-king's castle and slaying the malevolent monarch with the aid of the Heroes of Sleeping Dragon Bridge in Neverwinter.
+
+Over the following decade, the three hags of the Odious Court began to work against the fey of New Sharandar to claim the Arcane Reservoir for their own use. They manipulated the remnants of Malabog's army to serve their ends and each claimed a territory in  the Feywild that threatened New Sharandar's mere existence.
+
+Notable Locations
+Portals
+ Fey Crossing, the passageway that linked the Feywild to Toril.
+ Wyldwood Gate, which connected the settlement to the Blighted Grove.
+ Banshee Gate, which led to the dark fey enclave.
+ Moonlight Gate, which opened to the realm of Malabog.
+
+Temples
+ Arcane Reservoir, the temple built among the trees above New Sharandar.
+ Temple of Leaves, a holy house open to all denominations and maintained by priests of Corellon.
+
+Appendix
+Appearances
+Video Games
+
+External Links
+
+References
+
+---
+
+## Neverwinter: Avernus
+
+Neverwinter: Avernus is an expansion module for the massively-multiplayer role-playing game Neverwinter. Released in June 2020, the expansion continues the storyline that started in the previous module, Infernal Descent.
+
+Features
+ New Adventure Zone: Avernus
+ Continuation of the Path of the Fallen Campaign
+ Limited-time Campaign: The Redeemed Citadel
+ New Trial: Zariel's Challenge
+
+Plot
+
+Index
+Characters
+Chukka • Clonk • Garyx • Lulu • Mahadi • Makos • Zariel • Yael • Baphomet • Asmodeus • Soradiel • Alric Vallenhas • Baldric Vallenhas • Haruman • Olanthius • Nightspine
+
+Creatures
+angel • cambion • death knight • devil (erinyes • imp • merregon • narzugon • osyluth • pit fiend • shocktroop • spinagon) • demon (abyssal chicken • balor • barlgura • glabrezu • hell hound • hezrou • succubus • mane • nalfeshnee • shadow) • hollyphant • kenku • lich • orc • rakshasa • tiefling • tyrannosaurus
+
+Locations
+Avernus • Bleeding Citadel • Fort Knucklebone • Haruman's Hill • Vallenhas • Wandering Emporium
+
+Magic
+infernal war machine • Sword of Zariel • soul coin
+
+Appendix
+References
+
+Connections
+
+---
+
+## Neverwinter: Infernal Descent
+
+Neverwinter: Infernal Descent is an expansion module for the massively-multiplayer role-playing game Neverwinter. Released in January 2020, the module ties in with the tabletop adventure Baldur's Gate: Descent into Avernus.
+
+Features
+ New Campaign: Path of the Fallen
+ New Adventure Zone: Vallenhas Estate
+ New Dungeon: Infernal Citadel
+
+Plot
+
+Index
+Characters
+Alamon • Alric Vallenhas • Alyssa Misdani • Berion Vallenhas • Dranges • Etrien Sael • Gaerwen Veil • Lulu • Makos • Mander • Rayns • Whardo
+
+Baldric Vallenhas • Crissa Vallenhas • Zariel
+
+Creatures
+abyssal chicken • balor • barlgura • cambion • chicken • devil (legion) • dragonborn • glabrezu • halfling • hell hound • hezrou • hollyphant • human • imp • incubus • mane • nalfeshnee • narzugon • nightmare • pit fiend • tiefling • zythar
+
+Items
+infernal puzzle box • infernal war machine
+
+Locations
+Broken Stool • Evernight • Helm's Hold • Shadowfell • Vallenhas Manor
+
+Magic
+plane shift
+
+Organizations
+Order of the Rift Wardens • Vallenhas family
+
+Appendix
+References
+
+Connections
+
+---
+
+## Neverwinter: Uprising
+
+Neverwinter: Uprising is an expansion module for the massively-multiplayer role-playing game Neverwinter. Released in August 2019, the module ties into the tabletop adventure Waterdeep: Dungeon of the Mad Mage.
+
+Features
+ New Playable Race: Gith
+ Updated New Player Experience
+ New Trial: Tower of the Mad Mage
+ New PvP Map: Stardock Arena
+
+Plot
+
+Index
+Characters
+Ezria • Halaster Blackcloak • Kavatos Stormeye • Yrlakka
+
+Creatures
+dragon (red) • gith (githyanki, githzerai) • human • illithilich • intellect devourer • mind flayer • Thoon hulk
+
+Items
+The Teachings of Zerthimon
+
+Locations
+Stardock • Tears of Selûne • Tower of the Mad Mage • Undermountain
+
+Shra'kt'lor • Tu'narath
+
+Magic
+blast scepter
+
+Appendix
+References
+
+Connections
+
+---
+
+## Neverwinter: Undermountain
+
+Neverwinter: Undermountain is an expansion module for the massively-multiplayer role-playing game Neverwinter. Released in April 2019, the module ties into the tabletop adventure Waterdeep: Dungeon of the Mad Mage.
+
+{{Quote|An unknown force beckons the people of the Forgotten Realms to the halls of Undermountain with visions of their deepest desires. Through a magical portal hidden along the Sword Coast, adventurers must seek a truth far more sinister. Renowned Waterdeep taproom, the Yawning Portal, acts as a hub for players looking to delve deeper into the hallowed halls shaped by Halaster Blackcloak’s twisted mind. Team up with Durnan - proprietor of the Yawning Portal - Celeste, as well as uneasy allies to uncover the wicked machinations at work below Mount Waterdeep.|Excerpt from the press release{{Cite web| url = https://www.gamespress.com/DESCEND-INTO-THE-DUNGEON-OF-THE-MAD-MAGE-IN-NEVERWINTERS-LARGEST-EXPAN | title = Descend into the Dungeon of the Mad Mage in Neverwinter'''s Largest Expansion Ever - Undermountain | accessdate = 03-02-2021 | publisher= Perfect World}}}}
+
+Features
+ Level cap increased to 80
+ Five new Adventure Zones
+ New Social Hub: The Yawning Portal
+ New Dungeon: Lair of the Mad Mage
+
+Plot
+
+Index
+Characters
+The Alchemist • Anton • Arcturia • Azuli Tefnek • Belora • Bonnie • Brek • Celeste • Davril • Draxole • Durnan • Edwin Solfenden • Fazrian • Gander Tunfurrow • Gavilar • Gayle Windwright • Halaster Blackcloak • Jarlaxle • Jhesiyra Kestellharp • Kavatos Stormeye • Keresta Delvingstone • Lumin • Melegrund • Obaya Uday • Orzguv • Portia • Raxxus • Sana Menzaru • Sinyé • Terronaz • Thagor • Trobriand • Umbraxakar • Uzrul • Valdemar • Valtagar Steelshadow • Vanrak Moonstar • Xalyxx • Yauhkuay
+
+Helion Moonstar • Wakanga O'tamu
+
+Creatures
+abominable yeti • barlgura • beholder • black bear • bulette • death knight • direhelm • doomsept • dragon (green, shadow) • drider • duergar • fire archon • fire giant • fomorian • galeb duhr • giant scorpion • glabrezu • gnoll • golem (bone, hellthorn, stone) • howler • human • kenku • kuo-toa • manticore • nalfeshnee • owlbear • panther • planetar • purple worm • quasit • rust monster • scaladar • shadow • shadow demon • shambling mound • skeleton • slaad (green) • spider (blade, phase, spitting) • twig blight • vampire (spawn) • wererat • wraith • zombie
+
+ItemsAmulet of Selûne • Gatestaff of Undermountain • sun blade • Tearulai
+
+Locations
+Shadowfell • Undermountain (Catacombs, Terminus, Twisted Caverns, Vanrakdoom, Wyllowwood) • Yawning Portal • Waterdeep
+
+Chult • Port Nyanzaru
+
+Magic
+calm emotions
+
+Organizations
+Church of Shar • Xanathar's Thieves' Guild
+
+Moonstar family
+
+Religion
+Laduguer • Malar • Selûne • Shar
+
+Waukeen
+
+Appendix
+References
+
+Connections
+
+---
+
+## Necklace of safe footfalls
+
+Necklaces of safe footfalls were enchanted pieces of dwarven jewelry from the ancient Myth Drannor.
+
+Description
+Necklaces of safe footfalls were masterfully crafted thick ornate beaded torc chains that were placed around the wearer's neck, similarly to jewelry found in Mulhorand.
+
+Powers
+Necklaces of safe footfalls had two enchantments. The first one was a +2 enchantment to the wearer's defense and protection against spells and magical effects. The second granted the wearer full protection against magical traprunes, often used by dwarven wizards along with regular traps.
+
+History
+In 1369 DR, one of the necklaces of safe footfalls was recovered by the Veiled Ones from an ancient dwarven tomb underneath Glim-Gardens, along with another magical curio, the Stone Mouth.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+---
+
+## Never a Warpig Born
+
+"Never a Warpig Born" is a short story by Ed Greenwood set in the Forgotten Realms and published on the Wizards of the Coast website in 2001. It was put together from ideas contributed by fans at the first annual "Spin a Yarn with Ed Greenwood" seminar at the Gen Con convention in August 2001.
+
+Index
+Characters
+Broalaunt • Elminster • Simbul • Orokh • Durnan • Mirt • Alustriel Silverhand
+
+Larloch • Samaerra
+
+Creatures
+boar
+
+Appendix
+
+External Links
+ "Never a Warpig Born"
+
+---
+
+## Nesher
+
+The Nesher  family was a member of the pantheon of Waterdhavian nobility, circa the . They were in the lumber and wood-making business and were keen hawk-masters.
+
+Organization
+The patriarch of the Nesher clan was Lord Laskar Nesher from at least the, to at least the . His young consort was Lady Stelar (née Stelar Thorp). Laskar's eldest son and heir was Kastonoph. As of 1372 DR, there were thirty-one members of the noble family. As their business interests involved forestry, they generally revered the goddess Mielikki.
+
+Activities
+The family enjoyed hawking as a sport and as a business venture.
+
+Base of Operations
+
+The Nesher Villa was a walled compound of one- and two-story buildings surrounding a green space located in the Sea Ward on the southwest corner of the intersection of Mendever Street with Chasso's Trot. Just across Mendever Street and down a couple doors was the Gundwynd family villa.  Directly across the alley on the south side of the compound was the towering five-story domicile of Hlethvagi Anteos.
+
+Lord Khallos Nesher, brother of Lord Laskar,The source says that Khallos was the brother of Stelar, but this is not possible since Stelar's maiden name was Thorp. It is assumed that Khallos was her brother-in-law which makes him a brother of Laskar. built a small villa outside of Silverymoon around the . He had business interests in Quaervarr.
+
+Relationships
+Lady Stelar was opposed to Lord Ultas Maernos and his campaign to create a haven for the non-human residents of Waterdeep. She, along with other like-minded nobles, attempted to bring him down through skullduggery, but he was successfully protected by the Defenders Three.
+
+History
+The Nesher family were of Chondathan descent and the family was ennobled in the .
+
+Sometime in the early 1370s DR, Lord Laskar, Lady Stelar, and Kastonoph attended the disastrous wedding between the Open Lord of Waterdeep, Piergeiron the Paladinson, and Eidola of Neverwinter. Kastonoph witnessed a doppleganger attack, foiled an assassination attempt, and learned that his own father was attempting to blackmail the bride-to-be.
+
+A month after the abduction, the majority of Waterdeep's inhabitants thought Piergeiron the Paladinson dead as his spirit was trapped inside a soul gem. In the weeks that led to the Open Lord's funeral, Laskar Nesher was among ambitious nobles fighting for Piergeiron's position. Neshers stirred public opinion, gave numerous speeches, and even provided bleached oak panels, rails, and bosses for the Palace of Waterdeep, "out of love for the great Piergeiron." In the month Waterdeep was without an Open Lord, Laskar won support of ten respected merchants and three guilds, as well as made an agreement with Boareskyr brothers, the Boareskyr Bridge in exchange for High Forest lumber, claiming the trade route with Kara-Tur. Laskar and his consort Stelar were both present during the funeral ceremony. However, Laskar's grab for power was for naught with Piergeiron's recovery soon after.
+
+Members
+ Laskar Nesher: Patriarch in the mid–14 century.
+ Stelar Nesher: Laskar's young consort and a wizard-in-training.
+ Kastonoph "Noph" Nesher: Eldest son and heir of Lord Laskar.
+ Khallos Nesher: Brother of Laskar. Lived in Silverymoon and had logging business in Quaervarr.
+ Adreinelle Nesher: Dowager Matron in 1355 DR.
+ Perryn Nesher: Married Lord Nandos Raventree prior to 1368 DR.
+
+Appendix
+Notes
+
+Appearances
+Novels
+The Abduction
+
+Uneasy Alliances
+References
+
+Connections
+
+---
+
+## Nemrin
+
+Nemrin was one of the noble houses of the Lost Kingdom of Anauria.
+
+Members
+House Nemrin was one of three human families that composed Anauria's nobility, along houses Maluradek and Thardresk, the later of which encompassed the Anaurian noble family.
+
+History
+During the Era of Upheaval, centuries after Anauria's collapse, some lasting traces House Nemrin could be found amongst the ruins that were scattered across the Anauroch desert.
+
+Appendix
+References
+
+---
+
+## Ned
+
+Ned was a horse belonging to Farmer Bortas in the mid–14 century DR.
+
+History
+On Eleasias 16 in the, Ned was pulling a wagon with Farmer Bortas and his wife when they saw the ghost of the bandit chieftain Fastred. Bortas whipped poor Ned and they fled to the Swamp Rat tavern to raised a posse of fellow farmers to go ghost-hunting. Ned's involvement is unknown.
+
+Appendix
+Appearances
+Novels
+ Murder in Cormyr
+
+References
+
+---
+
+## Nevessam
+
+Nevessam was a necromancer of the Cult of the Dragon circa 1369 DR in the city of Myth Drannor.
+
+Personality
+Nevessam preferred direct confrontation and combat to subterfuge and diplomacy, however, if the enemies of the Cult were to surrender, he accepted it albeit reluctantly.
+
+Abilities
+Adept at combat spellcasting, Nevessam attempted to affect his enemies with the slow spell first, and then showering them with offensive magics at his disposal.
+
+History
+During the Cult of the Dragon's occupation of Myth Drannor in 1369 DR, Nevessam was tasked by commander Shamoor to find a way to unseal the Crypt of Rothilion. When a word came that a group of adventurers was making way through the Cult's forces in the Polyandrium, Nevessam tracked their efforts to Lyssic's Crypt. He knew that the adventurers were successful in retrieving the rune of stars one of many ancient arcane locks placed on locations of the abandoned city. Nevessam and four of his sentries ambushed the adventurers and disarmed them. Taking hold of their discoveries, Nevessam escorted them to the entrance to the Crypt of Rothilion. The Cult had a way of entering the tomb thanks to the unwilling help of the adventurers. Unfortunately for the necromancer, his fellow cultists fled in sight of the impressive unsealing magic, leaving Nevessam alone, in the company of the captured adventurers. Even though Nevessam attempted to escape, he was captured and in order to survive, he revealed the plans of the Cult of the Dragon for the "contingent ceremony" that involved dracolich Pelendralaar's phylactery and the pool of radiance.
+
+Appendix
+Appearances
+Adventures
+Pool of Radiance: Attack on Myth Drannor
+
+References
+
+---
+
+## Neverwinter: Elemental Evil
+
+Neverwinter: Elemental Evil is the 6 campaign expansion module for the Neverwinter massive-multiplayer role-playing game. Released in April 2015, the expansion added a new class, increased level cap, expansion of the game's profession system, a new campaign and several new adventure zones.
+
+Features
+ Level Cap increased to 70
+ Oathbound Paladin class
+ Profession maximum level increased to 25
+ Drowned Shore, Fiery Pit, Isle of Wind and Flames, Reclamation Rock, and Spinward Rise adventure zones
+ Elemental Evil Campaign
+
+Plot
+When Archdruid Morningdawn of the Emerald Enclave arrived in Neverwinter with word of a new threat rising in the Sword Coast, Lord Neverember took it seriously. With his permission, she erected the Tree of Elemental Balance to guard the city of Neverwinter. The Emerald Enclave reported a building pressure of earth and water in the Ebon Downs, disturbing the elemental balance in the region. While the great warrior Minsc had volunteered to investigate, Morningdawn believed more help was needed, and solicited the aid of the Heroes of Sleeping Dragon Bridge for their assistance. Deep in a cave within the Ebon Downs, Minsc and the heroes found cultists of elemental earth and water creating concentrated manifestations of elemental energy in order to form elemental nodes - two-way conduits to one the elemental planes.
+
+After restoring  the elemental balance in the city, Morningdawn asked the heroes to continue on to Pirates' Skyhold, where Zhentarim agents had noticed some suspicious individuals disguised as monks. Minsc and the heroes discovered the "monks" to be cultists of elemental air and fire, who sought to destroy Neverwinter with a devastation orb. After those agents were eliminated, the remaining members of elemental cults grew tired of the interference in their plans and attacked Neverwinter outright. Together the heroes and Minsc turned away away the elemental cultist assailants, and were subsequently tasked with routing their presence along the Sword Coast.
+
+After the Blackdagger Bandits were defeated over a decade prior, trade increased on the High Road for some time, until a sudden tidal wave devastated the region. The disaster was swiftly followed by an invasion of aquatic monsters and cultists of Olhydra. The Harpers soon arrived to aid the Emerald Enclave at what had now become known as the Drowned Shore, where they were joined by sea elves who had been similarly impacted by the tidal wave and the cultists who followed behind. With the help of the Heroes of Sleeping Dragon Bridge, they dealt a heavy blow to the Cult of the Crushing Wave, entered the water node to the Elemental Plane of Water and defeated the prophet Gar Shatterkeel, as he attempted to sacrifice a sea elf to Olhydra.
+
+Meanwhile, the Black Earth Mercenary Company and their leader Marlos Urnrayle had offered to help defend the reclaimed Helm's Hold following the defeat of the Prophet Rohini, even going so far as to build their own fortress nearby. Once the god Helm returned however, the mercenaries revealed themselves as the Cult of the Black Earth, fanatical devotees of Ogrémoch, and  turned against the city's people. As the council holed up within Helm's Cathedral, Lord Neverember sent Neverwinter's ranger corps along with the Heroes of Sleeping Dragon Bridge to secure the Watcher's Forest and reclaim Helm's Hold. The adventurers struck down the prophet Urnrayle, and stopped him before he succeeded in unleashing a devastation orb upon the city.
+
+Within the newly-discovered dwarven city of Gauntlgrym, the dwarves had found the task of rebuilding the city to be a daunting task that required the aid of still artisans. Just after the restoration of the Great Forge, the artisans revealed themselves as the Cult of the Eternal Flame, crazed devotees of Imix. After being driven out by the cultists, the dwarves worked with the Harpers and the Lords' Alliance, along with the Heroes of Sleeping Dragon Bridge to reclaim their city. As the members of the Eternal Flame sought to once again awaken the primordial Maegera, and shut down the water pumps that kept her in slumber. Alliance members and the heroes defeated Vanifer, the tiefling leader of the cult, and forced her to flee, swearing revenge on them all. The dwarves of Delzoun were rescued and Gauntlgrym was safe once more.
+
+After the devastating tidal wave that turned part of the High Road into the Drowned Shore, the Order of the Gauntlet began tracking elemental cultist activity across the Sword Coast. Quite some time had passed before discovered that high above the Neverwinter Wood, followers of Yan-C-Bin called the Cult of the Howling Hatred had allied with a family of cloud giants to erect a series of floating towers known as Spinward Rise. Clerics of Shaundakul, allied with the Harpers, the Emerald Enclave, a clan of aarakocra, and the Heroes of Sleeping Dragon Bridge, led an assault on the flying enclave, and foiled their plans to create devastation orbs of their own. The groups' their encampment came under siege by a massive force of air cultists, cloud giants, and slaadi, led by the Prophet Aerisi Kalinoth - the winged elf leader of the cult. Ultimately, she and her followers were denied victory and her cult was destroyed.
+
+Index
+Characters
+Aldruk • Aerisi Kalinoth • Alinda Greenwood • Baram Hannikar • Bellan Norell • Blackfeather • Boo • Brokar Ironshod • Callum • Crumblechasm • Dassar Truebow • Dashar • Davrin Sollis • Dunfield • Erim Galloway • Evandriel • Farah Dahl • Fathom • Felcrest • Flora Newleaf • Forgecaller • Gar Shetterkeel • Glark • Grackel • Graves • Grogbi Ironbeard • Harris • Hexabaal • Horath Pegra • Imbross Irri'Karr • Incinerath • Iolas • Kayliss • Lanric • Lucas Shaneway III • Lynn • Maelstrom • Marlos Urnrayle • Minsc • Miraj Vizann • Montrose • Morgan Shivertimber • Morningdawn • Mossy Meg • Nora Brighton • North Wind • Nottin • Nuria Pyrellis • Olgi Fren'rah • Okobo • Pirri • Ranolf Kempp • Rastari • Rhaegos • Riptide Molly • Satarin • Seven Toes • Seychell • Shil Yargo • Silvaria • Simmons • Singe • Skreel Swiftwing • Slade the Thricedrowned • Tara Dawnstar • Thannis Beke • Theodosian • Therl Merosska • Thuluna Maah • Tidemaster • Udo Stoneskin • Vanifer • Windshear • Xalliana
+
+Quorthon • Yolander
+
+Classes
+Paladin
+
+Creatures
+ aarakocra • axe beak • bloodburn scorpion • bulette • dwarf (duergar) • elemental (air, earth, fire, water) • elemental archon (air • earth • fire • water) • flamespiker • galeb duhr • giant (cloud, fire) • giant crab • gorgon • hag (green • sea) • hell hound • kenku • lacedon • lizardfolk • magma brute • owlbear • render • sea elf • sea troll • slaad
+
+giant strider
+
+Items
+Plants
+Berronar's cap • Purple Panacea • Vaundyr's vine
+
+Substances
+bloodiron crystal • gurglewort • mithral • silver
+
+Locations
+Buildings
+Broken Crown • Cragmire Keep • Helm's Cathedral • Nimbus Tower • Windcall Temple
+
+Landmarks
+Avia Landing • Cave of Elements • Crypt of Ascension • Crystal Fields • Ebon Downs • Foulclaw Woods • Glimmerstone mine • Goldseeker's Folly • Great Forge • Howling Maw • Mushroom Gardens • Neverwinter Wood • Raven Cliff Beach • Reclamation Rock • Scoundrel's Retreat • Silver Drip mine • Spinward Rise • Thunderhead Reach • Tree of Elemental Balance
+
+Regions
+ Drowned Shore • Fiery Pit
+
+Settlements
+ Gauntlgrym • Helm's Hold (Memorial Hills, Scar Alley) • Neverwinter (Pirates' Skyhold • Protector's Enclave)
+
+Elemental planes (Air, Earth, Fire, water) • Limbo
+
+Magic
+Artifacts
+ amulet of Valindra's favor • belt of Valindra's Guard • Shard of Valindra's Crown
+
+Items
+devastation orb • necklace of air breathing • Wheel of Elements
+
+Miscellaneous
+earthmote • spellscarred
+
+Organizations
+ Company Yargo • Cult of the Black Earth • Cult of the Crushing Wave • Cult of the Eternal Flame • Cult of the Howling Hatred • Emerald Enclave • Harpers • Lords' Alliance • Order of the Gauntlet • Riders of the West Wind • Sharptalon Flight • Zhentarim
+
+Ashmadai
+
+Religion
+Helm • Imix • Ogrémoch • Olhydra • Shaundakul • Yan-C-Bin
+
+Dumathoin • Maegera • Umberlee
+
+Appendix
+Notes
+
+External Links
+ Announcing Module 6: Elemental Evil!
+ Dev Blog: Oathbound Paladin Design
+ Dev blog: Drowned Shore & Reclamation Rock
+ Dev Blog: Fiery Pit & Spinward Rise
+ Neverwinter: Elemental Evil Features Blog
+ Dev Blog: Minsc & Boo in Neverwinter
+
+References
+
+Connections
+
+---
+
+## Neyobu
+
+Neyobu was an ensorcelled panther companion of Ras T'fima, once the barae of Ubtao and a gem mage in the mid-14 century DR.
+
+Description
+Neyobu was a big cat with night-black fur, with deadly fangs and big razor-sharp claws. It had lightning-fast reflexes.
+
+The panther had three enchanted pearls affixed to the forehead in a shape of a triangle with blueish white sparkles jumping from one gem to another. The magic pearls granted the cat powers, longevity being one of them.
+
+Personality
+Even though Neyobu was a dangerous and fearless beast, it followed T'fima's will and commands. The cat was playful and even gentle with allies like Negus Kwalu and Alisanda Rayburton, and an intense sentry guarding its master from strangers.
+
+Relationships
+Loyal companion of Ras T'fima, the cat lived together with the gem wizard in his sprawling hut on a riverbank, surrounded by natural and chiseled stone, granite, limestone, slate, shale, and other more exotic rocks.
+
+History
+In 1362 DR, Neyobu was living with its master outside of the magic walls of Mezro in Chult. During Artus Cimber's expedition to Chult in search of the Ring of Winter, Cimber and Alisanda sought Ras T'fima's aid in rescuing Dhalmass Rayburton, captured by the Cult of Frost and the Batiri. The black cat guarded its master from the stranger - Artus, while letting the barae through into the sorcerer's hut. During that visit, Neyobu pounced up onto the hut's roof like black lightning, instantly slaughtering Feg, the flying monkey spy of the Cult of Frost.
+
+Appendix
+Appearances
+Novels
+The Ring of Winter
+References
+
+---
+
+## Netherskull
+
+Netherskull was a death tyrant in Undermountain in the early 1490s DR.
+
+History
+Many years before the Year of Three Ships Sailing, 1492 DR, a beholder from the Underdark went into Undermontain. There it settled inside the Obstacle Course level and turned itself into a death tyrant, renaming itself Netherskull. It fought Halaster Blackcloak but the Mad Mage prevailed. However, Halaster decided not to destroy Netherskull, instead turning it into a dungeon guardian. Netherskull became the lord of the Obstacle Course level permitting Halaster to install his new magical traps here.
+
+Around 1392 DR, the Netherskull battled the paladin Fidelio, but he returned as a ghost and fought Netherskull many times.
+
+Activities
+Netherskull resided in its sanctum, where it raised all its defeated foes as zombies in its service. Nearby was an immense chasm created by its disintegrate ray, which Halaster had flooded with lava.
+
+Appendix
+References
+
+---
+
+## Neverwinter: Strongholds
+
+Neverwinter: Strongholds is the 7 campaign expansion module for the Neverwinter massive-multiplayer role-playing game. Released in August 2015, the expansion added the feature of stronghold guild halls to guilds, added a new event, a new form of PvP gameplay, and introduced a form of premium membership.
+
+Features
+ Guild Strongholds
+ The Greed of the Dragonflight event
+ Guild Boons
+ Slayer Overload enchantments and Ward Overload Enchantments
+ VIP Program
+ Stronghold Siege PvP
+
+Plot
+When an abandoned keep was discovered northeast of the Neverwinter Wood, the Heroes of Sleeping Dragon Bridge claimed and fortified it against attacks by orcs and dragons, using it as their base of operations within the region.
+
+Index
+Characters
+ Argemius • Balhom • Bradda • The Builder • The Cleric • Dagyrc • The Detective • Halamvir • Jundus • Master of Coin • Moven • The Ranger • Sabine • The Steward • Traveling Wizard • Zulia
+
+Creatures
+ axe beak • blue slaad • bulette • cyclops • death slaad • devil (erinyes • imp • legion devil • shocktroop devil) • dire bear • dire wolf • drake (amush • guard • hunting • rage) • ghost • giant (fire, hill) • gnoll (Fang of Yeenoghu) • gorgon • gravehound • iron golem •  mimic • orc • owlbear • pixie  • red slaad • spider (blade • bristle • deathjump • spitting)
+
+Items
+Food & Drink
+ chamomille tea • chocolate • jerky • porridge • prime rib • stone soup •
+
+Locations
+ The Stronghold
+
+Luskan
+
+Magic
+Artifacts
+ Amulet of Tiamat's Demise • Tiamat sash
+
+Organizations
+ Red Wizards • Uthgardt
+
+Cult of the Dragon
+
+Appendix
+Notes
+
+External Links
+ Neverwinter: Strongholds Coming Summer 2015
+ Neverwinter: First Look at Strongholds - Dev Blog
+ Neverwinter: History of Strongholds in D&D - Dev Blog
+ Neverwinter: Domains of the Stronghold - Dev Blog
+ Neverwinter: Strongholds Launches August 11!
+ Neverwinter: Introducing the VIP Program!
+ Neverwinter: Strongholds Patch Notes!
+ Neverwinter: Strongholds Developer Hub
+
+References
+
+Connections
+
+---
+
+## Neverwinter: Underdark
+
+Neverwinter: Underdark is the 7 campaign expansion module for the Neverwinter massive-multiplayer role-playing game. Released in August 2015, the expansion added the feature of stronghold guild halls to guilds, added a new event, a new form of PvP gameplay, and introduced a form of premium membership.
+
+Features
+ Underdark Campaign
+ Prophecy of Madness Skirmish
+ Throne of the Dwarven Gods Skirmish
+ Demogorgon and Epic Demogorgon Raids
+ Demonic Heroic Encounters
+ Dwarven King Quest Arc
+ Mantol-Derith Adventure Zone
+ Masterwork Professions
+ Strongholds: Underdark Spore Tower
+
+Plot
+The Heroes of Sleeping Dragon Bridge were approached by Captain Belgold of the Neverwinter Guard to investigate nearby raids purpotrated drow and vampire. During their foray to a local farmstead they encountered Thibbledorf Pwent, and together the group made short work of a band of Ashmadai cultists. When Pwent parted from the group to return to Gauntlgrym, Belgold expressed his suspicion of the dwarf and asked the heroes to investigate. After reuniting in the ruined dwarven city, Pwent's mind was dominated by Candelaria, a Red Wizard of Thay, and eventually made to reveal he had been turned into a vampire many years before, and was himself turning the drow to defend the ruins of Gauntlgrym. Together they tracked down Candelaria to the depths of Mount Hotenow, defeated her in battle and returned to the dwarven realm the helm of King Bruenor Battlehammer.
+
+Shortly thereafter, the heroes were asked to uncover the whereabouts of Bonnego Battleaxe, a missing member of the Neverwinter Guard. They tracked the errant guardsman to the foothills of Vellosk and returned him safely to Captain Belgold. Together the heroes and Bonnego recovered his missing map, helped defend the town of Shallow Waters at the edge of Neverwinter Wood, and after hearing of the dwarf's retirement from the Guard, agreed to accompany him on a personal quest of great importance: following the map to the Throne of the Dwarven Gods in Gauntlgrym.
+
+Having journeyed there themselves not long before, the heroes accompanied Bonnego to the depths of the dwarven ruins, and witnessed him being identified as the king of the realm by a ghost. When Bonnego sat upon the throne however, he was hurled off by some unknown force. Bonnego revealed his true identity at King Bruenor Battlehammer and stated emphatically that he sought to reclaim the ancestral dwarven throne. Bruenor came to the conclusion that he was rejected by the throne because his loyal follower Pwent was lost, and needed to be saved. While the rescue attempt was ultimately unsuccessful, the dwarven patron deity Moradin saw the Bruenor was forthright in his vow to save Pwent in time and allowed King Bruenor to sit upon the throne of Gauntlgrym
+
+Bruenor asked the heroes to find Regis at the Driftwood Tavern in Neverwinter and share the story of the king's return. During their journey the group encountered Drizzt Do'Urden, who spoke of an immense demonic invasion of the Underdark that involved Demogorgon, the Prince of Demons himself. Drizzt intended to gather a force in Mantol-Derith to kill the Demon Prince, soliciting the aid of King Bruenor, and the heroes. Alongside an agent of the Harpers, the heroes defended a powerful tablet from hordes of demons, that included information about an artifact sought after by Fraz-Urb'luu. The demonic invasion grew to overwhelming numbers and the horde spilled out across Gauntlgrym and the Sword Coast, forces that were accompanied by undead mind flayers associated with the demon lord Orcus. Luring the Demon Prince into a cavern near Mantol-Derith, the Heroes of Sleeping Dragon Bridge alongside Drizzt, Bruenor, and Regis − aided by a mind flayer named Grazilaxx − defeated Demogorgon and pushed the Demon Prince back into the Abyss.
+
+Index
+Characters
+ Belgold • Bonnego Battleaxe • Candelaria • Demogorgon • Dhaunira • Drizzt Do'Urden • Gorguch Elfslayer • Grazilaxx • Ilren T'Serra • Jarus Maravin • Mizrei Aldarunhel • Orgut the Maimed • Thibbledorf Pwent • Ugreta Ghostspeaker
+
+Fraz-Urb'luu • Orcus
+
+Creatures
+ alhoon • balor • barlgura • glabrezu • goristro • illithid • intellect devourer • lakh • nalfeshnee • silkworm • snowhare
+
+Items
+Armor
+ Deepknight's brigandine • couter
+
+Books
+ Drow Hunting Tips • Dwarven Spelunking • On Madness
+
+Fabrics
+ cashmere • Chultan silk • Samarachan jute • samite
+
+Gemstones
+ aquamarine • opal • peridot • pinion • sapphire • sphene
+
+Miscellaneous
+ sextant • spyglass • timepiece
+
+Plants
+ alder • lacquer • spruce
+
+Substances
+ adamant • adamantine • alum • aqua fortis • aqua regia • bightsilver • bronzewood • dragon's blood • ebony • electrum • lichstone • lime • molybdena • oil of vitriol • obsidian • potash • relic iron • rubellite • silex • tear of Ubtao • tinplate • vellum
+
+Locations
+Landmarks
+ Abyssal Grotto • Darklake • Driftwood Tavern • Throne of the Dwarven Gods
+
+Settlements
+ Gauntlgrym • Mantol-Derith • Neverwinter (Protector's Enclave) Shallow Waters
+
+Vellosk
+
+Magic
+Artifacts
+ Bruenor's helm • horn of Valhalla
+
+Items
+ drums of panic • soulsight spectacles
+
+Other
+ demonic ichor • faerzress • residuum (abyssal, fartouched) • spellthread
+
+Potions
+ fever reducer • maple rot draught
+
+Organizations
+ Ashmadai • Harpers • Red Wizards
+
+Grinning Ponies
+
+Religion
+ Moradin
+
+Appendix
+Notes
+
+External Links
+ Underdark Developer Hub
+ Patch Notes: Underdark
+ Neverwinter: Underdark is Live!
+
+References
+
+Connections
+
+---
+
+## Neverwinter: The Maze Engine
+
+Neverwinter: The Maze Engine is the 9 campaign expansion module for the Neverwinter massive-multiplayer role-playing game. Released in March 2016, the expansion added a new campaign, re-introduced four previously-removed dungeons, along with a new system for in-game mounts.
+
+Features
+ The Maze Engine Campaign
+ Updated Queue System
+ The return of 4 Leveling Dungeons
+ The return of a reworked Castle Never
+ Stronghold Economy Changes
+ Campaign Updates
+ New mount system
+ The Shaundakul Lockbox
+ New Enchantments
+ New Artifact Set
+
+Plot
+
+Following the defeat of the Demon Prince Demogorgon, the Heroes of Sleeping Dragon Bridge and their allies Drizzt Do'Urden and Bruenor Battlehammer began to close the portals to the Abyss that allowed demons to pour into Gauntlgrym. Afterwards they were attacked by a servant of Baphomet, Lans Thuliaga, who insisted the fiends were their "salvation" before eventually fleeing from the underground realm. As they left Gauntlgrym, the heroes were assailed by cultists of the Eternal Flame who sought to take the dwarven realm for their own. As more tears into the Abyss appeared, the group was rescued by Linu La'neral and granted an escape from the once-again overrun Gauntlgrym. As Bruenor and Linu sought out allies for the dwarf lord's kingdom, Drizzt and the Heroes allied themselves with Minsc and the Emerald Enclave to defeat the cell of fire-worshiping cultists. They defeated the cult leader General Fury and rescued the injured knight, Lucas Shaneway III of the Lords' Alliance. For the heroes' efforts, Lucas offered the aid of the Lords' Alliance to Bruenor's cause.
+
+Upon their return to Neverwinter, Lord Neverember informed the group that demons were emerging from the Chasm to attack the city of Neverwinter outright. With the aid of Linu's divine magic, the Heroes of Sleeping Dragon Bridge were able to descend into the Chasm. While resting underground, the group once again encountered the now-friendly goliath known as Lans Thuliaga who had been fighting demons with the Order of the Gauntlet. The goliath was confused as to their mention of a previous interaction as he had no memory of being in the Underdark for months and none whatsoever of their previous battle. Working together the group managed to defeat a balor within the depths beneath the city. As the tanar'ri fell, Lans became possessed and told the Heroes that Baphomet would reshape the world with the Maze Engine and warned them to stay out of the Underdark, before vanishing through a portal. The heroes returned to Mantol-Derith alongside the Neverwintan warlock Makos, who shared information about the reality-altering Maze Engine.
+
+When the group returned to Neverwinter, they witnessed the takeover of Castle Never by Orcus, as the demon lord sought out the phylactery of the dracolich Azarzhel, former ally of Valindra Shadowmantle. The heroes fought through the hordes of demons and undead that were under the command of the Prince of Undeath, and struck him down from the face of Faerûn.
+
+As agents of the Zhentarim discovered archmage Vizeran DeVir was fighting Baphomet's forces as well, but could not uncover his whereabouts, Makos suggested the Orb of Remembrance could aid in finding his location. Makos and the heroes recovered the orb from an abandoned Cult of the Dragon lair in the Underdark, outrunning the red dragon Larauthtor and defeated the Thayan lich Zalia in the process. The group used the artifact to determine Vizeran could be found at Araj Tower and traveled to seek an audience alongside Drizzt. Vizeran DeVir told the heroes the Maze Engine could be found within the Labyrinth, under Baphomet's control, and offered to portal them to the location, provided they gather the necessary components. The drown archmage required grimoires from each of the four elemental cults, and the personal tome of Gromph Baenre.
+
+With the aid of many of their allies, including Drizzt, Minsc, Lucas Shaneway III, the halfling Companion Regis, and even Celeste and Sergeant Knox, the Heroes of Sleeping Dragon Bridge recovered all four of the grimoires, traveling from Gauntlgrym, to Spinward Rise, and finally Helm's Hold and Reclamation Rock. During the heroes' journey across the Sword Coast North, Drizzt and Regis found the location of Gromph Baenre's tome near Menzoberranzan, which the heroes recovered from the roguish leader of Bregan D'aerthe, Jarlaxle Baenre. He warned the heroes that it was Gromph himself who summoned Demogorgon and the other demon lords into the Underdark. Just before the heroes departed, the group were assailed by demons under the lead of Lans Thuliaga. After a brief battle, the Baphomet-worshiping goliath fled and the heroes were allowed to continue on. Studying the books they had gathered together, Makos and Grazillax determined that Vizeran planned to kill Baphomet, but could discern his plans regarding the Maze Engine. Undeterred from their quest, the heroes delivered the books to Vizeran at Araj Tower, who began work on his ritual.
+
+Meanwhile, the Heroes of Sleeping Dragon returned to reclaim the bridge that led to Gauntlgrym, aided by Minsc, the Companions of the Hall, Linu La'neral, and the heroes of the Neverwinter Vanguard - all of whom had come to help defeat Baphomet. They slaughtered the demons, closed the tears that led to the Abyss, and confronted Lans Thuliaga once and for all. As the heroes kept him engaged in battle, Linu La'neral and Celeste performed a ritual to cleanse him of his demonic corruption. When they returned to Mantol-Derith in triumph, Vizeran opened a portal to Baphomet's Labyrinth, and the group of heroes ventured into the demon lord's domain. The assembled heroes managed to defeat the ferocious Baphomet, who wielded the power of the Maze Engine against them, striking down the demon lord from Toril. After the victory, Vizeran attempted to claim the Maze Engine for himself, but was cast down by Makos, doomed to the same fate of Baphomet: banished to the Abyss.
+
+With Baphomet slain, Bruenor invited everyone back to Gauntlgrym for a feast in their honor. He declared that they would forever be known as Heroes of Gauntlgrym, and even named the Heroes of Sleeping Dragon Bridge as honorary members of the Companions of the Hall. Meanwhile in the depths of Gauntlgrym, the fire cult leader Vanifer was visited by a projection of Vizeran DeVir, who named himself Harbinger of the Elemental Eye...and Vanifer's true master.
+
+Index
+Characters
+ Baphomet • Boo • Bradda • Bruenor Battlehammer • Drizzt Do'Urden • General Fury • General Onyx • Grazilaxx • Jarlaxle Baenre • Lans Thuliaga • Linu La'neral • Lucas Shaneway III • Makos • Markath • Minsc • Orcus • Portobello DaVinci • Respen Durothil • Valden Burningheart • Vizeran DeVir
+
+Catti-brie • Gromph Baenre • Karrundax • Regis • Vanifer • Wulfgar
+
+Creatures
+ aboleth • balor • cloud giant • drow • goliath • lich • moonbear • nalfeshnee • panther • red dragon
+
+Locations
+Landmarks
+ Araj Tower • Burrow Dawn Inn • Castle Never • Cloak Tower • Frozen Heart • Icespire Peak • Mount Hotenow • Pirate King's Retreat • Reclamation Rock • Skull Fortress • Whispering Caverns
+
+Planes
+ Abyss (Endless Maze)
+
+Regions
+ Sword Coast North • Underdark
+
+Settlements
+ Gauntlgrym • Helm's Hold • Mantol-Derith • Neverwinter (Blacklake District, The Chasm, River District) • Spinward Rise • Vellosk
+
+Magic
+Artifacts
+ Baphomet's Infernal Talisman • Demogorgon's Girdle of Might • Globe of the Third Eye • Maze Engine • Shard of Orcus' Wand
+
+Items
+ Orb of Remembrance
+
+Spells
+ antimagic field • disguise self •
+
+disintegrate
+
+Organizations
+ Cult of the Black Earth • Cult of the Crushing Wave • Cult of the Dragon • Cult of the Eternal Flame • Cult of the Howling Hatred • Harpers • Lords' Alliance • Order of the Gauntlet • Zhentarim
+
+Companions of the Hall • battleragers • Company Yargo • Emerald Enclave
+
+Religion
+
+Appendix
+Notes
+
+External Links
+ Announcing Neverwinter: The Maze Engine!
+ Neverwinter: The Maze Engine Coming March 15!
+ The Maze Engine Developer Hub
+ Neverwinter: The Maze Engine is Live!
+
+References
+
+Connections
+
+---
+
+## Net of entrapment
+
+Net of entrapment was an enchanted net of magical strength that obeyed the owner's commands.
+
+Description
+Net of entrapment appeared to be a simple net weaved of rope. A typical net bundle of a net of entrapment was a  square, with  sized squares in its mesh.
+
+Powers
+Nets of entrapment were enchanted to withstand even the strongest creatures, making it significantly harder for others to rip or cut through the net. With the use of a command word, a net could be suspended in the air and dropped on its targets. Similarly, a net could be spread on the floor and ensnare targets, closing upwards, with another command word. The net could be loosened with a command word as well.
+
+History
+In 1340 DR, nets of entrapment were carried by some of the Zhentarim agents that populated the Zhentarim outpost in the vicinity of Phlan.
+
+Notable Owners
+Uthegentel Del'Armgo: the weapon master of Barrison Del'Armgo possessed a net of entrapment until his death in 1358 DR.
+Yvonnel Baenre: a well-equipped Matron Mother of House Baenre owned one of these nets until her death in 1358 DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Neverwither
+
+Neverwither was a relatively mundane enchantment primarily used on blossoming flowers.
+
+Effects
+When cast, neverwither simply prevented flowers from wilting and dying, somewhat similar to the effects of a preservation spell.
+
+History
+In the mid–14 century DR, flowers enchanted with neverwither could be found inside A Kiss Across the Table, a store in Mosstone, Tethyr. The ensorcelled blossoms were used for decoration and available for purchase.
+
+Appendix
+See Also
+Preservation
+References
+
+---
+
+## Necrobane
+
+Necrobanes were special clerics of the Church of Kelemvor.
+
+Activities
+The duty of a necrobane was to seek out and destroy any undead creature. They halted the spread and destroyed animated corpses such as skeletons and zombies. They also sought out undead souls, such as ghouls and wights, so that they might be put to rest.
+
+Culture
+Necrobanes held a burning hatred for all forms of undead. While they casually slaughtered mindless undead, they held pity for the restless souls trapped in undeath and considered it a compassionate act to free them.
+
+This pity and compassion did not extend to beings such as lichs or vampires. They saw lichdom as a premeditated act and considered vampires to be among the most vile creatures.
+
+Abilities
+Necrobanes possessed several abilities to aid them in eliminating the undead. They were immune to the paralyzing touch of ghasts and ghouls. They also had increased strength when casting spells to defend themselves against shadows, spectres, wights, and wraiths. A necrobane's weapon did not suffer any damage when used against the undead.
+
+They had the ability to identify any undead creature by sight, even those concealed by magical means. They also were capable of turning more undead at a time than normal.
+
+A necrobane had to kill an undead creature at least once every other tenday, else they suffered weakness and fatigue. Necrobanes were not capable of casting any magic from the necromantic sphere nor of using any magical items or weapons that duplicated the effects of necromantic sphere spells.
+
+Possessions
+Necrobanes wore black cloaks over their armor. They wore a circlet of silver and neck chain with the symbol of Kelemvor proudly displayed.
+
+Relationships
+Necrobanes loathed necromancers, even if of the same alignment. Most interactions between them resulted in conflict.
+
+Appendix
+See Also
+ Deathslayer, wizards that were devoted to the cause of eliminating undead.
+ Undead slayer, elves that were similarly devoted to slaying undead.
+References
+
+---
+
+## Netherese glass disk
+
+A Netherese glass disk was the name given to a specific type of disk-shaped magical item that originated from the ancient empire of Netheril that allowed an individual to travel without being noticed.
+
+Description
+The disk of dark glass was typically cool to the touch, though it could grow warmer under certain circumstances. When thrown it would light up with a vivid radiance, float in the air, and slowly descend towards the ground. It was considered to be a very simple enchantment for the era in which it was made.
+
+Powers
+While a glass disk created no effects when carried in a pack or other form of storage, when touched by an individual, it caused them to be imperceptible to anyone that was not expected to encounter them.
+
+History
+One of these disks was uncovered by a band of Red Wizards from Thay, and used for their hit-and-run ambushes for a number of years. They carried it during their assault against a caravan headed from the city of Scornubel to Hlondeth, in the, but lost it during the ensuing battle.
+
+The disk was recovered by the mage Druhallen and carried with him during his journeys across the Realms. He sought answers about its origins at Candlekeep, and remained in the dark about its purpose for many years, before finally finding some peace and insight thanks to his time spent studying one of the fabled Nether Scrolls and a conversation with Lady Wyndyfarh of Weathercote Wood.
+
+Appendix
+Appearances
+Novels
+ The Nether Scroll
+
+References
+
+---
+
+## Nelma
+
+Nelma were a common variety of freshwater fish, often found in brackish waters and river deltas outside of spawning season. It was also not an uncommon sight in coastal waters, such as in the Sea of Moving Ice.
+
+Appendix
+Appearances
+Video Games
+
+External Links
+
+References
+
+---
+
+## Nessfettle
+
+Lieutenant Nessfettle was an officer of the Neverwinter Guard that served the great city during the late 15 century DR.
+
+Relationships
+She served under Captain Dunfield and had earned his trust as a reliable officer of the Guard.
+
+History
+Lieutenant Nessfettle led her soldiers into the city of Helm's Hold during the city's siege in the . During the siege, they became overwhelmed by the Ashmadai and their devilish servitors and were forced to barricade themselves within an abandoned home. They endured ongoing attacks until a sergeant of the Guard broke through the Ashmadai forces, help Nessfettle and her men defend against a counterattack and finally head back out to the Last Redoubt camp with their lives.
+
+Appendix
+Appearances
+Video Games
+
+References
+
+---
+
+## Neverwinter's Rangers
+
+Neverwinter's Rangers were a group of outdoorsmen and rangers enlisted by Lord Neverember to protect travel across the Sword Coast North and watch over the smaller settlements and often overlooked communities of the region and ensure their safety.
+
+Organization
+The rangers organized themselves into small bands that comprised volunteers, hired mercenaries, and some elves that dedicated themselves to the safekeeping of the land.
+
+Activities
+While they provided safety for the places they watched over when faced with lesser threats, their smaller bands could be overwhelmed by more grave dangers. Nevertheless, the group as a whole provided good will for the people outside Neverwinter proper with minimal resources needed to keep the group active.
+
+History
+A band of Neverwinter's Rangers led by Dassar Truebow were tasked with protecting Watcher's Forest from Ashmadai cultists that originated out of Helm's Hold. Dassar personally worked with the Hero of Sleeping Dragon Bridge to route the cultists from the Crypt of Vigilance and slay the Ashmadai devil-summoners that were conducting their dark rituals in the woods.
+
+Some time later, the rangers were tasked with investigating the threat posed to Rothé Valley and its village by drow slavers. A handful of their members went unaccounted for during the scouting mission and some were even slain. Dassar again enlisted the aid of his adventurer to stop the slaving operation. Dassar's second Imbross Irri'Karr helped the adventurer lead a slave uprising in the drow camp, and directed them to Mayor Gunderson so they could free the town, and take the attack to the drow of House Xorlarrin at their outpost in the Underdark.
+
+Appendix
+Appearances
+Video Games
+
+References
+
+---
+
+## Necklace of confidence
+
+The necklace of confidence was a unique enchanted amulet that boosted the wearer's self-esteem.
+
+Description
+The necklace of confidence featured single gemstone that blazed with searing bright shimmer.
+
+Powers
+Apart from magically boosting the wearer's self-esteem, the amulet also improved their will and defenses against magics that affected one's resolve and strength of determination.
+
+History
+In 1369 DR, the necklace of confidence could be found within a dried up well of magic water in the Elven Catacombs underneath Castle Cormanthor. The amulet was thrown in there at some point before or during the fall of Myth Drannor in the Weeping War. Later, the room with he well became haunted by bloodthirstily master wight and its four undead servants.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Necrophant
+
+Necrophants were specialty priests devoted to Velsharoon, the Archmage of Necromancy.
+
+Activities
+Most necrophants spent the majority of their time in pursuit of necromantic research, creating hundreds of undead servants in the process. Necrophants often branded a worthless undead creation with Velsharoon's symbol and sent the creature to wander the world. Low-ranking necrophants often helped cure disease and illness in communities in order to raise funds for the church.
+
+Abilities
+Given their specialization in necromancy, necrophants were quite knowledgeable with regards to anatomy and necrology, the lore of undead creatures. Their knowledge of anatomy was useful when harvesting organs or body parts for specific spells and treating diseases.
+
+One of a necrophants most useful abilities was casting both divine and arcane spells related to necromancy, providing a degree of expertise far beyond the typical wizardly or priestly necromancer. Necrophants did not memorize their wizard spells. Instead they prayed for arcane necromancy spells just as they did for divine ones. Necrophants were always able to read and use necromancy spells from scrolls or spellbooks as if they cast read magic.
+
+Initiate Necrophants could cast chill touch and speak with dead once per day. Mid-ranking necrophants could cast spectral hand and animate dead once per day. High-ranking necrophants could cast wraithform and energy drain once per day, and they could also assume gaseous form once per day.
+
+Possessions
+Necrophants carried bludgeoning weapons and did not wear armor.
+
+Appendix
+References
+
+---
+
+## Nether scarab
+
+A nether scarab was a deadly ancient talisman capably of storing, and later releasing, energy from attacks.
+
+Powers
+This item protected the wearer from attacks involving magical and undead energy draining, absorbing that energy into the talisman to be stored. The wearer could release any energy stored in this manner by touching a victim, immediately draining a portion of their life essence and transferring it directly to the wearer of the nether scarab.
+
+Notable Owners
+Kazerabet, a dangerous necromancer from the isle of Sahu, carried a nether scarab.
+
+History
+The precise method for the creation of these items was lost. Kazerabet's Art of Necromancy stated that nether scarabs usually had ten charges, but rare versions existed that held twice as many charges. These items could never be recharged.
+
+Appendix
+References
+
+---
+
+## Net of snaring
+
+A net of snaring was a magic item that could entangle targets. It was generally only usable underwater.
+
+Powers
+This net could be targeted at any single creature within, entangling them to the point where it was difficult for them to move and perform any actions. Ensnared targets would be held for ten minutes unless released by the wielder. Dragons and creatures of similar size could break free of the net within one minute.
+
+Creation
+The hair of korreds could be used to manufacture these nets.
+
+Notable Owners
+Minak al-Zafyi, a shopkeeper in the Grand Bazaar of Huzuz, owned a net of snaring.
+
+Appendix
+References
+
+---
+
+## Necklace of protection
+
+A necklace of protection was a magic item that offered a slight degree of protection to the wearer.
+
+Powers
+These items made the wearer slightly more difficult to strike during combat and provided a small boost to their ability to resist the effects of spells, poison, etc. The effects of a necklace of protection did stack with similar magic items.
+
+Notable Owners
+Brieme, an eladrin from the Sea of Fallen Stars, wore a shell necklace of protection.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Nethertide Horde
+
+The Nethertide Horde was a warband of some 4,000 orcs that sought to invade Silverymoon and Everlund in the .
+
+Base of Operations
+The Keeper of the Vault of the Sages, in annotating the bard Mintiper Moonsilver's first-person account in the poem Moonlight Paean, suggested that the word "nether" in the ballad's second stanza referred to the orcs' origin in the Nether Mountains of Luruar.
+
+Possessions
+As poetically suggested by the fourth stanze of the Moonlight Paean, the orcs of the Nethertide Horde possessed magical talismans of spell reflection, which allowed the orcs to deflect some of the spells cast upon them back at their foes. (Several decades later, witch doctors and shamans of the Thousand Fists orc tribe of the Nether Mountains still knew the secret of crafting such talismans, as did the cambion Kaanyr Vhok, who sought to teach the craft to other orc tribes in the region.)
+
+History
+
+In the Year of the Boot, the Nethertide Horde tried to pour through the valley of Turnstone Pass, with the goal of attacking Silverymoon and possibly Everlund. There they were ambushed by the mercenary group known as the Moonlight Men, led by Mintiper Moonsilver, in the Battle of Turnstone Pass. This "Moonlight's Triumph", as it was called, was immortalized in Mintiper's Chapbook, but it came at great cost, for while all four thousand of the orcs were slain, so too were all but six of the 200 Moonlight Men. The ambush had only been partly successful, because the orcs had their talismans of spell reflection, which lessened the effectiveness of the wizards on the side of the mercenaries.
+
+Appendix
+References
+
+---
+
+## Neck
+
+The Neck was a small strait that connected the Dragonmere in the west with the Sea of Fallen Stars in the east.
+
+Geography
+The Neck also served as part of the border between Cormyr and Sembia.
+
+Appendix
+
+References
+
+---
+
+## Nestaur's Ropes
+
+Nestaur's Ropes was a store in the Dock Ward of Waterdeep.
+
+Location
+This store stood on Dock Street, across from the Sleeping Snake and a few doors down from the Watermens' Hall.
+
+Services
+Nestaur's Ropes sold gear for adventurers, primarily specializing in ropes.
+
+Appendix
+References
+
+---
+
+## Nessmara
+
+Nessmara was a lamia noble who briefly ruled the independent city of Westgate from the, to the . She slew the androsphinx King Lyonarth and took the crown.
+
+History
+Nessmara discovered the fabled Maguscepter. Her bloodline lived on within the lamia nobles who ruled the ruins of Ilimar.
+
+Appendix
+References
+
+---
+
+## Newt's Brood
+
+The Newt's Brood was a witch coven responsible for creation of the set of enchanted chainmail called the Zeal's Walk.
+
+History
+Sometime before 1372 DR, the ladies of the Newt's Brood found them selves a lover in an especially good-looking ranger, Tholan the Beautiful. The witches' paramour often traveled to far away lands and was gone for long periods of time, so the Newt's Brood created the Zeal's Walk to keep track of their wayward consort. Eventually, Tholan married another, an elven woman. To avoid the witches' scorn, the ranger disposed of the magic chainmail, leaving the Newt's Brood unaware of the betrayal.
+
+Appendix
+Appearances
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Nezram's tower
+
+Nezram's tower was once the home of the powerful Mulhorandi wizard named Nezram.
+
+Location
+The tower was found along the outskirts of Azun on the western shore of the Lake of Salt.
+
+History
+Nezram's tower was destroyed by the green dragon Chaathuuladroth in the . The treasure contained within the tower was looted both by the dragon and later by Nezram's descendants. However, the lure of potential hidden powerful magic items lured many adventurers to explore the ruins centuries after its destruction.
+
+Appendix
+References
+
+FR:Tour de Nezram
+
+---
+
+## Nemmet Viccstray
+
+Sergeant Nemmet Viccstray was a strongheart halfling warrior of the militia in the village of Shining Falls in the Delimbiyr Vale in the mid-to-late 14 century DR.
+
+Activities
+Alongside Hethat Deegrell and Jren Prencertal, he served Sheriff Vendal Viccstray.
+
+Appendix
+References
+
+---
+
+## Nell Kirschtorte
+
+Nell Kirschtorte was a kindly baker who ran her pastry business - Nell's Pie Shop, out of her home in Liam's Hold circa 1372 DR.
+
+Description
+Nell was a pleasant and plump middle-aged woman with chestnut hair, always covered in flour. She preferred to wear light blue robes when running her business.
+
+History
+Nell was not rich and could not afford to rent a space so she spent long hours baking and selling her goods from her humble home. She baked bread but her specialty were cherry pies, filled to the brim with elderflower wine drenched red and black cherries, fruit-stuffed eccles cakes, and toffee apples.
+
+In 1372 DR, Nell lived with her young daughter Jemmy Kirschtorte and her pet bat Mr. Barnabus. That year, Nell's daughter became besieged by bad dreams. And after investigation by the Hero of Daggerford it was revealed the family was stalked by a drow vampire Sieronius Dethick. The girl's nightmares came from the vampire searching for a bride to escape his trapping curse underneath Liam's Hold. When the vampire realized Jemmy was a child, he turned his eyes on Nell Kirschtorte. Thankfully, Jemmy was an emerging sorceress and could talk to her bat pet. Mr. Barnabus felt the coming of the creature of the night and woke Jemmy up. When Sieronius arrived to Nell's Pie Shop in his mist form, he realized that the family was not asleep and left them alone, turning his attention to Xanda Pennywell, a seamstress from the same hamlet.
+
+Following the resolution of the vampire situation, Nell Kirschtorte became aware of her daughter's sorcerous talents but was unsure how to deal with it.
+
+Appendix
+Background
+"Kirschtorte" means "cherry gateau" in German.
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+References
+
+---
+
+## Nell's Pie Shop
+
+Nell's Pie Shop was a small bakery business operated by Nell Kirschtorte out of her home in Liam's Hold circa 1372 DR.
+
+Location
+Nell's humble home was located in the north-western part of Liam's Hold, right by a well, overlooking the Trade Way.
+
+Services
+Nell Kirschtorte spent most of her time toiling over hot ovens in her home, churning up fresh breads, pies, and other pastries. The Pie Shop's specialty were elderflower-soaked black and red cherry pies, dried fruit-stuffed eccles cakes, and honey-dipped toffee apples. She also sold pre-made sheets of filo pastry dough.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Necrology
+
+Necrology was the in-depth field of study of undead creatures.
+
+Knowledge
+A necrologist could generally identify what type of undead a creature was, potentially even their weaknesses or natural defenses. They were also knowledgeable in the history of different undead, their dining habits, and where they were likely to lair. When describing substances from undead or their physiological processes, the word "necrological" would be used instead.
+
+Education
+The Chantry of St. Sammaster, a temple run by the Cult of the Dragon, had a library that contained many books and scrolls on the topic of necrology.
+
+History
+This field of study dated as far back as the Netherese Empire, where it was studied by the doomscribes of Jergal.
+
+Notable Necrologists
+Individuals
+ Kazerabet, a powerful Zakharan necromancer of the philosopher variety that trained under Vermissa.
+ Pizentios, a reclusive archetypal necromancer.
+ Sammaster, a powerful mage who discovered the process of dracolichdom, was quite a skilled necrologist.
+ Sarzec, a Zakharan necromancer of the undead master variety and former apprentice to Pizentios.
+ Talib, a Zakharan necromancer of the deathslayer variety and former husband of Kazerabet.
+ Vermissa, an ancient Zakharan lich.
+
+Religions
+A variety of specialty priests in the Realms that were devoted to deities of death were well versed in this field of study. These specialty priests included the following:
+ Divine arbiters, a variety of specialty priest in the Church of Osiris.
+ Doomguides, a variety of specialty priest in the Church of Kelemvor.
+ Doomscribes, a variety of specialty priest in the Church of Jergal.
+ Gray ones, a variety of specialty priest in the Church of Myrkul.
+ Grimwardens, a variety of specialty priests in the Church of Urogalan.
+ Necrophants, a variety of specialty priest in the Church of Velsharoon.
+ Yathrinshee, a variety of specialty priest in the Church of Kiaransalee.
+
+Appendix
+References
+
+---
+
+## Neverwinter: Jewel of the North
+
+Neverwinter: Jewel of the North is an expansion module for the massively-multiplayer role-playing game Neverwinter. Released in July 2021, the expansion revamped the game's leveling system, introduced the bard class, and added a new campaign.
+
+Features
+ New class: bard
+ Revamped leveling system. The maximum level is now 20, down from 80.
+ Revamped tutorial systems.
+ New battle pass campaign: Echoes of Prophecy.
+
+Plot
+
+Index
+Characters
+Corbin • Elminster
+
+Creatures
+ambush drake • Ambush drakedracolich • dragon (black • green • red • white) • hawk • lion • guard drake
+
+Locations
+Ebon Downs •Icespire Peak • Neverwinter • Well of Dragons
+
+Organizations
+Cult of the Dragon • Shield of the North
+
+Appendix
+References
+
+External Links
+ Cinematic trailer
+
+Connections
+
+---
+
+## Netty
+
+Netty was a friend of Footy who lived in the town of Beregost circa .
+
+History
+In 1368 DR, Netty's father was among many disappeared townies who, in reality, were murdered by the addled cleric of Cyric named Basillus. Netty's friend Footy, who lost his brother Johnny and mother under the same circumstances, discovered the cleric's whereabouts and promptly rushed back to her to give good news of finding their families, completely missing the fact that they were zombies.
+
+Appendix
+Appearances
+Video Games
+
+Baldur's Gate
+External Links
+
+References
+
+---
+
+## Nessa
+
+Nessa the Cow was Dreppin's favorite animal who loved in the library citadel of Candlekeep circa 1368 DR.
+
+History
+In 1368 DR, Nessa the Cow woke up feeling under the weather and her owner wanted a potion of antidote retrieved from his buddy Hull in order to cure the bovine affliction. Hull had several of these epotions as he used them to cure his morning morning hangovers.
+
+Appendix
+Appearances
+Video games
+Baldur's Gate
+
+References
+
+---
+
+## Nexlit
+
+Nexlit was the leader of cattle-raider tribe of xvarts of the Cloud Peaks area west of Nashkel in the mid–14 century DR.
+
+Possessions
+Nexlit the Xvart was armed with a simple short sword.
+
+History
+As of 1368 DR, Nexlit led his tribe to raid, kill, and capture cows from the local farmers. One such raid was led to the Lonely Peaks where Nexlit's xvarts attempted to massacre Hulrik's bovine companion. Nexlit believed that his tribe was protected by Ursa the cave bear who resided nearby. He called the bear kind; however, Ursa felt no particular kinship with the diminutive humanoids and was likely to rend them as it was to rend any adventurers trying to stop xvart cattle raids.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate
+
+References
+
+---
+
+## Nelazra
+
+Nelazra, who was also called the Old Mother, though never to her face, was the guildmaster of the Nighteyes in Calimport some time before the 14 century DR.
+
+History
+Nelazra, along with the rest of the Nighteyes, were eventually slain by the Brothers Six, a rival group of mages.
+
+Relationships
+It was rumored that she was lovers with her lieutenant Shadowhands.
+
+Appendix
+References
+
+---
+
+## Netherese Caverns
+
+The Netherese Caverns was a large network of caverns.
+
+Geography
+The Netherese Caverns were located in the Upperdark beneath the Wood of Sharp Teeth.
+
+Description
+The caverns were named for the ruins of an ancient Netherese city, Philock, located in the center of the caverns. Tombs found through the caverns were a target for brave treasure hunters.
+
+Inhabitants
+An unknown evil lurked the caverns, hunting those foolish enough to attempt to loot the ruins and tombs found within.
+Appendix
+References
+
+---
+
+## Necklace of mystic eidolons
+
+Necklaces of mystic eidolons were rare enchanted necklaces that could create a projected image of the wearer.
+
+Description
+These items always appeared as a plain metal chain with pendants shaped like pyramids.
+
+Powers
+These necklaces had 2–9 pendants. When one of the pendants was twisted free and smeared with the wearer's blood, a projected image of the wearer would appear. The user could see through the eyes of their image and move it about by concentrating. Spellcasters could cast a single spell through their image and then it would vanish. The link between the user and their image could penetrate all known physical and magical barriers.
+
+A pendant would wither away and vanish if blood did not come into contact with it within ten minutes of it being twisted free. Each pendant could only be used once and a necklace of mystic eidolons could not be recharged.
+
+Appendix
+Appearances
+Adventures
+Haunted Halls of Eveningstar
+Video Games
+Dungeons & Dragons Online
+References
+
+---
+
+## Nentyar hunter
+
+Nentyar hunters were the protectors of the wild lands in the Unapproachable East. They served the Nentyarch and the Circle of Leth with both weapons and magic; their training formed resourceful and self-reliant defenders of the wild.
+
+Most hunters were druids and rangers, with some fighters or rogues, but very few arcane magicians and even less druids; the Nentyar hunters were sworn to serve the latter.
+
+Activities
+In, Nentyar hunters were part of the organization of the Great Dale, carrying messages around the clanholds. Nentyar rangers also served sometimes as arbiters between clans. They also guarded Narfell ruins from potential troublemakers.
+
+Abilities
+Nentyar hunters' abilities centered primarily on tracking and overland speed. All Nentyar hunters were capable of moving through any sort of nonmagical brush no matter how thick without breaking their stride, or even breaking a sweat. They soon learned how to track while moving at normal speed, and then how to increase their normal speed. Close to the pinnacle of their abilities, Nentyar hunters developed far sharper eyes, and at the full pinnacle of their abilities, they gained a supernatural immunity to fear.
+
+Perhaps more important was their ability to call upon divine magic; a Nentyar hunter followed a drastically accellerated progression through the Mysteries, being able to use spells mainly drawn from those of druids, with a small amount of arcane spells that they learned to cast as divine ones: they could cast both force orb and green fire. At the pinnacle of their progression, a Nentyar hunter was able to use even find the path, though it was stronger than all the other spells they could cast.
+
+Notable Nentyar Hunters
+ Elowen
+ Fallon
+ Anom
+ Cirid
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Neveris Bikou
+
+Neveris Bikou was the leader of Chondath circa 900 DR, during the Rotting War in the Vilhon Reach.
+
+History
+In 900 DR, Neveris Bikou sent Chondathan armies to Hlath, following the increased political power of the governors of Hlath and Reth. The two cities joined forces in a bloody battle on the south side of the River Nun against Neveris' armies, marking the start of the Rotting War. The following year, in the spring of 901 DR, Hlath and Reth turned against each other. The city of Hlath was facing advancing armies of both Neveris Bikou and the city of Reth. Archmage Whinonas Ferentier, the governor of Hlath used deadly magics of Netheril against its enemies. The resulting battle of spells resulted in heavy losses on all sides of the conflict. By 902 DR, the civil war in Chondath was officially named the Rotting War.
+
+Neveris Bikou of Arrabar, and his counterparts from Hlath and Reth all grew tired of the war and ordered their wizards to unleash the deadliest of the spells in attempts of reaching swift victory. The site of the battle was the Fields of Nun. Unleashed necromantic spells swallowed all three armies, infecting them with deadly and torturous arcane afflictions. This reckless use of Netherese magics resulted in the deaths of one-third of all troops involved, all happening within mere minutes after the spells were unleashed. The battle survivors spread the afflictions across the land, resulting in a plague that put an end to the Rotting War. Neveris Bikou never reclaimed control of neither Hlath nor Reth. Eventually, Chondath granted independence to what was to become Sembia.
+
+Appendix
+References
+
+---
+
+## Nethpranter's Street
+
+Nethpranter's Street was a street of corduroy-logs in the Trades Ward of Waterdeep.
+
+Geography
+This street ran southeast off of Sleeper's Walk, running roughly parallel to the Wide Way. Along the way it intersected Slipstone Street and Quill Alley, until eventually terminating on the Court of the White Bull.
+
+Notable Locations
+House of Textiles Guildhall of the Most Excellent Order of Weavers and Dyers.
+Home of Iliphar A rowhouse owned and lived in by Zeltabbar Iliphar, which featured a library that he and his daughters tended to.
+
+Appendix
+References
+
+---
+
+## Nere
+
+Nere was a drow leader within the cult of the Absolute that dwelled within Moonrise Towers during the late 15 century DR. He famously launched a failed excavation into the ruins of Grymforge in the name of the Absolute that nearly led to his own death.
+
+Personality
+He was an egocentric individual who did not take ownership of his failures but rather projected them onto others.
+
+Possessions
+Nere wore a set of lavish black robes, with a fur-line half-cloak fastened by a talisman bearing the symbol of the Absolute, along with a very old pair of Night Walkers. He wielded a magical rapier called the sword of screams.
+
+The True Soul was also in the possession of a moonlantern, a magical light sourced that granted him passage through the shadow-cursed lands around Moonrise Towers.
+
+Relationships
+Nere was subordinate to an individual referred to as the General, one of the Absolute's three most powerful servants.
+
+History
+In the, Nere was tasked with leading an excursion into the depths of Grymforge in order to find a long-lost Shaaran temple. Nere directed Sergeant Thrinn and her fellow duergar cultists, along with the dwarven mercenaries of Clan Flameshade, and set up within the abandoned halls of Grymforge. They enslaved the deep gnomes of Clan Ironhand and forced them to dig through the earth towards the entrance to the temple. Unfortunately for Nere, he remained at the front of the dig just as neared the temple's front doors, and became trapped with the gnome miners after the tunnel collapsed behind them.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+External links
+
+References
+
+---
+
+## Nendra
+
+Nendra was a notable wu jen in the nation of T'u Lung around .
+
+History
+Nendra lived in the great city of Balanzia, a century prior to its destruction. There they lived in the western reaches of the city, just across the street from the shop of Tugubo the Lance-maker.
+
+Appendix
+References
+
+---
+
+## Neely
+
+Neely was a cheesemaker and the proprietor of Neely's Cheese store in the Living District of Arrabar, on the Slake Street in the late 14 century DR.
+
+Description
+Neely was a kind man who felt protective of his young employee Mirolyn Skolotti and her blind, aging mother – Nimra Skolotti.
+
+History
+In the, a sister of Neely's employee Mirolyn Skolotti, was murdered by supposed members of the Municipal Guard of Arrabar who claimed she was falsely advertising herself as a wizard via forehead markings. Several days after the young woman's death, Vambran Matrell paid a visit to Neely's store, seeking to speak about Mirolyn's sister in privacy. The cheesemaker allowed Nimra and Mirolyn Skolotti to use his private quarters above the store. The conversation aided Vambran's investigation of the commoner's unjust death.
+
+Appendix
+Appearances
+Novels
+The Sapphire Crescent
+
+References
+
+---
+
+## Neely's Cheese
+
+Neely's Cheese was a cheesemaker's shop located on Slake Street in the Living District of Arrabar.
+
+Location
+Neely's stood on Slake Street, a short walk away from one of the Living District's large open-air markets.
+
+Structure
+A sign with Neely's name hung outside the shop's doors. The store was inside a small square building with a courtyard in its middle. A backroom attached to the store's front had an exit into the courtyard and stairs up to the second floor. The upstairs floor had several rooms, a patio facing Slake Street, and each side of the square had a balcony overlooking the central courtyard. The center square had a single rainwater barrel, and all walls were covered in climbing plants and flower-filled hanging baskets, typical for the city of Arrabar.
+
+History
+Circa the, Neely's Cheese employed a young commoner woman named Mirolyn Skolotti. In 1373 DR, her sister was murdered by supposed members of the Municipal Guard of Arrabar who claimed she was falsely advertising herself as a wizard via forehead markings. The deed was witnessed by Vambran Matrell of the Order of the Sapphire Crescent who took it upon himself to investigate the injustice. When Vambran tracked the killed woman's family, Mirolyn and her aging blind mother Nimra Skolotti, they agreed to be interviewed by the young noble in the privacy of Neely's Cheese's patio, away from prying eyes.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Nemesis
+
+Nemeses were specialty priests of the Church of Hoar who dedicated their lives to pursuing wrongdoers who escaped justice for the sake of revenge.
+
+Activities
+Once a target was selected nothing would deter a nemesis from their task. When vengeance was achieved the nemesis was required to contact the original victim of the wrongdoer's offense to inform them that they had been avenged. If the original victim was deceased then the nemesis needed to speak with dead for this to happen. A nemesis could not begin the hunt for another target until these tasks were completed.
+
+Culture
+All nemeses, or someone close to them, were wronged at some point during their lives, sparking an obsession deep within that fueled their determination when hunting their targets. Someone could instantly tell that a nemesis was well-traveled just by looking at them. Their stare bore right through people as if they were analyzing their soul.
+
+Abilities
+When tracking a target a nemesis could perform a night-long prayer vigil which would reveal the cardinal direction where their target was located. A brief vision of the target's surroundings was also revealed. Nemeses were capable of turning undead like normal priests.
+
+Possessions
+A nemesis was not restricted in the type of armor they could wear nor the kind of weapon they wielded. Regardless of their gear, all nemeses proudly displayed a bronze symbol depicting a two-faced man staring in opposite directions.
+
+Relationships
+Nemeses often worked well with either a scale or hand of Tyr given that their objectives often overlapped. However, the nemesis was not bound by the law and would do whatever was necessary to accomplish their goals.
+
+Appendix
+References
+
+---
+
+## Netaph
+
+Netaph was the divine realm of the Pharaonic and Mulhorandi deity of conflict and war, Anhur.
+
+Cosmology
+Under the Great Wheel cosmology, this divine realm was within the plane of Ysgard, on the layer of Asgard.Powers & Pantheons calls Anhur a "Lesser Power of Arcadia", where some other prominent Mulhorandi deities reside, but which does not fit his alignment. His domain is stated to be on the layer of Ysgard, suggesting he comes from the plane of Ysgard. This is confirmed by the sourcebook On Hallowed Ground. It encompassed an earthberg that was shared with Merratet, the divine realm of Bast, which was on the far side of the ocean that bordered Vanaheim.
+
+Under the World Tree cosmology, Netaph was said to be part of Heliopolis, a neutral plane that was shared by all members of the Mulhorandi pantheon. There it stood between a dry, barren desert and the fertile valley of Succor.
+Planar Traits
+Within this realm a great deal of old forms of magic thrived, hoarded there by Anhur himself. Many of these forms of magic were long since forgotten, lost to sages of the planes. In addition, all schools of magic were enhanced on Netaph.
+
+Geography
+Netaph was a cool and temperate land, dotted with adobe and narrow canyons.
+Flora & Fauna
+This realm was known for its birds of prey, which included domesticated eagles, falcons, and owls. These birds often flew in circles, awaiting a moment to strike.
+
+Notable Locations
+ In the World Tree conception of this realm, Anhur was said to live within a grand temple-palace at its very center.
+
+Inhabitants
+Unlike petitioners elsewhere in the plane of Ysgard, those of Netaph did not wage war against one another. Instead they regularly traveled to and stormed the Abyss, the Gray Waste of Hades, and elsewhere in the Lower Planes to wage war upon the forces of evil.
+
+The only equipment and weapons these petitioners had was ancient, but it was quite durable and finely crafted. These included such things as chariots. The spells and weapons wielded by these petitioners were said to be unlike anything seen before by the fiends they fought. And their arrival was almost always preced by thick flocks of birds of prey, so dense that they could darken the sky for miles in every direction.
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Neverwinter: Dragonbone Vale
+
+Neverwinter: Dragonbone Vale is an expansion module for the massively-multiplayer role-playing game Neverwinter. Released in February 2022, the expansion continued the Cult of the Dragon storyline that started in the previous module, Jewel of the North.
+
+{{Quote|In Dragonbone Vale, the evil lich Valindra Shadowmantle has returned to threaten the Sword Coast alongside the Cult of the Dragon, who have come to possess an ancient artifact with the potential to amplify their foul rituals of undeath. Under the leadership of famed wizard Elminster Aumar, the brave Heroes of Neverwinter will need to work with the allied factions of Protector's Enclave, to reclaim the Dragonbone Vale and put a stop to the Cult's plans.|Excerpt from the press release}}
+
+Features
+ New Adventure Zone: Dragonbone Vale
+ New grappling hook mechanic
+ Faction reputation system
+ New trial: the Crown of Keldegonn
+ New Epic Adventure: Scaleblight Mythal
+ Quality-of-life improvements to the refinement and enchantment systems
+
+Plot
+
+Index
+Characters
+Aelioth • Alphonse Knox • Ancient Machination • Celeste • The Charred One • Drakken • Elminster • Etrien Sael • Gisentraxia • Kavatos Stormeye • The Mad King • Orgnir the Lost • Palhavorithyn • Patrik Poagstone • Valindra Shadowmantle • Xuna
+
+Baruloxis
+
+Creatures
+ambush drake • dire bear • dracolich • dragonbone golem • dread warrior • frost giant • guard drake • iron golem • lich • red dragon • skeleton • toad • wight • zombie
+
+Locations
+Dragonbone Vale • Keldegonn • Neverwinter • Quellwater Tarn • Scaleblight Summit • Sword Mountains • Whetstone Thicket • Wyrmbone Marrows
+
+Thay
+
+Magicmythallar • scaleblight mythal''
+
+Organizations
+Cult of the Dragon • Emerald Enclave • Harpers • Lords' Alliance • Order of the Gauntlet • Red Wizards of Thay • Shield of the North
+
+Miscellaneous
+dragonsight • grappling hook
+
+Appendix
+References
+
+External Links
+ Launch trailer
+
+Connections
+
+---
+
+## Necklace of sending
+
+Necklaces of sending, also referred to as pendant of sending, were enchanted pieces of beautiful jewelry that acted as a limited power version of sending stones.
+
+Description
+Some of the necklaces of sending created in Sembia were pendants made out of large teardrop-shaped gray opals with beautiful swirls of pale lavender, orange, and green. The stones were hanging off of delicate golden chains.
+
+Powers
+The owner of the pendant could concentrate on a person while holding the opal to send them a message as if via the sending spell. This ability could be used only once per day and messages had to be relatively short. The target of such magical messages could talk back to the sender.
+
+Notable Owners
+Emriana Matrell, the younger sister of Vambran Matrell of the noble House Matrell of Arrabar received a Sembian necklace of sending from her brother as a gift for her 16 birthday in 1373 DR.
+
+Appendix
+See Also
+Sending stones
+
+Appearances
+Novels
+The Sapphire Crescent
+
+References
+
+---
+
+## Nelandrion
+
+Nelandrion was a star elf from Sildëyuir. When Kiril Duskmourn returned there in, she recognized him amongst the ruins of Moonveil Citadel from visits back when she was young. He was dead, with his eyes plucked.
+
+Appendix
+Appearances
+Novels
+
+Stardeep
+References
+
+---
+
+## Necalama
+
+Necalama was a half-elf inhabitant of the Yuirwood in the late 14 century DR.
+
+Personality
+Necalama showed great selflessness, being willing to guide travelers through portals in the Yuirwood for no price. He also found roars and snarls from great predators to be of no consequence.
+
+History
+In, he guided Raidon Kane and Adrik Commorand during the snow season, some time after Midwinter, for two days towards a rune stone column leading to Relkath's Foot. Crossing the threshold deposited them in the town, where he told them about the Royal Hall and about two inns, the Green Man and The Taproot. He recommended they try the rootweal at Green Man, and eventually relented in accepting two gold pieces from Raidon.
+
+Appendix
+Notes
+
+Appearances
+Novels
+Stardeep
+References
+
+---
+
+## Nerul
+
+Nerul was the Second Mate aboard the Vigilant circa 1374 DR.
+
+Description
+Nerul was an older human male who eagerly served Captain Lastri Kassireh.
+
+History
+In the, Captain Lastri Kassireh and the Vigilant sailed from the Sword Coast to the nation of Samarach on the Chultan Peninsula. Onboard the ship were several passengers, including Volothamp Geddarm who traveled to meet with a wealthy yuan-ti merchant, Sa'Sani. The voyage was cursed with bad luck and numerous strange occurrences: food supplies were mysteriously spoiled; freshwater barrels ruptured; one of the crew, Kellen, got drunk and drowned; Volo almost got poisoned; and new ropes became frayed—in reality, sabotage.
+
+While most of the crew's lives ended in a deadly storm, Nerul survived. The Vigilant's shipwreck was washed ashore not far from the city of Samargol, and Nerul was captured by a cannibalistic Batiri tribe under Chieftain Taelunangul's rule.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Storm of Zehir
+
+References
+
+---
+
+## Net
+
+A net was a tool generally intended for fishing or hunting, but which was often adapted as a weapon intended for entangling opponents.
+
+Description
+Nets were webs of woven rope or cord designed to trap creatures inside them. They were thus useful for fishing and for making hunting snares and traps. A net was easily three times as effective at catching fish as compared to using a fishing rod or spear.
+
+Weaponology
+Nets intended for fighting were often  in diameter and were fitted with barbs or weights to better ensnare the target. They included an attached rope to allow the wielder to throw the net and then control the victim from a distance. To be thrown effectively, a net had to be properly folded such that it would spiral open and engulf the target. Folding a net in the midst of battle took about a minute for a trained wielder. They could generally only be thrown up to about  or could be dropped on targets from above.
+
+Nets could also be wielded as melee weapons, and skilled wielders could use them to disrupt, parry, and ensnare foes.
+
+Ensnaring a target in a net was an effective way to limit a foe's mobility, to break a spellcaster's concentration, or to disarm a weapon. A captured target could escape an average net by either cutting through it or tearing through it with sufficient strength, but doing so was often injurious and left them vulnerable to attack.
+
+Nets were a critical component of underwater combat, allowing wielders to trap a target in order to strike. Larger nets could be used to encircle enemies, while thrown nets were heavily weighted in order to both offset the drag of the water and to more effectively limit an ensnared target's mobility. Nets could also be easily concealed or disguised as seaweed in order to set an ambush.
+
+Availability
+ Nueth's Fine Nets, a shop in Waterdeep that specialized in rope and rope-related products such as nets.
+ The city of Tantras was well known for having a number of expert netmakers. A typical rope shop was owned by one or more masters, with six to eight skilled workers and a handful of apprentices in their employ that all worked to ‘weave’ ropes into nets by hand.
+
+Notable Nets
+ Arygantor the Coral Net, a powerful artifact made by Nyratiis for the aquatic elf rulers and generals of Serôs in the .
+ Net of entrapment, a net imbued with magic to make it harder to break.
+ Net of plenty, an enchanted fishing net.
+ Net of snaring, similar to a net of entrapment except optimized to launch forward underwater.
+
+Notable Owners
+
+General
+ Nets were a popular weapon in gladiatorial fights.
+Groups
+ The Huroola tribe solely permitted male members the use of nets for fishing.
+Races & Sentient Creatures
+ The frog-like sivs favored the use of nets.
+ Troglodytes commonly kept their eggs swaddled in the safety of leather nets as they incubated in waterways.
+ Undersea races—such as aquatic elves, kuo-toas, locathah, merfolk, nixies, and sahuagin—made extensive use of nets in battle. Sahuagin were known to be particularly skilled in their use, and locathahs used special nets to snatch their foes' weapons from their hands.
+Religions
+ Guides, the specialty priests of Lucha, favored the use of nets in combat.
+ Joydancers, the specialty priests of Church of Lliira, were permitted to wield nets without violating their vows. The weapon was favored among mystics.
+ Nets were a favored weapon of Eldath and thus were often favored in combat by peacemen, a variety of specialty priest in her church. Her avatars also wielded an enchanted net, known simply as Net.
+ The favored weapon of Marduk's avatars was an enchanted net that was said to be made of the four winds and was unbreakable so long as he stood within  of it.
+ Waterwalkers, a variety of specialty priest in the Church of Istishia, favored the use of nets in combat.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Necklace of memory enhancement
+
+A necklace of memory enhancement was a magical amulet that greatly improved the wearer's powers of recall.
+
+Description
+It was fashioned from brass.
+
+Powers
+The wearer became immune to all forms of memory loss, whether due to magical or natural causes, like a forget spell. Furthermore, they gained an eidetic memory, being able to perfectly recall any event witnessed, any conversation heard, or any book read up to seven days previously, though beyond this time their memory was as normal. Moreover, they had to have been wearing the necklace of memory enhancement at the time.
+
+It had no impact on how a wizard memorized spells or forgot them after casting.
+
+Notable Owners
+Adzerak, a lich and bibliophile devotee of Deneir, kept a necklace of memory enhancement on a hook in his nightstand in his lair in Cormyr around 1367 DR.
+
+The curators of the Hall of Maps at the House of the Moon in Waterdeep, already possessing excellent memories, shared a necklace of memory enhancement to find specific maps in the unlabeled scroll tubes.
+
+An unidentified woman in Ravens Bluff wore a necklace of memory enhancement, which was a family heirloom, in the mid-to-late 14 century DR. She may have given it as a reward to an adventurer who saved her 5-year-old daughter from drowning.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Netherworld knowledge
+
+Netherworld knowledge was the in-depth field of study of the Outer Planes, how they related to Toril, and the afterlives within them.
+
+Knowledge
+Those who specialized in this field could generally identify extraplanar creatures, such as baatezu and tanar'ri, and were knowledgeable of their behaviors. They could also potentially identify the weaknesses or natural defenses of such creatures.
+
+History
+This field of study dated as far back as the Netherese Empire, where it was studied by the doomscribes of Jergal.
+
+Notable Specialists
+Individuals
+ Kazerabet, a powerful Zakharan necromancer of the philosopher variety that trained under Vermissa.
+ Pizentios, a reclusive archetypal necromancer.
+ Sammaster, a powerful mage who discovered the process of dracolichdom, was quite skilled in this field.
+ Sarzec, a Zakharan necromancer of the undead master variety and former apprentice to Pizentios.
+ Talib, a Zakharan necromancer of the deathslayer variety and former husband of Kazerabet.
+ Vermissa, an ancient Zakharan lich.
+
+Religions
+A variety of specialty priests in the Realms that were devoted to deities of death were well versed in this field of study. These specialty priests included the following:
+ Divine arbiters, a variety of specialty priest in the Church of Osiris.
+ Doomguides, a variety of specialty priest in the Church of Kelemvor.
+ Doomscribes, a variety of specialty priest in the Church of Jergal.
+ Gray ones, a variety of specialty priest in the Church of Myrkul.
+ Grimwardens, a variety of specialty priests in the Church of Urogalan.
+
+Appendix
+References
+
+---
+
+## Nether Mukshar
+
+Nether Mukshar was a once-prosperous realm in the Border Kingdoms that fell from grace during the Spellplague but continued to cling onto existence for a long time afterward.
+
+Description
+Nether Mukshar was a small, well-irrigated land of hillocks and wild meadows.
+
+Geography
+As one of the three Mukshar realms, Nether Mukshar was located on the northwestern coast of the Border Kingdoms, nestled between High Mukshar and Middle Mukshar.
+
+The land took the rough shape of a shield with a flat top edge. It was marked by a crag, surrounded on three sides by bogs, at it's northwesternmost corner; a long, stony ridge at it's northeasternmost corner; and the highest hill in the realm, named Hareph's Tor, at it's southernmost point. Right in the middle of the 'shield', where all of the realm's roads met, was the market village of Clovarren.
+
+Government
+Nether Mukshar had no government after the death of it's last recorded ruler, High Duke Davert Flameblood. Although an autocrat, Duke Flameblood ruled capably and justly, seeing his realm through a golden age of prosperity and innovation, though this would have not been possible without his two predecessors, who laid the groundwork for his success.
+
+What few Netherans were left living there after the Sundering looked to the semi-retired adventuring party calling itself Roval Dree's Ready Swords for protection and law.
+
+Trade
+Modern Nether Mukshar produced more than enough crops to subsist on and enough lumber for a very small-scale forestry industry, but by far the most valuable trade goods available were the pre-Spellplague inventions made by the artisans and craftsmen of Edgestone House.
+
+In the years immediately before the Spellplague, Nether Mukshar had been described as "a land that was quite possibly the cradle of future Realms-wide importance". This was due to a temple of Gond that had been established that became a center for mechanical innovation. The crafts and machines created in that temple were in high demand by foreign traders, and even a century after it stopped producing such goods, the Netherans still had a surplus of them kept in storage.
+
+Defenses
+Duke Flameblood had two strong castles and had created a standing army to protect the realm from monsters. He also regularly sponsored adventurers to remain within Nether Mukshar's borders. However, after his death, the army disbanded and although adventurers still came to Nether Mukshar, most were not interested in defending the realm but rather looting it's ruins.
+
+History
+Nether Mukshar had a shared history with the other Mukshar realms. Founded by a Tashlutan adventurer named Myrammanas Mukshar who styled himself as King. When King Mukshar died, his will was that his kingdom be split into three, one for each of his three sons to rule over, in an event known locally as the 'Sundering Into Three'. However, within a single month, Nether Mukshar had been conquered by an adventuring band. Then, as is fairly common in the Border Kingdoms, those adventurers were supplanted by new rulers, who were themselves replaced, over and over and over again. Throughout this tumult, the land was harvested entirely of all of it's timber, first in the 12th century Dale Reckoning, then again in the 13th century.
+
+An individual known as Ibryn the Lord of Bandits used his army of brigands to impose peace upon the land, killing or driving out any who would challenge him and turning Nether Mukshar into an island of safety in a sea of turmoil. Later, a farmer-turned-knight named Cartreth Lionshar declared himself 'Nether Lord' and began slaying the local monstrous population while sponsoring the construction of many of Nether Mukshar's roads. Later still came Duke Flameblood, formerly a low-ranking soldier of Tethyr, who built upon the progress made by these two men.
+
+The fortunes of the realm really turned around though when thirty monks and lay followers of Gond found their way to Nether Mukshar and began construction of Edgestone House upon the top of Hareph's Tor. The magical temple started churning out incredibly fine craftsmanship and innovative new inventions after that, drawing all sorts of fame, treasure, and talented folk to the realm.
+Unfortunately, the magic involved in the construction of Edgestone House was it's downfall. When the Spellplague occurred in the, the building's roof collapsed upon it's occupants, killing them. Those who survived fled Nether Mukshar immediately after.
+
+When Duke Flameblood died of natural causes, the officers of his army tore themselves apart in their efforts to succeed him, resulting in nobody being left who was strong enough to claim the Dukedom. Without defenders, monsters and outside threats eventually caused the abandonment of the southern hamlets of Phendree and Barnhallow as well as much of the realm's farmland. Those who refused to abandon their homeland moved to Clovarren, where they fortified the buildings and lived as best they could.
+
+Rumors & Legends
+There was a persistent rumor that some kind of aquatic monster lived in one of Nether Mukshar's many horse ponds that preyed upon those who strayed too close at night, however several attempts were sponsored to find this beast and none of them found any evidence to support the story.
+
+Notable Locations
+ Barnhallow
+ Castle Torn
+ Clovarren
+ Dalonstal Keep
+ Edgestone House
+ Phendree
+
+Appendix
+References
+
+Connections
+
+---
+
+## New Harvest Punch
+
+New Harvest Punch was an alcoholic drink served during the New Harvest Festival in Purfbin Doogrick's home burrow.
+
+History
+New Harvest Punch was one of the highlights of the annual New Harvest Festival, alongside its famous Harvest Stew. The grand gnomish feast was turned into a disaster in the . Purfbin Doogrick and his Shred-o-Matic 1000 wrecked chaos on the gnomish festival attendees. Bald Dame Edza, whose prized wig was destroyed in the calamity, dived headfirst into a sizable bowl of New Harvest Punch to avoid the rampaging machinery.
+
+Appendix
+Appearances
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+References
+
+---
+
+## New Harvest Festival
+
+New Harvest Festival was an annual celebration observed in Purfbin Doogrick's gnomish home burrow.
+
+History
+Each festival was a grand feast with numerous important gnomish guests, copious food, and a presentation of new inventions. The burrow's Chief Cook oversaw the preparation of famous dishes such as large communal pots of potato Harvest Stew and sizable bowls of New Harvest Punch. One celebration, in particular, was remembered well by guests. Sometime before the, young inventor Purfbin Doogrick convinced that year's Chief Cook Bitty Bitterbreath to present his grand invention - Shred-o-Matic 1000. Purfbin guided the machine towards a pile of unpeeled potatoes, imagining the fame and respect the invention would bring him. Distracted, the youth lost control of Shred-o-Matic 1000, and it went for the guests. The massacre resulted in the loss of Dame Edza's prized wig and Mayor Whimblesnort's expensive new silk hat.
+
+Appendix
+Appearances
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+References
+
+---
+
+## Nevae Quar
+
+Nevae Quar was a half-elven ranger and a member of the Sisters of the Blood Moon in the early 14 century DR.
+
+Abilities
+Nevae was a gifted archer, and a talented ranger.
+
+Equipment
+As a ranger, Nevae was clad in her leather armor and carried a shortbow.
+
+History
+Nevae Quar was still a young woman circa the, when she met and swiftly befriended two rock gnome sisters Hylei and Kylei Shadowhand. The trio spent some time traveling together until one fateful night when they came across a site of a goblin ambush in a forest outside Silverymoon. Three fellow adventurers S'feria Ranul, Oagla'ta, and Nyzeil Nighthammer were fighting for their lives, and the trio of friends rushed to help. With all the women dispatching bandits with natural ease, battling in synch, S'feria became enamored with the new allies' battle prowess and convinced them to join her troupe - Sisters of the Blood Moon.
+
+In 1310 DR, S'feria Ranul received a letter—a plea for help from the town of Targos in Icewind Dale. Despite the promise of gold and fame, S'feria led her Sisters to the northern city, answering its pleas for help.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale II
+
+References
+
+---
+
+## Nerren Prentiyuel
+
+Nerren Prentiyuel was the Magister from  to . He was the founder of short-lived settlement of Liontongue in the Shining Lands.
+
+Personality
+He was calm, careful, shy, and soft-spoken, and hated traveling. He lacked the scheming, ambitions, and diversions of mightier mages of his time, such as those of Myth Drannor.
+
+History
+Though he lacked the fame, accomplishments, and might of the leading mages of the day, but he had created a number of spells, such as slow cold, a spell that chilled large quantities of foodstuffs and which guaranteed him riches. He had also begun creating some new and variant combination spells at the time of receiving the office.
+
+After extensive consultation with Mystra and Azuth, he decided that he would sooner approach the task of spreading magic by creating his own settlement to teach magic than by traveling himself. Accordingly, he founded Liontongue on the banks of the Liontongue River.
+
+Nerren was slain by five mages, but slew them as he died. However, this left Liontongue leaderless, and his pupils slew each other, being in turn slain by brigands who sought the bounty of Liontongue. The hamlet was reduced to barely foundations only thirty years after his death.
+
+Appendix
+References
+
+---
+
+## Newfoundland
+
+Newfoundlands were a domestic breed of dog. They were among the largest breeds of dogs and were primarily used as rescue dogs.
+
+Trivia
+Anna Kent was able to transform people into Newfoundlands, as well as other types of animals, through use of her wand of polymorphing.
+
+Appendix
+External Links
+
+References
+
+---
+
+## Neverwinter: Dragonslayer
+
+Neverwinter: Dragonslayer is an expansion module for the massively-multiplayer role-playing game Neverwinter. Released in June 2022, the expansion continues the story from the previous module, Dragonbone Vale.
+
+Features
+ New feature: Dragon Hunts
+ Updated dragon models and mechanics
+ Reworked Trial: Temple of Tiamat
+
+Plot
+
+Index
+Characters
+Aerlyna Everfell • Dhomir • Gurness Stormforge • Smerdiuk Dragonbane • Zaraloth • Zyrephbalananal
+
+Baruloxis
+
+Creatures
+dragon (black • blue • green • red • white) • dragonnel • goblin • lizardfolk
+
+Locations
+Anauroch • Cloak Wood • Lizard Marsh • Spine of the World
+
+Miscellaneous
+dragonsight
+
+Appendix
+Gallery
+
+References
+
+External Links
+ Launch trailer
+
+Connections
+
+---
+
+## Net Street (north)
+
+Net Street The Waterdeep: Dragon Heist map has this street mislabled as Crook Street. was a small road located in the city of Waterdeep.
+
+Location
+The road was found in southern Waterdeep within the Dock Ward. Net Street ran north to south in between Lackpurse Lane near the juction of Dretch Lane in the north and Belnimbra's Street to the south.
+
+Appendix
+Notes
+
+References
+
+---
+
+## New Waterdeep
+
+New Waterdeep was the colony established by the merchant organizations and noble families of Waterdeep on the New World in the mid-14 century DR.
+
+Description
+New Waterdeep was a fort and trade colony that quickly grew to size on par with the New Amn's Helmsport colony. The colony was built mainly through the money and effort of the young families of Waterdeep – House Adarbrent, House Helmfast, House Raventree and House Jardeth. The families ensured that New Waterdeep was a welcoming place on a dangerous continent, promoting old Waterdeep's values.
+
+Unlike New Amn, New Waterdeep did not claim more land than it needed at the time, and when new land was acquired, it was done through purchase or mutually beneficial sharing with the locals. Mazticans received irrigation and technology from New Waterdeep as well as protection.
+
+After New Waterdeep was razed to the ground in 1369 DR. Refugees relocated to Trythosford, and the town was rebuilt on Maztapan Island.
+
+Geography
+The first location of New Waterdeep was built on the Gulf of Kultaka with its wharves on the Maztapan Island – the first landing of the Waterdhavian colonists in Maztica. Immediate neighbors of New Waterdeep included Kultaka and Kultaka City to the southeast, territories claimed by New Amn to the south, and another Waterdhavian colony of Trythosford further along the shores to the north.
+
+Government
+New Waterdeep was governed by the council of twelve elected officials – all elders and members of noble families that resettled to the new continent. Despite the open business practices and politics, many locals were wary that New Waterdeep was in danger of becoming just as greedy and corrupt as the Old World's Calimshan or Amn.
+
+Trade
+The growth was fueled by heavy transoceanic trade, wide-open space, and friendly relations with the Maztican nations. The alliances between the locals and New Waterdhavian Borderlands territory made the colony the preferred trading settlement, and the fact that New Waterdeep offered better quality products and better variety didn't hurt either. Most Maztican merchants traveled to New Waterdeep unless stopped and forced to do business with New Amn by their many Golden Legion mercenaries.
+
+Noble House Raventree brought their famed shipbuilding business to the New World as well as their agricultural expertise. The family quickly became the main producer and exporter of food items out of Maztica. Adarbrents were in control of the transoceanic trade and managed the transport and trade vessels that sailed to and from Waterdeep. Each of the families had several trade agreements active, all agreed upon between themselves and distributed equally. Some of the trading partners who did business with New Waterdeep were the Council of Farmer-Grocers, the Fellowship of Salters, Packers, and Joiners, as well as many individual merchants (like Kro Downybeard of Downybeard Tobacconists) and merchant families in Waterdeep and through it – the Sword Coast and Tethyr.
+
+Defenses
+Noble House Jardeth was put in charge of defending New Waterdeep. The members of the family trained troops and ran guard drills on a daily.
+
+History
+The continent of Maztica was discovered in the . Following a religious sacrifice of one of the Amnian leader's daughter to a cruel god of war, a swift and bloody war between the Nexalan empire and Amnian Golden Legion burned through the continent, leading to the establishment of New Amn, Helmsport, and beginning of trade between continents. In the, twelve merchant shops from Waterdeep arrived at the colony of Helmsport but were refused entry due to recent restrictions imposed on transoceanic trade by the Council of Six. The ships sailed north, eventually reaching the Maztapan Island, and soon after negotiated with the nation of Kultaka for a plot of land along the Gulf of Kultaka, establishing the colony of New Waterdeep. Amnian Governor-General Cordell was furious over the new competitor whose lands were only one mile away from New Amn's borders. The same year another Waterdhavian colony of Trythosford was established, and the first group of Mazticans emigrated to Faerûn, some to return years later after receiving education. In the, New Waterdeep was actively trading weapons and armor with the neighboring ally Kultaka. Cordell issued a stern warning against the trade agreement with the locals as a response. New Amn sent a small contingent of troops to the borders of New Waterdeep's holdings as an intimidation tactic against the trade. The same year Helmite clerics of New Waterdeep ventured into the continent guided by several explorers. The expedition was a success. After three months, the clerics returned with newly converted local Helmites and detailed maps of the surrounding lands. Later the same year, several Waterdhavian ships sank on the way back to Faerûn. The governors suspected Amnian sabotage.
+
+By the, New Waterdeep began active trade with the nation of Tethyr through trade agreements arranged by the Lords' Alliance. However the Borderlands suffered a monumental set back when the first location of New Waterdeep war raided and razed by Kultaka. The survivors fled north to Trythosford and to the Maztapan Island.
+
+The trade was stifled but did not stop, and neither did the relationships with Maztican nations. As of the, many Maztican locals sailed to Waterdeep to receive education and training, and by the late summer of the same year, they were to return home. This came at the price of the shaken relationship between Amn and Waterdeep as the educated native Mazticans were vocal about injustices committed by the Amnian colonists and the Golden Legion and the poor, exploitative quality of goods imported to Maztica by Amn.
+
+By 1370 DR, Harpers had successfully established operations in New Waterdeep and started moving new recruits from Waterdeep sent by Khelben Arunsun. The Harpers were targeting injustices committed by Cordell against the local Payitlans. Two of the senior agents, Syllia Adarbrent and Farid al-Nisr, sailed to Waterdeep to present evidence of crimes against Mazticans in front of the Master Harpers, planning to return with a plan of action by the late summer of the same year. Lady Adarbrent was sent to address the Masked Lords of Waterdeep and asked for two or three New Lords to be assigned to actively advising the Harpers' efforts in Maztica. It was planned for the Masked Lords to arrive in complete anonymity aboard some of the six returning vessels to the New World. Orist Moonbow, however, was outraged by what he's witnessed and insisted on immediate action. Meanwhile, Orist spent his time teaching locals of Qoral to mark metal – an exotic material in Maztica, and a young Maztican man named Tocil joined Orist Moonbow as an apprentice Harper.
+
+By the, the new location of New Waterdeep on Maztapan Island was fully rebuilt and prospering once again.
+
+Notable Locations
+ Guardian's Gate, the temple of Helm in New Waterdeep.
+ Aurora's Emporium: an outlet that served as both a store and a trading post for agents to send their acquired goods back to the central warehouse.
+
+Inhabitants
+Organizations
+Church of Helm, the main religion of New Waterdeep as the church sponsored the colonization efforts. Waterdhavian church strongly disapproved of New Amn's brethren and their overzealous religious practices and conversions of the locals.
+Harpers, fund their way to the New World through sea trade routes and established clandestine operations in New Waterdeep. Three agents of note were Lady Syllia Adarbrent, Farid al-Nisr, and Orist Moonbow.
+Helmfasts, were the New Waterdhavian guild of harbormasters and shipwrights who had offices, workshops, and warehouses on the mainland of the Borderlands as well as the Maztapan Island.
+
+Individuals
+Laos Raventree, the leader of the noble House Raventree in Maztica in the late 14 century DR.
+Majuvix, one of the New Masked Lords of New Waterdeep selected from the local Mazticans who received education in Faerûn and returned to New Waterdeep in 1370 DR.
+Trythos of Tiythosford, the honorable paladin Open Lord of New Waterdeep in the late 14 century DR.
+Tomas Dannark, Laos Raventree's consort and the second in command in the New Waterdhavian Church of Helm in the late 14 century DR.
+
+Appendix
+References
+
+---
+
+## Nelnuk's Walk
+
+Nelnuk's Walk was a small road that was located in the city of Waterdeep.
+
+Location
+Nelnuk's Walk was located in Waterdeep's Dock Ward. The road originated on the eastern side of Wastrel Alley, branching southeast then turning east to connect with the southern end of Drawn Sword Alley. The southern end of Watchrun Alley terminated at Nelnuk's Walk.
+
+Description
+A blind alley branching off of the southern side of Nelnuk's Walk contained an entrance to Waterdeep's sewers.
+
+Appendix
+References
+
+---
+
+## Neysea Snowwolf
+
+Neysea Snowwolf was a barbarian amazon from the reclusive Jarnsaxa tribe of Yal Tengri, active in the 14 century DR.
+
+History
+By the age of 18, Neysea Snowwolf left her home in the Great Ice Sea to accumulate wealth through adventuring. A proud amazon of "the Iron-Crushers of the World," Neysea was a charming and charismatic young woman. She did not hold men in high regard, thinking them beneath her, and refused to travel alongside such weak creatures. She also showed little respect to women who did not take on a warrior's profession. Neysea worked towards her dream of owning a stable full of the strongest warhorses in the Realms.
+
+Sometime in the 14 century DR, Neysea Snowwolf was among adventurers interested in being sent into a mysterious dungeon by an unnamed sorceress to retrieve the equally mysterious magical orb from its depths.
+
+Appendix
+Appearances
+Video Games
+Dungeon Hack
+
+References
+
+---
+
+## Net Street (south)
+
+Net Street was a road that was located in the city of Waterdeep.
+
+Location
+Net Street was located in the south section of Waterdeep's Dock Ward. It branched west off of the Way of the Dragon then turned southwest to terminate on Dock Street on the waterfront with an intersection with Keel Alley. Snail Street and Pressbow Lane connected with Net Street near its midpoint.
+
+Notable Locations
+The Hanged Man tavern was located at the intersection of Net Street and Snail Street and Full Sails tavern was located on the waterfront. The Blushing Mermaid sat on the intersection with Keel Alley.
+
+Appendix
+References
+
+---
+
+## Nesher Villa
+
+Nesher Villa was the family estate of the Waterdhavian noble house Nesher.
+
+Location
+The villa was located at the corner of Mendever Street and Chasso's Trot in the central section of Waterdeep's Sea Ward.
+
+Description
+The villa compound was walled and composed of several two story structures arranged around a garden that included a small pond. The compound was quite large, covering more than half of the city block upon which is was founded.
+
+Appendix
+References
+
+---
+
+## Nerester's Run
+
+Nerester's Run was a short street in Suzail that began on Silverscales Street's western end and ran northeast in a straight line and abruptly ending at the end of the same block.
+
+Description
+Nerester's Run was connected to the Tholone Lane at its northern and by a smaller wagoncut through a cluster of building into the arching lane, located on Nerester's Run's southern end.
+
+Most buildings on Nerester's Run's eastern side were stout three-story structures of stone and wood, all in need of repair and maintenance by the 14 century DR. Many of the buildings operated businesses out of their ground floors and cellars. The top two floors of the buildings were used as apartments – on a smaller side. Many of these ramshackle apartments were rented out by "retired old salts," small-scale smugglers, spies, dockworkers, and messengers. All the buildings on Nerester's Run were owned by middle-class merchants and merchant families of Suzail. The merchants rarely visited these properties and instead sent around rent-collectors every month, always accompanied by bodyguards.
+
+Appendix
+Notes
+
+See Also
+Map of Suzail
+References
+
+---
+
+## Nentyarch's band
+
+Nentyarch's band was an enchanted druidic band that bore the markings of the Nentyarch from the Circle of Leth.
+
+Description
+The ring was decorated with three concentric circles – the mark of the Circle of Leth of Rawlinswood. By the 14 century DR, Nentyarch's band showed its age and decay from exposure to elements.
+
+Powers
+Nentyarch's band's magics were tailored to empowers summoning spells of druids and shamans. It gave them the capacity to access additional divine magic spells per day and dramatically fortified their wisdom. Additionally, the wearer of the ring gained the ability to cast the banishment as if conjured by a powerful spellslinger once per day.
+
+History
+By the, Nentyarch's band showed the decay of at least several decades of exposure. Its history was unknown; however, its markings clearly indicated the ring's origin. In 1374 DR, the ring belonged to a powerful trio of ancient bear Telthors of the Wells of Lurue in Rashemen – Wotomo, Jabar, and Kuma. All three were ancestors of the Bear God and companion of Kalach-Cha – Okku.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Mask of the Betrayer
+
+References
+
+---
+
+## Nebulae Pool
+
+The Nebulae Pool, or the Pool of Stars, was a peaceful forest lake in the eastern part of the Forest of Tethir, to the north from the elven tree settlement of Suldanessellar.
+
+Description
+The Nebulae Pool stood on the northwestern end of the Swanmay's Glade with the forest river of Calathalureenteir running southeast from the pool towards the Moonglade but never reaching it. The lake's calm waters reflected the sky and stars like a perfect mirror, making it a spectacularly beautiful location. To accentuate the Nebulae's natural beauty, when the stars were bright in the sky, ancient female elven ghosts appeared on the pool's waters, dancing in elegant sways. During the daytime, the lake's floor of rocky crystals reflected the sun's rays back and outwards from the Nebulae Pool. The reflected light flashed brightly until the sun hid behind the forest's trees. The lake's waters were cold, pure, and tasted sweet.
+
+At the center of the pool stood a small island that once was the home of the swanmay namesake of the Swanmay's Glade.
+
+History
+The Nebulae Pool's elven name translated as the "Pool of Stars" in Common. The name in Common—"Nebulae"—honored Naebrulae Athtrilan, a human explorer who first (apart from the elves) discovered this natural beauty. Its beauty was the reason why it was the only one of many lakes ever to be marked on maps of the great forest. According to Naebrulae, he witnessed a grandly decorated throne that sank to the bottom of the pool and later rose up out of its depths later as if by magic several hours later. The explorer theorized that a deity placed their throne in the lake, making it a sacred location. He thought that the throne could bestow strange powers on anyone who sat on it or that it opened a path to some hidden location. As of the late 14 century DR, the throne had not been seen by anyone but Naebrulae Athtrilan. When the elves of the Forest of Tethir were asked about the throne, they did not deny its existence, instead saying one thing: "the time must be right."
+
+One known resident of the lake, the swanmay, was believed to be dead or gone by the late 14 century DR.
+
+Appendix
+References
+
+---
+
+## New Beacon Lighthouse
+
+The New Beacon Lighthouse was a new structure erected in the city of Zhentil Keep following that city's destruction in the .
+
+Location
+The lighthouse stood on the south bank of the River Tesh outside of the northeastern wall of the Foreign Quarter.
+
+Description
+The New Beacon Lighthouse stood  tall. The lens was enchanted with a continual light spell that could be seen for miles.
+
+History
+The lighthouse was constructed in just two months using large stone blocks recovered from the siege.
+
+Defenses
+A squad of four Zhentilar soldiers was stationed in the lighthouse. Two guards were always on lookout duty–one facing the Moonsea and the other facing upriver of the River Tesh. The remaining two guarded the main door.
+
+Appendix
+References
+
+---
+
+## Needletooth
+
+Needletooth dinosaurs, sometimes called needlefang drakes, were carnivorous dinosaurs who lived and hunted in large groups, known as needletooth swarms.
+
+Description
+Needletooth dinosaurs were vibrantly colored and the size of an average cat—only about  tall and weighing an average of —but they had proportionally very large and sharp fangs, from which they earned their name.
+
+Behavior
+Needletooth dinosaurs were almost always encountered in a swarm, which traveled along the ground like a brightly colored wave. They emitted high-pitched whistling, chirping, and trilling noises, which, combined with their generally inquisitive and brave attitude, could give the impression that they were harmless or even adorable. However, in truth they were deadly and fearless predators who swarmed and devoured their prey like terrestrial piranhas. Even worse, they were known to be both crafty and patient when hunting their prey.
+
+Combat
+A swarm would harass prey until it was time to strike, at which point it surrounded the victim and closed in from all directions. They would swarm all over their target, tearing at the flesh with their teeth and attempting to drag the prey to the ground to eat it alive. The prey quickly started bleeding profusely, and would become overwhelmed with distractions as the swarming continued. Humanoid prey struggled to do anything but try to get rid of the biting creatures. If they managed to pull their victim to the ground, a swarm could strip it to the bone in a matter of seconds.
+
+Some subspecies of needletooth dinosaurs were also venomous, and caused their prey's reflexes to atrophy as they swarmed.
+
+Ecology
+Needletooth dinosaurs were aggressive predators of land animals, although they were neither picky about what they ate nor scared of attacking creatures that were new or strange to them. When hungry, they were utterly fearless and would charge directly at a potential meal, and unfortunately, they were known for always being hungry. They were also territorial, but were known to chase prey for miles.
+
+Multiple swarms of needletooth dinosaurs could be encountered together, with large groups of up to eight distinct swarms known as prides. In some cases, one or more swarms might follow around a black or mercury dragon wyrmling.
+
+Habitats
+They were native to the warm forests and jungles of Chult and the Black Jungles, where they were naturally adept at camouflaging within the dense underbrush and foliage. As of the late 15 century DR, they could also be found in the ruins of Spellgard.
+
+Uses
+It was not unheard of for swarms to be kept as living traps or—in some cases—as exotic pets.
+
+Appendix
+Notes
+
+Appearances
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Neretheen Jalassan
+
+Hawk of the Lady Neretheen Jalassan was a priestess of Mielikki and the leader of the Mielikkian community at the Falls of Tumbling Stars, a sacred site in the Thunder Peaks north of Cormyr, around 1370 DR.
+
+Appendix
+See Also
+ Beldryn Stormstone
+
+References
+
+---
+
+## Necklace of protection against charm
+
+A necklace of protection against charm was an enchanted piece of jewelry that shielded the wearer from charm magic.
+
+Description
+This necklace was made from gold and hung down to the chest. It was studded with various gemstones.
+
+Powers
+Wearing this necklace made it much easier for the wearer to resist the effects of any charm magic. Furthermore, focusing on the gems of the necklace would reveal the location of the spellcaster who attempted the use of charm magic upon the wearer.
+
+History
+These magic necklaces were traditionally worn by Precepts of Mulhorand.
+
+Appendix
+References
+
+---
+
+## Nellaura Orbrynsar
+
+Nellaura Orbrynsar was a renegade Netherese sorceress.
+
+Legacy
+Her crumbling bones were in a tomb within the Orsraun Mountains as of . Azuth directed Talatha Vaerovree there, where she recovered a girdle of fire.
+
+Appendix
+References
+
+---
+
+## Nerren's guardlock
+
+Nerren's guardlock was a combination spell attributed to Nerren Prentiyuel. It combined the effects of arcane lock with magic missile.
+
+Effects
+The guardlock spell operated as a version of arcane lock which unleashed a volley of magic missiles into the first unauthorized creature to touch it. However, every time someone failed to dispel it or cancel it with a knock or dispel magic spell, the spell instead absorbed the magic and stored it as an additional volley of magic missiles.
+
+Components
+The material component for this spell was a spider's web and a strand of the caster's hair.
+
+History
+The spell was attributed to Nerren Prentiyuel.
+
+Appendix
+References
+
+---
+
+## Necklace of strangulation
+
+A necklace of strangulation was a sinister enchanted piece of jewelry whose cursed power was only revealed when placed around the neck.
+
+Powers
+Immediately after being placed around the neck, a necklace of strangulation would constrict, making it impossible for the victim to breathe and resulting in their death after several minutes. The magic of the necklace could only be negated by a wish or limited wish. The necklace's magic was also masked by spells such as detect curse. The necklace of strangulation continued to squeeze tightly to the victim's neck long after their death until nothing remained by a dried skeleton.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Nessisi
+
+Nessisi was the precept of the city of Ulzel in Mulhorand during the mid-14 century DR.
+
+Activities
+In addition to Ulzel, Nessisi maintained of the surrounding area to the south. Nessisi was also a ranking priest of Isis.
+
+Appendix
+References
+
+---
+
+## Nezras (town)
+
+Nezras was a village located near the eastern border of the country of Mulhorand during the mid–14 century DR.
+
+Geography
+Nezras lay along the eastern foothills of the Sword Mountains on the fringes of both the Plains of Purple Dust and Fuirgar. The Lonely Lake was located due north of the village.
+
+Inhabitants
+Nezras was inhabited by a group of wizards descended from the mighty Nezram in the .
+
+Appendix
+References
+
+---
+
+## Nephita
+
+Nephita was an incarnation of the goddess Nephthys who inhabited Mulhorand centuries before the mid–14 century DR.
+
+History
+Nephita lived in the city of Jhalhoran on the River of Shadows in central Mulhorand.
+
+Appendix
+References
+
+---
+
+## Nethra
+
+Nethra was an independent city located just south of the country of Aglarond during the mid–14 century DR.
+
+Geography
+The city lay on the coast of the Wizards' Reach on the Sea of Fallen Stars just south of the Yuirwood.
+
+History
+Nethra was initially founded by the empire of Unther following the great wars between Narfell and Raumathar, but over the passage of time Unther lacked the strength to hold it and Nethra eventually declared independence in the .
+
+Later, under the name of Nethrar, it was the capital of the kingdom of Galadorna until its fall in the .
+
+Appendix
+References
+
+---
+
+## Neth Arrovar
+
+Neth Arrovar was the priest who oversaw the temple of Bane in Kzelter during the mid-to-late 14 century DR.
+
+Personality
+Despite being in charge of Tyrant's Hope Temple, Neth didn't spend all his nights there. He instead claimed the best home of the village as his residence when the Knights of the Black Gauntlet conquered it.
+
+Possessions
+Neth possessed a magical suit of armor, as well as a magical morningstar.
+
+Appendix
+References
+
+---
+
+## Nelaeryn Mornmist
+
+Nelaeryn Mornmist was an inhabitant of Myth Drannor in the 3 century DR.
+
+History
+During the laying of the Mythal, Nelaeryn Mornmist was using a scrying globe and reading papers, with his wife close by. He was one of the first to feel the effects of the mythal, and suffered from backlash when Uldreiyn Starym attacked its creators while they were working. However, the mythal ultimately stabilized, and Nelaeryn was one of the first to use it in order to fly and dance in the air with his servants.
+
+Appendix
+Appearances
+Novels
+Elminster in Myth Drannor
+References
+
+---
+
+## Neldor Echorn
+
+Neldor Echorn was an inhabitant of Myth Drannor, and the house elder from the 3 to the 7 century DR.
+
+History
+In, when Delmuth Echorn left to lure Elminster Aumar, the new human armathor, into a spell duel, his uncle Neldor warned him that he was making a terrible mistake and that the House would suffer for it.
+
+He survived until at least the 7 century DR.
+
+Appendix
+Appearances
+Novels
+Elminster in Myth Drannor
+
+References
+
+---
+
+## Neumas Moltengale
+
+Neumas Moltengale was a traveling wizard, active in the 14 century DR.
+
+Personality
+Trying to overcompensate for his "lost years," Neumas was recklessly driven to acquire knowledge and experience. Oftentimes, his rash decisions brought him a hefty reward.
+
+History
+Neumas was born and lived the majority of his life in a boring little village on one of the least notable islands of the Korinn Archipelago. His life in a hovel came to an end when Neumas Moltengale realized he possessed a talent with the Art. By the age of 31, Neumas became a powerful and well-traveled wizard as capable, if not more so, than his fellow individuals with a sorcerous gift.
+
+Sometime in the 14 century DR, Neumas Moltengale was among the ambitious adventurers who were interested in being sent into a mysterious dungeon by an unnamed sorceress to retrieve the equally mysterious magical orb from its depths.
+
+Appendix
+Appearances
+Video Games
+Dungeon Hack
+
+References
+
+---
+
+## Necromancer's robe
+
+The necromancer's robe was a unique enchanted robe that protected the wearer from death magic.
+
+Powers
+Despite its unassuming appearance, the necromancer's robe gave the wearer a chance to negate death magic spells tossed at them and offered protection from magic.
+
+History
+The necromancer's robe creator was a member of the Host Tower of the Arcane in Luskan who used the robe to protect himself during procurement of certain exotic items for the arcane research. However, necromancer's robe did little to save the wizard's life when he made an enemy of a ranking member of the Plague Rats. Several years later, the robe was purchased from the Rats by Presio, an evil necromancer-priestess. In the, Presio served marilith named Yxunomei who laired in the Dragon's Eye along with her forces. With Presio's death at the hands of the Heroes of Icewind Dale, the robe changed owners once again.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale
+References
+
+---
+
+## Needle's Rest
+
+The Needle's Rest was an enchanted pair of claw-like weapons, encountered in Chult in the late 15 century DR.
+
+Powers
+It was believed that Needle's Rest were crafted using actual claws of Ormalagos, the green dragon who once plagues Chult. The resulting weapons possessed a powerful +5 enchantment and drastically enhanced the wielding druid's powers.
+
+Notable Owners
+Qawasha: a druid of the Emerald Enclave from Chult in the late 15 century DR.
+
+Appendix
+Appearances
+Video Games
+Tales from Candlekeep: Tomb of Annihilation
+
+References
+
+---
+
+## Neverwinter: Northdark Reaches
+
+Neverwinter: Northdark Reaches is an expansion module for the massively-multiplayer role-playing game Neverwinter. Released in November 2022, the expansion ties in with the Way of the Drow trilogy of novels by R.A. Salvatore.
+
+Features
+ Storyline written by R.A. Salvatore and Geno Salvatore tying in to the Way of the Drow trilogy of novels.
+ New Adventure Zone: Northdark Reaches.
+ Rework of the Temple of the Spider dungeon.
+ Improvements to the Inventory system.
+
+Plot
+
+Index
+Characters
+Braelin Janquay • Bruenor Battlehammer • Da'Zora Mizzrym • Halbryn Dark Stalker • Minolin Fey • Rumpadump • Saribel Xorlarrin
+
+Creatures
+drider • drow • dwarf • myconid
+
+Locations
+Gabsul Nasad • Neirt Elamnshin • Mycellial Depths • Northdark • Northdark Reaches • Temple of the Spider • Underdark
+
+Appendix
+References
+
+External Links
+ Launch trailer
+ Interview with R.A. and Geno Salvatore
+
+Connections
+
+---
+
+## Nelkaush the Weaver
+
+Nelkaush the Weaver was a textiles shop located in Waterdeep during the mid-to-late 14 century DR.
+
+Description
+The building stood one story tall.
+
+Location
+Nelkaush the Weaver was located in the southeastern section of the Southern Ward on the north side of Coach Street west of Carter's Way.
+
+Inhabitants
+The shop was owned by its namesake, Nelkaush, in the .
+
+Appendix
+References
+
+---
+
+## Nelkaush
+
+Nelkaush was a weaver inhabiting Waterdeep during the mid-to-late 14 century DR.
+
+Activities
+Nelkaush owned a textiles shop named after himself located in the southeastern section of the Southern Ward on the north side of Coach Street west of Carter's Way.
+
+Appendix
+References
+
+---
+
+## Netherese axe
+
+Netherese axes were enchanted implements of war and defense that dated back to the days of the ancient Netheril.
+
+Powers
+Netherese axes possessed a slight +1 enchantment that aided the wielder with striking the target. Additionally, these ancient weapons granted the wielder limited protection against magic and granted them enhanced concentration and the ability to research lore and new spells. This concentration also helped the wielder be more aware of threats.
+
+History
+The design and magics of these axes were thought to originate from the ancient Netheril; however, the creator remained unknown. In the, one of these Netherese axes could be found available for sale by one of the exotic weapon vendors in Westgate's Market Triangle.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Mysteries of Westgate
+References
+
+---
+
+## Nerndel
+
+Nerndel was a mage of Myth Drannor and the tutor of Tarth Hornwood.
+
+Relationships
+He was known to Elminster Aumar.
+
+History
+Around the year, Nerndel came to be owed six services by Nimra Ninehands. His first service was to make her train him in the Art; his second service was to bind her in the form of a magical staff. Though he meant to woo her later, Elminster Aumar stole the relevant spells from his mind for the binding, and made Nimra's binding irreversible until several beasts she'd bound, which her own binding had released, had been eliminated.
+
+In the mid-14 century DR, Nerndel, now wracked with advanced age, picked his heir in art to be Tarth Hornwood, and bequeathed upon him the staff. He died sometime prior to .
+
+Appendix
+Appearances
+Novels
+Elminster in Hell
+References
+
+---
+
+## Nedd Angelite
+
+Nedd Angelite was a dwarven resident of Phandalin in the late 15 century DR.
+
+Relationships
+He was friends with fellow teenagers Alana Hallwinter, Sasha Flint, and Grace Hardstone.
+
+History
+When he was a teenager in the 1490s DR, he and two dwarven friends—Sasha and Grace—became skeptical of some of the tall tales written by Volothamp Geddarm in the newly published Volo's Guide to Monsters. The three dwarves decided to travel to the Crooked Forest to investigate, and were subsequently captured by gnolls. Soon, their friend Alana arrived in the woods to search for them, but was captured as well. The harrowing ordeal left Nedd in shock and barely able to speak.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+In Volo's Wake
+References
+
+---
+
+## New Moon Pact
+
+The New Moon Pact was a militant holy order of lycanthropes that were devoted to Selûne. Although it successfully fought against the Moonmaiden's foes for millennia, it was laid low by a conspiracy of their fellow Selûnites.
+
+Activities
+The Pact was active in north, west, and interior Faerûn, and fought against the enemies of Selûne's faith, especially the forces of Shar. They operated independently of any temple's support or approval and sometimes clashed with them as they pursued their goals.
+
+Abilities
+A lycanthrope who completed the initiation rite and joined the Pact was blessed by Selûne with increased strength and vigor, could transform much more easily, and could also speak normally while in a hybrid form.
+
+History
+The Pact claimed to be formed by the first worshippers of Selûne, and the group was at least as old as Netheril.
+
+In 757 DR, High Moonmistress Brima Chintamn of Bright Lady's Tower in Chancelgaunt gathered support from other high priests of Selûne and declared that the New Moon Pact had begun worshipping Shar and fallen to the heresy of believing that Shar was an aspect of Selûne.Although very similar to the Dark Moon heresy, there is no known links between the two.
+
+Brima gathered the support of:
+ Rian Liurandel of the House of the Moon in Bloodhand Hold.The original text uses Waterdeep, though this is several centuries before that name came into use.
+ Zarran Tonnos of Moonmaiden's Hall in Murann.Spelled Murran in the original text.
+ Bero Falabara of the Crescent Shrine in Alaghôn.
+ Jolara Nightnever of Moonshadow Hall in Yhaunn.
+ Six other high priests.
+
+The members of the Pact were then hunted down, either fighting to the death or being captured and executed, and their property confiscated by the nearest temples. The true history of the Pact was also intentionally destroyed, with only scattered fragments surviving and the final declaration of the New Moon Heresy as the historical record.
+
+Only the wolf companion Halftail survived with the aid of Selûne, who transformed her into a human. Becoming known as Asha the Silent, she joined the clergy of Moonshadow Hall and recorded a secret history of the Pact and its rituals in The Book of the New Moon. Though she never spoke a word, Asha eventually became High Moonmistress of the temple.
+
+Shortly after the destruction of the Pact, the Bright Lady's Tower was abandoned and then demolished, with no temple of Selûne ever built to replace it in Selgaunt.
+
+Around 1194 DR, the House of the Moon in Thentia performed an inquest into three priestesses who had been accused of being participants in the New Moon Heresy. The sisters Fela Thesk, Iwna Thesk, and Mirela Thesk all died in 1080 DR while tending to the shrine of Selûne in Glister. The investigation by the House of the Moon found that they had committed no heresy and were innocent of all wrongdoing.
+
+In Kythorn of 1373 DR, High Moonmistress Dhauna Myritar of Moonshadow Hall received terrifying premonitions and dreams from Selûne that she interpreted as warnings to prepare for an unknown threat, prompting her to investigate the history of church and uncover the truth of the New Moon Pact. Through the fragmented records in the temple archives, she determined that they were innocent of heresy, but became mistakenly fixated on the belief that Selûne wanted her to become a werewolf as well, ultimately forcing Feena to infect her with lycanthropy.
+
+On the night of the new moon in Eleasis, the werewolf priestess Feena Archwood recovered the tome that Asha had written centuries ago, and made contact with the spirits of the fallen Pact members. The same night, she also discovered that her fellow priestess Velsinore unwittingly embodied the heresy the Pact had been accused of, resulting in Feena killing her. As the local Sharran cell assaulted the temple, Feena performed the initiation rite with the assistance of Julith Harkspur and reformed the Pact, becoming its newest member.
+
+Members
+The members of the pact before its destruction included:
+ Asha the Silent.
+ Brant Hallower of Candlekeep.
+ Enshu Venerun of Chondath.
+ Marrigan, formerly of the Gray Wolf tribe.
+ Niree Swifthands of the Temple of the Half-Moon in Elmwood.Although the prominent members of the New Moon Pact are implied to be priests or high priests of their own temples, only Niree is explicitly described as such.
+ Qualise Domo of Turmish.
+ Rade of the Farsea Marshes.
+ Tyver Thorndrove of Berdusk.
+
+Rumors & Legends
+After performing an investigation into the history of the Pact, High Moonmistress Dhauna Myritar determined that the charges of heresy were entirely false. Instead, it was a cynical attempt to seize wealth and eliminate an independent branch of the faith.
+
+Appendix
+Notes
+
+See Also
+ Dark Moon heresy
+
+Appearances
+
+References
+
+---
+
+## New Moon Beneficence
+
+The New Moon Beneficence was a charitable feast in Yhaunn held monthly by the temple of Selûne, Moonshadow Hall.
+
+Description
+The New Moon Beneficence was a public feast for the city's poor held at Moonshadow Hall, open to all faiths. The event was instituted by High Moonmistress Dhauna Myritar in order to bring positivity and joy to the night of the new moon through feasting and song.
+
+History
+In Eleasis of 1373 DR, Moonmistress-Designate Feena Archwood met with representatives of the city's administration, guilds, merchants, and other temples to raise support for a larger version of the feast which would support more people. Although the idea met with general approval, during the next new moon the feast held at Moonshadow Hall was interrupted by an attack by Sharrans and shadow mastiffs led by Variance Amatick.
+
+Appendix
+See Also
+Lunar calendar
+
+Appearances
+Novels
+Mistress of the Night
+
+---
+
+## Neruudan
+
+Neruudan was an inhabitant of Waterdeep, the City of Splendors, during the mid-to-late 14 century DR.
+
+Activities
+Neruudan was actually an agent of Luskan who posed as a gem-dealer. He stayed within the Gentle Rest in the Trades Ward on his visits to the city. Ultimately Neruudan desired to establish a smuggling ring within Waterdeep that primarily used the sewers.
+
+Appendix
+References
+
+---
+
+## Necrotic energy
+
+Necrotic energy was a type of energy associated with entropy, destruction of life, the creation of undead, along with both the Shadowfell and the Negative Energy plane.
+
+Description
+Necrotic energy was capable of both destroying physical matter, harming spiritual well-being, and even deteriorating living souls.
+
+It regularly coursed through the forms of numerous undead creatures, both corporeal and incorporeal alike.
+
+Divine Sources
+Some of the boons and powers the goddess Lolth bestowed upon her followers harnessed necrotic energy.
+
+Notable Manifestations
+ The plane of Avernus had pits of mud that were infused with necrotic energy.
+ Necrotic energy manifested in humaoid victims suffering from bluerot, a disease carried by many undead creatures.
+ The spell chill touch utilized a form of necrotic energy that glowed an eerie blue radiance.
+ The Cyst was a piece of a former atropal that was infused with necrotic energy.
+ Drow warlocks that forged dark pacts with certain patrons could manifest darkspiral auras composed of necrotic energy.
+ Swords wielded by death knights were often imbued with necrotic energy.
+ Spreading dust of dryness upon creatures with watery forms created an apparent chemical reaction that released necrotic energy.
+ Enervating grasp was a modified version of a more commonly-known spell that utilized necrotic energy.
+ The spell Evard's black tentacles were created from pure necrotic energy.
+ Anyone who had grafted the Eye of Vecna to their skull could emit rays of necrotic energy.
+ The greatsword Hazirawn was imbued with necrotic energy.
+ The horn of the corrupted avatar of Lurue emanated necrotic energy.
+ Monks of the Long Death, could channel necrotic energy when performing the touch of the long death.
+ The prayer necrotic transference could imbue any weapon with necrotic energy.
+ Nine lives stealer longswords were enchanted with necrotic energy.
+ Orb of black flame was a variant of the fireball spell that manifested an sphere of fire imbued with necrotic energy.
+ Red Wizard blades utilized necrotic energy with such potency, someone slain by its blade could not be brought back from the dead except by the use of 'powerful magic or the tablet of reawakening.
+ The Storm Gate, a portal to the Elemental Plane of Air that was temporarily opened by Cult of the Howling Hatred, was infused with life-draining necrotic energy.
+ The crypt of Vol Zaffras in the Shadowfell held a pool of pure necrotic energy.
+ The heart of the Undying Temple of Kiaransalee pulsed with necrotic energy, before being corrupted by the powers of the Abyss.
+ Wounding weapons were sometimes enchanted in a manner utilizing necrotic energy.
+ The soul intake of Zariel's flying fortress was flooded with necrotic energy.
+
+Notable Wielders
+ The body of the lich Acererak was infused with necrotic energy.
+ Beholders and beholder zombies could emit enervation rays of necrotic energy.
+ The Big One―a powerful Tyrannosaurus zombie that lived in the Mistcliffs―swallowed a piece of rubble from the town of Matolo, which was awash with necrotic energy.
+ Clerics of the death domain could infuse their divine strikes with necrotic energy.
+ Direhelms could release blasts of necrotic energy in battle.
+ The breath weapons of dracoliches, shadow dragons, and topaz dragons' manifested as cones of necrotic energy.
+ Ghosts, Shadows and shadow demons drew upon necrotic energy in combat.
+ Green hags could manifest necrotic energy in their hands in a withering grasp when grabbing at foes.
+ The claws of Kir-lanans were charged with necrotic energy; the energy also managed to heal the malevolent creatures.
+ Many liches were inundated with so much necrotic energy that their mere touch could inflict it upon others.
+ Luthvaerynn the malaugrym could emit a ray of necrotic energy that damaged both body and the psyche of anyone it struck.
+ Miirym the Sentinel Wyrm had a breath weapon of necrotic energy.
+ Mummies manifested necrotic when attacking others.
+ Rot trolls were wholly infused with necrotic energy.
+ Sofina the Red Wizard could wield necrotic energy in here mere touch or launch it as a magical projectile.
+ The alhoon, Struh'luh created was specific type of rune circle known as a necrotic power cell'', which would release a blast of necrotic energy when stepped upon.
+ Szass Tam, the lich-regent of Thay emanated an aura of necrotic energy and could manifest it within any spell he cast, weapon he wielded, or power he utilized.
+ The skeletal form of Terpenzi, the immortal ha-naga of Najara, was inundated with necrotic energy.
+ Umbriri swordmages could both guard themselves from, and learn to wield, necrotic energy within their chosen blades.
+ Like many other undead beings, vampires manifested necrotic energy when attacking anyone they deemed threats.
+ Attacks made by wights carried with them necrotic energy.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Neverwinter: Menzoberranzan
+
+Neverwinter: Menzoberranzan is an expansion module for the massively-multiplayer role-playing game Neverwinter. Released in March 2023, the expansion ties in with the Way of the Drow trilogy of novels by R.A. Salvatore, continuing the story began in the previous module, Northdark Reaches.
+
+Features
+ Storyline written by R.A. Salvatore and Geno Salvatore tying in to the Way of the Drow trilogy of novels.
+ New Adventure Zone: Menzoberranzan.
+ New Trial: Gzemnid's Reliquary.
+
+Plot
+
+Index
+Characters
+Alphonse Knox • Braelin Janquay • Drizzt Do'Urden • Gzemnid • Jarlaxle
+
+Creatures
+drow • riding lizard • zythar
+
+Items
+Eye of Odran
+
+Locations
+Menzoberranzan • Underdark
+
+Organizations
+Blaspheme • Bregan D'aerthe
+
+Appendix
+References
+
+External Links
+ Launch trailer
+
+Connections
+
+---
+
+## Neverwinter arena
+
+The Neverwinter arena was an amphitheater located in the city of Neverwinter on the Sword Coast North and built in the late 1490s DR. It was the site of the revived High Sun Games.The proper name of the amphitheater is unknown, but it's referred to as 'Neverwinter arena' in capitalized titles in The Art and Making of Dungeons & Dragons: Honor Among Thieves and in the Monopoly Dungeons and Dragons: Honor Among Thieves Movie Edition Board Game. While it's possible this should be read as 'Neverwinter Arena', this wiki presumes the lower-case form until a clear name is provided.
+
+Location
+The amphitheater stood at the foot of Castle Never in the Blacklake District of Neverwinter.
+
+Structure
+Entrance
+Flanking the main entrance to the arena stood two massive copper statues of past Neverwintan rulers, each as high as the amphitheater itself. Facing outward and to the east, on the left was a statue of Lord Nasher Alagondar, crowned, with his belt adorned with the Neverwinter Eye, and holding the longbow with which he'd slain a minotaur. On the right was a statue of Lord Halueth Never, the founder of Neverwinter, in helm and armor and holding a longsword.While Nasher is easy to identify from his close match to scenes in Neverwinter Nights, Halueth can only be presumed from context as one of the few known Lords of Neverwinter with history in battle. Halueth is depicted in a Castle Never set, as discussed in The Art and Making of Dungeons & Dragons: Honor Among Thieves. Coincidentally, although a common design, this resembles stock statues representing Halueth and the Neverwinter Nine seen in Neverwinter Nights 2. Alternatively, this may be Dagult Neverember, but he is still alive at the time of construction and Forge's critique of his predecessor shows he would not memorialize him like this.
+
+Beside the gates at the entrances to the arena, colorful teal-and-orange tilework images on the walls depicted the various monsters one might see within, including a beholder, a rust monster, a hook horror, and a displacer beast.
+
+Amphitheater
+It was a vast circular amphitheater constructed of dressed sandstone, comprising three levels of high open arches, which formed gaps between the interior and exterior. Inside were three tiers of seating for the general audience and a sturdy arch over the arena from which the wealthier spectators could look down on the competitors. At the top of the arch, directly over the center of the arena, was a circular chamber that served as a luxury balcony. Around the roof of the arena and the balcony were blue awnings that provided shade to spectators.
+
+The concept of the amphitheater was intended to invoke a historical scene of a ring of elves standing around Halueth Never as he stood victorious after defeating an orc army early in the city's history.
+
+Luxury Balcony
+The luxury balcony was an opulent space with windows looking out onto the arena between ornate columns. At the center, a special gaming table magnified the scene in the arena below for a closer view. Seated around this table, patrons placed bets with a broker on the action in the arena, specifically on how each competitor would meet their doom. At the sides were refreshments tables, where servants provided beverages to the gamblers.
+
+The walls were adorned with murals of various dragons, including a bronze dragon and a black dragon, and the ceiling displayed scenes of Neverwinter and its environs, including Castle Never, the Mount Hotenow volcano, and waterfalls in Neverwinter Wood.
+
+Hanging below the balcony were mechanisms for ringing gongs periodically. These were used to indicate starts of matches and rounds and timed events.
+
+Arena Floor
+
+The arena floor consisted of a vast grid of square pillars, each  to a side and rising up to  in height. Shallow recesses in their sides ensured they would tessellate and interlock. Some pillars had stationary gelatinous cubes built into them as traps for the unwary. Powered by magic and mechanics, these pillars could be raised or lowered for various purposes, such as creating podiums for announcements, delivering contestants and monsters into the arena, and arranging courses for the games, such as a maze, zones, and even a pyramid. There was also a large "cage of sanctuary", a study enclosure with spikes on the outside to keep monsters out. Contestants had to reach this to win a stage or go on to the next one.
+
+Tunnels
+Underneath the arena floor was a subterranean space whereinto the square pillars descended when not in use. The floor was a layers of maze-like grills lit from below.
+
+This area connected to a series of access tunnels and storage chambers running under the arena. Lit by torches, these held props, banners, and supplies, as well as keys to the magic-suppression cuffs used in the games. These tunnels also linked to the city's docks.
+
+History
+After he took power as Lord of Neverwinter in the late 1490s DR, one of Forge Fitzwilliam's main acts was to revive the High Sun Games, a monster-filled blood-sport that had been banned by Lord Dagult Neverember some time prior as he considered them too brutal. The Neverwinter arena was constructed to host the Games.As no structure of the kind has been seen or mapped in Neverwinter before, the arena is presumed to be new and built by either Neverember or Forge. The first Games were to be held in the late 1490s DR, allegedly as a way of bringing the city together. It also brought many visitors from outside Neverwinter, including rich, powerful, and unscrupulous people—people like Din Caldwell and Porb Piiradost, two of the wealthiest men of Baldur's Gate and Waterdeep of the day, who wanted to bet big on the Games and brought their riches with them, which Forge graciously offered to store safely in the Castle Never vault. To advertise the spectacle, Forge distributed fliers as far away as Targos in Icewind Dale to announce them; these were magically animated to display Forge's winking face. He even raised a hot-air balloon over the city with his own grinning face on it.
+
+Finally, Forge opened the revived High Sun Games at the Neverwinter arena from atop one of the moveable pillars, though he was not comfortable with the height of it. Addressing the crowd and announcing the rules of the competition, he asked that no one leave the arena until the very end, promising "a wonderful gift" to each of the spectators. While the games proceeded apace, one of the teams—Edgin Darvis, Holga Kilgore, Simon Aumar, and Doric, who'd been entered unwillingly—escaped by leaping inside a gelatinous cube in order to be carried down into the tunnels beneath the arena.
+
+In fact, the arena was all a trick, and a trap. Forge had stolen the riches of his wealthy visitors from the Castle Never vault and smuggled them out via the tunnels beneath the arena and had it all loaded aboard a ship for his getaway as he abandoned the city to his advisor Sofina, who had much of the populace gathered together in the arena for her dark purpose. Levitating out of the luxury balcony over the arena, Sofina revealed herself to be a Red Wizard of Thay and invoked the horn of beckoning death in order to turn all the spectators into undead and thereby seize the city for Szass Tam, the Regent of Thay. The red smoke of the Beckoning Death filled the luxury balcony and turned all the gamblers and their servants into ravening zombies. Fortunately, Edgin and his thieves used a portal from their hither-thither staff to pour the stolen treasure from Forge's hot-air balloon and over the stands and streets, leading all the people out of the arena. With no more victims to claim, the Beckoning Death was wasted and Sofina's concentration was broken, ending the spell. Enraged, she sought out and assaulted Edgin, Holga, Simon, and Doric, first hurling a meteor swarm at them from above the arena and damaging the head of the statue of Halueth Never by the entrance. She then battled them in the streets outside the arena.
+
+Appendix
+See Also
+ The Field of Triumph in Waterdeep
+
+Notes
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Neirshyn Fallowfar
+
+Neirshyn Fallowfar, who was called the Mage of the Towers, was a wizard and sage inhabiting Suldolphor in the far eastern reaches of Calimshan in south Faerûn during the mid-to-late 14 century DR.
+
+Personality
+He was studious and astutue but quite humorless.
+
+Description
+Neirshyn was short and portly with a stooped frame. He dressed rather plainly.
+
+Activities
+Neirshyn pleged to defend both Suldolphor and its ruling olanger. He spent much of his time developing spells focused on warding and detection.
+
+Appendix
+References
+
+---
+
+## Neidlig
+
+The Neidlig were a tribe of goblins in the Goblin Marches in the 14 century DR.
+
+Organization
+The tribe was led by the visionary and clever King Srubaash, who claimed to be following the guidance of a mysterious spirit on his empire-building quest. In addition to hundreds of goblins, the tribe was home to a company of orc mercenaries and a large number of ogres.
+
+Activities
+The Neidlig were the most powerful and expansive group in the Stonelands, High Moors, and Goblin Marches. They hunted and raided widely, and actively sought to build a new empire as the successor to Hlundadim. Despite their military power, they avoided warfare with others and focused on recruiting and integrating outsiders.
+
+Base of Operations
+The Neidlig made their home in Neidlig Citadel, an ancient ruined keep in the southern Goblin Marches. Unlike most goblin tribes they did not hide it, but lived openly, as they were so secure in their power.
+
+Relationships
+The Neidlig used diplomacy whenever possible, and built alliances with their neighbors. They worked alongside the Merrowdrinkers hobgoblins and the Colchar orcs, but found themselves fierce rivals of the xenophobic Fenlis.
+
+Appendix
+References
+
+---
+
+## Neidlig Citadel
+
+Neidlig Citadel was an ancient ruined fortress that served as the home of the Neidlig goblin tribe.
+
+Description
+The fortress was a remnant of ancient goblin architecture, and by the 14 century DR had mostly fallen into ruin. The outer walls had largely collapsed, but some of the towers and the main keep remained intact. Most of the tribe lived in the keep's dungeons and in a series of tunnels and caverns beneath it.
+
+Unlike most goblin lairs it was not hidden at all, as the Neidlig were fully confident in their martial strength compared to any of their enemies.
+
+Geography
+The Citadel lay in the Goblin Marches just north of the High Moors and west of the Stonelands.
+
+Inhabitants
+The Neidlig were ruled by King Srubaash, and the goblins were joined by various hobgoblin, orc, and ogre allies.
+
+Appendix
+References
+
+---
+
+## Nevin
+
+Nevin was a human man from the City of Coin, Athkatla, the capital of Amn in the late 14 century DR.
+
+History
+In the, Nevin's much-hated uncle Lester expired and was being buried in Athkatla's Grave District. Nevin thought his uncle to be an absolute bastard who, even in death, managed to wrong the man by leaving him nothing in the will but a sweater, and all the coin went to a Calishite woman Lester was courting. The ceremony was performed by a drunken cleric of Talos, but something went wrong. Uncle Lester rose up as an undead creature, sending the ceremony's attendees fleeing in terror. The angry undead scolded his nephew for spending just a new coppers on the ceremony that was some slurred lines of profanity mumbled by an inebriated priest, all clothes from the dead body were sold off, and even the flowers were gathered from a nearby swamp. Nevin angrily stated that he had no money to spend and Lester should've been simply dumped into the city river. It was said that the undead became enraged and swiftly murdered his nephew and went off searching for his Calishite paramour for a "one last quickie," while others claimed that an adventurer witnessed the strange exchange and defended the man from his reanimated family member.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate II: Shadows of Amn
+References
+
+---
+
+## Newf
+
+Newf was a human pirate from the isle of Brynnlaw in the Sea of Swords in the late 14 century DR.
+
+Description
+Newf was a simple-looking man with brown hair and dressed red-hued commoner's garb.
+
+History
+In the, Newf could be found drinking in the Vulgar Monkey dock-side tavern. Like so many fellow pirate customers of the rowdy establishment, Newf was an eager sea-shanty singer. I'se th' b'y that Builds the Boat was his favorite.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Neem
+
+Sharp-eye Neem was a goblin who joined the cult of the the Absolute during the late 15 century DR.
+
+Description
+Neem had brown skin that she decorated with white body paint. She wore a suit of crudely-fashioned scale armor and leather bracers.
+
+History
+As of the, Neem remained stationed at the Shattered Sanctum, a former temple of Selûne that was taken over by the cult of the Absolute.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+
+References
+
+---
+
+## New Leaf
+
+New Leaf was a small but prosperous settlement on the Neverwinter River that traded in rare species of zalantar wood in the late 14 century DR.
+
+Description
+New Leaf was built in the foothills of Mount Hotenow, along the western bank of the Neverwinter River. A science waterfall was just northeast from the village, and a single sturdy bridge crossed the river immediately to the east from New Leaf. Up the cliff to the north stood a strange foreign temple ruin. And an abandoned mine taken over by the duergar circa 1374 DR could be found across the Neverwinter River past the bridge.
+
+Trade
+New Leaf's main industry was logging and woodwork, exporting zalantar. The Merchant's Friend – goddess Waukeen was the town's primary religion.
+
+History
+In the, New Leaf may have established trade relations with neighboring towns, including the city of Neverwinter via the merchant princess Sa'Sani and her Mercantile House.
+
+Notable Locations
+New Leaf Tavern, an imaginatively-named spacious local tavern and an inn in the 14 century DR.
+Temple of Waukeen, a small chapel dedicated to the Merchant's Friend, the only temple in the 14 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## New Leaf Tavern
+
+The New Leaf Tavern was the only inn and tavern located in the small but prosperous village of New Leaf on the Sword Coast North in the late 14 century DR.
+
+Description
+The New Leaf Tavern was a spacious inn with a large common room with a welcoming fireplace, a collection of tables, a hearth, and many casks of libations.
+
+Atmosphere
+The inn occasionally hosted traveling minstrels circa 1374 DR, namely the sweet-voiced duo of Shymon and Scarbunkel.
+
+History
+In the, the innkeeper was a middle-aged bald human male with blonde beard and mustache. He shared no love for Luskan liked to share a story of how one shifty Luskanite stayed at the inn but evidently did not stick around.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Storm of Zehir
+References
+
+---
+
+## Neverwinter kukri
+
+Neverwinter kukri were enchanted exotic blades commissioned by Calimshan Businessman's Embassy in Neverwinter in the late 14 century DR.
+
+Powers
+Neverwinter kukri possessed a +2 enchantment that enhanced their damage output and guided the wielder's hand towards the target. Additionally, these weapons improved the wielder's fortitude.
+
+History
+These magic blades were a local variant of kukri found in the city of Neverwinter. They were ordered by Calimshan Businessman's Embassy especially to be gifted to individuals who culturally represented the nation of Calimshan in the north. By the late 14 century DR, some of these blades ended up on black markets and were sometimes available for purchase from dealers of magic arms and armor.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## New Bride
+
+The New Bride was the fictional, planes-hopping vessel of Captain Tenebrux Morrow, the protagonist of The True and Impossible Adventures of Tenebrux Morrow. The daring captain led the crew of her ship on a journey that spanned the breadth of cosmology from the Feywild to the Shadowfell and beyond.
+
+Inhabitants
+Among the crew members of the New Bride were:
+ A unnamed halfling smith, who was offered over to an eladrin community as recompense for insulting their customs.
+ Erules, a goblin tinkerer and crafted who was abandoned alone in the Elemental Plane of Air.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Neyanla
+
+Neyanla was a water naga guardian of a mystical stream on the Malatran Plateau that housed magics of a jungle spirit who revered all reptiles in ages before the 14 century DR.
+
+Description
+Neyanla was a  long beautiful naga with emerald and turquoise scales that formed reticulated patterns of brown and pale jade. Her body had red spikes running along the spine that rose up when Neyanla was angry. She had pale green eyes. Neyanla was a fierce protector of the stream but not aggressive. She was curious and engaged in conversation in her melodic voice with white who bore no ill will.
+
+Abilities
+Like many other nagas, Neyanla was a capable spellcaster. She usually memorized such spells as magic missile, burning hands, web, charm person, and lightning bolt.
+
+History
+In the Year of Gathering Darkness on the Malatran calendar, Neyanla lived in a mystical stream's waters, serving as its guardian, long after the patron spirit of the steam had left the Living Jungle. The stream possessed magic, and the naga collected payment from those who would drink of it. Her price was an honest conversation. During the Festival of the Mask in the Year of Gathering Darkness, some Festival Walkers who approached the stream threatened its guardian. Neyanla quickly killed these individuals, three Nubari and two shu adventurers. Their bodies would soon be discovered by a group of heroes of the Living Jungle who, too, participated in the Festival of the Mask. Neyanla was there every year for the festival to converse with guests as the festival itself began two decades earlier when a man drank from the stream and communed with the naga to learn to be closer to the jungle land. Those Festival Walkers who were pure of heart received a boon from its magical waters: a permanent ability to speak with plants or speak with animals once per day.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Nekode
+
+A 'nekode  was a weapon and climbing tool.
+
+Description
+The nekode, a versatile tool utilized by ninjas, served dual purposes. Consisting of a pair of straps or gloves with spikes embedded in the palms, its primary function was to aid in climbing by securing a stronger grip through jamming the spikes into cracks. Additionally, the nekode could be employed as a means to inflict minor damage by clawing at an opponent. While wearing the nekode, one could still utilize other items with ease.
+
+Typically, they were worn only when necessary, as they readily identified the user as a ninja. Outside of Kara-Tur, the nekode was a common weapon in the Underdark.
+
+Notable Users
+Classes
+ Sohei were known to utilize the nekode.
+Appendix
+See Also
+ Grayclaws
+ Tiger's claws
+Appearances
+
+References
+
+---
+
+## Necrotic transference
+
+Necrotic transference was a daily weapon-focused prayer available to clerics during the post-Spellplague era.
+
+Effects
+When necrotic transference was cast a weapon being wielded by the cleric would temporarily be swathed with shadowy necrotic energy. Any creature struck by the weapon while this prayer was active upon it would suffer from the necrotic energy, having some of their lifeforce drained. That lifeforce would then be transferred as a surge of healing to an ally of the cleric's choosing within .
+
+Components
+Casting this spell required the cleric to be wielding a weapon.
+
+History
+In the, a party of four Daggerdalesmen adventurers were summoned to the mines of Tethyamar by the Banite priestess Lorin-Aria to kill the Zhent wizard Rezlus and put an end to his plans to conquer Daggerdale and the greater Dalelands region. Among this party of adventurers was a dwarf cleric who knew the prayer necrotic transference.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Neaveil
+
+Neaveil was a priest of Bane in the mid–14 century DR.
+
+Relationships
+Elthaulin believed Neaveil and Oprion Blackstone were more loyal to him than to Fzoul Chembryl.
+
+History
+In late, while Fzoul Chembryl prepared for the final assault of Shandril Shessair at the Citadel of the Raven, Elthaulin called upon Oprion and Neaveil, telling them to assemble all underpriests whose loyalty was to him rather than Fzoul.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Neverwintan red veins
+
+Neverwintan red veins were a kind of sweet candy from the city of Neverwinter.
+
+Description
+The confection consisted of strips or "veins" cut from a mixture of sugar, honey, and flour and given the vivid red color by cherries or strawberries. They made a "rope" when bundled together.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Neverwinter: Demonweb Pits
+
+Neverwinter: Demonweb Pits is an expansion module for the massively-multiplayer role-playing game Neverwinter. Released in July 2023, the expansion ties in with the Way of the Drow trilogy of novels by R.A. Salvatore, continuing the story began in the previous modules Northdark Reaches and Menzoberranzan.
+
+Features
+ Storyline written by R.A. Salvatore and Geno Salvatore tying in to the Way of the Drow trilogy of novels
+ New Campaign & Adventure Zone: Narbondellyn
+ New Dungeon: Demonweb Pits
+
+Plot
+
+Index
+Characters
+Ahmatot • Bobby • Gromph Baenre • Lolth • Orcus • Sikasila • Uni
+
+Creatures
+drow • human • marilith • unicorn
+
+Items
+mythallar • Zhaun'ol'leal
+
+Locations
+Demonweb Pits • Menzoberranzan • Narbondel • Narbondellyn • Underdark
+
+Organizations
+House Fey-Branche
+
+Appendix
+Gallery
+
+References
+
+External Links
+ Launch trailer
+
+Connections
+
+---
+
+## Nesger
+
+Nesger was a spy for Belgon Bradaskor in the mid-14 century DR.
+
+Relationship
+He referred to Belgon as Master.
+
+History
+Nesger hurriedly reported to Belgon Bradaskor in late, badly injured and weary beyond measure, regarding Orthil Voldovan's caravan in which Shandril Shessair was traveling at the moment. He mentioned that there were entirely too many wizards, and that Shandril's spellfire was slaying them all, and torching the wagons too. He claimed he'd back her against anyone, then staggered away without elaborating.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ned'Cirannis
+
+Ned'Cirannis was a drow male who became a cultist of the Absolute in the late 15 century DR.
+
+History
+In the, Ned'Cirannis was initiated to the Cult of the Absolute in the Moonrise Towers. He became part of the goblin and drow army under the command of Minthara Baenre that targeted the Emerald Grove in the Western Heartlands. He was scouting the grove but was caught off guard and killed by a druid in the form of a bear. Subsequently, his body was taken to Archdruid Halsin and Nettie's story to be dissected. In the process, the druid discovered that Ned'Cirannis was infected by a mind flayer tadpole.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Needle of the outlaw rogue
+
+The needle of the outlaw rogue was an intricate enchanted dagger from the late 15 century DR.
+
+Powers
+The weapons possessed a minor enchantment that made it hum with a longing for vengeance.
+
+History
+The needle of the outlaw rogue's history was a mystery. It could be found in the Western Heartlands, along the banks of the River Chionthar in the late 15 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Nessa (displacer beast)
+
+Nessa was the displacer beast servant of the orthon Yurgir for a time during the late 15 century DR.
+
+Personality
+She was wholly devoted to her master, even to the detriment of her own self-determination.
+
+Abilities
+Nessa possessed darkvision and like others of her kind was exceptionally evasive in battle.
+
+Relationships
+Nessa believed herself to be Yurgir's "heart-jewel", that they were true loves. Unfortunately, Yurgir had been ordering his merregon quartermaster to dose Nessa's meal with a concoction that included succubus spittle. That treatment incited Nessa's adoration for the orthon, and ensured her loyalty as a fighting companion.
+
+History
+She remained with Yurgir in the Gauntlet of Shar for some time, up until at least the .
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Netherstone
+
+The Netherstones were three magical artifacts associated with the Crown of Karsus.
+
+Powers
+They could be wielded to exert control over the Crown and anyone who wore it.
+
+History
+They were separated from the Crown during the events of Karsus' Folly in the .
+
+In the, they were used by the Chosen of the Dead Three, who had empowered and enslaved an elder brain using the Crown.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Necromantic Codexes, Their Enigmas
+
+Necromantic Codexes, Their Enigmas was a scholarly treatise that recorded information on rare and obscure books of necromancy, penned sometime before 1367 DR.
+
+History
+Necromantic Codexes once was contained in a library of the High Heralds within the Moonrise Towers. The book bore stamps of those who read the tome because of its content – lore about necromantic tomes, their magic locks, and information on deciphering them. One stamp was of note. The book was once requested by a Red Wizard "researcher" Ilyn Toth in his search for the secrets of The Necromancy of Thay. The librarian denied the request as Toth's interest seemed to be more than just casual research. The librarian also noted that Necromantic Codexes did not have information on The Necromancy of Thay and instead, the needed Tharchiate Codex.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+
+References
+
+---
+
+## Neverwinter: Spelljammer
+
+Neverwinter: Spelljammer is an expansion module for the massively-multiplayer role-playing game Neverwinter. Released in November 2023, the expansion ties in with the 2022 boxed set Spelljammer: Adventures in Space.
+
+Features
+ New Campaign: Light of Xaryxis
+ New Adventure Zone: Wildspace
+ New Trial: Defense of the Moondancer
+
+Plot
+
+Index
+Characters
+Alphonse Knox • Elana Sartell • Xedalli • Zoor'lar
+
+Creatures
+astral elf • lizardfolk • miniature giant space hamster
+
+Items
+disintegration blade
+
+Locations
+Wildspace
+
+Organizations
+Xaryxian Empire
+
+Miscellaneous
+Dirty Deceit • Moondancer
+
+Appendix
+References
+
+External Links
+ Launch trailer
+
+Connections
+
+---
+
+## Netheril Mint
+
+The Netheril Mint in Eileanar was one of three mints that produced official currency within the realm of ancient Netheril.
+
+Location
+The Mint lay on the southern edge of the city, near the Museum of Heavy Magic.
+
+Structure
+The Mint was shaped like a pyramid, similar to the coins it made.
+
+Activities
+The Mint employed a total of 100 staff and guards as it produced the distinctive coinage of Netheril, pyramid-shaped metal coins that had a three-dimensional image of a flying enclave within the pyramidal facings. The arcanists Elgiva and Evemerus oversaw the group of wizards who created these illusions, which ensured that the coins could not be counterfeited. The square base of the coin was marked with the bust of Nether the Elder, as well as the phrase "E Magicus Unum" and a "K" for the enclave of its manufacture.
+
+Defenses
+The building was heavily protected by magical wards that prevented any possible magical ingress or egress, and was heavily patrolled and watched by both magical and mundane means. The guards were led by Everdingen and his lieutenants Szematseen and Fieschi with the assistance of the priest Debac, who watched the front doors and used divination magics to prevent any theft or sabotage. The punishment for any attempted theft was usually a quick execution, or slightly slower execution via banishment to the Negative Energy plane.
+
+Appendix
+References
+
+---
+
+## Neverwinter Nights: Mobile
+
+Neverwinter Nights: Mobile was a mobile game developed by FloodGate Entertainment (the developer of the Neverwinter Nights: Shadows of Undrentide) and published by JAMDAT Mobile in 2004.
+
+Development
+Background music was taken from (or heavily influenced by) BioWare's Neverwinter Nights game.
+
+The game allowed players to download new objects and locations from the internet.
+
+Gameplay
+Character creation
+The game used the 3rd Edition D&D rules. The player could choose between seven races and seven classes (barbarian, cleric, fighter, monk, paladin, rogue, and sorcerer). After rolling a dice the player could distribute points between 6 characteristics. It was possible to re-roll the stats unlimited amount of times, until the player was satisfied.
+
+The player could choose between character portraits taken from BioWare's Neverwinter Nights.
+
+Neverwinter Nights Mobile is divided into two maps. You have the world map and then the playing area.
+
+Maps
+
+Combat
+
+Plot
+Chapter 1
+
+In the first chapter, the player starts as a foster child of a Dusk Circle druid (Meleanth). The adopted father entrusts the character with the mission of uncovering the source of a blight, described as mysterious black smoke, tainting the forest's inhabitants and menacing the Dusk Circle Grove and the Kryptgarden Forest.
+
+Eventually, it's revealed that the blight stems from displaced dwarves mining ore in the forest. The dwarven leader (Kosset) agrees to cease their metallurgical activities upon completion of various quests. Much of the playtime is spent mediating conflicts between the druid and the dwarven leader. The character's heroic endeavors include confronting kobolds, thieves guilds, undead, orcs, and tainted fire elementals.
+
+Chapter 2
+
+Chapter 3
+
+Index
+Characters
+ Kosset • Meleanth • Vero
+
+Creatures
+ bear • bugbear • dwarf • elf • fire elemental • gnome • goblin • half-orc • halfling • human • imp • kobold • orc • rat • snake •
+
+Locations
+Regions
+ Sword Coast
+
+Settlements
+ Dusk Circle Grove
+
+Wilderness
+ Kryptgarden Forest
+
+Items
+Armor padded armor
+Weapons morningstar
+
+Magic
+Armor
+
+Weapons
+
+Wands wand of inflict light wounds • wand of resistance • wand of expeditious retreat
+
+Organizations
+Dusk Circle
+
+Appendix
+External links
+
+ Neverwinter Nights: Mobile at the FloodGate Entertainment website
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Nether Age
+
+The Nether Age was a period of the history of Netheril lasting from  to . It was a very important age for Netheril as the legendary Nether Scrolls were found during this time.
+
+History
+The Nether Age started with the discovery of the Nether Scrolls by Finder. These very powerful scrolls granted the Netherese greater understanding of magic and made their rise possible.
+
+In, Congenio Ioun created Congenio's pebbles, which were later refered to as ioun stones.
+
+The Netherese discovered the dwarves of Delzoun in  and established trade routes with them.
+
+Appendix
+
+References
+
+---
+
+## Neetha Darra
+
+Neetha Darra was a human chambermaid at the Yawning Portal inn in Waterdeep in the late 14 century DR.
+
+Activities
+Circa 1375 DR, she worked alongside Hendra Stornshar, Pheldelopae Eleintwind, and Yamra Stelkyn in doing the everyday cleaning of the inn. They were hardworking and dedicated to the owner Durnan's family.
+
+Description
+She was attractive and strong.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Nettle beer
+
+Nettle beer was a variety of beer brewed from the Malatran jungle nettle plant on the Malatran Plateau of Kara-Tur.
+
+Description
+Nettle beer was stored in wineskins and was considered a valuable commodity in the Living Jungle. Containers of nettle beer as well as harvested nettle plants were available for purchase or barter from the local merchants, including Abu, a hedgehog katanga merchant in the late 14 century DR.
+
+Appendix
+See Also
+Nettle soup
+
+References
+
+---
+
+## Nettle soup
+
+Nettle soup was a type of soup cooked using the Malatran jungle nettle plant from the Malatran Plateau of Kara-Tur.
+
+Description
+Nettle soup was stored in wineskins and was considered a valuable commodity in the Living Jungle. Containers of nettle soup, as well as harvested nettle plants, were available for purchase or barter from the local merchants, including Abu, a hedgehog katanga merchant in the late 14 century DR.
+
+Appendix
+See Also
+Nettle beer
+
+References
+
+---
+
+## New Breen
+
+New Breen was a genasi port city located in the Bay of Akanûl, in Akanûl, in the 15 century DR.
+
+Description
+Most of New Breen was located on an earthmote floating above an island in the Bay of Akanûl that was considered to be the lower neighborhood of the city, named "Lower Breen". Many waterfalls flowed from an unseen source inside the earthmote and fell into Lower Breen, creating a curtain of mist. New Breen was said to be designed after Breen, a genasi city located in Shyr, a realm on their homeworld of Abeir.
+
+Inhabitants
+New Breen was inhabited mostly by genasi.
+
+Economy
+New Breen was a prosperous city thanks to its port, located in Lower Breen, that served as a bridge between west and east Akanûl.
+
+Appendix
+References
+
+---
+
+## Nelezmur
+
+Nelezmur was a War Wizard in the late 15 century DR.
+
+Relationships
+His name was directly known to Ganrahast.
+
+History
+In Mirtul of, Ganrahast assigned four War Wizards to prevent access to anyone seeking entrance to the Chamber of Wyms Ascending in Castle Obarskyr, in the aftermath of the discovery of the bodies of the guards killed by Marlin Stormserpent and his forces during their search for the Wyverntongue Chalice. These wizards were Tomarr, Helharbras, Baerendrith and Nelezmur.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Nethglas Stormserpent
+
+Nethglas Stormserpent was a heir of House Stormserpent in the early-to-mid 14 century DR. He stole the Wyverntongue Chalice as a prank, and later accompanied Emvar Obarskyr on the day of their deaths.
+
+Description
+Nethglas had a strong nose and a mustache.
+
+Personality
+To his little brother Marlin, he was unpleasant and shark-like.
+
+Relationships
+He was the son of Narmitra Stormserpent. He was the eldest of four siblings, followed by Elgrym, Marlin, and Rondras Stormserpent.
+
+History
+As a youthful prank, Nethglas Stormserpent stole the Wyverntongue Chalice from the Room of the Red Banner and hid it instead near the Dragonskull Chamber, both in Castle Obarskyr. He told his three brothers about it, and meant to brag about it more, but instead he began to fear consequences and swore them to secrecy. When his brother Elgrym told Nael Rowanmantle, Nethglas had the two of them killed in what he later characterized as an "unfortunate accident" to his two remaining brothers.
+
+He was slain later while accompanying Emvar Obarskyr in the Vast Swamp, where they were ambushed by Sembian forces in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Nestur Laklantur
+
+Nestur Laklantur was the Royal Cook of the Low Kitchen in Castle Obarskyr, Suzail, during the late 15 century DR.
+
+Description
+His backside was generously ample.
+
+Abilities
+The Low Kitchen had at one point, a cream sauce with mushroom which smelled of nutmeg and lion meat which had been spit-seared and cut thickly, likely made under his supervision. It took him several hours to make a glazed manymeats pudding, and his sauce was lumpy, strongly implying those may have been the feats testing his abilities as a cook.
+
+Activities
+He was the Royal Cook of the Low Kitchen in Castle Obarskyr.
+
+History
+Nestur Laklantur was working in the Low Kitchen one day in, when the fugitives Storm Silverhand and Elminster Aumar accidentally fell into it, slipped all through the table, and bounced off his backside, pushing him into a pudding and ruining his cooking. He turned around with a ladle, against which Storm's sword bounced, saving his life, and unleashing a blast of wild magic that converted the ceiling into a solid slab of sapphire. The slab shattered and fell, stunning everyone in the room.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Neogi language
+
+The Neogi language, which was properly called K'azz'jak'n, was the native language of the neogi, a race of instellar slave traders. Some believed it to be an extinct language, falling out of use among the neogi in favor adopting the languages of those they commonly traded with, such as Common, Undercommon, and Terran.Lords of Madness is a setting agnostic book and may not be representative of Realms canon, in contrast to Demihumans of the Realms, which does state they have their own language. Lords of Madness does reflect the design decision from 3 edition onward of not giving the neogi their own language, however, pruning of racial languages was widespread post-2 edition, therefore this cannot be taken as a sign that their language is in fact extinct within Realms canon.
+
+Speakers
+The Neogi language was a common secondary language among aartuk, space mimics, and elves of the Elven Imperial Fleet. In terms of geographical reach, Neogi was common among inhabitants of Realmspace and in much of the Astromundi Cluster. In the Cluster this language was so widespread as to have nearly as many speakers as Common.
+
+It was generally discouraged for non-native speakers to attempt saying the names of the Neogi deities, for an incorrect pronunciation was considered among neogi to be an egregious offense warranting torture and death.
+
+Phonology
+Sibilants were quite prominent in K'azz'jak'n, with speakers of the language producing sounds reminiscent of whirring thri-kreen or the hissing of snakes. And the way in which words were structured and ordered in the language was considered by other creatures to be complex.
+
+Being the language of a sexless race, K'azz'jak'n lacked gendered words. For example, instead of "god" or "goddess" the language only had an equivalent of "deity".
+
+Dictionary
+J
+Jik'qu
+"Gray Waste"
+K
+Ka'jk'z'''
+ The name given to the neogi homeworld within their legends.Ka'jk'zxi a sort of overgod and dead power responsible for creating the rest of the Neogi pantheon.Karish"Abyss"Kil'lix The neogi god of assassins, death, murder, and poison.Ki'pik"Baator"Ki'zid"
+"Favored of deities"; an honorific suffix that neogi priests commonly added to their names.
+Kr'tx
+ The neogi god of war, brutality, and strength.
+P
+P'kk
+ The neogi god of fear and tyranny.
+T
+Thrig'ki
+ The neogi god of "love", though their portfolio would be more accurately described as envy and jealousy by other creatures.
+T'zen'kil
+ The neogi god of torture, pain, and suffering.
+Y
+Yrthni ma'adi
+ "great old master", the name for a late stage of life in the neogi lifecycle.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Nereid language
+
+The Nereid language was the racial language of nereids, a type of aquatic fey.
+
+Speakers
+Beyond nereids themselves, Nereid was a common secondary language among the pahari of Zakhara, some planeswalkers, and the specialty priests of gods that held dominion over water. Such priests included the druids and peacemen of Eldath, the waterwalkers of Istishia, and the waveservants of Umberlee.
+
+Notable Speakers
+ Nimtu, one of a pair of humans who owned The Painted Boat restaurant, learned to speak a smattering of the Nereid language after befriending the nereid Anemone.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Nelburn Frust
+
+Nelburn Frust was an inhabitant of the city of Baldur's Gate in the late 15 century DR.
+
+Description
+Nelburn was a dark-skinned gold dwarf man with a clean-shaved face, black hair, and blue eyes.
+
+History
+In the, Nelburn Frust procured a spell or an incantation of dubious authenticity, presumably from the nearby Devil's Fee magic shop. Regardless of the spell and the promises of luck it could deliver, Nelburn struggled greatly with recitation.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Nechelseiya Sammartael
+
+Nechelseiya Sammartael was a merchant's wife in Suzail, Cormyr in the late 15 century DR.
+
+Description
+She was heavily scented.
+
+Personality
+The woman woke some shopkeepers up in the middle of the night just to sample scents, buying the darnedest things. She didn't like to be kept waiting, either.
+
+Relationships
+Her husband was a rich man.
+
+Activities
+She had a habit of buying things from the alchemist at late hours in the afternoon, and was known for her gossip being bad for business.
+
+History
+On the eve of the Council of the Dragon, Nechelseiya Sammartael spent a late evening in Immaero Sraunter's apothecary, sampled sixteen vials of perfume and bought only an old ointment. The man had to get out of bed to attend to her purchase. Sraunter's guest, the evil vampire archmage Manshoon, took note of that.
+
+Rumors & Legends
+Manshoon made it a running joke of reminding Sraunter of Nechelseiya Sammartael. Sraunter eventually got so overworked by Manshoon, he became concerned that she might get in his back rooms if he didn't keep watch.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Neld
+
+Neld was a hostler at Castle Obarskyr in the late 15 century DR.
+
+Personality
+He was rightly suspicious.
+
+Activities
+He was the senior hostler.
+
+Description
+On the day after his fight with Mirt, he was going to sport two round, swollen black eyes.
+
+History
+When Mirt tried to get the hostler to ready a coach for him in the middle of the night after the massacre during the Council of the Dragon in late Mirtul of the, the senior hostler was reluctant to comply as he spoke like an outlander, demanding a closed coach to a particular place, and named the authority of a high-rank War Wizard without saying which one. His suspicion led to Voruld, a Purple Dragon soldier, to intervene; after Mirt took him down, Neld tried to defend himself. He got punched into the floor twice before he stopped trying to get up, and accepted Mirt's commands.
+
+Neld drove Mirt's coach to the Three Dolphins Door before leaving. Mirt apparently was hitting him all the way.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Nesting doll
+
+A nesting doll was a type of wooden doll found on both Toril and in Barovia, that were enjoyed by children and adults alike.
+
+Description
+Nesting dolls were carved to be completely hollow inside, easily separable into a top and bottom half, and were sold as sets. Each of the dolls within a set would be incrementally smaller than the others, allowing them to be "nested" inside one another. And each of the dolls would be painted to depict something distinct from one another.
+
+Availability
+Aurora's Whole Realms Catalogue sold a wide range of finely carved nesting dolls across Faerûn, all at the same price of 2 gold pieces.
+Adventurer's Set A nesting doll set that together depicted an adventuring company. The individual dolls within the set depicted a bard, cleric, mage, rogue and warrior.
+Avatar Set A nesting doll set that depicted notable personages involved in the Avatar Crisis. The individual dolls within the set depicted the cleric Adon, the mage Elminster, and the gods Cyric, Kalimvor, and Mystra.
+Famous Wizards A nesting doll set that depicted famous mages of Faerûn. The individual dolls within the set depicted Elminster, Khelben Arunsun, Lord Manshoon, Vangerdahast Aeiulvana, and a generic Red Wizard of Thay.
+Heroes and Rulers A nesting doll set that depicted Alusair Obarskyr, King Azoun Obarskyr IV, Mourngrym Amcathra, Piergeiron Paladinson, and The Simbul.
+Races Set A nesting doll set that depicted a human and the four base types of demihumans, those being a dwarf, elf, gnome, and halfling.
+
+In the Domain of Barovia, the toysmith Gadof Blinsky of Vallaki sold decidedly more macabre nesting dolls within his shop, Blinsky Toys. One such set depicted a person getting older with each successive doll, until finally the smallest of them depicted a mummified corpse.
+
+Appendix
+Appearances
+
+Gallery
+
+External Links
+
+References
+
+---
+
+## Needle
+
+Needles and pins were small tools used for tailoring and medical purposes.
+
+Availability
+Aurora's Whole Realms Catalogue sold sewing needles (4 cp per 10) and pins (3 cp per 10), alongside other tailoring supplies.
+
+It also sold extensive medical kits that included many tools, including various curved and straight needles for sewing up flesh.
+
+Usage
+Garment needles came in a variety of sizes and purposes, including sewing, crocheting, and knitting. Pins and needles were often stored in aptly-named pincushions.
+
+Before a needle and thread could be passed through a tough material like leather or wood, a hole would be prepared with a tool such as an awl or a delicate drill.
+
+Similar medical needles were used to sew flesh instead of fabric.
+Magic
+ Avoidance required a magnetized needle to cast.
+ Deeppockets required a small golden sewing needle.
+
+Appendix
+
+See Also
+ Awl
+ Pincushion
+ Scalpel
+ Toothpick
+
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Necklace of elemental augmentation
+
+Necklaces of elemental augmentation were pieces of enchanted tourmaline jewelry created to argument a spellcaster's cantrip magic sometime before the late 15 century DR.
+
+Powers
+Tourmaline stone inlaid in the necklace radiated heat, almost too hot to wear. This internal energy was the enchantment that strengthened certain types of cantrips. All cantrip spells that dealt acid, cold, fire, lightning, or thunder damage had their damage output increased in accordance with the caster's spellcrafting prowess.
+
+History
+As of the, a necklace of elemental augmentation belonged to the Inquisitor W'wargaz of Crèche Y'llek. The magic jewelry was stored in W'wargaz's quarters in the ruined Rosymorn Monastery.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Netherpelter
+
+Netherpelters were a kind of magical Netherese missile weapon similar to a blowgun that worked with magical or mundane ammunition.Despite the reference to a blowgun, it is unclear if the netherpelter actually resembled a blowgun or some other device, and if it was propelled by breath, bowstring, or pure magical force.
+
+Powers
+Netherpelters could be loaded with normal darts or pellets, and would massively improve the speed, range, and power of the projectile. Special bespoke pellets were intended to be used with the netherpelter, however, with each type having a powerful magical effect.
+
+ Blackhole
+The first creature or object struck by the blackhole pellet was trapped indefinitely inside of it. While trapped, they were kept under an effect similar to temporal stasis or imprisonment. The imprisoned target could be freed by use of Chronomancer's time stop.
+
+ Blowhole
+The pellet would impact and pierce into the target as a normal projectile, then expand in size tenfold, violently rupturing the flesh.
+
+ Decay
+The target struck by the decay pellet would immediately begin to rot, rust, and otherwise decompose over a few minutes. The inexorable doom could be halted by a powerful dispel magic or cure disease spell.
+
+ Firepit
+The pellet detonated on impact, imitating a powerful Noanar's fireball explosion.
+
+ Waterpelt
+The pellet transformed into a large jet or tentacle of water on being launched, slamming the target with crushing force as if by the punch of a water elemental.
+
+ Windwhip
+The windwhip pellet would forcibly ground a flying target, as if an air elemental had grabbed it and pulled it down.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Nelinarian Tansmith
+
+Nelinarian Tansmith was a truenamer. He led one of the study groups in the House of the Unnamed in the late 15 century DR.
+
+Abilities
+Besides his maturing truenamer skills, he had some experience as a fighter.
+
+Activities
+As of, he led a study group on truespeak.
+
+Relationships
+He was one of the study group leaders in the House of the Unnamed.
+
+Appendix
+References
+
+---
+
+## Neither Man Nor Beast
+
+Neither Man Nor Beast is a 2-edition Advanced Dungeons & Dragons adventure module set in the Ravenloft campaign settings.
+
+Description
+
+Index
+
+Characters
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •  •  •  •  •
+
+Creatures
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •  •  •
+
+Locations
+ •  •  •  •  •  •  •
+
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Organizations
+
+Magic
+Spells
+ •  •  •
+Items
+ •  •  •
+Other
+
+Religion
+
+Miscellaneous
+Armor
+ •
+Weapons
+ •  •  •  •  •
+Food & Drink
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+Languages
+ •  •  •
+Materials
+ •  •  •  •  •  •  •
+Ships
+ •  •  •  •
+Vegetation
+ •  •  •  •  •
+Works
+ •  •  •  •  •  •  •
+Other
+ •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •
+
+Appendix
+Gallery
+
+External Links
+
+Connections
+
+---
+
+## New Sarshal
+
+New Sarshal was a small fishing village in Theskin the 14 and 15 centuries DR.
+
+Geography
+New Sarshal was a coastal village that stood on the eastern shores of the Easting Reach, bordering the Forest of Lethyr's western edge, near where Lethyrstream emptied into the Inner Sea. North New Sarshal were the settlements of the Great Dale: the city of Uthmere and the town of Lethgate, and to the south – the towns of Nyth and Ethdale. A minor road that connected the cities of Uthmere and Telflamm passed New Sarshal.
+
+Trade
+New Sarshal's main industry was fishing, but the village was prosperous thanks to the Lethyrstream, or the "secret local source of wealth," named so for abundant and very pure gold in its waters. Manly villagers filtered water to gather gold flakes to be melted. In the late 15 century DR, Maerloth Hrimmon, once a worker of a Chessentan mint, bought river gold from the villages and smelted them into Prathandan coins using coin molds he brought from Luthcheq. A new careful industry was also born in the late 15 century – small-scale logging in the Forest of Lethyr. The wood was used to craft sturdy but quite mundane furniture by the Sandron family of New Sarshal.
+
+Appendix
+References
+
+---
+
+## Neverwinter's Pride
+
+Neverwinter's Pride was a caravel owned by Lord Dagult Neverember as of the late 15 century DR, and was one of his most prized ships. Even so, he was known to lend it to adventurers for the purpose of competing missions of critical importance to Neverwinter, however he expected it to be well taken care of.
+
+Description
+The ship was about  long and  wide. It had two  masts, each topped with a small crow's nest reachable via rope ladder. Two ballistae were mounted on the rear of the ship.
+
+The space below deck had  ceilings and contained furniture, rowboats, and supplies.
+
+History
+In the, Lord Neverember loaned Neverwinter's Pride to a group of adventurers tasked with retrieving the Talon of Umberlee from the Tidescourge pirates based at Port Llast. To protect the ship, the adventurers were instructed to hide it in a nearby cove while they assaulted the pirates' floating lair of Murdershoal by rowboat. Unbeknownst to the adventurers, the ship was targeted by a group of Umberlee-worshiping sahuagin led by Baron Saarkrith, who attacked the ship alongside a kraken that wrapped its tentacles around the vessel.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Nether grasps
+
+The nether grasps were a pair of magical gloves found at Granwell Keep in the mid-1480s DR.
+
+Description
+The gloves had a shadowy, smoky appearance, and never seemed to be fully lit even in direct sunlight.
+
+Powers
+The Grasps made the wearer more adept at picking locks, landing lethal blows, and slipping away unnoticed thereafter. They also contained a benign kind of demonic strength that passed on to the wearer, and made it easier to cast spells with delicate movements.
+
+History
+The gloves were found in Granwell Keep following a battle between the forces of Thultanthar, the Harpers, and the demonic horde of Razagnol. The demons had been summoned by the Abyssal Planus Mechanus Nether Scroll after a Netherese arcanist accidentally used the Nether Scroll to open a portal to the Abyss.Though not explicit, the implication would be that these were the gloves being worn by the Netherese arcanist as they handled the Nether Scroll.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Nerth
+
+Nerth was a small island in the Trackless Sea immediately south of Ruathym.
+
+Appendix
+
+Gallery
+
+References
+
+---
+
+## Neesine Volathan
+
+Neesine Volathan was a human inhabitant of Eveningstar during the mid-1480s DR.
+
+Description
+Neesine had pale blonde hair and dark blue eyes. She wore a black and white dress with brown leggings..
+
+History
+
+Around the time of the Sschindylryn invasion of Eveningstar, Neesine tended to her small orchard in Eveningstar.
+
+Appendix
+Notes
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Neverwinter: Adventures in Wildspace
+
+Neverwinter: Adventures in Wildspace is an expansion module for the massively-multiplayer role-playing game Neverwinter. Released in April 2024, the expansion ties continues the story and setting from the preceding module, Neverwinter: Spelljammer.
+
+Features
+ Adventure Zone Expansion: the systems of Doomspace and Xaryxispace have been added to the Wildspace Adventure Zone
+ New Dungeon: The Imperial Citadel
+
+Plot
+
+Index
+Characters
+Gaila Eanor • Ves'trah • Vocath • Xeleth
+
+Creatures
+astral elf • githyanki • mercane
+
+Locations
+Doomspace • Gradius • Hymiera • Imperial Citadel • Temple of Light • Vaerduran • Vocath's Base • Wildspace • Xaryxispace
+
+Organizations
+Trade Consortium • Xaryxian Empire
+
+Miscellaneous
+Moondancer
+
+Appendix
+Gallery
+
+References
+
+External Links
+ Launch trailer
+
+Connections
+
+---
+
+## Neverwinter: Mountain of Flame
+
+Neverwinter: Mountain of Flame is an expansion module for the massively-multiplayer role-playing game Neverwinter released in July 2024.
+
+Features
+ Returning Adventure Zone: Mount Hotenow
+ Returning Dungeon: Lair of the Mad Dragon
+
+Plot
+
+Index
+Characters
+Chartilifax • Eric • Gommoth • Rohini
+
+Creatures
+fire archon • fire giant
+
+Items
+Hex Locus
+
+Locations
+Helm's Hold • Lair of the Mad Dragon • Mount Hotenow
+
+Organizations
+Ashmadai
+
+Appendix
+Gallery
+
+References
+
+External Links
+ Launch trailer
+
+Connections
+
+---
+
+## Nerys Dawnhelm
+
+Nerys Dawnhelm was an elf paladin in the late 14 century DR.
+
+Description
+Nerys had light skin, gray eyes, and neatly-styled short black hair. She wore a suit of half plate armor and carried an engraved longsword and shield.
+
+History
+In the, Nerys joined the Elves of Cormanthor at their base camp at the ruins of Myth Drannor. She served as a trainer for other paladins at the camp.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Nets Blandorf
+
+Nets Blandorf was a fisherman from the Lower City of Baldur's Gate in the late 15 century DR.
+
+Description
+Nets was a gold dwarf man with bronze skin tone, blue eyes, and black hair. He wore his facial hair trimmed into bushy muttonchops.
+
+History
+In the, as the Absolute crisis ravaged the Gate, Nets Blandorf's fishing business was damaged further by pollution of the Gray Harbor. Fishers in the Lower City continued pulling nets filled with fish covered in black oily goo. Nets Blandorf could not understand how fish could be dirty as it came from water. He assumed that his nets were dirty and needed a good scrub so they won't dirty the catch. In reality, the fish was smothered in oil pollution left behind by a submersible used by the Cult of Bane to transport Lord Gortash's prisoners into the drowned Iron Throne headquarters prison at the bottom of Gray Harbor.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Neddy
+
+Neddy was a member of the Order of the Burning Dawn in the late 15 century.
+
+History
+Sometime around, Neddy, along with fellow members of the Burning Dawn Gill, Calick, and Bryn Lightfingers, was escorting a merchant caravan along the High Road between Neverwinter and Luskan, when the caravan was ambushed by the Snarling Fang mercenary company. The members of the Burning Dawn were brought to the hideout of the mercenaries, and killed. Accused of being demons of the Abyss, Neddy and Gill were both executed by Sir Banagar, who carried out the sentence with a sword on the order of Javen Tarmikos.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Netheril (person)
+
+Netheril was the name used by a wizard of Freedale town in the mid-to-late 14 century DR.
+
+Description
+He was old and bearded.
+
+Personality
+He was stuck-up, and really did not care for getting pushed around by anyone.
+
+Abilities
+High Wizard Netheril was quite powerful, almost certainly far more than the adventurers he employed.
+
+Possessions
+His abode was a tower in Freedale where he kept no end of trinkets and books. Sometimes, he carried some minor magic he could sell, such as a spell scroll, a dozen enchanted arrows, or a potion of giant strength, speed, invisibility, or fire resistance.
+
+Activities
+He was willing to identify magical devices for a fee and sometimes he sold enchanted wares, but did not offer many other services.
+
+Relationships
+The man was attended by three warriors: his manservant Major Domo, and the guards Fortu, and Deval. The elf Taran Goldenstar was his apprentice.
+
+History
+In the mid-to-late 14 century DR, High Mage Netheril's apprentice Taran Goldenstar left for the Tomb of Damara, seeking an orb that an ogre was close to obtaining. After two days, Taran had not returned; the wizard had the town crier call for adventurers in Freedale. He later recruited a party, most likely made up of Slinker, Delvar Ironfist, Lordan the Pure, Morganth the Mysterious, Beldar the Brave, and Silverleaf Halfmoon to find his apprentice Taran Goldenstar in the Tomb of Damara. He intended to pay 100 gold pieces, but may have paid up to twice that.
+
+After the adventurers rescued Taran, if they returned to town, Netheril appealed to their sense of justice to stop the ogre Bonegnasher, who was close to attaining the orb of dragonkind, according to the elf's report. If the adventurers accepted, and returned with the orb, then Netheril almost certainly destroyed it.
+
+Rumors & Legends
+To the adventurers, Netheril was too mighty in magic for any real contest. However, to Taran, he was too old to adventure.
+
+Appendix
+Background
+The mage Netheril, much like the campaign in which he features, is an adaptation from First Quest, a Mystara product where he is instead a mage of Karameikos and his name is "Nethril" rather than Netheril. Like several other things in the campaign, his name is repurposed from existing Realmslore, namely the empire of Netheril, with no connection or explanation given. Also, in First Quest, he explicitly never sells magical items, his guards are never named, and he calls for "Major domo", rather than having a manservant called that.
+
+See Also
+ Netheril, the empire that was a namesake to the wizard.
+
+Appearances
+
+References
+
+---
+
+## Nether orb
+
+The nether orb was a magical crystal orb used by the forces of the Empire of Shade in the mid-1480s DR.
+
+Description
+The orb was carved from crystal that had a deep purple color.
+
+Powers
+The orb's primary use was in stealing life force from an injured victim and giving it to the wielder as magical energy. Thus, a caster could remain refreshed as long as they could keep physically striking a target. Less obviously, it granted a measure of protection against all sorts of hostile effects, especially elemental threats, and made the wielder's spells a little more deadly.
+
+History
+The orb was used by Netherese forces led by the arcanist Shai when she and Archwizard Amskar captured the meddling Oriphaun Huntsilver at Yarrow Glade in the Storm Horns. The ambush was broken by Oriphaun's allies, who defeated Shai and her group, and captured the orb in the process.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Neris Midler
+
+Neris Midler was an elder member of the extended Midler family in the mid-1480s DR, who lived together in the Midler farmhouse near Eveningstar.
+
+Description
+Neris was an older woman with brown skin and long white hair.
+
+Relationships
+Neris was the mother of Ricnan and Quilynn, and partner of Ianhand.
+
+History
+During the Sschindylryn invasion of Eveningstar, the drow forces of Vicala Szind attacked the farmhouse and captured the entire family alive so that she could interrogate them about the Thread of the Weave. Unknown to the drow, the household cook Maisby had escaped back to Eveningstar and sought help, getting first a pair of Purple Dragons and then a team of adventurers to investigate the farmhouse. Unfortunately, Vicala Szind had set all ten Midlers and Chandlers as part of a sacrificial life-draining spell, and the rescuers would have had to stealthily rescue each family member without Vicala noticing, lest she spitefully kill them.
+
+Neris and her husband Ianhand were bound up in one of the upstairs bedrooms, guarded by drow warriors until their fate was determined.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Netherese tomb (Stonelands)
+
+A Netherese tomb in the Stonelands was the site of conflict in the late 15 century DR.
+
+Geography
+The tomb was located in a dry, dusty region of the Stonelands. It was connected to an extensive cave network that went deep underground to the Underdark, linking to Daeronnax's lair and a small drow outpost.
+
+Inhabitants
+The area around the tomb was inhabited by harpies, lizardfolk, and scorpions. Deeper in the caves around the tomb lived sand mephits, bats, umber hulks, more lizardfolk, and the kobolds of Clan Daeronnax.
+
+The tomb itself was home to the mummy Laeron, and a number of loyal tomb guardians, skeleton warriors, quells, and wheeps.
+
+History
+During the 1480s DR, the tomb was invaded by the adventurers Popkin Shortshanks, Jarull Cartcoster, Liantor Stoneborn, Helayna, Kirina Aelorothi, and Tristran of Daggerford. They smashed a few undead and then passed through the secret passage behind Laeron's throne into the deeper caves, where they were ambushed and defeated by Clan Daeronnax kobolds. Popkin escaped and sought aid, sending a second team of adventurers to rescue her friends. By the time the reinforcements arrived, Laeron and more guardians had roused to defend the tomb, only to be smashed down again.
+
+Appendix
+Notes
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Neverwinter Eye
+
+The Neverwinter Eye, also known as the Eye & Tears, was a symbol popularized in the city of Neverwinter in the late 14 century DR, and still retained its presence in the late 15 century DR.
+
+Description
+The Neverwinter Eye was a blue image of an eye with a thin-slit pupil, topped with two sets of horns, two horns on the bottom, and three tears dripping underneath. It was believed in Neverwinter that the weeping eye offered protection.
+
+History
+The origins of the Neverwinter Eye dated back to the tumultuous year of the, when the Wailing Death plague ravaged the Jewel of the North, immediately followed by the betrayal of the city by its paragon, Aribeth de Tylmarande and a short war with Luskan that shook the city's economy. After the plague and the war ended. The city began to rebuild, and the blue image of a weeping eye, the Eye & Tears started popping up in the city, with the locals believing it to be a symbol of protection. As such, it became a new popular design to be tattooed, especially by sailors and salty dogs of Neverwtiner. One tattooist parlor of note that offered Neverwinter Eye tattoos was Rusty Al's Tattoo & Pawn located in the Docks District, one of the places damaged by the plague.
+
+By the, the Neverwinter Eye in white on a blue background was adopted by the Neverwinter Nine as part of their uniform. Members of the Nine wore a blue tunic adorned with the sign over their ceremonial armor. The Eye was worn by Sir Nevalle, a trusted aide of Lord Nasher Alagondar, and Darmon, who led the city guard in the late 14 century DR. The weeping eye-decorated uniform was still in use during and several years after the war with the King of Shadows that further damaged Neverwintran economy.
+
+The Neverwinter Eye was immortalized as a part of the monument dedicated to Nasher Alagondar that was erected in front of the Neverwinter arena, adorning his belt. The Neverwinter arena was reopened in the late 1490s DR.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Neese the Burrower
+
+Neese the Burrower was a wererat of the Riverside Rats gang, who dwelt in the Wheloon Prison of Cormyr during the late 15 century DR.
+
+Description
+As a wererat, Neese had brown fur.
+
+History
+Neese lived in Wheloon Prison with her fellow wererat gang. They were forced from their hideout by the Night Brigade under Storna Harnwood, who turned it into a Temple of Shar. After being driven to the exterior of the prison where the Purple Dragons made their base, Neese helped organize a counterattack with the surviving Rats, specifically targeting the enemy officer Karissa the Knife, who made a habit of dwelling underground and hoarding treasure. Thanks to Neese, Karissa's hideout in the Wheloon sewers was found and the greedy Master Thief killed.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Necchamin
+
+NecchaminNecchamin's name is spelled 'Nechamin' on the back cover of The Great Khan Game, but is spelled as Necchamin on his game card.  was the grand wizir of Agenais in the Whamite Isles. Necchamin represented Agenais in a series of wild conflicts between various nations and pirates of the Whamite Isles at some point prior to the mass death of the population in the .
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## New Year's Revel
+
+New Year's Revel was an annual celebration of a new year's arrival according to the Calendar of Harptos. It was celebrated across Faerûn in different ways, depending on local traditions, with the first day of the new year being a day off.
+
+Description
+New Year's Revel took place during winter, with its frigid winds' howling drowned out by boisterous drinking, feasting, singing, and laughing, notably, in the Lake of Steam region. New Year's gifting was a tradition in Sembia. Most customs for the celebration across Faerûn included a hearty meal on New Year's day, with families gathered together, remembering passed away members, telling stories, and toasting. In a similar manner, if a New Year's meal was held in the company of friends or amongst travelers on the road, each participant took a turn toasting and remembering a person dear to them who had passed away. Members of churches celebrated by praying to their primary deity, making a vow or a promise to them of a deed or, a resolution or a goal to achieve during the upcoming year. In Waterdeep, the New Year's day was a holiday during which people were allowed a day off work to stay home and sip on ciders and broths.
+
+Similar celebrations were held amongst the elves, with the celebrating of Yeartide. Dwarf worshipers of Berronar Truesilver considered the new year's day a holy day. The new year's celebration was also present in the planes; the city of Sigil celebrated the Day of Grace.
+
+Appendix
+See Also
+Feast of Lanterns
+Simril
+
+Appearances
+
+References
+
+---
+
+## Negarath
+
+Negarath was a Netherese enclave whose ruins were explored in 1375 DR by Fox-at-Twilight and a band of adventurers.
+
+Architecture
+Described as a city of madness, the buildings of Negarath looked like they were built upside-down, because the mythallar reversed gravity and the city floated upside down. Doors and other portals were a variety of mismatched shapes, and the buildings were wavy and irregular. There was a massive temple to Mystryl, and another to Amaunator. Only the central arcanist tower was somewhat normal. It narrowed like a pyramid, then widened again where it curled to a hook.
+
+Magical metal lifts throughout the city could be activated by black rods. There were floating beds of velvet, and furniture made of a variety of metals and glass.
+
+There was a wizard enclave beneath the streets, and below that an extensive sewer system and crypt. The enclave included a summoning circle that was protected by helmed horrors. The crypt contained murals of Netherese battles against phaerimm. There were a number of protective wards and glyphs throughout.
+
+Notable Locations
+The Sun Temple
+Spires of the Lady
+Forge of the Seven Stars
+The High Tower
+The Hive
+Nocturnal Gardens
+Nega's Manse
+
+History
+Negarath was founded by the Netherese arcanist Nega.
+
+Negarath once captured an illithid, who wrote about its disgust at the situation in Qualith on the wall of its cell.
+
+In, after Karsus's Folly, Nagarath crashed in the Plain of Standing Stones.
+
+Over time, the ruins of Negarath came to lie within a cavern system and its mythallar remained intact. A variety of creatures occupied the ruins, ruled over by ancient enemies of Netheril: a sharn named Ruukthalmuramaxamin, and the priest of Demogorgon, Gestal.
+
+After the demise of Gestal and Ruukthalmuramaxamin in the, the halfling Daltyrex Blacksoul, Mistress of the Depths of Madness and favored thrall of the Demon Prince, also known as Slip, claimed ownership of the ruin and the dungeon it contained.
+
+Notable Inhabitants
+Nega, a Netherese arcanist and the founder of Negarath.
+Barze, a Netherese arcanist and later a sorcerer-king of his self-titled Kingdom of Barze.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Nethaug
+
+Nethaug was a goblin chieftain of the mid–8 century DR.
+
+Involved in the Goblin Wars in the, Nethaug participating in the sacking of Mirabar. Nethaug raided the tomb of Prince Ereskas Torlath and stole the enchanted sword Namarra. Following the war, goblins were rendered nearly extinct in the North. However, Nethaug, with Namarra in hand, and others escaped back into the Spine of the World, into a ravine so remote that they would hold it securely well into the 14 century DR.
+
+Appendix
+References
+
+---
+
+## Netherbird
+
+Netherbirds  were a species of birds who served the god of tyranny Bane.
+
+Description
+Netherbirds ranged in size from small to near-human-sized, but they had black, dusty feathers, hideously large talons, and razor-sharp beaks, and they usually stank of blood and decay.
+
+Behavior
+Netherbirds were relatively intelligent for animals, and could be trained as messenger birds.
+
+Abilities/Combat
+Netherbirds attacked with beak and talon, screaming and hissing at their prey as they did so. They could fly, and quickly, but were not particularly skilled in the air.
+
+Ecology
+Netherbirds were always found in flocks of 3–30 specimens. They laired in the desolate regions of crags and high, rolling moors.
+
+Biology
+Netherbirds would eat all manner of flesh, living or dead. Their black, leathery eggs hatched unattended.
+
+History
+Netherbirds served Bane, but may have originally come from Avernus.
+
+Appendix
+References
+
+---
+
+## Nebelshield
+
+The Nebelshield was a magical shield from the Whamite Isles. Those with fighting ability could wield it, granting them impressive defenses in a series of wild conflicts between various nations and pirates of the Whamite Isles at some point prior to the mass death of the population in the .
+
+History
+The Nebelshield was created by the Nebelungen of Broddick, at least centuries before the mass death of the population of the Whamite Isles. The shield retained an affinity for its creators, and granted them more protection than it did to anyone else.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Nebelungen
+
+The Nebelungen were mysterious individuals from Isle Broddick in the Whamite Isles. They represented Broddick in a series of wild conflicts between various nations and pirates of the Whamite Isles at some point prior to the mass death of the population in the .
+
+Centuries prior, the Nebelungen created the Nebelshield, a magic shield which was most powerful when wielded by them.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Neddic Legion
+
+The Neddic Legion was a military group from Al-Ubaid in the Whamite Isles, in the Sea of Fallen Stars. They represented Al-Ubaid in a series of wild conflicts between various nations and pirates of the Whamite Isles at some point prior to the mass death of the population in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Neverwinter Nights: Doom of Icewind Dale
+
+Neverwinter Nights: Doom of Icewind Dale is the first chapter of the The Blades of Netheril campaign developed by Luke Scull and published by Beamdog and Wizards of the Coast for Neverwinter Nights: Enhanced Edition.https://www.patreon.com/posts/public-update-of-59829845
+
+Development
+
+Index
+
+Characters
+Protagonist
+Hero of Neverwinter
+Companions
+Aarin Gend • Blizzard (person) • Kinnuki • Sharwyn • Wulfgar
+Secondary Characters
+Alaric Wolfgard • Arctus • Arveiaturace • Assyntia • Baldryn Irontooth • Beartrid Winters • Damon • Dorbulgruf Shalescar • Dorotee Leachlung • Eremuth Silverwind • Gertrude Wormtongue • Gil Haerngen • Gorgomorz • Graendel Granitefist • Grimbold Tornhelm • Haldor • Iceblood • Ingeloakastimizilian • Jaluth Alaerth • Kalas Winters • Kiera Nye • Kemp • Lara • Legodia Half-Elven • Lucy (dog) • Lysan • Marcos Flass • The Masked Lady • Meltharond • Neomi • Nym (Icewind Dale) • Pavel • Quinn Silverfinger • Regis • Sandor • Shanky • Silvenius Crim • Slabhead • Suzy • Thalas • Vesper Grae • Witch o' the Woods
+
+Akar Kessell • Aribeth de Tylmarande • Arklem Greeth • Belhifet • Bim • Bruenor Battlehammer • Caballus • Calliara • Catti-brie • Daelan Red Tiger • Damien Morienus • Dannen • Deudermont • Dmitra Flass • Drizzt Do'Urden • Elameth • Elminster Aumar • Elytharra Dinnesmore • Errtu • Gandalug Battlehammer • Garth • Gimla Firehammer • Graendel Granitefist • Grimgnaw • Heafstaag • Icasaracht • Illandra • Ilmadia Bariel • Isair • Jamal Briars • Jana • Jerrod • Jorge • Jukini • Kadan Ibn-Kadur • Kalor • Karador (dwarf) • Kelvin Duarol • Kieran Nye • Linu La'neral • Madae • Mathilda • Maugrim Korothir • Morag • Nasher Alagondar • Nido Ochita Inazuma • Nikolai Tallow • Owain Piper • Pandar • Pelham of the Moor • Pheldon Tock • Polger Carallo • Presio • Prophia Copperfire • Randall the Red • Relev Thinriver • Rethnor • Rölph Bremen • Sarutobi • Shimmergloom • Skeld • Slayer of Mephistopheles • Slarkrethel • Storm Silverhand • Szass Tam • Tomi Undergallows • Tremble Ghon • Valindra Shadowmantle • Volothamp Geddarm • Wylfdene
+
+Creatures
+black abishai • bugbear • crag cat • curst • dire polar bear • dire wolf • dog • doom knight • dragon (ghost • red • white) • dwarf (duergar) • elemental weird (ice • snow) • elf (drow) • entombed • erinyes • frost giant • goblin (snow) • hag (annis • green • night • sea • winter) • half-elf • halfling • hell hound • horse • human • kocrachon • larva mage • lion • malaugrym • mind flayer • minotaur • ox • penguin • pseudodragon • troll (ice) • remorhaz • sahuagin • shadow • snow spider • tourmaline golem • verbeeg • water elemental • werewolf • white dragon • winter wolf • woolly mammoth • xixecal • yeti (abominable)
+
+bear • cambion • crypt thing • dryad • ghost • halfling • knucklehead trout • kraken • larva • nymph • rock giant • sarrukh • Shou • yuan-ti
+
+Locations
+Bodies of Water
+Dragon's Dip • Maer Dualdon
+
+Moonsea • Sea of Moving Ice • Trackless Sea
+Buildings
+Even Keel • Five Tavern Center • Golden Lodge • Graendel's Fine Dwarven Craft • Icewind Enchantments • Lucky Liar • Luskan Arms • Nine Knuckles Resale • Ramshackle Inn • Stones Tavern • Temple of Arctus • The Black-Bearded Brother • The Eastside Inn • The Grumpy Moose • The River's Mouth • The Whistling Gallows • Wolf's Pelt Inn
+
+Accursed Tower • Dorn's Deep • Gibling Armstrong's Curious Shoppe • Goldspires • Hillsfar Arena • Host Tower of the Arcane • Michell Academy • Severed Hand • The Elf in Armor
+Regions
+Fallen Crags • Frozenfar • Icewind Dale • Ten Towns • the Vast
+
+Amn • Cormyr • Dalelands • Evereska • Evermeet • Kara-Tur • Kelvin's Cairn • Mistledale • Moonsea • Reghed Glacier • Scardale • Sembia • Shadowdale • Thay • Zakhara
+Settlements
+Bremen • Bryn Shander • Lonelywood • Port Llast • Targos • Ten Towns • Termalaine
+
+Calaunt • Citadel Felbarr • Daggerford • Easthaven • Elmwood • Elventree • High Haspur • Hillsfar • Kuldahar • Luskan • Mithral Hall • Mulmaster • Nesmé • Menzoberranzan • Myth Drannor • Neverwinter • Ostoria • Shepherd's Valley • Silverymoon • Skullport • Thentia • Wandering Village • Waterdeep
+Wilderness
+Dwarven Valley • Icewind Pass • Lonelywood Forest • Reghed Glacier • The Giants' Walls
+
+Cormanthor • Evermoors • Gloomfrost • Ice Peak • Spine of the World • Underdark
+Other
+
+Blacklake District • Dwarfhome • Elemental Plane of Air • Elvenblood Pass • Great Oak • House of Nature • Nine Hells • Shaengarne Street • Warrior's Rest
+
+Organizations
+Arcane Brotherhood • Chosen • Clan Firehammer • Elk tribe • Flass • frostragers • Kraken Society • Red Wizards of Thay • Sisters of Fury • Targos Guard • White Bear tribe
+
+Clan Battlehammer •Companions of the Hall • Company of Crazed Venturers • Dukes of Daggerford • Harpers • Legion of the Chimera • Riders of Nesmé • Zhentarim
+
+Religion
+Arctus • Auril • Azuth • Bane • Beshaba • Dumathoin • Garagos • Helm • Kelemvor • Mystra • Nobanion • Selûne • Tempos • Umberlee • Waukeen
+
+Magic
+Weapons
+battleaxe of speed • Blood Feast • Corrosive Star • Darkened Glory • Dead Man's Face • Death's Ally • ebon lash • Facemelter • Fang (bastard sword) • Final Word • Firemane's Fury • Goblin Hunter • greataxe of burning • Groundsplitter • unholy halberd of chaos • Kiss of Flame • Lucky Scimitar • Memories of Kuldahar • Morning Glory • Presio's dagger • Quinn's fancy sling • Scimitar of Souls (replica) • spear of the mammoth • sword of Myrloch Vale • the tavern's walking stick •Three White Doves • Trollkiller sword • Valorfoe • whispering staff • Winter's Regard
+Armor
+Black Swan armor • Bracers of Icelandic Pearl • Chain of Drakkas • Diamond Cut • gauntlet of valor • helm of the Trusted Defender • mail of life • Mystery of the Dead • Sarutobi's Stone Breakers • shield of duergar fortitude • Thunder Clap • tower shield of missile protection • vexed armor • Waukeen's Defender • weapon master's scale • Wandering hunter's armor • Winter King's plate
+Jewelry
+Amulet of Songs
+Instruments
+Owain's Lullabye • Retching Serpent • The Merry Shorthorn • Viol of the Hollow Men
+Other
+boots of expeditious retreat • cloak of blood • cloak of Mystra • cloak of the yeti • girdle of piercing • Mantle of the Coming Storm • Master's robe • robe of enfusing • The shroud of Bankao • Wandering hunter's boots
+
+Crenshinibon
+
+Miscellaneous
+Events
+
+Battle of Icewind Dale • Great Thaw • Neverwinter-Luskan War • Wailing Death • Weeping War
+Food & Drink
+Bim's Brew
+
+chocolate brownie
+Languages
+Common • Duergar language • Elven language
+Materials
+mithral
+Musical Instruments
+horn • lute • tambourine
+Works
+A Brief History of Icewind Dale • Clan Battlehammer (book) • Crimson Tides of Tethyr • Darkness over Daggerford (book) • Hordes of the Underdark (book) • The Arcane Brotherhood of Luskan • The Ballad of Icewind Dale • The Ten Towns: An Introduction • Tyrants of the Moonsea (book) • Shadows of Undrentide (book) • The Wailing Death (book)
+Other
+Grim Voyager
+
+Sea Sprite
+
+Credits
+ Lead Designer: Luke Scull
+ Lead Area Designer: Irongron
+ Artists: Tom Ventre
+ Technical Artists: Bill Harper • Paul Ste. Marie
+ Music:' Rafael Alt • Will Musser
+
+Appendix
+Gallery
+
+References
+
+Connections
+
+---
+
+## Nellie Thursday
+
+Nellie Thursday was a dwarven fighter, owner and manager of the Nellie Thursday Home for Experienced Adventurers.
+
+Personality
+She was a kindly old dwarf, and even in her advanced age still a competent fighter.
+
+Possessions
+She always carried a ring of stone giant strength hidden on her person, and had an enchanted dwarven thrower +3 hanging on the mantle in the front room of the retirement home.
+
+Relationships
+She became very good friends with Matilda the White Lady soon after the latter moved into the home, and even twenty years later their friendship remained strong.
+
+History
+During the events of Exeters vengeance upon Wemick and her retirement home, she would be taken hostage by mercenaries hired by Exeter. She would take bloody vengeance upon them after Exeter and his group were done dueling with the other retirees of the Company of the Swan.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Nellie Thursday Home for Experienced Adventurers
+
+Nellie Thursday Home for Experienced Adventurers was a retirement home for those adventurers that had spent most of their money during their adventuring days and now had to settle for being close to poor.
+
+Location
+The retirement home lay upon a main road some two days travel from the hamlet of Murrow's Dell on foot, about half that by horse.
+
+Interior
+A fireplace stood in the front room of the building, and Nellie Thursday's dwarven thrower usually hung upon the mantle.
+
+Services
+Those old adventurers who had neglected to save up for retirement, yet survived into old age, could find a place in the Nellie Thursday Home for Experienced Adventurers. Here they would lodge one or two people to a room, fuss around and swap stories about their former lives and enjoy the little luxuries their money could buy.
+
+History
+Nellie Thursday established the home once she herself were on the wrong side of 200 years old. Creating the retirement home in order to house others who where done adventuring about, and ofcourse making some good money by catering to the different whims of the retirees. After more than a hundred years of successful operations, a former lodger Exeter, once of the Company of the Swan, disappeared from the retirement home. Fifteen years later he sent several threats to the retirement home and another old lodger and former roommate of Exeter; Wemick. The Company of the Swan went out to confront their old rogue member, but while the were trying to locate Exeter, Exeter came back to the retirement home alongside hired henchmen, a devil, and some 50 mercenaries and proceeded to hold Nellie and the other residents hostage.6 magical gems, created by Exeter, were planted around the retirement home, if another 6 gems, the counterparts to the ones placed around the building, were brought together they would cause an earthquake destroying the entire building. Exeter forced the Company of the Swan to duel his henchmen at high noon near the home, finally dueling Wemick the Wise himself. The home would be saved by the old adventurers and Nellie herself.
+
+Inhabitants
+ Nellie Thursday, she herself lived at the home and even though she was 331 winters old, she still worked to service her fellow old adventurers.
+ Matilda the White Lady, the old leader of the Company of the Swan, and wife of Henry.
+ Henry the Shadow Master, husband of Matilda and a avid illusionist he managed to develop the spell Henry's hide-a-smell while staying at the retirement home.
+ Wemick the wise, the oldest human in the retirement home he was slowly losing his memory and would even forget what spells he had memorized that day until after he cast them.
+ Ratha Rann the Eagle-Eyed, who in his old days wasn't quite eagle eyed, having to use optic aids due to near-sightedness.
+ Sagrais Bigelow, a former agile rogue who was not nearly as agile as he thought he was, though still able to sneak around the retirement home.
+ Ada the Unbending, a former high priestess of Tyr and judge of more than three decades who spent her time penning her memoirs titled Justice for All.
+ Exeter the Excellent Mage Most Magnificent, a former resident and roommate of Wemick who began to resent both Wemic and the retirement home during his stay and hating the place in his subsequent years of adventuring.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Nepri
+
+Nepri was a great efreeti that appeared in the ruins of Myth Drannor in the late 14 century DR.
+
+History
+
+The genie appeared alongside the other fiery creatures T'Zull, Thulkaan, and more fire elementals inside the soon-to-be Burning Library after being dragged from his home plane by the malfunctioning mythal. He soon set the library ablaze to be more to his liking, to the great distress of the guardian electrum dragon Jurin'ildren and the librarian Kaylie. After fighting through his minions the library defense team faced the efreeti and drove him back through the portal, then pursued him back to his own domain in the Elemental Plane of Fire, slaying him there to ensure he did not return.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Neverwinter Square
+
+Neverwinter Square or The Great Plaza of Neverwinter, was one of the oldest features of the City of Skilled Hands, Neverwinter, with an ancient arbor at its center in the mid-14 century DR.
+
+Location
+Neverwinter Square was a plaza, or a strake, in the area that would be later known as the Protector's Enclave, near Castle Never.Neverwinter Nights features the fist canon depiction of Neverwinter and its simplistic in game map should not be taken on the face value. This page assumes that Neverwinter Square is locate near the Hall of Justice, as indicated in the game and its documentation – the area that was named the Protector's Enclave in the later materials. It was the location of two of the city's temples, including the Temple of Tyr – the Hall of Justice, inns, taverns, shops, and other businesses lined the plaza's edges. Its most notable feature was an ancient public garden that was as old as the city itself. Neverwinter Square was a popular meeting spot for adventurers who were planning to set out on a journey.
+
+History
+The Great Plaza of Neverwinter was built around a small arbor, a public park that dated back to the city's earliest days. The plaza still existed in the .
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Neverwinter Health Society
+
+Neverwinter Health Society was a social club, a spa, and a collection of gloveball courts in the city of Neverwinter in the mid-14 century DR.
+
+Location
+The Health Society was located not far from the Neverwinter Square, one of the oldest locations in the Jewel of North, with one of its entrances facing the wharves and the waterfront. A painted sign was affixed above the door.
+
+History
+Neverwinter Health Society was established sometime before the . By that year, the spa building was abandoned and its pool was completely dried out. The abandoned Health Society was infiltrated by kobold and goblin bandits who had to be driven out by a band of adventurers.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Neremyn Proris
+
+Neremyn Proris was a learned historian and member of the Cormanthor Elves during the reclamation of Myth Drannor in the late 14 century DR.
+
+Description
+Neremyn had light blue-green eyes, long blonde hair, and wore a pale yellow robe decorated with signs of the sun. She carried a short staff or walking stick made of a length of gnarled wood.
+
+History
+Around 1374 DR, Neremyn joined the Myth Drannor outskirts camp to help reclaim the city. When they fought with the Red Wizards of Droic Orgul, Tarathiel Miastina learned of the importance of the long-dead Earynspieir Ongluth, who was tied to the mythal in some way. Neremyn's knowledge of Myth Drannor led her to task some adventurers to look into the Throne of Thought and adjacent Mythal Consortium for clues into the mystery, leading to a bout of time travel and historical alteration that resulted in Earynspieir surviving to the present day and being able to assist with the mythal situation.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Needles
+
+Needles was an imp and member of the Knucklebones Gang in Avernus in the late 15 century DR.
+
+Personality
+Needles was shrewd and lazy and disgusted when given more responsibility.
+
+History
+Needles and Pins came to serve Mad Maggie after she made a deal with a pit fiend.
+
+They played a prank on the madcap named Wazzik, possibly splashing rainbow-colored paint on the madcap, and Wazzik and its friends plotted revenge.
+
+Relationships
+Needles and Pins served Mad Maggie, who treated them with such kindness that they would not work for anyone else. While in her presence, they tended to take the form of ravens and nest in the hag's hair or on her shoulders.
+
+Activities
+Needles and Pins loitered around Fort Knucklebone, monitored the Blood War, and spied on Mad Maggie's rivals.
+
+They had no interest in ascending the infernal hierarchy.
+
+Appendix
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Nevalarich
+
+Nevalarich was a red dragon living in the southern Thunder Peaks during the mid-to-late 14 century DR.
+
+Description
+Nevalarich had massive jaws.
+
+Activities
+Nevalarich set out in a raid about once every few weeks.
+
+Relationships
+Unknown to most, Nevalarich was under the command of Aurgloroasa, a shadow dragon dracolich affiliated with the Cult of the Dragon in Sembia.
+
+History
+Nevalarich's age wasn't known very exactly. Around, he was known to attack ships around the Neck of the Lake of Dragons every few weeks or months. He'd become a concern of the Crown of Cormyr, with Azoun IV having offered a title of nobility to whoever slew it. There was also extensive worry that he'd become bolder in the future, and wonder that it hadn't yet, limiting its depredations: it was no more destructive than local pirates. Nevalarich was itself operating under the orders of Aurgloroasa, destroying ships that had failed to pay her proper tribute.
+
+By the, Nevalarich had become a target for the Men of the Basilisk, who had decided to hire adventurers to slay it despite learning it was acting as the agent of Aurgloroasa. On the same year, a Cult of the Dragon cell led by Maezra set out to entice him into joining.
+
+Rumors & Legends
+Aurgloroasa always took the guise of Nevalarich using magic when hunting around the mouth of the Lake of Dragons. It was believed that something else must be exerting stress upon Nevalarich to explain his rather low rate of raids, though his relationship to Aurgloroasa was not largely known, except to the Men of the Basilisk.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Nessie
+
+Nessie was a serving girl at the Friendly Arm Inn, who lived within the fortified caravanserai on the Sword Coast, in the mid–14 century DR.
+
+Description
+Nessie was a human woman with a light skin tone and blonde hair who wore a simple peasant's garb.
+
+History
+By the time the iron crisis ravaged the Sword Coast in the, Nessie had already been working for the Friendly Arm Inn for almost five years. Bentley and Gellana Mirrorshade paid Nessie to work as a waitress and a cleaner. She thought highly of her employers and was eager to greet the inn's guests, answering any of their questions about the current goings on the Friendly Arm's history, and she tended to know the inn's guests and regulars by name. During the iron crisis, Nessie was familiar with Unshey, the writer; Khalid and Jaheira, who were staying at the inn whilst waiting for a family friend to show up; Dorn Il-Khan, whom she advised guests to steer clear of; Landrin on the inn's top floor; and rowdy drunkard Tarnesh.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Nessaleesa's Garden
+
+Nessaleesa's Garden was the home and art project of the medusa Nessaleesa, who lived in the Underdark near the drow city of Sschindylryn.
+
+Description
+The garden was inside a spacious cavern, and filled with unfortunate art subjects that had been petrified, including drow, mind flayers, yuan-ti, and wild beasts.
+
+Geography
+The cavern was located not too far from the Great Waterfall and Agathea's hut, and the roost of the red dragon Micarastir.
+
+Inhabitants
+The garden was the home of Nessaleesa and her loyal assistants, the "bloodrock medusae". Together they defended and expanded on the garden with utmost care, aided by dutiful and petrification-proof units of animated armor.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Nessaleesa
+
+Nessaleesa, She Who Hunts Among Stones, was a powerful medusa who dwelled in the Underdark during the 15 century DR.
+
+Description
+Nessaleesa had reddish-brown scales and her eyes glowed orange-red. She had a large red crystal embedded in her chest.
+
+History
+During the Sschindylryn invasion of Eveningstar, Nessaleesa dwelled in her Garden with her bloodrock medusae and animated armor servants, carefully adding to the collection of victims.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Necrotic blast
+
+Necrotic blast was a necromantic spell that produced a deadly negative energy missile. It was particularly favored by pale masters.
+
+Effects
+Drawing on the caster's vitality, the spell produced a black ball of negative energy that shot forth from the caster's hand. On impact with the target it exploded, blasting the area with entropic malice.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Necrotic ray
+
+Necrotic ray was a necromantic spell that blasted a target with negative energy.
+
+Effects
+The necrotic ray blasted a foe with powerful negative energy, inflicting massive harm to the living and suppressing their life force long-term.
+
+Components
+The spell required verbal and somatic components to cast.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Neverwinter Nights 2: Uninvited Guests
+
+Uninvited Guests is a module for the game Neverwinter Nights 2 and was developed by Obsidian Entertainment and published by Atari. An example module included with the game, it serves as a short prologue to the main campaign.
+
+Synopsis
+The plot of the module follows the Lannon family, who, after being expelled from their home by lizardfolk, encounter a stranger. Left without other options, the Lannons appeal to them for assistance, which they may or may not have received.
+
+Index
+Characters
+
+Creatures
+
+Items
+
+Locations
+
+Appendix
+Connections
+
+---
+
+## Neely (nymph)
+
+Neely was a forest nymph that lived in the High Forest, many decades before the Year of Wild Magic, 1372 DR.
+
+History
+When the Battle of the Bridge was fought in the High Forest, Neely fell in love with a soldier. When the warrior was wounded during the skirmish, the nymph came to him, pulled her heart out from her chest, and then placed it upon his hand. The heart changed into a magical healing gem, later called the Heart of Neely. After this, Neely disappeared, never to be heard or seen again by her beloved.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Necropolis
+
+Necropolis was one of the Domains of Dread. Once named Darkon, it had since become a land shattered by the magic of the lich Azalin.
+
+History
+The lich Azalin had employed some manner of doomsday device that warped the ecology of the entire domain of Darkon. It had since come to be called Necropolis.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Netherese Orb
+
+The Netherese Orb was an artifact that was actually a half-formed, completely new version of the Weave created by Karsus. The Netherese Orb resided inside of Gale Dekarios, where its final outcome was determined by the Hero of the Absolute crisis.
+
+History
+It was a direct result of Karsus's Folly, an event where the archmage of Netheril briefly usurped Mystra's divinity but destroyed his entire empire and created the Orb in the process.
+
+Circa 1490 DR, Gale, as he grew closer and closer to Mystra, began to ask for more knowledge and power from her, so as to grant him access to higher-level spells and deeper knowledge of the Weave's intricacies. But Mystra refused, despite all of Gale's attempts to convince her he would only use it for her glory and with her vision in mind, telling him to simply "Be content."
+
+Hoping to show his worthiness to his goddess, Gale sought out a Netherese tome that sealed a small scrap of the pure, original Weave from when it was shattered by Karsus's avatar. However, when he opened the book, the Weave contained in the pages leapt into his chest. His body became an unwitting host to an extremely destructive orb of pure Weave fused with Netherese magic. The orb consumed most of the residual Weave inside of Gale's body, severely limiting his ability to practice magic and cast high-level spells.
+
+In order to keep the orb inhabiting and corrupting his body from growing unstable, Gale had to continually sate it with fragments of Weave contained in powerful magical artifacts. If he failed, the orb would have detonated, killing Gale but bearing enough destructive power to bring down entire cities with him. As punishment for his hubris, Gale lost his position as Mystra's Chosen, along with whatever higher powers his station granted him. After his folly, Mystra cut all ties and communications with him entirely.
+
+Appendix
+
+Appearances
+
+Connections
+
+---
+
+## Netheril's Fall
+
+Netheril's Fall is a digital-only supplement for the Forgotten Realms using the 5-edition (revised)  ruleset published by Wizards of the Coast. It is set to be released in November 2025 alongside Forgotten Realms: Heroes of Faerûn and Forgotten Realms: Adventures in Faerûn. It covers ancient Netheril with historical and time-traveling adventure hooks.  It is included in the Forgotten Realms Ultimate Bundle on D&D Beyond along with Astarion's Book of Hungers and Lorwyn: First Light.
+
+Index
+Creatures
+
+Locations
+
+Appendix
+References
+
+---
+
+## Neverwinter: Red Harvest
+
+Neverwinter: Red Harvest is an expansion module for the massively multiplayer role-playing game Neverwinter released in May 2025. It was heavily inspired in both style and content by the movie Honor Among Thieves.
+
+Plot
+To thwart the tyrannical lich Szass Tam's plans, which threaten to engulf all of Faerûn in his rule, the heroes journey to the land of Thay to join a resistance movement spearheaded by Sergeant Alphonse Knox and the Harpers against the Zulkir of Necromancy and his Red Wizards.
+
+Gameplay
+Players visit the Tower District of Tyraturos a new adventure zone with a vertically designed map, allowing players to explore three sprawling neighborhoods and ascend a massive central tower. They can brave the Shackles of Divinity Trial and face the corrupted angel Valkariel with their new "Arcane Cracking" mechanic to earn the new Celestial-grade armor as a reward.
+
+Index
+
+Appendix
+External Links
+ Launch trailer
+
+Connections
+
+---
+
+## Neverwinter: As Above, So Below – Return to Pirates' Skyhold
+
+Neverwinter: As Above, So Below – Return to Pirates' Skyhold is an expansion module for the massively-multiplayer role-playing game Neverwinter released in November 2024.
+
+Features
+It includes new encounters, a completely overhauled dungeon called the Dread Sanctum, new rewards, and quality-of-life improvements, including the ability to create and swap between two power sets.
+ Returning Adventure Zone: Pirates' Skyhold
+ Returning Dungeon: Dread Sanctum
+
+Plot
+Players return to the pirate stronghold to locate missing scouts and uncover a great secret tied to the past.
+
+Index
+
+Appendix
+
+External Links
+ Launch trailer
+
+Connections
+
+---
+
+## Nevyle Dunwaite
+
+Nevyle Dunwaite was a Harper agent who worked in Eveningstar, Cormyr, in the late 15 century DR.
+
+Description
+Nevyle had tanned skin and long white hair with a thick beard. He wore an armored leather robe and breastplate, and kept a messenger bird.
+
+History
+
+Around the time of the Sschindylryn invasion of Eveningstar during the 1480s DR, Nevyle joined Kara Patwin and Lorant Tass in following up on Oriphaun Huntsilver's search of the Storm Horns, where he found Shadovar activity. Nevyle maintained contact with Oriphaun and organized a meeting at Yarrow Glade, only for the Netherese arcanists Amskar and Shai to ambush the Harper allies and capture Oriphaun, taking him away to Rungnir's glacier where Amskar's enclave was being prepared. Though Oriphaun's capture was a small disaster, it led to the revealing of Amskar's army and the ultimate defeat of Amskar's ambitions.
+
+Appendix
+Notes
+
+Appearances
+
+References
 
 ---
 

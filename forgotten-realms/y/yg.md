@@ -93,6 +93,31 @@ Connections
 
 ---
 
+## Yggdrasil's Child
+
+Yggdrasil's Child was a tree of great power grown from a seed of the World Ash, Yggdrasil. The tree stood in a remote grove on the island of Ruathym north of the Moonshae Isles.
+
+Abilities
+The tree retained enormous power and anyone carving their name in the tree would grow in power as the tree grew. The tree protected itself with forest creatures it had enhanced with magic.
+
+History
+Liriel Baenre visited the tree in the  to inscribe a rune on the tree in order to gain the power of the Windwalker amulet. She was led to it and somewhat instructed in regards to it by Ulf the Shaman of Ruathym town. She described the tree as a magical, huge ancient oak with dozens of complex runes carved into the tree. She also explained that it was the "symbol of life."
+
+When the Storm Maiden was born, her mother was sheltering from a storm beneath Yggdrasil's Child. Using the dagger that she had used to cut the umbilical cord, the young mother carved her daughter's true name into the tree while asking the god of war, Tempus, to bless her child. The god answered her prayer but so did the sea goddess Umberlee, and both of them conferred mighty blessings upon the newborn girl. Umberlee then struck down the woman with a bolt of lightning, and carried the baby to Norland in the Moonshae Isles.
+
+By the late 15 century DR, the tree could no longer be used as a portal.
+
+Rumors & Legends
+It was said that if someone could find the tree, the might learn the truth of the Storm Maiden's birth.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
 ## Yggdrasil
 
 Yggdrasil, also known as the World Ash, was a cosmic plane-spanning tree that linked the Prime Material Plane through the Astral Plane to the Outer Planes that were important to the Norse pantheon.
@@ -159,6 +184,143 @@ Appearances
 References
 
 Connections
+
+---
+
+## Yggdrasil's Child (Garden)
+
+Yggdrasil's Child was a colossal spaceborne plant whose roots anchored the asteroids of the planetary body in Realmspace known as Garden.
+
+Description
+The plant's main trunk was woven together from several hundred smaller trucks or limbs, each of which were  in radius. The main trunk had its own gravity plane that bent around its surface, and it would take the average person six hours to circumnavigate it. The long time was because of all the leaves and branches that one would have to push and climb around. The smaller trunks extended all around the total area of what was called a "planet", such that it always received sunlight no matter where Garden was in its 128-hour revolution.
+
+The main trunk did not appear to lead anywhere, as one would expect from a tree. Some tales of wildspace told that the tree actually grew into other planes of existence, as did its namesake, but there was no indication that one could use the massive plant to travel outside of the Material Plane.
+
+The bark of the plant was a scaly wood that was resistant to damage from cold, electricity, and heat. The leaves of Yggdrasil's Child were the size of ships' sails.
+
+The roots of the plant could reach  in lengthThe source says "1,000 feet across," but this conflicts with the description of each trunk being only 100 feet in diameter, so it is assumed to be in error. and forked and stretched deep into the interior of each of the many asteroids of Garden, holding these earth bodies close together at distances between  and  from each other.
+
+Yggdrasil's Child had amazing rejuvenating powers, being able to heal damage at at exponential rate.
+
+Behavior
+Garden took 1,022 Toril months to revolve around the sun, and in that year, Yggdrasil behaved similar to seasonal plant life on Toril, cycling through "seasons" of blossoming and growth followed by those of death and stasis when the gargantuan plant lost about half its leaves.
+
+Yggdrasil's Child lived for about 2,000 years. When it finally died, a new plant was said to replace it. Scholars believed that the next Yggdrasil's Child would have some connection to one of Garden's moons named Grandchild, but exactly what this connection was remains unclear.The source instructs the reader to see the entry on Garden's moon Grandchild; however, the only information provided about Grandchild is its size, shape, and color. No information about Yggdrasil's child is provided at all. There is also a discrepancy within the source regarding its shape. The main text describes Grandchild as spherical, yet a table gives the dimensions rather of an ellipsoid. Perhaps, Grandchild was supposed to invoke the idea of a seed, but this is speculation.
+
+Uses
+A common wildspace tradition was to wrap the dead in leaves from Yggdrasil's Child before letting the bodies float freely in deep space.
+
+History
+Yggdrasil's Child had been in existence for as long as spelljammers had been sailing Realmspace. Throughout history, some had assumed that the plant was sentient and tried to communicate with it but never with success. By 1367 DR, it was estimated that the current plant had reached approximately half of its lifetime, aged at about 1,000 years.
+
+The plant received its moniker from northmen,It is not clear from the source whether "northmen" refers to worshipers of the Norse pantheon—which would make sense, considering the importance of the tree Yggdrasil to that mythos—or to the inhabitants of Northwest Faerûn. who named it after the great planar tree Yggdrasil.
+
+Appendix
+Notes
+
+Appearances
+Novels
+The Radiant Dragon
+Video Games
+Spelljammer: Pirates of Realmspace
+
+External Links
+
+References
+
+---
+
+## Ygnath
+
+Ygnath was a follower of Bane in Baldur's Gate in the late 15 century DR.
+
+History
+In the, Ygnath was a member of a Dead Three cult in Baldur's Gate. He was busy torturing Klim Jhasso for fun inside their lair while Kazzira watched.
+
+Appendix
+References
+
+---
+
+## Ygga Raxyg
+
+Ygga Raxyg was an arcanaloth who was imprisoned in the Tomb of the Nine Gods by Acererak to guard the demilich's library. To any adventurers who came to the library, he presented himself as Mr. Fox and appeared as an old man using illusionary magic to disguise his true form.
+
+Description
+Ygga Raxyg appeared as an old man, who would pretend to be asleep in his chair when any intruders entered the Red Library in the Tomb of the Nine Gods.
+
+Abilities
+Ygga Raxyg had the spellcasting abilities of a powerful arcanaloth and used the alter self spell to appear as an old man.
+
+Possessions
+Ygga Raxyg wore a pair of horn-rimmed spectacles which also doubled as a gate key to a two-way portal in the planar city of Sigil leading to the plane of Arcadia. The glasses had no other magical properties but could fetch prices of up to 2,500gold pieces if sold to a sage or wizard.
+
+Furthermore, Ygga Raxyg had a gold-inlaid wooden music box, which had five sides sculpted to depict a horned musician playing five different instrument. The music box had a value of 750 gp.
+
+Ygga Raxyg was bound to protect the Red Library under the curse of Acererak. Among the many magical tomes, scrolls and spellbooks the arcanaloth guarded, X the Mystic's Arcane Grimoire was the most valuable.
+
+Trivia
+ Ygga Raxyg's name is an anagram of Gary Gygax, one of the original creators of Dungeons & Dragons.
+
+Appendix
+Appearances
+Adventures
+Tomb of Annihilation
+References
+
+---
+
+## Yggran
+
+Yggran was a half-red dragon agent of the Cult of the Dragon active during the late 15 century DR..
+
+History
+Some time in the 1480s DR, Yggran was tasked with rescuing Cheela Flegsteel, a Wearer of Purple that was abducted by dwarven miners she had targeted on behalf of the cult. Yggran embarked on his mission along with four ogre companions, but it was unknown if they were successful in saving Cheela.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+ The Rise of Tiamat
+References
+
+---
+
+## Ygglyshek
+
+Ygglyshek was a mind flayer in the Underdark below Cormyr during the mid-1480s DR.
+
+History
+The fellow looked for enemies to eliminate west of the ruins of Riz Malag, near the drow city of Sschindylryn around the time of their invasion of Eveningstar.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Ygrid Fastheart
+
+Ygrid Fastheart was a wizard of the Twelve in the world of Eberron.
+
+Description
+Ygrid was a dwarf woman with long white hair.
+
+History
+During the Darkening of Faerûn, Ygrid came to investigate the Spinner's Prison and Rift Between Worlds after the Spinner of Shadows escaped, working alongside Jir Winmyr and Raf Unbridge. Ygrid was particularly interested in why the Spinner had taken large amounts of dragonshards with her as she entered the Demonweb Pits with Lolth.
+
+Appendix
+Notes
+
+External Links
+
+Appearances
+
+References
 
 ---
 

@@ -425,6 +425,14 @@ de:Yuan-Ti
 
 ---
 
+## Yuthgalaunt
+
+Yuthgalaunt was a settlement on the road between Ordulin and Yhaunn in Sembia.
+
+References
+
+---
+
 ## Yurtrus
 
 Yurtrus  was the orcish god of death and disease, a constant terror that silently waited for their demise. The vile god was a counterpart to Shargaas, for while the Night Lord symbolized the fear of what lurked in the shadowy unknown, the morbid Lord of Maggots was the ceaseless threat of sickness and inevitable death orcs faced. Shargaas merely hated life, but Yurtrus was nothing more than its denial, embodying the principles that destroyed it — antilife.
@@ -507,6 +515,1958 @@ References
 Connections
 
 de:Yurtrus
+
+---
+
+## Yuireshanyaar
+
+Yuireshanyaar was a nation of wild elves and star elves who inhabited the Yuirwood in what was later Aglarond. They possessed powerful magic and held ceremonies in circles of stone menhirs. The Yuir fell into decline, pressured by outside forces such as a human presence, and eventually ceased to exist, although their ancestry remained in some of the half-elves of modern Aglarond.
+
+History
+The Yuir elves came under pressure from attacks by the drow and mountain trolls and were also forced deeper into the Yuirwood by the arrival of human colonists from Chessenta in 756 DR, who settled the coastal areas. The population of elves dwindled further and further until by 880 DR, they had been reduced to a few villages. The elves were diseased and in heavy decline at this stage, but the humans joined their fight against the drow and mountain troll threats, helping to eradicate them and make the Yuirwood safe. Breeding between the humans and the Yuir elves created a half-elf race proud of its elven ancestry. Eventually, the elves died off and were succeeded by their half-elven descendants.
+
+Religion
+The Yuir elves revered the Seldarine, but also worshiped their own pantheon of deities, who are believed to have died out with the last of the Yuir. Relkath of the Infinite Branches was a gigantic treant deity, regarded by some elves as an aspect of Rillifane Rallathil. Zandilar the Dancer was a blue-skinned elf who managed the joy and tragedy portfolios simultaneously. Elikarashae was a warrior deity who came to the Yuir's aid against its enemies.
+
+Appendix
+
+References
+
+---
+
+## Yuir pantheon
+
+The Yuir pantheon was the pantheon of ten deities once worshiped by the primitive tribes of indigenous humans living in the forests of Yuir. These gods came to be associated with the Yuir elves when they established homes within those woodlands after the Crown Wars. After the formation of the Kingdom of Aglarond, the half-elven descendants of the Yuir elves had abandoned these gods in favor of more common human or elvish gods and it was assumed that without worshipers, the deities in this pantheon had ceased to exist. Half of these deities however had long ago been subsumed by various members of the Seldarine.
+
+Deities
+ Elikarashae  An ascended warrior-deity.
+ Magnar the Bear
+ Relkath of the Infinite Branches  An unpredictable forest-god of some kind.
+ Simbul  Goddess of "the edge and the moment of choice."
+ Zandilar the Dancer  A blue-skinned deity of passionate love and lust. Subsumed by the Mulhorandi goddess Bast.
+
+Worshipers
+The Yuir pantheon was worshiped by both the ancient Yuir elves, and some half-elven tribes as of 1368 DR had begun returning to the area of the Sunglade and worshiping the ancient gods honored there.
+
+The Temple of the Yuir Gods was known to have wooden statues of Magnar, Relkath, Elikarashae, and Zandilar. And there was a ring of standing stones bearing inscriptions asking those four and others for aid and protection in the Sunglade.
+
+History
+
+Rumors & Legends
+Around 1368 DR, some of the half-elves who'd begun worshiping the Yuir pantheon would even go so far as to claim that those deities were "stirring from their slumber" and would return soon; some also said that these returning deities would be hostile to humans and would seek to drive the interlopers from Aglarond. In the same year, the explorer Talyssa reported feeling a presence in the Sunglade when she visited and entered the circle of menhirs.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Yûlash
+
+Yûlash   was a fortress town positioned between the two cities of Zhentil Keep and Hillsfar. The ongoing conflict between these two cities meant that Yûlash spent much of its history in ruin and occupied by soldiers.
+
+Geography
+Yûlash sat atop a large plateau giving it a considerable tactical advantage over all the nearby settlements. The town was the intersection of the Bowshaft Way with Shind Road and The Throat. A trail called Moander's Road began here and wandered south into Cormanthor.
+
+Government
+For most of its history, Yûlash was ruled by a lord but in 1337 DR, after years of political disputes between the noble houses, Yûlash began to be ruled by a council of leaders. Having been controlled by Zhentil Keep for much of its history, the city's culture and politics were easily influenced by the will of the Zhentarim.
+
+History
+During 171 DR the elves of Cormanthor destroyed the last remaining temple of Moander. Moander went into hiding deep under the ruins of its temple. Centuries later the town of Yûlash would be unknowingly built on the site of the temple ruins.
+
+In 1275 DR Zhentil Keep granted Yûlash independence. Despite this official status little changed and Yûlash was still heavily influenced by the will of Zhentil Keep. Just a few months later in 1276 DR Yûlash was among the cities which worked together to rebuild the fortresses that made up the Citadel of the Raven. This joint effort helped protect nearby cities from ogre attacks. All of the Moonsea settlements, including Yûlash, send troops to occupy the citadel.
+
+Throughout 1297 DR the nobles of Yûlash quarreled over lordship of the town. Amauritorla Evarlaur (the last surviving noble of her house) went on a murderous revenge spree after her father was killed in a supposed accident. In 1337 DR the noble houses agreed to abolish lordship of the town and instead began ruling by a council.
+
+In 1355 DR Zhentil Keep and Hillsfar went to war. Yûlash broke into a civil war which left it vulnerable to attack. Yûlash's elevation and central positioning between Hillsfar and Zhentil Keep made it the stage of several battles during the war. During this period the town changed hands several times and was reduced to ruins.
+
+Around 1356 DR, Yûlash was utterly destroyed by a Flight of Dragons. The city was left as a ruin of scorched rubble. The city was rebuilt by Zhentil Keep.
+
+In 1357 DR the dormant deity, Moander was woken by Alias. The deity was thought to be long-dead but had in fact been sleeping deep below Yûlash.
+
+In 1358 DR Yûlash was still stuck in the middle of the war between Hillsfar and Zhentil Keep. As of 1369 DR Yûlash was a ruin. and by 1374 DR the town was still occupied by Zhentarim forces.
+
+Rumors and legends
+It's believed that Yûlash sits atop a labyrinth of tunnels and caverns as well as portals which lead to other planes and worlds. Elminster posited that the portal only works for those who know its secrets.
+
+Some believe that a temple of Moander was still active deep beneath the town.
+
+Appendix
+Appearances
+
+Gallery
+
+References
+
+FR:Yûlash
+Connections
+
+---
+
+## Yuan-ti pureblood
+
+Purebloods were the most human-seeming of all true yuan-ti and one of three main breeds—the other two being the halfbloods and the abominations.
+
+Description
+Purebloods were described as human-like but with minor reptilian features, such as snake-like eyes, a forked tongue, and patches of scales on their skin.
+
+Purebloods had weights and heights in the same range as humans.
+
+Abilities
+While not as powerful as other yuan-ti forms, purebloods still had psionic powers. Like all yuan-ti, they could morph their bodies into the form of any viper by force of will alone and could sense the presence of any poison nearby. They were also innately resistant to magic. They were not as intelligent as halfbloods, yet they still took pride in being more intelligent on average than humans.
+
+The psionic powers of purebloods included the ability to charm other humanoids, to entrance animals, to cause fear, to create darkness, and to command plants to entangle opponents.
+
+Purebloods were very adept at impersonating humans, and often entered human settlements in disguise as spies.
+
+Life Cycle
+Pure bloods could mate with halfbloods or abominations but usually did not. Like other yuan-ti, they hatched from eggs and reached adulthood by twelve years of age. An average lifespan for any yuan-ti was 80 years, but attaining an age as great as 120 years was possible.
+
+Personality
+Despite being thoroughly wicked, the majority of purebloods had magnetic personalities. Like all yuan-ti, they tended to be arrogant and self-centered.
+
+Purebloods were the least likely of the true yuan-ti breeds to remain attached to their tribe. Since they could more easily disguise themselves, they had the freedom to pursue their own interests wherever such things took them. Purebloods were the most likely yuan-ti to use grafts to modify their bodies, provided the new serpentine body parts could still be easily hidden with magic or underneath clothing until "needed".
+
+Combat
+Yuan-ti were perfectionists, and only used high-quality weapons. They would rather weaken a foe from a distance than engage in melee combat. If a fight came to that, however, the purebloods would be sent in first as the more powerful and "valuable" yuan-ti waited.
+
+Purebloods were often equipped with studded leather armor and bore scimitars and heavy shields or longbows They often poisoned their blades and arrows.
+
+Purebloods who were trained in combat favored the skills of rangers. They were naturally dextrous.
+
+Society
+
+Purebloods served a special role in yuan-ti society by being the liaisons, agents, spies, or assassins, as they could usually readily hide their serpentine features. They also oversaw the "lesser" yuan-ti servitor subraces, the broodguards and tainted ones.
+
+Language
+Purebloods spoke the Yuan-ti language, Common, and any regional languages. They often could speak Abyssal or Draconic as well.
+
+Religion
+Purebloods, like the majority of yuan-ti, worshiped the god Sseth. Free-wandering purebloods sometimes worshiped the god Varae instead. Some sects were known to worship demons.
+
+History
+The sarrukh, one of the creator races, created the yuan-ti, including purebloods, millennia ago in controlled magical breeding experiments combining humans, serpents, and sarrukh themselves.
+
+Notable Yuan-ti Purebloods
+ The Rhaunister family of Mhairhetel
+ Mruthlissk, a male yuan-ti shadowdancer
+ Tathtlass, a female yuan-ti assassin
+ Dmetiro Extaminos, leader of Hlondeth's Cult of the Dragon
+ Iraska, the "Slime King"
+ Zaltys Serrat
+ Nhyris D'Hothek, possessor of the Crown of Horns
+ Netocris bin Shalah
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Yurian
+
+The yurians, also known as crabmen, were a race of crustacean beings that inhabited the seas and rivers of Faerûn.The book Serpent Kingdoms conflates yurians with aldani. Though both are crustaceans with humanoid traits, the other details given for aldani in Jungles of Chult and Tomb of Annihilation do not mesh with those given for yurians. Because of this, they are considered to be distinct creatures.
+
+History
+During the Second Serôs War in, the sea elf empire, Aryselmalyr, used crabmen, merfolk, and locathah forces to destroy the Kuo-Toan Consortiums. The war ended in  with a massacre of the kuo-toa in the Sea of Fallen Stars.
+
+In 1369 DR a community of crabmen inhabited caverns just south from Port Llast, and began raiding first the fishing boats, then the town itself. The First Captain Haeromos Dothwintyl was slain defending the town, so Hylas of Elturel, an arrogant knight of Torm’s fury, serving the Lords' Alliance arrived to help the command the militia alongside the veteran Kendrack. An exploratory advance upon the crabmen's caverns sent the force fleeing, and an excursion to sea likewise ends in failure and death as the crabmen leads a massive jellyfish to attack the cog. After yet another raid on Port Llast they learn, with help from a local sage, that the crabmen have been enslaved by magic. While most of the militia distracted the crabmen, Kendrack and Hylas lead a small team into the crabmen's caves, here they found a sahuagin sorcerer controlling the crabmen and jellyfish both. Slaing the sahuagin freed the crabmen community who in turned let the group depart back to Port Llast.
+
+Settlements
+Many yurians made their homes in the caverns surrounding the Snout of Omgar.
+
+Crabmen could also be found in the Sea of Fallen Stars. They had colonies settled under the surf between the southern coast of Impiltur and the western coast of Aglarond.
+
+On the Sword Coast a colony were to be found south of Port Llast.
+
+Appendix
+
+See Also
+ Aldani
+ Chuul
+ Sartani
+ Crab folk
+Notes
+
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Yuvaraj
+
+Yuvaraj was the last Lord Artificer of Imaskar.
+
+Relationships
+He rode a copper dragon into battle.
+
+Possessions
+He wore the First Imaskarcana as his crown, while wielding a fabled tome of the same set of artifacts, probably the Third.
+
+History
+During the battle the final confrontation between the Imaskari and the Mulan and their deities in, he fell in battle with the deity Horus at the palace of Inupras.
+
+References
+
+---
+
+## Yuan-ti malison
+
+Yuan-ti malisons, also known as halfbloods, were a subrace of the yuan-ti, a psionic race of serpent-men. The term referred to any yuan-ti with a roughly equal blend of human and serpentine features. Despite their disparate appearances, malisons shared several common abilities.
+
+Description
+Yuan-ti halfbloods were greatly varied. They came in several body types and possessed many variations in scale patterns and colors, much like natural snakes. They tended to have body masses and sizes in the same range as humans.
+
+Four in ten malisons appeared as agile, sharp-featured human with a serpent's head and scales. Some varieties had hoods like cobras, such as those halfbloods who were members of House Hss'tafi.
+
+The remaining 60% of halfbloods fell into three remaining variations. Some had the lower body of a snake instead of legs, others had a snake-like tail, and still others had snake-like arms in place of normal arms.
+
+Abilities
+
+Like all true yuan-ti, halfbloods had psionic powers. All yuan-ti could morph their bodies into the form of any viper and sense the presence of any poison nearby by force of will alone. Moreover, they were innately resistant to magic. In addition to these common powers, halfbloods could psionically entrance animals and instil fear or suggest actions to those of weak willpower. They could also control small plants, vines, and weeds by thought (much like the entangle spell); call forth magical darkness; and neutralize any poison.
+
+They could change the color of their skin and scales to match their environments, much like a chameleon. Some attributed this to the psionic power chameleon. Their bodies oozed an acidic secretion, and their bite was venomous.
+
+Halfbloods from House Sseradess could breathe underwater.
+
+Snake-headed halfbloods from House Se'Sehen could spit venom.
+
+Those halfbloods with tails could use them to constrict opponents, to climb, and to swim. Some of them, particularly many from House Eselemas, had prehensile tails. Those with snake torsos in place of legs from House Sauringar were known to be able to puff up their bodies to look larger and more threatening.
+
+Halfbloods with snake-like arms could bite with the fangs at the end of each appendage.
+
+Life Cycle
+Like all yuan-ti, malisons hatched from eggs and grew to adulthood by twelve years. They could live as long as 120 years, but the average lifespan was 80 years.
+
+Personality
+Like most yuan-ti, halfbloods tended to be self-absorbed and arrogant. They tended to be far more intelligent than their pureblood kin—though slightly less intelligent than the abominations—and were always plotting and scheming.
+
+Combat
+Yuan-ti in general favored high-quality weapons. Halfbloods favored scimitars and composite longbows and often wore studded leather armor. It was not uncommon for them to poison their blades and arrows.
+
+In combat, they let the weaker purebloods fight first, while they stayed in hiding and used range weapons or their psionic abilities to confound their foes. Only if the purebloods failed would they join into melee combat.
+
+Society
+
+Yuan-ti followed a strict hierarchical system: The halfbloods receive orders from the abominations, and in turn the halfbloods rule over the purebloods. The halfbloods often served as captains or elite troops and were the bulk of yuan-ti defenses.
+
+Language
+Halfbloods spoke the Yuan-ti language, Common, and any local languages. They often learned Abyssal or Draconic as well.
+
+Religion
+The vast majority of yuan-ti, halfbloods included, worshiped the god Sseth. Halfbloods played a special role in the religion of Sseth in that almost all of his priests were halfbloods of the serpent-headed variety.
+
+History
+Like all true yuan-ti, halfbloods were created millennia ago by the sarrukh, one of the creator races, in magical, controlled breeding experiments combining humans, serpents, and sarrukh themselves.
+
+Notable Yuan-ti Malisons
+ Dediana Extaminos, ruler of Hlondeth
+
+Appendix
+See Also
+ Hannya
+ Lamia noble
+ Lillend
+ Marilith
+ Wereserpent
+Appearances
+
+References
+
+Connections
+
+---
+
+## Yuan-ti language
+
+The Yuan-ti language was the tongue spoken by the Yuan-ti races. Yuan-ti was also spoken as a second language by humans in Lapaliiya and the Tashalar and by ophidians.
+
+Derivations
+Hlondethan creole A distinct dialect of Sespechian, spoken in the city-state of Hlondeth, that combined elements of Proper Sespechian with the Yuan-ti tongue.
+
+Writing System
+Yuan-ti used the Draconic alphabet.
+
+Appendix
+See Also
+ Yuan-ti dictionary
+Appearances
+
+References
+
+Connections
+
+---
+
+## Yuan-ti dictionary
+
+A list of words in the Yuan-ti language.
+
+A
+ aha'ss  bloodkin
+ amasstarte  a type of osssra
+ asharlan  fortress
+ auvrael  known, friendly vrael
+
+B
+ battasss  a type of osssra
+
+D
+ duthlah'hass  a type of osssra
+ duthrael  unknown, unfriendly vrael
+
+E
+ ektharisss  a type of osssra
+ Eselemaa  members of House Eselemas
+ Extaminaar  members of House Extaminos
+
+F
+ faele  a type of osssra
+
+H
+ ha'srammass  greater tribe, house
+ hooloond  a type of osssra
+ hsskala  nearkill (a positoxin)
+ Hss'tafin  members of House Hss'tafi
+
+J
+ jalasss  a type of osssra
+ Jennestaa  members of House Jennestas
+
+L
+ laerisss  a type of osssra
+
+O
+ osssra  an oil producing a colorful, aromatic smoke when burned
+ oumkathuss  groups of about a dozen individuals within the Coiled Cabal
+
+R
+ ruusstantar  a type of osssra
+
+S
+ Sauringan  member of House Sauringar
+ Se'Sehen  members of House Se'Sehen
+ Sseradess  members of House Sseradess
+ Ss'kowlyn'raa  the Forest of Wyrms
+ ssrath  lesser tribe (with whom one works or dwells)
+ sssartisss  a type of poison
+
+T
+ t'iss'tess  dear
+ ts'ous  a type of poison
+
+U
+ ulathlasss  a type of osssra
+
+V
+ vrael (olo)  favored ones (referring to the yuan-ti)
+
+References
+
+---
+
+## Yusten Karas
+
+Yusten Karas was a drow assassin and sword master in the Moonsea in 1489 DR.
+
+History
+At one point, he was captured in Phlan and put in prison. With Vorgansharax's coup in 1489 DR, he managed to escape.
+
+However, soon after, near Twilight Marsh, he was again captured by the black dragon Throstulgrael and brainwashed to work for him. The Order of the Gauntlet desperately wanted him back alive, so eventually he was subdued by an adventuring party sent to recover some items from the dragon's lair.
+
+Appendix
+Appearances
+ Raiders of the Twilight Marsh
+
+References
+
+---
+
+## Yusuf bin Ayyub
+
+Yusuf bin Ayyub was the leader of the Loyalists within the fortress of Sarahin in 1367 DR.
+
+Personality
+Paranoid that everyone was jealous of his position within Sarahin, Yusuf was accompanied by three werelion bodyguards at all times. His lack of confidence prompted him to be curt with others.
+
+Activities
+Yusuf made careful plans and preparations to assume power when the Shadow Caliph died.
+
+Relationships
+It was rumored that Yusuf had become intimate with Jamila al-Zahab, one of his werelion bodyguards.
+
+Possessions
+Yusuf owned a magical scimitar, a ring of protection, and a ring of invisibility.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Yuraka
+
+Yuraka was a wu jen who lived in the city of Singye in Koryo around 1357 DR.
+
+Possessions
+Yuraka was the owner of the last known scroll case of the Ky Trencha Ukang, a powerful magical staff.
+
+Appendix
+References
+
+---
+
+## Yuk Yuk
+
+Yuk Yuk was a goblin living in the Silken Paths during the late 1480s or early 1490s DR.
+
+Personality
+He was a thrill-seeking individual. Yuk Yuk was a relatively sociable denizen of the Underdark.
+
+Relationship
+Yuk Yuk was the inseparable friend and partner of Spiderbait. They called themselves the Web Runners.
+
+Activities
+For a suitable fee, he offered to help and guide strangers through the Underdark.
+
+Appendix
+Appearances
+Adventures
+Out of the Abyss
+Gamebooks
+Escape the Underdark
+Video Games
+Idle Champions of the Forgotten Realms
+
+References
+
+---
+
+## Yunik al-Zanil
+
+Yunik al-Zanil ran a small shop specializing in flying tours within the Grand Bazaar of Huzuz in 1367 DR.
+
+Activities
+Yunik’s rates were pricey, but worth it. For 20 dinars customers received a 30 minute aerial tour of Golden Huzuz aboad a flying carpet. The tours were customized based upon what the customer wished to view.
+
+Yunik had several apprentices who paid for their training by taking customers on tours, though Yunik stepped in to conduct tours for elite customers.
+
+Flying above the Golden Mosque or the Palace of the Enlightened Throne was prohibited.
+
+Customers who had the permission of the Grand Vizier or Grand Caliph were allowed to purchase flying carpets from Yunik. Large carpets sold for 10,000 dinar, and smaller ones for 5,000. The waiting time to receive a carpet was six months. If customers were not willing to wait that long, Yunik sometimes sold the carpets he used on tours.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Yulian Ryakhin
+
+Yulian Ryakhin was a gardener in Mulmaster.
+
+Activities
+Yulian worked as gardener for the estate of a Blade in Mulmaster.
+
+Appendix
+
+Appearances
+ Boltsmelter's Book
+
+References
+
+---
+
+## Yukio
+
+Yukio the Rice Merchant was one of the most powerful merchant in Miyama Province in Kozakura in 1357 DR.
+
+Activities
+Yukio operated by a large fortified house with all confort in the Castle District of Tamanokuni. His house housed 20 members of his family, 30 servants, six business clerks and an overseer and for protection 250 bushi led by 10 ronin. Plus he sponsored the school of the kensai Oshio and his five students, which was located on the grounds.
+
+Appendix
+
+References
+
+---
+
+## Yuchimo Ein
+
+Yuchimo Ein was a monk of Bishamon at the Shining Temple of Bishamon in the town of Aru in Wa around 1357 DR.
+
+Activities
+He was a high-ranking monk of Bishamon, based permanently at the Shining Temple. His duties included supervising acolytes, instructing others in spiritual matters, and the organizing special services for visiting dignitaries and important pilgrims.
+
+However, he had two hidden vices. For one, he was a ceaseless gossip; he would usually exaggerating truthful matters to make them seem more interesting. For the second, he was a compulsive gambler, ready to bet on anything, including local cricket races and how many visitors wore kimonos of a certain pattern. He wasn't even any good, so he had to borrow money from seedy lenders.
+
+Personality
+Ein was amiable, pleasant-natured, and good at heart, and also very chatty. He truly loved his work at the temple, and found his gossiping and gambling habits intensely shameful. He was afraid he would be found out and forced to resign; he would do anything to stop this happening.
+
+History
+Around 1357 DR, Ein pawned an important sword—given by the Spirit of the Sun to Matasuuri Shogoro and later given to the Shining Temple by Shogun Matasuuri Nagahide—in a dodgy pawn shop to pay off a gambling debt. He replaced the sword with a forgery while he tried to scrape together enough coin to buy it back. When agents of Nagahide sought to retrieve the sword, and found it no longer glowed as described, and had to investigate.
+
+References
+
+---
+
+## Yuminoi Bowida
+
+Yuminoi Bowida was a Roju representative in Fochu in Wa around 1357 DR.
+
+Activities
+Bowida was sent from Uwaji by the Roju in Fochu to survey possible activity of followers of Chauntea in the area since daimyo Bokika Hokio was known to sympathized for them. Bowida love his job, especially possibility to execute suspect peasants taking advantage of his kirsute gome privilege. Often he manufactured evidence against people. All in the area hated Yuminoi and his men.
+
+Appendix
+
+References
+
+---
+
+## Yui Min Li
+
+Yui Min Li was the Minister of Faith of Shou Lung in 1358 DR.
+
+History
+Yui Min Li was originally a sohei of the Dragon Order but also an Imperial Guard. After being promoted to minister, she faced a very hard task: her duty was to decide which among the thousands of different branches of the Path of Enlightenment could be sanctioned by the Imperial government, and be considered among the approximately 200 approved sects of the Path's Shou-ling Tao, or Receivers of Guidance. She also had to avoid battle between Shou-ling Tao sects, both between sanctioned sects and against non-sanctioned sects. Yui Min Li had a delicate truce with the Path's High Priest, Kung Pu Mok, whom she knew had ties to the Black Chun Tao. She secretly had an ally in the Minister of Magic.
+
+Appendix
+References
+
+---
+
+## Yusuke T'ing
+
+Yusuke T'ing was an inhabitant of Fochu Peninsula in Wa.
+
+History
+Yusuke lived in the village of Sokijan in Fochu Peninsula. In 1358 DR, his pet sparrow died and he went in search of a new one in the surrounding area. He first met a group of Blue Kumi Bandits and later Osari Minhiro and a foreign adventuring party. He asked them to accompany him back to his home.
+
+Appendix
+References
+
+---
+
+## Yuji Takaesu
+
+Yuji Takaesu was a samurai in the town of Aru in Wa.
+
+Personality
+Yuji was totally loyal to his daimyo. He loved music and outside his government dutieshe  was an introspective and intellectual individual.
+
+Activities
+Yuji was the right-hand man of the daimyo Benju Matsutomo. His hobbies were acting in noh plays with Benju and playing go.
+
+History
+Yuji met Benju Matsutomo when he was a simple samurai general. From that day, Yuji was his closest advisor and best friend.
+
+Appendix
+References
+
+---
+
+## Yuf Bawrax
+
+Yuf Bawrax was a man living in the settlement of Bejung in Koryo around 1358 DR, described as an "old northern barbarian". He could often be found at The Sharpening House, a local tavern.
+
+Yuf had discovered an entrance into the ruins of the city of Old Bejung. He declined to step foot inside, but would show it to others.
+
+Appendix
+References
+
+---
+
+## Yusendre
+
+Yusendre was one of the Nimbral Lords and one of the leading Elders.
+
+Personality
+She was an impish fun-loving figure.
+
+History
+Yusendre was forced to help her fellow Elder Skouloun to sell many rival wizards to the Shadovar.
+
+Yusendre escaped from the Spellplague in the, using a gate to another plane. There she entered into stasis using the Phezult's sleep of ages spell.
+
+Yusendre awoke around 1487 DR and competed with Skouloun and other archmages for possession of the Lost Spell during a spellstorm. However, she was killed by Tabra for her dealings with the Shadovar in Tarsakh of the .
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Yuan-ti pit master
+
+Yuan-ti pit masters were cautious yuan-ti malison priests of the deity Merrshaulk.
+
+Description
+Yuan-ti pit masters were mostly humanoid in form, but had many snake-body-like tentacles in place of arms.
+
+Personality
+Pit masters were traditionalists who always preferred a slow, cautious approach in any matter and opposed any reckless behavior. They felt that they were the most capable of achieving the goals of the yuan-ti.
+
+Abilities
+
+Like other yuan-ti, pit masters were immune to poison and resistant to spells and other magical effects. They could turn into a snake and back at will. Pit masters could also innately cast the spells animal friendship at will and suggestion thrice each day.
+
+As priests of Merrshaulk, yuan-ti pit masters knew the cantrips eldritch blast, friends, guidance, mage hand, message, and poison spray, and the spells command, counterspell, hellish rebuke, invisibility, misty step, unseen servant, and vampiric touch. They could only cast two spells each day, however.
+
+Additionally, once each day a pit master could cause five creatures within  of it that it could see to collapse into a magical sleep for 10 minutes.
+
+Combat
+Pit masters did not use weapons or armor, instead relying on their naturally venomous fangs to deal with enemies.
+
+Society
+Yuan-ti pit masters were priests of the ancient yuan-ti god Merrshaulk, and they sacrificed humanoids to him in order to rouse him from his slumber. They were also heavily involved in the long-term plans of the yuan-ti to take over humanoid governments and also in the efforts to protect their own cities from discovery and attack.
+
+Appendix
+Appearances
+
+Connections
+
+References
+
+---
+
+## Yuan-ti abomination
+
+Yuan-ti abominations were monstrous serpent-like creatures possessed of both great intelligence and powerful magic. They formed the highest major caste of yuan-ti society.
+
+Description
+Yuan-ti abominations resembled massive snakes, some  long and weighing approximately, with scale-covered humanoid arms. Their scale patterns were variable according to tribe, but they had the wedge-shaped heads distinctive of venomous snakes.
+
+Combat
+Abominations often used scimitars in melee combat. They also attacked using their fangs, delivering a powerful poison. Abominations did not wear armor, for their scales were more than enough to protect them.
+
+Abilities
+Abominations possessed various innate psionic abilities that made them deadly warriors: they could induce a severe aversion to snakes in any creature within  of them, forcing that creature to stay at least  from any snake they saw; they could produce acid to coat their scales, or change the color of their scales to match their surroundings; they could detect poison at will; and they could shapechange into the form of a viper of variable size.
+
+Yuan-ti abominations could use the spell-like abilities animal trance and entangle at will; deeper darkness, neutralize poison, and suggestion thrice each day; and fear and baleful polymorph (into a snake only) once each day. Some sources added that they could use snake charm and sticks to snakes once each day as well, or animal friendship on snakes at will.
+
+Yuan-ti abominations in their own form were dangerously venomous and capable of both swimming and climbing easily.
+
+Society
+Unless one of the much rarer and more powerful yuan-ti anathemas was present, yuan-ti abominations were the leaders and masterminds of the yuan-ti, as well as the highest-ranking priests in each tribe's temple.
+
+Abominations considered humans repugnant and barely tolerated yuan-ti pureblood. Like all yuan-ti, abominations found the body odor of humans repulsive.
+
+Ecology
+Abominations were obligate carnivores and preferred eating warm-blooded creatures. Their favorite meal were birds and humans.
+
+Appendix
+Gallery
+
+Appearances
+Adventures
+Polyhedron #41: "Wedding Party: An AD&D Oriental Game Adventure" • Dungeon #69: "Slave Vats of the Yuan-ti" • The Rise of Tiamat • Waterdeep: Dungeon of the Mad Mage
+Novels
+Venom in Her Veins
+Video Games
+Icewind Dale • Icewind Dale II • Idle Champions of the Forgotten Realms
+Card Games
+Dragonfire
+Miniatures
+Dungeons & Dragons Miniatures • Icons of the Realms
+Organized Play & Licensed Adventures
+Peril at the Port • In Search of Secrets • Fathomless Pits of Ill Intent
+
+References
+
+Connections
+
+fr:Abomination_yuan-ti
+
+---
+
+## Yuan-ti anathema
+
+Yuan-ti anathemas were the result of a ritual that transformed a yuan-ti abomination into a larger, more powerful and more aggressive creature.
+
+Description
+Anathemas were immortal and considerably larger than abominations, with claw-like hands and six snake heads.
+
+Combat
+Anathemas avoided melee combat when possible, preferring to leave such matters to their yuan-ti followers. While their minions attacked an enemy, anathemas remained a safe distance behind but close enough to attack with their magical and psionic abilities.
+
+If they were forced into one-on-one combat, in addition to using their powerful abilities, they grabbed onto an opponent and constricted them, crushing the life from them. They also attacked using their fangs, delivering a powerful venom.
+
+Abilities
+Anathemas had the innate ability to duplicate the effects of animal trance, cause fear, deeper darkness, entangle, haste, neutralize poison, suggestion, polymorph other and unholy blight spells three time a day; blasphemy and unholy aura once per day.
+
+Anathemas were able to change their form into a viper of various sizes. They also had the ability to camouflage themselves and anything they carried to blend in with their surroundings. During melee combat, while holding onto an enemy, anathemas could excrete a powerful acid from their skin.
+
+Anathemas were able to cause fear of snakes to any creature within . They had an excellent sense of smell and due to their six heads, were able to see in multiple directions at once. This made it nearly impossible to sneak up on an anathema without magical or psionic aid. Anathemas were able to regenerate any damage inflicted by a weapon.
+
+Society
+Anathemas were incredibly rare and held a unique position in the usual yuan-ti caste system. Anathemas did not live among other yuan-ti, as their presence within a yuan-ti city was so powerful it lead to societal and structural collapse. As a result, they lived alone outside yuan-ti settlements.
+
+As anathemas were usually considered divine beings of Sseth, other yuan-ti organized cults around a anathema. Sometimes an anathema thought of itself as the living avatar of an elder god or even a new god entirely. Anathemas were considered by their followers to be the pinnacle of the yuan-ti race.
+
+They could create yuan-ti grafts quickly, and were thus the primary practitioners of that magic.
+
+Ecology
+The ritual that transformed an abomination into an anathema was cruel and painful, involving the sacrifice of hundreds of snakes and requiring the abomination to bathe in the blood of its enemies. Some yuan-ti disliked the idea of creating a new anathema because they were far more aggressive and brutal leaders than abominations.
+
+By means of grafting, anathemas were able to attach or replace body parts, transforming both humanoids and monstrous humanoids into creatures resembling yuan-ti. This complicated process was extremely painful for the victim and was demanding on the anathema. Each modification took up to an hour and required the full concentration and focus of the anathema for the graft to be successful. Common grafts included adding or replacing a victim's legs with a reptilian tail, replacing a victim's teeth with poisonous fangs, replacing a victim's arm with a prehensile appendage that ended in a snakes head or replacing a victim's skin with scales.
+
+After a graft, the anathema was exhausted and required rest. The anathema was vulnerable while in this state as they were unable to defend themselves physically, use any spells or innate abilities or engage in any task that was mentally or physically demanding.
+
+Anathemas created the special potion that transformed humanoids into broodguards and tainted ones.
+
+Notable yuan-ti anathemas
+ Phelriss: an anathema who lived around the upper parts of the Nagaflow and was venerated as a god by a cult of dark and spirit nagas.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+fr:Anathème yuan-ti
+
+---
+
+## Yumbu Shan
+
+Yumbu Shan was a large mountain peak found in the nation of Khazari in the Hordelands.
+
+Geography
+Yumbu Shan was found in the southwest corner of Khazari where an arm of Katakoro Shan encircled the country from the south.
+
+Description
+The peak rose to an elevation of . Yumbu Citadel was built atop Yumbu Shan.
+
+Appendix
+References
+
+---
+
+## Yulis
+
+Yulis the Fortune Teller was a human woman who had the ability to divine the future. As of 1479 DR, she lived in the city of Harglast, in the Windrise Ports of Laerakond.
+
+Abilities
+Yulis had the ability to accurately foresee the future by using a pool that emanated magical vapor, that was located in a cave below her house in Harglast. She had to study many years to master this ability.
+
+Yulis had also the ability to alter the destiny of certain individuals by manipulating the Weave, although she was also aware of the risks of using the Weave in such way.
+
+Background
+Yulis was well-known in Harglast due to her abilities, and was respected by the citizens. Yulis was also an acquittance of Queen Imreera Hethkantan of Gontal, and helped her when the Queen required it.
+
+References
+
+---
+
+## Yuan
+
+The yuan was the second-lowest unit of currency used in Kara-Tur.
+
+The yuan took the form of a copper coin with a hole through the center, similar to the fen. One yuan was worth 5 fen, 20 yuan were worth 1 ch'ao or 1 tael, and 200 yuan were worth 1 ch'ien. If transported to Faerûn circa 1357 DR, 1 yuan would be treated as worth 1 copper piece, though its actual value would be 5 copper pieces.
+
+Thanks to their holes, collections of fens and yuans were threaded on strings in amounts of 50–100, which was convenient for counting and carrying them. These cash strings could be worn on the wrist and tucked inside the sleeve.
+
+References
+
+---
+
+## Yulzaunt
+
+The Yulzaunt House was a rich and influential bloodline and part of the Onsruur (council of lords) that governed Khôltar, the Iron City, circa the Year of Wild Magic, 1372 DR.
+
+Organization
+Members of this human family were distinguished by their great height and slender build. They had an interest in the medical and healing professions, producing quite a few healers, apothecaries, and experts on illness and disease.
+
+Activities
+The Yulzaunt were not altruistic enough to help those in need for free; they typically sold their medical advice and remedies to the sickly. This clan had extensive real estate holdings in the Iron City and rented most of it out. This dovetailed with their sponsorship of many businesses in town, particularly those run by gnomes and halflings. Outside the walls, they owned ranches that produced herds of beasts that they sold in a dozen countries.
+
+Tactics
+It was standard practice for the Yulzaunt to manipulate the meat market by attempting to create scarcity in an area and wait for the price to rise before driving their herds in to sell for bigger profits.
+
+Relationships
+The Yulzaunts were close allies with the Voaphangh family, also members of the Onsruur.
+
+Appendix
+References
+
+---
+
+## Yuirwood
+
+The Yuirwood was an ancient forest located in the center of the nation of Aglarond. Once spanning the entirety of the Aglarondan peninsula, the human settlers of Aglarond caused the forests boundaries to recede to the center of the peninsula.
+
+Description
+The forest was named after the Yuir, an ancient nation of star elves and wild elves who once dwelled in the forest. The ruins of their civilization dotted the woods, reminders of the great elven society that once dominated the Aglarondan peninsula. The most prominent ruins were the menhir circles, which served as portals to other parts of the Yuirwood, Toril and even locations on other planes, such as Sildëyuir in the Feywild. The best preserved example of the menhir circles are found in the Sunglade.
+
+The Yuirwood was infused with both ancient and new magic. Notably, the mixture of magic within the Yuirwood rendered the forest impenetrable to scrying and divination magic, with any attempt to do so revealing only the woods themselves.
+
+During the Spellplague, the forest became riddled with plaguelands The portals found within malfunctioned catastrophically, opening to random destinations ranging from the Feywild to planes of nightmarish destruction. The ruins and menhir circles in particular seemed to attract the Spellplague, possibly due to their connection with the Feywild.
+
+Government
+The ruler of the elven population of Yuirwood circa  was Lady Lonereed Silverleaf of the Clan of Wandering Spray. During her reign, Yuirwood maintained friendly international relations. The queen visited the grand Festival of Blades in the Blade Kingdoms in 1217 DR.
+
+History
+In −9800 DR, the Yuirwood was settled by green elves in the aftermath of the Crown Wars.
+
+In, the star elves began leaving other elven nations and gathering in the Yuirwood.
+
+In, the star and green elves founded the realm of Yuireshanyaar in the Yuirwood.
+
+The human empire of Unther battled Yuireshanyaar in −1250 DR for control of the southern Aglarondan coast, and the Yuir were driven back into the woods.
+
+From −1076 to −1069 DR, the Orcgate Wars occurred after an Imaskari wizard opened up a gate in Mulhorand to the orcs' home world, and Yuireshanyaar was pressed hard by the orcs.
+
+From −900 DR to −600 DR, faced with the encroaching humans along the Wizards' Reach (most from Old Unther), the star elf High Mages of Yuireshanyaar created a forest-wide network of stone circles and worked a mighty high magic spell through the stone menhirs to construct the extraplanar world of Sildëyuir.
+
+In the Year of Moon Blades Crashing, −699 DR, the star elves completely abandoned Yuireshanyaar for Sildëyuir, but many wild, or green, elves chose to remain in the Yuirwood.
+
+From 870 DR to 890 DR, humans from Velprin started to meet the elves of Yuir, after they had avoided contact for centuries.
+
+From 900 DR to 1050 DR, an intermingling of the humans and the elves gave rise to half-elves.
+
+In 1033 DR, the half-elves resisted Velprin. A large number of border clashes occurred.
+
+In 1059 DR, an army from Velprin, led by Indrila Demaz defeated the half-elf militia and the half-elves fled deep into the forest.
+
+The ruler of Yuirwood, Lady Lonereed Silverleaf of the Clan of Wandering Spray acted as the foreign dignitary while visiting the annual Festival of Blades in the city state of Sumbria, Blade Kingdomsin in 1217 DR. She was accompanied by her escort-of-the-year, Brightlightning Dragonsbane, the Swordmaster of the Hordes of the Tangled Trees. During the visit, Lady Silverleaf's unique pink pearl necklace, a gift from her loving subject, was stolen. In attempts to avoid international scandal, the Prince-elect of Sumbria and his menacing moutains of frills and silks of a wife, Ulia Mannicci, confronted the alleged culprit - Princess Milianna Mannicci da Sumbria. The international scandal was averted and the princess was punished accordigly. A scandal of different nature, however, ensued with Lady Lonereed Silverleaf was present for the unveiling of The Sea Goddess Rising from the Waves, a painting gifted to Sumbria by the city-state of Lomatra. After a series of misunderstandings and a comedy of errors, the painting that was unveiled was the The Sea Beast Rising from the Waves, depicting Ulia Mannicci in improper and provocative bathing attire.
+
+Araevin Teshurr and his companions visited Sildëyuir in the Year of Lightning Storms, 1374 DR.
+
+The Spellplague was nigh-catastrophic for the Yuirwood; large parts of Sildëyuir itself was pulled into the Feywild. In the years that followed, the inhabitants of the Yuirwood actively resisted the rulings of the Simbarch Council with little consequence.
+
+Following the events of the Second Sundering, the Yuirwood returned to normal and the portals presumably began functioning normally again.
+
+Locations
+Menhir Circles were remnants of the Yuir civilization, worn standing stones carved with ancient elven dialects. While much of their magic has faded over the centuries, with the monuments all but completely enveloped by the undergrowth of the forest, they still functioned as a network of portals   The knowledge of how these portals worked was reserved to an elite faction of druids and rangers once called the Masters of the Yuirwood, although occasionally the portals opened by themselves during the light of a full moon.  These portals transported travelers to other parts of the Yuirwood, with some going to other parts of Toril.  Some of the circles could even transport travelers to the demiplane of Sildëyuir, however those portals often only opened for star elves themselves.  During the Spellplague, the menhir circles malfunctioned, sending those that traveled within them to random destinations, ranging from planes of unimaginable terror to the Feywild itself.
+
+The Sunglade was a meadow-like clearing in the center of the Yuirwood, marked by two concentric menhir circles. The stones of the outermost menhir circle stand nearly 20 feet high. Each stone is dedicated to a member of the Seldarine, carved with intricate runes. The stones of the innermost menhir circle stands 6 feet tall, with each stone also covered in runes. However, rather than dedicating itself to the Seldarine, the stones are dedicated to the long forgotten pantheon of those who lived in the Yuirwood before the star elves themselves did. The Sunglade was untouched by the ravages of time and the clearing remained pristine despite the centuries of time that passed the Sunglade by.
+
+Inhabitants
+Populated by primarily by half-elves, rumored to be the descendants of Yuir themselves, the folk of the Yuirwood forest were said to be warm and fiercely loyal companions. However, they were highly insular, with little regard for what happened outside the borders of their forest.
+
+The people did recognize the authority of the Simbul, however they later disputed the authority of the Simbarch Council during the 15 century DR. Additionally, the constant encroachment of the borders of the Yuirwood have rendered the woods' inhabitant suspicious of strangers, including coastal Aglarondans. Following this encroachment, the people of the forest rarely interacted with any stranger, unless pressed by circumstance.
+
+Few malevolent creatures roamed the forest, however the vicious boars and monstrous spiders provided just as much danger to an unprepared traveler.
+
+Appendix
+
+Appearances
+Adventures
+The Twilight Tomb
+Novels
+The Simbul's Gift • Sentinelspire
+
+The Council of Blades
+
+References
+
+FR:Bois de Yuir
+Further Reading
+
+---
+
+## Yulimtul
+
+Yulimtul was an officer of the Flaming Fist mercenary company during the mid–14 century DR.
+
+History
+In 1364 DR, Yulimtul, along with Scar, Bellan, Desedrak, and over 500 Fist members sailed out from Faerûn on an expedition in search of the legendary land of Anchorome. While they were beset by disease and storms, they safely landed in the port city of Helmsport in Maztica.
+
+While in the safety of the Amnian colony, the group split, with Yulimtul, Desedrak, and over 200 Fist mercenaries traveling overland across the continent to the northwest, in search of the legendary Maztican City of Gold. However, the explorers completely disappeared and were never heard from again.
+
+Appendix
+References
+
+---
+
+## Yu lung
+
+Yu lung, also known as carp dragons, were dragons that were found in the lakes and rivers of Kara-Tur.
+
+Description
+The smallest of the lung dragons, yu lung only grew up to 35 feet (10 meters) in length. Their body and tail were similar in appearance to those of a giant carp. They had blue-grey scales with colored markings. Their eyes were yellow and looked like a cat's eyes. Their two arms were tipped with sharp claws. A long beard flowed from under their snout.
+
+Personality
+Yu lung were docile, shy, and withdrawn. They were friendly with other aquatic species, and would even befriend humans.
+
+Combat
+Yu lung avoided combat as much as possible. If they were cornered, they would lash out with their fangs and claws. As a young adult, their jaws could be unhinged and could swallow a humanoid whole.
+
+Abilities
+A yu lung lacked the ability to polymorph self and invisibility, abilities other lung dragons possessed. The only innate magical abilities a yu lung possessed were bless and curse, which they could cast three times a day.  Once a day, they had the ability to exhale a cloud of gas, with a diameter of up to 10 feet (3 meters). This gas cloud had the same effect as potion of healing.
+
+Ecology
+These dragons were scavengers, preferring to eat both organic and inorganic matter at the bottoms of lakes and rivers. They would occasionally eat fish. Yu lung were able to breathe water but could only breathe air for up to an hour at a time. They were strong swimmers and could also travel on land by dragging themselves with their powerful arms and claws, albeit for limited distances. The dragons lived in mansions of mud and stone on a riverbed. Unlike other dragons, a yu lung did not collect treasure.
+Habitats
+In Faerûn, yu lung could be found in Cormanthor in the River Ashaba.
+
+Celestial Bureaucracy
+The yu lung had no official position in the Celestial Bureaucracy. As a result, humans gave it no offerings nor worship. When a yu lung reached adulthood, they meta-morphed into another lung dragon. It was unknown which subspecies of lung dragon they would change into. This process occurred exactly at midnight after reaching the age of one hundred and one. They were then assigned their duties by the Celestial Bureaucracy depending on what subspecies they morphed into.
+
+Appendix
+
+Gallery
+
+Background
+In Chinese mythology, according to the Legend of the Carp, any carp, yu, leaping over the fabled Dragon Gate would transform into a dragon.Chinese Dragons - Draconika
+
+Notes
+
+References
+
+Connections
+
+---
+
+## YuYa Mao
+
+YuYa Mao was a cat hengeyokai adventurer in Shou Lung in the mid–14 century DR.
+
+Activities
+YuYa Mao wandered the land, protecting a great number of small villages from any danger. She preferred put a stop to trouble swiftly and move on, so the folk she aided knew little about her.
+
+Personality
+YuYa Mao was a swift but elegant individual, in any form. In human form, she carried a longsword and a short sword.
+
+Personality
+She was curious but oddly aloof. When among humans for extended periods, she preferred to remain in the form of a stray Siamese cat playing pranks and pinching fish.
+
+Relations
+Around 1357 DR, YuYa was sometimes a companion of the tiger hengeyokai Hu.
+
+Appendix
+References
+
+---
+
+## Yu Fu Fang
+
+Yu Fu Fang was a barbarian in Shou Lung in the mid–14 century DR.
+
+Activities
+Yu Fu lived near the Hungtse River. He fished with trained cormorants and a magic flute that called fish to his boat. He was a wonder of the local fish market, always having many kinds of fish and rare delicacies. Sometimes, for his friends, Yu Fu also built boats.
+
+Appendix
+
+References
+
+---
+
+## Yuki-on-na
+
+Yuki-on-na  were evil creatures native to the cold regions of Kara-Tur.
+
+Description
+Yuki-on-na resembled beautiful human females. They always wore robes as white as snow that were in constant motion, moving around them even when there was no breeze.
+
+Personality
+Yuki-on-na despised and loathed all humans and anything that involved them.
+
+Biology
+All yuki-on-na were female and lived very long lives. When one neared the end of her life, she entered into a state similar to temporal stasis. Gradually turning into solid ice, her body broke into two or three large pieces, each piece becoming a new yuki-on-na. If a yuki-on-na was encountered while in stasis, and struck with a weapon, her body disintegrated into ice crystals; this prevented new yuki-on-na from being created.
+
+Combat
+Yuki-on-na attacked any human that ventured into their territory. They waited until the weather conditions were ideal for an ambush. Under the cover of a blizzard, they were virtually invisible thanks to the camouflaging effect of their white robes against the swirling snow. If their victim made eye contact with a yuki-on-na, they became temporarily paralyzed. They did not use weapons, instead inflicting damage by simply touching their victim.
+
+Abilities
+Yuki-on-na had the innate ability to duplicate the effects of disguise, comprehend languages, ESP, and know history spells at will. Once a day, the touch of a yuki-on-na caused her victim to become completely disorientated for up to eighteen hours, unable to remember the direction they were heading or how to return along their path. Yuki-on-na were immune to the cold and cold-based spells but vulnerable to fire and fire-based spells.
+
+History
+The first yuki-on-na was created from the spirit of Lin-Tze. She was a concubine of Emperor Oikjo Nifi, one of the first imperial rulers of Kozakura. Lin-Tze was consumed by jealousy at the attention the emperor gave to his family, and as a result, poisoned the entire family of the emperor. The distraught and enraged emperor was so overcome with grief, he asked the Celestial Bureaucracy to deliver justice on Lin-Tze. The Celestial Bureaucracy accepted the emperor's petition and transformed Lin-Tze into the first yuki-on-na, banishing her to the most northern part of Kozakura.
+
+Society
+Yuki-on-na were normally solitary creatures but groups of up to three individuals were sighted temporarily living and hunting together, usually after they were freshly created. Yuki-on-na did not collect or hoard treasure.
+Diet
+Yuki-on-na were obligate carnivores, eating only flesh and bones. Their favorite meal was the meat from a freshly killed human.
+Homelands
+Yuki-on-na lived in the cold, arctic regions of Kara-Tur, although most of them have been spotted in northern Kozakura. They made their lairs within mountain caves or valleys filled with evergreens. Their territory extended only a few miles around their lair, they rarely if ever traveled beyond their territory.
+
+Outside of Kara-Tur, they were known to occasionally be found in the arctic plains of the Hordelands as well as its wooded mountain ranges. These included the Chigiogi Mountains, Glittering Spires, Hagga Shan and Ulhai Shan.
+Relationships
+Despite holding a fanatical hatred of humans, yuki-on-na lived in relative peace with other sentient creatures such as hengeyokai and kala. This harmonious relationship only lasted as long as the yuki-on-na was undisturbed and her territory respected.
+
+Appendix
+Gallery
+
+Appearances
+Adventures
+Swords of the Daimyo • Dungeon #130, "The Palace of Plenty"
+
+References
+
+---
+
+## Yuan-ti broodguard
+
+Yuan-ti broodguards were humans who had been transformed into reptilian humanoid slaves. They were called histachii in the yuan-ti language, which translated to "egg-watchers".
+
+Description
+Broodguards were emaciated and had no skin or hair. Instead, they were covered in tough scales that gave off a faint odor of rotting flesh. Their eyes were bloodshot and small. They had a forked tongue, which constantly flicked in and out of their mouths, which were filled with dull, yellowed, hooked teeth. They had thin fingers that ended in sharp black claws.
+
+Personality
+Broodguards despised all non-reptilian creatures. Barely sentient, they had little intelligence.
+
+Combat
+Broodguards instantly attacked any humanoid or non-reptilian creature. They were fierce fighters, but their tactics were simple, including charging at their target and attacking with their claws and fangs. They would fight to the death to defend their yuan-ti masters or the eggs they were assigned to tend. In combat, broodguards never used armor or weapons. Once per day, a broodguard was able to go into a berserk state, increasing its strength in battle.
+
+Abilities
+While broodguards lacked the natural magical resistance other yuan-ti possessed, they were immune to all charm and hold spells. Broodguards were not able to cast spells.
+
+Society
+
+Broodguards were among the lowest castes in yuan-ti society. Mere slaves, they were totally submissive to their yuan-ti masters, obeying every command without hesitation. Their purpose was to defend eggs and hatchlings within brood chambers. They also performed basic tasks, such as moving eggs or caring for hatchlings, but only when under supervision of other yuan-ti. They were assigned other tasks when required, including guarding prisoners or hunting.
+
+Ecology
+Broodguards were created by the failed transformation of human prisoners into tainted ones by the yuan-ti. The transformation process involved forcing the prisoners to drink a special concoction brewed from yuan-ti venom and a specific mix of herbs and roots. If the humanoid survived drinking the potion but failed to transform into a tainted one, they became broodguards within a week or two. Human devotees within yuan-ti cults would undergo this process voluntarily.
+
+The transition could be reversed using magic. After drinking the potion, the transformation could be prevented if the following spells were cast in this order: neutralize poison, dispel magic, remove curse, and heal. If successful, the process was halted and reversed; however, the individual's intelligence was permanently reduced. Only a wish or miracle spell was able to return a broodguard to its original state after the transformation took effect.
+
+Broodguards were obligate carnivores. Their diet usually consisted of vermin and insects and whatever else the yuan-ti left for them.
+
+History
+The process for creating tainted ones and broodguards was invented by the yuan-ti of the Serpent Hills. As of the mid-to-late 14 century DR, they were the only ones who knew this secret, however it was considered only a matter of time before the yuan-ti of Chult and Hlondeth learned it as well. Sure enough, by the late 15 century DR, broodguards were present in Chult, notably in large numbers at the Fane of the Night Serpent in Omu.
+
+Histachii were also created by the yuan-ti occupying Wolfhill House, whose leaders were part of the Cathedral of Emerald Scales in Hlondeth.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Yuan-ti mind whisperer
+
+Yuan-ti mind whisperers were a type of yuan-ti malison that revered the deity Sseth.
+
+Description
+Mind whisperers were a form of malison with a humanoid body and a serpentine head.
+
+Personality
+Yuan-ti mind whisperers were sneaky, self-important, manipulative, unpredictable, and treacherous. They were also cowards who tended to flee at the first sign of trouble.
+
+Abilities
+Like other yuan-ti, mind whisperers were immune to poison and could turn into a snake and back at will. They could also innately cast the spells animal friendship (on snakes only) at will, and suggestion thrice each day. They were also resistant to spells and other magical effects.
+
+As priests of Sseth, they knew the cantrips eldritch blast, friends, message, minor illusion, poison spray, and prestidigitation. They also knew the spells charm person, crown of madness, detect thoughts, expeditious retreat, fly, hypnotic pattern, and illusory script, but could only cast two spells each day. Additionally, whenever they killed or knocked out an enemy, they healed slightly thanks to a blessing from Sseth.
+
+Combat
+Yuan-ti mind whisperers wore no armor but wielded scimitars in combat. They could also attack with their own venomous fangs. Mind whisperers could cause psychic damage twice each day while attacking.
+
+Society
+Yuan-ti mind whisperers were priests, after a fashion, of the yuan-ti deity Sseth, and they used their power to both convert others to that god's worship and to increase their own personal power. However, they had a habit of using their power to cloud the minds of their enemies, and even among the yuan-ti were known for being unreliable. They were willing to cheat or even kill allies and rivals alike if there was some benefit for doing so.
+
+Like other yuan-ti, mind whisperers were schemers. In particular, they often played the middle ground between two conflicting factions, and so spent a lot of time keeping whatever connections they had to both factions a secret.
+
+Appendix
+Appearances
+Video Games
+ • Idle Champions of the Forgotten Realms
+Miniatures
+Icons of the Realms
+
+References
+
+Connections
+
+---
+
+## Yûlash Rebellion
+
+The Yûlash Rebellion was a group of citizens in Yûlash around 1367 DR who favored the rule of Hillsfar over that of Zhentil Keep in their city.
+
+Members
+The rebellion had 240 members in 1367 DR, which was roughly twice that of their Zhentish counterparts. The faction was divided into numerous subfactions which spent more time fighting each other than the real enemy.
+
+Appendix
+References
+
+---
+
+## Yuka
+
+Yuka was a follower of the Faith of the Nine Travelers in Wa in the 1700s on the Wa Calendar.
+
+Personality
+He was a young man and zealous, but considered more-or-less harmless.
+
+Description
+He wore religious vestments of his faith.
+
+History
+In Wa Year 1775 (1357 DR), Yuka set up a stall at the base of the Three Thousand Steps before the Shining Temple of Bishamon in Aru and attempted to convert the pilgrims away from Bishamon to the Faith of the Nine Travelers. Calling them "benighted heathens" with a "false belief" didn't help his case. The pilgrims were understandably aggravated by this and some two dozen formed a mob to chase him off, possibly even beating him. How this was resolved would prove to be a sensitive matter in the time shortly before the Ceremony of the Three Thousand Steps.
+
+Appendix
+References
+
+---
+
+## Yu
+
+Yu was a fishing community and one of the many isolated villages of the Fochu Peninsula in Wa.
+
+Description
+Yu was a very poor village, but its people were friendly. As a whole, the people of Yu were much more welcoming of strangers than other settlements of the peninsula.
+
+Most of the structures within the village were simple peasant shacks known as minka, built from wood with latticed walls and straw-thatched roofs. Apart from these poor residences were small barns, warehouses, and shops.
+
+The village had a population of about 275 individuals after .
+
+Geography
+Yu was located on the west coast of the Fochu Peninsula of Tsukishima, north of Fochu, off a spur trail from the Hisano Road.
+
+Government
+Villages in Wa were run by an administrator known as a shoya, typically a minor samurai, and Yu was no different in this respect. The shoya could call upon a local militia if needed. The shoya of Yu after Wa Year 1770 (1352 DR) was Fu Pukiyi, a simple-minded but pleasant fellow.
+
+Trade
+The cost to spend the night in one of the small minkas was 2 fen. The village did not produce anything more expensive than 2 yuan to sell.
+
+Defenses
+About 28 citizens of Yu served in its militia. These persons were only armed with simple clubs or spears.
+
+Religion
+Unlike the other settlements in the region, the people of Yu were not particularly religious.
+
+History
+Sometime after Wa Year 1770 (1352 DR), deposed coiled dragon Za-Jikku began murdering citizens of the many villages of the Fochu Peninsula, transforming them into magical butterflies, the breath of which would create yun ch'i, the vapor of death, which he would use to live forever.
+
+Appendix
+Appearances
+ Test of the Samurai
+
+References
+
+---
+
+## Yulchass powder
+
+Yulchass powder was a drug-like substance from Chult made out of a type of berry only found in deep jungles of that region.
+
+Description
+Yulchass powder was purple in color and had a strong distinctive lemon taste. The powder could be mixed with food safely and stealthily, if the food could mask the lemon taste of the powder, or be enhanced by it.
+
+Powers
+When consumed, yulchass powder kept the imbiber awake and alert for a day longer than they could stay awake and active otherwise. Unlike other substances or magics that achieved similar effect, the imbiber did not suffer physiological consequences of the lack of sleep, nor succumbed to the stolen sleep later.
+
+Yulchass powder possessed a side-effect that made the person who consumed it involuntarily honest and loose-tongued.
+
+History
+Sometime in 1377 DR, a shady individual Belmer Droon used yulchass powder on the mercenaries he hired to assassinate Eidola of Neverwinter, in an attempt to test their loyalty.
+
+Appendix
+Appearances
+Novels
+The Mercenaries
+References
+
+---
+
+## Yusef al-Nasr
+
+Yusef al-Nasr was a historical figure among the al-Badia of the High Desert of west Zakhara.
+
+History
+Yusef was among the first of the desert dwellers within the vast High Desert to receive enlightenment. The location where he received enlightenment became a holy site where the Desert Mosque was later constructed.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Yuan-ti ignan
+
+Yuan-ti ignans were volatile, violent yuan-ti with salamander ancestry.
+
+Description
+Yuan-ti ignans resembled certain yuan-ti abominations, looking like a large serpent with a humanoid torso and arms. The tail split in two about two-thirds of the way down its length, each ending in a sharp hook. Multiple long, sharp horns crowned the head. Overall, yuan-ti ignans were covered in scales, with males tending to be red while females tended to be brown or grey. Yuan-ti ignans weighed about  and were about  in length.
+
+Personality
+Yuan-ti ignans were aggressive, brutish creatures who lacked both subtlety and patience. They were unpredictable, cruel, and prone to causing wanton destruction when bored.
+
+Abilities
+Yuan-ti ignans had an affinity for fire thanks to their salamander blood, but it carried with it a weakness for the cold. Their scales were extremely hot, burning most creatures that touched them.
+
+Combat
+In combat, yuan-ti ignans preferred to fight with a heavy mace and light steel shield. They would use their split tails to grapple opponents, starting with enemy spellcasters. However, their bloodlust made them less effective in groups, as once an enemy was grappled they would all converge on that one opponent and play a ghastly game of tug-of-war over them. They were more effective when fighting alone, or when commanded by a smarter yuan-ti.
+
+Society
+Yuan-ti ignans were created by the yuan-ti of the Serpent Hills as part of experiments to create monsters that resembled yuan-ti abominations but had various elemental qualities; in the case of the ignans, the element was fire. However, the ignans were untrustworthy and even dangerous to yuan-ti tribes because their penchant for causing destruction when not sufficiently occupied; thus, yuan-ti leaders would manufacture reasons to send ignans on missions away from their tribe, only gathering them on the eve of battle; or keeping larger numbers of beasts and slaves around when they had to breed large numbers of ignans. Within the yuan-ti enclave itself, they would lair in the deepest parts, where their intense body heat would filter up and serve the rest of the tribe by warming the tunnels.
+
+Yuan-ti ignans lived in the same places where other yuan-ti did, which was typically any warm forested area that they could establish a temple. However, there were rumors of yuan-ti ignans who overran and took control of yuan-ti fortresses. They were also sometimes encountered alone after a great battle destroyed their original home, as their strength and physical toughness made them better at surviving open battle than other yuan-ti. Very rarely, an ignan would split away and take over a tribe of weaker beings such as kobolds or goblins.
+
+Yuan-ti ignans worshiped Merrshaulk, but only very, very rarely became clerics, as they almost always left spellcasting to other yuan-ti.
+
+The yuan-ti who created the ignans gave some of them to nearby red dragons as favors, in exchange for certain magical treasure. The red dragons used the yuan-ti ignans as guards for their lairs, or as shock troops when fighting against the local copper dragons.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Yuan-ti nightmare speaker
+
+Yuan-ti nightmare speakers were a type of yuan-ti halfblood that served Dendar.
+
+Description
+Nightmare speakers were yuan-ti halfbloods with a humanoid head and upper body and a serpentine lower body. They were always female.
+
+Personality
+Nightmare speakers were among the cruelest of the yuan-ti, and they delighted in torturing prisoners and slaves, keeping their victims in a state of constant dread and fear.
+
+Abilities
+Like other yuan-ti, nightmare speakers had many odd natural abilities. They were immune to poison and resistant spells and other magical effects. At will, they could turn into a medium-sized snake (or back into their natural form), although any equipment they carried was not also transformed. They could use bring negative energy to bear against opponents twice each day.
+
+Yuan-ti nightmare speakers could innately cast the spells animal friendship at will, though only with snakes, and suggestion thrice each day. They also knew the cantrips chill touch, eldritch blast, mage hand, message, poison spray, and prestidigitation, as well as the spells arms of Hadar, darkness, fear, hex, hold person, hunger of Hadar, and witch bolt; however, they could only cast a total of two spells each day.
+
+Additionally, nightmare speakers could reach into the nightmares of any creature within  of them that they could see, and create an illusory manifestation of that creature's deepest fears. The illusion was immobile and visible only to the targeted creature, which could be damaged and frightened by the illusion if they thought it was real. The nightmare speaker could maintain the illusion for up to 1 minute but had to concentrate to do so.
+
+Combat
+Nightmare speakers wielded scimitars in combat. They could also use their lower body to constrict an enemy, slowly suffocating them. However, they preferred to terrify their opponents rather than kill them.
+
+Society
+Yuan-ti nightmare speakers were "priests" of a sort, who made pacts with Dendar in exchange for power. They fed their patron fears and nightmares from the Material Plane, and received nightmarish visions from her. They interpreted these visions as prophecies and did their best to make the vision come true.
+
+Nightmare speakers would manipulate humanoid communities in order to acquire more victims to torture and terrorize. They were also known to enjoy the company of undead.
+
+Appendix
+Connections
+
+References
+
+---
+
+## Yuan-ti holy guardian
+
+Yuan-ti holy guardians were a specialized subgroup of yuan-ti created to guard temples and other sacred places.
+
+Description
+Holy guardians looked like massive serpents that were almost  when rearing upright, and weighed about . They had dark, patternless scales of mostly uniform hue except for some lightening towards the tail.
+
+Personality
+Yuan-ti holy guardians were dedicated to their purpose in life: protecting the holy places of their god. They were alert and diligent in this duty, and would die if necessary to accomplish it. They would disobey even clerics of Sseth when their order went against temple teachings.
+
+Abilities
+Yuan-ti holy guardians were both venomous and capable of sensing venom and poison nearby them at will. They could psionically change the color of their scales to blend in with their surroundings, and could turn into a viper at will. Once each day, a holy guardian could produce an effect similar to the spell Evard's black tentacles, although the tentacles were also coated in poison.
+
+Holy guardians could innately replicate the effects of the spells animal trance, cause fear, and entangle at will; deeper darkness, dispel magic, neutralize poison, resist energy (on themself only), and suggestion thrice per day each; and baleful polymorph (into a snake only) once per day.
+
+Combat
+Yuan-ti holy guardians could and would attack with their venomous fangs, or constrict enemies with their serpentine bodies. They were also known to use well-made scimitars or composite longbows in battle. Typically, holy guardians sought to use cover, traps, and other tactics as needed to gain advantages while fighting.
+
+Appendix
+Connections
+
+References
+
+FR:Gardien sacré yuan-ti
+
+---
+
+## Yuan-ti mageslayer
+
+Yuan-ti mageslayers were a specialized subgroup of yuan-ti with natural magical abilities.
+
+Description
+Yuan-ti mageslayers were largely serpentine in form, about  tall when rearing upright, but they had a humanoid head and arms. Mageslayers weighed about . They had vertical, slitted pupils like a snake and a forked tongue. Their scales naturally came in a wide range of patterns and colors, although they could psionically change the colors of their scales.
+
+Personality
+Mageslayers were cautious and arrogant creatures that typically fled instead of dying, though they had no such care for their underlings.
+
+Abilities
+Mageslayers, like other yuan-ti, were naturally venomous and had darkvision; they also possessed a keen sense of smell. They could detect poison at will. However, mageslayers were distinguished from other yuan-ti by their many natural spell-like abilities and innate sorcerous powers.
+
+Mageslayers could naturally, psionically turn into a viper of varying size, in which they retained their natural venom but the effect was otherwise similar to that of the polymorph spell. They could also innately produce an effect like that of Evard's black tentacles once per day, although the tentacles they summoned were coated in poison as well.
+
+All mageslayers possessed a number of natural spell-like abilities, being able to replicate the effects of animal trance, cause fear, conceal thoughts (on themself only), and entangle at will; deeper darkness, greater dispel magic, neutralize poison, protection from energy (on themself only), and suggestion thrice per day each; and baleful polymorph (into a snake only), dimensional anchor, dimension door (for themself and their equipment only), and protection from spells each once per day.
+
+As sorcerers, yuan-ti mageslayers typically knew the spells acid splash, arcane mark, dancing lights, detect magic, mage hand, message, open/close, read magic, alarm, burning hands, disguise self, mage armor, unseen servant, bull's strength, cat's grace, invisibility, dispel magic, fireball, and scrying.
+
+Combat
+In combat, yuan-ti mageslayers were known to wield shortswords or composite longbows of superb make. They could also crush opponents in their snake-like coils. They preferred to attack in ambushes and preferred to set up traps and deceptions.
+
+Society
+Yuan-ti mageslayers were strike leaders for the Coiled Cabal, which trained them, even the ones that weren't members. They were ruthless in battle, although they followed orders when told to retrieve items, not damage their surroundings, or capture prisoners alive. Because of their status and importance to yuan-ti operations, they always received the best intelligence regarding laws, politics, and current events of whatever area they were located in.
+
+Whenever they ventured among humans, they did so only in disguise. Mageslayers were often sent to deal with humanoid spellcasters that posed a threat to the yuan-ti or their intrigues.
+
+Mageslayers had a thorough understanding of their magic, including any potential side effects and unorthodox uses of their spells.
+
+When on missions, yuan-ti mageslayers would use their color-changing hide to silently signal simple commands or phrases to their companions.
+
+History
+Yuan-ti mageslayers were bred by some yuan-ti elders who were concerned about the rising magical prowess and vigor among the Scaleless Ones in Faerûn.
+
+Appendix
+Connections
+
+References
+
+FR:Tueur de mages yuan-ti
+
+---
+
+## Yuan ti (person)
+
+Yuan ti was the commanding officer of the Shou soldiers stationed at the Ginger Palace on the Dragon Coast of Faerûn.
+
+Description
+A young man while in service to the empire, Yuan had a rounded face that had not hardened with age.
+
+Personality
+He was a dutiful and obedient soldier, willing to carry out any orders given to him by Shou nobility.
+
+Possessions
+Like his fellow soldiers, Yuan wore scale mail armor and gold-trimmed helmet that resembled the shell of a tortoise, and wielded a long halberd in battle.
+
+Activities
+Yuan was tasked with defending Prince Kao Chou Tang, son of Lady Feng and Emperor Kao Tsao Shou Tang.
+
+Relationships
+The young officer received his cushy position at the Ginger Palace from direction of his father, General Fui D'hang.
+
+History
+In the, Yuan accompanied his father and Prince Tang on an expedition into the nameless swamp near the Ginger Palace, in order to slay the dracolich Hethcypressarvil. During the journey along the waters of the swamp, Tang ordered the execution of General Fui on grounds of insubordination, which was inadvertently brought on by the consumption of lasal leaves. Not recognizing Yuan at first, Tang directed the young officer to slay his own father. When Yuan hesitated, Fui himself ordered his son to follow the prince's commands, as they were considered wholly unquestionable. Yuan carried out the task and continued to follow the prince for the rest of the mission.
+
+The rest of the expedition just as disastrous, as all of the Shou soldiers were slain and and their corpses scattered across the swamp. Yuan's exact fate was unknown.
+
+Appendix
+Appearances
+Novels
+ The Veiled Dragon
+
+References
+
+---
+
+## Yu Po
+
+Yu Po was the personal scribe of Imperial Minister Hsieh Han Liu of the Shou Lung embassy in the Dragon Coast region of Faerûn during the mid–14 century DR.
+
+Personality
+He was a skeptical but faithful imperial servant, who was wholly dedicated to his role serving Minister Hsieh. While he was prone to occasional missteps, the minister had faith in Yu Po's capabilities.
+
+Activities
+While Yu Po spoke for Hsieh and acted as his public translator, the elder minister was fully capable of speaking and understanding the Common language of Faerûn. He also gave direct orders to the minister's guards, as per his wishes.
+
+Relationships
+Yu Po was extremely loyal to and defensive of Minister Hsieh, ready to raise his weapon to his master's defense at a moment's notice.
+
+History
+In the, Yu Po was present with the minister when his caravan was intercepted by Vaerana Hawklyn and the Maces of Elversult and then escorted to the Ginger Palace while they negotiated the release of the captured Harper agent Ruha, and remained there until they made an ally of the Bedine sorceress.
+
+Shortly after their initial arrival, Yu Po attended Minister Hsieh as he began talks with Vaerana Hawklyn about how to best deal with the threat of the Cult of the Dragon, and their undead master Hethcypressarvil. He accompanied the minister towards Elversult, to the point just prior to when Hsieh helped lead a final stand against the dragon and its cult.
+
+Appendix
+Appearances
+Novels
+ The Veiled Dragon
+
+References
+
+---
+
+## Yusef al-Wadi
+
+Sultan Yusef bin Ahmad al-Wadi, also called Yusef the Just, was the ruler of Gana in the Pearl Cities region of west Zakhara in 1367 DR.
+
+Personality
+Yusef's wisdom and knowledge with regard to the law earned him his nickname "Yusef the Just."
+
+Activities
+Yusef discouraged any one individual from holding power for too long, resulting in a relatively steady influx of talented individuals passing through the court of Gana.
+
+Relationships
+The sultan never married but did keep an active harim. He had several children but did not formally recognized any of them which seemed disrespectful to some Ganites.
+
+Rumors & Legends
+The sultan was rumored to have once proposed marriage to his Chief Vizier Al'ia bint Hazir.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Yulis (Daggerford)
+
+Yulis was one of the defenders of Daggerford who perished in the line of duty long before 1372 DR.
+
+History
+After Yulis's death, he was buried in the Daggerford Graveyard in the Eastern Farmlands outside of the city's walls. His grave was located at the south-eastern edge of the graveyard. The headstone was in good shape and still had legible writings as of 1372 DR.
+
+Appendix
+Appearances
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Yujist Glemp
+
+Yujist Glemp was the "almost famous" sculptor from the hamlet of Gillian's Hill, active sometime before 1372 DR.
+
+History
+Yujist Glemp once created and gifted a statue to the good folk of Gillian's Hill that later came to be known as Glemp in Granite. The sculpture was proudly displayed on the streets of the town. Many locals felt that the generous gesture rang hollow as the statue bore resemblance to the sculptor's own face. Eventually, to no one's surprise, an unknown person "improved" the sculpture one night night with a hammer and a chisel. Angered, Glemp stormed around the hamlet, trying to find the "ungrateful peasant" who defaced his masterwork. The sculptor decided to re-bestow the sculpture on the poor inhabitants of Gillian's Hill. The new version was to be a golden reproduction of the sculptor's face, raised on top of a high obelisk, "out of each of their barbarous chisels."
+
+Soon after the ruination of Yujist Glemp's first gift, he mysteriously disappeared before the sculptor had a chance to start working on the new monument to himself. The defaced sculpture was moved away from the decent folks of Gillian's Hill eyesight and into the back of Torleth's Treasures, the local antiques and "junk" shop. Glemp in Granite, as it came to be known, was still in Torleth Mindulspeer's store as of 1372 DR.
+
+The truth of Glemp's disseverance was somewhat mundane. To finance his golden cast statue, he took a load from notorious shark - Vladmyr of Daggerford. Using that coin, the sculptor purchased barrels worth of what he thought was gold. In reality, it was useless pyrite. Glemp wanted to use his sculpture as a collateral, but with only pyrite on hand, he was in danger. Before Vladmyr could send his collectors, Glemp disappeared, leaving behind his "Barrels of Bamboozle" for the angry loanshark.
+
+Appendix
+Appearances
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Yusef
+
+Yusef was a faris and the eldest son of Al'ia bint Hazir and Sultan Yusef al-Wadi of Gana in the Pearl Cities region of west Zakhara.
+
+Personality
+Yusef was headstrong and typically saw things in black in white.
+
+Description
+He had a mole under his right eye in the shape of a butterfly.
+
+History
+As with all of his siblings, Yusef's parentage was kept secret from the population of Gana. Yusef was raised in a monastery high in Al-Yabki Mountains.
+
+Appendix
+References
+
+---
+
+## Yuthrim
+
+Yuthrim was a Rashemaar berserker inhabiting Immilmar in Rashemen in the .
+
+Activities
+Yuthrim was the lodge master of the Goblin lodge based out of the Goblin Berserker Lodge in Immilmar. Yuthrim and his fellow berserkers were prone to outbursts of fighting and raucous celebration, often clashing with the nearby larger Owlbear lodge. Yuthrim once suffered a head injury from being pounded against a wooden pole by a drunk Owlbear berserker.
+
+Appendix
+References
+
+---
+
+## Yushai
+
+Yushai was the animal companion of the priest and druid of Ubtao, Umoja of Chult in the late-14 century DR.
+
+Description
+Yushai was a green-hued deinonychus with a bright green underside. Despite being a ferocious predator, Yushai behaved more akin to a loyal dog, regularly looking up at his master with puppy-like eyes, looking for affection and approval.
+
+History
+In the, Yushai accompanied its master Umoja to the jungles of Samarach and into the city of Samargol. His deity guided the druid to combat the growing threat of the yuan-ti deity. The duo stayed at the Openpalm Bazar in Samargol and offered healing to a group of adventurers who were survivors of the Vigilant. When Umoja accompanied the group on their adventures into the jungles, and later back to the Sword Coast, Umoja instructed his dinosaur companion to remain in the Samarachan jungles until he returned.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Storm of Zehir
+References
+
+---
+
+## Yurt of Snow Spirits
+
+A Yurt of Snow Spirits was a unique part of a typical Tuigan Khan's camp.
+
+Description
+This yurt was surrounded by a wicked fence decorated with iron charms. Charms also decorated the yurt itself which was blackened with charcoal. A small offering ground sat next to the yurt as well. A yurt of snow spirits always remained empty, designated as a place for the evil snow spirits so they would leave the rest of the camp alone.
+
+History
+These were sacred yurts dedicated to the snow spirits. Unlike all of the other yurts which always had their openings facing southeast, this yurt's opening faced northwest.
+
+Appendix
+References
+
+---
+
+## Yugo Reft
+
+Yugo Reft was a the leader of the Dockhands Guild of Crimmor during the mid-to-late 14 century DR.
+
+Appendix
+
+References
+
+---
+
+## Yu Fu Tieh
+
+Yu Fu Tieh was a samurai in the spelljammer spaceport city of Chunming in Shou Lung in the mid–14 century DR.
+
+History
+A one-time prized student of Master Wang Ho of the Wang Ho School in Cham Fau, Yu Fu disputed his plans to take kensai skills to space via spelljamming, fearing it would dishonor the traditions of Shou Lung. He ultimately maimed Wang Ho in an apparent accident during routine training.
+
+Relationships
+By, Yu Fu was betrothed to An Ching Wang, the daughter of Wang Ho, now living in Chunming. But he was deeply jealous and would duel to the death anyone who threatened their relationship.An Ching's lover is Chien Jang Liang in Kara-Tur: The Eastern Realms Volume I and Yu Fu Tieh in Realmspace. Both of them injured her father in a training accident and both left, with An Ching following. It seems likely that Chien was renamed; indeed, he appears on the same page as Yu Fu Fang and Hu Tieh. Regardless, they have different motives, classes, and personality details, so this wiki assumes they are separate characters for clarity, even if it means An Ching clearly has a type.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Yulhymbra Tesper
+
+Yulhymbra Tesper was a wizard and noblewoman of the Waterdhavian noble house Tesper.
+
+Activities
+She lived within Tespergates located at the corner of Mendever Street and Delzorin Street in the central section of Waterdeep's Sea Ward.
+
+History
+Yulhymbra, along with her sister Silpara, was ostracized from the Tesper family for her pursuit of magic which was shunned by her family at the time. They were both later slain by assassins sent by a younger brother who believed she would use her arcane skills to claim power within the family. Her ghost remained within Tespergates, quietly haunting the family villa.
+
+Appendix
+References
+
+---
+
+## Yusev
+
+Yusev the Acolyte was a young member of the Church of Kelemvor from the temple in Mulsantir, Rashemen, in the late 14 century DR.
+
+Description
+Yusev had strong features and wore heavy and oversized cowled Kelemvorite robes. His face was often creased by frowns of concentration.
+
+History
+In the, Yusev, still a youth, was sent by his family to join Kelemvor's temple in Mulsantir. Despite still being a very fresh member of the faith, Yusev found the church to be disappointing. He was under the impression that the Church of Kelemvor permitted the study of necromancy like Kelemvor's divine predecessors did, something Yusev had a natural knack for, but after arrival, he realized the temple saw that school of magic to be an abomination. Yusev was tempted to learn more about the art of necromancy, but the temple's library was lacking. He enrolled aid of individuals outside of the Kelemvorite faith in order to procure tomes of necromantic lore. One such vault was hidden within the Death God's Temple, an old temple dedicated to Myrkul, located in Mulsantir's Shadowfell reflection.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Mask of the Betrayer
+References
+
+---
+
+## Yula Dargeria
+
+Yula Dargeria was the head guard of the Revel's End prison for a time during the late 15 century DR.
+
+Personality
+Yula was known for being a pragmatic and straightforward individual. They always abided by all the rules of Revel's End.
+
+Appendix
+Appearances
+Adventures
+Keys from the Golden Vault: "Prisoner 13"
+References
+
+---
+
+## Yuldar Ilistiin
+
+Yuldar Ilistiin was a young druid of Silvanus inhabiting Waterdeep, the City of Splendors, during the mid-to-late 14 century DR.
+
+Description
+He grew a beard and wore the robes of a druid.
+
+Activities
+Originally from Tethyr where he was forced to flee for his life because of his blood relation to Lord Ilistiin, Yuldar was newly arrived in Waterdeep as of the . He initially dressed as a druid to disguise himself, but Yuldar discovered a childhood love of nature while doing so that lead him to the shrine of Silvanus where he sought guidance. Yuldar was advised to explore the north with a band of adventurers in order to hear Silvanus' calling for him.
+
+By the, he had returned to Tethyr after being convinced by then-Prince Haedrak Rhindaun III to support his claim for the throne.
+
+Appendix
+References
+
+---
+
+## Yuan-tillithid
+
+Yuan-tillithids were hybrid creatures that resulted from the cross-breeding of yuan-ti and mind flayers.
+
+Description
+A recognizable trait of yuan-tillithids was the presence of viper heads on their scaled tentacles.
+
+History
+In the mid‒14 century DR, the city of Ss'zuraass'nee was known for being home to a considerable population of yuan-tillithids, as a consequence of its long-lasting alliance with the illithids of Llacerellyn.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Yuth
+
+Lady Yuth was a merchant of magic scrolls, who did business in the City of Coin, Athkatla in Amn in the 14 century DR.
+
+History
+By the, Lady Yuth could be found selling her curios and enchanted wares at the Adventurer Mart in Athkatla's grand Waukeen's Promenade. Lady Yuth talked to customers whom she noticed searching for very specific merchandise, dealing in her schools from behind a bookshelf, away from prying eyes. She held little respect for the Cowled Wizards and thought them to be corrupt fools, like every other person in the position of power in Athkatla.
+Appendix
+Appearances
+Video Games
+Baldur's Gate II: Shadows of Amn
+
+References
+
+External links
+
+---
+
+## Yuan-ti scale mail
+
+Yuan-ti scale mail was a type of enchanted medium armor made by the yuan-ti, the serpentfolk of Chult.
+
+Description
+These sets of robust magic armor were forged together using yuan-ti shed skin, giving it green reptilian hue.
+
+Powers
+Made out of exotic material, yuan-ti scale mail was a protective type of medium armor that acted like a set of leathers: it allowed the wearer full mobility, making it more useful for dexterous individuals, rather than physically strong warriors. The armor's magic also boosted the wearer's initiative and creation in battle.
+
+Notable Owners
+Talli, a Harper quartermaster, who followed a fellow Harper hero Jaheira to the Last Light Inn in the Shadow-cursed Lands in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Yurgir
+
+Yurgir was an orthon mercenary who fought in the Blood War alongside other devils of the Nine Hells, against the demons of the Abyss. He unfortunately became trapped on the world of Toril on the Prime Material plane for much of the 15 century of the Faerûnian calendar.
+
+Description
+Like other orthons, Yurgir was mighty in stature and presence. He had red skin that was hardened over with black scales along his forearms. He had three pairs of twisted horns that extended from the crown and rear of his head.
+
+Yurgir wore plated leg armor and a single shoulder guard that appeared to be crafted from infernal iron, along with a cap and loin cloth that were adorned with engraved, humanoid skulls.
+
+Personality
+Yurgir was supremely confident in his abilities as a warrior and mercenary. He appeared to have attained a significant reputation among the devils of the Nine Hells. The orthon also admired other capable warriors and respected those who played fair in a competitive way. Despite this, Yurgir remained exceptionally frustrated with his circumstances following a bargain he made that went terribly wrong, and he would take revenge on those who wronged him badly.
+
+Abilities
+
+The consumate warrior of the Nine Hells, Yurgir possessed numerous abilities that gave him the edge in mortal combat. He could turn himself invisible at will and strike out at his foes with an infernal dagger coated with potent poison.
+
+Yurgir utilized a number of grenades and other projectiles that released blasts of concussive or pure explosive energy.
+
+He was resistant to all forms of physical harm, was protected from both fire and extreme cold, and could not be easily poisoned himself.
+
+Possessions
+Yurgir wielded powerful weapons of war that originated from the Lower Planes, including a hellfire hand crossbow and orthonic handbombs.
+
+He accumulated a small hoard of recovered items, most of which he passed on to one of his merrogon followers. He also stashed away an umbral gem near his bed of skulls.
+
+Activities
+
+Like other orthons, Yurgir was a soldier and mercenary through and through. He did not question the orders he received, but merely followed them out and received payment.
+
+Yurgir's unwanted sojourn on Toril was the result of the infernal contract he with the cambion named Raphael. Due to the fiend's manipulations, Yurgir was unable to fulfill his end of the bargain and remained unable to leave The Prime.
+
+Relationships
+Yurgir led a contingent of merregons, who followed his every command, even if it were to kill each of their own kind. He also had a pet displacer beast named Nessa.
+
+Yurgir had an unpleasant relationship with the cambion Raphael. They did not see eye to eye even before the contract. Yurgir expressed strong hatred towards Rapahel using their contract to trap him for a century and the contract song instilled in his head.
+
+History
+
+At some point in his life, Yurgir once killed a warlord from the continent of Kara-Tur. The mighty orthon then proceeded to his mistresses and his children and crafted a delightful codpiece from the man's skull.
+
+On another occasion, he met a dusk hag who envisioned some future reality where Yurgir spared her life.
+
+Some time circa the late 14 century DR, Yurgir signed a contract with Raphael to kill all the Dark Justiciars of Shar within her Gauntlet. Unfortunately, the justiciar named Lyrthindor utilized one of Raphael's own writings to transform himself into an entire colony of rats. This act of depraved subterfuge prevented Yurgir from completing his charge.
+
+Unable to complete his contract, Yurgir remained trapped within Shar's Gauntlet, his only other options were to die on the Prime or forfeit his freedom and become Raphael's eternal servant. It appeared that Raphael purposefully allowed Lyrthindor to learn the means by which to escape Yurgir's wrath.
+
+While Yurgir did not remember the exact specifics, it appears Raphael had intended to pursue to the aasimar Aylin, who was trapped in an area of the Shadowfell accessible by Shar's Gauntlet.
+
+Appendix
+Appearances
+
+Gallery
+
+External links
+
+References
+
+---
+
+## Yu Kai
+
+Yu Kai was a famous mercenary and "kraken hunter" operating in Westgate in the late 15 century DR.
+
+Activities
+Yu Kai ran the boastful and colorfully named Yu Kai's Kraken Exterminators, a mercenary agency that promised to protect merchant ships out of Westgate's harbor from dangerous monsters of the Abolethic Sovereignty.
+
+Yu Kai was rumored to take an interest in the movements of the city of Xxiphu.
+
+Relationships
+Yu Kai worked and took meals with Sashara Keenspear, a fellow famous kraken hunter. The pair were known to inspect ships in the harbor and to eat together in the private rooms of the Shell Queen.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Yungric
+
+Yungric was a alchemist for hire from the city of Neverwinter, active in the late 15 century DR.
+
+History
+By the late 15 century DR, Yungric was known to be a stereotype of an old, mad, cackling alchemist. It was surprising that with all the mad concoctions, the man's eyebrows remained unsinged. Despite eccentricities, Yungric's skills as a miracle worker made his a popular alchemist for hire in Neverwinter.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Yul Summerstar
+
+Yul Summerstar was a moon elven leatherworker and furrier for hire from the city of Neverwinter, active in the late 15 century DR.
+
+History
+During her armorer for hire days in the late 15 century DR, Yul Summerstar's work was guided by one simple rule: the resulting clothing or armor should always be at least as beautiful as the animal who died for its fur and hide.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Yusup Tunyaz
+
+Yusup Tunyaz was a human armorer for hire from the city of Neverwinter, active in the late 15 century DR.
+
+History
+Yusup Tunyaz became a virtuoso traveling armorer with a notably unimpressive technique by the late 15 century DR. Eventually, he made his way into the city of Neverwinter in hopes to open his own shop, until then, Yusup sold his services to adventurers and other professionals of Neverwinter. His stuffy personality did not help with the matter much.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Yulia Strauss
+
+Yulia Strauss was a human armorer for hire from the city of Neverwinter, active in the late 15 century DR.
+
+History
+Yulia was an over-confident virtuoso craftswoman and armorer with a serious demeanor and strong work ethic. Even though she was confident to a fault, her skills and and demeanor ensured her continuous employment. Yulia made a living by selling her armorer's skills to those who could afford them, including adventurers of Neverwinter in the late 15 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Yuan-ti graft
+
+Yuan-ti grafts were serpentine body parts attached ("grafted") to the body of another corporeal creature or person.
+
+Description
+These grafts were most often applied by yuan-ti to their humanoid cultists and servants in order to enhance their usefulness. They were not magical, and creatures who received yuan-ti grafts were considered a form of serpentfolk.
+
+Some yuan-ti would also seek grafts for themselves, viewing them as ways to immediately better themselves and improve their social standing among their peers. Some yuan-ti considered the added power that came with grafting to be a way of honoring their god Sseth, and thus disdained those "lazy" yuan-ti who forewent such grafts. In some cases, Sseth was said to bestow grafts directly onto his followers in exchange for a blood sacrifice.
+
+Yuan-ti grafts could not be reattached if removed from the recipient creature.
+
+Creation
+The knowledge of how to attach these grafts was known only to the yuan-ti themselves, and some experimented with grafting flesh onto their captives. The process required familiarity with healing as well as specialized knowledge of the magic for grafting flesh to another creature. Yuan-ti anathema could create grafts more quickly than others.
+
+Users
+Among yuan-ti seeking to raise their profiles, yuan-ti purebloods were the most likely to pursue grafts, although they preferred augmentations that could be concealed so as to maintain their outwardly human disguises. Yuan-ti anathemas were the most common bestowers of yuan-ti grafting given that the magic came easily to them, while other yuan-ti who worked closely with humanoid agents were the next most likely to learn how to graft. Grafting techniques were practiced by senior members of House Extaminos, and many members were known to augment themselves with grafted "serpent arms" which they kept coiled around themselves beneath their clothing, thus giving an impression of great girth.
+
+History
+In the mid-to-late 14 century DR, a yuan-ti anathema known as Phelriss grafted arms onto the dark naga progeny of Calliope, but allowed rumors to spread that they had hatched with these arms.
+
+Notable Yuan-Ti Grafts
+
+Added tail
+ A serpentine tail was appended to the recipient's tailbone, enhancing its balance and its swimming ability.
+Poison fangs
+ Long and sharp fangs were grafted into the recipient's mouth that could be used to deliver a venomous bite.
+Replacement tail
+ A serpentine tail completely replaced the recipient's lower limbs, giving them snake-like climbing and swimming abilities as well as the ability to constrict an enemy.
+Scaly skin
+ The recipient received a graft of scaly yuan-ti skin, which served as permanent armor.
+Serpent arm
+ The recipient received a long, flexible limb ending in the head of a venomous snake.
+
+Appendix
+See Also
+ Serpentflesh golem
+
+References
+
+---
+
+## Yulius
+
+Yulius was a domesticated displacer beast that remained in Myth Drannor during the late 14 century DR.
+
+History
+The beast may have originally dwelt in Myth Drannor before its destruction as the companion of a resident, but one way or another (such as the rampant rifts through time in the temple) ultimately ended up in the ruins of the Throne of Thought in the 14 century DR.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Yuan-ti cultist
+
+A yuan-ti cultist was a yuan-ti that devoted itself to a life of religious worship of Merrshaulk, the chief god of the yuan-ti pantheon, learning how to harness the power of his church's rituals and enhance the race's innate psionic abilities.
+
+Activities
+These cultists rarely left their temple warrens once initiated, being bound to them. Their daily lives were filled with hours of ritual and repetitive learning, while their nights of sleep were filled with horrid visions. On rare occasions they would be set out on quests with a large entourage of yuan-ti purebloods. Such quests were generally for the purpose of establishing a new shrine to Merrshaulk.
+
+Culture
+Cultists were divided into five standard ranks and one rare sixth. There were the Outer Circle, the Third Circle, the Second Circle, the First Circle, and the Inner Circle. The coveted sixth rank, the Voice of Merrshaulk, entailed transcending one's mortal nature and becoming an immortal emissary of the yuan-ti's chief god.
+
+For any halfblood cultists, ascending to the third rank required undergoing a painful, night-long ritual that transformed them into a human-headed yuan-ti abomination. For those who were serpent-headed abominations prior to reaching the third rank, they would undergo a ceremony to change that. In both cases, this involved the participation of no less than six abominations of the fifth rank, members of the Inner Circle.
+
+The role of cultist was particularly common among yuan-ti holy guardians.
+
+Prerequisites
+The position of cultist was taken up by abominations and halfbloods. In order to be initiated an individual had to have reached adulthood and passed a coming-of-age ritual, as well as possess the ability to cast third-degree divine spells, and some knowledge of alchemy and religion.
+
+Abilities
+As a cultist ascended through the ranks they gained unique powers, access to sacred psionic rituals, and the many secret alchemical brews of the yuan-ti race.In mechanical terms the psionic aspects of this class were given the abbreviated labels (Sp) and (Su), meaning "spell-like ability" and "supernatural ability" respectively. As the wiki values lore over mechanics, the fact that yuan-ti have long been associated with psionics gives the class weight as having its rituals treated as such. They also typically knew the art of scrying. Those of the Outer Circle learned how to how make the special mixture for making broodguards and tainted ones. Cultists in the Second Circle cultists were taught the secret alchemical ceremony for transforming a tainted one into a yuan-ti pureblood. Cultists in the First Circle were taught the secret ceremony for transforming a pureblood into a halfblood. And cultists in the Inner Circle were taught the closely guarded, day-long ceremony for transforming a half-blood into an abomination.
+
+Novice cultists learned how to spray their yuan-ti poison out at attackers, gained access to spells of the Suffering domain, and an ability similar to the spell sticks to snakes.
+
+Upon ascending to the Third Circle, a cultist underwent ritual tattooing. Depending upon what limbs the yuan-ti had, this was done on either their arms, legs, tail, or snake appendages. Three times per day they could launch these tattoos from their body as real venomous snakes. The snakes would then fly back to the cultist and had to be swallowed in order to make them reappear as tattoos on the body. The process of swallowing these conjured snakes posed no harm to the cultist.
+
+Cultists in the Third Circle also became more in tuned with the psionic powers innate to yuan-ti and learned to focus their mental power towards a special ritual. Called the Chant of Pain, this sacrament of dancing and chanting caused mental damage to one living creature within . Being a mental effect, this had no affect on plants and oozes.
+
+Cultists in the Second Circle grew even stronger in their innate psionic abilities and learned how to channel their mental power into an even more potent psionic ritual, the Chant of Agony. When one rose to the First Circle their yuan-ti poison became more virulent, they gained the ability to cast unhallow once per week. As they progressed onward the cultist would gain the supernatural power to command all manner of snakes and reptiles, as though they had cast dominate animal, and they learn a more potent version of the Chant of Agony that could potentially outright kill a living creature, making them a sacrifice to Merrshaulk. Those of the highest mortal ranking, the Inner Circle, found their venom to be even deadlier and gained the power to cast unholy aura once per day.
+
+Should a cultist be deemed worthy of rising above the highest mortal rank in Merrshaulk's church, they would transcend their mortal essence and become a native outsider, an emissary of the chief yuan-ti god. A Voice of Merrshaulk gained a degree of spell resistance, a supernatural ability to telepathically communicate with other creatures from a distance of, and a mind-affecting ability to command any yuan-ti, similar in affect to using the dominate monster spell.The original text uses the creature type "outsider", but the later introduced "native outsider" more accurately fits, since the character is stated to still be resurrectable.
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Yusam
+
+Yusam was a local druid of Neverwinter, affiliated with the Adventurer's Academy in the late 14 century DR.
+
+History
+In the, Yusam paid monthly visits to the Adventurer's Academy's menagerie to make sure Ferdinand's beasts, including a dire spider, an ettercap, a stag beetle, a hook horror, and an umber hulk, were well-treated and in good health.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Yulthaari Shipyards
+
+The Yulthaari Shipyards was a ship-construction business in Almraiven in Calimshan in the late 14 century DR.
+
+It was owned and operated by elves, but in truth was directly controlled by the leadership of the Rundeen, a mercantile organization, known as the Yrshelem, though there were no outward signs of this. The only clue was that it was named for the yulthaar, an exotic platinum currency used in ancient Myth Drannor, indicating it had once been an independent business that had been taken over and renamed.
+
+Appendix
+See Also
+ Seven Gulders Caravan Coster
+ Gold Lion Wheelwrights
+
+References
+
+---
+
+## Yulthaar
+
+A yulthaar  was a form of currency and promissory note used by elves in ancient Myth Drannor.
+
+Description
+It took the form of a tube of worked platinum  in length and little more than the width of a finger. The outer surface was smooth and unadorned, but the inner surface was covered in a series of dots, ridges, and tactile features that coded the names of buyer and seller, the product being purchased, and the value and form of payment offered. The raw value of the platinum was worth 3 platinum piece.
+
+Usage
+To read the value, one inserted their fingertip inside the yulthaar to feel the pattern. Elves, with their acute sense of touch, could read this with ease.
+
+Yulthaari were not traded as coinage. Instead, they were given as a token of payment owed or promised at a later date. They were typically exchanged when making high-value purchases such as cargoes of goods or whole businesses. Giving a yulthaar represented a legally binding agreement between buyer and seller. They were also used for bidding in silent auctions or between nobles: elves viewed open competition of wealth as vulgar, while the unspoken communication of the yulthaar allowed losing bidders to avoid embarrassment. Despite this, it was not uncommon for younger elven noble gossip-mongers to speculate on the value and extol or besmirch the fellow noble.
+
+History
+Yulthaari were used in Myth Drannor before the city's fall in the .
+
+Ihe late 14 century DR, the name survived in several places, such as the Yulthaari Shipyards, an elf-owned and -operated business in Almraiven, Calimshan, and Yulthaari Hunter, a Sembian ship.
+
+Appendix
+References
+
+---
+
+## Yulthaari Hunter
+
+Yulthaari Hunter was a ship of Sembian ownership on the Sea of Fallen Stars. Like other Sembian mercantile and naval vessels, it was named for a coin, in this case the platinum yulthaar of Myth Drannor.
+
+Appendix
+Notes
+This ship is given as an example. As such, nothing more is known, but it is included here for completeness.
+
+See Also
+ Three Falcons Volant
+ Bicentan Sail
+
+References
+
+---
+
+## Yusuf al Memnon
+
+Yusuf al Memnon was a human fighter and a founder and leader of the Clenched Fist, a Rundeen-affiliated mercenary and adventuring company based in Schamedar in Calimshan in the mid-to-late 14 century DR.
+
+Description
+Yusuf was described as bear-like, with broad build and hair to match—his bushy beard almost covered his face and his eyebrows met in a "monobrow".
+
+History
+Hailing from Memnon, Yusuf joined the Clenched Fist some time before 1356 DR.
+
+Appendix
+References
 
 ---
 

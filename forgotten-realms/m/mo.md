@@ -4,6 +4,191 @@ _Source: forgottenrealms.fandom.com, CC-BY-SA 3.0, dump 2025-10-22._
 
 ---
 
+## Moon elf
+
+Moon elves, also known as Teu-tel-quessir in the elven language or as silver elves, were the most common of all the elven subraces. More tolerant of humans than other elves, moon elves were the ancestors of most half-elves. They were considered high elves sometimes also called eladrin. They were also called gray elves, although that was a derogatory term. To be called a "gray" by another elf was a huge insult.
+
+Description
+Like all elves, the Teu-tel-quessir were tall, close to humans in height, but more slender and beautiful. Moon elf skin was pale, often with an icy blue hue. Moon elf hair was commonly black, blue, or silvery white, although human-like colors were heard of as well, though very rare. Moon elf eyes, like those of other elves, were very commonly green, although some were blue as well. All exhibited a characteristic best described as golden flecks speckled through the iris. Male moon elves were typically taller than females.
+
+Personality
+Of all the elven races, moon elves were the most impulsive, with a strong distaste for complacency or isolation. Moon elves longed to be on the road, traveling and exploring the untamed wilderness that lay between cities and nations. This extroverted quality was part of the reason why moon elves got along uncommonly well with other races and had come to the conclusion that the N-Tel-Quess were not necessarily as foolhardy or unworthy as their brethren might think. Moon elves, rather than feeling that interaction outside of their race diminished or weakened them, believed that interacting with other races, humans in particular, was the best way to spread the values of the Tel-quessir races, thereby strengthening their culture.
+
+Culture
+
+Moon elven society was often loosely organized and few moon elves stayed in one place for more than a season or two, preferring a nomadic lifestyle. Moon elves were generally comfortable living amongst other elves, particularly sun elves, as well as gnomes, humans, or halflings. Most moon elves organized themselves into groups of a dozen extended families or so, each ruled democratically, although often with de facto leaders whose say held more weight than anyone else's, an individual most often respected for either their age or their martial skill. Wherever they lived, moon elves were unassuming, with homes that were humble, if comfortable.
+
+Although often light-hearted and at ease, moon elves could leap to action if danger came around. Like other elves, moon elves made sure that nearly all of their members were trained to wield a weapon and many also had some small skill in magic. However, even in dark times, moon elves tended to find something to brighten them up, a quality that could be valuable for maintaining morale.
+
+It was not uncommon for a moon elf to take on the life of an adventurer. After all, moon elves were innately a race driven by wanderlust and the desire to learn or do good. Altogether, moon elves were individualistic and most believed sincerely that each person could make a difference in the world, for better or worse. Because moon elves had an innate sense of altruism and good will to others, most moon elven adventurers were heroes, rather than villains, though both existed.
+
+Those who did turn to an adventurer's lifestyle commonly embraced the musical path of a bard; the martial lifestyle of a fighter, ranger, or rogue; or studied to become wizards. Some might also become, later in life, arcane archers or bladesingers and during the organization's existence, many also felt a calling to the way of the Harpers.
+
+Art & Leisure
+Generally, moon elves took things with little gravity, instead taking joy in the simple things of life, a trend that their music and art reflected, which were more often joyous than solemn. Moon elves were themselves very fond of art and had both a strong bardic tradition and a history of painting and sculpting. For entertainment, moon elves preferred to gamble, taking little risks as part of the fun. Similarly, drinking and reveling was an important part of moon elven culture.
+
+Like most elves, moon elves preferred clothing of simple design but exquisite making, using the finest textiles and most beautiful weaving designs available but typically making simple cuts and measurements, finding showy flourishes unnecessary. Moon elven clothing was often flashy in other ways, however, with bright colors popular amongst moon elves who felt comfortably at rest and away from danger. Most moon elves wore their hair in braids or ponytails, decorated with wires or beads. Tattoos were not unheard of amongst moon elves and were frequently worn, though it was not an ingrained part of their culture.
+
+Moon elves were fond of keeping pets, in particular, such animals as cats, dogs, falcons, or other hunting partners. Many also formed close bonds with self-aware creatures, such as blink dogs, pegasi, unicorns, or dragonnes. However, most moon elves did not keep mounts, feeling it important to walk on their own two feet.
+
+ Magic and religion
+
+Moon elves, like other elves, loved the learning and use of magic, in whatever form it took. Both traditions of arcane and divine magic were highly encouraged and those who partook in either were pushed to expand the knowledge of their race. This pressure did not bother most moon elves, who were outright delighted should they ever become masters of the Art.
+
+Like other Tel-quessir, moon elves generally worshiped the Seldarine, that is, the elven pantheon, and most chose a particular deity as their patron. Of their number, the goddess Angharradh was most popular, whom moon elves identified as a composite figure made of Sehanine Moonbow, Aerdrie Faenya, and Hanali Celanil. Unlike other elves, who typically thought of Angharradh as little more than the god Corellon's consort, moon elves saw Angharradh as the Protector's equal. Regardless of deity, moon elven religious ceremonies were, like so many other things in moon elf culture, loud and joyful and even the most pious of the subrace couldn't deny that the festivals were often just another excuse to revel.
+
+Relations
+Moon elves were uncommonly tolerant of non-elves, spending as much time within other races' lands as they did within their own. While sun elves might wrinkle their nose at other cultures as inferior, moon elves typically felt that the diversity of Faerûn's landscape was wondrously enchanting. To a moon elf, the insights that non-elves often had was a strength that others of their race too often ignored. Rather than shunning outside ideas, most moon elves embraced them and made them a part of their own culture, which often caused other elves to look down on the subrace.
+
+However, while moon elves commonly demonstrated a willingness to accept other cultures' traditions and ideas, they generally had little tolerance for cruelty, making them natural enemies of most orcs and gnolls. Likewise, most moon elves shared their kin's open hostility towards drow.
+
+History
+
+Moon elves were not the first of the elves to immigrate to Abeir-Toril, but they were the largest in number. Moon elves were eager to travel the new world their brethren had discovered, maintaining their characteristic wanderlust even in these early years, and it was some time before they settled in Faerûn as other elves had already done, eventually coming to form the nation of Orishaar, though many settled in Othreier and Keltormir. This nation had an ill fate, however, being one of the lands destroyed in the Crown Wars by the Illythiiri, circa .
+
+After the destruction of Orishaar, many moon elves helped to found many more of the newer Tel-quessir nations. Among the more successful of these was the city of Evereska, constructed around  and Cormanthyr, which was founded in . Of these, only Evereska survived to 14 century DR, with Cormanthyr collapsing in the, although Myth Drannor, Cormanthyr's greatest city, was rebuilt and resettled in the .
+
+However, while few moon elven realms survived into the modern age, the moon elves had, on the whole, done well for themselves. Compared to the sun elves, relatively few moon elves left Faerûn for the Retreat. Instead, the moon elves were largely content to wander across the continent, forming small, short-lived (by an elf's reckoning) communities, and then moving on.
+
+ Homelands
+Some nations that could properly be considered moon elven still existed in the 14 century DR—a sign that moon elves had, on the whole, fared relatively well compared to their brethren. Though the moon elves had not settled in vast numbers, this was less out of inability as lack of need, as the small bands that made up most moon elves had been fairly successful at their lifestyle for centuries. By and large, moon elves ignored the Retreat carried out by their sun elf kin, preferring to either live amongst other races or wander the wilderness. The major exception to this was the isolated city of Evereska, mainly populated by moon elves. Moon elves could be found most commonly in the Dalelands, northwest Faerûn, or the Western Heartlands. After the Spellplague of, many also took refuge in the cities of Baldur's Gate and Waterdeep.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+de:Mondelfen
+
+---
+
+## Moonstars
+
+The Moonstars, also known as the Tel'Teukiira, the Silverstars, or the Twelvestars, were a highly secretive group of individuals formed by Khelben "Blackstaff" Arunsun in the late 14 century DR with the aim of unifying the humans and other races (especially elves) against the forces of evil.
+
+Outlook
+The Moonstars sought to preserve life and knowledge. They had a similar outlook to the Harpers, but dedicated themselves to Mystra, Oghma, and Sehanine Moonbow. Their leader, Khelben, was very much in tune with the beliefs and motivations of the Harpers, but preferred to keep tighter control of the agents under his control. He felt that he sacrificed much for the Harpers during his time in their service and was unfairly treated by the Twilight Trio.
+
+Prophecy
+A passage from Amagal's Tome (an ancient elven text from Cormanthor) declared:
+
+It was believed that only Khelben understood the relevance of these words.
+
+Activities
+Based in Waterdeep, the Moonstars followed much the same methods as the Harpers did, though the Moonstars operated in more secrecy than the Harpers and members were less free to do what they wanted, being under the direct and relatively strict command of the Blackstaff himself. Officially, the group's headquarters was Blackstaff Tower, though very few even visited that prestigious place. Each member carried a badge that allowed them access to their real stronghold, Silver Safehold, which was an extraplanar stronghold built by the Storm Heralds of Cormyr.
+
+Of the gods who pledged their support to the Harpers, only three also supported the Moonstars: Mystra, Oghma, and Sehanine Moonbow. But even with the lack of the other Harper gods' blessings, Khelben and Laeral made up for it with their own spells.
+
+To aid them in their quests to vanquish evil, the Moonstars had several permanent portals scattered around Faerûn to allow quick passage.
+
+History
+The Moonstars were officially formed in the, but this was only a step in a much larger plan by the organization's founder, Khelben "Blackstaff" Arunsun, who had sought to create his own evil-fighting organization for centuries before. A strong supporter of the group, Lady Alathene Moonstar, granted them permission to call themselves the Moonstars "in hopes that its members might be more worthy of the name than some relations of mine."
+
+An offshoot of the Harpers, the Moonstars were formed when Khelben realized that he didn't have as much power over the Harpers as he once did. He discovered in the, that Alaundo the Seer had written prophecies about an as-yet-undiscovered threat to Faerûn. He attempted to steer the Harpers in a direction where they could deal with the threat but, failing that, he eventually took matters into his own hands. In the, Khelben stole the Scepter of the Sorcerer Kings from the Catacombs of Ordulin, making sure that it came into the possession of High Priest of Bane and leader of the Zhentarim, Fzoul Chembryl. Fzoul then used the scepter to destroy the banelich Faram Khaldan. Thirteen years later, in 1370 DR, the Harpers found out about Khelben's actions. He admitted his guilt during his trial at Twilight Hall and left the Harpers. Immediately after, he and his partner Laeral Silverhand set up the Tel Teukiira as part of a plan that Khelben had been developing for many years.
+
+The organization appeared to collapse completely following Khelben’s death.
+
+Post-Spellplague
+Renaer Neverember revived the Moonstars in the, after Vajra Safahr assumed the title "Blackstaff". However, the group decided they did not want to carry the Moonstars' legacy, so they planned on creating a new organization that would be friends rather than agents of the Blackstaff. The organization's name was not decided at their first meeting.
+
+In the month of Eleint, the, a moon elf mage and Moonstar named Questele was primarily responsible for defending Stedd Whitehorn, the boy Chosen of Lathander. She died trying to protect him.
+
+Moonstar sleeper agents became active players in Waterdeep, Candlekeep, and Myth Drannor during the Second Sundering, but went underground after the conflict passed. It was unknown to outsiders what the relationship was between the Moonstars and the Harpers, or Open Lord Laeral Silverhand or Vajra Safahr for that matter.
+
+Members
+Membership was less restrictive than the Harpers. One of the senior members was most definitely evil and the organization even listed a vampire amongst its number. To gain entry into the group, one needed the sponsorship of either Khelben or Laeral, so it was clear that they did not consider these less morally inclined members a threat. Many Harpers defected when Khelben created the Moonstars, including Malchor Harpell and Myrmeen Lhal.
+
+Notable Members
+Calhyar of the Winds
+Janxar Dhoarn
+Jhuvik of the Seven Gems
+Khelben Arunsun
+Kiirma Blackmane
+Kylia
+Kyriani Agrivar
+Laeral Silverhand
+Malchor Harpell
+Mintiper Moonsilver
+The Mistmaster
+Myrmeen Lhal
+Phaerl Hawksong
+Lord of Mystery Telornym
+Fourth Reader Shaynara Tullastar
+Winter Zulth
+Zandess Danthiir
+
+Appendix
+
+References
+
+---
+
+## Morninglord
+
+Morninglords, formerly known as morninglords of Lathander, were the specialty priests of the deity Lathander, considered to be among the most elite orders, as well as one of the highest ranks, within his clergy members.
+
+Activities
+These respected priests served as dedicated healers and councilors to the followers of Lathander and other folks in communities throughout Faerûn. They protected the people from all manner of malign forces and were known as fervent destroyers of the undead. The morninglords were beacons of hope in a world that was often dark and full of dangers.
+
+Very often, they traveled the Realms as preachers, bringing the glory of the sun to all dark places of the world and garnering greater respect of their church.
+
+Culture
+The morninglords of Amaunator drew on the optimistic spirit that was embodied by the aspect of Lathander. They were considered the embodiment of his youth and personification eternal renewal. They were relentless and unrestrained in their actions, spreading the light of the sun to all the dark and chaotic corners of Toril.
+
+Abilities
+As priests of Amaunator and Lathander, morninglords acquired their abilities through divine grace channeled through a holy symbol. Due to their god's influence over the sun, morninglords were adept at wielding radiant powers which could be both benevolent or violent in nature. The power of the morninglords' magic grew with the increased force of their personality and their continued training.
+
+They gained access to several spells befitting their role in the church, such as faerie fire, daylight, sunrise, boon of Lathander, searing ray, and false dawn.
+
+The prayers spoken by morninglords focused the light of their god to destroy their foes or aid and heal their allies. The pure glow prayer allowed them to radiate brilliant holy light that burned their enemies, while the rising sun prayer focused that sight light into a healing force that soothed the wounds and spirits of their friends and allies.
+
+At sunrise, they could choose to perform the blessing of the dawn which boosted their morale and convictions for a matter of hours.
+
+Their ability to turn undead was unparalleled by other priestly orders. Experienced morninglords could inflict the greatest amount of harm possible to undead creatures.
+
+Another prayer that venerated morninglords learned was the rejuvenation of the morn. While this could only be performed once a tenday, it was capable of some truly great restorative effects.
+
+The most powerful morninglords exuded an aura of radiance around themselves at all times. The light of Lathander himself shone down upon them, giving them sight in darkness and protection from the undead.
+
+History
+In the centuries before the, morninglords were referred to as the "morninglords of Lathander". During this time, Lathander was viewed by the people of Faerûn as the greater deity of the sun, rather than an aspect of the ancient Netherese god Amaunator.
+
+In the time between the Spellplague and the Second Sundering, the morninglords switched their devotion to Amaunator. It was believed by many that the aspect of Lathander was merely a youthful facade that was worn by the austere and stern Amaunator. For about a century's time, the morninglords continued to exemplify the youthful joy and exuberance that they believe was put forth by the Keeper of the Sun.
+
+Following this time, both Amaunator and Lathander held their own place within the Faerûnian pantheon.
+
+Members
+As would be expected, the majority of morninglords were clerics, though there were a considerable number of paladins among their ranks.
+
+Notable Morninglords
+ Chansobal Dree, leader of the church in Marsember.
+ Ghentilara, overseen of the Spires of the Morning in Waterdeep.
+ Hathala Orndeir, high priestess of the Tower of the Morn in Elversult.
+ Haurier Brightshadow, a dawnknight within the Order of the Aster.
+ Ombital Dusrook, head of the Lathanderite church of Ordulin.
+Una, an adventuring cleric of Lathander, active in the late 14 century DR.
+
+Appendix
+References
+
+---
+
+## Mooshie's Longbow
+
+Mooshie's longbow was a finely crafted longbow. It was given to Drizzt Do'Urden by Montolio Debrouchee at the end of Drizzt's ranger training.
+
+Appearances
+Mooshie's longbow is featured in the novel Sojourn, by R.A. Salvatore.
+
+ See also
+ Drizzt Do'Urden
+
+ References
+
+---
+
 ## Moonshae Isles
 
 The Moonshae Isles  were a collection of islands located west of the Sword Coast where the waters of the Sea of Swords gave way to the Trackless Sea. They were sometimes called "the jewels on the hilts of the Sea of Swords". The Moonshaes had strong connections to the Feywild.
@@ -229,6 +414,56 @@ Connections
 de:Mondschein-Inseln
 FR:Îles Moonshae
 pl:Wyspy Moonshae
+
+---
+
+## Montolio Debrouchee
+
+Montolio Debrouchee, better known as "Mooshie," was a ranger of great renown, having dedicated himself to the defense of all living things not evil in nature, and total dedication to the goddess of the forest, Mielikki, at an early age.
+
+Description
+In his last year of life, Montolio was tall, straight, and frail-looking. He had long gray hair with a huge, bristling gray mustache. His eyes were white.
+
+Personality
+Montolio had a pragmatic view on life. He was not averse to lying if it suited his needs. Orcs were his "particular unfavorites" (and likely his chosen enemy). He loved animals the best.
+
+History
+Early career
+Montolio learned archery and the way of a ranger from Mistress Dilamon, who was so skilled with her bow that she never missed.
+
+Montolio served as a ranger for many years, often as a scout for large armies, or working with small groups of rangers or by himself. He claimed to have fought in a dozen wars, spent a winter trapped on a mountain with a broken leg, killed a giant with a dagger, and befriended every animal within 5,000 steps of where he lived.
+
+Blindness
+In 1335 DR, Montolio and the Rangewatchers, the last adventuring company he traveled with, fought a vicious red dragon. In the encounter, the dragon was killed, but so were three of the Rangewatchers, and Montolio's face was melted. The skin was healed by clerics, but his eyes were beyond repair and he remained blind for the rest of his life.
+
+Being pitied even by the Rangewatchers and thinking his life meaningless, Montolio fell into despair and came to a grove in the Rauvin Mountains, later known as Mooshie's Grove, to die there. Instead, he learned to survive by using his other senses to their fullest extent, often using animals such as Hooter the owl to report what they saw. He befriended the animals and made it a personal goal to keep watch over the grove and protect nearby caravans from Graul, an orc leader, and his raiding band.
+
+In 1341 DR, Montolio came across the drow renegade Drizzt Do'Urden and helped him fend off an orc attack at Rogee's Bluff in the Rauvin Mountains not too far from Mooshie's Grove. Montolio subsequently befriended Drizzt, teaching him Common and the ways of a ranger of Mielikki. Montolio and Drizzt successfully defended Mooshie's Grove against an orc attack led by Graul (who was in league with Roddy McGristle). Mooshie eventually died of natural causes at the end of the year. Drizzt buried his body in Mooshie's Grove.
+
+Possessions
+Montolio was a skilled archer who wielded a heavy longbow with black-feathered arrows. He typically wore chain mail.
+
+Montolio's sigil was a taloned owl; it could be found on Montolio's personal sword, shield, and helmet. He wore a unicorn-head pendant around his neck in honor of Mielikki.
+
+Montolio owned hundreds of books, which he kept at his home in Mooshie's Grove.
+
+Relationships
+Montolio was friends with most of the animals around him. In particular, he used Hooter the owl a great deal to serve as his eyes and carry messages to far-off locales. He also had a friendship with Bluster the bear, who came to help him (and brought friends) to defend his home against the orcs.
+
+Appendix
+Notes
+In Baldur's Gate II: Throne of Bhaal, the description for "Montolio's Cloak" (after completion) says that Montolio was a "master of wielding two blades simultaneously." However, in the novel Sojourn, Montolio indicates that he wields a sword and shield. Additionally, he says he expects that Drizzt would tangle himself up wielding two long swords.
+
+Appearances
+Novels
+ Sojourn
+
+Computer games
+ Baldur's Gate II: Throne of Bhaal (referenced in a few items, such as "Montolio's Cloak" and "Montolio's Clasp")
+
+References
+
+de:Montolio DeBrouchee
 
 ---
 
@@ -636,6 +871,228 @@ de:Moander
 
 ---
 
+## Monster Manual II 3rd edition
+
+Monster Manual II is an accessory for the 3-edition of .
+
+Contents
+ Introduction
+ Alphabetical Listing of Monsters
+ Appendix: Templates
+
+Index
+
+Creatures
+
+Magic
+
+Credits
+ Designers: Ed Bonny, Jeff Grubb, Rich Redman, Skip Williams, Steve Winter
+ Additional Design: David Eckelberry, James Jacobs
+ Editors: Dale Donovan, Penny Williams
+ Managing Editor: Kim Mohan
+ Creative Director: Richard Baker
+ RPG Category Manager: Anthony Valterra
+ Vice President of RPG R&D: Bill Slavicsek
+ Vice President of Publishing: Mary Kirchoff
+ Project Manager: Martin Durham
+ Production Manager: Chas DeLong
+ Art Director: Dawn Murin
+ Cover Artist: Henry Higginbotham
+ Interior Artists: Glen Angus, Daren Bader, Thomas Baxa, Matt Cavotta, Dennis Cramer, David Day, Brian Despain, Tony Diterlizzi, Michael Dutton, Jeff Easley, Emily Fiegenschuh, Donato Giancola, Lars Grant-West, Rebecca Guay, Quinton Hoover, Jeremy Jarvis, Alton Lawson, Todd Lockwood, Raven Mimura, Matt Mitchell, Vinod Rams, Wayne Reynolds, David Roach, Scott Roller, Richard Sardinha, Marc Sasso, Brian Snoddy, Anthony Waters, Sam Wood
+ Graphic Designers: Erin Dorries
+
+Appendix
+External Links
+
+Errata
+
+Connections
+
+---
+
+## Monster Manual III 3rd edition
+
+Monster Manual III is an accessory for the 3.5-edition of  ruleset.
+
+Contents
+ Introduction
+ Monsters A to Z
+ Monster Feats
+ Glossary
+ Templates
+ Animal Companions or Mounts
+
+Description
+Monster Manual III is the first of the monster specific books to be made for the 3.5-edition ruleset. It cites sources from Dragon, Manual of the Planes, Planes of Law, and the first edition of Fiend Folio.
+
+Index
+
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Gallery
+
+Credits
+ Designers: Rich Burlew, Eric Cagle, Jesse Decker, Andrew J. Finch, Gwendolyn F.M. Kestrel, Rich Redman, Matthew Sernett, Chris Thomasson, P. Nathan Toomey
+ Additional Design: Keith Baker, Andy Collins, Bruce R. Cordell, James Jacob, David Noonan, Christopher Perkins, Mike Selinker, Bill Slavicsek, James Wyatt
+ Development Team: Andy Collins, Andrew J. Finch, Ed Stark
+ Editors: Greg Collins, John D. Rateliff, Gary Sarli
+ Proofreader: Christopher Lindsay
+ Managing Editors: Gwendolyn F.M. Kestrel, Kim Mohan
+ Design Manager: Christopher Perkins
+ Development Manager: Andrew J. Finch
+ Director of RPG R&D: Bill Slavicsek
+ Art Director: Robert Raper
+ Cover Art: Henry Higginbotham
+ Interior Artists: Dave Allsop, David Bircham, Matt Cavotta, Wayne England, Emily Fiegenschuh, Rafa Garres, Ralph Horsley, Frazer Irving, Rom Lemen, Howard Lyon, Leslie Minnis, Dean Ormston, Lucio Parrillo, Steve Prescott, Vinod Rams, Adam Rex, Wayne Reynolds, Anne Stokes, Mark Tedin, Francis Tsai, Franz Vohwinkel, Anthony Waters, Jonathan Wayshak, Sam Wood, James Zhang
+ Graphic Designer: Robert Raper
+ Graphic Production Specialist: Erin Dorries
+ Image Technicians: Candice Baker
+ Production Manager: Josh Fischer
+
+Appendix
+External Links
+
+References
+
+Connections
+
+---
+
+## Mosquito
+
+The mosquito was a type of bloodsucking flying insect.
+
+Ecology
+Mosquitoes enjoyed warm and humid environments, especially marshes and areas where water tended to form puddles, which they used as breeding areas.
+
+Large populations of mosquitoes were found in the rimwood area of the forest of Cormanthor and in the Farsea Marshes in Cormyr. Mosquitoes the size of an adult human's finger were also common throughout Chult, especially in humid areas.
+
+These insects carried several diseases, including shivering sickness in Chult, and mosquito fever in Halruaa.
+
+Habitats
+Mosquitos were a blight on the nation of Payit. Swarms of mosquitoes were known to be thick enough to completely obscure one's vision, making it a challenge to traverse the Payitlan jungles as well as Far Payit's depths.
+
+Appendix
+
+See Also
+Giant mosquito
+Appearances
+
+References
+
+---
+
+## Moonsea Ride
+
+The Moonsea Ride, also called the Mountain Ride in Cormyr, was a road that ran north-east from Arabel until it reached Hillsfar on the southern shores of the Moonsea.
+
+Description
+From Arabel, it ran past Castle Crag and through Gnoll Pass in the Storm Horns. Forces from Castle Crag patrolled the road until Gnollpost, an outpost at the midpoint of Gnoll Pass. From there, it was patrolled by the garrison of Halfhap till Mootpost, which lay halfway to Tilverton.
+
+At Tilverton, it intersected with the North Ride before passing over Tilver's Gap into Mistledale. It then met with Rauthauvyr's Road and the Standing Stone before leaving the Dalelands behind and cutting through the Rimwood and Midwood of Cormanthor. After emerging from the forest, it carried along till it met Hillsfar at the shore of the Moonsea.
+
+The Stonebolt Trail split from the Moonsea Ride in Gnoll Pass and ran north through the Stonelands, bypassing Halfhap and Tilverton as it met the North Ride at Shadow Gap.
+
+Appendix
+Appearances
+Novels
+The Glass Prison
+Gallery
+
+References
+
+FR:Route de la Mer de lune
+
+---
+
+## Moss
+
+Moss, also known as greengrass, was a type of a small flowerless plant that preferred shady and damp locations, but could be found in a wide variety of places across Toril.
+
+Description
+Moss was often found in dense clusters and sprawling, carpet-like growths. They varied in color, but green was the most commonly found.
+
+Varieties
+ Blueglow moss  A magic moss that grew exclusively within Myth Drannor's mythal and possessed potent healing properties.
+
+ Cave moss  A type of moss found in Underdark that was the food source of rothé and other creatures that resided there.
+
+ Glowmoss  A common type of luminescent moss often used as a decorative source of light.
+
+ Hanging moss  A species of moss commonly found in marshes and jungles that thrived in hot and wet areas. Hanging mosses existed in a symbiotic relationship with their hosts.
+
+ Ivory moss  A type of moss found in the Midwood area of the forest of Cormanthor. It was found in the groves of alders, hickories, and bitternuts.
+
+ Marimo  A type of aquatic moss that grew in the shape of a ball and was commonly found at the bottoms of lakes.
+
+ Obliviax  A type of intelligent black moss that had the ability to steal the memories of other creatures and partially subsisted upon them.
+
+ Spirit moss  A pale white moss that grew on dead trees in swampy environments and entangled victims.
+
+ Swamp moss  A species of healing moss native to the Mere of Dead Men.
+
+ Tanglemoss  A decorative species of moss that was often planted on the roads of Loudwater in Delimbiyr Vale.
+
+ Weavemoss  A species of lichen that that grew in the areas with strong weave connections.
+
+Ecology
+Meenlock lairs were completely covered in a certain type of black moss that muffled sounds.
+
+Quelzarn were known to grow weeds and mosses on the slime that was secreted from their skin.
+
+Some other older troglodytes (such as Chief Urbone) had bits of moss and fungus growing on their heads.
+
+Moss could become infested with a variety of mushroom known as mossy deathcap, which would eject toxic spores when disturbed.
+
+Habitats
+Archendale was well-known for being a beautiful valley of lush vegetation like ferns, lilies, and mosses.
+
+Barrelstone Inn was known for its leaky and drafty interior that was a breeding ground for mosses and mildew.
+
+Roaring Griffon Inn was a miniature castle that attracted visitors to marvel at its moss gardens that encircled the building.
+
+The Garden of Delights of Sarahin many beds of soft moss were found in corners and dens of the building.
+
+The Temple of Moander in Yulash had moss covering the shrine area akin to a living carpet.
+
+The Heartlands was home to many species of moss. Glowmoss could be found in the village of Gray Oaks. Plungepool was well-known in Cormyr for its rich moss and plant carpets and slick slippery walls.
+
+The swamp and marsh areas such as Spider Swamp, Lizard Marsh, and the Flooded Forest arm of Cormanthor were lush with mushrooms, lichens, and hanging mosses.
+
+The Islands of the Djinni's Claws' and Steaming Isles' jungles were home for draping mosses that thrived in the hot and wet climate.
+
+The ruined citadel of Spellgard had abundant fungi and mosses growing in its abandoned halls, including hanging moss and luminescent mosses that adorned the walls of the Main Hall. And in the land of Maztica, moss grew on the abandoned buildings of the list city of Ixtzul.
+
+Beyond Toril, primitive mosses could be found on the planet Armistice. And beyond the Prime Material, phosphorescent moss could be found growing in parts of Barovia.
+
+Uses
+In Food & Medicine
+ The hamlet of Mornbryn's Shield was known for growing a variety of mosses. Some possessed medicinal qualities, others were used by Waterdhavian and Amnian perfume makers as a secret ingredient.
+ The nobility of some cities, like Waterdeep and Calimshan, consumed shield moss as a fashionable dish. These mosses were deep-fried and coated in sauces.
+
+Other
+ In the Northern reaches, rangers and barbarians were using moss to create makeshift bedrolls, moss being good insulation protecting the sleeper from the cold of frozen ground.
+ Glowmoss was known to be used as a source of light and decoration, notably, in the peculiar tavern on the Crawling Spider in Waterdeep. The mosses and lichens were regularly watered and cared for.
+ On occasion, moss was planted on surfaces to reduce its muddiness, notably, the grounds of Highmoon's High Market were carpeted with carefully planted hard types of moss.
+
+History
+The god of rot and decay, Moander was able to control moss and used it, along with many other living things, to form the body of his shambling avatar, the Abomination of Moander.
+
+The goddess Mielikki often manifested herself as a young woman with hair of leaves and golden moss.
+
+The Zakharan legend of the Maiden of Beauty mentioned hanging moss that was used to help disguise the Maiden as an old man.
+
+Appendix
+
+Appearances
+
+External Links
+
+References
+
+---
+
 ## Monstrous Manual
 
 The Monstrous Manual is a 2-edition Advanced Dungeons & Dragons accessory.
@@ -689,6 +1146,592 @@ External Links
  Behind the Monstrous Manual
 
 Connections
+
+---
+
+## Monster Manual 1st edition
+
+The Monster Manual is a core sourcebook for the first edition of Advanced Dungeons & Dragons.
+
+{{Quote|This book provides a complete alphabetical listing of all "monsters" encountered in the various works which comprise the Advanced Dungeons & Dragons game system. It is an invaluable aid to players and Dungeon Masters alike!|First edition, 1977}}
+
+DescriptionMonster Manual was the first hardcover book for any D&D game and the first of the core manuals published for Advanced Dungeons & Dragons. The Monster Manual was a supplement to the game, intended to describe the standard monsters used in AD&D. The book was a compendium of more than 350 monsters. Some monsters were new—others were compiled and revised from older sources such as Monsters and Treasure, Greyhawk, Blackmoor, Eldritch Wizardry, The Strategic Review and Dragon magazine. Each monster was listed alphabetically with a comprehensive description and full statistics and was, in many cases, supported by an illustration. It included topless portrayals of some of its female monsters, such as the succubus, Type V demons, lamia, and sylph. It was also the first appearance of the mimic.
+
+The cover of the original printing was illustrated by David C. Sutherland III. A softcover version of the Monster Manual'' was printed in the United Kingdom by Games Workshop in 1978. When the book was reprinted in 1985 it featured new cover art by Jeff Easley. The book remained relatively unchanged throughout its fifteen printings up to 1989. Minor changes during the print run included a cover art change to match a new logo and house style, and some minor corrections introduced in the 1978 printings.
+
+Index
+
+Characters
+ •  •  •  •  •  •  •  •  •
+
+Creatures
+Aerial servant •  • Anhkheg •  • Ant, giant •  ( • ) •  •  •  •  •  •  •  •  ( •  • ) •   •  (,,, ) •  •   •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  (,,,, ) •  (,,, ) •  (,,,,,,,,,,,,,, ) •  •  •  ( • ) •  •  •  (,,,,, ) •  •  •  •   •  •  •  •  •  •  •  •  •  •  •  •  •  •  • Flightless bird (, ) •  (Killer frog, Poisonous frog) •  •  •  •  •  •  •  •  •  (,,, ) •  •  •  •  •  •  (,, ) •  •  •  •  •  •  •  •   •  •  •  •  •  •  •  •  •  •  •   •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  (, ) •  •  •  •  (,, ) •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  (, ) •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •   •  •  •  •  •  •   •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  (,, ) •  •  (,, ) •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •   •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+NPC Classes
+ •  •  •  •  •  •  •
+
+Miscellaneous
+Armor & Clothing  •  •
+
+Gallery
+
+Appendix
+References
+
+External Links
+
+Connections
+
+---
+
+## Monster Manual
+
+The Monster Manual is the primary core sourcebook for creatures in Dungeons & Dragons. Several editions of the Monster Manual have been released for each edition of D&D (supplementary volumes indented):
+
+5th edition
+ Monster Manual, 5th edition (2014)
+ Monster Manual, 5th edition (revised) (2024)
+
+4th edition
+ Monster Manual, 4th edition (2008)
+ Monster Manual 2, 4th edition (2009)
+ Monster Manual 3, 4th edition (2010)
+
+3rd edition
+ Monster Manual, 3.5 edition (2003)
+ Monster Manual III, 3.5 edition (2004)
+ Monster Manual IV (2006)
+ Monster Manual V (2007)
+ Monster Manual, 3rd edition (2000)
+ Monster Manual II, 3rd edition (2002)
+
+2nd edition
+Monstrous Manual (1993)
+See also: Monstrous Compendium
+
+1st edition
+ Monster Manual, 1st edition (1977)
+ Monster Manual II, 1st edition (1983)
+
+---
+
+## Monster Manual 3rd edition
+
+Monster Manual 3 edition is one of the core rulebooks for the 3-edition of . With the release of version 3.5, the book was revised and republished as Monster Manual v.3.5.
+
+DescriptionMonster Manual is one the core rulebooks released for 3-edition and was not intended to make major changes, only to update older monsters to third edition rules.Monster Manual won the Origins Award for Best Graphic Design of a Roleplaying Game, Adventure, or Supplement 2000''.
+
+Index
+
+Creatures
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Appendix
+External Links
+
+References
+
+Connections
+
+---
+
+## Monte Cook
+
+Monte Cook has been a professional game designer since 1988, working primarily on role-playing games. Much of his early work was for Iron Crown Enterprises. During this period, he attracted fan and critical attention with the popular multi-genre setting Dark Space. Eventually he took a job at TSR Hobbies, where he was a major contributor to the Planescape product line. Shortly thereafter, TSR encountered financial difficulties and was purchased by Wizards of the Coast. Under Wizards of the Coast, Cook was given the project that is now probably his main claim to fame - working as one of the three primary authors, along with Skip Williams and Jonathan Tweet, of the third edition of Dungeons & Dragons (and thus the d20 System as well). Cook contributed mainly to this edition's Dungeon Master's Guide, of which he is the credited author.
+
+Cook left Wizards of the Coast in 2002 and started Malhavoc Press to write material for the d20 System independently. Malhavoc's first product, The Book of Eldritch Might, was an immediate success and is widely credited with demonstrating the viability of PDF publishing within the role-playing industry. This and other early Malhavoc products were initially released only in electronic format, though print versions of most of them have since been released by White Wolf, Inc.. His most notable work under the Malhavoc banner is probably Arcana Unearthed, a product he describes as a "variant Player's Handbook".
+
+He caused controversy in mid-2004 by exclusively selling his electronic d20 material with the DriveThruRPG.com store, which then used only the privacy-protected digital rights management PDF system. He eventually succumbed to pressure from his customers to sell his products in standard-PDF form, and DriveThruRPG has more recently done the same.
+
+Malhavoc released Ptolus, a campaign setting based on his home game which was used as the playtest campaign for the third edition designers, in August of 2006. A huge book (roughly 700 pages, a figure which more than doubles if the accompanying CD-ROM is taken into consideration) featuring some of the highest production values ever seen in the role-playing industry, Ptolus has enjoyed considerable success despite retailing for approximately $120 US, an unheard-of price for a roleplaying product.
+
+Shortly after the release of Ptolus, which Cook has often described as the culmination of his original ambitions for Malhavoc, he announced that he would be focusing on writing fiction and other forms of creative work he has not yet specified, rather than role-playing games, for the foreseeable future. White Wolf announced that his final RPG book would be Monte Cook's World of Darkness, his own take on their modern horror setting. It was targeted for a Gen Con 2007 release.
+
+Appendix
+Further Reading
+
+ External Links
+ Official website
+ Pen & Paper listing for Monte Cook
+ Interview at Flames Rising
+ White Wolf Press Release
+References
+
+---
+
+## Morik
+
+Morik, often referred to as Morik the Rogue, was a thief living in the town of Luskan in the mid-to-late 14 century DR.
+
+Relationships
+He was a friend of Wulfgar.
+
+History
+In Luskan in the, after Wulfgar fought with Tree Block Breaker, the toughest fighter on Half Moon Street, Morik attempted to kill him off with a glass of poison. His attempt was foiled by Delly Curtie. Not long after this, Morik was approached by the drow elf Kimmuriel Oblodra, lieutenant of the mercenary group Bregan D'aerthe. He paid Morik to keep an eye on Wulfgar.
+
+By the following year, he and Wulfgar had become good friends. The two were drinking near the docks when two would-be muggers came along, but Morik and Wulfgar quickly defeated them two and left. After Wulfgar was robbed of Aegis-fang, they tried to get information on its whereabouts. While doing that, they were manipulated into eliminating Captain Deudermont's magical protections. Assassins attacked the captain with poison, but when they were captured, they lied and framed Wulfgar and Morik for the attack. All of them were imprisoned and sentenced to death, but Deudermont believed Wulfgar was innocent and asked him to be pardoned. Both Morik and Wulfgar's sentences were changed to banishment from Luskan.
+
+Over the next year, Wulfgar and Morik roamed the roads and became highwaymen. One day, they robbed Meralda Ganderlay, Lord Feringal Auck of Auckney's fiancée. Since she was already pregnant to Jaka Sculi, she lied to Feringal and said Wulfgar had raped her. Wulfgar was then taken prisoner and Morik devised a way to help him by acting as a noble from another city, Lord Burglar Brandeburg of Waterdeep. Meralda felt guilty for her lie and released Wulfgar, and he was reunited with Morik. After a few months, they came back to reclaim Colson, Meralda's daughter, so she wasn't killed.
+
+Wulfgar and Morik then returned to Luskan. Morik stayed while Wulfgar left with Colson and Delly Curtie. Then, in 1366 DR, Morik met Jarlaxle Baenre, leader of Bregan D'aerthe. Jarlaxle offered Morik the opportunity to be his associate in Luskan, promising him riches if he accepted, or certain death if he declined. For a while, Morik obeyed Bregan D'aerthe, but tried to protect himself against Rai-guy Bondalek's magic with an antimagic orb. The assassin Artemis Entreri was sent to kill him, but Entreri preferred not to do so and advised Morik to leave the city, which he did.
+
+Morik eventually returned to Luskan again. Late in the, he was then contacted by Drizzt Do'Urden and Catti-brie, who wanted information about Wulfgar. Initially, Morik mistook them for agents of Jarlaxle and attempted to ambush Drizzt but was quickly overpowered, forcing him to admit to be working for the Bregan D'aerthe leader. After that, he was abducted by the wizard Bellany, a girl he knew when she was an apprentice, who was working for the notorious pirate Sheila Kree. When she learned Drizzt had talked with him, he was taken with her to the far north where Sheila and her band had their hideout, where he was forced to help train the elven warrior, Le'lorinel, who held an irrational grudge against Drizzt. Desperate to return to Luskan, Morik attempted to seduce Kree only to receive a left hook in response. When the Companions of the Hall reached there, Morik decided to side with his old friend Wulfgar and he attacked Kree when she was about to kill Wulfgar, saving his life. Wulfgar returned the favor, ignoring a lie Morik told him so he could save Bellany, now his lover, from being killed.
+
+After that Morik resided in Luskan with Bellany.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moonblade
+
+A moonblade was a hereditary magical longsword passed down in elf lineages.DMG5e p. 217-218
+
+Description
+Moonblades were named in part because of the moonstones found in the pommel of each sword but also for the moon elves that wielded them, with the sole exception of the half-elf assassin, Arilyn Moonblade. According to Ethlando, the mage responsible for conception and creation of the largest collection of moonblades, the other elves, such as sylvan elves and sun elves were not prohibited from claiming a blade, it was just highly unlikely.
+
+Abilities
+Each wielder contributed a power to the sword, which would be absorbed through the moonstone in the blade's pommel. However, the wielder could not be separated from the sword for any length of time and expect to live. Each moonblade was unique, as were the powers given to them. In addition to their unique abilities, some moonblades were capable of summoning an elfshadow.
+
+History
+Each moonblade was tied to the elven bloodline that first claimed the blade and was passed from descendant to descendant until there were no more worthy heirs. Every elf in the family had a choice to attempt to bond with the blade. If the elf chose to bond with the blade, they were subjected to the moonblade's bladerite in which the sword judged the character of the prospective wielder. The wielder was not only judged by his own character but also by the characters of all its previous wielders. With each new wielder the blade became harder to obtain by the next user. Any elf judged unworthy by the blade was subjected to the consequences of the bladerite, which usually resulted in immediate death by arcane fire. A claimed blade never bonded with an elf that did not carry the bloodline of the original family, making the blade's magics useless in the hands of anyone else.
+
+The wielders of the moonblades also paid a cost — when they died, their life essence entered the moonblade, to become the source of its magic. Until the moonblade's purpose was fulfilled, the passage to Arvandor was delayed for all of the elven souls within.
+
+The process of crafting a moonblade could not be adequately described — no more than a melody could be conveyed with mere words.
+
+Notable Moonblades
+
+ Arilyn's moonblade, wielded by Arilyn Moonblade. It had many different powers, most notably the elfshadow and elfgate abilities.
+ The Craulnober moonblade was in the possession of Elaith Craulnober as of the Year of the Banner, 1368 DR, even after it rejected him. He had a son by Amnestria Moonflower, but never knew of his son's existence.  When he had a daughter, Azariah, he assumed she became the heir to the moonblade and he raised and provided for her so she might one day draw the blade.  However his firstborn, a son he never knew he had, may in fact be the true heir to the moonblade, especially since the child's mother Amnestria's moonblade was inherited by Arilyn Moonblade instead.
+ Darkmoon, originally claimed by the Starym clan. The moonblade was corrupted by Illitran Starym with the assistance of Moander, god of corruption and decay. The blade is also known as Bladeshee for it's mythal ghost's ability to cast the spell Wail of the Banshee.
+ Ellaquin Shadowsteel's moonblade, the weapon wielded by one of the heroes of Ravens Bluff in the late 14 century DR, after the events that involved Glaysa's poniard returning to the Prime Material plane.
+ King's Blade (also called the King's Sword), the most powerful elven moonblades and wielded by the Ruler of Evermeet. The sword was wielded by Prince Lamruil Moonflower the youngest son of Queen Amlaruil Moonflower. The previous wielder was King Zaor Moonflower.
+ Thoerl, the moonblade of the moon elf House Silverspear.
+ Xan's moonblade, wielded by Xan. This particular moonblade protected the wielder from fire and improved his personal defense.
+
+Appendix
+Appearances
+
+References
+
+FR:Lame de lune
+de:Mondklingen
+
+---
+
+## Monster Mythology
+
+Monster Mythology is a 2-edition Advanced Dungeons & Dragons accessory.
+
+Description
+Monster Mythology is the 4 book in the Dungeon Master's Guide Rules series and details the gods of the non-human races and various monsters.
+
+The introductory section of the book delineates the central motif, focusing on deities beyond the human realm. It furnishes an overview on the incorporation of deities within a narrative campaign, elucidating their ubiquitous abilities and categorizing them into a hierarchical structure spanning four levels of potency: from Demigod to Greater God.
+
+The bulk of the accessory is dedicated to 131 divine entities, organized into eight segments based on differing mythologies. For each deity, the text provides a comprehensive description, game-related statistics (including the deity's alignment, the prevalent alignment among its followers, its domain of influence, and its emblem). Additionally, each segment offers insights into the deity's avatars and its clergy.
+
+The first appendix offers additional guidance on the development of avatars within the gameplay, covering various scenarios such as the avatar's potential abode, instances where it might become a patron to a group of adventurers or elect an adventurer as a companion, situations necessitating rescue, the loss of a magical item, requirements for discovery by player characters, or scenarios where the avatar develops an affection for a mortal character.
+
+The second appendix provides references for Dungeon Masters seeking detailed information on the deities specific to the game worlds within Advanced Dungeons & Dragons.
+
+Contents
+ Chapter 1: Introduction
+ Chapter 2: Gods of the Demihumans
+ Chapter 3: Goblinoid Deities
+ Chapter 4: Gods of the Underdark
+ Chapter 5: Gods of the Giants
+ Chapter 6: Gods of the Seas and Skies
+ Chapter 7: Gods of the Scaly Folk
+ Chapter 8: Gods of the Dark Folk
+ Chapter 9: The Sylvan Gods
+ Appendix 1: Avatars in Game Play
+ Appendix 2: Deities and Game Worlds
+
+Index
+Religions
+ Elven deities   •  •  •  •  •  •  •  •
+ Dwarven deities   •  •  •  •  •  •  •  •  •  •
+ Gnomish deities   •  •  •  •  •  •  •
+ Halfling deities   •  •  •  •  •
+ Orcish deities   •  •  •  •  •
+ Goblinoid deities   •  •  •  •  •  •  •
+ Kobold deities   •  •
+ Drow deities   •  •  •
+ The Lost Gods   •  •
+ Giant deities   •  •  •  •  •  •  •  •  •
+ Draconic deities   •  •  •  •  •
+ Lycanthrope deities   •  •  •  •
+ The Seelie Court   •  •  •  •  •  •  •  •  •  •
+ Other deities   •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+ Demon lords   •  •  •  •
+ Great heros   •  •  •  •
+
+Gallery
+
+Credits
+ Writer: Carl Sargent
+ Editor: Scott Haring
+ Illustration: Terry Dykstra
+ Color Illustration: John and Laura Lakey, Keith Parkinson
+ Typography: Gaye O'Keefe
+ Production: Sarah Feggestad
+
+Appendix
+See Also
+ Images from Monster Mythology
+External Links
+
+ RPGGeek
+References
+
+---
+
+## Morninggold
+
+Morninggold was the easternmost county of Tethyr, located within the Golden Marches.
+
+Geography
+County Morninggold was located in the western foothills of the Kuldin Peaks and was bordered in the north and west by the Shining Stream and in the south by the Idolflow and its tributary, the Levast River. Its neighboring counties were Valashar, Hazamarch, and Surkazar. During the time of the Tethyrian Interregnum, one of its many baronies was named Pundaria.
+
+Government
+From 1362 DR, the county was ruled, until the end of the Tethyrian Interregnum, by Zaranda Star. When she became queen of all Tethyr in 1369 DR, power over the county passed to Aalangama Gulderhorn, who was also Title Chancellor of the kingdom. However, her power over the region was not strong, and at times it seemed that the monster races of the area—gnolls, ogres, and trolls—had more control.
+
+History
+The county, which used to belong to the Gulderhorn family, was purchased from the Order of the Silver Chalice in 1362 DR by Zaranda Star.
+
+The order was nearly wiped out during the First Siege of Myratma. To reward them for their service to Tethyr, after her ascension as queen, Zaranda restored the lands to a surviving member of the Gulderhorns and of the order, Aalangama.
+
+Notable Locations
+ Morninggold Keep  This was the estate of Zaranda Star during her time as countess and afterward the county seat for Aalangama Gulderhorn.
+ Mount Noblesse  This manor was the headquarters of the Order of the Silver Chalice.
+
+Appendix
+Notes
+
+Appearances
+Novels
+
+References
+
+Connections
+
+---
+
+## Moonshae trilogy
+
+The Moonshae trilogy was the first series of books set in the Forgotten Realms. The trilogy was written by Douglas Niles.
+
+ Moonshae
+ Darkwalker on Moonshae (May 1987)
+ Black Wizards (April 1988)
+ Darkwell (February 1989)
+
+The series is followed by the Druidhome trilogy. Douglas Niles also wrote a short story about the early days of the Moonshae Isles called The First Moonwell. It is included in Realms of Magic anthology.
+
+---
+
+## Morningstar Hollows
+
+Morningstar Hollows once was a small fishing village, abandoned due to the continual flooding of the Alaoreum River. The boggy village bacame home to a tribe of lizardfolk.
+
+Description
+After the village was swallowed by Alaoreum River's bogs, the nature flourished growing huge river pines, oaks, elms, walnut and pecan trees.
+
+Trade
+The lizardfolk of Morningstar Hollows survived by fishing and hunting.
+
+History
+The flooding of the Alaoreum River took several seasons. After inhabitants of Morningstar Hollows moved to nearby Velorn's Valor, the abandoned village was taken over by bogs and swamps. By the late 14 century DR, the village was believed to be inhabited by a three dozen lizardfolk.
+
+In the, the Morningstar Hollows were taken by the undead armies of mohrg Borran Klosk of Turmish. The undead warlord used his necromancy to fill his army with long dead folk, murdered by the Emerald Enclave.
+
+By the, the lizardfolk of Morningstar Hollows was gone, driven away by a slew of adventurers seaking fame and fortune. The lizardfolk moved on to the Wetwoods while a gang of bandits took over the village, ambushing scar pilgrims.
+
+Appendix
+Appearances
+Novels
+The Jewel of Turmish
+
+References
+
+FR:Cavité de l’Étoile du Matin
+
+---
+
+## Moradin
+
+Moradin  was the lawful good god of the dwarves and the chief deity in their pantheon. The Soul Forger was strength incarnate and force of will embodied, a harsh but fair judge who evaluated his creations by the goodness of their works first and intentions second. The Dwarffather inspired dwarven inventions and constantly sought to improve their race, encouraging a good-natured, intelligent, and harmonious existence with other good races while battling their pride and isolationist tendencies.
+
+Description
+Moradin appeared as a  tall dwarf with a powerful build, particularly in the upper body. He was a stern-faced figure with flowing hair, his mane and beard both reaching his knees (and alternatively described as black or white). He dressed plainly, wearing a smith's leather leggings and aprons in addition to furs and bracers of pure gold on his forearms, his garments transforming into dwarven plate mail and a large shield when needed. Moradin also exuded a faintly visible white radiance, an aura of power he could cloak as he wished.
+
+Personality
+Moradin expected his children to aspire to his utmost levels of expertise, to study his techniques so they might follow in his footsteps. He was gruff, stern and virtually incapable of compromise, tirelessly and unflinchingly defending his people, their values, and his principles of good and law. While a good heart was necessary for his acceptance, only quality results earned his approval.
+
+Contrary to some rumors Moradin was incredibly crafty, but kept that side of himself out of public view. He allowed others to believe he was mentally lacking so that they would drop their guard, granting him the advantage.
+
+Activities
+Moradin preferred to work through manifestations rather than avatars, believing that dwarves had to work for their own place and salvation in the world, and so he seldom appeared in the Realms. When he did, it was only to help dwarves against a numerically overpowering force, and he might bestow blessings to favored warriors prior to the battle such as strength spells.
+
+Usually any intervention from Moradin served the purpose of guiding his people to the best decisions in times of crisis, but he also did so to aid those that might be of help to the dwarves as a whole. This took the form of either inspiring dwarves who would serve their kin in the future or encouraging non-dwarves to provide assistance to his people.
+
+Relationships
+Moradin had a strategic but friendly alliance with Gond, Kossuth, Helm, Torm, Tyr, and the heads of the elven, gnome, and halfling pantheons. He opposed the gods of the goblinoids, orcs, evil giants, and banished dwarves.
+
+Worshipers
+
+Moradin's clerics, known as Sonnlinor, were usually drawn from family lines, like most dwarven occupations; they wore earthy colors, with chain mail and silvered helms. Moradin charged his followers with the task of wiping out the kingdoms of orcs and wiping out the followers of Gruumsh. The church of Moradin had an active role in guiding the morals of dwarven communities; they emphasized his hand in everyday dwarven activities such as mining, smithing, and engineering, and invoked his blessing when these tasks began. They led the push to found new dwarven kingdoms and increase their status among surface communities. Many of these communities celebrated Hammer 1st, believing that day in 1306 DR to be a blessing by the Dwarffather.
+
+Orders
+ Hammers of Moradin: An elite military order dominated by crusaders and fighting clerics with chapters in nearly every dwarven stronghold and members drawn from every dwarven clan. The Hammers served both as commanders of dwarven armies and as an elite strike force skilled in dealing with anything from large groups of orcs to great wyrms to malevolent fiends from the Fiendish Planes. The order was dedicated to the defense of existing dwarven holdings and the carving out of new dwarven territories. Individual chapters had a great deal of local autonomy but, in times of great crisis, a Grand Council assembled to plot strategy and divine Moradin's will.
+
+Rituals
+Moradin's holy day was on the crescent moon and he was worshiped at forges and hearths.
+
+History
+
+Moradin was held in dwarven myths to have been incarnated from rock, stone, and metal, and that his soul an ember of fire. It was said he forged the first dwarves from metals and gems and breathed souls into them when he blew on his creations to cool them. Moradin was responsible for banishing the evil gods of the derro and duergar from the surface.
+
+Moradin's avatar appeared while the Ironstar dwarf clan was fleeing from orcs at the Stone Bridge, after a desperate appeal by Daurvos Frostbeard (which was his final act), and helped them defeat the orcs and gain safe passage to Ironford, thereby forming the Fallen Kingdom.
+
+Appendix
+Appearances
+
+Gallery
+
+Further reading
+
+References
+
+Connections
+
+de:Moradin
+
+---
+
+## Monster Manual IV
+
+Monster Manual IV is an accessory for the 3.5-edition of  ruleset, presenting a variety of new and expanded races and monsters.
+
+Contents
+ Introduction
+ The Monsters
+ Sample Lair: The Deephollows
+ Monster Feats
+ Glossary
+ Monsters by Type (and Subtype)
+ Monsters Ranked by Challenge Rating
+ List of Monsters by ECL
+ Full-Page Maps
+ Templates
+ For Player Characters
+ Mounts/Companion Creatures
+ Power Components
+ Summonable Creatures
+ Weapons
+
+Description
+Monster Manual IV contains a variety of new creatures as well as expanded variants on staple monsters. What separates it from past volumes is the level of detail given to each creature subtype, including probable behavior in combat and even a complete pre-prepared encounter complete with a map.
+
+Each entry also contains a table listing DC ratings for skill checks made using the Knowledge ability. In general, a low DC check results in revealing all the monster's subtype traits to the player, while higher ratings reveal their origins or various special offensive and defensive abilities.
+
+Monster Manual IV uses the new stat block format that was introduced in the Dungeon Master's Guide II. Monster Manual IV contained fewer actual monsters than Monster Manual II and Monster Manual III, but had sample lairs and encounters for them, gave stats for classes and templates applied to old creatures, and full page maps.
+Index
+
+Creatures
+ (,, ) •  •  •  (, ) •  •  •  •  •  •  •  •  •  •  (,, ) •  (, ) •  •  (,, ) •  •  (, ) •  (, ) •  •   •  •  •  •  (,, ) •  •  (, ) •  •  •  •  •  •  •  (, ) •  (,, ) •  •  •  •  •  (,,,,,,, ) •   •   •  •  •   •  •  •  (,, ) •  (, ) •  
+
+Gallery
+
+Appendix
+External Links
+
+---
+
+## Mountain giant
+
+Mountain giants, called fjelljotunen in their own language, were a brutish giant offshoot race of hill giants.
+
+Description
+Mountain giants largely resembled hill giants, though they were slightly smaller and roughly as strong as fire giants. Their bodies typically displayed a skin tone that ranged from a light tan to a reddish-brown tan. Male mountain giants often had heavy beards, but never mustaches, as well as large pot bellies.
+
+They typically dressed in rough animal hides or skins, much like hill giants tended to, as well as a breechcloth. Due to poor hygiene, their bodies often had foul odors lingering off them that could travel along the wind for over a distance of a  or more.
+
+Personality
+These giants were often given to cruelty and erratic behavior. They were suspicious of outsiders and reluctant to interact with them. However, they were more than capable of agreeing to peaceful relations with other creatures.
+
+Abilities
+Mountain giants possessed high olfactory senses, allowing them to track down and detect many enemies through means of smelling.
+
+Though not the most charismatic of giants, whenever this race called for aid, a number of monsters would quickly arrive to fight alongside them. Most often these calls for help were answered by ogres, though trolls and occasionally hill giants were known to come at such calls.
+
+A mountain giant had some degree of control over these other creatures, able to issue them broadly defined commands, but they still valued their own lives over that of their summoner. Often times this ability would be used to acquire guards and underlings for their cavern homes.
+
+Combat
+Mountain giants were rarely known to use any form of tactical planning, deceit, or ambushing manoeuvres. Rather, they preferred the straightforward approach of tossing down massive boulders at their foes from afar and rarely took cover while doing so. When fighting in close quarters they were known to use a club that were the size of logs or tree limbs.
+
+When it came to unarmed combat against smaller opponents they were known to jump up into the air, up to heights of, and attempt to land on their foes, thereby crushing them. Otherwise, they would simply try to trample their foes, engage them in acts of grappling, or fling them away.
+
+Society
+A mountain giant tribe was generally a very loose network of several families, scattered across a given mountain or range. These families were polyandrous, typically in the form of multiple men sharing a single woman. Tribes were led by a 3-level shaman, who typically lived alongside other friendly creatures rather than their own race. They presided over a tribe's occasional gathering and would counsel those willing to travel in order to talk with them.
+
+Mountain giant shamans typically derived their powers from the spheres of All, Animal, Charm, Combat, Elemental, or Healing. They also possessed an innate ability to locate any cave or cavern entrance within a half mile of them, with the exception of those hidden through magic.
+
+Mountains were often known to take the items of humanoid creatures and carry them around in bags alongside their rocks, keeping the items as playthings. Such items could include things such as furniture, wagons, or even whole huts.
+
+Relationships
+Despite often resenting intruders, they would occasionally keep a few dwarves or humans as pets. If found in groups, they were usually a pair of mates with children.
+
+As mountain giants descended from hill giants, they were still considered true giants. They stood just above their distant kin in the giant hierarchy, or ordning, and just below stone giants.
+
+Homelands
+Typically mountain giants lived solitary lives in mountain ranges and volcanoes, dwelling in spacious caverns they carved out.
+
+During the days of the Netheril empire, mountain giants were known to inhabit the Eastern Forest.
+
+In the Lands of Intrigue, they could be found in the Omlarandin Mountains. There they were known to herd giant sheep. In the Savage Frontier of northwest Faerûn, tribes of mountain giants lived in the Greypeak Mountains.
+
+In interior Faerûn, a tribe of mountain giants known as the community of the high brows lived in the Orbrekh branch of the Orsraun Mountains.
+
+Beyond Faerûn, mountain giants could be found in the temperate mountain regions of Kara-Tur.
+
+Diet
+Mountain giants were foragers and hunters who ate a variety of nuts, tubers, and other edible mountain plants. Their most favorite food was typically mountain sheep.
+
+History
+Mountain giants broke off from their hill giant ancestors after a civil war in the ancient past of Faerûn. The exact date in which this civil war occurred was unknown, but it happened sometime prior to -339 DR.Mountain giants appear in the adventure module, How the Mighty Are Fallen, which this wiki treats as being set in −339 DR.
+
+In the late 14 century DR, in the Western Heartlands a small band of mountain giants that lived in the northernmost mountains encircling the Battle of Bones battlefield were rumored to be led by an undead fire giant that had come from the deserts of Anauroch.
+
+Notable Mountain Giants
+ Grug, a herder of giant sheep in the Omlarandin Mountains.
+ Mimir the Wise, an immensly powerful mountain giant in Jotunheim that guarded the legendary Well of Knowledge.
+ Oogle, a shaman of the community of the high brows in the Orsraun Mountains.
+
+Appendix
+
+Notes
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Monster Manual V
+
+Monster Manual V is an accessory for the 3.5-edition of  ruleset.
+
+Contents
+ Monsters by Challenge Rating
+ Monsters by ECL
+ Introduction
+ The Monsters
+ Monster Feats
+ Glossary
+ Monsters by Type (and Subtype)
+ Feats
+ Spell
+ Templates
+ For Player Characters
+ Mounts/Companion Creatures
+ Race
+ Summonable Creatures
+ Items
+
+Description
+Monster Manual V contains a variety of new creatures as well as expanded variants on staple monsters.
+
+Index
+
+Creatures
+ •  • blackwing •  •  • demon ( • carnage demon •  •  • ) • demonthorn mandrake • devil ( • remmanon • ) • elemental mage (ken-kuni • ken-li • ken-sun) •  • ethereal defiler •  •  • garngrath • gem scarab • golem ( • magmacore golem) • graveyard sludge • greenspawn zealot • guulvorg • haunt (bridge haunt • forest haunt • taunting haunt) • hobgoblin • jaebrin•  • malastor •  • mind flayers of Thoon (Thoon disciple • shadow flayer • Thoon infiltrator • Thoon soldier • madcrafter • scyther • stormcloud of Thoon • Thoon hulk • Thoon elder brain) •  • ruin chanter •  •  • sanguineous drinker •  • shaedling •  • seige beetle •  (servitors: bonespur • serpentir • spectral rider) • spawn of Juiblex • spirrax • steelwing •  •  •  •  • ushemoi • verdant reaver • vinespawn •  • Wild Hunt ( • )
+
+Characters
+Dalmosh • Illurien • dragons of the Great Game (Chorranathau • Morlicantha) • vampires (The Black Duke • The Red Widow)
+
+Templates
+god-blooded (Gruumsh-blooded • Imix-blooded • Kord-blooded • Orcus-blooded • Vecna-blooded • Yeenoghu-blooded) • Phantom • Thoon thrall • Xorvintaal dragon • Xorvintaal exarch
+
+Items
+
+Magic
+
+Gallery
+
+Credits
+ Lead Designer:David Noonan
+ Additional Design: Creighton Broadhurst, Jason Bulmahn, David Chart, B. Matthew Conklin III, Jesse Decker, James "Grim" Desborough, Rob Heinsoo, Sterling Hershey, Tim Hitchcock, Luke Johnson, Nicholas Logue, Mike McArtor, Aaron Rosenberg, Robert J. Schwalb, Rodney Thompson, Wil Upchurch
+ Development Team: Stephen Schubert, Gwendolyn F.M. Kestrel, Mike Mearls, Matthew Sernett
+ Editors: Chris Sims, Logan Bonner, Scott Fitzgerald Gray
+ Freelance Manager: Gwendolyn F.M. Kestrel
+ Editing Manager: Kim Mohan
+ Design Manager: Christopher Perkins
+ Development Manager: Jesse Decker
+ Director of RPG R&D: Bill Slavicsek
+ Senior Art Director RPG: Stacy Longstreet
+ Art Director: Karin Powell
+ Cover Art: Henry Higginbotham
+ Interior Artists: David Allsop, Jason Chan, Miguel Coimbra, Carl Critchlow, Daarken, Wayne England, Tomás Giorello, Ralph Horsley, Warren Mahy, Izzy Medrano, Steve Prescott, Wayne Reynolds, Skan Srisuwan, Ron Spears, Anne Stokes, Arnie Swekel, Franz Vohwinkel, Anthony Waters, Eva Widermann, James Zhang
+ Cartographer: Jason Engle
+ Graphic Designer: Michael Martin
+ Graphic Production Specialist: Angelika Lokotz, Erin Dorries
+ Image Technician: Sven Bolen
+ Production Managers: Josh Fischer, Randall Crews
+
+Appendix
+External Links
+
+---
+
+## Morndinsamman
+
+The Morndinsamman (a dwarven term meaning "shield brothers on high" or "high dwarves") or Moradinsamman. was the group name of the dwarven pantheon.
+
+Base of Operations
+The majority of the Morndinsamman resided in Dwarfhome (when it was still located on Mount Celestia) under the leadership of Moradin, creator of the dwarves. Duerra and Laduguer lived in Hammergrim, having been exiled by Moradin.
+
+History
+In 1383 DR, Moradin led the Morndinsamman on a crusade against the dark powers of Hammergrim, slaying Duerra and Laduguer, but at the cost of Gorm and Haela.
+
+As of 1479 DR, Moradin, Berronar, Clangeddin, Dugmaren, Dumathoin, Marthammor, Sharindlar, Thard, and Vergadain remained in Dwarfhome as part of the Morndinsamman. Abbathor was serving Bane as an exarch in Banehold
+
+Following the Second Sundering, by the end of the 15 century DR, thirteen of the Morndinsamman deities appeared to have been restored to their portfolios as they were before the Time of Troubles of 1358 DR and the Spellplague of 1385 DR; the exception was Thard Harr, whose status at the time was unknown. The exact circumstances of their return are unclear.
+
+Members
+The gods of the Morndinsamman were:
+ Moradin, greater god and chief among the Morndinsamman; he was the god of creation and crafts, and the dwarven race as a whole.
+ Berronar Truesilver, intermediate goddess of hearth and home; consort of Moradin and matriarch of the dwarven pantheon.
+ Dumathoin, intermediate god of mining, gems, and underground exploration.
+ Sharindlar, intermediate goddess of fertility, romantic love, and healing.
+ Clangeddin Silverbeard, god of battle, valor, and honor in combat.
+ Vergadain, god of trade, wealth, negotiation, luck, trickery, and chance.
+ Dugmaren Brightmantle, god of scholarship, discovery, and invention.
+ Gorm Gulthyn, god of vigilance, defense, and protection.
+ Haela Brightaxe, goddess of luck and battle.
+ Marthammor Duin, god of wanderers.
+ Thard Harr, god of survival, hunting, and nature.
+ Abbathor, god of greed.
+ Hanseath, god of war, carousing, alcohol.
+ Tharmekhûl, demipower of the forge and molten rock, as well as war to a minor degree.
+
+Although typically counted as part of the Morndinsamman, the two duergar deities had been banished by Moradin, making them members-in-exile (in contrast to the drow deities, who were no longer considered part of the Seldarine at all):
+ Laduguer, god of weapons-crafting, magic, and the duergar.
+ Deep Duerra, the daughter of Laduguer and goddess of conquest, expansion, and psionics.
+
+Occasionally associated to the Morndinsamman, but also exiled from it, was the derro god Diirinka, an intermediate god of magic, knowledge, and cruelty, as well as his mad twin brother, Diinkarazan. He was considered to be the son of Moradin and Berronar; however, details are scarce.
+
+Appendix
+References
+
+Connections
+
+de:Morndinsamman
 
 ---
 
@@ -820,6 +1863,224 @@ de:Vergessene Reiche, Die Monster Faerûns
 
 ---
 
+## Montaron
+
+Montaron was an agent of the Zhentarim who served the organization during the mid–14 century DR alongside the necromancer known as  Xzar.In the Baldur's Gate novel, Montaron and Xzar are both secretly working for and killed by the Bhaalspawn Sarevok Anchev.
+
+Personality
+Seeing himself as exceptionally skilled, Montaron preferred to work for the Black Network alone. He saw little value in the lives of others but believed himself destined for great things
+
+He liked staying in cities more so than being out in nature, and would rather be out during all hours of the night.
+
+Relationships
+Montaron and Xzar absolutely could not stand one another. Though they both held a shared hatred for the Harpers organization.
+
+Over time Xzar developed some fondness for Montaron. When the halfling went missing, he was quite dedicated to ensuring his return.
+
+History
+In the, Montaron and Xzar were tasked with investigating the iron crisis that plagued trade throughout the Sword Coast. They traveled along the Coast Way, en route to the Amnian town of Nashkel.
+
+By the following year, the pair were still traveling through Amn and set up in the city of Athkatla. Montaron was captured by Galvarey's group of Harpers and seemingly imprisoned within his estate in the form of a bird.
+
+In fact Montaron was killed, and his "transformation" was just a ruse to draw out and assassinate his partner Xzar.
+
+Appendix
+Appearances
+Novels
+ Baldur's Gate
+Video Games
+Baldur's Gate series (Baldur's Gate • Shadows of Amn)
+
+Behind the Scenes
+In the Baldur's Gate series of video games, Montaron is voiced by Earl Boen.
+
+Notes
+
+References
+
+Connections
+
+de:Montaron
+
+---
+
+## Moonstone Palace
+
+The Moonstone Palace (also known as Moonflower Palace) was the home of Queen Amlaruil Moonflower in the city of Leuthilspar on the island of Evermeet.
+
+Description
+It was a huge white structure made from marble, alabaster and crystal, surrounded by the guardian trees, and situated above the city of Leuthilspar. Its featured slender towers, flying buttresses and sky bridges.
+
+Interior
+Dome of Stars
+The throne room was a high and vaulted round chamber ringed with galleries and with a huge glass dome at its top. The dome was made of theurglass and was composed of a mosaic of stained panels, which turned clear by night in order to give a view of the stars. The room had a dark marble floor. The throne itself was gilded and hovered  from the floor.
+
+Grounds
+The grounds of the palace were very large, and contained hedge mazes, gardens, parks, and lakes. The gardens were said to be blessed by the Seldarine.
+
+Accommodation
+The rooms of the palace were expansive and offered very good views of Leuthilspar and the ocean and forest.
+
+Inhabitants
+Apart from Queen Amlaruil herself, the Council of Matrons frequented the palace, in addition to Amlaruil's top mages, who had their own towers. There were several lesser palaces in which Amlaruil's family lived.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Mother Minx's
+
+Mother Minx's was a festhall in Scornubel.
+
+Appendix
+References
+
+---
+
+## Morgwais Nightmeadow
+
+Lady Morgwais Nightmeadow, sometimes known as the Lady of the Wood or the Red Lady, was the wood elf ruler of Reitheillaethor in the High Forest during the 14 and 15 centuries DR.
+
+Description
+She had long auburn hair and a copper-red complexion.
+
+Personality
+The Lady of the Wood had a wry sense of humor and like others of her kind could be quite flirtatious to those she found worthy of her attention. While she sparkled with merriment and held a joyous celebration for life, Lady Morgwais was a well-respected leader among the elves of her village and the surrounding High Forest. She remained vigilant against any threat that may have had a chance to harm her people.
+
+Activities
+Lady Morgwais served as the head of the Caerilcarn, also known as the "Council of the Wood", a gathering of leaders from among the wood elf tribes of the High Forest and moon elves of the Silver Marches.
+
+Relationships
+Morgwais was the former lover and partner to Aubric Nihmedu, Blademajor of the Swords of Evereska. During their time together she became a mother twice over, helping raise their son Galaeron, a sentry of the Evereskan Tomb Guard, and Keya, one of the youngest members of the city's Long Watch. Morgwais' relationship with Galaeron became troubled after he began his studies of shadow magic, and the two no longer shared the extrasensory bond held by elven family members.
+
+Though she thought very little of humans, Morgwais had a flirtatious relationship with the Elminster and held him in high regard.
+
+Morgwais had an uneven relationship with Turlang, the treant master of the High Forest. While at one time she trusted the ancient and thoughtful treant, and he in turn respected her sense of judgement, their relationship became troubled over the course of the many decades.
+
+History
+Morgwais met her mate Aubric when a war broke out between the elves of the High Forest and a band of orcs. Enamored with the bladesinger from Evereska, she reloacted with him to the elven LastHome and started a family with one another. Over the span of 60 years they raised their two children within the city. After a third elven babe died in childbirth, Morgwais became heartbroken and blamed her own unhappiness for the child's death. She returned to her home in the High Forest shortly after.
+
+Over time she came to lead the newly-founded wood elf settlement of Reitheillaethor and arose as a leader among many elves in the North.
+
+By the late 15 century DR, Morgwais had began to lead the Caerilcarn's efforts to restore the long-lost kingdom of Eaerlann and reunite the nomadical elves of the High Forest under a shared banner.
+
+Appendix
+
+Appearances
+Novels
+ The Summoning • Forsaken House
+References
+
+---
+
+## Moon Knights
+
+The Moon Knights were a military order of the temple of Sehanine Moonbow in Evermeet in the 14 century DR.
+
+Organization
+They numbered around eighty and consisted of clerics of Sehanine Moonbow, all of whom were trained swordsmen. Some members possessed skills in healing.
+
+In the 1370s DR, they were under the command of Ferryl Nimersyl.
+
+History
+In 1374 DR, Ferryl Nimersyl and the Moon Knights joined Seiveril Miritar's crusade.
+
+He and all the Moon Knights died in the final battle against the daemonfey at the Vale of Lost Voices.
+
+Appendix
+
+References
+
+---
+
+## Morth Fartheen
+
+Morth Fartheen was one of the most famous guides in Triboar during the 14 century DR.
+
+He possessed an uncanny sense of direction. It was said that he always knows which way he was facing at any moment.
+
+Appendix
+References
+
+---
+
+## Moongleam Tower
+
+Moongleam Tower was the base of operations for the Harpers in Everlund.
+
+Structure
+Built around 1172 DR, the hard black stone keep was visible from almost every part of Everlund. Comprising of four narrow, cylindrical towers joined together, its roof was crowned by a open turret where a signaling mirror shaped like a crescent moon stood. Moongleam Tower was surrounded by a dry moat although this could be quickly filled by a system of cisterns and pumps.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Morthil
+
+Morthil was the recipient of one of Ithraides's telkiira. Later he become the Grand Mage of Yuireshanyaar becoming a key player in that kingdom for several centuries. He also founded a long-standing society of wizards known as the Seneirril Tathyrr, or the Mooncrescent Order
+
+References
+
+---
+
+## Monthor
+
+Monthor was a noble house of Cormyr in the late 14 century DR.
+
+Base
+Circa 1373 DR, the family owned a mansion in Marsember named Monthorhall.
+
+Members
+ Lady Baerdra Monthor, who opposed the Obarskyrs.
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Moonvines
+
+Moonvines was a small elven village in the Moonwood.
+
+Inhabitants
+Moonvines was also the home of the two elves Innovindil and Tarathiel.
+
+References
+
+---
+
+## Mooshie's Grove
+
+Mooshie's Grove was the home of Montolio Debrouchee ("Mooshie") and was a diamond-shaped grove of trees and piled stone walls in the Rauvin Mountains near the Coldwood.
+
+Structure
+The grove featured elevated walkways and beautifully designed huts. It was surrounded by tall pines and emitted a magical aura.
+
+History
+
+Drizzt
+In 1340 DR, Mooshie's grove was the site of Drizzt Do'Urden's ranger training. At one point, the grove was visited by Roddy McGristle, who was hunting Drizzt, but Montolio sent him on a false trail to Morueme's Cave. When McGristle later discerned Montolio's deceit, he allied himself with the orc king, Graul, and led an assault on the grove. Drizzt and Montolio defended the grove against the attackers, secretly aided by Kellindil and his elven cousins. Some time after the assault, Montolio passed away and Drizzt buried him within the grove's soil. He would later spent the winter in the grove before fulfilling his promise to his mentor to go and find his place in the world, taking some of Montolio's books with him.Sojourn
+
+Drizzt would later return to Mooshie's grove in 1357 DR, on his way back to the Underdark entrance he emerged from, accompanied by the elf Tarathiel, where he discovered a unicorn in the grove. The creature allowed the drow to stroke his neck before vanishingStarless Night
+
+Pikel
+In 1370 DR, as a test, Tarathiel took Pikel Bouldershoulder, the dwarf druid from the Spirit Soaring, to the grove, where they encountered a unicorn, symbolic of the nature goddess Mielikki. Pikel befriended the unicorn, and Tarathiel considered him to have passed the test.
+
+Appendix
+References
+
+---
+
 ## Monster Manual v.3.5
 
 Monster Manual v.3.5 is a core sourcebook for the 3.5-edition of  ruleset.
@@ -856,6 +2117,581 @@ Appendix
 External Links
 
 Connections
+
+---
+
+## Moonshae
+
+Moonshae might refer to:
+ The Moonshae Isles, an archipelago off the west coast of the Faerûnian continent
+ Moonshae, by Douglas Niles
+ The Moonshae Trilogy, by Douglas Niles
+ Darkwalker on Moonshae, the first book in the Moonshae Trilogy
+ Prophet of Moonshae, the first book in the Druidhome Trilogy
+ A dialect of Illuskan
+
+---
+
+## Moonwood
+
+The Moonwood was a large forest north of Silverymoon in the Silver Marches. By about 1460 DR, the Moonwood had grown together with the Cold Wood and the larger forest was known as the Glimmerwood, although the elves and the locals still referred to it as the Moonwood.
+
+Geography
+The Moonwood was located between Silverymoon and Mithral Hall and was bound by the River Surbrin to the west and the River Redrun to the northeast. Directly to the north of the Moonwood was the Druarwood; across the Redrun were the Night Trees forest groves and, beyond them, the Cold Wood. It was one of the woodlands that were collectively called the Moonwoods by some local folk.
+
+By the mid–15 century DR, these four woods had grown together and became known as Glimmerwood.
+
+Flora
+The Moonwood was dominated by evergreens, shadowtops, and duskwoods.
+
+Inhabitants
+Although the Moonwood was known to be free of orcs and other goblinkind, the forest was known to be the haunt of many lycanthropes, primarily in the northern reaches. Many of these lycanthropes were members of the People of the Black Blood, while others were members of the Eldreth Veluuthra. As of 1374 DR, the two organizations often clashed, and the greater number and superior organization of the People of the Black Blood meant the odds were in their favor.
+
+The southern section of the Moonwood was home to small bands of moon elves. Druids also resided in the Moonwood, and were known for crafting amber acorn necklaces, which could summon powerful allies of nature.
+
+History
+During the rise of the Kingdom of Many-Arrows in the, orc tribes raided the outer edges of the forest for lumber. In retaliation, the pegasus-riding elf warrior Tarathiel attacked them.
+
+Notable locations
+Temples and shrines
+The Mouth of Song: This treeless hill was home to a small temple of Eilistraee.
+One Stone: This was a single massive boulder 12 ft (3.7 m) high ringed with stone cairns around it, which was sacred to the Uthgardt Sky Pony tribe.
+
+Settlements
+Claw Hollow: This wild dell was home to one of the largest bands of the People of the Black Blood.
+Moonvines
+Quaervarr
+
+Other locations
+The Herald's Holdfast: This was the magically warded subterranean stronghold of the High Herald know as Old Night.
+The Lonely Tower: A tower on the outskirts of the northern edge of the forest.
+ Methegrist, a ruined fortress that once belonged to the paladins of the Moonwatchers.
+
+Notable inhabitants
+Elves
+ Ellifain
+ Innovindil
+ Hralien
+ Sinnafain
+ Tarathiel
+ Tos'un
+
+Appendix
+Appearances
+Appearances
+
+References
+
+---
+
+## Mount Waterdeep
+
+Mount Waterdeep was the name of the mountain on and around which the city of Waterdeep was built. It was a rough, rocky mountain and stood some  above the sea level, to the west of the city. Beneath the mountain was the notorious Undermountain. The whole of Mount Waterdeep was considered to be in the Castle Ward.
+
+Geography
+Mount Waterdeep shielded the city from the worst coastal storm winds. Inside the heart of the mountain there was a freshwater spring, that once spewed out and down its seaward rocks and into the sea below. Later on this spring was redirected into large-cistern caverns that were built into the upper reaches of the mountain, which then went down pipes into the city's sewer system.
+
+History
+There was a ballad that spoke an ancient city sunk into the sea and the gods raised a head stone for it to mark the grave. That was Mount Waterdeep.
+
+Mount Waterdeep was once home to the underhalls of Melairbode, a shield dwarf hold.
+
+Notable Locations
+ Waterdeep's Peaktop Aerie, which housed the Griffon Cavalry riders, sat on this mountain top.
+ A lookout tower.
+ A Celestial Stairway
+ On its seaward side rested eleven gigantic triple catapults.
+ Several sea caves existed on the western side of the mountain. These were all watched by the City Guard.
+ The south seacave was connected to Undermountain by a set of hoists large enough to move a sailing ship.
+ The Cliffride, a steep gravel path that ran along the western edge of Mount Waterdeep's northern spur, connecting the festhall Silavene's, the rental villa of Fair Winds, and, at its southern end, the bardic college of New Olamn.
+
+Inhabitants
+The reclusive monk Hlam lived in a cave halfway up the side of the mountain.
+
+Appendix
+
+Gallery
+
+References
+
+---
+
+## Mordak Brelliar
+
+Mordak Brelliar was the current apprentice of First Lord Maalthiir, often serving in the role as his most prolific agent. Mordak believed that the powers of Hillsfar should align with the Zhentarim, believing their combined power capable of reigning over the entire Moonsea region.
+
+Appearance
+It was said that Mordak resembled a younger, less charismatic version of Khelben Arunsun.
+
+History
+Despite the possibilities of Mordak's ambitious scheme, his master did not share his view, not wanting to bow to Manshoon and the other Zhents. Mordak planned for years to eventually overthrow the First Lord, though the latter eventually caught wind of the plans. When the time came for Mordak to enact his treacherous coup, Maalthiir stopped his apprentice and reversed the attack. Maalthiir's powerful magics put Mordak directly under his control; among these were dominate person, geas, and suggestion. From that time on, Mordak was unwillingly and unwaveringly faithful to his master, unable to progress by any of his own means.
+
+Appendix
+Appearances
+ Mysteries of the Moonsea
+
+References
+
+---
+
+## Moon (coin)
+
+A moon was a crescent-shaped coin minted by the city of Silverymoon.
+
+Circa 1358 DR, the moon was referred to as an Electrum Moon, and was a shining blue crescent-shaped electrum coin, valued at 2 ep (1 gp) in the city of Silverymoon and 1 ep elsewhere.
+
+By 1372 DR, the metal had changed and the moon was a shining gold crescent. It was accepted throughout the Silver Marches at a value of 2 gp.
+
+Then, in the late 1480s and early 1490s DR, electrum was in use again. Still a shining blue crescent-shaped coin, it was valued at 2 unicorns (platinum pieces) in Silverymoon, and 1 platinum piece elsewhere. In addition, there was also the eclipsed moon, which consisted of a moon stamped with a silver wedge to complete its round form. It was worth 5 unicorns in Silverymoon, or 2 unicorns elsewhere.
+
+Appendix
+See Also
+ Currency
+
+References
+
+---
+
+## Mondar Bleth
+
+Mondar Bleth was the owner of a small farmstead about a mile from Suzail, which he and his family had settled shortly after Ondeth Obarskyr settled in the area. He was killed along with most of his family by elves in 16 DR and his farmstead was razed. Mondar wielded a large heavy-hafted sword that would later become known as Ansrivarr.
+
+Appearance
+Mondar was a very large man with an aggressive temper. He was balding by 16 DR but had a very long beard, almost to his belt. He had deep lines on his forehead.
+
+Relatives
+Minda Obarskyr, originally Minda Bleth, was Mondar's sister, and Mondar had a son, Arphoind Bleth. Mondar's wife died while giving birth to their son.
+
+History
+Mondar came to the land that would become known as Suzail in 10 DR, but did not want to settle in the confines of the main village, instead choosing a glade a mile to the northwest, although Ondeth disagreed with this decision. He and Ondeth eventually became good friends, but he did not like Baerauble Etharr.
+
+In 16 DR, during the night, the elves burned his farmstead to the ground and killed all of its occupants. This was due to the position of the farmstead—the elves had previously warned that they would only allow settlement in the area immediately surrounding Suzail. In an effort to keep the peace between the humans and the elves, the massacre was blamed on a goblin raid. Minda and Arphoind Bleth survived the attack because they were not home at the time.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moonstone
+
+Moonstone was an opaque white form of feldspar found in the Realms.
+
+Description
+Moonstones took on a milky bluish sheen when polished and were usually cut cabochon for jewelry and ornamentation. A typical specimen had a base value of 50 gp, but they had a spike in value during the Spellplague era, typically selling for 100 gp.
+
+Moonstones were considered sacred by followers of Corellon, Eilistraee, Hathor, Sehanine Moonbow, Selûne, and Sharindlar—appropriate for sacrifice, or to be consecrated for use, or recognized as boons or omens when found.
+
+Powers
+Moonstones captured light and would glow faintly in darkness after nearby light sources were extinguished. The sorcerer Pelathyon Hawkryn of Impiltur (whose family owned lucrative moonstone mines) was a proponent of what he called "moonstone magic"—the ability of moonstone dust to substitute for other non-organic components of spells, specifically various abjuration spells, such as walls and barriers, and certain evocation spells where powdered moonstone provided storage of magical energy and the quick release of that energy in a new direction. Careful research was required to determine the optimal amount of moonstone required for each substitution.
+
+Moonstones were essential in the making of items such as a moonstone mask, a lesser staff of Silverymoon, and the legendary moonblades of Evermeet. The powers of a moonblade were dependent upon its moonstone and were nullified if the moonstone was removed.
+
+Reputation
+Moonstone was a common stone among the drow, a gem worn by drow of average station. Wearing one was considered a bold choice and marked one as a rebellious youth or a very ambitious priestess.
+
+Rumors and Legends
+Legends about lycanthropes said that the mere sight of a moonstone would cause a were-creature to shift to animal form. Though this was not true (in fact, many lycanthropes wore moonstones in jewelry), magic items that affected lycanthropes or warded against lycanthropy often used moonstones in their creation and ornamentation. This may have been related to, or an outgrowth of, the fact that moonstones were considered sacred to Selûne by her followers, many of whom hunted down evil lycanthropes.
+
+If moonstones appeared in a dream, it was considered a warning of danger.
+
+Appendix
+See Also
+Moonstone dragon
+Moonblade
+Nulathoe's ninemen
+Presper's moonbow
+
+Gallery
+
+Appearances
+
+External Link
+
+References
+
+---
+
+## Morn
+
+The Morn family were nobles that ruled over the area of Daggerdale for centuries until mid-to-late 14 century DR. Since the arrival of Zhentarim agents, only two known survivors of the family were alive as of 1367 DR.
+
+Members
+ Colderan Morn, twice-deceased great-grandfather of Randal Morn.
+ Belasaria Morn, wife of Colderan, killed by drow poisons.
+ Randal Morn, Lord of Daggerdale.
+ Silver Cormaeril, sister of Randal Morn.
+
+Appendix
+
+References
+
+---
+
+## Morningmist Hall
+
+Morningmist Hall was a temple to Lathander in Marsember, Cormyr. It was extremely beautiful in design, that served as a sign of hope within the dangerous city during the 14 century DR. It was situated on one of the city's sandy islands near its centre.
+
+Description
+It was described by Orblin of Hlondeth as "a bright light of hope in the dark heart of decadent Marsember." The pink walls of the hall were constantly lit by magical faerie fire. Its slender spires
+
+Staff
+It was led by High Morninglord Chansobal Dreen and was served by 16 priests and 12 other staff members.
+
+They maintained a fleet of 6 armed sea-faring vessels each manned by two dozen sailors.
+
+Services
+In addition to the full array of services offered by the temple, including blessings and weddings, they hunted smugglers and pirates in the Inner Sea and used the recovered treasure to fill their coffers.
+
+Appendix
+Appearances
+Adventures
+Dungeon #113, "Practical Magic"
+References
+
+FR:Antichambre de la brume matinale
+
+---
+
+## Moonsea (lake)
+
+The Moonsea, originally known as the Dragon Sea, was a deep natural lake just north of Cormanthor. The Moonsea gave its name to the whole Moonsea region, as the name Moonsea applied to both the lake and the lands around the lake.
+
+Rivers
+River Duathamper
+River Lis
+Stojanow river
+River Tesh
+
+Rumors & Legends
+The residents of Elmwood a town on the shores of the Moonsea, told legends of a vicious dragon turtle, the size of Elmwood, who dwelt in the depths of the lake.
+
+Appendix
+
+Gallery
+
+Appearances
+Video Games
+Neverwinter Nights: Tyrants of the Moonsea
+References
+
+FR:Mer de Lune (lac)
+
+---
+
+## Moonstar agent
+
+Moonstar agents, also referred to as Teukiir, were members of the organization known as the Moonstars, which was founded by Khelben Arunsun.
+
+Ex-Moonstar Agents
+Whether intentional or otherwise, any agent who went against the code of the Tel Teukiira to the point of endangering a fellow agent or left the group would quickly garner a reputation among the group. As such, they could not progress any further as an agent or use any special ability granted from such. Only a petition to Khelben or an atonement spell could bring an agent back in the group's good graces.
+
+Appendix
+
+See Also
+ Moonstars
+
+References
+
+---
+
+## Moon domain
+
+The Moon domain was a deity domain that granted divine spellcasters like clerics with spells and powers related to the moon, perception, and lycanthropes.
+
+Deities
+
+Powers
+The spellcaster gained the ability to turn and destroy lycanthropes as a good cleric would turn undead.
+
+Spells
+Novice spellcasters were able to use the faerie fire, moonbeam, and moon blade spells. Clerics of some experience could cast good hope,In v.3.5, this spell replaced the emotion spell. See page 88 of Player's Guide to Faerûn. moon path, and permanent image. Those that were masters of this domain had access to insanity, animal shapes, and moonfire.
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Morhion Gen'dahar
+
+Morhion Gen'dahar was known to many as the greatest wizard in the city of Iriaebor in the mid–14 century DR.
+
+Personality
+Morhion spoke impassively, rarely showing his emotions, which made him hard for others to read.
+
+Possessions
+He owned a tower in Iriaebor.
+
+Description
+Morhion was more than  tall and broad-shouldered. He was regal and handsome, with fine facial features, deep blue eyes, with a long mane of golden hair. On the palm of his left hand he had an old scar, a mark known as the Rune of Magic. His voice was tenor and burnished.
+
+He wore a plain pearl-gray hooded robes of expensive-seeming make. He also occasionally wore midnight-blue leathers and a misty-gray cloak. He bore a staff made of ash-wood.
+
+History
+Morhion Gen'dahar was the first member to join the Fellowship of the Dreaming Dragon, after Caledan Caldorien and Estah.
+
+In about 1357 DR, the Fellowship of the Dreaming Dragon captured Ravendas after defeating her army at Hluthvar. Once Ravendas was alone with her Harper sister, Kera, Ravendas convinced her to release her and then strangled her with the bonds that previously held her. That was the day that the Fellowship disbanded.
+
+After Kera's murder, Caledan Caldorien had a death wish and followed Ravendas to Darkhold and somehow managed to slip through Darkhold's defenses. Morhion knew that Caledan would die if he attempted to kill Ravendas in Darkhold, so he followed him and allowed himself to be captured by the Zhentarim. The Zhents took him to Ravendas and he revealed that Caledan had managed to get inside Darkhold. In return, Ravendas allowed Morhion to escape, but instead found Caledan and told him what he had done, Caledan has disdained Morhion since that day. To escape from Darkhold, Morhion learned of a spirit named Serafi who haunted the caverns beneath the keep. Morhion summoned the undead spirit of Serafi so that they might find a way to escape. The spirit told them of a cavern that led out of the keep, but Morhion had to pay a price: once a month, on a full moon, the spirit of Serafi came to Morhion and drank his blood, with the pact remaining until Morhion died.
+
+During the time the Fellowship was disbanded, Morhion worked as a court wizard for some time.
+
+When Caledan returned to Iriaebor in 1363 DR, and the rest of the Fellowship came together, Morhion accompanied them in reclaiming Iriaebor, after they had sought information about The Book of the Shadows.
+
+After defeating the Shadowking, Caledan forgave Morhion as he realized that he was trying to help him all along. This was one of the only times Morhion showed true emotion, when he smiled.
+
+Appendix
+References
+
+---
+
+## Mourel Duskwalker
+
+Mourel Duskwalker was a star elf wizard turned brain in a jar who dominated the Night Realm.
+
+History
+He was corrupt and hungry for power. From his citadel of glass, Tir'in'tiral, in the demiplane of Sildëyuir, Mourel marshaled evil forces to conquer the star elves but was eventually defeated. He was interred in Tir'in'tiral and it, plus all of the towers connecting to it, were cut off from Sildëyuir to become a separate demiplane known as the Night Realm. Afterward, tales of The Duskwalker were became stories for frightening children.
+
+Unbeknownst to the mages who cut it off, a portal that connected the Night Realm to the Yuirwood still existed, though it was inactive. In addition, Mourel's apprentice Kyjal Stardancer, who was the only survivor of Mourel's defeat, had managed to extract the brain of his master and placed it a jar of embalming fluid, and thus Mourel lived on as a brain in a jar. It was then placed in the chest cavity of a girallon zombie.
+
+Around 1372 DR, a nilshai sorcerer named Tolg'byri found and reactivated the portal to get to the Night Realm in order to muster an army with which he could launch his own attacks on Sildëyuir.
+
+Unfortunately for Tolg'byri, his intrusion upon the Night Realm drew the attention of Mourel and the animated corpses also interred in the mausoleum that had been connected to Tir'in'tiral. These, along with Mourel's magical experiments and the undead remnants of his army began fighting with Tolg'byri's troops. Mourel also used the opportunity of his renewed link to the Material Plane to kidnap people during the night when the portal was active. He also managed to steal the Grail of Shargrailar from a merchant who had camped near the portal.
+
+During the fighting, adventurers found their way into the Night Realm and slew Mourel's brain and his girallon once and for all.
+
+Appendix
+References
+
+Appearances
+ The Twilight Tomb
+
+---
+
+## Mordaine
+
+Mordaine was a human evoker in Candlekeep.
+
+Appendix
+References
+
+External links
+
+Connections
+
+---
+
+## Morag
+
+Morag  was a queen of the Old Ones, a powerful and cruel reptilian race.
+
+Activities
+During her time away from the Realms, Morag desired to regain her power and turn the continent of Faerûn into a jungle as it once was and once again emerge as its ruler.
+
+History
+Tens of thousand years before the Era of Upheaval, the continent of Faerûn was a jungle. When an ice age came over the land, the Old Ones were all but wiped out. In order to sustain themselves and keep safe from the climate shift, Morag and a handful of her subjects entered an alternate dimension via a magical device known as the Source Stone.
+
+Many years later during the 1 century DR, the settlement that came to be known as Neverwinter was constructed over the area where the Source Stone lay.
+
+In the, Maugrim Korothir heard rumors regarding the Source Stone, discovered the long-lost item, and used it to trigger its defense mechanism, the Wailing Death plague. Maugrim became infected and was near-death, but Morag used her power to heal the man and share with him her ambitions. Morag commanded Maugrim to spread the Wailing Death throughout the city of Neverwinter, as each death that occurred within the vicinity of the Source Stone helped grow her power.
+
+Morag began to appear in the dreams of Aribeth de Tylmarande, following the execution of her lover Fenthick Moss. The ancient one lured Aribeth with promises of exacting revenge against Neverwinter for Fenthick's death. Eventually Aribeth capitulated and agreed to lead a Luskan army in an attack on Neverwinter. Meanwhile, Morag directed Maugrim and his cult to seek out the four Words of Power, artifacts linked to the Old Ones that could help Morag free herself from the Source Stone.
+
+Unfortunately for Morag, the Hero of Neverwinter recovered three of the Words before Maugrim, albeit not the most powerful one of the set. With the power from the single Word of Power and the lives claimed by the Wailing Death, Morag broke free from the Source Stone. However the Hero killed Maugrim, recovered the fourth Word of Power and confronted Morag within her demiplane. Morag fought the Hero in a terrific fight but was eventually slain and the Source Stone's realm imploded upon itself.
+
+Appendix
+
+Appearances
+
+External Links
+
+Gallery
+
+References
+
+---
+
+## Moonshae (sourcebook)
+
+Moonshae is a 1st-edition Advanced Dungeons & Dragons accessory that was set in the Forgotten Realms.
+
+Description
+Moonshae is a 64-page booklet comes wrapped in a removable cover. Included is a fold-out color poster map of the Moonshae Isles. This large color insert has maps of the Moonshae Isles printed on both sides. One side is at a scale of 20 miles per inch, while the reverse is scaled at 30 miles per inch. Both maps contain the same amount of detail, the major difference being that there is less open sea surrounding the 20-miles-per-inch map. One of the maps lines up with the edges of the maps in the Forgotten Realms Campaign Set. Two appendixes explain using the Moonshaes in a campaign and the magical items of the Moonshaes.
+
+Moonshae describes the climate, topography, and economy of the region, including the Korinn Archipelago, which was created by Aaron Allston and first detailed in the module Treasure Hunt. It also details two regional cultures and their lands: the indigenous people known as the Ffolk, and the invading Northmen.
+
+Moonshae discusses the character races, character classes, politics, conflicts, geography, and economics within the Moonshaes. It also describes the major supernatural entities which exist in the countryside and seas. Several specific locales of the Moonshaes are also described, from the perspective of Elminster as a tour of the people and places he has visited. The style of presentation is similar to that used in the Forgotten Realms Campaign Set.
+Contents
+ Introduction
+ Moonshae Overview
+ Deities of the Moonshaes
+ Specific Locales of the Moonshaes
+ Appendices
+ 64-page booklet with a full-page political map, a full-page economic map; descriptions of the Earthmother's Children, Kazgoroth, and Blood Warriors; magic items unique to the Moonshaes
+ 21" x 33" double-sided map of the entire Moonshae island chain out to Gull Rocks and Wave Rocks in the Trackless Sea, and a close-up of the major islands including Nerth and Sunset
+
+Index
+Characters
+Cymrych Hugh
+
+Creatures
+blood warrior • firbolg • human (Ffolk • Llewyrr • Northmen) • unicorn
+
+Locations
+Bodies of Water Sea of Moonshae • Trackless Sea
+Buildings and Sites  • Moonwell
+Islands Alaron • Gwynneth • Korinn Archipelago • Moonshae Isles • Moray • Norheim Isles • Norland • Oman's Isle • Snowdown
+Realms Callidyrr • Corwell • Gnarhelm • Moray • Norheim • Norland • Oman • Snowdown
+Settlements Arfinnsheim • Arndtbergom • Caer Callidyrr • Follebu • Sunderstaad
+Tunnels Tunnels of Dwarvenhome
+
+Magic
+Items avenging hammer • black sickle • cauldron of doom • druid staff • druid's cudgel • figurehead of blessing • folding coracle • golden sickle • helm of seabreathing • mug of plenty • runestick • Sword of Cymrych Hugh • torque of the Goddess • yoke of boar harnessing • yoke of flight • yoke of underwater action
+
+Religions
+Aspects Earthmother • Kamerynn • Kazgoroth • Leviathan • The Pack
+
+Miscellaneous
+Food & Drinks  •  •  •  •  •  •  •  •
+Materials & Substances  •  •
+Professions  •
+Vessels  • coracle • longship
+
+Gallery
+
+Credits
+ Design: Douglas Niles
+ Editing: Mike Breault
+ Cover Art: Tim Hildebrandt
+ Interior Art: George Barr
+ Cartography: Dave S. LaForce
+ Typography: Kim Janke
+ Keylining: Stephanie Tabat
+Appendix
+Background
+The colored maps of the Moonshae Isles in this product misspell the island of Alaron as "Alaorn," though the location is spelled correctly in the text itself.
+Notes
+
+External Links
+
+References
+
+de:Moonshae: Die Mondschein-Inseln
+
+---
+
+## Monstrous Compendium Kara-Tur Appendix
+
+Monstrous Compendium Kara-Tur Appendix is a 2-edition Advanced Dungeons & Dragons accessory. It is part of the Oriental Adventures campaign setting and set in Kara-Tur.
+
+Description
+Following the modular format of the Monstrous Compendium series, the Monstrous Compendium Kara-Tur Appendix consisted of 64 5-hole punched loose-leaf pages that could be inserted into the customizable Monstrous Compendium binder. It also included a "How To Use This Book" page with an alphabetical index and 4 pages of random encounter charts, with the remainder consisting of the descriptions of the fictional monsters. Also included were 4 full-page illustrations on heavier card stock.
+
+Each entry within the appendix provides a detailed description of the creature, including its physical appearance, habits, habitats, combat abilities, and special powers.
+
+Index
+Creatures
+
+Gallery
+
+Credits
+ Designer: Rick Swan
+ Design Review: Jon Pickens
+ Editor: Andria Hayday
+ Art Coordinator: Peggy Cooper
+ Cover Art: Jeff Easley
+ Interior Art: Thomas Baxa
+ Typesetting: Angelika Lokotz
+
+Appendix
+See Also
+ Images from Monstrous Compendium Kara-Tur Appendix
+External Links
+
+ RPGGeek
+
+---
+
+## Mount Galardrym
+
+Mount Galardrym was a peak in the Sword Mountains by the Sword Coast North.
+
+Geography
+It lay just over 10 miles (16 kilometers) from the valley of Felrenden.
+
+Inhabitants
+The mountain was home to the belligerent hill dwarves of Clan Forgebar, numbering sixty to seventy members. They lived in a series of caves carved into the side of Mount Galardrym.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2
+
+References
+
+---
+
+## Moonsea skysentinel
+
+The Moonsea skysentinels were the aerial mounted sentries of the Knights of the North. They soared through the skies of the Moonsea region during the 14 century DR, keeping vigilant watch for signs of Zhentarim activity.
+
+Culture
+The aerial cavalry of the Knights of the North held a collective, deep-seated hatred for the Zhentarim, especially their malevolent skymages.
+
+While they often came to the aid of their comrades who fought as foot soldiers and ground cavalry, skysentinels saw themselves as a cut above their fellow Knights of the North. While tended to garner more acclaim for their spectacular battles in the sky, they were often quite solitary in nature.
+
+Activities
+The skysentinels rode atop their dire hawk mounts, searching for enemy movement and relaying information between the different Knights of the North cells. They carried out quick-strike, harrying assaults and rarely let themselves get drawn out into lengthy battles.
+
+Skysentinels regularly engaged the Zhentarim skymages, the Black Networks own aerial force that took to the skies over the Moonsea.
+
+Abilities
+To better combat Zhentarim mages, novice skysentinels and their dire hawks were trained on methods to resist magicl spells and spell-like effects. Similarly, more experienced skysentinels learned how to cast spells to better protect themselves in combat, and even turn away spells cast at them by their foes.
+
+Possessions
+The skysentinels traveled light and armed themselves to best carry out hit–and–run tactics. They often invested their gold on well-made saddles and finely-crafted bows.
+
+Relationships
+While the skysentinels were not terribly well known across the Realms their cause was often well-appreciated by the folks of the Moonsea who shared their hatred of the Zhentarim. Their outstanding presence was just as often perceived with amazement as it was with object terror.
+
+The skysentinels' majestic dire hawks were fiercely loyal to their riders, and each pair shared a unique bond that grew throughout their repeated forays to the skies.
+
+Members
+When one of the Knights of the North proved themselves worthy they were permitted to follow the path of the Skysentinel. At any given time there were no more than a few of their kind among the entirety of the Knights' organization.
+
+They recruited their members from throughout the Moonsea, but also the neighboring nations of Cormyr, Sembia, and the many communities of the Dalelands.
+
+Notable Moonsea Skysentinels
+ Joatra Stelmar, master skysentinel and leader of the group circa 1372 DR.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mordenkainen's sword
+
+Mordenkainen's sword brought a shimmering, swordlike plane of force into being, striking at any opponent within its range.
+
+Components
+The spell required verbal, somatic and material components. The materials required were a sheet of lead, a piece of opaque glass, a piece of cotton or cloth, and some powdered green-colored gem, such as peridot, topaz, zircon, tourmaline, chrysoberyl etc.
+
+Appendix
+
+Gallery
+
+Appearances
+
+Further Reading
+
+References
 
 ---
 
@@ -950,6 +2786,119 @@ FR:Monastère de la Rose jaune
 
 ---
 
+## Monstrous Compendium Al-Qadim Appendix
+
+Monstrous Compendium Al-Qadim Appendix is a 2-edition Advanced Dungeons & Dragons accessory. It is part of the Al-Qadim campaign setting and set in Zakhara.
+{{Quote|Glittering treasures lie undisturbed in darkened caves. Angry genies seethe in magically-sealed bottles. Gigantic birds of prey roost atop unscalable mountain peaks. Sea serpents twist and slither beneath blue waves. Alongside a world of stunning beauty and idyllic leisure exits a harsh realm of legendary beasts and monsters.The AL-QADIM appendix for your Monstrous Compendium contains 64 pages of monsters drawn from the fables of the Middle East. The creatures in this appendix are perfect for an AL-QADIM campaign, or for spicing up any AD&D game desert setting.}}
+
+Description
+The Monstrous Compendium Al-Qadim Appendix consisted of 64 5-hole punched loose-leaf pages, unnumbered, and included a "How To Use This Book" page with an alphabetical index, a one-page index of appropriate monsters for the Al-Qadim setting from other books of the Monstrous Compendium''-series, two pages of random encounter charts, and a sheet with the compiled game statistics, with the remainder consisting of the descriptions of the fictional monsters. Also included were 4 full-page illustrations on heavier card stock.
+
+Contents
+Ammut
+Ashira
+Asuras
+Black cloud of vengeance
+Buraq
+Camel
+Camel of the Pearl
+Copper automaton
+Debbi
+Desert centaur
+Desert giant
+Elephant bird
+Gen
+Air gen
+Fire gen
+Sand gen
+Water gen
+Giant mason-wasp
+Noble dao genie
+Noble djinni genie
+Noble efreeti genie
+Noble marid genie
+Ghost mount
+Great ghul
+Hama
+Heway
+Jungle giant
+Living idol
+Markeen
+Maskhi
+Nasnas
+Pahari
+Reef giant
+Rom
+Sabu lords
+Sakina
+Serpent lord
+Silats
+Simurgh
+Stone maidens
+Tasked genie
+Tasked artist genie
+Tasked builder genie
+Tasked guardian genie
+Tasked herdsman genie
+Tasked slayer genie
+Tasked warmonger genie
+Tasked winemaker genie
+Vishap
+Werehyena
+Werelion
+Winged serpent
+Zaratan
+Zin
+
+Gallery
+
+Credits
+ Design: Wolfgang Baur, Steve Kurtz
+ Editing: C. Terry Phillips
+ Cover Art: Jeff Easley
+ Interior Art: Tom Baxa, Mark Nelson
+ Typography: Gaye O' Keefe
+
+Appendix
+See Also
+Images from Monstrous Compendium Al-Qadim Appendix
+Notes
+
+External Links
+
+ RPGGeek
+
+References
+
+Connections
+
+---
+
+## Moorhound
+
+A moorhound was a huge, shaggy breed of dog with long legs and powerful muscles. They were favored as hunting and war dogs, and as status symbols, among the Ffolk of the Moonshae Isles.
+
+Description
+On average, this breed's back was up to the height of a human man's waist and their bodies were  long.
+
+Ecology
+Habitats
+They originated on the island of Moray.
+
+In the years following 1385 DR, packs of wild moorhounds became prevalent across Corwell, the pastoral heartland of Gwynneth Isle.
+
+Notable moorhounds
+ Angus
+ Canthus, a moorhound belonging to Tristan Kendrick.
+ Warlock, a moorhound belonging to Angus Blackstone.
+
+Index
+Appearances
+
+References
+
+---
+
 ## Monster Manual 4th edition
 
 The 4 Edition Monster Manual is a core rulebook for the 4th edition of Dungeons & Dragons.
@@ -978,6 +2927,17 @@ Gallery
 External Links
 
 Connections
+
+---
+
+## Monster Manual II
+
+Monster Manual II might refer to:
+ Monster Manual 2, 4th edition (2009)
+ Monster Manual II, 3rd edition (2002)
+ Monster Manual II, 1st edition (1983)
+
+For other books titled "Monster Manual", see Monster Manual.
 
 ---
 
@@ -1085,6 +3045,1513 @@ FR:Mordulkin
 
 ---
 
+## Mouse
+
+A mouse  was a type of small rodent found in Faerûn.
+
+Species
+ Badger mice: A species of mouse found in the Duskwood. Their name was derived from the fact that they were similar in size to small badgers. During the springtime in this forest there tended to be an abundance of ash wheat, which caused an increase in the badger mice population that was controlled by puff adders.
+
+Ecology
+Habitats
+Mice were quite common throughout the North and its Savage Frontier. In the Unapproachable East, mice were common across the central plains of Rashemen. In west Faerûn, mice could be found in the Forest of Mir, the warmer areas of Calimshan, as well as throughout both the Eastern and Western Heartlands. In southwest Faerûn, they could be found in Tashalar.
+
+Beyond Faerûn, mice were quite abundant on the island of Evermeet, where they were hunted by gold elves. They could also be found in the Hordelands in the Katakoro Plateau.
+
+Beyond Toril, mice could be found on the planets Chandos and Garden.
+
+Trivia
+Ilmater, the deity of suffering and martyrdom, could cause the appearance of field mice to indicate his favor or encourage his faithful.
+
+Appendix
+
+Gallery
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Monster Manual II 1st edition
+
+Monster Manual II 1st edition is a 1-edition Advanced Dungeons & Dragons accessory. It details many new monsters.
+
+Description
+Monster Manual II 1st edition was a 160-page hardcover book published in 1983, credited solely to Gary Gygax, which featured cover art by Jeff Easley and featured interior illustrations by Jim Holloway, Harry Quinn, Dave Sutherland, and Larry Elmore.
+
+The book was a supplement describing over 250 monsters, most with illustrations. Many of the monsters were drawn from scenario modules. It included random encounter tables for dungeon and wilderness settings built from the Monster Manual and Fiend Folio. It also introduced a dozen new devils that had been first published in the pages of Dragon magazine. Like the Fiend Folio before it, the monsters in Monster Manual II 1st edition listed the experience point value for each monster within the entry. Monster Manual II 1st edition. along with Unearthed Arcana. featured quite a number of monsters, races, and places from Gary Gygax's Greyhawk Campaign world.
+Index
+
+Gallery
+
+Appendix
+External Links
+
+References
+
+---
+
+## Monstrous Compendium Planescape Appendix
+
+Monstrous Compendium Planescape Appendix is a 2-edition Advanced Dungeons & Dragons accessory. It is part of the Planescape campaign setting.
+
+Description
+The Monstrous Compendium Planescape Appendix was published by TSR, Inc. in 1994 as a loose-leaf binder filled with monster sheets, which could be added to a Dungeon Master's binder of monsters for use in their game.
+
+The Monstrous Compendium Planescape Appendix includes information on various creatures that players and Dungeon Masters may encounter in the Planescape setting. Each monster entry includes details on the creature's physical appearance, abilities, behavior, and habitat.
+
+The Monstrous Compendium Planescape Appendix is intended to be used in conjunction with the Monstrous Manual, which provides more comprehensive information on monsters from various D&D settings.
+
+Index
+
+Characters
+
+Creatures
+
+Locations
+
+Magic
+
+Miscellaneous
+
+Gallery
+
+Credits
+ Editor: Allen Varney
+ Project Coordinator: Dori Jean Hein
+ Cover Artist: Jeff Easley
+ Interior Artist: Tony DiTerlizzi
+ Conceptual Artist: Dana Knutson
+ Compilers: David "Zeb" Cook, Dori Hein, David Wise
+ Able Assisters: Wolfgang Baur, Michele Carter, Jon Pickens, Skip Williams
+ Graphics Coordinator: Sarah Feggestad
+ Art Coordinator: Peggy Cooper
+ Electronic Prepress Coordinator: Tim Coumbe
+ Typesetter: Angelika Lokotz
+ Border Art: Robert Repp
+ Graphic Design:''' Dee Barnett, Dawn Murin
+
+Appendix
+See Also
+ Images from Monstrous Compendium Planescape Appendix
+External Links
+
+Connections
+
+---
+
+## Mountain Crusher
+
+Mountain Crusher was a magical composite longbow belonging to Tavis Burdun, the First Defender of Hartsvale.
+
+Description
+Mountain Crusher was eight feet long. It was strung with woven steel cord. It was reinforced with the ribs of a glacier bear, allowing Tavis to use his incredible firbolg strength to best effect without risking snapping the weapon. The bow was covered in runes, which were etched by Tavis' runecaster companion, Basil of Lyndusfarne.
+
+Powers
+The weapon was a +5 composite longbow, which allowed Tavis to apply his full strength to his attacks. When Tavis said, "Basil is great," backwards, one of the runes on the bow would glow a ruby color and then vanish, granting the bow its magical power. An arrow shot from the bow would leave a trail of crimson behind it as it flew.
+
+History
+Mountain Crusher was specially crafted for Tavis, after his first bow, Bear Driller, was broken in Tavis' battle with Arno and Julian. It received its name from Queen Brianna after Tavis used the weapon to create a landslide which trapped a group of fire giants in the Gorge of the Silver Wyrm.
+
+Tavis wielded his bow frequently in combat, using runearrows from Basil as ammunition.
+
+Notable Owners
+ Tavis Burdun
+
+Appendix
+References
+
+---
+
+## Mount Ieldroun
+
+Mount Ieldroun was one of the two tallest mountains east from the Moon Pass.
+
+History
+The mountain peak was named for a long dead orc chieftain.
+
+Geography
+Ieldroun stood halfway between Stone Stand and the site of Hellgate Keep.
+Between Mount Ieldroun and Mount Thorog was Telkoun's Tower, a stronghold of a little-known wizard and protected by perytons.
+
+Geographical features
+Valleys
+High Thorog
+
+Notable locations
+Telkoun's Tower
+
+References
+
+---
+
+## Mount Thorog
+
+Mount Thorog was one of the two tallest mountains east from the Moon Pass.
+
+History
+The mountain peak was named after a deceased orc chieftain.
+
+Geography
+Thorog was located between Stone Stand and the stronghold of Hellgate Keep.  Guarded by perytons, Telkoun's Tower was a fortress located between Mount Ieldroun and Mount Thorog.
+
+Geographical features
+Valleys
+High Thorog
+
+Notable locations
+Telkoun's Tower
+
+References
+
+---
+
+## Morueme's Cave
+
+Morueme's Cave was the home of the blue dragon clan the Blood of Morueme located in the Nether Mountains.
+
+Geography
+The cave was located on the edge of the Anauroch Desert on the mountain known as Dragondoom.
+
+Description
+Nearly five dragons occupied the caves. Each dragon protected his own treasure sided by their faithful hobgoblin servants. The Caves had many traps, carefully placed to deal with humans. Most were rockfalls, in which rocks were linked together with chains. Moreover, the caves had some sharp bends where the Moruemes took advantage of cover.
+
+History
+The caves have been the home for the clan for at least a thousand years. For many years, the Moruemes were ruled by Kizilpazar, the ancient blue patriarch of the clan. In 1371 DR, his ambitious sons, Nahaunglaroth and Roraurim, betrayed and destroyed him.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moon Pass
+
+The Moon Pass was an ancient gorge through which the River Rauvin flowed, splitting the eastern and western section of the Nether Mountains.
+
+Geography
+The trail between Everlund and Sundabar passed through the Moon Pass.
+
+Description
+Despite the Nether Mountains dominated on both its sides, the Moon Pass was a world unto itself. The meltwater filtered through the mountains congealed itself during the winter. Then thawed itself and began to slide down once again, year after year, by digging deep caves on both sides of the pass. Each of these caves dug in the rock, were like vertical labyrinths. The caves were wet and there grew mushrooms of all species (glowing, edible and poisonous ones). There were also many links to the Underdark. It was a land of nobody, crossed with great caution by humans, orcs, dwarves, duergars, driders, and even drow. There had been encountered also aballins and yuan-ti. A group of Illithids dwelt in the vicinity. The attacks were frequent, while equipment and goods dropped by the victims were scattered everywhere. Many party of adventurers realized that there was something able to catch the attention of Underdark creatures in this place.
+
+Notable locations
+Settlements
+ Rauvincross  A trading village on the northern entrance into the pass.
+
+Appendix
+
+References
+
+---
+
+## Monastic order
+
+Monastic Orders are orders of Monks, usually devoted to a god or cause.
+
+Most monastic orders are named after a flower which has particular importance to them.
+
+List of Monastic Orders
+
+Ilmater
+ Broken Ones  A monastic order whose monks are responsible for the defence of Ilmater's temples and shrines and seek to punish those who inflict cruelty.
+
+ Disciples of St. Morgan the Taciturn  A monastic order of Ilmater.
+
+ Disciples of St. Sollars the Twice-Martyred  A monastic order noted for the Monastery of the Yellow Rose, located in the Earthspur Mountains near to the Glacier of the White Worm.
+
+ Followers of the Unhindered Path  A monastic order of Ilmater.
+
+ Order of St. Uzurr  A monastic order of Ilmater based at the Cloister of St. Uzurr at Uzurr in Lapaliiya.
+
+ Sisters of St. Jasper of the Rocks  A monastic order of Ilmater.
+
+Notes
+
+---
+
+## Moonsea War
+
+The Moonsea War was a conflict between the allied forces of Phlan, Hillsfar, Sembia, Melvaunt and Zhentil Keep against the increasingly imperialistic Mulmaster. Mulmaster was blockading the River Lis, an important trade river that connected the Moonsea to the Dragon Reach and Sea of Fallen Stars. The allied armies attacked in 1306 DR. The attack was successful, Mulmaster was defeated and its fleet no longer controlled the river.
+
+Appendix
+References
+
+---
+
+## Moriann Obarskyr
+
+King Moriann Obarskyr, born in the Year of the Iron Colossus, 147 DR, was the 14 Obarskyr monarch and king of Cormyr. He took the throne in the Year of the Weary Warrior, 169 DR after the death of his father Irbruin and older brother Faerlthind.
+
+Both of his heirs perished in the Goblin Wars of 198 DR to 200 DR against the goblins from Hlundadim, while he himself perished in the victory feast in the Year of the Student, 201 DR.
+
+Appendix
+
+Appearances
+
+References
+
+Further Reading
+
+Connections
+
+---
+
+## Mount
+
+A mount was a creature that was used to transport another creature. Typically, mounts used by humanoids were larger and could move much faster than the humanoid could on foot. Horses and ponies were the most common.
+
+Appendix
+
+References
+
+---
+
+## Mourngrym Amcathra
+
+Mourngrym Amcathra  was the lord of Shadowdale from 1353 DR until 1375 DR.
+
+Appearance
+Mourngrym was a 6'4" (1.9m) tall, athletic man with neatly trimmed brown hair and a similarly maintained mustache.
+
+Personality
+Mourngrym was a cautious but shrewd leader and able diplomat. He was authoritative and had abundant foresight. While he liked to think of himself as benevolent and protective, he came off more smothering and overly paternalistic as well as condescending.
+
+As a leader, he always personally led battles Shadowdale was involved in, feeling the weight of responsibility for his subjects. He sought to inspire his troops and protect the vulnerable and those in danger. When he was in combat shoulder-to-shoulder with his wife Shaerl, Mourngrym always took a defensive position to shield her from harm.
+
+Lord Mourngrym preferred close combat with the biggest and most powerful blade available, as he had disdain for ranged weapons.
+
+Abilities
+As a competent fighter and adventurer, Mourngrym knew how to use broadswords, short swords,long swords, daggers, heavy lances, and footman's mace. As a lord, he was familiar with etiquette, heraldry, and horseback riding, and he possessed skills from his adventuring days, such as armor-making, hunting, snare and trap making, and gambling.
+Possessions
+In 1358 DR, Mourngrym typically wore a suit of plate mail armor and a ring of protection +1. In addition, he carried a broadsword +3, a shield +1, and a knife that was enchanted to transform into a short sword on command.
+
+By 1375 DR, he tended to wear mithral chainmail +1 instead of the heavier plate mail. Furthermore, he bore a greatsword +1 and a well-crafted composite longbow instead of his former sword and shield.
+
+Relationships
+Shaerl Amcathra, his wife, and Scothgar "Scotti" Amcathra, his son, were the most important people in Mourngrym's life.
+
+Wizards Khelben Arunsun and Elminster were his close friends and allies, along with Harpers and the sellsword hero Alias.
+
+The Zhentarim, fiends of Myth Drannor, and the Cult of the Dragon were his sworn enemies.
+
+As of the early 1370s DR, Gormstadd the Rerisen, leader of the temple to Cyric in nearby Voonlar, claimed that Mourngrym was a wanted man in Waterdeep and that the so-called "Lord of Shadowdale" was a thug and a terrorist. Gormstadd offered a reward of 10,000 gold pieces to anyone bringing him Mourngrym Amcathra, dead or alive.
+
+History
+Early Life
+Mourngrym was born to the noble Amcathra family of Waterdeep. As a child, he had everything he ever needed as well as lots of friends and a good knowledge of how Waterdeep worked. Still, he felt unfulfilled, as if he wasn't doing enough to make himself useful. In his early teens, he began training to use weapons which served him well when he ended up aiding an associate of Khelben "Blackstaff" Arunsun. Khelben watched the youth with interest from then on and noticed his martial skill and his ability to remain persuasive under duress.
+
+Knight of Myth Drannor
+Mourngrym became affiliated with the Harpers and, through them, Khelben encouraged him to join Doust Sulwood, the current lord of Shadowdale in his adventures. He became an important member of the Knights of Myth Drannor.
+Lord of Shadowdale
+In 1353 DR, when Doust Sulwood gave up the rule of Shadowdale to return to adventuring, he chose Mourngrym to be his successor, and Mourngrym accepted. Although Mourngrym had been sent from Waterdeep by Khelben Arunsun for other reasons, Doust recognized and admired his honesty and ambition to help protect Shadowdale, and was inspired to pass on the lordship.
+
+A few years later, in 1355 DR, a diplomatic envoy from Cormyr named Shaerl Rowanmantle was sent by Vangerdahast to investigate why the last two lords of Shadowdale were both "chosen" by Khelben. Shortly after her arrival in Shadowdale, Mourngrym fell in love with the young spirited and beautiful thief. The Lord's feelings were reciprocated but Mourngrym could not approve of Shaerl's profession. That conflict led the couple to drift apart. Subsequently, Shaerl and Mourngrym found themselves facing against an overwhelming horde of fiends from Myth Drannor. The beautiful and brave thief sacrificed her life to save Mourngrym's, and with her gone, he came to terms with his deep love for Shaerl. He avenged her death and embarked on a long quest to have his love resurrected. Eventually, he succeeded and was reunited with Shaerl. Soon after in 1355 DR, they were married.
+
+In 1357 DR, Mourngrym became acquainted with the hero Alias and her companions Olive Ruskettle, Akabar Bel Akash, and Dragonbait, after the adventurers broke Shadow Gap's occupation by the Iron Throne. The mountain pass was guarded by a monstrous Kalmari, effectively stopping the trade with Shadowdale. Lord Mourngrym extended Alias the gratitude of Shadowdale.
+
+In 1358 DR, three years after their marriage, Shaerl was pregnant with Mourngrym's son. One night, the Lord of Shadowdale was busy supervising Elminster and his new guests: Dwalimar Omen and Foxilon Cardluck. During the meeting, Foxilon wandered off inside Elminster's Tower and accidentally released a magically trapped assassin. Mourngrym and Elminster's guests were holding the hulking creature off when he attacked very pregnant Shaerl and attempted to take her hostage. The assassin did not expect the woman to be able to defend herself. The Lady of Shadowdale elbowed the assassin in the stomach and knocked him out with a punch. The stress of the fight caused her to go into labor shortly after. Luckily, her husband, Elminster, and Foxilon were able to deliver her child. The baby was named Scotti.
+
+Mourngrym was nearly killed by the avatar of the god Bane when the second battle of Shadowdale broke out during the Time of Troubles that same year. The lord of Shadowdale was saved by his sergeant-at-arms Mayheir Hawksguard.
+
+When the adventurers Midnight and Adon were brought in under suspicion of murdering the Old Sage Elminster following the battle, Mourngrym was devastated but fulfilled his duty and presided over their trial. While he wound up serving as a witness by their defender in court Thurbal. In the end, Mourngrym found them guilty and sentenced them to death. Fortunately, the adventurers escaped their fate when they were "rescued" by their companion Cyric.
+
+Mourngrym finally met his match in the summer of 1375 DR when his body was possessed by Yder Tanthul. Despite his rescue from this state, Mourngrym became depressed at his inability to protect himself and his people and offered to step down as lord of Shadowdale. He handed the Pendant of Ashaba over to Azalar Falconhand and rejoined the Knights of Myth Drannor.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Moondeep Sea
+
+The Moondeep Sea was a subterranean lake, approximately  wide, found in the Underdark beneath the Galena Mountains and the cold plains of Vaasa.
+
+Geography
+The Moondeep Sea was located in the Upperdark. The cavern which contained it was known as the Vault of Gnashing Teeth, so named for the countless animated skulls stuck to the cavern's ceiling. The water of the lake was fed from the Great Glacier.
+
+The lake was surrounded by a confusing network of tunnels and caverns known as the "Lost Ways," remnants of the ancient Dwarf kingdom of Sarphil. These passages wound beneath the lake and deeper into the Underdark.
+
+The lake was magically connected to the Moonsea so that moonlight hitting it would be reflected on the surface of its Underdark counterpart.
+
+The city of V'elddrinnsshar‎ lay on a mile-wide island dominated by a plateau in the middle of the lake.
+
+Flora and Fauna
+The Moondeep Sea was known for its giant water spiders.
+
+Appendix
+References
+
+---
+
+## Morvian
+
+Morvian was a magical greatsword and one of the baneblades of Demron created in Myth Drannor.
+
+Description
+It was a magnificent greatsword designed for folk of human, elf, or dwarf size, weighing 8 pounds (3.6 kilograms). It gave off a strong yellow light when drawn, resembling sunlight.
+
+Uses
+As one of baneblades, it was a +4 holy weapon that was a bane to both undead and evil outsiders. Morvian was also axiomatic and let its wielder use daylight once a day. In contrast to earlier baneblades, it could be used by members of any race, provided they were lawful good; it was just a non-magical if well-made sword for anyone else.
+
+History
+It was crafted by the archmage Demron before the fall of Myth Drannor, and was the third of his series of Baneblades.
+
+Sometime before the fall of Myth Drannor, Morvian was stolen by a demon Rivener. In attempting to retrieve the Baneblade, a group of gold dragons failed to defeat the creature, instead sealing him under the Castle Cormanthor.
+
+In 1369 DR, a group of adventurers from Phlan, guided by the ghost of Hachaam Selorn, defeated the powerful demon and retrieved the Baneblade Morvian to aid them in defeating the Cult of Dragon occupying the ruins of Myth Drannor.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+---
+
+## Mordenkainen's faithful hound
+
+Mordenkainen's faithful hound was a conjuration spell that summoned a phantom dog for defense and attack. It was presumably developed by the mage Mordenkainen.
+
+To Zakharan mages, always reluctant to acknowledge ajami names and accomplishments, the spell was known simply as faithful hound, and counted among the spells of the universal province.
+
+History
+In the month of Eleasis, of the, the city of Ravens Bluff's Ministry of Art and Wizards Guild jointly declared it illegal to cast Mordenkainen's faithful hound within city limits due to a raging unnatural storm at the time called the Soulstorm. In addition to threatening arrest for those that broke this decree, it was declared that breaking this prohibition would result in a permanent expulsion from either organization.
+
+Appendix
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Move earth
+
+Move earth was a transmutation spell that excavated trenches and created hills.
+
+Components
+The spell required verbal, somatic and material components, in the form of a mix of different soils like clay, loam, and sand in a small bag, as well as an iron blade.
+
+History
+The spell was attributed to Netherese arcanist Proctiv in  and was originally called Proctiv's earthmove.
+
+Appendix
+
+References
+
+---
+
+## Modify memory
+
+Modify memory was an enchantment spell that changed up to 5 minutes of the subject's memory. Later versions allowed changing up to 10 minutes of memory but had a more limited range.
+
+Effects
+This spell allowed the caster to choose a target within  (even farther for more experienced casters) and charm the target, rendering them incapacitated and unaware of their surroundings, though they could still hear the caster. While charmed, the caster could affect the target's memory of an event in the subject's past by eliminating the memory, enhancing it to recall with full clarity, changing details of the memory, or implanting a memory of a completely new event that the target did not actually experience.
+
+An earlier version of this spell worked on any memory in the target's past but with a maximum of a 5-minute span. The later version of modify memory was limited to 10 minutes of memory in the last 24 hours, but more distant memories could be effected if the spell was cast at a higher level. This version was also limited to a range of .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Morning star
+
+Morning stars (also "morningstar") were a simple type of one-handed melee weapon.
+
+Description
+Morningstars were very similar to a spiked club, but with refinements. Their shafts were usually made of wood and longer than a heavy mace. Their heads were typically round and covered in metal set. Around twenty spikes were set into this metal, radiating like a star, with the biggest spike extending straight from the top.
+
+History
+Morningstars first became available in the Netheril Empire in .
+
+Notable Owners
+Individuals
+Cracker and Whacker, the chief weapons of Athrogate
+ The gods Hruggek and Memnor were known to consider morningstars their favored weapon.
+Races & Sentient Creatures
+ Bugbears often specialized in fighting with morningstars.
+ Firenewt warlocks often favored the use of morningstars in combat.
+
+Trivia
+A number of locations in the Realms were named after morningstars. These included the temple Morningstar Haven in Westgate, the village of Morningstar Hollows, and the road Morningstar Way in Waterdeep.
+
+Some people in the Realms bore "Morningstar" as a surname, such as Shay Morningstar and Thurd Morningstar.
+
+In the Roll of Years, the year 1350 DR bore the name "Year of the Morningstar".
+
+Appendix
+
+See Also
+ Flail
+ Mace
+ Pole arm#Special Cases
+Gallery
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Movanic deva
+
+Movanic devas were a kind of angel and members of one of the three orders of the devas, the others being astral devas and monadic devas. The most privileged and worldly of devas, movanic devas oversaw the Prime Material Plane, the Negative Energy Plane, and the Positive Energy Plane.
+
+Description
+
+Devas appeared as human-like men and women of extraordinary beauty or handsomeness with two magnificent feathered wings emerging from their backs. Movanic devas had lithesome frames capable of extraordinary agility, with skin of milky white hue and hair and eyes that appeared silvery.The appearances of devas have been switched in each edition. In 1st edition, in Dragon #63, movanic devas have a rosy-coppery coloration. In 2nd edition, in Monstrous Compendium Planescape Appendix, and in v.3.5, in Fiend Folio, they have the silvery-white coloration previously given to monadic devas. This article uses the consistent combined description of the later 2nd- and 3.5-edition sources, and won't even get into the 5th-edition deva. Movanic devas stood around 6.5 feet (1.98 meters) or 6 feet (1.8 meters) tall, but particularly mighty examples could grow to much larger size.
+
+Devas were averse to clothing; when they must adhere to mortal custom, they donned simple loincloths or other coverings.
+
+In a peaceful moment, a movanic deva would adopt the shape of a humanoid or an animal. In fact, they rarely manifested their glorious true forms, unless it suited their purposes to awe mortals.
+
+Society
+The movanic devas were the weakest yet the most numerous of the devas. Nevertheless, the order of movanic devas was politically equal to the orders of astral and monadic devas, and there was no rivalry between them. Although the orders might sometimes bicker over differences in personality, they always cooperated.
+
+Movanic devas fought as infantry in battles against the forces of darkness, and they did so with pride. They were also charged with serving the needs of the Prime Material Plane, the Negative Energy Plane, and the Positive Energy Plane.
+
+The movanic devas had the privilege of traveling to the Material Plane at will to aid prominent followers of the gods of good in times of great need. While they more often appeared disguised as humanoids or animals, they could manifest in their winged angelic form if this suited their needs.
+
+They usually worked alone, but also operated in pairs, trios, or squads of up to six members.
+
+Personality
+Well-traveled in the planes and in the mortal world, and gaining a greater understanding of the affairs of mortals, some movanic devas saw themselves as more worldly than their astral and monadic kin. Nevertheless, no deva would knowingly deal peaceably with evil beings, but those of non-lawful bent sometimes dealt with neutral beings. They were strong-willed and fearless.
+
+Possessions
+Although they might use many different weapons, each movanic deva wielded a flaming two-handed sword of long and slender design, considered a flame tongue sword +1 or +1 flaming greatsword. They had no need of any treasure or wealth, nor even clothing.
+
+Combat
+
+Movanic devas loved battle, though not to the extent of the monadic devas. Reacting swiftly and never taken by surprise, they tended to dive into melee, with firm grips on their flaming swords. They fought with skillful and rapid attacks.
+
+By parrying with their flaming sword, a movanic deva could deflect missiles and hurled weapons and counter rays and other spells that targeted them alone, even ones that were unavoidable, like magic missile. However, they had to be aware of an incoming attack to deflect it, and they could not deflect two simultaneous strikes.
+
+Powers
+Movanic devas possessed all the powers, protections, and traits common to devas and to other angels, and many more of their own. They were immune to injury from mundane and minor magical weapons.
+
+Whether with the spell polymorph self or an inherent ability to change shape, they could change their form into that of any humanoid, from halfling to human in size, or into an animal.
+
+With the soothing presence of nature itself, a movanic deva had a calm nature that creatures of the natural world invariably found pleasing. No animal or plant would willingly attack one, not unless compelled by magic. It seemed they could not even be harmed by plant life. However, reptiles and similar creatures, and monstrous creatures, could attack them freely.
+
+Possessing a divine equilibrium, movanic devas were immune to the deleterious effects of planes suffused with either negative energy or positive energy, making them immune to death spells and loss of experience or life-force. Whether the energy was negative or positive was all one and the same to them.
+
+In addition to the common spells of devas, movanic devas were also reported to cast cause or cure blindness, detect traps, and neutralize poison; or anti-magic shell, protection from normal missiles, and spell turning, and they could use any invocation/evocation spell they wished, once a day. Later, it was reported they could cast atonement, bless weapon, commune, consecrate, create food and water, cure serious wounds, daylight, death ward, divination, ethereal jaunt, hallow, neutralize poison, prayer, and protection from arrows; and raise dead.
+
+When a deva died on the Prime Material plane or the Elemental planes, all parts of their body, what clothes they wore, their flaming swords, and their other possessions vanished completely. Only their material body was destroyed, while their immortal spirit returned to their home plane. It took ten years to regain the power to manifest a corporeal form. If they died on any other plane, then they were destroyed utterly.
+
+Relations
+Devas of all kinds were known to serve the deities Azuth, Ilmater, and Mystra, while movanic devas in particular served Deneir, Lliira, and Milil. Another movanic deva, called the Sannyasi, served the Serene Abhirati, a goddess of the Utter East.
+
+A good and mighty spellcaster could briefly summon and command a movanic deva with summon monster VII, or long-term with gate or planar ally.
+
+Notable Movanic Devas
+ The Sannyasi, a movanic deva, was appointed by the Serene Abhirati to watch over her realm of Langdarma in the Yehimal Mountains. He had served in this role for 10,000 years by the 14th century DR.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Morkai
+
+Morkai the Red was a powerful wizard and the guardian of the North Tower of the Host Tower of the Arcane in the seaport city of Luskan in the mid–14 century DR. He was murdered by his apprentice Akar Kessel on the command of Dendybar the Mottled and his associates in the Host Tower.
+
+Following his death, Morkai the Red's spirit was regularly summoned by Dendybar the Mottled for advice. In Year of the Worm, 1356 DR, Morkai was summoned by Dendybar to gather information on the Companions of the Hall, specifically Drizzt Do'Urden. Dendybar withheld that he believed the drow to be in possession of the Crystal Shard, fearing that Morkai would spread the information through the planes, which would likely encourage other powerful beings, including the specter himself, to pursue the relic. Ultimately, when Morkai lost track of Drizzt at Garumn's Gorge, Dendybar failed to properly dismiss him in his fury, allowing Morkai to possess Denbybar's flesh golem Bok and used it to exact his vengeance.
+
+Morkai would later inform Lady Alustriel Silverhand that King Bruenor Battlehammer, who had been presumed dead in Mithral Hall, was in need of her aid.
+
+Appendix
+
+Appearances
+ The Crystal Shard
+ Streams of Silver  (as a spirit)
+ The Halfling's Gem  (mentioned only)
+
+References
+
+---
+
+## Monstrous Compendium Forgotten Realms Appendix (MC11)
+
+Monstrous Compendium Forgotten Realms Appendix (MC11) is a 2-edition Advanced Dungeons & Dragons accessory for the Forgotten Realms.
+
+Description
+Monstrous Compendium Forgotten Realms Appendix (MC11) was released as part of the expansive Monstrous Compendium series, this appendix focused to the Forgotten Realms.
+
+Structured in line with the Monstrous Compendium series' loose-leaf format, this accessory  allows for easy integration and customization within the broader compendium. Each entry within the volume provides  comprehensive information on the creature's physical description, behavior, combat tactics, and special abilities.
+
+Creatures
+Alaghi
+Alguduir
+Aquatic elf
+Avian
+Ostrich
+Emu
+Rhea
+Boobrie
+Eblis
+Beguiler
+Carnivorous plant
+Black willow
+Retch plant
+Snapper-saw
+Thornslinger
+Viper vine
+Whipweed
+Witherweed
+Cantobele
+Cat
+Change cat
+Elven cat
+Luck eater
+Chitine
+Cildabrin
+Dark naga
+Deep bat
+Azmyth
+Night hunter
+Sinister
+Werebat
+Deep dragon
+Dimensional warper
+Fachan
+Feyr
+Firetail
+Frost
+Gaund
+Frost gaund
+Gloomwing
+Gloomwing moth
+Golden ammonite
+Hamadryad
+Harrier
+Harrla
+Haun
+Haundar
+Hendar
+Inquisitor
+Lhiannan shee
+Lightning golem
+Loxo
+Manni
+Mara
+Monkey spider
+Morin
+Mountain giant
+Orpsu
+Peryton
+Phantom
+Ringworm
+Rohch
+Sandcat
+Saurial
+Bladeback
+Finhead
+Flyer
+Hornhead
+Sha'az
+Silver dog
+Simpathetic
+Skuz
+Tempest
+Tlincalli
+Tren
+
+Gallery
+
+Credits
+ Design: David "Zeb" Cook (coordinator),TimBeach,Tim Brown, William W. ConnorsDale Donovan, Ed Greenwood, Jeff Grubb, Bruce Heard, Slade Henson, Rob King, Colin McComb, Roger E. Moore, Bruce Nesmith, Jon Pickens, Jean Rabe, Dori Watry, Skip Williams, and probably a few other fine people we've forgotten . . .
+ Editing: Anne McCready, Karen S. Boomgarden (coordinator)
+ Interior Illustrations: Tom Baxa, Valerie Valusek, Mark Nelson
+ Cover Illustrations: Jeff Easley
+ Typography: Angelika Lokotz
+ Production: Dee Barnett
+
+Appendix
+See Also
+ Images from Monstrous Compendium Forgotten Realms Appendix (MC11)
+External Links
+
+ RPGGeek
+
+---
+
+## Moonshadow Hall
+
+Moonshadow Hall was the temple of Selûne in Yhaunn.
+
+Description
+The temple was located in the center of Yhaunn, and was visible from a far distance as a large, circular structure of pale stone. It predated most other buildings in Yhaunn, and was older and larger than most temples of Selûne in the region as well. Most of it was two floors tall, except for in the north where a third level extended.
+
+Structure
+Around the outer walls were depictions of owls and the relief sculptures of the seven Shards. The walls had false gates for each of the phases of the moon, with only the full moon gate accessible. The temple was originally designed as a fortification, with tall, smooth walls and inward-facing windows. Atop the walls were walkways with parapets and guardhouses, and a short belltower over the gate, though by 1373 DR the fortifications had fallen into disrepair.
+
+In the center of the temple was a grass-covered courtyard with a sacred pool of water, built above ground with a containing stone wall. The courtyard was surrounded by cloisters with eight gates, each one representing a different phase of the moon. By tradition, at night one could only pass through the gate that corresponded with the phase of the moon. Further complicating it, the new moon gate was bricked up, making the courtyard inaccessible during the new moon.
+
+A small walled herb garden was attached to the outside wall of the temple, accessible through the kitchen. The winter chapel was another later construction, a large round structure added to the north side of the temple that was used when the weather was too harsh to perform services in the courtyard.
+
+A long dining hall filled with tables lay on the ground floor. On the opposite side to the kitchen, the infirmary contained sick beds and medical supplies for treatment. It was adjacent to an externally-locked secure room that was used for containing the werewolf Feena Archwood as a child when she involuntarily transformed and lost control. It was later used for storing clean linens.
+
+The dormitories were located on the second floor of the temple, with the High Moonmistress's quarters furthest from the ramp that led down to the ground floor. The ramp leading up to the third floor was close to the Moonmistress, and led up to the archives, which sat atop the northern quarter of the temple.
+
+The third floor was only built atop the northern end of the temple. The archive was filled with scrolls, tomes, and other records spanning hundreds of years and gathered from countless other temples and shrines across Faerûn. It was secured with heavy ironbound doors to protect the records within.
+
+History
+In 757 DR, High Moonmistress Jolara Nightnever gave support to High Moonmistress Brima Chintamn of Bright Lady's Tower in Chancelgaunt, condemning the New Moon Pact. Shortly after, Bright Lady's Tower was abandoned and demolished, and its archives were transferred to Moonshadow Hall. That same year, Asha the Silent joined the temple, eventually became High Moonmistress, and worked to preserve the legacy of the Pact through The Book of the New Moon.
+
+Around 1358 DR, the High Moonmistress was Dhauna Myritar. In her time she instituted a feast called the New Moon Beneficence, a charitable event that fed the poor of the city and brought cheer to the darkest phase of the moon.
+
+In 1373 DR, Dhauna received warning nightmares from Selûne and attempted to discover the meaning behind them. She summoned Feena Archwood from Archendale to act as her Moonmistress-Designate and began researching from the archives, eventually discovering the lost history of the New Moon Pact.
+
+Tragically, Dhauna had lost her mind to desperation and forced Feena to infect her with lycanthropy, only to be mercy-killed by Feena in turn, who then briefly became High Moonmistress. Shortly after, the priestess Velsinore was exposed as a dangerous heretic, and the temple was attacked by Variance Amatick and the local temple of Shar as part of a plan to seize The Leaves of One Night.
+
+Despite these challenges, the temple survived, Feena refounded the New Moon Pact, and Julith Harkspur was chosen by Feena to be the new High Moonmistress. As a favor, Feena asked that she have the blocked new moon cloister gate opened up.
+
+Around 1379 DR, a force of Shadovar Netherese assaulted the temple, tearing part of it off with their magic and banishing it to the Shadowfell. This lost fragment became known as the Shard of Night, and the Shadovar continued to use it in their activities.
+
+Inhabitants
+In 1358 DR, the High Moonmistress was Dhauna Myritar, with 29 subordinate priests.
+
+As of 1373 DR, the following people inhabited the temple:
+ Dhauna Myritar, the High Moonmistress of the temple.
+ Feena Archwood, a priestess who was temporarily Moonmistress-Designate and very briefly High Moonmistress.
+ Julith Harkspur, a young priestess who was assistant to the Moonmistress, and later Moonmistress herself.
+ Velsinore, the senior priestess responsible for the accounts and administration of the temple, and bearer of the Waning Crescent.
+ Mifano, the senior priest responsible for the gates and representing the temple, and bearer of the Waxing Crescent.
+ Tam, a young priestess.
+ Idruth, the priestess responsible for the kitchen.
+ Chandri, the priestess responsible for the infirmary.
+ Aeso, a junior priest.
+ Jhezzail, a young acolyte on sentry duty.
+
+Appendix
+See Also
+Shard of Night
+
+Appearances
+
+References
+
+---
+
+## Moirah
+
+Moirah was a worker at the Jewel tavern in Ormpetarr.
+
+Appearance
+Moirah was a slight woman with a small build and dark, raven-colored hair. She wore jasmine perfume and gauzy blue and purple silks to wrap her body, layering them enticingly to hide her desirable parts. She left her navel exposed, below which was her nearly translucent spellscar.
+
+Abilities
+Moirah's spellscar gave her control over another person's wild passions.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Moonstone Mask
+
+The Moonstone Mask was one of the most renowned festhalls in Neverwinter and across all Faerûn. The Mask was known for its discretion as well as its rarified delights.
+
+Staff
+The staff consisted exclusively of women who wore glowing masks trimmed with moonstones (hence the name of the establishment) and sheer black gowns. They were known as friendly and wise, as well as renowned players of many games. They never revealed their true identities and always wore their mask while working. This sense of anonymity made them renowned confidants across the Sword Coast and beyond. All staff members also wore magical amulets that protected them against mind-reading and mind-controlling magic as well as allowed them to send mental messages among the wearers of other amulets.
+
+The cooks, on the other hand, were all males.
+
+As of 1374 DR, the Mask was owned and operated by Ophala Cheldarstorn. In 1479 DR, the owner was Ophala's presumed descendant, Liset Cheldar.
+
+Description
+
+The Moonstone Mask was a five-stored building. The first floor was the dining room, lit by a huge hearth and by lanterns hanging from the sides of the grand staircase. The next three floors had the particularity of being soundproof, thanks to magic cast during the construction of the inn. Those floors were dedicated to rent their luxurious rooms to travelers and regular patrons. The fifth floor served as the festhall. The roof had a landing platform for winged steeds and flying ships.
+
+After the Spellplague of 1385 DR, the land around the inn broke free and started floating in the air, becoming an earthmote. To keep the earthmote in a fixed position, the owners of the Mask commissioned a set of heavy chains big enough to hold still a giant, and a floating, unstable bridge allowed patrons to access from the ground. Around 1479 DR, Liset Cheldar commissioned a magic portal to allow easy and more comfortable access to the Mask.
+
+Defenses
+As of 1366 DR, Ophala had twelve battle horrors at her disposal to protect the Mask. She was also a skilled and powerful wizard.
+
+Around 1479 DR, the Mask was protected by its patrons, most of them Mintarn mercenaries hired by Lord Dagult Neverember.
+
+Services
+
+The Mask served many kinds of meat dishes done to order, including singular hot pies made of boar and veal, bacon and kidney, seafood, or chicken liver. Its Daintyfish skewers dish was made using twenty little fishes called silverflashes. The Daintyfish was dipped in herbed butter and sizzled over a flame until they're crunchy. Likewise, the Mask offered an assorted menu of mussel-and-basil soup, chowders, turtle soup, octopus broth, mushrooms doused in an herb-and-garlic sauce, and scallions and fennel soaked in a parsley-and-mint chicken broth. For sweets, the Mask offered blackberry-and-apple pies, topped with cream and sliced almonds; palm-sized gooseberries, almond tarts, and when chocolate was available, strawberries in a chilled chocolate coating.
+
+As of 1479 DR, a sellboard allowed people to offer jobs to mercenaries and adventurers.
+
+Prices
+A room for a night had a price of 16 gp, including stabling services and as much food and drink as desired, while a single dinner had a price of 10 gp. If a client desired the company of one of the ladies from the staff, an additional 45 gp were added to the bill.
+
+Wine of good quality cost 6 gp, firewine 9 gp, and elverquisst 20 gp. A mug of ale or cider had a cost of 4 cp.
+
+As of 1479 DR, Liset had added fine feywine and strong dwarf liquor to her menu. A glass had a cost 10 gp, while a bottle cost 50 gp.
+
+A rare delicacy, spider egg souffle, was served as a decadent treat at the inn for a mere 50 gp.
+
+History
+Around 1363 DR, Ophala Cheldarstorn built the Mask, seeking to run a friendly place she would like to stay in. The Mask became widely popular in the North and around the Sword Coast in the following years.
+
+During the Spellplague of 1385 DR, the land around the inn was affected and became an earthmote. Quick thinking guests secured it with tethers, and dozens of thick ropes as if were an anchored ship. The inn floating in the sky quickly became popular across all Faerûn that same year.
+
+However, when Mount Hotenow erupted in 1451 DR, the ropes holding the earthmote in place were destroyed and the earthmote wandered off aimlessly over the Sea of Swords for months. When the owners were able to alter its course and return it to Neverwinter, the city was devastated and almost deserted. Even after its owners re-opened the Mask and bound it to the harbor of Neverwinter using giant chains, the Mask quickly fell to bankruptcy and eventually was abandoned.
+
+Some time before 1479 DR, Liset Cheldar, a presumed descendant of Ophala, approached Lord Neverember and convinced him to not only allow her to reclaim the Mask, but also to sponsor its reopening. In the years following its reopening, the Mask recovered its status as one of the most popular festhalls across Faerûn.
+
+Rumors and Legends
+According to Volo, it was rumored around 1366 DR that the Mask was connected to dwarven chambers in the Underdark, that stored smokepowder.
+
+It was also believed that the inn had a few secret rooms with their own secret entrances. Another rumor had it that magical panels were around all corners of the Mask, equipped with fire wands that staffers used to attack troublemakers.
+
+It was believed that the masks used by the staffers were magical masks patterned from a Netherese artifact—owned by Ophala herself—that had many magical properties, such as to allow its owner to fly, teleport without error, know alignment, and comprehend languages.
+
+It was also said that Elminster was once found with his head stuck in a chimney (although Elminster said that it was a laundry chute, actually).
+
+Another rumor was that a friendly ghost of a former staff member who died of fever haunted the Mask. The ghost was said to help her companions with the chores, close unused doors, kiss upset or lonely patrons, and even alert other staffers of events that would damage the Mask or its clients.
+
+It was also believed that inside the Mask, there was a gate, but its exact location and destination were a mystery.
+
+Notable Inhabitants
+Ophala Cheldarstorn, owner of the Mask around 1374 DR.
+Zundaerazylym, a laundress and seamstress around 1374.
+Liset Cheldar, owner of the Mask around 1491 DR.
+General Sabine, a Mintarn mercenary and general of Neverwinter military forces around 1491 DR.
+Mraelra Shantree, a hostess of the Moonstone Mask in the late 15 century DR.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Morgur's Mound
+
+Morgur's Mound was the ancestor mound of the Thunderbeast tribe of the Uthgardt. It was located within the Crags, and was named for the brother of Uthgar.
+
+Description
+The mound was roughly shaped like a creature known as a "thunderbeast" to the Uthgardt, described by some as a wingless dragon with a long neck. Prior to the late 15 century DR, the totem of the Thunderbeast tribe—a skeleton of a long-dead thunderbeast—sat atop the mound, and the wizard Amelior Amanitas speculated that this skeleton was likely that of a brontosaurus. In the late 15 century DR, this skeleton had disappeared, and was replaced by a row of massive bones protruding along the mound's back from the head to the tail.
+
+Enormous cairns encircled the mound out to a quarter mile, housing the bones of revered warriors of the Thunderbeast tribe.
+
+History
+Throughout the Mound's history, superstitious members of the tribe often buried magic items within it, believing they would be watched over by the spirits of the dead.
+
+When the Thunderbeasts visited the mound for Runemeet in the late 15 century DR, they found that the mound had been dug up, and both the thunderbeast skeleton and the treasures within had been stolen. This theft was committed by the Red Wizards of Thay, who took the bones back to their nearby Dread Ring and animated them.
+
+The tribe stopped visiting the mound in the following years, which left it open to robbers and looters who claimed most of the hidden magical items buried there.
+
+Rumors & Legends
+Morgur's Mound was believed to be the burial site of Morgur, Uthgar's mortal brother.
+
+Rumors claimed that Thunderbeast shamans could animate the skeleton atop the mound whenever their tribe was in dire need of protection. Even after its disappearance, as many as four smaller dinosaur skeletons were said to lie in wait within the mound to defend its buried treasures.
+
+Appendix
+
+Appearances
+Adventures
+Storm King's Thunder
+Novels
+Son of Thunder
+References
+
+---
+
+## Morningdawn Hall
+
+Morningdawn Hall was a temple to Lathander in the town of Shadowdale in Shadowdale in the mid–14 century DR. It was shaped like a phoenix.
+
+Structure
+The temple was built in the shape of a phoenix, with each stone wing curving up to form two towers on either side of its double-door entrance.
+
+Services
+For a time in the mid—14 century, temple services were led by High Morninglord Rewel Thunderstorm. During his tenure he was served by seven lesser priests.
+
+History
+During the Time of Troubles in the, the sage of Shadowdale Elminster took the young magic-user Midnight to the temple, in order to complete a ritual that would bring forth the Eye of Eternity. Due to the instability of the Weave he inadvertently opened a portal to the plane of Gehenna. Meanwhile, the avatar of the god Bane and an elemental form of Mystra fought a terrible battle at the temple, as Elminster attempted to close the otherworldly rift. As the Celestial Stairway opened up above them, Bane was destroyed, Elminster dove through the portal to close it from the other side, and Morningdawn Hall was leveled in the ensuing explosion.
+
+Years later, after the Zhentarim invasion in Hammer of the, Morningdawn Hall destroyed for the second time, this time in a great fire. The clergy of Lathander were all killed or forced to flee the village of Shadowdale.
+
+Appendix
+
+Appearances
+Adventures
+ Shadowdale: The Scouring of the Land
+Novels
+ Shadowdale
+
+Tantras
+References
+
+fr:Antichambre de l'aube
+
+---
+
+## Mozgriken
+
+A mozgriken was the result of an illithid tadpole being inserted into a svirfneblin gnome and then subjected to a dangerous psionic ritual. The ritual involved channeling energy straight from the Plane of Shadow into the ceremorph, as svirfneblin implantation normally led to the death of both the host and the tadpole.
+
+Description
+Mozgriken heads resembled the heads of normal illithids, except they only had three tentacles instead of four, and lacked a mouth. Their tentacles seemed shadowy, with the tips fading in and out of the shadows, and their skin was pitch black. They were as small as normal gnomes, but were heavily disfigured with a crooked posture and twisted appendages.
+
+Personality
+Mozgriken were averse to combat, and actively avoided it, even when holding an advantage. They were rendered cowardly and evasive by the cruelty of their masters, but due to their own weakness relative to other beings in the Underdark, they accepted illithid rule for the most part. Because of this, they were trusted to carry out reconnaissance missions for the mind flayers without a risk of them escaping.
+
+Combat/Abilities
+Mozgriken held a host of psionic powers to help them accomplish their intelligence-gathering missions. Mozgriken only fought to escape after their spying was discovered, and every decision after this point was made directed at this goal.
+
+Similar to normal deep gnomes, the mozgriken could use their psionic powers to camouflage themselves in natural environments. They could also hide the presence of themselves and others using a form of psychic invisibility, and prevent their thoughts from being read. When searching for their targets, they could also use their powers to detect the presence of thinking lifeforms, heighten their senses, and even see through the eyes of targets they made telepathic contact with. Once a target had been located, they would probe the minds of their targets, searching for crucial information to relay to their master.
+
+If a mozgriken was discovered they could temporarily don a shadow-form to escape their opponents, although it could only move through darkness and couldn't interact with the physical world, making it useful only for hiding and escaping. If forced to fight, mozgriken could use their psychic abilities to change form, although this was an incredibly strenuous process that became harder the more different the form was. They could only imitate the physical qualities of the things they became, and not magical or supernatural abilities. More likely, a mozgriken would use their powers to change one of their limbs into a weapon, taking on all physical and material properties of the weapon they chose. If a mozgriken were to run out of psychic power in the middle of a fight, they could drain their own bodily fluids to recover this power. Doing so was very physically taxing and required days of rest to properly recover.
+
+Society
+Mozgriken culture took elements from both their svirfneblin and illithid ancestries. Within illithid hives, these creatures were extremely meek as a result of their treatment by the illithids. Mozgriken were also considered too weak to survive on their own in the Underdark, forcing them to cooperate with their masters. These three-tentacled ceremorphs were despised by the svirfneblin, owing to the hatred they had for the brain-eating illithids, and also by the illithids, because of their imperfections. Regardless, their aptitude for stealth and psionic powers of shape-changing made them useful spies for the illithids.
+
+These creatures could be found occupying the ruins of Tellectus, abandoned by their original masters. This group had enslaved a group of mongrelmen and used them as thralls. A handful of mozgriken also lived in Oryndoll under the employment of the Lore Filchers.
+
+Ecology
+Because of their lack of a mouth, mozgriken could only consume the fluids of the brain rather than the brain itself, and could only communicate telepathically. The process that created mozgriken often killed both the larvae and the subject. The tadpoles that were chosen to become mozgriken were often weak and small and would otherwise be fed back to the elder brain. They did possess some method of reproduction as, when abandoned, they were capable of growing in population.
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Moonsword
+
+The Moonsword was the weapon wielded by Eilistraee, the drow goddess of moonlight and swordwork.
+
+It was a +5 dancing keen bastard sword.
+
+References
+
+---
+
+## Mount Hotenow
+
+Mount Hotenow  known to the ancient dwarves as Glaurimm, was a volcano amid the Crags mountain range, situated to the northeast of the city of Neverwinter on the Sword Coast North, deep in Neverwinter Wood. It was home to a large population of fire elementals, warming the Neverwinter River to the point where it never froze over, even in the heart of winter, giving the city its name.
+
+A shadowy reflection of Mount Hotenow also existed in the Shadowfell. Unlike its Torilian counterpart, the Mount Hotenow of the Shadowfell was always spilling rivers of lava, which flowed to the city of Evernight.
+
+Description
+Prior to its eruption, Mount Hotenow was described as a twin-peaked mountain, with the taller peak standing south-southeast of the shorter one. Both were barren of trees following some great fire in the past that had allowed the top soil to erode away.
+
+After its eruption, the lower peak was gone and the rock of the mountain was shattered. Mount Hotenow looked like a set of serrated teeth that many described as a "door to the Nine Hells" (or the Elemental Chaos, according to others). A river made of pure elemental fire followed a serpentine path throughout Hotenow's interior and underneath the surrounding mountains and hills of the Crags.
+
+Geography
+
+Within Mount Hotenow were largely untapped deposits of alum, nitre, and sal ammoniac. Following the eruption, deposits of rare black diamonds were found in the crater's rim.
+
+Flora & Fauna
+The volcano also had a tendency to attract creatures like fire giants and red dragons to make their homes near it.
+
+Following the Spellplague of 1385 DR, creatures that could be found within Mount Hotenow included bloodfire oozes, fire archons, fire bats, fire beetles, galeb duhrs, flamespiders, geonids, magma beasts, salamanders, volcanic dragons, and xorn, while on its slopes could be found elemental weevils.
+
+History
+
+Since Neverwinter‘s founding, Mount Hotenow had long been a majestic landmark that featured in the bedtime stories and urban legends of the city's inhabitants as the home of fire giants, the fearsome red dragon Karrundax, and many other blazing beasts.
+
+In the, a small adventuring party rediscovered the ancient dwarven city of Gauntlgrym beneath the volcano. The party, consisting of Dahlia Sin'felle, Korvin Dor'crae, Valindra Shadowmantle, Athrogate, and Jarlaxle Baenre, made it all the way to the legendary forges. There, the latter two were betrayed by their Thayan allies, with Athrogate hypnotically forced to activate the forge. This briefly awoke the primordial Maegera, who, in a fit of rage, released a burst of energy so powerful that it forced the eruption of the volcano. The resulting earthquake and combination of smoke and lava destroyed much of Neverwinter, killing thousands. The eruption entirely destroyed the settlement of Thundertree.
+
+Over the next few decades the Cult of Maegera led by the mad fire giant Gommoth emerged within Mount Hotenow, attracting many of its fire-worshiping denizens. Having felt a shared "rapturous awakening" during the volcano's eruption they sought to re-awaken Maegera from her slumber once again.
+
+In the, a dwarven expedition led by Vandra Hillborn ventured into Mount Hotenow in hopes of finding an entrance to Gauntlgrym.
+
+In the late 15 century DR, Mount Hotenow nearly erupted again due to the activities of Orn, a fire giant who tried to create a dragon-slaying weapon using its magma river. Due to the actions of a band of adventurers, the eruption did not occur. Mount Hotenow had a minor eruption again in the late 1490s DR, when Edgin Darvis and Holga Kilgore happened to ride past on their way south to Neverwinter.
+
+Rumors & Legends
+Throughout recorded history, there had been many legends surrounding Mount Hotenow. Some believed that it sat atop a passage to the Nine Hells or a gateway to the Elemental Chaos. Others claimed that it had a secret entrance to Gauntlgrym. Following the Spellplague, in Neverwinter and Helm's Hold, there was an oft-told tale that suggested anyone who dared to enter its caves was to become cursed to die in a fire within one year.
+
+Notable Locations
+
+Landmarks
+ The Caverns of Karrundax, the network of caverns and tunnels that wound throughout the mountain, formed around an underground earthmote claimed by the red dragon after which it was named.
+ The Charred Woods, the once-vibrant forest that was scorched by the volcano's eruption.
+ The Fiery Pit, the chasm within the lowest depths of Mount Hotenow, and the prison of one of the lost Dawn Titans.
+ Heartleaf's Garden, a single surviving tree that was tended by the dryad Heartleaf.
+ The River of Flame, the flowing river of liquid flame found within the deepest reaches of the mountain.
+
+Settlements & Structures
+ Firecross Bridge, a great bridge that spanned one of the many chasms that wound across the mountain.
+ Fireguard Fortress, an old dwarfhold that dated back to the lost realm of Delzoun.
+
+Notable Inhabitants
+ Karrundax, a young red dragon.
+ Vandra Hillborn, leader of the dwarven expedition seeking Gauntlgrym in 1479 DR.
+ Gommoth, a fire giant and leader of a community of fire creatures who wanted to provoke a more powerful eruption in 1479 DR.
+ Qalthus, an exiled shadar-kai from Xinlenal.
+
+Appendix
+Behind the Scenes
+Enow is an archaic version of the modern English word enough. Hence, 'Hotenow' may be a pun on 'hot enough', as in the idiomatic American phrase, 'Hot enough for you?'
+
+In the movie Honor Among Thieves, the Fagradalsfjall volcano in Iceland was used to represent Mount Hotenow. By a fortunate coincidence, it had begun erupting on March 19, 2021, with the first lava flow in the area for 6000 years. The production team, already filming elsewhere in Iceland, used the opportunity to film a scene with it as a backdrop.
+
+Notes
+
+Gallery
+
+Appearances
+
+References
+
+fr: Mont Chaudenow
+pt-br:Monte Ignágora
+
+---
+
+## Monster Manual 2 4th edition
+
+Monster Manual 2 is a core sourcebook for the 4-edition  ruleset. An expansion upon the first Monster Manual, it presents many new monsters, as well as new versions of older ones.
+
+Contents
+Like the first, Monster Manual 2 consists of only four chapters, though the first chapter composes most of the book. The chapters are as follows:
+ Monsters A to Z — This chapter, by far the largest, includes roughly 300 monsters from abolethic skum to yochlol tempters, listed alphabetically. Each section focuses on a particular monster type, with a small amount of background information for use in games, along with statistics for use in an encounter.
+ Glossary — An explanation of the terms used in the book, such as creature origins (including natural creatures and elementals) as well as game mechanics terms.
+ Racial Traits — This chapter serves as a supplement to the Player's Handbook, providing players with alternatives to the core races in the form of "monster" races. Unlike the core races, however, these races are not extensively playtested and can be unbalanced compared to the others.
+ Monsters by Level - A listing of all the monsters detailed in the book, sorted alphabetically by level and monster role.
+
+Index
+
+Appendix
+External Links
+
+Gallery
+
+---
+
+## Monster Manual 3 4th edition
+
+Contents
+
+Monster Manual 3 is an expansion upon the first and second monster sources, including many new monsters, as well as new versions of older ones. Unlike its predecessors, this book contains no information on playable monster races.
+
+The chapters are as follow:
+
+ Monsters A to Z — This chapter, by far the largest, includes roughly 200 monsters, from abyssal hulks to yuan-ti, listed alphabetically. Each section focuses on a particular monster type, with a small amount of background information for use in games, along with statistics for use in an encounter.
+ Glossary — An explanation of the terms used in the book, such as creature origins (including natural creatures and elementals) as well as game mechanics terms.
+ Monsters by Level - A listing of all the monsters detailed in the book, sorted alphabetically by level and monster role.
+
+Index
+Characters
+ •  •  •  •  •  •  •  •  •
+Creatures
+ •  ( •  •  •  • ) •  ( •  • ) •  •  ( •  • ) •  ( • ) •  •  •  •   •  •  •  •  ( •  •  •  •  •  • ) •   •  ( (:  •  •  •  •  • ) •  •  •  •  •  •  • ) •  ( •  • ) •  •   •  ( •  •  • ) •  •  ( •  • ) •  ( •  • ) •  ( •  •  • ) •   •  •  •  •  •  •  •  ( •  • ) •  •   •   •  •  ( • ) •  •  •  •  •  ( • ) •  •  •  ( •  •  •  •  • ) •  •  •  •  •   •   •  •  ( •  • ) •  •  •  •  ( • ) •  •  ( •  •  • ) •  ( •  • ) •  •  •  •  •  ( • ) •  •  •  •  •  •
+
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Locations
+Planes
+ •  •
+Layers
+
+Settlements
+ •
+Miscellaneous
+Events
+ •
+Materials & Substances
+ •  •
+Vessels
+
+Appendix
+External Links
+
+---
+
+## Monster Manual III
+
+Monster Manual III might refer to:
+ Monster Manual 3, 4th edition (2010)
+ Monster Manual III, 3.5 edition (2004)
+
+For other books titled "Monster Manual", see Monster Manual.
+
+---
+
+## Mortal Strike
+
+Mortal Strike was the favored weapon of Oghma, the god of knowledge in the Faerûnian pantheon.
+
+Powers
+It was said to be a +3 longsword with no obvious special powers or a +5 dancing defending longsword. He could summon it into his hand whenever he had need and he was specialized in its use.
+
+Appendix
+References
+
+---
+
+## Mother-Of-Mists
+
+Mother-Of-Mists  was an island in the Trackless Sea lying some way south of Lantan and west of Chult.
+
+Appendix
+Gallery
+
+References
+
+FR:Mère-des-brumes
+
+---
+
+## Moor Runners
+
+The Moor Runners were an adventuring group active in the mid–14th century DR.
+
+History
+The Moor Runners got their name by killing trolls in the Evermoors.
+
+Members
+ Delkin Snowdawn
+ Thard of the Sky Ponies
+ Inri
+ Alin Cateln
+ Tannin
+
+References
+
+---
+
+## Mount Melody Walk
+
+Melody Mount Walk was a magically lit tunnel in the Castle Ward of Waterdeep that ran west up to the cliffs on which the New Olamn barding college was situated. The tunnel contained a little-known portal between Waterdeep and the keep in Rassalantar.
+
+The tunnel was continuously resounding with music due to an ongoing concert known as the Neverending String of Pearls that was performed by bardic students from New Olamn in a small alcove in the tunnel.
+
+Appendix
+References
+
+---
+
+## Moray
+
+Moray was the westernmost settled island of the Ffolk and the most wild of the southern Moonshae Isles. As of the late 15 century DR, it was a land torn apart by conflict, and the Black Blood tribe of lycanthropes controlled most of the island.
+
+Geography
+Moray lay in the southwest of the Moonshae archipelago on the edge of the Trackless Sea. It sat south of Norland, west of Gwynneth, and north of Flamsterd.
+
+It was a green and verdant island, but the rocky and mountainous terrain rendered most of the wilderness unfit for settlement. The Trollclaw Range dominated the north of the island while the Orcskull Mountains dominated the south. The center of the island was a wetland known as the Breasal Marsh. The Shannyth River flowed almost the whole length of the island, beginning in the Orcskulls in the south and flowing north through the marsh and emptying into the Sea of Moonshae.
+
+Flora & Fauna
+Moray was awash in colorful wildflowers in both the lowlands and highlands.
+
+The Moonshaes' famous moorhounds originated on Moray. It was also home to a species of great red deer, and the Shannyth River Valley was home to many bees and butterflies.
+
+History
+The island was one of the first in the Moonshaes to be settled by the Ffolk when they arrived in the 2 century DR.
+
+In the mid–14 century DR, Elminster Aumar travelled to the isle of Moray. Here, he and King Dagdar of the Kingdom of Moray successfully hunted red deer with a pack of moorhounds. After this, the two heard the echoing cries of the maiden of Highpeak, and the king told the sage of her legend. During his time here, he also visited Moray-town, and then left on a trader's galleon.
+
+After the Ffolk and Northlanders came together in the United Moonshae Isles in the, Northlander raiders turned their attention to the Orcskull Mountains, and their efforts made the island considerably safer than it had been previously. This led to an influx of Ffolk and Northlander settlers. The Northlander fishers largely settled along the north coast while Northlander cowherders settled the upland meadows of the Orcskulls.
+
+Following the rise of the fey realm of Sarifal and during the events of the Spellplague, the humans scoured the island of fey, including elves, and were in turn driven out by the lycanthropes of the Black Blood tribe, who sought to turn the island into a land just for them. The island was all but abandoned by the humans, and came to be thought of as cursed.
+
+By the late 1470s DR, the northern shore had been resettled by Northlander fishers until the Black Blood tribe, led by an embodiment of Malar, killed the men and forced the women and children into a trap at the Battle of Caer Moray, where the lycanthropes would have slaughtered them all if not for the intervention of Chauntea.
+
+As of, the island was feared as a lycanthrope badland and the remaining settlers saw themselves as fighting a doomed battle for their land. The countryside was littered with ruined buildings, pillaged villages, and burned farms. At this time, House Kendrick controlled Caer Moray and Dynnegall (which were both under constant threat of attack from the Black Blood tribe), Amn controlled Kork (which was too far from the island's moonwells to attract much attention from the Black Blood), and Northlanders held a few small settlements, notably Farview (which provided timber for the Storm Maiden to build her ships). During this year, tribes of orcs, ogres, and ettins increased their attacks on the settlements along the coast, and giants became more active in the island's west.
+
+By, the Ffolk inhabitants remained loyal to High King Derid Kendrick, and warred with the Black Blood tribe and other monstrous inhabitants of the isle in hopes of one day securing the island and restoring it as a land of the Ffolk.
+
+Inhabitants
+Moray was long home to humans who lived alongside halflings. However, they uneasily shared the island with giants in the north, orcs and ogres in the south, lizardfolk in the Breasal Marsh, and the many lycanthropes. The island was home to many shifters, most of whom belonged to the Black Blood tribe. Firbolgs, goblins, and trolls were also not uncommon in the more remote parts of the island. Prior to the Spellplague, the island was home to fey such as water sprites in the Shannyth river and leprechauns who teased unwary travelers.
+
+The center of the island's orcish power was an underground settlement in the heights of the Orcskull Mountains, which numbered about 500 as of the mid–14 century DR.
+
+Following the lycanthrope takeover of the island, any humans who continued residing on Moray did so at their own peril and with great hardship. Their militias trained to be able to fight lycanthropes even without silvered weapons, and to resist the effects of the lycanthropes' diseased bites. Strangers were often not allowed to enter a community unless they proved they were not lycanthropes by drawing their own blood with a steel knife.
+
+Notable Locations
+ Caer Moray, a small port town that was once the capital of the island but had become one of the few remaining outposts of the Ffolk on Moray as of the late 15 century DR.
+ Dennin's Delve, a ruined dwarven stronghold that contained an inactive portal to Alaron isle.
+ Dynnegall, a small village on the edge of Lac Dynnegall that was known primarily as a place to harvest peat.
+ Farview, a village that lay on edge of the Shannyth Forest.
+ Kork, a village on the eastern shore of Moray on Kork Head with a population was supported by Amn.
+ Langmuir, a small mining settlement located on the east coast of Last Head, the island's southern tip.
+
+Legends & Rumors
+On particularly hot summer days or particularly cold winter days, a loud wail could be heard echoing from the Orcskull Mountains, which was believed to belong to a grieving mother known as the maiden of Highpeak who dwelt in a castle of glass.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+Connections
+
+FR:Moray
+
+---
+
+## Mountain orc
+
+The mountain orcs were a subrace of orc dwelling in northwest Faerûn.
+
+Appendix
+
+See Also
+ High Forest orc
+Appearances
+
+References
+
+Connections
+
+---
+
+## Mordoc SeLanmere
+
+Mordoc SeLanmere, also known as the Pale Knight or the White Prince, was the self-proclaimed first and most powerful vampire king in all of Toril.
+
+Relationships
+Mordoc was the disciple of Eldrith the Betrayer, but he was not a loyal servant to her. He did provide her with slaves and fighters for her army.
+
+Abilities
+Mordoc also proved himself to be an excellent alchemist.
+
+History
+The Battle of Bones and the Keep of Pale Night
+Mordoc, after becoming the king of the vampires, led his army of vampires, nightwalkers, and nightshades into the Battle of Bones, where they began to thrive. Just outside, or at the edge, of the battlefield, Mordoc built the Keep of Pale Night where his vampire servants lived with him. At one time, the assassin Karne was sent to slay him, but Mordoc defeated Karne in battle and appeared to kill him instead. Karne however, had found his mortal enemy and had feigned his death.
+
+Mordoc then pledged his allegiance to Eldrith the Betrayer, though his true masters lay in Mulhorand. Mordoc's ultimate goal was to destroy the city of Baldur's Gate and through Eldrith, he hoped to achieve this. He assisted Eldrith by supplying the troops of the Dark Alliance. Later, an agent of Karne in Xantam's thieves guild posed as a servant of Eldrith and tricked him into building for him the Orb of the Undead, which was used to animate the dead in the Crypts of Ilmater in Baldur's Gate.
+
+The Onyx Tower
+When Vahn, Kromlech, and Adrianna killed Eldrith and used a shadow gate to escape the Onyx Tower, Mordoc was overjoyed as he was now the ruler of the Onyx Tower. Mordoc informed his allies in Mulhorand of the delay and informed them of his plan to move the Onyx Tower to Baldur's Gate to destroy the city.
+
+When the Harpers activated all the elemental foundations to activate the tower and thus hope to seal it, Mordoc gained access to the tower. However, Karne discovered Mordoc's plan and with his enemies, the Harpers Jherek, Dorn Redbear, Allessia Faithhammer, Ysuran Auondril, Borador Goldhand, and Vhaidra Uoswiir, the Keep of Pale Night was infiltrated.
+
+Karne then freed Vahn, Kromlech, and Adrianna from Mordoc's holds and with Jherek, he stayed behind to fend off Mordoc's zombies, mummies, and shadow creatures. The eight adventurers fought Mordoc and bested him in battle causing him, weakened, to flee and move the Onyx Tower to Baldur's Gate.
+
+Mordoc's Gate
+Mordoc used the Onyx Heart to transform the citizens of Baldur's Gate into zombies under his control, while his vampires transformed other citizens into vampires. The soldiers outside of Baldur's Gate launched a desperate attack against the undead. Mordoc renamed Baldur's Gate to Mordoc's Gate and to allow his allies from Mulhorand to enter the Onyx Tower, he added an entrance to it. While it took the eight adventurers, Karne and Jherek about a month to enter Mordoc's Gate, their appearance changed the tide of the battle.
+
+Karne and Jherek assisted the soldiers of Baldur's Gate in their battle against the zombies, while Dorn Redbear defeated the vampiric form of Randalla Brasshorn, the lieutenant of Mordoc's general Xanhast. The eight adventurers then entered the Onyx Tower through its newly added entrance, a small weakness that would bring his downfall. They advanced through the Onyx Tower and eventually through the final shadow gate, which had been restructured to go to the Plane of Shadow.
+
+The eight adventurers once again battled Mordoc, who had become nearly as powerful as a god. But they managed to kill him, leaving one of them entitled to the leadership of the Onyx Tower. However, they decided to destroy the Onyx Heart, which in turn broke the elemental foundations, destroying the Onyx Tower and restoring Baldur's Gate to the way it was.
+
+Legacy
+In the late 15 century DR, Mordoc's bust was displayed in the manse of Cazador Szarr, a vampire lord, and a patriar of Baldur's Gate.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Modron
+
+Modrons  were a race of immortals known for their zealous adherence to the principles of law and order above all else. Just as fiends were considered the embodiment of evil and celestials the embodiment of good, so were modrons the embodiment of the universal principle of order.
+
+Description
+A modron's appearance was varied and depended on their position in modron society. The most common appearance of a modron was as a geometric shape, such as a sphere or cube. The number of sides as well as structure determined a modron's position in their society. The more sides a modron had, or the more complex their structure was, the higher they were ranked. The highest ranked modrons were humanoid in appearance.
+
+Modrons were said to have no sense of humor.
+
+Combat
+Modron armies battled the forces of chaos and entropy across the multiverse. They used logic in developing their tactics and followed proven battle strategies. They were relentless in battle, fighting without compassion or remorse, and were willing to sacrifice themselves to achieve their objective.
+
+Abilities
+All modrons were immune to mind-affecting, emotion-affecting, and magic that drew upon the Positive Energy or the Negative Energy plane. They were resistant to cold, fire, and acid. Hierarch modrons had the innate ability to duplicate the effects of clairaudience, clairvoyance, command, dimension door, teleport without error, and wall of force spells at will.
+
+Society
+Modron culture was simple. Each modron obeyed all commands given to it by any modron one rank higher. These commands were obeyed without question. Modrons were only aware of modrons one rank higher than they were, for example, a quadrone could issue orders to tridrones, duodrones, and monodrones, but would only obey orders from pentadrones. If a modron higher in rank than a pentadrone issued an order to a quadrone, it would view it as some exceptionally powerful pentadrone. All modrons were aware of the existence of Primus, however. Modrons were unwavering in their devotion to order, departing Mechanus to complete strange tasks in the name of law. The modrons served Primus, godlike ruler of Mechanus.
+
+There were fourteen castes of modrons, divided in two major categories:
+
+ Modron PopulationBaseMonodrone300 million+Duodrone55 million+Tridrone6 million+Quadrone1.5 million+Pentadrone500,000HierarchDecaton100Nonaton81Octon64Septon49Hexton36Quinton25Quarton16Tertian9Secundus4
+
+Relationships
+The lillendi, guardians of the Infinite Staircase, held a grudge against the modrons for reasons unknown. Slaadi detested modrons and had waged epic battles against the forces of Mechanus for millennia.
+
+Religion
+Hierarch modrons were known to occasionally sponsor neutral-aligned witch doctors as divine patrons.
+
+Physiology
+Despite appearing as mechanical constructs, modrons were not entirely mechanical. Every modron had a mix of biological and mechanical parts, the degree of which was determined by their place in modron society. Lower ranked modrons had more mechanical components integrated within them than higher ranking modrons.
+
+Most modrons had no sense of smell, and no modron had a sense of taste. Modrons used auditory and tactile sensors. Since modrons communicated telepathically while in Mechanus, their sense of hearing was primarily used to detect sounds and to facilitate communication with non-telepathic visitors to Mechanus. Modrons felt pain and physical contact via their tactile sensors and were able to inhibit this as required. All modrons had eyes, with hierarchs having two or more eyes, allowing them to have a full field of vision.
+
+Unlike most other creatures, modrons had no need to breathe or consume food and liquid to survive. Modrons required regular intake of a unique form of psychomorphic energy. It had the consistency of thick jelly and emitted a faint inner light. It was harvested by monodrones and stored in a large pool in Regulus. Modrons had to intake this substance every few weeks or else begin to degrade.
+
+History
+The giant deity Annam All-Father acquired the secret of rune magic for his people from a high-ranking modron by winning a game of lots about a thousand years after the giants' Thousand Year War against the dragons.
+
+Mechanus and the modrons were discovered by Netherese explorer and archmage Lady Polaris around, who also magically bound and employed them as guards.
+
+Around that same time, a group of properly operating (albeit degraded) modrons had been left stranded in the Labyrinth in the Underdark after being separated from the previous Great Modron March.
+
+Modrons were sometimes summoned by Calishite mages, and could be encountered in the city of Waterdeep.
+
+Appendix
+See Also
+Great Modron March
+Notes
+
+Appearances
+
+Further Reading
+
+References
+
+Connections
+
+---
+
+## Monstrous Compendium Volume Three Forgotten Realms Appendix (MC3)
+
+Monstrous Compendium Volume Three: Forgotten Realms Appendix is a Forgotten Realms game accessory published in 1989 by TSR, Inc.
+
+Creatures
+ Creature  Page  Other Appearances  Variants  Description
+
+Appendix
+External Links
+
+---
+
+## Mother Tara's Festhall
+
+Mother Tara's Festhall was a banquet hall in the town of Shadowdale.
+
+Geography
+Located on the western side of the Shadowdale Trail, Mother Tara's Festhall was situated between Mane's Manor and Hammerhand Bucko's house.
+
+Services
+The two-story dwelling specialized in fine wines, good food, gaming, and sundry other "divertissements" for the traveler or the merchant. Prices were ten gold for an evening, which included a sumptuous banquet, dancing, singing, and the opportunity spend additional money at the gaming tables, or the hired help. While the Zhent occupation, the festhall became a dirty brothel and most of the frequent occupants were mid-level officers, who spent their time and money gambling.
+
+Staff
+The festhall was owned and operated by the halfling, Mother Tara, who kept a honest establishment and was proud of her reputation. She was backed up by Briig, who was said to be a flesh golem with an illusion spell placed upon him, which was a lie, but one that Mother Tara used to her advantage. Most of the gold earned from customers was repaid to the Zhentarim in the form of heavy taxes.
+
+History
+In 1359 DR, one of Mother Tara's girls turned out to be a weretiger and was slain by one of the Knights of Myth Drannor, Florin Falconhand.
+
+During 1374 DR, the Zhentilar took over the vale of Shadowdale and utilized all the surrounding area, including the festhall.
+
+Prices
+Banquet hall could be rented for 10 gp per night.
+
+References
+
+---
+
+## Most Solemn Order of the Silent Shroud
+
+The Most Solemn Order of the Silent Shroud was a Kelemvorite organization of embalmers, gravediggers, and other cemetery workers in the employ of the Church of Kelemvor.
+
+Organization
+The Solemn Order's membership rolls were kept confidential by the Church. Its members could identify each other through a set of secret signs.
+
+Activities
+The members of the Solemn Order reported undead activity and instances of graveyard desecration to the Church of Kelemvor.
+
+Appendix
+References
+
+---
+
+## Mount Zatal
+
+Mount Zatal was a volcanic mountain in Maztica. The people of the Valley of Nexal considered it sacred to the god Zaltec. Mount Zatal was also the highest peak in Maztica, at around 19,000 feet (5,800 m) high.
+
+Geography
+Mount Zatal was a volcanic mountain that was just south of the Valley of Nexal. There were hot caves and tunnels within the mountain that held rivers and lakes of lava and even pools of molten gold.
+Inhabitants
+No humans lived on Mount Zatal's slopes, but the mysterious Ancient Ones lived within its caves.
+
+The young tlalocoatl Hokioptl also lived in caverns below Mount Zatal, having been sent by Azul to guard the Cloak of One Plume there.
+History
+Although Mount Zatal was dormant for many centuries, it periodically acted up. During the reign of the Nexalan Revered Counselor Izco, shortly after the consecration of an expansion of Nexal's Great Pyramid of Zaltec, it erupted, which the Nexalans took to mean that the consecration sacrifice was insufficient, and quickly arranged another.
+
+Years later, when Naltecona was the Revered Counselor, the omen of the third year was that Mount Zatal belched smoke and ash for twelve days, before a mysterious breeze on the thirteenth day came from the east to wipe the clouds away. In addition, for the seventh year's omen, the snow on Zatal's summit turned blood-red for ten days. Finally, in the tenth year, Mount Zatal erupted again as Nexal fell and Qotal returned, covering the valley in ash and smoke.
+Appendix
+References
+
+---
+
+## Moonfire (potion)
+
+Moonfire was a thick, pearlescent -looking potion, that, after pledging themselves to Selûne, would cure a lycanthrope of their affliction.
+
+Appendix
+
+References
+
+---
+
+## Mordenkainen
+
+Mordenkainen  was a prolific archmage from the world of Oerth who was responsible for many powerful and useful spells.
+
+Description
+
+Mordenkainen had a hawk-like face, with a permanent frown that gave the appearance of alertness and almost anger, and a penetrating gaze. He kept a close-trimmed beard and wore grey, high-collared robes. His voice was deep and melodic.
+
+While imprisoned in Barovia, his hair and beard were both long, black and peppered with grey streaks. When mad, his eyes crackled with eldritch power.
+
+He later changed his hairstyle, favoring a bald head and a trimmed goatee, but lost none of his penetrating  stare.
+
+Personality
+Typically stubborn and one who did not suffer fools gladly, Mordenkainen could be difficult even with his friends.
+
+While suffering from his madness, he was convinced that enemies were everywhere and he was being constantly watched by evil agents.
+
+Possessions
+In addition to many scrolls and potions, Mordenkainen was known to possess a bag of holding, a set of bracers of defense, a crystal ball, a +1 dagger, an efreeti bottle, a wand of cold, a wand of fear, and three pearls of power.
+
+Relationships
+
+Mordenkainen was the leader of the Oerthian group of wizards known as the Circle of Eight, which included many spell inventors whose names were well known on Toril, such as Bigby, Drawmij, Nystul, Otiluke, Otto, Rary, and Tenser.
+
+Mordenkainen was a good friend of Elminster Aumar; the two met on numerous occasions at Ed Greenwood's house on Earth to exchange news from each other's worlds, as well as spells and lore, along with his apprentice, Rautheene. On occasion, the two were also joined by Dalamar of Krynn.See also other articles in the Wizards Three series in Dragon Magazine.
+
+He was also an acquaintance of Khelben Arunsun.
+
+History
+Although Mordenkainen resided primarily on Oerth, by at least the, his spells were not uncommon among spellbooks in Faerûn. He often traveled to Waterdeep with his friends for revelry in a city where he would not be recognized.
+
+Following the demise of the Circle of Eight at the hands of Vecna during the lich's first failed attempt at obtaining greater deity status, a grieving Mordenkainen was consoled by Elminster, as the wizards reflected on the fragility of their good deeds.
+
+At one point, Mordenkainen created the helmet of disjunction; it's unknown if he ever made more than one. It replicated the effect of his spell known as Mordenkainen's disjunction, making it capable of breaking any 'enchantment' within its vicinity. However, he later wanted nothing to do with that "accursed thing" for fear of it destroying all his magical possessions, and he angrily rejected Xenk Yendar when he came to him in Waterdeep circa 1400 DR seeking help dealing with it.
+
+Mordenkainen later traveled to Barovia in an attempt to free the local population from its vampire darklord Strahd. However, he underestimated Strahd's power and, after barely surviving a confrontation with him, he lost his spellbook and his staff, eventually losing his memory and being driven to the brink of madness. He became known by the locals as the Mad Mage of Mount Baratok.
+
+In the, Mordenkainen, still suffering from bouts of madness, was in Waterdeep, where Storm Silverhand and Elminster were helping him to recover from them.
+
+By the, Mordenkainen inhabited the Tower of Urm, a dwelling that he used as a vehicle to travel through the multiverse. He occasionally visited Avernus to study the effects of the Nine Hells over the schools of magic and to ensure the balance of the universe.
+
+Rumors and Legends
+His toenails appeared to be a venerated item in some places.
+
+Spells
+
+Mordenkainen's spells known in the Realms included:
+Mordenkainen's arcane seal
+Mordenkainen's celerity
+Mordenkainen's defense against lycanthropes
+Mordenkainen's defense against nonmagical reptiles and amphibians
+Mordenkainen's disjunction
+Mordenkainen's electric arc
+Mordenkainen's encompassing vision
+Mordenkainen's faithful hound
+Mordenkainen's faithful phantom defenders
+Mordenkainen's faithful phantom guardian
+Mordenkainen's faithful phantom shield-maidens
+Mordenkainen's force missiles
+Mordenkainen's involuntary wizardry
+Mordenkainen's lucubration
+Mordenkainen's magnificent mansion
+Mordenkainen's penultimate cogitation
+Mordenkainen's private sanctum
+Mordenkainen's protection from avians
+Mordenkainen's protection from insects and arachnids
+Mordenkainen's protection from slime
+Mordenkainen's sword
+
+Appendix
+Notes
+
+Appearances
+
+Gallery
+
+External Links
+
+References
+
+FR:Mordenkainen
+
+---
+
+## Monitor lizard
+
+Monitor lizards were a species of large carnivorous reptiles.
+
+Combat
+These lizards could be aggressive, using their jaws to attack enemies or tear at prey.
+
+Ecology
+Many monitor lizards were quite capable swimmers and silent stalkers.
+Habitats
+These creatures could be found in northwest Faerûn, in the swamp known as the Mere of Dead Men, as well as the Eastern Shaar of southeast Faerûn.
+Relationships
+Monitor lizards were sometimes tamed by troglodytes for use as guard animals of their warrens.
+
+History
+During the mid–14 century DR, the  Ginger Palace on the Dragon Coast boasted an outdoor reptile park that was home to several monitor lizards.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Mordai Vell
+
+Mordai Vell was a tiefling noble and the leader of the Ashmadai cult in Neverwinter in the late years of the 15 century DR.
+
+Description
+Vell had golden eyes, which was uncommon for tieflings.
+
+Personality
+He was charming and manipulative and had a hand in many of the goings-on in Neverwinter. He was also described as "arrogance incarnated" because of his behaviour.
+
+Activities
+Vell was the leader of one of the Ashmadai cells operating out of Neverwinter, but his interpretations about Asmodeus' tenets and edicts were rather liberal. Vell saw his service to the god of the Nine Hells as a means to an end rather than a serving a master.
+
+Possessions
+Vell was the owner of Vellgard Manor, a noble villa in the Blacklake District of Neverwinter.
+
+History
+Mordai was the fruit of an affair between a noble of a human family and a devil. When all his humans relatives died in the Ruining of 1451 DR, Vell inherited all of their fortune.
+
+Around 1479 DR, Vell began to change the agenda of the Ashmadai of Neverwinter to take control over the city instead of following the tenets of Asmodeus or to follow the Ashmadai's agreement with the Thayans. Vell readily encouraged his followers to mark shellacked buildings and corpses with the symbol of Asmodeus. This was to intimidate others into joining the ranks of the Ashmadai. The symbol was effective as it managed to scare the townsfolk into co-operating with the demands of the Ashmadai.
+
+Under Vell's orders, the Ashmadai also began to turn New Neverwinter's people to their cause — controlling most of the mercenaries guarding the Wall and wooing a handful of Dagult Neverember's close retainers. The Ashmadai's effort to seduce Neverember's allies went all the way to the top, with Mordai Vell personally pursuing General Sabine. Ultimately, Vell hoped to induct Neverember himself to the cult.
+
+In 1479 DR, Vell convinced an Ashmadai cultist, Elden Vargas, to send his insane wife, Karis, to Helm's Hold for treatment. However, Vell then called in favors with the Prophet Rohini to prevent Vargas from seeing his wife. Turning on Vell, Vargas began to go by the alias of the "Tormentor" and began to mind control citizens and brand them with the symbol of Asmodeus, so as to implicate Vell's Ashmadai. Vell was able to turn this situation to his favor by aiding a group of adventurers to deal with Vargas.
+
+Around 1484 DR, Vell discovered the Waterclock Guild's Crypts, and in there the means to release and control the primordial Maegera the Inferno, who was sealed in Gauntlgrym. Vell wanted to use Maegera's energy to create a powerful magical scepter that would give him the authority to dissolve the Ashmadai's agreement with Thay and would also give him the authority to command all Ashmadai cells in Faerûn. Discovering Vell's intentions, Lord Neverember sent a group of adventurers to deal with Vell once and for all. The adventurers arrived in time to stop the ritual and killed Vell and his minions, ending the primordial threat to Neverwinter and dealing a crippling blow to Ashmadai activity in the region.
+
+Appendix
+Notes
+
+Appearances
+Organized Play & Licensed Adventures
+Forge of the Dawn Titan • Storm over Neverwinter
+
+References
+
+---
+
 ## Mohrg
 
 Mohrgs were vile undead creatures that took the form of skeletons containing only their animated viscera, including a tongue-like organ with a paralyzing touch. They arose from the bodies of unrepentant mass murderers and were driven by a desire to continue their killing and by a hatred for the living.
@@ -1162,6 +4629,320 @@ Appearances
 External Links
 
 Gallery
+
+References
+
+---
+
+## Monkey
+
+Monkeys, or kera in the Lidahan script, were a collective term for several small, non-hostile mammals.
+
+Varieties
+ Baboon
+ Bearded monkey, species of monkey found in Payit in Maztica.
+ Flying monkey
+ Howling monkey, species of monkey found in Far Payit in Maztica.
+ Lemur, a species of monkey that shared coloration with racoons.
+ Monkey spider
+
+Behavior
+While some monkeys were vicious in groups, most would attempt to flee from a fight, climbing a tree to escape any predators.
+
+Ecology
+
+Habitats
+Monkeys could be found in nearly all of the forested areas of Chult and the jungle regions of Maztica, including Payit and Far Payit.
+
+In the Hordelands, monkeys could be found at the lowest levels of the Katakoro Plateau as well as the Kera Valley in Shou Lung.
+
+Summoning
+A single celestial monkey could be summoned by the summon monster I spell, while 3 could be called upon by the summon monster II spell.An ordinary monkey could be summoned by the Summon nature's ally I spell.
+
+Usage
+In the bazaars of Zakhara, trained monkeys could generally be bought for around 60 to 120 gp. They were particular prized as pets in the city of Huzuz. Similarly, monkeys were trained in Calimshan to perform certain actions or how emotions in response to specific Talis cards.
+
+Some were known to train monkeys to open locks with keys.
+
+Cultural Significance
+In some elvish societies "Monkey Face" was a slur slung at half-elves.
+The Maztican goddess Nula often appeared in the form of a long-limbed monkey.
+
+Appendix
+
+See Also
+Monkey hengeyokai
+Monkey katanga
+
+Appearances
+
+References
+
+---
+
+## Moss agate
+
+Moss agate was one of many forms of quartz agate found in the Realms.
+
+Description
+Impurities of manganese formed grayish green fern-like patterns that resembled moss embedded in these pink to yellow-white semi-transparent or translucent ornamental stones. Moss agate took a bright polish and was occasionally used for inlay work on coffers and other fine furniture. If the moss pattern formed a significant design, like an eye or a circle, this stone might be used in a ring or pendant in a polished cabochon. A typical stone had a base value of 10 gp.
+
+Powers
+Moss agate enhanced serenity and increased stability so it was used in powdered form in sleeping draughts and in all manner of potions to assist the mixing of components that might otherwise clash. Its powers were such that it could be safely added to any potion and even failed attempts did not explode or turn poisonous.
+
+Appendix
+See Also
+ Agate
+ Banded agate
+ Eye agate
+ Fire agate
+ Frost agate
+ Tiger eye agate
+Gallery
+
+External Links
+
+References
+
+fr:Agate-mousse
+
+---
+
+## Moonbar
+
+Moonbars were rare gemstone unique to the Realms that were found in desert and tropical regions on Toril.
+
+Description
+Moonbars were usually found in large crystals, typically 1 ft (30 cm) long by 4 in (10 cm) wide, which were rectangular with rounded corners. Milky white and opaque with a nacreous sheen, moonbars had a naturally smooth surface and, once washed clean, required no further alteration. Cutting was only necessary if the crystals were broken.Moonbars of pale blue with green and gold mottling were also encountered in West Faerûn and Icewind Dale. A typical specimen had a base value of 1,000gp.
+
+Moonbars were considered sacred to Kiaransalee by her followers—appropriate for sacrifice, or to be consecrated for use, or recognized as boons or omens when found.
+
+Priestesses of Sehanine Moonbow wore holy symbols carved from moonbar.
+
+Powers
+Powdered moonbar was useful as a substitute component in the formulation of necromancy spells. It was also used to make inks, potions, and as a spell component for items that created, controlled, or healed undead creatures, including binding together parts from disparate corpses. Wands that cast "calling" spells (a subschool of conjuration) could be improved by fashioning them using an unbroken moonbar.
+
+Rumors and Legends
+The largest known moonbar served as the lid of an unknown king's casket in a barrow on the Trollmoors, and was almost seven feet (two meters) long.
+
+Appendix
+External Links
+
+References
+
+FR:Lingot de lune
+
+---
+
+## Mother of pearl
+
+Mother of pearl was the name in the Realms for small, cut and polished, trochus and turbo shells.
+
+Moonshadow Hall, the temple of Selûne in Yhaunn, used mother of pearl in decorating its two ceremonial swords, the Waxing Crescent and the Waning Crescent.
+
+Description
+They were used for making buttons etc. and for inlay work. Unpolished, they were sold for as little as 5 cp per pound (0.45 kilograms). Cut and polished shells had a base value of 5 sp per pound.
+
+Appendix
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Morninglow Tower
+
+Morninglow Tower was a temple in Daggerford dedicated to Lathander in the 14 century DR and to Amaunator in the late 15 century DR.
+
+Location
+Morninglow Tower was located along Duke's Way overlooking the city's southern gate, also known as the Farmers' Gate, not far from the Happy Cow inn.
+
+Inhabitants
+The congregation was led by Lightlord Liam Sunmist in the 1360s DR.
+
+As of 1372 DR, Liam still remained the head of the temple in Daggerford, but under the title of a Dawnbringer.
+
+As of 1479 DR, the temple was under the care of Luc Sunbright.
+
+Appendix
+Notes
+
+Morninglow Tower is referred to as Moonglow Tower in The North: Guide to the Savage Frontier.
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+References
+
+---
+
+## Monstrous scorpion
+
+Monstrous scorpions or giant scorpions were a breed of arachnids known for their venomous stingers. They were found in warm deserts.
+
+Description
+These creatures were reported to have a green carapace with yellowish green legs and pincers, and a black segmented tail. However brown and black specimens had been observed by those who survived encounters with the creatures. A bitter smell surrounded the giant scorpions, probably stemming from the venom in their tail-stingers.
+
+Combat
+Attacking all other creatures that comes within range, the giant scorpions seeked to grab their prey with their claws and while holding onto the prey, stabbed it with their venomous tail. Highly deadly the scorpion poison could kill most prey that were injected from the tail-stinger, even the giant scorpions themselves were not immune to the venom, and should they accidentally stab themselves they too were likely to die. They were able to fight 3 enemies at once by using both claws and stinger against separate opponents.
+
+Ecology
+Habitats
+On the continent of Faerûn, giant scorpions could be found in the Anauroch desert, the Calim Desert, the Raurin Desert, and the Quoya Desert. They could also be found in the jungles of Chult, including a rare subspecies known as venomtail scorpions, whose poison was highly sought after by local hunters.The giant scorpions laired in underground burrows or in dungeons, laying between 5 and 20 eggs, and often dragging their victims back into their lairs to be consumed.
+
+Uses
+In Zakhara, the Wind of Fate often applied venom from giant scorpions to their blowgun darts.
+
+Some races were known to use their chitin to construct armor.
+
+Relationships
+Monstrous scorpions were known to be used by members of the Refuge Bay Trading Company of Chult. These scorpions were either trained or magically bound to a representative, both as defenders and enforcers. One of these representatives with a giant scorpion could be found in Baldur's Gate docks circa 1360 DR. The scorpion served as hands of his master, as he lost one hand as punishment, and the other was paralyzed in a fist. The monstrous scorpion was also a reminder and overseer of that Refuge Bay Trading Company to ensure he never stole from them again.
+
+Summoning
+A small fiendish monstrous scorpion could be summoned with the summon monster I spell. The spell summon monster II could be used to summon a medium-sized fiendish monstrous scorpion, while a large fiendish monstrous scorpion required the spell summon monster V. For a huge fiendish monstrous scorpion specimen to be summoned the spell summon monster VII were needed. Only with summon monster IX would a gargantuan fiendish monstrous scorpion answer the call of the caster.
+
+Rumors & Legends
+ In the land of Anauroch, many Bedine told tales around campfires of epic battles between these creatures and giant spiders. Such tales were rooted in observed facts and had morals, though ulugarr typically considered them to be nothing more than legends.
+
+Trivia
+ Unlike some giant arachnid species, such as the less widespread solifugid and uropygus, monstrous scorpions were not considered to be spiderkind.
+
+Appendix
+Appearances
+
+Gallery
+
+Further Reading
+
+External links
+
+ D&D Beyond
+References
+
+---
+
+## Mother Tara
+
+Mother Tara was a cheery halfling from the Vilhon Reach, who owned Mother Tara's Festhall in Shadowdale.
+
+Description
+Tara had dark curly hair which was graying.
+
+Personality
+She held the deed on a house next to her festhall known as Mane's Manor, and would rent the place out to adventurers or other large parties. In all her operations, Mother Tara managed aboveboard and honest establishments, keeping her reputation intact.
+
+History
+Around 1374 DR, the Zhentarim took control of Shadowdale and all establishments, including Tara's festhall and manor.
+
+References
+
+---
+
+## Moonlit Tower
+
+The Moonlit Tower was a mysterious tower situated on a crag northwest of the town of Maerstar in the Vast in north Faerûn.
+
+Structure
+It only appeared when the moon was full and its rays illuminated the crag. Then there would appear a small and slender tower, glowing blue-gray as though it were constructed of tangible moonlight.
+
+Interior
+Adventurers were able to enter the tower and describe the interior. Inside, there were seven rooms and a rooftop floor. These were connected by a spiral stair of stone treads that floated without any visible means of support, and with no rail either. Magic spells cast within the Tower had unusual effects.
+
+History
+There were many different tales about what was found within. At times, the Tower was either empty or inhabited by rare or bizarre monsters; for example, an argos, or beholders, steel shadows, watchghosts, and strange, unknown creatures. Sometimes there was treasure, sometimes there was not. On occasion, explorers returned with a disease, eggs that hatched into dangerous monsters, or statuettes that reverted to living monsters.
+
+Rumors
+Sages theorized that when not on the crag the Moonlit Tower traveled between several other planes or even to other worlds. When it disappeared, any explorers still inside were rarely seen again.
+
+References
+
+---
+
+## Moonfire (person)
+
+Lady Moonfire was a light-hearted half-elf warlock and the civic leader of Loudwater as of 1479 DR.
+
+Personality
+Lady Moonfire was very upbeat, usually smiling or laughing. Even when she was Loudwater's leader, she was carefree and showed little interest in her duties. She was far more interested in adventure, although she had never been on any. These factors meant that although she was very likable, some residents of Loudwater feared she was too flippant to be a decent leader.
+
+She was known for her proclivity to court well-mannered tieflings.
+
+Possessions
+Lady Moonfire tended to wear a black gown, decorated with patterns threaded in silver. She also wore a silver amulet and ornate rings.
+
+Activities
+In theory, Lady Moonfire's duties as the civic leader of Loudwater included ensuring the town's protection, paying and supervising officials—notably the rivermaster and dockhands—and collecting taxes. However, she preferred to delegate these tasks to others, and instead focused on throwing lavish parties for rich or famous residents and visitors. She invited her guests to these events with fancy invitations scribed in gold ink. She was also known to frequent the Green Tankard tavern.
+
+As of 1479 DR, Lady Moonfire was actively looking to find trustworthy adventurers who would escort her to the High Forest and help her explore Draigdurroch Tower. While outwardly her only motivation for wanting this appeared to be a desire for adventure, in fact she knew of the reputation of the warlock Draigdurroch and wished to gain access to his books on magic and rituals.
+
+History
+In late summer in the, temperatures around Loudwater and the Gray Vale began dropping unnaturally fast, and local farmers began urgently petitioning Lady Moonfire to solve the problem. Based on her own knowledge of Draigdurroch Tower, she was able to deduce that it was likely associated with the problem.
+
+Appendix
+Appearances
+Adventures
+Barrow of the Ogre King • Dungeon #159: "Menace of the Icy Spire"
+References
+
+---
+
+## Moonfire (disambiguation)
+
+Moonfire may refer to:
+ Moonfire (spell): the spell;
+ Moonfire (potion): the potion;
+ Moonfire (person): the leader of Loudwater;
+ Moonfire, the holy substance.
+ Eilistraee's moonfire, a spell
+
+---
+
+## Moonfire
+
+Moonfire was a magical substance sacred to the goddess Selûne the Moonmaiden.
+
+Description
+Moonfire was formed as a product of certain rituals conducted by the Selûnite clergy. If the goddess was pleased by a ceremony, she bathed the milk or wine (or its combination) poured on the altar with moonlight, transforming it into moonfire. This strange matter had an opalescent appearance, glowed with a white light, and felt as soft as silk with a consistency like custard. It could move, flowing like a fluid down from the altar.Magic of Faerûn, page 17, has the Mystery of the Night ritual be a precursor to producing moonfire. However, while the prior sources discuss moonfire immediately after the Mystery of the Night, it is not necessarily the case that the Mystery produces moonfire. Instead, the conditions described for creating moonfire are the same as those of the night stalk ritual. This article treats moonfire as potentially being produced from any ritual.
+
+Effects
+This mass of moonfire crept away from the altar to touch or envelop whatever or whoever the goddess chose with a variety of results, such as enchanting items, empowering the faithful, and destroying undead.
+
+Some common magical items produced by moonfire were:
+ Moon bracers,
+ Mooncloak,
+ Moon mote,
+ Moondraught,
+ Ring of shooting stars,
+as well as various magical shields. On a typical occurrence, magic items worth a total of 5000 to 10,000 gold pieces would be created. Any remaining moonfire fell inert but was still potent and collected by the priests as moonfire salve, with up to six jars. These items were intended for use by the clergy.
+
+In certain circumstances, mortals who were faithful to Selûne and were touched by moonfire would receive a magical power. Some common examples were:
+ Dispel magic, once a month;
+ Feather fall, when in moonlight or falling uncontrolled;
+ Fly, one night a month, but as often and as long as needed;
+ Identify, on objects touched, seven times a month;
+ Infravision, for up to 30 feet (9.1 meters);
+ Locate object, once a month, but with no limit on time or space;
+ Telekinesis, once a night and with no limit on duration, but only in moonlight;
+ The power to remove a curse with a touch, once a month;
+ Immunity to injury and powers from the moonblades of the elves; and
+ Total control over transformations for lycanthropes of any breed for seven months.Moonfire would do these things only as Selûne willed it. No-one knew of a way to force it to produce a certain result, those who tried to steal it came away empty-handed, and it disappeared when the goddess desired.
+
+Beliefs
+
+The clergy saw moonfire as a holy substance; if stolen, they would go to extraordinary lengths to retrieve it. When moonfire appeared, the clergy considered it a good sign, believing the night was blessed and they were worthy. Those it touched were thought to be marked for a special destiny.
+
+History
+Once, High Initiate Courynna Jacerryl and her followers once performed a "night stalk" ceremony in honor of the goddess, who was pleased and produced moonfire''. Courynna called this a blessing, and when it touched Maera's hands, Courynna suggested the goddess had something special planned for her. She directed her followers to gather the sacred substance.
+
+Appendix
+See Also
+ "Drops fallen from the moon"
+ Moonfire (potion)
+
+Notes
 
 References
 
@@ -1253,6 +5034,291 @@ Lesser Evils
 References
 
 Connections
+
+---
+
+## Mount Talath
+
+Mount Talath was the name of one of the tallest mountains in the western half of the Nathaghal range of Halruaa. It was the site of the High Temple of Mystra and one of the largest collections of magic in all Faerûn.
+
+Notable Locations
+ High Temple of Mystra
+ This was sometimes said to be the very center of magic in Halruaa.
+ Mount Talath
+ "Mount Talath" was also the name of the village built on its slope that housed the staff of the temple.
+ Talathgard
+ This fortress defended the mountain, the town, the temple, and even Talath Pass to the south.
+
+Appendix
+References
+
+---
+
+## Mount Grimmerfang
+
+The Hollow Mountain, later called Mount Grimmerfang, was a mountain in the Vast in north Faerûn. It was the capital of both the orc kingdom of Vastar and the dwarf kingdom of Roldilar.
+
+History
+The mountain was originally known as the "Hollow Mountain".
+
+At some point, the monstrous orc Ologh rose to the position of Overking of Vastar, and created a throne for himself, holding court from the Hollow Mountain. When Ologh the Overking was killed by the black dragon Iyrauroth in the Year of Writhing Darkness, 572 DR, the throne was left vacant and Vastar descended into civil war.
+
+Eventually, Grimmerfang defeated his last rival and seized the throne in the Year of the Loose Coins, 580 DR. Orc-King Grimmerfang renamed the Hollow Mountain after himself, to Mount Grimmerfang.
+
+However, dwarves invaded and Vastar fell in the Year of the Spellfire, 610 DR. The dwarves took Mount Grimmerfang from the orcs and slew Grimmerfang himself at the mountain. He was left entombed there.
+
+The same year, the dwarves founded the kingdom of Roldilar, under Deep King Tuir Stonebeard. Tuir placed his throne deep beneath Mount Grimmerfang and held court from there. It was here in the Year of the Costly Gift, 645 DR, that Maskyr One-Eye bought the vale of Maskyr's Eye from King Tuir.
+
+Resurgent orcs engulfed Roldilar in the Year of the Bloody Crown, 649 DR and the dwarves retreated to Mount Grimmerfang. This ended in the bloody, 20-day-long Battle of Deepfires beneath the mountain, and the fall of Roldilar, the Realm of Glimmering Swords, that same year.
+
+Knowledge of the location of Mount Grimmerfang eventually became lost. Those few dwarven elders still alive by 1370 DR who could still identify Mount Grimmerfang refused to tell humans or elves about it.
+
+Iyrauroth returned to Mount Grimmerfang sometime between 1369 DR and 1373 DR and laired there.
+
+Location
+By 1370 DR, the sage Elminster of Shadowdale estimated Mount Grimmerfang to be the first peak north-east of Mount Wolf, placing it in the Giantspike or Earthspur Mountains. However, he'd not investigated this himself to confirm. The map on page 145 of The City of Ravens Bluff, seen in the sidebar, depicts Mount Grimmerfang as actually just south-east of Mount Wolf.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mount Wolf
+
+Mount Wolf was a mountain in the Vast in north Faerûn. It lay within the Giantspike Mountains, a part of the Earthspur Mountains, and towered over the North Road south of Maskyr's Eye. It marked the proper border of the lands of the Vast and was a prominent local landmark to both the human and dwarf inhabitants of the land.
+
+Flora & Fauna
+Once, packs of gray wolves made their lairs close to the peak, but they competed with local hunters for the highly valued stags in the area. The hunters culled many wolves and reduced their numbers significantly.
+
+Rumors & Legends
+The sage Elminster of Shadowdale estimated that the legendary Mount Grimmerfang was the first peak north-east of Mount Wolf. However, he'd not investigated this himself to confirm.The map on page 145 of The City of Ravens Bluff, shown in the sidebar, shows that Mount Grimmerfang is in fact south-east of Mount Wolf.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Moonwater
+
+The Moonwater was a temple of Selûne in the town of Ylraphon in the Vast.
+
+Organization
+In the Year of the Shield, 1367 DR, it was quite a small temple, tended to by only five clerics, including their leader, Catalan Bree.
+
+Features
+The Moonwater housed a number of magic items related to the moon, mostly gifted by elves leaving the area in the 14th century DR or dating back to when Ylraphon was an elven city.
+
+References
+
+---
+
+## Molydeus
+
+A molydeus, was a powerful two-headed tanar'ri demon that existed in a strange place outside the regular Abyssal hierarchy. Feared even more than the balors, they served both as intermediaries and enforcers for their respective demon lords.
+
+Description
+Molydei were enormous humanoid creatures that stood  tall and weighed . Their muscular bodies were covered in crimson red skin and equipped with a set of clawed hands. Their main head resembled a slavering, silver-eyed wolf or hyena, while a writhing serpent protruded out from their neck.
+
+At nearly all times, molydei carried a special demonic weapon specifically linked to them. Although it was normally a greataxe, its form was often dependent on the demon lord they served, such as manifesting as a flail for Yeenoghu. Jagged runes were carved into the weapon and a shimmering ruby laid within the base of the shaft. If a molydeus was slain, its weapon dissolved into a puddle of ichor.
+
+Personality
+Due to the nature of their relations to their respective demon lords, they had no room for treachery, and so served their lords faithfully. Even though they enforced their doctrine among high-ranking tanar'ri without bias, those below a certain level were thought to be too lowly to trust, and were kept in line with constant threats.
+
+Abilities
+Due to their two heads and truesight, it was nearly impossible to get the jump on a molydeus. Their various resistances made them hard to bring down physically, while possessing two heads increased their resistance to magical manipulation. A slew of spells were at their disposal, making them difficult to deal with, even disregarding their potent physical abilities. Most dangerous of these spells was possibly their power to cast imprisonment, using the ruby of their weapons as the component. The tanar'ri they summoned were often a small group of babaus or chasmes, or a marilith.
+
+Most dangerous of their powers was the venomous bite of their serpentine head. When their dripping fangs injected venom into a creature, even demons who were normally immune to poison, they would undergo a terrifying transformation into a mane. This transformation was so shockingly permanent that only some form of divine intervention or a carefully worded wish spell could undo it.
+
+Combat
+
+The heads of a molydeus took turns biting a foe in combat, while at the same time the demon attacked with its greataxe and used its potent innate spellcasting abilities. In battle, their myriad of immunities and resistances caused them to fight fearlessly, and they seldom retreated.
+
+Society
+Molydei were possibly the most dreaded demons in the entire Abyss, owing to their numerous horrifying features. Outside of having power rivaling that of the balor, a molydeus's snake head was directly linked to its demon lord master. Through it, a demon lord could communicate its desires through a molydeus, as well as see through the serpent's eyes at any time, making the molydeus a living conduit for their master's will. Besides their political power, molydei had the power to turn demons back into manes. The concept of being reduced to a barely sapient sub-tanar'ric weakling was a proposition so terrifying that nearly all demons feared the wrath of the molydei.
+
+Despite technically serving underneath a balor, the molydei had the authority of a demon lord, and was not loyal to any regular tanar'ri. Even the balor they served underneath would be reported to higher officials just as easily as a lesser demon if they were believed to be treacherous. Balors, however, could try to destroy a molydeus that questioned their devotion just as easily as a molydeus could attempt to report a balor to their superiors.
+
+Molydei were sometimes assigned a specific target to destroy by their demon lord, but their most common assignment was to roam the Abyss looking for demons to enlist into the Blood War and for deserters and intruders to punish as they saw fit. Another common position for them was as one of the many generals of a demon lord. Thanks to the fear and power they commanded, they were known to rule vast nations of demons on some Abyssal layers as if they were demon lords themselves.
+
+One of their chief, possibly most important jobs, was the protection of their demon lord's amulet. Demonic amulets not only allowed demons to be restored to life if they were destroyed within the Abyss, but also gave its possessors significant control over a demon lord and could strand them in the Abyss if destroyed. When not on the job, they could often be found lounging within their specific Abyssal domains, reminiscing over their past victories.
+
+Molydei were typically found alone or with only a small entourage of lesser demons, typically mariliths, which they enjoyed working with. A molydeus sometimes took balors, klurichirs, or other powerful demons in its mission as the enforcer of a demon lord. They could also summon chasme or babau demons, with which they shared a common role of recruiting and punishing. It was possible for a powerful spellcaster to summon molydei, although they rarely lasted long on the job and typically left their posts violently.
+
+Weapon
+A molydeus was bound to its weapon, and if it was stolen, they would hound the thief incessantly until they could reclaim it. When a molydeus's weapon became irretrievable or destroyed, the only way to acquire a replacement was to make a journey to the 400 layer of the Abyss and have one forged. This was done through an eight-hour ritual in which manes were used as the raw materials, and the process caused the old weapon to melt away.
+
+Creation
+Demons that performed acts of particular ferocity, showed devious cunning, or displayed acts of surprisingly genuine devotion could earn the favor of a demon lord. In these cases, these demons might be rewarded through an excruciatingly painful tormenting process in order to be molded into a molydeus. There was approximately one molydeus on every layer of the Abyss, and it was rare for them to encounter one another.
+
+History
+Some origin stories maintained that, when Tharizdun discovered the shard of utter evil and buried it in the Elemental Chaos, he charged seven angels with the protection of his treasure. The celestial beings were naturally obedient to his wishes, but were unsure if they were doing what they should be in listening to the scheming deity, leaving them frustrated and irresolute.
+
+Proximity to the shard caused their forms to violently wrench apart, turning them into the first of the molydei. While the snarling canine head symbolized their rage and fighting ability, the hissing serpent represented their mistrust of their masters and uncertainties about their given task. The axes normally wielded by molydei were sometimes described as tools containing the raw light of creation from their previous existence as angels.
+
+Notable Molydei
+Grekzith
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Mortal Consequences
+
+Mortal Consequences is the third book in the Netheril trilogy by Clayton Emery.
+
+Summary
+Sunbright Steelshanks and Knucklebones hunt for the Rengarth tribe, returning the hammer of Dorlas to his father Drigor on the way. They find the tribe with help from a Netherese mage. Sysquemalyn frees herself from her prison in a monstrous form and sets out for revenge against Polaris, Sunbright and Candlemas, killing Candlemas just after he solved the crop blight problem. Sunbright becomes shaman by challenging many of the tribe and leads them to a site he saw in a vision. Drigor, after being attacked by Sysquemalyn, finds Sunbright again, after his tribe rejects him for not wanting to fight the elves. Sysquemalyn impersonates the One King to send orcs after the Rengarth and Polaris’s land, and the Rengarth battle with the Cormanthyr after intruding on their territory. Sysquemalyn attacks Polaris during a truce negotiation, but she escapes. Sunbright convinces the Rengarth to side with the elves against orc raiders. Knucklebones is kindapped by Sysquemalyn, but Sunbright saves her.
+
+Index
+Characters
+Agler • Archloft • Aselli • Blackblossom • Blessedseed • Blinddrum • Bly • Brookdweller • Butterfly • Cappi • Cholena • Darkname • Deerspirit • Delmar • Diota • Drigor • Earthstork • Erig • Firstfortune • Forestvictory • Fullshrub • Gladejoy • Goodbell • Gracewealth • Graysky • Greatreeve • Hachne • Hammerlove • Heatherhill • Hilel • Iceborn • Jacinta • Kab • Kibbe • Kindbloom • Kingfeather • Knucklebones • Leafrebel • Lightrobin • Lionmoon • Littledark • Magichunger • Marshwind • Meadowbear • Micah • Mightylaugh • Monkberry • Oredola • Peacefinger • Pinemagic • Pleasantwalk • Polaris • Prinquis • Pullor • Rattlewater • Rightdove • Senon • Starrabbit • Starvalley • Strongsea • Sunbright Steelshanks • Sysquemalyn • Tamechild • Thornwing • Toch • Tulipgrace • Wreathhonor
+
+Aquesita • Ayaz • Crabbranch • Crystalfair • Deertree • Dorlas • Farmyouth • Fayina • Greenwillow • Igashum • Jambow • Jun • Kyle • Lady Greatas • Lord Greatas • Nightchild • Nodin • One King • Owldark • Ridon • Reindeer • Sevenhaunt • Shortdawn • Veridon • Waterfly • Wulgreth • Yasur
+
+Creatures
+ant • antelope • bass • bison • cardinal • cattle • chicken • crysmal • deer • dimetrodon • dinosaur • dog • dragonkin • dwarf • eel • elemental • elf • elk • firefly • gnome • goblin • gulguthydra • gull • half-elf • half-ogre • half-orc • heron • herring • horse • human (Angardt, Netherese, Northman, Rengarth) • jacinth dragon • kalin • kingfisher • kobold • laraken • lungworm • magebane • maggoth • mammoth • man-o-war • moon elf • musk ox • myconid • phaerimm • pig • pilot whale • pony • puffin • raven • snow lurker • squirrel • sunfish • tanar'ri • tortoise • troll • whale • wolf • wyvern • yak-man
+
+balor • bat • barbed fiend • bear • boar • buffalo • buzzard • casura • centaur • chamois • condor • coyote • crocodile • cuckoo • duck • eel • fairy • ferret • fire giant • fox • ghast • ghost • ghoul • giant lizard • goat • golem • hawk • imp • jackdaw • killer whale • lion • mayfly • minnow • mosquito • mouse • ogre • orc • polar bear • porcupine • rat • reindeer • remorhaz • rust monster • saber-toothed tiger • salamander • salmon • seal • shark • sheep • skunk • squirrel • turkey • turtle • vampire • vulture • walrus • war dog • weasel • whitefish • zombie
+
+Events
+
+Festival of the Harvest Moon
+Items
+
+Locations
+Abby Mountains • Anchor • Anchor Mountain • Arctic Rim • Ascore • Bandor Village • Barren Mountains • Blister • Channel Lock • Channel Mountains • Cold Forest • Coldfoot • Coniferia • Delimbyr River • Dementia Range • Earsome • Eastern Forest • Frothwater • Frostpaw • Harborage • High Ice • Ioulaum • Iron Mountains • Janick • Karsus • Kraal Brook • Lachery • Marsh of Simplicity • Narrow Sea • Northreach • Sanctuary • Sanguine Mountains • Scourge • Sepulcher • Seventon • The Alley • Thiefsward • Two Rivers • Vandal Station • Watercourse • White Owl Pass • Widowmaker Mountain • Zenith
+
+Abyss • Anauroch • Ascore Bay • Bloody Hill • Cantus • Columns of the Sky • Cormanthyr • Delia • Dire Woods • Far Forest • Far Horns Forest • Gillan River • Glorifier • Gods' Legion • High Forest • Hom • Illefarn • Myconid Forest • Nauseef Flow • Negative Energy Plane • Oxbow Lake • Patrician Peak • Purple Mountains • Quagmire • Rampant Mountains • Redsnow • Remembrance • Rampant Mountains • Redguard Lake • Specie • Star Mount • Street of the Faithful Protector • Sunset Mountains • Unholy Mountains • Vandal Station • Waterbourne River
+
+Magic
+Spells
+Anglin's wall • chain lightning • darkbolt • Fahren's glitterdust • fireball • icelance • Prug's plant control • Quantoul's selfmorph • Shan's web • stinking cloud • Valdick's forcecage • Volhm's chaining
+Weapons
+Harvester of Blood
+Misc
+mythallar
+
+glyph • mentalist • potion • Undine's door
+
+Organizations
+Hellbender Clan • Netherese Empire • Beluga Tribe • Raven Tribe • Sabre-Tooth Clan • Sons of Baltar • Tortoise Clan • Tribe of the Beluga • Tribe of the Elk • Tribe of the Gray Wolf • Tribe of the Griffon • Tribe of the Snow Tiger • Tribe of the Thunderbeast • White Bears
+
+Plants
+birch • cedar • elm • foxglove • lungwort • maple • oak • poplar • rose
+
+maple
+
+Misc
+How Dima and Nunki Tricked the Frost Giants • How Solenska Won the Heart of Ega • How White Bear Lost His Tail • measles • northern lights • Pandem's Pain • Sled • The Magic Spring • The One Eyed King and His Wife • The Red Knight and the blue Maiden • The Two Brothers • thieves' cant • Victory Dance • Why The Sky Burns Gold • Why Whales Live in the Sea
+
+whooping cough
+
+Religion
+Chauntea • Jergal • Kismet • Kozah • Moander • Selûne • Shar • Targus • Tempus • Vaprak
+
+Appendix
+References
+
+---
+
+## Moradin's Vein
+
+The Moradin's Vein, also called River of Gold, was a magical river of molten gold that flowed wherever the dwarven god Moradin willed it. The river was actually Moradin's lifeblood and could be used for magical travel.
+
+In the, duergar from Drik Hargunen used rune magic to contaminate the river with the Stoneplague disease. Several unscrupulous dwarves mined the contaminated river, which spread the Stoneplague among the dwarves of East Rift who handled the contaminated bullion. The plague was ended when the human hero Torrin Ironstar journeyed to Drik Hargunen and destroyed the rune.
+
+Appendix
+References
+
+---
+
+## Moonhoney
+
+Moonhoney was made from the feces of ground-dwelling worms that dwelt in the Abyss.
+
+Description
+Its color and consistency resembled that of honey, but with a smoky taste. When exposed to moonlight, it developed a temporary sweet flavor that was highly prized by humans and many demihumans. Moonhoney didn't spoil so it was ideal travel food. When swallowed, it would cure any poison in a person's system.
+
+Appendix
+
+References
+
+---
+
+## Moon Daggers
+
+The Moon Daggers were a gang organized by Myrkyssa Jelan in 1479 DR shortly after she escaped her imprisonment in the mythal beneath Ravens Bluff.
+
+The gang attempted to recover the Sarkonagael spellbook in the ruined dwarven city of Sarbreen beneath Ravens Bluff but were slightly slower than Jack Ravenwild and his hirelings, the Blue Wyverns, who beat the Moon Daggers to the book.
+
+Later, Myrkyssa and the Moon Daggers helped to defeat an attack by the slaver Fetterfist and his drow allies on a noble revel.
+
+Appendix
+
+Appearances
+Novels
+Prince of Ravens
+
+References
+
+---
+
+## Monkberry
+
+Monkberry was the Rengarth mother of Sunbright Steelshanks circa .
+
+Description
+The Rengarth woman used her hair to make bowstrings.
+
+Personality
+The strong-willed human female was an outcast in the Raven Tribe because she only bore one child.
+
+History
+Monkberry raised Sunbright after the death of her husband, Sevenhaunt, and granted him his father's greatsword, Harvester of Blood. When the shaman Owldark prophesied that Steelshanks would betray his people, Monkberry aided her son in fleeing from the tribe.
+
+Appendix
+Appearances
+Novels
+Sword Play
+
+References
+
+---
+
+## Moonsilver House
+
+Moonsilver House was a temple of Selûne in the city of Calaunt in the Vast in the mid–14th century DR.
+
+Location
+The temple lay in the south-western part of the city, not far from the docks.
+
+Inhabitants
+By 1358 DR, the temple was managed by High Priestess Wyndra Syrylstone, who held the title "Moon Mistress". She led twenty-two priestesses, as well as 229 lay worshipers. This was the case through 1367 DR and 1370 DR.
+
+Description
+Moonsilver House was one of two temples that dominated daily Calauntan life, at least for those of a more kindly nature.
+
+Appendix
+References
+
+---
+
+## Mocking Maiden
+
+The Mocking Maiden was an inn and tavern in the city of Calaunt in the Vast, operating around 1358 DR.
+
+It was a merry and busy place, but of excellent quality for only moderate prices. The staff focused on good food and on keeping adventuring patrons happy.
+
+References
 
 ---
 
@@ -1377,6 +5443,696 @@ FR:Pierremousse
 
 ---
 
+## Monster mount
+
+Monster mount was an enchantment spell that could charm creatures into being mounts or pack animals for a few hours.
+
+Effects
+This spell worked on a limited number of live (not undead) creatures of low intelligence. If the creatures were not able to resist the charm, they became domesticated and obedient and could be used as basic mounts or pack animals for the duration of the spell. The creatures had to be of appropriate size to carry the intended burdens. Each monster mount creature had to stay within 10 yd (9.1 m) of the caster or another affected creature to maintain the spell, i.e., the mounts could form a group, train, or phalanx as long as no creature got too far away from the caster or another affected creature.
+
+Creatures charmed by this spell would only carry riders or burdens. They would not fight except to defend themselves and would not knowingly endanger themselves. Any hostile action by the caster or a rider toward an enchanted creature broke the enchantment for all creatures. When the spell expired or was broken, the creatures halted and took no further action for one minute; then their natural instincts returned and they acted accordingly.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+References
+
+---
+
+## Morada Topolino
+
+Morada Topolino was a mansion and assassin/thieves' guild located in Delthuntle, Aglarond.
+
+Business
+Morada Topolino was involved in much of the crime of Delthuntle. It also ran a lucrative business in pink pearls, aided by the deep diving skills of Spider Parrafin and the divination magic of Wigglefingers.
+
+Guildhouse
+The Morada Topolino mansion in Delthuntle was described as "fabulous" and well-appointed. It was lavishly decorated inside and out.
+
+Leadership
+Morada Topolino was led by Pericolo Topolino, the "Grandfather of Assassins" until his death in 1481 DR. His captains were his old friend Wigglefingers the mage and his granddaughter Donnola Topolino.
+
+Notable members
+ Pericolo Topolino, leader and assassin
+ Donnola Pericolo, captain, socialite, and pickpocket
+ Wigglefingers, captain and mage
+ Spider Parrafin, deep diver
+
+Appendix
+Appearances
+ The Companions
+
+References
+
+---
+
+## Mouth of Song
+
+The Mouth of Song was a small shrine to Eilistraee located in the south central portion of the Moonwood, approximately a day's travel north of Quaervarr.
+
+Geography
+The shrine was located in a cave mouth beneath a treeless hill, atop which the dark elven worshipers and a few half-elven and elven faithful from Silverymoon danced in a great ring on moonlit nights.
+
+Inhabitants
+The area was frequented by followers of Eilistraee, the goodly drow goddess. The good drow (mostly females) danced and sang under the moon, and performed other ceremonies atop the hill where a small shrine to Eilistraee stood.
+
+Appendix
+References
+
+---
+
+## Moonshae Moonshine
+
+Moonshae Moonshine was a type of liquor. Danilo Thann carried it in his travel bag and considered it an "essential."
+
+References
+
+---
+
+## Morninglark
+
+The Morninglark was a magical elven harp that could only be operated through spellsong.
+
+Description
+The Morninglark a 20-stringed harp was made of dark wood marked with carvings of elven origin. Of particular note was a carving of a morninglark, which moved to the music played on the harp.
+
+History
+Some time during or prior to 1364 DR, the Morninglark was in the hands of an elven bard named Ingrival who was in the village of Taskerleigh near Waterdeep when it was attacked by the green dragon Grimnoshtadrano, who carried the harp to his lair. Ingrival was the sole survivor of the attack, but went mad in the process.
+
+Soon thereafter, the harp was sought by the half-elven sorceress Iriador Wintermist ("Garnet"), who used it to place a curse intended to take revenge on the Harpers. The curse consisted of the following elements: 1) Changing the songs of bards without their awareness, 2) causing crops to wither and die, 3) controlling monsters who used music for a weapon, and 4) influencing crowds through song.
+
+That same year, Elaith Craulnober was assigned by Evindal Duirsar to retrieve the Morninglark in order to restore his honor and reactivate his dormant moonblade for his daughter Azariah. He was joined by Danilo Thann and his companions, who were independently seeking Garnet and the Morninglark on behalf of the Harpers. Elaith eventually retrieved the harp and Danilo used it to reverse the curse. In the process, Elaith was badly injured defending Danilo, and the harp was consumed. In that way, Elaith failed his task; however, his moonblade recognized his honorable act and reactivated itself, so his journey was not in vain.
+
+Appendix
+Appearances
+ Elfsong
+
+References
+
+---
+
+## Morgalla
+
+Morgalla, known as Morgalla the Mirthful, was a dwarven entertainer from Earthfast in the Earthfast Mountains. She was an artist specializing in satirical cartoons.
+
+Description
+Morgalla was young and beardless. She had brown eyes and russet braids. She was about four feet tall and usually wore simple clothes.
+
+Relationships
+Morgalla was a member of Clan Chistlesmith and the daughter (or "darl") of Olam Chistlesmith and Thendara Spearsinger, a captain of the hearth guard of Earthfast.
+
+History
+Born around 1310 DR, growing up in orc-besieged Earthfast, Morgalla said her mother taught her to fight with a staff almost as soon as she could stand. Morgalla took an apprenticeship in the Chistlesmith trade of woodcarving, but retained an interest in songs and stories, and had a desire for adventure. On the rare occasion the dwarves gathered in the great clan hall for entertainments, Morgalla earned fame for singing, storytelling, and dancing.
+
+Finally, in mid-autumn of the Year of the Serpent, 1359 DR, the rogue princess Alusair Obarskyr came to the Earthfast Mountains and found Earthfast. Seeing a good cause to fight for, Alusair lent her aid to the defense against orcs and goblins. While there, she impressed the dwarves were own storytelling skill, and Morgalla befriended her.
+
+In the Year of the Turret, 1360 DR, the dwarves of Earthfast joined Cormyr's alliance against the Tuigan Horde. Morgalla accompanied the army and Alusair, becoming a veteran of the Alliance War. Afterward, Morgalla chose not to return to the Earthfast with the other dwarves. She was nearing her fiftieth birthday and expected to choose a mate and raise a family, or "hearth", and little time left for music and adventure. Instead, she journeyed to Cormyr to see Alusair's homeland.
+
+She spent three years in Cormyr, entertaining and trying to earn fame and an apprenticeship to a more experienced bard. However, she found little success as a dwarf bard, and instead became a satirical artist.
+
+In 1364 DR, Morgalla was sent by Vangerdahast, court wizard of Cormyr, to Waterdeep to aid Khelben "Blackstaff" Arunsun in locating the source of a curse on bardic music. She journeyed with Danilo Thann and Wyn Ashgrove, among others, to the High Forest and back, finally locating the culprit, Iriador Wintermist, in Waterdeep.
+
+Possessions
+Morgalla had an oaken staff topped with a jester doll with a green and yellow hat.
+
+Appendix
+
+Appearances
+Novels
+ Elfsong
+
+References
+
+---
+
+## Monastery of St. Fanal
+
+The Monastery of St. Fanal was a monastery, school, and library dedicated to Ilmater the Broken God. It lay in the hills west of the Alimir Mountains in Calimshan, on the Pevadaas Trail.
+
+History
+Saint Fanal, although a priest of Ilmater dedicated to alleviating suffering, believed that knowledge of the past would limit suffering in the present, and that educating oppressed peoples would expand their opportunities and capabilities. Thus he devoted himself to learning, preserving, and teaching history, and founded the monastery that bore his name late in the first century before Dalereckoning.This is "nearly fourteen centuries" before 1374 DR.
+
+Around 1374 DR, the Monastery was headed by Brother Bedon. Bedon instated a policy that no one who came to the monastery seeking knowledge could be denied.
+
+Activities
+Following the principles of St. Fanal, the Monastery operated as a center for academic learning, history, and art.
+
+There was a school for scribes and sages, training them to be objective in observation and investigation, so that they might be effective historians. Indeed, a slight majority of graduate monks and lay students went on to work at the Edificant Library at Spirit Soaring, a temple of Deneir, a god of scribes and writing. Others went further, to Candlekeep or the Vault of the Sages beyond.
+
+The Monastery also possessed a library, containing a number of works of history dating back to 132 DR. These detailed the human-settled lands around the Lake of Steam since the Age of Shoon, including Calimshan, the Border Kingdoms, and the Shaar.
+
+Inhabitants
+ Brother Bedon, head of the Monastery around 1374 DR.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mozah
+
+Mozah was a villager of Highcliff on the Sword Coast North in the 1370s DR.
+
+History
+Mozah was a villager who tasked an adventurer to get him some money. However, the adventurer did not come back. The Kalach-Cha could investigate into the matter. Upon returning with Mozah with his pay (which was located in Highcliff Castle, held by one of the zombies near the shadow priest), the Kalach-Cha could lie nothing was found and keep the money. Otherwise, the Kalach-Cha could give the money back and get half as a reward.
+
+Appendix
+References
+
+Appearances
+ Neverwinter Nights 2
+
+External links
+
+---
+
+## Monster Manual 5th edition
+
+Monster Manual 5th edition is a core sourcebook for the 5 edition of Dungeons & Dragons, published by Wizards of the Coast on September 30, 2014. It covers a range of monsters for the game.
+
+Index
+Creatures
+
+Credits
+ D&D Lead Designers: Mike Mearls, Jeremy Crawford
+ Monster Manual Lead: Christopher Perkins
+ Stat Block Development: Chris Sims, Rodney Thompson, Peter Lee
+ Story Development: Robert J. Schwalb, Matt Sernett, Steve Townshend, James Wyatt
+ Editing: Scott Fitzgerald Gray
+ Managing Editor: Jeremy Crawford
+ Producer: Greg Bilsland
+ Art Directors: Kate Irwin, Dan Gelon, Jon Schindehette, Mari Kolkowsky, Melissa Rapier, Shauna Narciso
+ Graphic Designers: Bree Heiss, Emi Tanji, Barry Craig
+ Cover Illustrator: Raymond Swanland
+ Interior Illustrators: Tom Babbey, Daren Bader, John-Paul Balmet, Mark Behm, Eric Belisle, Michael Berube, Zoltan Boros, Christopher Bradley, Aleksi Briclot, Filip Burburan, Christopher Burdett, Sam Burley, Mike Burns, Wesley Burt, Milivoj ´Ceran, Jedd Chevrier, Conceptopolis, Adam Danger Cook, Julie Dillon, Dave Dorman, Jesper Ejsing, Emrah Elmasli, Wayne England, Mike Faille, Toma Feizo Gas, Emily Fiegenschuh, Tomas Giorello, E.M. Gist, Lars Grant-West, E.W. Hekaton, jD, Jon Hodgson, Ralph Horsley, Kurt Huggins and Zelda Devon, Lake Hurwitz, Tyler Jacobson, Vance Kovacs, Daniel Landerman, Lindsey Look, Daniel Ljunggren, Raphael Lübke, Titus Lunter, Slawomir Maniak, Andrew Mar, Brynn Metheney, Christopher Moeller, Mark Molnar, Marco Nelor, Jim Nelson, Mark A. Nelson, Hector Ortiz, Ryan Pancoast, Adam Paquette, Jim Pavelec, Kate Pfeilschiefter, Steve Prescott, Vincent Proce, Darrell Riche, Ned Rogers, Scott Roller, Jasper Sandner, Mike Sass, Marc Sasso, Ilya Shkipin, Carmen Sinek, Craig J Spearing, Annie Stegg, Zack Stella, Matt Stewart, Raymond Swanland, Justin Sweet, Anne Stokes, Matias Tapia, Cory Trego-Erdner, Autumn Rain Turkel, Cyril Van Der Haegen, David Vargo, Franz Vohwinkel, Richard Whitters, Sam Wood, Ben Wootten, Kieran Yanner, Min Yum, Mark Zug
+ Additional Contributors: Bruce R. Cordell, Kim Mohan, Chris Dupuis, Tom LaPille, Miranda Horner, Jennifer Clarke Wilkes, Steve Winter, Chris Youngs, Ben Petrisor, Tom Olsen, R.A. Salvatore
+ Project Management: Neil Shinkle, Kim Graham, John Hay
+ Production Services: Cynda Callaway, Brian Dumas, Jefferson Dunlap, David Gershman, Matt Knannlein,
+Anita Williams
+ Brand and Marketing: Nathan Stewart, Liz Schuh, Chris Lindsay, Shelly Mazzanoble, Hilary Ross, Laura Tommervik, Kim Lundstrom, Trevor Kidd
+ Based on the original game created by E. Gary Gygax and Dave Arneson, with Brian Blume, Rob Kuntz, James Ward, and Don Kaye
+ Drawing from further development by J. Eric Holmes, Tom Moldvay, Frank Mentzer, Aaron Allston, Harold Johnson, David “Zeb” Cook, Ed Greenwood, Keith Baker, Tracy Hickman, Margaret Weis, Douglas Niles, Jeff Grubb, Jonathan Tweet, Monte Cook, Skip Williams, Richard Baker, Peter Adkison, Bill Slavicsek, Andy Collins, and Rob Heinsoo
+Additional feedback provided by Robert Alaniz, Anthony Caroselli, Josh Dillard, Curt Duval, Sam E. Simpson Jr., Adam Hennebeck, Sterling Hershey, Paul Hughes, Doug Irwin, Ken J. Breese, Yan Lacharité, Tom Lommel, Jonathan Longstaff, Rory Madden, Matt Maranda, Paul Melamed, Mike Mihalas, David Milman, Daren Mitchell, Claudio Pozas, John Proudfoot, Karl Resch, M. Sean Molley, Sam Sherry, Pieter Sleijpen, David “Oak” Stark, Vincent Venturella, Fredrick Wheeler, Arthur Wright
+
+Appendix
+Gallery
+
+External Links
+
+Connections
+
+pt-br:Monster Manual: Livro dos Monstros - Edição em Português 5ª edição
+
+---
+
+## Mornauguth
+
+Mornauguth, known as the Moor Dragon, was rumored to have once been a human priestess of Shar who was cursed for her audacious scheming. The adult green dragon resided in the Misty Forest's deep ravines.
+
+During the Rage of Dragons in the, Shar had ignored Mornauguth throughout her madness-inducing experiences, so she underwent the process of becoming a dracolich at the hands of the Cult of the Dragon. However, once having undergone the transformation into undeath, Mornauguth found herself again within the favor of the Lady of Loss and once again granted the powers of one of her priestesses.
+Description
+As a child, Morna Auguth was known to be brilliant but willful. She was considered to be rather beautiful.
+Personality
+She was known for both her shrewdness and ability to bide her time, as well as her bold recklessness.
+
+Abilities
+Mornauguth retained her abilities as a priestess of Shar after her transformation. She had all the abilities of a green dragon as well, though Mornauguth was less adept at swimming.
+Lair
+Mornauguth was known to lair somewhere in the northeast Misty Forest, in a deeply wooded region of steep ravines. Her lair contained no treasure, as she would donate all her treasure to Dark Embrace temple of Shar in Amn.
+
+She maintained a lair in the Rockshaws region of the northeast High Moor beneath Greenleaf Vale in a system of extensive caverns. Mornauguth laired here only when wounded or when she needed to take shelter from bad weather. The lair itself consisted of a sleeping mound made of smooth sand at least six feet deep. Several spring of fresh water flowed through the caverns. A long shaft led to the surface, with Mornauguth's sleeping area in the cavern farthest from the shaft. She did not seem to keep any guardians, constructions, or treasure in this lair.
+
+She may have buried her treasures beneath the sand in her cavern, and was known to have at least one half of a pair of Sending stones buried in the lair.
+Activities
+She was known to hunt wild deer within the Misty Forest, and occasionally preyed on passing caravans and adventurers. Each month or so Morngauguth would fly to Amn to deposit her treasures to Shar and perform dangerous deeds in her name. She would sometimes serve as a steed for the Dark Embrace's clergy, aiding them in attacks on powerful targets such as temples of Selune.
+
+Mornauguth did not seem to maintain a territory, and was not known to defend her lair from other dragons. She roamed where she pleased, uncaring if she offended other dragons by crossing into their territories. She was afraid of being caught over open water, which limited her travels.
+
+Her main concerns involved the Sharran clergy, as well as the activities of rival priesthoods. Her forays into these fields were broken by hunting trips and explorative journeys further afield.
+Relationships
+Mornauguth sometimes used Temrojan Kalnar, a retired wine merchant who held the other half of her Sending stones.
+History
+Mornauguth was once a human priestess of Shar who rose to prominence in a temple in Amn. She was known to be young, pretty, and highly ambitious, almost recklessly so. Her swift ascension within the temple earned the ire of many enemies, and several of her rivals lured her into the lair of a dragon and forced her into draconic form through the weaving of dark spells. Trapped in dragon form, Mornauguth was attacked by the dragon whose lair she had been tricked into. While she slew that dragon, she was gravely injured in the process.
+
+Morna Auguth grew up in the southern backlands of Amn as a thief and runaway. She survived off of her agility, wits, and daring, as well as her beauty whenever she was caught. She was captured by Ablaer the Dark Goad, a priest of Shar, who took her as a personal slave, intending to blind her and cut out her tongue once through with her. Morna was put to work in the kitchens of the Dark Embrace, and got her revenge after several years, when she convinced Ablaer's superior within the temple that he was planning a coup. Ablaer was captured in turn and tortured, to Morna's triumph and satisfaction. The cruel Coroanim Belvim Natrather became her new master, and Morna gained a reputation as a traitor and informant, the clergy of the Dark Embrace delighting in mistreating her at every opportunity. Morna began seeking a way out of her situation.
+
+Within a year, the Coroanim and twenty or so of the Embrace's senior priests traveled to a smaller Sharran temple in eastern Amn known as Moondown House, with the goal of making the temple a chapterhouse of the Dark Embrace. The Moondown clergy were outraged at this, and concocted a desperate plan to poison the Coroanim and the most senior priests. Morna was sent by the Coroanim to spy on the Moondown's clergy and learned of their plan, carrying out the poisonings herself in revenge. When all of the Dark Embrace's priests lay dead, she presented herself to the priests of Moondown House and said how her actions had been guided by Shar herself.
+
+Adopted into the ranks of Moondown House, Morna was tasked with turning the former Dark Embrace members into zombies, and charged with carrying out the monastery's drudge jobs of dung shoveling, floor scrubbing, and gardening. Over the seasons, Morna's self control was strong as iron, and she steadily rose through the clergy's ranks. After a few years, two of the senior priests died to disease, and a fight with some adventurers resulted in the loss of one of the house's most powerful priestesses. The House erupted into conflict as many ambitious clergy rushed to full the power vacuum. Morna quietly defended herself with her zombies, and when many of the clergy had already fallen, she challenged and killed her remaining rival, becoming Prioress of Moondown House, third overall in rank. Over the following year, Morna survived a dozen murder attempts from furious priestesses who suddenly ranked below her, to the point that it became a wry joke between Morna and the novices how often stones suddenly fell from the temple walls whenever she walked past. Morna slew two conspirators in a battle of spells and was widely and correctly believed to have drowned a third in the cesspool of the monastery. Morna's superiors eventually ordered a cease in hostilities upon pain of death, displeased with the drain on the House's resources.
+
+Almost immediately thereafter, the monastery became embroiled in conflict with the clergy of Selûne who had moved into the area. The temple itself was badly damaged, and upland Amn became a battleground between the rival clergies. Many of Moondown's clergy were forced to flee the House and adopt strategies of striking and retreating, and Morna gained a reputation as a feared warleader. Morna's many successes led her rivals to fear that she would rule Moondown House by the conflict's end. Their plottings to remove her seemed fruitless, until they learned the location of a black dragon's lair. A priestess in Morna's band awoke the slumbering Guldarath and hurried back to the Sharran group, informing Morna she had located an old cave she knew from childhood that would serve as a strong base for them, and that it was full of treasure.
+
+Appendix
+
+Further Reading
+
+References
+
+---
+
+## Morning Halls
+
+The Morning Halls was a temple to Lathander, the Morninglord, found in the city of Tantras in the Vast.
+
+Location
+The Morning Halls lay in the northern part of the city, on Ember Lane.
+
+History
+During the Time of Troubles of the Year of Shadows, 1358 DR, the deity Torm resided at his temple in Tantras. Torm's zealous priests began persecuting followers of other faiths in the city as "unbelievers". Although normally very busy, the Morning Halls was almost completely deserted as a result of the divine strife in the Realms. It is not known if or how the Morning Halls was affected by this religious persecution.
+
+Nevertheless, the Morning Halls remained active through to 1367 DR and past 1370 DR.
+
+Inhabitants
+In 1358 DR, the temple was led by High Morninglord Alansyn Ambrilar, with fourteen priests and twenty-one lay-followers.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mook
+
+Mook was a thief and a member of the Shadow Thieves in Athkatla in Amn. She was involved in the covert war between the thieves and Bodhi's vampires.
+
+Appendix
+
+Gameplay
+If the player sided with the vampires, then Bodhi sent them to kill Mook. If the player sided with Aran Linvail, then Aran sent the player to protect Mook. However, just after the player arrived and spoke to Mook, Bodhi's emissary Lassal appeared and killed her.
+
+References
+
+External links
+
+Connections
+
+de:Mook
+
+---
+
+## Monksblade
+
+Monksblade was a village in Cormyr known for its fine food and accommodation, making it a popular stop for people traveling to Sembia.
+
+Location
+Monksblade was located along the Way of the Manticore between Dreamer's Rock and Battlerise, as well as being north of Gorthin.
+
+History
+Monksblade got its name from the fact that it was built on the foundations of four ruined monasteries: Mother Chauntea's House, the Towers of War, the Lady's House, and the House of the Seas, which all coexisted with each other at one point.
+
+Unfortunately, thieving mages, bandits, lizardmen raiders from the Vast Swamp, and Sembian infiltrators depopulated the buildings until they stood empty and eventually fell to ruin. Eventually, at the urging of the king, who needed an eastern watchpost but lacked the resources to create a fort, homesteaders resettled the site, creating the village.
+
+Coastal settlements drew business away over time but the village remained attractive owing to its picturesque location, with the boughs of huge trees shading overgrown gardens.
+
+Sites of Interest
+ Lost Knight's Dance  The village well, around which the original monasteries were built. The name was given after the village's founding.
+ Wendeira's Wondery  An oddments shop that also sold a variety of minor magical items for high prices.
+ The Old Oyster  A quality restaurant that sold fine seafood and a good selection of wines and ales as well as standard fare.
+ Hunting the Knight  A tavern popular with retired adventurers. Volo claimed it as his favorite tavern.
+ The Firedagger Inn  A luxurious inn noted for its staff and the magical blade that had to be banished every so often lest it burn the place down.
+ Temple Ruins  Two miles to the east, on a hill in a field, was the ruin of a Netherese temple of Tyche. The temple contained a portal to Blister and was haunted by a Netherese ghost known as the Looking Lady, who was an attraction in Monksblade until 1372 DR when she began attacking the residents.
+
+Notable Inhabitants
+ Norry Waywocket
+ Coobert Draftworth
+ Wendeira
+
+References
+
+---
+
+## Mother Tathlorn's House of Pleasure and Healing
+
+Mother Tathlorn's House of Pleasure and Healing was a festhall and spa in the city of Waterdeep.
+
+Location
+This building was located on Gem Street, south of Waterdeep Way, in the Castle Ward.
+
+Structure
+This festhall stood five stories tall, but had two underground levels.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moire
+
+Moire was a female half-elf who was a high-ranking member of the Shadow Thieves chapter in Neverwinter on the Sword Coast North in the 1370s DR.
+
+Activities
+Moire was a notorious gang leader in Neverwinter's Docks district, part of the Shadow Thieves chapter under Axle Devrie. Unlike Axle, she was known to be vicious and ruthless and she sought to hold the streets of Neverwinter in her grip.
+
+History
+She could have met the Kalach-Cha during the Shadow War. The Kalach-cha could have come into contact with Moire while trying to gain entrance to the Blacklake district.
+
+If the Kalach-Cha and companions sided with the Watch, then they ruined many of Moire's activities. During the rescue of the informant Fihelis, Moire herself showed up to kill the spy but was defeated.
+
+If the Kalach-Cha and companions sided with the thieves, then they needed to help advance Moire's activities, by working under her. Finally, the Kalach-Cha rose to work directly for Axle Devrie, the true leader of Neverwinter's Shadow Thieves and a more diplomatic individual than Moire. Finally, Moire broke away from Axle and sought to take control of the Shadow Thieves, taking advantage of the chaos during the evacuation. The Kalach-Cha could resolve this situation either by killing her, killing Axle for her, or killing them both.
+
+Appendix
+References
+
+Appearances
+ Neverwinter Nights 2
+
+External links
+
+---
+
+## Mordoc Torsilley
+
+Mordoc Torsilley was the captain of the elite Company of the White Dragon of the City Guard of Waterdeep during the Time of Troubles in 1358 DR.
+
+When the hordes of Myrkul invaded the city, he was ordered by Piergeiron to enlist the help of Khelben Arunsun and fight the undead.
+
+References
+
+---
+
+## Monstrous Compendium Annual Volume One
+
+The Monstrous Compendium Annual Volume One is a 2-edition Advanced Dungeons & Dragons accessory.
+
+Description
+Monstrous Compendium Annual Volume One serves as a supplement to the AD&D game, providing an extensive collection of monsters that were previously published in various 1993 Advanced Dungeons & Dragons modules, as well as Dungeon and Dragon.
+
+The structure of the Monstrous Compendium Annual Volume One adheres to the format established by earlier Monstrous Compendium supplements. It features detailed entries for each monster, including physical descriptions, behaviors, combat tactics, and statistics necessary for gameplay. These entries are designed to be easily integrated into the existing binder system of the Monstrous Compendium series, allowing for a customizable and expansive monster reference library.
+
+In addition to monster descriptions, the Monstrous Compendium Annual Volume One provides lore and background information for each creature, offering insights into their habitats, societies, and roles within the AD&D world.
+
+Contents
+A
+ Aballin
+ Abyss ant
+ Afanc
+ Al-Jahar (Dazzle)
+B
+ Baelnorn
+ Baneguard
+ Banelar
+ Bird, Talking
+ Blazing bones
+C
+ Campestri
+ Carrionette
+ Cat, Winged
+ Greater
+ Lesser
+ Tressym
+ Chitine
+ Crypt servant
+D
+ Dog, Saluqi
+ Dragon
+ Dragon, Fang (Draco Dentus Terribilus)
+ Dragon, Electrum
+ Dragon, Linnorm, Corpse Tearer
+ Dragon, Linnorm, Dread
+ Dragon, Linnorm, Flame
+ Dragon, Linnorm, Forest
+ Dragon, Linnorm, Frost
+ Dragon, Linnorm, Gray
+ Dragon, Linnorm, Land
+ Dragon, Linnorm, Midgard
+ Dragon, Linnorm, Rain
+ Dragon, Linnorm, Sea
+ Dragon, Neutral, Jacinth
+ Dragon, Neutral, Jade
+ Dragon, Neutral, Pearl
+ Dragon-kin
+ Dread
+E
+ Elemental
+ Elemental, Earth Weird
+ Elemental, Sandman
+ Elemental, Wind Walker
+ Elemental Kin
+ Elemental Kin, Earth, Crysmal
+ Elementral Kin, Fire, Azer
+ Elemental vermin
+Duster
+Crawler
+Flameling
+Spitter
+F
+ Faerie, Petty
+ Squeaker
+ Stwinger
+ Feystag
+ Flameskull
+ Foulwing
+G
+ Gambado
+ Garbug
+ Black
+ Violet
+ Tasked Genie
+ Genie, Tasked, Administrator
+ Genie, Tasked, Deceiver
+ Genie, Tasked, Harim Servant
+ Genie, Tasked, Messenger
+ Genie, Tasked, Miner
+ Genie, Tasked, Oathbinder
+ Gibbering mouther
+ Gnasher
+ Gnasher
+ Winged gnasher
+ Golem
+ Golem, Brain
+ Golem, Hammer
+ Golem, Metagolem
+ Golem, Spiderstone
+ Gorynych
+ Greelox
+H
+ Helmed horror
+J
+ Jarbo
+L
+ Laraken
+ Lich, Psionic
+ Living steel
+ Lock lurker
+ Loxo
+ Lycanthrope
+ Lycanthrope, Loup du Noir
+ Lycanthrope, Werebadger
+ Lycanthrope, Werejaguar
+ Lythlyx
+M
+ Magebane
+ Marrashi
+ Metalmaster (Sword Slug)
+ Mimic, House Hunter
+ Young
+ Adult
+ Ancient
+N
+ Naga, Bone
+ Nautilus, Giant
+ Nightshade
+ Nishruu
+ Noran
+O
+ Ophidian
+ Opinicus
+ Ormyrr
+P
+ Parasite
+ Bloodring
+ Ear seeker
+ Goldbug
+ Wizard lice
+ Vilirij
+Pasari-niml
+ Warrior
+ Noble
+ Calipha
+ Plant, Vampire Moss
+P
+ Pteraman
+R
+ Rautym
+S
+ Shadeling
+ Skum
+ Snake, Giant Cobra
+ Snake, Stone
+ Spectral wizard
+ Spell weaver
+ Spider, Brain
+ Suwyze
+T
+ Tatalla
+ Tick, Heart
+ Tree, Dark
+ Tree, Death's Head
+ Tree, Singing
+ Troll, Snow
+ Tuyewera
+U
+ Ulitharid
+ Undead dwarf
+ Undead lake monster
+W
+ Whipsting
+ Windghost
+ Wolf
+ Wolf, Dread
+ Wolf, Stone
+ Wolf, Vampiric
+ Wolf, Zombie
+ Wraith, Shimmering
+X
+ Xantravar (Stinging Horror)
+ Xaver
+
+Gallery
+
+Credits
+ Editor: David Wise
+ Project Coordinator: Roger Moore
+ Cover Artist: Jeff Easley
+ Interior Artist: Tony DiTerlizzi
+ Art Coordinator: Peggy Cooper
+ Electronic Pre-press Coordinator: Tim Coumbe
+ Typography: Nancy J. Kerkstra
+ Graphic Artist: Dawn Murin
+
+Appendix
+See Also
+ Images from Monstrous Compendium Annual Volume One
+External Links
+
+ RPGGeek
+
+---
+
+## Mossbridges
+
+Mossbridges was a town in the Vast, lying where the Coast Road between Ravens Bluff and Tantras crossed the Fire River, over the bridge of the same name. Feldar's Trail began at Mossbridges and joined to Highbank Forest.
+
+Description
+The village of Mossbridges was divided into two areas known as New Town and Old Town. These were distinct from each other in terms of their inhabitants and the age of their architecture. New Town in particular hosted a variety of shops. Bordering Old Town was a pair of old, but sturdy bridges, which were said to be the namesake of the village.
+
+The village's main landmark was a newer bridge built around the 1350's DR. This massive, multi-span bridge stretched across the Fire River and beared the Coast Road. Formerly called the Fire River Bridge, it was more generally known as "Mossbridges", and claimed by some to be the true namesake of the town despite the fact that no moss covered it like the older bridges. It was also known as the "Great Bridge", but the engineers and stonemasons who worked on it simply called it "the Bridge".
+
+Geography
+The village was located roughly  northeast of the city of Ravens Bluff.
+
+Government
+In the 14 century DR, Mossbridges was home to Lord Thalmir, one of the wealthiest petty lords in the area. and the sole descendant of a long family line to have residence in the village. From 1370 DR, Mossbridges was incorporated into the city-state of Ravens Bluff, and held allegiance to it.
+
+Law & order
+Around 1370 DR, Mossbridges was policed by Rulisqer of Tyr, a paladin of the god of justice Tyr, together with his fourteen followers. They believed that public safety and lawful behavior would bring happiness and prosperity to all. Through diligent, expert policing, they broke up brawls in the streets and kept out thieves' guilds. Those who drew a weapon would soon find themselves subdued, disarmed, and marched out of town. The Tyrrans seemed to always know when and where there was going to be trouble. Thanks to their efforts, Mossbridges saw very little crime.
+
+Economy
+Mossbridges in the 14th century largely served Ravens Bluff as a warehouse district, a staging area for caravans, and a center for horse trading and stabling, as well as through its stockyards. Consequently, a great deal of wealth passed through Mossbridges, but this was kept safe by the efforts of the Tyrrans.
+
+The good security led to Mossbridges being utilized as a neutral, "no swords" meeting ground for those who would otherwise come into conflict, such as traditional foes who needed to trade or negotiate. Some merchants who preferred not to stay in Ravens Bluff—a few of who had made enemies there—based themselves in nearby Mossbridges instead. They arranged for clients and creditors to meet them in the town.
+
+Both the Tyrran security and the neutral ground encouraged investment and even banking in Mossbridges. A fledgling but prosperous banking industry had sprung up by 1370 DR.
+
+The civic authorities of both Ravens Bluff and Tantras paid a corps of engineers and stonemasons based in Mossbridges to maintain the bridge over the Fire River, which they simply called "the Bridge". They could never be persuaded to risk or sabotage the bridge, but were corrupt in other areas. For a hefty bribe, they would conceal bodies, treasure, and telltale items in the bridge pilings, where they might remain for a good long time. Both the corps and the stashing operation were led by the foreman, Klonalogh Umesker, in 1370 DR.
+
+History
+The bridge over the Fire River was built during the kingdom of Roldilar, a dwarven surface realm founded in the . The bridge lay a few miles upstream of the secure trading center of Sarbreen at the mouth of the river. Although Roldilar and Sarbeen fell to orcs in the, the bridge survived.
+
+As humans began to settle the coastline of the Vast, Sarbreen remained dangerous but the river remained useful. So local farmers and merchants gathered instead at the Fire River Bridge, as they called it, where they traded their goods and coin. A settlement grew, and bridge and community came to be known as Mossbridges. Sarbreen was eventually resettled, becoming the city of Ravens Bluff in the .
+
+Late in the, a rash of cow killings occurred in Mossbridges. The superstitious villagers all suspected Alice Clarkson, a retired adventurer and mage who was living in the village, of being responsible and believed she was a witch intent on using their cows in evil experiments. On Eleint 13, the villagers stormed her home as an angry mob, pulled her out, and had her burned at the stake. When another cow disappeared later that night the villagers organized a posse to patrol the surrounding farms over the coming nights, until eventually a figure was spotted carrying away a slain cow. Tracking the figure down to a nearby cave, the true culprits were revealed to be two trolls led by a gnoll. Archers kept the three humanoids pinned down inside the cave whilst the rest of the villagers pelted it with Greek fire, eventually killing them. Afterwards the people of Mossbridges, feeling tremendous guilt and shame over what they had done to Alice, erected a tombstone for her in their cemetery and vowed never to speak of what happened to her ever again.
+
+The part of the village that would become known as New Town would have most of its buildings constructed during the 1350's DR, as would the Fire River Bridge.
+
+In the, Ravens Bluff was working to establish a regional government in the Vast by taking a number of neighboring towns and villages under its control. Mossbridges and the newly settled New Hope were the two communities to be incorporated into the city-state. After suffering eight sudden attacks within three months, the people of Mossbridges pleaded with Ravens Bluff for protection. The town had barely enough time to rebuild between humanoid and mercenary attacks and was desperate for protection. Thankfully, Ravens Bluff and Mossbridges had longstanding friendly relations. Acting Mayor Belanor Fenmarel of the Bluff responded swiftly and pledged a force to Mossbridges' defense in exchange for a tariff reduction agreement for Ravenaar goods entering and exiting Mossbridges. The Acting Mayor assigned a group of mages to magically transport goods, supplies, and food in town's aid.
+
+Following the Three Women War, the newly-elected mayor Amber Lynn Thoden presented Lorien Keltree Darkarrow with the title of Baron of Mossbridges, along with a title to the lands and estates of Fort Thoden.
+
+Notable Locations
+ Mossbridges Cemetery, a rather cramped graveyard. By 1358 DR this graveyard had around a hundred gravestones, made of either marble or sandstone, with some dating back as far as the 11 century DR.
+ The Blushing Gynosphinx, an inn and tavern. Three doors south, past two rooming houses, was the office of the bridge foreman, on the east side of the road. For much of the 14 century DR, it was the only inn in Mossbridges.
+ Darkarrow Keep,While Darkarrow Keep is not directly stated to be Fort Thoden, their shared proximity to Mossbridges and ownership by Lorien Darkarrow suggest they are likely meant to be the same estate. formerly known as Fort Thoden, was a large fortified estate outside of town that was gifted to Lorien Darkarrow by Amber Lynn Thoden following the War with Myrkyssa Jelan.
+ General Store, a shop that traded in common goods and most basic weapons and armor.
+ Gladragon's Gold & Gems Exchange, a very posh jewelry store in New Town and center of the village's gold and gem trade. Gargoyles lined its roof; these were more than mere statues.
+ Golden Goblet Inn, a bustling inn that offered food, lodgings, and entertainment, opened in the late 14 century DR.
+ Matilda's Boarding House, the only lodgings alternative to the town's inn in the late 14 century DR.
+ Merchant House, the local trade outpost of the Company of the Ravens that purchased goods from the local crafters and trappers.
+ Temple of Chauntea, a simple temple run by a fallen paladin of Tyr in the late 14 century DR.
+ Temple of Tyr, a temple located in the center of Old Town.
+ Traveler's Paradise, the agency that sold services of the nearby vacation chalet in the late 14 century DR.
+ The New Town section of Mossbridges was host to a cart maker, a bakery, a general store, and a stable.
+
+Inhabitants
+Mossbridges was inhabited by a combination of farmers, wealthy merchants, and various workers related to the commerce that traveled through the village. The farmers, their families, and farmhands largely inhabited the area known as Old Town, whilst the merchants and various other workers inhabited New Town. The older generations among Old Town were superstitious of magic-users, which was cause for mockery among the far less superstitious people of New Town. The people of New Town also considered themselves to be Ravenians and petitioned for the city to annex Mossbridges until its eventual incorporation in 1370 DR. The two groups rarely intermingled, safe for inside The Blushing Gynosphinx.
+
+Notable Inhabitants
+ Earl Kassin, a blacksmith in Old Town.
+ Jim Wilson, a local farmer.
+ Lord Thalmir, one of the most wealthy humans of the Vast in the 14 century DR. He rarely concerned himself with the villagers.
+ Rulisquer of Tyr, a paladin who policed the village and ran its Temple of Tyr.
+
+Rumors & Legends
+Rumor had it that the only successful criminal in Mossbridges was a semi-retired smuggler who still dealt with pirates. Supposedly, she was some kind of amphibious shape-changer who would take the form of a giant octopus to swim out to pirates when they signaled from offshore. It was said she kept her loot stashed underwater, not far from land. One drunken fellow in a tavern claimed it was kept inside giant clams and that they snapped shut on and trapped unauthorized people, though this was given little credence, of course.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Monteshi
+
+County Monteshi was a county in Tethyr. The ruined and haunted city of Shoonach resided there.
+
+Geography
+Together with Calimmon to its west, Monteshi made up the duchy of Ankaram and served as Tethyr's border with the kingdom of Calimshan to the south.
+
+This county was a strange amalgam of rural pastureland and the dangerous ruins of ancient kingdoms. The site of Shoonach, the former capital of the Shoon Imperium, was here, and roughly half of the county's territory was disputed. Calimshan claimed that the region it called Monrativi Teshy Mir was rightfully theirs. The county contained a well-manned fortress, Fort Teqlar to guard against monster attacks from Shoonach or threats from Calimshan.
+
+Government
+In 1369 DR, a pious hin, Count Oxsal Keeneyes ruled and defended Monteshi. Officially, his seat of power was the manor house of Pelmarin, but he spent the majority of his time at Fort Teqlar.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Monrativi Teshy Mir
+
+Monrativi Teshy Mir (in Alzhedo: First Kingdom of Mir), also simply called Mir, was an ancient land in west Faerûn that served as the foundation for the later Calishite Empire and Shoon Imperium. Following the fall of the imperial power, the area was left in ruins and frequently contested between the realms of Tethyr and Calimshan. Monrativi Teshy Mir was considered the source of glory for the Calishite people, making it a constant target of revanchism from Calimsham.
+
+Geography
+The territory roughly corresponded to the lands around the ruins of Shoonach in County Monteshi, running north of the River Agis to the Forest of Mir and Marching Mountains. The main fortress in the area was Qian Hillfort, which was in the foothills of the mountains.
+
+The land itself was poor, made up of dry and rocky grasslands that ran up into the Marching Mountains. The remnants of ancient ruins dotted the land, and it was scarcely inhabited at all.
+
+The grandeur of the ruins and the legends of the old Empire led to endless rumours of what lay buried in the vaults and catacombs beneath Monrativi Teshy Mir. It was simply assumed as fact that the region was home to hidden mountains of coins and gems, ancient and valuable relics, and powerful magical artifacts produced by long-lost expertise—the treasures borne of five thousand years of imperial might and glory. However, as the years passed it became accepted as common sense that treasure-hunting expeditions into the region were a fool's game. First, the land was inhospitable and dangerous, and close to the hostile and unpredictable drow of the adjacent Forest of Mir. Second, it was a given that fabulous and incomparable treasures would have equally extraordinary and deadly defenses—endless labyrinths of tunnels guarded by ingenious traps and awaiting spells, mad liches, bound dragons, demons, elementals, naga, and anything else that could be imagined to be down there. It was also believed that the drow of Mir had tunneled into the ruins from below, and as such any expedition would have to face them in underground battle. And finally, with time came a certain pessimistic wisdom—with so many centuries passed, it was accepted that all the easy to find and safe to loot dungeons had been found and emptied already, and so any that were left must surely be impossibly deep and deadly, making any attempt either pointless or suicide. Thus, the many ruins of Monrativi Teshy Mir tended to go unremarked and unexplored by treasure hunters, dungeon delvers, and other ne'er-do-wells.
+
+History
+What would become Monrativi Teshy Mir had its start in the First Age of Calimshan, when the First Kingdom of Mir formed around -5300 DR on the ruins of the dwarven city of Iltakar. The First Kingdom then unified with the realm of Coramshan in -5005 DR, creating the Calishite Empire that went on to dominate much of Faerûn for thousands of years. The region grew during the heights of the Empire and Shoon Imperium, eventually becoming an extension of the urbanism spreading out from Shoonach, comprising the imperial capital and all the satellite villages, fortresses, and estates that had formed around the imperial core. Confusingly, Monrativi Teshy Mir was also used to refer to Shoonach as a city and the general area that the city dominated, in addition to the wider kingdom.
+
+Following the destruction of the empire initiated by Strohm I in 450 DR, the area was depopulated and abandoned, eventually coming under the control of the kingdom of Tethyr.
+
+By the 14 century DR, Monrativi Teshy Mir was considered part of Duchy Ankaram in Tethyr. In late 1333 DR it was invaded by what seemed like a rebellious army of mercenaries and marauders from Calimshan that very briefly formed the realm of Mulsparkh, which led to the Battle of Nightflames and the slaying of Crown Prince Rythan.
+
+Lord Tuvos Akasi ruled the area until he was slain in the Ten Black Days of Eleint, and Duchess Vajra Valmeyjar oversaw it following the Tethyrian Interregnum. The area was kept carefully neutral by Duchess Vajra, who allowed merchants and diplomats to pass freely while limiting the amount of soldiers severely. This conciliatory state of affairs, combined with Ankaram's otherwise high military readiness, made Calishite aggression much less common than it could have been.
+
+Appendix
+References
+
+---
+
 ## Morkoth
 
 Morkoths  also known as wraiths of the deep, were a cruel and evil race of aquatic predators with hypnotic powersThe Monster Manual 1st edition gives "morlock" as an alternative name for this creature, but that name, perhaps a nod to H. G. Wells's The Time Machine, does not appear to be related to this creature in any other D&D publication. that lived in the Inner Sea and Outer Sea of Faerun. The morkoths of each sea displayed a wide variety of physiological, behavioral, and societal distinctions from one another.
@@ -1475,6 +6231,916 @@ References
 
 ---
 
+## Morgenthel
+
+Morgenthel was a wizard and bounty hunter hired by the lich Szass Tam in 1394 DR to find Seren Juramot, who fled Thay with the treasure of the Thayan enclave in Ravens Bluff.
+
+References
+
+---
+
+## Morntel
+
+Morntel was a merchant of Amn and a member of the Knights of the Shield in 1370 DR.
+
+History
+Morntel was named after his father in Athkatla and inherited both his fortune and his membership of the Knights in 1356 DR. He was an able caravan leader and weapons merchant based in Crimmor. In his continuous travels up and down the Sword Coast, Morntel gathered a lot of useful information for the Knights, was appreciated by both Pehllus Tanislove and Barasta Cleeith. Despite being an employee of House Zoar, Morntel acted as the ears and eyes of Lady Zharnn Ophal in Crimmor but in truth he hoped to influence local politics in order to increase the power of the Knights.
+
+Strangely, in 1369 DR, Morntel repeatedly visited the Blais House in Westgate, a fact noted by his fellow Knight Piyrathur. The truth was that Morntel's father contacted him and explain to him to had faked his death in 1356 in order to escape from a group of slavers Knights that menace his life. By 1369 Morntel the Elder, now based in Sigil, was ready to have his revenge and the son loyally collaborated to his father's plots.
+
+Appendix
+References
+
+---
+
+## Morntel the Elder
+
+Morntel the Elder was a merchant of Amn and an ex-member of the Knights of the Shield in 1370 DR.
+
+History
+Morntel was a wealthy merchant in Athkatla, working for House Redolo. In 1356 DR, he was reported to have been killed by a magic attack or by a demonic creature, but unknown to most, this was only a ruse. In truth, Morntel had discovered some Knights involved in the slave traffic to Calimshan and tried to stop the slaving operation, which was too cruel for his tastes. However, the only result was that the slaver Knights threatened to kill him. So he faked his death and fled to Sigil in Concordant Opposition.
+
+It was only in 1369 DR that Morntel reestablished contact with his son, also called Morntel, meeting at the Blais House in Westgate, where they started making plans for his revenge.
+
+Appendix
+References
+
+---
+
+## Mortik Swamp
+
+The Mortik Swamp (also spelled Mortick Swamp) was the only swamp in the halfling realm of Luiren.
+
+Geography
+
+The Mortik Swamp was located in southern Luiren, just to the southeast of Chethel. It lay along Luirenstrand in the Great Sea. A road skirted the swamp's land boundaries to connect Chethel to Krenadir.
+
+Inhabitants
+The swamp was inhabited by monsters, namely merrow and scrags, which often raided nearby lands.
+
+History
+In 148 DR, merrow from Mortik Swamp attacked the halfling settlement of Chethel, destroying half of the city. In 1372 DR, an ogre shaman known as the Bog King led the merrow and used the scrags for his own purposes.
+
+Appendix
+Gallery
+
+References
+
+FR:Marais de Mortick
+
+---
+
+## Mountains of Forgotten Dreams
+
+The Mountains of Forgotten Dreams were located southeast of the Genies' Anvil within the High Desert of Zakhara.
+
+Description
+This mountain range boasted peaks as high as, many of which were former volcanoes. Ash and chalky rock could be found along the foothills surrounding the mountains. Travel through the mountain range was relatively easy because of the many wide passes that could be found every few miles.
+
+Inhabitants
+The Mountains of Forgotten Dreams were the home of the rare white saluqi.
+
+Appendix
+References
+
+---
+
+## Mosque of Blood
+
+The Mosque of Blood was the second-most-noticeable feature of the Zakharan city of Qudra.
+
+Location
+This crimson-covered mosque was the largest temple in the entire Land of Fate used to worship the warrior-god Vataqatal.
+
+Structure
+The walls of this mosque were made of regular sandstone but were coated regularly with henna to honor those who shed their blood in battle.
+
+Appendix
+References
+
+---
+
+## Monica Langin
+
+Monica Langin was a concubine in Grand Caliph Khalil al-Assad al-Zahir's Royal Harim in Huzuz.
+
+Description
+Monica had fiery red hair and was so beautiful that she caught Khalil's eye and was asked to join the harem.
+
+Activities
+After being invited to join the harem, Monica was unsure if life in the harem would be too much of a lifestlye change for the ranger inside of her. She finally accepted Khalil's offer, but was unable to fully adapt to that lifestyle. Khalil released her from her obligations six months after she joined the harem. She would stop by periodically and visit.
+
+History
+Monica lived originally far away north from Huzuz.
+
+Appendix
+References
+
+---
+
+## Move sand
+
+Move sand was a spell unique to Zakhara, the Land of Fate. This spell was only usable by wizards.
+
+Effects
+With this spell the caster could control the movement of sand in a small area. Only areas with loose sand were affected.
+
+Components
+A handful of sand was needed to cast this spell.
+
+Appendix
+References
+
+---
+
+## Morndin Gloomstorm
+
+Morndin Gloomstorm was the high cleric of Laduguer in Gracklstugh in 1370 DR and 1372 DR
+
+History
+Morndin was born to Clan Bukbukken, as the son of Kildor and blood of Balgor, in Shimmergloom's Run in Mithral Hall. Morndin lived under the shadow dragon Shimmergloom's rule until the shield dwarves of Clan Battlehammer reclaimed their ancestral home. He was one of the few surviving members of his clan to manage to escape to Gracklstugh. There, Morndin become high priest of the local temple of Laduguer.
+
+Appendix
+References
+
+---
+
+## Move dune
+
+Move dune was a spell unique to Zakhara, the Land of Fate.
+
+Effects
+This spell allowed the caster to lift and move a large heap of sand, dust, or gravel. The spell was only able to move non-living matter. Stronger casters were able to move more material. If dropped, the matter created an effect similar to a sand shield.
+
+Components
+This spell required a pinch of sand to cast.
+
+Appendix
+References
+
+---
+
+## Morus Brokengulf II
+
+Morus Brokengulf II was a paladin of the Knights of Samular in Waterdeep in 1372 DR.
+
+History
+Morus II was, from the age of 16, a devoted paladin and Tyrran zealot, even cutting off his right hand in sacrifice to Tyr and soon joining the Knights of Samular.
+
+After a long time hunting evil throughout the Sword Coast, the death of Lord Morus Brokengulf I forced Morus II to become the next patriarch of the Brokengulf family. However, after some months of work, Morus II was greatly frustrated and turned over day-to-day operations of the family business to fellow Knight Gareth Cormaeril, and again set out to fight evil.
+
+Morus II sometimes returned to the city but spent most of his time fighting monsters and hunting Claugiyliamatar, the old enemy of his family.
+
+Appendix
+References
+
+FR:Morus Brisegolfe II
+
+---
+
+## Morglon-Daar
+
+Morglon-Daar was a city near the Blood Rift in the Abyss.
+
+Notable Locations
+Portals
+Oroch's Stride
+
+History
+For years, a human merchant Oroch controlled a portal which linked Scornubel to Morglon-Daar, but after disappearing on an adventure, Tarnrose, a drow wizard and her gang took up residence over the gateway.
+
+Appendix
+
+References
+
+---
+
+## Monsoon Legion
+
+The Monsoon Legion was a military organization operating out of the Citadel of Ice and Steel on the Elemental Plane of Air.
+
+Organization
+1,000 heavily armed elite djinni bodyguards served in the Monsoon Legion.
+
+Activities
+The Monsoon Legion was responsible for the safety of the Great Caliph. They attacked and flew in formation.
+
+Base of Operations
+The Citadel of Ice and Steel within the Elemental Plane of Air served as base of all djinni military organizations.
+
+Appendix
+References
+
+---
+
+## Mountains of the Alaoreum
+
+The Alaoreum were a collection of northern peaks in the Orsraun Mountains set apart from the rest of the range by Treefall Pass. The peaks overlooked the Gulthmere Forest.
+
+The Mountains of the Alaoreum were notable for containing the volcano Mount Andrus, which was sacred to the god Talos, and the dwarven mine of Ironfang Deep.
+
+Appendix
+
+Reference
+
+Connections
+
+---
+
+## Mosque of the Revealed
+
+The Mosque of the Revealed was a mosque dedicated to Najm in Liham, in 1367 DR.
+
+Inhabitants
+Many citizens from Liham came to the mosque to blow off steam, verbally venting their frustration with any number of issues. This was usually a peaceful occurrence, but riots spawned from heated arguments once in a while.
+
+The priests of the mosque were pragmatists or ethoists.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mountainside
+
+Mountainside was a district in Waterdeep located on the eastern and southeastern slope of Mount Waterdeep.
+
+History
+Mountainside was settled in the 15th century DR by the rich and up-and-coming, who were attempting to avoid the Second Pestilars by rising above the masses and seeking cleaner air.
+
+Notable locations
+ Mandarthen Lane, a steep road named for the Mandarth family and nicknamed the "Ambergrislide." It was lined by buildings with bright blue doors and white tiled roofs.
+ High Market.
+ Talltumble Stairs, a long set of stairs connecting Mountainside to the Castle Ward.
+ Trellamp Court, between Sulvan's Way and Three Lords' Crossing.
+ Tybrun Ridge, the slope side of Mount Waterdeep.
+ Wildhound Court, a square cursed with packs of wild dogs.
+
+Notable inhabitants
+Mandarth family, a family of whalers.
+Parlek Lateriff, a sage and smith.
+
+Appendix
+Appearances
+Novels
+Blackstaff Tower
+
+References
+
+Connections
+
+---
+
+## Moon-horse
+
+Moon-horses, also called teu'kelytha in Elvish, were intelligent, magic-using horses found on Evermeet.
+
+Description
+Moon-horses had coats that ranged from white to silvery gray. Their manes could be any color between white and black.
+
+Behavior
+Moon-horses were highly intelligent and resembled elves in personality. They willingly served elves as mounts and cavalry. When they roamed free, they often joined up in herds.
+
+Combat
+Moon-horses were used by elven knights in combat. They had the ability to cast one arcane spell per day. The spells they were known to use were color spray, magic missile, shield, sleep, wall of fog, knock, ray of enfeeblement, stinking cloud, summon swarm, and web. Moon-horses were immune to special attacks by undead.
+
+Locations
+
+Moon-horses were found all over Evermeet. Moon-horse mounts were not stabled but instead allowed to run free in common herds. Large common herds could be found in Greenmeadow, Drelagara, Ty'athalael, and Horsefields. Dreglagara was the center of moon-horse breeding and training.
+
+History
+Moon-horses were native to Evermeet and Arcorar (the forest around the Elven Court in Cormanthor). They resided in former times on the continent of Faerûn, where they were used by the knights of Cormanthyr, but the last of the moon-horses were brought back to Evermeet during the Retreat.
+
+Notable moon-horses
+ Yalanga, the mount of Lord Tolthe Alerothi of Drelagara.
+ Moonstone, the mount of Sharlarra Vendreth.
+ Sundancer, the mount of Keryth Blackhelm.
+
+Appendix
+Appearances
+Novels
+Evermeet: Island of Elves
+Windwalker
+
+Further reading
+
+References
+
+---
+
+## Molvayas Barrison Del'Armgo
+
+Molvayas Barrison Del'Armgo was a drow priestess of Lolth in Menzoberranzan and a member of House Barrison Del'Armgo in the late 14 century DR.
+
+Activities
+Molvayas was an instructor at Arach-Tinilith.
+
+History
+During the Silence of Lolth in the, her niece Drisinil Barrison Del'Armgo started a coup against Matron Mistress Quenthel Baenre, who in her eyes had lost Lolth's favor. Drisinil profited off the opportunity to kill Molvayas, saying to fellow conspirators that she had surely betrayed them to Quenthel.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Mount Abbalayat
+
+Mount Abbalayat was an isolated peak in the western Marching Mountains famous for being the home of the race of oracles called the Abbalayar.
+
+Description
+Abbalayat was an extremely steep mountain, over  tall, with cliffs for lower slopes. It was surrounded by even taller mountains, with a three-mile wide, jagged ravine between.
+
+The peak seemed always surrounded by clouds, and dangerous winds rushed through the "moat" around the mountain.
+
+Notable Locations
+The mountain itself was filled with caverns. The top of the mountain was the site of the holy city of Ul'sahab.
+
+Notable Inhabitants
+The Abbalayar, a race of oracles and prophets lived within the city of Ul'sahab, which was magically hidden from sight.
+
+History
+The caverns within Mount Abbalayat were used as shelters for the earliest human tribe living in the region. Not even elven scholars knew the name of this lost tribe, but they became the ancestors to the Abbalayar.
+
+When djinn ruled the land that later became Calimshan, they gave the Abbalayar full control of the mountain.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Mount Gommat
+
+Mount Gommat was the tallest peak in the Marching Mountains. It was the site of the famous Axemarch Stone.
+
+Description
+Mt. Gommat was one of the interior mountains of the range. Its summit was 8,500 feet above sea level, and it was devoid of trees after 7,200 feet. In winter, the snows would rarely descend below 6,600 feet.
+
+History
+Circa, dwarves summited the mountain and placed the Axemarch Stone at the founding of the High Shanatar.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Mount Sarengard
+
+Mount Sarengard was one of the tallest peaks in the eastern Marching Mountains. It was the location of the holiest site to Vhaeraun.
+
+Description
+Sarengard was located in the far east of the Marching Mountains, east of Minthrux Vale.
+
+Notable Locations
+A mile below the mountain in a 1,000-foot cavern, the Vault of Cloaked Midnight was found. It was the holiest temple to Vhaeraun in the Realms. The entrance was in the lower slopes of the mountain.
+
+Notable Inhabitants
+Shangalar the Black lived in an inverted pyramid balancing 200 feet above the plateau between Minthrux Vale and the summit of Mount Sarengard.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Mount Kahdas
+
+Mount Kahdas was the second tallest peak in the Alimir Mountains.
+
+Description
+Kahdas was one of the central Alimirs. Its elevation was 7,800 feet (2,400 meters) above sea level. It was located north of Mount Ulaarn and Azure Falls.
+
+Mount Kahdas was visible from 50 miles outside of Almraiven. It had sheared sides facing to the west that—together with the similar face of nearby Mount Phevos—were known as the Eye Tyrant Cliffs. Three enormous beholders were carved on the cliffs of Mt. Kahdas, portrayed as warring with humans on the opposing cliffs of Phevos.
+
+History
+The carvings on Mount Kahdas celebrated the victory of the beholders against the humans of Calimshan during the Third Age.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Mount Phevos
+
+Mount Phevos was the tallest peak in the Alimir Mountains.
+
+Description
+Mt. Phevos was in the central Alimir Mountains. Its elevation was 8,500 feet (2,600 meters) above sea level. It was located south of Mount Ulaarn and Azure Falls.
+
+The towering peak was visible from 50 miles outside of Almraiven. Its west-facing cliffs were half of the carvings known as the Eye Tyrant Cliffs. A horde of life-size human warriors and wizards were portrayed battling three enormous beholders carved on the cliffs of Mount Kahdas to the north.
+
+History
+The carvings on Mount Phevos celebrated the victory of the eye tyrants against the Calishites during the Third Age of Calimshan.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Mount Ulaarn
+
+Mount Ulaarn was a peak in the central Alimir Mountains.
+
+Description
+This mountain was located in the central Alimirs between Mounts Kahdas and Phevos. It was famous for being the site of Azure Falls, the start of the Maridflow.
+
+History
+7,000 years before the late fourteenth century DR, two marids, Haj and Luar, were slain here, and their deaths caused a rift in Mount Ulaarn that led to the formation of the falls.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Mount Hazail
+
+Mount Hazail was the highest peak of the Gnollwatch Mountains in Dambrath.
+
+Description
+Mount Hazail had an elevation of 11,500 ft. (3,500 m), standing several thousand feet above the rest of the Gnollwatch Mountains in central Dambrath.
+
+Appendix
+References
+
+FR:Mont Hazail
+
+---
+
+## Mount Adiir
+
+Mount Adiir was a peak in the western Starspire Mountains in Tethyr, on the Starspire Peninsula overlooking the Bay of Bormul. It was one of the highest peaks in the Starspire range and was home to the Cloister of St. Ramedar on its southern slope.
+
+Appendix
+
+Reference
+
+Connections
+
+---
+
+## Mount Thargill
+
+Mount Thargill was an extinct volcano and the easternmost peak of the Starspire Mountains in Tethyr.
+
+The ancient lava tube of Mt. Thargill was known as the Wyrmwell. It and the tunnels around it were used as one of the lairs for the red wyrm Balagos and as prisons for the brown dragon Altagos and the black dragon Auroxas.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Mount Turbold
+
+Mount Turbold was a mountain in the Kuldin Peaks of Erlkazar.
+
+History
+Long before the kingdom of Erlkazar came into existence, an ancient battle between giants and dwarves from Shanatar took place on this mountain and in the valley to the north. The mountain and the valley were named after the leader of the dwarves, Turbold.
+
+Rumor's
+Turbold's burial site was supposedly located in a crypt hidden somewhere in the mountain, containing his treasures and those of the dwarves he led who were also buried there. Turbold's Golden Axe was the most famous artifact said to be resting there.
+
+Reference
+
+---
+
+## Moktessa
+
+Moktessa was a wine that could only be found within the kingdom of Dambrath.
+
+Description
+Made from rich white grapes, Moktessa was enjoyed by humans and drow. This fine wine was hard to come by even in Dambrath because of the high demand. It was virtually unknown outside of Dambrath.
+
+Appendix
+References
+
+---
+
+## Mount Speartop
+
+Mount Speartop was the tallest mountain of the Cloud Peaks.
+
+Description
+Mount Speartop was located near the coast on the southwestern corner of the Cloud Peaks. To the northwest were the Hamlar Hills and St. Carwell's Vale.
+
+Mount Speartop's summit was 14,500 feet (4,400 meters) above sea level, making it one of the 20 tallest peaks in southern Faerûn. It was so tall that it could be seen from Athkatla, 20 miles (32 kilometers) away, on clear days.
+
+Recreation
+Speartop was a popular climbing site for mountaineers, because while a very challenging and tall climb, it was not a relatively dangerous one, provided the climber was not foolish in proper preparation. The exception to this generalization was the northeast face of the mountain, which was especially precarious and was also home to a dragon.
+
+Notable Inhabitants
+A white wyrm named Icehauptannarthanyx lived on Mount Speartop, 750 feet (230 meters) below the summit on the northeast face. His lair was a nearly inaccessible cave, but he preferred to never leave it.
+
+Rumors
+In addition to Icehaupt, the mountain was said to be the home of several other gigantic sleeping dragons.
+
+Appendix
+Reference
+
+Connections
+
+---
+
+## Mourmyd Jacerryl
+
+Mourmyd Jacerryl was a pirate in the Sea of Fallen Stars loyal to Evendur Highcastle during the Second Sundering.
+
+History
+In 1486 DR, under orders from Evendur, Mourmyd took his ship, the Octopus, out in search of the young Chosen of Lathander, Stedd Whitehorn. His men located Stedd and his companions near the wilds of Gulthandor. Mourmyd tried to capture them, but they escaped into the wilds. He decided to inform Evendur of the boy's location. After speaking with Mourmyd, Evendur specifically ordered Mourmyd to take control of the Turmishan village of Morningstar Hollows, assuming that anyone journeying east through the northern reaches of Gulthandor would naturally head there. He followed the instructions. Stedd and his companions saw that the village was occupied by pirates and they managed to kill Mourmyd and all his men.
+
+Appendix
+Appearances
+The Reaver
+
+References
+
+---
+
+## Moonwing
+
+Moonwing was a silver dragon and a member of the Talons of Justice during the Rage of Dragons of 1373 DR.
+
+History
+In 1373 DR, Azhaq and his fellow Moonwing were sent to capture the rebellious song dragon Karasendrieth, but they were defeated after Dorn Graybrook's team helped Kara in the battle.
+
+After the metallic dragons changed their minds and decided to join the fight against Sammaster, Moonwing along his fellow Talons were sent to attack Sammaster's citadel. After an attempt to break the magical shield of the citadel, Moonwing was killed.
+
+Appendix
+Appearances
+ The Year of Rogue Dragons
+ The Rage
+ The Ruin
+
+References
+
+---
+
+## Monstrous Compendium Volume One
+
+Monstrous Compendium Volume One is a 2-edition Advanced Dungeons & Dragons accessory.
+
+Description
+Monstrous Compendium Volume One inaugurated the Monstrous Compendium series. Unlike most Dungeons and Dragons books, which were bound as traditional books, Monstrous Compendium Volume One introduced a loose-leaf format, allowing Dungeon Masters to organize and customize their monster collections in a three-ring binder. This design marked a significant departure from earlier monster manuals, aiming to provide greater flexibility and utility for game participants.
+
+Each monster entry provides not only physical descriptions and combat statistics but also information on behavior, habitat, and society where applicable.
+
+Contents
+A
+ Aerial Servant (Air-Kin)
+ Animal, Herd
+ Camel
+ Cattle
+ Buffalo
+ Antelope
+ Sheep
+B
+ Bat
+ Common
+ Large (giant)
+ Huge (mobat)
+ Bear
+ Black
+ Brown
+ Cave
+ Polar
+ Behir
+ Beholder-kin
+ Beholder
+ Eye of the deep
+ Boar
+ Wild
+ Giant (Elothere)
+ Warthog
+ Bookworm
+ Brownie
+ Bugbear
+C
+ Carrion crawler
+ Catoblepas
+ Cats, Great
+ Cheetah
+ Jaguar
+ Leopard
+ Lion, Common
+ Lion, Mountain
+ Lion, Spotted
+ Lynx, Giant
+ Tiger, Wild
+ Smilodon
+ Cave fisher
+ Centaur (Sylvan)
+ Centipede
+ Giant Centipede
+ Huge centipede
+ Megalo-centipede
+ Chimera
+ Gorgimera
+ Cockatrice
+ Pyrolisk
+ Couatl
+D
+ Displacer beast
+ Dog
+ Wild dog
+ War dog
+ Blink dog
+ Death dog
+ Dragon
+ Chromatic
+ Black dragon
+ Blue dragon
+ Green dragon
+ Red dragon
+ White dragon
+ Metallic
+ Brass dragon
+ Bronze dragon
+ Copper dragon
+ Gold dragon
+ Silver dragon
+ Dragon turtle
+ Dragonfish
+E
+ Elemental
+ Elemental, Air
+ Elemental, Earth
+ Elemental, Fire
+ Elemental, Water
+ Elemental, Generic Information
+ Elephant
+ Elephant (African)
+ Mammoth
+ Mastodon
+ Oliphant
+ Elf
+G
+ Genie
+ Djinni
+ Dao
+ Efreeti
+ Ghost
+ Ghoul
+ Ghoul
+ Lacedon
+ Ghast
+ Giant
+ Giant, Cloud
+ Giant, Fire
+ Giant, Frost
+ Giant, Hill
+ Giant, Stone
+ Giant, Storm
+ Gnoll
+ Flind
+ Gnome
+ Goblin
+ Golem, General
+ Golem, Greater
+ Iron golem
+ Stone golem
+ Golem, Lesser
+ Flesh golem
+ Clay golem
+H
+ Halfling
+ Hairfoot
+ Stout
+ Tallfellow
+ Harpy
+ Hobgoblin
+ Homonculous
+ Hornet, Giant
+ Wasp, Giant
+ Horse
+ Draft
+ Heavy
+ Medium
+ Light
+ Pony
+ Riding
+ Wild
+ Mule
+ Hydra
+ Hydra
+ Lernaean
+ Pyrohydra
+ Cryohydra
+ Hyena
+ Hyaenodon
+I
+ Imp
+ Imp
+ Quasit
+ Invisible stalker
+J
+ Jackal
+ Jackalwere
+K
+ Kobold
+ Korred
+L
+ Lich
+ Lizard
+ Fire
+ Minotaur
+ Subterranean
+ Giant
+ Lizard Man
+ Lizard Man
+ Lizard King
+ Lycanthrope, General
+ Seawolf
+ Werebear
+ Wererat
+ Weretiger
+ Werewolf
+M
+ Manticore
+ Medusa
+ Greater Medusa
+ Human|Men
+ Aborigine/Caveman
+ Adventurer
+ Bandit/Brigand
+ Barbarian/Nomad
+ Berserker/Dervish
+ Farmer/Herder
+ Gentry
+ Knight
+ Mercenary
+ Merchant Sailor/Fisherman
+ Merchant/Trader
+ Middle Class
+ Peasant/Serf
+ Pilgrim
+ Pirate/Buccaneer
+ Police/Constabulary
+ Priest
+ Sailor
+ Slaver
+ Soldier
+ Thief/Thug
+ Tradesman/Craftsman
+ Tribesman
+ Wizard
+ Mind Flayer (Illithid)
+ Minotaur
+ Mud-man
+ Mummy
+N
+ Nixie
+ Nymph
+O
+ Ogre
+ Ogre
+ Ogre Mage
+ Merrow
+ Ooze/Slime/Jelly
+ Ochre jelly
+ Gray ooze
+ Crystal ooze
+ Gelatinous cube
+ Green slime
+ Orc
+ Orc
+ Orog
+ Owl
+ Common
+ Giant
+ Talking
+ Owlbear
+P
+ Pegasus
+ Piercer
+ Pseudodragon
+ Puddings, Deadly
+ Black
+ Brown
+ Dun
+ White
+R
+ Rakshasa
+ Rakshasa
+ Rakshasa, Greater
+ Rat
+ Rat
+ Rat, Giant
+ Ray
+ Manta ray
+ Pungi ray
+ Sting ray
+ Ixitxachitl
+ Remorhaz
+S
+ Satyr
+ Scorpion
+ Giant scorpion
+ Huge scorpion
+ Large scorpion
+ Selkie
+ Shadow
+ Skeleton
+ Skeleton
+ Animal
+ Monster
+ Skunk
+ Normal
+ Giant
+ Snake
+ Constrictor (Normal)
+ Constrictor (Giant)
+ Poison (Normal)
+ Poison (Giant)
+ Sea, Giant
+ Spitting
+ Spectre
+ Spider
+ Large
+ Huge
+ Giant
+ Giant Water
+ Giant Marine
+ Phase
+ Sprite
+T
+ Toad, Giant
+ Fire
+ Giant
+ Ice
+ Poisonous
+ Treant
+ Troll
+ Troll
+ Two-headed Troll
+ Freshwater Troll
+ Saltwater Troll
+U
+ Umber Hulk
+ Umber hulk
+ Vodyanoi
+ Unicorn
+V
+ Vampire
+W
+ Wight
+ Will o'wisp
+ Wolf
+ Wolf
+ Worg
+ Dire
+ Winter wolf
+ Wolfwere
+ Wraith
+ Wyvern
+Y
+ Yeti
+ Yuan-ti
+Z
+ Zombie
+ Common
+ Monster
+ Ju-ju
+
+Gallery
+
+Credits
+ Design Concept: David "Zeb" Cook, Steve Winter, Jon Pickens
+ Design Coordinator: Bruce A. Heard
+ Designers: Jay Battista, Scott Bennie, Grant Boucher, BiU Connors, Steve Gilbert, Heike Kubasch, Jim Lowder, David Martin, Bruce Nesmith, Rick Swan, John Terra, Gary Thomas
+ Editing Coordinator: Karen S. Boomgarden
+ Editors: Bill Connors, Gary Thomas
+ Proofreaders: Karen S. Boomgarden, Kim Mohan, Jon Pickens, James M. Ward
+ Typesetting: Angelika Lokotz, Linda Bakk, Gaye O'Keefe
+ Keylining: Paul Hanchette, Stephanie Tabat
+ Artistic Coordinator: Peggy Cooper
+ Cover Art: Jeff Easley
+ Interior Art: Jim Holloway
+
+Appendix
+See Also
+ Images from Monstrous Compendium Volume One
+External Links
+
+ RPGGeek
+
+---
+
 ## Monkey (demigod)
 
 Monkey, also known as Mad Monkey, was a demigod and greater spirit and a former official of the Celestial Bureaucracy. He was a rogue trickster and notorious for his pranks, for which reason he was banished to Toril.
@@ -1552,6 +7218,56 @@ Appearances
 Gallery
 
 References
+
+Connections
+
+---
+
+## Mount Batyr
+
+Mount Batyr was the peak in the Troll Mountains of Amn into which the famed Wailing Dwarf was carved. It was the easternmost peak in the Troll Mountain range.
+
+Appendix
+Reference
+
+Connections
+
+---
+
+## Molnir
+
+Molnir the Mighty was a dwarf and part of a valiant group who defended Dead Dwarf Bridge against forces from Narfell who hoped to invade Almorel.
+
+History
+Molnir fell to his death from the bridge into the Clearflow River far below, but not before killing many enemies.
+
+Activities
+Though rarely seen, Molnir haunted Dead Dwarf Bridge as a specter, appearing only at night as a drowned dwarf. He attacked any spellcaster attempting to cross the bridge, but left others alone.
+
+Appendix
+References
+
+---
+
+## Mount Sklagarra
+
+Mount Sklagarra was a peak in the Troll Mountains of Amn where the Heralds maintained their secret headquarters. It was east of the Smokespire volcano in the far west of the mountain range.
+
+The mountain contained a vast underground lake with an island in the center surrounded by a large complex of caverns known as the Swordmere.
+
+Appendix
+Reference
+
+Connections
+
+---
+
+## Mount Thalangar
+
+Mount Thalangar was a peak in the Troll Mountains of Amn. It overlooked the deep valley known as the Gulf of Storms, which was a sacred site to the servants of Talos.
+
+Appendix
+Reference
 
 Connections
 
@@ -1640,6 +7356,2532 @@ Gallery
 Appearances
 
 References
+
+---
+
+## Moon-spinners
+
+The Moon-spinners were a holy slayer organization in Zakhara who followed the teachings of Selan, the Zakharan goddess of beauty.
+
+The symbol of the Moon-spinners was a long white scarf, which they used to whip or strangle their victims.
+
+Activities
+Holy slayers from the Moon-spinners were obsessed with making Selan the most-worshiped deity on the Isle of the Elephant.
+
+They were in direct opposition with followers of the Lost One.
+
+Base of Operations
+The Isle of the Elephant was the domain of the Moon-spinners.
+
+Appendix
+References
+
+---
+
+## Morbeoth
+
+Morbeoth was a member of the Cult of the Crushing Wave at the Temple of the Crushing Wave in Tyar-Besil during the Elemental Evil crisis.
+
+Personality
+Morbeoth was a proud and prickly individual. He felt that his mastery of arcane power put him above anyone weaker. He resented that a mere druid was chosen to serve as the Prophet of Water, and that an ugly monster like a sea hag served as the cult's second-in-command. He would waste no time agreeing to help kill the leadership of the cult in order to later emerge as its new leader.
+
+Activities
+Morbeoth was a great experimenter in the field of elemental magic.
+
+History
+In 1491 DR, Morbeoth was in charge of the western part of the temple, where he had his workshop with some minions. However, some adventurers infiltrated the temple and confronted and defeated him and his minions.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+
+References
+
+---
+
+## Mougra
+
+Mougra was a goblin bandit in Red Larch during the 1490s DR.
+
+History
+In 1491 DR, Mougra and his companion Geeraugh were hidden in the Haunted Tomb of Red Larch waiting for a bandit raid. However, the young Pell Mhandyvver saw Mougra and directed some adventurers to the tomb, where they defeated Mougra and Geeraugh.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+
+References
+
+---
+
+## Mosque of the Thirsty Jann
+
+The Mosque of the Thirsty Jann was a religious structure dedicated to the worship of Jarmik, a local god.
+
+Description
+This small mosque was located along the Pilgrims' Route between Zayir and Hilm.
+
+At full capacity, the Mosque of the Thirsty Jann could accommodate 100 worshipers.
+
+Inhabitants
+The mosque was staffed by 10 priests and 22 laymen. Tufala min-Jarmik led the priests.
+
+Activities
+The servants of Jarmik provided food and water to the large multitude of pilgrims passing through the area. A sacred well provided water that cured disease and rejuvenated the body, but only if cupped into the hands and consumed. The water lost all of its magical properties if it touched anything other than flesh.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mount Talath (town)
+
+Mount Talath was a small town located near the summit of the mountain with the same name in Halruaa. It was little more than a collection of homes for the staff and priests who worked within the High Temple of Mystra built into the mountains slopes.
+
+Appendix
+References
+
+---
+
+## Moralist
+
+Moralists or Clerics of the Faith Moral, were militant priests in Zakhara who served as the heart and fire of their church.Moralist was a cleric class kit for the Al-Qadim setting.
+
+Requirements
+Moralists priests could be male or female of any race. Males and females were usually segregated into separate buildings and sometimes even separate temples. All moralists were lawful individuals.
+
+Role
+These priests were zealots. This distinction often led others to view them as dangerous.
+
+All rules governing a moralist's life were derived from their god. They tolerated ethoists and pragmatists of their own religion, but still believed they were not living their lives properly. They disliked other priests and despised magic-users.
+
+Unless approved by their god, all earthly distractions were avoided by moralists. They only mingled with non-moralists if given a direct order by their superiors.
+
+Moralists were stern and serious individuals at all times. They kept precise records of their accounts and actions in case they were ever called upon to defend themselves.
+
+Possessions
+Moralists always wore the official uniform of their church. Chainmail armor was usually worn underneath their uniform.
+
+Benefits
+Moralists received great support from any temple of their god. This support came in the form of shelter, food, money, recruiting warriors, and even having their own personal assistant.
+
+Orders could be given to any lower-ranking moralists and were expected to be obeyed to the word.
+
+Hindrances
+Any order received from a higher-ranking moralist needed to be obeyed.
+
+Moralists tithed half of their earnings to their church.
+
+Given their strict nature, moralists suffered socially when dealing with any non-moralists.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Morista Malkin
+
+Morista Malkin was a scout and a member of the Emerald Enclave in the late 15 century DR.
+
+History
+Morista hailed from Luruar but responded to Bruenor's call to liberate Gauntlgrym from evil in the . After the victory, she acted as an advisor to King Bruenor. She also trained elite scouts to move in the dark recesses of the Underdark.
+
+Morista was chosen as the Emerald Enclave's delegate to King Bruenor Battlehammer to discuss the madness spreading in the Underdark circa 1486 DR.
+
+Personality
+Morista always tried to balance her loyalties to her people and king and to nature. She believed her duty was to protect dwarves from the dangers of the Underdark, but also to remind them of its natural beauty. Morista admired and respected King Bruenor.
+
+Appendix
+Appearances
+ Out of the Abyss
+
+References
+
+---
+
+## Mountains of Copper
+
+The Mountains of Copper were a mountain range in the Hordelands.
+
+Description
+The Mountains of Copper were a small mountain range that formed the northern border of Murghôm, and were known for the large amount of copper ore found within.
+
+Having been mined for hundreds of years, the mines in the mountain were deep and extensive, with some shafts going on for miles, many breaking into even older abandoned shafts, and forming a maze-like system of galleries.
+
+The centuries of frequent mining resulted in large numbers of mine shafts being unmapped, and improperly taken care of, making collapses frequent. The lack of supervision on these old mines also allowed creatures of the Underdark, as well as bandits, to move into many of the tunnels.
+
+On the surface, the ages of mining resulted in many slopes becoming deforested, as well as toxic chemicals from old mines to leech into the rivers and streams, making the water unfit to drink. Several peaks were covered in clouds of black smoke from the numerous smelters.
+
+The settlements of the region were small, and covered in soot and dirt from the smelters. Stone walls or wooden stockades surrounded the towns. Mine entrances were usually located in the center of a town, with smelters surrounding it, and the homes and shops of the people surrounding those.
+
+Murghôm was unable to properly control the area, causing monsters and bandits to be a serious problem in the region, and most towns were ruled by local miner's guilds, rather then by Murghôm itself.
+
+Appendix
+Appearances
+Novels
+
+Sentinelspire
+References
+
+FR:Montagnes cuivrées
+
+---
+
+## Mod'Vensis Tlabbar
+
+Mod'vensis Tlabbar was a drow priestess of House Faen Tlabbar, the fourth house of Menzoberranzan.
+History
+Around 1361 DR, Mod'Vensis was a Faen Tlabbar priestess and an instructor at Arach-Tinilith. She taught the young Shakti Hunzrin.
+
+Appendix
+References
+
+---
+
+## Mountain of Iron
+
+The Mountain of Iron was located in the far northern reaches of the Hordelands near the western fringes of the Ama Basin.
+
+Geography
+The Mountain of Iron was part of the Ulhai Shan range.
+
+Description
+This low, rugged peak did not possess any distinguishing features when viewed from a distance. However, as travelers got closer to the peak, they became aware of the mountain's powerful magnetic properties.
+
+History
+Many believed the Mountain of Iron to be a mere myth, a fanciful tale to entertain that possessed no merit. In reality, the mountain housed a considerable amount of lodestone, giving it strong magnetic properties that were rumored to pull weapons from men's hands as they neared the peak. Travelers encased in metal armor could be pinned to the mountain where they eventually died of thirst or starvation if they were not able to remove their armor in time. This snared many explorers, contributing to the mountain's secrecy and myth.
+
+Inhabitants
+A large colony of gnolls lived on the mountain. The gnolls actually revered the mountain as a god because of its mystical properties. Sacrifices to the mountain were common practice for the gnolls, usually in the form of enemies taken alive in battle or captured explorers found wandering the region.
+
+To combat the mountain's magical pull, the gnolls only used weapons and armor made from stone, wood, or bone.
+
+Appendix
+References
+
+---
+
+## Mosque of Kor the Old
+
+The Mosque of Kor the Old was located in Huzuz in 1367 DR.
+
+Location
+This temple could be found in the Pilgrims' District of the City of Delights.
+
+Structure
+As with most mosques in Huzuz, the Mosque of Kor had two floors above ground and a basement below ground. The second floor was topped with a grand dome.
+
+The ground floor served as the main area of worship. Displays from the dancing dervishes were common here. Seats were present for other worshipers, but all true believers of Kor joined in the dance. A huge tapestry hung from the wall showing Kor bestowing wisdom upon the other Zakharan gods.
+
+All of the clerical brethren of the mosque were quartered in the basement. Laymen lived outside of the mosque.
+
+The second floor was open to the dome, providing an excellent view of an enchanted chandelier that hung from the top of dome. The chandelier was capable of playing music on command, though only the high priests were taught how to command the chandelier. Additionally, the chandelier would chime if an unenlightened individual entered the mosque.
+
+Inhabitants
+High Priest Imam Gogal was the head of the mosque. He supervised over 200 lesser ranking priests of Kor and laymen.
+
+Activities
+Since Kor was the god of wisdom, age was venerated within his mosque as their teachings dictated that one should always seek counsel from an elder.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mosque of Beauteous Selan
+
+The Mosque of Beauteous Selan was located in Huzuz in 1367 DR.
+
+Location
+This temple could be found in the Pilgrims' District of the City of Delights.
+
+Structure
+Since Selan's worship was centered in Afyal, her mosque in Huzuz was one of the smaller houses of the great gods of Zakhara.
+
+Many of Selan's followers were gardeners and artists, making her mosque truly beautiful. Hanging plants and flowers decorated the temple walls.
+
+Inhabitants
+High Priest Imam Lelia was the head of the mosque. She supervised over 200 lesser ranking priests of Selan and other laymen.
+
+Activities
+Skilled musicians contributed to Selan's religious ceremonies. Each month, during the full moon, the dome of the mosque would turn transparent. The moonlight flowing inside was concentrated on the main worship area, engulfing a statue of a pear tree. The statue would blossom and flower before releasing its fruit. The fruit would float off of the tree, touching followers gathered for the ceremony. All those who were touched received a blessing of Selan, increasing their artistic ability. The effects of this blessing lasted until the next full moon.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Moral
+
+Imam MoralAn alternate spelling/typo is seen as Morol in the Land of Fate/Adventurer's Guide to Zakhara reference. was the High Priest of the Mosque of Bountiful Jisan in Huzuz, the City of Delights, in 1367 DR.
+
+Activities
+Imam Moral oversaw over 200 priests of Jisan, clerical brethren, and laymen. He was also one of the richest people in Huzuz, owning over 50 houses and business.
+
+He was involved with a nasty dispute with the mosque of Jisan in Hiyal because of their involvement with the Gilded Palm, a notorious group of holy slayers. Three attempts on his life were made, but he survived them all. He suspected that members of the Gilded Palms were able to infiltrate his clergy.
+
+Possessions
+Moral wore chain mail of the desert evening, and owned a ring of spell storing, sandals of striding and leaping. He always carried a lens of appraisal. His recent acquisitions included a ring of regeneration and a staff of striking.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mosque of Bountiful Jisan
+
+The Mosque of Bountiful Jisan was located in Huzuz in 1367 DR.
+
+Location
+This temple could be found in the Pilgrims' District of the City of Delights.
+
+Structure
+This mosque was one of the most lavish of all the temples to Zakhara's great gods. Valuable tapestries, statues, and other symbols of wealth decorated the interior. The vault contained a veritable dragon's hoard of treasure.
+
+Inhabitants
+High Priest Imam Moral was the head of the mosque. He supervised over 250 lesser ranking priests of Jisan and other laymen.
+
+A tasked guardian genie and a dao watched over the mosque's vault.
+
+Activities
+The mosque of Jisan lent money to well-qualified applicants. All visitors to the mosque were expected to make a donation to honor Jisan. Generous donations guaranteed one a fine seat for a ceremony.
+
+The bounty of Jisan concluded every ceremony. Priests summoned rain to moisten the faithful before servants brought food and wine for a feast. Proper form included only eating a little food during the feast. The faithful were encouraged to take food to give to beggars on their way home.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mosque of Hakiyah the Honest
+
+The Mosque of Hakiyah the Honest was located in Huzuz in 1367 DR.
+
+Location
+This temple could be found in the Pilgrims' District of the City of Delights.
+
+Defenses
+The entire structure of the mosque was enchanted so that one could not enter under false pretenses, including invisibility or wearing illusions.
+
+Inhabitants
+High Priest Imam Kerim was the head of the mosque. He supervised over 200 lesser ranking priests of Hakiyah and other laymen.
+
+Activities
+Much of the worship and meditation that occurred in this mosque took place in smaller chambers as opposed to a large central worship area.
+
+The Soft Whisper used the basement of the mosque to plan their actions to protect the life of the Grand Caliph.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mosque of Zann the Wise
+
+The Mosque of Zann the Wise was located in Huzuz in 1367 DR.
+
+Location
+This temple could be found in the Pilgrims' District of the City of Delights.
+
+Structure
+The lowest level of the mosque was a designated lecture hall. The uppermost level housed an impressive library.
+
+Inhabitants
+High Priest Imam Renn min Zann was the head of the mosque. He supervised over 200 lesser ranking priests of Zann and other laymen. His trusted second was Imam Samia al-Risik.
+
+The mosque of Zann was a good place to find many of the sages of Huzuz.
+
+The Readers maintained a strong presence within the mosque.
+
+Activities
+Clergymen of the mosque performed research for those who came seeking answers. The fee charged depended on the kind of questions that needed to be solved and how long it took to find the correct information.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mosque of Free Haku
+
+The Mosque of Free Haku was located in Huzuz in 1367 DR.
+
+Location
+This temple could be found in the Pilgrims' District of the City of Delights.
+
+Structure
+The mosque of Haku was open to the wind on the first floor, honoring Haku's preaching of freedom. This mosque did not have a dome, allowing worshipers to sleep on the roof where they could enjoy the nightly breezes.
+
+Inhabitants
+High Priest Imam Gholam ibn Jubair was the head of the mosque. He supervised around 200 lesser-ranking priests of Haku and other laymen.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mosque of Najm the Adventurous
+
+The Mosque of Najm the Adventurous was located in Huzuz in 1367 DR.
+
+Location
+This temple could be found in the Pilgrims' District of the City of Delights.
+
+Structure
+A large worship area allowed worshipers of Najm to regale other followers with tales of adventure. Showrooms housed rare treasures brought back from these adventures.
+
+Inhabitants
+High Priest Imam Effat was the head of the mosque. He supervised around 200 lesser ranking priests of Najm and other laymen.
+
+Activities
+Followers of Najm were encouraged to explore the world and bring back tales of their exploits.
+
+Items held in the showrooms included a spelljammer helm, an emerald from a palace from Kara-Tur, a stuffed beholder, a shield of a Purple Dragon, a red robe from a land called Thay, and a statue of a wizard named Elminster.
+
+Divination magic was practiced here and could be cast for a fee.
+
+Followers of Najm were encouraged to prove their faith by crossing a small pit on a walkway that was only several inches wide. True followers performed the feat while blind-folded.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mosque of Brave Hajama
+
+The Mosque of Brave Hajama was located in Huzuz in 1367 DR.
+
+Location
+This temple could be found in the Pilgrims' District of the City of Delights.
+
+Structure
+The first floor of the mosque was the main worship area. This area was decorated with a pair of lions that were chained to the main door. It was widely rumored that the lions would attack anyone with fear in their heart. In truth, the lions were bored most of the time.
+
+The basement of the mosque housed the clerical brethren.
+
+The dome of the mosque opened to the sky, allowing the faithful a splendid view of the sunset.
+
+Inhabitants
+High Priest Imam Jomhur was the head of the mosque. He supervised around 200 lesser-ranking priests of Hajama and laymen.
+
+Activities
+Since Hajama was a popular god in Huzuz, services in his mosque were well-attended.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Morganis Andropoea
+
+Morganis Andropoea was a medusa shopkeeper in Skullport.
+
+History
+Morganis lived with her husband Holmyrr until, in 1340 DR, an adventuring party ambushed them and killed Holmyrr. Morganis managed to escape to Skullport, where she started a shop selling the statues she created. Morganis usually bought slaves at the Slavers' Market and petrified them, ready to be sold.
+
+Appendix
+
+References
+
+---
+
+## Mount Kus
+
+Mount Kus was located in the Hordelands near the Katakoro Shan range.
+
+Geography
+Situated on the western bank of the Jumpa River, Mount Kus stood above the city of Kushk where the Great Chain Bridge of Ra-Khati met the Old Iron Road.
+
+Description
+The temple Bimasara, called the Holy Mountain of Kus, was built within Mount Kus and atop its peak in the form of the Tower of Harmony.
+
+Inhabitants
+As of the mid 14 century DR, only gaki inhabited the mountain.
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Moria Chantel
+
+Moria Chantel was an evil mage in the Utter East during the time of the Bloodforge Wars (648–657 DR).
+
+Moria Chantel had a practice of kidnapping travellers near Phantom Pass, for use in a ceremony that bestowed immortality on the mage. After hearing a haunting tale of this, the leader of the Legendary Campaign decided to deal with Moria. They timed their arrival in Phantom Pass to suit the needs of the ceremony and disguised themselves as suitable victims, only to confront the mage in bloodforge battle.
+
+Appendix
+Notes
+ The race and gender of this game character are not known, as their portrait is randomly selected every time the level is played.
+
+References
+
+---
+
+## Morok Ulgren
+
+Morok Ulgren was an orc blacksmith in the Kingdom of Many-Arrows in 1484 DR.
+
+Activities
+Morok was the most highly skilled orcish blacksmith in the entirety of Many-Arrows, making him the most prominent trade figure in the kingdom. He was trained by dwarf blacksmiths in Sundabar, and stood as a living testament to the growth that could come from peace between the orcs and other races. He was a staunch advocate of Obould XVII and Lorgru's plans for continued peace, and provided their personal guard with iron weapons and armor.
+
+References
+
+---
+
+## Monument of the Achievements of the Enlightened Throne
+
+The Monument of the Achievements of the Enlightened Throne was a tower located within the complex of the Palace of the Enlightened Throne in Huzuz in 1367 DR.
+
+Description
+This splendid tower housed halls honoring the Grand Caliphs of Zakhara's past.
+
+History
+Grand Caliph Khalil al-Assad al-Zahir commissioned this extravagant project to honor his forebears. A special group of dwarves and ogres, led by a skilled architect genie, were used to build the structure. Artists were used to decorate the walls with historic scenes of the various accomplishments of the Grand Caliphs. Naturally, the current Grand Caliph gave more attention to his father's and grandfather's deeds.
+
+The project was still under construction as of 1367 DR with the hopes that it would be completed for the Grand Caliph's next Ascension Day.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Motoharu Kaijitsu
+
+Motoharu Kaijitsu was a ninja/yakuza adventurer in Kozakura in 1357 DR. and 1358
+
+History
+Kaijitsu was always able to balance his ninja life under the name Ito with his yakuza one, using the one to have an alibi for the other and vice versa. He managed to help both his ninja family and his yakuza gang to prosper. His greatest fear was being discovered as a ninja, losing everything from his yakuza life, and dying.
+
+In 1357 DR, Kaijitsu was among the candidates chosen by Ko Mei Kho for a mission in Akari.
+
+In 1358 Kaijitsu during a a yakuza family gathering made a particularly messy incident resulting in a severe loss of personal honor and his exile from the family. He was in search for a method to regain honor when was possibly approached by Ko Ho San
+
+Appendix
+Behind the scenes
+Motoharu Kaijitsu is a pre-generated PC for use in adventures in Akari. He was presented again upgraded for adventure in T'u Lung.
+
+References
+
+---
+
+## Mo Kin
+
+Mo Kin was a monk of the Way of Enlightenment and the abbot of Pokarr Gompa in Tabot around .
+
+Activities
+Mo Kin was both the leader of the Pokarr monastery and one of the Lon Chen (chief ministers), whose role was to advise the High Lord of Tabot. Being abbot of Pokarr, he was also commander of its strong militia and was responsible for patrolling Tabot's eastern border with Shou Lung north of Mount E'kwong. As such, he was one of the more influential men of Tabot.
+
+Despite his old age, four or five times a year he traveled to other northern monasteries to attend their festivals.
+
+Personality
+Mo Kin was quiet and contemplative and had a reputation for being very patient and giving good advice, but also being slow to make decisions. His fellow lamas thought him a fair and talented administrator. He was a faithful follower of the Way of Enlightenment and the High Lord of Oceans.
+
+Description
+Even at the age of 78, he was unexpectedly spry and active.
+
+History
+When the city of Rokstang was inundated by a great flood in, Mo Kin used one of the golden eggs of Ghastar (which were kept in the monastery) to stop the flood.
+
+For a great festival at the Temple of Heaven's Heart on Mount E'kwong circa 2607, Abbot Mo Kin chose the monk scribe Pang to represent Pokarr Gompa, releasing him from an eight-year-long vow of silence in the process. The grateful Pang later described him as his benefactor and "the wisest of all abbots" to the Dragon Lord Mei Lung.
+
+Appendix
+References
+
+---
+
+## Morvar
+
+Morvar was a large city in Durpar in the Shining Lands in 1367 DR.
+
+Geography
+Morvar was located along the west bank of the River Lesh where it emptied into the Golden Water in eastern Durpar near the base of the Gryphon Mountains.
+
+Description
+Morvar was filled with smithies and weaving warehouses. All cotton grown south of the Ajmer Forest was brought to Morvar for production. Additonally, lumber from the forest made its way here as well.
+
+Inhabitants
+Morvar had of population of 20,000, including the most racially mixed blend of inhabitants in any city of the Shining Lands. The city had strong trade relationships with the Ulgarthian city of Surbar across the Golden Water.
+
+Appendix
+References
+
+---
+
+## Moonlands
+
+The Moonlands was a region that was located east of the River Surbrin and north of River Rauvin in the Silver Marches.
+
+Description
+
+The southern part of this region was densely populated, but away from the river, the landscape soon turned into a real wild land. The landscape was characterized by meadows interspersed by rolling hills and thick stands of woods.
+
+History
+The Moonlands were the territory of the Uthgardt. The ancestral mounds of the Black Lion tribe and Red Tiger tribe were near Beorunna's Well, up in the north, while the Sky Pony tribe was located in the environs of the One Stone down in the south. There were some disputes in this region since  Uthgardt's Sky Pony tribe attacked many caravans of dwarves directed from Citadel Felbarr to Silverymoon. Hot-head dwarves of Felbarr, who were brave stalwart defenders, were considering driving the Sky Pony barbarians away from the area; this would surely cause both sides to suffer many losses.
+
+Locations
+ The Lonely Tower
+ Beorunna's Well
+
+Appendix
+References
+
+---
+
+## Mount Thalagbror
+
+Mount Thalagbror was a mountain in Archendale.
+
+Geography
+The mountain was the starting point for the River Arkhen in the Thunder Peaks.
+
+Geographic Features
+Rivers
+Arkhen Falls
+River Arkhen
+
+History
+The mountain was named after a ogre mage named Thalagbror. Around 1372 DR, worshipers of Mielikki and Chauntea would journey up the mountain to Arkhen Falls in search of pegasi.
+
+Appendix
+References
+
+---
+
+## Mount Tolzrin
+
+Mount Tolzrin was a mountain located in the Rauvin Mountains.
+
+Geography
+The mountain was located near Mount Jaws, just west of Faerang's Doom.
+
+History
+It was named after the human prospector Tolzrin, who discovered many big gold nuggets there.
+
+Appendix
+References
+
+---
+
+## Mosque of Blistering Atonement
+
+The Mosque of Blistering Atonement was located in the City of Brass in 1367 DR.
+
+This mosque was found in the Furnace ward of the city.
+
+Description
+As a dedicated shrine to Imix, a terrifying archomental of fire, the entire building was covered with corroded copper, creating a disquieting scene.
+
+Activities
+Since Imix was a primordial prince of sinister creatures of fire, many efreeti and their legions revered him.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mosque of the Irreducible
+
+The Mosque of the Irreducible was a temple located in the City of Brass in 1367 DR.
+
+This mosque was found in the Furnace ward of the city.
+
+Description
+The Mosque of the Irreducible was constructed from silver that was polished to a mirror shine.
+
+Activities
+This temple was dedicated to Freyal—the efreeti name for Freya, an ajami goddess of love, passion, and fertility.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mosque of Kossuth
+
+The Mosque of Kossuth was a temple located in the City of Brass in 1367 DR.
+
+This mosque was found in the Furnace ward of the city.
+
+Description
+This mosque was made from beaten bronze.
+
+Activities
+Since the efreet had discouraged the worship of Kossuth since the mosque's erection, the building had fallen into a state of disrepair. However, the efreet would never dare destroy the mosque for fear of angering the primordial.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Moonlight
+
+Moonlight was one of three ninja in the service of Daisake Mayazato in the town of Aru in Wa.
+
+History
+Moonlight trained in the ninja arts in the Warazama clan together with Smoke and Snake, until that clan was destroyed by internal dissent. He and his fellows entered into the service of Daisake Mayazato to repay him for previous services.
+
+Appendix
+References
+
+---
+
+## Moonlight Men
+
+The Moonlight Men were a mercenary company famous for saving the cities of Silverymoon and Everlund.
+
+History
+The Moonlight Men were a mercenary company for only eight years, but during that brief time, they gained a great reputation. They usually guarded caravan roads around Sundabar, Silverymoon, and Everlund.
+
+Their last battle was the defense of Turnstone Pass against a huge orc horde. They managed to crush the orcs, but only six Moonlight Men, include Mintiper Moonsilver, survived. Mintiper went to wander south, while the others possibly joined the army of Silverymoon.
+
+The bodies of the fallen mercenaries were interred in the Cairn of Moonlight within the Pass.
+
+Notable Members
+ Mintiper Moonsilver.
+ Lord Laerlos Silmerhelve II of Waterdeep.
+ Tsaelynos of Everlund, a wizard-priest of Selûne.
+ Barundar "Firebeard" Battlehammer, a dwarf.
+
+Appendix
+
+References
+
+---
+
+## Mold touch
+
+Mold touch was a divine magic spell available to priests of Eldath and clerics of Mielikki and Silvanus. It gave the caster a handful of brown mold spores that could be transferred to a target by touch.
+
+Effects
+There were at least two versions of this spell that differed slightly in some aspects. The older version, when cast, turned the material component of this spell into brown mold spores held safely in one of the caster's hands. If the caster successfully touched another creature with this hand within six minutes, the mold was transferred to that creature and the spellcaster was free of it. If no creature was touched within the time limit, the spores disappeared harmlessly. For the newer version, the mold could be placed anywhere the caster could touch, but the caster only had one chance to touch an unwilling target.
+
+For the older version of mold touch, the first creature touched, whether friend or foe, became infected with brown mold but could not transfer the infection to others. As the brown mold began to absorb the body heat of the victim, it did a large amount of freezing damage in the first minute. As it spread rapidly, the potency was also spread out and was only about half as chilling during the second minute. If the victim managed to resist the magic of mold touch, then he or she only suffered half as much damage as usual. After two minutes, the mold was so spread out that it only did a small amount of cold damage, but continued to do so until the victim successfully resisted, thus ending the spell.
+
+For the newer version, the mold was initially  in diameter and did not grow with absorbed body heat. However, if a fire source was brought within  of the mold, it instantly doubled in size. The chilling damage of this version of mold touch was even greater than the older version, was constant over time, affected all creatures within  of the brown mold, and could not be resisted. However, unlike the older version, this cold-based damage was not lethal.
+
+Brown mold could be delayed or destroyed by magical cold attacks and spells like disintegrate, but any attack on mold infecting a creature likely harmed the victim as well. The mold created by the older version of this spell could not be transferred to plants or inorganic surfaces or materials, and did no harm to cold-using creatures such as white dragons, ice toads, remorhaz, or winter wolves.
+
+Components
+In addition to verbal and somatic components, the older version of this spell converted leaves of oak, holly, or mistletoe into spores of brown mold. The newer version only required the cleric's holy symbol or divine focus.
+
+Appendix
+See also
+ Chill touch
+ Mummy touch
+ Lich touch
+ Tyche's touch
+Appearances
+
+Further Reading
+
+References
+
+---
+
+## Mount of Forgiveness
+
+The Mount of Forgiveness was a necropolis located in Muluk, the City of Kings, in 1367 DR.
+
+Description
+Located just outside of the walls on the southeast side of the city, this artificial mount was covered with artistic tombs and sepulchers.
+
+Activities
+The Mount of Forgiveness was the resting place for the honored dead of Muluk, including past caliphs and royal families.
+
+Rumors & Legends
+The citizens of Muluk whispered that the undead of the Mount of Forgiveness tunneled out a maze of catacombs within the earth. The clergy of Muluk's mosques insisted this was a simple lie instigated by jealous rivals of the city.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mosque of a Thousand Fountains
+
+The Mosque of a Thousand Fountains was a temple dedicated to Zann found in Muluk, the City of Kings, in 1367 DR.
+
+Description
+The mosque actually straddled a large section of the city walls.
+
+Activities
+This mosque was not only a house of worship for Zann, but also served as a small university for the wealthy elite of Muluk. A well-documented library was accessible by the public six days per week. Much of its contents dealt with Muluk's rich history.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Moo Kalai
+
+Moo Kalai was a carp hengeyokai barbarian in Nam Tso in Tabot around .
+
+Activities
+Moo lived with his brothers and sisters in Nam Tso, typically swimming in its deep waters and hibernating in winter. He sometimes visited the markets at Bidnop So to trade rice and opals collected by his people from the lake bed for things the carps couldn't manufacture.
+
+Description
+He had a very short stature, large eyes, and pale skin. He shaved his head smooth like the Tabotan lamas. He was very careful and was never seen eating or sleeping by humans.
+
+Appendix
+References
+
+---
+
+## Montar Kaspar
+
+Montar Kaspar was a half-elf cavalier and the baron of the city of Kaspar in Ulgarth around 1367 DR. He chose the name "Montar Kaspar" for himself, it meant "defender of Kaspar".
+
+Activities
+Baron Kaspar governed the barony and city of Kaspar and also had the responsibility of defending the realm against the barbarians of the eastern plains. He also commanded his own barony's army, the only baron to do so around 1367 DR. He led his forces into battle himself, which earned him the appreciation of his troops. He kept their morale high through a mix of trust, harsh discipline, and indulging their greed, by sharing the loot of a battle and captured horses fairly among the troops.
+
+In particular, Baron Kaspar led an elite cavalry company, mounted on the superb Dambraii horses that he personally had imported from Dambrath. These made them the swiftest cavalry company in the kingdom, able to easily pursue or retreat from barbarian hordes.
+
+Personality
+He also loved horses with passion. His own mount was Firefiex, reputed to be the swiftest steed in the kingdom.
+
+Appendix
+References
+
+---
+
+## Mourner's armor
+
+Mourner's armor was a form of magical lamellar armor that originated in Zakhara, the Land of Fate, and was created by a great ghul sha'ir.
+
+Description
+The black plates of this armor were often decorated with bright colors.
+
+Powers
+When worn, mourner's armor offered complete protection from all normal ranged weapons. It also made it much more difficult for the wearer's opponents to strike them.
+
+The remaining powers of the armor were considered a curse by most, or at least a mixed blessing. Once the wearer suffered substantial physical harm during battle, they no longer felt pain of any kind. When even more damage was suffered the wearer was filled with a sense of invincibility, continuing to fight well beyond the point of death after suffering additional wounds that would fell a normal man. If "fatal" wounds were sustained during battle, the wearer would die several days later as the armor consumed their life force.
+
+All magical forms of healing used on the wearer had no effect. Non-fatal wounds could only be healed by natural means.
+
+Once donned, and once the curse was activated during battle, mourner's armor could only be removed by the original great ghul who created it or by a wish.
+
+History
+Throughout the history of the Land of Fate, several brave warriors were believed to have willingly donned a set of mourner's armor, knowing full well the consequences of their actions, in order to turn the tide of battle and help their cause.
+
+Appendix
+References
+
+---
+
+## Motsegai
+
+Motsegai was a shugenja in Kozakura in 1357 DR.
+
+Activities
+Motsegai was the abbot at the Kanchai school monastery of Mount Ichi, where the former emperor Gobidamu retired to. Motsegai was a member of the noble Ikeda clan and had strong ties with court nobility.
+
+Appendix
+References
+
+---
+
+## Mountains of the Lizard's Tongue
+
+The Mountains of Lizard's Tongue was a prominent geographical feature of West Zakhara, fully dominating the landscape in the northwest region of the High Desert.
+
+Geography
+The mountain range stretched for hundreds of miles across this region of the Land of Fate, running northeast to southwest. It effectively separated the scorching High Desert from the refreshing waters and cool breezes of Bahr al-Kibar. It eventually terminated in the northeast at Bahr al-Dahil, the Sea of Caravans.
+
+Appendix
+References
+
+---
+
+## Mountain Prince
+
+The Mountain Prince was a skilled yikarian warrior inhabiting the World Pillar Mountains in 1367 DR.
+
+Description
+The Mountain Prince carried scars from his many battles.
+
+Activities
+As one of the Seven Sages, the Mountain Prince ruled over one of the large provinces of the Yikarian Empire—the Bronze Falcon. Given the Bronze Falcon's location near the dense forests found east of the World Pillar Mountains, the Mountain Prince was mostly responsible for eliminating any threats to the Empire from that direction. He often rode at the head of his army into battle.
+
+History
+The Mountain Prince personally taught the Lotus Emperor how to use a sword. He was believed to have the Emperor's confidence.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mother Millstone
+
+Mother Millstone was the highest-ranking priest of the Faceless God among the vile yak-folk of the World Pillar Mountains in 1367 DR.
+
+Activities
+Mother Millstone oversaw the largest temple dedicated to the Faceless God. She was also the appointed governor of the Yak's Horn province and a member of the Seven Sages. Her territory overlapped into the fringes of the Haunted Lands, granting her access to a wide array of strange creatures.
+
+Rumors & Legends
+It was rumored that Mother Millstone found a way to harness the bizarre spirits of the desert in the lowlands of the Haunted Lands bordering the World Pillar Mountains.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mountain circle
+
+The mountain circle was a druid circle associated with grand terrain that reached for the sky. Druids who took up the cause of nature in such a region had an affinity for this circle and the suite of spells that came to them without cost (they could cast them at any time without having to prepare them in advance).
+
+Mountain circle spells
+Novice druids of such a domain learned how to cast spider climb and spike growth. Those who had become more skilled and wise in the ways of the circle could cast lightning bolt, meld into stone, stone shape, and stoneskin. Druids who had become very versed in the mountain circle could cast passwall and wall of stone.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Morwen Daggerford
+
+Morwen Daggerford was the sister of the duke of Daggerford around 1485 DR and later duchess herself the following year.
+
+Activities
+Morwen usually trained with the militia and paid regular visits to the shrine of Tempus. She was the Master of Arms of the duchy and the military commander of the castle but many believed her a better duke than Maldwyn Daggerford.
+
+History
+Around 1486 DR, Morwen inherited the title from Maldwyn when the practice of primogeniture was suspended in the town of Daggerford. She also joined the Lords' Alliance.
+
+Not long after she began her rule, Lady Morwen was captured by Baroness Wynne Cromm and placed into the dungeon of Cromm's Hold. A succubus named Pencheska, disguised as Lady Morwen, ruled Daggerford in her stead.
+
+Personality
+On the surface, Morwen was not an amiable person but in truth, she had a noble heart. People believed her to be a more capable leader than Maldwyn and blamed the laws or primogeniture, but Morwen was content with her position.
+
+Appendix
+Appearances
+Adventures
+Ghosts of Dragonspear Castle • Scourge of the Sword Coast • Curse of Strahd • Storm King's Thunder
+Card Games
+Dragonfire
+
+References
+
+---
+
+## Molten Throne
+
+The Molten Throne was a magic throne used by Nar-Aidiya within Krak al-Mazhar—the secret fortress of the Brotherhood of the True Flame.
+
+Description
+The Throne sat upon a stone column in the Infernal Hall that measured 10 feet in diameter and usually sat 10 feet above the ground. The height of the column could be altered at any time by a mere thought from the Throne's occupant. The column could also rotate a full 360 degrees by using basalt studs found on the throne's arms. A blazing moat filled with ever-burning walls of fire surrounded the base of the column.
+
+The Throne itself was a translucent pillar of flame that appeared to be frozen in time.
+
+History
+The Molten Throne was created by a tasked artist genie at the request of the Sultan of the Efreet, Marrake al-Sidan al-Hariq ben Lazan, to given as a gift to Nar-Aidiya.
+
+Powers
+Whoever was seated upon the Throne was completely immune to all forms of fire. The occupant could cast ESP, chastise, and flame of justice at will. Once per day the Throne could be used as a rod of rulership, forcing the occupant's will upon their servants.
+
+Anyone sitting on the Molten Throne who was not a member of the Brotherhood of the True Flame was instantly blasted by a powerful flame strike.
+
+Every time the Throne's occupant used one of the powers there was a small cumulative chance that anyone who was not a committed worshiper of Kossuth would be turned to worship him, also turning them toward sinister behavior.
+
+Rumors & Legends
+It was believed that the Molten Throne could only be destroyed if attacked by the whirlwinds of 1,000 djinn.
+
+Appendix
+References
+
+---
+
+## Monstrous Compendium Annual Volume Two
+
+The Monstrous Compendium Annual Volume Two is a 2-edition Advanced Dungeons & Dragons accessory.
+
+Description
+Monstrous Compendium Annual Volume Two serves as a supplement to the AD&D game, providing an extensive collection of monsters that were previously published in various 1994 Advanced Dungeons & Dragons modules, as well as Dungeon and Dragon.
+
+The structure of the Monstrous Compendium Annual Volume Two adheres to the format established by earlier Monstrous Compendium supplements. It features detailed entries for each monster, including physical descriptions, behaviors, combat tactics, and statistics necessary for gameplay. These entries are designed to be easily integrated into the existing binder system of the Monstrous Compendium series, allowing for a customizable and expansive monster reference library.
+
+In addition to monster descriptions, the Monstrous Compendium Annual Volume Two provides lore and background information for each creature, offering insights into their habitats, societies, and roles within the AD&D world.
+
+Index
+
+Characters
+
+Creatures
+
+Locations
+
+Religions
+
+Miscellaneous
+
+Gallery
+
+Credits
+ Editor: Jon Pickens
+ Creative Director: Steve Winter
+ Cover Artist: Jeff Easley
+ Interior Artist: Walter Velez, Arnie Swekel, Dennis Miller, Glen Michael Angus, Ken Frank
+ Additional Art: Tom Baxa, Stephen A. Daniele, Mark Sopperland
+ Graphic Artits: Paul Hanchette, Don Danowski
+ Art Director: Stephen A. Daniele
+ Electronic Pre-press Coordinator: Dave Conant
+ Typography: Tracey I. Isler
+
+Appendix
+See Also
+ Images from Monstrous Compendium Annual Volume Two
+External Links
+
+ RPGGeek
+
+---
+
+## Mortuth Baldreth
+
+Mortuth Baldreth was a traveling merchant that dealt in wagons, wagon wheels, cart wheels, lanterns, and large tools such as picks, woodcutting axes, and shovels.
+
+Abilities
+Mortuth was extremely strong and a specialist with the longsword.
+
+Possessions
+His possessions included his wares and other business property. He wore splint mail and carried a shield when he felt the need to protect himself.
+
+Activities
+Mortuth was an agent of the Zhentarim that traveled to Voonlar as part of his itinerary. He gathered intelligence and kept an eye on Bron Buorstag Hlammythyl and his deputies, occasionally making suggestions that were carried out like orders.
+
+References
+
+---
+
+## Molvayas Philiom
+
+Molvayas Philiom was a fanatic high priest of Ghaunadaur in Llurth Dreir.
+
+History
+Malvayas was a member of House Philiom in Llurth Dreir.
+
+In 1379 DR, he met Kâras in Llurth Dreir, but when he discovered that he had joined the Church of Eilistraee, Molvayas tried to kill him and only the arrival of Valdar Jaelre saved Kâras's life.
+
+Appendix
+Appearances
+Novels
+
+ Ascendancy of the Last
+
+References
+
+---
+
+## Morligul Downdagger
+
+Morligul Downdagger was a mage from Highmoon, working as a wizard-for-hire in Suzail in the late 15 century DR.
+
+Personality
+He was very greedy, and unscrupulous.
+
+Abilities
+He had at least one scrying spell, and a number of spells that protected from scrying and prying.
+
+Activities
+He was a wizard for hire. Also, he was an habitual sight at some dockside taverns.
+
+Relationships
+During the, he was hired by Traevyn Illance.
+
+History
+Traevyn Illance had hired him for a while after the disaster in the Council of the Dragon of 1479 DR; he was sent together with Scarmar Heldeth to capture Rauligus Helderstone. They also assaulted the home where the man was staying, and took him captive; along the way, they also captured Storm Silverhand and slew everyone there, save for the War Wizard Reldyk Applecrown, whose comatose body was actually harboring the mind of Elminster Aumar. Knowing they had failed to capture or slay one of the people there, Scarmar Heldeth decided to flee the city, fearful of what the loose end may bring.
+
+Downdagger continued alone to the Three Ravens, a local tavern, where he met with Traevyn Illance. Inside the tavern, he was knocked out and impersonated by Elminster Aumar, who'd followed him in a trice.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moon's Twelve
+
+The Moon's Twelve were an adventuring company operating in Cormyr in the 1350s DR.
+
+History
+Circa 1357 DR, the Moon's Twelve embarked on an expedition into the notorious Vast Swamp of eastern Cormyr. It was to be their last.
+
+Amidst the flooded forest, they were said to have discovered a complex of ruined structures as old and as extensive as the famous Myth Drannor. This too was of elven architecture, with carvings and murals illustrating elven kings and mages, all of which seemed to point to a heretofore unknown and forgotten elf kingdom that had once stood in the lands where the Vast Swamp now lay.
+
+However, the Moon's Twelve were then ambushed by a shocking great number of mind flayers, who were seemingly allied with a few powerful beholders. Pursued by these monstrosities, the Moon's Twelve fled the ruins and the swampland.
+
+Only one member of the band, Sylara, survived and made it back to something like civilization, meeting Brother Twick, a cleric of Chauntea. Delirious with a fever contracted in the marshes, Sylara raved about their discoveries and the disaster that had befallen them, before she died. The truth of this tale and the elven ruins is unknown, but a number of other treasures of elven make, bearing elven imagery and archaic Espruar script, coming separately out of the Vast Swamp supported the Moon's Twelve's discovery.
+
+Members
+ Sylara
+
+Appendix
+References
+
+---
+
+## Moonveil
+
+Moonveil was a divine magic spell available to certain priests of Bhaal, and later, Bane, that corrupted and blocked a moonwell—sacred pools scattered around the Moonshae Isles and dedicated to the Earthmother, with magical properties and possibly a portal—from operating. It was a ritual that took nine minutes to cast and could be assisted by up to seven additional followers.
+
+Effects
+The caster and up to seven assistants had to chant and dance all around the moonwell in a rough circle. Every minute, for nine minutes, a creature had to be sacrificed and its blood spilled upon the ground and into the pool. When the ritual was completed, a black mist rose from the moonwell, covering it with a roiling veil of death and destruction. All beneficial properties and effects of the moonwell were negated and the influence of the Goddess upon the local area was weakened to the point where she could not awaken or consciously direct her children (Kamerynn the unicorn and the Pack).
+
+The black mist was constantly generated by the pool, rising up a short distance and then dissipating, making it impossible to separate it from the pool; it could not be bottled, divided, or blown away. All spells of a level lower than moonveil were instantly reflected back upon the caster at full potency. Items that touched the mist had to resist the equivalent of a strong acid or be destroyed. Living creatures that came in contact with the mist had to resist the equivalent of a strong poison or suffer corrosive damage for as long as they maintained contact. If a being fell into the pool or was otherwise immersed, he or she had no chance to resist and suffered twice as much corrosion as for casual contact. They were also rendered blind unless they could resist the poisonous waters, and the blindness lasted for ten to forty minutes after the victim was removed from contact with the water or the black mist.
+
+As a side effect of the casting of moonveil, all holy water, sweet water potions, and other magical waters within 90 ft (27 m) of the pool were rendered foul and useless.
+
+The only known method to re-purify a moonwell that was corrupted by this spell was the sanctify sacred site ritual cast by followers of Chauntea the Earthmother.
+
+Components
+This spell required verbal and somatic components and, in addition to the chanting and dancing around the moonwell, this spell required a charred bone from any creature native to the Moonshae Isles, a bit of dung, some ashes, a dried snakeskin, and a small quantity of a liquid poison. As part of the ritual, nine creatures were sacrificed for the material component of their blood.
+
+Rumors and legends
+Some clerical and arcane sages believed that the moonveil ritual could be modified to close gates, color pools in the Astral plane, portals, or conduits for divine power.
+
+History
+This spell was known to certain priests of Bhaal, including the evil Hobarth who tormented the Moonshaes in the years leading up to the Time of Troubles. Years later, priests in the Risen Cult of Bane rediscovered this spell and used it before eventually being defeated by a small band of Harpers.
+
+Appendix
+See also
+ Sanctify sacred site
+Notes
+
+References
+
+---
+
+## Monocle of Bagthalos
+
+The monocle of Bagthalos was a holy artifact of Helm. Worn over one eye, it gave its user magically enhanced eyesight. The monocle was crafted by Bagthalos Deszhummer, Archpriest of Helm, in the 1100s DR, and was imbued with his spirit, which could also curse any who wore the monocle.
+
+Description
+The monocle consisted of a clear, circular lens of crystal surrounded by an adamantine frame that was studded with six loops. Fastened in these loops were six colorful ribbons, allowing the wearer to securely hold the monocle over their eye, even in the face of physical turmoil.
+
+Powers
+The monocle gave its user constant true seeing, and caused immunity to gaze attacks and any form of hypnotism, whether magical or psionic in nature.
+
+Three times per day, the monocle-wearer could cast searing light. Furthermore, the monocle allowed its wearer to analyze dweomer at will.
+
+Bagthalos's spirit, trapped within the relic, whispered regrets, guilt, and sorrow into the wearer's mind. A careless user could find themselves magically compelled by the monocle to rectify a past wrong. This compulsion was similar to a geas or quest spell, could not be dispelled, and would cause the relic to not function until fulfilled.
+
+History
+Bagthalos Deszhummer was an Archpriest of Helm in Zazesspur in the 1100s DR. His order's temple, the House of the Steadfast, was beset by constant thefts from the Skeletal Finger thieves guild, and Bagthalos suspected magical invisibility was employed to slip past the temple guardians. To combat this, Bagthalos began fashioning a magical detection device for his guards. When Helm learned of Bagthalos's ambition, he gave his Archpriest a stern warning. Helm did not approve, feeling magical aid should not be used in place of vigilance. He warned Bagthalos that continuing his vain research would lead to the death of a being dedicated to Helm. However, Helm did not tell his Archpriest to cease his efforts.
+
+Over the years, Bagthalos continued crafting his device, but found himself agonizing over Helm's warning. The Archpriest had no desire to prosper at the cost of another, and this guilt gnawed at him whenever he made progress. He eventually fell into obsession, his temple duties shirked, and his body wasting away. On his deathbed in 1141 DR, Bagthalos uttered the final prayers needed to finish his device. However, this also trapped his spirit within the monocle, unknown to all.
+
+The next year, the temple was robbed again by the Skeletal Finger guild, and the monocle was carried off amidst other loot. For many years, the monocle of Bagthalos circulated in the black markets of Athkatla and Ithmong, where shady merchants, acting on behalf of the original thieves, offered it for the price of 45,000 gp, far below the item's true value. No buyers were interested, however, and the monocle languished in the Skeletal Finger's headquarters in the Small Teeth. Eventually, the mountain stronghold was attacked by the blue dragon Iryklathagra, who drove the thieves away. The blue dragon settled in the stronghold, and the monocle of Bagthalos became part of her hoard.
+
+Reputation
+Since the creator of the monocle perished immediately after crafting the artifact, it was virtually unknown. Bagthalos took the secrets of its creation with him to his grave.
+
+Notable owners
+ Bagthalos Deszhummer, Archpriest of Helm
+ Skeletal Finger, thieves guild
+ Iryklathagra, blue dragon
+
+Appendix
+Notes
+It is suggested in Book of Artifacts that the only way to destroy the monocle of Bagthalos is to reunite all the disparate, plane-lost pieces of Bagthalos's soul, or to freeze it at the heart of the Abyss.
+
+References
+
+---
+
+## Mogion
+
+Mogion was the leader of the Survivors of Moander cult in Yûlash in 1357 DR.
+
+History
+The daughter of a Sembian noble, Mogion joined the cult of Moander and rose to the position of high priestess.
+
+In 1357 DR, Mogion, for the first time, received a call from her god summoning her to Yûlash. Soon Mogion settled in the ruined city and despite her god's avatar having been destroyed by Alias's party, Mogion grew in power and clerical abilities until she was named the next Mouth of Moander.
+
+Soon she contacted Radatha of the Fire Knives in order to start the New Alliance.
+
+When the adventuring party possessing the Azure Bonds arrived in Yûlash, Mogion started preparations for a ritual to awaken Moander. However, something went wrong during the ritual and Moander fused himself with Mogion, creating a mindless monster of destruction but the adventurers destroyed her before it was too late.
+
+Appendix
+Appearances
+Curse of the Azure Bonds
+
+References
+
+---
+
+## Morak Ur'gray
+
+Morak Ur'gray was an innkeeper in Nightstone in the late 15 century DR.
+
+Activities
+Morak managed an inn in the village of Nightstone.
+
+History
+In the late 1480s or early 1490s DR, sometime after the War of the Silver Marches, when the cloud giants started their bombardment against Nightstone, Morak gathered as many villagers as possible and led them in their escape.
+
+Taking refuge in nearby caves, however, Morak and his fellows were captured by the goblins of Boss Hark.
+
+Personality
+Morak was a natural leader and always optimistic. He thought for sure that Lady Velrosa Nandar would send help for them.
+
+Appendix
+Appearances
+ Storm King's Thunder
+
+References
+
+---
+
+## Mount (spell)
+
+Mount, which was originally called Jarm's mount, was a summoning spell to conjure an equine to carry a rider.
+
+Effects
+To within close range of the caster, this spell summoned a pony or light horse, which was willing an able to carry a rider. The mount was summoned with riding gear, such as bit and bridle and saddle, already equipped. The duration of the summons depended on the power of the spellcaster but was at least two hours.
+
+Components
+A strand of horse hair was required to cast this spell, in addition to verbal and somatic components.
+
+History
+The spell was invented by the Netherese arcanist Jarm  in .
+
+In the month of Eleasis, of the, the city of Ravens Bluff's Ministry of Art and Wizards Guild jointly declared it illegal to cast mount within city limits due to a raging unnatural storm at the time called the Soulstorm. In addition to threatening arrest for those that broke this decree, it was declared that breaking this prohibition would result in a permanent expulsion from either organization.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Moog
+
+Moog was a lonely hill giant sometime after the War of the Silver Marches.
+
+Activities
+Moog lived in a decrepit old tower somewhere near the Dessarin Valley where she wallowed in self-pity.
+
+History
+In the late 1480s or early 1490s DR, Chief Guh took Moog's husband, Hruk as her own, like many others. This event destroyed Moog.
+
+Appendix
+Appearances
+ Storm King's Thunder
+
+References
+
+---
+
+## Morndin
+
+The Morndin (Son of Moradin, in Dwarvish) were dwarves that, according to tradition, were reincarnated in members of other humanoid races after they died, in order to fulfill specific tasks Moradin could not entrust to a member of the dwarven races.
+
+Notable Members
+The only known Morndin were members of Clan Ironstar.
+ Daffyd (allegedly)
+ Rook
+ Torrin Ironstar (possibly)
+
+Appendix
+Appearances
+Novels
+ Untold Adventures, Tallfolk Tales short story.
+
+References
+
+---
+
+## Morgan Ildacer
+
+Morgan Ildacer was the aquatic elf captain of the High Mages' guard in Sylkiir and a member of the Nantarn Council.
+
+Personality
+Morgan was an ill-tempered and over-arrogant elf. He respected only power and martial skills. So, inside the Council, he was influenced only by Nalos and the shalarin Ri'ola'kirk. He hated the Lusos clan.
+
+Activities
+Despite Morgan's objections, Myth Nantar was garrisoned also with troops from other Selu'Maraar's military units.
+
+Appendix
+References
+
+---
+
+## Morlith (family)
+
+The Morlith family was a noble house of Gontal, and part of the Twelvefold.
+
+They held great political influence in Gontal, specially in Gontal City, were common folk believed the Twelvefold families held incontable treasures in their manors and vaults, and were the true power behind the throne. They controlled most of the commerce in Gontal, as well as many illegal activities.
+
+Appendix
+References
+
+---
+
+## Mortyn Wahrandur
+
+Mortyn Wahrandur was a human surgeon who lived in Szant.
+
+Abilities
+Mortyn knew different physical, herbal, and magical skills that allowed him to heal any kinds of wounds, and even completely alter the appearance of a face forever.
+
+Appendix
+References
+
+---
+
+## Mother Mauler
+
+The Mother Mauler was a unique infamous anaxim that roamed the Glaur Barrens of Gontal, in Laerakond.
+
+Description
+The Mother Mauler was squat, squarish "mauler"-type anaxim, as big as a large shack. It had a cavernous mouth full of whirring blades that served as its teeth, and its metallic mandibles reached from each side of its body and served it as arms. The Mother Mauler had massive metallic legs with splayed feet that allowed it to move in any kind of terrain.
+
+ History
+As of 1479 DR, the Mother Mauler was hundreds of years old. Many explorers of the Glaur Barrens believed the Mother Mauler was the original anaxim that served as the inspiration for the creation of the smaller "mauler"-type anaxims.
+
+Appendix
+References
+
+---
+
+## Mo'ki
+
+Mo'ki, also written as mo'Ki, was a settlement in the kingdom of Koryo in Kara-Tur.Text sources in Kara-Tur: The Eastern Realms render the name as "mo'Ki", while maps in the book and in The Forgotten Realms Atlas render it as "Mo'ki". The latter name is used in this article for ease of writing and wiki coding.
+
+Geography
+Mo'ki lay on the eastern coast, facing the Straits of Koryo. It stood north of Mo'ki Bay.
+
+History
+Mo'ki was once afflicted by the ivory plague until the shukenja Pitalla used the leaping fish to cure it.
+
+Around 1357 DR, Mo'ki Bay was dominated by the pirate Crow Dz Pong, who terrorized coastal settlements like Mo'ki.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mo'ki Bay
+
+Mo'ki Bay or mo'Ki Bay was a bay in the kingdom of Koryo in Kara-Tur.Text sources in Kara-Tur: The Eastern Realms render the name as "mo'Ki", while maps in the book and in The Forgotten Realms Atlas render it as "Mo'ki". The latter name is used in this article for ease of writing.
+
+Geography
+Mo'ki Bay lay on the eastern coast, facing the Straits of Koryo. The settlement of Mo'ki lay on the north side.Mo'ki Bay is not marked on maps, but it may be inferred to be the bay south of Mo'ki on maps.
+
+History
+Around 1357 DR, Mo'ki Bay was dominated by the pirate Crow Dz Pong, who was known as "the wu jen of mo'Ki Bay". He terrorized sailors and coastal settlements from Pyong Do to the Ziyero Ridge, such as Mo'ki. He was theorized to have a hidden fortress somewhere south of Mo'ki Bay, concealed with magic and full of his loot.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Morissa Thornion
+
+Morissa Thornion was an archivist in the Chondath in 1358 DR.
+
+Description
+Morissa looked almost identical to her sister, having the same brown eyes and braided, raven black hair.
+
+Personality
+Morissa was a very kind individual, the most trusted person of the village, unable to harm even a fly. Her only weakness was that she talked too much about her preferred topics; one of them was the legend about the Black Skull.
+
+Abilities
+Having been raised by a magic-user, Morissa had some expertise in magic and knew how to cast the following spells: comprehend languages, friends, mending, read magic, rope trick, shatter, tongues.
+
+Activities
+Morissa managed the Thornion archives in the city of Timindar. Often, Lord Reland Tymin asked her help in settling disputes.
+
+History
+In 1358 DR, Morissa hid her sister Durissa Thornion, who went back to Timindar seeking vengeance. Later, under the advice of Durissa, she left the city.
+
+Relationships
+Morissa and Durissa Thornion were the daughters of the town mage. She always protected Durissa, despite everything.
+
+Appendix
+
+Appearances
+Adventures
+Swords of the Iron Legion
+References
+
+---
+
+## Morintar
+
+Lady Morintar was the leading priestess of Lliira in the Vilhon Reach in 1370 DR.
+
+History
+Morintar gained prominence when, just after the Time of Troubles, she managed to convert a number of wealthy merchants.
+
+Appendix
+
+References
+
+---
+
+## Mount Cormanda
+
+Mount Cormanda was an active volcano located in southern Skelkor, Laerakond.
+
+History
+When the Spellplague transported Laerakond to Toril, the demon lord Cormanda went to explore the new continent. However, a burst of Spellplague hit Cormanda and fused it with the volcano, which was later renamed after the demon lord. As of 1479 DR, the demon lord was still trapped inside Mount Cormanda's lava tube.
+
+References
+
+---
+
+## Mother
+
+Mother was a monstrous spawn of Graz'zt in the late 15 century DR.
+
+History
+Circa 1486 DR, Graz'zt entrusted Mother to the derro of Ravagestone. There, she ate derro, myconids, and fungus, growing enormous.
+
+Later, Mother decided to join her father in Maerimydra, and she arrived during the allied assault on the city. Mother and her derro minions inflicted heavy losses on the invading troops. At last she was killed by an adventuring party.
+
+Relationships
+Mother was the daughter of the demon lord Graz'zt and of an unknown, unspeakable creature.
+
+Abilities
+Mother could spawn various fiends, including succubi, vrocks, and bar-lguras.
+
+Appendix
+
+Appearances
+Assault on Maerimydra
+
+References
+
+---
+
+## Molostroi
+
+Molostroi was a baelnorn protector of Myth Drannor that opposed the Cult of the Dragon's plan to gain control of all of Faerûn through Pelendralaar corrupting the city's mythal and a pool of radiance.
+
+{{Quote|This form is only an image, and I cannot move objects. I need you to bring the scepter into the ruins of Myth Drannor and aid the attack against the Cult so that mythal may be saved and repaired. It is dangerous, but I know secret paths. Will you aid me?|Molostroi}}
+
+Description
+Molostroi appeared as a tall elf with dried up and shriveled skin. His eyes glowed with ancient power and his presence radiated impressive power.
+
+Personality
+Molostroi's entire existence was dedicated to protecting the secrets and power of the fallen elven city. He was not aggressive, carried no weapon, and had a cunning mind.
+
+Abilities
+Molostroi was an ancient and powerful baelnorn with the extent of his power unrevealed. He often presented himself in the baelnorn teleprojection form that was powerful enough to take on dangers and kept his actual body safe.
+
+In the baelnorn teleprojection form, Molostroi had full access to his spells, baelnorn abilities, and some special traits. Molostroi was able to use his magic to turn undead at the level of a powerful cleric, he was immune to cold, electricity, polymorph, and any magics or abilities that affected one's mind. He was able to fly, like other elves, possessed darkvision, and had a wide variety of spells handy, such as sunburst, Power word, stun, prismatic spray, analyze dweomer, Bigby's forceful hand, dimensional anchor, invisibility sphere, and greater dispelling, among many others.
+
+History
+In 1369 DR, the Cult of the Dragon occupied the ruins of Myth Drannor, aiming to corrupt the city's mythal and perform a dreaded ritual submerging the Cult's dracolich ally into the pool of radiance, discovered in the Elven Catacombs  under Castle Cormanthor.
+
+Eventually, Molostroi was captured and imprisoned by the cultists, yet he, and his fellow baelnorn protectors, were still able to reach out to the three groups of adventurers that were opposing the cult in the ruins of Myth Drannor. One of these groups was led by Athan and sent by Elminster himself to stop the cult, the second was the group of heroes from Phlan who were tasked with guarding the resurgent pool of radiance under the city but were swept through a gate to Myth Drannor, and the third group of heroes arrived at the city in pursuit of the cult's slavers.
+
+Molostroi used his baelnorn teleprojection to appear in front of the surviving heroes guiding them to stop the cult. Once the adventurers that were in the pursuit of the slavers penetrated the Crypt of Orbakh and laid their hands on the ancient necromancer weapon that rested there, Orbakh's ivory scepter, Molostroi realized that the heroes now had a chance of stopping the cult if he directed them. The scepter was one of few weapons in the ruins of Myth Drannor that was able to destroy Pelendralaar's phylactery, making the cult's plan vulnerable.
+
+He helped them by indicating the most secure way to get to the main hideout of the Cult inside the ruined city and asked them to destroy that phylactery. Once the dracolich was vulnerable, he guided the other surviving group of adventurers to battle the dreaded creature, killing it permanently, and subsequently, restoring the mythal and letting the pool of radiance drain into nothingness.
+Appendix
+Appearances
+AdventuresPool of Radiance: Attack on Myth DrannorVideo gamesPool of Radiance: Ruins of Myth Drannor''
+
+References
+
+---
+
+## Morven Vance
+
+Morven Vance was a rogue member of the Cult of the Dragon on the Dragon Coast in 1374 DR.
+
+Activities
+Morven was a cleric of the dragon god of secrets, Kalzareinad, and a disciple of Maldraedior in Unther.
+
+History
+In 1374 DR, she was approached by the young and ambitious member of the Cult of the Dragon Reveilaein Brant, who had found inside the Well of Dragons a tablet artifact describing a ritual to turn a half-dragon into a special kind of dracolich called a kaemundar. However, Reveilaein needed a cleric of Kalzareinad to complete the ritual and requested Morven join him. Morven agreed, planning to maybe betray Reveilaein later.
+
+Later, Reveilaein and Morven gathered a retinue of cultists around them and founded a new cell of the Cult of the Dragon on the Dragon Coast, planning to use the ritual upon the local dragon turtles. The group settled in an abandoned lighthouse in the area between Teziir and Westgate. They recruited a local wyrmling green dragon called Eldrisithain and more importantly the dragon turtle Tsenshivah, to whom Reveilaein promised the power to kill the local fishermen who had killed her mate.
+
+Personality
+Morven was somewhat craven; she was totally devoted to her god but did not trust her capacities. Due to this, she never challenged Reveilaein. Morven wanted to performed the ritual upon herself one day but she probably needed to be pushed by someone else in order to act
+
+References
+
+---
+
+## Mourn
+
+Mourn was a drow assassin in Evermeet in 1367 DR.
+
+History
+Mourn was a member of a drow House destroyed in one of the typical drow civil wars. He was spared when he agreed to give up his name and work as an assassin for other Houses. He worked very well, killing drow renegades and enemies of the drow and becoming a very efficient killing machine.
+
+In 1367 DR, Mourn was tasked with the mission to kill Karsel'lyn Lylyl-Lytherraias in order to stop her proposal of a drow participation in the Retreat. He arrived on the isle unknown to everyone and was waiting for the right time for action.
+
+Appendix
+
+References
+
+---
+
+## Morten (firbolg)
+
+Morten was one of the bodyguards of Princess Brianna of Hartsvale.
+
+Description
+Morten was a twelve-foot tall Fibolg giant-kin in service to Hartsvale.
+
+History
+Morten was with Brianna, escorting her through Coggin's Rise, when she was ambushed and kidnapped by ogres. He later assisted Tavis Burdun, Avner, and Basil in rescuing her.
+
+Appendix
+
+Appearances
+ The Ogre's Pact
+
+Reference
+
+---
+
+## Moruene
+
+Moruene  was a member of the Flaming Fist in 1357 DR.
+
+Relationship
+Moruene was the lifelong friend, steadfast comrade, and occasional lover of Great Duke Eltan. In combat, Moruene, together with Eltan, would often be protected by the seven senior officers of the Flaming Fist.
+
+Appendix
+
+Gamebooks
+Spawn of Dragonspear
+References
+
+---
+
+## Moonever
+
+Moonever was a small town found along the eastern banks of the Starwater River near Marsember in Cormyr.
+
+Activities
+Moonever supplied oysters to the inland communities around the Starwater, rolling their ice carts along the roads and paths to nearby settlements.
+
+Inhabitants
+The population of Moonever in 1368 DR was 800.
+
+Notable Locations
+ Hobble's Hooks
+
+ As of, Sabrast Windriver had a yacht moored there.
+
+Appendix
+Appearances
+Novels
+
+Elminster in Hell
+
+References
+
+---
+
+## Mosque of Honored Elders
+
+The Mosque of Honored Elders was a temple devoted to Kor, the Zakharan god of wisdom, found in Muluk in 1367 DR.
+
+Description
+The mosque was situated so that it faced the Plaza of the Ancients.
+
+Activities
+In addition to the worship of Kor, the mosque supported a hospital known to aid all those in need so long as they were enlightened. Donations were always appreciated for services received.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Morlgorn Rionthas
+
+Morlgorn Rionthas was a semi-retired adventurer who lived in Tarmalune as of 1479 DR.
+
+Activities
+As an adventurer, Morlgorn won considerable wealth. After retiring from an adventuring life, Morlgorn used his fortune to help the poor citizens of Tarmalune, as well the honest workers of the city. He also sought to form guilds and foster informal cooperation along less
+wealthy merchants, to prevent members of the Council of Tarmalune and powerful merchants from having so much political power.
+
+References
+
+---
+
+## Mol Flesz
+
+Mol Flesz was a high-ranking member of the "Coin Guard", the city guard of Imdolphyn, as of 1479 DR.
+
+Activities
+Mol was an honorable man, with the high sense of honor typical of a dragonborn. Despite this, rumors abounded that he accepted bribes to overlook certain less than legal contraband coming through the city.
+
+References
+
+---
+
+## Morthongiarimyth
+
+Morthongiarimyth, also known as the Starshine Duke, was a dragon ruler of Abeir, in the centuries before the Spellplague.
+
+History
+Emycharianatris was the owner of Nala, before the dragonborn earned her freedom.
+
+One day, Nala, in order to free some dragonborn families from slavery, including her own, used light tricks to scare Morthongiarimyth until he went mad.
+
+Appendix
+Appearances
+ Fire in the Blood (mentioned only)
+
+References
+
+---
+
+## Monodrone
+
+Monodrones were the simplest type of base modron.
+
+Description
+Monodrones were simple spherical constructs with two mechanical arms and two legs. They had a single eye and rudimentary (but functional) wings. They also did not require any food, and drew sustenance from the air around them.
+
+As barely intelligent creatures, they were capable of only one task at a time. They could communicate, but were only capable of delivering a single message consisting of no more than 48 words.
+
+Personality
+Like all modrons, monodrones had an absolute sense of hierarchy and order, and could not be persuaded to disobey their instructions or betray their purpose in any way.
+
+It was possible, however, for a defective monodrone to go rogue and start acting in its own interests or no longer in accordance with its instructions, sometimes even becoming violent. Such rogues were relentlessly hunted by other modrons, although, unlike their properly operating fellows, they could be reasoned with.
+
+Combat
+Monodrones were capable of wielding weapons and were competent combatants, although, due to their single-task nature, they were only capable of performing one attack at a time. If destroyed, a monodrone disintegrated completely into dust.
+
+Abilities
+Like all modrons, monodrones were immune to all effects and spells that influenced the mind, fear and attacks that rely on energy from either the Negative or Positive energy planes. They also had a resistance to acid, cold and fire.
+
+Society
+Monodrones could only communicate with other monodrones or with duodrones. They were incapable of comprehending more advanced modrons.
+
+As the base of modron hierarchy, monodrones were created directly by Primus in the Great Modron Cathedral in the plane of Mechanus. They were the source for all other modrons, filling the upper ranks by successive promotions when their superiors were destroyed or otherwise promoted.
+
+There were approximately three hundred million monodrones in modron society.
+
+History
+Sometime in the late 1480s DR, a group of monodrones led by a tridrone was stranded in the Labyrinth in the Underdark, separated from the other modrons since the previous Great Modron March, over two centuries earlier. After years of wandering, the monodrones had decayed and lost much of their communication capabilities.
+
+Appendix
+Gallery
+
+Appearances
+Adventures
+The Great Modron March • Out of the Abyss • Tomb of Annihilation • Dragon+ #21, "Six Faces of Death"
+Comics
+Evil at Baldur's Gate #3
+Video GamesIdle Champions of the Forgotten Realms Card GamesBlood WarsMiniaturesIcons of the RealmsOrganized Play & Licensed AdventuresFaces of Fortune''
+
+Trivia
+One of their first miniatures appeared in the Tomb of Annihilation set in 2017.
+References
+
+Connections
+
+---
+
+## Moontear
+
+The Moontear was a relic associated with the elven deity Sehanine Moonbow. In the 1490s DR, it was sought after by the Order of the Burning Dawn, an adventuring company.
+
+Description
+The Moontear had the appearance of a crystal rock.
+
+Powers
+The relic was said to possess a fraction of Sehanine's divine essence, granting its owner the ability to heal injuries, cure madness, and resurrect the dead.
+
+History
+According to legend, Sehanine Moonbow shed a single tear for the gods who fell during the Time of Troubles in 1358 DR. Unbeknown to most, the relic was secreted away in an elven village, where it remained hidden until it was stolen in a drow raid. All the while, ambitious individuals both good and evil searched for the Moontear, hoping to use the relic to further their ends.
+
+In the 1390s DR, the brothers Gareth and Roth Dawntreader founded the Order of the Burning Dawn, in the hopes of tracking down the Moontear and using its power to combat the spread of evil.
+
+In the 1490s DR, the demon Belaphoss attempted to corrupt the Moontear and use it to ascend to godhood.
+
+Appendix
+
+See Also
+ Shards of Selûne
+ Tear of Selûne
+Appearances
+
+References
+
+---
+
+## Morovar
+
+Morovar was a larger town found in the Barony of Morov in Damara.
+
+Geography
+Morovar sat on the eastern bank of the Goliad River in the southwest corner of Morov.
+
+Activities
+Once the capital of the barony, Morov was on the decline in the 1350s DR. This was a direct result of Dimian Ree moving his seat of power to Heliogabalus. Many of Morovar's wealthy nobles abandoned the city to follow their lord, taking much of Morovar's spirit with them.
+
+Morovar's lack of a firm ruler left them nearly helpless when faced with a conflict since the local militia was painfully slow to organize.
+
+Inhabitants
+Many of Morovar's citizens felt scorned by their lord's departure and secretly dreamed of allying with Brandiar.
+
+Appendix
+References
+
+---
+
+## Moon blade
+
+Moon blade (also rendered as moonblade), was a spell that created a sword fashioned from pure moonlight.
+
+Users
+Specialty priests of Selûne, namely silverstars and guides of Lucha, had a special ability to cast moon blade. Clerics and others who commanded the Moon domain could cast the divine moon blade, while the hathrans of the Witches of Rashemen knew an arcane version. A variant was available only to clerics, druids, and rangers initiated into the greatest secrets of the Selûnite church.Two versions of this spell were printed for 3 edition: Forgotten Realms Campaign Setting 3rd edition presents one that any of these classes can cast, while Player's Guide to Faerûn presents it as only available through the Initiate of Selûne feat, with hathrans removed in errata. The rules for Initiate feats state that these spells replace the existing spells if the feats are allowed in one's game. This wiki considers both to exist in the setting. Inside the House of the Moon temple, any Selûnite priest of sufficient rank could freely conjure a moon blade among other spells.
+
+The goddess Selûne herself could wield a long-lasting form of the moonblade spell, treating it as a permanent magical weapon.
+
+Powers
+Once cast, the spell created a magical, sword-like construct in the caster's hand, 3–4 feet (0.9–1.2 meters) long, taking the form of a blazing beam of moonlight. The moon blade was noiseless, weightless, and immaterial, but it could not be broken, dropped, nor passed to another. The caster fought with it as a magical sword; although the caster was inherently proficient in it, one trained with a sword could wield it at their own skill.
+
+Only a touch from the moon blade was required to injure. Its strike drained vitality or life energy without inflicting any visible wounds. Undead were especially harmed, their dead matter boiling away on contact.
+
+A strike from the moon blade scrambled magic for a brief period. This nullified existing spells on the target and prevented the one hit from casting new spells. Their magic items also stopped functioning. The caster could only cast another if it only required a verbal component. However, after 1372 DR, a person struck could overcome this with an act of concentration.
+
+The moon blade lasted but a short time, disappearing sooner only if the caster was killed or if they cast another spell requiring material or somatic components.
+
+The spell had no relation to the moonblade swords associated with elves.
+
+Components
+It required verbal and somatic components. After the Year of Wild Magic, 1372 DR, the divine version required a divine focus while the arcane version required a material component: a small candy made of wintergreen oil.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mortar and pestle
+
+Mortar and pestle were tools designed to crush solid materials into powder or to extract active ingredients from plants and herbs. They were an integral part of alchemist's supplies, herbalism kits, and wizards' laboratories.
+
+Description
+A typical mortar and pestle set was smoothly polished in the outside areas, that were most likely to be handled, and rough on the inside, so as to maximize grinding and crushing efficiency.
+
+More expensive mortar and pestle sets were gilded. This was not for luxury's sake, however. Wooden instruments were hard to clean, and metallic ones interfered with components, sometimes in disastrous ways. To avoided that, mortars and pestles could be coated in a thin layer of gold.
+
+Availability
+ Aurora's Whole Realms Catalogue sold two different sizes of mortar and pestle sets made of black marble.
+ Morrigan's Complete Components in Ravens Bluff had a variety of mortars and pestles in stock.
+
+History
+The carapaces of sartani were sometimes used to craft mortars in parts of Zakhara.
+
+Notable Mortar & Pestles
+ Khelben Arunsun once owned a finely crafted set made by Rashemi from black marble, but lost it some time following the Spellplague. Having once been owned by such a legendary individual, this mortar and pestle could fetch prices upward of 500 gp.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Mother Talasko's
+
+Mother Talasko's was a busy blurdren (a food counter with little, if any, seating) located in Khôltar, south Faerûn, circa the . It was owned by the Khaundroves, one of the twenty Onsruur families that formed the council of lords in the Iron City.
+
+Location
+This blurdren was located at the east end of Raelrur's Run on the north corner with the nameless lane that circled the city just inside the walls. Raelrur's Run branched off of the North Way very close to Farrgaunlar, the southern gate into Khôltar.
+
+Services
+Mother Talasko's was staffed by eight foul-tempered dwarves that all looked like they had former careers in the criminal underground or were the surviving casualties of one-too-many battles. They worked the counter in shifts at all hours, day or night.
+
+The only reason this establishment was rated Fair instead of Poor was the Shaar stew—boiled tubers and greens with pieces of meat that were spiced and seared before being added to a thick brown broth. The meat was usually from old rothé, horse, or ox, and supplemented with rodents caught on the plains. A serving of stew was 1 to 2 silver pieces, depending on the cost of the ingredients, and included a small round loaf of bread cut into a bowl to hold the stew. Customers who didn't want the breadbowl could bring their own bowl or metal cup (soldiers often used their helmets). Other items included low-quality trathake (Mother Talasko's used fried entrails of ungulates for the "meat") for 2 copper pieces each, and their own brand of ale for 3 copper a pint, served in a hard-crust breadbowl or the customer's tankard.
+
+For one extra copper, Mother Talasko's supplied a wrap (a large cloth napkin) to keep the dust and soot of the city from flavoring the food until the buyer found a place to eat their meal.
+
+History
+This establishment was so old that no one alive remembered who "Mother" was.
+
+Appendix
+References
+
+---
+
+## Moon bracers
+
+Moon bracers were a set of magical defensive bracers used by the church of Selûne that gave the power to cast dimension door.
+
+Description
+They were adorned with mother of pearl and weighed 1 pound (0.45 kilograms).
+
+Powers
+These bracers functioned like the typical bracers of defense or later bracers of armor, but permitted the wearer to use dimension door once in a 24-hour period. After the Time of Troubles of 1358 DR, this was limited to once a night and only between moonlit locations, but after the Year of Wild Magic, 1372 DR, there were no such restrictions.
+
+Creation
+Moon bracers were most often created by an appearance of moonfire at a Selûnite ritual, when the goddess Selûne was pleased and only as she willed. These items were intended for use by the clergy. Nevertheless, by 1372 DR, other spellcasters had discovered how to replicate them. This required the dimension door spell in addition to mage armor.
+
+Value
+Prices ranged from 12,100 to 84,160 gold pieces, depending on the amount of protection bestowed.
+
+Appendix
+References
+
+---
+
+## Mooncloak
+
+A mooncloak was a magical cloak used by the church of Selûne that protected the wearer and let them walk on air and water alike.
+
+Description
+It was a cloak of silvery gray color that weighed 1 pound (0.45 kilograms).
+
+Powers
+After the Time of Troubles of 1358 DR, it was considered a cloak of protection +1 that granted use of the spells water walk and levitate as the wearer willed. After the Year of Wild Magic, 1372 DR, it functioned as a cloak of resistance of variable strength, with water walk and levitate each usable only once a day.
+
+Creation
+Mooncloaks were most often created by an appearance of moonfire at a Selûnite ritual, when the goddess Selûne was pleased and only as she willed. These items were intended for use by the clergy. Nevertheless, by 1372 DR, other spellcasters had discovered how to replicate them. This required the levitate and water walk spells in addition to resistance.
+
+Value
+Prices ranged from 9,000 to 34,800 gold pieces, depending on the amount of protection bestowed.
+
+Appendix
+References
+
+---
+
+## Moon mote
+
+A moon mote was a magical stone used by the church of Selûne that gave the power to cast dancing lights.
+
+Description
+It was a small stone, round, smooth, and pale-hued.
+
+Powers
+On command, it could create dancing lights, which could be directed by whoever held the stone. After the Time of Troubles of 1358 DR, this could be done any time with an extreme range and duration, but after the Year of Wild Magic, 1372 DR it only functioned once a day with greatly reduced range and a short duration.
+
+Creation
+Moon motes were most often created by an appearance of moonfire at a Selûnite ritual, when the goddess Selûne was pleased and only as she willed. It was a permanent manifestation of moonfire. These items were intended for use by the clergy.
+
+Value
+It was valued at 180 gold pieces.
+
+Appendix
+References
+
+---
+
+## Moondraught
+
+A moondraught, formerly known as a potion of moon-healing, was a potent healing potion used by the church of Selûne.
+
+Powers
+Healing a living being of their injuries, this potion could be drunk in four separate doses, each equivalent to a potion of cure light wounds, or all in one shot, giving the full effect of all four. It had an even greater effect on natural or infected lycanthropes: after the Time of Troubles of 1358 DR, a  potion of moon-healing was twice as effective, while after the Year of Wild Magic, 1372 DR, a moondraught was only maximally effective.
+
+Creation
+These potions were most often created by an appearance of moonfire at a Selûnite ritual, when the goddess Selûne was pleased and only as she willed. These items were intended for use by the clergy.
+
+Value
+It was valued at 1,500 gold pieces.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moon's Hand
+
+The Moon's Hand was a certain kind of mace preferred by the members of the church of Selûne.
+
+Description
+A Moon's Hand had a smooth head representing the moon in a specific phase. Each temple had its own preferred phase for their Moon's Hands.
+
+It was otherwise identical to a typical footman's mace, light mace, or heavy mace, with the clergy favoring the heavy mace.
+
+Users
+In the hands of a silverstar, a Moon's Hand, even a non-magical one, was more accurate and more damaging, and could inflict injuries even on creatures that could only be hurt by enchanted weapons. A silverstar could even treat any heavy mace they wielded as a Moon's Hand, transforming it into an enchanted weapon with shock and later shocking burst powers.
+
+Appendix
+References
+
+---
+
+## Mound of the Sleepless
+
+The Aerilpar Mound, also known as the Mound of the Sleepless, was a mysterious mound in the center of the Aerilpar Forest in the Shining South.
+
+It was a location that radiated magic. The origins of its magical energy were unknown but no trees grew within the encircling walls and all the predatory animals of the forest kept away.
+
+Appendix
+
+References
+
+---
+
+## Morkoth (ship)
+
+The Morkoth was a sailing ship that was used by the Kraken Society to hold the storm giant King Hekaton captive in the late 15 century DR.
+
+Description
+The Morkoth had an odd-looking hull that resembled a giant squid.
+
+History
+Some time after the War of the Silver Marches of 1485 DR, the Kraken Society used the Morkoth as a mobile prison for the storm giant King Hekaton. The ship regularly circled the Purple Rocks in the Trackless Sea.
+
+After the Kraken Society agent Lord Khaspere Drylund betrayed the location of the Morkoth to adventurers, the kraken Slarkrethel decided to destroy the ship rather than allow Hekaton to be rescued.
+
+Features
+
+Due to a spell cast on the ship by Slarkrethel, neither the ship nor anyone aboard it could be targeted by any form of divination magic or perceived through magical scrying sensors.
+
+Crew
+The archmage Tholtz Daggerdark captained the Morkoth, while the half-orc assassin Rool served as his first mate. Twenty Kraken Society cultists crewed the vessel, while four merrow loyal to Slarkrethel escorted the vessel in the water.
+
+Appendix
+Appearances
+ Storm King's Thunder
+
+References
+
+---
+
+## Mortik City
+
+Mortik City was the rumored ruin of a former settlement in the heart Mortik Swamp. This city, if it ever existed, fell under the realm of the Bog King.
+
+Appendix
+
+References
+
+---
+
+## Monstrous Compendium Annual Volume Three
+
+The Monstrous Compendium Annual Volume Three is a 2-edition Advanced Dungeons & Dragons accessory
+
+Description
+Monstrous Compendium Annual Volume Three serves as a supplement to the AD&D game, providing an extensive collection of monsters that were previously published in various 1995 Advanced Dungeons & Dragons modules, as well as Dungeon and Dragon.
+
+The structure of the Monstrous Compendium Annual Volume Three adheres to the format established by earlier Monstrous Compendium supplements. It features detailed entries for each monster, including physical descriptions, behaviors, combat tactics, and statistics necessary for gameplay. These entries are designed to be easily integrated into the existing binder system of the Monstrous Compendium series, allowing for a customizable and expansive monster reference library.
+
+In addition to monster descriptions, the Monstrous Compendium Annual Volume Three provides lore and background information for each creature, offering insights into their habitats, societies, and roles within the AD&D world.
+
+Index
+
+Creatures
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Miscellaneous
+Clothes  •
+
+Gallery
+
+Credits
+ Editor: Jon Pickens
+ Creative Director: Steve Winter
+ Cover Design: Matt Adelsperger
+ Interior Illustrations: William O'Connor, Arnie Swekel, Andrew Goldhawk, Tony Szczudlo, Tony Diterlizzi, Jeff Easley and Keith Parkinson
+ Graphic Design: Eileen Mecha and Matt Adelsperger
+ Electronic Pre-press Coordinator: Dave Conant
+ Typography: Gaye O'Keefe
+ Art Director: S. Daniele
+ Special Thanks To: Steve Winter, Rich Baker, Anne Brown, Jim Butler, Bruce Cordell, Scott Douglas, Julia Martin, Colin McComb, John Rateliff, Steve Schend, Bill Slavicek, Ed Stark, Keith Strohm, and Ray Valese
+
+Appendix
+See Also
+ Images from Monstrous Compendium Annual Volume Three
+External Links
+
+ RPGGeek
+
+---
+
+## Mordenkainen's Tome of Foes
+
+Mordenkainen's Tome of Foes is a 5th-edition Dungeons & Dragons sourcebook, focusing on the D&D multiverse and its inhabitants.
+
+Description
+
+Index
+
+Characters
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •   •  •  •
+
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Creatures
+ •  •  •  •  •  •  •  ( •  •  • ) •  •  •  •  •  ( •  •  •  •  •  •  •   •  • ) •  •  •  ( ( •  •  •  • ) •  •  •  •  •  • ) •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •   ( •  •  • ) •  ( •  •  • ) •  ( •  •  • ) •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  ( •  • ) •  •  •  ( •  •  •  • ) •  ( •  •  •  • ) •  •  •  •  •  •  •  •  ( •  •  • ) •  •  ( •  •  •  •  • )
+
+ •  •  •  •  •
+
+Locations
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •  •
+
+Organizations
+
+Magic
+Items
+
+Miscellaneous
+
+Appendix
+Notes
+
+Connections
+
+---
+
+## Monstrous Compendium Annual Volume Four
+
+The Monstrous Compendium Annual Volume Four is a 2-edition Advanced Dungeons & Dragons accessory
+
+Description
+Monstrous Compendium Annual Volume Four serves as a supplement to the AD&D game, providing an extensive collection of monsters that were previously published in various 1996-1997 Advanced Dungeons & Dragons modules, as well as Dungeon and Dragon.
+
+The structure of the Monstrous Compendium Annual Volume Four adheres to the format established by earlier Monstrous Compendium supplements. It features detailed entries for each monster, including physical descriptions, behaviors, combat tactics, and statistics necessary for gameplay. These entries are designed to be easily integrated into the existing binder system of the Monstrous Compendium series, allowing for a customizable and expansive monster reference library.
+
+In addition to monster descriptions, the Monstrous Compendium Annual Volume Four provides lore and background information for each creature, offering insights into their habitats, societies, and roles within the AD&D world.
+
+Index
+Creatures
+ •  •  •  •  •  •   •  •  •  •  •  •  (copper • silver • electrum • gold • platinum • adamantite) •  •  ( • ) •  •  •  •  •  •  •  ( •  •  • ) •  (Angler fish • Death minnow • Gulper • Viperfish) •  ( •  •  • ) •  •  •  •  •  •   •  •  •  •  (Ruby • Emerald • Diamond) •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •   •  •  ( • ) •  •  •  •  •  •  •  •  ( •  •  •  • ) •  •  •  •  •   •  •  •  •
+
+Magic
+Items
+
+Spells
+ •
+
+Gallery
+
+Credits
+ Editor: Jon Pickens
+ Creative Director: Steve Winter
+ Cover Artist: Jeff Easley
+ Interior Artists: Glen Michael Angus, Brian Despain, John Matson, Mark Nelson, Adam Rex, Arnie Swekel
+ Graphic Artist: Matt Adelsperger
+ Art Director: Dawn Murin
+ Electronic Pre-press Coordinator: Dave Conant
+ Typography: Angelika Lokotz and Eric Haddock
+ Special Thanks To: Steve Winter, Rich Baker, Anne Brown, William S. Connors, Monte Cook, Bruce Cordell, David Eckelberry, Harold Johnson, Julia Martin, Roger E. Moore, Steven Schend, Bill Slavicek, Ed Stark, Keith Strohm, and Ray Vallese
+
+Appendix
+See Also
+ Images from Monstrous Compendium Annual Volume Four
+External Links
+
+ RPGGeek
+
+---
+
+## Mordenkainen's disjunction
+
+Mordenkainen's disjunction was a powerful abjuration spell that reduced magic items and effects to their basic components, effectively and permanently canceling them. It was also known as mage's disjunction.This spell was renamed to be non-setting-specific and copyright-friendly in the d20 SRD. To Zakharan mages, always reluctant to acknowledge ajami names and accomplishments, the spell was known simply as disjunction, and counted among the spells of the universal province.
+
+Effects
+The spell caused all magic effects and items to be broken down (or "disjoined") into their basic components. This had the effect of not only instantly and permanently undoing other spells—including powerful magics on which normal dispelling or antimagic did not work—but magic items were stripped of their enchantments and reverted to mundane items. The wearer of a magic item subjected to disjunction might try to assert their own willpower to try to prevent the item from being disjoined. The caster was generally able to exclude their own magical possessions from the effects of the spell.
+
+Mordenkainen's disjunction was so powerful that even magical places, legendary artifacts, and spelljamming helms were not entirely immune to its dissociating magic. There was a chance, albeit small, that an artifact or helm could be stripped of its magic, also permanently maiming the magical capabilities of its wearer. Of course, the destruction of a powerful artifact ran the risk of calling the attention of powerful beings associated with that artifact.
+
+The best way to protect magic items from Mordenkainen's disjunction was to place them inside an area of antimagic, however the spell even had a chance of overcoming the effect of an antimagic field if the caster was sufficiently powerful, in which case any items protected by it would be disjoined as normal.
+
+Mordenkainen's disjunction was one of the few magics powerful enough to cancel the effect of other mighty spells that might otherwise require a wish or miracle to end. For example, it could undo binding spells or powerful guards and wards, and could could also unmake Algarth's embattlement, Belorigar's baldric, greater spell trigger prismatic sphere, and wall of force. It could also be used to counter dispel shunt or antimagic shell, but was not guaranteed to succeed. However, Mordenkainen's disjunction could in turn be countered by dweomerbanish. The Nephthysan spell enduring ward could also protect a magical glyph or symbol against one casting of Mordenkainen's disjunction, but the enduring ward effect would be destroyed in the process.
+
+Components
+The spell required only verbal components. This incantation was apparently simple enough that the spell could be cast underwater.
+
+While not a somatic component per se, the caster could use their hands to touch a magic item that they wished to exclude from the effect of the spell.
+
+History
+The spell was attributed to Mordenkainen of Oerth but had found its way to spellbooks in Faerûn and Zakhara, however it was considered a rarity as of the mid-to-late 14 century DR. Sammaster included the spell in his Tome of the Dragon, which he distributed to cells of the Cult of the Dragon.
+
+The avatars of both Maanzecorian and the Queen of Air and Darkness were said to wield the spell. Adamantine clockwork horrors were said to be equipped with a wand capable of casting it. As of the, the dracolich Daurgothoth was working on developing a way to wield the power of Mordenkainen's disjunction as a breath weapon.
+
+Despite its primary use for destroying enchanted items, it was possible to imbue an artifact-level item with the powers of Mordenkainen's disjunction. Such an enchantment was greatly sought-after by those who wished to slay mages.
+
+Appendix
+See Also
+Dispel magic
+Greater dispelling
+Lesser dispel
+Remove magic
+Notes
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Moonfire salve
+
+A moonfire salve was a magical substance used by the church of Selûne.
+
+Description
+Moonfire salve was kept in a special jar the size of a flask and fashioned of a translucent white ceramic. The substance itself was semi-solid.
+
+Powers
+Moonfire salve had different and distinct magical effects depending on how it was applied, whether poured, rubbed, or consumed. If poured over an item or rubbed on a creature's forehead, it functioned as a targeted dispel magic spell. If rubbed on the feet, it granted the power to fly, as the spell. If rubbed on the eyelids, it granted darkvision. If rubbed on the back of a hand, it allowed greater mage hand. If eaten, it worked as a cure serious wounds spell.
+
+Creation
+Following an appearance of moonfire at a Selûnite ritual, which created various magical items or bestowed blessings on the faithful, the residual moonfire fell inert, but was not without power. The clergy collected and bottled it, creating up to six jars of moonfire salve.
+
+Value
+It was valued at 2,500 gold pieces. However, it was only gifted to people who had served the church in a significant way. Like moonfire, the clergy saw moonfire salve as a holy substance; if stolen, they would go to extraordinary lengths to retrieve it.
+
+Appendix
+References
+
+---
+
+## Moonway
+
+The Moonway was a major street in Silverymoon.
+
+Description
+The Moonway, running north through Southbank from the Mulgate, divided most of the newer areas of Silverymoon in half east and west. The road crossed River Rauvin at the Moonbridge and then continued on until making a T with the Ghostwalk in Northbank after being joined by Brightbuckler Street. In total, the street ran for about a fifth of a mile.
+
+Notable Locations
+ The Dancing Goat
+ The Moonbridge
+
+References
+
+---
+
+## Moonbridge
+
+The Moonbridge was a magical, invisible bridge in Silverymoon, the most famous landmark in that city.
+
+Description
+The Moonbridge crossed the River Rauvin, connecting Northbank, the older section of the city, with Southbank. It spanned from between a pair of guardposts in the south to the original Main Gate of the city on the northern side, and relied on talismans of power buried on each shore to sustain its magics.
+
+The Moonbridge was a large, gentle arch, constructed of magical force. Many considered it more impressive to behold than any of the slender and graceful towers of the city, and some even claimed that Lurue could sometimes be seen dancing over the bridge. It was fourteen feet wide and two feet thick and rose 60 feet above the water at its highest point. The bridge contained no walls or railings, and was perfectly smooth. It was not known to have had any weight limit—dragons had sat on it without any issue. It was usually invisible by day, but by moonlight, it glowed with a silver sheen.
+
+The bridge could be "turned off" in the middle to function as a "drawbridge" and allow ships with tall masts to pass by or to act as a defensive measure. When this occurred, anyone standing on the bridge would be moved with the receding ends as they unjoined and pulled away from the middle.
+
+Defenses
+The Moonbridge was linked to the protective wards of Silverymoon. The Moonbridge was controlled by a Staff of Silverymoon, of which three were believed to exist. One was always carried by Alustriel Silverhand. A bearer of such a staff could also cause gravity to be reversed on the surface of the bridge, or erect a wall of force to block passage across it. Alustriel's six Sisters, as well as Taern Hornblade, Jorus Azuremantle, and Sernius Alathar had also been given control over the bridge.
+
+History
+In 384 DR, a human tribe, whose name is lost to history, first constructed a crude wood-and-rope bridge over the river at the site that would one day be Silverymoon.
+
+Decades later, in 403 DR, the bridge was replaced by a stone bridge, as a joint effort by dwarves and humans. The stone bridge remained for four centuries, until it was replaced in 843 DR by the Moonbridge, which was erected by the combined spellcasting efforts of the High Lady Amaara, Amaara's sister Lynx, Alustriel, (then known as Elué Dualen), and three other mages, at the same time that they created the city's mythal.
+
+After the Spellplague of 1385 DR, Silverymoon's mythal healed itself, reforming out of the Moonbridge after Mystra's return to life.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Morlanth
+
+Morlanth was a necromancer wizard in the Shard of Night above Neverwinter.
+
+History
+Morlanth was the apprentice of the lich Arklem Greeth during his time as leader of the Arcane Brotherhood. Arklem sent Morlanth to Neverwinter in search of an artifact known as the Shroud of Souls that could be used to call upon the spirits of the dead. Morlanth found the Shroud within a Kelemvorite crypt in the city's River District, but the crypt's wards trapped her within. Over time, the magic of the Shroud transformed her into a shade.
+
+Over a century later, the illusionist Lukan accidentally breached the crypt's wards, freeing Morlanth. Allying herself with the Netherese, Morlanth took up residence within the Shard of Night and planned to use the Shroud of Souls to raise the Neverwinter Nine as wraiths under her control. She was ultimately slain by the Heroes of Sleeping Dragon Bridge, who recovered the Shroud of Souls before she could finish her ritual.
+
+Appendix
+Appearances
+Video Games
+
+External Links
+
+References
+
+---
+
+## Moondale
+
+Moondale was one of the largest and most prosperous of the Dalelands, located in the southeastern region deep within the expansive forest of Cormanthor.
+
+History
+Moondale was one of the first dales founded after the raising of the Standing Stone in 1 DR. The dale enjoyed rapid growth and flourishing trade, particularly with the nearby nation of Sembia. This growing alliance culminated with the peaceful annexation of the people of the dale by Sembia sometime around 1070 DR. Eventually the merchant kingdom founded the city of Ordulin over the former dale, which quickly grew into a bustling metropolis and was declared Sembia's capital. Most of the dalesfolk saw this as a warning for events that might spread to their homes; the folk of Tasseldale viewed it as a plan of action.
+
+Geographical features
+Whereas the Ordulin of 14 century was separated from the Elven Wood, Moondale existed in the age when the great forest stretched all the way east to the Sea of Fallen Stars. Deep in the forest, Moondale was nestled in a wide valley of grassland.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Moon Women
+
+The Moon Women were a group of Lesser Immortals of the Celestial Bureaucracy, the dominant faith of Kara-Tur.
+
+They had the great responsibility of maintaining Heaven itself. They refilled the oil lamps in the Sun, polished the crystal orbs of the stars, and steered the motions of the Moon and the constellations. Since these governed the Kara-Turan calendar, Moon Women were the patron saints of festivals, portents, auspicious moments, and other matters of time.
+
+Moon Women appeared as young women of slender build and wearing gauzy blue robes. They were often almost transparent.
+
+It was believed they prized Mokan River pearls.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Monstrous Compendium Planescape Appendix III
+
+Monstrous Compendium Planescape Appendix III is a 2-edition Advanced Dungeons & Dragons accessory. It is part of the Planescape campaign setting.
+
+Description
+Monstrous Compendium Planescape Appendix III was published by TSR in 1998 and written by various authors. The book contains a collection of monsters, NPCs, and magical items that are relevant to the Planescape setting.
+
+Index
+Creatures
+
+Individuals
+ ( •  •  •  •  •  •  •  • )
+
+ •
+
+Gallery
+
+Credits
+ Designer: Monte Cook
+ Editors: Ray Vallese, Michele Carter
+ Proofreader: Keith Strohm
+ Cover Artist: Randy Post
+ Interior Artists: Brian Despain, Tony DiTerlizzi, Scott Fischer, John Matson, Jeff Miracola, Adam Rex, Philip Tan, Drew Tucker
+ Project Manager: Steve Winter
+ Conceptual Artist: Dana Knutson
+ Art Direction: Dawn Murin, Paul Hanchette
+ Graphic Design: Dawn Murin, Matt Adelsperger, Dee Barnett
+ Electronic Prepress Coordinator: Terry Craig
+ Typography: Angelika Lokotz
+
+Appendix
+See Also
+ Images from Monstrous Compendium Planescape Appendix III
+External Links
+
+ RPGGeek
+
+Connections
+
+---
+
+## Mordenkainen's private sanctum
+
+Mordenkainen's private sanctum was a spell created by the famous mage Mordenkainen of Oerth that ensured privacy within a limited area.
+
+Effects
+After ten minutes of casting, this spell could create a region of privacy with a total volume of at least 150 cubic feet or greater, depending on the power of the caster. This "private sanctum" could be placed anywhere within a short distance from the caster and could be shaped to the caster's specifications. Anyone within the sanctum was protected from all scrying spells and the detection of thoughts. Anyone speaking within the sanctum could not be heard by those outside. Finally, it was impossible to see into the sanctum from outside; those trying to look in saw only a black fog, which not even darkvision could pierce.
+
+It was still possible for those inside the sanctum to communicate with those outside if they relied on magical means, such as a sending or message spell or a telepathic link.
+
+Within the sanctum, vision and sound functioned normally, and those inside could hear and see whatever was outside. Nothing prevented anyone from entering or exiting the private area physically.
+
+It was possible to make a private sanctum permanent; otherwise, it lasted for a full day or until dispelled.
+
+Components
+Besides verbal and somatic components, to cast the spell required several items, all of which were consumed in the casting process:
+ a thin lead sheet,
+ a piece of dark glass,
+ a wad of cloth or cotton, and
+ powdered chrysolite.
+
+Notable Users
+ Ebarnaje, the King of Snakes, a powerful dark naga.
+ The Faceless Incanter, a simulacrum created by Hadrhune.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moonwyvern Inn
+
+The Moonwyvern Inn was a favorite stopover on the Everlund Pass, especially for those doing business that would not be tolerated in most cities around Luruar. Clarshee Taraghe was the proprietress, circa the .
+
+Location
+The Moonwyvern Inn was located on the Everlund Pass south of Silverymoon, not quite half-way to Everlund. It was an easy one-day trip from Silverymoon on mounts, or about a three-day walk. It was nestled in the forest and did not have any close neighbors.
+
+Structure
+The building was three full floors plus inhabited attic space under a peaked roof with dormer windows, gabled extensions, haphazard rectangular cupolas, and many chimneys. The first floor was taller than the others and built of fitted stones and mortar. The upper floors were made of wood planks and shingles. The windows were of no particular style: some were flush with the wall, some were cut into awnings, some were bay windows, some were skylights. All windows had sturdy shutters with double-bar locks to keep out vermin and larger animals. Downspouts at the corners of the building collected rainwater in barrels (used for washing). Outside the door to the kitchen was a small garden and a path that led to the wood pile and further into the trees to a swimming hole for bathing. There was at least one other entrance on the back side of the inn.
+
+Across the dirt road that went by the Moonwyvern Inn was a barn and stables complex where guests could lodge their horses. There was also an attached pig pen and a separate chicken coop.
+
+Interior
+Just through the double doors near the middle of the long front was a common room with a large fireplace, tables and chairs, and a front desk that also served as the bar (or vice versa). In the back-left corner was a stairway to the upper floors. Behind the bar was a door to a kitchen that had food shelves, a cutting table, and a cooking pot in a fireplace. Opposite the entrance to the kitchen was a door that led out to the garden.
+
+The next two floors were all guest rooms situated on either side of central halls that ran the length of the building. The top floor was a hodgepodge of rooms with slanted walls or ceilings with skylights. Some had eyebrow dormer windows and others had gabled extensions that emerged from the crest of the roof.
+
+The floor plan of the Moonwyvern Inn changed every so often as decay made some rooms uninhabitable until they were repaired or replaced. The frame was made of sturdy pillars and massive crossbeams, but many ill-advised architectural features had been tacked on over the years. In 1372 DR, the inn was about sixty years old.
+
+The cellars directly beneath the inn were full of provisions and contained two deep wells that provided drinkable water. The basement was ostensibly the same size as the building above, but a large barrel keg on the wall below the main kitchen was false and concealed a short passage into a hidden room with a bed where favored (or paying) guests could lay low for a while. There were three tunnels leading off this room. Two of them led into the forest on that side of the inn. The third tunnel went deep under the road and came up in the stables. Another tunnel branched off of this one and came out in the forest on the far side of the inn.
+
+Atmosphere
+
+The feel of the place was much like the furnishings: shabby, worn, and comfortable. Other than fireplaces, the only sources of light at night were candles that hung in glass-enclosed lanterns and sconces throughout the inn. These candles were handmade by Clarshee and gave off a sweet blackberry scent, giving the inn a cozy, homey atmosphere. However, the reception could turn icy or heated if a visitor showed improper interest in other guests' business.
+
+To the uninitiated, Clarshee Taraghe was an irascible old woman that mumbled complaints about everything, punctuated occasionally by colorful oaths, but she had an extended family of regular patrons ranging from righteous folk to ruthless cutthroats that treated her like a beloved mother. First impressions of her staff were also usually wrong. The sight of two huge athachs with long fur, three horns, and three arms sometimes caused a moment of trepidation before the fact they were cooking a hearty meal or tending the animals became apparent.
+
+Services
+
+The athachs loved to experiment with exotic dishes, so there was always something unusual on the menu. The staples were venison and fernwort bread, with fiddlehead soup and fried mushrooms when in season.
+
+Clarshee had a portal hidden in a closet that teleported anyone who touched the back wall to the top of a wind-swept hill northwest of Leilon on the Sword Coast North. She charged 75 gp per person to use this portal, but the price went up to 100 gp or more if they were carrying a body, alive or dead, sentient or monster, in whole or in part.
+
+Defenses
+The inn had a few physical and magical defenses, mostly against accidents and nature, but the building was also shielded against scrying and eavesdropping by clairaudience/clairvoyance and similar spells. This protection actually emanated from stones hidden throughout the inn that were enchanted with three different spells, forming a barrier in the shape of overlapping bubbles. At the risk of incurring Clarshee's wrath, a person could carry one of these stones (about 6 inches or 15 centimeters in size) away and be protected from magical spying for a few days until the enchantments faded.
+
+The structure was somewhat warded against fire (the equivalent to the higher temperature range of an endure elements spell), but these wards tended to flicker and occasionally fail, so every room contained a tall water bucket for dousing fires. The water was treated with mint and parsley leaves to keep away the stagnant smell.
+
+All the windows had sturdy shutters that could be barred at top and bottom and all the chimneys were equipped with sharpened spikes made of metal at the top of the flue. These measures were primarily to keep out vermin and beasts of the forest.
+
+Of course the athachs were formidable by their very nature, and Clarshee was skilled with a crossbow. In a pinch, she was able to wield a sledgehammer, a woodcutter axe, a pie knife, or even a tar brush. On top of that, she was a sorceress of middling talent and kept at least one shield guardian in a closet. She also had some means of calling for help from a spellcasting friend. In the basement, she had a chest with fourteen crawling claws that she could release to fight if necessary, but they were mostly used to hunt vermin. She could herd them back to their chest with pickle juice.
+
+History
+The Moonwyvern Inn was built sometime around the, but the constructor and original owner have been forgotten. The inn got its name from a local wyvern that was often seen flying at night when it crossed the moon. The wyvern was eventually slain, but the name remained. In its early years, the inn was a rowdy roadhouse full of clandestine meetings and underworld plots, but the atmosphere mellowed somewhat over the decades, especially under the tenure of Clarshee Taraghe.
+
+Rumors & Legends
+Echoes of the Moonwyvern's early reputation bounced around Luruar for many years, but long-time patrons knew that it was past its heyday.  Some said this was because the proprietress was a member of the Harpers, but they had no proof. However, there was some truth to the rumor that the inn held the detritus of decades of skullduggery: almost every nook and cranny was a potential hiding place for small items, messages, and maps to meetings or treasure. Over the years, items such as thieving tools, coin purses, concealable weapons, keys, spell scrolls, and claim tokens have been found in hollow chair legs, bed canopies, lintels, windowsills, floors, ceilings, walls, and door frames.
+
+Inhabitants
+In 1372 DR, the owner of the Moonwyvern Inn was Clarshee Taraghe. She had two athachs, named Beelbraeth and Horokh, that cooked and did chores around the place.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Modron language
+
+Modron was the language spoken by all forms of modrons.
+
+Description
+The Modron language was quite complex and precise. To humanoids, it sounded like a series of "clicks and whirs".
+
+Speakers
+Some planewalkers learned Modron as a secondary language, though it was considered to be more difficult to learn compared to some other planar languages.
+
+Grammar
+There was no word in the Modron language for an individual to refer to itself in the single person. A modron always referred to itself as "we" or "us".
+
+Related Languages
+The Lawful Neutral tongue was believed to have derived from the Modron tongue.
+
+Appendix
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Morohanotsurugi
+
+Morohanotsurugi was a cursed wakizashi from Kara-Tur.
+
+Powers
+Although a powerful magical weapon, Morohanotsurugi was cursed to inflict grievous damage to its wielder when swung.
+
+History
+After a perceived slight from one of his serfs, the Kara-Turan liege lord Yodama Akira ordered an entire village burned to the ground. Although this was well within his right as a lord, Yodama's daimyo was deeply shamed by his actions. As a result, the daimyo commissioned Morohanotsurugi and gave it to Yodama to teach him the lesson that harming others should never be without consequence.
+
+Notable Owners
+Yodama Akira
+
+Appendix
+Notes
+
+Appearances
+ Icewind Dale: Enhanced Edition
+
+References
+
+---
+
+## Most Holy Order of the Sacred Shrike
+
+The Most Holy Order of the Sacred Shrike, also known as the Knights of Imphras II, was a knightly order of paladins and clerics who served the kingdom of Impiltur beginning in the late 12 century DR. Among its ranks were worshipers of the Triad, the deities Tyr, Torm, and Ilmater, valiant warriors who fought to destroy the fiendish remnants of ancient Narfell and defend their realm.
+
+Organization
+All of the knights of the Sacred Shrike were considered members of Impiltur's army, known as the Warswords. They were strongly allied with the churches of Tyr, Torm, and Ilmater and fought alongside their respective orders such as the Just Knights of the House of Tyr's Hand from Milvarune and the Disciples of St. Sollars the Twice-Martyred from the Monastery of the Yellow Rose in the Earthspur Mountains.
+
+Leadership
+Triumvirate
+The order was led by a group of three venerated knights of the holy order, each of whom venerated a different deity within the Triad.
+Council of Shrikelords
+This group of forty holy warriors handled the day-to-day affairs of the knights serving under their lead.
+
+Membership
+To join the Order of the Shrike, a prospective member needed sponsorship from one of the Triadic churches and was required to plead allegiance to the royal crown of Impiltur. These junior members were accepted on a trial run, until they had proven their endurance, wisdom, and bravery to three senior knights. Following this, they were eligible to attempt the Test of the Triad in defense of the Realm of the Sword and the Wand.
+
+Those who died in service to the Order but had given their life in service to its ideals were posthumously granted admittance.
+
+Units
+The Order of the Bladewright was a special unit of the Knights of Imphras II, made up of psionic soulknives.
+
+Honors
+The order honored their number with a variety of decorations including an embroidered badge known as the "gauntlet of the steadfast"; a medal, the "aegis of the penitent"; and their highest honor, a badge of silver referred to as the "wings of the seraph". A special campaign ribbon, known as the "bane of the giantspires" was also issued to certain knights who had presumably served in the Giantspire Mountains.
+
+Activities
+The main duty of the order was to combat the Abyssal fiends that clawed their way to Faerûn through demoncysts, a remnant of the evil magic of ancient Narfell. They would often combat tribes and small armies of malevolent humanoids conscripted by these demons. These ranged from ravaging corsairs from the Sea of Fallen Stars and bands of hobgoblins and orcs from the Giantspire Mountains, to zealots and thralls from the cult of Eltab or fanatics of the Gods of Fury.
+
+In addition to their fiend-hunting endeavors, the Knights of Imphras II defended the realm from domestic threats, often hidden within the court. In return they were entitled to room and board for a single night within any home within the borders of the realm. The knights were quite careful not to take advantage of the hospitality of the people as the custom of Impilturan goodwill and magnanimity could lend itself to a form of subtle plunder.
+
+History
+By the time the monarchy of Impiltur was restored in 1097 DR, the number of knights from the Order of the Triad defending the kingdom from demonic forces had drastically fallen. In the Year of the Shrike, 1196 DR, King Imphras II ventured on a hunting trip and witnessed a lone shrike attack and best a minor demon. He took this as a divine sign to re-establish a valorous order that would defend the kingdom as the Knights of the Triad had done over a century before.
+
+When King Rilimbrar established the oligarchical council known as the  Lords of Imphras II in 1336 DR, the Order of the Shrike was restructured to serve as their military elite.
+
+Appendix
+References
+
+---
+
+## Monarch armada
+
+The monarch armada, also known as the monarch-class armada, was an obsolete version of the elven armada. Only six ships of this class were constructed before the design was abandoned shortly before the First Unhuman War.
+
+Description
+Monarch armadas had orange-colored wings, the same color as the monarch butterflies from Toril.
+
+The citadel was carved into the ship's body, unlike with the modern armada, which had the citadel placed on top of it. Monarchs that were used by drow had the windows of their citadels covered in a smoky glass that filtered out light that would be otherwise harmful to drow. Because the citadel was limited to the narrow shape of the ship's body, it was much narrower than the modern armada.
+
+Unlike other elven spacecraft, such as flitters, men-o-war, gadabouts, and the modern armada design, monarch armadas were not grown from  starfly plants, but were instead made of a nonliving crystalline material. For that reason, they could not regenerate once damaged.
+
+Shaping and growing the crystalline material of the monarch armada required a modified version of the ritual known as elaorman. The same ritual could be used to grow the other elven spelljammers from their seedlings.
+
+History
+In the mid‒14 century DR, the elven admiral Icarus commanded a large fleet of elven spacecraft that contained one monarch armada, among other types of spelljammers. Icarus operated exclusively in Realmspace.
+
+Teela Darkcloud, a high priestess of Lolth, captured a monarch armada and modified it for drow use sometime in the mid‒14 century DR.
+
+Appendix
+External Links
+ Monarch armada article at the Spelljammer Wiki.
+References
+
+---
+
+## Mount Tesh
+
+Mount Tesh was a mountain in Teshendale within the Dalelands.
+
+History
+Since around 1267 DR, the inhabitants of the Dalelands avoided the dark slopes of Mount Tesh. In 1316 DR, the Zhentilar invaded Teshendale and the surrounding area.
+
+Rumors
+After the Zhent invasion, strange things happened on Mount Tesh, such as disappearances and reports of ghostly dancing lights.
+
+Notable Locations
+The Skondarr, a former bandit stronghold, was located beneath Mount Tesh. Its entrance was on the southwestern slope of the mountain.
+
+Appendix
+References
+
+---
+
+## Morwel
+
+Morwel  was a celestial paragon and the eternal queen of the eladrin. She ruled from her personal demiplane, the Court of Stars, to which she was so closely connected that it might possibly collapse if she ever left it. She had had many consorts; her two primary consorts were Faerinaal and Gwynharwyf under the Great Wheel cosmology. Under the World Tree cosmology, she lived with Faerinaal on the Gates of the Moon.
+
+Description
+Morwel was an eternally youthful eladrin woman of impossible beauty. She most often appeared wearing a mantle of glittering stars and wielding a shining rapier. She could also take the form of a scintillating globe of light, which was just as much her true form as the humanoid one.
+
+Personality
+While embodying the ephemeral and prideful personality traits of the eladrin she ruled, Morwel still cared deeply for her people and always had their best interests at heart. She regularly hosted parties within her crystalline palace, but also discussed more serious matters with her councilors and consorts, whose advice she cherished.
+
+Abilities
+As a celestial paragon, Morwel was the equal of any archfiend and only the gods were a more powerful force of goodness. She had both bardic and sorcerous abilities and wielded her rapier with great skill. She could create a powerful protective aura akin to a combined magic circle against evil and minor globe of invulnerability at will, as well as slay evil creatures with her gaze. She could also become so beautiful that those who saw her were permanently blinded or even killed outright. Upon transforming into her globe form, she could use powerful ray attacks as well.
+
+Morwel was the only entity who could open or close portals to the Court of Stars. Not even the other gods of Arborea had the power to enter the demiplane without her express permission. These portals could open anywhere within Arborea at her command, even within the realms of deities.
+
+Relationships
+Throughout the centuries, Morwel has taken many lovers. One of her rumored occasional love-affairs was with the archomental Ben-hadar, prince of good creatures of elemental water. One of his servants, a massive serpentine sisiutl named Triusis guarded a portal from the Plane of Water to the Court of Stars.
+
+Morwel was also allied to a powerful brass dragon named Ronothere. Through him, she lent military aid to the cause of the archomental Zaaman Rul in his resistance against Imix in the form of squads of monadic devas, asuras, and firres.
+
+Morwel had an androsphinx champion named Krune, who frequently visited the Court of Stars. He thought the world of Morwel and couldn't stop talking about her beauty and wisdom. Krune kept a harmless white rat named Argyn as a travelling companion and plaything, which would hide under Krune's armor during combat.
+
+Appendix
+See Also
+ Titania
+
+Gallery
+
+Appearances
+
+References
+
+Connections
 
 ---
 
@@ -1745,6 +9987,1962 @@ Connections
 
 ---
 
+## Moon Mountain Brewery
+
+Moon Mountain Brewery was a brewery, distillery, and barrelwright run by two families of halflings, circa the . The business was secretly supported by the Zhentarim as part of their smuggling operations.
+
+Location
+The Moon Mountain Brewery was located in the hinterlands known as the Savage Frontier. It was established on the banks of the Unicorn Run not far from the southern border of the High Forest. It was a two-day journey north of Secomber. The closest road was the Iron Road where it turned northeast to follow the Unicorn Run to the Stronghold of the Nine. The terrain around the building was tree-covered hills, but not far away were cleared fields for growing the various crops used to make the beverages.
+
+Structure
+
+The brewery was built by halflings that appreciated trees and did not hold to many construction conventions. The structure was integrated into the trees with a hodgepodge of odd staircases, balconies, flying bridges, platforms, conveyor belts, slides, chutes, and ladders—and that was just the outside of the building. The construction was mostly of duskwood and pine, with portions of maple and oak, and smatterings of elm and shadowtop. None of the wood was painted, so the age of a section of the building could be estimated by the amount of silver-colored wood on it. They used rough-hewn beams, planks, and boards in near-natural shapes, fitted together as best they could with wooden pegs. The gaps were filled with moss, pitch, or sap, and repairs were usually done by nailing another board over the old one. Roofs pitched in all directions and spouted chimneys of metal or riverstone. Living trees served as anchors, pillars, banisters, columns, joists, and storage.Some descriptions based on the artist's rendering.
+
+A waterwheel placed in the Unicorn Run provided fresh water and the power to pump it to the various vats, boilers, tubs, kettles, and cauldrons that served the brewing and distilling processes. There was also a small lumber mill area for making barrel staves, construction materials, and firewood. Stone-lined pits were cut into the low hills around the brewery and used for more storage space. Trees with a large bole were also used as storage by carving out a central cavity and lining it with small stones. The trees continued to grow around these halfling-sized rooms. Usually, the nearest wall had a panel that opened or swung aside to allow access to these outdoor storage spots. One of the tallest trees held a platform, accessible by ladder, that was used as a lookout and for hanging lanterns to signal the field hands about mealtimes, danger, or other needs.
+
+Interior
+
+The interior of the brewery was a three-dimensional maze of oddly shaped rooms connected by ramps and more staircases, with some ladders (interior or exterior) used as shortcuts. The floors were sturdy flagstone with reeds and dirt added to even them out and make a level working surface. Most of the space was filled with the raw ingredients, presses, vats, casks, a network of pipes and troughs for water and beverages, and a wide variety of glass bottles.
+
+Atmosphere
+The Moon Mountain Brewery was a hive of activity as all residents, including the children, worked industriously for many hours a day. The only time they stopped to relax was when the weather prevented them from working outside and they were caught up on the dozens of inside tasks.
+
+Services
+By far the greatest quantity of the brewery's output was Moon Mountain Ale, a clear, light-colored ale that was sold by itself and bundled with their Moon Rum in topkegs (a keg with a compartment to keep two liquids from mixing) for making the popular drink known as an ale flip. There was also a robust bitter beer with a flavor that hinted at salted nuts, known as Moon Mountain Dark. It was a favorite of gnomes, dwarves, and halflings, but humans preferred it mulled. Moon Mountains's fermented apple cider, mixed with water and mint, was known as moonslake. Due to clever marketing, sales of this fresh-tasting beverage skyrocketed in Waterdeep in the early 1370s DR.
+
+Activities
+
+Unknown to all but the three senior proprietors, a significant portion of the Moon Mountain Brewery's income was from being part of the Black Network. Their primary contact was a human trader named Tarth Brallowgath who visited regularly to buy their products, sell them supplies, and give secret instructions related to smuggling. The staff were quite skilled at making barrels, casks, and kegs with extra compartments, and occasionally these would leave the establishment containing coded messages or small items of value. The cabal of three were the ones to choose which containers were sent to a destination to fill an order. Very rarely, Brallowgath ordered them to add either bittermint or tulade poison (both made at Moon Mountain) to a particular keg for a specific recipient. The halflings were loath to do this—they were greatly concerned that one of these death-casks would end up in the wrong hands and they would be held responsible—but they needed the Zhentarim's protection and business to keep their operation going.
+
+Tarth was not the only Zhent to visit the brewery, but he was one of a few that did so openly as a legitimate merchant. The haphazard architecture disguised a number of secret drop-off spots for leaving messages or stolen goods in the dark of night by agents that did not want to be seen.
+
+Defenses
+Nearly every room in the brewery had at least one secret panel, usually near a door frame, that contained various glass bottles of contact poison (either sassone leaf residue or terinav root) that could be thrown at intruders.
+
+Some of the doors into the building were false, opening onto rooms or corridors that were riddled with traps.
+
+History
+
+Moon Mountain Brewery was founded by Oblar Minstrelwish, a halfling adventurer that made a name for himself (at least among the hin of Secomber). During his travels, he met and fell in love with a half-elf sorceress named Mrune Moontan that, among her many attractive qualities, brewed the best ale that Oblar had ever tasted. It was her recipe and technique that produced Moon Mountain Ale, and it was named after her, in a way—those same hin of Secomber affectionately corrupted her name to "Moon Mountain".
+
+As of 1372 DR, the establishment was run by Nurvala "Mother" Minstrelwish and Yarimmur Borulglar, assisted by Kelter Minstrelwish. Kelter was a most curious youth and made a habit of spying on Nurvala's and Yarimmur's meetings with Tarth Brallowgath until he knew just about everything that went on between them. When the two older halflings discovered this, they took him into their full confidence rather than try to squash his initiative.
+
+Appendix
+Notes
+
+Gallery
+
+References
+
+---
+
+## Moon Rum
+
+Moon Rum was a brand of alcoholic beverage produced by Moon Mountain Brewery, circa the Year of Wild Magic, 1372 DR.
+
+Description
+Moon Rum was a strong, fiery drink that was anything but subtle. It was distilled from sugar beets and was a dark reddish purple.
+
+Reputation
+Moon Rum was not very popular as a straight drink. It was available in hand kegs only at the brewery or in Secomber. It was very popular as a mixer for making ale flips and was even sold in topkegs in the correct proportion with Moon Mountain Ale.
+
+Appendix
+References
+
+---
+
+## Morgwan Fellfoot
+
+Morgwan Fellfoot was a member of the Sky Pony tribe of Uthgardt barbarians from the northern slopes of the Nether Mountains in the Silver Marches around 1372 DR.
+
+Morgan served as the chief lieutenant to the Sky Ponies' acting War-Leader, Wolmad Eaglewing, who supplanted their chief when he was on his deathbed.
+
+Despite his "allegiance" to the War-Leader, Morgwan had a scheme to infect Wolmad with lycanthropy and complete his transformation from reckless pillager to outright evil savage.
+
+Appendix
+
+References
+
+---
+
+## Moon Mountain Ale
+
+Moon Mountain Ale was the primary product of the Moon Mountain Brewery, circa the Year of Wild Magic, 1372 DR.
+
+Description
+Fully two-thirds of the quantity of beverages that came from the Moon Mountain Brewery, this ale was clear and light, made from barley, hops, and the waters of the Unicorn Run, using a recipe that was as old as the brewery itself.
+
+Reputation
+This drink was popular in Daggerford, Llorkh, Loudwater, and Secomber, where it was sold by the keg. Outside of this corridor along the Delimbiyr, it was mostly sold in topkegs for making ale flips.
+
+History
+The recipe and method for brewing this beverage belonged to Mrune Moontan, a half-elf sorceress that married Oblar Minstrelwish, a halfling adventurer. The "Moon Mountain" moniker was from the mispronunciation of her name.
+
+Appendix
+References
+
+---
+
+## Moonslake
+
+Moonslake was an alcoholic apple cider produced at Moon Mountain Brewery, circa the Year of Wild Magic, 1372 DR.
+
+Description
+The brewery had its own apple orchard and from the harvest they pressed cider that was allowed to ferment. In the warmer months, they used the distillery, but in winter they just set small kegs out to freeze and scraped the ice off the top. This hard cider was then cut with water that had been boiled with crushed wild mint (found in the High Forest) and then strained to remove the leaf residue. Moonslake had a cooling effect on rough throats and left a fresh, minty aftertaste.
+
+Reputation
+Moonslake was most popular among halflings and gnomes. Humans, as a general rule, greatly disliked the minty finish, and most half-elves, elves, and dwarves fell somewhere between these two extremes. As of the 1370s DR, sales of this beverage increased dramatically in Waterdeep on the widespread rumors (started by some clever halflings) that drinking this beverage increased alertness and stamina, decreased the need for sleep, and made the imbiber more attractive to the opposite sex.
+
+Appendix
+References
+
+---
+
+## Monstrous Compendium: Outer Planes Appendix
+
+Monstrous Compendium: Outer Planes Appendix is a 2-edition Advanced Dungeons & Dragons accessory.
+
+Description
+The Monstrous Compendium: Outer Planes Appendix is part of the Monstrous Compendium series and focused on the creatures of the Outer Planes.
+
+The accessory utilizes a loose-leaf design, allowing for easy integration into the customizable binders used for the Monstrous Compendium series.
+
+Each entry within the Monstrous Compendium: Outer Planes Appendix includes comprehensive details about the creature, including its appearance, behavior, powers, and potential weaknesses, along with essential statistics for gameplay.
+
+Creatures
+ Aasimon
+ Aasimon, Agathinon
+ Aasimon, Devas
+ Aasimon, Light
+ Aasimon, Planetar
+ Aasimon, Solar
+ Air sentinel
+ Animal Lords
+ Cat lord
+ Wolf lord
+ Hawk lord
+ Archon
+Lantern archon
+Hound archon
+Warden archon
+Sword archon
+Tome archon
+ Baatezu
+ Lemure
+ Amnizu
+ Cornugon
+ Gelugon
+ Pit fiend
+ Nupperibo
+ Spinagon
+ Abishai
+ Barbazu
+ Erinyes
+ Hamatula
+ Osyluth
+ Balaena
+ Bariaur
+ Bebilith
+ Bodak
+ Celestial lammasu
+ Dragon, Adamantite
+ Einheriar
+ Gehreleth
+Farastu
+Kelubar
+Shator
+ Githyanki
+ Githzerai
+ Hordling
+ Larva
+ Maelephant
+ Marut
+ Mediator
+ Moon dog
+ Mortai
+ Night hag
+ Nightmare
+ Noctral
+ Per
+ Phoenix
+ Slaad
+Red slaad
+Blue slaad
+Green slaad
+Gray slaad
+Death slaad
+ Tanar'ri
+ Babau
+ Chasme
+ Nabassu
+ Molydeus
+ Dretch
+ Mane
+ Rutterkin
+ Alu-fiend
+ Bar-lgura
+ Cambion
+ Succubus
+ Balor
+ Glabrezu
+ Hezrou
+ Marilith
+ Nalfeshnee
+ Vrock
+ Titan
+ Translator
+ T'uen-rin
+ Vaporighu
+ Warden beast
+ Yugoloth
+ Arcanaloth
+ Nycaloth
+ Ultroloth
+ Dhergoloth
+ Hydroloth
+ Mezzoloth
+ Piscoloth
+ Yagnoloth
+ Zoveri
+
+Gallery
+
+Credits
+ Designer: J. Paul Lafountain
+ Developer and Editor: Timothy B. Brown
+ Art Coordinator: Peggy Cooper
+ Cover Art: Jeff Easley
+ Interior Art: Thomas Baxa
+ Typesetting: Tracey Zamagne
+
+Appendix
+See Also
+ Images from Monstrous Compendium Outer Planes Appendix
+External Links
+
+ RPGGeek
+
+References
+
+---
+
+## Mount Sar
+
+Mount Sar was a mountain peak in the Sword Mountains, the second most southern in the entire range.
+
+Geography
+The mountain located north of Waterdeep between the Long Road and the High Road. Along with Mount Helimbrar and Mount Waterdeep, it protected the city against the harsh winds from the North.
+
+Description
+The peak was linked to Blackstaff Tower by a large-sized two-way keyed portal.
+
+History
+This mountain was named for a great fomorian that used to live in it, until they were slain by the early warlords of Waterdeep.
+
+In the, the mountain village of Hespheira was removed from Mount Sar in Faerûn and somehow transported to the Plane of Shadow.
+
+Notable Locations
+ Hespheira, a minor settlement that experienced great tumult and tragedy.
+ Melairrin, an old dwarven citadel located inside the mountain.
+
+Inhabitants
+Mount Sar was inhabited by stone giants and sylphs. A cave in the mountain was also home to the frost giant Harshnag the Grim. It was returned to the mountain over a century later, infested by shadow creatures.
+
+Gulyaikin Dzrund, "The Mad Dwarf", lived in a series of caves high up on the mountain. He was known for attacking passersby with rocks either rolled down the mountain or catapulted at ships at sea. Rumors were that he had a vast treasure hidden away.,
+
+Appendix
+
+References
+
+---
+
+## Moon Mountain Dark
+
+Moon Mountain Dark was a brand of ale produced by the Moon Mountain Brewery, circa the Year of Wild Magic, 1372 DR.
+
+Description
+This strong, hearty ale had the bitter tang of nuts and was a bit salty.
+
+Reputation
+Moon Mountain Dark was a favorite among gnomes, halflings, and dwarves, but most humans did not like it as a straight drink. However, it was popular even with humans as a hot, mulled brew, and was served in many inns and taverns in the North and elsewhere.
+
+Appendix
+See Also
+ Mulled brew
+References
+
+---
+
+## Monstrous Compendium Spelljammer Appendix 1
+
+Monstrous Compendium Spelljammer Appendix 1 is a 2-edition Advanced Dungeons & Dragons accessory. It is part of the Spelljammer campaign setting.
+
+Description
+Monstrous Compendium Spelljammer Appendix 1 includes detailed descriptions and statistics for a variety of creatures and monsters that are suitable for encounters within the Spelljammer setting. It provides guidance on how to incorporate the featured creatures into Spelljammer adventures. It includes information on the creatures' habitats, behaviors, and roles within the Spelljammer setting.
+
+Like other entries in the Monstrous Compendium series, Monstrous Compendium Spelljammer Appendix 1 includes black-and-white illustrations of each creature, helping DMs and players visualize the monsters in their campaigns.
+
+Contents
+Index
+Creatures
+
+Gallery
+
+Credits
+ Design Coordinator and Noodger: Jeff Grubb
+ Designers: Karen Boomgarden, Tim Brown, William W. Connors, Troy Denning, Dale Donovan, Newton Ewell, Andria Hayday, Bruce Heard, Dale "Slade" Henson, Harold Johnson, J. Paul Lafountain, Jim Lowder, Blake Mobley, Kim Mohan, Roger Moore, Bruce Nesmith, Doug Niles, Jean Rabe, Steven Schend, Skip Williams, and Steve Winter
+ Original Design Concept for Monstrous Compendium: David "Zeb" Cook, Steve Winter, and Jon Pickens
+ Editor: Mike Breault
+ Typesetting: Tracey Zamagne
+ Artistic Coordinator: Peggy Cooper
+ Cover Art: Jeff Easley
+ Interior Art: Thomax Baxa and Mark Nelson
+
+Appendix
+See Also
+ Images from Monstrous Compendium Spelljammer Appendix 1
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Monstrous Compendium
+
+The Monstrous Compendium was a series of 2nd-edition sourcebooks published by TSR, Inc. from 1989 to 1993.
+Books
+ Volume Title Published Citation TemplateMC1Monstrous Compendium Volume One1989MC2Monstrous Compendium Volume Two1989MC3Monstrous Compendium Volume Three Forgotten Realms Appendix1989MC4Monstrous Compendium Dragonlance Appendix1989MC5Monstrous Compendium Greyhawk Adventures Appendix1990MC6Monstrous Compendium Kara-Tur Appendix1990MC7Monstrous Compendium Spelljammer Appendix 11990MC8Monstrous Compendium: Outer Planes Appendix1991MC9Monstrous Compendium Spelljammer Appendix 21991MC10Monstrous Compendium Ravenloft Appendix1991MC11Monstrous Compendium Forgotten Realms Appendix 21991MC12Monstrous Compendium Dark Sun Appendix: Terrors of the Desert1992MC13Monstrous Compendium Al-Qadim Appendix1992MC14Monstrous Compendium Fiend Folio Appendix1992MC15Monstrous Compendium Ravenloft Appendix II: Children of the Night1993MC16Monstrous Compendium Ravenloft Appendix III: Creatures of Darkness1994
+Annuals
+The Annuals were reprints from modules and magazines.
+ Title Published Citation TemplateMonstrous Compendium Annual Volume One1994Monstrous Compendium Annual Volume Two1995Monstrous Compendium Annual Volume Three1996Monstrous Compendium Annual Volume Four1998
+Appendix
+See Also
+Monstrous Manual
+
+---
+
+## Monstrous Compendium Volume Two
+
+The Monstrous Compendium Volume Two is a 2-edition Advanced Dungeons & Dragons accessory.
+
+Description
+Monstrous Compendium Volume Two is the second installment in the Monstrous Compendium series. Continuing the approach introduced with Volume One, this volume further expands the array of creatures available to Dungeon Masters and players. Like its predecessor, Monstrous Compendium Volume Two employs a loose-leaf format, designed to be inserted into a three-ring binder, allowing for flexibility in organizing and customizing the collection of monsters.
+
+Each entry offers a detailed description of the creature, including its physical attributes, habits, powers, and weaknesses, alongside vital statistics for use in gameplay.
+
+Contents
+A
+ Aarakocra
+ Aboleth
+ Ankheg
+ Ant
+ Ant Lion, Giant
+ Ape, Carnivorous
+B
+ Baboon
+ Wild Baboon
+ Banderlog
+ Badger
+ Common
+ Giant
+ Barracuda
+ Basilisk
+ Dracolisk
+ Greater basilisk
+ Lesser basilisk
+ Beetle
+ Bombardier beetle
+ Boring beetle
+ Fire beetle
+ Rhinoceros beetle
+ Stag beetle
+ Water beetle
+ Bulette
+ Bullywug
+C
+ Crocodile
+ Crocodile
+ Giant crocodile
+ Giant crustacean
+ Giant crab
+ Giant crayfish
+D
+ Dolphin
+ Doppelganger
+ Dragonne
+ Dryad
+ Dwarf
+ Duergar
+ Hill dwarf
+ Mountain dwarf
+E
+ Eagle
+ Giant eagle
+ Eel
+ Electric
+ Giant
+ Marine
+ Weed
+ Elf, Drow
+E
+ Ettercap
+ Ettin
+ Giant fish
+ Giant catfish
+ Giant gar
+ Giant pike
+ Frog
+ Giant
+ Killer
+ Poisonous
+ Fungus
+Violet
+Shrieker
+Phycomid
+Ascomoid
+Gas spore
+G
+ Galeb duhr
+ Gargoyle
+ Gargoyle
+ Margoyle
+ Genie
+ Jann
+ Marid
+ Giant-kin, Cyclops
+ Giant-kin, Firbolg
+ Giant-kin, Fomorian
+ Giant-kin, Verbeeg
+ Gorgon
+ Griffon
+ Groaning Spirit (Banshee)
+ Guardian daemon
+H
+ Hag
+ Annis
+ Green
+ Sea
+ Haunt
+ Hawk
+ Large
+ Small (Falcon)
+ Blood hawk
+ Hell hound
+ Heucuva
+ Hippocampus
+ Hippogriff
+J
+ Jermlaine
+K
+ Kelpie
+ Kenku
+ Ki-rin
+ Killmoulis
+ Kuo-toa
+L
+ Lamia
+ Lamia
+ Lamia noble
+ Lammasu
+ Lesser
+ Greater
+ Lamprey
+ Normal
+ Giant
+ Land
+ Leech
+ Giant
+ Swarm
+ Throat
+ Leprechaun
+ Leucrotta
+ Locathah
+ Lurker
+ Lurker
+ Trapper
+ Trapper, Forest
+ Lycanthrope, Wereboar
+ Lycanthrope, Werefox (Fox woman)
+M
+ Mammal, Minimal
+ Mammal, Small
+ Merman (Merfolk)
+ Mimic
+ Mimic
+ Killer mimic
+ Mold
+ Brown
+ Russet
+ Yellow
+ Mongrelman
+ Morkoth
+ Muckdweller
+ Myconid (Fungus Man)
+N
+ Naga
+ Guardian
+ Spirit
+ Water
+ Nereid
+O
+ Obliviax (Memory Moss)
+ Octopus, Giant
+ Osquip
+ Otyugh
+ Otyugh
+ Neo-otyugh
+P
+ Piranha
+ Normal
+ Giant
+ Pixie
+ Plant, Dangerous
+ Choke creeper
+ Mantrap
+ Tri-flower frond
+  Plant, Intelligent
+ Hangman tree
+ Strangleweed
+ Sundew, Giant
+ Poltergeist
+ Porcupine
+ Black
+ Brown
+ Giant
+R
+ Roc
+ Roper
+ Rot grub
+ Rust monster
+S
+ Sahuagin
+ Salamander
+ Salamander
+ Fire snake
+ Sandling
+ Sea Horse, Giant
+ Sea lion
+ Shambling mound.
+ Shark
+ Common
+ Giant (Megalodon)
+ Slithering tracker
+ Slug, Giant
+ Sphinx
+ Androsphinx
+ Criosphinx
+ Gynosphinx
+ Hieracosphinx
+ Squid, Giant
+ Stirge
+ Swanmay
+ Swanmay
+ Swan
+ Sylph
+T
+ Tarrasque
+ Tasloi
+ Triton
+ Troglodyte
+U
+ Urchin
+ Black
+ Green
+ Red
+ Silver
+ Yellow
+ Land
+ Urd
+ Water weird
+ Weasel
+ Wild
+ Giant
+  Whale
+ Common Whale
+ Giant Whale
+ Leviathan
+ Killer Whale (Orca)
+ Narwhal
+  Wolverine
+ Normal
+ Giant
+ Worm
+ Purple worm
+ Tenebrous worm
+ Tunnel worm
+ Xorn
+ Yellow Musk Creeper
+ Yellow musk creeper
+ Zombie
+
+Gallery
+
+Appendix
+See Also
+ Images from Monstrous Compendium Volume Two
+External Links
+
+ RPGGeek
+
+---
+
+## Monstrous Compendium Fiend Folio Appendix
+
+Monstrous Compendium Fiend Folio Appendix is a 2-edition Advanced Dungeons & Dragons accessory.
+
+Description
+Monstrous Compendium Fiend Folio Appendix was released as part of the Monstrous Compendium series. It serves as an update and expansion to the original Fiend Folio. Monstrous Compendium Fiend Folio Appendix reintegrated and adapted a selection of creatures from the original folio, alongside introducing new entities, to the 2 edition framework.
+
+Structured with the modular design of the Monstrous Compendium series, the Monstrous Compendium Fiend Folio Appendix presents its monstrous entries with comprehensive detail. Each creature's description encompasses a range of information, including physical characteristics, combat capabilities, magical abilities, and behavioral tendencies. It also offers insights into the habitats, societies, and cultures of its creatures.
+
+Contents
+A
+ Aballin
+ Achaierai
+ Adherer
+ Algoid
+ Al-mi'raj
+ Apparition
+C
+ Caterwaul
+ Crabman
+ Coffer corpse
+D
+ Dark creeper
+ Dark stalker
+ Darter
+ Denzelian
+ Dragon, Gem
+ Amethyst dragon
+ Crystal dragon
+ Emerald dragon
+ Sapphire dragon
+ Topaz dragon
+ Dune stalker
+F
+ Falcon, Fire
+ Faux faerie
+ Firedrake
+ Flawder
+ Fyrefly
+G
+ Gambado
+ Garbug
+ Black
+ Violet
+ Giant, Fog
+ Gibberling
+ Gorbel
+ Grimlock
+H
+ Hellcat
+I
+ Ice lizard
+ Iron cobra
+K
+ Khargra
+M
+ Mantari
+ Mephit
+ Fire
+ Ice
+ Lava
+ Mist
+ Smoke
+ Steam
+P
+ Penanggalan
+ Pernicon
+ Phantom stalker
+Q
+ Quaggoth
+R
+ Retriever
+ Ruve
+S
+ Scathe
+ Scathe
+ Larvae
+ Sheet Ghoul, Sheet Phantom
+ Sheet Ghoul
+ Sheet Phantom
+ Shocker
+ Spanner
+ Stwinger
+ Sussurus
+ Symbiotic jelly
+T
+ Terithran
+ Thunder children
+ Troll, Ice
+ Tween
+U
+ Umpleby
+ Urdunnir
+V
+ Volt
+X
+ Xill
+ Xvart
+Z
+ Zygraat
+
+Gallery
+
+Credits
+ Coordination: Skip Williams and Jean Rabe
+ Designers: Wes Nicholson, Greg Swedberg, Al Boyce, Donald J. Bingle, John Terra, Kris and Steve Hardinger, Rob Nicholls, Vince Garcia, Norm Ritchie, and Tim Beach
+ Original Design Concept for Monstrous Compendium: David "Zeb" Cook, Steve Winter, and Jon Pickens
+ Editor: Linda M. Bingle
+ Typesetting: Angelika Lokotz
+ Artistic Coordination: Peggy Cooper
+ Cover Art: Jeff Easley
+ Interior Art: Tom Baxa, Mark Nelson, SR Bissette
+
+Appendix
+See Also
+ Images from Monstrous Compendium Fiend Folio Appendix
+External Links
+
+ RPGGeek
+
+---
+
+## Monstrous Compendium Spelljammer Appendix 2
+
+Monstrous Compendium Spelljammer Appendix 2 is a 2-edition Advanced Dungeons & Dragons accessory. It is part of the Spelljammer campaign setting.
+
+Contents
+ Alchemy plant
+ Allura
+ Aperusa
+ Autognome
+ Bionoid
+ Bloodsac
+ Buzzjewel
+ Constellate
+ Contemplator
+ Dohwar
+ Dragon, moon
+ Dragon, sun
+ Dragon, stellar
+ Dreamslayer
+ Dweomerborn
+ Fal
+ Feesu
+ Firebird
+ Firelich
+ Flowfiend
+ Gadabout
+ Gammaroid
+ Gonn
+ Gossamer
+ Grav
+ Great Dreamer
+ Greatswan
+ Grell, colonial
+ Gullion
+ Insectare
+ Lhee
+ Mercurial slime
+ Meteorspawn
+ Monitor
+ Owl, space
+ Pristatic
+ Scro
+ Selkie, star
+ Silatic
+ Skullbird
+ Sleek
+ Sluk
+ Space swine
+ Spirit warrior
+ Sphinx, astro
+ Starfly plant
+ Stargazer
+ Undead, stellar
+ Witchlight marauders
+ Xixchil
+ Yitsan
+ Zurchin
+
+Gallery
+
+Appendix
+See Also
+ Images from Monstrous Compendium Spelljammer Appendix 2
+
+External Links
+
+Connections
+
+---
+
+## Morigan's Complete Components
+
+Morigan's Magical Components was a magic shop in Ravens Bluff, in the late–14 century DR, that was housed in the northern end of Kettle of Many Things.
+
+Location
+This shop stood along Skulls Street, in the Swordpoint neighborhood of the city's Temple District.
+
+Services
+This shop primarily dealt in material components for spells. While the owners found some success selling everyday components to local arcane spellcasters, stiff competition from Bendekar's Mercantile forced the Morigans to refocus their wares to herbs and spices, which they sold to local restaurants and housekeepers.
+
+Inhabitants
+The shop was run by a couple, Mijel and Jandra Morigan.
+
+Appendix
+References
+
+---
+
+## Mouth o' Gargoyles
+
+Mouth o' Gargoyles was a village in the King's Forest in Cormyr, situated on the Starwater Road (where it crossed Starwater River) between Dhedluk to the northwest and Immersea to the east.
+
+History
+The village's name originated with a long-dead wizard who lived in a cave on the site. He used gargoyles to launch raids at night against river cargoes and against travelers who camped in the area. Eventually, other wizards were hired to get rid of the winged terrors and their master. The magical battle that followed destroyed the cave, which was previously known as the Mouth of the Gargoyles, and only its name lived on.
+
+That titanic battle also caused an area of wild magic to manifest where the village later sat. This eldritch curse made the entire place extremely unpredictable for the use of magic, whether through spells or the activation of magic items (but not the mere presence of them). The use of such powers usually resulted in all kinds of strange, random, often harmful effects. This led to a permanent ban on the use of magic within the village by order of the Crown.
+
+Government
+Signs were posted throughout Mouth o' Gargoyles for everyone to see, clearly stating that using magic was against Crown law because of the dangers. Violators were typically imprisoned for a tenday and had their carried goods confiscated. Guilty adventurers had their charters revoked, or suspended for at least a month. Those who could prove their use of magic was purely accidental (which was difficult) received lighter sentences.
+
+War Wizards and officers of the Crown were not bound by this law, but they had their own strict policies about breaking it.
+
+Trade
+Professional trades engaged in by the villagers included woodcarving, furniture-making, and the production of oils (oilmakers were known as "lighters"). The lighters pumped natural oil from deep fissures near the site of the destroyed cave. The danger of this was that once in a while a fireball or a jet of flame would burst from the earth and hurl the lighter into the air. There was also a bad smell around the rocks that made many people sick. One type of oil produced and sold by the lighters was amberglow. This was used as a lubricant and to prevent blades from rusting.
+
+Notable Locations
+Bendagar's Barrels
+In this large former barn, the shopowner Bendagar and his team of workers made and sold barrels of all sizes, small enough to fit in the palm of one's hand, or large enough to contain a full-grown horse. Never seen without a pipe and a tankard of ale, Bendagar was described as looking rather like a barrel himself and enjoyed gossiping about Cormyrean politics and the nobility. His fair prices meant that merchants could afford to buy his products in bulk.
+Thaelin's Finework
+This shop was owned by Thaelin Althor, a seven-feet-tall retired warrior from Chessenta who made and sold exquisitely crafted boxes and coffers of ornamental design. A pair of crossed two-handed swords were mounted on his wall, and it was said that he used those swords to slay seventeen orcs when they came out of the forest to raid the village. Apparently, the raiders knew that they would not be fought with magic but made the fatal assumption that the village could not be defended.
+The Gargoyle's Perch
+This roadhouse inn was run by twelve friends who also hired themselves out as escorts. It had a good selection of ales and stouts, but that was the best that could be said about it. The wine selection was poor, as was the food, and the rooms were dimly lit and rarely cleaned.
+
+Rumors and Legends
+One mystery that plagued Mouth o' Gargoyles was the strange disappearances of villagers throughout the years. Some believed they went through magical gates that formed as a result of wild magic. Others speculated that a mad wizard had kidnapped them, or they were taken by drow raiders.
+
+Appendix
+References
+
+---
+
+## Monarch's Scepter
+
+The Monarch's Scepter was a unique rod of absorption that served as part of the regalia of the Kingdom of Tethyr, beginning with the Rhindaun Dynasty of the 14 century DR. During the reign of King-Consort Haedrak Rhindaun III and Queen Zaranda Star Rhindaun, it was nearly always kept by one of the monarchs when they held court, typically serving as sign of rulership, particularly for the Queen.
+
+Description
+The Monarch's Scepter was a 3'-long (0.9 m) rod of pure silver, whose forward-oriented end was shaped to look like the head of a roaring lion. The eyes of the beast were inset with diamonds.
+
+Powers
+Unlike most rods of absorption, the Monarch's Scepter had no limit to the number of spells it could absorb. However, it was created with defense in mind, only absorbing the arcane energy, rather than transferring it to the wielder. When it was used, the scepter would highlight the caster of the spell with faerie fire, clearly identifying them to the wielder.
+
+It was crafted so that it would only work for Haedrak and could be keyed for two other people of his choosing. He designated his wife, Queen Zaranda, and their Court Vizera, Perendra.
+
+History
+The magical rod was crafted by Elminster Aumar, many years before the coronation of Queen Zaranda Star and King-Consort Haedrak Rhindaun III. At the time, Haedrak was known as Lhaeo and served as the wise sage's scribe and assistant. In 1369 DR, he brought the Monarch's Scepter with him, along with other magical items, when he traveled from Shadowdale, to Waterdeep and finally Tethyr, where he pledged his support to Countess Zaranda Star.
+
+Appendix
+References
+
+---
+
+## Mountain wemic
+
+Mountain wemics were a rumored species of monstrous tauric beasts, distantly related to the wemics of Faerûn's grasslands.
+
+Description
+Mountain wemics were said to resemble great mountain lions with the upper torso of a humanoid. They were smaller in frame than common wemics, and their males lacked manes.
+
+Ecology
+The existence of mountain wemics was little more than rumor as of the mid-to-late 14 century DR, but they were said to be found in dangerous regions throughout the Thunder Peaks and Desertsmouth Mountains in central Faerûn.
+
+They culturally differed from their more abundant cousins in a number of ways. They were not nomadic pack hunters, but rather solitary creatures that hunted alone or in pairs. Their preferred weapon was the club.
+
+Appendix
+References
+
+---
+
+## Monadic deva
+
+Monadic devas were a kind of angel and members of one of the three orders of the devas, the others being astral devas and movanic devas. The most patient of devas and with a firm appreciation for balance, monadic devas served as stewards of the gods and oversaw the Elemental Planes and the Ethereal Plane.
+
+Description
+Devas appeared as human-like men and women of extraordinary beauty or handsomeness with two magnificent feathered wings emerging from their backs. In contrast with their astral and movanic deva cousins, monadic devas had muscular, even bulky bodies, as befitted their strength. Their skin was dark brown, their hair was jet black, and their eyes were green and piercing.The appearances of devas have been switched in each edition. In 1st edition, in Dragon #63 and Monster Manual II, monadic devas have a silvery-white coloration and muscular builds. In 2nd edition, in Monstrous Compendium Planescape Appendix, they have a dark coloration and muscular build. However, artwork for Monster Manual v.3.5 also gives this appearance to the astral deva. Finally, in v.3.5, in Fiend Folio, monadic devas retain the dark coloration but are not explicitly given the muscular build. Meanwhile, movanic devas gained the silvery-white coloration in the 2nd- and 3.5-edition sources. This article uses the consistent combined description of the later 2nd- and 3.5-edition sources, and won't even get into the 5th-edition deva. Monadic devas stood around 6 feet (1.8 meters) tall, but particularly mighty examples could grow to much larger size.
+
+Devas were averse to clothing; when they must adhere to mortal custom, they donned simple loincloths or other coverings.
+
+Society
+The order of monadic devas was politically equal to the orders of astral and movanic devas, and there was no rivalry between them. Although the orders might sometimes bicker over differences in personality, they always cooperated.
+
+Monadic devas served as stewards and servants to the gods. At their bidding, they watched over the Ethereal Plane and the Elemental Planes, including the Paraelemental Planes. Rarely, they were even commanded to undertake missions into these planes, thanks to their immunity to the effects of the Elemental Planes. Additionally, they were charged with protecting the Upper Planes from invasion, and in this role were the commanders of the agathinon warriors who patrolled the borders of the celestial realms.
+
+On other occasions, they were tasked with guiding good mortals through the Inner Planes.
+
+They usually worked alone, but also operated in pairs, trios, fours, or squads of up to six members.
+
+Movanic devas who pleased the gods in their roles were given an opportunity to ascend to the stage of monadic devas. Likewise, a monadic deva of exceptional achievement might be granted the opportunity for promotion to astral deva. Some monadic devas, however, were quite content to remain in their current celestial roles.
+
+Personality
+Their long watches over the Elemental and Ethereal Planes gave the monadic devas a nigh-limitless patience and a deep appreciation for balance, more than any other deva. Thus, the majority of neutral good devas were monadic devas. They were also the most stoic by a long way. Yet they could grow bored of their watches, and saw battle as a much-needed and much-enjoyed diversion. No deva would knowingly deal peaceably with evil beings, but those of non-lawful bent sometimes dealt with neutral beings. They were strong-willed and fearless.
+
+Possessions
+
+Each monadic deva wielded a long and sturdy metal rod empowered as a +2 weapon or a +3 rod of smiting or a +3 mace of smiting. It could strike or pierce a foe up to 10 feet (3 meters) away. It dealt greater impact damage to foes armored in metal and creatures made of stone or other solid materials. It functioned only for its owner and never ran out of power. They had no need of any treasure or wealth, nor even clothing.
+
+Combat
+Monadic devas loved battle more than any other deva. They used their great strength much more than their agility or speed. They favored charming any elemental opponents before rushing in to harry their remaining foes with powerful swings of their maces. They could not be surprised in battle and were hard to flank.
+
+Powers
+Monadic devas possessed all the powers, protections, and traits common to devas and to other angels, and many more of their own. They were immune to injury from mundane and minor magical weapons.
+
+Delivered from death, monadic devas were naturally immune to all death magic, whether from spells or other powers. They were also immune to the draining of various forms of life source, such as by undead.
+
+Monadic devas were at home in any environment. They were at ease in all the Inner Planes—including the Elemental, Paraelemental, Quasielemental, and Energy Planes—being utterly immune to the traits of those planes, and furthermore they were immune to all forms of fire. They could breathe freely, no matter the conditions, similar to using a necklace of adaptation. They also possessed a power like the spell charm person or charm monster that applied only to elementals but worked at will.
+
+In addition to the common spells of devas, monadic devas were also reported to cast a hold monster applying only to elementals and project image, later considered to be hold monster applying to all creatures and mirror image. Later, it was reported they could cast atonement, commune, consecrate, create food and water, cure serious wounds, daylight, death ward, dispel evil, dispel magic, divination, ethereal jaunt, hallow, holy aura, neutralize poison, prayer, protection from arrows, and raise dead.
+
+When a deva died on the Prime Material plane or the Elemental planes, all parts of their body, what clothes they wore, their maces of smiting, and their other possessions vanished completely. Only their material body was destroyed, while their immortal spirit returned to their home plane. It took ten years to regain the power to manifest a corporeal form. If they died on any other plane, then they were destroyed utterly.
+
+Relations
+Devas of all kinds were known to serve the deities Azuth, Ilmater, and Mystra.
+
+A good and mighty spellcaster could briefly summon and command a monadic deva with summon monster IX, or long-term with gate or planar ally.
+
+History
+In 1369 DR, a group of six monadic and astral devas, led by Ariziel, was dispatched to capture the Winged, a dark planetar cast out from Celestia for failing Torm. The devas could not overcome the Winged, and found themselves captured in turn. They were turned into fallen devas and forced to fight in the gladiatorial arena of the Winged's master, the Thayan wizard Dennaton, where they eventually perished.
+
+Queen Morwel of the eladrin was allied to a powerful brass dragon named Ronothere. Through him, she lent military aid to the cause of the archomental Zaaman Rul in his resistance against Imix, and this aid included a squad of monadic devas.
+
+Appendix
+Notes
+
+Appearances
+Video Games
+Baldur's Gate II: The Black Pits II – Gladiators of Thay
+
+References
+
+Connections
+
+---
+
+## Mordenkainen's involuntary wizardry
+
+Mordenkainen's involuntary wizardry was a spell that forced a target spellcaster to produce the effects of a random known spell.
+
+Effects
+The spell could target any spellcasting creature within a range of 60 ft (18 m). One spell known to the target simply took effect, without requiring any action from the target, and without requiring the target to expend any components (although any necessary consumable components in the target's possession disappeared nonetheless). If the circumstances did not allow for a particular effect to happen, the spell caused damage to the target instead, proportionally to how powerful the random effect would have been.
+
+Components
+The spell required verbal and somatic components.
+
+History
+The Oerthian wizard Mordenkainen introduced the spell to Elminster and Dalamar of Krynn during one of their meetings in the house of Ed of the Greenwood on Earth.
+
+By the mid-14 century DR, the spell was known in Faerûn as belonging to the incantation school of magic.
+
+Appendix
+References
+
+---
+
+## Mordenkainen's celerity
+
+Mordenkainen's celerity was a spell that improved the efficacy and duration of other velocity-altering spells.
+
+Effects
+If Mordenkainen's celerity was cast by the same person moments before a spell such as feather fall, fly, haste, jump, levitate, or spider climb, the magical speed granted by that spell and its duration increased by a factor of 25%. In the case of feather fall, the falling speed could also be reduced by the same amount if the caster so desired. Additionally, a casting of haste following the spell affected more creatures.
+
+The spell also improved the caster's defense against speed-reducing spells such as hold person, slow, and web, as well as magically induced paralysis.
+
+Components
+The spell required verbal, somatic, and material components. The material required was a small container filled with either centipede or millipede legs.
+
+History
+By the mid‒14 century DR, the spell was well-known and relatively common across Faerûn, but rare in Zakhara, where it was known simply as celerity.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Monstrous Compendium Planescape Appendix II
+
+Monstrous Compendium Planescape Appendix II is a 2-edition Advanced Dungeons & Dragons accessory. It is part of the Planescape campaign setting.
+
+Description
+The Monstrous Compendium Planescape Appendix II was published by TSR, Inc. in 1995 and is the second appendix in the Monstrous Compendium series for Planescape. The supplement provides detailed information on various monsters and creatures from the planes of existence in the Planescape setting.
+
+Each monster entry includes information on its habitat, behavior, society, and abilities. Additionally, the supplement provides new rules and game mechanics for creatures in the Planescape setting, such as new powers for demons and devils, new magical items, and new spells.
+
+Index
+Characters
+ •  •  •  •  •
+Creatures
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  ( •  •  •  •  •  • ) •  •  •  ( •  •  •  •  • ) •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  ( •  •  •  •  • ) •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •  •  •  •  •  •  •  •  •  •  •  •
+
+Locations
+Demiplanes
+
+Divine Realms
+
+Layers
+ •
+Planets
+
+Settlements
+
+Religions
+ •
+
+Miscellaneous
+Events
+
+Food & Drinks  •
+Items
+Materials & Substances
+
+Gallery
+
+Credits
+ Designer: Rich Baker
+ Editor: Karen S. Boomgarden
+ Creative Director: Andria Hayday
+ Cover Artist: DiTerlizzi
+ Interior Artist: DiTerlizzi
+ Art Direction: Bruce Zamjahn
+ Electronic Prepress Coordination: Dave Conant
+ Typesetter: Angelika Lokotz
+ Graphic Design and Production: Dee Barnett, Dawn Murin, Greg Kerkman
+ Thanks to: Tim Beach, Wolfgang Baur, Michele Carter, and Colin McComb
+
+Appendix
+See Also
+ Images from Monstrous Compendium Planescape Appendix II
+External links
+
+RPGGeek product page
+
+Connections
+
+---
+
+## Mordenkainen's penultimate cogitation
+
+Mordenkainen's penultimate cogitation was a powerful spell that allowed a wizard to recall a spell from any of his or her spellbooks.
+
+Effects
+Through the use of the spell, any spell less powerful than Mordenkainen's penultimate cogitation could be recalled from one of the caster's spellbooks, as long as it stood less than one mile (1.6 km) away. It could not recall spells from scrolls or another wizard's spellbook. There was also a small chance that recalling the spell using this method erased it from the spellbook.
+
+The spell could not reach the spellbook if a crystal sphere stood between it and the caster.
+
+Components
+The spell required only verbal and somatic components.
+
+History
+The spell was attributed to the Oerthian archmage Mordenkainen. In the mid‒14 century DR, the spell was uncommon in Faerûn. This spell was known to be used by wizards of the Cult of the Dragon.
+
+Appendix
+References
+
+---
+
+## Move object
+
+Move object was an uncommon alteration spell of the southern magic tradition. It was popular with mentalists.
+
+Effects
+When cast, the caster was able to move a single small object, within 10 yard (9 meter). The caster's skill level determined how heavy the object could be. The spell was unable to perform complex movements nor could it animate objects.
+
+Components
+The spell only required a somatic component.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Moranay
+
+Moranay was a small town located in Agmoth county, within the Easting Coast of Impiltur. It served as an important way-stop for the local merchants as they transported ore down the hinterlands of the Earthfast Mountains south to the great coastal cities of the realm.
+
+Description
+The town was located approximately 17 miles (27.4 m) north of where the Agmoth Road intersected with the stretch of Queen's Road that connected Lyrabar and Hlammach.
+
+Government
+The town was overseen by Lord Samulbrar Chaseris a retired adventurer that chose to settle down and take on the responsibilities of rulership.
+
+History
+Some time during the 14 century DR, shortly after Lord Samulbrar returned from an expedition to Rashemen, a group of Shar-worshiping Durthans enticed a coven of hags to infiltrate a ruined estate near the town and prey upon its citizens. The monstrous fey dominated the local constable Teda Hervyn and placed false memories in the minds of the townsfolk, by use of the spell modify memory. These enchantments led them to believe Lord Salumbrar had taxed the town into near-poverty and committed horrendous atrocities such as public torture. Due to Salumbrar's continued longevity, and the false memories they possessed, the townsfolk of Moranay began to believe he was a vampire.
+
+The Lords of Imphras II implored the Royal Herald, Gabra Robardon, to recruit traveling adventurers to investigate the goings on within Moranay.
+
+On Marpenoth 30, nearly 100 of Moranay's citizens gathered in the Riddle of the Chase to discuss the "recent unpleasantness" the town had been experiencing. The crowd gradually became more and more angry, whipped into a frenzy by the green hag Vasyl Yauheni, who had veiled herself as Teda Hervyn, and Lord Samulbrar's long-time butler Falder. Although a group of adventurers had came to the town and began to look into the deteriorating situation, it was unknown how the situation ultimately unfolded.
+
+Notable Locations
+ Ridde of the Chase: This pleasant and homey tavern was founded by its first proprietor Ida Merian Chase.
+ Samulbrar Manor: The imposing manor house of lord Samulbrar stood on a small hill overlooking the town.
+
+Appendix
+References
+
+---
+
+## Moonstone Manse
+
+The Moonstone Manse was a 14-century school of the arcane arts that was located in the Impilturan city of Hlammach. It was seen as the lesser of the two magic academies of the realm, inferior to the well-renowned Towers of the Wind located in nearby Lyrabar.
+
+Description
+Founded in the Year of Rogue Dragons, 1373 DR by Plathyon Hawkryn, the school educated a few select pupils on the magical relationship between the Weave and the naturally-occurring gems and other precious stones of Toril. Their lessons specifically focused on moonstones, the feldspar from which the school drew its name.
+
+Some believed that the school's founding was merely an action taken by the noble Hawkryn to further increase their wealth, as they owned a number of abundant moonstone mines within the Earthfast Mountains.
+
+Appendix
+References
+
+---
+
+## Morus
+
+Morus was a king of Impiltur, of the Durlarven Dynasty, during the late 7 century DR. He reigned from the Year of the Covenant, 673 DR to the Year of the Bloodfeud, 675 DR.
+
+History
+King Morus ascended to the Golden Throne when his father, King Bellodar III, passed away from natural causes. Unfortunately, Morus descended into madness over the course of two years and grew paranoid about his newly acquired power. He accused his brother Alathos of attempting to seize the crown for his own.
+
+The two brothers fought each other in a wild sword-fight and Alathos was forced to kill his brother. Following the duel, Alathos I ascended as the new king of Impiltur.
+
+Appendix
+References
+
+---
+
+## Mortiss
+
+A mortiss was a type of space worm that consumed wood and minerals present in small asteroids and the hulls of spelljammers. Despite being more closely related to species of coral, they were usually referred to as the "termites of wildspace".
+
+Description
+Mortiss were round worms with no eyes who sensed their environment through vibrations. They had a ring of feather-covered tentacles around their heads, which consisted of two pairs of jaws and a poisonous stinger. Hatchlings had a length of about 2 in (5.1 cm) and grew up to 6 ft (1.80 m).
+
+The worms could not survive in a large body's atmosphere. They lived exclusively on small bodies and ships. If brought into a planet's or a large moon's atmosphere, mortiss died out within one month.
+
+Behavior
+In the presence of light, mortiss had the ability to magically convert wood and minerals into a type of clay that they used to shape their burrows. The early stage of an infestation, which manifested as small holes on the most brightly lit side of the hull, was difficult to detect, but in later stages they sculpted stony tubes that protruded outwards from the hull.
+
+If left unchecked, a mortiss infestation effectively destroyed a spelljammer within one year, completely encasing it in the stony substance. For that reason, some scholars speculated that certain small asteroids and even small moons might have been the result of previous infestations, and could still contain structures hidden underneath the surface.
+
+They were a hermaphroditic species. Individuals mutually fertilized each other's eggs, which resembled geodes, and then deposited them on a speljammer's hull that had come in contact with another infested body, such as an asteroid, infested cargo, or another spelljammer. In some cases, eggs that were adrift in space might also become attached to a passing ship's hull. The eggs hatched within one week of laying. The young started digging their burrows within three to four weeks.
+
+Combat
+Mortiss were vulnerable to fire and remove disease spells. If their burrows were attacked, they responded by stinging their attackers. The poison present in the stinger had a hallucinatory effect that lasted for several hours and was increasingly more difficult to overcome with each subsequent sting. They could also attach themselves to other creatures, slowly draining them.
+
+Ecology
+Although mortiss did not usually seek out other types of life, it was common for creatures to associate with them in a symbiotic fashion, since mortiss renewed the air envelope of celestial bodies. Creatures such as elmarins, kindori, krajens, and scavvers were known to establish lairs among mortiss colonies.
+
+Mortiss meat was considered a savory delicacy. Crates were typically stored in Stardock for its githyanki inhabitants in the late 15 century DR.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Moon path
+
+Moon path was a spell that created a bridge or stair fashioned from pure moonlight and gave certain protections to those who crossed it.
+
+Users
+Originally, specialty priests of Selûne, namely silverstars and guides of Lucha, had a special ability to cast moon path, and priests who commanded the Sun and Travelers spheres could cast it normally. After the Year of Wild Magic, 1372 DR, clerics and others who commanded the Moon domain could cast a divine version of moon path, while the hathrans of the Witches of Rashemen knew an arcane version. A variant was available only to clerics, druids, and rangers initiated into the greatest secrets of the Selûnite church.Two versions of this spell were printed for 3 edition: both Forgotten Realms Campaign Setting 3rd edition and Player's Guide to Faerûn present one for hathrans and casters with the Moon domain (typically clerics), while Player's Guide to Faerûn also presents it as only available through the Initiate of Selûne feat, with hathrans removed in errata. The rules for Initiate feats state that these spells replace the existing spells if the feats are allowed in one's game. This wiki considers both to exist in the setting.
+
+Powers
+This spell fashioned pure, pale moonlight into a bridge or stair. It was shaped like a ribbon, lacked rails, was white in hue but translucent, and glowed, making it resemble a strip of glass. The moon path could be up to 135 feet (41 meters) long, or more for more experienced casters, and could be shorter as required. Its width could vary from 3 feet (1 meter) to 20 feet (6 meters), as the caster preferred, and it could have different widths over its length.
+
+The moon path linked two locations known and seen by the caster and was fixed to them without need of supports, even in empty air high above known spots on the ground. It could run horizontally as a flat bridge or ascend or descend as a stair, but at an angle of no more than 45°. It had to be straight, continuous, and unbroken; if anyone or anything was in its way on casting, then the spell failed. The moon path itself could not be broken or moved by any known force and was completely stable.
+
+It was generally similar to a wall of force, as it was formed of force and didn't require supports and couldn't be damaged. Spells and magical breaths and gazes could not penetrate it and neither material nor ethereal things could pass through it. However, teleportations like dimension door and teleport could bypass it.
+
+Those walking on a moon path while it stood were protected in other ways while it lasted. Originally, they could not be drained of their life force or hurt by mundane projectiles and they were immune to charm enchantment spells (but still sensed its affects). Finally, avoiding any safety issues about the lack of rails, they simply could not fall off the moon path, whatever the force used. In the later version, up to nine people or more were selected to receive the benefits of a sanctuary spell, which instead warded them against being directly attacked, provided none of them directly attacked anyone. They were also granted the ability to cling to the moon path as if with spider climb. They immediately lost both if they left the moon path for any reason.
+
+Originally, the moon path lasted until it had been completely traversed by at least nine people or at least ninety minutes, more for more experienced casters, whichever came first. Later, it only lasted for nine minutes or more, but had no limit on how many crossed it in that time. In either case, it could be ended early when the caster dismissed it. It vanished when affected by dispel magic and was destroyed by Mordenkainen's disjunction, a rod of cancellation, or a sphere of annihilation, while disintegrate blasted a 10-foot-wide (3 meters) hole in it. A magical barrier created by a higher-level spell could prevent a moon path from forming or cut through an existing one. Damage to or cutting of any part of a moon path didn't affect the structural integrity of the whole. If the moon path disappeared or was destroyed, those on it fell normally from the height they were at.
+
+Components
+Moon path required verbal and somatic components, The original spell also required a material component in the form of a handful of powdered moonstone. Later, the divine version required a divine focus, while only the arcane version required a material component, now simply a white handkerchief.
+
+Appendix
+Notes
+
+Gallery
+
+References
+
+---
+
+## Mosquito (spelljammer)
+
+Mosquitoes were small spelljammers. They were among the smallest vessels capable of carrying a spelljamming helm, second only to the elven flitters.
+
+Description
+A mosquito was an open-deck ship. Only one person was necessary to fully operate it, but it could support a compliment of up to six creatures without compromising its air supply. For that reason, it was considered an excellent personal transport. Domed-deck variants were not uncommon, and were typically employed by light-sensitive occupants such as mind flayers.
+
+Mosquitoes were capable of landing on both water and land. For that reason, many larger vessels employed mosquitoes as shuttles, landing vessels, lifeboats and rescue ships. Mosquitoes employed as landing vessels were usually stripped of their helms.
+
+Thanks to their small size and versatility, mosquitoes were also frequently employed as spies and infiltrators, sometimes with small modifications that made them more difficult to detect, or stripped-down versions, known as gnats, which were incredibly maneuverable. They were, however, very delicate, a trait that made them generally unsuitable for combat.
+
+Despite that, some combat configurations existed. Known as stingers, these variants consisted of replacing the ship's cargo hold with a single weapon, such as a ballista, catapult, or jettison. Other combat modifications included suicide ships, whose cargo holds were filled with Greek fire or other highly flammable materials. They were then stripped of their helms and cast adrift toward other ships, igniting them on impact. Another application of these bomb ships was to create minefields, where swarms of drifting flammable mosquitoes were left in orbit around planets.
+
+Notable Mosquitoes
+ The Ghost
+
+Appendix
+Appearances
+ Into the Void
+External Links
+
+References
+
+---
+
+## Mongrelman infiltrator
+
+Mongrelman infiltrators, or simply called infiltrators, were the creations of an unrecorded wizard. The infiltrators existed as a more easily controllable alternative to doppelgangers to be used as spies and messengers able to take the form of any similarly sized humanoid.
+
+Description
+An infiltrator's default form was that of an extremely thin, hairless humanoid with a light grey shade of skin. Their large black eyes occupied most of their face but their mouths were merely slits and they lacked noses. In these natural forms, their genders were indistinguishable.
+
+Personality
+Infiltrators were emphatically loyal to their creators, wholeheartedly devoted to them above all other things. They could only exist comfortably in the employ of a magic user, due to their programmed will to serve.
+
+Combat
+Infiltrators were weak and ineffectual in their base form, lacking natural weapons or techniques. To compensate, they would train with a wide variety of weapons and armor in order to battle even without other forms. Infiltrators' main combat prowess, however, lay in their ability to mimic other creatures and they would seek to attain as many forms as possible to be prepared for any situation. Changing between forms took a few seconds and helped them to recover from damage, since wounds weren't genetic. Using forms heartier than its own would boost its resilience and even weaker forms were as hardy as the original form. They would sometimes be entrusted with magical weaponry by their current masters so that they could fight better.
+
+Ecology
+Infiltrators were omnivorous but could also take on the diets of whatever they were mimicking. Through a process known as "feasting", they could become a perfect simulacrum of a race whose flesh they consumed via breakdown of the organic material in a digestive organ similar to a stomach. This process took an hour to complete and did not allow them to change gender, nor did it apply to any beings outside of medium humanoids. Due to an oversight in their creation, infiltrators could not pass on their genetic code to their offspring, instead creating mongrelmen whose genetic code was a randomly selected amalgamation of any creatures the infiltrator had feasted on. Attempts to breed with members of other races always ended in failure, leaving the infiltrators with no method to naturally propagate. Infiltrators were not immortal, and the original generation had long since died out, but new ones might be created if the methodology for doing so was found, whether rediscovered or independently found in polymorphic research.
+
+Society
+Language
+Infiltrators had no language of their own, but could comprehend and speak any tongue they heard.
+
+Culture
+Infiltrators lived with magic users (usually their creators), either alone or with a few others of their kin. They was no taboo of nudity among them since they were virtually indistinguishable. Their loyalty to their creators crossed the line into religious devotion, potentially being the reason for the mongrelmen worship of the Hidden God.
+
+Appendix
+
+Appearances
+Adventures
+ Khamsa's Folly
+ Nymph's Reward
+
+References
+
+---
+
+## Moose
+
+A moose was a large animal that was found in many places across Faerûn.
+
+Ecology
+Habitats
+Moose roamed the northern lands, such as the Savage Frontier. Here, they were often hunted by not only humanoids, but also frost worms. Beyond Faerûn, they could be found in the sub-arctic forests of Kara-Tur.
+Usages
+Moose were often hunted for their meat by a variety of races, from elves to storm giants. Omnivorous elves often ate moose meat, which they marinated in many herbs to rid the seasonal taste. Giants also cooked and consumed moose meat, as well as humans.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Icewind Dale: Rime of the Frostmaiden
+Novels
+The Titan of Twilight • Sword Play
+
+Mortal Consequences
+Video Games
+Baldur's Gate series (Shadows of Amn • Siege of Dragonspear) • Idle Champions of the Forgotten Realms
+
+Gallery
+
+References
+
+---
+
+## Mordenkainen's magnificent mansion
+
+Mordenkainen's magnificent mansion, sometimes known as simply Mordenkainen's mansion, was a conjuration spell that created a vast and luxurious extradimensional living space.
+
+Effects
+The spell shaped a total volume in extradimensional space of up to 50,000 cubic feet (1400 cubic meters) into the interior of an exuberant mansion that lasted for 24 hours. The place could have any floor plan and any room arrangement specified by the caster. It was completely furnished and decorated in whatever way the caster wished.
+
+The mansion was connected to the plane from which the spell was cast via a shimmering door 4‒5 feet (1.2‒1.5 meters) wide and 8‒10 feet (2.4‒3 meters) tall. Only individuals authorized by the caster could cross the door, which was invisible when closed.
+
+The mansion's atmosphere was always fresh and clean, regardless of the conditions outside. It could provide enough food for a nine-course banquet that could feed up to 100 people. The mansion and all its guests were tended by a staff of 100 almost transparent servants, similar to visible versions of the unseen servant spell, whose appearance and garment were also chosen by the caster and who were completely obedient to the caster's commands. The servants were capable of performing any activity that a human servant was capable of, except attacking or harming anyone, and they were confined to the mansion's interior, along with all furnishings created by the spell.
+
+If the mansion remained occupied beyond the spell's duration, all occupants were ejected from it through the door back to the original location.
+
+The wizard Fistandia discovered a way to create a permanent magnificent mansion. She scrawled her findings in the margins of The Joy of Extradimensional Spaces, a tome discussing the spell.
+
+Components
+The spell required verbal, somatic, and material components. The materials required were a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon. Each of these items needed to be worth at least 5 gp.
+
+History
+
+The spell was one of many spells credited to the prolific Oerthian wizard Mordenkainen, who claimed to be inspired by a visit to a githzerai adamantine citadel. During the period when Mordenkainen was trapped in Barovia, he routinely used the spell to create a lair for himself while he looked for his spellbook and staff, lost in a previous confrontation with Strahd von Zarovich.
+
+To Zakharan mages, always reluctant to acknowledge ajami names and accomplishments, the spell was known simply as magnificient mansion, and counted among the spells of the universal province.
+
+Appendix
+Appearances
+Adventures
+Curse of Strahd • Candlekeep Mysteries: "The Joy of Extradimensional Spaces"
+References
+
+---
+
+## Monstrous centipede
+
+Monstrous centipedes were venomous, subterranean arthropods of giant size.
+
+Description
+Monstrous centipedes ranged from halfling-size to as big as the largest dragons. Their bodies ranged in color from pale grey, black, red, and brown.
+
+Monstrous centipedes were adept at climbing nearly any surface with their many legs.
+
+Behavior
+These creatures were very aggressive and liable to attack anything that could be food.
+
+Combat
+When attacking, a monstrous centipede would rush towards its prey and use its jaws. When it bit, it injected a sort of poison that reduced a prey's mobility. This poison was weak though and not liable to be fatal.
+
+History
+In the late 14 century DR, giant centipedes were sold as fish bait at Skully's Bar and Bait in the city of Ravens Bluff.
+
+Ecology
+Habitats
+Monstrous centipedes could be found almost anywhere, but typically they were encountered deep underground.
+
+On the surface they were known to infest the fens, moors, and deciduous forests of the Moonshae Isles. They were also known to infest the Vast Swamp between Cormyr and Sembia, the forests of Cormanthor, and the sewers of Waterdeep.
+
+They were known to frequently be found in the steppes of the Hordelands, as well as its forests Ama Basin, Hagga Shan, and Shalhoond. They were also a common occurrence in its deserts, the Raurin and Quoya.
+Relationships
+Evil spellcasters often summoned fiendish monstrous centipedes from the Lower Planes to fight for them.
+
+Summoning
+A fiendish monstrous centipede of the medium-sized variety could be summoned with the summon monster I spell, while the summon monster II spell would result in either three medium-sized fiendish monstrous centipedes or a single large fiendish monstrous centipede. Three large fiendish monstrous centipedes or a huge-sized one could be called by the spell summon monster III, and summon monster IV would result in three huge fiendish monstrous centipedes being summoned. Summon monster VI were required for a gigantic fiendish monstrous centipede to answer the call, and three of the same would be summoned by summon monster VII. The largest, colossal fiendish monstrous centipedes, required the spell summon monster VIII to be summoned, while the summon monster IX spell would have 3 colossal fiendish monstrous centipedes arrive and serve the caster.
+
+Appendix
+See Also
+ Carrion crawler
+ Giant insect
+ Spirit centipede
+ Megalo-centipede
+ Megapede
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Mold earth
+
+Mold earth was a transmutation cantrip that could move or temporarily shape a small volume of earth or stone.
+
+Effects
+The spell could be used for a variety of functions. It could instantly excavate and harmlessly move aside a volume of earth equivalent to a cube  on a side every 6 seconds, out to a range of . It was also capable of manipulating earth and stone to form shapes or written messages that lasted for 1 hour. Finally, it could smooth out a rough patch of terrain or cause an otherwise smooth patch to become rough and irregular, also up to 1 hour. Only two of these temporary effects could be active simultaneously, but the caster could choose to end them early.
+
+Components
+The spell required only somatic components.
+
+History
+The spell was popular among members of the Cult of the Black Earth in the late 15 century DR.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+References
+
+---
+
+## Moonshade
+
+Moonshade was a unique cloak of protection that could be found in the catacombs of Temple Darkmoon.
+
+Description
+The item functioned as a protective cloak with a +3 enchantment. It was stored in a hidden room in the second deepest level of the catacombs of Darkmoon. The room that held Moonshade also contained a longbow with eight enchanted arrows.
+
+Appendix
+Appearances
+Novels
+
+The Ring of Winter
+Video games
+''Eye of the Beholder II: The Legend of Darkmoon
+
+References
+
+---
+
+## Monster
+
+Monster was the eigth issue of the Spelljammer comics series and published by DC Comics. It was written by Barbara Kesel, drawn by Joe Quesada, and edited by Jim Owsley.
+
+Index
+In this index, only items with an article on the wiki or part of Forgotten Realms canon are provided with a link.
+Characters
+Bors • Hannous • Jasmine • Jien • Kirstig • Meredith • Rupau • Tember • Tenah • Wildfyre
+Creatures
+Human • Red dragon
+Locations
+Planets Boroda
+Magic
+Spell Bigby's grasping hand • Dispel magic • Finger of death • Wall of ice
+Spelljammers
+Smalljammer
+
+Appendix
+Notes
+
+External links
+
+---
+
+## Moon-touched sword
+
+A moon-touched sword was a magical sword.
+
+Powers
+When unsheathed in darkness, the sword emitted moonlight, bright enough to light up an area  in radius and dimly for an additional  in all directions.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Monsters & Creatures
+
+Monsters & Creatures is a 5‒edition Dungeons & Dragons guide featuring creatures, encounters, and story ideas intended for readers between 8 and 12 years old.
+
+Index
+
+Characters
+ •  •  •  •  •  •  •  •  •  •
+
+ •  •  •  •  •  •
+Creatures
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •  •
+Locations
+Buildings & Sites
+ •  •
+Cities
+
+Continents
+
+Forests
+
+Mountains
+
+Planes of existence
+  •
+Regions
+ •
+Appendix
+References
+
+---
+
+## Mordenkainen's force missiles
+
+Mordenkainen's force missiles was an uncommon evocation spell that created force spheres able to shoot out from the caster's fingers.
+
+Effects
+Somewhat experienced wizards could evoke a single powerful force missile into existence and fire it any foe that could be seen. The force missile would inflict damage to the initial target, then explode in a 3-foot (0.9 meter) radius, damaging all in the area. The exact amount of damage was proportional to the power of the caster. The missiles themselves were impossible to dodge or resist, but the explosion was possible to avoid.
+
+Extremely powerful wizards could evoke up to seven missiles. Each of these missiles could be fired at a single target, or multiple targets. The force globes could also shatter objects, particularly if they were delicately made. However, very sturdy objects, such as stone walls, would not be affected.
+
+The production and casting of the magical force missiles was very loud, and somewhat bright.
+
+Components
+The spell only required somatic and verbal components.
+
+Appendix
+See Also
+ Magic missile
+
+Gallery
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Mordayn
+
+Mordayn was a scarcely-located herb that grew in the southern forests of Faerûn.
+
+Uses
+When a poultice of mordayn was steeped in boiling water, it produced a distinct mist with hallucinogenic properties. This vapor was known as dreammist, a drug that was highly sought after and extremely addictive.
+
+Mordayn tea was a lethal poison. Similarly, ingesting the herb in its raw form, or ground into powder, also proved to be quite deadly.
+
+Appendix
+References
+
+---
+
+## Moment of clarity
+
+Moment of clarity was a divine abjuration spell that let a paladin help another creature shake off mind-affecting spells or effects.
+
+Effect
+On casting the spell, the paladin touched another being who was the victim of a mind-affecting spell or other effect and gave them an immediate second chance to break free of it. However, if that spell or effect allow the victim to break free on their own, moment of clarity could not aid them.
+
+Components
+It was verbal and somatic components and a divine focus.
+
+Appendix
+See Also
+ Moment of prescience
+
+References
+
+---
+
+## Moonbeam
+
+Moonbeam was an evocation spell that created a movable beam of light that penetrated darkness and forced lycanthropes to change shape.
+
+Effects
+The moonbeam was cone-shaped and originated from the caster's hand. Once each minute of the spell's duration, the caster could choose a different direction in which to point the beam. It was the intensity of the full moon and any lycanthropes caught in the cone of moonlight would involuntarily change into their animal form unless they could muster the will to prevent it. Likewise, were-creatures in the moonlit area already in animal form had to exert willpower to change back.
+
+Darkness spells of higher level blocked moonbeam but those of equal or lower level did not. Unlike light spells, moonbeam did not dispel or counter magical darkness of equal or lower level.
+
+Components
+Verbal and somatic components were required. The divine version worked off the caster's holy symbol or divine focus, while the arcane version required a pinch of white powder. After the Second Sundering, the spell required as materials a piece of opalescent feldspar and seeds of any moonseed plant.
+
+Notable Users
+ Cegilune's avatar was capable of casting moonbeam during a fullmoon, though her variant of the spell affected creatures like a symbol of insanity.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Mordenkainen's Magnificent Emporium
+
+Mordenkainen's Magnificent Emporium is an accessory for Dungeons & Dragons 4 edition. The book presents a number of new magic items and other equipment, as well as new feats related to weapon groups and the power strike power.
+
+Index
+Armors
+ •  •  •  •
+Characters
+
+ •  •  •
+Creatures
+
+ •  •  •  •
+
+Weapons
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Magic
+Clothing
+ •  •  •  •  •  •  •
+Items
+ •  •  •  •  •  •
+Rings
+
+Substances
+ •  •  •  •  •  •
+Weapons
+ •  •
+Misc
+
+Locations
+Planes
+
+Planets
+ •
+Miscellaneous
+Food & Drink
+ •
+Items
+
+Materials & Substances
+ •  •
+Tools
+ •  •  •  •  •
+
+ •
+
+Appendix
+
+---
+
+## Morin
+
+Morin was a gladiator who fought in the Arena of Hillsfar.
+
+Description
+Morin was an extremely tough opponent, but was not perfect. Due to the feathered helmet he wore, he would often give away where he would strike, due to the movement of the feathers. He would also raise his staff in the direction he was going to attack before he actually initiated the attack.
+
+History
+Morin fought in the arena circa 1358 DR.
+
+Appendix
+Appearances
+Video games
+ Hillsfar
+References
+
+---
+
+## Mortlock Vanthampur
+
+Mortlock Vanthampur  was the youngest son of Thalamra Vanthampur of Baldur's Gate in the late 15 century DR.
+
+History
+Mortlock was born to Thalamra Vanthampur and her third husband in the, who on his death asked her to look after Mortlock despite his many problems.
+
+When Mortlock was young, he was scarred across half of his face by a fire.
+
+In the, he was sent to the dungeon used by the Dead Three cultists under the bathhouse to assist them in planning attacks. After realizing he was of no use, his half-brothers conspired with several Bhaal cultists to assassinate him.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Baldur's Gate: Descent into Avernus
+Video Games
+Idle Champions of the Forgotten Realms
+
+References
+
+---
+
+## Mosk
+
+Mosk was a bugbear who worked for Nezznar circa 1491 DR and led the goblinoids under his employ.
+
+Description
+The bugbear leader more a jeweled leather eyepatch just for aesthetics, instead of practical purposes, as he had both eyes intact. He also carried 33 sp.
+
+Mosk led the goblinoids that worked towards the Black Spider's cause. He was a given a master key to the complex beneath Tresendar Manor.
+
+History
+In 1491 DR, Nezznar sent Mosk and his contingent of bugbears to Tresendar Manor to keep Iarno Albrek and the Redbrands under control.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mouth of Grolantor
+
+Mouths of Grolantor were hill giants that had been isolated from their peers and driven insane through prolonged starvation. After contracting a persisting sickness, often due to food poisoning, these extremely destructive giants were dangerous forces of voracity, and seen by other hill giants as a living embodiment of Grolantor's eternal hunger.
+
+Description
+As opposed to the typical bloated and barely awake hill giant, mouths of Grolantor were thin to the point of emaciation, extremely alert, and twitchy around the edges.
+
+Personality
+As a result of their prolonged starvation and imprisonment, mouths of Grolantor were completely insane, and as a result undeterred by fear of magical confusion. They killed indiscriminately and lashed out toward anything, be it a creature or otherwise, that they perceived as edible. Their rampage lasted until they were defeated or had eaten their fill, subsequently passing out among the remains of their destruction.
+
+Abilities
+Mouths of Grolantor were quicker than normal hill giants. For whatever reason, they magically recovered from injury when they consumed the flesh of others.
+
+Combat
+The utter madness of mouths of Grolantor made them impossible to predict in combat. They ran towards the nearest possible source of food and relentlessly attacked creatures at random within reach, sometimes bursting into a rage when that was impossible. They were even known to occasionally punch themselves or fall into a temporary stupor while in the middle of a fight. Their rampage lasted until they were defeated or had eaten their fill, after which they would pass out amidst the remains of their destruction.
+
+Society
+Thanks to their extremely resilient bodies, it was extremely rare for hill giants to become sick or poisoned by food. For that reason, it was a source of great upheaval and confusion when they did become ill or showed an incapacity to keep food down. Hill giants had developed their own superstition about this abnormality, determining that when a hill giant vomited, it was because Grolantor was attempting to use them to communicate to his followers. In reality, Grolantor did not communicate through omens.
+
+A sickened hill giant was kept isolated from the rest of his tribe, and often restrained by being tied to a post or kept in a cage. A hill giant priest or chieftain would frequently visit them, and attempt to interpret signs of Grolantor amid the regurgitated bile.  If the hill giant recovered, they were permitted to rejoin society (and would likely learn nothing from the experience) and otherwise would be intentionally starved to the point of madness. The hill giants believed that by doing so, they were allowing Grolantor a mouth with which his aching hunger could manifest in the world.
+
+A mouth of Grolantor was not regarded as a person, but as a holy vessel for Grolantor's divine voracity. They were kept restrained in perpetuity, and rarely set loose on purpose. One that did break free would be sure to kill a few hill giants before being brought down or escaping to go on a killing spree. On the other hand, the emaciated creatures might be unleased during raid, or as a last-ditch defense mechanism when they were under attack. Their tendency to pass out after sating their need to devour and destroy made them easy to recapture.
+
+Appendix
+Appearance
+Miniatures
+Icons of the Realms
+
+References
+
+Connections
+
+---
+
+## Mormesk
+
+Mormesk was a human mage and the last defending wizard against Uruth Ukrypt's raid on the Wave Echo Cave. He was turned into a wraith that haunted the cavern for over half a millennium.
+
+Description
+The human wizard was said to be a powerful spellcaster. He coveted treasure and wealth, both in life and in undeath. As well as general wealth, Mormesk desired magical equipment, such as spellbooks, but also longed for arcane knowledge.
+
+History
+In 951 DR, the mountain orcs of Uruth Ukrypt along with mercenary wizards laid waste to the village of Phandalin. They descended to the Wave Echo Cave, where Mormesk was currently staying. An explosive spell battle broke out, and many combatants on both sides were slain. Mormesk held out the longest, slinging spells at the incoming horde, but eventually fell.
+
+After his fall, he was transformed into an evil ghostly apparition, a wraith. His hatred and anger fuelled this change, and Mormesk rose up to lead the undead of the cavern. He stayed in the quarters of the visiting wizards, wishing that the spectator lurking in the Forge of Spells would be dealt with. His undead units had been unable to gain victory over the beholderkin. The wraith was even willing to part with his coins and gems, and even let the party peruse his books, which he much favored. However, he would not give up his wooden and platinum pipe.
+
+Appendix
+References
+
+---
+
+## Mobat
+
+Mobats, or huge bats, were rare and extremely large bats, with wingspans of up to  across.
+
+Description
+These huge omnivores, apart from their large size, were known for their ability to move quickly and silently. They hunted during the night, always on the look out for warm-blooded creatures.
+
+Mobats were known to hibernate during the winter.
+
+They were also favored by the patron deity of urds, Kuraulyek, who would send them out to aid the clerics of his chosen race. Mobats were also occasionally used by drow wizards as familiars.
+
+Behavior
+Mobats would, during the night, try to grab leftovers or small animals that were kept by adventurers. Far more intelligent than normal bats, mobats would accumulate treasure, especially shiny objects and silver.
+
+Combat
+Due to their almost completely silent and speedy flight, mobats surprised their foes very often. After initiating combat, these bats used their sizeable fangs to bite and tear at their opponents. Piercing screams also formed parts of their attack routines. These screams caused a great deal of pain, such that their foes were forced to cover their ears in response.
+
+Sub-Species
+Thousand-year Bat These were a type of mobat found in Kara-Tur on the island of Akari. Some acted as servants of the evil sorcerer Opawang.
+
+Ecology
+These bats formed flocks of up to eight individuals and dwelt in warm caves.
+Habitats
+They were found in many places across Faerûn, particularly in Daggerdale, the midwood of the Cormanthor forest, the cavern complexes east of Mount Hotenow,  the grand canyon of Deepearth, and the Stalactite Forest of Skullport's central level.
+
+Beyond the Prime Material plane, mobats could be found in the Domains of Dread. With some claiming that they and other bat species were more numerous there than in any other plane of existence.
+
+Summoning
+ Ragarran priests were capable of summoning two mobats to their aid.
+ Others could summon a mobat ally with the use of the summon monster I spell.
+
+Trivia
+ The demigod Raxivort's avatar could take the form of a mobat.
+
+Appendix
+See Also
+ Shadkyn
+Appearances
+
+References
+
+Connections
+
+---
+
+## Mordenkainen's defense against lycanthropes
+
+Mordenkainen's defense against lycanthropes was a spell that improved the chances of surviving an attack by lycanthropes.
+
+Effects
+The spell prevented the caster or a targeted creature from contracting lycanthropy. This was only successful if attacked after the spell was cast, as the spell did not offer this protection on a creature who was attacked before casting.
+
+Components
+In addition to verbal and somatic components, the spell required a material component, a moonstone with a value of at least 30 gp. It was crushed during casting.
+
+Appendix
+References
+
+---
+
+## Mordenkainen's defense against nonmagical reptiles and amphibians
+
+Mordenkainen's defense against nonmagical reptiles and amphibians was a spell that improved the chances of surviving an attack by reptiles and amphibians.
+
+Effects
+This spell allowed the caster or a targeted creature to have increased ability against all amphibians and reptiles. This included dinosaurs and giant versions of the species. This spell had no effect against magical amphibians and reptiles, such as dragons.
+
+Components
+In addition to verbal and somatic components, the spell required material components, a piece of snake skin and a desiccated leg of a frog. These were to be placed in a pouch made from tough leather.
+
+Appendix
+References
+
+---
+
+## Mordenkainen's electric arc
+
+Mordenkainen's electric arc was an uncommon spell that caused arcs of electrical energy to erupt from the caster's fingers.
+
+Effects
+The caster was able to target a single creature or multiple at once. The number of arcs created was determined by the caster's skill level. The caster was only able to direct a single arc to each target creature.
+
+Components
+In addition to verbal and somatic components, the spell required material components: a rod made of glass and a piece of fur.
+
+Appendix
+References
+
+---
+
+## Mordenkainen's encompassing vision
+
+Mordenkainen's encompassing vision was an uncommon spell which increased a caster's vision.
+
+Effects
+When cast, the visual ability of the caster increased greatly. It allowed the caster to have a full 360-degree view. Additionally, it was able to function alongside infravision, ultravision, and X-ray vision. If this spell was cast with the detect invisibility spell, the caster was able to see invisible creatures, as well as astral and ethereal creatures.
+
+Components
+In addition to verbal and somatic components, the spell required a material component: a special crystal disk with eight eyes carved into it.
+
+Appendix
+References
+
+---
+
+## Mordenkainen's faithful phantom defenders
+
+Mordenkainen's faithful phantom defenders was an uncommon spell that summoned spectral defenders.
+
+Effects
+With this spell, a caster was able to summon spectral creatures to protect them from attacks. It was often used to give the caster time to cast a complicated spell while in battle. The spell allowed the caster to choose from four types of phantom defenders: two centaurs, three soldiers, five sharks, or eight giant bats.
+
+While the phantom defenders appeared as solid, tangible creatures to others, to the caster they appeared transparent and incorporeal. As they were not affected by spells cast by the caster, the caster was able to launch spells through them towards their enemies. This spell was unable to be cast in the phlogiston.
+
+Components
+In addition to verbal and somatic components, the spell required material components: a lead figure of the creature to be summoned and an expensive emerald. The emerald had to be valued at least 1,000 gp and was consumed during casting.
+
+Appendix
+See Also
+Mordenkainen's faithful phantom guardian
+Mordenkainen's faithful phantom shield-maidens
+References
+
+---
+
+## Mordenkainen's faithful phantom guardian
+
+Mordenkainen's faithful phantom guardian was an uncommon spell that summoned a spectral guardian.
+
+Effects
+With this spell, the caster was able to summon a phantom guardian for protection. The guardian watched over the caster from the Ethereal Plane. The guardian was able to see everything around the caster in a  radius. It was able to see astral, duo-dimensional, ethereal, invisible, or out-of-phase creatures. If the guardians detected a threat to the caster, they instantly appeared on the Prime Material Plane next to the caster. The guardian did not speak and appeared as a transparent figure outlined with a faint shimmering purple light. It fought to defend the caster until either the threat was eliminated or the guardian itself was destroyed. The caster was able to summon the guardian to their side at any time after the spell was cast. This spell was unable to be cast in the phlogiston.
+
+Components
+In addition to verbal and somatic components, the spell required a material component: an expensive diamond, which had to be valued at at least 1,000 gp and was given to the guardian during casting.
+
+Appendix
+See Also
+Mordenkainen's faithful phantom defenders
+Mordenkainen's faithful phantom shield-maidens
+
+References
+
+---
+
+## Mordenkainen's faithful phantom shield-maidens
+
+Mordenkainen's faithful phantom shield-maidens was an uncommon spell which summoned a pair of spectral guardians.
+
+Effects
+With this spell, the caster was able to summon a pair of phantom shield-maidens to their side. The shield-maidens protected the caster from all enemies within  of the caster. They remained close to the caster so their two shields could provide cover. They always remained within  of the caster, even if ordered to go farther by the caster. This spell was unable to be cast in the phlogiston.
+
+Components
+In addition to verbal and somatic components, the spell required material components, a small figure of the caster made from wood with a pair of shields made from crystal tied to it.
+
+Appendix
+See Also
+Mordenkainen's faithful phantom defenders
+Mordenkainen's faithful phantom guardian
+References
+
+---
+
+## Mordenkainen's lucubration
+
+Mordenkainen's lucubration was an uncommon spell that allowed a caster to instantly remember a spell. To Zakharan mages, always reluctant to acknowledge ajami names and accomplishments, the spell was known simply as lucubration, and counted among the spells of the universal province.
+
+Effects
+When cast, the caster was able to remember any spell they had successfully cast in the previous 24 hours. They were only able to recall low-to-mid level spells and only a single spell. If the recalled spell required material components to cast, the caster had to have them available to successfully re-cast the spell.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+Appearance
+
+References
+
+---
+
+## Mordenkainen's protection from avians
+
+Mordenkainen's protection from avians was an uncommon protection spell.
+
+Effects
+When cast, the caster was given protection from attacks by most avian creatures. The caster could cast this spell on another individual, but they had to come into physical contact during casting.
+
+Components
+In addition to verbal and somatic components, the spell required a material component, a feather with a strip of leather wrapped around it. The feather could come from any bird species.
+
+Appendix
+References
+
+---
+
+## Mordenkainen's protection from insects and arachnids
+
+Mordenkainen's protection from insects and arachnids was an uncommon protection spell.
+
+Effects
+When cast, the caster was given protection from arachnid and insect species. This included swarming insects, scorpions and spiders. The spell also offered protection from the giant-sized version of insects, such as giant scorpions. Additionally, the caster was protected from the venom from arachnid or insect bites or stings.
+
+Components
+In addition to verbal and somatic components, the spell required a material component, an insect encased in amber.
+
+Appendix
+References
+
+---
+
+## Mordenkainen's protection from slime
+
+Mordenkainen's protection from slime was an uncommon protection spell.
+
+Effects
+When cast, the caster was given protection from molds, oozes, puddings and slimes. It also protected against other primordial creatures with no form. The spell itself was vulnerable to attack by a slime-based creature, if said creature was strong enough, they could cause the spell to expire prematurely.
+
+Components
+In addition to verbal and somatic components, the spell required material components, a piece of mold from spoiled food mixed with a small amount of dust from a diamond, squished between two stones.
+
+Appendix
+References
+
+---
+
 ## Moonwell
 
 A moonwell was a magical pool of water in the Moonshae Isles that was sacred to the Earthmother and her druids. They were said to be a connection between the Earthmother's "body"—the land of the Moonshaes—and her "spirit".
@@ -1816,6 +12014,1756 @@ References
 
 ---
 
+## Mordenkainen's Fiendish Folio, Volume 1: Monsters Malevolent and Benign
+
+Mordenkainen's Fiendish Folio, Volume 1: Monsters Malevolent and Benign is a supplement for 5-edition Dungeons & Dragons, focusing on creatures that first appeared in the 1-edition Fiend Folio.
+
+Index
+Characters
+ •  •  •  •  •  •  •
+
+Creatures
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Locations
+
+ •  •  •  •  •  •  •  •
+
+Magic
+Items
+
+Organizations
+
+Appendix
+External Links
+
+References
+
+---
+
+## Moss skull
+
+Moss skull was a divine evocation spell that conjured a skull-shaped projectile.
+
+Effects
+When cast, the spell manifested an explosive, moss-covered skull that streaked towards a target person or creature. When it struck, the moss skull detonated in a blast of ice and fire.
+
+The projectile could be detonated mid-flight, willed away by the caster or outright destroyed, if it was struck by fire or ice.
+
+History
+The specifications of this spell were inscribed within the relic known as the Leaves of Green.
+
+Components
+In order to be cast, this spell required verbal and somatic components, along with a number of material components: a shard of human bone, a pinch of ash from organic material, and an additional piece of bone taken from a dead, frostbitten creature.
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Moonfire (spell)
+
+Moonfire was a divine necromancy spell that released a blast of lunar energy that was particularly harmful to the undead.
+
+Effects
+When this spell was cast, the cleric shot forth a broad beam of "white fire". The blast of moonfire was cold, rather than hot, and shot forth in 10-foot-wide (3.0 meter) arc that extended out for 30 feet (9.1 meters).
+
+In addition to damaging and chilling those caught in its blast, moonfire revealed any magical auras, repelled electrical bolts, and greatly damaged the undead.
+
+History
+This spell was contained within the rings that composed the Moonweb.
+
+Components
+This spell required verbal and somatic components in order to be cast.
+
+Appendix
+References
+
+---
+
+## Moon dog
+
+Moon dogs were celestials native to the Blessed Fields of Elysium.
+
+Description
+Moon dogs resembled large dogs, about  tall at the shoulder, with silvery fur and obsidian-black eyes. Moon dogs had opposable digits on their front paws, allowing them to use those paws as hands. Additionally, the face had some slight human characteristics.
+
+Personality
+Moon dogs were relentless hunters of evil. Because of this, they rarely associated with anyone for long. They were generally friendly to other good creatures.
+
+Abilities
+Moon dogs spoke the languages of celestials and devils, as well as Common. They could also use telepathy to communicate with creatures within 50 feet of them.
+
+Moon dogs possessed a wide variety of abilities, including a number of magical powers. Among them, they could always detect evil, magic, traps, and invisibility. By licking a wound, they could slow poison, remove disease, or even completely heal a minor one.
+
+Moon dogs could dispel illusions by whining. By barking, a moon dog could dispel evil. When one bayed, it instilled fear in all evil creatures within 80 feet of it. And when a moon dog howled, all evil creatures within  of it were damaged and possibly dismissed. The more moon dogs that were howling, the harder it was to resist the dismissal effect.
+
+Notable Moon Dogs
+ Cooteu, leader of the Moonshadow Pack of wolves near Shadowdale.
+ Lunapine, companion of Naneatha Suaril, high priestess of Selûne at the House of the Moon temple in Waterdeep
+
+Appendix
+
+See Also
+Blink dog
+Foo dog
+Hound archon
+Lupinal
+Yeth hound
+Appearances
+Adventures
+Curse of the Azure Bonds • Dungeon #69, "Sleep of Ages" • Shadowdale: The Scouring of the Land
+Card Games
+Blood Wars
+
+References
+
+Connections
+
+---
+
+## Moon shield
+
+Moon shield was a multi-school divine spell that conjured a incorporeal shield of shimmering lunar energy.
+
+Effects
+When this spell was cast, the moon shield materialized near the caster and floated beside them. It appeared to be made of pure moonlight and provided illumination as such.
+
+The moon shield partially protected the caster from death magic, spells that fell under the sun sphere, and effects that emanated from the undead.
+
+History
+This spell was contained within the rings that composed the Moonweb.
+
+Components
+In addition to verbal and somatic components, this spell required the material components of a small piece of silver and a moonstone of nearly any size.
+
+Appendix
+References
+
+---
+
+## Mornbryn's Shield
+
+Mornbryn's Shield was a village at the confluence of the River Surbrin and the Laughingflow in the Savage Frontier. The hamlet was named for the ranger Mornbryn and it sat on a natural rampart enclosing the west and south sides of the settlement.
+
+Geography
+
+Mornbryn's Shield was located in the wet and humid climate of the edge of the Evermoors, with the ridge that was one of the hamlet's namesakes protecting it from the spring floods of the rivers Surbrin and Laughingflow.
+
+Apart from the lost treasures of gems, coins, and magic items, the rocks of the Mornbryn's Shield were rich with durneth, a very rare, weighty, and dense stone that was known among dwarves for its ability to conceal magical auras.
+
+Description
+The hamlet was a small settlement of about thirty buildings made of stone. The layout of the village was guided by the meeting rivers into a triangular shape. The namesake ridge, the Shield, protected the hamlet from the severe spring floods of the two rivers, and the houses stood behind the ridge and remained around  above the flood level. The Shield ridge itself rose  up above the ground on the opposite side from the rivers. That part of the ridge was chiseled away to make a walkway into the hamlet with a rampart guarding it.
+
+A small stone keep with a garden of old and twisted trees within a circular wall was located on the north-east of the village. The garden was an old shrine to Mielikki. The keep was the center of the town's militia and its armory. The keep housed fire-loaded catapults, fire pot missiles, and up to 250 suits of full plate armor.
+
+Defenses
+
+The keep was magically protected by a shroud of mist with fourteen helmed horrors ready to attack anyone not carrying a ward token.
+
+Inhabitants
+Mornbryn's Shield was home to a hardy folk who endured the dangers and weather of the Evermoors on a daily basis. The dangers included bone-chilling humid winds and damp fogs with hungry trolls lurking hidden from view. The fog, humidity, and winds often dulled and extinguished the fires and torches that scared the trolls away.
+
+Even with all the dangers, the inhabitants of the Mornbryn's Shield were no more than shepherds, fishers, and moss farmers, the main export for the village.
+
+Trade
+The main export of Mornbryn's Shield was the Shield moss that was cultivated and grown by the folk of the hamlet. The moss possessed medicinal properties, was used as a secret ingredient by perfume makers of Amn and Waterdeep, and was consumed as a fashionable dish among the nobility of Calimshan, Waterdeep, and Tethyr. Traders often arrived at Mornbryn's Shield on barges and boats, purchasing a hold-fulls of Shield moss.
+
+The wet climate of the area also supported vegetable growth, providing the locals with food, and the mossy pastures were used to breed tough ponies for the locals to use in everyday tasks.
+
+In the late 1400s DR, the fishermen of Mornbyrn's Shield caught giant clams and giant fish from the two rivers.
+
+Significance
+The shrine of Mielikki attracted many of the rangers of the North to travel on a pilgrimage to the damp hamlet of Mornbryn's Shield.
+
+History
+The famous ranger Mornbryn was active in the North circa 965 DR. According to local legend, after his death, he was buried in an underground tomb somewhere in the area of Mornbryn's Shield. His tomb was rumored to hold all of the rewards he refused to accept in life but which adoring people had left with his body to be taken to the afterlife.
+
+A few weeks after Triboar was assaulted by fire giants and their minions in the late 1480s DR, four of their kind walked through town, causing a small amount of property damage. Zhentarim agents spun this happenstance as a grave assault on the village and its citizens. Their mercenary leader, Oboth Thornsteel, used the Troll in Flames as the headquarters for their operations. While they arrived as "peacekeepers" they proved to be quite intrusive and spent most of their time seeking out the fabled tomb of Mornbyrn.
+
+In the late 1490s DR, there was an incident where a giant fish somehow swallowed a small tabaxi child. Fishermen caught it and hauled it ashore, and the paladin Xenk Yendar calmed the fish and withdrew the child, alive and well, and returned it to its mother. Afterward, the thieves Edgin Darvis, Holga Kilgore, Simon Aumar, and Doric met and spoke with him.
+
+Notable Locations
+Shops
+ Caldreth's Cobbling: Caldreth Wyvernlyng's store, where he crafted and sold boots, cloaks, and his pride, waterproof waxed river-waders.
+ Caldreth's Pickles, Nuts, and Foods: A store selling staple foodstuffs to snacks and concealing a sanctuary for the Harpers.
+
+Taverns and Inns
+ Maid of the Moors: Beldora Thiiruin's restaurant, known for being a happy place. The restaurant served a small but hearty menu.
+ Troll in Flames: The closest thing to an inn a traveler could hope for in this tiny hamlet. The Troll had only four rooms they rented out to travelers and merchants. The inn did have a limited selection of brews and ales as well as a one-item meal menu.
+
+Temples & Shrines
+ Mornbryn's Shield had a humble shrine dedicated to Mielikki, the Lady of Forests, which included a small altar to the Master of Tracking, Gwaeron Windstrom.
+
+Rumors and Legends
+Legends placed Mornbryn's tomb somewhere within the hamlet of Mornbryn's Shield or its surrounding rocky areas. The tomb was an underground complex of rooms filled with the treasures of the legendary hero. Even though some claimed the tomb was found long ago, with Mornbryn's Shield built around it to secure the tomb from plunderers, others said the treasures were still undiscovered.
+
+Many ranger pilgrims left their tributes on the tree shrine of Mielikki but they mysteriously disappeared the following day. The locals whispered about "the Sisters Who Serve" who arrived in the night to take the tributes away. It was unknown who these "Sisters" were or where the tributes went. Elminster claimed that the legend was nothing more than melodrama, with the Sisters being human rangers and the gifts to Mielikki taken into Mornbryn's Tomb under the hamlet.
+
+Circa 1366 DR, a rumor about at least one doppelganger keeping eye on the villagers and traders circulated among the locals. They claimed the doppelganger spied for the ever-persistent trolls looking to raid and ambush.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Morinn
+
+Morinn was the king of Citadel Felbarr as of the late 15 century DR.
+
+Personality
+Like his queen, Morinn was known for being a particularly wise ruler.
+
+Relationships
+Morinn shared equal authority over her people along with his wife Tithmel. The two were distant relatives of the famous dwarven king, Emerus Warcrown.
+
+Possessions
+Morinn owned a splendid suit of ceremonial armor, forged for him by the Royal Armorer, Ghelryn Foehammer.
+
+History
+Some time after the War of the Silver Marches of 1485 DR, the Morinn and Tithmel received accounts of fire giants passing through the hills located to the northwest of Citadel Felbarr. Fearing the worst, they employed a band of adventurers to investigate the subterranean fire giant forge known as Ironslag.
+
+Appendix
+References
+
+---
+
+## Morhion's tower
+
+The Morhion's tower was a laboratory tower in Iriaebor owned by the mage Morhion Gen'dahar in the mid–14 century DR.
+
+Location
+The tower stood on the Street of Runes, close to the High Altar of the Moon, on the eastern side of the Tor.
+
+Structure
+The tower looked like it had crumbled years before, the roof was caved in, and dead vines hung from the tower walls. However, the tower was actually covered in an illusion, making it only look like it was dilapidated.
+
+Interior
+The tower has many floors. Morhion's study was an octagonal chamber at the top of the tower. Tidy bookshelves stood along the walls and the floors were covered with intricate Sembian rugs. The chamber had a hearth and it was lit by dozens of candles and scented with dried herbs that provided a faint, sweet, dusty fragrance. In the room there was a table of polished rosewood.
+
+Below the tower, there was a magical portal. It was made by a powerful conjurer who dwelt in the tower many years before. The portal was in a circular room made of stone.
+
+Appendix
+References
+
+---
+
+## Mosque of a Thousand Hummingbirds
+
+The Mosque of a Thousand Hummingbirds was a temple in Dihliz dedicated to the worship of Selan in 1367 DR.
+
+Description
+This impressive house of worship had many tiers and towers. Beautiful flowers and pomegranate trees filled the numerous balconies and ledges. Hummingbirds and winged serpents attended the lively vegetation of the ledges and the gardens below.
+
+Activities
+The Mosque was directly supported by the court in Afyal. Because of the rather loose judiciary system found in Dihliz, the priests and priestesses of Selan often held positions of authority.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mosque of the Revered
+
+The Mosque of the Revered was a temple in Dihliz dedicated to the worship of Kor in the mid–14 century DR.
+
+Description
+The facade of the mosque was slightly worn and faded, despite its prestigious location near the Ivory Palace.
+
+Activities
+In 1367 DR the mosque was supported almost entirely by donations from visitors from the Cities of the Pantheon. Kor did not have a strong following in Dihliz when compared to Selan, meaning the mosque often fell into financial hardship. Because of this, priests of Kor would bestow their spells on anyone making a sizable donation without hesitation or questioning their motives.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mosque of the Sacred Fountain
+
+The Mosque of the Sacred Fountain was a temple in Dihliz dedicated to the worship of Zann in the mid–14 century DR.
+
+Description
+The mosque was situated in the north central area of the city. It sat across the main boulevard from the Ministry of Secrets.
+
+A large exalted fountain could be found within the central courtyard.
+
+Activities
+Many supplicants came to the mosque in search of wisdom or divine inspiration for their treasure hunts. The priesthood greatly favored those who sought knowledge over riches.
+
+Many scrolls were held within the mosque, though the jungle humidity was a constant threat to their condition. Outsiders were allowed to read the scrolls, but the ruins they described were plundered long ago as of 1367 DR.
+
+Inhabitants
+Countless wasps and black hornets made their home in the fountain. A colony of giant mason wasps also lived within the mosque and were even taught to speak midani by the priests.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Moonglow
+
+Moonglow was a wizard spell used to conjure faint light.
+
+Effects
+This spell created a faint bluish white light resembling the natural light of the moon. The light was centered on an item chosen by the caster. Anything larger than an average human would only be partially illuminated by the spell. The caster needed to see the subject to center the spell upon it.
+
+Though the light created was not bright enough to read small scripts, larger markings were easily discernible.
+
+Contact with any spell that created magical darkness would cancel the spell.
+
+Components
+Moonglow only required verbal and somatic components to cast.
+
+Notable Uses
+The House of the Moon, a temple to Selûne in Waterdeep, had outer walls painted with overlapping moonglow spells to display the faith's teachings.
+
+Appendix
+References
+
+---
+
+## Moving Day
+
+Moving Day is an adventure module set in the Forgotten Realms using the Dungeons & Dragons 5 edition ruleset. It is part of the Waterdeep series of adventures published for the D&D Adventurers League. It focuses on Undermountain, and is an adventure designed for 17- to 20-level characters. It is part three of the Home Sweet Home Trilogy.
+
+Index
+Characters
+Berlain Shadowdusk • Artor Morlin • Hannelore Shadowdusk • The Entity
+
+Halaster Blackcloak
+
+Creatures
+boneclaw • death knight • deathlock • demilich • dracolich • human • star spawn • vampire
+Locations
+Dungeons Undermountain
+Inns & Taverns The Tempted Paladin
+Region Sword Coast
+Settlements Skullport • Waterdeep
+
+Far Realm
+Magic
+Items rod of resurrection
+Potions potion of healing
+Spells arms of Hadar • banishment • blight • chill touch • circle of death • command • compelled duel • counterspell • crown of madness • cure wounds • destructive wave • dimension door • dispel magic • divination • dominate monster • eldritch blast • elemental weapon • fly • greater restoration • hold monster • hold person • identify • invisibility • lesser restoration • mage hand • magic weapon • minor illusion • poison spray • prayer of healing • raise dead • remove curse • revivify • searing smite • speak with dead • staggering smite • true resurrection
+Organizations
+Player Factions  Emerald Enclave • Harpers • Lords' Alliance • Order of the Gauntlet • Zhentarim
+
+Credits
+ D&D Adventurers League Guildmaster: Chris Lindsay
+ D&D Adventurers League Wizards Team: Chris Lindsay, Adam Lee, Mike Mearls, Ari Levitch
+ D&D Adventurers League Administrator(s): Claire Hoffman, Lysa Chen, Travis Woodall, Greg Marks, Alan Patrick, Amy Lynn Dzura
+ Art Director and Graphic Designer: Rich Lescouflair
+ Interior Art: Provided by Wizards of the Coast
+Appendix
+External Links
+
+ Waterdeep Adventurer's League
+
+References
+
+Connections
+
+---
+
+## Mooncloak (spell)
+
+Mooncloak was an abjuration and evocation wizard spell.
+
+Effects
+The caster could cloak themselves or another recipient within eyesight with moonlight. Anyone within  of the recipient enjoyed special protection against cold, lightning and any attack that drained their knowledge of skills. The recipient could also choose to forget a memorized spell in exchange for healing magic. The recipient and one other target of their choosing could be healed in this manner.
+
+Components
+In addition to verbal and somatic components, this spell required as material components a moonstone or other valuable gemstone to cast. This spell would only function at night under moonlight.
+
+Appendix
+References
+
+---
+
+## Mount Clangeddin
+
+Mount Clangeddin was an enormous mountain in Abellio, the first layer of Arcadia. It was the divine realm of Clangeddin Silverbeard according to the Great Wheel cosmology.
+
+Description
+The realm was a perfectly conical mountain over  tall. Its peak was permanently obscured by stormy clouds. The mountain interior was riddled with tunnels and passages that opened to the surface to let natural light in, perfectly straight halls and corridors that looped and bent as they followed the mountain's curvature.
+
+All entries into the mountain were extremely well defended by einheriar patrols and by carefully laid out traps. At the same time, the realm was very welcoming to visitors, who were nevertheless kept under close watch. The realm had numerous forges, armories, and shops that provided works of excellent quality.
+
+A single city spanned the entirety of the realm. It was divided into nine districts that more or less specialized in different activities, such as healing or mining. The lowest halls were the city's unsavory underside, where darker and more violent dealings took place.
+
+Cosmography
+A portal in the city of Berronar's Side connected the realm of Erackinor in Solania to Mount Clangeddin.
+
+Inhabitants
+All inhabitants of Mount Clangeddin were trained for battle. The realm's petitioners and einheriar were frequently sent out to raid the Lower Planes, in particular Acheron, to fight against their old enemies, the goblins and orcs. Unlike in other planes, petitioners who died outside of Mount Clangeddin did not fade into nothingness, but had their essence returned to the plane of Arcadia.
+
+Appendix
+See Also
+ Dwarfhome
+References
+
+Connections
+
+---
+
+## Moneylenders' Coalition
+
+The Moneylenders' Coalition was a group of individuals that operated in Daggerford during the mid–14 century DR. They increased their wealth by lending money to others on the conditional of repayment.
+
+Activities
+The coalition offered loans to entrepreneurs and prospective business-owners, along with those people interested in undertaking a life of adventure. They charged 10% interest on business loans and 20% on adventuring loans.
+
+To ensure they received payment, they put borrowers under the effect of a geas spell or placed upon their finger a cursed ring that ensure they would return to their headquarters once every three tendays. These effects were negated when the loan was paid off in full.
+
+Base of Operations
+Their headquarters was located in the town's River Quarter.
+
+Appendix
+References
+
+---
+
+## Mosque of Tyr
+
+The Mosque of Tyr was a temple-stronghold dedicated to the Maimed God, that was located in the Delimbiyr Vale. It was run by the elven priest, Elorshin Floshin.
+
+Location
+The mosque was about a two day's travel east from the town of Daggerford.
+
+Activities
+It catered primarily to those individuals that were traveling along the Trade Way, between Daggerford and Waterdeep.
+
+Appendix
+References
+
+---
+
+## Morlin Castle
+
+Castle Morlin was the seat of power for the Barony of Steeping Falls until its collapse in the early 5 century DR. It was named after the vampire known as the Baron of Blood, Artor Morlin.
+
+Location
+The castle was located on the side of a hill overlooking the Delimbiyr River.
+
+Structure
+Beneath the castle was a winding network of dungeons. These remained for over a thousand years after the castle's destruction.
+
+History
+In the 3 century DR, the castle stood at the eastern edge of the Halangorn Forest and its lord claimed the title Lord Protector of the Sword Hills in addition to Baron of Steeping Falls.
+
+After the collapse of the barony, in the  the castle became the lair of horrifying beasts and malevolent undead. Folks from the surrounding areas avoided the ruins of the fallen castle.
+
+In the, the young merchant's son Tyndal famously defended his family from a band of lizardfolk armed with only a dagger, very near the castle's former location. Some 16 years later he founded his own duchy, and began construction of Castle Daggerford directly over its ruins.
+
+Appendix
+Appearances
+Novels
+ Elminster: The Making of a Mage • The Best of the Realms II: "Not the Most Successful of Feasts"
+Adventures
+
+Dungeon #127: "Vampires of Waterdeep: Dungeon of the Crypt" • Dungeon #128: "Vampires of Waterdeep: The Fireplace Level"
+
+References
+
+---
+
+## Mount Alue
+
+Mount Alue was a dominant peak found in the Nathaghal Mountains in Halruaa.
+
+Geography
+Mount Alue was situated near the center of the Nathaghal Mountains. It's snow-capped peak was the source of the River Aluar.
+
+Notable Locations
+ River Aluar
+
+Appendix
+References
+
+---
+
+## Morbaat
+
+Morbaat was a female vrock sent to uncover a legendary bloodforge for General Raachaak circa 1371 DR.
+
+History
+In 1371 DR, Morbaat, Shaakat, and Rejik were ordered by General Raachaak to find a way into the city in the Utter East that contained a fabled bloodforge. Morbaat stood out of line when she asked Raachaak if the vrocks were better off capturing the bloodforge instead of simply scouting the way into the city. In punishment, the vrock was stomped into the ground by the general and slashed with his fiery whip until she stopped screaming and ceased convulsing in agony.
+
+Appendix
+Appearances
+Novels
+The Paladins
+Notes
+
+References
+
+---
+
+## Mondar
+
+Mondar was a dwarf and resident of Dalekeva.
+
+History
+Circa, a group of Netherese hunters preyed on the masses nearby Dalekeva. A dwarf known as Dorlas heroically slew one of the riders, but died in the process. Mondar and two other dwarves worked through the night to construct a coffin for the dwarven hero. Mondar led the funeral, and invited two of Dorlas's comrades, Sunbright Steelshanks and Greenwillow, to sprinkle soil upon his coffin before it was sent down the river.
+
+Dorlas's items were distributed by Mondar to other members of the funeral, and the barbarian, Sunbright, accepted Dorlas's warhammer to honor him. Mondar promised to pass the word to Dorlas' relatives that lived in the Iron Mountains.
+
+Appendix
+Appearances
+Novels
+ Sword Play
+
+References
+
+---
+
+## Morninggold Keep
+
+Morninggold Keep, also called Gold Keep and Castle Morninggold, was the county seat of County Morninggold in the Golden Marches of Tethyr. It was the former home of then-countess and later queen Zaranda Star.
+
+Location
+The small keep was located in a broad valley around a corner of foothills in the northern regions of the Iltkazar Highlands, near the Shining Stream.
+
+White and brownish-red cows grazed in the fields surrounding the manor.
+
+Structure
+The building was a fortified house, with two- and three-story sections, constructed with granite from the Snowflake Mountains. The pitched roof was tiled in red half-tubes. A stone path led up to the arched front doorway.
+
+Attached to the back of the house was a circular tower, which was older than the rest of the structure. Its smooth rounded stones were a yellowed fieldstone, which looked like gold when the setting sun shone on it. Its lower heights were covered in ivy.
+
+Surrounding the main manorhouse were a few other stone buildings, including a set of stables. There was also a vegetable garden.
+
+Defenses
+There was no wall or moat, but the building was surrounded with thorny rosebushes. It had been built and/or rebuilt with defense in mind. The earlier low, broad, arched windows had been covered with stone and positioned higher in the form of narrower slits crossed with arrow loops. The upper windows of the tower were open to the air but crossed with bars.
+
+Interior
+The great hall had a hearth large enough for three adult men to stand within. Above it hung a boar-spear. On another wall were a pair of crossed battleaxes and an old shield. A candle chandelier hung from the high, timbered ceiling.
+
+During Zaranda Star's time as owner, she kept the rooms furnished with beds with feathered mattresses and had at least one hot-water tub for soaking. The master bedroom was located at the top of the tower keep, below an observatory for watching the stars. The observatory was accessed by a series of extra-steep stairs.
+
+Furnishings
+During Zaranda's ownership, the master bedroom contained a chest of drawers decorated with relief sculptures of smiling goblin heads. The bed was made of oak and had four spiraling columns supporting a silk canopy with fringes, which Zaranda had looted off a Tuigan chieftain during the Tuigan War. The bedspread was embroidered with images of elks and penguins.
+
+History
+The keep and its county at first belonged to the Gulderhorn family of Tethyr.
+
+After the fall of the country into anarchy on the Ten Black Days of Eleint, former adventuress and commander in the Tuigan War Zaranda Star used the spoils of that war to purchase County Morninggold and its keep from the Order of the Silver Chalice in, to help fund the Order's operations in restoring nobility in the land. Zaranda spent most of her initial time as countess at the keep, restoring it and fixing it up to her liking. However, her funds began running low, so she sought a means to pay off her debt and retire at the keep. Her solution was to obtain expensive magical items from Unther and Thay and then sell them in the city of Zazesspur.
+
+The journey did not end quite as she had planned, and she found herself entangled in war and political intrigue that ultimately led to her rising to the leadership of a resistance movement and her crowning as the queen of Tethyr over the course of a year. At the end of the Reclamation Wars in, Queen Zaranda restored Aalangama Gulderhorn's lands and titles back to her family as a reward for her bravery and leadership in the battle.
+
+Inhabitants
+When Zaranda Star lived in the house, she was served by the bugbear Gisbertus as a butler and head steward and sometimes cook.
+
+Countess Gulderhorn, the keep's owner from, split her time equally between the keep and Mount Noblesse, the headquarters of the Order of the Silver Chalice.
+
+Appendix
+Notes
+
+Appearances
+ War in Tethyr
+
+References
+
+---
+
+## Mong Ithal
+
+Mong Ithal was a chieftain of Clan Ithal during the First Age of Tethyr.
+
+Personality
+Mong Ithal was a superb military leader and a skilled fighter, but he lacked the charisma to unite the many tribes of Tethyr.
+
+Relationships
+Mong was the grandfather of Chief Clovis Ithal II, who was in turn the father of Darrom Ithal, who would become the first king of a unified Tethyr.
+
+History
+During the Battle for Calimaronn (later named Darromar) in the, Warlord Karlag of the Tethyrian tribes was slain in combat. Mong Ithal took up the banner and continued the fight, beginning a siege against the garrison town that lasted for over a month. When the Calishite troops were finally defeated, both the town and the river upon which it sat were renamed in honor of the victorious chieftain and his clan.
+
+Appendix
+References
+
+---
+
+## Moonside Lane
+
+Moonside Lane was a small street found in the town of Harrowdale.
+
+Description
+Moonside Lane crossed through the town, beginning at the ruins of Halvan's Keep and passing southeast through town and intersecting Melurk Street to end on the Heart of the Harbor pier on the waters of the Dragon Reach.
+
+Notable Locations
+ The Anchorage
+ Toss Your Tankard
+ Harrowcoaster House
+
+Appendix
+References
+
+---
+
+## Monoclonius
+
+Monoclonius, also known as centrosaurus, or onehorn in the jungles of Malatra, was a species of dinosaur living in Faerûn.
+
+Description
+Monoclonius resembled a triceratops, but instead of three horns it only had one, above its snout. Their body was protected from the front with a thick, bony head crest. It had very thick skin. Its head was very flexible, allowing it to turn it rapidly.
+
+Combat
+Their horn was strong and sharp, giving them an effective natural weapon against predators. Their skin was thick enough to protect them from all but the sharpest claws. For small predators, a herd of monoclonius tended to merely stampede over them.
+
+History
+At some point in the 14 century DR, Chultan dwarves trained a pair of monoclonius to act as beasts of burden, carrying rock and debris away from the Wyrmheart Mine as well as its emeralds to settlements along the coast for trade.
+
+Ecology
+Monoclonius lived in herds.
+Diet
+Monoclonius were a herbivorous species of dinosaur.
+Habitats
+Monoclonius were one of the many species of dinosaur that inhabited Chult.
+
+Appendix
+Notes
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Mosasaurus
+
+A mosasaurus  was a species of mosasaur.
+Description
+Mosasaurs were massive marine creatures. They had large flippers that were strong enough to allow them to "walk" on land. They had sharp teeth and a very strong jaw.
+Combat
+Mosasaurs hunted on nearly all marine creatures within their territory. Their jaw was so strong it could crush bones and shells with ease.
+Biology
+Mosasaurs were carnivorous and solitary creatures. They were air breathers.
+Appendix
+Notes
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Mount Celestia/Imagemap
+
+The following image map was generated using information compiled from the following sources:
+
+---
+
+## Moro Mitedigger
+
+Moro Mitedigger was a swindler in the Utter East during the time of the Bloodforge Wars (648–657 DR).
+
+Based in the Hall of Wonder, Moro sold malfunctioning devices and swindled customers in surrounding towns. The leader of the Legendary Campaign came across some of the victims and heard their story, then went to the Hall of Wonder to stop Moro, with the two waging a bloodforge battle there.
+
+Appendix
+Notes
+ The race and gender of this game character are not known, as their portrait is randomly selected every time the level is played. However, it is taken from the elf or monstrous options, not the human ones.
+
+References
+
+---
+
+## Mouse (cantrip)
+
+Mouse was a personal cantrip that initiate wizards could learn. It summoned a common, normal-sized mouse to a nearby location chosen by the caster.
+
+Effects
+This cantrip conjured a single common field mouse or a closely related species from the surrounding area. It appeared at a spot within The original description of this spell in Dragon #60 used the 1-edition nomenclature 1", meaning  indoors and  outdoors. This was simplified to the shorter range in Wizard's Spell Compendium Volume Four. of the caster. The caster had no control over the rodent, and it behaved as a creature was inclined to do in the circumstances in which it found itself.
+
+Components
+This cantrip required verbal and somatic components to cast. The caster placed both hands on the head, angled to mimic mouse ears, and spoke the name of a food item preferred by mice.
+
+Appendix
+See Also
+ Bee
+ Bug
+ Gnats
+ Spider
+Notes
+
+References
+
+---
+
+## Moan
+
+Moan was a haunting cantrip that beginning wizards could learn. It created the illusory sound of a pitiful cry or a low wail that sounded as if it was nearby.
+
+Effects
+This cantrip was a variation of groan that produced the auditory illusion of a disembodied voice crying out within a radius of  from the caster.The original description of this spell in Dragon #60 used the 1-edition nomenclature 1", meaning  indoors and  outdoors. This was simplified to the shorter range in Wizard's Spell Compendium Volume Four. The sound could be high and pitiful, perhaps like a child, or low and eerily mournful. The spot chosen for the emanation of the sound could be anywhere within the range, regardless of barriers, walls, or containers. Creatures in the vicinity that could be expected to hear the sound had a chance to resist the spell. If successful, they not aware of the illusion.
+
+Components
+This cantrip required verbal and somatic components to cast. The caster made either a high- or low-pitched sound while pointing at the location from which the cry was to emanate.
+
+Appendix
+See Also
+ Groan
+ Rattle
+ Thump
+Notes
+
+References
+
+---
+
+## Mount Ghaethluntar
+
+Mount Ghaethluntar, also known as the Great Mount of Ghaethluntar, was a huge mountain located in the extreme north of Faerûn.
+
+Description
+This lone mountain stood nearly  in length. The base of the mountain was home to roaming herds of surface rothé, while it was said that the mountain itself was honeycombed with caverns linked by natural and carved-out tunnels, inhabited by thousands of flinds and gnolls. Very little was known otherwise of the mountain or its environs; in the North, it was said that few humans had ever seen Mount Ghaethluntar and lived.
+
+Trade
+The gnolls sent caravans down the Remorhaz Ride through the icy tundra, hauling 40 to 60 ore-laden sledges at a time from Mount Ghaethluntar to Frozen Flindyke.
+
+Appendix
+Appearances
+Adventures
+
+ Dungeon #170, "Monument of the Ancients"
+References
+
+---
+
+## Monument of the Ancients
+
+The Monument of the Ancients was a step-pyramid structure located in an overgrown hollow of the Frozen Forest, in far north Faerûn, that towered above the surrounding trees.
+
+Structure
+The monument was constructed of arcane, stone-like, and metallic materials that were not native to Toril and were even considered exotic to the plane of Elemental Chaos. The properties of these materials rendered the structure seemingly impervious to the effects of time.
+
+Interior
+Within the monument there was an antechamber that contained another, smaller pyramid. Within this inner pyramid was a large artifact known as the Anchor of Chaos. It was believed to seal the cosmic fissure between dimensions while active.
+
+History
+It is unknown who originally raised the monument, but ancient myths claimed that it dated from the time of the First Flowering.
+
+In the, the Netherese become involved in the Seven Sigils War. Soon after, their wizards deliberately compromised the Anchor so as to allow ancient primordials access into Toril, hoping that they would act as their allies in the conflict.
+
+In the, after a century of savage conflict, the Netherese managed to banish nearly all of the extra-planar beings that were involved in the war. But Maram of the Great Spear managed to escape banishment and fled into the wilderness of northern Faerun and back to the Monument. Once at the Frozen Forest, Maram easily conquered the local primitive human tribes. They soon took to worshiping the primordial as a god and it gathered what power it could in the region.
+
+In the, the Dark Three led a large coalition of peoples from across the lands north of the Moonsea to confront the primordial. They managed to vanquish Maram and reseal the Anchor of Chaos, but at an enormous cost.
+
+In the, another attempt was made by Maram and its herald Pyricus to reopen the elemental fissure, but they were again thwarted by a band of heroes.
+
+Myths & Rumors
+Under the World Axis cosmology, it was believed to have magically protected a region of the world where the boundary between Toril and the Elemental Chaos was weak.
+
+Appendix
+References
+
+---
+
+## Mortar
+
+Mortar, also called mason mix, was a mineral paste used in masonry to bind and seal construction blocks such as stones and bricks in buildings.
+
+Ingredients
+Most mortar was made from a mixture of lime (the binder), sand (the aggregate), and water. Alternatively, simple clay could be used, as in peasant houses in Khazari and Ra-Khati.
+
+As an aggregate in their mortar and adobe, the Azuposi used a silt rich in mica taken from the Dunobo Springs, which was a gateway to the spirit realm of Wenimats. This made the walls of their city of Michaca sparkle in golden hues and imbued them with spiritual power.
+
+Other substances could be added for different outcomes. For example, it was widely known in Faerûn that gorgon, medusa, and even xorn blood mixed in mortar or stucco would block astral or ethereal travel through a wall. To work, this needed a concentration of at least one drop of gorgon blood to each  of water. In comparison, four drops of medusa blood or three drops or xorn blood, together with two drops of unholy water, were needed per  of water; obviously, this was not used in buildings used by good and most neutral faiths. Whatever the formula, no area larger than a man's head should be left uncovered by such mortar for it to be effective. The finished mortar had a red coloration. Similarly, substances such as gorgon's blood or lead in mortar would block scrying and certain eavesdropping spells, such as the Maskarran spells listening shadow and watching shadow.
+
+Reputedly, a solution of two drops of remorhaz ichor and three drops of giant slug spittle added to a flask of amberjet poison and mixed with a mortar would naturally repel all oozes and block them entering a building or going over a wall, without harming them. The formula was kept in Candlekeep and guaranteed to Volothamp Geddarm by a number of merchants, sages, and even Elminster.
+
+Uniquely, the mortar of the Dragonwall guarding Shou Lung was nothing less than the spirit of the great dragon Pao Hu Jen. When the dragon spirit was freed from part of the wall, the mortar between the bricks vanished and that part of the wall crumbled without its binding force.
+
+Boggles used the oil they secreted as a natural mortar to build their cubbies.
+
+Uses
+Mortars were widely used to hold together simple houses and bridges, and even the biggest structures. However, not all structures used a mortar—buildings in Manass in Khazari used stacks of unmortared stone.
+
+Mortar was also used as a material component in priestly spellcasting.
+
+In the Utter East during the Bloodforge Wars (648–657 DR), a thick mortar known as mason mix was used to repair buildings damaged during the fighting and even to restore health to constructed creatures like the stone golems formed from basal golems.
+
+Sources
+
+Aurora's Emporium sold dry mortar used for construction at 5 copper pieces for . It was said to usable with any stone material or as an exterior coating to wooden frames, and would set in an hour. They also sold a mortar powder for use in spellcasting, at 5 silver pieces for .
+
+History
+According to Azuposi legend, the spirit Masauwu taught them how to build with stone, mortar, and adobe, among many other things.
+
+Mortar was well in use in the Calim Empire by -6048 DR, and was used in the construction of Cursrah.
+
+Notable Uses of Mortar
+The Twisted Tower of Ashaba, first built by drow in, had a mortar mixed with substances designed to block scrying.
+
+In the 4 century DR, elves of Cormanthyr imprisoned an avatar of the god Moander called the Abomination within his temple in Yûlash. They trapped it behind a wall built using mortar mixed with a blood that would block creatures from passing through. In the, the mage Akabar Bel Akash recognized the grouting as "common enough" and estimated it was "mixed with gorgon blood, or something similar".
+
+Opened in the, the House of the Moon, a temple to Selûne in Waterdeep, had gorgon's blood mortar cementing the lead lining and the white marble façade of its outer walls.
+
+The guildhall of the Diviner's Guild of Ravens Bluff used gorgon's blood as well as lead to prevent both scrying and extraplanar infiltration.
+
+In the, when the entire garrison of paladins at Fort Morninglord disappeared, High Observer Thavius Kreeg of Elturgard ordered it sealed. All entrances were bricked up behind layers of stone and mortar.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Moortown
+
+Moortown was a small community located in the Bottomless Bogs of Vaasa.
+
+Description
+The small town was encircled by an eroded earthen and stone wall built on the remains of an earlier palisade. Moortown was meant as a stopover for merchants, and so contained warehouses, stables, and at least one inn—the Swamphouse Inn.
+
+Life in Moortown was harsh and dangerous. As of the mid 13 century DR, the town was known as a place where a person's honor and trust were more valuable than their life.
+
+Geography
+Moortown lay within the Bottomless Bogs alongside the Beaumaris River. It sat at an important point along Dead Man's Walk, the main road passing through Vaasa from east to west.
+
+Trade
+In the 15 century DR, the town was part of Vaasa's western trade route. Harvested materials and other goods were floated down the river to Kond for wider distribution, while taking in goods via the trail to Avang and the Dead Man's Walk that led to points across Vaasa.
+
+History
+The town was initially founded in the 13 century DR sometime before the . The original town was built by an expedition of settlers seeking to create a trading post midway between the Bloodstone Mines and the Moonsea North. However, it was soon overrun by monsters and humanoids coming out of the surrounding bogs, leaving the ruins inhabited by giant rats and hairy spiders. Even so, the town was repeatedly resettled over the centuries, with new arrivals dreaming of taming the vast marshlands around the site and discovering their rumored hidden treasures.
+
+The town stood in ruins as of the, but by the late 1360s DR, it was occupied by members of the Cult of the Dragon in order to have an outpost near to Castle Perilous. Their garrison included a number of dragons, several Ring-nose orcs, and a handful of trolls who were strong-armed into serving as guards. The Cult of the Dragon continued to operate in and around the town for over a century despite repeated attempts to stamp them out. They were rumored to still be active in the area as of the, by which time the Warlock Knights of Vaasa were in control of the town.
+
+Notable Locations
+ The Swamphouse Inn, the most intact building in town as of the mid-to-late 14 century DR.
+ A temple of Tempus which lay in ruins as of the mid-to-late 14 century DR.
+
+Appendix
+Appearances
+Adventures
+Dungeon #53: "Steelheart"
+
+References
+
+---
+
+## Modurt
+
+Modurt was a town in Vaasa that was primarily inhabited by goblins and their kin. It was known for also having an unusually large number of barghests in the populace.
+
+Geography
+The town was located on the western shore of the Bottomless Bogs, and was relatively inaccessible by conventional travel methods.
+
+History
+As of the late 15 century DR, Modurt had avoided attention from the Warlock Knights in Telos City, who paid scant attention to the mostly unpopulated western territories.
+
+Appendix
+References
+
+---
+
+## Morgalshym
+
+Morgalshym was a member of the Wraith of the Inner Sea privateer fleet in the mid–14 century DR. Circa 1357 DR, Morgalshym was the captain of the Sea Horse.
+
+Appendix
+References
+
+---
+
+## Morglord Iltriune
+
+Morglord lltriune, called "the Magister Morglord", was a wizard of Sheirtalar in Lapaliiya of the 6 century DR and the Magister from 522 DR to 527 DR, and afterward a sentient gate somewhere in the Realms.
+
+Personality
+Morglord appeared shy and forever lost in his thoughts, yet if disturbed he would be annoyed and glare dangerously at whoever had interrupted him. He usually stood so still and silently that others easily overlooked him. However, his habits were but an affection, hiding a coolly calculating individual. He was a gifted mage and a masterful multi-tasker, said to be able to hold a polite conversation, scry on events from afar, analyze in depth the news he received, fully contemplate his own deeds and plans, and wage a spell-battle, all at the same time.
+
+Description
+He was tall, dark, and slender.
+
+History
+He was the product of an old and proud family of Sheirtalar, but held little promise before he happened to slay the current Magister, the dangerously erratic and spontaneously spell-hurling Thardon Ilvynner in the . After that, he became the next Magister.Page 19 of Secrets of the Magister has Morglord begin his reign as Magister in 523 DR. As this contradicts the 522 DR dates on pages 41 and 42, this is presumed to be in error, unless this happened on the final night of the year.
+
+During this tenure, Morglord invented a number of spells that employed extradimensional spaces and others that altered the dimensions of objects and creatures, which continued to be used into the mid-1300s DR. He grew ever more fascinated by the beauty of magic in all its forms, but also disgusted by the selfishness and lack of effort of his fellow wizards, especially human ones.
+
+Ultimately, in the, he felt he could no longer serve other wizards as Magister and, lest he begin destroying them arbitrarily, he beseeched Mystra to release him from his service and all contact with human wizards. She gave him Mystra's Choice, and he chose to turn himself into a gate. He was succeeded as Magister by Tsjancy Yildree.
+
+Over the following centuries, Morglord just quietly observed the world of magic and mages as they passed through his gate. However, it seems he might've grown bored, or mad, or both, or merely whimsical, for random magic sometimes burst from gates across Faerûn. The notion of a sentient and hostile gate greatly concerned, or at least irritated, archmages like Khelben "Blackstaff" Arunsun.
+
+Abilities
+As a gate, Morglord was a conduit linking two fixed portals and permitting instant travel between them. From those who passed through, he stole and fed upon the vitality, memorized spells, and magical energy (such as magical item charges) by some unknown mechanism.
+
+However, it was unknown which gate he was, and Mystra declined to reveal it. Morglord was theorized to be one near, in, or under Waterdeep, maybe one that went within Undermountain.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Moander's Road
+
+Moander's Road was a wide straight line road running from Yulash to Myth Drannor that was created by the Abomination of Moander in 1357 DR.
+
+Geographical features
+The Moander's Road ran through the northern side of Cormanthor's rimwood in a straight line almost all the way to Myth Drannor. The end of the road was marked by a hill of rot left behind by the god. For years after the rot bloomed with strange and alien blossoms that harbored unknown horrors inside.
+
+History
+Unlike other forest roads, the Moander's Road was created in less than one day in 1357 DR. The long thought dead god of rot and decay Moander kept a piece of himself, so-called Abomination of Moander, locked away in Yulash. The hero Alias unwittingly roused the avatar, and it made its way through the forest towards the city of the god's ancient enemies. Even though the creature was stopped, it absorbed all trees and plants and anything alive on its way through Cormanthor. Upon the abomination's demise, it left behind a huge hill that rose above the treetops of the forest.
+
+Eventually, the path excavated by the Abomination started to regain plant life of grass and shrubbery. Zhentarim agents were quick to utilize the road for their own purposes.
+
+References
+
+---
+
+## Mountain lion
+
+Mountain lions were a species of large feline.
+Description
+Despite their name, mountain lions were not actually lions. They were slender felines and females and males looked almost identical.
+
+Behavior
+Mountain lions were known for being very cautious, elusive creatures.
+
+Abilities
+Mountain lions were capable of leaping up to  vertically and  horizontally.
+
+Combat
+Mountain lions were ferocious in combat. Its primary weapon was its sharp claws.
+
+Ecology
+Mountain lions were carnivores and their preferred prey was deer. They were solitary creatures, with females and males living apart in separate territories. They tolerated each others company only to mate. A female mountain lion had a litter of up to four cubs, who remained with their mother for two years.
+Habitat
+Mountain lions were typically encountered in deserts, forests, mountains, plains and swamps. They were known to live in the Farsea Marshes, the Greypeak Mountains, the Storm Horns, the Tannath Mountains, and Thar. Mountain lions were also encountered in the Cat Lord's Prowl.
+
+Outside of Faerun, they were known to inhabit various mountains and hills in Maztica.
+Relationships
+Mountain lions occasionally served Clangeddin Silverbeard and Rillifane Rallathil . Wood elves considered mountain lions one of their favored companions.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Monkey spider
+
+Monkey spiders were a species of miniscule and intelligent monkeys.
+
+Description
+Monkey spiders resembled regular monkeys, only much, much smaller—no more than  from nose to tail, with a body roughly the size of a human fingernail. From more than  away, they were easily mistaken for spiders. They had gaunt bodies, gangly arms and legs, and prehensile tails, while their faces were simian yet noticeably reminiscent of a human's.
+
+Abilities
+For their size, monkey spiders were impressive jumpers, able to leap  into the air or jump down a distance of  without harm. They could climb any surface much as a spider could.
+
+Personality
+Despite their simian nature, monkey spiders were in fact as intelligent as humans, if not more so. They were good-natured beings and loyal to friends. However, they could be frenzied and even suicidal in defense of their kin and homes.
+
+Combat
+Monkey spiders fought fiercely against the ants, bees, wasps, and birds that tried to prey on them. They understandably tried not to get into a fight with anything bigger than they were, which was just about everything, but if they must, they went for the eyes and bit their attacker, or failing that bit any other body part in reach. Their saliva was caustic and stinging and could raise a welt from any wound, or briefly blind a being if they bit their eye. They used the distraction and loss of sight to make a getaway. A bad bite left the eyes swollen and red, and this could be misidentified as the effect of a poison or irritant.
+
+Society
+In their rainforest homes, monkey spiders lived in family groups of around forty members (but ranging from twenty to sixty), comprising around five families of eight. They were close-knit and group decisions were made by the eldest members of each sex, designated by sages as the male prime and the female prime. Generally, male primes of rival family groups preferred to avoid each other, but on the rare occasion they came into conflict, they battled to the death, or more usually exhaustion because of their age. Meanwhile, the female primes simply gathered their groups and led them away.
+
+They had a complicated language consisting of chirps, hoots, hisses, and gestures. It was believed by sages to be as sophisticated a language as Common, which monkey spiders could also learn. They could also make a cry known as a "long call", which could be heard from  away. Male primes used long calls to inform other family groups of their presence as they traveled through the rainforest. Long calls were also essential for communicating audibly with other creatures.
+
+They were frugivorous, and most of their time was taken up with foraging for fruits like bananas, berries, and dates. Sometimes, they raid beehives for honeycomb. They competed with ants for food. They were in turn preyed on by birds that hunted insects.
+
+They didn't build nests. Instead, they slept on broad leaves and covered themselves with another leaf to keep off rain.
+
+Uses
+Some cruel jungle dwellers saw them as a delicacy and roasted them on a fire until they turned crunchy.
+
+They were also popular as pets and as familiars for wizards and animal companions for druids and rangers. Their intelligence, good nature, and loyalty, as well as their ability to speak Common, made them useful in this.
+
+History
+Monkey spiders had a long history in Faerûn, yet they were so small and inoffensive they were always overlooked, usually just shooed or swatted as spiders. It wasn't until a southern sage swatted one and noticed the number of limbs that they were discovered by humans.
+
+Since then, monkey spiders became popular as companions and, by the mid–14 century, they had been introduced to cities across southern Faerûn. In cities of Estagund, Dambrath, Halruaa, Lapaliiya, Thindol, and Samarach, grubby slave auctions of the tiny, sentient creatures went on in back alleys and some marketplaces. Some enslaved monkey spiders escaped their new owners and made new lives in the cities.
+
+Rumors
+According to rumor, these escaped monkey spiders had gathered into their own underworld organizations led by tiny tyrants who ruled their kind as kings. Such stories went on to claim monkey spiders spied on important meetings and that the kings recruited sympathetic humans and demihumans to wield influence in the world at large, to even the top levels of government.
+
+Notable Monkey Spiders
+A group of monkey spiders once served a mage of Sembia as familiars and co-conspirators, but he corrupted them to evil and cruelty. When he died, they stole some of this treasures, including three iron golems, and went north and across the Dragonreach to Calaunt in the Vast, where they tried to set up a thieves' guild to rival the Shadowcloaks circa 1367 DR. Based in trap-filled sewers, they hid their golems there until needed, disguised them in black silk and charcoal, commanded and rode upon them, and used them to intimidate other thieves and steal weapons, tools, and magical items, which they would use to bribe and attract members. However, the golems had a limited vocabulary, with phrases like "join or die" being a favorite of the mage when gathering allies against a rival mage. If anyone got too close or learned too much, the monkey spiders would bite their eyes and blind them and have their iron golems brutally murder them. Thus, for a few months, a one-sided gangland war was waged on the streets of Calaunt after dark, the perpetrators believed to be pirates or big thugs using poison, with "join or die" their motto. The Shadowcloaks themselves tried to keep their people out of it and to watch and wait. Eventually, someone—a merchant, a threatened thief, or a captain of the Calauntan guard—would hire adventurers to investigate, who might not have even noticed the monkey spiders themselves. If not stopped, their criminal empire and reign of terror could well have spread across the Sea of Fallen Stars.
+
+Appendix
+Appearances
+Adventures
+Heart of the Jungle
+References
+
+---
+
+## Morentherene
+
+Morentherene was a green dragon who dwelled in the Forest of Wyrms, at least in part during the mid–14 century DR.
+
+Relationships
+She had a half sister, the Cyricist Ziatar who cared about her deeply.
+
+History
+As of the, Morentherene kept her lair in a small cave located near an abandoned temple of Bhaal. The temple had been taken over by followers of Cyric, among whom was Morentherene's sister Ziatar.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate: Siege of Dragonspear
+
+External Links
+
+References
+
+---
+
+## Monster Cards
+
+Monster Cards were a series of cards published by TSR, Inc. in 1981.
+
+Description
+Their purpose was to provide a Dungeon Master with a visual aid and basic statistics about a specific  creature. Each set contained twenty  by  cards. One side contained an illustration of a certain creature, while the reverse side contained statistics and basic lore.
+
+Index
+Creatures
+androsphinx • anhkheg • axe beak • barbed devil • black dragon • blink dog • bombadier beetle • bugbear • carnivorous ape • carrion crawler • centaur • constrictor snake • dire wolf • displacer beast • efreeti • ettin • frost giant • galeb duhr • gelatinous cube • ghoul • giant scorpion • giant slug • giant weasel • gnoll • goblin • gold dragon • gorgon • grey elf • grippli • halfling • hill dwarf • hill giant • hippocampus • hippogriff • hybsil • ixitxachitl • jaguar • kobold • korred • land urchin • leucrotta • lizard man • locathah • merman • mihstu • mummy • neo-otyugh • nycadaemon • obliviax moss • peryton • red dragon • roper • rust monster • sabertooth tiger • sahuagin • salamander • satyr • seawolf • silver dragon • specter • stone giant • stone golem • succubus • su-monster • sylph • thri-kreen • treant • triceratops • troglodyte • tunnel worm • type v demon • tyrannosaurus • umber hulk • vampire • wemic • weretiger • werewolf • will-o'-wisp • wind walker • zorbo
+
+Sets
+Set One (TSR8009)
+ Anhkheg
+ Barbed devil
+ Centaur
+ Constrictor snake
+ Displacer beast
+ Frost giant
+ Ghoul
+ Giant weasel
+ Grippli
+ Kobold
+ Lizard Man
+ Mihstu
+ Neo-otyugh
+ Red dragon
+ Sahuagin
+ Salamander
+ Treant
+ Triceratops
+ Werewolf
+ Zorbo
+
+Set Two (TSR8010)
+ Galeb duhr
+ Gelatinous cube
+ Giant scorpion
+ Goblin
+ Gold dragon
+ Hill dwarf
+ Hill giant
+ Hippogriff
+ Ixitxachitl
+ Land urchin
+ Roper
+ Sabertooth tiger
+ Satyr
+ Specter
+ Stone golem
+ Thri-kreen
+ Troglodyte
+ Type V demon
+ Tyrannosaurus
+ Umber hulk
+
+Set Three (TSR8011)
+ Androsphinx
+ Blink dog
+ Carnivorous ape
+ Carrion crawler
+ Efreeti
+ Ettin
+ Giant slug
+ Gnoll
+ Grey elf
+ Jaguar
+ Locathah
+ Mummy
+ Nycadaemon
+ Peryton
+ Silver dragon
+ Seawolf
+ Sylph
+ Tunnel worm
+ Wemic
+ Will-o'-wisp
+
+Set Four (TSR8012)
+ Axe beak
+ Black dragon
+ Bombardier beetle
+ Bugbear
+ Dire wolf
+ Gorgon
+ Halfling
+ Hippocampus
+ Hybsil
+ Korred
+ Leucrotta
+ Merman
+ Obliviax moss
+ Rust monster
+ Stone giant
+ Succubus
+ Su-monster
+ Vampire
+ Weretiger
+ Wind walker
+
+Credits
+The card's artwork was provided by Jeff Dee, Erol Otus, Jim Roslof, Darlene Pekul, Bill Willingham, Jim Holloway, Harry Quinn, Steve Sullivan, and Dave LaForce.
+
+---
+
+## Mooncalf
+
+Mooncalves were otherworldly flying tentacled aberrations that rarely ventured far from the mountains or hilltops they lived on. These creatures often served uvuudaum of the Far Realm.
+
+Description
+Mooncalves' bodies resembled that of a giant mollusk or a squid with fleshy bat-like wings that held it in the air. Their leathery bodies were a mass of muscle, cartilage, and mucus. The creatures had uneven proportions, the sight quite unnerving to behold. They had six short tentacles that were used as arms and in close combat, and two long ones with the reach of 30 ft. (50 ft., if moonlord). At the base of all the tentacles, the creatures had a beak-like mouth. Mooncalves' had two thin, long whip-like tongues coiled inside the beaks.
+
+Abilities
+Mooncalves could not speak in any other way than telepathically at a 100-ft range.
+
+Their alien flesh was dense and resistant to non-magical strikes.
+
+Occasionally, one in a hundred mooncalves was born with an ability to  teleport.
+
+Mooncalves were poor fliers and could not hover in the air, jerking around instead. Still, they were very fast fliers. Even though flying was their main method of movement, their tentacles were powerful enough to drag their fleshy bodies around when grounded.
+
+Behavior
+The first mooncalves were sentient creatures, a melding of a tool, a child, and a predator. They were born programmed to consume matter and knowledge, often searching for new types of matter to consume and events to witness. They were often spotted before or during catastrophes and terrible events, observing, giving mooncalves a reputation of being harbingers of doom, and bad luck.
+
+Mooncalves rarely talked to creatures they considered to be their meal or an object of observation, they did use their telepathy to manipulate lesser beings for their own goals.
+
+They never build societies and never mated.
+
+They rarely landed, preferring perpetual flight and they never slept.
+
+Combat
+A typical mooncalf flew high above its opponents attacking with potent spell-like abilities such as call lightning, control weather, control winds, dominate animal, greater magic fang, protection from elements, quench, and resist.
+
+When forced into close combat, a mooncalf attempted to grapple the opponents, crushing them with their tentacles, drag them towards the beak for a bite attack, or use magic to electrocute the grappled creature.
+
+If mooncalf's tentacle was destroyed or chopped off, it could regrow the missing limb within 11 to 20 days.
+
+Ecology
+Wherever these creatures arrived from, they often stuck around the tops of tall mountains or hills that they called home. Always a desolate place, and mooncalves always could be found in solitude, unless serving an uvuudaum master. In the worlds where they could easily fly to floating landmasses or moons, those high places were their preferred home.
+
+It was believed mooncalves were spawned at the full size as no babies were ever encountered. Most mooncalves were the same size with small color and tentacle number variations. With age and enough consumed matter, they grow in size. That variety of the creature was called Moonlord.
+
+Mooncalves' alien physiology did not have similar dietary needs as the creatures of Prime Material Plane. They did not require certain vitamins, proteins, nor minerals to survive. Instead, they consumed any substance, organic, and inorganic. The average amount of matter they consumed roughly was the same as their body weight. Due to the curiosity programmed into them by their creators, mooncalves liked to have a variety of things to consume.
+
+Sages and researches who got a hold of a mooncalf body came to the conclusion that they were basically alchemical laboratories capable of digesting and dissolving virtually anything they were able to eat. Some sages theorized mooncalves were not just eating the matter, but memorized and cataloged every chemical and substance that comprised the thing being eaten.
+
+History
+There were rumors about these creatures claiming they arrived from the dark side of the moon. These rumors were not far from the truth. Mooncalves' origins were tied to the titanic beings of immense power from space between worlds. These creatures were only known as moongods who might have come from the Far Realm. They discovered Prime Material worlds and were fascinated by the alien life on those planets. The moongods could not survive in Prime Material worlds so they created mooncalves, lesser versions of themselves, able to live, thrive, and explore new worlds for their creators. Mooncalves were "birthed" into Prime Material worlds on the worlds' highest points.
+
+In, the Purple Claws mercenary company, during their expedition to Throrgar in the Underdark, entered the lair of an uvuudaum where every member of the company was killed by the uvuudaum's mooncalf minions.
+
+Circa 1479 DR, mooncalves could be found among aberrant creatures that served the Far Realm's Abolethic Sovereignty.
+
+Rumors and Legends
+ Some sages theorized that "moongods" were nothing but the mooncalves' delusion and their origins were nothing but a creation of illithids or grell.
+ Another theory was that "moongods" were just a single evil deity that used mooncalves as its agents across many worlds.
+
+Appendix
+See Also
+Far Realm
+References
+
+---
+
+## Mohm
+
+Mohm was a hobgoblin in the late-15 century DR.
+
+Personality
+Unlike the men that served under him, Mohm unwilling to retreat from or surrender to an enemy no matter the intimidated. He was the kind of man that fought to the death.
+
+Possessions
+Mohm was known to possess a well-made greatsword that had the holy symbol of the giant deity Annam All-Father emblazoned on it.
+
+History
+In the late-15 century DR, Mohm served as a captain over some of the goblin forces of the ettin Gralm in the Forgotten Forest.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+ Giant Diplomacy
+References
+
+---
+
+## Molina's Keep
+
+Molina's Keep was a ruined fort located in the Valley of Khedrun, that once belonged to the retired adventurers Molina and Kengrin.
+
+Location
+The keep was located in the Valley of Khedrun, on the south side of the River Mirar, ninety miles upstream from Mirabar. It was right on the edge of the northern border of the Lurkwood.
+
+Structure
+While it still stood, Molina's Keep was a shell keep consisting of a stone wall, supported by wood and masonry, surrounding a courtyard. In the centre of the courtyard was Molina & Kengrin's home. After it was destroyed, all that was left was a pile of charred rubble.
+
+History
+The sorceress Molina and her husband, the warrior Kengrin, settled in this keep shortly after the turn of the 14th century DR following a successful adventuring career. The pair had brought back with them from the astral plane a githyanki silver sword named Diamond-edge. A detachment of the Mindspear Battalion of githyanki were tasked with retrieving the blade and punishing it's thieves. The gith quickly located the sword and set about establishing a lair in the nearby Cinderspire volcano. Once they had established their staging point, their red dragon ally Storm attacked a village near the keep in the mid-1360s DR, while the githyanki themselves snuck into the keep itself, murdered Kengrin, and feebleminded Molina.
+
+Appendix
+Appearances
+ Into the Silver Realm
+References
+
+---
+
+## Montolio's cloak
+
+Montolio's cloak was a magical cloak that was named after and worn by the Mielikkian ranger Montolio Debrouchee.
+
+Description
+The garment comprised a short-length cloak that was fastened by a unique clasp. If the two pieces were seperated, Montolio's cloak temporarily lost the magical enchantments it held.
+
+Powers
+In addition to bolstering the inherent mental and physical defenses of its wearer, the cloak conveyed upon them some of the fighting skill that was possessed by its namesake: it allowed them to fight more effectively while wielding a weapon in either hand.
+
+History
+In the decades after Montolio's death, the cloak and brooch were separated from one another and scattered across the Lands of Intrigue.
+
+At some point before the, Montolio's cloak came into the possession of the mage Omar Harad, while the clasp was lost deep within the fortress of Watcher's Keep in Tethyr.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate II: Throne of Bhaal
+
+External Links
+
+References
+
+---
+
+## Moonwoods
+
+Moonwoods was a collective term that described many smaller satellite woodlands around the High Forest in northwest Faerûn. Use of this term might mean:
+ The forests known as Lurkwood, Moonwood, Southkrypt Garden (likely meant to be Kryptgarden Forest), Southwood, and Westwood.
+ Just the Moonwood by itself.
+
+---
+
+## Mountain goat
+
+Mountain goats were alpine mammals.
+
+Description
+Mountain goats had thick, white fur and a thick layer of fat. This provided it with ample protection from the cold.
+
+Behavior
+Mountain goats were territorial and had a reputation for being incredibly stubborn creatures. As a result, they were quite difficult to domesticate.
+
+Abilities
+Mountain goats were sure-footed on most alpine terrain. Their superb climbing ability allowed them to scale even the steepest of cliffs and they were capable of jumping from one narrow ledge to another.
+
+Combat
+When threatened, a mountain goat rammed its opponent.
+
+Ecology
+Habitats
+Mountain goats could be encountered throughout the Realms, including Adama's Tooth, Fimbrul, Ice Peak, Kelvin's Cairn, the Marching Mountains, the mountains of Maztica, Shalhoond, Shining Plains, the Spine of the World, Standing Stones, the Tannath Mountains, the Valley of Echoes and the World Pillar Mountains.
+
+Beyond the Prime Material plane, mountain goats could be found in the land of Barovia.
+Relationships
+Goliath tribes were known to tend herds of mountain goats and their youths sometimes used them as mounts.
+
+Oreads sometimes developed friendships with mountain goats.
+
+Usage
+Mountain goats could be employed as cavalry. Known examples include the goblin and orcs of the Shining Plains as well as the oni of Fimbrul. In the Dalelands they were known to be roasted and eaten.
+
+Trivia
+ Mountain goats were the holy symbol of the outsider deity Enki.
+
+Appendix
+External Links
+
+Appearances
+
+References
+
+---
+
+## Mount Matazan
+
+Mount Matazan was an active volcano on the island of Tsukishima in Wa, and the highest peak in the country. Having great spiritual significance, it was a popular destination for pilgrims and tourists by the 1770s on the Wa Calendar.
+
+Geography
+Standing in the center of the northern Ikuyu Mountains, just north of the settlement of Ojichizu, Mount Matazan had an elevation of  above sea level, making it the tallest mountain in Wa, and the biggest volcano in the country. Thick black smoke rose unceasingly from its summit. Considered majestic, it had a conical shape with a gentle slope, and stood atop a wide plateau that spread out from all faces of the mountain. One flank of the mountain was called the Dragon's Face, and was known to be perilous.
+
+Hot springs flowed from the flanks of the mountain, and six picturesque lakes lay around the plateau.
+
+Despite this, there was scant vegetation around the foot of the mountain, except at the Garden of the Bloom Lady.
+
+Locations
+Dotted around the plateau were dozens of shrines to one or another of the Eight Million Gods, as well as countless roads and trails winding their way up the mountainside. Every year, thousands of tourists and pilgrims climbed Mount Matazan, from its base to its peak, as volcanos were respected and admired for their power and beauty by the people of Wa.
+
+At regular distances beside the main roads were bathhouses, which were fed by the hot springs. The water was thought to be especially revitalizing, and Wanese physicians commonly recommended that the sick and elderly visit the bathhouses for their health.
+
+The Garden of the Bloom Lady was verdant with wild flowers and cherry trees. It was here that two sister spirits, the beautiful Bloom Lady and the unappealing Rock Lady competed for the hand of Ninigi, the August Grandchild. After Ninigi selected the Bloom Lady as his bride, the Rock Lady cursed her sister's flowers to live but brief lives. The Bloom Lady continued to guard this place, and a shrine to her sat next to a natural spring that fountained ice-cold water all through the year.
+
+One of the presumed most likely locations of the River of Three Routes, or Sanzu-no-Kawa, to reach the afterlife was near Mount Matazan. However, there were countless other theories, and where the river was found was not for the living to know.
+
+History
+In the 1 year of Chisho, Emperor Kochi discovered a beautiful woman sleeping in a nightingale nest, fell in love with her, and took her back to his palace to become his bride. However, his new queen was actually a consort of the Celestial Bureaucracy and had to return to her home and job. After the wedding, she fled up Mount Matazan and ascended into the sky. Kochi, distraught, pursued her to the summit but could of course follow her no further. She had left behind a clear stone for him containing her image. In anguish, flames burst from his heart and ignited the stone. It fell into the volcano's crater and was said to be the cause of the smoke that continuously rose from the mountain's peak.
+
+An active volcano, Mount Matazan erupted in, when for three days straight lava poured from the peak. It devastated great expanses of fertile farmland and buried dozens of surrounding villages in ash. In particular, the settlement of Ojichizu was nearly destroyed and almost half its people died. Its apple orchards were ruined and its  statue of Bishamon was entombed up to its neck in rock.
+
+Mount Matazan remained dormant for the next hundred years, to, but scholars warned the volcano could still erupt again.
+
+In the early-to-mid-1700s, a son of Takashi Yayazato, daimyo of Aru Province, was killed in a climbing accident whilst scaling the Dragon's Face of Mount Matazan.
+
+In the mid-1700s, Toyo Nobi took his family on an excursion somewhere near Mount Matazan, but they were attacked by bandits and all bar his son Muki Nobi were murdered. Muki returned to civilization two years later, changed.
+
+Appendix
+References
+
+---
+
+## Monstrous regeneration
+
+Monstrous regeneration was a conjuration spell used by clerics.
+
+Effects
+This spell allowed the caster to confer a regenerative ability to a touched creature. Though the spell duration was typically not long enough to usually allow the creature to regrow a severed limb, a severed limb could be held against the wound and reattach itself.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Morgannaver's sting
+
+Morgannaver's sting was a necromancy spell used by wizards. This spell was developed by Morgannaver.
+
+Effects
+This spell allowed the caster to heal themselves by siphoning the health or vitality from creatures they touched. The spell would be lost if more than three minutes passed without touching a target. Casting another spell would also cause the spell to instantly fail. Once Morgannaver's sting was active the first creature touched would be harmed regardless of the caster's intentions. Any touched creatures were wracked with intense pain for several minutes.
+
+This spell did not work against the undead or creatures whose lifeforce was based in the Negative Material Plane.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+Appendix
+References
+
+---
+
+## Moonrise Towers
+
+Moonrise Towers was a fortress located in the Western Heartlands that was once a base of the High Heralds and of House Thorm in the mid-to-late 14 century DR and later infamously became the seat of power for the cult of the Absolute during the late 15 century DR. It was long associated with the well-regarded half-elven Thorm family, For over a century however, it languished in the center of the Shadow-cursed Lands, which was blighted by the Myrkulyte General Ketheric Thorm, who claimed Moonrise Towers as his own.
+
+Location
+
+Moonrise Towers was built along the northern bank of the River Chionthar, west of Rosymorn Monastery and Elturel, east of Anga Vled.
+
+Looming in the shadows cast by Moonrise Towers was the small village of Reithwin, the longtime home to the noble half-elven Thorm family. The two sites were separated by a simple stone bridge that extended from the road that passed through Reithwin. Both Moonrise towers and Reithwin could be travelled to from the Risen Road, via a mountain pass, or through the Underdark (via a temple of Selûne). A toll was required for passage via the roadway.
+
+Before being consumed by the shadowcurse, the lands around Moonrise were flush with game and popular for its abundant foraging. The land was home to deer, rabbits, and black bears.
+
+Function
+In the mid-to-late 14 century DR, the fortress was the residence of the heraldic office of the High Heralds, the Crescentcoat.
+
+As of a century later, the fortress was the seat of power for the cult of the Absolute in the Western Heartlands. It was from there that the Absolutists carried out their plot to convert the unbelievers of the Sword Coast and beyond. Moonrise Towers was also the site to which all True Souls were brought, in order best serve the Absolute and its three chosen.
+
+Structure
+Moonrise Towers included a central fortress, with six adjoining spires, just off the bank of the Chionthar. The sides of the fortress that faced the river featured extended battlements that were accessible by wooden scaffolding set upon the tower's facade.
+
+Moonrise served as a shining example of the resilience of stone masonry and fine metalworking craftsmanship. Although the towers suffered superficial damage from assaults and corruptive forces that rotten the building from the inside out, its overall structure remained streon and resolute. Over the centuries it stood, only Moonrise Towers' rooftop sanctuary suffered significant damage.
+
+Interior
+
+The towers were decorated with grand statues, depicting what appeared to be Selûnite warriors, elaborately crafted iron window grates, and stained-glass windows. The entirety of the towers were adorned with lavish furniture, a vast collection of fine art including ornate tapestries, and myriad books that filled its expansive libraries and abundant shelves.
+
+Over the years, the decor crafted to the Moonmaiden were replaced or covered over by the unholy symbol of Myrkul, the God of Death. This reflected the descent into despair of the tower's master, Ketheric Thorm.
+
+Atmosphere
+As of the late 14 century DR, Moonrise Towers were hardly the place of culture and reverence they were in years past. The austerity of the fortress was tarnished by the malign cultists that took up residence within. After the lands around Moonrise were stricken with the shadow-curse, the tower itself became overrun by malign growths. Massive shadowroot trees sprung up through the stone floors and sprouted blooming bulbs that emitted eerie teal light. While scant little Selûnite iconography built into the tower and its adornment remained, symbology of Thorm's new god, Myrkul, was emblazoned across ornate metal doors and the once-pristine marble floors.
+
+Yet an even more malevolent force spread across Moonrise a century later. In the late 1490s DR,strange mucousy growths spread out across the worked stone walls and blotted out hidden passageways and secluded chambers. Otherworldly tendrils extended upwards throughout these hidden hollows in the fortress' six outer spires, like vines growing within the trunk of a dead tree. These growths originated from some dark source separate from the shadow-curse, but rather the depths of the Underdark far beneath the tower's foundation.
+
+The alien source of these tendrils possessed the power to implant sounds in the minds of those that remained within Moonrise towers. If any poor soul investigated the sounds―and were unfortunate enough to encounter the tendrils―the alien force could psychically teleport their consciousness away for a brief while.
+
+This new darkness was reflected in yet newer decorates set upon the towers' interior. Absolutist cultists crudely painted their gods' unholy symbol upon tapestries, and splattered bloody handprints upon Myrkulite skulls that had been installed some ten decades prior.
+
+Structural Levels
+
+Ground Level
+The main floor of Moonrise Towers was accessible by two massive doors that gave way to well-decorated entrance, beyond which lay the main audience chamber and meeting hall. It was within that chamber Ketheric Thorm sat upon his his throne and commanded his army of undeath.
+
+On either side of the main hall were the tower's kitchens, dining area, along with a small armory. Two curved staircases at the rear of the hall led up to the floor above.
+
+Second Level
+The first floor above ground level housed a sitting room that looked over the audience chamber. Outwards from the sitting room was a personal study and expansive library, a shrine to Selûne, along with two private bed chambers, including the master chambers along the northwestern quadrant.
+
+Windows set into the walls at this level were decorated with stain-glass depictions of Moonrise, that depicted imagery of the moon in various phases in the night's sky.
+
+Rooftop
+
+The roof of Moonrise's main spire  housed what appeared to originally be a shrine to Selûne, the Moonmaiden. Its location atop such a grand spire was perfect for her devotees to offer appropriate veneration. Archways encircled the outer perimeter of the roof, extending outward from a raised platform and shrine, situated at the northern end of the roof.
+
+Just in front of the raised shrine was a small depression that bore the holy symbol of Thorm's god. Four columns adorned with gargoyles were situated on either side of the holy symbol.
+
+Prison and Depths Below
+Beneath the towers' prison was a network of caves that had been transformed into an illithid oubliette, as it was known to scholars. The lowest depths of the oubliette led to the greater source of corruption that afflicted Moonrise: an illithid collective that remained hidden away for centuries.
+
+History
+The tower was initially built adjacent to the town of Reithwin by the architect of the Thorm family. It was a symbol of the Thorm's family devotion to the moonmaiden Selûne. Unbeknownst to the family or its future occupants, the tower was, in fact, built atop an illith colony that housed an especially powerful elder brain. Over the centuries of its existence, this elder brain corrupted numerous mortals from the world above, and infected them with ceremorphosis, a process that transformed them into mind flayer thralls.
+
+14 Century
+Circa the, Naernythra Thaloudyn held the Crescentcoat office and lived at Moonrise Towers.
+
+As of the early 1370s DR, Ketheric Thorm remained in command of Moonrise Towers and the people of nearby Reithwin. The influential general turned from the Selûnite faith and began to worship Shar, the Lady of Loss, after the death of his daughter Isobel. In his new goddess' name, Ketheric Thorm raised an army of Dark Justiciars and marched upon the surrounding lands. Thorm and his forces were defeated by an allied force of druids from the Emerald Grove and members of the Harpers. Before he was defeated and imprisoned within his family's mausoleum, Ketheric Thorm acted in desperation and released the shadow-curse upon the lands, with Moonrise Towers at its epicenter circa the . The curse persisted for at least the following hundred years.
+
+15 Century
+Some time during or before the, Ketheric was "saved" by the god Myrkul, granted the powers as his chosen, and given the opportunity to reunite with his dead daughter Isobel. The undying general reclaimed Moonrise Towers in the name of his newest divine patron and raised an army of undead. Moonrise Towers became the central point from which General Thorm―and two fellow chosen of the Dead Three, Enver Gortash and the Dark Urge―orchestrated their plot to bolster the power of their respective gods.
+
+Rumors & Legends
+Circa 1492 DR, Harper maps of the region around Moonrise marked the fortress as an inky crescent set along a nearby forest. One such map could be found in a cache situated in the beach along the Chionthar.
+
+Archdruid Halsin of the Emerald Grove claimed that Moonrise Towers was the place from which means for removing a mind flayer tadpole from oneself could be found. He also claimed that these parasites seemed to be coming from Moonrise Towers, and that they had been magically altered by followers of the Absolute.
+
+Notable Inhabitants
+ Kar'niss, one of the Absolute's most loyal and fervent devotees.
+
+Appendix
+Notes
+
+Appearances
+Video Games
+Baldur's Gate III
+
+External Links
+
+Gallery
+
+References
+
+---
+
+## Moonhaven
+
+Moonhaven, also referred to as the blighted village, or Bogrot, was a small settlement in the Western Heartlands that had ties to a nearby Selûnite temple. It fell into ruin after being repeatedly assaulted by soldiers, and remained in ruin for well over a century.
+
+Geography
+Alongside the temple, Moonhaven was situated on the Risen Road, some ways east of Moonrise Towers near the border of Elturgard.
+
+History
+
+Moonhaven formed sometime after the founding of the nearby temple of Selûne. It was raided by Dark Justiciars a number of times in the .
+
+In the early years of the formation of Elturgard, during the mid–15 century DR, the Hellriders made multiple patrols around and near the village. This upset several of its residents, including Damon Briska, a descendent of the town's founders.
+
+As of the, the town was under control of a band of goblins that operated under the orders of Fezzerk, of the Cult of the Absolute.
+
+Inhabitants
+ "Ilyn Toth", a Red Wizard who lived in town under a pseudonym during the 14 century.
+ Lump, an especially intelligent ogre that served as a lookout for the cult of the Absolute.
+ Sampson, the village blacksmith.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+External links
+
+References
+
+---
+
+## Mobar
+
+Mobar was a goblin werebat chieftain in Undermountain in the early 1490s DR.
+
+Activities
+Mobar ruled his tribe living inside Wyllowwood. He spent time making gifts for Wyllow and leaving them in front of Wyllow's Tower. He preferred to remain in his hybrid form.
+
+History
+In 1492 DR, Mobar exiled the trouble-maker Vool from his tribe.
+
+Personality
+Mobar was a very resolute individual, ruling with iron fists. However he was totally crazy with love for Wyllow.
+
+Relationship
+Mobar loved Wyllow and always obeyed her orders.
+
+Appendix
+Appearances
+ Waterdeep: Dungeon of the Mad Mage
+
+Notes
+
+References
+
+---
+
+## Mouli al-Ajami
+
+Sheikh Mouli al-Ajami was the leader of the House of Tayif tribe in the High Desert of west Zakhara around 1367 DR.
+
+Personality
+Charismatic and intelligent, Mouli was a natural leader. All of his followers were fanatics.
+
+Description
+Mouli had striking blonde hair and blue eyes.
+
+Activities
+Mouli was a foreigner to the sands of Zakhara, hence his surname of "al-Ajami." Over time he convinced a large number of smaller tribes and clans to rebel against the Grand Caliph. He led many raids against caravans, outposts, and civilized lands.
+
+History
+Captured and tortured by mamluk slavers in Qudra, Mouli quickly learned to hate civilized culture. He escaped into the desert where he began to build an army of raiders.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mol the Great
+
+Mol the Great was the captain of an orc tribe that splintered into feuding groups, the other group was led by the chieftain Zud. These groups resided in the ruins of Myth Drannor circa 1369 DR.
+
+Personality
+Mol the Great strived to rule with feat and strength. He often left dead bodies of his opponents as a warning for Zud and the cultists.
+
+Possessions
+The main Mol's possession of note was the orcish lead mace, powerful, and extremely heavy bludgeon.
+
+Among other items he owned was an enchanted +2 longbow, a quiver of enchanted +2 arrows, two enchanted +1 chain shirts +1, and a ring of cold.
+
+History
+In 1369 DR, chief Zud's tribe was occupying territory in the ruins of Myth Drannor. Due to the internal power struggle the tribe was fighting for power and territory with the group of orcs led by Mol the Great, the tribe's captain. As well as both groups antagonizing the newly arrived Cult of the Dragon.
+
+Later the same year, both forces of the tribe and the cult encountered a a group of adventurers from Phlan making their way to the center of the ruins, Castle Cormanthor to stop the cult's nefarious plans of conquering the Moonsea region. The adventurers confronted Zud, along with two of his most loyal advisers, an orc shaman and an orc witch doctor in the Main Halls of the Dwarven Dungeons. Soon after Zud's death, Mol fell to the same group of adventurers..
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+---
+
+## Monstrous illusion
+
+Monstrous illusion was a divine magic spell available to mistcallers (specialty priests of Leira, the Mother of Illusionists) and perhaps other priests with an affinity for necromancy or the martial aspect of faith in the form of combat.
+
+Effects
+This spell formed a solid illusion around the caster that provided partial protection from harm and bequeathed some of the abilities of the creature chosen, but with restrictions. Restrictions included:
+ The caster must have seen the chosen creature alive and awake sometime in the past.
+ The chosen creature had to be native to Faerûn and not connected to another plane of existence. This eliminated most undead creatures because of the connection to the Negative Energy plane, and creatures like phase spiders with a connection to the Ethereal plane.
+ The chosen creature could not be an individual, like a king, or a unique creature, like the tarrasque.
+ The chosen creature had to be physically large enough to fully encase the caster's body. A large bear worked for most medium-sized casters, but a badger was too small.
+Monstrous illusion lasted for at least seven minutes (longer for more experienced casters) or until the caster dropped the illusion, whichever came first. While the spell was active, the caster operated the illusion from the inside and could use any non-magical powers and abilities of the chosen creature except the ability to fly (if applicable). In combat, the caster fought as the chosen creature but was only half as effective as the real thing. Likewise, any damage the illusory creature incurred was reduced by half.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+Appendix
+References
+
+---
+
+## Monk's belt
+
+Monk's belts were enchanted belts created by the monks of the Lady's Hand Monastery in the Nether Mountains.
+
+Description
+Monk's belts were very humble-looking ropes that were tied around the wearer's waist.
+
+Powers
+These belts possessed the enchantment that drastically improved monk's unarmed combat skills and made their blows unstoppable. Monk's belts also allowed their wearers to cast haste once a day.
+
+History
+In the Year of the Unstrung Harp, 1371 DR, the monastery of the Lady's Hand was attacked by Morueme dragons. The monks were able to fight the threat off using their Netherese magic, which included enchanting and equipping every monk with these belts.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Shadows of Undrentide • Neverwinter Nights 2
+References
+
+---
+
+## Mountain Fist
+
+Mountain Fist was the unique enchanted dwarven two-handed club.
+
+Description
+This oversized yet uncannily lightweight club was created using a clutched fist of a petrified ogre.
+
+Powers
+Mountain Fist possessed the +2 enchantments and increased the wielder's strength. When used against constructs, Mountain Fist  became a devastating +5 enchanted weapon.
+
+History
+Mountain Fist was a fabled magic item that originated from the dwarves of pre-Weeping War Myth Drannor. According to a legend, the master of the Mountain Fist fell to the chilly life-draining touch of shadows sometime in the past. Returning to existence as a shadow, the master of the Mountain Fist slithered into the deepest parts of the Dwarven Dungeons along with the enchanted weapon.
+
+In 1369 DR, Mountain Fist could be found inside a chest in the Deep Halls of the Dwarven Dungeons guarded by skeleton lords and shadows. Once the chest was opened, the ancient master of the enchanted club appeared out of the inky darkness of the dungeon along with two other shades attacking the people who dared to take its treasure.
+
+The blind cleric of Mystra Beriand was familiar with the weapon's lore and shared the legend with the group of adventurers from Phlan who were making their way through the ruins in order to stop the Cult of the Dragon's plot to corrupt the city's mythal and pool of radiance.
+
+Appendix
+See Also
+Clenched Fist
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Mount Olympus
+
+Mount Olympus was an enormous cross-planar mountain that connected the Prime Material plane with the Outer Planes that were important to the Greek pantheon via the Astral Plane.
+
+Description
+In the region of Arvandor within sight of the mountain, Mount Olympus was the most prominent feature of the landscape, rising above the rest of the plane. It was believed by the Fraternity of Order that visibility from the mountain's peak could extend as far as  in any direction. Travelers claimed that even the other two layers of Arborea, Aquallor and Mithardir, could sometimes be seen from the summit.
+
+The slopes of Olympus had a rich landscape of woods and rocky terrain. The southern slope of the mountain was a pastoral region with olive groves, vineyards, apple and orange orchards, and sheep grazing areas. It was considered the easiest ascent route. Some of the caverns under the mountain were beautiful, filled with colorful lichen and lit by luminescent rock. The caverns sometimes opened into enormous chambers that defied perception and did not seem at all like an underground environment. Other caverns were damp and small, littered with bones and permeated by rotting smells.
+
+Cosmography
+
+The slopes of Mount Olympus were rooted in the divine realm of Olympus in the first layer of Arborea. It was the most prominent feature of the realm. At its base, twisting caverns cut through the stone at the veins of the mountain into the Lower planes of Carceri, Gehenna, and Hades. Entry points into the planes could be found at round, colored portals, in a similar way to the planar connections of Yggdrasil. However, unlike the World Ash, the portals to and from Mount Olympus were well mapped and did not shift over time.
+
+Mount Olympus connected to multiple worlds in the Prime Material plane, which were accessible via hidden paths along the mountain. On Toril, the mountain was located on the island of Achea, which lay several hundred miles from Faerûn. In order to reach Arborea, travelers needed to climb the mountain to the very summit. The Torilian manifestation of Mount Olympus had an elevation of .
+
+The World Serpent Inn also provided a connection to Mount Olympus and regularly manifested near the slopes of the mountain in Arvandor. Travelers could enter the plane and access the mountain via the inn, but anyone who entered Arborea from the realm of Olympus could only see or access the inn after receiving express authorization from the Greek pantheon.
+
+Defenses
+Although all the portals leading to and from Mount Olympus were open to anyone trying to cross them, many of the secret paths leading to other planes from the mountain were guarded by creatures in the employ of the Olympian deities. Some of those pahs were only accessible to worshipers of particular deities, while anyone else trying to use them was instead redirected to Hades.
+
+Inhabitants
+Mount Olympus was the home of most deities of the Greek pantheon, who held vast halls and temples on its slopes.
+
+The mountain was primarily inhabited by nymphs, satyrs, and sylphs. The caverns of Mount Olympus were inhabited by bacchae, oreads, and satyrs, among others.
+
+Rumors & Legends
+ A temple of Hermes that stood within The Lady's Ward of Sigil was rumored to have a portal that connected the city to Mount Olympus.
+ The entrances to the homes of the Olympian powers were all well disguised. Some believed that this was the doing of Hephaestus, others Hermes, and some believed it was the doing of Pan.
+
+Appendix
+
+Appearances
+Adventures
+Tales of the Outer Planes
+
+For Duty & Deity
+Card Games
+Blood Wars
+
+References
+
+Connections
+
+---
+
+## Morningdawn
+
+Morningdawn was an archdruid in the service of the Emerald Enclave in the late 15 century DR.
+
+History
+Morningdawn sensed a menace approaching and went to Protector's Enclave in Neverwinter to erect the Tree of Elemental Balance in order to protect the city. She also asked the Heroes of Sleeping Dragon Bridge to help Minsc investigate the Ebon Downs, where she sensed evil at work (in fact the Cult of the Black Earth and the Cult of the Crushing Wave).
+
+Appendix
+Appearances
+Video Games
+
+External Links
+
+References
+
+---
+
+## Mount Helimbrar
+
+Mount Helimbrar was the southernmost peak of the Sword Mountains.
+
+Geography
+The mountain was located in the Sword Coast North, just north of great metropolis Waterdeep. Along with Mount Sar, it protected the city from the frigid winds of the North.
+
+History
+Both Mount Helimbrar and Mount Sar were named after two great fomorian giants that lived atop the peaks before their deaths.
+
+Notable Locations
+The ancient wizard of the Shadow Thieves created a subterranean stronghold somewhere near the base of the mountain.
+
+Appendix
+References
+
+---
+
+## Moon Pool
+
+The Moon Pool was an enchanted body of water and a waterfall that once was located in a beautiful glade under the stars but was transported to Undermountain by Ibbalar Thrul.
+
+Description
+After being transported to the Undermountain lair of Ibbalar Thrul, the Moon Pool was placed within a big cave chamber overlooked by the wizard's bedroom balcony. The pool itself consisted of a body of water with a beautiful cascading waterfall.
+
+Powers
+The Moon Pool was inhabited by a sentient water spirit Thashasa who was either connected to the waters or was its sentient extension. Thashasa was unable to leave the pool and could use its waters for their magical scrying powers.
+
+History
+The Moon Pool was transported to Undermountain sometime before 1370 DR and became a part of Ibbalar Thrul's collection of magical trophies. The adventurer sent into the mega-dungeons on behest of Khelben Arunsun in 1370 DR came across its enchanted waters, and Thashasa aided him in the struggle to stoop mad wizard's spectator invasion of Waterdeep.
+
+Appendix
+Appearances
+Video Games
+Descent to Undermountain
+
+References
+
+---
+
+## Moonstar (disambiguation)
+
+Moonstar could refer to a number of things:
+ A member of the Moonstars, a secretive group split off from the Harpers.
+ A Moonstar agent, same as above but also a prestige class.
+ The Moonstar (family) noble family in Waterdeep.
+ Moonstar Alley: the street named for the above family's villa that it passes by.
+
+---
+
 ## Moonstar (family)
 
 The Moonstar  family was one of the oldest and most prominent members of the nobility of Waterdeep by the mid–14 century DR. They made their fortunes as caravan masters and by leveraging their skills as explorers, cartographers, and guides.
@@ -1883,6 +13831,6610 @@ References
 
 FR:Lunétoile
 Connections
+
+---
+
+## Mount Drakkor Rouge
+
+Mount Drakkor Rouge was a semi-extinct, partially flooded volcano in the southern Thunder Peaks, in an area later known as the Vale of the Dragon Oracle.
+
+Geography
+
+On the side of this mountain was a crater-like depression filled with a salt marsh, covered in scum and rancid in smell, with a rocky landmass in the center that acted as an island. The outer shores of this island were steep and cliff-like. Much of this crater was obscured by mist throughout, though the sharply triangular tip of its island could be seen above the mists. Below the mist, temperatures within the crater were about .
+
+The way down into the crater was a steep-walled pass. The last  of this trail were along a high cliff, overlooking the crater's salt marsh, which ended at a wooden bridge. This spanned thousands of feet across the marsh, ending at its central rocky landmass. From there was a paved path leading up to a temple. Beneath that temple was a series of large, connected lava caves.
+
+Water seeping down the mountainside filled the crater's lake and its only means of escape was evaporation. This marsh lake was roughly  deep and geothermal activity on the mountain kept it at about .
+
+From the village of Volkumburgh, there was a trail leading south up to Mount Drakkor Rouge.
+
+Flora & Fauna
+Most creatures that lived within the salt marsh were not native, such as giant leeches and giant scorpions, while some were artificially created, like the gargoyles and swamp sharks.
+
+The island within the center of the salt marsh had its shallow shores lined with reeds and cypress-like trees.
+
+History
+Around the 10 century DR, members of the Cult of the Dragon came to the Thunder Peaks area. While there, they built a wooden bridge across Mount Drakor Rouge's crater and carved out what would become the Temple of the Dragon Oracle on its central rocky landmass. They then filled its salt marsh with a variety of creatures in order to protect the temple. Witches among this cell of Dragon Cultists believed that the sulfurous vapors within the crater's lava caves would help them to prophesize the future.
+
+Some time between the  and the, some evil force overran the temple and forced its Dragon Cultists to abandon it. The gargoyles they'd introduced to the area continued to live in Mount Drakkor Rouge, turning the abandoned temple into their lair.
+
+In,Page 16 of The Shattered Statue states that Flashfire "...came south several years ago in the dragon invasion that destroyed the city of Phlan on the shores of the Moonsea." This describes the event known as the Flight of Dragons, which occurred in 1356 DR. However, that page also states that Flashfire only moved into the Temple of the Dragon Oracle recently. For more information on this, see Note 1. an adult red dragon by the name of Flashfire settled within the abandoned Temple of the Dragon Oracle and subjugated its gargoyle inhabitants. Once every month, the villagers of Volkumburgh had to bring five sheep to Mount Drakkor Rouge as tribute to Flashfire.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Morik Stormhand
+
+Morik the Undying, known as Morik Stormhand in life, was a vengeful lich and ally of the High Priestess of Lolth who was plotting Waterdeep's downfall in the mid–14 century DR.
+
+Relationships
+Morik the Undying had some history with the worshipers of Clangeddin Silverbeard, which turned into seething hate in his undead state.
+
+The lich called his undead servants his children, and valued them above his drow allies. He was planning on betraying Azurna eventually.
+
+History
+In the, Morik Stormhand allied himself with Azurna, a High Priestess and a Matron Mother who led the drow forces on a holy quest to retrieve the Flame Sword of Lolth and use it to bring the City of Splendors to its knees. This quest led Azurna to a confrontation with the dwarves of Clangeddin's Hearth. The dwarves attempted to flush the drow and their servant kobolds out of Undermountain's sewers, which infuriated the Matron Mother. She led an assault on Clangeddin's Hearth, slaughtering every single dwarf within the temple. As a final insult, she gifted the temple and all the fallen people within to Morik the Undying in exchange for him finding a piece of the spider statue hidden in the temple. The lich accepted and raised the dead dwarves as his undead servants. Subsequently, an agent of Khelben Arunsun arrived to investigate the disappearance of the dwarven colony and confronted the undead horrors, slaying the lich in the  process.
+
+Morik's phylactery was nowhere to be seen, likely allowing the lich to return to plague Clangeddin's devotees further.
+
+Appendix
+Appearances
+Video Games
+Descent to Undermountain
+
+References
+
+---
+
+## Mount Akka
+
+Mount Akka was a mountain in the Alpuk region of the Great Glacier.
+
+Geography
+Mount Akka was a tall mountain, up to  in elevation, with a double peak. It was located in the southern edge of the Surykyk Range. Within the mountain is a network of interconnected caverns.
+
+Flora & Fauna
+Mount Akka was a popular nesting grounds for wild kupuk. Kupuk made nests and laid their eggs with the caves under the mountain. The caves provided shelter from the weather and protection from predators.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Mount Okk
+
+Mount Okk was a mountain in the Alpuk region of the Great Glacier.
+
+Geography
+Mount Okk was a tall mountain, up to  in elevation. Its height made it one of the tallest mountains within the Lugsaas Chain. Within a fissure at the base of the northern side of the mountain was the dangerous and mysterious Ice Castle.
+
+Appendix
+References
+
+---
+
+## Moontouch Oak
+
+Moontouch Oak was the name of both a gargantuan oak tree in Cormanthor and a temple to Rillifane Rallathil that was nestled within its main branches. Some believed it was possibly the largest oak tree in all of Faerûn.
+
+Location
+This tree was located in the Tangled Trees region of Cormanthor, on the northern bank of Elvenflow.
+
+Structure
+This oak stood over  tall. The temple atop it consisted of a network of platforms sculpted from its branches, as well as hollows cultivated in its trunk, that were all linked together by bridges of woven vines. The temple remained hidden to outsiders thanks to the oak's thick leafy coverage and due to use of hallucinatory terrain.
+
+History
+This oak has been occupied ever since the early days of Sy-Tel'Quessir settlement in the Arcorar by green elven druids of the Circle of Emerald Leaves.
+
+Between -985 and 205 DR, the Moontouch Oak was regularly under siege by Venominhandar and his minions, though it was never abandoned. Following that green dragon's death, the druids of Moontouch Oak would lead the efforts to reclaim the Tangled Trees woodland (then known as Tangled Vale).
+
+When the Army of Darkness ravaged Cormanthyr nine centuries later the druids of Moontouch Oak remained firm protectors of their home in the face of assaults led by nycaloths, assuring that it was never violated.
+
+Inhabitants
+The Moontouch Oak temple always had at least twenty green elven druids living inside it. In 1371 DR, the temple was being led by Katar Oakstaff.
+
+Rumors & Legends
+Some elven legends claimed that the Moontouch Oak was the still-living remnants of an avatar of Rillifane Rallathil. These same legends claimed that it had led the Sy-Tel'Quessir eastward, away from the ravages of the Crown Wars.
+
+Appendix
+References
+
+---
+
+## Mount Morrowikik
+
+Mount Morrowikik was a mountain located in the Keryjek Ridge of the Great Glacier.
+
+Geography
+Mount Morrowikik was a tall mountain, up to  in elevation. The mountain had a unique geological feature in that its peak was made of solid turquoise.
+
+Flora & Fauna
+The peak of Mount Morrowikik was home to hundreds of white puddings. There were so many that from a distance they appeared as drifting snow over the deep blue of the turquoise peak. Legend held that some white puddings grew to be as large as icebergs.
+
+Appendix
+References
+
+---
+
+## Mosque of the Venerable Kor
+
+The Mosque of the Venerable Kor was a temple dedicated to Kor in the city of Rog'osto in the .
+
+Structure
+This temple was constructed of white-washed limestone and covered in intricate, psychedelic mosaics of colored glass that reflected the sun.
+
+Inhabitants
+The priests that inhabited this temple were unusually pragmatic and open-minded.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mosque of the New Moon
+
+The Mosque of the New Moon was a temple to Selan in the city of Rog'osto in 1367 DR. It was funded entirely by donations from Afyalese merchants.
+
+Structure
+This temple had a trio of elegant minarets, echoing the design of the city's royal palace.
+
+Reputation
+This temple was extremely popular among visitors from the island kingdom of Afyal.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mosque of the Visionary Spring
+
+The Mosque of the Visionary Spring was a temple to Zann in the city of Rog'osto in 1367 DR and one of the most attended temples in all of the city.
+
+Structure
+This temple was one of the largest in the city of Rog'osto. Its name derived from a natural well or spring that the temple was built over, which was believed to give revelatory trances.
+Interior
+Inside of this temple was a vast library that was open to the public.
+
+Inhabitants
+The priests that inhabited this temple were usually very open and helpful to anyone that sought out information regarding Rog'osto or the Ruined Kingdoms region in general. However, this was only the case for those whose desire was driven by genuine curiosity, not selfish desire or greed.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Moonweb
+
+Moonweb was a divine abjuration spell granted to devout followers of Selûne the Moonmaiden. It could protect one touched creature or one touched door, window, or opening from harm or intrusion for a period of time.
+
+Effects
+The earlier version of this spell wove a web of moonlight around a touched creature or across a portal that lasted for at least three hours (longer for more experienced casters) or until it took sufficient damage from magic weapons, or a successful dispel magic was able to overcome it. At a minimum, the spell covered  (larger for more experienced casters) or one creature that could fit inside a cocoon of this surface area.  Interaction with an anti-magic shell or any of the prismatic spells (e.g., prismatic spray, prismatic wall, prismatic sphere, and so on) immediately canceled both spells in a scintillating burst of harmless blue sparks and purple lighting that traced the web as it collapsed.
+
+The moonweb was opaque to those on the outside, except for priests of Selûne and the goddess herself, but it did not prevent detection by locate spells (e.g., locate creature, locate object, and so on). Those on the inside could see through it with no impediment. Objects and creatures that attempted to enter the protected area or attack the moonweb itself were immediately rebuffed in the opposite direction they contacted the web, even if they were contained in a globe of invulnerability. Weapon attacks were redirected back upon the attacker with no degradation, and magic attacks were reflected back on the caster, but this also applied to those protected by the moonweb. This spell also prevented access via other dimensions, like teleport, and dimension door—the moonweb absorbed the energy of these types of spells before they could complete.
+
+Magic weapons were able to damage the moonweb before they struck back at their wielders—the greater the enchantment, the more damage each hit caused—until the spell finally collapsed.
+
+The caster received a mental image of anyone or anything that destroyed the moonweb or attempted to pass through it, as long as the caster was on the same plane.
+
+The later version of this spell was fixed at  tall and could be shaped in a cylinder  in diameter around a willing creature or as a  flat sheet across a door, window, or other opening. Creatures and objects on the outside could not pass through the front of the barrier but anyone or anything behind the barrier could pass through it. This version did not reflect spells, prevent inter-dimensional travel, nor rebound attacks, it was merely virtually invulnerable. The duration was half that of the earlier version (one-and-a-half hours, minimum). Beings and things behind the barrier could see through it but had full cover and total concealment from those on the other side.
+
+Components
+The early version of this spell required verbal and somatic components, including a touch by the caster. The material component was a strand of gray or silver hair from any creature and a drop of holy water. The later version also had verbal and somatic components, but only required the use of the caster's divine focus that was not consumed in the casting.
+
+History
+This spell was recorded in the Moonweb a "book" of spells in the form of four silver rings that was sacred to the church of Selûne.
+
+Notable Uses
+Inside the House of the Moon temple, any Selûnite priest of sufficient rank could freely conjure a moon blade among other spells.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Monster zombie
+
+Monster zombie was a general term for zombies created from the corpses of large humanoid creatures, such as bugbears and giants.
+
+Behavior
+Monster zombies were capable of obeying simple commands or following instructions, but they could only be a few words in length.
+
+Abilities
+Much like other zombies, these creatures were impervious to harm from cold-based spells and abilities. They were also immune to the charm, hold, sleep effects and death magic. They were vulnerable to holy water and turned by clerics as if they were ghasts.
+
+Variants
+Death shark Though not created from the body of a humanoid, these undead sharks were considered to be a form of monster zombie.
+Ogre zombie Zombies created from the corpses of ogres.
+
+History
+Around 1358 DR, bands of monster zombies patrolled within the ruins of Dekanter.
+
+Some time prior to 1363 DR, the wizard Narthindlar set a monster zombie bear in Lemontree Alley to act as a guardian over its lemon trees.
+
+In the mid-14 century DR, it was not uncommon to find monster zombies within the Starwood.
+
+Ecology
+Monster zombies were typically created by evil-aligned clerics and magic-users. Around one to eight of them could be conjured by casting undead summoning III, most commonly conjuring an ogre zombie.
+Habitats
+Beyond the Prime Material plane, this type of undead could be found in the Domains of Dread.
+
+Notable Monster Zombies
+ The wizard Amelior Amanitas owned a copper flask that could unleash a pair of fanatically loyal ogre berserkers to fight for him. If they died, the ogres would reanimate as monster zombies and continue fighting.
+ A skull-headed, monster zombie ettin was one of the many undead creatures that guarded Cryptkey Facilitations in Skullport.
+
+Rumors & Legends
+Around the 14 century DR, monster zombies were said to likely reside within the demilich Histokle Rireetha's manor in Hawkgarth.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Morg
+
+Morg was a vampiric hill giant shaman dedicated to Grolantor.
+
+Description
+Morg was  tall and musclebound, had vacant-looking gray eyes, and fangs that were  in length. Nevertheless, he was unusually handsome for a hill giant. He tended to wear clothing made from stinking bear hides, with a belt made from the mummified heads of his victims. He also wore a holy symbol of Grolantor around his neck. In his owl form, he was  tall with a wingspan of .
+
+Personality
+Morg was atypically polite and personable for a hill giant but also cruel, finding joy in draining the life from his victims, then tossing their corpses aside like refuse. He was devoted to his deity, killing and destroying in Grolantor's name. When he hunted people, he tried to bait any allies they might have into following him back to his lair, so he could kill them too.
+
+Abilities
+As a vampire, he shared many of their abilities, but could not assume a gaseous form and did not regenerate wounds as other vampires could. Instead, he recovered from his wounds when he shapechanged into his animal forms: that of a giant owl, or a giant cave bear.
+
+History
+Morg was born into a hill giant tribe, which exiled him in his adolescence for his lack of disfigurements and for not being slovenly or unkempt. He spent several years wandering in Kryptgarden Forest until he encountered the Lostafinga tribe of hobgoblins, who hired him as a mercenary. The hobgoblins decided to take over Southkrypt Garden, an abandoned dwarfhold from the time of Haunghdannar located just outside of the forest. However, the Garden was occupied by monsters who proved too much for the Lostafingas and their hireling to overcome. The hobgoblins fled, leaving Morg to his death. Morg prayed to Grolantor, promising to dedicate his life to the deity if only he would give him the strength to survive. It was not Grolantor who answered his prayer, but Morg didn't know that. Regardless, Morg found himself transformed into a vampire, and the Garden's monsters now served him. Morg still received his shamanistic spells, so he was left with no doubt that it was his god who had saved him and he dedicated his life to the service of Grolantor.
+
+He returned to his hill giant tribe, hunting them every night until fully half of them were dead, whereupon the survivors fled far from their territory. He also took three giants, the ones who had argued the loudest for his exile, as his vampiric thralls. Morg next went after the Lostafingas, who had left him to be eaten alive at Southkrypt Garden. However, Maglubiyet warned the Lostafinga shaman and the shaman bravely negotiated with Morg to provide him guards who would keep his new lair safe, and bring him victims to feed on. Morg agreed to the deal on the provision that if these hobgoblins failed him, he would slaughter the entire tribe.
+
+Since then, Morg stayed in the lowest level of Southkrypt, venturing out to the countryside and Sword Mountains around twice a month to hunt his own prey.
+
+Appendix
+References
+
+---
+
+## Moon's circlet
+
+Moon's circlet and an enchanted cleric's circlet from Waterdeep, in the late 15 century DR.
+
+Description
+Moon's circlet was a band of shaped silvery metal, with its front arrowing down in a V-shape.
+
+Powers
+Moon's circlet allowed the wearer to cast the cure wounds spell, extending their healing capabilities.
+
+Notable Owners
+Halbenet Soladonel: a moon elf cleric of Corellon Larethian who worked with other warriors of Waterdeep, performing missions on behalf of Laeral Silverhand in the late 15 century DR.
+
+Appearances
+Video Games
+Warriors of Waterdeep
+
+References
+
+---
+
+## Morgan Longbow
+
+Morgan Longbow was a human ranger active in the mid–14 century DR.
+
+Possessions
+Morgan wore an enchanted +2 elven chainmail as well as a magical +3 bastard sword.
+
+History
+Morgan Longbow was sent to apprentice under a ranger to continue in his father's footsteps. By the time Morgan's education was finished and the young ranger returned home, his mother was murdered by a vampire. Morgan swore to avenger his deceased parent by exterminating the vampire threat from the world and subsequently, joined a group whose goal alined with his.
+
+Appendix
+Appearances
+Card Games
+AD&D Trading Cards
+
+References
+
+---
+
+## Moonfall's shroud
+
+Moonfall's shroud was an enchanted hood worn by clerics from Waterdeep, in the late 15 century DR.
+
+Description
+These shrouds were of gentle blue color with silver trim. The front of moonfall's shroud was decorated with an image of silver crescent.
+
+Powers
+Moonfall's shroud purpose was enhancing the wearer's healing magic. When a cleric who wore this shroud used healing spells on another person, it also extended the effects of healing onto the wearer.
+
+Notable Owners
+Halbenet Soladonel: a moon elf cleric of Corellon Larethian who worked with other warriors of Waterdeep, performing missions on behalf of Laeral Silverhand in the late 15 century DR.
+
+Appendix
+See Also
+ Moonfall's steps
+ Crown of Corellon
+ Lunar crown
+Appearances
+Video Games
+Warriors of Waterdeep
+
+References
+
+---
+
+## Moonstone pendant
+
+The moonstone pendant was an enchanted cleric amulet from Waterdeep in the late 15 century DR.
+
+Description
+The silver moonstone pendant appeared as two interlocking crescents, facing each other. The new moons left an opening in the middle of the pendant that glowed with gentle blue light.
+
+Powers
+The moonstone pendant gave the wearer the ability to cast the regenerate spell and mirrored its effects onto up to three allies in close proximity.
+
+Notable Owners
+Halbenet Soladonel: A moon elf cleric of Corellon Larethian who worked with other warriors of Waterdeep, performing missions on behalf of Laeral Silverhand in the late 15 century DR.
+
+Appearances
+See Also
+ Amulet of Corellon
+ Holy necklace
+ Talisman of the moon
+Video Games
+Warriors of Waterdeep
+
+References
+
+---
+
+## Moonflower
+
+Moonflower, also known as blueshine, was a species of beautiful flowering plant which was cultivated in Evereska and Silverymoon, and grew wild in the Dessarin Valley.
+
+Description
+Moonflowers were tiny white cup-shaped flowers that looked somewhat similar to tulips. Each flower was surrounded by four triangular green leaves that glowed blue in moonlight while the flower itself glowed white.
+
+Moonflowers found in Silverymoon could glow during any time of the day thanks to a simple cantrip invented by the city's wizards.
+
+In the Dessarin Valley, wild blueshine grew alongside the snowdrift plant that was similar to clover. Moonflowers of the High Dale were rare and grew atop deep snow, attracting Sembian alchemists on a monthly basis.
+
+History
+Erlevaun Dathnyar, a moon elf of Evereska, had a beautiful small garden bathed in gentle moonflower glow. He died in his garden in 1348 DR, murdered by Horaundoon of the Zhentarim.
+
+Appendix
+Appearances
+Novels
+Swords of Eveningstar
+References
+
+---
+
+## Moonstorm House
+
+Moonstorm House, known locally as Ladytowers, was the castle-manse in Elversult that housed the city's Lady Lord and Lady Constable.
+
+Location
+It was situated at the base of a wooded hill on Moonstorm Lane, at the outskirts of Elversult, west of the city proper. The personal residences found nearby were referred to as "the Ladytowers' Lands".
+
+Structure
+Moonstorm House was a fortified castle of six wall-faces that surrounded an inner courtyard. Each bastion of the outer wall held a tower with a conical roof. Unlike other structures built of similar purpose, Moonstorm House had no central keep.
+
+The central six-sided courtyard contained mirrored gardens and a grove of decorative trees.
+
+Defenses
+Moonstorm house boasted no defenses within its outer walls. Along with the rest of Elversult, it was under the protection of the city's guardsmen, known as the Maces.
+
+Notable Inhabitants
+ Yanseldara, Lady Lord of Elversult during the mid–14 century DR.
+ Vaerana Hawklyn, Lady Constable of the city, and Yanseldara's consort.
+
+Appendix
+Appearances
+Novels
+ The Veiled Dragon
+
+References
+
+---
+
+## Moradin's Gauntlet
+
+Moradin's Gauntlet was a gauntlet customarily worn by the dwarf overseers of the dwarven forge-complex Hrakhamar in the land of Chult.
+
+Description
+It was well crafted gauntlet sized for an adult dwarf and fashioned from gold.
+
+Value
+While it was valued at 2,500 gp, a wealthy dwarf would pay double that to have it.
+
+History
+By the late 15 century, it rested in the treasury of Hrakhamar.
+
+The Chultan dwarf spirit warrior and guide Musharib sought adventures to help sneak into Hrakhamar's treasury and reclaim Moradin's Gauntlet, in order to deny it to the firenewts who'd taken over the facility.
+
+Appendix
+References
+
+---
+
+## Moonwatch Hills
+
+The Moonwatch Hills were a grouping of rather unremarkable hills in the Moonsea region of north Faerûn.
+
+Geography
+They were situated along the northern coast of the Moonsea proper, just east of the Twilight Marsh.
+
+The Phlan Path wound through the hills, connecting the cities of Phlan and Melvaunt located on either side.
+
+Appendix
+References
+
+---
+
+## Moonsea North
+
+The Moonsea North was the name given to the region of the Moonsea, along the northern coast of the sea after which it was named, and the wild, untamed lands further north. During the early years of the Era of Upheaval, it famously became associated with the Zhents, partially coming under their control from their seat of power in Zhentil Keep.
+
+Description
+Much of the Moonsea North was considered to be a uncivilized and uncharted wilderness, devoid of civilization but rife with natural resources ready for the seizing.
+
+Geography
+The region of the Moonsea North was difficult to define with complete accuracy. Some used the term to describe the coastal lands directly north of the Moonsea proper, while some sages such as Elminster used the term synonymously with the region of the Wide.According to page 16 of Ruins of Zhentil Keep and page 154 of Mysteries of the Moonsea, the Moonsea North was home to an ancient human kingdom whose descendants made up the barbarian population of the Ride. while some cartographers included the Tortured Land, and the lands around the Abbey Mountains north to the Great Glacier.
+
+Geographical Features
+
+The Moonsea North was marked by four massive mountain ranges, the Abbey Mountains in the north, the White Peaks the western arm of the Galenas across its center, and the Dragonspine Mountains towards the south.
+
+While there were many far-reaching rivers  and lakes that formed in the Moonsea North, a few were particularly notable and worth mentioning. The Shattersoul River formed from the Great Glacier, joining with the west-flowing River Pelauvir. Telstang Brook and Razack's Tears flowed down from the Galena and Dragonspine peaks respectively, forming Lake Longreach in between the two mountain ranges.
+
+While a portion Border Forest marked the western border of the region, and the Frozen Forest well beyond to the north, the smaller Quivering Forest and Vercy Wood were entirely contained within the seldom-encountered verdant areas of the Moonsea North.
+
+The Twilight Marsh was situated on the northern shore of the Moonsea Lake, adjacent to the Quivering Forest.
+
+Government
+While there was no central government in the Moonsea North, the city-state of Zhentil Keep held great power and influence over a portion of the region, until its destruction in the 15 century DR. Other powers included the cities situated on the northern shore of Moonsea lake, lesser states like Phlan and Melvaunt, that came under the influence of the returned empire of Netheril or restored city of Myth Drannor.
+
+Trade
+The Moonsea North was known to be rich with veins of naturally-occurring metals, and was a source of wealth for the powers of Zhentil Keep. Caravans passing through the Moonsea North were often granted extra protection from the hazards they may face.
+
+During the 14 century DR, Zhent forces famously sought to link their mercantile interests in the region with their holdings on the Sword Coast North, gaining dominance over two frontiers in with natural resources were plentiful.
+
+Society
+Fitting to its natural landscape that attracted many explorers and pioneers, numerous shrines to Shaundakul have been built by his church throughout its lands over the course of many centuries.
+
+History
+The history of the Moonsea North predated the recorded history of its human residents.
+
+For a time circa the 3 century DR, the Moonsea North experienced years of peace it was watched over by the Three Peoples of elves, dwarves, and humans.
+
+In the late 13 century DR the explorer Tal Lancegrove famously made journeys into the Moonsea North and detailed his exploits in diaries that were later published by his daughter Tarteera.
+
+Notable Locations
+Settlements
+ Melvaunt, a powerful mercantile city-state nestled on the northern coast of the Moonsea.
+ Phlan, the smallest of the three coastal Realms of the Moonsea North.
+ Zhentil Keep, an infamous city long-associated with the Zhentarim spanning the River Tesh, that was brought to ruin twice in its history.
+
+Landmarks
+Castle Vathar • Citadel Ankhalus • Citadel of the Raven • Monument of the Ancients • Myth Ondath
+
+Inhabitants
+Many dwarven communities built their fortified holds in the lands of the Moonsea North, often sharing their homes with their human neighbors. Other races that famously dwelled in the region included the goblinoid races, orcs, and the Ogres of Thar.
+
+Notable Inhabitants
+ Ragflaconshen, the red wyrm once claimed a region of the Moonsea North as its domain from its lair in the Abbey Mountains.
+
+Appendix
+See Also
+ Moonsea
+Notes
+
+Appearances
+Organized Play & Licensed Adventures
+Tyranny of Dragons (Defiance in Phlan)
+References
+
+---
+
+## Most Careful Order of Skilled Smiths & Metalforgers
+
+The Most Careful Order of Skilled Smiths & Metalforgers was a guild of blacksmiths and metalworkers operating out of the city of Waterdeep.
+
+Organization
+The Master of the guild was both the leader of the Order, and the primary point of contact for those wanting to make contact with the group as a whole, or wishing to join. The guild imported, and provided its members with the raw materials needed for their crafts. They also made the tools that their members required for their work, either renting or selling them, while ensuring they remained well-maintained.
+
+Activities
+Guildmembers were always busy, crafting everyday metal objects, such as brackets, chains, hinges, horseshoes, latches, needles, and the like. They were also responsible for crafting simple weapons such as hammers and maces.
+
+Tactics
+In business, the guild prided themselves in being able to design efficient, yet elegant items; produce their crafts quickly; and, when required, replicate those designs with exacting precision.
+
+Base of Operations
+The guildhouse, named Metalmasters' Hall, was a large, three-story building in Southern Ward on the eastern side of the High Road, near the magical signpost known as the Waymoot.
+
+Members
+Members tended to be people who were very strong and hardy, with impressive tolerances for the heat and din of the forge. They had to pay thirty dragons to join the guild, and paid a further twenty in annual dues.
+
+Members wore a uniform consisting of red tunics with a black hammer (head at the top of a vertical handle) on the breast, and gray caps with black plumes.
+
+Appendix
+References
+
+---
+
+## Mount Akoro
+
+Mount Akoro was a single peak of the Abbey Mountains found in the Moonsea North region of Faerûn.
+
+Geography
+The mountain was situated on the southern slops of the mountain range, overlooking the Tortured Land to the south.
+
+Notable Locations
+The mountain was home to the Akoro tribe of goliaths, a group that fought in a famous battle against an ancient primordial being centuries before Dale Reckoning.
+
+Appendix
+References
+
+---
+
+## Mortarch
+
+Mortarchs were specialty priests of the Church of Kelemvor.
+
+Activities
+Mortarchs were specialized in the arts of funerals. Their main duties were to consecrate graves, maintain and pass on knowledge regarding burial customs, and to provide comfort to the grieving family members of the deceased.
+
+Abilities
+Mortarchs used a unique version of the bless spell, which was cast on graves both to prevent the buried corpse from becoming undead and also to keep undead creatures away. This effect lasted a full year. Mortarchs were capable of turning undead creatures more powerful than themselves. They were unable to cast raise dead or resurrection or wield any magical item that duplicated the effects of those spells.
+
+Possessions
+The dress of a mortarch were robes of dark blue and grey. They also wore a circlet of silver. The weapons carried by the priests were clubs, flails, or maces, which were always carefully concealed under these robes, in respect for mourners.
+
+Notable Mortarchs
+ Gracie Scyre, a mortarch in Baldur's Gate in the late 15 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Mourktar
+
+Mourktar was an independent city-state, that later became the capital of Threskel, one of the Old Empires of east Faerûn. It was previously considered by many to be a part of the confederation of Chessenta, though that belief was not shared by its native residents.
+
+Government
+Mourktar was ruled by its own king, a member of the dynasty that dated back to the 9 century DR when the city freed itself from the grip of imperialistic Unther.
+
+Despite the fact some outlanders believed Mourktar to be a vassal-state to the confederation of Chessenta, its strategic location away from other city-states effectively granted the kingdom its own independence. In fact, Mourktar exerted control over the city of Thamor, whose founders originated from the coastal city.
+
+Law & Order
+As of the mid–14 century, the people of Mourktar still abided by the Chessentan Code of Enlil.
+
+Relations
+Mourktar maintained an adversarial relationship with the sahuagin kingdom of Aleaxtis. They considered Mordulkin to be their rivals, especially when it came to trade and commerce.
+
+Society
+The people of Mourktar had much in common with the residents of Messemprar, the Untheric city to the south.
+
+Religion
+Worship of Assuran, the Lord of the Three Thunders was very strong in Mourktar.
+
+Mourktar was also home to a Cult of the Dragon cell that dated back to the 11 century DR, whose members served the blue dracolich Alasklerbanbastos, also known as the Great Bone Wyrm. While many of these cultists operated out of the Black Lord's Cloak temple of Bane, their true alignment lay with the church of Tiamat in Unther.
+
+Trade
+The city housed a grand port that greatly benefited the many farmers, herders, and miners of the region. Mourktar's close proximity to Bezantur in Thay and Sultim in Murghôm granted it an edge over Mordulkin in the west.
+
+Defenses
+As of the mid–14 century DR, Mourktar maintained an army of 500 soldiers, and mobilized four times as many conscripts from the city's populace.
+
+History
+Mourktar broke free from the rule of Unther in the .
+
+In the, the red dragon Tchazzar ascended to divinity after the Rage of Dragons devastated the Realms. In a frantic effort to garner more power for himself, Alasklerbanbastos sought out lichdom by means of the Dragon Cult in Mourktar.
+
+During the, King Theris announced to his subjects that he would soon be dying. As he had no heir to whom he could bequeath his kingdom, Theris called for a grand tournament of athletic prowess at the Fields of Pryollus at the base of Mount Thulbane, to determine who was worthy of Mourktar's crown. While the soldier of Akanax Helyos came close to victory, no clear victor arose as the winner.
+
+In truth the tournament was sabotaged by Kabbarath Telthaug, that Imperceptor of Bane that installed himself as the Regent of Mourktar until the, when rule of the city was forcibly shared with three younger blue dragons, by decree of Alasklerbanbastos, ruler of Threskel. The Great Bone Wyrm sought to consolidate power in the absence of Tchazzar, who had died during the Time of Troubles. Regent Kabbarath ignored the will of the dragon-king until Mourktar was devastated by the vampiric dragon Jaxanaedegor and several "lesser" dracoliches. The leaders of Mourktar responded with continued offerings and oblations as acts of acquiescence.
+
+During the Untheric Crusade of the 1370s DR, templars of Bane from his temple in Mourktar came to the defense of Unther, the nation from which the city had previously declared its freedom. The Black Lord's soldiers marched into Messemprar and aided in the city's defense against the onslaught of Mulhorand.
+
+Around that same time, sea trade from Mourktar was interrupted by domestic troubles in nearby Unther, pirate activity and even the monstrous sahuagin from the underground city of Vahaxtyl.
+
+Notable Locations
+Temples
+ Amphitheater of First Thunder, a grand arena dedicated to Assuran.
+ Black Lord's Cloak, the largest temple of Bane in all of Faerûn.
+
+Inhabitants
+Mourktar was home to a great many mercenaries and merchants, all of whom regularly benefited when conflicts arose in the surrounding lands.
+
+Appendix
+References
+
+---
+
+## Mount Thulbane
+
+Mount Thulbane was a once-dormant volcano located in the realm of Threskel in east Faerûn. Its violent eruption following the Spellplague lent to the transformation of the Realm and the further domination of its dracolich overlord, the Great Bone Wyrm.
+
+Description
+It was the highest peak in all of Threskel, Chessenta, or Unther.
+
+Geography
+The solitary mountain stood high above the flat plains over Threskel, dominating its skyline and lording itself over the surrounding landscape. The Fields of Pryollus lay at the southern base of the mountain.
+
+History
+Although thought to be extinct, Mount Thulbane was merely dormant.
+
+When the Spellplague struck Toril in the, much of the upper levels of the ground collapsed into the Underdark below and sparked geological activity across the lands. Mount Thulbane became active once more, and continuously filled the skies above with black ash that darkened the skies and allowed undead dragons to roam wild during all hours of the day.
+
+Rumors & Legends
+According to local myths, Mount Thulbane was home to the god Assuran, the Untheric god of vengeance.
+
+Notable Locations
+ Thayan embassy, a 15 century enclave that housed necromancers from Thay along their undead servitors.
+
+Inhabitants
+ Jaxanaedegor, the vampiric green dragon that masqueraded as the deity Assuran, before proclaiming himself the Viscount of Threskel.
+ Malanthus Stormstaern, a mage that served as Magister for a time during the 2 century DR.
+
+Appendix
+References
+
+FR:Mont Thulbane
+
+---
+
+## Moby Dragon
+
+Moby Dragon was a book kept by the pharaoh Martek within his tomb.
+
+Appendix
+Background
+The book's title is meant to be a parody of the novel Moby-Dick.
+Appearances
+Adventures
+Desert of Desolation
+References
+
+---
+
+## Mount Hlim
+
+Mount Hlim was the southernmost of the Greypeak Mountains in the Savage Frontier.
+
+Geography
+Just west of the mountain was Highstar Lake, and the nearby underground dwarfhold of Hammer Hall.
+
+Notable Locations
+ Xonthal's Tower, a village built at the base of the mountain built around the tower after which it was named. Throughout its history the settlement has been taken over by both the Zhentarim, and many years later the Cult of the Dragon.
+
+Appendix
+References
+
+FR:Mont Hlim
+
+---
+
+## Mogan bin Ahmed
+
+Caliph Mogan bin Ahmed was the ruler of Mahabba in the Pantheist League of interior Zakhara in the early 1360's DR.
+
+History
+Mogan was assassinated by Balanite heretics during a failed rebellion in 1360 DR. The League Conclave appointed Ma'mum al-Sahnan to impose martial law in Mahabba and crush the rebellion. Ma'mum was later confirmed as caliph of the city.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mojos al-Yunqani
+
+Mojos al-Yunqani was the Imam of Ajayib in the Pearl Cities region of west Zakhara in 1367 DR.
+
+Description
+Mojos was an elderly man in 1367 DR.
+
+Personality
+His sense of reason provided a fine balance to the caliph's adventurous spirit.
+
+Activities
+Mojos led the followers of Selan in Ajayib. He also served as an advisor to Caliph Halima al-Wahsi, often urging her to focus more on matters of state than any physical threats the savages of Al-Suqut Mountains might present. Mojos was wary of any ambassadors from the other Pearl Cities whom he believed posed a threat to Ajayib.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Moris Olgrund
+
+Moris Olgrund was the Funeral Director and mortician of Daggerford Graveyard in the Eastern Farmlands of the city of Daggerford circa 1372 DR.
+
+Description
+Moris was a pale and gaunt half-elf with sharp features and long black hair.
+
+Personality
+Diligent and perfectionist by nature, Moris could get extremely stressed by certain events, like missing corpses. His body language portrayed severe agitation, and he perspired excessively when stressed and wrung his hands.
+
+Moris Olgrund was a devoted follower of Lord Kelemvor and he despised the undead.
+
+Possessions
+Moris Olgrund kept detailed records of the funerals in his ledger, a logbook embossed with gold letters.
+
+The mortician was stocked up on holy water if he ended up needing to destroy undead and send their spirits to Kelemvor's realm.
+
+History
+The Olgrunds had been in the family business of caring for the dead of Daggerford for several generations. Moris's entire life was spent perfecting that vocation. The family reputation was spotless.
+
+In 1372 DR, Moris Olgrund embalmed and interred Old Man Bricket on the behest of his sister Muriel Bricket in the Bricket family crypt for the sum of five hundred gold coins. Soon after the interring ceremony, however, the corpse went missing. This incident pushed poor Moris into a panic. He was terrified of all of Daggerford finding out about his failure, especially the man's kindly sisters. They'd be heartbroken! Serendipitously, the Hero of Daggerford volunteered to help the panicked mortician. Moris was unable to leave his duties to go gallivanting across the fields in search of Elveronne Bricket's cadaver. The mortician suspected vile necromancy was at work and asked the Hero to destroy the undead abomination if indeed Elveronne rose as a shambling dead.
+
+Moris told the Hero that Old Man Bricket died due to spontaneous and severe food poisoning as per the coroner and the man's sisters who witnessed the distressing ordeal. They blamed bad salmon. Subsequently, the Hero of Daggerford discovered the truth behind the walking dead. He was raised from the dead by the theft of his precious elven keepsake necklace by his sister Alicine Bricket. Eventually, the Hero managed to return the undead Old Man Bricket to the grave, however the accounts of the events varied, with some saying the zombie was doused with holy water and destroyed, others whispered the story of the Hero allowing the undead to exact revenge on his murderous sisters, and others simply claimed that the Hero negotiated the keepsake's return.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Mosque of Kossuth (Krak al-Niraan)
+
+The Mosque of Kossuth was a temple dedicated to the cold elemental god of fire within the fortress of Krak al-Niraan in the Weeping Desert in 1367 DR.
+
+Description
+The air within the mosque was heavy with incense emanating from five flaming braziers located in each corner and the vaulted center.
+
+A large brazier decorated the center of the mosque. The brazier was actually a brazier of commanding fire elementals usable only by skilled flame mages or holy slayers devoted to Kossuth.
+
+Inhabitants
+Many of the Brotherhood of the True Flame within Krak al-Niraan, including the fanatical fedayeen of the Flamedeath Fellowship, came to the mosque to worship Kossuth.
+
+Defenses
+Since the mosque was strongly connected to the Elemental Plane of Fire, any flame-based attack within the mosque was enhanced.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mobius Tower
+
+The Mobius Tower was a tower that existed in its own, closed plane. One of the Guardians of Time had made it his home for a while; the wizard Martek had hidden one of his miniature crystal minarets in there.
+
+Description
+First Level
+Most of the tower was frozen in time, and could only be moved through teleportation. Those who arrived from the Grand Hall of the Crystal Prism came into an ample room, where the crystal minaret they needed in order to reach the Inner Sanctum of Martek lay, though time-trapped. From that room, they could reach the firstwife's room, where an elven woman at the edge of an oval bed contemplated a dagger laced with a clear liquid; a bead curtain blocked the way to her closet. Her room also held a staircase, which led to the treasury in the second level. On a door opposite the firstwife's room lay the festhall, with long tables, pillows, guests, food and drink. The festhall led to a cloakroom, where a single cryptknight stood guard; past the cryptknight was a staircase leading both up and down. Another door led to the buffet, where the tables continued; a servant girl there was frozen mid-slapping a man in rich robes and a turban, presumably a lecherous diner. Beyond the buffet were a kitchen and a pantry. There was a door past the pantry which led to a room empty, except for a small bottle, which contained a djinn.
+
+From the cloakroom, it was also possible to reach the Sheik's room, where a man of the desert was being attacked in his sleep by an assassin armed with bow and arrow. Past the sheik's room was a guardroom with four defenders watching the other staircase. All of them were frozen in time. The staircase was only capable of accessing the fourth level.
+
+Second Level
+The stair from the firstwife's room led towards the treasury; there were eight time-trapped guards, and three cryptknights, not time-trapped, hostile to anyone else who wasn't time-trapped. To the south, a guardroom held six time-trapped guards and a corpse, not time-trapped: that corpse belonged to Al-Dolak, captain of the guards, and a party to the assassination of the Sheik. He had been the one to pull the guards for inspection for that particular moment. If his body was disturbed, his ghost would arise, and could be made to talk. East of that was a guardroom for the harem, and further east, the harem; to the north was a hall where an efreet watched over a staff of teleportation which hung on the wall.
+
+Further north was a room of state, with an open sarcophagus in the middle of the room; that sarcophagus held a mummy, which was not time-trapped. East of the room was a room where some men and women were frozen mid-laugh. Near them lay the skeleton of an armored adventurer, carrying 400 platinum pieces and 3 gems worth 500 gp each in his rotten pouch. Thoe were not time-trapped. In the center of the floor was a procession, where a few people were time-trapped, laughing.
+
+Third Level
+The third floor, the furthest from the arrival point, held only a few notables: a time-trapped orchestra on the center of the room, and about forty men sitting on couches and pillows north and south of the orchestra while a number of girls in veils danced for them. On the southern one, the umoving figure of a man danced with one of the girls; it was actually an adventurer. If touched, the adventurer would disintegrate, leaving behind only a map. Interestingly, a door leading to a throne room was not time-trapped; the Guardian of Time sat on the throne in there.
+
+Fourth Level
+The floor immediately below the arrival point held a single,  tall octagonal room with a pillar in the center. The pillar laid on top of a  tall base, which had a north and a south entrance; a hole was hidden in an alcove within the space of the northern entrance. If anyone plugged the hole, time would resume in the tower for a few minutes; a building-up pressure would soon expel any plug. The Tome of Time was in the same level. Nothing in the level was actually time-trapped; a tapestry in the main room showed the Cathedral inside Martek's Tomb.
+
+Inhabitants
+A Guardian of Time had made its home in the third level of the tower, and two ghosts had sprang since the freezing of the tower: one of them belonged to an elven woman, while another belonged to the captain of guards, Al-Dolak. A number of cryptknights had arisen since. A mummy, somehow, was unfrozen in the Room of State.
+
+History
+At the moment when the Mobius Tower became frozen in time, one of the Sheik's guards had been slain without waking up the Sheik, who himself was moments away from being struck by an arrow in his sleep. The firstwife's involvement in an attempt on the Sheik's life had been discovered, and she had been sent to her room, where she was examining a wicked blade. A feast was going on at the same time, along with music and dancing; given the number of people laughing in the tower, the assassination attempt likely occurred during a celebration.
+
+Only a few things were spared the freezing of the tower: a djinn bottle brought by an adventurer, an efreet along with the staff he was given to guard, the captain of the guards, Al-Dolak, the doors of the audience chamber, a mummy and the entire fourth floor. At least two adventurers had died in the tower since the time-freeze.
+
+In, the crystal minaret of Martek was removed from the tower.
+
+Appendix
+Appearances
+Adventures
+Desert of Desolation
+References
+
+---
+
+## Moesko
+
+Moesko was an anchorite of Talos who maintained the lighthouse and the shrine to Talos at the Tower of Storms in the late 15 century DR.
+
+Description
+He had linked himself to the Tower of Storms by invoking a ritual that transformed his own heart into the beacon. The sickly light his heart emanated bewitched passing ships, and lured them to the Tower to either crash on the rocks or get stuck on a nearby beach. The ritual left a gaping hole in his chest where his heart used to be, which he usually covered with his armor.
+
+Personality
+Moesko was confident and cruel. He had great faith in his abilities in combat, and had no patience for anyone who questioned him or failed to obey his commands.
+
+Abilities
+Like other anchorites of Talos, Moesko had two formidable gifts: Talos had given him spells, including the ability to hurl lightning bolts, and he was a shapechanger who could adopt the form of a boar. Uniquely, however, Moesko's connection to the beacon at the Tower of Storms meant that he could not be killed conventionally as long as his heart was intact. If he was slain, his body would simply reform beside his heart the next day.
+
+Possessions
+Moesko wore clawed gauntlets and armor made of octopus hide. His favorite treasure was an opalescent conch shell, which was a spell focus he had taken from the sea elf Miraal when he murdered her outside the Tower of Storms.
+
+History
+The Tower of Storms came under the control of the anchorites of Talos sometime in the late 15 century DR, and by the time the white dragon Cryovain began terrorizing the region, it had been secretly converted into a temple to Talos with Moesko's heart serving as the beacon. Soon, no less than five ships had crashed upon the rocks, lured by the beacon's green light.
+
+Moesko's role at the lighthouse was in service to the Cult of Talos, who plundered the ships that he caused to run aground. This included a death knight-dreadnaught belonging to the necromancer Ularan Mortus, starting a war between the Cult of Talos and Mortus's cult of Myrkul.
+
+Appendix
+Appearances
+Adventures
+Dragon of Icespire Peak
+References
+
+---
+
+## Mogdor
+
+Mogdor was a mysterious arch-nemesis of Delfen Ondabarl, a wizard from Daggerford, and the former master of the wizard's familiar Sujit.
+
+Description
+Mogdor appeared to be a strange being. He resembled a dark-skinned half-elf, but he also had small horns and demonic wings on his back. His true nature remained a mystery, possibly indicating him having the blood of creatures from the lower planes. He was an evil and cruel man.
+
+History
+Not much of Mogdor's history was known, apart from the fact that he hailed from the ice plains of Etabalon. However, at some point before 1372 DR, he was the master of Sujit the imp. Eventually, the imp was rescued from servitude by Delfen "Yellowknife" Ondabarl and taken into his care as a familiar and a friend. Mogdor was a proud creature and continually perused the duo trying to reclaim his lost possession, eventually becoming Delfen's arch-nemesis.
+
+In 1372 DR, Mogdor offered a hefty sum of coin to Erik the Fin, a thief from Daggerford, in exchange for capturing Sujit. The rogue placed a trap for the curious imp outside the wizard's home in Sorceller's Encapsulate. He set up a music box chest in an alley, king sure the imp could hear it. Sujit investigated the music and became trapped in the chest. However, Erik managed to stop the container into Delimbiyr River, losing his heft bounty. He sought help to recover the lost chest, recruiting the Hero of Daggerford without revealing the chest's contents.
+
+The Hero eventually recovered the missing container and, realizing that Delfen's fiend was inside, returned it to the wizard of the Sorceller's Encapsulate. Delfen Yellowknife conceited the renege plot on his arch-genesis and gave the Hero a chest with a surprise inside to be returned to Mogdor. When Sujit's old master opened the chest, he awakened a demilich, Extallimix, who was trapped in an orb in the years past. Aggravated over his imprisonment, Extallimix blasted Mogdor with deadly magics, seemingly killing him.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Mouse Alley
+
+Mouse Alley was a short, curving minor avenue of hard-packed earth and gravel in the Southern Ward of Waterdeep, that was considered a sacred site to those who worshiped the goddess Mystra.
+
+Geography
+This curving road linked the street of Blackcloak Alley to Brian's Street. East of it, the street Fishwife Alley ran roughly parallel.
+
+History
+An alleged event prior to the 13 century DR was the origin of both this alleyway's name and its status as a sacred site. The story went that Ahghairon, the first Open Lord of Waterdeep, was one day chasing a mouse down this alley that he believed to be a shapechanged sorceress. After catching the mouse, it transformed before Ahghairon and revealed itself to be the goddess Mystra.
+
+Years later a prideful wizard by the name of Thunturn came to this alley with the intent of challengeing Mystra for mastery over all magic. The goddess answered his challenge and left him humbled, his hair jet black from fright and his magic all stripped away.
+
+In the 14 century DR, Ruufdeidel Ressatar could usually be found lounging against a wall in this alley, waiting for someone to hire him for his informant services.
+
+Reputation
+It was said that worshipers of Mystra might receive aid from her in this alley or that she would punish anyone trying to harm her faithful that took refuge in the alley.
+
+Appendix
+References
+
+---
+
+## Mountain's Toe
+
+Mountain's Toe, also called the Mountain's Toe Gold Mine, was a Neverwinter-owned gold mining operation in the Sword Coast North.
+
+Description
+The relatively small mine was a series of small,  tall caverns connected by a maze of  wide tunnels supported with wooden posts. Rivulets of gold could be seen in the rock walls of nearly every section. The western tunnels contained storage for tools and foodstuffs  as well as sleeping areas for the miners filled with wooden cots
+
+The mine had entrances on both the eastern and western sides of the foothill in which it sat, plus a tunnel that opened onto the cliffside  up. A sign above the western entrance identified it as "Mountain's Toe." In the late 15 century DR, the entrances were somewhat concealed by overgrown bushes.
+
+Geography
+The mine was located in the foothills of the Sword Mountains  northeast of Phandalin. The entrance sat at the base of the northern spur of a tall, snow-capped mountain. This spur was only about  wide, which was likely the source of the name "Mountain's Toe."
+
+History
+In the late 15 century DR, a crew of sixteen human and dwarven miners worked in Mountain's Toe. The mine was owned and operated by a consortium in Neverwinter, under whose oversight the gold production failed to meet expectations.
+
+Production plummeted to zero during the reign of the white dragon Cryovain in the region. He seized Icespire Hold as his lair, which forced the previous orc occupants to flee into the foothills. In turn, these orcs occupied the shrine of Savras just south of Conyberry, displacing the previous wererat occupants. These wererats, who called themselves the Whiskered Gang, then invaded the Mountain's Toe mine, killing eleven of the sixteen miners and claiming the tunnels as their new home. The surviving miners holed up in the eastern section of the tunnels where they barricaded the doors and refused to retreat. They established a small graveyard outside the eastern entrance for the ten of their comrades whose bodies they recovered, and then dug in to wait for reinforcements.
+
+Around this time, the mine's owners had decided to install a new and more driven overseer of the mine, Don-Jon Raskin. They dispatched him from Neverwinter to Phandalin, and then hired Phandalin's townmaster Harbin Wester to find adventurers to escort him the rest of the way to the mine.
+
+Appendix
+Appearances
+Adventures
+Dragon of Icespire Peak
+References
+
+---
+
+## Moldy Cheese and Laughing Spoon
+
+The Moldy Cheese and Laughing Spoon was a tavern in the town of Felshroun.
+
+Reputation
+This establishment was considered to be among the best taverns in Felshroun. Its prices were rivaled in Felshroun by the less quality taverns Pinchbeck's Tankard and Rum Boot.
+
+Appendix
+References
+
+---
+
+## Monastery of St. Domin
+
+The Monastery of Saint Domin, also known as the Holy House of Domin, was a cloister, school, and orphanage of the Church of Ilmater that stood just off the Firedrake Road, approximately 20 miles to the Northeast from the Tethyrian town of Mosstone.
+
+Location
+The monastery was about half-a-day travel from Mosstone along the Firedrake Road, a humble trail road that wrapped around the coast of the Firedrake Bay.
+
+Structure
+The monastery was a sizable stone structure that once was a baron's manor. The main structure was the monks' home, while the outlying wing was repurposed to be the chapter house. Behind the manor was a small structure used by the inhabitants of the Monastery of Saint Domin as a chapel. The manor was connected to the Firedrake Bay's shore via a set of stone stairs and further into a sea cove underneath the cloister.
+
+The walls and the interiors of the Holy House of Domin were decorated with the monastery symbol. Each cloister of Ilmater had a unique symbol - always a flower. This particular monastery's symbol was the image of three mountain daisy, depicted in a realistic tangle of ochre and yellow flowers.
+
+Services
+On occasion, the monks offered navigation and seamanship lessons to the non-Ilmatari for a steep price, which increased depending on how suspicious the monks are of the outsider asking for lessons. The fees were quite egregious, from 300 to 600 gp per student, and they never took more than three guests on the voyages to the Saint Cabram's Missionary. Such trainees were not allowed to bring any weapons along, apart for bell knives that were kept with the monks until their voyage and lesson were complete. Additionally, one guest was allowed to bring one chest, coffer, or a smaller container aboard with their belongings.
+
+Activities
+The Dominian monks ran a school and an orphanage out of the restored mansion. The small chapel of the monastery rang its bells thrice a day to summon the monks and their charges to the worship of Ilmater.
+
+A big part of orphans' education was the art of shipwrights, the monastery's dedication. The monks' charges spent a big part of their time in the cove, down the stone steps, learning the shipbuilding coast from the Dominian monks. The completed ships were sailed by monks and older charges around the Starspur and along the River Ith, eventually docking in the Saint Cabram's Missionary, County Elemetar. There, the ships were sold to benefit the cloister and the orphanage.
+
+Eventually, children who aged out of school left the cloister to work as coopers for various barrel-makers. Some graduated into a boatbuilding career outside the monastery, settling all across the Sword Coast. Their expertise was so renowned, it gave birth to the phrase "Domin bold," which stood for a sturdy barrel or a chest that remained undamaged after a long fall that destroyed lesser containers.
+
+History
+The Holy House of Domin was dedicated to its namesake in 1361 DR, the Year of Maidens. Before that, the monastery was the manor and the seat of baronial power of the County Kargrove. Eventually, following the events of the Black Days, the manor was burned out and abandoned, becoming a home for wild dogs. Sometime circa 1361 DR, a group of monks of the Ilmateri faith repaired the mansion's structure and walls, turning it into a cloister. The monks dedicated the monastery to Saint Domin, a shipwright from Velen who gained the status of a saint for his charity towards children in centuries past.
+
+Appendix
+References
+
+---
+
+## Morningstar Haven
+
+Morningstar Haven was a temple dedicated to Lathander located in the city of Westgate in 1367 DR.
+
+Location
+The temple was located on Westgate Market Street in the northwest section of the city next to the House of Ilmater.
+
+Appendix
+
+See Also
+Interactive map of Westgate
+Appearances
+
+References
+
+---
+
+## Most Transcendent Affiliation of Paradisiacal Pens
+
+The Most Transcendent Affiliation of Paradisiacal Pens was an association of bonded scribes devoted to Amaunator, the Keeper of the Eternal Sun.
+
+Activities
+Members of this group were usually quite aloof and cocky. They traveled Faerûn preaching the holy word of law and order. Their goal was to construct many large stone amphitheaters dedicated to preserving the law in the form of books and scrolls from every land they visited.
+
+Appendix
+References
+
+---
+
+## Monastery of St. Ulrach
+
+The Monastery of St. Ulrach was a monastery dedicated to Ilmater, the Crying God, in the Delimbiyr Vale in the mid-to-late 14 century DR.
+
+Location
+It was located some two days' ride south of the city of Loudwater, on the eastern edge of the Southwood forest.
+
+Description
+The monastery resembled a fortress and stood on a rocky crag overlooking a winding creek. Around the crag's base and along the creek was a thorp called St. Ulrach.
+
+History
+The monastery was built by a local Ilmatari saint known as St. Ulrach the Twice Martyred. He earned his appellation when he died, for the second time, in defense of the Delimbiyr Vale against marauding hobgoblins commanded by a cornugon circa 1363 DR.
+
+With his sacrifice and sainthood, Ulrach's small monastic order swelled. They remained active almost a decade later, around 1372 DR.
+
+Activities
+The monks' teachings were focused on finding strength in suffering and in the holy nature of working the earth and living a simple life. The monks grew plants and herbs. Evendur Olvebranch, a local sage, came to the monastery occasionally to collect some special herbs.
+
+The monks visited Loudwater to tend to Tragedy's Grotto, a shrine to Ilmater with a statue of St. Ulrach. They came regularly but not frequently.
+
+Appendix
+References
+
+---
+
+## Morthass Orgolath
+
+Morthass Orgolath, who was also called the Cloven, was a tiefling Nentyarch of the Orgolath Dynasty of Narfell.
+
+Activities
+Morthass ruled as Nentyarch from  to .
+
+Relationships
+Morthass was the secondborn son of Horthaun. His brother, Jelethar inherited the throne upon his father's death in, and Morthass came to power when his brother disappeared in −475 DR. Morthass's sole heir was his son Nardrad.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Mornarth Talanthil I
+
+Mornarth Talanthil I was the seventh Sorcerer-Arkhan of the Talanthil Dynasty to rule the nation of Raumathar.
+
+Activities
+Mornarth I reigned from  to, inheriting the throne when is father, Vayloss III, died.
+
+Relationships
+His son and sole heir was Tallos I.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Mornarth Talanthil II
+
+Mornarth Talanthil II was an Arkhan of the Talanthil Dynasty to rule the nation of Raumathar.
+
+Activities
+Mornarth II inherited the throne when his father, Tallos II, died in . He ruled until  when he died of natural causes.
+
+Relationships
+Mornarth II died without an heir, resulting in the throne passing to his brother Dhalarth who was renamed Tallos III.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Mornarth Talanthil III
+
+Mornarth Talanthil III was an Arkhan of the Talanthil Dynasty who ruled the nation of Raumathar.
+
+Activities
+Mornarth III inherited the throne when his father, Tallos III, died in . He reigned until .
+
+Relationships
+Mornarth III's had two sons with Tallos IV being the eldest and Vayloss IV being the youngest.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Morov
+
+Morov was one of the city provinces of Damara, along with one of its smaller baronies, as of the mid–14 century DR.
+
+Geography
+Morov was found in the southern region of Damara, in what was considered nation's most fertile lands. It was situated along with the provinces of Polten and Ostel around Lake Mogador, a grand lake that was connected numerous rivers and shipping lanes that ran through the nation.
+
+Government
+As of the, Morov was ruled over by the Damaran house of Banacath.
+
+Economy
+
+Morov's bountiful natural resources led to it becoming one of the wealthiest, and thus more stable of Damara's provinces during chaotic years of power struggles and war.
+
+Defenses
+During the Bloodstone Wars, Morov's fighting force was incorporated into the larger "army of the minor baronies", that boasted 1400 infantry soldiers, 600 mounted combatants, 260 archers, a score of chariots, and a trio of powerful wizards.
+
+History
+When the Witch-King Zhengyi took over Damara, after the, the lich installed Dimian Ree as Morov's new baron to consolidate power, and designated the independent city of Heliogabalus as its capital. When the Bloodstone Wars broke out that same year, Morov founded an alliance with the neighboring regions of Ostel and Polten. Baron Ree's inept leadership during the conflict led to many needless casualties, and the whole of its forces being kept within their borders. Over a thousand of Morov's soldiers deserted the army after their defeat by the forces of Gareth Dragonsbane at Warrenswood and found new homes in Bloodstone and Brandiar along the Galena Mountains.
+
+The remaining allied army of Morov, Ostel, and Polten fought together once again to retain their "independence" against the army of Bloodstone one last time, following conflicts in Arcata and Carmathan. Upon their defeat, each of the three minor duchies swore allegiance to Bloodstone and its ruler, Gareth Dragonsbane.
+
+Notable Locations
+ Heliogabalus, the barony's capital was home to three-quarters of its populace.
+
+Appendix
+Appearances
+Adventures
+ Bloodstone Lands • The Bloodstone Wars
+
+ The Throne of Bloodstone
+
+References
+
+Connections
+
+---
+
+## Mortonbrace (person)
+
+Mortonbrace was an architect and builder in the city of Ravens Bluff in the early 14 century DR.
+
+History
+Around 1304 DR, when Ravens Bluff was in its early days of expansion, Mortonbrace presided over much of the building work that went on. One of the neighborhoods of Ravens Bluff that came to be was given the name Mortonbrace in his honor.
+
+Appendix
+References
+
+---
+
+## Mor Kulenov
+
+Mor Kulenov was a wizard working for King Gareth Dragonsbane of Damara.
+
+Description
+Master Kulenov was a pudgy, little man with a billy-goat beard.
+
+Abilities
+While in the Plane of Shadow, Mor Kulenov cast Nybor's wrathful castigation on a shadow dragon, and with a different spell, he made his staff and beard shimmer; the latter shimmered longer, suggesting he was casting silverbeard.
+
+History
+Master Kulenov was the one who allowed Sergor Marsk and his traitors into the King's retinue on Mirtul 3 in the . He was present there too, and attempted to rouse the King after he was cursed, but failed. He was later part of the incursion into the Plane of Shadow to recover the King's soul on Kythorn 26.
+
+Appendix
+Appearances
+Novels
+The Rite
+References
+
+---
+
+## Mostok
+
+Mostok was a barbarian of the Astok hill tribe and an inhabitant of the Free City of Umara in north Zakhara in .
+
+Activities
+Mostok was a faithful supporter of Khan Ubar khel Muhif and followed him to Umara when Ubar became Caliph of that city after the rebellion. As Ubar's second-in-command he was referred to as "ur-Khan Mostok." Mostok believed that life in Umara was making Ubar soft and he never referred to him as Caliph. He distrusted the natives of Umara and believed they would one day turn on the members of the Astok who lived within the city.
+
+Appendix
+Notes
+
+Refs
+
+---
+
+## Mordant Decruew
+
+Mordant Decruew was an officer in the Zhentilar and one of the most-veteran soldiers that served under Ronglath Knightsbridge for a period during the mid–14 century DR.
+
+History
+Mordant rode alongside Commander Knightsbridge in the march through the Dalelands leading up to the Second battle of Shadowdale in the . His confident and calm demeanor helped settle the nerves of some of Knightsbridge's other, less-experienced soldiers.
+
+Appendix
+Appearances
+Novels
+ Shadowdale
+
+References
+
+---
+
+## Mother Tethos
+
+Mother Tethos was a doctor and midwife who lived in the village of Eveningstar during the mid-to-late 14 century DR.
+
+Activities
+Mother Tethos owned a shop specializing in herbs, cordials, and gentle cures. Her shop was located in the center of Eveningstar.
+
+Appendix
+References
+
+---
+
+## Moccasins of free movement
+
+Moccasins of free movement were moccasins enchanted with the pluma spell create talisman.
+
+Description
+These leather shoes were beaded for decoration.
+
+Powers
+These magical shoes functioned just like boots of elvenkind with regards to allowing the wearer to move about silently. Additionally, they provided the wondrous ability to traverse any surface with ease provided the wearer was walking. This included snow, mud, sticky tar, and even water.
+
+Appendix
+References
+
+---
+
+## Molkai
+
+Molkai was a blightspawned volodni sorcerer in service to the talontar blightlord Gameliel in .
+
+Powers
+Molkai threw a bolt of black, sorcerous lightning that was imbued with the power to cause rot.
+
+History
+While kidnapping Araluen and fighting Elowen, his group came under attack by Marrec and Gunggari Ulmarra; Molkai warned them to leave, for his group required the Horned Aspect. After Marrec slew him by throwing Justlance, one of his comrades believed the enemy cleric had disarmed himself in the process.
+
+Appendix
+Appearances
+Novels
+Lady of Poison
+
+References
+
+---
+
+## Moonsilver Shard
+
+Moonsilver Shards were enchanted darts that transformed into a small bolt of magical energy once launched.
+
+Powers
+When launched, Moonsilver Shards burst into magical energy and almost certainly were to hit their targets. The effects of these shards were similar to those of the magic missile spell.
+
+History
+In the late 14 century DR, Moonsilver Shards could be found in the Moonsea region as well as being sold by the shady drow merchant named Nym in the Ten Towns of Icewind Dale.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Tyrants of the Moonsea • Neverwinter Nights: Doom of Icewind Dale
+
+References
+
+---
+
+## Moa
+
+Moa  was one of the nine trickster gods of Omu in Chult. He was a primal spirit that took the form of a jaculi.
+
+Personality
+Moa was kind and honest. He always spoke the truth.
+
+Appendix
+
+References
+
+---
+
+## Monastery of Oghma
+
+This building was a small monastery in the Gulthmere Forest, dedicated to the worship of the deity Oghma, in the 12 to 14 centuries DR.The Forging the Realms article "Hulther's Mimics" does not explicitly state where this monastery was located, only saying that it was "in the deep forest southwest of what later became Starmantle." Because the only forest south of Starmantle is the Gulthmere Forest, this article makes the assumption that it was the forest being referred to.
+
+History
+In the, an Oghmanyte priest by the name of Amanlas Hulther had discovered small mimics within an ancient, dried-out well behind the monastery. He began to experiment on the creatures and prayed to his deity for guidance on what to do with them. Over the next two decades he came to control them through a strict regimen of punishment and food incentives, until eventually he bred them.
+
+Amanlas went on to show his work with the mimics to his superiors at the monastery. With their support, he spent another two decades breeding the mimics to have certain traits, culminating in what became known as a book mimic, a creature bred for the purpose of guarding the tomes in Oghmanyte libraries. In the, the now elderly Amanlas sent word of his achievement the highest-ranking Oghmanyte priests that he could.
+
+Sometime in the late 1300s DR, this monastery was destroyed and by the next century almost no traces of it remained.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mount Hotenow (Shadowfell)
+
+Mount Hotenow  was an active volcano in the Shadowfell and a reflection of the volcano of the same name on the Prime Material world of Toril.
+
+Description
+This volcano was constantly erupting ash and cinder into the air, occasionally raining small stones, fire, and lava over the surrounding woods. Rivers of magma constantly flowed down from it, into various parts of the woods that surrounded it, some of which flowed all the way to the city of Evernight. These rivers emitted thick gouts of smoke and fires danced along their banks.
+
+The interior of the volcano was full of magmatic caverns, connected to exterior caves. In the hottest and most hazardous depths of the caverns, one could find portals to the Elemental Chaos and Toril.
+
+Geography
+This volcano stood in the Burning Woods, a reflection of the Neverwinter Woods on Toril.
+Flora & Fauna
+A variety of elemental creatures and fiery undead inhabited the caves of Mount Hotenow, some of them the spirits of beings slain within the volcano's Prime Material counterpart. Such undead included blazing skeletons, charnel cinderhouses, flameborn zombies, flameskulls, and forgewraiths.
+
+Appendix
+References
+
+---
+
+## Mortissa's beads of rigor
+
+Mortissa's beads of rigor wan an enchanted necklace made out of finger bones, from the ruins of Myth Drannor.
+
+Powers
+The magic necklace allowed the wearer to cast the halt undead spell. Mortissa's beads of rigor held seven charges of the spell.
+
+History
+In 1369 DR, Mortissa's beads of rigor could be uncovered in the Lower Keep levels of the Elven Catacombs, hidden within a locked old chest among possessions of orog marauders who laired there.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Moonsplinter
+
+The Moonsplinter was a unique enchanted stone dagger that belonged to Gunloda Ebonspire before the fall of Myth Drannor in the Weeping War.
+
+Powers
+The Moonsplinter possessed several powerful enchantments. It increased defenses of the creature wielding the dagger, it gave them improved protections from threats of mundane and magical nature, granted them resistance to spells, and improved their speed and reaction in combat. Additionally, the Moonsplinter allowed the wielder to cast the globe of invulnerability spell. The dagger held five charges of the spell.
+
+History
+After Gunloda's death, the Moonsplinter was interred along with its mistress within the deepest levels of the Elven Catacombs under Castle Cormanthor. The series of interconnected dwarven tombs were protected by ancient constructs and magics that allowed people in need to claim the artifacts from the crypts if the appropriate donation was made.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Mount Andrus
+
+Mount Andrus was a semi-active volcano, sacred to the Church of Talos, located in the Mountains of the Alaoreum in Turmish.
+
+Description
+Mount Andrus was known to erupt in steam and copious amounts of volcanic ash. The most notable feature of the arcane magic was a time gate, hidden inside Mount Andrus. The gate remained there, despite centuries of volcanic activities. The time gate was protected from the heat of molten rock by Mystryl's magic, later maintained by Mystra.
+
+History
+Mount Andrus erupted in the winter of the, harming the orcish Candlekairn clan by destroying their home and killing the chieftain. Survivors claimed that the disaster buried the orc king's treasures plundered in the War of 512 under many layers of volcanic ash.
+
+Rumors & Legends
+It was believed that the worshipers of the evil deity Talos were allied with a malicious creature, or possibly, a community, that dwelt in the heart of the volcano.
+
+Appendix
+References
+
+---
+
+## Moonfall Ridge
+
+Moonfall Ridge was a clifface overlooking the town of Aithelar in the kingdom of Callidyrr on Alaron in the Moonshae Isles.
+
+Geography
+Moonfall Ridge was found directly north of Aithelar, beginning on the coast of the Sea of Moonshae and passing east until ending near the edge of the Dernall Forest. A trail passed through a small pass through the cliff's eastern side that led to a quarry.
+
+Appendix
+References
+
+---
+
+## Morka Fooztang
+
+Morka Fooztang was a hermit and wiseman who lived on Noko-Ji Peak in Tabot.
+
+Fooztang was one of only five wisemen recognized by the monks of Tabot around  as being a true oracle, being capable of predicting the future and raising heroes from the dead for good causes.
+
+Appendix
+References
+
+---
+
+## Mount Wiz'tcu Tan
+
+Mount Wiz'tcu Tan was a mountain in Tabot.
+
+Notable Inhabitants
+It was the home of Ti Horr, an old hermit and oracle, around .
+
+History
+At the end of his long reign, the first High Lord of Oceans H'Dang Li, selected a successor and walked away into the mountains south of Mount Wiz'tcu Tan.
+
+Appendix
+References
+
+---
+
+## Mount Shun
+
+Mount Shun was a mountain in the Po Yul Dzayul Range in Tabot, lying northwest of U'Chan Gompa.
+
+Description
+Mount Shun was known to be craggy. It was commonly included in the background of paintings of U'Chan Gompa as part of the Po Yul Dzayul Range, visible in the distance and appearing mysterious.
+
+Notable Locations
+A famed temple of the Tabotan Way of Enlightenment stood here. It was reputedly where the Holy Mysteries of the faith unfolded, where the lances of Tabja Rung were forged, and where demons were defeated.
+
+History
+In, lightning reportedly blasted the image of H'Dang Li, the first High Lord of Oceans of Tabot, into an altar in the temple on Mount Shun, during ceremonies at the end of an annual pilgrimage. The lamas who witnessed it declared it a sign of his special favor and thus demanded privileges, but rivals were suspicious of this miracle.
+
+Appendix
+References
+
+---
+
+## Motra
+
+Motra was a city in Tabot. It was considered a twin city of its neighbor, Joya.
+
+Geography
+It stood in southeastern Tabot, at the very edge of the border with Shou Lung's Arakin province. Motra lay just north of the river there, while Joya lay opposite in the south.
+
+Population
+In the eyes of Pang, a monk of Pokarr Gompa, the twin cities of Motra and Joya were frontier towns and their people only "confused laymen". He believed the streets were plagued with thieves, bandits, murderers, and even "night assassins", and that the people gave free passage to outlaws from Shou Lung and T'u Lung. It was rumored the people worshiped "the frog and the snake". The agents of Lady Holang of Pim Tung operated here around .
+
+History
+Holang, who was kidnapped as a youth from a wealthy family in T'u Lung, was taken to Motra and sold before she was of marriageable age. Baron Mukow Jian bought her and took her to of Pim Tung as his house slave.
+
+Appendix
+References
+
+---
+
+## Mohmafel
+
+Mohmafel was an elf of unknown origin, desert-dwelling per Iahn Qoyllor's judgement.While it appears to be strongly implied that Mohmafel is in fact one of the elves from Al Qahera that went missing when the Palace of the Purple Emperor came back to the Realms, this is never outright stated. He was accompanying Deamiel during the latter's pursuit of Ususi Manaallin in the, while both were under Pandorym's influence. He was slain by a poisoned bolt fired by Iahn Qoyllor; at the time of death, he was wearing a long white gown and wielding a bow.
+
+Appendix
+Notes
+
+Appearances
+Novels
+Darkvision
+References
+
+---
+
+## Mount Pojah
+
+Mount Pojah was a mountain somewhere in Tabot near the Shou Lung border.Mount Pojah is not labelled on any map, but likely lies at the eastern end of the Kun-Yen Shan range, as it is the only one with a hermitage marked near the Shou Lung border.
+
+History
+In, a tortoise-shell divination at U'Chan Gompa promised the finding of a very rich gold mine east of Mount Pojah.
+
+Notable Inhabitants
+It was the home of the Forgotten One, a hermit and oracle, around 2607.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mount E'kwong
+
+Mount E'kwong was a mountain in the middle of the Po Yul Dzayul Range in central Tabot. not far from the Shou Lung border.
+
+Description
+Described as grim and foreboding, its slopes were stark and jagged.
+
+Notable Locations
+Atop Mount E'kwong stood the Temple of Heaven's Heart, devoted to the Celestial Heart in Tabot's form of the Way of Enlightenment. It hosted an important religious ceremony and festival, and thousands of pilgrims tried to attend, but only a relative few were permitted to make the journey, as well as specially invited guests. By tradition, they went on foot, following a narrow, crowded road that wound some  up the mountain. It took days for them all to make the journey.
+
+History
+Around, Tabot negotiated peace with Shou Lung and invited a delegation to the ceremony at the Temple of Heaven's Heart. The Dragon Lord Mei Lung elected to attend in person (though, as a dragon, it seems he was in disguise) with attendants and escorts. He watched the procession for two days, noting people of all ages, warriors, monks, priests, and servants, before meeting Pang, a monk scribe chosen to represent Pokarr Gompa, accompanied by five temple guards. They went up together, with Pang telling Mei Lung what he knew of his homeland.
+
+Appendix
+References
+
+---
+
+## Mordakai of Thay
+
+Mordakai of Thay was a sorcerer, former member of the sinister Red Wizards of Thay, and a member of an adventuring company called the Annals of Halgren in the early 14 century DR.
+
+Description
+Mordakai was not ashamed of his Thayan past, as was evident in his chosen name and red robes. A simple dagger was Mordakai's weapon of choice. The sorcerer was a talented alchemist and diplomat, had knowledge of the Art, and preferred spells of the evocation school of magic.
+
+History
+Mordakai was born in Thay and was an apprentice under the Red Wizards until the day it was discovered that he had a natural gift for manipulating the Weave—he was a sorcerer. Mordakai did not share his old masters' bloodthirsty nature and gladly abandoned the Red Wizards, fleeing north.
+
+In the, Mordakai of Thay found himself in the northern city of Luskan, where he joined the Annals of Halgren. The adventuring troupe searched for mercenaries, and Mordakai joined, hoping to set himself apart from the Red Wizards with his accomplishments.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale II
+
+References
+
+---
+
+## Mosstone (Rashemen)
+
+Mosstone was an enormous moss-covered rock found within Immil Vale in Rashemen.
+
+Description
+Mosstone was a massive rock carved with runes, flowing like water, and thick curtains of mosses. The runes were weathered by time and elements and their design evoked feelings of fleeting memories and flowing dreams.
+
+History
+In the, famed Kalach-Cha and their companions, including Gannayev-of-Dreams, ventured into Immil Vale in search of the fabled Wood Man. Gann felt the stone's connection to the Dreaming. He suggested the group rest in Mosstone's shade and ride the currents of dreams with Gann's help to grasp a piece of the Spirit-Eater's history.
+
+Rumors & Legends
+Anyone making camp in the shadow of Mosstone was visited with prophetic dreams while they slept. Some were even visited by the telthor Hulmarra Murnyetha, and, if they reminded her of her long-dead husband, some men were spirited away by Hulmarra to return years later without having aged at all.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Mask of the Betrayer
+References
+
+---
+
+## Mount Omvulag
+
+Mount Omvulag was prominent peak located within the Sunrise Mountains between Rashemen and Thay.
+
+Geography
+The peak stood in the southern region of Rashemen. It lay north of the Mulsanyaar Plateau overlooking the Gorge of Gauros.
+
+Appendix
+References
+
+---
+
+## Mountain troll
+
+Mountain trolls were a breed of troll that dwelt on mountains. They were immense, and especially brutish.
+
+Description
+However, these giants were capable of blending in with mountainous rocks, offsetting their otherwise notable difficulties at hiding.
+
+Abilities
+Mountain trolls' regeneration was not as extreme as that of other trolls, and it was insufficient to protect them from lethal blows, or even regenerate lost limbs, but it was faster and functioned normally against wounds inflicted by fire or acid. They had a strong sense of smell.
+
+Subspecies
+The particular strain of trolls most common in Halruaa were recognizable for their oversized jaws.
+
+Personality
+When in mixed groups, these slow-thinking trolls were brutal bullies, eating any creature that failed to follow their orders. In general, they had no concept of fear or caution, smashing anything that got in their way when they wanted to take something (usually for eating).
+
+Combat
+They were uncomplicated attackers, favoring crushing force and overwhelming offense. They had incredible stability on their feet, and every blow of theirs had the potential to throw any foe off their feet.
+
+Society
+Rarely alone, mountain trolls casually pushed around other giants, such as ogres and smaller trolls. They were brutal bullies, eating any creature that failed to follow their orders.
+
+History
+Mountain trolls were most common in Halruaa, though they could be found in other mountain ranges within Faerûn.
+
+The Elder Evil Pandorym had bound at least two mountain trolls to its service in .
+
+Appendix
+Notes
+
+Gallery
+
+Appearances
+Novels
+Darkvision
+Miniatures
+Dungeons & Dragons Miniatures
+References
+
+Connections
+
+---
+
+## Mountain of Skulls
+
+The Mountain of Skulls was a temple of Cyric found within the Cloud Peaks of Amn circa the late 14 century DR.
+
+Location
+The temple was built within a nearly inaccessible cavern,  into a gaping gorge, some  east of the Fangs.
+
+Structure
+A skull-shaped opening formed the cave in which the temple was founded.
+
+Interior
+The Mountain of Skulls earned its name from the massive mound of skulls that lay within its center. This horrific display was treated as an idol by the local Cyricists.
+
+Activities
+The temple was overseen by Watchful Skull Tynnos Argrim, founder of the order of assassins known as the Flames of the Dark Sun. Argrim's priests were seen as heretics by the Cyricists of the Twin Towers of the Eternal Eclipse.
+
+History
+The temple was once dedicated to the god Bane, before being claimed by Cyricists during the Amnian Banedeath in the .
+
+In the summer of the, Watchful Skull Argrim slew the leader of the Dark Redoubt within the temple's premises and forced its clergy to fall under his own leadership.
+
+The Mountain of Skulls endured the decades of languish experienced by the Cyricist faith, and remained standing as of the .
+
+Appendix
+References
+
+---
+
+## Monastery of the Ebon Dome
+
+The Monastery of the Ebon Dome was a Sharran temple built by the Order of the Dark Moon long before the Era of Upheaval. It was later repurposed in the late 14 century DR by a contingent of Cyricist militants called the Company of the Ebon Spur, a group that aligned themselves with the black dragon Despayr.
+
+Location
+The monastery was situated atop a hill on the eastern end of the Whispermere in the Shadow Swamp on the Plane of Shadow. A small, barely-illuminated dock was built on the bank of the river, approximately  away .
+
+It was accessible from Toril by means of the Dusk Lord's Passage, a portal found inside the Lost Refuge within the Vast Swamp in Cormyr.
+
+Structure
+The monastery comprised three stone buildings and two support structures surrounding a central courtyard, connected by several staircases and walkways. The entirety of the premises was built atop a small hillock and was well-protected by both its elevation and mortared stone walls.
+
+A trail leading up from the nearby docks led to the monastery's gatehouse and adjoining stable, both of which had become dilapidated over time. The Dark Moon monks' refectory was situated in the southeast end of the structure, and the priory was built on the elevation just north.
+
+The northern structure housed the monk's library, scriptorium, along with the Black Chapel. The roof over the chapel was capped with the large black dome that lent the monastery its name.
+
+Interior
+
+Like the outer structure, much of monastery's chambers were left in ruin. Doors were battered down, furniture was collapsed and useless, and debris lay scattered across nearly every room within. Any books or other valuables found amidst the ruins were relocated by the Cyricists to the temple's priory, the single building that remained relatively intact. Overall the Ebon Spur had amassed a small fortune, worth over 5,000 gp
+
+Atmosphere
+The monastery and its sinister trappings were wholly unsettling. Crumbling infrasttucture and ruined decor made for an uncomfortable place to stay. The constant murmurs and wails emanating from the Cyricists' vigilant protector did little to encourage restfulness.
+
+Activities
+Originally, the temple was built as place of meditation for the monks of the Dark Moon, a sanctuary from which they could think upon the nature and significance of the Black Rift. After being rediscovered, it was rededicated to Cyric the Black Sun.
+
+Defenses
+Two kir-lanans allied with Despayr and the Sharrans dwelled within the inner courtyard, serving as sentries and messnegers to the powerful black dragon.
+
+Ethar and her Cyricists brought with them a gift in offering to Despayr, a gloom golem that remained within the monastery's Black Chapel. The terrifying construct served as their protector while staying within the Plane fo Shadow.
+
+History
+At some point in its history, the monastery was abandoned by the monk of the Dark Moon but remained a closely-guarded secret of their goddess Shar.
+
+During the late 14 century, the Cormyrean black dragon Despayr devised his plan to created a dead-magic zone over the Shadow Swamp in order rend the Weave in Shar's name. To best fulfill his plan, the Nightmother directed him to utilize the Monastery of the Ebon Dome, by means of her servant Esvele Greycastle.
+
+When Despayr and the Sharrans began their ritual at the Black Rift, they employed a contingent Cyricist led by Bineera Ethar protectors to watch over and protect them from the monastery. The Cyricists subsequently rededicated the monastery in Cyric's name and took up residence within, with no objections from their employers. During their stay, the Cyricists uncovered references to the Book of the Black,  a Sharran document that spoke to the Black Chronology.
+
+Appendix
+Appearances
+Adventures
+ Cormyr: The Tearing of the Weave
+
+References
+
+---
+
+## Most Arcane Order of Gearmakers, Clockmakers, and Automationists
+
+The Most Arcane Order of Gearmakers, Clockmakers, and Automationists was an honorary order whose members were devoted to Gond, the Wonderbringer.
+
+Organization
+Members of this organizations were skill craftsmen whose skills revolved around making clocks, machine gears, and automatons. They viewed their work as praise to Gond.
+
+Appendix
+
+Appearances
+Organized Play & Licensed Adventures
+
+Sense of Wonder
+References
+
+---
+
+## Moongate
+
+Moongates were magically doorways that only operated under the glow of Selûne's light.
+
+Notable Moongates
+A moongate was believed to exist northeast of Leilon on the Sword Coast that provided access to the mystical shrine of Lurue called the Place of the Unicorn.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Moonstone dragon
+
+Moonstone dragons were a species of gem or neutral dragon.
+
+Description
+They were the largest of the gem dragons, being at least  at hatching and growing to as much as  in length as great wyrms; despite this, they were graceful and elegant creatures. Their scales were an opalescent pale silver with a hint of blue in moonlight, and ruffs of emerald-green fur ran down their chin and chest, back and tail. One short horn curved forward from the nose, while a longer one curved back from the head, together forming a shape reminiscent of a crescent moon.
+
+Personality
+Moonstone dragons cared little for the affairs of humans or other material species. When young, they were impetuous, mischievious, and playful. Though they eventually matured into wise and gentle storytellers and teachers, if sometimes pompous, and always curious.
+
+Abilities
+Moonstone dragons were a rare and magical species. Like other neutral gem dragons, they knew both wizardly spells (normally of illusion and enchantment schools, and alteration spells of dim light and darkness, as well as various dream-related spells) and priestly spells of the all, healing, necromancy (good only), and divination spheres. They could also use faerie fire at will and calm emotions, dispel magic invisibility and revivify as much as twice each day. They themselves were immune to charm magic. Within their lair, a moonstone dragon could compel an enemy to dance, effectively incapacitating them.
+
+Moonstone dragons were variously reported as having one or two of three different breathe weapons:
+A cloud of light motes some  long and wide, and  high, that dispelled all spells and potion effects within except those needed for a creature to live, and which put those creatures caught within to sleep (even if they were normally unable to sleep or be put to sleep). When they awoke, they would only have fleeting memories of the dragon.
+A  cone of mist that simply knocked all creatures caught within unconscious unless they were particularly hardy.
+A  beam of radiant energy resembling moonlight that injured any foe that could not get out of the way quickly enough.
+
+Moonstone dragons, unlike most other dragons, had an aura that induced awe rather than fear, causing those affected to stand quietly and stare, and to have no clear memory of the encounter afterwards. They could also become ethereal at will, and the magic inherent to them overcame most damage resistances of less than artifact-level power.
+
+Moonstones dragons were perhaps most well-known for their odd dream-magic: they were reported to appear in people's dreams and speak with them, always in the native tongue of the dreamer, and were known to offer guidance on matters related to faeries, shadows, lunar matters, healing, or suchlike (some claimed this ability only worked on creatures within  of their lair, while other stated it was because they could enter the dreamscape at will). They could also banish enemies within their lair into a dream-place, and odd and disorienting dream-visions flitted around their lairs.
+
+Combat
+Moonstone dragons would use their teeth, claws, and tail as weapons in combat, as well as their extensive magical abilities.
+
+Moonstone dragons were, for all the power, vulnerable to elemental attacks, and bright light injured them such that if sufficiently hurt by it, they faded into the Border Ethereal and could not leave that plane until they healed—a process which was inordinately long and slow.
+
+Society
+They were obscure and secretive dragons, sometimes claimed to guard sylvan regions, and other times reported to have been seen at the celebrations of faerie courts in deep forests. They were, variously, said to try and influence the Material plane through use of agents, to inspire artists and poets, encourage great thinkers, or spur on adventurers to do heroic deeds.
+
+Moonstone dragons did not prize gold or copper, but instead made their hoards out of silver, platinum, and mithril. They also valued art and other things that were less easily quantified as valuable: a heartfelt song, a story of happy times, a painting of a favored place, or even a lock of a loved one's hair.
+
+Ecology
+Moonstone dragons were thought to live on moonbeams and nectar as their food and drink; for certain, they were not carnivorous.
+
+They lived in the Feywild and in the Border Ethereal plane, where they were said to make their lairs in faerie mounds or hidden woodland caverns. Among dragons, they were more likely to make several lairs due to their whimsical nature. Portals between the Feywild, Border Ethereal, and Material plane often formed within a few miles of their lairs.
+
+Rumors & Legends
+Among the stories that surrounded these rare creatures, it was variously said that:
+They first hatched from the eggs of a clever dragon who fled to the Feywild to hide her clutch.
+Their tears were drops of mithril, and elves used them to fashion chain mail.
+When one died, it vanished into moonbeams.
+When one died well, its heart turned into a lump of pure adamantine.
+If one killed a creature unjustly, then it turned into sand and its spirit was destroyed.
+
+Appendix
+Appearances
+Video Games
+Idle Champions of the Forgotten Realms
+Miniatures
+Icons of the Realms
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Moonsilver Inn
+
+Moonsilver Inn was one of the first structures built along the River Rauvin where the city of Silverymoon would later rise.
+
+History
+Avatars of Lurue and Mielikki first met each other where the inn and town would later be constructed. When the pair returned to the same spot centuries later, disguised as a ranger and her steed, they were pleased to see the humans had not plundered the nearby forest for resources. They blessed the inn by promising safety to all who kept either of the goddesses in their heart.
+
+Appendix
+References
+
+---
+
+## Moonthumb Necessities
+
+Moonthumb Necessities was a general goods store that catered to adventurers located in Tulmon along the Lake of Steam during the mid-to-late 14 century DR.
+
+Activities
+The shop was located on Ooloolar Street in Tulmon.
+
+Activities
+The shop was known for its great selection of ropes and most Tulmonites came there for their rope needs. Additionally, just about any piece of adventuring equipment could be found with the shop's crammed confines or cellar.
+
+Inhabitants
+Moonthumb Necessities was owned by Khaligeira Moonthumb.
+
+Appendix
+References
+
+---
+
+## Moonveil Citadel
+
+Moonveil Citadel was a glass fortress in Sildëyuir, and one of the premier mansions in the realm. Kiril Duskmourn had visited the citadel while she was young.
+
+When she returned to Sildëyuir in winter of, she arrived in time to watch it burn and collapse in front of her. There were a dozen corpses, some of which she recognized, in front of the fire; all of them had their eyes plucked.As she arrives in 1375, and sees the citadel burning, the article assumes that the citadel is destroyed in 1375, considering it unlikely that the citadel has been burning since 1374 or a different year.
+
+Tower Aerilpe was close to Moonveil Citadel.
+
+Appendix
+Notes
+
+Appearances
+Novels
+Stardeep
+References
+
+---
+
+## Moriandro
+
+Moriandro was a woman living in Lliiress during the mid-to-late 14 century DR.
+
+Description
+Moriandro's frame was exceedingly lithe, coming off harsh under her sharp, angular features, despite their pleasant warmth. She had wide eyes. Also, she wore a light dress.
+
+History
+Moriandro answered Kinase Bronihim's questions when he entered the town of Lliiress in, after someone brought him to her. She also explained to him the history of the town.
+
+After Kinase bumped his head onto the barrier trying to run away from town, Moriandro nursed him back to health.
+
+Appendix
+Appearances
+Novels
+Realms of the Dragons II: "Freedom's Promise"
+References
+
+---
+
+## Mordenkainen Presents: Monsters of the Multiverse
+
+Mordenkainen Presents: Monsters of the Multiverse is a sourcebook for the 5 edition of Dungeons & Dragons.
+
+Description
+Originally released as part of the Dungeons & Dragons Rules Expansion Gift Set, it was later published as a standalone edition. It is a supplement for the Player's Handbook and Monster Manual. In addition, it replaces two other supplements, Mordenkainen's Tome of Foes from 2018 and Volo's Guide to Monsters from 2016. Both player races and monsters were re-balanced.
+
+Credits
+ Lead Designer: Jeremy Crawford
+ Art Directors: Emi Tanji, Kate Irwin
+ Original Design: Jeremy Crawford, Adam Lee, Mike Mearls, Christopher Perkins, Ben Petrisor, Sean K Reynolds, Robert J. Schwalb, Matt Sernett, Chris Sims, Nolan Whale, Steve Winter
+ Revision Design: Sydney Adams, Judy Bauer, Jeremy Crawford, Makenzie De Armas, Dan Dillon, Ari Levitch, Ben Petrisor, Taymoor Rehman
+ Editing: Judy Bauer, Michele Carter, Kim Mohan, Christopher Perkins
+ Graphic Designers: Trystan Falcone, Emi Tanji
+ Cover Illustrator: Grzegorz Rutkowski
+ Interior Illustrators: Dave Allsop, Tom Babbey, John-Paul Balmet, Thomas M. Baxa, Mark Behm, Eric Belisle, Michael Berube, Mike Bierek, Jared Blando, Zoltan Boros, Christopher Bradley, Alix Branwyn, Aleksi Briclot, IP Dmitry Burmak, Filip Burburan, Christopher Burdett, Sidharth Chaturvedi, Jedd Chevrier, Conceptopolis, Daarken, Nikki Dawes, Eric Deschamps, Simon Dominic, Dave Dorman, Nicholas Elias, Wayne England, Jason Felix, Justin Gerard, Justyna Gil, Lars Grant-West, Jon Hodgson, Ralph Horsley, Tyler Jacobson, Mike Jordana, Vance Kelly, Julian Kok, Michael Komarck, Daniel Landerman, Olly Lawson, Daniel Ljunggren, Valera Lutfullina, Warren Mahy, Lorenzo Mastroianni, Brynn Metheney, Aaron Miller, Francisco Miyara, Caio Monteiro, Scott Murphy, Marta Nael, Marco Nelor, Jim Nelson, Adam Paquette, PINDURSKI, Claudio Pozas, April Prime, Grzegorz Rutkowski, Marc Sasso, Chris Seaman, Ilya Shkipin, Rudy Siswanto, David Sladek, Craig J Spearing, Bryan Sola, Zack Stella, Sarah Stone, Philip Straub, Arnie Swekel, Thom Tenery, David A. Trampier, Cory Trego-Erdner, Beth Trott, Brian Valeza, Randy Vargas, Franz Vohwinkel, Anthony S. Waters, Campbell White, Richard Whitters, Eva Widermann, Sam Wood, Shawn Wood, Ben Wootten, Zuzanna Wuuyk, Min Yum
+ Project Engineer: Cynda Callaway
+ Imaging Technician: Kevin Yee
+ Prepress Specialist: Jefferson Dunlap
+
+D&D Studio
+
+ Executive Producer: Ray Winninger
+ Principal Designers: Jeremy Crawford, Christopher Perkins
+ Design Manager: Steve Scott
+ Design Department: Sydney Adams, Judy Bauer, Makenzie De Armas, Dan Dillon, Amanda Hamon, Ari Levitch, Ben Petrisor, Taymoor Rehman, F. Wesley Schneider, James Wyatt
+ Senior Art Director: Richard Whitters
+ Art Department: Trystan Falcone, Kate Irwin, Emi Tanji, Shawn Wood, Trish Yochum
+ Senior Producer: Dan Tovar
+ Producers: Bill Benham, Robert Hawkey, Lea Heleotis
+ Director of Product Management: Liz Schuh
+ Product Managers: Natalie Egan, Chris Lindsay, Hilary Ross
+
+D&D Marketing
+
+ Director of Global Brand Marketing: Brian Perry
+ Global Brand Manager: Shelly Mazzanoble
+ Senior Marketing Communications Manager: Greg Tito
+ Community Manager: Brandy Camel
+
+D&D Beyond
+ Digital Design Manager: Faith Elisabeth Lilley
+ Digital Design Team: Jay Jani, Adam Walton
+
+Appendix
+External Links
+
+Official Site
+
+---
+
+## Mourning Frost
+
+The Mourning Frost was an enchanted staff, created in the Grymforge of the Underdark.
+
+Description
+This delicate icy staff radiated cold and made the air around it crackle with magic and frosty wind. The staff of the Mourning Frost was crafted using icy crystal, icy metal, and a special icy helve. When joined together, the weapon's magic was almost palpably eager to be released after being separated for too long.
+
+Powers
+The heart of ice enchantments placed upon the Mourning Frost added the effects of frostbite when a spell or a cantrip was cast on a target. Additionally, when under the effects of the heart of ice, the target suffered additional prolonged magical cold damage over time and suffered even more damage when cold-based spells were cast on the target.
+
+History
+As of the, the Mourning Frost could be crafted by willing individuals using an icy crystal, a chunk of icy metal, and a special icy helve in the hidden Grymforge underneath the Western Heartlands.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+
+References
+
+---
+
+## Monastery
+
+A monastery was a type of religious community consisting of a building or complex of buildings.
+
+Etymology
+Monasteries with a solely female clergy were referred to as a nunnery. The mixed clergy exceptions to this were the Church of Sharess and Church of Sune. In the Tabotan language, monasteries were referred to as gompa.
+
+Description
+Monasteries always incorporated a temple and living quarters as part of their design. They were often walled in and usually had some means of sustaining themselves, such as a farm, sheep pastures, or by cultivating mushrooms in caverns. They also typically had some means of supporting themselves monetarily, such as a mill or tannery, producing goods they could sell to generate income.
+
+Monastic Life
+These communities were places of learning and strength, offering inhabitants peace and isolation from the outside world so they could achieve inner perfection. To this end, inhabitants could receive religious instruction and in some cases harsh training in martial arts, learning how to be skilled at fighting without the use of armor and weapons.
+
+Those who dwelled in monasteries were ardents, avengers, divine minds, shugenja, sohei, swordsages, and most typically monks or monastic priests. They would live on site for years at a time or for the rest of their lives. However, monasteries were also open to anyone who required advice, assistance, or shelter. And in Kozakura particularly, monasteries in peaceful areas were often seen as a fashionable place of retirement by emperors, nobles, noble widows, and samurai. The number of people who lived at a monastery varied, but it could go as high as over three thousand people.
+
+Those who lived in monasteries did so under a strict regimen of routine rituals and prayer. They also worked to advance the influence and wealth of their faith's priesthood. Though monasteries devoted to evil deities would often selfishly hoard knowledge and wealth for their own order's use.
+
+In some nations that had theocratic governments, such as the Kuong Kingdom and Ra-Khati, monasteries served as administrative centers.
+
+Faiths
+Faiths in Faerûn that were noted as having monasteries included the Church of Amaunator, Church of Deneir, Church of Helm, Church of Ilmater, Church of Loviatar, Church of Oghma, Church of Sharess, and Church of Sune. The faiths of Chauntea, Loviatar, and Selûne had monasteries hidden in the farmlands of Turmish. And the Halfling pantheon had some of its own monasteries in the halfling homeland of Luiren, through means of a monastic order known as the Hin Fist.
+
+In the continent of Kara-Tur, faiths that were noted as having monasteries included the Eight Million Gods, the Lords of Creation, the Padhran religion, the Path of Enlightenment, and the Way.
+
+Monastery Sites
+Monasteries were generally built in secluded or remote locations, though some were located within or near towns or villages. The latter were generally on good terms with their neighbors, providing various services in exchange for food or other resources.
+
+They could be found throughout all of Toril, though most commonly in Amn, Calimshan, Damara, Kara-Tur, the Lake of Steam region, Mulhorand, and Silverymoon.
+
+In the continent of Kara-Tur monasteries could particularly be found in Khazari, Kozakura, the Kuong Kingdom, Laothan, in each major town of Ra-Khati (dedicated to the Padhran faith), Shou Lung, Tabot, and Wa.
+
+Beyond the Prime Material plane, githzerai built monasteries in the planes of Limbo and Warrior's Rest. And on the Solania layer of Mount Celestia, one could find monasteries that were under the control of demigods.
+
+Notable Monasteries
+Main article: :Category:Monasteries
+
+Appendix
+External Links
+
+References
+
+---
+
+## Moonstone Shard
+
+The Moonstone Shard was a masterpiece statue standing in the House of the Moon temple to Selûne in Waterdeep in the late 14 century DR.
+
+Description
+The statue represented one of the Shards, the planetar servants of the Moonmaiden. They were feminine, had long flowing blue hair, and pearly white skin with shining aspect, and had wings. The Moonstone Shard was life-sized and fashioned from no less than 10,000 tiny moonstones, all held in place by magic alone. The entire statue swayed and glittered.
+
+It was displayed in a large dedicated chamber on the fourth floor of the House of the Moon. Two Knights of the Half Moon stood guard here constantly and patrols were frequent.
+
+Powers
+Legend held that the Moonstone Shard would animate to defend the temple if it came under attack. If it did, it would be a unique glassteeled golem, comparable to an iron golem.
+
+Reputation
+Of all the works of art in the House of the Moon, the Moonstone Shard was by far the most valuable. Circa 1370 DR, it was estimated to be worth no less than 100,000 gold pieces, if there was even any buyer for it.
+
+Appendix
+References
+
+---
+
+## Monitor
+
+Monitors were specialty priests of the Church of Mystra who were tasked by the Lady of Mysteries with ensuring magic was not abused.
+
+Activities
+They were tasked with destroying cursed items, keeping the balance of magical power, and aiding wizards unjustly accused of crimes.
+
+Culture
+All monitors were either humans, elvess, or half-elves. Their minds were very analytical and they viewed magic with a lawful regard. Their dedication to their duties often made them seem brusque to others, though that was not their intent.
+
+Abilities
+A monitor could identify an item once per day purely by sight. They could also dispel magic several times per day and detect magic three times per day. Monitors could turn undead like normal priests which was a special gift from Kelemvor to honor his friendship with Mystra when they were mortals.
+
+Wild magic areas had no effect on a monitor's spells.
+
+Possessions
+Monitors wore the traditional blue robes of Mystra's clergy. Each wore a silver necklace adorned with stars that was both their badge of office and holy symbol. Though they could wear any armor they wished, monitors could only wield weapons used by normal wizards.
+
+Appendix
+References
+
+---
+
+## Moon knights
+
+The moon knights were specialty priests of the Church of Selûne and members of a highly militant order of soldier-priests devoted to the Moonmaiden.
+
+History
+Selûne ordered the establishment of the moon knights in response to hostility by her sister Shar. They were active by 1369 DR.
+
+Attitudes
+The moon knights were joyous and good humored when celebrating, but they fostered a deep hatred of the goddess Shar and her faithful, reacting with rage and even bloodlust whenever they encountered them.
+
+Activities
+Supplementing the crusaders of the Selûnite church, the moon knights were charged with defending the church against threats from Shar and even to take the fight to the Sharrans directly.
+
+Abilities
+The moon knights were intimately linked to the goddess and her divine power, such that their abilities waxed and waned with the moon in a form of lunar magic.Given the close similarity and association with the Selûnite faith, this is assumed to be lunar magic. During the full moon, three days each month, a moon knight became generally more capable and could turn undead with more force. However, during the new moon, three days each month, a moon knight was generally less capable and could not turn undead at all. Moreover, a lycanthrope moon knight had a better chance of controlling themselves, both during the full moon and in their beast forms.
+
+In addition, a moon knight was unable to cast spells or even use magic items that produced darkness. Nevertheless, they trained to fight in the dark and while blinded, to counter Sharran tactics.
+
+Some learned the skills of navigation.
+
+Possessions
+The moon knights uniformly wore splint armor colored silver and white with the two eyes of the goddess emblazoned across the chest, together with a helmet with a blue crest and a cloak of midnight blue. They preferred the moon's hand mace favored by the church.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mount Kolimnis
+
+Mount Kolimnis, also known as Eversmoke, was a well-known active volcano in the Aphrunn Mountains of Turmish.
+
+Description
+The city of Gildenglade stood just to the volcano's northwest.
+
+History
+In the, citizens of Gildenglade became concerned by Mount Kolimnis increased volcanic activity. The city believed that eruption was inevitable and with it the city's destruction. Gildenglade hired a wizard, Danirro of Alaghôn to find a spell that could calm the rumbling volcano. In the summer of, Danirro discovered just such magics. He scaled Mount Kolimnis to perform the ritual only to never be allowed to finish the spell. Agents of the Emerald Enclave emerged from hiding and pushed him into the volcano. Danirro of Alaghôn was unlucky enough to be wearing a ring of feather falling. He slowly roasted on his way down before being disintegrated by the mountain's lava. Danirro's laboratory was destroyed by a fire at the time of his death and all records of the spell were lost. Following the wizard's disappearance, Gildenglade received a grim warning from the Emerald Enclave not to meddle with the forces they did not understand. Mount Kolimnis continued spewing heated steam but its eruption was not to come for another century.
+
+In the, Mount Kolimnis finally erupted, burying the city under several hundred feet of ash and hot mud. Almost 50,000 inhabitants of the city perished, while only a few hundred fled from the disaster. They carried the memory of Gildenglade's demise with them. Several years after the eruption, hardened lava cracked open, revealing a series of caverns that led into the dead city. Some brave adventurers attempted to helm an excavation but were faced with a strangely-well preserved ghost town infested with deadly denizens of the Underdark.
+
+Appendix
+References
+
+---
+
+## Morningstone House
+
+The Morningstone House was the local shrine to Lathander found in the small town of Asbravn. Both were situated in an out-of-the-way stretch of the Sunset Vale, in the valley where the Dusk Road intersected with the Uldoon Trail.
+
+It was one of several smaller shrines, including those to Lliira and Waukeen, that encircled the larger, yet rundown temple of Ilmater.
+
+Appendix
+References
+
+---
+
+## Moon corn
+
+Moon corn was a strain of corn characterized by its crescent-shaped kernels.
+
+Availability
+Moon corn was first cultivated in Vaasa. By the mid-to-late 14 century DR, it had been adopted in Sembia, where it was grown alongside regular corn. Despite not being native to interior Faerûn, moon corn had no noticeable negative impacts on the local environment.
+
+Appendix
+References
+
+---
+
+## Motsni
+
+Motsni was a bird of importance within the folklore and myth of the Azuposi people of the Pasocada Basin of northern Maztica.
+
+History
+According to legend, Motsni was asked by the Azuposi people to find them a suitable place to live. The bird exited the underworld through a point called Shipapu and entered the world of sunlight. Motsni encountered a man who called himself Masauwu who said the Azuposi could live in this area. Motsni then returned to the Azuposi in the underworld and led them to the True World.
+
+Appendix
+References
+
+---
+
+## Mountain lion tribe
+
+The mountain lion tribe was part of the Azuposi nation of the Pasocada Basin of northern Maztica in the 14 century DR.
+
+Base of Operations
+In addition to inhabiting the Pasocada Basin, the Mountain lion tribe maintained a center near the center of Michaca, the City of Gold.
+
+History
+The mountain lion tribe was one of six separate tribes that composed the Azuposi people. They represented the northwest direction on the compass and their sacred animal was the mountain lion.
+
+Appendix
+References
+
+---
+
+## Monstrous Compendium Volume One: Spelljammer Creatures
+
+Monstrous Compendium Volume One: Spelljammer Creatures is a bestiary for 5-edition Dungeons & Dragons themed around the Spelljammer setting.
+
+Index
+
+Creatures
+ •  •  •  •  •  •  •  •  •
+
+ •  •  •  •  •
+
+Items
+
+ •
+
+Locations
+ •  •
+
+ •  •
+
+Magic
+
+ •
+
+Religion
+
+ •  •  •  •
+
+Miscellaneous
+
+ •  •
+
+---
+
+## Monday market ground
+
+The Monday market ground was an open-aired marketplace located in Almorel on the Lake of Mists in the Hordelands in the .
+
+Location
+The market was located along the Golden Way just inside of Almorel's eastern gate next to the Convent of Mitras.
+
+Appendix
+References
+
+---
+
+## Moneylender's Guild
+
+The Moneylender's Guild was located in Almorel on the Lake of Mists in the Hordelands in the .
+
+Base of Operations
+The guild headquarters was located near the center of Almorel along the Golden Way next to the Vernadsky Fief. It was one of the larger compounds to be found within the city..
+
+Organization
+The Moneylender's Guild head guildmaster in  was the dwarf Eck Barrelstave.
+
+Appendix
+References
+
+---
+
+## Mosque of Kor (Qadib)
+
+The Mosque of Kor was a temple dedicated to Kor in the city of Qadib. It was considered to be among the major temples of Kor in Zakhara.
+
+History
+In 1367 DR, a death threat towards Hakim ibn Rashad, a professor of the College of Religion and Science in Qadib, was discovered pinned by a dagger to the body of his daughter's parakeet. Identifying a symbol on the paper as the symbol of Kor, a group of adventurers went to the city's mosque and confronted its imam. The man assured the adventurers that his priesthood had no issue with Hakim, but a hakima among them detected deceit and pressed the imam for more information. The man relented and revealed that it may have been the work of overzealous Kor worshipers, the Wrath of the Old, but knew nothing more than that they were rumored to be headquartered somewhere in the Furrowed Mountains.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Dungeon #47, "The Assassin Within"
+References
+
+---
+
+## Morcant Burl
+
+Morcant Burl was a type of woody plant that was in the Quivering Forest on the Moonsea North region of Faerûn.
+
+Description
+Morcant Burl was purple in in hue. Due to its rarity and distinct appearance, it was considered extremely valuable.
+
+Usage
+This type of hardwood could be used to fashion bows, or in the creation of furniture. The wild elf ranger Surruk used a bow made of Morcant Burl. It was also used to craft the grand dining hall of Valjevo Castle.
+
+Locations
+Morcant Burl was extremely rare and in fact only grew within the Quivering Forest.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Tyranny of Dragons (Defiance in Phlan)
+References
+
+---
+
+## Monster Fair
+
+The Monster Fair was a regular grand fair that took place in the main plaza of Halarahh, Halruaa.
+
+Description
+The Monster Fair brought cattle ranchers, monster breeders and hunters, and other purveyors of exotic beasts from all across the land. The creatures sold in the market stalls were as mundane as bull aurochs and fuzzy elephants, or as rare and curious as fancy pet lizards, colorful birds of the Mhair Jungles, griffon kittens, dragon eggs, unicorns, and anything else that could be trained, ridden, butchered for food or spell components.
+
+Location
+A great open plaza that opened immediately past Halarahh's harbors was the space used by open-air markets and various festivals throughout the year. The Monster Fair was one of the events that took place on the colorfully-paved floors of the plaza.
+
+Appendix
+Appearances
+Novels
+The Magehound
+References
+
+---
+
+## Morlain
+
+Morlain was a Heartwarder and the High Priestess of the Palace of Passion, grand temple of Sune Firehair in Ravens Bluff in the late 14 century DR.
+
+Description
+After the war against notorious warlord Myrkyssa Jelan of the, Morlain was in her late 40s. She was a stunningly gorgeous petite woman with raven-black hair and black almond-shaped eyes. She was only  tall and weighed .
+
+Activities
+Following the destruction of her temple and tensions that arose between the Church of Sharess, Morlain issued declarations of peace between the churches and the goddesses.
+
+Despite common misconceptions about Sune's shallowness, Morlain preached a different interpretation of the goddess' holy text, Love's Lesson. The High Priestess taught that for the worship of Sune to be true, one had to know oneself. Every person had beauty about them as long as they could find it and cherish it.
+
+Relationships
+In her late 40s, Morlain was the target of other beautiful and ambitious Heartwarders of Sune who aimed to challenge the High Priestess for her position due to Morlain's creeping age. However, as of the late 1370s DR, Morlain's keen fashion sense and masterful use of cosmetics kept potential challengers at bay.
+
+Morlain was loyally devoted to her beloved husband and fellow Hearrwarder of Sune – Ilbrar the Iron. Despite their relationship, Morlain always expressed admiration for beautiful men and women.
+
+History
+
+By the end of Myrkyssa Jelan's war with Ravens Bluff in the late 14 century DR, Morlain has been the High Priestess on and off for five years. She took the title from High Priest Corwell Fanfare, who left the Palace of Passion to preach the goddess's dogma and act as her champion. He reportedly visited Sune in her realm in Arborea. Morlain regularly welcomed her predecessor at the Palace of Passion, where he kept a room, but his visits were brief.
+
+Sometime after 1372 DR, the Palace of Passion was destroyed in a fierce battle between an avatar of Sune and devil Glasya who was using the Church of Sharess in Ravens Bluff to grow her cult in secrecy. Morlain oversaw the reconstruction that followed, and eventually, the temple was reopened a year later. During that year, Morlain and her priests were given lodgings in the temple of Selûne – the Moonflame. The High Priestess made an agreement with the Gondar architects to create the new temple to be a technological marvel and a beauty.
+
+As the High Priestess, Morlain worked tirelessly running classes for the Ravenaar on jewelry and fashion and helmed the efforts of outreach and aid of homeless folk of Ravens Bluff. She often found herself exhausted and took time off to restore her inner peace and beauty at the Valley of Dolls Sunite resort.
+
+Morlain dedicated her little free time to procuring an elixir of longevity to solidify her position as the High Priestess of Sune. The challenge for the position was inevitable as she aged.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moonsea Avenue
+
+Moonsea Avenue was a road located in the city of Zhentil Keep during the mid–14 century DR.
+
+Location
+Moonsea Avenue was located in the Common Quarter in the southeast section of Zhentil Keep. The road branched west from Battle Way and terminated at the barrier to the Harbor District. Moonsea Avenue was intersected by the Street of Sorrow, Beholder Street and Hasbeen Road near its midpoint.
+
+Notable Locations
+The Gorey Eye-Beast tavern was located on Moonsea Avenue.
+
+Appendix
+References
+
+---
+
+## Morale
+
+Morale was a spell used by clerics.
+
+Effects
+This spell had two distinct effects. The first effect increased the morale of multiple creatures for a short period of time. The caster could target any group that was within sight and  from the caster.
+
+The second effect increased the morale of a group of creatures for significantly longer, up to a day. This effect required more preparation on the part of the caster and had to be cast within  of a holy place dedicated to the caster's deity.
+
+Components
+In addition to verbal and somatic components, this spell required a material component, a gem with a value of at least 100 gp. It was destroyed after casting the spell.
+
+Trivia
+Morale was one of the spells that the Flame of the Spirit might show devotees of Tymora.
+
+Appendix
+References
+
+---
+
+## Moonshae whiskey
+
+Moonshae whiskey was an expensive alcoholic drink exported from the Moonshae Isles.
+
+Availability
+The whiskey was sold as early as the, in the city of Targos of Icewind Dale, at The Salty Dog bar. The drink was among the most expensive items on the menu, sold for fifteen gold pieces by the tavern's portly proprietor Gohar. As of the, pricy Moonshae whiskey could be found as far south as the city of Calimport in Calimshan.
+
+Appendix
+Appearances
+Novels
+Servant of the Shard
+Video Games
+Icewind Dale: Heart of Winter • Icewind Dale II
+
+References
+
+---
+
+## Moarinskoar Alley
+
+Moarinskoar Alley was a small alley that was located in the city of Waterdeep.
+
+Location
+Moarinskoar Alley was located in the central section of Waterdeep's Sea Ward. It branched west off of Sul Street through a neighborhood before terminating at a dead end. It was enclosed by Mendever Street, Vondil Street, and Delzorin Street.
+
+History
+The alley was named for a notable member of the Irlingstar noble family.
+
+Notable Locations
+ Irlingstar Villa
+
+Appendix
+References
+
+---
+
+## Moarinskoar Irlingstar
+
+Moarinskoar Irlingstar was a noble of the Waterdhavian noble house Irlingstar.
+
+Activities
+He lived within Irlingstar Villa located on Sul Street in the central section of Waterdeep's Sea Ward.
+
+History
+Moarinskoar decided to make his own way in life and left the comforts of his family villa to sail the Sword Coast as a trader. He eventually turned to piracy.
+
+Rumors & Legends
+It was whispered that Moarinskoar sailed his ship into undeath as a wight commanding a crew of zombies aboard the ghost ship Moonwind. He would accost anyone sailing to Waterdeep asking them to deliver a message to his mother saying he was not ready to come back home yet.
+
+Appendix
+References
+
+---
+
+## Mournak Steelsmite
+
+Mournak Steelsmite was a fearsome dwarfish battlerager who raged and ate his way across the shores of the Sea of Fallen Stars in the 14 century DR.
+
+History
+By the age of fifty-four Mournak was infamous across the Sea of Fallen Stars for rushing to battle singing a battle song. He left trails of goblin and orcish limbs and broken weapons. Once he entered one of his battle rages, Steelsmite was equally dangerous to his friends and foes. Mournak feared nothing, not even death, and he only accepted a payment of copious amounts of food and drink.
+
+Sometime in the 14 century DR, Mournak Steelsmite was among the ambitious fortune seekers who were interested in being sent into a mysterious dungeon by an unnamed sorceress to retrieve the equally mysterious magical orb from its depths.
+
+Appendix
+Appearances
+Video Games
+Dungeon Hack
+
+References
+
+---
+
+## Mount Plutoq
+
+Mount Plutoq was the mountain that bore the name of the Maztican deity Plutoq, the Master of Earth and Stone.
+
+Description
+The mountain separated two nations of Maztica, Kultaka to the west, and Pezelac to the southeast. Mount Plutoq's northern edge touched the waters of the Gulf of Kultaka and the larger body of water – the Gulf of Cordell. The northeastern slopes of the mountain was covered in the jungles that stretched from the Gulf of Cordell to the Pezelac town of Palenqi‎, while its northeastern side was a swampland. Kultaka's biggest city, Kultaka City, stood on the arable land west of Mount Plutoq. The mountain chain that ended with Mount Plutoq to the south, ran further north, ending in Mount Popol and Mount Zatal.
+
+History
+In the, several trade ships from Waterdeep were denied entrance to the harbors of Helmsport. The ships continued moving north, past Mount Plutoq, visible from afar, and eventually, landed on the northern shores of the Gulf of Kultak, founding the New Waterdeep colony.
+
+Appendix
+References
+
+---
+
+## Motes of moonlight
+
+Motes of moonlight was a spell used by clerics of Sehanine Moonbow.
+
+Effects
+When cast, this spell created a trail of twinkling silver light in whatever direction the caster was pointing at the end of casting. The resulting light was as bright as moonlight, and acted as actual moonlight for any other cleric of Sehanine. The length of the beam of shimmering light was determined by the caster's skill level.
+
+Components
+This spell required verbal and somatic components.
+
+Appendix
+References
+
+---
+
+## Moonbow
+
+Moonbow was a spell used by clerics of Sehanine Moonbow.
+
+Effects
+When cast, this spell created a crystalline bow with a bowstring of silver light. Depending on the caster's needs, the bow was the same size and strength of a shortbow or a longbow. Only the caster was capable of using the bow.
+
+When drawn, a magical silver arrow appeared in the bow, and on release, the arrow was trailed by motes of moonlight. The effect of the arrow depended on the target. Against a living creature, the arrow delivered a bolt of energy from the Positive Material Plane. Against undead targets who drew their energy from the Negative Material Plane, also creatures from said plane, the arrow delivered terrible damage and covered the target in silver faerie fire. When fired at an undead creature who drew its power from the Positive Material plane, and any creature from said plane, it cured the target.
+
+Components
+In addition to verbal and somatic components, this spell required material components, the holy symbol of Sehanine Moonbow and a thread of cobweb covered in dew that was collected under the light of a full moon.
+
+Appendix
+References
+
+---
+
+## Moonbridge (spell)
+
+Moonbridge was a spell used by clerics of Sehanine Moonbow.
+
+Effects
+When cast, this spell transformed a beam of moonlight into a bridge that was capable of supporting the weight of several creatures. The resulting bridge was  in width and up to  in length. The moonlight could be natural or created by magical means such as with a motes of moonlight spell. Only creatures of good-alignment can cross the bridge freely. Creatures of neutral alignment could only cross if they maintained physical contact with the caster. Creatures of evil alignment were unable to cross the bridge.
+
+Components
+In addition to verbal and somatic components, this spell required material components, the holy symbol of Sehanine Moonbow and a single vial of holy water that sat in the direct moonlight of the previous full moon.
+
+Appendix
+References
+
+---
+
+## Morningstar Way
+
+Morningstar Way was a road that was located in the city of Waterdeep.
+
+Location
+Morningstar Way was located in the northwest section of Waterdeep's Sea Ward. It ran north to south, branching from the Street of Glances and terminating on the Street of Lances near the Trolltower. Morningstar Way was intersected by Aureenar Street near its midpoint.
+
+Appendix
+References
+
+---
+
+## Moonstar Alley
+
+Moonstar Alley was a small side alley that was located in the city of Waterdeep.
+
+Location
+Moonstar Alley was located in the central section of Waterdeep's Sea Ward. The alley cut between the Street of the Singing Dolphin and the Street of Whispers, enclosing the Moonstar estate and several other buildings. Another alley called Sharra's Flight connected with the southern side of Moonstar Alley.
+
+History
+The alley was named for the presence of the Moonstar noble family. However, Waterdeep's first temple to Selûne, called the High House of Stars, was first located here.
+
+Notable Locations
+ Moonstar Villa
+
+Appendix
+References
+
+---
+
+## Montalar's Happy House
+
+Montalar's Happy House was a popular eatery open dawn-to-dusk that stood on the Swordstars Lane in Suzail and served the area's warehouse workers.
+
+Location
+Montalar's Happy House was separated by a cart alley from Jharko's Coffers and Crates—its neighbor to the west. The cart alley connected the Swordstars Lane to the warehouses at the center of the block. The decaying manor of Talarkgates stood behind Montalar's.
+
+Structure
+The eatery was on the first floor of a three-story building. Bhaerusk and his family lived on the second floor above the Happy House and rented out apartments on the third floor. The building also had a spacious cellar. The first floor and the cellar both had back entrances, usually cluttered with food crates and covered in runner-vines grown by the proprietors annually. The roof of the building was decorated with laundry lines.
+
+Services
+The dining hall was open at the first rays of dawn and closed its shutters at dusk every day. Montalar's Happy House sent all clients to search drunken debauchery and entertainment elsewhere.
+
+During work hours, the eatery served cider during all times of the year–ice-cold in the sweltering summer months and hot when it was chilly outside. Among alcoholic drinks, they offered weak ale, and local favorite sweet berry wine, also low in alcohol content. Another specialty of the Happy House were happy helms–a type of handfood pastry. These handfoods were often sold out of a quick service window on the side of the eatery. The window always attracted a long line of hungry customers offering a good price, just a copper for two happy helms.
+
+Inhabitants
+The restaurant was run by Bhaerusk Montalar in the late 14 century DR. His four daughters, wife, and wife's two sisters were the Happy House's staff.
+
+Rumors & Legends
+ As of the late 14 century DR, local gossip talked about the reason for the happy helms' strong-tasting sauce was that it makes people buy more drinks and that it hid the taste of chopped rat.
+ Yet another rumor claimed that Bhaerusk rented the restaurant's cellar to anyone who was willing to pay for the digression, no questions asked.
+
+Appendix
+See Also
+Interactive map of Suzail
+References
+
+---
+
+## Mother of a Thousand Young
+
+The Mother of a Thousand Young was the mysterious leader of the spider katanga who allied with the malicious outsiders known as the Tamara. She and her kin resided within the Fire Mountain on the Malatran Plateau in the late 14 century DR.
+
+Description
+After becoming the Mother of a Thousand Young, her stomach area became bloated and distended with countless egg sacs. She was a monstrous creature who reveled in death and destruction, and her transformation left her ravenous for flesh. The spider katanga rarely spoke, but her speech was as venomous as her bite when she did.
+
+Abilities
+Despite her bloated appearance, the Mother was a powerful and agile spider katanga. Transformation into the Mother toughened her body similar to the barkskin spell, and she received resistance to magic, as well as sorcerous abilities. Like other spider katanga, the Mother could climb walls with ease. She had a highly venomous bite and could spit acid at her enemies.
+
+Apart from being a powerful warrior, the Mother could tap into divine and arcane magics. She always kept defensive spells active on herself, such as shield of faith and mage armor.
+
+Possessions
+The Mother of a Thousand Young inhabited the area known as the nest within the spider katanga lair on the slopes of the Fire Mountain. The nest was a cold stone chamber filled with the stench of death and decay. The Mother's nest was a thick mess of webs and parts of her victims' bodies. She sat on a grand throne made out of her victims' skulls.
+
+The Mother of a Thousand Young wielded a powerful enchanted item called the Runestick of the Tamara. The item allowed a loyal servant of the extradimensional evil to have access to additional arcane spells, such as cat's grace, endurance, fly, haste, and see invisibility.
+
+History
+The Mother of a Thousand Young and her spider katanga subjects participated in the Battle of Blood Bridge in the Year of Tigers Return on the Malatran calendar. The evil katanga sought to bring the outsider creatures known as Tamara to the Living Jungle. The ceremony of the Blood Bridge allowed passage for some of the Tamara creatures to Toril, but with the valorous battle, the ritual was stopped, yet the threat remained.
+
+A year later, in the late 14 century DR, the Tribe of the Wise Ones became aware of a new looming threat. The leader of the dreaded spider katanga, the Mother of a Thousand Young, became swollen with a thousand children ready to overflow the jungles with ravenous spawn.It was unclear if the Mother of a Thousand Young who participated in the Battle of Blood Bridge was the same individual who returned a year later, as the name "Mother of a Thousand Young" was also a title, passed from one Mother to the next. The Mother of a Thousand Young who appeared in Come the Tiger was a cleric-fighter, a total of 20 levels between two classes, while the Mother from An Army of One Thousand was a cleric-sorcerer, with 16 levels in total. It is possible the first individual was replaced by a new Mother of a Thousand Young. However, that is speculation. The hunters of the Wise Ones discovered lands between the Rayana Savanna and the Fire Mountain poisoned by the Mother and her followers. Additionally to the poison, the Mother of a Thousand Young captured a group of hunters of the united Malatran tribes. In response, the Tribe of the Wise Ones assembled several groups of heroes from across the Living Jungle to rescue the missing individuals, stop the poison, and slay the Mother of a Thousand Young.
+
+However, even though the Mother of a Thousand Young's menace to the Living Jungle was a very real threat, the poison was released by Talunuku, a spider katanga who lusted for the Mother's power. Talunuku started performing rituals to transform herself into the new Mother of a Thousand Young, rituals that were poisoning the jungle. Talunuku knew that the tribes would blame the Mother, and that was perfect for her plan. In order to become the new Mother of a Thousand Young, the current Mother needed to die. Talunuku found an unlikely ally in Nathani, a hunter and traitor from the Huroola tribe.
+
+The Mother of a Thousand Young was within her nest when the heroes of Malatra reached the spider katanga lair. The adventurers split into two groups, one of them headed straight for the Mother. She greeted the heroes with venomous spite and immediately ordered her two bodyguards, Taluku and Morizuku, to slay the invaders. The outcome of the battle remained unclear as the poisoning was stopped, which could've been accomplished by slaying the Mother or by weakening her leadership and forcing her to flee once again.
+
+Appendix
+Notes
+
+Appearances
+Licensed Adventures & Organized Play
+Come the Tiger • An Army of One Thousand
+
+References
+
+---
+
+## Morizuku
+
+Morizuku was a hunting spider katanga who served the Mother of a Thousand Young as her bodyguard within the Fire Mountain of the Malatran Plateau in the late 14 century DR.
+
+Abilities
+As an experienced warrior, Morizuku was a fearsome foe. He preferred to fight in bipedal form while starting combat by throwing ranged weapons at the enemy.
+
+Possessions
+Morizuku was armed with a large enchanted wooden shield and carried five halfspears into battle. Like other spider katanga, Morizuku could freely crawl across any surface, and his bite was a deadly venomous weapon.
+
+History
+In the late 14 century DR, the Wise Ones tribe became aware of the leader of evil spider katanga, the Mother of a Thousand Young, being ready to birth a thousand ravenous younglings. In preparation for the birthing, she initiated a ritual that sent deadly poisons into the rivers cascading off the Fire Mountain. Morizuku, along with Taluku, was tasked with guarding the venomous Mother at the center of her bones-riddled nest. Both katanga fought defensively when a band of heroes from the Living Jungles reached the Mother of a Thousand Young in an attempt to end the poisoning and the spawning.
+
+Morizuku's fate is unknown; however, his death was almost unavoidable as he and Taluku would fight until their dying breath to defend the Mother.
+
+Appendix
+Appearances
+Licensed Adventures & Organized Play
+An Army of One Thousand
+
+References
+
+---
+
+## Monkey City
+
+Monkey City is a tournament module set in Malatra – Living Jungle using the Dungeons & Dragons 2 edition ruleset. It is part of the Living Jungle series of adventures published for the RPGA Network. The adventure is intended for mid-level and high-level characters.
+
+Summary
+In the Year of Sorrow and Hope (1372 DR), Malatran calendar, a band of heroes of the Living Jungle, were summoned by the chieftain of Huroola – Ambeela. The villages of Tuwanne and Valapana became targeted by a horde of hungry little thunder garuda who took a liking to Nubari meat. The adventurers found the jungle lizards but became overwhelmed and forced to retreat. In the process, they made a discovery – the Lost City of the Ancients, now in ruins. The group spent some time exploring the ruins and encountered a somewhat intelligent ancient shambling mound who showed signs of an ability to communicate in a broken and simplistic semblance of the Malatran common after listening to the adventurers speak it around the Shambler. Finally, the heroes faced the garuda swarm in the Ancient's ruins and emerged vicious. As a reward, one of the male Nubari heroes was offered marriage to the Chieftain Ambeela as she sought a capable and strong partner.
+
+Index
+
+Characters
+ •  •
+
+Creatures
+ •  •  •  •  •  •
+
+Locations
+ •  •  •  •
+
+Organizations
+
+Magic
+Items
+
+Other
+ •  •  •
+
+Appendix
+Notes
+
+References
+
+---
+
+## Moonstar Villa
+
+Moonstar Villa was the family estate of the Waterdhavian noble house Moonstar.
+
+Location
+The villa was located in the southern section of Waterdeep's Sea Ward on the west side of the Street of the Singing Dolphin. The rear of the villa sat on Moonstar Alley.
+
+Description
+The walled compound contained four separate buildings arranged around a central garden. Each building stood between two and four stories tall.
+
+Appendix
+References
+
+---
+
+## Mountains of Selûne
+
+Mountains of Selûne was a unique enchanted morningstar, named after the celestial body of Selûne.
+
+Powers
+Apart from possessing a +1 enchantment, the bludgeon made its wielder immune to blindness. Its magics guided the wielder's arm in battle, attracting the morningstar to its target as if through magnetism. The weapon itself was forged using a mysterious metallic substance that bent and absorbed light around it. It emitted gentle radiance at night, similar to the light of Selûne high in the sky.
+
+History
+By the, Mountains of Selûne was already quite old and had a reputation forged in many battles that raged over the years since its creation. Most of its past was shrouded in mystery, and its origins were unknown. In 1312 DR, the morningstar was brought to Icewind Dale by a general of the Legion of the Chimera—the bugbear Guthma, who led the cult's goblinoid army to level the Ten Towns. After Guthma's demise at the hands of mercenary adventurers of Targos, the enchanted weapon changed hands once again.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale II
+
+References
+
+---
+
+## Mount Temmikant
+
+Mount Temmikant was a volcanic peak found within the Smoky Mountains of Unther.
+
+Geography
+Mount Temmikant sat in the western region of the Smoky Mountains overlooking the Black Ash Plain to the south.
+
+Inhabitants
+Guyanothaz, an old blind red dragon, laired within Mount Temmikant.
+
+Appendix
+References
+
+---
+
+## Mount Fussel
+
+Mount Fussel, which was also seen as Mount Fussell, was a volcanic peak found within the Smoky Mountains of Unther.
+
+Geography
+Mount Fussel sat in the western region of the Smoky Mountains overlooking the Black Ash Plain to the southeast.
+
+Inhabitants
+A flock of dracolisks were believed to live within the mountain. Salamanders swam in its magma.
+
+Appendix
+References
+
+---
+
+## Mother'sleaf
+
+Mother'sleaf, also written as mothersleaf, was the name of a plant found in the Savage Frontier. Considered a herb, it was noted for its curative properties.
+
+Usage
+When its leaves (fresh or dried, powdered, and properly preserved) were boiled in a tea, it could cure a natural disease almost a third of the time. When drunk prior to the casting of cure disease, it guaranteed the curing of mummy rot. Although some tried to apply powdered mothersleaf directly to an infected wound caused by a mummy, this would not stop the rot.
+
+Habitats
+Although rare, it was found in many temperate and subarctic climes in the north, such as the Savage Frontier.
+
+Appendix
+References
+
+---
+
+## Mount Nar
+
+Mount Nar was a massive mountain in the Firward Mountains of Narfell. Its perpetually snowcapped peak was visible across most of that realm.
+
+Description
+The huge, rugged mountain with its bluish glaciers was a dominant feature across the plains of Narfell. The mountain was clearly visible as far away as N'Jast, and as of the mid–15 century DR, the ruins on the western side of the mountain were visible from Bildoobaris.
+
+Mount Nar's glaciers dominated its western and northern slopes and extended all the way to the mountain's base. In the summer, meltwater from the mountain fed the streams around Bildoobaris, signaling the start of the Trade Fair.
+
+History
+In ancient times, the capital of the Nar kingdom of Jastaath was located atop Mount Nar, and their powerful demonbinders altered the weather to make the mountain warm and hospitable. However, after the kingdom was abandoned, the mountain became covered in snow and ice, and the ruins of Jastaath became lost beneath the snows. The kingdom came to be remembered only in archaic texts and local legends.
+
+As of the mid-to-late 14 century DR, the mountain was the domain of Kryonar, a white dragon dracolich who murdered anyone who approached the peak. Kryonar was so feared that no Nars dared to scale the mountain.
+
+Beginning in the mid–15 century DR, the ruins atop the mountain had been claimed by Branimern Rythil, who slew Kryonar and sought to uncover the ancient secrets of Jastaath to enable her to conquer the surrounding lands. She constructed for herself a towering stronghold amidst the old ruins high on the western slope, and beginning around the, this structure was visible from Bildoobaris.
+
+Notable Locations
+ Jastaath Castle, a massive ruined fortress on the western side of the mountain near the peak.
+ Kryonar's caverns, a natural cavern on the north side of the mountain near Jastaath Castle that was once the lair of Kryonar. The cavern was only accessible via tunnels through a glacier. Following Kryonar's destruction, the cavern became home to a number of monsters loyal to Branimern Rythil, including a number of cyclopses.
+
+Inhabitants
+During the mid-to-late 14 century DR, Kryonar was the most notable inhabitant of Mount Nar.
+
+During the late 15 century DR, Branimern Rythil and her fiendish and fey minions were the most notable inhabitants. This included the formidable fomorian known as Hughan.
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Moon rising
+
+Moon rising was a divine alteration and abjuration spell from the combat sphere that created a mystical aura that proved beneficial to casting clerical spells.
+
+Effects
+Moon rising's aura resembled moonlight but could still be used during the daytime, making it practically invisible. The aura extended from the caster for  in all directions and lasted for two minutes. Any clerical spells cast within the aura experienced maximum results. This benefit also applied to any enemy priests casting spells within the aura. The caster could also choose to augment one specific action occurring with each minute that the aura lasted, making it much more likely for that action to succeed.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+History
+Moon rising was granted to priests of Selûne, the Moonmaiden.
+
+Appendix
+References
+
+---
+
+## Moondance
+
+Moondance was a cooperative divine conjuration spell that blessed each participant.
+
+Effects
+A minimum of three priestesses were required to cast moondance. The blessing imparted by the moondance lasted for several days depending on the combined skill of the casting priestesses.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+History
+Moondance was a drow spell granted to priests of Eilistraee, the Dark Maiden.
+
+Appendix
+References
+
+---
+
+## Monster slayer
+
+Monster slayers were rangers whose calling was to hunt down monstrous creatures and purveyors of dark magic. They were master hunters that perfected the art of neutralizing their prey, discerning their weakness, and delivering a killing blow.
+
+Activities
+They sought out and all manner of dangerous and malevolent beings that wielded powerful magic, notably dark fey, vampires, dragons, and fiends.
+
+Culture
+The Sword Coast company Acquisitions Incorporated believed monster slayers could be quite useful to their business strategy, as many powerful creatures held cast caches of wealth and treasure.
+
+Tactics
+While in battle, monster slayers opted focus their attacks on a creature, in order to bring it down faster.
+
+They preferred magic that allowed them to uncover the truth of evil beings, protect themselves from their dark magic, and restrain them until they could be slain. Among the spells they preferred were protection from evil and good, zone of truth, magic circle, banishment, and hold monster.
+
+Abilities
+Novice monster slayers developed a keen eye for learning the weakness of the creatures they hunted. With quick study they could discern any resistances or immunities they possessed, along with any vulnerabilities that would cause greater harm to the beasts. This ability functioned as a sort of divination.
+
+Through continued training they learned how to resist both the physical and psychic attacks of their prey. More experienced slayers developed techniques to magically nullify spells cast by their foes, and impede magical teleportation.
+
+The most veteran monster slayers utilized techniques to turn their foes' attacks against them, performing quick counter-attacks whenever they were threatened.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Moonblade of Selûne
+
+Moonblades of Selûne were enchanted longswords gifted to the priestesses of Selûne for going above and beyond in service of their church.
+
+Description
+The blades of these magic swords were made of strange translucent pale-white material that gently glowed in the dark. To a casual observer, the edges were dull; however, when swung in combat, a Moonblade of Selûne proved to be a deadly weapon that cut its opponents with magic.
+
+Powers
+These powerful blades passed through armor and attacked the target's flesh directly through magic. This effect was similar to that of a +4 enchantment. Moonblades drained the life out of the targets and left no visible wounds. Additionally, Moonblades of Selûne were devastatingly deadly to undead creatures as the weapons boiled away the creatures' essence.
+
+History
+By the early 14 century DR, Moonblades of Selûne were rare gifts to the priestess of Selûne who committed themselves fully to the creed of the Moonmaiden and served beyond the duty to the faith. One notable welder of the such blade was Emma Moonblade, who settled in the wilderness outside the Shaengarne Ford in Icewind Dale. In the, the priestess' enemy, the troll Vrek Vileclaw, ambushed her during a battle against orcs of the Legion of the Chimera and stole the Moonblade. Emma implored a group of mercenaries from Targos to recover the blade.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale II
+
+References
+
+---
+
+## Moment of Peace
+
+Moment of Peace, designed by Greg Marks and Toni Winslow-Brill, is an adventure in the Dreams of the Red Wizards storyline published for the Adventurers League. It is the fourth part of the Storm King's Descent series.
+
+Index
+Characters
+Deathsting • Iymrith • Kroupant • Meoran • Serissa • V'zree • X'althoa • Zehira Deryan
+
+Alsbith • Hekaton • Szass Tam
+
+Creatures
+arcanaloth • black worm • clay golem • crystal golem • dracolich • drow • elf • fiendish flesh golem • flameskull • flesh golem • guardian portrait • human • iron golem • marilith • mongrelfolk • owlbear • purple worm • storm giant • white worm • wyvern • yagnoloth
+
+lich
+Locations
+Bodies of Water Trackless Sea
+Buildings & Structures Tower of Skulls
+Mountains Thunder Peaks • Wyvernfang
+Planes Carceri
+Settlements Maelstrom (settlement)
+Wilderness Plains of Purple Dust
+
+Candlekeep • Cormyr • Dragonsword Mountains • Mulhorand • Raurin Desert
+
+Magic
+Items Iltkazar Scepter
+Potions elixir of health • potion of fire resistance
+Spells alter self • banishment • beacon of hope • blur • burning hands • chain lightning • charm person • command • contact other plane • continual flame • counterspell • crown of madness • crusader's mantle • cure wounds • dancing lights • darkness • darkvision • detect magic • detect thoughts • dispel magic • dissonant whispers • divine favor • dominate monster • dominate person • eldritch blast • faerie fire • false life • fear • finger of death • fire bolt • fireball • flame strike • flaming sphere • freedom of movement • friends • goodberry • greater invisibility • greater restoration • guardian of faith • guiding bolt • healing word • heat metal • hellish rebuke • hold monster • hold person • hypnotic pattern • ice storm • identify • illusion • inflict wounds • invisibility • lesser restoration • levitate • light • lightning bolt • mage armor • mage hand • magic circle • magic missile • magic weapon • mass cure wounds • mending • mind blank • minor illusion • mirror image • Nystul's magic aura • phantasmal force • polymorph • prayer of healing • prestidigitation • remove curse • sacred flame • sanctuary • scorching ray • scrying • sending • shield • shield of faith • shocking grasp • silence • silent image • soultheft • spare the dying • speak with dead • spiritual weapon • stinking cloud • stone shape • stoneskin • suggestion • telekinesis • teleport • Tenser's floating disk • thaumaturgy • wall of fire • water breathing • wish • zephyr strike
+
+Organizations
+Cult of the Dragon • Red Wizards
+Player Factions  Emerald Enclave • Harpers • Lords' Alliance • Order of the Gauntlet • Zhentarim
+Religion
+Vhaeraun
+
+Kelemvor • Lolth
+
+Appendix
+Credits
+ D&D Adventurers League Guildmaster: Chris Lindsay
+ Art Director and Graphic Designer: Rich Lescouflair
+ D&D Adventurers League Wizards Team: Adam Lee, Ari Levitch, Bill Benham, Chris Lindsay, Mike Mearls
+ D&D Adventurers League Administrator(s): Alan Patrick, Amy Lynn Dzura, Travis Woodall, Claire Hoffman, Greg Marks, LaTia Jacquise, Ma'at Crook
+ Playtesters: Gary Affeldt, Gary Brown, Richard Brown, Daniel Franco, David Krolnik, Chris McGovern, Sean Mittelstaedt, Daniel Oliveira, Alain Pham, Ben Siekert, James Schweiss, Phil Tobin, Marcello Velazquez
+External Links
+
+References
+
+Connections
+
+---
+
+## Morel
+
+Morels were edible fungi found in many locations across Faerûn.
+
+Availability
+Morels grew in abundance in humid temperate ares of Thay beyond the Second Escarpment.
+
+Usages
+In Waterdeep, roasted cockatrice was served with morels or nightcap mushrooms.
+The fanciful Eel Revealed eatery in the Cormyrean capital city of Suzail served platters full of succulent eels and morels dosed with sardragon sauce.
+The Platter of Plenty tavern in Marsember served its famous Blentra's Oysters and Wild Rice in Mushroom Soup that contained three fistfuls of morels per cauldron.
+In Stag Steads of the King's Forest, morels accompanied roasted boar, venison, and grouse, along with various forest vegetables.
+Klarinthra Larntrout was an elven maker of very strong morel and mint mushroom wine beloved by The Simbul of Aglarond.
+
+Appendix
+Appearances
+Novels
+Red Magic • Elminster Must Die
+
+External Links
+
+References
+
+---
+
+## Moqtafi
+
+Moqtafi was an undead architect inhabiting the ruined city of Ysawis in the Grey Jungle of east Zakhara in 1367 DR.
+
+History
+The undead servant was alive during the time of Princess Zoraya.
+
+Activities
+Moqtafi was tasked by the necromancer Sumulael with constructing his morbid Bone Pavilion in the King's Garden of the Jade Palace of the Necromancers. Though his mind and memory were corrupted over the centuries, Moqtafi had intimate knowledge about the construction of the Jade Palace.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Monster summoning VII
+
+Monster summoning VII was a powerful arcane conjuration spell that summoned creatures to serve the caster.
+
+Effects
+This spell summoned one or two powerful creatures to follow the caster's commands for the spell's duration. The creatures arrived one minute after the spell was cast. Some examples of potential creatures summoned via monster summoning VII included fire giants, brown puddings, hydras, dragon turtles, and purple worms.
+
+Components
+In addition to verbal and somatic components, this spell required as material components a small bag an a candle to cast.
+
+History
+This spell was used by swamplords, specialty priests of Sebek, to summon a pair of giant crocodiles.
+
+Appendix
+References
+
+---
+
+## Moon dragon
+
+Moon dragons, also called lunar dragons or occasionally phase dragons, were a species of dragon native to wildspace regions, where they made their homes on moons.
+
+Description
+Moon dragons changed coloring over the course of thirty days, beginning with a solid, brilliant white form, then having a "shadow" appear on the left side of the dragon, that spreads over the course of 15 days until the beast is solid black in color, at which time a sliver of white appears on the left side and then spreads, again over the course of 15 days, until the dragon is once again solid white. These states of coloration affected their strength and personalities, and were called phases.
+
+Personality
+Moon dragons were evil, though their ethical outlook varied between phases. During their solid-black phase they were chaotic, while during their solid-white phase they were more lawful; in the transitional phases (and thus most of the time) they were neutral. As a group, moon dragons tended to be arrogant and have elitist attitudes. Even more than their evil nature and natural pride, they were obsessed with the dichotomy of light and darkness and the moon motif.
+
+Abilities
+
+Moon dragons were stronger during their solid-black phase, being only half as powerful in their black-white phase or white-black phase as during the black phase, and only a quarter as powerful during their white phase. In any phase, they were unbothered by cold and had superior vision that was unaffected by either darkness or light spells. In their white phase, lycanthropes were forced to shift into their were-form and obeyed the moon dragon as though charmed.
+
+Moon dragons breathed a cone of black frost that not only damaged enemies, but also hardened around them, slowing or even entombing foes in blackened ice. Additionally, lunar dragons could become partially incorporeal to avoid taking damage from material weapons.
+
+Like many other true dragons, moon dragons had several spell-like abilities: as young, they gained light; as juveniles, darkness, 15' radius; as adults, continual light; as old dragons, Melf's minute meteors; as very old dragons, repulsion; and when venerable, reverse gravity.
+
+Combat
+Lunar dragons were known to use their fangs, claws, tails, and wings as weapons in combat, but they generally considered mere "brawling" beneath them, instead relying on their breathe weapon and spell-like abilities.
+
+Ecology
+
+Moon dragons, as their name would suggest, lived in lunar caves and had natural spelljamming abilities. They could eat anything, but favored frozen meat, which they typically kept ample supplies of in icy larders within their lairs. A female lunar dragon would, before laying eggs, stock up so that she did not have to leave her lair until the eggs hatched and the hatchlings old enough to fend for themselves. There were one to four eggs in a brood; the eggs themselves had stony shells that were white to light grey in color.
+
+Due to their obsession with the moon motif and the light-dark dichotomy, moon dragons preferred to make their hoards of black and white pearls and diamonds, moonstones, and any coin called a "moon" by its society; they also were known to hoard spelljamming helms taken from ships that dared invade their territory.
+
+Moon dragons were mortal enemies of sun dragons and would attack members of that species on sight.
+
+Appendix
+Appearances
+Video Games
+Idle Champions of the Forgotten Realms
+Card Games
+AD&D Trading Cards
+References
+
+Connections
+
+---
+
+## Moonhall
+
+Moonhall was the temple dedicated to the goddess Selûne, The Night White Lady, located in the Wave District of Athkatla, the capital of Amn.
+
+Structure
+Moonhall had a seven-sided conical shape. Its distinct appearance made the temple of Selûne the most memorable landmark in the Wave District as of the late 14 century DR.
+
+Inhabitants
+Circa the, Moonhall was run by the aging High Priestess and Lunar Aryn Gallowglass. She hailed from the nation of Tethyr and was a successful businesswoman who invested the coin from her three trade ships back into the temple.
+
+Appendix
+See Also
+Interactive map of Athkatla
+References
+
+---
+
+## Morcin
+
+Morcin was a wealthy merchant inhabiting the Shining South during the mid-to-late 14 century DR.
+
+Activities
+Morcin lived in the city of Huorm in Durpar within the Shining Lands. He was a member of Chaka Turamir and a member of the Shining Lands' ruling Council of Merchants.
+
+Appendix
+References
+
+---
+
+## Moonstone mask
+
+A moonstone mask was a enchanted mask that enhanced the wearer's senses.
+
+Description
+Weighing, the mask was fashioned from silver and studded with numerous small moonstones.
+
+Powers
+This mask provided the wearer with darkvision and great skill in listening and spotting hidden things.
+
+Creation
+Creating one required the spells darkvision and clairaudience/clairvoyance.
+
+Availability
+It was worth around 12,000 gold pieces.
+
+Appendix
+
+See Also
+ Moonstone Mask
+
+References
+
+---
+
+## Mordyr
+
+Mordyr was a small island located on the Golden Water in the Shining Lands of southeast Faerûn during the 14 century DR.
+
+Geography
+The island was located in the southern region of the Golden Water, just north of Var and the small bay called the Throat, next to the island of Vathal.
+
+Activities
+There were no permanent settlements on Mordyr during the 14 century DR.
+
+Appendix
+References
+
+---
+
+## Morning star of confusion
+
+Morning stars of confusion were enchanted bludgeons of unassuming appearance.
+
+Description
+The weapon consisted of a wooden shaft and a spiked golden head. It was around  long. The golden head was magically hardened to avoid the metal's malleability.
+
+Powers
+These morning stars were enhanced with a +1 enchantment that aided the wielder's hand, guiding it towards the target as well as improving the punishment dealt. Additionally, they had a chance of rendering the target creature confused and disoriented for a short period of time.
+
+History
+One morning star of confusion could be found in the top levels of the Dragon's Eye caverns on the Spine of the World circa the .
+
+Appendix
+Appearances
+Video Games
+Icewind Dale: Enhanced Edition
+
+References
+
+---
+
+## Mount Sundabar
+
+Mount Sundabar was a mountain found in Sossal in the Cold Lands of northeast Faerûn during the mid-to-late 14 century DR.
+
+Geography
+Mount Sundabar stood in the northern end of the Icerim Mountains in southeastern Sossal. The mountain peak jutted west from the rest of the Icerim Mountains and lay southwest of the settlement of Sundice.
+
+History
+When the Ice Kingdom of Dareth first fell to the White dragons of Hoarfaern the surviving dwarves, alongside their rescuers from Clan Shattered Shield of Citadel Sundbarr reestablished themselves in this mountain and named it Sundabar after the latter clans former hold in .It was sundered four years later in  by the vengeful wyrms of Hoarfaern using mighty magical items of elder origin, that sheard the very top of the mountain off and left a great plateau. Some time after the sundering of the mountain, a group of Avariel nomads happened upon the desolate and once-more uninhabited mountain and set up a redoubt for their race, remaking the peak in Glassteel.
+
+Notable Locations
+The entire missing mountain top had been replaced by the great Aerie of the Snow Eagles by the Avariel as a citadel and temple to Aerdrie Faenya
+
+Inhabitants
+The Avariel lived on the slopes, and peak plateau of the mountain, at least as late as .
+Appendix
+
+References
+
+---
+
+## Morothec
+
+Morothec was a cambion in service to the pit fiend Kurgaloth.
+
+Personality
+Morothec could be quite charming, but was quick to anger when bested.
+
+History
+In the late 15 century DR, Morothec was one of many devils brought to the Lightfinger Estate in Waterdeep to enforce a lapsed infernal contract between Kurgaloth and the Lightfinger family.
+
+When adventurers arrived at the Lightfinger Estate to investigate the chaos that the devils' arrival had caused, Morothec battled them inside the opulent mansion at the Estate's center, and ended up fleeing when their victory became clear.
+
+Appendix
+Appearances
+Video Games
+Warriors of Waterdeep
+References
+
+---
+
+## Moonfall's steps
+
+Moonfall's steps were a pair of enchanted boots worn by clerics from Waterdeep as of the late 15 century DR.
+
+Powers
+As the wearer of moonfall's steps charged into battle, the boots caused spiritual power to lash out randomly at their enemies.
+
+Notable Owners
+Halbenet Soladonel, a moon elf cleric of Corellon Larethian who performed missions on behalf of Laeral Silverhand in the late 15 century DR.
+
+Appendix
+See Also
+ Moonfall's shroud
+Appearances
+Video Games
+Warriors of Waterdeep
+
+References
+
+---
+
+## Moala Addrell
+
+Moala Adrell was one of the Stalwart Lions at Crosswinds Keep as of .
+
+Description
+She was pale, lithe, and fire-haired, often keeping her hair tied back, which highlighted her cheekbones and ears. She stood at 5' 10", and weighed .
+
+Possessions
+Her bedchambers, shared with Bran Oakenshire, was furnished with elven items from across the planes.
+
+Activities
+Moala was the party member who most often handled diplomacy for Crosswinds Keep. She was also the spiritual center for the keep, and viewed every battle as a blessing from Chauntea.
+
+Relationships
+Bran Oakenshire and her had both confessed their love for each other.
+
+History
+One of the Stalwart Lions, she hid her feelings for Brak Oakenshire for many years during their time as adventurers in Faerûn; when he confessed his feelings for her, she revealed her own rather than let him go. She received a vision from Chauntea shortly after, where she was prompted to build a safe haven in the Astral Plane. Together with the rest of the Stalwart Lions, she helped found Crosswinds Keep, her leadership becoming central to the effort.
+
+Appendix
+References
+
+---
+
+## Morton
+
+Morton was a traveling bard and entertainer from the Dragon Reach in the The Vast, active in the late 14 century DR.
+
+Abilities
+As a bard, Morton possessed some knowledge of the arcane and could cast such spells as color spray, ghost sound, charm person, magic missile, burning hands, and invisibility.
+
+Possessions
+Morton and his traveling companions carried several items they were willing to offer for trade. including a lute, an iron skillet pan, a spare set of leather armor, and a bundle of silk rope. He was also armed with a simple short sword.
+
+History
+In the late 14 century DR, or in the Year of Great Change of the Malatran calendar, Morton and his fellow bards, Absolute, Scar, and Frenchy, traveled to the village of Lion's Crossing to perform at a local festival. On their journey across the Dragon Reach, they came across a peculiar group of travelers, some of whom looked human, and some were of more exotic species, all speaking in a strange language and armed in primitive weapons compared to the common equipment found in the region. The group was heroes of the Living Jungle from the far land of Malatra who were transported to the Dragon Reach in search of a headshrinker's artifact. With the use of a tongues spell, the groups were able to communicate. The foreigners used strange words like garuda and katanga and seemingly did not know what the beasts of burden that dragged the bards' wagon were. And the wagon itself was an alien piece of technology for the Malatrans. The bards and the Heroes of the Living Jungle parted ways after partaking in some trade.
+
+Appendix
+Appearances
+Licensed Adventures & Organized Play
+Legacy of the Headshrinker
+References
+
+---
+
+## Mouth of Moander
+
+The Mouth of Moander was the supreme servant of Moander, the Rotting God, during the mid-to-late 14 century DR.
+
+History
+Following Moander's demise in the, the Mouth of Moander also served as the head of the dead god's cult that was secretly influenced by Lolth. The Mouth of Moander was typically a beautiful human female, though exceptions could occur.
+
+Mouths of Moander
+ Mogion of the Survivors of Moander cult until.
+ Dalchatha Maereegh of the Hidden Glades during the mid-to-late 14 century DR.
+
+Appendix
+References
+
+---
+
+## Molten orbs
+
+The molten orbs were a set of metal spheres that were crafted and enchanted by Coriolis Rillevay for use in battle. It could be found in Waterdeep as of the late 15 century DR.
+
+Description
+The central and largest orb had a fiery core that glowed through cracks in the surface, while two smaller and solid orbs orbited around it. The entire constellation of the molten orbs, in turn, would either float above the wielder's head or orbit around them from beyond arm's reach.
+
+Powers
+The molten orbs could be directed to launch an injurious beam of fire at a target, and seemingly at random, it might choose to also fire additional beams at other targets as well.
+
+Notable Owners
+
+ Coriolis Rillevay, a gnome sorcerer and artist who worked as an adventurer on behalf of Laeral Silverhand, the Open Lord of Waterdeep, during the late 15 century DR.
+
+Appendix
+See Also
+ Intricate rings
+ Coalescing cores
+ Constellation of power
+Gallery
+
+Appearances
+Video Games
+Warriors of Waterdeep
+References
+
+---
+
+## Mosstrunks
+
+The Mosstrunks was an area in the heart of the Elven Court wood of Cormanthor.
+
+Description
+This section of forest was said to be damp and always misty.
+
+Geography
+The Mosstrunks were said to be the deepest part of the Elven Court wood, and were located south of the Vale of Lost Voices and west of Essembra.
+
+Rumors & Legends
+In the mid-to-late 14 century DR, Daern Claundon claimed to have discovered a long-lost but remarkably intact dwarven kingdom located somewhere underground beneath the Mosstrunks. The excitement with which he told his story led to the spread of rumors that the ruins must have contained either great wealth or objects of great power.
+
+Appendix
+References
+
+---
+
+## Mordecai's morningstar
+
+Mordecai's morningstar was an enchanted bludgeon wielded by Mordecai of Westgate, active in the late 14 century DR.
+
+Powers
+Despite its generic appearance and absence of any markings indicating the morning star's creator, the weapon possessed a +1 enchantment that guided the wielder's hand toward targets and dealt additional magical damage upon each strike.
+
+History
+In the, Mordecai's morningstar was the favorite weapon of Mordecai, the foul-tempered cheating proprietor of the Track.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Mysteries of Westgate
+
+References
+
+---
+
+## Moment
+
+Moment was a divine divination spell of the numbers sphere used by clerics to determine the precise point in time to perform an act with the greatest chance of success.
+
+Effects
+If cooperating with an ally, the caster could inform their companion when to execute a discussed action for the best possible results. The spell lasted for several minutes depending on the skill of the caster, but the caster needed to maintain their concentration in order to continue to provide advice to their companions on when to act.
+
+Components
+In addition to verbal and somatic components, this spell required as a material component a set of three silver dice that the caster tossed repeatedly in their hand while concentrating. The dice could be reused to cast the spell again.
+
+History
+Luckbringers, who were specialty priests devoted to Tymora, used the moment spell.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moradin's Will
+
+Moradin's Will was a unique enchanted mace, imbued with divine magics of Moradin, in the 15 century DR.
+
+Powers
+This Moradite bludgeon possessed a +2 offensive enchantment and it aided the wielder in recovering from various afflictions.
+
+History
+In the 15 century DR, Moradin's Will belonged to a pirate from the Sword Mountains named Kajin.
+
+Appendix
+Appearances
+Video Games
+Dungeons & Dragons: Heroes of Neverwinter
+
+References
+
+---
+
+## Morgan's staff
+
+Morgan's staff was a unique magic weapon located in Waterdeep as of the .
+
+Description
+The quarterstaff was made from polished cherry and walnut that were intertwined for the entire length of the staff. The staff weighed .
+
+Powers
+Morgan's staff possessed both the thundering and shock weapon qualities. Additionally, the quarterstaff's charges could be used to cast baleful polymorph, chain lightning, and thunderlance.
+
+History
+Morgan's staff was created by Laeral Silverhand and carried by her when masquerading as Irusyl Eraneth. It remained unclear how she settled on the weapon's name.
+
+Appendix
+References
+
+---
+
+## Morgan (druid)
+
+Morgan was a druid active in the High Moor sometime prior to the mid-to-late 14 century DR. He was the namesake of the Morgan's redwing species of butterfly.
+
+History
+During his time, a tribe of goblins discovered that the redwing butterflies native to the High Moor could be boiled to produce a desirable crimson dye. They soon taught this to the other goblins of the High Moor, and in turn, the butterflies quickly became endangered. At this point, Morgan moved to save the insects from extinction. Capitalizing on a wasting disease that had befallen some of the goblins, he spread rumors that it was caused by the redwing dye, thus sparking concerns that the dye was poisonous. The lie compelled the goblins to leave the butterflies alone, thus allowing their numbers to recover. As of the mid-to-late 14 century DR, the species was known as "Morgan's redwings" in the druid's honor.
+
+Appendix
+References
+
+---
+
+## Monster Pit
+
+The Monster Pit was an arena located in Waterdeep during the mid-to-late 14 century DR.
+
+Location
+The Monster Pit was located in Waterdeep's Dock Ward beneath the Fishscale Smithy and the Thirsty Sailor.
+
+History
+Once owned by Elaith Craulnober, the Monster Pit was abandoned as of the, though local gangs sometimes met there to settle their differences.
+
+Appendix
+References
+
+---
+
+## Monastery of the Sun
+
+The Monastery of the Sun was a monastery dedicated to Amaunator located in Waterdeep during the mid-to-late 14 century DR.
+
+Description
+The temple stood four storys tall.
+
+Location
+The Monastery of the Sun was located in Waterdeep's Trades Ward in a neighborhood bordered by the High Road to the west, Lamp Street to the south, and Andamaar's Street to the north and east.
+
+History
+The temple served as the base of operations for the Order of the Sun Soul, a monastic order originating in ancient Netheril who followed Amaunator and later Lathander, Selûne, and Sune.
+
+Appendix
+References
+
+FR:Monastère du Soleil
+
+---
+
+## Mother Jatha's
+
+Mother Jatha's was a shop located in Waterdeep during the mid-to-late 14 century DR.
+
+Description
+The building was one story tall.
+
+Location
+Mother Jatha's was located in the central section of the Dock Ward in a neighborhood that sat just north of the eastern end of Fish Street.
+
+Appendix
+References
+
+---
+
+## Monkey Balls (food)
+
+Monkey Balls was a type of dessert treat from the city of Baldur's Gate on the Sword Coast, a creation of Dradeel's mother.
+
+Description
+The recipe made around forty Monkey Balls. The ingredients for the treat were mixed in two batches. The first batch was a mix of half a cup of peanut butter, one-third of a cup of honey, half a cup of granola, half a cup of crushed "cheery" cereal, half a cup of oatmeal, a dash of nutmeg and cinnamon. The second batch was a mix of a cup of sugar, a quarter cup of cocoa, a quarter cup of butter, a quarter cup of milk, and a dash of vanilla.
+
+The first batch's ingredients were mixed, leaving oatmeal out, and rolled into coin-sized bills that were then rolled in oats. The second batch was all boiled together for three and a half to four minutes. When smooth, the mix was taken off the heat and used to dip Monkey Balls in. These treats were served along with a poem of the same name being recited.
+
+History
+The recipe for Monkey Balls was recorded in the recipe book of Dradeel's during his accommodations within the Spellhold in the .
+
+Appendix
+Appearances
+Video Games
+
+Baldur's Gate II: Shadows of Amn
+References
+
+---
+
+## Monkey Balls (poem)
+
+Monkey Balls was a poem penned by Ergo the Organ-Grinder, some one or more generations removed from the .
+
+Contents
+
+History
+The poem was recited when the sweet treat of Monkey Balls was served, according to Dradeel's mother whose repose we preserved in Dradeel's cookbook during his stay with the Spellhold in 1369 DR.
+
+Appendix
+Appearances
+Video Games
+
+Baldur's Gate II: Shadows of Amn
+
+References
+
+---
+
+## Mother Tathlorn
+
+Mother Tathlorn was a businessperson inhabiting Waterdeep during the mid-to-late 14 century DR.
+
+Activities
+She owned a festhall and spa called Mother Tathlorn's House of Pleasure and Healing located on Gem Street in Waterdeep's Castle Ward.
+
+Relationships
+She was a close friend of Regnet Amcathra.
+
+Appendix
+References
+
+---
+
+## Mouth of Moreyeus
+
+The Mouth of Moreyeus was an envoy slain by the Simbul in .
+
+Description
+He was dressed in gold clothes, with a spade-shaped beard, and many rings.
+
+History
+The Mouth of Moreyeus was one of many envoys from a city in Chessenta to Aglarond, who entered the palace in the The date in the book is wrong due to editing error; see web cite under invitation by The Simbul. She judged them to be spies working for Thay, and thus struck at them with lightning the instant they crossed the threshold. There were few survivors, who were soon to witness Elminster Aumar's battle with her.
+
+Appendix
+Notes
+
+Appearances
+Novels
+Elminster in Hell
+References
+
+---
+
+## Monguldarath
+
+Monguldarath was a small fortified keep of stone that belonged to Tethyrean Counts of Fyraven over the years, and its lands included outlying farms.
+
+Geography
+Monguldarath was built atop a ridge just five miles southeast of the town of Tulmene, overlooking the waters of the Firedrake Bay. Surrounding the keep and its farms were groves of duskwood trees.
+
+Trade
+The masters of Monguldarath offered lodgings and hot meals to small traveling bands of adventurers within the keep's guesthouse and a private paddock and stables.
+
+Defenses
+However, those guests brandishing unsheathed arms or weaving potent magics resulted in a dozen Tulmene's mounted men-at-arms summoned via a signal horn in addition to the keep's garrison of ten and half a dozen servants, experienced in battle and warfare.
+
+History
+After the Reclamation Wars, by the late 14 century DR, Monguldarath received a new master – Seas' Admiral of Tethyr Tanar Keelson. Under his ownership, the keep was mostly inhabited by his servants, who worked on renovations as the admiral was away most of the time.
+
+Rumors & Legends
+Like many placed in Tethyr, Monguldarath was rumored to be haunted by phantoms of the Ten Black Days. Volothamp Geddarm confirmed the keep's undead inhabitants in his guide to the Lands of Intrigue. According to the author, ghosts of silently moving ghostly forms of armed people proved to be no problem to Count Tanar Keelson and his servants, who got used to the haunting.
+
+Appendix
+References
+
+---
+
+## Moavar
+
+Moavar was the sociable wizard innkeep of The Beacon in Thentia in 1367 DR.
+
+Personality
+Moavar enjoyed telling the patrons of The Beacon about his days as a ship's mage, sharing long, elaborate tales that were sometimes true, and sometimes false.
+
+Appendix
+
+---
+
+## Morathin Belmonder
+
+Morathin Belmonder, who was nicknamed Hooks, was a butcher and businessman inhabiting Waterdeep, the City of Splendors, during the mid-to-late 14 century DR.
+
+Activities
+Morathin was main point of contact for the Guild of Butchers  circa 1357 DR. He held the title of "Second Knife" within the guild and worked out of both the Butchers' Guildhall, which was their headquarters on Way of the Dragon in the Dock Ward, as well as his shop Belmonder's Meats in the Trades Ward.
+
+Appendix
+References
+
+---
+
+## Moorefield
+
+Moorefield was the butler of Lord Partic Thistle, and served him faithfully at his estate at Thistleflame Keep in Suzail, Cormyr, in the mid-to-late 14 century DR.
+
+Description
+Moorefield was a tall, thin man with a pointy nose and thinning black hair. He dressed in a fine black-and-white outfit with white gloves.
+
+Personality
+The butler had a haughty, polite manner, and was a master of etiquette and decorum. He found adventurers to be boorish folk.
+
+Possessions
+Moorefield wore bracers of defense and had a magical silver baton for the unlikely event that he was personally involved in fighting. His duties were aided by a keychain of domestic propriety.
+
+Activities
+As butler, Moorefield was responsible for the domestic maintenance of Thistleflame, as well as controlling the keys to all the doors. He kept the security of the keys paramount, barely even trusting them to other employees.
+
+Relationships
+Moorefield was the closest confidant of Lord Thistle, entrusted with his secrets and personal business. He had an abiding love for Lord Thistle, and would never betray him through intent or carelessness.
+
+He had a good friendship with the maid Larwyn, and partook in a competition with her to see who could be the more efficient servant. Gossip in the Manor speculated that they were lovers.
+
+History
+Moorefield left Zhentil Keep for Cormyr in 1329 DR, and began working for Lord Thistle in 1349 DR. He used his knowledge of Zhentish customs to aid Lord Thistle in his work with adventuring companies.
+
+In 1369 DR, he discovered the apparent murder of Lord Thistle, and assisted in investigating the matter. It came to light that Lord Thistle had actually been kidnapped and was soon recovered, much to Moorefield's relief.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Morolith
+
+Morolith was an enchanted heavy warhammer from the Elven Catacombs underneath Myth Drannor.
+
+Powers
+The warhammer had a powerful +6 enchantment and boosted the wielder's physical strength. Morolith also contained three charges of the cloudkill spell that could be unleashed at the wielder's command.
+
+History
+Morolith was recovered and taken from the Elven Catacombs in the  by the marauders of the drow House Freth who allied with the Cult of the Dragon to smuggle ancient elven artifacts from the tombs. Morolith and many other magic items were stored in the catacomb level claimed by House Freth and used as a makeshift prison. The loot chests were protected by complex locks and deadly magical traps.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Moria
+
+Moria was a vampire who briefly took up innkeeping the Journey's Rest alongside Ryanna in 1369 DR.
+
+Description
+Moria was a voluptuous woman who exuded a glow of good health, with blond hair and bright blue eyes.
+
+Personality
+When acting as a human, Moria was cheerful, flirtatious and kind. When the time came to strike, she was perfectly predatory and heartless towards her victims.
+
+Abilities
+Moria had the usual abilities of a vampire, including being able to take a gaseous form.
+
+Possessions
+Moria carried a long sword, which she had learned to use in her life as a fighter.
+
+Activities
+Moria and Ryanna briefly operated the Journey's Rest inn near Hultail, hoping to snare lonely travelers who wouldn't be missed.
+
+History
+In the, Moria and Ryanna killed a married couple and their two handymen who had just finished renovating the abandoned Journey's Rest inn. Deciding to let their prey come to them, the vampires took up the inn for themselves and hired the barmaids Maris and Cora. Their first attempt was on the necromancer Ratakos, who easily overpowered them and was then immediately offered a better deal. Ratakos would create undead that would attack travelers, prompting them to take shelter instead of passing by the inn. Moria and Ryanna would drain and kill the customer, and Ratakos would then receive the fresh body for his necromantic studies.
+
+This new plan came apart less than a month later, when the merchant Portis Alvermantle fled the inn after suspecting something was wrong, Lord Rhyn Mournsoul and Alanis Dirgesong were too important to risk killing, and the only other potential victims were a group of adventurers. Depending on how the adventurers protected themselves, Moria and Ryanna either bided their time, or attacked and were driven out of the Journey's Rest.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Mordenkainen's arcane seal
+
+Mordenkainen's arcane seal was a powerful spell, presumably developed by Mordenkainen of Oerth, that warded a space against entry.
+
+Description
+It was marked by three glowing red magic circles on the entrance to the warded area: two small circles on the top and bottom, and a larger circle in the middle.The three circles appear similar to the three rings of the hilt of Mordenkainen's two-bladed sword.
+
+Effects
+Reputedly, the spell could make a vault impenetrable to entry by physical means and all but the most powerful magical means. It seemed possible for a portal, such as produced by a hither-thither staff, to bypass the seal, provided one end of the portal was moved physically inside the warded area.
+
+The seal could be broken by powerful magic like Mordenkainen's disjunction.
+
+History
+In the late 1490s DR, Sofina, the wizard advisor to Lord Forge Fitzwilliam of Neverwinter, cast Mordenkainen's arcane seal on the treasure vault of the refurbished Castle Never to protect the valuables that should be held within. Forge offered use of this vault to his wealthy guests from other cities, such as Din Caldwell and Porb Piiradost, who'd come to Neverwinter to bet big on the High Sun Games and had brought their riches with them. This was a problem for the thieves Edgin Darvis, Holga Kilgore, Simon Aumar, and Doric, who had to seek nothing less than the helmet of disjunction in order to break through it.
+
+Ultimately, during the start of the Games, Simon used the helmet of disjunction to break the Mordenkainen's arcane seal and enter the vault. But it was all for naught—the treasure had already been relocated.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Molar's Artful Armourer
+
+Molar's Artful Armourer and Molar's Very Well-Equipped Voyager was a single blacksmith shop of Skull Crag in the Storm Horn Mountains of Cormyr in the 14 century DR.
+
+Services
+Molar's Artful Armourer and Molar's Very Well-Equipped Voyager were two shops with their doors right next to each other with the Voyager door to the south and the Armourer to the west. Each of the shops had a sign with its name, however, once a customer entered either door they quickly realized that both doors led to a single shop and to a single proprietor, a man named Molar.
+
+History
+In the mid-14 century DR, Molar's was the only shop that traded in armor and weapons in Skull Crag, and was popular among the travelers of the High Road. Molar's prices were high due to the monopoly in the village.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Molar
+
+Molar was a shopkeep and a blacksmith from Skull Crag in the Storm Horn Mountains of Cormyr in the 14 century DR.
+
+Description
+Molar was an aging human with gray hair and impressive musculature of a hard-working smith.
+
+History
+By the 1360s DR, Molar ran two shops, Molar's Artful Armourer and Molar's Very Well-Equipped Voyager. They're their doors right next to each other with Very Well-Equipped Voyager door to the south and Artful Armourer to the west. Each of the shops had a sign with its name. However, once a customer entered either door, they quickly realized that both doors led to a single. Molar's home could be accessed from the back of the shop, and it had a second entrance at the back of the building.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Morudel
+
+Morudel was the husband of hero Arelin Starbrow, the Roadwarden of the Roadwarden Guard, stationed in the Skull Crag Keep in the Storm Horn Mountains of Cormyr in the 14 century DR.
+
+Relationships
+Morudel and Arelin sired four children, all members of the Roadwarden Guard: heroic Vidruand, bloodthirsty Yemandra, unreliable Dazmilar, and kind Kallithrea.
+
+History
+In the early 1360s DR, Arelin Starbrow was killed along the High Road, ambushed by a monster horde. Her body was retrieved by valorous Sir Dutiocs. However, the Arms of the Roadwarden, the enchanted set of weapons and armor that symbolized the office, were lost to the monster attackers. Morudel was summoned from Marsember to help decide who would take over the duties of the Roadwarden. Morudel was an old man and could not take up the sword due to his old age, and none of his children seemed to be ready or wanted the responsibility. But first thing first. The Arms of the Roadwarden had to be recovered, and Morudel tasked his children with it. Luckily,  a group of caravan guards, who earlier aided Sir Dutiocs in battle, agreed to assist Yemandra, Dazmilar, and Kallithrea.
+
+Subsequently, as the Arms of the Roadwarden were being recovered, Morudel fell under the sway of a vampire villain named Keremish. The aging knight was kidnapped and dragged away to a ruined halfling village to the southwest from Skull Crag, across the Tunlands. The vampire and his people were holding Morudel hostage, demanding the Arms of the Roadwarden, in return for his life. Sir Dutiocs and Morudel's children attempted to buy time negotiating while the caravan guard adventurers set out to retrieve him, eventually returning victorious.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Mordroka
+
+Mordroka was an ancient vampire consort of Khulzond; together, they were once masters of the Skull Crag Keep in the Storm Horns of Cormyr, before it was taken over by the Crown, long before the mid-14 century DR.
+
+Description
+Mordroka wore roses of black and red color and had pale skin and a wild head of black curly hair. She spoke seductively, in a soft voice, sweet like molasses.
+
+Abilities
+Mordroka possessed all powers of an ancient vampire. She could control vermin creatures with her will, and all vampires created by Mordroka were under her absolute control. In addition to the undead gifts, Mordroka was a powerful spellcaster.
+
+Possessions
+Mordroka protected herself with a pitch-black cloak of protection, a potent ring of protection, and a set of bracers of defense. She carried a powerfully-enchanted +4 quarterstaff.
+
+History
+The Skull Crag Keep once belonged to a vampire couple, aged around 1200 years by the 1360s DR. Khulzond and his consort Mordroka were forced out, and the Keep was taken by the Purple Dragons who later established the Roadwarden Guard. Both vampires survived the conflict and swore vengeance.
+
+By the early 1360s DR, Mordroka and Khulzond accumulated power and influence among monsters who dwelled in the Storm Horns and the Tunlands. They also controlled vampires, some of whom still slumbered in an ancient mausoleum deep underneath the Skull Crag Keep, and a powerful beholder who aided the duo in their attempt to take back the Keep.
+
+The vampires' pot began with the disappearance of Vidruand Starbrow, the heroic son of the Roadwarden, Arelin Starbrow. Believed to be missing or dead, Vidruand was turned into a vampire under the thrall of Mordroka's. She commanded Vidruand to join a force of monsters and slay his mother. The hero's death was imminent, but the plan was somewhat derailed when Vidruand lost most of the Arms of the Roadwarden to the monsters, only keeping the horned Helm of the Roadwarden. The Arms were not only symbols of the office but also a powerful set of artifacts from the Keep.
+
+A group of caravan guards joined Arelin Starbrow's surviving children in defense of Skull Crag and the recovery of lost items. When two out of three Arms were returned to the Keep, Mordroka and Khulzond sent a vampire thrall named Keremish to kidnap Arelin's husband, Vidruand's father – Morudel of Marsember, holding the man hostage, only returning him in exchange for the recovered Arms. However, that plot was ruined by the adventuring group, which aided the Keep's defense.
+
+With the last attempt to claim the full set of Arms, Vidruand Starbrow revealed himself to the family and the defenders of the Keep, claiming that the adventurers were the ones who slew the Roadwarden Arelin. That lie was easily seen through, and the prodigal son revealed his vampiric nature to the defenders, attacking them with an army of giant rats and mobats. Vidruand was defeated and seemingly killed when two sinister dark figures floated into the Keep's Great Hall. Mordroka and Khulzond revealed themselves. Mordroka wielded her spells paralyzing the defenders and commanded her thrall Vidruand Starbrow back, forcing him to recompose out of mist back into the physical form. She willed the Arms of the Roadwarden to dart toward her servant, completing the set and getting ready to slay the Keep's defenders. However, Lunit Bdufe, a cleric of Sune, countered Mordroka's magic with the last of her strength, releasing the siblings, the adventurers, Sir Dutiocs, and pulling the Arms away from the vampire.
+
+After a battle between the vampires and the heirs of the Skull Crag Keep, the vampires were defeated. However, it was not recorded who took the mantle of the Roadwarden in the end. One thing was clear, however, Mordroka and Khulzond were repelled from Skull Craig but not destroyed, likely to menace the fort again.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Mol
+
+Mol was a young tiefling entrepreneur and criminal from Elturel, who began their enterprises during the 1490s DR.
+
+Description
+Mol had light red skin and two small black horns. Her face was adorned with black markings around her eyes, and gold-colored wrapping around her right horn.
+
+Possessions
+She offered a few interesting items for prospective customers, including an arrow of Ilmater, a scroll of Melf's acid arrow, and thieves' tools.
+
+Relationships
+Mol had convinced a number of the tiefling children who were also exiled from Elturel to join her in a life of crime, including Arabella, Doni, Mattis, Meli, Silfy, and Zaki.
+
+History
+
+In the, the city of Elturel was pulled down into the Nine Hells in an event that came to be known as the Descent. As they were unfairly blamed for causing the Descent, most of the tieflings within Elturgard were exiled from their homes, and forced to live as refugees. Mol and her gang decided to take that opportunity to strike out on their own. They worked as pickpockets, burglars, and con-artists, stealing and scamming what they could from outsiders that encountered the Elturian tiefling community, and even the druids of the Emerald Grove who gave them temporary shelter.
+
+Mol did not abide how the tieflings, especially the children, were treated, and offered them hope of a better life in the big city.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+External links
+
+References
+
+---
+
+## Mount Aergurl
+
+Mount Aergurl, known earlier as The Sleeper In The Sunrise, was a mountain in the Vast in north Faerûn. It lay within the Giantspike Mountains, a part of the Earthspur Mountains, and was due east of the village of Maskyr's Eye.
+
+Geography
+Described as a long rising peak, down Aergurl's slope ran a creek that had carved a high cleft. Though hazardous, this cleft formed a pass through the mountains, leading to high chilly valleys and ultimately the Glacier of the White Worm.
+
+Reputation
+The pass was little known to humans in the mid–14 century DR. The folk of Maskyr's Eye were aware of it, but did not talk about it to outsiders, but their hunters warned of an unnatural cold beyond the Sleeper.
+
+The local dwarves had a legend of how the dwarf hero Aurgus killed a remorhaz single-handedly in the mountain pass.
+
+History
+Once, orcs marched through the pass to attack the dwarves who made their delves in the mountains near Kurth.This is undated, but may be part of the orc attack on Roldilar in 649 DR.
+
+However, no army had come through it within the lifetime of humans by the late 1350s DR.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Moondrop pendant
+
+A moondrop pendant was a magical amulet associated with the Selûnite faith.
+
+{{Quote|...Only right you should carry a little of our lady's light with you.|Inscription on one particular moondrop pendant.}}
+
+Description
+These pendants bore a design of a crescent moon.
+
+Powers
+The wearer of a moondrop pendant gained a power referred to those knowledgeable about it as writing dance''. Whenever they became gravely wounded, a wearer became much more adept at slipping away from any nearby foes, not allowing them to make opportune attacks against their person.
+
+Notable Owners
+ Robin, a once-novice priest or priestess of Selûne.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Mortimer Mittlemer
+
+Mortimer Mittlemer was a con artist illusionist who swindled wayfarers from a forest-edge glade in the Vast, in the environs of Ravens Bluff, the Living City in the mid-14 century DR.
+
+Description
+The wizard was a disheveled-looking, selfish and voracious human man.
+
+Abilities
+Mortimer Mittlemer was a liar and a wizard who used illusions in his scams. By 1360 DR, he had access to such spells as audible glamer, change and alter self, chromatic orb, hypnotism, improved phantasmal force, massmorph, non-detection, ventriloquism, and spectral force. When cornered, he would use the spectral force spell to make himself appear as a platinum dragon and his seven canaries to appear as gold dragons.
+
+By 1367 DR, Mortimer had expanded his repertoire of known spells to include cantrip, demi-shadow monsters, dimension door, ESP, feather fall, fog cloud, improved invisibility, mirror image, monster summoning II, scare, shadow door, sleep, suggestion, and wraithform. The spells dimension door and shadow door in particular proved to be quite useful in his profession, as the con artist used them to make quick getaways from his victims.
+
+Relationships
+Mortimer loved Marilyn Mittlemer, but the wizard married her because he wanted to use the woman's thieves' skills to enrich himself. Elmerth Willowit was another thief in Mortimer's crew. Still, when diving the profit, Mortimer always claimed 60% of the take, 30% went to Marilyn, and only 10% – to Elmerth.
+
+Possessions
+Mortimer typically wore a pair of bracers of defense and a ring of animal friendship. He armed himself with an enchanted +3 dagger and an enchanted +1 staff. Other magical gear he tended to have on his person included two potions of fire breath, dust of disappearance, and three potions of healing.
+
+By circa 1367 DR, Mortimer had came into possession of a +1 ring of protection, a hat of disguise, a potion of speed, oil of slipperiness, and a coin with continual darkness cast on it.
+
+Marilyn and Mortimer lived in an apartment, atop a tavern they invested into in the city of Ravens Bluff. They retired there every time their scams ran hot and needed to lay low.
+
+History
+Before resorting to the life of con-artistry, Mortimer Mittlemer attempted to live an adventuring life. He traveled with several tiny troupes, but none of the adventures were profitable nor successful due to the man's greed. One time he used dust of disappearance after discovering a booty to render a portion of the treasure invisible and hidden from his teammates. When the deception was discovered, Mortimer was kicked out from the group and stripped of all the stolen treasure as well as magical and valuable items he possessed.
+
+The next attempt to adventure ended in a disaster when his new group investigated a raided caravan. The group set against ogres and trolls and claimed treasure from the monsters. On their way back, the group came across three fearsome black dragons who took the treasure from the adventurers. Mortimer Mittlemer was the only survivor, escaping with the aid of his favorite item – dust of disappearance.
+
+Returning to a life of poverty once again, the wizard decided to use his magic to turn himself into a dragon and steal treasures from adventurers. To collect money for the operation, the wizard sold his services to a wealthy merchant entertaining his progenies. When Mortimer made enough, the exited the employ after robbing the merchant's home. He used the stolen money to purchase necessary magic items and pay for lessons in the draconic languages. Unable to find a solar who could teach him the tongue of black wyrms, he turned his attention to a story of a hermit with seven yellow canaries – in reality, a platinum dragon and his seven gold dragon allies.
+
+Mortimer purchased a dozen canaries, taking five of them with him into scams. The birds were affected by the magic of Mortimer's ring of animal friendship, stolen from an ex-employer. The canaries were trained to act in a certain manner. Traveling to a forest edge road along with his wife and a thief ally, Mortimer used flammable oils to scorch a cone in the grass, imitating a dragon's breath, and left tracks in the soft soil, leading to where the show would commence. Traveling adventurers were treated to the smell of the scorched forest and a sight of a rugged hermit who sat surrounded by seven golden birds who listened to the mage talk to them in the gold dragon language. When the wizard noticed guests, he addressed them in golden dragon tongue, then he pretended to realize they did not speak the language and imitated a spell – putting a golden coin in his mouth and switching to the Common tongue. He asked traveling adventurers for a donation of gold and gems to finance some unspecified "northern" nation in some unspecified conflicts, claiming that he already spent all of his hoard to help the poor goodly people.
+
+He continued talking about how he, a platinum dragon, flew over the area of conflict and felt compelled to help. During the conversation, he did not hesitate to hint at his birds being disguised gold dragons. Unwitting travelers would then share their treasures for a good cause, and Mortimer would continue asking for more as his wife and Elmerth Willowit snuck and tied to pickpocket any remaining valuables. If adventurers demanded proof of his draconic identity, Mortimer discreetly consumed a potion and produced a fearsome dragon's breath.
+
+During a spring or summer of the mid-14 century DR, a group of adventurers from Ravens Bluff, the Living City, came across the charlatan while traveling the forest. The result and successes of the interaction remained unrecorded. However, Mortimer was ready to use magic to scare adventurers into donating or fleeing using dust of disappearance. During that time, Mortimer Mittlemer and his wife Marilyn used swindled treasure to invest in a certain lending institution and a popular tavern in Ravens Bluff.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Montror Barelder
+
+Lord Montror Barelder was the head of the Barelder noble family of Cormyr in the late 15 century DR.
+
+Description
+Circa 1479 DR, Montror was in his sixth decade of life with a white mustache, graying temples, and a gravely voice.
+
+Personality
+Montror was a loyal traditionalist who supported the Crown and was dutiful to his own lands of the Tun Shores. Though stubborn and conservative, he was still a kind man.
+
+Relationships
+Montror was wed to Asmrae Barelder, who assisted him in all things and managed the estate. They had Narnathra and two younger children.
+
+Possessions
+His lands were the Tun Shores, on the north side of the Tun River.
+
+History
+Montror was the eighth Lord of Barelder. Lord Barelder was one of the guests at the Council of the Dragon held in the Hall of Justice in Castle Obarskyr during late Mirtul in the . After the meeting degenerated into violence, the Lord was slain by a blueflame ghost that arrived unexpected. She drove both swords into his back while he wrestled with another noble. His eldest child Narnathra inherited from him and became Lady Barelder.
+
+After his death, his body among others was taken to the Chapel of the Valiant and recognized; his death was confirmed.
+
+Reputation
+Per War Wizard Joreld Nurennanthur, his death was no great loss.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moon frenzy
+
+Moon frenzy, also known as werewolf moon frenzy, was a disease spread by the bite of a natural-born werewolf (i.e., a "true" werewolf). This disease did not transmit the werewolf's lycanthropy, although it could be easily confused for the early stages of a lycanthropic infection. Werewolves themselves were immune to moon frenzy.
+
+Effects
+The main consequence of this disease was an unpredictable and violent rage, causing an infected individual to attack friends and foes alike. The first sign was a fever that disrupted the sufferer's willpower. As the disease progressed over the course of a couple of days, the sufferer would lash out in anger whenever they were injured, first against their own allies, then against anything in arm's reach, and finally against anything in sight. If they had nobody on which to vent their rage, they wandered aimlessly as they looked for someone to strike.
+
+While it was possible to shake off the moon frenzy in its earlier stages, this became impossible without magical intervention if the rage progressed too far. The mightier the werewolf, the harder it was to resist the moon frenzy that they inflicted.
+
+History
+During the late 15 century DR, members of the Gray Wolf tribe of the Uthgardt were known to inflict moon frenzy on their foes. This tactic was notable among their "stormcallers", a type of shaman.
+
+Bloodeye, a werewolf of the Black Blood tribe on the island of Moray, was known to inflict moon frenzy on his prisoners to use them as mindless watchdogs.
+
+Appendix
+See Also
+ Moontusk fever
+Appearances
+
+References
+
+---
+
+## Mosquito fever
+
+Mosquito fever was a disease known to the people of Halruaa.
+
+Acquisition
+It was named for mosquitos, whose bites could spread diseases like it.
+
+Effects
+The disease racked the suffer with both a burning fever and numbness.
+
+History
+In the mid-to-late 14 century DR, the disease's symptoms made it useful as a metaphor for feeling angry but unable to act.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moke
+
+Sapper Moke was a goblin cultist of the Shattered Sanctum who served the Absolute during the late 15 century DR.
+
+Description
+Moke had orange brown skin, facial tattoos, and dressed in simple leathers and rags.
+
+Activities
+As a "sapper", Moke's duties involved strapping a massive bomb atop their back and running headlong into any obstacle or structure that required immediate demolition.
+
+History
+As of the, Moke was among the Absolute's cultists who remained poised to assail the Emerald Grove, as soon as Minthara Baenre gave the order.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Morris
+
+Morris was a ranger who worked as a swimming instructor in the city of Ravens Bluff in the Vast in the late 14 century DR.
+
+Description
+In the late 14 century DR, Morris was in his early twenties. Morris was a handsome  man who weighed . He had green eyes, brown hair, and tan skin.
+
+Personality
+Morris was an expressive man with almost theatrical expressions. He was brave and appreciated the scars he'd gained during his adventuring days as they were great conversation pieces and attracted the ladies. Despite adventuring, Morris was a peace-loving man at heart.
+
+Abilities
+Morris spoke Common, Elvish, Gnomish, and Dwarvish languages. He was trained in wielding stilettos, sabres, bolas, nets, and lassos. As a ranger, he was a competent tracker and swimmer. Morris also was knowledgeable in the fields of etiquette and ancient history.
+
+When he was in battle, Morris wielded weapons in both hands and wore a set of chain armor.
+
+History
+Morris hailed from a rich family who lived in Procampur. He chose an adventuring life early on to satisfy his craving for excitement. As an adventurer, he embarked on several oceanic voyages. But, eventually, Morris grew disillusioned with the profession and all the bloodshed that came with the territory. One day, Morris's ship docked in Ravens Bluff, and that was where he met Milissa of Eldath. The two quickly found common ground and a sense of kinship, bonding over the young priestess's philosophy of peace. He decided to stay in the City of Ravens and joined Milissa as a teacher in her swimming school. Together they hosted swimming courses part-time at Ravens Bluff's docks, hoping to save enough coin to build a Temple to Eldath, not far from the harbors.
+
+Under Milissa's influence, Morris adapted a defensive fighting style that fit his peaceful demeanor.
+
+Appendix
+References
+
+---
+
+## Mount Sibasa
+
+Mount Sibasa was the tallest among the four hills in Chult atop which Port Nyanzaru was built. It was the easternmost of the four hills, and was located in the center of the Market Ward.
+
+Description
+The top of Mount Sibasa was dominated by the glittering Hall of Gold, a grand temple of Waukeen. The hill's steep slopes were characterized by terraces and stepped streets. A wide stone bridge connected the top of Mount Sibasa to the top of neighboring Yklwazi Hill to the west.
+
+Inhabitants
+The top of Mount Silbasa near the Hall of Gold was the site of homes and shops.
+
+Notable Inhabitants
+ Alastar Bol, a representative of the Order of the Gauntlet, lived in a fancy villa near the wall at the top of the hill.
+ Flight of Fancy, a tabaxi jeweler.
+ The Underbridges, a Chondathan family with three pet velociraptors.
+
+Appendix
+See Also
+ Temple Hill
+ Throne Hill
+ Yklwazi Hill
+
+Appearances
+
+References
+
+---
+
+## Molecular rearrangement
+
+Molecular rearrangement, or more properly matter rearrangement,Despite the slightly different power, both molecular rearrangement in 1st or 2nd edition and matter rearrangement in 3rd edition are described using similar examples, with the text of both powers explaining a case where a number of coins is transmuted into others of greater value. Similarly, the latter power is a part of the psychokinesis discipline in 3e, unlike similar powers, which fall within metacreativity. Thus, this article is written under the assumption that the latter power is intended to be the same as the earlier. was a psionic science of the psychokinesis discipline that allowed the psionicist to transmute minute amounts of matter, altering their fundamental structure and properties.
+
+Effects
+A successful use of this science altered an ounce of matter every hour, performing an alchemy-like operation which transformed any material into almost any other nonliving material. By modifying the molecules of an object, molecular rearrangement could also be used to upgrade a weapon by psionic tempering, but this required knowledge on the psion's part on how its target was made in the first place. The amount of matter that could be affected was measured in ounces on either case; up to  was transmuted over an hour. The power could be used in combination with create object, to create an object out of its raw materials just as they were refined.
+
+Initial accounts claimed there was a relationship between the refinement of the psionicist's psychic powers and the kinds of matter that could be converted, limiting the effects to transforming the molecules of metals; while the least manifesters were capable of transmuting lead, gold and other soft materials, only those with some amount of progress could affect copper, tin, silver, zinc, and it took significant accomplishment to modify platinum, nickel, iron, and similar. Even those at the top of their professions weren't guaranteed to transmute steel; the transmutation of mithril required a psionicist well beyond the level at which they were worth their name, and exotic materials such as adamantine could only be synthesized by psionicists nearing the apex of their power. These accounts also made a mention of the fact that the drain it put unto the psionicist prevented another use for a month.
+
+Accounts post-dating the Time of Troubles made no mention of such a relationship, explicitly mentioning from the start the conversion of coal into diamonds, metals to glass, wood to ruby, or even neutralizing a poison, none of which was necessarily metallic; however, these more complex transformations required four times longer. These accounts clarified that the power respected states of matter and could not create matter or mass from nothing, nor could it affect living creatures above . Creatures under that mass limit were killed in the rearrangement of their molecules. In any case, several tries could be necessary for a psion who was not especially adept. Overall, this science was characterized by far finer control than comparable magic spells.
+
+Amongst other known limits, molecular rearrangement was known not to affect artifacts from the Nine Hells, or divinely created material. Learning it, for most psionicists, required mastery of telekinesis and molecular manipulation.
+
+Notably, the power was not affected by the phase trap spell. Some alloys were proofed against molecular rearrangement.
+
+The power was better known under the name of matter rearrangement in accounts post-dating the . The more generic description was also more inaccurate, as it was only known to be used for the transmutation of metals into other metals; it, too, was best known for its ability to improve the worth of coins. This power also acted far faster, requiring at most six seconds for, but was limited in effect to that much matter per manifestation; its toll upon the user was also such that it hindered the development of their lifeforce, and their ability to learn effectively from experience, proportionally to the monetary value of the materials generated.
+
+Notable Users
+An extremely rare ability, it was only known to be used by gem dragons, in particular sapphire dragons, and the even rarer beljuril dragons. According to early sources, only a few extraplanar beings such as couatl or shedu could employ it; the only other outsiders in possession of such power were immensely powerful ones such as Lolth, Anthraxus, or Sardior. Solars were also likely to sport these capabilities.
+
+The amethyst dragon Eldenser was known to bear the power of matter rearrangement.
+
+Appendix
+Notes
+
+Appearances
+
+External Links
+
+Early 3rd edition Psionics Handbook power list, showing Molecular rearrangement instead of Matter Rearrangement
+References
+
+---
+
+## Moonmaiden's Hall
+
+Moonmaiden's Hall was a prominent and powerful temple of Selûne in Murann, on the coast of southern Amn.
+
+Location
+The temple lay in the far southwestern corner of Murann, between the water of Tarseth Bay and the southern city gate.
+
+Structure
+The Hall was made from the bow of a ship, with the rear deck serving as the pulpit. The altar was located inside a huge, intricate armillary sphere, from inside which the priest performed their holy work.
+
+Services
+The temple primarily represented Selûne's domain of navigation and sailing to the mercantile port city, though all her aspects were regarded and respected by her many worshipers in Murann. The church's closest competition in the city were the temple of Umberlee and the Storm Horn temple of Valkur.
+
+History
+In 757 DR, the leader of the temple was High Moonmistress Zarran Tonnos, who condoned the destruction of the New Moon Pact, a holy order of lycanthropes.
+
+By 1370 DR, the temple was overseen by Lunar Crister Flechan.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moon Plague
+
+The Moon Plague was an outbreak of lycanthropy that struck Calimport in the .
+
+Effects
+People in Calimport transformed into a variety of lycanthropes, with wereboars, weretigers, and werewolves being most common.
+
+History
+The plague started after three weretigers and two werewolves entered the city. Through the 14 century DR, it remained unknown what had drawn these lycanthropes to the city.
+
+The Moon Plague lasted through the months of Tarsakh and Mirtul of 701 DR. Following the full moon in Mirtul, many of the lycanthropes depart the city for the Shaar and Tashalar apparently to continue spreading their affliction. Several lycanthropes remain in Calimport Muzad beneath the city's streets.
+
+Appendix
+References
+
+---
+
+## Monstaed
+
+Lady Monstaed was a wealthy woman of Yhaunn in the mid-to-late 14 century DR.
+
+Description
+By 1373 DR, Lady Monstaed was an elderly woman.
+
+History
+Lady Monstaed was a widow, and inherited a number of properties from her husband. Around Flamerule of the, she was secretly replaced by the Thultantharan priestess of Shar Variance Amatick using her magic ring, who proceeded to use Monstaed's identity and assets to further her own plans in Yhaunn. She transferred desirable property leases from Ladysluck Tower to Moonshadow Hall, and held social get-togethers with Mifano, the Selûnite priest responsible for wooing rich benefactors. Through Mifano, she obtained insider gossip at the temple of Selûne, learning of Feena Archwood's investigation into the Sharrans of Yhaunn, and Keph Thingoleir's assault on Lyraene, allowing her to modify Lyraene's memories of the events and keep Keph from further trouble.
+
+After Variance was revealed and driven from Yhaunn on the new moon of Eleasis, it remained to be seen what had become of the real Lady Monstaed.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moon's road tiara
+
+The moon's road tiara was a piece of Selûnite regalia held by Moonshadow Hall in Yhaunn.
+
+Description
+The tiara was an ornate and heavy crown of six crescent moons surrounding a full moon, representing the lunar cycle.
+
+History
+The tiara was an old favorite of Dhauna Myritar, but she eventually stopped using it due to its weight.
+
+Feena Archwood found the tiara too heavy and preferred lighter and more elegant accoutrements.
+
+Later, Dhauna found use for it as a handy paperweight while reading scrolls.
+
+Notable Owners
+Appendix
+Appearances
+
+References
+
+---
+
+## Moccasin
+
+Moccasins were a type of leather footwear worn on both the continents of Faerûn and Maztica.
+
+Notable Moccasins
+ Moccasins of free movement, footwear enchanted with the pluma spell create talisman.
+
+Notable Wearers
+
+Individuals
+ Baylee Arnvold, was an archaeologist and ranger, wore knee-high snakeskin moccasins made from the hide of jaculi.
+ Brenna Graycloak had a pair of antelope-hide moccasins, made and gifted to her by the Harper Galvin around 1362 DR after she had lost her own shoes.
+ Chuhotl, an Eagle Knight, wore moccasins.
+ Erixitl, a Maztican priestess of Qotal, wore moccasins.
+ Haarn Brightoak, a druid and member of the Emerald Enclave, wore moccasins.
+ Keane, a wizard from the Moonshae Isles.
+ Kixitiloc, a Payit warrior, wore moccasins.
+Regions & Settlements
+ Some of the wild elves that inhabited the Tangled Trees wore moccasins.
+
+Trivia
+Druths, a species of flatfish found in the Akanamere, were described by some as resembling the detached sole of a moccasin.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Mossy Rock
+
+Mossy Rock was an inn in Port Nyanzaru, Chult.
+
+Location
+The inn was located in Port Nyanzaru's Market Ward.
+
+Services
+The inn offered modest accommodations for adventurers, meaning that a room was 5 silver pieces per night and meals were 3 silver pieces per day.
+
+History
+During the events of the death curse in the late 15 century DR, Mossy Rock served as a meeting spot for members of the Emerald Enclave, such as Screaming Wind.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Mondasso's automated spell scroll
+
+Mondasso's automated spell scrolls were enchanted scrolls created by the traveling mage named Mondasso sometime before the late 14 century DR.
+
+Description
+Mondasso's automated spell scrolls appeared as mundane scrolls made of vellum. These scrolls were blank, apart from a simple letter "M" at the top of the scroll.
+
+Powers
+Mondasso's automated spell scrolls were among items invented by Mondasso, who spent several decades traveling Abeir and Toril. He specialized in magical gizmos that aided and sped up the creation of mages' scrolls. In order to use these scrolls, their owner had to rest for several hours – equal time needed to memorize arcane spells. When the spellcaster awoke, they opened up Mondasso's automated spell scroll and spread 10 gp worth of ink on its surface, after which the magic scroll began to absorb and shape the ink, memorizing the spells directly from the mage's mind. Each Mondasso's scroll could hold up to twenty unique spells.
+
+Appendix
+References
+
+---
+
+## Morghal
+
+Morghal  was a duergar slaver and a cleric of Laduguer who took up residence in Grymforge during the late 15 century DR.
+
+Description
+She had dark-gray skin and wore leather armor.
+
+Relationships
+She hated True Soul Nere, one of the lesser lieutenants in the Cult of the Absolute.
+
+History
+In the, Morghal and her fellow slavers from the Clan Flameshade aligned themselves with the Cult of the Absolute, as the cultists began to excavate the fortress of Grymforge, with the hope of uncovering the Admantine Forge. She and her cultists raided myconid and deep gnome communities for slave labor, but were not promptly paid for their efforts by Nere.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Molybdenum
+
+Molybdenum was a rare, useful metal found in the Realms.
+
+Description
+The ore of molybdenum, molybdena, was a soft, lustrous black metallic mineral with an appearance similar to plumbago.
+
+Availability
+The Elemental Store of the Karsus Enclave sold pure elemental molybdenum for 10 gp per ounce.
+
+Usages
+
+Molybdenum was prized for its uses in alloys. It was alloyed with adamantine, steel, and titansteel to make strong and durable bolt, rivets, nails, wire, and blades. It improved the weldability of adamantine, and improved the lamination of steel as well as its resistance to rust and corrosion.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Mountain of Iron (Kozakura)
+
+The Mountain of Iron was a mountain located in Kozakura.
+
+Description
+The Mountain of Iron was located in Miyama Province on the island of Shinkoku. It was once a significant source of low-quality iron ore. While mining efforts were generally unprofitable because of the scarcity of accessible ore, this particular area harbored substantial deposits close to the surface, resulting in extensive mining activities.
+
+After the mines were abandoned, some of these shafts were extended deeper than the original miners ever reached. A mysterious, unknown force appeared to be gradually expanding these shafts, spreading like a vast net under the Kurisammyaku mountain range. Reports of sinister beings lurking in the vicinity of these old shafts surfaced. In response to these unsettling sightings, the shugo-daimyo ordered troops to construct a watchtower overlooking the Mountain of Iron, as a precautionary measure to monitor the area's activities closely.
+
+History
+Around, the ore veins gradually depleted, leading to the abandonment of the mines and the decline of the mining communities. By, all that remained were the decaying ruins of their homes and the collapsing mine shafts.
+
+Appendix
+References
+
+---
+
+## Mochi
+
+Mochi was a kind of sweet rice cake from Kara-Tur.
+
+Description
+The cake was made from a sweet variety of rice, pounded into paste and formed into round balls. It was traditionally eaten during festivals around the new year.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Mortai
+
+Mortai, also referred to as the faces in the clouds or eyes of the gods, were a mysterious and seemingly god-like race of gargantuan aerial beings that inhabited the skies of the Beastlands.
+
+Description
+Mortai had the appearance of immense clouds and could perfectly imitate several different types, including storm clouds. They spanned many miles from side to side, though it was difficult to determine their exact dimensions, and hovered anywhere from a few hundred feet to altitudes of over  and beyond. They moved through the skies with fantastic speed and great maneuverability. It was little known that in the heart of these clouds laid the core of their power, a glowing nimbus of light that measured no more than  across.
+
+When they wished to make themselves known, mortai would pulsate with a golden glow and crackle like a thundercloud, followed by the manifestation of various beautiful and wise-looking faces on the surface of their cloud bodies, resembling to various extents humans, demihumans, and humanoids. Their voices were booming and thunderous like a storm. Some sages made records of hearing faint laughter and voices within their bodies even when mortai weren't speaking.
+
+Personality
+Mortai were immensely intelligent beings, their intellect rivaling that of deities, with a specialty in matters of philosophy. They were usually pacifistic in nature and enjoyed practical jokes, though they were never malicious or life-threatening. Their favorite pranks to engage in were the creation of small rainclouds that trailed someone for a few days or unleashing a trailing wind to repeatedly blow a hat off someone's head. In most cases of mortals trying to pick fights with them, mortai would simply fly away, though if the mortal was of an evil alignment mortai were likely to retaliate in order to teach them a lesson.
+
+They were more than happy to pretend being ordinary clouds so as to go unnoticed by mortals, preferring not to interfere with them and holding themselves above the affairs of those on the ground. However, mortai were not completely averse to helping mortals by providing info or answering questions, so long as they were approached with respect. Whenever mortai figured that a full revelation would do a mortal less good than having them figure some of it out for themselves, they would hide their advice behind riddles or only provide a portion of an answer.
+
+Abilities
+These beings had perfect control and precise command over any atmosphere that surrounded them, allowing mortai to mimic a number of spells. These included control weather (three times per day), control winds, dust devil, fog cloud, gust of wind, ice storm, whispering wind, and wind wall. Mortai also possessed innate magical abilities that resembled the spells aerial servant, air walk (as cast on another), call lightning, conjure air elemental, legend lore, rainbow, rainbow pattern, wind walk, death fog, and cloudkill (seven times per day). Out of all these abilities, the mortai most frequently called lightning down to strike their foes.
+
+Due to the size and makeup of their bodies it was impossible to harm a mortai physically, unless one were to attack their core. The only effective ways to cause harm to mortai were through dragon breath, magic spells, and similar such effects. However, mortai had a strong innate magic resistance to anything that tried to alter air or water.
+
+Mortai could rain heavily if they so desired and they often chose to do so when being bothered by obnoxious surface dwellers. And whether it was due to their magic resistance or sheer will, mortai were responsible for it being a magical trait of the Beastlands that all spells involving air, wind, or weather were guaranteed to fail at being cast on the plane, including the fly spell.
+
+Combat
+Being pacifists, mortai generally preferred to flee from combat, even when their opponents were obviously much weaker than them. They only resorted to combat when forced to fight.
+
+History
+When the Rogue March came through the Beastlands, a mortai by the name of Breath of Life blew the modrons off course in an attempt to maneuver them away from the nymph Alisiphone's lake as a favor to her, as she wished to avoid her lake getting polluted like it had during the last Great Modron March.
+
+Rumors & Legends
+There existed three competing theories as to the nature of mortai's existence. One posited that they were merely collections of chaotic good petitioners that either preferred the form of clouds or were just too chaotic to take the form of an animal like other petitioners of the Beastlands. Other theories posited that mortai were manifestations of the Beastlands itself or were demipowers of air that served the various sky and storm deities of the Upper Planes, much like how archons served the various deities of Mount Celestia.
+
+Society
+Homelands
+Mortai could be found across all three layers of the Beastlands.
+
+Languages
+All languages were known by the mortai, though they also communicated with each other by means of rumbling like thunder and shooting lightning.
+
+Relationships
+They occasionally acted as manifestations of the Seldarine deity Sehanine Moonbow and the Dark Seldarine deity Eilistraee.
+
+The bird-spirits of the Beastlands were known to pay them heed.
+
+At least one mortai was always present with Stronmaus, the giant god of storms and storm giants. They were considered by him to be companions and he delighted in soaring through the skies of the Beastlands with them. Additionally, at least one or more mortai were always present around his divine realm of Stormhold, guiding it through the skies above the Karasuthra layer of the Beastlands, and some speculated that it could be by their very will that Stronmaus's cloud palace stayed afloat.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Monstrous Compendium Ravenloft Appendix III: Creatures of Darkness
+
+Monstrous Compendium Ravenloft Appendix III: Creatures of Darkness is a 2-edition Advanced Dungeons & Dragons accessory for Ravenloft.
+
+{{Quote|Something moves in the darkness. Your heart pounds. Death is upon you before you know it.Inside this book are dozens of sinister beings waiting to strike terror into the hearts of role-players everywhere. From the dreaded scarab beetles of Har'Akir to the archer skeletons of darkon and the drow vampires of Arak, these Creatures of Darkness will provide hours of diabolical adventure. But be warned - if you buy this accessory, your AD&D® game players may never forgive you.}}
+
+DescriptionMonstrous Compendium Ravenloft Appendix III: Creatures of Darkness is the third installment in a series of Monstrous Compendium volumes dedicated to Ravenloft.
+
+Adhering to the modular design of the Monstrous Compendium series, it provides detailed entries for each monster, including descriptions of their appearance, behavior, and abilities, as well as their roles within Ravenloft''. In addition to providing stat blocks and combat information, the appendix explores the lore and background of its creatures, offering insights into their origins, motivations, and potential plot hooks.
+
+Index
+Creatures
+
+Gallery
+
+Credits
+ Principal Designers: Kirk Botulla, Shane Hensley, Nicky Rea, and Teeuwynn Woodruff
+ Additional Designers: Anne Brown, William W. Connors, Andria Hayday, Colin McComb, Bruce Nesmith, and David Wise
+ Editor: William W. Connors
+ Cover Artist: Jeff Easley
+ Primary Interior Artist: Mark Nelson
+ Additional Interior Artists: Tom Baxa and Stephan Fabian
+ Graphic Design: Dawn Murin
+ Typesetting: Nancy J. Kerkstra
+Appendix
+See Also
+ Images from Monstrous Compendium Ravenloft Appendix III: Creatures of Darkness
+External Links
+
+ RPGGeek
+
+Connections
+
+---
+
+## Montgar's Horses
+
+Montgar's Horses was a business that sold horses in the city of Procampur in the Vast in the late 14 century DR. It was owned and run by Quen Montgar. A subsidiary was Montgar's Horse Outlet in the Port District.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Montgar's Horse Outlet
+
+Montgar's Horse Outlet was a business that sold horses in the Port District of the city of Procampur in the Vast in the late 14 century DR. A subsidiary was Montgar's Horses, it was run by Arim Montgar.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Moy
+
+Moy was a drow mercenary who accompanied Dhourn Ba'Tol during his search for the legendary Adamantine Forge.
+
+History
+The drow wizard Dhourn Ba'Tol vowed to share his fortune with a group of drow mercenaries in exchange for protection if they found the Adamantine Forge. The group consisted of Arcagh, Artimezt, Izwae, Moy and Tecothy.
+
+However, Dhourn's rival Xargrim sought to find the Forge first and once met Dhourn. The rivals were both planning an ambush against each other, but began to talk of a pact, ultimately arguing until their words turned to screams. Xargrim summoned an unusual spectator adept at petrification and fled. Dhourn and his companions were all petrified for so long that Dhourn's memory shard faded.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Mount Othrys
+
+Mount Othrys was a massive mountain in the Othrys layer of Carceri that was well known for being the home of the imprisoned Greater Titans, but was also the divine realm of their ruler, Cronus.
+
+Geography
+Mount Othrys stood  tall and was made up of two conjoined mountains, each of which stood on a different one of the layer's orbs, their highest peaks nearly touching. Like all of the orbs on the layer of Othrys, these were  apart from each other.
+Flora & Fauna
+The Titans encouraged the development of many creatures on Mount Othrys, many of which were similar to those found on Olympus. They made special pets of many of these creatures and would exact vengeance upon any who slayed them. One such creature was the Othrysian dodecahydra.
+
+Notable Locations
+There were no settlements on Mount Othrys, only a massive palace and amphitheaters of white marble in disrepair that stood at where its two peaks met, though there were also small hostels that regularly popped up around the structure's entrances. Separate from the rest of the layer of Othrys, the palace maintained its own plane of gravity. At the center of the palace stood Cronus's throne room, which measured a  wide.
+
+The structures on Mount Othrys were twisted echoes of the edifices found on Olympus, the plane where their marble and the Greater Titans both originated from. Their state of disrepair came gradually as the Titans inhabited Carceri, but due to their imprisoned state no additional marble could be obtained to make repairs. Being a delipidated, unrepairable echo of what they once had on Olympus, the structures caused the Titans both great frustration and pain, serving as a constant reminder of their lost glory. They were liable to destroy anyone that drew their attention to the state of disrepair, even if it was done as an offer to import marble for them.
+
+Notable Inhabitants
+ Althea Damaskaros, a human cleric that ran a hostel near Mount Othrys. She offered travelers a free bed and meal in return for listening to her preach of the Greater Titans' glory as the "only true gods". For large donations and convincing her that one was pious, she would guide people to the palace atop Mount Othrys.
+ Cronus, the ruler of Mount Othrys and the Greater Titans. On the mountain he had near-omnipotence, he could innately will nearly anything into effect, and he could not be harmed unless he willed it. All who visited the mountain were encouraged to seek him out, for because of his near-omnipotence he knew when visitors failed to do so  and in retaliation would decree for some form of doom to befall them.
+
+History
+In the month of Hammer, in the, a group of adventurers from Ravens Bluff found themselves transported to the plane of Tarterus after defending the githzerai fortress of Tah'Darr from a tanar'ri incursion. At the urgings of the fallen paladin Elendil, the adventurers sought out Mount Othrys and Cronus for a way back to their Prime Material world of Toril. When they first entered the crumbling palace they were greeted by a  tall marble pillar, with a column of twenty spears jammed down one crack, each impaled with the severed head of a man. They were then approached by the titan responsible, Chiron, who demanded tribute from them in exchange for an audience with his father. Chiron informed the group that tanar'ri were visiting his father and advised them not to comment on the disrepair of the palacee as it was considered rude.
+
+Eventually the group made their way to Cronus, deep into some kind of Cosmic Game with the marilith Cucathne, the latter of whom was entertaining the Titan with the game in hopes of negotiating the use of Othrys as a tanar'ri staging ground against Tah'Darr. Cronus was unwilling to answer any questions that the mortals posed, but offered to gate them home if they would fight as part of his forces in the game.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Monster slayer glaive
+
+A monster slayer glaive was an enchanted weapon used by professional monster hunters to keep the ugly parts of the job at the other end of the polearm.
+
+Powers
+This glaive possessed a simple +1 enchantment that guided the hands of the wielder towards the target and boosted the weapon's damage. Its monster slayer enchantment made the weapons effective against monstrosities, always landing more severe wounds than to any other type of creature. Additionally, a monster slayer glaive improved the wielder's jumping strength and distance, extending it by .
+
+History
+In the, one such glaive belonged to Roah Moonglow, a hin agent of the Zhentarim who did business with the recently emerged Cult of the Absolute in the Western Heartlands of Faerûn.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Morningstar of vigilance
+
+Morningstars of vigilance were enchanted bludgeons, used in the late 15 century DR across northwest Faerûn.
+
+Powers
+These morning stars were massive weapons that had to be wielded in both hands, as opposed to their more mundane and smaller kin. Despite their unwieldiness, these weapons were enchanted to sharpen its wielder's reaction time. They also possessed +2 and +3 enchantments that guided the weapons to the targets and made the damage more deadly. Each successful attack with these morning stars resulted in a discharge of harmful radiant magic.
+
+History
+By the late 15 century DR, morningstars of vigilances were wielded by some lucky individuals and evil villains on the Sword Coast North. One of these morning stars belonged to Dazuur, an undead commander wight who used the ruins of Illefarn as its lair, another was in the possessions of Thayan agents in the Neverwinter Wood, one was wielded by cultists of an eye of flame in Neverwinter, and lastly, another morningstars of vigilance could be found in a horde of an adult white dragon who menaced the plains between the old Phandalin mines and Conyberry.
+
+Appendix
+Appearances
+Video Games
+Dungeons & Dragons: Heroes of Neverwinter
+
+References
+
+---
+
+## Monifa Diallo
+
+Monifa Diallo was a human commoner from the Rivington district of Baldur's Gate in the late 15 century DR.
+
+Description
+Monifa was dressed in simple, colorless commoner's garb. She had light brown skin, curly brown hair, and brown eyes. Her ears were pierced with simple, tiny loop earrings.
+
+History
+In the, the army assembled by the Cult of the Absolute moved from the Moonrise Towers in Chionthar Valley to menace the city of Baldur's Gate, displacing countless refugees in the process along the way. Pressured by the refugee crisis, Baldur's Gate closed the Wyrm's Crossing bridge, separating Rivington from other parts of the metropolis and turning it into a refugee tent city. Monifa Diallo, who inhabited the district, did not share its' residents' flaring xenophobia and showed disgust with the Upper City, believing it did not care for the looming danger and possible deaths of everyone in Rivington.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Molly Farhill
+
+Molly Farhill was a gnome cleric of Oghma and a mercenary in the late 15 century DR.
+
+History
+Molly was part of the Church of Oghma before she became a sellsword.
+
+Abilities
+Molly had outstanding tactical skills, which had helped the cleric disrupt her enemies' plans multiple times.
+
+Among the spells she could cast were sacred flame, dispel magic, Oghma’s blessing, and read thoughts.
+
+Appendix
+Appearances
+
+External Links
+
+Gallery
+
+References
+
+---
+
+## Moonglow (disambiguation)
+
+Moonglow might refer to:
+ Moonglow, a wizard spell.
+ Moonglow, one of the noble families of Ravens Bluff.
+ Moonglow herring, a species of herring found in the Sea of Moving Ice.
+ Moonglow Tower, another name for  Morninglow Tower, a Lathanderian temple in Daggerford.
+ Belinda Moonglow, a wizard and member of House Moonglow.
+ Kyleena Moonglow, a wild elf in the Delimbiyr Vale.
+ Roah Moonglow, a halfling Zhent.
+ The staff of the moonglow, an enchanted staff.
+
+---
+
+## Moonlight glaive
+
+The moonlight glaive was an enchanted Selûnite weapon that once belonged to Dame Aylin, a daughter of Selûne in the late 15 century DR.
+
+Powers
+The moonlight glaive was a magic polearm that glowed, illuminating an area of  around it. It also possessed a strong +2 enchantment that strengthened the weapons and guided the blade toward its targets. The moonlight glaive also dealt additional radiant damage with each slash. The wielder could also unleash the moonlight butterflies with a swing of the glaive. This magic summoned a vortex of illusory butterflies that glowed with Selûne's pale light. Swarmed by the magical insects, creatures trapped inside their area were made much easier to attack and suffered psychic damage.
+
+History
+The moonlight glaive belonged to the Nightsong, Dame Aylin, who was imprisoned in the Shadowfell by Shar in the . Aylin was ready to gift the powerful Selûnite glaive to those who would free her from the ancient prison.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Morluth Galdegut
+
+Morluth Galdegut was an adventurer and businessman who operated Galdegut's Boneyard in the 15 DR.
+
+Description
+Morluth was one-legged from his time as an adventurer, and wore what was reputed be an enchanted eyepatch that could see all.
+
+Personality
+He was garrulous but also cunning.
+
+Activities
+Galdegut made and sold bone, glue, and other products at the Boneyard. He also maintained a network of shady investments, contacts, and business associates across Faerûn.
+
+Appendix
+References
+
+---
+
+## Mola
+
+Mola was an Adept of the Absolute, stationed in the Moonrise Towers during the late 15 century DR.
+
+Description
+Mola wore the uniform armor of an Adept of the Absolute – a night-blue armored garb and a cowled high-raising helmet. He had a dark green skin and fur tone, and his face had thick bloated dark veins – the evidence of an illithid tadpole infection.
+
+History
+In the, Adept Mola was among those who joined the new religion that sprang in the Western Heartlands. He was stationed within the Moonrise Towers, along the stairwell that led up to its second floor. The fortress was controlled by the Absolute's warlord – General Ketheric Thorm. Like many other members of the cult, Mola's fate remained unknown as he could've perished in battle when the High Harper Jaheira and her True Soul allies stormed the Moonrise.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+
+References
+
+---
+
+## Morte
+
+Mortimer "Morte" Rictusgrin was a fighter who, after greatly betraying the Nameless One and being condemned to exist in the form of a floating skull, became a planar traveler and guide.
+
+Description
+Morte's entire body comprised a humanoid floating skull, with two, pale-blue eyes sending a piercing gaze from its sockets. He hovered approximately  above the ground. It was unclear what force allowed him to stay within the air and move around (something that he himself did not know). His skull and teeth were very tough, and he was able to propel himself through the air with enough force to make him a durable and a formidable foe.
+
+Personality
+
+Morte was a very witty, humorous, and raucous individual who would talk non-stop if given the opportunity. He loved to spit innovative insults at his foes, boast about himself and his deeds at any given moment, and would frequently act flirtatiously with female creatures that he found attractive. Despite his easy-going and at times opportunistic attitude, he truly cared about folks close to him and would not hesitate to protect them, with his own bony exterior if necessary. He often referred to those he was talking with as "chief", and would not drop his jovial attitude even for a minute, no matter how grim a situation he was in, but he was most definitely not immune to cowardice.
+
+Thanks to the very long time that he'd spent exploring the planes, he had a considerable amount of knowledge and experience regarding the various places within the multiverse and their inhabitants. However, due to his personality and tendency to exaggerate facts for dramatic effect and fill in the gaps in his knowledge with the products of his imagination, his stories were always to be taken with a grain of salt.
+
+He often described himself as a mimir, but this was only a cover story to hide his true background and make himself appear more knowledgeable and reliable than he truly was. Additionally, he frequently said that he was the skull of the archlich Vecna.
+
+Relationships
+Morte had a long and painful relationship with the Nameless One. As he was responsible for the death of his first incarnation and potentially for the curse that plagued him, he felt extremely guilty and wanted to make it up to him in any way possible. Because of this, he would stick with the Nameless One for many years and assist him however he could no matter what, even if the current incarnation would treat him poorly. Likewise, whenever a new incarnation came to be, Morte was usually the first one to greet it once it gained it's consciousness.
+
+History
+Not much was known about his life before transformation into a sentient skull. Morte himself knew very little about that period, as most of his memories were wiped following his death. It is certain, however, that he lied to the Nameless One in a heinous way that possibly led to his first death, and could even have been the one to direct him to Ravel Puzzlewell, thus indirectly being responsible for the Nameless One's curse.
+
+Morte's transformation occurred after his death, when his soul was embedded within the Pillar of Skulls as a punishment for his sins. He was later found and pulled out of the Pillar by the Practical Incarnation of the Nameless One. Upon seeing him, Morte involuntarily felt an intense guilt, which led him to believe that he'd betrayed the Nameless One in the past, despite not being able to recall the details. Because of this, Morte ended up becoming his companion, as a means to pay him back for the wrongdoings he had committed.
+
+The Practical Incarnation eventually found out what Morte had done to him and had a tattoo drawn on his back that said "Don't trust the skull" as a warning for his future selves. Morte omitted this detail when assisting future incarnations, in hopes that he could earn his trust and help the Nameless One regain his mortality before he found out about the tattoo.
+
+Eventually, the Nameless One succeeded in his quest, and Morte was freed from his self-imposed servitude. Afterwards, he decided to become a full-time planar traveler and guide within the city of Sigil, happily lending his expertise and knowledge of the planes for a favor or some coin.
+
+Appendix
+Behind the Scenes
+In the Planescape: Torment game, Morte is voiced by Rob Paulsen.
+Gallery
+
+Appearances
+
+External Links
+
+ Morte article at the Torment Wiki, a wiki for the Planescape: Torment game.
+
+References
+
+---
+
+## Moon writing
+
+Moon writing was a magical method of writing on paper or parchment that left the written word invisible to the naked eye, only being rendered visible when the material was struck from behind with moon light. Materials bearing moon writing radiated a magical aura. Sources differed on whether the spell read magic couldn't or could reveal moon writing.
+
+History
+Sometime in the 14 century DR, Vernon Condor, the Regent of the Exchequer in Ravens Bluff, sent a secret message in moon writing to a group of Ravenian adventurers he was hiring to retrieve the granite pedestal of The Menagerie as he was paranoid of interference from either the Red Wizards of Thay or the Zhentarim.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moonblade (evocation)
+
+Moonblade was an evocation spell that granted the caster a witless blade of pure moonlight.
+
+Effects
+When conjured, a moonblade appeared to be a weightless and silent  construct made of moonlight. This ghostly blade was as dangerous as an enchanted +4 sword. But unlike a real weapon, an insubstantial moonblade was easy to wield, and the wielder's muscles did not affect its deadlines. Each slash with this moonlight weapon dealt damage and drained the target's vitality; both were doubled when used against undead creatures. Those who were damaged by a moonblade also temporarily lost the ability to cast spells due to its magic-scrambling properties.
+
+Once created, a moonblade existed for only two minutes in the caster's hand.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Mossy deathcap
+
+Mossy deathcap was a type of mushroom that was toxic to non-plant creatures.
+
+Description
+These mushrooms were speckled with moss and grew in dense clusters. They were not only toxic but highly unstable: walking across a patch without care caused a cloud of poisonous spores to be launched into the air. Destroying a mossy deathcap neutralized its toxic spores.
+
+Ecology
+These mushrooms infested patches of moss, including oblivion moss.
+
+They could be found underground, such as beneath the Delhalls in Vaasa.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Mouth harp
+
+The mouth harp, also referred to as the Jew's harp on Earth, was a type of pocket-sized instrument found in the Realms.
+
+Description
+This instrument was characterized by a two-pronged, bottle-shaped frame with a metal tongue that was affixed at one end of its base. This tongue would be held between the teeth of a musician and allowed them to alter the sound produced by their mouth cavity.
+
+Notable Owners
+ Renee Handly played a variety of different instruments as a member of the bardic musical band Cobalt Flame. These included the mouth harp, flute, pan pipes, and trumpet.
+
+Availability
+Mouth harps were used on the Malatran Plateau of Kara-Tur where they were considered a valuable trade commodity.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Moray eel
+
+A moray eel was a large type of eel with a deadly bite.The cave moray from Monster Manual II 1st edition is unlikely to be the same creature as the moray eel, due to its description and no mention of it being an eel. Other creatures of the Realms also have the term moray in their name, such as moray rats in the Forgotten Realms Campaign Setting 2nd edition (revised).
+
+Description
+These eels were larger and more dangerous than typical eels. Moray eels could weigh up to  and grow to be around  long.
+
+Combat
+Although not the most fearsome opponents an adventurer could face, one still had to be wary of these eels, as they had a deadly bite. It was even possible for a moray eel to cleanly bite an entire arm off of a body.
+
+Ecology
+Moray eels were often found in locathah lairs, where they acted as keepers and sentries.
+
+In Serôs, the great undersea realm, moray eels, lobsters, and octopuses were considered natural enemies of one another.
+
+History
+In the, the shalarin priestess, Tu'ala'keth, conjured a menacing underwater world with coral formations, where moray eels lurked amidst other threats in a limitless ocean.
+
+Types of Moray Eels
+ Giant moray eels, also known as giant morays, were the giant variety of moray eels
+
+Appendix
+Notes
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Monstrous Compendium Greyhawk Adventures Appendix
+
+Monstrous Compendium Greyhawk Adventures Appendix is a 2-edition Advanced Dungeons & Dragons accessory for Greyhawk.
+
+Description
+The Monstrous Compendium Greyhawk Appendix consisted of 64 5-hole punched loose-leaf pages, unnumbered, and included a "How To Use This Book" page with an alphabetical index and 4 pages of random encounter charts, with the remainder consisting of the descriptions of the fictional monsters. Also included were 4 full-page illustrations on heavier card stock.
+
+Index
+Creatures
+
+Gallery
+
+Credits
+ Designers: Grant Boucher, William W. Connors, Steve Gilbert, Bruce Nesmith, Chris Mortika, Skip Williams
+ Editor: Mike Breault
+ Typesetting: Angelika Lokotz
+ Artistic Coordinator: Peggy Cooper
+ Cover Art: Jeff Easley
+ Interior Art: Thomas Baxa, Mark Nelson
+
+Appendix
+See Also
+ Images from Monstrous Compendium Greyhawk Adventures Appendix
+Background
+ In the Editorial panel of Dragon #169, it was noted that derro were originally going to be included among the monsters in this compendium, as they had previously featured in Greyhawk adventures such as Greyhawk Ruins and Flames of the Falcon, but they were ultimately cut from the book due to a lack of space.
+External Links
+
+ RPGGeek
+References
+
+---
+
+## Mordmorgan
+
+Mordmorgan was a human adventuring swashbuckler active in the mid–14 century DR.
+
+Description
+Mordmorgan was a smart, charismatic man and a known heart-breaker. He had a reputation for being a deceitful rogue and a freebooter. However, in reality, he was a brave and loyal friend.
+
+Possessions
+Mordmorgan was a swordsman who wielded an enchanted +2 sabre and a main-gauche. The swashbuckler also wore a set of mundane studded leather armor and a ring of warmth.
+
+History
+In the mid–14 century DR, Mordmorgan sought adventures in Cormyr.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moonlit Touch
+
+The Moonlit Touch was a festhall and nightclub in the city of Arabel in Cormyr in the mid-to-late 14 century DR. It was highly recommended by Volothamp Geddarm.
+
+Location
+The club was located in the southwestern quadrant of the city, on the same street as the shop of Daglar Maermeet, an armorer.
+
+Services
+The Moonlit Touch sold a very large assortment of quality beverages for fair prices. Food was free with entrance and was served on platters carried around by staff. The platters contained a variety of greasy handfoods—for example, deep-fried breaded quail or drumsticks made from turkey.
+
+Escort services were available here, but guests negotiated prices with the individual escorts.
+
+The Touch was primarily a dance club. Attendees spent most of their time dancing around the establishment, accompanied by happy music from the resident minstrels, sometimes while bearing candle lamps. Some older men in the city were known to come to the club simply to drink and to people-watch the younger dancers. (One such observer in 1368 DR was a retired high-ranking Purple Dragon officer, who knew many rumors about Arabel, the Zhentarim, lost treasures, bandits, and even weredragons.)
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mount Or-Ghash
+
+Mount Or-Ghash was a peak in the northern Chigidi Mountains in the Plain of Horses region of northwestern Kara-Tur. Its western slope was a holy place to local lamas and the body of Or-Ghash Gol, who was considered to be the greatest high lama to have ever lived in the area, was interred nearby.
+
+Description
+As a memorial to Or-Ghash Gol, one hundred caskets were placed along the pass to the mountain, approximately  apart. Only one casket held Gol's remains, but which it was was a secret known only to the high lamas dwelling on Mount Or-Ghash.
+
+Activities
+The mountain was visited often by lamas and pilgrims. It was expected that pilgrims make an offering such as a scarf (khtagh in Chuchian) on top of every casket. Strangely, each spring, the high lamas placed a new set of clothes in the true casket of Or-Ghash Gol, and each autumn they took them out again, finding them used, dirtied, and torn.
+
+Inhabitants
+The high lama of Mount Or-Ghash was Torgoja P'a, who served for ten years as of .
+
+Appendix
+References
+
+---
+
+## Mother Lahamma's House
+
+Mother Lahamma's House was one of several boarding houses in the city of Arabel in Cormyr. Those needed to spend a long time in Arabel were directed to such boarding houses rather than to its inns.
+
+Location
+The establishment was located outside the city walls, north of the High Road and just before High Horn Gate. It sat across the street from the Night Wolf Inn.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Morthak
+
+Morthak, known as Morthak the Everhungry, was a demon who ruled over a legion of insane human followers in the northern hills of Impiltur as of the late 15 century DR.
+
+History
+Morthak was one of many dreadful demons unleashed upon Impiltur when the Weave failed during the events of the Spellplague in the late 14 century DR.
+
+By the, Morthak had amassed a large and dangerous following of traitorous and insane Impilturians.
+
+Appendix
+References
+
+---
+
+## Morden Winery
+
+The Morden winery was a small vineyard and winery not far from the village of Dragon Falls in the Vast that belonged to the Morden family of Ravens Bluff for at least two generations by the late 14 century DR.
+
+Location
+The secluded winery was hidden away from prying eyes in a small depressed valley between two hills on a stream that merged into the Fire River, a short track almost straight southeast outside the village of Dragon Falls.
+
+Structure
+Thick rows of lush and bountiful grapevines were hidden from sight by a thick fence of thorny bushes of over  tall and trees  to  tall, magically grown by the medusa and her mate. There was only one entrance through the thicket and a  long granite path that led towards the vineyard's two buildings, one on he left side of the path and one of the right with a home in the middle that hid a small shed in the back.
+
+Interior
+
+The winery building on the right side of the main entrance was the area designated for wine production and stored all necessary tools for the process. The left side building housed cases of fermenting wine, bottling supplies, corks, and was the location of the cellar entrance, primarily used for wine storage and the medusa's study.
+
+The vintner's home was a humble cottage with a spacious common room, a well-equipped kitchen with a cold storage cellar, and a large bedroom.
+
+Services
+The Morden winery produced a variety of high quality wines. Most of it was stored to empty some space in the cellars before its ownership was restored to the Mordens; some of its wane was sold to the Inn of the Dragon in Dragon Falls. It was sold for cheap as locals were hardly interested in consuming wine, so most of it was consumed by tourists and travelers.
+
+Defenses
+Under the maedar and medusa control, the winery was always monitored by a flock of crow and one huge crow named Stoner – Samanthiss's familiar and her eyes in the skies. The vineyards were patrolled by two domesticated stray dogs – Merlot and Wander and the ground hid several dangerous serpent vine snakes, thornslingers, and bloodthorns.
+
+History
+This winery was inherited by Charles Morden many years before the . The wealthy gardener was a religious man who could not stand alcohol, so he did not manage the winery, leaving its management to the couple who'd run the establishment until the . When the war against the Grand Army of the Tuigan swept Faerûn, the couple who ran the Morden Winery disappeared. Many locals presumed they were taken hostage and killed by the Tuigans who passed through the Vast. A year later, a young priest of the Earth Mother came across the abandoned winery. Not knowing of its ownership, Larn, a priest of Chauntea, singlehandedly restored the winery and resumed its wine production. During that time, he befriended a duo of ancient for their kind, fun-loving satyrs, Quellonis and Harmon, who became regular guests of Larn's, tasting new wines, singing songs, and playing music late into the night.
+
+Soon after, the medusa mage named Samanthiss and her mate – maedar Vorlon, found the winery. Impressed by its grapevines and well-maintained condition, they decided to take over as the couple had an affinity and passion for winemaking. Larn was petrified by the medusa, while Vorlon assumed the identity of the young vintner. The couple continued running the winery for the following decade. Vorlon showed remorse over Larn's fate but came to love winemaking. Larn's stone body was kept in good condition if the medusas ever needed food.
+
+Vorlon and Samanthiss discovered a set of Books of the Master Winemaker that taught them everything they needed to know to produce quality wine. Samanthiss found the winery's extensive cellars and used them to house her study where the medusa could hone her skill by day while hiding her monstrous appearance and taking care of the grapevine by night. The new owners quickly mastered winemaking and began producing a variety of good-tasting wine, much more than they could ever hope to consume themselves.
+
+There were many dangers in the Vast: bandits, monstrous humanoids, wild beasts. All were known to occasionally target the Morden Winery. Over the decade, the medusa and her maedar defended their new home and used the slain intruders for food. To further protect themselves, Samanthiss and Vorlon used magic to grow thorny thicket around the vineyards and summon creatures to act as eyes in the sky, guards, and muscle.
+
+Quellonis and Harmon soon were faced with a locked door and their "friend" sending them away from behind it. The satyrs noticed that their friend's voice sounded different. The satyrs used their fey abilities to spy on the new owners. Subsequently, the maedar altered his appearance to look like a normal human man, making it possible or him to greet visitors without rousing suspicions.
+
+The winery's rightful owner, Shauna Morden of Ravens Bluff, discovered its existence after her father's – Charles Morden's death circa the . She renovated and reopened the Tavern of the Garden and was interested in using a family-owned winery. She hired a group of capable adventurers of the Living City to investigate the presumed abandoned winery's condition and establish a dialogue and partnership with its managers if there were any.
+
+Subsequently, the winery was returned to the Morden family, and, by some accounts, the maedar vintner was allowed to run the business and pursue his vintner's passion; by others, the medusas were slain. Larn was believed to had been released from the decade of being petrified, either with some help from outside forces and his satyr friends or as a sign of good will by Vorlon.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Morgan's Revenge
+
+Morgan's Revenge is a one-round tournament adventure module set in the Living City organized play program and part one of the two-part Morgan series of modules. It was published in 1993 and is intended for a party of adventurers of any levels
+
+Index
+
+Characters
+
+Creatures
+
+Locations
+
+Magic
+
+Organizations
+
+Religions
+
+Miscellaneous
+
+Appendix
+References
+
+---
+
+## Mortgage Application
+
+{{Organized play
+| image            =
+| caption          =
+| code             =
+| title            = Mortgage Application
+| publisher        = RPGA
+| designer         = Elizabeth Patterson
+| editor           =
+| reviewer         =
+| also_credited    =
+| cover_artist     =
+| inter_artist     =
+| cartography      =
+| realm year       =
+| setting          =
+| edition1         = LC
+| debut            = Origins '95
+| released         = July 13, 1995
+| subcat           =
+| pages            = 21
+| game_edition     = 2
+| isbn             =
+| play_time        = 3–4 hours
+| rounds           = 1
+| players          =
+| levels           = Any
+| series           = Investigations (1 of 3)
+| preceded_by      =
+| followed_by      = Foreclosure}}Mortgage Application is a one round adventure module set in the Living City organized play program and the first installment of the three-part Investigations'' series of modules, which were all published at Origins '95. It's intended for adventurers of all levels.
+
+Index
+
+Characters
+
+Creatures
+
+Locations
+
+Magic
+
+Organizations
+
+Religions
+
+Miscellaneous
+
+Appendix
+
+---
+
+## Morian
+
+Morian was a Netherese priest who worked as an Underchief at Constabulary Branch Three in Eileanar before its destruction in .
+
+Description
+He had black hair, a strong preference for gray clothing, and spoke in a smooth, unaccented baritone. He seemed to only ever be seen wearing the one gray suit, with a sword, dagger, and a pouch closed with a wire loop on his belt.
+
+Activities
+Morian aided Chief Constable Emblemat alongside Underchiefs Goddard and Cadogen as they collectively managed the lower-ranked constables.
+
+History
+He appeared mysteriously in the enclave during the early spring of . The first thing he did was buy a piece of property in the city and apply for work as a constable, and little more than that was known by his fellows. He kept his house shuttered, took no guests, and had no family. It was rumored that a thief had once broken in, only to find the building empty of any furnishings or other possessions.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Mountains of Amara
+
+The Mountains of Amara were a range in northern Kara-Tur.
+
+Geography
+The mountain range was found to the east of the larger Koryaz Mountains, bordering the low-lying Ama Basin and the Yellow Sea. To the south lay the Bang Zi Mara Shan mountains closer to Chukei and the island of Talmaruk, and to the west deep within the mountains was the Valley of Nanayok. At the northeast edge of the Mountains of Amara was the fallen Netherese enclave of Urvraunt, a long-lost and never rediscovered ruin.
+
+Appendix
+References
+
+---
+
+## Modern Alchemical Fertilizer Techniques
+
+Modern Alchemical Fertilizer Techniques was a book on the topic of alchemy and its use in agriculture, written and published sometime before the mid-14 century DR.
+
+History
+A copy of Modern Alchemical Fertilizer Techniques could be found in the library of the dilapidated Wolover's Keep in the Veilstone Peaks. The fortification's past master was a mage committed to agriculture, whose library was filled with works on the similar topics in the mid-14 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moonrise over Myth Drannor
+
+Moonrise over Myth Drannor[citation template] is a short story by Ed Greenwood, published by Strategic Simulations, Inc. as a part of the video game rule book for Eye of the Beholder III: Assault on Myth Drannor.
+
+Summary
+
+Index
+
+Characters
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •  •  •   •  •  •  •  •  •  •  •
+
+Creatures
+  •  
+
+ •  •  •
+
+Events
+Festivals
+
+lost blade of Lord Aumry
+Rallyhorn Ring
+Items
+Armor
+ •
+Food & Drinks
+ •  •  •  •  •
+
+ •
+Substances
+
+Weapons
+ •  •
+
+ •
+Miscellaneous
+
+Locations
+Bodies of water
+
+Residences
+ •
+ •
+
+ •  •  •  •  •  •  •  •
+
+Magic
+Items
+  •
+Spells
+ •
+
+Miscellaneous
+ •  •
+
+Organizations
+
+ •  •  •  •  •  •  •
+
+Religion
+
+Appendix
+See also
+The Knights of Myth Drannor trilogy
+
+Notes
+
+---
+
+## Mother Salinka's House of Pleasure
+
+Mother Salinka's House of Pleasure was a shabby, low-coin festhall in the Castle Ward of Waterdeep in the late 14 century DR. The festhall stood on Rainrun Street between the Yawning Portal and The Empty Keg.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Moren Marr
+
+Moren Marr was a Dark Justiciars of Shar and a member of the Gauntlet of Shar in the 10 century DR.
+
+History
+Justiciar Marr was among hundreds of Dark Justiciars and Selûnites who died in a bitter battle between the followers of the two goddesses in the . Moren Marr was chopped in two during the battle, and the casualty was recorded in a long log of the dead penned by Malus Thorm of Reithwin.
+
+As of the, Moren's death was long forgotten, being just one of an endless list of the dead, stored in Malus Thorm's House of Healing in the shadow-cursed town of Reithwin.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Modern Ointments
+
+Modern Ointments was a wellness shop in the Flask Circle market of Ravens Bluff in the late 14 century DR.
+
+Structure
+The interior of this shop had a counter and was lined with many display cases. These were filled with many small jars, tins, and rolled-up papers.
+
+Services
+Modern Ointments primarily sold various candles, lotions, aromatic oils, bathing oils, incense, cologne and perfume, packets of bath salts, and foot powder. Though the shop also carried some magical oils, powders, and dusts.
+
+One special item offered by the shop was what the proprietor Jarwahlmin referred to as a "starter kit", selling for 10 gold pieces. These consisted of two cones of strawberry scented incense, a packet of bath salts, foot powder, a small vial of either cologne or perfume, and a small glass pyramid that he claimed would help individuals to focus when meditating. In actuality, these glass pyramids held no such magical effect, but the proprietor was convinced that they did.
+
+History
+Around the late 14 century DR, a group of adventurers came to the Flask Circle in search of supplies for the alchemist Wendell. When they entered Modern Ointments they enquired about obtaining some aroma of dreams and powder of coagulation on his behalf. Jarwahlmin was willing to sell both to the party of adventurers in return for either 950 gold pieces or the pair of diamond earrings that Wendell had given them to barter with. If he was offered the latter, Jarwahlmin tried to convince the adventurers to buy one of his "starter kits," hoping it could lead to them becoming regular customers in the future.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moonbrace
+
+The Moonbrace family was a noble house of Ravens Bluff.
+
+Family Tree
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Moonglow (family)
+
+The Moonglow family was an elven noble house of Ravens Bluff.
+
+Family Tree
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Moorland
+
+The Moorland family was a noble house of Ravens Bluff.
+
+Family Tree
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Moon bolt
+
+Moon bolt was an evocation spell used by Silverhair Knights.
+
+Effects
+When cast, the caster conjured a bolt composed of shimmering moonlight, which was launched from their extended hand to strike a designated target, be it a living or undead creature, within . The range increased with the caster's skill level. The trajectory of the moon bolt was unerring, reaching its intended target without fail.
+
+Upon impact, the targeted creature suffered physical harm and became temporarily prone, immobile, and defenseless.
+
+When this spell was cast under the open sky at night, the caster gained the ability to generate an additional moon bolt. This secondary bolt could either be aimed at the same target or a different one, provided the second target was no more than  away from the initial target.
+
+Components
+This spell required a verbal and somatic components.
+
+Appendix
+References
+
+---
+
+## Moon lust
+
+Moon lust was an enchantment spell used by Silverhair Knights, an order devoted to Eilistraee.
+
+Effects
+When cast, the spell conjured a compelling enchantment that induced an intense, obsessive fascination with the moon in a target creature. The targeted creature became wholly captivated by the moon, entering a state of fascination. This state persisted for the spell's entire duration. In instances where the moon was obscured or not visible at the time of casting, the spell's effect shifted from fascination to a state of worry and distraction.
+
+Creatures devoid of sight were immune to the effects of this spell, as the basis of the enchantment relied on the target's ability to perceive the moon.
+
+Components
+In addition to verbal and somatic components, this spell required as a focus an ingot of silver with a value of 5 gp.
+
+Appendix
+References
+
+---
+
+## Monstrous Compendium Ravenloft Appendix
+
+Monstrous Compendium Ravenloft Appendix is a 2-edition Advanced Dungeons & Dragons accessory for 'Ravenloft.
+
+DescriptionMonstrous Compendium Ravenloft Appendix is the first installment in a series of Monstrous Compendium volumes dedicated to Ravenloft.
+
+Adhering to the modular design of the Monstrous Compendium series, it provides detailed entries for each monster, including descriptions of their appearance, behavior, and abilities, as well as their roles within Ravenloft''. In addition to providing stat blocks and combat information, the appendix explores the lore and background of its creatures, offering insights into their origins, motivations, and potential plot hooks.
+
+Index
+Creatures
+
+Gallery
+
+Credits
+ Designer: William W. Connors
+ Editing: C. Terry Phillips
+ Cover Art: Jeff Easley
+ Interior Art: Tom Baxa
+ Typesetting: Tracey Zamagne
+ Production: Sarah Feggestad
+Appendix
+See Also
+ Images from Monstrous Compendium Ravenloft Appendix
+External Links
+
+ RPGGeek
+
+Connections
+
+---
+
+## Morkoth language
+
+The Morkoth language was the racial language of morkoths, a strange race of undersea aberrations.
+
+Speakers
+Some of the individual specialty priests of aquatic deities were known to learn various other aquatic languages, such as Morkoth. These included the sea druids of Deep Sashelas, the waveservants of Umberlee, and the waterwalkers of Istishia.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Morlen Askalan
+
+Morlen Askalan was a highknight of Cormyr in the late 15 century DR.
+
+Activities
+Morlen Askalan was a highknight.
+
+History
+During the fugitive Elminster Aumar's attempt to sneak into Castle Obarskyr of Suzail in the, he was one of the highknights set upon him. When the ghost of Princess Alusair Obarskyr came to his aid, Morlen Askalan did not accept her commands, so she walked through him, subjecting him to her ghostly influence. The man lost consciousness on the spot.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Mortimar
+
+Mortimar was an arcanist of ancient Netheril who lived in the enclave of Eileanar until his execution in .
+
+History
+Mortimar first came across Parzal the Outrageous when he bought his autobiographical book, Parzal's Perils, and immediately saw the potential in the foreign mage. Together they founded a business that sold Parzal's books as well as material components and other magical reagents, which found rapid success and eventually came to dominate the quasimagical item market, including the QM III shop in the Karsus Enclave. Seeking more than co-ownership, Mortimar manipulated and tricked Parzal into accepting a job that had him perform a horrid curse upon a target, only for it to be revealed that the injured party was a government official of Eileanar, a crime punishable by death. In order to "help" Parzal escape the law, Mortimar faked Parzal's death using a corpse and a broken amulet of life protection, and took full ownership of the company they had founded.
+
+Unable to contain his glee upon the completion of his plan, Mortimar gloated to Parzal's face and told him exactly what he had done. Parzal responded by fleeing, then created Parzal's revenge, a powerful curse disguised as a constitution-enhancing scroll. He then returned to the shop in the guise of an uneducated fighter, and offered to sell the unidentified scroll to Mortimar. Having recently lost some of his life-force in the crafting of a powerful magic item, Mortimar was eager to take advantage of the poor warrior, and paid a mere 50 gold pieces for the invaluable scroll. His joyous scamming turned to horror when he used the cursed scroll, and he was reduced to a shell of his former self. While he was incapacitated, Parzal's close friend Archmeagan took over the operation of the business.
+
+Seeking a release from his torturous state, Mortimar falsely confessed to Parzal's crime, allowing himself to be executed by Eileanar's justice system. With his foe gone and his name cleared, Parzal publicly revealed himself and suffered a 60-day imprisonment for the crime of faking his death, then went on vacation.
+
+Appendix
+See Also
+ Mortimar, a wizard from Pangaea with a suspiciously similar history, who worked with Parzal the Outrageous.
+ Mortimer, another associate of Parzal in Ravens Bluff.
+
+Notes
+
+References
+
+---
+
+## Morfred
+
+Morfred was the architect of Moonrise Towers in the Western Heartlands in the mid-to-late 14 century DR, when he served Ketheric Thorm. However, Morfred turned against him following his conversion to Shar and purge of Selûnites. Morfred and his brother Halfred formed a secret Selûnite resistance against Ketheric, which found only futility until the cambion Raphael offered him a deal: Morfred's soul for the extermination of Ketheric's Dark Justiciars. In death, he was known as the Infernal Mason and one of the many debtors that existed in Raphael's House of Hope.
+
+History
+
+During the 14 century DR, Morfred was a servant of General Ketheric Thorm, and was commissioned by him to construct Moonrise Towers in honor of Selûne. Morfred readily agreed, being himself a devout follower of the Moodmaiden. However, Melodia Thorm, Ketheric's wife, soon passed, and was shortly followed by Isobel, Ketheric's daughter. In his grief, Ketheric spurned Selûne and turned to Shar, building up an army of Dark Justiciars to eradicate Selûnite sympathies and kill those who did not convert, Morfred included. Morfred, in his log, detailed Ketheric's fall from grace and speculated that Shar weaponized his grief for her benefit, as well as implying that Ketheric only converted to Selûne because of Melodia's influence.Morfred muses "The Thorms are Selûnite through and through—or so I believed. Perhaps Ketheric only converted for Melodia, and with her death—and then his daughter's—his faith died too. But to turn to Shar? It beggars belief.", implying that Ketheric may not have initially been a worshiper of Selûne up until his marriage to Melodia.
+
+By, Morfred and his brother, Halfred, formed a secret Selûnite resistance despite investigations from Sharran forces. Halfred went to the Last Light Inn, while Morfred formulated a holdout in the basement of the Reithwin Mason's Guild, where he once worked, and planned to gather allies to oppose Ketheric. Morfred feigned allegiance to Shar, but on several occasions upon drinking too much, his true loyalties came out, once in front of Thisobald Thorm, who reported his findings to Ketheric. Some time after, the Mason's Guild was raided by Sharrans, resulting in Halfred assuming his brother was dead if not already captured.
+
+Noticing Morfred's desperation against the Sharrans, the cambion Raphael approached Morfred and offered him a deal: Morfred's soul for the eradication of Ketheric's army. Morfred accepted, allowing Raphael to enlist the orthon Yurgir to annihilate the Dark Justiciars, save for one, Lyrthindor, whom Raphael also approached to keep Yurgir bound to his contract. Without his army and routed by the Emerald Enclave and Harpers, Ketheric, in his defeat, laid a shadow curse on the land. Any individuals who were caught within the curse turned to shadow-cursed undead, save for Moonrise Towers, owing to Morfred's precautions of safety. At some point afterwards, Morfred died and, as per his contract with Raphael, was bound to the House of Hope as a debtor. Morfred's bones were put on display within the Mason's Guild for all to see.
+
+The Infernal Mason
+
+Morfred, having forgone his original name, was instead known only as the Infernal Mason, and served Raphael. In the, the House of Hope was visited by a group of adventurers seeking the Orphic Hammer. They encountered Morfred, who gave vague answers about the nature of the House, but mentioned his previous accomplishments of being the architect behind Moonrise Towers. When told of Thorm's demise and the lifting of the shadow curse, Morfred expressed delight that eventually his actions led to Ketheric's fall, but lamented that it had come too late for his family and friends. He then urged the adventurers to escape the House while the opportunity presented itself.
+
+Appendix
+Notes
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Mortimer (disambiguation)
+
+Mortimer, or Mortimar, was a name used by several people (mainly wizards) in the Realms and beyond. These included:
+
+ Mortimar, an ancient Netherese arcanist,
+ Mortimar (Pangaea), a wizard from the world of Pangaea who helped found Chemcheaux,
+ Mortimer, a wizard who operated Chemcheaux 223 in Ravens Bluff,
+ Mortimer (innkeeper), a wizard who retired to run the Grapes of Mortimer Inn in Ylraphon,
+ Mortimer (sailor), a sailor aboard the Free Breeze,
+ Mortimer Delittle, a clerk at the Ministry of Art in Ravens Bluff,
+ Mortimer Lightfoot, a wizard who specialized in air elementals, or
+ Mortimer Mittlemer, a con-artist illusionist from Ravens Bluff.
+
+---
+
+## Moonlantern
+
+Moonlanterns were enchanted items of sadistic nature created by the necromancer ally of General Ketheric Thorm, Balthazar, in the late 15 century DR.
+
+Powers
+Moonlanterns were severe-looking spiked lanterns that held a single tiny creature inside – a pixie. She was tortured, surrounded by numerous painful spikes. The Moonlanterns''' glass was faceted and clear, with each individual facet being pierced by arrows and tendrils of glimmering moonlight. Each movement of the pixie caused her pain, and it was channeled into a brilliant chilly silver moon-like radiance that kept the dead Sharran shadow-cursed at bay.
+
+Notable Users
+Kar'niss was a drider guide of the Cult of the Absolute who was given one of Balthazar's lanterns to guide the Absolute's faithful through the Shadow-cursed Lands and into the Moonrise Towers in the late 15 century DR.
+Isobel Thorm owed a single Moonlantern after retiring from the dead and working with the Harpers against her father – Ketheric Thorm in the .
+ Nere, a cultist of the Absolute from the Grymdark in the .
+
+AppendixShadow lantern''
+Appearances
+
+References
+
+---
+
+## Mouthpick
+
+Beholder mouthpicks, or tongue-arms, were a class of tools used by beholders to perform regular tasks that they lacked the appendages for. They typically resembled a long rod or pole with one or more tools or weapon heads.
+
+Description
+When not using their telekinesis eyestalk, beholders were limited to using their mouths in order to interact with the world at large. While a beholder could and would pick up an item, hold it in their mouth, and later spit it out if necessary, such behaviour was ill-suited to their sensibilities. While spellcasting and thralls could fill this deficiency, simple self-sufficient physical manipulation remained desirable and so the mouthpick was developed.
+
+Tongue-arms could be improvised with a tree trunk, mast, or some other large piece of salvaged wood, but beholders preferred to use custom-made metal implements with articulated joints and tipped with spikes, flanges, pincers, and other tools that allowed them to scoop, scrape, pierce, and grip small objects. Many mouthpicks had every possible function attached at the end, creating a cluster of tools that protruded from the end of it.
+
+Some beholders particularly relished the experience of melee combat and physically tearing foes apart, and so used specially-made mouthpicks that resembled large weapons. A common magical effect applied to them was that of an adaptive shifting grip, which automatically fitted itself to the wielder's teeth and mouth and made even an unfamiliar weapon easy to use. Unfortunately for most beholders, their central eye's antimagic ray rendered magical mouthpicks useless and inert. Only beholderkin without that ability could properly enjoy such items.
+
+Manipulative Mouthpick
+
+A hypothetical average tool-based mouthpick was about 6 feet long and had a trident-shaped arrangement of three utilities at the end. The first device was a sharp blade that could be used to cut, scrape, and dig more delicately and carefully than the beholder's eyes or teeth could. The second was a gauntlet-like gripper that could grab and hold objects, reach into tight spaces, and even perform gestures. The third device was a simply bowl-shaped scoop that was useful for picking up loose items.
+
+Combat Mouthpick
+A typical weapon-based mouthpick was a 10-foot long pole tipped with a whirling array of spikes, blades, and miscellaneous sharp implements.
+
+Usage
+While held between the beholder's teeth, the mouthpick was manipulated as a human might with a pipe, jostling it about with lips and tongue without loosening the grip and manipulating the various levers, buttons, and switches. In the rare event that an attack struck a mouthpick and rammed it backwards into the mouth, the experience was unpleasant but not overly dangerous, as the mouthpick would strike the bony plating that protected the beholder's organs.
+
+As an alternative or a supplement to a tongue-arm, a beholder might use beholder armor, an enchanted suit of plate armor that they could control as if their own body, and thus gain access to the gauntlet-hands.
+
+The mouthpick had some use amongst shapeshifted druids and other intelligent, yet handless individuals who desired the use of tools or weapons.
+
+Notable Mouthpicks
+ Fang pick, a powerful magical mouthpick used as a melee weapon in Undermountain.
+ Tyrant mouthpick, a useful and lethal mouthpick for the more powerful beholders.
+
+Appendix
+See Also
+ Beholder armor
+ Binphallkahr balldozer
+ Orb armor
+
+Gallery
+
+References
+
+---
+
+## Morion (disambiguation)
+
+Morion may refer to:
+
+ Morion, a style of helmet used in parts of the Lands of Intrigue;
+ Morion (bard), a master bard; or
+ Morion (gem), the black variety of smoky quartz.
+
+---
+
+## Molly Winegobbs
+
+Molly Winegobbs was a giant spider from the Lower City of Baldur's Gate in the late 15 century DR.
+
+History
+In the, Molly Winegobbs, along other giant spiders, drow, and duergar, all were slaughtered in the home of Bloomridge Park groundskeeper, Lavernica. The murder spree was performed by Orin the Red and her Murder Tribunal of Bhaal.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Montgomery
+
+Montgomery was a family man commoner inhabitant of the Rivington neighborhood of Baldur's Gate  in the late 15 century DR.
+
+Description
+Montgomery was a human man with dark brown skin, brown eyes, and black hair of fine curls. He wore a well-trimmed beard and a commoner's jerkin atop a blue tunic.
+
+History
+In the, Montgomery took his son to see the famed Dribbles the clown of the Circus of the Last Days. In lieu of recently surging murders and violent crimes in Baldur's Gate, the circus assigned the Principal Sniffer ghoul named Benji to sniff out blood on every guest entering the circus. The ghoul was supervised by Klaus, the Assistant Sniffer, who allowed patrons through the locked gates. Montgomery and his son both were clean, the boy was terrified of the blood-covered jester ghoul and refused to enter the circus.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Morale boost
+
+The morale boost utterance was an advanced technique from the Lexicon of the Evolving Mind that used truespeak to bolster the subject's courage, or brought forth fright if reversed.
+
+Usage
+In its straight form, morale boost functioned identically to remove fear, the words of courage bolstering the subject for about half a minute. Its reversed form induced instant fright for about the same length of time.
+
+History
+The recitation was known to logokron devils and garblers, the latter of which used it only in its reversed form.
+
+Appendix
+References
+
+---
+
+## Moderate word of nurturing
+
+Moderate word of nurturing was an utterance from the Lexicon of the Evolving Mind that used truespeak to rejuvenate a target from its wounds, or to rend them apart, if reversed.
+
+Usage
+In its normal form, healing energy suffused the target, slowly repairing them of a great amount of damage. In its reversed form, it rended and tore at the target's being, dealing severe wounds. It could last for an instant, but with some concentration, damage would be doubled after a few seconds.
+
+History
+The utterance was known to painspeakers, who used only the reversed form, and to loquasphinxes.
+
+Appendix
+References
+
+---
+
+## Morion
+
+Morions were an open-faced style of helmet worn in parts of the Lands of Intrigue region of west Faerûn.
+
+Description
+These helmets were denoted as having oval-shaped sides, which helped to deflect projectiles, as well as an elevated brim in the front and back. This high brim gave greater visibility compared to some helmets, but left the neck and lower half of the wearer's head vulnerable to attacks, necessitating further protection such as gorgets. The sides and brim of the helmet were overshadowed by a comb atop the helmet, which stood up to  high. This high crest served the purpose of preventing attacks from penetrating the wearer's skull and spreading the resulting force of downward blows.
+
+Notable Morions
+ Steelwatcher helmet, a variety of enchanted morions that were forged from infernal iron and used to outfit steel watchers in the late 15 century DR.
+
+Notable Users
+Organizations
+ Some bandits in west Faerûn wore morions, such as a group of halflings that tried to rob Countess Zaranda Star's caravan in the Snowflake Mountains in 1366 DR.
+ Some members of the Golden Legion possibly wore morions.See the "Background" sub-section of the Appendix for a detailed argument regarding this topic.
+
+Regions & Settlements
+ Morions were part of the uniform of the civic guardsmen of Zazesspur during the Tethyrian Interregnum. This style of helmet continued to be part of their uniform well into the late 15 century DR.
+
+Appendix
+Notes
+
+Background
+In popular culture, morions are commonly associated with the Spanish Conquistadors.
+
+According to author and game designer Douglas Niles, Cordell and his Golden Legion, the Amnian invaders of Maztica, were deliberately designed as parallels to the Conquistadors and their conquest of Mesoamerica.
+
+Amerigo and Halloran, Amnian members of the Golden Legion, were depicted in AD&D Trading Cards and the cover of Ironhelm respectively as wearing helmets that resemble morions, evoking the pop culture understanding of Conquistadors. However, the word "morion" itself is never used within any of the Maztica line's books, nor within Douglas Niles' Maztica trilogy of novels, but their helmets are described as "brimmed" in Chapters 2 and 4 of Ironhelm. Given this, they are presumed to be morions.
+
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Mongrel language
+
+Mongrel was the pidgin language of mongrelfolk, derived from the Common tongue.The Monstrous Manual, The Complete Book of Humanoids, and Curse of Strahd describe mongrelfolk as not having their own "distinct tongue", but merely speaking a "debased Common" or "fragmented Common". However,  Drizzt Do'Urden's Guide to the Underdark denotes them as having their own language.
+
+Phonology
+In addition to elements of Common, Mongrel speech was interspersed with animalistic noises and cries, as well as gestures. These included growls, whistles, grunts, and howls.
+
+Names
+Mongrelfolk given names often mimicked animal noises, derived from their uncanny ability to mimic nearly any bestial sound.
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Morann
+
+Morann was a Griefguard in the House of Grief temple that hid the Cloister of Sombre Embrace in the city of Baldur's Gate in the late 15 century DR.
+
+Description
+Morann was a stout dwarf with brown beard and red hair. He wore a set of padded armor and was armed with a scimitar and a shield.
+
+History
+In the, during the Absolute crisis, Morann served the Mother Superior as one of her Griefguard at the gates of the House of Grief. Morann, along with the entirety of the cloister may have confronted its member Shadowheart were she to turn away from Shar.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Morbus
+
+Morbus was a strange beggar – a sentient zombie, who shambled across the alleys of Baldur's Gate in the late 15 century DR.
+
+Description
+Morbus was wrapped in rags, his face hidden under a hood and a scarf. Morbus's sickly skin and stench of decay betrayed his undead zombie nature. Unlike other zombies, however, he was fully conscious and possessed undead fortitude and resistance to all types of physical damage.
+
+History
+Sometime before the, Morbus was created by the mysterious mummy, the Mystic Carrion. Eventually, Morbus escaped his undead master along with several other sentient zombies. In 1492 DR, he could be seen wandering around the Lower City Graveyard of Baldur's Gate. The undead creature seemed to have lost his mind, searching for his older sister who, according to Morbus, was playing hide and seek. Presumably, his sister was among those buried in the graveyard, despite the undead shambles claims she was just very good at the game and Morbus could never win.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Monster Manual 5th edition (revised)
+
+The Monster Manual 5th edition (revised) is the revision of the Monster Manual 5th edition published by Wizards of the Coast on February 18, 2025.
+
+Index
+A
+ aarakocra
+ aarakocra aeromancer
+ aarakocra skirmisher
+ aboleth
+ air elemental
+ allosaurus
+ animal lord
+ animated object
+ animated armor
+ animated broom
+ animated flying sword
+ animated rug of smothering
+ ankheg
+ ankylosaurus
+ ape
+ arcanaloth
+ archelon
+ arch-hag
+ assassin
+ awakened plants
+ awakened shrub
+ awakened tree
+ axe beaks
+ axe beak
+ giant axe beak
+ azers
+ azer pyromancer
+  azer sentinel
+B
+ baboon
+ badger
+ balor
+ bandits
+  bandit captain
+  bandit deceiver
+  bandit crime lord
+ banshee
+ barbed devil
+ barlgura
+ basilisk
+ bat
+ bearded devil
+ behir
+ beholder
+ berserkers
+  berserker commander
+ black bear
+ black dragons
+  black dragon wyrmling
+  young black dragon
+  adult black dragon
+  ancient black dragon
+ black pudding
+ blights
+ twig blight
+ needle blight
+ vine blight
+ tree blight
+ gulthias blight
+ blink dog
+ blob of annihilation
+ blood hawk
+ blue dragons
+  blue dragon wyrmling
+  young blue dragon
+  adult blue dragon
+  ancient blue dragon
+ boar
+ bone devil
+ bone naga
+ brass dragons
+  brass dragon wyrmling
+  young brass dragon
+  adult brass dragon
+  ancient brass dragon
+ bronze dragons
+  bronze dragon wyrmling
+  young bronze dragon
+  adult bronze dragon
+  ancient bronze dragon
+ brown bear
+ bugbears
+  bugbear stalker
+  bugbear warrior
+ bulettes
+  bulette pup
+ bullywugs
+  bullywug bog sage
+  bullywug warrior
+C
+ cambion
+ camel
+ carrion crawler
+ cat
+ centaurs
+  centaur warden
+  centaur trooper
+ chain devil
+ chasme
+ chimera
+ chuul
+ clay golem
+ cloaker
+ cloud giant
+ cockatrices
+  cockatrice regent
+ colossus
+ commoner
+ constrictor snake
+ copper dragons
+  copper dragon wyrmling
+  young copper dragon
+  adult copper dragon
+  ancient copper dragon
+ couatl
+ crab
+ crawling claws
+  swarm of crawling claws
+ crocodile
+ cultists
+  cultist fanatic
+  cultist hierophant
+  aberrant cultist
+  death cultist
+  elemental cultist
+  fiend cultist
+ cyclops
+  cyclops oracle
+  cyclops sentry
+D
+ dao
+ darkmantle
+ death dog
+ death knights
+  death knight aspirant
+ death tyrant
+ deer
+ demilich
+ deva
+ dire wolf
+ displacer beast
+ djinni
+ doppelganger
+ dracolich
+ draft horse
+ dragon turtle
+ dretches
+  swarm of dretches
+ drider
+ druid
+ dryad
+
+E
+ eagle
+ earth elemental
+ efreeti
+ elemental cataclysm
+ elephant
+ elk
+ empyreans
+ empyrean iota
+ erinyes
+ ettercap
+ ettin
+F
+ faerie dragons
+ faerie dragon adult
+ faerie dragon youth
+ fire elemental
+ fire giant
+ flameskull
+ flesh golem
+ flumph
+ flying snake
+ fomorian
+ frog
+ frost giant
+ fungi
+ gas spore fungus
+ shrieker fungus
+ violet fungus
+ violet fungus necrohulk
+G
+ galeb duhr
+ gargoyle
+ gelatinous cube
+ ghasts
+ ghast gravecaller
+ ghost
+ ghouls
+ lacedon ghoul
+ giant ape
+ giant badger
+ giant bat
+ giant boar
+ giant centipede
+ giant constrictor snake
+ giant crab
+ giant crocodile
+ giant eagle
+ giant elk
+ giant fire beetle
+ giant frog
+ giant goat
+ giant hyena
+ giant lizard
+ giant octopus
+ giant owl
+ giant rat
+ giant seahorse
+ giant scorpion
+ giant shark
+ giant spider
+ giant squid
+ giant toad
+ giant venomous snake
+ giant vulture
+ giant wasp
+ giant weasel
+ giant wolf spider
+ gibbering mouther
+ githyanki
+ githyanki warrior
+ githyanki knight
+ githyanki dracomancer
+ githzerai
+ githzerai monk
+ githzerai zerth
+ githzerai psion
+ glabrezu
+ gladiator
+ gnolls
+ gnoll warrior
+ gnoll pack lord
+ gnoll fang of yeenoghu
+ gnoll demoniac
+ goat
+ goblins
+ goblin minion
+ goblin warrior
+ goblin boss
+ goblin hexer
+ gold dragons
+ gold dragon wyrmling
+ young gold dragon
+ adult gold dragon
+ ancient gold dragon
+ gorgons
+ brazen gorgon
+ goristro
+ gray oozes
+ psychic gray ooze
+ green dragons
+ green dragon wyrmling
+ young green dragon
+ adult green dragon
+ ancient green dragon
+ green hag
+ grell
+ gricks
+ grick ancient
+ griffon
+ grimlock
+ guardian naga
+ guards
+ guard captain
+H
+ half-dragon
+ harpy
+ hawk
+ hell hound
+ helmed horror
+ hezrou
+ hill giant
+ hippogriff
+ hippopotamus
+ hobgoblins
+ hobgoblin warrior
+ hobgoblin captain
+ hobgoblin warlord
+ homunculus
+ hook horror
+ horned devil
+ hunter shark
+ hydra
+ hyena
+I
+ ice devil
+ imp
+ incubus
+ intellect devourer
+ invisible stalker
+ iron golem
+J
+ jackal
+ jackalwere
+K
+ kenku
+ killer whale
+ knights
+ questing knight
+ kobolds
+ kobold warrior
+ winged kobold
+ kraken
+ kuo-toa
+ kuo-toa whip
+ kuo-toa monitor
+ kuo-toa archpriest
+L
+ lamia
+ larvae
+ swarm of larvae
+ lemures
+ swarm of lemures
+ lich
+ lion
+ lizard
+ lizardfolk
+ lizardfolk geomancer
+ lizardfolk sovereign
+M
+ mages
+ mage apprentice
+ archmage
+ magmin
+ mammoth
+ manes
+ manes vaporspawn
+ manticore
+ marid
+ marilith
+ mastiff
+ medusa
+ mephits
+ dust mephit
+ ice mephit
+ magma mephit
+ mud mephit
+ smoke mephit
+ steam mephit
+ merfolk
+ merfolk skirmisher
+ merfolk wavebender
+ merrow
+ mezzoloth
+ mimic
+ mind flayers
+ mind flayer arcanist
+ minotaur of baphomet
+ modrons
+ monodrone
+ duodrone
+ tridrone
+ quadrone
+ pentadrone
+ mule
+ mummies
+ mummy lord
+ myconids
+ myconid sprout
+ myconid adult
+ myconid spore servant
+ myconid sovereign
+N
+ nalfeshnee
+ night hag
+ nightmare
+ nobles
+ noble prodigy
+ nothic
+ nycaloth
+O
+ ochre jelly
+ octopus
+ ogres
+ ogrillon
+ oni
+ otyugh
+ owl
+ owlbears
+ primeval owlbear
+P
+ panther
+ pegasus
+ performers
+ performer maestro
+ performer legend
+ peryton
+ phase spider
+ piercer
+ piranha
+ pirates
+ pirate captain
+ pirate admiral
+ pit fiend
+ pixies
+ pixie wonderbringer
+ planetar
+ plesiosaurus
+ polar bear
+ poltergeist
+ pony
+ priests
+ priest acolyte
+ archpriest
+ pseudodragon
+ pteranodon
+ purple worm
+
+Q
+ quaggoths
+ quaggoth thonot
+ quasit
+R
+ rakshasa
+ rat
+ raven
+ red dragons
+ red dragon wyrmling
+ young red dragon
+ adult red dragon
+ ancient red dragon
+ reef shark
+ remorhazes
+ young remorhaz
+ revenants
+ graveyard revenant
+ haunting revenant
+ rhinoceros
+ riding horse
+ roc
+ roper
+ rust monster
+
+Gallery
+
+Appendix
+External Links
+
+ 2024 Core Rulebooks to Expand the SRD
+
+Connections
+
+---
+
+## Morga Longlived
+
+Morga Longlived was a half-orc noblewoman from Waterdeep during the late 15 century DR.
+
+Activities
+She was quite wealthy, and maintained a private museum of artifacts that was jealously regarded by her peers.
+
+Relationships
+Tristopher Chettlebell was one of her manservants, through whom she was acquainted with heroes in Neverwinter and Icewind Dale.
+
+History
+
+Morga was once an adventurer who used her amassed treasure to purchase a noble rank in Waterdeep when she retired. At some point during her career, she was killed and resurrected, thus when the death curse occurred many years into her retirement, her body began to decay. Priests could do nothing for her, and as she began to deteriorate at an alarming rate, she traveled to the Cathedral of Helm in Helm's Hold seeking answers or (failing that) some adventurers who could sniff out the curse's cause. Having made her ability to bankroll such an adventure very public, she was approached by the Hero of the Sleeping Dragon Bridge, who required funding for an expedition to Chult after having received information from an anonymous source that the cause of the death curse was located there.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moonshorn Tower
+
+Moonshorn Tower was a temple to Mystra in the mid–8 century DR.
+
+Location
+Moonshorn Tower stood somewhere between Tresset's Ringyl and the Riven Stone.
+
+Structure
+The squat tower looked like a giant stump; there were phases of Selune carved around its great black door, which was many-strapped and bolted. There were battlements along the top.
+
+Interior
+The entrance led into a rather small chamber with a lectern as large as a door. There were three closed doors behind the lectern. One door, with a pull-ring, led to plain, smoothly worn stairs that granted entry into the higher levels. At least one of the rooms in the tower held tables and bookshelves in which were stored an immense cache of writings and knicknacks, many of which were Netherese in origin.
+
+A narrow back stair led from the third door at the base to the top of the tower.
+
+Activities
+Visitors to the tower, or at least the ones who served Mystra, were allowed to examine the collection at Moonshorn. However, they were required to surrender all their magic to the Guardian's care. Food wasn't provided, but water could be taken from the font.
+
+Defenses
+As of, the mage Mardasper Oblyndrin had been the Guardian of the tower for two years. The Guardian of the Tower was granted the use of the Scepter of the Lady, and of a similarly enchanted diadem with powers of truth-reading.
+
+Wards were present to forewarn the guardian of any trouble, and made the doors almost impossible to force open; they also prevented magic from lingering in it contingently. Translocations didn't work inside Moonshorn.
+
+History
+One spring morning in the, Elminster Aumar, a Chosen of Mystra, passed through Moonshorn Tower in his quest to find the Lady of Shadows, Dasumia. He briefly crossed paths with Mardasper Oblyndrin, and with the sages Tabarast and Beldrune.
+
+After discovering that Elminster had just passed them, the two sages crept after him. The elf Ilbryn Starym, who was hunting after Elminster, turned up late in the evening; Mardasper met him despite the hour, with a diadem over his burning eye and the scepter on his head. Though the visitor did not accept the rules of the Tower, he nonetheless learned Elminster had been there by morning, and left without further trouble. Mardasper, in turn, was attacked and slain shortly after by the Slayer.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moxy's Mixology Manual
+
+Moxy's Mixology Manual was a book dedicated to the art of mixology and collecting numerous alcoholic drink recipes, penned sometime in or before the late 15 century DR.
+
+Contents
+The reader could consider Moxy's to be a comprehensive guide to cocktails, despite its crass wording and the author's preference for the drinks made with gin-and-whiskey. The book also included recipes for vodka, vermouth, and rum and did not miss a chance to denigrate them as inferior. Lastly, the author recommended that readers never call themselves "mixologists," professional, or amateur; instead preferring the term "bartender." Moxy clearly thought that calling oneself a mixologist made one sound like a "pillock."
+
+History
+In the, a copy of Moxy's Mixology Manual could be found in the hands of the proprietors of The Singing Lute eatery in the city of Baldur's Gate.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moondark (family)
+
+The Moondarks were a half-elven family of sorcerers until the turn of the 7 century DR.
+
+Base of Operations
+The family was mostly based in Westgate on the Dragon Coast. They had a family crypt there.
+
+Activities
+The family was known for dealing quite straight and squarely, and to challenge the rulers of Westgate too much for anyone's liking.
+
+Relationships
+One of their members, Eaergladden Moondark, died destitute, though he was ultimately interred in the crypt.
+
+History
+The family died out around the, about a hundred and sixty or so years prior to the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moonshae Zinfandel
+
+Moonshae Zinfandel was a variety of red wine, produced on the Moonshae Isles by a well-respected elvish vintner in the mid-to-late 15 century DR.
+
+Description
+Moonshae Zinfandel was known for its strong taste with notes of oak and spice.
+
+History
+In the, bottles of Moonshae Zinfandel of certain vintages were collector's items. A set of bottles produced in 1461 DR, 1462 DR, 1463 DR, 1464 DR, 1465 DR, 1467 DR, 1466 DR, and 1475 DR belonged to the leader of the infamous Guild of Baldur's Gate, Nine-Fingers Astele Keene.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Mother Night
+
+Mother Night was a mysterious deity that had influence over the land of Barovia, separate from the Dark Powers of the Domains of Dread, and the vestiges of the Amber Temple.
+
+Description
+Mother Night was depicted by Barovian werewolves as a feminine figure with a wolf's head. Such a statue would be decorated with vines and night flowers.
+
+She could also be represented as a hooded figure with downturned wings.
+
+History
+According to Barovian lore, Mother Night was originally from the mythical Four Cities, where she and other ancient gods like the Morninglord were said to have lived. This could be seen depicted on the Megaliths near Old Bonegrinder. Later, the folk of Barovia believed that she had turned away and forsaken them, and that she had sent Strahd von Zarovich as a punishment for their ancestors' misdeeds.
+
+After being banished by Queen Ravenovia, Baba Lysaga offered countless sacrifices and prayed to Mother Night to harm the Queen, eventually resulting in the early death of the rival mother.
+
+Madam Eva sacrificed her own youth and vitality to Mother Night in exchange for longevity and magical foresight. She used her long life to search for adventurers that could kill or redeem Strahd, her half-brother.
+
+Mother Night-worshiping werewolves were sent by Strahd on raids to other worlds, emerging in the Misty Forest and predating on the farms east of Daggerford in the late 15 century DR.
+
+Worshipers
+Mother Night was broadly respected and acknowledged by the inhabitants of Barovia, even if not actively worshiped. Her presence was most strongly felt between dusk and dawn, but even so, prayers to her seemed to go unanswered.
+
+Her followers included the witch Lysaga, who was rewarded with dark powers and profane lore for her devotion. She was also served by the Children of Mother Night, a pack of werewolves who served Strahd out of the belief that he was the blessed champion of Mother Night. They maintained a shrine to their goddess in their den, consisting of a crude wooden statue decorated with vines and flowers. Rotting corpses were hung nearby as offerings, with their maggots representing Mother Night's feeding. Offerings and treasures were piled up around the statue. Mother Night would curse with nightmares anyone who dared steal valuables from her shrine, preventing them from getting any rest during the night hours.
+
+Appendix
+See Also
+ Mother Night, a Shar-worshiping gang of Wheloon Prison.
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Moirene Trimapule
+
+Moirene Trimapule was a human inhabitant of Eveningstar during the late 15 century DR.
+
+Description
+Moirene had long white-blonde hair, loosely tied back, gray eyes, and light skin.
+
+History
+During the mid-1480s DR, Moirene watched from her home as Purple Dragons escorted people, Sharran or otherwise, to Wheloon Prison.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Morgan
+
+Morgan was an avid reader and the leader of the Book Brigade, a book club from the city of Baldur's Gate in the late 15 century DR.
+
+Description
+Morgan was a lightfoot halfling woman with a tan sun-kissed skin tone, steely gray hair, and eyes of a light watery brown color.
+
+History
+In the, Morgan ran a group that gathered monthly to discuss a pulpy book they all read. The group met at the Bloomridge Park and consisted of Nansi Gretta of the The Bibliophile, half-elf Caerdwyn, and gnome Kepli for whom Nansi had feeling. At some point during the Absolute crisis, Nansi Gretta chose to leave the group due to her busy schedule running the bookstore, but Morgan still tried to entice the shopkeep to rejoin, using her affections for Kepli as an incentive. One of the works the group read was a smutty series of books, Dusk's Dark Desires, about a werecow with the protagonist being Morgan's favorite character. The book club was in session in Bloomridge Park with a group of assassins worshippers of Bhaal who attempted to slaughter the park-goers in the middle of a day to venerate their monstrous deity. It was unknown if Morgan and her club survived.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Mouse cart
+
+A mouse cart was a enchanted cart specially sized to be drawn by a mouse and that could be expanded to human proportions.
+
+Description
+Each instance of a mouse cart resembled a wooden cart, complete with two wooden wheels and a leather harness, but in a miniaturized state.
+
+Powers
+Once the harness of a mouse cart was placed upon a mouse, or any creature that was polymorphed or otherwise transformed into the form of a mouse, the cart would grow to human proportions. The harnessed mouse would retain its size but fall under the effect of an enchantment. This enchantment not only enabled the mouse to pull  of cargo but also compelled to obey all oral commands issued by the individual that had harnessed them, forgoing their natural instincts and behavior. However, the enchanted mouse would not fight if commanded and would not engage in actions it would naturally be incapable of performing. The enchantment persisted as long as the mouse remained harnessed.
+
+This magical effect would only function on mice and no other type of creature.
+
+Notable Owners
+ Jaccob, a halfling smuggler, owned a mouse cart and kept three pet mice on his person to utilize with it.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moondark (disambiguation)
+
+Moondark could refer to:
+ Moondark, one of the hours of the day, referring to the darkest part of night;
+ Moondark (family), a half-elf family of Westgate up to the 6 century DR;
+ Crypt of the Moondark, the family tomb;
+ Eaergladden Moondark, an impoverished member of the family; or
+ Moondark Hill, a hill in Evereska.
+
+---
+
+## Mount Angaroth
+
+Mount Angaroth was the highest peak in the Star Mounts within the High Forest of Northwest Faerûn.
+
+Description
+Mount Angaroth was known as the greatest peak of the Star Mounts. Like Far Peak, Mount Journey, Shadowpeak, Bard's Hill, Mount Vision, Hunterhorn, the sister peaks, Mount Angaroth, respectively, were named after the seven of the most prominent stars in the northern skies. The named originated from the Fair Folk realm of Aryvandaar and its successors.
+
+History
+One infamous inhabitant of Mount Angaroth was an ancient, over millennia old, red wyrm called Imvaernarhro, or Inferno. His fiery wrath and awe-inspiring hoard were legendary. Inferno's lair was said to be located on Angaroth's north face, within a cave hidden high up. Sometime before the mid-14 century DR, many adventuring companies tried to slay the beast and claim his horde, including the famed Hammerfists. All failed. In the, Smerdiuk Dragonbane, the dragon-slayer author of The Compleat Dragon-Hunter, embarked upon a journey to Mount Angaroth to slay Imvaernarhro. As of the, he had yet to return.
+
+Appendix
+References
+
+---
+
+## Morgan's Warehouse
+
+Morgan's Warehouse was a warehouse in the Lower Port of Skullport in the late 14 century DR.
+
+Structure
+The warehouse was a two-story structure in fair condition.
+
+Description
+The warehouse was known as one of the most secure and reliable depots in Skullport. Goods passing through Morgan's Warehouse were well-protected, making it a trusted establishment for merchants seeking dependable storage.
+
+Appendix
+References
+
+---
+
+## Mop
+
+A mop was a common tool used for household cleaning alongside buckets and other implements.
+
+Appendix
+
+See Also
+ Broom
+ Bucket
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Morgan (queen)
+
+Morgan was Queen of Corwell in the Moonshae Isles during the mid-to-late 3 century DR.
+
+Relationships
+She and her husband, King Durnhal, were the first human monarchs of Corwell to use the Great Bear as their standard, making them the forebears of the Kendrick family.
+
+History
+The royal pair came to rule Corwell following the end of the long rule of the Hugh Dynasty's last regent, Cedric Riker, in the . At this time, many of the lords of the Ffolk squabbled amongst each other rather than follow the High King, and in the, King Durnhal and Queen Morgan were captured by the High King's son, Price Ketheryll, and his Doomed Legion. They were accused of high treason, and then executed alongside other captives at the Castle of Skulls. Ketheryll kept their gold signet rings as trophies.
+
+Over a millennium later, tales and legends still recalled the royal couple, and speculated that their deaths had been the catalyst for the curse that ultimately befell Prince Ketheryll. In the, the halfling adventurer Pawldo and his companion Stefanik entered the Castle of Skulls seeking treasure. They escaped with the lost royal signet rings, and planned to gift them to High King Tristan Kendrick and his queen, Robyn Kendrick.
+
+Appendix
+References
+
+---
+
+## Moon motes
+
+Moon motes was an offensive invocation spell granted exclusively to the Silverstars of Selûne.
+
+Effects
+Once the spell's incantations were uttered, the Silverstar tapped into her goddess' connection to moonlight and magic, creating a  cone-shaped spray of glowing spheres. The motes of moonlight possessed offensive power and dealt energy damage to all creatures in their way. The magic still hurt creatures fast enough to dodge out of harm's way.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Mountain Thunder
+
+Mountain Thunder was an aging dimetrodon who competed in the dinosaur races of Port Nyanzaru in Chult during the late 15 century DR.
+
+History
+As of the start of the death curse, Mountain Thunder was passed her prime, with bookies giving her only 1:7 odds of winning. Nevertheless, she remained the favorite racer of Alastar Bol, the ranking member of the Order of the Gauntlet in Port Nyanzaru. Even if he was unwilling to attend a race in person due to the heat, he was known to send an underling to place a bet on Mountain Thunder for him. He did this when Mountain Thunder competed in the races at the inaugural Na N'buso's Haka.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Moonbear
+
+Chultan moonbear, or simply moonbear, was a species of bears that inhabited the Jungles of Chult in northwest Faerûn.
+
+Description
+Chultan moonbears were large creatures of impressive strength, temperamental mood, and black and dark brown fur.
+
+Ecology
+It was believed in Chult that decorating a moonbear's fur would grant the person the beast's strength and, possibly, temperament. Chultan beast tamers learned to train moonbears to serve as mounts are ferocious battle steeds.
+
+A set of enchanted armor called Fured Kiuno of the Bear was decorated with Chultan moonbear's fur.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Monini Crypts
+
+The Monini Crypts was a mausoleum in which the Monini family of Neverwinter were interred.
+
+Location
+The Crypt was located in the Craftsman's Rest area of Neverwinter's Neverdeath Graveyard. Following the great upheavals of the land during the Ruining, access to the Crypts was difficult and required finding and traversing a tunnel through the cliffs.
+
+History
+In the, members of the Cult of the Dragon entered the Monini Crypts in search of the knowledge to gain access to Azharzel, a blue dragon sealed within the Waterclock Guild's Crypts long before by Romani Monini. At that same time, Romani's descendant, Zami Monini, entered the crypt alongside scholar Tristopher Chettlebell to learn more about her family history. The pair were attacked by the Cultists, who captured Zami and locked her in a sarcophagus. Meanwhile, Tristopher escaped and, confused about the cultists' motivations after no ransom demands were made, sought help from an adventurer to rescue Zami.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Morganth
+
+Morganth the Mysterious was an adventuring wizard in the mid-late 14 century DR.
+
+Description
+Though he was white-bearded, Morganth had very youthful-looking features.
+
+Abilities
+Morganth was quite brilliant.
+
+Possessions
+Of note, he was armed with a quarterstaff and a dagger.
+
+Activities
+He was an adventurer.
+
+Relationships
+Morganth had studied alongside Sethel, a local scribe, and was in good standing with Netheril, a local wizard.
+
+The adventuring party he was a part of in Freedale included him alongside Beldar, Delvar Ironfist, Silverleaf Halfmoon, Slinker, and Lordan.
+
+History
+Many years before the mid-to-late 1360s DR, Morganth had studied alongside Sethel, a scribe that also settled in Freedale.
+
+Morganth the Mysterious was part of an adventuring group in Freedale that may have rescued Taran Goldenstar, recovered the Orb of dragonkind, faced Gunter Weiss in Harrow Hill, and perhaps explored Azazabus' dungeon under Mount Dread. He had previously purchased spells from the local wizard, Netheril.
+
+Appendix
+Notes
+
+Background
+Morganth the Mysterious is one of the sample adventurers provided for play with Introduction to Advanced Dungeons & Dragons. An identical sheet was introduced in First Quest. In both sheets, Dragonlance art by Larry Elmore is reused to illustrate Morganth; inside the book itself, the illustrations for Quest are drawn by Jeff Butler, and by Walter Velez in Introduction.
+
+References
+
+---
+
+## Mount Dread
+
+Mount Dread was an underground complex near Shadowdale. By the mid-to-late 14 century DR, it was a monster lair once used by the evil mage Azazabus.
+
+Description
+The dungeon was near Shadowdale. There were at least two levels in it, and the second level might well have had stairs to a lower level still.
+
+Geography
+Presumably, Mount Dread must've been in a mountainous region.
+
+Structure
+Of note, the most immediately accessible level contained a small underground tower-like structure, where a wall once held a ladder to a higher level; that level had since collapsed, leaving the ladder a path to nowhere. One room in the same level was an old prison, and a few rooms had worked stone floors rather than bare rock or dirt. Those rooms included a smithy, a trapped side room with a golden statue and a room used by orcs.
+
+The lower level's layout wasn't known, but it included an old library, a paper-walled room made by giant wasps, and a mine shaft.
+
+History
+Part of the lower level connected to an old mineshaft, strongly implying the location was originally a mine.
+
+As of the mid-to-late 14 century DR, Mount Dread was the lair of numerous monsters that attacked locals near Shadowdale, making local authorities call for adventurers; the same heroes who braved the Tomb of Damara and Harrow Hill might've been among them. Before that, Mount Dread had been the center of activities once for the evil mage Azazabus.
+
+As they progressed into the dungeon, they might've encountered a gnome, Tinker, who needed a special silver spring for a certain, secret project. They may also have come across a number of gnomes who were looking for a special glowing moss there, which they required for a catapult meant for their king. Another mage, Kordak, could've come across them. He'd have tried to charm them or otherwise make them kill a brown bear that had taken up residence nearby, before trying to kill them.
+
+Should they have pushed into the lower level, they may have chanced upon a lammasu also took temporary shelter there to examine an old library, and a duergar called Axerock, whose treasure was stolen by drow.
+
+Inhabitants
+ Kordak
+ Axerock
+
+Appendix
+Background
+Mount Dread originally featured in First Quest, being copied almost verbatim from that product. The monsters, however, are changed for the Realms.
+
+Appearances
+
+References
+
+---
+
+## Moonlight slinger
+
+Moonlight slinger was a Selûne-touched repeating heavy crossbow in the late 15 century DR.
+
+Powers
+The crossbow was imbued with the freezing touch of the merciless moon, sharpened to a deadly edge. Those struck by its shots would find themselves numbed, slowed, and shortly freezing to death.
+
+History
+The moonlight slinger was found after the defeat of the Sharran priest and leader of the Night Brigade Storna Harnwood, who fell at the hands of the Riverside Rats gang in Wheloon Prison.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Monks of Nabbach
+
+The Monks of Nabbach was a monastic order from the Monastary Nabbach in Agenais. They represented Agenais in a series of wild conflicts between various nations and pirates of the Whamite Isles at some point prior to the mass death of the population in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Monks of the Mount
+
+The Monks of the Mount was a monastic order from Inter Mierionydd in the Whamite Isles. They represented Inter Mierionydd in a series of wild conflicts between various nations and pirates of the Whamite Isles at some point prior to the mass death of the population in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Moonshot Tankard
+
+The Moonshot Tankard was a tavern in Scornubel during the 14 century DR. It was infiltrated by drow at some point before .
+
+Services
+Traditionally, the place was a tavern.
+
+History
+In the, the place was visited by Dove Falconhand in the guise of an old peddler called Tarthan. He was the only customer, the barkeep was rather clueless about recent events, and kept polishing glasses that were already clean. Tarthan asked about drow infiltrators, and received little answer, but the barkeep acted swiftly after he left, sending a man to tail him.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Mother-of-Thousands
+
+Mother-of-Thousands was a great fiendish giant spider that laired in the Demonweb Pits.
+
+History
+During the Darkening and the Sschindylryn invasion of Eveningstar in the mid-1480s DR, the Mother-of-Thousands lurked in the Demonweb Pits. She may have come into battle with adventurers from Eberron who sought a way to Toril.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Morin Granitefist
+
+Morin Granitefist was a dwarven fighter and cleric of Moradin, who adventured across the Faerûn in the mid-to-late 14 century.
+
+Description
+He was a dwarf with red hair and a big bushy beard.
+
+Personality
+While he came off as somewhat pompous, he was incredibly loyal to his friends. He fought to uphold the honor of dwarvenkind and always resisted slights upon his race.
+
+Possessions
+He wore a set of plate mail, wielding either his enchanted +1 warhammer, or an ordinary broadsword and dagger.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Morning Glory
+
+Morning Glory was a unique enchanted Lathanderite mace that possessed curative magics, created sometime before the late 14 century DR.
+
+Powers
+The mace's +2 enchantment that guided the wielder's hand towards the target made it a formidable weapon. It also allowed the wielder to cast the cure critical wounds once per day and cure light wounds thrice.
+
+History
+Sometime before the, Morning Glory belonged to an unnamed priest of Lathander. The weapon was famous for its healing magic. In 1373 DR, the mace ended up in the hands of Quinn Silverfinger, a Waukeenar cleric from the town of Lonelywood in Icewind Dale, and was available for purchase from his temple.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Monster hunter
+
+Monster hunter was a profession in the Realms that involved tracking down and slaying creatures considered to be monsters.
+
+Activities
+As they traveled, monster hunters tracked down and dealt with various creatures that posed a danger to the towns and villages they visited. Typically, such creatures were goblins and orcs and less often an ogre or troll. Different regions carried more specific threats; the Frozenfar had verbeeg, winter wolves, yeti, and frost giants to contend with. The monster hunter would learn their respective habits, tactics, and dangers.
+
+Some, like Alaric Wolfgard, hunted monsters for renown and riches.
+
+Known Monster Hunters
+ Alaric Wolfgard
+ Bhric Kharas
+ Ezmerelda d'Avenir, vampire hunter
+ Gandrel
+ Golbraith Stredivas
+ Rudolph van Richten
+ Ulma
+ Wyll Ravengard
+ Yemandra Starbrow
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Moonclaws
+
+The Moonclaws were a thieving band in Hastarl, Athalantar, during the early 3 century DR.
+
+Organization
+The leader of the band was Isparla, though she almost certainly was a front for one or more Magelords of Athalantar.
+
+Activities
+The Moonclaws were known to pilfer, thieve, and also fight, or sometimes just slay, others who did the same in the territory they claimed.
+
+Tactics
+It was common for Moonclaw operations to have a lookout or two, armed with bows. Notably, they seemed to have no fear of the Magelords, acting openly and moving through streets instead of on rooftops.
+
+Base of Operations
+The Moonclaws were known to operate out of a certain uptown bathhouse.
+
+Relationships
+They were believed to be working for a wealthy patron or the Magelords; according to rival thief Tassabra, this belief was later proven correct.
+
+History
+The Moonclaws were first attested to in the late autumn to early winter of the, when they clashed with two local thieves of Hastarl, Farl and Eladar the Dark (secretly, prince Elminster Aumar). At a later date, they clashed with these two thieves again on the docks, where both groups were trying to make away with some bolts of Calishite silk.
+
+After the two formed a rival guild, the Velvet Hands, the Moonclaws attacked them overnight, slaying two of them on the first night. The Velvet Hands retaliated by ambushing them as the Moonclaws robbed Athalgard castle in the city, slaying three of them. However, a gargoyle later pursued the Velvet Hands, and the Moonclaws converged on them just as they were able to defeat it, eliminating all but two of their rivals. Of the two surviving Hands, one of them, Tassabra, died of her wounds later.
+
+Eladar, last survivor of the Velvet Hands, later ambushed the Moonclaws at a warehouse, slaying a number of theirs. They tried to smoke him out by setting it ablaze, but he managed to escape. In response, he set ablaze the home of Isparla, leader of the Moonclaws. She retreated to the Roost, where he attempted to corner them, but the battle was halted by the intervention of Magister Dorgon Heamiiolothtar, who rescued Eladar before anyone died, and resurrected Farl.
+
+One later clash with the same thieving duo of Farl and Eladar at the bridal suite of Peeryst Trumpettower and Nanue Glarmeir had a similar result as the first two, with hardly anything of value stolen by either side. By Farl's account, the Moonclaws were likely to dissolve afterwards, having lost much of their numbers.
+
+Rumors
+The three Blaenbar brothers, in particular Klaern Blaenbar, were suspected to have joined the Moonclaws already by Farl, but this was never known for sure.
+
+Known Members
+ Isparla
+ Irtil
+ Obaerig
+ Annathe
+ Minter
+ Waera
+ Uldorn
+ Goroth
+ Storntil
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Moth mushroom
+
+A moth mushroom was a type of edible tree fungus similar to black fungus.
+
+Etymology
+The name "moth mushroom" was coined at some point in the distant past by a forester who opined that a clump of it closely resembled the forest moths that he was familiar with in that same forest, with the "wings" folded up into the mushroom's black and brown cones.
+
+Habitats
+This fungus could be found across much of Toril, growing under the shade on slender saplings. They were most commonly found on duskwoods and felsuls, but could also be found on many other species of tree when in their youth.
+
+Appendix
+Refs
+
+---
+
+## Moray (kingdom)
+
+Moray was a kingdom that comprised the island of Moray in the Moonshae Isles. During the events of the Spellplague, this realm collapsed when it was overrun and destroyed by lycanthropes of the Black Blood tribe.
+
+Description
+Moray was notably more impoverished than the other major Ffolk kingdoms of the Moonshaes. Its capital and largest population center was located at Moray-town on the north coast, with most other settlers concentrated in the Shannyth River Valley or on Last Head in the south. Much of the island was untamed and rugged wilderness.
+
+Trade
+Moray imported armor and weapons from Callidyrr and horses, parchment, silk, and spices from Calimshan. It exported coal, furs, timber, and iron ore and other metals. The kingdom's mines were located in both the Trollclaw Range and the Orcskull Mountains.
+
+Agriculture was present in the northern and eastern lowlands, including crops such as potatos. Livestock like sheep and cattle were grazed in the highlands. Fishing grounds were notable only in the waters to the island's north.
+
+Culture
+The Ffolk of Moray were more warlike than the Ffolk of other isles, and looked down on the more cosmopolitan realms like Callidyrr, Snowdown, or even Corwell. They held much greater disdain for the Northmen, and might spit on the floor whenever mentioning them. Conversely, they were immensely proud of themselves and of their island, and enjoyed going on hunting expeditions into the wilderness.
+
+The nobility of Moray took the breeding and training of moorhounds very seriously, and considered it an honored part of their traditions. Each town lord was expected to maintain a large pack of these dogs for both hunting and war.
+
+Moray's food was plain yet tasty, consisting of simple offerings like mutton with potatoes.
+
+Defenses
+The kingdom long contended against raids by Northlanders from the sea and orcs and other monstrous humanoids from the highlands. Each settlement (known as a cantrev) was well defended, with about a quarter of the population trained as fighters and archers and the nobility making use of sturdy war chariots. Each town boasted a defensive tower capable of sheltering up to 300 people in times of attack. On occasion, they would ally with Ffolk from neighboring kingdoms, notably Corwell.
+
+History
+When King Edwin Carrathal II of Callidyrr died in the, his widow, Queen Eleanor, invited the then-king of Moray, Adom Kimball, to serve as regent of Callidyrr. He thus ruled both Moray and Callidyrr until the .
+
+Northmen tried on many occasions to invade Moray, and one such effort in the 1320s DR was so successful that King Dagdar of Moray required the aid of King Bryon Kendrick of Corwell to repel them.
+
+In the, King Dagdar died while fighting Northmen shortly after hosting Elminster in his kingdom.The timeline that indicates the year of King Dagdar's death in Dragon Magazine Issue #362 contains a contradiction. It states that Dagdar died in 1335 DR and that Elminster visited the Moonshae Isles in 1336 DR, however Elminster met with Dagdar during his visit according to the sourcebook Moonshae. It is possible that the entries for 1335 DR and 1336 DR were reversed.
+
+Dagdar's heir, King Dynnegall, would be the last of their line after he and his children were assassinated in the . They were slain by assassins led by Razfallow on the orders of Cyndre.
+
+Eventually, Moray was incorporated into the United Moonshae Isles in the mid-to-late 14 century DR. Integration and intermarriage between the Ffolk and the Northlanders began to erode many of the differences between these peoples, and efforts by Northlander raiders to clear out the island's monsters brought an influx of Northlander settlers to the kingdom. Much later, following the kingdom's collapse, some would ultimately recollect Moray as a Northlander realm.
+
+Following the rise of the fey of Sarifal on the nearby isle of Gwynneth in the, suspicion and hatred of any and all fey spread in Moray, especially after the fall of Caer Corwell. Around the time of the Spellplague, the humans of Moray hunted down and purged fey, elves, and even dwarves from much of the island. Also during the Spellplague, the Black Blood tribe laid siege to Caer Moray and tore down its walls, seeking to establish a lycanthrope homeland. The Ffolk largely abandoned the island following this conflict.
+
+Inhabitants
+The average cantrev of Moray was home to between 100 and 600 residents, with the exception of the much larger capital at Caer Moray. The Ffolk of Moray were known to be gruffer and more crude than their cousins elsewhere in the Moonshaes. While they were warm and welcoming to friends, they were brutal combatants who were easily provoked to violence and had the strongest morale among any warriors among the Ffolk.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Moonflower inspiration
+
+Moonflower inspiration was an Evermeet warlock spell that allowed the caster to summon shafts of moonlight to heal allies and hamper enemies.
+
+Effects
+The success of this arcane burst spell was determined by the strength of character of the casting warlock. The warlock could choose for each individual enemy a different detrimental effect, which could resisted by a different trait: dazing, resisted by the opponent's will; weakening, resisted by the opponent's fortitude; or immobilizing, resisted by the opponent's reflexes.
+
+Meanwhile, allies in the area around the caster were healed. The strength of the healing depended on the caster's intelligence. When an ally stood long enough next to enemies that had not resisted the negative effects of the spell, they would be healed further.
+
+The spell had a  radius.
+
+Appendix
+References
+
+---
+
+## Moontusk fever
+
+Moontusk fever was a disease spread by wereboars.
+
+Acquisition
+A creature was exposed to moontusk fever if they were gored by an infected wereboar. Wereboars themselves were immune the effects of the disease.
+
+Effects
+The symptoms of moontusk fever only manifested when the infected individual was injured. Early stages of the disease rendered them less resilient in the face of any mental or physical drawback or debilitation. Later stages made it increasingly difficult for them to resist, overcome, or shake-off such challenges.
+
+History
+As of the late 15 century DR, wereboars infected with moontusk fever could be found in the Sword Coast North, the Vast, and among the Black Blood tribe of the Moonshae Isles. They could also be found on the Abeiran continent of Laerakond.
+
+Appendix
+See Also
+ Moon frenzy
+Appearances
+
+References
+
+---
+
+## Monastary Nabbach
+
+Monastary Nabbach was a monastery in Agenais in the Whamite Isles. It was the home of the Monks of Nabbach and a key defense of Inter Agenais in a series of wild conflicts between various nations and pirates of the Whamite Isles at some point prior to the mass death of the population in the .
+
+Appendix
+Appearances
+
+References
 
 ---
 

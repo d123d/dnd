@@ -155,3 +155,399 @@ References
 
 ---
 
+## Szwentil Illeon
+
+Szwentil Illeon was the wealthiest man in Marsember, Cormyr around 1367 DR.
+
+Activities
+He was one of the six founders of the Six Coffers Market Priakos, owner of The Roaring Griffon, and was rumored to be worth over six million gold pieces. He was so wealthy that he was able to buy enough of anything to manufacture a shortage, although he preferred to avoid doing this to remain somewhat anonymous. He was rumored to be involved in smuggling. Szwentil lived in his private residence, Stormwinds Towers, and was always surrounded by bodyguards, including battlemages.
+
+Description
+Szwentil was slim and youthful in appearance, and always dressed neatly in black.
+
+Personality
+Szwentil was set on constructing as many ships and buildings as possible in Sembia, and buying as much land as possible in Cormyr and Sembia, in order to increase his power.
+
+Appendix
+Appearances
+Adventures
+Dungeon #113, "Practical Magic"
+References
+
+---
+
+## Szith Morcane
+
+Szith Morcane was an outpost of the drow city of Maerimydra.
+
+Geography
+Built into the side of a yawning chasm in the Upperdark of the Deep Wastes, Szith Morcane was connected not by streets and caverns but by a vast spider's web that covers the wall. Spun by an enormous spider which laired in the chasm, the drow were careful to only travel on the 'safe' non-sticky strands as they are all too aware that those who get caught in the webbing were prey for the beast. Just above the town resides a drider's lair, where transformed drow who have been outcast from Szith Morcane live.
+
+History
+Established beneath the Dordrien Crypts in 804 DR, Szith Morcane served as a supply station for the dark elves living in Shadowdale, it also functioned as a staging area for raids into Daggerdale. When the drow were driven out of Shadowdale in 906 DR by Ashaba, the inhabitants of Szith Morcane lost interest in the surface world and sealed themselves away from it.
+
+In 1372 DR, during the Silence of Lolth, the last of the Lolth worshipers from destroyed Maerimydra fled to Szith Morcane but were tracked down and killed by cultists of Kiaransalee. Led by Dorina and Zedarr T'sarran, these cultists then reoccupied the outpost with their troops and reopened the connections to the surface. Under the yoke of their new leaders the drow of Szith Morcane began raids anew on Daggerdale, causing Randal Morn to hire a party of adventurers to stop these raids.
+
+After the defeat of the cult of Kiaransalee, Solom Ned'razak took over control of the outpost and permanently seale the Dordrien crypts entrance with a magical barrier.
+
+Over the subsequent years, Szith Morcane's population gradually swelled with drow who had fled Maerimydra. However this ended in 1485 DR when fire giants, under the command of Hledh Hellspawn, marched on the former outpost and took control of it. This resulted in many of the caverns being collapsed and Solom Ned'razak was held captive. Hledh returned to Maerimydra with fresh slaves for the Coliseum and left Captain Fydor in charge of the settlement.
+
+Government
+Szith Morcane was ruled primarily by House Morcane's matron mother. Prior to the Silence of Lolth, it was also home to six influential merchant houses. After the Silence of Lolth, the archmage Solom Nedr'razak became the ruler of Szith Morcane.
+
+Trade
+Although in Szith Morcane's past it was a minor hub of trade in the area, even attracting drow from as far away as Menzoberranzan, after the retreat of Maerimydra's influence on the surface in 906 DR it fell into decline. By 1372 DR, the settlement had become a quiet military outpost, attracting only a few traders from nearby in the Underdark.
+
+Defences
+Despite the presence of a decent-sized garrison and its sizable wizard school, Szith Morcanes unique construction was perhaps its most significant defense. Located on the side of a chasm, the only navigable way around the outpost was along a network of webbing. Any who stray from the few "safe" and non-sticky strands of web fall prey to a fiendish monstrous spider which allowed a dedicated web team to stick to the "safe strands" and patrol the cavern quite effectively. In addition, both the Inverted Tower and House Morcane were protected by powerful magical wards.
+
+Notable locations
+Along with slave caverns, a bazaar area, and well-defended barracks, Szith Morcane boasted other locations of interest.
+Inverted Tower
+ A tower so named for its odd construction of rooms branching off from a single central spire and the small, insular community of wizards who occupied it.
+Fane of Lolth
+ Primary temple to the Spider Queen before its inhabitants were killed by the worshipers of Kiaransalee, which was located in House Morcane. Former High Priestess, Alisannara Morcane, used to lead her priestesses in worship here. Following Hledh Hellspawn's conquest of the outpost, it was converted into a shrine to the patron god of fire giants, Surtur.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Szarkai
+
+Szarkai, meaning "ghost spiders", were albino drow. Although extremely rare and a subject of mystery, they could easily pass as normal elves, making them ideal spies for the drow noble houses, able to operate freely in the surface world.
+
+Description
+As albinos, they had pale, bone-white, or even alabaster-white skin and red eyes, but otherwise appeared as ordinary drow elves in all other respects. Ironically, this meant they resembled many of the surface elf races, and could pass as albino surface elves, and not be suspected as drow.
+
+Many drow thought of szarkai as a separate race, but they were genetically identical, possessing only the traits of albinism. Nevertheless, some had minor deformities, such as a lack of hair, small fangs, or gnarled and claw-like hands, suggesting the popular view had a slight basis in fact.
+
+Abilities
+Szarkai possessed all the same magical powers as ordinary drow, and the same vulnerability to bright light, which was similar to what an albino might normally suffer anyway.
+
+Personality
+Szarkai had much the same inclinations as the rest of their drow kin, being often of a neutral evil bent, but usually possessed more of a cool air and great patience. They were often more skilled at cruel or subtle intrigues.
+
+Combat
+They planned to never get caught up in combat, choosing instead to leave the dirty work to others or simply wait their opponents out. When forced into a fight, their first aim was to escape, as soon as possible. Otherwise, they preferred to eliminate an enemy quickly, quietly, and with no trace of their involvement.
+
+Society
+Szarkai were the result of a very rare mutation, appearing in only 0.01% of the drow population. They were relatively more common among the noble houses than among lower castes, though it was unknown if this was the product of inbreeding or meddling by the goddess Lolth. The birth of a szarkai was viewed as the blessing of Lolth upon a family, and thus they were dubbed szarkai, or "ghost spiders". Other drow looked on them in awe. They were far too valuable to risk in the cutthroat politics of drow society, or to be murdered by chance in the streets.
+
+Thus, their existence was kept a secret from all, known only to the highest-ranking members of a family and those who had a vital need to know. Kept apart from everyday drow life, szarkai were sequestered and lived much safer than many other drow, though no less harsh or corruptive. They tended to receive personal attention and training from the very cruelest of priestesses and the most duplicitous of nobles. Almost from birth, they were trained as spies and saboteurs and readied for a life undercover on the surface, living among elves and in human cities where elves were common, where they could operate without suspicion. When they'd completed their training and had the necessary skills, szarkai were sent on deep-cover, long-term assignments to the surface, to advance the plots of their houses and of the Spider Queen.
+
+Activities
+Szarkai agents might be engaged in simple gathering of information and passing what they learned back to the masters, or in learning the lay of the land and the makeup of local politics. Some might form sleeper cells with the goal of future sabotage or attack. Otherwise, they would be agents provocateur, discreetly manipulating surface-dwellers, turning would-be allies against the drow against one another instead, inflicting sabotage, and keeping communities small and vulnerable. Very rarely did their work involve base assassination, as eliminating single specific persons was inconsequential to drow aims, and it carried too great a risk of discovery. Instead, these szarkai provocateurs had long-term goals, their plans reaching across generations of lesser races, so subtle and stretched so thin as to be undetectable. They might take centuries to come together.
+
+Szarkai provocateurs often trained in areas that would give them skills in scheming and misdirection, following the paths of the bard, cloaked dancer, shadowdancer, and spymaster. Szarkai provocateurs made an effort to avoid liches, finding the undying mages to have a knack for seeing through their disguises and acts and for seeing the full scale of their schemes.
+
+Without the space or resources of their houses in their home cities, szarkai agents on missions had to take all they needed with them. Undercover, they avoided the spider-themed and otherwise frightful accoutrements that drow were known for.
+
+Notable Szarkai
+Darien was a szarkai mage and spy of the Ancient Ones, the drow of Maztica, who was sent to Faerûn to find someone they could use in their efforts to gain control over the cult of Zaltec. In the guise of an albino elf, she found Cordell, and with him founded the Golden Legion, becoming one of his most trusted leaders and his lover. Ten years later, they journeyed west over the seas, discovering Maztica in the Year of the Helm, 1372 DR. With Darien's magic, they defeated the armies of Payit and slew the leader of Kultaka. Finally, in an attack on Nexal, center of worship of Zaltec, Darien slew the ruler Naltecona. However, in the resulting destruction of the city, Lolth turned the Ancient Ones into driders, and Darien into an albino drider, in punishment for their failures.
+
+One of the most infamous szarkai in Faerûn was Irae T'sarran, a noble of House T'sarran and high priestess of Kiaransalee. She conquered the drow city of Maerimydra in the name of her goddess during the silence of Lolth in the Year of Wild Magic, 1372 DR, summoned the Undying Temple to Castle Maerimydra, and commenced a grand ritual to raise an army of revenants to conquer, until finally she was defeated by adventurers.
+
+Appendix
+References
+
+de:Szarkai
+
+---
+
+## Szorak Auzkovyn
+
+Szorak Auzkovyn was a drow priest of Vhaeraun in 1375 DR.
+
+History
+Szorak was a priest from Clan Auzkovyn who joined Malvag's plot.
+
+Szorak tried to attack Eilistraee's shrine in the Forest of Lethyr, but after infiltrating the shrine and subduing a priestess he was killed by behind.
+
+Relationship
+Szorak was the brother of Seyll Auzkovyn.
+
+Appendix
+Appearances
+Novels
+ Sacrifice of the Widow
+
+References
+
+---
+
+## Szant
+
+Szant was a port town of the kingdom of Gontal.
+
+Government
+As of 1479 DR, the Docklord Maerigo Rustal administered the town on behalf of Queen Imreera Hethkantan.
+
+Economy
+Szant was one of the most important ports of Gontal, home to many fishing fleets. Most of the Twelvefold mercantile fleets were also docked in Szant.
+
+History
+Szant was the oldest settlement of Gontal, predating even the foundation of the kingdom as it existed before Laerakond was sent to Toril.
+
+Notable Inhabitants
+ Captain Madwave, owner of the famous Argus Treader.
+ Mortyn Wahrandur, a master surgeon.
+ Nathur Hethkantan, a merchant prince of Szant before 1385 DR.
+
+Appendix
+References
+
+---
+
+## Szuma Li
+
+Szuma Li was a bushido warrior from Chondath.
+
+History
+Szuma Li joined the army of Khan Kertep in 1354 DR because the khan appeared to be chosen by a god and because all his predictions were proved true. However, when in 1358 DR, Kertep's army marched upon the city of Hlath in Chondath, Szuma Li happened to see the khan transforming himself into a horrible jackal-faced demon. Totally shocked, he deserted and escaped. Szuma decided to ally with the defenders of Hlath, telling them all he knew about Kertep's tactics before helping defend the city.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Szordrin Xorlarrin
+
+Szordrin Xorlarrin was a drow of House Xorlarrin and the youngest son of the archmage of Q'Xorlarrin, Tsabrak Xorlarrin.
+
+History
+In 1484 DR, during the War of the Silver Marches, Tsabrak appointed Szordrin to led the orc army that besieged Mithral Hall. Wanting to become a hero, Szordrin instead secretly infiltrated the Keep in order to kill the dwarven king Connerad Brawnanvil.
+
+He used a secret passage to enter the keep with some orc minions but, while exploring a passage, he was discovered and defeated by an adventuring party. Before he could tell much, Szordrin was killed by his magic mask of whispers.
+
+References
+
+---
+
+## Szamaeril
+
+Szamaeril was the leader of the Zhent garrison in Yulash in 1357 DR.
+
+Appendix
+
+References
+
+---
+
+## Szordrin
+
+Szordrin was the manager of Ust Natha's fighting pit, in its central tavern, around 1369 DR.
+
+Description
+The fighting pit manager would make the courageous battle enslaved beasts for the glory of Lolth, and for entertainment. The enslaved beasts were captured during skirmishes in the Underdark tunnels. Szordrin would reward the winners with a sum of gold.
+
+Appendix
+Appearances
+Video games
+ Baldur's Gate II: Shadows of Amn
+References
+
+---
+
+## Szith Morcane Unbound
+
+Szith Morcane Unbound is an adventure module set in the Forgotten Realms using the Dungeons & Dragons 5 edition ruleset. It is part of the Rage of Demons series of adventures published for the D&D Adventurers League. It focuses on Szith Morcane, and is an adventure designed for three to seven 5- to 10-level characters.
+
+Index
+Characters
+Asala • Daitya • Dengor Bloodheart • Grek • Hamadh • Kâras • Keld • Korkan • Messanth • Murssvayas Dhuurniv • Quil’Bryn • Regilastadar • Rilira • Velasta T'sarran
+
+Graz'zt • Solom Ned'razak • Zern Xerkstil
+Creatures
+Azer • Behir • Bronze dragon • Drow • Duergar • Fire giant • Galeb duhr • Hell hound • Helmed horror • Hobgoblin • Human • Mind flayer • Myconid • Quaggoth • Salamander • Shadow dragon • Skeleton • Stone giant
+Locations
+Regions Moonsea • Underdark
+Settlements Szith Morcane
+
+Dalelands • Demonweb Pits • Hillsfar • Maerimydra • Ryxyg • Sporedome
+
+Magic
+Items Ring of protection
+Potions Potion of firebreath • Potion of greater healing
+Spells Alter self • Animate dead • Arcane eye • Banishment • Blade ward • Bless • Chill touch • Cloudkill • Confusion • Contagion • Cure wounds • Dancing lights • Darkness • Detect magic • Dispel magic • Divination • Evard's black tentacles • Faerie fire • Flame strike • Fly • Gaseous form • Gentle repose • Greater invisibility • Greater restoration • Guiding bolt • Gust of wind • Identify • Invisibility • Lesser restoration • Levitate • Lightning bolt • Mage armor • Mage hand • Magic missile • Mending • Minor illusion • Misty step • Passwall • Planar binding • Poison spray • Prayer of healing • Protection from energy • Protection from evil and good • Raise dead • Ray of frost • Remove curse • Revivify • Sacred flame • Sanctuary • Shield • Speak with dead • Spirit guardians • Spiritual weapon • Thaumaturgy • Web • Witch bolt
+
+Fireball • Heat metal • Lightning bolt
+Organizations
+Hidden
+Player Factions  Emerald Enclave • Harpers • Lords' Alliance • Order of the Gauntlet • Zhentarim
+Religions
+Eilistraee • Kiaransalee • Lolth • Skoraeus Stonebones • Surtr • Vhaeraun
+
+Credits
+ D&D Organized Play: Chris Lindsay, Chris Tulach
+ D&D Adventurers League Wizards Team: Chris Lindsay, Adam Lee, Chris Tulach
+ D&D Adventurers League Administrator(s): Claire Hoffman, Robert Adducci, Bill Benham, Travis Woodall, Greg Marks, Alan Patrick
+Appendix
+External Links
+
+ Rage of Demons Adventurer's League
+References
+
+Connections
+
+---
+
+## Szarlnaxi
+
+The Szarlnaxi  coven was a group of Shar-worshiping vampires that laired within Dragonspear Castle during the late 15 century DR. They took their name from Count Voltan Szarlnaxi a Tethyrian noble that brought them altogether in devotion to the Mistress of the Night.
+
+Activities
+They spent the majority of time in their "hybrid" form, humanoids with large leathery wings and features that resembled those of a bat. They only appeared as humans when they were forced to travel through civilized regions of the Western Heartlands.
+
+Base of Operations
+Although they originally hailed from Baldur's Gate, the coven was more recently established within the ruins of Dragonspear Castle. They slept in the keep's northern tower and kept their treasure hidden away in the southern tower.
+
+Unlike other vampires, the Szarlnaxi coven didn't have coffins within which they took refuge in during daylight hours.
+
+Relationships
+Sometime around the, the group came under the influence of the rakshasa Nadir. He forced them to believe he was an "emissary of Shar", sent to be the vessel for the soul of Count Voltan Szarlnaxi after it was released from the portal to the Nine Hells.
+
+History
+Count Szarlnaxi was once an influential and powerful noble within the nation of Tethyr. That changed when he was accused of conspiring against the monarchy and was forced into exile, disappearing into the norther city of Baldur's Gate. Within the city he amassed a small gang of loyal criminals, and together they found a shared connection under the worship of Shar. Even before their transformation, the group began consuming the blood of the city's poor and destitute.
+
+After some time, Tethyrian agents tracked down the count and killed him outright. Szarlnaxi's followers prayed to Shar and drank from his wounds. For their devotion, the gang of thugs were made undead, and transformed into vampires. Unfortunately for them, the newly-formed coven was ousted from the city. They eventually took refuge within the ruins of Dragonspear Castle in the High Moor.
+
+Around the, Nadir lured the Tempuran cleric Darrondar Gweth to Dragonspear. The Szarlnaxi vampires dominated him and imprisoned him within their lair.
+
+Later that year, the gate to Avernus beneath Dragonspear Castle was opened for a brief time. It was believed that the remnants of the Szarlnaxi coven cowered away during this event, and later allied themselves with the death knight Queylar Karrault.
+
+Appendix
+Appearances
+Adventures
+ Ghosts of Dragonspear Castle
+References
+
+---
+
+## Szarr
+
+The Szarr family was a family of Baldur's Gate who were once wealthy merchants and farmers.
+
+History
+This family once held a large area of land in what would become the Tumbledown district of Baldur's Gate's Outer City. However, an unknown rival family trespassed onto their land and killed every member, or so it seemed. Instead of being done with the foul deed, the rivals of the Szarrs would raze their entire estate. After the tragic incident, Tumbledown was filled with fog. In addition, the Outer City expanded over the area, and it would become a large cemetery.
+
+Decades prior to 1482 DR, a portion of the cliffs that surrounded the area fell away. Because of this, part of the family crypts were revealed; graverobbers seized the opportunity to plunder the tombs. Oddly, these crypts would glow green and red. In order to stop the residents plundering the crypts, the Gravemakers was formed. This organization protected the dead and their valuables, though also were tasked with taking down undead, should they spawn. They operated out of the ruined Szarr Mansion in the middle of the graveyard.
+
+In 1492 DR, a coven of vampires was led by the power-obsessed vampire lord patriarch Cazador Szarr. It was unknown how Cazador had survived the massacre of the entire Szarr family and it was also unknown if there were other members of the Szarr family in the coven. One of Cazador's slaves, Astarion reported that he was turned into a vampire spawn almost two centuries prior to 1492 DR. Astarion was later captured by a nautiloid that crashed far to the east of the city, and Cazador sent a Gur to hunt him down.
+
+Rumors & Legends
+It was heavily rumored that Szarr family ghosts stalked the streets of Tumbledown. Some even claimed that the undead family would kidnap folk of the city and murder them outright.
+
+Some residents of Baldur's Gate believed that the ghosts of the Szarr family preyed on the Gravemakers, though others said that they aided them.
+
+Members
+Family Members
+ Cazador Szarr, a vampire and a surviving members of the Szarr family.
+ Vellioth, Cazador's sire.
+ Donnela Szarr, the architect of Tourmaline Depths and the master vampire, succeeded by Vellioth.
+ Amanita Szarr, or "Lady Incognita," a niece of Cazador Szarr, who was turned by him at age 13 and rejected her vampirism, preferring to hide away in the palace and renaming herself Lady Incognita.
+
+Spawn
+ Astarion, a vampire spawn "runt" of the family, often tortured by Cazador and Godey.
+ Antwun Dufay, a human vampire spawn and a chamberlain of Szarr Palace.
+ Aurelia, a tiefling vampire spawn who took charge of the other spawn at times and is fearful of Cazador's wrath.
+ Dalyria, a moon elf vampire spawn and former doctor who sought to cure vampirism at any cost.
+ Leon Onufrio, one of the favorite "children" of the vampire lord.
+ Petras, a human vampire spawn who admired his master and wanted to ascend with him during the Rite of Profane Ascension.
+ Violet, an elven or half-elven vampire spawn.
+ Yousen, a gnome vampire spawn.
+
+Appendix
+Appearances
+Adventures
+
+Baldur's Gate: Descent into Avernus • Murder in Baldur's Gate
+Video Games
+Baldur's Gate III
+
+Idle Champions of the Forgotten Realms
+
+References
+
+---
+
+## Szarr Mansion
+
+Szarr Mansion was a ruined manor in Tumbledown, a district in the Outer City of Baldur's Gate.
+
+Exterior
+The manor was aged and mostly burned due to an arson.
+
+Location
+Szarr Mansion was located in the middle of Cliffside Cemetery.
+
+History
+Centuries ago, a rival merchant family broke in and razed the properties of the Szarr family. Since then, ghosts of the family stalked the halls of the manor. In 1492 DR, the Gravebreakers made this their base.
+
+Appendix
+Appearances
+Adventures
+ Baldur's Gate: Descent into Avernus
+References
+
+---
+
+## Szuszalan
+
+Szuszalan, known as the Warrior Maid, was a veteran former adventurer and later advisor in the settlement of Goldenfields in the Dessarin Valley in the 14 century DR.
+
+History
+In her youth, she was a member of the Circle of Steel, a famous all-female adventuring company. They dared to explore the ruins of Myth Drannor and, most impressively, lived to tell the tale. Szuszalan won her first handful of gold from the adventure.
+
+She later founded another adventuring band, The Company of the Fiery Fane.
+
+In her time, Szuszalan slew an evil dragon and destroyed a vile lich, and she won much treasure over her life. But eventually the gems lost their allure and the gold lost its gleam, and her victories grew dull. In time, she retired from the adventuring life.
+
+In her old age, Szuszalan settled in the Chauntean abbey-town of Goldenfields. She wrote her biography, Walking on a Swordblade, in the . In it, she reflected that it was the companionship and sense of having what was truly hers that she remembered most fondly.
+
+She still lived as of 1372 DR, though at her age few recognized her or linked her to her past exploits.
+
+Relationships
+She was both advisor and friend to Tolgar Anuvien, the cleric of Chauntea and leader of Goldenfields.
+
+Description
+By 1357 DR, Szuszalan was elderly, and even considered a crone.
+
+Works
+ Walking on a Swordblade, written 1352 DR.
+
+Appendix
+References
+
+---
+
+## Szantel's Ropes, Cords, Chains, and Mesh
+
+Szantel's Ropes, Cords, Chains, and Mesh was a shop in the city of Arabel in Cormyr in the late 14 century DR.
+
+Location
+The store was located on the northern side of the High Road where it intersected the East Way and Calantar's Way in the center of the city. It sat directly west of Hawk's Perch Trading House and across the street from the shop of Dazniir Relharphin, the wheelwright.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Szematseen
+
+Szematseen was an upstanding Netherese ranger who helped guard the Netheril Mint in Eileanar until its destruction in .
+
+Activities
+Szematseen worked under Everdingen alongside Fieschi, with the pair serving as Everdingen's lieutenants. Together they commanded the Mint's guards and maintained extremely tight security, with rigorous devotion to the law.
+
+Appendix
+References
+
+---
+

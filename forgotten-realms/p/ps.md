@@ -4,6 +4,48 @@ _Source: forgottenrealms.fandom.com, CC-BY-SA 3.0, dump 2025-10-22._
 
 ---
 
+## Pseudodragon
+
+A pseudodragon was a small dragon-kin known to be playful.
+
+Description
+Pseudodragons typically had bodies about  long, with a  tail and weighed about . They had chameleon-like abilities, though their color was usually a brownish red.
+
+Abilities
+They could communicate telepathically in Common or Draconic and also through the vocalization of animal noises. While pseudodragons could bite, their main weapon was a stinging, poisonous tail.
+
+Ecology
+Behavior
+Their general attitude was similar to that of a small cat but with a cunning intelligence. They were wary of evil beings, but were willing to serve as a companion to another being if treated well and respected.
+
+A pseudodragon often vocalizes animal noises. A rasping purr indicates pleasure, while a hiss means unpleasant surprise. A bird-like chirping represents desire, and a growl always means anger or discontent.
+
+Environment
+In the wild, pseudodragons often seek out quiet places to inhabit such as the hollows of trees and small caves. They are likely to be found in temperate forests.
+
+Significance
+They were sometimes dispatched in times of need by an array of deities including Brandobaris, Erevan Ilesere, Gond, Gwaeron Windstrom, Marthammor Duin, Mystra, and Rillifane Rallathil.
+
+Notable Pseudodragons
+ Purlakhonthiis, the platinum-colored pseudodragon owned by King Haedrak Rhindaun III of Tethyr.
+ Beau, the pseudodragon familiar who rarely left the side of his master, High Marshal Methrammar Aerasumé of the Argent Legion.
+
+Appendix
+
+Appearances
+
+Gallery
+
+Further Reading
+
+External Links
+
+References
+
+Connections
+
+---
+
 ## Psionics
 
 Psionics  was a weird power of the mind wielded by certain monsters and races and by the few individuals who developed it spontaneously as wild talents or cultivated them as psionics-users. Although practiced only rarely, it was known in Faerûn as the Invisible Art and colloquially as mind magic, while less common academic terms included metapsychic and mindfire.
@@ -261,6 +303,170 @@ Connections
 
 ---
 
+## Psionic Power
+
+Psionic Power is a sourcebook for 4-edition  written by Robert J. Schwalb and Ari Marmell published in August, 2010. This book presents psionics in the 4 edition ruleset and provides new archetypal builds for the ardent, battlemind, monk, and psion classes, including new character powers, feats, paragon paths, and epic destinies.
+
+Appendix
+External Links
+
+---
+
+## Psaedros
+
+Psaedros, also known as lepidolite, was a decorative hardstone mostly used for carving.
+
+Description
+Psaedros was a soft mica rock that occurred in colors ranging from pink to mauve to lilac. Over time, its color faded, especially when exposed to sunlight. It was used in low-end carving, like bowls, coffers, and small statues. A typical price was 6 sp per pound or about 2 sp 7 cp per kilogram.
+
+Powers
+A piece of psaedros about the size of hand could be used in place of the fire and holy water components when casting the wind walk spell.
+
+Appendix
+See Also
+ wind walk
+References
+
+---
+
+## Psychokinesis
+
+The psychokinesis discipline of psionics revolved around the manipulation or transformation of matter and energy, described by some as the movement and rearrangement of objects, down to very tiny motes of reality or molecules. Telekinesis was the purest expression of this telekinetic force, with for a time almost all psychokinetic powers requiring it as a prerequisite, but other representative powers included concussion blast, energy current, energy wave, matter agitation, and matter manipulation. Its equivalent among the schools of magic was evocation.
+
+Description
+The displays or "visual effects" given off by many psychokinetic powers were spectacular, going above and beyond the standard displays manifested by powers of other disciplines. This discipline's powers were also noted for being able to inflict devastating harm to opponents.
+
+Creatures that were immune to the effects of evocation magic were likewise immune to psychokinetic powers.
+
+Notable Users
+ Kineticists, also known as savants, psions who chose to specialize in mastery of psychokinesis over all other disciplines. Their specialization in the discipline lead them to accessing psychokinetic powers that were largely unobtainable by other psionics users.
+ Aleithilithos, the amethyst dragon thane of Sardior, whose area of focus was psychokinesis.
+
+Appendix
+See Also
+ Psychokinesis powers
+References
+
+Connections
+
+---
+
+## Psychometabolism
+
+The psychometabolism discipline of psionics revolved around affecting the body, physiobiological transformations of the manifester's own body or creatures near them, altering their physical properties, and psionic healing. Some representative powers of this discipline included biofeedback, complete healing, empathic transfer, fuse flesh, metamorphosis, natural armor, and shadow body. Its equivalent among the schools of magic was transmutation.
+
+Description
+Some psychometabolic powers allowed a manifester to grant themselves natural weaponry, such as bite of the wolf or claws of the bear.
+
+Creatures that were immune to the effects of transmutation magic were likewise immune to psychometabolic powers.
+
+Subdisciplines
+Healing Powers that revolved around undoing harm to a creature's body. Such powers usually paled in comparison to what was possible with divine magic healing spells. For example, a manifester could transfer a subject's injuries to himself with empathic transfer, then heal himself of those transferred injuries through the use of body adjustment.
+
+Notable Users
+ Egoists, psions who chose to specialize in mastery of psychometabolism over all other disciplines. Their specialization in the discipline lead them to accessing psychometabolic powers that were largely unobtainable by other psionics users.
+ Tithonnas, the topaz dragon thane of Sardior, whose area of focus was psychometabolism.
+
+Appendix
+See Also
+ Psychometabolism powers
+References
+
+Connections
+
+---
+
+## Psychoportation
+
+The psychoportation discipline of psionics revolved around the propelling or displacement of objects, the manifester, and other creatures across spaceIn The Complete Psionics Handbook this discipline was described as "...[moving] characters or creatures from one location to another without crossing space", differentiating it from psychokinesis, which was described by the book as moving objects across space. and time. Some representative powers of this discipline included astral projection, dimension door, dream travel, plane shift, teleport, and teleport trigger. Unlike many disciplines, psychoportation had no equivalent among the schools of magic.
+
+Subdisciplines
+Teleportation Powers that instantaneously transported creatures or objects great distances by shuttling them through the Astral Plane. The most potent powers of this subdiscipline allowed a manifester to cross planar boundaries. The process of psionic teleporting was usually instantaneous and one-way, though some powers allowed for two-way travel. Powers under this subdiscipline could be obstructed by anything that could block astral travel, such as the spell dimensional anchor.
+
+Notable Users
+ Nomads, psions who chose to specialize in mastery of telepathy over all other disciplines. Their specialization in the discipline lead them to accessing psychoportive powers that were largely unobtainable by other psionics users.
+ Charisma, the sapphire dragon thane of Sardior, whose area of focus was psychoportation.
+
+Appendix
+See Also
+ Psychoportation powers
+ Teleportation powers
+Notes
+
+References
+
+Connections
+
+---
+
+## Psaltery
+
+A psaltery was a stringed musical instrument, similar to a plucked dulcimer.
+
+Description
+Psalteries were popular in central and northeast Faerûn, among both peasants and nobility.
+
+A variety of psalteries crafted by bards from Selgaunt was available for purchase through Aurora's Whole Realms Catalogue.
+
+Appendix
+External Links
+
+References
+
+---
+
+## Psionics Handbook
+
+The Psionics Handbook was a sourcebook for core 3-edition Dungeons & Dragons by Bruce R. Cordell, detailing the system of psionics.
+
+Contents
+ Introduction
+ Chapter 1: Psionic Classes
+ Chapter 2: Skills
+ Chapter 3: Feats
+ Chapter 4: Psionics
+ Chapter 5: Powers
+ Chapter 6: Characters
+ Chapter 7: Psionic Items
+ Chapter 8: Monsters
+
+Description
+The Psionics Handbook adapted the psionics concept for third edition, with a new emphasis on balance and playability. The book mixed elements from previous versions of the game (such as Power Points from second edition) along with a number of innovations like linking the system closer to the new system of D&D as well as balance changes such as removing the randomness that had characterized the original system.
+
+One of the key innovations was integrating the psionics system into the feats and class system that third edition emphasized. In the earlier editions most characters had a small chance to receive psionic powers as an extra set of abilities; a lucky character could receive powers that were equivalents of magical spells that were not available until mid-to-high levels. In 3.0 characters must take psionic classes or feats to access the abilities forcing a player to forgo other abilities in exchange for psionic powers.
+
+The material in the Psionics Handbook was updated for the 3.5 edition in the Expanded Psionics Handbook.
+
+Index
+Creatures
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Credits
+ Psionic Handbook Design: Bruce R. Cordell
+ Advice, Admonition & Great Ideas: Monte Cook, David Noonan, Jonathan Tweet, Kevin Kulp
+ Additional Advice: Jon Pickens, Ed Stark
+ Editors: Duane Maxwell, Jennifer Clarke Wilkes
+ Creative Director: Ed Stark
+ Project Managers: Justin Ziran
+ Art Director: Dawn Murin
+ Cover Illustration: Arnie Swekel
+ Interior Illustrations: Lars Grant-West, Heather Hudson, David Martin, Wayne Reynolds, Arniel Swekel, Sam Wood
+ Graphic Designers: Sherry Floyd, Sean Glenn
+ Typesetting: Angelika Lokotz
+ Production Manager: Chas Delong
+
+Appendix
+External Links
+
+ Introduction to the Psionics Handbook at Wizards.com
+ Errata
+
+Connections
+
+__NOTOC__
+
+---
+
 ## Psilofyr
 
 Psilofyr was the benign deity and archfey of the myconid race, known most recently as the Carrion King for his philosophy of renewal through decomposition. The enigmatic Lord of Myconids was poorly understood, even by his own people, yet nonetheless a powerful spiritual force and patron power of fungi.
@@ -328,6 +534,496 @@ What was known, was that at some point the Myconid lord taught the myconids how 
 Araumycos, a massive fungus that made up a sizable portion of the Underdark, was believed to be one of his manifestations. Its sentience was questionable and at the very least alien, responding to rapport spores and utilizing psionic abilities but not responding to threats based on their scales and acting randomly. The idea of its sentience was furthered by the attempts of Zuggtmoy to "wed" it, corrupting the giant toadstool with a dark ritual, although their mutual distaste for each other made it even more perplexing. Other scholars question if the real Psilofyr still existed, postulating he was killed by another deity of decomposition. Similar students of the planes believed that he was simply conserving his energy by using only aspects to do his work, so he could undergo a great metamorphosis.
 
 Appendix
+
+References
+
+Connections
+
+---
+
+## Psychic reservoir
+
+A psychic reservoir was an item that was used by a mind flayer to store psionic energy for later use.
+
+Description
+A reservoir looked like illithid mucous that was bound in a clear membrane. It was often mounted on its owner's neck chain.
+
+Recharge
+A reservoir could be recharged with psionic energy. Recharging cost one hour of an illithid's concentration, as well as three times the energy that was stored in the end.
+
+Users
+It was often supplied to illithid sentinels in major tunnels that led into Oryndoll.
+
+Appendix
+References
+
+---
+
+## Psychic sword
+
+A psychic sword was a psionic longsword that was inspired by the githyanki silver swords. It replaced magic with psionics however.
+
+Description
+The blade was dark and inert until it was wielded by a being of intelligence. When that occurred, the psionic circuitry in the sword would glow.
+
+Powers
+Depending on the user's intelligence, the powers of a psychic sword differed and it was likely that different blades provided different powers. Either way, the powers were cumulative:
+ Any blade of this kind acted like a mundane sword to a user who was able to pick up new ideas quickly and learn easily.
+ Such a blade was barely usable to a user who could solve most problems with little effort. It was just easier to hit the wielder's target.
+ A wielder of the blade who was fairly intelligent would find it was even easier to hit one's target, and that the cut bit deeper. Beyond this, while drawn, the sword granted the user non-detection from both magical and psionic means.
+ A genius who wielded the blade would find it even easier to hit their opponent, while cuts were even deeper. The user of the sword was given non-detection and also body equilibrium, which behaved identically to the devotion from the psionic discipline of psychometabolism.
+ A wielder who was highly knowledgeable found that the cuts from the blade went even deeper. The wielder gained non-detection and body equilibrium. On top of this, the blade was able to ignore enchantments half of the time, even from items.
+
+Users
+It was often supplied to illithid sentinels in major tunnels that led into Oryndoll.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Psionic seal
+
+Psionic seals were pieces of psionic circuitry that were placed onto inanimate objects, portable objects and even living creatures. Making one required access to the discipline imprint psionic circuitry and any object that was not designed for it. Psi-sensitive individuals were able to detect the seals.
+
+Powers
+Individual
+Illithids could essentially tattoo a psionic seal onto their body. Seals used in this manner were often beneficial, and copied psionic abilities the illithid could use, but the seal when used did not use any of the illithid's psionic energy. The power imprinted into the seal could be used once per day. An illithid could only get three seals onto itself before the danger of causing a short circuit became too much. Below are some examples of powers an individual could imprint on a seal:
+ It could have the power to heal every 24 hours.
+ It could grant immunity to one attack every 24 hours
+ It allowed illithids to transfer psionic energy between each other, as long as they both possessed a seal.
+ It could reflect 1 spell every week
+ It could grant immunity to normal fire
+ It could cause a haste effect for one third of a minute every 24 hours.
+ It could pierce through a single illusion every 24 hours.
+ It could open most normal locks.
+ It could make the user completely resist a poison once per week.
+ Wearer could get the ability  to detect undead for 360 feet (110 meters) around itself once every 24 hours.
+
+Appendix
+References
+
+---
+
+## Psionic blast
+
+Psionic blast was a psionic power of the telepathy discipline that stunned a foe's mind. It was sometimes called mind blast, and quite dreaded by non-psionic beings, but it was actually unrelated to an illithid's mind blast.
+
+Effects
+Psionic blast emitted a wave of "brain force", originally forming a cone 60 feet (18 meters) long, 5 feet (1.5 meters) at its origin and 2 feet (6 meters) at its limit, later reduced to 30 feet (9 meters). It jolted the minds of those affected, like delivering "shocking news", and later outright blasted their minds as the name said, stunning them for several seconds. After the Year of Wild Magic, 1372 DR, if an experienced manifester spent more psionic energy, they could augment the duration. After the Spellplague of 1385 DR, it emitted a flood of mental energy, in all directions to 25 feet (7.6 meters) dazing and even stunning creatures in the area, but it could not be augmented.
+
+Psionic blast was originally one of the five attacks of psionic combat and was a way of making forced contact. If the mind was already contacted, the target perceived they'd been seriously injured or weakened, and would fall unconscious if they were injured after that, but no real harm was done. It wore off in an hour, when the victim awoke. Later, it either drained the target's mental energy or opened their mind to contact. Against an open mind, it caused actual physical damage. It was the most costly to the user's mental energy, but it was the only one able to target non-psionic creatures, and stunned them. Originally, psionic blast was strongest against the thought shield psionic defense and weakest against the tower of iron will defense, later it was strongest against intellect fortress and weakest against mental barrier, and finally it was strongest against empty mind and weakest against mental barrier again.
+
+Prerequisite Powers
+Early versions required knowledge of mindlink to learn.
+
+Display
+Manifesting the power produced the standard auditory display. The force of the mental attack caused the very air to ripple.
+
+Significance
+"Psionic Blaster" was the title of the first rank of the clergy of Deep Duerra, the duergar goddess of psionics.
+
+The ability to manifest a psionic blast was a requirement for becoming a cognition thief in the Hall of Mental Splendor.
+
+Users
+Psionic blast could be learned by psionicists and psions, as well as by wilders.
+
+It could be known by su-monsters and ikiryo.
+
+In psionics terms, it could also be known by ki-rin, githyanki, and githzerai, and by astral devas, planetars, and solars among aasimon; by pit fiends among baatezu; by babaus, balors, mariliths, and nalfeshnees among tanar'ri; and only by arcanaloths among yugoloths.
+
+Notable Users
+ Araumycos, the enormous fungal growth in the Underdark, was capable of all psionic attacks, but favored mind blast and mind thrust
+ Vhondryl, a psion in Skullport and head of the Hall of Mental Splendor
+ Ryvvik Dlardrageth, daemonfey psionicist and third-in-command of House Dlardrageth
+ Raulothim, the emerald dragon of Ruathym.
+ Bleucorundum, the Sapphire Sentinel, a sapphire dragon.
+ Lugribossk, proxy for the illithid god Ilsensine.
+ Lertis the Seer, priest of Bane
+ Teliene Coloara, an illithid slayer
+ Selinah Varhast, a psychic assassin
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Psychic scream
+
+Psychic scream was a powerful enchantment spell that caused devastating damage to the intellects of multiple creatures.
+
+Effects
+The spell unleashed a violent blast of psionic energy that hit up to ten creatures within a range of . Even creatures with a moderate animal intelligence were susceptible to this effect. In addition to the traumatic damage, the spell also rendered those who could not resist its effect stunned and unable to act for several seconds.
+
+If a creature was killed by the spell, its head exploded (provided it had a head).
+
+Components
+The spell only required a somatic component.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Pseudodragon (spell)
+
+Pseudodragon was a spell that could only be cast by dragons.
+
+Effects
+This spell was similar to the monster summoning spells. A dragon used this spell to summon a number of pseudodragons. The summoned pseudodragons had the same scale color and alignment as the dragon who cast the spell. The pseudodragons displayed total loyalty to the dragon and obeyed its commands. A dragon used this spell to attack an enemy or to have the pseudodragons perform tasks.
+
+If summon to perform tasks, the dragon had to give each pseudodragon a gem with a value of no less than 50 gp before the task was given. If the dragon refused. the pseudodragons instantly returned to where they were summoned from. If summoned to attack an enemy, the dragon had give the pseudodagons at least one body so they could feast upon it, as well as a gemstone. If the dragon consistently refused to pay or even kill the summoned pseudodragons, the spell eventually failed to summon any pseudodragons.
+
+Casting
+The spell required only a verbal component.
+
+Appendix
+References
+
+---
+
+## Psurlon
+
+Psurlons were worm-like aberrations with powerful psionic abilities, who lived in deserts and the deep Underdark, as well as in the Astral Plane.
+
+Description
+Similar to large earthworms, psurlons had long pink tubular bodies with two arms and two legs that were also long and tubular in shape, ending in sharp claws. Their entire bodies were marked with faint rings. In the place of a head, the creature's body ended in a circular maw filled with sharp teeth, surrounded by equally spaced visual organs capable of darkvision.
+
+Psurlons typically wore no clothes, except for belts that served utilitarian or decorative purposes, such as carrying items.
+
+Abilities
+Powerful telepaths, psurlons could communicate with any creature out to a range of . Their innate psionic abilities rendered them immune to effects such as the sleep spell, as well as charm and hold monster effects. Their senses were well adapted to life in the underground darkness, allowing them to perceive vibrations, objects, and creatures out to a range of .
+
+Personality
+Psurlons were naturally distrustful and ill-tempered. Clever, cruel, and deceitful creatures, they hated all humanoids and went to great lengths to kill or drive them away from their domains. They also relished fomenting discord among other peoples, manipulating and deceiving leaders and occasionally helping furthering evil goals.
+
+Combat
+Despite being capable of using their claws and teeth, psurlons were not particularly strong physically, so they relied mostly on their psionic abilities during combat. They were capable of confusing and controlling their opponents via innate abilities such as mind fog, dominate person, suggestion, hold monster, and sleep, among others. More powerful psurlons could also cast disintegrate.
+
+Society
+
+Although typically solitary creatures, psurlons occasionally organized themselves in groups known as "clusters". Living in the deep Underdark, psurlon clusters kept large numbers of psionically dominated slaves and thralls. They were known for convincing goblinoids and gnolls into joining their ranks on occasion.
+
+In the Astral Plane, psurlons waged war against the githyanki for dominance over the plane. They were comparable to the githzerai and mind flayers among the enemies of the githyanki, who kept constant watch against attacks from them in their fortress cities throughout the plane. Psurlons were among the few creatures that were respected by the illithids.
+
+Psurlons were also found on the desert planet Athas, drawn into the planet through the strange environment that surrounded its crystal sphere known as "the Gray".
+
+Psurlon religion paid homage to Mak Thuum Ngatha and shared many of the Far Realm entity's hostile goals towards the Prime Material plane.
+
+Ecology
+There were three varieties of psurlons. The most common were the average psurlons, a few of which evolved into elder psurlons after reaching a certain age. The transformation was typically followed by an increase in psionic prowess. In some cases, average psurlons undergoing the change transformed into giant psurlons instead, gaining immense physical strength, but no new psychic powers. In either case, they lost none of their intelligence and malevolence.
+
+History
+Some sages suggested that psurlons shared a common origin with Tharizdun, together with other extradimensional creatures such as aboleths, cloakers, and grells.
+
+Psurlons originally inhabited a world in the Prime Material plane, where they first developed their psionic abilities to such a level of skill that it made it possible for them to change their own shapes. These initial experiments originated the first giant psurlons, while other transformed psurlons ended up destroying their original homeworld, forcing the survivors to flee into the Astral Plane.
+
+Sometime in the 14 century DR, an army of psurlons attacked and destroyed the githyanki settlement of TorNav'roc in the Astral Plane, near the gateway that led into the plane from the Infinite Staircase.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Psamma
+
+Psamma was a small town found in western Thindol on the Chultan Peninsula.
+
+Geography
+Psamma was located along the southern bank of the River Gur.
+
+Activities
+Psamma was a small and simple trading center. In the, residents of Psamma sunk a new well, revealing a series of underground tunnels that appeared to have been used as tombs by yuan-ti in the past. Explorers retrieved various yuan-ti artifacts, but the officials of Psamma quickly forbade any further delving into the catacombs. Armed guards were stationed at the main entrances, but new yuan-ti artifacts continued to surface from time to time, suggesting that new entrances into the tunnels had been dug.
+
+Appendix
+References
+
+FR:Psamma
+
+---
+
+## Psionic teleport
+
+Psionic teleport, also known simply as teleport, was a psionic science of the psychoportation discipline that allowed a manifester to instantly travel to a safe location.
+
+Effects
+The safe location needed to be a place the manifester knew and was familiar with. This could work even with a place the manifester had only seen with their mind by using other psionic powers. A manifester was able to teleport even if gagged or restrained, so long as they were conscious. A slight audible popping noise occurred when the manifester disappeared and reappeared during the teleportation. The manifester could choose to expend more psychic energy in order to teleport their equipment, or any companions they can grab, up to three times their body mass. Longer distances also required an expenditure of more psychic energy.
+
+Users
+While originally available to all manner of psionicists, in the decades following the Time of Troubles it was found to be exclusive to nomads, psions who specialized in psychoportation, as well as ardents and divine minds who followed the freedom mantle.
+
+This power was also commonly exhibited by couatl and was an innate psionic ability for dhours.
+
+Known/Notable Users
+ K'yorl Odran, a drow psionicist and the matron mother of House Oblodra.
+ Lugribossk, proxy of the illithid god Ilsensine.
+ Vhondryl, a psionicist in Skullport and head of the Hall of Mental Splendor
+
+Appendix
+See Also
+Psionic greater teleport
+Appearances
+
+References
+
+---
+
+## Psalms to the Old Oak
+
+Psalms to the Old Oak was a collection of songs and poems dedicated to Silvanus, the Forest Father.
+
+Description
+Psalms to the Old Oak was a stone tablet, carved with works venerating the druidic deity Silvanus.
+
+Content
+
+History
+In 1492 DR, Psalms to the Old Oak were kept by the druids on the Emerald Grove in the Western Heartlands.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+References
+
+---
+
+## Psi crystal
+
+A psi crystal was purple luminescent crystal that was used to power certain spelljamming vessels. When used by an individual it granted its wielder the power of telepathy.
+
+Powers
+Psi crystals were used to power mind flayer nautiloids. Some pilots of nautiloid spelljammers carried psi crystal detectors aboard their vessels, in case they ever needed to replace one that was lost or shattered.
+
+The range at which the wielder of a psi crystal could use their telepathic power increased depending on their own inherent intellect.
+
+Notable Owners
+ Gim, a spacefaring goblin that stole a psi crystal from crew of the Id Ascendant.
+
+Appendix
+Appearances
+Adventures
+Icewind Dale: Rime of the Frostmaiden
+Organized Play & Licensed Adventures
+Dreams of the Red Wizards (Tears Among the Stars)
+
+Plague of Ancients (Volatile Thoughts)
+References
+
+---
+
+## Pseudo-lich
+
+A pseudo-lich was a form of undead that was superficially very similar to a lich. It was created when a powerful wizard's soul refused to leave their body upon death.
+
+Description
+Pseudo-liches resembled real liches in most respects, although they had not undergone the dark ritual that characterized a lich and therefore did not have a phylactery. Instead, they were animated by an unknown force—perhaps their own will or their intense exposure to magic—that fed off of a goal or obsession they held at the time of their death. A pseudo-lich would crumble to dust upon achieving its goal, or alternatively, its animating force was quite unpredictable and could fail at any time. They could not manage to exist for more than a century at most.
+
+Personality
+A pseudo-lich was fanatically engrossed with whatever goal or research it was pursuing at the time of its death. It was wholly unconcerned with anyone or anything that did not relate to—or impede—its work.
+
+Combat
+A pseudo-lich was a powerful arcane spellcaster and wielded many of the same powers as a true lich, however they lacked both the invincibility that came from having a phylactery as well as the deathly cold and paralyzing touch for which liches were feared. However, like liches they projected an aura of fear and could not be turned, charmed, put to sleep, enfeebled, or polymorphed, nor could they be affected by electricity, extreme cold, or any spells that sought to inflict insanity or instant death.
+
+Society
+Pseudo-liches were unable to pursue true lichdom.
+
+Unlike true liches, they were capable of procreation.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Psychic Spark
+
+Psychic Spark was an amulet that bolstered the spellcasting of the wearer with psychic energy.
+
+Description
+Each gem in the amulet was distinctly warm to the touch. It appeared if each of the gems were poised to ignite.
+
+Powers
+The wearer of Psychic Spark could cast the spell magic missile once per day. It also added an additional missile every time the spell was cast.
+
+History
+As of the, the amulet remained in the possession of Blurg, the orog member of the Society of Brilliance.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Psionic daze
+
+Psionic daze, also known simply as daze, was a psionic power of the telepathy discipline that functioned similarly to the spell daze.
+
+Effects
+This psionic power clouded the mind a single humanoid within a range of  of more, depending upon the experience of the psionic user. While not effectively stunned, still able to move about, the effected creature remained in a dazed state for about six seconds. While normally powerful or strong-minded humanoids were not affected, a psion could push the extent of this power to effect greater foes.
+
+Displays
+When this power was used it manifested a material and mental display.
+
+Users
+This power was knowable by psions and wilders, as well as ardents and divine minds that followed either the Corruption and Madness or Mental Power psionic mantles.
+
+Psionic daze was exhibited as an innate psionic ability by githyanki, githzerai, thought eaters, yuan-ti abominations, halfbloods, and purebloods.
+
+History
+Some time in the late 14 century DR, in The Year of Despair on the Malatran calendar, a group of heroes of the Living Jungle were sent from the Malatran Plateau through an elemental gate to the faraway world of Athas. Immediately upon arrival, the group was captured by elven slavers. A young Athasian thri-kreen named Ka'cha was among creatures captured by the elves, and he lamented being separated from his clutch. Subsequently, the heroes escaped when the elven caravan was attacked by a hungry sink worm. They seized the opportunity and freed Ka'cha, fleeing from their pursuers across the desert.
+
+After two days of travel across the hot sands, guided by Ka'cha, the group stumbled across his tribe, the Windrunners, and their leader, Ki'rik'ku. Ka'cha convinced them that the strange adventurers were friends, not food. Happy with one of their number returned, chief Ki'rik'ku gifted the aliens four large erdlu eggs (an invaluable source of nourishment in the Athasian desert) and two apples of healing. The thri-kreen then explained to the Malatran heroes how to reach the Ringing Forest, which held a way for them to return to Toril.
+
+When the Malatran adventurers eventually reached their destination, a massive oak tree in the Ringing Forest, they encountered a group of thirty Athasian halflings that they mistook for the similarly tattooed and halfling-like shu of Malatra. About half of these halflings exhibited psionic daze as a wild talent.
+
+Appendix
+See Also
+ Brain lock
+ Daze
+Appearances
+
+References
+
+---
+
+## Psionic disintegrate
+
+Psionic disintegrate, also known simply as disintegrate, was a psionic science of the psychokinesis discipline, that reduced a creature or object's makeup on a microscopic level, leaving behind only a trace of fine dust. In the late 14 century DR, this power was reclassified as being part of the psychoportation discipline.
+
+Effects
+Older versions disintegrate allowed a manifester to reduce only  of material at the center of a creature or object down to a scattering of microscopic pieces. Depending on the size of the target, this could prove to be not utter destruction, though for most creatures this would prove fatal. If combined with the power prolong, disintegrate could affect an area of .
+
+When used against a living creature or  undead creatures with free will, the target had to resist the effects of disintegrate as though they were being affected by death magic. If a target managed to resist the power they would experience merely a slight tingle. Additionally, this power could not affect anything protected by inertial barrier or magical forms of shielding, such as minor and standard globe of invulnerability.
+
+Around the late 14 century DR, the nature of disintegrate's effects had changed. When used against creatures it would disintegrate them in their entirety, leaving behind only a pile of fine dust, but when used against an non-living matter it could only effect as much as a  cube of space. It could even effect objects made entirely out of force, though not psionic effects, such as a null psionics field.
+
+The power had a maximum range of . Around the late 14 century DR, this was found to have been reduced to, though depending upon how skilled the manifester was the range was expanded in increments of .
+
+Prerequisites
+Prior to the late 14 century DR, learning this power required a psionicist to first know soften and telekinesis.
+
+Displays
+When used this power manifested auditory, material, and visual displays. This visual display took the form of a thin green ray, similar to the spell of the same name.
+
+Users
+This power was learnable by psionicists and wilders, as well as ardents and divine minds that followed the destruction mantle.
+
+Known/Notable Users
+ The Mind Shard of Pandorym, the imprisoned form of the eponymous elder evil.
+ Raulothim, a great wyrm emerald dragon.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Psi warrior
+
+Psi warriors,Prior to official publication in Tasha's Cauldron of Everything, this subclass was referred to in playtest material as "psychic warrior". also known as a psychic warriors, were individuals that harnessed the power of psionics towards augmenting their martial prowess, becoming formidable combatants of both body and mind. Some considered them to be an archetype of fighter, but their unique mixture of physical and mental training made them a match for most non-psionic fighters, potentially even outclassing them.
+
+Culture
+Psychic warriors, along with soulknives, were the second most commonly encountered form of psionics users in the Realms. Many grew up and trained in the rare secluded psion commune, small communities or societies of similarly discipline-minded individuals, as a child of psion parents that eventually grew dissatisfied with their dictates and chose a more martial path out of a sense of rebellion. Despite this rebellious origin, such psychic warriors maintained deep connections with these communes.
+
+The lives of psychic warriors were defined by self-mastery, personal development, and a drive to achieve martial perfection. In contrast to psions, who focused wholly on their power over the Invisible Art. They emphasized the development of the body in rigorous training, viewing psychic power as a matter of balancing their mental and physical energies.
+
+While some psychic warriors could manage to develop their powers on their own, much like psions the majority of psychic warriors required some form of schooling in order to access and increase their understanding of their psionic abilities, whether under the tutelage of a mentor or at an academy. In the Underdark, academies catering to the path of the psychic warrior could be found among a number of drow cities, such as the martial academy of Melee-Magthere in Menzoberranzan.
+
+Among the greater paths of psionics, psychic warriors were among the most interested in the path of the elocater, and some warriors took interest in the fiery powers of the pyrokineticist. They were unlikely to ever pursue the path of a psion uncarnate, as they were attached to the physical nature of their being, while paths that required intense study like the cerebremancer were equally unappealing to them. Some psychic warriors were so devoted to the ideals of good and righteous that they became wonderworkers.
+
+Among the psionically inclined races of Toril, the path of the psychic warrior was particularly favored among duergars, elans, ghostwise halflings, githyanki, githzerai, half-giants, and thri-kreen. Some could even be found amongst the ranks of mind flayers.
+Alignment
+The alignment of a psychic warrior could fall anywhere within the spectrum, though many tended towards a chaotic outlook, as the training required of a psychic warrior demanded putting equal weight towards what others would consider to be the polar opposites of physical and mental ability. Many were also self-proclaimed to be fearless.
+
+Regions
+In the Underdark, psychic warriors could be found in drow cities, in the mind flayer settlement of Ch'Chitl, and among the githyanki raiders of Gatchorof.
+Religion
+While a great deal of psychic warriors were not particularly religious–the common reliance on their own will tended to make them poor supplicants–those who did favored the worship of deities that were on the chaotic or neutral side of the alignment spectrum. During the time of Jhaamdath, psychic warriors within the empire typically worshiped Auppenser. Later generations of psychic warriors commonly worshiped Sardior.
+
+In the 1370's DR, a small group of psychic warriors at the academy of Melee-Magthere covertly worshiped the god Selvetarm.
+
+Reputation & Relationships
+
+These martial psionicists got along well most other users of the Invisible Art and were considered a welcomed addition to most adventuring companies. Psions particularly got along well with them, the two types often engaging one another with friendly ribbing and rivalry.
+
+Activities
+Many psychic warriors took up the life of an adventurer in search of battle to further their martial skills and treasure from which to acquire better equipment.
+
+Abilities
+The core defining aspect of a psychic warrior was their ability to supplement their strength, martial skills, and fighting styles with psionic powers and extraordinary feats.
+
+In the years following the Second Sundering, the powers of psi warriors began to become more limited, centered around psychokinesis. Their abilities included unleashing telekinetic thrusts, creating protective shields made up of telekinetic force around themselves and others, the power of telekinesis, infusing their weapon strikes with psionic energy, and augmenting their leaps to propel their bodies into the air. And with all the training they did to bolster their minds, psi warriors were resistant to harm from psychic energy.
+
+Possessions
+As the martial masters among psionics users, these fighters could be proficient in all manner of simple and martial weapons, shields, and armors (heavy, light, and medium). The only exception to this prowess was tower shields, which were never wielded by a psychic warrior.
+
+In terms of psionic items, much like psions they were capable of wielding power stones, crystals imprinted with one or more psionic powers.
+
+History
+During the Founding Time, the most incidence of psychic warriors on the planet were in the psiocracy of Jhaamdath, which was ruled by the Bladelords, a council of psions and psychic warriors. Jhaamdathan relics would be gleamed by later generations of the Invisible Art to develop the oldest psionic traditions in recorded history.
+
+In the late 14 century DR, a group of psychic warriors went in search of the fabled alhoon Korid Takazz, but instead encountered the mad lich Zzarka Tuzarr. The group fell before her power, some having their brains devoured, and the rest made into slaves that she would send on a murderous rampage against her enemies.
+
+Notable Psi Warriors
+ Frethen Harmswa, the ruler of the githyanki outpost Gathchorof.
+ Sysalok, a yuan-ti abomination psychic warrior.
+ Teliene Coloara, a drow illithid slayer and psychic warrior.
+ Thurn Blackskull, a duergar psychic warrior and fence who lived in Skullport around 1370 DR.
+ Tyrak, a duergar hermit and psychic warrior who had trained Teliene.
+ Z'dusk, an illithid psychic warrior and scout for the Council of Oryndoll.
+
+Appendix
+Background
+In Dragon #384's article "Debut Commentary: The Battlemind", designer Mike Mearls hints that the battlemind class was inspired by, or an update of, the psychic warrior concept, serving as the martial psionics class of 4 edition.
+Notes
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Psionic mantle
+
+Psionic mantles were psionic distillations of universal concepts or principles, or cosmic "philosophies" as some referred to them, fundamental aspects of reality that were constants throughout the multiverse. Concepts or "philosophies" that transcended emotional, ideological, and physical boundaries, acting as the building blocks of the multiverse. The deities of the multiverse were each associated with mantles, no less than four, that correlated to their divine domains and portfolio.
+
+Much like domains, psionic mantles were the distilled essence of singular aspects of deities,  philosophies and qualities they embodied. And just as each domain had a list of spells particular to it, plus a number of other associated benefits, each mantle was tied to a specific series of psionic powers, thematic to the universal principle, as well as psionic abilities that were unlike anything found among the disciplines. These mantles were the means by which certain enlightened wielders of the Invisible Art, known as ardents and divine minds, derived their abilities.
+
+Practice of Psionic Mantles
+The methods by which to tap into a mantle's reserve of great psionic power differed between ardents and divine minds, with both differing from how clerics and paladins accessed divine domains.
+
+Just as clerics chose two domains at the start of their journey (prior to the Spellplague), ardents chose two psionic mantles. While some were religious and chose mantles corresponding to a god they worshiped, worship was not a requirement for accessing a mantle's power. Their approach bypassed any connection to the divine, whereas clerics and paladins drew directly from a specific deity they devoted themselves to in order to be granted domain prayers. Ardents needed only to recognize a cosmic philosophy, strive to better understand it, and through the strength of their minds master it. An ardent could even follow mantles that were diametrically opposed concepts, such as the good mantle and evil mantle.
+
+In contrast to ardents, divine minds chose one mantle at the start of their journey and were always fervently religious. They shaped their inner power through faith and derived their mantles from a deity they worshiped. And much like paladins with their code of conduct, if a divine mind ever grossly violated the ethics of their deity's alignment, their own convictions would falter and they could lose access to all of the powers granted by their psionic mantle. Only by seeking atonement for their violations could they regain their mantle.
+
+Both differed from clerics and paladins in that they were not divinely inspired. They were more detached from their religions and often times a god would barely be aware of their devotion. And owing to the differing nature of psionics and divine magic, ardents and divine minds never had to prepare their psionic powers, unlike divine spellcasters and their domain prayers, as the powers derived from a mantle were ingrained within a manifester's mind.
+
+Variations
+The Elements mantle stood apart from other mantles, in that its unique power required a manifester to choose one of the four primary elements whenever they were psionically focused – air, earth, fire, or water.
+
+Appendix
+Background
+Mantles were featured in-name-only in 4th edition Dungeons & Dragons as a class feature of the ardent (unrelated to the previously discussed ardent). There the term was used to refer to "emotional states" that an ardent tapped into, rather than "universal concepts".
+
+Gallery
 
 References
 
@@ -447,6 +1143,171 @@ Notes
 
 Background
 Throughout the first three editions of Dungeons & Dragons, as well as the House of Serpents trilogy, the terms "psychic energy", "psionic energy", and "mental energy" were frequently used interchangeably. In terms of how this relates to game mechanics - in 1st edition AD&D, powers were fueled by "psionic strength points". This abbreviated to PSPs in 2nd edition AD&D and introduced the shortened term "power points". This shortened term would then become the standard for the 3rd, v3.5, and 4th editions of D&D. In The Complete Psionics Handbook (p.13) it is stated that psionic energy is measured in PSPs. Through this and other descriptions of psionic powers across the editions, it can be inferred that the aforementioned terms are how "power points" should be understood in-universe.
+Appearances
+
+References
+
+---
+
+## Psionic dimensional anchor
+
+Psionic dimensional anchor, also known simply as dimensional anchor, was a psionic power of the psychoportation discipline that allowed a manifester to disable all manner of extradimensional travel.
+
+Effects
+Psionic dimensional anchor's effects were quite similar to the spell dimensional anchor. It manifested a ray, directed at the manifester's target, who would then be covered in a simmering ectoplasmic film. An affected creature could not use any spells or powers, as well as spell-like or psionic abilities, that granted movement across the planes of existence. This included such spells as astral projection, blink, dimension door, dimension slide, dream walk, ethereal jaunt, etherealness, gate, maze, phase door, plane shift, shadow walk, and teleport.
+
+Psionic dimensional anchor wouldn't interfere with the movement of creatures already in an astral or ethereal form. It didn't prevent astral constructs from dissipating once the astral construct power finished its duration. And it could not block extradimensional perception or forms of attack, such as the petrifying gaze of a basilisk, a creature whose eyes could peer into the astral and ethereal planes.
+
+This power had an effective range of, plus additional increments of  depending upon the skill of the psionics user, and lasted for a duration of 1 or more minutes.
+
+Displays
+When used this power manifested auditory and visual displays, the latter in the form of a slick, translucent ray that fired out of the manifester's outstretched hand.Mechanically this power was only stated to have an "auditory" display, but the flavor text in Psionics Handbook describes a visual display occurring during manifestation.
+
+Significance
+This power could notably protect a target from the effects of baleful teleport.
+
+Users
+This power was largely exclusive to psions who specialized as nomads, though it could also be known by ardents and divine minds that followed the Planes mantle.
+
+Known/Notable Users
+ Miralte, a mul that once met a group of adventurers from Malatra.
+ Raulothim, a great wyrm emerald dragon.
+
+Appendix
+See Also
+ Time/space anchor
+Notes
+
+Appearances
+
+References
+
+---
+
+## Psionic levitate
+
+Psionic levitation, also known as levitation or levitate, was a psionic devotion of the psychokinesis or psychoportation disciplines that allowed a manifester to make themselves float vertically as desired, or in some cases even other willing creatures or objects.When originally presented in 3 edition, levitate allowed for any manifester to move "...another creature, or an object up and down as you wish." When the power was revised for v3.5 edition in Expanded Psionics Handbook, this was changed to being only possible when used by nomads, limiting the target to the manifester themself for all other classes.
+
+Effects
+The psychokinesis version of levitation allowed a manifester to raise themselves vertically by rate of  per second, or  per minute, with no set duration. The manifester could then descend as quickly as they wanted, simply by allowing themselves to fall, and then slowing down as necessary. The power provided no means of horizontal movement, only leaving the manifester to motionlessly hover and drift along with the wind. The manifester could push themselves off of a wall or fixed object to propel their levitating object, but their momentum would not cease until they either lowered themselves to the ground or collided with another object. Additionally, each change in the manifester's direction or speed counted as distinct usages of levitation and drew upon their inner reserve of psychic energy.
+
+While a manifester could easily raise themselves, every additional  added by equipment or clinging passengers, required an additional expenditure of psychic energy. If a manifestation of levitation backfired, the manifester's natural weight would become doubled for the next minute and they would suffer slightly more harm from falling great distances.
+
+The psychoportation version of levitation was largely similar to the spell levitation. However, unlike the spell and much like the psychokinesis version, most manifesters could only target themselves with the power. The only exception to this were nomads, who could target a willing creature or object weighing up to  or more pounds, that were within  or more of them, with higher variables depending upon the nomad's skills. The power had a duration of 10 or more minutes, depending upon the skills of the caster.
+
+Prerequisite Powers
+The psychokinesis version of levitation required the power telekinesis as a prerequisite.
+
+Displays
+The psychoportation version of psionic levitation exhibited an olfactory display when manifesting.
+
+Significance
+When used in conjunction with the powers control wind and project force a manifester could horizontally propel themselves, or a levitated object or creature. Control wind helped by allowing the manifester to determine the direction in which a levitated subject drifted. Project force provided a "wall" that a manifester or affected creature could push themselves off of.
+
+In order to preemptively have levitation ready under certain circumstances, a manifester could use psionic contingency.
+
+Users
+This power was knowable by lurks, psions and psions who specialized as nomads, psychic warriors, and wilders.
+
+It was also commonly known among elder brains, illithids, illithiliches, ulitharids,  and the muls of Athas. And elocaters had an innate psionic ability similar to levitation.
+
+Levitation was exhibited as an innate psionic ability by juvenile or older brainstealer dragons, half-illithids, mindwitnesses, neothelids, opinicus, and temporal filchers, as well as the cloud raysTo different degrees, the cloud ray's 2 edition psionic abilities are retained in its 3 edition iteration. They are detailed in Monster Manual II as having innate levitation and telekinesis abilities, similar to the spells of the same name. and kirre of Athas.
+
+Known/Notable Users
+ Iryxreer Alhixarblot, an alhoon.
+ Lugribossk, a proxy of the illithid god Ilsensine.
+ Ralayn the Occultacle, an alhoon.
+ Wiirlan, an illithid life eater.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Psicrown
+
+Psicrowns were psionically charged headbands that granted their wearers several psionic powers.
+
+Description
+The average psicrown was large enough to fit the heads of demihumans, humans, and similarly sized creatures. Their designs varied, with some resembling an actual heavily adorned crown or circlet, whilst others were simple headbands with a crystal centerpiece, but regardless of shape they always weighed less than . They could be constructed of potentially any material, including psionically reinforced silk, but most were composed of metals. The adornments on any given psicrown could be reflective of their epithet and suite of powers, such as the psicrown of the beast, which was adorned with a collection of bear claws and snake fangs.
+
+Abilities
+Psicrowns was activated in a method similar to dorjes, requiring special knowledge of a power manifestation and the formation of a proper command thought. This meant a wearer could not use powers that were unavailable to their path of psionics, such as a wilder trying to use a psychic warrior power.
+
+When activating a psicrown, mental energy stored within it was used to fuel any one of its powers, rather than drawing upon the manifester's own internal store of mental energy. Unlike with other psionic items, a wearer could draw upon their own mental acuity for a power if it was greater than the psicrown's own degree of psionic strength, making these items more potent in the hands of powerful manifesters. Additionally, powers manifested by a psicrown were harder to dispel and had better odds of overcoming psychic resistances.
+
+Varieties
+Unlike dorjes, psicrowns came in wholly distinct types with specific bundles of powers, distinguished by an epithet, and thus likewise varied in market value. For example, a psicrown of the beast stored the powers claw of energy, duodimensional claw, prevenom, psionic lion's charge, and truevenom.
+
+Creation
+Crafting a psicrown required appropriate materials, such as a crown or circlet, and knowing the powers to be imprinted upon it or have some alternative form of access to those powers.
+
+Notable Users
+ The Kaliesh'erai, a psionic elven organization, kept a number of powerful psicrowns within the subbasement vaults of their hall in Evereska.
+
+Appendix
+References
+
+---
+
+## Psychic chirurgery
+
+Psychic chirurgery, also known as psychic surgery, was a very potent psionic science of the telepathy discipline that primarily allowed a manifester to radically repair almost any sort of harm, distress, or defects within a creature's mind. A manifester could even operate on themselves if need be, though it was a more difficult procedure. Those who used the power were sometimes referred to as psychic surgeons.
+
+Effects
+Psychic chirurgery granted a manifester the power to treat and cure all manner of psychic (i.e. mental) ailments, including aversions, idiocy, comas, phobias, seizures, paranoia, all forms of insanity. It could also cure mundane mental conditions induced by spells, such as descent into madness and programmed amnesia. Restore mental energy that was lost by consumption from a creature, such as a thought eater. Remove temporary ability handicaps. And remove any instantaneous or permanent effect that was caused by a psionic power. These effects would be negated as soon as psychic chirurgery was manifested. Some examples included the following:
+
+ Any compulsions and charms affecting the subject, such as crisis of breath or death urge.
+ Undo the loss of powers from apopsi.
+ Could negate incarnate.
+ Undo madness caused by the power insanity.
+ Undo the effects of microcosm.
+ Remove an implanted mind seed.
+ Undo the deleterious effects of excessive depletion from psychic drain.
+ Reverse the complete loss of psionic powers from ultrablast.
+
+The power was, however, incapable of treating curses, magical conditions, geases, and charms.
+
+Additional Applications
+Psychic surgery had a number of additional applications. The first was to help non-psionicts unleash their innate psionic potential, making them wild talents.
+
+The second was making the effects of telepathic powers permanent without any upkeep of psionic energy or to remove such implanted effects. There were a number of limitations to this, however: this could only be done to powers that otherwise needed to be maintained, could only be done to powers that had a range beyond mere touch, the surgeon had to know the power in question, and a surgeon could not conduct this kind of operation upon themselves, nor other psionicists.
+
+It couldn't be used to cure someone of possession, but it could confirm if someone was being possessed. The manifester could then try to force the possessing entity into psionic combat. In the case of psionically weak entities, this could cause them to flee the possessed.
+
+They could be used to remove crystal masks from a creature.
+
+If used in conjunction with probe, psychic surgery could trigger elements of a thri-kreen's racial memory, flooding their mind with information. However, this procedure was not undertaken lightly as it could prove hazardous.
+
+Later versions of this power allowed a manifester to directly transfer their knowledge of a psionic power to another psionic user.
+
+Prerequisite Powers
+In order to use this power a psionicist first had to know contact and mindlink, though some sources said only knowing mindlink was necessary.
+
+Displays
+When manifested psychic chirurgery gave off auditory, mental, and visual displays.
+
+Significance
+A similar, through far cruder telepathic power, was mindwipe, whose deleterious effects upon the mind could be restored using psychic surgery.
+
+This power was notably a pre-requisite for aura alteration and split personality.
+
+Users
+This power was largely exclusively to psions who specialized as telepaths, though it was also found to be knowable by sangehirns.
+
+Psychic surgery was exhibited as an innate power by amethyst dragons, elder brains, and pyreens. The latter were an ancient and mysterious humanoid race of psionicists native to the desert world of Athas.
+
+Known/Notable Users
+ The Mind Shard of Pandorym, the imprisoned form of the eponymous elder evil.
+ Nar'Lheeth, an illithid of the Tamer Creed in the city of Nar'Vheen.
+
+Appendix
+Notes
+
 Appearances
 
 References

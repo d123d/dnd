@@ -75,3 +75,112 @@ Connections
 
 ---
 
+## Fflar Melruth
+
+Fflar Starbrow Melruth, known posthumously as the Captain of True Valor, was a captain of the Akh'Velahr who served the city of Myth Drannor for half a century in the late 7th and early 8 centuries DR. He famously sacrificed his life in defense of his home city—earning himself a place in Myth Drannan legend. He was resurrected hundreds of years later to serve Myth Drannor once again, when terrible fiends threatened all of elven-kind in the late 14 century. Fflar protected his restored home for several generations, having been given a second chance at a peaceful existence among the Tel-quessir.
+
+Description
+Fflar was tall with broad shoulders, with russet hair and a broad, handsome face. He wore his hair in a braid. He had a grim-sounding voice.
+
+Possessions
+
+Captain Fflar armored himself with a lacquered breastplate, a golden helm, and a stout kite shield.
+
+For a period of 19 days at the end of the Weeping War Fflar carried the elven baneblade Keryvian, also known as Foebane, that was sheathed within an enchanted scabbard.
+
+Relationships
+During his time as a captain of the Akh'Velahr, Fflar was served well by his loyal lieutenant Elkhazel Miritar.
+
+Fflar was married to Sorenna Alydyrrin at the age of 80, and together the two had a son named Arafel; both fled the besieged Myth Drannor before the city fell.
+
+After his resurrection, Fflar rode atop a roan-coated stallion by the name of Thunder.
+
+History
+
+Fflar was born in Myth Drannor in the . As a young elf in his first century of life, Fflar was already an incredibly skilled warrior, and was named a captain in the Cormanthyrean Akh'Velahr.
+
+When Coronal Eltargrim Irithyl passed on to Arvandor in the, the city of Myth Drannor entered into a collective time of sorrow, known as the Mourning Days. After the untimely death of Etargrim's daughter two years later, a Claiming Ceremony was held to determine the next coronal. Absolute chaos broke out in the city. Alongside the Arms-Major, the young Captain Fflar did his best to maintain order, but the city only came to peace upon the intervention of the legendary Srinshee.
+
+Fflar married his first wife Sorenna in the, but briefly left Myth Drannor sometime after their marriage. to train elves at the School of Arms in Semberholme. Over the course of eight years, he gained a reputation as one of the school's finest martial instructors. Fflar eventually returned home to Myth Drannor, to attend Sorenna as she gave birth to their first and only child, Arafel.According to Cormanthyr: Empire of the Elves, Captain Fflar returned home to attend his wife in 335 DR. This date was later retconned to a later date in the novel Final Gate, as the timeline of Fflar's life was expanded upon.
+
+Weeping War
+Fflar was one of one of several valiant elves who famously defended the city of Myth Drannor in the Weeping War, fought against the fiendish Army of Darkness and culminating in the . During the Battle of Crownfrost Capture, the last major engagement of the war, Fflar led some 400 elves in a successful retreat, ensuring that one third of the army survived its defeat. Arms-Major Olortynnal fell in that battle and it was said that his spirit lived on in Fflar after he took up Olortynnal's blade, Keryvian.
+
+Fflar rallied what was left of the Akh’Velahr to make a last stand against the Army of Darkness as the beleaguered city was evacuated. He fought on as his forces dwindled. The conflict escalated to the Banes' Duel between the remnants of Myth Drannor's forces and those commanded by the supreme commander of the Army of Darkness, nycaloth general, Aulmpiter. The battle raged for two days before the two generals faced off against each other in single combat. Fflar and Aulmpiter slew each other on Flamerule 15, after which the last of the city’s defenders were slain defending the portals being used in the retreat to Semberholme as the city finally fell. Fflar's soul made its way to the elven afterlife in Arvandor. Some reports say that Fflar's body was never recovered or was destroyed outright, while other accounts state he was buried in the Warrior's Tomb outside Myth Drannor.
+
+Afterlife & Resurrection
+
+Although he had departed for Arvandor, the ghost of Fflar Starbrow remained on Toril, haunting the north center of the second floor of the Warrior's Tomb. Unfortunately, he wasn't aware of his undead, ghostly state. Fflar mistook anyone who ventured into the tomb as an intruder, and attacked them, unless he was given direct proof that he had perished.
+
+On Ches 20 of the, 666 years after the fall of Myth Drannor, Fflar Starbrow Melruth was resurrected by Seiveril Miritar. Captain Fflar was needed so that he could take up Keryvian in battle against the daemonfey assault on Evereska and other elven cities of Faerûn.
+
+It was during that conflict that the resurrected elven warrior met and joined forces with Araevin Teshurr, Ilsevele Miritar, and other heroes in the Elven Crusade. In a brief reprieve during the fighting, Fflar found some time to mourn his long-dead wife Sorenna.
+
+The leaders of the Elven Crusade. Fflar included, were instrumental in the defeat of the daemonfey and the reestablishment of the realm of Cormanthyr. These events also led to the eventual betrothal of Fflar and Ilsevele Miritar, ending her previous betrothal to Araevin Teshurr.
+
+Commander of Myth Drannor
+
+In his second life, Fflar valiantly served as High Captain and commander of the army of restored Myth Drannor.
+
+In the, the flying capital of the returned Empire of Netheril―Thultanthar, known as Shade―loomed over Myth Drannor. Its dark arcanists sought to siphon away the magic of the city's mythal for their own ends. Numerous battles broke out as the Netherese forces and their mercenary armies assailed the free people of Myth Drannor.
+
+High Captain Fflar led the charge, taking on any allies that would come to the city's defense. In one battle, Fflar and Coronal Ilsevele stood against a contingent of Sembian mercenaries, along with a few brave elven knights, having ordered most of their soldiers to reinforce another of the city's wards. Fflar was spared a second death defending his city, when he, Ilsevele, and what remained of their people were magically portalled away from Myth Drannor to Semberholme by the Srinshee, moments before Thultanthar came crashing down atop Myth Drannor, destroying the city for a second time.
+
+Rumors & Legends
+Skilled students of the School of Arms in Semberholme were referred to as "Fflarrens", a tribute to the captain's career as a martial instructor.
+
+Following his death in the Weeping War, the true identity of Fflar Starbrow Melruth became lost to the ages. Some tales told of a stalwart human paladin who slew the nycaloth general of the Army of Darkness, while others insisted he was a half-elven ranger, or an elven bladesinger. At least one legend maintained that Fflar slew Aulmpiter with his bare hands.
+
+Appendix
+Notes
+
+Gallery
+
+Appearances
+Novels
+The Last Mythal (Forsaken House • Farthest Reach • Final Gate) • The Herald
+Video Games
+Eye of the Beholder III: Assault on Myth Drannor
+
+Baldur's Gate II: Throne of Bhaal
+
+References
+
+---
+
+## Fflarast Blackriver
+
+Fflarast Blackriver was a Zhentilar soldier.
+
+History
+Fflarast was one of the soldiers of the contingent led by Swordlord Amglar.
+
+On Flamerule 17 of 1358 DR, he was sent together with Baeremuth Asanter to find a secret route to enter Mistledale. However, Baeremuth was killed by a trap that caused a landslip . He went back to report to his superior Pelaeron about the possibility of traps but another trap destroyed the command post, killing Pelaeron.
+
+Fflarast survived and found a large cave system. Soon ore Zhentilar soldiers and the Zhentarim high wizard Nentor Thuldoum arrived to explore the area. However, once again, a trap killed them all and only Fflarast survived, while Nentor teleported himself away.
+
+At last, during the main battle between the Zhent army and the defenders of Mistledale, Fflarast died killing an old Harper.
+
+Appendix
+Appearances
+All Shadows Fled
+
+References
+
+---
+
+## Fflaerin Goloda
+
+Fflaerin Golada was a businessperson inhabiting Tulmon in the Land of the Lions region of south Faerûn during the mid-to-late 14 century DR.
+
+Activities
+Fflaerin founded a business and factory called the House of Goloda known for its delicious Golada's Fish Spread which was quite popular among the populace of the Arnaden.
+
+Relationships
+Upon his death, Fflaerin's wife Hegleira inherited the family business.
+
+Appendix
+References
+
+---
+

@@ -187,9 +187,1522 @@ Connections
 
 ---
 
+## Obould
+
+King Obould I Many-Arrows, was an orc king in the mid–14 century DR and later an exarch of Gruumsh.
+
+Personality
+Obould was a large orc who was intelligent even by human standards. Considering that the blessings bestowed upon him calmed him somewhat, he became able to see things in a far broader perspective than any orc before him. This led to a change in orcish society under his leadership and the founding of Many-Arrows.
+
+Relations
+Obould was known to have four wives and at least eight sons. It was said his only fear was that when he died his sons would destroy all he had created in their fight to succeed him.
+
+Six of his known sons were:
+ Araug
+ Kroll
+ Brymoel
+ Scrauth
+ Urlgen Threefist
+ Ugreth
+
+Possessions
+As a mortal, Obould was known to wear a ridged suit of black plate armor that was adorned with numerous spikes and decorations. Obould was also known to own a set of magical boots, which enabled him to leave no tracks in the snow, walk on ice without slipping, and endure the coldest blizzard without harm. In battle, he used a magical greatsword enchanted to catch fire at will. His black iron crown had four large rubies set into it, each of which could generate a large fireball. His main shaman and adviser, Arganth Snarrl, also made him a helmet shaped like a skull with a protective lens of the rare glassteel.
+
+History
+Obould was the king of the orcs of the Citadel of Many Arrows in 1367 DR. He lost this city when an orc horde led by King Greneire attacked the Citadel in the summer of that year. Though the horde had more than three times the number of orcs that Obould commanded, the Citadel held until Uktar, when Greneire's forces broke through the gates. Obould managed to slay Greneire in single combat but fled the battle due to grievous wounds suffered in the fighting. The Citadel was then lost when Clan Warcrown and troops from Silverymoon arrived to rout the exhausted survivors.
+
+Obould retreated to Dark Arrow Keep, where he plotted his return to the Marches whilst building a new horde. Infighting was rife in the Keep though and seven of his eight sons plotted against him. Three of them, Scrauth, Araug, and Brymoel, had the gall to do so openly! All the while, Obould plotted to sweep back down south, reclaim the Citadel of Many Arrows, and from there conquer Silverymoon. After that, his plan was to conquer all of the lands north of the Rauvin to create the empire of Obouldar.
+
+Eventually, the murmuring of his troops about his apparent weakness was too much for him. In a rage, he put his plans into action, quite possibly killing the sons who plotted against him and realizing his goal of uniting most of the orc tribes in the Spine of the World, also forging an alliance with Gerti Orelsdottr. He tested his army against the human settlement of Shallows and, despite many setbacks his forces easily won the day.
+
+During the assault on Shallows, the dwarf Pikel Bouldershoulder used his druidic power to build a false statue of Gruumsh to rescue King Bruenor Battlehammer, who was at Shallows, and attack the orcs.
+
+During his next assault, this time on the dwarven settlement of Mithral Hall, he underwent a religious ceremony where he was blessed by the orc god Gruumsh, which gave him greater strength, speed, and intelligence (the strength of a bull and the speed of a wildcat), and made his name synonymous with that of the orc god. He became commonly referred to by other orcs as "Obould-Who-Is-Gruumsh". Something changed within him though, and a desire for peace became gradually more apparent, much to the displeasure of many of his followers.
+
+Obould's son, Urlgen Threefist, who was Obould's top commander, was slain in combat by the moon elf Innovindil.
+
+During the fighting, Obould battled Drizzt Do'Urden twice. Obould won the first fight due only to his indestructible armor. The two fought again near the end, but the battle was interrupted before a clear victor could be determined. Worthy of note is that Obould caught Drizzt in his signature maneuver, and would have killed him if not for an enchantment from the drow priestess Kaer'lic Suun Wett that destroyed Obould's armor and prevented him from finishing the killing strike.
+
+However, Obould's loss did not cause him to reject an offer made by King Bruenor Battlehammer to agree to a truce and sign the Treaty of Garumn's Gorge, which helped establish the borders of a new orc realm that would come to be called the Kingdom of Many-Arrows.
+
+Obould remained at peace with—and was an occasional ally of—--Mithral Hall. Obould Many-Arrows died peacefully of old age in comfort in 1409 DR. Upon his death, Obould was raised by Gruumsh to godhood as an exarch in Nishrek. His legacy on Toril remained behind however and by 1479 DR Many-Arrows had established itself as a major power in the North.
+
+Appendix
+
+Appearances
+
+References
+
+Sources
+
+Connections
+
+---
+
+## Obarskyr
+
+Obarskyr was the royal house of Cormyr.
+
+History
+The Obarskyr family originally rose to prominence in Impiltur as a mercenary company.
+
+One member of the family, Ondeth, fleeing the political situation and plague in his homeland, took his wife and two sons to a forest to the west of Marsember known as the Wolf Woods in the, and built a settlement. More men joined him and when the elves in the region realized they could not contain the growing number of humans invading the land they chose Ondeth to attempt to bring peace and slow down the settlement's expansion. When Ondeth died, his son Faerlthann became the first king of the realm that the elves and Ondeth had created. In the  (year 1 of Cormyr Reckoning), Cormyr was born.
+
+Members
+ King Foril I, son of Azoun V and Nalara Marliir ruler of Cormyr in the 15-century DR.
+ Erzoured, illegitimate son of Prince Emvar and Solatha, a merchant's daughter, and Count of Dhedluk.
+ Prince Irvel, the crown prince of Cormyr and son of King Foril and Queen Jemra.
+ Princess Ospra Goldfeather, the wife of Prince Irvel and mother of his two children.
+ Prince Baerovus, the son of Prince Irvel and Ospra Goldfeather, second-in-line to the throne.
+ Princess Raedra, the daughter and youngest child of Prince Irvel and Ospra Goldfeather.
+ Prince Faerlthind Obarskyr, son of King Irbruin Obarskyr. Killed with his father.
+ Alusair Obarskyr, younger daughter of Azoun IV, later Steel Regent for Azoun V, her nephew.
+ Filfaeril Obarskyr, wife of Azoun IV.
+ Tanalasta eldest daughter of Azoun IV.
+ Duke Bhereu, cousin to Azoun IV.
+ Baron Thomdor, cousin to Azoun IV.
+ Ondeth, father to the first king of Cormyr.
+ Suzara, wife of Ondeth.
+ Villiam, brother of Ondeth.
+ Andar, brother of Ondeth.
+ Rhiiman, younger son of Ondeth and brother of Faerlthann.
+ Medaly, daughter of Villiam.
+ King Anglond, married to Eleriel.
+ King Azoun I, son of Anglond.
+ King Duar, married to Daverna Turcassan, Threena Cormaeril, and Jhanthyl Lagarr.
+ Tanalar, second child of Galaghard.
+ Princess Kathla, daughter and third child of Galaghard.
+ King Palaghard I, married to the warrior queen Enchara of Esparin.
+ Amble, cousin to King Pryntaler.
+ Prosler, eldest son of Dhalmass and Jhalass, brother to Palaghard II.
+ Ellira, daughter of Dhalmass and Jhalass, sister to Palaghard II.
+ Pelarra, daughter of Dhalmass and Jhalass, sister to Palaghard II, married Myrton Ammaeth.
+ Lhannas, eldest child of Palaghard II and Alendue.
+ King Azoun III, son of Palaghard II and Alendue, married Sulesta Halabarr.
+ Regent/King Salember, son of Palaghard II and Alendue, brother to Azoun III and uncle to Rhigaerd II.
+ Gaspar, son of Pelarra and Myrton Ammaeth, first cousin to Azoun III, married Sulaspra Delzud.
+ King Rhigaerd II, son of Azoun III and Sulesta, married Tanalusta Truesilver.
+ Elduss, son of Gaspar and Sulaspra, married to Tannaeth Rowanmantle, father of Bhereu and Thomdor.
+ Princess Sulesta, elder sister of Azoun, daughter of Rhigaerd II.
+ Foril, son and first child of Azoun IV and Filfaeril, killed by an assassin.
+ King Azoun IV, 71 of the Obarskyr line, second child of Rhigaerd II and grandson of Damia Truesilver.
+ Prince Emvar, killed in a Sembian ambush.
+ Queen Jemra Rhindaun, the niece of Queen Sybille of Tethyr, wife to King Foril, and mother of Prince Irvel.
+ King Azoun V, son of Princess Tanalasta and Rowen Cormaeril.
+
+Family Tree
+
+Appendix
+See Also
+ Azoun Obarskyr IV
+ Alusair Obarskyr
+External Links
+
+References
+
+Connections
+
+---
+
+## Obadai
+
+Obadai was the progenitor of the stone giant race.
+
+Description
+As sage of the stone giant kingdom of Ostoria, Obadai wore many-jeweled rings and a gilded crown. He fought with a powerful ancient weapon.
+
+Possessions
+Obadai's crown had the magical power to create undead.
+
+Relationships
+Obadai was one of the many terrestrial sons of Annam All-Father and his wife Othea. His many siblings were his elder brothers Lanaxis, Vilmos, Nicias, Masud, Ottar, his younger brothers Ruk, Vilmos, and Arno and Julian, and his youngest brother, known as Hartkiller. He had a half-brother through his mother named Dunmore, as well as three other half-brothers through his mother whose names are forgotten to history. Through his father, he was half-sibling to the giant gods Stronmaus, Hiatea, Grolantor, Iallanis, Memnor, and Skoraeus. He was likely related to the gods Surtr and Thrym as well.
+
+Obadai was the father of at least two sons, the second of which was named Illsenstaad.
+
+History
+Obadai was born sometime around . When he and his terrestrial brothers came of age, Obadai's father, Annam, granted each of them an inheritance in the great giant empire of Ostoria. Obadai laid claim to the caverns of the Underdark, ruling as sage, and his offspring became the stone giant people.
+
+At some point Obadai charged his second son, Illsenstaad, with the task of documenting both the tangible and religious history of the giant race. Over time this culminated in the temple of Hotun-Shûl.
+
+One of the carvings within Hotun-Shûl detailed an incident in which Obadai instructed a group of stone giants to contemplate the surface world and all that laid within it. This is believed to have taken place at what would one day become the Seven Stones.
+
+After many millennia, it was revealed that Obadai's mother had had an affair with the sea god Ulutiu and that his younger brother Dunmore was probably not a full brother. After Ulutiu's amulet caused the Great Glacier and the Endless Ice Sea to form, Obadai and his brothers soon discovered a way to halt the amulet's magic; however, they were forbidden from doing so by their mother. Lanaxis, Obadai' oldest brother and leader of all of them, summoned them all together for a meeting in Voninheim. There Lanaxis planned to murder his mother by poisoning the waters of the Well of Health, but he accidentally poisoned not only Othea but also Obadai and all of his other brothers except Arno and Julian and Dunmore.
+
+Obadai and all his poisoned brothers were buried in drumlins outside of Voninheim. There Obadai's body lay for about 3,000 years until 1369 DR, when the firbolg Tavis Burdun unveiled the Twilight Vale and challenged Lanaxis. Lanaxis used powerful magic to reanimate Obadai's corpse as a zombie, and he did the same with all of the other giant brothers. The undead giant kings attacked Tavis with the full fury of their magics, but Tavis and his companions were protected by Annam's axe Sky Cleaver. Tavis then used the magic of Sky Cleaver to reveal to each brother, even in their undeath, that Lanaxis had betrayed them. After Ottar, Obadai was the second undead giant to understand the treachery. He and the other dead giants turned and charged at Lanaxis instead, but Lanaxis created a magic shield to protect the portico from their onslaught. Nicias eventually broke through the shield with his morning star, but then Lanaxis killed each of them a second time with his sword. Obadai fell after his brother Masud and before Vilmos.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Obsidian Ridge (novel)
+
+Obsidian Ridge by Jess Lebow is the second book in the The Citadels series.
+
+Synopsis
+The Year of the Leaping Frog
+Somewhere over Calimshan in, a princess is taken before Arch Magus Xeries, master of Obsidian Ridge, He offers her whatever she desires if she will stay with him.
+
+The Year of the Staff
+One hundred years later in the city of Llorbauth, capital of Erlkazar, a figure known as the Claw assassinates a man named Jallal Tasca—who was planning to assassinate King Korox Morkann—and takes his brother Pello Tasca prisoner. Both men were also involved in the illicit trade of the magical drug Elixir. Pello is brought before the king, and the Claw tells the king that he will continue investigating.
+
+The next morning, the king summons his daughter back to the throne room. When Mariko is gone, her handmaiden, Genevie, snoops through her things. Pello is sentenced to life imprisonment in the Cellar.
+
+That night, the princess and the Claw have a clandestine meeting in the palace courtyard. The princess is secretly followed by a mysterious figure. All three are, in turn, observed my another enigmatic man in a wide-brimmed hat. This latter man follows the princess and the other figure into the city, where the figure loses track of the princess's movements and returns to a building in the docks.
+
+Index
+
+Characters
+
+Classes
+
+Creatures
+
+Deities
+
+Items
+
+Locations
+
+Miscellaneous
+
+Organizations
+
+Spells
+
+Weapons
+
+Errata
+ The "Erlkazar & Folk of Intrigue" booklet of the Lands of Intrigue boxed set claims that King Valon Morkann died in . However, the novel is set in that same year, in the Spring, and states that Valon had died in the previous year.
+
+Appendix
+
+Gallery
+
+References
+
+---
+
+## Obould XVII
+
+King Obould XVII was the seventeenth king of the Obould dynasty, ruling over the orc kingdom of Many-Arrows in the Silver Marches in the 1470s and early 1480s DR. He reigned from Dark Arrow Keep.
+
+History
+
+Obould XVII's reign was strong around 1479 DR. At the time, he sent forces to investigate options in the city of Neverwinter. However, the lieutenant he sent to achieve this, a power-hungry orc named Vansi, allied herself with the Abolethic Sovereignty and rather than reporting back to her king, risked turning herself and her warriors into pawns.
+
+In the, after the Darkening, Obould started to lose control of his chieftains. Soon after, under the orders of Tiago Baenre and Ravel Xorlarrin, he was killed by the drow assassin Belween, who'd disguised himself as the orc prince Lorgru, who had been kidnapped previously.
+
+Activities
+As with all his predecessors, Obould XVII inflicted lethal punishments on unruly chieftains. They were sent to battle in the Pit in Dark Arrow Keep; while survival would receive a pardon, Obould XVII gave a slow-acting poison to those he especially wanted to be rid of.
+
+Appendix
+
+References
+
+Further Reading
+
+---
+
+## Obscuring mist
+
+Obscuring mist was a conjuration spell that caused fog to form around the caster. The druid evocation could be used at a range from the caster. The alteration spell obscurement was another variant of this spell.
+
+Effects
+A stationary cloud of mist is created by this spell/evocation, offering concealment to those within it. It was thick enough to block sight and darkvision beyond 5 ft (1.5 m) and lasted for at least a minute. Wind and some fire effects (e.g., fireball, wall of fire) could blow or burn the fog away quickly. This spell fizzled under water.
+
+Components
+Only verbal and somatic components were required to cast this spell.
+
+Appendix
+See Also
+ Fog cloud
+Appearances
+
+References
+
+---
+
+## Obsidian Entertainment
+
+Obsidian Entertainment is an American computer game development company formed after the disestablishment of Black Isle Studios. It has developed 2006's Neverwinter Nights 2 and two of its expansions: Neverwinter Nights 2: Mask of the Betrayer and Neverwinter Nights 2: Storm of Zehir.
+
+---
+
+## Observer
+
+Observers were large, highly intelligent beholderkin that lived in the most lawful planes.
+
+Description
+Observers were somewhat larger than ordinary beholders, being about  in diameter. They had only six eyestalks and three central eyes spaced evenly around their circumference, and three mouths, one situated beneath each central eye. The mouths were actually suckers attached to  tentacles. The body itself was covered in hard, chitinous skin that was mottled with shades of purple and pink.
+
+Personality
+Observers were the most socially adept of the beholderkin and the most ready to ally with other creatures, but they completely lacked empathy despite not being actually malicious. They were near-obsessive in the pursuit of knowledge.
+
+Abilities
+Observers were known to have psionic powers.
+
+History
+In its heyday, the observers were among the creatures that came through the magical gates to trade in the city of Sarbreen.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Obslin Minstrelwish
+
+Obslin Minstrelwish was Seneschal of Twilight Hall in Berdusk and one of the High Harpers.
+
+History
+In Tarsakh of 1370 DR, he was running the Harper stronghold during the absence of the severely ill Cylyria Dragonbreast when, under the urging of Bran Skorlsun, Obslin agreed to discuss the evidence that showed Khelben Arunsun was a traitor. The Harpers had discovered that Khelben had been the one who had stolen the Scepter of the Sorcerer-Kings, a powerful Netherese artefact thirteen years before from the Catacombs of Ordulin. This artifact had since ended up in the hands of the Zhentarim.
+
+References
+
+---
+
+## Obsidian
+
+Obsidian, also known as natural glass or volcanic glass, came in different grades and varieties, some more prized than others. Low grade obsidian, called pitchstone, was not as shiny or smooth as gem quality obsidian but was useful for grinding and abrading. A variety called blacksmoke obsidian was primarily found in Tashalar, sold in the local bazaars. A rare form of obsidian, called rainbow obsidian, was considered a semi-precious stone.
+
+Description
+
+Volcanic in origin, obsidian was a hard, black, glassy stone with a natural sheen. Common obsidian could be chipped into arrowheads, cutting blades, or even weapons if large enough. As an ornamental stone, it was usually tumbled, polished into smooth cabochons, or carved into figurines and fingerbowls. It was often worn as jewelry or inlaid on bracers or pectorals of copper or bronze. Package handlers in Waterdeep wore obsidian rings with a cutting edge on the inside for snipping twine. Gray to white inclusions made obsidian brittle but when cut and polished correctly, snowflake obsidian was equally as valuable as regular obsidian. A typical stone had a base value of 10 gp.
+
+Powers
+There were "nine secrets" that could be enchanted to become ioun stones, and obsidian was the most well known of them. Obsidian also made an extremely useful figurine of wondrous power, renowned as the obsidian steed. The cutting capability of obsidian made it a good material component for wizards attempting to create blade barrier-like effects.
+
+Obsidian was used as a material component in the spell abolish shadows.
+
+Notable Users of Obsidian
+Jewelry
+
+ Obsidian was a common stone among the drow, a gem worn by drow of average station. It was one of their favorite gems.
+ In the jungle of Malatra the Nubari tribes Huroola, Koshiva, and Wise Ones were known to use obsidian for the purposes of jewelry. Korobokuru and Shu were also known to use it for this purpose.
+Weaponry
+ Uniquely among the Nubari tribes of Malatra, the Tribe of Big Chief Bagooma used obsidian to make knives and axeheads.
+ In Chult, a traditional weapon known as the yklwa commonly featured an obsidian blade.
+ In Port Nyanzaru, assassins carrying out legally sanctioned killings favored obsidian daggers crafted to be exceedingly sharp.
+Religions
+ The lesser deity Vhaeraun was known to occasionally send obsidian to show his favour or disfavour to his followers.
+ Obsidian was sacred to the Chultan demigod Eshowdow, who valued unholy items made of it.
+
+ Variations# Ed Greenwood, Eric L. Boyd (1996). Volo's Guide to All Things Magical. (TSR, Inc), p. 34-54. ISBN 0-7869-0446-1.
+
+GemstoneAppearance (Black or gray base)Magical effectsRainbow obsidianSpangle inclusions of all colorsPass stone for Prismatic magicsSheenGold sheenSpangle inclusions of any color, with golden being the rarest oneExtended duration of invisibility magicsSnowflake obsidianGray blotchy inclusionsProtection against dragon breathSpiderweb obsidianWhite weblike linesProtection against gases and airborne particles
+
+Appendix
+See Also
+ Undeath after death
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Obaleth
+
+Obaleth was a cheese with a strong flavor and sharp taste made locally to the hamlet of Sevenecho in the Vast in the 1360s and 70s DR.
+
+Locations
+The Worried Wyvern inn in Sevenecho had Obaleth cheese for sale on its excellent menu.
+
+Prices
+It was priced at 1 gold piece per wheel, rather than the typical 4 silver pieces.
+
+References
+
+---
+
+## Obedient avalanche
+
+Obedient avalanche, also known by many as Zajimarn's avalanche, was a conjuration spell of the creation subschool that called down an avalanche to bury one's foes.
+
+Effect
+The spell opened a rift in midair, from which poured an avalanche of snow that engulfed everyone and everything beneath it and swept outwards from that location. The avalanche crushed and froze those directly beneath it, and could even bury them in heavy snow. Further away, the impact was less, but the spreading snow shoved all aside and carried them along.
+
+The obedient avalanche also damaged buildings and other structures, uprooted small trees and lesser plants, and turned the ground into a trail of rubble in the snow's path. It also put out all fires, whether they were natural or magical in nature.
+
+Users
+The obedient avalanche was formerly unique to clerics with the Cold domain, but could also be learned by sorcerers and wizards.
+
+History
+The spell was named for Zajimarn.
+
+Appendix
+References
+
+Appearances
+
+---
+
+## Obox-ob
+
+Obox-ob was an obyrith demon lord of poisons and verminous creatures. He was an eldritch being from a long forgotten era before the tanar'ri demons and the Prince of Demons before Demogorgon.
+
+Description
+Obox-ob was a nightmarish entity, seemingly a cross between a backwards scorpion and a monstrous millipede, with clusters of chitinous, arachnoid limbs ending in deadly talons, erratically clambering about his distended form. The places where his three-faced head and three, massive tails should be were reversed, although both ends were equipped with wicked stingers. His tail edges were jagged and dripped a black venom while his hideous visage, supported by a thick neck stalk, had a hollow, corkscrew-shaped spike at the end of his red tongue. His three faces gave him three sets of malicious, crimson eyes and a vertical maw that housed his tongue.
+
+Personality
+Once one of the most reviled and powerful residents of the Abyss, the Prince of Vermin's primal fury had only grown alongside the cravings for his former glory. Even his own layer was not safe from his rage-fueled rampages and he frequently brought ruin upon his own servitors. His hatred for the tanar'ri, to which his former position was bestowed upon and who betrayed their masters, ran unimaginably deep and he sought no less than their utter extinction. That wasn't to say however that his hatred ended at the tanar'ri; Obox-ob sought to bring about the annihilation of all things, it was just that his ire was most directly pointed at the current rulers of the Abyss.
+
+If Demogorgon were to grow weakened or be defeated, either by Obox-ob's hand or another, the Prince of Vermin would quickly attempt to reclaim his status, sending increasingly powerful waves of obyriths to attack the Gaping Maw. If allowed to retake his position as Prince of Demons, the tanar'ri would quickly fade away as the obyriths emerged from and retook the Abyss, infesting the Astral Sea and spreading like a virulent plague throughout the multiverse. Until he could return to his prime however, Obox-Ob's plans for vengeance would have to wait.
+
+Powers
+As a being of chaos incarnate, Obox-Ob's very presence eroded sanity and poisoned the mind. His aberrant form inflicted mind-rending nightmares on those that looked upon it and instilled a permanent sense of entomophobic dread within the victim, only curable by the most powerful spells and casters. Even hearing the deafening drone caused by the movements of his ancient armor could cause temporary confusion from the sheer, chaotic cacophony of the shrieking screams.
+
+Rather than poison, his tongue contained raw chaos matter which he could implant into the flesh of other beings. The entropic power slowly consumed the unfortunate target's body and soul, until they were utterly destroyed with only magic like dispel chaos delaying the process and the strongest of restorative magic bringing back the lost soul without the degradation continuing. He also possessed telekinetic powers and the ability to create symbols of insanity.
+
+The Prince of Vermin also possessed power over lower lifeforms, able to summon pestilent swarms and enormous arthropods. His more powerful abilities allowed him to turn objects into massive insectoids, and the venom in his tails drained the minds of those he stung until they succumbed and transformed into giant, fiendish scorpions. All of the victim's memories were erased and only wish or miracle could return them to their previous form, and even then their intellects were still in a ruined state.
+
+Combat
+Obox-ob was a vicious opponent that relished melee, using his numerous natural armaments and telekinetic powers to destroy his enemies, charge them off cliffs, and ram them into solid objects. Although he'd use his powers to call in gigantic scorpions early on, he generally reserved his spell-like abilities for enemies he couldn't reach, an unlikely situation as he could scuttle and fly with frightening speed. Having once suffered a near-death experience, he was loathed to take unnecessary risks given the incredible setbacks they could lead to.
+
+Divine Realm
+Obox-ob's original domain was the Blood Shallows, a marshy realm filled with large hills. While the color of the skies and clouds were reversed, the atmosphere being white and the clouds being blue, the water itself was blood-red and dangerously acidic. He had long since been forced to abandon that layer and flee into one of the deepest depths of the Abyss, the 663 layer of the Abyss, Zionyn, so remote and uninhabitable that he could maintain unquestioned influence within it.
+
+Consisting of rugged wastes and seas of reeking resin, the infested layer was swarming with ekolids, endless plagues of fiendish vermin, horrific abominations and obyriths unseen throughout the rest of the Abyss. The ekolids, unusually, created complex, hideous hive cities from the harvested ocean ooze and the corpses of a vast range of exotic creatures used as incubators. Nightmarish cathedrals, temples, and towers constructed from the preserved bodies of terrified victims could be seen throughout their cities, all pleasing monuments to Obox-Ob and his unholy wrath despite his tendency to destroy his own domain.
+
+Activities
+Obox-ob's primary concern was recovering from his diminished state in order to reestablish himself as the Prince of Demons. He carefully observed his cults on the Material Plane, waiting for an opportunity to grow in power.
+
+Relationships
+Obox-Ob was potentially the one being that Demogorgon could be said to fear, to the point where even an aspect of the former Prince of Demons would demoralize him. Obox-ob held unbridled hatred for Demogorgon and sought his demise for stealing his title.
+
+Despite being a tanar'ri himself, the demon lord Kostchtchie sought to forge an alliance with Obox-ob, as the stubborn lord hated the tanar'ri and refused to acknowledge himself as anything other than a frost giant. An alliance between them seemed unlikely, however, given the Prince of Vermin's tendency to devour visitors before giving them a chance to speak and the Prince of Wrath's own impatience hindering diplomacy.
+
+Obox-ob's relation with Dagon, a fellow obyrith lord, was surrounded by rumors. Dagon served as the hated Demogorgon's oracle, and some believed that is was only through secrets shared by the obyrith that he managed to remain Prince of Demons so long. Some whispers claimed that Obox-ob had urged his tanar'ri servant Lascer to make a pact with the Prince of the Depths, allowing his pawn to inhabit the Shadowsea in his half-alive fortress. Others said that Lascer was actively fighting against Dagon, and hoped to one day kill him in his lair with his small army of assassins. Whatever the case, Dagon had yet to move against Lascer, perhaps because he didn't fear him in the slightest or possibly because of the tanar'ri assassin's conection to the former Prince of Demons.
+
+There was also the unknowable elder evil Tharizdun, who shared Obox-ob's desire for destruction and who the Prince of Vermin would help be released from his prison if possible.
+
+Worshipers
+Outside of the ekolids, Obox-ob was the patron of those who saw divinity in vermin and whose cults dwelt in deserts of ancient ruins where they could be close to his sacred creatures, the scorpions. Although they were a powerful force on many worlds, his cultists had to operate in the shadows after a near-victory and humiliating defeat where his worshipers failed to draw a Material world into the Abyss. By disrupting the magical flow of the ritual at an important phase, the heroes of the realm foiled his attempt to use the world as power to ascend, forcing Obox-Ob and his followers to act more cautiously.
+
+History
+
+Obox-ob was in fact the first and most powerful obyrith to rise from the primeval chaos of the Abyss. It had become common knowledge in the Abyss that Obox-Ob was the former Prince of Demons during the Age before Ages when obyriths ruled, and whose title was stolen from him by the Queen of Chaos and gifted to tanar'ri, Miska the Wolf Spider. Although many of his aspects tried to escape, they were slaughtered by the Queen, except for one that hid within Zionyn until the situation had cooled down. After skulking for eons as a shadow of his former self, he left the layer for the first time to discover that he, and the rule of the obyriths, was a thing of the past.
+
+Less known was that a second aspect of Obox-Ob had survived by imprisoning itself within its original home to escape the Queen's wrath. While safe from the Queen of Chaos, it was unable to free itself, allowing newer demons and petty obyriths to squabble over the land while he remained the unseen 'lord' of the layer. Few beings, such as a partially insane baernaloth, knew of this other self.
+
+Obox-ob's first meeting with a human, a planar explorer that was caught on his second expedition to Zionyn, was torturous and brutal. Using an unspeakable method that left him with rapiers wired to his hands and broken glass piercing his feet, he transformed the human into his tanar'ri minion and used his human form as a scout to investigate the activities of other demon lords before he was caught in Graz'zt's palace. Since then, Obox-ob modified him with amphibious abilities and seemed to be training the former human Lascer as a slayer of tanar'ri.
+
+In 1376 DR, a settlement of the Torillian Underdark, Oaxatupa, was attacked by the Swordbelt Alliance. The tlincallis of Oaxatupa wished to get revenge on the surface-dwellers, and attacked both Amn and Murannheim. Obox-Ob sent his minions to aid the tlincallis via a portal from the Abyss.
+
+Appendix
+References
+
+---
+
+## Oberon (wizard)
+
+Oberon was a wizard living in a tower in Baldur's Gate.
+
+Relationships
+The wizard had many dealings with Pasha Pook of Calimport.
+
+History
+In 1356 DR, Pook ordered the pirate fleet of Pinochet to attack Captain Deudermont's Sea Sprite in order to stop the Companions of the Hall from arriving in Calimport. Pook questioned Oberon about his contact with Artemis Entreri.
+
+Appendix
+
+Appearances
+The Halfling's Gem
+
+References
+
+---
+
+## Obratu
+
+Obratu was an oni mage at the Shrine of the Tender Oath in the Dessarin Valley during the Elemental Evil crisis.
+
+Relationship
+Obratu had a partnership of convenience with a duergar called Reulek.
+
+History
+In 1491 DR, Obratu and Reulek decided to recover the treasures of Besilmer. They found a map showing two entrances to King Torhild Flametongue's tomb. Reulek decided to go to the tomb using tunnels near the Fane of the Eye and was never seen again. Obratu searched for the entrance near the Shrine of the Tender Oath. He hired renegade dwarves led by Grumink. Together, they killed the clerics of the shrine and occupied the building, searching for the entrance to the tomb.
+
+At last, some adventurers came to investigate the shrine and defeated Obratu and Grumink.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+
+References
+
+---
+
+## Oboo
+
+An oboo (pl. oboos) was an altar to the gods of sky and earth that could be found on the steppes of the Hordelands.
+
+Description
+Oboos were always constructed on the tops of hills. Usually the tallest hill was selected for the site of an oboo, but a smaller hill that was the location of a great military victory could also be selected.
+
+Oboos varied in their appearance. A simple stack of stones could serve as an oboo, or carefully selected stones could be arranged into a specific pattern to represent an oboo. The vast majority of stones used for oboos were not marred with hand carvings or drawings.
+
+History
+The presence of an oboo transformed a hill into a holy site, used by shamans and lamas of the nomads of the steppe. Sites with oboos were used for special ceremonies or to cast communal spells. An oboo increased the power of these spells.
+
+Since oboos were sacred sites, even an oboo used by a sworn enemy was usually left alone because the nomads feared risking the wrath of the gods.
+
+Appendix
+References
+
+---
+
+## Obuno Yoshigi
+
+Obuno Yoshigi was the leader of the Iridescent Peacock Society in Kozakura in 1357 DR.
+
+Activities
+On the surface, Obuno was an advisor to Takegai Uezami, the Head Councilor of State but was the secret Grand Master of the Iridescent wu jen.
+
+Appendix
+References
+
+---
+
+## Obsul Ssussun
+
+Obsul Ssussun, or "The Door to Light", was a spellbook containing some spells designed for followers of Vhaeraun.
+
+Description
+The black book was small, about as wide as an elf's hand, and written in Undercommon in small Elven script.
+
+Versions
+It was written by the Widower in cooperation with a cleric of Vhaeraun alongside another book. Both books were made twice, one for arcane casters and another for divine casters.
+
+Value
+It had a spiritual value to the church of Vhaeraun, who were known to buy back the book for a heavy sum. Clan Auzkovyn also provided the seller with a token for life-long safe passage.
+
+History
+As mentioned above, the book was written by the Widower in cooperation with a cleric of Vhaeraun sometime between 1370 DR and 1372 DR and two copies, each for arcane and divine magic, existed.
+
+When the Widower left, he gave it to his secondwizard Zulifein T'orgh in order that it be used in the fight against Lolth. Zulifein didn't follow instructions however, and disappeared towards Sshamath at some point in 1372 DR, intending to use the book to buy his safety there. What happened to the book, at least its arcane version, after that is unknown.
+
+Contents
+The book contained three notable spells and the secret to calling for the aid of a vhaerath. The spells were:
+ Elf disguise
+ Soul charge
+ Vhaeraun's nightshield
+
+References
+
+---
+
 ## Obarskyr/Family tree
 
 The following are Gorauna Obarskyr's reigning grandnieces and grandnephews and their descendants.
+
+---
+
+## Oboth Thornsteel
+
+Oboth Thornsteel was a Zhent mercenary leader in Mornbryn's Shield sometime after the War of the Silver Marches.
+
+History
+Oboth was a Zhentarim mercenary in Yartar in the late 1480s or early 1490s DR.
+
+Following a giant's attack on the village of Mornbryn's Shield, Oboth and his men occupied the village. First the villagers welcomed them but soon Oboth grow tyrannical and only interested in finding the lost treasure of Mornbryn.
+
+Appendix
+Appearances
+ Storm King's Thunder
+
+References
+
+---
+
+## Oberon (disambiguation)
+
+Oberon was the king of the Seelie Court. Other persons or groups with the given name Oberon include:
+
+ Oberon (wizard), a wizard of Baldur's Gate,
+ Oberon (family), a 15 century noble family,
+ Oberon (Netherese arcanist), an arcanist from ancient Netheril, or
+ Oberon (brownie), a 14 century brownie from the Vast.
+
+---
+
+## Oberon
+
+Oberon, called the Lord of Beasts or sometimes King Oberon, was a member of the Seelie Court worshiped as a deity of the wilderness and animals. He was at other times known as Oran, and under that name was called the Green Lord.
+
+Description
+Oberon appeared as a wingless, unusually tall and muscular male faerie. His eyes were black and wild, his hair thatched and braided and run through with brambles, and his skin was comparable in color to oak wood. He was known to wear a cloak of green leaves stitched onto brown leather.
+
+Personality
+Oberon was a stern protector and warrior, if wild and mercurial at times. He relied less on illusion and camouflage than other members of the Seelie Court, and was unafraid of physical combat.
+
+Abilities
+Oberon's avatar had a number of spell-like abilities, being able to use charm person, detect charm, detect magic, detect invisibility, ESP, faerie fire, forget, goodberry, know alignment, plant growth, speak with animals, obscurement, and pass without trace (although even without magic he was nigh undetectable when in undergrowth) at will; thrice each day he could use animal summoning I, II, and III, call woodland beings, conjure animals, and creeping doom. He was immune to poison, disease, polymorph effects, and death magic, and was also highly resistant to magic in general. Nonmagical weapons could not harm him. Furthermore, no natural woodland animal, faerie creature, or sentient, nonevil plant creature could be compelled to harm him.
+
+Oberon himself was attuned to fey forests he often roamed, able to both sense and affect every tree and stream. He was an unrivaled hunter and warrior, powerful enough that even Corellon treated him with a cautious respect there.
+
+Possessions
+King Oberon possessed a staff that could be used as a changestaff once per day, as well as a magicked longsword that could be used to cast light or continual light as willed, and sunray once a day. His longbow was no less magical, capable of turning up to 20 normal arrows into magicked ones each day. He was also known to carry arrows of slaying for orcs, bugbears, hobgoblins, and goblins, as well as another twenty arrows specially enchanted to inflict nonlethal damage, that he used when hunting stags.
+
+Divine Realm
+Like the rest of the Seelie Court, Oberon dwelled in their collective divine realm, which drifted between the planes of the Beastlands, Arborea, and Ysgard. Oberon himself often roamed the Beastlands and Arvandor while hunting. At other times, the Lord of Beasts could be found living in the Feywild.
+
+Activities
+The Lord of Beasts spent much of his time away from the Seelie Court roaming the Beastlands and Arvandor, or protecting various sylvan realms from incursion or attack by rapacious monsters or humanoids. One of his favorite activities was hunting stags, but he did not kill the animals he hunted.
+
+He was one of the archfey known in Faerûn to make pacts with warlocks.
+
+Relationships
+Oberon was the consort of Titania and the father of Damh, and presumably the father of Verenestra and the Prince of Frost as well. However, his relationship with Queen Titania was legendarily tempestuous: at times they were the dearest of lovers, at other times rivals, and at yet other times both. He was also the father of the archfey Selephra, and the archfey Hyrsam had been "born" from music he wrought long ago.
+
+With the rest of the Court, Oberon was allied with the Seldarine, as well as various good deities of nature and hunting.
+
+He was, like the rest of the Seelie Court, an enemy of the goblinoid pantheon and the hag goddess Cegilune, but most particularly the Queen of Air and Darkness, whom he often urged Titania to war against.
+
+He was also the leader of the faction of fey called the Green Fey, which was primarily composed of wilder, more nature-oriented fey such as satyrs, dryads, and treants, as well as some elves that dwelled in the Feywild. Other archfey of the Green Fey, such as Damh and Selephra, also answered to him.
+
+History
+Oberon was ancient, and was said to be the awakened spirit of a nature, possibly of some great forest. He was known to be part of the Inner Circle of the Seelie Court, and was present for their court and later flight in the realm of Ladinion.
+
+The Green Lord was the one to craft Titania's palace of Senaliesse from living wood.
+
+Appendix
+See Also
+ Faerinaal
+ Oberon's Airy Lash
+Appearances
+Video Games
+
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+Connections
+
+---
+
+## Obid Teltas
+
+Obid Teltas was the head of the Church of Lathander at the Morningstar Haven in Westgate circa 1374 DR.
+
+Description
+Obid was a red-faced of considerable girth who spoke with a nasal voice. His hair was mousy-grey, and his eyes had a bright blue color. He was a pompous and vain individual with shifty quick-moving eyes. His demeanor and posturing left him appearing insincere and boastful. Conversing with the man left people feeling as if they were in need of a long lensing bath.
+
+History
+In the, Obid assumed control of the church of Lathander in the city during the time the high priestess Tylanna of the Seventh Rose was out of the city. He believed that under his rule, the followers of Lathander could destroy the Night Masks. He gained notoriety in the war against the Night Masks thanks to the success of an adventurer who recently arrived at Westgate in search of information on a cursed mask.
+
+When meeting with the adventurer for the first time, Obid unmistakenly detected a powerful curse placed on the mysterious item. He revealed that the domino mask once belonged to the Night Masks but now housed a trapped vengeful spirit. Obid's attempts to use divine magic were unsuccessful, and he doubted Westgate had a powerful enough wizard who specialized in cursed items. The priest suggested the hero investigate the spirit's nature in order to remove the curse, and she likely had some connection to the Night Masks. Obid had a lead for the adventurer. A priest named Jeswick Salem recently disappeared after complaining about being stalked. The High Priest suspected the Night Masks were responsible and sent the adventure to the priest's home in the Market Triangle. Subsequently, Obid was captured by the Night Masks and killed by the vampire cabal that ruled the guild.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Mysteries of Westgate
+
+References
+
+External links
+
+---
+
+## Oberon (Netherese arcanist)
+
+Oberon was a Netherese arcanist during the Age of Discovery of Netheril.
+
+Personality
+Oberon was a strong supporter of expeditions into Realmspace. He kept undertaking such expeditions even after other archwizards stopped funding them in, in the hopes of finding resources to gain an advantage in the competition for power. Such resources were never found, but even after his death ten years later, his followers continued propagating his views.
+
+History
+Oberon was a specialist in "quasidimensional transport" and was credited with many of the spells associated with teleportation and planar travel, such as banishment, blink, dimension door, telekinesis, and teleport, among others.
+
+In his travels into Realmspace, Oberon also sought to reestablish relations with other races, in an attempt to make amends for the damage caused by the aggressive actions of early explorers from Yeoman's Loft in previous years. He became respected by Realmspace inhabitants, but, despite his efforts, they continued to view the nation of Netheril as corrupt and evil.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Obar's lesser purification
+
+Obar's lesser purification was an arcane abjuration spell that destroyed any curses, tracers, or remnants of any magic linked to inanimate objects. It was used to treat the shell component in the creation of magical items.
+
+Effects
+The main function of this spell was to remove any dweomers, or lingering magic, from items in order to make them non-magical. In addition, it could purge liquids, unguents, or tinctures as well as powders or dusts used to prepare items for enchantment.
+
+Components
+The material components of lesser purification were a pinch of limestone dust, a pinch of salt, and three drops of a potion of sweetwater.
+
+Appendix
+References
+
+---
+
+## Oblar Minstrelwish
+
+Oblar Minstrelwish was a halfling adventurer of some notoriety from Secomber. On his travels, he met Mrune Moontan, a half-elf sorceress with many talents, including brewing the best ale that Oblar had ever tasted. They eventually married and started the Moon Mountain Brewery on the Unicorn Run north of Secomber. As of the Year of Wild Magic, 1372 DR, his descendants were still operating the brewery, along with another family of halflings, the Borulglar, to whom they were related by blood and marriage.
+
+Appendix
+References
+
+---
+
+## Obaya Uday
+
+Obaya Uday  was a Chultan priest of Waukeen from Port Nyanzaru who traveled to Waterdeep in the late 15 century DR.
+
+Activities
+She spent her time at the Yawning Portal, offering to pay premium (and nonnegotiable) prices for magic items and spellbooks recovered from the treacherous dungeon of Undermountain.
+
+She discouraged inexperienced adventurers from delving into Undermountain, but was happy to help them gain the skills they needed to do so.
+
+Relationships
+Obaya's venture to collect magic items was on behalf of her employer, Wakanga O'tamu, a wizard and merchant prince of Port Nyanzaru who controlled all trade in magic and lore within that city.
+
+She hired a surveyor named Azuli Tefnek to map the routes into the deeper levels of Undermountain and to retrieve magical relics from within.
+
+History
+Obaya travelled from her native Chult to Waterdeep around 1492 DR with the objective of acquiring magical treasures for her master, Wakanga O'tamu. To that end, she placed a large amount of platinum pieces in local banks and found her way to the Yawning Portal, where she booked a room and began to sponsor expeditions into Undermountain. It was her intention to hire bodyguards to protect herself and her acquisitions once she was ready to return to Chult.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Oblex
+
+Oblexes were extraordinarily intelligent oozes created by mind flayers that fed on other creatures' memories. They were capable of using those memories to create replicas of their victims, which they used to further hunt and feed.
+
+Description
+As oblexes absorbed the memories of their victims, they could replicate credible copies of them. These impersonations, made of the same ooze as the oblex, were otherwise identical to the original victims, except for a faint smell of sulfur. They could move up to  from the oblex, but could not entirely separate from its body. A replica remained attached to the oblex's main body by a thin, transparent tether made of slime, which could pass through extremely tight spaces as narrow as  wide.
+
+Behavior
+
+With a desperate hunger for memories, oblexes were attracted to sharp minds. They tended to prefer the minds of intelligent individuals, such as spellcasters. When finding a suitable individual, they proceeded to briefly engulf their target's body, draining a portion of its memories when pulling away. An affected victim became drained and confused, having difficulty recalling or using any abilities. At the same time, the oblex learned all of its victim's languages and abilities. An oblex spawn even adopted the distorted personalities of its victims, to the point of appearing mad.
+
+Cunning hunters, oblexes used their impersonation abilities to lure more victims into danger or to attract better sources of nourishment, and to infiltrate communities in search of new and better prey.
+
+Combat
+
+Oblexes preferred luring their victims to an ambush before attacking, by using their impersonation abilities. Besides their memory-draining attack that could render a victim unconscious if hit multiple times, they were also capable of physically slamming an opponent using their pseudopods.
+
+Abilities
+Being amorphous oozes, all oblexes could slip through tiny gaps as small as  wide and could extrude a pseudopod to strike with; an elder one could make two. They also had blindsight and could also not be blinded, deafened, tired, or knocked over.
+
+Most notably, an adult or elder oblex could extrude large pieces of itself disguised as a being whose memories it had earlier stolen. Bar a slight smell of sulfur, this simulacrum looked, sounded, and even felt indistinguishable from the original. An adult could create up to five such simulucra and an elder up to thirteen, to a distance of, but all remained tethered by a strand of slime. This strand could fit through the aforementioned gap and could be cut, but not be otherwise damaged. The oblex and the simulacra were one and the same creature for all intents and purposes.
+
+To consume memories, the oblex must strike a target creature up to  away. If they lacked the will to resist, they would be psychically injured and suffer a loss of memory until next they rested or received a heal or greater restoration. With each strike, this became cumulatively worse at doing things until they fell unconscious for at least an hour, sometimes even dying. In turn, the oblex learned all its victim's languages and skills. Undead, constructs, plant creatures, and other oozes were naturally immune to memory draining.
+
+As oblexes aged, they acquired more powerful abilities. Adult oblexes had the ability to cast mind-controlling spells such as charm person, detect thoughts, hold person, and color spray, while elder oblexes, having lived long enough to learn multiple abilities, could in addition cast spells such as confusion, dimension door, dominate person, fear, hallucinatory terrain, hold monster, hypnotic pattern, and telekinesis.
+
+Oblexes had an aversion to fire; if burned, they were briefly weakened and less able to attack.
+
+Ecology
+The oblex reproduction cycle was intrinsically connected to its feeding habits. As an oblex fed, it slowly became saturated with its victims' accumulated memories and personalities. Eventually, a saturated oblex spawn had to split into smaller creatures and shed these personalities in order to avoid going insane. An older oblex could simply extrude a simulacrum instead.
+
+History
+
+After conducting experiments on the various oozes found in the Underdark, oblexes were designed by mind flayers with the purpose of assaulting minds and serving as advance scouts to search for prey to feed a colony. However, oblexes did not act on their master's orders. Rather, their actions were purely motivated by hunger. An oblex within the telepathic range of an elder brain would instinctively, and unwittingly, inform the colony of any sentient creatures just by its endless hunger for memories and attraction to intelligent individuals.
+
+In the late 15 century DR, an elder oblex stood guard in a chamber of the Temple of Madness in Pandemonium, while a group of mind flayers attempted to harness the power of a portal to the Far Realm to activate an artifact that could allow them to regain their mental control over the gith. A group of Sha'sal Khou members from the Sword Coast was dispatched to thwart the illithids' plans.
+
+Meanwhile, an adult oblex was kept within a pit trap in Stardock, filling the bottom and waiting to absorb those who fell into it//
+
+In Cube 1717, a battle station of Acheron, an adult oblex was experimented on and transformed into a strangely pixelated creature, which later served the skull lord Vargo. The cube crashed into the Sea of Swords in the late 1400s DR. The oblex formed a partnership with a similarly altered balhannoth.
+
+In the Undercity of Xorvintroth, a group of four elder oblexes killed and absorbed the memories of four Thayan guards, Augofan, Lonali, Phastulla, and Ugomech, who served the Red Wizard Lamintala in their operations there. The oblexes produced simulacra of them in order to lure other explorers into their cave.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Obedience
+
+Obedience was a common spell used by wu jen in Kara-Tur. The spell was very rare outside Kara-Tur.
+
+Effects
+A wu jen used this spell to force any creature into total obedience. The spell worked best on sentient creatures. During casting, the wu jen had to come into physical contact with the target creature and place a circlet made of gold on their head. Once the circlet was in place, it could not be removed by anyone except the wu jen. The spell had no affect on the personality of the target creature. When a creature under this spell tried to disobey or harm the wu jen, the caster was able to punish the creature with immense pain until the creature acquiesced. The spell had no maximum range and did not expire until the circlet was removed or the creature died. Spells such as dispel magic, limited wish and wish could be cast to remove the circlet from the creature. Very rarely, a deity would take pity on a creature and lift the spell.
+
+Components
+In addition to verbal and somatic components, the spell required a material component, a circlet made of gold valued at least 1,000 gp.
+
+Appendix
+Background
+This spell is inspired by the golden circlet placed on Sun Wukong, the Monkey King of Chinese legend in Journey to the West, which tightened if he did not obey a monk.
+
+References
+
+---
+
+## Obsidian dragon
+
+Obsidian dragons were the most intelligent of the gem dragons, and also the most dangerous.
+
+Description
+Obsidian dragons ranged in size from small wyrmlings to gargantuan great wyrms. As hatchlings, their scales were rough, dark grey, and distinct from each other, but as they grew, their scales changed to solid black and smooth to point that individuals scales were difficult to distinguish.
+
+Personality
+Obsidian dragons, though extremely intelligent, were also arrogant, quick to anger, and cruel, being known to toy with their prey before finishing it.
+
+Abilities
+Like other true dragons, obsidian dragons radiated a fear-inducing aura. They were creatures of fire, immune to its effects but vulnerable to those of ice and cold. They also possessed the ability to innately shift themselves from the Material Plane to the Inner Planes at will. The breath weapon of obsidian dragons was a cone of fire.
+
+By the time they were young, obsidian dragons would begin to develop natural psionic powers, at first being able to use firefall, and then biofeedback as juveniles, burning ray as young adults, whitefire as adults, wall of ectoplasm as mature adults, ectoplasmic armor as old dragons, flaming shroud as very old dragons, and plane shift as ancients, of which they could use thrice each day. They gained the use of mind store as wyrms and genesis as great wyrms, both of which they could only use once each day.
+
+Additionally, obsidian dragons manifested mind thrust/thought shield as their attack/defense modes, and gained powers similarly to a psion of the Metacreativity discipline.
+
+Combat
+Obsidian dragons were unafraid of combat, making rapid analyses of their opponents in seconds and attacking accordingly; or, more rarely, retreating to avoid or ambush foes too powerful for them to quickly overpower. They preferred to start combat using their breath weapon and ranged attacks, before closing to use physical attacks to finish enemies off. A tactic they particularly favored was snatching an enemy and plane shifting to the Plane of Fire or their demiplane (if the latter's environment was hostile enough).
+
+Ecology
+Obsidian dragons preferred warm mountainous or underground environments (such as by volcanoes); many were known to make their lairs in coal mountains found in the Elemental Plane of Fire. The exception to this were the great wyrms, who used their genesis power to make their own demiplanes.
+
+History
+Some obsidian dragons, like all gem dragons, once lived at the Ruby Palace of their deity Sardior. But at some point their leader, the thane Seradess, was killed by the Master of Gem Dragons for reasons unknown, and all obsidian dragons were expelled from his court. Their evil nature, exceptional among gem dragons, was often connected to this fall from grace. The obsidian dragons were avoided and opposed by the other gem dragon species since that time.
+
+Notable Obsidian Dragons
+Seradess, the obsidian dragon thane.
+
+Appendix
+Further Reading
+ - An entirely different version of the obsidian dragon.
+
+References
+
+Connections
+
+---
+
+## Obsidian flint dragon plate
+
+Obsidian flint dragon plate was a set of magical plate mail.
+
+Powers
+When worn, the wearer's resistance to poison was increased.
+
+Appendix
+See Also
+ Dragon scale mail
+Appearances
+Adventures
+ Baldur's Gate: Descent into Avernus
+External Links
+ D&D Beyond
+References
+
+---
+
+## Obould II
+
+Obould II, also known as Urlgen, was an orc and the ruler of the Kingdom of Many-Arrows north of the Silver Marches as of 1409 DR. He succeeded his father, Obould Many-Arrows, and maintained his vision as well as his truce with the dwarves of Mithral Hall.It is unknown what link this Urlgen has with Obould's other son, Urlgen Threefist, who died in 1370 DR. He may have been resurrected or this Urlgen was named for his deceased brother.
+
+History
+At the time of Obould I's death, Obould II was his eldest son. Obould II's ascension to the throne—and more importantly, his subsequent successes in putting down rebellions—established the legitimacy and viability of an Obould dynasty in the Kingdom of Many-Arrows.
+
+Appendix
+Notes
+
+Appearances
+Novels
+
+Gauntlgrym
+References
+
+---
+
+## Obould dynasty
+
+The Obould dynasty was a line of seventeen orc kings ruling the Kingdom of Many-Arrows, starting in the . It was preceded by the Broken Arrow tribe, whose king was Obould I. It was succeeded by the usurper warlord Hartusk in the .
+
+The Obould dynasty ended when Obould XVII was assassinated in 1484 DR by drow, and a usurper, Hartusk, took the throne.
+
+After Hartusk was killed in the War of the Silver Marches, Lorgru, son of Obould XVII, returned from his exile and reclaimed the throne of Many Arrows.
+
+Family Tree
+
+Appendix
+References
+
+---
+
+## Obe
+
+Obe was a mage who lived in Candlekeep during the mid–14 century DR.
+
+He was adept at creating illusions of monstrous creatures. Even though they were normally harmless, if he continued making them for too long they became quite dangerous.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate
+
+References
+
+---
+
+## Obold's brightness
+
+Obold's brightness was a wizard spell from the school of evocation created by Obold. Obold initially created this spell to deal with orcs attacking his mountain tower.
+
+Effects
+This spell created a thick smoky cloud that glowed bright white and was riddled with sparks that were actually small bolts of lightning. The lightning struck any target within the cloud.
+
+When formed the cloud appeared as a hemisphere resting on the ground. The caster could move the cloud about quickly for the spell's duration.
+
+The effects of Obold's brightness could be neutralized by the use of a mundane but potent lodestone. The stone's natural property to attract lightning swiftly drained the spell's energies when tossed into its cloud.
+
+Components
+In addition to verbal and somatic components, this spell required as material components a tangle of wire and scrap of fur to cast.
+
+History
+By the, Obold's brightness was recorded in a rare tome – Obold's Spellbook. It's contents were among many arcane tomes that were studied by the Jordainis of Halruaa in order to counter the spells' effects.
+
+Appendix
+Appearances
+Novels
+The Magehound
+References
+
+---
+
+## Obliviax
+
+Obliviax, also known as oblivion moss, was a dangerous variety of moss.
+
+An alternative name coined by adventurers, memory moss, was derived from the fact that this plant preyed upon the memories of other creatures.
+
+Description
+This moss grew in small thick patches, measuring around  in length and weighing around . These were reminiscent of a sort of luxurious carpet, the color of tar or pitch. Leaves and flowers grew on them that were of a similar hue. A smell similar to damp, loamy earth emanated from them. When lacking memories, their bodies somewhat quivered.
+
+Behavior
+This variety of moss had an average degree of intelligence. They harbored an innate hatred of mobile creatures, making them always aligned towards neutral evil.
+
+Biology
+The obliviax spread by means of spores and the production of these required exposure to daylight, though not sunlight. It was capable of moving, but this was at a very slow pace.
+
+Abilities
+The obliviax could sense the approach of any creature within  of them, as their whole bodies were a primitive form of sensory organ that could ascertain the location of other creatures by means of scent and vibration. A form of blindsight.
+
+They uniquely possessed the ability to steal the last twenty-four hours of memories from other intelligent creatures within that range. Through this ability they could even steal memorized spells. They preferred to steal the memories of any wizards present, followed by clerics, other forms of spellcasters, and then non-spellcasters.
+
+This ability could not penetrate through lead surfaces. The victims of this memory stealing would act baffled and disoriented, having a blank space in their memories. Some scholars claimed that this loss of memory was somewhat temporary. Saying that specialized memories would not take long to return, more mundane ones would return after a few hours of rest, and a select few random ones could take weeks to return.
+
+It was possible to regain the stolen memories by an obliviax by eating it, though there was chance of becoming very ill from doing so as the moss was somewhat poisonous. One could even gain the memories of other creatures and their memorized spells by eating an obliviax. However, these would fade from the mind after twenty-four hours. Destroying a patch of this moss would not return any stolen memories nor would eating a mossling. Some claimed that if a victim destroyed a mossling before they ate its parent patch, then the stolen memories could not be regained outside of a wish or miracle spell. Though others who have encountered these creatures claim otherwise.
+
+Combat
+If attacked after having stolen memories, an obliviax would grow a small imitation of the creature whose memories they had stolen to defend them. This imitation, known as a "mossling," remained attached to the obliviax and was capable of casting any memorized spells they had stolen. These mosslings also shared their parent patch's innate hatred of mobile creatures and possessed any stolen memories.
+
+History
+Some believed that this variety of moss naturally evolved upon the grave of some powerful spellcaster or in the ruins of a wizard's tower.
+
+Obliviaxes were one of the many monsters kept within the city of Kuo Meilan's subterranean zoo. By 1362 DR they were still found to dwell within it.
+
+From 1357 DR to 1368 DR, obliviaxes could occasionally be found in the sewers beneath Waterdeep.
+
+Ecology
+While they were aware of other obliviaxes near them, these creatures would make no effort to aid their kin. Rather they compete with each other for prey.
+Diet
+This moss was vitalized and nourished by the mental energy of the memories they stole from other creatures. They favored the memories of intelligent creatures over base animals, with the memories of creatures who tended to have long lifespans being considered a delicacy. Such as eladrins, elves, and devas. Besides that, they subsisted upon soil and water, much like any other moss.
+
+Habitats
+An obliviax could be found in a wide variety of habitats with a temperate or tropical climate. They could not abide cold climates, deserts, or overly damps environments. They preferred environments that had a good balance between dry and wet seasons. An obliviax was rarely ever found in subterranean areas, unless brought there by another creature, since the lack of daylight prevented them from reproducing.
+
+They were commonly found growing upon high branches, fallen logs, tree trunks, or rotting leaves. Rarely, small colonies of them could occasionally be found inside dimly lit caverns or tunnels. Areas in which there was a large abundance of this moss tended to remain lost, forgotten, and unmapped.
+
+They could be found within many of the medium woods of Daggerdale, Cormanthor, and Shadowdale. Particularly the Border Forest and Vale of Lost Voices. They could also be found in parts of the lands of Cormyr, Sembia, and the Dalelands. In south Faerûn, they could be found in the Thornwood.
+
+Beyond Toril, this moss could be found in the subarctic forests of the planet Oerth. Outside of the Prime Material plane, giant-sized obliviaxes inhabited the realm of Juiblex and the forests of the Feywild.
+
+Relationships
+Some evil-aligned creatures were known to place this moss outside of their lairs to act as guardians. Some dryads and treants were known to cultivate any that grew close to them as a form of protection, hoping that any who stumbled upon their lairs would never remember how to return.
+
+Some cults of the demon lord Zuggtmoy were said to work with obliviaxes, promising them bodies to move around in. The lesser deity Eachthighern would use a benign strain of oblivion moss on those who turned down his offer to be a white horn knight before his herald returned the candidate back to the Prime Material.
+
+Some spies were known to carry them around in boxes of lead, using an obliviax to steal vital memories from unsuspecting targets.
+
+They were one of the many species of sentient plants that the priesthood of Rillifane Rallathil were particularly known to seek out and destroy.
+
+Usage
+This moss could be distilled into a potion of forgetfulness. By contrast, their spores could be distilled into an elixir that would restore the memories of the forgetful or senile.
+
+Appendix
+Background
+Obliviax moss was designed by Lawrence Schick.
+Appearances
+Adventures
+The Throne of Bloodstone • Curse of the Azure Bonds • Black Courser • Dungeon #29, "Ex Libris" • Dungeon #73, "Mere of Dead Men: Eye of Myrkul"
+Card Games
+AD&D Trading Cards • Monster Cards
+
+Gallery
+
+References
+
+---
+
+## Obok al-Busaq
+
+Obok al-Busaq, also called Obok the Slaver, was a pottery dealer inhabiting in Hiyal around 1367 DR.
+
+Activities
+By day Obok was a harmless pottery vendor like many others. By night however, he operated Hiyal's black market that primarily sold all manner of intelligent creatures. These included everything from sentient exotic creatures, to hapless foreigners, to scared children captured by desert raiders.
+
+The Sultana allowed Obok to operate his illicit venture so long as he promised to keep her own stock of slaves filled, which also included her sons' harims, and to run his operation as quietly as possible. She promised to shut down his business should news of it ever reach the wrong ears.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Oberon's Airy Lash
+
+Oberon's Airy Lash was a unique magic ring, part of the Fading Rings set, that bore the name of the sylvan deity Oberon .
+
+Description
+This ring was a delicately woven band of tanned leather strips.
+
+Powers
+Oberon's Airy Lash was only usable by sorcerers and possessed an enchantment that increased the wearer's initiative in exchange for reduced spell resistance. Additionally, this leather ring allowed its owner to cast the chain lightning spell.
+
+History
+In 1369 DR, Oberon's Airy Lash was locked inside a magical and mysterious monument, the Great Stone Head. The statue was located in the Nightingale Court of the ruined Myth Drannor. In exchange for one of the eidolons, small totem-like statuettes depicting various gods, the monument dispensed powerful magic rings. One such ring was the elegant leather Fading Ring, Oberon's Airy Lash.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Oberon (family)
+
+The Oberon family was a patriar family that owned the majority of Baldur's Gate's dry docks.
+
+Description
+The Oberons lived in a home that was situated to the central-south area of Manorborn.
+
+History
+In 1482 DR, a young member of the Oberon family, along with other nobles, removed the hand of the Beloved Ranger statue. They used a dagger as a crowbar and hammer, which bore the mark of the Oberon family. The gouged dagger was dropped, and pointed this individual to the crime. As such, the young Oberon hid away in Horgold Hadru's cellar, along with the others, as Hadru owed one of the patriar families a favor.
+
+In the, Baldur's Gate became plagued by a series of murders and disappearances. The members of the Flaming Fist showed little interest in addressing the incidents, but after the patriar families of Caldwell, Oberon, and Linnacher became affected, the pressure from Flaming Fist demanding investigations from their superiors started to increase.
+
+Notable Members
+Harette Oberon, a lady patron of the arts of the Oberon family in 1492 DR.
+Ulis Oberon, a member of the Oberon family murdered and burned by the Guild in 1492 DR.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Obloss
+
+Obloss held the lofty title of Commissioner of Public Sewers in the city of Scornubel in the .
+
+Description
+Obloss was an overweight man who was constantly sweating.
+
+Personality
+He took his duties seriously and was determined to make Scornubel a better place to live.
+
+Activities
+Obloss' oversaw projects related to Scornubel's roads, sewers, cisterns, and piping. All of his assistants were volunteers.
+
+Appendix
+References
+
+---
+
+## Obakuto
+
+Obakuto was an island located in Kozakura.
+
+Geography
+Obakuto was found to the southeast of Hinomoto. It was used as a landmark by sailors because of its distinctive spires of rock that rose up from the jagged coastline.
+
+Inhabitants
+The island was inhabited by various human barbarian tribes. The waters around the island were home to a large population of dragon turtles, who were hunted by the island's inhabitants. The barbarians worshiped a deity who was a dragon turtle spirit. An annual religious ceremony involved a live individual being thrown into the sea, as a sacrifice to appease the dragon turtle spirit.
+
+Appendix
+References
+
+---
+
+## Obsidian Chapel
+
+The Obsidian Chapel was the temple to Bane, the Lord of Darkness that stood in the desert of Anauroch.
+
+History
+The Obsidian Chapel once held the enchanted Loviatan halberd - the Icon of Power. The weapon was the traditional armament of from the Black Spires of the Maiden, wielded by the temple's Whip of Obedience. The halberd was purchased by the Church of Bane from an unnamed thief who stole the weapon and the the Obsidian Chapel kept the halberd out of contempt for the Whip's incompetence.
+
+The temple remained unconquered until it was raided and plundered by the Bedine sometime before 1281 DR.
+
+Appendix
+Appearances
+Video Games
+
+Icewind Dale: Heart of Winter
+References
+
+---
+
+## Obo'laka
+
+Obo'laka  was one of the nine trickster gods of Omu in Chult. She was a primal spirit that took the form of a zorbo.
+
+Personality
+Obo'laka was obsessive, anxious, and risk-averse. She was a creature of nervous habit, and insisted on her routines.
+
+Appendix
+
+References
+
+---
+
+## Obril Matrell
+
+Obril Matrell was one of the three siblings, the second generation of House Matrell, a noble mercantile family of Arrabar.
+
+History
+Obril Matrell was born on the 25 of Ches, the . Growing up, Obril, along with his siblings Hesta, Dregaul, and Xaphira Matrell were ostracized by nobles of Arrabar for being a young merchant house with no social weight behind their name. Through his life, however, House Matrell gained prominence and success due to the leadership of Obril's parents, Hetta Debrinne, and Obiron Matrell I. At some point before his death, Obril married Ladara Lazelle Matrell and sired three children Vambran, Emriana, and Evester Matrell. He never got to see his children grow up as he died quite young, on the 18 of Elient, the . His youngest children were too young, so they had few memories of their father. Vambran was only four and Emriana - one. Obril's older son, Evester inherited the man's good looks as was evident by a huge portrait that hung in Hetta Debrinne Matrell's sitting room, above a fireplace.
+
+Appendix
+Appearances
+Novels
+
+The Sapphire Crescent
+
+References
+
+---
+
+## Obiron Matrell II
+
+Obiron Matrell II and his twin sister Quindy Matrell were the youngest members of the noble merchant House Matrell as of 1373 DR. Young Obiron's namesake was Obiron Matrell I, the founder of the family.
+
+Personality
+As a kid, Obiron was a wild child who once terrified the entire household by yelling and charging across the gardens of the Matrell estate waving around a loaded crossbow. Both twins were affectionate with their family and especially showed love for young Emriana.
+
+History
+Obiron and his sister were born on Ches 4 of the  to father Evester Matrell, who was business savvy heir to the family's trade, and to mother Marga Talricci of House Talricci. Young Quindy showed interest in all things traditionally feminine, very much like her mother, while Obiron Matrell II was more akin to his father.
+
+On Tarsakh 13 of the, both twins were present at Emriana Matrell's grand sixteenth birthday celebration, a big occasion for the nobility of Arrabar. During the celebration, they witnessed an assassination attempt on the family's elderly yet willful matriarch Hetta Matrell. The assassination attempt was later revealed to have been orchestrated by a sneak coin cabal that included the twins' own father, Evester Matrell.
+
+Later the same year, the twins were kidnapped by the surviving member of the same cabal – Grozier Talricci. Marga Talricci, the twins' mother, was ensorcelled to remain silent but managed to write down the culprit's name on a piece of paper. Quindy and Obiron were rescued by Emriana and her mercenary aunt Xaphira Matrell.
+
+Appendix
+Appearances
+Novels
+The Sapphire Crescent • The Ruby Guardian • The Emerald Scepter
+
+References
+
+---
+
+## Obliviasphere
+
+Obliviasphere was a spell that created a spherical barrier that rebounded spells as wild magic.
+
+Effects
+The spell generated a sphere of force no less than  in diameter that, for ten minutes, blocked the passage of living creatures other than the caster into or out of it, and of all spells. When a spell or living creature tried to cross the sphere's boundary, they rebounded, and wild magic burst out of the sphere. For most spells, the burst of wild magic rebounded in a random direction, but living creatures were struck by the wild magic in full.
+
+Of note, the wild magic could turn someone unlucky and close by into a myconid.
+
+Components
+Besides verbal and somatic components, the spell called for any part of a myconid, and a piece of rock crystal that was polished clear.
+
+History
+Azuth made this spell available through Elminster sometime prior to .
+
+Appendix
+References
+
+---
+
+## Obelner's Well
+
+Obelner's Well, or simply the Well, was a town in Turmish in the mid–14 century DR.
+
+Geography
+It lay on the northwestern coast of Turmish, on the shore of the Inner Sea, some way southeast of Alaghôn and just north of Jathrin's Jump and Karthoon.
+
+Description
+Although known to be a beautiful and peaceful place around 1360 DR, in older times, Obelner's Well had a bad reputation as a rowdy and lawless haven for criminals. It was a place where pirates docked, smugglers traded contraband, where dodgy outfitters and nimble strumpets serviced them or robbed them, where poisons could be purchased in the open, and where bodies could be found in the streets. Fortunately, it had all settled down, with any misdeeds now going on behind the scenes and only wild stories being told.
+
+Rumors & Legends
+Many smugglers either died in the Well or left in a hurry, so people supposed they left a lot of their coin and contraband behind in their stashes. In particular, local stories claimed there were "chests full of gold" and other treasures in a complex of rooms buried underground, which would be accessed by climbing down the deep well the town was named for. These "rooms beside the well", as they were called, existed, but were concealed behind a permanent illusion of solid stone partway down the shaft. The rooms were supposedly defended by a monster could turn invisible and use other magic.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Oboe
+
+An oboe, also known as a hautboy, was a type of wind instrument similar to the shawm.
+
+Notable Users
+ The Bendekar's Mercantile storehouse in Ravens Bluff had several oboes in their instruments collection.
+
+Appendix
+Appearances
+Adventures
+A Handful of Dust
+External Links
+
+References
+
+---
+
+## Oberon (brownie)
+
+Oberon was a brownie who inhabited a forest glade in the Vast, in the environs of Ravens Bluff, the Living City in the mid-14 century DR.
+
+Description
+Oberon was like other brownies, a short fast-talking creature who loved fun, games, dancing songs, and musical toadstools.
+
+Abilities
+Being a fey, Oberon could use several spells once per day each, including protection from evil, ventriloquism, dancing lights, continual light, mirror image, confusion, and dimension door.
+
+History
+Doing a spring or summer of the mid-14 century DR, Oberon fell victim to an affliction that rendered him insane and catatonic. Seven of his fellow brownies wept so loudly they attracted the attention of a group of adventurers from the Living City who were traveling the lush green forest at the time. Desperate to save Oberon, the usually shy brownies called to the heroes for help.
+
+Once the brownies determined that the Living City fold held no ill intent, they revealed that Oberon was playing using his dimension door magic just before becoming afflicted. One of the heroes realized that the ground around the catatonic brownie was unusually soft due to mole tunnels underneath. Not just any mole, but a brain mole. Subsequently, the psionic beast was slain, and Oberon's mind returned to its healthy state. Thankful and joyous, brownies danced around the Living City heroes and awarded them a potion of plant growth. Before parting ways, Oberon and the boonies warned the heroes of a strange hermit who surfaced recently in the woods – Mortimer Mittlemer, recognizable by seven small yellow songbirds who flittered around him.
+
+Appendix
+Appearances
+Adventures
+On the Road to the Living City
+References
+
+---
+
+## Observation kit
+
+Observation kits were sets of tools used by thieves and rogues that aided them in trap disarming, popularized in the 15 century DR.
+
+Description
+A typical observation kit was a collection of lenses, powders, and other implements that aided rogues in detection and disarming of traps. Using such kits also greatly improved their skills in thievery and boosted their perception.
+
+History
+Such observation kits were used by thieves who worked for the bandit leader named Desram who operated in the Sword Mountains in the 15 century DR. Orc raiders of the Ash Ridge were known to carry these sets, as well as undead servants of the vampire lord Ozit who laired in the ruins of Illefarn.
+
+Appendix
+Appearances
+Video Games
+Dungeons & Dragons: Heroes of Neverwinter
+References
+
+---
+
+## Obitake Forest
+
+Obitake Forest was a forest located in Kozakura.
+
+Description
+Obitake Forest was a temperate forest that covered most of the interior of the island of Ryuten.
+
+Appendix
+References
+
+---
+
+## Obbolor
+
+Obbolor, or Spider-home, was an ancient city in the Underdark.
+
+Description
+This city was occupied by drow who worshiped Lolth under the name Araushnee.
+
+History
+Not much is known of the history of Obbolor, but it vanished far before the 14 century DR.
+
+Appendix
+References
+
+---
+
+## Obsidian laced robe
+
+Obsidian laced robe was an enchanted mage's robe, found in the Western Heartlands in the late 15 century DR.
+
+Description
+Obsidian laced robe's inner lining was an obsidian-black faceted cloth that resembled volcanic glass. Despite its hard appearance, the fabric was soft and light against the wearer's skin.
+
+Powers
+The obsidian fabric of this robe produced heat and felt hot to the touch and granted the wearer resistance to magical and mundane fire. Every time the wearer successfully avoided being affected by a spell or dodged a deadly incantation, their obsidian laced robe always lashed out and scorched the enemy spellcaster.
+
+History
+In the, the robe belonged to Talli, a Harper quartermaster, who followed a fellow Harper hero Jaheira to the Last Light Inn in the Shadow-cursed Lands in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Obould (original)
+
+Obould was an orc chieftain during the 12 century DR, and later the self-proclaimed first king of the Citadel of Many Arrows.
+
+Description
+Obould was bald and huge, said to have been as tall as two normal orcs (leading to speculation of some giant in his ancestry). He was remarkably resistant to poisons, which helped him to fend off challenges for his position.Owing to the understandable confusion between references to Obould and Obould I, the two share the description and some activities of Obould I given in Volo's Guide to the North thanks to a subsequent article.
+
+Personality
+He was said to be shrewd and bloodthirsty.
+
+Relationships
+Obould ruled the orcs of the Citadel of Many Arrows, but also pledged allegiance to the orcish kings of the Ice Mountains who had sponsored his original conquest of the Citadel. He maintained alliances with evil human mages and Underdark mind flayers, but because this risked the ire of his shamans, he also deferred to their spiritual guidance in order to prove his devotion to the Orc pantheon.
+
+History
+In the, Obould assembled a massive hoard of orcs within Dead Orc Pass with the aid of the orcs of the Ice Mountains. He marched this huge army to the walls of Citadel Felbarr, and in the course of a four-month bloody siege that came to be called the Battle of Many Arrows, he seized control of the Citadel from its Silvaeren defenders.
+
+Following the victory, his orcs moved into the Citadel, renaming it as the Citadel of Many Arrows. After much additional bloodshed, he asserted his right to declare himself king of the Many Arrows orcs. His bloodline would continue to rule the Citadel until the, when the contemporary king—who would come to be known as the great King Obould Many-Arrows—lost it in battle.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Obscene Grimoire
+
+The Obscene Grimoire, or Mensel's Obscene Grimoire, was a mysterious magic tome filled with obscenity and perversion.
+
+Powers
+The Obscene Grimoire was a thick book bound in black leather. Its pages were filled with detailed woodblock print images of violent obscenities and gruesome perversions, leaving no taboo unmolested. The prints magically hid evil rituals and dark runes, and they only revealed themselves in glowing print to those brave enough to go through the tome's pages. The book revealed a summoning ritual to bring forth a cacodemon under the reader's command and blessing the reader with the protection from evil magics. One use of the ritual led to the Obscene Grimoire's disappearance. The same happened when someone tried to destroy the profane book.
+
+History
+Even though the true origins and the history of the time were unknown, its most renowned owner granted the book its name postmortem – Mensel's Obscene Grimoire. Lord Mensel of Immersea was known as a kind, generous, and humanitarian-to-a-fault nobleman. When the beloved man died of old age in his sleep, his family discovered a secret vault underneath the man's study. It was filled with a small hoard of treasure that included a heavy black book bound in leather – the Obscene Grimoire. A century after Lord Mensel's death, countless rumors and legends grew around the sinister black tome. One rumor of note came from an Arabelan seer, who claimed that Lord Mensel fashioned the Obscene Grimoire for personal use at great expense and ordered everyone involved with the book's creation murdered. Despite this story's dubious authenticity, the legend nevertheless damaged Mensel's name and his family's reputation. Unwilling to keep such an ill-fated book, Mensel's descendants threw the Obscene Grimoire into a lit brazier only for it to disappear in a puff of fetid-reeking mist.
+
+After leaving the Mensel's family, the Obscene Grimoire appeared in many hands throughout history, seemingly at random. Always the book disappeared within a couple of years after being found.
+
+In the, Mensel's Obscene Grimoire was found in the library of the Black Raven Monastery in the mountains above the Ice Lakes in Northwest Faerûn.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale II
+
+References
+
+---
+
+## Obraerl Foulweather
+
+Obraerl Foulweather was a noble of Cormyr in the late 15 century DR. He was the head of House Foulweather.
+
+Description
+He was an aging man.
+
+Relationships
+He was the head of House Foulweather.
+
+History
+During the Council of the Dragon in late Mirtul of the, Obraerl Foulweather was one of the proponents of a noble council that would wield power in behalf of, and instead of, the throne.
+
+Later, as the council was assaulted by a blueflame ghost, he was amongst those hewn down. His death was later confirmed.
+
+Reputation
+Per the War Wizard of Cormyr Welwyn Tracegar, his death wasn't much loss.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Obsidian Ziggurat
+
+The Obsidian Ziggurat was a haunted pyramid in the Shadowfell.
+
+Location
+The ziggurat loomed just beyond the border of an abandoned village through which the Shadowfell Road passed. The ziggurat itself was the Shadowfell reflection of a similar pyramid in Sar'Rukoth, the Ruins of the Serpent Kings near the Lake of Salt on the Material Plane.
+
+Structure
+It was a tremendous and looming pyramid of glossy black stone with stairs only on the side facing the ruined village.
+
+The uppermost levels appeared to be illuminated by flickering torchlight despite there being no source of this light. Likewise, shadows appeared to dance in this light despite not being cast by anything. These shadows sometimes took the form of humanoids or snakes, and seemed to move as if to a drumbeat. If anyone stopped to watch their dance, the shadows attacked their minds, compelling them to climb the pyramid and join in the dance. Once ensnared in this way, a creature was unable to break free of the shadows' compulsion unless physically restrained or forced to stop dancing. Otherwise, after dancing for a full minute, they were transported out of the Shadowfell and to the corresponding pyramid in the Material Plane at the ruins of Sar'Rukoth. By destroying the altar at that pyramid, it was possible to undo this magic and return to the Shadowfell.
+
+Inhabitants
+The pyramid's twin on the Material Plane was a site of cult worship by wereserpents and human cultists. They quickly surrounded anyone who was delivered to them by the shadows' dance.
+
+Appendix
+References
+
+---
+
+## Obsidian gargoyle
+
+Obsidian gargoyles were a variant of gargoyles originating from the Elemental Chaos that had jagged bodies of obsidian and were selectively bred by cultists of the Elder Elemental Eye to be loyal servants willing to give their lives for their masters.
+
+Combat
+These gargoyles fought in the same manner as their more common kin, but due to the jagged edges across their bodies it was far more difficult and hazardous to escape from one's grasp.
+
+History
+In 1479 DR, obsidian gargoyles could be found within Mount Hotenow.
+
+Appendix
+References
+
+---
+
+## Obelia Toobin
+
+Obelia Toobin was a daughter of Zanner Toobin, a Gondian rock gnome foundry worker who lived in the city of Baldur's Gate in the late 15 century DR.
+
+Description
+Obelia was a woman with a dark skin tone and short hair of fine curls. She had brown eyes.
+
+History
+In the, Zanner Toobin, along with his fellow Gondians, worked at the Steel Watch Foundry in Baldur's Gate against their will, forced into slave labor by Lord Enver Gortash and his Cultists of Bane. One of the two motivations for the slaves' compliance was the fact that the Gondians' family members were abducted and held hostage within the drowned Iron Throne headquarters. Obelia Toobin, Zanner's daughter, was among the cult's hostages. It was unknown if the hostages were rescued before the conclusion of the Absolute crisis, or if the prison was flooded in retaliation for the foundry workers' uprising.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Object reading
+
+Object reading was a psionic power of the clairsentience discipline that allowed a psionicist, particularly seers, as well as ardents and divine minds that followed the knowledge mantle, to view the psychic impressions accumulated by an inanimate object from its previous owner(s).
+
+Effects
+By touching an object and concentrating upon it, a psion could receive psychic impressions that were left upon it by the last person to be considered it owners. Casual users, meaning individuals who used an object once but did not fully own it, would not be identified by these psychic impressions.
+
+For much of history, the amount of information revealed by object reading had an element of random chance to it, and the power could only be used once per object, though a psionicist could try again after improving their psionic abilities. During this time, if a manifestation of object reading backfired on a psionicist, they would become obsessed with the item they were attempting to read and covetously try to keep it until they could attempt to use the power again.
+
+By the late 14 century DR the power had been refined by psionicists to better guarantee information retrieval, depending upon how long one studied an object while the power was active. Object reading had a minimum duration of 10 minutes, but this time-span grew in increments of 10 minutes depending upon a psion's mastery.
+
+The information that could be revealed by object reading included the previous owner's species, alignment, gender and sex, how they came into possession of the object, and how they came to lose it. Information was typically extracted in this order, with each piece of information taking a full minute to retrieve. If an object had one or more owners prior to its last one, a psion could potentially gain information on them as well, so long as they continued to concentrate upon the object for object reading's active duration. However, there was a one-in-tenth chance that one of an object's previous owners could be skipped over and left unidentified.
+
+On repeat usages of object reading, the information received on previous owners from these psychic impresions was always the same. Additionally, the power would not pick up from where the psion left off in their examination of owners, but rather would start back at the most recent owner.
+
+Displays
+This power manifested standard auditory and material displays.
+
+Users
+Object reading was found to manifest as an innate ability by agathia, emerald dragons, greater shedu, and solars.
+
+While this power was typically not a wild talent, it sometimes manifested as such for necromancers, whom were known for developing unusual mental abilities.
+
+Known/Notable Users
+ Charon, the boatman of the River Styx.
+ Elminster.
+ Madame Iyvdanya, a fortuneteller in Skullport, possessed object reading as a wild talent.
+ Merith Strongbow, an elven adventurer and member of the Knights of Myth Drannor.
+ Talib the Lich-Killer, a wily old Zakharan necromancer of the deathslayer variety.
+ Tchandrae Euinwood potentially possessed object reading, or a power very similar to it.
+
+History
+Prior to the Time of Troubles, when the fundamental nature of psionic powers changed, rogues were never found to be incapable of manifesting object reading. Also prior to this event, not all objects, especially not all magic items, were found to give off psychic impressions.
+
+Appendix
+See Also
+ Sensitivity to psychic impressions, a clairsentient power that allowed a manifester to view psychic impressions from locations.
+
+References
+
+---
+
+## Obelisk of the First Sultan
+
+The Obelisk of the First Sultan was a monument located in the City of Brass on the Elemental Plane of Fire in 1367 DR.
+
+Location
+The monument was found within the Plume district in the northeast section of the city. It sat on the southern side of the eastern end of the Maidan near the Golden Gate.
+
+History
+As its name implied, the obelisk was dedicated to the memory of the City of Brass's first sultan.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Obaerig
+
+Obaerig was a member of the Moonclaws gang of Athalantar during the 3 century DR.
+
+History
+They participated in the burglary of the Trumpettower home after the wedding of Peeryst Trumpettower and Nanue Glarmeir in ; in the aftermath of the ensuing struggle with a rival gang, the Velvet Hands, who had attempted the same burglary at the same time, and the intervention of Darrigo Trumpettower, who fought them, rival thief Farl, leader of the Velvet Hands, accounted for them as almost certainly lost, thinning the numbers of the Moonclaws. Whether he meant dead, injured, or captured was not explicit.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Oboron's Maw
+
+Oboron's Maw was a dangerous region in the Sea of Swords characterized by deadly whirlpools.
+
+Geography
+It was located in the waters southeast of Nindrol.
+
+History
+In the, a fleet of Northlander raiders from Olafstaad attempted to outmaneuver a fleet of non-human reavers by sailing their longships through Oboron's Maw. While they prevailed, they suffered heavy casualties. Their leader, King Dagus, was badly injured and lost his left arm.
+
+Appendix
+References
+
+---
+
+## Obsidian itztopilli
+
+Obsidian itztopilli and its more powerful variant, exalted obsidian itztopilli, were a variety of artifact created to be used by ranger adventurers in the Chultan city of Port Nyanzaru in the late 15 century DR.
+
+Description
+These obsidian itztopilli were testaments of their owners' strength and the influence of their guilds. These magic items could be created by the most competent weaponscrafters of Chult with the use of soulfired obsidian, hardened bronzewood, bronzewood lumber, and jungle lion's fur.
+
+Powers
+Obsidian itztopilli could be enchanted to house various magics customised for each owner, in addition to boosting the owner's accuracy, battle prowess, and their ability to land well-aimed, devastating, and lucky strikes. When a feathered ilhuilli was wielded with a bronzewood tlahuitolli, both items boosted eachother's damage output, improving healing magics, and absorbing a small portion of incoming damage.
+
+History
+Obsidian itztopilli were created in the late 15 century DR and their design suggested the items' origins to be tied to the ancient Lost City of Omu.
+
+Appendix
+Gallery
+
+Appearances
+
+References
 
 ---
 

@@ -4,6 +4,94 @@ _Source: forgottenrealms.fandom.com, CC-BY-SA 3.0, dump 2025-10-22._
 
 ---
 
+## Ettercap
+
+Ettercaps were a race of bestial, spider-like aberrations, also categorized as monstrosities by some, found throughout Faerûn. They were primitive hunters that had an affinity with spiders.
+
+Description
+An adult ettercap stood  tall and weighed . Ettercaps resembled hunched, grey-purplish humanoids with distended white underbellies, spider-like faces (fangs and eyes and such), and two sharp, black chitinous claws instead of hands and feet.
+
+Personality
+They were not particularly intelligent. They were cowardly and vicious, preferring to set traps to ensnare their enemies. Ettercaps tended to be solitary creatures and their only purpose was to eat and to breed.
+
+Abilities
+Ettercaps possessed the capability to shoot sticky webs. They also possessed a debilitating venom in their bite.
+
+Tactics
+They used their webs as traps to capture prey.
+
+History
+It was suggested that ettercaps were the descendants of a group of mad druids, tainted and transmogrified by their association with a powerful demon into a form resembling the predatory arachnids their cult once revered. While the vast majority had completely reverted to pure animal instinct, a rare few claimed to demonstrate the intellect and capacities of an insane human.
+
+Society
+Ettercaps were very fond of spiders and other arachnids and often kept them as others kept bees. From time to time, however, an ettercap had a number of monstrous spiders as pets, which were as loyal to it as a dog to a human master.
+
+Language
+Ettercaps possessed a fairly simple, spider-derived language of their own. It was focused around basic and real-world concepts, not equipped for the discussion of abstract ideas. They were capable of understanding other languages, such as elven, but could not speak them due to lacking the right vocal cords.
+
+Usages
+A crafting recipe for a wand of lightning found in the arcane Imaskarran Tome of  Resonance included ettercap's silk gland, fenberries, and the spell of lightning bolt.
+
+Appendix
+Gallery
+
+Appearances
+Adventures
+Dungeon #29, "Nymph's Reward" • Scepter Tower of Spellgard • Hoard of the Dragon Queen • The Rise of Tiamat • Storm King's Thunder
+Novels
+Baldur's Gate • The Glass Prison
+Video Games
+Baldur's Gate •  Baldur's Gate II: Shadows of Amn • Neverwinter Nights • Baldur's Gate III
+Card Games
+AD&D Trading Cards
+Board Games
+Dungeons & Dragons Adventure Begins
+Miniatures
+Dungeons & Dragons Miniatures • Icons of the Realms
+Organized Play & Licensed Adventures
+The Lady in Flames
+
+Further Reading
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Ethur Anszim
+
+Ambassador Ethur Anszim was the representative of the Red Wizards of Thay at their enclave within the city of Waterdeep.
+
+Personality
+A witty yet unforgiving man, Ethur was often invited to the parties of Waterdhavian nobles who wish edto appear "daring". In secret, Ethur wished to control the city.
+
+References
+
+FR:Ethur Anszim
+
+---
+
+## Ethereal stride
+
+Ethereal stride was a spell used by warlocks who made a star pact to enable them to fade out of the world for a split second.
+
+Effects
+By briefly moving out of phase with the world, the warlock transplanted themselves a distance of . The effects of the movement stuck with the warlock several seconds longer, however, making them slightly more difficult to attack.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Flames of Initiation • Infernal Machine Rebuilt • A Fool's Errand
+See Also
+ ethereal jaunt
+
+References
+
+---
+
 ## Ethereal plane
 
 The Ethereal plane, sometimes referred to as the Misty Shore or the Waveless Sea, was one of the planes of existence in various models of cosmology.
@@ -62,6 +150,18 @@ Appearances
 Further Reading
 
 External Links
+
+References
+
+Connections
+
+---
+
+## Eternal Sun
+
+Eternal Sun, sometimes called the Keep of the Eternal Sun, was a plane of existence thought to be lost long ago but was found again after the Spellplague and became part of the World Axis cosmology model. In the Great Wheel cosmology, it was located in Mechanus. It was the divine realm of Amaunator, who dwelt in the Palace of the Four Suns with his exarch, Siamorphe. The Palace was surrounded by Waukeen's Marketplace Eternal.
+
+Appendix
 
 References
 
@@ -201,6 +301,1059 @@ Gallery
 
 Appearances
 
+References
+
+Connections
+
+---
+
+## Ethereal barrier
+
+Ethereal barrier was an abjuration spell that prevented encroachment by creatures moving through the Ethereal Plane.
+
+Effects
+The wall(s) created by this spell were proof against creatures traveling through the Ethereal Plane by phasing, dimension door, shadow walk, or any other method of travel through the Border Ethereal adjacent to the plane of the caster (usually the Prime Material Plane). To those on the same plane as the caster, ethereal barrier was undetectable. This spell did not prevent travel through the Astral Plane (teleport, gate, etc.).
+
+The area of effect was two 10 ft (3.1 m) squares per level of the caster, arranged any way the priest desired. Multiple priests could cooperatively cast this spell for a greater duration, combining their areas of coverage. It took ten minutes to erect an ethereal barrier.
+
+Components
+Besides verbal and somatic components, a compound of lead and rare earths was required. Estimated cost was 10 gp per square.
+References
+
+---
+
+## Eth Junster
+
+Eth Junster "Stoneclaw" was a male wizard and one of the magelords of Athalantar in the early-to-mid 3 century DR.
+
+Appearance
+He was young and wore no insignias.
+
+Abilities
+He had a great aptitude for magic, and had devised a spell that gave him umber hulk claws, among others.
+
+History
+In his youth, Eth Junster had slain an umber hulk with magic.
+
+Eth was sent to Narthil in 234 DR to accompany Prince Gartos in slaying Elmara (a disguise of Prince Elminster Aumar) in response to her attack on Seldinor's apprentices, as the Magelords didn't trust Gartos enough to let him act alone. The mission was also to serve as a test for the promising Gartos, who had proven himself useful thus far. He was killed almost immediately as Elmara spooked his horse and cut him loose from the saddle, making him fall over and hit the back of his head.
+
+References
+
+---
+
+## Ethraniev Marrowslake
+
+Ethraniev Marrowslake was a female werewolf who was the leader of the Shadovar-allied Gray Wolf Tribe.
+
+She and her people made many raids against Neverwinter. In the end, she was defeated by some adventurers.
+
+Appendix
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Ethereal marauder
+
+An ethereal marauder was a predatory monster from the Ethereal Plane.
+
+Description
+Marauders resemble blue or purple two-legged lizards with long, flexible tails. Having no neck to speak of, their massive mouth with its three mandibles was attached directly to the creature's body. The mouth was lined with black teeth. Between each pair of mandibles were one of its three tiny eyes.
+
+Marauders on average grew to stand  tall and, though some specimens could reaches sizes double that. They typically weighed around .
+
+Behavior
+The native behavior of ethereal marauders on their home plane was not well-known. Their forays into the Prime Material Plane occurred when they were hunting prey. They had no society or culture but behaved more similarly to natural wild animals.
+
+Survivors of their attacks claimed that they made an "eerie whine," which varied in pitch depending on the monster's speed and condition
+
+Abilities
+Marauders had the magical ability to shift from the Ethereal Plane to the Material Plane and back again, much like the spell ethereal jaunt. They would use this innate ability to ambush prey, snapping into existence, biting with their razor teeth, and retreating into etherealness.
+
+History
+In 1372 DR, the famous ranger Drizzt Do'Urden and his companions were attacked by a rare cluster of overgrown ethereal marauders, while investigating the ruins of the dwarven and Orcish town of Baffenburg. Whatever catastrophe destroyed the town was thought to have weakened the planar barriers between the Material and Ethereal Planes, which was why the marauders were roaming there.
+
+Some time in the 14 century DR, a ethereal marauder took up residence in the abandoned Moon Tower of Elembar.
+
+Ecology
+These creatures usually hunted alone.
+
+Relationships
+Nilshai, sorcerers of the same plane, were said to keep ethereal marauders as guardians.
+
+Appendix
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Etherealness
+
+Etherealness was a transmutation spell made the caster travel to the Border Ethereal.
+
+Effects
+This spell functioned like ethereal jaunt except that more targets could join the caster. While the spell was active the caster could move about in the Ethereal plane, but only half as fast if descending or rising. The spell lasted for eight hours, during which time the caster could see and hear into the original plane from which the spell had been cast. More powerful casters could take additional targets with them.
+
+Components
+Vocal and somatic components were needed for the casting of this spell.
+
+Appendix
+See Also
+Ethereal banishment - a related but distinct spell also known as etherealness
+
+Appearances
+
+References
+
+---
+
+## Ethoist
+
+Ethoists or Clerics of the Faith Ethical, were priests who primarily maintained the temples and mosques of Zakhara. They called for prayer, delivered sermons, and performed daily tasks required by their god.Ethoist was a cleric class kit for the Al-Qadim setting.
+
+Requirements
+Ethoists did not have any special requirements, though the spouse of a married ethoist needed to belong to the same religion.
+
+Role
+Most ethoists were methodical individuals, carefully maintaining their daily routines and the happenings of their house of worship.
+
+Young ethoists were usually encouraged to go out and explore the world before returning for a more rigid lifestyle as a priest. These young ethoists were required to document their travels and activities. They would discuss their documentation with other ethoist priests whenever they reached a temple of their god.
+
+Possessions
+Ethoists wore a turban adorned with a holy symbol of their god, usually made from precious metal. Ethoists also wore a shoulder vestment with their god's symbol.
+
+Benefits
+All ethoists enjoyed great benefits from their temples including safe haven, monetary loans, companions, and assistants.
+
+Hindrances
+Ethoists were always expected to follow the instructions of their superiors.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Eternal Crimson
+
+The Eternal Crimson served as the standing army of the efreet in the City of Brass on the Elemental Plane of Fire.
+
+Organization
+The army of the efreet had around 100,000 soliders. General abd Multahib was their commander.
+
+Activities
+Members of this organization served as main army for the efreet.
+
+Base of Operations
+The City of Brass served as the base of the Eternal Crimson.
+
+Appendix
+References
+
+---
+
+## E'Tyon Bay
+
+E'Tyon Bay was a bay to the north of the city of Singye in the kingdom of Koryo in Kara-Tur, lying beside the Quang Muku Forest.
+
+By 1357 DR, E'Tyon Bay had become infested by tigerworms, which sunk four fishing boats and a merchant ship. Singye authorities offered a reward to any who could eliminate the menace.
+
+Appendix
+References
+
+---
+
+## Etsu-no-kami Makoto
+
+Etsu-no-kami Makoto was a spirit folk samurai adventurer in Miyama Province in Kozakura in 1357 DR.
+
+History
+Makoto was born in Miyama to the samurai Etsu-no-kami Yasutoki and the spirit lady of a great willow. Yasutoki held a small shoen until a plot in the provincial capital of Tamanokuni forced the shugo-daimyo to banish all the family and Yasutoki's position went to Inoue Kanemori of the Inoue clan.
+
+In 1357 DR, Yasutoki died and Makoto with his friend Saisho went back to Miyama in search of adventure.
+
+Appendix
+Behind the scenes
+Makoto was a pre-created PC for use in adventures in Miyama.
+
+References
+
+---
+
+## Etsi Hashoto
+
+Etsi Hashoto was an inhabitant of the Fochu Peninsula in Wa.
+
+History
+Yusuke lived in the village of Esan in the Fochu Peninsula and was a collector of butterflies. In 1358 DR, he was trying to identify an unusual specimen. Eventually, he asked the counsel of Osari Minhiro and a foreign adventuring party.
+
+Appendix
+
+References
+
+---
+
+## Eternal Flame Pavilion
+
+The Eternal Flame Pavilion was a temple located in the City of Brass in 1367 DR.
+
+The Eternal Flame Pavilion was found in the Furnace ward of the city.
+
+Description
+This mosque was sheathed with finely beaten gold.
+
+Activities
+The Eternal Flame Pavilion was dedicated to Agni, a fierce god who destroyed everything he touched with purifying flames. Since the priests of Agni preached the ideal of redemption and immortality, the worship of Agni was wildly popular among the common efreet, but only tolerated by the noble efreet who preferred to keep their subjects hard at work instead of praying.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Ethereal banishment
+
+Ethereal banishment was an alteration spell of the southern magic tradition that transported one creature to the Ethereal plane and kept it there for a limited time. It was often used on opponents, who had a chance to resist the magic.
+
+Components
+Apart from verbal and somatic components this spell required either a drop of oil gained from a creature from the Ethereal Plane or a drop of oil of etherealness.
+
+Users
+Ethereal banishment was a spell developed in the southern magic tradition of Mulhorand, Unther and Chessenta. There it was also simply known as etherealness, but was distinct from the related spell of the same name used elsewhere.
+
+Appendix
+See also
+Banishment
+Etherealness
+Ethereal jaunt
+
+Notes
+
+References
+
+---
+
+## Ethon
+
+Ethon was a human patron first met in the Elfsong Tavern owned by Alyth Elendara in Baldur's Gate. He is the second character the trio speak with after their attack out on the city streets outside of the tavern.
+
+History
+Ethon was once a thief. He admits to being one after his rescue in the sewer dungeons beneath Baldur's Gate. He describes how he was part of Baldur's Gate original Thieves Guild many years before and that he retired to lead an honest life. It is also mentioned by Alyth, that Ethon was the one who found a beholder in the cellar. It was later stuffed and displayed in the tavern.
+
+Baldur's Gate
+Ethon provides help to the trio, beginning with his willingness to lend the trio the cellar key during the first mission. For the trio's first mission, Ethon gives them his rusty dagger (inherent to his former occupation as a thief) He later is captured after he sought to follow the trio into the cellar. He is then held prisoner by Kobolds and their Bugbear chieftain until the trio defeats them and frees Ethon. He then mentioned a secret entrance into the sewers from the street level and apologizes for not having told the trio about it sooner as he hoped the rats would discourage them from entering the cellar or the sewers. Afterwards, he provides a second key to the trio, explaining how he picked it off the chieftain that captured him. Before he returns to the Elfsong Tavern, Ethon tells the trio some information and offers further help by contacting old associates from his thieving days.
+
+Before the trio embarks on their mission into the Shrine of Ill Matter, Ethon told them to meet him back in the tavern, where he introduces them to Jherek, leader of the Harpers.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate: Dark Alliance
+
+References
+
+---
+
+## Ettain
+
+Ettain was a regular patron of the Beached Leviathan, one of the most popular taverns of Neverwinter in the late years of the 15 century DR.
+
+Activities
+Ettain was known as the "caulker" of the Beached Leviathan because he was in charge of the maintenance of the tavern's infrastructure. He was also one of the most skilled carpenters living in Neverwinter around 1479 DR.
+
+As such, Ettain knew every inch of the Beached Leviathan and was aware of the secret room where Harrag, the Beached Leviathan's owner, had stored his personal fortune. Ettain was a true friend of Harrag and he never betrayed his trust, however. Moreso, he was one of the few people who always tried to protect Harrag from Dagult Neverember's plots.
+
+Appendix
+References
+
+---
+
+## Eternal flame
+
+Eternal flame was an alteration/necromancy spell that allowed non-magical items to receive the inherent magic of a spell, when cast upon by an arcane spellcaster.
+
+Effects
+When cast upon an item, this spell allowed a non-magical item to receive the magical energy of a spell while still being its intended target. While it didn't enchant the item itself, like the arcane spell, it allowed an item to hold an enchantment, or dweomer typically from one or several focal stones.
+
+Eternal flame could also be cast, by touch, on the bodies of living, dead or undead mammals. The next spell affecting the target, with a few exceptions, would have maximum effect in all aspects, including damage, duration, intensity, etc. The exceptions were any enchantment/charm, or Illusion/phantasm spells. If the volume of the target body was more than twice that of the caster, the spell would fail.
+
+Components
+The material component of this spell was the spark created from a dweomered item striking against a rock, blade or similarly magical item.
+
+Nomenclature
+The name of this spell derived from a figurative Elven word for "magic".
+
+Appendix
+References
+
+---
+
+## Eternal flame (disambiguation)
+
+The term "eternal flame in the Realms could refer to:
+ An Eternal Flame, the leader of a Temple of Kossuth;
+ Eternal flame, a necromantic spell;
+ The Eternal Flame Pavilion, a temple in the City of Brass; or
+ The Cult of the Eternal Flame, a cult devoted to the archomental Imix.
+
+---
+
+## Ethereal jaunt
+
+Ethereal jaunt was a transmutation spell that turned the caster ethereal, via a trip to the Ethereal Plane.
+
+Effects
+The caster and all their possessions turned ethereal, becoming insubstantial and invisible in the Material Plane. They could pass through solid things and living creatures alike, and were thus immune to material attacks. They remained vulnerable to force-related spells and effects like magic missile and wall of force, to abjurations, and to certain other attacks and powers, which had effects extending from the Material Plane onto the Ethereal Plane, but the reverse was not true. The caster could not affect material creatures, and their spells could only affect other ethereal creatures, which they could not interact with physically.
+
+The caster could only see and hear in the Material Plane to a distance of 60 feet (18 meters), but their vision was gray and ephemeral. They could also move in any direction, even vertically, but at half their normal speed.
+
+The basic spell lasted 42 seconds, longer with more experience, unless dismissed earlier. At the end, the caster was returned to the Material Plane, becoming solid again. If this was within another object, they were shunted to the nearest clear space but took injury for the forced distance moved.
+
+Components
+It required verbal and somatic components.
+
+Appendix
+See Also
+Etherealness
+Ethereal banishment
+
+References
+
+---
+
+## Ethereal dragon
+
+Ethereal dragons, also known as moonstone dragons, were a species of planar dragon native to the Ethereal plane.
+
+Description
+Ethereal dragon scales had a brownish-gray iridescent coloration. Their claws and teeth were very thin and sharp as needles.
+
+Personality
+As extremely inquisitive creatures, ethereal dragons enjoyed following and spying on Prime Material plane dwellers, while also looking for any objects in their possession that might interest them. Upon finding such an object, an ethereal dragon would visit the Material plane at a convenient time to steal it and return to its home plane as quickly as possible.
+
+Combat
+An ethereal dragon's natural reaction when faced with combat was to flee, taking advantage of their expert ability to hide while in the Ethereal plane. However, if a fight was inevitable, the typical strategy adopted by ethereal dragons was to frustrate their opponents by using dimensional anchor to lock them in one plane, giving them time to flee, or by using their powerful breath weapon: a cone of force. Ethereal dragons' breath weapons, senses and many abilities extended to the Ethereal even if the dragon was in the Material plane. They could also interact with the two planes via abilities similar to the blink, ethereal jaunt, and etherealness spells.
+
+Sufficiently old and powerful ethereal dragons could summon ether cyclones, which were powerful enough to hurl their opponents into random locations within the Ethereal plane, into the Border Ethereal of any other plane, or even into the Astral Plane.
+
+Society
+In addition to their natural environment in the Ethereal plane, ethereal dragons were also commonly seen in the Dragon Eyrie. They could be found alone or in families as they raised their young. Clutches of young ethereal dragons were also commonly found.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Ethdale
+
+Ethdale was a town near the mouth of the River Eth where it emptied into the Easting Reach in northeast Faerûn, circa the Year of Shadows, 1358 DR.
+
+Geography
+Ethdale was likely part of Thesk because it was south of Nyth, a small city in Thesk, but it was north of the River Flam, which was the unofficial boundary between the Great Dale and Thesk in the Forest of Lethyr. (See Gallery.)
+
+Inhabitants
+Around the Year of the Tankard, 1370 DR, the population of Ethdale was mostly halflings and humans coexisting, with the halflings somewhat more prominent.
+
+Appendix
+Notes
+
+Gallery
+
+References
+
+---
+
+## Ethereal curtain
+
+Ethereal curtains, also called curtains of vaporous color, were the barriers between the Deep Ethereal and the various Border Ethereal regions of the Ethereal Plane. Some scholars instead reported a single infinite curtain that separated the two regions of the Ethereal, in which case it was called the Wall of Color.The Great Wheel cosmology presented in Manual of the Planes for the core setting of 3 edition Dungeons & Dragons has a simplified Ethereal plane, with no separation between Border Ethereal and Deep Ethereal. However, it also presents the Deep Ethereal as an alternative set of rules, more in line with the earlier 1- and 2-edition descriptions. Core 3 edition furthermore alters ethereal curtains, such that they can travel to any plane, not only Inner Planes—although the optional rules for the Deep Ethereal seem to suggest a restoration of their previous behavior. They are described as functioning much like color pools, in contrast to their function in the two earlier editions. Fifth edition restores the earlier distinction of Border and Deep Ethereal and restores the function of ethereal curtains as barriers not portals.The Forgotten Realms setting does not strictly follow core rules, and in novels written for both 2 and 3 edition, the Border Ethereal is explicitly mentioned, strongly implying that the optional 3-edition rules for the Deep Ethereal should be used, not the standard set of simplified rules.
+
+Description
+
+Ethereal curtains appeared like enormous sheets of colored vapor, which continuously were in motion. The motion had been described as the flapping of a world-sized flag. Motes of sparkling light flickered over their surfaces. Some who had seen ethereal curtains described them as looking something like the northern lights found on some worlds.
+
+The curtain or curtains were only visible from the Deep Ethereal side and never from the Border Ethereal.
+
+Anyone separated by a curtain from the Border Ethereal was completely protected from any harm by any force or being on the other side, whether on the Border Ethereal or the bordered plane.
+
+Curtain Colors
+The color of an ethereal curtain indicated to which Border Ethereal region it led. To those who believed in a single ethereal curtain, the curtain had separate colors in different areas, which indicated the destination. Trusting in the color of the curtain to lead you to your desired target, however, was considered risky. The colors of the curtains to most of the major planes are listed in the table below, along with other methods of planar travel:
+
+Travel
+If a traveler faced an ethereal curtain, desire alone was all that was necessary to enter through the curtain and find oneself on the other side, at the border of another plane able to see into it from the Ethereal. (Strangely, something prevented anyone from reaching the Border Ethereal of the Material Plane around Krynnspace; the ethereal curtain to this part of the multiverse was somehow blocked.)
+
+Likewise, any planar traveler desiring to leave the Border Ethereal of any plane needed only to will it, and she or he would immediately appear facing an ethereal curtain of the appropriate color. To an observer still remaining on the Border Ethereal, the traveler would appear to vanish in an enveloping, roiling mist. (An exception to this was found on the Border Ethereal of the Demiplane of Dread, from which it was impossible to enter the Deep Ethereal.) Later scholars believed that the only way to enter the Deep Ethereal from the Border Ethereal was with a plane shift or gate spell.
+
+Traveling along a curtain before entering it would allow one to appear at a point overlapping a different location on the bordered plane, but since it was not possible to see through the curtain, it was generally not possible to predict which direction of travel along the curtain would lead to which location, nor did distances traveled in the Deep Ethereal in any way correspond to distances in the Border Ethereal. Some travelers of the planes argued that those who were clever enough could recognize patterns in the flashing lights in the curtain to find previous sites of entry.
+
+Traveling to another curtain or area of a curtain could feel like a journey of anywhere from 10 to 1,000 hours, though the time that had actually passed in the Material Plane would not be as long. Traveling to the place where passage through a curtain would take one exactly to the desired destination in the Border Ethereal always took longer than if someone simply had willed to reach a given border in general.
+
+If a visitor to the Deep Ethereal was under the effects of a magic item or spell, such as etherealness, and the duration of the magic wore off, the traveler would immediately be forced through the nearest ethereal curtain and would materialize on the corresponding plane of existence.
+
+Appendix
+Notes
+
+See Also
+ Mount Olympus, from which similar shimmering curtains among the trees and rocks on its slopes led to other planes.
+
+Appearances
+ Tantras
+ The Fallen Fortress
+ Ghostwalker
+ The Howling Delve
+
+References
+
+---
+
+## Ethereal visage
+
+Ethereal visage was a protective illusion spell cast by bards, sorcerers, and wizards. The spell created a nimbus of ghostly light around the caster.
+
+Effects
+The spell was an improved version of the spell ghostly visage, and much like it, the ghostly nimbus created by this spell protected the caster in various ways. It canceled the effects of any spell that wasn't more powerful than ghostly visage, as well as making the caster harder to hit. Even the hits that did land had very little effect unless the enemy used a magical weapon at least thrice as powerful as that created by a magic weapon spell.
+
+Components
+The spell required only a  somatic component to cast.
+
+Appendix
+External Links
+
+References
+
+---
+
+## Ethereal ooze
+
+An ethereal ooze was a huge incorporeal ooze from the Ethereal plane.
+
+Description
+These ethereal creatures were able to shift between the Ethereal plane and the Prime Material plane at will, and thus could assume both an ethereal and physical form. Normally, an ethereal ooze would assume a cubic shape, much like a gelatinous cube. These oozes were flesh-colored, and parts of those that they had previously consumed whirled within them.
+
+Abilities
+Such oozes could move through solid objects, but not force fields. As such, they could easily approach prey, and easily ignore their armor and shields. As they were mostly present in another plane, it was impossible to hear when ethereal oozes were approaching.
+
+Combat
+Ethereal oozes did not track victims in the Prime Material plane. Instead, they lurked in the Ethereal plane until they found large enough foes. Then, they assumed their physical form and attempted to smother the creatures. If successful, the oozes would try to etherealize their target, and then fade back into the Ethereal Plane, so that their target could not easily get away. Here, their potent acid would kick in, slowly digesting the creatures.
+
+These creatures could only be harmed by magic weapons, spells, or regular attacks by other incorporeal creatures. As with other oozes, they were unable to become poisoned, polymorphed, put to sleep, paralyzed, or stunned.
+
+History
+In 1378 DR, Cavatina Xarann and Leliana Vrinn managed to escape the Ethereal plane by becoming engulfed by an ethereal ooze, and then attacking it from the inside.
+Appendix
+Appearances
+Novels
+ ''Ascendancy of the Last
+References
+
+Connections
+
+---
+
+## Eternal Blizzard
+
+The Eternal Blizzard was a notable valley within the Ice Spires.
+
+Geography
+
+The Eternal Blizzard was situated along the east bank of the Clear Whirl River, between the western and northern arms of the Ice Spires. Northeast of this valley was the Hill giant camp of Chief Groote.
+
+On the far side of the Eternal Blizzard was the Dour Fissure.
+
+Geographical Features
+The location's name was derived from its peculiar state of perpetual whiteout. This phenomenon was caused by the surrounding mountains trapping any wind moving over the valley from the west, which forced them into a swirling torrent that engulfed the entire region and churned its snow. These winds typically averaged  per hour and rarely dropped below .
+
+History
+The Ice Spire ogres were known to banish members of their tribe into the Eternal Blizzard, either for acts of betrayal or for violating their leaders' authority.
+
+Rumors & Legends
+The Eternal Blizzard's unique phenomenon sparked many local myths and rumors over time. One legend claimed that a furious deity of snow lived within its center, while another told of a powerful tanar'ri being trapped within the gap by Uthgar or Hiatea.
+
+One rumor alleged that many of the Ice Spire ogres who were banished into the Eternal Blizzard had somehow survived. Supposedly, they had formed a sort of feral society that relied upon raiding human caravans and stealing from the various nearby giant steadings, but were very careful to cover their tracks.
+
+Appendix
+References
+
+---
+
+## Ethanniel's sling
+
+Ethanniel's sling was an enchanted elven sling that could deliver devastating blows with simple bullets as well as with unmissable magic missiles.
+
+Description
+Ethanniel's sling was designed like many other ancient elven slings, a hand-held solid curved launching device that propelled round bullets toward its targets with a single swing, unlike regular leather slings.
+
+Powers
+This sling possessed a potent +5 enchantment and increased its user's  dexterity and reflexes. Additionally, Ethanniel's sling could launch magic missiles projectiles instead of bullets. The number of magic missiles it could create was limited to six a day.
+
+History
+In 1369 DR, Ethanniel's sling was looted off the corpse of one of the fallen Akh'Velahr by the Cult of the Dragon's dragonkin. The magical items they hoarded were stored inside the aerie in one of Castle Cormanthor's towers that was used by the Cult's winged troops as a breeding ground.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+---
+
+## Etherik
+
+Etherik was an elf wizard focused on destroying all drow around 1479 DR.
+
+History
+Around 1439 DR, a drow raiding party assaulted the village of Silvershore in the Valley of Khedrun, killing all the inhabitants. Only the young Etherik survived. He decided to dedicate his life to totally destroying the drow.
+
+In time, Etherik became a talented wizard and around 1479 DR he had built a new kind of construct, the drowslayer, which he planned to mass-produce and unleash into Menzoberranzan. News of it reached the various drow houses of Menzoberranzan and they decided to cooperate for once and sent an assassin squad from various houses to destroy the construct and kill the wizard. However, Etherik had foreseen this scenario and wanted to use the assassin squad as test subjects in order to better impress his guests into financing his project.
+
+Personality
+Etherik hated the drow with true passion; his only objective was to kill every drow of the Underdark.
+
+Appendix
+References
+
+---
+
+## Ethara Shadowstep
+
+Ethara Shadowstep was the elven captain of the Tethyrian merchant caravel Moon's Wake in the late mid-to-late 15 century DR.
+
+History
+In 1379 DR, while in Waterdeep Ethara was kidnapped and enslaved by Lanador. Thereafter, a reward of 100 gold pieces was put up for any information regarding her whereabouts.
+
+Appendix
+Appearances
+Adventures
+Dungeon #206, "Eyes on the Ball"
+
+References
+
+---
+
+## Ethra Dralas
+
+Ethra Dralas  was a member of the Red Wizards of Thay, and held the position of Zulkir of Abjuration in the late 15 century DR.
+
+Description
+As a member of the Red Wizards, Ethra dressed in crimson wizard robes and her skin was adorned with Thayan-style tattoos.
+Personality
+Ethra was single-minded in pursuit of her goals. She was also very cautious, preferring to be over-prepared for any eventuality or encounter.
+Abilities
+Ethra was a potent abjurer, and was adept at casting many spells quickly. She bore special Thayan tattoos of absorption which allowed her to absorb the magic of spells cast at her.
+
+Prior to any potential combat, she would secure a number of safeguard spells for herself, including death ward, foresight, freedom of movement, mirror image, and true seeing. She also developed a contingency plan for particularly dangerous situations which involved instructing her simulacrum to polymorph her into a giant gorilla if the battle turned against her. This contingency also entailed Ethra casting tongues on herself prior to combat so that she could continue to use her spells while in the gorilla form.
+Possessions
+Ethra was known to make liberal use of potions and scrolls. She wore a scarab of protection and carried a dagger. She also possessed an amulet which controlled a shield guardian, although she gave this to her simulacrum.
+Relationships
+Ethra was a loyal servant of Szass Tam, and in turn her underlings included the necromancer Sanir Lolka, the Banite cleric Vend Ma'non, and several Thayan knights.
+
+She was also frequently accompanied by a simulacrum which she had convinced her underlings was in fact a twin-sister named Hetra.
+History
+Shortly following the events of the Death Curse in the late 15 century DR, Ethra was sent to Chult by Szass Tam to collect the residual energies of Acererak's soulmonger and use it to release Dendar, the primordial Night Serpent, from her prison beneath the Peaks of Flame. Tam had been fooled into believing that Dendar had visited him and his servants in their dreams, promising to fulfill her purpose to end all life on Toril and to leave the Red Wizards as rulers over an undead world if they freed her. In truth, this was a ruse devised by the lich Rhaugilath, who sought to trick both the Thayans and a party of adventurers into clashing over the soulmonger'''s power, ultimately to claim it for himself in order to break free of his servitude to the Shadow King Larloch.
+
+Ethra arrived in Chult and collected several fragments of the soulmonger, storing its power inside opal pendants. By the time she proceeded to the Maze of Ubtao to locate the Iron Doors that held Dendar imprisoned, she had collected several such pendants, but not as many as she would have liked. Nevertheless, she successfully penetrated the Maze and arrived at the Iron Doors, although along the way she suffered many casualties, including her cleric, Vend Ma'Non, and one of her knights, Oscillok. She then managed to begin opening the doors before Rhaugilath's adventurers confronted her.
+
+Appendix
+Appearances
+
+Adventurers LeagueTurn Back the Endless Night''
+
+References
+
+---
+
+## Ethervel Mistrivvin
+
+Ethervel Mistrivvin was talented bard and adventurer inhabiting Urmlaspyr in 1358 DR.
+
+Activities
+Ethervel was a rising talent in Urmlaspyr with quite the knack for musical composition. He often joined other adventurers in order to fund his work.
+
+Appendix
+
+References
+
+---
+
+## Etabalon
+
+Etabalon was an obscure planar realm outside of Toril.
+
+Description
+Etabalon was known to consist of arctic icy plains.
+
+History
+In early fall of 1372 DR, one of the inhabitants of Etabalon, a winged and horned humanoid wizard named Mogdor embarked on a quest of retrieving his stolen servant, the imp Sujit. Were he ever successful, Mogdor was ready to step through a gate back to the icy planes of Etabalon with his recaptured servant. That was not to be however. Instead of retrieving Sujit, Mogdor received a package that held an angry imprisoned demilich, Extallimix, who swiftly destroyed the planar wizard with a flurry of powerful magics.
+
+Appendix
+Appearances
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Ethel
+
+Auntie Ethel was an old woman that dwelled within a quaint little teahouse in the Sunlit Wetlands of the Western Heartlands as of the late 15 century DR.
+
+Description
+By all outward appearances, Ethel was a kind elderly woman that went out of her way to help others. She presented herself as frail and vulnerable and spoke with a soothing tone that quickly garnered the trust of others.
+
+Personality
+
+Ethel's sweet and "generous" persona was merely a guise to pursue her own selfish aims, which she furthered by manipulation, outright lies, and various forms of torture. She was thoroughly evil in how she used others, exploiting their greatest desires or fears for her own gain.
+
+She absolutely detested and would not have anything to do with shadow magic, particularly that associated with the returned empire of Netheril. It was one of the few topics that caused her to forego her usual honeyed words for bodily-function-themed vulgarities.
+
+Abilities
+Auntie Ethel was a powerful spellcaster armed with many powers and spells to confuse and mislead anyone that dared oppose her in battle. She could create illusory clones of herself, take on and imbue her clones with the likeness of others, and outright turn invisible if she felt truly threatened.
+
+Possessions
+
+Over the years Ethel amassed a collection of magical implements, including the powerful staff of rotting wood and live worms called the staff of crones,  that was capable of inflicting sickness in others at will, an elven staff called Corellon's Grace, and a specially-crafted wand of her own making called Bitter Divorce, which allowed the hag to raise one specific individual.
+
+Using the extracted eye of one of her many victims, Ether created a twisted amulet that offered her protection against righteous and immoral beings alike.
+
+True to her disguise as an apothecary, Ethel maintained a vast collection of mysterious brews and draughts in her lair, with names like A Mother's Loathing, Broken Promises, Butterflies in the Stomach, Faltering Will, Heart of Stone, Insanity's Kiss, Lost Time, Lover's Avarice, Missing Pets, and Wilted Dreams.
+
+Activities
+
+Auntie Ethel spent much of her time in her lair, working on sick experiments or other horrific acts to further her own goals. When she was out in disguise amongst the folks of the Realms, Ethel was seeking out victims to target for her depraved covenants. While these deals seldom worked in the favor of those that dealt with Ethel, she always upheld her end of the bargain, often in some manner twisting the words of the agreement.
+
+She dwelled made her lair and laboratory within an underground cave deep beneath the swamp. It was accessible by a twisting passageway beneath a decrepit old shack, that Ethel made to appear as a cozy little teahouse. She used illusion magic to obscure the appearance of the swamp itself, making it look as a lovely picnic destination with adorable sheep, while it was in fact a putrid bog with poisonous plans overrun with her personal redcap minions.
+
+Relationships
+Ethel's lair was inhabited by many of those she had manipulated, debilitated or outright abducted. Among them were the elf Lorin, whom she made to always see others as horrific illusions, a petrified dwarf Efrin Hammerborn, whom she secretly infected with Ladaguer's Bite, the beheaded Magron, and the vain Calim, whose likeness was trapped within a mirror.
+
+History
+At some point, two paladins and a divine cleric attempted to storm Auntie Ethel's lair. While their final fate was unknown, their last known deeds were screaming in pure terror.
+
+For a time during the, Ethel traveled with the community of tieflings that had been exiled from Elturel following the Descent of the city into Avernus, working as an apothecary and potion-maker.
+
+Shortly after arriving at the Emerald Grove, Ethel offered some unknown potion to the guard Pandirna which granted her wish of having bear-like strength; but the same potion also made Pandirna paralyzed from the waist down.
+
+Around that same time, Ethel made a deal with a woman named Mayrina, offering to bring her husband Connor back from the dead in exchange for her unborn baby. She intended to keep Mayrina within her hut in the middle of a swamp until the baby was born, offering promises that she would provide a better life for the child than the poor woman ever could. One day, while returning to her lair in her human form, Ethel was confronted by Mayrina's brothers Johl and Demir.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+
+References
+
+---
+
+## Ethereal chamber
+
+Ethereal chamber, known as simply chamber by planar travelers,The spell is listed as level 2 on the index of A Guide to the Ethereal Plane, but it is level 3 in the description. was a spell used against foes in the ethereal plane. It encapsulated its target in a coccoon of glassy force, trapping them.
+
+Effects
+The ethereal chamber spell first needed to be targeted; this required some manner of perception into the ethereal plane (or the caster could simply be there themselves). It created a prison of pure crystalline force around a target that did not vacate its position quickly enough, making it impossible for the entrapped creature to move on the ethereal plane or any of its coterminous planes. Those so encapsulated could still breathe, so it was impossible to suffocate them. It also became impossible for those encased within to make any attacks, though the crystalline force made it difficult to target them as well. The version of the spell that had become most popular by  also granted a certain resistance to sonic and gaze attacks to its victims. The version of the spell known before then employed the mists of the ethereal plane instead of force, hardening them into panes of glassy material.
+
+A disintegrate spell would immediately break the effect. Unlike other force spells, sufficient strength could break it, even from the inside, with the level of strength required changing alongside the caster's power. The version of the spell most known before  was so strong that even a titan could only break through half the time, though, and no physical damage was enough to break the spell from the outside, as it drew in the mists from the ethereal plane to repair itself.
+
+Components
+Besides the verbal component and the somatic component, the spell called for a small piece of translucent glass.
+
+History
+The nearly spent Wand of Citrine Force carried by Ususi Manaallin in  unleashed an effect almost perfectly matching the spell, except that it operated in the Prime Material plane as well, and that it could be used to create obstacles.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Ethran
+
+An Ethran was the a title carried by a novice Wychlaran whose skills had yet to be tested.
+
+History
+Ethrans fell under the complete control of their leading Hathrans and Othlors. An Ethran's rate of advancement often depended on their personal relationship with her superiors. Most Ethrans were clerics or sorcerers. Thousands of Ethrans were spread across Rashemen, usually serving as village healers or spirit-talkers.
+
+Before partaking of their maiden journey outside of Rashemen, all ethrans were ordained within the Urlingwood.
+
+Appendix
+References
+
+---
+
+## Ettercap lodge
+
+The Ettercap lodge was a lodge of Rashemaar berserkers active within Rashemen as of the mid–14 century DR.
+
+Base of Operations
+A telthor horse usually guarded an Ettercap longhouse.
+
+Activities
+Berserkers of the Ettercap lodge were strange when compared with other berserkers. They performed grueling tasks considered dangerous to humans including introducing various animal poisons and venoms into their bodies.
+
+Appendix
+References
+
+---
+
+## Ethe
+
+Ethe was a remnant of the ancient incarnation of the Sisters of the Silver Fire who guarded the Shrine of the Silver Fire in Myth Drannor circa 1369 DR.
+
+History
+At some point before the, Gulrithi, an ancient dark naga necromancer created a lair within the Elven Catacombs underneath Castle Cormanthor. The dark naga hated Mystra, the goddess of magic, and attempted to defile the Shrine of the Silver Fire which was maintained by Ethe and Gloran, two guardian naga priestesses of the Lady of Mystery. Gulrithi lured the clerics into a magical trap. The two nagas remained in stasis until a group of adventurers known as the Veiled Ones slew Gulrithi and his mohrgs and master wights. The heroes broke the head pole that maintained the stasis trap, releasing the Sisters. Ethe returned to the Shrine and reignited its divine Silver Fire, continuing to guard it against the invading force of the Cult of the Dragon.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Ettin Axe of Uruth
+
+The Ettin Axe of Uruth was a sentient enchanted orc double axe that served as an infamous symbol of orc military power.
+
+Description
+The axe was notable for each of its two axe-heads having a distinct personality—known as Ur and Krypt—both of which loathed and constantly denigrated the other. Their mutual hatred was a consequence of a quirk inherent in the design of certain evil sentient items that drove them to manipulate their wielders into destroying or abandoning other sentient objects. As they were conjoined, this property instead manifested in the two heads verbally sparring and bickering with each other.These two heads were likely the source of the item's name: an ettin is a two-headed giant.
+
+Ur
+The cold and more lawful head was known as Ur. It was wiser and more charismatic than Krypt, and was better able to intuit the intentions of others. It also had some understanding of spellcraft.
+
+Krypt
+The more fiery and chaotic head was Krypt. It was a more proficient liar and bully than Ur. While less wise and less of a charmer than Ur, it was no less intelligent.
+
+Powers
+Each axe-head was potently enchanted, and allowed the wielder to command it to shed light with a luminance similar to a torch. In addition, Ur had the ability to wrap itself in an icy burst, while Krypt had the same ability except with fire.
+
+On the very rare occasions when the two heads could agree on anything, the strength of the item's collective ego became much stronger.
+
+History
+The axe was created by an evil wizard known as Lethchauntos the Black sometime between  and  as a gift for Uruth, the first king of the orc realm of Uruth Ukrypt. Uruth wielded the axe during the Orcfastings War of 936 DR, in which he was slain at the Battle of the Westwood. After this, the weapon was claimed by War Lord Gharl of Waterdeep (then called Nimoar's Hold), but it was soon mostly forgotten and left deep in some vault within the city.
+
+Centuries later, the axe disappeared during the Siege of Waterdeep by the Black Horde in the . It was presumably stolen by orc infiltrators, but it was believed that they must have failed to smuggle it out of the city as divination magics indicated that the weapon was still hidden somewhere within Waterdeep following the siege. As of the mid-to-late 14 century DR, none knew what had become of the axe.
+
+Notable Owners
+ Uruth, first king of Uruth Ukrypt in the early-to-mid 10 century DR.
+ War Lord Gharl of Nimoar's Hold.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Ethnestus
+
+Ethnestus was the precept of the city of Rauthil in Mulhorand during the mid–14 century DR.
+
+Activities
+Ethnesus found himself holding the position of precept within a city that typically did not have such a title. His main duty was to ensure the roads surrounding the city were well-guarded. He was a priest of Horus-Re.
+
+Appendix
+References
+
+---
+
+## Eternal sleep
+
+Eternal sleep was a divine necromancy spell from the necromantic sphere that caused the spirit of a dead dragon to pass into the Outer Planes for all time.
+
+Effects
+Once cast upon a dragon's corpse, the spirit of the dragon could never be raised or resurrected. Furthermore, the dragon could not be contacted via spells such as speak with the dead. This spell had no effect upon undead dragons.
+
+Components
+In addition to verbal components, this spell required as a material component the priest's holy symbol to cast.
+
+History
+This spell was granted to dragons by Null, the Death Wyrm.
+
+Appendix
+References
+
+---
+
+## Etherwalk
+
+Etherwalk was a special divine alteration quest spell from the astral and travelers spheres that transported the caster and their followers to the Ethereal plane.
+
+Effects
+The caster could bring up to fifty followers with them provided they all joined hands when the spell was cast. Up to three round-trip journeys could then be made through the Inner Planes before the spell transported the participants back to the Prime Material plane.
+
+Components
+This spell did not require spell components of any kind.
+
+History
+This spell was used by druids who served Moander during the height of ancient Netheril's power.
+
+Appendix
+References
+
+---
+
+## Etienne
+
+Etienne was a mage who worked aboard the Crane during the mid-to-late 15 century DR.
+
+Some time after the, Etienne joined the sailors of the Crane as part of its crew. She became romantically linked with the ship's captain, Harp Levesque, in a tryst that ended poorly. Under some unknown circumstances, Etienne left the ship in tears, never to sail with them agian. According to crewman Boult, she was "chased off" by Captain Harp.
+
+Appendix
+Appearances
+Novels
+The Fanged Crown
+References
+
+---
+
+## Ethen Yarbroul
+
+Ethen Yarbroul, lovingly referred as "Ma", was the tavernkeeper of the Three Flags Sailing inn in Targos in Icewind Dale in the late 15 century DR.
+
+Description
+She was plump and had gray hair.
+
+Activities
+In the 1480s DR, "Ma" busied herself about the tavern, fussing over the fisherfolk patrons as if they were own sons (and some were) and encouraging them to have a hot beer "to take the chill off".
+
+Relationships
+She was a widow and had a few sons.
+
+Appendix
+References
+
+---
+
+## Etranger
+
+Etranger was a Netherese fighter who worked as a guide in Karsus Enclave until its destruction in . He was one of those locals who gave guided tours to visitors.
+
+Appendix
+References
+
+---
+
+## Ethgil
+
+The Ethgil family was a Amnian house during the 14 century DR.
+
+Members
+ Lord Ethgil of Athkatla in 1370 DR.
+ Fury Daerea Ethgil, a priest at Goldspires married to Lord Ethgil and twin of Zharnn Ophal.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Eternal carafe of wine (or sometimes acid)
+
+Eternal carafe of wine (or sometimes acid) an enchanted carafe of dubious magics, a less useful version of a decanter of endless water.
+
+Powers
+This strange enchanted item was seemingly an ordinary carafe that refilled every morning with wine and, on occasion, with acid.
+
+History
+In the, an eternal carafe of wine (or sometimes acid) was displayed among splendorous enchanted rewards for those willing to partake in Akabi's Wheel of Fortune game in the Circus of the Last Days during its stay in the Rivington neighborhood of Baldur's Gate.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ettvard Needle
+
+Ettvard Needle was the founder and the editor-in-chief of the Baldur's Mouth Gazette news carrier in the mid-to-late 15 century DR.
+
+Description
+Ettvard was a foppish human with a light skin tone, brown eyes, and short wavy brown hair. He usually could be seen waring quality finery and a big hat adorned with two large feathers.
+
+Relationships
+Ettvard Needle was close friends with Rilsa Rael of the Guild, despite the man's disdain for the crime cartel. He hoped that Rilsa would one day change Guild for the better from the inside.
+
+Ettvard employed a gaggle of writers, journalists, clerks, delivery laborers, guards, and town crier children. He also was always on the lookout for new "investigative reporters" who would be willing to follow threads of many rumors that flooded the Gate, especially if they proved the corruption of the city officials.
+
+History
+Ettvard was born to a wealthy tailor, who, despite his wealth, was forced to grovel before the rich and powerful of the Upper City. Since his early days, Ettvard dedicated himself to helping the common folk by spreading information. His first news stories were dedicated to various injustices and were delivered through word of mouth. Ettvard paid lamp boys to cry the stories out, making them memorize the entire piece verbally, as many of the kids were illiterate. Eventually, that practice became tedious, and Ettvard decided to teach the lamp boys and assess how to read, making the story delivery easier. Subsequently, the operation became too expensive to maintain, and Ettvard started collecting coin from advertisers and covering more diverse material.
+
+Soon after, the business grew, and the number of advertisements led Ettvard to purchase several mechanical scribes from the Gondians of the Hall of Wonders. This allowed him to produce broadsheets swiftly, all filled with advertisements to be distributed through delivery couriers and town criers. His business was run from a warehouse in the Heapside neighborhood of the Gate, and by the late 15 century DR, Ettvard's publications were bound by the obligations to the advertisers and implicit orders from the city. Under such function, the editor-in-chief printed stories preferred by the governing body of the Gate and suppressed pieces the city would want to remain unpublished. Some of the more preferred types of articles from under Ettvard's management were scandals, corruption, and anti-Upper City editorials.
+
+Ettvard's attitudes changed in the, when the Cult of the Absolute loomed over Baldur's Gate, threatening peace with secret cultist agents, an army, and a flood of refugees from the surrounding lands. Ettvard began a friendship with the new Lord of the city – Enver Gortash sometime before the crisis struck. Through being a confidant and a sponsor, Lord Gortash turned Baldur's Mouth into his personal propaganda machine, with Ettvard willingly printing fluff pieces and spreading fear among the readers, calming only Gortash and his steel watchers could protect the Gate from the cult. Ettvard was also inclined to print according to Gortash's will thanks to a generous gift of an enchanted printing press with the pixie named Jelliwig inside it. When a group of adventurers known as the Absolute Adversaries found a way into Baldur's Gate, Ettvard was instructed by Lord Gortash to print an "expose" on the "dangerous" group – accusing the heroes of smuggling refugees with cult's spies into the city and disturbing the peace, among other wrongdoings. However, it was not known of that issue ever saw print. It could've been stopped by the adventurers seeking to clear their names, or the broadsheet could've been released, turning many inhabitants of Baldur's Gate against the group.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Eternal Order of Kelemvor
+
+The Eternal Order of Kelemvor were followers of Kelemvor who maintained the Neverdeath Graveyard in Neverwinter.
+
+Activities
+Their duty was to maintain the sanctity of Neverdeath, a graveyard that was considered sacred to Kelemvor. In keeping with the tenants of the church of Kelemvor, they taught that death was natural and not to be feared but that undead were unnatural and had to be destroyed. They saw themselves as servants of both the dead and the bereaved: they conducted funerals, ensured that the dead could rest in peace, provided counseling to those who lost loved ones, and destroyed undead.
+
+Relationships
+The Order was aligned with Neverwinter, including the New Neverwinter movement and the Neverwinter Guard.
+
+History
+When the undead began to rise in the late 15 century DR, the Eternal Order of Kelemvor's duty shifted to fighting the undead and the Thayan necromancers raising them. By, they had lost control of the graveyard and had retreated to a small camp known as Doomguide's Watch.
+
+Members
+The Eternal Order comprised Doomguides and their acolytes. As of 1479 DR, notable members included:
+ Doomguide Volahk, the leader of the Eternal Order
+ Doomguide Awen
+ Doomguide Falstaff
+ Doomguide Ganilon
+ Doomguide Orran
+ Doomguide Severin
+ Doomguide Stonehammer
+ Doomguide Winlof
+ Acolyte Mina Neyman
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ethereal filcher
+
+Ethereal filchers were strange, kleptomaniacal creatures with the power to shift to or from the Ethereal plane.
+
+Description
+Filchers had an extremely alien anatomy, consisting of a sack-like torso with four arms balanced on a single leg. The muscular leg ended in a prehensile foot, and each of the flexible and multi-jointed arms ended in dexterous hands with long fingers. The creature's face was on the center of its torso and consisted of a large mouth and four eyes. A typical ethereal filcher stood a bit shorter than the average human.
+
+Behavior
+For some unknown reason, ethereal filchers loved to collect all manner of baubles and trinkets—especially items that had magical auras. They would lurk and roam about from the safety of the Ethereal plane until they noticed something of interest. They would then shift into the Prime Material plane to swipe an object from an unsuspecting victim. If successful, a filcher would quickly scamper back to its secluded lair and delight in the new addition to its collection of junk. Usually, an individual filcher would only steal a single item from a victim.
+
+Abilities
+Filchers could inherently see magical auras, and they had the supernatural ability to shift from the Ethereal and back again. (A filcher native to the Material plane was only capable of existing on the Ethereal for several seconds before it had to return. It is not certain if the same limitation applied to filchers who were already native to the Ethereal realm.)The 3-edition Monster Manuals clearly state that ethereal filchers were native to the Prime Material plane. However, later 3-edition sources change this such that they were native to the Ethereal plane.
+
+Ethereal filchers were only mildly intelligent, and seasoned adventures had several common tricks that they used to divert the annoying pickpockets, such as carrying around items with false auras or keeping cheap but gaudy items easily accessible.
+
+Combat
+Filchers did not actively engage in combat, but they would sometimes bite a victim as a simple distraction to help them snag an item. If badly injured, most filchers would flee.
+
+Society
+Filchers were unable to speak and were always encountered alone, which suggests that they had no culture to speak of.
+
+History
+Some scholars believed that ethereal filchers had the same planar origin as ethereal marauders and ethereal theurges—also known as nilshai—being true natives of the Ethereal Plane. Others argued that they only used the plane for their thieving purposes.
+
+In any case, nilshai—who were sworn enemies of star elves—were known to keep ethereal filchers as servants within their strongholds, and filchers were a common problem for visitors staying at the World Serpent Inn as well.
+
+Appendix
+See Also
+ Phase spider
+
+Notes
+
+Appearances
+
+References
+
+FR:Chapardeur éthéré
+
+---
+
+## Eth
+
+Eth was a hero of legend in the ancient history of Abeir-Toril. Eth was reputed to have wielded Namarra, the Sword That Never Sleeps.
+
+Appendix
+See Also
+ Brensyl
+
+References
+
+---
+
+## Eternal Brigade
+
+The Eternal Brigade was a group of battlerager dwarves at home in ancient Myth Drannor. Though they died in the Weeping War, their oaths kept their spirits trapped in the ruins afterwards.
+
+History
+During the Elven Crusade in the, the Cormanthor Elves were directed by the guardnorn Phathroi towards an old Cult of the Dragon base, where the Red Wizards of Thay were using a ritual to control the dracolich Karliath. During the attack, the invaders found an otherwise untouched section of the old structure filled with long-fallen dead dwarves. Held solely by their oaths to defend the location, the Eternal Brigade animated as undead and attacked the newcomers. The defenders of Myth Drannor may have acquired the signature bracers of the battlerager from the twice-fallen dwarves.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Etheril's Enchiridion of Enchanting Easements
+
+Etheril's Enchiridion of Enchanting Easements was a book penned by Etheril on the topic of crossing a fief by magical means or about achieving a state of comfort through magic.
+
+History
+The tome was published sometime before the late 15 century DR and was reprinted on several occasions. In the, a mage of Waterdeep Gale Dekarios recounted his strong feelings towards a copy of the first edition of Etheril's Enchiridion being purchased from under his nose by a fellow wizard.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Eternal Wanderer
+
+The Eternal Wanderer was a murderous specter that haunted the High Road of Cormyr during the late 15 century DR.
+
+History
+The spectral undead was seen near the High Road west of Eveningstar in the mid-1480s DR, around the time of the Sschindylryn invasion of Eveningstar. It attacked anyone who approached it.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Etherealness (quality)
+
+Etherealness was a magical property that could be added to armors.
+
+Creation
+To enchant armor with the etherealness property, the enchanter had to have the spell ethereal jaunt available.
+
+Powers
+The wearer of a set of etherealness armor could activate the property with a command word, and became ethereal (as if having been the subject of the ethereal jaunt spell) until they wished to become corporeal again. The wearer could remain ethereal indefinitely, but the property could only be activated once per day.
+
+History
+Armors with this property could be found in Kara-Tur.
+
+Appendix
+See Also
+ Plate mail of etherealness
 References
 
 Connections

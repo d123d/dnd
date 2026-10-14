@@ -125,3 +125,544 @@ References
 
 ---
 
+## Ioulaum
+
+Ioulaum was a great archwizard of Netheril, a beloved champion of his people and the inventor of both the mythallar and the flying enclaves of his empire. When Ioulaum abandoned Netheril to escape the life drain dweomers of the phaerimm in, panic spread at the news of his disappearance, leading to Karsus casting his spell Karsus's avatar. After the fall of Netheril, Ioulaum survived as an elder brain lich.
+
+Activities
+Under the guise of the Oracle of Ellyn'taal, Ioulaum extracted a terrible price for the information he provided - the voluntary, permanent loss of some portion of the questioner's sanity or the knowledge of a powerful spell that Ioulaum did not yet know.
+
+History
+Early life and The Excursion Into Extinction
+Born in Seventon in, Ioulaum soon rose to prominence when in  he led a major battle known as the Excursion into Extinction, bringing thousands of Netherese spellcasters and warriors to mount an attack against the largest concentration of orcs in Netheril's land at the time.
+
+The Mythallar Era
+Ioulaum was most famous for his invention of the mythallar in . The mythallar dug deep into the raw, unfiltered magic of the weave. The arcanists of Netheril used it to create quasi-magical items - items that were permanent as long as they were within the one mile range of a mythallar.
+
+With the establishment of the mythallar, Ioulaum created the first mythallar-powered item in  and the first floating city in .
+
+The Rise and Fall of Netheril
+Between  and, Ioulaum trained thousands of arcanists to become archwizards in their own right. He also managed to greatly augment and strengthen his mythallar using precious metals. At the height of the empire's growth between  and, Ioulaum frequently journeyed across Netheril helping to establish new floating enclaves or investigating strange magic. However from  the stability of Netheril became steadily undermined by both the Phaerimm and numerous disasters. This caused Ioulaum to become increasingly reclusive as he attempted to research ways of countering the threat of the Phaerimm, to the extent that he handed the day-to-day running of Xinlenal to a number of archwizards.
+
+As the Oracle of Ellyn'taal
+Since the waning years of Netheril, Ioulaum had survived by magic, but in   he underwent transformation into a Lich and created a lair in the Northdark.
+
+By, Ioulaum fully retreated to his Northdark lair and began training an ever-growing number of apprentices fleeing the decline and eventual fall of Netheril. It was believed that, during this period, Ioulaum was responsible for the creation of the first alhoon from his illithid students.
+
+In 329 DR, Ioulaum was apparently slain by a cabal of illithiliches. Ioulaum's last human apprentice, Tabra, witnessed what she believed to be her master's battle with his own students. This was actually a rite concocted by Ioulaum in an attempt to create an undead elder brain upon which he would then merge his own sentience.
+
+In revenge for her master's apparent death, Tabra slaughtered the last few of Ellyn'taal's mind flayers by casting Ioulaum's longevity on herself in the midst of the community. She then destroyed all records of the spell (except her own and those that Ioulaum himself had secretly hidden away) and fled to the surface.
+
+The Elder Brain
+As late as 1372 DR, Ioulaum had survived in the form of an undead elder brain, known as the Oracle of Ellyn'taal. Only Ioulaum's undead servitors and the ghosts of the mind flayers slain by Tabra remained with him. The few brave explorers who had stumbled upon the Oracle of Ellyn'taal had gained bits of arcane knowledge dating back to the height of Netheril from their meetings with it. In that form Ioulaum sought new ways to gain control over the Weave and otherwise manipulate unwitting spellcasters through their use of the Art. The gods Mystra and Azuth thwarted his efforts, but indulged his arcane experimentation just enough to keep the Netherese elder brain from causing profound harm to the Realms.
+
+Appendix
+Appearances
+Adventures
+
+How the Mighty Are Fallen
+Novels
+
+The Herald • Spellstorm
+References
+
+de:Ioulaum
+
+---
+
+## Iol
+
+Iol, also known as violet stone, was the name by which iolite (cordierite) was commonly known in the Realms. Such stones were sacred to Deneir, the Scribe of Oghma.
+
+Description
+This semi-precious stone was predominately blue in hue, but its color changed with viewing angle, from dark blue to straw-yellow. Small iols could be transparent but larger stones tended to have inclusions that could cause a star-like effect or, in the case of trapped hematite crystals, a flash of golden color much like sunstones. Iols were usually facet-cut to best display the stone's color change. A typical iol had a base value of 50 gp.
+
+Powers
+Iol stones were the best component for use in making ioun stones.
+
+Rumors and legends
+Faerûnian legends said this gemstone had a strong affinity for magic, but few knew of its connection to ioun stones.
+
+Appendix
+See also
+ Ioun stone
+
+Gallery
+
+Appearances
+Video Games
+Baldur's Gate series • Icewind Dale series
+References
+
+---
+
+## Ioulaum's longevity
+
+Ioulaum's longevity was a transmutation spell of epic magic that extended the caster's lifespan, but at a terrible cost of a life for every year gained.
+
+History
+This spell was developed and perfected by the powerful archwizard Ioulaum of Netheril circa, during Netheril's Shadowed Age.Page 9 of The Winds of Netheril states that Ioulaum developed his longevity spell just as Karsus was becoming the youngest archwizard ever at the age of 22. Calculating from his birth year gives this date. He would spend much of his time focusing on improving it, among other matters. However, Ioulaum's longevity often failed under the effects of the phaerimm's life drain and magic drain. Regardless, he used it to extend his lifespan over the centuries before and after the Fall of Netheril in the .
+
+Ioulaum eventually perfected his spell by the early 3 century DR.
+
+At his hidden lair in the Northdark, Ioulaum taught his namesake spell to Tabra, his last human apprentice. However, he had also taken mind flayer apprentices from the neighboring illithid colony of Ellyn'taal, who formed a dozen-strong cabal of illithiliches known as the Alhoon. Then, in Ellyn'taal in the, Tabra witnessed what she thought was a spell-battle in which the Alhoon turned on and slew Ioulaum. (In fact, Ioulaum had betrayed the Alhoon, conducting a rite to turn their minds into an undead elder brain into which he merged his own sentience, killing his body and most of the illithiliches in the process.) In the aftermath, the mind flayers of Ellyn'taal caught Tabra and tried to sacrifice her to some dark deity. To escape and get revenge for her murdered master, Tabra cast his just-perfected, greatest spell, Ioulaum's longevity, and thereby massacred the city's entire population,Volo's Guide to the North p. 222 says that Tabra used the spell to escape being sacrificed by illithids, while Lost Empires of Faerûn pp. 99 and 100 have her attack them in revenge. This article attempts to merge both versions. Furthermore, the former implies a single casting slaying over 2,000, while the latter says Tabra slew only a few survivors and made many repeated castings later. Taken together, and given the limited area of the spell, it may be that Tabra used multiple castings across the city. more than 2000 in number. By the time she was done, Tabra had gained a lifespan of over two millennia.
+
+Afterward, Tabra destroyed every last record of Ioulaum's longevity, apart from her own and Ioulaum's hidden writings,Again, Volo's says "destroyed all records" and "has no plans to recreate the spell", implying she even destroyed her own, while Lost Empires specifically has her retain her own. so that it could not be used by villainous mages who would not baulk at its terrible cost. She then escaped to the surface world.
+
+In the, Tabra disappeared from Bargewright Inn, her whereabouts unknown. The Shadovar of the returned Netherese enclave of Thultanthar had kidnapped Tabra and taken her to the City of Shade. The Princes of Shade and Telamont Tanthul himself sought information on Ioulaum's fate, particularly his longevity spell. Over the following century and more, Telamont kept her captive, enslaved her, tortured her until her body was broken and scarred, and ransacked her mind until she lost all her kind nature and knew no joy ever again. When Telamont had no use for her, he kept her in magical stasis, so she knew no peace either. Yet she never gave up her secrets and still guarded knowledge of Ioulaum's longevity after her escape in the .
+
+Effects
+Ioulaum developed two versions: initially one of the tenth circle of magic, then, after Mystra's Ban on such spells, an epic spell.
+
+The epic-spell version of Ioulaum's longevity used by Tabra is reported to have functioned as follows. When cast, Ioulaum's longevity instantly dealt massive damage to every creature within its area of effect. Any creature slain by this spell was reduced to fine dust. The spell also damaged constructs, objects, and undead, but only living creatures could contribute to the longevity of the caster. Each living creature destroyed by this spell permanently extended the lifespan of the caster by one year within their current age range. For example, a middle-aged caster would remain in middle age that much longer. It covered an area of  and functioned to a distance of up to . One version was instead reported to require the death of a mage specifically for each year gained.
+
+Components
+This spell required verbal and somatic component s to cast, but without live creatures within the radius of effect there would be no benefit.
+
+For a true master of spellcraft, it took some 27 days and 1,368,000 gp worth of resources to develop, and the epic spell seeds destroy and fortify.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Iomic crystal
+
+Iomic crystal was a purple crystal found on the island of Ioma in the Nelanther Isles.
+
+Descriptions
+These crystals came in a variety of shapes and sizes, but largely resembled amethysts in appearance. They had a peculiar structure that made them well-suited for holding and releasing psionic energy, though this was largely unknown.
+
+Price
+The value of these crystals was comparable to that of quartz.
+
+History
+After the Spellplague, the mineral was believed to have anti-magic properties, protecting against the various afflictions and curses brought aboutbby the Spellplague. This led the Amnians occupying Ioma to mine the substance and turn it into amulets to ward off wild magic. It was eventually discovered by reputable scholars and wizards that the iomic crystals actually had no special properties. Despite this, the Amnians continued to mine and sell the stones. Sometimes passing them off as amethysts, and in other cases selling them as bracelets or charms to the poor and less-educated folk of the Realms who were unaware of their status as snake oil.
+
+At some point the Abolethic Sovereignty discovered the psionic properties of iomic crystals and began to conduct experiments with them. One of these involved months of infusing specially-treated groups of Iomic crystals with a variant of the aboleth curse. After much careful testing and refining, they sought a much wider test and stole a large shipment of the crystals that was bound for Athkatla. Once imbued with the aboleth curse, these iomic crystals were sold in Athkatla's low market by a merchant named Ormust.
+
+Notable Users
+ Various folk remedies utilizing ground up ionic crystals claimed that they could perform miracle cures or remove curses.
+
+Appendix
+
+Appearances
+Organized Play & Licensed Adventures
+Crystal Clear
+References
+
+---
+
+## Ioma
+
+Ioma was a small island in the Nelanther Isles to the west of Amn.
+
+The island had only one town, Ioma Town, with a population of 800 in 1479 DR. Most of the island was occupied by a mountain of the same name, which contained a large vein of Iomic crystal at its peak.
+
+By the late 15th century DR, the island had become a competitor of Skaug's, although its port was only half as large. The island was protected by a small cadre of Cowled Wizards from Amn.
+
+Appendix
+Appearances
+Novels
+The Ring of Winter
+References
+
+FR:Ioma
+
+---
+
+## Iorg Brokenjaw
+
+Iorg Brokenjaw was a dwarf jailer at Grimshackle Jail in Phlan in 1489 DR.
+
+Personality
+Despite what he did, Iorg was a man of his word, and he always respected his words. He was a well-spoken individual using brief and terse sentences.
+
+History
+In 1489 DR, he was bribed to free the Gray Patriots's member Rathene Fel. In order to do this, he instigated a prison break in order to distract the other jailers and free Rathene. However, thanks to an adventuring party there to interrogate her, his plan backfired. Out of desperation, he took Ukharim Grimshackle hostage. The adventurers somehow resolved the situation.
+
+Appendix
+Appearances
+ Outlaws of the Iron Route
+
+References
+
+---
+
+## Iorn Ludwakazar
+
+Iorn Ludwakazar  was a dwarf king of the Ludwakazar clan in the Earthspur Mountains.
+
+Personality
+Iorn was a shrewd but stubborn ruler. With death near, he understood the futility of his sibling feud and he yearned to reconcile with his brother.
+
+History
+Iorn lived with his brother Bhún Ludwakazar and the rest of his clan in the Earthspur Mountains, acting as custodians of the mystical Chamber of Falling Stones.
+
+In his youth, he had a bad argument with his brother about a sword they had found hidden in the mine. In the end, Bhùn was exiled. In time, Iorn had a daughter, Lherzona Ludwakazar.
+
+In 1491 DR, after a recent mining excavation by miners from Mulmaster, a medusa and her gargoyle minions took control of the Chamber. In a battle, King Iorn was mortally wounded. Lherzona and the others remained to await the death of Iorn, keeping out intruders. Then an adventuring party hired to clear the mine arrived. After the adventurers solved the matter, Iorn finally died and Lherzona was crowned queen of her people. Iorn also had the chance to reconcile with Bhùn thanks to the adventurers.
+
+Appendix
+Appearances
+ Mayhem in the Earthspur Mines
+
+References
+
+---
+
+## Iorl Skyndul
+
+Iorl Skyndul was a member of the Soft Claws in Neverwinter in 1374 DR. He was a thief, smuggler, and fence who delighted in using the magic that Zundaerazylym gave to him.
+
+Appendix
+
+References
+
+---
+
+## Iokharic
+
+Iokharic was the name of a script used by the Draconic language, as well as by the Auran, Ignan, and some human languages. It consisted of runic characters equivalent to letters and numbers in human scripts.
+
+Alphabet and punctuation
+To give emphasis to important concepts, Iokharic employed a special character consisting of five (or six) lines radiating outwards, similar to a star or an asterisk (*), or the five heads of Tiamat. When this character was written, the word was spoken with both the first and last syllables stressed.
+
+History
+
+Dragons believed Iokharic was created by the dragon god Asgorath so his creations could record their impressions of the world he hoped they would inherit. Non-dragon scholars believed Iokharic was likely created long after its spoken form was standardized, as dragons had little need to write like other races. The script was believed to have been influenced by the dwarven runes, but dragons themselves dismissed such a connection.
+
+Elven scholars had the theory that kobolds, rather than dwarves, were the ones who actually created Iokharic, as it was widely believed that the earliest kobolds served dragons, learning dragon ways. The oldest historical records of kobold history began with paintings, then pictograms, and gradually developed into the Iokharic script.
+
+Circa 1479 DR, someone regularly graffitied a wall of a dilapidated building in the southern Blacklake District of Neverwinter with Iokharic writing (the language unrecognized) and a symbol. Locals believed the images were evil and worried of a devil-worshiping cult in the area. They were mistaken—it was a dragon-worshiping cult.
+
+Languages
+The following languages commonly used Iokharic writing for their written forms:
+ Auran
+ Chultan
+ Draconic
+ Halruaan
+ Ignan
+ Lantanese
+ Netherese
+ Nexalan
+ Shou
+ Yipyak
+
+Appendix
+See Also
+Draconic language
+Draconic dictionary
+
+References
+
+Connections
+
+---
+
+## Ioin Gallchobhair
+
+Ioin Gallchobhair was a bandit who operated out on the Sword Coast and Amn during the mid–14 century DR.
+
+Relationships
+He was aided in his banditry by his fellows Billy and Dribben. They were fond of demanding "tolls" for those who passed through the land they claimed.
+
+Ioin later took up with a crew from Athkatla, led by Tarnor the Hatchetman.
+
+Possessions
+Ioin wielded a unique throwing axe called Hangard's axe.
+
+History
+Ioin and his gang were among the many bandit groups that plagued the Sword Coast during the iron crisis in the . During the crisis, they eked out a territory in an area north of Nashkel.
+
+Rumors & Legends
+In the cemetery near the temple of Helm in Nashkel, there was a gravestone inscribed with the name "Ioin O Gallchobhair", at the same time Ioin the bandit was alive and well.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate • Baldur's Gate II: Shadows of Amn (as Gallchobhiar)
+
+References
+
+---
+
+## Iolrak
+
+Iolrak was the lieutenant under the command of the Overseer Fanraet of the Cult of the Dragon in the ruins of Myth Drannor in 1369 DR.
+
+History
+In 1369 DR, Iolrak and three of his fellow wizards were tasked with researching and excavating the ruins of the Room of Words in Onaglym of Myth Drannor. The cultists turned over every recorded and found every glyph and word of power they could in the records but were still unable to find the correct word to separate the ring of calling from the skeletal ulna and hand the ring was magically attached to. The Cult of the Dragon knew of the ring of calling and its ability to access certain parts of the ruined city. Subsequently, Iolrak faced with the Veiled Ones, the group of heroes working against the Cult of the Dragon. The lieutenant and his fellow cultist wizards perished in the battle. The heroes discovered the Word of Oblivion, the Cult was searching for, "Rhesheshannen" during their journey through the Dwarven Dungeon. Upon the word of power being spoken, the bones holding the ring of calling crumbled to dust, allowing the Veiled Ones to claim the ancient prize.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+---
+
+## Ioun stone of protection
+
+Ioun stone of protection was a wondrous item that helped their owners to avoid harm.
+
+Description
+Like other ioun stones, ioun stones of protection floated around their masters' heads. This particular type of ioun stones had a shape of a prism and had a rosy pink hue.
+
+Powers
+Ioun stones of protection increased defenses of their owner, making it harder for the foes to land successful strikes.
+
+Notable Owners
+Calliope: a bard adventurer owned an ioun stone of protection during her time working with other warriors of Waterdeep, performing missions on behalf of Laeral Silverhand in the late 15 century DR. Her stone had a unique protection that not just defended the bard herself, but also had a chance of expanding its effects to one random ally.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ioun stone of regeneration
+
+An ioun stone of regeneration was a wondrous item that helped their owners to rapidly heal themselves.
+
+Description
+Like other ioun stones, ioun stones of regeneration floated around their masters' heads. This particular type of ioun stone had a shape of a white elongated crystal.
+
+Powers
+Ioun stones of regeneration granted their owners the boon of healing. The regenerative magics were so potent the ioun stone could pull its master from death's door.
+
+History
+One of these enchanted stones came to the Sword Coast from Chult. An ioun stone of regeneration belonged to a yuan-ti malison overlord who at some point came into conflict with Raika, a half-orc barbarian from North Faerûn. She killed the overlord twice in the same battle and claimed his ioun stone.
+
+Notable Owners
+Raika: a half-orc barbarian from the city of Waterdeep and an adventurer who worked with other warriors of Waterdeep, performed missions on behalf of Laeral Silverhand in the late 15 century DR.
+
+Appearances
+Video Games
+Warriors of Waterdeep
+
+References
+
+---
+
+## Iolaeden Stonehallow
+
+Iolaeden Stonehallow was the Magister from  to .
+
+Description
+Her long, wild hair was the color of flame.
+
+Personality
+She had a fiery temper. She eventually got sick of being a slave.
+
+Abilities
+She was famous for her spells that allowed her to belch forth red dragon breath.
+
+Possessions
+As a young woman, Iolaeden had stolen a spellbook from her master, from which she learned every spell.
+
+Activities
+Before being the Magister, Iolaeden was an enslaved kitchen hand and orphan in Calimshan. She also spent many nights learning magic after stealing a spellbook.
+
+After becoming the Magister, she was embattled with a succession of Magister hopefuls until her death in .
+
+History
+An orphan from the Vilhon Reach, she was kept as a slave in a kitchen in Calimshan. One day, she stole a spellbook from the rich bedchambers of the house, and began to practice magic with it. When the book's theft was discovered, she kept her actions a secret.
+
+When Azuth offered her the office of the Magister, she accepted, as the god had walked through the rest of the house, effectively revealing his business with her and thus putting her life in danger. She was soon after attacked by volleys of mages intent on claiming the mantle of the Magister, and survived despite fumbling many of her spells only because of the covert aid of Loaradden Derviir; aware of some force helping her, she became emboldened, and began attacking mages before they attacked her. After she had slain most of Loaradden Derviir's rivals, she found herself attacked and soon slain by him.
+
+She lived on in Mystra's service, participating in spellbattles.
+
+Rumors & Legends
+Though she was aware that someone aided her, Iolaeden believed it was the goddess Mystra or Azuth that protected her in spell battles.
+
+Mystra may have had plans for Iolaeden, kept secret even from her, as of the late 14 century DR.
+
+Appendix
+References
+
+---
+
+## Ionoi
+
+Ionoi was the advisor to Tekinjo Gasahan, daimyo of the province of Kurahito in Wa.
+
+Description
+Ionoi was from the Isle of the Long Legged and Long Armed, whose inhabitants were exceptionally tiny with long limbs relative to their bodies. As such, Ionoi only stood  tall. Unlike the other inhabitants of his homeland, however, he had short legs, while his arms were still long. Because of this, he had to drag himself along with his dangling, long arms.
+
+Ionoi had a very high voice, sounding like he was squeaking to the ears of normally proportioned humans.
+
+Personality
+Ionoi was a man of strong moral fabric.
+
+Abilities
+A knowledgeable philosopher, historian, botanist, and musical scholar, Ionoi was a versatile teacher.
+
+Activities
+As Gasahan's personal advisor, Ionoi spent many years giving lectures to his lord, numbering over 1,500.
+
+Relationships
+Ionoi loved Gasahan deeply, and the two were best friends. In fact, Ionoi was really Gasahan's only true friend and the only person he trusted. Nevertheless, Gasahan kept Ionoi's existence a secret.
+
+History
+Around, Ionoi was banished from his home island because of how short his legs were. He was placed on a tiny bamboo raft and set adrift. Eventually, he drifted north all the way up the eastern coast of Tsukishima to a beach near the city of Kurahito, where he was discovered by a young man named Gasahan, the future ruler of the province.
+
+Ionoi was very ill and weak from the epic journey over the ocean, but Gasahan nursed him back to health, and the two became close friends. Over the next twenty years, Ionoi, already a learned man at the time, tutored his rescuer. When Gasahan became daimyo, Ionoi became his most trusted advisor.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Iosefa Elgin
+
+Iosefa Elgin was a scholar of the church of Deneir who famously attempted to recreate the Metatext, the divine source of knowledge sacred to her faith.
+
+Activities
+Iosefa made it her life's work to scribe the tome entitled Metatext: Rebound, an attempted recreation of the Deneiran Metatext. In that book she described various subjects, including the topic of resurrection and the nature of the soul.
+
+History
+Deneiran clergy believed that her actions were entirely heretical. For her efforts, Iosefa was permanently exiled from the church of Deneir.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Iona Waukeenservant
+
+Iona Waukeenservant was a Sembite adventurer and co-leader of the Company of Night in the mid-to-late 14 century DR.
+
+History
+In, Iona and Idalia Golddust attended a party at Thistleflame Keep, held by Lord Partic Thistle for King Azoun IV's birthday. They were interviewed as suspects after Lord Thistle appeared to be murdered at the party, but were not involved and knew nothing of it.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Iodine
+
+Iodine was an elemental material found in the Realms.
+
+Availability
+In, the Elemental Store of Karsus Enclave sold pure elemental iodine for 13 gp per .
+
+Usages
+ Iodine was used in various poisons as well as medicines.
+ Cloudburst used powdered iodine crystals and powdered silver as material components.
+ Iodine blocked Geomantic divination, and the sb'a, thmn, and tsn geoglyphs were weakened by proximity to iodine.
+ The magical tome Lions of Tomorrow had parchment consisting of seaweed soaked in a solution of iodine in order to avoid Geomantic divination.
+
+Appendix
+External Links
+
+Appearances
+
+References
+
+---
+
+## Iogar
+
+Iogar was a Zealot of the Absolute, stationed in the Moonrise Towers during the late 15 century DR.
+
+Description
+Iogar wore the uniform armor of a Zealot of the Absolute – a fur-cloaked night-blue armored garb and a metal helmet. He had pleasant facial features punctuated by facial tattoos and hazel eyes.
+
+History
+In the, Iogar was among those who joined the new religion that sprang in the Western Heartlands. He was stationed within the Moonrise Towers – the fortress controlled by the Absolute's warlord – General Ketheric Thorm. Iogar directs new arrivals to the Absolutist army cams as the Moonrise Towers were fully populated. Like many other members of the cult, Zealot Iogar's fate remained unknown as he could've perished in battle when the High Harper Jaheira and her True Soul allies stormed the Moonrise.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+
+References
+
+---
+
+## Ioun (disambiguation)
+
+Ioun may refer to:
+ The Ioun stones
+ Congenio Ioun, a Netherese arcanist
+ Ioun, the goddess
+ The Whorl of Ioun, Demascus' magic ring.
+
+---
+
+## Ioun (deity)
+
+Ioun was an interloper goddess of knowledge, skill, and prophecy from the world of Nerath, who somehow was able to influence events on Toril.
+
+Abilities
+On Nerath, Ioun held dominion over the domains of fate, knowledge, and skill.
+
+Divine Realm
+According to the World Axis model, Ioun resided in the Bright City of Hestavar in the Astral Plane, along with Erathis and Pelor.
+
+Worshipers
+Ioun was held as an important deity within the Dawn War, and Exandrian pantheons. She was worshiped by sages, seers, scribes, and tacticians, as well as students of the arcane arts.
+
+Activities
+Ioun's aim was to distribute knowledge in all forms. She was also a goddess of magic—not of the arcane power itself but instead of its academic study.
+
+Ioun preferred to dwell in her tower than to take an active role in the affairs of other deities, and she sometimes held court in the main hall of her tower. She was also known for wandering the multiverse and, according to some, she even traveled into the future to record events yet to come in her secret book of prophecies.
+
+Relationships
+Ioun was a rival of the Oerthian lesser deity Vecna, as she saw knowledge as something to be shared with everyone, not to be kept a secret.
+
+Ioun also opposed the Oerthian deity Tharizdun, as she was aware of his secret and his intentions of destroying the multiverse.
+
+History
+In the time before the Dawn War, Ioun and the Oerthian deities Tharizdun and Pelor discovered the Living Gate that separated the Far Realm from the Astral Sea. The three gods peered through it, learning terrible secrets that changed them forever. Corruptive energy from the Far Realm seeped out into the multiverse, which in turn led to the formation of psionic power. Some time later, Pelor and Ioun managed to seal the barrier once again.
+
+That latent psionic power permeated the world of Toril and affected the development of numerous civilizations, including the ancient empire of Jhaamdath and the wilds of the Vilhon Reach.
+
+Ioun would later send her servant, the deva Demascus, to thwart the worshipers of Tharizdun who were trying to free their god from his prison. This resulted in Demascus eventually being sent into the world of Toril. It's implied that she was aware that this was going to happen.
+
+It was believed by both Demascus and an avatar of Oghma that Ioun was able to influence events in Toril, even if she was in another continuum.
+
+Rumors & Legends
+It was believed by some that Ioun was the creator of the fabled Ioun stones, which she created to distribute knowledge among her followers.
+
+Notable Worshipers
+ Demascus, the Sword of the Gods, was her only known servant in the Realms.
+
+Appendix
+See Also
+ Whorl of Ioun
+ Demascus
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Ioulaum Industries
+
+Ioulaum Industries was a Netherese company that was responsible for the research and creation of mythallars, and had locations in Eileanar and other enclaves.
+
+Services
+Ioulaum himself had little input on his business, as he was personally focused on his longevity spell, the threat of the phaerimms, and various other magical studies. He occasionally visited his Karsus Enclave branch in order to pick up a specialized magical component or chatting with the site administrator Ghazzalee, who oversaw the other managers. Fabbra was responsible for finding and verifying potential customers, ensuring that they could both pay the high prices and weren't a threat to Netheril. Ryckaert headed the research-and-development team, which largely involved guiding the various magical misfits, eccentrics, and lunatics through mythallar-related projects. Finally, Theobald was in charge of transporting finished products to customers, which required extremely experienced and trustworthy guards to oversee shipments until they reached their destination.
+
+Appendix
+References
+
+---
+

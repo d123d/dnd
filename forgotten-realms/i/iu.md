@@ -163,3 +163,49 @@ Connections
 
 ---
 
+## Iuak
+
+An iuak was a blade made of bone or stone that resembled a machete, common in the Great Glacier.
+
+Description
+An iuak was about  long and  wide. It had a flat tip, and weighed about . In some lands, it could sell for as much as twelve gold pieces.
+
+Usage
+It was primarily used for carving snow blocks for snow houses, but it could also be used as a weapon. However, Iuaks tended to break if employed in combat by someone not skilled in their usage.
+
+Notable Owners
+Nearly every Iulutiun hunter carried an iuak. Iuaks were less popular among the Angulutiuns, and only about half of their hunters bore this weapon. The weapon was rare among the Nakulutiuns.
+
+The great explorer Sharra Frohm carried an iuak as did the famous Iulutiun philosopher Inum. Najass, a master Iulutiun hunter, fought with a custom-made, two-handed iuak made from tirichik bone.
+
+Appendix
+External Link
+ Snow knife
+
+References
+
+---
+
+## Iurnan Chall
+
+Iurnan Chall was a mercenary mage and a member of the Sailors of the Crimson Sea mercenary company based out of Airspur in Chessenta in the mid–14 century DR.
+
+History
+In the 1350s DR, Iurnan and the Sailors of the Crimson Sea marched to the town of Timindar in Chondath, having been hired by Lord Reland Tymin to confront the dark forces of Yrkhetep at Thurgabanteth. However, while passing the edge of the Chondalwood, they were ambushed by unknown enemies. Although the Sailors prevailed and killed all the ambushers, they were left with many wounded and dead, including their commander, Bendix. Lhrek Jarsyn became their acting commander.
+
+After sending a messenger to Timindar, Lhrek, Iurnan, and other veteran members of the company went into the Chondalwood in search of more food. However, after killing a deer, cutting some branches, and starting a fire, they were captured by the druid Variath and his treants, who put them on trial. The treants demanded justice, accepting an apology and a compensation of 1000 gp. However, Lhrek refused, so Variath threatened execution. Adventurers sent from Timindar may have aided their trial; they were not executed and went on to Timindar.
+
+Soon after, the Sailors fought in the Battle of Thurgabanteth.
+
+After a brief political power struggle between Iurnan and Lhrek, by 1357 DR Lhrek had emerged as leader of the Sailors but he took Chall as his chief advisor and assistant.
+
+They were active again in the early 1360s DR.
+
+Personality
+Iurnan considered himself a better choice as leader of the company, being older and supposedly wiser, and tried to undermine Lhrek by saying mean things behind his back, which lower morale in the company. Although treacherous, he would not go so far as to betray or kill Lhrek.
+
+Appendix
+References
+
+---
+

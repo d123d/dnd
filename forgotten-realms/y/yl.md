@@ -95,3 +95,197 @@ FR:Ylraphon
 
 ---
 
+## Ylarell
+
+Ylarell was a member of the City Guard of Waterdeep during the Time of Troubles in 1358 DR.
+
+Activities
+He collaborated with Khelben Arunsun. When Kelemvor Lyonsbane arrived in Waterdeep, Ylarell led him to Blackstaff Tower. Later, he accompanied the heroes in their expedition to Undermountain.
+
+Back at his post, he commanded a platoon against the undead commanded by Myrkul. However, in the fighting Ylarell and all his men, bar one, were killed.
+
+Appendix
+References
+
+---
+
+## Ylveraasahlisar
+
+Ylveraasahlisar, also known as the Rose Dragon, was an infamous red dragon that ruled Calimshan for more than a century.
+
+History
+Ylveraasahlisar was a great wyrm who laired in the Cloud Peaks. In, a group of Calishite adventurers crept into her lair to steal some of her treasure hoard, killing one of her brood in the process.
+
+After this incident, an enraged Ylveraasahlisar attacked Calimport, destroying two-thirds of the city including the Caleph's Court and the Raor bakkal, along with most of Calimshan's army. After the bloodbath, she seized the throne and her first edict was to reconstruct all she had destroyed. In a hurry to comply, her terrified subjects merely leveled the rubble enough to support new construction and began anew, thus creating much of the Muzad.
+
+Ylveraasahlisar ruled until  when Rafak el Cajaan organized her demise. He gathered a group of dragonslayers, including a bronze dragon named Cadasalmpar, that attacked the Rose Dragon by surprise in her court. After a fierce battle, she escaped from Calimport gravely wounded. Cadasalmpar tracked her down and administered the killing bite.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Yllivia
+
+Yllivia was a scout and member of the Order of the Gauntlet in Phlan during the Tyranny of Dragons.
+
+History
+In 1489 DR, Yllivia asked for the help of her fellow Villonah Leadstopper to find a map showing a secret white dragon lair. The map was in the possession of the Knights of the Black Fist. During the investigation, they were captured by some corrupt members of the Black Fist, who imprisoned them in a secret prison where Black Fists tortured prisoners for sport. They were rescued by some adventurers hired by Rillo Leadstopper, the father of Villonah.
+
+Appendix
+Appearances
+ Defiance in Phlan
+
+References
+
+---
+
+## Ylsa Henstak
+
+Ylsa Henstak was a duergar merchant of Clan Henstak in Gracklstugh in the late 15 century DR.
+
+Activities
+Ylsa was a rich merchant who was famous for leading caravans that always arrived on schedule. She was a member of the Merchant Council.
+
+History
+Circa 1486 DR, Ylsa was intrigued by how the local derro gained so much surface currency and jewelry.
+
+Appendix
+
+Appearances
+ Out of the Abyss
+
+References
+
+---
+
+## Y'lara
+
+"Y'lara" was a yochlol trapped in Menzoberranzan in the late 15 century DR.
+
+History
+A yochlol was sent by Lolth to help Archmage of Menzoberranzan Gromph Baenre in a demon lord summoning ritual in late 1486 DR. The yochlol knew the true plot behind the spell. However, after the summoning, Gromph also understood the true meaning of what he did, and he magically trapped the yochlol in his private sanctuary before it escaped the city. Posing as a drow priestess called "Y'lara", the yochlol tried to obtain someone's help in order to escape.
+
+Appendix
+Appearances
+ Out of the Abyss
+
+References
+
+---
+
+## Yliyl
+
+Yliyl was a minor oasis found in the Sword region of southern Anauroch.
+
+Description
+The small hollow comprised a small pool of water surrounded by some palm trees and desert shrubs.
+
+Geography
+It was located in an isolated area of The Sword, west of the Hills of Scent.
+
+Flora & Fauna
+The only notable animals to make their way to Yliyl were desert scavengers like jackals and vultures.
+
+History
+Long before the Era of Upheaval, an entire tribe of Bedine perished from some unknown disease and were buried in the sands around Yliyl.
+
+Rumors & Legends
+Over the years, stories about the lost Bedine tribe were transformed into something else entirely. As of the mid–14 century DR, these tales metamorphized into rumors about great treasure that was buried beneath the oasis.
+
+Appendix
+References
+
+---
+
+## Ylang
+
+Ylang was a type of blossoming plant that could be found in certain regions of Shou Lung.
+
+Description
+Blossoms of the ylang plant gave off a distinct and sickeningly sweet odor.
+
+Uses
+Although the process was known to only a few, ylang blossoms could be pressed into an oil, that could be used to formulate a potent and permanent variety of love potion. The trick to this use was in the oil's potency, which was ensured by picking blossoms in the morning, rather than later in the day.
+
+Regardless of its potency, ylang oil could also be used to create a variety of balms and teas.
+
+History
+
+During the mid–14 century DR, Minister Hsieh Han Liu of the Ginger Palace dealt in ylang blossoms, importing them to the Eastern Heartlands from Shou Lung via his ship, the Ginger Lady.
+
+In the, the dracolich Hethcypressarvil schemed to use oil made from the ylang blossoms imported to the Ginger Palace to creature a love potion that would force Yanseldara of Elversult to love him.
+
+Appendix
+Appearances
+Novels
+ The Veiled Dragon
+
+References
+
+External Links
+
+---
+
+## Ylyndar Starscatter
+
+Ylyndar Starscatter was an inhabitant of Cormanthyr in the 3 century DR.
+
+Rumors & Legends
+Per Ivran Selorn, Ylyndar had snuck into Castle Dlardrageth for trysts across six summers up to . This led Ivran to judge that the castle must not have been haunted.
+
+Appendix
+Appearances
+Novels
+
+Elminster in Myth Drannor
+References
+
+---
+
+## Ylmandi
+
+Ylmandi was a sorcerer and summoner from the ancient Netherese Empire, who lived over 3,000 years before Dale Reckoning.
+
+History
+Sometime around -3000 DR, Ylmandi came into a conflict with a warrior devotee of Amaunator, Kalamnin. The warrior was torn apart by Ylmandi's summoned nycadaemons, rewarding the sorcerer with a powerful enchanted bastard sword – Amaunator's Legacy. The blade remained in Ylmandi's family up until the death of Netheril in Karsus's Folly.
+
+Appearances
+
+References
+
+---
+
+## Ylondan
+
+Ylondan the Tall was a Red Wizard of Thay in the mid-14 century DR.
+
+Description
+Known as "Ylondan the Tall", he was presumably tall.
+
+Personality
+Though still overconfident and reckless, he was willing to take a few moments to discuss strategy before engaging in tough fights. He was also notably spiteful.
+
+Abilities
+He was known to be able to cast ironguard and at least one other spell he could use to shatter ceilings. Either his skills or those of Largrond were considered to outstrip Azmyrandyr's.
+
+Possessions
+He wore numerous rings.
+
+Relationships
+At the time of his death, he was a guest in a Sharran temple alongside Largrond. He was a Red Wizard.
+
+History
+In, the Simbul assaulted a temple of Shar somewhere in Thay where the Red Wizard Azmyrandyr was preparing for an intrigue. Her goal was a revenge attack after Azmyrandyr participated in an attack on Silverymoon. After slaying Azmyrandyr and his apprentices, she continued to slay around the temple; the temple master, Maeldur, called on one of his underlings to rouse two visitors, those being Ylondan and Largrond.
+
+The two quickly joined the fight after casting ironguard; before attacking, Ylondan tripped Staenyn, the priest who had called them to the fray. The two Red Wizards discussed briefly their strategy, right in front of her. Largrond cast an antimagic field, while Ylondan cast a spell to shatter the ceiling on top of her. They were aiming at a projected image of hers instead of the real her, who cast a spell to portal the rubble on top of them, killing them instantly.
+
+Appendix
+Appearances
+
+References
+
+---
+

@@ -4,6 +4,165 @@ _Source: forgottenrealms.fandom.com, CC-BY-SA 3.0, dump 2025-10-22._
 
 ---
 
+## Dethek
+
+Dethek was the name of a runic script used by the Dwarvish language, as well as some human languages, and by the giant, ogre, orc, gnome, goblin, and terran languages. It consisted of letters, numerals and symbols for common words or phrases.
+
+"Dethek" was also sometimes used to refer to the Dwarvish language as a whole.
+
+Writing
+Alphabet
+The Dethek runic alphabet consisted of 24 characters. The sounds "w", "x", and "z" were represented by the same character.The Dethek alphabet was originally shown in two sources, Dwarves Deep and the Forgotten Realms Campaign Set (1st edition). The runes for 'n' and 'o' vary between these sources. The images for this article were originally made in accordance with the Dwarves Deep alphabet. However, the Forgotten Realms Campaign Setting (2nd edition) and Forgotten Realms Campaign Setting (3rd edition) both follow the alphabet of the older Campaign Set.
+
+Numerals
+The Dethek method of counting used a collection of straight lines, joined together to create a number. This means that each number appeared as a single character. The characters for 1 and 5 were combined in various logical ways to create the numbers 1 to 9:
+
+The characters for 1, 5, and 10 were combined to create numbers up to 20:
+
+Numbers from 20 to 99 could be created using logical combinations of the 1, 5, and 10 symbols:
+
+To make 100, simply invert a 10 on top of itself (10×10=100). The rest of the hundreds could be created using combinations of previous symbols:
+
+To make 1000, flip a 10 symbol on its side in front of 100 (10×10×10=1000). Additional thousands were added with a notch in the flipped thousand symbol:Unfortunately, no sources explain how how many extra thousands can be added or what symbol is used for any multiples higher than thousands. This may be because dwarfs had no need to describe any amounts larger than several thousand.
+
+Symbols
+Clans and tribes and some of the most common words, races, or phrases had their own symbols. These were useful for sign-posting or creating runestones.
+
+Each of the main races in Faerûn had a collective symbol assigned to it. The symbol applied to both singular and plural, leaving the reader to work it out from context:
+
+Other symbols were used for tracking and signposting. These were hieroglyphics based on commonly understood concepts: a foot to mark a safe trail, an inverted helm or drinking horn to indicate fresh water, and so on:
+
+Others were "Marthammor Marks", after the dwarven god Marthammor Duin, the Finder-of-Trails.
+
+Punctuation
+Dethek was extremely lacking in punctuation.
+
+The first letters of nouns and words that began sentences could be capitalized. This was achieved with a simple horizontal accent over the letter:
+
+Words were generally separated by spaces. To end sentences, the most common method was a large line or slash across the line.
+
+To emphasize or show contrast against the writing surface, the runes could be painted. Names of people, races, and locations were highlighted in red, while the rest of the text was painted black or left unadorned.
+
+Any numbers enclosed in boxes were dates, written as day followed by year.
+
+Emotional content could be represented in how the runes were oriented, such as how the dwarven warhammer Oath-Hammer was marked in slanted runes to express the rage of its creator.
+
+Application
+Dwarf-written Dethek runes were preferably carved into durable stone, and less often into metal, and rarely written on paper or cloth due to the short life and fragile nature of such materials. Dwarven runes were usually carved or scraped into the stone walls of a building or cave; on a cairn, pillar, or standing stone, or inscribed or stamped on metal surfaces such as a weapon. Particular forms of dwarven writing were books of bound metal sheets or on stone tablets called runestones.
+
+The simplicity of Dethek runes and their straight lines made carving them into metal and stone simple. Despite this, runes inscribed on runestones were typically written in a spiral-form, from outside in.
+
+Examples
+This example shows Dethek letters, symbols, and punctuation:
+
+This piece of text shows how written stories using the collective symbols can be misinterpreted:
+
+Depending on how one wanted to tell the story, this passage could be read in two ways:
+Durlag slew the dragon with ease.
+Durlag slew the dragons with ease.
+
+This example is a partial phrase demonstrating runes written on parchment:The image is taken from the background image of a number of 3rd and v.3.5 Forgotten Realms sourcebooks. The full text reads "zhentil keep is also one of" on the even-numbered pages and "bases of operation of the zhentarim or black network" on the odd-numbered pages, with "the" presumably lost in the binding. Written diagonally across the odd-numbered pages is also "forgotten realms magic summoning magic". In the triangular sigil on page 232 of the FRCS 3rd edition are the words "good", "evil", "law", and "chaos".
+
+It transliterates to: "bases of operation of the zhentarim or black network".
+
+History
+Dethek runes dated to back to the beginning of recorded history in Faerûn, but it was only one of a number of different runic scripts in use over the centuries, including individual clan codes. Dethek survived to become the most well known and commonly used runic script by the 14th century DR. The others became "dead tongues" and were little used at that time.
+
+Strong links between the gold dwarves of the Great Rift and the early people of Unther led to the Untheric language using Dethek runes.
+
+The Siremun dwarves of the Firepeaks taught Dethek runes to the Raumviran people for the Raumvira language.
+
+The Damaran language used Dethek runes as a result of cooperation between the people of Impiltur and the dwarves of the Earthfast Mountains early in their history.
+
+Speakers of the Shaaran tongue picked up Dethek runes from gold dwarf traders from the Great Rift.
+
+Users
+The following languages commonly used Dethek writing for their written forms:
+ Damaran
+ Dwarvish
+ Giant
+ Gnome
+ Goblin
+ Raumvira
+ Orc (Hulgorkyn)
+ Shaaran
+ Tashalan
+ Terran
+ Untheric
+
+Appendix
+See Also
+Davek
+Dwarven language
+Dwarvish dictionary
+Notes
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Demonweb Pits
+
+The Demonweb Pits, also known as Lolth's Web, was originally the 66 layer of the Abyss. The plane was ruled over by Lolth, the primary drow deity; every creature there served her whims.
+
+Description
+Old Demonweb Pits
+When Quenthel Baenre and her companions visited the Demonweb Pits in the Abyss during the Silence of Lolth in the, they found the realm unusually empty of souls. The realm consisted of black emptiness with an acrid smell and giant spider web. It was very hot there. The Pits were covered in corpses of monsters and demons lying dead and dying, particularly goristros. Lolth dwelt in a black temple suspended in the web. Her stone face covered the entrance.
+
+When Quenthel's expedition returned to the same location in the, they found the Demonweb Pits abandoned and in ruins. A gate guarded by abyssal widows led to the new Demonweb Pits.
+
+New Demonweb Pits
+The new Demonweb Pits was a plane of rocks with chasms and rocky gorges. There were many pits and craters. The land looked dead. There were giant petrified spiders with webbing over everything from the songspiders. There was a distant red sun during the day and eight bright red stars at night.
+
+There was a river of souls flowing to Lolth's city, an iron citadel in the Infinite Web. Lolth stood atop a dais in a temple on a pyramid with webs on the walls.
+
+There were a number of geographical features on the plane, including the Plains of Soulfire and the Pass of the Soulreaver at the base of the Mountain of Eyes.
+
+The plane was inhabited by spiders (including songspiders) and chwidencha. The Soulreaver dwelt in the Pass of the Soulreaver and was a gray spectral form, with a bloated serpentine body containing screaming drow souls.
+
+After the Second Sundering, Lolth returned her realm to the Abyss.
+
+Notables
+- Giismekhan a powerful and favored draegloth of Lolth
+
+- Ozebaw the Unwholesome a dretch demon
+Gods and Domains
+All drow gods were originally located in the Demonweb Pits and Lolth claimed to be the queen of them all.
+
+Lolth resided in a huge iron fortress that moved under its mistress's will on spider-like legs. By the end of the Silence of Lolth, however, Lolth had moved her domain in the Demonweb Pits to its own planar space.
+
+Lolth's son, Vhaeraun, maintained a realm named Ellaniath where he schemed against his mother almost constantly, an activity Lolth actually encouraged.
+
+Lolth's daughter, Eilistraee, also had a place in the Demonweb pits, but her main realm was in Ysgard and later in Arvandor, and she left her realm in the Demonweb Pits almost abandoned.
+
+Kiaransalee had her own citadel made of bones called Thanatos in a desolate area of the plane. It was named for her own layer of the Abyss, Thanatos, which was stolen from her by the reincarnated demon prince Orcus.
+
+Ghaunadaur resided at the very bottom of the pits, surrounded by slime and fungus that caused multicolored lights to appear.
+
+Selvetarm resided with the Spider Queen without maintaining a realm of his own.
+
+Appendix
+
+Gallery
+
+Appearances
+
+Further Reading
+
+External links
+
+Demonweb Pits article at the The Great Library of Greyhawk, a wiki for the World of Greyhawk.
+
+References
+
+Connections
+
+---
+
 ## Dead Three
 
 The Dead Three, also known as the Dark Gods, was a collective of three death-themed deities: Bane, the Lord of Darkness; Bhaal, the Lord of Murder; and Myrkul, the Lord of Bones. Originally, they were powerful mortal adventurers who sought the path to godhood and were known as the Dark Three. They found it in the form of Jergal, who acquiesced to their demands as he was tiring of his life as god of the dead. He gave up his portfolios to the three of them, apotheosizing them in the process. Bane ruled tyranny and strife, Bhaal became the god of murder, and Myrkul was lord of the dead.
@@ -411,6 +570,96 @@ Connections
 
 ---
 
+## Deder
+
+Deder was a halfling fighter/thief in Candlekeep.
+
+Appendix
+
+External links
+
+References
+
+---
+
+## Deneir
+
+Deneir  was the neutral good lesser deity of art, cartography, glyphs, images, knowledge, literature, and scholars. The Scribe of Oghma was given purpose by his search for the Metatext, a single, perfect work of writing reflected in snippets of every written work committed to paper that, when read, would unlock the secrets of the multiverse. Whereas Oghma embodied the creative spark, the First Scribe was the recording of humanity's epiphanies.
+
+Description
+Deneir was portrayed in religious depictions as an old, balding sage with a huge, flaring beard. Sometimes his eyes were a vibrant violet with triangular pupils, at others a brilliant ice blue, and at others still they were blazing balls of blue fire, but they were always peculiar in some way. He was always shown holding a quill and with some form of parchment, either carrying or writing in a book or scroll.
+
+Deneir most often appeared as he was depicted, with a white beard and intense blue or violet eyes, usually carrying quill pens, scrolls, and tomes. He sometimes, however, appeared younger, especially when in disguise. His voluminous robes were covered in symbols and glyphs that initiated random effects on those who touched them, ranging in effect from standard glyph or symbol spells, miscellaneous spell effects, or just bizarre happenings. The symbols seemed to serve as some sort of code to remind him of specific facts and events.
+
+Personality
+Deneir's vast accumulation of book knowledge was contrasted by his outward appearance of being a very absent-minded deity. He had a severe lack of focus that negatively impacted his ability to share what he knew, often trailing off mid-sentence because his mind raced along multiple trains of thought even while he was speaking. Once he started telling a story he would go off on seemingly endless digressions about tangentially related substories.
+
+Furthermore, Deneir could be very out of touch with the modern world, particularly regarding what human customs were in practice. He often adhered to points of etiquette long since abandoned, mixed slang terms to unintentionally humorous effect, and ended up sounding profoundly dated when he tried sounding current.
+
+Despite these flaws, Deneir was usually calm and had few characteristics that one could associate with madness. Indeed he was usually calm, with a stodgy and studious outlook on life and a dedication to the truth. As long as his stories could be, they always conveyed some vital piece of information for those with the patience to endure them.
+
+Possessions
+Deneir occasionally let some of his equipment fall when he appeared before leaving it behind, something that appeared accidental but in reality was always done on purpose. Mortals who obtained them would discover these to be pens, spell scrolls, magical tomes, or instructions for creating magical items or constructs.
+
+Activities
+Aside from his search for the Metatext, Deneir worked to ensure that everything known and true was accurately recorded in the Great Library. He was frequently caught up in recording, filing, indexing, and maintaining all that had even been written, drawn, or otherwise depicted.
+
+Relationships
+
+Deneir, along with Oghma, Milil and Gond, were known as the Deities of Knowledge and Invention. Like Milil, he acted as an intermediary for Oghma, carrying new information both to him and those he favored. Their relationship was a symbiotic one, and Oghma appreciated Deneir's commitment to his studies and truth, though he knew little of the obscure Metatext and suspected that his servant was chasing half-imagined ramblings and shadows of the mind.
+
+His scholarly outlook and magical interests made Deneir popular among gods of magic, including Mystra, Azuth, and particularly Savras. He had forged contracts with the like-minded Thoth and could count Labelas Enoreth of the elves and Dugmaren Brightmantle of the dwarves as his allies. Lliira thought that she could scare some fun into him and gained endless enjoyment from making him uncomfortable, though she too was among Deneir's allies, as was Lathander.
+
+Deneir counted among his enemies those who sought to hide or distort knowledge, such as Cyric, Mask, or Shar, or those who destroyed it, such as the Gods of Fury, notably Malar and Talos. These beings filled the normally collected scribe with rage.
+
+Worshipers
+
+Beyond Toril, Deneir, together with Oghma and Thoth, was worshiped by the fal, the enormous slug-like "scholars of wildspace".
+
+Chosen
+The Chosen of Deneir include:
+ Cadderly Bonaduce
+ Pertelope
+
+Other Favored
+There were others who have been given special favor by Deneir, though what has been given to them varies per person.
+Tomas Bookbinder, most high-ranking proxy in the Library of All Knowledge
+ Brother Chaunticleer, singer of Deneir's song
+ Kimitar Thaeless, a glyphscribe
+
+Places of Worship
+
+ The Spirit Soaring cathedral: This impressive place of worship lay south of the Snowflake Mountains and was erected by the priest Cadderly Bonaduce at the former location of the Edificant Library. Built using Cadderly's very life energy, it was inexorably tied to him. When Cadderly was severely injured, the temple became ruined and since Cadderly left the Material Plane before he could heal, it remained so.
+ The Library of Deneir: The Library of Deneir was a secret collective located deep inside a mountain in Waterdeep and was accessible only via a pair of portals. Both portals were only accessible with the use of a key. One portal was connected to a library within the temple of Deneir and the other with the temple of Oghma.
+ The Gallery Majesta: This Deneirrath temple within the city of Calimport also functioned as a museum of magical artifacts.
+ Mierskar: Deneir was the principal deity worshiped in the town of Mierskar in Lapaliiya.
+
+History
+
+Deneir's purpose was to act as Oghma's scribe; more importantly, he recorded the Metatext: the numeric representation of the multiverse and a form of ultimate logic. During the events of the Spellplague, Cadderly witnessed Deneir transcribing the Metatext into the remnants of the Weave for purposes unknown. In doing so, Deneir wrote himself into the Weave as well, passing out of known existence. Deneir granted a portion of his power to Cadderly in order for him to combat and imprison the Ghost King.
+
+During the Spellplague, it seems as if Deneir tried to reestablish the stability of Mystra's Weave by writing the Metatext and thus, himself into it. During the battle of Spirit Soaring, Deneir seemed to completely disappear as a divine entity and instead became part of the Weave, granting his remaining Chosen, Cadderly Bonaduce, more arcane abilities.
+
+By the, Deneir was revived and continued worshipped by many. By the late 1490's DR, a priest of Deneir named Eldon Keyward was kidnapped by Vecna's devotees in Neverwinter.
+
+Appendix
+
+Notes
+
+Further Reading
+
+Appearances
+Novels
+Patronage
+
+References
+
+Connections
+
+de:Deneir
+
+---
+
 ## Deity
 
 For a complete list of deities, see Portal:Deities
@@ -549,6 +798,47 @@ Some fiends had gained enough mortal followers on Faerûn to achieve a divine po
 
 Appendix
 References
+
+Connections
+
+---
+
+## Deekin Scalesinger
+
+Deekin Scalesinger was a male kobold bard and adventurer in the North in the 1370s DR.
+
+Description
+He was a gray-scaled kobold who was often seen with pen and paper in hand as well as his lute.
+
+Personality
+
+Unlike many other kobolds in his tribe, Deekin showed very peaceful tendencies and dreamed of pursuits other than stealing and mining. He wished to be known throughout Faerûn for his heroic stories.
+
+Deekin was constantly talking in third person. He showed deep loyalty to those he worked for but also saw everyone as a character in his book.
+
+Whilst being part-dragon himself, his past experiences with his white dragon master, Tymofarrar, resulted in a deep fear of dragons.
+
+Abilities
+Deekin was a proficient bard and was particularly skilled in his lute. His artistic abilities were also shown in his writing. Like some other draconic creatures, Deekin possessed almost instinctual knowledge of the scent-based Saurial language.
+
+History
+
+Deekin was a member of the Dripping Fang clan and worked under the command of Tymofarrar. His master was often entertained by Deekin's storytelling and songs. Tymofarrar taught Deekin the skills to become chief of the clan as well as a sorcerer. However, Deekin did not believe he had a place as chief and had aspirations to leave and become a skald instead. Therefore, when the opportunity arose, he agreed to give Drogan Droganson's apprentice the Tower Statue, a stolen artifact, in exchange for them negotiating his release from Tymofarrar.
+
+As a free kobold, Deekin took the role of henchman to the apprentice and wrote of their adventures in the Anauroch desert.
+
+He continued these adventures into the Underdark and Cania and ultimately helped the adventurer defeat the archdevil Mephistopheles.
+
+Deekin eventually took a break from adventuring and ended up publishing books he had written about his many adventures. During this time, he ended up in Neverwinter, where he opened up a shop in the merchant quarter to sell items he had acquired during his travels. His prowess and fame in the area led to a street being named after him, Deekin's Street, in the Protector's Enclave within Neverwinter many years later.
+
+Later in life, he returned to his tribe, became their leader after all and made the first joint human and kobold community in the realm. He later died and was mourned by many but his legacy continued on with a new generation of Scalesingers eager to have adventures of their own.
+
+Appendix
+Appearances
+
+References
+
+External links
 
 Connections
 
@@ -731,6 +1021,83 @@ Connections
 
 ---
 
+## Deer
+
+Deer (,  ) were a species of mundane mammal.
+
+Species
+ Elk, the largest species within the deer family.
+ Fawn of Shiallia, celestial deer that were servitors of the goddess Shiallia.
+ Megaloceros, an ancient dire species of deer that managed to persist in some areas of the Realms.
+ Red Deer, the species of deer found in the Cormanthor area, feeding on the plentiful rye grass found there. They could also be found on the plateau of High Moor, with most living in the Misty Forest.
+ Reindeer
+ Roe deer, a species of deer found in the sub-arctic forests of Kara-Tur and in the northern forests of the Hordelands.
+ Shadow hart, a rare teleportng variant of common deer.
+ Swamp deer, a species of deer native to the swampy forests of Vaasa. They blended in well with their habitat.
+ White-tailed Deer, a species of deer found in the Delimbiyr Vale and the vicinity of Lizard Marsh, often hunted as a cheap and abundant food source.
+
+Ecology
+Habitats
+
+Deer were commonly found in the Pellamcopse Woods, north of Waterdeep.
+
+In north Faerûn, deer could be found in the Tangled Vale and throughout the forests of the Vast.
+
+In the Unapproachable East, deer could be found in the Tannath Gap, Rashemen, and Immil Vale.
+
+Beyond Toril, deer inhabited the planet known as Radole. Giant black stags with red eyes that could gore an elephant with ease served the goddess Beshaba and inhabited her Abyssal realm of the Blood Tor.
+
+Relationships
+Hybsils were often on good terms with deers.
+
+Deer were the preferred animal manifestations of Gwaeron Windstrom, Shiallia, and Silvanus. Stags in particular were favored by the gods Baervan Wildwanderer, Eldath, and Rillifane Rallathil. A white hart in the High Forest was considered sacred to Mielikki.
+
+Usage
+Deer meet was eaten under the name venison. In the Hollowhar area of Silverymoon, peppered venison stew was popular and venison-and-mushroom broth was a specialty of Swordsfall House.
+
+Aurora's Whole Realms Catalogue sold deer hides for 4 gold pieces a piece.
+
+The antlers of deer could be boiled down to create a sort of glue.
+
+Cultural Significance
+ Throughout the Realms, the words "doe" and "stag" were used as polite and rather bardic terms for one's female or male lover respectively.
+
+Notable Deer
+ White Stag of Labelas, a unique servant of Labelas Enoreth on the island of Evermeet.
+ White Stag of Dargendale: the elusive white deer from the forests of Dargendale who was killed and stuffed by a poacher but later was animated by a druid to exact revenge on his killer.
+
+Appendix
+
+Appearances
+
+Gallery
+
+External Links
+
+References
+
+---
+
+## Death ward
+
+Death ward was a magical quality that could be applied to armor to protect its wearer from death magic.
+
+Description
+Armors enchanted with this power often were enameled in black and had an otherworldly translucence. Small images of skulls were often used in the ornamentation.
+
+Powers
+With the first time exposure in a day, and if the wearer desired, death ward armor could automatically make its wearer immune to death-like effects, including negative energy effects, for a period of an hour and ten minutes.
+
+Creation
+Enchanting such armor required a death ward spell.
+
+Appendix
+References
+
+Connections
+
+---
+
 ## Demihuman Deities
 
 Demihuman Deities is a 2-edition Advanced Dungeons & Dragons accessory for the Forgotten Realms, detailing the pantheons of five nonhuman races of the Realms.
@@ -795,6 +1162,272 @@ See Also
 External Links
 
 References
+
+---
+
+## Deudermont
+
+Deudermont was a friend of Drizzt and the Companions of the Hall. He was the captain of the famous Sea Sprite, a large pirate-hunting vessel commissioned to him by the Lords of Waterdeep. Deudermont was recognized as perhaps the most successful pirate hunter of all time, and not even the elves knew of one better.
+
+Description
+Deudermont was a tall refined man. By his look, one would expect to find him amongst the lords and ladies during his shore time, but he cared about his crew. He typically spent his time keeping an eye on them, and making sure they stayed out of trouble.
+
+Personality
+Deudermont was almost unshakeably loyal to his crew, and expected that loyalty in return. When Drizzt arrived to sail with the Sea Sprite, Deudermont was initially skeptical of the drow's motives, but Drizzt quickly proved himself and found a place among the ship's complement.
+
+Relationships
+His trusted right-hand man was the wizard Robillard, who was second-in-command on the Sea Sprite and a capable magic user.
+
+History
+
+Drizzt Do'Urden and Wulfgar first met Deudermont in Waterdeep when they were trying to secure passage to Calimshan when looking for Regis. During their voyage, they were attacked by the pirate Pinochet. After defeating Pinochet, Deudermont obtained his oath that he would never seek vengeance against him.The Halfling's Gem
+
+Several years later, Drizzt and Catti-brie spent many years as part of Deudermont's crew. While being escorted by Drizzt and Catti-Brie, he was attacked by a doppelganger that attempted to take his place as the captain of his ship. Fortunately, Guenhwyvar was able to identify the doppelganger, resulting in its capture and Deudermont's rescue. When the doppelganger attempted to escape, Deudermont grabbed Taulmaril from Cattie-Brie and killed it. He then assumed that the doppelganger was sent by Pinochet, unaware that it in fact served Errtu.Passage to Dawn
+
+Wulfgar was once falsely accused of assassinating the good captain, alongside Morik the Rogue, though the attempt on his life was actually conducted by Tee-a-nicknick and Creeps Sharky, who were later executed in Luskan. Deudermont survived the attack, despite being badly poisoned and seeming on the brink of death for a few days. Trusting in Wulfgar's innocence, despite Robillard's objections, he vouched for their release.The Spine of the World
+
+Deudermont later attempted to reform Luskan into a more proper town (previously, its activities had been controlled by the wizards of the Arcane Brotherhood and the roguish High Captains). Deudermont was backed largely by the populace, leading them against the Host Tower of the Arcane Brotherhood. Though Deudermont's reputation helped garner this support, it was mostly the cruel tactics of the Archmage Arcane, a lich and the leader of the Arcane Brotherhood, that drove the people to destroy the wizard enclave.
+
+In the Year of the Haunting, 1377 DR, upon the destruction of the Host Tower, Deudermont rose to the position of Governor of Luskan. In the absence of the iron rule of the Arcane Brotherhood, however, the five High Captains of the city squabbled and food shortages occurred, weakening Deudermont's support. High Captain Kensidan ultimately instigated a rebellion, which led to the death of Deudermont at the hands of Kensidan himself. Deudermont initially gained the upper hand in the battle, him being the more seasoned sword fighter; however, Kensidan polymorphed to crow form and managed to severely wound Deudermont. The pirate Maimun, feeling that he owed Deudermont for saving his life many years earlier, came to Deudermont's rescue and managed to best Kensidan and made him swear not to further harm Deudermont. However, it was too late for Deudermont, who succumbed to his wounds shortly thereafter.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## DeBernezan
+
+DeBernezan was a human resident of the Ten Towns.
+
+Description
+He was described to be a short man with black hair.
+
+History
+In the 1350s DR, the human lad betrayed the fighting people of Ten Towns for his own good. He ended up with Heafstaag and his barbarian kin, and gave them ways to defeat the Ten Towns that only one from the Ten Towns would know.
+
+DeBernezan was later slain, but not by the blade of a barbarian. In fact, the halfling Regis was forced to crush his skull with his mace.
+
+Appendix
+Appearances
+Novels
+ The Crystal Shard
+
+References
+
+---
+
+## Death tyrant
+
+Death tyrants were an undead form of beholder, similar to zombies, that retained some innate magical abilities. They were often used by powerful wizards as guardians. They were almost never encountered near other beholders, who found them abhorrent.
+
+Description
+A death tyrant was the result of a beholder's mad dreams of existing beyond death. On the rare occasion in which such dreams took hold of a live beholder, its flesh rotted away, and a naked skull with spectral points of red light for eyes would emerge. A death tyrant held much of the powers of the original beholder, now fueled by the power of Undeath.
+
+Although somewhat similar to a zombie, a death tyrant was a much more powerful creature, that continued to lord over others the same way beholders did. On the other hand, a true beholder zombie was the result of the necromantic reanimation of a dead beholder, and although a formidable foe, was a considerably weaker creature and a mindless servant.
+
+Behavior
+Death tyrants retained enough of their intelligence to be capable of performing complex commands. When not taking orders or if faced with a situation that was not detailed in their orders, they would attempt to destroy any living creature that wasn't expressly identified as off-limits.
+
+If an accident was made during their creation, death tyrants were known to go into a "rogue" state. Death tyrants in such a state were incapable of being commanded by any means, even by spells.
+
+Combat
+Unlike the gaze of a beholder, which disabled any magic where a beholder was looking, a Death Tyrant's gaze caused recovery to become impossible. Healing magic ceased to work, wounds failed to heal themselves, the very essence of life was gone in anything under the view of a Death Tyrant.
+
+As creatures with the powers of necromancy, death tyrants could summon undead. However, unlike human necromancers who could at best summon a few hundred undead with intense concentration, a Death Tyrant could summon as many zombies as it pleased without effort.
+
+Ecology
+The ritual to create a death tyrant was quite elaborate and the components required for it would typically cost around 3,000 gp. Elder orbs and beholder mages were both known to be capable of casting a spell that would transform dead beholders into death tyrants. They were also known to have a unique spell that would override the orders given to a death tyrant.
+
+Death tyrants were capable of being magically bound to items by wizards, forcing them to obey the commands of whoever wields it. In a similar fashion, they could be bound to obey those who spoke a specific code-word, but this was considered faulty by comparison.
+
+Varieties
+ Kasharin were death tyrants who had been raised from the bodies of beholders infected with the beholder-contagion malohurr. Though their abilities and behavior largely paralleled that of regular death tyrants, kasharin carried a highly contagious disease similar to mummy rot that slowly killed whatever creature they touched.
+
+Appendix
+
+Appearances
+Adventures
+City of the Spider Queen • The Ruins of Undermountain • Anauroch: The Empire of Shade
+Novels
+Elminster in Hell • Lolth's Warrior
+Video games
+Baldur's Gate II: Throne of Bhaal • Dungeons & Dragons: Eye of the Beholder
+Board Games
+Tyrants of the Underdark: Aberrations and Undead
+Card Games
+
+Miniatures
+Icons of the Realms
+
+Gallery
+
+Further Reading
+
+References
+
+Connections
+
+---
+
+## Derlusk
+
+Derlusk was a city of music that grew up around one of the busiest harbors in the Border Kingdoms southeast of the Dragonsmoke Ridge.
+
+Description
+Evidence of Wealth was everywhere in the city, with many of the stout stone buildings appearing as a beautiful vista of slate roofs and shimmering lanterns at night. The city's port had several rival shipyards, best known for building swift, sleek 'wave runner' coastboats.
+
+Government
+The city was lightly governed by the Coinseats—the nine chairs of their ruling council, elected by the head merchants. Their duty was to pass laws, settle and pass judgement in disputes between neighbors or rivals, and direct a city watch force of 60 guards. Despite their distaste for guilds, merchants in a given field tended to nominate and vote for "one of their own".
+
+Culture
+Native Derluskans had traditional names similar to those found in Cormyr and the Dalelands.
+
+Inhabitants
+Being a city of music, bards were highly regarded in Derlusk, where every inn, tavern, tankard-house, and fencing club had its own musical entertainment. Also full of scriveners, bookbinders and book collectors, Derlusk was the city to come to if you sought an old, rare book. If a particularly rare or valuable volume could not be bought, a seeker might negotiate a price at which the book's owner would allow scribes to safely allow a copy. The collection of literary interest gave the port a whiff of sophistication reminiscent of far larger ports such as Waterdeep, Athkatla, and Calimport.
+
+Though many dockworkers of Derlusk found the world of books to be strange, they regarded the city's sages as harmlessly eccentric, true fellow citizens—provided they shared an appreciation of music.
+
+Appendix
+Further Reading
+
+External Links
+
+References
+
+FR:Derlusk
+Connections
+
+---
+
+## Delly Curtie
+
+Delenia "Delly" Curtie a barmaid at The Cutlass tavern in Luskan and later the wife of Wulfgar, in the mid-to-late 14 century DR.
+
+Description
+Delly Curtie was a girl with blonde-brown hair that did not look very clean. Her eyes were a rare shade of light brown and her grin was slightly crooked.
+
+Personality
+Delly had a typically sarcastic attitude.
+
+Relationships
+In Luskan, she had intimate relationships with a variety of men, including Morik the Rogue. She was somewhat promiscuous seeking the knowledge, safety and security of the menfolk she spent her time with and seeing relations with these men as a fair trade for her security. Finally though, she settled with Wulfgar and left Luskan.
+
+History
+Early Life
+By the age of 20 in 1364 DR, she had worked for Arumn Gardpeck in his tavern The Cutlass in Luskan for several years.
+
+Travels with Wulfgar
+Delly's fortunes changed when Wulfgar came to the tavern that year. He broke most of it, but she came to admire and love him. She was there throughout the times that he was away in Auckney but when he came back to see her in the, after he'd adopted Colson, she came with him and Morik to help take care of the child, The child's natural parents were Meralda Feringal and Jaka Sculi but Delly still cared for the girl.
+
+She cared for the child for some time, helping Wulfgar and allowing him to find himself and to turn from the darkness behind him. Late in 1366 DR, she cared for Colson whilst Wulfgar set out on the Sea Sprite to track down Aegis-fang. She stayed at the house of Captain Deudermont, trying her best to learn to be a lady from some expectation others have of her.
+
+At Mithral Hall
+She went with Wulfgar whenever she could, but during adventure or war, she was often left behind in Mithral Hall. The last time, however, came at the cost of her life and happiness. She longed to be back under the open sky and, on such occasion during the war with the Many-Arrows orcs over 1370 DR to 1371 DR, tried unsuccessfully to ask Wulfgar to go with her to Silverymoon. Wulfgar didn't appreciate what strain she felt in the subterranean conditions of Mithral Hall and failed to see how desperate she was, not least considering the greater time he spent with his former love Catti-brie. She started trying to get away and listened to the other refugees in Mithral Hall talk of starting new lives in a variety of cities. She went to visit Catti-brie with Colson, but came under the influence of the intelligent sword Khazid'hea.
+
+Khazid'hea, thirsty for blood, forced Delly to hand her daughter Colson over to Cottie Cooperson and travel north behind the enemy orc lines. After traversing many miles, Delly came across an orc band and, being completely controlled by Khazid'hea, ran headlong into battle with the group. She slew one immediately and another soon, but fell to the arrows of an orc archer. She died watching the Selûne pass overhead in the night sky. She dropped Khazid'hea, which was claimed by other wielders.
+
+Legacy
+The reincarnated Catti-brie used the alias "Delly Curtie" in Longsaddle and Icewind Dale in the 1480s DR.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Delimbiyr River
+
+The Delimbiyr, also known as the River Shining, was a river that ran through the Savage Frontier and the Western Heartlands.
+
+Geography
+Starting deep in the Nether Mountains, flowing south through Delimbiyr Vale, it was joined near Loudwater by the combined flow of the River Loagrann and the River Greyflow. It continued west between the southern edge of the High Forest and the northern edge of the High Moor where it met the Unicorn Run near Secomber. It continued southwest past the Misty Forest, Laughing Hollow, and Daggerford. Eventually, the river dissolved into a morass of waterways, forming a vast swamp known as the Lizard Marsh.
+
+The water was described as tasting minty and sweet.
+
+Headwaters
+The headwaters of the Delimbiyr River consisted of three streams. These were, named west to east, the River Aulantrar, the River Starsilver, and the Norlnryn.
+
+Fauna
+The Delimbiyr River was full of szorp fish.
+
+Places of Interest
+ Shining Falls
+
+Appendix
+
+Appearances
+Adventures
+Hellgate Keep
+Gamebooks
+Spawn of Dragonspear
+
+References
+
+FR:Fleuve Delimbiyr
+
+---
+
+## Detect lycanthrope
+
+Detect lycanthrope  was a spell similar to detect shapechanger, but geared specifically towards lycanthropes.
+
+Power
+This spell allowed the caster to sense the presence of all lycanthropes within its area, which could be a few miles in radius.
+
+Infected lycanthropes were more likely to evade the effects of this spell than natural lycanthropes. The caster was unable to tell which kind of lycanthropes were out there, or any information about them other than their location. Lycanthropes would be detected regardless of their current aspect. This spell was created by Avan Vatsisen and he was likely the only one to be able to use it.
+
+Components
+For material components this spell required a balm of honey, a dried carrot, moonwort, and belladonna. The belladonna had to be rubbed into the caster's eyelids.
+
+Appendix
+
+References
+
+---
+
+## Defenders of the Faith
+
+Defenders of the Faith is an accessory for the 3-edition of  ruleset.
+
+Contents
+ Introduction
+ Chapter 1: Clerics and Paladins
+ Chapter 2: Churches and Organizations
+ Chapter 3: Prestige Classes
+ Chapter 4: Divine Magic
+
+Description
+Defenders of the Faith provides supplemental information for characters belonging to the cleric and paladin base classes. This book introduced Divine Feats, and also contained tips for creating and playing characters of the aforementioned class, as well as several prestige classes.
+
+Gallery
+
+Credits
+ Design: Rich Redman, James Wyatt
+ Additional Design and Development: Andy Collins, Monte Cook
+ Editors: Gwendolyn F.M. Kestrel, Jon Pickens
+ Creative Director: Ed Stark
+ Cover Illustration: Brom
+ Interior Illustrations: Dennis Cramer
+ Cartography: Todd Gamble
+ Typography: Erin Dorries
+ Graphic Design: Sean Glenn, Dawn Murin
+ Art Director: Dawn Murin
+ Project Manager: Justin Ziran
+ Production Manager: Chas DeLong
+
+Appendix
+External Links
+
+Spell Planning Worksheets
+ Defenders of the Faith on the Wizards of the Coast website
+
+Connections
 
 ---
 
@@ -896,6 +1529,134 @@ Connections
 
 ---
 
+## Deities and Demigods
+
+Deities and Demigods is an accessory for the 3-edition of  ruleset.
+
+Contents
+ Introduction
+ Chapter 1: Deities in Your Game
+ Chapter 2: Deities Defined
+ Chapter 3: The D&D Pantheon
+ Chapter 4: The Olympian Pantheon
+ Chapter 5: The Pharaonic Pantheon
+ Chapter 6: The Asgardian Pantheon
+ Chapter 7: Other Religions
+ Appendix 1: Domains and Spells
+ Appendix 2: Divine Ascension
+
+Index
+Creatures
+
+Locations
+Planes
+Planets
+Settlements
+Organizations
+
+Gallery
+
+Credits
+ Designers: Rich Redman, Skip Williams, James Wyatt
+ Editors: Michele Carter, David Noonan
+ Creative Director: Ed Stark
+ Managing Editor: Kim Mohan
+ Vice President of RPG R&D: Bill Slavicsek
+ Vice President of Publishing: Mary Kirchoff
+ Business Manager: Anthony Valterra
+ Project Manager: Martin Durham
+ Production Manager: Chas Delong
+ Art Director: Dawn Murin
+ Cover Illustration: Sam Wood
+ Interior Illustrations: Kyle Anderson, Glen Angus, Matt Cavotta, Dennis Cramer, Tony DiTerlizzi, Jeff Easley, Donato Giancola, Lars Grant-West, Rebecca Guay, Matt Mitchell, Eric Peterson, Wayne Reynolds, Darrell Riche, Richard Sardinha, Brian Snoddy, Justin Norman, Arnie Swekel, Sam Wood
+ Graphic Designers: Dee Barnett, Cynthia Fliege, Sherry Floyd, Sean Glenn
+ Cartographer: Todd Gamble
+ Typesetting: Erin Dorries
+
+Appenndix
+External Links
+
+ Deities and Demigods by Skip Williams, Rich Redman and James Wyatt
+
+Connections
+
+---
+
+## Dead Horse Ford
+
+Dead Horse Ford was a crossing on the Dessarin River south of Calling Horns. The ford was a part of Jundar's Pass, the trail from Beliard to Calling Horns. Dead Horse Path ran from the ford to Noanar's Hold along the banks of the Dessarin.
+
+It drew its name from the battle fought here where the hero Destril Longtracker had three horses slain from underneath him.
+
+References
+
+---
+
+## Dessarin Road
+
+Dessarin Road was a trail leading from Beliard though the badlands and plains to Bargewright Inn. It was approximately 64 miles (103 kilometers) between the two cities, following this road.
+
+Places of Interest
+ Beliard
+ Bargewright Inn
+ Halls of the Hunting Axe
+ Ironford
+ The Iron Road
+ Jundar's Pass
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Delimbiyr Road
+
+The Delimbiyr Road, also known as the Delimbiyr Route and the Shining Trail, was a trade road in the Delimbiyr Vale that ran from Loudwater in the east to the Trade Way in the west.In The North: Guide to the Savage Frontier, the description of the Delimbiyr Route states incorrectly that the Route meets up with the "High Road south of Zundbridge" when in fact it is the Trade Way that runs south of Zundbridge.
+
+Geography
+It roughly followed the route of the River Delimbiyr from its northern banks, taking in the settlements of Loudwater, Zelbross (at about the halfway point), and Secomber. In the west, it joined the Trade Way near Julkoun, and a short trail led south to Daggerford. East of Loudwater, it joined the Dawn Pass Trail. The road was roughly  wide and was formed of hard-packed earth with deep wagon ruts. Tall grasses and wildflowers covered the sides of the road, but trees were prevented from growing right up to the edge of the road by outriders from passing caravans.
+
+Travel Times or Distances
+ Loudwater to The Smiling Satyr: about eight farms southwest of Loudwater.
+
+Trade
+Traders doing business in the Delimbiyr Vale preferred to follow the Delimbiyr Route, rather than go through sleepy Uluvin.
+
+Places of Interest
+Some of the settlements, ruins, or geographical features on or near the Delimbiyr Route, listed roughly from west to east:
+ Trade Way
+ Trail Way
+ Daggerford
+ Laughing Hollow
+ Forlorn Hills
+ River Delimbiyr
+ Secomber Trail
+ Secomber
+ Unicorn Run
+ Hark River
+ High Moor
+ Dungeon of Hark
+ Zelbross
+ High Forest
+ Southwood
+ Loudwater
+ Dawn Pass Trail
+
+Appendix
+Notes
+
+Appearances
+Organized Play & Licensed Adventures
+Nurture and Nature
+
+References
+
+FR:Route Delimbiyr
+
+---
+
 ## Deep Duerra
 
 Deep Duerra, or simply Duerra, was the duergar demigoddess of conquest, expansion, and psionics, and was venerated by those dwarves skilled in the mysterious Invisible Art. Ever the imperialist, the Axe Princess of Conquest was a resolute believer in the supremacy of psionics and the destiny of the duergar to rule all the Underdark.
@@ -979,6 +1740,298 @@ In 1383 DR, Moradin assembled other members of his pantheon to crush the forces 
 Gallery
 
 References
+
+Connections
+
+---
+
+## Death knight
+
+A death knight was a mighty undead warrior created by gods of death or other malevolent forces. They were most commonly created from evil humanoids who in life had been blackguards, fighters, rangers, barbarians, and even paladins fallen from grace.
+
+Description
+A death knight appeared similar to how it appeared in life, but it had a decayed body with rotting flesh and pinpoints of light in place of eyes. A death knight often wore fine clothing and armor, especially capes, as a mark of importance. A death knight struck fear into the hearts of weaker creatures.
+
+Society
+A death knight often rode a nightmare into battle and had a variety of undead servants, such as skeletons, wights, and zombies. More powerful death knights had more servants.
+
+Notable Death Knights
+ Hekaton, the storm giant king that was transformed into a death giant by the Red Wizards of Thay.
+ Imbrar I, the fallen paladin-king of Impiltur.
+ Miltiades of Phlan, once punished with the undead existence by Tyr, the paladin redeemed himself and was returned to life after being a death knight for a thousand years. As a human, he retained some of death knight's formidable magical powers and resistances.
+ Olanthius, a warrior of Elturel who served his commander Zariel in life and undeath.
+ Vanrak Moonstar, a devout worshiper of Shar, and the twin brother and long-time enemy of the archlich, Alathene Moonstar.
+
+Appendix
+See Also
+ Narzugon
+Appearances
+
+Gallery
+
+Further Reading
+
+References
+
+---
+
+## Depths of Madness (novel)
+
+Depths of Madness, by Erik Scott de Bie, is the first book of the loosely-related The Dungeons series.
+
+Summary
+Fox-at-Twilight watched her adventuring band, including her partner Arandon, die at the hands of lizardmen and a mutated troll before passing out.
+
+She woke up in a cell guarded by anti-magic enchantments with the Daleman Liet. After causing a scene, Twilight discovered the mutated troll, named Tlork, is guarding the prison. She tricked the troll and freed the prisoners in the surrounding cells; Slip the talkative halfling follower of Yondalla, the sun elf priestess of Corellon, Talsin, and her partner arcanist Asson, the goliath Gargan, and the warlock Davoren.
+
+Twilight was elected the leader after a brief debate and standoff with Davoren, who threatened the party before agreeing. The group set about escaping the prison. Gargan helped Slip find a trapdoor in the ceiling while Twilight picked the lock to a chest that contained a variety of weapons armor, and gear, many of them personal items of the group, including Twilight's sword, Betrayal.
+
+Armed, the party climbed through the trapdoor. The troll was alerted to the escape by an omnipotent master.
+
+On a staircase beyond the trapdoor, the party discovered a glyph that Slip accidentally set off while examining. Asson revealed the trap's incantation was spoken in a difficult dialect of the Netherese language. A crypt at the top of the stairs was bloodstained and full of murals and glyphs depicting Netherese battles with the cone shaped phaerimm. Further in the crypt, after finding a broken portal, the party was attacked by wights.
+
+One of the wights was formerly Arandon and it appeared to recognize Davoren before attacking him. Asson was hobbled by an injury in the ensuing chaos, and the party decided to make camp in the crypts. The group bickered, with significant distrust between various members, until Twilight threatened them, pointing out the group is well balanced, despite personalities.
+
+Slip revealed she is from Luiren, the halfling country in the Shining South, which Twilight had visited.
+
+Out of the crypt, the group arrived in sewer not used in a very long time, and determined they were in the bowels of an ancient city. Exploring the sewers took a full day, and Twilight became convinced something was watching them, likely her patron. The party found a trapped passage out of the sewers, and Twilight was injured leading the party through it.
+
+While resting Twilight revealed Betrayal was made of the alloy Hizagkuur, and was one of the first such weapons forged in the Northland before the rise of Cormanthyr, during a time elves and dwarves freely traded.
+
+The passage led to a group of caverns infested with grimlocks. The party fought them, and Twilight and Talsin were taken captive. Davoren tried to convince the rest of the party to abandon the captives.
+
+The grimlocks began a ritual procession to sacrifice the captives to their god Ithilnin, and carried them on stretchers through a cavern with a grimlock city in it to an even larger but plain cavern in which Asson caused the illusion of a massive purple worm to appear through a hole in the floor. Under the protection of a silence spell, Liet and Slip freed the captives, but an even larger purple worm, the grimlock's god, arrived before they could escape, and broke the illusion.
+
+In the following combat, Asson was crushed by the purple worm due to Davoren's betrayal, and Taslin was severely injured killing the worm. Tlork showed up as the party attempted to escape from the remaining grimlocks. The grimlocks saw Tlork as a larger threat than the party, and fought him instead.
+
+Devoran collapsed a tunnel behind the party, and they found themselves in a part of the ruined city built as a minotaur maze. After being healed, Taslin swore a blood oath to kill Davoren once the group was freed, blaming him for Asson's death.
+
+After sending everyone but Davoren to find a path back to the sewers, Twilight fought him. During the battle it was confirmed Davoren was an unnamed member of Twilight's original party hired in Westgate, and served the archdevil Asmodeus while claiming demonic lineage. Twilight paralyzed him using nar’talas venom, or Locklimb, made from a rare centipede native to Evermeet, threatened him with a fate worse than death if he betrayed the party again, and to prove her point, left him half-paralyzed to catch up to the party on his own or die.
+
+At camp, Twilight shared a tender moment of remembrance for Asson with Taslin, somewhat to her chagrin. Davoren caught up.
+
+The next day the party ran into a group of lizardmen that activated an invisible golem, killing many and causing the rest to flee. Twilight captured one lizardman which mentioned a mad sharn before dying. The party avoided the room and eventually set camp after avoiding more lizardmen and finding two potential exits to the area, a wizard's sanctum.
+
+After resting the party realized something had shifted passages, and found a carving written in Qualith. The carving described the anguish of its Illithid writer having been trapped in a place called Negarath. The party fought some lizardman and arrived at a bowl shaped chamber with a summoning circle in the center. Slip accidentally activated two helmed horror guardians of the circle which were quickly dispatched, before the party was ambushed by a hangman golem on the ceiling that killed Taslin immediately.
+
+Devoran slipped away into a secret passage while the rest of the party fought and destroyed the golem. He returned with a looted scepter after the battle. Twilight tracked the hangman golem's path along the ceiling to a secret door high up in a room they had passed through earlier.
+
+Having become romantically entangled, Twilight confessed to Liet she believed the party was being watched, and there was a spy in the group. The next day she sent the group under Liet's lead up one potential exit, while she explored the passage she expected an ambush on and found a group of lizardmen which she defeated.
+
+Liet's group followed the passage up to the streets of Negarath, inside a cavern full of giant fungi and strange twisted plants, the ruins of buildings that seemed to have been built upside down looming overhead. An abeil hive sensed them and attacked, forcing them into a building where they met back up with Twilight who announced she had seen the cities Mythallar, and it was intact. The group attempted to escape by climbing the central arcanist tower and digging a hole through the ceiling, but were unsuccessful and captured by the mad sharn Ruukthalmuramaxamin, or Ruuk.
+
+Only bargaining with Twilight and Gargan, Ruuk revealed they are cursed, and ancient enemies with the demon-priest Gastel, who brought the party to this dungeon. The two agreed to kill Gastel so that Ruuk would release their companions, and the sharn teleported them back to the original dungeon. Realizing that the Mythallar was causing gravity to be reversed in the city, through hints from the sharn, they found a hatch in the floor. The hatch led to natural caves, a gravity inversion, and Slip showed up, explaining she had not been captured, but unable to explain how she'd found them again.
+
+The three continued, more lizardmen were killed, as well as Taslin's reanimated corpse. On a hunch, Twilight suspected Davoren had also escaped capture, and sensed him a bit ahead of them by using her powers. The group stealthed through tunnels full hundreds of lizardmen and ran into Tlork, who Gargan declared he would kill. Tlork led them to Gastel who appeared as Liet, and during the fight Slip was blinded and left behind, while Gargan escaped with the severely wounded Twilight to a goliath village.
+
+After her wounds healed, Twilight and Gargan headed back to the canyon in the Plain of Standing Stones Gargan had escaped Negarath from, and they re-entered the city to find Betrayal, and face Gastel as well as Tlork again. They discovered Tlork hidden above Betrayal, and he ambushed them. Twilight was once again badly injured, and Gargan fell into a chasm with Tlork.
+
+Davoren appeared, healing Twilight just to exact his revenge on her, but failed and she finally made good on her earlier threat.
+
+Following the catacombs, Twilight found the place they had fought Gastel at and worked around a crevice he had created to get to the chapel to his lord Demogorgon. She confronted Gastel, who dominated her before inviting her to serve Demogorgon with him, revealing finding a powerful swordwoman was his plan all along, possessing Liet to help the process. Twilight was able to get Liet's consciousness to gain control for a moment, then Ruuk arrived. Gastel took control and destroyed Ruuk with a single word of chaos. As Gastel cast a spell to kill her, Twilight rushed through and kissed him, bringing Liet back momentarily before both he and Gastel died together. Tlork showed back up with Gargan in tow, and quickly stabbed and thrown into a pit of spikes.
+
+The story ended with Tlork plotting revenge, and Slip, another servant of Demogorgon, the new master of Negarath.
+Further Reading
+
+Gallery
+
+External Links
+ Sample chapter (.zip file)
+ Goliaths of Faerun by de Bie and Costa Stats and extra information on the characters featured in the novel. Written by Erik Scott de Bie and Thomas M. Costa.
+References
+
+---
+
+## Derro
+
+Derro  were a species of humanoids that inhabited the Underdark.
+
+Description
+Derro appeared to resemble small dwarves. They had blue-gray skin, and their hair was often white, yellow, or pale tan in color. They lacked both irises and pupils, showing uniformly pale eyes. Most derro looked haggard and wore shabby clothing, appearing pitiable to unsuspecting victims.
+
+Biology
+The eyes of these creatures were capable of seeing in total darkness as well as the ultraviolet spectrum out to a range of . They often suffered nausea while in sunlight.
+
+Their bodies were typically quite dexterous.
+
+Combat
+Derro were typically known to wield repeating light crossbows with poison-laced arrows, hooked fauchards, daggers, spears, and aklys.
+
+Rumors & Legends
+Legend had it that the derro originally lived on the surface of Faerûn. But they opened portals to the Far Realm, which offended the World Serpent, who cast the derro into the Underdark.
+
+There were other conflicting legends of how the derro came to be. The duergar believed that the derro were another dwarf clan that was long held by mind flayers, which resulted in the madness that afflicted them. The derro themselves all told oft-changing variations of the myth of their god; all versions shared a common focus on his stealing of magic from a great evil to help the derro survive through their ideals of deceit and cruelty.
+
+Outside of their origins, there were a few rumors that claimed they ate human flesh.
+
+Society
+The derro were a strange and sadistic race. While clever and stealthy, they were also murderously insane. It was very common for derro to devote themselves to some strange quest, such as collecting only certain types of gemstones or slaying as many members of a particular race as possible. Some derro were assigned specific missions by powerful derro savants, with the possibility that they might even join a company of comrades to fulfill some irrational goal.
+
+Derro bands survived the challenges of the Underdark only thanks to their intense paranoia and the sorcerous powers of their leaders.
+Homelands
+Derro were widespread, likely to be found in and throughout the Underdark. Some had colonies beneath the Savage North. There were also derro warrens within duergar cities, like Gracklstugh, but such derro were treated as a disrespected underclass.
+
+Beyond Toril, derro could be found on a number of worlds due to magical travel, including Oerth. The world of Krynn was one not known to have any true instances of derro on it, though one of Krynn's endemic dwarven subraces was noted as being rather similar.
+
+Religion
+Most derro revered the god Diirinka, but very few became actual clerics. Instead, Diirinka's blessing was considered manifest in the sorcery of their many savants.
+
+Notable Derro
+ Buppido, a cunning and insane killer who believed himself to be the incarnation of the derro god Diinkarazan.
+ Droki, a courier who worked for the Grey Ghost thieves' guild in Gracklstugh.
+
+Appendix
+Background
+The derro may be inspired by the Deros, a race of insane malevolent dwarves living deep within a hollow Earth in the writings of Richard Sharp Shaver, published in science-fiction magazines in the 1940s.
+
+Appearances
+
+Further Reading
+
+External Links
+
+References
+
+Connections
+
+de:Derro
+
+---
+
+## Delzuld
+
+The Delzuld family was a noble house of Cormyr, known in the 13th and 14th centuries DR.
+
+They were the wealthiest nobles in Arabel in the mid–14th century DR.
+
+Members
+ Sulaspra Delzuld (1241–1276 DR), married Gaspar Ammaeth
+ Lord Creion Delzuld, head of the family in the mid–1300s DR.
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Death of the Dragon
+
+Death of the Dragon by Ed Greenwood and Troy Denning is the third and final novel of The Cormyr Saga, which chronicles the end of King Azoun IV's rule of Cormyr.
+
+Summary
+Alusair Obarskyr battles orcs, having sent Tanalasta Obarskyr, along with High Harvestmaster Owden and Alaphondar, the Sage Most Magnificent, to be teleported to Arabel. During the process, they are attacked by Xanthon Cormaeril, who is seemingly weakened when he learns that Tanalasta is pregnant with a Cormaeril who will inherit the throne. Azoun Obarskyr IV continues searching the Stonelands, finding Alusair. Vangerdahast discovers he is imprisoned in a goblin city that seems to be impossible to leave, even by teleportation and planar travel. He encounters Nalavarauthatoryl, or Nalavara the Red, once an elf of Cormanthyr whose lover was murdered by Andar Obarskyr before the founding of Cormyr. Nalavara is in the form of a massive red dragon, imprisoned in the city they are in, but spells cast by Vangerdahast help to free her.
+
+When Tanalasta is ambushed immediately after teleporting to Suzail, she realizes that the ghazneths have a spy. Vangerdahast encounters a new ghazneth in the goblin city. In Suzail, Tanalasta learns that Sembia is using the chaos in Cormyr as an excuse to send in a force of soldiers, which she recognizes as an invasion disguised as assistance. A faction of nobles, led by Emlar Goldsword, seem open to accept the help, but Tanalasta dispatches Giogioni Wyvernspur to the border with orders to invade Sembia if any troops cross into Cormyr. Vangerdahast realizes Rowen Cormaeril is the final ghazneth. He pursued an illusion of Tanalasta rather than deliver an important message, allowing the other ghazneths to seize on that betrayal and convert him. He hid in a copse of Trees of the Body, elven memorials, and encounters the spirit of Iliphar Nelnueve, King of Scepters, who gives his the Scepter of Lords, with the power to destroy any evil created by the elves, as long as any related evils perpetuated against the elves are also made right. Azoun and Alusair continue to battle orcs while Tanalasta and Filfaeril research the ghazneths and contend with treacherous nobles. While retrieving the Scepter of Lords, Vangerdahast and Rowen are attacked, and Vangerdahast uses his Ring of Three Wishes to wish her out of existence. However, this merely sends her to Cormyr, where she begins wreaking havoc alongside goblin and orc armies. Tanalasta discovers means of weakening the ghazneths and sets forth with a group of soldiers, including Korvarr Rallyhorn, captain of her guard, and his foolish younger brother Owden. However, the ghazneths always seemed warned of her arrival and avoid being trapped. In one of these battles, Tanalasta’s pregnancy is exposes and she is forced to announce her marriage to Rowen Cormaeril. Neutral nobles, who are unwilling to side with Tanalasta or Emlar Goldsword, start to be assassinated.
+
+Vangerdahast seizes an iron crown, offered to him by Nalavara, that affixes itself to his head and forces him to become ruler of the goblins. Arabel falls to the orcs. Tanalasta makes a show of force, reminding the nobles that according to the Rule of Law, she has complete authority to punish crimes against the crown. When she executes a noblewoman who complains, the other nobles fall in line and commit their soldiers to the cause. Owden Rallyhorn is exposed as the ghazneth spy.
+
+Tanalasta uses Oweden to lure Luthax, the ghazneth of wildfires with which he had been communicating, into a trap. She then executes her plan. Due to her encounter with Xanthon Cormaeril, she realizes that the ghazneths lose their powers if they are given their greatest desires. She gives Luthax the crown of Galaghard Obarskyr I, stripping him of his powers, and imprisons him in an iron box when he claims knowledge of Rowen’s fate.
+
+She continues to move against the ghazneths, taking advantage of a ban on magic that weakened them and made them desperate for spells to drain. She learns though a magic communication with Vangerdahast that the only way to truly kill the ghazneths is to forgive their betrayals against Cormyr. The magic draws in Melineth Turcassan, ghazneth of pestilence. She removes his power by gifting him with gold and forgives his crimes, causing him to dissolve. Next, she uses magic to tell Azoun that the red dragon is Nalavara, which she learned from Vangerdahast. This spell lures in Ryndala Merendil, ghazneth of war, and Xanthon Cormaeril, ghazneth of swarms. She gives Ryndala the throne of Azoun Obarskyr I and forgives her, causing her to die, and Xanthon Cormaeril a royal signet ring, naming him royal cousin. Although this drains his powers, Tanalasts is unable to forgive him when he reveals that they turned Rowen into the seventh ghazneth and therefore he does not die.
+
+Azoun and Alusair win a great victory against the orc army, but Alusair’s force is attacked by Nalavara and she goes missing, and Azoun is severely wounded in battle with Nalavara. Tanalasta and Filfaeril are informed of the tragedy, and Owden opens up a gate to free Vangerdahast to take command in Azoun’s absence. He arrives with the Scepter of Lords. Alusair survived the dragon attack, but enters a strange patch of mist and is teleported to the goblin city. Vangerdahast helps Tanalasta defeat Suzara Obarskyr, ghazneth of blight, by giving her the wealth and luxury of Suzail, then not only forgiving her but thanking her for her sacrifice. However, Tanalasta does not know what desire to give Boldovar Obarskyr, gazneth of madness, the only one remaining aside from Rowen.
+
+Although Vangerdahast tried to keep it secret, Tanalasta realizes Rowen was trapped with him, and has Owden open another gate. However, Rowen refuses to pass through, and Owden is sucked through the gate, which closes. Tanalasta is killed by Boldovar, but gives him her pain and forgives him, also managing to deliver her baby just before her death. Azoun sacrifices his life in battle with Nalavara. Rowen flees when he learns of Tanalasta’s death. Alusair ascends to the throne of Cormyr.
+Index
+
+Appendix
+
+Gallery
+
+References
+
+de:Die Ritter des Purpurdrachen
+
+---
+
+## Deheriana
+
+Deheriana was the lover of Kivan. She was tortured to death by Tazok, prompting Kivan to swear revenge.
+
+Appendix
+References
+
+External links
+
+---
+
+## Destruction domain
+
+The Destruction domain was a deity domain that granted divine spellcasters like clerics with destructive spells and powers.
+
+Deities
+
+Powers
+They gained the ability to smite foes.
+
+Spells
+Novice spellcasters were able to use the inflict light wounds, shatter, and contagion spells. Clerics of some experience could cast inflict critical wounds, circle of doom, and harm. Those that were masters of this domain had access to disintegrate, earthquake, and implosion.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Demon lord
+
+Demon lords, also known as Abyssal lords, were archfiends who gained great power and established a position of preeminence among demonkind. Over millennia, these demons had amassed tremendous power and authority over their domain.
+
+Hierarchy
+Each demon lord had a unique appearance and set of abilities and ruled over at least one layer of the Abyss. Those that controlled several layers and rose higher in power gave themselves the title of demon prince. Both "demon lord" and "demon prince" were self-proclaimed titles by those who had gained enough power and influence. The demonic fiends were in an eternal struggle, edging and fighting for dominion over one another. Unlike the archdevils, the chaotic evil demon lords did not have a rigid hierarchy, though they appeared in greater numbers throughout the Blood War.
+
+History
+Demon lords waged eternal war with each other, often seeking ways to expand their holdings into other layers and at the same time defend their personal domains from rival lords and scheming underlings. Obox-ob was the first demon lord to hold the title of "Prince of Demons", a coveted status symbol, followed by Miska the Wolf-Spider, and then Demogorgon. Orcus and Graz'zt contested this title, while Obox-ob desired to regain it.
+
+Most demon lords had secretive mortal cults who sought to elevate their lords to godhood through prayer and sacrifice.
+
+Lords and their Domains
+Obyrith Lords
+
+Although obyriths were the oldest of the demonic races, and their lords among the most powerful, only a handful of obyrith lords survived the rebellion of the tanar'ri demons. Known obyrith demon lords included:
+ Dagon: Prince of the Darkened Depths, Dagon was a primeval leviathan of a demon lord whose presence brought a fear of the sea and all that lurked beneath the water. He was a maddeningly massive being, ancient and powerful even by obyrith standards, and yet also an isolationist that acted as an oracle for the tanar'ri from within the depths of the Shadowsea.
+ Dwiergus: Referred to as the Chrysalis Prince, Dwiergus was a house-sized soup of everchanging limbs that ruled The Fleshforges, an undulating, protoplasmic realm of hate and hunger. The eldritch, primordial demon lord was driven primarily by the desire to reshape all living things into demonic lifeforms, and implanted the overwhelming urge to remove a body part out of the irrational belief the Prince had tainted it.
+ Obox-ob: The original Prince of Demons, Obox-ob was said to be the first obyrith to rise from the primordial matter of the Abyss, an entropic demon lord of putrescence that could inject others with raw chaos stuff that consumed their bodies and souls. After being deposed and forced to retreat to the deep Abyssal realm of Zionyn, he was reduced to a patron of poison and spreader of entomophobia as the Prince of Vermin.
+ Pale Night: The so-called Mother of Demons that came to be known by the name Pale Night was an unknowable being of such awful shape that reality itself tried to hide her. To see the truth beyond the veil was to court death, her incorporeal form a harbinger of insanity and dreadful births. Seen as a mother figure by many in the Abyss, there was no knowing what horrors she was truly responsible for spawning.
+ Pazuzu: Prince of the Lower Aerial Kingdoms, Pazuzu declared all Abyssal skies as his, and few cared enough to fight him over such a claim. Though once an obyrith lord, he had somehow "evolved" into a kind of intermediate form between obyrith and tanar'ri, gaining a bond to evil creatures of the air in place of his once-maddening form. Upon the calling of his name thrice, he appeared to offer corruption disguised as aid.
+ The Queen of Chaos: Her actual name stricken from history, the self-styled Queen of Chaos led the obyriths to war against the rest of reality, specifically against the forces of law. Certainly a force of change, the Queen was behind the fall of Obox-Ob, and had killed, imprisoned, and weakened those obyriths that opposed her. She retreated to The Steaming Fen after her defeat and despite the hopes of a few obyriths, hadn't been seen since.
+ Ugudenk: Referred to as the Squirming King, Ugudenk was a worm-like obyrith that primarily dug through his Writhing Realm. Seemingly immortal, it was speculated he was himself an Abyssal layer, his maw a feeding tendril that sometimes reached across the multiverse to devour at apparent random. His presence brought a fear of that which burrowed, and the crippling thought he could burst from the ground at any time.
+
+Demon Princes
+The most powerful of the demon lords, aside from the obyrith lords, were called demon princes. These were tanar'ri demons. Known tanar'ri demon princes were:
+ Demogorgon: The third Prince of Demons, he was a monstrous demon with a humanoid, scaly body, two mandrill-like heads, tentacles in place of arms, clawed feet, and a tail.
+ Orcus: The self-proclaimed Lord of the Undead, Orcus had the legs and head of a ram, a long tail, bat-like wings, and a humanoid body. He was the archenemy of Demogorgon and Graz'zt.
+ Graz'zt: Also known as the Dark Prince, Graz'zt was a guileful, cunning demon lord that appeared as a handsome, muscular humanoid with obsidian skin, six small horns on his head, pointed ears, and six fingers on each hand. He was the archenemy of Orcus and Demogorgon.
+ Baphomet: The Prince of Beasts looked similar to a gigantic minotaur with coarse black fur that covered his body. He was widely worshiped among minotaurs as well.
+ Yeenoghu: Similar in appearance to the gnolls who worshiped him, Yeenoghu, who was also called the Lord of Savagery, maintained a feud with Baphomet.
+ Juiblex: Juiblex, the Faceless Lord, was a monstrous, multi-colored ooze covered in red eyes. He was mainly concerned with causing destruction.
+ Fraz-Urb'luu: The self-styled Prince of Deception was a mysterious, winged demon lord.
+ Kostchtchie: Kostchtchie was a demon lord who corrupted frost giants into worshiping him, and called himself the Prince of Wrath.
+ Malcanthet: The Queen of the Succubi and one of the more subtle demon princes.
+ Zuggtmoy: A demon princess whose powers and concerns primarily involved fungi.
+
+Other Demon Lords
+
+The vast majority of demon lords were tanar'ri, but only a few were demon princes. The rest were simply called demon lords.
+
+Former Demon Lords
+ Arlgolcheir
+ Astaroth
+ Zanassu
+
+Appendix
+Appearances
+Novels
+ Archmage
+
+References
+
+Further reading
+
+ Robert J. Kuntz, Erik Mona, James Jacobs & Gary Gygax. "Maure Castle."  *Dungeon* #112 (Paizo Publishing, 2004).
 
 Connections
 
@@ -1091,6 +2144,1043 @@ FR:Démogorgon
 
 ---
 
+## Denia Vesdar
+
+Denia Vesdar was a spy for the Zhentarim, who worked in the Tower of the Blades in the city of Mulmaster. She had attained her rank after proving herself time and again, beginning her career as a mere soldier within Zhentil Keep.
+
+Appearance
+Standing about 5' 6" (1.6 m) tall with relatively plain features and a pale complexion, Denia's unassuming features served her well in assuming the various identities that were required to complete her missions for the Zhents.
+
+Appendix
+
+Appearances
+ Mysteries of the Moonsea
+
+References
+
+---
+
+## Deep Sashelas
+
+Deep Sashelas  was an elven deity who made his home on Arvandor, although he was rumored to maintain a demesne off the coast of the Moonshae Isles known as Tír faoi Thoinn.
+
+Description
+Sashelas's avatar looked like a sea elf with blue-green skin and eyes.
+
+Manifestations
+Deep Sashelas appeared to his worshipers in three different ways:
+ A twinkle of light from afar that, if followed by worshipers, led them to a safe place.
+ A small vent from which bubbles of air escape. He  appeared in this form in sea elf communities to warn them of a potential threat or attack.
+ A dolphin-shaped vision made of water with a silver glow. He used this form when communicating with sea elf communities.
+
+Personality
+Deep Sashelas' presence was felt all across Toril and he sought to be on good terms with underwater races beyond the sea elves. To do so, he relied on the charisma that made him a natural leader, and on his skill as a mediator.
+
+Sashelas preferred to use water-based magic and avoided fire spells.
+
+Activities
+Despite his involvement, his avatar rarely appeared to fight directly, but he made an exception if Sekolah or Panzuriel were involved. About half the time, he was accompanied by Trishina's avatar. On rare occasions, he would appear with another asathalfinare member's avatar.
+
+Relationships
+Deep Sashelas was vehemently opposed to the evil deities of the deep, namely Sekolah and Panzuriel, but also worked against Demogorgon and Dagon. He was friendly, though overall indifferent, with the goddess Mystra, and generally ignored the other deities associated with magic.
+
+Seldarine
+As a member of the Seldarine, Deep Sashelas had good relationships with its other members. He answered directly to Corellon Larethian.
+
+Dark Seldarine
+Deep Sashelas was an enemy of the Dark Seldarine, but Eilistraee counted him as her friend.
+
+Asathalfinare
+Sashelas was the leader of the asathalfinare pantheon, and he had good relationships with its members (Eadro, Persana, Trishina, and Surminare). His relationship was deeper with Trishina, his consort, specifically.
+
+Worshipers
+
+Deep Sashelas was mainly worshiped by the sea elves, as he was their patron deity and creator. In each of their settlements, there was a temple dedicated to the Dolphin Prince that typically looked like a giant shell. Sometimes, other races sought him as a patron out of an interest in water magic. Around  many shalarin had recently converted to the worship of Deep Sashelas (although none were clergy members).. Among all of his worshipers, it was forbidden to dabble in the usage of the Shadow Weave.
+
+The clergy were collectively called Delphions, and other terms for the faithful included the Impure (novices), the Bathed (acolytes), and Delphites (high priests). Priests and druids prayed to him during the high tide that was the closest to midday. They played the role of mediators between the races of the sea and of the land. Thanks to Deep Sashelas’s relationship with Trishina, his worshipers had a strong bond with dolphins.
+
+Temples
+See Temples to Deep Sashelas
+
+Appendix
+
+References
+
+Further Reading
+
+Connections
+
+---
+
+## Dela Alder
+
+Dela Alder was the proprietor of the Traveler's Cloak Inn within the city of Mulmaster.
+
+History
+In 1374 DR, Alder ran the inn with her husband Vesvur Alder. After being a widow for many years, she remarried after allowing Vesvur, a bard, to pay for his extended stay at the inn by entertaining the patrons.
+
+Appendix
+References
+
+---
+
+## Deathcalm
+
+Deathcalm the Loved helped to run Galvendo's Lodge with her companion and business partner Galvendo, of whom the lodge was named. She assisted in such ways as raising clients who had met their end on hunting trips with Galvendo.
+
+Appendix
+References
+
+---
+
+## Dediana Extaminos
+
+Dediana Extaminos was the yuan-ti halfblood ruler of the city of Hlondeth in 1372 DR.
+
+Family
+Dediana was the mother of Dmetrio Extaminos.
+
+Appendix
+
+Appearances
+ Venom's Taste
+
+References
+
+FR:Dediana Extaminos
+
+---
+
+## Dead-magic zone
+
+Dead-magic zones, collectively known as the legacy of Helm, were areas of space in which magic ceased to function. They were one of the lasting effects of the Time of Troubles.
+
+Creation
+Most dead magic zones were found where The Weave had torn apart and left a hole. The Church of Shar also developed several rituals such as the Rite of Unwinding, that could artificially create dead-magic zones, some of which would continue to allow Shadow Weave magic to function.
+
+Mystra or the Silver fire of her Chosen could heal the damage in the Weave caused by a dead-magic zone, though this usage of Silver Fire was draining on the Weave. As such, the act was discouraged by the goddess except in emergency situations. A wish or miracle could patch a  area of the damage as well.
+
+Size and shape
+Most dead magic zones had spanned no more than a few yards, though some were as large as entire city districts. One notably vast region — encompassing the northern quarter of Tantras and its outskirts, where the gods Bane and Torm once clashed — covered nearly 400 acres. These areas remained rare, yet certain individuals had already begun to exploit their unique properties.
+
+Dead magic zones were invisible and typically took the form of spherical bubbles, extending equally above and below the surface. Some manifested as jagged stars or assumed irregular shapes. In Arabel, one such zone had matched the size and outline of a building that once stood there — a tavern was later constructed on the same site. These zones had appeared in a wide range of locations, from deep beneath the earth to, at least theoretically, high above the ground and even into the skies beyond Faerûn.
+
+Effects
+Dead-magic zones were areas of anti-magic or null-magic that disabled enchantments or prevented spells from being maintained or cast.
+
+In the Year of the Gauntlet, 1369 DR, Calispar Delgorth, working at the Vipers' Nest zone, discovered that plants grown within a dead-magic zone had magic-resistant properties. He hypothesized that such plants "soaked up" the essence of the dead-magic zone.
+
+Dead-magic zones did not seem to have an effect on spelljamming helms, provided they were already in use when the zone was entered.
+
+Notable zones
+See :Category:Dead-magic zones.
+The northern quarter of the city of Tantras was a single, huge dead-magic zone of some 400 acres. It was the site of a battle between the avatars of Bane and Torm during the Time of Troubles. It became a haven to those who had offended vengeful mages.
+
+The entire Anauroch Desert was covered in a dead-magic zone when the Church of Shar taught the Shades one of their rituals for creating them. Using the Mythallar of Thultanthar to empower the ritual allowed them to create such a vast area, though the Shadow Weave and Psionics functioned normally, crippling the Zhentarim travelling the Black Road as well as the Phaerimm. The field did not extend into the Buried Realms however, so magic continued to function normally underground. Several artficial oases dried up, most Weave-powered magic items became worthless and the ecology of magical creatures (e.g. dragons) living in the desert was drastically altered.
+
+Dead-magic items
+A certain sapphire radiated an anti-magic field similar to a dead-magic zone. It was kept in a specially shielded box to block its effects. Errtu gave this sapphire to a demon summoned by Matron Mother Yvonnel Baenre. When exposed, the spells protecting Yvonnel disappeared and Drizzt's magical items temporarily lost their enchantments.
+
+The same sapphire was again employed by Errtu when the powerful artifact, Crenshinibon, was exposed to the sapphire and was damaged, at least temporarily.
+
+Using ingredients from plants grown with a dead-magic zone in 1369 DR, Calispar Delgorth was able to concoct poisons that were resistant or immune to magical cures.
+
+References
+
+FR:Magie morte
+
+---
+
+## Derek Windsfire
+
+Grand Civilar Derek Windsfire was one of the high commanders of the City Watch of Waterdeep.
+
+Appendix
+References
+
+FR:Derek Brisefeu
+
+---
+
+## Defending
+
+Defending was a weapon quality that let a magical weapon aid its wielder in defense.
+
+Powers
+The wielder could choose to transform the weapon's magical enhancement into a defensive barrier, making it harder for foes to hit the weapon's wielder.
+
+Creation
+A spellcaster needed the shield or shield of faith spells to create a weapon with this quality.
+
+Notable Defender Weapons
+ Drizzt Do'Urden's left-hand scimitar Twinkle was a +2 defending scimitar.
+ Elfhost was a sentient +5 defender longsword.
+ Mielikki's twin Hornblades were +5 defending holy keen mighty cleaving scimitars.
+ Mortal Strike, the personal weapon of the scholar god Oghma, was a +5 dancing defending longsword.
+ The Rod of Four Moons, the personal weapon of the moon goddess Selûne, was a +5 defending disruption holy heavy mace.
+ An enchanted defender rapier belonged to a wizard and smith Darnarest and as of 1369 DR, was kept in the ruins of his tower, next to the book that contained the guidance of crafting similar blades - Darnarest's Guide to Enchanting Blades.
+ The sword wielded by the tuigan khan Khoman  was a +4 defender sword.
+ King Halvor II's longsword was a +4 defender longsword.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Desertsmouth Mountains
+
+The Desertsmouth Mountains, also known as the Tethyamar Mountains, and formerly known as the Teshan Mountains, were a range of mountains that separated the Dalelands region, to the east, from the great desert of Anauroch, to the west.
+
+Description
+The mountains were known far and wide as a range of barren peaks that were infested with monstrous creatures.
+
+Geography
+The mountains marked the western border of Daggerdale in the Dalelands, and the eastern sands of the Anauroch desert. They were bordered to the south by the Stonelands of Cormyr, and to the north by the Border Forest.
+
+The sands west of mountains held within them one known portal, the Cat's Gate, which let to the plane of Cynosure.
+
+Flora
+The Desertsmouth Mountains were a home to a species of rare wild white Rose.
+
+Geographical Features
+The westernmost peak of the mounts was Rausrawna, previously known as Mount Shaddath, and its southernmost peak was referred to as "the Watcher".
+
+History
+
+Large amounts of adamantine and iron were found in the  in the Teshan Mountains, as they were then known. The great dwarven realm of Tethyamar was founded within the mountains a few years later,  in the .
+
+Both Tethyamar and the The Lost Vale of Tarkhaldale once stood in the Desertsmouth mountains, until they both fell some 87 years before the signing of the Dales Compact. They were overwhelmed by the orc and goblinoid army that marched from Hlundadim.
+
+In the, the returned lich Sammaster made his lair within the Desertsmouth peaks, using them as a base of operations to orchestrate the activities of the Cult of the Dragon.
+
+In the mid–14 century, the depths of the mountains became the site of a full-scale war between the native orcs and dwarves of Tethyamar.
+
+Notable Locations
+Landmarks
+ Old Tomb, the home of Shattershree, a silver dragon that attracted adventurers and nudged them in directions that would serve her goals.
+ Shraevyn's Tomb, the resting place of the famous mage that was located in Giant's Craw Valley.
+
+Settlements
+ Swordcrag, a small mining village that was reformed as an orc fortress.
+ Tarkhaldale, the human community that once stood in the western foothills, hidden between the peaks overlooking the Spiderhaunt Wood where the Dracolich Ashazstamn had his lair.
+ Tethyamar, the great dwarfhold that was home to the refugees of ancient Oghrann,  that was later taken over by the Zhentarim.
+
+Roads
+ Teshenfall Pass
+
+Inhabitants
+The mountain area was infested by mountain wemics, orcs, ogres, goblinoids, including goblins and hobgoblins, along with other monstrous humanoids. They were even a number of dragons, including the great wyrm Nexus, a number of copper dragons including at least one mated pair, along with another pair of gold dragons, whom were bound by the Oath of Concord.
+
+Notable Inhabitants
+The ogre referred to as Big Mountain Man originally dwelled within the mountains, before moving down to the Tesh Valley as did the hobgoblin raider known as Drag.
+
+Appendix
+Appearances
+
+References
+
+FR:Montagnes de l'orée du désert
+
+---
+
+## Demigod
+
+Demipowers or demigods were immensely powerful entities. The term had multiple meanings. In some cases, it referred to true immortal deities who were capable of granting spells, who were considered the first rung on the ladder of the gods. In other contexts, the term referred rather to exarchs or to the weakest of the quasi-deities, usually those having been birthed—directly or indirectly—by a true deity.In the first three editions of D&D, demigods were the lowest rank of power of the divine god scale. They were true gods, just the weakest of the true gods. In 3 edition, this was represented by them having a divine rank of 1 to 5. They could grant spells and do anything a god could do, just of a lesser power than other more powerful gods 4 edition brought in the idea of exarchs and calls them "demigods", but actually they were only powerful servants of a (usually) god. 5 edition followed more closely to 4 edition, in this case, where demigods are not true gods but rather quasi-deities. This article details those true gods and goddesses who were of the weakest power in the divine hierarchy.
+
+Personality
+Demigods were the weakest, and often the most inexperienced of the divine. This inexperience often came with a degree of shortsightedness that led many to challenge more prominent deities that were far more than they could handle. More often than not this ambition would lead to their destruction.
+
+It was mostly those who were capable of assessing divine politics, and recognizing their own inferiority, who remained out of the purview of stronger deities.
+
+Because they were limited in power, they were unattractive to clerics, and those with grand ambition avoided pledging their service to a demigod. However, when demigods themselves gained worship, they would often imbue their followers with all the powers they could muster in appreciation.
+
+Abilities
+A demigod owned all abilities of a quasi-deity including the immortality
+
+Unlike quasi-deities, demigods were capable of granting spells and other abilities.
+
+A demigod could take the form of a regular animate object.
+
+A demigod had complete immunity against acid, cold temperatures, and electricity. Unlike hero deities, a demigod was completely immune to disease, poison and other problems like stunning, paralysis, or being put to magical sleep. It became also impossible to kill a demigod right away with magic or by disintegrating it. In fact, altering the form of a demigod became only possible if the magic originated from the demigod or another deity of equal or stronger power.
+
+A demigod could speak any language including non-verbal ones. They could speak to creatures within a range calculated in miles of themselves in a direct manner but also send telepathic messages and manifestations to their followers or people around dedicated sites to themselves.
+
+A demigod could inherently cast greater teleport as often as they wanted.
+
+A demigod projected a field of divine energy that protected them from physical attacks.
+
+A demigod had Remote Sensing and Portfolio Sense. Even without these abilities, their senses extended to a range that was counted in miles. They could block the sensing abilities of inferior gods.
+
+A demigod was surrounded by an aura that made enemies fear, break their resolve while elevating the morale of allies, or make people cease to conduct any action in awe.
+
+A demigod could conduct actions that concerned its portfolio very fast, in fact almost in an instant. They could also create magic items without having the theoretical knowledge how to do so as long as the items in question concerned the deity's portfolio.
+
+A demigod had some control over its own realm. It could set the temperature in there and fill it with smells and sounds of their choice.
+
+On the condition that the demigod's avatar or a holy relic dedicated to the demigod was present, a demigod could cause the revival of a dead creature.
+
+Society
+Due to their very natures, demigods represented a very narrow and restricted ideal or aspect of existence. This meant only a certain group of mortals would consider the demigod suitable for worship, until either the ideals that the demigod embodied become more popular or the demigod was given or took the portfolios of other deities. They had some hundreds to thousands of followers.
+
+There were a total of six categories of demigods. First, there were the ones whose veneration that was limited to a certain ethnicity, like Uthgar from the Uthgardt people, or to a certain region, like Shiallia in the High Forest. Second, there were the ones who were formerly mortals and were raised to godhood. These people's initial divine stage was that of a demigod. Finder Wyvernspur fell into this category. Third, there were the ones who returned from the dead. Their initial stage as a deity was that of a demigod. Moander was an example of a once powerful god who returned from the dead as a demipower. Fourth, there were those deities who shared portfolios inside the same pantheon and were weaker than the strongest member. Garagos was the demigod war deity alongside Tempus, the greater deity of war. Fifth, there were those demigods who simply did not have enough worshipers to have a higher rank. Hoar fell from the rank of a lesser deity because he lost too many worshipers. Sixth, there were freak cases. For example, Garagos and Jergal were greater deities at the time of Netheril but reduced to the level of demipowers, the latter willingly.
+
+Faerûnian Demigods
+Deep Duerra
+Finder Wyvernspur
+Garagos
+Gargauth
+Gwaeron Windstrom
+Haela Brightaxe
+Hoar
+Jergal
+Khalreshaar
+Kiaransalee
+Laogzed
+Lurue
+Nobanion
+Red Knight
+Savras
+Sebek
+Selvetarm
+Sharess
+Shiallia
+Siamorphe
+Ulutiu
+Valkur
+Vaprak
+Velsharoon
+Drasek Riven
+
+Appendix
+
+See Also
+Local god
+
+Notes
+
+References
+
+FR:Demi-dieu
+
+---
+
+## Demilich
+
+Despite the name, a demilich was not a lesser lich, but rather a lich who had evolved beyond a need for its undead body.
+
+Personality
+Great wizards and sorcerers usually became liches in order to continue their pursuit of magic and power beyond death. Demiliches were those who were close to reaching the end of their arcane journey; who understood the nature of magic and reality in a way no mortal could conceive.
+
+Becoming a demilich
+A lich could become a demilich when they no longer needed to be continually tied to a body. The lich must somehow learn the art of creating soul gems and replace eight small pieces of its body with them. Often the soul gems became jeweled eyes and teeth in the lich's skull, but they could also become joints in a hand, or discs in the lich's spine. Once the power of the lich was focused in one part of its body, the rest of its skeleton crumbled away. The part that remained contained the soul gems; the eight gems acted similar to the demilich's phylactery, allowing the demilich to reappear within a tenday after "death" unless all eight gems and the phylactery were destroyed.
+
+Powers
+Demiliches were extraordinarily resistant to the magic of others. They had total spell immunity, with the exceptions of shatter, dispel evil, and holy smite.
+
+Known Demiliches
+ Acererak
+ Alsigard the Maker
+ Gast, who taught at the Dungeon Academy
+ Icelia, a demilich responsible for creating numerous lichlings in Cormyr during the 14 century DR.
+ Kangaxx
+ Rammaq
+ Shoon VII, former emperor of the Shoon Empire, possessing Zallanora Argentresses
+ Wulgreth, the original Netherese wizard
+ Ythazz Buvaar, former Zulkir, and one of the founders of modern Thay
+
+Appendix
+
+See Also
+Death tyrant
+Flameskull
+Appearances
+
+Gallery
+
+External Links
+
+References
+
+Connections
+
+de:Halbleichnam
+
+---
+
+## Deep diviner
+
+Deep diviners were spell practitioners of the Underdark that used the mystical energies of the deep places of the world to accomplish feats of magic. They were particularly impressive because of their use of node magic, which involved manipulating deposits of magic within the Underdark, called earth nodes.
+
+Deep diviners used earth nodes to enhance and refuel their own magic, which focused primarily on communicating with the stone that surrounded them and the Elemental Plane of Earth. They became quite formidable, eventually becoming capable of calling upon earth elementals and becoming one themselves.
+
+Abilities
+A deep diviner could detect the power and direction of earth nodes. However, even the thinnest layer of lead would block this ability.
+
+A deep diviner could ask questions of the pebbles, caves, and stalactites around him or her. The presence of the deep diviner allowed the stone in question to recall events from a limited time in the past. This proved quite useful in investigating recent events.
+
+A deep diviner could transform into a greater earth elemental for a limited amount of time. The deep diviner had all of the abilities of the elemental transformed into.
+
+Appendix
+
+References
+
+---
+
+## Deep Wastes
+
+The Deep Wastes formed a small domain part of the vast Underdark hidden away underneath the surface of the Dalelands and the Moonsea.
+
+Geography
+Stretching from the Earthspur Mountains with few entrances from the surface, a large portion of the Deep Wastes remained unexplored by travelers of the more adventurous type.
+
+Geographical features
+Abyss and rifts
+Lorosfyr
+
+Inhabitants
+The region was sparsely populated due to the collapse of the drow city of Maerimydra which once held Shadowdale as a conquered surface land. Around 1372 DR, the abandoned drow city was in ruins.
+
+Important locations
+Settlements
+Blessed Seahaven
+Brikklext
+Durgg-Gontag
+Kuragolomsh
+Maerimydra
+
+Other locations
+House of Dark Consumption
+Multum
+
+Appendix
+Gallery
+
+References
+
+Sources
+
+---
+
+## Deep Imaskari
+
+Deep Imaskari were a race of humans who were heirs to the lost empire of Imaskar.
+
+History
+Few survived the fall of their great empire when their Mulan slaves, having been abducted from other worlds, and magical monsters, created by Imaskari war wizards, turned against them. Their great empire fell leaving only ruins of their ancient cities. Those few that survived fled deep beneath the surface of Faerûn, shutting themselves off and hiding from their many enemies on the surface world.
+
+Living thousands of years in voluntary exile and under influence of strong magics practiced by their own wizards, the Imaskari turned into a human subrace adapted to life underground. Whilst barriers once held the Imaskari hidden from the outside world, and vice versa the outside world from the Imaskari, these barriers were later breached. By 1372 DR, Imaskari were starting to wander into the wider world, exploring the surroundings of their underground home.
+
+Personality
+Deep Imaskari were guarded and detached, keeping an unconscious watchful eye in all their interactions. Even before fleeing into the deep bowels of the earth, they were fascinated by magics. During their long isolation, they focused on magical experimentation, never shunning risky outcomes or dangerous spell preparations. Regarding their fondness and curiosity for everything magical, the surest way to gain a Deep Imaskari's friendship was by gifting them with magic, either an ancient spell scroll or mysterious artifact.
+
+Description
+Deep Imaskari were humans with pale, smooth skin that was soft despite its stone-like appearance (this unusual characteristic was a remnant of the magical alteration that all the Imaskari underwent to survive in Deep Imaskar). Deep Imaskari were tall and thin, with males typically standing  in height and weighing around . Females are usually about  tall and  in weight.
+
+Deep Imaskari preferred to be well-dressed, with elaborate greatcoats covering simple, but elegant clothing in dark shades. They delighted in dark rings as well, particularly magical ones.
+
+Relations
+
+Preserving their secret realm from the outside world, Deep Imaskari were used to avoiding contact with other races. The Deep Imaskari encountered while exploring outside Deep Imaskar were more excited about meeting other races, although they eyed humans from Unther or Mulhorand suspiciously.
+
+Religion
+In ancient times, Imaskari wizards traditionally didn't allow their people to worship any deity, for no deity was worthy of the worship of the arrogant Imaskari. Later, in Deep Imaskar, religion was more common although the Imaskari kept themselves to the older Faerûnian pantheon by venerating Kossuth, Chauntea, Shar, Mystra, and Grumbar. Still, few Imaskari chose the path of the cleric and few temples existed in their realm.
+
+Language
+Deep Imaskari spoke an ancient tongue known as Roushoum, which used the Imaskari script. This ancient language was spoken nowhere outside Deep Imaskari and few outsiders mastered it. Deep Imaskari studied Common so as to interact with other races more easily. The more adventurous Deep Imaskari venturing outside their own realm usually picked two or three Underdark languages, including the Drow language, Undercommon, and Terran.
+
+Appendix
+See Also
+Buried ones
+
+References
+
+Connections
+
+---
+
+## Desmonda
+
+Desmonda was the mistress of no less than seven different nobles of Zhentil Keep. A noble herself, she was still overtly flirtatious even though she also managed to keep to herself.
+
+When Zhentil Keep was under siege in 1368 DR Desmonda was one of many who fell and whose bodies were never found. Therefore, she was the perfect cover for the Erinyes Eshaeris after she was summoned by the pit fiend Abarax, disguised as Lord Orgauth to help him control the keep.
+
+Together, disguised as lord and consort, they ruled the remains of Zhentil Keep unopposed for nearly 2 years. When 'Orgauth' decided to take a newly converted female paladin under his wing to train as a blackguard, 'Desmonda' became jealous and began whispering to the blackguard, Scyllua Darkhope, many lies about her lord. Desmonda was the one who actually pushed Scyllua over the edge and truly into darkness. She urged the blackguard into slaying their master, which Scyllua duly did, which attracted the attentions of Fzoul Chembryl. Fzoul, who, even though he knew not of Desmonda's true nature, did not trust her and forced her away from his new protégé so that Desmonda could not influence Scyllua further.
+
+Thus, Desmonda lost her position of influence and fell from grace. She now consorts with several Zhentarim merchants and minor clergymen of Bane, looking for ways to get back at Fzoul and once more achieve her lofty political position in Zhentil Keep. Thus far, she has had to keep her plots low-key so as not to draw attention to herself as the mastermind behind them, but she still manages to occasionally cause Fzoul embarrassment and cost him gold.
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Demiplane
+
+Demiplanes were ill-defined planes of unusually small size that lay either within other planes or outside the known planes depending on which cosmological model one used. Demiplanes were typically, if not always, of finite size.
+
+Characteristics
+According to earlier sources, demiplanes were planes still in the formation process, unfinished somehow More modern sources considered the demiplanes to be a catch-all classification for planes of generally measurable size and limited access, sometimes limited sufficiently that not even the ethereal plane or the astral plane were accessible, save from specific spots in other planes. They had great variety of possible conditions within. They were always extradimensional spaces.
+
+Demiplanes could be naturally occurring, but most were created by deities or by wielders of magic, using a spell such as genesis, or by psion shapers with the power of the same name. Zagyg Yragerne of Oerth was notorious for creating demiplanes. Demiplanes that touched upon the Wall of Color in the Ethereal Plane had portals of unique and consistent colorations leading to them.
+
+Position in Cosmic Models
+ In the Great Wheel cosmology, demiplanes were found in the Ethereal plane because they were formed from the swirling proto-matter that made up the Ethereal, though they lacked a set place in the Planes. The Demiplane of Shadow was the best known example.
+ In the World Tree cosmology, there were a few demiplanes that were part of astral dominions such as the demiplane of Sildëyuir.
+ In the World Axis cosmology, demiplanes could exist within other planes or outside of either the parallel planes or the fundamental planes. There were undoubtedly several of them, but most were unknown. Aside from those that lay within the dominions of the gods, the best known was Sigil, also called the City of Doors, which acted as a strange interplanar nexus with hidden doors to every known plane—and many that remained largely unknown.
+
+Known Demiplanes
+Cynosure: The meeting place of the gods, this plane contained only the Pavilion of Cynosure.
+Demiplane of Imprisonment: Where Madryoch was imprisoned.
+Grodd: The prison of Nalavarauthatoryl.
+Hoard: A place hidden beyond Grodd.
+Demiplane of Nightmares: Where the Night Parade became what it was.
+Sildëyuir: The home of the Star elves.
+The Night Realm: A splinter of Sildëyuir where a great evil was imprisoned.
+Stardeep: Another splinter of Sildëyuir, this prison was in fact a demiplane.
+Celestial Nadir: An ancient demiplane created by the Imaskari.
+Manshoon's Demiplane: A demiplane used by Manshoon.
+Silver Safehold: A demiplane created by Khelben Arunsun and the Sword Heralds.
+City of the Dead: This cemetery in Waterdeep began using portals to demiplanes when the land ran out.
+Black Abyss: A hidden realm once used by Martek as a trial.
+Infernal Rapture: A demiplane ruled by a rakshasa named Mahadi.
+World Serpent Inn: An interminable inn and tavern, later confirmed to exist in its own demiplane.
+Tomb Tapper Tomb: An underground vault where tomb tappers placed all the magic they retrieved.
+Myth Lharast: A city taken to a demiplane, which was only accessible when the full moon was directly overhead.
+Cave of the Monkey: The hidden realm of Monkey.
+Halaster's Tower: A hidden realm where Halaster Blackcloak kept a tower.
+Demiplane of Fear: A location in which Dwalimar Omen discarded dangerous artifacts.
+Genasi Refuge: A demiplane created by a well-meaning half-elf, Yrrick, as a homeland for genasi.
+The Greenhouse: A demiplane accessible from Gheldaneth, where the church of Isis nurtured botanical research.
+Wenimats: Where the gods of the Azuposi dwelt.
+Land of One Hundred and Thirteen: A place created by Marek Rymüt.
+Court of Stars: A demiplane ruled by eladrin.
+Pocket Plane: A demiplane used by Gorion's Ward.
+Union: A demiplane that contained an extraplanar trading metropolis.
+
+Demiplanes with a Contested Definition
+Ravenloft was long considered to be a demiplane, but was also counted as being within the Shadowfell.
+In turn, the Plane of Shadow was considered to be a demiplane before it was recategorized as a transitive Plane.
+The demiplane of Time was characterized as such as a catch-all category for extraplanar locations.
+The "demiplane" label was occassionally used for both the Quasi-Elemental Plane of Minerals and the Quasi-Elemental Plane of Lightning.
+Sigil was considered a demiplane in some cosmologies.
+Hidden Realm was either in the Outlands or in a demiplane, depending on the cosmology.
+Matet was considered a demiplane as well as a seagoing vessel.
+
+Nameless and Rumoured Demiplanes
+The Fraternity of Order had several demiplanes that were used to store the bulk of their court records. These could be accessed from hidden portals within the Fraternity's headquarters, the City Court, though only members of at least factol level had clearance.
+Halaster Blackcloak kept another, smaller demiplane in the bowels of Undermountain.
+Kaldrav used an old demiplane as a hideout and stash for the bandits of the Iron Wind.
+Mezro was taken to a demiplane during the Spellplague.
+Yûlash had ancient gates, some of which led to demiplanes.
+The seelie and the unseelie may have dwelt in demiplane palaces.
+Tempera may have been banished to a demiplane, per some rumors.
+Sharn were, according to certain obscure lore, extrusions from a demiplane.
+Sysquemalyn had created an extradimensional realm mimicking the Nine Hells with her sorcery.
+
+Appendix
+
+See Also
+ Safehold
+ Tshaddarna
+References
+
+---
+
+## Desther Indelayne
+
+Desther Indelayne was a cleric in the service of Maugrim in 1372 DR.
+
+Relationships
+Despite his true affiliations, Desther Indelayne was a vocal critic of Lady Aribeth de Tylmarande, questioning her competency and faith, something that proved to be true, with time, leading to Aribeth's fall from grace.
+
+History
+When the Wailing Death broke out in Neverwinter in the, Desther was the leader of a contingent of Morag cultists sent to infiltrate the city by posing as Helmite clerics. Under the guise of aiding the city, Desther and his followers were actually spreading the plague.
+
+When the Hero of Neverwinter engineered a cure for the Wailing Death, Desther stole the potion and escaped to Helm's Hold. The Hero tracked Desther down and captured him. He was executed for his crimes alongside Fenthick Moss, his unwitting accomplice.
+
+Appendix
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Delimbiyr Vale
+
+The Delimbiyr Vale, also known as the Shining Valley, was an area in the North, encompassing the western, upper reaches of the Delimbiyr River. The vale was a nigh-endless stretch of sweeping valley that attracted travelers and settlers who could brave life in the Savage Frontier. However, parts of it were forsaken, filled with falling ruins, monsters, and ancient secrets.
+
+Geography
+The Vale was bound on the north by the Nether Mountains and to the south by the South Wood. Its western edge was the High Forest but no part of the High Forest was considered a part of the Vale. Despite this, the High Forest in the south ran almost to the banks of the Delimbiyr, narrowing the Vale considerably.
+
+Two areas of the Delimbiyr Vale were often referred to as Upvale and Gray Vale by the locals. Upvale was an area of open grasslands in the northern Delimbiyr Vale between Tall Trees and the Far Forest. Gray Vale was in the southwest and consisted of the area of grasslands through which the rivers Greyflow and Loagrann flowed.
+
+The lower Delimbiyr had floodplains, situated around Daggerford.
+
+Geographic Features
+Bodies of Water
+ Delimbiyr River: The great river ran all the way through the valley before emptying into the Lizard Marsh.
+ Loagrann: This river flowed through a part of the Greypeaks, at the landmark of Deadstone Cleft.
+
+Forests
+ Far Forest: This grove formed the northern point of the Triangle of Trees.
+ Laughing Hollow: Seldom visited by men, this fey-inhabited forest was home to the wild elf known as the King of the Woods.
+ Misty Forest
+ South Wood: The aptly named southern point of the Triangle of Trees was home to a Zhentarim stronghold.
+
+Mountains
+ Greypeak Mountains: The rocky mountains in the eastern region of the Vale earned their name from the stone giants that dwelled amongst their peaks.
+ Dawn Pass: One of the few passes that cut through the Greypeak Mountains, the Dawn Pass was the only route that could accommodate wagons.
+ Seshrentor: This tower in the Greypeaks was once home to a powerful lich.
+
+Regions
+ Gray Vale: The fertile, southeastern stretch of the valley passed between Loudwater and the Dawn Pass Trail.
+ Fallen Lands: Located in the eastern region of the vale, this area held a number of old ruins and magical anomalies.
+ Upvale: The northern stretch of the valley separated the Tall Trees of the High Forest from the Far Forest to the east.
+
+Wetlands
+ Lonely Moor: This solitary scrub land was located near the Anauroch Desert.
+ Lizard Marsh: Before the Delimbiyr River opened into the Trackless Sea, it formed this network of streams, waterways and swampland.
+
+History
+The ancient elven realm of Eaerlann once held much of the upper Delimbiyr Vale, with its western border lying  west of the River Delimbiyr. They established a great fortress at the head of the valley; called Ascalhorn, it became Hellgate Keep.
+
+The Barony of Steeping Falls was formed on the northern back of the Delimbiyr River, in the, by the vampire Artor Morlin. It stood for almost three centuries before dissolving.
+
+A half-century later, in the, the kingdom of Athalantar was founded by the Stag King, Uthgrael Aumar. The king and his son both oversaw the realm for some time, before it was taken over by the powerful magelords. The Kingdom of the Stag was freed from their unjust rule by the Chosen of Mystra Elminster Aumar and saw prosperity for over a century. Unfortunately, Athalantar was wiped out by a horde of marauding orcs in the .
+
+For hundreds of years, the demonic forces of Hellgate Keep controlled a stretch of the Delimbiyr Vale, but the fall of that ancient citadel in the  put an end to its authority in the region.
+
+In the Year of Wild Magic, 1372 DR, a shocking incident known as the Fendrell Massacre took place in the Delimbiyr Vale, some time before Shieldmeet. Nothing whatsoever is known about this incident, however numerous speculations existed about its gruesome nature.Eric Menge & Stephen Radney-MacFarland (2003-07-17). What is the Green Regent. Legacy of the Green Regent. Wizards of the Coast. Archived from the original on 2016-11-01. Retrieved on 2021-09-03.
+
+Notable Locations
+Landmarks
+ Dungeon of the Hark: A group of wererat bandits launched their raids from this underground domain.
+ Halls of the Hammer: The whereabouts of the dwarves that dwelled within this hold was unknown to the locals.
+ Hammer Hall: Since abandoned, this lone cabin was the home to a group of adventurers.
+ The Nighthunt: Favored by adventurers, this tavern was located about a day's ride east of Loudwater.
+ The Mosque of Tyr: A temple-stronghold dedicated to the Maimed God. It was run by the elven priest, Elorshin Floshin.
+ The Smiling Satyr: This charming tavern was located about eight farms southwest of Loudwater.
+
+Settlements
+ Daggerford: The walled city of the vale was built around a keep that sat atop a small hill overlooking the coast.
+ Julkoun: Surrounded by a moat and wooden palisade, this small village was well-protected from nearby bandits.
+ Llorkh: Founded by dwarves and men, this mining town was taken over by the Zhentarim for a time, before being completely abandoned.
+ Loudwater: A town by the river.
+ Orlbar: This small farming village was located at the junction of Loagrann and Greyflow rivers. It was once controlled by the Zhentarim, but was abandoned when attacked by stone giants in the 1480s DR.
+ Secomber: The folk of this town lived well off the land but had to defend against monstrous creatures such as hobgoblins.
+ Ammarindar: An ancient shield dwarf kingdom that existed below the upper Delimbiyr Vale.
+
+Inhabitants
+In the mid-to-late 1300s DR, lightfoot halflings had settlements along the banks of the lower Delimbiyr, with the greatest concentration around Secomber. Tieflings, the progeny of the demons of Hellgate Keep, were found the upper Delimbiyr Vale.
+
+However, circa 1372 DR, few seemed to be interested in founding a settlement in the region of the vale near the Silver Marches as it was a desolate region.
+
+In the late 15 century DR, many settlers of the North were attracted to the lands of the Delimbiyr Vale.
+
+Beyond the civilized folk, the vale was home to monsters and monstrous humanoids, such as hobgoblins and bugbears. Travel through Gray Vale was often dangerous due to bugbear raids.
+
+In the Underdark caverns beneath this wild land dwelt a demonic general known as Kaanyr Vhok, the Sceptered One, who had amassed an army of tanarukks and fiendish beasts.
+
+Appendix
+Appearances
+Adventures
+ Legacy of the Green Regent
+ Ghosts of Dragonspear Castle
+ Scourge of the Sword Coast
+ Princes of the Apocalypse
+ Storm King's Thunder
+
+Video Games
+ Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Deadsnows
+
+Deadsnows was a large village located on the northern edge of the Nether Mountains in the Old Delzoun region of Luruar. It experienced a great boon, with throngs of visitors and travelers thanks to a gold rush, until the 1385 DR when it was destroyed in the Spellplague. By the late 1480s or early 1490s DR, the town was active again, but lacked leadership.
+
+Before its destruction, Deadsnows was the smallest member of the confederacy of the Silver Marches and would not have normally been accepted as a signatory unless as a vassal to a larger city. Due to the request of Lady Arletha Icespear it was allowed to join and garner the league's protection, though without a seat on the council.
+
+Description
+Deadsnows had a fairly ordinary layout; its 200 or so wooden buildings were encircled by a stone wall, that was in need of some repairs.
+
+Inhabitants
+Although the town often seemed to be bursting at the seems with travelers looking to find fortune, it was fairly well-regulated by Lady Icespear. The chaos, which often included disorderly conduct or public drunkenness, was kept to a minimum by the local militia, led by the Captain of the Watch, Mannock.
+
+Geography
+Deadsnows was nestled in the eponymous Deadsnows Vale, on the northern side of the Raurin mountains in Old Delzoun. The village was connected via a trail to the Fork Road, just south of the Ironhand Mines.
+
+Just west of the town was the Icespear Stream and beyond them, to the northwest, were the upland pastures an area of the valleys walls used to herd livestock. This pastoral display was shadowed by rocky crags of the Nether Mountains south of the town.
+
+Notable locations
+Landmarks
+Hospice of Marthammor
+ A sanctuary for travelers just run by dwarves who venerated Marthammor Duin.
+
+Icespear House
+ Home to the Icespear family for generations, this stone and wood mansion served as the hub through which Lady Icespear conducted her diplomatic business with outsiders. It was protected by the Lady's Guard, a group of hired soldiers led by Catain Rivha Stormevik.
+
+Snowtown
+This seasonal collective of merchants, miners, prospectors and travelers would spring up outside the northwestern walls of Deadsnows during the warmer months of the year.
+
+Upland pastures
+ The elevated grasslands of the valley were used by the town's herders and shepherds to raise livestock such as sheep and goats. In 1372 the pastures were preyed up by a pair of wyverns.
+
+Inns and taverns
+ Blazon
+An overpriced tavern owned by the shrewd businessman Lonnor. It was mostly patroned by town locals who sought refuge from the crowds brought in by the gold rush.
+
+ Vandarhouse
+ Located in northern part of Snowtown, this simple barn was run by an inn by itshalf-orc proprietress, Vandar. It's "tavern" consisted of a tent from which the cheapest ale was dispensed.
+
+ Rose and Hammer
+ The only actual inn within the walls of the village. It had twelve private rooms and a common dormitory that could house twenty. It was run by a woman named Rose and her husband Hedrick "Hammer" Torlund.
+
+Shops
+Haskar's shop
+ An outfitter's shop, run by Haskar Riverside, that catered to hunters, lumberers and of course the throngs of prospectors and miners that came to Deadsnows en masse to find their fortune.
+
+Morwenna's shop
+ This local apothecary was was passed down to the herbalist Morwenna Dresdtinn by her father some time before the Time of Troubles. Morwenna was skilled at her craft and provided a variety of herbal cures, as well as potions, for her patrons.
+
+Temples
+ The Morning Watchtower
+ A converted watchtower that became a temple of Lathander, led by Morninglord, Ashar the Humble.
+
+History
+Originally a keep for a human lord who desired his own kingdom, his dream was shattered before it had ever really started. He died in the Battle of Deadsnows, a minor skirmish with some of the countless orc raiders that continually plagued his designs. Two religious groups, the dwarves of Marthammor Duin and human worshipers of Lathander, eventually settled here, building impressive temples to each of their respective deities.
+
+In Eleint, 1372 DR, during the winter melt a hunter was filling his waterskin at a swollen river 3 miles (4.8 km) from the village when he noticed the water contained tiny golden flecks. He returned and began to prospect, discovering to his joy that there was indeed gold to be found. Word spread around the village and beyond. Within a couple of months, 300 dwarves, elves, humans and halflings had flocked to the village, looking to mine the gold themselves or hawk their wares to said miners. A few also arrived for more nefarious ends, to sell illegal items or to steal.
+
+This sudden influx of people taxed the village to it's limit and it looked like this would continue until the gold ran out. A large grouping of makeshift camps, ramshackle buildings and tents would appear during the warm months of the next few years. This shantytown came to be called Snowntown as it was expected to cease in autumn when the first snows would fall.
+
+Post-Spellplague
+In 1385 DR, the Spellplague destroyed the buildings and fields of the village, forcing the survivors to flee. Only the shell and foundation of the Icespear House and the ruins of The Rose and Hammer remained as evidence of the town that was.
+
+Deadsnows still drew visitors however - rumors abounded in Sundabar that a powerful group of adventurers who had settled in the town, the Brotherhood of the Moon, were unable to retrieve the majority of their collected treasure when the Spellplague struck. Treasure hunters scoured the area for hidden caches for decades afterwards.
+
+In the 15 century DR, an orc bandit named Histarack discovered the Brotherhood's treasures. He then spread rumors that a new pocket of active blue fire had erupted in the area to keep the scavengers away. However, the story only served to garner the attention of the Order of Blue Fire who sent envoys to investigate the town's ruins and reveal the hoax for what it was.
+
+By the late 1480s or 1490s DR the town had been revived and repopulated.
+
+During the War of the Silver Marches, Lord Delvon Icespear was killed without an heir, leaving the town leaderless for some time.
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Death domain
+
+The Death domain was a deity domain that granted divine spellcasters like clerics with death-related spells and powers.
+
+Deities
+
+Powers
+Prior to the Spellplague, they gained the ability to kill a target instantly once per day, though the odds of success depend on both the strength of the cleric and the target.
+
+Spells
+Prior to the Spellplague, novice spellcasters were able to use the cause fear, death knell, and animate dead spells. Clerics of some experience could cast death ward, slay living, and create undead. Those that were masters of this domain had access to destruction, create greater undead, and wail of the banshee.
+
+After the Second Sundering, clerics who chose this domain were granted free access to the following spells (they could cast them at any time without having to prepare them in advance). Novice spellcasters were able to use the false life, ray of sickness, blindness/deafness, ray of enfeeblement, animate dead, and vampiric touch spells. Powerful clerics could cast blight, death ward and antilife shell, cloudkill. In addition, Death domain clerics gained access to touch of death.
+
+Appendix
+
+Appearances
+Video Games
+Baldur's Gate III
+References
+
+Connections
+
+---
+
+## Debbi
+
+The debbi was a mammal native to the warm deserts of Zakhara.
+
+Description
+This  creature resembled a hybrid of a baboon and a hyena. Debbie were agile like monkeys, strong like hyenas, and their small hands allowed them to use simple items.
+
+Combat
+The beast was highly effective with its fists, bite, and bolts of golden lightning, but it could intimidate its foes into fleeing by stamping its thunderous feet, and using magic to make its fur crackle and spark. If the magic did not work, and the debbi saw that its opponent was stronger, then it escaped and tried to hide. Debbi also had an immunity to all kinds of magical fear.
+
+Debbi often climbed trees and threw missiles at their enemies. They could swing a crude club when at close range. Although debbi were rather weak when found alone, their ability to intimidate made them formidable opponents. These horrible and selfish creatures did not show  mercy.
+
+Habitat/Society
+All other desert creatures despised debbi for their cowardice and selfishness. Debbi lived in packs, and the pack members even despised each other, but still they often united their efforts to confront a common enemy. In a pack, debbi had a strict hierarchy, with strong always oppressing the weak and the young often beaten by elders.
+
+Ecology
+The debbi was a strange, mystery-shrouded, desert-scavenging creature. When people tried to study it, or even approach it, it attacked and then ran off.
+
+Appendix
+Appearances
+Video Games
+Al-Qadim: The Genie's Curse
+References
+
+---
+
+## Demihuman
+
+"Demihuman" was a collective name for races that were not human but had a similar appearance. Among them were peoples of the dwarves, elves (including drow), halflings, and gnomes. Half-elfs and half-orcs held a special position, as they were indeed half human.
+
+Appendix
+See Also
+ Humanoid
+ Goblinoid
+
+References
+
+de:Halbmenschen
+
+---
+
+## Delthrin Everet
+
+Delthrin Everet, also known as Delthrin the Deadmaster was a human man of the city of Marsember in Cormyr. He was a necromancer and local hero.
+
+History
+Delthrin Everet was the last remaining member of noble House Everet of Cormyr.
+
+Delthrin was formerly little known among mages, until he came to Marsember's aid and animated an army of undead to help defend the city against a pirate attack. He raised lacedons, skeletons, sea zombies, ju-ju zombies, and bone sharks, who boarded an impressive six pirate vessels and tore both their crews and the ships themselves apart.
+
+Though notorious for the deed, Delthrin gained great respect, fame, and popularity. However, uncomfortable with this attention, he became a recluse by 1358 DR. He devoted himself instead to his continuing necromantic experiments with drowned undead. His dwelling was supposedly guarded by many of his undead creations.
+
+By 1369 DR, one of Delthrin's rumored creations was an aquatic undead like a giant predatory shark. It was a monstrosity fashioned from the body parts of many different dead creatures, with multiple jawed heads, claws, and a massive set of main jaws.
+
+Appendix
+Appearances
+Adventures
+Dungeon #113, "Practical Magic"
+Board Games
+Dungeon Command: Curse of Undeath
+
+References
+
+---
+
+## Delamartina Illance
+
+Delamartina Illance was a member of the Illance noble family of Cormyr.
+
+She was very beautiful and rumored to have had four royal bastards, whom Vangerdahast found homes for.
+
+She was the grandmother of Martin Illance, who was named for her.
+
+Appendix
+
+References
+
+---
+
+## Delzoun
+
+Delzoun, also known as the Northkingdom, was a great dwarven nation of the North during the Age of the Proud People, reigning over the north for almost 4,000 years, from  to .
+
+Geography
+At the height of their influence and strength, the kingdom extended from the Ice Mountains south to the River Rauvin and Nether Mountains.
+
+Society
+The name survives as a middle name among modern day dwarves, one bearing much prestige.
+
+Culture
+The Dirge of Delzoun was an epic dwarven ballad that recounted tales of the kingdom's mightiest heroes and greatest treasures.
+
+Trade
+Like their kin from Ammarindar to the south in the Greypeak Mountains, the dwarves of Delzoun were masterful smiths and stone masons.
+
+Much of the Delzoun wealth was gained by trading with the Netherese humans, though they were also known trading allies of the elven realms of Illefarn and Eaerlann. They notably created the Fardrimm, a series of underground roads spanning the breadth of their empire and beyond into other areas of the North. The most famous of these underground roads was the Lowroad, which linked the Delzoun lands with Netheril. Dwarves of Delzoun would often trade gems, ironworks and weapons for gold and arcane secrets from the magocratic empire.
+
+Notable locations
+Landmarks
+Fardrimm:
+Lowroad:
+
+Settlements
+Ascore: This bustling port city, found on the shores of the Narrow Sea, prospered during the years when Delzoun trafficked goods to and from ancient Netheril.
+Citadel Adbar: The heroically resolute fortress survived for centuries after the fall of Delzoun, and joined the nation of Luruar for some time, before closing their borders to outsiders in the late 15 century DR.
+Citadel Felbarr: The capital fortress of Delzoun endured the orc invasions that claimed the realms of the Northdark, but was eventually taken, and held for some time by the clan led by King Obould I Many-Arrows. It was however taken back by King Emerus Warcrown.
+Citadel Sundbarr: Built over the great volcanic chasm known as the everfire, this dwarfhold survived Delzoun's collapse by virtue of the colossal defenses forged from the primeval flame. It would go on to serve as the embodiment of the unity shared between the dwarves and heart humans of the North.
+Ghaurin's Hold: This millennia-old stone keep manor was the ancestral home of the Stoneheart clan, and served as a monument to their storied history.
+
+History
+The kingdom was founded by a dwarf of the same name.
+
+The dwarves completed construction of Citadel Felbarr in .
+
+The Illuskan Maerin commissioned a number of Delzoun artisans, including Immar Fardelver, to construct Gauntlgrym in .
+
+Citadel Sundbarr and Ascalhorn accepted human refugees from the recently fallen Netheril in . In the same year, the dwarves began to slowly abandon Ascore.
+
+In the Year of Terrible Anger, -111 DR, the Delzoun fell prey to the same orc assaults that devastated other kingdoms of the North, though the kingdom endured for few more years. Finally, in, Delzoun fell to the phaerimms and other dangers. Surface settlements including Citadel Adbar, Citadel Felbarr, Mithral Hall, and Sundabar survived the fall but the underground settlements of the Northdark were not so fortunate.
+
+Appendix
+
+Appearances
+Video Games
+
+Baldur's Gate • Descent to Undermountain
+References
+
+FR:Delzoun
+Connections
+
+---
+
+## Dead Orc Pass
+
+Dead Orc Pass was a narrow pass in the Rauvin Mountains in the Silver Marches. It was one of the few ways through the mountains that were traversable by traders and others travelers.
+
+Geography
+Dead Orc Pass was a narrow cleft between two mountains on the west (Mount Jaws and Mount Gaeram) and two mountains on the east (Faerang's Doom and Mount Tolzrin). The pass connected Adbar Run (north) to Sundabar Vale (south)..
+
+Below (south of) the pass, the River Rauvin appeared to begin as a series of waterfalls at Rainbow Gorge (although in fact the river began much further north and traveled beneath the mountains). Within the mountains were the Rauvinheart caverns, which stretched for miles on either side of the pass. These caverns were connected to the surface at various points along the pass.
+
+Description
+The highest part of the pass was located in the middle of the pass, where the desolate ground came together in a "saddle." In the middle of the pass was a small, steep-sided lake called the "Black Pool" (60 feet by 30 feet, 30 feet deep) that was contaminated by blinding sickness and contained the remains of many of the orcs' victims. Not far from the lake was the "Fang of Skulls," a sharp rock pinnacle where orcs often displayed their victims' skulls.
+
+History
+The pass was named by a human who saw the aftermath of a great battle between the Heart Takers and the Tornskulls orc tribes.
+
+In the, Drizzt Do'Urden first fled the Underdark into Dead Orc Pass.
+
+Politics
+The Tornskull orc tribe claimed the pass as their territory. However, as their home was many miles to the west, they did not spend much time patrolling the pass, especially in the winter and summer.
+
+Trade
+Although the pass was a straight shot between Citadel Adbar and Sundabar, most traders avoided this route because of the high number of orcs and opted for traveling through the Cold Vale north of the Rauvin Mountains instead. The pass was open year-round because of the geothermal heat of Rainbow Gorge.
+
+Notable Locations
+ Fang of Skulls: This fang-shaped tor was adorned with the skulls of those slain by the Tornskull orcs.
+
+Appendix
+Behind the Scenes
+Dead Orc Pass was the very first Forgotten Realms location mentioned by name, in Ed Greenwood's article "From the City of Brass to Dead Orc Pass" in May 1980's The Dragon 37.
+
+Appearances
+Novels
+Sojourn
+
+References
+
+de:Toter Ork Pass
+
+---
+
+## Delimbiyran
+
+The human kingdom of Delimbiyran was formed after the rest of Elembar was wiped out by a horde of orcs in the . It became the human part of the triumvirate when it joined to form Phalorm, the Realm of Three Crowns, in the . Phalorm survived for less than a century. Indeed, their elven peers from Ardeep grew sick of war and eventually left Phalorm to travel to Evermeet. The severely depopulated dwarven allies also retreated from the area, effectively putting an end to the realm in the . The humans allowed any of the gnomes and halflings of Phalorm who wanted to stay in the alliance to do so as long as they swore fealty to king Javilarhh II, who founded the Kingdom of Man, officially called Delimbiyran after its capital city. This new realm was to encompass all the land that belonged to Phalorm.
+
+Phalorm had been constantly beset by the orcs of the surrounding areas and so Delimbiyran spent the next fifty five years building defensive castles and sending out constant raids into the Sword Mountains and southern High Moor where the orcs lived. This period became known as the "Endless Battle".
+
+In the, Sharran clergy up and down the entire Sword Coast rioted after their high priestess foolishly killed the entire senior clergy of the church in the region in an effort to turn herself into a lich. The current king, King Davyd, ordered his troops to clamp down on the violence which in turn, inspired a fanatic to martyr himself by assassinating him. Davyd died without an heir and the nobles began to squabble, which eventually turned into a civil war. The kingdom collapsed into petty kingdoms of proud nobles, such as Calandor, Loravatha, and Scathril. This marked the end of the Kingdom of Man.
+
+The next year, the, orc raiders from the High Forest swept down and quickly overran the splinter kingdoms. That same year, the human's gnomish allies in Dolblunde abandoned their city after it was attacked by worshipers of Urdlen. The Duke of Calandor (secretly backed by the Covenant) united the remaining duchies to repel the orcs in the .
+
+Appendix
+References
+
+---
+
+## Deathbringer
+
+The Deathbringers were an elite group of warriors and assassins of Bhaal trained in the art of melee.
+
+Appendix
+
+Notes
+ Deathbringers are a special group of warriors trained in the art of intimidation and war. They can scare their enemies into paralyzation by locking eye contact, as well as destroy in a single blow. In Baldur's Gate II: Throne of Bhaal, Sarevok's biography explains that he was trained in the ways of the deathbringer, and as a random event, kill enemies in one hit. They are also a group of scattered cultists that are still trying to revive Bhaal, even though his essence is locked up in the Upper Planes.
+
+References
+
+External links
+
+---
+
+## Delg Ironstar
+
+Delg Ironstar, also called Delg Hammerhand, was a dwarf warrior and adventurer and part of the Company of the Bright Spear in the mid–14 century DR. He was also a member of the Harpers and one of the last members of the legendary noble clan of dwarves, Clan Ironstar.
+
+Abilities
+He used a battle axe. He called upon Clangeddin Silverbeard by singing a heroic, dwarven chant, which granted him additional, but unknown powers and skills in combat. When he did so, his axe and the warhammer he wielded off-hand began to glow.
+
+Relations
+Formerly of the Company of the Bright Spear, Delg was an adventuring companion of Shandril Shessair and Narm Tamaraith.
+
+History
+He was one of the few survivors of the Company of the Bright Spear after they left The Rising Moon inn in Deepingdale and were ambushed by the Cult of the Dragon in the . Delg joined Shandril and Narm on their journey out of the Dalelands and into Cormyr.
+
+He was later killed by a gargoyle in the Stonelands. The creature lifted him up in the air, but was killed by Delg shortly after. Delg crashed to the ground, was impaled on a rock, and died.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Death Moon Orb
+
+The Death Moon Orb was a magical artifact of domination. Originally created by the Netherese lich-king Larloch to control his court, it was famously employed by Szass Tam, Zulkir of Necromancy, to gain power over Thay and attempt to enslave the demon prince Eltab. It had the power to charm and dominate the minds of others, to spy on faraway points, to raise the dead, and to summon and compel fiends, but had a corrupting influence.
+
+Description
+The Orb was a gleaming and glassy sphere, colored black and violet. The colors swam uneasily together, so the surface shifted and shimmered like oil on water. The Death Moon Orb seemed to absorb light around, and to carry an aura of gloom and melancholy. If one gazed into the orb for long, then they could see a negative image of Selûne, the moon above, faintly glimmering on its surface.
+
+For reasons unknown, it changed size at irregular intervals, from the size of an apple or something that could fill a human man's hand, to the size of a man's head, though its size did not affect its power.
+
+Powers
+The Death Moon Orb had the power to invade and control almost any mind. Its possessor could invoke its powers to cast charm person five times a day and mass charm once a day, which both made target creatures trust and befriend the caster, and domination thrice a day, which forced victims to obey and follow the will of the one who possessed the Orb.
+
+The Orb could also be used to summon fiends. The possessor could summon one baatezu, tanar'ri, or yugoloth at a time and compel them to perform one specific task. Upon completion of the task, the fiend was free to return to its plane of origin, if it was able. However, this power taxed the orb: if one summoned a lowly fiend, then the Orb could not be used to summon another for a tenday. Summoning a fiend of middling power meant it could not be so used for a month. Tasking the mightiest fiends saw the Orb's summoning power spent for a whole year.
+
+Its necromantic powers also allowed one to animate dead three times a day.
+
+Finally, it also functioned as a crystal ball, with the powers of ESP and clairaudience. This power was always available.
+
+However, the Death Moon Orb predictably bore a subtle curse. It drove the user to perform increasingly evil acts, and if one used it too long or too often, then they would be turned to chaos and evil, becoming monstrously cruel and wicked. Most such folk would inevitably be slain, unless they were already evil beings who survived in undeath, like Larloch and Szass Tam.
+
+History
+
+The Death Moon Orb was created by Larloch, the Sorcerer-King of the enclave of Jiksidur in Netheril. This powerful artifact allowed him to charm and mentally control the members of his court, to spy on his enemies and learn their plans, and to summon powerful fiends from the Outer Planes. It did so successfully, and Larloch ruled for many years, gaining great power.
+
+In the Year of Sundered Webs, −339 DR, a contingency spell warned Larloch that Jiksidur was facing impending doom, and he fled the city riding a dragon, presumably rescuing treasures like the Death Moon Orb before he left. Very soon after, Netheril suffered Karsus's Folly, all magic failed, and Jiksidur fell from the sky to crash, utterly destroyed. Thus Larloch survived the fall of Netheril, as one of its last arcanist-kings, and the Orb as one of the few extant Netherese artifacts.
+
+Some months later, Larloch discovered the ruins of Orbedal, another Netherese enclave. He claimed the city as his own and constructed himself a crypt out of its broken towers, Larloch's Crypt. After many years, he discovered its surviving ruler, Rhaugilath the Ageless. Larloch bound Rhaugilath to serve him. He became the first of Larloch's lich servitors.
+
+Szass Tam, the Zulkir of Necromancy of Thay, visited Warlock's Crypt, as it was now known, around 1366 DR. What transpired was unknown to the outside world; the two came to some deal or alliance, the details of which were again unknown to outsiders. Larloch gave Szass the Death Moon Orb and several other powerful magic items and artifacts, including Thakorsil's Seat, and a number of hooded companions, to aid him in his plots to control Thay and the demon Eltab.
+
+He used the Orb to great extent in his war against the other zulkirs, gaining full control over Thay. He then embarked on his scheme to bind the demon lord Eltab. Centuries before, Eltab had aided the Thayans in shaking off Mulhorandi rule, but was subsequently imprisoned beneath the capital, Eltabbar. Szass Tam had realized that the demon lord would soon break free, and decided to instead hasten his escape and then fully enslave the fiend. In the Year of the Shield, 1367 DR, Szass Tam used the Orb'''s power to first free Eltab—which triggered a major earthquake in Eltabbar—then compel him to sit in Thakorsil's Seat, which immediately imprisoned him again. He then began the terrible task of performing the ritual of twin burnings and inscribing the runes of chaos upon the Seat to make Eltab his eternal slave. During this time, the Death Moon Orb hovered in place over Eltab in Thakorsil's Seat in the Chambers of Twin Burnings.
+
+Nathor, a Thayan civil servant, bore witness to much of Szass Tam's wicked deeds, and once held the Death Moon Orb in trembling hands. Nathor later fled to Aglarond in horror.
+
+However, before Szass Tam could inscribe the ninth and last rune of chaos, a band of mighty adventurers got into the Chambers and foiled his scheme. Amidst a terrific explosion, the Death Moon Orb swirled black and purple, flickered with red and green flashes, then vanished. It was lost, thought to have teleported to anywhere in Faerûn. Some feared it would be recovered by another powerful archmage, who would put its powers to their own evil purposes.
+
+However, the Orb eventually found itself back in the possession of Szass Tam by 1372 DR.
+
+The Orb finally combusted in Szass Tam's hands at the moment Mystra, the Lady of Spells, was murdered by Cyric, Prince of Lies, in the Year of Blue Fire, 1385 DR.
+
+Destruction
+Several possible methods were proposed for destroying the Death Moon Orb. Firstly, it could be devoured by a great feyr or a tarrasque. Secondly, it could be taken to Arborea or another outer plane of goodness and there be obliterated by one of the deities that resided there. Thirdly, it could be annihilated with elven high magic, such as that commanded by the high mages of Evermeet. However, it was ultimately destroyed upon the demise of Mystra, the goddess of magic.
+
+Lore
+In the library of the Chambers of Twin Burnings, Szass Tam owned historical texts that covered the Death Moon Orb''.
+
+References
+
+---
+
 ## Deva
 
 A deva  was a kind of angel, or aasimon. There were three orders of devas: astral devas, monadic devas, and movanic devas, though devas of no particular order were known after the Second Sundering of 1487 DR.While 1-, 2-, and 3-edition sources presented three subtypes of deva, the 5-edition Monster Manual presents just a simple "deva", resembling the movanic deva, that combines a few traits of the previous three. Moreover, the astral deva Lumalia in Dead in Thay was changed to simply a deva in Tales from the Yawning Portal, with the same statistics as the one in the Monster Manual, greatly simplified from those in earlier editions. It's unclear if this represents a generic deva or summary of deva lore, or if the three orders have been somehow merged or erased in the century since 3 edition (4 edition deva being very different), or if a later source will restore this detail. The 5-edition lore is included in this article.
@@ -1177,6 +3267,506 @@ External Links
 References
 
 Connections
+
+---
+
+## Delhumide
+
+Delhumide was a city in the tharch of the same name, located in northeastern Thay.
+
+ History
+When Thay had been a Mulhorandi colony, around 1000 years before Dale Reckoning, Delhumide was one of its greatest cities and bastions of power. When the Red Wizards rebelled, they destroyed the town, using the darkest sort of sorcery to accomplish their task.
+
+In 1375 DR, the ground where the city's ruins still stood was still unclean. Demons walked there and a man could suffer from madness or leprosy just by venturing there. Shattered battlements and toppled towers could be seen though many of the buildings remained essentially intact.
+
+Appendix
+
+Appearances
+Novels
+The Crimson Gold
+References
+
+FR:Delhumide (forteresse)
+
+---
+
+## Detect secret doors
+
+Detect secret doors is a divination spell that reveals hidden doors within 60 feet of the caster.
+
+Effect
+When cast, this spell allows the caster to detect secret doors, compartments, caches, and so forth. Only passages, doors, or openings that have been specifically constructed to escape detection are detected by this spell - an ordinary trapdoor underneath a pile of creates will not be detected.
+
+The amount of information revealed by this spell depends on how long the caster studies a particular area or object. Upon casting the spell, the caster becomes aware of the presence or absence of secret doors. Slowly, the spell reveals the number of secret doors and the location of each. If an aura is outside the caster's line of sight, then they can discern its direction but not its exact location. If the caster continues to take in the area, the spell begins to reveal mechanisms or triggers for one particular secret portal when closely examined by the caster.
+
+The spell can penetrate barriers, but a foot of stone, an inch of common metal, a thin sheet of lead, or three feet of wood or dirt blocks it.
+Appendix
+Appearances
+
+References
+
+---
+
+## Demand
+
+Demand was an enchantment spell that functioned in the same manner as sending, with the addition of the ability to send suggestions.
+
+History
+The spell was attributed to the Netherese arcanist Toscudlo in  and was originally called Toscudlo's dominate.
+
+Appendix
+References
+
+---
+
+## Death knell
+
+Death knell was a necromancy spell that finished off a dying subject and sapped its energy to strengthen the caster.
+
+Effect
+After casting this spell and touching a critically wounded living creature who was close to death, the caster absorbed their dwindling life energy and added it to their own. The caster had a chance of killing the creature and if it died the caster became temporarily stronger and more powerful.  The duration of the spell lasted from a few minutes to several hours depending on the power of the target.
+
+Components
+It required only verbal and somatic components.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Destruction
+
+Destruction was a necromancy spell that could kill a creature and obliterate its body. Earlier versions of this spell were the resurrection spell cast in reverse, which turned a creature to dust.
+
+Effects
+The older versions of this spell required the caster to successfully touch the victim in order to turn them to dust. The newer version had a range of about 50 to 100 ft (15 to 30 m) or more, depending on the level of the caster. Unless they were able to overcome the magic of this spell, the target of this spell was killed instantly and their body was consumed, leaving nothing behind but their clothes, equipment, and possessions. Even if they were fortitudinous enough to resist, they were subjected to a large amount of damage which could also prove fatal.
+
+Creatures obliterated by this spell could only be recovered by a true resurrection, a miracle, or a thoughtfully worded wish followed by a resurrection.
+
+When cast in reverse, resurrection could return a creature to life and full vigorous health as long as there was at least a piece of the deceased that was part of the body at the time of death.
+
+Components
+In addition to verbal and somatic components, the newer version of this spell required the use of a special holy or unholy symbol made of silver and bearing verses of consecration or extermination, costing at least 500 gp. The older versions only required unholy water for the material component.
+
+Appendix
+See Also
+ Resurrection
+ True resurrection
+ Wish
+ Miracle
+ Finger of Death
+ Spirit annihilation
+
+References
+
+---
+
+## Death ward (spell)
+
+Death ward was a necromancy spell that granted immunity to death spells and effects or simply prevented death.
+
+Effects
+The older version made the subject immune to spells and magical effects based on death, and to the draining of life energy and harm by negative energy. The spell did not guard against other harmful effects, even those that were lethal.
+
+The post–Second Sundering version made the target able to avoid death, but only once. The spell lasted 8 hours. During this time, if ever the target was to suffer an effect that would kill it instantly, the effect would be negated. If the target was wounded so that it was close to death, it would instantly be stabilized. If either of these happened, death ward would end.
+
+Users
+It was unique in that it was one of the only necromancy spells available to paladins.
+
+Components
+Only verbal and somatic components were needed to cast this spell. The older version of the spell additionally required a divine focus for the casting.
+
+History
+This spell was known to be used by wizards of the Cult of the Dragon.
+
+Appendix
+Appearances
+
+External Links
+
+ D&D Beyond
+
+References
+
+---
+
+## Desecrate
+
+Desecrate was an evocation spell used by clerics.
+
+Effect
+This spell strengthened the undead by filling them with negative energy.
+
+Negative energy was used to fill a designated area. The effects of this spell were greatly increased if the designated area contained any kind of structure devoted to the cleric's god.
+
+Conversely, if the designated area contained a structure dedicated to any other god, then the area became cursed, cutting off its connection with the god. The caster could use this spell to willingly desecrate sites dedicated to other gods.
+
+This spell could last for several hours all the way up to several days, depending on the strength of the caster. This spell could be used to counter or dispell and area blessed by the consecrate spell.
+
+Material Components
+Material components needed to cast this spell included a unholy water and 5 lbs. (2.2kg) of silver dust. All of the silver dust needed to be sprinkled around the area to be filled by the negative energy.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Detect thoughts
+
+Detect thoughts, also known as ESP, was a divination spell that allowed one to "listen" to surface thoughts.
+
+Effect
+The caster was able to sense the surface thoughts of beings within range. How long they examined an area or subjected decided what kind of information was received. It could penetrate barriers, but  of stone,  of common metal, a thin sheet of lead, or  of wood or dirt blocked it. The spell worked across the void of wildspace, but could not penetrate crystal shells at all.
+
+The post–Second Sundering version of the spell also allowed the caster to detect the surface thoughts of a creature and "detect" where they were. This spell could be used for interrogation and also to probe deeper into the target's mind. The spell could not detect or read the mind of very unintelligent creatures or creatures that did not speak any language. The spell reached 30 feet, and lasted 1 minute but could not penetrate  of wood or dirt,  of stone,  of regular metals, or a thin layer of lead.
+
+Components
+The spell required verbal, somatic, and material components. The material required was a copper piece.
+
+Variants
+Witch's ESP a variant restricted to witches, this required the caster to maintain physical contact with their target and instead of a copper piece it used a pinch of powdered nightshade as a material component.
+
+History
+The spell was attributed to Netherese arcanist Zahn in  and was originally called Zahn's ESP.
+
+Appendix
+See Also
+ Emotion read
+Appearances
+Novels
+The Sapphire Crescent
+Video Games
+Baldur's Gate III
+External links
+
+References
+
+---
+
+## Deathwatch
+
+Deathwatch was a divine necromancy spell that informed the caster how badly wounded subjects were.
+
+Effects
+With the power of unlife, the caster acquired a necromantic vision with which they could tell the status of living creatures close to death within an area of . He or she immediately sensed if a creature was dead or close to death from wounds, undead, or neither alive nor dead (as in the case of constructs). This spell foiled any magic or ability with which creatures could fake death.
+
+Certain deities granted this spell for non-evil purposes.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+Appendix
+See Also
+Naturewatch
+Appearances
+
+References
+
+---
+
+## Detect scrying
+
+Detect scrying was a divination spell that alerted the caster to eavesdropping via other magic.
+
+Effect
+The caster instantly became aware of any observation of them via a scrying divination, including crystal balls and other devices. They could determine the positions of every magical sensor within an area up to 40 feet (12 meters) from them, moving as they did. If the source of the scrying began within that area, the caster also automatically determined its location, while outside that area, it was a contest as to who was the better spellcaster to see if they determined the source of not. If successful, or at least equal, the caster of detect scrying might receive a vision of the scrier and an accurate understanding of their distance and direction. Detect scrying lasted a full day.
+
+When detect scrying uncovered a spell, a brilliant blue-white flash would burn in the area.
+
+Components
+As well as verbal and somatic components, it required material components: a small piece of mirror and a miniature brass hearing trumpet.
+
+History
+This spell was invented by the prolific Netherese arcanist Trebbe in  and called Trebbe's scry scrying.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Detect undead
+
+Detect undead was a divination or necromancy spell that revealed undead creatures within a certain distance from the caster. The earliest version of this spell could be cast in reverse as cloak undead.
+
+Effects
+This spell evolved over time. The earliest version operated in a sphere centered on the caster of radius equal to 10 ft (3 m) times the experience level of the caster and it revealed the location of even invisible or concealed undead. A prickling sensation warned the caster if any undead entered the area during the few minutes of the spell's duration. The next version of detect undead had a much greater range (60 ft/18.3 m plus 10 ft/3 m per level of the caster) and duration (30 minutes) but only worked in a corridor 10 ft (3 m) wide, forcing the caster to turn about in order to sweep out the entire surrounding area. This version only gave direction to the undead, not location or distance, and it could be blocked by 1 ft (30 cm) of solid stone, 3 ft (0.9 m) of wood or dirt, or a thin sheet of metal.
+
+The next version of this spell was limited to a range of 60 ft (18.3 m) but worked in a cone-shaped field of view and was much more sensitive. More information could be obtained by remaining motionless and concentrating on the area. At first, only the presence or absence of undead could be detected. After a few more seconds of concentration the number of undead auras and the strength (either faint, moderate, strong, or overwhelming) of the strongest aura could be determined. At this point, if a particularly powerful undead was present and its aura overwhelmed a good-aligned caster then the caster became stunned for a few seconds and the detect undead spell was broken. If the caster was able to continue concentrating on the area, then at last the location and strength of each aura could be discerned. If an object or wall blocked the line of sight, then direction was apparent but not distance. This spell was sensitive enough to detect lingering auras left behind after an undead creature was destroyed. The weakest undead left an aura only dimly detectable for a few seconds to a few minutes, possibly an hour. The destruction of a powerful undead creature could still be dimly detected by this version of the spell for a few days afterward. Similar to its predecessor, this spell could be blocked by 1 ft (30 cm) of solid stone, 3 ft (0.9 m) of wood or dirt, 1 in (2.5 cm) of common metal, or a thin sheet of lead.
+
+Components
+The earliest version of detect undead required only verbal and somatic components. Later versions needed a sample of dirt from a grave as a material component. The divine magic version used the caster's holy symbol or divine focus instead of grave dirt.
+
+History
+This spell was originally introduced by Netherese arcanist Trebbe in  under the name Trebbe's scry undead.
+
+Appendix
+See Also
+ Cloak Undead
+References
+
+---
+
+## Detect magic
+
+Detect magic was a divination spell that was sometimes categorized as a universal spell. It allowed the caster to become aware of magical emanations in the direction the caster was facing, within range of the spell. After the Spellplague, it became a trained skill for those with affinity for magic.
+
+Effects
+Over the years, this spell has evolved, growing in capability while becoming easier to learn. Early illusionists didn't learn this spell until they reached second level while divine and other arcane casters could learn it at first level. Eventually this spell became a cantrip for wizards and an orison for priests. After the Art recovered from the Spellplague, a spellcaster could be trained to identify rituals, magical effects, and even sense the presence of magic through most any barrier.
+
+At first, each practitioner of magic had their own version of detect magic. Magic-users including illusionists could sense magic in a 10 ft (3 m) wide corridor 60 ft (18.3 m) long and for a duration based on their experience level. Clerics and druids could only "see" magical auras out to 30 ft (9.1 m) and 40 ft (12.2 m) respectively for a duration of 10 or 12 minutes respectively. The caster could turn in an arc to sweep out an area, making a full circle in six minutes. These versions of the spell could penetrate anything less than 1 ft (30 cm) of stone, 1 in (2.5 cm) of solid metal, a thin sheet of lead, or 3 ft (0.9 m) of wood or dirt. No information other than the presence or absence of magic was acquired.
+
+Later, wizards and priests were able to determine the intensity of magical auras, classifying them as dim, faint, moderate, strong, and overwhelming. In addition, wizards had a chance to identify the school of magic to which an aura belonged. Priests were likewise able to identify the sphere of magic. The more experienced the caster, the better were the chances to correctly identify each aura. Once again, the divine spellcasters had a fixed duration of 10 minutes but could "see" out to 90 ft (27.4 m). Arcane spellcasters could only detect out to 60 ft (18.3 m) but the duration was based on their level and eventually exceeded the divine version's 10 minutes for more experienced wizards.
+
+The orison/cantrip version of detect magic was effective in a cone-shaped area out to 60 ft (18.3 m) and revealed information depending on how long the caster studied a particular area or subject, but even so it was much faster than earlier versions. The spell supplied indications in three stages:
+
+First, the caster could feel the presence or absence of magical auras. As the caster concentrated further, the number of different magical auras and the strength of the strongest was evident. And finally, knowledge of the strength and location of each aura was revealed, with a chance to determine the school of magic if the aura was in line-of-sight. If an aura could be placed in more than one category, detect magic indicated the stronger of the two. Likewise, strong emanations could mask or distort weaker ones.
+
+Magical effects left a residual aura that faded with time. How long this residual aura could be detected depended on its original strength. The caster was able to get a dim reading on a faint effects for only a few seconds after the effect ended. Moderate to strong effects left a lingering aura for a few minutes to an hour. Overwhelming magical effects were still detectable for a few days afterward.
+
+The orison/cantrip version was also blocked by the same materials as previous versions. After the Spellplague, arcane practitioners could be trained to analyze and identify magic rituals and effects as long as they had line of sight to the area of interest. In addition, they could sense the presence of magic regardless of barriers.
+
+The post Second Sundering version of the spell lasted 10 minutes and only reached 30 feet (9 meters). In this zone the caster could feel the magic's presence and determine the spells school see it as a vague aura. the spell could not penetrate 3 feet of wood or dirt, 1 foot of stone or 1 inch of steel or a slim sheet of lead.
+
+Components
+All versions of detect magic required verbal and somatic components. The divine versions also required the use of the caster's holy symbol or divine focus.
+
+Inscription
+According to the Book of the Silver Talon, the ingredients for the ink used to inscribe detect magic into spellbooks were: one ounce of giant squid sepia, a small, powdered sapphire, one drop of spring water, one drop of blood from the writer, a single object that radiated dweomer and enough oak, ash and thorn branches to start a fire.
+
+The sepia was heated over a fire made from the various woods to which the powdered sapphire, water and blood were then added. This had to be stirred with the mixthorn branch which was then added. Once the fire burnt out it would sit until cooled and then stored in a flask or other vessel.
+
+History
+This very basic spell predated the period of spell invention of the Netherese and was taught to the humans by the Earlanni elves in the early days of Netheril. The arcanist Trebbe developed a similarly named mentalism, Trebbe's scry magic, in 1589 NY (−2270 DR), but its effect was lost, so the relation between the two spells remained unclear.Trebbe's scry magic was supposed to be detailed in the Encyclopedia Arcana book from Netheril: Empire of Magic, but was missing there.
+
+Detect magic was a common spell in the 1360s DR in both Faerûn and Zakhara. It was one of the spells available from the Balance of Belaros, a holy relic of Tyr.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+pt-br:Detectar magia
+
+---
+
+## Detect poison
+
+Detect poison was a divination spell that allowed the caster to sense if a creature or an object was poisonous or had been poisoned. It was one of the spells available from the Balance of Belaros, a holy relic of Tyr.
+
+Effect
+Upon casting this spell, the caster could examine one creature, object, or a 5 ft3 (3.5 m3) volume and know instantly if it had been poisoned or if it was poisonous to the caster. The earlier version of this spell was not instantaneous but lasted for at least 10 minutes and the caster could examine multiple targets at a rate of one per minute. Both versions had a chance to determine the exact type of poison. The probability of success for the newer version depended on the caster's wisdom while the earlier spell depended on the caster's level. Skilled alchemists could also use their alchemical knowledge to detect poison.
+
+This spell could successfully detect poison through barriers, but could not penetrate 3 ft (91 cm) of wood or dirt, 1 ft (30 cm) of stone, 1 in (2.5 cm) of regular metals, or a thin layer of lead.
+
+Components
+Both versions of this spell required verbal and somatic components, but only the older version needed a strip of vellum, blessed specifically for this purpose. The vellum turned black in the presence of poison.
+
+Appendix
+See Also
+ Detect poison and disease
+ Slow poison
+ Poison
+ types of poison
+
+References
+
+---
+
+## Demron
+
+The archmage Demron was the creator of the Baneblades of Demron, six powerful magical swords created before the fall of Myth Drannor.
+
+References
+
+---
+
+## Deren Eriach
+
+Lord High Justiciar Deren Eriach was an inhabitant of the Abbey of the Just Hammer. On 22 Mirtul 1373 DR, Eriach killed the green dragon Sirvinhandra who had attacked the abbey.
+
+Possessions
+He was the first known wielder of the axe of heavenly fire, a uniquely enchanted greataxe.
+
+Appendix
+References
+
+---
+
+## Deepingdale
+
+Deepingdale was one of the more peaceful, albeit strong, dales within the Dalelands, with a strong connection and loyalty to the elves of Cormanthor. There were few other places in Faerûn where men and elves enjoyed such rich unity and friendship. Its capital city was the large town of Highmoon that rested in the high-traffic road of the East Way.
+
+Government
+The government of Deepingdale was led by an appointed lordship, where a deserving and dedicated citizen was appointed by the town council as Lord of Highmoon. The Lord was responsible for declaring decrees which defined the current laws of the Dale. The council was composed of appointed, trusted citizens of Highmoon and the surrounding countryside.
+
+Law & Order
+Similar to the legal system in Battledale, the Dalesfolk of Deepingdale regularly policed themselves in regards to minor crimes and disagreements. More serious issues and crimes were brought to the Lord of Highmoon. Most of the laws created by the lord were considered forgiving and just; crimes such as murder or arson were punished severely and matters involving armed combatants were considered military enemies of the Dale.
+
+There was a minor law regarding fishing, where anyone who were to fish for more than a single salmon for their meal, from either the Glaemril or Wineflow rivers would be considered a bandit.
+
+Defenses
+The armed forces of Deepingdale consisted of a standing military comprising two companies of elven archers, a Tower Guard of human and half-elf forces and a militia of able-bodied Dalesfolk known as the Swords of Deepingdale.
+
+Society
+Most of the Deepingdalesmen enjoyed lives as farmers, woodsman and hunters. Their relationship with the Elven Court ranged from cordial to prideful in their friendship and unity.
+
+Economy
+Although it was not as large a trading power as Archendale, or the other trading dales, Deepingdale did import many daily-use finished goods such as cookware, lanterns, linens and textiles through Highmoon. Conversely it was the largest supplier of game, furs and timber for the Dales.
+
+Highmoon was a local trading hub in the area, a favored city for travelers to buy Daleland goods. It was the home to trading costers such as Silverhand House, Andelmaus Logging and Hanseld's Emporium in late 14 century DR.
+
+History
+Deepingdale was founded by a Half-elf sorceress named Imryll Eluarshee, also known as the Deeping Princess. They had a vision of a community where elves, half-elves and humans could live together in the lore of culture found in Cormanthor.
+
+Since the majority of the elves began migrating to Evereska in the great Retreat, Deepingdale has become the de facto home to those that remained in the forests of the Dalelands. These elves and the Dalesmen have united even further in their war against the Drow raiders from ancestral Cormanthor who worshiped the deity Vhaeraun.
+
+Geographical Features
+This dale encompassed a deep valley between the Arch Wood and Semberholme forests, along the Glaemril. It was bordered on the east by the Glaun Bog and the beginning of the Dun Hills. The valley began in the west at Highmoon, which sat on the East Way. The elvish villages of Bristar and Moonrise Hill were also part of the Dale.
+
+Mountains
+ The Blood Horn: This mountain stood atop the ruins of former Sessrendale and was home to a red dragon known as Thraxata.
+
+Rifts
+ Darkwatch: This thicket of dark oaks and gnarled thorn trees surrounded a long scar in the ground, filled with darkness. It was rumored to be home to an ancient evil imprisoned by the Elves.
+
+Bodies of Water
+ The Glaemril: A swift and strong river was rich in salmon.
+ Wineflow: This river was just as abundant in fish as the Glaemril.
+ Hallow Creek
+ Lake Eredruie: Regarded as sacred to the followers of Labelas Enoreth, this lake was actually an over-sized pond whose water had magical healing properties.
+
+ Notable Locations
+Temples
+ Leaves of Learning The temple of Oghma featured one of the largest libraries in Faerûn outside of Candlekeep.
+ Rhauntides Tower This small tower on top of Spell Hill was home to the former Sage of Deepingdale, Rhauntides.
+ Tower of the Rising Moon The black-walled stronghold in Highmoon served as home to the Lord of Deepingdale.
+
+Settlements
+ Highmoon Deepingdale's capital was also the dale's only major settlement. It acted as a hub of trade in the area, nestled around the East Way between Arabel and Ordulin.
+ Bristar This village of moon elves maintained its allegiance to Deepingdale following the Retreat. As of 1372 DR it was the largest remaining communities of Elves in Cormanthor.
+ Moonrise Hill Another Elven village located northeast of Lake Eredruie; they contributed numbers to the Swords of Deepingdale.
+
+Appendix
+Gallery
+
+References
+
+Connections
+
+---
+
+## Demonic domain
+
+The Demonic domain was a deity domain that granted divine spellcasters like clerics with spells and powers related to demons.
+
+Deities
+
+Powers
+The unarmed blows and natural weapons of a priest with the Demonic domain became divinely empowered.
+
+Spells
+As they advanced, a priest with this domain could protect their body with demonflesh or even fly with demon wings, or acquire their profane knowledge with demoncall. Later, they could see in darkness, invisible things, and the trace of goodness with fiendish clarity and create great darkness that only only evil beings could see through with utterdark. They could also summon and bind outsiders with lesser and regular planar binding, prevent extradimensional travel with dimensional anchor, and ultimately travel between planes directly with gate.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Demihumans of the Realms
+
+Demihumans of the Realms is a 2-edition Advanced Dungeons & Dragons accessory for the Forgotten Realms.
+
+Description
+Demihumans of the Realms explores the demihuman races found within the Realms, including elves, dwarves, gnomes, and halflings. It provides extensive information about each race, their subraces, cultures, and unique characteristics. It provides detailed descriptions of various subraces for each demihuman race. It has information on where each demihuman race resides within the Realms and the geographical regions they call home. This includes elven forests, dwarven strongholds, gnome burrows, and halfling communities. It also provides insights into the cultural practices, traditions, and beliefs of each demihuman race.
+
+Demihumans of the Realms contains details about the magical abilities, spellcasting traditions, and religious beliefs of demihumans. The sourcebook covers the pantheons of deities worshiped by these races.
+
+For Dungeon Masters, Demihumans of the Realms provides rules for creating demihuman player characters, including character generation options, racial abilities, and role-playing tips. It also contains adventure ideas, plot hooks, and scenarios that involve demihuman races and their unique cultures. These can be used to create quests and storylines centered around these races.
+
+Contents
+ Introduction
+ Acrobat, Festival
+ Advisor, Imperial Fleet
+ Artificer, Gnome
+ Barbarian, Arctic Dwarf
+ Barbarian, Jungle Dwarf
+ Barbarian, Lythari
+ Barbarian, Wild Elf
+ Beggar, Professional
+ Cat Burglar
+ Explorer, Winged Elf
+ Exile, Gray Dwarf
+ Forester
+ Giant Killer
+ Gladiator, Fugitive Hillsfar
+ Hound Master
+ Ironsmith, Wandering
+ Lorefinder
+ Manhunter
+ Mariner of Evermeet
+ Marshal, Halfling
+ Merchant, Sea Elf
+ Merchant, Underdark
+ Mountebank
+ Orcslayer
+ Peasant Hero
+ Pestkiller
+ Prospector
+ Runaway, Dambraii
+ Scholar
+ Scout
+ Slave, Fugitive
+ Smuggler
+ Thug, Waterdeep
+ Tunnelrat
+ Zurchin
+
+Index
+
+Characters
+
+Creatures
+ •  •  •  •  •  •  •
+
+Locations
+ •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Religions
+
+Kits
+
+Other
+Languages
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Gallery
+
+Credits
+ Design: Roger E. Moore
+ Research Assistance: Jim Butler, Dale Donovan, Ed Greenwood, Julia Martin, Thomas Reid, Steven E. Schend, and those on America Online who gave me their opinions. Also, thanks to Kim Eastland for that scout article!
+ Editing: Michelle Vuckovich
+ Interior Art: Carol Lyon
+ Brand Management: David Wise
+ Art Direction: Paul Hanchette
+ Graphic Design and Production: Dee Barnett
+ Typesetting: Eric Haddock
+
+Appendix
+See Also
+ Images from Demihumans of the Realms
+External links
+
+References
 
 ---
 
@@ -1288,6 +3878,226 @@ Connections
 
 ---
 
+## Dendybar
+
+Dendybar the Mottled was a wizard and the guardian of the northern spire in the Hosttower of the Arcane in the seaport city of Luskan in the mid-14 century DR.
+
+History
+Dendybar was once former priest of Myrkul, until one day he decided he could more effectively serve his god as a wizard.
+
+Abilities
+Beyond his spellcasting capabilities, his devotion to Myrkul allowed Dendybar to animate skeletons and zombies.
+
+Relationships
+Dendybar held a deep sense of jealousy and hatred towards his fellow guild member Eldeluc, due in part to him rising quickly within their ranks with little effort.
+
+Appendix
+
+Appearances
+ The Crystal Shard
+ Streams of Silver
+
+References
+
+Further reading
+
+---
+
+## Delia
+
+Delia was a Netherese enclave ruled by Lady Polaris.
+
+Geography
+Originally, Delia was an island crafted carefully by druids and was altered once it became an enclave under the care of Lady Polaris. Its treetop city architecture was soon expanded by more conventional means to support the wide array of magical research and city services that Lady Polaris demanded.
+
+Inhabitants
+Lady Polaris later became tired of managing the city and turned it over to two of her students, Candlemas and Sysquemalyn during the Age of Discovery.
+
+History
+The city of Delia was elevated in  by Lady Polaris.
+
+Delia was the only known Netherese enclave known for druidic and elven ways, though it soon became like the other enclaves. This caused the druids and elves who founded the city to leave for more ground-based surroundings.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Delphe
+
+Delphe was a star elf abjurer and a Keeper of the Cerulean Sign.
+
+Personality
+Delphe was reassured by her little superstitions, often murmuring "All's well in the Well" when nothing had happened.
+
+Activities
+Delphe was in charge of the Inner Bastion of Stardeep. and of monitoring The Well in particular.
+
+Equipment
+Delphe once possessed a Cerulean Sign, an amulet with potent magical powers against elder aberrations though it was destroyed in 1375 DR by Telarian using the sword Angul-Nis.
+
+Relationships
+She considered Cynosure too unimaginative, and Telarian too humorless, though the former could make her laugh sometimes. There was some friction between her and Telarian from when a few years before, she'd been chosen to wield the Sign instead of him.
+
+Eventually, she came to school Raidon Kane on the use of his bonded Cerulean Sign.
+
+Abilities
+Delphe specialized in abjuration. Amongst the spells she could call upon quickly were wall of force, lightning bolt, and a version of black blade of disaster which she knew as a spellscythe.
+
+History
+Delphe's time as a Keeper started about a decade before . In Midwinter of that year, she thwarted one new escape attempt by the Traitor. Though Cynosure was of some help eventually on that day, she began to suspect the construct was not functioning properly.
+
+Delphe confronted Telarian some days later after finding a letter from Captain Brathtar, learning about the Epoch Chamber and the raid on a nearby wood elf encampment on the same day that the raid was taking place. During the attack on Kiril Duskmourn, Delphe sterilized a well-born avatar generated from a simultaneous escape attempt; for that reason, she did not learn that Kiril had been attacked by the Knights in time. Considering the simultaneity implied the attackers were in league with the Traitor, she ordered the Causeway sealed, and disconnected all instances of Cynosure from the command functions in Stardeep.
+
+She agreed later to reinject Cynosure into the loop, instance by instance. However, Telarian left her to this task alone. Due to fatigue, she decided to bring Cynosure back to functions with a small number of nodes, so that it could help her root out the infected nodes. Cynosure was able to inform her that the one subverting him was Telarian, and reveal the true extent of his subversions. She immediately sought him out, finding that he had ridden out of Stardeep through the Underdungeon; When he returned with Kiril Duskmourn, she tried to talk to her, and convince her that Telarian was the actual traitor. Before she could, Raidon Kane triggered a teleportation into The Well manually.
+
+Telarian's sword severed half her hand and sundered the Sign she carried. Her hand was quickly regenerated by Cynosure, and she was joined by Raiden in combatting another Well-born avatar. After the battle, Delphe asked Raidon Kane to use his bonded Cerulean Sign to reinforce the wards around the Well. He accepted.
+
+Per the construct Cynosure, as of, she had re-entered Sildëyuir fifteen years prior (placing the date in ) and never returned to Stardeep.
+
+Rumors
+Telarian accused her of being the one that had been subverted by the Traitor when he was talking to Kiril Duskmourn.
+
+Appendix
+Appearances
+Novels
+Stardeep
+References
+
+---
+
+## Destrachan
+
+Destrachans were evil, crafty, and sadistic aberrations that dwelled underground. They typically attacked with a powerful sonic blast emitted from their tubular mouths.
+
+Description
+Destrachans were bipedal creatures, vaguely reptilian in appearance. The head was largely featureless except for the circular mouth and the large ear structures. From head to tailtip destrachans were about  long, and they weighed approximately .
+
+Personality
+Destrachans resembled simple-minded, if bizarre, beasts, but they were actually crafty and cruel monsters, aberrations that seemed to feed on misery and death and spread both for evil's sake.
+
+Abilities
+Destrachans were reliant on sound: they had complex, three-part ears that could adjust to be more or less sensitive to different sounds, allowing them both protection from sonic attacks while also letting them navigate by a sense of hearing more precise than many creatures' eyesight. Additionally, destrachans could emit focused, harmonic sonic energy from their mouths, powerful enough to shatter stone walls but precisely controlled enough that a destrachan could choose what material to effect; choosing a solid material to shatter any of it in range, focusing on flesh and bone to harm creatures, or even on just nerves in order to knock creatures out.
+
+The natural blindness of destrachans also afforded some protection; any gaze or other sight-based attacks were useless against them. However, they could still be affected by audible effects and spells, and a destrachan that could not hear was effectively blinded, so to speak.
+
+Combat
+Destrachans preferred to ambush enemies, using their sonic attack to first destroy metal, then rend flesh. They used their claws only as a last resort.
+
+Society
+Destrachans lived in complex underground systems, causing only suffering. They were known to capture victims and imprison and torture the prisoners in their lairs. They despised all gods.
+
+Destrachans were believed to understand Common but not to speak it, while some reports claimed that they spoke Deep Speech.
+
+Relationships
+Few living creature would willingly ally with a destrachan except other aberrant creatures (such as chuuls, gibbering mouthers, gricks, foulspawn, and the plaguechanged), which they seemed to be attracted to; they had been reported as being in the company of drow, grimlocks, hags, medusas, trolls, onis, and troglodytes. Evil undead and outsiders were known to willingly ally with destrachans.
+
+Homelands
+On Toril, destrachans were known to live in the Middledark and Lowerdark, most particularly in the Deep Wastes where there was a whole thorp of them in Kuragolomsh. They had also been reported in the Forest of Amtar.
+
+History
+Destrachans were spawned from the energies of the Far Realm seeping into the Material Plane. Some scholars speculated that they arose from the foul dreams of a sinister deity whose identity and purpose had long been forgotten by the destrachans themselves.
+
+Following the Spellplague, destrachans were sometimes known to work alongside plaguechanged creatures and undead, as well as factions that made use of these creatures such as the Order of Blue Flame.
+
+In the, destrachans were among the creatures known to work with the Abolethic Sovereignty, and they were also reported to be living in parts of Gauntlgrym.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deep Imaskar
+
+Deep Imaskar, also known as the City of the Great Seal, was an enclave of Imaskari refugees in the Underdark that had survived from -2481 to 1363 DR in complete isolation. As of the Year of Lightning Storms, 1374 DR, it housed the largest group of surviving descendants of the Imaskar empire, a distinction it would keep until the founding and growth of High Imaskar sometime after the Spellplague. Though it housed one of the largest populations of the Underdark, it was fully self-sufficient and isolationist, making an effort to hide its presence from the world.
+
+Geography
+The city was located in the lower Underdark, somewhere below the Endless Waste. Deep Imaskar kept the customary Imaskari prominence of extradimensional spaces. The Deep Imaskari believed that a building not larger on the inside than it was on the outside was a waste of space; almost every building was full of such spaces. The area was not fully surveyed; local urban planners were known to change it continuously.
+
+By, the area around Deep Imaskar had become an extensive Plagueland, though the local mages had had some success mitigating spellscars and even plaguelands.
+
+Geographical Features
+Deep Imaskar itself was built on a hollow of the Lowerdark shaped like a half pipe,  long,  wide, and  high. Due to enchantments, gravity in the cave followed the curve of the ground, thus modestly extending the length of land available. Large towers converged into the center of the cave. Air was filtered, circulated, and refreshed through magical cloths hanging from the top of the cavern.
+
+Flora and Fauna
+Animals, even familiars, were an unfamiliar sight to the Deep Imaskari, for whom space was at an ever-increasing premium: there were no livestock species of any kind. A special crop was grown for water in every household, plants that built up 2-inch wide droplets every day; those droplets were covered in a film that would not break until pierced, allowing them to get at the water inside with their teeth. The Imaskari kept most crops in extradimensional gardens. There were lyrwood trees among those crops.
+
+Government
+As of, Deep Imaskar was ruled by its High Lord Planner, Illis Khendarhine, through the Body of Planners, who debated and decided on the policies for growth and development of the city. The Lord Apprehender, Ebrul Naramixna, and the Lady Enacter, Furyma Selovan oversaw information and resource gathering, and executed the planners' dictates respectively. Though the Lord Planner ruled alone, the Apprehenders and Enacters could block their decisions through inaction if they so chose.
+
+By, the High Lord Planner was Yannu Hywillan, who governed together with a wizards' council known as the Planners. The Lady Apprehender was Synnis Naramixna, who was an intelligence officer as well as the manager of the city's wards. The Lord Enacter was Vardyn Xalzussi, who handled law enforcements and military matters.
+
+Trade
+Being fully isolated, the City of the Great Seal did not trade with outsiders. By 1479 DR, the city traded with High Imaskar sporadically, and with no one else.
+
+Defenses
+The Great Seal was a magic circle  across, drawn on the northern wall of the cave. It continuously radiated faint, penetrating light, which was visible all the way from the south wall of the city. The Great Seal also had the magical ability to suggestion anyone in Faerun, or even in adjacent planes, that the Imaskari empire was well and truly gone. By, the Great Seal was destroyed, and the hole in the wall had been covered in lesser wards to protect against spellscarred creatures.
+
+When violent force was needed to apprehend a criminal, the Enactors (constables) used magic. Martial prowess had become nearly atrophied, with martial instruction mostly a live theater performance. Those Deep Imaskari who were allowed to leave the city had their minds wiped of all knowledge of the city's location and specifics, in order to prevent them from bringing any harm back to the vulnerable city. They could only return through being called back by magic, and were only allowed to carry out magical items they had personally crafted.
+
+By, Deep Imaskar's surroundings had become an immense Plagueland, which served as both a defense against outsiders and a source of problems. The wards around where the Great Seal was were intended to protect against threats from that location. They also protected against the agents of the Masters of Absolute Accord, which often attacked the city.
+
+History
+In, Lord Ilphemon, along with a small retinue of servants and family, fled the destruction of Imaskar for the Underdark. The refugees would wander until, the year in which they founded the city of Deep Imaskar. Ilphemon's descendants would rule Deep Imaskar until the year of, when a cabal of necromancers would depose the king and slay the entire royal family. These same necromancers would rule until, when a woman named Chaschara would overthrow them in a revolt.  After overthrowing these necromancers, Chaschara would create the title of Lady Protector of the Realm, creating the office of Apprehenders, Enactors and Planners in order to counterbalance their power.
+
+By the year, some plans for expansion into the Elemental Plane of Air were underway, but would be stopped permanently after several chichimec managed to destroy their holdings in the plane, and then invade the city proper through the portal. After several days, once they were finally driven off, the position of Protector was abolished. The Lord Protector at the moment, Lord Styllofyr, was exiled from the City.
+
+Late 14th and 15th Century
+A local wizard by the name of Ususi Manaallin escaped from Deep Imaskar in order to further her studies of the Celestial Nadir, an Imaskari demiplane, in the year .As of 1373, Ususi had spent a decade in Two Stars, where she had arrived "almost as soon as she left Deep Imaskar". This year is confirmed by the Forgotten Realms Campaign Guide, (p 138). She weakened the Great Seal in the process. In the year, the Elder Evil Pandorym began to stir from its prison in the Palace of the Purple Emperor, extending its influence across the region of Vaelan. In the Feast of the Moon of the  Deep Imaskar had decided to partly break their Great Seal in order to send out scouts, spies, and explorers into the outside world, at the prompting of Lord Apprehender Ebrul Naramixna.
+
+By early, Deep Imaskar was besieged by the forces Pandorym had amassed, and its continued existence was in jeopardy; an Imaskari vengeance taker, Iahn Qoyllor, was dispatched to fetch Ususi Manaallin.Iahn Qoyllor had been tracking Ususi for "just over two months" as of the start of Darkvision, implying more than two months, but probably less than a tenday over that much. He had uncovered her trail after "a few tendays", implying more than two, but less than a month. He was also a few days behind her at the time. Adding more than two tendays, but less than a month, to two months, but no more than a tenday, and a few days, that adds up to approximately three months. Given they met at some point before Tarsakh 17 (the end date of Darkvision), and that two nights pass during the course of the story, that would mean he started roughly on the second tenday of Hammer. In Tarsakh 17 of, the seal on Pandorym was restored by Ususi, Iahn, and other adventurers, though much ruin was left in Deep Imaskar.
+
+The Spellplague, over a decade later, was also disastrous, causing thousands of deaths, driving many mages to insanity, spellscarring hundreds of people and ending spells used to imprison dangerous criminals; the government collapsed through the process, and Plaguelands erupted all around the city's surroundings. Empress Ususi Manaallin and other High Imaskari came to help, aiding in the hunting of dangerous spellscarred creatures and general reconstruction. Spellscarred who retained their faculties, however, became integrated again into society. A number of the locals would become settlers, and go back to the surface in order to help found the city of Skyclave in High Imaskar after the Spellplague. The Imaskari that remained behind in Deep Imaskar were more conservative and insular- perhaps, even more paranoid.
+
+Rumors & Legends
+In the, it was said that there was tension between High Imaskar and Deep Imaskar. The wizards of Deep Imaskar were rumoured to have had some success in curing Plaguelands.
+
+Notable Locations
+Important sites included the Purple Library  and the Enactor's Courtyard. The former was a library with the best sources on the Ancient Imaskari empire and history; the latter was the place where the Lady Enactor's retainers congregated, mostly to design structures and objects. Paradoxically the place was also a place of punishment, with criminals held in forcecages within the same space.
+
+The Lodge of Retributive Masters had needed a new home by 1479 DR, as their old one had been taken over by the Masters of Absolute Accord.
+
+Inhabitants
+Lord Ilphemon
+Lady Protector Chaschara
+Lord Protector Styloffir
+Lord Apprehender Ebrul Naramixna
+High Lord Planner Illis Khendarhine
+Lady Enacter Furyma Selovan
+Ususi Manaallin
+Iahn Qoyllor
+Qari Manaallin
+Jubal Thetisjemja
+Dryleh Bluerslol
+High Lord Planner Yannu Hywillan
+Lady Apprehender Synnis Naramixna
+Lord Enacter Vardyn Xalzussi
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Delkin Snowdawn
+
+Delkin Snowdawn is a human cleric of Lathander and leader of the adventuring group, the Moor Runners.
+
+Description
+
+Personality
+
+References
+
+---
+
 ## Desert of Desolation
 
 Desert of Desolation is a compilation adventure module for 1-edition Advanced Dungeons & Dragons.
@@ -1368,6 +4178,887 @@ Notes
 External Links
 
  Desert series at the Acaeum
+
+References
+
+---
+
+## Deva (disambiguation)
+
+Deva might refer to:
+ Devas, immortal angels in humanoid form.
+ Aasimar, planetouched of human origin, of whom the above are a subtype.
+ Angelic devas, celestial angels of pure good.
+
+---
+
+## Delzimmer (family)
+
+The Delzimmer clan was a family in Waterdeep around 1373 DR.
+
+The Delzimmers' townhouse was an opulent four-story row-house building on the Swords Street in the Castle Ward, adjacent to Sapphire House. Adjoining it to the north was Sablehearth, the Irlingstar mansion.
+
+On Uktar 28, 1374 DR, the rogue Raegar Stoneblade fled from Kemarn Darkthrush along the balcony of the Delzimmers' house, as well as over the neighboring houses.
+
+References
+
+---
+
+## Devic
+
+Devic was a language spoken by the inhabitants of the city of Solon and the kingdom of Ulgarth in southeast Faerûn. It was found in the region between Solon and the Dustwall in the north, Xontuil Bay and the Great Sea in the west, and the Yehimal Mountains in the east. It was categorized as part of the Imaskari languages group, in the Durpari languages subgroup.
+
+Devic was primarily the language of Ulgarth, where the Ulgarthic dialect was spoken. However, the Solonese dialect was used in Solon. It was associated with the Devic culture of Solon.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Delthuntle
+
+Delthuntle was a commercial center and port in Aglarond.
+
+Trade
+The city primarily made a profit through trade with the genasi nation of Akanûl, especially its capital, Airspur.
+
+Some of Delthuntle's specialties include oysters and pink pearls, as supplied by Morada Topolino.
+
+The city suffered from some difficulty with pirates that patrol the coastline.
+
+Demographics
+The city's trade with Akanûl helped give it one of the highest non-native genasi populations throughout Faerûn.
+
+There was a large halfling community in Delthuntle that was not seen as second class.
+
+Notable Locations
+ Morada Topolino, mansion belonging to Pericolo Topolino.
+ The Lazy Fisher, the inn closest to the water, run by Shasta Furfoot and later home to Eiverbreen Parrafin.
+
+Notable Inhabitants
+ Duke Raymond, a noble from Delthuntle who once was liked in a bitter rivalry with the Duke of Spandeliyon, Edwall Dest.
+ Spider Parrafin (the reincarnated Regis), halfling lad adopted by Pericolo Topolino.
+ Eiverbreen Parrafin, Spider's father.
+ Jolie Parrafin, Spider's mother.
+ Shasta Furfoot, halfling proprietor of the Lazy Fisher.
+ Pericolo Topolino, the wealthy "Grandfather of Assassins."
+ Donnola Topolino, granddaughter of Pericolo and Spider's lover.
+ Wigglefingers, mage and advisor to Pericolo.
+ Bregnan Prus, leader of a boy's gang in 1472 DR.
+ Pater, member of a boy's gang in 1472 DR.
+
+Appendix
+Appearances
+Novels
+The Companions
+Video Games
+
+Baldur's Gate
+Gallery
+
+References
+
+FR:Delhountel
+
+---
+
+## Demonomicon
+
+Demonomicon is a 4th edition base game accessory published in July 2010.
+
+Index
+Characters
+
+Creatures
+
+Events
+
+Items
+
+Locations
+General
+
+Planes
+
+Magic
+
+Religion
+
+Appendix
+Notes
+
+External Links
+
+---
+
+## Deep Kingdom
+
+The Deep Kingdom, also known as the Deep Realm, was the name of a kingdom of gold dwarves that was found in the caverns of the Great Rift and the surface lands surrounding it.
+
+Geography
+When first established, the Deep Kingdom occupied lesser caverns and tunnels under the Eastern Shaar, a region of the Underdark known as Great Bhaerynden.
+
+Notable Locations
+ Daunting: A prosperous city east of the Great Rift.
+ Eartheart: This city in the Great Rift is the chief point of contact between the surface and the Deep Realm.
+ The Firecaverns: An inhabited underground rift warmed by lava flows about 100 miles north east from Underhome.
+ Glitterdelve: A prosperous town known for its precious metal mines.
+ The Hall of Echoes: A labyrinthine settlement with a haunted reputation.
+ Hammer and Anvil: The surface village is the main point of trade between the Deep Realm and the surface.
+ Harlending: A frontier city often attacked by duergar, drow, or other denizens of the Underdark.
+ Rimmator: A hospitable city on the River of the Serpent.
+ Sundasz: A small, isolated city in the far north east of the Deep Realm.
+ Thuulurn: A fortified monastic settlement dedicated to Moradin.
+ Underhome: The capital of the Deep Realm.
+
+History
+The Deep Kingdom was established after the fall of Telantiwar and stood unconquered for generations.
+
+In, the nation of Unther waged war against both the Deep Kingdom and the elves of the Yuirwood.
+
+The Thunder Blessing filled the caverns of the Deep Kingdom beyond their capacity, so a large number of gold dwarves set out to expand in new lands.
+
+The reigning monarch of the Deep Kingdom in 1373 DR was Queen Karriva of Clan Simmerforge. However, the actual power in the Deep Kingdom lay in the hands of the Deep Lords, the governing clan council. Each of the clans had the right to appoint four clan elders to the council, which ruled from some time in the 7th Century DR. Kings, Queens, High Princes, Princes Royal, Axe Princes, Princess, Princess Royal, War Princess, and Duke were just some of the common hereditary more exalted titles which continued to represent the royalty. Due to endless feuds, bickering and internecine wars, and the rising threat of drow and duergar, the Deep Lords were created to maintain unity within the Deep Kingdom. They dispensed justice, commanded the armies, and dictated policy.
+
+When the Spellplague struck Toril in 1385 DR, great rifts opened up in the Underdark beneath the Sea of Fallen Stars, which in turn caused the collapse of great swathes of land. The Underchasm formed in southern Faerûn, devastating the Great Rift, including the Deep Realm and its capital of Underhome. Many gold dwarves were able to flee the cataclysm through the elemental portals that fed the Riftlake, and others, including the Deep Lords, fled east to the devout city of Eartheart.
+
+Appendix
+
+References
+
+Further Reading
+
+Connections
+
+---
+
+## Desert dwarf
+
+The desert dwarves, also known as the Hairy Men of the Desert by Mazticans, were dwarves who lived in the deserts south of Kultaka and Nexal on the continent of Maztica.
+
+Description
+Desert dwarves appeared much like other dwarves, except for darker skin.
+
+Geography
+Desert dwarves inhabited the House of Tezca desert in southern Maztica.
+
+Society
+Desert dwarves lived in small clans of a few hundred members each. They excavated caves in the sides of canyons in order to build their villages. Unlike other dwarves, the lack of iron ore meant that they used stone tools and weapons.
+
+History
+During the Rockfire Cataclysm of 987 DR, Underdark passages between Maztica and Faerûn were destroyed, stranding a group of dwarves. After a long journey west, they emerged in the deserts of Maztica.
+
+Appendix
+Appearances
+Novels
+
+Ironhelm
+References
+
+Connections
+
+---
+
+## Devane
+
+Devane was the Helmite Bishop of Maztica in 1362 DR.
+
+History
+He was a protégée of the late Bishop Domincus of Amn and communicated with the bishop through magical means until Domincus was sacrificed to Zaltec by the Viperhands.
+
+Because of his relationship with Domincus, the Council of Six selected Devane as the chief priest on the second Maztican expedition. Devane was given a flying carpet to ride and he used this magical device to impress the natives. Devane was initially loyal to Don Vaez, the expedition's leader, but switched allegiance to Cordell shortly before the second battle of Ulatos.
+
+In 1362 DR, the Helmite missionary Mirandos went missing with a small group of Payit warriors and Bishop Devane commissioned a group of adventurers to track her down and bring her back if possible.
+
+In 1370 DR, Devane grew dissatisfied with the small number of new Helmite converts and petitioned Governor Cordell to send expeditions to new unexplored lands inland in order to "reveal Helm's truth to the savages".
+
+Appendix
+
+References
+
+---
+
+## Demascus
+
+Demascus was a deva from the world of Nerath who operated in multiple realities, including the universe Toril was located in.  He was called upon by the gods to set straight things that should never have occurred.  Demascus was often killed on his missions but was always resurrected with little memory of his past incarnation.
+
+History
+At some point prior to the Spellplague, an incarnation of Demascus performed an important task for Mystra in Halruaa.  While in Halruaa he became romantically involved with a human named Madri.  For unknown reasons, he was ordered by a deity to kill Madri which he did. Memories of Madri continued to haunt Demascus' dreams from time-to-time.
+
+Demascus was tasked by an avatar of Oghma to stop a heretical branch of his church from using the Damos artifact that allowed its user to see into the future.  In 1475 DR he was attempting to stop a cult ritual in the Akanapeak Mountains when he was slain.  In 1479 DR he woke up in a new incarnation at the site of his previous death and made his way to Airspur.
+
+While in Airspur he had a chance meeting with a pawnbroker named Chant Morven.  Unknown to Demascus, his previous incarnation had left a powerful magic scarf with the pawnbroker for safekeeping.  Immediately after Chant returned the scarf, it was stolen by a rogue named Riltana.  Demascus and Chant tracked Riltana to the Sepulcher, a secret cave complex behind Akanawater Falls, and retrieved the scarf.  Riltana agreed to help Demascus track the demon he believed he was intended to destroy.
+
+The trio had hear rumors that the Firestorm Cabal was conducting dark rituals so they went to the organization's headquarters at the Motherhouse to snoop around.  They bluffed their way into a meeting with the cabal's lieutenant.  The cabal was attempting to track down recent demonic activity in Akanûl and Demascus agreed to investigate a wizard named Chevesh who had a reputation for conducting forbidden experiments.  This lead proved fruitless and the trio returned to the Motherhouse to find that it had burned to the ground while they had been away.
+
+Riltana used her friendship with Queen Arathane's niece, Carmenere, to obtain an audience with the Queen who instructed Demascus to investigate the ruins of the Motherhouse.  While exploring the vaults beneath the Motherhouse, the group found members of the Cabal who were involved with the Cult of the Elder Elemental Eye. The group was taken prisoner by a demon named Murmur and were about to be sacrificed but managed to escape and kill Murmur.
+
+One of the Firestorm Cabal cultists named Jett escaped and was tracked by Riltana to his home in a large estate.  Riltana discovered Jett was in reality a rakshasa named Kalkan.  She brought Demascus and Chant to the home and they traveled together through a portal that led to the tomb of Demascus' previous incarnation.  At the tomb he recovered his magic greatsword but was ambushed by Kalkan.  Demascus managed to kill Kalkan thus fulfilling his contract with Oghma.
+
+In Leafall of 1479 DR, Queen Arathane asked Demascus and Riltana to investigate potential trouble at an arambarium mine on Ithimir Isle off the coast of Akanûl.  While investigating, they stumbled upon a drow plot to steal arambarium lead by a priestess of Lolth from Menzoberranzan named Chenraya Xorlarrin.
+
+Demascus, Riltana, Arathane and Chant and Jaul Morven sailed to Ithimir Isle and fought Chenraya and her minions.  During the battle, Chenraya collapsed the ceiling on Demascus but he was able to escape with the help of Madri.  Unfortunately, the drow were able to transmute the arambarium into a staff and escape.  The group traveled back to Airspur and entered a portal to the Demonweb Pits in the catacombs just as Chenraya was completing a ritual to open a gate to Menzoberranzan.  Demascus interrupted the ritual and grabbed most of the arambarium staff from Chenraya as she entered the gate.
+
+Abilities
+Because he had not recovered his memories from his previous incarnations, Demascus was unsure of all his abilities.  However, he could cloak himself in shadows and shadowstep.  He could also channel angelic power through ordinary swords.
+
+Appearance
+Demascus was tall and slender with pale skin and white hair.  He had ash grey tattoos on his arms, shoulder and back.
+
+Equipment
+Demascus possessed the Veil of Wrath and Knowledge, the magical greatsword Exorcessum, and a scroll-shaped charm that tells truth from falsehood. Past incarnations of Demascus possessed the Whorl of Ioun ring, though it went missing. The veil had many functions—it claimed to be a "filter of Fate" and could communicate on occasion, provide light, information, and could serve as a garrote.  The greatsword stored a variety of different powers in its runes, few of which Demascus recalled. The Whorl of Ioun retained memories he would otherwise forget when he reincarnates. However, the Whorl's store of memories were mostly of Demascus's once-vast abilities; the ring wasn't a deep reservoir of personal memories, and contained only a thick enough thread of remembrances to maintain the Sword of the God's continuity of consciousness.
+
+References
+
+---
+
+## Denial of Resource
+
+Denial of Resource is an adventure module from the RPGA Legacy of the Green Regent campaign.
+
+Plot
+A young red dragon with a lair in the Graypeak Mountains has grown more bold and has attacked the village of Shining Falls. Evidence gathered from Zhentarim emissaries shows that the evil organization is also planning on using it to threaten Loudwater. Kalahar Twohands therefore orders a dragon hunt to curb the potential threat.
+
+Appendix
+External links
+ "Denial of Resource" plot recap
+
+---
+
+## Deep Wilds
+
+The Deep Wilds was a plane in the Astral Sea in the World Axis cosmology model.
+
+Description
+Every type of environment found on Toril was also found in the Deep Wilds, although their counterpart on this plane was much more extreme than that on the Material Plane.
+
+History
+The Deep Wilds were formed in the wake of the Spellplague, being a merging of Fury's Heart and the House of Nature.
+
+Inhabitants
+The Deep Wilds were home to a variety of nature deities including Silvanus, Mielikki, Auril, Malar and Umberlee.  Silvanus ruled the plane as a whole and the other deities who dwelled in the Deep Wilds served him.
+
+Realms
+ Blood Sea, the domain of Umberlee that was wracked constantly by gale force winds.
+ Land of the Hunt, the domain of Malar.
+ Land Under Eternal Ice, the domain of Auril and reputedly the coldest place in any plane of existence.
+ Summeroak, the domain of Silvanus. It laid deep within the heart of a vast woodland of mighty trees.
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Deities & Demigods 1st edition
+
+Deities & Demigods: Cyclopedia of Gods and Heroes from Myth and Legend is a 1-edition Advanced Dungeons & Dragons accessory that details deities and mythologies of Earth.
+
+Description
+Deities & Demigods presents the game statistics and background information for the gods, heroes, and legendary monsters from different mythologies. Deities & Demigods was the first print appearance of various fictional non-human deities, such as Corellon, Moradin, Gruumsh, and others, many of which have become standard features of Dungeons & Dragons and its derivatives. These deities were the creation of James Ward.
+
+The original edition covered 12 pantheons of gods from myth and folklore, plus gods for various nonhumans, and four fictional groups: the Arthurian heroes, Fritz Leiber's Nehwon mythos, Michael Moorcock's Melnibonéan mythos, and H. P. Lovecraft's Cthulhu Mythos. These statistics are presented in a fashion similar to that of the Monster Manual, and the statistics are accompanied by illustrations, as well as a short descriptive piece that details under what circumstances the god will appear, what the god might do if he does appear, and what his responsibilities and penchants may be. The book also details the mythoi of these religions, as well as how their clerics should behave, and describes the known planes of existence and how the afterlife applies to characters.
+
+Later printings of Deities & Demigods, beginning in 1981, removed some material present in the 1980 printings. The Cthulhu and Melnibonéan sections were removed from the 1981 edition, making it a 128-page hardcover. In that form, it is functionally identical to Legends & Lore.
+
+Contents
+ Preface
+ Credits and Acknowledgements
+ Editor's Introduction
+ Explanatory Notes
+ Standard Divine Abilities
+ Dungeon Mastering Divine Beings
+ Clerics and Deities
+ Omens
+ Mortality and Immortality
+ Divine Ascension
+American Indian Mythos
+Arthurian Heroes
+Babylonian Mythos
+Celtic Mythos
+Mesoamerican Mythos
+Chinese Mythos
+Cthulhu Mythos (first and second printings only)
+Egyptian Mythos
+Melnibonéan Mythos (first and second printings only)
+Finnish Mythos
+Greek Mythos and Heroes
+Indian Mythos
+Japanese Mythos
+Nehwon Mythos
+Nonhuman's Deities
+Norse Mythos
+Sumerian Mythos
+ Appendix 1: The Known Planes of Existence
+ Appendix 2: Temple Trappings
+ Appendix 3: Clerical Quick Reference Chart
+ Appendix 4: Further References
+ Index to Proper Names
+
+Index
+Creatures
+
+Deities
+
+Events
+
+Locations
+
+Magic
+
+Gallery
+
+Credits
+ Design: James M. Ward with Robert J. Kuntz
+ Editing: Lawrence Schick
+ Cover Art: Erol Otus
+ Interior Illustrations: Jeff Dee, Erol Otus, Eymoth, Darlene Pekul, Jennell Jaquays, Jim Roslof, David S. LaForce, David C. Sutherland III, Jeff Lanners, D. A. Trampier
+Appendix
+External Links
+
+ The Making and Breaking of Deities & Demigods
+
+References
+
+---
+
+## Deepspawn
+
+Deepspawn  were monstrous aberrations that could birth many other varieties of monsters, known as their "spawn."
+
+Description
+Deepspawn were mottled grey and brown, and looked like rubbery spheres  in diameter. Six arms, each up to  long, projected from their bodies, three of which were tentacle-arms able to wield weapons while another three were jaw-arms, ending in mouths of many teeth. A deepspawn also had over 40 long, retractable, flexible eyestalks, but it extended only three or four at a time, well away from harm.
+
+Abilities
+A deepspawn could birth a copy of any creature native to the Material Plane. To do so, it first needed to devour the creature. It then made an exact "record" of the creature and replicated it using ingredients from the surroundings. If the deepspawn could claim resources from the dead and dying on a battlefield, it could produce a new spawn every three days. Typically, it gathered materials from the wild and could only produce offspring at a much slower rate.
+
+Only an exact duplicate of a creature could be created by a deepspawn, and spawn even retained the learned abilities and dim memories of the original creature. Spawn had an intense, inborn loyalty to their deepspawn "parent" that could not be shaken, even through magic. They were sent away to live on their own unless there was sufficient food in the area to support them. There were typically one to four spawn kept around as general servants.
+
+Personality
+Deepspawn possessed genius intellect, which was paired with an inscrutable worldview that made them quite dangerous. They laired in caves and ruins, often well defended by deadly traps and patrolling spawn. They created spawn to serve and protect them.
+
+Combat
+Deepspawn preferred to fight on their own terms, and would bury themselves for protection and await enemies in easily defended—but also easily escapable—locations. They used all six of their tentacle- and jaw-arms to strike at foes simultaneously, and would wrap their tentacles around enemies to constrict them. They also possessed the innate ability to cast certain spells, including hold monster, detect thoughts, water breathing, and heal.
+
+History
+Over the centuries, the deepspawn fended off attacks by the dwarves, the duergar, the drow, and monstrous beings like aboleths, cloakers, and illithids.
+
+The first to encounter the deepspawn were the dwarves of the Deep Kingdom beneath the eastern Shaar, which swiftly began a long campaign to exterminate or make use of the strange monsters. Circa -9000 DR, the dwarves of Shanatar then engaged in a great civil war in which they made extensive use of soldiers created via deepspawn, leading the conflict to become known as the Spawn Wars.
+
+In the month of Eleasias in the Year of Larks,−183 DR, Darrom Ithal, the first king of Tethyr, was assassinated by the teleportation of a deepspawn directly into his throne room. This had been orchestrated by Amir Tarseth, the king's brother-in-law and leader of Clan Tarseth.
+
+In the, the recently founded town of Hillsfar was nearly destroyed by an army of spawn emerging from the Beast Marches, with the horde only being contained by winter of that year thanks to assistance from Cormanthyr.
+
+During the Tethyrian Interregnum in the mid-14th century DR, a deepspawn known as The One Below laired below the surface of the city of Zazesspur. On Mirtul 3, during a time period known as the Days of Terror, Zaranda Star and her Star Protective Services slew the monster and ended its chaos. It had been allied with the Twisted Rune and a tanar'ri. After that deepspawn's death, a second deepspawn, known as Clusterfang, joined the Rune and took residence under the city in its predecessor's place.
+
+In the mid-14 century DR, the mad wizard Radoc had a deepspawn in his forces that helped him to spawn many mongrelfolks, trolls, and other types of monstrous minions. In 1367 DR, having gotten word that his foe Grintharke had fallen, Radoc took the deepspawn and his other forces to assault Hellgate Keep. During this siege the deepspawn crawled underground and hid itself within an underground cave, close to the Chambers Below. After the siege on Hellgate Keep had failed, that deepspawn remained within this cave, sparingly using its forces against the Keep's ruler, Kaanyr Vhok, and rallying his forces against him. It's actions soon came to the attention of the cambion, who proceeded to engage in many negotiations with the deepspawn that were half-hearted, for neither was willing to be subservient to the other. Some time after the Keep's destruction in 1369 DR, Vhok and his men slew the deepspawn's minions, injured it, and stole its accumulated treasures before caving in its lair. The deepspawn managed to survive this, subsisting off of spiders, worms, and the trolls it would spawn.
+
+During the mid-to-late 14 century DR, a business called Hired Horrors in Skullport began selling deepspawn for ten thousand gold pieces each. This operation was run by a cabal of four wizards—Aurin the Generous, Chantos Graybeard, Ysele the Cat, and Lord Ithvar Wordkiller—who had figured out how to breed the deepspawn. Their operation catered to clientele looking to stock dungeons with monsters, and was capable of transporting deepspawn to anywhere on Toril.
+
+By the 1370s DR, the Zhentarim had begun abducting deepspawn and placing them along the caravan routes used by their merchant rivals.
+
+Rumors & Legends
+Some claimed that a deepspawn dwelled within the jungle of Jundarwood, though throughout Faerûnian history deepspawn were often a source of blame for strange happenings.
+
+Some hunters and sages in the Border Kingdoms voiced suspicion that Bloutarrans had installed a deepspawn within a cave in the forest north of their town as it seemed that those townspeople always came back from a stag hunt with two or more prizes in hand.
+
+Around 1479 DR, it was rumored that the farmer Nars Thormil, who lived near Wheloon in Cormyr, used a deepspawn he had captured to duplicate thimdrors and sell them to the best eateries in Saerloon and other nearby settlements.
+
+Notable Deepspawn
+
+Beautiful Flower, a deepspawn that had been residing in the Crypt of Orbakh in Myth Drannor for centuries by 1369 DR, endlessly spawning creatures inside the tomb creating a mini-ecosystem.
+Clusterfang, a deepspawn who forged an alliance with the Twisted Rune in Calimshan and was active across the Lands of Intrigue during the mid-to-late 14 century DR.
+The One Below, Clusterfang's predecessor in the mid–14 century DR.
+
+Appendix
+
+Appearances
+Adventures
+Hellgate Keep • Pool of Radiance: Attack on Myth Drannor
+Novels
+Obsidian Ridge • War in Tethyr
+
+Gallery
+
+Notes
+
+References
+
+---
+
+## Dethud Tanthul
+
+Dethud Tanthul was a shade necromancer and shadow adept and one of the twelve princes of Thultanthar in the 14 and 15 centuries DR.
+
+Relationships
+His father was High Prince Telamont Tanthul, and he had eleven brothers, the princes of Shade: Aglarel, Brennus, Clariburnus, Escanor, Lamorak, Malath, Mattick, Melegaunt, Rivalen,Vattick, and Yder.
+
+Dethud had two daughters, Manarlume Tanthul and Lelavdra Tanthul.
+
+Personality
+Dethud was taciturn and reserved, more so than any of his brother princes—all in the City of Shade knew him as the quiet one. He hardly ever talked to anyone directly, but when he did talk, he did so with the voice of wisdom.
+
+Activities
+In the royal family of Thultanthar, Dethud settled into a role as a mediator and advisor to his father and fellow princes. Telamont usually placed Dethud in his political and military councils, giving him great influence compared to the other eleven princes. However, they also often came to him for advice with their problems and their feuds with one another. Dethud almost always stayed neutral and gave his incisive analysis and a logical solution. However, he did support Melegaunt's policy of manipulation in order to carry out Telamont's plans for conquering Faerûn circa 1372 DR, at least when someone could get his opinion out of him.
+
+By the late 1400s DR, Dethud headed up the intelligence services of the revived empire of Netheril.
+
+Symbol
+His personal sigil was a stylized black sunburst over a field of pale yellow.
+
+History
+In the, Dethud and the other princes engaged in a spell-battle with Galaeron Nihmedu, Vala Thorsdotter, Aris, Khelben Arunsun, and Laeral Silverhand.
+
+Appendix
+Appearances
+Novels
+Return of the Archwizards: The Sorcerer
+The Sundering: The Herald (mentioned only)
+
+References
+
+---
+
+## Dennis Kauth
+
+Dennis Kauth was a cartographer, game artist, and graphic designer who worked on a number of Forgotten Realms products.
+
+Artist Work
+Dragon Magazine
+ Dragon #100
+
+Cartography Work
+Adventure Modules
+ Bloodstone Pass
+ City of the Spider Queen
+ Desert of Desolation
+ Into the Dragon's Lair
+ Nightmare Keep
+ Reunion
+ Sons of Gruumsh
+Novels
+ The Siege
+ The Sorcerer
+ The Summoning
+Sourcebooks
+ Al-Qadim: Land of Fate
+ Champions of Ruin
+ City of Splendors: Waterdeep
+ City System
+ The Complete Book of Villains
+ Cormanthyr: Empire of the Elves
+ Drizzt Do'Urden's Guide to the Underdark
+ Elves of Evermeet
+ Faiths & Avatars
+ Faiths and Pantheons
+ The Fall of Myth Drannor
+ Libris Mortis
+ Lords of Darkness
+ Lost Empires of Faerûn
+ The North: Guide to the Savage Frontier
+ The Ruins of Undermountain II: The Deep Levels
+ Ruins of Zhentil Keep
+ Sandstorm
+ The Savage Frontier
+ Serpent Kingdoms
+ Silver Marches
+ The Astromundi Cluster
+ Unapproachable East
+ The Vilhon Reach
+
+Appendix
+
+Further Reading
+
+References
+
+---
+
+## Dean Poisso
+
+Dean Poisso is a game designer.
+
+Works
+
+Dragon magazine
+ "The Return of the Sha'ir", Dragon magazine 315 (January 2004)
+ "Prestige Classes of Al-Qadim: Champions of Fate", Dragon magazine 321 (July 2004)
+
+---
+
+## Deara
+
+Deara was a priestess of Deneir at the temple of Deneir in the city of Procampur in the Vast in the early 1360s DR.
+
+Deara desired to create the perfect scribe, and so in the temple's vaults she sculpted and animated a clay golem. In one particular test, circa 1362 DR, the golem drove a quill through a wooden writing desk, smashing it in the process. Thereafter, the golem was put to work as a guard and porter in the temple's main hall.
+
+References
+
+---
+
+## Demonflesh golem
+
+Demonflesh golems were similar to flesh golems, but were created from the remains of demons.
+
+Description
+These golems were always chaotic evil. Many of them were built with the remains of fiends slain during the Blood War, as thus were often found in the Nine Hells.
+
+History
+The earliest known example of a demonflesh golem was built from the remains of a demon named Llargash, who was defeated in the Blood War by a powerful devil named Maligothez. Maligothez stripped the flesh from Llargash's corpse, and, after some alchemical experimentation, grafted the flesh to the skeleton of a troll and reanimated the resulting monstrosity.
+
+Maligothez was ultimately slain by rival devils, but his creation outlived him, and managed to take revenge against many of its masters attackers. Since that time, the creation of demonflesh golems had become something of a perverse sport amongst many inhabitants of the Nine Hells.
+
+Appendix
+See Also
+ Fiendish flesh golem''
+
+Appearances
+
+Gallery
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Dermont
+
+Dermont was the name of a prominent family in the hamlet of Sevenecho in the Vast in the 1360s DR.
+
+History
+As one of the more prominent families, the Dermonts contributed a member to the council of elders that governed Sevenecho, around 1369 DR.
+
+Appendix
+Appearances
+Magazines
+Dungeon magazine 75
+
+References
+
+---
+
+## Dead Tree Hollow
+
+Dead Tree Hollow was a village in the Vast.
+
+Geography
+It lay on the North Road between Dragon Falls and Swords Pool, where Blaern's Trail from Fallentree met the North Road.
+
+History
+A very long time before the 14 century DR, but still within elven memory, the flying carriage of Lady Alauthshaee was attacked by Ilthuryn, her scorned suitor, with his spells. It supposedly crashed to earth within Dead Tree Hollow and Alauthshaee and her guards were subsequently buried alive. A side-effect of Ilthuryn's magic was to render the entire valley a dead-magic zone.
+
+The valley was once a camping spot for travelers on the North Road as they crossed the High Country.
+
+For many years, it was the site of an ancient and gnarled oak tree, so huge that its trunk was as wide as a regular cottage. It was also hollow and a druid once lived within, until a voracious dragon (thought to be Halarglautha) burned the tree and forced him out.
+
+The location subsequently developed into the village known as Dead Tree Hollow by the late 14 century DR.
+
+In the, the village was ravaged by a wandering band of minotaurs who swept through as they passed. Most survivors moved to Ravens Bluff, with known members being the future Lord Magistrate Tordon Sureblade, his half-brother Guildmaster Thorm Sureblade and their father Wilhelm Sureblade. Thorm especially gathered the survivors to ambush and revenge against these minotaurs as a great loss and Thorm's right eye.
+
+Description
+Dead Tree Hollow was a small valley that contained a number of ponds and wooded areas. It contained a small and sleepy village.
+
+It was famous for its fern-frond soup and fiddlehead soup (when it was in season), as well as its exotic mushrooms that gourmets all around the Dragon Reach clamored for.
+
+However, the entire valley was a dead-magic zone, apparently a result of Ilthuryn's spells.
+
+Notable Locations
+The Blue Stallion was an inn in Dead Tree Hollow. There was also a first-rate wagonworks.
+
+A local landmark was the ancient and enormous oak tree; once it was a druid's home, but after being burned down, it was little more than a rotten stump by 1370 DR.
+
+Rumors & Legends
+The flying carriage of Lady Alauthshaee, and the great treasures within, was thought to be buried or sunk in a pond somewhere in Dead Tree Hollow. It also possibly still contained the bodies of Alauthshaee and her guards. Adventurers occasionally came to search the valley for it.
+
+Appendix
+References
+
+---
+
+## Deskyr Thanterim
+
+Deskyr Thanterim was the son of Hersir Thanterim and was the only member of the Thanterim family still alive by 1479. One item Deskyr did have in his possession was the key to the family vaults.
+
+Appearance
+Deskyr owned expensive clothes, but the only jewelry he had was a golden signet ring. He kept a well-groomed beard while atop his head was short brown hair.
+
+References
+
+---
+
+## Despayr
+
+Despayr was a black dragon that was unusual in a number of ways. He was born covered in glowing purple runes, could not breathe acid, and lacked the ability to cast spells like others of his kind.
+
+Relationships
+Despayr was the spawn of Skurge, the great dragon of the Tun Marshes, and the clutchmate of Tyra. Through Skurge, both Despayr and Tyra were direct descendants of the mighty Thauglorimorgorus, the Black Doom, who once ruled the entire land of Cormyr. Despayr's father was unknown, but was reputed to be a black dragon living in the jungles of Chult.
+
+History
+
+Marked from birth with strange runes by Shar, Despayr was quickly ostracized by both his mother Skurge and sister Tyra. The young dragon was forced to live a solitary existence until he received a shadowy vision teaching him to turn the curse of his birth into a powerful tool.
+
+Both Despayr and Tyra made their lairs in the Vast Swamp. When they began to raid outside its edges by 1367 DR, several adventuring companies made expeditions into the swamp with the aim of slaying the dragons and/or stealing their treasure hoard. However, most disappeared, few returned unharmed, and none were successful.
+
+Despayr took up the offer of the visions and began to follow Shar's will. With the visions as his guide, he eventually learned to breathe a cloud of shadowstuff consisting of many dark shards. Additionally, he learned of his potential to create a tear in the Weave. As he followed these visions, he gained in power and abilities. Soon his visions shared with him his sister's fate at the hands of the Dragonslayer tribe of lizardfolk, a tribe he swiftly defeated and enslaved when he settled into Tyra's unguarded lair.
+
+Not long after this, Despayr was met by Esvele Greycastle, who, after easily rebuffing his attempts to destroy her, did not slay him, but revealed to him Shar's hand in the visions he had been following. Pulling a shadow shard from Despayr's newly gained hoard, Esvele schooled the dragon in the artifact's use and how to use the shard to transform creatures into shadowslain. With this new knowledge, Despayr accepted Esvele's plan to use him and the shadow shard to tear a hole in the Weave of magic. While bringing much of the Vast Swamp under his control, Despayr discovered the Lost Refuge containing the Dusk Lord's Passage and, using the portal, relocated his lair to the Black Rift on the Plane of Shadow.
+
+Description
+Despayr looked much like other black dragons of his age, bearing the distinctive curling horns and dark scales of its kin. However, Despayr was marked with numerous purple glowing runes all over his body. These markings were supposedly a gift from Shar that marked even the interior surface of the egg he hatched from.
+
+Abilities
+Despayr had a unique ability to expel a gout of shadowy shards instead of the usual acid of other black dragons. These shards would open dry wounds over a person's body and sap life from them. Additionally, as part of his marked birth, Despayr was unable to cast spells.
+
+Appendix
+Notes
+
+Discrepancies
+In Dragons of Faerûn, a dragon also by the name of Despayr is listed in the Roll Call of Dragons as an Old female black dragon living in the Vast Swamp. However, considering Cormyr: The Tearing of the Weave is the more recent source, it is considered to be an update to the former info.
+
+Despayr's first mention was in Elminster's Ecologies: The Cormyrean Marshes but there he is presented as a standard juvenile black dragon.
+
+Appearances
+Adventures
+ Cormyr: The Tearing of the Weave
+
+References
+
+---
+
+## Dendritic crystal armor
+
+Dendritic crystal armor was heavy armor made by dwarves from dendritic seed crystals grown deep underground.
+
+Description
+It was not forged in fire and was tailored specifically to each wearer, leaving almost no gaps, but was heavier and more cumbersome than plate mail.
+
+Powers
+The armor grew back to its original shape if damaged, provided there was at least 5 pounds (2.5 kilograms) remaining, in a maximum of eight hours. It could not be removed except by breaking one's way out.
+
+Appendix
+
+References
+
+---
+
+## Deepwash
+
+The Deepwash was a freshwater lake and, as of 1370–1372 DR, the largest lake in the Vilhon Reach. The northwestern stretch was known as Shalane Lake in Erlkazar.
+
+Geography
+Deepwash lake was almost as deep as Lake Esmel in Amn. It was filled by tributaries from the Cloven Mountains (such as Arglander River) and the Deepwing Mountains, and by Shalane River flowing from the icecold Impresk Lake. The lake's main outlet was the Wintercloak River. The Deepwash was known to be filled with fish. Fishing was safest in the Shalane Lake region, because a huge dragon turtle residing in the Deepwash did not enter those waters as often.
+
+The Shalane Lake stretch formed part of the eastern border of the barony of Shalanar in Erlkazar, and the whole of the lake served as the northern border of Ahlarkhem.
+
+Inhabitants
+The lake was very deep and was home to a very large dragon turtle, with a shell 30 feet (10 meters) in diameter, who resided near the lizardfolk city of Surkh. In Surkh, the dragon turtle was highly respected, and some even worshiped it, believing it to be an honor to be killed and eaten by it. The turtle was large enough to capsize ships and had a very high intelligence.
+
+Notable Locations
+ Duhlnarim  This was a major port city of the barony of Ahlarkhem.
+ Elhimar's Tower  This tower was at the bottom of Shalane Lake, surrounded by a magical field.
+ Llorbauth  This city was the capital of Erlkazar and a major trade port on the lake.
+ Lost Lovers' Pool  This pool resided within a coastal cave.
+ The Mystics' Academy  This was the school of Gamalon Idogyr.
+ Shalane  This fishing town had a superb shipbuilding industry.
+ Surkh  A small city of lizardfolk on the northern shore.
+
+Appendix
+Appearances
+
+References
+
+FR:Bain profond
+Connections
+
+---
+
+## Deep King
+
+Deep King was a title used by a dwarven ruler, equivalent to a king.
+
+History
+The dwarven kingdom of Roldilar, founded in 610 DR, was ruled by Deep King Tuir Stonebeard. It dominated the lands of the Vast, below and aboveground. As Roldilar fell in 649 DR, Tuir was the last deep king whose dominion spread over the surface, and the last to be well known there.
+
+References
+
+---
+
+## Demiplane of Nightmares
+
+The Demiplane of Nightmares was a horrific demiplane inhabited by creatures that looked like monsters out of nightmares.
+
+Description
+The Demiplane of Nightmares was a strange place of strange angles and stranger geometry that seemed unsettling, even repulsive, to people from the Material plane.
+
+The Demiplane of Nightmares was variously described to be either an independent demiplane in the Ethereal plane, or a demiplane located coterminously with both the Region of Dreams and the Ethereal Plane. Either way, the boundary between the Demiplane and the Far Realm was extremely thin and the taint of the latter constantly seeped into the Demiplane, corrupting it.
+
+Inhabitants
+Creatures known to inhabit the Demiplane of Nightmares included neh-thalggu, diaboli, feyrs, nagpas, and maelephants. Of these, only the diaboli were actually native to the demiplane. The diaboli occupied the same niche on the Demiplane of Nightmares that humans did on the Material Plane. Malferas were a native predator of the demiplane.
+
+The creatures that lived in the Demiplane of Nightmares were horrific beings to the eyes of most people. It was said that they saw creatures from the Material plane in much the same way, and certainly the diaboli instinctively feared humans and other humanoids.
+
+History
+In, Netherese arcanists emigrated to the Demiplane of Nightmares, where the energies infusing the plane twisted their descendants until they evolved into the Night Parade.
+
+Around and prior to the year, members of the Night Parade opened portals back to the Realms, where they began infiltrating cities such as Calimport.
+
+Rumors & Legends
+Some claimed that the dark powers must have pulled part of the Demiplane of Nightmare into the Demiplane of Dread to create an even more terrifying expanse in that place.
+
+References
+
+---
+
+## Deeping
+
+The Deeping was a stream in the Cormanthor forest.
+
+Wildlife
+The waters of the Deeping ran clear and was home to a large number of bass and catfish. In the western section of the Deeping, Deeping shrimp spawned and were fished by halflings who used special trawling nets of tightly woven mesh combined with wooden boards that floated on the surface.
+
+Appendix
+Appearances
+Elminster's Ecologies
+
+References
+
+---
+
+## Devastate undead
+
+Devastate undead, also known as disrupt undead, was an arcane necromancy spell that sapped undead of their negative energy and destroyed them.
+
+Effects
+The spellcaster fired a beam at a number of undead targets and destroyed them in a manner similar to the power of a disruption weapon. A particularly resilient undead could resist or even be unaffected by the spell. A living being was immune to its effect.
+
+The spell had a secondary effect of channeling negative energy from a damaged or destroyed undead back to the caster. This could either hurt the caster (if they were alive) or heal the caster (if they were undead themselves).
+
+Components
+The spell required a disruption weapon of any kind as a focus.
+
+History
+The devastate undead spell was developed by the arch-lich Larloch. He used it to heal himself by sacrificing his undead servant creatures. He could even potentially use it to permanently boost his unlife force.
+
+Appendix
+Notes
+This spell was originally entitled disrupt undead and appeared in Volo's Guide to the Sword Coast for 2 edition. However, this name was later given to a somewhat similar but much less powerful spell, disrupt undead, in 3 edition. Lords of Darkness later presented a very similar spell with the name devastate undead for 3 edition, also from Larloch, clearly intended to be the same as the original spell. The later title is used here to limit confusion.
+
+Appearances
+
+References
+
+---
+
+## Demarch's Alliance
+
+Demarch's Alliance was a spellcasting organization based in the Halls of Demarch in the city of Tantras in the Vast in north Faerûn. It comprised a number of beguilers devoted to Leira and Mask.
+
+Activities
+The beguilers of Demarch's Alliance were used by the high priests of both Leira and Mask to maintain their deceptions and so conceal and protect the knowledge of their faiths.
+
+Base
+The members of Demarch's Alliance were based in the Halls of Demarch, a hidden guildhall beneath the city of Tantras.
+
+History
+Like other churches devoted to keeping secrets, the churches of Leira and Mask selected young children with sorcerous magical potential and raised them within the priesthood. They were trained to focus on illusion and enchantment magic, and became specialized mages known as beguilers. They also learned their deepest secrets of the church.
+
+The beguilers of Leira and Mask allied in a single organization, known as Demarch's Alliance. The identity of "Demarch", whether a person or a thing, remained unknown to outsiders, and members refused to explain. One possibility is that a "demarch" is a male specialty priest of Mask, appearing on pages 110 and 111 of Faiths & Avatars.
+
+But shortly after the Time of Troubles of the Year of Shadows, 1358 DR, Mask betrayed Leira, helping Cyric murder her while he took the form of the sword Godsbane that Cyric wielded. Demarch's Alliance was broken and the two factions fought the vicious Battle of Demarch's Fall in the Halls of Demarch, leaving many dead and their former base infested with undead, shrouded in mist and the site of a rift to the Plane of Shadow.
+
+The survivors fled across Faerûn, living in fear of revenge attacks and church agents seeking to learn or maintain their secrets, most never coming back. A few friendly ex-members, however, returned to the Halls of Demarch, believing the safest place to hide was the last place they were expected. Seeking a more solid form of magic for their protection, they discovered shadow magic and reformed into the Demarch's Folly organization.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Demarch's Folly
+
+Demarch's Folly was a spellcasting organization based in the Halls of Demarch in the city of Tantras in the Vast in north Faerûn. Its members were dedicated to learning shadow magic and other shadow-based magics, such as the Shadow Weave.
+
+History
+Originally, Demarch's Alliance was a group of beguilers devoted to Leira and Mask. But shortly after the Time of Troubles of the Year of Shadows, 1358 DR, Mask betrayed Leira, and Demarch's Alliance was broken. The two factions fought the vicious Battle of Demarch's Fall in the Halls of Demarch, leaving many dead and their former base infested with undead, shrouded in mist, and the site of a rift to the Plane of Shadow.
+
+The survivors fled across Faerûn, living in fear of revenge attacks and church agents seeking to learn or maintain their secrets, most never coming back. A few friendly ex-members, however, returned to the Halls of Demarch, believing the safest place to hide was the last place they were expected. They took the name Demarch's Folly.
+
+They also sought a more solid and direct form of magical power than illusions for their protection. Ironically, they found it in their very own halls. The rift to the Plane of Shadow had deposited a number of magic items and the tome of Suelivain. From the tome, they learned the fundamentals of shadow magic. Later, they began seeking out beings mentioned in the tome and finding other works about shadow magic, and dedicating themselves and Demarch's Folly to its mastery.
+
+They tracked down Suelivain, a shade of the City of Shade and a shadowcaster, and returned his tome and other possessions in exchange for training in the ways of shadow magic. Suelivain accepted and joined Demarch's Folly in the role of mentor and leader. He educated them in the differences between shadow magic and Shadow Weave magic.
+
+Growing curious in the Shadow Weave as well, Demarch's Folly sought out a user of both, finding Zezania Tarth-Kelet, a priestess of Shar. Zezania also joined to offer guidance.
+
+The members of Demarch's Folly continued their search for shadow magic into 1374 DR.
+
+Organization
+Demarch's Folly was an arcane guild. It consisted of and accepted new members who had some shadow-based powers, such as shadowcasters, users of Shadow Weave magic, shadowcrafters, and shadowdancers, or were of races innately connected to shadow, like shades, illumians, and half–shadow dragons. Members were also required to have a good deal of knowledge about the arcane arts, religion, the planes, and/or history.
+
+Members were required to pay dues to Demarch's Folly, equal to a 10% tithe of their earnings.
+
+The guild was led by Suelivain, who also served as a mentor. Zezania Tarth-Kelet also provided guidance.
+
+Activities
+The members of Demarch's Folly journeyed the world in search of information about shadow magic and all forms of shadow powers. They sought fragments of knowledge, people who knew about these things, and relics or magic items. They offered their services in exchange for information and training, and usually dealt fairly with those who had what they needed. Although a number of its members were evil, they only occasionally resorted to theft or intimidation.
+
+Base
+The members of Demarch's Folly were based in the Halls of Demarch, a hidden guildhall beneath the city of Tantras.
+
+References
+
+---
+
+## Dead Rats
+
+The Dead Rats were a street gang operating in Luskan and Neverwinter on the northern Sword Coast. The Dead Rats were loosely allied with the Coin Spinners gang.
+
+Membership
+The gang was most notable for having a large number of wererats within their ranks. In Neverwinter, they recruited lowlifes and infected them with their lycanthropy to ensure loyalty. Most members were also infected with filth fever.
+
+Headquarters
+In Luskan, the gang was based in the Drowned Rat tavern. This branch was notorious throughout northern Faerûn.
+
+In Neverwinter, the gang did not establish a formal headquarters, instead operating out of a lair in the sewers of the Blacklake District.
+
+History
+Before 1479 DR, the gang's leader, Toytere, sent Rsolk to Neverwinter to establish a branch of the gang in the Jewel of the North. The Neverwintan Dead Rats claimed they left Luskan after a falling out split the gang. After the death of Cymril, the Dead Rats joined forces with the Nashers to depose Dagult Neverember; however, Rsolk's true objective was to eliminate the Nashers, whom he saw as rivals to the Dead Rats. The Dead Rats aided the Nashers in smuggling supplies into Blacklake District. Then, in the, the Dead Rats kidnapped Nasher thief Gothwan Cooper in order to bargain his life for the stolen Crown of Neverwinter, which they wanted for themselves. However, the Nashers' leaders had no interest in saving Gothwan's life but also didn't want to lose them allies or gain them as enemies, and simply ignored them and Gothwan. Instead, Private Hawthidon Faalwun sent an adventurer to raid a Dead Rats lair to retrieve Gothwan, and seemingly wiped out the cell.
+
+In 1480 DR, the gang conspired to kidnap the young mage Myrin Darkdance and turn her over to the leader of the Coin Spinners, Eden of the Clearlight. The gang managed to capture Myrin and placated her by making her think that she was the queen of the gang. Myrin was content with this arrangement, as long as she could put the gang to use improving the lives of the people of Luskan. Kalen Dren stayed at the Dead Rats' tavern during this time.
+
+Shortly after capturing Myrin, Kalen Dren succeeded in subduing most of Luskan and called a public assembly to choose a King of Luskan. The assembly broke into a melee and the demon Scour attacked the assembled gangs. The Dead Rats suffered heavy losses, including that of their leader, Toytere, and many members went over to the Coin Spinners.
+
+Notable Members
+ Toytere, leader of the gang, until his death in 1480 DR
+ Sithe, genasi enforcer
+ Rsolk, leader of the Neverwinter branch, as of 1479 DR
+ Varin Chalgash, defender of the Blacklake Sewers cell in 1479 DR
+ Fleabottom, leader of the Blacklake Sewers cell in 1479 DR
+ Titus Minton, leader of the Luskan gang around 1487 DR
+
+Appendix
+Appearances
+Adventures
+Lost Crown of Neverwinter • Storm over Neverwinter
+Novels
+Shadowbane • Cold Steel and Secrets
+Games
+ • Sword Coast Legends
+
+References
+
+---
+
+## Deadly Homecomings
+
+Deadly Homecomings was a traditional dance in the Dalelands and had its roots in a time of constant warfare.  The dancers kept a careful eye on each other and the dance movements resembled violence.
 
 References
 
@@ -1529,6 +5220,570 @@ FR:Delzimmer
 
 ---
 
+## Derid Kendrick
+
+King Derid Kendrick was the ruler of Alaron, as well as the nominal High King of all the Moonshae Isles in the late 15 century DR. He hoped to reassert his authority over the entire archipelago.
+
+Activities
+While House Kendrick had once ruled over the whole of the United Moonshae Isles, King Derid's reign saw his control dwindle to just the realms of Callidyrr and Gnarhelm on the island of Alaron.
+
+He resided within his stronghold at Caer Callidyrr, and the dire condition of his realm meant that he was always in need of fearless adventurers willing to offer their services. Only those adventurers who proved their ability and their loyalty were permitted to meet with the king directly.
+
+As High King, he had a special retinue of knights known as the Callidyrr dragoons, who served him directly as guards, diplomats, spies, and elite warriors. They were trusted enough to issue proclamations on his behalf.
+
+Relationships
+His youngest son was Prince Owaren, and his daughter was Princess Tarilyn.
+
+Although his power was diminished, he still commanded the respect of most Ffolk and Northlanders in the Moonshaes, including scattered pockets on the recently seceded Norland as well as many of the escaped Ffolk slaves living under fey control on Gwynneth. In other cases, humans living in lands that his family had lost (such as tgose living under oppression on Gwynneth or Snowdown) saw the king as ineffectual and cowardly for failing to intervene on their behalf.
+
+Despite having a strained relationship with the leShay of Sarifal, Derid maintained friendly contact with the ruler of Sarifal's Llewyrr elves, the Serene Matriarch Ate`Niah.
+
+History
+High King Derid's reign saw his people and his troops steadily withdraw to his capital and the surrounding lands as threats mounted from all sides, notably the Storm Maiden in the north, Amnian mercenaries from the south, and evil fey led by Great Gark on his doorstep. His reign saw one of the most turbulent times in the Moonsahes since the rise of House Kendrick over a century prior.
+
+In the late 1470s DR, he expressed interest in supporting a rebel organization in Sarifal, known as the Winterglen Claw, in their fight against the ruling High Lady Ordalf. In exchange for weapons and supplies, he required the rebels to swear fealty to him. This message was to be delivered to the rebels by Derid's cousin, Lord Aldon, but schemes and spies among the various Kendrick family members resulted in this mission being betrayed and ending in failure.
+
+Meanwhile, the Ffolk of Moray continued to be loyal to House Kendrick but the danger posed by the Black Blood tribe of lycanthropes demanded a contingent of soldiers be stationed at Caer Moray to maintain the High King's claim to the isle. Derid was known to have druid spies in the lycanthropes' ranks, such as Einar Stormsson and Eleuthra Davos, who used their ability to transform into beasts as a trick to pass as werewolves.
+
+King Derid's tenuous position as High King’s of the Moonshaes was further weakened by the decision of Jarl Rault the Wise of Norland to declare independence from Kendrick rule.
+
+As of, he aspired to return his family's holdings to the heights they had seen under High Queen Alicia Kendrick, but it was clear that accomplishing this goal would require great sacrifices. His first priority was to reconquer all of Alaron, starting with the Dernall Forest. At the same time, retaking Amnian occupied Snowdown was a critical objective, however his efforts were halted when the Amnian viceroy, Lady Erliza Daressin, took his young son Owaren as a hostage. Amidst the struggles on these fronts, he attempted to reach out diplomatically to Prince Araithe of Sarifal, son of High Lady Ordalf, hoping to establish an embassy at the ruins of his family's ancient seat of Caer Corwell, which he had made a vow to reclaim. He offered his daughter, Tarilyn, in marriage to the fey prince, who invited her to come live in Karador.
+
+As of, he was still unable to obtain permission from High Lady Ordalf of Sarifal for his embassy. By this time, he also hoped to foster an alliance with the dwarven clans of Rookoath and Rustfire in the Fairheight Mountains, but was frequently rejected, and he expressed interest in reclaiming the old settlement of Iron Keep on Oman's Isle.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Decastave
+
+Decastave was an evocation/conjuration spell that converted a small piece of wood into a force-staff that could be wielded as a magic weapon.
+
+Effects
+The magical pole was of fixed length, 8'-10' (2.4 m - 3 m) long 2" (5 cm) in diameter, and rigidly inflexible. It could be wielded like a quarterstaff, possessed the thundering quality and could damage creatures immune to non-magical weapons. The decastave could be dissipated in a few ways:
+ The wizard let go of it intentionally or accidentally.
+ It was pulled from the wizard's grasp by one or more opponents exerting sufficient strength in a united effort.
+ It was cleaved by metal.
+ The spell's duration was exceeded.
+
+Once per casting of this spell, the wizard could elect to drain a small amount of health upon a successful hit. The health was transferred to the wizard similar to a vampiric touch but could not increase health beyond normal capacity.
+
+Components
+This spell required verbal and somatic components, and a small piece of wood that was consumed by the casting. A later version of this spell specified a wand of duskwood as the material component.
+
+History
+This spell was generally well-known around Faerûn once it had been published in the book, Volo's Guide to All Things Magical, in 1359 DR.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Deft strike
+
+Deft strike was a rogue exploit that gave a better chance to hit by out-maneuvering an opponent.
+
+References
+
+---
+
+## Defensive harmony
+
+Defensive harmony was an enchantment spell that allowed two or more creatures to instinctively coordinate attacks and defenses, giving a mutual defensive benefit.
+
+Appendix
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Delay poison
+
+Delay poison, also known as slow poison, was a necromancy or conjuration spell that delayed the onset time of a poison already in a creature's system or granted immunity to poison until the spell ended. This spell gave a victim more time to find a cure.
+
+Effects
+This spell lasted for three hours for beginning spellcasters and even longer for more experienced casters. No damage was healed by this spell, so a victim that was already injured by poison remained that way. For the earliest version of this spell, the victim continued to slowly lose health until they were at death's door and then stabilized. Newer versions prevented further loss of health while the spell was in effect. Once the spell expired, any poisons still left in the victim's system continued their assault on the body.
+
+The earliest version of this spell was said to be able to bring victims back from the dead if it was cast within minutes (even an hour or two for very high-level priests) of death by poison.
+
+Components
+The components for this spell varied over the years. All versions had verbal and somatic components which included touching the victim. The earliest version also required a bud of garlic to be crushed and applied to the victim's bare feet. A later version required the garlic to be smeared into the poison-introducing wound, or swallowed if the poison was administered by ingestion. The newest version of this spell did away with the garlic and was able to use the priest's holy symbol as a focus instead.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Detect evil
+
+Detect evil was a divination spell that provided information about objects or creatures with an evil aura. Some versions of this spell were reversible, becoming detect good, and operated in the same manner but for good auras instead.
+
+Effects
+There have been a few different versions of this spell over the years, but they all worked in about the same way: the caster concentrated in a particular direction and learned about any creatures or objects that radiated evil in the direction viewed.
+
+The newer, cleric-only version of this spell had a cone-shaped area of effect and a range of . Auras could be detected even with some interposing structures or surfaces, within limits. Anything less than  of dirt or wood,  of stone, or  of common metal could be penetrated, but a thin sheet of lead was proof against this divination. Upon first casting this spell and concentrating for a few seconds, the presence or absence of evil could be known. After a few seconds more, the most powerful aura was easily detected and a count of all detectable auras was possible. Upon further examination, the caster would know the power and location of each detectable aura, or at least their direction if out of the line of sight.
+
+After gleaning all that could be perceived in one direction, the caster could turn and look in another direction, subject to the duration of the spell.
+
+Auras were described by their strength, being dim, faint, moderate, strong, or overwhelming. Dim auras were those left behind after the death of an evil creature or the expiration of an evil spell, or perhaps after an active evil presence departed the area, and they lasted for a few seconds to a few days depending on the strength of the original aura. Active auras ranged from faint to overwhelming. Casters of good alignment could be stunned for a few seconds by detecting a sufficiently overwhelming evil aura. If this happened, the spell was canceled.
+
+Examples of things that gave off an evil aura: evil creatures such as rakshasa, undead, clerics of evil deities, evil outsiders, evil magic items, evilly cursed objects, unholy water. Things that did not give off an evil aura: traps, poisons, animals.
+
+The older versions of detect evil had a corridor-shaped area of effect, with the divine version having a range of  and the arcane version half that. Priests also had a slight chance of perceiving the disposition (malignant, gloating, or expectant, for example) of an evil aura and where it stood on the lawful/neutral/chaotic spectrum.
+
+Components
+All divine versions of this spell required verbal and somatic components plus the use of the priest's holy symbol or divine focus. The arcane version did not need any materials. All versions required the caster to stand quietly still and concentrate after the spell was cast.
+
+History
+The arcane version of this spell was invented by Netherese arcanist Trebbe in  under the name Trebbe's scry evil.
+
+Reputation
+Some, such as Tethyr's Queen Zaranda Rhindaun, believed that the use of this spell—and others like it—was an offensive invasion of privacy.
+
+Appendix
+See Also
+ Detect chaos
+ Detect good
+ Detect law
+Notes
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Detect good
+
+Detect good was a divination spell that provided information about objects or creatures with a good aura. Some versions of this spell were reversible, becoming detect evil, and operated in the same manner but for evil auras instead.
+
+Effects
+This spell functioned exactly like detect evil except it detected good auras from paladins, good clerics, spells, magic items, etc. Just as poison did not show up as evil, beneficial potions did not register as good.
+
+History
+The arcane version of the detect evil/detect good spell was invented by Netherese arcanist Trebbe in  under the name Trebbe's scry evil/Trebbe's scry good.Only the primary form is named in the source. The name of the reversed form, Trebbe's scry good, is chosen in analogy.
+
+Appendix
+See Also
+ Detect chaos
+ Detect law
+ Detect evil
+Notes
+
+References
+
+---
+
+## Detect law
+
+Detect law was a divination spell that provided information about objects or creatures with a lawful aura.
+
+Effects
+This spell functioned exactly like detect evil except it detected lawful auras from paladins, lawful clerics, spells, magic items, etc.
+
+Appendix
+See Also
+ Detect Chaos
+ Detect Good
+ Detect Evil
+Appearances
+Adventures
+Shadowdale: The Scouring of the Land
+References
+
+---
+
+## Detect chaos
+
+Detect chaos was a divination spell that provided information about objects or creatures with a chaotic aura.
+
+Effects
+This spell functioned exactly like detect evil except it detected chaotic auras from demons, chaotic clerics, spells, magic items, etc.
+
+Appendix
+See Also
+ Detect Law
+ Detect Good
+ Detect Evil
+Appearances
+Adventures
+Shadowdale: The Scouring of the Land
+References
+
+---
+
+## Detect snares and pits
+
+Detect snares and pits was a divination spell that made the caster aware of pits, deadfalls, and snares in a chosen direction.
+
+Effects
+This spell could detect terrain hazards, creature hazards, and even magical hazards as long as they were not mechanically complex and resembled pits, deadfalls, or snares. Sinkholes, trapdoor spiders, ant lions, hunting snares, quicksand, unstable rock walls, trip and snare spells, and spike/spear/crossbow traps and the like were all detectable by this spell. The caster experienced a premonition of danger when facing a hazard, which increased as he or she closed the distance. The older version of detect snares and pits divined in a corridor  by .
+
+The newer version had a cone-shaped area of effect that extended  from the caster. The newer version also revealed more information the longer the caster concentrated in a particular direction. Not only the presence of hazards, but their number and location (if within line of sight), and finally the type of one hazard and its triggering mechanism or conditions could be determined. Other hazards could be scrutinized in turn as long as the spell remained active.
+
+This spell could penetrate barriers, but  of stone,  of common metal, a thin sheet of lead, or  of wood or dirt would block it.
+
+Components
+All versions of this spell required verbal and somatic components. The older versions of this spell also required the caster's holy symbol or mistletoe.
+
+Appendix
+See Also
+ Trip
+ Snare
+Appearances
+
+References
+
+---
+
+## Deep slumber
+
+Deep slumber was an improved version of sleep that affected more creatures and/or tougher creatures.
+
+Users
+Typically an arcane spell, it was also used by some clerics of the derro god Diirinka and the elven goddess Sehanine Moonbow.
+
+Effects
+This spell could only be cast at close range (unlike sleep, which had a medium range) but it could affect more creatures caught in the 10-foot (3-meter) radius burst and potentially tougher creatures as well. Like sleep, the smallest and weakest creatures succumbed first and then the larger/tougher creatures if there was enough magical energy left in the spell. For creatures of equivalent size/toughness, the ones closest to the center of the effect were enchanted first. If any creature resisted this spell, they were unaffected. Those that did not resist fell asleep for a number of minutes equal to the experience level of the caster.
+
+This spell had no effect on undead, constructs, or creatures already unconscious.
+
+Components
+In addition to verbal and somatic components, this spell required a few rose petals, a live cricket, or a pinch of fine-grained sand.
+
+Appendix
+See Also
+ Symbol of sleep
+ Yawn
+Appearances
+
+References
+
+---
+
+## Deeper darkness
+
+Deeper darkness  was an improved version of darkness that could last for days and covered a bigger area. Assassins of the Realms were known to wield the deeper darkness spell.
+
+Appendix
+
+See Also
+ Continual darkness
+
+References
+
+---
+
+## Delmarin Island
+
+Delmarin Island was a small, remote, and desolate island located in the Sea of Swords west of Orlumbor, somewhat north of Mintarn, and east of the Korinn Archipelago. It was surrounded by perilous reefs. It was inhabited by fog giants.
+
+References
+
+---
+
+## Desai
+
+The Desai were a Bedine tribe located in Anauroch. By 1468 DR, they were nominally under the rule of Netheril.
+
+History
+On the Spring Equinox (Ches 19) in 1463 DR, Ruqiah (the reincarnated Catti-brie) was born to Kavita and Niraj of the Desai tribe. In 1468 DR, the Shadovar agents Untaris and Alpirs De'Noutess attempted to kidnap her on behalf of Parise Ulfbinder, but Ruqiah killed them with her divine magic. Soon after, Ruqiah was forced to flee the tribe but returned regularly to gain magical training from her parents.
+
+In 1468 DR, a Desai encampment of tents was located at the remains of the ancient city Rasileth.
+
+Culture
+Like other Bedine tribes, the Desai were forbidden to practice magic, but some (namely Kavita and Niraj) secretly did so anyway.
+
+A typical outfit of a Desai man was a round, white cotton garment set with a large button and tassel. Like other Bedine, a Desai man wore a kufiya headscarf and an igal tie that spoke of their stature in the tribe.
+
+The Desai's primary gods were N'asr, god of the dead, and At'ar the Merciless, the Yellow Goddess of the desert.
+
+The discovery of a wellspring in the desert was celebrated all night long.
+
+Notable members
+ Ruqiah (Catti-brie), Chosen of Mielikki.
+ Niraj, Ruqiah's father, who was a strong and respected man who was secretly trained in magic.
+ Kavita, Ruqiah's mother, who secretly practiced magic.
+ Jhinjab, a man who informed the Shadovar about Ruqiah's magic.
+ Tahnood Dubujeb, leader of the Desai child gang in 1468 DR.
+
+Appearances
+Novels
+ The Companions
+
+References
+
+---
+
+## Dernovia
+
+Dernovia was a village in Rashemen.
+
+Geography
+Dernovia was located not far from the shores of Lake Ashane. Other geographical features in the vicinity were Snowcat Mountain and White Rusalka Vale, a dead-magic zone on the shores of Lake Ashane to all but Rashemi witches. The Warrens were a network of caves and tunnels nearby.
+
+Description
+Dernovia was a walled village surrounded by grain fields and cattle. Just outside the village walls was a house on a hill that housed Stanislor the butcher, who had cheated customers and was thus "exiled" from the village.
+
+History
+In 1361 DR, Dernovia had thirteen wychlaran, of which Zofia Othlor was the eldest. Other witches at the time included Anya, whose mother was Fraeni, who had been a friend of Sylune, the Witch of Shadowdale.
+
+Places of interest
+ Witches' Lodge  A building with a tree-lined courtyard covered with vines. It was dedicated to the three goddesses (the maiden, the mother, and the wise woman). It had a bathhouse with a steam bath where a Bannik spirit that gave divination dwelt. Foreigners were forbidden from entering the lodge.
+
+Notable inhabitants
+ Fyodor, berserker
+ Treviel, fyrra (leader) of Dernovia in 1361 DR
+ Zofia, wychlaran
+
+Appendix
+Appearances
+ Windwalker
+
+References
+
+---
+
+## Desert centaur
+
+Desert centaurs were nomads inhabiting the vast deserts of Zakhara.
+
+They often executed raids on bandit camps, using their speed and savage skills to their advantage. Desert centaurs were known to zealously protect their lands.
+
+Description
+These creatures were smaller than their cousins found elsewhere on Toril but they also had longer, thinner legs of an antelope.
+
+Males grew long beards and females wore veils and beautiful clothes. While traveling they carried their belongings in small bags.
+
+Abilities
+Desert centaurs had excellent vision that allowed them to orientate themselves perfectly in the dark. On a moonlit night they could easily see as far away as .
+
+Combat
+Desert centaurs preferred to use spears, bows and scimitars. In close combat, they could also attack with their hooves. Ranged weapons were their favorite since they avoided close combat if possible. They often used tactics typical of desert nomads, luring the enemy into an ambush and striking, then dissolving into the desert. If the opponent withstood the initial attack, the ambush was repeated.
+
+Society
+
+Tribes of desert centaurs lived across the entire continent of Zakhara, where they constantly roamed the desert from oasis to oasis. They rarely traveled to the civilized regions of the Land of Fate.
+
+They often engaged in stealing cattle and, unlike humans, they did not domesticate animals since they preferred to eat them immediately.
+
+Usually every tribe of desert centaurs had a priestess who simultaneously acted as the leader. She usually knew several languages ​​including the trade language and sometimes Debbi. With the exception of priestesses, females rarely took part in battles. Some centaurs also served as security guards or scouts.
+Relationships
+Along their travels desert centaurs often encountered native human tribes. When required they could attack or conclude a peace treaty with them. Desert centaurs also held a great disdain for genies.
+
+Appendix
+Appearances
+Adventures
+Reunion
+Card Games
+AD&D Trading Cards
+Sourcebooks
+Monstrous Compendium Al-Qadim Appendix
+
+References
+
+---
+
+## Desert giant
+
+Desert giants were once numerous Zakharan giants. Since the decline of their civilization, they were mostly shepherds often traveling with their cattle herds across deserts.
+
+Description
+Desert giants were known to have swarthy and wrinkly skin due to their constant exposure to desert storms. They had dark hair and blue eyes, which turned brown before the giants turned to stone. The females covered their faces in a veil. They typically reached heights of up to  tall and weighed about .
+
+Abilities
+The sight of these fearsome warriors could cause the stoutest units to turn and flee.
+
+The complexion and texture of their skin so closely resembled the natural surroundings, it gave the desert giants the ability to camouflage while in the desert terrain.
+
+Some desert giants had the unique ability to return ancestors from the petrified stone state, the same ability enabled them to summon stone battle mounts (up to 20 mounts if the summoner was a child, and an adult - up to 30). This ability was usable once per week, allowing the summoning of 1 to 6 ancestors. The returned giants turned to dust and rock when defeated. They were known as sand-shifters due to the way the returning ancestors cast away the sand. This ability was only found among ten percent of desert giants. The sand-shifters were not priests or mages and did not have access to spells.
+
+Due to their curse, desert giants were said to be immune to all forms of lycanthropy.
+
+Personality
+Like other nomadic cultures, the desert giants preferred the company of their own kin, even though the could be found working as mercenaries or taking shelter in the cities during the times of prolonged drought. They respected ordering and the rule of strength, often depleting the pastures on the lands that did not belong to them.  They gladly accepted gifts and bribes of salt, cloth, spices, and metal.
+
+Combat
+
+Desert giants preferred to fight while mounted, usually riding upon gigantic forms of insects, reptiles, undead horses, and even the rare roc.
+
+Unlike other giants, the desert ones did not hurl boulders, as they were rare in the desert and taxing for the nomadic warriors to carry with them. But during their wanderings, when they happened upon a jungle, they used the trees to make giant throwing spears. Considered cherished items, they were passed from generation to generation. Chieftains of the desert giant tribes sometimes wielded great-sized scimitars, handed down from their ancestors, who earned them for distinguished military service. Even an unarmed attack from a desert giant could cause serious harm.
+
+Due to the desert giants' natural camouflage ability, they often set ambushes when given time to prepare for a battle.
+
+Society
+Having no permanent settlements, desert giants were often found with or near their herds. Depending on the herd's size it could strip all the vegetation with their passing. Others living in those lands expected no reimbursement for the damage done, as the giants believed the lands belonged to those who could take them. Sultans of the Land of Fate often offered bribes to get the giants to leave, rather than trying to drive off the giants from the valuable farmland.
+
+Desert giants' livelihood was dependent upon the rain. Driving their herds after the rain to the green fields it brought. During droughts, the younger males sought employment as mercenaries, using their pay to supply food for their tribes. When the drought continued for many years, the Giants were forced to seek refuge in the cities, even when this happened their numbers were minuscule compared to the other races.
+
+Some desert giants used their camouflage to implement ambush tactics after becoming bandits after losing their herds, something that has been happening more as their numbers decreased further.
+
+History
+Desert giants were once numerous denizens of the deserts of Zakhara. Their number decreased due to a curse of the gods, which slowly but steadily turned them to stone. In the past, they had built a great civilization, but it has since succumbed to the ravages of time.
+
+Zakharan sultans of the past sometimes hired desert giants as mercenaries.
+
+Circa 1367 DR a couple of desert giants was among the inhabitants of Sarahin, a fortress located deep within the Haunted Lands in Zakhara. They were ex-caravan guards employed by Akim al-Kalaas, stationed at the lower gates of the fortress.
+
+Notable Desert Giants
+ Tasrif was a jambiya-wielding desert giant charmed by Shafazal into service circa 1367 DR.
+
+Appendix
+See Also
+ Zakharan giant
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Deltara Dragynstarr
+
+Deltara Dragynstarr was a human woman of the city of Tantras in the Vast. She was a bard and an important member of the Harpers in the city around 1358 DR.
+
+Appendix
+References
+
+---
+
+## Demon Weave
+
+The Demon Weave was a magical fabric that the goddess Lolth attempted to create in order to make herself the new goddess of arcane magic after the demise of Mystra.
+
+Nature of the Demon Weave
+The Demon Weave coexisted with the torn remains of Mystra's Weave that Mystra and her servants were trying to restore once she herself had been restored by Elminster in 1479 DR. The Demon Weave drained both power and stability from Mystra's Weave but Lolth had not managed to make it sustain itself in the way that Mystra's Weave could before the Spellplague and upon its restoration after the end of the Second Sundering. Therefore, the Demon Weave relied on the existence of Mystra's Weave in order to function and should Mystra's Weave have ever completely ceased to be, so too would the Demon Weave.
+
+Those that Lolth allowed to use the Demon Weave could access arcane magic just as reliably as they could before the Spellplague but few knew that it required the efforts of individuals such as Elminster, Storm Silverhand, the Srinshee, and many others working under Mystra's auspices to bolster both Mystra's Weave and thereby ensure the survival of the Demon Weave.
+
+History
+In 1480 DR, Lolth sent her avatar, Danifae Yauntyrr, to the cities of the drow to task them with recovering items to fuel the creation of her new Weave. Those who obeyed traveled to the surface, scouring the land for ancient items from before the Spellplague, relics that were sacred to Mystra, sources of primordial energy, and sites of magical power. Those drow would then channel the power of those items and places to their goddess.
+
+The first effect of this was, that in the spring of 1484 DR, drow wizards led by Tsabrak Xorlarrin would use the power gained from the new Weave to create magical darkness over large areas of land on the surface so they could comfortably exist there, even in the light of the sun. More and more of these areas of darkness appeared on the surface lands over the next year-and-a-half - this was known as the Darkening. Eventually though, in the fall of 1485 DR, a party of adventurers from Luruar descended into the ruins of Eryndlyn, where they helped a resurgent Mystra take command of the Demon Weave. She then began using it to strengthen her own resurgent Weave to restore it closer to the condition it was in before the Spellplague.
+
+Notable Effects
+House Jaelre's attack on Shadowdale Valan Jaelre attempted to steal and channel the power of the Pendant of Ashaba in order to weaken Shadowdale for a full invasion.
+Drow political strife By Lolth's will, arcane spellcasters in drow society (most of whom were male) found their social status elevated to that of drow females. Those who favored the status quo refused to follow Lolth's edicts, causing conflict that was further manipulated by the Jaezred Chaulssin.
+The Darkening As well as making life on the surface easier for drow, the magical darkness covering the land inspired many evil humanoids and monsters to become bolder. Several tribes of orcs, for example, split off from Many-Arrows to lay siege to Mithral Hall, Citadel Adbar, and Sundabar.
+
+References
+
+---
+
+## Death spear
+
+A death spear or death lance was a longspear infused with negative energy and used by elite drow warriors.
+
+Description
+These longspears were 10 feet (3 meters) long and made of a dull-gray metal with mottled and sparkling patterns along its length.Additionally, they emanated an aura of negative energy.
+
+Powers
+A death spear was a +1 longspear.
+
+Suffused in an aura of negative energy, each blow struck by one of these weapons inflicted additional negative energy that chilled its victim. Additionally, the spear had limited charges to drain the life force of those it impaled, as dark tendrils of black light writhed down the lance. Two versions of these weapons existed; their charges affected the victim to greater or lesser degrees.
+Lesser This version afflicted the victim like the enervation spell.
+Greater This version caused the victim to suffer from an energy drain effect.
+
+History
+The death lance (or death spear) was invented by powerful drow wizards and used in the protection of the city gates and temples in drow cities.
+
+In 1372 DR, at the Undying Temple, above the Deep Wastes city of Maerimydra, Irae T'sarran used elite defenders equipped with death spears to protect her sanctum.
+
+Notable Owners
+ Berg'inyon Baenre: Being a master of the z'har thalack combat style, he was a particularly good user of a death lance.
+
+Appendix
+Appearances
+ City of the Spider Queen
+ The Drow of the Underdark
+
+References
+
+---
+
+## Delmuth Echorn
+
+Delmuth Echorn was the young elven heir of House Echorn in Cormanthyr at the time that Elminster Aumar was nominated Armathor.
+
+Possessions
+Delmuth Echorn an Avarphyn, protective devices favored by the houses of Myth Drannor. It included such magics as feather fall, fly, free action, ironguard, knock, neutralize poison, spider climb, and water walk.
+
+History
+Delmuth was the heir of the Echorn, one of the most noble of elven houses. When he found that a human had been nominated as armathor in 241 DR, he decided to quickly slay him. However, Elminster proved a very formidable opponent and in the end it was Elminster that killed Delmuth.
+
+Appendix
+
+Appearances
+Novels
+Elminster in Myth Drannor
+
+References
+
+---
+
+## Denak
+
+Denak was an abjurer and a member of the Red Wizards of Thay.
+
+Relationships
+The Red Wizard worked with Edwin Odesseiron and Zulkir Nevron.
+
+History
+The wizard was searching for a lost magic artifact in a ruin in the Spider Wood in the Cloak Wood with his partners Diana, Lasala, and Brendan.
+
+Appendix
+
+References
+
+External links
+
+de:Denak
+
+---
+
+## Degrodel
+
+Degrodel was an wizard specializing in the school of abjuration who lived in the city of Baldur's Gate in the mid–14 century DR.
+
+Description
+He mage was fond of  constructs and tasked a number of doomguards, invisible stalkers, and helmed horrors with the protection of his home.
+
+History
+As of the, Degrodel was actively searching out the famous Helm of Balduran.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate
+
+External links
+
+References
+
+de:Degrodel
+
+---
+
 ## Delina
 
 Delina was a moon elf wild mage sorcerer who decided to travel to Baldur's Gate in order to find her twin brother, Deniak, whom she sensed was in trouble via their mystic bond.
@@ -1602,6 +5857,2508 @@ References
 
 ---
 
+## Deniak
+
+Deniak was a splinter Cult of the Dragon leader and spellcaster and the brother of Delina.
+
+Personality
+As a child, he seemed normal and playful, but jealousy and ambition turned him somewhat crazy. For some reason, as an adult, he didn't like to hear the Elven language.
+
+History
+As a young child, Deniak attended magical studies with his sister, Delina, clearly surpassing her in skill. He even teased her for her lack of ability. This led to the first appearance of her wild magic, which in turn allowed her to advance and very quickly surpass him, angering him greatly. Deniak believed that she was cheating, as he had to learn magic from his studies. This consumed him with ambition, finally leading him to the Cult of the Dragon, though he later broke from the main group.
+
+His reason for leaving the mainstream Cult of the Dragon appeared to be that he didn't believe in serving dragons. Instead, he wanted to be equal to dragonkind. His ambition led him to use a Cult ritual to take the power of magic from his sister, imbuing him with heightened and draconic magic energies. The ritual had a strange effect as it turned Deniak into a red dragon.
+
+Deniak seemed maddened by his transformation, taking a mad ride over the city, finally being taken down by having a grappling hook in his wing and sent down into a building. Stuck under the rubble, his head emerged to attacking the party, after suffering some attacks he bit down hard on Minsc. Minsc threw Boo whom took out an eye, then Shandie's last arrow took out the other. But the final blow came from the magics of his sister and a stab of Minsc's sword.
+
+Appendix
+Appearances
+Comics
+ Legends of Baldur's Gate series
+
+Gallery
+
+References
+
+---
+
+## Deirdre Kendrick
+
+Deidre Kendrick was a wizard and cleric of Talos of the Moonshae Isles in the mid–14 century DR.
+
+Relationships
+She was the second daughter of Queen Robyn Kendrick and King Tristan Kendrick, and sister of Alicia Kendrick.
+
+As a gifted magic-user, she was trained first by the wizard Keane and later by Malawar, in fact an avatar of Talos known as Sinioth.
+
+History
+Deirdre was the second daughter of King Tristan and Queen Robyn Kendrick, born barely a year after her sister Alicia. As they grew up, Deirdre was often openly hostile to her sister, apparently already suffering from doubt and inadequacy that she channeled into rage. She was taught by Keane, but he stopped when he understood the void in her heart.
+
+In the, Sinioth seduced her. At first, Talos used Deidre in a positive fashion, sending her to stop the Ityak-Ortheel and to save her father from sahuagin. However, afterward, Deidre became a complete pawn of Talos and the storm god used her to start a war to conquer the isles. In the end, Deidre was killed by her sister Alicia.
+
+Appendix
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Delayed blast fireball
+
+Delayed blast fireball, or delayed blast fire ball was an evocation spell that was like fireball but could be given a timed detonation.
+
+Effect
+Other than being similar to fireball, the damage of the spell was increased and the spell would detonate with a timed trigger. Later versions of the spell created a fiery "bead" that could be thrown and explode, sometimes in the thrower's hand.
+
+The post-Second Sundering version of the spell could be made even more powerful if cast by a user with more skill.
+
+Components
+Only verbal and somatic components were needed for the casting of the pre-Second Sundering version of this spell. Following the Second Sundering, casting this spell required material components in the form of sulfur and a small ball of bat guano.
+
+History
+This spell was invented by the arcanist and Fire Warden of Netheril Noanar and called Noanar's delayed fireball in  (two years earlier than the simpler fireball).
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Demiplane (spell)
+
+Demiplane was a conjuration spell that created or reconnected with a demiplane.
+Effect
+The caster created a shady door fit for medium creatures that would lead to or create a demiplane of about 30 cubic feet with wood or stone surfaces. The shady door would last for an hour, and after that time, the door would disappear and whatever was inside would be stuck there until the plane was reconnected. If the caster had knowledge of the nature and contents of a demiplane, she could create the door to that one. If no demiplane was "picked", then a new one would be made.
+
+Components
+Only a somatic component was needed for casting the spell.
+
+Usage
+The artifact known as the Orrery of the Wanderer was capable of mimicking the effects of this spell.
+
+Appendix
+Appearances
+Adventures
+
+Acquisitions Incorporated • Icewind Dale: Rime of the Frostmaiden
+References
+
+---
+
+## Detect evil and good
+
+Detect evil and good was a divination spell that detected outsiders of different types and other types of creatures within  feet of the caster.
+
+Effect
+The caster could sense desecrated or consecrated ground as well as aberrations, celestials, elementals, fey, fiends, or undead. The spell could not penetrate  feet of wood or dirt,  of stone,  of steel, or a thin sheet of lead.
+
+Components
+Only verbal and somatic components were needed for the casting of this spell.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Detect poison and disease
+
+Detect poison and disease was a divination spell that detected diseases, poisons, or poisonous creatures.
+
+Effect
+Upon casting this spell, the caster could sense disease, poisons, and poisonous creatures within a 30 ft (9.1 m) radius and know their location and type (e.g., rabies, yellow mold, or snake). This ability lasted while the caster concentrated on the detection, or for 10 minutes, whichever was less.
+
+This spell could successfully detect poison or disease through barriers, but could not penetrate 3 ft (91 cm) of wood or dirt, 1 ft (30 cm) of stone, 1 in (2.5 cm) of regular metals, or a thin layer of lead.
+
+Detect poison and disease could also be cast as a ritual.
+
+Components
+In addition to verbal and somatic components, this spell required a yew leaf to cast.
+
+Appendix
+See Also
+ Detect poison
+ Slow poison
+ Poison
+ Types of poison
+Appearances
+
+References
+
+---
+
+## Deior Rasthavin
+
+Deior Rasthavin  was a sage and historian of Selgaunt and a regional agent of the Moonstars in the Year of the Tankard, 1370 DR.
+
+Personality
+Deior was a quiet and soft-spoken man, with a great interest in history and politic of the Sea of Fallen Stars
+
+History
+Deior was a wizard and a sage from a wealthy family of Selgaunt in Sembia. His field of research was the history and the politic of the humanity in the Inner Sea region, heraldry, and geneology. For his position Dejor was invited to all parties of the city and there he gathered information for the Moonstars.
+
+Activities
+Deior's field of study was humankind in the Sea of Fallen Stars area, he knew all about history, lengends, and folklore of the region, genealogy, politics, and (as a sideline) heraldry, signs, and sigils. He maintained a low profile but was well considered in all Realms. Thank to his wealth he seldom sponsored adventuring parties.
+
+Relationship
+Deior's two bodyguards, Hillur and Rheeokk, vigilated that nobody disturbed their master's studies.
+
+Appendix
+References
+
+---
+
+## Delgithnar
+
+Delgithnar was a quaggoth druid involved in the Zhent invasion of Shadowdale in 1375 DR.
+
+History
+Delgithnar was a quaggoth druid fascinated by spiders. He thus allied with House Dhuurniv and helped control a part of the Underdark claimed by the drow.
+
+Appendix
+References
+
+---
+
+## Dessa sik-Morcane
+
+Dessa sik-Morcane was a female drow cleric of Lolth in Szith Morcane who, during the Silence of Lolth, turned to barbarism.
+
+History
+Born a female drow in Szith Morcane and into minor nobility in House Morcane, Dessa was initiated into the mysteries of the Church of Lolth and trained to be a cleric of the Spider Queen. However, in 1372 DR, Lolth's Silence struck the drow of Szith Morcane and Dessa was caught up in the coup of House Morcane that followed. She was captured by Kiaransaleean cultists, led by Dorina and Zedarr T'sarran, and used as food for their vampiric servants.
+
+Description
+Dessa had particularly deep black skin for a drow and a shock of wild, white hair. A powerfully built female, Dessa wore only a plain black tunic and black breeches. During her captivity at the hands of the Kiaransaleeans, in 1372 DR, she was even denied her boots and a belt.
+
+Personality
+A shameless and duplicitous drow, Dessa was not afraid to debase herself to gain an advantage against her enemies. She especially disliked surface-worlders.
+
+Abilities
+Raised in the service of Lolth, Dessa sik-Morcane had passable training as a cleric. Her most distinguishing traits, however, were those of a powerful and wild warrior who would fly into a rage in combat.
+
+Possessions
+Prior to her capture during the Silence of Lolth, Dessa sik-Morcane had a number of items befitting her station as a minor cleric of Lolth. However, she was soon stripped of these once House Morcane was overthrown.
+
+References
+
+---
+
+## Dell McCourt
+
+Dell McCourt was a dwarf soldier of the Dagult Neverember army in Neverwinter.
+
+Description
+The warrior had a bright red beard.
+
+Possessions
+When protecting Neverwinter, Dell dressed in heavy armor.
+
+History
+During the attack on the Sleeping Dragon Bridge in 1479 DR, Dell and his friend Zoey Fargo fought with Makos and Celeste to defend the city from Valindra Shadowmantle's dracolich. Later, Dell recruited an adventurer just arrived in the city to collect arrows from the dead in a skirmish with the undead of Valindra Shadowmantle and delivered them to the archers commanded by private Hawthidon.
+
+Appendix
+
+Appearances
+ Neverwinter (game)
+
+External links
+
+References
+
+---
+
+## Delrin Bass
+
+Delrin Bass was an elf who lived in Neverwinter in 1484 DR.
+
+History
+He was the local agent of the Emerald Enclave in Neverwinter during the Tyranny of Dragons.
+
+Appendix
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Degasus Tarensun
+
+Degasus Tarensun was a minor assassin of the Night Masks in 1370 DR.
+
+History
+Degasus was born in the Caravan Cities but grew up in Westgate after being abandoned at the city's docks at the age of six. He was adopted by a Night Masks cell that used him as a runner and lookout while teaching him all they knew about living on the streets.
+
+Later, Degasus's natural charisma impressed the wizard Tersonm, who taught him to read, write, and to recognize spells. Degasus made a series of very difficult assassinations and became a rising star assassin among Westgate's nobles.
+
+Appendix
+
+References
+
+---
+
+## Dead in Thay
+
+Dead in Thay is an adventure module for the D&D Next/5th edition of Dungeons & Dragons, as part of the "Dreams of the Red Wizards" campaign. It was released in April 2014. It was later reprinted in Tales from the Yawning Portal in 2017.
+
+Publisher's description
+
+Summary
+Having located Bloodgate Keep, an assault upon it is led out of the Floshin Estates. The elemental nodes that were helping sustain the portal from Thay are collapsed but when an attempt is made to close the Bloodgate itself, Mennek Ariz calls upon Baazka, who transports both him and Shalendra Floshin away. Trying to protect his niece, Kelson Darktreader is caught up in the transportation magic.
+
+The attacking adventurers were whisked away by the Thayan Resurrection to the Doomvault beneath Thaymount. The rebels claim to have saved the party's lives and expect them to repay the favor by destroying the phylacteries of Szass Tam's top lieutenants that are held within.
+
+They venture through the massive and deadly dungeon, locate Shalendra, who was betrayed and imprisoned by her former allies and witness experiments being performed on several captured Chosen before completing their mission.
+
+Index
+
+Characters
+
+Creatures
+
+Items
+
+Locations
+
+Magic
+
+Appendix
+See Also
+Dreams of the Red Wizards
+External Links
+
+Connections
+
+---
+
+## Deep dragon
+
+Deep dragons, also called purple dragons, drakes of the depths, and silent hunters, were a type of chromatic dragon that lived in the Underdark.
+
+Description
+Despite their large size, deep dragons were slender and agile, and their snakelike bodies, narrow wings, and thin limbs allowed them to crawl through the tunnels of the Underdark. Their scales were smooth, and in the light, an adult dragon's scales were the color of amethyst, while in the dark, they appeared nearly black. In general, older specimens had much darker scales, while younger ones had more purple or maroon coloration. Older deep dragons were known to develop fungal growths around their heads and necks.
+
+A dragon egg could be identified as that of a deep dragon by the purple tinge seen when held in front of an intense white light, though it shared this trait with shadow dragon and amethyst dragon eggs.
+
+Personality
+
+Deep dragons were patient and cunning. They prioritized their own survival above all else, yet were known to relish the opportunity to hunt or even fight if the situation demanded it. They preferred to manipulate and negotiate rather than to risk combat, and were crafty dealmakers. They were quick to disregard any creature that wasn't useful to them.
+
+Deep dragons collected trivia, insights, tricks, and knowledge from far flung places, and delighted in acquiring new information. They were known to collect magic items, not simply to hoard but also to use for themselves. Some deep dragons enjoyed assuming the form of drow and infiltrating the dark elves' cities in disguise.
+
+Abilities
+In order to better allow them to navigate the narrow underground tunnels which they called home, deep dragons developed potent innate magical powers, including the ability to transmute rock to mud, and to cast spells like passwall, freedom of movement, and stone shape.
+
+Perhaps their most distinctive ability was their unique shapechanging power which developed as they aged. The first form they learned to adopt was that of a winged snake, which did not reduce their overall size but allowed them to slither and fly unimpeded by extra limbs. The second form they learned to adopt was that of a normal humanoid, and they could alter this form's appearance as with a polymorph self spell.
+
+Deep dragons were incapable of becoming intoxicated.
+
+Combat
+The claws of a deep dragon were intended to dig through solid rock, and as such, were devastating in combat even against heavily armored enemies. They preferred to pick off their enemies strategically, stalking them in the dark before pouncing or triggering a rockfall to bury them.
+
+A deep dragon's breath weapon attacked creatures' minds, and caused the target to be dazed or dominated, depending on the strength of the wyrm. These effects were attributed to fungal spores that the dragon exhaled. They were also known to be able to breath a cone of gas that was caustic to flesh.
+
+Deep dragons were harmed by direct sunlight.
+
+Ecology
+Purple dragons inhabited the Underdark, and were rarely known on the surface. However, younger specimens were known to occasionally venture upward, generally with some mission to claim a treasure or exact revenge on a foe, but sometimes just for the sake of exploration. Young deep dragons rarely left the lairs of their parents until they had mastered both their serpentine and humanoid alternative forms.
+
+Lairs were located in the Upperdark and Middledark, usually no deeper than, and were highly idiosyncratic: some were built within ancient ruins, others on the shores of underground lakes, and others were carved out of masses of living fungus. Regardless, most of these lairs were full of secret passages to allow the dragon to make quick escapes and to prepare surprise ambushes. Lairs were often difficult to access, even for the dragon itself without using its serpentine or humanoid form, and were filled with traps and servants to protect the dragon's hoard, especially for times when the dragon ventured out to seek new information or treasures. They were known to transplant dangerous specimens of fungi into their lairs to serve as traps, and in general, underground varietals of fungi often abounded around deep dragons' lairs and even on their bodies. Their magic, and this somewhat symbiotic relationship with underground fungus, was said to be a result of their species' exposure to the pervading magic of the Underdark.
+
+Diet
+Deep dragons preferred "seafood" including clams, fish, kuo-toa, and even aboleths. That said, they were known to eat nearly anything, and it was not uncommon for Underdark societies to trade with a deep dragon by offering them food in the form of humanoid prisoners.
+
+Uses
+The claw of a deep dragon could be used as a special component in the casting of the dragon blight spell. Their scales were also highly-prized by drow wizards, used in the formation of their everdark ink.
+
+Society
+Deep dragons valued and hoarded knowledge, and preferred to collect unique treasures with interesting backstories. They would meticulously organize their hoards, even framing or displaying their favorite pieces, and they delighted in giving long tours to guests, particularly other deep dragons.
+
+While some actively avoided revealing themselves to other types of dragons, most enjoyed their company. Deep dragons tended to look down on "inferior" creatures, but could be encountered near drow cities working as guardians for the drow, expecting to be paid for their services with a steady supply of food in the form of captives and criminals. However, other drow cities were highly distrustful and fearful of deep dragons. The drow of Menzoberranzan would actively hunt down any deep dragon they learned of, and this in turn led a group of four nearby deep dragons to plot against the city.
+
+They were not above working with non-dragons, but treated them either as servants or subordinates. They were enemies to mind flayers and cloakers, and would hunt them when the opportunity presented itself.
+
+Notable Deep Dragons
+ Pharx
+ Whitescar
+ Zz'Pzora
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Demchungchumrub
+
+Demchungchumrub was a lich conjurer who inhabited the Many-Windowed Tower on the shore of the Yal Tengri in the Hordelands in the mid–14 century DR.
+
+History
+He apparently took over the Many-Windowed Tower in the 11 century DR, when passing nomads noticed the lighthouse restored and wisely avoided it ever since. At first, ships sailing along the coast of the Great Ice Sea were wrecked by misleading lights on the tower, and when sailors learned to distrust it, they were beset by fogs, mutinies, attacking elementals, and confusion and disorientation.
+
+Activities
+Although a loner,  he lich was using his magical arts to wreck passing ships in order to capture their sailors. Those who survived, Demchungchumrub charmed to serve him, and those who were killed, he simply animated as undead. His goal was to crew his spelljammer ship, a converted great galley known as Delras. As of 1358 DR, his crew was near completion.
+
+Abilities
+He was specialized in the conjuration school of magic, and incapable of both the invocation/evocation and greater divination schools. He prepared an array spells useful for waylaying and wrecking ships, charming the living and animating and controlling the dead.
+
+Appendix
+References
+
+---
+
+## Desert's Virtues
+
+The Desert's Virtues was a group of islands in the Great Sea west of the Genie's Turban.
+
+Description
+The Desert's Virtues consisted of three small main islands: the Camel's Hump, the Chador and the Dune.  The Camel's Hump and the Chador both had small villages scattered near their coves.  These were usually ruled by former corsair Captain's. Rumors abounded that some corsairs kept secret stashes of gold and treasure hidden on these islands.
+
+The Camel's Hump
+This island received its name from the lone elevation that formed a gradual peak resembling a camel's hump.
+
+The Chador
+Two elevations that looked like eyeholes in a moralist's robe served as inspiration for naming this island.
+
+The Dun
+Composed completely of sand, this island often served for marooning those who displeased the Captain's.  Because of this it was also known as Solitude or the Isle of Exile.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Desert rider
+
+Desert Riders were elite mounted warriors who lived in Zakhara.Desert Rider was a fighter class kit for the Al-Qadim setting.
+
+ Requirements
+Only humans, elves, and half-elves were desert riders.
+
+ Role
+Public opinion on desert riders varied depending on who was asked. The nomads, or Al-Badia, revered the desert riders as true heroes who represented the traditional qualities of desert folk: bravery, honor, and freedom. Villagers of small towns often thought they were little better than wandering thieves. Realistically, both are right. Men and women of good and evil backgrounds became desert riders.
+
+Desert riders viewed the city folk, or Al-Hadhar, as lost souls who missed out on the freedom offered by the desert.
+
+ Possessions
+Due to constant exposure to extreme heat, desert riders rarely wore armor heavier than chain mail. A desert rider's most prized possession was his or her mount.
+
+ Special Benefits
+Desert riders possessed an uncanny ability to judge horse physiques, resulting in them owning the finest mounts available. Mounts under a desert riders care performed in a superior manner to when they were handled by ordinary folk.
+
+ Special Hindrances
+Attuned to the ways of the desert and little else, these warriors were awkward in any setting where they were removed from their beloved habitat.
+
+ Appendix
+
+ Notes
+
+ References
+
+---
+
+## Death talisman
+
+Death talisman was a spell unique to Zakhara, the Land of Fate. This spell was usable by wizards and priests (clerics).
+
+Effects
+Death talisman allowed the caster to enchant a small item and link it to their health. The enchanted item would remain in the exact same condition that it was when the spell was cast so long as the caster remained healthy. When the caster died, the item would corrode and fall apart. The caster needed to remain within 1,000 miles (1609 kilometers) of the item for the enchantment to remain.
+
+Given the large range of the spell, this was especially useful for a wizard's companion's equipment. Archers with their bows enchanted with this spell never had to worry about water damage, breaking their bow, etc.
+
+This duration of this spell was based on the caster's power.
+
+Components
+The only component needed to cast this spell was the item that was to be enchanted.
+
+Appendix
+References
+
+---
+
+## Del
+
+Dels were a type of clothing worn by the tribes of the Hordelands. These heavy tunics were usually worn over a kalat duing the winter. They were made of leather and covered by cloth.
+
+ Appendix
+ References
+
+---
+
+## Depth warning
+
+Depth warning was a spell unique to Zakhara, the Land of Fate.
+
+Effects
+The caster of this spell could tell sudden changes in depth, including obstacles such as reefs, while at sea.
+
+Components
+This spell required a clear glass bead to cast. The bead was crushed during casting.
+
+Appendix
+References
+
+---
+
+## Death's door
+
+Death's door was a necromancy spell that had an arcane and a divine magic version. It could be used to stop a creature from bleeding to death after they had fallen unconscious.
+
+Effects
+The divine version of this spell only worked on humans and demihumans, whereas the arcane version worked on any creature including undead creatures. When a creature fell unconscious but had not been killed outright, it was considered at "death's door" because the life (or unlife) was bleeding, oozing, or wafting out of its body. This spell healed the target—which had to be touched by the caster—enough to bring it to the threshold of consciousness. The healed creature would remain in this unconscious state for one hour per level of the caster, or until additional healing treatment was applied, bringing them to full consciousness. If no further healing was given, then the subject began to deteriorate toward death again after the spell expired.
+
+Components
+Both versions of the spell required verbal and somatic components, including touching the gravely wounded creature. The divine version also required the use of the caster's holy symbol, a scrap of white linen or silk, and a small amount of any type of unguent. The arcane version likewise required an unguent, plus a clear gem or crystal, a drop of water, a drop of blood, and a drop of milk or nectar.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Death smoke
+
+Death smoke was a spell used by wizards in Anauroch and Zakhara, the Land of Fate.
+
+Effects
+This spell created a cloud of dark noxious gas that could not be blown or burned away. Creatures that needed to breathe suffered physical damage while they remained within the cloud. Death smoke was heavier than air so flowed down stairs and crevasses with ease.
+
+Components
+This spell required a crushed insect or arachnid and a pinch of sand to cast.
+
+Appendix
+References
+
+---
+
+## Desert fist
+
+Desert fist, also known as Fist of sand, was a spell used by wizards in the Anauroch and Zakhara, the Land of Fate.
+
+Effects
+When cast, this spell caused a parcel of sand to rise up and strike a target. The sand could be shaped like a fist, tentacle, or other bludgeoning objects. Only one target was selected when the spell was cast. The fist struck so hard that items carried by the target could be destroyed. The fist was also able to leap from the sand to strike targets in the air.
+
+Components
+This spell required a handful of sand to cast.
+
+Appendix
+Further Reading
+
+References
+
+---
+
+## Deborah Christian
+
+Deborah Christian is an author and game designer who has contributed to Dungeons & Dragons sourcebooks for both the Forgotten Realms and Oriental Adventures settings.
+
+External Link
+
+ http://www.deborahteramischristian.com/
+
+---
+
+## Death bump
+
+Death bump was a spell unique to Zakhara, the Land of Fate. This spell was used primarily by ghul lords.
+
+Effects
+This spell returned a target to life who had just experienced a killing blow. The spell accomplished this by transferring the pain from the killing blow from the target to a nearby person or creature. The recipient of the transferred damage could be a willing or unwilling target.
+
+If the spell succeeded, the dead target returned to life with minimal health.
+
+Components
+This spell did not require physical components to cast.
+
+Appendix
+References
+
+---
+
+## Delethyrsos
+
+Delethyrsos was a shadow dragon and the personal mount of Hadrhune in 1375 DR.
+
+History
+Delethyrsos was at his master's side during Hadrhune's secret plot to obtain the Quess'Ar'Teranthvar, and was slain together with Hadrhune by an adventuring party recruited to stop him.
+
+Appendix
+References
+
+---
+
+## Delaan Winterhound
+
+Delaan Winterhound was a chief ranger of the Emerald Enclave and their main delegate at the Council of Waterdeep.
+
+Personality
+Delaan preferred the wild spaces of the North and felt uncomfortable in Waterdeep. He believed that the Cult of the Dragon needed to be stopped, as they caused too much destruction that would unbalanced nature's equilibrium. However, his primary concern was the natural order.
+
+History
+Delaan lived in the northern wilderness. Once a year, he visited his friend in Nesmé.
+
+When the menace of Severin Silrajin's Cult of the Dragon became global, Delaan was chosen as the leading delegate at the Council of Waterdeep. Eventually, he was able to call on the help of treants against the Cult if he was impressed by the adventurers recruited to stop the Cult
+
+Relationship
+Delaan had a winter wolf companion called Loska. He was also good friend of the famed treant Turlang of the High Forest.
+
+Appendix
+Appearances
+Adventures
+The Rise of Tiamat
+
+References
+
+---
+
+## Deep rothé
+
+Deep rothé were a variety of rothé that lived in the Underdark.
+
+Description
+Deep rothé were smaller than surface rothé, standing only 4 feet tall at the shoulder. They had shaggy brown coats that darkened to black near the legs and belly. Their hooves and horns were dark green or black and their eyes were yellow or pinkish.
+
+Behavior
+Like other rothé, deep rothé were usually found in herds of 11-20 individuals. They had the ability to magically create dancing lights to communicate with other members of their herd. They were known to be very stubborn.
+
+Ecology
+Deep rothé's favorite food was cave moss, which was only found in faerzress-rich regions. Otherwise, they ate nearly anything that grew in the Underdark, especially fungi, moss, and lichen. Due to their habitat and diet, they were immune to any harmful effects of mold and fungus. They were also resistant to enchantments.
+
+The meat of deep rothé was considered more tender and less gamey than surface beef.
+
+Combat
+Deep rothé could fight with both their teeth and horns. They were skittish and prone to stampeding, which could be quite dangerous for anyone in their path.
+
+Locations
+Rothé were staples in the Underdark and served the same purpose as cattle and sheep. Herds of them could be found in most Underdark cities, such as Menzoberranzan, Phanlinksal, and Iltkazar.
+
+Appendix
+See also
+Donigarten, a district in Menzoberranzan used for agriculture and rothé farming
+Isle of Rothé, an island in Lake Donigarten that is home to Menzoberranzan's rothé herds
+
+Appearances
+Novels
+Exile • Starless Night • Daughter of the Drow • Prince of Ravens
+Video Games
+Neverwinter Nights: Hordes of the Underdark • Baldur's Gate III
+
+Gallery
+
+References
+
+---
+
+## Deinyn Fembrys
+
+Deinyn Fembrys was a male Chondathan human cleric of Shar. He was one of a group of Sharran clerics posing as clerics of Mystra at a false Temple of Mystra in Wheloon in Cormyr in 1374 DR.
+
+History
+Serving Lady of Mystery Naedaenya Arthas, Deinyn posed as "Starweaver" Fembrys at the false Temple of Mystra in the Year of Lightning Storms, 1374 DR. His role was to take petitioners through the so-called "Mystra's Sacred Trust", a three-day-long rite designed to sap their willpower, before he exposed them to the dominating influence of the Starry Gnosis. Victims were abducted and sent to their counterparts in the Vast Swamp. Those who were unsuitable or resisted Fembrys tortured to death and mutilated; he murdered at least three people this way, including Amnic Basult, Duncan, and Kenniwick.
+
+In early Eleint, Tunaster Dranik, a genuine cleric of Mystra, stopped by the temple, though the false priests gave him a frosty reception. In the end, Starweaver Fembrys met with him, but Dranik was so off-put by him that he turned and fled from the temple. Priests and guards gave chase but Tunaster escaped. The priests later played down the incident.
+
+Fembrys was eventually defeated by some adventurers recruited by Dranik to investigate the strange behavior of the false Mystran clerics.Fembrys's official fate is unknown, though he is presumed to have been defeated or slain.
+
+Activities
+Fembrys' primary duty at the temple was to supervise and instruct the petitioners of the three-day-long Mystra's Sacred Trust rite within the middle temple. He conducted the nightly ceremonies, began the daily chants, and delivered the sermons—all solemn, interminable, and utterly incomprehensible. This was all a calculated effort to wear down the petitioners' mental defenses, to render them psychologically vulnerable to the final phase of the rite: being presented with the Starry Gnosis, which would mentally dominate them and make them obedient to the Sharrans' orders.
+
+Although full of religious iconography and symbology and quite bewildering, the gist of Fembrys's claims was that, as shown on Mystra's holy symbol, magic was born between the stars, with the stars themselves being the known points or schools of magic, and that the space between contained far more secret magical knowledge that Mystra would only reveal to the most promising. Allegedly, the aim of the ritual was to gain her Sacred Trust and this secret knowledge, which would be granted by the Starry Gnosis. In his ceremonies, Fembrys employed various vessels and liturgical items, wore vestments and ceremonial attire, and read from his own book, Preparing for the Sacred Trust. The most common phrase of his daily chant was "Knowledge lies between the stars." — in truth, the command phrase of the Starry Gnosis. Behind closed doors, however, Fembrys railed against blasphemy of feigning to worship Mystra while the "true one", Shar, needs must remain hidden. Fembrys's descriptions of secret magical lore seem strongly reminiscent of Sharran dogma and the Shadow Weave, which is described as lying between the parts of the conventional Weave of magic. Fembrys himself is a practitioner of Shadow Weave magic, and his sermons—as well as being an attempt to hypnotize the petitioners—may be an effort to inculcate them in the worship of Shar and the ways of the Shadow Weave, at least prior to their deaths.
+
+However, Fembrys's main focus was in fact his macabre "hobby", which Lady Arthas permitted him to pursue. First, he tortured to death those petitioners who lacked magical ability, threw off the dominating effects of the Starry Gnosis, or were otherwise deemed unsuitable. He tortured them for information, but mostly for sport. He stuffed and mounted their severed heads on the walls of his quarters, like trophies, complete with glass eyes.
+
+Fembrys regularly drank potions of undetectable alignment brewed by his colleague Shan Thar, to conceal their evil hearts and maintain their cover.
+
+Personality
+Outwardly, Fembrys had a dour personality, though this mask would be dropped if provoked to fury. Behind it, he was insane and had some very sick interests.
+
+He spoke very little, if he could help it, in order to avoid being caught out in a lie, except at the times he gave his lengthy sermons. When he did speak, he instructed, or tried to have killed those who questioned him.
+
+Description
+Fembrys had a wizened appearance and was often scowling.
+
+Though when in battle he might wear full plate armor, he was often seen wearing ceremonial attire as part of his sermons.
+
+Possessions
+In battle, Fembrys wore full plate armor and wielded a heavy mace and a number of chakrams. He also had a cloak of resistance +1, a scroll of restoration.
+
+He also possessed a disc of secrets. This false unholy symbol initially appeared to show the symbol of Mystra, then revealed the symbol of Shar after a command phrase.
+
+For his twisted hobby, he had a torture chamber at the temple, equipped with a rack, iron maiden, and other devices of cruelty. He also owned a cabinet full of taxidermy tools and supplies.
+
+Abilities
+In addition to his skills and divine magic as a cleric, Fembrys had mastered the use of Shadow Weave magic.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Delf
+
+Brother Delf was a priest of the god Deneir the Scribe, who lived at a monastery near Verdusk.
+
+Brother Delf once wrote a document recounting the origins of various magical creatures. In it, he gave one of the few known accounts of the creation of the perytons, though he may simply have been retelling an ancient legend. He told how the Khala of Imaskar had been cursed by five gods of law for their wickedness and worship of Bane, and transformed into the peryton. This tale was unsupported by fact, but it did explain all their unusual human traits.
+
+The ranger Talyssa Strongbow visited the monastery and discovered Delf's writings, and repeated it in a book she wrote about the land of Thar.
+
+References
+
+---
+
+## Derrick Gaffner
+
+Derrick Gaffner was a sailor in Icewind Dale in 1485 DR.
+
+History
+Derrick was a fisherman in Lac Dinneshere and captain of the fishing boat Howling Fiend until he found some black ice. The evil ice corrupted Derrick so that he turned to piracy.
+
+He was so effective that his pirate gang grew large, attracting the interest of Vaelish Gant. His crew attacked and raided Caer-Konig and Caer-Dineval in rapid succession. Soon after, they targeted Easthaven. Around this time, however, an adventuring party defeated him.
+
+Appendix
+References
+
+---
+
+## Deepwing Mountains
+
+The Deepwing Mountains were a small, east–west mountain range southeast of the Shining Plains in the Vilhon Reach. They were located between the Orsraun Mountains and the Cloven Mountains and north of the Deepwash.
+
+At the western end of the range, the mountains gave way to rough, rocky hills known as the Rushing Hills, while the southwestern mountains were known as the Spines of Surkh, which encircled Surkh to the north and east and were home to many tombs and burial sites of the lizardfolk who dwelt there.
+
+The mountains were populated with a number of large, flying monsters, including manticores, griffons and hippogriffs, red dragons, and wyverns.
+
+Appendix
+
+Further Reading
+
+References
+
+FR:Flancs hasardeux
+Connections
+
+---
+
+## Destroyers
+
+The Destroyers were a mercenary company based in Halabar in Halruaa. They specialized in providing artillery support, both mundane and magical, to regular armies. They were commanded by Daltim Flamefist, a noted mage, psionicist, scholar, and noble of Halruaa.
+
+History
+Daltim Flamefist was the noble-born son of an Elder of the wizard-ruled realm of Halruaa, and he had ambitions to become an Elder himself. However, he first had to gain experience, and to this end, he became the commander of the Destroyers, often leading them into battle.
+
+The Destroyers became involved in the civil war in Tethyr in the 1360s DR. While there, Daltim's Tome of Fire went missing, presumed stolen, as he was unlikely to have forgotten or lost it.
+
+Organization
+Membership
+The Destroyers kept a standing army. It comprised some 50 members: 15 mages (wizards and sorcerers), 15 psionicists, and 20 fighters. The mages and psionicists were all of low-to-middling rank and specialized in destructive magical schools and psionic disciplines. The psionicists were some of the best known mind mages in Halruaa. The fighters were lightly skilled warriors whose task was to operate catapults and other heavy weapons. The troops were generally lawful in nature.
+
+Tactics
+The Destroyers were a very specialized mercenary unit, providing artillery support for more regular armies. They fielded heavy artillery, such as catapults and ballistae. They also employed magical and psionic assaults, with which they could soften a foe's defenses prior to a main attack, or eliminate them outright. The Destroyers themselves wielded a variety of weapons, while many elite members also possessed magical or psionic items.
+
+Contracts
+Being a law-abiding group, the Destroyers honored all contracts they made. However, upon expiry of their contract, it wasn't unusual for them to then accept a contract with an enemy of their previous employer, even if it involved attacking them. They preferred missions that kept them in the field, but occasionally operated as besiegers.
+
+The Destroyers charged 750 gold pieces per day for their services. They would go as low as 50% if a mission opposed Thay or the Red Wizards.
+
+Leadership
+The Destroyers were commanded by Daltim Flamefist, a powerful mage and psionicist who was also an influential noble of Halruaa and a noted scholar of fire magic and psionics. He was supported by an oligarchic council.
+
+Headquarters
+Though they were a roaming army, the Destroyers were based in Halabar in Halruaa, and were the only mercenary company to make their home there.
+
+Relationships
+The Destroyers bore a special enmity for the Red Wizards of Thay, though they did not make the reasons for their hostility known. In any case, they would take contracts against Thay for as low as half their usual rates.
+
+Appendix
+References
+
+---
+
+## Detect psionics (spell)
+
+Detect psionics was an arcane divination spell that served as a magical counterpart to psionic sense, allowing a mage to detect psionic creatures and activity.
+
+Effects
+The detect psionics spell functioned as a magical version of the psionic devotion psionic sense, enabling its user to sense all psionic activity within a distance from themselves. The power of the caster determined this distance and the type of information acquired, whether there were psionic creatures present, how powerful was the psionic activity, and the direction and distance to the activity.
+
+Components
+The spell required verbal, somatic, and material components.
+
+History
+The Halruaan mage Daltim Flamefist, a noted scholar on psionics, gave details of the detect psionics spell to his fellow mages at a symposium of wizards in  Halruaa in the 1360s DR.
+
+Appendix
+See also
+ Psionic sense
+ ''Detect psionics
+
+References
+
+---
+
+## Death Cheese
+
+Death Cheese was a unique cheese that came from the swamps bordering both Cormyr and Sembia. It was sold through Aurora's Whole Realms Catalogue and in many other locations. Its name had nothing to do with any dangers of eating the cheese, but rather the dangers of producing it.
+
+Description
+Death Cheese was a soft cheese that was rich in flavor. It was usually packed in a red paraffin rind, and was considered a delicacy on any dining room table.
+
+Production
+This cheese was made from catoblepas milk. Herds were kept by out-of-work adventurers who harvested the milk from the deadly creatures so the cheese could be produced. The Marsh Drovers of the Farsea Marshes were also known for producing the cheese, as well as the less well-known Deadeye Butter, also made from catoblepas milk.
+
+Prices
+Death Cheese could be purchased from Aurora's Emporium and most other shops for 5 gp per  loaf. It was much cheaper, however, to purchase the cheese directly from the Marsh Drovers at the marketplace in Eagle Peak, where a loaf of the same size cost only 2 gp.
+
+Reputation
+The cheese's reputation included tales that the catoblepas milk was harvested by blind monks who could locate the creatures purely by a sense of smell.
+
+Death Cheese imported from Toril was one of the most popular items in Imel's Happy Tongue, a tavern in Sigil.
+
+Death Cheese was one of the ingredients used in a foodomancy dish simply called basilisk and bread record in the ancient tome called the Manual of Culinary Delights.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Dessaer
+
+Dessaer was Lord of Elventree in Cormanthor.
+
+Description
+Lord Dessaer was a tall half-elf with golden hair and pale skin with a faint bronze hue to it. He was well-muscled for a male, and he wore a breastplate of gleaming gold with noble accoutrements.
+
+History
+In 1372 DR, Dessaer, under the suggestion of his advisor Seyll Auzkovyn, offered welcome and protection to the drow outcasts Ryld Argith and Halisstra Melarn.
+
+Appendix
+
+Appearances
+Novels
+ Condemnation
+
+References
+
+---
+
+## Defiance in Phlan
+
+Defiance in Phlan, designed by Shawn Merwin, is an adventure module set in the Forgotten Realms using the Dungeons & Dragons 5th edition ruleset. It is part of the Tyranny of Dragons series of adventures published for the D&D Adventurers League. It focuses on Phlan, the Cult of the Dragon, and the Madame Freona's Tea Kettle.
+
+Summary
+The adventure starts off at Madame Freona's Tea Kettle, where adventurers are approached by a series of agents from the Harpers, the Order of the Gauntlet, the Emerald Enclave, the Lords' Alliance, and in turn the Zhentarim. Each subsequent mission leads the party to cross paths with the plots of the Cult of the Dragon and a number of draconic leads. These include a deal for a blue dragon tooth, the former lair of a black dragon, a polymorphed green dragon, a stolen dragon egg, and a map to the lair of a white dragon.
+
+Index
+
+Characters
+
+Creatures
+
+Locations
+
+Magic
+
+Organizations
+
+Religions
+
+Miscellaneous
+
+Credits
+ D&D Organized Play: Chris Tulach
+ D&D R&R Player Experience: Greg Bilsland
+ D&D Adventurers League Wizards Team: Greg Bilsland, Chris Lindsay, Shelly Mazzanoble, Chris Tulach
+ D&D Adventurers League Administrator(s): Claire Hoffman, Robert Adducci, Travis Woodall, Greg Marks, Alan Patrick
+Appendix
+External Links
+
+ PDf provided by Wizards of the Coast
+ Tyranny of Dragons Adventurer's League
+References
+
+Connections
+
+---
+
+## Desert Wind
+
+The Desert Wind was a bandit organization located in the Plains of Purple Dust during the mid–14th century DR.
+
+Organization
+The Desert Wind had roughly 350 members, most of whom were warriors equipped with leather armor or chain mail. They were ruled by Sheik Ar-Rabi, who was served by his lieutenants Yasir and Mabad. Abu Jafar, a priest of Cyric, and Al-Warrakh, a wizard, aided the Sheik on raids.
+
+Base of Operations
+The Grinning Skull oasis served as their base of operations.
+
+Activities
+The Desert Wind raided the scattered tribes of the Plains of Purple Dust and southern Murghôm.
+
+Tactics
+Bandits of the Desert Wind would force prisoners, and even lizards, to drink from the dangerous pools of the Grinning Skull until they discovered which pool was safe to drink from on that particular day.
+
+Appendix
+References
+
+---
+
+## Delbyl
+
+Delbyl was a town located in southern Murghôm.
+
+Description
+Delbyl sat at the point where the Road of the Dawn split into its northern and southern branches.
+
+The town was made up of mud-brick houses, with a few gardens, orchards, and courtyards surrounded by walls. Wild animals such as goats, hens, geese, and sheep wandered the streets.
+
+Delbyl had a market, but it was mostly used by shepherds and farmers who brought their wares in from the surrounding countryside, selling to the merchants passing through the town on their way to Murghôm or Semphar.
+
+Inhabitants
+Emir Yaghi-Siyan ruled Delbyl.
+
+No armed garrison was kept at the town, but a small group of twelve maliks and their men kept order in the city. They were considered strict, and used wooden rods for punishing people.
+
+Appendix
+Appearances
+Video Games
+
+Dungeon Hack
+References
+
+---
+
+## Delacrae Gentleblossom
+
+Delacrae Gentleblossom was a sage and shopkeeper in Phlan in 1489 DR.
+
+History
+Delacrae ran a shop in Phlan called All Questions Answered, where she used her sage knowledge to answer customers' questions. She was consulted about a suspect dracolich or ghost ship's attack but she had no answers in this case.
+
+Appendix
+Appearances
+Shadows over the Moonsea
+
+References
+
+---
+
+## Death link
+
+Death link, also known as body sympathy, was an arcane necromantic spell that connected the caster with a target creature in such a way that damage or healing to one also affected the other.
+
+Effects
+When cast, the target had to be within 240 yd (220 m) of the caster, but for the duration of the spell, the distance between caster and target did not matter  as long as they were both on the same plane of existence. If one of the participants traveled to a different plane, then the link was severed with no ill consequence. For the oldest version of this spell, it was only required that the caster visualize his or her victim.
+
+While linked, any damage suffered or healing bequeathed to one was also transferred to the other. The spell lasted a minimum of two hours and forty minutes; longer for more experienced casters. The target had a chance to resist the magic of this spell or else both participants were locked into the spell—even the caster could not dispel it prematurely. If the caster was killed, then so was the linked creature, but not vice versa. However, if the target creature had more health than the caster to start with, then it was possible for the caster to die from transferred damage, leaving the victim wounded but alive.
+
+Usage
+This spell was sometimes used to inflict torment as revenge on a weaker enemy, but saw more frequent use in preventing treachery during negotiations. It could also be used to heal a comrade that was in a dangerous situation but inaccessible by normal healing means.
+
+Components
+Only verbal and somatic components were required to cast this spell. The oldest version of this spell also required the utterance of the target's true name as part of the casting.
+
+History
+Death link was recorded in a tome of unknown origin called The Alcaister at least 600 years before it was published in Volo's Guide to All Things Magical when it became generally known to the magical community, although it was uncommon to find it.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Dead Dwarf Bridge
+
+Dead Dwarf Bridge, or Clearflow Bridge, was located near the Lake of Mists next to the small city of Drubiev. This site had an evil reputation among locals since it marked the final stand of Theodo Greataxe and his seven loyal companions.
+
+As of 1375 DR the bridge was formerly known as the Riverview Span.
+
+Description
+This solid bridge was constructed by dwarves with fine rosy marble.
+
+History
+During the collapse of Raumathar and Narfell, Theodo and his companions were able to hold off the forces of Narfell, barring their access to Clearflow Bridge.
+
+Invading forces from Narfell slipped past all Raumathar patrols with the exception of a patrol led by Theodo, who was able to keep them from crossing the bridge and gaining access to Almorel. Theodo sent his five scouts ahead to warn of the impending attack, retaining only seven loyal dwarves for his stand against the overwhelming enemy. Unable to destroy the bridge in time, the dwarves knew they would surely perish against the forces of Narfell who numbered one thousand riders.
+
+Theodo's dwarves stood in the center of the bridge, two abreast, and faced the onslaught from Narfell. Initially the Nar simply charged the dwarves, hoping their superior numbers would overwhelm the smaller force, but the dwarves held strong, losing only Talmar of Baraski to grievous wounds. Arrows were used next, but the dwarves were safe behind a wall of the corpses of humans and horses and behind their sturdy shields. One arrow killed Uthos when it struck him in the head. Three more dwarves fell in battle, leaving only three to defend the bridge; these were Njal Granitson, Molnir the Mighty, and Theodo Greataxe himself.
+
+A Nar wizard used his magic to force Njal to attack his companions. During the ensuing struggle, Njal and Molnir tumbled over the side of the bridge to their deaths on the rocks and river below. Only Theodo remained.
+
+The last remaining dwarf bravely met charge after charge. It was said that the Clearflow River ran red with the blood of his enemies that day. Bleeding from a hundred injuries, and knowing he could hold out no longer, Theodo shattered Greataxeson, his magical weapon, on the bridge and tossed the broken fragments into the river. The bridge cracked from the blow and Theodo charged the Nar, killing another twenty with only the haft of his shattered weapon, before he finally succumbed to his injuries.
+
+The restless spirits of Theodo and his men still guarded the bridge in undeath. However, in 1371 DR a dwarven cleric exorcised the spirits, allowing them to rest in the afterlife.
+
+Appendix
+References
+
+---
+
+## Derdek Deepingdell
+
+Derdek Deepingdell was a male dwarf fighter and the proprietor of the Bear's Den inn of Thunderstone in the late 1360s DR.
+
+Derdek was quite short and wide for a dwarf and bore a very bushy beard. All in all, he resembled a small bear himself.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deathwallow
+
+Deathwallow was a green hag of the Bloodroot Coven in Twilight Marsh near Phlan in 1489 DR.
+
+History
+In 1489 DR, Deathwallow was captured by the black dragon Throstulgrael.
+
+Appendix
+
+Appearances
+ Raiders of the Twilight Marsh
+
+References
+
+---
+
+## Dessarin Valley
+
+The Dessarin Valley, also known as the Gateway to the North by its residents, was a valley region situated between the Sword Mountains and the High Forest. It was home to a diverse range of folk, although most inhabitants were either humans or halflings. The main industry of the Dessarin Valley was agriculture, and Goldenfields played a large part in the agricultural economy of the North.
+
+The Dessarin was unlike the rest of the Savage Frontier. While it was largely unsettled, comprising many scattered, remote villages and farmsteads, the valley was much safer than the surrounding area had been in years past.
+
+Geography
+The region of the Dessarin Valley was bordered on the east by the High Forest and the Forlorn Hills, and on the west by the Long Road.
+
+Geographical Features
+Mountains and hills
+ Dessarin Hills: These rugged hills held a number of ancient dwarven ruins and were home to orcs, ogres, and other fearsome beasts.
+ Sumber Hills: The badlands located on either side of the River Dessarin held a number of notable locations, such as the Halls of the Hunting Axe ruins and the Feathergale Spire in the Sighing Valley.
+
+Rivers and streams
+The valley was named for the great River Dessarin, that flowed from the Evermoors in the Savage Frontier, to the Sea of Swords just south of Waterdeep. It was fed by a number of tributaries, including the River Surbrin, Horn Stream, and Gaustar's Creek.
+
+Wetlands
+ Black Maw Bog: These wetlands surrounded the area around and underneath the massive Ilikur's Bridge.
+
+History
+In, the shield dwarf kingdom of Besilmer was founded. Besilmer was a very atypical dwarf kingdom, built above ground with fields and pastures to support it. For years, Besilmer flourished but then fell under attack by giants and trolls. This led to the construction of Tyar-Besil, an underground city. Besilmer fell a century after its construction. Ruins from the kingdom still stood as late as the 15 century DR, most notably the Stone Bridge that spanned the Dessarin River; and, although in poor condition, the ruins known as the Halls of the Hunting Axe.
+
+In the, the Knights of the Silver Horn discovered the ruins of Tyar-Besil. The knights set up strongholds in the ruins but came under attack by Uruth Ukrypt. This led to Dessarin Valley being dragged into the Orcfastings War, and the First and Second Trollwars. By the, all signs of human civilization had been wiped out.
+
+In the, the lower area of the valley was the location of a fallen manor for the Schooled, students taught by Magister Caldauvur Maerglauthyn until his death in the same year and at the same manor.
+
+Around the, following the expansion of Waterdeep, a few small villages started to develop. This led to the founding of Red Larch, Yartar, and Triboar.
+
+Notable Locations
+Settlements
+Thorps
+ Bargewright Inn: Though it began as a single boarding house, this settlement grew large enough to be targeted by the Zhentarim and fall under their sway.
+
+Villages
+ Amphail: The village of Amphail was well known for the quality horses that were bred within.
+ Beliard: This delightful little village served as a marketplace for cattle ranchers from the surrounding areas.
+ Calling Horns: Like several settlements found throughout the North, Calling Horns grew from a single building to a thriving community.
+ Longsaddle: Home to the famed Harpell family, this small village fell under the protection of the Lords' Alliance.
+ Noanar's Hold: The isolated village on the edge of the High Forest was located within the region patrolled by the undead Hunt Lords.
+ Red Larch: This way-stop settlement was located on the Long Road, a ways north of Waterdeep.
+ Westbridge: The town that housed the charming Harvest Inn, was so named for its location to the west of Stone Bridge.
+
+Towns
+ Goldenfields: Also known as the "Granary of the North", this massive temple-farm provided food for many settlements in the North.
+ Mornbryn's Shield: Located on the western edge of the Evermoors, this town was forced to regularly defend itself from the creatures of the swamp.
+ Triboar: This bustling crossroads town was the meeting place for many merchants that traveled along the Long Road or the Evermoor Way.
+ Womford: This small village featured a mill, a marketplace and riverside docks.
+ Xantharl's Keep: Named after a famous ranger of the North, this fortified village fell under the authority of the northern city of Mirabar.
+
+Cities
+ Yartar: The member-city of the Lords' Alliance, was the commercial center of the region.
+
+Other
+ Manor of the Schooled: One of the communities where Magister Caldauvur Maerglauthyn strictly taught novices to become formal wizards until 949 DR. It fell with Caldauvur's death.
+ Griffon's Nest: The ancestral mound of the Griffon tribe of Uthgardt barbarians was nestled within the northern Surbrin Hills.
+ Rundreth Manor: After it fell into ruin, this stone manse was taken over as the residence of "the Dark Lady".
+
+Landmarks
+Abbeys, Monasteries and Temples
+
+ Scarlet Moon Hall: This refuge was home to the Scarlet Moon druidic circle.
+ Summit Hall: Originally founded by Samular Caradoon, this monastery served as the headquarters of the Knights of Samular.
+ Vale of Dancing Waters: Considered sacred to the dwarves of the North, this hidden valley housed the Shrine of the Tender Oath, which was dedicated to the goddess Sharindlar. The vale was located on the west side of the River Dessarin, at the end of a hidden trail leading south from the Stone Bridge. Called "Tyn'rrin Wurlur" in Dwarvish, it was once the site of the summer palace of King Torhild Flametongue of Besilmer.
+
+Keeps and Towers
+ Feathergale Spire: Home to the dashing, aerial-mounted Feathergale Knights, this tower offered a commanding view of the entire valley.
+ Rivergard Keep: Locates on the banks of the River Dessarin, this stronghold house bandits that operated under the guise of well-meaning mercenaries.
+
+Ranches and farms
+ Anderil Farm: This farm was run by the half-elf Selwyn and his wife Maygan.
+ Dellmon Ranch: The Dellmon farm was quite successful and its namesake family were well known throughout the region.
+ Nettlebee Ranch: The Nettlebee clan of halflings raised cattle, sheep and ponies on their quaint little ranch.
+
+Ruins
+ Halls of the Hunting Axe: These ruins were a remnant of the great dwarven realm of Besilmer.
+ Nesmé: Though it was once a thriving town, Nesmé fell shortly after the War of the Silver Marches.
+
+Bridges
+ Ilikur's Bridge: This grand bridge spanned a stretch of wetlands along the Long Roach, between the Sword Mountains and Dessarin Hills.
+ Ironford: The surrounding village of Womford grew around this bridge, which crossed the Dessarin River at the Iron Road.
+ Stone Bridge: The great stone archway that crossed the Dessarin once connected two regions of the dwarven realm of Besilmer.
+ Zundbridge: While not as remarkable as the valley's other bridges, Zundbridge allowed for crossing of the Dessarin just south of Waterdeep.
+
+Roads
+ Cairn Road • Dessarin Road • Evermoor Way • Jundar's Pass • Iron Road • Kheldell Path • Larch Path • Long Road • Stone Trail
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+ Storm King's Thunder
+ Dragonfire
+Further Reading
+
+Gallery
+
+References
+
+pt-br:Vale Dessarin
+
+---
+
+## Devamari
+
+Devamari  was a doppelganger criminal in Mulmaster in 1491 DR.
+
+Activities
+The doppelganger acted as the right hand of crime lord Gethmedra Darmov at the Black Blade and Bloody Boar tavern/gladiator arena. Its role was to prevent gladiators from using magic in the fights.
+
+Appendix
+Appearances
+ Mayhem in the Earthspur Mines
+
+References
+
+---
+
+## Deularla Ithruen
+
+Deularla "Hightower" Ithruen was a gold elf wizard and adventurer from Evermeet who resided in Cormyr in 1367 DR.
+
+Activities
+Deularla used her spellcasting abilities as an adventurer in the Six Splendid Swords band.
+
+Relationships
+Though not initially attracted to him, Deularla eventually became smitten with a fellow adventurer and member of the Six Splendid Swords, Dunman Kiriag. They were married shortly thereafter.
+
+History
+Deularla was killed by a dragon's fiery breath. She used her last ounce of strength to cast a spell enabling her essence into her husband. Her spirit lived within Dunman, warning him of danger and helping him to recall obscure memories. On occasion she would use Dunman's body to speak to others as herself.
+
+Appendix
+References
+
+---
+
+## Deceiver genie
+
+Deceiver genies were tasked djinn whose lives revolved around deception and illusion. Oddly enough, deceiver genies were more susceptible to believing illusions than most creatures.
+
+Description
+The true form of a deceiver genie was difficult to ascertain because of the constant web of illusions surrounding them. Powerful sha'irs were needed to penetrate their true appearance.
+
+In their natural form, deceiver genies were tall and gaunt. They had one blue eye and one brown. Their skin was a mottled grey color.
+
+Combat
+These genies were cowards who were constantly surrounded by an illusionary effect similar to that of a displacer beast.
+
+All deceiver genies could use the following spell-like abilities at will: change self, delude, false vision, tongues, misdirection, undetectable lie, whispering wind.
+
+They could use the following abilities twice per day: distance distortion, massmorph, spectral force, shadow magic.
+
+The following powers could be used once per day: disbelief, projected image, solipsism, sundazzle, and once per week they could use the following: mass suggestion, permanent illusion, programmed illusion, veil.
+
+All illusions created by a deceiver genie could only be dispelled or defeated by extremely powerful archmages or their equivalent.
+
+If forced into physical combat they could attack with their great strength and steel nails with raking attacks at their opponent’s eyes.
+
+Habitat/Society
+Deceiver genies would occasionally build, and hide, small communities within the desert. They were capable of lying even under any form of magical coercion.
+
+If given idle time, a deceiver genie would concoct ways of making life miserable for their master. They viewed the entire world as a blank canvass on which they could paint their lies and deceptions.
+
+Though they did not care about wealth, deceiver genies were fascinated by all forms of art. Because of this they would never harm artists, including bards.
+
+Their utterly unpredictable nature and high intelligence made them at least as dangerous as slayer genies.
+
+Ecology
+These genies served the noble djinn or, in rare instances, a powerful janni. Binding a deceiver genie to servitude was a dangerous affair as the genie usually appealed to their master’s servants to betray them.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Defenders Mamluk Society
+
+The Defenders Mamluk Society, also known as the Defenders, was a military organization in Zakhara.
+
+Activities
+The Defenders were charged with the protection and defense of mighty Qudra.
+
+Organization
+The Defenders were led by Akir Abd al-Himaya.
+
+Base of Operations
+Since the defense of the city was the sole task, the Defenders were rarely encountered outside of her walls.
+
+Appendix
+References
+
+---
+
+## Devoted Mamluk Society
+
+The Devoted Mamluk Society, also known as the Devoted, was a military organization in Zakhara.
+
+Activities
+The Devoted and Exalted were bitter rivals, leading to frequent conflicts in the region of the Cities of the Pantheon.
+
+Organization
+The Devoted were led by Amahl Abd al-Muhlis, the Most Respected Warrior.
+
+Base of Operations
+The Devoted were scattered through the Cities of the Pantheon, but their strongest presence was within I'tiraf and Fahhas.
+
+Appendix
+References
+
+---
+
+## Devout Mamluk Society
+
+The Devout Mamluk Society, also known as the Devout, was a military organization in Zakhara.
+
+Activities
+This mamluk organization was tasked with protecting the prince of Kadarasto, Nari ibn Aman.
+
+History
+This group was initially part of the Devoted. They were originally sent with the goal of expanding religious activity in the region, but most of their time and concern was spent protecting the young prince, so the Grand Caliph recognized them as a separate mamluk organization.
+
+Organization
+The Devout were led by Mustah Abd al-Nasik.
+
+Base of Operations
+The Devout were based within the Cities of the Ancients in Kadarasto.
+
+Appendix
+References
+
+---
+
+## Del Geery
+
+Del Geery was a human farmer in the town of Thunderstone in Cormyr in the mid–14th century DR. He was notably prosperous and enterprising, particularly in the hydra trade.
+
+History
+In the late 1340s DR, Geery increased the yields of his crops of carrots and clover, but his fertile fields attracted hordes of rabbits. These were followed by a variety of predators, like badgers and wolves. Normal means of controlling such pests, like traps and poison, failed to curb their numbers—for every animal trapped or killed, it seemed two more arrived.
+
+At a loss, Geery consulted his neighbor, the explorer Hadley Erridge, who proposed that Geery get a hydra. A hydra, Erridge claimed, would devour or scare off the pests then depart when there were no more prey. The damage to the farm would be more than outweighed by the benefits of getting rid of the burgeoning pest population, Erridge thought. Despite his skepticism, Geery agreed to finance Erridge with 20,000 gold pieces for an expedition into the Vast Swamp to capture a live hydra. Erridge and his thirty-man expedition ventured into the feared swamp.
+
+Two months later, they emerged, successful, with an adult hydra in a cage of iron. Geery gave each member of the expedition a bonus of 100 gp before they were dismissed. Geery based himself in a local cave while Erridge released the hydra. It rampaged about the farm, scaring away all the animals within a few days. However, despite what Erridge said about the hydra returning to the swamp, it instead stuck around and began building a nest by the pond. The hydra was, in fact, pregnant. Outraged, Geery gave Erridge the sack, then, for 15,000 gp, hired a group of warriors to slay the hydra, at which they at least were successful.
+
+Geery was down 38,000 gp and had a dead hydra on his hands. Determined to recoup his losses, he spent some 40,000 gp hiring the best rangers and wizards of the realm to help him discover the uses to which one could put the carcass of a hydra. He intended to use every part of the beast, and wring out every coin he could.
+
+He was so successful at this new trade that he began to fund new hydra-hunting expeditions in the Vast Swamp. By 1367 DR, he'd earned a reputation in hydra trade, and projected that his profits from hydra products would, in a few years, outweigh those of his crops.
+
+Activities
+Del Geery conducted pioneering agricultural research. He was able to improve the yields of his carrot and clover crops and increase the output of his cornfields threefold. He was also able to grow wheat in soil so poor it wouldn't sprout ragweed.
+
+However, the harvesting, making, and selling of hydra-based products was just as profitable. Geery was able to extract a great variety of useful wares from the corpse of a hydra. The teeth could be used to fashion almost-unbreakable blades for hoes, plows, and saws; the skin could be dried to make warming covers for plants; the dried tongues could be used to predict the weather; ground hydra bones were an excellent desiccant; hydra fat was an oddly useful rat poison; and finally the head would scare away birds and small mammals.
+
+Thanks to his hard work and enterprising nature, Geery was prosperous and enormously wealthy, his fortune thought to be in the thousands or millions of gold pieces.
+
+Lands
+Geery's farmland extended from the edge of the Vast Swamp to the foothills of the Thunder Peaks.
+
+Appendix
+References
+
+---
+
+## Desert Mosque
+
+The Desert Mosque, also called the Oasis of the Desert Mosque, was a religious structure in Zakhara where Haku, the Zakharan god of freedom, was worshiped.
+
+Location
+The Desert Mosque was located about halfway between the Pit of the Ghuls and the Sea of Caravans in the northern reaches of the High Desert.
+
+Description
+The Desert Mosque was a massive dome constructed of volcanic rock. It was mostly buried in the sand but faced Huzuz, the City of Delights.
+
+Activities
+The Dome Dancers worshiped Haku at this mosque.
+
+History
+The location of the Desert Mosque was the site where the first desert dweller, Yusef al-Nasr, received enlightenment.
+
+Inhabitants
+The Desert Mosque was run by a man named Angaloran.
+
+Defenses
+A different clan from the House of Nasr protected the Mosque for a year at a time.
+
+Appendix
+References
+
+---
+
+## Deseyna Norvael
+
+Deseyna Norvael was a prisoner at the Fane of the Eye under Tyar-Besil during the Elemental Evil crisis.
+
+History
+In 1491 DR, Deseyna was chosen among many others to be part of a diplomatic delegation to Mirabar. However, at Beliard in the Dessarin Valley, they were ambushed by the Cult of the Black Earth. Deseyna was captured and transported beyond the River Dessarin. There, in the Sumber Hills, they were attacked by the Cult of the Howling Hatred, which captured Deseyna.
+
+The air cultists took her to a jail at the Fane until some adventurers infiltrated the temple and freed her.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+
+References
+
+---
+
+## Derendil
+
+Derendil was a quaggoth who inhabited the Underdark during the late 1480s DR.
+
+Personality
+Under the influence of the demon lord Fraz-Urb'luu, Derendil believed himself to be an elven prince from the kingdom of Nelrindenvane in the High Forest who was polymorphed into a quaggoth by an evil wizard. Nobody could convince him that his story was false.
+
+History
+Derendil was captured by drow slavers of Velkynvelve during the late 1480s DR.
+
+Appendix
+Appearances
+ Out of the Abyss
+
+References
+
+---
+
+## Dessandra
+
+Dessandra was a member of the Red Plumes of Hillsfar in the Moonsea in the late 15 century DR.
+
+History
+Circa Dessandra led a Red Plume patrol to a factory to retrieve the red dye that the Goodroots produced from the beet juice harvested on their farm. However, only Constance Goodroot, the daughter of the factory's owners, was there and the dye was not yet ready. With the help of some adventurers there, Constance managed to keep Dessandra quiet.
+
+Appendix
+
+Appearances
+ Harried in Hillsfar
+
+References
+
+---
+
+## Deirk Erlich
+
+Deirk Erlich was a man living in Hillsfar in the late 15 century DR.
+
+History
+Deirk lived with his family in the slums of Hillsfar until circa 1486 DR, when his brother Haakon Erlich, a officer of the Red Plumes, told him that the Tinfellow Farm was now vacant and he could take him there. Deirk, with his sons and a carpenter, started repairing the farm along with Baar, when an adventuring party arrived asking about the Tinfellow family. Deirk lied to them, saying that he had lived here for years and had recently been attacked by elves.
+
+Appendix
+
+Appearances
+ Shackles of Blood
+
+References
+
+---
+
+## Deriel Rethslane
+
+Deriel Rethslane was a moon elf scout living in Cormanthor in the late 15 century DR.
+
+History
+Deriel lived in the woods of Cormanthor for a century until she met the drow merchant Arrizz and the two fell in love.
+
+Circa 1486 DR, however, Arrizz was captured by the Red Plumes and destined to go to the Hillsfar Arena. Deriel negotiated an exchange for him: she would deliver to them worthy fighters and they would release Arrizz.
+
+She saw an adventuring party asking about the Tinfellow family and decided they would be a good choice. So she tried to lure them into an ambush of the Red Plumes. Despite this, Deriel was eventually betrayed by Breex Vandermast and she was also sent to the Arena, without receiving news about her lover.
+
+Personality
+Deriel had the habit of chewing on her thumbnail when listening to others speaking. She had little patience for debate or contemplation. Deriel's main goal was protecting the harmony of nature, and defending elven people.
+
+Appendix
+Appearances
+ Shackles of Blood
+
+References
+
+---
+
+## Denver Gilliam
+
+Denver Gilliam was a businessman in Skullport.
+
+Personality
+Denver liked written contracts. All his employers had to sign a very wordy and complicated contract that guaranteed a term of service and specified the penalties to be incurred should the contract be broken; in truth, he used the contacts to scare his subordinates.
+
+History
+An outcast noble of Waterdeep, he tried a career in adventuring until he discovered his true vocation: restaurateur. Soon, Denver had opened a series of taverns all over the city, becoming very rich. In 1370 DR, he had to become the head cook of Traitor Picks, after the regular cook was fired and nobody wanted to stay in the position.
+
+Appendix
+
+References
+
+---
+
+## Destroyer
+
+The Destroyer, or He Who Learns to Destroy, was a yak-man who lived beneath Huzuz in the Lair of the Unspeakable in 1367 DR.
+
+Activities
+The Destroyer learned to speak Midani from a slave in the World Pillar Mountains. Since he could read and write the language, he spent much of his time studying stolen texts written in Midani. Over the years he raided all of the great mosques, save the Golden Mosque, for books, amassing quit a collection. He also stole books from wizards and other libraries. Any useful information he learned was given to the Unspeakable so he could use it against the Grand Caliph. He ventured forth to the mosques with an earthservant when he needed new reading material.
+
+The Destroyer was able to create one of the finest libraries in all of Huzuz from his illicit ventures.
+
+Possessions
+The Destroyer used a staff of withering.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Delras
+
+The Delras was the spelljamming ship of the lich Demchungchumrub.
+
+Description
+The Delras was a great galley that had been specially outfitted to travel beyond Toril.
+
+Crew
+The entire crew of the ship were either charmed living people or reanimated undead under Demchungchumrub's complete control.
+
+Appendix
+References
+
+---
+
+## Delthym
+
+Delthym of Chauntea was a cleric of Chauntea and one of the leaders of the Fellowship of the Purple Staff in the mid-to-late 14 century DR.
+
+Description
+Delthym was a huge man who was losing what white hair he had left.
+
+Personality
+He was known to be a kind man.
+
+Possessions
+He had some land west of Alaghôn in Turmish on which he grew crops.
+
+Activities
+In the, he and other clergy of Chauntea, Helm, and Selûne from around the region got together and started an organization called the Fellowship of the Purple Staff whose aim was to bring about a new country they called the Holy Realm. They planned to occupy and settle in the portion of the Gulthmere Forest east of Cedarsproke. Over time, they acquired members from the churches of Lathander and Sune, and convinced the followers of Nobanion that they would care for the forest and its creatures.
+
+Appendix
+References
+
+---
+
+## Delitar
+
+Delitar the Slow was a historian working in Westgate in the mid–14 century DR. He was considered by many to be the greatest human historian in the Realms in 1358 DR.
+
+Description
+His nickname derived from his very slow speech, the result of a verbal stutter. It could take a long time for him to tell a story, and some believed it meant he was slow of mind as well, but this was far from the truth.
+
+Activities
+Delitar was one of the most respected historians of the Realms, and was quoted by many sages. He had three subservient sages specializing in regional history and many scribes that worked under him.
+
+Artides, the rock gnome historian, studied under Delitar during his teenage years.
+
+Appendix
+References
+
+---
+
+## Detrinius Wands
+
+Detrinius Wands was a Faerunian lich in T'u Lung in 1358 DR.
+
+History
+Detrinius Wands was a lich from Faerun who decided to go to Kara-Tur, believing it was a land without clerics. However, he was trapped by a curse in a maze in T'u Lung's Underdark.
+
+Personality
+Detrinius went mad from solitude. He was desperate for company. If he met someone, Detrinius tried by all means not to remain alone anymore. He also wanted news about the outside world.
+
+Appendix
+References
+
+---
+
+## Death Masks
+
+Death Masks by Ed Greenwood is the first book of the Chosen Heirs series.
+
+Summary
+
+Index
+Characters Ammasker Gwelt • Andalar Helmfast • Belvarra Bowmantle • Braethan Cazondur • Bowgentra Summertaen • Brandeleira Talost • Burruld • Darleth Drake • Dolpherus Thangolir • Dresdark Kormallis • Elegal Nandar • Erland Husteem • Harlbrittur Kothont • Eskeneldur Manthar • Faerrel Dunblade • Halmor Assumbar • Hamaleiya Zulpair • Harlbrittur Kormallis • Jalester Silvermane • Laeral Silverhand • Lungard Zun • Malryn Lavalander • Mirt the Moneylender • Myrathranda Gost • Omin Dran • Orond Gralhund • Oszbur Malankar • Relavarr Agundar • Tasheene Melshimber • Vajra Safahr • Volothamp Geddarm • Weverell Zun • Xanathar
+
+Asmodeus • Eilistraee • Jhaele Silvermane • Mystra • Valkur
+
+Creatures Cloud giant • Mindflayer • Weaveghost
+
+Organizations
+
+Guilds of Waterdeep Guild of Apothecaries and Physicians • Baker's Guild • Carpenters', Roofers', & Plaisterers' Guild • Coopers' Guild • Council of Farmer-Grocers • Fellowship of Innkeepers • Guild of Glassblowers, Glaziers, and Spectacle-makers • Jewelers' Guild • Stablemasters' and Farriers' Guild • Solemn Order of Recognized Furriers and Woolmen • Splendid Order of Armorers, Locksmiths, and Finesmiths • Surveyors', Map-, and Chart-makers' Guild • Watchful Order of Magists and Protectors • Guild of Watermen • Xanathar Thieves' Guild
+
+Other Harpers • Steel Shadows
+
+Locations
+
+Cities Waterdeep
+
+Dungeons Downshadow
+
+Inns & Taverns Bountiful Boar •  •  •  •  •  •
+
+Temples • Wavehall of Valkur
+
+Misc
+Musical Works
+The Rolling Road of the Wayfarer
+Plays
+Mir Undefended • Storm-Tossed Seafarings
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Deng Tse Chin
+
+Deng Tse Chin was a shukenja adventurer in Shou Lung.
+
+Possessions
+Deng was known to possess a set of o-yori that he kept in a rosewood container, a daikyu and quiver, a spear with a scabbard for on his horses,  a hooded lantern, a book of poetry, and a map of Kozakura. The arrows in his quiver included the standard variety, armor piecing, leaf head, screaming arrows, and fire arrows.
+
+His wardrobe included both cotton and silk inner and outer robes, a hakkan (cotton trousers), a pair of sandals and boots, a fur cloak and hat, a obi (silk sash), a mino (rain cape), gloves, and a loincloth.
+
+He also owned, passed down him as a family heirloom, an ancient katana and wakizashi with scabbards. As well as both a thoroughbred and draft horse, for whom he owned barding and a variety of equipment for taking care of.
+
+History
+Growing up as an abandoned child in the Sheng-Ti monastery, known as "The Sanctuary", in the city of Hsi-Feng, Deng learned all about the Path of Enlightenment and the Immortal Fa Kuan, patron of the monastery. He trained in kung fu of the Horizon style.
+
+At Deng's coming of age, the abbot explained to him that a fortune in silver and gems had been wrapped in his robes when he was found, suggesting he was of noble birth.
+
+Deng started travelling to teach the Path's doctrines and maybe uncover the secret of his birth. After two years, in 1358 DR, Deng decided to attend the Komite.
+
+Appendix
+Behind the scenes
+Deng Tse Chin was a pre-generated PC for use in adventures in Shou Lung. In the plot of the adventure, he was the chosen relative of the Emperor.
+
+References
+
+---
+
+## Deadly dance
+
+Deadly dance was a divine magic spell available to specialty priests of Lliira, the Joybringer, and other priests that followed a more martial faith with emphasis on combat. It granted perfect balance and enhanced dexterity to the recipient, but with an impetus to move.
+
+Effects
+This spell only worked on bipedal creatures with four limbs, such as a humanoid or a creature in this form at the time of casting. The spell fizzled if cast on a being that was not a four-limbed biped, or if the subject changed its form away from this archetype. The caster had to successfully touch the recipient to cast deadly dance. The only way to avoid this spell was to avoid the caster's touch. Once cast, the deadly dance lasted four minutes.
+
+The recipient of this spell suddenly had a strong urge to move, and it took determined concentration to remain in one place. He or she was granted a perfect sense of balance, the grace of a masterful dancer, and enhanced dexterity. If the subject was already extremely dexterous, deadly dance could briefly give them supernatural agility. Under the influence of this spell, the recipient could jump, spin, leap, and twirl with perfect accuracy, landing precisely on targets that normally would require an extreme amount of luck to reach without falling or flailing, such as a thin ledge or a narrow fence post. On top of this, the subject could catch and throw items, use weapons, or cast spells while in motion. If they chose to attack, he or she could use their enhanced agility to greatly increase their combat skill, or to double the number of attacks at their normal skill level.
+
+Components
+In addition to verbal and somatic components, this spell required material components, a bit of rubber and a small swatch of silk to cast.
+
+Realmslore
+Specialty priests of Lliira that reached a certain level in service to their goddess were granted the ability to cast this spell once a day. This gift increased to multiple times per day as they continued to advance.
+
+Appendix
+Further reading
+ Spelldancer
+References
+
+---
+
+## Detect metals and minerals
+
+Detect metals and minerals was a spell used commonly in Zakhara, the Land of Fate. This spell was only usable by wizards. However, by 1372 DR, it was known to clerics and mages in Faerûn, including worshipers of Geb, Abbathor, Callarduran Smoothhands, and Flandal Steelskin.
+
+Effects
+The caster used this spell to determine the location of a single type of ore or mineral per casting, revealing the direction and distance of the material to the caster. Additionally, the relative amount of material present at the location was also revealed. It could locate anything from a heap of coins to a vein of ore, and penetrated stone and other barriers and obstacles.
+
+It was common for larger quantities of the material to hide smaller quantities in the same area, forcing the caster to focus their concentration as he or she approached the location.
+
+Components
+In addition to verbal and somatic components, this spell required a small magnet, a vial of weak acid, and a small portion of the material that the caster wished to detect. By 1372 DR, one only needed the sample material, but it had to be at least 10 pounds (4.5 kilograms). An unworked sample meant only unworked metals were found, like ore deposits and mineral veins, while a refined sample permitted refined metals to be discovered. A caster could choose a new sample mid-spell and so find a different metal.
+
+Appendix
+See Also
+ Treasure scent
+
+References
+
+---
+
+## Delgara Dauntsword
+
+Delgara Dauntsword was a tavern owner in Kheldell in 1370 DR. Once she was an infamous pirate in the Sword Coast
+
+Possessions
+Delgara always stored a powerful magical dagger within her capacious bosom.
+
+Rumors & Legends
+Delgara was believed to have killed a favored son of a High Captain of Luskan, forcing her into hiding.
+
+Appendix
+References
+
+---
+
+## Delfen Ondabarl
+
+Delfen Ondabarl was the greatest wizard of Daggerford and a teacher at the Sorceller's Encapsulate around 1370 DR.
+
+Description
+Delfen Yellowknife was a human male with well-groomed and fashionably styled facial hair. His rich-looking robes betrayed his vocation of a wizard.
+
+Personality
+Delfen Yellowknife could be deemed a happy-go-lucky individual. He was friendly and gladly showed visitors around his beloved guild.
+
+Relationship
+Sujit the imp was Delfen's close friend and familiar ever since he rescued the little creature from its cruel master, Mogdor - Delfen's bitter nemesis.
+
+Delfen Ondabarl's one time apprentice was Vexter the Master of Illusion. By the mid 14 century DR, Vexter finished his apprenticeship and adventured across the Planes.
+
+History
+Delfen was an adventuring wizard from Iriaebor who retired to Daggerford around 1355 DR.
+
+After retirement, he spent his time tutoring the next generation of mages. He lived in an abandoned tower in exchange for a donation to the duchy's treasure. He became famous from Icewind Dale to Calimshan as a very patient teacher of the arcane arts. Delfen also helped the local militia in all magical matters.
+
+Circa 1372 DR Delfen was a member of the Sorceller's Encapsulate mages guild. During that time, he was distracted due to the recent disappearance of one of his dearest friends and often teared up thinking about the dire situation. The Hero of Daggerford came across him during their visit to the Encapsulate's library and offered their aid, but Delfen did not have the slightest idea where even to start the search. The missing person was Sujit the imp, Delfen's friend and familiar. The creature was captured by a bounty hunter, and criminal from Daggerford named Erik the Fin who was promised one thousand gold coins for the task. Mogdor, Sujit's previous master wanted the creature back and punished for a betrayal. Erik successfully captured the imp but lost the chest that served as Sujit's prison. The chest disappeared into Delimbiyr River and washed ashore hours away from the city, in a water cave in the Western Farmlands. The Hero of Daggerford agreed to help Erik the Fin recover his missing chest without realizing who or what was inside.
+
+When the Hero found the mysterious talking chest, it asked to be returned to its master in the Sorceller's Encapsulate. The imp was reunited with his friend in exchange for a reward of coin, potions of healing, and a wand. Seeing this as an opportunity, Delfen Ondabarl instructed the adventurer to return a different chest to the kidnapper with a deadly surprise inside for Mogdor, his arch-nemesis.
+
+Delfen was presumed dead around 1385 DR. However, in 1485 DR, he returned to the town, not a day older, and reclaimed possession of his tower. He was Delfen for certain, but never spoke about what had happened to him in his century's absence.
+
+Appendix
+Appearances
+Adventures
+Under Illefarn • Hordes of Dragonspear • Scourge of the Sword Coast • Ghosts of Dragonspear Castle
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+Card Games
+
+AD&D Trading Cards
+References
+
+---
+
+## Delisle
+
+Delisle was a gnome in Daggerford around 1370 DR.
+
+Activities
+Hailing from Ice Peak, Delisle always lamented about the heat and the humidity of Daggerford. Many counseled her to go back to Ice Peak but Delisle didn't want anything to do with the Luskan pirate ships that harbored in her hometown.
+
+She lived in a house in the southeast section of Daggerford located at the intersection of Kaoth Alley and Water Street near the River Gate.
+
+Appendix
+References
+
+---
+
+## Dekoran
+
+Dekoran was a boatbuilder in Daggerford around 1370 DR.
+
+He lived in a house in the southeast section of Daggerford located on Hill Road near the River Gate.
+
+Appendix
+
+References
+
+---
+
+## Derval Ironeater
+
+Derval Ironeater was the last King of Clan Ironeater who went on to become a blacksmith in Daggerford.
+
+Description
+Derval Ironeater was a stout and muscular dwarf with dark red hair and a grown out beard. His body was decorated with the shining metal ink tattoos that were a family secret of the Clan Ironeater. Working tiredly in his smithy, he often smelled of body odor, something he referred to as "sweatin' like a pig'n the pot".
+
+Personality
+Derval was a gruff and loud individual who could come off as rude but, in reality, was friendly, and full of crude jokes. He referred to elves as "tree huggers" in jest.
+
+Relationships
+Derval had three children who worked as stonemasons.
+
+Derval and his daughter Veiti Ironeater shared a loving relationship even though they were quite different. Derval preferred for his daughter to work the forge and hone her skills rather than adventure or dream about the past glories of Illefarn, a trait he thought both Veiti and her mother shared.
+
+He was the grandfather of Ignal Ironeater, who had been his proxy at meetings with the Smiths' Guild for decades.
+
+Possessions
+Derval possessed a +1 battleaxe, a +3 hammer, a set of +1 plate mail, a shield, and a ring of telekinesis.
+
+History
+Derval traveled to Daggerford with his brothers Derwin and Korin and their families around 1270 DR. Korin disappeared in 1350 DR and they never heard from him again. Clues suggested the dwarven brothers originated from Illefarn.
+
+By 1370 DR, Derval was a respected blacksmith, councilor, guildmaster, and the proprietor of Derval's Bright Blade, working there alongside with his daughter, Veiti Ironeater.
+
+He lived in a house in the south section of Daggerford near the drill field.
+
+Derval died in late 1484 DR.
+
+Appendix
+Appearances
+Adventures
+Under Illefarn
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+References
+
+---
+
+## Delgar Munsch
+
+Delgar Munsch was a hunter at Bridgefort in Boareskyr Bridge around 1368 DR.
+
+He owned a cabin in the area, where Delgar and his company of hunters took their prey, including goblins and orcs, which they later sold at Baldur's Gate. Around 1367 DR, he retired after a very good season but when the crusade of the Shining Lady arrived nearby he joined the crusaders, even becoming an officer.
+
+He was a man with an inflated sense of his own importance but he was a superb hunter.
+
+Appendix
+
+Appearances
+ Baldur's Gate: Siege of Dragonspear
+
+References
+
+---
+
+## Desert circle
+
+The desert circle was a druid circle associated with the sandy wilderness that held surprising varieties of life. This circle was a subset of the Circle of the Land.
+
+Description
+Druids who took up the cause of nature in such a region had an affinity for this circle and the suite of spells that came to them without cost. These spells did not have to be prepared.
+
+Desert circle spells
+Novice druids could cast the blur and silence spells. Those that were more advanced were able to cast the create food and water, protection from energy, and blight spells, as well as hallucinatory terrain. Druids that were very skilled were able to use the insect plague and wall of stone spells.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Devlin
+
+Devlin was an adventurer in the ruins of Spellgard in 1479 DR.
+
+History
+Devlin was an evil adventurer leading the Free Company of the Crescent. In 1479 DR, he went with his fellows to Spellgard hoping to find Lady Saharel's treasures.
+
+Personality
+Devlin was a charismatic but uncaring individual. He loved double-crossing others, even for momentary advantages.
+
+Appendix
+References
+
+---
+
+## Dehydration
+
+Dehydration was a powerful wizard spell that combined the schools of alteration and necromancy to devastating effect. It was used commonly by the members of the  Brotherhood of the True Flame in Zakhara, the Land of Fate.
+
+Effects
+If the caster of this spell was able to successfully touch the target, and if the target was not able to resist the spell's effects, the magic instantly dehydrated the target, causing a substantial permanent loss of their bodily fortitude and health. The spell was capable of killing weaker individuals.
+
+Victims suffering from this magical-induced dehydration were able to counteract the effects by consuming water so long as they remained inactive and did not lose additional fluids to perspiration. An inactive victim who consumed one quarter gallon (1 liter) of water within one day would naturally replenish the health they lost from the spell. Active or encumbered victims needed to consume a half gallon or more to achieve the same results. Re-hydrating their body did not restore health lost from the physical damage the spell caused. Instead, it merely returned their core fortitude to its original state.
+
+Components
+This spell only required verbal and somatic components to cast.
+
+Appendix
+References
+
+---
+
+## Deep Speech
+
+Deep Speech was the language of aberrations, an alien form of communication originating in the Far Realm. It had no native script of its own, but when written by mortals it used the Espruar script, as it was first transcribed by the drow due to frequent contact between the two groups stemming from living in relatively close proximity within the Underdark.
+
+Appendix
+Appearances
+Novels
+Venom in Her Veins
+References
+
+---
+
+## Deleira Truesilver
+
+Deleira Truesilver was a noble from Suzail and a lady of the Truesilver noble house of Cormyr in the late 15 century DR. She was also a cat burglar and slayer under cover of night, using the alias of Talane.
+
+Appearance
+She was lean and lithe. When dealing as Talane, she wore black leathers covering her from head to toe, leaving only eyes and mouth visible.
+
+When without her mask, she had flashing yellow eyes and white hair, looking quite good for her matronly age.
+
+Abilities
+The woman was extremely nimble, moving across walls and ceilings in preternatural ways. Amarune described her as "about as nimble as I am".
+
+Posessions
+Of note, she wielded a sword that seemed to drink away light and quietly emanated something ineffable, but sickening. Her Talane outfit was criscrossed by leather belts scabbarded with nine or more daggers, all of them excellently balanced for throwing. The heel of her boot held an empty space for keys.
+
+The hat she wore to the Council of the Dragon was magnificent; she traveled in an open carriage there. The room to which she kept in the evenings had a window open to breezes; she carried a dagger and pendant of some import, almost certainly magical, there. A balcony on her home had a griffon carved on its east end; directly underneath were her gardens and a patch of soft moss.
+
+Relationships
+She had maids at home. She found fault with her family and servants constantly.
+
+Activities
+As Talane, she was a burglar and slayer.
+
+History
+The vampire archmage Manshoon summoned her to a meeting through a mind-controlled intermediary, Lothrae at some point in Mirtul 26 or earlier that month of the . There, he made a working proposition to her: that if she investigated the fugitive wizard Elminster Aumar for him and aided in the vampire's scheme to acquire blueflame items, he would richly reward her instead of revealing her activities. He also threatened her with his full fury if she were to expose him to the Crown.
+
+Not long prior to the Council of the Dragon, she'd slain at least one Sembian merchant by throwing a dagger into his eye.
+
+Manshoon continued to make references to Talane's role afterwards; she ultimately appeared at the coinlass and thief Amarune Whitewave's lodgings, sliding her blade under the window, while Amarune spoke with Ruthgul, her mentor in thieving; Ruthgul was at the moment asking Amarune to fake some documents, and panicked at the sound of Talane's voice, revealing she'd hired him for it. After Ruthgul snuck out, Amarune received her; Talane revealed she knew of Amarune's origins, and attempted to impress her into becoming a "dirtyhands", a henchman, lest she reveal to the War Wizards that she was the daughter of Beltar Whitewave; she claimed she'd return four nights hence.
+
+Later, Manshoon resolved to use Talane to slay Gaskur, a trusted servant of his patsy, the Lord Marlin Stormserpent, in a bid to better manipulate him. Talane slew Gaskur near Amarune's home, signing her work as Talane.
+
+Lady Deleira Truesilver participated in the Council of the Dragon. Manshoon decided to call on Talane again afterwards, to verify that Elminster had died. He sent her orders to find Amarune, and slay her after verifying whose body was Elminster's, through a mind-controlled, minuscule beholderkin. She suited up in response.
+
+She was later targetted by Targrael. Though Talane seemed to have little effect, she actually served as Manshoon's host when the beholder he was directly puppeteering was destroyed, possibly being the means by which he saved himself. After the evening, she communicated with Manshoon through a drover in the back of Immaero Sraunter's shop. The death kight followed her home, and there, delivered upon her a kiss, with a special enchanted gem in her mouth, whose mind magic allowed Targrael to invade Talane's; it was Targrael's expectation that the gem, sourced from Queen Alendue's cache, captured minds, and she said Talane's death was easily achieved. Manshoon was later unable to contact Talane again.
+
+Rumors & Legends
+Their first meeting had Amarune horrified and on edge for long enough that she almost killed Arclath Delcastle the next time she saw him. Strangely, Talane didn't turn up at Amarune's home four nights since their first meeting, like she'd promised. During her meet with Elminster, Amarune was told the truth of Talane. Marlin Stormserpent, too, was questioned about Talane by the Purple Dragons, after his servant Gaskur was found dead. Amarune remained disturbed for a while by Talane's impression.
+
+At the time of the Council of the Dragon, word on the street was that she'd been bedridden for some time.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Delasko Sornstern
+
+Delasko Sornstern was a Cormyrean noble in the late 15 century DR.
+
+Personality
+Per Marlin Stormserpent, he was nothing but a toady of Broryn Windstag.
+
+Relationships
+Delasko Sornstern was a constant in Broryn Windstag's entourage, and the two were generally companions to Kathkote Dawntard. Arclath Delcastle knew him to be associated with Marlin Stormserpent, Mellast Ormblade, Sacrast Handragon and Irlin Stonestable, as well as two other lords around Arclath's own age, Broryn Windstag and Kathkote Dawntard.
+
+He was the son of Haedro Sornstern, and the heir of the Sornstern family.
+
+History
+In late Mirtul of the, Delasko Sornstern was one of the guests at the Open Feast, spending much time with his close associates Broryn Windstag and Kathkote Dawntard.
+
+Sornstern was with Broryn Windstag and Kathkote Dawntard when the three of them entered, drunk, to the Dragonriders Club, started a brawl, and attacked Delnor a palace messenger there, almost fighting Arclath Delcastle. They were later repelled by the arrival of the city watch of Suzail, and interrogated by the War Wizards.
+
+After the meeting, they fled towards Marlin Stormserpent's residence at Stormserpent Towers, who involved them at that time in his intrigues involving blueflame items. When Marlin Stormserpent summoned his co-conspirators to tell them about an axe being a third such item, Sornstern arrived with great haste together with Sacrast Handragon.
+
+Later, the young lords Dawntard, Sornstern and Windstag carried out a frantic search for the axe; so energetic and haphazard their search was, that they themselves expressly did not understand the intensity of their own actions. Among other actions during their search, they'd offered large amounts of coin in a number of taverns frequented by the nobility, including the Rose and Dragon, the Servant Exalted, and the Hrelto. They were unknowingly controlled by the vampire archmage Manshoon, who had them target Lord Barandror Murandrake's residence, where they finally found the axe.  Though they were pursued by the War Wizard Glathra Barcantle and Swordcaptain Dralkin along the way, and nearly ran out of breath, a spell whisked them away, teleporting them nearly all the way to Stormserpent Towers. After delivering the axe to Marlin Stormserpent, they fainted.
+
+After the Council of the Dragon, Lord Delasko Sornstern had a brief talk with Broryn Windstag about his father Haedro's learnings about blueflame items and the Imprisoners. Unknown to them, they were being spied on by the highknight Sir Talonar Winter.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deceive prying
+
+Deceive prying was a spell used by priests of Vhaeraun to pass mental examination.
+
+Effects
+Upon casting, the caster determined some criteria, such as religious and moral standards; these standards didn't need to match up with the caster's actual mental state. The caster or creature touched by the caster gave away this false information when mentally examined by magical or psionic means. The spell provided surface thoughts depending on the set criteria to be read by the examiner.
+
+The spell also provided minor protection against spells that were directed at mentally controlling the recipient, while not hindering the mental activity of the same, including mental magical activity..
+
+Components
+This spell required only material, verbal and somatic components to cast.
+
+Appendix
+References
+
+---
+
+## Derreg
+
+Derreg was a paladin of Amaunator at the Abbey of the Rose in Sembia in the mid–15 century DR.
+
+History
+In the, Derreg welcomed Varra and called the priest Erdan to help her to give birth to Vasen Cale. Soon after, Drasek Riven also arrived at the abbey; he explained to Derreg that the child had a crucial role in the future and asked Derreg to protect Vasen from evil until that day.
+
+In later years, Derreg acted as substitute father for Vasen and trained him as paladin of Amaunator.
+
+Relationships
+Derreg was the son of Regg and he was a good friend of Erdan.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Death kiss
+
+Death kisses, also known as bleeders or eyes of terror,  were lesser beholderkin with tentacles that ended in mouths instead of eyestalks. Death kisses came to being as physical manifestations of a beholder's vivid dreams of mass blood loss.
+
+Description
+Death kisses resembled beholders but lacked their eyestalks and their mouth below their main eye, and instead were covered in ten, 20-foot-long (6 meters) tentacles ending in mouths. Their bodies were  across and their leathery skin was a  mottled gray, or a muted hue of the original beholder's skin. At the end of each of their tentacles was a toothy mouth, and each tentacle was fully retractable. They could speak through their mouths and they sounded high-pitched and nasally. Only those who were not familiar with beholders could mistake a death kiss for a beholder.
+
+Behavior
+Death kisses would attempt to escape the clutches of their creators at the first opportunity, as they were clearly superior. They would typically submit to more powerful entities if only to keep their lives, lacking the egotistical nature of normal beholders. They were only paranoid about the loss of blood and so drained the blood of any creature they could find. They were also sadistic, enjoying playing with their prey and draining them slowly and not taking combat seriously. They might impersonate true beholders to scare off greater threats.
+
+Abilities
+By ingesting blood, the death kiss could generate electricity, which it could use to further damage its foes. Ingesting blood also caused the death kiss to recover from injury, so death kisses would seek to restrain their prey with their tentacles before draining their blood until death. Because of the electricity in a death kiss's blood, causing them to bleed out would shock those nearby, and their death could cause a complete electric discharge.
+
+Combat
+When on the hunt, death kisses would retract their tentacles and suddenly extend them to full length, surprising the target and catching them off guard. They typically hunted alone, preying on anything around them with blood, and when in combat were neither sophisticated nor subtle, violently lashing out at any nearby food source. While not stupid, death kisses tended not to strategize unless a foe was completely superior, such as against a dragon or other beholder. This weakness showed in their tendency to play with their prey, leading them to make easily avoidable mistakes. The greatest strategy they might show in normal situations was to pull prey upwards as they drained them.
+
+Society
+Death kisses preferred to hunt alone, preying on whatever they found. They might submit to a more powerful being, although only so long as they could not escape. When two death kisses met, they might attempt to kill one another, leave each other alone, or even team up depending on the situation. The most common result was a mid-air fight to the death, with the loser becoming an incubator for the offspring of the victor.
+
+Ecology
+Death kisses were lone hunters who haunted the Underdark. They could only survive by digesting the blood of other entities. This somehow generated electricity within them that was released if they bled. If food became scarce, they were capable of going into a state of heavy hibernation, from which they could only be roused by a sufficient level of heat. Simple body heat was not enough; it needed a fairly powerful degree of thermal stimulation, like from injury or fire.
+
+When traveling underground, they would put their tentacles in every nook and cranny as they navigated. While above ground, they would be retracted. Like a normal beholder, they moved by hovering through a buoyancy sac.
+
+Uses
+Like beholders, the death kiss possessed an organ in the top of their head that could be used similarly to create levitation potions and magic ink. Upon death, part of the death kiss's brain would harden into a soft-sided, faceted red gem known as a "bloodeye", which glowed brightly in tandem with the strong emotions of those nearby.
+
+Reproduction
+Death kisses appeared when beholders had nightmares of heavy blood loss, and they would attempt to flee from their "parents" after coming into existence. However, death kisses were capable of reproducing on their own. Death kiss young incubated in the bodies of deceased members of their kind. Within a day, one to four death kisses would erupt from the corpse, and would grow to full size within a month. Young death kisses were only half as powerful as their forebears.
+
+History
+From  through early, death kisses from all across the Underdark converged on the Sharn Wall—the ancient prison of the phaerimm—and appeared to be waiting for something.
+
+Appendix
+See Also
+Bloodkiss beholder
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Devourer
+
+Devourers were fiends who acted in the service of Orcus. They were used to create armies of undead by consuming the bodies and souls of humanoids. Lesser demons could be promoted to devourers by proving themselves to Orcus.
+
+Description
+Devourers were tall, gaunt skeletal figures with a smaller figure trapped within their rib cage.
+
+Biology
+Due to their fiendish nature, devourers did not require air, drink, sleep, or any sort of food beyond souls.
+
+Abilities
+Devourers were able to create new undead by bringing a humanoid creature to the brink of death, then trapping it inside its rib cage. While there, the devourer tortured its victim's soul with telepathic noise until death, after which it underwent a transformation into an undead servitor.
+
+They could conjure some form of green energy from the souls of those they consumed and release it in concentrated blasts against their foes.
+
+Society
+Devourers were never known to travel in groups.
+
+Devourers were generally found in the Abyss, on the Astral plane, or the Ethereal plane pursuing the interests and schemes of Orcus. Some claim they were even known to wander in the Negative Energy Plane. Those seen on the Material Plane were typically sent by Orcus to create and lead an army of undead.
+
+Undead were naturally attracted to areas in which devourers existed. The types of undead typically known to be attracted to such areas included skeletons, zombies, ghouls, ghasts, and shadows.
+
+History
+A devourer was witnessed terrorizing people in the shadowed lands of Sembia in the . It was slain by the spellscarred Thayan named Sayeed.
+
+Appendix
+
+Appearances
+
+Gallery
+
+Further Reading
+
+References
+
+---
+
+## Delsephine
+
+Delsephine was a member of the Cult of the Dragon sometime after the War of the Silver Marches.
+
+History
+In the late 1480s or early 1490s DR, the great red dragon Klauth had discovered that the ordning of the giants was broken by Annam. Klauth was intrigued but also worried about human civilization of the North. So the dragon summoned a cultist group led by Delsephine and ordered them to build an airship to go to the Eye of the All-Father shrine to help an adventuring party he had detected there. Delsephine followed all Klauth's orders without questions.
+
+Appendix
+Appearances
+ Storm King's Thunder
+
+References
+
+---
+
+## Delban
+
+Delban, also known as the Star of Ice and Hate, was a star-like Elder Evil from the Far Realm who had taken a place among stars of Realmspace. Unlike normal stars, Delban didn't have a fixed place in the sky but instead danced and wavered across Realmspace.
+
+ Description
+Delban was an ice white star.
+
+History
+Delban, like the other Far Realm-infested stars of Realmspace, was somehow related to the Eldest.
+
+Delban was usually visible only in winter, but sometimes it shone without reason in any other seasons, surprising scholars who studied stars. Of all the Far Realm-infested stars, Delban was the most cruel and bitter.
+
+Delban was one of the stars the warlock Japheth Donard sought out in 1396 DR, after having lost his pact with the archfey Neifion.
+
+Sometime in the late 15 century DR, a vestige of Delban's power had found its way into the domain of Barovia in the Shadowfell, where it offered pacts with creatures who approached it. To those few Delban bestowed the gift of controlling magical cold, giving them the ability to use the cone of cold spell up to seven times, as well as temporary resistance to magical cold and low temperatures. Even non-warlocks could be granted this ability from the star. Those who were granted the gifts of Delban, however, became terrified of fire.
+
+Appendix
+Appearances
+Adventures
+
+Curse of Strahd
+
+Novels
+City of Torment
+
+References
+
+Connections
+
+---
+
+## Deep scion
+
+Deep scions were people who'd surrendered their bodies and souls to an evil aquatic power (usually a kraken) in exchange for their lives. Upon surrendering, they were transformed by an ancient, painful, and uncertain ritual, into amphibious shapechangers, in service to their masters.
+
+Description
+Deep scions had two forms: the original form before their transformation and a human–piscine hybrid form. The hybrid form possessed fangs and claws, along with numerous fish-like features, but it was slower on land.
+
+Personality
+Deep scions believed that their true form was the one they assumed when they returned to the sea. They were devious in their ability to imitate their original selves, although they were perfectly capable of donning new identities if need be. Through a combination of magic and training deep scions were stripped of all emotional attachments, and would betray those who trusted them without a second thought, although their ability to mimic emotions ranging from righteous indignation to deep infatuation was unhampered.
+
+Abilities/Combat
+The dark ritual that deep scions underwent made them incredibly dangerous, both physically and mentally. Regardless of its form, a deep scion was astonishingly strong, capable of efficiently wielding battleaxes and other large weapons, and it could see in complete darkness. Switching between forms was a simple task that took no more than a few seconds.
+
+A deep scion's hybrid form was amphibious, capable of living both underwater and on land, although its piscine gait reduced its land speed. Hybrid forms were armed with lamprey-like maws and sharp claws, and were fully capable of fighting off enemies without a weapon at hand.
+
+When in danger, in its hybrid form, the deep scion could emit a psychic screech capable of stunning creatures hundreds of feet away. Using this scream underwater had the additional effect of transmitting the last 24 hours of a deep scion's life to its master, so long as they were in the same body of water. This could allow for last-minute communication between the two if the deep scion was in serious danger.
+
+If killed in hybrid form, the dark magic would be dispelled and a deep scion's corpse would revert to its natural form, as it was before its transformation.
+
+Society
+A newly transformed deep scion would usually return to its former home while appearing to be the person it used to be, but might also take a new identity. However the manner of its return to the surface, the deep scion's only purpose was to infiltrate humanoid society in order to carry out its master's wishes. They were trained by their masters to forsake all emotion, aided by the ritual that prompted their creation.
+Languages
+Deep scions typically knew Common, Aquan, and thieves' cant.
+
+Appendix
+
+Appearances
+Board Games
+Dungeons & Dragons Adventure Begins
+Miniatures
+Icons of the Realms
+Organized Play & Licensed Adventures
+Peril at the Port
+
+References
+
+---
+
+## Derlaunt
+
+Derlaunt was the ruler of Gheldaneth in Mulhorand in 1357 DR.
+
+Activities
+Being bored, Derlaunt was trying to animate one of the many Statues-That-Walk surrounding Gheldaneth. However the ritual he had cast backfired and instead animated all the statues and Derlaunt needed to fix the problem.
+
+History
+Derlaunt fought all his life to obtain the power he desired but obtained it only when he was too old to enjoy it.
+
+Personality
+Derlaunt was a very irritable old individual. He considered himself above all people save a few Mulhorandi nobles.
+
+Relationship
+Derlaunt was the cousin of Tholaunt, the current incarnation of Thoth.
+
+Appendix
+References
+
+---
+
+## Deepearth
+
+Deepearth was a city and the surroundings areas in the Underdark under the Galena Mountains in the Bloodstone Lands.
+
+History
+Deepearth was originally settled by deep gnomes. In the surrounding caverns lived some clans of duergar. The duergar occasionally skirmished with the gnomes in order to gain food, cattle, and sometimes slaves, but with few successes. At last, a great deep gnome army devastated the duergar territories, stopping the raids.
+
+However, one night, a solitary duergar infiltrated Deepearth and inside an abandoned gnome mine discovered a pool of mercury (in truth, a gate to the Abyss). He touched the liquid and was quickly possessed by the demon lord Orcus. With Orcus as their leader, the duergar managed to seize Deepearth.
+
+In 1357 DR, however, Gareth Dragonsbane's party arrived in Deepearth and fought the duergar and the minions of Orcus.
+
+In 1359 DR, the gnomes had regained control of the city and worked with the dwarves of the Orothiar Clan in order to exploit Bloodstone Mines.
+
+References
+
+---
+
+## Deathway
+
+The deathways were a network of portals linking crypts, catacombs, graveyards and other such places related to the Eminence of Araunt, across the continents of Laerakond and Faerûn, and between the worlds of Abeir and Toril.
+
+Description
+The deathways were a place located in between the Shadowfell and the Prime Material Plane, and connected to tombs, crypts, catacombs, graveyards and such other places across the multiverse, in arches or doors that were marked above them with the sign of the Eminence, three vertical slashes. Although those places were normal tombs or crypts for the unwary people, for those intelligent undead who knew the significance of the sign, or for the few living agents who worked for the Eminence, those places became portals that linked to everyone of the "principalities" of the Eminence across Abeir, and later Toril.
+
+History
+The origins of the deathways were unknown. According to the demon Sarshethrian, who was trapped in the deathways ever since his birth, and was possibly created by them, the place had just existed since always.
+
+It was Lod, the founder of the Eminence, the one who discovered how to connect the deathways with the Prime Material Plane, about five hundred years before 1479 DR, while he was in the world of Abeir. Lod recorded the way of creating entries to the deathways in his Codex of Araunt.
+
+Initially, the deathways linked only places within the world of Abeir and the continent of Laerakond, but in the decade of the 1470s DR, the deathways began to spread across Faerûn, as far as Thay. Since then, the deathways began to spread across all over the world at an astounding rate.
+
+Appendix
+References
+
+---
+
+## Dengor Bloodheart
+
+Dengor Bloodheart was a fire giant forgepriest of Surtr in the late 15 century DR.
+
+History
+Circa 1486 DR, after the fire giants occupied the outpost of Szith Morcane, Dengor was chosen as the leader of the place. Soon, he started to build a temple to Surtr over the Fane of Lolth and a great palace for himself. Usually, he prayed at the altar or oversaw the reconstruction.
+
+Dengor was killed by some adventurers.
+
+Personality
+Dengor was a megalomaniac and power-hungry.
+
+Appendix
+
+Appearances
+ Szith Morcane Unbound
+
+References
+
+---
+
+## Death slaad
+
+Death slaadi, also known as the lesser masters, were possibly the most deadly of the slaad race, responsible for organizing the disorderly creatures into mobs and releasing them across reality to wreak havoc. The transformed gray slaads were thought by other slaads to be the pinnacle of their kind, but rather than being true paragons of chaos they embodied its corruption by evil.
+
+Description
+Death slaads were visually indistinguishable from gray slaads.
+
+Personality
+Despite still having all memories of their former green and gray slaad selves, the behavior of the death slaadi starkly contrasted their previous attitudes, specifically in regards to their interests. No longer concerned with increasing their magical powers, death slaadi were sadists focused on bringing death and pain to those around them, the most powerful of which undergoing rogue training in order to later become full-fledged assassins.
+
+Abilities
+Death slaadi, by some mysterious means, obtained many of their powers by controlling the Spawning Stone in Limbo. They were creatures of destruction and decay, stunning and rotting those they struck with their natural weapons and draining the life energy from those they pierced with their fangs. They possessed the same potential powers as their former selves in addition to more death related spell-like abilities such as cloudkill, astral projection, phantasmal killer, finger of death and circle of death.
+
+Like in their previous forms, they could polymorph into their original humanoid hosts, reportedly while retaining their incredible strength. They could also summon red, blue, green and gray slaads, although not other death slaads.
+
+Combat
+Though they seldom wore armor and were lethally proficient with their claws and fangs, death slaads preferred to wield magical weaponry, often blades such as swords of sharpness.
+
+Society
+Despite being too chaotic to respect any form of authority, all slaads obeyed the commands of the death slaadi out of a combination of fear and respect. They viewed the death slaads as exemplars of their race and greatly feared, and revered, their insurmountable strength, and thus fervently followed their orders. It was said that they, from within the Spawning Stone's inner chambers, carved the symbols of rank into the slaads, granting them a vast amount of control over the race's loose hierarchy. It was also by their command that hordes of red and blue slaadi were gathered in Limbo and sent to other planes, particularly small, lower planar villages, Blood War battlefields and Prime Material Plane worlds, to slaughter the inhabitants and imprison the survivors to use as incubators and hosts.
+
+They themselves organized the race under the orders of the Lord of Entropy, Ygorl, who desired the mass spawnings in order to sow further chaos in the multiverse. At the same time, Ygorl also killed and consumed powerful death slaadi for fear that they could learn how to obtain even greater power as slaad lords, making them both potential rivals and attractants for powerful beings throughout the multiverse seeking to prove their greatness. Death slaads themselves were rarely seen in the Material Plane since they almost exclusively disguised themselves as humans, to the point where only six were truly known.
+
+Religion
+As beings dedicated to death, some death slaads became cultists known as pale raiders, clerics that inhabited the Negative Energy Plane and were revitalized in their desire of magical power, not for its own sake but to honor death in all its forms.
+
+Ecology
+Death slaads were former gray slaads that, through enigmatic, evil rituals that imbued them with negative energy, became virtually immortal monsters bent on murder. They could also emerge as the result of a gray slaad having devoured the corpse of a preexisting death slaad. Despite being seen as the perfect slaad specimen by other slaads, they could still grow even more powerful.
+
+Through a process similar to how their green slaad forms became gray slaads, death slaads over a century old could isolate themselves from slaad society, returning from their self-exile as white slaads. Others sought to explore a unique aspect of chaos in order to grant them an identity outside of the typified slaad castes, a process as barely understood as it was incredibly dangerous. If they succeeded in their investigation they would transform into slaad lords, empowered with extraordinary abilities, a sense of chaotic purpose and true individuality, although only four death slaads ever managed to complete the transformation.
+
+Spawning Stone
+During the death slaadi breeding season, they filled a few hundred yards around the Spawning Stone with poisonous and acidic fogs, making it uninhabitable for the red slaads that arrived there first. However, despite their power, they would inevitably be forced away by the mobs of red slaadi, possibly because their egg-pellets could infect even them.
+
+Notable Death Slaadi
+ Loru, the death slaad who drove the miller from Daggerford insane and sought to infect the grains with a slaadi plague to create an army out of local farmers in 1372 DR.
+ Sorel, the death slaad lieutenant of Ygorl being trained to become the Slaad Lord of Anarchy and a powerful weapon of chaos.
+ Thuruppl the Kicker, an ancient death slaad that led his own private army of battle-hardeneded blue slaads known as the Quick Tongue.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Dei Chiang
+
+Dei Chiang was the proprietor of a laundry in the Xiousing district of Marsember.
+
+Chiang had a difficult life after her husband, a Shou Purple Dragon knight, was killed in action. Alone, she tried to raise their six daughters.
+
+Chiang liked to know everything that happened in the quarter and was an active member of the xenophobic society known as The Chuen.
+
+References
+
+---
+
+## Deinonychus
+
+A deinonychus, also known as a razortalon by the inhabitants of High Moor, and as a raptor on the Malatran Plateau, was a carnivorous species of dinosaur in the family of dinosaurs known as dromaeosaurs.
+
+Description
+The deinonychus was a larger cousin of the velociraptor. They roughly stood about as tall as a human.
+
+Biology
+Deinonychi could run as fast as the average horse.
+
+Behavior
+Deinonychus was a rather cunning creature.
+
+Combat
+These dinosaurs liked to leap upon their prey, pinning them down with their claws and powerful rear talons. They then would often attempt to feed upon their prey while it was still alive.
+
+Sub-Species
+Ti-khana A species created by yuan-ti experimentation and cross-breeding, these were deinonychuses that exhibited traits of snakes.
+
+Ecology
+Deinonychus tended to hunt in packs.
+Habitats
+These dinosaurs were most commonly found in the jungles of Chult, though they were also known to inhabit the Serpent Hills and the Stonelands. In the latter they hibernated in deep rifts near earth nodes and volcanic flows. They never raced along the heights of the Stonelands or ventured far from it, as they feared being eaten by dragons, dark horrors, or Zhent foulwings.
+
+Beyond the Prime Material plane, some could be found in the Forbidden Plateau.
+Relationships
+In the land of Chult, the Batiri Shattered Spear tribe trained deinonychuses to act as watchdogs.
+
+Notable Deinonychuses
+ Jungle Princess, a racing dinosaur from Port Nyanzaru.
+ Knuckles, the pet deinonychus of Bosco Daggerhand.
+ Yushai, the animal companion of Umoja.
+
+Appendix
+
+See Also
+ Riding lizard
+
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Deliah Deguerre
+
+Deliah Deguerre was a commander and bloodforge mage in the Utter East during the time of the Bloodforge Wars (648–657 DR).
+
+Deliah was a rival to the commander of the Legendary Campaign, who sought to unify and pacify the Utter East through conquest. The two became caught up in a protracted conflict. Their two armies raced to Edenvale Castle for reinforcement, but ended their rivalry before its walls.
+
+Appendix
+Notes
+ The race and gender of this game character are not known, as their portrait is randomly selected every time the level is played.
+
+References
+
+---
+
+## Derval's Bright Blade
+
+Derval's Bright Blade was a weapon-smithy in Daggerford on the Sword Coast in the late 1360s DR, owned by the dwarf master smith Derval Ironeater.
+
+Reputation
+Of the smithies in town, Derval's was the best and largest, and certainly better than Cromach and Wayfel. His work was much sought after by fighters, and considered the best anywhere between Baldur's Gate and Waterdeep. Derval would say so himself.
+
+Location
+It lay in Daggerford's Money Quarter on the High Road, between Kryptgarden Scrolls and Cromach's house, and behind the Jewelers' Congress.
+
+Structure
+It was a large building, with pale-brown walls and roof tiles and gabled dormers on the attic level.
+
+The sign that hung above the entrance to Derval's store was decorated with a branded image of an anvil on the sign's wood. The sign was unkept but its design showed meticulous skill.
+
+The backyard of the smithy was full of tools that Ironeater dwarves had created and used for stone construction projects around Daggerford over the years.
+
+Services
+At the smithy, Derval focused on weaponry, forging swords, axes, and spear heads. His prices were high compared to other weaponsmiths.
+
+History
+Derval's Bright Blade was well established by 1367 DR, and still going strong through 1370 DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Dendrand Olaundran
+
+Dendrand Olaundran was a member of the Olaundran merchant family in Delzimmer circa the Year of Rogue Dragons, 1373 DR.
+
+Description
+Dendrand was getting on in years, but unlike his brother Gauthklaun, he was still sharp and capable.
+
+Personality
+Alert for any sign of disrespect, he was a vindictive man that never let a slight go unanswered, always getting his revenge sooner or later.
+
+Abilities
+Dendrand was an accomplished and dangerous wizard.
+
+Relationships
+Dendrand was a brother of Gauthklaun Olaundran, the patriarch of the clan, and uncle to Yolaun and Bezrar.
+
+Appendix
+See Also
+ Gauthklaun Olaundran
+ Bezrar Olaundran
+ Rassalice Olaundran
+ Elvolaer Olaundran
+ Sardrin Olaundran
+ Yolaun Olaundran
+References
+
+---
+
+## Devastating
+
+The Devastating was a fishing ship owned by Captain Belyssa Erstros, a whaler from Tarmalune, one of the Windrise Ports of Laerakond.
+
+Background
+In 1479 DR, Belyssa Erstros obtained a good fortune and used it to buy her own ship, the Devastating.
+
+Appendix
+References
+
+---
+
+## Dead Stone Mountains
+
+The Dead Stone Mountains, known as Verthishai Loech Ternesh in Abeiran draconic, were a range of mountains located in Shyr, Abeir. The equivalent region to the Dead Stone Mountains in the world of Toril were the Smoking Mountains.
+
+History
+At some point after the War of Fang and Talon, dragons buried the primordial Petron, creating the Dead Stone Mountains. Some time later, the dragon tyrant Versveshardinazar made his lair in the region, hoping to use Petron's remains to create powerful magic items.
+
+In 1400 DR, Caisys the Vicelord opened a portal between Abeir and Toril in the Tymantheran village of Arush Vayem, and hid the Old Staff within a cave in the Dead Stone Mountains.
+
+In 1487 DR, as part of a plan to separate the gods Asmodeus and Azuth, Farideh and her allies went to the Dead Stone Mountains and Isltan Nyaril, Chosen of Azuth, retrieved the Old Staff.
+
+Reference
+
+---
+
+## Decaton
+
+Decatons  were the lowest rank of hierarch modrons.
+
+Description
+Decatons were shaped like spheres atop stubby legs, with ten tentacles and four eyes evenly spaced around the sphere. At the top of the sphere was a mouth.
+
+Abilities
+Like all hierarch modrons, decatons had the innate ability to duplicate the effects of clairaudience, clairvoyance, command, dimension door, teleport without error, and wall of force spells at will. Additionally, they were able to cure injuries and cure diseases from all modrons within  and, respectively. They could also heal and remove paralysis by physically touching another modron.
+
+They could communicate telepathically with anyone in a  radius. and could see in complete darkness from up to  away.
+
+Decatons were able to fly by generating a lifting gas that allowed it to be lighter than the surrounding air. They typically only did so whenever they were commanding large numbers of base modrons and needed to get an overview of their situation.
+
+Combat
+If forced into combat, a decaton used its tentacles in melee combat. They also heavily relied on their spellcasting abilities.
+
+Society
+There were only 100 decatons in modron society. They could communicate with other decatons and with nonatons, and relayed their orders to pentadrones. One decaton was in charge of each of the 64 sectors of their realm in Mechanus, and the remaining 36 decatons served in the modron armies. They functioned as caretakers of the modrons under their command, looking after their physical welfare.
+
+Decatons were always created as the result of pentadrones being upgraded to take the place of destroyed or further promoted decatons.
+
+History
+Around  Netherese archmage and explorer Lady Polaris came upon Mechanus and the modrons. She summoned several decatons to her home to guard her treasures, but was stymied as they kept disappearing after several days. She had more success with the pentadrones she focused on next.
+
+Appendix
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Deadstone Cleft
+
+Deadstone Cleft was a dead-end canyon in the foothills of the Graypeak Mountains in the Savage Frontier. Populated by stone giants, they believed the canyon was sacred site to their god Skoraeus Stonebones. It was held an ancient temple to him and a a magical stalactite, the Steinfang.
+
+History
+Deadstone Cleft's first thane was the stone giant known as the Skodkong, or "Fog King".
+
+Some time after the War of the Silver Marches of 1485 DR, Deadstone Cleft was inhabited by the stone giant Thane Kayalithica and her clan. The giantess used the sacred site as her lair, launching raids to destroy various settlements and structures around the area in order to please her god. By this time, many stone giants avoided the cleft, believing it to be a haunted place. Kayalithica had also forged an alliance with the Blue Bear Tribe, and a number of the barbarians lived in caves in and around the cleft at this time.
+
+Features
+
+Statue of Skoraeus Stonebones
+At the back wall of the canyon sat a 150-foot-tall statue of Skoraeus Stonebones, depicted as a muscular stone giant with spikes emerging from his head and shoulders.
+
+Inhabitants
+ Thane Kayalithica, stone giant thane.
+ Hydia Moonmusk, daughter of Kriga Moonmusk and chieftain of the Blue Bear Tribe in Deadstone Cleft.
+
+Appendix
+
+References
+
+---
+
+## Death dog
+
+Death dogs (or deathdogs) were vicious and hateful two-headed dogs who had a taste for humanoid flesh and were infamous as spreaders of disease.
+
+Description
+They were ugly hounds, resembling large wolves with black or dark gray fur and whose two mouths were filled with sharp teeth. Death dogs' double bark was loud and penetrating, seemingly supernaturally so. They stank of death, and this stench lingered wherever they had been.
+
+They had the keen sense of smell common among canines, as well as sharp ears and eyes.
+
+Behavior
+Death dogs had a deep burning hate for everything. They were aggressive and attacked travelers and explorers on sight. They hunted at night and favored ambushes, often focusing their ferocity on any creature in which they perceived weakness, frailty, or infirmity. They were known to take full advantage of the unsettling effect that their two heads had on most prey, and they seemed to revel in causing fear.
+
+Combat
+Death dogs preferred to attack in overwhelming numbers. They would pounce on their prey, using their two jaws independently to take out the legs of their prey before mauling it. They fought recklessly, trying to injure and infect their prey with their diseased bites. If forced to retreat, they lingered nearby and waited for their victims to succumb to their infected injuries.
+
+A death dog's saliva had a potent poison that caused a rotting disease of a creature's flesh. Left unattended, it brought death in a matter of days. Death dogs were known to attack any intruders in their territory even when not hungry with the goal of infecting them with this malady, which they would then allow to take its course before returning once they were hungry.
+
+Ecology
+Death dogs originated in the Shadowfell, where their bites transformed victims into corrupted undead. They occasionally found their way to the Material Plane via shadow crossings, where they were known to inhabit dry underground environments such as in the Underdark, as well as plains, deserts, and other arid lands. They were known to be found on the Plain of Standing Stones, where they could be encountered day or night. They tended to prefer to hunt at night, and their dark fur was well suited to camouflage at night or in caves.
+
+Owing to the disease which they spread, death dogs were literal plagues upon the lands they inhabited, and were said to be associated with everything from death gods to legendary cursed rulers.
+
+On the Shadowfell, they sometimes aligned themselves with shadar-kai. On the Material Plane, they did not maintain any lairs and instead traveled in packs of up to fifty individuals.
+
+Notable death dogs
+ The wizard Draven Millovyr kept his possessions guarded by a glyph of warding spell that summoned death dogs against trespassers.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deegan
+
+Deegan was a member of the Graycloaks faction of the Sons of Alagondar of Neverwinter in the late years of the 15 century DR.
+
+Activities
+Besides being a member of the Graycloaks, Deegan also volunteered to fight plaguechanged horrors at the Wall.
+
+Appendix
+References
+
+---
+
+## Dekanter goblin
+
+Dekanter goblins were a variety of aggressive, horned goblin from the mines of Dekanter, part of the Greypeak Mountains near Anauroch.
+
+Description
+These goblins were artificially mutated and generally larger and more aggressive than standard goblins, growing to a medium size and having greater physical prowess. They possessed a more stocky build than normal goblins, and a black lion-like mane that went to their shoulders, contrasting against their orange-red skin. Most notably, they bore rhinoceros-like horns.
+
+Personality
+
+Unlike the goblins they were created from, Dekanter goblins were dauntless and bold, charging into battle without hesitation. Even if not commanded to battle, they would attack people for practically any reason. However, they were not stupid, and did not charge at clearly superior opponents.
+
+Unlike hobgoblins, Dekanter goblins' violent tendencies did not channel into a militant behavior. They were more similar to orcs in basic disposition, valuing physical power and brutality as opposed to martial skill and discipline.
+
+Abilities
+Time spent in cold mountains and underground lairs granted them resistance to the cold. Dekanter goblins also possessed a healing factor, allowing them to regenerate to a certain point, although they couldn't regain missing limbs or otherwise heal after sustaining a lot of damage at once.
+
+Combat
+A Dekanter goblin's most notable feature was their powerful horn, which they used to impale their enemies in a devastating charge. Aside from their horns, they also possessed powerful claws that they could use to rip into their enemies after the initial assault.
+
+Society
+Culture
+The sole purpose of the Dekanter goblins was to serve the will of the Beast Lord, which they did with gusto and pride. They patroled the Dekanter mines, serving his will in troops of up to 40, sometimes accompanied by gargoyles.
+
+In addition to the Goblin language, they also commonly knew Undercommon so as to communicate with other beings found within the depths of the mines.
+
+Religion
+Despite their faithful servitude to the Beast Lord, Dekanter goblins still worshiped the god of goblinkind, Maglubiyet.
+
+History
+Dekanter goblins were created by the alhoon known as the Beast Lord, within the mines of Dekanter for which they were named. Once filled with magic, the mines faded over millennia, eventually becoming infested with goblins, which the Beast Lord twisted into his loyal servants. By 1372 DR, Dekanter goblins spread into the surrounding Greypeak Mountains, suggesting that the Beast Lord had plans that extended beyond the mines.
+
+Appendix
+Appearances
+Novels
+The Nether Scroll
+
+The Summoning
+Video Games
+Icewind Dale II
+Miniatures
+Dungeons & Dragons Miniatures
+
+References
+
+Connections
+
+---
+
 ## Death curse
 
 The death curse was a disastrous and far-reaching event that occurred on Toril in the late years of the 15 century DR. The curse prevented the raising of the dead, even when using resurrection spells, and caused creatures that were previously raised from death to wither and die.
@@ -1661,6 +8418,1730 @@ Notable Individuals Affected
 Appendix
 Notes
 
+Appearances
+
+References
+
+---
+
+## Demonomicon of Iggwilv (column)
+
+Demonomicon of Iggwilv was a column published in Dragon, Dungeon, and Dragon+. The series examined various powerful demons, along with their associated cults—material supposedly taken from the Demonomicon of Iggwilv, a profane work by the witch Iggwilv of Oerth.
+__TOC__
+
+Articles
+Dragon Magazine
+
+ Issue Demon Author Edition Citation templateDragon #329PazuzuJames Jacobs3.5thDragon #333Fraz-Urb'luuJames Jacobs3.5thDragon #337ZuggtmoyJames Jacobs3.5thDragon #341BaphometJames Jacobs3.5thDragon #345KostchtchieJames Jacobs3.5thDragon #349DagonJames Jacobs3.5thDragon #353MalcanthetJames Jacobs3.5thDragon #357DemogorgonJames Jacobs3.5thDragon #359ApocryphaJames Jacobs3.5thDragon #360Graz'ztJames Jacobs3.5thDragon #364YeenoghuRobert J. Schwalb4thDragon #369BaphometRobert J. Schwalb4thDragon #376TuraglasAri Marmell4th
+
+Dungeon Magazine
+
+ Issue Demon Author Edition Citation templateDungeon #172CodricuhnRobert J. Schwalb4thDungeon #188JuiblexRobert J. Schwalb4thDungeon #205ShemeshkaBrian James and Amber Stewart4thDungeon #208Fraz-Urb'luuJohn Rossomangno4th
+
+Dragon+
+
+ Issue Demon Author Edition Citation templateDragon+ #4BelaphossMatt Chapman5th
+
+Trivia
+The Demonomicon sourcebook includes a few excerpts from the Demonomicon of Iggwilv, including new bits of info created for this sourcebook.
+Appendix
+Connections
+
+---
+
+## Death and the Dragon's Eye
+
+Death and the Dragon's Eye was the twenty-seventh issue of the Advanced Dungeons & Dragons comics series set in the Forgotten Realms and published by DC Comics. It was written by Dan Mishkin, drawn by Jan Duursema, and edited by Kim Yale. It is the first instalment of the "Death and the Dragon's Eye" story arc.
+
+Index
+Characters
+Brianne Byndraeth • Bronf • Carril Byndraeth • Hedrick • Kenton • Khelben Arunsun • Kyriani Agrivar • Luna • Piergeiron the Paladinson • Onyx the Invincible • Rellamyn • Vajra Valmeyjar
+
+Creatures
+  Dwarf • Half-drow • Human
+Locations
+Buildings & Structures
+ Castle Waterdeep • Selûne's Smile
+Settlements
+ Waterdeep
+
+Dock Ward
+Magic
+Items
+ Dragon's Eye
+Spells
+ dispel magic • magic missile • phantasmal force • shield • stinking cloud • summon monster • web
+Organizations
+ City Watch • Lords of Waterdeep
+Miscellaneous
+apple • eyepatch
+
+Appendix
+Reprints
+This issue was reprinted in the Dungeons & Dragons Classics, Vol. 4 trade paperback by IDW Publishing in March 2013.
+External links
+
+References
+
+Connections
+
+---
+
+## Dead of Night
+
+Dead of Night was the twenty-ninth issue of the Advanced Dungeons & Dragons comics series set in the Forgotten Realms and published by DC Comics. It was written by Dan Mishkin, drawn by Jan Duursema, and edited by Kim Yale. It is the third instalment of the "Death and the Dragon's Eye" story arc.
+
+Index
+Characters
+Brianne Byndraeth • Carril Byndraeth • Fenn Estelmer • Hedrick • Kyriani Agrivar
+
+Piergeiron the Paladinson
+Creatures
+  Cloaker • Half-drow • Human
+Locations
+Settlements
+ Waterdeep
+Magic
+Items
+ Dragon's Eye
+Organizations
+ City Guard • City Watch
+
+Appendix
+Reprints
+This issue was reprinted in the Dungeons & Dragons Classics, Vol. 4 trade paperback by IDW Publishing in March 2013.
+External links
+
+References
+
+Connections
+
+---
+
+## Delora Sharpeye
+
+Delora Sharpeye was an individual in the Western Heartlands around 1347 DR.
+
+Activities
+Delora usually assisted her father Meldar in trading between Baldur's Gate and Daggerford leading a caravan.
+
+History
+Around 1347 DR, Meldar's caravan was attacked by bandits near The Way Inn and his guards were killed. So Meldar stopped at The Way Inn in search of new guards and, with the help of Dauravyn Redbeard, recruited some adventurers who were members of Daggerford's militia.
+
+Relationship
+Delora usually traveled with her father Meldar Farwander and his three loyal animal handlers, Ian, Finn, and Dooley.
+
+Appendix
+
+Appearances
+ Under Illefarn
+
+References
+
+---
+
+## Deldrach Longarrow
+
+Deldrach Longarrow was a wild elf of the Misty Forest in the 14  centuries DR.
+
+History
+Around 1357 DR, after an earthquake near Illefarn poisoned the nearby river, King Melandrach sent Deldrach to ask an adventuring party who were members of Daggerford's militia to enter Illefarn and explore the area.
+
+Appendix
+
+Appearances
+ Under Illefarn
+
+References
+
+---
+
+## Deltoor Rillian
+
+Deltoor Rillian was a druid of Chauntea in the Spiderhaunt Wood around the year 1369 DR.
+
+Activities
+Deltoor taught a group of young initiates about proper maintenance of the trees near the trail and how to make their way out of the forest during the night. He was always ready to give useful advice about forest conservation.
+
+Appendix
+References
+
+---
+
+## Delhalls
+
+The Delhalls was a Dwarven mine in western Vaasa. It was considered a "twin" of Talagbar in eastern Vaasa. As of the late 15 century DR, it was under the control of the Warlock Knights of Vaasa.
+
+Geography
+The Dellhalls were located in the west of Vaasa within the eastern foothills of the West Galena Mountains, just south of the Bottomless Bogs.
+
+Description
+The mines themselves were largely uninteresting: they looked just like any other mine. However, hidden deep within the mines (requiring about an hour to reach) were miles and miles of mazelike tunnels that twisted in every direction. Explorers could get lost in these tunnels for months, assuming they did not fall prey to the large patch of oblivion moss that blanketed the walls and ceiling of one particularly dangerous and humid cavern.
+
+Iyraclea's Treasure Vault
+Deep within the twisting tunnels was a vault sacred to Auril and said to contain some great treasure or artifact belonging the Ice Queen Iyraclea. The vault entrance was located inside an unnaturally cold cavern and appeared to be a solid wall of worked stone covered in glowing glyphs and stones carved with strange symbols. The cavern was heavily protected with both mechanical and magical traps, including geysers of frigid water, volleys of razor-sharp ice shards, and crushing blocks of ice falling from the ceiling. The glyphs on the wall were likewise dangerous, and could instantly freeze a living creature: these required a complex ritual to disarm—involving the invocation of arcane, divine, and primal magics—and performing this ritual caused the caster's hair and skin to take on a pale blue color. Once the wards were gone, the shimmering outline of a door became visible, but opening that door required pressing a specific sequence of symbols carved into the rocks, some of which were too high off the ground to be reached by hand. Upon completing this sequence, an ancient mechanism caused the door to slide into the ground.
+
+The vault interior was nearly  with a  ceiling. The center of the floor was covered in a frozen lake lit from below with bluish light, and the walls and ceiling were carefully carved and enhanced with illusions to give the appearance of being outside in the middle of a blizzard, complete with twinkling lights in the pattern of falling snow. At the far side of the vault from the door was set of stairs rising  to a dais atop which was a throne made of ice flanked by statues of elemental creatures.
+
+Trade
+In the 15 Century DR, Dellhalls was exporting gems and copper. The mines were estimated to be rich with deposits of bloodstone, emerald, and ruby, and to hold veins of not only copper but iron.
+
+Delhalls exported its gems and ores via the trading town of Avang, and was quite profitable.
+
+History
+Delhalls, along with its twin Talagbar, were frozen under the Ice Run for millennia. At some point several centuries prior to the 14 century DR, the tunnels beneath the Delhalls became home to an iceborn clone of the Ice Queen Iyraclea, which was sealed inside the mighty magical vault.
+
+The ancient mines were rediscovered sometime in the 13 century DR, but it was not until around 1372 DR when melting at the edge of the Great Glacier fully exposed them. The two mines were said to be so rich in wealth that their discovery changed the culture of Vaasa, making its people more greedy. Mining had fully resumed by the 15 century DR.
+
+When the ravages of the Spellplague struck in the, the magical vault beneath the mines survived intact and remained sealed.
+
+Mining operations stalled in the, when an earthquake rocked the mines, blocking several shafts and collapsing the entrance. The local Warlock Knight lord—Knight-Fellthane Vorlanth—ordered dwarven slaves to clear the rubble and reopen the mine, but while doing so, the workers uncovered new shafts and tunnels filled with strange crystal formations, bizarre plants, and a mysterious, alluring music that echoed from the depths. This haunting tune sounded like the singing of both a human woman and something otherworldly, and filled the listener with a sensation of being trapped in a biting winter storm. While none could make out the words, somehow the raw meaning of the song could be intuited by those who heard it, and it seemed to call for the listener to follow the song. This music lured the workers deeper into the mines, and they started going missing.
+
+These occurrences were a result of the earthquake having caused passages to collapse and thus open the way to Iyraclea's vault, at which point the iceborn began calling out to the faithful of Auril to free her: the singing that echoed through the Delhalls was in fact a complex prayer to Auril. Within a few tendays, Vorlanth—having discovered old texts detailing the vault but not its contents—recruited a group of adventurers to infiltrate the vault. The group was led by Lysara, a priestess of Auril, and included the rogue Kallista, the warlock Kathra, the ranger Quarfein, and the warlord Bharash. However, these adventurers failed in their quest when they were killed by oblivion moss while exploring the mazelike tunnels.
+
+Inhabitants
+As of the late 15 century DR, the mine was largely operated by dwarven slaves under the oversight of a foreman named Omog, who ran the mine on behalf of Knight-Fellthane Vorlanth.
+
+The twisting tunnels deep within the mines was home to bats, hazardous mossy deathcap mushrooms, and a colony of oblivion moss. The vault at the heart of these tunnels was home to the iceborn clone of Iyraclea, which believed itself to be the true Iyraclea. Beneath the frozen lake in her vault dwelt a blizzard dragon that obeyed her commands.
+
+Appendix
+Appearances
+
+References
+
+FR:Delhalls
+
+---
+
+## Destructive wrath
+
+Destructive wrath was a channel divinity power granted to clerics of the tempest domain.
+
+Effects
+When a cleric used the power of lightning or thunder upon an opponent, this power could be invoked to greatly improve the efficacy and reliability of the effect, making it always the strongest possible.
+
+Components
+No components were necessary to invoke this power.
+
+Appendix
+References
+
+---
+
+## Deep Forest
+
+The Deep Forest, sometimes called Summeroak, was the divine realm of Silvanus.
+
+Cosmology
+In the Great Wheel cosmology, this realm was located within the larger realm of Tir na Og in the Outlands. According to the World Tree cosmology, the realm was located in the House of Nature. And the World Axis cosmology placed this realm in the Deep Wilds.
+
+Geography
+The Deep Forest was home to the greatest of all trees. It was a realm of thick and feral vegetation, as well as a rich and diverse wildlife. Dense and majestic canopies almost entirely blocked sunlight from reaching the ground below.
+
+The entire place was claimed by nature. There were no artificial buildings anywhere in the Deep Forest.
+
+Notable Locations
+Silvanus was said to make his home at the heart of the Deep Forest, in a glen that was also referred to as Summeroak.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Deep bat
+
+Deep bats were a broad classification of bat that were native to the Underdark. Beyond the Prime Material plane, they could also be found in the Domains of Dread.
+
+Despite their origins, they could be found on both the surface and below it. Although deep bats in general were rare to find, they were categorized into five main species, each exhibiting distinct behaviors and appearances.
+
+Drow wizards often took deep bats as familiars.
+
+The types of deep bats were:
+ Azmyth
+ Bonebat
+ Night hunter, also known as a dragazhar
+ Sinister
+ Werebat
+
+Appendix
+References
+
+---
+
+## Death spider
+
+Death spider was an arcane alteration and necromantic spell that turned the target's limb into a black spider.
+
+Effects
+Death spider turned the target's limb, which needed to be touched by the caster, into a living spider, which then started to eat the host it was attached to.
+
+Once the spider ate the victim, it became a giant spider, which could either spin webs or have a venomous bite.
+
+There were two ways to prevent the victim from getting eaten by the limb-turned-spider. First, cutting the limb off and then burning the spider to death was the mundane way. If done within the first minute after the spell took effect, only one foot or hand was lost. Second, one could resort to magic. A remove curse spell combined with a polymorph spell was a secure way to end it. Other means included the use of dispel magic within the first two minutes, or the use of powerful magic like a limited wish or even stronger spells.
+
+Components
+Death spider required somatic and verbal components and an assortment of material components. These were a living spider, a drop of digestive juices of any origin, and a tooth of any origin.
+
+History
+The spell was associated with the drow.
+
+Notable Users
+ Liriel Baenre, the noble daughter of House Baenre who left the Underdark for a life of adventure on the surface world.
+
+Appendix
+Appearances
+Novels
+Daughter of the Drow
+Further Reading
+
+References
+
+---
+
+## Denton Crimsguard
+
+Denton Crimsguard was one of the most fervent, and devoted priest of Tyr in the Vilhon Reach around the year 1370 DR. From his temple in the city of Alaghôn, Denton would lead impassioned speeches for his faithful every week.
+
+Description
+Denton was extremely dedicated in his service to Tyr. He had an extensive understanding of the laws and legal codes of both his home nation of Turmish and those of Chondath.
+
+Activities
+To serve justice as a priest of Tyr, Denton sent out a number of paladins to hunt down the leader of the Company of the Hunt, and Malar-cultist, Jaras Silverblood. He wanted the outlaw brought back to Alaghôn alive so that he could be held on trial. Denton expressed a great concern over the activities of another cultist of the Beastlord, Marsalas Endriven.
+
+Possessions
+Among Denton's possessions were a staff of curing, a horn of blasting and he wore a ring of mind shielding.
+
+Appendix
+References
+
+---
+
+## De'Tranion
+
+De'Tranion was a brewer in Baldur's Gate during the mid-14 century DR. He formulated a well-known brew called Baalor ale.
+
+History
+By 1368 DR, De'Tranion had amassed a debt of 900 gp to Captain Tollar Kieres.
+
+Appendix
+
+Appearances
+Video games
+Baldur's Gate
+
+External Links
+
+References
+
+---
+
+## Desharik
+
+King Desharik was a pirate lord of the Sea of Swords and the ruler of Brynnlaw.
+
+Description
+The pirate king lived in an elegant and luxurious house to the north-west of Brynnlaw, where he ruled. His house was always guarded, but if he was forced to come to arms, he fought with dual scimitars. He had connections with Spellhold and would send those there who were deemed to be mentally unstable, or those with a talent for magic.
+
+Possessions
+Desharik fought with scimitars and wore studded leather armor, all of which were enchanted.
+
+History
+Desharik was once a pirate who roamed the Sea of Swords with his crew. He, however, had lost a naval battle against another pirate king. Given no other choice, he fled to Brynnlaw, which he subsequently invaded.
+
+Desharik and his crew killed the mayor of Brynnlaw and many citizens. He forced the others onto the streets, or into courtesanship at Lady Galvena's Festhall. He "awarded" his lieutenant, Chremy, with the slave-courtesan Ginia, to please himself and his pirates.
+
+Appendix
+Appearances
+Video games
+ Baldur's Gate II: Shadows of Amn
+References
+
+---
+
+## Delver's plate
+
+Delver's Plate was a suit of plate mail armor, worn by the great Waterdhavian general, Delver Kinlake.
+
+Powers
+This +2 heavy plate mail granted the wearer limited protection from magical spells and abilities.
+
+History
+Delver's plate was originally granted to the vagabond general by Open Lord Baeron Silmaeril, as a token of appreciation for his years of service and leadership to the city. After Delver passed away the magnificent suit of armor was passed to eldest son.
+
+Since then it was worn by by a number of adventurers and, by the mid-14 century DR, came into the possession of DigDag, an orc chieftain.
+
+Appendix
+External Links
+
+References
+
+---
+
+## Delosar's Inn
+
+Delosar's Inn was a tavern in Athkatla.
+
+Description
+Delosar's was a large tavern, manned by a bartender named Calbor. It was scarce on entertainment, and folks usually only went there to drink. It was particularly frequented by city guards. The inn was known for being short-staffed, mainly because the off-duty guards would cause problems, and Calbor would scare off the serving wenches.
+
+Location
+The tavern was located in the Center District of Athkatla.In the video game Baldur's Gate II: Shadows of Amn, the Delosar's Inn is located within the Bridge District, whereas in Lands of Intrigue: Book 2: Amn, it was listed as a landmark of Center District.
+
+Interior
+Though the tavern was old, it was kept in good condition. It had three floors of medium size. The bar room was located on the bottom floor, which contained sets of tables and chairs and serving maids. The second floor was a bedding area, containing eight beds and chests. Mercenaries, especially those of Riatavin, would spend time here. The top floor was mainly filled with either sailors or nobles. It was the most comfortable room of the three and contained four luxury beds and a large dining table.
+
+Services
+The inn was mainly a "drinking hole" for everyone from guards to nobles. The bar sold beverages such as mead, ale, and wine. If patrons got too drunk, the barman would chuck them out onto the road. There was, however, a "blue elf" wild mage who would perform for a range of customers about his woes. He was very well received but was eventually hunted down by Red Wizards of Thay for his magical talents.
+
+Appendix
+Notes
+
+External Links
+
+References
+
+---
+
+## Den of the Seven Vales
+
+The Den of the Seven Vales was a tavern, frequented by peasants in the Guards District of Athkatla. Owing to the tendency of the original owner, Richard, to hire belly dancers, it was originally called the Den of the Seven Veils, due to the veils worn by such dancers. After he passed away, his wife, Patricia, fired the dancers and renamed the tavern to The Seven Vales.
+
+Interior
+The front bar-room contained a small service table, as well as many other tables and chairs. The back room was unmanned, but was filled with food and bottles of wine. It was fairly well lit for the societal class it appealed to. The upper floor contained a medium-sized room, containing a few beds and storage chests. Adventuring groups often preferred to stay on this floor.
+
+Services
+The den offered a small, and cheap, selection of brews, including Bitter Black ale, Golden Sands Brews, Dragon's Breath Beer, and plain old mead. The main bar was manned by the misandrist bartender, Patricia. She would often refuse to talk to male patrons, and would not give up much information to them. However, she would serve them and put them up for the night.
+
+Appendix
+References
+
+---
+
+## Deirex Jae'llat
+
+Deirex Jae'llat was a powerful drow lich who founded the city of Ust Natha.
+
+Possessions
+The lich owned a tower in Ust Natha, which was protected by a guard and several wards. A magical rope from Visaj could penetrate the wards on the lowest floor, allowing entry. It would also protect the owner from a lich's imprisonment spell.
+
+Deirex owned a ward stone for House Jae'llat, without which one could not enter the house. He also had a special tooth, which acted as a key for the doors in his tower, as well as his treasure vault at the top of the tower. His tower contained many powerful spell scrolls.
+
+History
+In about 1369 DR, a member of Bregan D'aerthe, called Visaj, told Gorion's Ward's party that the lich had captured many of Jarlaxle's men. The party was told that Deirex used magical purple gems to store the imprisoned souls of his enemies. Apparently, however, this was just a ruse by Jarlaxle and Visaj, in order for the party to acquire these expensive gems from Deirex Jae'llat. Jarlaxle, as a result of his cunning, settled matters with House Jae'llat, who'd previously humiliated him.
+
+Appendix
+Appearances
+Video games
+ Baldur's Gate II: Shadows of Amn
+
+References
+
+---
+
+## Deathstalker
+
+A deathstalker, also known as a deathstalker of Bhaal, was a servant of the once Lord of Murder, Bhaal.
+
+Culture
+In order to become initiated as a deathstalker, one must have fulfilled a set of strict requirements. First of all, the cleric must have Bhaal as their deity and be adept in hiding, moving silently, and surviving in difficult scenarios. The potential deathstalker must also be able to quick draw their weapon and have proof of murdering at least sixteen different sentient lifeforms, in sixteen different ways. The cleric must also be able to cast spells at a certain level of difficulty, and be attuned to either the Death or Destruction domains.
+
+Once initiated, the deathstalker must adhere to the law of Bhaal. If they violated such dogma, they would be stripped of their deathstalker spellcasting abilities until they sincerely atoned. Deathstalkers believed that every murder committed in the name of Bhaal brought him closer to his resurrection. They were required to murder at least once a tenday, and if this couldn't be fulfilled (say, due to incarceration), they would have to make up for each murder missed.
+
+A deathstalker made sure that each of their murder victims heard the following last words: "Bhaal awaits thee, Bhaal embraces thee, none escape Bhaal". Almost all deathstalkers were clerics, although some picked up training as rogues, and very few trained as fighters, etc.
+
+Abilities
+Although it was unknown where the powers of a deathstalker came from, some suspected the influence of Set encroaching on the portfolio of Cyric, while others believed that they came from Cyric himself. Some believed it was due to the rise of the Bhaalspawn or even their dead god, Bhaal.
+
+Those who chose Bhaal's dark path would have the ability to fade into the shadows and sneak with extreme care. Deathstalkers, if they studied their victims carefully enough, could, during a sneak attack, paralyze or even kill them. They could also direct the hatred of a living creature within 30 feet (9 meters) onto another creature. This mind-affecting method could lead potential enemies to distract each other, or even thin their own numbers, before a deathstalker struck.
+
+It was said that the last gasp of Bhaal would resurrect a loyal deathstalker, if dying in service to the dead god himself.
+
+Notable Members
+ Amelyssan the Blackhearted
+
+Appendix
+See Also
+Deathstalker mantle
+Appearances
+Video Games
+Baldur's Gate II: Throne of Bhaal
+
+References
+
+---
+
+## Deidre
+
+Deidre was a merchant and employee of Aurora's Emporium who sold her unique wares at the Adventurer Mart in Waukeen's Promenade in Athkatla, Amn, in the mid-to-late 14 century DR.
+
+Activities
+As a member of the Aurora's magic emporium, Deidre was able to sell from Aurora's collection of magical treasures. In the, these included a variety of unique items from Sigil and the companions of the immortal Nameless One and mementos of the explorer Balduran:
+ Dak'kon's Zerth blade: the sword of Dak'kon, a famous githzerai.
+ A Sensate amulet: an amulet from the Society of Sensation, a faction of Sigil.
+ A Harp of Pandemonium that once belonged to Ravel Puzzlewell, a powerful night hag.
+ A Harmonium halberd: an enchanted halberd from the Harmonium faction.
+ Vhailor's helm: the helmet of Vhailor, a Mercykiller.
+ Mercykiller ring: a ring from the Mercykillers faction.
+ Robe of Vecna: an incredibly powerful robe once worn by the illustrious lich Vecna.
+ The plate, sword, and shield of Balduran, which were stolen from a museum in Baldur's Gate.
+
+She rented her store space from Ribald Barterman.
+
+Appendix
+Background
+Not appearing in the original Baldur's Gate II: Shadows of Amn, Deidre was added to the game in a later Collector's Edition, free DLC, and the Baldur's Gate II: Enhanced Edition. She sells items from characters and organizations featured in Planescape: Torment, also from Black Isle Studios.
+
+Oddly, Aurora's Emporium sells goods and mundane items and does not sell magic items, armor, and weaponry, yet Deidre sells all three, some of legendary provenance. She also lacks a store, instead standing in a market. While this may just be a change due to gameplay and mechanics, it should be noted that Deidre refers to "the Aurora's magic emporium" in lower case and refers directly to "her" (Aurora's) collection of magical treasures. Therefore, it may be the case that Deidre is selling these directly from Aurora's personal collection, independently of the main business.
+
+External Links
+
+Appearances
+
+References
+
+---
+
+## Delblood's Atlas of Faerûn
+
+Delblood's Atlas of Faerûn was a popular reference book containing maps of Faerûn. It was composed by the cartographer Delblood. Several copies of the atlas were available to view for free within the open book galleries of the Vault of the Sages in Silverymoon around 1372 DR.
+
+References
+
+---
+
+## Deep Elder Doom
+
+The  Deep Elder Doom was the highest-ranking member within the church of Myrkul up until the mid–14 century DR. They served as the head of the Conclave of Doom within the Skullspire in southern Faerûn.
+
+Deep Elders
+Haaeluth Muribaert: This quiet but cold-hearted priest held the post beyond the destruction of Myrkul's avatar in 1358 DR. He maintained his status as head of the Skullspire temple as his congregation converted to the worship of Cyric after the Time of Troubles and again to Kelemvor a decade later.
+
+Appendix
+References
+
+---
+
+## Decay
+
+Decay was a divine alteration spell that was granted to specialty priests of Bhaal, up until the Time of Troubles. While it had no effect on living beings, it would accelerate the aging of any item it was cast upon.
+
+Effect
+The spell would deteriorate an item at the rate of one day for every hour of existence after its casting. Any minor damage, such as tears, dents or strains in its integrity would worsen twenty-fold. Eventually an object affected by decay would crack, break, corrode or outright disintegrate into dust. Magical items had a natural inherent resistance to this effect and artifacts and relics had complete immunity.
+
+The spell dispel magic could slow the effects of this spell.
+
+Components
+Verbal, somatic and material components were required in the casting of this spell. The material component was the caster'sholy symbol.
+
+Appendix
+References
+
+---
+
+## Detect curse
+
+Detect curse was a divine divination spell of the southern magic tradition that allowed the caster to examine artifacts or creatures for the presence of a curse. A variant of this spell was used by shugenja and was very rare outside Kara-Tur.
+
+Effects
+This spell had a maximum range of 10 yd (9.1 m) and only detected divinely inspired curses—items with dangerous enchantments on them were not considered cursed for the purposes of this spell. With sufficient experience, a priest could determine the specific type of curse, such as from a bestow curse spell, a bane, a dying curse, or a major curse spell. For one version of this spell, it took one minute to examine an object or a creature and the spell lasted for several minutes, so the caster could examine other targets until the spell expired.  The effects of the spell used by shugenja were identical.
+
+Components
+This spell required only verbal and somatic components to cast. In Kara-Tur, a shugenja required
+material components to cast the spell. The shugenja gave an offering to their deity, a gem worth at least 2 ch'ien, as well as a cluster of fresh flowers from a cherry or plum tree.
+Appendix
+Appearances
+Adventures
+Khamsa's Folly
+Notes
+
+References
+
+---
+
+## Demonic Infestations
+
+Demonic Infestations was a book on demonic possession.
+
+Description
+The book was a collection of several stories on its subject matter. It was written in Common, and did not have much monetary value.
+
+History
+As of the late 15 century DR, a copy could be found in the guest quarters of Vlonwelv's base in the Muiral's Gauntlet section of Undermountain.
+
+Appendix
+Appearances
+Adventures
+Waterdeep: Dungeon of the Mad Mage
+
+References
+
+---
+
+## Desedrak
+
+Desedrak was an officer serving within the Flaming Fist mercenary company during the mid–14 century DR.
+
+History
+In 1364 DR, Desedrak, along with Scar, Bellan, Yulimtul and some 500 Fist members, sailed out from Lantan for a journey in search of the fabled resting place of the legendary explorer Balduran in the lands of Anchorome. While they were nearly halted by early disasters, they eventually landed in the seaside city of Helmsport on the continent of Maztica.
+
+The group split within the city, with Desedrak and Yulimtul embarking overland northwest across the continent, with over 200 Flaming Fist mercenaries. They traveled in search of the legendary City of Gold but disappeared into the wild lands west of the Trackless Sea and were never heard from again, unreachable even by magical means.
+
+Appendix
+References
+
+---
+
+## Dezlentyr
+
+The Dezlentyr  noble house of Waterdeep was a prominent family within the city who rose to prominence during the 13 century DR. They were renowned for their expertise as caravan masters, traders and explorers, having established a number of harbors in coastal settlements on a number of islands located throughout the Realms.
+
+Base of Operations
+
+The family owned a villa in the Sea Ward on the southeast corner of Delzorin Street and Feather Street. They also had holdings in the Starspur county in the nation of Tethyr.
+
+Notable Members
+Arlos Dezlentyr: Lord and patriarch of House Dezlentyr during the 14 century
+Erin Cassalanter Dezlentyr: Lady of the house, and the second wife of Lord Arlos
+Corin Dezlentyr: The half-elf heir to the family's fortune
+Corinna Dezlentyr: Naval commander in the Tethyrian Reclamation in 1368 DR, Countess of Starspur in Tethyr and Royal Admiral in command of the Tethyrian navy sometime after 1368 DR
+
+Family Tree
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Devil's tail
+
+Devil's tail was a transmutation spell that gave the caster a tail.
+
+Effects
+On casting devil's tail, a tail grew from the caster's body. This black or red 3-foot-long (91.44 cm) tail was spiked at the end. This tail's value lay in its potential as a weapon. The caster had it so well under control that it could be employed as a weapon even in conjunction with other hand-held ones. However, doing such a thing was detrimental to the accuracy of the attacks. The spell had a minimum duration of an entire minute and lasted longer the stronger the caster was.
+
+Components
+The casting of devil's tail required somatic and verbal components.
+
+History
+The only known way to obtain devil's tail was through the Diabolic domain, a suit of spells that was not granted by all infernal entities.
+
+Appendix
+References
+
+---
+
+## Devil's eye
+
+Devil's eye was a divination spell that gave the caster a devil's eyesight.
+
+Effects
+On casting devil's eye, the caster's eyes gained the eyesight of a devil. However, it was a downgraded version of it. Devils could see through magical darkness, even that created by deeper darkness. This spell's recipient could see through normal darkness, but only to a range of 30 ft (9.14 m) through magical darkness.
+
+Components
+The casting of devil's eye required somatic and verbal components.
+
+Appendix
+References
+
+---
+
+## Devil's ego
+
+Devil's ego was a transmutation spell.
+
+Effects
+On casting devil's ego, the caster's force of personality was magically enhanced for an extended period of time. Furthermore, this spell turned the caster into an outsider where spells cast on him or her were concerned. For example, the caster became effectively immune to charm person. However, the increase in strength of personality did not translate to additional magical power in the form of increased frequency to cast spells, although it made existing spells stronger.
+
+Components
+The casting of devil's ego required somatic and verbal components.
+
+History
+The only known way to obtain devil's ego was through the Diabolic domain, a suit of spells that was not granted by all infernal entities.
+
+Appendix
+References
+
+---
+
+## Demonomicon of Iggwilv
+
+The Demonomicon, also known as the Fiendomicon, was a seven-volume book written by the archmage Iggwilv. It was a comprehensive treatise on demonic lore that contained information about several demon lords, complete with instructions for summoning and binding them, as well as an extensive collection of spells and evil rituals.
+
+Description
+All volumes of the Demonomicon were brassbound pages of parchment with dark purple covers made of demon leather. It was held shut by a clasp in the shape of a three-fingered demonic hand.
+
+Among some historical information on demon lords, the book detailed the ascension of Orcus to demon lord status, specifying that he spent some time as a nalfeshnee inhabiting the 400 layer of the Abyss at the same time that the gith race revolted against the mind flayers. The book also contained treatises on Fraz-Urb'luu, Juiblex, Pazuzu, and Zuggtmoy.
+
+The book contained not only information about the demon lords, but also abundant demonic lore in general. It specified what kinds of demons certain evil individuals became after death. Each volume of the Demonomicon contained the true names of multiple different demons.
+
+The Demonomicon also contained information on the Abyss itself. It stated that the plane could regenerate a previously destroyed demon lord.
+
+Information on other creatures was also available in the Demonomicon. When discussing the obyrith Pale Night, the book argued that she also spawned other races that inhabited the Prime Material plane, such as lamias and harpies.
+
+Every volume of the Demonomicon contained information on the same spells, all created by Iggwilv: dolor, ensnarement, exaction, imbrue, implore, minimus containment, and torment.
+
+Powers
+
+Possession of the complete Demonomicon was believed to grant the reader with power to dominate all the demon lords described in its pages, paralleling the power Iggwilv herself had over those entities. However, over the book's history, no wizard succeeded in obtaining all volumes.
+
+Any volume of the book was capable of increasing the strength of conjuration spells such as planar binding against demons and other evil creatures. The first few pages of each volume were blank and functioned as renewable material components for soul-binding spells such as magic jar, minimus containment, and trap the soul. Whenever a creature was imprisoned within a volume of the Demonomicon, its visage appeared as a drawing on that page's parchment whose appearance changed every time the book was opened. Creatures trapped inside the book could communicate with outsiders via spells such as detect thoughts, dream, and Rary's telepathic bond.
+
+History
+
+The Demonomicon was based on a previous work known as the Tome of Zyx, as well as The Faceless Lord. All content from the original tomes were copied over to the Demonomicon, but it also contained abundant original research conducted by Iggwilv over the years.
+
+Although it was generally believed that the Demonomicon only had six volumes, a little-known seventh tome was discovered in the Wells of Darkness.
+
+Appendix
+
+Gallery
+
+External Links
+
+References
+
+---
+
+## Delgrath
+
+Delgrath was a co-owner of the Wyrmworks, a shop that sold dragon parts, located on Many Cats Lane in Silverymoon, circa the Year of Wild Magic, 1372 DR.
+
+Description
+Delgrath had gray hair but was clean-shaven. The retired life of a shopkeeper was not nearly as strenuous as that of an adventurer and his midriff was beginning to show it.Some descriptions are based on the artist's rendering.
+
+Personality
+He was more gruff and less kind than his business partner, Roryk, but he had a soft spot for Alrue, their shop-girl. He was always wary of strangers, especially if they asked too many questions. He was no friend of the Arcane Brotherhood or the Red Wizards of Thay, and zealously guarded the methods, materials, and processes they used to clean and preserve dragon parts. He drove a hard bargain and wasn't hesitant to raise prices on those with questionable character.
+
+Abilities
+Delgrath was an experienced sorcerer and wise in the ways of the world. He was somewhat of an expert on dragons and how to preserve and transport parts of their corpses. He kept current with reports of dragon sightings, lair locations, and attacks by or on dragons around the region.
+
+Possessions
+Delgrath was co-owner of the Wyrmworks, which included a magically animated red dragon's head that was named Old Roaring Rage.
+
+Activities
+He loved to talk about anything to do with dragons: telling tales, discussing tactics, and hearing news of recent sightings.
+
+Relationships
+He and Roryk were good friends and were often seen together. The veterans had a small group of loyal bodyguards that also acted as assistants in the shop. They were both quite fond of their young maid and shop girl, Alrue, and she loved them, affectionately calling them "the Old Boys".
+
+History
+Roryk and Delgrath retired from adventuring and opened their shop sometime around the Year of the Unstrung Harp, 1371 DR. Business was slow at first, but once word got around, the shop turned a good profit and they contemplated opening another Wyrmworks in Waterdeep.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Delhumide (tharch)
+
+Delhumide was a tharch of Thay, located in the eastern part of the nation. It encompassed the eastern seas of Lake Thalembrar, along with the lands east of the River Thay to the northeastern cliffs of the Second Escarpment. Up until the late 14 century DR, it was full of slave farms that were either exploited or well used by its various tharchions throughout the years.
+
+Notable Locations
+Delhumide: The former seat of power in Thay during the age of the Mulhorandi empire, the city of Delhumide became a ruin, whose ancient wealth and secrets attracted treasure seekers from within Thay and beyond.
+
+Geographical Features
+Lake Thaylembrar
+River Thay
+
+History
+During the first half of the 14 century, Tharchion Mikal Canos largely ignored rule over his lands, using slave revolts and political scheming as a cover for his expeditions into the ruins of the tharch's capital. When Canos went missing during one such excursion in 1363 DR, Invarri Metron ascended as Delhumide's tharchion and took over administration of the tharch's slave trade.
+
+In preparation for his attempted political coup of Thay in the year 1375 DR, Zulkir Szass Tam had his Red Wizard necromancers traffic in a great number of slaves through the tharch, and into an ancient temple of Horus-Re within its ruined capital. Within the temple was a portal that led to an undead manufactory run by the atropal known as Xingax, who had been raising an army of zombies, wraiths, and other abominations for the Thayan lich. Szass Tam maintained control over the tharch for the next decade, while the War of the Zulkirs ravaged the nation, until it was unified under his rule as regent in 1385 DR.
+
+Appendix
+
+References
+
+FR:Delhumide (tharch)
+Connections
+
+---
+
+## Deeppockets
+
+Deeppockets was a spell that created extradimensional spaces within the pockets of a piece of clothing, enabling them to hold substantially more than they would normally be able to.
+
+Effects
+Upon casting the spell on a fine robe or gown containing at least a dozen hand-sized pockets, a chosen number between 10 and 100 of those pockets became capable of holding a combined weight of  and a combined volume of, which added only  to the weight of the garment. The spell lasted for 12 hours, or longer for more powerful casters, after which all the contents of the pockets reappeared around the garment. The caster could also summon all the contents back by uttering a command word.
+
+In the phlogiston, since access to extradimensional space was impossible, the objects contained within space created by deeppockets were inaccessible until the garment was brought inside a crystal sphere. The duration of the spell was also halted while in the phlogiston.
+
+Components
+The spell required verbal, somatic, and material components. The robe or gown needed to be worth at least 50 gp and a robe that contained the maximum number of pockets (100) was worth at least 200 gp. The materials required, in addition to the garment itself, were a small golden needle and a half-twisted strip of fine cloth tied at both ends.
+
+History
+The spell was attributed to the Netherese arcanist Undine in, and was originally called Undine's extra portal pocket.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Demiplane (disambiguation)
+
+Demiplane might refer to:
+ Demiplane, a plane that was usually of finite size
+ Demiplane (spell), a spell that created a demiplane
+
+---
+
+## Deny cold
+
+Deny cold was an abjuration spell that protected the recipient from natural and magical cold.
+
+Effects
+While deny cold had the same effect as the divine spell resist cold, it actually repelled cold effects rather than fortified the body of the spell's target.
+
+Casting
+The casting of the spell required verbal and somatic components as well as a patch of fur from an animal.
+
+Appendix
+See Also
+Deny fire
+References
+
+---
+
+## Deny fire
+
+Deny fire was an abjuration spell that protected the recipient from natural and magical fire.
+
+Effects
+While deny fire had the same effect as the divine spell resist fire, it actually repelled heat and flames rather than strengthened the body of the spell's recipient.
+
+Casting
+The casting of the spell required verbal and somatic components as well as a small piece of hide taken from a red or gold dragon.
+
+Appendix
+See Also
+Deny cold
+References
+
+---
+
+## Deathbolt
+
+Deathbolt was an uncommon necromantic spell of the southern magic tradition.
+
+Effects
+When cast, the spell unleashed a bolt of death energy at the target. This bolt was usually fatal to any creature of the Prime Material plane. The spell had a range of .
+
+Components
+In addition to verbal and somatic components, this spell required a material component, vampire ichor.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Deathguard
+
+Deathguard was a common abjuration/necromatic spell of the southern magic tradition.
+
+Effects
+When cast, the spell created a guardian spirit which protected the caster from attacks from the Ethereal Plane. The guardian spirit absorbed a fatal strike inflicted on the caster, afterwards the spirit was destroyed. The caster does not suffer any negative affects of the attack. Since the guardian spirit only absorbs lethal attacks, the caster was vulnerable to a non-lethal attack.
+
+Components
+The spell required only verbal and somatic components.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Devastate
+
+Devastate was a common alteration spell of the southern magic tradition that increased the strength of the caster's offensive spells.
+
+Effects
+Any attack spell cast after devastate inflicted several times more damage than normal. The spell had a limited range, only targets in the caster's immediate vicinity were affected.
+
+Components
+In addition to verbal and somatic components, this spell required a material component. A gold pendant with the symbol or insignia of the caster, and had to be worn around the neck for the duration of spell. The pendant had to be solid gold, a pendant made from an alloy of gold and another metal would prevent the spell from being cast.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Delimbiyr Bloke
+
+The Delimbiyr Bloke, properly called the Face of Gorm was a magical item and holy relic dedicated to the dwarven deity, Gorm Gulthyn.
+
+Description
+It was a brick-sized block of shining quartzite carved with an abstract bearded face on it.
+
+Powers
+The relic was capable of conjuring forth daylight as well as summoning the spirits of ancient dwarf warriors to fight alongside a goodly wielder of the Bloke. These spirits would however attack an evil wielder.
+
+Appendix
+
+References
+
+---
+
+## Deeper darkvision
+
+Deeper darkvision was a transmutation spell that gave the target a special form of darkvision.
+
+Effects
+On casting deeper darkvision, the creature the caster touched gained a form of special darkvision that allowed the caster to see through darkness, not only mundane darkness, but even those created by magical means like darkness or deeper darkness. The eyes of the recipient glowed with a purple glint.
+
+The vision within darkness was only in black and white but very otherwise unproblematic.
+
+Components
+Deeper darkness required somatic, verbal, and material components to cast. The material component was either a pinch of dried carrot that was thrown at the casting's conclusion or an agate.
+
+Appendix
+See Also
+Darkvision
+Low-light vision
+Mass darkvision
+References
+
+---
+
+## Dehydrate
+
+Dehydrate was a necromancy spell that caused a desiccating effect on the target.
+
+Effects
+On casting dehydrate, the caster was cursed with loss of water. This had devastating effects on the target's health, the extent of which increased with the caster's skill. If the target was a creature that had an unusual amount of water as part of its being, like oozes, the drying effect was even more severe.
+
+Components
+Dehydrate required somatic and verbal components, but also a divine focus.
+
+Appendix
+See Also
+''Horrid wilting
+
+Appearances
+
+References
+
+---
+
+## Delimbrar
+
+Delimbrar was a knight of the Triad who served on the ruling council of Impiltur known as the Lords of Imphras II during the 14 century DR.
+
+Delimbrar was one of the younger lords leading up to the coronation of King Imbrar II in the Year of Lightning Storms, 1374 DR. Along with his fellow lord Engarth, Delimbrar played a significant role in the upbringing of the young regent and curried much favor with his grace.
+
+Appendix
+References
+
+---
+
+## Delzorin Street
+
+Delzorin Street was a street in Waterdeep that ran east to west in the North Ward. The street ended on a left turn at Whaelgond Way.
+
+Notable Locations
+ Ulbrinter Villa, the estate of the noble Ulbrinter family, was located here, between Vhezoar Street and Brondar's Way. Being the street's most remarkable building, the mansion was of beautiful architecture, with high-rising towers and conical turret-tops.
+ The Massalan and Lanngolyn families also owned villas on Delzorin Street.
+ Yellowcrest Manor, once the home of the Yellowcrest family, stood on Delzorin Street. After most of the Yellowcrests were horrifically murdered, the Falgarst family assumed ownership of the manor.
+ Nandar's Ride, a small road leading up to the villa of the Nandar family.
+ The South entrance into Trollskull Alley was located on Delzorin Street.
+ One of the rowhouses between Delzorin Street and Trollskull Alley was a Harper safehouse, and contained a magical entryway to Harpers' Hold.
+
+Links to Sewers
+Delzorin Street was used as a reference point for three different surface shafts to enter the sewers of Waterdeep:
+ One that was between Sul Street and Shield Street that allowed entrance into a junction room.
+ One that was in the block for which the Delzorin Street represented one of its borders.
+ One close to the intersection with the Whaelgond Way.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Destiny
+
+Destiny was a cleric of Fharlanghn who lived in Amn.
+
+Personality
+Destiny was an unscrupulous woman who did not care about whether people died in her money-making schemes.
+
+Abilities
+Destiny was a cleric of Fharlanghn, a deity of roads from Oerth. She had access to the Luck and Travel domains. She regularly prepared animate dead, augury, bless, blindness/deafness, cause fear, create water, cure light wounds, cure minor wounds, cure moderate wounds, cure serious wounds, detect magic, detect poison, dimension door, expeditious retreat, fly, hold person, light, locate object, read magic, sanctuary, silence, and summon monster IV. Out of these spells, she made regular use of the animate dead spell to create undead to drag unwanted people through the Dusty Rat portal.
+
+Possessions
+Destiny owned several magic items. Namely, she owned a +1 full plate armor, +1 steel large shield, +1 heavy mace, and a cloak of resistance +1.
+
+Activities
+Destiny was a member of a trio with Baldy Spryth and Scales that ran the Dusty Rat portal scam. They spread a rumor that the Dusty Rat bar had a portal that went to another dimension. They charged a fee for its usage and collected all the equipment of people who used it, which was left behind due to the creature-only nature of the Dusty Rat portal. She used animate dead to create undead, which were used by Baldy to send unwanted people through the portal.
+
+Relationships
+As mentioned above, Destiny was part of the trio that ran the aforementioned scam. None of them saw a moral problem with it.
+
+History
+Destiny came into contact with Baldy and Scales some time in the 14 century DR. By that point, Baldy was already quite successful by means of his scam with the portal.
+
+Appendix
+References
+
+---
+
+## Deck of many things
+
+A deck of many things, also known as deck of hazards, was an assortment of magical cards or metallic plates that were arranged in a set deck. They were enchanted with great magic that was never to be used lightly.
+
+Description
+While each deck of many things was different, they held some common properties. The majority of decks found contained 13 cards, while approximately 1/4 of them held 22. They were typically made of vellum or ivory, but could also be cast from thin sheets of metal. They were often kept in a small pouch or ornate box.
+
+The cards were named and each was adorned with a unique portrait that shimmered with a radiance of power. A 13-card deck included the sun, moon, star, throne, key, knight, the void, flames, skull, ruin, euryale, rogue and jester cards, while a 22-card deck added the vizier, comet, the fates, gem, talons, idiot, donjon, balance and fool.
+
+While usually a deck of cards, a deck of many things could, on the rare occasion, come in another form, such as a circle of twenty two doorways, or a twenty two sided die.
+
+Powers
+The exact powers of each individual deck were not known until the cards were drawn. Before this, an individual declared how many cards they intended to draw. They did so randomly and had to wait one hour before drawing again. Any extraneously drawn cards had no effect and if an individual failed to draw the number of cards they'd previously declared, then all the remaining cards flew from the deck and took effect.
+
+Once a card was successfully drawn, its magic immediately took effect and then it faded into oblivion, but instantly reappeared as part of the deck. This made it entirely possible that the same card was drawn more than once. The exception to this rule were the fool and jester cards, which truly disappeared once drawn.
+
+Effects
+The following effects were known to afflict, benefit, or otherwise change whoever drew the card:
+
+ Euryale: The image of the medusa-like creature permanently cursed them. This effect could only be reversed by a deity or the magic of the fates card.
+ Flames: They earned the enmity of a formidable devil who sought their suffering and destruction. This hatred continued until they or the fiend died.In BGII:SoA this card summoned an aggressive balor and four hostile fire elementals. Hostile action by the outsider was taken within one to twenty days of earning the enmity.
+ Jester: Great intuition and expertise were bestowed upon them in a similar manner as if they drew the sun card, albeit to a lesser extent. In addition they could draw two additional cards beyond those that they previously declared.In BGII: SoA this card was replaced by erinyes that improved all their base attributes.
+ Key: A rare weapon, of a type with which they were proficient, appeared in the hands of the card's drawer.In BGII: SoA, the weapon was replaced by the Warder's Signet.
+ Knight: A powerful knight appeared and pledged their loyalty to them. This noble combatant believed that the fates had drawn them to that place and time.In BGII: SoA this card summoned four hostile demon knights. This person and the drawer belonged to the same race and sex.
+ Moon: They gained the ability to cast the powerful spell wish in one to three instances.In Baldur's Gate II: Shadows of Amn this card permanently increased their overall heartiness.
+ Rogue: A person close to the drawer of the card, or even a powerful figure or organization, became hostile towards them, though their identity was unknown to the drawer. This hatred could only be alleviated by a deity's intervention or the spell wish.In BGII:SoA this card placed them under the effects of dire charm for over 40 days. The person who hated the drawer did not reveal their hatred until the most opportune time to cause the most trouble to the object of their hatred.
+ Ruin: They lost any and all wealth in their possession. While magical items were not affected in this manner, gold and other valuables disappeared. Any businesses, investments, land, or other holdings were also lost along with any corresponding documentation.
+ Skull: An avatar of death appeared before them. Before assaulting them with its scythe, the skeletal reaper warned anyone nearby that they were to engage in this fight alone. Anyone slain by the avatar of death could not be resurrected or otherwise brought back to life.In BGII: SoA the avatar of death was replaced by a death shade. There was a chance of this card calling a jerul instead.
+ Sun: They were granted tremendous insight and skill as if they were much more experienced in their travels. In addition, they were granted a single wondrous item from anywhere throughout the Realms or other planes of existence.
+ Star: Two defining qualities of them were greatly and permanently enhanced. Such characteristics included their wit, intellect, fortitude, athletic ability, or other similar characteristics that helped define who they were as a person.
+ The Void: Their body was incapacitated and their soul was transported into a random object located somewhere. The location of the object was revealed to anyone nearby. The effects of this card could not be reversed by a wish spell.In BGII: SoA this card disintegrated the drawer.
+ Throne: They became adept at influencing others to a heroic extent. Additionally some random keep located somewhere came into their rightful possession. However, the keep was infested with monstrous creatures that had to be expelled before it could be claimed. There were no recorded instances of any keeps appearing or having their ownership transferred by means of this magic.
+
+These effects were imbued within the 22-card deck:
+
+ Balance: Their alignment was reversed along the axes of both good versus evil and order versus chaos. No effects occurred if they were considered neutral or unaligned.In BGII: SoA this card depicted a portrait of the deck's creator. After the portrait smiled at the drawer the deck faded into nothingness. Furthermore, if the drawer's actions did not meet the standards of the newly imposed ethical and moral outlook, the card's magic sapped the drawer's life energy.
+ Comet: If they defeated the next hostile creature or group of individuals they encountered single-handedly they gained a great amount of insight from the battle. If this did not occur the card had no effect.In BGII: SoA this card granted permanent protection against fire.
+ Donjon: They became imprisoned in a state of stasis within an extra-dimensional space somewhere in existence, in a manner similar to the spell imprisonment. All of their clothes, possessions and belongings remained at the location where they drew the card. They remained there until were discovered and recovered, however they could not be located by any divination magic and only by a casting of wish. Even if they previously declared, they drew no more cards.
+ Fool: They lost understanding and competence in a manner opposite to those effects that were caused by the jester card. They drew another card from the deck, regardless of how many other draws they had declared.
+ Gem: A great cache of valuable gems appeared before them, in the form of 25 pieces of jewelry or 50 individual gem stones. The value of these riches totaled 50,000 gp.
+
+ Puzzle (also known as the Idiot card): Their intellect and mental faculties were significantly diminished, but not to a point that it could cause death. They could draw one card in addition to those they declared.
+ Sage (also known as the Vizier card): Within one year of drawing this card, they could ask a question in a state of meditation and receive an enlightening answer within their mind. Along with specific knowledge, they gained the wisdom to apply that information and if necessary, solve a dilemma or crisis in their life.In BGII: SoA this card placed them under the effects of the spell mantle for two hours.
+ Talons: Every magic item in their possession disintegrated. Any artifacts on their possession were not destroyed in this manner, but did vanish to some other location.In BGII: SoA this card permanently blinded them.
+ The fates: They gained the ability to undo the fabric of time and reality, completely erasing one event from their life as if it never happened (including the eurayle's curse). The effects of this card could be used immediately or anytime within their lifetime.
+
+History
+
+The original deck of many things in the whole multiverse was created by the Greyhawk god of luck, Istus, after a human woman named Asteria made a deal with them to save her friend, the medusa Euryale. Due to the divine nature of the cards, from then on myriad versions, each slightly different, started manifesting across the multiverse.
+
+On Toril, the original decks of many things were created by the ancient Empire of Netheril. Then, these decks were nothing but decks of game cards known as decks of hazards. This casual deck-building game was played with slightly enchanted cards competitively. After the fall of Netheril, the magic contained in surviving decks steeped and swelled into the potent cards known across the Realms for their dangers and possible beneficial effects.
+
+Appendix
+
+Gallery
+
+Appearances
+
+Further Reading
+
+External Links
+ Deck of Many Things Generator
+
+Notes
+
+References
+
+---
+
+## Delmyr
+
+Delmyr was a remote and little-known kingdom of hinThe source for this article predates the Forgotten Realms Campaign Setting 3rd edition by more than a year, but the description of these reclusive hin is remarkably similar to the ghostwise halflings introduced in that book. located in the Hordelands, circa the .
+
+Geography
+This realm was confined to the Umberwood and the eastern flank of the Glittering Spires mountain range. The Glittering spires were on the east side of the southern tip of Yal Tengri, the Great Ice Sea.
+
+Government
+
+As of 1370 DR, the king of Delmyr was Joroelner Gleddyn. There were six noble families, each represented by a baron, that constantly vied for the throne, but the tenor of their competition was non-violent, respectful, and good-natured. To the world outside their borders, they kept a low profile and a watchful eye. They just wanted to be left alone.
+
+The six baronies were:
+ The Ambrutter family
+ The Belrowhin family
+ The Daerove family
+ The Mazron family
+ The Slaunadda family
+ The Velmairn family
+
+Trade
+The Delmyrans lived in harmony with nature in simple, underground dwellings, and only planted what they needed, using forest clearings for patches of melons, shallow root caves for mushrooms, and the mountainous slopes for growing grapes, beans, and marrows. They traded food and wine to the gnomes that lived in the Glittering Spires and received wire and other products made of metal in return.
+
+Defenses
+The hin of Delmyr were quite skilled with the sling and crossbow, able to pick off birds and deer that scavenged their crops. They were no stranger to bigger threats, as evidenced by the many monster skeletons that decorated the border to their land. Some of their trophies included behir, a bulette, perytons, wyverns, and even a dragon. They also had alliances or relations with a few human wizards that lived a reclusive life in the remote region. There was also an entity that they named "the Vigilant" that could be called upon in times of dire need. Its nature and identity were a well-kept secret.
+
+History
+The Parradyne family held the throne of Delmyr for nearly a millennium before the bloodline faltered and the Gleddyn family succeeded them. Joroelner was the second Gleddyn to rule as King.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Denderida
+
+Denderida was a drow trader and member of House Hunzrin in the late 15 century DR.
+
+Activities
+Denderida was one of the best surface traders of her House, having centuries of experience, and for this she was greatly respected, despite not being a noble.
+
+History
+In the, Denderida arranged a meeting between a clan of spriggan followers of Malcanthet in Damara and the First Priestess of her House, Charri Hunzrin.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deepen shadows
+
+Deepen shadows was a common spell used by ninja in Kara-Tur. It was very rarely found outside Kara-Tur.
+
+Effects
+When cast, the spell discreetly darkened the area surrounding the ninja. The spell had the best affect in an enclosed space like a room or a cave. The darkness was unobtrusive and aroused little notice from others in the area. The spell could be detected with a detect magic spell. The spell attempted to darken a whole room and had a base area of affect of 10 feet by 10 feet (3 meters by 3 meters) that increased based on the ninja's skill. The spell had to cover the entire room to succeed. If it was attempted in a room that was too large, it failed.
+
+Components
+The spell required only kuji-kiri hand gestures as the somatic component.
+
+Appendix
+References
+
+---
+
+## Detect shapechanger
+
+Detect shapechanger was a common spell used by shugenja and wu jen. It was very rare outside Kara-Tur.
+
+Effects
+The spell allowed the caster to see the true form of a shape-changing creature but did not reveal its alignment. If the creature was already in its true form when the spell was cast, the spell revealed if the creature had shape-changing abilities, but not the form or forms into which it could change. The spell could only be cast on one creature at a time, and the creature had to be within 60 yards (54 meters) of the caster.
+
+Components
+In addition to verbal and somatic components, the spell required a material component. When cast, the caster had to apply a balm made of honey and lotus flower on the subject's eyelids.
+
+Appendix
+Appearances
+Adventures
+ Dungeon #33: "Mad Gyoji"
+References
+
+---
+
+## Detect the living
+
+Detect the living was a common spell used by ninjas. It was very rarely found outside Kara-Tur.
+
+Effects
+While similar to detect undead, a ninja used this spell to identify the presence of living creatures. During casting, the ninja was required to remain motionless. The spell revealed the presence of living creatures with a faint glow that was only visible to the ninja, along a path 10 feet (3 meters) wide and 60 feet (18 meters) long.
+
+The spell only showed the direction of a living creature, and did not reveal the species or alignment. The spell was able to penetrate walls, but certain barriers would block the spell, such as a thin layer of metal, solid stone, walls of loose earth, or thick wood. The spell was unable to detect the presence of small animals or plants.
+
+Components
+The spell required only kuji-kiri hand gestures as the somatic component.
+
+Appendix
+References
+
+---
+
+## Dernall Forest
+
+Dernall Forest was a dangerous woodland on the isle of Alaron in the Moonshae Isles.
+
+Description
+The forest was a perilous place that was known to become more fey and otherworldly as one traversed deeper into it.
+
+Geography
+This forest covered a large portion of the Kingdom of Callidyrr in central Alaron. The Swanmay River flowed through it from roughly northwest to southeast. It was also traversed north to south by High King's Road. Its northern boundary was the foothills of the Fairheight Range. On the west side was the Drowned Forest and some coastal towns. The eastern border faded into the fields of Talffolk and the southern border was bound by the rolling hills of Stirgewick. Caer Callidyrr, the capital of the Moonshaes, stood on the northeast edge of the forest. The Dernall Forest touched the western border of the Central Plains.
+
+History
+
+As of the, the Dernall Forest was under siege by creatures sent through a rift from the Feywild by Great Gark, the Goblin King of Nachtur. The breach in planar integrity was deep in the heart of the forest and the troops of House Kendrick were hard pressed to repel the growing evil presence.
+
+Notable Locations
+ Bounty: a village on the High King's Road.
+ Caer Callidyrr: the capital city.
+ Doncastle: a city on the Swanmay River.
+ Hickorydale: a village near the Drowned Forest.
+ Horsa: a city on the High King's Road.
+ Lehigh: a village on the High King's Road.
+ Ogden: a city on the High King's Road.
+
+Inhabitants
+The woods were patrolled by rangers of Callidyrr, who knew to travel with caution.
+
+By the early 14 century DR, the forest had become a dangerous place due to the presence of bandits and outlaws who struck fear even in the hearts of the High King's soldiers. One of these brigand leaders, more honorable than many, was a man named O'Roarke who had been outlawed by High King Reginald Carrathal for voicing his firm conviction that Carrathal was not a legitimate ruler of the Ffolk.
+
+During the mid–14 century DR, a band of doppelgangers from southern Alaron were known to lay low in the forest whenever they needed to hide after killing travelers in and around Llewellyn and Kythyss. They used their shapechanging abilities to hunt small game. During one such visit to the woods, they were confronted and hired by a priest from the Risen Cult of Bane.
+
+As of the late 1400s DR, creatures reported to be in the forest included fomorians, goblins, werewolves, and worgs. Unseelie fey of the forest were known to lead travelers astray, and sometimes to their deaths. These dark inhabitants threatened the local people of Callidyrr, prompting the druids of the forest to go to battle against them every day. As of the, they were steadily losing ground to the fey.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Delryn family shield
+
+The Delryn family shield was an enchanted medium shield that was an heirloom passed down within the noble Delryn family of Amn.
+
+Powers
+This +1 medium shield radiated a magical aura that protected its wielder from both fire and cold. Three times per day, the shield generated an energy shield that deflected normal projectiles and missiles as per the spell, protection from arrows.
+
+History
+This weapon once belonged to Lord Cor Delryn and was passed down to his son Anomen.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate II: Shadows of Amn
+
+External Links
+
+References
+
+---
+
+## Death armor
+
+Death armor was a rare necromancy spell that surrounded the wizard in an aura that injured creatures upon contact. It could only be cast by necromancers.
+
+Effects
+The aura of death armor harmed only those who touched it with their natural weapons, such as grapples, claws, or kicks. Creatures who attacked with other weapons or projectiles, such as swords or arrows, would not be affected. This made the spell particularly good against creatures such as animals, as they would quickly scurry away after taking damage. However, if casters tried to make contact with their targets, they would also take damage.
+
+If the caster was slain whilst surrounded by the aura, they would be engulfed by a black explosion of energy, making resurrection more difficult. More experienced necromancers could make the aura last longer.
+
+Components
+The spell required somatic, verbal, and material components. The material component, which was a special unguent, had to be applied to the caster's clothes and body before the spell was cast. The unguent was expensive at 300 gp and, once applied, had to be used within 8 hours, or the unguent coating would expire.
+
+History
+The spell was invented by the former Chosen of Mystra, Sammaster. Along with many other necromancy spells, it could be found in the Tome of the Dragon. This spell was known to be used by wizards of the Cult of the Dragon.
+
+Appendix
+Gallery
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Death's Head Phalanx
+
+The Death's Head Phalanx was a band of hobgoblins led by the warlord Doomcrown that settled within Undermountain during the late 15 century DR. They had aligned themselves with the fire giant Emberosa and her kin during their plot to conquer Waterdeep and the the North and bring about the rise of the fire giants within the ordning of giant kind.
+
+Activities
+As Doomcrown and his band believed fire giants could sweep over and conquer the surface realms of Faerûn, they set their eventual sights on the High Forest. The Death's Head warlord believed the fire giants could purge the forest and the Phalanx could seize it as their own domain.
+
+To this end, the Death's Head Phalanx protected Emberosa and the giants as they worked on creating an enormous mechanical construct known as Mecha-Halaster. This 100'-tall (30.5 m) metal likeness of Halaster Blackcloak was to be used when Emberosa and the "Mad Mage" himself embarked from Undermountain to assail the city of Waterdeep and defeat its colossal protectors.
+
+Meanwhile, Yargoth the Breaker led an excursion upward into Trobriand's Graveyard, in an effort to steal scrap metal from the domain's scaladar. When the lesser warlord discovered that the gnome Zox Clammersham possessed a magical ring that controlled the scorpion-like automatons, they began to use rust monsters to distract his metallic minions, murder the gnome, and steal his ring.
+
+Members
+ Doomcrown: The leader of the Death's Head Phalanx was a devout worshiper of Maglubiyet and completely dedicated to the collective goal shared by his war band, their fire giant allies, and the "Mad Mage" Halaster.
+ Yargoth the Breaker: Another warlord of the Death's Head, albeit one of lesser rank than Doomcrown, Yargoth was put in charge of the base camp located in the eastern region of the Graveyard.
+ Kurlog: This hobgoblin captain led the vanguard tasked with disrupting Zox's operations and stealing his ring.
+ Jarrk: This unfortunate hobgoblin inadvertently set off one of Arcturia's polymorph traps and was transformed into a hook horror.
+
+History
+When the fire giant Emberosa led a group of her kin into Arcturiadoom, sometime before the Year of Three Ships Sailing, 1492 DR, Doomcrown and the Death's Head band followed them with complete loyalty. Collectively, the hobgoblins secured most of Arturiadoom's halls and chambers, and established constant patrols throughout "their" stronghold. Following that, they set about their shared plan to conquer the north and secure their own Realm on the surface of Faerûn.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Death on the Wall
+
+Death on the Wall is an adventure module set in the Forgotten Realms using the Dungeons & Dragons 5 edition ruleset. It is part of the Rage of Demons series of adventures published for the D&D Adventurers League. It focuses on Hillsfar, and is an adventure designed for three to seven 1- to 4-level characters. Part Two of Six Knives for Torin Nomerthal.
+
+Index
+Characters
+Belmourn • Calesaer • Davon Malaeda • Coralynn Winsail • Elanil Elassidil • Garos Daunger • Glenna Moonsmith • Guylian Stundter • Lorhanna • Malkyn Grenefeld • Narder Ulthub • Reyill Werned • Roge Applewink • Roi Uxio • Torgrave Needlebaum • Ventria Greenglass • Vuhm Yestral
+
+Aelstria
+
+Creatures
+Dwarf • Elf • Halfling • Human • Succubus • Wood elf
+
+Fire giant
+Locations
+Inns & Taverns Plodding Plow Inn
+Regions Moonsea
+Settlements Elventree • Hillsfar • The Stop • Yûlash
+
+Akanûl • Damara • Border Forest • Cormanthor • Maerimydra • Phlan
+Magic
+Items
+Spells  •  •  •  •  •  •
+
+ •  •  •  •  •  •  •  •  •
+
+Organizations
+Red Plumes
+Player Factions
+ Emerald Enclave • Harpers • Lords' Alliance • Order of the Gauntlet • Zhentarim
+Religions
+
+Tempus
+Miscellaneous
+Silkroot
+
+Credits
+ D&D Organized Play: Chris Tulach
+ D&D Adventurers League Wizards Team: Chris Lindsay, Adam Lee, Chris Tulach
+ D&D Adventurers League Administrator(s): Claire Hoffman, Robert Adducci, Bill Benham, Travis Woodall, Greg Marks, Alan Patrick
+Appendix
+External Links
+
+ Rage of Demons Adventurer's League
+References
+
+Connections
+
+---
+
+## Dendar
+
+Dendar the Night Serpent was an elder evil and a primordial.
+
+Description
+Dendar was a colossal serpent who spent her time devouring the nightmares and fears of both mortals and immortals in hopes of bringing about the end of the world. She was some  long with blue-black scales, yellow eyes, and a huge maw filled with four fangs, spittle, and the bones of some of her former victims.
+
+Powers
+The Night Serpent was able to use her enormous size to crush victims below her bulk or to swallow them whole. Her forked tongue could be used to trip and entangle victims whom she could then inject with a sleep poison so she could absorb their nightmares.
+
+Relationships
+On the opposite end of the spectrum was an Ubtao-worshiping cult in the jungles of Chult, who called her "Eater of the World." They believed she lived beneath the Peaks of Flame and would one day emerge through a gigantic, iron door to devour the sun if Ubtao failed his duty when the end times came. They also believed it was their sacred duty to battle her. Another group of Kelemvor worshipers saw it as their sacred duty to take the battle to her on the Fugue Plane in order to siphon off the nightmares she had devoured; thus keeping her power in check and earning a certain, if well-earned, death.
+
+Worshipers
+Cults to worship or battle Dendar existed almost as long as she did. Those who worshiped her often kidnapped victims and fed them poisons to cause them to dream. The most notable of these cults, known as the Sacred Order of Akabar, existed in Calimport, where she was dubbed the "Serpent Mother" and thought to have brought about the Night Parade.
+
+History
+
+Dendar was thought to have been created when the first mortal dream occurred, and she devoured the nightmares of the living ever since. Even the gods were not immune to her ravenous appetite for their dreams.
+
+It was the Night Serpent who was thought to bring about the end of the Blue Age and usher in the Shadow Epoch by devouring the sun and plunging Toril into darkness and freezing temperatures.
+
+When a revolt against Cyric was underway in the City of Strife, Gwydion the Quick challenged Dendar and managed to injure her with a legendary blade that had belonged to Alban Onire. In concession to this defeat, she unleashed the night-terrors of the Bone Castle's residents and thereby allowed the revolutionaries to storm the structure.
+
+Appendix
+
+Appearances
+
+Further Reading
+
+ t
+ Lisa Smedman (March 2006). Vanity's Brood. (Wizards of the Coast). ISBN 0-7869-3166-3.
+
+External Links
+ "Bane of the Gods: The Elder Eternal Evils of the Forgotten Realms" by Thomas M. Costa
+
+References
+
+Connections
+
+---
+
+## Delver's Tome
+
+The Delver's Tome was a multi-volume reference book used by the Order of Delvers. It was a compilation of knowledge and wisdom from many different dwarf authors many to do with gold. It consisted of at least ten volumes.
+
+Description
+The book served as a field guide, providing information about proper procedures and methods for facing the many different situations a delver could expect to come across. In addition to this, the book contained many proverbs and sayings.
+
+Contents
+
+Each volume covered a specific topic; one of the volumes was primarily dedicated to the arts of wayfinding and mapmaking. The chapter entitled "Basics of Reconnoitering and Exploration (BORE)" was authored by Delvemaster Frivaldi. Frivaldi was known for his use of acronyms as a learning tool. The chapter on acronyms was written by Durin, Frivaldi's reluctant partner and mentor.
+
+Entries
+Volume I
+ "Pure gold does not fear the fire." – Chapter 2, Entry 8
+ "More gold has been mined from the thoughts of men than has been taken from the earth." – Chapter 3, Entry 683
+ "Gold is where you find it." – Chapter 67, Entry 103
+ "Even the just may sin with an open chest of gold before them." – Chapter 73, Entry 5
+ "Truth, like gold, is to be found by washing away from it all that is not gold." – Chapter 87, Entry 12
+Volume II
+ "Better a friend at court than gold on the finger." – Chapter 98, Entry 274
+Volume III
+ "Truth comes to us from the past, like gold washed down from the mountains." – Chapter 9, Entry 100
+ "All that glitters is not gold." – Chapter 24, Entry 502
+ "Gold is gold, though it be in a rogue's purse." – Chapter 93, Entry 62
+Volume IV
+ "The gold you have yet to win gleams the brightest." – Chapter 3, Entry 23
+ "A golden key will open every lock." – Chapter 3, Entry 76
+Volume VI
+ "Better an ounce of happiness than a pound of gold." – Chapter 46, Entry 35
+ "As every thread of gold is valuable, so is every moment of time." – Chapter 94, Entry 6
+Volume VII
+ "Silence is golden." – Chapter 2, Entry 305
+Volume IX
+ "The man who treasures his friends is usually solid gold himself." – Chapter 63, Entry 6
+Volume X
+ "Gold is tried by fire; men by adversity." – Chapter 93, Entry 76
+Volume XVI
+ A description of the properties of spinels. Chapter 4, entry 809.
+
+Appendix
+References
+
+---
+
+## Dense pudding
+
+A dense pudding was a rare type of subterranean pudding.
+
+Description
+Dense puddings were deep blue in hue, and resembled huge lumps of slime. They were much more intelligent than other deadly puddings, such as the more common gray pudding.
+
+They were slower than other puddings, and often stuck to the shadows and ceilings, where they could drop onto their foes. Dense puddings were easier to spot out in the open, compared with other puddings that blended perfectly into their environment, as they were dark blue and rather large.
+
+Combat
+These deadly puddings were very tough, making them somewhat difficult to kill, and they were never found in a weakened state.
+
+If a dense pudding successfully dropped onto its prey, it would release corrosive secretions that dissolved the flesh of the living. As well as this, the pudding would inflict a debilitating disease onto them. However, the deadly disease could be cured, but only if treatment was found within 48 hours.
+
+Ecology
+They only seemed to appear on their own, looking for their next meal.
+
+History
+In 1369 DR, a few of these rare puddings could be found in Watcher's Keep, where they were detailed in a tome known as Elminster's Ecologies Appendix IIIa. Elminster Aumar noted in this ecology book that when subjected to electricity or fire, these puddings would split into more dense puddings. The sage further mentioned that they could be very dangerous if allowed to multiply, as they would quickly overwhelm foes.
+
+Appendix
+Appearances
+Video games
+ Baldur's Gate II: Throne of Bhaal
+References
+
+Connections
+
+---
+
+## Demiplane of Time
+
+The Demiplane of Time, or Demi-Plane of Time, also called the Plane of Time, Temporal Energy Plane, Time Plane or the Temporal Prime, was a demiplaneAlthough those aware of its presence in Toril, and even chronomancers beyond, referred to the Temporal Prime as a demiplane, many chronomancers swore that it was in fact more technically similar to a "dimensional plane" or "dimension". Such a difference was very difficult for most to understand, as scholars would try to fit the "plane" into their cosmological theories. Most cosmologists still referred to the Demiplane of Time as a demiplane of the Ethereal Plane.
+
+Description
+The Demiplane of Time was an extradimensional space that could allow travelers to move through time, i.e., time travel. Very little was truly known about this ethereal demiplane, and despite diligent research, there were still too many inaccuracies and contradictions from "first-hand" accounts to conclude what was true, and what was not.
+
+There were several different ways to describe the Demiplane of Time. Some believed it was a pocket dimension set aside from the rest of the multiverse, whilst others believed it was a plane that overlayed the Prime Material plane.
+
+Although not much was known for certain, and many had differing views, it was generally agreed that the place was dark, and permeated with a blue-gray mist. Threads and lines flowed through the vast darkness, which some believed to be timelines of living beings. It was also generally considered to be very dangerous, and could age those who passed through it considerably.
+
+Place in Traditional Cosmology
+In traditional cosmology, the Demi-Plane of Time was a large dimensional demiplane that operated by its own rules. It appeared to be almost as large as the Demiplane of Shadow, and its temporal manifestations extended into its Border Ethereal. It was hostile to life, but housed a few native species, such as vortex spiders. The curtain that surrounded the dimensional plane was semi-transparent, but had shadowy shapes that appeared beyond it. It did not show up on Great Wheel cosmology diagrams, the same with other demiplanes, as the properties of the extradimensional space were constantly changing with time.
+
+Chronomancers' Viewpoint
+Many chronomancers believed that the Demiplane of Time, which they called the Temporal Prime, was a dimension in which timestreams could be observed and used to move through time. Timestreams were formed by currents in time-space, which themselves were formed by the lifelines of living beings. However, these were not always stable, and thus could be turbulent, forming temporal vortices, allowing travel from one reality to another. The plane looked like an infinitely large dark space, with only timestreams illuminating its vast darkness.
+
+Laws
+
+The Temporal Prime, naturally, temporally affected those who went to or from it. After coming back from the plane, many found themselves either younger or older.
+
+Substances that were created could not permanently exist on the demiplane, as the magical laws that created matter were very weak there. As such, both arcane and divine spells involving some form of matter (such as fog cloud and create water), would be impeded.
+
+Importance in the Realms
+The Temporal Prime was known to many deities, sages, and wizards of the Realms, who generally knew it as the Plane, or Demiplane, of Time. The demiplane was highly important to those such as Elminster Aumar, the Seven Sisters, and Khelben Arunsun. Mystra had granted them powers to prevent chronomancers from meddling with the temporal demiplane, which could potentially destroy history. If a chronomancer severely interrupted the timeline of events in Toril, they would be quickly and efficiently destroyed by an avatar of a deity.
+
+As it was in the deities' interests to keep history complete and unbroken, Oghma and Deneir bestowed similar supernatural powers unto their followers. The Oghmanyte and Deneirrath priests were said to be able to follow the path of chronomancers through the Plane of Time and reverse the potential damage. As such, chronomancers made very limited voyages through time in Faerûn, Kara-Tur, Zakhara, and Maztica.
+
+Vortex spiders, denizens of the Time Plane, were known to have rarely appeared in Faerûn.
+
+Rumors & Legends
+ No one that had entered the plane was known to return. However, there were rumors that time-mages, known as chronomancers had mastered the art of traveling up and down the cords of time.
+ In the Gates of the Moon, the divine realm of Selûne, one could find sand allegedly from "the shores" of this plane, though merchants would never reveal how they managed to reach the Demiplane of Time.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Devlin Taralon
+
+Devlin Taralon was a ranged weapons dealer and slave of Baeloth Barrityl.
+
+Description
+Devlin was very jittery and seemed to stammer a lot when talking. He largely feared Baeloth, as the drow would often hurt him, and thus he refused to do anything to cause himself further harm. He fought with a longbow and arrows, wore studded leather armor, and could cast a small number of spells.
+
+Appendix
+Appearances
+Video games
+ Baldur's Gate: The Black Pits
+References
+
+---
+
+## Dezmyr Shadowdusk
+
+Dezmyr Shadowdusk was a former paladin of Torm and later death knight and joint matriarch of House Shadowdusk.
+
+History
+Dezmyr and her brother Zalthar were born to Yarlithra Shadowdusk, one of the three original sisters who made the family's fortune by funding adventuring expeditions into Undermountain.
+
+Unfortunately, the family came into possession of an object, a tablet of black crystal that allowed contact with the Far Realm. It soon spread madness through the entire family.
+
+Later, in the, Shadowdusk Hold, their ancestral home, was burned to the ground, killing Yarlithra and her sisters. Soon afterwards, Dezmyr and her brother were contacted by their uncle Xerrion Shadowdusk, who invited them to come to the new Shadowdusk Hold in Undermountain.
+
+Years later, after Dezmyr had shed her faith to Torm, Xerrion and his wife Margaraste journeyed into the Far Realm together, and were never seen again. As a result, Dezmyr and Zalthar became the new heads of the House.
+
+Abilities
+Dezmyr was a powerful spellcaster. Additionally, she possessed the endless life that death knights were given. Although some death knights could one day die by repenting, Dezmyr had gone mad too long ago for this to work.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Deflection
+
+Deflection was a common spell used by shugenja in Kara-Tur. The spell was very rare outside Kara-Tur.
+
+Effects
+When cast, this spell created a magical shield around a creature. The spell protected a creature from missiles and physical attacks.
+
+Attraction was the reverse of the spell. When cast on a creature, they suffered additional damage to missiles and physical attacks.
+
+Components
+This spell required only verbal and somatic components to be cast.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Detect charm
+
+Detect charm was a common spell used by clerics, druids and shugenja. An identical spell was used by mentalists and the Red Wizards of Thay. It was one of the spells available from the Balance of Belaros, a holy relic of Tyr.
+
+Effects
+This spell allowed a caster to determine if a creature was under the influence of a charm-based spell, such as suggestion. Depending on the caster's skill level, they were able to detect what specific charm spell the creature was influenced by. If the creature was under the influence of multiple charm spells, the caster was only able to determine the creature was charmed, but not by which spells. The caster was able to check up to ten creatures before the spell expired. Undetectable charm was the reverse of this spell. When cast, it hid all charms cast on a creature for up to a full day.
+
+Components
+This spell required only  verbal and somatic components.
+
+Appendix
+References
+
+---
+
+## Detect disease
+
+Detect disease was a common spell used by clerics and shugenja.
+
+Effects
+This spell allowed a caster to determine if a creature was infected or carrying a disease. The spell was able to detect lycanthropy, mummy rot, and other magical diseases. It also allowed the caster to determine whether the detected disease was able to be cured by the caster.
+
+Components
+In addition to verbal and somatic components, the spell required a material component, a symbol of the caster's deity. The spell used by shugenja required a wand made from bamboo with strips of paper attached to it. These strips had prayers written on them.
+
+Appendix
+References
+
+---
+
+## Detect harmony
+
+Detect disease was a common spell used by shugenja in Kara-Tur. The spell was very rare outside Kara-Tur.
+
+Effects
+When cast, the spell gave a shugenja vague knowledge on the balance of forces in an area. Forces such as chaotic, evil, good or lawful were detectable. The spell did not reveal the alignment of any creature or item in the area of effect of the spell. If the spell was cast directly on a creature, the spell revealed vague information about their alignment and past deeds. The spell could also be cast on a building, which revealed whether the building was a holy place or occupied by spirits.
+
+Components
+In addition to verbal and somatic components, the spell required a material component, a scroll of sutras. This scroll had to cost at least 5 ch'ien.
+
+Appendix
+See Also
+ Feng shui
+Appearances
+
+References
+
+---
+
+## Detect life
+
+Detect life was a common spell used by shugenja in Kara-Tur.
+
+Effects
+This spell gave a shugenja the ability to determine if a creature was alive. It was cast on a creature in a coma, trance or unconscious. The spell was able to detect life even if the creature was under a feign death spell. Mental protections prevented the spell from functioning, as well as metal of any thickness.
+
+Components
+In addition to verbal and somatic components, the spell required a material component, the holy symbol of a shugenja.
+
+Appendix
+References
+
+---
+
+## Dead Gods
+
+Dead Gods is a 2-edition Advanced Dungeons & Dragons adventure module. It is part of the Planescape campaign setting.
+
+Description
+Dead Gods written by Monte Cook and was published by TSR, Inc. in 1997. It is composed of two adventures which revolve around the theme of death and resurrection of a god: Out of the Darkness and Into the Light. Each adventure can be played separately, although the two plots can be woven together by the Dungeon Master.
+
+The first adventure, Out of the Darkness, occupies the majority of the volume, extending from pages 5 to 124. This adventure is structured into an introduction, nine chapters, and three interludes. It presents an epic quest, emblematic of the aspirations of true heroes, requiring cautious navigation to avert a descent into disaster.
+
+The second adventure, Into the Light, is more concise, spans pages 125 to 156. Despite its shorter length, it is a comprehensive scenario. This adventure illustrates the potential outcomes in Sigil when obstinate political dynamics intersect with mystical religious beliefs. Into the Light is divided into an introduction and three parts.
+
+Synopsis
+Out of the Darkness
+Orcus, having grown complacent, fell victim to Kiaransalee, the drow goddess of vengeance. Kiaransalee assassinated Orcus, usurping his domain and power, and even erased his name throughout the planes. Orcus' inert form remained on the Astral Plane until he began to reanimate in a diminished, undead state as a shadowy and less potent deity named Tenebrous. Seeking retribution across the multiverse, Tenebrous rallied his former demonic servants, now undead visages, to amass intelligence for his vengeance.
+
+He revisited an old stronghold on the Negative Energy Plane and encountered a potent magical force known as the Last Word in Arborea, capable of slaying gods. Meanwhile, Kiaransalee's minions had hidden his formidable artifact, the Wand of Orcus, in a stone vault on Pandemonium. Tenebrous, assuming the guise of Primus, lord of the modrons, harnessed their capabilities to locate his Wand. Upon discovering the drow responsible for concealing the Wand, Tenebrous plotted to reclaim his rule over the Abyss. The adventure tasks players with deciphering Tenebrous's machinations to retain control of the Wand, ultimately thwarting one of Orcus's acolytes from resurrecting him once more on the Astral Plane.
+Into the Light
+This adventure is set in the mystical city of Sigil. Centuries ago, the last adherents of a forgotten god assembled his remains, brought from the Astral Plane, into a monument of five standing stones within the city. As the monument's origins faded from memory, a new religious sect erected a temple around the stones, which subsequently fell into obscurity and abandonment. The temple, purchased centuries later by a wealthy individual named Cruigh Manathas, was slated for demolition, leading to the mysterious disappearance of the demolition crew, who were absorbed by the standing stones. Unbeknownst to most, Argesh Fiord, a fighter mourning his wife's death, orchestrated these events to incite conflict among Sigil's factions. The players are tasked with uncovering and disrupting Fiord's plans, aiming to avert the looming war and resolve the ancient enigma of the standing stones.
+
+Contents
+Out Of Darkness
+ Foreword
+ Introduction
+ Chapter 1: Circean Embers
+ Chapter 2: Crux
+ Interlude 1
+ Chapter 3: Masks
+ Chapter 4: Message From Thanatos
+ Chapter 5: The Bottom of the Multiverse
+ Interlude 2
+ Chapter 6: The Vault of the Drow
+ Chapter 7: The Ruins of Pellion
+ Interlude 3
+ Chapter 8: Deepest Pandemonium
+ Chapter 9: The Dead-Book of the Gods
+
+Into The Light
+ Introduction
+ Part One: Initial Forays
+ Part Two: Crossed Swords
+ Part Three: Mysteries of the Stones
+
+Appendix
+ Visage
+ Statistics
+ Player Illustrations
+
+Gallery
+
+Credits
+ Designers: Monte Cook
+ Editors: Ray Vallese, Michele Carter
+ Cover Artist: rk post
+ Interior Artists: rk post, Adam Rex, Josh Timbrook
+ Cartographer: Dennis Kauth, Rob Lazzaretti
+ Typography: Angelika Lokotz
+ Graphic Design: Dawn Murin, Matt Adelsperger
+ Graphics Coordinator: Dawn Murin, Paul Hanchette
+ Project Managers: Karen Boomgarden, Steve Winter
+ Electronic Prepress Coordinator: Dave Conant
+ Playtescers: Carrie Bebris, Michele Carter, Bruce Cordell, Ted Stark, Keith Strohm, Ray Vallese
+Appendix
+Trivia
+ This adventure was ranked the 14 greatest adventure of all time by Dungeon magazine for the 30th anniversary of the  game in 2004.
+See Also
+ Images from Dead Gods
+External links
+
+Amazon product page
+References
+
+Connections
+
+---
+
+## Detect predator
+
+Detect predator was a common spell used by clerics in Serôs.
+
+Effects
+When cast, this spell allowed the caster to detect the presence of any aquatic predatory creature. It was able to detect both animals and sentient creatures. The detection range was  in all directions. The spell did not reveal the species of predator in the area.
+
+Components
+In addition to a verbal a component, the spell required a material component in the form of the caster's holy symbol.
+
+Appendix
+References
+
+---
+
+## Destus Gurn
+
+Destus Gurn was a member of the Baldur's Gate branch of the Iron Throne during the mid-to-late 14 century DR. He served as the assistant Chief Accountant for all operations in the Sword Coast.
+
+History
+During the iron crisis of 1368 DR, Destus was set to intercept Emissary Tar during her visit to the Iron Throne's headquarters in Baldur's Gate.
+
+Appendix
+References
+
+---
+
+## Destructive wave
+
+Destructive wave (also seen as destructive smite) was a spell used by paladins.
+
+Effects
+After the spell was cast, the caster struck the ground with their fist, generating a brilliant wave of divine energy that swelled outward. Any creatures within 30 feet (9 meters) of the caster were knocked over by this wave and suffered divine and necrotic damage.
+
+Components
+This spell required only a verbal component.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Deckon Thar
+
+Deckon Thar was a bandit king and founding member of the royal line that led the Chieftains in Gold.
+
+History
+He was the first of the bandit lords of the Chieftains in Gold to be interred in a secret barrow in the Nether Mountains along with his treasures. This began a trend among the Chieftains, and a total of seven burial mounds were filled with their combined riches. In his honor, these came to be remembered as the Tombs of Deckon Thar.
+
+Appendix
 Appearances
 
 References
@@ -1787,6 +10268,165 @@ pl:Svirfnebli
 
 ---
 
+## Demon ichor
+
+Demon ichor was a combination of blood, fluids, organs, and other internal remains of a deceased demon.
+
+It was found in large pools on the first layer of the Nine Hells, Avernus, as that served as the main battleground of the Blood War, where many demons were regularly slain.
+
+Properties
+The ichor of demons was a sticky, adherent substance that seemingly resembled bile or thick tar. It was typically black in color.
+
+While the substance was largely harmless on many planes of existence, on the lower planes it had several transformative properties. If it came into contact with certain beings, aside from fiends, plants, and undead, demonic ichor could change their physical properties. Changes included increasing or decreasing in size, either wholly or a single appendage; the growth of eyes, horns, or a tail; or something as simple as a new hair color.
+
+Usages
+Many devils and other fiendish creatures used demon ichor for certain rituals or as a means to improve their infernal war machines.
+
+Still others used it as a coating for their weapons. When a creature was struck by a weapon treated with demon ichor in the lower planes, they suffered the same transformative changes as if they were exposed to the substance in any other manner. It also acted as a poison that caused weakness.
+Spell Components
+ Spiritwrack required demon ichor as a material component.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Devil's Ride
+
+A Devil's Ride was a small one-creature infernal war machine.
+
+Description
+A Devil's Ride had two wheels covered in spikes. It was controlled by two handlebars made from horns. Its large engine combined with its size meant it was maneuverable and fast. It had no weapons.
+
+Abilities
+If it reached a certain velocity, a Devil's Ride could jump a distance of  over an obstacle. Despite its size, it carried up to  in cargo.
+
+Notable Owners
+ Torogar Steelfist, a minotaur who served in Avernus as Arkhan's bodyguard.
+ Smiler, an eladrin that was once a leader of a warband in Avernus.
+ Mad Maggie, a night hag, owned two Devil's Rides in her garage at Fort Knucklebone.
+ Could be smithed by engineers, Metal forgers and artificer.
+
+Appendix
+Appearances
+Adventures
+Baldur's Gate: Descent into Avernus
+References
+
+---
+
+## Decapus
+
+Decapuses were a species of tentacled carnivorous creatures that swung through the trees and had a marine variation.
+
+Ecology
+Habitats
+On Toril, decapuses were only known to inhabit the island Snout of Omgar in the Chultan Peninsula. Beyond Toril, they could be found on the planet Mystara.
+
+Appendix
+Background
+The decapus was originally created in 1981 by Jean Wells for the adventure module Palace of the Silver Princess, which took place in the Mystara setting.
+Appearances
+Adventures;
+ The Tortle Package
+
+References
+
+---
+
+## Dermin Courtierdale
+
+Dermin Courtierdale was a famous Harper master who operated out of Amn during the mid–14 century DR.
+
+Relationship
+Dermin tutored many young Harpers, including the druid Jaheira, who he had originally recruited into the organization.
+
+He was a member of the Athkatlan Harpers, who operated out of a luxurious estate near the city's docks. His associates included Galvarey, Berinvar, Rylock, among others.
+
+History
+As of the, Dermin, Galvarey and other Athkatlan Harpers were conducting themselves in a manner quite out of line with the greater organization. They lived a lavish life at Galvarey's estate, and resorted to murdering those they perceived as their enemies.
+
+Appendix
+Appearances
+ Baldur's Gate II: Shadows of Amn
+
+References
+
+External Links
+
+---
+
+## Detect thought
+
+Detect thought was a divination spell that was first developed by the phaerimms.
+
+Effects
+By use of this spell, a caster was not only able to detect the presence of sentient creatures, but also their exact location. The spell was able to function even through walls or other solid material. A caster was able to distinguish separate minds in a group, and if a spell or magical item was used by the targets while this spell was in effect, the caster was able to know the exact nature of the magic used including words of activation. The spell was not able to detect a creature whose thoughts were warded by magical or psionic means. Phaerimms used this spell to detect the presence of hidden creatures and were immune to its effects if it was cast upon them. A caster was unable to cast this spell near or within a mythal.
+
+Components
+This spell required only a verbal component.
+
+Appendix
+References
+
+---
+
+## Deathlock
+
+Deathlocks were undead spellcasters bound to serve a master. They were usually the remains of warlocks, reanimated by their patrons after failing to fulfill their part of a pact, but could also be created by necromancers.
+
+Personality
+Deathlocks did not have any goals that they had in life, aside from fulfilling their patron's desires. This urge to serve their patron was overpowering and consumed their every thought.
+
+Abilities
+All forms of deathlock had an innate spellcasting ability that allowed them to cast detect magic, disguise self, and mage armor.
+
+Beyond their innate spellcasting ability, deathlocks retained some of the spells of their living counterpart. These typically included the following:
+ arms of Hadar, chill touch, dispel magic, eldritch blast, hunger of Hadar, hold person, invisibility, mage hand, and spider climb.
+However, the arsenal of spells that a deathlock had could vary widely depending upon what patron they had.
+Masterminds
+Deathlock masterminds had access to a larger arsenal of spells than the average deathlock. These additional spells typically included blight, counterspell, crown of madness, darkness, dimension door, fly, hold monster, minor illusion, and poison spray. Though again, this arsenal could vary widely depending upon what patron they had.
+
+Besides spells, a deathlock mastermind was capable of shooting necrotic bolts at their enemies.
+
+Patron Spells
+Those with with an Archfey patron were capable of casting the spells blink, faerie fire, hunger of Hadar, hypnotic pattern, phantasmal force, and sleep. In addition to these, a mastermind had access to the spells dominate beast, dominate person, and greater invisibility, and seeming.
+
+Those with a Fiend patron were capable of casting the spells blindness/deafness, burning hands, command, fireball, hellish rebuke, and scorching ray. In addition to these, a mastermind had access to the spells fire shield, flame strike, stinking cloud, and wall of fire.
+
+Those with a Great Old One patron were capable of casting the spells armor of Agathys, detect thoughts, dissonant whispers, hunger of Hadar, Tasha's hideous laughter, and phantasmal force. In addition to these, a mastermind had access to the spells clairvoyance, dominate person, Evard's black tentacles, sending, and telekinesis.
+
+Wight
+Deathlock wights were sensitive to the light of the sun and could drain the life from living creatures. Those slain by their draining touch would arise as a zombie under its command. And much like a mastermind, they could shoot necrotic bolts.
+
+They lacked the spells of their living counterparts, though could cast the trio of spells that all deathlocks could innately do. In addition, deathlock wights could innately cast fear, hold person, and misty step.
+
+Variants
+Masterminds Deathlock masterminds were deathlocks that had been granted more freedom and power, as they were also charged with recruiting and commanding others to serve their patrons' goals.
+Wights Deathlock wights were deathlocks that had been punished by certain types of patrons or necromancers by being transformed into husks of their former selves, halfway between a warlock and a wight. Some were known to try and gather other undead creatures under their service.
+
+History
+In 1479 DR, Valindra Shadowmantle potentially raised the Neverwinter Nine as deathlock wights and unhallowed wights.
+
+Appendix
+Appearances
+Adventures
+Scepter Tower of Spellgard • The Twilight Tomb • Dead in Thay
+Novels
+Unholy
+Video Games
+Dungeons & Dragons: Heroes of Neverwinter • Neverwinter
+Miniatures
+Dungeons & Dragons Miniatures • Icons of the Realms
+Organized Play & Licensed Adventures
+Sleeping Dragon's Wake
+
+References
+
+---
+
 ## Death giant
 
 Death giants and death titans were a race of giants who had powers over shadows and the souls of other beings.
@@ -1893,6 +10533,4873 @@ Connections
 
 ---
 
+## Delayed light
+
+Delayed light was a spell that was commonly used by alhoons.
+
+Effects
+When cast, the spell created a glowing light with the same luminescence as torchlight. The spell required triggering conditions, similar to magic mouth. When the conditions were met, the light appeared. This was a long-term spell; it would still activate if conditions were met years after the spell was originally cast. The light was able to remove magical darkness.
+
+Components
+In addition to verbal and somatic components, the spell required material components: a phosphorescent material and a spark from a fire or flint.
+
+Appendix
+References
+
+---
+
+## Degar Mindero
+
+Degar Mindero was a commander of the Knights in Silver circa 1484 DR.
+
+Description
+
+The dwarves of the three citadels—Adbar, Felbarr, and Mithral Hall—described Degar to be an arrogant one. They said he would prowl around the Cold Vale, trying to make his name and looking for glory. He was said to not even ask for help from neighboring settlements on accounts of his renown.
+
+A knight of Silverymoon claimed the opposite. Degar was described to be incredibly brave, protecting all of Luruar, particularly Felbarr and Sundabar.
+
+History
+In 1484 DR, Mindero set out to slay the increasingly aggressive orcs of the Many-Arrows tribe, but was killed in the process.
+
+Following Mindero's death, a knight and emissary set off from Silverymoon to Mithral Hall, to convene with the three dwarven kings. The annoyed knight demanded the dwarves to assemble their march, and told them the fate of Mindero, whom the dwarves did not assist. They, however, claimed that Mindero was just out for glory, and didn't even alert the dwarves of his presence, nor those of Sundabar, who had thousands in their garrison. Ragged Dain even stated that Mindero was a fool. This erupted in an argument between the two sides, with the knight nearly drawing his weapon. King Connerad Brawnanvil of Mithral Hall threatened to throw his body down the River Surbrin, to where even his kin could not find him.
+
+Appendix
+Appearances
+Novels
+ Rise of the King
+
+References
+
+---
+
+## Detho's Libram
+
+Detho's Libram was a spellbook.
+
+Description
+It was a thin, red book of 22 pages. The cover consisted of the hide from a rothe, which was dyed and stretched onto boards of wood. Brass hoops bound the parchment together.
+
+History
+Written by the mage Detho, the book was left in the possession of Piergeiron, who stored it in the library within Piergeiron's Palace in Waterdeep. Famous mages such as Elminster Aumar, Khelben Arunsun, and Laeral Silverhand read the book and copied spells into their own personal collections. The book was last in the possession of Peregar, who took the book with him during an ill-fated expedition into the Northlands. He was last scene near Yartar, having disappeared within a ball of blue flame. The book may have survived the blast and its current location as of 1359 DR was unknown.
+
+Contents
+Each page within the book contained a spell, for a total of 22 spells. It contained the following spells:
+burning hands • catapult • continual light • dancing lights • decastave • detect invisibility • detect magic • Detho's delirium • enlarge • erase • ESP • feather fall • flying fist • hold portal • jump • knock • light • mending • push • read magic • spider climb • ''unseen servantThe spell push is listed in the entry for this book in Encyclopedia Magica Volume III, page 1163, but was not included in Pages from the Mages.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Deathmaster's vial
+
+Deathmaster's vial was a rare spell used by necromancers.
+
+Effects
+This spell was centered on a vial containing a specially prepared liquid. When cast, the spell activated the liquid within the vial, which was then thrown towards a target. The vial shattered, covering a targeted creature in the liquid. As a result, parts of the creature's body began to rot. The vial had to be used within two hours after being exposed to sunlight but could be stored long-term in a dark location. If the vial was opened, the liquid within rapidly lost its power, becoming useless.
+
+Components
+In addition to verbal and somatic components, the spell required a material component: the vial and the liquid within. The liquid was brewed by the caster beforehand. It was made by boiling the remains of either a ghast or a ghost, rendering them for a full 24 hours. Other ingredients were mixed in during the process. The caster was then able to fill about six small vials.
+
+History
+This spell was known to be used by wizards of the Cult of the Dragon.
+
+Appendix
+References
+
+---
+
+## Deltagar Zelhund
+
+Deltagar Zelhund was one of the Overwizards of the Arcane Brotherhood in the 1360s DR.
+
+Activities
+Circa 1365 DR, Deltagar was growing a criminal network in southern countries like Lantan and Tashalar, and was planning to soon use his agents to fund all the Brotherhood's activities. He plotted to sack Chult and steal the best inventions from Lantan.
+
+History
+In 1371 DR, after Eldeluc and Valkebar's coup against the Archmage Arcane, Arklem Greeth, Deltagar pledged his loyalty to the conspirators. When Greeth returned, now transformed into a lich and with some new devilish allies, Deltagar escaped to Hlondeth, where he was granted refuge.
+
+Personality
+Deltagar was utterly fascinated by the yuan-ti. He was a master manipulator, disliking open hostility.
+
+Appendix
+References
+
+---
+
+## Decanter of endless water
+
+A decanter of endless water was a magical flask that could produce streams of water of different intensities.
+
+Description
+A typical decanter of endless water looked like an ordinary stoppered flask that produced a sound of sloshing water when shaken.
+
+Powers
+A user activated the decanter by unstoppering the flask and speaking a command word. There were three possible commands that a decanter of endless water accepted, each producing a different amount of fresh or salt water, depending on the user's choice. The command "stream" created  of water; the command "fountain" generated ; and the command "geyser" created a violent jet of  of water that gushed out to a range of, damaging and pushing back creatures and objects in the process, which lasted only for a few seconds.
+
+Some versions of the decanter produced a continuous flow that could only be stopped by the user speaking the command word again.
+
+Notable Decanters of Endless Water
+
+A fountain located in the Shadowdusk Hold level of Undermountain was fueled by a decanter of endless water located within a statue of an aboleth.
+
+The private bath of the high priestess of the House of the Moon temple in Waterdeep, Naneatha Suaril, had water continuously supplied by a decanter of endless water built into the base of the pool. A secondary enchantment on the decanter allowed the water to be changed anywhere from freezing to boiling at but a touch.
+
+Appendix
+See Also
+ Chalice of continual water
+ Decanter of endless lamp oil
+ Everful jug of lard
+ Jar of endless honey
+ Mug of everfilling mead
+
+Appearances
+Adventures
+Desert of Desolation • Pool of Radiance: Attack on Myth Drannor • Waterdeep: Dungeon of the Mad Mage
+Video Games
+Planescape: Torment •
+Card Games
+AD&D Trading Cards •
+References
+
+---
+
+## Detect illusion
+
+Detect illusion was a common spell used by illusionists to detect illusions.
+
+Effects
+When cast, the caster was able to both see an illusion and know it was an illusion. Individuals around the illusion would see it if the caster made physical contact with the illusion while the spell was in effect.
+
+Components
+In addition to verbal and somatic components, the spell required a material component, a piece of either crystal, glass or mica. Whichever component was chosen, it had to be tinted with a yellow dye.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate II: Shadows of Amn • Baldur's Gate II: Throne of Bhaal • Icewind Dale: Enhanced Edition
+External links
+
+References
+
+---
+
+## Deafening clang
+
+Deafening clang was a spell used by clerics and paladins of Gaerdal Ironhand.
+
+Effects
+This spell allowed the caster to enchant a metal weapon with a sonic power. When the weapon hit a solid surface, it emitted an incredibly loud clang. Any creature who heard this clang was rendered temporarily deaf. The caster was immune to the effects of the spell.
+
+Components
+In addition to verbal and somatic components, the spell required a divine focus. The clerical spell required material components, the holy symbol of Gaerdal Ironhand and a small, round gong made from metal.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Hordes of the Underdark • Neverwinter Nights: Wyvern Crown of Cormyr
+External links
+
+References
+
+---
+
+## Death dragon
+
+Death dragon was a powerful spell used by evil clerics.
+
+Effects
+When cast, this spell summoned a power of great evil and encased it within a dragon-shaped cocoon. The shell of the cocoon was made from bones and negative energy. When held by the caster, it projected fear and if the caster touched another creature, the effect was similar to a inflict critical wounds spell. Additionally, while holding the cocoon, the caster was unable to cast a spell that required a focus or somatic or material components.
+
+Components
+In addition to verbal and somatic components, the spell required a divine focus.
+
+Appendix
+References
+
+---
+
+## Death pact
+
+Death pact was a powerful spell used by clerics of Velsharoon.
+
+Effects
+When cast, this spell resurrected a targeted creature if they were killed. The targeted creature had to enter into a binding agreement with Velsharoon for the spell to be successful. The spell acted as three spells in one. Upon death, the targeted creature was sent to a location determined by the caster during casting with a word of recall. Following this, a raise dead spell resurrected the targeted creature. They were then healed with a heal spell. The spell was not cast often as it took five years off the life of the caster and took a week to prepare.
+
+Components
+In addition to verbal and somatic components, the spell required a divine focus and a material component: a diamond with a value of at least 500 gp.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Decoy image
+
+Decoy image was a spell used by rangers.
+
+Effects
+When cast, this spell projected a decoy illusion of the caster and their allies. The illusion is realistic and mimics the movements and speech of the caster and their allies. The illusion could be seen up to  from the group.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+References
+
+---
+
+## Detect crossroads
+
+Detect crossroads was a simple spell used by bards and druids.
+
+Effects
+When cast, this spell allowed the caster to detect fey crossroads. It detected their location within  of the caster, if the crossroad was further away, the caster was able to determine its general direction. When a fey crossroad was detected, it appeared to the caster as a blue shadow shaped in a X. The spell prevented the caster from being tricked into using a fake crossroad. The spell did not provide information on what lies at the ends of the crossroads or where they lead.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+See Also
+ Create crossroads and backroad
+ Walk crossroads
+References
+
+---
+
+## Dellvon Ludwig
+
+Delvon Ludwig was a priest of Torm who lived in the Sword Coast North during the late 15 century DR.
+
+Relationships
+While in the Ten Towns, Delvon befriended the fisherman-turned-acolyte Sirac of Suzail.
+
+History
+Delvon came from the city of Neverwinter and moved to Bryn Shander some time around the . He took up residence within the House of the Triad.
+
+Appendix
+References
+
+---
+
+## Death dragon (2nd edition)
+
+Death dragon was a divine necromancy spell that conjured a semi-corporeal dragon for a short duration of time.
+
+Effects
+When this spell was cast, the death dragon was created in front of the caster. It appeared as a large mass of bones, flesh, hair, fur, and other bodily remains formed in the shape of a dragon. It was not complete or solid in nature and could not be struck by other beings.
+
+The dragon was capable of flight and could attack the foes of the spell's caster.
+
+A death dragon was vulnerable to the spell dispel magic.
+
+Components
+In addition to verbal and somatic components, this spell required one or more bones: either four whole bones, half of which had be to avian or reptilian, or a single draconic bone.
+History
+The specifications of this spell were outlined in the Kelemvorite relic, the Testament of Vraer.
+Appendix
+References
+
+---
+
+## Deep crow
+
+Deep crows were massive bird-like insects. Aggressively predatory and possessors of an alien intelligence, these creatures were little known by sages, but feared by adventurers and spoken of only in hushed tones.
+
+Description
+A deep crow's appearance was that of an enormous crow mixed with insectoid features. Its mouth was composed of a pair of pincers, and the creature had a cluster of several red eyes. In another departure from avian anatomy, deep crows' feet had four claws.
+
+Considerably larger and more powerful, creatures known as ancient deep crows were speculated to be deep crows who lived long enough to reach enormous size. Others speculated that they did not belong to the same species at all, and were in fact a related creature that enthralled lesser deep crows.
+
+Personality
+Despite their inscrutable alien intelligence, deep crows sometimes displayed some identifiable personality traits. They were known for holding long-lasting grudges against anyone who had wronged them, sometimes even perpetuating that hatred through generations by teaching it to their young.
+
+Combat
+The most dangerous feature of deep crows was their powerful pincer-like mandibles, which were strong enough to lift most creatures and carry them away. It was common for deep crows to repeatedly pick up and drop creatures that fought too hard against their captors.
+
+In addition, ancient deep crows were capable of emitting an ear-splitting caw that directly damaged the minds of anyone within a  radius who could hear it.
+
+Society
+
+Essentially solitary creatures, deep crows only left their nests to hunt for prey, to look out for threats, or to mate. Their lairs were usually chosen in deep and warm places, usually near or atop volcanoes or in close proximity to lava.
+
+Ancient deep crow lairs were magically warped by the creature's very presence, covering the entire region within a radius of  in a supernatural shadow, filled with echoes of distant caws. In addition, underground-dwelling beasts within  of the lair became enthralled by the ancient deep crow, unwittingly working for it as sentries who warned it of any intruders.
+
+Ecology
+Deep crows mated only once in their lives. Following the pairing, both deep crows each produced a clutch of four to eight eggs that incubated for around one year. Newborn deep crows stayed in the nest for another year looked after by their parent, then left to fend for themselves. Their total lifespan was unknown.
+
+History
+Deep crows were rumored to have originated as familiars to evil spellcasters who had been abandoned in underground locations to fend for themselves, later growing to enormous sizes in the wild. Other sages speculated that they originated from ordinary crows who had been exposed to some form of energy that triggered their transformation.
+
+Notable Deep Crows
+Raah, an ancient deep crow whose lair was located in the dimensional caverns connecting to the Dran & Courtier inn in Red Larch circa, suffered from a crisis of self-confidence as a result of its lack of success in finding a mate.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+The Orrery of the Wanderer
+Video Games
+Neverwinter
+
+References
+
+---
+
+## Dessarin Hills
+
+The Dessarin Hills was a grouping of rugged hills in the western stretch of the Savage Frontier. The River Dessarin wound its way through the hills, which dominated the landscape on either side. The hills lay south of the city of Yartar and contained few settlements.
+
+Description
+A number of ancient dwarven ruins dotted the landscape of the hills. Jundar's Hill is a prominent landmark at the northern end of these hills, west of the Dessarin River.Map of Interior, Silverymoon, Longsaddle, and Yartar included in slade, et al. (April 1996). The North: Guide to the Savage Frontier. Edited by James Butler. (TSR, Inc.). ISBN 0-7869-0391-0.
+
+Inhabitants
+In addition to the Uthgardt barbarians that claimed the hills as their land, they were home to savage humanoids, such as orcs and ogres. Beyond these were even more dangerous creatures, namely hill giants and manticores.
+
+Appendix
+References
+
+FR:Collines Dessarin
+
+---
+
+## Dell Tannerson
+
+Dell Tannerson was a nephew of Rafferty Tannerson. Together, they regularly braved the elements traveling with caravans between Luskan and the Ten Towns in the late 1360s DR.
+
+Description
+Dell was a tall, brown-haired teenager. He was curious and often suffered mishaps.
+
+Personality
+Dell was a very open, trusting, and outgoing kid, to the annoyance of others. He was bursting with friendliness and curiosity, often bombarding adventurers with questions without letting them insert a word into the conversation. Dell loved hearing stories told by the adventurers and caravaneers; he believed and loved every tall tale he heard, however exaggerated they might've been.
+
+Abilities
+The boy's uncle was teaching Dell everything he needed to know about being a teamster for the caravans traveling between Luskan and the Ten Towns.
+
+Relationships
+Dell and Rafferty showed affection towards each other, even though the gruff uncle hoped to keep Dell's mind on his training, and not getting "all mixed up with dragons and fairies".
+
+History
+In 1369 DR, Dell traveled with his uncle in a caravan from Luskan to Targos, hired by Boswell Peddywinkle (secretly Celerum the Black, a member of the Arcane Brotherhood). Together with the disguised mage and his hired group of adventurers, they came across a destroyed and plundered caravan, discovered by Dell, which led to an encounter with a goblin marauder tribe.
+
+After the group reached the Ten Towns, Dell asked the adventurers to join them on their search for the mysterious Accursed Tower, unbeknownst to his uncle.
+
+Appendix
+Appearances
+ The Accursed Tower
+
+References
+
+---
+
+## Demon fever
+
+Demon fever was a supernatural disease spread by night hags and abyssal ghouls, neither of which, strangely, were demons.
+
+Acquisition
+The disease was transmitted via the bite of a night hag and via the front and hind claws of an abyssal ghoul. It had an incubation period of one day.
+
+Effects
+Each day of infection could greatly damage the sufferer's health and vitality, making it harder for them to fight off the disease. If the disease was healed or fought off, this loss of vitality could be recovered, however a persistent case of demon fever could drain some health and vitality permanently, perhaps continuing until the victim died.
+
+History
+Demon fever was one of many diseases that could be encountered in the Underdark.
+
+Inflicting demon fever on her enemies was a favored tactic of the night hag Luxewa, who laired in a seaside cave on the eastern shore of the Moonsea in the mid-to-late 14 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Dead in the Eye
+
+Dead in the Eye is an adventure module released for the Free RPG Day in 2012, for the 4th edition of Dungeons & Dragons.
+
+Index
+Characters
+Arak Logan • Kilna Stumpshine • Omaranthax
+
+Alzubra
+
+Creatures
+beholder • foulspawn • half-elf • gnome • roper • gas spore
+
+dragon • tiefling • vampire
+
+Locations
+
+Far Realm • Ragheb • Raurin • Thornwash • Vilhon Reach • Winterwood
+Items
+Dead Words Manacle
+
+haddrum
+
+Organizations
+Keepers of the Celestian Order (Black Arrows)
+
+Concord of Swords • Tigers of Light
+
+Gallery
+
+Appendix
+External Links
+
+---
+
+## Dekoran Boatwright
+
+Dekoran Boatwright was a massive shipyard located in the town of Daggerford during the mid–14 century DR.
+
+Location
+The building was located in the town's River Quarter, on Hill Road.
+
+Services
+Dekoran's specialized in the construction of fishing boats, rafts, canoes, and other smaller river-worthy vessels.
+
+History
+While the businesses' owner Dekoran sought to build larger ships and compete with the nearby Mikitan Shipyards, he ran into some complications. The adjacent Hill Road, which granted access to the town's dock, was not large enough to navigate larger vessels within its boundaries.
+
+Appendix
+References
+
+---
+
+## Derval's Smithy
+
+Derval's Smithy was the most prominent blacksmith's shop found in the town of Daggerford during the 15 century DR. It was originally owned by the town's famous blacksmith, Derval of Clan Ironeater, and was eventually passed down to his grandson Ignal.
+
+Location
+The building was located in the town's River Quarter.
+
+Services
+While Ignal and his apprentice smiths forged weapons in the style of Derval for private sale, they focused most of their work to aid the town. They made many metal items, such as spear and arrow heads, for use by the Daggerford militia.
+
+History
+Derval's original business in Daggerford was the shop known as Derval's Bright Blade. He was known as the finest smith among those in Daggerford, and the weapons he made were of the finest quality.
+
+At some point, the smithy was relocated from Daggerford's Money Quarter to the River Quarter on the south side of town.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deszeldaryndun Silverwing
+
+Deszeldaryndun Silverwing, the Guardian Wyrm of Everlund, was an ancient silver dragon who inhabited the Floating Mountain, an enormous hollow rock that hovered above the woods east and south of Everlund.
+
+Combat
+Deszeldaryndun was known to employ a variety of magics that were devised and gifted to him by Valamaradace, including the spells gentle breath, guardian trumpet, and icy claw.
+
+Activities
+Deszeldaryndun spent much of his time in human form in the western forests of Everlund, going by aliases such as Ergoth Falaer or Drouth Sammart. However, he was also known to disguise himself as powerful and influential individuals when the need arose, most notably Khelben Arunsun and Elminster. He was also known to take up the guise of Alustriel Silverhand when engaging in covert business with the Harpers or Chosen, especially in situations where an attempt on her life was likely. If not disguised as her himself, Deszeldaryndun was known to accompany Alustriel in both her palace and outside the city in the guise of a cloaked swordsman named Talyn.
+
+Deszeldaryndun rarely ever went out hunting for food, having cultivated caverns of edible fungi and pools of fish. When he did take to the skies, it was usually to remove troublesome creatures from his domain. His favorite animals to hunt for were hippogriffs, as well as deers and horses within the High Forest.
+
+Relationships
+Deszeldaryndun's consort for over a thousand years was the gold dragon wyrm Valamaradace.
+
+History
+During the Rage of Dragons of 1373 DR, Deszeldaryndun and Valamaradace were driven to attack each other by the ensuing madness. Only the intervention of Alustriel Silverhand prevented them from murdering each other, and for their gratitude they pledged to watch over the Silver Marches.
+
+Appendix
+References
+
+Further Reading
+ "Wyrms of the North: Deszeldaryndun"
+
+---
+
+## Dendever Street
+
+Dendever Street was found in the town of Harrowdale.
+
+Description
+Dendever Street began on its north side branching from Lancegallop Lane. The road passed south and southwest through the town terminating on the Heart of the Harbor pier just offshore on the Dragon Reach.
+
+Notable Locations
+ The Fouled Line
+ Willowman Trading Post
+ The Fall of Stars
+ Treskeden House
+
+Appendix
+References
+
+---
+
+## Delmair Rallyhorn
+
+Delmair Rallyhorn was a half-elf ranger who loved to hunt evil monsters around 1358 DR. If struck by an enemy, he had the uncanny ability to temporarily transform into a tiger.
+
+Description
+The ranger had blonde matted hair and blue eyes. He wore elven chain mail +2, and dark blue cloak. Delmair carried a short sword +1, a longsword +1, and a longbow plus fifteen arrows +2 in his quiver.
+
+History
+Delmair was trained to seek evil and destroy. At some point, his father was killed by bandits. The elf hunted down and killed the bandits, but he never managed to find his father's sword Dhauzimmer (the Bright Blade). He met the Heroes of Waterdeep on a forest trail and asked to be allowed to join them in search of Dhauzimmer and a quest to destroy the evil that infested the land.
+
+Appendix
+Appearances
+Video games
+ Eye of the Beholder III: Assault on Myth Drannor
+
+Gallery
+
+References
+
+---
+
+## Deathdrinker
+
+Deathdrinkers were powerful, non-tanar'ri demons spawned from vile pits of blood and gore. They were creatures of carnage that reveled in slaughter and collected the souls of those unfortunate enough to cross their paths.
+
+Description
+Deathdrinkers were around  tall and weighed approximately, most of it consisting of muscle. They had broad shoulders and bulging biceps ending in many-fingered hands, pitted plates of dark metal covering their hooved legs, and flat chests often protected by intricate armor. Their chipped, antler-like horns decorated by hanging corpses and bones.
+
+Personality
+The one primary interest that overrode all others for a deathdrinker was themselves. They were an extremely egocentric race, seeing their kind as superior to any other and seeing themselves as their kind's ultimate paragon. They were also utterly self-serving, happily killing their allies to serve their own needs (even if the need was as minor as the urge to see something bleed). Despite this inflated view of themselves, they were not particularly mentally adept, possessing only average intelligence, cunning, and personal magnetism.
+
+Abilities
+Deathdrinkers had several unique qualities compared to other members of demonkind. Their lack of darkvision was compensated for by their truesight, and unlike other demons their resistance to damage could only be overcome by attacks that were both good and lawful aligned. Despite their incredible physical strength, they had few spell-like abilities compared to other demons; they were only able to cast air walk, greater teleport, and greater dispel magic at will (the former effects only able to apply to themselves).
+
+The powers of deathdrinkers emphasized their link to death. They could not be harmed by negative energy and exuded an aura of unlife within  of themselves that harmed the living while healing the undead and attracting the souls of the deceased. There was also their eponymous "deathdrink" ability, which would heal them relative to the strength of their victim once they killed a being up close, either by their aura or by simply slaying them in melee combat.
+
+Combat
+
+Deathdrinkers were creatures of brute force that sought conflict with sadistic delight. They exulted in the glory of slaying a sufficiently worthy foe, improving their battle prowess in the process for the next minute or so. They had no qualms about quickly using dispel magic to weaken foes before attacking and used their full strength unless the foe proved difficult to strike.
+
+Deathdrinkers also had no hesitation about killing an injured or unimportant minion to recover from injury, using their allies to personal advantage. This willingness to sacrifice their own servitors could make them significantly more dangerous even if the creatures around them weren't particularly problematic by themselves. Despite their affinity for their kind, deathdrinkers did not necessarily work together in battle, their natural selfishness causing them to focus on their own distinct opponents.
+
+Deathdrinkers had dangerous levels of mobility, quickly using greater teleport to reach spellcasters and other ranged combatants. They kept their air walk ability active at all times, and enjoyed the panic to be found from suddenly appearing before a flying caster before unleashing several powerful strikes.
+
+Most of their treasures were invested into magic weapons, armor, and other items (such as oils) to make them more effective killers. All deathdrinkers were inherently capable of training as assassins.
+
+Society
+Deathdrinkers set themselves apart from the politics and power struggles of the Abyss, using the fact that they weren't tanar'ri as justification for why they were above such petty intrigues. They preferred the company of other deathdrinkers in social situations and were frequently found with them, but were usually accompanied by undead, who were often basking in their "healing" aura. Deathdrinkers were occasionally accompanied by other types of demons, which like their undead company was normally very weak, but the fiends were considered fearsome even to other demons.
+
+Though they might not publicly admit it, deathdrinkers enjoyed the company of those that puffed up their pride through flattery, praise, or admiration. Despite their great power and status as capable combatants, they were not diabolical masterminds nor clever generals. Individuals of sufficient craftiness and strength could sometimes acquire a deathdrinker's service through offerings of gifts and sycophantic ambassadors.
+
+Despite not needing shelter, deathdrinkers enjoyed creating their own personalized lairs. Preferably these lairs were near recent battlefields so that they could appreciate the plentiful corpses. Lairs had large piles of bones and bodies for a deathdrinker to lounge on and were decorated with other symbols of death; deathdrinker treasures not taking the form of magic items were usually jewelry featuring macabre motifs, such as skulls, pain-wracked faces, and torture devices.
+
+Deathdrinkers often lead raiding parties of demons on the Fugue Plane in search of souls to steal, their spirit attracting auras generally resulting in a great number of captives.
+
+Religion
+Many deathdrinkers chose not to worship any deity, believing that they themselves were the beings most worthy of worship. However, despite generally lacking the ambition to pursue training, the undertaking most favored by deathdrinkers was that of a cleric. They usually favored neutral or chaotic evil gods of death or accessed divine magic without relying on a deity, often choosing from the Death Destruction oR Evil domains. They most enjoyed the power to create undead, which they could use to further bolster their natural talents.
+
+Biology
+Deathdrinker demons reproduced by shedding some of their own blood and placing it into a specially prepared breeding pit. The foul, mucky essence of the pit would mix with the blood, causing it to clot and grow while lesser demons attended to it by regularly stirring the contents and adding fresh corpses and new blood. After some time, a new deathdrinker would emerge fully formed from the pit.
+
+History
+Deathdrinkers belonged to the least populated category of demons — servitors. Although the demons in this group were created by divine beings using raw Abyssal matter as ingredients, they were a key example of a servitor race that ended up outliving their creators.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Deryk Stoneshaper
+
+Deryk Stoneshaper was a dwarven warrior and stone mason who inhabitaned Phlan around 1367 DR.
+
+Activities
+Deryk led a contingent of a hundred dwarves who were drawn to Phlan for the vast of amount of stone work that needed to be completed among the city's numerous ruins. If needed, Deryk and his boys would not hesitate to defend Phlan.
+
+Appendix
+References
+
+---
+
+## Death (rune)
+
+Death, otherwise known in the giant language as dod, was a type of giant rune that allowed whoever wielded its inscribed object to inflict greater damage upon a specific foe.
+
+Effects
+Whenever an inscribed weapon would first strike a creature that matched the specified inscription, it would inflict twice the amount of damage it normally would. Afterwards, the weapon would lose the death rune's effect. However, any creature struck with the weapon that did not meet the specified inscription would not trigger this effect.
+
+Extensively studying this rune a second time would yield no changes to the effect. Though if a caster studied it a third time, then the death rune would be able make weapons inflict three times the amount of damage they normally would.
+
+Components
+Like most giant runes, it required no material components to cast. The process of shaping this rune could take anywhere from one to eight hours and it needed to be inscribed upon a bladed weapon. During this shaping process the caster needed to inscribe next to the rune the name of a specific race, organization or nationality that they were intending to fight with it.
+
+Appendix
+See Also
+ Hotun-Shûl, the Giant temple where the master rune of death was located.
+References
+
+---
+
+## Dead Man's Walk
+
+Dead Man's Walk was a trail that traversed the breadth of southern Vaasa, and was thus was a key piece of the northern trade route that ran from Damara to the Moonsea.
+
+Description
+The road was filled with potholes. Travelers had to be cautious of dangerous fauna, notably packs of boars and wolves as well as giant wasps and giant leeches.
+
+During the boggy summer months, the trail became muddy and treacherous. Sudden and violent thunderstorms were not uncommon, and visibility was reduced owing to heavy fog. In addition, travelers were beset by putrid smells and the constant buzzing and biting of insects.
+
+Geography
+On its western end, the trail originated at Avang on the Vaasan side of Garumn's Climb, the pass that connected to the lands of the Moonsea North. Dead Man's Walk meandered north in the shadow of the Galena Mountains and entered the Bottomless Bogs. Here the route was laid with wooden logs intended to provide stability for travelers and wagons in the summer months when the entire region turned to mud.
+
+Upon reaching the Beaumaris River near Moortown, the trail followed the river east and south into the Clefts of Razack via "Deadman Pass".While the location of "Deadman Pass" is not specified in the short story Darksword, it is implied to be on the eastern side of the Bottomless Bogs. The story describes Melegaunt Tanthul having entered the Bottomless Bogs via Deadman Pass on his way to the Anauroch. In the late 15 century DR, the road then passed through the cliffside community of Kond before it climbed the southern face of the canyon out of the Clefts, and then continued eastward, skirting the northern edge of the Bleak Steppes of Haatar-Baen, until reaching Maur-Eturo. A short spur roughly midway along this segment led north to the capital, Telos City, via a bridge spanning the Clefts of Razack.
+
+From the crossroads at Maur-Eturo, the trail connected to a path leading to Darmshall across open plains to the east, and to Gramble's Climb and Hulburg beyond to the south. Dead Man's Walk itself continued northerly to once again meet up with the Beaumaris at Nigel's Ford before following the river east. In the mid–14 century DR, it travelled along the river's southern bank, while in the late 15 century DR, it crossed Nigel's Ford to travel along the northern bank, where it passed through the tent city of Fugue. Either way, it then arrived in Bloodstone Pass via the Vaasan Gate.
+
+History
+In the mid-to-late 13 century DR, travelers along Dead Man's Walk had to be wary of attacks by bog people and dragonkin, who took advantage of the dense summer fogs to lay ambushes.
+
+In the mid-to-late 14 century DR, travelers had to be cautions of orcs—including from the Ring-nose clan—and wights—the undead remains of soldiers who had served Zhengyi the Witch-King in the Bloodstone Wars.
+
+Notable Locations
+ The Vaasan Gate, a fortress at the entrance to Bloodstone Pass, and the eastern anchor of the trail.
+ Fugue, a tent city and refugee camp along the Beaumaris River in the late 15 century DR.
+ Nigel's Ford, a crossing of the Beaumaris that was included in the route as of the late 15 century DR.
+ Maur-Eturo, a ranching town and crossroad in the Sunderland.
+ Kond, a trade outpost above the Beaumaris River in the late 15 century DR.
+ Moortown, an oft-ruined town in the Bottomless Bogs just off the trail.
+ Avang, a small settlement at the base of Garumn's Climb, and the western anchor of the route.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Delzoun's Fist
+
+Delzoun's Fist was a magical dwarven warhammer +5, designed for the purpose of being thrown.
+
+Powers
+Whoever wielded the hammer was imbued with strength comparable to that given by a girdle of hill giant strength. It was also capable of protecting its wielder from spells cast at them, similar to the effect of a ring of spell turning.
+
+Within one to three weeks of owning the hammer, two minor and one major malevolent effects would begin to manifest for the wielder. The major effect would only begin to occur after the first instance of it being used against a being that wasn't any form of of evil alignment.
+
+History
+Delzoun's Fist was created by the dwarf of the same name, the founder of the kingdom Delzoun. He was said to have wielded the hammer until the day he died.
+
+Appendix
+References
+
+---
+
+## Delayed blast (beverage)
+
+Delayed blast was a mixed alcoholic beverage that could be found in the Realms during the 14 century DR.
+
+Description
+The drink was made by a combining sarrak, a juice made from cherries called red renth, and the garden vegetable sweetstalk.
+
+Effects
+An individual may feel nothing for a matter of minutes after drinking delayed blast. When the "blast" took place, they would feel a burning sensation in the back of their throat, the back of their nose, and around the forehead. This was followed by a dulled sense of hearing and a lessened sensation of pain.
+
+Appendix
+Appearances
+Novels
+Azure Bonds
+
+References
+
+---
+
+## Derek
+
+Derek was a skeleton warrior captain of the guard who dwelled in the Accursed Tower of Icewind Dale, doomed to unlife by a dying curse of a priest of Myrkul.
+
+Description
+In his undead state, Derek was tall, likely indicating him being a local human from Icewind Dale, likely Ten Towns.
+
+Possessions
+Even in death, Derek was outfitted with a magical +1 chainmail and a magical +1 broadsword.
+
+History
+Derek died, along with the rest of the people at the Accursed Tower, around 1269 DR, when the demons summoned by the tower's owner Damien Morienus, caused the Great Thaw. The tower sank into the melted permafrost, killing everyone inside. One of the people inside was a priest of Myrkul, Yarmuth the Brown, who cursed the Tower with his dying breath. The curse turned everyone who died inside the tower into the undead. The curse was still potent in 1369 DR.
+
+A hundred years later, a group of adventurers tasked with finding the tower encountered Derek sitting on the edge of the desk in the Guard Captain's Room, joyfully staring at them, and waving them in, only to attack them with his magical broadsword. The encounter resulted in the skeleton's destruction.
+
+Appendix
+Appearances
+The Accursed Tower
+
+References
+
+---
+
+## Dead Shot
+
+The Dead Shot was a unique longbow of marksmanship owned by one of the dukes of Delthuntle in Aglarond.
+
+Powers
+It possessed a +2 enchantment and significantly increased the damage caused by arrows loosed from its string.
+
+History
+For many years, Duke Raymond of Delthuntle and Duke Edwall Dest of Spandeliyon had a fierce rivalry with one another. After agreeing to partake in an archery contest with his rival, Duke Edwall orchestrated the theft of Dead Shot from Duke Raymond.
+
+On the day of the contest, Edwall shot the bow at the head of a humanoid target, that in fact had been enchanted at Duke Raymond's behest. Just as the head of the target was torn asunder by the bow's arrow, so too did the head of Duke Edwall.
+
+By the, Dead Shot came into the possession of a hobgoblin Hakt under the employ of the bandit-leader Tazok.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Defenders Three
+
+The Defenders Three were a band of three halfling brothers that worked as guards and messengers for Lord Ultas Maernos in Waterdeep, circa 1370 DR. When Maernos passed away, they became the administrators of Holyhands House on the grounds of the former Maernos family compound in the North Ward.
+
+Organization
+The group consisted of Amstor "the Grim", a worshiper of Arvoreen, Asohs "the Daring", a reformed spy, and Pithar "the Bold", a former tavern bouncer and a former member of the City Watch. They did not choose the name "Defenders Three"—it was what their acquaintances called them.
+
+Activities
+During the last few years of Lord Maernos' life, the three brothers worked as his personal bodyguards and messengers. Ultas was an ally of the Harpers and occasionally had them carry packages or messages to Harper agents in Baldur's Gate, Luskan, and Mirabar. Of the three, only Asohs intuited the affiliation of these deliveries, and he kept it between himself and Lord Maernos. After Ultas' passing, they remained in the villa and helped establish it as a place of worship for the demihumans of Waterdeep.
+
+Base of Operations
+Holyhands House (the former Maernos mansion) was located in the North Ward between Copper Street and the High Road about five blocks south of the Upper Towers between Delzorin Street and Sidle Street.
+
+Relationships
+The Defenders Three were treated with honor, respect, and friendship by Lord Maernos, but acquired enemies by serving him so effectively. Among his enemies were Lord Nimor Lathkule and Lady Stelar Nesher (consort to Laskar Nesher and member of the Thorp family).
+
+Many younger nobles accepted and befriended the Defenders Three. It was primarily the older generation of nobility that did not want to see demihumans elevated above the level of servants.
+
+Their work for Lord Maernos on behalf of the Harpers made them important allies to that secretive organization.
+
+History
+They successfully thwarted an assassination attempt during their trial period with House Maernos, which won them permanent employment status and Ultas' trust and friendship. Lord Maernos became a target of the anger and indignation of certain Waterdhavian nobles when word got out that he wanted to donate his villa to become a temple specifically for the non-human residents of Waterdeep. The Defenders Three exposed or foiled a number of plots and proved their capability many times over.
+
+It was Amstor that persuaded his brothers to join him in service to Lord Maernos after overhearing disparaging remarks about the noble's devotion to the cause of demihumans and all the major temples in the city, including the Plinth.
+
+Members
+ Amstor "the Grim"
+ Asohs "the Daring"
+ Pithar "the Bold"
+
+Appendix
+References
+
+---
+
+## Detonate
+
+Detonate was a psionic power of the psychokinesis discipline that caused an object to explode.
+
+Effects
+The manifester accessed the latent psionic energy within a single item up to  away, controlled and focused it, and finally released it with explosive force. It could target inanimate objects (including worn armor and carried weaponry), plants and non-sentient plant creatures, golems and animated matter, and mindless corporeal undead such as skeletons and zombies, but not animals, free-willed undead, and all thinking creatures. Magical items and animated materials such as golems could resist. According to the degree of success, the explosion damaged a portion of the object or creature, up to . This could weaken or destroy it outright, leaving chunks or only dust. Everything within  was damaged or injured by the blast. Detonate could blow a hole in a wall, leaving an opening of  in a  wall.
+
+Prerequisite Powers
+Learning detonate could require knowledge of telekinesis and molecular agitation.
+
+Users
+Detonate could be used by amethyst dragons and psionic mind flayers.
+
+Notable Users
+ K'yorl Odran, a drow psionicist and the matron mother of House Oblodra.
+ Vhondryl, a psionicist in Skullport and head of the Hall of Mental Splendor
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deathbane
+
+Deathbane was a sacred enchanted staff of powerful healing magic that belonged to a blind moon elf cleric of Mystra named Beriand circa 1369 DR.
+
+Description
+Deathbane was a beautiful ornate staff laced with intricate runes written by a delicate elven hand. The staff's name Deathbane was written on it in the same graceful manner. The staff felt warm to the touch.
+
+Powers
+Deathbane did not possess any offensive powers; it was a healer's tool. The user of Deathbane could cast an extremely powerful version of the heal spell.
+
+History
+In 1369 DR, Deathbane was in Beriand's possession when he ventured into the ruins of Myth Drannor, along with many other adventurers, following Elminster's call for aid against the Cult of the Dragon that planned to use the ruins' mythals and the Pools of Radiance to conquer the region. Beriand's group was ambushed by orcs and though he was dragged to safety by Faeril, the Deathbane staff was lost to the attackers.
+
+Beriand requested aid from another group of adventurers from Phlan that arrived late to the scene. They managed to recover the staff from the Dwarven Dungeons under Myth Drannor and return it to the blind cleric.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+---
+
+## Devil dog
+
+Devil dogs were a rare species of arctic canine.
+
+Description
+These canines had stark-white fur, blue eyes, and on average grew to be  tall at the shoulder. When not within  of them, their white fur made it difficult to perceive a devil dog in areas covered by frost or snow.
+
+Behavior
+Devil dogs had an average level of intelligence.
+
+Biology
+Devil dogs were capable of running at very fast speeds and could emit intense barks that triggered an effect similar to fear in their enemies.
+
+Combat
+These canines regularly resorted to lunging for the throats of their enemies.
+
+History
+In the month of Uktar, 1358 DR, the cities of Silverymoon and Sundabar had to fend off attacks from huge packs of devil dogs in addition to packs of winter wolves and bands of frost giants.
+
+Ecology
+Devil dogs traveled in packs.
+
+Diet
+Devils dogs were a carnivorous species. They were especially known to attack groups of humans.
+
+Habitats
+These creatures were only known to inhabit regions with cold climates. They were particularly known to dwell within the Ice Mountains.
+
+Appendix
+See Also
+ Winter wolf
+
+References
+
+---
+
+## Destroyer of the Hills
+
+The Destroyer of the Hills was a unique girdle of bluntness that earned its name from the exploits of its original owner.
+
+Powers
+The wearer of the girdle was given significant protection from attacks that sought to bludgeon or crush an individual.
+
+History
+It was first worn by Garrar the Powerful, a man whose homeland was overrun by hill giants. With the girdle's magic protection, he drove the foul giants from his home, off to neighboring lands that were not as fortunate—thus the Destroyer of the Hills earned its name.
+
+At some time during or before the, the girdle came into the possession of a bandit named Caldo.
+
+Another copy of the item belonged to a priest of Moradin who served the dwarves of Kelvin's Cairn in Icewind Dale in the .
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate series (Baldur's Gate • Baldur's Gate II: Shadows of Amn) • Neverwinter Nights: Doom of Icewind Dale
+
+External Links
+
+References
+
+---
+
+## Detect ambush
+
+Detect ambush was a southern magic divine spell available to worshipers of Anhur.
+
+Effects
+When cast, the spell allowed the caster to detect the presence of any creature in the area lying in wait to ambush the caster or their party. The spell was unable to detect the presence of traps, nor did it detect the presence of a creature who would do the caster harm at some point in the future.
+
+The reverse of this spell, undetectable ambush, allowed the caster to remain undetected while waiting to ambush a target.
+
+Components
+In addition to somatic and verbal components, this spell required a material component, any possession from any of the caster's enemies.
+
+Appendix
+References
+
+---
+
+## Desert wraith
+
+Desert wraiths were a rare form of malevolent, undead spirits that arose from the bodies of those killed by a skriaxit.
+
+Description
+These spirits had two forms. That of their previous self, typically a human, and that of a jackal. They were capable of shifting between these two forms as they saw fit.
+
+Behavior
+Desert wraiths were wholly evil creatures, whose only motivation in un-life was to destroy any living creature they came across. Their intelligence was rather low, but they were capable of cunning.
+
+Abilities
+These spirits could see in total darkness as if they were in noon and much like the average wraith their touch drained life energy from living creatures. Unless washed in holy water, those killed by them would rise within forty-eight hours as a zombie.
+
+Desert wraiths could be turned, similarly to spectres. They could be harmed by weapons with a +1 or greater enchantment. If exposed to sunlight they would perish.
+
+Combat
+Desert wraiths would either hide themselves within the sand and surprise their prey or charge at them in their jackal form and then attack in their human form once close enough.
+
+Ecology
+Diet
+Desert wraiths fed off the life energy of living creatures.
+Habitats
+Desert wraiths were found wherever skriaxits could be found, which were typically subtropical deserts, such as the Great Vale in Mulhorand. They only roamed the desert at night, retreating to barrows they dug within the sand to hide from the sun.
+
+Appendix
+Appearances
+Adventures
+Dungeon #40, "Khamsa's Folly"
+References
+
+---
+
+## Denzelian
+
+Denzelians were a strange, very rarely encountered species of subterranean creature that lacked any features.
+
+Description
+Denzelians were very thin, featureless creatures that took up a large surface area. Their thick skin had a texture similar to smooth stone, but was somewhat flexible. The color of their bodies varied, derived from whatever minerals they had recently absorbed, though the most commonly seen colors were brown and gray. On average their bodies were  in diameter and  thick, weighing around .
+
+Their bodies exuded a repulsive smell and were indigestible to most animals and plants. Denzelians were composed of a very rich variety of absorbed minerals and included deposits of almost pure carbon, sulfur, magnesium, and more. Some of these deposits formed into gemstones and it was not unusual to find perfectly round diamonds inside of them.
+
+Male and female denzelians were indistinguishable from each other.
+
+Behavior
+Denzelians were generally rather peaceful, non-aggressive creatures with a semi-level of intellect. Though they would go to great lengths to drive off or kill anyone that threatened their young.
+
+Abilities
+Denzelians were capable of sensing vibrations in their environment.
+
+The entire surface of their bodies secreted acid, which they used to burrow through rock and break down mineral deposits. However, if frightened they could significantly increase the amount they produced. This allowed them to escape by sinking into rock, leaving behind a blackish, crumbly sand-like residue. This gritty substance would fill the air, getting into the eyes, nose, and mouth of creatures within  of the hole and paralyzing their senses. Some sources claimed that they traveled through solid rock at a rate of  per week.
+
+Combat
+Denzelians had two methods of attacking other creatures. The first was to simply rush towards their enemy, attempting to trip them and have the enemy fall upon their acid secreting body. Their second tactic was to burrow through rock until they made its way above their enemy, then drop down on to them with their incredibly heavy, acid-secreting body.
+
+Society
+Denzelians were rather solitary creatures, but a male and female could often be found traveling alongside each other in a pair. Females ovulated only once in their lifetime, though some claimed that it was actually once every decade.
+
+Female denzelians laid around three to twelve eggs which resembled fist-sized, faceted gemstones, in particular smoky quartz with a milky white liquid inside that was their embryo. These eggs were spread out over a  apart and laid over the course of a month. Some claimed these eggs would hatch after only a year, while others said they took over a hundred years to hatch. Those who claimed the former would say denzelian mothers stayed near their eggs until they hatched.
+Diet
+Denzelians subsisted solely upon mineral deposits, which their bodies absorbed after breaking them down with the acid they secreted. However, they hated the taste of metal and would try to avoid it, making detours round even small deposits, which led to their tunnels having a meandering course and uncovering metal deposits that other creatures could harvest.
+Homelands
+These creatures were only known to inhabit subterranean areas, far away from any form of civilization. Footmen in the Realms were capable of identifying their tunnels.
+
+Beyond Toril, denzelians could be found in the asteroids of the Tears of Selune.
+Languages
+Denzelians had a rudimentary form of language, consisting of vibrations sent through the rock. No other creatures were known to have been capable of mastering this form of communication, though denzelians could be trained to respond to taps on their surface.
+Relationships
+Dao were sometimes known to enslave denzelians.
+Usages
+The eggs of a denzelian fetched prices of up to a thousand gold pieces. Their body parts could be of great worth to alchemists, especially their acid-secreting glands if intact.
+
+Appendix
+References
+
+---
+
+## Deathspike
+
+Deathspike, also called the spear of skewering, was a powerful enchanted spear that could easily be used as a javelin.
+
+Description
+Deathspike was a strong and thick javelin of somewhat primitive design. It was designed for single-handed or throwing use. Its tip was razor sharp.
+
+Powers
+Deathspike had magical enchantment to its aim. The aptly named spear of skewering itself was able to deal devastating amounts of damage. In normal use, it tripled the harm done to its target, and in case of a critical hit, it was quintupled.
+
+History
+In 1369 DR, Deathspike was in possession of a tribe of lizardfolk led by Malgi Hi. Sometime during the Cult of the Dragon's occupation of the ruins of Myth Drannor that year, the lizardfolk of that tribe had a violent stand off with a group of orogs that were trying to carve themselves some of the territory of the razed city.  The spear of skewering along with some other valuables was left behind after the conflict in the area known as Stillwater Ruins.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Desert cyclops
+
+Desert cyclops were large humanoids native to Zakhara distinguished by their single eye.
+
+Description
+A desert cyclops appeared generally similar to a human but was somewhat taller and with a disproportionately well-muscled upper body. Their rough skin had the color of sand. Their most striking feature was the single unblinking blue eye at the center of their heads, which gave them the ability to see through lies.
+
+Their attire could vary as widely as their lifestyles, from normal full clothing down to shorts made from animal hides.
+
+Personality
+Desert cyclops varied greatly in temperament but were generally wary and secretive towards Zakharan society at large, as they were often met with prejudice. They were not by nature aggressive but would go to great lengths to defend themselves and their families.
+
+Combat
+In combat, desert cyclops either attacked with both of their mighty arms or wielded two-handed weapons. Only a few of them wore armor, (which was difficult to come by for their size and shape,) but all were well-protected by their tough skin.
+
+Society
+Desert cyclops followed different lifestyles, but most lived as small groups of hunter-gatherers. Some lived alone far removed from inhabited areas. Some of them tried to engage in conversations whenever the rare opportunity arose to mitigate their isolation. Very few desert cyclops became members of human society, and even fewer were truly accepted there.
+
+While most desert cyclops inhabited the warm desert areas of Zakhara, they could live in any climate and terrain.
+
+A desert cyclops would eat the same food as humans but liked to season their dishes with sand.
+
+Appendix
+See Also
+Cyclops
+Appearances
+Video Games
+Al-Qadim: The Genie's Curse
+References
+
+---
+
+## Determined
+
+Determined was a huge ship owned by Pristoleph, a senator and later Ransar of Innarlith.
+
+Description
+Determined was a huge recreation ship. It had a private sun deck located above the main deck.
+
+History
+Pristoleph was in possession of this ship by 1368 DR. He used it as a luxury vessel to go away from the city one month each year. He would take it outside of the Lake of Steam and into the Shining Sea.
+
+Appendix
+Appearances
+Novels
+ Lies of Light
+
+References
+
+---
+
+## Demon spawn
+
+A demon spawn was a type of demon that often allied themselves with cults, although they yearned for the Abyss. As a result, they often sought out demongates to bring forth their kin to the world. Demon spawn were the products of dark rituals and were often the end result of the work of a hag. Demon spawn varied greatly in appearance, but it was certain was that they were shunned by their families and communities and, as a result, held nothing but contempt in their hearts as they attempted to better understand their inherent abilities.
+
+Abilities
+Demon spawn were capable of using powerful magic.
+
+Combat
+Demon spawn attempted to keep melee enemies at bay as they relied on their magic during combat.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Deep Ale
+
+Deep Ale, also referred to as Fire Ale, was a popular Waterdhavian frothy alcoholic drink reinforced, or "warmed" with grain-based liquor.
+
+Locations
+In Waterdeep, Westgate, Beregost, and many other places up and down the Sword Coast, taverns sold pre-mixed "warmed" drinks or mixed and served them to-order. "Warming" drinks was a common practice of adding various stronger liquors, usually grain-based, to a drink. That practice was born out of the commonly watered down drinks served in the taverns of the Coast. The spirits used to "warm" drinks most commonly were clear distilled potato alcoholic drinks of no color or taste.
+
+Appendix
+Appearances
+Video Games
+Sword Coast Legends
+
+References
+
+---
+
+## Delphin Mountains
+
+The Delphin Mountains were a small mountain range found in northern Tashalar on the Chultan Peninsula of southwest Faerûn.
+
+Geography
+The mountain range formed a triangular mass of peaks measuring roughly  on each side. The northern most area of the mountain range bordered the Shining Sea, forming the backbone for the Delphingulph. The southern parts reached down into the dense Black Jungles. The jungle crept passed the Delphin Mountains on their western edge through the Tashan Gap.
+
+Notable Locations
+ River Amarast
+
+Appendix
+References
+
+FR:Montagnes Dauphines
+
+---
+
+## Devil's Doom
+
+Devil's Doom was a magical longsword created by the clerics of Lathander from Daggerford.
+
+Powers
+Devil's Doom was a +1 enchanted blade forged out of cold iron and blessed by the priests of Lathander the Morninglord in the first rays of morning sun light. The cold iron and blessing made the sword especially effective against creatures not native to the Prime Material plane. The blade's enchantment became a +2 when used against outsiders, and dealt additional divine damage.
+
+History
+Daggerford has had a tumultuous history when it came to the devils from the Dragonspear Castle. This sword was created to effectively combat any extra-planar threats that menaced Daggerford. In 1372 DR Devil's Doom was in the possession of the cleric of Lathander named Liam Sunmist of the Morninglow Tower.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Deldagg Huldgrym
+
+Deldagg Huldgrym was a dwarven adventurer who founded the Bloodaxe Mercenary Company around 1317 DR.
+
+History
+Deldagg was an outcast from Adbarrim, known as a "transgressor" against the teachings of Moradin, who led his fellow dwarven outcasts to form the Bloodaxe Mercenary Company. His organization was originally predominantly dwarven, and Deldagg and his troops distinguished themselves in conflicts with bandits, an army of orcs led by King Eldoul, and raiders from Luskan. He lost many fellow dwarves during these battles, leading him to recruit humans and other races into the company from places like the Sword Coast (notably Baldur's Gate), the North, the Vilhon Reach, and Westgate.
+
+Deldagg died in 1331 DR of blacklung fever and was succeeded by Velkor Minairr as leader of the Bloodaxes.
+
+Appendix
+References
+
+---
+
+## Demetira Landscraper
+
+Demetira Landscraper was the manager of the Happy Cow inn in Daggerford who helped Fulbar Hardcheese running the business, purchasing, and accounting circa 1372 DR.
+
+Description
+Demetira was a short stout demihuman woman with red hair. Her body language, shrewd mannerisms, and wide smile telegraphed her mercantile trade.
+
+Personality
+Demetira Landscraper was a friendly face popular among the regulars of the Happy Cow. She knew almost every regular customer and considered them to be friends.
+
+She often consumed Fulbar's alcohol and advertised her favorite Knee-Cracker cider to the inn's guest's.
+
+Relationships
+Apart from countless friends gained via her affability, Demetira personally knew Duke Pwyll Daggerford during his many visits to the Happy Cow. The Duke was well liked and he used those moments to talk to his subjects and stay on top of the Daggerford's rumor mill. Unlike Pwyll, his temporary successor Matagar Bugo was disliked by farmers and by Demetira herself.
+
+History
+In 1372 DR, Demetira Landscraper could be often seen mingling with the guests of the Happy Cow. She considered the regulars of the establishment her friends and easily built personal relationships with them. She came to know the Hero of Daggerford who aided the city during the Zhentarim takeover plot of 1372 DR, often calling the Hero's adventuring party her friends.
+
+During the Hero's investigation of Duke Daggerford's seeming death, Demetira Landscraper revealed that she accompanied him on the faithful hunting trip that was assumed to be Duke's doom. She was asked to join the hunting trip and take care of the fancy ale kegs from the Cow that the Duke ordered along. She did not witness Pwyll's death but saw his dead body and his boar-spear that was obviously tampered with. However, she did not know what happened to the Duke's body afterward.
+
+Her home was located in the northwest corner of Daggerford along Horse Way.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Death (dread wraith)
+
+Death was a dread wraith who roamed the Lowerdark of the Underdark with its companions, the mummy Disease and the undead beholder Destruction.
+
+History
+Hamezaar, the vampire ruler of the Boneyard, once worked to recruit Death, Disease, and Destruction to his undead armies, but they declined for lack of interest.
+
+Circa 1372 DR, the trio were searching for an annihilator, intending to capture and control it with the aid of Destruction's charm monster eye-ray power. After they had an annihilator, Destruction wanted to hunt down and slay the outcast beholder Tobulux for being an abomination, as well as his illithid companion Ralayn who would oppose them.
+
+Appendix
+References
+
+---
+
+## Dennison the Jade
+
+Dennison the Jade was a devotee of Lathander who served the city of Myth Drannor as the senior priest in the late 7 and early 8 centuries DR.
+
+History
+By the advent of the Weeping War in 711 DR, Dennison the Jade had served the city of Myth Drannor for over twenty years. He stood side-by-side with the defenders of the city facing the Army of Darkness. All throughout the final years of the city, Dennison meticulously documented the events of the war and marked the locations of magic item caches hidden across the city by the surviving defenders.
+
+Dennison fell alongside his fellow defenders of the city. But, before he did, according to stories, his fellows ripped his enchanted book Testament of Jade to pieces, to protect the information inside from the Army of Darkness.
+
+Possessions
+Dennison was in possession of a book, the Testament of Jade, which was used by him to collect devotions and testimonies dedicated to Lathander. Somehow the book was imbued with divine magic via blessings of the deity or from exposure to the wild magics of the war.
+
+Appendix
+Appearances
+Adventures
+
+Pool of Radiance: Attack on Myth Drannor
+References
+
+---
+
+## Deathjump spider
+
+Deathjump spiders were a species of huge spider that appeared in the Realms following the Spellplague.Though not stated to be a "huge spider" in its Monster Manual entry, both the size and traits of this species match up with the defining traits of "huge spiders."
+
+Abilities
+These spiders could not spin webs, though they could leap great distances and were skilled at landing softly. Like many spiders they had poisonous fangs. And they viewed their surroundings through tremorsense.
+
+Combat
+Being unable to spin webs, these feral hunters relied upon ambushing their prey. They would lie within dark crevices, large trees, or underneath a thin layer of dirt and leaves that resembled a trapdoor. Once their prey was in range a deathjump spider would leap upon them.
+
+History
+In the late 15 century DR, deathjump spiders could be found beneath the ruins of Cragmire Keep, inside the Cragmire family's crypts, as well as around the the Ebon Downs. Around that time they could also be found in the pit fights conducted by the Gray Wolf tribe in Vellosk.
+
+In the, an expedition of drow slavers from House Xorlarrin laid siege to a small farming town in Rothé Valley and employed many spiders in this effort, including deathjump spiders.
+
+Ecology
+Habitats
+In the Sword Coast North these creatures could be found in Neverwinter Wood, in the Sword Mountains, and throughout Silverwisp Swamp. They could also be within Toril's Underdark.
+Relationships
+Deathjump spiders were sometimes found in the company of ettercaps. The drow members of House Xorlarrin were known to use them. And the driders of the drow city of Tel Verinal, deep beneath the western end of the Moonsea, commanded small obedient packs of deathjump spiders..
+
+Appendix
+Notes
+
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Dethek: Dialects and Diction
+
+Dethek: Dialects and Diction was a book all about Dethek, the runic script of the Dwarven language, and its unique style of phrasing and writing. Among its contents was a guide for translating Dethek into the alphabet of Common.
+
+Description
+The book was a rather large, weighty tome with a bright green cover.
+
+History
+One copy of this tome laid within Bard Keep, a temple of Oghma that stood within the North near Silverymoon.
+
+Appendix
+Appearances
+Adventures
+Dungeon #29, "Ex Libris"
+References
+
+---
+
+## Demonweb terror
+
+Demonweb terrors were a species of monstrously sized spider native to the Demonweb Pits of Lolth.
+
+Abilities
+These creatures had a poisonous bite, but could also spray their venom at prey.
+
+Combat
+Demonweb terrors would use their webs to immobilize prey as they moved around and made bite attacks. Once a victim was slain, they were not above retreating with the corpse to feast upon it.
+
+Society
+Homelands
+Though native to the Demonweb Pits, over time these creatures managed to find their way into the Elemental Chaos and the Prime Material plane.
+Languages
+These creatures were capable of speaking Abyssal.
+Relationships
+These creatures were sometimes seen in the company of driders.
+
+Appendix
+Appearances
+Video Games
+Dungeons & Dragons Online: Menace of the Underdark  • Sword Coast Legends
+Board Games
+Dungeon Command: Sting of Lolth
+Miniatures
+Dungeons & Dragons Miniatures
+
+References
+
+Connections
+
+---
+
+## Deeping Cave
+
+Deeping Cave was a cavern in Kryptgarden Forest on the Sword Coast North. It was the lair of the green dragon Claugiyliamatar, a.k.a. Old Gnawbone, but its name came from local humans, who named it for some forgotten reason before Old Gnawbone arrived.
+
+Geography
+Deeping Cave lay in Kryptgarden Forest, at the end of a deep ravine that ran from one of the mountains that bounded the old, thickly grown woods to the north. Several tombs and abandoned dwarfholds, including the infamous ruins known as Southkrypt, were in the nearby mountains. The cave's entrance was at the end of a gloomy vine-filled gully that contained old oaks and duskwoods. The cave was close enough to civilization that it was likely to be discovered by adventurers with some regularity.
+
+Description
+Old Gnawbone's lair contained creeping phosphorescent lichens, giant toadstools, and hanging mosses draped over more than a dozen statues of imperious human women (mostly warriors) looted from tombs. At the back, Old Gnawbone rested in the dark on her bed of coins (which weren't that much for a dragon of her stature, since she valued other things more). She also had an alcove with her glowing crystal balls where she spent hours scrying.
+
+Defenses
+Old Gnawbone employed humans and woodland creatures to guard her lair and lead intruders astray with sound-based illusions into traps or the perils of another nearby cave. One reason she did not mate was that she did not want any male dragon to have too much knowledge of her lair and defenses.
+
+History
+Sages believed that Old Gnawbone arrived in Deeping Cave in the .
+
+At some point, Old Gnawbone emerged from her lair in Deeping Cave, picked up a boulder from the nearby mountains, and dropped it on a sleeping red dragon, Smergadas, whom she had been scrying on. That rock became Lance Rock, a landmark west of the Long Road south of Red Larch.
+
+Old Gnawbone temporarily left Deeping Cave after tricking Lord Brokengulf and drawing the ire of Waterdeep. She brought her loot to Neverwinter Wood just as she knew another green dragon, Endracritar, would be entering Kryptgarden Forest. After Endracritar was killed by Waterdhavians, Old Gnawbone returned to Deeping Cave.
+
+Inhabitants
+The dragon Old Gnawbone resided here, along with at least one human male servant. This was always a man clad only in (fake and decorative) manacles and chains. He oiled her scales with tree-sap and ointments made from leaves, fungi, and roots. She was also visited by agents under her employ.
+
+Appendix
+Appearances
+
+Adventures
+Sleeping Dragon's Wake
+
+Storm King's Thunder
+
+References
+
+---
+
+## Decampus
+
+Lady Decampus, who became known as the Singing Lady, was a Netherese arcanist and a bard who developed the alarm spell.
+
+Description
+Decampus was a skilled spellcaster, though she wasn't as smart nor as interested in magic as a lot of her peers.
+
+Possessions
+Lady Decampus owned a mithral harp that was given to her by the elves of Cormanthyr.
+
+Activities
+The arcanist-bard was caring of others and traveled around Netheril with her bardic apprentices. Together, they listened to the stories of villagers and even used their magical prowess to aid these small communities. Due to these acts, she became known as the Singing Lady.
+
+History
+Decampus was born in . At the young age of thirteen, the talented arcanist developed the alarm spell. After this, she travelled to the well-known enclaves of Ioulaum and Seventon to study at the universities there. However, she became weary of the conflicts between the power-hungry arcanists. Thus, in, she left Ioulaum's enclave and became a wanderer. In a spell battle with archwizard Delzjhava, the Singing Lady died in  at the old age of 416.
+
+Appendix
+References
+
+---
+
+## Delzjhava
+
+Delzjhava was a Netherese archwizard.
+
+Description
+Delzjhava inhabited the frontier of Netheril.
+
+History
+In, another arcanist, Decampus, wandered Netheril. Upon reaching the frontier, the two engaged in a spellbattle. Delzjhava won the battle and Decampus was slain.
+
+Appendix
+References
+
+---
+
+## Dethed
+
+Dethed the Death Lich was a Netherese arcanist and lich who formulated several death-based spells.
+
+Personality
+The Death Lich was obsessed with death. He spent much of his life in an isolated environment studying death magic in the enclave of Ioulaum. Dethed devoted much of his life to creating spells that trapped and killed living beings, which he enjoyed a great deal.
+
+History
+Dethed was born in . At only 25 years old, the talented arcanist turned himself into a lich. In his undead state, the arcanist developed multiple spells, including clone, trap the soul, circle of death, and finger of death. Dethed's deathly antics finally caught up to him in . As he took no students of his own, he performed spells on an apprentice of another Netherese arcanist. Dethed took control of the apprentice with his trap the soul spell, which was frowned upon by the enclave's archwizard, Ioulaum. Ioulaum himself killed the Death Lich after he found this out.
+
+Appendix
+References
+
+---
+
+## Devlin Patchwerk
+
+Devlin Patchwerk was a member of the Shadow Thieves and brother of Mishad Patchwerk who resided in the stronghold within Undermountain in the mid–14 century DR.
+
+Personality
+Devlin Patchwerk was rude but not aggressive like many of his guild-mates. He was not the smartest person in the dungeon and could be easily misled to reveal the illusion hiding the Shadow Thieves' stronghold entrance.
+
+History
+In 1370 DR, Devlin Patchwerk was stationed in the caves to guard the Shadow Thieves' hideout entrance. The guild was thought to be purged from Waterdeep, but in secret, they'd established a base of operations under the City of Splendors in one of the top layers of Undermountain. When the guild's return was discovered by Khelben Arunsun, he knew it was an immediate danger to the Lords of Waterdeep, and he outfitted a lone adventurer to uncover the thieves' base, marked with a holy symbol of Mask. The adventurer encountered Devlin Patchwerk standing guard, who was easily misled into revealing the stronghold entrance.
+
+Appendix
+Appearances
+Video Games
+Descent to Undermountain
+References
+
+---
+
+## Devana Melshimber
+
+Devana Melshimber, formerly Devana Perrentine of Tilverton, was a noblewoman who married into the Melshimber noble family of Waterdeep in 1370 DR.
+
+History
+Devana and Rivven Melshimber held their marriage ceremony in Waterdeep in 1370 DR. Devana's sister, Tryola Perrentine, disappeared on her way to the City of Splendors and was presumed dead. Several months after her disappearance, Tryola resurfaced after being kidnapped by a band of orcs and held in an ancient prison complex within Undermountain. The rescuer was a lone hero, tasked by Khelben Arunsun with investigating the  prison and its connection to the brewing drow plot against Waterdeep.
+
+Appendix
+Appearances
+Video Games
+Descent to Undermountain
+References
+
+---
+
+## Deepwater Harbor
+
+Deepwater Harbor, also known as Waterdeep Harbor, was a natural basin of the Sea of Swords off the Sword Coast North that gave the city of Waterdeep its name.
+
+Description
+Thanks to continuous efforts by the Guild of Watermen and its merfolk population, the cold waters of Deepwater Harbor were exceptionally clean.
+
+Geography
+Deepwater Harbor was enclosed by Deepwater Isle to the south and Stormhaven Island to the west. It was divided into two parts: the Great Harbor, where all trade and general seafaring traffic took place, and the Naval Harbor, which was restricted for the City Navy. The harbor was considered part of the Dock Ward of Waterdeep.
+
+The rocky bottom of the harbor was covered with a thin layer of mud that became thicker towards the south. The sea floor sloped down southward and rose in the eastern and western directions, forming a lopsided bowl shape.
+
+Geographical Features
+From the west, Deepwater Isle provided a natural protection from harsh weather. South of the island, a formation of sharp rocks known as the Sea Stacks provided another natural barrier against the approach of ships. Northeast of Deepwater Isle, the sea floor sloped abruptly into a great depth in the area known as Umberlee's Cache.
+
+Trade
+
+Groups of locathah and merfolk visited the communities at Deepwater Harbor regularly to trade.
+
+Defenses
+Surface access to Deepwater Harbor from the Sea of Swords was controlled by mariners of the City Guard, who operated walls and retractable chain nets that could block the harbor if necessary. Underwater access both from the sea and from the city's sewer exits was patrolled by a group of hired merfolk from the village in Deepwater Isle, whose watches regularly covered up to  off the western shore of Deepwater Isle and up to  north of Stormhaven Island. They were considered members of the Guard, but employed their own weapons and tactics independently. Unauthorized lizardfolk and sahuagin coming into the harbor were attacked on sight.
+
+In exchange for protection and cleanup of the harbor, the Lords of Waterdeep paid the merfolk generously in the form of food, medical supplies, and trade bars. The merfolk could also be hired for the recovery of sunken vessels or cargo and other services.
+
+Under the Waterdhavian Code Legal, illegal entry into Deepwater Harbor was punishable by banishment from the city for one year, as well as a fine of 500 gp.
+
+History
+Regular meetings at Deepwater Harbor began in, as southern and northern human tribes gathered there annually to trade. The first permanent settlements dated back to  in what would later become the city of Waterdeep.
+
+In the, the village of Tharqualnaar was founded by merfolk settlers.
+
+The harbor fortifications were built between  and, culminating with the official establishment of the city of Waterdeep on Midsummer of that year.
+
+In Alturiak of the, a small group of aquatic elf refugees settled with the merfolk in Deepwater Harbor. The survivors were fleeing from a group of underwater predators driven into a frenzy. Although the reasons for the attacks were unknown at the time, the attackers were the vanguard of an army put together by Iakhovas and the incident was a prelude to a full-scale assault and attempted invasion of the city in, in what would become known as the Deepwater War.
+
+Notable Locations
+ Boatscrape Cove, a beach where ships were cleaned of barnacles and other incrustations.
+ Deepwater Beach, a popular site for mermaids to flirt with members of the City Guard.
+ Deepwater Beacon, an underwater lighthouse that stood at the edge of Umberlee's Cache, giving off magical light that served as a guide for the merfolk patrols as well as ships navigating the harbor at night. The lighthouse building also served as storage and armory, as a guard post for the treasure in the trench below, and as a tether point for the giant sea horses that were employed as mounts by the merfolk patrols.
+ The Queenspire, a temple to Umberlee built on an outcropping that extended south of the South Gate.
+ Tharqualnaar, a merfolk village in a cave complex under Deepwater Isle.
+ T'Quession, a sea elf village founded by the refugees that fled from the Army of Iakhovas.
+ Umberlee's Cache, a system of caverns in the deepest part of the sea floor that was the destination of all treasure dropped into the harbor as tribute to Umberlee.
+
+Inhabitants
+The small colonies of merfolk and sea elves from Tharqualnaar and T'Quession provided volunteers to patrol and clean Deepwater Harbor. The merfolk used nets to catch debris coming from the sewer exits and transported them to the deep ocean. They also kept a garden near a hotspot by a rift on the sea floor, where they grew various species of underwater plants for food and fertilizer.
+
+Around the, the young bronze dragon Zelifarn moved into an underwater cave in the harbor. He started putting together his hoard by scouring nearby shipwrecks for treasure.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+FR:Port d'Aquafond
+Connections
+
+---
+
+## Deker
+
+Deker was a shepherd who lived in the village of Volkumburgh in the mid–14 century DR.
+
+History
+
+In 1358 DR, in the month of Uktar some time prior to the Feast of the Moon, Deker was clearing out the ruins known as High Pasture in hopes of constructing a new barn in its place. During this, one of his sheep walked up to and bit a runestick that made it seemingly disappear.
+
+Later a group of adventurers from Suzail, seeking out the scattered remains of Awtawmatawn on behalf of Amelior Amanitas, overheard residents gossiping about this incident while in the Crimson Wyrm. They came to inquire with him about it and Deker gladly obliged to show them the runestick.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+The Shattered Statue
+References
+
+---
+
+## Death Dells
+
+The Death Dells, also called Yeenoghu's Realm or the Seeping Woods, was the 422 layer of the Abyss. It was the realm of the demon prince Yeenoghu.
+
+Description
+The Death Dells were a sweltering realm lit by a low-hanging red sun. The central region was the Dun Savannah, inhabited by feral gnolls and dominated by Yeenoghu. It was bordered to the north by the Screaming Peaks, beyond which was Azael's Waste, the last remnant of the former ruler's realm and the one region that Yeenoghu could not shape to his will. The Seeping Woods proper formed the traditional western border to Yeenoghu's wanderings, while the Curswallow sea to the east touched upon the Abyssian Ocean.
+
+Notable Locations
+Yeenoghu's fortress was a massive iron construction pulled around his realm by innumerable slaves. It made stops at the three main encampments, Vujak-Sesko, Vujak-Riln, and Vujak-Kesk, as well as the Great Gate, a portal that could be manipulated to open to many Material worlds and which was used to resupply Yeenoghu with slaves, and Bechard's Landing, a spit of rock on the shores of the Curswallow where the ancient obyrith had spent millenia dying a slow death.
+
+Inhabitants
+The Death Dells were primarily inhabited by countless gnolls and other creatures that served Yeenoghu, such as hyenodons, hyenas, and shoosuvas. It was also inhabited less willingly by countless mortal slaves that served as laborers and food, some of whom were fortunate enough to escape.
+
+History
+In ancient times, the layer was ruled by the obyrith lord Bechard, who was eventually felled by tanar'ri treachery, his connection to the layer severed. After him the demon lord Azael ruled the layer, which became a vast desert of shifting dunes and ruined cities under his reign. However, after the bestial god-killer Ma Yuan briefly visited the layer, only an oily stain was left of Azael. Yeenoghu later rose to become the next ruler of the layer.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Devanto
+
+Devanto was a diviner and one of three minor wizards stationed at the enclave run by the young Red Wizard Hinnar.
+
+Description
+Devanto's body bore a magical tattoo from the Red Wizards that made divinations more difficult to resist.
+
+Abilities
+Devanto was tough, dexterous, and intelligent and was trained in alchemy, spellcraft, and the scribing of scrolls.
+
+Possessions
+Devanto carried a dagger and a small crossbow of superb craftsmanship.
+
+Devanto's spellbook contained 23 different spells.
+
+Activities
+Devanto spent most of the day's hours in the compound's main barracks scribing spells with other wizards.
+
+Appendix
+Errata
+The source lists ray of frost and burning hands as spells in Devanto's spellbook, yet evocation is a forbidden school for Devanto.
+
+References
+
+---
+
+## Demonomicon (disambiguation)
+
+Demonomicon could refer to:
+
+ The Demonomicon of Iggwilv, a tome on demonic lore;
+ Demonomicon, a 4‒edition sourcebook; or
+ Demonomicon of Iggwilv (column), a series of articles from Dragon magazine.
+
+---
+
+## Death magic
+
+Death magic was an effect that guaranteed death, usually immediately, though it was possible to resist it.Note that death magic was not specifically linked to necromancy. Several schools of magic utilized death magic, such as evocation, conjuration, abjuration, etc.
+
+Description
+Main Forms
+Death magic came in many forms, the most common of which were spells, such as finger of death, and supernatural creature abilities, such as a beholder's death ray. However, there were other forms of death magic, some embodied in magic items, some involving transportation to other planes, or otherwise. Most of these effects could specifically cause instant-death to an inhabitant if they failed to resist it. Death magic was not dependent on the amount of damage a spell or effect could deal. As such, a highly powerful fireball was not a form a death magic, even though it could kill most beings outright.
+
+Other Forms
+Almost all death magic caused instantaneous death. However, some forms, such as the effect of breath of death spell, instead instantly infected a being with a fatal disease. The infected beings were unable to heal naturally or via magical curing, meaning they would certainly die, unless they somehow found a way around it.
+
+Another form of death magic was noted to exist in Constabulary Branch One of Karsus Enclave in Netheril. A net of interwoven spells within this maze-like building could cause a refraction effect, causing the being to instantly undergo reincarnation.
+
+When travelling to the Ethereal plane, i.e., via blink or ethereal jaunt, it was possible to reappear inside of a solid object. Failing to resist this form of death magic would cause instant death, though managing to resist it would cause the affected being to plummet into the Deep Ethereal.
+
+Notable Death Magic Spells
+There were several spells that utilized death magic, such as finger of death, wail of the banshee, implosion, death spell, power word, kill, and black blade of disaster. Some of these spells drew magic from either the Negative (or positive) energy plane in order to harm good (or evil) creatures. Spells that involved death magic could be resisted by the death ward spell, as long as it was cast on the target beforehand.
+
+Some notable spells were:
+ Slay living, the reverse of raise dead, would instantly kill a target if they could not save themselves against its death magic.
+
+ The great circle spell, a very powerful spell that could only be cast by a group of of four or more priests. It instantly destroyed all lesser undead within a huge radius, though it was possible for other evil beings to resist the death magic. The opposite of this spell, the black circle, had a similar effect on goodly creatures, especially if they were paladins or good-aligned priests.
+
+Notable Death Magic-using Beings
+
+Creatures
+ Nabassu, known as death stealers, were able to "steal the death" of their victims via a deadly gaze. As such, the victims would not experience death at such a moment, but instead would become a ghast or a ghoul as soon as they were actually killed. The ghoul or ghast would become controllable by the nabassu. As the nabassu had already "stolen death", it was able to bestow the stolen death upon a victim, instantly killing them.
+
+ Ochimo, evil spirit warriors from Kara-Tur, whose gaze could capture the entire spirit of a being.
+
+Inhabitants
+ Tyranthraxus, the possessing spirit, was known to literally transfer his life force into anothers body.
+
+Notable Death Magic-immune Beings
+Creatures
+ Modanic and movanic devas, and solars, goodly outsiders that were immune to death magic in all forms.
+
+Inhabitants
+ Kamerynn, a highly intelligent, powerful, and death magic-immune unicorn that lived on the Moonshae Isles.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Denokanburi
+
+Denokanburi was a town and fortress in the Kuong Kingdom in Malatra. It stood where the Srelanat Road met the Kunong River.
+
+Economy
+A river port town, Denokanburi was where gems and precious metals mined around the kingdom were transferred to the capital city, Ranguri. A good deal of official business was done here in the mid–14 century DR.
+
+So too was a good deal of illegal business. The local jinyan engaged in smuggling and protection rackets and the Yalaj family dominated the town.
+
+Appendix
+References
+
+---
+
+## Derrnog
+
+Derrnog was a warrior and ruler of hill giants in the Plain of Standing Stones in the 14 century DR.
+
+Description
+Derrnog stood over  tall.
+
+Personality
+Derrnog was observed by Ibn Al'Arif as being surprisingly intelligent.
+
+History
+During his time as ruler the hill giants in the Plain of Standing Stones were frequently waging a concentrated war against the local hobgoblins, as well as attacks on the occasional fomorian.
+
+Appendix
+References
+
+---
+
+## Death Heart
+
+Death Heart, formerly known as the Heart of the Void, was a city located within one of the major doldrums of the Negative Energy plane. Considered a nexus of evil and undeath, it was largely unexplored by outsiders, with even the Doomguard and Dustmen fearing it. It was also considered to be one of the most stable locations within that plane.
+
+Description
+This city had many tall spired structures, plazas, squares, streets, and fountains. It stood within a metal sphere that was  in diameter, protecting the city from the baneful negative energy of the plane it floated in.
+
+History
+Death heart originated from a long dead, alternate Prime Material plane as an experimental utopian community free of other schools of thought. At some point it drifted into the Negative Energy plane, though some believe that it was an attempt to establish a colony within that plane. When it entered the Negative Energy plane the city was overrun by undead, who proceeded to feast upon the flesh and souls of its inhabitants.
+
+Over time various evil factions developed among the city's undead and they engaged in a near endless war with one other.
+
+At some point it became connected to Faerûn by means of a portal placed within a tunnel complex in the mountains of Thay by the necromancer Zzarka Tuzarr. She would occasionally participate in the warfare among the factions for the sole purpose of amusement.
+
+Inhabitants
+Death Heart was entirely inhabited by a wide variety of undead creatures. Most notably, several liches and powerful vampires claimed this place as their home.
+
+Rumors & Legends
+Some rumors claimed that this city was home to many of the most foul creatures of the multiverse.
+
+Rumors propagated by the mercane claimed that a vampiric minotaur brokered a peace among the various factions in Death Heart, encouraging further research into the nature of both the city and the Negative Energy plane.
+
+The mercane who propagated these rumors speculated that the vampiric minotaur sought to one day steer the city into another plane and wreak havoc with the city's undead.
+
+Appendix
+References
+
+---
+
+## Dendurg
+
+Dendurg Two-Axe was an ogre who laired within the ruins of Citadel Rashemar during the mid–14 century DR.
+
+Description
+He was a notable member of the Warband of the Citadel and among its most powerful combatants.
+
+Relationships
+The great giant served as the chief bodyguard of the durthan Chaul, the annis sorceress who took over as ruler of the citadel's ruins.
+
+Appendix
+References
+
+---
+
+## Delver
+
+Delvers were a species of subterranean aberrations.
+Description
+These creatures had huge teardrop-shaped bodies with rock-like skin, that was always covered in a mucus-like slime that it secreted. Almost the entire underside of their body consisted of their mouth. They had only two flipper-like appendages at the front of their body, with ended in blunt claws.
+
+On average a delver grew to be  in length and  wide, weighing on average .
+
+Behavior
+Delvers had a shy demeanor and were largely peaceful creatures, though there were cases of rogue murderous specimens.
+
+Abilities
+These creatures could see in areas of total darkness and sense vibrations in the earth. The slime that secreted from their skin was highly corrosive. This made it easier for them to burrow through solid stone, their mere touch being acidic, and they impervious to harm from acids. They could also temporarily alter their slime to soften stone instead of dissolving it, allowing them to manipulate it in a way similar to the spell stone shape. A large quantity of water (at least ) or a weak acid, such as vinegar, could wash off their slime.
+
+Combat
+Delvers fought by means of their huge blunt claws and corrosive slime. They preferred to fight from the safety of their tunnels, using them to protect their flank. If they anticipated a conflict a delver sometimes honeycombed their area with tunnels, leaving most of them closed with layers of stone that were  thick. Once the threat came near they would then dissolve their way through this thin stone cover to get the drop on them.
+
+Ecology
+These creatures typically left in their wake usable tunnels that were roughly  in diameter.
+Diet
+Delvers were a lithovorous species, subsisting upon primarily rock that they dissolved with their slime and then shoved under their bodies. They were even willing to eat some creatures of elemental earth, such as earth elementals and xorn.
+
+Much like how humans liked to add spices to their food, delvers enjoyed various non-metallic minerals as seasoning. Metals on the other hand acted as an intoxicant to them, which they could become addicted to.
+Languages
+Delvers typically spoke both Terran and Undercommon.
+Relationships
+Some adventurers were known to secure assistance or information from delvers in return for delicious minerals, usually in the form of gemstones and some coins.
+
+Delvers that became addicted to metals were known to menace both miners and anyone they came across that carried metal equipment.
+
+Appendix
+Appearances
+Adventures
+City of the Spider Queen
+Novels
+Ascendancy of the Last
+Video Games
+
+Baldur's Gate III
+
+References
+
+---
+
+## Death & Divinity: A Godly Guide
+
+Death & Divinity: A Godly Guide was a book that collected knowledge on the divine and its relation to gods of death and death itself, available in the late 15 century DR.
+
+Description
+Death & Divinity: A Godly Guide was a large and heavy tome. Its spine was decorated with an inked pattern of a chain of skulls.
+
+Content
+The book opened with an abstract that described the domain and portfolio of death being too powerful even for a single deity to hold, explaining how the domain was separated into smaller portfolios such as disease, war, funeral rites, and ceremonies. Furthermore, it discussed how the death portfolio itself had moved from one set of deities' hands to the next over the course of centuries.
+
+The following part of the book continued talking about Jergal and his reign as the god of death over several centuries. The tome stated that Jergal was weary of lording over death and eventually gave up his portfolio to the young and ambitious gods Bhaal, Bane, and Myrkul. The trio of the new gods splintered the death portfolio. The heavy burden subsequently was passed to Kelemvor.
+
+In conclusion, the book stressed that death is absolute and even gods could die. This was issued as a grim reminder to the worshipers of the gods of death.
+
+History
+In 1492 DR, a copy of this book was in possession of a druid named Tahan who was part of the Emerald Grove in the Western Heartlands.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+References
+
+---
+
+## Deneld
+
+Morale Officer Deneld was an officer of the Shining Crusade that served at their military headquarters at Dragonspear Castle during the mid–14 century DR.
+
+Description
+He was a charismatic man and a skilled orator.
+
+Personality
+Deneld was a proud devotee of the Shining Lady Caelar Argent and was quite knowledgeable about her and her cause.
+
+Possessions
+Deneld wielded a +1 enchanted shortsword and a +1 enchanted light crossbow in battle. He supplemented his martial armaments with a wand of paralyzation.
+
+Likely due to his unwavering devotion and commitment, Deneld was a proud owner of one of the rings of the Crusade.
+
+He also kept a shard that had broken off from the Altar of Tempus at the Hold of Battle Lions shrine.
+
+Activities
+In order to maintain morale among the crusaders, Deneld spent much of his time addressing the new recruits as they arrived at Castle Dragonspear. When he noticed individuals that showed real potential, he often had them speak to other crusaders and learn more about their shared cause and call to battle.
+
+As an officer he received daily reports about the status of the Crusade's efforts.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate: Siege of Dragonspear
+
+External Links
+
+References
+
+---
+
+## Deathfang
+
+Deathfangs were a type of undead created from the body of a flying snake.
+
+Description
+These creatures measured the same length as a flying snake, around, but they had bony wings that could not move as much air.
+
+Abilities
+Deathfangs lacked the acidic spittle of their living counterparts. Much like any undead they had an immunity to cold-based spells or abilities, as well as charm, hold, sleep, and death magic spells. Additionally, once they had their fangs sunk into an enemy a death fang could drain a foe of their positive energy.
+
+They could only be mentally controlled or influenced by the one who created them.
+
+Combat
+Deathfangs fought in a similar manner to living flying snakes.
+
+History
+In 1358 DR,This is derived from the date given in Cloak & Dagger for the death of Flaern Cragsmere, mentioned in the Undermountain Adventures booklet in this boxed set. deathfangs could be found in some of the monster filled pit traps of Undermountain.
+
+Ecology
+Creation
+There were a few different ways that a flying snake could be turned into a deathfang. One way, though rare, was by being killed by a vampire or greater undead. Another means was by evil priests and wizards with specialized knowledge, using spells such as create undead.
+Habitats
+The use of death fangs in the Realms was largely limited to Calimshan and other areas in Faerûn that were south of the continent's northwest region.
+Relationships
+Some evil-aligned necromancers took on deathfangs as familiars. And the serpent god Sseth was known to use them as servants, working through them.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+The Ruins of Undermountain
+References
+
+Connections
+
+---
+
+## Demeter
+
+Demeter  was a multispheric interloper goddess of fertility and agriculture from the Olympian pantheon. There was no evidence that this deity was directly worshiped in the Realms.There were no known worshipers of Demeter in the Realms. However, Demeter is mentioned in On Hallowed Ground as having a good relationship with the Faerûnian goddess Chauntea. For this reason, Demeter is documented in this article.
+
+Description
+
+This goddess generally appeared in the form of a beautiful, motherly woman that was draped in robes whose colors varied depending upon the season. A lush green hue for the spring and summer, a golden hue for autumn, and a brown or black hue in the winter. Her avatar also sometimes took the form of a mare.
+
+Personality
+Demeter was a generally benevolent deity and almost never held grudges.
+
+Abilities
+Demeter had some resistance to harm from fire. She could cast at will the spells teleport without error and plane shift. She was able to perceive anything within  of worshipers, holy sites, sacred objects, as well as any location where her name or one of her many titles had been spoken in the last hour. And could sense anything that affects cultivated crops the instant it happened.
+
+Demeter was capable of shapechanging at will, in a manner similar to the wild shape ability of druids. She could take the form of all but gargantuan animals, including dire animals, six times per day. While she could take the form of an elemental three times per day. At will she could also polymorph others and create any type of weather for any length of time.
+
+Demeter could summon, control, and speak with any type of plant or animal she willed. She was also capable of creating any magical item that commanded or controlled plants, but these never exceeded a value of 30,000 gold pieces.
+
+Her avatar form was capable of casting spells from the spheres of animal, elemental, healing, and weather. Some claimed she could also cast spells from the school of illusion, though this was uncertain.Legends & Lore (2nd edition) states that she can cast spells from the illusion school of magic, but Deities and Demigods states that she is prohibited the use of such spells. Some of the many spells her avatar form was capable of casting included the following:
+
+antimagic field, barkskin, changestaff, command plants, control plants, earthquake, elemental swarm (as an earth spell only), entangle, iron body, magic stone, mind blank, plant growth, prismatic sphere, protection from elements, repel wood, repulsion, sanctuary, shambler, shield other, soften earth and stone, spell immunity, spell resistance, spike stones, stone shape, stoneskin, wall of stone, and wall of thorns.
+
+Possessions
+Demeter possessed a chariot that was pulled by two ancient green dragons.
+
+She wielded a longspear that was made of ash wood and carried a +2 enchantment, though in later years this enchantment was enhanced to a +5. Additionally, her spear's enchantment made it so that trees would sprout from any wound made by it.
+
+Realm
+Demeter lived in a rather common-looking cottage amidst an immense field of golden grain in the divine realm known as Olympus.
+
+History
+Demeter was among the first six Olympians, born to the Greater Titan Cronus. After a curse was placed on him by his mother, swearing that one day his children would usurp him, Cronus proceeded to swallow Demeter alongside four of her siblings — Hades, Hera, Hestia, and Poseidon. Her sixth sibling, Zeus, would be smuggled away and years later return to free them all from their imprisonment.
+
+Demeter went on to be the wife of Poseidon for a time, eventually parting ways as he took up residence in Aquallor. She then went on to marry Zeus and bore him a daughter named Persephone. This child would later be abducted into the Underworld by her brother Hades, after having obtained permission from Zeus to marry her. Hearing his daughter's cries for help Demeter ran off in search of her, doing so for nine days before she learned that Hades had taken her. She went into mourning, wandering listlessly for some time, until resorting to preventing the growth of the crops of Olympian worshipers until Persephone was returned. However, Persephone had already sealed her fate by partaking in the food of Hades's realm. Zeus would intervene in the matter, brokering a compromise that allowed Persephone to spend part of her time in the underworld and part of her time in Olympus, what mortals would consider equivalent to six months.
+
+Demeter would go on to mourn the loss of Persephone every winter, during which time the crops of Olympian worshipers would not grow, and hold a longstanding grudge against Hades for what he had done.
+
+Relationships
+Throughout their time knowing each other, Demeter had always gotten on well with the Faerûnian goddess Chauntea.
+
+Her favored proxy was a human by the name of Triptolemus. He drove a chariot pulled by a pair of bronze dragons and scattered grain seeds wherever he went.
+
+Appendix
+Notes
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Decliz Ben'Zarafez
+
+Decliz Ben'Zarafez was the matron mother of House Ben'Zarafez until the early 12 century DR.
+
+Activities
+Decliz ruled House Ben'Zarafez in Menzoberranzan, a high-ranking house that was slowly declining. In 1118 DR, Decliz tried to regain her fortune by hiring large numbers of mercenaries, but her plot backfired and Matron Malice Do'Urden decided to obliterate the old House.
+
+Zaknafein Do'Urden, leading the Do'Urden army, stormed the Ben'Zarafez castle and confronted Matron Decliz. Matron Decliz offered no defenses and wanted to die in order to finally meet Lolth. To this end, she had sacrificed her two young children to the goddess. In a rage, Zaknafein beheaded Decliz and presented her head to Briza Do'Urden.
+
+Appendix
+Appearances
+Novels
+Boundless
+
+References
+
+---
+
+## Dempster Turmish
+
+Dempster Turmish was the Turami founder of the nation of Turmish.
+
+Relationships
+He was married to Florentine Turmish.
+
+Abilities
+Dempster was a competent military commander.
+
+History
+Dempster Turmish was a young nobleman of Alaghôn who'd operated as a mercenary captain, selling his mercenaries' services to the highest bidders. After years of building up his forces, he used his mercenary army to attack two rival nobles of Alaghôn. After a short but bloody civil war, Dempster emerged unopposed as ruler of the proud city and named himself mayor in the .
+
+He quickly embarked on an expansionary military campaign, seizing control of the lands surrounding Alaghôn all the way to the lowlands outside of Hlondeth.
+
+However, despite repeated attempts he was unable to conquer the city, and died in his sleep in the, while preparing for yet another invasion.
+
+Appendix
+
+References
+
+FR:Dempster Turmish
+
+---
+
+## Delsendra Amzarr
+
+Delsendra Amzarr was a warlord in the Sword Mountains who ruled from Icespire Hold.
+
+Possessions
+Delsendra used an elegant-looking non-magical greataxe as her weapon. After her death, it was looted by the orc war chief Kra.
+
+History
+Icespire Hold, a well-protected stone fortress on Icespire Peak, was built by Delsendra Amzarr. She lived there for many years and kept the orcs of the Sword Mountains at bay. Eventually, a very harsh winter ended her reign. The extreme weather cut off the supply chains and Delsendra and her soldiers were trapped in the fortress and were starving. In their desperation, some of her followers rebelled against her. Delsendra was able to quell the uprising but with no chance of survival, she then committed suicide by drinking poison.
+
+Emblem
+Delsendra Amzarr's emblem was a shield-shaped crest with a black tower being struck by a golden bolt of lightning.
+
+Appendix
+Appearances
+Adventures
+ Dragon of Icespire Peak
+
+Notes
+
+References
+
+---
+
+## Dekanter
+
+Dekanter, formally the Mines of Dekanter, were ruins found beneath the Graypeak Mountains in the Savage Frontier.
+
+Description
+
+Dekanter was once a mine of Netheril. It has since fallen into ruin. The legacy of Netheril remains within the ruins as the dangerous side effects of powerful spellcasting.
+
+Dekanter's main chamber was built as an enormous amphitheater built to giant-sized scale. The center of the bowl-shaped cavern was about  wide, surrounded by five receding levels each at least  high and just as much wide. Human-sized stairs crisscrossed the tiers all the way up to their uppermost level.
+
+Side chambers in the mines were marked by Dethek inscriptions, and decorated with grand paintings depicting scenes from the oldest epic stories of the Realms. The tunnels that interconnected these chambers were difficult to navigate and nearly impossible to map out, as every rainfall caused some of them to close down or collapse, while others became open.
+
+Geography
+Dekanter was located west of Anauroch and to the south of Weathercote Wood in the eastern foothills of the Graypeak Mountains. The crumbling ruins were surrounded by low hills. As of the mid–14 century DR, the Dawn Pass Trail passed through the Graypeaks near the entrance of the mines. As of the 15 century DR, it lay on the western border of the reborn Empire of Netheril.
+
+Flora & Fauna
+The ruins of Dekanter was home to beholders, gargoyles, gnolls and goblins.
+
+History
+In, Dekanter, a Netherese miner, discovered a massive deposit of gold, iron, mercury, platinum and silver. Netheril quickly established the mines of Dekanter, named after its discoverer. Dekanter was an incredibly successful mine, triggering the beginning of the Silver Age of Netheril. It provided Netheril with a significant amount of their mineral resources.
+
+By, all the minerals were extracted and it became a sort of laboratory for Netherese mages. Since the mine was able to isolate the potentially negative effects of a spell, it was used as a testing ground for new spells. It was also used as a storage facility for magical items. It was abandoned with the fall of Netheril.
+
+For centuries war was waged within Dekanter between different factions of goblinoid communities. The severity of these conflicts ebbed and flowed throughout the years.
+
+During the Era of Upheaval, beginning in the, the war within Dekanter spilled out beyond the mines into the surrounding mountains. Around this time they were were also used as a site for the Zhentarim to conduct their slave trade. Within ten years, the war had become out of control, spilling out into the surrounding mountains and sending hundreds of goblin refugees to nearby human settlements.
+
+In the, a group of travelers ventured into Dekanter and recovered one of the fabled Nether Scrolls from the clutches of the mysterious cult leader that took over as ruler of the ruins' goblin population.
+
+The lure of lost Netherese magic meant that the mines remained a draw for adventurers well into the late 15 century DR despite the many dangers.
+
+Rumors & Legends
+It was rumored that Dekanter was the location of an entrance into a vast subterranean land beneath Faerûn.
+
+Inhabitants
+Dekanter was home to a particularly nasty and sinister beholder who was an agent for the Zhentarim. It guarded the Dawn Pass, with the aid of its gnoll minions, for the Zhentarim, allowing only Zhent caravans to use the pass to cross through the Greypeak Mountains.
+
+The mind flayer known as the Beast Lord was known to have its lair in the ruins of Dekanter. Within its lair, the Beast Lord created twisted monsters, such as bulettes, stegocentipedes, peryton, beholders, and mongrelmen. One of his most famous creations were the Dekanter goblins. To aid the illithid in his war in the North, the Beast Lord had an army of 500 goblins and 50 gargoyles.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Dead march
+
+Dead march was a divine magic spell available to priests of Kelemvor.
+
+Effects
+When cast, the spell animated multiple corpses or body parts. The amount was determined by the caster's skill level. In a graveyard, corpses as deep as  could be used for the spell. The spell did not grant undeath, nor did the animated corpses posses any sentience or hostile intent.
+
+The animated corpses or body parts were controlled by the caster's will. The spell continued if the caster began casting another spell. Animated corpses could walk underwater or even right off a cliff, they would continue walking in whatever direction the caster sends them.
+
+Since they were not undead, the animated corpses were immune to any spell that affected or controlled the undead. Nor could they be turned.
+
+Common uses for this spell included dressing the animated corpses in uniforms to deceive a foe, or using them as a form of light transport.
+
+History
+This spell was inscribed within the Kelemvorite relic the Testament of Vraer.
+
+Components
+In addition to verbal and somatic components, this spell required material components, a drumstick or a chicken's leg and a length of thread.
+
+Appendix
+References
+
+---
+
+## Deny death
+
+Deny death was a divine magic spell available to priests of Kelemvor.
+
+Effects
+When cast, the spell placed an injured individual into form of suspended animation. This prevented any further loss of blood or vital fluids, and also prevented any poisons or toxins from spreading further in the body.
+
+The individual had to be willing. The spell did not function on a hostile target who was still conscience. It also had no effect on an individual who was under the effects of charm or sleep, both magical and psionic.
+
+Once under the influence of the spell, the individual did not receive any harm from nonmagical attacks. This allowed the grievously wounded individual to be transported quickly over rough terrain without their condition deteriorating further.
+
+Only the caster could terminate the effects of the spell. The en-spelled individual could not wake up on their own or be roused by another individual.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+References
+
+---
+
+## Deepfire liniment
+
+Deepfire liniment was a type of oil-based external medicine used to relieve stiffness, aches, and pains of old wounds.
+
+History
+Circa 1348 DR, Maglor the Apothecary, secretly an agent from Zhentil Keep, in the town of Eveningstar of Cormyr, concocted medicines for the locals, including deepfire liniments. One of his regular clients was an old warrior named Beldrak, who used deepfire liniments to soothe his old aching wounds.
+
+Appendix
+Appearances
+Novels
+''Swords of Eveningstar
+
+References
+
+---
+
+## Derezdreene
+
+Derezdreene was an older actress and a companion who worked at the Dryad's Dreams of Mosstone in Tethyr.
+
+Description
+Derezdreene was an aged tall matronly woman with white hair. She carried herself with pose and sophistication worthy of a queen.
+
+History
+Derezdreene was one of the female escorts who worked at Dryad's Dreams in the late 14 century DR, along with several men and women who offered their services and companionship at the only festhall in Mosstone. She was renowned for her acting and was often hired exercise this talent by performing a role of someone's visiting mother, a noblewoman, or, on occasion, an exiled monarch of a faraway land.
+
+Appendix
+References
+
+---
+
+## Devuri
+
+Devuri was a crayfish hengeyokai shukenja and priest of the Lords of Creation in the town of Kataburi in the Kuong Kingdom in the mid–14 century DR. He was previously an adventurer.
+
+Activities
+Circa 1357 DR, Devuri led the town's temple to a local river spirit, who was believed to bless Kataburi with its giant crayfish. He had many contacts with fellow water-dwelling creatures of the river.
+
+Some, such as the old nun Ama, didn't like that Devuri was employed as a priest and thought he wasted too much of his time in the river, but this was likely prejudice.
+
+Appendix
+References
+
+---
+
+## Demiplane of Imprisonment
+
+The Demiplane of Imprisonment was an extremely obscure demiplane. Very little was known about it.
+
+Geography
+The demiplane resembled a crystalline cyst floating through the Ethereal Plane. The ether for  around the demiplane continuously manifested dreamscapes for the nightmares that an intelligence within sent around the multiverse to its would-be worshipers; these were dominated by purple eyes, mouths, veined whirlpools, and dark humanoid figures. The visions continuously attempted to goad, tempt, and seduce travelers into touching the crystal, which would trap them in the demiplane.
+
+History
+Sometime after, the archwizard Madryoch was banished to this demiplane. The plane was rediscovered later by Netherese arcanists following up on the work of the archmage Shadow; a handful of them became imprisoned in it. Shadow himself used assassins he caught alive as exploration guinea pigs, making them touch its surface; he never managed to retrieve them afterwards.
+
+Inhabitants
+People who touched the crystal were absorbed into the demiplane. No one could leave on their own power; it took a spell like wish or miracle from someone outside the demiplane to escape. Those removed would be under the effects of an insanity, that could be healed in the same ways as the effects of the spell of the same name.
+
+The archwizard Madryoch had been banished to this demiplane. Madryoch's essence later escaped the imprisonment, instead being trapped in the Plane of Shadow.
+
+Legends
+The Demiplane of Imprisonment was a legend even to the gods. According to its legend, an irredeemably evil creature and its servants had been banished from all of reality to the Negative Material Plane by the gods that came before the gods, with this demiplane housing remnants of their forces.
+
+The color of this demiplane's ethereal curtain was unrecorded. Travelers were recommended not to cross color pools of unrecognized color, lest they accidentally find themselves here. Most realms had similar legends about a demiplane of this nature, with the local theology substituted, having all come together to imprison there what remnants of the evil force they could not or would not completely annihilate.
+
+Appendix
+References
+
+---
+
+## Deep red ioun stone
+
+Deep red ioun stones were highly sought-after enchanted gems that circled their master's head and granted them increased dexterity.
+
+Description
+Ioun stones possessed different shapes, colors, and properties. These deep red round and polished gems resembled droplets of dried blood.
+
+Powers
+Once activated, these magic stones floated around their owner's head. Deep red ioun stones enchanted their owner's dexterity, hand-eye coordination, and reflexes.
+
+History
+One deep red ioun stone of note was created by a gnomish master thief sometime before 1281 DR. His ioun stone, along with the gnome's skull remnants, was retrieved from inside a giant clam in the Sea of Swords, off the Sword Coast. Since then that stone changed many owners, including hunters, weavers, and even one especially narcissistic harpist. By 1281 DR, this deep red ioun stones was in possession of an evil necromancer Presio who served Yxunomei in her lair within the  Dragon's Eyeon the Spine of the World. After Presio's death, the stone was picked up by the heroes of Icewind Dale.
+
+In 1358 DR, a deep red ioun stone could be found within a deadly ghost-infested ruined Valhingen Graveyard of Old Phlan.
+
+Notable Owners
+Individuals
+Thogaf: a wizard who found himself imprisoned in the Fortress of the Five Vultures in Calaunt in the 14 century DR.
+
+Organizations
+Fire Knives: in the 14 century DR, a deep red ioun stone was part of the Assassin's Guild's treasure trove underneath the city of Tilverton.
+
+Appendix
+Appearances
+Adventures
+Ruins of Adventure
+Video Games
+Curse of the Azure Bonds • Icewind Dale series (Icewind Dale • Icewind Dale: Enhanced Edition) • Neverwinter Nights series (Neverwinter Nights • Neverwinter Nights: Tyrants of the Moonsea) • Dungeons & Dragons Online • Baldur's Gate: Siege of Dragonspear
+Card Games
+AD&D Trading Cards
+
+References
+
+---
+
+## Dekanter (person)
+
+Dekanter was a famous explorer miner, whose endeavors commenced off the Silver Age of Netheril.
+
+History
+In the, Dekanter discovered great wealth of valuable minerals beneath the Greypeak Mountains for the empire of Netheril. Among the riches found beneath the mountains were veins of iron, silver, gold, platinum, and mercury. The mines of Dekanter were formed in his name, and dwarves were enlisted to extract the minerals for the empire's use. Thus began the Silver Age of Netheril.
+
+Appendix
+Appearances
+Novels
+
+The Nether Scroll
+
+References
+
+---
+
+## Demon stone
+
+A demon stone was a magical tool used in the binding and summoning of extraplanar outsiders.
+
+Description
+A demon stone was a large cut crystal or gemstone, approximately 1 foot (30.5 centimeters) long and 3 inches (7.6 centimeters) in diameter. When being used as part of a spell or ritual, a demon stone would glow prismatically.
+
+Powers
+While the full extent and utility of a demon stone is unclear, they were broadly useful in the binding and summoning of powerful beings from outside the Prime Material plane.
+
+A demon stone was capable of imprisoning even extraordinarily powerful extraplanar creatures, but only under strict conditions. At least two such beings had to be trapped simultaneously, and these beings had to be hostile toward each other. The essences of these outsiders would then be trapped inside the demon stone in an endless battle while skeletal placeholders of their physical bodies remained in stasis outside with the demon stone hovering above them. The stone could then be warded or protected to keep the outsiders trapped. However, powerful outsiders were still able to reach out and manipulate mortals while imprisoned.
+
+History
+At some point in the mid-to-late 13 century DR, a demon stone was used by Khelben "Blackstaff" Arunsun to trap the githyanki general Cireka and the slaad lord Ygorl when the two's extraplanar armies clashed in the Rawlinswood and threatened to overrun all of Faerûn. The two were trapped inside the stone, with their bodies safely hidden behind magical barriers within the Gemspark Mine in Damara, for nearly a century. They were freed thanks to the machinations of Ygorl, who managed to reach out from the prison and lure three adventurers—Illius, Rannek, and Zhai—to the mines and trick them into breaking the wards around the demon stone.
+
+In the mid-to-late 14 century DR, a yuan-ti temple to Merrshaulk in Chult incorporated a demon stone into their ritual sacrifices. They used it to open a portal through which a demonic aspect of their god could enter the Prime Material plane and gorge himself on living sacrifices. This demon stone was taken from the temple by Illius, Rannek, and Zhai, who sought to use it to once again trap Cireka and Ygorl. However, Ygorl succeeded in killing Cireka before the two could be imprisoned again, thus rendering the demon stone useless to the three heroes and forcing them to fight the slaad lord directly.
+
+Notable Owners of Demon Stones
+ Illius of Silverymoon
+ Khelben Arunsun
+
+Appendix
+
+Appearances
+Video games
+Forgotten Realms: Demon Stone
+
+References
+
+---
+
+## Demoncyst
+
+Demoncysts were pockets of the Hidden Layer, the 248 layer of the Abyss, that had become linked to the Prime Material plane and scattered across the Demonlands.
+
+Description
+Demoncysts were enclosed spaces containing fragments of the Hidden Layer, a barren and rocky plane of violent lightning storms. The cysts were typically 100 feet (30.5 meters) or more in diameter. The Abyssal environment inside them did not interact with the surrounding terrestrial environment (and vice versa), although creatures could freely pass into and out of them. Thus, each demoncyst appeared as a fully self-contained cavern or bubble of the Hidden Layer's weather and topography.
+
+Geography
+Demoncysts were scattered across the Demonlands of northeast Faerûn. They were mostly concentrated beneath Narfell, the Great Dale, and Thaymount, but extended as far west as Vaasa. They were often buried underground, and could be found beneath Damara, Impiltur, Thesk, and the tharch of Priador in Thay.
+
+History
+The demoncysts first appeared circa, when Eltab was summoned by Narfell to fight in the Great Conflagration against Raumathar. Somehow, this summons also bound pieces of his Abyssal realm, the Hidden Layer, to the Material Plane, and these pieces became scattered across northeast Faerûn. The locus of this binding of the two planes was a calling circle called the Adamantine Binding inside Eltab's palace, which was located inside the largest demoncyst, known as the Hall of the Hidden Throne, in the depths of the Citadel of Conjurers.
+
+After the fall of Narfell in -150 DR, Nar demonbinders placed calling diagrams within many demoncysts, imprisoning their fiendish occupants with the intent of releasing them at a later time.
+
+In the, the Mulhorandi deity Anhur imprisoned Eltab within a demoncyst beneath Thaymount.
+
+In the 600s DR, settlers in the Great Dale uncovered many demoncysts, and inadvertently released many of the inhabitants.
+
+In the, the Zulkir of Conjuration Jorgmacdon ruptured a demoncyst when he temporarily released Eltab to fight for the forces of Thay, causing waters from the Styx to flow out of the cyst and create the River Eltar.
+
+Eltab was freed from his imprisonment in the . Although free, Eltab was unable to return to the Abyss due to the Adamandine Binding, and so returned to the demoncyst instead. In the, the demon lord was driven out and resettled in the demoncyst of the Hall of the Hidden Throne.
+
+Inhabitants
+Some demoncysts contained demons, half-fiends, tieflings, or other servants of Eltab, while others were empty save for whatever entered from the Realms.
+
+Many of the fiends found inside demoncysts are actually imprisoned there, unable to leave due to the calling diagrams placed within the cyst by demonbinders fleeing the fall of Narfell.
+
+Appendix
+References
+
+---
+
+## Delph
+
+Delph was a type of hardy travel spice endemic to the Old Empires region of east Faerûn.
+
+Description
+Delph was yellowish in color and had a sharp onion taste to it. It could not tint things yellow and would become clear when cooked.
+
+Powers
+This spice had an incredibly long shelf-life, with even three-centuries-old delph still being good, though its taste was said to "thin" over time. In addition, delph never molded, mildewed, or spoiled no matter how damp the area it was storied in got. If used properly, it could even kill mold spores.
+
+Creation
+Delph was created by crushing and drying the yellow wildflowers that grew all across the high waste ground in Chessenta, Mulhorand, Threskel, Unther. Though originally the practice began from the harvesting of such flowers in the Akanapeaks.
+
+History
+Between 1356 DR and 1374 DR, the Highmoon Trading Coster was one of the only mercantile companies known to trade delph across the Sword Coast.
+
+Usages
+ Delph was often used in a similar manner to mustard.
+ Besides its standard use as seasoning, some were known to tightly roll up moldy rugs or clothing after sprinkling delph on them, finding a month later that the spice had banished the mold.
+
+Appendix
+References
+
+---
+
+## Delver's armor
+
+Delver's armor were enchanted sets of heavy armor used by the Order of Delvers in the late 14 century DR.
+
+Powers
+These sets of plate mail were enhanced with a +2 enchantment and improved the wearers defenses against most natural and magical dangers encountered in the dark subterranean places.
+
+History
+The dwarves of the delver's guild faced many dangers in their profession, including deadly attacks by goblins, trolls, and hungry evil beasties. The Order of Delvers built these sturdy sets of heavy armor to better protect the delvers from all things dangerous underground. In the late late 14 century DR, some sets of delver's armor were in the hands of other persons other than the guild members, found in the cities such as Neverwinter, in the depths of Undermountain, and along the trade routes of the Moonsea region.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights • Neverwinter Nights 2 • Neverwinter Nights: Tyrants of the Moonsea)
+
+References
+
+---
+
+## Detect living
+
+Detect living was a divine necromancy and divination spell used by specialty priests devoted to Jergal called Doomscribes.
+
+Effects
+This spell revealed the location of living things within a  sphere to the caster by marking them with an aura visible only to the caster. More intelligent creatures glowed with a brighter aura. The spell would mark targets that were even hidden by magical means.
+
+The Scriveners of Doom developed this spell as a defense against ambush as well as to locate mortals attempting to flee from eternal rest.
+
+Components
+This spell required only  verbal and somatic components to cast.
+
+Appendix
+References
+
+---
+
+## Determine final rest
+
+Determine final rest was a divine divination spell used by specialty priests devoted to Jergal called Doomscribes.
+
+Effects
+This spell was used to reveal the aura of a living or dead creature and which outer plane, and specific level within that plane, their soul should be assigned. Spells that prevented a know alignment spell from working affected this spell in the same way.
+
+Components
+This spell required only  verbal and somatic components to cast.
+
+Appendix
+References
+
+---
+
+## Deep Dark Red
+
+Deep Dark Red was the name given to a set of enchanted heavy armor that once belonged to Leustrarax of the Bear-Tooth tribe sometime before 1372 DR.
+
+Powers
+This heavy set of armor was enchanted to improve the wearer's constitution and wisdom and made them appear terrifying to others, making intimidation easier. The armor's main purpose, however, was the magic that allowed the wearer to see in the dark as if by the darkvision spell.
+
+History
+Sometime before 1372 DR, Leustrarax, a shaman of the Bear-Tooth tribe, pulled Deep Dark Red off the body of a knight who attempted to expand his fiefdom into the tribe's territory. Shortly after the knight's failed invasion, a rival tribe of the Bloody Tusk orcs attacked the Bear-Tooth tribe. The tribes fought fiercely until the Bear-Tooth tribe gained the upper hand and pushed the Bloody Tusks into a large cave. Leustrarax wore the Deep Dark Red armor that allowed him to see in the dark. He delved into the cave from whence the orcs came, found their chieftain, and put an end to his life with a single poisoned arrow.
+
+Many years later, Deep Dark Red was lost in an unsuccessful Bear-Tooth tribe raid on a well-guarded merchant caravan that moved south. By 1372 DR, the enchanted set of armor ended up in possession of Jonas Maxillian Senior, an apple farmer and a secret werewolf of the Western Farmlands of Daggerford.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Deathglyph
+
+A deathglyph was perhaps the most powerful handglyph weapon used by the Geomancers of Kadar, capable of instantly killing an enemy.
+
+Powers
+Deathglyphs were special medallions enchanted to hold the power word, kill spell. The wielder simply needed to face the medallion toward an enemy and utter the command word to unleash the lethal power of the spell. The magic of the deathglyph would slay those caught within a  sphere.
+
+These handglyphs could not be recharged.
+
+Appendix
+References
+
+---
+
+## Deathcoils
+
+Deathcoils were massive, serpentine beasts known for their appetite. They were counted as serpents by the Scaled Ones.
+
+Description
+Deathcoils resembled colossal snakes some  long. The scales were hard and slippery, primarily dark green in color with round, dark brown and black markings. The eyes of a deathcoil were yellow.
+
+Behavior
+Deathcoils were cruel, cunning, and predatory serpents.
+
+Abilities
+Deathcoils were very strong, and capable of both swimming and climbing despite their size. Additionally, they could breathe out a cloud of poisonous gas twice each day.
+
+Combat
+Deathcoils were more intelligent than mere animals, but not so intelligent as stories gave them credit for. Nonetheless, aside from their typical hunting strategy of constricting their prey to death, they were drag prey underwater to drown it, plan ambushes- even to the point of scattering treasure around good ambush points, and drive animals into ravines and over precipices. Some deathcoils were even known to sink boats in rivers, and then pin them to make a larder of drowned prey. They were also known to leave their home forests to prey on livestock in pens at night.
+
+Ecology
+Deathcoils were known to live in temperate forests across Faerûn, preferring the fringes where large plains-animals might stray into their hunting-grounds.
+
+Deathcoils were obligate and voracious carnivores, eating any carrion and fresh meat they could find, including any other snakes and even other deathcoils. Because of this, they were strictly solitary except when mating; deathcoils attacked each other on sight unless one was much larger, in which case the smaller fled.
+
+Uses
+Furniture was sometimes made covered in deathcoil skin, but the dangers of hunting the beasts meant that only royalty or otherwise exceptionally wealthy people, like Calishite satraps, could own such pieces. Deathcoils skin was valued because it kept it supple sheen for centuries.
+
+Deathcoil blood was a secret ingredient in the osssra called duthlah'hass.
+
+Appendix
+Connections
+
+References
+
+FR:Constrictum
+
+---
+
+## Destroy magedoom
+
+Destroy magedoom was a divine conjuration spell used by specialty priests devoted to Azuth, enabling them to combat magedooms. Azuth only granted this spell to high-ranking priests who served him well.
+
+Effects
+This spell bypassed a magedoom's immunity to magic, instantly destroying the creature if it was unable to resist the spell. The magedoom still suffered a great deal of harm when resisting the spell which may even kill it anyway. This spell had no effect if cast upon other creatures.
+
+Components
+In addition to verbal and somatic components, this spell required as material components the priest's holy symbol and a magic item to cast. The magic item was consumed during the casting.
+
+Appendix
+References
+
+---
+
+## Death symbol of Bane
+
+Death symbol of Bane was a powerful divine conjuration spell used by specialty priests devoted to Bane, enabling them to create a potent and long-lasting symbol.
+
+The death symbol was created with the direct assistance of Bane long ago and used by the Risen Cult of Bane.
+
+Effects
+This symbol discharged once for every different creature's blood used during the casting, usually involving at least thirty different creatures. Their blood was mixed into a paste with black opal dust, and diamond dust. Each kind of dust had a value of at least 5,000 gp.
+
+The death symbol vanished when cast and glowed when discharged. Any creature wearing Bane's holy symbol would not active the death symbol. Usually used on doorways and portals, the symbol would activate when crossed by a creature whose blood matched one of the types used to make the paste when the spell was first cast.
+
+When discharged, the symbol released a blast of fatal life-draining energy, affecting anything found within . Creatures within  experienced a harmful withering sensation that stood a chance to permanently drain a portion of their health away. Anyone within  felt debilitating wracking pains that lasted for 2–20 minutes. All of these effects were cumulative based on the creature's proximity to the death symbol.
+
+The death symbol would explode if the surface upon which it was cast was destroyed, harming anyone within .
+
+Components
+In addition to verbal and somatic components, this spell required as a material component the special paste to cast. The paste was used to draw the symbol.
+
+Appendix
+References
+
+---
+
+## Dead magic shield
+
+Dead magic shield was a divine alteration spell used by priests devoted to Shaundakul, enabling them to create a shield of force.
+
+Effects
+This spell created a  diameter shield of force attached to one of the caster's forearms. The dead magic shield could be used to block incoming magical attacks if the caster was not wielding a two-handed weapon, casting another spell, or carrying a regular shield. The shield would still function if the priest was wielding a weapon in their other hand.
+
+The dead magic shield would dissipate any incoming magic directed at the caster. The shield had no effect against physical attacks.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+Appendix
+References
+
+---
+
+## Desert of Al-Alisk
+
+The Desert of Al-Alisk was a region of the Raurin haunted by the remnants of two clans who fought to the death over a stolen bride. Martek secreted it away in order to serve as a trial for adventurers entering the Citadel of Martek.
+
+Description
+The desert was almost featureless, with no visible stones, and no wind. Any who arrived from The Grand Hall of the Crystal Prism were brought before a  tall crystal monolith, which bore a written message. Those who wandered too far from the tracks of the monolith were brought back before it. Approximately  southwest of the monolith lay the ruins of Akhir. About  northeast lay the Crypt of Al-Alisk.
+
+Inhabitants
+Almost nothing was alive in the Desert of Al-Alisk: even the wind was dead. Restless spirits engaged in an extended skirmish in the sky every midnight until 3 AM.
+
+History
+On her wedding night, the daughter of the Sultan of Pazar, Sithal Al-Husn, was kidnapped by Habrauk Al-Nirin of the Al-Alisk clan, who trapped her spirit and body in a crystal box. This started a feud that would last for five generations, ending the bloodlines of Pazar, Al-Alisk, and Akhir. The battle would continue to be waged nightly across the sky, as the spirit of her intended husband led the hosts of the Lancers of Death towards the spectral forces of the Al-Alisk clan.
+Weary from his preparations for resurrection, and seeking one more test to add to his citadel, Martek caused the entire section of the desert to be transported into another subdimensional bubble.
+
+Rumors & Legends
+In a broad swath of desert between the Crypt and the city, anyone spending the night was treated to a vision. Those who were evilly aligned were given a vision from Habrauk Al-Nirin urging them to stay away from his crypt, while those who were not were instead treated to a call from the Princess, who called on them to rescue her. On any night after the first, they would be treated to the sight of an endless swarm of spectral riders,  over the ground, riding towards the Crypt to do battle with Habrauk Al-Nirin's spectral minions.
+
+Locations in Al-Alisk
+Crypt of Al-Alisk
+
+Appendix
+Appearances
+Adventures
+Desert of Desolation
+References
+
+---
+
+## Death chariot
+
+Death chariot was a powerful divine conjuration and evocation spell used by Silvanites to summon a fiery chariot.
+
+Effects
+This spell summoned a fiery chariot with a thunderous clap. The chariot was pulled by a pair of fiery horses and could haul up to nine human-sized creatures and be controlled with verbal commands. In many ways it resembled a chariot of Sustarre. The chariot felt hot when approached and touching the horses caused severe burns.
+
+Both the chariot and horses could be harmed with water or enchanted weapons. The horses could be dismissed to the Elemental Plane of Fire via magic. The chariot could explode at a time chosen by the caster, or the caster could ride with the chariot and cause it to explode by sheer force of will at any time. The violent explosions harmed anyone nearby—including any passengers.
+
+Components
+In addition to verbal and somatic components, this spell required as material components a small piece of wood, two holly berries, and a source of fire at least the size of a torch to cast.
+
+Appendix
+References
+
+---
+
+## Dessra of the Dark Desires
+
+Dessra of the Dark Desires was a famous courtesan at the Purple Palace festhall in the Dock Ward of Waterdeep in the mid-1360s DR.
+
+Appendix
+References
+
+---
+
+## Destrin Chamaerlyn
+
+Destrin Chamaerlyn, who was also called the Sword of Tyr, was a paladin of Tyr inhabiting Urmlaspyr in 1358 DR.
+
+Activities
+Destrin was the head of the Hamarch's Hands, a group of vigilantes who battled the various evil forces infesting Urmlaspyr.
+
+Appendix
+
+References
+
+---
+
+## Delselar
+
+Delselar, also known locally as Dolselar and the City of Succulent Jewels, was a large city found in southern Thindol on the Chultan Peninsula.
+
+Geography
+Delselar was founded on the southern border of the Guthland near the mouth of the Thingulph along the southern bank of the River Dolsel.
+
+Description
+Delselar was unwalled, stretching for  along the banks of the river. The vast majority of structures within Delselar were within a stone's throw from the water.
+
+Activities
+Agents from House Jennestas infiltrated the city during the 1370s DR, bringing a large number of dangerous snakes with them to populate the grasslands surrounding the city. The Jennestas also hid magical effects within the city that attracted the snakes, resulting in a much higher number of fatalities from the serpents' encounters with the citizens.
+
+Rumors & Legends
+As series of tunnels beneath the city connected to the Pit of Vipers temple in the Black Jungles.
+
+Appendix
+References
+
+FR:Delselar
+
+---
+
+## Deltar
+
+Deltar was a large town found in southern Thindol on the mouth of the Thingulph.
+
+Geography
+Deltar was situated on a small peninsula along the Thingulph's western rim near its halfway point.
+
+Description
+A large number of submerged islets were found directly offshore from Deltar. An equally large number of wrecked ships were also found in the waters.
+
+Inhabitants
+Deltar was home to fisherfolk, clammers, and deep sea divers. Some of Deltar's more nefarious citizens waved lanterns at approaching ships during thunderstorms with the hopes of luring them into foundering on the islets. Though the holds of the many wrecked ships contained loot and treasure, a variety of dangerous sea creatures who laired in the waters often claimed any rogue brash enough to brave the waters in pursuit of such "easy" pickings.
+
+Appendix
+References
+
+FR:Deltar
+
+---
+
+## Dezelyna Goldeagle
+
+Hierophant Dezelyna Goldeagle was a Chultan druid inhabiting the Chultan Peninsula in 1372 DR.
+
+Activities
+Dezelyna was rumored to live along the River Lundeth in Thindol. She closely monitored the various waterfalls on the river to ensure the sanctity of the wildlife found there.
+
+Appendix
+
+References
+
+FR:Dezelyna Aigle-d'or
+
+---
+
+## Derek Chisolm
+
+Derek Chisolm was a baker at the family-run Downunda Patisserie in Ravens Bluff in the Vast in the mid-to-late 14 century DR.
+
+Relationships
+He was the son of Jemima and Arvend Chisolm, and the elder brother of Allison and Karl.
+
+Personality
+Since settling in Ravens Bluff, Derek tried to be the man of the house and felt responsible for his family. He didn't mind this, though, as it gave him purpose and he was dedicated to his mother, sister, and little brother. He spoiled Karl and protected Allison, usually by keeping away young men who might be interested in her, believing none were ever good enough. Like his mother, he would not speak about his father. He was happy with his lot and had no plans of leaving or becoming an adventurer like he knew his mother feared. While he'd had no chance to get formal schooling, his experiences made him wiser than others his age.
+
+Description
+At age 19, Derek stood  and weighed . He had jet-black hair and eyes that matched his mother's bright blue. His mother rationed him and his siblings to only three of the bakery's smaller cakes a week to prevent them putting on weight.
+
+Activities
+He lived above the store. Derek was kept busy helping his mother in the bakery by putting out and selling goods and working second shifts at the ovens, and running the store when Jemima was busy. Only he and Jemima knew the key to the storage room's glyph of warding.
+
+History
+When his father Arvend was executed for murder and all the family's belongings seized, leaving them destitute and ashamed, Derek left with his family to build a new life. They arrived in Ravens Bluff and purchased the bakery. He was still working there by 1370 DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deogol Fengrath
+
+Deogol Fengrath was a wizard of the Fengrath family and the ruling Gauntlet of the village of Shining Falls in the Delimbiyr Vale in the mid-to-late 14 century DR.
+
+Home
+He lived in the Granite Tower in the center of Shining Falls with his family and guards, who tended also to be family, as well as his constructs, including at least one shield guardian.
+
+Activities
+Deogol was nominally the ruler of Shining Falls, but he did so with a light hand. So light, in fact, that he preferred to leave the day-to-day running of things to Sheriff Vendal Viccstray. Instead, he concentrated on his crafts and magic within the walls of the Granite Tower.
+
+One particular project was discovering the dwarven complex thought to lie behind the Shining Falls, after which the village was named. He tried to hire adventurers for the task and enlisted Blaz Merrymar to aid him. Most in the village thought this foolish and a wasted effort.
+
+Relations
+Deogol was the great grandson of Walenburh Fengrath, the founder of Shining Falls.
+
+Rumors & Legends
+He was reputed to be quite a powerful wizard, owing to his possession of at least one shield guardian.
+
+One fellow in the village claimed to have seen skulking inside the keep an unusual dwarf-like creature with pale skin, bulbous eyes that lacked both pupils and irises, and ugly face muttered insanely. However, Deogol's guards were unsurprised and the witness believed Deogol had summoned it through magic.
+
+History
+Some time after Shieldmeet in the, Deogol went missing for at least a month, his fate and whereabouts unknown. Around the same time, a grim band of adventurers passed through Shining Falls on their way to the Fallen Lands. Any connection between them is unknown.The reason for Deogol Fengrath's disappearance is not covered within the remaining Legacy of the Green Regent materials. It may be in the subsequent module, the unreleased "Into the Fallen Lands".
+
+Appendix
+Notes
+
+References
+
+---
+
+## Deep Ulurnan
+
+Deep Ulurnan was an official in Scornubel in the .
+
+Activities
+As one of the Lord High Advisors, Deep provided aid to Lady Rhessajan Ambermantle by focusing on Scornubel's profit and trade.
+
+History
+Deep was a merchant and caravan master before taking office in Scornubel.
+
+Appendix
+References
+
+---
+
+## Derevan Crell
+
+Derevan Crell was a Nentyarch of Narfell during the time of the Crell Dynasty.
+
+Activities
+Derevan ruled from  to .
+
+Relationships
+Derevan's father, and predecessor as Nentyarch, was Thargaun Crell, the first in the line of Crell rulers. He was the firstborn son of his father. Derevan himself had two sons, the second of which, Arthauld would succeed him on the throne.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Delebean
+
+Delebean was a rock gnome living in Gnomengarde in the late 15 century DR.
+
+Description
+Not unlike most of Gnomengarde's inhabitants, Delebean was harmless but willing to fight to defend himself and his home.
+
+Abilities
+Like all the other gnomes in Gnomengarde, Delebean had some training as a wizard in addition to his innate magical abilities.
+
+Appendix
+Appearances
+Adventures
+Dragon of Icespire Peak
+
+References
+
+---
+
+## Deltar Tummarlin
+
+Deltar Tummarlin was a miller who lived in the village of Eveningstar during the late 14 century DR.
+
+Activities
+Deltar's mill was located on the north side of Eveningstar along the west bank of the Starwater River just south of the Redhand Pool.
+
+Appendix
+
+Further Reading
+
+References
+
+---
+
+## Dennin's Delve
+
+Dennin's Delve, also known as The Delve, was an ancient and ruined dwarven stronghold found on the isle of Moray within the Moonshae Isles.
+
+Location
+Dennin's Delve was located under the Trollclaw Range in northwestern Moray. Tunnels beneath the ruin connected it to the Underdark beneath the Trackless Sea.
+
+Interior
+Little remained of the once-impressive original dwarven stonework as of the late 15 century DR.
+
+A secret portal was located deep within the ruins that connected Moray to another portal within the Fairheight Range on Alaron on the other side of the Moonshae Isles. It was sizable enough to allow for largescale movement of people and supplies.
+
+History
+On Hammer 1 of the, a dwarven expedition departed from Dennin's Delve via the Underdark and headed west seeking a land beyond the horizon. This group would subsequently experience the Rockfire Disaster.
+
+While once the pride of the dwarves of Moray, the stronghold was subsequently destroyed by orcs, trolls, and goblins during or following the events of the Spellplague.
+
+As of the late 1470s DR, the Delve was occupied by Northlanders interested in reaping the natural resources of Moray. The Black Blood tribe drove out the Northlanders of Moray when an embodiment of Malar led them in battle, killing the men and driving the women and children into a trap at Caer Moray.
+
+By the, the portal in the depths of Dennin's Delve had long been deactivated, and had become part of the lair of a vicious beholder.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Deepglen Stream
+
+The Deepglen Stream was a small river found on the island of Gwynneth within the Moonshae Isles.
+
+Geography
+The Deepglen Stream originated within the eastern section of the Black Moutains in northern Gwynneth. The river flowed southeast through the Deepglen and into the Shee Pool. It exited the small lake by flowing south until connecting with the Myrloch.
+
+Appendix
+References
+
+---
+
+## Deepglen
+
+The Deepglen was a small valley located on the island of Gwynneth within the Moonshae Isles.
+
+Geography
+The Deepglen was found nestled along the western end of the Black Mountains in the northern Myrloch Vale. The Deepglen Stream flowing down from the mountains passed through the center of the valley. The Deepglen was approximately  long.
+
+Notable Locations
+A trio of Moonwells were found in the forests surrounding the Deepglen.
+
+Appendix
+References
+
+---
+
+## Deloun Alley
+
+Deloun Alley was an alleyway of hard-packed dirt and gravel in the Trades Ward of Waterdeep.
+
+Description
+This alleyway was heavily crowded with barrels, crates, and the like.
+
+Geography
+This alleyway ran due southwest off of the Wide Way, then turned eastward and terminated on a nameless alley. Along the way to that destination, Deloun Alley acted as the western terminus of Chelor's Alley.
+
+Activities
+During daylight hours, Deloun Alley was most frequently used as a delivery route for the backs of shops. But during the night, the alley became home to both rats and wererats, acting as an informal meeting place for members of the Plague Rats. The members of this criminal organization were likely to topple the barrels and crates in the alley, having them fall onto victims or block their escape.
+
+Notable Locations
+Gentle Rest Stables A stable business that worked in conjunction with the nearby Gentle Rest tavern.
+
+Appendix
+References
+
+---
+
+## Demir
+
+Demir was a commoner that lived in the Western Heartlands of Faerûn during the late 15 century DR.
+
+Personality
+He was the most level-headed and cautious person among himself and his siblings.
+
+Relationships
+Demir had a brother named Johl and a sister called Mayrina.
+
+History
+Demir's family was struck with tragedy in the, when Mayrina's husband Connor died rather suddenly. Bearing Connor's unborn child and devastated after her loss, Mayrina left for the Sunlit Wetlands to make a bargain with the old hag that lived in a shack within.
+
+Demir and Johl went after their missing sister and managed to confront the old woman of the swamp Ethel, before she made it back to Mayrina who was waiting within her home.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+
+References
+
+---
+
+## Dennik
+
+Dennik was an island within the Korinn Archipelago in the Moonshae Isles. As of the mid–14 century DR, it was considered to be the westernmost isle in the Archipelago that was not wholly controlled by pirates.
+
+Geography
+Dennik was one of the larger islands found among the northern region of the Korinn Archipelago. The island was relatively featureless and surrounded by a multitude of smaller islands. The perimeter of the island was ringed by large cliffs, but the central plateau was prime land for grazing herds of animals.
+
+Trade
+The island's inhabitants grew spices to be traded with eastern merchants on the rare occasion of their visits.
+
+Inhabitants
+Dennik was predominantly home to Northlander humans and some half-orcs.
+
+A few small coastal villages were found on Dennik, but were ravaged by pirates on a regular basis and so most folk lived further inland and avoided the sea. The central plateau was the site of some agriculture and ranching.
+
+Appendix
+References
+
+Connections
+
+---
+
+## De Hurst's Diary
+
+De Hurst's Diary was the personal journal of the cleric of Mystra and arcane scholar, Lenore De Hurst. It was written for a period of years during the late 15 century DR.
+
+Description
+The diary contained the personal thoughts and musings that De Hurst believed relevant enough to scribe during their three-year expedition into the Underdark. It was kept separate from De Hurst's research work, which was focused on the study of sussur trees and their use in the creation of magical items and use as a source of power.
+
+It was scribed in De Hurst's distinct cursive script in silver ink.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+References
+
+---
+
+## Derryth Bonecloak
+
+Derryth Bonecloak was a shopkeep from Baldur's Gate that ran a business along with her husband Baelen during the late 15 century DR.
+
+Personality
+Derryth was a practical woman that demonstrated great resilience through her life. Even when things were at their worst, she remained determined to run her family business successfully.
+
+Possessions
+She kept a number of magical and enchanted items and weapons on her person during her travels. Among these were gloves of fire resistance, herbalist's gloves, an amulet of restoration, and a variety of potions.
+
+Relationships
+Derryth had a trouble past and complicated relationship with her husband Baelen. During their time together he was physically abusive towards her and nearly ruined their business spending all his money on drink.
+
+History
+Facing the closure of their shop, Derryth and Baelen ventured down into the Underdark in the, to recover some noblestalk mushrooms to sell back in the city. The gold they could make would help alleviate their financial burdens keep their business afloat for a little long.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+External links
+
+References
+
+---
+
+## Deepgate
+
+Deepgate was a dwarven town in the Mountains of the Alaoreum of Turmish.
+
+History
+In the, the dwarves of the Alaoreum battled a fierce red dragon known as Stormcrossing. Even though the dwarves won and King Showaxe of Ironfang claimed the red dragon's treasure hoard, the price of the victory was high. Deepgate was set ablaze by the evil wyrm. The pitch-black smoke from the fires of destruction alerted humans from the Swordslake Creek of the previously unknown dwarven habitat deep in the Mountains of the Alaoreum.
+
+Appendix
+References
+
+---
+
+## Delshara Windhair
+
+Delshara Windhair, also known as the Witch of the Waves, was a powerful mage that lived on the island city-state of Orlumbor in the 14 century DR.
+
+History
+Delshara and her magic reportedly hurled back many a ship that tried to attack Orlumbor, those originating from both Luskan and the Pirate Isles.
+
+Appendix
+
+References
+
+---
+
+## Dexon
+
+Dexon was a Vaasan warrior that joined several of his countrymen on an expedition to the city of Evereska in the late 14 century DR. There they reunited with Melegaunt Tanthul, an ally of their ancestors who led them to a series of events that would reshape the face of Faerûn for decades to follow.
+
+Description
+He was a swarthy and burly man, with a countenance accentuated by a distinguishing moustache. His appearance (and disposition) was akin to that of a good-natured bear.
+
+During one of his battles while fighting along the elves of Evereska, Dexon's leg was badly injured, withered to the point where it could hardly bear his weight.
+
+Personality
+Dexon was both a steadfast warrior as well as a kind and caring man. While he and his men were always ready for battle, Dexon often found himself a bit flummoxed when confronted with matters of love.
+
+Possessions
+Like his fellow Vaasans that made the expedition to the Sharn Wall beneath Evereska, Dexon was the proud owner of a darksword. His blade had the unique quirk of "talking in its sleep", presumably when sheathed.
+
+Relationships
+The burly Vaasan warrior developed a loving and passionate romance with one of his party's elven hosts, Keya Nihmedu. After a few short months together they fell in love, and Dexon became very protective of Keya, even if he had trouble expressing himself.
+
+History
+Dexon joined the expedition from Vaasa to Evereska in the Western Heartlands in the . After traveling to Evereska in the Greycloak Hills, Dexon chose to to remain within the elven city. During his travels he developed feelings for Keya Nihmedu of the Vale Guard.
+
+In mid–Mirtul of that year, the archmage Khelben Arunsun finally broke through the phaerimm-led siege of Evereska and began coordinating the city's defense with the Hill Elders. Dexon and his men served as the Blackstaff's personal escorts for a time. When the time came that Khelben's company leave to fight the phaerimm, Dexon was saddened to part ways from Keya.
+
+The pair reunited in battle when the phaerimm attacked the Vine Vale on Mirtul 20. During the fighting, Keya made use of Dexon's darksword and felt no ill effects—a sensation of cold that left the blade unwieldable after a short time—and realized they had been bonded as family. Keya was expectant with Dexon's child. As Dexon suffered a grievous wound shortly thereafter, the couple were granted leave to rest within Evereska's still-standing walls.
+
+Appendix
+
+Appearances
+Novels
+ Return of the Archwizards (The Summoning, The Siege)
+
+References
+
+---
+
+## Deamiel
+
+Deamiel was a demon that served Pandorym in the late 15 century DR.Deamiel's exact type of fiend is never stated; its cloven feet likely rule out a naztharune rakshasa, which would otherwise be a foregone conclusion, given the proximity to Veldorn and its willingness to serve Pandorym. It is described as infernal, which suggests devils of the Nine Hells. However, similar creatures later in the story are described as demonic. As demons are the most varied group, this article is written under the assumption Deamiel is a demon of some sort.
+
+Description
+Deamiel resembled a panther-headed humanoid covered in black fur, but it had cloven hooves for feet. Where it stepped, it left a thin trail of glistening slime. It wore an amulet of plangent crystal.
+
+Abilities
+Deamiel was able to summon mist for concealment, and it was able to call on an amulet of plangent crystal it wore in order to multiply its strength and speed. However, it seemed to lose some grace and control while its abilities were so boosted.
+
+History
+In the, Deamiel had been pursuing Ususi Manaallin while she searched the border between Veldorn and Estagund for Imaskari portals to the Celestial Nadir. Its own trail was discovered by a second pursuer, Iahn Qoyllor, an Imaskari vengeance taker who was also searching for Ususi. Deamiel's group reached Ususi's wagon before Iahn did, while she was out exploring a ruin.
+
+After trashing the wagon searching for her, they noticed Iahn tailing them, and attacked in spite of the tracker's request to talk. Though numbers, surprise, and power were all on Deamiel's side, Iahn Qoyllor eventually prevailed in the fight, accidentally defeating Deamiel by attacking its amulet while it was trying to choke him out slowly. The amulet exploded with unexpected violence at the slightest attack, reducing most of the fiend's insides to a charred mess.
+
+There may have been more demons akin to it in the Imperial Weapons Cache.
+
+Appendix
+Notes
+
+Appearances
+Novels
+Darkvision
+References
+
+---
+
+## Delver's orb
+
+The delver's orb was a small magical trinket fashioned by the adventurer Ususi Manaallin.
+
+Description
+The orb resembled a small free-floating piece of granite wrapped in silver wire.
+
+Powers
+Ususi's delver's orb was capable of floating around her head, and of shedding a cone of white light on her surroundings. It was also the focal point of her uskura.
+
+History
+Ususi built her delver's orb on her own, most likely sometime after .As no delver's orb is shown throughout Lady of Poison, Ususi must have devised the tool at some point after the events of that book.
+
+Appendix
+Notes
+
+Appearances
+Novels
+Darkvision
+
+References
+
+---
+
+## Dervarr
+
+Brother Dervarr was a priest of Chauntea inhabiting Immilmar in Rashemen during the late 14 century DR.
+
+Activities
+Brother Dervarr was in charge of the other priests within the House of Bhalla in Immilmar. He was focused on ensuring that Chauntea's worship in Rashemen did not stray too far from the doctrines established by the Church of Chauntea.
+
+History
+Dervarr was originally from Impiltur.
+
+Appendix
+References
+
+---
+
+## Deepwinter (family)
+
+The Deepwinter family was a noble family in Waterdeep whose line ended during the Guildwars circa the . At the time, the Deepwinters controlled the Guild of Silversmiths and Gilders.
+
+Base of Operations
+The Deepwinter estate was located on the corner of Staghunter's Way and Diamond Street in the Sea Ward, just across Heroes' Walk from Heroes' Garden. Much of it was destroyed in a maliciously set fire in 1260 DR.
+
+Possessions
+
+A gold bracelet, known as Tamaera's bracelet, and two gold rings that were reportedly marked with the crest of the Deepwinter clan were recovered by Wotav the Curious some years after the family went extinct. The bracelet acted like a periapt of proof against poison and all three pieces were of such high quality that he sold them and bought a building on Sashtar Street with the proceeds.
+
+The Deepwinters had their own burial vault in the City of the Dead. It was built in the, during the peak of the family's wealth and power. Unfortunately, the surveyor that helped select the site was under the domination of Artor Morlin, the vampire lord of Waterdeep, and he chose it to cover and protect the entrance to Morlin's domain at the time, the Dungeon of the Crypt.
+
+History
+The Deepwinter family was most famous for their control of the Guild of Silversmiths and Gilders up until the time of the Guildwars in the mid–13 century DR. Various records conflict on the details, but allegedly the Guildmaster of the Jewelers' Guild, Yivvik Chourm, conspired with the fourth son of House Deepwinter, Lord Parnak, to eliminate the other claims to the title to allow Parnak to become head of the family and then join his guild with the Jeweler's Guild to form a bigger, more powerful faction as all the guilds contended for control of Waterdeep. The plot succeeded in that all other Deepwinters in line for the title were assassinated and the two guilds merged, but the alliance lasted for just over a year.
+
+Fourteen months after Lord Parnak took over as the patriarch of the family, Guildmaster Ehlemm Zoar of the Gemcutters Guild was invited to join the coalition and in less than a year over six other guildmasters (both rivals and allies) had been slain, including Lord Parnak and Yivvik Chourm. Parnak perished with his mercenaries, barricaded in his own villa as it burned around them in 1260 DR.
+
+In the, seven-year-old Kahla Deepwinter, youngest child of Tasima Deepwinter (Parnak's twin sister), was murdered by drowning in the Heroes' Garden pond—yet another victim of the Deepwater pogrom. Thereafter, her ghost, clad in a pale blue dress with curly red hair and dimples, manifested on nights of the full moon. The locals referred  to her as the Child in the Bushes, the Deepwinter Ghost, or the Hostage of Heroes' Garden.
+
+Other ghosts of the ill-fated Deepwinter clan appeared as wandering spots of icy cold or areas of unreasonable fear around the location of the Deepwinter stables. More than a century later, in the, Osbrin Selchoun moved his general store, Selchoun's Sundries Shop, into the building that replaced the burned out stables and his customers were occasionally accosted by these meandering apparitions.
+
+Members
+ Parnak Deepwinter, fourth son, became patriarch after the assassination of all other family members.
+ Tasima Deepwinter, twin sister of Parnak and mother of Kahla.
+ Kahla Deepwinter, youngest child of Tasima, murdered and became the Ghost of Heroes' Garden.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Death in the Skyfire Wastes
+
+Death in the Skyfire Wastes is a short adventure intended to preview both the Living Forgotten Realms campaign and 4 edition Dungeons & Dragons in general.
+
+Index
+
+Characters
+
+Creatures
+
+Magic
+
+Locations
+
+Religion
+
+Miscellaneous
+
+Appendix
+Notes
+
+---
+
+## Deliah
+
+Deliah the White was one of the Masked Lords of Waterdeep that served her city for a time during the late 14 century DR.
+
+Personality
+She was a thoughtful individual that wished to gain more information before passing judgement while serving the office.
+
+Possessions
+Like her fellow Lords, Deliah wore the full Lord's ensemble while carrying out official duties.
+
+History
+Deliah held the title of Masked Lord during the . She joined council with Open Lord Piergeiron and seven of their fellow Lords of Waterdeep, along with leaders from Evermeet, Evereska, and Prince Aglarel Tanthul of Thultanthar that year as the threat of the phaerimm grew to endanger all of the North. Tensions rose quickly between the Shadovar prince and the other councilors, but Deliah kept her calm and attempted to guide conversation towards meaningful resolution.
+
+Appendix
+Appearances
+Novels
+ The Siege
+References
+
+---
+
+## Deepwinter Vault
+
+The Deepwinter Vault was a mausoleum in the City of the Dead in Waterdeep that belonged to the defunct noble Deepwinter family. It was also one of the entrances to the former lair of Artor Morlin, the vampire lord of Waterdeep, and was the reason his subterranean structure was called the Dungeon of the Crypt.
+
+Location
+The City of the Dead was a sprawling walled cemetery on the eastern edge of Waterdeep. The Deepwinter Vault was located in the northern part of the cemetery near the wall that separated the burial grounds from Zendulth Street, set back from the main path by a short walkway.
+
+Structure
+
+Deepwinter Vault was approximately  square with two large wooden doors bound in iron in the center of the south wall, atop a wide, shallow staircase of five steps. As of the, the one-story white marble structure showed signs of age with cracked masonry, lichen stains, and ivy-covered walls. The ivy hid carvings of landscapes covered in deep snow and the doors had broken locks and stood slightly ajar.
+
+Interior
+The mausoleum was divided into three sections of equal measure: a forechamber, the Deepwinter crypts, and the Hall of the Patriarch.
+
+Forechamber
+The double doors led into a grand chamber the full width of the structure and about  deep. Its walls were filled with stone frescoes that revealed scenes of Deepwinter triumphs interspersed with symbols of the church of Auril. At any time of the year, the walls were coated with a thin film of ice and minor icicles hung from the ceiling—the remnants of a magical trap placed on the room in the days when the Deepwinters still thrived—that kept the room temperature at . Around the perimeter of the room were at least thirty short pillars once used as pedestals for displaying family heirlooms, but by 1372 DR most of them had been vandalized by treasure hunters looking for hidden caches. In the center of the floor was the crest of the Deepwinter family, a snow-capped mountain with a large, stylized snowflake above and to the left of the peak. The only other exit was a narrow door in the center of the north wall.
+
+Deepwinter Crypts
+The middle third of the mausoleum was filled with individual crypts. A  passage led from the forechamber to the Hall of the Patriarch and  down this corridor were two narrow passages that branched off to the left and right containing the resting places of the Deepwinters. The tombs were once sealed with stone plaques marking the name of the noble and their death year in Northreckoning, but by 1372 DR most of the seals were broken and scattered on the floor along with bones from the ransacked tombs.
+
+Hall of the Patriarch
+About  beyond the intersection with the crypt walk was the grand Hall of the Patriarch. The room was about  deep by  wide with a large stone sarcophagus sitting on a raised altar in the center. Openings to similar but smaller tombs exited the room through the center of the east and west walls. More crypts lined the south wall of all three chambers.
+
+The lid of the main sarcophagus was carved with the outline of a human in full armor and helm, clutching a greatsword to its chest and covered in snow, with the head to the east and feet to the west. The lid could be moved easily on hidden tracks toward the feet until the coffin was two-thirds open. It contained the desecrated skeleton of a Deepwinter patriarch and nothing else. If the lid was positioned only  from fully closed, it allowed the entire sarcophagus to be rotated until the head of the effigy on the lid pointed north. This revealed a narrow stair going down and west for  and then turning north and widening out to a long stone stairway  wide that descended some  vertically and  horizontally (well under Mhalsymber's Way on the surface) to the foyer of the Dungeon of the Crypt.
+
+Atmosphere
+Despite the fact that nothing of much value was left in the mausoleum from the original owners, it was apparent that the building got frequent but irregular traffic. The coldness of the forechamber tended to prevent any visitors or gatherings from staying more than a brief time. During the day when the City of the Dead was open to the public, entering the structure likely caused any onlookers to mutter about "tomb robbers", and exiting the building sometimes attracted the attention of curious children that wanted scary tales or trinkets. At night, the City was closed and patrolled, but this did not stop any number of clandestine organizations from entering or exiting the Dungeon of the Crypt.
+
+Activities
+The Deepwinter Vault was often used for quick, hushed meetings, as a message drop point, a cache for temporarily hiding stolen goods, and a convenient place to dispose of a dead body.
+
+Defenses
+As of 1372 DR, the wards on the Deepwinter Vault had mostly faded away because no one renewed them. The chilling effect in the forechamber was the last breath of an ancient trap set for intruders.
+
+History
+The resting place for the noble Deepwinter family was built in the  when the clan had great wealth and influence. Unbeknownst to them, the surveyor they hired to place the vault was under the domination of the vampire Artor Morlin and he used his influence to get the structure built over the entrance to his extensive underground lair and then killed anyone who had knowledge of it.
+
+Appendix
+References
+
+---
+
+## Dead grass snake
+
+Dead grass snakes were a rare species of venomous snake.
+
+Description
+As their name suggests, these snakes looked like a blade of dead grass. They were about  long.
+
+Habitat
+Dead grass snakes lived in the temperate grasslands of Pelleor's Prairie in the Western Heartlands. They were quite rare such that some inhabitants of the region might never encounter one.
+
+Ecology
+Taking advantage of their natural camouflage, dead grass snakes waited for prey to pass near them and then struck with their venomous bite. While the venom was potent enough to kill a small animal such as a rabbit, it was not fatal to larger creatures. Even so, a bitten humanoid could expect to be doubled over with debilitating body pains, fever, and nausea, which set in within a few minutes and could last for a few days as the poison worked its way out of their system. Diamond cure was recommended as a treatment for the effects of the poison.
+
+Appendix
+References
+
+---
+
+## Desert Fire
+
+The Desert Fire was a group of adventurers who followed the teachings of Sharess.
+
+Base of Operations
+The adventuring band was active in Mulhorand during the mid-to-late 14 century DR.
+
+Activities
+The Desert Fire worked to thwart the plans of Set and his agents in Mulhorand. They received support from followers of Anhur and Horus-Re in their ventures.
+
+Appendix
+References
+
+---
+
+## Deobra
+
+Deobra was one of the Empyrean Knights of Stardeep. In, she witnessed the Keeper of the Cerulean Sign Telarian slaying her fellow knight Dharvanum with a sword. Thinking quickly, Keeper Telarian killed her too.
+Appendix
+Appearances
+Novels
+Stardeep
+References
+
+---
+
+## Demoriel
+
+Demoriel was a demon. It was summoned to fight against Gage, a thief from Laothkund, by Sathra of the Shadow Tongue thieves' guild: the necromancer called it by name. It was a black, humanoid, scaled creature, with inky teeth and claws. Wielding Angul, Gage managed to slay Demoriel, but it was a tough fight: the demon showed the power to scream abyssal curses to liquify stone and metal.
+Appendix
+Notes
+
+Appearances
+Novels
+Stardeep
+References
+
+---
+
+## Dernim Lossit
+
+Dernim Lossit was a member of the Sembian High Council in Sembia in the late 14 century DR.
+
+Personality
+Dernim was a compromising individual by nature.
+
+Activities
+Dernim Lossit was the Highspeaker of the Council, the person that acted as mediator during the council's debate.
+
+History
+In the, after the death of Kendrick Selkirk, Dernim Lossit summoned the Council on Marpenoth 10 in order to elect the new Overmaster. The two main candidates were Countess Mirabeta Selkirk and Endren Corrinthal of Saerb. After the Council collapsed in chaos over the accusation that Endren had killed Kendrick, many drew their swords and started to fight, and Zarin Terb and Inmin Dossir were killed. Lossit agreed to hold a vote for a temporary Overmaster and Mirabeta was elected. She ordered the arrest of Endren.
+
+Appendix
+Appearances
+Novels
+Shadowbred
+
+References
+
+---
+
+## Decanter of endless lamp oil
+
+A decanter of endless lamp oil was a magical flask that could produce streams of oil.
+
+Powers
+These decanter operated similarly to the more well-known decanter of endless water.
+
+History
+Circa 1270 DR, in an elaborate ritual to summon Kossuth's avatar, the high priest of the Kossuthan temple Flaming Brazier in Bezantur attempted to douse the Alamber Sea with a decanter of endless lamp oil and then ignite it.
+
+Appendix
+References
+
+---
+
+## Death to All Mages
+
+Death to All Mages was a ballad written by Bendoglaer Syndrath, Bard of Barrowhill in the .
+
+Contents
+The popular song reflected the scorn of common folk at wizard who lorded over them with the use of deadly magics.
+
+Appendix
+Appearances
+Novels
+
+Elminster: The Making of a Mage
+
+References
+
+---
+
+## Deathsbreath mushroom
+
+Deathsbreath mushrooms were a variety of fungus that grew predominantly on the High Moor in the Western Heartlands. They had a large and speckled appearance.
+
+Though they were a delicacy for goblinoids, most others found them toxic, suffering nausea for up to twenty minutes.
+
+Circa 1372 DR, deathsbreath mushrooms grew in abundance in a cave in the southern fringe of the High Forest used as a hideout by Hekkut and his goblin bandit gang.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Extermination
+
+References
+
+---
+
+## Dexam
+
+Dexam was a capricious beholder ally of Fzoul Chembryl of the Zhentarim in the mid-14 century DR.
+
+History
+In the, Dexam had a lair within Zhentil Keep where he was served by a hooded woman (secretly a medusa) and a small gang of minotaurs. In the same year, Dexam sought to uncover the secret of the creation of the azure bonds, magical tattoos that could create unwilling slaves. The fickle beholder came to a conflict with a group of heroes branded with the bonds. Some said the beholder disintegrated Fzoul Chembryl over the secret. However, that was untrue, as the leader of the Zhentarim reappeared unharmed shortly after.
+
+Appendix
+Appearances
+Video Games
+Curse of the Azure Bonds
+References
+
+---
+
+## Dewberry
+
+Dewberry was a variety of berry in the Realms that was closely related to the blackberry.
+
+Usages
+ The Last Stop, a tavern in Zhentil Keep, sold a wine made from dewberries.
+ Much like blackberries, some used dewberry medicinally as an astringent or a treatment for dysentery.
+
+Appendix
+External Link
+
+References
+
+---
+
+## Deepwine
+
+Deepwine was a type of rare wine fermented from the juice of a unique species of grape that grew in the Underdark and needed no daylight to survive.
+
+Availability
+Deepwine was among drow goods traded by Malakuth Tabuirr in the underground city of Skullport underneath the City of Splendors, Waterdeep.
+The illithid black market in Samarach traded in rare and exotic commodities from the Underdark, including the elusive deepwine.
+
+Appendix
+Drow green wine
+Appearances
+Video Games
+Neverwinter Nights 2: Storm of Zehir
+References
+
+---
+
+## Deep Delvers
+
+The Deep Delvers were young heirs of the Waterdhavian nobility adventuring in Undermountain.
+
+Activities
+Being bored young men, the Delvers would seek excitement by exploring Undermountain. They were looking for danger and dares, and usually brought back trophies and other tokens proving their achievements. They would sometimes play pranks on other adventurers, which would gain them fame among their companions.
+
+Base of Operations
+When they were not attempting daring deeds, the Delvers could be found in the Yawning Portal drinking and telling the tales of their adventures.
+
+Possessions
+When entering Undermountain, the Delvers would always bring with them the 'up fee', which was paid to be hauled back up in the Yawning Portal at the end of their journey.
+
+Members
+ Bleys Crommor
+ Dundald Gost
+ Myrnd Gundwynd
+ Horth Hunabar
+ Jandal Ilzimmer
+ Morgunn Lathkule
+ Shauban Zulpair
+ Corinna Dezlentyr
+
+Appendix
+
+References
+
+---
+
+## Deflect psionics
+
+Deflect psionics was a spell used by clerics of Deep Duerra.
+
+Effects
+When cast, this spell deflected psionic attacks directed towards the caster. However, this spell only protected the caster if another creature was within the spell's area of effect. If that was the case, the psionic attack deflected and struck the other individual instead. The spell could not deflect a psionic attack back to its origin. If no other creature was within the spell's area of effect, the psionic attack struck the caster as intended.
+
+Components
+In addition to a somatic component, this spell required a material component, the holy symbol of Deep Duerra.
+
+Appendix
+References
+
+---
+
+## Delphine Regent
+
+The Delphine Regent was the title for the leader of the Church of Istishia.
+
+Description
+As this title was hereditary, one could only gain such a title by being the firstborn of the bloodline of Grand Oracle Seldeetha Darinaalis. The coat-of-arms of the Delphine Regent were covered in the imagery of dolphins.
+
+History
+In around 1369 DR, the title of Delphine Regent was held by Aquaril Sethanilar. He lived a most-secret life in the Castle of the Dancing Dolphin.
+
+Appendix
+References
+
+---
+
+## Demarche
+
+A demarche  or demarchess  was a priest of the Church of Mask, though the term originally referred to Maskarran specialty priests.
+
+Culture
+Demarches were typically regarded as the elite of the Church of Mask, often rising to the position of high priest.
+
+Abilities
+Most demarches were proficient in thieving skills, and could communicate in thieves' cant. They were usually also skilled at the arts of disguise, forgery, and reading lips.
+
+Through their devotion to Mask, demarches could gain access to Maskarran spells like shadowcloak. With time and training, they could also learn to cast various shadow-themed spells such as darkness, Lorloveim's creeping shadow, shadow door, shadow monsters, demi-shadow monsters, shades, Lorloveim's shadowy transformation, shadowcat, shadow walk, and vanish.
+
+Unlike regular clerics of Mask, demarches could neither turn nor command undead.
+
+Possessions
+A demarche was typically outfitted in some form of leather armor and armed with either a bludgeoning weapon or a knife, dagger, or hand crossbow.
+
+History
+Following Mask's loss of status in the divine hierarchy after the Time of Troubles, the amount of specialty priests in the church increased significantly. This was because Mask felt demarches fulfilled a useful support role for thieves, who made up the bulk of his base of worshipers, and so he furiously encouraged the recruitment and advancement of specialty priests. As of the, demarches made up roughly forty percent of the Church of Mask, with regular priests making up about thirty percent.'
+
+As of the 15 century DR, the term demarche (and demarchess) referred to any priest of Mask.
+
+Notable Demarchs
+ Hond Rhauballa, Shadowlord Demarche of the House of Spires and Shadows in Westgate.
+ Avnon Des, First Demarche of the Hall of Shadows, a temple of Mask in Elgrin Fau, a city from another world that was trapped in the Shadowfell.
+
+Appendix
+See Also
+ Demarch's Alliance
+
+Appearances
+Novels
+Soulbound • The Godborn
+Video Games
+Icewind Dale II
+
+References
+
+---
+
+## Detect weapons
+
+Detect weapons was a spell used by clerics of Haela Brightaxe. A version named detect weaponry was a spell, which was more broadly available.
+
+Effects
+When cast, the caster was capable of detecting the presence of weapons. The detection area was up to  in front of the caster, with a width of . The spell could not penetrate barriers or walls that were too thick. The caster could not detect weapons on the other side of a stone wall that was more than  thick, nor a wooden wall more than  thick. A metal barrier of just  or more in width blocked the spell.
+
+The spell was capable of detecting weapons concealed with magic such as invisibility. It could also detect an object that was used as an improvised weapon. It could detect damaged weapons but only if they were still functional. There was also a small chance the caster was capable of detecting the exact kind of weapon. To hide from the spell an opponent needed to cast spells like secret weapon on the weapon itself, or nondetection on their person.
+
+Components
+In addition to verbal and somatic components, this spell required a material component, the holy symbol of Haela Brightaxe.
+
+Appendix
+References
+
+---
+
+## Delphaeryn Leiyraghon
+
+Delphaeryn Leiyraghon was a leader of the Cult of the Dragon in Sembia based out of Wyrmsmoke Keep, and a Wearer of Purple during the late 14 century DR.
+
+Appendix
+References
+
+---
+
+## Deepwater Isle
+
+Deepwater Isle, occasionally known as Deepwatch Isle, was a fortified island in the Sea of Swords off the Sword Coast North.
+
+Location
+This island was located east of Stormhaven Island and directly south of the city of Waterdeep, Deepwater Beacon, Umberlee's Cache, and the undersea hamlet of T'Quession.
+
+Description
+Deepwater was the largest in a ring of islands that enclosed and protected Deepwater Harbor. Part of the heavily fortified Deepwater Wall ran along the island's ridge. And the Isle was encompassed by the magical wards that protected Waterdeep.
+
+Underneath the island were flooded caverns.
+
+Culture
+Every year on Ches 30, the second day of the Fair Seas Festival, clerics from all the temples in Waterdeep and members of the city's sea-related guilds traveled to Deepwater Isle and spent the day on it fasting and praying.
+
+Inhabitants
+The island's fortifications were manned by the City Navy of Waterdeep. The flooded caverns of the island were garrisoned by a rotating force of sixty willing merfolk, sent from southern waters ever since -458 DR. In the, an influx of mermaid refugees from Laakos' Reef bolstered the garrison's ranks and transformed it into the village of Tharqualnaar.
+
+Notable Locations
+
+ Boatscrape Cove, a beach on the northern half of the island where ships were cleaned of barnacles and other incrustations.
+ Deepwater Beach, a popular site on the southern half of the island for mermaids to flirt with members of the City Guard.
+ Inner Fort, the main barracks and command center of the City Navy of Waterdeep on the eastern half of Deepwater Isle.
+ Outer Fort, the other base of the City Navy, located on the western half of Deepwater Isle.
+ Tharqualnaar, a merfolk village inside the undersea caverns of Deepwater Isle.
+
+Appendix
+Appearances
+Gamebooks
+
+Knight of the Living Dead
+Gallery
+
+References
+
+---
+
+## Delfen's Tower
+
+Delfen's Tower was the home of the skilled wizard Delfen Ondabarl who inhabited the city of Daggerford in the Western Heartlands in the mid-to-late 14 century DR.
+
+Location
+Delfen's Tower was actually incorporated into the surrounding wall that encapsulated Daggerford. The tower stood along the midway point of Daggerford's northern wall near the Farmer's Gate. The tower was located along Wall Street.
+
+Description
+The outward facing arrow slits on the tower's walls were smaller that usual given that Delfen only needed to see a target to cast a spell at them. The inward facing walls of the tower had larger windows so that he could enjoy a view of the city.
+
+Delfen's Tower was three stories tall. He used the top level as his personal quarters. The second level served as a classroom and dormitory for his students. The ground level was used to stable his mule and general supplies.
+
+History
+Delfen moved to Daggerford when the north wall was under construction. In exchange for a generous donation, Delfen was able to acquire one of the defensive towers to use as his personal home.
+
+Appendix
+References
+
+---
+
+## Deepstone Progeny
+
+Deepstone Progenies were several enchanted battleaxes created to slay a vampire named Torgin of the Light sometime before 1372 DR.
+
+Powers
+These axes possessed a +2 enchantment and made the wielder completely immune to death magic.
+
+History
+Deepstone Progeny axe was modeled after the weapon wielded by a renowned undead hunter Torgin of the Light, until he was turned into that which he hated the most, a vampire. Torgin's comrades made an oath to end Torgin's existence as a bloodsucking creature of the night. They enchanted at least several copies of Deepstone Progeny and took the weapons to battle their old friend. History books did not know what happened next; however, Deepstone Progenies eventually started appearing across Faerûn.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights • Neverwinter Nights 2 • Neverwinter Nights 2: Storm of Zehir)
+References
+
+---
+
+## Derf's Skin Art
+
+Derf's Skin Art was a business located in the city of Daggerford in the Western Heartlands in the mid-to-late 14 century DR.
+
+Location
+The establishment was located along Rogar Alley in western Daggerford near the Caravan Gate.
+
+Activities
+Derf's Skin Art provide tattooing services as well as body piercing and artistic scarring. The business was owned by Derf.
+
+Appendix
+References
+
+---
+
+## Decorated Man
+
+Decorated Man was a tailor shop located in the city of Daggerford in the Western Heartlands in the mid-to-late 14 century DR.
+
+Inhabitants
+The shop was owned by the tailor Ballick.
+
+Appendix
+
+References
+
+---
+
+## Derf
+
+Derf was a businessman and tattoo artist inhabiting the city of Daggerford in the Western Heartlands during the mid-to-late 14 century DR.
+
+Activities
+He owned a shop called Derf's Skin Art specializing in body art such as tattoos and piercings. His shop was located in western Daggerford on Rogar Alley near the Caravan Gate.
+
+Relationships
+Derf's apprentices were Sniden Elkslodge and Zarebor.
+
+Appendix
+References
+
+---
+
+## Detect dwarves
+
+Detect dwarves was a spell used by clerics of Sharindlar.
+
+Effects
+When cast, this spell allowed the caster to detect any dwarves up to  in front of the caster. The spell was capable of detecting azer, derro, duergar, half-dwarves and even dead dwarves or dwarven blood. Even if hidden by an illusion-based spell, invisible, or shapechanged.
+
+Components
+In addition to verbal and somatic components, this spell required a material component, the holy symbol of Sharindlar.
+
+Appendix
+References
+
+---
+
+## Detect enemies
+
+Detect enemies was a spell used by clerics of Vergadain.
+
+Effects
+When cast, this spell detected the presence of a creature with hostile intent towards the caster. It was capable of detecting any said creature, even if astral, disguised, ethereal, hidden, invisible, out of phase, within  of the caster.
+
+Components
+In addition to verbal and somatic components, this spell required a material component, the holy symbol of Vergadain.
+
+Appendix
+References
+
+---
+
+## Derwin Stonecarver
+
+Derwin Stonecarver was a shield dwarf of Clan Ironeater who lived in Daggerford during the 13 and 14 centuries DR.
+Possessions
+In addition to the anvil-shaped altar of Imix Derwin brought home from his travels, he also possessed an enchanted warhammer which was buried with him when he died. Derwin's hammer was the only means to destroy the altar and retrieve the elemental Fire Key sealed within it.
+Activities
+The frescoes painted on Derwin's sarcophagus showed that in addition to his discovery of the altar, he was remembered for drinking much ale and battling many orcs, though he ultimately died of natural causes.
+Relationships
+Derwin was a brother to Derval Ironeater and Korin Ironaxe. He was the youngest of the three. Derwin was well-loved by his brothers, and they commissioned a granite statue of him after his passing.
+History
+After the, when the Ironeater clan abandoned their home beneath Mount Illefarn, Derwin took up travelling. During his travels, he came to possess a massive altar in the shape of an anvil, which he mistakenly believed was dedicated to Moradin. When he returned to his brothers who had settled in Daggerford, Korin interpreted the altar's arrival as an omen that it was time to return to their tunnels.
+
+Circa the, during the earthquake that struck Daggerford, Derwin and his two sons were trapped beneath the rubble when the town barracks' north wall partially collapsed.
+Appendix
+Appearances
+Adventures
+ Under Illefarn
+
+ Ghosts of Dragonspear Castle
+References
+
+---
+
+## Deep
+
+Deep was one of the lord high advisors in the city of Scornubel during the mid–14 century DR.
+
+Activities
+Deep worked closely with the Zhentarim, providing the Black Network with crucial information regarding operations within Scornubel that they used to further expand their reach within the Caravan City.
+
+Appendix
+References
+
+---
+
+## Dew-worm
+
+Dew-worms, also known as whiteworms, were a large species of earthworm found in the Realms.
+
+Description
+These creatures were similar in size to bookworms and rot grubs.
+
+Ecology
+Habitats
+Particularly large dew-worms could be found in Tashalar.
+Usage
+Dew-worms preserved in rose-wine jelly was a regional delicacy of Tashalar, though many found this tradition to be disgusting. And the Copper Coronet, a tavern in Athkatla, often had dew-worms in its stews.
+
+Appendix
+External Links
+
+References
+
+Connections
+
+---
+
+## Devil's Guile
+
+Devil's Guile was an enchanted short sword thought to be a relic from the fields of the infinite Blood War.
+
+Powers
+The sword possessed a +1 enchantment and constantly generated a potent poison that, upon entering the target's wound, weakened them, sapping away their strength. The magics imbued into Devil's Guile made the weapon only usable by creatures of evil inclinations.
+
+History
+Devil's Guile was created alongside its sister blade, Demon's Spite, and apart from that, little else was known about both swords. Some claimed that Devil's Guile was born in the infinite war between Baator and the Abyss. However, that theory had little weight due to the weapon's relatively weak enchantments. It was much more likely that Devil's Guile was created and used on the Prime Material plane. One thing sages agreed on—Devil's Guile and Demon's Spite were created in the days of the long-forgotten past.
+
+Circa the, both swords were wielded by Rinara of Westgate, an ex-member of the Night Masks. She used the magic weapons in her attempts to rid the guild of the influence of the vampires who took over the organization several years prior.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Mysteries of Westgate
+
+References
+
+---
+
+## Detention Center
+
+The Detention Center was a jail located in the city of Zhentil Keep during the mid–14 century DR before that city's destruction.
+
+Location
+The Detention Center was located in Zhentil Keep's Inner Quarter on Gold Street across from the High Hall.
+
+Activities
+Anyone arrested within Zhentil Keep, regardless of the validity of the charges brought against them, was required to spend at least one night in the Detention Center before being brought before the judicial administrator.
+
+Appendix
+References
+
+---
+
+## Demon's Spite
+
+Demon's Spite was an enchanted short sword thought to be a relic from the fields of the infinite Blood War.
+
+Powers
+Demon's Spite had a certain malicious aura about it, and it inspired a twinge of its ill-nature in anyone who even dared to gaze at the weapon. The sword possessed a +1 enchantment and had a good chance of infecting its targets with demon fever. The magics held within the sword made it usable only by creatures that followed the path of evil and destruction.
+
+History
+Demon's Spite was created alongside its sister blade, the Devil's Guile, and apart from that, little else was known about both swords. Some believed that the short sword was forged in the Abyss, but it was likely mere speculation, based on the Demon's Spite's malicious magics. For a long time, the weapon was considered just a legend until it resurfaced in Westgate in the hands of the city's ruling merchant council member. The sword had spent a couple of years with the councilman until a well-publicized burglary. Subsequently, Demon's Spite occasionally appeared in local rumors, claiming its use by Westgate's criminal underbelly.
+
+Circa the, both swords were wielded by Rinara of Westgate, an ex-member of the Night Masks. She used the magic weapons in her attempts to rid the guild of the influence of the vampires who took over the organization several years prior.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Mysteries of Westgate
+
+References
+
+---
+
+## Deva's Bile
+
+Deva's Bile was a type of dangerous alcohol created in the Abyssal city of Samora, on the layer of Azzagrat.
+
+Description
+Deva's Bile was a rare fiendish drink. It was hard to find outside Samora's breweries. The concoction was deadly to those from the Prime Material plane and for some lucky mortal imbibers – survivable but poisonous. Those who survived consuming Deva's Bile went into a roaring drunk rage and, eventually, succumbed to violent illness.
+
+Appendix
+Appearances
+Adventures
+For Duty & Deity
+
+References
+
+---
+
+## Demetria Fortunato
+
+Lucklady Demetria Fortunato was the High Priest of Tymora in Tymora's Holy Hall of Good Fortune and Casino in the Foreign Quarter of Zhentil Keep in the .
+
+Personality
+Demetria was very outgoing and possessed a keen intelligence, though she suffered from a short attention span.
+
+Activities
+Demetria oversaw the entire casino and temple. She was assisted by 24 other clerics and assistants.
+
+Apendix
+References
+
+---
+
+## Deldron Rein
+
+Deldron Rein was a wealthy merchant of the Rein family of Loudwater in the Delimbiyr Vale in the mid-to-late 14 century DR.
+
+Activities
+He was the owner (but not manager) of properties such as the Red Boar Inn and the leader of the Red Boar Trading Coster. His preferred caravan captain in the coster was Geveral Telkku.
+
+He also engaged in a number of lumbering ventures in the Delimbiyr Vale, though some, particularly local elves, raised concerns about them.
+
+Relationships
+Deldron had a number of children, including his daughter Jesym, the traitor, and his son Stedd, the youngest.
+
+History
+When his son Stedd returned from the College of War in Athkatla in the, while he was still en route to Loudwater, Deldron departed the city to greet his son and conduct business in Daggerford, taking the Red Boar Trading Coster's sizeable guard with him. But a magical communication from Loudwater alerted Deldron about a vicious lycanthrope attack, known as the Night of the Blood Moon, and the Reins and their Red Boars hastened to return. Deldron sent Stedd ahead with half his forces while he followed close behind. When Deldron arrived in the aftermath, he heard many praising his son for his heroism and leadership, and was pleased. It also improved the Rein name, erasing the earlier memory of Jesym's treachery.
+
+Appendix
+Notes
+
+Appearances
+Organized Play & Licensed Adventures
+
+Extermination • Gray Hunt • Key to Phantoms' Cloister • Humility
+
+References
+
+---
+
+## Deanna
+
+Deanna was a barmaid inhabiting the city of Zhentil Keep during the mid–14 century DR.
+
+Activities
+Deanna worked in the Tesh-Wave, a tavern located on the waterfront in Zhentil Keep's Foreign Quarter. In addition to serving drinks to customers, Deanna sometimes provided other more carnal services.
+
+Appendix
+References
+
+---
+
+## Dellanil Quil'quien
+
+Dellanil Quil'quien was an elf king of Shilmista and one of the forest's legendary heroes. His writings were contained in an ancient tome.
+
+His son was Gil Telleman, and his descendants were Galladel and Elbereth.
+
+Appendix
+
+References
+
+---
+
+## Decree of Reception
+
+The Decree of Reception was a law enacted in Loudwater in the Delimbiyr Vale in the late 14 century DR that allowed orcs free passage and rights in the city.
+
+History
+During the Gray Migrations of the High Forest orcs across the Delimbiyr Vale in the summer of the, the orcs became more and more common in Loudwater. They settled in and around the city, establishing a shanty town in the south outside the Forestview Gate, and took menial jobs to make enough coin to support their tribes.
+
+Then, one evening only two bells after sunset, a pair of orcs were slain in the street outside the Red Boar Tavern. Though this was the busiest time for the tavern, somehow, the authorities could not find one witness to the incident, let alone the killer.
+
+In response, High Lord Kalahar Twohands made the Decree of Reception to confirm the rights of the visiting orcs. He also ordered the Loudwater Guard be posted to the Red Boar at all times to ensure peace there, with two guards in the day and four at night.
+
+It was intended to mitigate the impact of the Gray Migrations on Loudwater and its lands, but many in the city, both humans and elves, were confused by Kalahar's generosity and some disagreed with and even loudly opposed the decree. Although the folk of Loudwater had much tolerance, their old enmities would not fade fast, and many still distrusted and disliked the orcs. While the Decree of Reception was abided by, visiting orcs were often treated coldly and were grudgingly served at the Red Boar. The merchants, of course, appreciated them as a source of cheap labor. The orcs, for their part, remained peaceful and considerate.
+
+Yet six more orcs would be found dead in the neighborhood of the Red Boar, not mutilated and on display, and left with a predictable message: "The only good orc…"
+
+Terms
+Under the Decree of Reception, the orcs were permitted to enter Loudwater, were granted rights similar to those of citizens, and were protected under the law, provided they in turn obeyed the law.
+
+Appendix
+
+References
+
+---
+
+## Deep breath
+
+Deep breath was a spell that filled a creature's lungs with air and allowed them to hold their breath for a supernatural length of time. The reverse of this spell was steal breath, which forced all air out of a target's lungs.
+
+Effects
+The spell had two forms. The older version allowed the caster to touch a creature and imbue them with the ability to inhale a magically huge amount of air that could sustain them for minutes, or to fill their lungs with such an amount of air if they were already holding their breath. A newer version—sometimes called air bubble—would only fill one's own lungs with air, but then would continue to refill them with conjured air for a short time. In either case, the recipient of the spell had no need to breathe for the spell's duration (which was determined by the experience of the caster). This prevented suffocation and provided defense against most mundane and magical gasses. The spell did not impart any additional ability to move or navigate in environments without air.
+
+The spell could also be used to counter castings of steal breath.
+
+Components
+The older variant of the spell had a short verbal and somatic component, and required a small animal bladder filled with air as a material component. This bladder was popped over the mouth of the spell's recipient.
+
+The newer variant of the spell required only a quick verbal utterance, allowing it to be cast almost instantaneously.
+
+History
+It was rare to encounter the deep breath spell on Toril, although it was more common on Athas.
+
+In the mid-to-late 14 century DR, the material components for this spell could be purchased from places like Aurora's Emporium for 5 copper pieces per bladder.
+
+Appendix
+See Also
+ air bubble
+References
+
+---
+
+## Demons of the Samarlogh
+
+The Demons of the Samarlogh was the name given to a wandering swarm of massive fiendish giant spiders found in the jungles of the Samarlogh in the late 14 century DR.
+
+History
+These giant spiders were bigger, stronger, dramatically faster, and smarter than their kin that did not have the taint of the lower planes. Their powerful venom caused delirium, and fiendish blood made them unaffected by mundane and magical fire. The Demons of the Samarlogh were known among the inhabitants of the jungles and settlements nearby for their malice and relentless hunger. As of the, the Demons terrorized the intelligent creatures of Samarach.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Storm of Zehir
+References
+
+---
+
+## Detect spirits
+
+Detect spirits was a spell used by clerics of Sehanine Moonbow.
+
+Effects
+By means of this spell, the caster was capable of detecting the presence of almost any kind of spirit, including disembodied, noncorporeal animals and nature spirits, and even astrally projected creatures. The spell could also detect possessed creatures and creatures using magic jar. The detection area of the spell was a path  in width and  in length.
+
+The spell was unable to detect ethereal, invisible or phased creatures. The spell also did not grant the caster the ability to communicate with any detected spirit.
+
+Components
+In addition to verbal and somatic components, this spell required a material component, a small pendant made from copper wire with a value of at least 20 gp.
+
+Appendix
+References
+
+---
+
+## Deepknight's brigandine
+
+Deepknight's brigandine was a type of enchanted heavy armor found in Gauntlgrym and in areas of the Underdark.
+
+Powers
+Deepknight's brigandine possessed increased defensive qualities, enchanted specifically for those who ventured into the deadly darkness of the Underdark. These types of armor were dyed to blend in with the pitch blackness of the underground caves. Despite being a heavy type of armor, it was crafted light enough to help the wearer dodge attacks of the Underdark's hungry denizens.
+
+History
+These brigandines were worn by dwarven forces and adventurers who came to Bruenor Battlehammer's aid in Gauntlgrym in the 15 century DR. The underground city was besieged by Orcus's demons and alhoons attempting to claim Gauntlgrym. Bruenor himself was unable to defend his throne as he was sworn to aid Drizzt Do'Urden against Demogorgon, ravaging the Underdark.
+
+Appendix
+Appearances
+Video Games
+Neverwinter: The Cloaked Ascendancy
+References
+
+---
+
+## Dead power
+
+The term dead power was used to refer to a dead deity.
+
+Deific Death
+Deities were not wholly immortal; it was possible for them to be killed, though they were also known to come back from the dead. As a general rule, a deity could only be slain in their home plane, by another deity (except for demipowers, who could be killed by exceptionally powerful mortals). Deities could also fade away and apparently die when they were forgotten. The Time of Troubles provided a temporary exception to these rules, however. A deity could also seem to die if their connection to a given sphere was severed.
+
+The sheer power and responsibilities of a deity were typically passed on or taken by their killer. However, if the killer was incapable of taking up the power, it was instead split amongst the next most suitable deities in the pantheon, or, if the dead power's portfolio was a subset of a more powerful deity's portfolio, then their power passed to their superior.
+
+Deific Dead
+
+When a deity was actually dead, their body was mystically transported to the Astral Plane, to drift there for all eternity. Such bodies were largely inert, save for occasionally seeming to stir as if asleep rather than dead.
+
+Sometimes, the memory and personality of a deity was separated from their power and true form at the moment of their death, typically by the interaction of the magical turbulence of their death with the magic of a powerful relic or artifact into the same area. In such cases, the deity remained awake but imprisoned, in a sense, though vastly uncomfortable with their much-reduced state.
+
+Deific Resurrection
+While it was theoretically possible for a deity to be utterly destroyed, in practice, deities were more than capable of returning from the dead. One way this could occur involved a great deal of worship and a long ceremony with many offerings. Additionally, in Toril, Ao had the final say over whether a deity of that sphere could return to life. However, newly risen deities were not more than demipowers in might.
+
+Appendix
+References
+
+---
+
+## Depress resistance
+
+Depress resistance was a spell used by clerics of Shevarash.
+
+Effects
+When cast, this spell allowed the caster to reduce the natural magical resistance of a targeted creature. It was particularly effective against drow targets. The spell did not have any effect on creatures without magical resistance.
+
+Components
+In addition to verbal and somatic components, this spell required material components: the holy symbol of Shevarash and a fractured rod of iron
+
+Appendix
+References
+
+---
+
+## Delric
+
+Delric was one of the four bartenders who also worked as bouncers of the Copper Coronet in the River District of Athkatla, in the late 14 century DR.
+
+Description
+Delric was a balding mountain of a man. His ears were decorated with earrings and he worked wearing his breastplate, greaves, and armored codpiece. Judging by his posturing and physique, Delric was an experienced fighter. When at the Coronet, Delric showed only cold stoic face, rarely acting over-friendly with customers..
+
+History
+By the late 14 century DR, Delric was an established member of the Copper Coronet's staff. He, along with Vaermaer, Bordovan, and Othlo, was supervised by Old Sarvo Droostan, the Coronet's tavernmaster. Delric worked in full armor and was proficient in stopping trouble, fighting off rowdy drunkards, spotting drunk spell-casting, and faked intoxication. The bouncer and the rest of the mountainous men kept large rocks behind the bar. These rocks were used as projectiles, thrown around with immaculate precision at drunken troublemakers. Delric's attitude changed to glacial when a city official or an obviously rich visitor entered the Coronet. He and his fellow bartenders did not tolerate patrons harassing the Copper Coronet's female employees.
+
+Appendix
+References
+
+---
+
+## Dezlentyr Villa
+
+Dezlentyr Villa was the family estate of the Waterdhavian noble house Dezlentyr.
+
+Location
+The villa was located in the central section of Waterdeep's Sea Ward on the southeast corner of where Feather Street and Delzorin Street joined.
+
+Description
+The walled compound contained three separate buildings. Two of the buildings were much larger than the last. Each building stood between two and four stories tall.
+
+Appendix
+References
+
+---
+
+## Destroy undead
+
+Destroy undead was a powerful version of the arcane magic wizard spell hold undead.
+
+Effects
+This spell disintegrated corporeal undead whose life force was weaker than that of the caster. This spell had no effect upon incorporeal undead such as ghosts or wraiths.
+
+Components
+In addition to verbal and somatic components, this spell required as a material component a priest's holy symbol to cast.
+
+History
+An even more powerful version of this spell was capable as a power through the use of the artifact called the Ankh of Life from the Old Empires.
+
+Appendix
+References
+
+---
+
+## Delavaundar
+
+Delavaundar was a member of the War Wizards of Cormyr, active in the mid 14 century DR.
+
+History
+In the, Delavaundar, alongside Marlegast, was assigned by Vangerdahast Aeiulvana, the Royal Magician of Cormyr, to dig for information on two of the newest members of the Knights of Myth Drannor. Then, the troupe bore the name of the Swords of Eveningstar, and its newest additions included "Pennae," or Alura Durshavin of Arabel, and Martess Ilmra. Delavaundar and Marlegast dug up both lasses' family history and parts of their past, delivering the intel to Vangerdahast and his aide Laspeera Inthré.
+
+Appendix
+Appearances
+Novels
+
+Swords of Eveningstar
+References
+
+---
+
+## Delgora
+
+Delgora was a small town located in the country of Mulhorand during the mid–14 century DR.
+
+Geography
+Delgora was a coastal town located in western Mulhorand along the southeastern coast of the Alamber Sea northwest of the mouth of the River of Spears. It lay between Neldorild to the northwest and Gheldaneth to the southeast.
+
+Activities
+Mulhorand's prime fishing fleet was based in Delgora.
+
+Appendix
+References
+
+---
+
+## Deluma Dauntrael
+
+Deluma Dauntrael was the matriarch of the Dauntrael clan as of the late mid-14 century DR.
+
+Activities
+She grew fruit in her gardens as a hobby, often using spells that altered light or heat.
+
+Abilities
+Deluma spent much time improving her understanding of the Weave, achieving a level of fine control over her spells akin to that of a Magister. She could have eventually crafted a Cormathan spell-web, had she meant to.
+
+Appendix
+References
+
+---
+
+## Detect drow
+
+Detect drow was a divine divination spell from the divination sphere that alerted the caster to the presence of drow.
+
+Effects
+This spell informed the caster if drow were present in the direction they faced, letting them know the precise number of drow and sometimes the nature of their skills. The spell was blocked by solid stone, metal, or wood surfaces.
+
+Components
+In addition to verbal and somatic components, this spell required as a material component the priest's holy symbol to cast.
+
+History
+This spell was granted dwarf priests of Shevarash, and gnome priests of Callarduran Smoothhands.
+
+Appendix
+References
+
+---
+
+## Deepstar
+
+Deepstar was a deep, tiny pool west of Elmwood.
+
+Characteristics
+The pond had its name because, in moonless nights, it reflected a single, bright star from the sky.
+
+West of it lay one of the refuges created by Maldiglas Turntower.
+
+Appendix
+References
+
+---
+
+## Decision
+
+Decision was a unique enchanted flaming falchion once wielded by General Anali Cyl of Neverwinter during the Luskan-Neverwinter war of 1372 DR.
+
+Powers
+The falchion was an enchanted blade coated in magic flames. In addition to its +2 enchantment, Decision dealt fire damage to its targets.
+
+History
+Decision was the family heirloom blade belonging to a wealthy family of Neverwinter. When the Jewel of the North entered the war with its bitter rival neighbor Luskan in the, led by traitor Aribeth de Tylmarande, Anali's family attempted to ship her to Waterdeep. She was to be wed to a wealthy merchant family scion in the City of Splendors, away from Neverwinter. Anali much preferred to stand and die in defense of her home. She grabbed Decision off the wall and stormed off. As the war raged on, Anali Cyl became a famous General, wielding the family blade in battle.
+
+By the, General Anali Cyl's falchion fell into the hands of Aldanon, Sage of Neverwinter. The magic sword was stored in the basement of his manse in the Blacklake District.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2
+References
+
+---
+
+## Delude
+
+Delude was an arcane alteration spell that concealed the caster's true nature from others.
+
+Effects
+Delude concealed the caster's true nature from anyone within  when the spell was cast. Those under the influence of the spell's magic could not discern, by mundane or magical means, if the caster was pure of heart or wicked. If magical means such as know alignment were used on the caster, then the assumed alignment was detected by the spell and not the caster's true nature.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+History
+Deceiver genies in Zakhara, the Land of Fate, used the delude spell.
+
+Appendix
+References
+
+---
+
+## Deliverance Unto Darkness
+
+The Deliverance Unto Darkness was a religious event observed by worshipers of Ibrandul, the Lord of the Dry Depths.
+
+Description
+Ibrandul's faithful observed this ceremony on Midwinter's Eve. They thanked their god for rescuing from the hands of the wicked drow. The sacrifice of a creature sacred to the drow and Lolth, such as a giant spider, was performed along with the casting of the dark path spell. Chains of Ibrandul's faithful would then walk through the Underdark, aided by the powers granted by the spell and trusting in Ibrandul to protect them from harm.
+
+Appendix
+References
+
+---
+
+## Deep Temple of Dark Hope
+
+The Deep Temple of Dark Hope was a temple dedicated to Ibrandul, the Lord of the Dry Depths.
+
+Location
+The temple was constructed far beneath the streets of Waterdeep.
+
+Activities
+The temple was used as a stronghold or sanctuary by adventurers exploring Undermountain and the Underdark if they paid the steep fee charged by Ibrandul's clergy. The temple was connected to the Dark Gateway via a gate.
+
+Appendix
+References
+
+---
+
+## Des
+
+Des was a small coastal town located in the nation of Var during the 14 century DR.
+
+Geography
+Des was located in eastern Var along the southern shore of the Golden Water. The town sat due north from Myrmyr.
+
+Appendix
+References
+
+---
+
+## Desmodu
+
+Desmodu were a species of large, subterranean humanoids related to bats.
+
+Habitat
+Desmodu could be found throughout the Underdark, from the wilds of the Upperdark to the desolate depths of the Lowerdark.
+
+Appendix
+
+Appearances
+References
+
+Connections
+
+---
+
+## Deadly Treasure
+
+Deadly Treasure was an ankylosaurus that lived in Port Nyanzaru in Chult during the late 15 century DR.
+
+Personality
+She was known for being particularly bad-tempered.
+
+Relationships
+Deadly Treasure was a pet to and mount for Kwilgok, a tortle guide that offered his services to anyone that passed through Port Nyanzaru. She followed him everywhere and he thought her to be a prize specimen.
+
+Appendix
+Appearances
+Adventures
+The Tortle Package
+References
+
+---
+
+## Devil's clasp
+
+A devil's clasp was a protective magic item. They could be found in Waterdeep as of the late 15 century DR.
+
+Powers
+The clasp could reflect a portion of the power of incoming attacks back at the wearer's attackers in a fashion similar to a hellish rebuke spell.
+
+Notable Owners
+ Farideh, a tiefling warlock, was said to possess a devil's clasp while adventuring in Waterdeep in the late 15 century DR.
+
+Appendix
+Appearances
+Video Games
+Warriors of Waterdeep
+References
+
+---
+
+## Deep Hunting Grounds
+
+The Deep Hunting Grounds was a temple dedicated to Malar, the Beastlord.
+
+Location
+The temple was located within Undermountain beneath Mount Waterdeep in a subterranean forest called Wyllowwood.
+
+Inhabitants
+Arbenita Darkwind led a congregation of sixty priests, warriors, and rogues who worshiped Malar.
+
+Activities
+Though most hunts took place within Undermountain, Malar's faithful often spilled onto the streets of Waterdeep above ground with increasing frequency.
+
+Appendix
+References
+
+---
+
+## Dead Man's Corner
+
+The Dead Man's Corner was a ramshackle and crammed shop in Skullport that traded in human zombies in the late 15 century DR.
+
+Services
+The shop was run by a sea hag disguised as an old woman named Olive Stillwater in the . Her inventory included twelve zombies on average. Her corpses came with a leash for the buyer to drag their zombies around. These leashes were nooses around zombies' necks. Each shambler was sold for a humble price of a single vial of the buyer's blood and three hairs from their head.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deep-worm
+
+A deep-worm was an immense subterranean lifeform in Cormanthyr.
+
+Ecology
+Despite being called worms, they had bones; those bones were huge enough to be used to prop up a corridor after the creature's death.
+
+History
+By, a deep-worm had attempted to break into the Vault of Ages, looking for metal to eat; the Srinshee had used its bones to prop up a passage.
+
+Appendix
+Appearances
+Novels
+
+Elminster in Myth Drannor
+
+References
+
+Connections
+
+---
+
+## Denzar
+
+Denzar was a frontier mining town in Gauros tharch of Thay, in the north-eastern region of the nation.
+
+Description
+Denzar was a grim settlement shrouded by a constant flow of sulfurous smoke from its wood-fueled smelters. Most structures in the town were rubblestone-walled buildings. Beasts of burden – oxen and mules were used to cart ore and wood in support of the mining industry.
+
+The town's inhabitants were hard-working, and harder-drinking outcasts, misfits, and half-bloods hired to work in the smelters. The workers' injuries were magically healed when they were hurt. The mining and smelter folk were strong and hardened, tough enough to take on a Thayan veteran bare-handed, downing them with a single punch or rip apart Thayan undead servants with relative ease.
+
+Red Wizards, nobles, wealthy, or snobbish folk were sullenly disliked in Denzar.
+
+Geography
+Denzar stood in the foothills of the Sunrise Mountains, on the northern shores of the River Gauros, past a bridge across it, along the road that connected Gauros Keep to the north and Chur Gathos to the southeast in the Daggertooth Pass. Denzar was the easternmost endpoint of the Sur Road.
+
+Trade
+Denzar served as a supply and processing center for the many Thayan mines scattered in the Sunrise Mountains. The town provided the miners with food, equipment, mules, and other supplies. Its smelters processed copper, with some lead, silver, and occasional gold.
+
+Appendix
+References
+
+---
+
+## Delvesonn
+
+Delvesonns were specialty priests devoted to Dumathoin, the Keeper of Secrets Under the Mountain.
+
+Culture
+The vast majority of delvesonns were shield dwarves or urdunnirin, but members of all of the dwarf races, both males and females, could become a delvesonn. Particularly powerful delvesonns were sometimes selected by Dumathoin to become his chosen.
+
+Abilities
+Delvesonns were always skilled blacksmiths or weaponsmiths. They also excelled at mining and mountaineering.
+
+In addition to their normal spells, delvesonns could cast fist of stone, detect metals and minerals, meld into stone, stone shape, stoneskin, and passwall on a daily basis. Additionally, they could cast identify at will and stone tell three times per day. Dumathoin's blessing protected a delvesonn at all times similar to wearing a ring of mind shielding, protecting their mind from magical intrusions of psionics and spells such as ESP, detect lie, etc.
+
+Possessions
+Delvesonns did not have restrictions on the type of weapon they were permitted to wield nor the armor they were allowed to wear.
+
+Appendix
+References
+
+---
+
+## Denlor's Tower
+
+Denlor's Tower or Denelor's Tower was a former city defense structure in the city of Phlan. It was located in the harbor in the eastern part of the Old City. It was claimed by Denelor the Red, a Red Wizard of Thay in 1338 DR but history recounted that he "fell to the hordes of Phlan" only 2 years after. It was later in use by Rowena circa 1370 DR, who was also a Red Wizard.
+
+Appendix
+
+References
+
+---
+
+## Delzimmer Villa
+
+Delzimmer Villa was the home of the Delzimmer noble family located in Waterdeep during the mid-to-late 14 century DR.
+
+Description
+The building stood four stories tall.
+
+Location
+Delzimmer Villa was located in the northwest section of Waterdeep's Castle Ward on the northeast side of Swords Street across from Blackstaff Tower.
+
+Appendix
+References
+
+---
+
+## Deljasaa Rammathor
+
+Deljasaa Rammathor, whose nickname was Lady Wind, was a rogue inhabiting Waterdeep, City of Splendors, during the mid-to-late 14 century DR.
+
+Personality
+She had a reputation for being a shrewd negotiator.
+
+Activities
+Deljasaa was the guildmaster for the Saddlers' and Harness-makers' Guild during the mid-to-late 14 century DR. She held the title of "Guildmistress High" within the guild and worked and lived within the Saddlers' & Harness-Makers' Hall–their headquarters in the Southern Ward.
+
+History
+Once a skilled jockey, Deljasaa switched from racing horses to breeding them following several dangerous accidents.
+
+Appendix
+References
+
+---
+
+## Dethaera Matchlass
+
+Dethaera Matchlass was a participant in a ritual of the mid-late 14 century DR.
+
+Abilities
+At the end of her ritual, she had gained knowledge of so many spells it hurt.
+
+History
+In, Dethaera was a participant in a Magefire ritual, which unfortunately coincided with the moment when Mystra noticed that Elminster Aumar had become trapped in Avernus. In her distress, amongst other effects, Dethaera's gentle floating became a soaring, and she gained knowledge of spell after spell, in a painful manner.
+
+Appendix
+Appearances
+Novels
+Elminster in Hell
+References
+
+---
+
+## Demitrick
+
+Demitrick,The only name given for this character is "Old Scout". This article assumes he has the same name as his son, Pilot Demitrick, for convenience, but other interpretations are possible. nicknamed Old Scout, was a fisher and rebel of Targos in Icewind Dale in the mid–14 century DR.
+
+Relationships
+He was the father of Pilot Demitrick.
+
+History
+Demitrick and his wife owned and operated three small boats to fish Maer Dualdon in the 1350s DR. Their catches were good and were shipped as far away as Triboar and Leilon in the south.
+
+But during the Battle of Icewind Dale, in the, Akar Kessell's forces surrounded and seized Targos. Many inhabitants of the town hid and barricaded themselves within their homes, preferring to let time and the elements take the lives of the savage invaders. However, the Old Scout and a few others took up arms and actively fought Kessell's minions. He, along with three trusted comrades, carried out guerrilla strikes on Kessell's forces, targeting patrols and supply caravans. After three days of this, to find out who was responsible, Akar Kessell tortured several citizens of Targos, and then captured Pilot's mother to force the Old Scout to surrender himself. Once he had them, Kessell killed them both as an example of his tyrannical will, leaving Pilot orphaned.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Demonshield
+
+Demonshields were magical shields binding powerful fiends and using them to grant magical powers to their users.
+
+Description
+Demonshields were magical shields forged from an alloy of silver with arjale and tantulhor, two rare ores found in the infernal layer of Phlegethos. This gave them a silvery appearance with a greenish hue, and caused them to be extremely resistant to physical attacks while retaining a level of flexibility. Having been created during the reign of the Shoon Imperium they were given the form of diamond shields, typical of that era.
+
+Powers
+The demonshields had the ability to grant their wielders powers borrowed from the fiends imprisoned within them during their creation. For example a demonshield containing a glabrezu would give its wielder unnatural resistances and immunity to some forms of elemental damage.
+
+While a fiend was imprisoned within a demonshield, it was impossible to communicate with them. If a shield was destroyed however, the creature within was released and free to act as it pleased.
+
+History
+During the  the wizard Halaster Blackcloak, then known as Hilather, was hired by the rulers of the Shoon Imperium. According to their agreement Halaster would provide the empire with a new way to bind fiends which was more secure than the methods used in this day and age, in exchange of which the wizard would receive some mysterious payment.
+
+Halaster spent four years working on his task in the realm of Torsil, hidden in the catacombs of an abandoned tower. He emerged four years later, during the, with thirteen magical shields and Hilather's Workbook—a libram describing their creation.
+
+Twelve of the shields were distributed amongst high-ranking members of the empires. There are records of those artifacts being used until the first century of the Seventh Age of Calimshan, at which point most of them became lost to history.
+
+During the, four lost demonshields were found in a barrow of the Fields of the Dead and brought to the School of Wonder to be studied there.
+
+The thirteenth shield, known as Kuraltaar, was kept in the vaults of the imperium for a long time. It was never used in battle, but was offered to a dragon during the .
+
+Reputation
+Amongst conjurers of the Ulcasterian school the shields were said to be the key to unlocking the secret magics used by Halaster, and as such were highly sought after.
+
+Amongst the Cowled Wizards of Amn, those shields were an object of great unease. Given the populace's distrust of wizards, they believed that unveiling the frightening power of the demonshields could trigger a witch hunt against all practitioners of the Art.
+
+The creation of the demonshields as well as other fiendish artifacts during the Shoon Imperium lead to the creation of the sword Dornavver by the local church of Ilmater.
+
+Notable Owners
+ Iryklathagra was offered a demonshield by the Qysara Shaani in 371 DR in an attempt to bargain for peace.
+
+Appendix
+See Also
+ Kimeltaar, one of three holy shields created by the Church of Anachtyr during the early days of the Shoon Imperium. Those shields were often called "demonshields" as well.
+
+Notes
+
+References
+
+---
+
+## Dead man's eyes
+
+Dead man's eyes was an arcane spell from the school of necromancy that allowed a wizard to kill with their eyes.
+
+Powers
+This spell turned the whites of the caster's eyes black with the pupils reshaped into small white skulls. The caster could gaze at a single target at a time within, killing or harming them if they met the caster's gaze. The deadly magic could be directed back at the caster if reflected by a mirror or other reflective surface.
+
+Components
+In addition to somatic components, this spell required as material components a pair of glass marbles the same color as the caster's eyes to cast.
+
+History
+This spell was found within the Book of Shadows, a tome based upon the oration of the necromancer Nebt Bhakau of Zakhara.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Defoliate
+
+Defoliate was a powerful arcane spell from the school of necromancy that allowed a wizard to kill a large swath of vegetation.
+
+Powers
+The magic of this spell caused all vegetation within the area of effect to die and turn to black ash. The size of the area to be affected was based upon the caster's skill. Plant-like creatures were also killed. One full year would pass before any vegetation could return to the affected area. The caster was aged by a year when they cast defoliate.
+
+Components
+In addition to somatic components, this spell required as material components sliver of charred wood and a petal from a withered flower to cast.
+
+History
+This spell was found within the Book of Shadows, a tome based upon the oration of the necromancer Nebt Bhakau of Zakhara.
+
+Appendix
+References
+
+---
+
+## Deathshroud
+
+Deathshroud was an arcane spell from the school of necromancy that surrounded the caster with life-draining magic from the Negative Energy plane.
+
+Powers
+The undead and magical constructs were not affected by a deathshroud, but anyone else coming into contact with it were physically drained of energy by a death haze that would kill them within minutes. The spell's duration lasted for several minutes depending on the caster's skill.
+
+Components
+In addition to verbal and somatic components, this spell required as material components a crushed black opal and diamond worth 5,000 gp, dust from an incorporeal undead with ties to the Negative Energy plane, and a chunk of smoky quartz to cast. All components were consumed during the casting.
+
+History
+This spell was found within the Book of Shadows, a tome based upon the oration of the necromancer Nebt Bhakau of Zakhara.
+
+Appendix
+References
+
+---
+
+## Deathsend
+
+Deathsend was a +4 dagger created by the Obarskyr dynasty. It was part of the set of magical items known as the Four from Cormyr along with the Seal of Iron, Silveredge, and Fireblood.
+
+Description
+Deathsend was of relatively simple design, and made of fine steel. It gave off a soft golden glow at all times.
+
+Deathsend was intended to be kept in a compartment on the scabbard of the bastard sword Silveredge.
+
+Powers
+Deathsend had all the lethality of a +4 dagger, and was intended to only be used in honorable combat and to deliver killing blows to fallen enemies. It could be pointed at a target and determine if they were a dishonorable, treacherous sort who deserved death (at least according to the standards of lawful good martial rules). If the bearer attempted to throw or backstab with Deathsend, the dagger would refuse to permit such a dishonorable course of action and sabotage the attack.
+
+History
+Deathsend was the property of the Obarskyr family, and was traditionally held by them. At some point, it had been claimed by the lich Adzerak and was kept in his lair of Barrenstone. In 1369 DR, it was found by adventurers who went on to join it with the other Four from Cormyr.
+
+Appendix
+Appearances
+Adventures
+Four from Cormyr
+
+References
+
+---
+
+## Deathly token
+
+A deathly token was a magic item that enabled the bearer to use ask questions of the dead, and receive responses.
+
+Description
+
+The token depicted the holy symbol of Kelemvor, the god of death and the dead, that is, a skeletal arm and hand holding a set of balanced scales. It was set within a ring. Letters in the Thorass alphabet inscribed on the ring read "INQUISITORE • VIVITATUM • ENCRONIMUS".
+
+Powers
+As with the spell speak with dead, the token animated a corpse in a limited fashion to answer questions for the caster, based only on what it had known in life. Only five questions were permitted and these could be asked by anyone present. Afterward, the corpse would return to death and could not be raised by the deathly token again. Otherwise, its duration could be length.
+
+The command words for the deathly token were perlamon tergatys.
+
+History
+
+For a time in the 1490s DR, Simon Aumar apprenticed with a cleric of Kelemvor. From this priest, he acquired his deathly token.The cleric's deity is unspecified, but is assumed to be Kelemvor based on his holy symbol on the token.
+
+At the Evermoors cemetery in the late 1490s DR, Edgin Darvis, Simon Aumar, Doric, and Holga Kilgore dug up the corpses of fallen Elk tribe warriors and used Simon's deathly token to question them in order to learn the fate of the helmet of disjunction. The eternal rest of Stanhard Grimwulf, Toke Horgath, Sven Salafin, Ven Salafin, and others were all disturbed for the sake of a few questions, mistaken identities, and misused spellcasting.
+
+Notable Owners
+Simon Aumar
+
+Appendix
+See Also
+Amulet of lost voices
+
+Notes
+
+Appearances
+Film & Television
+Honor Among Thieves
+Novels
+ The Junior Novelization
+Video Games
+Blood in Baldur's Gate
+
+References
+
+---
+
+## Dendir Abbathorson
+
+Dendir Abbathorson was a dwarf adventurer and thief who was part of the Ruby Blades adventuring company in the mid-to-late 14 century DR.
+
+Personality
+Dendir was a nasty, grumpy, and bitter man who was focused entirely on the pursuit of wealth, as befitting his worship of Abbathor. He was particularly fascinated by the mechanisms of locks and traps.
+
+Possessions
+Dendir wielded a +4 Shortsword, and wore a leather belt of defense. He carried a large bag of holding along with his thieves' tools.
+
+History
+In the, the Ruby Blades joined the Wolfmasters company on an excursion to explore and loot Orvaskyte Keep in the Vast Swamp. The Ruby Blades were heavily delayed, and by the time they arrived their allies were already dead. Seeking a new goal, they attempted to hunt a nearby black dragon, only to be overwhelmed and almost killed by it, and were rescued by a band of Cormyrean adventurers. Their fortune waxed once more, and they were joined by two-dozen mercenaries that allowed them to chase away the Cormyreans and secure what was left of Orvaskyte Keep.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Dermod Ophal
+
+Lord Dermod Ophal was an Amnian nobleman who lived in the City of Coin, Athkatla during the mid-to-late 14 century DR.
+
+Personality
+Dermod Ophal was extremely snobbish, and dismissive of those lacking social status. The married couple would loudly whisper about an appearance of anyone who approached them, deciding where they were from and what status and wealth they had.
+
+Activities
+Lady and Lord Dermod Ophal were regular patrons of Waukeen's Promenade in the Center District of Athkatla. They sat atop a large wooden platform surveying the wonders of the marketplace without resorting to speaking to the lesser people that conducted business within.
+
+History
+Both Lady and Lord Ophal were active in Waukeen's Promenade around the time a great magical battle between the Cowled Wizards and unlicensed spellcasters—the cruel archmage Jon Irenicus and Imoen—destroyed a section of the amphitheater, in the .
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate II: Shadows of Amn
+
+External Links
+
+References
+
+---
+
+## Defender of Easthaven
+
+The Defender of Easthaven was a unique enchanted flail from the town of Easthaven in Icewind Dale.
+
+Powers
+The Defender possessed a powerful +3 enchantment. It also granted the wielder increased magical defense as well as made them resistant to slashing, piercing, and crushing damage.
+
+History
+The Defender of Easthaven was created circa the, following the defeat of the devil Belhifet, who returned to the Ten Towns with vengeance, after being banished from the Realms by the hero named Jerrod. The magic weapon was intended to remain in Easthaven as a symbol and a reminder to the northern folk of the time the town was almost destroyed.
+
+In the, the Defender of Easthaven, along with several other magic items from Icewind Dale, ended up in the hands of the merchant named Joluv who traveled from Icewind Dale to the City of Coin, Athkatla, to sell the items to wealthy Amnian adventurers. Joluv peddled his wares from the Copper Coronet in Athkatla's River District.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate II: Shadows of Amn
+
+References
+
+---
+
+## Deena
+
+Deena was a dryad who lived in the Hullack Forest in the 14 century DR.
+
+Relationships
+She was accompanied by four treants that she called her "big brothers". She was looking for a romantic partner, even if it meant charming a stranger and keeping them as a slave.
+
+History
+In the, Deena witnessed the logging and mining operations of the fire giant Oghalis, and her hobgoblin followers led by Chief Gugak Thul. When adventurers from Thunderstone appeared to track down the hobgoblins, she pointed them in the right direction, though she may have attempted to seduce an attractive male of the group.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Derg
+
+Derg was a cowardly orc who served red dragon Firkraag in his maze in the Windspear Hills of Amn in the late 14 century DR.
+
+History
+In the, Flaylan and Derg were found in the quarters next to the kitchens of Firkraag's Maze. When Abdel Adrian was lured into the dungeon, he and his companions confronted the duo of orcs. Flaylan and Derg begged for mercy and showed no aggression towards the Bhaalspawn, claiming to had only been following their master's orders. It was unrecorded if the adventurers spared the duo of orcs, allowing them to the Windspear Hills.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Del (vampire)
+
+Del was a female vampire who hunted Shadow Thieves in Athkatla in the late 14 century DR.
+
+History
+In the, the criminal underbelly of Athkatla erupted in an all-out guild wars between the Shadow Thieves and a vampire coven under the leadership of Bodhi. Del was a loyal follower of the coven's leader and hunted down Shadow Thieves for her mistress. Sansuki was among those unfortunate thieves whom Del tracked and chased down across Athkatla's Scepter District along with two other bloodsuckers. Sansuki's life was forfeit as he had no chance to stand against the undead. Later, she would chase Abdel Adrian on orders from Bodhi to the isle of Brynnlaw, along with vaporizes Valen and Parisa.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deirdre Gallaway
+
+Deirdre Gallaway was running the Gallaway Trade Depot in Targos, in the early 14 century DR.
+
+Description
+Deirdre was a young woman with fiery red hair and a fiery heart. She inherited her grandfather's – Ilmus Gallaway's hot temper.
+
+Possessions
+Deidre's shop, Gallaway Trade Depot, stood atop a cliff in Targos, overlooking the town's docks and the coaster's warehouses. Her inventory included several unique and common enchanted items, as well as weapons, armor, pelts, alcohol, iron rations, lumber, and many other trade goods.
+
+History
+Deirdre Gallaway was a young and ambitious member of the Gallaway Coaster, daughter to Rawleigh Gallaway, and granddaughter of Ilmus Gallaway of Easthaven. Shortly before the, Deirdre was sent to run the Gallaway Trade Depot in Targos with aid and council from Jemeliah, her father's loyal friend and employee. Deirdre's ambitions, however, were cut short by the grim reality of war. That year, the Legion of the Chimera targeted the Ten Towns and besieged Targos, costing the coaster profit and forcing Deidre to provide the town with weapons and lumber on credit with some persuasion by the Speaker Lord Ulbrec Dinnesmore. The loss of income embittered young woman, causing tensions between the coaster and the leadership of Targos.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale II
+References
+
+---
+
+## De'Arnise signet ring
+
+De'Arnise signet rings were enchanted rings worn by the members of the Arnise noble family in Amn and bounded to them by blood.
+
+Powers
+These signets were imbued with a variety of protective magics. It shielded the wearer with a +2 defensive enchantment, gave them resistance to magical and mundane flames, and improved chances of recovering or shaking off effects, afflictions, and increased reaction.
+
+History
+De'Arnise signet rings were given out to members of the Arnise family when they reached adulthood. In the 14 century DR, one such ring was gifted to a one-time companion of Abdel Adrian, Nalia de'Arnise, by her father as she became an adult. She never parted with the ring.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Devryn Stoutt
+
+Devryn Stoutt was a follower of Selûne who lived and died in the Realms, presumably in the Sword Coast region of the Western Heartlands. The records of Devrynn's death was included among other obituaries in the chapel records found within an ancient crypt of Jergal located near the River Chionthar.
+
+While the exact circumstances of Devryn's death were unknown, Devryn was known to have succumbed to the effects of fever.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+References
+
+---
+
+## Delmath
+
+Delmath was an acquaintance of several guards in Shadowdale in the mid-14 century DR.
+
+Relationships
+While being spied by Malark Himbruel in the, one guard related unto the others that he'd witnessed the spellfire wielded by Shandril Shessair. While describing her exertion, he compared her face to the one that Delmath himself made while lifting a heavy barrel.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Delusional insanity
+
+Delusional insanity was a form of delusion, mental disorder, or as some called it "madness", that was similar to megalomania. It could involve hallucinations and exaggerated paranoia that reinforced the perceptions of greatness.
+
+Acquisition
+Beyond natural means, this condition could be acquired by wielding the flail of the desert kings alongside the cursed circlet of the adder or by being hit with the spell mindshatter.
+
+Beyond life, delusional insanity was among the mental afflictions that could commonly occur among ghasts and ghouls due to the mind-warping nature of their undeath transformation.
+
+Effects
+
+Those suffering from this disorder were convinced that they were a famous, powerful, or wealthy figure. What separated it from megalomania was that megalomania involved an exaggerated and unrealistic perception of themselves, while delusions were fundamentally incompatible with reality. These delusions could be so fantastical that they might even believe themselves to be a deity or demigod. They would act in a manner befitting this misperceived station, draw upon things that didn't exist, and order around other creatures, both real and of their imagination.
+
+When alienists experienced a mind-curdling shock or revelation, they could adopt a self-delusion that reflected their interests in strange monsters and nightmarish planes. They dissociated from their identity and instead believed that they were an alien planar being that was trapped in a humanoid form. This could lead them to trying to "fix" themselves by committing suicide, performing rituals to open portals, or other extremely risky and self-destructive projects.
+
+Treatment
+Like any form of madness, it could be suppressed with calm emotions and cured with either greater restoration or lesser restoration.
+
+Notable Afflicted
+ Azimer the lich came to believe that not only was he still alive, but the ruined School of Wizardry was in operation under him, and that he also ruled the whole world.
+ The god Cyric was lost in the throes of his madness and came to believe that he was the one true overgod of Toril and perhaps all other worlds.
+ King Khamsa of ancient Raurin was notably afflicted with delusional insanity, due to wielding the circlet of the adder alongside the flail of the desert kings, believing himself to be a deity that rivalled Set.
+ Tiax was a cleric of Cyric, and was quite certain that he was himself a godlike being walking the earth.
+ Viansola, an elf trapped in Nalavara's hoard demiplane, dealt with the horrible situation by periodically disassociating into the delusion that she was actually an elven princess in command of the situation.
+ Lula Redcap acted as if she thought she was a vampire—but she was actually just a pretentious and dramatic teenager.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Demon (Havenmere)
+
+The Demon was an unidentified, malevolent creature that emerged in Havenmere from a gate. It was a member of an unknown race of monstrous creatures from a distant plane that had come to dominate their environment.
+
+Description
+The Demon was roughly humanoid and about  tall, with a broad and heavily muscled physique, and gray skin that was hairless and had a near-metallic sheen to it. It had a small head on a short, thick neck, and no protruding ears or nose, with the nostrils directly on its face, and its small red eyes set deeply between ridges of bone. It had four digits on its hands and feet, and was armed with long, curved claws. It sweated an acidic substance that gave off a bitter stink, in addition to burning those who came too close.
+
+Personality
+The Demon sought to bring ruin to the inhabitants Toril on as great a scale as possible, seeing them as inferior beings undeserving of life. It did not intend any particular cruelty or desire to inflict terror upon its victims, but simply wished to relentlessly slaughter everything it came across. Without targets available, it would randomly scratch or burn nearby plants or rocks for no particular reason.
+
+It had some fondness for the barren, stony landscape of Thunder Gap, as it had similarities with its own home world. Attempts to read its thoughts with spells such as ESP or telepathy could only result in the caster being left dazed and reeling in confusion as the alien thoughts and emotions overwhelmed them. When facing defeat, the creature would use its magical abilities to communicate with or control its assailants, promising them anything in order to give it enough times to escape and wreak havoc elsewhere.
+
+Abilities
+The Demon was a terrifying predator with a powerful body and innate magical ability, and the intelligence to use its advantages to greatest effect. It had great strength and lethal claws, and could slowly regenerate wounds inflicted on it. This healing ability was so strong that severed limbs would crawl their way back to the main body and be reattached, but not so strong that it had troll-like immortality. Its saliva and sweat were dangerously toxic acidic substances, with the saliva acting like a poison that it inflicted with its bites.
+
+The Demon's senses were extraordinarily sharp, allowing it to function in any environment. It had infravision and ultravision to a range of, and could see invisible creatures and objects. Even with complete loss of sight, its hearing and other senses were strong enough that it was barely impeded in its terrible actions.
+
+Its body and mind were highly resilient, with the creature having functional immunity to magical and mundane fire, acids, poisons, and psionic effects, as well as spells that affected the mind such as hypnotism, hold person, paralyzation, sleep, and suggestion. It was highly resistant to all other forms of magic as well, with a better than even chance of any spell having no effect on it. Its skin was extremely tough against mundane strikes, turning away blows more efficiently than a suit of plate mail, and it was partially resistant to crushing impacts such as long falls or being buried in avalanches of stones.
+
+The Demon had a wide array of innate magical abilities with the power of an archmage. Whenever it wished, it could create effects similar to feather fall, fumble, gust of wind, heat metal, magic missile, shatter, and slow. With a short recovery time it could repeatedly use blindness, confusion, delayed blast fireball, fireball, jump, and shocking grasp. Once per day it could use its powers to create earthquake, fire storm, power word, stun, reverse gravity, suggestion, tongues, and wall of fire.
+
+History
+Some time in the 14 century DR, the Demon was caught in a spontanous gate that drew it from its home plane to Toril. Amid a great magical storm that swept over the area, it appeared in the middle of Havenmere along with the hapless Wisconsinite Simon Weems. Unsure of the environment it found itself in, it retreated to the nearby Thunder Peaks to consider its next actions, slaughtering an innocent sheep and leaving a trail of flames and claw marks as it went. Adventurers arrived shortly after and rescued Weems from being burnt alive by paranoid villagers, and spoke with the local man Senecus who provided a semi-educated guess at the magical phenomena that had just taken place.
+
+The adventurers pursued the Demon into the mountains, with the intention of bringing it and Weems close enough together again that the "vector balance" between them would cause the gates to reform and send both interlopers back to where they belonged. Despite the Demon's great cunning and power, it is likely that it was overcome by the adventurers and ultimately returned to its own unfortunate plane.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deep House of Doom
+
+The Deep House of Doom was a temple devoted to Beshaba, the Maid of Misfortune, located in Suldolphor in far eastern Calimshan in the late 14 century DR.
+
+Location
+The temple was located underground beneath central Suldolphor. The temple was believed to lay beneath a block of shops bordered by Elabralal Street, Milindral Street, and Nousoorn Street.
+
+Description
+The Deep House of Doom was small but heavily guarded. It connected to the cellars of several taverns and festhalls.
+
+Inhabitants
+The temple was run by Mistress of Dread Shalarlane Druistrar in the .
+
+Appendix
+References
+
+---
+
+## Devil chills
+
+Devil chills was a supernatural disease spread by certain types of devils.
+
+Acquisition
+Many types of devils could be carriers for the disease—including barbazu, erinyes, and pit fiends—and such carriers did not experience any symptoms despite being contagious. The disease was spread via the bites and septic claws of infected devils, as well as by the filthy beards of the barbazu. The disease could also be contracted upon exposure to a devil's blood, and so some devils were known to smear their infected blood onto their favored weapons before battle.
+
+Effects
+Sufferers of devil chills experienced a steady wasting away of their physical strength.
+
+While a healthy individual could recover naturally from devil chills, the disease was stubborn and required a longer recovery period than most other illnesses.
+
+History
+Devil chills was one of many diseases that could be found in the Underdark.
+
+As of the mid-to-late 14 century DR, three erinyes infected with devil chills—Alecto, Tisiphone, and Magaera—were charged with guarding a portal in the Fields of Nun that lay along the Trail of Tears, a pilgrimage route for the devout of Tempus. These guardians—alongside their likewise infected barbazu minions—were tasked with imparting the lesson that war is but one way that people die, with disease being a clear and obvious alternative.
+
+Rumors & Legends
+The archdevil Bel was said to be infected with devil chills.
+
+Appendix
+References
+
+---
+
+## Desram
+
+Desram was a bandit leader from the Sword Coast North, active in the 15 century DR.
+
+Description
+Desram was an older human male with graying hair and beard. He wore purple mage's robes, trimmed in blue and armed himself with an emerald-tipped staff.
+
+Abilities
+Being a proficient spellcaster, Desram often used such offensive spells as Melf's acid arrow, ice storm, arc lightning, fiery blast, magic missiles, and could enter a state of spell flurry when threatened or hurt. He possessed resistance to fire, force, lightning, and cold magic and could cast the cure serious wounds spell.
+
+History
+In the late 15 century DR, Desram organized a band of bandits who forged an alliance with orcish and goblin raiders who attacked travelers and merchants on the road from Neverwinter to Waterdeep. First Lieutenant Gadain of Neverwinter sent a band of heroes to stop the raids and the group returned with a worrying eyewitness accounts – orcish raiders were aided by humans. They also retrieved a map that indicated that the human bandit camp was located just off the High Road, in the westernmost foothills of the Sword Mountains. The First Lieutenant dispatched the heroes to the bandit encampment to stop Desram's raiders once and for all.
+
+Appendix
+Appearances
+Video Games
+Dungeons & Dragons: Heroes of Neverwinter
+References
+
+---
+
+## Dextor
+
+Sapper Dextor was a goblin follower of the Absolute who dwelled within the Shattered Sanctum during the late 15 century DR.
+
+Activities
+Like other sappers and pariahs, Dexter's job was to strap a large keg of smokepowder to his back and run directly towards the cult of the Absolute's enemies.
+
+History
+As of the, Dextor and other goblin sappers remained on poised to carry out an assault plan laid out by True Soul Minthara Baenre. She was orchestrating a devastating attack against the Emerald Grove druidic enclave, which she believed housed a powerful weapon that could be used against the Absolute and her followers.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deathly ichor
+
+Deathly ichor was a magic substance that corroded living things with death magic.
+
+Description
+This substance was bottled in small breakable glass vials. It was a foul-smelling ichor that was applied to weapons in battle.
+
+Powers
+When deathly ichor was applied to a weapon, it temporarily transformed it into an enchanted +3 weapon that dealt necrotic energy damage to its targets.
+
+History
+In the late 15 century DR, vials of deathly ichor were sometimes used by rogues to make their blades more deadly. These concoctions were available for sale at Neverwinter's Mercenary Arms Depot and used by rogues and bandits of the Sword Mountains and the Crags on the Sword Coast North. Servants of the vampire lord named Ozit in the ruins of Illefarn carried vials of deathly ichor as well as cultists who worshiped a beholder eye of flame from their lair in the the Crags.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Derim Whiteshield
+
+Reverend Brother Harvestmaster Derim Whiteshield was a priest of Chauntea inhabiting Mistledale in the Dalelands during the mid-to-late 14 century DR.
+
+Description
+Derim was a soft-spoken old man as of the .
+
+Activities
+He was the head of the Abbey of the Golden Sheaf near Ashabenford.
+
+Appendix
+References
+
+---
+
+## Deena (Ravens Bluff)
+
+Deena was a mystic and an enchanter, who worked as a swimming instructor in the city of Ravens Bluff in the Vast in the late 14 century DR.
+
+Description
+In the late 14 century DR, Morris was in her late teens. Deena was a muscular young woman,  tall, and . She had dark brown straight shoulder-long hair and large brown eyes. Deena's face always had a calm, pleasant smile. She often wore bright white robes and a modest one-piece swimsuit when teaching.
+
+Personality
+Just like her fellow instructors, Deena was a pacifist and only entered conflicts to defend herself. She meditated daily for two hours before dawn.
+
+Abilities
+Deena spoke Common, Elvish, and Merfolk languages. Among weapon proficiencies, she only knew how to use simple slings. She was a master dancer and swimmer. Deena was also knowledgeable in the subjects of astrology and religion. Her magical abilities were humble but impressive for a woman her age. She knew several spells recorded in her spellbook, such as cantrip, charm person, read magic, and sleep. Other magic abilities of hers consisted of being able to feign death, the ability to leave her body in spirit form, and the ability to move through any opening. Each of these abilities could be used once per tenday, remaining active for 24 hours. Additionally, she could levitate once per tenday for an hour.
+
+History
+Deena was born and raised Ravenaar. She apprenticed in magic at Ravens Bluff and adopted the worship of Eldath at an early age. Deena befriended a cleric of Eldath named Milissa in her teens and, several years later, joined her swimming school that gave lessons to humanoids in Raven Bluff's docks. Deena was taught how to swim by Milissa, and she became the swimming school's latest teacher.
+
+Appendix
+References
+
+---
+
+## Death matrix
+
+Death matrix was a powerful spell that weaved an intricate and potent pattern of magical energy into the life force of a dragon.
+
+Effects
+When cast, the spell became an indiscernible part of the dragon's being, impervious to detection or negation by any means except with wish. The spell remained dormant until triggered, growing in strength as the dragon aged, fueled by its connection to the dragon's life force.
+
+Upon the dragon's demise, the spell was activated, unleashing a cataclysmic event. The dragon's lifeless body erupted in a colossal explosion, scattering gem-encrusted scales, muscles, bones, claws, fangs, innards, and blood within a -radius sphere. The explosion also harnessed the unbridled power of the dragon's breath weapon. Since the explosion encompassed not only the dragon's breath weapon but also the propelled body parts and concussive force, immunity to the dragon's breath weapon alone did not grant immunity to damage.
+
+Only a full wish spell possessed the power to remove a death matrix. Alternatively, the sole means of preventing the triggering of a death matrix was the instantaneous annihilation of the dragon. Spells such as disintegrate or magical items like a sphere of annihilation were necessary to utterly and instantly eradicate the dragon. Without the dragon's corpse or any remaining fragments, the death matrix became impotent and dissipated harmlessly as a wave of magical energy, causing a tingling sensation noticeable to creatures within the radius. This energy could not be absorbed, harnessed, or manipulated in any way. However, if even a single scale or fragment of the dragon remained, the death matrix was still activated upon its demise. In cases where only a fraction of the dragon's body remained, the inflicted damage was considerably reduced.
+
+The ability to cast death matrix was beyond the reach of most dragons, regardless of their age or species. Consequently, dragons often relied on scrolls containing the spell to establish a death matrix.
+
+Components
+This spell only required a verbal component.
+
+Appendix
+References
+
+---
+
+## Deslima
+
+Deslima, nicknamed Sneaker, was a shu warrior of the Jengi tribe who lived on the Malatran Plateau on the shores of the Lake of Giant Flies in the late 14 century DR.
+
+Description
+Like other shu of the Jengi village, Deslima was shy and wary of visitors from other tribes. She was a small, heavily tattooed individual.
+
+Possessions
+Deslima was armed with a blowgun with its darts dipped in berry-juice-derived poison.
+
+History
+In the Year of Gathering Darkness, Malatran calendar, sinister earth tremors shook the Living Jungle. The shu Jengi tribe was hit hard by the disaster. The tribe's witch doctor, Kumon Ubok, was badly hurt, and a collection of his spell fetishes unleaded waves of wild magic. Deslima was among five warriors of the tribe who protected the witch doctor and the Tribal Elder Futori in the chaos that consumed the village. When a band of heroes of the Living Jungle arrived at the Jengi village, Deslima and her peers were sent by Futori to make sure the visitors were not hurt and to escort them to their destination.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deadly driderform
+
+Deadly driderform was a rare illusion spell that granted the subject that appearance of a drider for a limited time.
+
+Effects
+When activated, the deadly driderform spell granted the target a lower body of a giant spider, while leaving their torso unchanged. This form was not a true transformation yet it granted the subject the increased skittering speed of a drider and boosted strength as well as defenses.
+
+History
+
+These illusory transformations where known to be used by adventurers of the Sword Coast North in the late 15 century DR, after they descended into the Underdark to opposed Gromph Baenre's plot to send Menzoberranzan into the Abyss.
+
+Appendix
+Appearances
+
+References
+
+---
+
 ## Deaf
 
 Deafness was a condition characterized by partial or complete inability to hear.
@@ -1965,6 +15472,2964 @@ Appendix
 Appearances
 
 External Links
+
+References
+
+---
+
+## Denzil Lassar
+
+Denzil Lassar, later known as Lady D, was the owner and the founder of the Inferno Hall, a temple to Sharess of Ravens Bluff in the late 14 century DR.
+
+Description
+Denzil Lassar was known for their acid tongue. Denzil was somewhat handsome and bore a tattoo, deemed unsightly by some.
+
+History
+Denzil Lassar was born in the nation of Chessenta, where he witnessed the atrocities of slavery and abuse. There, he learned to despise the practices of slavery and evangelical preaching.
+
+In Ches of the, a new establishment dedicated to the Goddess of Excess & Lust opened in Ravens Bluff, called the House of Desires. This sparked some outrage from the Clerical Circle, as the temple was opened as a merchant house by all legal definitions and registrations and, as such, the Clerical Circle held no power over it. The new establishment's owner, named Ceraphane, threatened to outperform and overshadow the Inferno Hall quickly. As a gesture of goodwill, Ceraphane invited Denzil Lassar and members of the Infernal Hunt Club to the House of Desires. Following the visit, Denzil Lassar gave an interview to the Ravens Bluff Trumpeter saying that the two temples' philosophies were well aligned and he saw a great mutually beneficial future ahead. Since then, Denzil had been seen meeting with Ceraphane several more times. In Tarsakh of the same year, Denzil Lassar was among many notable individuals who attended the housewarming celebration of Briar Oldhill's manse, boarding house, and shrine humorously named Briar's Patch.
+
+The month of Mirtul of 1371 DR was shaken by a scandal that exposed Ceraphane as a being of lower planes. The social club called the Infernal Hunt Club was sucked into the scandal because of their quick and close relations ever since the initial visit to the House of Desires. Jacinth Moonspring of Ravens Bluff Trumpeter conducted an interview with Denzil after a candlelit dinner in which the Master of the Hunt denied claims that Ceraphane was a baatezu and that he and the social club held no ill intents for Ravens Bluff. The man reiterated that the Infernal Hunt Club had some of the most upstanding citizens among its rands and that he himself was aiming to run for the position of the Lord Speaker in the future.
+
+In Kythorn, Denzil Lassar was one of many adventurers who embarked on a journey under the leadership of Sir Rethgif Deepburrow, Knight Commander of the Order of the Fox, to the 47 level of the Abyss to oppose its ruler's dire plot against the Living City. The adventures managed to rescue several abducted inhabitants of Big Moe from an earlier attack on the town. The article by Gilbert Hadfree that recounted these events, erroneously or falsely, claimed that Rethgif Deepburrow's operation rescued the goddess Waukeen, however, that was a false claim as the goddess was freed months earlier by a group of heroes sponsored by the Goldspires of Amn and guided by visions of Halanna Jashire. Later the same month, Denzil Lassar publicly denounced slavery as a gaggle of dead slavers washed ashore in the neighboring city of Tantras. He vowed the Infernal Hunt Club would guard the shores of the Dragon Reach from such deplorable people.
+
+By Flamerule of 1371 DR, Denzil Lassar decided to publicly announce his retirement from adventuring and officially began the campaign to run for the office of the Lord Speaker of Ravens Bluff. The following month, Gary Goodnews of the Trumpeter conducted an interview with Harmony of Milil, a candidate for the office of the deputy mayor. During the interview, she suggested that she would be interested in picking Denzil Lassar, now known as Lady D, as her running mate. In an editorial note, it was revealed that, shortly before, Denzil had been involved in an incident of some sort in the Temple of Selûne from which the candidate for the speakership emerged as a woman. The magical transformation did not affect her electoral candidacy nor campaign.
+
+Appendix
+Notes
+
+Background
+Denzil Lassar was a player-character who participated in the Living City RPGA events and adventures. They were played by Joe Cirillo from New Jersey.
+
+References
+
+---
+
+## Devil dune
+
+Devil dunes were a kind of animated magical hazard made of sand that were found, albeit rarely, in sandy deserts and wastelands.
+
+Properties
+Mundane or even magically sped sand dunes could move at most several feet per hour, only threatening to smother sleeping creatures overnight and bury cities over long periods. By comparison, a devil dune possessed a kind of animosity towards interlopers, seeming to actively hunt down and destroy invaders inside its domain.
+
+A typical devil dune was approximately  long,  wide, and  tall. When pursuing a victim, it could reach speeds of about  per minute, or  per hour. A devil dune had an intrinsic ability to know where a trespasser was in its domain, and was able to relentlessly pursue it for as long as it was present.
+
+Once a devil dune "caught" a victim, it buried them alive inside its bulk, eventually smothering them if escape was not effected. There was no known means of permanently destroying or stopping a devil dune, with soften earth and stone slowing one down for a time, and earthquake shattering and dispersing its form for several weeks.
+
+Occurrences
+Devil dunes were thankfully rare, but were known to exist in the Anauroch desert.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Delphon
+
+Delphons, also known as songsharks, were an intelligent shark-like species of fish endemic to the River Oceanus that crooned powerful mind-affecting melodies.
+
+Description
+These creatures had sleek, shark-like bodies measuring  on average, complete with streamlined heads with wide mouths full of sharp teeth. Their fins were long and powerful. The average delphon had silvery skin, though some had brilliant red, deep blue, or vibrant green colorations. Their bodies were often decorated with beautiful, complicated designs, made by rubbing themselves against sharp rock formations along the sides of the River Oceanus.
+
+Personality
+These intelligent creatures were gifted with great knowledge and understanding of the River Oceanus's many secrets and of its multidimensional nature.
+
+Abilities
+The songs of the delphons were utterly alien and mysterious, rich with meaning, that had profound spell-like effects on any creature that heard them. Non-intelligent creatures could be so enamored by the melodies they became charmed for one to ten hours, whilst for intelligent creatures this was only one of many effects the melodies could have on them.
+
+Intelligent listeners could be so spellbound, their bodies became rigidly paralyzed for around 3 to 10 minutes. Those unable to handle the utter alieness of the delphons' melodies could enter a state of confusion for 3 to 18 minutes or could have their mind shatter into unconsciousness for 3 to 30 minutes. For those listeners who succumbed to the songs, yet were capable of grasping their true meaning, the mind was gifted with some form of knowledge about either Oceanus, the relationships between the planes (particularly those the River Oceanus touched), or on places that were on or around the river.
+
+Their profound planar understanding of Oceanus allowed delphons to navigate its waters in such a way that they could effectively shift their bodies to other planes along the river, even taking other creatures with them. They sometimes utilized this to avoid attacks.
+
+Combat
+Delphons fought in much the same way as sharks, using their powerful jaws and tails. They typically utilized their hypnotic singing to immobilize prey before moving in to strike.
+
+Society
+Being very sociable creatures, delphons typically traveled in clannish packs that were usually made up of relatives and individuals occasionally associated with other clans. These clans lacked any sort of authority, giving all members equal say and rights
+Diet
+Delphons were a carnivorous species, living off the abundancy of fish within the River Oceanus. Due to this abundancy, it was quite rare for them to ever attack drylanders.
+Homelands
+These creatures could be found in the River Oceanus, which traveled through all the layers of Elysium, as well as where the river passed through the planes of Arborea and the Beastlands.
+Relationships
+Delphons were known to act as servants of the elven deity of the sea Deep Sashelas. They also had a great affinity with the deity Stillsong, who roamed the River Oceanus, with many not being far behind wherever he went.
+
+Appendix
+References
+
+---
+
+## Densil Wizardfoe
+
+Densil Wizardfoe was an adventurer in Cormyr with the Magebanes company in the mid-to-late 14 century DR.
+
+Personality
+Densil had a strong distrust and disdain for magic items and spells, and refused to use or work alongside them.
+
+Abilities
+Lacking magical enhancement, Densil was a strong and powerful warrior on his own merits.
+
+History
+In the, Densil and Floryn Spellshatter attended a party at Thistleflame Keep, held by Lord Partic Thistle for King Azoun IV's birthday. They stayed the night in the Keep and were briefly considered suspects after Lord Thistle's apparent murder, but their refusal to use any magic ruled them out.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Delmar
+
+Delmar was a spy of the Purple Dragon Knights in Eveningstar during the mid-14 century DR.
+
+History
+In late, Highknight Forold brought up the observations of Delmar, relating that Vangerdahast had been to Eveningstar earlier and numerous apparitions reacted to his presence. The mage slew them all.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Death Rides Brown Wings
+
+Death Rides Brown Wings is an adventure in the Living City organized play campaign for Dungeons & Dragons 3 edition.
+
+Index
+Locations
+
+Appendix
+Notes
+
+References
+
+---
+
+## DeVillars Creek
+
+DeVillars Creek was a small waterway that ran across the city of Ravens Bluff, connecting Lake Christina on the northern edge of the city with its inner harbor at the Crow's End District.
+
+Description
+DeVillars Creek was named after the Living City's prominent and old DeVillars family that resided there for over ten generations by the late 14 century DR. The waterway stretched from Clearwater Harbor's northern end and was crossed by seven bridges. These bridges were: Omphrel's Span on Raven Way, Flaernar's Bridge on Griffon Trail, the Hawk Bridge on Hawk's Passage, the Old Dragonbridge (or Landelo Bridge) on Fireleap Lane, the New Dragonbridge on Amandagar Street, a bridge on Turnhelm Street, and lastly the Stoneknights Bridge on Flayern Way. Several minor streets also came to an end at DeVillars Creek, Cylyrta Street East was one of them.
+
+Places of Interest
+Darksilver House, a residence and place of many wild parties, left empty following the late 14 century DR war in the Vast.
+Forestshade House, a residence across the creek from the Laurentowers.
+House of Desires, a temple dedicated to Sharess, just south of the Darksilver House.
+Laurentowers, one of the DeVillars family properties, used for social occasions, located on the stream's eastern bank between the Hawk Bridge and the Old Dragonbridge.
+Palace of Passion was located on DeVillars Creek's bank in the Uptown District on Griffon Trail.
+Posh Paladin, a hotel in the Crow's End that offered suites and bloodwine to its guests.
+Wyrmhoard House, a counting house and a residence, next-door to the Palace of Passion temple.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Deverel Rinthar
+
+Deverel Rinthar was a mageling of the Zhentarim in the mid-14 century DR.
+
+Relationships
+He was a member of the Zhentarim.
+
+History
+Deverel Rinthar was known to have joined the caravan carrying Shandril Shessair from Scornubel to Waterdeep in late . Through the trip, he pretended to be a dealer in exotic cheeses from Elturel.
+
+During the final ambush the caravan faced, Hlael Toraunt thought to seek aid in capturing Shandril Shessair from Deverel's blades, and so, he went to his cart, announcing himself as Deverel, Master Rinthar's cousin, sent by Manshoon.
+
+Appendix
+See Also
+Jalarrak
+Rostol
+
+Appearances
+
+References
+
+---
+
+## Derek Parhek
+
+King Derek Parhek "the Drunkard" was the second Amnian monarch of the Parhek dynasty.
+
+Relationships
+Malek was the second son of King Malek Parhek and brother of Rhothar.
+
+History
+During his reign, the ambitious mercantile interests of the realm began to engage in conspiracies and undermining royal authority, much like they did during the latter days of the Torlath dynasty.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Derrick Lurian
+
+Lord Derrick Lurian was a noble of House Lurian in the city of Procampur in the Vast in the late 14 century DR.
+
+Relationships
+He was a relative of Lord Consul Povalo Lurian, the head of the family.While several members of House Lurian are known, most of their relationships are unknown; Derrick is most likely intended to be a son of Povalo and Jasmine Lurian.
+
+History
+One weekend in the late 1360s DR, Derrick Lurian joined a hunting trip in the nearby woods with several other nobles of Procampur, as well as Thultyrl Rendeth, ruler of the city. Derrick, Rendeth, Zinzann Allison, and others set off into the woods and caught a number of bucks, a griffin, and a peryton. However, a howl spooked Zinzann's horse, causing it to flee with rider deep into the woods. The others found him hours later, in shock and with shredded clothes, babbling and unable to say what had happened to him. Derrick related what had happened to the nobles who'd stayed behind, and Endoria Fairwelker later reported on the hunting trip in the Procampur Shining Jewel newspaper.
+
+He was aged 27 in 1370 DR.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Deep guardian's plate
+
+Deep guardian's plate was a set of exotic enchanted adamantine heavy armor of ancient Imaskari that was a living symbiotic plate mail that sounded with its wearer.
+
+Powers
+Deep guardian's plate possessed a powerful +5 defensive enchantment and granted the wearer complete immunity to paralyzation. It also gave the wearer a powerful resistance to spells and magic.
+
+History
+This strange set of magic armor was developed by the ancient Imaskari artificers. Deep guardian's plate was a collection of magical living symbiotes that bonded with their wearers, granting them great levels of protection. The creatures used in creating these symbiotes were recovered from the ocean's darkest depths and changed through slow and torturous magical transformations forced on the creatures by the Imaskari. The deep sea creatures were magically grafted onto sets of plate armor and chanted not to require salt water, replacing it with the reliance on magic for nourishment.
+
+The deep guardian's plate project was a success, and the symbiotes devoured magic thrown on the wearer, offering them increased protection, both from physical harm and spells. However, not all magewrights approved of the process. Many feared these new magically changed creatures would eventually grow hungry enough to consume the armor's wearer or their mage creators. It was recorded that only several sets of deep guardian's plate were ever created, only to be sealed away and, with centuries passing – forgotten. Sages believed that some of these sets of symbiotic armor slithered away back into the ocean after the fall of the ancient Imaskar, while others speculated that it was possible that these deep guardians evolved into something new.
+
+In the, Fyldrin of the Eleven Chairs, a Rashemaar berserker corsair from Mulsantir wore a deep guardian's plate that he acquired sometime before under the unknown circumstances. Fyldrin wore the strand armor during his and his crew's drunken excursions into The Sloop tavern.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Mask of the Betrayer
+
+References
+
+---
+
+## Defender greataxe
+
+Defender greataxes were rare enchanted weapons imbued with offensive and defensive magics, found in the Western Heartlands circa the late 15 century DR.
+
+Powers
+A typical defender greataxes possessed a +2 enchantment that guided the axe towards its intended targets and increased its damage. Its defensive magic allowed the wielder decreased the weapon's enchantment to +1 and turn it into a magical boost to their defense.
+
+History
+In the, a defender greataxe was in stock among the Harper quartermaster Talli's goods during her time accompanying the Harper hero Jaheira into the deadly Shadow-cursed Lands that swallowed the Moonrise Towers.
+
+Appendix
+See Also
+Defending
+
+Appearances
+
+References
+
+---
+
+## Death shepherd
+
+Death shepherds were powerful undead creatures that led groups of the risen dead.
+
+Description
+The shepherds were large armored skeletal figures that loomed over humanoids. Terrifying ornate armor decorated with skulls and bones motif shielded all parts of their bodies but the heads – white skulls that look at the opponents with sinister malice. Death shepherds wielded massive greatsword and were surrounded by a sickly green aura of necromantic magic.
+
+Abilities
+Death shepherds were voiceless and silent; however, that did not stop them from creating undead and reanimating or reassembling slain unliving creatures to lead into battle via the spell-like ability called no rest for the wicked. The green magical radiance of  that emanated from these being affected all undead creatures within, including the death shepherds themselves. That undead ward aura gave them the boon of resistance to bludgeoning, slashing, and piercing damage. Lastly, the necrotic veil that surrounded death shepherds and their shambling servants made them resistant to all mundane and magical damage, except for radiant magic. Whilst around death shepherds, undead were immune to being turned.
+
+History
+In the, a group of death shepherds was summoned into a battle with the githyanki who attacked and took over the Rosymorn Monastery, along the mountain path that led toward the monastery. Long after the enemies and the summoner were dead, death shepherds and their ghouls and ghasts wandered the road seeking mortal lives to sniff out. The same year, death shepherds could be found in the depths of the illithid colony of The Absolute underneath the Moonrise Towers, serving the cult's necromancer named Balthazar.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+Gallery
+
+---
+
+## Dennon Nosmile
+
+Dennon Nosmile was a legendary halfling and a cautionary tale who lived sometime before the late 15 century DR.
+
+History
+Dennon Nosmile's name was a reminder to all young halflings of the danger that a walnut posed. The cautionary tale taught youths that it was perilous to open walnuts' thick shells with their teeth.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deep Duerra's rebellious children
+
+Deep Duerra's rebellious children were the children of the duergar goddess Deep Duerra who decided to escape her control.
+
+History
+During her reign in Hammergrim, the goddess Deep Duerra, daughter of the god Laduguer, produced a substantial number of heirs. Driven by her natural paranoia, the goddess converted her sanctum into an inaccessible place with no entrance for her ill-wishers or exit for her children. Fed up with the overbearing nature of their ominous mother, the children started devising schemes to break free from her confinement.
+
+They decided to drug the Keykeeper of Deep Duerra's vaults. Under the veil of night, the children discreetly ventured into the vaults and plundered their mother's treasures, desperately seeking anything that might assist in their getaway. They found no useful things during their fruitless exploration of the vault and left it disheartened. Yet, the following morning, the son of the Vault Keykeeper, who admired the children, sought them out. He held an abundance of shadow-forged items for them, which were distributed among the children.
+
+With all preparations in place for their escape, the younger children suddenly grew anxious, fearing their mother's retribution should she discover their intentions. It fell upon the older siblings to invest efforts in persuading them to commit to the plan.
+
+Through their unity, they found success making their way through the traps that filled Hammergrim. As they approached the last challenge, they unexpectedly faced Duerra and her court, causing the sparks of hope in their hearts to fade away. The goddess was consumed by fury and ready to punish her naïve offspring. To the astonishment of everyone, Ludmilla, the reserved and tearful daughter who was most under her mother's control, picked up the bow and let loose an arrow. The arrow flashed and, while Duerra and her blinded court wailed impotently, the children made their escape into the world unknown to them.
+
+The fate of the children after that is unknown.
+
+Known Members
+Ludmilla
+
+Relics of Deep Duerra's rebellious children
+Around the, some of the items from Deep Duerra's vaults could be found on the Sword Coast and in the Underdark. It is unknown how they appeared there.
+ Cloak of Cunning Brume, a cloak
+ Covert Cowl, a light helmet
+ Eversight Ring, a ring
+ Hammergrim Mist Amulet, an amulet
+ Least Expected, Ludmilla's shortbow
+ Penumbral Armour, light armour
+ Shadow Blade Ring, a ring
+ The Shadespell Circlet, a helmet
+
+Appendix
+Appearances
+
+Notes
+
+References
+
+---
+
+## DeVillars
+
+The DeVillars family was among the most prominent noble houses of Ravens Bluff in the Vast. Their family motto was "Let love be our guide".
+
+Activities
+Political influence and the DeVillars family went hand in hand, and its members often served in important civic positions within Ravens Bluff. Alongside twelve other families, the DeVillars held a hereditary seat on the city's Council of Lords. One example of the family's influence was how Lauren DeVillars personally supplied the Ravens Bluff Army with uniforms, ensuring the city's armed forces all carried her uniform design. The city found it unwise to refuse her gift. In a more direct example, Drake DeVillars eventually came to serve as the city's Lord Mayor.
+
+Much of the family's wealth came from its ownership of the Tempest Rose Merchant House. The DeVillars did not publicly make their ownership known, but it was considered something of an open secret. This vastly successful trading company was the best-connected, wealthiest, and by far the largest merchant house in Ravens Bluff. Far beyond mere trading, the Tempest Rose primarily functioned as a bank, even minting its own currency.
+
+Base of Operations
+DeVillars Manor was indisputably the grandest residence in all of Ravens Bluff, as well as Laurentowers, a more discreet (yet still palatial) residence. The DeVillars also owned three estates in the area surrounding the city: Chanserdun House, an enormous garden estate; Mriteleigh, a large farm estate; and Campopegasus Hall, a "modest" walled country mansion. Collectively, these properties could muster over 530 soldiers when necessary.
+
+Relationships
+The DeVillars family were, for the most part, ardent followers of Waukeen. They were also known as friends to the Harpers.
+
+As the foremost noble house of Ravens Bluff in the 14 century DR, few other families could rival the DeVillars for wealth and influence. The DeSheers family came close in both wealth and influence, but their fortunes dwindled after the war against Myrkyssa. The Hawktalons were nearly as rich as the DeVillars, but commanded far less influence. The Ampner family were chief competitors of the DeVillars in the wine trading business. Additionally, the Cathones considered the DeVillars to be their chief rivals.
+
+History
+Alongside the Moorland and Therogeon families, the DeVillars (then Daefihlars) were the first settlers of the site that would eventually come to be known as Ravens Bluff. They arrived in the spring of the, bringing with them armed companies to help fend off the many dangers in this untamed region of the Vast. The nascent settlement survived, albeit in a somewhat beleaguered state, and soon other families were drawn to the area. In the, more than a dozen more families joined the DeVillars (and the Moorlands and Therogeons). Over time, the settlement became known as Ravens Bluff.
+
+The early history of Ravens Bluff, as it rapidly expanded into a bustling city, was fraught with odds-defying success, but also discord and instability. Orc and hobgoblin raids were common, and the city was essentially ruled by feuding noble families who directly controlled the city government. In the mid-13 century DR, James DeVillars, the city's Chief Alderman, personally appointed Ravens Bluff's first Regent of the Harbor to establish law and order for seaborne vessels. Another prominent early DeVillars was Kartha Daefihlars, who served as Lord Treasurer circa the .
+
+It was during this early period of instability, in the, that Lauren DeVillars—future matriarch of the DeVillars family—was born to Malamin and Salinay DeVillars. In the, Lady Lauren was named high priestess of Waukeen in Ravens Bluff.
+
+In the, Lauren DeVillars, by then considered one of the wealthiest and most civic-minded lords of the city, convinced her fellow nobles into hosting the Champions Games, a martial contest whose winner would be granted the position of Lord Mayor. The hope was that a strong central leadership would unite the fractious city into a cohesive, lawful whole. If the contest also happened to claim the lives of a few ambitious pirates and unscrupulous nobles, the DeVillars saw this as an added bonus. The hosting of the Games was seen as a desperate gamble by most citizens, with many concerned that Ravens Bluff would become the domain of a ruthless pirate or adventurer. Yet Lauren DeVillars's plan worked out splendidly: the winner, Charles Oliver O'Kane, turned out to be an exceptionally able and fair leader for the city. He was, of course, given ample advice and guidance from Lady Lauren. Through decades of their combined leadership, Ravens Bluff grew safer and vastly more prosperous. With Lady Lauren as matriarch, the DeVillars family became known not just for its incredible wealth and influence, but also its commitment to philanthropy and the city's well-being. With that said, most citizens of Ravens Bluff were devoted to Lady Lauren herself—not necessarily her extended family.
+
+Lady Lauren married Lord Daimler, and they had four children together before his passing: Drake, Bethany, Chantel, and Ramsey. Bethany and Chantel both became priestesses of Waukeen in Procampur, having been subtly encouraged by their mother to move away from Ravens Bluff to become more independent. Eventually, Lady Lauren called them back to the city and began involving them in the family business and political schemes—Bethany more so than Chantel. Lauren's eldest son, Drake, chose to follow the path of a knight and served the city as a member of several knightly orders, winning great acclaim during the war against Myrkyssa Jelan. Ramsey DeVillars fell in with the Consortium of the Bloody Fang and became a vampire, only to be slain on the eve of his wedding to Revelmistress Rachel Arren after kidnapping his own bride.
+
+When mayoral elections were held in the, following the war against the warlord Myrkyssa Jelan, the defeat of the DeVillars-backed Charles O'Kane in favor of newcomer Amber Lynn Thoden was seen as an indication, by some, that the influence of the DeVillars on city politics was waning.
+
+Members
+ Kartha Daefihlars, Lord Treasurer of Ravens Bluff circa .
+ James DeVillars, Chief Alderman of Ravens Bluff, who personally appointed the city's first Regent of the Harbor to curb lawlessness in the harbor.
+ Malamin and Salinay DeVillars, parents of Lauren.
+ Lauren DeVillars, matriarch of the family and a beloved civic and religious leader of Ravens Bluff. She was so closely associated with the city's prosperity that some whispered that once she died, Ravens Bluff would fall with her.
+ Daimler DeVillars, husband of Lauren who passed away relatively early in their marriage.
+ Drake DeVillars, son of Lauren and Daimler, known as the city's "Black Knight". Over the years he served in the Knights of the Golden Rooster, as leader of the Knights of the Raven, and then finally as Lord Mayor of Ravens Bluff.
+ Bethany DeVillars, daughter of Lauren and Daimler and a priestess of Waukeen in Procampur.
+ Chantel DeVillars, daughter of Lauren and Daimler and also a priestess of Waukeen in Procampur.
+ Ramsey DeVillars, who secretly lived as a vampire for years until he was exposed and killed on the eve of his wedding to Rachel Arren.
+ Marilene DeVillars, second cousin of Lauren and a powerful illusionist. She served, for a time, as the city's Minister of Illusions in the Ministry of Art.
+ Norval DeVillars, the priest of Waukeen under whom, the Temple of Waukeen was robbed in the mid 14 century DR.
+ Suram DeVillars, cousin of Lauren and a paladin of Tyr. He was uncomfortable with the luxurious lifestyle of the main DeVillars line and so tended to avoid Lady Lauren as much as possible.
+ Raraerdo Moonspring, Lady Lauren's nephew who chiefly concerned himself with the pursuit of hedonistic pleasures. Although he was fond of his aunt, he eschewed responsibility and was not considered a "true DeVillars".
+ Sabrina DeVillars, a socialite who lived a secret life as a serial killing wererat. A distant cousin of Lauren DeVillars.
+ Banta Jillion DeVillars, grand niece of Lauren DeVillars.
+ Tomas DeVillars, a major in the Ravens Bluff Army and a nephew of Lauren DeVillars.
+
+Legacy
+Several natural features, roads, and structures in the Vast were named for the DeVillars family:
+ Fort DeVillars, a fortification built during the war against Myrkyssa and subsequently bought by Lord Knight Rashaverak Dandelion.
+ DeVillars Creek, a river that ran through Ravens Bluff to connect Lake Christina with Clearwater Harbor. It was named for Lady Lauren's grandfather.
+ DeVillars Park, a grand park donated to the city by Lady Lauren.
+ DeVillars Ride, a main thoroughfare in the Temple District.
+
+Family Tree
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Dendy
+
+Corporal Dendy was a human fighter who lived in Neverwinter during the late 14 century DR.
+
+Relatioships
+Dendy was among the instructors who taught the Hero of Neverwinter at the Neverwinter Academy.
+
+Dendy believed that Herban might be a strict disciplinarian, and didn't want to risk getting in trouble for chatting while on duty.
+
+History
+In the, Dendy was a corporal of the Neverwinter Guard. He worked as an instructor specializing in melee weapon combat and assisted instructors Herban and Hewwet. He usually sparred with the students of the Academy and conducted combat trials.
+
+Dendy harbored hopes of crossing paths with Aribeth de Tylmarande at the graduation ceremonies, but his life was ended in the attack on the Academy.
+
+Appendix
+Appearances
+
+Behind the Scenes
+In the Neverwinter Nights series, Dendy is voiced by Michael Lindsay.
+
+External Links
+
+References
+
+---
+
+## Deelin
+
+Deelin was a dwarf wizard who lived in Neverwinter during the late 14 century DR.
+
+Personality
+Like almost all the other students of the Neverwinter Academy, Deelin was fond of Lady Aribeth and was grateful that she didn't blame all the wizards during the spreading of the Wailing Death and other events in Neverwinter.
+
+Relationships
+During the graduation ceremony in 1372 DR, Deelin was chatting with other students, Kiki and Fonlim.
+
+History
+Deelin was a student of the Neverwinter Academy and finished her studies in the . Deelin was one of the eight students, among whom was the future Hero of Neverwinter, present at the graduation ceremony of that year. During the ceremony led by Lady Aribeth, the Academy was attacked and she fought against the mysterious mages in the Graduation Chamber. It wass not known if Deelin survived the attack.
+
+Appendix
+Behind the Scenes
+In Neverwinter Nights, Deelin is voiced by Melodee Spevack.
+
+Appearances
+
+External Links
+
+Gallery
+
+References
+
+---
+
+## Death That Walks
+
+Death That Walks is a one-round tournament adventure module set in the Living City organized play program. It was published in 1993, and intended for a party of six adventurers of any levels.
+
+Index
+
+Characters
+
+Creatures
+
+Locations
+
+Magic
+
+Organizations
+
+Religions
+
+Miscellaneous
+
+Appendix
+References
+
+---
+
+## Deadman's Ale
+
+Deadman's Ale was a variety of colorfully-named ale created by Bowser, a dwarvish alesmith of Ravens Bluff in the late 14 century DR.
+
+Description
+Deadman's Ale was a brew of meddling quality and medium potency, overall quite unremarkable. The ale's name came from the incident when Bowser sent a bottle of this drink to someone to test, and they were found dead the same night. The tester's death had nothing to do with the ale, as he died in a scuffle.
+
+History
+In the, Bowser of Ravens Bluff attended the year-end celebration festival in the town of Mossbridges in the Vast. The alesmith took his first attempt at winemaking – Dark Maiden Wine, to the wine-tasting and grading competition. Even though the completion rules dictated Bowser could only bring one variety of wine, they said nothing about ale, so the dwarf brought all twelve types of ales of his making, including Deadman's Ale.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Devonshire
+
+Devonshire was a Netherese animal trainer who worked in Karsus Enclave until its destruction in .
+
+Appendix
+References
+
+---
+
+## Department of Drains and Underways
+
+The Department of Drains and Underways was a civic organization managed by Baldur's Gate that maintained the city's underway and sewers.
+
+Activities
+The Department of Drains and Underways employed a tribe of gutter kobolds to perform some maintenance work on the city's street hatches, drainage, and maintaining flow in the underground sanitation tunnels, however, the tribe was reported slain by an unknown perpetrator during the Absolute crisis.
+
+History
+In the, the Cult of the Absolute infiltrated the walls of Baldur's Gate whilst allied with the cult of Bhaal. Orin the Red, the crazed Chosen of the Lord of Murder, and her doppelgangers performed ritualistic murders of Baldurians, using as a base their so-called Tribunal, deep under the Lower City. Gohumberry Tresp of the Lower City grew suspicious of the rising stench of death that emanated from the City Sewers' drains and hatches. Gohumberry began investigating the scandalous issue and petitioned the Department of Drains and Underways for a resolution to the problem. The Department claimed to be handling the problem and sternly warned Gohumberry away from attempting to enter the Underways on his own.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Desert troll
+
+Desert trolls were a species of desert-dwelling trolls, found inhabiting the Calim Desert, the Plain of Standing Stones, and within the Watcher's Keep, as well as Har'Akir, one of the Domains of Dread.
+
+Description
+Desert trolls were lumbering giants of  or more with tan chameleon-like skin that matched the color of their desert environs between bright sun-bleached sand to dirty colors of rock. Their bodies appeared lanky and awkward, compared to other bipedal creatures. Their feet had only three large flat toes, and their long arms ended in sharp claws. Desert trolls had long, ropey hair that seemingly trembled as if by its own will.
+
+Personality
+Desert trolls tended to flee their habitats if their deadly vulnerability to water was discovered by their prey. Most desert trolls were solitary creatures. There was no evidence of desert trolls even being in any sort of alliance or company with other creatures. By nature, these creatures were arrogant and traitorous. All desert trolls dispised water and sought to pollute freshwater sources where they could.
+
+Abilities
+Desert trolls had abilities similar to those of their more common kin. Their sense of smell was unusually keen. They could swiftly regenerate wounds and parts of their bodies; however, unlike regular trolls, they were invulnerable to cold, heat, and fire, keeping only typical acid vulnerability. When trolls suffered damage from acid or flames of magical nature, like dragon's breath, their wounds did not heal. They also possessed a more unique vulnerability – to water, as deadly to them as acid, hindering their generative abilities, and a well-aimed blast of water from a decanter of endless water could completely disintegrate a desert troll. Holy water and purified water dealt more damage to these creatures, while a potion of sweet water could immediately kill them. Some desert trolls also moved at a speed higher than their mundane cousins and could only be damaged by magic weapons of +2 or stronger enchantments.
+
+Combat
+Due to their natural chameleon skin, trolls were hard to spot in the desert, giving them a great upper hand in springing traps and ambushes on unwary travelers and adventurers. In battle, desert trolls used their claws and bites.
+
+Society
+Deserts, dune burrows, and rocky caves in arid regions were desert trolls' homes. They interacted little with other creatures apart from hunting on the far edges of inhabited areas, feeding on travelers, strays, adventurers, and scavenge. For obvious reasons, they did not consume water and drank only blood. In rare occasions when desert trolls had an abundance of food, they were known to form temporary communities of up to a dozen individuals.
+
+During breeding periods of time, a temporary family unit was formed of up to six trolls. These families did not stay together past two years required for the young to mature.
+
+Desert trolls had no natural predators. Their flesh was unpalatable even to such creatures as leucrotta, and in turn, desert trolls cold hunt most any living creature and could attack some aberrations, like beholders, when starving.
+
+History
+According to the research done by Ibn Al'Arif sometime in the 14 century DR, desert trolls' aquaphobic condition was a mutation caused by magic, or they were created by some mage.
+
+Notable
+Anhg Krag, a goodly desert troll from the realms of Har'Akir.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Desperately Seeking Selûne
+
+{{Organized play
+| image            =
+| caption          =
+| code             =
+| title            = Desperately Seeking Selûne
+| publisher        = RPGA
+| designer         = Chris Ruester
+| editor           =
+| reviewer         =
+| also_credited    =
+| cover_artist     =
+| inter_artist     =
+| cartography      =
+| realm year       =
+| setting          =
+| edition1         = LC
+| debut            = Totally Tubular '99
+| released         = October 1, 1999
+| subcat           =
+| pages            = 39
+| game_edition     = 2
+| isbn             =
+| play_time        = 3–4 hours (per round)
+| rounds           = 1 (per tier)
+| players          =
+| levels           = Any (Another Rescue)7+ (Dealing With Darkness)
+| series           = Red Threats (3 & 4 of 4)
+| preceded_by      = The Underground
+| followed_by      = —
+}}Desperately Seeking Selûne is an adventure in the Living City organized play campaign for 2 edition  published in 1999. Written by Chris Ruester, it is the finale of the Red Threats series and features two rounds in total; one per difficulty level. Each of the rounds is separately labeled as a chapter, with their events taking place concurrently with one another.Another Rescue involves players tracking down and rescuing the kidnapped Selûnite Tessa Saar. Dealing With Darkness has players tracking down and recovering the stolen Orb of Selûne. Both thefts happen on the day of the Midsummer’s Festival. At the end of Another Rescue, players return home to learn that while they were gone "...great adventurers found and returned the Orb of Selûne."
+
+Index
+This adventure contains two rounds in a singular document, which are indexed separately on these subpages:
+ Another Rescue (Low Tier; Chapter 3)
+ Dealing With Darkness (High Tier; Chapter 4)
+
+Appendix
+Notes
+
+Background
+ Special thanks is given by the author to Troy Daniels (who is also given the nickname "TSRO Thar"), Joe Cirillo and the rest of the RPGA's Plot organizers, Bryan Everitt for combat, and Brian Miller for information on the Orb of Selûne and the Living City's Temple of Selûne.
+ In order to properly run the adventure it's advised one has the books Dungeon Master's Guide, Player's Handbook, Tome of Magic, Faiths & Avatars and Demihuman Deities.
+ Other books the author recommended be owned by those running the modules included The City of Ravens Bluff, The Drow of the Underdark, Forgotten Realms Adventures, and Monstrous Manual''.
+
+References
+
+---
+
+## Desperately Seeking Selûne/Another Rescue
+
+Desperately Seeking Selûne: Another Rescue is the Low Tier installment of the tournament adventure module Desperately Seeking Selûne, set in the Living City organized play program, and is the third chapter of the Red Threats series of modules. It was published in 1999, and is intended for adventurers of all levels.
+
+Index
+
+Characters
+
+Creatures
+
+Locations
+
+Magic
+
+Organizations
+
+Religions
+
+Miscellaneous
+
+Appendix
+Notes
+
+References
+
+---
+
+## Desperately Seeking Selûne/Dealing With Darkness
+
+Desperately Seeking Selûne: Dealing With Darkness is the High Tier installment of the tournament adventure module Desperately Seeking Selûne, set in the Living City organized play program, and is the final chapter of the Red Threats series of modules. It was published in 1999, and is intended for a party of adventurers of 7 level and up.
+
+Index
+
+Characters
+
+Creatures
+
+Locations
+
+Magic
+
+Organizations
+
+Religions
+
+Miscellaneous
+
+Appendix
+Notes
+
+References
+
+---
+
+## Deepchill
+
+Deepchill was a sentient dwarven frostbrand broadsword that came into the possession of Vinjarek the Mound King sometime before the mid–14 century DR.
+
+Description
+The blade reflected light as if it were made of ice. Its original scabbard was made of fine leather and was inset with three matched gemstones, each of which was worth between 55 and 68 gold pieces.
+
+Personality
+As a dwarven weapon, Deepchill was only happy when underground, and moreso if its owner was a dwarf. It was intelligent and could speak Dwarvish as well as the lawful neutral alignment language, although its preference was always for using Dwarvish. It despised anyone with whom it was unable to speak.
+
+Deepchill was referred to both as "it" and as "he/him".
+
+Powers
+The sword had an exceptionally powerful magic edge and was twice as mighty when fighting wielders of fire. It also had the automatic ability to detect secret doors, detect sloping passages, and detect elevator/shifting rooms/walls, although the blade had to be within  or closer for these powers to function.
+
+History
+In ancient times, Deepchill belonged to a dwarven king in the North. Sometime before the founding of Silverymoon, this owner was slain by a human bandit king belonging to the Chieftains in Gold, who claimed the sword and was subsequently buried with it in the Tombs of Deckon Thar.
+
+The blade was later found and claimed by the great wight Vinjarek, who declared himself the Mound King of the Tombs of Deckon Thar. While Deepchill was Vinjarek's most prized possession, the sword disliked its lawful evil owner, who was unable to understand or speak with it. However, this did not stop the Mound King from gaining complete mastery over Deepchill.
+
+Over the centuries that followed, Deepchill's fine scabbard rotted away, leaving only the gems that had once adorned it.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Delosar's Pearls
+
+Delosar's Pearls was a tavern in the Amnian city of Esmeltaran during the 14 century DR.
+
+Location
+The tavern was built on the eastern side of Esmeltaran, near the shore of Lake Esmel.
+
+Services
+Delosar's Pearls provided decent service at a reasonable price.
+
+Appendix
+References
+
+---
+
+## Despair of Athkatla
+
+Despair of Athkatla was a unique fancifully-adorned enchanted wizard's staff created and wielded by Lorroakan of Athkatla in the late 15 century DR.
+
+Powers
+The staff possessed a +2 enchantment that made its physical attacks stronger and guided the wielder's arm towards the targets. Additionally, Despair of Athkatla harnessed its creator's short temper and flooded the wielder's mind with bright shades of burgundy and carmine, focusing their magic into spell resistance and boosting their spell-slinging aim.
+
+History
+Despair of Athkatla was created sometime before the, when it was wielded by the mage Lorroakan, the master of Ramazith's tower and the Sorcerous Sundries shop of Baldur's Gate.
+
+Appendix
+Gallery
+
+Appearances
+Video Games
+Baldur's Gate III
+
+References
+
+---
+
+## Death in the Shire
+
+Death in the Shire is an adventure module set in the Living City organized play program. It was published in 1994 and is intended for a party of 5 to 8 adventurers of any level.
+
+Index
+
+Characters
+
+Creatures
+
+Locations
+
+Magic
+
+Organizations
+
+Religions
+
+Miscellaneous
+
+Appendix
+Notes
+
+References
+
+---
+
+## Devilish Qora
+
+Devilish Qora was an unsavory tiefling fighter mercenary from the Lower City of Baldur's Gate in the late 15 century DR.
+
+Description
+Qora had crimson skin and horns that showed her Mephistopheles tiefling bloodline. She wore her red hair in a short bob. As a warrior, Qora wore a simple breastplate and wielded a longsword.
+
+History
+In the, the opportunistic and immoral mercenary Aradin Beno set out to find the Nightsong for the mage Lorroakan. If the Nightsong, in reality a Selûnite aasimar, was to reach the city of Baldur's Gate, then Beno had a band of mercenaries with questionable morals ready to attack those who sheltered her. Devilish Qora was among those mercenaries, ready to break into the Elfsong Tavern to kill and kidnap.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Derque Rillyn
+
+Derque Rillyn was a member of the noble patriar Rillyn family of Baldur's Gate, daughter of Hir Rillyn, and cousin of Clerebold in the late 15 century DR.
+
+Personality
+It was a popular belief that Derque Rillyn had a foul temper.
+
+History
+In the, Clerebold had an idea he passed along to his cousin, Derque Rillyn, to his usual praise. Clerebold suggested that Nortale's Hostel, a non-profit hostel used to help refugees during the Absolute crisis, should be renamed after Derque's daddy – Hir Rillyn's Hostel, in order to convince him to donate a "good old chunk of change" in aid of the establishment and possibly even a bit of extra coin for Derque himself. This ingenious idea was born from Derque's annual donations to Hostel Mother Pammella Nortale's establishment, who, due to strife, pleaded with the noble for a larger sum. However, Derque overstepped his allowance. He could not secure additional funds from her daddy and was unable to get extra dowry coin from the soon-to-be bride – Henrietta Hhune, daughter of Hurlbut Hhune.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Descent into the Deep
+
+Descent into the Deep is a one-round tournament adventure module set in the Living City organized play program. It was published in 1997 and is intended for adventurers of all levels, but has separate paths for parties of low and high levels.
+
+Index
+
+Characters
+
+Creatures
+
+Locations
+
+Magic
+
+Organizations
+
+Religions
+
+Miscellaneous
+
+Appendix
+Notes
+
+References
+
+---
+
+## Demonstone
+
+The Demonstone was the focus of initiation rites conducted by the Fraternity of Tharos in Impiltur during the late 15 century DR.
+
+Description
+The stone was inscribed with the names of various demons, all of which were written in fire. Those who wished to be inducted into the Fraternity of Tharos had to kidnap and sacrifice an innocent victim in a bloody ritual while calling out these names.
+
+The Demonstone was located within a bland, gray, and windowless tower somewhere in New Sarshel.
+
+History
+As of the, the tower housing the Demonstone was filled with demonic horrors.
+
+Appendix
+References
+
+---
+
+## Demon stone (disambiguation)
+
+Demon stone may refer to:
+ Demon stone, a magic item capable of imprisoning outsiders;
+ Forgotten Realms: Demon Stone, a 2004 video game in which the above magic item played a central role; or
+ Demonstone, a ritual site used by the Fraternity of Tharos.
+
+---
+
+## Delacroix
+
+Delacroix was a powerful Netherese arcanist  and alchemist who taught at the Alchemical Seminary in Eileanar shortly before its destruction in .
+
+Activities
+Delacroix was an expert alchemist with a focus on potions and oils, and taught this skill at the Seminary under the supervision of Quintus. Alongside Colombier, she was considered one of the more practical and relatable teachers there, as everyone could appreciate the applications of useful potions and magical powders.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Degliangeli
+
+Degliangeli was a Netherese bard who lived in Eileanar until its destruction in .
+
+Activities
+The bard was an avid historian, and was fond of visiting the Library of Netheril, where she, Beltcher, and Ebrard would pour over the texts within in search of historical insights and lore.
+
+Appendix
+References
+
+---
+
+## Dewez
+
+Dewez was a Netherese arcanist who oversaw the Mythallar Housing of Eileanar shortly before its destruction in .
+
+Activities
+Dewez was partially responsible for guarding the Housing and monitoring the output of the enclave's twin mythallars, with Haym and Salix taking up the duties on their own work shifts. All three were assisted by the arcanist Cowper whenever necessary.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Delores
+
+Madame Delores was a gypsy bard and soothsayer from the city of Ravens Bluff in the late 14 century DR.
+
+Description
+Circa 1370 DR, Delores was a beautiful young woman with long, curly black hair and piercing green eyes. She wore an expensive loose red dress and a number of earrings, rings, bracelets, and bangles.
+
+Abilities
+Madame Delores was a musician and a talented performer. She was also knowledgeable in potionmaking, scroll scribing, and crafting of enchanted items. As a bard, she had access to a number of spells, such as enthrall, invisibility, suggestion, charm person, identify, and summon monster I, among others.
+
+Possessions
+She carried a magic +3 dagger and wore bracers of armor and a ring of free action.
+
+History
+In the late 14 century DR, Madame Delores could be found in Ravens Bluff, offering soothsayings and palm reading to friendly adventurers. Those who were facing dangers received palm reading with cryptic advice as well as blessings of Tymora at no expense, but those who shunned the young woman received angry retorts. Madame Delores would call herself the famous Madame Coth and pretend to place a curse on the rude adventurers.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Demra Samdro's Best Beds
+
+Demra Samdro's Best Beds was a small shop of a maker and seller of grand beds that could be assembled after delivery. The shop was located on Saerdoun Street in the North Ward of Waterdeep in the late 15 century DR.
+
+Location
+Demra Samdro's Best Beds shared a three-story-and-an-attic building with a number of other businesses. The building stood on the southern side of Saerdoun Street, three doors west from the intersection with Thunderstaff Way. Other tenants of the office building were Erro Alhandrar's Nets, Tantra Jaressra's Fine Gowns, Laskalan's Lamps and Lanterns, and Vressa's Sweep Begone, as well as Tiger's Eye at one point.
+
+History
+The Best Beds shop was established sometime before the building changed management in the, now in the hands of the gnome named Hardyn Glorjarn, who took over the building's attic. The shop's owner and master crafter was a dwarvish exile who operated under the alias of Demra Samdro.
+
+Appendix
+References
+
+---
+
+## Debay
+
+Debay was a Netherese arcanist who worked at the Mythomian Warehouse in Eileanar until its destruction in .
+
+Activities
+Debay worked for Adrian Freeman at the warehouse alongside Bagshaw, maintaining the portals to the Paraelemental Plane of Ice and shovelling excess ice outside.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Demaz Dynasty
+
+The Demaz Dynasty was the ruling family of the realm of Velprin before it was absorbed by Aglarond.
+
+Family Tree
+
+Appendix
+
+References
+
+---
+
+## Deadeye Mibbs
+
+Fist "Deadeye" Mibbs was a member of the Flaming Fist and who served the city of Baldur's Gate in late 15 century DR.
+
+Description
+"Deadeye" was a human man with light skin, light brown eyes eyes, and brown wavy hair. He wore a uniform of the Flaming Fist – a set of leathers adorned with the Flaming Fist insignia, typical for crossbowmen of the organization.
+
+History
+In the, "Deadeye" Mibbs was stationed just outside one of the gates between the Lower City of Baldur's Gate and its more affluent Upper City. His and the fellow Fists' job was stopping rabble from entering the Upper City, allowing only those with much coin through. The Fists managed a slow-moving queue of rich and poor – city folk trying to return home or just find safety behind the second set of walls.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## DeSheers
+
+The DeSheers family was a noble house of Ravens Bluff.
+
+Family Tree
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Demon Grinder
+
+A Demon Grinder was a bulky, armored infernal war machine.
+
+Description
+The Demon Grinder was a colossal six-wheeled vehicle that featured imposing iron jaws affixed to its front and a massive metal ball suspended at its rear.
+
+Abilities
+Any creature or non-magical object devoured by its iron jaws would be pulverized and expelled through pipes situated at the sides of the vehicle. Additionally, the rear metal ball could be utilized for demolishing structures or other objects. It could carry up to  in cargo.
+
+Notable Owners
+ Mad Maggie, a night hag, had a Demon Grinder in her garage at Fort Knucklebone.
+ Raggadragga, a wereboar warlord in Avernus.
+ Feonor, a human warlord in Avernus, rode a Demon Grinder called Golden Doom.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deepspur
+
+Deepspur was a genasi city located in the cliffs of the Akanapeaks in Akanûl in the 15 century DR.
+
+Inhabitants
+The majority of genasi living in Deepspur were of the fire, water and earth elemental manifestations, with a minority of air genasi. A minority of other races also lived in the city.
+
+Economy
+Akanûl extracted all its riches from the rich mines of metals and gems that surrounded Deepspur.
+
+History
+In the, many of the inhabitants of Deepspur went missing mysteriously.
+
+Appendix
+References
+
+---
+
+## Devang
+
+Devang was a vizier and counselor of Rajah Jasraj Seltrarir as of the late 15 century DR.
+
+Activities
+Vizier Devang dwelt within Seltrarir Palace, and had a corrupting influence on the rajah, who trusted his vizier greatly. In truth, Devang was secretly a rakshasa and served the rajah of Tirumala.
+
+History
+During or shortly before the, Devang persuaded Rajah Seltrarir to sign a trade agreement with Tirumala. Given that city's evil reputation, this move was seen as so bewildering to the people of Estagund that many assumed their ruler had been either magically manipulated or replaced by a rakshasa.
+
+Appendix
+References
+
+---
+
+## Debac
+
+Debac was a scrupulous Netherese priest who guarded the Netheril Mint in Eileanar until its destruction in .
+
+Activities
+Debac was responsible for guarding the front doors of the Mint. She used divination magic to supplement the regular security and ensure that no coins were stolen and smuggled out.
+
+Appendix
+References
+
+---
+
+## Delon
+
+Delon was a child messenger from the village of Imnesvale in the Umar Hills of Amn in the late 14 century DR.
+
+Description
+Fael was a meek and stuttering human boy. He had light skin and dark brown hair.
+
+History
+In the, Delon was sent to Athkatla by the people of Imnesvale to bring back help in dealing with the recent deaths and disappearances. During his travels, Delon was met with cruel and mean people, had all of his coin stolen, and was left desperate to find an adventurer or two to take back to the Umar Hills. The child talked about missing people, folk going mad, some being found turned inside out, strange beasts seen skulking around, and even stories of the Umar Witch herself returning to torture the village. Subsequently, Delon may have came across Abdel Adrian and his companions and asking them to travel to the Umar Hills.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate II: Shadows of Amn
+
+References
+
+External Links
+
+---
+
+## Denneth Rhardantan
+
+Denneth Rhardantan was a man from Mistledale in the late 15 century DR.
+
+Possessions
+Storm Silverhand claimed he had many fast horses.
+
+Relationships
+As of Mirtul in 1479 DR, he owed Storm Silverhand much money.
+
+History
+In Mirtul of the, Storm Silverhand lured out a number of highknights through a portal to Shadowdale. She convinced their leader, Eskrel Starbridge, to trade a teleport ring in his keeping, originally belonging to Queen Filfaeril Obarskyr, for the name of a man who owed her much coin and had enough fast horses for his entire troop to make it back to Cormyr. The man's name was Denneth Rhardantan; she also yielded a word, "glimmerdeep", which would make him give them away for free to whoever asked.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Death's brink armor
+
+Death's brink armor was a type of enchanted armor that made the wearer harder to kill.
+
+Description
+Either plate or scale armor could be enchanted as death's brink armor. These armors were black and distinguished by an image of an outthrust hand on the chest.
+
+Powers
+In addition to providing enhanced protection as expected from magical armor, death's brink armor could save the life of its wearer as they lay dying, giving them a greater chance of pulling through. In addition, once per day the wearer could call upon the power of the armor to help them survive their mortal wounds.
+
+Notable Owners
+As of, a Vindicator of the Warlock Knights of Vaasa had enhanced his ironfell plate armor into a potent suit of death's brink armor. This Vindicator was part of the team responsible for investigating the rejuvenated Castle Perilous.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Delnor
+
+Delnor was a palace messenger in Suzail, during the late 15 century DR.
+
+Personality
+He was a nervous person.
+
+History
+Delnor was assigned by Glathra Barcantle to accompany Arclath Delcastle and have him identify the masked dancer at the Dragonriders Club who had been eavesdropping on him and his friends Belnar Buckmantle and Halance Tarandar, both of which had been murdered. Though Arclath tried to get some rumors out of him after they arrived early at Dragonriders, he had nothing useful.
+
+Together at the Dragonriders Club, they tried to find out about the masked dancer; however, they were unable to learn anything from the proprietress, Tress. By sheer chance, they came across the same dancer while she was out tossing her nightsoil into a passing cart; Arclath then convinced Delnor to leave the rest to him.
+
+Delnor joined Arclath again by the evening; unfortunately for him, three wayward nobles, Delasko Sornstern, Broryn Windstag, and Kathkote Dawntard, entered the establishment drunk and looking for trouble. After Delnor tried to convince them to leave, he was struck senseless. Per Amarune Whitewave's word, they felled the man, strongly implying they killed him.
+
+Rumors & Legends
+Appearances
+
+References
+
+---
+
+## Deathstalker mantle
+
+The deathstalker mantle was an enchanted cloak worn by the deathstalkers of Bhaal in the 15 century DR.
+
+Powers
+The cloak's magic turned the wearer invisible after a kill. This power was activated automatically, once per six seconds, and the invisibility lasted for 12 seconds.
+
+Notable Owners
+Dark Urge, a Bhaalspawn of the late 15 century DR. The mantle was entrusted to Sceleritas Fel, the Dark Urge's attendant in 1492 DR.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Delcan
+
+Delcan was a laborer and a delivery man of the Baldur's Mouth Gazette in the Lower City of Baldur's Gate in the late 15 century DR.
+
+Description
+Delcan was a pale-skinned human man with blue eyes and shaved head. He wore simple garb of a wraparound tunic, brown pants, and a hat.
+
+History
+In the, during the Absolute crisis, Delcan was employed by Baldur's Mouth and could be found outside the broadsheet publisher's office picking up deliveries. The man had a foul attitude thanks to customers' incessant requests to purchase the gazette. His temper often boiled over as he preemptively shouted at folk that he did not sell the broadsheets.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Demon Pit
+
+The Demon Pit was a seemingly bottomless chasm in the city of Evernight in the Shadowfell. It existed in the same location as the Chasm in Evernight's twin, Neverwinter.
+
+Description
+The Demon Pit was slightly smaller than the Chasm on the Material Plane. It exuded powerful necromantic energies, even by the standards of the Shadowfell. The air was colder, lights were dimmer, and undead were drawn to the land around the Pit. This power left the living feeling fatigued while undead were empowered.
+
+History
+When the Chasm opened in Neverwinter during the Ruining, this reflection of it appeared in Evernight. The city's ghouls and vampires could not explain the seemingly bottomless crack that had appeared in their city, and dubbed it the "Demon Pit" because they believed it led to the Abyss, specifically the White Kingdom of Doresain. As of, no one had managed to descend into the Pit and return to confirm or deny this belief. Nevertheless, this did not stop Evernight's faithful of Doresain and Orcus from throwing living creatures into the Demon Pit as sacrifices.
+
+Appendix
+References
+
+---
+
+## Descender
+
+Descenders or brake bars were useful accessories in combination with other climbing tools.
+
+Usage
+When used with ropes while climbing, a brake bar allowed the climber to control their rate of descent or stop entirely as they slid down the rope.
+
+Appendix
+See Also
+ Carabiner
+
+External Links
+
+References
+
+---
+
+## Defensive edge
+
+Defensive edge was a minor utterance from the Lexicon of the Evolving Mind that used truespeak to grant a target the ability to defend itself more effectively. When reversed, it hampered instead.
+
+Usage
+In its straight form, it granted the subject glimpses of coming blows, giving it an edge in defense. In its reversed form, the whispers served to mislead instead, hampering its defenses. Both lasted for roughly half a minute.
+
+History
+The utterance was known to garblers, who only used it in its reversed form.
+
+Appendix
+References
+
+---
+
+## Desert blade
+
+Desert blades were magic weapons found in Zakhara, the Land of Fate.
+
+Description
+A desert blade was almost identical to a sun blade, but with two major differences. First, a creature had to use two hands to wield a desert blade. Second, it was forged as a scimitar instead of a bastard sword.
+
+Appendix
+Appearances
+Adventures
+A Dozen and One Adventures
+
+References
+
+---
+
+## Devella Fountainhead
+
+Devella Fountainhead was a Constable and a paladin of the Flaming Fist who served the city of Baldur's Gate in late 15 century DR.
+
+Description
+Devella was a rock gnome with brown skin and short, curly blonde hair. She was meticulous and determined in her job. As a paladin, she wore a set of Flaming Fist uniform plate armor and handled a two-handed sword.
+
+History
+In the, Devella Fountainhead turned down a generous donation from Lady Jannath, whose consort went missing, unbeknown to all, enslaved by the Zhentarim. Firelia Jannath requested a "Sword Coast wide" search for the painter, but Devella's men were in short supply; she did, however, promise the patriar to keep an eye open for any signs of her missing lover. Devella later was tasked with assisting the Sleuth of Helm, Valeria, with the investigation of grizzly murders that plagued Baldur's Gate, beginning with the murder of Duke Belynne Stelmane. Sarevok Anchev of Bhaal was a person of interest in her investigation and was reported in a report to Blaze Liara Portyr, requisition the formation of Bhaal Murder Response Force. Despite the gnome's investigation and theories, her opinion was dismissed by investigator Valeria. One additional clue to the true nature of the murders came from Vicar Humbletoes of the Stormshore Tabernacle, where a bloodied offering was left for the God of Murder with the words "Murder Shall be Holy Again" inscribed on the victim. Devella's eventually faced the Bhaalist murderer Dolor as the dwarf was attempted to end the life of Figaro Pennygood, a clothier from the Lower City. Devella may not have survived that meeting or emerged alive with some help from a group of adventurers who sought to end the threat of the Absolute.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Dezra D. Phillips
+
+Dezra D. Phillips is an editor.
+
+Works
+ Caravans
+ Halls of the High King
+ Monstrous Compendium Al-Qadim Appendix
+ The Complete Sha'ir's Handbook
+
+---
+
+## Death lance
+
+Death lances were a rare melee weapon used by the drow.
+
+Description
+A death lance was a -long lance made from a unique, mottled, sparkling-and-dull gray metal.
+
+Creation
+The method of their creation was a closely guarded secret among the drow, requiring the expertise of skilled and powerful wizards.
+
+Powers
+Death lances released a powerful negative force upon impact. In addition to physical damage, they also inflicted chilling damage. When they were created, each lance was given a charge. When this charge was expended, dark, writhing tendrils of black light crawled down the lance towards the targeted creature. The struck victim then suffered the effects of an energy drain. The lance could not be recharged.
+
+Usage
+They were utilized by drow city-gate and temple guards to combat formidable enemies.
+
+A death lance may be wielded by anyone. However, its use was not considered a good act and may have severe consequences for paladins, priests, and certain other individuals.
+
+Notable Owners
+Berg'inyon Baenre armed himself with a death lance.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Dedryk Black
+
+Dedryk Black was a notorious Sharran who long lived within the Wheloon Prison, and became the priestly leader of a Sharran cult that operated from a hideout in the Storm Horns foothills of Cormyr in the late 15 century DR.
+
+Description
+Dedryk Black was a powerful human man with red hair gathered in a ponytail and a trimmed red beard. He had a light skin tone and wore Sharran robes dyed in dark purple hues.
+
+Personality
+
+Dedryk was a true believer in Shar, seeing her dominion over the world as both righteous and inevitable. He had a special hatred for the Wheloon prison, and regarded it as a horrid place that nobody deserved to be thrown into. He was no blind fanatic, however, and could be appealed to with rationality in regards to his own survival, and that of his flock.
+
+Abilities
+The cultist leader wielded an enchanted bladed shield that glowed with Shar's magic and used a chakram in battle. He possessed a knowledge of fearsome dark magics like disintegrate and Abi-Dalzim's horrid wilting.
+
+History
+
+Dedryk originally lived as a regular farmer in Wheloon, and came to the service of Shar along with many other residents. When the town was turned into an enormous prison due to their discovery by the Purple Dragons, Dedryk's faith was not shaken, and many years later he was able to escape by passing through the Shadowfell. He eventually reached the Storm Horns in northern Cormyr and assembled a group of criminals and cultists in an underground hideout.
+
+The Cormyrean Magistrates Abella Toth, Celia Pendrick, and Barthold Moncrief pursued signs of his cult's activity to Eveningstar, and tasked a band of adventurers from the world of Eberron with investigating the foothills of the Stormhorn mountains. Though they were well hidden, used many traps, and fought hard (including using a poorly-controlled owlbear), he and many of his disciples were captured and handed over to the Purple Dragon knights.
+
+The Magistrate Barthold Moncrief then took Dedryk and the other prisoners with him on the Wheloon Prison boat from Eveningstar to Wheloon, with Dedryk in particular kept contained within many-layered War Wizard spells. Wary of the danger from the cultists' allies, the convoy was protected by a heavy bodyguard of Purple Dragons and the continued service of the adventurers. While camping one night on the banks of the Wyvernflow south of Wheloon, the convoy was ambushed by lizardfolk, who swarmed the defenders in an attempt to free the Sharrans. When the tide of battle turned against them, the shaman Srass Marnanr emerged from the river and used dimension door to vanish alongside Dedryk, absconding with the most valuable prize. Unwilling to let the mercenary lizardfolk get away with their raid, Moncrief sent his forces into the wilderness in pursuit of Dedryk, overcoming a war party led by the hulking Rynarr Nosryrr. They eventually found the enemy camp, containing Dedryk and the shaman Srass Marnanr. Before Dedryk could be freed from his incapacitating wards, his savior Srass Marnanr was killed, and the unlucky Sharran was returned to custody.
+
+Dedryk soon after reached Wheloon, and was taken to the Magistrate's Office at the Wheloon Docks for interrogation. Magistrate Cornelius Latrimor had been unsuccessful in learning anything, and so let the adventurers who had caught him twice take a turn. Though he spoke mostly threats and curses, Dedryk did mention that he had passed through the shadows themselves to freedom, and was willing to entertain a small measure of cooperation to ensure the safety of himself and his followers. Before the interrogation could proceed much further, the whole area was assaulted by the forces of Returned Netheril as they overlapped the docks with the Shadowfell itself, allowing a small army of living shadows and enraged prisoners to burst into the Cormyrean position from the inside. While the defenders fought off the attack, the shadar-kai assassin Teralyn shadowstepped into the Magistrates office, slew Magistrate Latrimor, and sent Dedryk back into the shadows to freedom. Before Teralyn could escape herself, she was cornered by the vengeful heroes from Eberron and slain in battle. The fate of Dedryk after that was unknown.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Delver (Galadorna)
+
+Delver was a guard at the House of the Unicorn in Nethrar, Galadorna, in the mid–8 century DR.
+
+Description
+He was young.
+
+Relationships
+He was closely loyal to the realm's seneschal, Elminster Aumar.
+
+History
+Delver was a guard at the House of the Unicorn, the royal home of Galadorna, in Nethrar, late in the year,In the ebook version of Temptation, the Realmslore section declares the events of the first part to happen in around five years starting 759 DR. In the first chapter, Nuressa, the warrior, tells Elminster they're in early Mirtul. If it is assumed that the events happened in at most five and a half years, as more than five and a half years becomes around six years, then the last events in Part 1 must happen at most during Uktar of 764 DR. Given Feldrin's warning during the coronation that the Lords of Laothkund are already planning an attack, this timeline seems plausible. Further development may yet alter the result. when he and fellow guard Ingrath did some services for the seneschal. His last service involved personally adulterating an "Aerwork" with a white powder, then mixing them carefully and saying a few words. The seneschal wiped away his memory of doing that and left him wandering in search of the jakes. The memory wipe was almost certainly because the seneschal sought to blunt the cruelties of the sorceress-queen of Galadorna at the time, Dasumia, which strongly implied the scrolls were hers.
+
+Later at the Goblet of Shadows, a local tavern, Ingrath and Delver were propositioned by a disguised Dasumia into some ungentlemanlike evening activities She took them to a shrine of Bane hidden somewhere in the House of the Unicorn, where they were forced to participate in a deadly ritual. After being affected by some compulsion spell by Dasumia and whipping her until she was red and bloody, she noticed the seneschal, Elminster, hiding in the entrance. After issuing their challenges, Dasumia sent the mind-controlled guards against him. He used a spell to release them, but they were knocked out from the backlash of the unwinding magic.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Deathslayer
+
+Deathslayers were a variety of wizards that honed their skills in the Art for the narrow goal of seeking out and destroying all manner of undead.
+
+Culture
+These wizards had an obsessive, militant opposition to all forms of undead that bordered on mania. Their pursuit was unrelenting, as if the fanatical mages were under the effect of a geas. When confronted with a group of undead and living creatures working together, a deathslayer would unerringly focus on slaying the undead first, even if their living allies posed a greater risk.
+
+For many, though not all, their hatred of undead stemmed from a personal experience, of either themselves or a loved one being attacked. This instilled within them an overpowering drive for revenge against undead, perhaps mixed at times with a sense of righteous indignation. For other deathslayers, their motivating force was instead compassion, wanting to selflessly risk their lives in order to lay disturbed spirits to rest. Still for others, such developed senses of morality might be lacking and in its place stood a tenuous hold on sanity, the years of battling such horrors having eroded their mental health. Even when deathslayers managed to maintain their sanity over years of fighting the undead, their dealings with other people usually took a turn towards the harsh and grim.
+
+Though deathslayers desired the death of all manner of undead, each devoted themselves at the start of their career towards a focus on a particular form of undead. Once this choice was made they could never alter their focus. Undead commonly chosen included banshees, ghosts, liches, mummies, spectres, and vampires. Regardless of their focus, as they grew in power deathslayers tended to seek out increasingly dangerous foes, such as ghosts, vampires, and even liches. Additionally, their opposition towards undead frequently put them in conflict with necromancers.
+
+Requirements
+The life of a deathslayer could be taken up by people of any alignment, though it required the wizard to have an adequate amount of strength and becoming well-versed in the field of necrology. Some went so far as to become learned in ancient history and languages, astrology, netherworld knowledge, and spirit lore. However, the various skillsets employed by rogues were considered forbidden amongst deathslayers.
+
+Abilities
+Deathslayers conducted extensive study and prepation towards their chosen focus, honing their abilities and becoming skilled in combating them. This resulted in them exhibiting certain capabilities that were otherwise not present when fighting other forms of undead. These included greater mental defenses, including against charms and fear, greater prowess in close-quarters combat and with touch-based spells, and their spells overall proved to be more effective.
+
+In terms of spells, these wizards preferred those of a defensive and offensive nature, particularly those that could detect or disable undead creatures. Some common spells among deathslayers included bind undead, chill touch, corpselight, detect undead, and hold undead. In some cases, deathslayers adopted the similarly loathsome practices of necromancy in order to take down necromancers.
+
+Possessions
+Being a form of wizard, deathslayers forwent wearing any sort of armor. In terms of weaponry they tended towards the standard wizard array of weapons, including daggers, darts, knives, slings, and staves.
+
+Notable Deathslayers
+ Dr. Grant Van Ruch, a human deathslayer from the city of Sigil that devoted his life to slaying vampires after one killed his parents.
+ Talib the Lich-Killer, a wily old Zakharan who once ruled the city of Ysawis alongside the necromancer Kazerabet. After the lich Thalath killed both of his sisters he took up the life of a deathslayer, returning the zombies of his kingdom to the grave and devoting his focus towards the slaying of liches. He was known to have slain Thalath and three other liches over time.
+
+Appendix
+See Also
+ Necrobane
+ Undead slayer, elves that similarly devoted themselves to the eradication of undead.
+Appearances
+
+References
+
+---
+
+## Deathcap mushroom
+
+Deathcap mushrooms were a species of unassuming but very poisonous fungi found in the Savage Frontier on the Northwest Faerûn.
+
+Description
+Deathcaps appeared to be almost indistinguishable from the harmless varieties of mushrooms that grew in the cavers along the northern coast – grey stalk and skirt with a green cap atop. The only distinguishable feature was that deathcaps grew a bit bigger in size than their neighbors. Deathcap mushrooms were treacherous fungi – they tasted positively delicious but were a deadly poison.
+
+History
+By the late 15 century DR, Aleema Meddlebrook, who traveled along the Trade Way from Neverwinter to the city of Luskan with Tollin's caravan, sought to harvest deathcap mushrooms from a cave near to where the caravan was ambushed bu bandits. She asked the Champion of the Burning Dawn and their companions to retrieve the fungi if they were to stumble across some. Aleena advised the heroes not to eat any of the deathcaps.
+
+Appendix
+Appearances
+Video Games
+Sword Coast Legends
+Miniatures
+Dungeons & Dragons Miniatures
+
+References
+
+---
+
+## Death minnow
+
+Death minnows were a deceptively dangerous species of deep sea, magically created fish, meant to act as guardians of undersea lairs and treasure troves.
+
+Description
+These fish sported orange scales and were usually found to be as small as, however, they with their innate magical ability they can grow to be as large as . They were quite agile, able to evade most attacks while in their minute state.
+
+Behavior
+These creatures had only an animal level of intellect, but ensured the area surrounding whatever they were assigned to guard remained clear of nosy predators, such as adventurers. All death minnows were stilled with an instinctual pressure to not release swallowed prey under any circumstances, a drive that persisted in their body even once killed.
+
+Abilities
+Rather than sight, these fish relied upon pressure-sensitive lateral lines to detect other creatures. They were endowed with a magical ability that mimicked the spell enlarge/reduce, allowing them to increase and shrink their body mass at will. Any creature swallowed by a death minnow's powerful suction in its enlarged state would likewise shrink down in size when the death minnow reduced its mass. If dispel magic was ever cast upon them, their bodies was enlarge to their maximum size of .
+
+Ecology
+No wild populations of these fish existed, as they were an entirely artificial species. They felt no need to breed and it was uncertain as to whether or not they even had sexes.
+Usages
+The blood of these creatures could be utilized to make ink for spell scrolls of enlarge or reduce. Their bodies were also edible, sporting a flavor akin to kippered herring.
+
+History
+The first death minnows were created by undersea sorcerers, though its unknown who or what race they were, with some believing them to be aboleths and others sahuagin.
+
+Two death minnows acted as guardians of treasure in the Temple of Eadro in Voalidru. After both the temple and city were abandoned, the fish were left to skulk around for months, until they were attracted by the kraken Qol'in'taroq's call. In their efforts to investigate the noise, the minnows became trapped in the temple's pantry. Over time, for reasons unknown, the minnows did not bother the kraken's sahuagin minions whenever they came twice a day to the pantry for food, who unaware of the presence of the dangerous sometime. Sometime later, in the, a group of adventurers traveling through the ruined temple to put an end to the kraken stumbled upon the two death minnows in the pantry and were attacked.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Delian
+
+Deilan was a Helmite priest in Maztica in 1362 DR.
+
+Activities
+Together with his fellow Elkhound and Wadsworth, Deilan was a missionary in the village of Maju, on the plains between the Chuapli Forest and the Narabatun Jungle.
+
+History
+In 1362 DR, Wadsworth and his fellow priests told an adventuring party hired by Bishop Devane about the priestess Mirandos, who had disappeared with a group of six Payit warriors seventy days ago, a full tenday after she had oversaw a burning of books and scrolls in Maju. Each of the priests put forward their own theories on the mysterious disappearance. Delian believed her to have been kidnapped by Payit "savages" seeking revenge for the burning. Elkhound believed her to have fallen under some sort of a curse from the books and fled into the night. And Wadsworth believed she'd fallen into temptation after reading something in the Maju scrolls and fell astray.
+
+As proof of their claims, the three Helmite priests then presented a partially-burnt map that they had found in Mirandos's private quarters. The map depicted one of the coasts of Far Payit, north of the Bilchak River, with marks denoting the lost city of Ixtzul and a route leading to it from the north. Wadsworth proposed that the mark on the map was indeed meant to indicate some sort of lost city. Elkhound speculated it was marking some sort of tower where dark sorcery was being conducted. And Deilan theorized it was a secret base for Payits rallying together to launch an attack on the Amnians. The priests then informed the adventurers that Amnian soldiers had combed the area two tendays prior, as far south as the Narabatun Jungle, but had turned up nothing.
+
+Having learned all that they could from the priests, the adventurers tried to take off on the horses that had been provided to them, but the three priests insisted that the adventurers leave the horses behind on the grounds that they were property of the Church of Helm.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Dellys
+
+Dellys was a news hawker who worked for the Baldur's Mouth Gazette in the Lower City of Baldur's Gate in the late 15 century DR.
+
+Description
+Dellys was a dark-skinned human boy with brown eyes. He wore a quality leather jerkin and a hat while selling the broadsheets.
+
+History
+In the, during the Absolute crisis, Dellys could often be found peddling the Baldur's Mouth Gazette across the street from Beehive Goods and Wares in the Lower City alongside Pharnilla, with whom Dellys took breaks. When he was interrupted whilst on a break, Dellys claimed to be a member of the Gazetteers' Guild and stated he had rights and whatever business the person had would have to wait.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Death knife
+
+Death knives were a variety of concealed knives used by rogues.
+
+Description
+These weapons could be made to resemble a variety of different inconspicuous objects, such as some form of tool, a quill pen, a case for a comb or spectacles, or more rarely a bladeless knife. The blade of a death knife was concealed within barrel and spring-loaded, shooting forward once a user pressed upon some catch on the object's handle.
+
+The level of concealment for these knives was far from fool-proof, as they could be discerned from any close inspection. Additionally, some models were known to leak out any poison laced upon their blades.
+
+Availability
+These knives varied in their legality. While some of the more liberal and shady parts of the Realms allowed for their sale, in many other parts they were considered to be illegal. But even in areas where they were technically legal to acquire, doing so was no small feat.
+
+Notable Owners
+ Some bounty hunters were known to favor the use of these knives.
+ Alexandra, a half-elf fire elementalist, owned a death knife concealed in the form of a hair comb. While held captive by the evil evoker Boris, she tried to use this weapon against him.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Detritus
+
+Detritus was a cluster of animated objects that accompanied the Shadovar delegation to Thunderholme in the late 15 century DR.
+
+Description
+Detritus was composed of various pieces of Netherese furniture.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Derevon Ybir
+
+Derevon Ybir was a human resident of Eveningstar in Cormyr in the late 15 century DR.
+
+Description
+Derevon had dark skin and black hair tied back.
+
+History
+
+During the Sschindylryn invasion of Eveningstar in the mid-1480s DR, Derevon tried to get the attention and assistance of the priest Anazar Narroun regarding the town's barricades. However, he was snubbed in favor of the crisis emerging in the Eveningstar War Hospital with Peron Uthe, as shared by Meena Follakin and Eolynn Arva.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Demarcation
+
+Demarcation was a mental affliction that could affect psionicists, but also others under certain circumstances, particularly in the Underdark.
+
+Acquisition
+Demarcation was a person's belief in their own false delusions in the face of all evidence to the contrary—a loss of the ability to draw a mental line that separates truth and perception. It was also described as 'self-deception'. To some, it was simply called 'madness'.
+
+It could be acquired through a couple of means. One way of becoming sick with demarcation was to use psionic abilities to read the mind of somebody already suffering with it. Because of the nature of the illithid hive mind, that species was noted as being vulnerable to it. Especially persuasive people could charm and convince people that utter falsehoods were actually undeniable truths, which could also inflict demarcation upon them. Those with over-inflated egos or strong senses of pride in themselves could also delude themselves into a state of demarcation.
+
+During the Rage of Demons, the magical influence of demon lords into the already-alien Underdark caused all sorts of mental illnesses in the sapient residents of the Realms Below, with faerzress radiation acting as a catalyst to strengthen those effects even further, potentially causing demarcation. In this form, demarcation was known as the Abyssal affliction.
+
+Treatment
+A powerful psionicist, or group of psions, were thought by some to be able to treat the disease, but this carried with it the risk of infecting any or all of those psions involved, and so was frowned upon as a treatment option.
+
+Improving one's own self-discipline was also thought of as a potential avenue for treatment, especially if one could achieve the peak of mental and spiritual perfection in the process and gain the ability to experience the higher planes, as some powerful monks were capable of doing.
+
+Notable Affected
+ Drizzt Do'Urden came down with a very serious case of demarcation after encountering a pocket of demonically infused Faerzress on a journey through the demon-infested Underdark tunnels between Illusk and Menzoberranzan. He convinced himself that all of his friends, many of whom had been brought back from the dead, or had experienced longer-than-expected lifespans, were in fact deceased, and that their resurrections or long lives were all a ploy by Lolth to torture him by giving him joy, only to rip it away from him in the most brutal way possible.
+
+Appendix
+References
+
+---
+
+## Deepbeak
+
+Deepbeak was a subterranean owlbear that lived beneath Myth Drannor in the late 14 century DR.
+
+History
+The beast dwelled within the catacombs beneath Ildrannath's Tower, deep below the city. It was generally uninvolved in the above-ground politics.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Deathgaze
+
+Deathgaze was an ancient spirit naga in Myth Drannor during the late 14 century DR.
+
+History
+The naga was hidden inside the Speculum, remaining uninvolved while Kelgoth Darksong and the Elves of Cormanthor searched the building in 1374 DR.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Dessafon
+
+Dessafon was a yuan-ti abomination that led a cell of yuan-ti rebels near the High Road of Cormyr during the late 15 century DR.
+
+History
+The yuan-ti and their followers were active around the Sschindylryn invasion of Eveningstar and the Shadovar pursuit of Oriphaun Huntsilver's Nether Scroll. They had set up their camp in caverns below the surface, and had a small teleporter of sorts to pass above and below.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Derivation cloak
+
+A derivation cloak was an enchanted cloak that radiated a healing aura if the wearer used poison against their foes.
+
+Powers
+The cloak's deadly derivation enchantment healed the wearer every time they dealt poison damage or simply poisoned a creature.
+
+History
+Sometime before the, the derivation cloak was created by a crazed alchemist who was attempting to find a way to sap youth from his victims through poisoning. The first attempts were done via magical formulae but the cloak proved to be much more reliable. With time, one such cloak ended up in the hands of the necromancer named Balthazar, who kept it in his workshop within the Moonrise Towers of Reithwin during the Absolute crisis.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Delmer's Ferry
+
+Delmer's Ferry was a Fire River crossing business located in the Shutters neighborhood of the Crow's End District of Ravens Bluff in the late 14 century DR.
+
+Location
+Delmer's Ferry office was located on the Fire River's southern bank, on the harbor-end of Deepaxe Way, north of the street crossing with Karen Court, and north of Ambra's Small Boats Rental & Harbor Rescue/Retrieval.
+
+Services
+Delmer's offered manned rowboats to cross the Fire River from the Shutters to Shadystreets, Lady Rock, along the banks, and only when the destination docks were agreed upon. The price for the service varied depending on the number of creatures and amount of cargo being transported, with the trips up and downstream being the most expensive.
+
+Inhabitants
+The business was run by Wamaer Delmer in the late 14 century DR. He employed a group of muscled warriors who could easily and quickly row away from any pursuers and could shield the client in times of danger. Wamaer's men were also popular among the ladies of means who sponsored the muscle men attending their evening revels. They regularly oiled their rippling muscles before every shift to attract the ladies' attention. When such invitations preoccupied the boys, Delmer's Ferry was closed with all the boats locked away inside. Despite Delmer's boys' evening proclivities, it was frowned upon taking boats and skiffs during the day on joy rides or to see lady-suitors on the side.
+
+Appendix
+See Also
+Interactive map of Ravens Bluff
+References
+
+---
+
+## Dead words manacle
+
+A dead words manacle was a type of magical manacle that aided with casting of the speak with dead spell.
+
+Powers
+The spirit of a creature that died while wearing a dead words manacle would be contained within the manacle as long as it was still attached to that creature's body. While the spirit was stored there, speak with dead spells cast targeting it would allow the caster to ask an additional question of the spirit.
+
+History
+Arak Logan, the leader of the Black Arrows group of the Keepers of the Celestian Order, carried a dead words manacle when he fought against the mutant beholder Omaranthax around 1479 DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deathsleep
+
+Deathsleep was a green dragon who made his home in the Neverwinter Wood on the Sword Coast North in the late 15 century DR.
+
+Description
+Deathsleep was mostly green with yellow eyes. He had golden-yellow scales on his belly. Deathsleep's wings were a mix of green and yellow.
+
+Personality
+Deathsleep was malicious and very aggressive against strangers frequenting the road near his lair.
+
+Activities
+He survived by robbing and killing travelers and traders who passed along a road not far from his lair.
+
+He was focused on destroying Neverwinter Wood and killing random passersby in order to gain sustenance and treasure.
+
+History
+After a streak of killings, robberies, and forest destruction, Deathsleep was probably killed by a party of adventurers consisting of an elf, human, dragonborn and dwarf who ventured into the Neverwinter Wood to stop his activities.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Derio
+
+Derio was a clergyman and low-ranking member of the Order of the Gauntlet from Port Nyanzaru in Chult in the late 15 century DR.
+
+Relationships
+Deiro worked under Alastar Bol.
+
+History
+During the events of the death curse around 1490 DR Viplo, a priest of Azuth who had been driven mad by a piece of a dreamer's amulet, captured Deiro and attempted to sacrifice him to the amulet.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Deric
+
+Deric, sometimes called Deric of the Ffolk, was a chieftain of the Ffolk people of the Moonshae Isles and the first King of Corwell in the mid–2 century DR.
+
+Relationships
+Deric was the son of the "First Mother", Gwynneth, and of her consort, Taylor, who led the first Talfiric settlers to the Moonshaes. Deric was the last in their line, which would come to be called the First Dynasty of the Moonshaes.
+
+History
+Five years after his father's death against the Llewyrr elves, Deric's successes in battle allowed him to unite the Ffolk in the south of the isle of Gwynneth. He formed them into the new Kingdom of Corwell in the .
+
+In the, King Deric and King Kaminas of Synnoria established a peace agreement between the Ffolk and the Llewyrr at the elven capital of Chysalis.
+
+Deric ruled for twenty-two years before he died of natural causes in the . He left no heir, and so Corwell descended into civil war until they were reunited by Callidyrr Hugh six years later.
+
+Appendix
+References
+
+---
+
+## Declan Cymrych
+
+Declan Cymrych was High King of the Moonshae Isles in the mid–8 century DR.
+
+Relationships
+He was a member of the Cymrych Dynasty and the son of his predecessor, High King Pendar. His successor was his son, Ciaran Cymrych. Ciaran's successor would be Declan's nephew, Ardan Cymrych.
+
+History
+Declan assumed the throne of the High King in the, following the death of his father.
+
+He ruled for thirteen years before being poisoned by his son Ciaran and dying in the .
+
+Appendix
+References
+
+---
+
+## Deathwyrm cloak
+
+Deathwyrm cloaks were a type of magical cloak used by the Cult of the Dragon in the late 15 century DR.
+
+Description
+The cloak was long, black, and scaly.
+
+Powers
+The deathwyrm cloaks offered some protection from raw magical force damage, but mainly improved the power of the wearer's negative energy spells and increased the effect of negative energy upon themselves, making them useful for those that regenerated with negative energy like the undead and pale master necromancers.
+
+History
+The Cult of the Dragon forces that followed Aurgloroasa in Thunderholme used a number of these cloaks in the 1480s DR.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Delver's Folly
+
+Delver's Folly was a workshop in the Central Trade Lanes of Skullport in the late 14 century DR.
+
+Structure
+Delver's Folly was a one-story building of wood and plaster in fair condition.
+
+Description
+Delver's Folly was operated by a team of skilled engineers, all of whom were accomplished rogues. Delver's Folly offered a wide array of traps designed to meet diverse security needs. From concealed pits and flaming oil jets to intricate, self-rearming scythe blades, Delver’s Folly provided solutions for individuals seeking reliable protection in the treacherous environment of Skullport.
+
+The quality of their craftsmanship was exceptional, but their services did not come cheap. Unique and complex mechanisms commanded prices exceeding 5,000 gold pieces.
+
+Leading the operation was Lystand the Pick, a human thief and former adventurer from Waterdeep. With her background in designing and bypassing intricate security systems, Lystand specialized in crafting traps that were as lethal as they are difficult to disarm. Her poison gas and dart traps, in particular, were infamous for their complexity.
+
+Appendix
+References
+
+---
+
+## Deaders Market
+
+Deaders Market was a small marketplace in the Shadowfell city of Evernight.
+
+Location
+It was located just outside of Evernight's Thayan Enclave.
+
+Services
+The market comprised a handful of undead merchants' stalls and was known for selling fresh flesh as well as a ghoulish alcoholic concoction that was said to sometimes cause fatal hallucinations in mortal imbibers. Despite the risks and the horrid taste, adventurous mortals were known to seek it out.
+
+Appendix
+See Also
+ Corpse Market
+Appearances
+
+References
+
+---
+
+## Delethir Mistveil
+
+Delethir Mistveil was a healer who worked at the Eveningstar War Hospital during the late 15 century DR.
+
+Description
+Delethir had light skin and short black hair.
+
+History
+
+During the Sschindylryn invasion of Eveningstar, Delethir worked at the Eveningstar War Hospital. One night, the hospital was put into a state of shock by the murder of the head priest Hurim Jaskyr, killed in his own bed. Because of the ongoing war there was no one available to help with the investigation until the next night, when Delethir sent a team of adventurers into the hospital to look about. As it turned out, a number of patients had been infected with lycanthropy and were involuntarily transforming, putting the whole hospital at risk.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Dela Nereth
+
+Dela Nereth was a black marker merchant and a taskmaster of the Bloodsailors gang of the Docks District of Neverwinter in the late 14 century DR.
+
+Description
+Dela was a pale-skinned young half-elven woman with blonde hair and a stern demeanor, wrapped in black leather armor with an enchanted rapier at her side at all times.
+
+History
+Dela Nereth joined the Bloodsailors sometime before the . She and her gang survived the strife of that year: the plague of the Wailing Death that ravaged Neverwinter and the crumbling economy after the war between Luskan and Neverwinter. The war brought a short occupation of Neverwinter, and with the occupation, many valuable items began popping up on the market: magic equipment, family heirlooms, and valuables brought to Neverwinter by Luskanites. Dela acquired many such spoils of war and resold them to the friends of Bloodsailors. Later that year, Bloodsailors found themselves in a gang war against the Blackriver Bandits. A sailor adventurer known as Eater-of-Garm had to pick a side in the gang war and either stand against Bloodsailors, slaughtering the gang's leaders or doing the same for the Blackriver Bandits. Were the adventurer to oppose the Bloodsailors, Dela would lure Eater-of-Garm to her shop in the Seedy Tarven and attempt to assassinate them. Were the adventurer to set off against the Blackriver Bandits, Dela would offer her black market goods to the adventurers to aid them in the war.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Devotee's mace
+
+A Devotee's Mace was a powerful and exceedingly rare bludgeoning weapon used by celestials and mortals alike.
+
+Description
+Devotee's maces seemed to be made of some metallic substance similar to gold in color. They also glowed with a yellow-orange light.
+
+Powers
+In addition to being powerful bludgeoning tools, these +3 maces were able to burn targets with radiant energy on successful hits. Wielders of these weapons were able to quickly summon an aura of healing incense around themselves, which healed them and nearby allies in a 30-foot (9 meters) radius for around a minute. A seemingly magical glow surrounded these weapons.
+
+History
+The process of creating a devotee's mace is mostly unknown. Circa the Year of Three Ships Sailing, 1492 DR, some deities were known to answer calls for help from their more powerful clerics by offering them these weapons as an act of divine intervention. The weapon that appeared in a cleric's hand as the result of such an intervention was said to be forged in the fires of the holy bond between the worshiper and their deity. While healing and radiant energy were associated mostly with good deities, these weapons could be rewarded by gods of evil alignments. Devotee's maces were favored by devas.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Deikhou
+
+Deikhou was a town in Laothan in Malatra, lying on the coast of the Eastern Sea.
+
+Economy
+The people here manufactured ceramic goods, including pottery and tiles, which were traded across Laothan in the mid–14 century DR.
+
+The town was also home to small school of magic that trained wu jen under its master, Hueng.
+
+History
+In 1356 DR, a Kuong temple sohei tried to assassinate Hueng. The attempt failed and the assassin died.
+
+Appendix
+References
+
+---
+
+## Dead box
+
+A dead box was a container that prevented the properties of the contents from being detected by any normal or magical means.
+
+Description
+These boxes could be of any size (ranging from tiny coffers to entire rooms), but the sides of the dead box had to be made of solid slabs of atharstone. This made them both very durable and very, very heavy for their size. The sides were further sealed with a mixture of natural rubber and gorgon blood.
+
+Powers
+A dead box negated any and all efforts to detect the presence of magic, aura, alignment, temperature, etc. coming from inside the box. For this power to function properly, the box had to be airtight shut.
+
+As in mortar, the use of gorgon blood in the construction process likely helped block scrying and certain eavesdropping spells. It might also mean that the walls could be warded against astral and ethereal travel.
+
+History
+It was said that the name "dead box" originated both as a reference to the item's magic-deadening properties as well as a promise of what might happen to anyone foolish enough to hide inside of one to escape detection.
+
+Notable Owners
+ The Droon, a clan of spelljamming kobolds, kept a stash of food and water as well as a minor helm in a dead box at Greenshield near Realmspace.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Desha
+
+Desha of the Shadows was an elven hunter operating out of Port Nyanzaru in Chult during the late 15 century DR.
+
+Activities
+Desha's favored prey were jungle beasts, particularly smilodons although he also sought to cull a population of undead sun bears within the jungle.
+
+He traded bait and lures to hunters who impressed him.
+
+Relationships
+Desha was a member of the Hunters' Guild of Chult, who congregated at Hunter's Square in Port Nyanzaru.
+
+When Volothamp Geddarm visited the city in the late 15 century DR, he became acquainted with Desha of the Shadows.
+
+History
+During the time of the death curse, Desha was interested in helping other hunters to pursue a number of famous beasts, such as the giant spider Arachne, a massive ape known as Gigantopithecus, and the great white cat known as Baccho. He also sought to hunt down Polaris, a giant polar bear who had served as a mount for a frost giant in the jungle.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Dethrone
+
+Dethrone was a powerful and extremely rare arcane necromancy spell from the 5 circle of magic, possibly authored by Karsus, the Momentary God before the Fall of Netheril.
+
+Effects
+When the spell's words were uttered, a powerful magical force was unleash upon a single creature, shredding its very essence by pulling on the strands of the Weave. It resulted in a great amount of necrotic damage, however, the caster mage could only use the spell once per day and the spell was not empowered if the caster was powerful and experienced beyond the ability to cast magics of the 5 circle.
+
+History
+Two copies of the dethrone spell were stored deep within the magically sealed, trapped, and protected vaults of Ramazith's tower in the . The tower's master, Lorroakan, kept them in the vault marked by the name of "Karsus", alongside other powerful enchanted items, including The Annals of Karsus – the book that detailed the Regalia of Karsus, a collection of powerful Netherese artifacts.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Delvar Ironfist
+
+Delvar Ironfist was an adventuring dwarf fighter in the mid-late 14 century DR.
+
+Description
+Delvar was young-looking, with a full, brown beard.
+
+Possessions
+Of note, he was armed with a battle axe.
+
+Activities
+He was an adventurer. He sometimes still drank with his friend Gart.
+
+Relationships
+Delvar was a friend of Gart Stonenose, whom he used to adventure with.
+
+The adventuring party he was a part of in Freedale included him alongside Beldar, Silverleaf Halfmoon, Morganth, Slinker, and Lordan.
+
+History
+Prior to Gart settling in, he and Delvar used to adventure together.
+
+In the mid-to-late 14 century DR, Delvar Ironfist was part of an adventuring group in Freedale that may have rescued Taran Goldenstar, recovered the Orb of dragonkind, faced Gunter Weiss in Harrow Hill, and perhaps explored Azazabus' dungeon under Mount Dread.
+
+Appendix
+Background
+Delvar Ironfist is one of the sample adventurers provided for play with Introduction to Advanced Dungeons & Dragons. An identical sheet was introduced in First Quest. In both sheets, the cover art from The Crystal Shard is reused to illustrate Beldar himself; inside the book itself, the illustrations for Quest are drawn by Jeff Butler, and by Walter Velez in Introduction.
+
+Notes
+
+References
+
+---
+
+## Dekirh Fasthands
+
+Dekirh Fasthands was a jester-bard who performed in the rowdiest taverns across the Sword Coast some years before the mid-14 century DR.
+
+History
+When Dekirh insisted on doing his shows across the worst of the taverns of the Sword Coast, his friends gifted him with a set of enchanted chainmail, in hopes that the armor would protect him from the things patrons threw at Dekirh: rotten produce and knives. To wear Jester's Chain on stage, Dekirh Fasthands painted the chainmail in bright jesterly colors of reds, blues, and golds. Dekirh's final fate remained unrecorded, however, Jester's Chain eventually left his posession, ending up in Athkatla in Amn in the, and later, in Thay.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deval
+
+Deval was a guard in Freedale during the mid-to-late 14 century DR.
+
+Possessions
+Deval was armored in chain mail and wielded a short sword.
+
+Activities
+He guarded the entrance to the Tower of the High Wizard Netheril.
+
+Relationships
+He worked for Netheril, a local wizard, alongside his fellow Fortu.
+
+History
+During the mid-to-late 14 century DR, Deval guarded the tower at around the same time that Taran Goldenstar was kidnapped.
+
+Appendix
+References
+
+---
+
+## Deep demise
+
+Deep demise was a powerful and malevolent dagger provided by the demon lord Graz'zt when he visited the mines of Tethyamar in the late 15 century DR.
+
+Description
+The dagger was a jagged chunk of gleaming razor-sharp crystal or stone melded with a handle. It reflected the face of its wielder in its surface, though the reflection always wore a wide unsettling grin.
+
+Powers
+While an exceptionally deadly implement in its own right, its true power was in the hands of a spellcaster. It sharpened the mind and greatly improved illusion spells that the wielder cast.
+
+History
+Deep demise was left behind by Graz'zt after his schemes with the jewels of ardor in the ruins of Tethyamar were uncovered by the dwarves of the Tethyamar Mining Outpost. He intentionally left the blade as a prize for his foes when they "defeated" him, before he departed for parts unknown.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Dela's rapier
+
+Dela's rapier was a unique blade that once belonged to Dela Nereth, a black marker merchant and a taskmaster of the Bloodsailors gang of the Docks District of Neverwinter in the late 14 century DR.
+
+Powers
+Dela's rapier posessed a +2 enchantment that made the weapon deadlier and guided the wielder's hand towards the target. Additionally, every now and then, lucky or impeccably-aimed strikes resulted in devastating damage.
+
+History
+Dela's rapier was in the hands of Dela Nereth in the, in the months that followed the Wailing Death epidemic. She used the blade to protect herself and to skewer the enemies of the Bloodsailors – the Blackriver Bandits. She did business with the sailor-adventurer known as Eater-of-Garm during that time. Were the adventurer to oppose the Bloodsailors, Dela would lure Eater-of-Garm to her shop in the Seedy Tarven and attempt to assassinate them with her magi rapier, and subsequently be defeated. Were the adventurer to set off against the Blackriver Bandits, Dela would offer her black market goods to the adventurers to aid them in the war.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deep arcanum
+
+Deep arcanum was a set of magical robes used by the drow during the 1480s DR.
+
+Description
+In extravagant drow fashion, these robes were actually a set of detached parts that artfully covered most of the body except for the midriff.
+
+Powers
+Deep arcanum provided wide-ranging protection against physical and magical threats, and improved the power of the wearer's spellcasting.
+
+History
+The outfit was made and used by the drow of House Argith in Tethyamar to protect their spellcasters from the hazards of the Underdark, and was later found in Mineshaft 214S.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Deathstar
+
+Deathstar was a hobgoblin member of the Lostafinga tribe. He served under Lieutenant Julla and occupied a castle in the southern end of Kryptgarden Forest on the Sword Coast North in the mid-to-late 14 century DR. While the other hobgoblins slept, he played a game involving sticks, bones, and stones with Lucky and Jurmane. Deathstar was proficient with the halberd and morning star.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Death of a Sailorman
+
+Death of a Sailorman was a history book in three volumes that recorded the fall of Bloodsailer Trener B. Darven, scourge of the Sword Coast, penned some time before the late 14 century DR.
+
+Contents
+Trener B. Darven was a famous and rather infamous swashbuckler and blackguard Trener B. Darven, whose cruel tale was grossly glorified and romanticized in songs and books. The books recorded the long late of the swashbuckler's fall. Volume I began by talking about two main ends that came to sea dogs of Faerûn: the first and the preferable one was the death of old age, the other – drowning in Umberlee's salty domain or in an endless flow of mead, ale, and rum. Many glorified retellings of Trener's death portrayed it as noble: defending his crew from the Luskan Navy or in the arms of his one true love. However, the number of these true loves in different stories was as wide as the fictionalized wild and unbelievable stories of his death.
+
+Volume II focused on the story of Trener B. Darven's life as it was important to understand it to truly process how he perished. One should disregard grandiose, flowery, bardic tales and focus on the true, harsh facts. It was recorded that in the modern history of Faerûn, no other sea dog caused as much death and as much property damage as Trener. Many tales praised Trener's greatest deed – when the Sable Crow, Trener's ship, sank the Luskan Pride. The Luskan ship carried a year's amount of taxes when it was attacked. Despite his best attempts, the pirate only managed to steal 10,000 gp of Luskanites' money, with most of it sinking into the Trackless Sea. Darven's attack directly led to Luskan's deep recession, costing it half of its army, many of the smaller surrounding settlements starved to death without Luskan's support, and it led to the doubling of taxes for the following decade. This draconian taxation cost the city its many businesses and drove many of its citizens into homelessness. To add insult to injury, bardic tales claimed that Darven gave every coin of pilfered 10,000 gold pieces to the poor and needy, yet the truth could not be further from fiction. Darven used the coin to build a sister ship – the Crimson Hawk and gifted it to his lover, Lariat Quist. With two ships, the infamous swashbuckler targeted Luskan once again, trying to bring its commerce to ruin and, later, planning on raiding merchant ships of Neverwinter. However, the pirate's downfall came from the only person he's ever shown kindness to.
+
+And this is where Volume III continued on into the final part of the pirate's tale. Drunk with successes, Darven sought an even greater target. In bed with him, Lariat, the consort, whispered into the pirate's ear that he should target the Gilded Sovereign Luskan's grand flagship. Both ships sailed boldly into the raid. The Sable Crow sailed first, against the sunset, approaching the Sovereign unnoticed. But instead of Sable Crow, sounds of attack came from the Crimson Hawk. Lariat's fire was a betrayal. She alerted Luskan's flagship and, even more so, ordered a handful of loyal men to board the Sable Crow. As the battle raged, the Sable crew had no chance, and all, including Trener B. Darven, were ready to die by drowning in Umberlee's caress. Lastly, that was not the death that waited for him. Lariat Quist backstabbed her consort, piercing his heart with the very same jeweled dagger he gifted her as a sign of eternal love.
+
+History
+As of the, a copy of all three tomes of Death of a Sailorman was kept in the Neverwinter Archives of Neverwinter on the Sword Coast.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2
+
+References
+
+---
+
+## Delsart's Drive
+
+Delsart's Drive was the name given to a cobbled lane in Scornubel in the 14 century DR.
+
+History
+Per Dove Falconhand in the, Delsart's drive was named after a wagonmaker who liked to get drunk and race his creations up and down the street, which had eventually been the death of him. His descendants owned a coach yard on that same street.
+
+She went through that street when looking for the trader Sarltan during her investigation of a drow infiltration on that year.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deadblast bone
+
+A deadblast bone was a magic item with the power to stun the undead.
+
+Description
+Deadblast bones were powerful trinkets of rune-scarred bone.
+
+Powers
+The item could be invoked to attack the minds of all undead creatures within  of the wielder, rendering them unable to move for a short period (or until disturbed or struck).
+
+History
+A deadblast bone was said to be kept in a secret compartment in the back of the throne of Zhengyi the Witch-King in Castle Perilous, alongside other treasures. It remained there for over a century after Zhengyi's defeat at the hands of Gareth Dragonsbane.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Death mantle
+
+The Death mantle was a psionic mantle that granted ardents and divine minds an array of psionics powers and abilities derived from the universal concept of death, all themed around negative energy and the undead.
+
+Deities
+
+Abilities
+Those who followed the death mantle gained the unique psionic power to expend a psionic focus to expel an effect similar to the psionic death knell power.
+
+The psychic aura exuded by divine minds of the death mantle granted an effect similar to the death watch spell, allowing the manifester and their nearby allies to determine the condition of creatures near death.
+
+Powers
+Novice manifesters could detect the auras of undead and negative energy effects with stygian discernment and shooting a debilitating stygian ray. Manifesters of some experience could psionically communicate with the dead and implant self-destructive compulsions with death urge.  As a manifester progressed further they could stop a living heart with crisis of life and take control of the undead with stygian dominion. Masters of this mantle obtained the destructive power recall death and take on the traits of undead with stygian veil.
+
+Appendix
+See Also
+ Death domain
+References
+
+Connections
+
+---
+
+## Deception mantle
+
+The Deception mantle was a psionic mantle that granted ardents and divine minds an array of psionics powers and abilities derived from the universal concept or philosophy of deception.
+
+Deities
+
+Abilities
+Those who followed the death mantle gained the unique psionic power to expend a psionic focus to materially displace their bodies, making the manifester much harder to hit.
+
+The psychic aura exuded by divine minds of the deception mantle made the manifester and their nearby allies more skilled at bluffing and deceiving their enemies during a conflict.
+
+Powers
+Novice manifesters could manipulate the minds of foes in their favor with cloud mind and psionic charm, as well as make themselves more hidden with concealing amorpha. Manifesters of some experience gained the power to escape detection and deceive another creature's senses with false sensory input. As a manifester progressed further they could erase knowledge from large crowds with mass cloud mind. Masters of this mantle obtained power bend reality, allowing them to alter reality with their mind.
+
+Appendix
+See Also
+ Trickery domain
+References
+
+Connections
+
+---
+
+## Destruction mantle
+
+The Destruction mantle was a psionic mantle that granted ardents and divine minds an array of psionic powers and abilities derived from the universal concept of destruction.
+
+Deities
+
+Abilities
+Those who followed the Destruction mantle became more in tuned with the concept, allowing them to destroy objects with greater ease while psionically focused.In mechanical terms, the Destruction mantle granted "...the Improved Sunder feat as long as you are psionically focused." Additionally, by expending a psionic focus the manifester could channel their ties to the concept into a devastating strike, allowing them to tear through a tower shield as though it were glass.In mechanical terms, expending a psionic focus made an object's hardness rating be treated as 4 less. For the objects chosen in this example, in 3.5 edition Dungeons & Dragons a tower shield had a hardness rating of 5 and glass a rating of 1.
+
+Divine minds of the Destruction mantle exuded a psychic aura that made them and any allies within the radius of their aura strike with greater sundering force, allowing them to more easily destroy objects. Under this effect one could, for example, smash mithral as though it was stone or chop through wood as though it were leather.In mechanical terms, the psychic aura granted by the Destruction mantle made the "hardness rating" of an object be treated as half its normal value when making an attempt to sunder it. It is also assumed to be rounded down, as the example given in the book is of a wooden object going from hardness 5 to 2. For the objects chosen in this example, in 3.5 edition Dungeons & Dragons mithral had a hardness rating of 15, stone a rating of 8, wood a rating of 5, and leather a rating of 2.
+
+Powers
+Novice manifesters obtained dissipating touch and dissolving touch, destructive powers requiring close contact, and the power to destroy weapons with dissolving weapon. Manifesters of some experience gained dispel psionics, allowing them to disrupt the manifestation of psionic powers and effects. As a manifester progressed further they learned how to destroy both objects and creatures from a distance with psionic disintegrate and ultrablast. Masters of this mantle obtained intellect bomb, allowing them to fry a target's brain with a barrage of destructive mental power.
+
+Appendix
+See Also
+ Destruction domain
+Notes
+
+References
+
+Connections
+
+---
+
+## Dementia
+
+Dementia, also known as senility, was a broad condition that involved a general degradation of mental faculties.
+
+Effects
+
+Dementia brought about a pervasive forgetfulness and a loss of cognitive function, often growing worse with time.
+
+Treatment
+ Salve of senile serenity temporarily treated the symptoms of dementia.
+ The estate of Thornthar in Cormyr was a home and hospice for elderly servants of the Crown, many of which had dementia.
+
+Notable Affected
+ Brains in jars were particularly vulnerable to mental illness, including paranoia, dementia, and schizophrenia.
+ Adzerak the lich developed powerful dementia after his faulty ascension ritual, trapping himself aimlessly in his own lair.
+ Bemban, a mage from Immersea.
+ Carrague, a building inspector in Ravens Bluff, who suffered from growing senility.
+ Craum Straug, a old senile red dragon.
+ Daisake Mayazato, a wu jen who became senile in old age.
+ Dulf Ebonbeard, an elder wizard of great power and rare lucidity due to his senility.
+ Erlindir, a senile druid.
+ Gordroun Palonder, the Gardener Royal of Cormyr.
+ Mhartuk, Overking of Lapaliiya, became senile in his old age.
+ Mhedarlakh Stormserpent, head of House Stormserpent, served as the senile figurehead of the family.
+ Shalmaneser the lich developed a kind of senility in his long undeath.
+ Targuth Athkarr, Iron Lord of Rashemen, retired from rule after falling to senility.
+ Tharmakkas IV, king of Murghôm, was senile late in his reign.
+ Urda Malo, a baker of Eveningstar who retired due to advancing dementia.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deck of illusions
+
+A deck of illusions was an assortment of magical parchment cards arranged in a set deck. They were enchanted with great illusion magic.
+
+Description
+A set usually came in an ivory, leather, or wooden box, and oftentimes missed a couple of cards. A full deck was 34 cards and drawing one at random and casting it out in front of oneself triggered the powers of the deck.
+
+Powers
+Each card from a deck of illusions created a specific illusory creature that acted as if it were real until either dispelled, slain, or the card was picked up by the caster.
+
+Effects
+ Ace of hearts: Red dragon
+ King of hearts: Knight and four guards
+ Queen of hearts: Succubus or incubus
+ jack of hearts: Druid
+ Ten of hearts: Cloud giant
+ Nine of hearts: Ettin
+ Eight of hearts: Bugbear
+ Two of hearts: Goblin
+ Ace of diamonds: Beholder
+ King of diamonds: Archmage and mage apprentice
+ Queen of diamonds: Night hag
+ Jack of diamonds: Assassin
+ Ten of diamonds: Fire giant
+ Nine of diamonds: Ogre mage
+ Eight of diamonds: Gnoll
+ Two of diamonds: Kobold
+ Ace of spades: Lich
+ King of spades: Priest and two acolytes
+ Queen of spades: Medusa
+ jack of spades: Veteran
+ Ten of spades: Frost giant
+ Nine of spades: Troll
+ Eight of spades: Hobgoblin
+ Two of spades: Goblin
+ Ace of clubs: Iron golem
+ King of clubs: Bandit captain and three bandits
+ Queen of clubs: Erinyes
+ Jack of clubs: Berserker
+ Ten of clubs: Hill Giant
+ Nine of clubs: Ogre
+ Eight of clubs: Orc
+ Two of clubs: Kobold
+ Jokers (2): the deck's owner
+
+Notable Owners
+ Minn, a forest gnome wizard.
+ Pendleton Merryweather, a well-traveled rogue and "Viscount of the People of Kathyr" carried a deck.
+ Relvan Gaewilder, a gnome toysmith, who carried his deck of illusions with him at all times.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Death dog malady
+
+The death dog malady was a potentially fatal rotting disease spread by the bite of death dogs.
+
+Acquisition
+The disease was spread through death dog saliva, and these beasts were known to bite other creatures and potential prey in hopes of infecting them.
+
+Effects
+Bitten individuals developed symptoms within a day but were at risk of instantly feeling early effects of the disease, which resembled the weakening effects of a poison. Initial symptoms also included swelling of the eyes and throat as well as yellowing of the skin.
+
+Each day that the disease persisted, the infected individual's flesh would begin to rot and fall off their bones, causing their bodies and strength to decline rapidly. Sufferers could not recover from these injuries naturally until the disease was cured.
+
+In addition, sufferers of the disease could manifest other disturbing symptoms, which ranged from cosmetic changes to their skin such as new bite marks or evil symbols suddenly appearing; to psychological hallucinations including hearing howls and whispers or feeling itchy as if they had sand or fleas under their skin; and to physical changes to their bodies such as taking on the appearance of extreme dehydration or of a decaying corpse.
+
+Unchecked, the disease caused a slow and painful death, usually within 4 to 24 days.
+
+Treatment
+While it was possible to fight off the disease naturally, it was highly recommended to seek magical healing, such as the cure disease spell.
+
+Rumors & Legends
+The disturbing symptoms of the disease led some to believe that death dogs had connections to gods of death, legendary cursed rulers, or the underworld.
+
+Appendix
+References
+
+---
+
+## Dead Man's Face
+
+Dead Man's Face was one of the once-common enchanted helmets worn by the people that would come to be known as the Reghedmen of Icewind Dale.
+
+Description
+Dead Man's Face was a helmet of iron with a simple design: a plain helmet with a hinged faceplate. Once forged and constructed, each of the Dead Man's Faces was engraved with an image of a dead warrior's face on the face-covering. Each face belonged to a specific Reghedman, and the image was accompanied by an engraving of the warrior's name and a single word that described their death, front and center on the mask's forehead. Once completed, the helmet was left in the dead warrior's funeral pyre. A month later, Dead Man's Faces of the most valiant warriors were recovered from the ashes by the priests of Tempos and praised in their daily religious rituals.
+
+Powers
+This custom was believed to mask the dead warrior's fear of death when being judged by Tempos upon entering the afterlife. Another belief stated that the Dead Man's Faces of the most valiant warriors in Tempos's judgement would make the wearer immune to fear. Whether or not this was true, a Dead Man's Face had a protective +1 enchantment and protected the wearer from damage dealt through lucky strikes and rendered them immune to such magics as horror and cloak of fear. However, its grim appearance hampered the wearer's presence, charm, and charisma.
+
+History
+One Dead Man's Face, which bore the name "Siglef" and the word "Axe," was found in the treasure hoard of marilith Yxunomei in the . The helmet was in the fiend's lair within Dragon's Eye on the Spine of the World in northwest Faerûn.
+
+In the, "Siglef's" helmet ended up in the hands of bandits who targeted dwarvish merchants who lugged their goods from Kelvin's Cairn to the Ten-Towns. The gang operated out of the Fallen Crags.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Death Shroud of Bankao
+
+The Death Shroud of Bankao was an enchanted cloak made out of a burial shroud of a mysterious Kara-Turan warlord some years before the early 14 century DR.
+
+Description
+The cloak was made out of coarse black fabric. By the 14 century DR, it lost some of its color, becoming coal gray.
+
+Powers
+The Death Shroud of Bankao greatly steeled the wearer's constitution. It also gave them the ability to cast the ghoul touch and bull's strength spells once per day each. It also made the wearer immune to the skull trap and glyph of warding spells.
+
+History
+Even though not much was known about the origin of the Shroud of Bankao, sages believed that it was once a burial shroud. Over the years, the Death Shroud of Bankao was worn by some of the worst among the criminals and murderers across the Sword Coast.
+
+Before the, its last known wearer was an extortionist from Waterdeep, Polger Carallo. He made a living by shaking down the inhabitants of the poor districts of Waterdeep. But when a cleric of Bane declared Carallo owed his church a tribute for the financial success of this illicit operation, the extortionist refused to pay and was killed by the cleric's morningstar.
+
+Later, the Death Shroud of Bankao ended up in the hands of a minotaur shaman from the Underdark below Icewind Dale, who worked for Grimbold Tornhelm in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Death's Deferral
+
+Death's Deferral was a pair of boots found in Myth Drannor during the late 14 century DR.
+
+Powers
+The boots gave assistance in landing blows in combat, but their most notable power was that of keeping the wearer alive despite being incapacitated by grievous wounds.
+
+History
+The boots were found when the Elves of Cormanthor attacked a Cult of the Dragon base in the ruins of Myth Drannor, where the Red Wizards of Thay were attempting to subvert the dracolich Karliath.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Delyarna
+
+Delyarna a wealthy citizen of Baldur's Gate in the late 15 century DR.
+
+Description
+Pompton was a high elven woman with a pale skin tone, light blue yes, and blonde hair braided and gathered in a bun. She a quality jerkin.
+
+History
+In the, Delyarna and her neighbor, Pompton Norvath, lived in the Lower City, strolling the streets near a shady part of the town with abandoned buildings where the notorious Guild had one of their Guildhall entrances guarded by the gang's thugs and snipers. Delyarna wished that area was more secure via steel watcher patrols and lamented the buildings being abandoned by people fleeing the incoming armies of The Absolute.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Delsaran
+
+Delsaran was a Mystra-worshiping elf of the High Forest in the 3 century DR.
+
+Personality
+Delsaran showed himself to be watchful, irritable, and wry.
+
+Abilities
+He was able to shape trees.
+
+Activities
+Delsaran was known to watch over the High Forest for fires, together with fellow elf Baerithryn.
+
+History
+Delsaran's parents were slain and his home woods were destroyed by humans, at some point in or before the early 3 century DR.
+
+In the, Delsaran was together with Baerithryn, shaping trees in the High Forest, when he became aware of a fire somewhere in the forest. Their monitoring showed the fire-setter to be a human woman. Baerithryn warned him that the fire was a small one, and not to do anything rash. They then received a sign from Mystra that she was someone earlier foretold; Delsaran agreed he'd keep his distance.
+
+The fire-setter was Elmara, actually Prince Elminster Aumar of Athalantar transformed into a woman. Delsaran later formed part of the forces storming Athalantar under his leadership, and had been introduced to the thief Farl at some point before he caught his wife and fellow thief Tassabra, who had fainted upon seeing of Baerithryn turning into a silver dragon.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Desert rose
+
+Desert rose was a type of flowering plant found in Faerûn. It grew only in isolated desert oases.
+
+Description
+It had yellow flowers.
+
+Usage
+The flower assists in maintaining arcane and divine powers.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Deathball
+
+Deathball was a dangerous gladiatorial team sport played in parts of Faerun where slavery was legal.It is never specified in the article where exactly deathball is played in the Realms. Laemos was initially put into the sport after being sold into slavery and later remarks that many of his teammates were "owned by some local lord or debutante". It is also stated that Laemos played in "arenas throughout the Forgotten Realms".
+
+Description
+This game was typically played in an arena between two teams of varied species, even featuring monstrous humanoids such as centaurs, ettins, and half-ogres. Teams were even allowed to field magic-users. Most competitors were slaves owned by some noble.
+
+The aim of the game was for a team to advance down their enemy's side of the field by running with or throwing the eponymous 'deathball', while defense, the team without possession of the ball, aimed to stop their advance and take control of the ball for themselves. By shouting the word "Hut!" and a number, the offensive team's leader instructed his players to change up their strategy. The defending team were seemingly allowed great leeway in how to handle the opposing team, from use of daggers and poisoned claws to casting fireball.
+
+Notable Players
+ Laemos, a half-ogre player who competed in deathball for over twenty years, long after having earned his freedom. He was hailed as one of the most vicious, if not possibly the best, deathball players in all of the Realms in the 14 century DR. With his success, he commissioned several magic items to assist in his playing, such as boots of speed with cleats, a helm of headlong assaults, and a jersey of warmth.
+
+Appendix
+See Also
+ Goreball
+
+Background
+Based on the details provided in the cited article's recount of one of Laemos's deathball matches, such as the use of the vernacular "Hut!" before play, it can be postulated that deathball is inspired by American football or perhaps even the game Blood Bowl.
+
+Notes
+
+References
+
+---
+
+## Deific vengeance
+
+Deific vengeance was a divine conjuration spell that attacked a target with judgmental goodly energies.
+
+Effects
+Upon casting, deific vengeance struck the target with a singular strong blow from beyond as the priest's deity performed a brief intervention. The effect was greatly magnified if the victim was undead.
+
+Components
+The spell required verbal and somatic components to cast, specifically involving the caster declaring the target's crimes and asking their deity to punish them.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Death's Handmaiden
+
+Death's Handmaiden were a variety of large scythes created by the fanatics of the New Darkness, the deity Iyachtu Xvim for the single purpose of murder, sometime in the mid-14 century DR.
+
+Powers
+A Death's Handmaiden scythe was a large two-handed scythe with awesome power, a terrifying instrument of death. These scythes were meant to show the deity and his followers' disdain for other gods, especially those who held the domain over murder and death, whom Xvim thought to be unworthy as they were former mortals. A Death's Handmaiden made Xvim's followers ensure that no living being was beyond the deity's touch of his fury.
+
+Each of these scythes bore a powerful +4 enchantment weaved into its keen blades, which made the damage dealt more deadly and guided the wielder's hand toward the target. The weapons were also enchanted to possess a vampiric regeneration that gradually healed the wielder from the enemy blood spilled in battle.
+
+History
+These weapons were created by the Church of Iyachtu Xvim relatively shortly before the god was transformed and was used for the rebirth of his father, the deity of tyranny, Bane. Some of these scythes found a way into the hands of the inhabitants of Shadow Mulsantir, a dark reflection of the Rashemen city of Mulsantir in the Shadowfell.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Deucala
+
+Deucala was a werewolf from Moray in the Moonshae Isles during the mid-to-late 15 century DR. She was the matriarch of the lycanthropes of the Black Blood tribe along the northern coast of the island.
+
+Relationships
+Her offspring included daughters Bay and Lightfoot as well as son Coal. Deucala and her children were all given these names by her adopted daughter, the half-leShay Amaranth.
+
+History
+In the late 1460s DR, Deucala found a nine-year-old Amaranth, who was injured and starving after falling from the back of a hippogriff as it fled the nearby island of Gwynneth. Deucala raised her, but she quickly became the de facto leader of the lycanthropes at Caer Moray, where her followers (including her adoptive siblings) were fiercely protective of her.
+
+Deucala passed away sometime prior to the revival of the god Malar in the late 1470s DR.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Desert Wind (scimitar)
+
+Desert Wind was a variety of enchanted scimitar created on the Sword Coast North in the late 14 century DR, with the original being rumored to originate from the genies of Calimshan.
+
+Powers
+There existed three variants of Desert Winds, each possessing +1, +2, or +8 enchantments that made the edge deadlier and guided the wielder's hand towards the target. All three versions were capable of dealing additional damage with magical fire with each slash.
+
+Creation
+A Desert Wind scimitar could be created from an enchanted scimitar and a slab of adamantite.
+
+History
+The origin of the original Desert Wind was disputed but many sages attributed its creation to the genies of Calimshan who managed to capture the desert heat within the blade. There existed accounts of the weapon being used to land a single cut, leaving opponents to surrender after tasting the blistering heat of the desert.
+
+More common versions of Desert Winds with a simpler +1 enchantment were forged by Master Blacksmith Marrok of the Shining Knight Arms and Armor shop in Neverwinter to help the heroes who sought the cure for the dreaded Wailing Death in the . Later the same year, more powerful versions were created by Master Blacksmith Barun of Beorunna's Well to help the forces of Neverwinter stand against Lady Aribeth the Betrayer, who led a marching army of Luskan in the deadly but short-lived Neverwinter–Luskan war.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## De La Sunya
+
+House de La Sunya was an Amnian noble house of Athkatla in the 14 century DR.
+
+Activities
+The de La Sunya's were predominantly Helmites and maintained close relations with the Church of Helm.
+
+History
+One of House de La Sunya's shameful secrets was that of patriarch Don Di'Armos's affair with a woman during a particularly long and lonesome expedition. Unbeknownst to him at the time, this woman was a demon, and their tryst led to the birth of a tiefling child in far off Damara. When the woman later came to Don Di'Armos and revealed herself for who she truly was he slayed her, but he could not bring himself to do the same to their child. He left his daughter in the care of the monks of the Monastery of the Yellow Rose and kept this family secret up until his deathbed, sometime around the . The revelation of this sordid episode in his father's life shook Sirge de La Sunya to his core so fundamentally, throwing into question all that he knew, that the boy denounced his house and fled from Athkatla, determined to find his sister.
+
+Members
+ Don Di'Armos de La Sunya, one of the patriarchs of the house.
+ Naleen, the bastard tiefling daughter of Don Di'Armos and an unknown demon.
+ Sirge de La Sunya, an adventuring paladin.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Deep Glen
+
+Deep Glen was a village in the King's Forest of Cormyr that was destroyed during the Sschindylryn invasion of Eveningstar in the late 15 century DR.
+
+Geography
+The village was deep in the King's Forest southwest of Eveningstar, connected by trails to the wider realm. It was adjacent to the Deep Glen Graveyard, where the local dead were interred.
+
+History
+When Hekta Szind set the forces of Sschindylryn to war upon Cormyr, the bulk of the drow army emerged in the King's Forest and marched on Eveningstar. Along the way they destroyed the village of Deep Glen, and the necromancers of House Szind began eagerly animating both the freshly slain villagers and the old buried dead, then sending them into battle.
+
+The Amaunatori priest Barana Talmere heard of this desecration, and so she sent a team to disrupt the necromancy at work. The Cormyrean team found the ruins of the village and fought their way through the graveyard, slaying the invaders and destroying the undead they found.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Demon's trumpet
+
+Demon's trumpet was a type of flowering plant found in Faerûn. It had pure white petals that looked appealing, but was a deadly hazard. It could be used to make a kind of sleeping potion.
+
+Appendix
+
+Notes
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Deva's trumpet
+
+Deva's trumpet was a type of flowering plant found in Faerûn. The flowers were yellow and beautiful and had strong pain-relieving properties that made it useful in the creation of healing potions and other medicinal products.
+
+Appendix
+
+Notes
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Deep Glen Graveyard
+
+The Deep Glen Graveyard was an old and expansive graveyard in the King's Forest of Cormyr, adjacent to the village of Deep Glen.
+
+Description
+The graveyard spread from the edge of the village into the surrounding forest. Among the grounds was a section of small tombs, devoted to Purple Dragons and wealthy villagers from Deep Glen and Eveningstar.
+
+History
+
+Early in the Sschindylryn invasion of Eveningstar, the drow forces descended on the village and slaughtered the inhabitants, followed shortly by the necromancers of House Szind. The Szind necromancers animated the fresh remains of the villagers and then began ransacking the graveyard, excavating old graves to obtain ever-more zombies and skeletons.
+
+Constal Adamor Thellik and the Amaunatori priest Barana Talmere heard of this desecration, and sent a team to disrupt the necromancers. They fought through the village and the graveyard, destroying the undead and slaying the necromancers there. While it was hardly a grand victory, the pale rod was captured from the necromancers, and the grave wrappings discovered.
+
+Appendix
+Notes
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Debukkher
+
+Debukkher, the Town of Tombs was a ceremonial town of religious sites and burial plots inside Shoonach, the capital complex of the Shoon Imperium.
+
+Geography
+Debukkher was in eastern Shoonach, surrounded by the Fedhiyajar.
+
+Description
+The Town of Tombs was an opulent district filled with temples, shrines, tombs, monuments, statues, and other sites relating to glorifying the divine and the dead. It was a town of spacious avenues and boulevards, richly decorated and beautified with mortuary artworks for the rich and powerful, with an extensive undercity of tombs with equally luxurious paintings and carvings commemorating the long-gone rulers of Shoon. Deep below the ruins was the lair of Shoon VII, where he developed the technique of lichdom.
+
+History
+Debukkher was built after, when the population of the Imperial City began demanding more burial space and places of worship.
+
+In 450 DR Prince Strohm I slew Emperor Amahl Shoon VII and destroyed the city in the Great Fires of Shoonach. Debukkher became a distinctly haunted area, a place of grand ruins and holy relics, and home to strange and terrible beings.
+
+Inhabitants
+By the mid-14 century DR, the ruins of the town were notably home to the undead, including vampires, crypt things, and lock-liches. Three skeletons huddled in the ruined art gallery, trapped in a corner by a permanent wall of fire with no rescue forthcoming, and beneath the temples of Bane and Myrkul were three noble genies imprisoned in a crystal by Shoon IV.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Death Parade
+
+The Death Parade was a gruesome necromantic event that occurred in 231 DR around Ithmong, capital of Tethyr under the Shoon Imperium.
+
+History
+After more than a dozen years attempting to quell persistent rebellious activities around Ithmong, Emperor Shoon IV lost his patience with the situation and resorted to more direct methods. On the last night of Marpenoth, he reanimated the dead slaves and commoners buried around Ithmong into an army of zombies, skeletons, and wights that marched from the outlying rural areas, through the villages, and into the city itself. Using a certain level of finesse in his destruction, the undead were targeted only at known rebel cells and conspirators, and conspicuously avoided loyalists and their property. Everyone who witnessed the dead were struck by overpowering fear, and it was only at dawn the next day that the horde of undead suddenly fell to the ground, intermixed with the rebels they had targeted.
+
+Though it only lasted one night, the horror of the Death Parade left an indelible mark upon the inhabitants of Ithmonn, Rivershire, and Monteshi, and it became a yearly tradition ever after to perform rituals in the Clovis Fields.
+
+Appendix
+References
+
+---
+
+## Dey
+
+Dey was a title used for positions of authority across a few different cultures.
+
+Genie Titles
+Among the genie races, dey was a title used by efreet officials within the government of the Sultan of the Efreet, ruler of the City of Brass. It was roughly analogous to what some on the Prime Material would call a "duke". Along with amirs and maliks, they were in charge of overseeing the City of Brass's outposts across the Elemental Plane of Fire.
+
+Trivia
+ At some point the criminal organization known as the Night Masks divided their members up into three cadres, each entitled after a particular monarchical title. These were the Deys of Night, the Sultans of Sunset, and the Midnight Maharajas.
+
+Appendix
+See Also
+ Bey
+Background
+"Dey" was a Turkish title used in the late Ottoman Empire, specifically given to the rulers of the regencies of Algiers, Tripolitania, and Tunis.
+
+The presence of the Deys of Night in the adventure "House of Cards" implies that this title must be in use somewhere in the Realms. However, across material on the two cultures most likely to feature a Turkish title, Calimshan and Zakhara, there were no instances of dey found.
+
+External links
+
+References
+
+---
+
+## Dectaran
+
+Brother Dectaran was a servant of the Silver Flame in the world of Eberron.
+
+Description
+Dectaran was an elder human man with a bald head and short white beard. He wore a surcoat of the Silver Flame and a long chain mail hauberk.
+
+Personality
+Dectaran was a devout servant of the Silver Flame, and rightfully fearful about the threat posed by the Lords of Dust. He was especially paranoid about rakshasas and their ability to change shape, fearing that anyone could secretly be a fiendish spy.
+
+History
+During the Darkening of Faerûn, Brother Dectaran was a Silver Flame friar who looked for signs of the Lords of Dust in Stormreach. He discovered the presence of a cult cell in a harbor hideout and Inquisitor Gnomon took the lead in assaulting the location, taking only the junior Corin Dryden with him. Dectaran hurriedly gathered up some quick reinforcements to send in with the pair, and the combined team cut through the cultist defenders awaiting inside.
+
+What Dectaran did not know was that Gnomon was actually a rakshasa who had infiltrated the church of the Silver Flame, using his position to sabotage and spy upon the Silver Flame. The rakshasa had discovered the secret location of the Spinner's Prison and so set about a great scheme to open it up, using mass blood sacrifices to power a ritual that opened up the road to Tarath Marad and allowed the cult direct access to their mistress.
+
+Appendix
+Notes
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Decanter of atropal essence
+
+The decanter of atropal essence was an artifact that was imbued with the unholy power of the destroyed atropal that fueled the Soulmonger in the late 15 century DR.
+
+Powers
+The decanter was filled with the decayed essence of a defeated atropal—a fluid-like substance of magical power.
+
+The decanter granted its unholy power to anyone who consumed its contents, which refilled after a period of time. Once consumed, the decanter of atropal essence granted the boon of the atropal that greatly boosted their offensive powers, both physical and magical, for a short period of time. Every time any damage was done whilst under the effects of the boon of the atropal, the magical effect's duration was slightly extended. Lastly, the decanter of atropal essence was a part of a set, alongside the cincture of atropal essence and the mantle of atropal essence. When these artifacts were worn together, they imbued the wearer with great vitality every time the wearer received healing.
+
+History
+In the late 15 century DR, demilich Acererak used an atropal to power his Soulmonger that spread the death curse across Faerûn. When a group of adventurers slew the unholy atropal, the cincture of atropal essence and the mantle of atropal essence were pulled out of the pool that was formed out of the atropal's remnants, while the liquid goo it left behind was used to create the decanter of atropal essence.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Dementlieu
+
+Dementlieu was one of the Domains of Dread, a largely coastal realm notable for its extensive progress.
+
+Description
+Overall, Dementlieu was mostly coastline, with a couple large cities. The domain was rather advanced in reason, arts and crafts, with notably civilized people.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Demeo x Dungeons & Dragons: Battlemarked
+
+Demeo x Dungeons & Dragons: Battlemarked (also: Battlemarked) is a role-playing video game developed and published by Resolution Games. The game is based on the Demeo Action Roleplaying System.
+
+Development
+Gameplay
+
+Campaigns
+Embers of Chaos
+
+Rage of Winter
+
+Index
+Characters
+Playable Characters
+Ash • Bolthrax Brightscale • Jessix Copperleaf • Tharok Kuldelver • Tibby Hopplebock • Lyria • orc druid shapechanger • human warlock
+
+Other
+Ailin • Agrorn Silverleaf • Aravilar Durothil • Blaze • Cleepto • Deekin Scalesinger • Elmer Babris •
+Frostmourn • Gunther Reed • Hakram Akar • Harshnag • Huckabee Oudin • Isteval • Kai • Legget • Liriael • Myla Harrowhill • Nimsy Huddle • Rakka • Sarifell • Sigrun • Sonsha Fallwater • Sweet Fang • Ungarth • Willa Hawkspire • Worvath Blackflame • Xorn • Zedokar (Demeo sorcerer)
+
+Gurt
+
+Creatures
+bear • beholder • bugbear • bumblebee • dragon (black) • dragonborn • dwarf • elf • fire snake (frost) • frost giant • gelatinous cube • goblin • halfling • helmed horror • hobgoblin • human • kobold • magen (galvan • hypnos) • mephit (ice • magma • smoke) • mimic • myconid • nothic • orc • rat (giant) • raven (black • giant) • salamander (frost) • skeleton • slaad (death • green) • spider (giant) • tiefling • troll (ice) • wolf (dire wolf • dire winter • winter) • worg
+
+dragon (red • silver) • spirit naga
+
+Events
+
+Descent
+
+Items
+Ammunition
+arrow (acid • ensnaring • fire • magic) • bomb (gas • smoke)
+
+Armor
+shield
+
+Clothes
+cylinder
+
+Food & Drinks
+cheese • meat steak
+
+marshmallow
+
+Materials & Substances
+coal • glass • hide • iron • basilisk oil
+
+steel
+
+Weapons
+axe • bow • club • crossbow • dagger • greatsword • hammer • mace • rapier • spear • staff
+
+Other
+alchemist's fire • antidote • dragon's claw • meat hook • oil flask • poisoner's kit • torch • vial of acid • water flask
+
+Locations
+Bodies of Water
+Ice Lakes
+
+Buildings
+Inns & Taverns
+Emerald Tavern • Ramshackle
+
+Dungeons & Ruins
+Fastness • Mushroom Hollow
+
+Fortresses
+Cragmaw Castle • Frost Keep • Karkolohk
+
+Roads
+High Road • Triboar Trail
+
+Sites
+Jarlmoot • Raven Rock
+
+Temples
+Fastness of Green Shadows
+
+Mountains & Hills
+Crags • Mount Hotenow • Spine of the World
+
+Greypeak Mountains
+
+Countries & Regions
+Icewind Dale • Reghed Glacier • Sword Coast • Underdark
+
+High Shanatar • Ostoria
+
+Settlements
+logger's camp • Lonelywood • Thundertree • Ythryn
+
+Elturel • Greenest • Neverwinter
+
+Wilderness
+Neverwinter Wood
+
+Magic
+Items
+blade of curses • Crystrum of Tranquility • Gurt's greataxe • haunted blade • horn of rat reinforcements • sickle of tides • siphon blade
+
+Potions
+potion of fire immunity • potion of healing • potion of magic • potion of strength • potion of speed
+
+Spells
+armor of Agathys • arms of Hadar • aura of purity • aura of vitality • bane (spell) • burning hands • chain lightning • chill touch • chromatic orb • cleansing touch • goodberry • cone of cold • counterspell • death ward • destructive wave • dissonant whispers • eyebite • fireball • fire bolt • fire shield • fog cloud • guardian of faith • gust of wind • hail of thorns • healing word • hunter's mark • hypnotic pattern • lay on hands • magic missile • mirror image • misty step • petrification • polymorph • prismatic spray • ray of frost • sanctuary • scorching ray • sleep • warding bond • witch bolt
+
+Other
+Weave
+
+Plants & Fungi
+Fungi
+bluecap • nightlight • nimergan • tessadyle • torchstalk • zurkhwood • zygom
+
+Plants
+fern • water lily • oak • pine
+
+Organizations
+Battlemarked Heroes • Cragmaw tribe • Emerald Enclave • Zhentarim
+
+Religion
+Bahamut • Sylvanus • Tymora
+
+Miscellaneous
+pacifying spores
+
+Appendix
+Trivia
+
+The second campaign was planned to be named Crown of Frost, but later the name was replaced with Rage of Winter.
+
+Gallery
+Portraits
+
+Locations
+Embers of Chaos
+
+Rage of Winter
+
+Connections
+
+---
+
+## Destroyed boots of the deformed
+
+The destroyed boots of the deformed was a pair of badly damaged yet powerful enchanted boots from the Jungles of Chult, created sometime in or before the late 15 century DR.
+
+Powers
+These boots possessed a number of enchantments despite having lost much of their power. The wearer of the boots received the boon of boosted defense, physical strength, and vitality, as well as the ability to penetrate enemy armor with masterfully aimed attacks and increased power of their lucky strikes. Additionally, when the wearer suffered serious injuries in battle, the boots magically increased their resistance to all types of damage and boosted their own damage output for a limited time.
+
+History
+In the late 15 century DR, as the death curse ravaged Faerûn, the famed author Volothamp Geddarm found himself in the Hunter's Square in Port Nyanzaru, a city in Chult. As he was working on Volo's Guide to Monsters, Volo enlisted the aid of adventurers from the north to hunt down and slay a collection of powerful beasts of legend and report to him with their experiences and loot. One of the creatures was Kutlass, the great yuan-ti "hunter of apes." The snakeman carried a pair of destroyed boots of the deformed that once belonged to someone who completed the ritual to become a tainted one. Even though the boots were heavily damaged and lost much of their previous powers, the ritual left its own magical taint on the boots.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Der Fliegende Dingbat
+
+Der Fliegende Dingbat was a ship from Klocckbarn in the Whamite Isles. It represented the Klocckbarn in a series of wild conflicts between various nations and pirates of the Whamite Isles at some point prior to the mass death of the population in the .
+
+Appendix
+Appearances
 
 References
 

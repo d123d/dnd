@@ -4,6 +4,31 @@ _Source: forgottenrealms.fandom.com, CC-BY-SA 3.0, dump 2025-10-22._
 
 ---
 
+## Dmetrio Extaminos
+
+Dmetrio Extaminos was a male yuan-ti pureblood sorcerer or fighter of Hlondeth in the Vilhon Reach in the late 14 century DR.
+
+Activities
+He served as the ambassador of Hlondeth to the nation of Sespech.
+
+Dmetrio was also the leader of the Cult of the Dragon in Hlondeth.
+
+Relationships
+He was the son of Dediana Extaminos, ruler of Hlondeth. He was also courting Glisena Foesmasher, the daughter of Baron Thuragar Foesmasher of Sespech, making the relationship between Hlondeth and Sespech somewhat tense, as neither Glisena nor Thuragar were interested, but dared not offend Hlondeth, so they did not completely rebuff his advances.
+
+Appendix
+
+Notes
+
+Appearances
+ Viper's Kiss
+
+References
+
+FR:Dmetrio Extaminos
+
+---
+
 ## Dmitra Flass
 
 Dmitra Flass, also known unofficially as the First Princess of Thay or The Tharchioness, was the Tharchion of Eltabbar within the realm of Thay during the mid-to-late 14 century DR, and subsequently the Zulkir of Illusion among the Red Wizards during the War of the Zulkirs. She was also a powerful figure in Mulmaster following her marriage to that city state's ruler, High Blade Selfaril Uoumdolphin.
@@ -78,6 +103,14 @@ Notes
 Appearances
 
 References
+
+---
+
+## DMGR series
+
+Dungeon Master's Guide Rules, or DMGR, is a series of accessories for AD&D 2nd edition. The series contains additional information for Dungeon Masters.
+
+ DMGR Code Title Year TSR CodeDMGR1Campaign Sourcebook and Catacomb Guide19912112DMGR2The Castle Guide19902114DMGR3Arms and Equipment Guide19912123DMGR4Monster Mythology19922128DMGR5Creative Campaigning19932133DMGR6The Complete Book of Villains19942144DMGR7The Complete Book of Necromancers19952151DMGR8Sages and Specialists19962164DMGR9Of Ships and the Sea19972170
 
 ---
 

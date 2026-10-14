@@ -100,6 +100,167 @@ de:Homeland
 
 ---
 
+## House of the Triad
+
+The House of the Triad was one of the celestial planes of the World Tree cosmology. A plane that exemplified the rule of law upholding the principles of good, it contained the realms of Ilmater, Torm, and Tyr, as well as Helm and Siamorphe.
+
+Description
+The plane's main feature was the great mountain Celestia, which was surrounded by three smaller mountains, each of which hosting the realms of Ilmater, Torm, and Tyr. The realm of Siamorphe was located in a valley between Celestia and Tyr's realm, while Helm's realm had no fixed position in the plane.
+
+In general, the House of the Triad was a resplendent plane that shone with heavenly radiance, marked by bright palaces with majestic marble halls.
+
+Cosmography
+The House of the Triad was connected to the lower branches of the World Tree, but there were no known portals that led to or from the plane. The central mountain, Celestia, was considered a divine realm in itself and was described to be identical to its Great-Wheel counterpart, although no deities resided there according to the World Tree cosmology.
+
+Inhabitants
+The plane was inhabited by archons and archon paragons that lived in the plane and served Ilmater, Torm, or Tyr. Many archons lived on the surrounding mountains and served their deities directly, but the enormous central mountain, Celestia, was home to most of them. Archons that lived on Celestia were ruled by Zaphkiel, but also seemed to serve the various deities in the plane. The mountains were also inhabited by angels, who served the Triad, and took on the bulk of the missions to other planes. In addition, the plane was home to formians who occasionally served Helm and Siamorphe, but usually led their orderly lives undisturbed by divine interference.
+
+The House of the Triad was also home to battle dragons and radiant dragons, who were not uncommonly seen throughout the plane.
+
+Petitioners
+Most of the plane's petitioners were lantern archons who were not committed to the plane and were free to leave it at will. Petitioners who tended more strongly towards neutrality, as well as followers of Helm or Siamorphe, retained the forms they had in life, but with the benefits of immunity to electrical attacks and petrification, as well as a greater resistance against physical attacks than they had in life.
+
+Divine Realms
+Martyrdom Realm of Ilmater, the Crying god, and one of the three mountains surrounding Celestia. The mountain held at its center a great open-air temple where the souls of the petitioners were rewarded for their endurance and perseverance in life. No one could feel pain or fatigue there. Ilmater's realm was known as a place of comfort and rest and one of the most soothing places in the Outer Planes.
+
+Trueheart Realm of Torm, the True Deity, and also one of the mountains surrounding Celestia. Torm's palace, located in the heart of the realm, resembled a huge military fortress, with walls of mithral, battlements of diamond, and gates of adamantine. It was guarded by legions of angels and archons serving the cause of good and law, in particular holding vigil against Bane.
+
+The Court Realm of Tyr, the Just God, and the third mountain surrounding Celestia. The marble hall at the center of the realm resembled a court of law and served as a meeting place where the Triad frequently consulted. No one could lie or bluff there.
+
+Everwatch Realm of Helm, the Vigilant One, a floating watchtower that roamed the plane. Whenever a visitor arrived to the plane via portal or color pool, Everwatch would always be present at the arriving location. The watchtower was always staffed with a guardian covered in a suit of mithral full plate armor, who received the visitors, detected their alignment and purposes. and could call heavenly defenders in the event of an invasion.
+
+Alabaster Palace Realm of Siamorphe, located in a beautiful valley between the Court and Celestia. The palace was surrounded by perfect gardens and fountains and was populated by peacocks whose sounds permeated the valley.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Hol Halstrom
+
+Hol Halstrom was a farmer and an inhabitant of the village Hilltop in the Silver Marches.
+
+In 1372 DR, he called Piper a fool for his rantings on the "coming death." Piper proclaimed Halstrom would be dead within a week. A few days later, Halstrom's corpse was found at the edge of the village, nearly decapitated.
+
+References
+
+---
+
+## Honeysuckle
+
+The honeysuckle was a flowering shrub that could be found in various places in Faerûn.
+
+Habitats
+ Honeysuckles were known to grow in the meadows of the midwood area of the forest of Cormanthor.
+ These shrubs grew in the middle section of the Black Plain in Sembia.
+ Honeysuckles were prominent in the Weathercote Wood.
+ Honeysuckle was planted along the River Ith within the city of Darromar in Tethyr.
+
+Usage
+ The petals of honeysuckles were commonly mixed with those of roses when making Chessentan Lotus Cheese.
+ Honeysuckles could be used to help treat liver, spleen, and respiratory disorders.
+ Unicorns were fond of the taste of honeysuckles.
+
+Trivia
+The scent of these shrubs was one of many that saurials used to communicate emotions. The scent of honeysuckle expressed an emotion of tendernesss or concern.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Hobgoblin
+
+Hobgoblins were larger, stronger, smarter, and more menacing forms of goblinoids than goblins, but not as powerful as bugbears.
+
+Personality
+
+By and large, hobgoblins, like their kin, were considered to be evil creatures and often met this expectation. While goblinoid society was typically cruel and harsh, some individuals escaped it to carry on lives of virtue. The few who took this risk and succeeded often met cautious praise and acceptance from outsiders. Those that managed to escape goblinoid society, however, were continuously plagued by their goblinoid nature. Though hobgoblins were not necessarily evil, they were prone to violence and hot tempers, and often found it difficult to be truly altruistic.
+
+When provoked, which was not a hard task, hobgoblins were vindictive creatures who took glee in causing pain to those that injured them. Those hobgoblins who overcome this nature often managed this because of the rewards they found in serving good, rather than evil.
+
+Society
+
+Hobgoblins were mostly found in communities where they were in command of either goblins or bugbears, or sometimes both. The most civilized goblinoid communities were ruled by the race. This was in large part because hobgoblin society was more industrious and less savage than that of goblins or bugbears. Though bugbears sometimes took control due to their raw strength, most such communities were ruled over by the strongest hobgoblin, who served as the warchief.
+
+Hobgoblins had a long tradition of mastering and breeding the creatures of the world into slaves of various sorts. Many, for instance, enjoyed working with wolves or worgs. Similarly, many drake breeds were first bred by hobgoblins. Some even believed hobgoblins carried this practice on within their own race, creating the goblins and bugbears in such a manner.
+
+Hobgoblins were immensely protective of their tribe's reputation and military status, so much so that meetings between different groups could turn violent if proper protocol was not followed. However, though hobgoblin tribes were territorial and egotistical in nature, they often united for a common purpose, such as war against non-goblinoids.
+
+Religion
+Hobgoblins once had their own pantheon, however, Maglubiyet, the god of war and rulership, killed most of the gods. Since then, he was the chief deity of hobgoblins. However, Nomog-Geaya, the deity of war and authority, was considered their patron deity, and many followed Bargrivyek. After the Spellplague but prior to the Second Sundering, Maglubiyet was an exarch of Bane.In 4 edition, beginning with the Player's Handbook, a new deity named Bane was introduced, an evil god of war and conquest, for the Nentir Vale/Nerath setting. However, the "Deities & Demigods: Bane" article in Dragon #372 states in the "Bane vs. Bane" sidebar "The Bane of the core D&D® setting is not the same god as the Bane of the Forgotten Realms® setting!" and ends saying the article "shouldn't necessarily apply to the Bane of Faerûn." While it argues some similarities with the Forgotten Realms Bane, it misses key difference that the Nerath Bane is a god of war, while the Realms Bane is a god of tyranny. The article gives the Nerath Bane a very different backstory, as a brother to Kord named Achra, but still gives him a curiously familiar title: the Black Hand.
+
+Magic
+Hobgoblins were warriors by nature and prefered martial combatants to those who draw on magic. Those few spellcasters who were to be found were expected to work well with soldiers.
+
+Summoning
+Before  a hobgoblin could be summoned by the summon monster I spell.
+
+Notable Hobgoblins
+ Ardenor Crush, leader of the mercenary company known as the Chill.
+ Dror Ragzlin, the hobgoblin True Soul of the Absolute.
+ Maaqua, queen of the Razor Heart tribe in the Giantspire Mountains.
+ Yargoth the Breaker, head of the clan that dwelled within Trobriand's Graveyard.
+ Z'neth, a once-promising warlord who became a larva merchant in the Wandering Emporium.
+
+Appendix
+Notes
+
+Appearances
+
+Further Reading
+
+Gallery
+
+Video Games
+
+External Links
+
+References
+
+Connections
+
+es:Hobgoblin
+
+---
+
+## Honlinar Tempest
+
+Honlinar Tempest was a human fighter and the mayor of Assam in the Shining Plains in the 1360s and 1370s DR.
+
+Activities
+Tempest was a master politician. He was appointed as mayor with the approval of the leaders of the cities of Ormath and Lheshayl, and his position was secure while he enjoyed their approval. Tempest focused on keeping Assam stable and operating smoothly while fixing problems quickly, in order to keep trade and wealth flowing to the south and to avoid conflicts with Ormath and Lheshayl.
+
+History
+However, in the Year of the Tankard, 1370 DR, some bandits raided a caravan heading south and stole the money it carried. Tempest was forced to make excuses to the leaders Ormath and Lheshayl while he tried to locate and capture the bandits. As Assam's militia was apparently too busy, he hurriedly sought adventurers who could track down the bandits.
+
+Honlinar quickly mustered such a group, and they recovered much of the caravan's goods for him. However, some of the bandits managed to escape, and Honlinar still sought their capture by 1372 DR.
+
+Appendix
+References
+
+---
+
+## Horquine
+
+Horquine is an elven mage who studied fyrefly of Cormanthor sometime before the mid-to-late 14 century DR.
+
+History
+Horquine spent years attempting to breed a variety of azmyth that would eat the fyreflies in Cormanthor. The fyreflies were causing problems by igniting large parts of the forest, and although the Horquine azmyth were able to consume triple of their won weight in fyreflies, they hardly affected the bug population. Furthermore, the could not digest the abdomens, the source of the flames, and so they were forced to spit them out in a ball of fire.
+
+Appendix
+References
+
+---
+
 ## House Baenre
 
 House Baenre  was the first drow house of Menzoberranzan, and had been for centuries—as long as anyone in the city could remember.
@@ -186,6 +347,3359 @@ External Links
 References
 
 de:Haus Baenre
+
+---
+
+## House Barrison Del'Armgo
+
+House Barrison Del'Armgo was a high-ranking noble drow house of Menzoberranzan.
+
+Activities
+The house was known for its wizards and warriors; its might was not based in the clergy.
+
+Until 1484 DR, warriors from House Barrison Del'Armgo and House Melarn trained together (against the order of the Ruling Council) in the ruined House Do'Urden compound.
+
+Headquarters
+House Barrison Del'Armgo was originally located in Narbondellyn, but in the late 15th century DR it relocated to Qu'ellarz'orl.
+
+History
+House Barrison Del'Armgo was the second-youngest house (in 1484 DR) of Menzoberranzan, having been formed some eight centuries earlier. Around 1230 DR, it was the 47th house, then it jumped to the 16th house. The house was second house as of 1372 DR and still remained in that position in 1484 DR.
+
+The house was destroyed following the conclusion of the civil war of Menzoberranzan in the, and its remaining members absorbed into House Baenre.
+
+Relationships
+House Barrison Del'Armgo was strong but had few allies, preferring to stand by itself.
+
+Members
+In 1484 DR, House Barrison Del'Armgo had 1,000 soldiers, which formed the backbone of their garrison.
+
+Notable Members
+ Doum'wielle Armgo  Half-drow/half-moon elf daughter of Tos'un Armgo; entered Menzoberranzan from the Surface in 1484 DR.
+ Drisinil Barrison Del'Armgo  Student of Arach-Tinilith an instigator of a coup against Mistress Quenthel Baenre.
+ Malagdorl Armgo  Grandson of Mez'Barris; Elderboy and weaponmaster in 1484 DR.
+ Mez'Barris Armgo  Matron mother in 1372 DR.
+ Molvayas Barrison Del'Armgo  Instructor at Arach-Tinilith; killed with the other conspirators against Quenthel Baenre during the Silence of Lolth.
+ Pharius Del'Armgo.
+ Taayrul Armgo  High priestess and daughter of Mez'Barris (1484 DR).
+ Tos'un Armgo  Renegade drow living on the Surface after fleeing the Battle of Mithral Hall in 1358 DR; he returned to Menzoberranzan with his daughter, Doum'wielle, in 1484 DR.
+ Uthegentel Del'Armgo  House weapons master of Barrison Del'Armgo.
+ Parsnalvi Armgo  House wizard in the 12th century DR.
+ Soulez Armgo Matron Mother in the 12th century DR, mother of Mez'Barris.
+ Ahlm’wielle Armgo  a priestess cousin of Mez'Barris in the 12th century DR.
+ Tardax Armgo House Patron circa 1490 DR.
+ Kaitain Armgo Wizard in 1490 DR.
+
+Appendix
+References
+
+---
+
+## House Faen Tlabbar
+
+House Faen Tlabbar was a drow house of Menzoberranzan.
+
+Description
+House Faen Tlabbar was based in a large castle of dark stone. It was one of the largest houses not on the plateau of Qu'ellarz'orl. It was located along the southern wall and had tall spires. It was defended by lizard-mounted guards who wielded crossbows and lances. However, the house had a blind spot in its connection to the roof.
+
+House Faen Tlabbar was protected by a spell of forbidding. Something that the guards wore allowed them passage. The doors of the house were made of pale zurkhwood. There was a large hall which included studies, parlors, and trophy rooms. The floor was shiny black marble. There was a shrine to Lolth at the end with a large double door; the shrine itself was a dome encrusted with gems. The chapel had a guardian demon resembling a skeleton covered in green flames with a flowing scimitar.
+
+Activities
+House Faen Tlabbar was considered to be one of the most fanatical of all the drow houses of Menzoberranzan.
+
+History
+In 1358 DR, Matron Mother Ghenni'tiroth Tlabbar was killed by K'yorl Odran.
+
+Some time prior to 1372 DR, the human sorceress and psionicist Smylla Nathos dwelt with House Faen Tlabbar. Smylla grew sick however and her host's divine healing powers couldn't help her. They believed that this was a curse from Lolth and tried to have Smylla assassinated but the human survived. The House spread the rumor that they had grown tired of her novelty and cast her out to save face.
+
+To secure an alliance with House Agrach Dyrr during the Silence of Lolth in 1372 DR, Nimor Imphraezl of the Jaezred Chaulssin snuck into the house chapel and slew both Matron Mother Ghenni Tlabbar and her daughter Sil'zet. The fifth daughter, Vadalma, was also present but survived and became the next matron mother.
+
+House Melarn tried to forge an alliance with House Faen Tlabbar due to the religious devotion of both Houses in 1480 DR. Such was Matron Vadalma's hatred for House Melarn however, that although she did not outright refuse their offer for political reasons, neither did she accept.
+
+Ranking
+In 1297 DR, Faen Tlabbar was the seventh house. They ascended to sixth after the destruction of House DeVir. By 1328 DR, thanks to the destruction of House Hun'ett and House Hrost Ulu'ar, they had ascended to 4th. When House Oblodra was destroyed after the Time of Troubles, they replaced them as 3rd but then, after the Spellplague, House Xorlarrin became more powerful and took over as third house, forcing Faen Tlabbar back to fourth. In 1484 DR, House Faen Tlabbar retook their place as the third house after House Xorlarrin left the city for Q'Xorlarrin.
+
+Members
+ Fini'they Tlabbar: Adopted and favored by Ghenni'tiroth, killed in 1358 DR by K'yorl Odran
+ Ghenni Tlabbar: Former matron, killed in 1372 DR by Nimor Imphraezl of the Jaezred Chaulssin.
+ Ghenni'tiroth Tlabbar: Former matron mother, killed in 1358 DR by K'yorl Odran
+ Ghilanna Tlabbar: Former matron until 1361 DR
+ Iyelle Tlabbar: traitor priestess in 1479 DR
+ Luafae Tlabbar: First Priestess in 1484 DR.
+ Malaggar Tlabbar: First Sword of Melee Magthere
+ Mod'Vensis Tlabbar: Instructor at the Academy
+ Pir'Oront Tlabbar: Firstborn son of Ghenni'tiroth
+ Rinnill Tlabbar: Patron of Ghenni'tiroth
+ Sil'zet Tlabbar: Daughter of Ghenni, killed in 1372 DR by Nimor Imphraezl.
+ Thaerlbone Faen Tlabbar: Renegade wizard
+ Thezz Tlabbar: minor warrior in 1479 DR
+ Vadalma Tlabbar: Matron mother in 1372 DR and 1484 DR, fifth daughter of Ghenni'tiroth.
+ Zilzmaer : House guard killed by Nimor Imphraezl in 1372 DR.
+ Kron Tlabbar: House patron in 1488 DR.
+ Lia Faen Tlabbar: A disgraced and exiled warlock of Zargon in the late 15 century DR.
+ Varrick Faen Tlabbar: A runaway son of House Tlabbar, working above-ground to reestablish the Church of Eilistraee
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House Xorlarrin
+
+House Xorlarrin was a drow house formerly of Menzoberranzan.  It had been considered the "most magical" house of that city. The entire house relocated to Q'Xorlarrin in Gauntlgrym in 1484 DR.
+
+Citadel Xorlarrin
+House Xorlarrin was based in Spelltower Xorlarrin, located on the plateau of Qu'ellarz'orl. A slender spire, the walls were striped in permanent and ever-shifting faerie fire, with battlements set atop its high walls.
+
+Members
+The house was famous for its wizards, even giving the males status near to the females, meaning they were one of the few groups that did not fit the paradigm of drow males in Menzoberranzan. Matron Mother Zeerith would even listen to the men, as she relied more on advisors than other matriarchs. The wizards had more arcane power than any other house, and those who had no skill would not survive childhood. Such talentless males were used as sacrifices. In 1361 DR, there were seven masters of Sorcere from House Xorlarrin.
+
+After the Spellplague, magic users of House Xorlarrin were known as "spellspinners" and utilized a different form of magic from those who practiced before the Spellplague.
+
+History
+14th and 15th centuries DR
+By 1372 DR, House Xorlarrin was the fifth house. It was the primary assailant on House Agrach Dyrr after that house's betrayal of the city to the Jaezred Chaulssin and duergar armies during the Siege of Menzoberranzan.
+
+By the late 15th century DR, Xorlarrin had reached the position of third house of Menzoberranzan. House Xorlarrin was a strong supporter of Lolth's plan to create a Demon Weave. Many lesser wizards joined the Council of Spiders. The house itself was inclined to support the Council's cause, even at the cost of civil war.
+
+Q'Xorlarrin
+In 1463 DR, House Xorlarrin divined information from a private conversation between the brothers Jarlaxle and Gromph Baenre when the former was investigating the Dawn Titan (primordial) imprisoned in Gauntlgrym. Matron Zeerith sent out an expedition, lead by Ravel Xorlarrin, which sought to establish a new drow city in the dwarven ruins. This was something the house had long thought to do, but they were afraid of retribution from House Baenre and House Barrison Del'Armgo. However, with the appointment of Tiago Baenre to the expedition, it was understood that House Xorlarrin would be permitted by Matron Quenthel Baenre to form a new city, so long as it served the Spider Queen.
+
+In 1484 DR, House Xorlarrin was finally permitted to leave Menzoberranzan and form a new city in Gauntlgrym called Q'Xorlarrin, where they produced fine weapons at the Forge. They were obligated to trade with and pay tribute to Menzoberranzan and serve in House Baenre's army if called upon. In light of the house's departure, Quenthel Baenre restored House Do'Urden with a number of drow nobles (and later non-drow) and made it a member of the Ruling Council.
+
+Activities
+Slaves and soldiers of House Xolarrin mined Lustrum, a rich mithral mine 20 miles from the Pillars of Woe in the direction of Menzoberranzan. It was abandoned by 1372 DR.
+
+From 1463 DR onward, House Xorlarrin possessed the Forge and much of Gauntlgrym, where they created fine weapons to export to Menzoberranzan.
+
+Notable members
+ Atatlab Xorlarrin  One of the house's sentries in 1372 DR (known by name to Zeerith).
+ Belween The second "bastard son" of Berellip.
+ Berellip Xorlarrin  Daughter of Matron Mother Zeerith. Killed by Artemis Entreri in 1484 DR.
+ Brack'thal Xorlarrin  Firstborn son of Matron Mother Zeerith and Horroodissomoth, father and half-brother of Ravel.
+ Chenraya Xorlarrin  Priestess who attempted to steal arambarium ore from Akanûl.
+ Faelas Xorlarrin  Master of Sorcere.
+ Horroodissomoth Xorlarrin  House wizard and patron. He appeared very old, but that was rumored to be due to a magical experiment gone wrong. During the Spellplague, he was driven insane and accidentally killed himself with a delayed-blast fireball.
+ Hoshtar Xorlarrin  Leader of an alliance with House Melarn and Bregan D'aerthe
+ Jaemas Xorlarrin  Master of Sorcere in 1372 DR.
+ Jearth Xorlarrin  Weapon master. Killed by dwarves in 1484 DR.
+ Kharza-kzad Xorlarrin  Former Master of Sorcere, tutor to Liriel Baenre, and from 1361 DR a lich in the Underdark.
+ Kiriy Xorlarrin  Eldest daughter of Matron Mother Zeerith and First Priestess in 1484 DR.
+ Melkatka  Commoner who served as a slavemaster and torturer; killed by Thibbledorf Pwent in 1484 DR.
+ Raelaryn Xorlarrin  Member of the Council of Spiders.
+ Ravel Xorlarrin  Son of Matron Mother Zeerith and son and half brother of Brack'thal.
+ Saribel Xorlarrin  Youngest daughter of Matron Mother Zeerith, rumored to wed Tiago Baenre.
+ Talabrina Xorlarrin  A member of House Xorlarrin who was active in the area of the Underdark below the Vast, trading in magic items and having soured dealings with the local drow cities in the late 14 century DR.
+ Tsabrak Xorlarrin  Noble wizard and cousin to Berellip. He performed the Darkening.
+ Uhlsrysn Xorlarrin  A master of Sorcere in 1479 DR.
+ Zeerith Q'Xorlarrin  Matron mother in 1361 DR and 1463 DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House Mizzrym
+
+House Mizzrym was the fifth drow house of Menzoberranzan in 1372 DR.
+
+Headquarters
+House Mizzrym was located on the plateau of Qu'ellarz'orl. It was guarded by foulwings, which some members of the house, including Pharaun Mizzrym, could ride.
+
+Activities
+Mages of House Mizzrym were well known for their skill at illusions.
+
+History
+Founded relatively recently compared to other drow noble houses in, House Mizzrym's rise to power over the centuries was founded on trade, including with non-drow races. By 1357 DR, the House had cultivated clandestine trade deals with deep gnomes and garnered a great deal of wealth. This allowed it to rise to the position of seventh house of Menzoberranzan.
+
+In 1359 DR, House Mizzrym moved up to sixth house when House Oblodra was destroyed during the Time of Troubles by House Baenre.
+
+During the Silence of Lolth (1372 DR–1373 DR), House Mizzrym climbed the ranks once again to fifth house thanks to the treachery and fall of House Agrach Dyrr.
+
+In 1484 DR, House Mizzrym ascended to the fourth house after the departure of House Xorlarrin for Q'Xorlarrin, replacing House Faen Tlabbar.
+
+Members
+ Miz'ri Mizzrym: Matron Mother in 1361 DR through at least 1484 DR.
+ Courdh Mizzrym: House Wizard and Archmage emeritus of Menzoberranzan.
+ Pharaun Mizzrym: Master of Sorcere until 1372 DR.
+ Zeld Mizzrym: Mistress at Arach-Tinilith in 1361 DR.
+ Greyanna Mizzrym: First daughter of Miz'ri, twin of Sabal. Killed by Pharaun in 1372 DR after several attempts to kill him.
+ Sabal Mizzrym: Daughter of Miz'ri, twin of Greyanna, killed before 1372
+ Sabbal Mizzrym: First Priestess in 1484 DR.
+ Aunrae Mizzrym: Young priestess and cousin of Greyanna.
+ Ardreyth Mizzrym: Former matron mother, killed by a wingless wonder.
+ Relonor Vrinn: Mizzrym second boy and the Master of the School of Illusion at Sorcere.
+ Kelfein Mizzrym: Patron of the house.
+ Vuzirahc Mizzrym: Weapons Master of the house.
+ Ilvara Mizzrym: Priestess who commanded the outpost of Velkynvelve
+ Avrixis Mizzrym: Who began building her criminal empire in Baldur's Gate in the late 15 century DR.
+ Mallorae Mizzrym: A priestess of Lolth in the late 15 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House Fey-Branche
+
+House Fey-Branche was the fifth house of the drow city of Menzoberranzan in 1484 DR.
+
+Activities
+House Fey-Branche served as a lackey to a number of houses, most notably House Baenre, hoping to curry favor with them.
+
+Headquarters
+House Fey-Branche was based in a defensive, triangular shaped compound in the Narbondellyn district of Menzoberranzan. The outer part of the compound consisted of a very high adamantine wall and the only entrance was a single gate. Anyone who approached within 30 feet of the walls in any area other than the gate were shot with lightning bolt spells. Shriekers throughout the compound also called out alarms if anyone not wearing the house insignia was seen.
+
+Three towers anchored each corner of the compound and were used for defensive purposes. Within the walls were four main sets of buildings: slave pens (for about 400 slaves), a temple to Lolth (where the noble females lived), troop quarters (for about 200 soldiers), and family quarters (housing the rest of the house's commoners and male nobles).
+
+History
+House Fey-Branche was one of the oldest houses of Menzoberranzan, having been formed around −2500 DR. However, it experienced a great deal of bad luck over the centuries, especially the nobles, who have died in untimely accidents or assassinations.
+
+During the Sable Years, House Fey-Branche began as eleventh house. However, it rose to the position of eighth house in 1338 DR as a result of the fall of House Do'Urden. House Fey-Branche was for many years the sixth house. In 1484 DR, it became the fifth house after the departure of House Xorlarrin to Q'Xorlarrin.
+
+In 1372 DR, the Fey-Branche contingent was destroyed at the Pillars of Woe.
+
+In 1484 DR, First Matron Mother Quenthel Baenre dined at House Fey-Branche for the Festival of the Founding. During the gathering, the Yor'thae of Lolth appeared, an indication that Quenthel was in Lolth's favor. That same year, Minolin Fey married Gromph Baenre, the Archmage of Menzoberranzan, and carried his child. The child was to be named Yvonnel and would become Quenthel's successor.
+
+Members
+ Byrtyn Fey: Matron mother in 1367 DR and in 1484 DR.
+ Minolin Fey (Minolin Fey-Branche): First Priestess. Mistress of Arach-Tinilith in 1484 DR and later wife of Gromph Baenre.
+ Calagher Fey-Branche: House patron in 1484 DR.
+ Geldrin Fey (G'eldrin Fey-Branche): House weapons master in 1484 DR and former classmate of Andzrel Baenre.
+ Zeknar Fey-Branche: House wizard in 1484 DR.
+ Halavin Fey-Branche: Matron mother in 1338 DR.
+
+Appendix
+References
+
+---
+
+## House Tuin'Tarl
+
+House Tuin'Tarl was a drow noble house of Menzoberranzan.
+
+History
+The house was destroyed soon after the Silence of Lolth around 1383 DR in trying to destroying House Horlbar. Horlbar with the alliance of House Kenafin in a counterattack destroyed House Tuin'Tarl.
+
+Members
+ Prid'eesoth Tuin: matron mother in 1372 DR.
+ Daethleness Tuin'Tarl: turned into a wingless wonder.
+ Vlondril Tuin'Tarl: an old instructor at Arach-Tinilith.
+ Houndaer Tuin'Tarl: took part in the uprising in Menzoberranzan led by Syrzan in 1372 DR, in which he was killed by Ryld Argith.
+
+Appendix
+
+References
+
+---
+
+## House Agrach Dyrr
+
+House Agrach Dyrr was a drow house of Menzoberranzan.
+
+Structure
+House Agrach Dyrr was the fifth house in 1372 DR.
+
+The house was located on Qu'ellarz'orl and built around nine stalagmites. It was surrounded by adamantine and stone. It had flying buttresses around its spires and a railless bridge across a moat-like chasm. The house had multiple reception halls, as well as a small sitting room with coral, limestone, and kuo-toa motifs. The compound itself formed of concentric circles, with a domed temple to Lolth in the center of the complex.
+
+House Agrach Dyrr's temple had a sacrificial altar limned in purple faerie fire and candles. There was a large black sculpture of a spider (a guardian golem), which was home to the Lichdrow's phylactery. There were high-backed stone benches in the chapel, with weblike curtains, spider motifs, and actual spiders and webs.
+
+The house had strong magical wards, many of which were placed by the Lichdrow Dyrr, including the master ward, which activated all wards in the compound in the event the lich's phylactery was destroyed.
+
+Activities
+Until 1372 DR, members of House Agrach Dyrr were the main soldiers at the Rhazzt's Dilemma outpost some 30 miles south of Menzoberranzan.
+
+History
+House Agrach Dyrr was more than 5,000 years old. Only House Baenre was older.
+
+Matron Mother Auro'pol Dyrr was killed during the drow attack on Mithral Hall in 1358 DR. After Auro'pol's death, Yasraena Dyrr became matron mother.
+
+In 1372 DR, House Agrach Dyrr entered into a secret alliance with the Jaezred Chaulssin, which had chosen that house because of the de facto male ruler, the (Lichdrow Dyrr). In exchange for the assassination of Matron Mother Ghenni Tlabbar, they worked with Nimor Imphraezl to betray Menzoberranzan's Army of the Black Spider to the armies of Gracklstugh and Kaanyr Vhok. Nimor posed as Captain "Zhayemd" of House Agrach Dyrr in order to complete the deception.
+
+After the house's betrayal was revealed, the house compound was besieged by House Xorlarrin and its allies. Gromph Baenre battled Lord Dyrr, destroying his corporeal form and infiltrating the house to destroy the lich's phylactery. Destroying the phylactery activated the master ward, destroying the house temple.  Before the Xorlarrins could move in, Triel Baenre arrived and halted the assault. She met with Anival Dyrr, daughter of Yasraena, and made an agreement: House Agrach Dyrr were to become vassals of House Baenre for centuries, "essentially an extension of House Baenre." House Agrach Dyrr was also removed from the Ruling Council.
+
+Members
+Agrach Dyrr had orc and bugbear slaves. They also had ogres and trolls. In 1373 DR, there were at least two vrocks serving House Agrach Dyrr.
+
+Notable members
+ Anival Dyrr  First daughter of Yasraena, then matron mother.
+ Araag Dyrr  Graduate of Sorcere.
+ Auro'pol Dyrr  Former matron mother, killed by House Baenre in 1358 DR.
+ Curacc Dyrr  Patron of Auro'pol
+ Esvena Dyrr  Fourth daughter of Yasraena.
+ Geremis Dyrr  Graduate of Sorcere, apprentice to the Lichdrow. He was bald and aging.
+ Jazzt Dyrr  Lieutenant and second cousin to Yasraena.
+ Larikal Dyrr  Third daughter of Yasraena, killed mistakenly by her mother in 1373 DR.
+ Lord Dyrr Lich commonly known as the "Lichdrow Dyrr" and de facto ruler of House Agrach Dyrr until his destruction in 1373 DR
+ Nafyrra Dyrr  Commander of a Dyrr detachment based at Rhazzt's Dilemma in 1372 DR.
+ Ooraen  Recent graduate of Sorcere in 1373 DR.
+ Urgan Dyrr  Weapon master in 1373 DR. He was scarred.
+ Viconia Agrach Dyrr  A senior instructor at Arach-Tinilith in 1372 DR.
+ Viis Dyrr  Graduate of Sorcere.
+ Vorion Dyrr  Consort of Yasraena and wizard at Sorcere.
+ Yasraena Dyrr  Matron mother from 1358 DR until 1373 DR.  She was the sister of Auro'pol and granddaughter of the Lichdrow.
+
+References
+
+---
+
+## House Duskryn
+
+House Duskryn was a drow house of Menzoberranzan. They won the charter from House Baenre that allowed them to loot the city of Blingdenstone.
+
+Activities
+The nobles of the house were known for their cruelty which they enacted seemingly for their own perverse amusement. Duskryn consistently trained some of the best armies in Menzoberranzan for the 3,000 years since the house's founding. Advancement was awarded for performance, not noble stature as was the norm in most other houses. However, all of the most famous military victories of the house were defensive rather than offensive in nature.
+
+History
+In the 7 century DR, House Duskryn came under repeated attacks from several other noble houses that were all successfully repelled. Rumors persisted that all of these attacks were planned by Matron Yvonnel Baenre.
+
+In 1484 DR, House Duskryn was the ninth house and set to become the eighth house (and thus part of the Ruling Council) after the departure of House Xorlarrin to Q'Xorlarrin. However, Quenthel Baenre restored House Do'Urden and granted it the eighth place instead.
+
+Relations
+House Duskryn did not fear any lesser house, as their large and well-trained army made them an infeasible target. However, Matron Mother Berni'th had ambitions to attack both House Tuin'Tarl and House Fey-Branche.
+
+Members
+ Berni'th Duskryn: Matron mother.
+ Havel Duskryn: Master of Sorcere in 1373 DR.
+ Zelzpassa Duskryn: Leader of the Blingdenstone garrison
+ Bruherd: Outcast male.
+ Prae'anelle Duskryn: Matron mother in 1484 DR.
+
+Appendix
+
+Appearances
+Night of the Hunter
+
+References
+
+---
+
+## House Srune'Lett
+
+House Srune'Lett was a drow house of Menzoberranzan that was destroyed in the War of the Spider Queen.
+
+Description
+House Srune'Lett had a compound in the district of Narbondellyn.
+
+Priestesses of Srune'Lett were often known as the "fat sisters" for their stocky build.
+
+History
+In the late 15th century DR, a building in its compound was used as a meeting place by the Council of Spiders. This resulted in fights between the Council, the Jaezred Chaulssin, and adventurers sent by major powers of the city, threatening to cause another civil war.
+
+Members
+ Dargathan Srune'Lett  Older student at Melee Magthere in 1361 DR. He tutored Liriel Baenre in swordplay.
+ Srune'Lyris Lett  Matron mother in 1367 DR
+
+References
+
+---
+
+## House Horlbar
+
+House Horlbar was a drow house of Menzoberranzan.
+
+History
+Before the Time of Troubles, House Horlbar was the twelfth ruling house in Menzoberranzan, and Jerlys and Ker Horlbar were co-matron mothers. House Horlbar's two matrons had been a distinguishing feature for 2000 years and were always either sisters or first cousins. The hatred the two leaders traditionally had for each other was only ever outweighed by their hatred of things not of their house. In 1357 DR, Matron Mother Jerlys Horlbar attacked Artemis Entreri in the alleyways of Menzoberranzan while on a secret mission. Unable to flee her wraith, Entreri killed the matron mother.
+
+Structure
+The main source of income and power for the house was its lucrative agricultural work and its ambitious trading practices. They were not known for house warfare but were said to never forget a slight, sometimes taking generations to instigate their revenge.
+
+Members
+ Ker Horlbar  Co-Matron Mother in 1361 DR.
+ Jerlys Horlbar  Co-Matron Mother, killed by Artemis Entreri
+
+Appendix
+References
+
+---
+
+## House Kenafin
+
+House Kenafin was a drow house of Menzoberranzan. It was ranked the tenth house of the city in the year 1361 DR. The females of the house reigned supreme and were famous for taking immense delight in subjugating and terrorizing the house males.
+
+History
+Around 1383 DR, House Kenafin defended House Horlbar against an attack by House Tuin'Tarl. The two houses subsequently joined forces and formed the new House Melarn.
+
+Members
+ Kyrnill Kenafin: Matron Mother in 1361 DR until the creation of House Melarn in 1383 DR.
+ Kelnozz: Commoner and warrior of House Kenafin, classmate of Drizzt Do'Urden circa 1317 DR.
+ Gausra Kenafin: Student with black teeth at Arach-Tinilith in 1372 DR.
+
+Appendix
+References
+
+de:Haus Kenafin
+
+---
+
+## House Druu'giir
+
+House Druu'giir was a drow house of Menzoberranzan. It was the seventeenth house in 1328 DR, but by 1480 DR, it had risen to become the tenth house.
+
+Headquarters
+House Druu'giir occupied a rectangular-shaped compound southeast of the tip of the Westrift. The small compound was fenced by stalagmites.
+
+Activities
+House Druu'giir was one of the most powerful mercantile houses, second only to House Baenre. The house controlled nearly all moneylending in the city.
+
+Leadership
+The house was dominated by elderly male wizards.
+
+Notable members
+ Carrolloc Giir  Matron mother in 1357 DR.
+
+Appendix
+Appearances
+Menzoberranzan (boxed set)
+
+References
+
+---
+
+## House Hunzrin
+
+House Hunzrin was a drow house of Menzoberranzan that controlled much of the agriculture within the city. For that reason, the pitchfork was the weapon of choice for the family.
+
+Headquarters
+House Hunzrin was stuck in the district of Eastmyr, despite its arrogance and the fact that it controlled most of Menzoberranzan's agriculture.
+
+House Hunzrin used quaggoths as shock troops and guards. It also employed a naga named Ssassar.
+
+Activities
+
+House Hunzrin was in charge of the lands around Lake Donigarten and the rothé herds, which produced cheese and meat, on the Isle of Rothe within the lake. They employed orc and goblin slaves to care for the herds.
+
+In 1361 DR, after many drow and slaves were killed in the attack upon Mithral Hall, the rothé herds were in a poor state. Shakti Hunzrin, on leave from Arach-Tinilith to look after the herds, reported the following dismal numbers:
+40 goblins; half of them herders, half of them breeders, but all working as herders at the time.
+11 rothé born that season, 2 of them stillborn.
+
+House Hunzrin sometimes replenished its herds with stolen animals, such as one white ram from the Ched Nasadan House Zinard.
+
+Relationships
+Despite having its farming activities disdained by other drow, many still acknowledged its value and service to the city as one of the most significant food suppliers. House Hunzrin shared allegiances with House Baenre and House Barrison Del'Armgo.
+
+History
+In 1412 DR, Shakti Hunzrin became the Matron mother of House Hunzrin. By 1484 DR, House Hunzrin was the Eleventh House and still under the command of Shakti Hunzrin.
+
+Members
+Kinuere HunzrinMatron mother in 1361 DR.
+Shakti HunzrinHigh priestess of Lolth and Vhaeraun; later matron mother (1484 DR).
+
+Appendix
+Gallery
+
+References
+
+---
+
+## House Shobalar
+
+House Shobalar was a drow house of Menzoberranzan of the 14 century DR.
+
+Description
+The house was uncharacteristically reclusive, even by Menzoberranzan standards, being notable for specializing in arcane magic and producing several female wizards of considerable power. The house guard was made up of magically bred giant spiders. The house was renowned for its spider cavalry.
+
+Shobalar maintained an outpost, Sezz'ia, where they conducted arcane research.
+
+History
+At a young age, Liriel Baenre was given by her father, Gromph Baenre, to House Shobalar to be trained in the ways of magic.
+
+House Shobalar was destroyed during the War of the Spider Queen as punishment for women practicing arcane, rather than divine, magic.
+
+Notable Members
+ Hinkutes'nat Alar Shobalar: matron mother in 1348 DR.
+ Pu'Nel Aalar: weapon master.
+ Vilto'sat Shobalar: captain of the spider cavalry of the house, killed in 1373 DR.
+ Xandra Shobalar: third daughter of Hinkutes'nat, Mistress of Magic, instructor of Liriel Baenre.
+ Bythnara Shobalar: daughter of Xandra. Killed in 1361 DR by Liriel Baenre.
+
+Appendix
+
+References
+
+---
+
+## House Vandree
+
+House Vandree was the 17th drow house of Menzoberranzan in 1358 DR and therefore one of the minor drow houses in the city. By 1480 DR, it had become the eighth house and thus a member of the Ruling Council.
+
+Headquarters
+House Vandree was located in a huge, walled compound south of House Do'Urden in the district of West Wall. The compound's main walls extended outwards (to the east) from the wall, appearing almost like a prow. Another source lists the location of House Vandree in the 15th century DR as in Duthcloim, which may be due to an error or unclear district boundaries, since it seems unlikely that the house would move to an area of lesser prestige.
+
+Activities
+The members of House Vandree were very interested in Surface affairs and frequently collected trophies from the Surface, from leaves to human skulls.
+
+History
+A tragic fate came upon one of the daughters of House Vandree around the year 1322. Sosdrielle Vandree became one of the latest liaisons of the archmage Gromph Baenre and gave birth to his daughter Liriel. When Gromph realized her talent for magic, he arranged the death of her mother Sosdrielle as an accident and took his daughter into House Baenre.
+
+Around 1357 DR, Dinin Do'Urden spent a year infiltrating House Vandree at the order of Jarlaxle of Bregan D'aerthe in preparation for an attack. Dinin was recalled when Jarlaxle found a more interesting opportunity with Vierna Do'Urden and her lust for Drizzt Do'Urden.
+
+Shortly after the Time of Troubles in 1358 DR, when the house ranked seventeenth, a priestess of the house introduced throat leeches to Heldaeyn's Pool, just outside of Menzoberranzan, in order to kill a rival of House Kenafin. The plot failed but the leeches remained, occasionally claiming victims.
+
+House Vandree was in a most precarious situation around 1368 DR. Their numbers were few but their compound grand. Their neighboors of House Barrison Del'Armgo had made it known that they coveted the Vandree compound. For this reason Matron Troken'ther Vandree tried either to win the protection of House Baenre, or get Yvonnel Baenre to demand a civilized swap of the compounds. But the old Baenre hesitated to do so. On the one hand there had been too much chaos in the recent past among the leading houses, but on the other hand, Yvonell was eager to see Barrison Del'Armgo get into a fight and show what they could do. But there was a spark of hope for House Vandree; they had a long-standing tradition of getting into trouble and somehow finding a way out. Troken'ther and her offspring seemed to delight in internal feuding and dangerous political ploys. House Vandree even dabbled in surface-world affairs, acquiring all sorts of trophies and useful magical items. There were rumors that human skulls, fashioned into drinking goblets, were their favorites.
+
+House Vandree fell to the position of the twentieth house by 1372 DR.
+
+By 1480 DR, House Vandree rose quickly to become the eighth house and thus a member of the Ruling Council.
+
+Sometime before the late 15 century DR, a High Priestess from House Vandree became involved with then-young Minthara Baenre. The women remained lovers for some time until Minthara received an order to end the High Priestess. Minthara poisoned her lover and stayed at her side, whispering words of comfort until the priestess died.
+
+Members
+ Alton Vandree  One of the missing males who disappeared in 1372 DR to join the illthilich Syrzan's revolt against the city's priestesses.
+ Fiirnel'ther Vandree  Daughter and assassin of Troken'ther. Current matron mother.
+ Liriel Vandree (Liriel Baenre)  Daughter of Sosdrielle Vandree and Gromph Baenre. She was a Vandree until five years of age, when she was taken by her father, who gave her his name in order for her to join House Baenre (although she was raised by House Shobalar.
+ Sosdrielle Vandree  Mother of Liriel Baenre; one of the most beautiful drow of Menzoberranzan and consort of Gromph Baenre until she was killed by his golem.
+ Troken'ther Vandree  Former matron mother.
+ Asha Vandree  Junior priestess stationed at Velkynvelve.
+
+Appendix
+References
+
+de:Haus Vandree
+
+---
+
+## House Symryvvin
+
+House Symryvvin was for centuries the 18th drow house of Menzoberranzan.
+
+Headquarters
+House Symryvvin's compound in West Wall was five-sided, surrounded by both stalagtites and stalagmites. It was located just northeast of the tip of the Westrift.
+
+Members
+ Hesken-P'aj Symryvvin: Matron mother
+ Halavin Symryvvin: A student at Arach-Tinilith, fond of wearing jewelry. She attempted to kill Quenthel Baenre in 1372 DR.
+
+References
+
+de:Haus Symryvvin
+
+---
+
+## House T'orgh
+
+House T'orgh was a drow house of Menzoberranzan in the late 14 and late 15 centuries DR.
+
+History
+Originally a commoner family when its daughter T'risstree rose to a degree of power as a priestess and an Arach-Tinilith instructor by 1372 DR, it had become the 16 ranked house by 1480 DR.
+
+Notable Members
+ T'risstree T'orgh: Instructor at Arach-Tinilith in 1372 DR
+
+Appendix
+References
+
+---
+
+## House Godeep
+
+House Godeep was a minor drow house located in the district of Narbondellyn in Menzoberranzan.
+
+Members
+ Phaerl Godeep: The notorious Rebel Mage who revolted against the priestesses' decrees.
+ Tathlyn Godeep: Weapons master in 1372 DR. He was tall and had a red sword. He was trained by Ryld Argith at Melee-Magthere.
+ An unnamed master at Sorcere in 1372 DR was from House Godeep.
+
+Appendix
+References
+
+---
+
+## House Auvryndar
+
+House Auvryndar might refer to:
+ House Auvryndar (Ched Nasad), a drow house in Ched Nasad, or
+ House Auvryndar (Menzoberranzan), a drow house in Menzoberranzan.
+
+---
+
+## House Freth
+
+House Freth was a drow house of Menzoberranzan. The house insignia was often proudly displayed on their warrior's chests and bracers and was an image of a phoenix, rising from the ashes towards a dark-green moon.
+
+Activities
+Before their destruction they started to breed venom oozes. The oozes were made through experiments, even though the house is destroyed the venom oozes survived and started to multiply through the Underdark.
+
+After being reestablished sometime before 1369 DR, the drow of House Freth learned to tame horrifying arraccats found in the dungeons of Myth Drannor. Whether taming done via animal handling or magical means was unclear.
+
+History
+The house was one of the lower houses of Menzoberranzan. In 1319 DR, it was attacked and was nearly destroyed by House Teken'duis. However, some nobles survived the attack. Thus, there were witnesses to this act and the attack was a failure. The Ruling Council of Menzoberranzan decided to destroy House Teken'duis. The three surviving nobles of House Freth (two females, the oldest of which had just finished training at Arach-Tinilith, and one male) were taken to be combined into the house of Yvonnel Baenre.
+
+Apparently reestablished by 1369 DR, scouts of House Freth found a way into the deepest levels of the Elven Catacombs under Castle Cormanthor. Allied with House Kilsek, Dreydre Freth and Greyanna Freth led the drow excavation and recovery of the ancient elven magic from the ruins, smuggling it back to the Undermountain. At  some point after the operation's start, the  daughters of the House Freth encountered the forces of the Cult of the Dragon that was operating in Myth Drannor at the time. House Freth stroke a deal with the Cult that allowed their operations continue uninterrupted in exchange for betraying the House Kilsek. The Kilsek drow were killed and enthralled into service as the leader of the betrayed house's operations, Nathlilik Kilsek was thrown into the Cult's prison. That alliance did not last, as the group of heroes assembled by Elminster Aumar, the Veiled Ones, made their way into the drow territory, slaying Dreydre and Greyanna.
+
+In the, House Freth was the Nineteenth House of Menzoberranzan, following the destruction of House Fathomlin that year.Menzoberranzan: City of Intrigue has the little-known House Fathomlin as 19 house and destroyed in 1372, but Dissolution has House Freth as 19 house that same year. Thus, it is presumed Fathomlin was replaced by Freth.
+
+Around 1492 DR, a Freth contingent led by Erelal Freth was trying to conquer Undermountain from the Maze Level facing the opposition of a House Auvryndar contingent.
+
+Members
+ Vuzlyn Freth  A missing male who had joined the illithilich Syrzan's revolt against the city priestesses in 1372 DR.
+ Welverin Freth Weapons master of House Freth. He had a prosthetic silver leg.
+ Erelal Freth House leader in Undermountain in late 15th century.
+ Drivvin Freth archmage brother of Erelal.
+ Rilna Freth castellan younger sister of Erelal.
+ Beranica Freth  commander sister of Erelal.
+ Llaxdorl Freth  wizard cousin of Erelal.
+ Tanimar Freth, Xaphtal Freth, Talabsyn Freth, Ilanlue Freth and Sabatrin Freth some of the many sons and daughters of Erelal.
+ Vanar Freth a wizard infiltrated in Arcturiadoom level.
+ Dreydre Freth and Greyanna Freth daughters of House Freth that helmed the drow operations under the ruins of Myth Drannor, deep in the Elven Catacombs circa 1369 DR.
+ Hatchrin Alet'taz disgraced consort of Erelal Freth and the father of her unborn eleventh child.
+
+Appendix
+Notes
+
+Gallery
+
+Appearances
+Adventures
+Waterdeep: Dungeon of the Mad Mage
+Novels
+Homeland • Dissolution • Pool of Radiance: Ruins of Myth Drannor (novel)
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+de: Haus Freth
+
+---
+
+## House Millithor
+
+House Millithor was the twenty-fifth drow house of Menzoberranzan.
+
+Members
+ Ki'Willis Millithor: Matron Mother
+ Narcelia Millithor: Eldest daughter of Ki'willis
+ Carcelen Millithor: Second daughter of Ki'willis
+ Quertus Millithor
+ Marckarius Millithor: First-born son of Ki'willis
+ Torrellan Millithor: Second son of Ki'willis
+ Dariel Kront'tane: Adopted son of House Millithor
+ Dwillisith Millithor
+
+Related
+ Krecil Treak
+
+Appendix
+
+References
+
+---
+
+## House Nurbonnis
+
+House Nurbonnis was a noble drow house of Menzoberranzan. They were the 21-ranked house around 1367 DR.
+
+Notable Members
+ Matron Mother: Nadallas Bonnine
+ Firstborn Son: Pernictal Nurbonnis
+ Second Son: Daevion'lyr Nurbonnis
+ Adlictin Nurbonnis
+ Caraf'nir Pron'nonnis
+ Carri'pol Nurbonnis
+ Karelist Nurbonnis
+ Lynn'qynnos Nurbonnis
+ Rynn'qynnil Nurbonnis
+
+Appendix
+
+References
+
+---
+
+## House Zolond
+
+House Zolond was a drow house of Menzoberranzan.
+
+Members
+ Rilrae Zolond  Junior priestess at Arach-Tinilith in 1372 DR who went mad due to a curse sent by Gromph Baenre in his attempt to assassinate Mistress Quenthel Baenre.
+
+Appendix
+
+Appearances
+Idle Champions of the Forgotten Realms
+
+References
+
+---
+
+## House Ousstyl (Ched Nasad)
+
+House Ousstyl was a drow house of Ched Nasad.
+
+History
+By 1370 DR, House Ousstyl was the 11th house on the ruling council of Ched Nasad.
+
+Members
+ Pellanistra Ousstyl Matron Mother
+
+References
+
+---
+
+## House Bron'tej
+
+House Bron'tej was a deceased drow house of Menzoberranzan.
+
+History
+In the, House Bron'tej was the 27 house of Menzoberranzan. Later that year, House Barrison Del'Armgo  gathered their mages and took down House Bron'tej. All that remained of the house was a pool of sludge, that was suspiciously similar to the house insignia of House Barrison Del'Armgo.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House DeVir
+
+House DeVir was a drow house of Menzoberranzan.
+
+Headquarters
+House DeVir was constructed among five floor-to-ceiling, hollow stalagmites in the midst of a mushroom grove on the plateau of Qu'ellarz'orl. The house was protected by gargoyles, traps, glyphs, and wards. Additionally, every fifth mushroom around the compound was a shrieker that would make loud noises when potential attackers approached.
+
+History
+In 1297 DR, House DeVir was the fourth house and planned to target the third house for destruction. In the plot, Matron Mother Ginafae DeVir used her clerical powers to aid a patrol of svirfneblin so that they would kill the wizard son of the third house. By doing so, Ginafae and her house lost the favor of Lolth. House Do'Urden, the tenth house, took advantage of their vulnerable state and destroyed House DeVir. Fifty commoners of the house joined House Do'Urden.
+
+However, despite the apparent fall of the house, one noble lived on in the city: Alton DeVir, a student at Sorcere who survived an attempted assassination by Gelroos Hun'ett, the "Faceless One" (so named because a terrible accident had scarred his face). Masoj Hun'ett, Gelroos's apprentice, killed Gelroos, and Alton DeVir scarred his face with acid in order to take over his identity. Alton's secret was not discovered until nineteen years later, when Matron SiNafay Hun'ett came to speak with him and realized he was not her son. However, she continued the ruse, accepting Alton as part of House Hun'ett as part of that house's plots against House Do'Urden. In the end, Alton was killed by his own wand of lightning when he attempted to take the life of Drizzt Do'Urden in 1328 DR.
+
+Members
+ Ginafae DeVir: Matron mother; killed by Zaknafein Do'Urden in 1297 DR.
+ Alton DeVir: A survivor of House DeVir's fall who took over the identity of "The Faceless One" (Gelroos Hun'ett); he was killed by an exploding wand in 1328 DR during an attempt on Drizzt Do'Urden's life.
+ Viconia DeVir: Formerly a priestess of Lolth before coming to the surface and becoming a cleric of Shar.
+ Vizeran DeVir
+
+References
+
+de:Haus DeVir
+
+---
+
+## House Celofraie
+
+House Celofraie was a drow house of Menzoberranzan.
+
+History
+By 1367 DR, House Agrach Dyrr destroyed House Celofraie as well as the houses of Syr'thaerl and Mlin'thobbyn.
+
+References
+
+---
+
+## House Do'Urden
+
+House Do'Urden, also known by its ancient and formal name, Daermon N'a'shezbaernon, was a drow house of Menzoberranzan. Upon its destruction in 1339 DR, it was the eighth house. The house was reformed as the eighth house in 1484 DR by Matron Mother Quenthel Baenre.
+
+Headquarters
+Pre-1339 DR
+The Do'Urden compound was located in the district of West Wall in Menzoberranzan. It was in fact built into the wall, with stalagmites forming the posts for the main gate.
+
+The two-level cave complex housed most of the house's residents. The first level featured a maze of tunnels, residences, training grounds, and a two-story chapel along the back wall. No stairs led to the upper level, restricting entrance only to nobles (who had levitation abilities), who could enter through the chapel or front balcony.
+
+The ruling family lived within a set of suites on the upper level. The patron lived in a two-room suite, and the weapon master's three-room suite included private quarters, a training area, and the house's war room.
+
+Post-1339 DR
+After the house was destroyed in 1339 DR, the compound remained in ruins for more than a century. House Barrison Del'Armgo and House Melarn used the ruins as training grounds for their troops until 1484 DR, Quenthel Baenre ordered Bregan D'aerthe to clear the grounds in preparation for the house's restoration.
+
+History
+
+Rise of House Do'Urden
+House Do'Urden was ranked tenth house in the city until 1297 DR. In that year, the day on which Drizzt Do'Urden was born to Matron Mother Malice Do'Urden, House Do'Urden attacked House DeVir, the fourth house. Using the power involved in Drizzt's birth, Malice and her priestesses were able to create a spell capable of defeating House DeVir. With this defeat House Do'Urden became the ninth house. During the battle, eldest son Nalfein, a house wizard, was assassinated by the second son Dinin.
+
+House Do'Urden was favored by the ruling House Baenre, and therefore by Lolth, for many years. However, during a surface raid, Drizzt saved the life of an elven child (Ellifain), and House Do'Urden lost the favor of Lolth. Other houses discovered the house's fall from grace, and in 1328 DR House Hun'ett began its covert attack on House Do'Urden. To regain Lolth's favor, Malice sacrificed Zaknafein Do'Urden, the father of Drizzt, instead of sacrificing Drizzt. This action was the "last straw" that led to Drizzt deserting Menzoberranzan and wandering the Underdark for a decade. During that decade, House Do'Urden and House Hun'ett continued to feud, neither having the favor of Lolth and each weakening the other but never to the other's victory.
+
+Destruction
+In 1338 DR, House Hun'ett hired Bregan D'aerthe to launch a full-on frontal assault on House Do'Urden. However, Malice entreated Jarlaxle, the band's leader, with a better offer and Bregan D'aerthe turned on House Hun'ett. House Do'Urden won the day and became the eighth house of Menzoberranzan. However, due to the weakened state of House Do'Urden, Matron Yvonnel Baenre ordered SiNafay Hun'ett, formerly the matron of House Hun'ett, to become a priestess of House Do'Urden under the name Shi'nayne Do'Urden. Matron Baenre also insisted that House Do'Urden take care of the renegade Drizzt in order to reobtain Lolth's favor.
+
+Drizzt's siblings Briza and Dinin tracked down their rogue brother in the wilds of the Underdark but failed to bring him home or kill him. Malice took her biggest risk and summoned Zin-carla, a spirit-wraith, to hunt down Drizzt. To gain the power to do this, she sacrificed SiNafay at the altar and used the long-dead body of Zaknafein as zin-carla's host. However, during his trek to hunt down Drizzt, the mind and senses of Zaknafein returned enough for him to jump into an acid pit in order to save his son. Thus, Zin-carla failed and Drizzt was not captured; Lolth's favor was lost forevermore. Briza killed her mother for her failure, becoming the new matron mother, but at that moment House Baenre moved in to destroy House Do'Urden on behalf of Lolth. Vierna and Dinin were taken in by Bregan D'aerthe and survived.
+
+Legacy of the Drow
+In 1357 DR, Vierna tried to rebuild House Do'Urden by attempting to kill Drizzt. With the help of Bregan D'aerthe and Dinin (whom she turned into a drider), she attacked Mithral Hall. During the attack, Bruenor Battlehammer slew Dinin, and Drizzt slew Vierna, leaving Drizzt as the last known surviving Do'Urden.
+
+Reconstruction
+By 1484 DR, soldiers and driders of House Melarn, as well as soldiers of House Barrison Del'Armgo, were using the abandoned Do'Urden compound as a training ground. That year, Bregan D'aerthe soldiers, led by Jarlaxle (named Captain of the Guard), were hired by House Baenre to clear the compound in preparation for the reconstruction and restoration of House Do'Urden as part of Matron Mother Quenthel Baenre's plans to conquer the Silver Marches.
+
+To form the house membership, Quenthel selected a number of drow from other houses, starting with her own sister, Sos'Umptu Baenre, to serve as temporary matron mother. Sos'Umptu was quickly replaced by Dahlia Sin'felle after the latter's capture and corruption at the hands of Gromph Baenre and Methil El-Viddenvelp. Tiago Baenre was to serve as house weapon master after his return to Menzoberranzan. Tos'un Armgo, recently returned from the surface with his daughter, was to serve as house patron. The house's garrison and foot soldiers were taken from Bregan D'aerthe, supported by House Baenre. The house was given a position on the Ruling Council as the eighth house.
+
+Notable members
+
+Pre-destruction (prior to 1339 DR)
+Briza Do'Urden: Eldest daughter of Malice and First Priestess;, last Matron Mother, killed by Jarlaxle of Bregan D'aerthe in 1339 DR.
+Dinin Do'Urden: Second-born son of Malice; Forsook his house in the downfall and joined Bregan D'aerthe; later turned into a drider by his sister, Vierna, and killed by Bruenor Battlehammer.
+Drizzt Do'Urden: Third-born son of Malice and son of Zaknafein; renegade wandering the Surface.
+Malice Do'Urden: Matron Mother from 918 DR to 1339 DR; killed by Briza just before the house's fall.
+Maya Do'Urden: Third daughter of Malice; killed during the houses's fall.
+Nalfein Do'Urden: Firstborn son of Malice, killed by Dinin in 1297 DR.
+Ozomar Do'Urden: House wizard, formerly of House Druu'giir.
+Rizzen Do'Urden: House patron; killed by the spirit-wraith Zaknafein under the orders of Matron Malice.
+Shi'Nayne Do'Urden: Formerly known as Matron SiNafay Hun'ett, was adopted into House Do'Urden following the fall of her house. Sacrificed by Malice to resurrect Zaknafein through Zin-carla.
+Vartha Do'Urden: Former Matron Mother until 918 DR; died unexpectedly, thus making way for Malice.
+Vierna Do'Urden: Second daughter of Malice, and Drizzt's only full-blood sibling; killed by Drizzt in 1357 DR.
+Zaknafein Do'Urden: Weapon master and former house patron; father to Drizzt and Vierna; sacrificed to Lolth by Malice in 1338 DR.
+
+Post-reconstruction (1484 DR)
+Sos'Umptu Baenre: First (and temporary) matron of the new House Do'Urden.
+Dahlia Sin'felle: New matron mother.
+Jarlaxle: Captain of the Guard.
+Tiago Baenre: Weapon master.
+Tos'un Armgo: House patron.
+Tsabrak Xorlarrin: Originally called to be house wizard.
+Ravel Xorlarrin: Rumored to become house wizard.
+
+Family Tree
+
+Appendix
+Gallery
+
+Further reading
+
+References
+
+de:Haus Do'Urden
+
+---
+
+## House Elec'thil
+
+House Elec'thil was a drow house of Menzoberranzan.
+
+History
+Between 1327 DR and 1367 DR, the house was soundlessly obliterated from the streets of Menzoberranzan by House Agrach Dyrr.
+
+References
+
+---
+
+## House H'kar
+
+House H'kar was a drow house in Menzoberranzan.
+
+Members
+Khareesa H'kar
+Drow slaver, killed by Bregan D'aerthe soldiers
+
+Krilelyn H'Kar
+An elite warrior of Bregan D'aerthe
+
+Appendix
+Appearances
+Out of the Abyss
+Starless Night
+
+References
+
+---
+
+## House Hun'ett
+
+House Hun'ett was an extinct drow noble house of Menzoberranzan. It was formerly the fifth house.
+
+Members
+ SiNafay Hun'ett: Matron Mother, adopted as Shi'Nayne Do'Urden of House Do'Urden after Hun'ett's fall.
+ Masoj Hun'ett: Apprentice to Gelroos, killed by Drizzt Do'Urden
+ Gelroos Hun'ett: "The Faceless One", slain by Masoj.
+ Alton DeVir: Took the identity of Gelroos and adopted into House Hun'ett after House DeVir fell.
+ Dipree Hun'ett, slain by Bregan D'aerthe; the first noble casualty of the Do'Urden-Hun'ett war after Drizzt's departure from his House ten years prior.
+
+Appendix
+
+Appearances
+
+References
+
+de:Haus Hun'ett
+
+---
+
+## House Masq'il'yr
+
+House Masq'il'yr was a deceased drow house of Menzoberranzan.
+
+Description
+House Masq'il'yr was one of the seven founding families of Menzoberranzan. It fell during the wars with House Nasadra when the city was still young. Some of the priests and priestesses of this survived as ghauropers in an underwater temple beneath Donigarten. They were worshipers of Ghaunadaur.
+
+Appendix
+
+References
+
+---
+
+## House Mlin'thobbyn
+
+House Mlin'thobbyn was a drow house of Menzoberranzan.
+
+History
+By 1367 DR, House Mlin'thobbyn and the houses of Celofraie and Syr'thaerl were defeated by House Agrach Dyrr.
+
+References
+
+---
+
+## House Oblodra
+
+House Oblodra was a deceased drow house of Menzoberranzan.
+
+Base
+House Oblodra's compound was located in the district of Duthcloim (often referred to as Manyfolk), where it clung to a cliff face between the two "fingers" of the Clawrift. Its compound was small but protected on three sides by the Clawrift and guarded by soldiers on the other side. Most of the Oblodrans' slaves were kobolds kept in pens and tunnels in the Clawrift. Although the Oblodrans claimed to have only 600 kobolds, the Clawrift was capable of holding ten of thousands more, and many houses suspected they were lying.
+
+Although the  diamond-shaped compound was small, it was quite spacious relative to the number of inhabitants. Even lower-ranked drow had private chambers.
+
+Activities
+
+House Oblodra was gifted in the rare art of psionics and its members were known for their fanaticism to psionics. They were considered reckless and insane by the rest of the city. It was rumored that the house sent its daughters away to train with (and even breed with) illithids. The House was very secretive.
+
+House Oblodra's garrison was always smaller than that of other, lesser houses, in part because of soldier's participation in a dangerous duelling game called Khaless. Participants levitated in a magically darkened and silenced area over the Clawrift; the first drow to leave the area (either by giving up or falling) lost. Many participants failed to adequately time their levitation and fell to their deaths. Winners were given various luxuries; losing survivors were forced to clean kobold pens. Oftentimes, however, there were no survivors.
+
+House Oblodra backed the Brown Mushroom Mercantile Company.
+
+History
+In 568 DR, illithids from Phanlinksal attempted to invade Menzoberranzan. The Menzoberranyr defeated the invading illithids at the Cavern of Severed Tentacles and fed the dead illithids to vampiric illithids that House Oblodra kept as pets as the surviving captives watched.
+
+House Oblodra used its wild talents to ascend to the third house of Menzoberranzan by 1297 DR, obliterating many of the houses that stood in their way. Despite having smaller forces than houses behind them, matron mother K'yorl Odran's wiliness in politics, as well as her skill in psionics, kept the house secure in its position.C
+
+For much of history, the illithid Sept of Ill'Ghact desired to destroy House Oblodra. However, when Methil El-Viddenvelp discovered in the 1340s DR that illithid tadpoles could be implanted in the drow psions of the house, the sept changed their opinions and began seeking the most powerful members of the house to use as hosts. A number of illithids that were notable in later years were spawned from Oblodran nobles during this year, including Galgast and
+
+During the Time of Troubles (1358 DR), when magic was unpredictable, House Oblodra briefly became the most powerful house in the city. They attacked House Faen Tlabbar and killed K'yorl's rival, Ghenni'tiroth Tlabbar. K'yorl then gathered the Ruling Council in order to place her claim as ruler of the city. However, in the meantime, Lolth made a deal with the balor Errtu, who sent demons to aid House Baenre, led by Yvonnel Baenre, and attack House Oblodra. Yvonnel summoned a tentacle from the Abyss to sweep the entire house into the Clawrift. K'yorl remained alive, but Yvonnel banished her into the Abyss to be tortured for eternity by Errtu. One of the other few survivors, Kimmuriel Oblodra, was taken in by Bregan D'aerthe and later became one of the band's leaders.
+
+After the fall of House Oblodra, undead Oblodran priestesses were believed to haunt the Clawrift as witchlins, stalking the kobolds that lived in the Clawrift.
+
+In the late fifteenth century, the priestess Minolin Fey-Branche contemplated releasing K'yorl from the Abyss in hopes of House Baenre being destroyed. However, she feared Lolth's wrath if she did so.
+
+Former Members
+ Araj Oblodra: The last self-proclaimed surviving daughter of House Oblodra by the late 15 century DR.
+ Drizfryn Oblodra: Secondboy (K'yorl's fourth son) weapons master.
+ Hazaufein Oblodra: Elderboy and house wizard.
+ Jalynfein Oblodra: An echo in the Gravenhollow in the late 15 century DR.
+ K'yorl Odran: Matron Mother from 961 to 1358 DR.
+ Kimmuriel Oblodra: Survivor of the fall of his house; member of Bregan D'aerthe.
+ Quavylene Oblodra: K'yorl's daughter and First Priestess.
+ Tsabanor Oblodra: House patron.
+
+Appendix
+Appearances
+
+Further reading
+
+References
+
+---
+
+## House S'sril
+
+House S'sril was a deceased drow house of Menzoberranzan. It existed when the city was first founded but a lack of noble heirs led to its extinction.
+
+Appendix
+References
+
+---
+
+## House Syr'thaerl
+
+House Syr'thaerl was a drow house of Menzoberranzan.
+
+History
+By 1367 DR, the house was annihilated with the houses of Celofraie and Mlin'thobbyn by House Agrach Dyrr.
+
+References
+
+---
+
+## House Teken'duis
+
+House Teken'duis was formerly a noble drow house in the district of West Wall in Menzoberranzan.
+
+Headquarters
+House Teken'duis resided in a two-stalagmite compound in the northwest part of the city in West Wall.
+
+History
+House Teken'duis was the seventeenth house in 1297 DR. After the elimination of House DeVir, it became the sixteenth house.
+
+In 1319 DR, House Teken'duis attempted to attack and defeat House Freth. However, it failed to eliminate all noble witnesses of the attack; two females and a male. Thus, all members of the house were executed by the Ruling Council. House Baenre made a public spectacle of this execution: The Mistresses of Arach-Tinilith opened portals to the lower planes, and conjured demons to aid in the execution. Together with the students and masters of Melee Magthere and Sorcere, they overran the house and slaughtered the entrenched drow.
+
+The ruined manor remained abandoned in West Wall.
+
+Appendix
+References
+
+de:Haus Teken'duis
+
+---
+
+## House Thaeyalla
+
+House Thaeyalla was a deceased drow house of Menzoberranzan filled with many great wizards.
+
+History
+Founding of Menzoberranzan
+Just prior to the founding of Menzoberranzan, Menzoberra's legion of drow fought the beholder known as Many Eyes. After the death of countless drow, only seven families stood beside Menzoberra: House Baenre, House S'sril, House Nasadra, House Uusralla, House Tucheth, House Masq'il'yr and House Thaeyalla.
+
+Downfall
+After Menzoberranzan was established, House Nasadra (which was mainly made up of priestesses) ordered around those of House Thaeyalla (which had many talented wizards). The events escalated until the wisest wizard of House Thaeyalla was tortured to death. The members of House Thaeaylla were not happy with this, and went to Menzoberra herself. Menzoberra called to Lloth, and decided that the Nasadra were in the right. In response, House Thaeyalla flocked to a cavern, which was later blasted to pieces, killing off most of the families and Menzoberra to boot.
+
+Appendix
+References
+
+---
+
+## House X'larraz'et'soj
+
+House X'larraz'et'soj was a former drow house of Menzoberranzan. It was defeated by House Baenre.
+
+History
+Upon the birth of Gromph Baenre, the matron mother of this house granted him a wand of viscid globs. However, House Baenre themselves destroyed House X'larraz'et'soj just one year later, meaning that Gromph had to say that he found the wand whilst cleaning an attic in House Baenre.
+
+Known Members
+ X'larraz'et X'larraz'et'soj, matron mother
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Cedars
+
+The House of Cedars was a rustic lodge located on the hillside of a headland in northern Evermeet. It had an open design with many balconies and colonnades, and featured a waterfall running through its center.
+
+Appendix
+
+References
+
+---
+
+## House Miritar
+
+House Miritar was an elven clan on the island of Evermeet. Since the 9th century DR, they looked after the northern fishing town of Elion and its surrounding area. Around 1374 DR, the house occupied by the clan was called Seamist.
+
+History
+Originally from Cormanthor, the Miritars fled Myth Drannor when the city fell.
+
+Members
+ Seiveril Miritar
+ Ilsevele Miritar
+ Ilyyela Miritar
+
+Appendix
+References
+
+---
+
+## House Dlardrageth
+
+House Dlardrageth was originally a sun elf house of Cormanthor and a proud and powerful family in ancient Arcorar until they chose to give themselves to demons, courting incubi and succubi, in an attempt to strengthen their line to gain the power necessary to seize the throne and rebuild the ruin of Aryvandaar. They were discovered by the Coronal and their house was destroyed, most of the members being imprisoned magically inside Arcorar's keep, but some escaped to ancient Siluvanede, where they turned some other houses to evil. The emblem of the House is a dracophoenix.
+Their numbers, amongst others, constitute the daemonfey. The Dlardrageth tower near Myth Drannor has long since been abandoned.
+
+History
+
+Over hundreds of years, the house was responsible for the corruption and poisoning of the houses of Reithel, Yesve and others of Siluvanede and the destruction of Sharrven. They were bound and imprisoned after committing these acts, and the last mention of the house was in relation to the Seven Citadels' War, which the house provoked, but they were found out soon after, being imprisoned beneath Ascalhorn.
+
+In 1369 DR the Harpers destroyed Hellkeep Gate and surviving daemonfey of House Dlardrageth were freed after millennia of imprisonment Brian R. James, Ed Greenwood (September 2007). The Grand History of the Realms. Edited by Kim Mohan, Penny Williams. (Wizards of the Coast), p. 150. ISBN 978-0-7869-4731-7.
+
+Members
+ Sarya Dlardrageth, head of the house
+ Lilianviaten Dlardrageth
+ Saelethil Dlardrageth
+ Tarkhaan Dlardrageth, who fled after the defeat in the Cormanthor War
+ Bishtek Dlardrageth, son of Tarkhaan
+ Ryvvik Dlardrageth, son of Sarya
+ Khuumal Dlardrageth, twin brother of Sarya, sire of Xhalth
+ Xhalth Dlardrageth or Xhalh, son of Khuumal, son of Sarya
+ Teryani Ealoeth, daughter of Xhalth
+Aliisza Dlardrageth consort of  Kaanyr Vhok.
+
+Appendix
+
+Gallery
+
+References
+
+FR:Maison Dlardrageth
+
+---
+
+## House of Long Silences
+
+The House of Long Silences was an ancient ruined palace made of white stone located in the Ardeep Forest.
+
+Around 1374 DR, many of the palace's walls were overgrown with ivy.
+
+References
+
+---
+
+## Holly Harrowslough
+
+Holly Harrowslough was a paladin of Lathander and a member of the Order of the Aster.
+
+Description
+She had dark brown skin and bushy brown hair that she cut short. Her dark brown eyes sparkled with life. She had a tall (5'10"), sturdy frame and a muscular build. When going into battle she donned full plate armor.
+
+History
+Holly's father was a faris (a holy warrior) from Zakhara and her mother a farmer from Daggerdale. Holly's father taught her a strong respect for justice and law, and told wonderful tales of the holy and just knights of his distant homeland, dedicated to his god, Hajama the Courageous.
+
+Both Holly's mother and father were supporters of Randal Morn's rebellion against the occupying forces of Zhentil Keep, which controlled the dale under a puppet ruler. Holly accompanied her father on raids and helped her mother patch the wounds of others from those raids, so that the young woman learned early in life both the martial and healing arts.
+
+At fifteen, Holly joined the Order of the Aster, a fellowship of knights dedicated to Lathander's church, which held similar beliefs to Hajama's. Shortly thereafter, she journeyed to Shadowdale to receive religious training at the temple of Lathander. While Holly was in Shadowdale, Holly's parents, uncle, and grandmother were killed in an orc raid on their Daggerdale farm. The orcs had been equipped and supported by agents of Zhentil Keep.
+
+Holly was given leave to aid Randal Morn in his rebellion against the Zhentilar and served the rebel lord as a messenger, warrior, and spy. She proved extremely capable in the last role, owing to her youth and innocent appearance. During the rebellion against the Zhentilar, Holly was chosen by Lathander to prevent the resurrection of the evil god Bane, and she joined Joel to achieve that end. Joel often compared the paladin's relationship to Lathander with his own relationship to Finder.
+
+Appendix
+Appearances
+Novels
+Finder's Bane • Tymora's Luck
+
+References
+
+---
+
+## Horse Prairie
+
+The Horse Prairie was an area of land on the Dragon Coast. The Horse Prairie ran from the Castaway Coast on the Dragonmere in the north, to the Giant's Run mountains to the south, and from Elversult in the west to Teziir in the east.
+
+Appendix
+References
+
+---
+
+## House of the Bright Blade
+
+The House of the Bright Blade, run by Zespara Alather, was perhaps the most famous shop in Mirabar among humans. It was widely renowned as the best shop to get a sword that seemed as if it were custom-forged for its wielder.
+
+Interior
+The front room of the shop was lined with polished, paneled wood and a continual light spell was cast upon the cieling to illuminate the room. It glittered with the steel of hundreds of swords and daggers of all sizes, finishes, and prices.
+
+A unique spell cast upon the room by a wizard friend of hers allowed Zespara to telekines to her hand any weapon that she had a hand in creating. This allowed her to impress customers as well as defend herself.
+
+In the hallway between the shop and its smithing area there was a trapdoor on the floor that allowed entrance to an ancient temple.
+
+History
+The House of the Bright Blade was built atop an ancient temple of Auril. In the mid-14 century DR, followers of the Frostmaiden kept appearing inside the underground temple, both to worship her and to attack its walls with picks in search of something. It is unknown what they were searching for, but they were frequently driven out by the apprentices of Zespara and the dwarven artisans of the First Below.
+
+Defenses
+The front room of the store was guarded by ten female warriors, six of them outfitted in full plate and four of them unarmored. All were former thieves undercover and armed with a wand of paralyzation. They generally stood outside the store, lying in wait for any thieving patron that might try to dash out the door.
+
+Inhabitants
+The store was chiefly run by Zespara and her bearded she-dwarf companion Calauthra Morgyr. The smithy also employed two female humans and four female dwarves.
+
+Appendix
+
+References
+
+---
+
+## Holfast Harpenshield
+
+Holfast Harpenshield was a retired adventurer who ran the White Hart Inn in Ashabenford, Mistledale, around 1372 DR.
+
+He gladly served all good folk who came to the inn. As he enjoyed the company of adventurers, Holfast freely shared information and advice with those passing through his inn. However, he was known for sporadically throwing out merchants from Sembia or the Moonsea, depending on whether or not he liked their demeanor.
+
+References
+
+---
+
+## Horse
+
+Horses on Toril came in a number of breeds, of varying size and demeanor. They were often used by humanoid races for riding, the pulling of carts and wagons or other forms of work.
+
+Description
+Horses were classified in a number of different manners. Chargers, or more plainly warhorses were those horses bred to ride in battle. Light warhorses were referred to as coursers while heavy warhorses were known as destriers.
+
+Behavior
+Some of the best-trained horses were trained by the elven House Korianthil.
+
+Reputation
+Horses were considered sacred to many faiths of Faerûn. Warhorses were important to followers of Anhur, the Red Knight, and Tempus. Pinto and piebald horses were particularly favored by Deneir; palomino horses to Waukeen. Gray-haired horses were sacred to Mask, while white ones were sacred to Milil, and chestnut-colored horses to Sune. Mystra favored donkeys, horses, and mules with blue or mismatched eyes. Intelligent horses were also native to the celestial realms of Sehanine Moonbow.
+
+Horses were a kind of novelty for Thymari dragonborn, as such beasts weren't common in Abeir. As such, horses, specially warhorses were highly valued by Thymari, who cared for them as precious friends.
+
+History
+A white horse was the symbol for the sun elf house of Evanara.
+
+Horses were unknown in Maztica prior to the arrival of the Golden Legion in 1361 DR. The Golden Legion used them in battle against the Mazticans, who were shocked by them and had no experience in fighting cavalry before.
+
+Notable Breeds
+Horses
+Heavy horses
+ Amphailan • Cream draft • Ishen-Charac • Kromlor • Miradan's breed • Nars • Phlan cart horse • Sembian draft • Tendal
+
+Heavy warhorses
+ Amphailan Black charger  • Arkaiun courser • Cormyrean destrier • Ostorian • Tantran Destrier • Tharurr • Tuigan courser • Ishen-Charac •
+
+Light horses
+ Amphail Gray • Baldurian Rider • Barrowright farm horse • Chionthar • Cormyrean Strider • Darromar • Esmel long rider • Fox Trotter • Halruaan • Lhesperan • Mintan • Mucklestone • New Forest • Semphari • Shaaran zebra • Shire riding horse • Sosser • Steppe horse
+
+Light warhorses
+ Calimite • Dambraii • Duskwood skewbald • Emberhawk • Golden Trotter • Ixinosia Longhair • Meth • Raurin • Shad'iar • Thayan Black • Vilhon riding warhorse
+
+Other
+ Amphail fancy • Carmathan Red • Nathoudi stallion • Plainsteed
+
+Ponies
+Ponies
+ Dales pony • Forest pony • Island pony • Orsraun pony • Mountain pony • Nether pony • Shire pony • Snowflake Mountain pony • Sunrise pony • Wild pony
+
+War ponies
+ Hammer pony • Whiteshield
+
+Other
+ Donkey (Uglib) • Gens D'Or • Moon-horse • Pixie breed horse
+
+Appendix
+See Also
+Nightmare • pegasi • unicorn • asperii
+
+Gallery
+
+Further Reading
+
+  - Separating the stallions from the swaybacks.
+  - A short description of two pleistocene horses
+  - Advice on painting miniatures.
+  - Five horse-like creatures.
+  - Rules and tables for horse traits and tricks.
+  - Over 20 items for horses.
+
+References
+
+---
+
+## Hotun-Shûl
+
+Hotun-Shûl was a large, underground giant temple beneath the Ice Spires.
+
+Description
+The walls of Hotun-Shûl were roughly  wide and tall, with the topmost  being lined with hundreds of friezes that depicted the history and accomplishments of the giants. The friezes also depicted the history of their chief giant deity Annam All-Father and his progeny, such as his retribution against Ulutiu.
+
+Three rooms in the temple were dedicated to the three most important runes of the giants, representing the cycle of life and death. Each of these rooms were lined with friezes that depicted the giant language, along with a common translation beneath them.
+
+In the centuries following its destruction, many areas within the temple became wild magic and dead-magic zones.
+Interior
+Rotunda: the temple's central rotunda was  wide, with a glass domed ceiling that reached just as high. In the center of the room was a  tall statue of a kneeling giant, with large carved diamonds for eyes; the statue was a depiction of Illsenstaad paying his respects to the ancestors of all giant-kind. In the statue's right hand was held high a bowl of blue flames, while in its left was a  wooden pole capped with short, iron spikes engraved with the rune Haug (hill). This pole was enchanted to gift its wielder the strength of a hill giant, but it would permanently lose this enchantment if removed. Only by rotating this statue to face the north could the rotunda's barred concave door be opened.
+
+Hall of the All-Father: directly outside the rotunda was a hall lined with friezes that depicted Annam All-Father's arrival to Faerûn, his marriage to Othea, and the birth of his children. In the center was a  wide fresco of a white-haired, blue-robed giant with fire opals for eyes. Anyone that attempted to steal these opals would be crushed beneath a  block of stone.
+
+Halls of the Progenitors and Afterlife: the area west of this hall was lined with friezes that depicted the progenitors of the various giant races, including Arno and Julian and Vaprak. The area to the east of it had friezes that depicted all giant and giant-kind races feasting together merrily at a long table in the afterlife of Ysgard.
+
+Hall of the Hartkiller: the hall of the progenitors led into a room whose friezes depicted the story of Hartkiller.
+
+Unfinished Hall: the hall of the afterlife led into a room that was still being constructed when the temple was destroyed. It was a largely featureless space, full of piles of decayed scaffolding and stone carving tools fit for a giant. The friezes in it were incomplete, only covering a third of the room, and depicted the history of the ettins and cyclopes. The room extended out to two other rooms, but one of these halls became blocked following the temple's destruction.
+
+Hall of the Trolls: one of the rooms that the unfinished hall connected to was lined with carvings that depicted a cruel, black-skinned giant who is cursed to live forever, standing atop a pile of his own limbs. In the center of the room was a  black obelisk adorned with a wide variety of gemstones. Anyone who attempted to steal these gemstones would activate a spell of reverse gravity, surely killing them.
+
+Hall of Death: the other room that the unfinished hall once connected to was one of the three master rune rooms. The word friezes that lined its walls cataloged the time, place, and manner of death for thousands of giants. In the center of the room laid a crude chunk of obsidian that depicted a giant holding Dod, the giant rune that represented "death." The giant is shown casting light from the rune down upon a group of dead animals and plants, while other giants stand aside aghast at the sight.
+
+Hall of Life: the hall of hartkiller led into one of the three master rune rooms. Its walls had thousands of crystals embedded into them and word friezes that documented the births of thousands of giants, as well as where they lived. In the center of the room was a large slab of alabaster that depicted a giant holding Liv, the giant rune that represented "life." Basking in its radiance around him were animals, flowering plants, and younger giants.
+
+Hall of Journey: adjacent to the hall of the ordning and the hall of the seven stones was one of the three master rune rooms. The word friezes that lined its walls documented giant accomplishments across the ages, such as frost giant victories, revelations made by stone giants, and great things forged by fire giants. In the center of the room stood a perfectly-square slab of forged iron that depicted a giant hammering upon Ferd, the giant rune that represented "journey," on a glowing red anvil.
+
+Illsenstaad's Chambers: one the friezes in the hall of journey had a secret sliding mechanism that revealed the living quarters of the master stone giant artisan Illsenstaad, whose bones could be found piled in a corner centuries after the temple's destruction. Every surface of the chamber was etched with a wide variety of engravings - writings, pictures, and geometric designs.
+
+Hall of the Ordning: the hall of life led into a room lined with friezes that depicted Annam growing increasingly weary of his progeny's bickering, until finally creating the Ordning. At this final moment his six children are shown hanging their heads in shame.
+
+Hall of the Seven Stones: the hall of journey led into a room with a carving on its southern wall that reached up higher than any carving in the temple. It depicted a tall, thin Obadai instructing a circle of seven stone giants to contemplate the surface world; it represented the Seven Stones enclave. Six of the giants each express a different emotion, while a thin seventh giant watches over his peers whilst leaning upon a cane.
+
+History
+The countless friezes in Hotun-Shûl were carved by Illsenstaad, who had been charged by his father Obadai with documenting the history and accomplishments of the giants. Prior to its destruction the temple was a place of learning and it was in its halls that the first runecasters among the giants learned their magic.
+
+Around the 10 century DR, 400 years prior to 1366 DR, the temple was ransacked, by a group of grimlocks with earth magic and elementals. However, the grimlocks' involvement in the temple's destruction would be unknown for centuries.
+
+At some point prior to its destruction, Skrom Jek of Thay wrote a book on the temple entitled, The Meanderings Upon the Friezes of Hotun-Shûl.
+
+In the centuries that followed its destruction the ghost of Illensenstaad worked tirelessly to carve runes into the statue that laid in the temple's central rotunda, eventually transforming it into a rune-forged guardian to protect his temple.
+
+Around the late 15 DR, seismic activity caused the temple to become unearthed. This attracted the attention of many drow, grimlocks, and giants around the Ice Spires region.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Horus-Re
+
+Horus-Re,  known as Helcaliant in Thay and Hokatep in Unther, was the leader of the Mulhorandi pantheon. Once the change-promoting deity simply known as Horus, the young god received the powers and personality of his slain father Re, becoming a more staunch traditionalist.
+
+Description
+
+Horus-Re usually appeared as a Mulan human possessing the head of a hawk.
+
+Manifestations
+The will of Horus-Re could be communicated through the actions of animals such as hawks or creatures such as solars and lammasu. The sun represented Horus-Re in the day, and a shooting star signified his presence at night. The sky darkened if a follower failed to carry out the will of the Lord of the Sun, while a thunder clap was a sign of Horus-Re's favor. It was said the sun would go dark if Set usurped Horus-Re's position. The eye of Horus-Re was often signified by a circling hawk, and the cry of a hawk signified the fitting punishment of a criminal.
+
+Powers
+Horus-Re was able to project a ray of damaging light from his eye.
+
+Possessions
+Horus-Re rode the airborne galley Matet (or Semktet) and carried a glowing ankh. His ankh had the ability to destroy undead, and he wielded the Sword of Horus in battle.
+
+Relationships
+Horus-Re's allies included Isis, Osiris, and Thoth, though all the Mulhorandi pantheon accepted his commands. Lathander saw Horus-Re in a sympathetic light, favoring his old personality that was closer to his own.
+
+Horus-Re's opposition to change often brought him into conflict with Anhur, and he did all he could to thwart the actions of Set.
+
+In terms of servants, like the other Mulhorandi powers Horus-re was served by divine minions. He also had an army of einheriar under his command known as the Horusyr, who unlike other einheriar they had the unique ability to shapechange into giant hawks.
+
+Worshipers
+Worship of Horus-Re was most likely among nobles and the elite of Mulhorandi society. Most individuals serving in a government position considered themselves a follower of the Pharaoh of the Gods.
+
+Clerics of Horus-Re typically wore white linen skirts and sandals. Some wore wigs over shaved heads, topped by a headdress. Like all priests of Mulhorand, they painted three circles on their forehead to symbolize their divine calling. They might don false beards for official occasions.
+
+When the clergy of Horus-Re prepared for combat, they selected equipment practical to the situation. They preferred light armor, and always wore some form of headdress.
+
+Clerics of Horus-Re prayed for spells as part of the Zenith Aspirant, when the sun was at its highest point in the sky.
+
+Church of Horus-Re
+
+The position of priest in the church of Horus-Re was hereditary; members belonged to the House of Helcaliant, and could claim at least one divine incarnation of Horus-Re among their ancestors. The church of the Lord of the Sun was the leading political body in Mulhorand; it was led by the pharaoh, Horustep III, and the vizier Kalarzim.
+
+The clergy of the church of Horus-Re traditionally spent its time serving in government positions, but were slowly turning their attention to spreading the worship of their deity.
+
+Priests of Horus-Re were usually nobles. They tended to be arrogant and expected to receive special treatment from those with lesser standing, and were often motivated by political gain as much as divine calling.
+
+Temples dedicated to Horus-Re often served in an official government capacity, in addition to being a center of worship. All such structures stressed openness and justice in their construction. The primary temple and center of the church of Horus-Re, the Solarium of Skuld, was located in the capital city of Skuld.
+
+The Church of Horus-Re began expanding into Unther in the wake of the Time of Troubles.
+
+Orders
+The church of Horus-Re served as the government of Mulhorand.
+
+ Claws of the Sun and the Ankh This organization was composed of paladins of Horus-Re, who devoted themselves to their divine responsibilities rather than the politics of the nation.
+
+Celebrations
+The followers of Horus-Re performed three celebrations daily.
+
+ Greeting of the Lord Each morning, the faithful of Horus-Re celebrated the rising sun.
+
+ Zenith Aspirant The clergy of Horus-Re performed a daily sermon when the sun was at its highest point.
+
+ Girding of the Guard The clergy of Horus-Re took up weapons every evening to defend their nation throughout the night.
+
+ Midsummer's Day Priests of Horus-Re spent the day praising the Lord of the Sun. The government of Mulhorand was shut down during this time.
+
+ Solar Eclipse A solar eclipse signified Horus-Re's right to rule. Priests of the Master of Vengeance sought to thwart the servants of Set on such days.
+
+History
+Horus was originally a young deity that often sided with Anhur in pressing change to his father, Re.
+
+During the Mulhorandi uprising against the Imaskari, it was Horus that slew Lord Artificer Yuvaraj in . When Re was defeated by Gruumsh during the Orcgate Wars, the failing deity passed his powers and domain to Horus before passing on. Upon gaining this power Horus became Horus-Re, and began exhibiting the personality traits and beliefs of his dead father.
+
+During the Second Sundering, Horus returned as a separate entity from Re along with other deities from the pantheon in the form of demigods and led the Mulhorandi uprising against the Imaskari, in a manner similar to how the Chosen manifested in other regions. As of 1489 DR, Mulhorand was led by the returned pantheon, who temporarily set their differences aside for the good of the Mulhorandi people.
+
+Appendix
+Gallery
+
+References
+
+Connections
+
+---
+
+## Homfast
+
+Homfast was a Sembian who was alive around 1188 DR. He participated in the discussions with King Pryntaler Obarskyr in an attempt to acquire the city of Marsember. The others in his group were Kodlos, Lady Threnka, Bennesey, and Jollitha Par.
+
+References
+
+---
+
+## House of the Wise Unicorn
+
+The House of the Wise Unicorn was a rental club in Nesmé run by Nistlor Lothlyn, who was assisted by sixteen guards. No spellcasting was allowed within the premises.
+
+Services
+It cost 5 gold pieces per night to rent a room and the Unicorn offered drinks by the bottle.
+
+Appendix
+
+References
+
+---
+
+## Horlo Aumrabbar
+
+Horlo Aumrabbar was a member of the adventuring band known as the Company of the Cloak.
+
+Activities
+He was the soft-spoken deceiver within the band. A worshiper of Mask, he influenced Mhair Gulzrabban to act in a more subtle and patient manner. After setting up several caches of wealth throughout the Western Heartlands, Horlo planned several means of betraying Mhair and his lover Sharaera should they ever act too boldly for his taste. One of his plans involved the Red Wizards of Thay.
+
+Abilities
+Along with all of the other members of the Company of the Cloak, Horlo possessed an immunity to oil of taggit (which caused unconsciousness).
+
+Possessions
+Horlo wielded a keen longsword and possessed a candle of truth and a chime of opening.
+
+Appendix
+Reference
+
+---
+
+## Horizon walker
+
+The path of the horizon walker was one taken by adventurers whose goals were to explore and map out the plethora of environments within and even beyond the Prime. Those explorers who had an irresistible sense of curiosity and wanderlust to travel took on the path in order to gain an innate connection to their surroundings, whatever those surroundings might be. As horizon walkers became more experienced, they treated their surroundings as part of themselves, which gave them special abilities and senses to protect them from the dangers of incessant travel.
+
+Culture
+Few things surprised a horizon walker, for there was little that hadn't already been experienced by such an individual. The only thing that truly piqued a horizon walker's interest was the truly unknown, which unfortunately became harder and harder to find for an experienced seeker of the unknown and untraveled. This knowledge aided those who would seek a horizon walker's wisdom, for the horizon walker was an unsurpassed guide and vanguard, which could be the single difference between life and death in the woods of the Feywild or the wastes of the demon-infested Abyss.
+
+Though the majority of horizon walkers had some training as rangers, many also had a degree of experience as bards, barbarians, or even druids. Bards were attracted to the path as keepers of forgotten lore and natural wanderers, and barbarians were attracted by a similar pull. Those few druids who took up the role of a horizon walker were also drawn by a sense of wanderlust, though their commitment to the natural world and its defense made their numbers relatively few. Most horizon walkers, regardless of their origins, saw one another as a kind of loose brotherhood, a bound network of warriors who pushed the limits of what was unknown and what had been discovered.
+
+Abilities
+
+So difficult was the path of a horizon walker that most who choose it already had a large degree of expertise about the local geography of their world, as well as a capacity for punishment. Though horizon walkers drew initially from physical ability and personal training, adherents to the path often gained supernatural abilities as a result of their constant exposure to harsh environments. At its most basic level, this allowed horizon walkers an increased degree of coordination early on, enabling them to act with greater swiftness. For instance, horizon walkers who had traveled the Shadowfell gained the ability to see in the dark, if they did not possess it already, and were generally more conscious of their environment.
+
+In a similar manner, horizon walkers became extremely hardy as a result of their travels along the transitive Astral Sea, recovering from wounds more quickly and becoming overall more difficult for their enemies to finish off. Some horizon walkers also gained a particular resilience against the material that made up a plane, making them more likely to survive hazards composed of this material.
+
+Therefore, it often wasn't very long before horizon walkers eschewed the exploits used by their predecessors and instead chose to use spells charged with arcane power drawn from the planes. Most of these spells had a distinctively planar flavor, such as fey strider, which allowed a horizon walker to teleport from one location to another. Likewise, elemental chaos smite allowed a horizon walker to charge his or her weapon with elemental energy of any kind.
+
+Horizon Walker Spells
+Rangers that chose this path were granted, in addition to those abilities, access to a number of spells, including protection from evil and good, misty step, haste, banishment, and teleportation circle.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## House Starym
+
+House Starym was an ultraconservative and powerful elven noble family that once inhabited the city of Cormanthor (later Myth Drannor) in the elven empire of Cormanthyr. Comprised chiefly of  Gold elves but with some  Moon elves as well, they became discontent when Coronal Eltargrim Irithyl allowed races such as  gnomes,  halflings and  dwarves to inhabit the city. Their reputation as a trusted influential house was destroyed after they attacked the Elven Court, subsequently most of the  gold elves emigrated from Myth Drannor.
+
+History
+The Starym Clan of elves had been in the city of Cormanthor for quite sometime, as a member of the 12 First Houses of Cormanthyr, (in fact, even their rivals admit to Starym being the First house, pinnacle of all that is noble and fine among the elves) but their notable history begins after the Dalereckoning.  Starym, along with other old noble houses, put forward much resistance to the forward-thinking Coronal Eltargrim Irithyl, and vehemently opposed his liberal ideas of opening the capital city to the N'Tel'Quess (the "Not-People"; anyone not an elf), where formerly it was barred against all but the elves. Despite their misgivings and participation in a rebellious attack on the Court that took the lives of many nobles of all the great houses (including the archmage and patriarch Aulathar Orbryn), the Coronal's wishes eventually passed with the Opening in 261 DR, when the city became Myth Drannor.
+
+Angered by this, Starym, along with other minor families and four major houses (Bharaclaiev, Hyshaanth, Rhaevaem, Telynnan) quit the city in 262 DR, leaving behind only small numbers of their people (mostly  gold elves), bound for other more "elven" settlements throughout Cormanthyr and elsewhere beyond the woods.  Starym, as the only "senior" noble house to do so, fell under the law that their lands and properties would remain vacant for three hundred years, at which time, if not reclaimed, would default to the Coronal. Some of the family emigrated to Eaerlann, Illefarn and the Thunder Peaks. Many of the clan's women and children moved south to Semberholme.
+
+In the decades that followed, the Starym clan had to rebuild its honour in the city, and those who stayed behind laboured to do so. They found resolve in both Josidiah Starym and Taleisin Starym, both of great prestige. However, in 500 DR, the house heir Josidiah Starym embarked on a quest to recover the lost Ary'Velahr'Kerym (elfblade) to prove his worthiness to marry Aravae Irithyl, the Coronal's daughter, heir to the throne, and Josidiah's true love. He vowed to return in a century's time.
+
+The three hundred year right to their lands was restored in 523 DR when younger Moon elf members of the clan returned to Myth Drannor and returned the clan to social power. These younger members were an off-shoot of the line tracing back to the Fourth Rysar. The current heir, Josidiah Starym, having left on his famous quest 23 years earlier, left uncertainty about the house lordship, to the dismay of Coronal  Eltargrim, who thought  Josidiah an honourable  elf. As a stalling measure, the Coronal demanded that the current lord draw his family's  moonblade and prove the clan's loyalty to Myth Drannor.
+
+The lord at the time, Illitran Starym indeed would draw the blade, but not before he forged a pact with Moander, disguised as a cleansing ritual, to gain the power to fool the  moonblade and thus his family and the Coronal. The Starym Moonblade, later called Darkmoon, was forged for him and its character-judging abilities were corrupted by Moander. The surrounding Mythal filled the void in the sword's power with a trace of Illitran's spirit and sentience. Illitran easily drew the blade. The blade passed on to Venali, Illitran's son, later (see below).
+
+Josidiah Starym returned to Myth Drannor in 674 DR bringing not the lost Warblade but the Artblade instead. Dismayed as he learned that the Coronal and Aravae Irithyl, his love, had passed, he declined his ascension to Lord Speaker of the house and instead took over the Akh'Faer, becoming Spell-Major and joining the Council of Twelve by virtue of drawing the Artblade. Disgruntled by his replacement, the former Spell-Major Paeris Haladar attempted to slay  Josidiah in 689 DR, but failed.
+
+The Starym Moonblade
+During the assault by the Army of Darkness in 714 DR, Venali Starym hid the Moonblade in the family crypts, more concerned about his wealth than the city's fate.  He was discovered by  fiends, and was forced to imbue within the sword a teleportation ability, which was again corrupted by the Mythal.  A piece of Venali's spirit, a cowardice and sense of self-preservation, accompanied the magic.  Venali escape to safety, but the sword could never teleport into the Mythal again. Venali took the blade with him from Cormanthyr to the Hullack Forest, where he died of a strange wasting disease.
+
+The moonblade passed on to Venali's niece, Seldanna, where it was used for many decades in Seldanna's raids on human and dwarven cities in the approaching Kingdom of Cormyr.  She rebuilt much of the clan's fortunes in this way, and in the sword was imbued her insatiable greed and ability to locate precious metals and gems infallibly.
+
+When Seldanna's family group was eventually tracked down and slain for punishment by a half-elf descended from the Llundlar clan of Myth Drannor, the sword passed to Seldanna's only surviving son, who is known to history only as "the Scourge". The Scourge took his fanatical followers to the Stonelands where he founded the Eldreth Veluuthra, the Victorious Blade of the People.  It was a secret organization of racial hatred that lasted many years beyond the life of the Scourge, who was eventually poisoned by his only child, a daughter known only as "Black Lotus", but not before a strong hatred of non-elves was instilled into the blade.
+
+Black Lotus spent decades fighting madness in attempts to control the intelligent weapon, and eventually succeeded, but not before going insane and completing her family's fall into depravity.  She  terrorized the Inner Sea lands for years before making her return to Myth Drannor, where she would claim her "rightful inheritance".  She was crushed in an abandoned crypt after plundering significant amounts of treasure, and her spirit was entirely consumed in her moonblade, which would later possess the ability to project an image of her that could wail as a banshee. The blade quickly teleported itself from Myth Drannor and sought a new wielder.
+
+Notable Family Members
+"Black Lotus", daughter of the "Scourge", who poisoned her father to acquire the family Moonblade. She died in Myth Drannor, crushed by a fallen crypt, attempting to reclaim her rightful inheritance.
+
+Former Matriarch Ildilyntra Starym, who died fighting the Coronal in the form of a blood dragon when he refused to renege on his decision to open Cormanthyr to non-elves.
+
+Lord Speaker Illitran Starym, who infamously forged a pact with Moander in order to fool his Moonblade and retain power over the house.  He was also the elf who slew Aravae Irithyl, though his treachery was never discovered. His son, Venali, later became head of the house.
+
+Lord Speaker Llombaerth Starym, one of the Masked, who taught Elminster Aumar in Myth Drannor and once attempted to slay the Coronal.
+
+Josidiah Starym (101 DR - 714 DR), the lost heir of the Starym clan who found the lost Artblade and later became Spell-Major and sat upon the Council of Twelve.
+
+"The Scourge", son of Seldanna the Cold and founder of Eldreth Veluuthra (the Victorious Blade of the People), a secret organization responsible for the slaying of many humans and half-elves over the years.
+
+Seldanna Starym, known as "Seldanna the Cold", a Starym exile after the fall of Myth Drannor.  She used the family's moonblade to increase its wealth through raids while living in the Hullack Forest.
+
+Taleisin Starym, clan elder and Lord Protector of the Starym Clan.
+
+Uldreiyn Starym, former Archmage who attempted to slay the Coronal and corrupt the rising of the Mythal in 261 DR. He also slew Aulathar Orbryn in the rebellion.
+
+Venali Starym, heir to the house while Josidiah Starym remains missing. The son of Illitran Starym, he later becomes Lord Speaker and joins the Council of Twelve, where he uses his power to establish Starym influence in other sister cities.
+
+Ysmyrl'da Starym, clan archmage, mother of Josidiah Starym and niece by marriage to Taleisin Starym, the clan elder.
+
+Halueve Starym, upstart clan member who sought revenge on Elminster.
+
+Ilbryn Starym, sought revenge against Elminster.
+
+Avarstanis Starym, time traveled from 750 DR to the year 261 DR to prevent the mythal from being raised in order to help restore his families status.
+
+Relationships with other Houses
+
+Haladar Clan
+The Haladar family fell from grace due to the vengeful attitude of its clan archmage, Paeris Haladar, who, angered by his replacement as Spell-Major by Josidiah Starym, tried to kill him and draw the Artblade.  Deemed unworthy, the Artblade caused him to emanate  dead magic as penance. His family worked hard and 30 years later, thanks to some secret rituals and prayer to Sehanine Moonbow and Mystra, his abilities and honour were restored. He and Josidiah have since healed their rifts, and  Paeris rose to work at his side as Spell-Captain.
+
+Orbryn Clan
+In 261 DR, upon raising of the Mythal, this clan's archmage and patriarch Aulathar Orbryn was slain by Uldreiyn Starym in the rebellion against the Court led by the Starym clan. Since this time, Orbryn and Starym have remained bitter enemies. Their current patriarch, Edwyrd Orbryn refused to acknowledge the house or remain in their presence.
+
+Other Notable Facts
+
+It is rumoured that one of the Starym's famed  moonblades still lies hidden somewhere among the trees of Cormanthor, though they fear that were it found, no family member would be worthy of its use.
+
+References
+
+---
+
+## House Lharithlyn
+
+House Lharithlyn was an elven house in Myth Drannor known for making extremely high-quality musical instruments.
+
+Appendix
+
+References
+
+---
+
+## House Shraiee
+
+Shraiee was an elven house in the City of Song, Myth Drannor, before its fall in the Weeping War in 714 DR.
+
+History
+House Shraiee was known for making extremely high-quality musical instruments. Alongside Houses Lharithlyn and Tlanbourn, the Shraiee family was considered one of the best instrument makes of Myth Drannor.
+
+References
+
+---
+
+## House Tlanbourn
+
+Tlanbourn was an elven house in Myth Drannor before the City of Song's fall in the Weeping War in 714 DR.
+
+History
+House Tlanbourn was known for making extremely high-quality musical instruments. Alongside Houses Lharithlyn and Shraiee, the Tlanbourn family was considered one of the best instrument makes of Myth Drannor.
+
+References
+
+---
+
+## Hook horror
+
+A hook horror (also known as a vulture beak, hacker, or cave dweller) was a large, bipedal subterranean monstrosity that looked like a vulture-like humanoid with bony hooks in place of hands. It was an invertebrate arthropod.
+
+Description
+A hook horror stood about 9 feet (2.7 meters) tall and weighed around 400 pounds (181 kilograms), with a head like a vulture, a neck of crested feathers, and the body of a beetle, whose mottled gray, chitinous exoskeleton was extremely thick and dense and covered with sharp studs. The exoskeleton could be removed from a hook horror and transformed into tough armor. Instead of hands, paws, or claws, its front limbs ended in 12-inch-long (30 centimeters) razor-sharp, blade-like gray metallic hooks, surrounded by red feathers. These hooks were the hook horror's primary method of combat. Its legs were similar to those of a bird, and its head was shaped like that of a vulture, including the hooked beak. Its eyes were multifaceted like those of an insect.
+
+Biology
+
+The hook horror was especially susceptible to diseases and parasites. They had a life expectancy of less than forty years.
+
+Hook horrors needed to molt to shed their hard exoskeletons after growth occurred. During a period of two days, the old exoskeleton would drop off in flakes, while a new one formed underneath. For a period of a few days after the old exoskeleton had been completely shed, the hook horror's new one was soft and it was much more susceptible to damage.
+
+Senses
+Hook horrors did not see well at all, but their hearing was extremely acute and they had a keen sense of smell. In a cave, hook horrors could produce a high-pitched sound that could not be heard by most other creatures. It enabled them to use echolocation, much like the sonar of a bat, to "see" nearby objects and environments without the need for light. Hook horrors were sensitive to bright light.
+
+Reproduction
+Hook horrors reproduced by laying eggs in a closely guarded central location. The eggs looked like rocks, 3 inches (8 centimeters) in diameter and they were spread among actual rocks in the horrors' cavern for camouflage. They would hatch after six months, producing a 1-foot-tall (30 centimeters) hook horror baby. After a year, it would reach 5 feet (1.5 meters) in height, and would reach its full size after 17 years. It remained with its parents for the first year of life and spent the second becoming more and more independent, before finally no longer needing its parents by the third year. It would seek out a mate of its own from the age of six.
+
+Combat
+
+Hook horrors preferred to ambush their prey from above. They would work together as a group, and if necessary, retreat using their ability to climb. In a fight, a hook horror would use its clawed arms to trip its opponents.
+
+Ecology
+Hook horrors liked to live as families (no more than a dozen) in subterranean caverns, led by the eldest male, and they caught their food by hunting those areas. They slept around half of the time, moving sluggishly when not under threat, meaning that they could survive on relatively little food for their size.
+
+Diet
+Hook horrors were an omnivorous species, though they preferred the meat of whatever creatures they could catch. They would resort to fungi or lichens if they could not obtain meat. It was rumored that they particularly enjoyed eating drow.The "Ecology of the Hook Horror" article in Dragon #131 states that "hook horrors are herbivores" but this is contradicted by Monster Manual II, which states that "hook horrors are omnivores". The more recent source, Monster Manual II, is taken as the primary version.
+
+Whenever food was scarce, hook horrors would migrate to another subterranean area. There existed a small number of hook horror colonies that were able to cultivate their own food. Only when they were desperately hungry would hook horrors turn to foods such as phycomids, shriekers, violet fungi, and zygoms to stay alive. Although such food was poisonous to most humanoids, a gland in the hook horror's abdomen produced a special enzyme that rendered it immune to such effects.
+
+Where possible, hook horrors would also collect and eat silver or electrum items. Those would pass through their digestive systems, and remain unchanged, although with a slight odor, when deposited.
+
+Habitats
+Beyond Toril, some hook horrors were known to be found on the planet of Oerth.
+
+Languages
+Hook horrors had their own language, communicating in a series of clicks and clacks made with their own exoskeletons, but they could also speak Undercommon. In their own language, communication was soft and gentle when "speaking" about friendship, but loud and frenzied when discussing food.
+
+Usages
+Hook horror bony hooks were a valuable commodity for alchemists. A sublimate could be extracted from three full-sized hooks and in turn, the sublimate could be mixed with certain types of ashes to form an elixir of vigilance.
+
+Notable Hook Horrors
+ Clacker, formerly a pech transformed into a hook horror.
+
+Appendix
+
+Notes
+
+Appearances
+Card Games
+AD&D Trading Cards
+Novels
+Homeland • Exile
+Video Games
+Icewind Dale II • Neverwinter Nights: Hordes of the Underdark • Sword Coast Legends • Baldur's Gate III
+Board Games
+Dungeons & Dragons Adventure Begins
+Miniatures
+Dungeons & Dragons Miniatures • Icons of the Realms
+
+Gallery
+
+Further Reading
+
+External links
+
+References
+
+de:Hakenschrecken
+
+---
+
+## Hopala
+
+Hopala was the pueblo priest of Kin Elbhaz in the Pasocada Basin in Maztica. He was overweight and uninspiring, but curious about outsiders and would use any opportunity to quiz them.
+
+References
+
+---
+
+## Horse Pond
+
+Horse Pond was a pond in Amphail on the Sword Coast.
+
+Description
+It was a muddy pond containing frogs and water lilies, and it was used for drinking and washing water for horses.
+
+History
+In the mid–14th century DR, there was an incident in which skeletons ventured out of the pond and ran amok through the village, strangling people before they were destroyed.
+
+Rumors & Legends
+There was a legend that at the bottom of the pond there was a hidden entrance to the tomb of the Maiden King, who ruled the area a long time before the 14th century DR. According to legend, she lay sleeping forever on a stone bed with her magic two-handed sword resting on her chest.
+
+Some adventurers entered the pond on several occasions and found nothing, but one band at least never returned.
+
+Appendix
+References
+
+---
+
+## House Tanor'Thal
+
+House Tanor'Thal was the dominant house in the drow city of Karsoluthiyl in the 14 century DR.
+
+The house sold a large number of slaves in Skullport. Using a portal to their outpost of Kyorlamshin, led by Matron Haelra Tanor'Thal's niece Kesra, they captured any potential slaves that they could and sold them in the bazaars of Skullport. House Tanor'Thal was, in fact, Skullport's most prominent drow slaving organization.
+
+Political pressure was being put on Matron Tanor'Thal back in Karsoluthiyl to allow access to Kyorlamshin's portal for the other houses of the city. This was a concession the matron mother did not wish to make.
+
+House Tanor'Thal also established itself in Spiderhaven, where a lot of displaced drow had recently begun to dwell as of 1375 DR.
+
+Appendix
+
+References
+
+---
+
+## Horde of the Wastes
+
+The Horde of the Wastes was a large goblinoid horde that destroyed the Kingdom of Phalorm in 615 DR.
+
+References
+
+---
+
+## House of Knowledge (disambiguation)
+
+House of Knowledge might refer to:
+ House of Knowledge (plane), one of the Outer Planes.
+ House of Knowledge (Neverwinter), a temple to Oghma in Neverwinter.
+
+---
+
+## House of Knowledge (Neverwinter)
+
+The House of Knowledge, also known as the Hall of Knowledge, was a library and temple to Oghma, the Binder of What is Known, in the city of Neverwinter of the Sword Coast North in the mid-to-late 14 through to late 15 centuries DR.
+
+Location
+It was located near the southern side of the Dolphin Bridge, within the Protector's Enclave district. at the northeastern end of the The Wall in the late 1400s DR. A winding street running southeast of the House of Knowledge was home to many booksellers, bookbinders, and scribes in the 1300s DR; one of these was Maskado's Maps & Legends.
+
+Structure
+The House of Knowledge was considered one of the most impressive buildings in Neverwinter, a city whose fame spread throughout the Sword Coast. It was an impressively tall building with many windows and an arched roof.
+
+After the eruption of Mount Hotenow in 1451 DR, the House of Knowledge was badly damaged, and as of the late 1470s DR, it still stood in ruins, its glass windows broken and with an aroma of dusty tomes and medicinal herbs, owing to its repurposing. Efforts to repair it began around 1489 DR and were still ongoing through the mid-1490s DR, by which time the exterior walls and floors had been fully restored. Work continued on interior walls and décor.
+
+Interior
+The main shrine to Oghma was located on the ground floor, and was open to the public. Off-limits to most visitors were the temple staff's living areas and offices and workshops upstairs, as well as the basement, which contained storage and additional shrines for private worship.
+
+The House of Knowledge was also a great library, containing everything from maps and histories to poetry and literature. Common books and scrolls, including public government records, were housed on the first floor, while the undercroft held a more secure library known as the Vault of Tomes where some of rarest and most valuable books not in Candlekeep were kept. The Vault was well guarded and had a complex three-stage lock, making it one of the most secure locations in Neverwinter.
+
+Activities
+In the 1300s DR, the temple offered education for free, with teaching sessions doubling as services to the Binder. It was a great library including histories, maps, poetry, and chapbooks written over centuries.
+
+Following the eruption of Mount Hotenow, however, in the late 1400s DR, the temple served as a refugee camp and a makeshift hospital providing care to injured Neverwinter Guardsmen and folk affected by the Chasm, and room and board for travelers who helped out.
+
+By the 1490s DR, it had returned to being a place of learning and a repository of information, as well as a meeting place.
+
+History
+As of 1357 DR, the temple was run by Chief Priest Watger Brighthair, but due to his youth, Elder Reader Salyndra Shaern was later installed to guide him. A half-elf priestess of both Oghma and Corellon Larethian, her role was also to promote good relations between humans and elves in Neverwinter and to study human wisdom for the elves. In all three areas, she had done well. They continued to lead the temple through the 1360s DR to at least 1370 DR. At the time, it was a flourishing temple and a center of lore of the Sword Coast.
+
+During the eruption of Mount Hotenow in the, the priests sealed the temple's inner sanctum to protect the books, maps, and other treasures, and fled, leaving trapped there a young loremaster, Atlavast. While some parts of the temple were damaged, other parts escaped, including the underground sections, and Altavast survived the cataclysm but became a little bit insane after the experience. He chose to never abandon the temple, instead biding his time cataloging and organizing the libraries and other repositories of knowledge.
+
+In the aftermath, the intact parts of the temple were used almost as a refugee camp, but it did not serve well for this purpose. The monk Brother Anthus was in charge of the House of Knowledge, but he struggled in the role and responsibilities, instead retreating to his cottage across town whenever he got the chance. In the, however, he had a secret nighttime meeting about city affairs with Arunika in the temple itself. His research on the Chasm and its plaguechanged creatures led to the temple being used as a sanctuary for the spellscarred, something Lord Protector Dagult Neverember didn't approve of.
+
+In the, a convoluted plot between rival cults—the Ashmadai followers of Asmodeus, the Sixth Layer cult of Glasya, and the Abolethic Sovereignty—led the Ashmadai to attempt to attack and raze the House of Knowledge, though this was foiled by Farideh, Havilar, and Mehen, who alerted the Neverwinter Guard to intervene. Soon after, Brother Anthus died in mysterious circumstances and a young woman known as the Prophet, Rohini, formerly a healer at the temple, relocated the hospital to Helm's Hold and took all the patients and remaining priests with her, claiming catastrophe would befall Neverwinter again if she did not. Only one priest remained in the temple's lower vaults, Atlavast, who kept to the lower vaults. Left almost empty and still badly damaged, the temple seemed abandoned when a group of Ashmadai cultists took up residence in the House of Knowledge. Posing as refugees from the River District squatting in the temple, the Ashmadai used their cover to try to corrupt and possess the Mintarn mercenaries Neverember had hired to protect the Wall. The Ashmadai also helped the mercenaries, by ringing the temple bells every time they spotted aberrations coming up from the Chasm and approaching the Wall. In thanks, the mercenaries brought them food and drink and Lord Dagult Neverember was impressed with the so-called refugees' efforts.
+
+In the, Oghma sent dreams to some of his faithful, bidding them to go to Neverwinter to aid in the restoration of the House of Knowledge and of the City of Skilled Hands as a whole, and to recover lost lore from both its archives and the ruins.
+
+With the Chasm sealed in the late years of the 1480s DR, more Oghmanyte priests from other lands went to Neverwinter in the hopes of restoring the temple for their faith. The House of Knowledge became a center of education in the 1490s DR, and was used as a repository for Neverwintan government records while Castle Never was still under reconstruction. In the mid-1490s DR, the temple was under the purview of Grand Scribe Spivey Liethennson, who reigned over the temple like a petty tyrant.
+
+In the, Oppal DeScart of Acquisitions Incorporated concealed black diamonds inside a false book titled A Layperson's Guide to Common Knowledge and hid it inside the Vault of Tomes, and later recruited adventurers to retrieve it.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Orrery of the Wanderer
+Novels
+Brimstone Angels • Charon's Claw
+Video Games
+Gateway to the Savage Frontier • Treasures of the Savage Frontier
+
+References
+
+---
+
+## House Despana
+
+House Despana was a drow noble house which was spread across many drow cities. One was located in the Vhaeraun-dominated Rilauven in the north, another was based in the devoutly Lolth-worshiping Ust Natha further to the south. A third section of the family was a minor house of Menzoberranzan.
+
+ Organization
+House Despana was a powerful noble House, with their members and branches scattered throughout the Underdark. They mainly resided in Rilauven and Ust Natha. Because of their religious preference and philosophies of life, the house was mainly split in two.
+
+ Rilauven branch
+The most influential member of this branch was Malavon Despana, who was also a talented wizard and archmage of Rilauven. Unlike most drow, many of this branch believed in egalitarianism.
+
+ Ust Natha branch
+This branch was headed by Matron Mother Ardulace, a powerful drow cleric. The Ust Natha branch employed the typical drow philosophy of female dominance and worship of Lolth. This branch was known for forming an alliance with Irenicus, who planned on attacking Suldanessellar.
+
+History
+Some members of the House turned against the typical matriarchal society of dark elves, and assumed power in a coup. After this, many of them went on to worship Vhaeraun instead of Lolth.
+
+Relationships
+
+The Rilhauven and Ust Natha branch were related to each other by blood, and had a dark past.
+
+ Family tree
+
+Members
+ Malavon Despana, patron of House Despana, and archmage of Rilauven's magical academy
+ Ardulace Despana, matron mother of the house, and a cleric of Lolth
+ Ginafae Despana, sister of Malavon Despana, who was once turned into a drider
+ Phaere Despana, daughter of Ardulace Despana
+ Ilmryn Despana, former Weapon master of House Despana, brother to Malavon
+ Malfeem Despana, former Weapon master of House Despana, father to Malavon
+
+Appendix
+See Also
+House of Despana insignia
+References
+
+---
+
+## House of Song
+
+House of Song was the guildhall of the Waterdhavian guild known as the Council of Musicians, Instrument-Makers, & Choristers.
+
+Location
+The House of Song was located along Rivon Street, or on the corner of Coach Lamp Lane and Carter's Way, close to the South Gate, in the Trades Ward of Waterdeep.
+
+Structure
+This guildhall was a large, two-story building.
+
+Interior
+The interior parlor's ceiling was supported by a series of slender stone pillars; two adjacent columns were pale blue in color. The woodwork where the wall met the ceiling was inscribed with an old elven song. The interior featured a kitchen with a back entrance, where a small team of dedicated cooks worked.
+
+At some point inside the building there were two pale blue columns, between which an old elven tune was etched near the ceiling.
+
+Activities
+In addition to hosting all guild business, the House of Song provided food and beds for its members, including itinerant bards.
+
+History
+The House of Song lay on the former site of Olamn, an old bardic college.
+
+The House was Song was established some time before 1357 DR, and continued through 1368 DR and past the end of 1372 DR.
+
+Secrets
+A few guildmembers could recall a visitor coming in, practicing an instrument in the parlor, then not being seen again, and presumed them to have simply departed unannounced and unobserved. In fact, if the tune etched into the woodwork of the parlor was played, a gate opened between the pale-blue columns there, large enough to take four people at once. It led to Wyllowwood in Undermountain, depositing them into a river inhabited by sea hags. This gate and its deadly destination were completely unknown to the guildmembers.
+
+Appendix
+
+Appearances
+Comic Books
+Advanced Dungeons & Dragons (#8)
+References
+
+---
+
+## Horn of Valhalla
+
+A Horn of Valhalla was a wondrous item that had the power to summon forth the spirits of barbarians from the afterlife to fight for the summoner.
+
+Description
+The horns came in five different types, which appeared to be normal horns until the command word was spoken. In ascending order of potency, these varieties were ivory, iron, bronze, brass, and silver. Iron horns could summon as few as two barbarians, while silver horns could summon up to ten. Ivory horns of Valhalla pressed three charges, each summoned an ivory shieldmaiden construct to aid the horn's owner in battle.
+
+History
+Sometime long before the, a bard-specific Horn of Valhalla was created by the respected Reghedmen bard, Beogin, whose songs were sang across many of the northern barbarian tribes. The bard took his Horn of Valhalla into many gran d battles of his tribe. Beogin was ordered by his chieftain to blow the horn were he ever in grave danger, however the bard's pride kept him from doing so as he died in battle with the horn hidden under his fur cloak.
+
+Another variety, an ivory horn of Valhalla, was created by the powerful bard of the Moonshae Isles named Falataer. The original horn was used to test his students and reward them when appropriate. With years passing, ivory horns of Valhalla were copied and imitated.
+
+Years later, Beogin's Bardic Horn of Valhalla ended up in possession of Gerth, a trader proprietor of Gerth's Equipment Shoppe of Kuldahar and a collector of ancient missilery.
+
+Circa 1368 DR, the traveling merchant and instrument-maker Maheer yn Kadar el Saddith was capable of "upgrading" a horn of Valhalla to the version of next higher potency.
+
+In the, a group of adventurers from the city of Ravens Bluff on the world of Toril traveled to Ysgard in search of the legendary Well of Mimir. While traveling in Asgard, they stopped at the hall of Gloamingard at the same time as the Seelie Court was visiting. Queen Titania, desiring some entertainment, challenged the adventurers to a series of friendly competitions against her fey entourage. For their trouble she offered as prizes an ice sapphire, a Svartalfheim cloak, and a horn of Valhalla made of iron that she referred to as Tyjar's horn.
+
+Notable Owners
+
+ Duncan, the cousin of king Halvor II, carried a horn of Valhalla with him on his journeys.
+ Gaius Varro, Lord Marshall of the City Guard of Ravens Bluff, owned a bronze horn of Valhalla that was stolen by Sergeant Romilys Ganelon.
+ Gareth Dragonsbane, 6 Baron of Bloodstone and King of Damara owned a silver horn of Valhalla
+ Jasper Thunderhand, dwarven cleric of Clangeddin Silverbeard.
+ Skullcrusher, a mercenary and adventurer from Phlan who once was involved in the pool of radiance crisis in the mid-14 century DR.
+ Rulathorn
+ Worden Ironfist, a dwarven fighter and leader of an adventuring band.
+
+Appendix
+See Also
+ Valhalla
+Notes
+
+Appearances
+
+References
+
+---
+
+## How the Mighty Are Fallen
+
+How the Mighty Are Fallen is a 2-edition Advanced Dungeons & Dragons adventure module for the Forgotten Realms.
+
+Description
+How the Mighty Are Fallen is an Arcane Age adventure and is set within the ancient empire of Netheril in the lead-up to Karsus's Folly.
+
+How the Mighty Are Fallen is a high-level adventure designed for PCs between levels 11 and 14, set in the ancient realm of Netheril. This challenging and epic adventure involves several formidable encounters and quests. The characters will face the Tarrasque, an incredibly powerful and fearsome creature known for its near-invulnerability and destructive capabilities. Additionally, the PCs will confront an army of undead, adding a layer of supernatural danger and complexity to their journey.
+
+Furthermore, the adventure presents an encounter with a golden dragon, a creature renowned for its might and majesty, adding to the array of formidable challenges the PCs must overcome. Beyond these battles, the PCs have the opportunity to embark on a quest to discover the lost Nether Scrolls, ancient artifacts of immense power and significance.
+
+In a climactic turn of events, the adventure also allows the characters to gather components for a spell with an extraordinary purpose: the ability to kill a god.
+
+Contents
+ The Time has Come
+ The Grand Welcome
+ Trek Through the Eastern Forest
+ Side Treks
+ The Lichlord's Castle
+ Spells & Magic
+ Rumors & Hooks
+
+Index
+Characters
+ • Cloro • D'nascus Cloudburst • Dracolnobalen • Edie Savage •  • Karsus • Killdrum • Krystaufer • Pyrothraxis
+Creatures
+ankheg • beholder • choke creeper • cloud giant • dwarves • elves • ettin • galeb duhr • ghast • ghost • ghoul • gnoll • goblin • gold dragon • green dragon • gray ooze • hippogriff • hobgoblin • illithid • intellect devourer • iron golem • kobold • manticore • mountain giant •  • ogre • orc • owlbear • pentadrone • phaerimm • red dragon • shadow • stone giant • tarrasque • werewolf • wight • wyvern
+Magic
+Clothing
+ •  •  •  •
+
+ •
+Items
+ •
+
+ •
+Potions
+ •  •  •
+Spells
+ •  •  •
+Weapons
+ •
+Locations
+ForestsEastern Forest
+Temples
+
+Miscellaneous
+Armor & Clothing
+ •  •
+Gemstones
+ •  •
+Misc
+ • Mythallar
+Weapons
+
+Gallery
+
+Credits
+ Author: slade
+ Editor: Jim Butler
+ Project Coordinator: Thomas M. Reid
+ Concept: Mark Anthony, Jim Butler, Julia Martin, Steven Schend, and Jim Ward
+ Cover Illustrator: Nick Jainschigg
+ Interior Illustrator: Ned Dameron
+ Graphic Designer: Dee Barnett
+ Art Coordinator: Bob Galica
+ Typesetting: Tracey L. Isler
+ Prepress Coordinator: Dave Conant
+ Playtesters: Deneen Olsen (DM); John Creech, Robby Duncan, Eran Edwards, Rich Jenkins, Dave Kelsay, Leonard McGillis, Jeff Pashke, Marty Ruger, Ethan Schazenbach, and Victor Semlek
+
+Appendix
+Notes
+
+See Also
+ Images from How the Mighty Are Fallen
+External Links
+
+RPGGeek
+
+`
+
+---
+
+## Horselords
+
+Horselords, by David Cook, is the first book in The Empires trilogy.
+
+ Summary
+
+Koja, a priest of the Temple of the Red Mountain and emissary of Prince Ogandi Tsipiang of Khazari, travels to meet with Yamun Khahan of the Tuigan. Yamun takes a liking to Koja and conscripts him to be his biographer, declaring he was chosen by Teylas to be emperor of the world. Yamun invades and conquers Semphar and Khazari, but Bayalun, his wife and stepmother, and Chanar Ong Kho, his anda, or blood brother, plot against him, along with Ju-Hai Cho, Kara-Tur's Minister of State. The conspiracy attempts to assassinate Yamun, but Koja foils the attempt. Yamun declared him anda and travels to the Dragonwall. Koja discovers and frees the spirit of the Dragonwall, allowing the Tuigan to invade. He also uncovers the treachery of Byalun and Chanar. Yamun imprisons Byalun and demotes Chanar.
+
+Index
+
+Arthritis
+Appendix
+Gallery
+
+References
+
+---
+
+## House Silverspear
+
+House Silverspear was a relatively small moon elf house on Evermeet.
+
+Many of its members become priests or wizards. The house estate was located in Leuthilspar on the island of Evermeet, and unlike most structures in the city, its buildings were constructed via non-magical means. The estate was a mix of architectural styles.
+
+The house colors were silver and green.
+
+Members
+ Tyllaetha Silverspear, matriarch in 1368 DR.
+ Myrin Silverspear
+ Alok Silverspear
+ Francessca Silverspear
+
+Appendix
+
+References
+
+---
+
+## House Nightstar
+
+House Nightstar was a moon elf house led in 1367 DR by the twin sisters Halaema Nightstar and Saelihn Nightstar.
+
+History
+The family moved to Evermeet after the fall of Myth Drannor. The house's estate was in Leuthilspar, constructed in a mix of architectural styles and was grown magically from stone and wood. Some members of the house traversed Faerûn in order to gather information for the good of Evermeet.
+
+Organization
+The house was one of only two (the other being House Ahmaquissar) allowed to enter the Hawksong house in Leuthilspar. The house symbol was a silver eight-pointed star displayed above doorways.
+
+Members
+ Halaema Nightstar, twin of Saelihn and shares the leadership of the house in 1367 DR.
+ Saelihn Nightstar, twin of Halaema and shares the leadership of the house in 1367 DR.
+
+References
+
+---
+
+## House Amarillis
+
+House Amarillis was a moon elf house descended from Kethryllia Amarillis, whose body was interred in the Hall of the Ancients in Leuthilspar. The house had no leader and its members tended not to specialise in any particular vocation. The house was known for its members' tendency to leave Evermeet to explore Faerûn. The house's estate in Leuthilspar consisted of an exotic walled castle.
+
+Members
+ Kethryllia Amarillis, founder of the house, deceased as of 1368 DR.
+
+Appendix
+References
+
+---
+
+## House Nierdre
+
+House Nierdre was a sun elf house originally founded in Myth Drannor.
+
+Base of Operations
+The house's estate in Leuthilspar was constructed from a rare and unusual shiny black stone. The house symbol was a silhouette of a black dragon.
+
+History
+During the Weeping War, only two of the house's members survived and escaped to the island of Evermeet where the house has gradually replenished its numbers. By 1367 DR, the house was led by Lord Maiele Nierdre.
+
+Members
+Maiele Nierdre Leader of the house in 1367 DR.
+
+Appendix
+Appearances
+Novels
+Elves of Evermeet
+Video Games
+
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## House Eroth
+
+House Eroth was a silver elf house.
+
+History
+As of 1367 DR, House Eroth was led by the elders and siblings Tanithil Eroth and Anaharae Eroth. Before the Retreat, it was known for its rangers and scouts, but these services were far less important on Evermeet and many become woodsmen instead.
+
+Activities
+Eroth was a religious house, worshiping Angharradh, Corellon Larethian and Rillifane Rallathil. The house was noted for its members' views, which often conflicted with those of the elves as a whole. For example, they did not recognize the authority of Queen Amlaruil Moonflower over the elven people.
+
+Base of operations
+The house's estate consisted of small stone buildings in Leuthilspar connected by underground tunnels.
+
+Members
+Tanithil Eroth, elder of the house in 1367 DR and brother to Anaharae.
+Anaharae Eroth, elder of the house in 1367 DR and sister to Tanithil.
+
+References
+
+---
+
+## House Korianthil
+
+House Korianthil was an elven house on Evermeet.
+
+History
+In 1367 DR, it was led by the experienced war wizard Hatharal Korianthil. It specialized in the training of dogs, hawks, and horses. Prior to the Retreat, the animals it trained were considered to be the finest in Faerûn.
+
+Members
+ Hatharal Korianthil, leader of the house in 1367 DR.
+
+References
+
+---
+
+## House Hawksong
+
+House Hawksong was a moon elf house known for its members' service to Evermeet as riders of eagles and pegasi.
+
+Base of operations
+The Hawksong mansion was located in the city of Leuthilspar on Evermeet. It consisted of three towers connected by bridges and no one outside the house was allowed to enter, except members of the Ahmaquissar and Nightstar houses.
+
+History
+Around 1367 DR, the house was led by Tiatha Hawksong who had not been seen since 1357 DR, but the family's official line was she was still alive during this period.
+
+Members
+ Tiatha Hawksong, leader of the house in 1367 DR.
+
+References
+
+---
+
+## House Ahmaquissar
+
+House Ahmaquissar was an elven house.
+
+Activities
+It is known for accommodating minstrels, thieves and con artists. Members commonly ventured to Faerûn to ply their roguish trades before returning to Evermeet to evade punishment.
+
+Base of operations
+The house possessed several estates on Evermeet, but its main estate in Leuthilspar was a wood and marble building.
+
+Members
+ Lysanthir Ahmaquissar, leader of the house in 1367 DR.
+
+References
+
+---
+
+## House Le'Quella
+
+House Le'Quella was a moon elf house known for its unconventional dress sense and the contentious (but friendly) relations between its members.
+
+As of 1368 DR it was led by Huquethae Le'Quella. Its estate was in Leuthilspar, on Evermeet, and consisted of a magically grown building of wood and leaves.
+
+The house colors were orange, red, and yellow, and its symbol depicted a triangle of each of these colors displayed on a white background.
+
+Members
+ Huquethae Le'Quella, leader of the house in 1368 DR.
+ Nushala Le'Quella, a jeweler in Leuthilspar.
+
+Appendix
+References
+
+---
+
+## House Shaelara
+
+House Shaelara was a sun elf house on Evermeet.
+
+History
+As of 1369 DR, the house was led by Uthorim Shaelara; most of its members were under a hundred years old. The house arrived on Evermeet from Faerûn around 1359 DR and magically grew a building of grey and white stone in Leuthilspar. The house was boisterous in comparison to older houses and was noted for frequently causing trouble, especially with silver elves.
+
+Members
+ Uthorim Shaelara
+
+Appendix
+Appearances
+Elves of Evermeet
+
+References
+
+---
+
+## Horned harbinger
+
+Horned Harbingers were those followers of Myrkul who continued to practice their faith following the god's demise during the Time of Troubles. They were all unique in the fact that in one point of their life or another, they have each touched the artifact known as the Crown of Horns, which carried the essence of the "deceased" Myrkul.
+
+Culture
+These morbid individuals often dwelled in massive catacombs, spending their time lurking around cemeteries or old fields of battle.
+
+They surrounded themselves with undead and spent little time interacting with the living. Many of their kind pursued lichdom.
+
+Abilities
+Horned harbingers grew a circlet of horns out of their head, which somewhat resembled the Crown of Horns.
+
+Over time, harbingers developed a number of powers related to death and the undead. They were granted the use of magic from the Death domain, learned how to reanimate dead bodies over long distances, and could both rebuke as well as create undead creatures. As they grew in power, harbingers gained control over more and more undead thralls at a rate unknown to typical clerics.
+
+History
+After Myrkul died in Waterdeep during the Time of Troubles, in the, his remaining divine essence found its way into the Crown of Horns, which was hidden away in Blackstaff Tower. Over the next decade, Myrkul managed to teleport the crown across the Realms, placing it upon the heads of many of his former devotees, both living and otherwise.
+
+Members
+Nearly all of the horned harbingers were divine or arcane spellcasters, and a large number of them were necromancers or even undead. While some of them had begin to worship other deities associated with death, such as Jergal, Cyric, and even Kelemvor, they all returned to the worship of Myrkul.
+
+Notable Horned Harbingers
+ Nhyris D'Hothek, the lich-like yuan-ti who was among the last known wearers of the Crown of Horns.
+ Viandos Rippek, leader of the Myrkulites dwelling within the drowned city of Bhaluin.
+
+Appendix
+References
+
+---
+
+## House Basadoni
+
+House Basadoni, also known as the Basadoni Cabal and the Basadoni Guild, was one of the more powerful thieves' guilds of Calimport in Calimshan in the mid-to-late 14 century DR.
+
+History
+It was led for many years by its namesake, Pasha Basadoni.
+
+The Basadoni Cabal took in a young Artemis Entreri as a member. He rose to the rank of lieutenant in the guild before leaving to work for Pasha Pook.
+
+When Enteri returned to Calimport in the, Pasha Basadoni invited him to join again, but Entreri refused. Soon after, some high-ranking members of House Basadoni tried to kill Entreri to maintain the guild's prestige, but Entreri killed them all—at the price of involving Jarlaxle and Bregan D'aerthe. At last Entreri and the drow assaulted Basadoni's palace and confronted the pasha. Basadoni acknowledged the power of the drow and offered instead an alliance with them with himself as figurehead leader and Jarlaxle commanding from shadows. Entreri seemingly accepted the pact but then killed Basadoni in cold blood, claiming the leadership of House Basadoni for himself.
+
+In the, House Basadoni became the front for Jarlaxle's attempts to widen his band of rogue drow's influence to the surface world. Artemis served as the figurehead of the house during the ruse. However, Jarlaxle increasingly fell under the influence of Crenshinibon until his two lieutenants, Kimmuriel Oblodra and Rai-guy, enacted a plot to overthrow him. He was only rescued from his own follies by Entreri, who claimed to need Jarlaxle alive to protect him from the two drow lieutenants. Jarlaxle made an agreement with Kimmuriel for co-leadership of Bregan D'aerthe while he and Artemis went traveling around the surface. This coup within Bregan Daerthe left House Basadoni in turmoil.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Hoard (demiplane)
+
+The Hoard was a demiplane created in 116 DR when five wizards of Cormyr trapped Nalavarauthatoryl in the Grodd demiplane. Unlike the Grodd demiplane in which Nalavarauthatoryl was imprisoned, the Hoard demiplane was far more "vivid". The Hoard demiplane and the Grodd demiplane were linked via a gate.
+
+Appendix
+
+References
+
+Further reading
+
+---
+
+## Holy symbol
+
+Holy symbols were divinely powered implements used by clerics and paladins alike to enhance their prayers or unleash the fury of their god. The holy symbol is a representation of a god or pantheon.
+
+Description
+Holy symbols came in a wide variety of designs, though all shared the common quality of being directly blessed by a god, godlike being, or the servants of the former two for the purpose of aiding agents of the divine. In many ways, holy symbols were to clerics and paladins what swords were to fighters or wands were to some wizards.
+
+Typical holy symbols took the form of amulets, emblems on shields, or reliquaries that contained fragments of sacred material.
+
+An assortment of holy symbols made of different materials was available for purchase through Aurora's Whole Realms Catalogue. They needed to be blessed by their corresponding church in order to be effective for channeling divine magic.
+
+Powers
+A cleric or paladin, when casting a divine spell, could use a holy symbol as a spellcasting focus by holding or visibly presenting it, thereby eschewing most ordinary material components that the spell might otherwise require. Because this is a focus, their enemies will remove the holy symbol from their possession upon imprisoning them to prevent advantages.
+
+Appendix
+Gallery
+
+External Links
+
+References
+
+---
+
+## Horde Campaign
+
+Horde Campaign is a 2-edition Advanced Dungeons & Dragons accessory for the Forgotten Realms.
+
+Description
+Horde Campaign is the 12 book in the FR series. It details the Horde Wars, meticulously chronicling the war from one battle to the next. The book offers Battlesystem statistics for these conflicts, allowing players to engage in the warfare with detailed strategic and tactical insights.
+
+Contents
+ Introduction
+ Chapter 1 The Coming of the Horde
+ Chapter 2 The War of Semphar
+ Chapter 3 The Conquest of Khazari
+ Chapter 4 The Invasion of Shou Lung
+ Chapter 5 The War with Thay
+ Chapter 6 The War in Rashemen
+ Color Plates
+ Chapter 7 The Crusade
+ Conclusion
+ BATTLESYSTEM Statistics
+
+Gallery
+
+Credits
+ Design: Curtis M. Scott
+ Editing: Douglas Stewart
+ Cover Art and Color Plates: Doug Chaffee
+ Black and White Art: Karl Waller
+ Cartography: Steve Beck
+ Typography: Gaye O'Keefe
+ Production: Sarah Feggestad
+ Art Coordinator: Peggy Cooper
+
+Appendix
+See Also
+ Images from Horde Campaign
+External Links
+
+RPGGeek
+
+References
+
+---
+
+## Hovor Seawind
+
+Hovor Seawind was the half-elven high captain and Aglarondan griffonrider commander of the Simbulmyn, the Simbul's personal guard.
+
+History
+Around 1374 DR, Hovor was master of the Palace of the Simbul in the Simbul's absence.
+
+References
+
+---
+
+## House of the Four Moons
+
+The House of the Four Moons was a white-domed temple to Selûne in Velprintalar (now Old Velprintalar), Aglarond. In 1368 DR it was led by High Priestess Dyltharra and served by six other priestesses, who kept contact between the Simbul, the Royal Council of Aglarond and the Harpers.
+
+References
+
+---
+
+## Homen Odesseiron
+
+Homen Odesseiron was a warmage and tharchion of Surthay in Thay in the late 14 century DR. His standard displayed an axe-and-boar.
+
+Description
+Homen wore wizard's robes. He usually had a perpetually dour expression on his face.
+
+Possessions
+His favorite weapons were his sword and lance.
+
+Personality
+Homen was a very proud man and took responsibility for his actions as tharchion of Surthay. He hated the Rashemaar and did not believe in Thay's new path of trade.
+
+History
+Once Homen was a Red Wizard but he stepped down in order to become tharchion.
+
+After a failed attempt at conquering a Rashemi town, Homen's army was rescued by Szass Tam and Homen thus sided with the lich lord's cause of conquering Faerûn.
+
+Appendix
+Appearances
+Novels
+Unclean
+
+The Crimson Gold
+
+References
+
+---
+
+## Hold animal
+
+Hold animal was an enchantment spell that held one animal helpless for a few minutes. Older versions of this spell could paralyze up to four animals for a longer duration.
+
+Effects
+Hold animal operated in the same fashion as hold person, with two exceptions. First, it did not require an arcane focus, and second, it affected animals instead of sentient beings. The subject froze in place, standing helpless. It was aware and could breathe normally but could not take any physical actions, including vocalization.
+
+A winged creature being held could not flap its wings and, if flying, fell out of the sky. Swimming creatures could not propel themselves and risked drowning.
+
+This spell was effective on natural and giant-sized animals but not monsters or magical creatures.
+
+Components
+Only verbal and somatic components were necessary to cast this spell.
+Appendix
+See Also
+ Halt undead
+ Hold monster
+ Mass hold monster
+ Mass hold person
+ Radiant holding
+
+External links
+
+References
+
+---
+
+## Holy smite
+
+Holy smite was a divine evocation spell unique to clerics with the Good domain that damaged and even blinded evil creatures.
+Appendix
+
+External links
+
+References
+
+---
+
+## Holy word
+
+Holy word was an evocation or conjuration spell that could incapacitate or even kill nongood creatures and banish those of extraplanar origin. The reverse of this spell, which applied to nonevil creatures, was called unholy word and became better known as blasphemy.
+
+Effects
+There were at least two versions of this spell with slightly different interpretations on who or what could be affected and to what extent. Note especially the alignment differences between the two versions as described below. The evocation version of holy word compared the target's toughness or experience level with the experience level of the caster and had no effect on creatures that were superior to the caster, but the effects were increasingly severe and cumulative for those equal to or inferior. The conjuration/summoning version of this spell based its effectiveness on the toughness or experience level of the targets, regardless of the caster's level, which means that even creatures superior to the caster could be effected somewhat. The only way to avoid these effects was to not hear the holy word, either by virtue of already being deaf, or some form of magical silence.
+
+Both versions of the spell, in addition to the effects described below, could send extraplanar creatures back to their home plane, as long as the holy word was spoken on the caster's home plane. The older conjuration worked unconditionally on all evil creatures, whereas the newer evocation affected all weak-willed nongood creatures, thus allowing it to banish those of a neutral alignment as well. This dismissal happened even if the creatures in the area of effect could not hear the holy word, and any banished creatures were blocked from returning to the caster's home plane for at least 24 hours.
+
+Evocation
+The area of effect was a circle of 40 ft (12.2 m) radius centered on the caster. Upon uttering the holy word, all nongood creatures equal to or inferior to the caster suffered one or more of the following cumulatively:
+ Relation to Caster  Effect Equal to  deafened briefly Strictly inferior  and blinded for a few minutes Greatly inferior  and paralyzed for up to 10 minutes Completely dominated  and killed (destroyed if undead)
+
+Conjuration
+The area of effect was a circle of 30 ft (9.1 m) radius centered on the caster. Upon uttering the holy word, all creatures of an alignment different than the priest suffered one of the following effects, based on their toughness or experience level:
+ Toughness or Level  Effect Extremely large or tough  deafened briefly Considerably large or tough  slowed, as the wizard spell for a few minutes Fairly large or tough  paralyzed for 10 to 40 minutes Not large or tough  killed (destroyed if undead)
+
+Components
+This spell only required a verbal component to cast.
+History
+This spell was inscribed within the Kelemvorite relic the Testament of Vraer.
+Appendix
+See Also
+ Blasphemy
+ Silence
+ Silence, 15' radius
+Appearances
+
+External links
+
+References
+
+---
+
+## Hold monster
+
+Hold monster was an enchantment spell that held a targeted creature helpless.
+
+Effects
+This spell functioned in the same manner as hold person, except that it could be used against any creature who failed to resist to its effect.
+
+For as long as the caster concentrated, up to one minute, the spell caused one or more creatures to be paralyzed. While under its effect, a paralyzed creature could repeatedly try to break free from the spell. Undead creatures were immune to this spell.
+
+Components
+The spell required verbal, somatic and material components. The material required was one hard metal bar or rod, which could be as small as a three-penny nail, or a small straight piece of iron. It could be replaced by a spellcasting focus.
+
+History
+The spell was attributed to the Netherese arcanist Prug in  and was originally called Prug's hold being.
+
+Appendix
+See Also
+ Halt undead
+ Hold animal
+ Mass hold monster
+ Mass hold person
+ Radiant holding
+Gallery
+
+Appearances
+Novels
+The Glass Prison
+Video Games
+Neverwinter Nights series • Baldur's Gate III
+External links
+
+ D&D Beyond
+
+References
+
+---
+
+## Horustep III
+
+Horustep III was the sixteenth pharaoh of Mulhorand, the nation's pharaoh as of the Present Age, and the first mortal among that nation's long line of god-kings.
+
+Description
+Like all incarnations of Horus-Re, Horustep III had facial features that were suggestive of a hawk.
+
+Personality
+In comparison to the former pharaohs of Mulhorand, Horustep III was known to be rather demanding, domineering, and determined to exercise his power far more decisively.
+
+Abilities
+Like incarnations, Horustep III had innate abilities far above that of the average human. Following the Time of Troubles, he lost most of these abilities. However, he gained the ability to summon an avatar of Horus-Re, since the deity maintained a connection with him.
+
+History
+Horustep III was born in the year, though some sources claimed it was instead 1345 DR. Since a young age, he was best friends with his bodyguard Brathes.
+
+He ascended to the throne of Mulhorand in the summer of 1357 DR at the age of 11, after the assassination of his father, Akonhorus II. Over time Anhur, the Mulhorandi god of war, would press the pharaoh to take on a more active role in the world. And his worshiper Brathes actively worked towards sealing the distance between the pharaoh and the Church of Anhur.
+
+During the Time of Troubles, Horustep III was one of many mortal incarnations of Horus-Re that fell into a coma, as the god was attempting to regain some of his powers by absorbing the divine fragments held by their bodies. When the Time of Troubles ended, Ao dispersed the Imaskari planar barrier that had for millennia been separating the Mulhorandi gods' manifestations from their divine essence in the Outer Planes. As this reunion occurred, Horustep III and other incarnations awoke from their comas, no longer incarnations but mere mortals of divine lineage. It was not long before Horustep III became aware of his situation, but would speak of it to no one.
+
+Horustep III would go on to appoint a new vizier, Kalarzim, to help him in exercising influence over the daily rule of his people. He also became more paranoid, fearful that others may have discovered that he was no longer a lesser avatar of Horus-Re, including enemies within his own church just waiting to strike at him any moment. In an effort to try and maintain the impression that he was divine, Horustep III would frequently summon Horus-Re's avatar, having it inhabit his body.
+
+Following the Untheric god-king Gilgeam's death at the hands of Tiamat, Horustep III realized that without the manifestation's presence the border treaty between the god-kings of Mulhorand and Unther was null. Thus he chose to seize the opportunity and approved a Mulhorandi invasion of Unther, with an army lead by the priesthood of Anhur and aided by the mercenary company Gold Swords. Alongside this campaign to retake Unther, Horustep III strove to reorient the Horus-Rethan clergy away from political infighting and towards greater religious fervor.
+
+Horustep III's campaign would eventually culminate in Mulhorand occupying nearly half of Unther by 1372 DR, forcing neighboring nations to treat them with greater care. And by 1373 DR, his forces had conquered all but the city of Messemprar. Also under his reign there was active trading between the people of Mulhorand and Thay, despite him disapproving of it.
+
+As he grew older the pharaoh was increasingly influenced by the foreign mercenaries that worked for him, particularly Kendera Steeldice, who he became infatuated with. This lead Horustep III to enact changes in Mulhorand's laws by 1372 DR that enforced equality among the sexes, such as allowing women in the same professions as men in order to solve the nation's then-shortage of workers, a change that was suggested by Kendera. Following that he began to consider restructuring Mulhorand's inheritance laws to be more equitable.
+
+Horustep III's reign came to an end around the, when the Spellplague caused widespread devastation in Mulhorand by altering the landscape.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Hordelands
+
+The Hordelands, also known as The Endless Wastes and as Taan by the natives, was once part of the territory of the mighty empire of Imaskar and was populated by horseman tribes, most notably the Tuigans.
+
+People
+The Endless Wastes were occupied by many tribes who controlled loosely defined geographical locations throughout the region. Common belief stated that all of the people of the Endless Wastes were the same, but this was not true. Each tribe had their own cultural differences, separating them from the others with vivid clarity to one who cared to look closely enough. Listed below are the tribes of the Endless Wastes:
+ Commani
+ Dalat
+ Fankiang
+ Gur
+ Guychiang
+ Igidugin
+ Kashghun
+ Khassidi
+ Naican
+ Oigur
+ Pazruki
+ T'aghur
+ Tuigan
+ Tsu-tsu
+ Zamogedi
+
+Geography
+It was bordered on the north by Yal Tengri, on the west by Narfell, Rashemen and Thay, on the south by Murghôm, Semphar and the massive Yehimal mountains and on the east by the empire of Shou Lung.
+
+The Endless Wastes was largely a steppe landscape, too variable in temperature, and too infertile for farming, to make cities viable outside the small lakes and oases that dotted the landscape.
+
+While mostly consisting of steppes, the landscape also had a diverse geography consisting of mountains, sub-arctic forests, cold deserts, glaciers, tundra, and seas, some pleasant and livable, others worse than the steppe itself. Most of this diverse landscape was overlooked by outsiders, who only saw the emptiness of the region.
+
+Trade
+The Golden Way passed through the Hordelands. In this region the Golden Way was not a road but merely a series of marker stones, each visible from the last. The Golden Way led from water hole to water hole and was extremely valuable in this region, for it was often the only marked route to water.
+
+Notable locations
+Settlements
+Almorel One of the major trading cities of the Hordelands located on the Lake of Mists and was founded fifteen hundred years ago by Raumathar.
+
+Quaraband Yamun Khahan's capital from the time of his rise to Khahan until the Crusade.
+
+Winterkeep A city of Raumathar located on the south shore of Yal Tengri.  Originally a nobleman's estate, it later became the winter palace of the royal family and fell into ruins after the collapse of the empire.  By 1357 DR, it was only rubble.
+
+Appendix
+Appearances
+
+Further Reading
+2nd Edition AD&D
+
+3rd Edition D&D
+
+3.5 Edition D&D
+
+4th Edition D&D
+
+References
+
+FR:Désolations sans fin
+pl:Ziemie Hordy
+
+---
+
+## House of Stone
+
+The House of Stone, also known as Stoneturn, was an immense square tower on the eastern edge of the Ardeep Forest. By the, it had been abandoned for at least a decade. Rumors of treasure hoards and artistic wonders drew adventuring bands despite its deadly reputation.
+
+Location
+The House of Stone was approximately one hundred miles (one hundred sixty kilometers) east-northeast of Waterdeep, south of the River Dessarin, and not far from the eastern edge of Ardeep Forest, circa the .
+
+Structure
+The exterior and main structure of the fortress were built with huge blocks of brownish gray stone.Some descriptions are based on artist's renderings. The walls were 25 ft (7.6 m) thick, or more, but the roof and some ceilings were much less robust. The squat tower was square with a flat roof.
+
+Interior
+
+The interior of the keep was best described by the late adventurer, Raethrus of Myratma, who characterized it as "disordered", meaning that all the rooms were of different sizes, architectural styles, and decorations. It was impossible to determine how many floors the tower had because the rooms, halls, temples, towers, and atriums had varying ceiling heights and connected in a three-dimensional maze of stairs, ramps, lifts, secret doors, and hidden passages. In addition, some walls were movable and some rooms could be raised or lowered, so portions of the floor plan were not static. Time and conflict also took their toll on the structure—sections of the roof were broken, crumbling, or completely collapsed, and some rooms were pillaged, looted, or torched.
+
+Despite the depredations of orcs and treasure hunters, the House of Stone contained many decorative fixtures that were either too large to remove or were part of the supporting structure, primarily pillars and statues carved in the likeness of heroes and foes, including non-dwarven races such as elves, humans, minotaurs, and orcs. Reports spoke of secret storage compartments hidden in the ornamentation, some even big enough to hold or hide a medium-sized creature. Many of the walls once held carved murals and bas-relief sculptures of battle scenes depicting dwarven knights vanquishing various monsters. Most of the accessible ones were appropriated by adventuring bands hired by Waterdhavian nobles and became decorations on the outside of their villas and townhomes.
+
+In the center of the House of Stone was Stoneturn Well, a source of potable water near the surface that bubbled up from a subterranean lake. The original keep was built to protect this valuable resource and its name became synonymous with the well's name. Over the years, the dwarves expanded the structure into the formidable edifice that became a bulwark against (and a trap for) the orc hordes that periodically came raiding down the River Dessarin. The expansion also protected the underground granaries that were dug a safe distance away from the water shaft, although foolish intruders managed to breach at least one of these storage caverns and flood it with well-water. Some of the cellars also connected to the Underdark through breaches made from below. There was also an underground passage, called "the Long Run" by the elves of Laughing Hollow, that connected the House of Stone to Ardeep Forest.
+
+Atmosphere
+By 1372 DR, the House of Stone had been left unguarded for at least a decade and was roost to all types of carrion-eating birds that fed on the fallen adventurers that attempted to probe its secrets. The portions of the citadel open to the sky were dank, dirty, and devoid of anything of value except what could be found on the corpses of previous visitors. Deeper inside, the rooms were typically dry, dusty, decaying, and equally empty.
+
+Defenses
+The exterior walls were so thick as to be all but impenetrable but there were obvious ways to get inside so the orcs would rush in when the defenders retreated, only to be slaughtered in stone-walled courtyards with portcullises released to cut off their escape. Other entrances led to the maze of rooms that were riddled with brutal, deadly traps of the crushing and impaling varieties—rams that burst from passages when doors were opened, heavy doors that were deceptively unhinged to fall on the opener, tipping floors over pits filled with spikes, and so on—all dwarven-made of stone to last for centuries. Those that did manage to retreat were typically met with arrows, green slime, and falling logs, all launched from the battlements.
+
+Entering or exiting the House of Stone by magical means, such as teleport and similar methods, had a significant chance to go awry, depositing the unlucky individuals in a random location, possibly elsewhere inside the House. Elminster, the Sage of Shadowdale, noted two such cases: a war dog–guarded garden in Waterdeep and a treacherous rooftop in Secomber.
+
+The only "safe" passages were those inside the blocks that formed the outer walls. They were uncomfortably narrow for human-sized creatures but they connected to the storage cellars by vertical shafts and allowed the dwarves to outflank invaders without having to pass through the trapped rooms.
+
+History
+The House of Stone began construction in the, by the dwarves of Dardath under the leadership of Turgo Ironfist. Originally, Stoneturn was built to protect Stoneturn Well, a source of drinkable water in the region. In the time of Phalorm, the House was expanded and set up as a massive trap to be used against marauding orcs that periodically came down the River Dessarin on a rampage. Mounted elven archers would provoke the orcs to chase them back to the House, whereupon the orcs would be killed in great numbers as they blundered into a seemingly endless series of traps.
+
+After Phalorm's fall in the, the remaining moon elves of Ardeep Forest kept watch over the House of Stone using flying steeds and archers with swiftsleep-tipped arrows, turning back all comers but giving no reason for doing so, until their population dwindled to the point that it became infeasible to guard it any longer. Some years prior to the, the archmage Eroan of Ardeep Forest allowed Mintiper Moonsilver to approach the House. He reported to the Lords of Waterdeep that the gates were forced open, apparently by a hill giant whose corpse was still rotting on a huge claw of stone spikes that had sprung into the courtyard. Mintiper was advised that it was wise to assume the whole building was full of such traps.
+
+The Retreat of the, saw the elven population of Ardeep Forest drop precipitously and continue to decline until they could no longer effectively guard the House of Stone. After the House was abandoned, it became a beacon to countless adventuring bands chasing tales of treasures that remained undiscovered. However, the place was so deadly that carrion birds roosted nearby almost year-round, never going hungry for long.
+
+Rumors & Legends
+Local legends testified that the House still held gems, gold, and an armory of weapons left behind by the dwarves, guarded by magical wards and undead dwarven warriors. Elminster noted that at least two swords, one that could shoot lightning bolts and one that could take its wielder through a dimension door, were carried into the House at some point in its history and, to his knowledge, never reemerged. He also described a small set of ornamental plate armor, made by the elves for the princess Iravralee, that was covered in sapphire cabochons and intricate groove-work.
+
+Reports from survivors of expeditions into the House describe silent, harmless phantoms of humans, elves, and dwarves that run past, armed and in haste, as if to a battle. Another corroborated story told of a chamber holding a small forest of trees wrought entirely of silver. The leaves were said to jangle and chime when gently disturbed, but turn to dust if broken off. Items made of silver brought into contact with one of these trees became immediately cleansed of all tarnish.
+
+The House of Stone was the subject of ballads, poems, and jokes across the Sword Coast North and these suggested various wild stories, possibly based in reality, of the House being the entrance to a city inhabited by the undead, or beholders, or a company of bandits all physically corrupted in horrible ways by magic.
+
+Inhabitants
+By 1372 DR, the ruins were overrun with undead including a great many ghouls and shadows. More than one entrance to the Underdark could be found within and its denizens frequently wandered up into the building.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+
+Scourge of the Sword Coast
+
+Gallery
+
+References
+
+---
+
+## Hordes of Dragonspear
+
+Hordes of Dragonspear is a 2-edition Advanced Dungeons & Dragons adventure module for the Forgotten Realms.
+
+Description
+Hordes of Dragonspear is the 2 book in the FRQ series. The adventure utilizes the Battlesystem ruleset for large scale battles.
+
+It is designed as a high-level adventure, ideally suited for a party of heroes predominantly within the 10th to 12th level range and consisting of five or six members. Should the player group not fit this profile, it is recommended that the DM modify some of the encounters in the book to better align with the party's level and size, ensuring a balanced and appropriate challenge for the players.
+
+Synopsis
+The adventure kicks off with the heroes in Daggerford, where they receive news of a significant force of goblins and kobolds emerging from the Misty Forest. In response to this emerging threat to the Trade Way, the local militia mobilizes immediately. However, when the leader of the militia suffers an injury, the PCs are summoned to assume command of these inexperienced troops.
+
+Once the heroes take command, the Daggerford Army marches southward. They encounter the humanoid forces near the Way Inn. At this location, they ally with a group of mercenaries and engage in battle with the Marauders. With some fortune, they manage to defeat them. However, to their dismay, they discover that the horde is led by a cornugon, known as Vrag, significantly escalating the severity of the threat.
+
+Leaving their amassed forces under the command of their newly appointed leader, the PCs venture into the Misty Forest. In the depths of the wilderness, they encounter a wild elf who has been living like a beast and has succumbed to madness. This elf was once the leader of his tribe, which was decimated by an army of humanoids from the High Moors. Captured and taken in chains to Dragonspear Castle, he suffered greatly.
+
+Upon curing the elf of his insanity, the heroes glean several critical pieces of information. They learn that the overarching leader of the marauding horde is a pit fiend, operating from Dragonspear Castle. Additionally, they discover that the dragon serving the pit fiend is doing so unwillingly, coerced by a magical hold exerted by one of the cornugons leading the enemy forces. The heroes understand that if this magical control were to be broken, the dragon would likely forsake the cause it currently supports, or possibly even turn against its oppressor.
+
+The heroes, with the help of a local druid, uncover crucial information regarding the dragon's situation. They learn that the dragon is bound to obey the cornugon named Vesarius due to an enchanted spear. This spear, which Vesarius crafted, was made from the horn of the dragon itself, thus establishing a powerful magical control over the creature. The druid advises the heroes that destroying this enchanted spear is the key to liberating the dragon from its mental bondage, presenting them with a clear objective to pursue in their quest.
+
+Contents
+ Introduction
+ The Hordes
+ The Allies
+ The Town of Daggerford
+ The Army of Daggerford
+ Council of War
+ Battle at the Way Inn
+ Into the Misty Forest
+ The Druid's Council
+ The Roaring Deep
+ Under the Castle
+ Return to the Inn
+ Against the Hordes
+ Aftermath
+ Appendix: Monstrous Compendium
+
+Index
+
+Characters
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • Pruj •  • Skarr •  •  •  •  •  •
+
+ •
+
+Creatures
+ •  •  •  •  •  •  •  •  •  •  •  •  •
+
+  •  •  •  •  •  •  •  •  •  •
+
+Locations
+Bodies of Water
+Bridges
+Buildings  •  •  •  •
+Forests  •
+Roads & Trails
+Settlements
+Swamps
+
+ •  •  •  •  •
+Magic
+Items
+
+Organizations
+  •  ( •  • ) •  •
+
+Miscellaneous
+Plants
+
+Trivia
+The cover illustration by Doug Chaffee originally appeared in the Player's Handbook 2nd edition.
+
+Gallery
+v
+
+Credits
+ Design: William W. Connors
+ Editing: C. Terry Phillips
+ Cover Art: Doug Chaffee
+ Interior Art: Arnie Swekel
+ Cartography: Steve Beck
+ Typography: Gaye O'Keefe
+ Production: Paul Hanchette
+
+Appendix
+See Also
+ Images from Hordes of Dragonspear
+External Links
+
+ Hordes of Dragonspear on the DMs Guild store (affiliate link)
+ Hordes of Dragonspear on the DriveThruRPG store (affiliate link)
+
+References
+
+---
+
+## Host Tower of the Arcane
+
+The Host Tower of the Arcane, sometimes stylized as the Hosttower,The alternate spelling Hosttower of the Arcane was used in the following sources:
+
+Neverwinter Campaign Setting on pages 10, 12, 13, and 146
+The Forgotten Realms Atlas on pages 77 and 78
+Hall of Heroes on page 68, 69
+The Savage Frontier on page 8
+Streams of Silver by R.A. Salvatore
+The Pirate King by R.A. Salvatore
+Sword Coast Adventurer's Guide on pages 97-98 was both an academy of magical training for the Arcane Brotherhood and the headquarters for their political and economic power in the city of Luskan.
+
+Description
+The Host Tower was located on Cutlass Island at the mouth of the River Mirar in Luskan. It resembled a massive, dead tree with a central spire and four skyward-reaching "limbs" oriented to the cardinal directions. Each of these limbs was covered in lesser spires, towers, and balconies, and contained living quarters, laboratories, summoning chambers, and arcane libraries. The building radiated an aura of magic that many residents found so uncomfortable that they purposely avoided looking at the building.
+
+The top of the central spire was occupied by the leader of the Arcane Brotherhood, the Archmage Arcane. Each of the Brotherhood's four Overwizards occupied the limbs and were given titles and duties based on the cardinal direction of their spire. It was said that every apprentice received their own alchemical laboratory and meditation chamber within the Tower.
+
+Defenses
+While the Host Tower had no obvious physical defenses, it was rumored to have many magical ones. It was a well-known fact that would-be intruders often ended up incinerated or worse.
+
+History
+The earliest account of the Host Tower's existence comes from the Mirar Saga, a Northlander oral tradition recorded in 1237 DR by a loremaster of Waterdeep, which claims the Tower existed during the Northlanders' first migrations to the Sword Coast. This account would suggest that the Host Tower had existed since at least -3000 DR. This is significantly earlier than when the Tower was actually built, so the story likely conflated this first migration with a later one.
+
+The Tower was raised by the netherese arcanist Melathlar in  to protect Illusk from phaerimm attacks, an effort which cost Melathlar his life. Twenty years later in -335 DR, another arcanist named Maerin discovered the fiery primordial Maegera beneath Mount Hotenow. He commissioned the dwarves of Delzoun to build the city of Gauntlgrym in the mineral-rich caverns above the god-like being, and he created a magical siphoning system that took seawater from the Sea of Swords and transported it via roots 'grown' from the Host Tower to Gauntlgrym to keep the primordial's power under control. This process was completed by -321 DR.
+
+In 95 DR, Illusk came under attack from Uthgar Gardolfsson and his raiders from Ruathym. The wizards who ruled the city, called the Grand Cabal, fled into the Host Tower and abandoned the city. Without them, Stefan Blackspear led the people of Illusk in repelling the invaders. He became the first Highlord of Illusk a year later, and immediately decreed that wizards were to be exiled from the city. However, the Grand Cabal persisted in the Host Tower, eventually becoming liches and weathering no less than three orc hordes (in 152 DR, 306 DR, and 611 DR, all of which failed to enter or damage the Tower).
+
+It was not until 806 DR that someone managed to penetrate the Host Tower's defenses. Laeral Silverhand entered the tower and encountered the Cabal, and ultimately sealed the ancient spellcasters back inside. They remained trapped for half a millennium until the arrival of Arklem Greeth in 1311 DR, who managed to bypass Laeral's magic and free the remaining members of the Cabal, who helped him set up the Arcane Brotherhood.
+
+The Host Tower would serve as the headquarters of the Brotherhood for the next several decades. They became the true rulers of the city, now known as Luskan, and based some of their organization's power structure on the architecture of the Tower.
+
+In 1376 DR, Greeth broke his staff of the magi during an invasion of Luskan by Waterdeep. The resulting explosion was large enough to cause damage as far away as Closeguard Island, and it nearly leveled the Tower and killed most of its inhabitants. For over a century, the Tower was a strange ruin haunted by undead, and the locals would not go near it.
+
+The Host Tower was regenerated in 1486 DR. An effort was mounted to reconstruct it by Catti-brie, Gromph Baenre, Lady Avelyere, and others via the power of Maegera and the root system connecting it to Gauntlgrym. The dwarves of Gauntlgrym marshaled numerous raw materials, including original stone from the Host Tower, and the primordial "grew" the structure out of molten rock at the behest of Cattie-brie. The Arcane Brotherhood was reestablished shortly afterward with the Tower once again as their headquarters.
+
+Appendix
+Gallery
+
+Appearances
+Novels
+Streams of Silver • The Pirate King
+
+The Crystal Shard
+Video Games
+Gateway to the Savage Frontier • Icewind Dale II
+
+Notes
+
+References
+
+FR:Tour de l'Hôte
+
+---
+
+## House Dhuurniv
+
+House Dhuurniv was a drow house in Maerimydra and the only house to survive the fall of Maerimydra in 1372 DR. This was due in part to the fact that they had holdings outside the city. Following their escape from the city, they fell in with the Zhentarim's conquest of Shadowdale.
+
+History
+Prior to the Weeping War, Matron Mother Laele Dhuurniv led the Maerimydran forces who wished to reclaim the Land Under Shadow. She accepted the truce that Aolis Ildacer offered the drow but was killed by Aolis's wife Amara Ildacer.
+
+After the events of the Weeping War (711–714 DR), House Dhuurniv was shunned by the other drow houses in Maerimydra for negotiating with the surface elves, despite regaining the Twisted Tower in the process. The three Matron Sisters withdrew largely from Maerimydra and took up residence mostly beneath the Twisted Tower.
+
+After the Silence of Lolth of 1372/1373 DR, the drow of Dhuurniv found themselves as the most powerful house left in Maerimydra. Despite the deaths of both Kurgoth Hellspawn and Irae T'sarran to a band of adventurers, House Dhuurniv was unsuccessful in reclaiming the city and decided to relocate fully to the Twisted Tower.
+
+Some time afterward, House Dhuurniv was contacted by Esvele Greycastle and agreed to an alliance between the Zhentarim, the Church of Shar, and their House. Together they took over Shadowdale briefly in 1374 DR.
+
+Members
+Aunrae Dhuurniv Eldest of the Matron Sisters
+Greyanna Dhuurniv Middle sister of the Matron Sisters
+Xullrae Dhuurniv Youngest of the Matron Sisters
+Azmaer Dhuurniv Last drow marshal of the Twisted Tower
+Laele Dhuurniv Former Matron Mother of House Dhuurniv
+Lirdnolu Dhuurniv A drow cleric who guarded the Skull Subterranes
+
+Appendix
+References
+
+---
+
+## House Jaelre
+
+In 1372 DR, House Jaelre was the largest drow faction in Cormanthor, accounting for about 11% of the drow population.
+
+Objectives
+
+After their expulsion from Menzoberranzan and exile in the Underdark, House Jaelre sought to establish a settlement in Cormanthor after discovering a portal in the Underdark leading there. House Jaelre specifically looked to repopulate a section of Cormanthor which had been abandoned by elves in the wake of the Retreat.
+
+Toward that end, they aimed to satisfy the three requirements of a state: territory (the region around the Elven Court), population, and power to defend their borders. They aimed to achieve this goal through modifying elven magic, specifically the mythals within the ruins of the Elven Court, into forms that would protect them.
+
+Activities
+
+House Jaelre claimed the abandoned Elven Court and surrounding territory before the Eldreth Veluuthra could do so. The elves who abandoned the Elven Court in favor of Evermeet destroyed the largest structures in the area before they left. Members of House Jaelre generally remained on the upper sections of the ruins because the lower sections were riddled with mortally dangerous traps.
+
+House Jaelre repurposed elven structures when possible, but also constructed their own buildings. These buildings served as forts, camps for defense, and places from which to strike against their enemies. As a general rule, such buildings had at least one Underdark level.
+
+They maintained agricultural traditions from the Underdark and did not grow surface food. Instead they acquired surface food through gathering, hunting, and trading.
+
+House Jaelre often covertly stirred trouble in distant lands, such as Mistledale, to trick their non-drow enemies into attacking their drow enemies, thereby diverting attention from themselves and weakening their enemies.
+
+Members
+
+House Jaelre’s members were followers of Vhaeraun and organized in a fashion resembling a military structure. This arrangement, although common to Vhaeraunite groups, reflected a cooperative mindset uncommon in drow cultures. Notably, holding a higher rank did not guarantee special treatment.
+
+They were led by a council of four members. These were:
+
+ Nurkinyan, a cleric; he was the spiritual leader as well as the leader of the leading council
+ Belarbreeza, a wizard; she led the study efforts of the mythal
+ Jezz the Lame, a rogue-sorcerer; he led the striking forces among others against Mistledale
+ Tebryn, a rogue-fighter; he was responsible for House Jaelre’ defenses
+
+In contrast to other religious drow groups, where clerics take leadership roles based on their strength, House Jaelre did not seem to prioritize this approach. Instead, House Jaelre appeared to give more importance to secular standards. This distinction became apparent as the High Priest Tzirik Jaelre possessed the ability to cast spells like astral projection and  gate, while their leader, Nurkinyan, lacked such capabilities.
+
+Relationships
+House Jaelre was formerly a drow house from Menzoberranzan and continued to be composed of drow after their relocation to Cormanthor.
+
+After their departure from the Underdark, House Jaelre abandoned their racial hatred towards elves. However, unlike Clan Auzkovyn, they made no efforts to recruit non-drow. They formed alliances with dragons, mephits, and surface elves who did not harbor racial hatred against them, such as members of Clan Auzkovyn. Enemies of House Jaelre, such as the Eldreth Veluuthra, exploited racial hatred against drow to their advantage. They often disguised themselves as drow, raiding human wanderers and settlements to sow discontent and provoke hostility from humans. House Jaelre, themselves, used this strategy to deceive their non-drow enemies into attacking their drow enemies, simultaneously weakening two enemies at once.
+
+House Jaelre considered all drow sworn to Lolth as enemies. They maintained a fairly good relationship with the Vhaeraun-worshiping groups they traded with. House Jaelre specifically developed an exceptionally positive relationship with Clan Auzkovyn. This is because Clan Auzkovyn did not intend to create permanent settlements, and many of their members worshiped Vhaeraun. Influential members of both groups developed personal friendships, exemplified by the bond between Jezz the Lame and the Widower. The importance of this relationship was highlighted by the fact that neither group would kill trespassers from the other. Eventually, this cooperation developed into a formal alliance called the Masked Brigades.
+
+Magic and Skills
+
+Each member of House Jaelre’s fighting forces was provided with magic items which included at least one healing potion.
+
+House Jaelre displayed a preference for magic items that augmented their own abilities and the intrinsic power of items. These were items usable by anyone. For instance, specialists in stealth were provided with boots of elvenkind, elixir of sneaking and potions of cat’s grace, while warriors were provided with gauntlets of ogre power and potions of bear’s endurance. Potions of spells like blur and invisibility were also common.
+
+Their armor and weapons were enchanted to enhance basic capabilities, prioritizing durability over gimmicks.
+
+As drow, they utilized piwafwis and drow house insignias. More unqiue items included fire elementals gems and rings of antivenom.
+
+House Jaelre heavily employed alchemical goods and poisons. In addition to common items like smokesticks, acid flasks, alchemical fire, thunderstone, or tanglefoot bags, they utilized drugs like kammarth or ziran.
+
+A distinctive trait of House Jaelre's members was their aptitude in stealth, and the fact that many overcame the drow race's weakness to sunlight.
+
+History
+House Jaelre resided in Menzoberranzan until they were expelled from the city. One account suggests that the house was ousted approximately 500 years before 1372 DR due to outrage over the fact that they had a male leader and venerated Vhaeraun instead of Lolth. Another account suggests they lost a civil war and were driven out of the city only decades before 1372 DR.
+
+After being cast out from Menzoberranzan, House Jaelre wandered the Underdark in exile. They settled for a time in the Labyrinth, where they occupied a palace and other holdings. Sometime between 1322 DR and 1372 DR, they found a portal in the newly sacked Blingdenstone, taking them to areas within the forest of Cormanthor that had formerly been protected by mythals. (Alternative accounts suggest the portal was located within their holdings in the Labyrinth.)
+
+In Cormanthor, House Jaelre set up their base in Minauthkeep, an abandoned elven fort.
+
+House Jaelre sought to occupy the ruins of the Elven Court and make use of the mythals and wards there to keep their enemies at bay. To distract from this undertaking, they sent a force led by Jezz the Lame to stir trouble in Dalesfolk.
+
+House Jaelre had relatively little conflict with Clan Auzkovyn, which arrived in Cormanthor around the same time. The latter, being nomadic, did not contest Jaelre's holdings.
+
+A century later, Valan Jaelre (as a simulacrum of himself) led the drow to attack Shadowdale and steal the Pendant of Ashaba.
+
+Notable members of House Jaelre
+Pre-Spellplague
+ Tzirik Jaelre, high priest of Vhaeraun.
+ Jezz the Lame.
+
+Post-Spellplague
+ Valan Jaelre.
+
+Appendix
+References
+
+---
+
+## House Vyshaan
+
+House Vyshaan, or simply the Vyshaanti, were a clan of extremely power-hungry sun elves who came to power in ancient Aryvandaar.
+
+History
+After a time, they became corrupt and learned malignant forms of magic from devils, which gave them arcane might.
+
+In, they gained a secret patron in the fallen solar, Malkizid. They conspired with Malkizid to learn powerful rituals of mythal-craft that hadn't been matched since. They were also the first to use mythal-craft in war. They built crystal citadels on some of the lower planes for their use when they were visiting. Their clans also created some of the best armor and war weapons, including some of the first elven war golems. One of the final acts of House Vyshaan was to make the Waymeet, which was originally developed as a war machine.
+
+Appendix
+
+References
+
+FR:Maison Vyshaantar
+
+---
+
+## Hornblade
+
+Hornblade might refer to:
+ A hornblade (magic item), an enchanted weapon resembling an animal horn with an extendable blade;
+ The Hornblades, the twin scimitar-sized hornblades that were the favored weapons of the goddess Mielikki;
+ The Hornblade (short sword), the favored weapon of the halfling goddess Yondalla;
+ hornblade (weapon property), a weapon enchanted so it may be employed by halflings or gnomes despite being oversized;
+ Taern Hornblade, High Mage of the city of Silverymoon; or
+ Hornblade (longsword), the sword of Taern Hornblade.
+
+---
+
+## Holy avenger
+
+A holy avenger was a rare type of swordAccording to the Player's Handbook 4th edition, the holy avenger property could also be added to axes and hammers, along with 'heavy blades'. This contradicts lore about holy avengers in all other editions. With the exception of this detail, all other information regarding the 4e holy avenger property coincides with the 4e iteration of the  holy avenger weapon. As such it has been incorporated into this article. that were forged to battle evil in all of its forms. They were greatly prized by paladins from all across the Realms. They possessed great and magnificent powers that were only fully realized in the hands of a benevolent holy warrior.
+
+One paladin famously said his holy avenger was his "best and last friend in any situation".
+
+Powers
+Prior to the Spellplague a newly-forged holy avenger was merely a sword that had been forged from cold iron. Its true might was released only when it was placed in the hands of a paladin, whereupon it became a more powerful holy cold iron sword. The blade provided significant protection from magical spells and spell-like abilities to its wielder and their allies. When holding their holy avenger, they were capable of casting greater dispelling at will, and inflicting more damage upon malevolent and unlawful foes.
+
+Those weapons forged during the century following the Spellplague delivered radiant energy unto any foe it struck. Any paladin wielding a holy avenger could use it as a holy symbol and once per day, channel its power to bolster their defenses along with any nearby allies.
+
+Holy avengers forged after the Second Sundering were particularly deadly when wielded against undead and fiends. Like those crafted during earlier centuries, they radiated a magical aura that benefited the wielder's allies. This radiance emanated out for  except when in the hands of most champions. When it was wielded by the most skilled and veteran paladins, this effect extended out for . In addition they only reached their true potential after having been wielded by a specific paladin for some time.
+
+Creation
+To forge a holy avenger, a craftsman had to have both been of good alignment and have access to the holy aura spell. The creation of such a great holy blade required at least 60,000 gold pieces along with great amount of time and heroic levels of energy.
+
+Notable Owners
+ Chardath Spulzeer, the last remaining member of his family from Castle Spulzeer in Tethyr.
+ Gareth Dragonsbane, the King of the Bloodstone Lands following the Bloodstone Wars.
+ Randers, a mighty human paladin in the mid-to-late 14 century DR.
+ Raziel, the celestial paragon.
+ Ruben Armand St. James II, a paladin of Tyr and leader of the Golden Gauntlets.
+ Shadowdeath, the young shadow dragon that dwelled within the Tower of Ruin.
+
+Notable Holy Avengers
+
+ Brightstar, a sentient longsword that belonged to James Brennen Alwin IV of Ravens Bluff.
+ Carsomyr, a greatsword that had been hoarded away by the red dragon Firkraag.
+ Cera Sumat, this blade was used by Old Duke Ehld to slay the Lost Followers of Bane.
+ Clamorour, the sword of Piergeiron Paladinson, Open Lord of Waterdeep.
+ Crusader, the blessed longsword of Gareth Dragonsbane.
+ Duty's Bond, the sword of the mortal Torm.
+ Hill Cleaver, a longsword wielded by Dragonbait.
+ Pale Justice, a Tyrran longsword.
+ Purifier, the bastard sword carried by the legendary Sir Wediyer.
+ Sword of Peredus, a lesser version of a holy avenger, wielded by Peredus the Great.
+ Titanslayer, wielded by Gwydion "the Quick", champion of Torm.
+
+Appendix
+See Also
+Soul mate
+Notes
+
+Appearances
+Adventures
+The Bloodstone Lands • The Bloodstone Wars • Curse of the Azure Bonds • Four from Cormyr • Undermountain: The Lost Level • Tomb of Annihilation
+Novels
+Azure Bonds
+Video games
+Baldur's Gate series (Baldur's Gate II: Shadows of Amn • Baldur's Gate II: Throne of Bhaal) • Icewind Dale series (Icewind Dale (game) • Icewind Dale II) • Neverwinter Nights series (Neverwinter Nights • Neverwinter Nights 2 • Neverwinter Nights: Darkness over Daggerford • Neverwinter Nights: Tyrants of the Moonsea) • Tales from Candlekeep: Tomb of Annihilation • Sword Coast Legends • Warriors of Waterdeep
+Card Games
+AD&D Trading Cards •
+Gallery
+
+References
+
+Connections
+
+---
+
+## House Chûmavh
+
+House Chûmavh was the ruling drow house of the city of Maerimydra in the Deep Wastes in the 14 century DR.
+
+Base of Operations
+Until 1372 DR, House Chûmavh resided within the impressive Castle Maerimydra, which overlooked the city of the same name. After the city's destruction, however, Tower Chûmavhraele became the new base for the House under the city of Ravens Bluff.
+
+History
+Rulers of Maerimydra
+In the, the Silence of Lolth rendered all the Lolth-worshipers in Maerimydra without their ability to cast divine spells. In the wake of this, many sought to overthrow the city, including the city's archmage. Although Archmage Duneth Wharreil and his demonic allies did not topple the defensive structure of Castle Maerimydra, another enemy did manage to defeat them. The aspiring cult of Kiaransalee, led by Irae T'sarran, sneaked into the Castle and slew all House Chûmavh's Lolth-worshipers. There ended the reign of House Chûmavh in Maerimydra.
+
+Beneath Raven's Bluff
+After the fall of Maermydra, the survivors relocated to Tower Chûmavhraele under the leadership of Marquise Dresimil Chûmavh. In the, House Chûmavh attempted to activate an ancient drow mythal, inadvertently releasing Jack Ravenwild in the process.
+
+Appendix
+Reference
+
+---
+
+## House of Plenty
+
+The House of Plenty was a low-lying temple of Chauntea in the Shadowdale region.
+
+Location
+This temple was situated upon an area once known by locals as the Bog.
+
+Description
+The House of Plenty consisted of a natural amphitheater, which was comprised of three buildings linked together in a wide, C-shaped pattern by columned porticoes. An arrangement similar to the menhirs of Druid's Grove. The grounds of the temple, known locally as The Garden, encircled this structure.
+
+The Garden was an ordered series of flower gardens, vegetable patches, and topiaries, as well as a small orchard and a garden maze.
+
+Activities
+The House of Plenty grew a variety of food, tending to its plants during the day. They not only made enough to feed both themselves and their neighbors, but experimented with raising new breeds of plants that could withstand the cold winters of the Dalelands.
+
+In addition, the temple's lay followers provided aid to the injured. And they helped with the crops of poor farmers in the more distant freeholds of Shadowdale.
+
+History
+Members of the Church of Chauntea founded this Shadowdale branch of their faith immediately following the event known as the Time of Troubles, operating their services out of the barn of Beregon Hillstar. With many in the Dalelands uprooted by the Time of Troubles, a number of refugees traveled to Shadowdale and took up service as lay followers of this Chauntean branch. Before long, the Chaunteans gained sufficient enough support and charitable donations to construct a proper temple complex.
+
+They chose an area of swampy marshland to build what would become the House of Plenty, which they drained most of with the help of the Circle. With the help of this group they also slayed the undead that inhabited ruins in the bog and plugged up the natural spring beneath it.
+
+Much later, in the year, when Scyllua Darkhope and her Zhentish forces invaded Shadowdale the House of Plenty was left largely untouched. However, it did suffer significant vandalism towards its topiaries and garden maze. Some time after this vandalism Eregul the Freestave, the most high-ranking wizard in the Zhentarim Occupation Army, would inform the clergy that the House of Plenty's continued survival in the months to come was contingent upon them successfully growing a bumper crop to feed the Zhentish forces.
+
+Inhabitants
+In the mid-14 century DR, the High Harvestmistress of this temple was Glamerie Windbough. In 1367 DR, her clergy consisted of sixteen other clerics of low rank, two of which were assistants, and thirty-six men and women who served as lay followers and worked in the temple's garden.
+
+By 1375 DR, the clergy had grown to a size of fifty-three members, seventeen of them clerics and forty-seven of them lay followers.
+
+Reputation
+The House of Plenty was not a greatly popular option for healing among most adventurers, due to the clergy's frequent discussion of gardening.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House Morcane
+
+House Morcane was the ruling house of Lolth-worshiping drow in the  settlement of Szith Morcane.
+
+History
+The house was overthrown on Marpenoth 12, 1372 DR, by the worshipers of Kiaransalee, who were chasing refugees from the destroyed Maerimydra.
+
+Members
+ Alisannara Morcane: High Priestess of Szith Morcane, turned into a ghost.
+ Tierak Morcane: Priestess of Lolth who fled the overthrow of Szith Morcane.
+ Dessa sik-Morcane: Minor noble and a powerful barbarian, taken prisoner by the clerics of Kianransalee.
+
+Appendix
+References
+
+---
+
+## Holy Warriors of Suffering
+
+The Holy Warriors of Suffering were a knightly order of paladins devoted to Ilmater, the Broken God, and affiliated with the Church of Ilmater.
+
+Base
+The Holy Warriors of Suffering were based out of a fortress located on the site of what was later Castle Dasaajk, east of the Purple Hills in Tethyr.
+
+Activities
+The Holy Warriors undertook various dangerous missions and expeditions to cull monsters.
+
+History
+After enchanting the sword Dornavver in the Year of the Wrath Sword, 275 DR, the Church of Ilmater entrusted the blade to the Holy Warriors of Suffering. They desired that it should be used to battle the spread of evil around southwestern Faerûn, particularly fiends. Dornavver was kept and wielded by the Holy Warriors for over a century.
+
+Finally, an unnamed paladin of the order took the sword and journeyed north to the realm of Torsil, then under the tyrannical rule of Uldoon, "the Mage of Fangs", whose armies of summoned fiends had terrorized the surrounding lands. Wielding Dornavver, the paladin battled through the fiends of Torsil and defeated Uldoon. These heroic deeds were recorded in the ballad "Uldoon's Doom". Following the downfall of Uldoon, the paladin then traveled west of the Heartlands, bearing the sword. Its whereabouts were unknown for over a hundred years.
+
+Around 1265 DR, Archsufferer Bloirt Waelarn of the House of the Broken God in Keltar had denounced the Ilmatari priests of the House of Holy Suffering in Mussum for refusing to relinquish the Tome of Torment, the holiest book of the faith, and declared them degenerate, mentally ill heretics. The Mussum priests and the Companions of the Noble Heart attacked Waelarn and his followers, labeling them "false clerics" and "subverted by evil". An angry Waelarn summoned the Holy Warriors of Suffering, as well as the Knights of the Bleeding Shield, and the Order of the Golden Cup, to his side and vowed holy war against the "unclean ones of Mussum" and their allies. The war saw the violent clashes of Holy Hill Farm in 1266 DR and Bronsheir's Charge and Weeping Rock in 1267 DR. Finally, Lord Sir Jargus Holenhond of the Golden Cup called an end to the bloodshed between true believers, insisted that the Tome of Torment be transferred to Keltar as planned, and blamed Bloirt Waelarn for the senseless violence, determining that he should be removed from office and sent into hermitage for the remainder of his years. The weary paladins accepted and carried out his judgment.
+
+Shortly after the war, Althea the Abased, the new leader of the House of the Broken God, declared that no high-ranking member of the church was worthy of the Tome. Althea selected Blaermon the Blessed, a knight of the Holy Warriors of Suffering named for surviving many hopeless battles, to take away the Tome of Torment and bestow it upon the first "needy and worthy" Ilmatari he met, someone who worked or fought for the benefit of the common people and their faith, not merely for wealth and adventure. In the Year of the Daystars, 1268 DR, Blaermon gave the Tome to Flaergon of Glister, who devoted his efforts to assisting miners and caravan-workers in the frozen north of the Moonsea.
+
+The Tome was again in the possession of the House of the Broken God from 1343 DR to 1362 DR, during which time it was occasionally loaned to Ilmatari priests embarking on dangerous missions and monster culls with the Holy Warriors of Suffering.
+
+Appendix
+Notes
+ Although the Holy Warriors of Suffering are named as a "a knightly order of paladins" in Champions of Valor, the same book suggests (on page 100) that there are only two Ilmatari paladin orders circa 1374 DR: the Companions of the Noble Heart and the Order of the Golden Cup. In Prayers from the Faithful, the Holy Warriors are listed separately from "the paladins of the Order of the Golden Cup". Both statements suggest that the Holy Warriors are not paladins. It is possible that the Holy Warriors no longer included paladins by the 13th century, or perhaps were disbanded by the 1370s.
+
+References
+
+---
+
+## House Melarn (Ched Nasad)
+
+House Melarn was a drow house in Ched Nasad that fell with the destruction of Ched Nasad during the Silence of Lolth  in the .
+
+House
+House Melarn's compound was a huge cyst-like bulge on the second-highest level of the city.
+
+The waiting room at House Melarn was covered in statues and frescos with motifs of spiders, webs, drow, and musical instruments. There was a broken bust of Mathira Melarn in House Melarn's great hall.
+
+Activities
+House Melarn and House Baenre of Menzoberranzan owned the Black Claw Mercantile Company, whose storehouses were operated by House Zauvirr.
+
+House Melarn had a secret family tradition: chosen females studied bae'qeshel bardic magic to become "dark minstrels."
+
+History
+Prior to its fall, House Melarn had stood for twenty centuries or more.
+
+In 1372 DR, Matron Mother Ssipriina Zauvirr hired the duergar mercenary band Clan Xornbane to assist in an attempt to destroy House Melarn. Ssipriina took over the Black Claw storehouses, killing Matron Mother Drisinil Melarn. Unfortunately, Clan Xornbane was given the direction to attack House Melarn prematurely, destroying the house with stonefire bombs and causing it to collapse into the city cavern. This contributed to overall chaos in the city, which (as part of a Jaezred Chaulssin plot directed by Zammzt) rapidly destroyed itself.
+
+Sometime in 1366 or 1377 DR, Q'arlynd Melarn discovered that the sigil of House Melarn, which resembled a dancing stick figure, was in fact a crude depiction of Eilistraee, and showed that some of the drow that remained were free from the Taint of Wendonai and still had in them a speck of good.
+
+Members
+ Drisinil Melarn: The last matron mother of the house, who was murdered by Clan Xornbane in 1372 DR just before the fall of Ched Nasad.
+ Jawil Melarn: Halisstra's sister. At one point, Halisstra's sister Jawil pushed her off a ledge after Halisstra won a race. Halisstra later killed after Jawil made an attempt on her life.
+ Halisstra Melarn: First Daughter of House Melarn, who escaped the destruction with Ched Nasad and joined with Quenthel Baenre to investigate the Silence of Lolth. She eventually became Lolth's Lady Penitent.
+ Mathira Melarn: Sword Dancer of Eilistraee. She wielded the Crescent Blade until her death on the Cold Field, where she remained as a ghost until she passed the blade on to Halisstra in 1372 DR.
+ Norendia Melarn: Halisstra's sister, who killed Halisstra's bard tutor and whom Halisstra killed.
+ Tellik Melarn: A male of House Melarn in the years immediately before the city fell, who was sacrificed for worshiping Vhaeraun.
+ Q'arlynd Melarn: The last house wizard. He survived the fall of Ched Nasad and eventually redeemed himself and was freed of the taint of Wendonai and became a dark elf.
+ Danifae Yauntyrr: A battle-captive from Eryndlyn. She was not truly a member of the house, but she served Halisstra.
+
+Appendix
+References
+
+---
+
+## House of Tezca
+
+The House of Tezca was a large desert found in south of Nexal on the continent of Maztica. It was named after Tezca, the Maztican god of the sun and heat.
+
+Geography
+The House of Tezca was a bleak, barren land of sand and stone. In it could be found Sunstone and Tewahca, the City of the Gods. After Qotal's return and the flight of many refugees from Nexal, Qotal caused a series of oases to spring up in a line down the middle of the desert, and a larger lake near the center of the desert itself, inside a fertile valley. It was by that lake that Nexalans built a new city, Tukan.
+
+Inhabitants
+The House of Tezca was inhabited only by desert dwarves, who lived in small villages cut directly into canyon walls.
+History
+Sometime in the distant past, Tewahca was built, including the massive pyramid upon which Zaltec and Qotal fought their legendary battle.
+
+At some point, during the reign of Chalco, the Nexalan Empire sent an army across the northern part of the House of Tezca to conquer Kolan. Later, in the year 1362 DR, Qotal caused a series of oases to spring up in a line along the middle of the desert, and a lake in a fertile valley in the center of the desert. Here the Nexala people established Tukan.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Horreb
+
+Horreb was an ancient fallen civilization south of Barze. It was known for its potent magical artificers.
+
+History
+Horreb took part in the defeat of the primordial Maram of the Great Spear in . Horreb artificers created a magic item known as the Horreb ritual cube, whose purpose was to keep Maram locked away in his otherworldly prison.
+
+About a year later, Horreb was conquered and leveled by Tyranthraxus and his Twisted Ones, who also killed its rulers.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Howard Holiday
+
+Howard Holiday was the Deputy Mayor of Ravens Bluff circa 1357 DR.
+
+Description
+Howard stood  tall and weighed . He wore stylish clothes and was one of the most handsome politicians in Ravens Bluff.  He was rarely seen without his signature hat, a fancy broad-brimmed hat decorated with a hippogriff plume. The hat was a magical hat of difference, which gave him his illusionist ability.
+
+He was aged 38 around 1357 DR.
+
+Personality
+Obsessed with details, he continually interfered in the work of others, thinking that nothing could be done properly without his assistance. As a result, he was often weeks behind schedule on projects the Lord Mayor assigned him. However, he was very friendly, outgoing, charismatic, and generous to a fault, which made it hard for people to refuse his "help". As he saw it, marriage was not in his near future because he was too busy to become seriously involved with a woman, even though he was one of the most desirable bachelors in town.
+
+History
+Howard came to Ravens Bluff around 1347 DR looking for something less dangerous than the life of an adventurer. He held jobs as a constable, security guard, stock boy, merchant's assistant and other odd jobs. While working for a merchant waiting on customers, he befriended an old wizard who was a regular customer and who enjoyed his tales of adventure. The wizard invited him on a short mission that turned into a two-month journey to a partly demolished castle and a tough battle against several trolls. When he returned to Ravens Bluff, he was out of a job so his wizard friend gave him a job as a guard and started tutoring him in the ways of magic. Howard began to adventure again, and by age 32 had attained a moderate spellcasting ability and held the respect of other mages in the guild.  This brought him to the attention of Ambassador Carrague, who recommended Howard to Lord Mayor Charles Oliver O'Kane. The Lord Mayor gave him a chance and Howard exceeded all expectations, eventually becoming Deputy Mayor and one of O'Kane's chief advisors.
+
+Activities
+Howard's duties included keeping the Lord Mayor's schedule and appointments, setting the agenda for Council meetings, managing the city bureaucracy, and receiving regular reports from the Lord Regent, the Chancellor, the Lord Marshal, the Chief Prelate, and the Lord Speakers of the Council of Lords and the Advisory Council. He had one other duty that few knew about—he managed an extensive network of spies and informers, usually through his chief spy Chaney. Howard kept all covert activity from being traceable to the Lord Mayor.  If any operation should go spectacularly wrong, Howard would take the blame.
+
+Appendix
+References
+
+---
+
+## House of Wonder
+
+The House of Wonder was a mage academy and temple of Mystra located in the Sea Ward of Waterdeep.
+
+Location
+The temple dedicated to Mystra was located on Flint Street and Pharra's Alley, which was named after the first mistress of the temple, Pharra.
+
+Structure
+In the late 15 century DR, the temple displayed ostentatious towers with mosaics and displays of magic. Throughout the structure, violets were carefully planted in memory of Ahghairon.
+
+Activities
+During Gods' Day on Marpenoth 15, a huge festival was held at the House of Wonder celebrating Midnight's elevation as the new Mystra. By the late 14 century DR, this practice had gradually begun to be adopted in other temples of Mystra throughout Faerûn.
+
+History
+Prior to the Spellplague and Mystra's demise, the House of Wonder was a temple of Mystra. The temple was erected in 1215 DR and continued to function as a house of worship until 1385 DR.
+
+After the Spellplague, the former temple was used to educate young mages. In 1479 DR, Master Rhinzen Halnian nearly destroyed the entire complex when he cast a meteor swarm spell at three apprentices he mistook for devils during a haepthum-induced stupor.
+
+By 1480 DR, the House of Wonder had been rebuilt and a new master installed. By 1492 DR, the temple served as a place of worship for all the gods of magic, although Mystra still featured prominently among them.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Waterdeep: Dragon Heist
+Novels
+The God Catcher • Circle of Skulls
+Board Games
+Lords of Waterdeep
+Video Games
+Lords of Waterdeep
+
+Gallery
+
+References
+
+FR:Maison des Merveilles (Eauprofonde)
+
+---
+
+## House Veruna
+
+House Veruna is a very large trading company based in Mulmaster, with several enterprising bases in Moonsea cities.
+
+ History
+In the mid 1470s DR, House Veruna commissioned a compound in the frontier town of Hulburg, with large help from Sergen Hulmaster. When Sergen made a bid for power in the 1479 DR and tried to have his family killed, he used several House Veruna mercenaries to keep them contained within Griffonwatch Keep, where Sergen's minions were doing their dirty work. After the Hulmasters escaped, Sergen fled Hulburg and House Veruna was banned from the town.
+
+Appendix
+References
+
+---
+
+## House of Thorne
+
+The House of Thorne was a dilapidated old mansion in Waterdeep's Sea Ward.
+
+Structure
+The home was named for the thorn vines that grew on its walls.
+
+History
+Around 1079 DR, the House of Thorne was the site on which the Circle of Skulls attempted the ritual of the First Flensing. In 1480 DR, noblewoman and wizard Rilyanna Saerfynn attempted to complete the ritual in the house's basement but was killed by Quessahn Uthraebor.
+
+References
+
+---
+
+## Holivanter
+
+Holivanter was a wizard of the mid–8 century DR.
+
+Activities
+He was known to be quite merry. He summoned beasts to build his tower and taught them all sorts of songs and chants. He was known to have talking frogs, and even a couple of winged frogs.
+
+History
+Holivanter was killed when the wizard Dasumia used a magical rod to destroy his tower while he was inside it as a demonstration to Elminster, in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Homunculus
+
+A homunculus The name is misspelled "homonculous" in early sources, including Monster Manual 1 edition and Monstrous Manual. was a tiny construct created by a spellcaster to act as a spy and servant.
+
+Description
+Homunculi were small constructs that were usually the same size as typical squirrels.
+
+Personality
+These constructs were completely loyal to their masters and remained their faithful companions until death.
+
+Abilities
+Any homunculus could telepathically transmit anything it saw or heard back to its creator. It also knew everything its creator knew, including the ability to understand and read any languages known by its creator. Although they possessed a telepathic link to their masters, homunculi could not verbally speak.
+
+If the creator of a homunculus died, the creature also perished and its body melted away into a pool of ichor.
+
+Combat
+Homunculi were very poor combatants, only being able to utilize a bite with their little mouths. However, they had a small chance to poison their foes. If their foes reacted badly to the poison, they could become unconscious.
+
+Ecology
+
+The vast majority of homunculi were created by wizards and artificers. Some artificers were also capable of constructing specialized homunculi designed to aid them and their allies in battle.
+
+As constructed creatures, homunculi did not require food or water to survive. They also did not need to breathe or sleep.
+
+Creation
+Homunculi were created through a lengthy procedure involving sculpting the construct's body from clay, ash, mandrake root, and spring water. The entire procedure needed to be carried out in a properly equipped alchemist's laboratory. The base component cost for shaping the body was 50 gp, but stronger homunculi could be created by employing finer components at a larger cost. The sculpture was then brought into life by mixing it with  of its creator's blood. The blood needed to be collected through the use of a ceremonial dagger encrusted with jewels worth no less than 1,000 gp. The sculpted body was then brought to life via a 1-hour-long incantation of the create homunculus spell. A spellcaster could only have one homunculus at a time.
+
+This blood created a mystical bond, allowing the creator to see and hear everything the homunculus experienced over great distances, so long as they were on the same plane. However, there was a drawback in that if the construct was slain, the creator suffered damage. It was also possible to transfer some of the homunculus's master's own vitality into the construct, in order to temporarily boost its vitality.
+
+Appendix
+Notes
+
+Appearances
+
+Gallery
+
+External Links
+
+References
+
+---
+
+## Hours of the day
+
+Most inhabitants of Faerûn divided the day into ten segments. Common names for these divisions of the day are given below:
+__TOC__
+ Dawn  The time around sunrise.
+ Morning  The time between sunrise and highsun.
+ Highsun  When the sun was directly overhead; also called "noon" or "twelve bells".
+ Afternoon  The time after noon.
+ Dusk  The time before sunset.
+ Sunset  The time around sunset.
+ Evening  The time after sunset.
+ Midnight  The time roughly 12 hours after noon; also called "twelve bells".
+ Moondark  The darkest part of night; also called "night's heart".
+ Night's end  The time before sunrise.
+
+Other divisions in common use included:
+ Godswake  The time before dawn.
+ Harbright  From dawn to highsun.
+ Elsun  The latter hours of morning.
+ Thulsun  The early hours of afternoon.
+ Tharsun  The latter hours of afternoon.
+ Eventide  Same as evening, twilight, or gloaming.
+ Nightfall  Same as dusk.
+ Gateclose The hour at which a city's gates close for the night; the exact time could vary from city to city.
+ Night  The hours of darkness.
+ Deepnight  Same as midnight.
+
+None of these divisions were precise. Different folk's usages might overlap with others. In general, however, these slots of time ranged between one and four hours.
+
+In larger cities, bells were sometimes used to mark the hours. The churches of Gond and Lathander were also particularly interested in accurate timekeeping. In such cases, hours were numbered 1 through 12 twice, with 12 being both highsun and midnight. Bells were commonly used on spelljammers as well. "Evenpeal" was an hour in the late evening; it was the last hour for which bells were rung in Waterdeep.
+
+Magically Auspicious Times
+When practicing the Art, the position of the sun could have noticeable effects on the efficacy of certain spell components. These times of day and the item affected, as told by Elminster, are listed below:
+ Foredawn  The quarter-hour before 5 am to the quarter-hour after 5 am. Magical immersions using turquoise were best used at this time.
+ Mornbright  The quarter-hour before 8 am to the quarter-hour after 8 am. Any spells or magical writings using amethysts were more likely to succeed during this interval.
+ Midmorn  The quarter-hour before 10 am to the quarter-hour after 10 am. Magical workings using sapphires were best done during this period.
+ High morn  The quarter-hour before 11 am to the quarter-hour after 11 am. When enchanting a weapon adorned with garnets, starting the procedure during this interval generally produced the most favorable results.
+ Highsun  "Noon", as above. Magical workings involving diamond dust produced an increase in effectiveness when the sun was directly overhead.
+ Waterclock  The quarter-hour before 2 pm to the quarter-hour after 2 pm. Casting spells or other magical processes using emeralds as a component had an increased chance of success if performed at this time.
+ Time of summer sunset  About 5 o'clock in the afternoon. Enchantments involving powdered ruby were most effective when performed at this time of day.
+ Twilight  Around 6 o'clock in the evening. Steps of an enchantment process using opals had the greatest chance for success at this time.
+ Candleglass time  The quarter-hour before 9 pm to the quarter-hour after 9 pm. Powdered jade was best added to magical immersions during this interval.
+
+Appendix
+See also
+ Calendar of Harptos
+Reference
+
+---
+
+## Horn coral
+
+Horn coral was not a mineral but a highly prized variety of coral. It was also known as night coral.
+
+Description
+The deep black version of horn coral was similar to angelar's skin except for its solid color. It was polished and used in jewelry, typically cut cabochon or left in its twig and branch form. A typical specimen had a base value of 500 gp.
+
+Powers
+Horn coral had the unique property of granting water walk to someone wearing the item. To release this power, the wearer had to touch the horn coral with one of their own tears and call on the ability. The effect lasted up to an hour, after which, the horn coral disintegrated into dust. A few rare specimens did not dissolve and could be reused after about ten minutes. There was no known method of distinguishing which specimens would not be consumed by casting water walk except by trial.
+
+Trivia
+The lesser deity Vhaeraun was known to occasionally send horn corals to show his favour or disfavour to his followers.
+
+Appendix
+See also
+ Coral
+ Angelar's skin
+ Water walk
+Gallery
+
+External Links
+
+References
+
+---
+
+## Hornbill ivory
+
+Hornbill ivory was not really ivory, it was material from the beak of the hornbill bird.
+
+Description
+The hornbill bird in the realms was a large bird with gray plumage and a heavy beak. The sturdy beak could be carved like ivory, and was used to make personal items like combs or beads. It was also used as an inlay in stone or wooden furniture. A typical price was 7 silver pieces per pound (0.45kg).
+
+Powers
+Hornbill ivory could be used as a material component for spells as well as magical items and tokens that pertained to flight.
+
+Appendix
+See also
+ Ivory
+External links
+
+References
+
+---
+
+## Horned helmet
+
+A horned helmet was a type of shell related to other helmet-type shells.
+
+A large specimen in good condition had a base value of 50 gp.
+
+Appendix
+Notes
+The "horned helmet" is a name for the cassis cornuta sea snail.
+
+External links
+
+References
+
+---
+
+## House of Inspired Hands
+
+The House of Inspired Hands was a temple of Gond in Waterdeep.
+
+Location
+The temple was located in the Sea Ward on the south side of Shark Street, at the corner with Seawatch Street.
+
+Structure
+This temple was three-stories tall.
+
+Inhabitants
+The House of Inspired Hands was led by High Seeker Jhoadil Zulthind.
+
+Appendix
+References
+
+FR:Maison de la Main Inspirée
+
+---
+
+## House of Pain
+
+The House of Pain was a temple of Loviatar in the uppermost level of Undermountain beneath Waterdeep.
+
+The temple was led by High Whipmaster Hlethvagi Anteos.
+
+References
+
+FR:Maison de la Douleur (Montprofond)
 
 ---
 
@@ -491,6 +4005,2340 @@ FR:Maison de la Lune
 
 ---
 
+## House of the Leaflord
+
+The House of the Leaflord was a temple to Rillifane Rallathil in the Yuirwood, about 1 mile (1.6 kilometers) outside  Relkath's Foot in Aglarond. It was one of the largest temples to Rillifane anywhere in Faerûn.
+
+Appendix
+
+References
+
+---
+
+## House of the Master's Shadow (Uthmere)
+
+The House of the Master's Shadow was a temple of Mask in Uthmere. The House was hidden in the worst part of town, led by the Shadowmasters of Telflamm.
+
+References
+
+---
+
+## House of Bhalla
+
+The House of Bhalla was a temple to Chauntea in Immilmar, Rashemen.
+
+Structure
+The House was a old medium sized stone building near the Iron Lord's citadel.
+
+Inhabitants
+Around 1372 DR, the temple was led by Brother Dervarr.
+
+Appendix
+Appearances
+Unapproachable East
+
+References
+
+---
+
+## House of the Master's Shadow (Telflamm)
+
+The House of the Master's Shadow was a temple of Mask in Telflamm. The House served as the headquarters of the local thieves guild, led by the Shadowmasters of Telflamm.
+
+The House looked like any other temple in Telflamm, except that it had no locks. There was no point in locks considering the worshipers here were Shadowmasters and followed the god of thieves. Everyone else in town knew better than to try to take something from this temple.
+
+References
+
+---
+
+## Hope domain
+
+The Hope domain was a divine domain that granted hope-themed powers to a divine caster.
+
+Theme
+The hopes of people took many different forms, like the hope that a current problem would be smoothly resolved for the best; the hope that the efforts of the current generation would bear fruit for the future; or the hope that a child would grow up and demonstrate wisdom and kindness.
+
+Hope Domain Deities
+
+These hopes were reflected in the deities who granted this domain. The "Domains in Eberron and the Forgotten Realms" article in Dragon #378 says that four deities in the Realms offer the 4th-edition Hope domain, but lists only three. This is presumed to be in error. However, the fourth may be Bahamut from the core sourcebook Divine Power, who does have a presence in the Realms.
+
+Angharradh and Chauntea both had hope in the birth of animals and the planting of seeds, viewing new life as full of majesty and potential. Although Chauntea disliked seeing destruction of the natural world, she nevertheless anticipated its regrowth and renewal.
+
+Ilmater's teachings focused on hope, in encouraging his followers to help the suffering, to stand up against tyranny, and to possess enormous spiritual faith. Ilmater persevered and endured, overcoming pain to be a beacon of hope to others.
+
+Bahamut had hope that righteous behavior, upholding honor and justice, would hold back soul-corrupting darkness. His faith was in the soul and in the spirit.
+
+Powers
+Power of Hope
+A divine caster with the Hope domain would become more diplomatic. In addition, if they successfully used one of the avenging light, leading strike, righteous brand, or valiant strike prayers, depending on their path, then a nearby ally would have their next strike become more accurate.
+
+Hope Remains
+Furthermore, one who could channel divinity could employ it when they or a fallen ally were revived after being knocked out. Powered by hope, they briefly became harder to hit and harder to hurt, and more accurate in attack.
+
+Appendix
+The Hope domain is a pair of feats and powers originally presented in Divine Power for the 4th-edition ''Dungeons & Dragons ruleset.
+
+Notes
+
+References
+
+Connections
+
+---
+
+## House of Firehair
+
+The House of Firehair was an enormous fortified cathedral dedicated to Sune that sat atop a pastoral hill in the middle of Daerlun.
+
+Structure
+Walls surrounded the entire hill that the House of Firehair stood upon, separating it from the rest of Daerlun. The central structure was composed of numerous buildings, each connected with those nearby by soaring stone bridges. The House of Firehair maintained a warm and habitable atmosphere even during the winter months and was decorated with hanging plants. The priests raised and tended to the beautiful birds that would perch on the cathedrals creeping plants. Its graceful arches were famed all across Faerûn as the pinnacle of gentle beauty.
+
+History
+The House of Firehair was older than Daerlun itself, as the city grew up from a small village that was originally founded to serve the temple's inhabitants. By 1374 DR the temple still stood.
+
+Inhabitants
+By 1358 DR, The House of Firehair was led by High Priestess Thauna Maskalar. Serving the high priestess were a total of 48 clerics, all humans and half-elves, and 336 lay followers. These worshipers of Sune helped to tend the sprawling complex and sacred enclave. Thauna and her followers still resided there even by 1374 DR.
+
+Appendix
+References
+
+---
+
+## House of the Hand
+
+The House of the Hand was a temple of Torm in the Temple District of the city of Procampur in the Vast.
+
+History
+Clerics of the House of the Hand forged the sword Chalsembyr's Heart for the paladin Bertold the Seeker, to aid him in his quest to discover the lost kingdom of Chalsembyr. However, they did not inform Bertold of the sword's ability to absorb his soul upon his death. The purpose of this was to preserve his knowledge and findings, so that they might be passed on to future seekers of Chalsembyr.
+
+By 1357 DR, the House of the Hand was led by High Priest Pallar the Obedient. Pallar was still in charge by 1367 DR.
+
+Early in the Year of the Shield, 1367 DR, priests of Torm ran Calispar Delgorth, a priest of Talona, out of Procampur. In Marpenoth of 1367 DR, when Procampur was struck by the featherlung plague, clerics of Torm treated the sick within the Temple District.
+
+When Calispar later dealt with the Shadowkind assassins in the Year of the Gauntlet, 1369 DR, he asked them to assassinate the high priest of Torm.
+
+Inhabitants
+In the 1350s and 60s, the temple was led by High Priest Pallar the Obedient, with 26 subpriests and 48 lay-worshipers.
+
+Appendix
+Notes
+ Oriphaun McMaren and his crusader order, based at a "sword temple", are implied to follow Torm, suggesting that they are attached to or based at the House of the Hand.
+
+References
+
+---
+
+## House of Knowledge (plane)
+
+The House of Knowledge was a celestial plane in the World Tree cosmology model and an Astral dominion in the World Axis cosmology model. In the Great Wheel cosmology it was the divine realm of Oghma in the Outlands. The realm had a strong connection to the magic of true names.
+
+Oghma's library held an original copy of Gargauth's journal from his time as emissary for the Lords of the Nine. Cyric perused this journal to find a spell that would let him see through all divine barriers and deceptions to aid in finding Kelemvor's soul.
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## House of Nature
+
+The House of Nature was a neutral plane in the World Tree cosmology model. It was home to the deities Chauntea, Lathander, Silvanus, Eldath, Gwaeron Windstrom, Lurue, Mielikki, Shiallia, Nobanion, and Ubtao.
+
+Description
+While considered a neutral plane by sages, the House of Nature was a place of natural harmony and goodness, encompassing many of the ideals of the plane of Elysium from the Great Wheel cosmology.The primary natives of Elysium, the guardinals, and many of the divine realms of nature deities shifted from Elysium to the House of Nature when the cosmologies were changed between 2 and 3 edition.
+
+A portal to the plane of Arvandor was maintained by cooperation of the deities residing here.
+
+Flora & Fauna
+In addition to all variety of animals one might expect to find on a plane of nature, fiercer varieties, such as the fhorge, were plentiful. Strange creatures made entirely of plant and wood also inhabited the wilds of this plane.
+
+Inhabitants
+The House of Nature was the native home of the race of celestials known as guardinals, animalistic beings of inherent goodness. There were also guardinal paragons, many in number, who served almost as deities to the plethora of animals populating the plane. These paragons included Talisid and the Five Companions but were not limited to them. They focused on defending the House of Nature from the forces of evil.
+
+Bariaurs and unicorns also lived here, as did intelligent celestial animals who were once natives of the Material Plane. These petitioners of the deities of the House of Nature began their lives here as humanoids, but over time, they were changed slowly into animal forms.
+
+Wemic petitioners of Nobanion were an exception; they maintained their wemic forms.
+
+The petitioners lived in small communities, never building or changing their environment, but living in complete communion with the natural realm around them. If injured, they healed quickly, and they were immune to electricity and poison and resistant to fire and cold.
+
+Divine Realms
+Many deities and guardinal paragons had realms in the House of Nature. In addition to those described below, animal lords, such as the cat lord, called the House of Nature Home. So did Syranita, goddess of the aarakocra, Skerrit, god of centaurs, and other lesser-known deities of nature-oriented races. Gwaeron and Lurue dwelt in the House of Nature, but they did not maintain realms here.
+
+The borders of the realms described below were fluid, with hard-to-distinguish boundaries.
+
+The Deep Forest
+
+Silvanus' realm was located in the deepest forest of the House of Nature, where the greatest trees grew so dense as to block out all light.
+
+The Great Mother's Garden
+
+This was the realm of Chauntea. While she was considered a goddess of agriculture, her realm was not, in fact, cultivated. Instead, all manner of foods grew here naturally and in abundance.
+
+The Grove of the Unicorns
+
+This was a relatively simple tree grove, but it was frequently visited by unicorns, including celestial chargers. Mielikki maintained her realm here.
+
+The High Glade
+
+The High Glade, home to Shiallia, was found next to Mielikki's domain.
+
+The Labyrinth of Life
+
+In the warmest region of the House of Nature was found this dense, vibrant, mazelike jungle. This was Ubtao's domain. Bursting up from the center of the jungle was a plateau, upon which all variety of dinosaurs roamed in isolation from other beasts.
+
+Morninglory
+
+The realm of Lathander was a place of natural beauty infused with the colors of dawn and included a mountain lake and a meadow. Here stood a cathedral of tall timber that served as Lathander's home. Anyone resting in Morninglory felt fully refreshed in half the time as usual.
+
+The Pridelands
+
+This region of the House of Nature was a vast savanna. Here, Nobanion ruled his wemic petitioners. The savannah was spotted with groves, one of which protected a portal to the Gulthmere Forest on the Material Plane.
+
+The True Grove
+
+Here, Eldath abode in a ring of tall oak trees with a bubbling spring in its center.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Hound archon
+
+Hound archons were the guardians of the first and second layers of Celestia. They were considered by scholars to be the first "true" archons. While typically associated with the gods of the House of the Triad, they were also particularly favored as servants of the halfling god Urogalan. They were one of the most common archons summoned to the Material Plane, and their duties sometimes permitted them to travel to other realms to interact with their inhabitants.
+
+Description
+Hound archons appeared as powerfully built humanoids with canine heads, with broad shoulders and massive, powerful fists. Hound archons had similarly strong legs—a silent warning to foes that a hound archon was also swift on its feet, and if they fled, they would not get far.
+
+All hound archons could be observed wearing simple metal collars about their necks. This collar was not actual metal; it was a mystical representation of the archon's rank within the hierarchy of the archons of Celestia and could not be removed.
+
+Personality
+When one looked upon a hound archon, he or she sensed a feeling of simultaneous peacefulness and readiness for action. Hounds were intelligent and very protective, seeking to defend the innocent and helpless against evil.
+
+Despite their combat skill, like all archons, hounds preferred not to fight if at all possible, and would usually only be driven to combat if protecting themselves, their plane, or their lantern archons or others who are unable to defend themselves.
+
+Like all archons, a hound's ultimate goal was to ascend to higher state of goodness and eventually become one with the plane. In the meantime, they served as proxies of the deific powers.
+
+Abilities
+Hound archons could transform at will into any canine (fox, dog, or wolf, etc.) ranging from small to large size; this had the advantage of improving the archon's stealth. They were not lycanthropes, however!
+
+Like all archons, hounds could speak and understand any language they desired and even send a message in any language over short distances. They could also teleport anywhere that they desired without a chance of failure. Hound archons could detect the presence of evil and also protect themselves from it. Some claimed that they could further detect all invisible, astral, and ethereal creatures as well. They could call upon divine aid and create a source of continual flame whenever they desired.
+
+Hound archons were immune to paralyzation and electricity. They were resistant to magic and could not be affected by mundane weapons. They could see in darkness and had a strong sense of smell.
+
+Combat
+Hound archons were able and determined combatants in melee, thanks to their musculature and meaty fists. They preferred their natural weapons, but were also known to wield greatswords to great effect. In close range, a hound archon was adept enough to strike a couple times with its fists and also take a bite at its opponent in rapid succession.
+
+When engaged in battle, a hound archon produced a menacing aura of righteousness that negatively affected its foes' ability to combat with it.
+
+Society
+Hounds served as Celestia's guardians, soldiers, and servants. The hounds were responsible for greeting guests to Lunia, the first of the seven layers of Celestia, and for keeping watch over the lantern archons, the petitioners of their divine realm. Scholars estimated that there were at least 100,000 hound archons, and that each of them was responsible for monitoring as many as 100 lantern archons. Each hound archon maintained a permanent telepathic link with all of its lanterns. For this reason, if trouble came to Celestia, all celestia would know of it in short time, and if a single hound archon were under attack, it could expect its full complement of up to 100 lanterns to arrive over the next few minutes.
+
+While the hound archons knew the paths up and down the Mountain, and could guide visitors along those paths, their preferred domains were the first two layers, Lunia and Mercuria.
+
+Some hound archons were known to develop paladin powers, in which case they generally preferred their holy greatswords to their teeth and fists. Hound archon paladins often befriended bronze dragons and rode them into battle; the bond between archon and dragon was, if anything, even deeper than the bond between a mortal paladin and his mount.
+
+Hound archons were directly subservient to the warden archons. Squads of hounds were sometimes led by justice archon champions.
+
+Creation
+A hound archon came into existence whenever a lantern archon had attained the next station of goodness. Worshipers of the gods Tyr, Torm, and Ilmater became lantern archons when they died, and so such souls would eventually become hound archons over time.
+
+Promotion
+Hound archons of the lowest rank appeared to wear lead collars. As the archon progressed along a path of goodness, the metal of the collar appeared to change from lead to tin to brass to bronze to silver to gold and at last to platinum. Beyond this point, a hound archon with a platinum collar would be promoted and transformed into a warden archon.
+
+Ecology
+Like lantern archons, hounds seemed to be sustained by the light and essence of the plane of Celestia, and did not need to eat or drink anything else to live. However, they did enjoy eating and drink gifts offered by visitors, provided it was organic material.
+
+Appendix
+See Also
+ Blink dog
+ Lupinal
+
+Appearances
+
+Gallery
+
+Further Reading
+
+References
+
+Connections
+
+---
+
+## Hoshtar Xorlarrin
+
+Hoshtar Xorlarrin was a drow wizard of Menzoberranzan and cousin to House Wizard Ravel of House Xorlarrin.
+
+Description
+By the tradition of his house, Hoshtar wore a red veil over his face.
+
+Personality
+Hoshtar could be influenced by those who showed knowledge about arcane matters or fed his ego. He thumped his chest and clapped an employee on the shoulder when he was pleased.
+
+History
+Hoshtar was his family's representative for an alliance with House Melarn and Bregan D'aerthe in handling a party of adventurers. They first sent the team to gain power for Lolth's Demon Weave scheme. This was a task in which he had spent much effort himself. For the expedition, he asked adventurers loyal to his house to retrieve a letter from the previous party that had been lost on the same mission. The message was a letter that Guannerrae Tlabbar had retrieved in the Underdark, written in Xorlarrin code, with no recipient named. It was written to Faelas Xorlarrin, a master of Sorcere, and its content was about how the Goddess's current plan supported the idea of wizards joining the Ruling Council.
+
+After the adventurers returned from their first mission, Hoshtar was invited to meet with members of the Council of Spiders by his cousin, Raelaryn Xorlarrin. At the meeting, a Jaezred Chaulssin assassin killed Raelaryn and captured Hoshtar. The alliance's hired team managed to rescue him. Regardless of the alliance's decision on how to deal with the civil war, it was unanimous in sending the adventurers to eliminate the leader of the assassins.
+
+Appendix
+Gameplay
+During Council of Spiders, the assassin Merinid Dalael could threaten to kill Hoshtar to force the adventurers to surrender. However, the official summary states that they successfully saved him. In the case where he was killed in an individual run, he would have been replaced by Baragh Xorlarrin.
+
+There is a small chance that the party could have come to blows with Hoshtar and/or the other faction leaders when trying to decide how to deal with the internecine strife. Since they were unlikely to be used, Hoshtar's (or Baragh's) statistics were recycled from those of the generic senior drow wizards fought earlier.
+
+Appearances
+ Council of Spiders
+
+References
+
+---
+
+## House of Moander
+
+The House of Moander was a temple of Moander near the town of Ylraphon and the Flooded Forest in the Vast.
+
+Location
+The House of Moander lay north of Ylraphon, amidst the boggy woodlands beside the Flooded Forest, which encroached on the ruined city's northeast. Like other temples in this area, it was likely built on raised and drier areas of the swamp.
+
+Inhabitants
+In its ruined state, the temple was the lair of a number of greater darktentacles.
+
+History
+The House of Moander was ruined and destroyed by 1367 DR.
+
+In the Year of the Tankard, 1370 DR, the Six Spiked Rings adventurers explored the House of Moander. The darktentacles attacked and killed some of their number, but two escaped with treasures won from the temple: a large bag of gems and a sack of metal magic wands of great age and power.
+
+References
+
+---
+
+## House Norjah
+
+House Norjah was a noble house in the city of Airspur whose mansion was located in Airspur's south-facing cliffs. The house was most notable for being almost entirely composed of vampires.
+
+House Norjah managed to acquire seven of the twenty-two Whispering Children artifacts. In 1479 DR, the genasi Riltana stole one of the Whispering Children and Lord Kasdrian sent vampiric assassins after her although they eventually reached a truce.
+
+Notable Members
+Kasdrian - Leader of the house
+Lady Ascension - Member of the Rune Court
+
+Appendix
+References
+
+---
+
+## House of Steel
+
+The House of Steel was the oldest Garagathan temple and later an abandoned underground temple of Garagos in Westgate during the late 15th century DR. The temple was originally a public ancient religious building in Westgate, but with the death of its leader in 927 DR and the rise of the Templeban Edict, the House of Steel declined. It became a subterranean temple and the cult of the Reaver even after 1018 DR.
+
+History
+Until his death in 927 DR, Reaver King Gostaraj led the House of Steel. His successor Altarl Campion as King implemented the Templeban Edict that forced the House of Steel alongside all other religious temples underground or moved outside Westgate. The sewers and underground passages of Westgate were rife with old altars and symbols of Garagos. This last bastion of the Reaver's faith was connected in Westgate's catacombs during the Templeban Edict era.
+
+During the Time of Troubles in 1358 DR Garagos rampaged throughout Westgate and indirectly affected the underground temple's popularity in the city.
+
+In 1368 DR, the House of Steel was headed by a priestess of Garagos, Favored High Reaver Chaless the Cruel. By then, the cult membership had dwindled to under ten.
+
+The more than a century abandoned structure lay directly beneath Darkdance Manor and as of 1480 DR was the lair of the vampire Kirenkirsalai. The monk acquiescence of Kalen Dren named Hessar knew how to safely navigate and enter the underground temple because of the vampire. As food for the new vampire Vaelis, Hessar died here.
+
+Members
+There were a total of six priests in the temple by 1368 DR. The size declined since the heyday under the reign of Gostaraj the Reaver King.
+
+Defenses
+
+During its occupation by the faithful of Garagos, the House of Steel was well-guarded by many animated swords against the unbelievers. Noted on Eleasis 3  by monk Hessar, the temple rusted defenses used the sewers and passage walls to ambush, but could be bypassed by a certain passphrase.
+
+Location
+The temple lay directly beneath the intersection of East Market Street and Silverpiece Way near the center of the city, almost underneath Darkdance Manor.
+
+Appendix
+References
+
+---
+
+## House of Winds
+
+The House of Winds was a temple of Talos in Westgate.
+
+Structure
+The temple was noted for the carved dragons on its roof.
+
+Location
+The temple was found in the far northeast section of the city on Eastgate Street, near the East Gate.
+
+Inhabitants
+The temple was run by Stormlord Elort Rhomsivin. Elort was assisted by three other priests and four followers.
+
+Appendix
+References
+
+---
+
+## House Serrat
+
+House Serrat was a large merchant clan from Delzimmer that was best known for controlling trade in the drug terazul. Strictly speaking, the family wasn't noble as Delzimmer had no nobility. The family was considered a second-tier merchant house, below the Four Families who ruled Delzimmer.
+
+Organization
+The clan was divided into three branches:
+Guardians: Spies and enforcers for the family, led by Ramul Serrat.
+Traders: Managed the family's shipping trade and gambling dens.
+Travelers: Traveled to the jungles south of Delzimmer each summer to harvest terazul blossoms. Much of the family's income was derived from the terazul trade.
+
+Religion
+House Serrat's patron deity was the goddess Waukeen.
+
+Ethics
+House Serrat was somewhat neutral in ethical outlook.  Although the clan was loyal to its members and retainers the family was not above employing spies and enforcers against its rivals.  The family's main source of wealth was trade in the drug terazul, although they informed users of its side effects.  The family was also known for operating gambling houses.
+
+Notable Members
+Alaia Serrat: Leader of the Travelers
+Julen Serrat: Ramul's youngest son and trainee in the Guardians
+Ramul Serrat: Leader of the Guardians and Alaia's brother
+Zaltys Serrat: Alaia's adopted daughter
+
+Notable Employees
+Glory: Tiefling psionicist
+Krailash: Dragonborn head of security for the Travelers.
+Quelamia: Eladrin Wizard
+
+Appendix
+References
+
+---
+
+## House of Scarlet Hooks
+
+The House of Scarlet Hooks was a temple of Loviatar, the Maiden of Pain, in the city of Calaunt in the Vast in the mid–14th century DR.
+
+Inhabitants
+By 1358 DR and through to 1370 DR and later, the temple was managed by Whipmistress Shaleen "Talonkiss" Oomreen. She led twenty-four priests and priestesses, as well as 114 lay worshipers. Among the priests were two Pains. All were particularly eager to spread the so-called "holy pain".
+
+Description
+The House of Scarlet Hooks was one of two temples that dominated daily Calauntan life. It was an impressive building. The double-spired House of Scarlet Hooks was one of the few notable landmarks in the city, as were the muffled screams.
+
+References
+
+---
+
+## Hornmoot
+
+Hornmoot was the traditional trading festival between the dwarves and humans of the Vast. It took place on the 14 of Kythorn each year, with lesser hornmoots on the 14 of each month until Eleint.
+
+Description
+At the end of winter, when the dwarves emerged from their subterranean homes, they blew horns from the mountains to alert the humans in the lands below that they were coming to trade. Those settlements that wished to trade responded with their own horns, and the dwarves would come to them. Hornmoots marked the first trading day of spring between the two races. Quality axes and swords were among the dwarven goods on offer.
+
+Hornmoot was more common in the country communities than in the big cities. It was popular with traveling merchants too, and they came from as far away as Amn to buy dwarven-made weaponry.
+
+History
+Hornmoot began in the days of Roldilar, the Realm of Glimmering Swords, the great dwarven kingdom that dominated the surface lands of the Vast in the 7 century DR.
+
+One year in the mid–13 century DR, Master Merchant Marakus Beindold of Hlintar invited the dwarves of the eastern hills to Hornmoot. He welcomed the leaders of these communities as guests, put on a feast for them, and had them brutally murdered in their beds, as he desired their lands and the wealth they would bring him. Afterwards, the dwarves despised Hlintar, did not visit there again, and boycotted all trade with the place.
+
+As dwarven populations and fortunes dwindled, and fewer dwarves turned up each year, Hornmoot became a waning practice by 1370 DR.
+
+Appendix
+References
+
+---
+
+## Hold person
+
+Hold person was an enchantment spell that could rigidly immobilize one or a few humanoid creatures for a short time.
+
+Effects
+This spell worked on humanoid creatures only. Older versions of hold person were limited to a few man-sized or smaller creatures,These included brownies, dryads, dwarves, elves, gnolls, gnomes, goblins, half-elves, halflings, half-orcs, hobgoblins, humans, kobolds, lizardfolk, nixies, orcs, pixies, sprites, troglodytes, and others. but the new version could be cast at any one humanoid regardless of size. While under the influence of this spell, the subject could breathe and be aware of his or her surroundings through their senses, but could not perform any action that required speech or movement due to being rigidly paralyzed. Victims of the older version of this spell had one chance to resist the magical effect or freeze in place for two minutes per experience level of the caster. The odds for resisting increased slightly when hold person was cast at more than one creature. The newer version of this spell was more fragile; the held creature could repeatedly attempt to break the spell every few seconds with a feat of willpower.
+
+If cast on multiple targets, they had to be within a 20-foot (6.1-meter) cube at a range no greater than 120 yards (110 meters). The newer version had a range of at least 110 feet (33 meters). Note that flying creatures (held up by movement of wings for example, not a fly spell) would plummet to the ground, non-water breathing creatures could drown, off-balance creatures could tip and fall, and conditions such as bleeding wounds, poison, or disease were not stopped or suspended by this spell.
+
+This spell had no effect on the undead and could be canceled at any time by the caster.
+
+Those affected by the spell felt a distinct icy chill that spread through their limbs.
+
+Components
+In addition to verbal and somatic components, all variants of this spell except the newer divine version required a small straight piece of iron for the material component. The verbal component used by the Selûnite priestess Feena Archwood was "Bright Lady of Night, stay his hand!"
+
+History
+The spell was attributed to Netherese arcanist Prug in  and was originally called Prug's hold human.
+
+Appendix
+See Also
+ Halt undead
+ Hold animal
+ Hold monster
+ Mass hold monster
+ Mass hold person
+ Radiant holding
+
+Notes
+
+Gallery
+
+Appearances
+Adventures
+
+Treasure Hunt
+Novels
+Easy Betrayals • ''Mistress of the Night • The Sapphire Crescent
+Video Games
+Baldur's Gate series • Icewind Dale series • Neverwinter Nights series
+Card Games
+Spellfire: Master the Magic
+Gamebooks
+Spawn of Dragonspear
+
+External links
+
+ D&D Beyond
+
+References
+
+---
+
+## Hold poison
+
+Hold poison was an improved version of slow poison that prolonged the onset time of poison in a victim for days.
+
+Effects
+The recipient of this spell was prevented from any further harm from a poison in their system for the duration of the spell. This spell could be renewed before the expiration of the previous casting to grant more days of reprieve, but at an ever-growing chance of spell failure.
+
+Components
+verbal and somatic components were required, plus a clove of garlic, either crushed and applied to the wound, or eaten if the poison was originally ingested.
+
+References
+
+---
+
+## Hovering road
+
+Hovering road was a conjuration spell that temporarily created a smooth stone road that hovered above any terrain.
+
+Effects
+Similar to clear path, this spell operated on the  by  area directly in front of the caster and extended outward as the caster moved forward. The road had to be anchored to a solid surface, but otherwise hovered above whatever was below. The road created was about  thick and resembled black granite in appearance and texture, allowing travel at normal movement rates. The caster could direct the road to slope up or down and turn left or right, creating passage over rivers, treetops, chasms, swamps, etc.
+
+When the spell ended, the entire road evaporated into a black mist and anything being held up by the road dropped. The hovering road was fairly tough and could not be damaged by normal weapons, but if enough damage was done to any part of the road by magical weapons or magical force of some sort, the spell was negated. The road normally lasted for tens of minutes even if the caster was knocked unconscious or killed.
+
+Components
+In addition to verbal and somatic components, this spell required a loop of gold wire and a chunk of black marble to cast.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Hold plant
+
+Hold plant was an enchantment spell that allowed the caster to prevent dangerous plants from moving or making noise.
+
+Effects
+All forms of vegetation, including fungi and those magically enhanced, could be affected by this spell (shriekers, treants, shambling mounds, plant growth, spike growth, etc.). However, the more plants in the area of effect, the easier it was for the plants to resist hold plant. Plant life under the effects of this spell could not move, expand, contract, grow, or make a sound under their own volition or magical impetus. However, they were still pliable, not frozen, so wind could still make branches bend and leaves rustle for example. Hold plant could target up to four individual plants in a 40 ft (12.2 m) square, or all small plant growth (grasses, molds, etc.) in a square 4 to 16 yd (3.7 to 14.6 m) on a side.
+
+Components
+Only verbal and somatic components were required to cast this spell. Some druids also required the usual mistletoe.
+
+References
+
+---
+
+## House of Holy Suffering
+
+The House of Holy Suffering was a temple of Ilmater found in Mussum in the Vilhon Reach.
+
+History
+The House of Holy Suffering was a major temple in the mid–13 century DR. It was led by Exalted Sufferer Shrymaun Beldaerth.
+
+Following the death of the sage Athorton of Nleeth in the Year of the Shattered Altar, 1264 DR, the priestess of Ilmater Beromchess Ilthyn covertly took the Tome of Torment—the holiest book of the Ilmatari faith—to the House of Holy Suffering. There, the senior Sage-Priest of the church, known as the Spontaer, studied the Tome. The Spontaer prayed to Ilmater for nearly a year, and received visions of powerful magical protections that would render the Tome usable only by priests of Ilmater. However, these protections would come at the cost of his life. The Spontaer explicitly requested that the Tome of Torment be delivered to the House of the Broken God in Keltar in Calimshan, the greatest temple of Ilmater, before he worked the magic on the Tome and sacrificed his own life.
+
+However, against the Spontaer's wishes, Shrymaun Beldaerth refused to relinquish the Tome to the House of the Broken God. Archsufferer Bloirt Waelarn of the Keltar house declared all those of the "degenerate" Mussum house "heretics" and called for them to be cast out and treated as mentally ill. A few ambitious minor priests joined Waelarn and together they journeyed to the Mussum house, intending to "cleanse the filth". The priests of the House of Holy Suffering recruited the Companions of the Noble Heart paladin order to their defense, and attacked Waelarn and his followers, labeling them "false clerics" and "subverted by evil".
+
+An angry Waelarn summoned three other knightly orders—the Holy Warriors of Suffering, the Knights of the Bleeding Shield, and the Order of the Golden Cup—to his side and vowed holy war against the "unclean ones of Mussum" and their allies. The war saw the violent clashes of Holy Hill Farm in 1266 DR and Bronsheir's Charge and Weeping Rock in 1267 DR. Finally, Lord Sir Jargus Holenhond of the Golden Cup called an end to the bloodshed between true believers, insisted that the Tome of Torment be transferred to Keltar as planned, and blamed Bloirt Waelarn for the senseless violence, determining that he should be removed from office and sent into hermitage for the remainder of his years. The weary paladins accepted and carried out his judgment.
+
+Circa 1342 DR, however, the Tome of Torment had been stolen and hidden but then discovered by Kortolt Rushtyn, an underpriest of the House of Holy Suffering. Kortolt declined to take the Tome to either Mussum or Keltar, but instead to the shrine of Ravens' Rack west of Hlondeth, where he preached by himself.
+
+After the Tome of Torment was stolen again in 1362 DR, the church of Ilmater offered a reward for its surrender at either the House of Holy Suffering in Mussum or the House of the Broken God in Keltar.
+
+The House of Holy Suffering remained a major Ilmatari temple through to 1370 DR.
+
+Appendix
+Notes
+ Although Prayers from the Faithful states the House of Holy Suffering lies in Mussum from 1264 DR, the city of Mussum was actually abandoned as a result of plague in 472 DR and remained uninhabited, according to The Vilhon Reach: Dungeon Master's Reference (page 9). The House of Holy Suffering may therefore lie somewhere outside the ruined city, either remaining in use after Mussum's fall, or constructed later.
+
+References
+
+---
+
+## Holy Hill Farm
+
+Holy Hill Farm was a farm related to the faith of Ilmater the Crying God.
+
+In the Year of the Leaping Frog, 1266 DR, Holy Hill Farm was the site of a bloody battle between feuding factions of the church of Ilmater. The holy war had broken out around 1265 DR when Archsufferer Bloirt Waelarn of the House of the Broken God in Keltar had denounced his fellow Ilmatari priests of the House of Holy Suffering in Mussum for refusing to relinquish the Tome of Torment, the holiest book of the faith. On one side were the Mussum priests and the Companions of the Noble Heart paladin order, and on the other were Waelarn, his followers, the Holy Warriors of Suffering, and the Knights of the Bleeding Shield.
+
+References
+
+---
+
+## House of the Broken God
+
+The House of the Broken God was a temple, monastery, and hospital dedicated to Ilmater, located in Keltar in Calimshan. It was the largest temple complex of the Broken God, and the center of his faith in southern Faerûn.
+
+Location
+Although most Ilmatari temples in Calimshan were based in the countryside, owing to wealthy Calishites' dislike of the poor and the sick, the House of the Broken God was a prime exception, being set within a town. Regardless, it was only a minor, distant town, but having such an important facility within its confines made Keltar famous.
+
+The temple complex covered the whole of the Northwest Sabban of Keltar, consisting of three of the town's drudachs. Farms and additional facilities spread outside the town to the northwest.
+
+Layout
+The whole complex was surrounded by a perimeter wall that stood 12 feet (3.6 meters) high. This wall abutted the sabban walls, standing some 8–9 feet (2.4–2.7 meters) over the sabban wall walkway.
+
+In the core of the complex was a monastery, a major temple, and two shrines to local Ilmatari saints. Dotted about were also a cloister, a school, a hospital, a pharmacy, and two wells. There were also several small inns provided for the family and friends of patients at the hospital. The area was dominated by walled gardens, where herbs and plants with medicinal benefits were cultivated. A series of these walled gardens extended beyond the town limits, and joined a temple farm on a hill to the northwest of the town, and thence to a walled leper house, and thence to a sanitarium, as well as dormitories for patients who could not be cured.
+
+Activities
+As the largest hospital in the Realms, the House of the Broken God was dedicated to the treatment and care of the injured, sick, deformed, and mentally ill, including those suffering from leprosy. It was also home to best pharmacy in the land, where medicines were concocted from medicinal herbs and plants grown in the gardens and farms.
+
+History
+The House of the Broken God was already the greatest temple of Ilmater in the Realms by the mid–13th century DR.
+
+At the time, the Tome of Torment—the holiest book of the Ilmatari faith—had come into the possession of another temple, the House of Holy Suffering in Mussum. There, the senior Sage-Priest of the church, known as the Spontaer, prayed to Ilmater and received visions of powerful magical protections that would render the Tome usable only by priests of Ilmater. However, these protections would come at the cost of his life. The Spontaer explicitly requested that the Tome of Torment be delivered to the House of the Broken God in Keltar, before he worked the magic on the Tome and sacrificed his own life, circa 1265 DR.
+
+However, against the Spontaer's wishes, Shrymaun Beldaerth, leader of the Mussum temple, refused to relinquish the Tome to the House of the Broken God. Archsufferer Bloirt Waelarn, then Father of the House of the Keltar temple, declared all those of the "degenerate" Mussum house "heretics" and called for them to be cast out and treated as mentally ill. A few ambitious minor priests joined Waelarn and together they journeyed to the Mussum house, intending to "cleanse the filth". But Waelarn and his followers were attacked by the Mussum priests and the Companions of the Noble Heart paladin order, who labeled them "false clerics" and "subverted by evil".
+
+An angry Waelarn summoned three other knightly orders—the Holy Warriors of Suffering, the Knights of the Bleeding Shield, and the Order of the Golden Cup—to his side and vowed holy war against the "unclean ones of Mussum" and their allies. The war saw the violent clashes of Holy Hill Farm in 1266 DR and Bronsheir's Charge and Weeping Rock in 1267 DR. Finally, Lord Sir Jargus Holenhond of the Golden Cup called an end to the bloodshed between true believers, insisted that the Tome of Torment be transferred to Keltar as planned, and blamed Bloirt Waelarn for the senseless violence, determining that he should be removed from office and sent into hermitage for the remainder of his years. The weary paladins accepted and carried out his judgment.
+
+Althea the Abased succeeded Waelarn as leader of the House of the Broken God. Seeing the carnage wrought by the fight for ownership of the Tome, Althea declared that no high-ranking member of the church was worthy of it, saying instead that Ilmater had given them the Tome for lesser priests to do his work and recruit believers in the undeveloped lands. Shortly after, she selected Blaermon the Blessed, a knight of the Holy Warriors of Suffering, to take away the Tome of Torment and bestow it upon the first "needy and worthy" Ilmatari he met, someone who worked or fought for the benefit of the common people and their faith, not merely for wealth and adventure. Blaermon duly gave the Tome to Flaergon of Glister.
+
+Thirty years later, following the death of Flaergon in the Year of the Claw, 1299 DR, Daern of Hawksroost brought the Tome of Torment back to Althea at the House of the Broken God, now called High Mistress of Worthy Suffering. Daern's devotion moved Althea, and she named him an honorary Brother of the temple. Daern became Althea's bodyguard and assistant.
+
+In the 1320s DR (50 years before 1370 DR), a seriously wounded woman came to the House seeking aid. The encounter had a serious effect of Brother Kalil the Painbearer, once abbot of the House and later a leader of the Janessar.
+
+Althea lived to a great age, but finally passed on in the Year of the Gate, 1341 DR. Daern was given a new role as Guardian of the Tome. Unfortunately, within the year, he was murdered by the returned Bloirt Waelarn, who stole the Tome and escaped.
+
+The Tome was recovered, lost, and recovered again several times. Finally, after being forcibly taken from the clutches of Thayan agents, the Tome was returned to the House of the Broken God in the possession of the triumphant Enduring Servant Elisker Hagathan at the end of the Year of the Boot, 1343 DR.
+
+The Tome remained at the House of the Broken God for almost twenty years, only occasionally being loaned to Ilmatari priests embarking on dangerous missions with the Holy Warriors of Suffering.
+
+The Tome of Torment was once again stolen in Year of the Helm, 1362 DR, its whereabouts and thief unknown. The Church of Ilmater offered a reward for its surrender at either the House of Holy Suffering in Mussum or the House of the Broken God in Keltar.
+
+Circa 1369 DR, the House of the Broken God was presided over by Melder Rythtin of the Healing Hand, renowned for his diagnoses and treatments.
+
+In 1370 DR, Adhan el Ilmater was the Revered Father of the House. He enjoyed working directly with his patients.
+
+Leaders
+The leaders of the House of the Broken God were:
+ – 1267 DR: Father of the House, Archsufferer Bloirt Waelarn
+ c. 1267 DR – 1341 DR: High Mistress of Worthy Suffering Althea the Abased
+ Abbot Kalil the Painbearer It is unknown when Kalil served as abbot of the House. As an abbot is a leader of a monastery, Kalil might only be leader of the monastery in the House of the Broken God, rather than of the temple complex as a whole.
+ c. 1369 DR: Revered Father of the House, Melder Rythtin of the Healing Hand
+ c. 1370 DR: Revered Father of the House Adhan el Ilmater
+
+Appendix
+Notes
+
+References
+
+---
+
+## House Zauvirr
+
+House Zauvirr was a minor drow house in Ched Nasad.
+
+Description
+House Zauvirr was a minor merchant house of Ched Nasad. It operated the storehouses of the Black Claw Mercantile Company, which was owned by House Melarn and the Menzoberranyr House Baenre.
+
+History
+In 1372 DR, House Zauvirr attempted to defeat House Melarn. Matron Mother Ssipriina Zauvirr hired the duergar mercenary band Clan Xornbane to assist. She took over the Black Claw storehouses, killing Matron Mother Drisinil Melarn. Ssipriina's daughter, Faeryl Zauvirr, also betrayed Quenthel Baenre and her protector Jeggred by leading the two to her mother to be captured.
+
+However, Clan Xornbane was given the direction to attack House Melarn prematurely. Their stonefire bombs contributed to chaos in the city. Angry at the disruption to her plans, Ssiipriina turned on them, killing the leader of the clan, Khorrl Xornbane, and causing the rest of the band to flee. However, the duergar's stonefire (as part of a Jaezred Chaulssin plot directed by Zammzt) rapidly destroyed the city.
+
+Notable members
+ Ssipriina Zauvirr, matron mother in 1372 DR.
+ Faeryl Zauvirr, ambassador to Menzoberranzan from ca. 1358 DR to 1372 DR.
+ Merinid, former weapons master. He was dead by 1372 DR.
+ Gruherth Zauvirr, brother of Faeryl.
+
+Appearances
+Novels
+ Dissolution
+ Insurrection
+
+References
+
+---
+
+## House Ousstyl
+
+House Ousstyl might refer to
+
+ House Ousstyl (Ched Nasad), a major drow house in Ched Nasad.
+ House Ousstyl (Menzoberranzan), a minor drow house in Menzoberranzan.
+
+---
+
+## House Ousstyl (Menzoberranzan)
+
+House Ousstyl was the 52nd house of Menzoberranzan in 1372 DR.
+
+Description
+Members of the house were rumored to have mated with humans in the past.
+
+House Ousstyl was located in Narbondellyn.
+
+Members
+ Talindra Ousstyl, matron mother in 1372 DR. She was tall and had square features and a large appetite.
+ Grin Ousstyl, apprentice to Vizeran DeVir.
+
+Appendix
+References
+
+---
+
+## Horroodissomoth Xorlarrin
+
+Horroodissomoth Xorlarrin was the house wizard and patron (with Matron Mother Zeerith Q'Xorlarrin) of House Xorlarrin around 1372 DR.
+
+Description
+He appeared very old, but that was rumored to be due to a magical experiment gone wrong.
+
+History
+Horroodissomoth was the leader of a council of mages that governed the magical academy of Sorcere in 1370 DR. He was second only to the Archmage of Menzoberranzan, Gromph Baenre.
+
+Horroodissomoth was later driven insane by the Spellplague. He was killed by his own
+delayed blast fireball, which he had placed in his vest pocket.
+
+Appendix
+
+References
+
+---
+
+## Horgar Steelshadow IV
+
+Horgar Steelshadow IV was the Crown Prince (sometimes labeled as King) and ruler of Gracklstugh.
+
+Description
+Horgar was bald. He wore a chain hauberk and a surcoat of black and gold. He wore gold rings on his fingers and a gold circlet on his head. His beard was formed into braids.
+
+During war time, the Crown Prince rode in a diligence: an enchanted floating object of iron, 30 feet long and 10 feet wide, spiked for defense. It served as the army's command post as well as the prince's throne and bedchamber.
+
+History
+Horgar was involved in Clan Xornbane's attack in Ched Nasad with House Zauvirr.
+
+In 1372 DR, Horgar led the forces of Gracklstugh to attack Menzoberranzan with the help of Nimor Imphraezl of the Jaezred Chaulssin, later joined by the tanarukks of Kaanyr Vhok's Scoured Legion. Horgar wanted power and security against his lairds. Horgar was present at the Pillars of Woe during the defeat of the Army of the Black Spider. His forces subsequently participated in the Siege of Menzoberranzan, which ultimately failed. Upon this failure, Horgar was killed by Nimor.
+
+Relationships
+Clan Laird Borwald Firehammer was Horgar's chief advisor and the marshal of the army.
+
+It was implied that Horgar hired or otherwise involved Nimor Imphraezl in the downfall (possibly the death) of his father, the king of Gracklstugh.
+
+Appendix
+Appearances
+Novels
+Condemnation
+Extinction (minor)
+Resurrection (minor)
+
+References
+
+---
+
+## House Nasadra
+
+House Nasadra, formerly of Menzoberranzan, was the most powerful drow house of Ched Nasad. The matron mother of the house was the informal ruler of Ched Nasad until the city's destruction in 1372 DR.
+
+House
+House Nasadra was located on the first top level of Ched Nasad. It had high balconies from which one could view the city and its stone webs and castles.
+
+History
+Originally a house in Menzoberranzan, House Nasadra fought against House S'sril and was exiled, along with others, from the city by House Baenre, which had received the favor of Lolth. After many decades of exile, in  Lolth's avatar appeared to House Nasadra and the other exiles, leading them to the current location of Ched Nasad and instructing them to found another city honoring Lolth and remaining friendly with Menzoberranzan.
+
+In 1372 DR, during the duergar attack on House Melarn and the city, Matron Mother Aunrae Nasadra and four other matrons summoned a huge guardian spider. They lost control of the spider and it contributed to the city's downfall.
+
+Notable members of House Nasadra
+ Aunrae Nasadra  Matron Mother from 689 DR to the fall of the city and the uncrowned queen of Ched Nasad. She possessed a rune-covered staff. As matron mother of the most powerful house in Ched Nasad, it was said that her power unmatched even by the scope of Yvonnel Baenre of House Baenre in Menzoberranzan.
+
+ Ildibane Nasadra  Archmage of Ched Nasad and leader of the Disciples of Phelthong.
+
+Appendix
+References
+
+---
+
+## House Yauntyrr
+
+House Yauntyrr was a noble house of Eryndlyn until its destruction circa 1362 DR.
+
+History
+Circa 1362 DR, House Yauntyrr was attacked and defeated. Many members of the house were killed; others were taken in by Ched Nasad's houses (such as Danifae Yauntyrr, who became a battle captive to Halisstra Melarn) and yet other survivors fled into the Underdark. Zinnirit Yauntyrr, the house wizard, escaped to Sschindylryn, where he began operating a three-portal gatehouse until his death at the hands of Danifae in 1373 DR.
+
+Notable members
+ Danifae Yauntyrr, Chosen of Lolth.
+ Zinnirit Yauntyrr, last house wizard.
+
+Appendix
+References
+
+---
+
+## House Teyachumet
+
+House Teyachumet was a deceased drow house of Ched Nasad.
+
+History
+House Teyachumet was destroyed more than a century before 1366 DR (that is, sometime before 1266 DR). Bregan D'aerthe was likely involved in the house's downfall.
+
+Notable Members
+ Rai-guy Bondalek: Former house member. Wizard and high priest of Lolth, later lieutenant of Bregan D'aerthe.
+
+Appendix
+References
+
+---
+
+## House of the Harmed
+
+The House of the Harmed was a temple of Ilmater found in Aralent, home to the well-respected priest Master Sufferer Olbedan.
+
+In the Year of the Boot, 1343 DR, the people of Hlondeth in the Vilhon Reach requested that the Graycloak's Wolves adventuring company deliver the Tome of Torment—the holiest book of the church of Ilmater—to Master Sufferer Olbedan at the House of the Harmed in Aralent. However, during the harsh winter, Graycloak's Wolves fell prey to doppelgangers and leucrotta preying on travellers and never made it to Olbedan. The Tome was thought lost in the winter snows.
+
+Appendix
+References
+
+---
+
+## Houndaer Tuin'Tarl
+
+Houndaer Tuin'Tarl was a drow and former member of House Tuin'Tarl in Menzoberranzan in the late 14 century DR. He learned about the Silence of Lolth and conspired with Syrzan to use the weakness of the priestesses to take over Menzoberranzan.
+
+Description
+Houndaer wore rich silks and velvet garments, and had numerous magical charms and trinkets on his person. He wore crystals in his long, thick hair. He had close-set eyes and a prominent jaw. He wielded a scimitar.
+
+History
+Houndaer was born to House Tuin'Tarl at an unknown date. At some point, he trained at Melee-Magthere under Ryld Argith and was proficient enough that Ryld remembered him many years later. Dissatisfied with his place in life, and with the role of males in drow society in general, he joined a group of like-minded individuals who would meet from time to time in an abandoned fortress.
+
+One day in the, he witnessed priestesses die fighting gricks in the Bauthwaf, rather than use their divine magic to save themselves. Realizing this could mean they'd lost their powers, Houndaer and his co-conspirators attacked some priestesses to see what they would do and confirmed their suspicions. After this, he and the others took up permanent residence in the abandoned fortress and became renegades. He was one of the first missing males to leave, as well as one of the highest-ranking missing males. Along with the alhoon Syrzan (and possibly with the support of the Jaezred Chaulssin), he formulated a plan to take over Menzoberranzan by inciting a slave revolt, assassinating powerful priestesses, and eventually replacing them as the rulers of the city.
+
+Houndaer later appeared to Pharaun Mizzrym and Ryld Argith after they attacked a Tier Breche patrol. He invited them to join his group, thinking that they were also upset with the balance of power in Menzoberranzan, and they agreed. He explained his whole plan to them before Syrzan arrived and revealed that the two were intending to report back to the council.
+
+Houndaer had the two imprisoned and took Ryld's greatsword, Splitter. The two managed to escape, however, and Houndaer and his forces searched the fortress for them. Eventually, he stumbled upon Ryld in a meditative trance. Ryld woke and engaged Houndaer and his men, overwhelming them easily due to his heightened state. Realizing that all was lost, Houndaer dropped Splitter and surrendered himself to death.
+
+Relationships
+Houndaer was accompanied by Omraeth, a spellsinger.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Hoch Miraz
+
+Hoch Miraz was a wizard from Calimshan in west Faerûn.
+
+History
+Circa 1330 DR, Hoch Miraz was aboard the Golden Crown, a treasure galleon leaving the Calishite mining colony of Berranzo on the island of Gundarlun in the Trackless Sea. Struck by a storm, the Golden Crown sunk off the coast of the island, and Hoch Miraz went down with the vessel.
+
+Possessions
+Hoch Miraz was said to possess a staff of the magi, a ring of spell turning, and a cube of force, though the latter was thought to have failed, to account for Hoch's doom. These were still thought to lay in the sunken ship in 1370 DR.
+
+References
+
+---
+
+## House Melarn (disambiguation)
+
+House Melarn might refer to:
+
+ House Melarn (Ched Nasad), a destroyed drow house of Ched Nasad.
+ House Melarn (Menzoberranzan), a drow house of Menzoberranzan.
+
+---
+
+## House Melarn (Menzoberranzan)
+
+House Melarn was the sixth house of Menzoberranzan by the end of 1484 DR.
+
+Headquarters
+The House Melarn compound was located in Lolth's Web—webs strung hundreds of feet off the cavern floor—in West Wall in Menzoberranzan. It was constructed after the unification of House Horlbar and House Kenafin with the expertise of drow refugees from Ched Nasad. The webs were lined with faerie fire. The compound took the form of a shell, with a shrine to Lolth in the center, nobles' rooms around that, and other living quarters in the outer rings. The compound was guarded by spiders and driders, as well as drow guards.
+
+Activities
+House Melarn was known as one of the Menzoberranyr houses most fanatical to Lolth. Matron Zhindia Melarn believed such fanaticism, including calling out other houses' apparent blasphemy, would bring Lolth's favor upon her. However, most houses resented House Melarn because of their behavior.
+
+The house was strong militarily, but did not hire outsiders such as Bregan D'aerthe for fears concerning their loyalty.
+
+House Melarn, as well as House Barrison Del'Armgo, was using the abandoned House Do'Urden complex as training grounds for its drow soldiers and driders. The troops were kicked out by Bregan D'aerthe under the command of House Baenre.
+
+History
+House Melarn was formed circa 1383 DR by the merging of House Horlbar and House Kenafin. The First Priestess of House Horlbar, Jhelnae Horlbar, had been discovered to be a secret follower of Eilistraee, and so House Tuin'Tarl had targeted the house for destruction. However, Horlbar's ally, House Kenafin, came to Horlbar's defense and the two houses eventually united." The name was chosen in honor of Halisstra Melarn, a drow/spider demon servant of Lolth formerly of the Ched Nasadan House Melarn.
+
+At the beginning of 1484 DR, House Melarn was the seventh house of Menzoberranzan. After House Xorlarrin left for Q'Xorlarrin, they become the sixth house.
+
+Members
+Members of House Melarn were known as the "Melarni." In addition to about 340 drow members, a number of driders served the house. The Melarni were known for their religious zeal; even their male wizards were often obsessed with spiders, becoming arachnomancers. Other elite fighters (male and female) trained to protect priestesses with their lives; these were called Dread Fangs of Halisstra.
+
+Most of the drow were Menzoberranyr; however, there were a number of survivors from the original House Melarn who joined the house.
+
+House Melarn had a number of drider and chitine slaves that labored in Lolth's Web.
+
+Notable Members
+Zhindia Melarn, first matron mother (starting in 1383 DR) and the youngest member of the Ruling Council in 1484 DR. She was the daughter of Matron Jerlys Horlbar.
+Yahzin Melarn, daughter of Zhindia Melarn. She was killed by Artemis Entreri by his magical dagger, which destroyed her soul.
+Ardulrae Melarn, Matron of Scriptures at Arach-Tinilith in 1484 DR.
+Ash'ala Melarn, priestess and third daughter of the First Priestess in 1479 DR; representative to the alliance with House Xorlarrin and Bregan D'aerthe.
+Kyrnill Melarn, First Priestess and former matron mother of House Kenafin.
+Iltztran Melarn, house wizard and refugee from Ched Nasad.
+Sornafein Melarn, patron.
+Guldor Melarn, master of Sorcere and expert in elemental magic in 1372 DR.
+Tluth Melarn, a runaway male involved in the uprising preceding the Siege of Menzoberranzan in 1372 DR.Since House Melarn was not formed until 1383 DR, it's not clear what relation Guldor and Tluth Melarn have to House Melarn.
+Nal'dorltyrr Melarn, house weapon master, turned drider.
+Zovallia Melarn, a young priestess in the 1490s DR.
+Preego Melarn: personal torturer of Matron Zhindia.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Hold vapor
+
+Hold vapor was an abjuration spell that allowed the caster to surround and capture any vapor or cloud that was visible and within the range and capacity of the spell.
+
+Effects
+This spell created a spherical barrier with a radius of 20 ft (6.1 m) plus an additional 10 ft (3 m) for each experience level the caster had attained, at a range of up to 10 yd (9.1 m) per level of the caster. Hold vapor could contain breath weapons, cloudkill, fog cloud, incendiary cloud, the choking smoke from pyrotechnics, and similar gaseous hazards. Creatures in gaseous form (e.g., air elementals, djinns, or vampires) could also be captured, held, and prevented from transforming out of their vaporous state, but they had repeated opportunities to break out.
+
+The caster had to maintain a steady chant to keep the barrier from fading away. Silence, interruption for more than one minute, or moving outside the range of the spell would cause the barrier to dissipate. The spell lasted for one hour or until the caster stopped chanting, whichever occurred first. The containment sphere was stationary and could not be moved even by natural and magical winds. Creatures and objects passed through the barrier as if it were not there. Once the barrier dropped, the contained vapors settled according to its nature and the prevailing conditions.
+
+Origins
+Hold vapor originated from the spellbook known as the Book of Bats, a tome of mysterious origin.
+
+Components
+This spell required the caster to chant the verbal component to maintain the barrier. A somatic component was also required, and the material component was a small balloon or bladder.
+
+Appendix
+References
+
+---
+
+## House of Hope
+
+The House of Hope was a temple to Tymora the Luckbringer found in the city of Tantras in the Vast in the mid-to-late 14 century DR.
+
+Location
+The House of Hope lay on the north side of the Market in the center of Tantras.
+
+History
+During the Time of Troubles in the Year of Shadows, 1358 DR, the deity Torm resided at his temple in Tantras. Torm's zealous priests began persecuting followers of other faiths as "unbelievers", and the unlucky House of Hope was left with a dearth of material and spiritual resources.
+
+Nevertheless, the House of Hope remained active through to 1367 DR and past 1370 DR.
+
+Inhabitants
+Circa 1358 DR, the temple was led by High Priestess Lashaera Thindol, with five priests and eight lay-followers.
+
+Appendix
+References
+
+---
+
+## House of the Iron Rose
+
+The House of the Iron Rose was a sumptuous boarding house in Eshpurta in early 1370 DR, the Year of the Tankard. Typically, only ranking officers and wealthy adventurers stayed there. The House of the Iron Rose offered the finest quality accommodations to those willing to pay for excellence.
+
+References
+
+---
+
+## House of Twilight
+
+The House of Twilight was a famous nightclub and brothel in the city of Tantras in the Vast around 1358 DR. It was located in the south-east part of the city.
+
+Appendix
+
+References
+
+---
+
+## Hoard of the Dragon Queen
+
+Hoard of the Dragon Queen is a 2014 Forgotten Realms adventure module for the 5th edition of Dungeons & Dragons, designed by Kobold Press and the Wizards RPG Team. The module revolves around the Cult of the Dragon's plans to free Tiamat, the goddess of chromatic dragons, from the Nine Hells. Hoard of the Dragon Queen is part of the Tyranny of Dragons storyline, and received a direct continuation in the adventure module The Rise of Tiamat.
+
+Index
+
+Characters
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •   •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • Radecere Perethun •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •  •  •  •  •  •  •  •  •
+
+Creatures
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • gray ooze •  •  • halfling •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •  •
+
+Locations
+Building & Sites  •  •  •  •  •  •
+Roads  •  •
+Settlements  •  •  •  •  •
+Wilderness  •  •  •  •  •  •
+Realms
+
+ •  •  •  •  •  •  •  •  •  •
+
+Magic
+Magic items  • Dragongleam •  •  •  •  •  •
+
+White Dragon Mask •
+
+Organizations
+Families
+Groups  •  •  •  •  •  •  •  •  •
+
+ •  •
+
+Religions
+Priests  • Church of Auril •
+Temples Shrine of Axes • Temple of Chauntea
+
+ •  •  •  •
+
+Appendix
+Notes
+
+References
+
+External Links
+ Hoard of the Dragon Supplement (PDF)
+Connections
+
+---
+
+## House of Moonlight
+
+The House of Moonlight was a temple to Selûne the Moonmaiden found in the city of Tantras in the Vast.
+
+Location
+The House of Moonlight lay on the far east side of the city.
+
+History
+During the Time of Troubles in the Year of Shadows, 1358 DR, the deity Torm resided at his temple in Tantras. Torm's zealous priests began persecuting followers of other faiths in the city as "unbelievers". It is not known if or how the House of Moonlight was affected by this religious persecution.
+
+Nevertheless, the House of Moonlight remained active through to 1367 DR and past 1370 DR.
+
+Activities
+Around 1358 DR, the temple provided healing to all who required it, even those who did not worship the goddess. However, they would not accede to repeated requests.
+
+Inhabitants
+In 1358 DR, the temple was led by High Priest Pellar Thalangrim, with nine priests and sixteen lay-followers.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Skilled Hands
+
+The House of Skilled Hands was a temple to Gond, the Lord of All Smiths, found in the city of Tantras in the Vast.
+
+Location
+The House of Skilled Hands sat almost at the end of Whistleturn Way, near the city's waterfront.
+
+History
+The House of Skilled Hands was only newly constructed in the Year of Shadows, 1358 DR, and not yet fully staffed. During the Time of Troubles of that year, the deity Torm resided at his temple in Tantras. Torm's zealous priests began persecuting followers of other faiths in the city as "unbelievers".It is not known if or how the House of Skilled Hands was affected by this religious persecution.
+
+Nevertheless, the House of Skilled Hands remained active through to 1367 DR and past 1370 DR.
+
+Activities
+The House of Skilled Hands once installed a series of cargo-lifting cranes in Tantras's harbor, which Elminster noted were similar to cranes found on another world, and received a copper piece for every load lifted. These allowed the city to quickly move large quantities of freight, and made it a popular trade destination. Such cranes were recent inventions by the mid-1300s, and were also in use in Baldur's Gate and Scardale and other ports.
+
+Inhabitants
+In 1358 DR, the temple was led by High Artificer Eldorn Mindalar, with nine priests and eighteen lay-followers.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Glory
+
+The House of Glory was a temple to Tempus, the Lord of Battles, found in the city of Tantras in the Vast.
+
+Location
+The House of Glory lay on the northeastern edge of the city.
+
+History
+During the Time of Troubles of the Year of Shadows, 1358 DR, the deity Torm resided at his temple in Tantras. Torm's zealous priests began persecuting followers of other faiths in the city as "unbelievers". Meanwhile, the House of Glory was damaged in an accidentally started fire. It is not known if or how the House of Glory was affected by this religious persecution.
+
+Nevertheless, the House of Glory remained active through to 1367 DR and past 1370 DR.
+
+Inhabitants
+In 1358 DR, the temple was led by High Battlemaster Thiotar Umbarton, with sixteen priests and twenty-two lay-followers.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Howling Wing
+
+The Howling Wing was a small band of kir-lanan that laired at the Wailing Cliff, in the Deep Wastes. They were led by a powerful kir-lanan called Ghindul.
+
+Organization
+The group was led by Ghindul, a tyrannical kir-lanan who would use both his strength and intimidating demeanor to keep his subordinates in check. Despite this harsh leadership, a number of kir-lanan moved between the Howling Wing and Screeching Wing bands over the years with the two groups operating as a loose collection of followers rather than a unified force.
+
+Ultimately, the Howling Wing served the shadow dragon Glouroth who laired near the top of the Wailing Cliff.
+
+Activities
+At the instruction of the shadow dragon Glouroth, the Howling Wing was responsible for extracting tribute from travelers of the Deep Wastes who sought to pass the Wailing Cliff. Any creatures who approached the base of the cliff and rung the large bell would be greeted by Ghindul and his wing. Depending on the composition of the party approaching, the Howling Wing would generally let Underdark dwellers pass in exchange for goods or coins worth at least 20 gp for each traveler.
+
+Although most of the valuables the Howling Wing collected from travelers were supposed to go to Glouroth, there were a few objects that they kept for themselves and hid in their cave.
+
+Drow were exempt from this toll owing to a pact that Glouroth had with the dark elves of Maerimydra.
+
+Tactics
+A signature tactic of the Howling Wing kir-lanan was to use tanglefoot bags against flying opponent they faced. Each member would make sure to have at least two tanglefoot bags with them in case they faced winged (or magically flying) intruders.
+
+Base of operations
+For the most part, the Howling Wing laired in the lowest cave of the Wailing Cliff, where they could quickly react to any intruders who attempted to ascend from the base.
+
+Possessions
+Each member of the Howling Wing carried two tanglefoot bags at all times and some potions of inflict serious wounds.
+
+In addition, within the Howling Wing cave were stored a number of items and treasure skimmed from Glouroth's tributes. These included a drow belt pouch filled with platinum, gold, and silver, as well as a wand of invisibility.
+
+Relationships
+Glouroth The Howling Wing was subservient to the shadow dragon and would give the majority of the goods they retrieved from travelers to Glouroth.
+
+Screeching Wing Since the division between Ghindul and Phaikkul, the two groups could barely co-exist. However, over the years membership had fluctuated between the two.
+
+Drow A pact enforced by Glouroth meant that the Howling Wing were amicable with any drow that passed through their territory. The kir-lanan even knew a Maerimydran code phrase in case the drow needed their help.
+
+History
+At some point after 1358 DR, a group of kir-lanan came to the Wailing Cliff and fell into the service of Glouroth, a shadow dragon who laired there. Over the years, the kir-lanan operated as enforcers for Glouroth and offered up their gains to the dragon. Soon however, a brief dalliance with Glouroth caused a divide among the kir-lanan when his daughter, Phaikkul, was born. The kir-lanan of the Wailing Cliff split into two groups, the Howling Wing and the Screeching Wing, led by Ghindul and Phaikkul respectively. Occasionally, individual kir-lanan would shift between the two groups through the years.
+
+By 1372 DR, these groups had settled into an uneasy relationship, with neither inclined to help out the other in battles. Although Phaikkul was arguably the more powerful leader, the natural suspicion of outsiders (even half-breeds) harbored by the kir-lanan meant that Ghindul's Howling Wing remained the larger of the two bands.
+
+Members (listing)
+ Ghindul
+
+Appendix
+Appearances
+City of the Spider Queen
+
+References
+
+---
+
+## Honor Reagh
+
+"Honor" Reagh was a female member of the Nasher in Neverwinter.
+
+History
+In 1479 DR, taking advantage of the chaos resulting from the undead assault on Neverwinter, led by Valindra Shadowmantle, Reagh and her friend Gothwan Cooper, under the orders from the Nasher leader Karzov, sneaked inside the Hall of Justice and stole the Crown of Neverwinter. An adventurer recruited by Sergeant Knox tried to recover it but was prevented by having to fight the Guardian of the Nine. Later, the adventurer, thanks to Knox's advice, found Reagh in a ruined tunnel near Driftwood Tavern and defeated her.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## House of St. Liwan's Blessings
+
+The House of St. Liwan's Blessing was a monastery of Ilmater on the western coast of Calimshan.
+
+Location
+This monastery was located high on the cliffs along the northern stretch of the Coast Trail from Teshburl to Memnon.
+
+Structure
+The House was a former caravanserai, like many of the monasteries in Calimshan.
+
+Activities
+In addition to religious activities, the House of St. Liwan's Blessing served as a culinary arts school—from exotic food to shipboard fare. Its patron saint, St. Liwan, believed that food could end suffering.
+
+Inhabitants
+In 1370 DR, the head abbot was Revered Father Akkabar el Souvlak.
+
+References
+
+---
+
+## Hohengroth
+
+Hohengroth was a red dragon living near the Well of Dragons.
+
+History
+When the Cult of the Dragon attempted to summon Tiamat into the world at the Well of Dragons, Hohengroth was one of the chromatic dragon heralds sent to ensure the coming of the Dragon Queen.
+
+Appendix
+
+Appearances
+Dungeons and Dragons: Neverwinter
+
+References
+
+---
+
+## House Maevret
+
+House Maevret was a drow house of Menzoberranzan.
+
+Notable members
+ Shar Nadal, a warrior in the same patrol as Drizzt Do'Urden in 1328 DR.
+
+Appendix
+
+References
+
+---
+
+## House of Serpents
+
+House of Serpents is a trilogy by Lisa Smedman that tells the story of Arvin, a psionically gifted ropemaker from Hlondeth, who gets caught up in the intrigues of the ruling yuan-ti.
+
+House of Serpents
+ Venom's Taste (March 2004)
+ Viper's Kiss (March 2005)
+ Vanity's Brood (March 2006)
+
+The trilogy was republished as an omnibus edition in 2009.
+
+---
+
+## House Fajirik Military Camp
+
+The House Fajirik Military Camp was a relatively permanent outpost of House Fajirik, located west of the Jamal Oasis in the High Desert of Zakhara.
+
+Inhabitants
+Soldiers stationed here were often bored, which many traders took advantage of by bringing goods and services for them to spend their money on. Captain Ramad bin Yusif al-Kahn kept men on watch constantly along the southern border of a barren weed field called a qara'a.  During peacetime, these soldiers had nothing to do except stare out into the vast emptiness of the desert and wait for any movement from the soldiers of House Ashurim, which was located on the other side of the qara'a.  This waiting game had lasted up to 200 years by 1367 DR.
+
+Funding for these soldiers was rumored to come from Tajar for House Fajirik, and Qudra for House Ashurim.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House T'sarran
+
+House T'sarran was a drow house from Maerimydra that worshiped the goddess Kiaransalee.
+
+Organization
+The house was led by Irae T'sarran and by her immediate family. Like other drow houses, the offspring of the matron mother, Dorina T'sarran and Zedarr T'sarran, were the next most influential members, often being given important tasks or preferential treatment by their mother.
+
+Dorina T'sarran's nieces, Velina and Velasta T'sarran, were ranked just below Irae's children.
+
+The numerous other members of House T'sarran were drow who were willing to fight for and bear the insignia of the House, and they lay beneath the noble family.
+
+Activities
+As adherents to Kiaransalee, the House would try to enact her will under the guidance of Irae.
+
+Tactics
+House T'sarran was a vengeful house, with a tendency to enact vengeance upon any who crossed them. They were willing to expend the lives of their drow soldiers more readily than other houses; this was because they believed their foot soldiers could easily be raised as stronger undead later.
+
+Base of operations
+Originally, House T'sarran was based in Maerimydra in the Deep Wastes. However, after the House was destroyed by a rival house, Irae T'sarran and its other surviving members remained lurking in the shadows until they could enact their vengeance. During the Silence of Lolth, they expanded their operations in tandem with the larger cult of Kiaransalee and took control of Szith Morcane.
+
+Possessions
+A few unique items were held by members of House T'sarran. One was the arachnid-themed eyes of the spider, which granted the wearer formidable ocular powers.
+
+A powerful artifact, known as the claw of the revenancer, was also possessed by the leader of both House T'sarran and the local cult of Kiaransalee.
+
+During the Silence of Lolth, Irae T'sarran was in possession of both these items.
+
+Relationships
+The house had strong ties with the cult of Kiaransalee after Irae T'sarran took up worship of the Vengeance-mad, with all of its noble members worshiping the death goddess by 1372 DR.
+
+After the almost total destruction of the House in Maerimydra by a rival house, Irae T'sarran spent the entirety of its remaining members' efforts toward gaining vengeance against the drow that had doomed them, notably, House Chûmavh.
+
+History
+During Irae T'sarran's youth, House T'sarran was one of the many drow noble houses in Maerimydra. However, one day while Irae was away from the city, the other noble houses of the city turned a blind eye to the destruction of the rest of her house by a rival. It was this event that caused her to turn to Kiaransalee and, with the scant few survivors of the house's destruction, to remain hidden in Maerimydra until they could enact their vengeance.,
+
+Silence of Lolth & the Fall of Maerimydra
+On Eleasis 28, 1372 DR, the Silence of Lolth plunged Maerimydra's clergy into disarray, as suddenly the prayers of all Lolth-worshipers went unanswered. Meanwhile, the clerics of House T'sarran retained their powers, thanks to their worship of Kiaransalee. When an army of goblinoids, giants, and demons led by Kurgoth Hellspawn attacked the city on Eleint 23, the members of House T'sarran prepared to climb to the top of the new chaos.
+
+By Eleint 28, Irae led her followers in slaughtering the last surviving house responsible for permitting the past destruction of House T'sarran. With the defeat of House Chûmavh, Irae claimed Castle Maerimydra as her new seat of power. From there they struck out at and destroyed Duneth Wharreil and his Shattered Tower on Marpenoth 2. With a strong foothold in the city and after finally enacting her revenge against the nobles responsible for the fall of her house, Irae set her sights on greater power beyond the city and fell into a protracted siege with Kurgoth Hellspawn's forces.
+
+Eventually House T'sarran even extended its influence to the drow outpost of Szith Morcane on Marpenoth 12. There, Irae's daughter Dorina T'sarran overthrew House Morcane and seized control of the settlement.
+
+Members (listing)
+ Irae T'sarran, Matron Mother of House T'sarran and leader of the cult of Kiaransalee in Maerimydra.
+ Dorina T'sarran, vampire daughter of Irae.
+ Zedarr T'sarran, son of Irae
+ Velasta T'sarran, niece of Dorina.
+ Velina T'sarran, niece of Dorina.
+
+Family Tree
+
+Appendix
+Appearances
+ City of the Spider Queen
+
+References
+
+---
+
+## Hommet Shaw
+
+Hommet Shaw was a human necromancer from Longsaddle.
+
+Personality
+Hommet was a young, talented, and eager necromancer, but he was not a very detail-oriented person. Despite the reputation of most necromancers, he sought a mentor who wasn't evil or insane.
+
+History
+Hommet was from the eccentric Harpell family.
+
+He was born to a young pair of farmers in a small village near Longsaddle. He was a scrawny child, and no use around the farm. As such, his parents sent him off to live with his Uncle Kipper Harpell. He managed to get exiled by the Harpells after raising some zombies he shouldn't have.
+
+At some point before 1487 DR, he travelled to Luskan, where he at various times got mugged, kidnapped and blackmailed.
+
+He trained under the mage Maferil, but was sento to Neverwinter sometime before the wizard's death around 1487 DR. He returned to Luskan after hearing of Maferil's murder.n-Space (October 2015). Designed by Dan Tudge, et al. Sword Coast Legends. Digital Extremes. He wanted to join an adventuring party in order to prove himself but also make some allies in the process. During the journey to Luskan, his caravan was ambushed, and, to save his own life, he played dead and was dragged to the bandits' hideout, where he later encountered the Champion of the Burning Dawn.
+
+While travelling with the Champion of the Burning Dawn, Hommet received a letter from Dagatha, who communicated that she was working for a book collector in Luskan, and that she had a tome that might be of use to him in developing his magical powers. Eager to prove his worth, he asked the Champion to join him in seeking out this tome.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Hosan Khalid
+
+Hosan Khalid was in charge of the West Center district of Huzuz in 1367 DR.
+
+Personality
+Hosan was an extremely diligent individual.
+
+Activities
+Hosan supervised the Suq Gate, Harbor Gate, and the Grand Bazaar. These areas held most of the city's tax collectors and merchants, so much of Hosan's work revolved around permits.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Holy slayer
+
+Holy slayers were elite assassins within Zakhara who meted out justice based on a specific set of principles and beliefs. Often, just the knowledge that a holy slayer was operating nearby was enough to dissuade those who opposed their goals or beliefs.Holy slayer was a thief class kit for the Al-Qadim setting.
+
+Requirements
+Holy slayers were always thieves. Bards were not allowed to become holy slayers. These individuals could be male or female, but some of the holy slayer organizations only had members of one sex. The Soft Whisper was an all-female organization, and the Wind of Fate was all male. Examples of other groups were the Wrath of the Old, the Storm Which Destroys, and the Grey Fire.
+
+Role
+Holy slayers had as many restrictions as paladins. They were utterly devoted to their organization, literally created to follow the orders of their Grandfather or Grandmother. All holy slayers were expected to sacrifice their lives if called upon to do so. Grandfathers and Grandmothers often used this devotion to show their power by having holy slayers jump off a building to prove their worth. Any holy slayer who disobeyed a direct order became an outcast, and was hunted down and killed.
+
+Holy slayers could operate out of the base of their chosen organization, or dwell among regular citizens while waiting for direct orders or "The Call."
+
+Possessions
+Holy slayers could use any one-handed weapon. Most of the different organizations specialized with a certain type. They often carried an array of virulent poisons, which were only used as a secondary option. Any fool could poison someone's wine; holy slayers were elite killers who preferred to get up close and personal with their victims.
+
+Skills
+Holy slayers could specialize in the use of one weapon just like a fighter, so long as the weapon was the favored choice for their organization. Some are listed below:
+ Soft Whisper: jambiya
+ Wind of Fate: blowgun
+ Wrath of the Old: dagger
+ Storm Which Destroys: longsword
+ Grey Fire: javelin
+
+The biggest shortcoming of being a holy slayer was their short lifespan.
+
+Appendix
+See Also
+ Soft Whisper
+ Wind of Fate
+ Wrath of the Old
+ Storm Which Destroys
+ Grey Fire
+ Everlasting
+ Winged Bulls
+ Unclean
+ Sword Dancers
+
+Notes
+
+References
+
+---
+
+## Homecoming
+
+Homecoming is a series of novels by R.A. Salvatore featuring Drizzt Do'Urden and the reborn Companions of the Hall. The series follows the Companions Codex and is followed by the Generations trilogy.
+
+Homecoming
+ Archmage (September 1, 2015)Amazon.com
+ Maestro (April 5, 2016)Amazon.com
+ Hero (October 25th, 2016)
+
+References
+
+---
+
+## Honor mark
+
+Honor mark was a spell unique to Zakhara, the Land of Fate.
+
+Effects
+Wizards used this spell to mark targets whom they witnessed performing dishonorable actions. Most honor marks appeared as sharp black marks across the target's eyes or down the middle of their face. Everyone knew an honor mark when they saw one and treated the target accordingly.
+
+Honor marks could only be removed by atoning for the misdeed that gave them the mark. The wizard who cast the honor mark did not need to do anything for the mark to disappear.
+
+Wizard's who attempted to cast this spell falsely, without having witnessed the target performing a dishonorable action, would be marked instead. The mark would remain on the wizard until they apologized to their intended target and performed an task of atonement stated by the offended party.
+
+Components
+This spell did not require any physical components to cast.
+
+Appendix
+References
+
+---
+
+## Horns of the Earth
+
+The Horns of the Earth, or the Darkwings, was a large group of gargoyles within the Sevenfold Mazework and the Great Dismal Delve.
+
+Organization
+The exact numbers of gargoyles within the Horns of the Earth remained unknown. Estimates placed the numbers between 15,000 and 25,000.
+
+Activities
+These gargoyles patrolled the entire expanse of the Great Dismal Delve. They typically metted out justice to non-genie slaves and workers, but would occasionally apprehend common dao who broke the Khan's laws.
+
+Base of Operations
+The Sevenfold Mazework within the Great Dismal Delve served as base of all dao military organizations.
+
+Appendix
+References
+
+---
+
+## House of Mawli
+
+The House of Mawli was an unenlightened tribe inhabiting the Haunted Lands of Zakhara in the 1367 DR.
+
+Activities
+This tribe was primarily involved in raiding weaker tribes or anyone foolish enough to enter the Haunted Lands without a proper escort. They sold captured individuals into slavery as well.
+
+Members
+Roughly thirty raiders and desert thieves comprised any wandering band from the House of Mawli. Jaffer al-Mawli, the son of the clan leader Rashid al-Mawli, usually led these mobile expeditions.
+
+It remained unknown exactly how many raiders comprised this organization. Each sect within the House of Mawli had anywhere between 200 and 500 individuals.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Holt Burukhan
+
+Holt Burukhan was the high priest of Bane in Sundabar in 1373 DR.
+
+History
+In 1373 DR, Burukhan was approached by Kaanyr Vhok, leader of the Scoured Legion, who asked for the help of the local Church of Bane to overthrow Helm Dwarf-Friend. Burukhan was not fully convinced and waited for a better evaluation of the situation, but his underling Zasian Menz joined Kaanyr.
+
+Appendix
+Appearances
+Novels
+The Empyrean Odyssey:
+ The Gossamer Plain
+
+References
+
+---
+
+## House of Heroes
+
+The House of Heroes was a temple dedicated to the god Tempus, the Lord of Battles, located in the Sea Ward of Waterdeep in the mid–14 century DR.
+
+Location
+The temple was located at the corner of the Lions and Jelzar's Stride, across from the Field of Triumph.
+
+Structure
+It was a 3-story temple complex. It was one of the biggest temples in Waterdeep.
+
+The temple's halls honored not only battle champions of the city, but also winners of sports competitions. The honored champions were immortalized with name plates and visages.
+
+Activities
+This temple provided services for the various combatants and spectators from the nearby Field of Triumph and also supported the Academy of Arms, which was dedicated to the fighting arts. The clergy could provide healing services.
+
+Following internal sports competitions between players from different wards of Waterdeep, such as the Plowing and Running, the winners paraded through the temple's halls, carried on the crowd's shoulders.
+
+History
+In early winter of the Year of the Saddle, 1345 DR, the House of Heroes was burned down, together with the Spires of the Morning, on the Night of Temple Fires. It was rebuilt in the Year of the Bloodbird, 1346 DR.
+
+Inhabitants
+By 1357 DR and through 1368 DR, the temple complex was led by High Sword Turik Bloodhelm and Prior Maxtilar Rhebbos.
+
+Appendix
+Appearances
+Adventures
+Waterdeep: Dragon Heist
+Board Games
+Lords of Waterdeep
+
+References
+
+---
+
+## House Auvryndar (Menzoberranzan)
+
+House Auvryndar was a minor drow house in Menzoberranzan. It was located in the district of Duthcloim ("Manyfolk").
+
+Appendix
+
+Appearances
+Adventures
+Waterdeep: Dungeon of the Mad Mage
+References
+
+---
+
+## House Auvryndar (Ched Nasad)
+
+House Auvryndar was a powerful drow house of Ched Nasad.
+
+Headquarters
+House Auvryndar was located on the second level from the top of the city.
+
+Leadership
+In 1370 DR, the drow vampire Shyntlara Auvryndar was matron mother of House Auvryndar. She sat on the Ruling Council of Ched Nasad and was in Lolth's favor. She was able to create drow vampires only from drow that had failed the test of Lolth.
+
+Appendix
+References
+
+---
+
+## Hoondarrh
+
+Hoondarrh, known as the Red Rage of Mintarn, was one of the most famous red dragons of the Realms.
+
+Personality
+Hoondarrh was a cruel and efficient dragon. During his life on the Sword Coast, he came to understand that his greatest foes were humans, not other dragons, as only humans could prevail over dragons thanks to their continuous attempts, so he kept a close watch over human activities. In truth, Hoondarrh was really fascinated with humanity, their plots, counterplots, dealings, and love affairs. Draconic life was not as intriguing.
+
+Activities
+Hoondarrh's favorite prey were creatures who tried to cheat or outwit him. He spent much of his time scrying on life in human cities from his lair on Skadaurak Island. He carried on a project to recruit a wizard who could create rejuvenation spells, via attractive illusions of humans.
+
+In his free time, he made use of a magic sleep using Saldrinur's Slow Gem. Sometimes he employed humans and others whose jests, pranks, treacheries and intrigues amused him but would hunt to the end of the world anyone that tried to steal from his hoard.
+
+History
+Hoondarrh hatched in the eastern Sword Coast in the late summer of the Year of Scorching Suns, 460 DR. His parents argued often, and one slew the other, surviving with severe wounds. From hatching, Hoondarrh was always large, vigorous, and aggressive and easily killed and ate his siblings. Emboldened, he decided to confront his parents but from that battle Hoondarrh barely escaped with his life.
+
+He escaped to the northernmost reaches of the Sword Coast and there he grew in size, cunning, and strength, destroying many creatures. But his life changed in the Year of Fire and Frost, 600 DR, when he ambushed a human expedition near the Spine of the World. On the corpse of the wizard of the expedition, Tharilim of Calimport, he found the Ongild, a Halruaan artifact which held the power of regeneration.
+
+Thanks to the power of this artifact, Hoondarrh managed to defeat his remaining parent and kill another dragon as a test. Very soon, however, an orc horde boiled down out of the North and to protect his new lair Hoondarrh destroyed the orcs. However, all the fighting attracted the notice of the white dragon Naroun, the Great White Ghost, but after a two-day-battle in the sky, the red prevailed over Naroun.
+
+Injured, Hoondarrh searched for a secure place to heal and, with great luck, found the lair of the great white wyrm Angkarasce the Lost, dead from his own spells, and thereby gained the great hoard of the legendary dragon. He began to search for a better lair to store his new treasures. For a time he wandered the Sword Coast, preying on many locations including Waterdeep, the Moonshae Isles, and even the Nelanther Isles.
+
+In the Year of the Singing Arrows, 884 DR, while Hoondarrh still searched for a lair, the great red wyrm Skadaurak, the Red Terror of Mintarn, awoke from his 1000-year-long-stasis, thanks to a Halruaan artifact called Saldrinur's Slow Gem, on a isle north of Mintarn. The wyrm soon found another red flying over his domain and challenged Hoondarrh. However, the younger dragon triumphed and so claimed the island lair of the defeated Skadaurak as his own.
+
+Upon inspecting his new holdings, he decided that the lair needed renovation and Hoondarrh hired many artisans and wizards to create a complex system of hidden entrances and false lairs that proved effective against human and draconic predators. He killed all his former employees but didn't remember that humans could write things down for later generations. In the Year of the Empty Hand, 896 DR, Hoondarrh offered his protection to the inhabitants of Mintarn isle in exchange for an annual tribute and they, naturally, agreed.
+
+Soon, tales started being told among adventurers about the fabled treasure of Hoondarrh and many attempted to claim it. He amused himself watching as the adventurers tried and failed against his defenses.
+
+By the mid–14 century DR, he was searching for a magical path to immortality and looking for a mate. He initiated a plan to recruit a talented wizard from Waterdeep or Tethyr to develop spells to keep a dragon young and vigorous for extra years. Starting from 1332 DR, using illusions of attractive humans, he approached many wizards in the two countries but most declined his offer. Only Elquaern Hunabar of Waterdeep accepted the deal but Hoondarrh discovered that the wizard attempted to play him false, so disguising himself as the green dragon Galarrdratha, he invited Elquaern to a meeting but in the subsequent magic battle, the wizard disappeared.
+
+During the Dracorage of the, Hoondarrh attacked Callidyrr on the Moonshae Isle of Alaron, levelling residential neighborhoods and setting Caer Callidyrr on fire. He was only driven away by a powerful circle of druids from the Feywild led by Robyn Kendrick. The damage he wrought took years to repair, and the casualties included High King Keane.
+
+During one of his long sleeps in the mid-to-late 15 century DR, Mintarn prospered greatly after Dagult Neverember hired on the islands soldiers and former pirates as mercenaries to advance his agendas in Waterdeep and Neverwinter. When something awoke Hoondarrh unexpectedly in the 1480s DR, he flew to Mintarn, toppled the towers of Castle Mintarn, and demanded greater tribute now that the island was flush with gold. Unfortunately, Dagult Neverember had less and less need of Mintarn's mercenaries, and by the, the people of Mintarn began to fear that they soon would be unable to afford the dragon's tribute. Some even proposed hiring adventurers to slay him.
+
+Before that could happen, the spirit of Skadaurak was returned to Toril by Asmodeus, possessing the body of a dragonborn pirate named Rayonde. He travelled back to Skadaurak Island and forced Rayonde's old companions to kill the dragonborn, which then allowed Skadaurak's spirit to possesses Hoondarrh.
+
+Appendix
+
+Appearances
+Comics
+ A Darkened Wish
+
+External links
+ Wyrms of the North: Hoondarrh, "Red Rage"
+
+References
+
+---
+
+## Holordrym Obarskyr
+
+Holordrym, born in the Year of the Hunting Horn, 242 DR, was the 21st Obarskyr monarch and a king of Cormyr. He reigned for four years, from the Year of Cruel Storms, 268 DR to the time of his death in the Year of the Weeping Kingdom, 272 DR.
+
+ Relatives
+Although his sister Besmra eventually reigned as queen after the deaths of his sons, Belereve and Thargram, he was the first and only son and heir of King Thargreve the Lesser.
+
+He was two when his granduncle Boldovar the Mad was believed to have died; twenty-six when he inherited the throne from his cousin, Roderin the Bastard after his passing; and thirty when he drew his last.
+
+Appendix
+
+Reference
+
+Connections
+
+---
+
+## Honored Mamluk Society
+
+The Honored Mamluk Society, also known as the Honored, was a military organization in Zakhara.
+
+Activities
+This mamluk organization was tasked with protecting the Grand Caliph and his harim.
+
+Organization
+The Honored were led by General Ahmahd abd al-Iffa. Mamluks of the Honored were either eunuchs or women.
+
+Base of Operations
+Since guarding the Grand Caliph was their priority, the Honored were based in Huzuz and actually rarely left the grounds of the Palace of the Enlightened Throne unless they were running errands.
+
+Appendix
+References
+
+---
+
+## Holger
+
+Holger was a member of the Cult of the Crushing Wave during the Elemental Evil crisis.
+
+Personality
+Holger commanded the gatehouse of Rivergard Keep.
+
+History
+In 1491 DR, Holger was in charge of the gatehouse of Rivergard Keep, disguised as a sellsword under Jolliver Grimjaw. However, he was confronted and defeated by some adventurers.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+
+References
+
+---
+
+## House of Al-Danafi
+
+The House of Al-Danafi was one of the richest merchant families in Huzuz in 1367 DR.
+
+Organization
+Khwaja al-Danaf and his wife Perijan were the original founders of their house.
+
+Squads of warriors carefully guarded the buildings owned by Al-Danafi. Some of these guards maintained rooftop vigils while others performed mobile patrols of the facilities.
+
+Outside of the guards, the House of Al-Danafi employed nearly 1,000 individuals with various positions.
+
+Activites
+The Al-Danafi contacted business relations in Durpar with the hopes of adding exotic items such as fine silk and rare spices to their already impressive array of common goods.
+
+Their ships sailed the Golden Gulf and the Crowded Sea, bringing their fine wares to all corners of Zakhara.
+
+Khwaja's daughter, Tanya was married to the Grand Caliph for a with a dowry of 500,000 dinars. Because of their close relationship with the Grand Caliph, the ships of al-Danafi enjoyed unique mooring privileges in the harbors of Huzuz.
+
+Base of Operations
+The House of Al-Danafi was based within the Warehouse District of Huzuz. They owned other holdings spread throughout the City of Delights as well, including a plot of land in the Grand Bazaar that was the size of several city blocks. Guides in the Grand Bazaar were hired by the Al-Danafi to offer their services to adventurers and foreigners in a clever attempt to steer them toward their stalls.
+
+History
+As one of the richest Houses in Huzuz, Al-Danafi owned 15 large storage facilities within the Warehouse District.
+
+They were sworn enemies of the House of Al-Dinak.
+
+The House of Al-Danafi was originally based in Gana in the Pearl Cities.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Al-Kamari
+
+The House of Al-Kamari was one of the richest merchant families in Huzuz in 1367 DR.
+
+They claimed to make the finest silks in all of Al-Toril.
+
+Organization
+The House of Al-Kamari owned the six largest storage buildings within the Warehouse District of Huzuz. In addition to this, they owned over a dozen factories within the Clothiers' District that processed their silk.
+
+Mu'izzi al-Kamar was the head of the Al-Kamari.
+
+Mamluks from the Diligent Mamluk Society were employed to guard their wares.
+
+Base of Operations
+This merchant family was based out of Huzuz, the City of Delights.
+
+History
+Silk and other expensive fabrics were the focus of the House of Al-Kamari. The merchant house was able to instill pride in their workers, earning their careful attention to detail when handling the delicate silk. Much of their silk came from large mulberry orchards located south of Huzuz. Silk moths fed on the mulberry until their cocoons were harvested. The Al-Kamari conducted experiments to see if spider silk would be another viable option.
+
+Al-Kamari employed over 1,000 people in Huzuz, most of whom were women. They never hired anyone who had rough or calloused hands, fearing that a worker with rough hands would snag their silk.
+
+Rumors & Legends
+Because of their corruption by the yikaria, which was unknown to the entirety of Huzuz, Al-Kamari were the unintentional enemies of the Grand Caliph.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Al-Birar
+
+The House of Al-Birar was one of the richest merchant families in Huzuz in 1367 DR.
+
+Organization
+Through a stroke of cleverness, the House of Al-Birar employed several sha'irs and their marid to keep their warehouses cool enough to prevent food spoilage. Though this method was expensive, the Al-Birar family became quite rich.
+
+Base of Operations
+The House of Al-Birar was based out of the Warehouse District of Huzuz.
+
+History
+Al-Birar focused on food and other potable items including wine, fruit, and meat. They supplied many of the popular restaurants and cafes in Huzuz.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Al-Dinak
+
+The House of Al-Dinak was one of the richest merchant families in Huzuz in 1367 DR.
+
+Organization
+After experiencing a slew of devastating caravan attacks, the House of Al-Dinak began hiring adventurers to guard their caravans.
+
+Base of Operations
+The House of Al-Dinak was based out of the Warehouse District of Huzuz.
+
+History
+The House of Al-Dinak was a sworn enemy of the House of Al-Danafi. They recently closed one of their warehouses, prompting an insultingly low offer from Al-Danafi to purchase the holding.
+
+Al-Dinak dealt with a variety of trade goods. The combination of poor decision-making and bad luck on the caravan trails left them dealing with hard times. Their financial situation lead others to believe that their goods possessed poor quality.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Al-Farif
+
+The House of Al-Farif was one of the richest merchant families in Huzuz in 1367 DR.
+
+Organization
+Mamluks of the Diligent Mamluk Society and several sha'irs and wind mages were employed to protect their warehouse. Their guards were a cut above the common guards found within the Warehouse District of Huzuz.
+
+Base of Operations
+The House of Al-Farif was based out of the Warehouse District of Huzuz.
+
+History
+Al-Farif owned a moderately sized spice warehouse. Though they held fewer and smaller warehouses than many other merchant families, the spices sold by the House of Al-Farif were worth more than their weight in gold.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Al-Cinel
+
+The House of Al-Cinel was one of the richest merchant families in Huzuz in 1367 DR.
+
+Base of Operations
+The House of Al-Cinel was based out of the Warehouse District of Huzuz.
+
+History
+The House of Al-Cinel specialized in procuring larger rare items including statues, fountains, and tapestries.
+
+This merchant family was able to acquire a Halruaan skyship. They kept it locked away within a warehouse where only members of the family were allowed to enter. Two elven mages worked tirelessly to determine how the ship was able to achieve flight, though since they lacked the necessary control rod, their efforts were probably in vain.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Al-Klemari
+
+The House of Al-Klemari was one of the richest merchant families in Huzuz in 1367 DR.
+
+Base of Operations
+The House of Al-Klemari was based out of the Warehouse District of Huzuz.
+
+History
+The Al-Klemari specialized in the trade of arms and armor. In addition to selling their items, they had skilled artisans who took special commissions for unique weapons or armor. Orders were procured from their agents who were stationed in the Grand Bazaar.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Home of the Happy Dolphin
+
+The Home of the Happy Dolphin was an inn located in Huzuz, the City of Delights, along the banks of Al-Sarif River.
+
+Description
+Located in the Trade Harbor district, this typical inn had twenty tables filling the common room. Wide windows lined the front of the inn, allowing cool breezes from the harbor to circulate through the common room.
+
+Activities
+The fish stew of this inn was a favorite among locals.
+
+Inhabitants
+The Home of the Happy Dolphin was owned by Samsi Farlak.
+
+Appendix
+References
+
+---
+
+## Howling Gap
+
+The Howling Gap was a passage between the Teyla Shan and the Raurin Alta mountains, and was the primary trade passage between Semphar and the east.
+
+Description
+Created by the space between the Teyla Shan and the Raurin Alta mountain ranges, too broad to be considered a pass, the Howling Gap sat along the Silk Road that connected Semphar to the lands of Shou Lung, and served as the primary route of travel between the two nations.
+
+History
+No one was sure how the Howling Gap got its name, but there were a number of theories, including:
+ the loud howl the baboons in the area made when they felt threatened;
+ fierce winds that swept east to west, causing large dust storms that impeded travel; and
+ The howl of angry djinn, who were bound by the ancient Imaskari Empire to guard the empire, still being forced to do so long after the empire had collapsed.
+
+It was known that the gap had a history of caravans disappearing within, with others being attacked, and survivors claiming to have been attacked by something in the wind, and entire garrisons stationed there being destroyed mysteriously.
+
+Due to all these rumors, no one tried to occupy or settle this region.
+
+During the Tuigan invasion of Semphar, the Gap was one of two main routes used by the Tuigan Hubadai Khahanto invade the nation. The Tuigan, being a superstitious people, did not attempt to garrison people in the gap.
+
+ Inhabitants
+Djinn lived in the pass, and attacked travelers under the guise of dust storms to confuse their victims.. While they weren't always successful in these attacks, their defeat did nothing to limit their numbers, or lower their hostility. It was unknown if they were there of their own volition, or if they were bound by the Imaskari.
+
+Appendix
+References
+
+---
+
+## Hollow Crown Mountains
+
+The Hollow Crown Mountains were a mountain range that sat south of the Yellow Serpent Border Cliffs, just outside the Shou Lung Empire.
+
+ Description
+The Hollow Crown Mountains were a mountain range that abutted Kara-Tur and the Hordelands, just outside the borders of the Shou Lung Empire, and marked what was the northernmost border of the ancient kingdom of Guge.
+
+The mountains' most famous features were the Glacier of the Lost King, and the bowl-like valley in the center that the mountains formed, which also gave the range its name. This valley was only accessible via hidden passes.
+
+ Inhabitants
+Unknown to the rest of the world, survivors of the ancient spirit folk empire of Guge resided in this valley and were waiting for the time in which they could avenge their ancestors and reclaim their old empire. However, they were unlikely to do so as they had developed a fear of leaving the valley after having spent so much time there.
+
+Appendix
+Reference
+
+---
+
+## Horseshoe Temple Oasis
+
+The Horseshoe Temple Oasis was a large and important oasis located deep inside the Quoya Desert of the Endless Wastes. It was home to the Horseshoe Temple, a large holy site sacred to three different faiths of the Hordelands, before it was seized by oni.
+
+Description
+It was located in a box canyon concealed by the mountains and valleys of the desert, with walls of red sandstone. A small stone pyramid stood at the opening of the canyon, marking its entrance. Despite the surroundings, the Horseshoe Temple Oasis had an ample supply of pure fresh water that bubbled up from underground. This underground water supply allowed the oasis to never dry out, even under periods of extreme heat.
+
+The bottom of the oasis was covered in grasses and flowers, and a number of small streams flowed out from the spring. Near the cliff side of the canyon was a dense grove of pine trees, planted before the mid–12 century by the priests who had carved the many caves in the cliff side.
+
+The most prominent feature of the oasis was the network of over thirty caves, carved at various heights along the cliff-face, that formed the temple complex. From the foot of the cliff, carved from the face itself, was a broad staircase flanked by many statues (most later shattered by oni) and leading to a terrace on the first level. Higher levels were reached via wooden galleries or ladders hanging on the side of the cliff, or by stairways inside the cliff. There were four levels in all. These caves faced south and received some light during the day, via small windows cut through the rock. The carving was generally simple and lacking adornment, as were the furnishings. The caves were kept spotlessly clean by the priests, but the oni left them filthy and cluttered with debris.
+
+Locations
+Inside one of these caves on the third was the item the temple and oasis got its name from, a large block of polished sandstone with an impression of a large horseshoe in it. According to legend, it was at this spot that the Heavenly Sage, Hung Te Ping, stopped to rest during his travels between Shou Lung and the Celestial Bureaucracy. During this stop, the sage's wondrous horse was said to have struck its hoof on the rock, leaving the impression that remained for centuries after. Many followers of the Way believed this to be a holy site. The Great Horseshoe Chamber was huge and held a gigantic statue of Hung Te Ping, before which was the sandstone block. The room emanated an aura of goodness.
+
+While by far the most important, there were other caves of note in this complex. On the ground level were the Grottoes of the Nine Sages, each of which was dedicated to one of the great sages of Shou Lung legend. Important in the Path of Enlightenment, the Nine Sacred Sages here were Chou Zhiangpen the Lame; Ta-wan, the Little Holy Man; Tai Hsueh-chi, the White-Boned Healer; Li Chih-wu of Cham Fao; Yao Tsung-i the Swordbreaker; P'eng Khaisan the Barbarian; Hung Te Ping the Scholar; Hsiao Tzu-chi, the Grand Advisor; and Princess Pieh-chi. Statues of lesser sages stood in niches in the Gallery of Statues on the cliff-face. The goblins were allowed to dwell in the Grottos by the oni.
+
+For the Padhran religion, the Hall of the Enlightened One housed statues of the three incarnations of the Enlightened One, surrounded by frescoes. The oni knocked the heads of these statues and defaced the frescoes, and installed a shrine to Li Pei here. Statues of lesser incarnations stood among the sages in the Gallery of Statues. The Hall of the Water Buffalo held a statue of the holy water buffalo Yampa. But most impressively, carved into a shelf in the cliff-face on the third level was a massive statue of the Enlightened One, reclining and asleep.
+
+There were also the Halls of Life and Death, which contained the costumes and masks needed to perform the dances of the seasons on particular holy days. The oni looted or broke most of these.
+
+The Hall of Contemplation, built inside the cliff, contained niches holding statues and carvings of scripture.
+
+Higher up were the Chambers of the Emperor Kao, built in honor of a great emperor of the Kao Dynasty of Shou Lung. These were filled with valuable treasures left there by various emperors of Shou Lung's dynasties.
+
+The Lesser Hall of Perfect Understanding served as quarters to the abbots, and later to Halbasho. The Cave of Tranquil Peace was home to the bones of deceased abbots, which were neatly stacked in niches in the walls. The oni avoided entering this crypt, fearing the power of the dead abbots' spirits. They painted protective charms in the name of Li Pei on the walls leading to it.
+
+Also in the complex was a private altar room, small and dark, for conducting personal prayers and offerings. The oni heaped garbage here. There were also residence halls for the priests and the Sutra Library, where large prayer wheels on posts from floor to ceiling were mounted and turned.
+
+History
+The Horseshoe Temple was normally inhabited by priests of the Way hailing from Shou Lung.
+
+Some time before 1358 DR, a desperate band of goblins wandered out of the west. They'd fled from angry Firepeaks dwarves after stealing a fortune in platinum coins from them, and then been pursued over the steppe by nomad horsemen, and many had been killed in their flight. Whatever their wicked ways, the goblins were wretched and defeated when they arrived at Horseshoe Temple Oasis. Following their faith, the priests permitted them to settle in the far end of the canyon, on the provision that they behaved. Each day, the priests taught the goblins their faith, with some success, even turning them good.
+
+However, circa 1358 DR, the temple fell under the control of evil oni, who slew the priests and made the location their home. As a few surviving priests escaped back to Shou Lung, the oni moved into the temple. They enslaved the goblins and systematically defaced the shrines and destroyed the artwork and treasures in the cavern complex, converting it to a temple to Li Pei, Lord of the Underworld.
+
+Inhabitants
+There were ten common oni, led by Halbasho the Smart.
+
+Numbering 27, the goblins served the oni with reluctance, remembering the priests' kindness and teachings. In their crude understanding of the Way, the goblins viewed the oni as karmic punishment for the sins of goblin-kind, with a blend of regret and fatalism. Nevertheless, they cowered and waited a chance to fight back.
+
+Treasures
+Some treasures yet survived the oni's desecration including a bell of warning, a biwa of calm, and eight diagram coins. The goblins saved some charms of protection from spirits when the oni ordered them to get rid of them. Otherwise, the caves still held some silver ornaments, the dwarves' platinum coins, and various gems prised from the statues.
+
+Appendix
+References
+
+---
+
+## Horgar Steelshadow V
+
+Deepking Horgar Steelshadow V was the duergar king of Gracklstugh during the late 15 century DR.
+
+Activities
+He was a ruthless and canny ruler. His style was to have secret meetings with all the city's councils and clans in order to keep their members guessing what he was up to, and he handed out favors out of the blue. He let it be known that he would use any trick to maintain his grip on power. Horgar was known to employ assassins like the Empty-Scabbard Killers through third parties to take care of potential troublemakers. Thanks to this strategy, he focused all the factions on war with others and make them unable to damage the king.
+
+History
+Horgar ascended the throne in 1372 DR.
+
+At some point during his reign, Horgar's brother Valtagar was captured and held to ransom by the drow houses of Menzoberranzan. Horgar was forced to pay a king's ransom to free his brother, and as a result declared Valtagar and his followers to be calassabrak, and banished them from Gracklstugh.
+
+During the late 1480s or early 1490s DR, Horgar became infected by the madness spread by demon lords and Shal, a disguised succubus agent of Graz'zt hid his madness.
+
+He is the grandson of Deepking Tarngardt Steelshadow, who liberated the derro from slavery and allowed them to live in the East Cleft District of Gracklstugh.
+
+Appendix
+Appearances
+Adventures
+War of Everlasting Darkness • Out of the Abyss
+Video Games
+Sword Coast Legends
+Gamebooks
+Escape the Underdark
+
+References
+
+---
+
+## House of Wo
+
+The House of Wo was a caravanserai located in Huzuz in 1367 DR.
+
+Description
+This four-story structure was capable of lodging hundreds of occupants at the same time, though typically only the cafe was full.
+
+Activities
+Named for its owner, Wo, who was one of the best chefs in the entire city, the House of Wo offered some of the finest dining within the City of Delights.
+
+Inhabitants
+Wo employed Fayaniz al-Nokar to oversee all non-food-related facets of the House of Wo.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Howard Baker
+
+Howard Baker was a halfling who owned and operated a fabulous pastry shop within the Grand Bazaar of Huzuz in 1367 DR.
+
+Personality
+Howard exemplified the ethics of Durparian merchants by never overcharging for a pastry he deemed less than perfect.
+
+Activities
+Howard employed ten halflings, including his wife and daughter. His culinary skills helped increase the "delight" within the City of Delights as his customers paid handsomely to sample his sweets.
+
+Among his specialties were bouqthi, a tart and sweet rhubarb pastry, a hot cherry peach pie named "the bubbler,"and an assortment of fruitcakes.
+
+History
+Howard was part of the notoriously rich Baker chaka of Durpar. He moved to Zakhara to help his family expand their enterprises even further.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Hoparatu River
+
+The Hoparatu River was a river in the kingdom of Koryo in Kara-Tur.
+
+Geography
+Found on the eastern edge of Koryo, the Hoparatu River began in the Quang Muku Forest then ran through the southern foothills of the Vorkani Mountains. Joining another river from the Vorkani Mountains, it emptied into the sea at Xi Hulang.
+
+Settlements
+The town of Goisho stood on the western part of the river, while the capital city of Xi Hulang lay its mouth.
+
+Appendix
+References
+
+---
+
+## House of Al-Thuria
+
+The House of Al-Thuria was one of the richest merchant families in Huzuz in 1367 DR.
+
+Organization
+Each of their three large factories specialized in making leather goods including leather armor, saddles and tack, and sandals and other common items.
+
+Jamila al-Thuri was the matriarch of the family.
+
+History
+This prominent dwarven family specialized in all kinds of leather goods.
+
+Base of Operations
+The House of Al-Thuria was based in the Clothiers' District.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Hourm
+
+Hourm was a friendly galeb duhr living in Gravenhollow in the late 15 century DR.
+
+History
+Circa 1486 DR, Hourm assisted an expedition led by some adventurers who'd been hired by Bruenor Battlehammer to investigate the threat of a demon lord. Hourm explained to them the functions and rules of the library. After he finished his task, he remerged with a wall.
+
+Appendix
+
+Appearances
+ Out of the Abyss
+
+References
+
+---
+
+## Horac
+
+Horac was an enforcer in Hillsfar in the late 15 century DR.
+
+Activities
+Horac was the chief enforcer for Margery Thrier of the Hillsfar Arena. Along with his assistants, his work entailed keeping the prisoners chained until they were scheduled to fight.
+
+History
+Circa 1486 DR, some prisoners sold by sorcerer Breex Vandermast managed to escape, causing a riot.
+
+Relationship
+Horac was always attended by three warriors under his orders. Often he walked in the city with Mags Thrier and her goliath slave-bodyguard.
+
+Appendix
+Appearances
+ Shackles of Blood
+
+References
+
+---
+
+## Hooded One
+
+The Hooded One was a mind flayer merchant in Mantol-Derith.
+
+Personality
+The Hooded One was curious and quite congenial for an inhuman monster. It believed that the prophecy in Evarell's journal announced the day when the illithids would rule a world locked in darkness, ending the era of humanity.
+
+Activities
+The Hooded One usually sold gold, silver, and slaves in exchange for art and magical objects.
+
+History
+Around 1479 DR, the Hooded One had arrived in Mantol-Derith very recently in 1479 DR.
+
+Appendix
+Appearances
+ Reclaiming Blingdenstone
+
+References
+
+---
+
+## House of the Loregiver
+
+The House of the Loregiver was a sacred site to Enlightened Zakharans found within the Golden Mosque in Huzuz in 1367 DR.
+
+Location
+This building could be found in the Pilgrims' District of the City of Delights.
+
+Structure
+The actual physical structure of the House of the Loregiver was not impressive since it was a simple one-room house made from clay.
+
+Defenses
+Since pilgrims enjoyed taking souvenirs from the house, many magical protections were put in place to protect the remaining structure. A wall of force surrounded the house. Those who were able to circumvent the wall were met with a magical feeling of dread. Those who pressed further were confronted with four noble genies, one for each elemental type. Anyone able to strike the house with malicious intent was instantly paralyzed.
+
+Additionally, an honor guard of priests guarded the house at all times.
+
+History
+Many Zakharans believed that this house was the dwelling of the woman who would become the Loregiver. However, other opinions existed as well.
+
+A sect of radical Zannites believed the location was only a house that existed during the time of the Loregiver. All believed that the house was where the first Grand Caliph experienced a vision that led him to the Loregiver's scrolls.
+
+Many believed that being near the house helped ease their pain, though sages thought this was simple superstition.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Holy Mountain of Kus
+
+The Holy Mountain of Kus was located in the Hordelands on and within Mount Kus and near Kushk.
+
+Description
+Along with the Tower of Harmony atop the summit, a vast network of twelve tunnels within Mount Kus comprised this temple to Bimasara. The tunnels spiraled upward through the mountain from its base, emerging halfway up the slopes. Six roads from these tunnels continued up the mountain to the Tower of Harmony.
+
+Inhabitants
+Priests of Bimasara underwent dangerous tests within the tunnel to prove their worth.
+
+The tunnels were abandoned for a long time since the destruction of Kushk during the War of the Purple Dragon.
+
+Sinister gaki took up residence within the tunnels after Kushk was sacked.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Horde
+
+Horde could refer to:
+
+The Grand Army of the Tuigan, also known as the Horde
+Horde of the Wastes, a goblinoid horde
+The Year of the Black Horde, 1235 DR
+
+Furthermore, it could refer to:
+
+The Horde, a boxed set published in 1990
+Horde Campaign, a sourcebook published in 1990
+Hordes of Dragonspear, an adventure module published in 1992
+Neverwinter Nights: Hordes of the Underdark, a video game released in 2003
+
+---
+
+## Hobarth
+
+Hobarth was a cleric of Bhaal living in the Moonshae Isles.
+
+Personality
+Hobarth was a petty, vicious, mean, and cruel individual. He indulged all sensory pleasures but his favorite hobby was sacrificing people to his god; he liked the screams of his victims. He was terrified of water. Hobarth also hated dogs.
+
+History
+Hobarth had traveled to the Moonshae Isles from Amn.
+
+There, in 1345 DR, after the defeat of Kazgaroth, he allied with the wizard Cyndre to conquer the isles. In their plan, Cyndre was to dispose of Tristan Kendrick while Hobarth was to sacrifice Robyn Kendrick to Bhaal. Hobarth magically sabotaged Tristan's boat, but the young Kendrick saved himself. Afterward, Hobarth led an army of undead to attack Myrloch Vale, where many druids were killed and only Robyn escaped alive.
+
+He remained there while Cyndre led a sahuagin army against the Isles, and so he escaped the defeat of the evil forces. More subtly, Hobarth managed to somehow resurrect the Great Druid Genna Moonsinger as a servant of Bhaal. Hobarth sent Genna to seduce Tristan while Hobarth assisted his god in the creation of Thorax the owlbear, Bhaal's Flock of perytons, and the king of Bhaal's Children, Shantu the displacer beast.
+
+Both plans were partially successful and Hobarth's evil army, reinforced by the surviving sahuagin, battled the army of good in Myrloch Vale. During the fighting, Bhaal himself manifested as the Ravager. However, the heroes managed to banish the Ravager and without him Hobarth lost his powers, and was killed by Grunnarch.
+
+Appendix
+Reference
+
+---
+
+## Hoseki
+
+Hoseki was a disguised sohei follower of the dai-oni in Kozakura in 1357 DR.
+
+History
+Hoseki was a sohei of the Black Temple. In 1357 DR, Hoseki posed as a farmer living in Myudo village, a village under the dai-oni's control, to spy on the inhabitants. He noticed some adventurers who'd arrived at the village and asked to sleep in his house for night. In the night, Hoseki led his men in trying to kill them but was defeated.
+
+Appendix
+Behind the scenes
+Hoseki would attack the players while they slept if they accepted his hospitality or search them during the night to kill them.
+
+References
+
+---
+
+## Hojo Kawakubo
+
+Hojo Kawakubo was the shogun of Kozakura in 1357 DR.
+
+History
+Kawakubo, grandson of Hojo Kikutake, ascended to the position of shogun in 1349 DR after the conclusion of the Hojo War, where the Takenaka clan gained supremacy over the Hojo clan. In truth, he was a puppet of his grandfather, the shikken Takenaka Okawa, and his mother.
+
+Secretly, in 1357 DR, he gathered families loyal to his clan and once-loyal families ruined by Takenaka. He and his allies waited for a mistake by Okawa to act.
+
+Personality
+Recently, Kawakubo finally understood he was in a very dangerous position, and he had a choice only between early retirement or sudden death. Not interested in either choice, the young Hojo started personal plots in secret to gain more power and free himself from Okawa. Despite his age he became cynical, adept to lies and subterfuges. Kawakubo was also overconfident in his fighting skills
+
+Appendix
+References
+
+---
+
+## Hori Chomin
+
+Hori Chomin was a samurai commander of Atarashijo castle in Kozakura in 1357 DR.
+
+Activities
+Chomin was tasked with the mission of building Atarashijo at the southern entrance to the pass between the plain and Nora-ko. He led a company of twenty samurai and one hundred bushi. He directed the villagers and some artisans.
+
+Relationship
+Chomin was the brother of the head of the Hori clan.
+
+Appendix
+References
+
+---
+
+## Hori Gutsu
+
+Hori Gutsu was a samurai retainer of the Niwa clan, who ran a posthouse in Kozakura in 1357 DR.
+
+Activities
+In a very tranquil posthouse inside a Niwa shoen, located at an equal distance between Tamanokuni and Kuda, he led a company of ten samurai and thirty bushi, plus twenty servants, mostly from the Hori clan.
+
+Personality
+Hori was very proud of his position and took any kind of flaw in the performance of the posthouse as a personal offense. If someone lied about a flaw, then Hori would seek revenge against the slanderer.
+
+Appendix
+References
+
+---
+
+## Hojo Haru
+
+Hojo Haru was the mother of shogun Hojo Kawakubo of Kozakura in 1357 DR.
+
+History
+Haru was the daughter of Takenaka Okawa and was married at age of twelve with Hojo Todahiro. After the end of Hojo War and the exile of Todahiro she acted as guardian for young Kawakubo, manipulating him to advance the goals of Takenaka clan. Haru also became lover of Yamashita Yoichi to advance her father's agenda
+
+Personality
+Haru was a consumate schemer with a calculative mind and an eye for power. She like the power that now possess as mother of shogun and Haru can do anything to not lost her position. For this sometime she hired individuals to damage Takenaka Sugawara's allies. Also she not want the return of Todahiro from exile
+
+Appendix
+References
+
+---
+
+## Hojo Kamuri
+
+Hojo Kamuri was a former shogun of Kozakura in 1357 DR.
+
+History
+Kamuri ruled as shogun until retired in favor of his son and become a monk at Namikami Temple under the name of Bentori. However his grandson Hojo Todahiro lost the Hojo war in 1349 DR. In 1355 DR Kamuri become a leader inside the temple because the patriarch Futoro injured and soon he took the role of planner of drill of the local Sohei armies. Soon they pledged loyalty to him. He supported his great-grandson Hojo Kawakubo in his plots to undermine Takenaka Okawa.
+
+Personality
+Kamuri was an able samurai known for his archery skills. However he looked like an ordinary monk to those unfamiliar with him.
+
+Appendix
+References
+
+---
+
+## Hojo Todahiro
+
+Hojo Todahiro was the exiled former shogun of Kozakura in 1357 DR.
+
+History
+Todahiro was the son of shogun Hojo Kikutake. In 1341 DR, when Todahiro was seventeen, his father died following a fall from his horse. Immediately thereafter, controversy arose over who should succeed as shogun. Because Todahiro was not yet of age, a shikken regent was required. If he were to succeed his father as shogun, then the shikken would rule for only a short while; conversely, if Todahiro's two-year-old son were to be appointed, then the shikken would be in power for many years. This division soon proved violent, and the Hojo War began in 1342 DR.
+
+Following his defeat, Todahiro and his supporters were exiled to the island of Kanshu, and the young Hojo Kawakubo became shogun.
+
+Manipulated by his mother Hojo Haru and her father, the shikken Takenaka Okawa, the new shogun was from the beginning merely a puppet to the true rulers of Kozakura.
+
+Todahiro plotted to reclaim his position, but he was kept under the watch of Lord Betsui Kando, and observed by spies of all factions.
+
+In 1347 DR, Hojo Todahiro convened his fleet at the island of Norinoshima, utilizing the island as a gathering point to regroup and reorganize his allied armies following a series of inconclusive land and sea skirmishes. However, before the combined forces could fully assemble for a decisive campaign, they were taken by surprise when Takenaka Sugawara led a fleet of ships and men against them. The ensuing battle on the island marked the end of the Hojo War, resulting in the defeat of Hojo Todahiro's forces.
+
+Appendix
+References
+
+---
+
+## Hoshin
+
+Hoshin was a shukenja adventurer in Kozakura.
+
+History
+Hoshin's early history was shrouded in mystery: some said he was a samurai fleeing his household after a love affair with a clan rival's daughter; he was a pirate and the only survivor after a shipwreck; he was an impostor searching for a good hiding spot for illegal activities as a yakuza or ninja; or he might be an illegitimate son of the shogun. The only clear fact was that as a young man he presented himself at the gate of the Floating Cloud Monastery, a temple following the Way of Enlightenment philosophy. He remembered nothing from before that time.
+
+Hoshin often traveled Kozakura spreading the teachings of the Way of Enlightenment. One of his goals was to go to Shou Lung to visit the birthplace of Way of Enlightenment.
+
+In 1357 DR, Hoshin was among the candidates considered by Ko Mei Kho for a mission in Akari.
+
+In 1358 DR, Hoshin was traveling to Shou Lung to visit the Cliffs of Tanghai when he was possibly approached by Ko Ho San.
+
+Appendix
+Behind the scenes
+Hoshin is a pre-generated PC for use in adventures in Akari. He was presented again and upgraded for another adventure in T'u Lung.
+
+References
+
+---
+
+## Hori clan
+
+The Hori clan was the greatest ally of the Niwa clan in Miyama Province in Kozakura in 1357 DR.
+
+They were a branch of the Niwa and held posts of shugodai and shugo-matadai and many jito positions on the largest shoen in Miyama.
+
+Appendix
+
+References
+
+---
+
+## Hornung's surge selector
+
+Hornung's surge selector was a wild magic spell that gave the caster a limited ability to shape wild surges their spells produced, either as a side effect or by way of Nahal's reckless dweomer.
+
+To Zakharan mages, always reluctant to acknowledge ajami names and accomplishments, the spell was known simply as surge selector.
+
+Components
+Proper casting of this spell required verbal and somatic components and a brass spinner, which was not consumed during casting.
+
+Users
+As a wild magic spell, Hornung's surge selector was usable only by wild mages. Among those it was considered a common spell.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House of Sihr
+
+The House of Sihr, also known as the jann of the High Desert, was one of the largest and most powerful groups of jann in Zakhara in 1367 DR.
+
+Organization
+All jann of the House of Sihr were enlightened. The House of Sihr was formed from many smaller tribes, each led by a sheikh who answered to Amir Bouladin al-Mutajalli.
+
+Base of Operations
+The scorching wasteland known as the Genies' Anvil was the home of the House of Sihr.
+
+Appendix
+Notes
+
+References
+
+---
+
 ## Honor Among Thieves
 
 Dungeons & Dragons: Honor Among Thieves (working title: Dungeons & Dragons) is a live-action action-adventure comedy movie based on the Dungeons & Dragons franchise and set in the Forgotten Realms. Developed by Paramount Pictures, it is written and directed by Jonathan Goldstein and John Francis Daley, based on a story by Chris McKay and Michael Gilio, and stars Hugh Grant, Chris Pine, Michelle Rodriguez, Justice Smith, Sophia Lillis, Regé-Jean Page, Chloe Coleman, Jason Wong, and Daisy Head. Filming in England, Northern Ireland, and Iceland took place in 2021, and it released on March 31, 2023.
@@ -715,6 +6563,1677 @@ References
 
 ---
 
+## Howl of Vengeance
+
+The Howl of Vengeance was a conflict fought in the Utter East during the time of the Bloodforge Wars (648–657 DR), waged between those who'd conquered the kingdom of Doegan and those who sought to liberate it. Notably, it was fought with basal golems mass-produced by bloodforges.The name of this conflict is taken from the name of the campaign in the Blood & Magic game; it was not used in in-universe text.The events of Blood & Magic are only dated to "before the Time of Troubles" (1358 DR) in game. It is assumed these are a part of the Bloodforge Wars described in Faces of Deception and dated in The Grand History of the Realms.
+
+Location
+The battles were fought in the Doegan Capital, in the Serpent Valley, and in and around Old Stone Keep in the mountains to the east.
+
+History
+Causes
+The bloodforges were discovered in the Year of the Dancing Daggers, 648 DR. These ancient devices of war could mass-produce entire armies of golems, eliminating overnight the cost of mustering and maintaining armed forces. Unrestrained, the Five Kingdoms of the Utter East each manufactured great golem armies and marched them against one another, bursting into the Bloodforge Wars.
+
+The kingdom of Doegan was overrun by invaders led by Rathgar the Raider, who laid siege to the capital and plundered the realm of its bounty. Coming for the crown itself, he confronted the king and princess in their own throne room, but the defiant king cursed him with his dying breath, declaring "For so long as you rule, a curse upon you. The dead will arise, to ensure your demise."
+
+Escaping the invaders, the princess looked for a way to make her father's prophecy come true. She went to Old Stone Keep and there met Aelric, a mage of Doegan. He vowed to aid her and, furthermore, fulfill her father's curse to take vengeance on those who'd occupied his homeland.
+
+Meanwhile, months passed and Rathgar paid no heed to the curse, until a captured criminal, a graverobber called Grubkern, whispered of a gathering army of undead coming to rid Doegan of the invaders. As fear spread in the capital, Rathgar determined to investigate.In the Blood & Magic game, two alternate campaigns are provided, one for Aelric and one for Rathgar. These may be mutually exclusive, but it is possible one follows the other or they may be merged as a single back-and-forth conflict. An official history is unknown.
+
+Campaigns
+Rathgar the Raider
+
+Rathgar investigated just in time, finding an undead horde almost at his doorstep. Fighting in and around the capital, they repelled the invaders and burned their crypts. Rathgar pardoned Grubkern, and Grubkern revealed the name of the leader of the undead: Aelric the Avenger.
+
+Rathgar and his army pursued Aelric to the Serpent Valley, where he rallied his undead forces. Rathgar overcame them in bloodforge battle, forcing them to retreat once more.
+
+Aelric's army holed up in Old Stone Keep. Resolute, both rulers prepared for a final battle. Ultimately, Rathgar defeated Aelric, putting an end to the old king's curse. He returned victorious to the capital and the throne, settling his clansmen in Doegan, where they prospered and lived without fear of reprisal.
+
+Aelric the Avenger
+
+When Rathgar's forces pursued the princess to Old Stone Keep, Aelric protected her and struck back against them in a bloodforge battle, favoring undead creatures. Victorious, Aelric scattered Rathgar's own bloodforged forces.
+
+In disarray and dread, Rathgar and his army retreated into the Serpent Valley. Aelric pursued, exploiting the chaos to once again strike at his foe.
+
+Ultimately, Rathgar's army fled to Doegan's capital with Aelric's horde hot on his heels. They crashed through the city gates and walls and fought the invaders in the streets, with steel and fire and magic. Thus did Aelric the Avenger fulfil the old king's curse and liberate Doegan. The princess became queen, with Aelric at her side, and brought peace to Doegan.
+
+Combatants
+
+The armies on both sides of the conflict were almost entirely basal golems, mass-produced using bloodforges and transformed into specific units as required. In general, Aelric preferred Crypt-transformed units, with undead zombies, ghouls, and wraiths, as well as gargoyles; while Rathgar favored Barracks- and Runestone-transformed units, fielding warriors and rangers, wizards, and stone golems.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Holang
+
+Lady Holang was a consort of Baron Mukow Jian and the true ruler of the town of Pim Tung in Tabot around .
+
+History
+Born to a wealthy family of T'u Lung, Holang was kidnapped when she was a child and sold as a slave in Motra before she was of marriageable age. For her beauty, Baron Mukow Jian of Pim Tung bought her as a house slave, but later took her as his third wife.
+
+Ignoring the warnings of the other wives, Holang spied on the Baron until she uncovered his secret activities—building a secret rebel army—and until he caught her. Though he threatened to kill her, Holang saved herself by giving him better and more honest counsel than any of his advisors, thanks to her T'u Lung education and frank speech. Mukow let her live and started consulting her in secret, and thanks to her he found successes. Holang even disguised herself as a man and joined his secret army, the Vian-chi, and trained to fight as a ninja.
+
+At age 34, Holang was Mukow's favored wife and her son was chosen as Mukow's heir. By 2607, Lady Holang had complete control over Pim Tung and commanded her own spies and warriors, and still had greater ambitions.
+
+Activities
+Lady Holang was the effective ruler of Pim Tung—her husband, as baron, had no actual political power under Tabotan law and the local dzong-pon (sheriff or district official) was her puppet, while the warriors of Pim Tung were her men. But Holang was plotting nothing less than the overthrow of the High Lord of Oceans Ning D'Ahn himself and turning Tabot into an empire much like T'u Lung, and to make her husband its emperor, and she its empress.
+
+Thus, she'd had her spies infiltrate Jo'nai Gompa at all levels and she sent more to the capital at U'Chan Gompa. Her agents were common in Motra and Joya and bluntly interrogated anyone who passed through her lands, though Holang would allow free passage upriver to Phutan for those who paid. Moreover, she was in communication with the rebel Baron Phen Do of Khampo.
+
+Description
+Holang was doe-eyed and beautiful, even in middle age, with long black hair. She was taller than most Tabotan women.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Hood of servitude
+
+The hood of servitude was a magical animal hood that originated in Zakhara, the Land of Fate.
+
+Description
+This item looked like a regular falcon hood.
+
+Powers
+When placed upon the head of any flying creature, the hood of servitude charmed the creature so that it would loyally serve the owner of the hood. The hood would instantly grow or shrink to fit the head of the creature. This hood's magic worked on avians as well as other flying creatures such as dragons and even the mighty Zakharan rocs. The hood never failed to charm when used against natural animals, but intelligent creatures did have a chance to resist the hood's magic.
+
+Appendix
+References
+
+---
+
+## Holy water
+
+Holy water was water blessed by a good deity that could damage undead and evil outsiders. Evil clerics could create a similar substance called unholy water.
+
+The priests of Helm called holy water the "Tears of Helm".
+
+Properties
+Holy water was infused with positive energy, which gave it its properties. Unholy water, in contrast, was imbued with negative energy.
+
+Applications
+Holy water acted much like acid against undead creatures and evil beings from other planes. If contained in a flask, it could be thrown as a grenade weapon against corporeal creatures, or it could be splashed or poured on incorporeal ones. Unholy water instead damaged good outsiders.
+
+Holy water was used in the powerful resurrection spell, as part of the ceremony to restore life to the dead.
+
+Some users employed an instrument known as an aspergillum to spray holy water. A larger version of an aspergillum, the heavy aspergillum, was also used as a weapon.
+
+Production
+To create a flask of holy water required the flask of water, five pounds (2.3 kilograms) of powdered silver, and the ability to bless water. The process took one minute per flask. The procedure was equivalent for unholy water, except that the water was cursed instead.
+
+Temples dedicated to good deities usually sold holy water at cost to those who needed a defense against evil.
+
+Variations
+Elven holy water was blessed by the god Rillifane Rallathil and often used when fighting against vampires.
+
+Notable Users
+ Lessa Amyselnar, a priestess of Tymora.
+ Brianna Burdun, a priestess of Hiatea.
+ Nikolls, a druid of Silvanus.
+
+Rumors & Legends
+The plane of Celestia was said to contain an infinitely large sea of holy water from which Mount Celestia emerged.
+
+Appendix
+Appearances
+
+Gallery
+
+External links
+
+References
+
+---
+
+## Hoxitl
+
+Hoxitl was the high priest of Zaltec in Nexal.
+
+Activities
+Hoxitl was the leader of the faith of Zaltec throughout Maztica. Hoxitl was the most powerful advisor of Naltecona but also the secret leader of the Viperhands cult.
+
+History
+In 1361 DR, under the orders of the Ancient Ones, he ordered all his priests to find the young girl Erixitl.
+
+With the arrival of the Golden Legion in Nexal, Hoxitl conspired with the Ancient Ones in order to have Naltecona put to death and the Viperhands cult take control of the empire. Hoxitl continued to hunt for Erixitl, also obtaining the reluctant help of Shatil, brother of Erixitl and a priest of Zaltec.
+
+The vengeance of Lolth against the Ancient Ones, who were actually a group of drow, ruined his plans. He was transformed into a troll duing the Night of Wailing.
+
+Despite his transformation, Hoxitl remained a servant of Zaltec, albeit a reluctant one, and unleashed the Viperhands monsters upon the human survivors. In time, the transformation started to afflict his mind as well and Hoxitl became more and more bestial. He led the Viperhands armies in the Second Battle of Ulatos until, with the banishment of the avatar of Zaltec, all the monsters lost their will for battle and retreated to Nexal.
+
+As of 1362 DR, Hoxitl still ruled the ruins of Nexal.
+
+Appendix
+Appearances
+Novels
+ Ironhelm
+ Viperhand
+ Feathered Dragon
+
+References
+
+---
+
+## Hokioptl
+
+Hokioptl was a tlalocoatl who lived in Maztica.
+
+Activities
+Hokioptl lived in a set of caves below Mount Zatal. Although he had originally been sent by his god, Azul, there to guard the Cloak of One Plume, he also retrieved the monthly sacrifices that the priests of Azul left for him.
+Appendix
+References
+
+---
+
+## Holman Frostfeather
+
+Holman Frostfeather was a law enforcement officer in the town of Voonlar sometime during the term of Bron Buorstag Hlammythyl, i.e., from about 1355 DR until at least 1372 DR.
+
+Personality
+Holman found the humor in most situations, usually lightening the mood with a joke or being dismissive of seriousness. He was the most lenient and kind-hearted of the deputies.
+
+Possessions
+He wore chain mail and carried a shield, but he could don plate mail stored in a few caches around town if needed. He carried a longsword +1, club, and dagger.
+
+History
+Holman escaped from a thieves guild in a faraway city and jumped at the chance to be on the right side of the law when the Bron offered him a job. Sometime after moving to Voonlar, he received training from the Zhentilar.
+
+References
+
+---
+
+## Hochtl
+
+Hochtl was a scribe in Far Payit in the 13th century DR.
+
+History
+Hochtl was a scribe of renown, writing many scrolls. In 1282 DR, he recorded the history of a dying warrior who had entered the cursed city of Ixtzul. He also wrote a scroll about the Star Worm.
+
+References
+
+---
+
+## Horaldin
+
+Horaldin was a druid in the Promenade of the Dark Maiden.
+
+History
+In the, Qilué Veladorn asked his help in investigating a gem found in the possession of a Selvetargtlin aranea and thanks to his power he was able to explain some of the history of the gem.
+
+In the, Qilué ordered to Horaldin to place a glyph of insanity inside the Promenade that would attract the followers of Ghaunadaur; he was worried about it and argued with Qilué.
+
+Later Horaldin explained the matter to the Darksong Knight Cavatina Xarann.
+
+Horaldin was killed by Qilué under compulsion from Wendonai. Having used the Crescent Blade, Horaldin's soul was destroyed and he could not be resurrected. (However, it is not for sure, as souls of QiluéEd Greenwood on Twitter and Cavatina weren't destroyed when they were killed by Crescent Blade.)
+Appearances
+Novels
+ Sacrifice of the Widow
+ Ascendancy of the Last
+
+References
+
+---
+
+## House of Holy Light
+
+The House of Holy Light (also seen as the House of the Holy Light) was a shrine dedicated to Lathander in Voonlar.
+
+Location
+Voonlar was a trading town and farming community located in the southwest corner of the Moonsea region of north Faerûn. The shrine itself was on the outskirts of town, just south of the Three Elves inn on Dump Road, facing east.
+
+Description
+The House of Holy Light was an open pavilion with no walls, just stone pillars holding up a shingled roof. Under the roof were a set of angled stones that served to hold sheets of mica that were positioned to capture the rays of the rising sun and reflect them in all directions. On the floor was a simple stone altar and braziers. Surrounding the shrine were small beds of herbs and spices that anyone could sample as long as they did not take the last specimen of any plant. A sign was posted declaring that anyone breaking this rule would incur the wrath of Lathander.
+
+Activities
+Gentle Father Erngar Narrowlea and several lay followers took turns tending the shrine and working in the herb garden. He sold glass jars of holy water and wax-stoppered potions of extra healing to the many travelers that stopped by the shrine in all seasons except winter. A large jar of holy water was 25 gp and a healing potion was 1,100 gp. Over forty local citizens also visited and worshiped at the shrine.
+
+References
+
+---
+
+## House of Safe Rest
+
+The House of Safe Rest was an inn located in Huzuz, the City of Delights, within the Harbor District on Al-Sarif River.
+
+Activities
+Though the Harbor District often held a negative reputation, the House of Safe Rest was known to be an affordable place run by a trustworthy individual.
+
+Inhabitants
+The House of Safe Rest was owned and run by Benji Sadira.
+
+Appendix
+References
+
+---
+
+## House of the Helm
+
+The House of the Helm was a shrine dedicated to Tempus in Voonlar.
+
+Location
+Voonlar was a trading town and farming community located in the southwest corner of the Moonsea region of north Faerûn. The shrine itself was on the outskirts of town, on the North Ride, seen on the left by travelers coming into town from the south. Behind the shrine was open pasture and a cart track that led over the mild hills to a rocky place on the verge of the Greentree (the local name for the branch of the Cormanthor forest nearby) where charcoal burners kept huts.
+
+Description
+The shrine was a pavilion open on all sides. The floor was a raised stone slab with an altar in the center, also made of stone and covered in bloodstains. The roof was another large stone slab held up by four thick pillars, each of which leaned outward slightly from the center, making the shrine look like a truncated pyramid turned upside down. Smaller pillars (also leaning outward) like giant stalks of straw about five feet (1.5 m) tall jutted out of the floor in the spaces between the large pillars and were used to display helms, weapons, or other spoils of war as offerings.
+
+Activities
+There were no priests of Tempus that made their home in Voonlar, but the House of the Helm was attended by a steady stream of traveling clergy that kept an eye on the shrine in case any followers of Cyric attempted to deface or desecrate the holy place.
+
+The most adamant caretaker was Hammer of the God Beldryn Klynrin, working from a base in northern Sembia. He and a handful of veterans and one or more junior priests made a point of checking on the shrine and filing complaints (along with dire warnings of Tempus's disfavor) if they noticed any sign that offerings had been removed. Many guerrillas that harassed Voonlar from time to time would leave battle trophies, like bloody gauntlets, at the shrine as they retreated back into the forest. This enraged Buorstag Hlammythyl, the local Bron (sheriff), but he knew that Beldryn would blame him for any thefts and Buorstag was loathe to risk the wrath of the Foehammer.
+
+References
+
+---
+
+## Horizikaul's cough
+
+Horizikaul's cough was a simple cantrip from the evocation school that created a short, loud noise.
+
+Effects
+By completing this spell, the caster could cause a quick, loud sound to originate nearby a target person or object within close range. This sound could cause minor injury or even brief deafness.
+
+Components
+To cast this spell required verbal and somatic components.
+
+History
+This was one of several sonic spells attributed to the mage Horizikaul.
+Appendix
+See Also
+Horizikaul's boom
+Horizikaul's versatile vibration
+Appearance
+
+References
+
+---
+
+## Horix Zoar
+
+Horix Zoar was a windbag member of the Council of Elders of Everlund sometime after the War of the Silver Marches.
+
+Activities
+Horix was a member of the Zoar family and the commander of the Everlund army.
+
+Appendix
+Appearances
+ Storm King's Thunder
+
+References
+
+---
+
+## Horn of Shasphur
+
+The Horn of Shasphur, also known as the Shield of Shasphur, was a tavern located in the Market Floor of Djerad Thymar. It was owned by Clan Kepeshkmolik, and it was one of the few taverns in Djerad Thymar where non-dragonborn were allowed to enter.
+
+The tavern was named after Shasphur, the founder of Clan Kepeshkmolik.
+
+Appendix
+Appearances
+Ashes of the Tyrant
+
+References
+
+---
+
+## House of R'maga
+
+The House of R'maga was a renowned porter business found in Huzuz, the City of Delights, in 1367 DR.
+
+Organization
+Founded by seven ogre brothers in 1357 DR, the House of R'maga quickly established a well-earned reputation within the Grand Bazaar.
+
+Activities
+Though they employed others, the ogre brothers took great pride in offering their personal services to dignitaries during the Zakharan Holy Days and Ascension Day.
+
+The names of the individual R'maga brothers are listed below, with a brief description of their speciality with regards to their business:
+
+ Jika: the strongest of the brothers
+ Bezoar: tours
+ Aferin: the swiftest
+ Nigudar: the most eloquent speaker
+ Karoon: the most patience and endurance
+ Rahim: the most charismatic
+ Arkar: deserted the family to go adventuring
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Galbi
+
+The House of Galbi was a notorious establishment found in the city of Manass in Khazari.
+
+Activities
+Many illicit activities such as gambling and excessive drinking occurred within the House of Galbi. Rumors surfaced that more heinous tastes could be catered to here as well, but the governor of Manass was not able gather enough proof to close the building down.
+
+Inhabitants
+Galbi, a native of Semphar, owned the establishment. He was rumored to run a den of skilled thieves from his House as well.
+
+Appendix
+References
+
+---
+
+## Hodkamset
+
+Hodkamset was the most powerful wizard in the service of Set in Mulhorand in 1357 DR.
+
+History
+Once Hodkamset was Sesostris, a wizard in service of Osiris but he had many enemies, especially among the clerics of Horus-Re, who managed to ruin Sesostris's reputation. So Sesostris faked his death, changed his face and name, and devoted himself to Set. He became the right hand of Seti, the current incarnation of Set.
+
+Hodkamset created a replica of the Alabaster Staff known as the Staff of the necromancer in order to secure his reputation.
+
+Activities
+Hodkamset was a member of the Fangs of Set. He had many spies across Mulhorand, many contacts inside Sampranasz, and an alliance with Zhentil Keep. His plans were to replace the young Pharaoh Horustep III with a rakshasa follower of Set in order to create chaos inside the clergy of Horus-Re, hoping to use this to gave the throne to Seti.
+
+Hodkamset also sent a team to search for powerful lost artifacts around the Realms in order to use them in a future war to conquer the nation. He always traveled in disguise.
+
+Personality
+Hodkamset was very ambitious and a bit of a megalomaniac: he believed he truly was the one who could bring the rule of Set to Mulhorand. He was also very devious.
+
+Appendix
+References
+
+---
+
+## House Karanok
+
+House Karanok was the insane ruling family of the city of Luthcheq in Chessenta. They claimed to be pure-blood Mulan and descendants of the god-king Nanna-Sin.
+
+Organization
+They believed that wizards (including also sorcerers, dwarves, and elves) were evil and must be burned. They worshiped Entropy, a strange sphere of annihilation. In 1370 DR, Tiamat posed as Entropy and granted them clerical spells. After the Spellplague, Entropy was stated to be a primordial.
+
+Members
+In 1357 DR:
+ Jaerios Karanok
+ Maelos Karanok
+ Naeros Karanok
+ Saestra Karanok
+In 1372 DR:
+ Kaestra Karanok
+ Povros Karanok
+After the Spellplague:
+ Ishual Karanok
+ Shala Karanok
+
+History
+The Karanoks became the rulers of Luthcheq under suspicious circumstances in the . Initially, they ruled in a typical Chessentan style.
+
+In the, however, Luthcheq was defeated in a war against Mordulkin and the Karanoks blamed wizard spies for their loss. With this, they started their crusade against arcane magic.
+
+Then, in the, from nowhere, Entropy manifested itself inside House Karanok's mansion, killing a wizard they were torturing. The Karanoks saw this as an omen and began worshiping it.
+
+Tiamat started granting clerical powers to the Karanoks in the, in order to manipulate them.
+
+Then everything changed after Tchazzar disappeared in the chaos of the Spellplague in the . Ishual Karanok emerged as a war hero and leader who united the divided survivors of Luthcheq. He went on to battle rampaging monsters, aberrations sent by the Abolethic Sovereignty, and opportunistic invaders and colonists from northern lands, and so kept Chessenta alive. In the, Ishual Karanok merged the different coinages of the city-states of Chessenta into a single currency. After a time, when the fighting had lessened, he returned to Luthcheq and the Karanok family home. There, Ishual disbanded his family's cult, arguing that their goal of destroying all arcane magic and its users had been achieved with Mystra's death. Nevertheless, he kept their god Entropy as a symbol of power. Even a century after his death, Ishual was revered as a god-like hero by all Chessentans. Children grew up on stories of his exploits and aspired to be like him.
+
+In 1479 DR, the ruler Shala Karanok was ousted from power for a brief time by the returned Tchazzar. However, after the Battle of Luthcheq, she regained control over the city.
+
+Appendix
+
+Appearances
+ Maiden of Pain
+
+References
+
+---
+
+## Hobart Bracegirdle
+
+Hobart Bracegirdle was the leader of the Kneebreakers in Damara in 1359 DR.
+
+Activities
+Hobart wandered with his companions in search of wrongs needing righting.
+
+Personality
+Hobart was very able to inspire his fellows and was a good leader. He wanted to become a famous hero like Kane or Olwen Forest-Friend.
+
+References
+
+---
+
+## Horse (individual)
+
+Horse was a brutal hunter that lived in Narfell as of 1359 DR. He was a very cruel man that earned his name from the particular odor that clung to his body.
+
+Activities
+Normally, Horse disguised himself as a yeti and surprising and attacking travelers at night. During the daytime, he used hit-and-run tactics: his favorite one was to throw a poisoned spear at a foe, anchoring it to a stone or tree stump in order to dismount his foe. He developed this particularly sticky poison made from passawaw grass that he foraged.
+
+History
+Horse was cast out of the Qu'ima tribe because of the savage behavior he exhibited. His life was only spared because his fellow tribespeople feared he was under the possession of some malevolent spirit.
+
+Appendix
+References
+
+---
+
+## Howling Mountains
+
+The Howling Mountains were a vast range of mountains located in northern Laerakond. The nations of Fimbrul and Relmaur were located within its mountains. Most of the forbidden primordial cults of Laerakond operated out in the Howling Mountains.
+
+Geographical features
+The Howling Mountain range was a wasteland region composed of snow capped mountains, deep chasms and hidden valleys ravaged by terrible blizzards and storms that prevent even dragons to fly in winter, or giant fog clouds capable to block all vision and distort sounds in summer. The mountains were so vast and maze-like that even primordials could hide in its ranges without fear of being spotted. The hidden high valleys within the mountains were full of oni and their orcs servants, as well as game such as boar and elk.
+
+Below the Howling Mountains mighty peaks were located giant cavern networks full of meltwater rivers and lakes where most living things in Fimbrul and Relmaur dwelt. Its caverns hold the richest known veins of raw metal ores and gemstones in all of Abeir, and later, in all of Toril as well.
+
+History
+After the War of Fang and Talon, most of the surviving primordials of Abeir went to the Howling Mountains to hide from the wrath of their dragon steeds, and eventually entered into a coma-like sleep.
+
+Appendix
+Reference
+
+---
+
+## Hollowbold
+
+Hollowbold was a ruined dwarven realm located under much of the dragon empire of Skelkor.
+
+Background
+Hollowbold was composed of several underground dwarf settlements linked by a series of cave networks.
+
+History
+As of 1479 DR, Hollowbold had been abandoned for untold centuries. Not even dragons cared about this realm. The few who knew about it rumored about great treasures still unclaimed in the ruined dwarven holds.
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Hope Kellar
+
+Hope Kellar  was a mayor of the village of Hillpicket in the Moonsea in the late 15 century DR.
+
+History
+Hope was once a sailor until she retired and opened the Hillpicket Inn. By the mid-1480s DR, she had become the village's mayor.
+
+Circa 1486 DR, Hope believed that the visiting Doctor Jubal's Carnival of Curiosities would bring an increase in her business, and had not heard any stories of spreading madness at the time, but would figure it to be no more than idle gossip.
+
+Relationships
+Hope was married twice and was searching for a possible third spouse.
+
+Appendix
+Appearances
+ No Foolish Matter
+
+References
+
+---
+
+## Horn
+
+Horns were a type of wind musical instrument.
+
+Description
+Several variants of horns existed, such as chordal horns, fanfare horns, hunting horns, and glaurs. Horns were typically made of brass, bronze, horn or shell.
+
+The common horn, also known as a valveless trumpet, was traditional to kings' courts.
+
+Availability
+Trumpets and other horns were available for purchase through Aurora's Whole Realms Catalogue.
+
+Notable Users of Horns
+Religions
+ It was common for clerics of Eilistraee to be proficient with horns, as well as flutes and harps.
+
+Appendix
+Appearances
+Novels
+The Glass Prison • Sentinelspire • The Magehound
+
+The Ring of Winter
+Video Games
+Forgotten Realms: Unlimited Adventures
+
+External Links
+
+References
+
+---
+
+## Hooked Knucklehead
+
+The Hooked Knucklehead was a longstanding inn in Bryn Shander.
+
+Location
+The inn was located near the marketplace in the center of town.
+
+Interior
+Atmosphere
+The Hooked Knucklehead was mostly frequented by traders from neighboring cities who came to Bryn Shander for business. The owner, Barton, did not interfere with his clients' affairs.
+
+Services
+The few private rooms available did not have any hearths, and were freezing cold at night, also due to the building's lack of structure to withstand the cold winds. Most customers slept in the large common room close to its stone fireplace.
+
+Appendix
+References
+
+---
+
+## Hold portal
+
+Hold portal was a low-level arcane spell that magically locked a door. It was formerly known as Undine's hold portal.
+
+Effects
+As the name said, hold portal magical held closed any door, gate, shutter, or window, whether it was fashioned of metal, stone, or wood. It could target only one such opening, but it could be up to 20 square feet (1.85 square meters) in area and up to 100 feet (30 meters) away at minimum casting, while more experienced casters could extend this. For all intents and purposes, the door was securely closed and locked as it would be under normal circumstances. It could still be forced open, but was rather harder to do so.
+
+The spell could also be used on existing portals that went through crystal spheres, as long as they were sufficiently small to fit within its area of effect.
+
+The effect lasted for a number of minutes, or until the caster wished to dismiss it. However, a knock spell or dispel magic would end it.
+
+Components
+The required only a verbal component.
+
+History
+The spell was attributed to the Netherese arcanist Undine in 2938 NY (−921 DR).
+
+References
+
+---
+
+## Hovark Krinshale
+
+Hovark Krinshale was a half-orc monk member of the Shadow Thieves in Skullport in 1379 DR.
+
+History
+In 1379 DR, Hovark was tasked with the mission to find and kill the slaver Lanador, a rival of the Xanathar, who had also betrayed the Shadow Thieves in 1369 DR. Posing as a Skullport fisherman, Hovark tried to infiltrate the Unyielding Sword mercenaries working for Lanador but was captured.
+
+Personality
+Hovark would do anything for success in his mission, even working momentarily for his target.
+
+Appendix
+Appearances
+Adventures
+Dungeon #206, "Eyes on the Ball"
+References
+
+---
+
+## House of Song (disambiguation)
+
+House of Song might refer to:
+ The House of Song, guildhall of the musicians' guild of Waterdeep;
+ The House of Song (Myth Drannor), a temple to Oghma in Myth Drannor; or
+ The House of Song (Selgaunt), a temple to Milil in Selgaunt.
+
+---
+
+## Hobble's Hooks
+
+Hobble's Hooks was a small store in Moonever, Cormyr.
+
+Activities
+The store produced a wide array of fishing hooks in support of the local fishermen whom much of the economy of Moonever was based.
+
+Appendix
+References
+
+---
+
+## House Mecatoris
+
+House Mecatoris was a merchant house that operated out of Sambral, one of the Windrise Ports of Laerakond.
+
+Activities
+House Mecatoris owned multiple merchant ships, and were one of the most important merchant houses in Sambral as of 1479 DR.
+
+Known members
+Althea Mecatoris, the head of the house in 1479 DR.
+Davien Mecatoris, the scion of the house in 1479 DR, and leader of the Flashing Blade at Dusk Troupe.
+
+Appendix
+References
+
+---
+
+## Holy House
+
+The Holy House was an all-faiths shrine in the town of Voonlar in the Moonsea region.
+
+Location
+The Holy House situated in the northwest corner of the Common Gardens, a park near the center of Voonlar.
+
+Description
+Holy House was an open pavilion with no walls, just a shingled roof held up by stone pillars. There was a plain stone block for an altar, flanked by braziers. Nearby was a privy and a small but deep well that provided cool, drinkable water.
+
+Overnight camping at the shrine was strictly forbidden by the local authorities.
+
+Appendix
+References
+
+---
+
+## Holy aura
+
+Holy aura was an abjuration spell that granted protection against evil.
+
+Appendix
+
+See Also
+ Unholy aura
+References
+
+---
+
+## Hooded lantern
+
+A hooded lantern was the basic type of lantern; an illumination device that protected the source of light behind glass within a frame of metal.
+
+Description
+Typical hooded lanterns consisted of a metallic frame enclosing glass panels, within which a wick connected to a reservoir of oil burned and shed light out to a range of, as long as the supply of fuel lasted, typically 6 hours for  of oil.
+
+Some hooded lanterns allowed the hood to be lowered, significantly decreasing the amount of light shed by the lantern without the need to extinguish the flame.
+
+Availability
+ In Athkatla, one could find hooded lanterns for sale in the market Waukeen's Promenade.For Duty & Deity states that every nonmagical item featured in the Arms and Equipment Guide can be purchased at Waukeen's Promenade.
+ Reinforced hooded lanterns were available for purchase through Aurora's Whole Realms Catalogue.
+
+Appendix
+Notes
+
+Gallery
+
+References
+
+---
+
+## House of the Tablets
+
+The House of Tablets was a temple dedicated to the worship of Deneir found in Yhaunn in 1358 DR.
+
+Inhabitants
+The House of Tablets was a smaller temple that only supported 5 priests and a handful of followers. In 1358 DR, Phylipas Crauntias served as High Scrivener of the temple.
+
+Appendix
+References
+
+---
+
+## Hoond
+
+Hoond, known as the "Despoiler of Tombs", was a notorious thief of Shussel in Unther, in the mid–14 century DR.
+
+When Chansreena (princess) Alabhansree Alanasker of Ormpur and her dowry went missing in the Year of the Prince, 1357 DR, Hoond of Shussel was one of three thieves named as suspects by High Suikh (king) Helbareim Alanasker, but was innocent. Hoond could well have gone looking for the real thief, perhaps deciding to have the loot as well as the blame.
+
+Appendix
+References
+
+---
+
+## House of the Lady
+
+The House of the Lady was a temple to Selûne standing at the top of Spring Hill in Immersea, Cormyr.
+
+History
+The priestess Lleddew adventured with Cole Wyvernspur to gain treasure to complete the building of the temple.
+
+Description
+The House of the Lady was a simple yet elaborate temple. The temple was more like a shrine. A circle of pillars supported a domed roof, inset with diamonds. There were no walls and a spring-fed pool occupied the center of the structure.
+
+The Immer Stream issued from the hill and flowed down in cascades, known as Selûne's Stair. It was said that if one climbed to the top of the cataracts in the full moonlight, they would gain their heart's desire.
+
+Defenses
+The temple was guarded by a Shard.
+
+Appendix
+
+References
+
+---
+
+## Horthander
+
+The Horthander family had a seat in the Onsruur (council of lords) of Khôltar in south Faerûn, circa the Year of Wild Magic, 1372 DR. It was one of twenty such human families that held the reins controlling the Iron City.
+
+Organization
+This clan was typically tall and pleasingly handsome or beautiful. They developed a passion for race horses and spent much of their time breeding and racing them. By 1372 DR, most of the expansive enclosed gardens of the family estate had been converted to stables for their prized animals.
+
+Activities
+The Horthanders had many business interests in Khôltar. Their flagship enterprise was the Horthander casting foundry, but they also owned dozens of smaller businesses, mostly repair shops and companies that installed plumbing or did masonry, plastering, or painting. They were heavily invested in land throughout Shaareach and Lapaliiya.
+
+Base of Operations
+The family demesne was a boldly styled klathlaaedin (sculpted stone mansion) named Anthormbrur located at the southeastern end of Hael Way very near Farrgaunlar (the southern gate through the walls of Khôltar).
+
+Relationships
+This family had a strong dislike for their next-door neighbors, the Khaundroves, as the result of a longstanding rivalry that existed for decades, perhaps centuries.
+
+Appendix
+References
+
+---
+
+## Holding door
+
+A holding door was a type of dweomered door that would immobilize any living creature that was vulnerable to mind-affecting magic. Those persons or creatures that were particularly strong-willed had a chance of breaking free before the end of the duration of the door's effects.
+
+Usage
+These doors were often placed as a false exit for those who would be fleeing from danger.
+
+Creation
+Holding doors were created with use of the hold monster spell.
+
+Appendix
+References
+
+---
+
+## House of a Thousand Faces
+
+The House of a Thousand Faces was a tavern located in the Blacklake District of Neverwinter. It was the headquarters of the Harpers of Neverwinter in the late years of the 15 century DR.
+
+Description
+The building was named after the many mirrors and mannequins positioned around its common room. There were three entrances to the House, two on the north side and one on the south, and many mirrors and mannequins were positioned around them, inviting patrons to enter. All mannequins were dressed in the fashion popular in Neverwinter in the late years of the 14 century.
+
+Besides
+Besides being a tavern, the House of a Thousand Faces was also an inn. A night in the House cost 1 gp per guest.
+
+History
+The House of a Thousand Faces was originally a clothing boutique. After the Ruining of 1451 DR, the owner, an eladrin named Theryis, closed her business and left the city.
+
+Theryis returned a few years later, alongside her half-brother Toram, both of them now Harper agents. She re-purposed her old business as a tavern, to serve as an undercover base for the Harpers operating in the city.
+
+In 1479 DR, during the unrest in Neverwinter because of the actions of the "Lost Heir" of Alagondar, a group of adventurers had to pacify a group of extremist followers of the "Lost Heir", who were purging all of Dagult Neverember's loyalist in the Blacklake District, when those extremists attacked them while they were in the tavern.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House Jordain
+
+House Jordain was an academy for the Jordain viziers located on the southern coast of Halruaa, looking over the Great Sea. This is where the viziers were educated, both in the world at large as well as in the political machinations of their home kingdom.
+
+Although the academy formally answered to the Netyarch, in reality they were an independent institution that only answered to the magehounds.
+
+Entomology
+The word "jordain" originated from the Old Netherese language, the progenitor language to the Halruaan language. It meant "fool," however the meaning of the word was different in the days of the ancient empire. A fool was a counselor and entertainer of kings, an individual who advised their lord through witting satire of song and dance.
+
+Appendix
+
+References
+
+---
+
+## Holly Huldane
+
+Holly Huldane was a tall, impressive-looking ranger who lived in the forests of Shadowdale in 1369 DR. Her animal companion was a falcon, who she would summon when she determined people to not be a threat.
+
+Equipment
+Holly wore chainmail armor and wielded a shortbow, a shield and +1 longsword. She often kept potions of healing, gold and gems on her person.
+
+Appendix
+References
+
+---
+
+## Horarn Baergil
+
+Horarn Baergil was Captain of the Riders of Mistledale, in Mistledale, the Dalelands, in 1242 DR. He was described as a large man who was a reckless hothead. He only served as Captain for a few months of 1242 DR before his death during a battle against brigands in the forests of eastern Mistledale. Horarn was a member of the Baergil family.
+
+Appendix
+See also
+ Baergil
+ Mistledale
+ Riders of Mistledale
+
+References
+
+---
+
+## House Invincible
+
+The House Invincible was a major temple to Helm in Silverymoon.
+
+Location
+The House Invincible was located in Northbank in Silverymoon, near Hunter's Gate and overlooking the Market.
+
+Structure
+The temple looked like a fortified stone keep; it had no high spires or artistic designs in its construction. The design of the temple was not just a facade; at times, it had served as an actual fortress and garrison for troops.
+
+History
+After the Time of Troubles, the Church of Helm across Faerûn saw a reduction in numbers—not so in Silverymoon, where temple attendance remained high. This was because most of the Knights in Silver, the High Guard, and a good number of the Spellguard were worshipers of Helm who believed in the watchful protection of their beloved city. In fact, the temple saw an increase in worshipers between the years 1360 and 1370 DR.
+
+As early as 1358 DR, the temple was led by Vigilant Master Erssler Thamm.
+
+After the formation of the Silver Marches in the Year of the Gauntlet, 1369 DR, Master Erssler, without having to be asked, offered the temple to be used temporarily for offices, quarters, a chapel, and an assembly hall for Methrammar Aerasumé and his growing Argent Legion.
+
+After Erssler sacrificed his life defending travelers from fiendish wolves, he was replaced by Vigilant Master Baerim Coraddor, whom Helm selected personally by a visible manifestation on the battlefield.
+
+References
+
+---
+
+## Horl's Horn
+
+Horl's Horn was an inn in the city of Iliphanar in Semphar.
+
+Location
+The inn was located directly inside Iliphanar's southeastern Olephzgar gate.
+
+Services
+Horl's Horn was known as the city's friendliest inn for foreigners and adventurers.
+
+Appendix
+References
+
+---
+
+## House of Morning
+
+The House of Morning was a temple of Lathander, the only shrine of significance in Feather Falls, located within Featherdale in the late 14 century DR. It was run by Morninglord Jallian Horgontivar, who himself was supported by a clergy of 16 clerics and acolytes devoted to the deity of "dawn" and "light".
+
+Activity
+The temple rented out spartan rooms at the cost of 1 gp per head per night. They also issued loans to local businesses.
+
+Appendix
+References
+
+---
+
+## Horsewater Pool
+
+The Horsewater Pool in Ashabenford was the horse pond, fed by a nearby spring, upon which city locals, nearby Dalesfolk and travelers alike would hitch up their mounts and allow them to rest and drink some water. The pond was shallow enough for horses to wade in without getting their riders wet, and wide enough to accommodate a number of mounts.
+
+It was a popular locale to meet new folk, catch up on news in the Dalelands and hear the latest gossip. During the summer months this spot would feature vendors selling fruit, pickled goods and ice-cold beer.
+
+Appendix
+References
+
+---
+
+## House Sauringar
+
+House Sauringar was one of the greater tribes (ha'srammass) of the yuan-ti.
+
+Base of Operations
+House Sauringar maintained a large holding in the Chultengar and a small one in the Samarlogh. They also had members living in northern Chult, northern Calimshan, and Narubel.
+
+Activities
+Secretly, the Sauringans were the true rulers of the city-state of Narubel. They also had a strong influence over the actions of the Rundeen. For centuries they supported the Rundeen with targeted acts of piracy.
+
+Customs
+Members of House Sauringar employed the "to the egg return" ritual, sharing the practice with the Extaminos and Se'Sehen tribes.
+
+Magical serpent rings were favored by members of House Sauringar.
+
+Relationships
+House Sauringar was closely allied with House Se'Sehen, which was a far more powerful tribe. The Sauringans benefited the latter house by secretly influencing the Rundeen, guiding the merchant consortium against selecting Tashalan leaders with ophiophobia. These actions eventually led to House Se'Sehen allying itself with the Rundeen.
+
+Also allied with the Sauringar tribe were the spirit nagas of the Chultengar. It was the nagas who orchestrated the coming into power of the Sauringars in Narubel, by arranging for their pterafolk servants to attack all incoming caravan traffic into the city. This protection through isolation was continued for centuries.
+
+History
+For hundreds of years, the Sanrach Basin was the home of the Sauringans. In, Thinguth people from the Guthland, who had not been a part of the war between the Tabaxi and Thinguth tribes of Chult, were enslaved by the Sauringans and the Sseradess tribe in Thindol. Both tribes also utilized armies of lizardfolk. In 293 DR, the army of the Shoon Imperium defeated the lizardfolk, ending the open rule of the yuan-ti. The Sseradess tribe remained in secret control in the Thingulph, while House Sauringar was left the Samarlogh.
+
+The Sauringar tribe was finally driven from their ancient lands in 605 DR by humans led by a lord of Nimbral.
+
+Members
+Most Sauringans with snake bodies possessed the ability to puff out their skin, increasing the size of their bodies to appear more threatening, similar to puff adders. Sauringans living in Chult and Calimshan were served by human cultists who worshiped Varae.
+
+Notable Members
+ Di'Nastassa, the pureblood chosen one of a jahi, led a cabal of Sauringans in the depths of the jungles of Samarach. This Harim of the Jahi sought to reclaim the Chultan Peninsula for the yuan-ti.
+ Sa'Sani, a princess of House Sauringar and priestess of Sseth, held a public position as the head of a merchant company in Samarach's capital Samargol. She was expelled from the city in 1374 DR over the exposure of one of her employees as a yuan-ti. Aided by an adventurer party in her employ, she moved her base of operations to Crossroad Keep in the Sword Coast North and prosecuted a counterinsurgency against Zehir's Snaketongue cult, which had come to control House Se'Sehen.
+
+Appendix
+References
+
+Connections
+
+---
+
+## House of the Moon (disambiguation)
+
+House of the Moon may refer to:
+ The House of the Moon, a temple to Selûne in Waterdeep;
+ The House of the Moon (Thentia), a temple to Selûne in Thentia; or
+ Elah'zad (temple), the temple to Selûne and Eldath whose name meant "House of the Moon".
+
+---
+
+## Hollyphant
+
+Hollyphants were golden-furred, elephant-like creatures from the Upper Planes, who acted as servants of the powers of good.
+
+Description
+A hollyphant looked like a tiny little flying elephant, about  in length, with golden fur and wings. Some who had encountered hollyphants claimed that their wings were golden like their fur; others insisted that the wings were shining white. Its small tusks appeared to be made of ivory. There seemed to be variety in their eye color. Some hollyphants had amber to glowing brown eyes. For others, their eyes displayed a rainbow of colors.
+
+They also had an alternative form that they could take, that of a large, bipedal mastodon with shaggy, black fur, huge leathery wings, and massive curved tusks. In this form, they weighed about 1,200 pounds (540 kilograms).
+
+In their small form, the golden fur of these elephantine creatures seemed to glow. Because of the aura surrounding one, any good creature observing a hollyphant felt a fondness toward it, while any evil creature felt immediate loathing and fear.
+
+Some scholars made speculations that a hollyphant's appearance was a projection of some kind and that they were actually spirits with a different true appearance, since surely no creature would look so goofy in reality. Hollyphants took great offense at such an idea, and anyone who had ever looked upon them with true seeing saw only both of their elephantine forms simultaneously.
+
+Abilities
+Hollyphants were both magical and psionic creatures. When in their usual small size, their shimmering fur gave them invulnerability to spells of weaker power, while their tusks provided them with immunity to poison and diseases. They had several additional inherent magical abilities, including the ability to detect evil, banish outsiders, bless allies, create light, gate in allies from the Upper Planes, protect from evil, teleport, and call down a column of fire on their foes. A hollyphant also had several impressive healing abilities, including the power to raise the dead.
+
+Beyond all these magical abilities, a hollyphant had a limited number of psionic powers as well, including forms of clairsentience and telepathy and the power to see invisibility and make mind-controlling suggestions.
+
+Perhaps most uniquely, the hollyphant could use its trunk in a variety of ways, depending on what the hollyphant wanted. It could cause a trumpeting blast of intense, damaging, deafening sound, which could also stun its opponents, or it could shoot out a burst of positive energy particles, called "sun-sparkles". Sun-sparkles inflicted great damage on the undead or creatures from the Lower Planes.
+
+Hollyphants could communicate with any creature via telepathy.
+
+Personality
+Hollyphants loved helping good creatures, did not care much for those of a neutral bent, and would actively seek to destroy evil beings, even going out of their way to do so or summoning in more powerful creatures of good to help. They would do all they could to avoid having to battle with a good or even neutral creature. They enjoyed observing noble mortals and serving their masters.
+
+Hollyphants were very sensitive about their appearance, which many found to be silly. Likewise, visitors to the planes were advised not to speculate on their origins, as they took offense at this. Otherwise, the typical hollyphant did not take itself too seriously, and as a rule, they strongly enjoyed harmless pranks and joking.
+
+Combat
+
+In its small form, a hollyphant could gore with its upward-curving tusks, but since it was so little, this was not often effective, and it usually avoided melee combat. More likely it would use its powerful, magical trunk.
+
+If a hollyphant summoned aid, another hollyphant was most likely to respond, but sometimes a deva would heed the call instead. Which type of deva responded depended on where the hollyphant was at the time. If on one of the Upper Planes, an astral deva would come; on one of the Inner Planes, a monadic deva would answer; and on the Material, a movanic deva would heed the call. Asuras and avorals had also been known come when summoned by a hollyphant.
+
+Society
+Hollyphants were native to all of the good planes but had especially high populations in the Beastlands, Bytopia, and Mount Celestia.
+
+On one of their home planes, they could be found in groups of one to three or four.
+
+Among themselves, hollyphants had their own language.
+
+Hollyphants served as messengers and helpers for the good deities or their agents. Deities known to have hollyphants as servants include Ilmater, Mystryl, and Milil, and the demihuman deities Eilistraee, Haela Brightaxe, Moradin, Sharindlar, Thard Harr, Aerdrie Faenya, Corellon Larethian, Hanali Celanil, Labelas Enoreth, Sehanine Moonbow, Solonor Thelandira, Cyrrollalee, Urogalan, and Yondalla.
+
+They often traveled through Ethereal and Astral Planes on their way to the Material. If sent to the Material Plane, where they sometimes served as advisors to good people, they would usually appear alone and almost always would be flying. When providing aid, they tried to help their charges to defeat evil in their own ways rather than solving the problems for them.
+
+Spellcasters could also use powerful summoning magic to conjure a hollyphant to help them for a limited time.
+
+Ecology
+Hollyphants did not need to rely on natural means to survive. They required neither food nor drink, nor did they need to sleep. They could eat and drink, and they often did so, just so those around them would not feel uncomfortable. When they did eat, they preferred nuts, berries, and young shoots.
+
+A hollyphant's tusks, when removed, could be ground into a magical powder that, when mixed with a beverage, acted as an elixir of health. Obviously, harvesting a hollyphant's tusks would be an act of evil!
+
+Notable Hollyphants
+ Lulu, the companion and war mount of Zariel before her fall and transformation into an archdevil.
+ Valeria, a depressed hollyphant who works as a detective on behalf of the Flaming Fists in the city of Baldur's Gate.
+
+Appendix
+See Also
+ Baku
+ Maelephant
+ Shirokinukatsukami
+
+Appearances
+
+Further Reading
+
+References
+
+Connections
+
+---
+
+## House Aelorothi
+
+House Aelorothi was a gold elf noble house with holdings on Evermeet by the 14 century DR. They were once a minor house of the realm of Siluvanede (c.  to 882 DR).
+
+Livery
+The colors of the house were red and blue, while its crest depicted a red swan on a blue field.
+
+Home
+By 1367 DR, the family home was located in the northern part of the city of Leuthilspar on Evermeet. It was a tower, tall and slender, pale blue in color with green veins.
+
+Activities
+Traditionally, the Aelorothi elves served as priests and warrior-clerics to the elven gods of the Seldarine, especially Corellon Larethian. Their numbers were much diminished by 1367 DR, but they still cared for Evermeet's temples and blessed elf fighters and sailors.
+
+Despite this holy calling, the Aelorothi of ancient Siluvanede were among those minor houses corrupted by House Dlardrageth from around . They joined in their elf–demon crossbreeding and spawned a bloodline of fey'ri, and were complicit in the realm's warmongering, before being held captive for millennia. After their liberation in 1369 DR, the Aelorothi fey'ri became a subclan of House Dlardrageth and joined the daemonfey army of Sarya Dlardrageth.
+
+Coincidentally, many of Aelorothi—gold elf or fey'ri—were noted spies.
+
+Possessions
+The family on Evermeet owned a number of precious magical items suited for clerics, such as two rods of resurrection and the storied staff of Rumathil.
+
+Notable Members
+Gold elf members included:
+ Mi'tilarro Aelorothi, a High Priest of Corellon Larethian, present during the rise of Zaor Moonflower to be king of Evermeet.
+ Rennyn Aelorothi, a spy for Queen Amlaruil in the late 1360s DR.
+
+Fey'ri members included:
+ Lord Pharnth Aelorothi, the patriarch of the Aelorothi fey'ri and spy for the daemonfey from 1369 DR;
+ Lady-Consort Saesaan Aelorothi, his consort;
+ Jasrya Aelorothi, a high-ranking bladesinger;
+ Laelran Aelorothi, a spy in the Arcane Brotherhood;
+ Vesryn Aelorothi, a sorcerer at the daemonfey bolthole and later spymaster of the daemonfey.
+
+Appendix
+References
+
+---
+
+## Hogarth Harrowhand
+
+Hogarth Harrowhand was the head of the trappers guild of the Graevelwood clanhold of rock gnomes during the mid–14 century DR. Although his clan was rather secretive, and didn't reveal their location in the Arn Forest, they did often sell the pelts of beavers, among other animals, with traders in Deadsnows or Citadel Adbar.
+
+Like many in his clan, Hogarth was an expert scout, and as per his role in the community, an exceptional trapper.
+
+Appendix
+
+References
+
+---
+
+## Hospice of Marthammor
+
+The Hospice of Marthammor was a sanctuary for travelers run by dwarven servants of the dwarf deity Marthammor Duin, in the Old Delzoun region of Luruar in the late 14 century DR. It was led by Observer Kerrilla Gemstar, who provided healing and lodging for her guests, though not without cost.
+
+Location
+The church was located about two miles (3.2 km) northwest of the town of Deadsnows, along the Deadsnows Track.
+
+Accommodations
+The Hospice regularly had five to ten guests a night, but could provide lodging for up to twenty. In the summer days during the region's gold rush, the hospice was almost always full.
+
+Services
+Visitors could stay for one night with a meal of hard bread and cheese for free, but after that they were required to pay 2 sp a night, or 3 sp if they also wanted a meal. Most were turned out after a tenday, unless they were dwarves or friends of Observer Kerrilla.
+
+Healing services were granted to those who were in need, though Kerrilla would ask for service in return. Often this included assisting the town of Deadsnows with service in their local militia or assisting with any problems the town may have.
+
+Duties
+Along with the worshipers of Lathander from the Morning Watchtower, Observer Gemstar and her clergy within the hospice kept a keen eye on activity around the Ironhand Mines. Within these old depths was an entrance to the Underdark, and a temple of Shar known as the Well of Darkness.
+
+Appendix
+Appearances
+Adventures
+ Storm King's Thunder
+References
+
+---
+
+## House Jae'llat
+
+House Jae'llat was a drow house located in Ust Natha.
+
+Organization
+House Jae'llat was the founding house of Ust Natha, and the powerful lich Deirex Jae'llat was part of their ranks. Their home was located above the male fighter's society of Ust Natha. Their residence was filled with gems and could only be entered with a ward stone. It was also heavily guarded by drow fighters with long swords and shields.
+
+History
+The matron mother of House Jae'llat once outwitted Jarlaxle and humiliated him, a rare happening. Jarlaxle may have employed Gorion's Ward to steal gems from the founder, Deirex, and may have killed him.
+
+Members
+ Deirex Jae'llat: founder of Uth Natha and a powerful lich.
+ Rilloa Jae'llat: a cleric trained in using a flail.
+ Hindra Jae'llat: a cleric who kept a diamond on her person.
+ Ist'tar Jae'llat: a fighter trained in using a long sword.
+
+Appendix
+References
+
+---
+
+## House defense glyph
+
+House defense glyphs were one of the three types of drow runes used by drow, the other two being sacred glyphs and way-marker runes.
+
+Description
+Drow runes were always limned in black, be it with ink, paste, or inlay. The runes were elegant. They were made to look like flags or ornamentation around the symbol of a noble house.
+
+Powers
+A house defense glyph stored magic and unleashed it when triggered. The magic was triggered when someone who did not own the proper drow house insignia or did not say the password disturbed them. The powers of way-marker runes and the following powers were commonly stored into the house defense glyphs: a color spray effect, an enervation effect, a dispel magic effect; a magic reflection effect, an antimagic shell effect, a magic missile effect, a black fist effect that worked like a Bigby's clenched fist, or a blade barrier effect. They were not limited to these, and wizards and runecasters devised new ones.
+
+History
+By the 14 century DR, the technique to create sacred glyphs was already old.
+
+Appendix
+References
+
+---
+
+## House of Kuldath
+
+The House of Kuldath was the storefront and headquarters for the Kuldath merchant house within the city of Ravens Bluff. The five brothers of the family, Aldeemo, Belurith, Narammus, Ospim and Raethrif, imported and sold carpets and tapestries from other lands, specifically those that were made at the hands of slaves, possibly from their hometown of Laothkund in Thay.
+
+Rumours
+Locals of the Swordspoint neighborhood swore the house was protected by a monstrous, bat-like creature that flew around its ceiling at night.
+
+Appendix
+
+References
+
+---
+
+## How to Kiss Better
+
+How to Kiss Better was a Chapbook owned by the tiefling bounty hunter Havilar.
+
+Description
+Havilar's copy of How to Kiss Better was littered with bookmarks, intended for her twin sister Farideh.
+
+Appendix
+Appearances
+Video Games
+Idle Champions of the Forgotten Realms
+
+References
+
+---
+
+## Hogs Head Hall
+
+Hogs Head Hall was the headquarters for the Fellowship of Herders and Butchers, a local guild that operated within the Uptown District of Ravens Bluff during the 14 century DR.
+
+Location
+This building stood on the corner of Manycoins Way and Vesper Way, in the Torchtown neighborhood of Uptown.
+
+Activities
+Within this aromatic building, which doubled as the guild's meeting hall and dressing area, they taught apprentices how to dress, carve, and smoke all manner of animals. The fellowship members were quite considerate to their neighbors on Manycoins Way in that they rinsed blood into the nearest street grate into the sewers with buckets of water and shipped their leftover fat and bones out of the city for rendering.
+
+Thanks to the Fellowship in the Hogs Head, the streets of Torchtown were often filled with the delightful aroma of smoked meats.
+
+Appendix
+References
+
+---
+
+## Hommil Dundreth
+
+Hommil Dundreth was a merchant and author from Hlintar, a settlement in the Vast. Hommil was known as the Merchant-Mage of Hlintar.
+
+At some point, Hommil wrote the book Lines on the North. The original manuscript was kept in Candlekeep by 1372 DR.
+
+Appendix
+References
+
+---
+
+## Horn of blasting
+
+The horn of blasting was a magically engineered horn that, when blown into following the utterance of its command word, would produce a massive shockwave, similar to the spell sound burst.
+
+Description
+The horn appeared to be a mundane trumpet. Specimens weighed as little as  or as much as . They would sell in a magic shop in Faerûn for as much as 20,000 gold pieces or as little as 2,000. To those able to see such things, the horns gave off a moderate evocation aura.
+
+Powers
+The horn harmed and potentially deafened creatures and caused structural damage to crystalline objects. The horn's effect would knock back anyone or anything in its way, often stunning people or creatures caught in the blast. Each time the horn was used in a given day, there was a chance it would explode and be utterly destroyed.
+
+Availability
+ Some horns of blasting were known to be found in the land of Zakhara, as ancient tales spoke of great cities ruled by marids that used walls against noise to protect against them and other auditory-based magical items.
+
+History
+Horns of blasting were rumored to have been used by the Moonlight Men in their ambush of the orcs of the Nethertide Horde in the Battle of Turnstone Pass. One of the survivors of that battle was Mintiper Moonsilver, who later wrote about the battle in his Moonlight Paean, where some scholars believed the phrase "ready with waiting thunder" to be a reference to the horns. At least two horns of blasting were indeed buried next to their former weilders in the Cairn of Moonlight in Turnstone Pass.
+
+Julius Baggar's Horn
+One variety of horn was developed by a former military engineer, Julius Baggar. Rather than work on perfecting siege engines, or some other mechanical feat, Julius and his apprentices sought out magical tomes for insight and inspiration. Finding some ancient scripts that detailed, albeit theoretical, arcane lore that postulated on how to control, manipulate and even create sound waves. Julius applied that knowledge into a new piece of technology, his own version of the horn of blasting.
+
+After its completion, Julius demanded a practical experiment of its capabilities and had one of his apprentices blow into the horn while it was aimed in his direction. Unfortunately for the talented engineer, the horn worked perfectly well, and the horn's shockwaves tore him asunder.
+
+By the year 1369 DR the horn wound up in a subterranean dungeon beneath the Windspear Hills.
+
+Appendix
+See Also
+ Shoehorn of puissant castleblasting
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Horn of Sahu
+
+The Horn of Sahu was a coral reef found on the north end of the island of Sahu in east Zakhara in 1367 DR.
+
+Geography
+Roughly triangular in shape, the Horn of Sahu reached outward into the sea for approximately .
+
+Inhabitants
+The reef was infested with sharks, offering a barrier of natural protection to the island from seaborne attacks.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Holdryn Nalaster
+
+Holdryn Nalaster was a merchant of the city of Suzail in Cormyr.
+
+History
+Holdryn wrote the book A Merchant's Musings in 1347 DR. One of the evens recorded on the book's pages was the merchant's trip to the land of Turmish in the Vilhon Reach.
+
+Appendix
+References
+
+---
+
+## Howling horror
+
+Howling horror was a spell that caused a wraith-like force of energy to emit from the caster and assault a target creature.
+
+Description
+The force referred to as a howling horror was not a creature, rather a wisp of translucent, spectral energy that emitted an eerie moaning as it assailed its target without form or features. It was not undead and could not be turned, could not be affected by area-of-affect spells or spell-like abilities and could only be harmed by physical attacks that occupied the space within which it was in effect. It could not be turned away, negotiated with, mislead by spells such as feign death or otherwise compelled to do anything but ravage the creature designated upon the spell's casting.
+
+The howling horror could not form underwater.
+
+Effects
+For the duration of the spell, the howling horror maintained a magical link with its caster, siphoning away the life force of its target and transferring it to the caster. Any spells that were directly cast at the horror were absorbed, channeled through the spellcaster's body and redirected towards any creature the caster chose. Any spells that targeted the caster while the horror was in effect would similarly be transferred from the caster's body and redirected to the creature targeted by the howling horror. If the caster was unconscious when this occurred, the spells would shoot out from the horror in random directions.
+
+Casting
+The material component for casting this spell was a small, cone-shaped bone.
+
+Appendix
+References
+
+---
+
+## Hospice of St. Laupsenn
+
+The Hospice of St. Laupsenn was a temple of Ilmater in the North Ward of Waterdeep in the late 14 and late 15 centuries DR.
+
+Location
+The temple was located on the south side of Undal's Lane, between Black Cat Way and Andamaar's Street.
+
+Description
+The temple had bells that had a solemn sound and they could be used to mark the time.
+
+History
+In Marpenoth/Uktar of the, the Ilmatari were among the Waterdhavian clergies who supported Prince Haedrak Rhindaun III's claim to Tethyr. Some of the faithful joined his forces in the Reclamation Wars.
+
+In the late 1400s DR, Gale Dekarios was treated for the ruddy pox at the Hospice of St. Laupsenn.
+
+Notable Staff
+ Vhaspar Holmdreg, a priest around 1492 DR.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Holyhands House
+
+Holyhands House was a temple to all deities in the North Ward of Waterdeep, active around 1492 DR.
+
+Location
+The temple was located on the southeast corner of Copper Street and Delzorin Street.
+
+History
+This temple was once a villa that belonged to the Maernos noble family and was a bequeathal by the last of the Maernos line, Ultas Maernos. Before he passed away, he began re-purposing the compound and decorated it with artwork and statues by various non-human races. He died sometime before the, and thereafter the Maernos estate was known as Holyhands House. It was initially administered by his former halfling retainers, the Defenders Three.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Howling dragon
+
+Howling dragons were completely insane dragons native to Pandemonium.
+
+Description
+Howling dragons had long and slender bodies whose purple scales were dotted with black and darkened as they aged. Their legs and wings were equally thin. Their heads and shoulders were covered in frill-like spines. Their large, small-pupilled eyes were yellow and feral.
+
+They subsisted on any type of creature they could find, including undead and constructs. They particularly enjoyed eating their prey while it was still alive and moving.
+
+Personality
+Howling dragons were extremely intelligent. From the depths of their insanity, they continuously worked on inscrutable schemes.
+
+Combat
+Ferocious and aggressive combatants, howling dragons made extensive and random use of their two breath weapons: a cone of deafening sound, and a howl that progressively drove its victims insane. Due to the extremely loud winds of Pandemonium, those effects had a reduced range there.
+
+They could cause effects similar to the confusion, gust of wind, insanity, phantasmal killer, shatter, shout, sound burst, symbol of insanity, Tasha's hideous laughter, weird, whirlwind, and wind wall spells.
+
+Society
+Howling dragons preferred to build their lairs in isolated caves. They tended to thoroughly explore their surroundings, roaming through all tunnels and crevices they could find. They could be found alone or in families as they raised their young. Clutches of young howling dragons were also commonly found.
+
+In addition to their native plane of Pandemonium, howling dragons could also be found in the Dragon Eyrie, Fury's Heart, and the Supreme Throne. If found in the Prime Material plane, they tended to look for underground locations to build their lairs.
+
+Appendix
+Appearances
+Novels
+The Ruin
+
+References
+
+Connections
+
+---
+
+## Horrendous dessication
+
+Horrendous dessication was a necromancy spell of epic magic.
+
+Effects
+Horrendous dessication caused everything to dry up within a large area that grew with the caster's skill. The effect caused organic matter to dry up, the degree of which increased with the caster's skill, and could easily lead to death. The same happened to bodies of water like lakes or rivers. Such places lost a large amount of their water.
+
+The caster was safe from the drying effect. However, casting this spell caused one of the caster's limbs to wither.
+
+Components
+Horrendous dessication required somatic, verbal, and material components. The material component was one dose of dust of dryness.
+
+History
+By the 14 century DR, horrendous dessication was considered to be one of the most fearsome spells ever developed on Faerûn.
+
+Appendix
+References
+
+---
+
+## House Orogoth
+
+House Orogoth was an organization of black dragons and related creatures headquartered at Orogoth on the High Moor. The House was originally a powerful arcanist family of Netheril, known for their interest in acquiring draconic powers, and for accidentally creating the ophidian race. Although thought lost to history, House Orogoth returned in 90 DR under the leadership of the great wyrm Calathanorgoth. Under his direction, the House sought to accumulate the secrets of Netherese magic and research ways of attaining immortality.
+
+Organization
+House Orogoth was ruled by the dracolich Calathanorgoth, who also fathered many of the House's draconic members.
+
+The House rarely accepted new members, usually only doing so if necessary for an important project. Applicants were required to have some arcane ability, though sorcerers were not tolerated. Humans who could demonstrate Netherese descent were preferred, with humans of other ethnicities tolerated but often treated with disdain. In return for faithful and proficient service to the House, members were given access to its huge library of magical lore.
+
+Activities
+Magical research was a priority for House Orogoth, particularly on the subjects of Netherese magic and immortality. Several of its members sought to improve the process of creating dracoliches.
+
+House Orogoth had a vested interest in maintaining their control over the area surrounding Orogoth. To this end, they spent considerable time and resources controlling neighboring tribes of ophidians and savage humans. During periods of intense magical research, the House turned inward, lessening the degree of control somewhat.
+
+Orogoth was well-known along the Sword Coast—especially in Amn—as a lucrative adventuring spot, with tales circulating about heaps of gems for the taking. As such, the House was frequently targeted for plunder by the Cult of the Dragon, yuan-ti from nearby Najara, and by adventurers in general. These efforts were summarily quashed, with offenders routinely killed or transformed into beast shape.
+
+Base of Operations
+
+The House was based out of Orogoth, a huge villa complex in the eastern part of the High Moor that was largely destroyed after internal strife. Following House Orogoth's restoration, its members took up residence in the villa ruins. Orogoth was connected to the Serpent Tunnels, a network of serpentfolk-built tunnels that ran under the Serpent Hills.
+
+Possessions
+At Orogoth, the House maintained one of Faerûn's largest libraries of magical lore.
+
+Relationships
+House Orogoth had a strained relationship with many of its neighboring realms, owing to the arrogance of Calathanorgoth. Near the late 14 century DR, House wizards sought to reverse this trend by offering its neighbors support against the yuan-ti of Najara. In return, the House was given access to nearby Netherese ruins.
+
+The House was once on good terms with the wizards of Halruaa, with many Halruaan families sending their young to Orogoth to receive training. This relationship soured over time, but showed signs of bettering as of the mid-1370s DR.
+
+Of the many ophidian tribes controlled by House Orogoth, the Tribe of the Old One was the largest. Venerating Calathanorgoth as a god, the tribe was the subject of much experimentation, resulting in the creation of half-dragon ophidians. House Orogoth generally viewed the Tribe as expendable troops.
+
+There was constant strife between House Orogoth and the serpentfolk of Najara, but neither side had the strength to risk a major attack on the other. The yuan-ti often attempted to infiltrate the House with tainted one saboteurs. In response, Calathanorgoth created the taint removal potion, which he required all human House applicants to drink.
+
+The Cult of the Dragon coveted House Orogoth's might, but Calathanorgoth, aware of the Cult's duplicitous ways, was not interested in any association. As of the late 14 century DR, House Orogoth was embroiled in a conflict with the Cult over a network of portals connected to the Dungeon of Swords.
+
+The Shadovar of Thultanthar sought to establish relations with House Orogoth. Despite emissaries being exchanged between the two sides, there was little development beyond gauging each other's strengths and weaknesses.
+
+History
+The noble Netherese Orogoth family sought to acquire draconic powers for themselves, and were especially interested in gaining the ability to assume dragon form. In, the family established a sprawling villa complex in the High Moor, naming it Orogoth. Legend holds that these early Orogoths succeeded in their quest, transforming themselves into dragons and leaving the villa behind for their descendants. Later, less sympathetic generations of Orogoths turned their interest to magically compelling dragons—by some accounts, possibly their own draconic ancestors—forcing them to plunder the hoards of other dragons across Faerûn, to enrich and amuse the Orogoths.
+
+Around, the family's draconic research led them to create the Serpent Curse by accident. This malady spread among the House's human servants, turning them into ophidians. The Orogoths drove these creatures into the nearby hills, but were unable to stop the curse from spreading. Ultimately, they exiled their entire servant staff, replacing them with constructs and undead.
+
+For reasons unknown, House Orogoth eventually turned on itself. A huge battle took place at the family villa in, with members fighting each other with the dragons under their control. The villa was ruined, most of the family immolated, and any survivors fled, leaving Orogoth abandoned. It was rumored that the black dragon Calathanorgoth, self-proclaimed last descendant of House Orogoth, was behind the family's destruction.
+
+In the, yuan-ti from Ss'thar'tiss'ssun plundered the ruins of Orogoth. In doing so, they accidentally triggered a ward that summoned Calathanorgoth, who had apparently lain dormant until then. The wyrm chased the serpentfolk off his land, but they were able to escape with several ancient artifacts. Calathanorgoth spent the next several years consolidating his dominion over the surrounding area, enslaving many ophidian tribes in the process.
+
+When Anauria fell in the, many scholars of Netherese magic were displaced. Sensing an opportunity to strengthen his House, Calathanorgoth offered sanctuary to these refugees, further tempting them with access to obscure Netherese knowledge.
+
+The next several centuries were spent growing the House, with Calathanorgoth fathering a multitude of offspring. The wyrm encouraged his children to establish their territories near Orogoth, further strengthening the House's hegemony over the surrounding area. During this period, much time and effort was devoted to recovering lost artifacts and lore of Netheril. House Orogoth also devoted some effort to protecting Netherese ruins in Anauroch, earning them good relations with similarly aligned wizards from Halruaa.
+
+The House remained stable until the, when several of Calathanorgoth's offspring rebelled against him. The wyrm patriarch killed all the would-be usurpers, but not without sustaining serious injuries himself. Calathanorgoth emerged from the conflict still in command of House Orogoth, but lost many of his draconic offspring in the process, with his grandson Wastirek as the oldest survivor. The conflict deeply impacted Calathanorgoth, who began researching ways of achieving immortality.
+
+In the, Calathanorgoth transformed himself into a dracolich with the aid of the Cult of the Dragon. The Cult hoped to use the process to gain control of House Orogoth, but Calathanorgoth was prepared for such treachery and evicted them from his dominion immediately after his transformation.
+
+When a dracorage broke out in the, Calathanorgoth resisted its effects thanks to his undead nature. Although the dracorage affected his draconic subjects, the black wyrm was able to mostly control and contain them, sending them to the Serpent Hills where a King-Killer shield kept them safe from the Rage. In doing so, Calathanorgoth avoided repeating the bloodbath of 1018 DR.
+
+Notable Members
+
+ Calathanorgoth, the dracolich head of the House from 90 DR.
+ Kasidikal, a black dragon who sought to unite the dragons of the Serpent Hills to fight the serpentfolk.
+ Rezmir, a half-dragon who served as Wyrmspeaker in the Cult of the Dragon in the late 15 century DR.
+
+Appendix
+References
+
+FR:Maison Orogoth
+
+---
+
+## Hoard servant
+
+Hoard servant was a conjuration spell that functioned in a similar manner to unseen servant but was only available to the dragons of Toril. It was popular among metallic and gem dragons, as they were much more preoccupied with the status of their horde of treasures.
+
+Effects
+By casting this spell, a dragon summoned an invisible unseen servant that was stronger and more hearty than its humanoid-conjured counterpart. The unseen servant stayed near the hoard of the summoning dragon, stacking coins, organizing chests, and polishing all the gems and items cast from precious metals.
+
+The duration of the spell lasted for a matter of hours, depending on the spellcasting skill and experience of the caster.
+
+Appendix
+References
+
+---
+
+## House of Many Tomes
+
+The House of Many Tomes was one of the largest and most renowned temples of Oghma in all of Faerûn, located in the town of Songhal in Impiltur. It was considered among the sages of the Realms as a great place of learning, that brought significant prestige to its home town.
+
+Description
+The main road leading up to the House of Many Tomes was surrounding by serene grasslands and well-manicured trees. The temple itself featured a number of columns, massive front doors and a massive stained-glass window that resembled Oghma's holy symbol.Some descriptions based on the artist's rendering.
+
+Just outside the entrance, beyond the central walkway, was a single-tiered amphitheater.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Howler
+
+Howlers were pack predators native to Pandemonium, infamously so-called due to their mind-shattering howls.
+
+Description
+Howlers were  long,  tall, quadruped beasts that weighed about . They were patchwork creatures that seemed to cross traits of canines and felines, with bruised, crushed digits ending in claws on their front legs and back legs ending in hooves. Despite seeming gaunt, their backs were strong and resembled those of oxen. Their scales were covered by tangled, red fur that spread into a mane of trembling quills on the backs of their necks and surrounded their muzzled, simian faces.
+
+Behavior
+Howlers were nonaggressive and usually cowardly when alone although extremely cruel when in packs. They practically stood when howling, and like dogs would do so for any number of reasons. They howled when lonely, trapped, frightened or challenged but despite their bestial behavior possessed a surprising level of intelligence, enough to understand language.
+
+Young and inexperienced howlers killed their victims quickly for the delicious rush of terror that a violent death generated. However, older howlers preferred to draw long-term sustenance from constantly terrorizing their victims rather than killing them immediately.
+
+Abilities
+Howlers rended the flesh of their prey and tore at the minds of the terrified with their wicked jaws. The quills on their neck became erect when they engaged in combat and formed a shield of spines when they charged. Their raised bristles, while inaccurate could break off and become lodged in their victims requiring each one of them to be carefully removed lest the victim suffer extreme pain.
+
+Their titular howling was a horrifying sound that could be heard from a large distance, even through the loud winds of their home plane, and which caused other creatures to become debilitated by fear and incapable of complex thought. Prolonged exposure to their baying had a similar effect to the winds of Pandemonium, slowly driving the listeners insane and turning those nearby into stumbling wrecks.
+
+Combat
+The craven nature of the howler meant that they generally left large groups and seemingly dangerous beings alone, instead targeting the weak and vulnerable. Their cowardice was not to be confused with weakness, and when they decided to go on the offensive they did so with ruthless savagery and focus. The first few seconds of combat with a howler pack often decided the outcome of the entire engagement. After chasing and wearing them down they would descend upon their prey, primarily relying on their numbers, speed and paralyzing howling. They used hit and run tactics to gradually weaken their targets but fled if their attempts to single out weak prey stopped working.
+
+Although they generally avoided civilized areas and tight locations, howlers on the Material Plane were known to terrorize isolated villages, feasting on the steady supply of flesh and fear generated by the inhabitants. Normally content to drag off one or two victims at a time, any display of defiance resulted in the pack surrounding the offenders home and devouring everyone inside after crippling them with a series of howls.
+
+Society
+If left to prowl their native plane, howlers would be another blight upon Pandemonium. However, howlers could be found in most of the Lower planes, in particular those defined by chaos and evil, captured and trained by those that had learned to tame them. Quasits, abyssal orcs and succubi were known to use howlers as mounts and pack animals while larger demons used them as hunting hounds. They were just as powerful as draft horses and far more capable of traversing Pandemonium's tunnels, making them far more effective steeds. Although their abilities were less effective against outsiders, howler packs were commonly deployed in the Blood War due to their ability to neutralize the enemy for a few precious seconds.
+
+Domesticating them was a serious ordeal requiring the howlers to have a positive disposition to their master combined with a brutal period of training, until the creatures recognized their trainer as the undisputed pack leader. Both fiends and evil mortals of sufficient strength and viciousness could train a howler pack to show complete loyalty. On the Material Plane, troglodytes, shadar-kai and drow were known to capture young howlers and train them for war. Sufficiently old howlers could not be broken and trained but would willingly ally with beings such as drow or intelligent undead in order to acquire victims, dwelling in the prisons and torture chambers and allowing only powerful riders. The greatest of howlers served death giants, liches and similar undead as watchdogs and hunters, displaying a surprising level of loyalty to such beings and faithfully laying down their lives in defense of their wicked masters.
+
+The baying of howlers was suspected to be a language with some wizards going so far as to claim that they hid the secret nature of the multiverse within their howls. It was entirely possible said wizards were driven to madness by their howler subjects and no language could be deciphered in their wails, whether through study or magic. While incapable of speaking they could understand Abyssal.
+
+Ecology
+Howlers drew sustenance from not only the fear of their victims but also their bodies. They were carnivorous scavengers that wandered Pandemonium searching for edible scraps or weak prey. They possessed both a rutting season and defined territories, howling during the former and when the latter was being contested. Howlers generally ran in death packs of their own kind ranging from 2-20 members including the bulls, females and kits. Bulls did the hunting in the pack and older members encouraged eligible young to prove themselves during the hunt.
+
+Young howlers were known as dread hounds and were eager to taste fear, spreading out during a hunt to maximize the chance of terrifying their prey. Grown howlers were referred to as doom mastiffs, fearsome canines that carefully closed in on prey to keep them frightened for as long as possible. While normally found in Pandemonium, they crept in tunnels and abandoned dungeons when on the Material Plane. Terror incarnates were the most fearsome howlers and were said to be the progeny of a howler that had consumed the terror of an entire army, becoming living embodiments of fear in the process. Rather than lead packs of ordinary howlers, terror incarnates traveled the planes in packs of their own kin ambushing prey in order to prey upon their shock.
+
+Notable Howlers
+ Spike, Cressyl Blackbones's pet howler.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Hold metal
+
+Hold metal was an enchantment spell that caused any ferrous-metal items to immediately hold still within a specified area.
+
+Effects
+When this spell was cast, every metal item was held perfectly still as if it was bound by sovereign glue. Any weapons that were being swung were stopped in mid-air and any affected suits of armor kept their wearers in place as if they were affected by hold person.
+
+For the duration of the spell, these metal objects could not be moved by non-magical means and any items entering the spell's area-of-effect were similarly held in place. The size of the spell's effects, along with its duration, were dependent on the skill and experience of the caster.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Horn of Kazgaroth
+
+The Horn of Kazgoroth was an artifact that could be used as a horn. Peculiarly, it released enchantments when played, instead of musical sound.
+
+Description
+The artifact resembled a blackened and twisted horn. Unlike the artifact from the same being known as the Claw of Kazgaroth, it was not cursed.
+
+Powers
+When blown, the user was surrounded by a globe of power that gave them resistance to magical effects. As well as high resistance to missile attacks, effects from wands, breath weapons, and polymorphing, the powerful artifact gave complete immunity to minor spells. However, whenever it was blown, the horn would extract some life force from the user.
+
+History
+The horn, which was actually a tusk, was once of the powerful beast and aspect of Bhaal named Kazgaroth, which took the natural form of a tyrannosaurus. It was later enchanted by an unknown mage, and was later found in a magic store in Beregost, alongside the Claw of Kazgaroth.
+
+Notable Owners
+ Thalantyr, a powerful conjurer who sold various magical wares, including the horn.
+
+Appendix
+See Also
+ Claw of Kazgaroth
+Appearances
+Video Games
+Baldur's Gate series (Baldur's Gate • Baldur's Gate II: Shadows of Amn)
+Appendix
+External links
+
+References
+
+---
+
+## House of the Binder
+
+The House of the Binder was a large temple of Oghma located in the fortress-keep of Candlekeep by the mid–14 century DR and still standing in the late 15 century DR.
+
+Description
+The temple could be found on the western side of the Court of Air, within the keep's outer wall. It was spacious enough to allow for a number of his followers to set up camp and socialize within.
+
+Appendix
+Adventures
+Candlekeep Mysteries: "Mazfroth's Mighty Digressions"
+References
+
+---
+
+## Holy symbol (spell)
+
+Holy symbol was a common spell used by shugenja in Kara-Tur.
+
+Effects
+A shugenja used this spell to create a holy symbol of their deity from a mundane item. The chosen item was required to be made by an appropriate material, and the shugenja was only able to make a holy symbol of their own deity. Depending on the alignment of the shugenja, the holy symbol radiated evil or good.
+
+Components
+In addition to verbal and somatic components, the spell required a material component.
+
+Appendix
+References
+
+---
+
+## Honorable Knight
+
+The Honorable Knight was one of the colossal Walking Statues of Waterdeep located in the Trades Ward of Waterdeep. He resembled a warrior in plate armor with a sword and shield.
+
+History
+During the Spellplague of 1385 DR, the walking statue appeared and rampaged through the city. When stopped, the statue bowed to those who had battled it. The statue then sheathed its sword and removed its shield, placing it into the ground, upright, by his side.
+
+Description
+His final pose was that of a guard at ease, facing towards the harbor. This statue was viewed respectfully by those who resided in the southernmost wards of the city.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Holy weapon
+
+Holy weapon was a spell used by clerics and paladins to create a magical weapon.
+
+Effects
+This spell allowed a caster to temporarily bless a weapon and imbue it with magical powers. During the spell, the weapon became radiant and bright light emanated from it, illuminating an area of up to  in radius. At any point during the spell's duration, the caster could dismiss the spell, which caused a brilliant burst of radiant light. As a result, creatures within  of the weapon were blinded for a short period.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+References
+
+---
+
+## House of Mystery
+
+The House of Mystery, also known as the Reign of Night, was the largest temple to Shar and her most important holy site during the time of the Netherese Empire.
+
+Location
+The temple was located in the logging port of Sepulcher, in the cold north of Low Netheril.
+
+Structure
+The House of Mystery was a vast, many-storied complex of odd exterior design.
+
+Interior
+The interior of the temple was equally confusing. So full it was with passageways, secret doors, hidden chambers, mysterious locking mechanisms, bizarre stairwells, and plunging drop chutes that even its own clerics often got lost or confused.
+
+History
+The temple was constructed sometime between around  and, when followers of Shar secretly and slowly migrated to the vicinity of Sepulcher. They did so in number because of the darkness of the northern latitudes in the winter and because the town was so remote, leaving them free from persecution to pursue their dark religion. The pilgrims built the temple in honor of their goddess.
+
+Rumors & Legends
+The shade cleric Variance Amatick believed that among the treasures of the House of Mystery were The Leaves of One Night, a document that Shar believed so dangerous to her well-being that she cursed it to make it unreadable.
+
+This could not have been possible, however, for the town of Sepulcher—and the entire empire of Netheril—fell long before the The Leaves of One Night were ever written.
+
+Inhabitants
+Shar chose the high priestess of the House of Mystery to be the head of her entire faith, though with the remoteness of the temple, not all of the Church was aware of this fact.
+
+Appendix
+See Also
+ Temple of Old Night
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Horror
+
+Horror was a necromancy spell that caused all opponents that could not resist to flee in extreme fear. It was similar to the fear spell, but did not operate in a cone shape, and could be cast by less-experienced wizards.
+
+Effects
+The mage could cast the spell up to 40 feet (12 meters) away. All enemies within a 30-foot (9.1 meter) radius would attempt to run away from the caster in fear. However, some were able to resist the effect on the spell, and undead were not affected at all.
+
+Appendix
+See Also
+ Fear
+Appearances
+
+External links
+
+References
+
+---
+
 ## Hoar
 
 Hoar  was the Faerûnian god of retribution, revenge, and poetic justice. The Doombringer spent some time as an exarch of Bane and was invoked by those who would have an eye for an eye.
@@ -823,6 +8342,5185 @@ The Worst of All Snares • Twisted Roots Run Deep
 References
 
 Connections
+
+---
+
+## Hondakar's House
+
+Hondakar's House was an inn in the city of Elturel in the Western Heartlands in the mid–14 century DR.
+
+This big inn stood in the middle of the city's High District, and its high prices and high quality reflected that.
+
+As Lord Dhelt decreed that inns and taverns could not operate under the same roof, and inns could not serve drinks, Hondakar's House was expressly an inn.
+
+Appendix
+References
+
+---
+
+## Hornung
+
+Hornung the Anarch, known as the "king of the wild mages", was a prominent wild mage with multiple spells to his name. Originally from Toril, a wild surge brought on by experimentation with wildwind sent him to the world of Oerth.
+
+At some point, Hornung was recruited into the Xaositects by one of his pupils, Quake Lavender.
+
+Spells
+ See also: :Category:Hornung's spells
+Hornung was credited with the creation of the following spells:
+ Hornung's baneful deflector
+ Hornung's guess
+ Hornung's random dispatcher
+ Hornung's surge selector
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Horthil
+
+Horthil was a member of the Harpers hailing from Elturel in the Western Heartlands.
+
+Speaking of Starfall Pool in the Moonwood, the dryad Olsheirie who dwelt nearby, and the mysterious floating shield there, before 1372 DR, Horthil said "She ignores the shield, and it ignores her."
+
+Appendix
+References
+
+---
+
+## Holy might
+
+Holy might was a divine alteration spell that allowed a priest to fortify an object, made of inorganic materials, so that it did not decompose or degrade over time.
+
+Effects
+This spell affected a mass of non-organic material no larger than twice the size of the caster's body. When cast, any weaknesses in the targeted material were strengthened, fortified from future damage and made even more hardy.
+
+Components
+The material components of this spell included a whole gem; either a ruby, sapphire or emerald worth at least 3,000 gp; a similarly sized piece of duskwood; a chunk of obsidian of any size; some acid taken from a black dragon; and a piece of chitin taken from either an ankheg, bulette, or beholder.
+
+Appendix
+References
+
+---
+
+## Hoard armor
+
+Hoard armor was a defensive spell that could only be cast by dragons.
+
+Effects
+When cast within the dragon's lair, unsecured treasure was drawn into a swirling cyclone around the dragon, creating a protective barrier. Only gems and items made from copper, electrum, gold, platinum, or silver were drawn into the barrier. An individual piece of treasure could not be more than  in weight and had to be within  of the dragon. The cyclone of treasure completely surrounded the dragon except for the face and claws, allowing the dragon to cast further spells. The dragon was able to slowly move around their lair. The spell was vulnerable to dispel magic.
+
+Casting
+In addition to a verbal component, the spell required a material component. About 1% of the gems and precious metals used in the spell were consumed.
+
+Appendix
+References
+
+---
+
+## Hoardguard
+
+Hoardguard was a spell that could only be cast by dragons. It was used by dragons to protect their treasure hoard.
+
+Effects
+When cast, the spell temporarily transformed the dragon's breath weapon into magical energy. The dragon then breathed over their treasure hoard. The magical energy bonded the individual treasures of the hoard together into a solid mass. The appearance of the hoard or items was not altered. The hoard was then protected, each individual treasure unable to be moved or shifted.
+
+The invisible magical bond was immune to all magical and mundane attacks, even a dispel magic had no effect. An antimagic shell spell had a limited effect, removing the magical bond only within it's area of effect. Only two spells were able to remove the powerful magical bond from the treasure: limited wish removed it temporarily for an hour, and wish removed it permanently.
+
+If the dragon added new treasure to the hoard, the magical bond did not extend to protect the new items. The dragon had to re-cast the spell upon the new treasure. The spell was usually cast when the dragon had to leave their lair.
+
+Casting
+This spell required only a verbal component.
+
+Appendix
+References
+
+---
+
+## Holy sword
+
+Holy sword was a spell used by paladins.
+
+Effects
+This spell gave the caster the ability to channel the power of their deity into a melee weapon, usually a sword. The weapon became temporarily enchanted and emitted an effect, magic circle against evil. If the spell was cast on a weapon that was already enchanted, this spell overrode the weapon's enchantments. The weapon was enchanted until the spell expired or the caster dropped it. A caster could not wield two holy sword spells at a time. This spell could not be combined with spells such as bless weapon, and could not be cast onto an artifact.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Hordes of the Underdark • Neverwinter Nights 2
+External links
+
+References
+
+---
+
+## Holy star
+
+Holy star was a divine evocation spell that conjured brilliant, magical mote of light that accompanied the cleric.
+
+Effects
+The casting of this spell caused a bright light to appear over the caster's shoulder. It floated nearby for a matter of seconds, until the duration of the spell expired or all its magical energy was released.
+
+Every few seconds, the holy star could be willed by the caster to perform a number of actions. First, it could reflect back the effects of any spell cast nearby, towards its source. Second, the holy star could completely protect the cleric from any physical or magical attack. Third, it could emit a beam of damaging force energy burned any being it struck.
+
+After performing four of these actions, or emitting two beams of energy, the holy star dissipated.
+
+History
+The specifications of this spell could be displayed by the relic known as the Scepter of Mystra.
+
+Components
+This spell required verbal and somatic components in order to be cast.
+
+Appendix
+References
+
+---
+
+## House of the Triad (temple)
+
+The House of the Triad was a temple dedicated to the deities of the Triad in the walled town of Bryn Shander. The stone structure was the largest holy place within the most prominent settlement of the Ten Towns.
+
+Staff
+The House was attended to by clergy members that visited from the far-off cities of Neverwinter and Waterdeep.
+
+History
+The stone building that became the House of the Triad was originally built by the dwarves of Kelvin's Cairn.
+
+Appendix
+References
+
+---
+
+## Horizikaul's boom
+
+Horizikaul's boom was a spell used by sorcerers and wizards.
+
+Effects
+When cast, the spell bombarded a targeted creature with an incredibly loud high-pitched sonic attack. It could strike a moving target. The targeted creature suffered from sonic damage and was temporarily deafened. If the targeted creature was within an area of effect of a silence spell, the spell had no effect.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+See Also
+Horizikaul's cough
+Horizikaul's versatile vibration
+Appearances
+Video Games
+Neverwinter Nights: Hordes of the Underdark
+External links
+
+References
+
+---
+
+## Horizikaul's versatile vibration
+
+Horizikaul's versatile vibration was a spell used by sorcerers and wizards.
+
+Effects
+When cast, the spell created a cone of powerful sonic vibrations. The targeted creature suffered from sonic damage and was temporarily deafened. The amount of damage inflicted was determined by the caster's skill level. Additionally, the spell could be used to move a creature or object, but only in a direction away from the caster. If the targeted creature was within an area of effect of a silence spell, the spell had no effect.
+
+Components
+In addition to verbal and somatic components, the spell required a focus: a cone of brass and gold that was hollow and worth at least 50 gp.
+
+Appendix
+See Also
+Horizikaul's boom
+Horizikaul's cough
+
+References
+
+---
+
+## House of the Morninglord
+
+The House of the Morninglord in Bryn Shander was the town's place of worship for the Keeper of the Eternal Sun, Amaunator. It was overseen by the devout and irrepressible cleric Mithann.
+
+Location
+The shrine was located in the northeastern region of the city, a ways off from its central market square.
+
+Structure
+The shrine was established in a small converted house.
+
+Services
+Mithann offered a view on Amaunator that differed from the cities of the south. She cast away the austere and unyielding traits typically associated with the deity, and sought to cast him in a more uplifting light.
+
+Activities
+While the sun did not shine over the Ten Towns for two months of the year, its return in the month of Hammer was a joyous occasion. The church sponsored a grand feast to celebrate the occasion every year.
+
+History
+Circa the, the House of the Morninglord offered shelter to the Lathanderite gnome Copper Knobberknocker after he had enough staying at the isolated Black Cabin.
+
+Appendix
+Appearances
+Adventures
+Icewind Dale: Rime of the Frostmaiden
+
+References
+
+---
+
+## House Do'Urden/Family tree
+
+- never actually used the Do'Urden family name, and was only used as a mate.
+
+---
+
+## Hordes of Dragonspear (army)
+
+The Hordes of Dragonspear were the collective forces of devils, goblinoids, and other monstrous creatures that launched a devastating offensive from Dragonspear Castle, under the leadership of the pit fiend Baazka during the mid–14 century DR.
+
+Organization
+The fiendish army comprised three distinct divisions:
+
+The Marauders
+ Led by the cornugon Vrag, the Marauders were looked down upon and tasked with undesirable tasks that often led to heavy casualties. In order to change this view and gain greater esteem, Vrag devoted his forces to increasingly dangerous missions. Vrag was served by two lieutenants, the kobold chieftain Wolg and the goblin leader Pruj, each of whom commanded 500 members of their respective races.
+
+Blood Guard
+ The strong fighting force of the Blood Guard comprised monstrous humanoids led by the devilishly intelligent cornugon commander Vooka. This group carried out the raids and main assaults of the Dragonspear army. Serving under Vooka was the ferocious commander Dahrgash, and his 300 orc warriors, along with the authoritative hobgoblin chieftain Skarr, and his 200 soldiers.
+
+The Storm
+ The Storm was the most menacing contingent of the fiendish horde. The brutal fighting force of 200 bugbears and ogres was led by warmonger Vesarius. In addition to the cruel ogre boss Oorok and the cunning Ghorashk, Vesarius commanded the ancient black dragon Maelestor Rex, who was bound to him through the magic of the dragonspear.
+
+Activities
+The combined armies of Dragonspear led raids and outright assaults on settlements, forests, and other areas around the High Moor.
+
+History
+The horde's first belligerent actions were inflicted upon the elves and druids of the Misty Forest. The woods were devastated in a fly-by assault made by Maelestor Rex.
+
+In the, the barbazu serving Vrag and the Marauders were sent to scout the town of Daggerford. They managed to incapacitate Sir Llewellyn Longhand, the leader of Daggerford's army. The raiders attacked the town's army again a short time later, in a battle outside of The Way Inn.
+
+The army was finally bested in the final battle of the Second Dragonspear War, that took place at their rallying fortress, Dragonspear Castle.
+
+Appendix
+Appearances
+Adventures
+ Hordes of Dragonspear
+
+References
+
+---
+
+## Hold of Battle Lions
+
+The Hold of Battle Lions, or Hold of the Battle Lions, was a shrine to Tempus built within in Dragonspear Castle. It remained a bastion against the fiends of the Nine Hells for over 150 years, despite the repeated leveling of its structure.
+
+Location
+The stone temple was located within the castle's inner ward, a short distance beyond the front doors of the main keep.Volo's Guide to the Sword Coast states the temple was located within the castle's cellars.
+
+Interior
+Altar of Tempus
+Both in the years while it was intact and the century or so afterwards, the Hold of Battle Lions safeguarded the altar dedicated to Tempus. This stained marble altar was the focal point for rituals that revitalized and strengthened the wards sealing the portal that lay beneath Dragonspear Castle.
+
+Set within the marble was the source of its tremendous power, remnants of the elven sword Illydrael, that considered a holy relic by the followers of Tempus. When one of these faithful, or an individual that successfully beseeched the god "reached inside" the alter, they felt it to have consistency of unbaked clay and could successfully remove the hilt and handle of the sword.
+
+Activities
+The temple served as a bulwark to the fiends that could readily escape from the Nine Hells through the portal beneath Dragonspear Castle. The champions of the temple carried out their duty for nearly half a century, before being overwhelmed.
+
+Defenses
+While it was intact and occupied, the temple was considered to be well-manned and fortified.
+
+History
+The Hold of Battle Lions was built in the, after the combined forces of  Baldur's Gate and Waterdeep eradicated the malevolent forces that lived within the castle.
+
+In the, just after the First Dragonspear War, the castle was overrun by devils once more. They were rebuffed and cleared out some seven years later, and the temple was rebuilt as a shrine by Tempus' priests.The FRCS 3e states that priests of Tempus erected  shrine "a decade ago" from 1372 DR. Presumably they are referring to a rebuilt Hold of Battle Lions, rather than its original construction some 50 years prior or some secondary shrine of Tempus.
+
+For many years the shrine was regularly assaulted by various beastly and malicious creatures, such as bugbears, orcs, drow, and fiends, but remained intact for some time.
+
+As of the 15 century DR, the castle came under the protection of a group of mercenaries. Some time before the, the mercenaries were bested and the temple was once again destroyed, this by undead forces under the leadership of the creature known as Born.
+
+Some years later, Alwern Mulverax and Darrondar Gweth visited the ruined shrine in order to cast the necessary rituals that would strengthen the wards sealing Dragonspear's portal. Alwern betrayed his friend and left him to be dominated by the Szarlnaxi vampires that had taken nearby residence.
+
+Around that same time, the rakshasa Nadir sought out the temple to break the portal's seals. He believed this could be accomplished by defiling the altar with the blood of a devout follower of Tempus, namely Darrondar.
+
+Appendix
+Appearances
+Adventures
+ Ghosts of Dragonspear Castle
+Video Games
+ Baldur's Gate: Siege of DragonspearA large stone bearing the holy symbol of Tempus appears in the courtyard of Dragonspear Castle. This may or may not be the altar found within the Hold of Battle Lions.
+Notes
+
+References
+
+---
+
+## Hoach Randymonk
+
+Hoach Randymonk was a cobbler that lived on the Sword Coast during the mid–14 century DR. He was considered by some to be the best of his trade on the south side of Waterdeep.
+
+Relationships
+Hoach had a nephew named Glint Gardnersonson.
+
+History
+In the, Hoach got stuck in the settlement of Bridgefort as it was being besieged by the Shining Crusade. His well-being was a concern for Glint's mother, Helena Gardnersonson.
+
+Appendix
+Notes
+
+Appearances
+Video Games
+ Baldur's Gate: Siege of Dragonspear
+References
+
+---
+
+## Horax
+
+Horax were a species of long, twelve-legged insects.
+
+Ecology
+Habitats
+Horax were known to be found in the midwood of Cormanthor and the planet Krynn. There were also reports of them being sighted in the northern Sword of Anauroch, near the location of an alleged gate to Krynn.
+
+Appendix
+
+References
+
+---
+
+## Howling chain
+
+Howling chain was a wizard spell from the school of evocation.
+
+Effects
+This spell created a shimmering crimson chain of force that wound itself around a target. The chain actually howled as it moved, giving the spell its name. The caster was free to work other magic while the chain was attached to the victim. The victim was still able to move and perform their normal functions but in a sluggish manner.
+
+The howling chain struck at its victim with bludgeoning force several times per minute. In addition to causing physical harm, these attacks interrupted any delicate actions the target was attempting including spellcasting. The target could focus all of their energy toward defending against the attacks.
+
+Any creature attempting to free the target by pulling on the howling chain was attacked with the same force. Attempts to physically remove the chain were futile. The chain could only be removed by destroying it, by casting dispel magic, when the target died, or when the spell expired. The chain could attach itself to another target upon the first target's death.
+
+Components
+In addition to verbal and somatic components, this spell required as a material component a length of chain from three joined links of fine steel or another pure metal to cast.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Hold golem
+
+Hold golem was a wizard spell from the schools of abjuration and enchantment.
+
+Effects
+This spell affected a single golem of any type by holding them in place. The spell revealed the locations of all golems in the immediate vicinity, even those hidden my magical or mundane means, allowing the caster to select their target.
+
+In addition to stopping the golem's body, the spell also instantly halted any special attacks made by the golem, including freezing their breath weapon in mid-air.
+
+The only way to end this spell was by slaying the caster. The caster could not even choose to end the spell prematurely before it expired.
+
+Components
+This spell only required verbal and somatic components to cast.
+
+Appendix
+References
+
+---
+
+## Hoary hunter
+
+Hoary hunters were rare but powerful and malevolent fey creatures.
+
+Description
+Hoary hunters resembled gaunt elves with features that were sharp, exaggerated, and unsettling for mortals to see. Additionally, hoary hunters were completely white in color, including their hair, skin, eyes, and all of their clothing. On moonlit nights, hoary hunters looked like ghostly apparitions.
+
+Personality
+Hoary hunters were patient, persistent, and malevolent.
+
+Abilities
+Hoary hunters were rare and dangerous fey, difficult to damage, especially with cold-based attacks, as well as to spells. Additionally, they wielded powerfully enchanted longswords and possessed a number of innate magical abilities.
+
+By their own innate power, hoary hunters could replicate the effects of the spells discern location, true strike, fog cloud, hold monster, and plane shift at will; dimensional anchor, dominate monster, and greater dispelling thrice each day; and Mordenkainen's disjunction, and contingent recall and resurrection once each day. The last spell-ability meant that a hoary hunter could never be killed while on a hunt; if defeated, they rose again in the Unseelie Court.
+
+One of the more sinister abilities of a hoary hunter was that when they made a killing blow with their sword, the victim was instead bodily transported inside of the white diamond in the sword's hilt.
+
+Society
+Hoary hunters were fey of the Unseelie Court. They traveled either alone or in groups of up to five. On clear, moonlit nights in places when the air was below freezing in temperature, they would ride out and hunt other creatures. Once they caught their prey, they would bring the unfortunate victim back to the Court to be enslaved.
+
+If the chosen prey escaped, the hunter would return the next night that the conditions were right, accompanied by another hunter. They could wait years for this to happen, and were known to pursue their chosen prey even across planes. Only if the hunted evaded them for five nights would they relent.
+
+Hoary hunters always rode magical, flying horses, called hoary steeds. These creatures were utterly loyal to them.
+
+Appendix
+References
+
+---
+
+## House of Alon
+
+The House of Alon was the historical ruling family of the island of Afyal located in the Cities of the Ancients region of east Zakhara.
+
+History
+The distant progenitors of the House of Alon founded the island kingdom of Afyal shortly after the rise of the Law of the Loregiver and Enlightenment swept though mainland Zakhara, nearly 500 years ago as of 1367 DR. The House of Alon shared royal blood with the very first Grand Caliph, a fact of which they were very proud.
+
+The members of this ruling family were always eccentric, but leaned more and more toward madness as time went by.
+
+Members
+The Padishah of Medina al-Afyal in 1367 DR was Alad bin Alaq bin Alonka, also known as the "Mad Padishah."
+
+Appendix
+Notes
+
+References
+
+---
+
+## Howard Lyon
+
+Howard Lyon is an artist who has worked on 3, 4, and 5 edition Dungeons & Dragons material.https://www.howardlyon.com/bio
+
+Works
+In addition to providing a huge amount of art for Dungeon and Dragon magazines, he has worked on drawings and card illustrations for board games such as Lords of Waterdeep and Tyrants of the Underdark. Lyon's artwork has appeared in sourcebooks spanning several editions, including those set in the Forgotten Realms, such as the Sword Coast Adventurer's Guide.
+
+Appendix
+References
+
+External Links
+Official site
+
+---
+
+## House of Al-Karim
+
+The House of Al-Karim was a tribe of Zakharans inhabiting the deserts near Hiyal around 1367 DR.
+
+Organization
+The tribe was led by Aasim Karim in 1367 DR.
+
+Base of Operations
+The exact location of their camp in the wilds surrounding Hiyal was unknown.
+
+History
+According to the House of Al-Karim, a wealthy merchant from Hiyal named Farid attacked and killed a member of the tribe without provocation. As a result, the entire tribe was moved for vengeance against the merchant.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of the Harp (Elventree)
+
+The House of the Harp was a fieldstone hut that served as a Harper base in Elventree around 1367 DR.
+
+Description
+The small hut was found in a tangled ravine. Moss and flowers covered the roof and a carved stone harp stood beside the building.
+
+The hut actually masked a large dry cave within that stretched away with various passages and storerooms. The passages connected to other caves beneath Elventree, creating a vast network of underground tunnels.
+
+Inhabitants
+A ghost named Shalaer watched over the House of the Harp.
+
+Defenses
+Shalaer could summon the Harpers inhabiting Elventree within minutes if needed. She installed several magic wands in the chambers and corridors of the hut that she could activate at any time.
+
+Appendix
+References
+
+---
+
+## Horn (cantrip)
+
+Horn was a haunting cantrip that neophyte wizards could learn. It simulated the sound of a single note from a horn with some control over volume, apparent distance, and steadiness.
+
+Effects
+This cantrip produced a single horn-like note that could be clearly heard from  to  away, depending on the volume chosen by the caster. The amount of echo and the perceived distance could also be chosen, and the note could be made to waver with tremolo. With practice, a wizard could imitate a horn well enough that it was indistinguishable from the real thing. The duration of the note was determined by how long the caster held their mouth in the correct shape.
+
+Components
+This cantrip required verbal and somatic components to cast. The caster first softly hummed a note to pick the pitch of the horn sound. The horn sounded when the caster opened their mouth in an O-shape and curled the fingers of one hand around their mouth. The volume was varied by opening or closing the gap formed by the circle of fingers and tremolo could be added by shaking the fingers.
+
+History
+This cantrip was one of three unique cantrips recorded in Glanvyl's Workbook, penned by the relatively unknown Glanvyl of Scornubel in the 11 century DR.The three cantrips described in Dragon #100 were replaced with the cantrip spell when the 2-edition Pages from the Mages was published. The Wizard's Spell Compendium Volume Four describes all the 1-edition cantrips as examples of what you could do with cantrip.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Holondos Stimpiir
+
+Holondos Stimpiir was the high priest of Tyr for the Waiting in Phlan around 1367 DR.
+
+Activities
+Holondos oversaw six other priests within the temple during a time when the worship of Tyr in Phlan was on the rise.
+
+Appendix
+References
+
+---
+
+## Hoar fox
+
+Hoar foxes were a rare animal found in cold climates.
+
+Description
+Hoar foxes looked like regular foxes but instead of red fur, their fur was silver-grey in color.
+
+Behavior
+Hoar foxes were calm animals, only aggressive if it or their pack was in danger.
+
+Abilities
+Hoar foxes had the innate ability to duplicate the effects of the cone of cold spell at will. This was their primary form of defense and could hit a target up to  away. Hoar foxes were immune to cold-based effects and spells, and were particularly vulnerable to fire-based effects and spells.
+
+Ecology
+Hoar foxes were found in cold climates living in small packs.
+
+Habitats
+In Faerûn, hoar foxes were known to live in Icewind Dale, the Ice Mountains, and the Spine of the World. Beyond Faerûn, hoar foxes could be found in the cold climate regions of Kara-Tur.
+
+Relationships
+Rangers in cold locations sometimes had a hoar fox as a companion animal.
+
+Usages
+Hoar foxes were hunted for their pelts, which were in high demand due to its color. An intact hoar fox pelt could be sold for up to 100 gp. The blood of a hoar fox was used to enchant a white dragon's tooth.
+
+Appendix
+See Also
+ Arctic fox
+
+Gallery
+
+Appearances
+Adventures
+The Accursed Tower
+
+References
+
+---
+
+## House of Nine Blessings
+
+The House of Nine Blessings was a temple in Calimport dedicated to the worship of the goddess Loviatar.
+
+Location
+The House of Nine Blessings was located in Suq Drudach, part of the Astaré Sabban of Shackles Ward, in Calimport.
+
+Structure
+The building was constructed of white-glazed brick, which made it stand out among surrounding structures. The white bricks were offset by a black and blue mosaic of Loviatar's nine-tailed scourge.
+
+Inhabitants
+The temple was often frequented by slavers.
+
+Appendix
+References
+
+---
+
+## House of Auril's Breath
+
+The House of Auril's Breath, otherwise commonly referred to by locals as The Cold House, was a temple dedicated to Auril in the town of Glister. It was considered to be one of the goddess's largest and most influential temples.
+
+Location
+This temple was located along the main road of Glister.
+
+Structure
+The temple had a tall, slender spire atop its roof and its structure was supported by several vertical columns.
+
+History
+In the 14 century DR, there were known to be over 1600 Auril worshipers registered as members of the temple's congregation. Many of them were either fur trappers or miners, who would attend the temple's nightly Fire and Ice rituals.
+
+Inhabitants
+The temple was home to fourteen senior priestesses, guided by the High Hand of Ice Malakhar Rhenta. Unlike some temples of Auril, the clergy here used formal titles instead of honorifics.
+
+Rumors & Legends
+Some claimed that those who registered at the temple had to do so with their blood. A more popular rumor claimed that they were involved in covert political intrigue with the lands of Hillsfar, Sembia, the Vast, and the organization Zhentarim. By extension, people claimed that priests of the temple often paid spies and agents, in the form of mercenaries and traveling merchants, with gems.
+
+Some claimed that these alleged gems were mined from beneath the temple, while others claimed that they came from tunnels beneath the temple that stretched out far beyond the eastern and southern edges of Glister.
+
+Appendix
+References
+
+---
+
+## Holy Chaos!
+
+Holy Chaos! was a lesser-known card game, popular among priests of chaotic-aligned deities. Befitting the nature of chaotic deities, the rules to this game were complex and annually revised in edicts issued by the Church of Beshaba.
+
+Description
+This game featured four suits of cards: Black Bessies, Joy Bringers, Smiling Ladies, and Storm Queens. These represented the deities Beshaba, Lliira, Tymora, and Umberlee, respectively.
+
+Powers
+The cards of enchanted versions of these decks would each cast one random spell, but it would always target the wielder and be of a beneficial nature.
+
+History
+Tournaments for this game were known to be held annually. The winners of these tournaments would receive enchanted versions of these decks that could cast spells.
+
+Reputation
+This game was considered especially popular among the clergy of Tymora and Umberlee. However, it was often hated by the clergy of lawful deities, particularly by the Church of Helm and Church of Tyr.
+
+Appendix
+Background
+This item was going to appear in the original release of Icewind Dale, but had been cut before release.
+Appearances
+Video Games
+Icewind Dale: Enhanced Edition
+
+References
+
+---
+
+## Horn of voices
+
+A horn of voices was a magical horn that projected sound over a very large area.
+
+Powers
+The horn projected any sound applied to it, such as its user's voice, so that it could be heard everywhere within a radius of . There was no need for the user to shout, and the projected sound had the same volume for both nearby and faraway listeners.
+
+There was no command word to activate or deactivate a horn of voices, so it also amplified nearby sounds even if not in use, basically making it impossible for anyone to approach an area withour being heard. This unwelcome side effect could be avoided by placing the horn in an airtight container.
+
+History
+Horns of voices were common to all cultures in Coliar, which used the items to communicate over large areas. They were typically used during the election process of the aarakocra community leaders throughout the planet. The candidates would use the horns to state their merits for their entire communities. The population then voted for the leader, who would hold the position for the next seven years.
+
+It was possible to acquire horns of voices outside of Coliar, but they were considerably more expensive.
+
+Appendix
+References
+
+---
+
+## Honey
+
+Honey was a sweet, viscous food substance produced by honey bees, and by their larger cousin the giant honey bee.
+
+Description
+This food product had a very long shelf life.
+
+Availability
+
+Honey was typically sold by alchemists, beekeepers, farms, and food markets.
+
+Places in the Realms where honey bees were known to be cultivated for their honey included:
+
+ In north Faerûn, honey was cultivated in the Dalelands and the Vast.
+ In northwest Faerûn, honey was cultivated in the gardens of the city-state of Neverwinter and by wild elves in High Forest.
+ In interior Faerûn, honey was cultivated in the town of Eveningstar in Cormyr.
+ In the Western Heartlands, honey was cultivated by the village of Gullykin.
+Beyond Faerûn
+ The city of Mezro in Chult.
+ Off the coast of east Zakhara, the island kingdom of Afyal cultivated and exported honey.
+Beyond Toril
+ In the divine realm of Arvandor, elves were known to cultivate honey for the purposes of mead.
+ In the plane of Bytopia, especially in the layer of Dothion.
+
+Usage
+Food
+ Honey was the primary form of sweetener in the Realms. Whenever it was applied to something, the food or beverage was referred to as being "honeyed."
+ It was a main sweetener component of many alcoholic beverages including clarry, evermead, feywine, mead, and tej.
+ It was one of the main ingredients to honeydrops.
+ Some were known to use honey to sweeten molasses.
+ Grilled rothé ribs were often smothered in herbs and honey and slowly cooked to perfection.
+Magic
+ Honey tended by druids could act as a metamagic component for the spells suggestion and mass suggestion.
+ Honey was a material component for the following spells — antipathy/sympathy, shout, detect shapechanger, face, detect lycanthrope, faith-magic zone, and magic mouth.
+ Honey specially fermented for royal bees was a material component of the spell heroes' feast.
+ The honey of giant bees could be used as an ingredient in crafting potions of healing and potions of extra-healing.
+Miscellaneous
+ In the Dalelands, elven farmers south of Spiderhaunt Wood were known to offer pots of honey to the Seldarine before planting their crops for the spring, hoping that they would control the land's chaotic weather.
+ Some were known to give camels and a camel of the Pearl a dab of honey to persuade them away from wandering.
+ When mixed with a ground up amber, honey could remove some degree of blindness. When mixed with that and rose oil, honey could remove some degree of deafness.
+
+Notable Users of Honey
+
+Businesses
+ The Stag Triumphant, a posh inn in Mosstone, served honey and lemon chicken stew in a thick greenshoots broth for highsunfeast.
+Groups
+ The Shad'iar, the nomadic tribes of the Land of the Lions, often applied honey to their simple foods. Whenever a clan, family, or tribe of Shad'iar hosted members of another tribe they would serve sweets made from congealed honey.
+Individuals
+ The Azuposi spirit Alosaka typically carried around a netted gourd in his left hand that contained either water or honey.
+ Honey was one of the favored foods of Bahamut, the dragon god of justice.
+ Bepis Honeymaker was a renowned honey merchant in the city of Waterdeep.
+ The demigod Caoimhin adored the taste of honey.
+ Dradeel used honey as an ingredient in his monkey balls recipe.
+ The deity Nathair Sgiathach was preferential to apple pies made with honey.
+ Nell Kirschtorte's little bakery in Liam's Hold circa 1372 DR, sold toffie apples, a delicious honey-dipped treat.
+
+Races & Intelligent Creatures
+ Among fey, honey was especially loved by atomies and grigs, who would trick bees into giving it to them. Some grigs were also known to gift fresh honey from the Feywild to those who got offended by their pranks.
+ Badgers were often attracted to honey.
+ The Batiri of Chult were known to tie their enemies to trees, douse them in honey, and then leave them to be eaten away by jungle insects.
+ Bears, owlbears, and werebears were also known to be fond of honey. The latter were especially enamored with mead containing heavy amounts of the substance.
+ Biclopses were known to forage for honey at twilight hours.
+ Dohwar could be driven to a state of intoxication with just small amounts of honey.
+ Feng huang were fond of honey-flavored water.
+ The small insects known as flies were often attracted to honey, so much so that there existed the proverb, "you catch more flies with honey."
+ Honey was a typical part of the diet of faerie dragons.
+ In the land of Chult, monkey spiders were very fond of honey.
+Regions & Settlements
+ In the land of Anauroch, the Bedine tribesmen would use honey to sweeten the milk of camels and baste gazelle meat.
+ In the city of Arrabar, whipped honey served atop sweet wafers, along with tea, was a popular meal among the nobililty.
+ In the land of Calimshan, honeyed bread was a common feature in meals.
+ In the Western Heartlands, honey was considered a "base staple" ingredient. A vial of the substance could often be found carried by travelers in their spice pouches.
+ In the land of Zakhara, honey was a very popular product among tribesmen and in the markets of Tajar.
+
+Rumors & Legends
+ One legend in the Feywild claimed that pixies stole the secret of making honey from a goblet of mead belonging to the Summer Queen and then sold it to honeybees.
+ The fabled Zakharan city of Iram was said to have rivers of milk and honey.
+
+Appendix
+Appearances
+Adventures
+Under Illefarn
+
+Nightmare Keep
+Novels
+Dragonwall • The Parched Sea • Star of Cursrah • Curse of the Shadowmage • The Simbul's Gift • The Floodgate • Unclean • Undead • The Rose of Sarifal • Blackstaff Tower • Timeless;The Fallbacks: Bound for Ruin
+
+Azure Bonds • Masquerades • Master of Chains • Key of Stars
+Video Games
+Gateway to the Savage Frontier • Baldur's Gate III
+Licensed Adventures & Organized Play
+Once Broken • Web of Destruction
+
+The Death of Szass Tam
+External Links
+
+References
+
+---
+
+## Hoarfrost Blade
+
+The Hoarfrost Blade was a powerful magic longsword from the world of Oerth.
+
+Powers
+The Hoarfrost Blade possessed a set of various powerful magic enchantments. The blade itself was a +2 longsword that caused additional cold damage. The Hoarfrost Blade was especially effective against creatures not native to the Prime Material Plane, effectively becoming a +4 enchantment.
+
+The user of the blade was able to cast the endure elements spell once per day.
+
+History
+According to sages, Hoarfrost Blade's origins were from the world of Oerth. A hero of that world, Scaldulin, discovered the blade in the heart of a glacier and managed to acquire it. The Hoarfrost Blade was used by Scaldulin against a legion of demons in the fabled Battle of the Thousand Dead, and later, the blade sliced the hand of the powerful lich Scaroth the Warped of Blackmoor.
+
+Eventually, the Hoarfrost Blade accompanied its master in his fall and transformation into a death knight, slaughtering a solar named Arazium in the process.
+
+The blade made its way to Toril at some point before 1372 DR, broken in pieces. The sword's blade was snapped and its shards were brought to Toril by Loru, a death slaad, and its haft was in the hands of half-celestial criminal Alaffinel. Eventually, the blade was reforged by the masterful strokes of Derval Ironeater of Daggerford in 1372 DR.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Hook Isle
+
+Hook Isle was a hook-shaped island that was part of the Nelanther Isles, located south of the Dragon's Head Peninsula. The island was southeast of Nemessor and just to the north of Thordentor.
+
+Notable Locations
+The Bay of Skulls was the bay near the center of the island that gave the island it's noticeable crescent or hook shape.
+
+History
+In 1360 DR, the Wyrmskull Throne was discovered here briefly by pirates taking shelter in the Bay of Skulls. It was lost again shortly after.
+
+Appendix
+References
+
+---
+
+## Hostim
+
+Hostim was a village in Tethyr that supplied the city of Ithmong (later Darromar) with food.
+
+Description
+Hostim was a small hamlet of about 80 to 100 persons living in 12 to 15 simple homes. The village was surrounded by farmland and pastures for keeping herds of cattle.
+
+Geography
+Hostim was located in the county of Ithmonn, in the Crown Lands of Tethyr. It sat in a grassy area with only minimal tree cover, northwest of the city of Ithmong about  from the Ithal Road.
+
+History
+During the Time of Troubles in 1358 DR, many of the crops in Hostim and the surrounding villages were destroyed in the chaos of that world-shattering event. A month after the Time of Troubles ended, however, things did not return to normal. Instead, the population of monsters in the region seemed to increase, and this led to a shortage of food in nearby Ithmong, which relied on Hostim and other nearby villages for food. In particular, near Hostim, a tribe of trolls settled in a hill cave about  north of the village.
+
+These monsters were, in fact, summoned to the region by a series of Thayvian beacons as part of a plot by the Knights of the Shield and Inselm Hhune to prevent Ernest Gallowglass from rising to power over all of Tethyr—a position that Hhune himself wanted—during the time of anarchy known as the Tethyrian Interregnum.
+
+The Company of Eight became involved and hired a group of adventurers to investigate the area and determine the cause of all the monster attacks.
+
+Appendix
+Appearances
+ Dungeon #38, "A Blight On The Land"
+
+References
+
+---
+
+## Hoshi Katahiroi
+
+Hoshi Katahiroi was a daimyo of a province in Kara-Tur.It is unknown where in Kara-Tur; Wa and Kozakura are two likely candidates.
+
+History
+Some time before the mid–14 century DR,The date is unknown; this is only "many years ago" from a presumed setting date of 1357 DR. The Faerûnian calendar is used in the absence of any other. Hoshi's province was devastated by severe tempests and lightning strikes that ignited fires. Hoshi's respected shukenja advisors quickly divined that this weather was not natural, but the work of a mighty dragon of a type never encountered before, dubbed "Celestial Fury". Some thought it arose from the primal chaos of a time before Kara-Tur's creation, others that it was a modern abomination.
+
+Hoshi wished the dragon dead to spare his province more devastation. Thus he commissioned a reclusive weaponsmith and master of mystic arts named Chigatta to forge for him a weapon that could destroy the dragon's spirit as well as its body. Chigatta created a katana, more fine than anyone could've imagined, and gave it the name of the dragon it was meant to slay, Celestial Fury.
+
+The sword was imbued with the power of flight and so Hoshi took to the skies to hunt the dragon through the storm clouds. For days, a dragon's roars and a man's shouts echoed across the skies, and lightning flashed through the nights. Finally, Hoshi was victorious, slaying the dragon's body and trapping its spirit inside his sword. The two Celestial Furies became one and the sword's order was imposed on the dragon's chaos.
+
+To celebrate his triumph, and cement the dragon's defeat, Hoshi then asked Chigatta to craft a scabbard from the dragon's hide and to embed the dragon's magical pearl in the hilt.
+
+Unfortunately, while Hoshi was a great warrior, he was weak of will and the dragon's spirit possessed him. Under the dragon's control, Hoshi killed first Chigatta, and then himself. The blade disappeared shortly afterward, probably abandoned by Hoshi's grief-stricken family.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Hornung's guess
+
+Hornung's guess was a wild magic spell that was developed by the famous wild mage Hornung the Anarch in order to improve his estimates.
+
+Effects
+Hornung's guess was an area-of-effect spell with a range of over . It instantaneously provided its caster with highly accurate estimation of the numbers of individual people or a general class of objects within a group. All objects had to be within the spell's range and all people had to be visible to the caster.
+
+The estimates provided by this spell were accurate to the largest factor of ten rounded up. For example, if used upon a group of horsemen that numbered thirty-seven in all then the spell would likely estimate their numbers to be forty individuals.
+
+Components
+This spell required only a verbal component.
+
+History
+In the 14 century DR, the Diviner's Guild of Ravens Bluff actively sold scrolls containing Hornung's guess for around 1,400 gp.
+
+Notable Users
+ This spell was known to be particularly popular with moneylenders and military generals, as it could be used to quickly estimate the size of army units or treasure hordes.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Honors Unforeseen
+
+Honors Unforeseen is an adventure module set in the Forgotten Realms using the Dungeons & Dragons 5 edition ruleset. It is part of the Avernus Rising series of adventures published for the D&D Adventurers League. It focuses on Avernus, and is an adventure designed for 11- to 16-level characters. It is part two of Doors and Corners.
+
+Index
+Characters
+Dara • Gidor Honorsbright • Horst Atheraice • Sareash • Spurhund • Yalanue
+
+Zariel
+Creatures
+chain devil • death knight • flameskull • hell hound • human • incubus • imp • orthon • succubus • wood elf
+Locations
+Planes Avernus
+
+Elturel
+
+Magic
+Items fochlucan bandore • ioun stone of leadership • soul coin • wards of faithfulness
+Potions potion of superior healing
+Spells Aganazzar's scorcher • alarm • banishment • blur • chain lightning • command • compelled duel • confusion • continual flame • counterspell • cure wounds • destructive wave • dispel magic • divination • dominate monster • dominate person • elemental weapon • feeblemind • fireball • flaming sphere • glyph of warding • greater invisibility • greater restoration • guards and wards • hold person • identify • lesser restoration • light • mage hand • magic missile • magic weapon • mass suggestion • minor illusion • mirage arcane • nondetection • Power word, kill • prayer of healing • prismatic spray • raise dead • ray of enfeeblement • remove curse • revivify • searing smite • shield • sleep • speak with dead • staggering smite • suggestion • symbol • true resurrection • vampiric touch • vicious mockery •
+
+Organizations
+Bloody Hooves • Hellriders
+Player Factions  Emerald Enclave • Harpers • Lords' Alliance • Order of the Gauntlet • Zhentarim
+Religion
+
+Ilmater
+
+Credits
+ D&D Adventurers League Guildmaster: Chris Lindsay
+ D&D Adventurers League Wizards Team: Chris Lindsay, Adam Lee, Mike Mearls, Ari Levitch
+ D&D Adventurers League Administrator(s): Amy Lynn Dzura, Claire Hoffman, LaTia Bryant, Lysa Penrose, Matt Crook, Travis Woodall, Greg Marks, Alan Patrick, Amy Lynn Dzura
+ Art Director and Graphic Designer: Rich Lescouflair
+ Interior Art: Provided by Wizards of the Coast
+ Playtesters: Gary Affeldt, Rick Brown, Pascal Corbeil, Jean-Francois Bouchard, Simon Goudreault, Yan Guillemette, David Krolnik, Ben Siekert
+
+Appendix
+External Links
+
+ Avernus Rising Adventurer's League
+
+References
+
+Connections
+
+---
+
+## Hourglass
+
+Hourglasses, also known as sandglasses or sand-clocks, were a type of tool used for tracking the passage of time. They typically tracked the passage of one or more hours, hence their name, though some known as minuteglasses were designed to track specific minute timeframes.
+
+Description
+
+An hourglass consisted of two bulbous, glass globes connected by a narrow passage. These globes were held together by a frame, typically made of wood, that itself was held together by twine and screws. The glass globes were filled with sand that traveled from the topmost bulb to the lower one, passing through the narrow passage that connected them.
+
+Variants
+ Egg timer: A type of small sandglass that was used to keep track of time while cooking.
+ Scornubrian sandglass: A type of minuteglass that was produced in the city of Scornubel.
+
+History
+Hourglasses dated as far back as the time of Netheril, where they first became available in .
+
+Throughout the 14 century DR, Aurora's Whole Realms Catalogue offered one and two hour sandglasses, as well as minuteglasses that counted intervals of ten minutes, five minutes, one minute, and a half-minute. All of these timepieces within the catalogue were both casted and given an ornate paintjob in the land of Calimshan, then filled with precise measurements of sand in Waterdeep.
+
+Notable Users of Hourglasses
+Classes
+ Mages sometimes had hourglasses among their belongings.
+ A proper wizard's laboratory in the Realms typically contained sandglasses that counted intervals of a half-minute, minute, five minute, and hour. They were considered to be crucial for tracking the success of chemical research.
+Magic
+ An hourglass constructed of gold and silver was used to house aquamarines of spell extending.
+Religions
+ The ancient deity Chronos was typically depicted alongside an hourglass.
+
+Trivia
+
+ The Temple Beyond Time was in the shape of an elongated hourglass.
+ Within the center of Winterspace was a cluster of stars that many observers described as resembling an hourglass.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Hoikosoi
+
+Hoikosoi was a farming village, one of the many isolated villages of the Fochu Peninsula in Wa.
+
+Description
+Hoikosoi was unique on the Peninsula for having very fertile soil, which was used to grow vegetables and raise cattle.
+
+Most of the structures within the village were simple peasant shacks known as minka, built from wood with latticed walls and straw-thatched roofs. Apart from these poor residences were small barns, warehouses, and shops.
+
+The people of Hoikosoi were especially suspicious of strangers and refused to allow any to enter their settlement. The hamlet had a population of only about 95 individuals after .
+
+Geography
+Hoikosoi was located in the south of the island of Tsukishima, on the east of the Fochu Peninsula near the Momoben Forest.
+
+Government
+Villages in Wa were run by an administrator known as a shoya, typically a minor samurai.
+
+Defenses
+About ten citizens of Hoikosoi served in its militia. These persons were only armed with simple clubs or spears.
+
+Religion
+Unlike the other settlements in the region, the people of Hoikosoi were not particularly religious.
+
+History
+Sometime after Wa Year 1770 (1352 DR), deposed coiled dragon Za-Jikku began murdering citizens of the many villages of the Fochu Peninsula, transforming them into magical butterflies, the breath of which would create yun ch'i, the vapor of death, which he would use to live forever.
+
+Appendix
+Appearances
+ Test of the Samurai
+
+References
+
+---
+
+## Horoko
+
+Horoko was a bushi warrior turned landscape gardener in the town of Aru in Wa in the 1770s on the Wa Calendar.
+
+Description
+He had a tattoo resembling a "flame knife" on his right arm. He loved sake.
+
+History
+On one campaign, Horoko and his comrades had too much sake and went to a tattoo parlor. Horoko wound up with his tattoo, and couldn't recall how or why.
+
+He later hung up his sword and began a new career as a landscape gardener in Aru. However, when he visited public baths in, his tattoo may have been misidentified by adventurers as the similar flame-knife tattoo of the Yamaguchi ninja clan, which could lead to conflict.
+
+Appendix
+References
+
+---
+
+## Hound of ill omen
+
+The hound of ill omen was a legendary, planar canine beast that appeared to punish mortals for major transgressions against a deity or to defend shadow mages that called upon its protection.
+
+Description
+This creature appeared to be a dark, shadowy wolf-hound that stood  tall at the shoulder.
+
+Behavior
+The hound of ill omen had a basic, animal level of intelligence.
+
+Abilities
+The hound of ill omen appeared before other creatures instantaneously and only briefly, viewable to only a single individual without the aid of magic. Only those who could see the hound were capable of injuring it. If slain, a hound of ill omen reformed on its deity's home plane and all creatures who were involved in its death would suffer the effects of its magical howl—this included even those who merely planned to attack it as well as those whose attacks all missed.
+
+There was a high chance that a deity would send another servant to deal with a transgressor, such as an aasimon or deva, if they killed the hound of ill omen they had sent to punish them.
+
+Offensive
+Upon appearing, they unleashed a booming howl that all creatures within  of it could hear. Afterwards, the hound of ill omen would walk off.
+
+Those who could both see and hear the hound would suffer from the magical effect of its howl—the next ten injuries they suffered would be more severe. If remove curse was cast on the target soon after, this would be decreased to five. Until the requisite number of injuries was met, no manner of healing spells would work on the target. In addition, the injuries sustained had to be outside of a creature's control. If the victim of a hound of ill omen was involved in its killing, then their curse would become even more severe and remove curse could not lessen it.
+
+Creatures subjected to the howl of a hound of ill omen were immediately aware of their transgression against a deity and received an empathic feeling of both death and dread. However, they would be unaware of the nature of their curse until they first suffered an injury.
+
+Combat
+The hound of ill omen did not attack its targets directly.
+
+Ecology
+Diet
+The hound of ill omen fed from the power of its deity and required no other form of nourishment.
+
+Habitats
+These creatures were always found on the home planes of deities.
+
+Relationships
+The hound of ill omen served a variety of deities, but they were particularly a favored monster of Urogalan. They were never known to be attacked by the minions of other deities when on their travels or on a mission.
+
+Rumors & Legends
+Some rumors claimed that there was only one of these hounds in existence, while some sages believed that they were merely manifestations of a deity's will, rather than a true creature.
+
+Appendix
+Gallery
+
+Appearances
+Video Games
+Baldur's Gate III
+References
+
+---
+
+## Hoteo
+
+Hoteo was an emissary of the Celestial Bureaucracy sent to the Fochu Peninsula in Wa to stop the rebel coiled dragon Za-Jikku.
+
+Description
+At least in his human guise, Hoteo appeared as an overweight monk carrying a sack over his shoulder.
+
+Personality
+Hoteo was remembered for his happy demeanor.
+
+Possessions
+Hoteo crafted a powerful magic weapon, the Copper Hammer of Hoteo as a means to defeat Za-Jikko.
+
+History
+Sometime before, the Celestial Bureaucracy sent Hoteo to Wa to put a stop to the rebel behaviors of the dragon Za-Jikku. While appearing as a human monk, Hoteo founded the village of Kareki and crafted his magic copper hammer. However, when the time came for him to face Za-Jikku, the dragon overpowered him. The Bureaucracy transformed Hoteo into a statue carved from a granite boulder that rose from the earth fully crafted and carrying the copper hammer in its hands at the center of Kareki.
+
+Appendix
+Appearances
+ Test of the Samurai
+
+References
+
+---
+
+## Hornung's baneful deflector
+
+Hornung's baneful deflector was a wild magic evocation spell used by wild mages. This spell was developed by Hornung, a mage originally from Toril.
+
+Effects
+This spell partially surrounded the caster in a shimmering hemisphere of transparent force that moved with the caster. The hemisphere served to protect the caster against magical and non-magical missile attacks targeted specifically at them, but it did not protect against explosions from nearby missile attacks.
+
+When a missile struck the baneful defelctor it would deflect and randomly strike a different living target within . The original target was a possible target for this random deflection. If the original target was struck by the deflection then the spell would instantly fail.
+
+Components
+In addition to verbal and somatic components, this spell required a small prism to cast. The prism was shattered during the casting.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Homunculus shield
+
+Homunculus shield was an evocation and necromancy spell used by wizards.
+
+Effects
+This spell allowed the caster to separate a portion of their mind into a magical homunculus. Only the caster could see the homunculus, which looked like a tiny duplicate of the caster.
+
+The caster could perform all of their normal actions while a homunculous shield was active. Perched atop the caster's head, the homunculus could cast teleport, contingency, and any intermediate or lower protective spells so long as they were spells currently memorized by the caster. Any spell cast by the homunculus was cast faster than if the spell were cast under normal conditions. The caster decided which spells the homunculus would cast and the spell was then wiped from the caster's memory as if they had cast it.
+
+The homunculus' health was borrowed from the caster and they could only be harmed by magic. A wizard with an active homunculus shield was particularly vulnerable to the magic jar spell.
+
+Components
+In addition to verbal and somatic components, this spell required a miniature sculptured bust of the spellcaster to cast.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Hornung's random dispatcher
+
+Hornung's random dispatcher was a wild magic abjuration spell used by wild mages. This spell was developed by Hornung, a mage originally from Toril.
+
+Effects
+When the caster uttered a few words this spell would instantly hurl a target creature to a random plane of existence and leave them there. If the current plane that the target was on was the random plane selected then the target would be teleported far away from the caster but remain on the plane. The caster did not have any control on the plane selected for the target.
+
+Components
+This spell required only verbal components to cast.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House of Gems
+
+Onaglym also referred to as the House of Gems was a small stout keep, the headquarters of the Gemcutters' and Jewellers' Guild and the center of the dwarven community of Myth Drannor during the city's renaissance period.
+
+Location
+Onaglym was located to the south from the House of Song and east from Castle Cormanthor. It was also adjacent to the Glim-Gardens grounds to the south, and rose above Stillwater to its west. Carved rock stairs led from Stillwater up to Onaglym, passing directly through a small temple of Haela Brightaxe, so the traveling worshipers could bow their heads to her on the way to the House of Gems.
+
+The House of Gems stood on a rock formation that rose it above the rest of the city. The formation eventually became the upper levels of the Dwarven Dungeons, which eventually became a sprawling busy living, administrative, and communal quarters for the city's dwarves.
+
+Structure
+The House of Gems was a relatively small square keep of noticeably ancient dwarven build. The fortified building was one of very few in Myth Drannor that had crenelations, arrow-slit windows, and a portcullis gate.
+
+The south-eastern tower of the House of Gems had separate entrances at the first floor of the keep, the Dwarven Dungeons, and the tower's top had a trap door and a round opening in the center that let the sunlight.
+
+Interior
+The House of Gems had both main entrance on the surface, and main entrance in the Dwarven Dungeons underneath, with some secret passages that were connected to another part of the Halls of Light.
+
+The tower of the House of Gems held the Room of Words, the magical dwarven archive where the craftsmen kept the copies of the glyphs and words of power from across the city that were commissioned from them by the rulers of Myth Drannor. Some thought that this archive was an attempt for the dwarves, who did not trust magic, to protect themselves.
+
+The room right behind the entrance to the main part of Onaglym was known as the Safekeep Halls. The main part of the second floor was called the Hearthhame Halls, where Harldain Ironbar's office was located along with his personal stash of magical and masterwork items he rescued from the fallen city.
+
+When the ancient water pumps were functioning, the rhythmic calming sound of the mechanism moving, akin to a slow heartbeat, could be heard throughout the keep.
+
+Defenses
+The main defenses of the House of Gems after the city's fall were countless mechanical traps on the keep's first floor, most of which remained unsprung into 1369 DR. The Safekeep Halls were defended by a powerful dwarven statue golem. The next room, past the Safekeep Halls was trapped with a huge lightning generating trap that incinerated any unwitting intruder.
+
+History
+
+In the early days of not yet strong Myth Drannor, Onaglym was a dwarven stronghold storehouse built to withstand the attacks of the roaming aggressive orc tribes.
+
+Later, the structure was officially given the name Onaglym, the House of Gems and became the  Gemcutters' and Jewellers' Guild hall of Myth Drannor. The city itself, and the House of Gems were protected by many magics, which attracted the dwarven gem-cutters, and crafters from all around. They arrived to the city with their good and wares ready for trade. There, the precious gems were graded and deposited for safe-keeping. The House of Gems was a big part of the city's trade and economy.
+
+The skilled dwarven crafters of the House of Gems under the leadership of Lord Harldain Ironbar constructed complex system of water pumps that supplied the ares and fountains of Myth Drannor and Dwarven Dungeons with both mundane and magically enchanted waters. It was pulled from deep underground freshwater sources, protecting the city from their reservoirs being poisoned. They were called the Lifespring Wells. The dwarves allowed naiads to dwell in the water ways of the city for additional defense. Another wonder of craftsmanship was the sophisticated air vent systems that ran through all the levels of the Dwarven Dungeons and the House of Gems itself, called the Channels of the Earthborn Wind. The winding walkways around the Castle Cormanthor and Windrider Glade were constructed under Harldain Ironbar's supervision, as well as the ingenious "liquid fire", used for illumination of the Dwarven Dungeons and Elven Catacombs.
+
+The dwarves of Onaglym also created the original gem of the weave used to focus the magic of the mythal.
+
+In the final stretch of the Weeping War, the last of the surviving dwarves disabled the Lifespring Wells, stopping he water pumps, and flooded the Onaglym's gem-filled vaults.
+
+After the fall of Myth Drannor and Harldain's death, the dwarf lords still kept an eye on the House of Gems in his ghostly state. During his life, and undeath, he accumulated countless treasures and dwarven artifacts, weapons, and armor he rescued from the ruins of the City of Song and kept safe from pillaging monsters and looting opportunistic adventurers.
+
+In 1369 DR the Cult of the Dragon led by Kya Mordrayn took over parts of the ruined Myth Drannor aiming at corruption of the city's mythal and the pool of radiance under Castle Cormanthor. Eventually the cultist took over the House of Gems' Room of Words in order to be able to breach countless seals left behind by the retreating survivors of the Weeping War.
+
+Rumors & Legends
+There were countless rumors of the vast treasure of the gem-cutting guild still hidden in the depths of the ruined House of Gems.
+
+Inhabitants
+Harldain Ironbar - the Lord of the dwarves of Onaglym who resided there in life and haunted it in death as of 1369 DR.
+The undead were haunting the Onaglym grounds in 1369 DR, created by the pool of radiance's  spawn pool until it was destroyed by the adventurers from Phlan.
+Members of the Cult of the Dragon briefly occupied the round tower of the House of Gems in 1369 DR.
+
+Appendix
+Appearances
+Novels
+Pool of Radiance: Ruins of Myth Drannor
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Home Guard
+
+The Home Guard, also known as Benju's Home Guard, were a unit of samurai protecting the town of Aru and Aru Province in the nation of Wa in the 1770s on the Wa Calendar.
+
+Organization
+The Home Guard were commanded directly by Toshikazu Wada and were in the service of Benju Matsutomo, the daimyo of the province. They were trained by Yuji Takaesu, a vassal and friend of Benju. Yuji was assisted by Buntaro Ostato, who also had some authority over the samurai.
+
+Thanks to Yuji's training, the Home Guard samurai were among the finest in the country, said to be equal even to the shogun's personal bodyguard, and were known to be incorruptible. Members were disciplined and loyal.
+
+Activities
+They patrolled the passes of the surrounding Ikuyu Mountains and escorted the trains of pilgrim both visiting and leaving Aru. They also maintained peace in the town and its environs, by operating as a police force and serving as guards at the town gates, ward gates, watchtowers, temples and shrines, while also patrolling the streets. They provided security at official functions for the daimyo and dignitaries and acted as bodyguards for the daimyo himself. They also engaged in crowd control during events such as the Ceremony of the Three Thousand Steps conducted at the Shining Temple of Bishamon.
+
+Base of Operations
+The samurai lived and were based in the Castle District of Aru.
+
+Possessions
+They were armed at all times with a "daisho" of katana and wakizashi, and might carry a daikyu (bow) with twelve arrows, a sode garami or a mancatcher as needed for an assignment. They had a uniform with a brown kimono and could wear any kind of armor according to the situation, from none at all to leather armor to scale mail.
+
+History
+
+In the summer of, in the lead-up to the Ceremony of the Three Thousand Steps, the Home Guard samurai took part in numerous activities in and around Aru, including summoning an adventuring party hired by Benju to meetings with him and others, assisting in their investigations into strange occurrences in the town, guarding official functions and the Shining Temple of Bishamon, and defending against the Yamaguchi ninja in their attacks on Benju and his advisors in the Castle District.
+
+Notable Members
+ Toshikazu Wada, commander
+ Tsukku, a lieutenant
+
+Appendix
+Appearances
+ Ninja Wars
+
+References
+
+---
+
+## Hordling
+
+Hordlings, sometimes spelled hordelings, were the marauding abominations that made up the uncountable hordes of Hades. Each hordling was unique in body and mind, a force of destruction of unpredictable nature.
+
+Description
+Hordlings were a race of fiends that defied classification, their appearances, forms, and sizes varying so drastically that it was said that no two were exactly alike, although given their numbers it was impossible to be sure. The only traits their innumerable forms seemed to have in common were relative smallness—they were typically somewhere under  in height, but this wasn't a rule—and universal hideousness.
+
+Personality
+Fittingly for a race as visually distinct as theirs, hordlings were chaotic in behavior. They were rebellious, disorderly, erratic, undisciplined, and bickering, sometimes leaving certain creatures alone and at other times attacking without warning. To peer inside the mind of a hordling was to find cluttering clouds of perpetual anger, passionately burning hate, and truly vile pettiness. They were the ultimate expressions of evil without order, linked in mentality only by their penchant for bestial, rampaging destruction.
+
+Not even this role, however, could hordlings be trusted to fulfill, since it didn't take much to make them desert. They had varying levels of intelligence, some being as mindlessly marauding as lemures and others displaying enough cunning to outfox humans. The only thing hordlings seemed to recognize as a group was weakness, and they pounced on anyone that demonstrated it.
+
+Despite their general disposition, every hordling was an individual creature, and their seemingly indistinct hatred was an expression of independence. Behind the rage was a miserable creature in a state of inner torment, an entity that retained a warped sense of self by refusing to let go of their hates in a fierce struggle for individuality. Every hordling had their own form of loathing, fostered through their own means for their own ends, thus did their unique inner hatred create their distinctive outer selves.
+
+It was said that three behavioral categories of hordlings existed in different parts of the Outer Planes. The hordlings of the Gray Wastes were insidious and disturbing, those from the Red Prison of Carceri brutal and thuggish, and those from the sanity-eroding plane of Pandemonium were murderous madmen, with the Abyss holding all types. Such differences were so slight, however, that they were only evident to the hordlings themselves.
+
+Abilities
+The powers of the hordlings were as vast as the variety of their forms. For whatever reason, they could all become near-invisible for up to ten minutes, although this required a minute of preparation. There was also the fact that, despite having a host of unusual and sometimes supernatural powers, no hordling had spell-like abilities, separating them from most fiends.
+
+Aside from that, there was no telling what an individual hordling could be capable of. Some had breath weapons, gaze attacks, phasing, sonic blasts, and could spit or shoot all manner of globs, bolts and beams. That wasn't to mention the mere physical harm they could do, as each was equipped with a random number of claws, fangs, hooves, tentacles, pincers, tusks, tails, spines, and wings to rend, bite, crush, grab, pierce, gore, slash, trip, and bludgeon. An element that one was immune to could be the crippling weakness or natural product of another, and their resistance to physical attacks, magic, and energy, to say nothing of their individual levels of regeneration, could all wildly vary.
+
+Combat
+Though their exact fighting style differed based on individual intelligence and abilities, hordlings were generally brutes, charging directly into combat and ripping into their enemies. They often made use of whatever extremity they were afforded at the time of their conception, though some with usable hands were known to wield weapons.
+
+Individually, many hordlings could do little more than annoy with their random selection of traits, but it was when they gathered into their hordes that the race became truly dangerous. Their frenzied swarms flowed from target to target, dragging down their opposition like waves of flesh. Like a wave however, the flow of a hordling mob could be broken, either by a large enough effect causing them to scatter or due to individuals getting distracting and breaking away from the herd to do something else, such as lapping up a freshly spilt puddle of blood.
+
+Society
+
+Hordlings had no purpose, organization or culture, producing nothing of value and giving only destruction. They often traveled in huge packs and could commonly be seen in groups of 2-6, tearing apart whatever they came across with little regard for boundaries of civilization. It was said they never attacked their own kind, although in a strange display of tribalism, a hordling's deepest hate was reserved for hordlings from different planes of existence. Regardless, the statement was simply untrue, for hordlings did as they pleased and would destroy the weak regardless of origin.
+
+Sometimes a strong leader like a night hag or a yugoloth such as an arcanaloth, was able to maintain a retinue of a few hordlings, but rarely could they do so for very long. Attempts to press them into the Blood War by overeager fiends routinely ended in failure, even for the tanar'ri. The fact was that even by the abysmally low standards of demonkind, hordlings were infamously unruly, with most packs submitting only temporarily before self-terminating due to desertion, infighting, and mutiny, especially if weakness was spotted in their so-called commanders.
+
+They were too undisciplined to take orders and too dauntless to be intimidated back into line, and ironically it was easier for the demons to simply use the less actively rebellious manes and mildly socially conscious (and therefore relatively reliable) dretches as cannon fodder instead. Rather than try to utilize them in warfare, except sometimes as ballistic missiles, most demons used the hordlings to amuse themselves, either in murderous demon games or just as food. This attitude extended to most powerful beings of the lower planes, who saw the infinite mass of relatively weak creatures as consequence-free food and entertainment.
+
+Sometimes evil mages tried summoning hordlings to do their bidding, although doing so would require them to call one at a time. Simply trying to talk to a hordling however was an ordeal, primarily because most of them lacked a common form of communication. Abyssal was the most likely language that they knew, but one would be lucky to find one that spoke an understandable tongue at all.
+
+Ecology
+
+The hordlings were said to be a result of the sheer malice contained in their home planes. The misshapen creatures made up the majority of Hades's population and were believed to exist in infinite number in the infinite Abyss, though nothing stopped them from spilling onto neighboring lower planes and they had been reported to exist as far afield as the Nine Hells. They emerged from the toxic environment of the Abyss, spawned from the union of raw elemental matter and unfiltered evil. Despite not caring about the Blood War, they were more numerous in places where carnage had just occurred, for the Abyss recycled the raw material of corpses to create more of them.
+
+Some rumors stated that hordlings were a form of evolved larva, primarily the petitioners of the Gray Wastes but sometimes found on other planes. If that were true, it would imply a frightening number of souls not only to devoted themselves to selfish wickedness but whose residing hatred was enough to resist the Gray Wastes and twist them into new forms. Since hordlings lacked their own form of promotion, they were generally stuck with whatever form they got for however long their typically short lives were.
+
+Those hordlings that survived long enough often grew in size and power but not in shape or ability, but it was theorized, albeit with no reported records to back up the assertion, that a sufficiently long-lived hordling would evolve into a new kind of fiend such as a new variety of demon. One theory was that some night hags were evolved hordlings who had learned how to turn their hate into something constructive.
+
+Gender
+
+Hordlings could be male, female, both, or neither, and it was rumored that some hordling-descended tieflings existed, although if they did they were likely exceedingly rare given their fiendish progenitors complete lack of anything resembling parental instinct.
+
+History
+A few known artifacts were able to summon large groups of hordlings at the same time. One such device was known as the Bringer of Doom, an ancient item said to have been created shortly after the Abyss appeared in a time period known as the Age of Doom or Invoked Destruction. Made by an ancient culture whose scientific rigor and passion for magic overcame their sense, the Bringer of Doom took the form of a small wooden box with a circular, dark-red gemstone on top of it. When the gem was touched and depressed, the box would explode in a blinding flash of absolute annihilation, utterly destroying everything in . This also ripped a temporary portal to one of the lower planes from which 100-1000 hordlings would emerge, rarely accompanied by a greater fiend of some kind, before the box reformed somewhere else.
+
+Another object was Arodnap's Box, a  magical artifact made by Wee Jas to contain a rift leading to Pandemonium. Even Wee Jas's godly powers however weren't enough to permanently contain the rift's power, and it had become fragile and rickety with time. Occasionally a hordling, or sometimes worse, slipped through the box, allowing numerous fiends to crawl through over time.
+
+Rumors and Legends
+It was rumored that within the Gray Wastes was a village of a few dozen hordlings that had managed to surpass their hate, build up a defense against the plane's despair, and were slowly purging themselves of evil. If true, it brought up interesting questions, such as if they'd stay the same, turn into soul larva, or regain their mortal forms, although the entire claim was questionable and possibly a night hag scheme to lure the curious into Hades.
+
+Notable Hordlings
+Phalse, a powerful hordling whose true form resembled that of a beholder with mouths at the end of the stalks instead of eyes. He considered the god of decay Moander to be his ancient adversary. He allied with the evil wizard Cassana in 1357 DR to use Finder Wyvernspur's designs to create a powerful and immortal construct weapon that later became the hero Alias.
+
+Appendix
+Appearances
+Adventures
+Swords of the Iron Legion
+
+Curse of the Azure Bonds
+Novels
+Azure Bonds
+
+Song of the Saurials • ''Masquerades
+
+References
+
+Connections
+
+---
+
+## House of Asad
+
+The House of Asad, also called the Children of the Lion, was a powerful desert tribe of Al-Badia found in the High Desert of west Zakhara in 1367 DR.
+
+Organization
+Nearly five thousand enlightened men and women, divided into twenty separate clans, formed the House of Asad. With strong camels, beautiful daughters, and fine sons, this tribe was one of the wealthiest throughout the vast High Desert. Their pride as a whole bordered on sheer arrogance. Members of the House of Asad were typically very friendly but also easily offended.
+
+Base of Operations
+The House of Asad claimed the Jamal Oasis, though they allowed enlightened nomads to use the life-giving oasis as well.
+
+Members
+The leader of the House of Asad in 1367 DR was Sheikh Najib bin Kamal al-Asad. Najib's wife, Alia al-Jamal, took an active role in the leadership of the tribe.
+
+Appendix
+
+References
+
+---
+
+## House Bakr
+
+House Bakr, also called the Clan of the Young Camel, was an enlightened desert tribe of Al-Badia spread across west Zakhara in 1367 DR.
+
+Base of Operations
+In 1367 DR, most of the tribe abandoned their desert life in favor of living in and around the city of Tajar where their sheikh ruled. Still, some 500 of them preferred to stay true to their ancient ways and remained within the High Desert.
+
+Relationship
+Many members of House Bakr married into other desert tribes.
+
+Members
+Sheikh Ali al-Hadd was the leader of the House of Bakr, as well as the city of Tajar, in 1367 DR. Ajan al-Yaqud led the portion of the tribe living within the High Desert.
+
+Appendix
+
+References
+
+---
+
+## House of Dhi'b
+
+The House of Dhi'b, also called the Sons of the Wolf, was a large desert tribe of enlightened Al-Badia found in the High Desert of west Zakhara around 1367 DR.
+
+Organization
+Four thousand Zakharans formed the House of Dhi'b. Many of these men and women were craftsmen and herders, but plenty of strong warriors were also among their ranks. Several clans from the tribe, numbering around 200 members each, raided caravans traveling through the south and south-central regions of the desert.
+
+Activities
+Warriors of the House of Dhi'b rode with Kori al-Zafiri against the sultan of Tajar and deposed him.
+
+Relationships
+Over the years, the House of Dhi'b had allied itself with or against most of the major tribes of the High Desert depending on their current circumstances. In 1367 DR, an alliance was offered to members of House Bakr who still lived within the High Desert.
+
+Members
+Sheikh Anwat al-Makkar ruled the House of Dhi'b in 1367 DR.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Horath
+
+Horath was an unlucky shepherd from the outskirts of Luskan who was killed by a dire wolf while tending to his sheep not far from the High Road circa 1490 DR.
+
+Possessions
+Before his death, Horath briefly wielded his father's handaxe called Wolfsbane, albeit unskillfully.
+
+History
+Sometime around 1490 DR, Horath agreed to tend to his friend Jared's sheep herd outside of Luskan, while Jared himself was happily drinking ale at the Cutlass with Horath's sister. The unlucky shepherd was not informed of the constant threat of wolves in the area. Horath encountered the wolf pack leader, a dire wold the size of a horse, luckily, he brought along his father's enchanted handaxe called the Wolfsbane. In the end, Horath was not proficient in handling weapons and fell to the hungry dire wolf. His final thoughts were that Jared intentionally set him to be killed on that task.
+
+Appendix
+Appearances
+Video Games
+Sword Coast Legends
+References
+
+---
+
+## House of Dubb
+
+The House of Dubb, also called the House of the Bear, was a large desert tribe of enlightened Al-Badia found in the southwest region of the High Desert of west Zakhara around 1367 DR.
+
+Base of Operations
+This tribe inhabited the southwest region of the desert bordering Al-Suqut Mountains within the Pearl Cities.
+
+Organization
+The House of Dubb numbered 3,000 tribesmen at the height of their power and were divided into nine separate clans.
+
+Activities
+Many members of the House of Dubb were herdsmen, but some of the clans harvested aromatic gums within the Realm of Bleeding Trees. The gums were traded with the city of Ajayib, with whom the tribe developed an excellent relationship.
+
+Relationships
+The House of Dubb aided Ajayib in the caliph's raids against the mountain people of Al-Suqut.
+
+Members
+Sheikh Yaqub al-Quwwat led the House of Dubb in 1367 DR.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Hanif
+
+The House of Hanif was the largest desert tribe of enlightened Al-Badia within the Haunted Lands around 1367 DR.
+
+Base of Operations
+The tribe lived within the vast expanse of the Haunted Lands, controlling a region surrounding both the Ghost Mountains and Al-Akara Mountains. They maintained a permanent base a day's ride west of Halwa in a qal'at once held by holy slayers.
+
+Activities
+The House of Hanif sent an ambassador, Kerim bin Hanif, to represent them at the court of Huzuz. They were intensely loyal to the Grand Caliph, to the point where the other tribes of the Haunted Lands referred to them as the "Grand Caliph's hunting dogs." Lost pilgrims en route to Huzuz were often rescued by the tribe.
+
+Members
+Sheikh Kaldun bin Hanif ruled the tribe in 1367 DR. Their number swelled to around 10,000.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Nasr
+
+The House of Nasr, also called the People of the Eagle, was a large desert tribe of enlightened Al-Badia found in the northern reaches of the High Desert of west Zakhara around 1367 DR.
+
+Base of Operations
+The Desert Mosque was maintained by this tribe.
+
+Organization
+Some 3,000 Zakharans, split among thirty different clans, made up the House of Nasr.
+
+Activities
+Each year a different clan was entrusted with protecting and maintaining the Desert Mosque.
+
+Members
+Sheikh Nadia umm Fadela lead the House of Nasr in 1367 DR.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Tayif
+
+The House of Tayif, also called the Ghost-Warriors, was a smaller tribe of unenlightened Al-Badia found in the High Desert of west Zakhara around 1367 DR.
+
+Base of Operations
+The House of Tayif ranged from just outside of Qudra in the north all the way to the Realm of Bleeding Trees in the south. True to the name of "Ghost-Warriors," their movements did not seem humanly possible given the speed at which they struck.
+
+Organization
+A thousand unenlightened Zakharans formed the tribe. In truth, the tribe's numbers seemed to be much higher since they roamed the entire expanse of the High Desert.
+
+Activities
+This tribe survived purely by raiding. All of the raiders were masked and wore white during battle to hide their appearance.
+
+Members
+Sheikh Mouli al-Ajami ruled the House of Tayif in 1367 DR.
+
+Relationships
+The other tribes of the High Desert did not deal with the House of Tayif unless it was to clash arms.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Thawr
+
+The House of Thawr, also called the Children of the Bull, was a tribe of enlightened Al-Badia found in the High Desert of west Zakhara around 1367 DR.
+
+Base of Operations
+The House of Thawr lived within the southeastern region of the desert within the Pearl Cities.
+
+Organization
+A recent exodus of tribesmen leaving for employment or adventure in the Pearl Cities left the tribe with 1,500 members.
+
+Activities
+The tribe raided border regions for horses and other supplies that they could not gain by trading. At first these raids were a minor annoyance, but the Pearl Cities began retaliating severely, prompting the tribe to consider retreating deeper into the desert for protection. Another viable option for the tribe would be to move north and seek shelter with the members of House Bakr in Tajar. The tribe's Sheikh was reluctant to approve these plans, speaking instead of a cleansing wind that would resolve their conflicts.
+
+Members
+Sheikh Ali al-Sadid ruled the House of Thawr in 1367 DR.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Uqab
+
+The House of Uqab, also called the League of the Vulture, was a tribe of loosely enlightened Al-Badia found in the High Desert of west Zakhara around 1367 DR.
+
+Organization
+Made up primarily of 2,500 outcasts of the desert, the House of Uqab considered themselves enlightened, but they held little respect for both the Grand Caliph and the Zakharan gods. Savages and other mountain tribes joined their ranks regularly. These individuals were often used on the front line of any attack to soften the enemy.
+
+Activities
+This tribe survived by raiding caravans and robbing others. They attacked any adventurers in the desert without question.
+
+Members
+Sheikh Hanjar al-Haqara ruled the House of Uqab in 1367 DR.
+
+Relationships
+The more civilized tribes of the High Desert looked up the House of Uqab with disgust.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Hotek
+
+The House of Hotek was a smaller tribe of enlightened Al-Badia within the Haunted Lands around 1367 DR who were intent on disrupting the city of Hiyal.
+
+Base of Operations
+This tribe traditionally roamed the northwest region of the Haunted Lands.
+
+Activities
+The sheikh of the Hotek preached against Hiyal and its Sultana, causing the tribe's ranks to swell beyond their previous count of 2,000 members. Many smaller clans hurt or oppressed by the Sultana flocked to the House of Hotek's side.
+
+The increased raiding done by the House of Hotek begun to bring them into conflict with the House of Hanif who, as loyal servants to the Grand Caliph and his vassals, were honor-bound to protect Hiyal.
+
+Members
+Sheikh Ibrin ruled the tribe in 1367 DR.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Bulad
+
+The House of Bulad was a family of weaponsmiths whom many considered to be some of the best in all of Zakhara around 1367 DR.
+
+Base of Operations
+The fires of the House of Bulad's smiths burned throughout the night in the foundries located just up Al-Wahl River from Hiyal.
+
+Members
+Their patriarch, Bulad, specialized in forging swords. His daughter, Fuladayah bint Bulad, took over her father's duties upon his death.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Hook, Line, and Sinker
+
+Hook, Line, and Sinker was a tavern located in the settlement of Caer-Konig in the Ten Towns of Icewind Dale during the late 15 century DR. It was readily identifiable as the most popular locale in the entire town.
+
+Location
+The tavern was located in the town's market square.
+
+Services
+The tavern's owner Eglendar "Glen" Korr had a unique marketing scheme that tied into his business' name. The "hook" was the free half-pint of ale personally given to every patron, whereas the "line" referred to the subsequent drinks they invariably ordered afterwards, and the "sinker" was the tavern's last call, which culminated in drinking contests held between town locals and visitors.
+
+The ale the tavern served came from the dwarves of the Dwarven Valley, the settlement at the base of Kelvin's Cairn.
+
+Appendix
+Appearances
+Adventures
+Icewind Dale: Rime of the Frostmaiden
+Video Games
+
+References
+
+---
+
+## House Eselemas
+
+House Eselemas was a tribe of yuan-ti known for their stealth and skill in battle. Yuan-ti from this house were called Eselemaa.
+
+Base of Operations
+Nine Eselemaa ruled Lushpool during the late 14 century DR. These satraps held a majority over Lushpool's sixteen satrapies.
+
+The majority of Eselemaa lived along the shores of the Lapal Sea and the northeastern region of the Mhair Jungles, with settlements forming a "hidden serpent" all the way to Lushpool.
+
+Relationships
+House Eselemas was the sworn enemy of House Se'Sehen, a feud stemming from rival claims to certain areas of the jungles surrounding the Lapal Sea. The Eselemaa allied themselves with House Jennestas, often fighting together against the Se'Sehen. The Coiled Cabal remained on good terms with the Eselemaa because of Lushpool's port access to Tharsult.
+
+Appendix
+References
+
+Connections
+
+---
+
+## House Arkhenneld
+
+House Arkhenneld was a drow house.
+
+Organization
+House Arkhenneld appeared not to be an especially established house, but had some of their members spread around the Underdark.
+
+Activities
+Some members of the house were interested in wizardry, with one becoming an apprentice of Elminster Aumar (which Mystra did not mind), and another becoming Master Emeritus of the School of Enchantment and Charm in Sshamath (and devoting his life to Mystra).
+
+Known Members of House Arkhenneld
+ Calimar Arkhenneld
+ Susprina Arkhenneld
+
+Appendix
+References
+
+---
+
+## House Everhate
+
+House Everhate was a drow house.
+
+Organization
+This drow organization were a known house of the Underdark. The symbol of House Everhate was two crossed blades pointing upwards.
+
+Appendix
+References
+
+---
+
+## House Aleval
+
+House Aleval was a drow house.
+
+Organization
+This drow organization were a known house of the Underdark. The symbol of House Aleval was attached to its defence glyphs from its bottom left corner.
+
+Appendix
+References
+
+---
+
+## House Claddath
+
+House Claddath was a drow house of Ched Nasad.
+
+History
+In 1370 DR, this drow house was the seventh house of Ched Nasad. The matron mother of House Claddath had a seat on the ruling council.
+
+Known Members of House Claddath
+ Talabrina Claddath, matron mother
+
+Appendix
+References
+
+---
+
+## House Arabani
+
+House Arabani might refer to:
+
+ House Arabani (Rilauven), a drow house in Rilauven.
+ House Arabani (Sshamath), a drow house in Sshamath.
+
+---
+
+## House Arabani (Sshamath)
+
+House Arabani was a drow house of Sshamath.
+
+Organization
+This house was not involved in politics and instead were the owners of the Jacinth Rose in the Dark Weavings Bazaar. Here, they sold gems, jewelry, and occasionally ioun stones and gems of seeing. They were reluctant to sell their best wares to non-drow.
+
+History
+House Arabani were once a great and powerful drow house in Sshamath, though this was no longer the case as of 1370 DR. After their downfall, they were still referred to as nobles.
+
+Appendix
+References
+
+---
+
+## House Helviiryn
+
+House Helviiryn was a drow house.
+
+Activities
+A member of House Helviiryn was the Master of Alteration and a member of the Conclave of Ssamath.
+
+Known Members of House Helviiryn
+ Shurdriira Helviiryn, a prominent mage in Sshamath
+ Thirza Helviiryn, a consort who was stationed in Undermountain
+
+Appendix
+Appearances
+Novels
+ Ascendancy of the Last
+References
+
+---
+
+## House Hlaund
+
+House Hlaund was a drow house of Ched Nasad.
+
+History
+In 1370 DR, this drow house was the twelfth house of Ched Nasad. The matron mother of House Hlaund had the final seat on the ruling council. In 1372 DR, House Hlaund was involved in summoning a gargantuan spider that lost control and destroyed much of Ched Nasad.
+
+Known Members of House Hlaund
+ ShriNeerune Hlaund, matron mother
+
+Appendix
+Appearances
+Novels
+ Insurrection
+References
+
+---
+
+## House Maerret
+
+House Maerret was a drow house of Ched Nasad.
+
+History
+In 1370 DR, this drow house was the ninth house of Ched Nasad, and so the matron mother had a seat on the ruling council. In 1372 DR, members of House Maerret were involved in a battle and became overrun.
+
+Known Members of House Maerret
+ Lirdnolu Maerret, the matron mother and a priestess of Lolth
+
+Appendix
+Appearances
+Novels
+ Insurrection
+References
+
+---
+
+## House Rilynt'tar
+
+House Rilynt'tar was a drow house of Ched Nasad.
+
+History
+In 1370 DR, this drow house was the eighth house of Ched Nasad and thus had a seat on the ruling council. In 1372 DR, the house was involved in summoning a guardian spider that raged throughout the city, causing chaos.
+
+Known Members of House Rilynt'tar
+ Ulviirala Rilynt, matron mother
+
+Appendix
+Appearances
+Novels
+ Insurrection
+References
+
+---
+
+## Hobgoblin pantheon
+
+The hobgoblin pantheonThough never explicitly called the "hobgoblin pantheon", Volo's Guide to Monsters and prior material makes it very clear that hobgoblins as a race once had an individual pantheon. For the purposes of this wiki, the pantheon is referred to as such. was an extinct pantheon whose deities were once worshiped by hobgoblins.
+
+History
+The hobgoblin pantheon once had several individual gods, until all but two of them were cut down by Maglubiyet. After this, the pantheon dissolved and its remaining members were forced to join Maglubiyet's united goblinoid pantheon.
+
+Members
+Some known members of the pantheon were:
+ Nomog-Geaya, surviving member and tyrannical deity
+ Bargrivyek, surviving member and deity of duty
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## House of Song (Myth Drannor)
+
+The House of Song was a temple dedicated to the Faerûnian deity Oghma in the city of Myth Drannor. During the glory years of Cormanthyr, it was considered to be the most bountiful library of musical works in the whole of the empire.
+
+Location
+It was located on the north side of Myth Drannor, in the Old City district.
+
+Structure
+The imposing temple was constructed like a fortress. Three of its floors stood above ground, with two more beneath them.
+
+Interior
+The entryway of the temple featured a grand spiral staircase, with steps that floated above one another circling towards the top floor.
+
+Many chambers within the House of Song could only be accessed by those individuals capable of performing certain melodies.
+
+Appendix
+References
+
+---
+
+## House of the Fine Carvers
+
+The House of the Fine Carvers was the guildhall of the Waterdhavian guild of the same name.
+
+Location
+The House of the Fine Carvers was located along the High Road, in the Castle Ward of Waterdeep.
+
+Structure
+This guildhall stood three-stories tall. It was constructed of wood and had a slate roof. It stood out from other nearby buildings due to exterior friezes that depicted both animals and the first Lords of Waterdeep, such as Ahghairon.
+Interior
+The cellar of this guildhall contained a shaft leading down into one of the junction rooms of the sewers of Waterdeep.
+
+Reputation
+The House of the Fine Carvers was among some of the more notable and recognizable guildhalls in the Castle Ward. Like other guildhalls in the Castle Ward, it was considered by locals to be a landmark.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Out of Hatred
+References
+
+---
+
+## Horazak
+
+Horazak was the demon-blooded gray orc leader of a marauding group of humanoids residing in the Underdark and allied with the High Priestess of Lolth Azurna in the mid–14 century DR.
+
+Personality
+Horazak was a cruel, almost animalistic gray orc who managed to dominate his fellow orcs with sheer intelligence, resourcefulness, and lust for power. He was a master tracker and warrior who led a force of goblins, orcs, kobolds, trolls, and ogres, whom he whipped into a fearsome organization within Undermountain.
+
+His vile animalistic side was shown excessively in his eating habits. His favorite delicacy were bones; he often gnawed on them like an animal, cracked them open, and sucked the marrow out.
+
+Possessions
+Horazak carried a +1 enchanted throwing axe and a masterfully crafted +1 chainmail.
+
+History
+Not much was known of Horazak's past before he and his band of marauders settled in an ancient dwarven prison in Undermountain that once belonged to Clan Melairkyn. There, the vicious orc leader allied with the High Priestess of Lolth, Azurna, who led the drow forces in Undermountain in 1370 DR. The drow were on a holy quest to find the Flame Sword of Lolth hidden in the mega-dungeon and the scattered pieces of a magical spider statue, used as the sword's conduit of power. To uncover the spider fragments, hidden since ancient times, the drow built alliances with dark forces inside Undermountain. Horazak loved the respect he got from the High Priestess. Azurna gave him the highest compliment a follower of Lolth could give a non-drow. She felt Horazak was unlike others of his kin, almost a drow in his power and ambition. The Matron allowed Hozrak to trade with a tribe of kobolds, placed by the drow in the sewers of the upper levels of Undermountain as lookouts.
+
+Horazak's main task was using slaves and weaker humanoids, like goblins and kobolds, to mine the tunnels underneath the ancient prison for gems and, more importantly, for the entrance to an ancient temple of Clangeddin Silverbeard where one of the spider pieces was hidden.
+
+On Eleint 3 of 1370 DR, two of Horazak's slaves escaped, and furious with his lieutenant Kalmog, the chieftain placed the prison on a full lockdown and went into the mines in pursuit. A noblewoman from Waterdeep, Tryola Perrentine, and the dwarf Urkantor were soon recaptured. Matron Azurna demanded the dwarf to be delivered to her as a personal slave to satisfy her peculiar tastes, to which Horazak obliged. Thankfully, the adventurer sent by Khelben Arunsun to investigate the drow plot against Waterdeep freed the captured slaves and beat the marauders to the hidden spider piece.
+
+Appendix
+Appearances
+Video Games
+Descent to Undermountain
+
+References
+
+---
+
+## Hollow's Heart
+
+Hollow's Heart was the 176 layer of the Abyss. It was ruled by the demon prince Fraz-Urb'luu.
+
+Description
+Hollow's Heart was a continent-sized landmass surrounded by fine white powder, all under a starless black sky. Despite this, the ground was lit as brightly as if by a noon sun.
+
+History
+Fraz-Urb'luu was one of the first tanar'ri demon lords to dominate a layer of the Abyss, rising to power in the last days of the obyrith dominion. With the aid of his staff of power, he could raise mountain ranges or drain entire oceans on the layer with but a thought. His mastery over Hollow's Heart meant that his many foes were unable to defeat him.
+
+At one point, the demon prince Demogorgon invaded and seized fully half of Hollow's Heart, and would have taken the other half had he not been forced to return home by the demon lord Zuregurex's attack on the Gaping Maw.
+
+However, Fraz-Urb'luu's arrogance and habit of humiliating his fellow demon princes eventually led to his downfall, when his erstwhile foes helped a mortal wizard imprison him on the Material Plane for more than 200 years. During the time of Fraz-Urb'luu's imprisonment, demons fought over his layer, destabilizing it. A few managed to carve out islands of their own, but the majority of the layer was ruined.
+
+When Fraz-Urb'luu finally regained his freedom and returned, he found his beloved layer to be little more than endless white powder under an equally empty sky. After driving out the majority of the squatters that had made islands in his absence, he began rebuilding the layer, although without the staff of power it was slow going, and by the late 1480s DR much of it remained white powder.
+
+Inhabitants
+Hollow's Heart was primarily inhabited by various tanar'ri demons that served Fraz-Urb'luu, such as succubi and skurchurs. A number of chaotic evil rakshasas known as the Hollow Rajahs served as Fraz-Urb'luu's vassals, commanding various settlements and citadels throughout the layer.
+
+Additionally, large numbers of fiendish orcs, ogres, and goblins lived in towns along the coasts of the Hollow Sea, and approximately 6,300 half-elves, dwarves, halflings, half-orcs, and gnomes lived in Karantis.
+
+Fraz-Urb'luu's hatred of humans meant that the only ones living in Hollow's Heart were slaves or prisoners.
+
+Notable Locations
+
+ Athawyn  The most debased and decadent city in Hollow's Heart after Zoragmelok itself, Athawyn was a dizzying tangle of curving towers and massive domes all made of red stone. It was inhabited by about 9,000 fiendish orcs and half-orcs, served by numerous human slaves that were deemed unfit for the Red Rapture. Succubi and skurchurs served as the lords of the city, which was ruled Nyrashlia, a powerful succubus bard. Athawyn was the only city in Hollow's Heart not ruled by a Hollow Rajah, but the chaotic rakshasas did not seem to resent this and often visited the city to indulge in its more carnal offerings.
+
+ Blood Dunes  A vast desert of sticky, blood-red particles that never dipped below temperatures of severe heat, and often rose to temperatures of extreme heat. "Ruins" covered in "sand" lay deep within its expanse, and were crawling with powerful mummies and liches. Close inspection revealed the "sand" to actually be scabs and clots of dried blood.
+
+ Bonepus  Perhaps the most wretched town in Hollow's Heart, Bonepus was a settlement of some 1,560 fiendish goblins ruled by the crocodile-headed Hollow Rajah Rontakus, who devoured his subjects frequently enough that the goblins' fecundity could barely keep up with his appetite. The buildings of the soggy, dripping town were made of rotting wood and poorly preserved strips of skin and leather stretched over frames of twisted sticks, harvested from the nearby Scarwood.
+
+ Deathroot Woods  A forest of twisted, diseased trees, primarily Abyssal varieties of oak and pine, that sprawled across the lowlands and foothills of the Demon's Teeth. The forest floor appeared to be covered by countless bones, which were actually the roots of the trees. Tainted plant monsters dwelled in the woods, and rumor held that the place was ruled by a circle of thirteen half-fiend treants.
+
+ The Demon's Teeth  One of the first regions made by Fraz-Urb'luu after he returned from his imprisonment, the Demon's Teeth was an immense mountain range full of rock faces and ledges sharp enough to lacerate and cripple unwary climbers. Four deep lakes full of bile lay within the range, held by the few enemies of the demon prince that he could not drive away.
+
+ The Drooling Jungle  A massive jungle of fleshy trees that drooled caustic bile and poisonous ichor from gaping mouths, with strangely pliant trunks and swollen greenery. The ground was a warm, rubbery sheet of flesh covered with thick black hairs that doubled as undergrowth. It was primarily inhabited by basilisks, hydras, and many, many barlguras, as well as a gigantic nalfeshnee known as the Gardener that protected the jungle.
+
+ The Flensers  A jagged range of volcanoes surrounded by strangely angled mountains that resembled razor blades. The volcanoes threw lava and ash into the skies above.
+
+ The Forever Gash  A long strip of land running through the Demon's Teeth, it was composed of the white powder that once formed Hollow's Heart. For reasons unknown, it resisted Fraz-Urb'luu's efforts to reshape it, and so it remained a strange incongruity in his twisted realm.
+
+ Harrowfen  A poisonous, murky swamp that lay along the southern shores of the Hollow Sea. Only creatures immune to poison could live there; naturally, demons, particularly hezrous and skulvyns, thrived there.
+
+ The Hollow Sea  Most of the layer's civilization was located on the shores of this inland ocean full of poisonous water too green to be natural. The many small islands in the ocean were rife with temporary portals to various Material Plane worlds, and unfortunate travelers and explorers often stumbled through and became trapped. The waters themselves were infested by half-fiend sharks and worse horrors, including at least one myrmyxicus demon. The Hollow Sea was effectively bottomless: a determined swimmer could theoretically swim all the way down to the 177 layer of the Abyss.
+
+ Karantis  Built on a mesa overlooking the Hollow Sea, this city-sized temple of iron and porphyry was the heart of Fraz-Urb'luu's cult. It was ruled by the Hollow Rajah Kiltikairit.
+
+ Karugoza  A small city inhabited by about 7,500 orcs, ogres, and fiendish gnomes, ruled by the Hollow Rajah Liorkian. The city's primary purpose was to process the many humans captured by Fraz-Urb'luu's servants. These humans were either captured from islands in the Hollow Sea, or more often were kidnapped off of various Material Plane worlds by demons or cultists. A healthy human sold for about 100 gp in its markets, while sickly humans were sold at greatly reduced prices, and often wound up as slaves or food in Athawyn.
+
+ Magghat  A large town with a population of about 3,200 orcs and ogres, most of whom were sailors that spent weeks sailing the Hollow Sea in search of slaves on the islands there. It was ruled by the Hollow Rajah Zurathani, who used his artistic interests to create horrific statues for the city streets.
+
+ The Red Rapture  A vast stretch of plains just north of the Blood Dunes, the ground itself here was a reeking morass of bloody mud, and all kinds of torture devices could be found scattered around. The Red Rapture served as a single massive killing ground for most of the humans captured by Fraz-Urb'luu's minions. Vrocks were the primary inhabitants, acting as torturers and executioners.
+
+ The Scarwood  A deciduous forest mostly inhabited by the scar-covered survivors of Zoragmelok's walls and strangely free of most dangerous predators and demons. The woods served Fraz-Urb'luu as a personal hunting ground, where he allowed the humans to live there long enough to form primitive societies of scavengers, waiting long enough for them to gain a sense of hope, before either ordering his demonic servitors to hunt them down or doing so himself.
+
+ The Spiral of Ugudenk  One of few enemy strongholds that Fraz-Urb'luu could not oust, this region of the layer had been claimed by Ugudenk and infested with its writhing minions. A huge, spiraling cavern at the center of this layer led all the way down to the 177 layer, which was Ugudenk's realm. Fraz-Urb'luu had tried three times to destroy the caverns but had each time failed; since Ugudenk seemed content to lurk only in this region, Fraz-Urb'luu suffered its presence. Other demon lords jokingly referred to this situation as Fraz-Urb'luu's "infestation problem".
+
+ Uanthur  The sister city of Magghat, Uanthur was inhabited by about 3,000 orcs and ogres with similar occupations of sailing and slaving. It was ruled by the Hollow Rajah Proaliak.
+
+ Zoragmelok  The mightiest city in Hollow's Heart, Zoragmelok was the personal fortress and lair of Fraz-Urb'luu himself, but was only inhabited by his succubi consorts and the souls of many deceived petitioners.
+
+ Shullen-Gat  Not a location within Hollow's Heart, this iron fortress was located over a pit on the Plain of Infinite Portals that led to Hollow's Heart. It was claimed by a minor demon lord and former Blood War general called Baltazo during Fraz-Urb'luu's imprisonment, who used his control over access to the layer to subtly influence events there. After the demon prince returned from his exile, he saw the value in having a strong defense at the portal, and came to an agreement with Baltazo, who became one of Fraz-Urb'luu's vassals.
+
+Appendix
+References
+
+---
+
+## Horkle's Gossip Cauldron
+
+Horkle's Gossip Cauldron was a widely popular broadsheet based in Waterdeep on the Sword Coast North. It was published by Annath Horkle in the late 15 century DR.
+
+Contents
+This broadsheet was written in a rather blunt and honest manner with obscenities. When it came to reporting on the deeds and words of public officials that it disliked—which included most guildmasters and elder nobility—the Cauldron was not above embellishing or wholesale fabricating things.
+
+History
+One of the incidences reported on by the Cauldron were the strange goings on of the skyship The Storm Bird.
+
+Reputation
+Many Masked Lords of Waterdeep, senior officers of the City Watch, and palace officials considered the broadsheet's style of writing to be often profane and blunt to the point of rudeness. However, many readers treasured its blunt honesty.
+
+Appendix
+References
+
+---
+
+## Howser's Trail
+
+Howser's Trail was a small mountain trail found in the Duchy of Soravia within the eastern region of the Bloodstone Lands near the border with Narfell.
+
+Description
+The trail connected the small town of Cutrock with Howser's Mine, passing west to east through the peaks of the Giantspire Mountains for roughly .
+
+Notable Locations
+ Cutrock
+ Howser's Mine
+
+Appendix
+References
+
+---
+
+## Horrid Mire
+
+The Horrid Mire was one of the three swamps that composed the dark fey enclave, a region of the Feywild that was corrupted by a coven of fomorian witches and their dark fey minions.
+
+Geography
+The Horrid Mire was located throughout the eastern area of the dark fey enclave, opposite of the Putrid Fen.
+
+Geographical Features
+The mire earned its name from the clouds of toxic swamp gas that permeated the air above its murky waters. The foul clouds and the dark pools of water were the direct result of the alchemical experimentation of the fomorian coven of witches.
+
+History
+Circa the, a number of Iliyanbruen elves of New Sharandar became trapped in the Horrid Mire, during the conflict that arose between their people and the army of Malabog.
+
+Kehl Skywatcher worked with some adventurers from Neverwinter to rescue her fellow elves. She concocted a unique potion that could actually reverse the putrid clouds permeating the swamp, as well as undo with the effects they had on the trapped elves.
+
+Appendix
+Appearances
+Video Games
+
+References
+
+---
+
+## Horn of fog
+
+Horns of Fog were enchanted musical instruments that could create fog.
+
+Description
+Horns of fog were musical trumpet-like horns carved out of horns of beasts with a silver mouthpiece.
+
+Horns of fog produced a deep sound, typical to other horns, the main difference was that the last note produced by a horn of fog dropped subtly into a lower register.
+
+Powers
+These enchanted horns produced a thick cloud of fog when blown, similarly to the effects of fog cloud spell. A horn of fog needed to be blown for at least six seconds for it to produce a  cube of fog. The created cloud lasted from 12 seconds to 3 minutes after the instrument's use. Each horn of fog couldn't produce multiple clouds, if it was played multiple times with at least six seconds of break between uses the new cloud was formed and the old one drifted away. The magical cloud slowly moved from the horn forward until it reached an obstacle, like a wall. It could be dispersed when exposed to wind.
+
+Bards were known to be able to harness the horns' of fog magic to summon a magical rain on the area of the same size as the horn's fog effect.
+
+Creation
+A horns of fog could be created by a skilled crafter of wondrous items with a use of obscuring mist spell.
+
+Notable Owners
+Aragauthos: a blue dragon imprisoned in Undermountain had a horn of fog in her treasure hoard.
+
+Appendix
+Appearances
+Adventures
+The Ruins of Undermountain
+Card Games
+AD&D Trading Cards
+Gallery
+
+References
+
+---
+
+## House of Light Storage
+
+House of Light Storage was a warehouse in Waterdeep that was owned by the Waterdhavian guild known as the Guild of Chandlers and Lamplighters.
+
+Location
+This warehouse was located in the Trades Ward of Waterdeep.
+
+Structure
+This warehouse was two-stories tall.
+
+Appendix
+References
+
+---
+
+## House of Crystal Storage
+
+House of Crystal Storage was a warehouse in Waterdeep that was owned by the Waterdhavian guild known as the Guild of Glassblowers, Glaziers, and Spectacle-Makers.
+
+Location
+This warehouse was located in the North Ward of Waterdeep, close to the House of Crystal.
+
+Structure
+This warehouse was four-stories tall.
+
+Appendix
+References
+
+---
+
+## House of Crystal
+
+The House of Crystal was the guildhall of a Waterdhavian guild known as the Guild of Glassblowers, Glaziers, and Spectacle-makers.
+
+Location
+This guildhall was located along the western side of Copper Street, in the North Ward of Waterdeep.
+
+Structure
+This guildhall was two-stories tall. Its facade was bedecked in mirrors. and many windows.
+
+Services
+One could purchase a variety of glass goods from this building, including crystal balls and mirrors. Prices for glass goods ranged from 1 silver piece to up to 600 gold pieces.
+
+Reputation
+The House of the Crystal was among some of the more notable and recognizable guildhalls in the North Ward.
+
+Appendix
+References
+
+---
+
+## House of Light
+
+The House of Light was the guildhall of a Waterdhavian guild known as the Guild of Chandlers and Lamplighters.
+
+Location
+The House of Light was located along Scroll Street, in the Trades Ward of Waterdeep. Behind the guildhall stood a warehouse used by the guild.
+
+Structure
+This guildhall was three-stories tall. The building was a row house that was near constantly bright. Out front of it stood a  tall candle that would be lit at night — this was one of the brightest spots in the Trades Ward at such hours and it was easily found by the lemon scent its wax gave off.
+
+Services
+During the day, members of the Guild of Chandlers and Lamplighters crafted candles, mostly from tallow, that they would sell. They also worked on repairing lamps during daylight hours.
+
+Reputation
+The House of Light was among some of the more notable and recognizable guildhalls in the Trades Ward.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Horemkensi
+
+Horemkensi was an senator of Innarlith who was active in mid–14 century DR. He was assassinated by a spirit naga in 1371 DR.
+
+Personality
+He was charismatic, but he was often content to follow other people's orders.
+
+Relationships
+He was allied with Senator Meykhati and followed the latter's plans in the senate.
+
+History
+He was from an old senatorial family in Innarlith and was the eighteenth in his family line to be a senator. He attended a party held at Senator Meykhati's residence that a young Cormyrean engineer named Willem Korvan also attended in 1362 DR. He attended the funeral for senator Khonsu in 1364 DR and afterwards went with Meykhati and the other senators to the Peacock Resplendent where they discussed plans for making Willem Korvan, who was secretly the one who assassinated Khonsu, into a new senator.
+
+Willem disappeared in 1369 DR and the senate appointed Horemkensi to take over Willem's place as leader of the project to build a canal from the Lake of Steam to the Nagaflow. Horemkensi had no understanding of construction or engineering, however, and he was utterly unable to manage the project properly. He was an elite dandy that only spent one day in twenty at the actual canal site. He replaced Surero, who was formerly the alchemist tasked with producing smokepowder for the excavation, with his own alchemist. The results were that many workers were killed in accidents. People from Innarlith went north and stood on a viewing platform near the canal to watch the workers being blown up as entertainment.
+
+He made orders that contradicted the original design of the canal in order to speed up the work. Ivar Devorast the original designer of the canal, arrived at the site and secretly worked there as a laborer. The other workers noticed him and asked him for directions about what to do, which he gave to them. Soon the workers at the canal just collectively began ignoring Horemkensi's instructions and instead followed what Devorast instructed.
+
+T'juyu, a spirit naga from the Chondalwood, came to Horemkensi's tent on Marpenoth 2, 1371 DR, disguised as a beautiful woman. She seduced him and when they got close, she explained that she had originally come to the area because her kind was very concerned about this canal and how it might benefit the water nagas of the Nagaflow, but after listening and understanding, she came to realize that she had chosen the wrong side. Horemkensi didn't understand what she was talking about and she told him that that was just one of the reasons why she was going to kill him. She then bit him with her fangs and killed him.
+
+Following his assassination, Ransar Pristoleph had Devorast and Surero arrested. However, after determining they were innocent, Devorast was set to work as the chief builder of the canal again and the project progressed well.
+
+Appendix
+Appearances
+Whisper of Waves
+Scream of Stone
+
+References
+
+---
+
+## Holy necklace
+
+Holy necklaces were enchanted pieces of jewelry, used by clerics in the late 15 century DR.
+
+Description
+Holy necklaces appeared to be simple slingshot-shaped metallic amulet.
+
+Powers
+Holy necklaces''' magic could be accessed only by clerics. The wearer had an ability to cast bless on themselves and three allies.
+
+Notable Owners
+Halbenet Soladonel: a moon elf cleric of Corellon Larethian who worked with other warriors of Waterdeep, performing missions on behalf of Laeral Silverhand in the late 15 century DR.
+
+Appendix
+See Also
+ Amulet of Corellon Moonstone pendant Ring of blessing Talisman of the moonAppearances
+Video GamesWarriors of Waterdeep''
+
+References
+
+---
+
+## Hound of law
+
+The hounds of law were a form of will-o'-wisp bred by the Wind Dukes of Aaqa to serve as trackers, guards, and messengers.
+
+Description
+In their natural form, hounds of law were tiny luminous spheres as bright as fireflies. They could vibrate rapidly in order to produce buzzing sounds, which they used as a limited form of communication.
+
+Abilities
+Hounds of law could rapidly transform themselves into various animals, such as dogs, elephants, hawks, horses, panthers, rats, sharks, and snakes. Transformed hounds of law were usually more powerful than normal animals.
+
+They could move between the Astral Plane, Ethereal Plane, and Material Plane at will. They had the ability to become invisible, and would sometimes detect other invisible creatures.
+
+When tracking a creature, hounds of law could sense residual magic to follow it if it used flying or teleportation magic.
+
+Hounds of law were unaffected by all but a few spells, including protection from alignment, magic missile, and maze.
+
+Behavior
+Hounds of law were lawful creatures bred by the vaati. As such, they were loyal to their masters and would sometimes be sent on solitary missions. A few hounds bred by Wendeam vaati were lawful good like their masters.
+
+Appendix
+
+References
+
+---
+
+## Horsetail
+
+Horsetail was an herb.
+
+Horsetail was used by various cultures, including the Azuposi of Maztica, who used it in medicines to treat colds, hay fever, and asthma.
+
+Appendix
+
+References
+
+---
+
+## House Miritar Villa
+
+The villa of House Miritar was the familial home of the Miritar elven family that lived in the city of Cormanthor long before it was known as "Myth Drannor".
+
+Location
+The villa was located on the Stroll of Minstrels, just south of the Sixstar intersection in the Sheshyrinnam district of the city.
+
+Structure
+The entirety of the villa comprised a single structure that emerged from the ground and three massive, petrified trees that formed the borders of the property and connected to the ground building. The Miritar family residence was the perfect exemplification of organic architecture that was just as resilient as it was stunning in appearance.
+
+The central structure of the estate stood 4 stories tall above ground level, while the three trees that framed its grounds extended some 7 stories high.
+
+History
+As fitting for one of the Cormanthan noble families, the villa of House Miritar was created by the use of elven high magic.
+
+Every season, the family's illusionists would change the color of the trees dwellings' petrified leaves in order to better match their surroundings.
+
+Appendix
+References
+
+---
+
+## Horseshoe
+
+Horseshoes (or simply shoes) were a type of metal footwear designed specifically to counteract the wear and tear on the hooves of domesticated horses, who experienced it at an accelerated rate because of carrying the weight of riders and other equipment.
+
+Description
+Horseshoes were typically made of an iron or steel bar and hammered into a "U" shape. They were attached to horses by nailing them into their hooves, a process that was known as "shoeing."
+
+Powers
+Horses equipped with these were capable of traveling farther, faster, and for much longer.
+
+When a horse's shoe became loosened, it made a clattering sound as it walked or ran. If the shoe came off completely, they were said to "throw a shoe" or "lose a shoe", and the horse was forced to slow and limp until it was replaced.
+
+Availability
+Places in the Realms where horseshoes were known to be manufactured were as follows:
+ In Athkatla, one could find horseshoes for sale at the market Waukeen's Promenade.For Duty & Deity states that every nonmagical item featured in the Arms and Equipment Guide can be purchased at Waukeen's Promenade.
+ In the mid–14 century DR, Aurora's Whole Realms Catalogue sold blacksmith molds for making horseshoes for draft horses, riding horses, warhorses, and ponies.
+ In the city of Calimport, many horseshoes were forged by blacksmiths in the Amyran Sabban of Hammer Ward.
+ In the village of Conyberry, the local smithy produced rather shoddy horseshoes.
+ In the town of Essembra, one could acquire horseshoes from Durn's Forge.
+ In the village of Ghars, Cormyr, horseshoes were one of many agricultural tools that Aunsible Durn's smithy manufactured. Durn could also shoe horses whilst riders waited.
+ In the city of Ravens Bluff, the Iron Bull Smithy manufactured some of the finest horseshoes in the area. They charged a single gold piece for horsehoes or shoeing.
+ In the Unapproachable East, horseshoes were among the simple iron items that the people of the Great Dale made themselves rather than imported.
+ One could find horseshoes for sale in the city of Waterdeep.
+ In the city of Zhentil Keep, one could acquire horseshoes from either Luanna's Forge or Lita's Equipment.Ruins of Zhentil Keep states that everything from the Arms and Equipment Guide, except for arms and armor, can be purchased at Lita's Equipment.
+ In the land of Zakhara, one could purchase horseshoes from many of its bazaars for around 2 gold pieces to 7 silver pieces depending upon how good they were at bargaining.
+
+History
+Jasper was riding his horse Jenkus on the night of Eleint 18, the, when they were chased by a rogue hydra. But Jenkus lost a shoe and slowed, and Jasper fell off. Jenkus limped away while Jasper was left to face the hydra.
+
+Notable Horseshoes
+Horseshoes of the asperii, a variety of enchanted horseshoes that gave their wearer the power of flight, much like that of an asperii.
+Horseshoes of speed
+Horseshoes of the zephyr
+ Imaskari horseshoes: A pair of obsidian horseshoes from the Imaskar Empire. Any horse they were placed on would become pitch black and invisible at night. However, if harmed while in this state the horse's body would shatter as if made of glass. In 1360 DR, these horseshoes were contained within the Star Houses of the city of Solon. At that time they were worth around five gold pieces.
+
+Notable Users of Horseshoes
+Groups
+ The blacksmiths of the Waterdhavian guild known as the Most Careful Order of Skilled Smiths & Metalforgers both made horseshoes and fitted them onto horses. In the 14 century DR, they typically charged a single gold piece per shoe.
+Individuals
+ Durnan the Red, a smithy in the Battledale's town of Essembra.
+ Haeleth, a smithy in the community of Bargewright Inn, was specialized in shoeing all manner of beasts.
+ Luanna Lightheart, a smithy in the city of Zhentil Keep, both made shoes and shoed horses.
+ Korin Ironnugget, a smithy in the town of Snowmantle, frequently shoed horses.
+ Olaf, a smithy in Bloodstone who primarily worked on horseshoes and plows.
+ Rodric, a smithy in the village of Parnast, was skilled in shoeing horses.
+Races & Sentient Creatures
+ Armanite farriers were known to produce outstanding, sometimes even enchanted, horseshoes.
+ Some centaurs, particularly those that often traveled over paved or rocky ground, were known to wear horseshoes, including enchanted horseshoes, with horseshoes of speed making heavy armor more practical for them. They typically needed to reshoe their horseshoes once every 4–6 weeks. They could always tell if a horseshoe fell off and if a shoeing job was improperly done.
+Regions & Settlements
+ In the Western Heartlands, the gnome village of Anga Vled had a pair of horse doctors that were skilled in shoeing horses.
+
+Rumors & Legends
+
+ One legend claimed that halflings were the ones who invented horseshoes. This legend was likely false, as halflings typically used goats rather than horses.
+ Horseshoes were often associated with good luck and many superstitions surrounded this. It was thought by some to be very lucky to find a horseshoe in the road, especially if it had been cast off from the hind legs of a grey mare. Some thought them to be protective amulets, with farmers hanging them in barns or stables and sailors nailing them to the masts of ships.
+
+Trivia
+ Blacksmiths generally knew how to craft horseshoes. But craftsmen that were specialized in making horseshoes were known as "farriers."
+ Horseshoes acted as a material component for the spell speedmount.
+ Horseshoes were the namesake for many locations in the Realms. These included the Horseshoe Temple Oasis in the Quoya Desert, the Gilded Horseshoe in Longsaddle, and Horseshoe Canyon in Narfell.
+ Thoughtful travelers who stopped at the Leopard Stupa while traveling the Leopard Shan were known to leave excess supplies. These commonly included horseshoes.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Doom of Daggerdale • Curse of Strahd
+NovelsMurder in Cormyr''
+External Links
+
+References
+
+---
+
+## Hoarder dragon
+
+Hoarder dragons were undead dragons who were so thoroughly greedy, they refused to leave their hoards after death, haunting them somewhat similarly to ghosts.
+
+Description
+Initially, a horde dragon appeared to be nothing but an unguarded treasure hoard that radiated an almost palpable aura of terror and dread. If an unwise adventurer touched anything in the hoard, it came to life. The treasures took the shape of a dragon, with gems, coins, jeweled daggers, and magic swords. Hoarder dragons often used gemstones for their eyes of the same color as their scales in life.
+
+Abilities
+Hoarder dragons were almost impossible to destroy due to their ethereal nature. They lacked a physical body and only possessed the mountains of gold and treasure in their lairs. However, like many other undead creatures, hoarder dragons had the energy-draining ability. These undead dragons utilized that deadly attack via a simple bite.
+
+Hoarders had exceptionally keen senses that allowed them to sense through the treasure in their hoard within . They could see in the dark and possessed blindsence. Hoard dragons' elemental immunities were the same they had in life. Along with that, they were unaffected by sleep, paralysis, mind-affecting spells and abilities, diseases, poisons, being stunned, fatigue, exhaustion, death magics, energy and experience drain, and they were completely immune to any spells that affected fortitude unless the spell could affect inanimate objects.
+
+Like other dragons, hoarder dragons exuded a frightful presence that sent even the bravest warriors fleeing in terror. In addition, they possessed dragons' innate spellcasting abilities. The breath weapon of a hoarder dragon was of the same type as it was in life, but with an added spray of pelting coins that dealt bludgeoning damage to its targets.
+
+Personality
+Their all-consuming greed ruled hoarder dragons in life, and in death, they refused to abandon their troves, damming themselves to haunt the precious treasures eternally. Unwilling to lose a single copper from their hoard, they possessed the treasure, defending it with their undead lives.
+
+It was believed that the dragons who worshiped Task, the draconic god of avarice, were transformed in death into hoarder dragons as a reward for their service.
+
+Combat
+Hoarder dragons liked to ambush the thieves by laying in wait in the Ethereal plane. Then, they surprised the opponents by appearing on Prime Material plane and animating the mountain of treasure to smite the foes.
+
+Defending their wealth, hoarder dragons used any items found among their treasures when threatened. Most of the time, they used the animated construct-like bodies to slam, claw, smash, and bite at thieves along with the use of the dragon's breath weapons. Items such as wands and scrolls were used by the hoarders if they were among the countless riches that composed their bodies. At will, hoarder dragons could dive into the Ethereal Plane to avoid their opponents, only to reemerge, surprising them with an onslaught of magics unleashed from their wands and other magical items.
+
+Society
+Hoarder dragons were solitary creatures found to their lairs and their treasure hoards, unable to leave their location.
+
+Ecology
+Hoarder dragons were unnatural creatures of negative energy and had no place in the Prime Material plane's ecology. They were extremely hard to destroy as their beings were tethered to the treasure they guarded. When enough damage was done to a hoarder dragon, it seemingly dissipated but inevitably returned to the hoard within two to for days. The only way to completely destroy this incorporeal draconic undead was by dealing enough damage to temporarily disperse the creature, then removing the treasure from its lair, and finally, severing the hoarder dragon's bound via spells such as break enchantment, greater dispel magic, limited wish, or miracle.
+
+Notable Hoarder Dragons
+Amilektrevitrioelis: one of the greediest blue hoarder dragons. He lived in the Rathgaunt Hills in the Shaar circa 1373 DR.
+
+Appendix
+References
+
+Connections
+
+---
+
+## House of Good Spirits
+
+The House of Good Spirits was the guildhall of the Waterdhavian guild known as the Vintners', Distillers', & Brewers' Guild.
+
+Location
+The House of Good Spirits was located in the Southern Ward of Waterdeep. It stood on the northwest side of the Rising Ride, between the mouths of Juth Alley and Robin's Way, extending north and west along Tornsar Alley as far as Buckle Street. On that street one could find an alleyway leading to the back of the tavern, offering access to complex's inn and stables.
+
+Structure
+This guildhall was roughly three-stories tall. It consisted of a complex of buildings, fronted by a timber tavern, with a central courtyard that separated the stables from the rest of the buildings. With the exception of the tavern, which was of a wattle-and-daub style, the buildings that made up the House of Good Spirits looked on the outside like factories and warehouses.
+
+Hanging over the front door of the tavern was a huge sign bearing the mark of the guild and the name "House of Good Spirits." The wooden building housing the brewery smelled of yeast.
+
+Interior
+On the inside, the buildings that made up of the House of Good Spirits were directly joined and similarly had the look of a factory or warehouse to them—large exposed beams and bare mud brick walls throughout. There were many small passages and nooks, odd doorways, and surprise steps. Furnishings in them were rather bare-bones and ordinary, yet comfortable.
+
+The inn was comfortable, yet disorganized. Its central room sported a large fireplace. Most of the rooms within it had two single-person beds and lacked any luxuries. Within the long windows of the tavern hung purple and white curtains, embroidered with the guild's mark.
+
+Some of the buildings had private meeting rooms that were available for conferences. One large building was dedicated to the storage of zzar, which gave it a distinctive almond scent.
+
+Services
+Due to the nature of this hall's guild it operated as brewery, winery, inn, tavern, and wine store. They boasted one of the best and cheapest selections of a variety of liquors and strong drinks from across the Realms.
+
+The inn portion of the House of Good Spirits offered a place to sleep for up to forty patrons, with rooms costing two gold pieces a bed per night. Those wanting a private room had to pay for both beds. Food and ale were covered by this flat rate, though wine and spirits cost extra. Stabling for draft beasts also costed an extra 1 copper piece each per night stayed.
+
+Provender
+In terms of food the inn had a rather basic menu. Serving patrons such things as roasted boar, rabbit-and-smalls stew (vegetables and various small game, such as fowls or squirrels), and cheese-and-mustard saltbread melts (small, circular loaves of bread).
+
+The specialties of the House of Good Spirits were zzar and sluth, which were brewed on site. One could purchase sluth for two copper pieces a bottle, a lower rate than what was charged elsewhere, and six silver pieces for a bottle of zzar. Other beverages included Neverwinter black icewine for seven silver pieces, Best Old Mintarn whisky for one gold piece, Wyvern whiskey for two gold pieces, elverquisst, and blackthroat. With it notably being one of the few places in Waterdeep one could find elverquisst for sale.
+
+History
+In the 1300s DR, this complex began as a small brewery on the corner of the Rising Ride and Tornsar Alley. Soon after the tavern was opened for business. Some time in the early 1360's the Vintners', Distillers', & Brewers' Guild expanded the House of Spirits into an adjacent warehouse, which they repurposed as an inn for the convenience of visiting grape cultivators and wine merchants.
+
+Inhabitants
+Many members of the Vintners', Distillers', & Brewers' Guild considered the House of Good Spirits to be a secondary home, staying at it whenever their own homes were overcrowded or being worked upon. During daylight hours, there was always a representative of the guild present for those wanting to deal in spirits.
+
+The overall staff of the House of Good Spirits numbered forty individuals. Simon Thrithyn acted as the innkeeper in the 14 century DR. Dlarna Suone and Gordrym Zhavall were the chief buyers and sellers for the guild. And there were seven burly bouncers, led by Mrorn Halduth.
+
+Reputation
+The House of Good Spirits was among some of the more notable and recognizable inns in the Southern Ward, being considered a landmark.
+
+Rumors & Legends
+A widely spread rumor in Waterdeep was that the Flying Flagons, under sponsorship of the guild, slew a dragon and the large treasure hoard brought back remained hidden somewhere in or under the House of Good Spirits. Because of this rumor the staff had to warn visitors against digging or prying at the ceilings, floors, and walls.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House of the Black Lord
+
+The House of the Black Lord was a temple of Bane in Mulmaster that came to be the center of worship of the Black Lord throughout the 15 century DR.
+
+Location
+The temple was located on the east side of the city, not far off from the Zhents' Quarter.
+
+Activities
+As of the late 1470s, the temple became a source of political strife between different factions that had formed within the ruling Council of Blades. While the councilors that shared in Bane's worship created a powerful sect within the city, they were directly opposed by other belligerent members of the Blades, or those who shared a different faith altogether.
+
+History
+The temple was formed some time after the rise of Iyachtu Xvim's faith in the Moonsea region, following the death of Bane at the hands of Cyric during the Time of Troubles in the . While it was originally dedicated to the worship of the Godson, it had switched over to the worship of Bane by the .
+
+Appendix
+Notes
+
+References
+
+---
+
+## Horace's Shirt Shop
+
+Horace's Shirt Shop was a clothing store in the city of Ravens Bluff.
+
+Geography
+This shop was located in the Stormrime neighborhood of Ravens Bluff's Southside District, on the north side of Grismort Lane and west of Hippocampus Street. It was around the corner from the Friendly Familiar.
+
+History
+This store initially became famous, or infamous in some circles, for extravagant revelry clothing. Around 1370 DR, they expanded their inventory to feature first-rate plain garments. Many nobles and merchants soon noticed this change and began to covet them, buying such clothes in great numbers.
+
+Around 1370 DR, there were rumors floating around that in the future another branch of the store might open in Sixstar neighborhood of the Uptown District or in the Temple District.
+
+Appendix
+References
+
+---
+
+## House of Gems (Waterdeep)
+
+The House of Gems  was the headquarters of the Waterdhavian Jewelers' Guild.
+
+Location
+The guildhall was located on the north side of Gem Street in the Castle Ward.
+
+Structure
+The House of Gems was a two-story row house that matched the architecture of most buildings in Waterdeep.
+
+Appendix
+References
+
+---
+
+## House of Cleanliness
+
+The House of Cleanliness was the guildhall of the Waterdhavian guild known as the Launderers' Guild.
+
+Location
+The House of Cleanliness was located along the Slipstone Street, in the Trades Ward of Waterdeep.
+
+Structure
+This guildhall stood one-story tall.
+
+Reputation
+Like other guildhalls, the House of Cleanliness was considered by locals to be a landmark.
+
+Appendix
+References
+
+---
+
+## House of Textiles
+
+The House of Textiles was the guildhall of the Waterdhavian guild known as the Most Excellent Order of Weavers & Dyers.
+
+Location
+The House of Textiles was located along Nethpranter's Street, in the Trades Ward of Waterdeep.
+
+Structure
+This guildhall stood two-stories tall.
+
+Reputation
+Like other guildhalls, the House of Textiles was considered by locals to be a landmark.
+
+Appendix
+References
+
+---
+
+## House of Healing (Waterdeep)
+
+The House of Healing was the guildhall of the Waterdhavian guild known as the Guild of Apothecaries & Physicians.
+
+Location
+The House of Healing was located along the High Road, in the North Ward of Waterdeep. Adjacent to the building was an Aurora's Realms Shop Catalogue Counter.
+
+Structure
+This guildhall stood three stories tall.
+
+Services
+In addition to being a headquarters of the Guild of Apothecaries & Physicians, this building acted as an emergency hospital. It acted as a vendor of both potions, medicine, and substances that could be considered poisons.
+
+The building also acted as a minor school for student physicians.
+
+Reputation
+Some diseased individuals, or people in their service, were known to come all the way to Waterdeep just to visit the House of Healing. And like other guildhalls, the House of Healing was considered by locals to be a landmark.
+
+Appendix
+References
+
+---
+
+## House Moonflower
+
+House Moonflower was the royal moon elven family of the island of Evermeet.
+
+History
+Zaor Moonflower (572 DR) reigned from the  and died on Ches 2, the . He was succeeded by his second wife and Queen, Amlaruil Moonflower (611 DR), who was known as the Sad Queen. The couple officially bore thirteen children: seven daughters and six boys. Zaor and Amlaruil were the parents of their oldest daughter Princess Ilyrana, and twins Prince Zhoron and Xharlion. Afterwards, the two parents married. Next came Prince Chozzaster, Princess Shandalar, and two more sets of twin girls, Princesses Tira'allara and Hhora and then Princesses Lazziar and Gemstarzah. Many years later, they had four more children, first Princess Amnestria, then Prince Zandro, Prince Finufaranell, and lastly Prince Lamruil (1272 DR). Via Amnestria, the parents had two grandchildren, one was a secret son with former moon elven noble Elaith Craulnober (known by herself, Lamruil and her future love Bran) and the other was the half-elf Arilyn Moonblade with human ranger Bran Skorlsun.
+
+Eldest daughter Ilyrana was a priestess of Angharradh. eldest sons Zhoron and Xharlion trained as fighters as they were robust as their father. Chozzaster dedicated himself to magic and became a High Mage. Shandalar chose the path of the bladesinger. Tira'allara and Hhora trained as priestesses of Hanali Celanil. Lazziar and Gemstarzah worked as diplomats to the mainland elves. Amnestria loved the life of the solitary adventurer, but was Zaor's favorite child. Zandro and Finufaranell were mages and studied in the Towers. Lamruil was a mischievous young man more human than most, followed Amnestria as an adventurer, but he favored gambling and wenching.
+
+Either eldest Prince Zhoron or Xharlion was devoured by the Elf-Eater, and the other twin's fate is unknown; both may have met this end. Princesses Lazziar and Gemstarzah vanished during a diplomatic mission. Prince Chozzaster voluntarily died young to enter Arvandor. Princess Shandalar died during her bladesinger training. Princess Tira'allera entered into a disastrous relationship with a noble elf, and died of heartbreak; Princess Hhora married a chance-met commoner and disappeared into the High Forest of Faerûn. Eldest Princess Ilyrana later took the Elf-Eater to Arvandor in the hopes of defeating it, it was unknown if she ever returned. The youngest Princess Amnestria was banished by the nobility to the mainland after bearing a half-elven child, her second child, but died during the late 1320s or early 1330s DR. The fates of wizards Prince Zandro and Prince Finufaranell were not told. Youngest Prince Lamruil, despite his early habits, successfully drew one the most powerful elven moonblades, known as the King's Blade after Kymil Nimesin fled Evermeet. Upon Amlaruil's return to Evermeet, the youngest prince left with Maura Silverhand at the Queen's private request to build a kingdom with the Tree of Souls in the distant north, later known as Auseriel.
+
+In 1380 DR, Lamruil left Auseriel with elven high mage Araevin Teshurr to search for his Princess Maura.
+
+With the rise of the Spellplague after 1385 DR, Queen Amlaruil mysteriously disappeared, leading to Evermeet's council later creating the Royal Council by .
+
+It was currently unknown of the surviving House Moonflower members by the end of the Second Sundering.
+
+Members
+List of members of House Moonflower
+
+Family Tree
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## House Aiel'for
+
+House Aiel'for was a drow house active in the mid–14 century DR.
+
+History
+Several members of the little-known drow house were captured by a solar known as the the Winged to be sent to Thay in 1369 DR. There, the drow were forced to participate in Dennaton's gladiatorial battles against other captives. Among the members of the house sent to the Red Wizard's arena were several male warriors, a wizard, and even a priestess. The drow were killed when they were set against the Champion of Baeloth's Pits.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate II: The Black Pits II – Gladiators of Thay
+
+References
+
+---
+
+## Hochart Vestman
+
+Hochart Vestman was a blacksmith in the town of Bralizzar who specialized in silver. He was known to be active in the mid-14 century DR. His shop was the southmost one on the eastern side of the city's bazaar.
+
+Appendix
+References
+
+---
+
+## Horace (Yarthrain)
+
+Horace was the village cooper of Yarthrain that worked out the back of the Black Buck Inn during the mid–14 century DR.
+
+He also served a point of contact for the Zhentarim in the Backlands of the Western Heartlands, relaying information from their assets in the region.
+
+Appendix
+Appearances
+Novels
+
+The Nether Scroll
+References
+
+---
+
+## Howling Kupuk
+
+The Howling Kupuk was a pass through the Lugsaas Chain mountains that connected northeastern Vaasa to southern Alpuk.
+
+Description
+The pass was narrow and prone to avalanches. It was named for the native kupuk of the Alpuk region, whose eggs were often the object of the northward expeditions of adventurers, explorers, and collectors who used the trail. However, any howling to be heard was more likely from winter wolves.
+
+During the 14 century DR, the pass was an entry point to the Great Glacier, and the mountains on either side of it were completely encased in pure white ice and snow. By the late 15 century DR, the Glacier had retreated to many miles north of the pass.
+
+Geography
+The Howling Kupuk pass traversed the Lugsaas Chain from south-to-north just west of where they met the northern tip of the Galena Mountains. The northern end of the pass was crossed by a treacherously icy stream 30 yards (27 meters) wide and 4 to 8 feet (1.2 to 2.4 meters) deep, which had to be forded during the 14 century DR but which was spanned by a bridge as of the late 15 century DR.
+
+In the late 15 century DR, the trail that ran through the pass originated on the Vaasan side north of Palischuk at the base of the High Walk. It traveled north along the Galenas and passed Ishe before entering the pass and crossing the stream. It then turned east toward Frohm's Rest on the north shore of Taak Lake.
+
+The pass itself was only about 10 miles (16 kilometers) long.
+
+Appendix
+See Also
+Other passes of Vaasa:
+ Bloodstone Pass
+ Garumn's Climb
+ Gramble's Climb
+ The High Walk
+ The Ice Run
+
+Notes
+
+Appearances
+ Snow Baby, included in The Great Glacier
+
+References
+
+---
+
+## Hopper
+
+Hopper was one of six horses kept by a group of travelers that lived in the Western Heartlands during the mid–14 century DR.
+
+History
+
+The older horse had cracked a hoof some time before he and his humans, the mage Druhallen, Galimer, Rozt'a, and Tiep, arrived at Parnast in the . That year, he and five other horses, including Bandy, Cardinal, Ebony, Fowler, and Star, accompanied the party, on a journey through the Greypeak Mountains to the old mines of Dekanter. Tiep rode Hopper for a ways until the young lad was forced to simply lead the old horse.
+
+During the journey Hopper's injured hoof got worse, and it became apparent he would not endure the full trip through the mountains and back again. Understanding that Hopper would die regardless the circumstances, Druhallen and the others decided to sacrifice the gelding to appease a tribe of Dekanter goblins and help ensure safe passage through the mines. Druhallen conjured fire within Hopper's brain to ensure a quick death, and let the goblins feast on his remains.
+
+Appendix
+Appearances
+Novels
+ The Nether Scroll
+
+References
+
+---
+
+## Holdfast arrow
+
+Holdfast arrows were types of enchanted ammunition most commonly used by Eldath-worshiping rangers.
+
+Description
+These special arrows often were decorated with blue and green ribbons and even flowers, to accentuate their peaceful nature.
+
+Powers
+Holdfast arrows were less effective in battle due to their non-combat and humane purpose. Even though they had a +1 enchantment, they dealt less damage than regular arrows and were often used to restrain rampaging beasts with minimal harm. Upon reaching their targets, holdfast arrows enveloped them in restraining vines, similar to those of the entangle spell.
+
+History
+Most commonly, these arrows were crafted by Eldathyn rangers from the Western Heartlands. In 1281 DR, these arrows could be found in Lonelywood and the wider Ten Towns area of Icewind Dale.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale: Heart of Winter
+
+References
+
+---
+
+## Hopeless
+
+Hopeless was a large gate-town leading to Hades from the Outlands.
+Description
+Hopeless was surrounded completely by a wall, which had a single entrance. The entrance was made from red stone and was carved into a screaming human face. The city was built in a large pit and was unique in that there was only a single road, which spiralled down the pit. At the end of the road was a courtyard which was home of the gate-town's Gate.
+
+All the buildings of Hopeless were bleak and drab, made from the same gray stone and wood.
+
+Gates
+Found at the bottom of the pit, the Gate to Hades appeared as a large well filled with viscous black tar-like ooze. To enter the portal one merely had to jump into the well.
+
+Inhabitants
+The residents of this gate-town were cheerless and despondent. Individuals who settled in Hopeless were ones who had nowhere else to go and were too depressed to do anything. The Gate to Hades had an effect on the inhabitants as well. Anyone who stayed in the gate-town took on a pallor that matched the drab buildings and their eyes became sensitive to light and bright colors. This transformation began after only a few weeks exposure. Due to the light sensitivity of the residents, a local law forbade bright and contrasting colors.
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Hook (weapon)
+
+Hook was the enchanted rapier that belonged to Haman, a notorious member of the Night Masks of Westgate circa 1374 DR.
+
+Powers
+Hook was enhanced with a +1 enchantment and magically gave the wielder skills to handle two weapons in both hands in battle. Additionally, the rapier improved the wielder's ability to parry incoming strikes.
+
+History
+Haman, better known for his nickname, "the Shadow," was a feared assassin in service of the Night Masks. He was well known ho wielding his two blades, Hook and dagger called Skinner, to strike down his targets and disappear back into the shadows. Reportedly, he was also a capable duelist. Haman's favorite battle stance was with Hook in his right hand and the dagger in the left. The rapier guided his opponents into Skinner's range to meet their demise.
+
+In 1374 DR, Haman worked for the corrupt owner of the Track in Westgate. The Shadow protected Mordecai with his Hook and Skinner while representing the Night Masks and dealing with the businessman.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Mysteries of Westgate
+
+References
+
+---
+
+## Horns of Hathor
+
+Horns of Hathor was a divine alteration spell used only by specialty priests devoted to Hathor called Revered Mothers.
+
+Effects
+This spell allowed a priestess to grow a pair of horns from her head and gorge her enemies. The priestess could even charge at enemies at least  tall and  away.
+
+Components
+In addition to verbal and somatic components, this spell required as a material component a piece of horn from a cow, bull or minotaur to cast.
+
+Appendix
+References
+
+---
+
+## Hoar's revenance
+
+Revenance was a powerful divine necromancy spell used by specialty priests devoted to Hoar called Doombringers.
+
+Effects
+This spell caused a corpse to rise as a revenant and seek out its killer for vengeance. This spell would only work if the killer was still alive. The caster did not have control over the risen revenant, but would only be attacked if they hindered the revenant from finding their killer. The revenant would track its target for up to six months before disintegrating.
+
+Components
+In addition to verbal and somatic components, this spell required as material components a token important to the deceased target and the priest's holy symbol to cast.
+
+Appendix
+References
+
+---
+
+## Home port
+
+Home port was a divine invocation spell used by specialty priests devoted to Valkur, allowing the recipient to sail home.
+
+Effects
+This spell allowed the recipient to unerringly sail to their home port regardless of how far away they were or inclement weather conditions. The home port was whichever port the ship docked at the most. The spell lasted for several weeks once cast.
+
+Components
+In addition to verbal components and somatic components, this spell required as material components a pebble from the vessel's native port to cast. The pebble was held during the casting.
+
+Appendix
+References
+
+---
+
+## Horn of the exalted dead
+
+A horn of the exalted dead was a macabre enchanted musical instrument whose notes summoned dead warriors to battle.
+
+Description
+The names of two to seven deceased individuals were inscribed onto the horn.
+
+Powers
+As detailed by Kazerabet in her tome the Art of Necromancy, these items bound the spirits of dead warriors with their magic, summoning them to fight for the wielder when the horn was blown. A summoned warrior needed to be called before the horn was blown and could be summoned to fight on a weekly basis. The spirits were armed with swords and spears. They would remain for up to an hour unless forced back into the horn upon their destruction. A dispel evil or spirit release spell would also send them back into the horn. Enchanted weapons were needed to harm them and they were immune to cold, poison, sleep, paralyzation, hold, and charm spells.
+
+A warrior using a horn of the exalted dead had their name inscribed on the horn after their first use of this nefarious instrument. Upon their death, their spirt would join the ranks of the horn's ghastly host.
+
+Appendix
+References
+
+---
+
+## Hogan Underwood
+
+Hogan Underwood was a kindly-looking, elderly halfling, who was secretly a retired master thief. In, at the time of Khalitarius' release, he was the owner of Happy Hogan's Igloo in the Oasis of the White Palm, and sometimes a bartender during busy evenings.
+
+Personality
+Hogan was suspicious of strangers, but loyal for life to his friends. Hogan sometimes wandered the oasis.
+
+History
+Among the many aliases of Hogan Underwood were: Hogan the Happy, Hogan the Huckster, Shylo Slick, Aldo Chella, Rory the Ransacker, Negel Broos, and Sedgewick Paddington the Third. Shylo Slick, in particular, was an alias recognized by a great majority of thieves.
+
+Besides the bar, he owned the nearby stables. He had hired a stable boy, a chef called Cookie, and a bartender, a friendly Durpari. Rose Underwood, his niece, was visiting him and bartended at his place.
+
+Possessions
+Hogan wore a very powerful cloak of protection, a ring of invisibility, and a ring of spell turning, though the rings might fail to operate when a halfling used them. He also wielded an enchanted dagger and an intelligent short sword, Shylo's Slicer.
+
+Under his bed, he had a chest labeled with his own name. In it, he had 7.7 pounds of copper, 5 pounds of silver, and 1.8 pounds of gold.The contents are given by weight, as the 1st edition material employed coinage of different weight: 10 coins made a pound, rather than 50. To preserve edition neutrality, precious metal weights are employed instead.
+
+Abilities
+Hogan's agility was as good as it got for a human; it's possible that he had superhuman dexterity when he was younger. His thieving abilities were all but guaranteed to succeed, save for his ability to hear noise, climb walls, and read languages.
+
+Activities
+Tekuna Chand knew Hogan personally. Zorath Blackblade used to drink at the bar, often bored. The sheik's bodyguards drank at his place, too.
+
+Rumors
+For people he trusted, Hogan would volunteer the following during the time between Khalitarius' release and ultimate destruction:
+He knew that Thurnas Netmaster knew how to pilot a sand sled.
+The guildmaster of the sandvoyagers had not been seen for many days, although Hogan had received parchments with his signature, requesting libations.
+He had observed that Corga Kazan was never seen before noon at his little place in the courtyard.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Jemuril
+
+The House of Jemuril was a rowhouse and the home of the dwarven adventurer known as Jemuril. It was kept closed to visitors and housed the collection of magical items she had amassed over the course of her adventuring career.
+
+Location
+This house was located along Tower Trail, in the Dock Ward of Waterdeep.
+
+Structure
+This building was two-stories tall.
+
+Appendix
+References
+
+---
+
+## House of Velstrode
+
+The House of Velstrode was a rowhouse and the home of the notable adventurer and merchant Velstrode the Venturer in the 14 century DR.
+
+Location
+This house was located along the Street of Bells, in the Castle Ward of Waterdeep.
+
+Structure
+This building was three-stories tall.
+
+Services
+In addition to acting as his private residence, Velstrode ran this property as an equipment shop.
+
+Appendix
+References
+
+---
+
+## Horned ring
+
+The horned rings were eight enchanted rings that the mad wizard Halaster created for himself and his seven apprentices.
+
+Description
+These iron rings had small horns rising out of them that curved backward toward the wearer's fingers.
+
+Powers
+Halaster imbued each of the eight horned rings with distinct powers and immunities, only accessible by the individual they were designed for. Anyone else who wore one of these rings had access to only one or more powers.
+
+The most common power of the horned rings was similar to Halaster's teleportation rings or the greater teleport spell, but teleported the wearer to different locations within Undermountain. The wearer was also able to specify where they wished to teleport. Following the Spellplague, this was the only power of the rings available to laypeople.
+
+The ring could break through any magical barriers, with the exception of prismatic walls or prismatic spheres, to get them there safely, allowing it to bypass Halaster's teleport cage. And the wearer could cloak themselves upon command in an antimagic aura.
+
+In order to recharge itself, a horned ring would absorb any incoming magic missiles and magical and natural electrical energy directed at the wearer. The wearer was completely protected from attacks of these kinds while wearing a horned ring.
+
+Notable Owners
+ Garrik Oakspear, Halaster's chief spy during the mid–14 century DR, had a horned ring in his possession.
+ Halaster Blackcloak, the creator of the horned rings.
+ A helmed horror, hidden away in a secret room on the Dungeon Level of Undermountain, had a horned ring on its right gauntlet in 1358 DR. When a group of adventurers eventually came across the helmed horror, it extended its gauntlet out and offered them the ring.
+ Iyrauroth, a powerful black dragon from Thar, had one of the horned rings in his possession in 1373 DR.
+ Jhesiyra Kestellharp, one of the seven former apprentices of Halaster, had a horned ring in her possession prior to her disappearance. The horned ring was then considered "lost" over the centuries, but in actuality it was still in her possession.
+ Maddgoth had a horned ring in his possession in the 15 century DR.
+ Muiral, one of the seven apprentices of Halaster, had a horned ring in his possession.
+
+Rumors & Legends
+Rumors abounded that the horned rings allowed Halaster to remotely view their wearer and read their thoughts.
+
+Appendix
+Appearances
+Adventures
+The Ruins of Undermountain • The Ruins of Undermountain II: The Deep Levels • Expedition to Undermountain • Halls of Undermountain • Waterdeep: Dungeon of the Mad Mage • Waterdeep: Dungeon of the Mad Mage
+
+The Return of Randal Morn
+Video Games
+Neverwinter Nights: Tyrants of the Moonsea
+
+References
+
+---
+
+## Horusret I
+
+Horusret I was the first pharaoh of Mulhorand.
+
+History
+Horusret I was born in -1077 DR. He ascended to the throne of pharaoh of Mulhorand in -1045 DR, three years after the First Mulhorand Empire began, and his reign lasted until -926 DR.
+
+Appendix
+References
+
+---
+
+## Horuseres II
+
+Horuseres II was the fifth pharaoh of Mulhorand.
+
+History
+Horuseres II was born in -30 DR. He ascended to the throne of pharaoh of Mulhorand in 4 DR, after the former pharaoh Horuseres I had disappeared.
+
+In 857 DR, a man by the name of Huriot was brought before the pharaoh under the conviction of grave robbing. The man managed to persuade Horuseres II to let a game of chance decide his fate, with a loss resulting in his execution and a victory resulting in being sold off into slavery.The pharaoh of this historical event was left vague. However, since the sourcebook Old Empires is set in 1357 DR and these events were said to have occurred "five centuries ago," that would place it during the time of Horuseres II's reign.
+
+Huriot pulled out his dice of chancelessness, whose magic nature was instantly detected by the pharaoh and had their effect reversed by his divine power. Huriot planned to lose the game on purpose as a display of honesty, hoping it might earn him a pardon, but with their effect reversed he had instead won and was sold into slavery for life.
+
+Horusres II's reign came to an end in 921 DR, when he was slain by a green dragon known as Chathuulandroth. The tomb constructed for him in the Great Vale's Land of the Dead would end up being one of the greatest in Mulhorand's history, being carved out of an entire mountainside.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Horustep I
+
+Horustep I was the third pharaoh of Mulhorand.
+
+History
+Horustep I was born in . He ascended to the throne of pharaoh of Mulhorand in  and his reign lasted until .
+
+Appendix
+References
+
+---
+
+## Horuseres I
+
+Horusres I was the fourth pharaoh of Mulhorand.
+
+History
+Horusres I was born in -361 DR and he ascended to the throne of pharaoh of Mulhorand in -339 DR.
+
+Horusres I's reign lasted until 4 DR, when he disappeared within a sandstorm in the Plains of Purple Dust.
+
+Appendix
+References
+
+---
+
+## Horustep II
+
+Horustep II was the seventh pharaoh of Mulhorand.
+
+History
+Horustep II was born in 888 DR. He ascended to the throne of pharaoh of Mulhorand in 922 DR, after the former pharaoh Mahorustep I had died in battle against the Red Wizards of Thay during a half-hearted attempt to prevent the nation from seceding from the Second Mulhorand Empire. Horustep II would die later that year during the same ongoing conflict.
+
+Appendix
+References
+
+---
+
+## Honeydrop
+
+Honeydrops were a type of honey-flavored candy found in Faerûn.
+
+Description
+Roughly the size of a thumb, these candies consisted of honey mixed with an edible gum and spices. This combination of ingredients not only provided the candy its flavor, but kept its honey from melting and running in hot conditions.
+
+Notable Users
+These candies were quite popular in the lands of Calimshan, Chessenta, Mulhorand, the Raurin desert, and the Vilhon Reach.
+
+Appendix
+Appearances
+Video Games
+Sword Coast Legends
+
+References
+
+---
+
+## Honeyed knot
+
+Honeyed knots were a type of coarse pastry found in the Sword Coast.
+
+Description
+The ingredients involved in baking these pastries were flour, eggs, sugar, and nuts. Their name was derived from them sometimes being glazed in honey when served fresh.
+
+Appendix
+Appearances
+Video Games
+
+External Links
+
+References
+
+---
+
+## Horn of valor
+
+A horn of valor was a magic item that boosted the morale of allies.
+
+Description
+This horn was made of gold but did not otherwise appear special.
+
+Powers
+When sounded, allies who heard the blast experienced a surge of morale and foes who heard the sound a lowering of their morale. Under normal weather conditions, the horn's magic was effective out to, and, even in a raging storm, the horn's magic would affect those within .
+
+The horn would only function three times in a twelve-hour period; if accidentally sounded an additional time beyond that, it would lose it magical power for up to six days.
+
+Notable Owners
+At least one of the warriors who fought with the Moonlight Men against the orcs of the Nethertide Horde in the Battle of Turnstone Pass bore one of these horns. It was buried with the warrior in the Cairn of Moonlight in Turnstone Pass.
+
+Appendix
+References
+
+---
+
+## House of Song (Selgaunt)
+
+The House of Song was a temple dedicated to Milil, the Lord of All Songs, found in Selgaunt.
+
+Inhabitants
+High Songmaster Ansril Ammhaddan headed a clergy of 24 tuneservants and 49 followers.
+
+Appendix
+
+References
+
+---
+
+## Holy flail
+
+Holy flail was a divine alteration and invocation spell used by priests devoted to Tempus, enabling them to turn their holy symbol into an enchanted flail.
+
+Effects
+This spell transformed the priest's holy symbol, or any non-bladed weapon, into a magical flail. The magical force forming the flail crackled with energy, making it much easier to strike and harm the caster's foes. The holy flail inflicted additional harm to foes of opposing moral stances to the caster with regards to good versus evil and law versus chaos.
+
+If created from a holy symbol, the holy flail could only be wielded by priest of Tempus.
+
+Components
+In addition to verbal and somatic components, this spell required as material components the priests holy symbol and a pinch of powdered gemstone to cast.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House of Wonders
+
+The House of Wonders was a temple dedicated to Gond located in the city of Urmlaspyr in 1358 DR.
+
+Inhabitants
+The temple was run by Noble Artificer Yanneth Kerigg. Yanneth was assisted by 16 priests and had a congregation of 6 followers.
+
+Appendix
+
+References
+
+---
+
+## Horgold Hadru
+
+Horgold Hadru was a potter that lived in Baldur's Gate in the 15 century DR.
+
+Possessions
+Hadru owned a shop near the southern part of Wyrm's Crossing.
+
+History
+In 1482 DR, skilled thieves of the Guild vandalized and removed the hands of five statues. A thorough investigation was made by the Flaming Fist, but nothing turned up. A day later, six bored noble youths committed the same crime with a dagger and hammer, but to the well-known Beloved Ranger statue of Minsc and Boo. During their act, a noble of the Ravenshade family dropped a brooch and a noble of the Oberon family dropped a dagger. The entire city was outraged, and the young nobles panicked; they headed to Horgold Hadru, who owed the Durinbold family a favor.
+
+Hadru the potter agreed to take in the young nobles, and allowed them to hide in a hanging cellar under his shop. He too panicked and came to the conclusion that the nobles were behind the crime.
+
+Appendix
+Appearances
+Adventures
+Murder in Baldur's Gate
+References
+
+---
+
+## House of Two Hands
+
+The House of Two Hands was a monastery in the Castle Ward of Waterdeep, belonging to the Order of the Even-Handed.
+
+Location
+This building was located on the slopes of Mount Waterdeep, overlooking Smuggler's Bay.
+
+Structure
+This monastery stood three stories tall.
+
+History
+For much of its existence this building was a villa. Then in the late 14 century DR it was purchased by the Order of the Even-Handed with the help of some financial backing from Piergeiron the Paladinson.
+
+Appendix
+References
+
+---
+
+## Holorarar
+
+Holorarar was one of the eight subkingdoms of the dwarven realm of Shanatar. It was the final kingdom to be founded by the dwarves of Shanatar.
+
+Geography
+Holorarar was located beneath the Clovis Fields, within the surface realm of Tethyr. It was located roughly in the middle of Deep Shanatar. Most of the realms inhabitants lived in a single massive cavern that was home to a large shallow lake.
+
+Inhabitants
+Within Holorarar, members of nearly every clan of Shanatar made their home, building their houses in a large ring on the cavern walls. Immigration, and the new ideas that came with it, were welcome in the kingdom. As a result, the population of Holorarar grew so rapidly that many dwarves later moved to High Shanatar. After it was abandoned by the shield dwarves, the ruined kingdom was occupied by several tribes of hobgoblins, who previously dwelt in the surrounding Underdark. They lived in a state of constant intercine warfare for centuries.
+
+Economy
+Holorarar was the breadbasket of Shanatar and was a wealthy trading hub. It was home to rich fields of golden kelp and lush growths of mushrooms.
+
+History
+Holorarar, like the rest of Shanatar, fell during the Kin Clashes in . The invading duergar employed slash-and-burn tactics, devastating the lush farms and fields of the realm. As of, the fallen kingdom was now the home to a kingdom of the same name, inhabitated by numerous tribes of thousands of hobgoblins and other goblinoids. After centuries of inter-tribal warfare, in, the hobgoblins finally united as a single nation under a king. It has since grown in population and military strenght. The tribes still feuded with each other but every once in a while united as a single force to conduct massive raids on the surface realms of Calimshan and Tethyr.
+
+Appendix
+References
+
+Connections
+
+---
+
+## House Sseradess
+
+House Sseradess was a tribe of yuan-ti known for their prowess underwater.
+
+Base of Operations
+House Sseradess once dominated the Thindol Basin until their lizardfolk slaves were defeated by soldiers of the Shoon Imperium in the, forcing them to retreat to undersea lairs. They were able to gain back some control by infiltrating the courts in Thindol. However, this ended in the, when all of their agents were discovered.
+
+As of the, House Sseradess controlled all of the waterways of Thindol as well as Labrand's Folly–a large subterranean passage, and the Lapal Sea.
+
+House Sseradess maintained the underwater coral fortress of Khass'insara near Thindol's capital city of Thindar.
+
+Relationships
+Given the relative isolation of House Sseradess' holdings from the other great yuan-ti tribes, this tribe had no allies or enemies among their kin.
+
+Activities
+House Sseradess strove to dominate the humans of Thindol since their defeats in the past. However, this was made more difficult by the vigilance of the large number of inhabitants of Thindol who feared snakes. The Sseradess were able to conquer the various kuo-toa tribes of Gathgoolgapool. They used the kua-toa to harvest food and other materials from the sea that could be sold for coin in Thindol.
+
+All members of House Sseradess could breathe underwater and were completely at home in that environment.
+
+The Sseradess poisoned Gurdeth's wells with a diluted version of the poison used to create tainted ones, resulting in the creation of tainted one and broodguard servants for the house. Some of these creations were executed within the city when they ran amok.
+
+History
+In the, House Sseradess, along with allies from House Sauringar, enslaved the Thinguth tribe of the Guthland. The Thinguth remained as slaves of the yuan-ti until their liberation by the Shoon Imperium in 293 DR.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Hog Street
+
+Hog Street was minor avenue of hard-packed earth and gravel in the Dock Ward of Waterdeep.
+
+Location
+This road ran from northeast to southwest, extending off of the Way of the Dragon and terminating at Tower Trail.
+
+Appendix
+References
+
+---
+
+## House Se'Sehen
+
+House Se'Sehen was a tribe of snake-headed yuan-ti known for their ability to spit venom. Members of this tribe were called Se'Sehren.
+
+Base of Operations
+House Se'Sehen was the largest and most powerful house within the Black Jungles as of 1372 DR, having seized the former lands of House Hss'tafi when they disappeared in the . This also included both the Pit of Vipers and Ss'inthee'ssaree.
+
+Relationships
+The Se'Sehen aided Sseth during the deity's initial rise to power when establishing the empire of Serpentes and were awarded the lands of the Tashalar basin for their efforts. The Se'Sehen counted the members of Houses Extaminos and Sauringar as close allies.
+
+Members of this tribe were frequently at odds with the Coiled Cabal as both groups thought they were the rightful crafters of yuan-ti dominance in Faerûn.
+
+The Se'Sehen clashed often with House Eselemas and House Jennestas, given their land claims within the Black Jungle.
+
+Activities
+The Se'Sehen experimented extensively on creatures found within the Black Jungle. They created the ti-khana, which served their tribe loyally.
+
+History
+The Se'Sehen were forced to withdraw from Tashalar in the  just ten years after Sseth's disappearance. This ushered in centuries of somnolence for the tribe. Sseth's reappearance during the Time of Troubles in 1358 DR reinvigorated the tribe, prompting them to forge an alliance with the Rundeen slave and trade consortium of Tashalar. The Se'Sehen exchanged exotic poisons and spices for slaves and transportation of their agents to the ports of the north, scattering their eyes across Faerûn. Among these spies were members of House Extaminos.
+
+House Extaminos' split from House Se'Sehen occurred when a pair of strong claimants for leadership of House Se'Sehen rose to power. Instead of crippling the house with pointless civil war, the two decided to split and allow any Se'Sehen to choose which side they would follow. The claimant's group with the greater numbers would remain as House Se'Sehen, while the other would form a new house and lead his followers to a new location.
+
+Appendix
+References
+
+FR:Maison Se'Sehen
+Connections
+
+---
+
+## House Hss'tafi
+
+House Hss'tafi was a tribe of yuan-ti distinguishable by their cobra-like hoods. Members of this tribe were called Hss'tafin.
+
+Base of Operations
+House Hss'tafi once resided on the northwest shores of the Lapal Sea in the Black Jungles. The entire tribe was magically transported from the jungles into the ruins of Ss'thar'tiss'ssun in the Forest of Wyrms in -320 DR.
+
+Relationships
+House Hss'tafi viewed themselves as the most practical of the ha'srammass. They worked well under the nagas and other species, realizing that by doing so they could ultimately advance Sseth's goals, and by default those of the yuan-ti, across Faerûn. This view led the other great yuan-ti tribes to view the Hss'tafin with distrust.
+
+History
+The Hss'tafin became part of the ruling class of Najara, the Kingdom of Snakes, ever since their arrival in -320 DR. They held various roles including those of merchants, administrators, and religious leaders.
+
+House Hss'tafi played a critical role in rebuilding the ruined sarrukh city of Ss'thar'tiss'ssun during the reign of Terpenzi. The Hss'tafin were instrumental in reestablishing the rule of the nagara after Najara's fall which helped transform the kingdom into a major power in the Western Heartlands.
+
+The Hss'tafin were the first tribe of yuan-ti to develop the process for creating tainted ones and broodguards.
+
+Appendix
+References
+
+Connections
+
+---
+
+## House Extaminos
+
+House Extaminos was a tribe of yuan-ti known for their scientific experiments. Members of this tribe were called Extaminaar.
+
+Base of Operations
+As of the, House Extaminos' center of power was Hlondeth in the Vilhon Reach. However, the Extaminaar infiltrated key positions in and under many cities spread across Faerûn.
+
+Relationships
+Originally an offshoot of House Se'Sehen, the Extaminaar remained close allies with the Se'Sehren over the centuries.
+
+Activities
+The Extaminaar served as trade agents for House Se'Sehen, controlling a wide array of illicit activities through the various thieves' guilds and adventuring groups under their sway.
+
+Nearly all Extaminaar enjoy conducting experiments on captured creatures. These experiments involved magic, drugs, and harsh training regimens that resulted in a variety of useful guardians and servants. These experiments were done with the approval of the elders provided they did not draw unwanted attention to the House.
+
+The Extaminaar's fondness for experimentation did not end with captured subjects. Many Extaminaar grafted additional appendages to their bodies. Some of these appendages were as long as, and usually kept coiled around their body and hidden beneath loose clothing. The coiled appendages also made the Extaminaar appear larger than they truly were.
+
+History
+House Extaminos' split from House Se'Sehen occurred when a pair of strong claimants for leadership of House Se'Sehen rose to power. Instead of crippling the house with pointless civil war, the two decided to split and allow any Se'Sehen to choose which side they would follow. The claimant's group with the greater numbers would remain as House Se'Sehen, while the other would form a new house and lead his followers to a new location.
+
+The newly formed house ventured northeast in a dangerous journey in search of a new home. They eventually settled in the Ankhwood and Chondalwood. Attacks from outsiders weakened the group at both locations, prompting them to regather and retreat to the Orsraun Mountains. Human nobles from the nearby House Extaminos stumbled upon the yuan-ti rituals of Varae and began calling on the yuan-ti for aid. Years of crossbreeding between human and yuan-ti led to the yuan-ti's genetic dominance of House Extaminos. It was at this point where they began calling themselves Extaminaar.
+
+Appendix
+References
+
+FR:Maison Extaminos
+Connections
+
+---
+
+## House Jennestas
+
+House Jennestas was a tribe of yuan-ti known for their stealth and patient battle tactics. Members of this tribe were called Jennestaa.
+
+Base of Operations
+House Jennestas was strongest within the Black Jungles where they lived within a network of underground tunnel holds. Great numbers of Jennestaa could be found along the River Chun and the ruins of Ss'yin'tia'saminass. They controlled the region of the Black Jungles from Dolsel Gap to the River Lapar.
+
+The Jennestaa openly ruled the human city of Mhairhetel with yuan-ti purebloods who could easily pass as humans if suitably garbed. Though many inhabitants of Mhairhetel whispered that the "blood of the jungle" ran in their veins, the Jennestaa ruled fairly and kept the city protected and prosperous. Patrols of yuan-ti frequently guarded the slopes of the Guth Mountains near Dolsel Gap.
+
+The Jennestaa caused a degree of chaos within the city of Delselar by introducing a large number of venomous snakes into the fields surrounding the city. The snakes were drawn to magical beacons hidden within the city. Plenty of humans perished from inadvertent encounters with the dangerous reptiles.
+
+Relationships
+The Jennestaa were often derided by the other great yuan-ti houses as being backwards or slow-witted. The Jennestaa were allied with House Eselemas against House Se'Sehen for control of the Black Jungles.
+
+Activities
+House Jennestas appeared to be the least interested of all of the great yuan-ti houses with expanding their influence outward into more human cities and lands. They viewed this type of expansion and intermingling with humans as detrimental to the advancement of the yuan-ti race as a whole. The elder Jennestaa maintained that true yuan-ti dominance would be achieved by reverting human civilization back to a state of wilderness. They hoped to achieve this goal by expanding the jungles, allowing wild beasts to roam free under yuan-ti control, and destroying human agricultural development. Large servitor beasts were used to destroy bridges and fell trees onto roadways to hinder human commerce.
+
+Because of this outlook, only the weakest purebloods were sent to live and rule in Mhairhetel as an experiment conducted by the elders to determine the results of long-term human breeding. Other elders believed that maintaining control of the city was crucial since the Se'Sehen would otherwise be able to keep them pinned within the jungles, barring them from any contact with outsiders. Any threats within Mhairhetel were dealt with swiftly.
+
+The Jennestaa captured and raised jungle beasts both as a source of food and for experimentation. A breed of altered apes was created centuries ago that exhibited bizarre powers. As of the, the Jennestaa used a portal within the Black Jungles to kidnap halflings from Luiren, as well as humans taken from surrounding lands, to be used for experimentation.
+
+Appendix
+References
+
+Connections
+
+---
+
+## House of the Wheel
+
+The House of the Wheel was a temple dedicated to Gond located in the city of Westgate in 1358 DR.
+
+Location
+The temple was located in the northwest section of the city at the intersection of Westlight Walk and Westgate Market Street.
+
+Inhabitants
+The temple was run by High Artificer Ashuntira Elhorn. Ashuntira was assisted by 11 other priests and 26 followers.
+
+Appendix
+References
+
+---
+
+## House of Spires and Shadows
+
+The House of Spires and Shadows, which was also called the Shadowspires, was a temple dedicated to Mask located in the city of Westgate in 1358 DR.
+
+Location
+The temple was located near the center of the city near the intersection of Westgate Market Street and Silverpiece Way.
+
+Inhabitants
+The temple was run by Shadowlord Demarch Hond Rhauballa. Hond was assisted by 9 other priests and 21 followers.
+
+Appendix
+References
+
+---
+
+## House of Ilmater
+
+The House of Ilmater was a temple dedicated to Ilmater located in the city of Westgate in 1358 DR.
+
+Location
+The temple was located in the northwest section of the city at the intersection of Westgate Market Street and Wagonwheel Ride.
+
+Inhabitants
+The temple was run by High Priest Hunn Irblast. Hunn was assisted by 6 other priests and 12 followers.
+
+Appendix
+References
+
+---
+
+## Hond Rhauballa
+
+Shadowlord Demarch Hond Rhauballa was the high priest of the House of Spires and Shadows, a temple dedicated to Mask, in Westgate in the .
+
+Activities
+Hond was the leader of Mask's faithful in Westgate. His congregation within the temple consisted of 9 other priestesses and 21 followers.
+
+Appendix
+Notes
+
+References
+
+---
+
+## House of Silks
+
+The House of Silks was a fine clothing and jewelry shop located in Westgate in 1367 DR.
+
+Location
+The shop was located at the corner of Westgate Market Street and Woodside Way in the south section of the city in front of Castle Thorsar.
+
+Activities
+The House of Silks' prices were expensive but their clothing and jewelry were of the highest quality. An extraordinary number of their customers seemed to have their purchases stolen, leading many to wonder if the proprietors of the business were up to no good. The owners insisted that the Night Masks were simply targeting them and trying to ruin their business.
+
+Appendix
+References
+
+---
+
+## House of Night's Embrace
+
+The House of Night's Embrace was a fortified temple and palace dedicated to Talona located in the city of Tashluta in 1367 DR.
+
+Inhabitants
+Lady Doom Thalaera Indlerith was the head of the House of Night's Embrace as of the .
+
+Activities
+The House of Night's Embrace was regarded as the most prominent of all of Talona's temples in Faerûn. The followers of Talona made wicked poisons and potions within its depths, designed to spread disease and sickness. Antidotes for such creations were also made and sold at high prices.
+
+Defenses
+A small army of devout followers, assisted by golems and gargoyles, defended the temple.
+
+Appendix
+References
+
+FR:Maison du Baiser de la Nuit
+
+---
+
+## House of Mirth
+
+The House of Mirth was an inn in Bralizzar, a caravanserai in the Dustwall Mountains in the mid–14 century DR.
+
+Location
+The House of Mirth lay along the west side of the Bazaar, south of the Boulevard. This inn was advertised only by a red tile set beside the door.
+
+Structure
+Its main room was long and narrow, several steps up from the rest of the street. It was well-appointed, with large cushions, small tables, and an elegant carpet. The illumination came from niches in the walls.
+
+Services
+The establishment was of middling quality, in between that of the Inn of the Golden Palm and the Swayback Camel. The meals were reasonable and the clientele was not dangerous.
+
+Staff
+The proprietor was Tasha Lal, who employed three women.
+
+Inhabitants
+Tasha Lal
+
+Appendix
+Appearances
+ Desert of Desolation
+
+References
+
+---
+
+## House of the High One Ascendant
+
+The House of the High One Ascendant was a temple devoted to Azuth located in the Lhairghal Mountains near Lhair in western Halruaa.
+
+Description
+The temple was massive. Existing caverns within the mountains were used as the heart of the temple, with the front facade being constructed with a mighty stone archway and portico. The front of the temple was created with artistic use of the stone shape spell and master sculptors.
+
+Inhabitants
+First Arleenaya Kithmaer ran the House of the High One Ascendant.
+
+Appendix
+References
+
+---
+
+## House of the High One
+
+The House of the High One was the most revered temple devoted to Azuth as of the .
+
+Location
+The temple was located in Saerloon in the western section of the city.
+
+Inhabitants
+The House of the High One was run by six powerful wizards including Helven, Mirren, Lhun, Riilath, Ormil, and Thelcaunt.
+
+Appendix
+References
+
+---
+
+## Honeycake
+
+Honeycakes were a variety of Faerûnian dessert, often served during Shieldmeet.
+
+Description
+Honeycakes were similar in appearance to what was known on another world as Lebkuchen. They were typically made with both honey and other spices.
+
+In east Faerûn, this dessert contained nuts, bits of lemon or orange peels, and was cut into small squares. The further one went towards west Faerûn, including the Sword Coast, the less one would find of both nuts and peels. Moreover, farmhouse-baked honeycakes were often left in large disk shapes instead of being cut.
+
+Availability
+ In interior Faerûn, they could be found in the small city of Elversult.
+ In north Faerûn, they could be found in Elventree and the city of Ravens Bluff
+ In east Faerûn, honeycakes were a part of Rashemen cuisine.
+ In northwest Faerûn.
+ In south Faerûn, they could be found in the nation of Halruaa.
+ In west Faerûn, they could be found in the Western Heartlands, including the region known as the Sword Coast.
+
+Notable Users
+Groups
+ This desert was a favorite among the members of Moonstorm House.
+
+Individuals
+ General Ahmahd abd al-Iffa of Huzuz had a deep love for honeycakes.
+ Many of the wives in the Grand Caliph of Huzuz's harim were skilled in baking honeycakes.
+
+Races & Sentient Creatures
+ Honey cakes were an especially popular treat among halflings.
+
+Appendix
+Appearances
+Novels
+The Veiled Dragon • Windwalker • The Wizardwar
+
+Thornhold • The Magehound
+Video Games
+
+Baldur's Gate III
+Organized Play & Licensed AdventuresHerald of the Moon''
+
+References
+
+---
+
+## House of Pride
+
+House of Pride was a perfume shop in the city of Waterdeep in the 14 century DR.
+
+Location
+This store was located in Waterdeep's Dock Ward, in the block of buildings between Fillet Lane and Net Street.
+
+Structure
+This building stood one-story tall. A special enchantment placed over the store prevented its glass goods from shattering or falling apart by any means, though they could still be vaporized or melted.
+
+Services
+The House of Pride was well stocked, selling a wide variety of perfumes and exotic scents sourced from all across Faerûn, including the burnt ashes of a snowsnake and the musk of female giant slugs. All contained within glass bottles of various sizes, shapes, and hues.
+
+Inhabitants
+The store was guarded by a group of trained, fiercely-loyal hunting dogs that all sported compact builds.
+
+Reputation
+The House of Pride was among some of the more notable and recognizable shops in the Dock Ward.
+
+Appendix
+Background
+In the 2-edition sourcebook Volo's Guide to Waterdeep, this location's name was misprinted as the Rouse of Pride.
+References
+
+---
+
+## Horthaun Orgolath
+
+Horthaun Orgolath was the second tiefling Nentyarch of the Orgolath Dynasty of Narfell.
+
+Activities
+Horthaun reigned for many years from  until . He was the fourth Nentyarch during the Orgolath Dynasty.
+
+Relationships
+Horthaun was the third son of his father, Vargaun, but inherited the throne upon his father's death in -535 DR. Horthaun had two sons, Jelethar and Morthass.
+
+Appendix
+References
+
+Connections
+
+---
+
+## House of Shyrrhr
+
+The House of Shyrrhr was the private residence of Piergeiron's illustrous Lady of the Court, Shyrrhr.
+
+Location
+This home was part of a rowhouse that stretched across Waterdeep Way, in the Castle Ward of Waterdeep.
+
+Structure
+The House of Shyrrhr stood three-stories tall.
+Interior
+This home was greatly furnished with carpets, lounge cushions, and a round bathing pool. It featured three bedrooms with round, canopied beds, one which had a closet the size of a room. And finally, there was a dining room where Shyrrhr entertained her guests. The pantry featured a secret tunnel that connected the home to Piergeiron's Palace.
+
+The only valuables for thieves to be find inside this home were a grand selection of fine wines, many precious gemstones that were roughly worth 20 gold pieces each, and Shyrrhr's fine gowns.
+
+Appendix
+References
+
+---
+
+## Houses of Morning
+
+The Houses of Morning were not one but three temples to Lathander in the city of Loudwater in the Delimbiyr Vale in the mid-to-late 14 century DR.
+
+Location
+The temples stood in different parts of the city, with one in the west, another in the east, and the third in the center. This last one was in High Town, on top of Loudwater Crag and near High Lord's Hall.
+
+Staff
+The high priest of the Houses of Morning was Prior Athosar.
+
+Services
+Prior Athosar provided healing and resurrection magic such as raise dead, albeit for an appropriate fee. He could also remove corruption in a consecrated space and cure those afflicted with lycanthropy, at no cost.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Epidemic
+
+References
+
+---
+
+## Horlarth Talanthil
+
+Horlarth Talanthil was the third Sorcerer-Arkhan of the Talanthil Dynasty to rule the nation of Raumathar.
+
+Activities
+Horlarth reigned from  to his death in, inheriting the throne when his father Corlarth die.
+
+Relationships
+He was the third son of Corlarth. Horlarth's firstborn son and heir was Nayloss "Fireyes".
+
+Appendix
+References
+
+Connections
+
+---
+
+## House of Revels
+
+The House of Revels was a temple dedicated to Sune located in the city of Ordulin in the .
+
+Inhabitants
+The temple was run by High Priestess Aummerglau Tistrin. Aummerglau was assisted by 29 other priestesses and 56 followers.
+
+Appendix
+References
+
+---
+
+## Holdfast Inn
+
+The Holdfast Inn was the inn in the hamlet of Liam's Hold, lovingly ran by spouses Ivus and his half-dwarven wife Nuli Barbarak circa 1372 DR
+
+Structure
+The inn was established in the crumbling tower that once belonged to the namesake of Liam's Hold - the mighty warrior and wizard Sunder Halyndliam. The tower was fully made out of stone, and the floors that survived the ravages of time had ornately carved stone stairs and arched windows. Liam's tower had three wings; each rose two floors up. Two of the wings stood along the hamlet's walls, while the third was connected to the stables, held the inn's entrance, and had the establishment's kitchen and pantries.
+
+The inn's sign that hung above the main door proudly announced everyone the establishment's name and was decorated with the image of a crystal ball adorned with a blue pointy star-spangled wizard's hat.
+
+Interior
+The stone tower halls were carpeted in furs against the chill, and guest bedchambers were generously filled with floor furs and heavy window curtains to protect against cold drafts. The curtained and canopied beds provided additional insulation from the cold.
+
+Atmosphere
+The Holdfast Inn prided itself in mindful service. The servants left warming pans on cold nights and prepared nightkiss drinks for the guests. These drinks were free of charge and left on the nightstands. Warmed towels, robes, and wash water were also provided. The service and filling food were the reasons why many merchants looked forward to their stays at the Holdfast Inn and even arranged their travel plans to get the opportunity for rest and comfort of Liam's Hold.
+
+Services
+
+Apart from meals, alcohol, and lodging, the Holdfast Inn provided its guest with the best entertainment on the Trade Way. The adventuring and traveling lovers of the arts often trotted to the Holdfast Inn to see the venue's latest acts.
+
+The eveningfeast was often served from the inn's kitchen, efficiently prepared by Nuli Barbarak. The solid foods were placed on a sizable kitchen table and liquid foods bubbled in kettles and pots. For a flat fee, customers were given plates and brown to fill up with all the freshly-made dishes.
+
+History
+In 1372 DR, a famous Waterdhavian artist Evani was booked to perform the one and only show alongside her acclaimed musical device Evani's Fantabulizer. Ivus Barbarak, the innkeep was beyond himself with the joy of being able to convince Evani to perform at the Holdfast Inn.
+
+During the same period of time, the village's garlic enthusiast - Rab Bitnez was hosting a party bash and placed a huge order for the inn's best ale, something the Hero of Daggerford help with. Eventually, the simple ale delivery led the hero to uncover a vile vampire who was feeding on the inhabitants of Liam's Hold under cover of the night.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## House of Fair Trade
+
+The House of Fair Trade was a temple in the small frontier city of Nesmé dedicated to Waukeen, that at times acted as the seat of government for the town's theocratic leadership.
+
+Location
+This building was situated in the center of Nesmé.
+
+Structure
+This building stood four stories tall, was made of stone, and had a circular shape. It had a peaked roof, what some would describe as spired, supported by wooden beams.
+
+Interior
+On the top floor of the temple was a room utilized by the town's leadership. A long stone table adorned it, along with twelve worn chairs and small glass windows.
+
+Inside one of the temple's chambers was a portal that led to an unknown location in Silverymoon. This was used by Lady Alustriel to send adventurers and resources to help the city.
+
+History
+Following the disappearance of Waukeen and the decline of her church during the Time of Troubles, this temple was converted into a boarding hall for merchants. Later, following the goddess's return, the building experienced some resurgence as a Waukeenar temple.
+
+When Nesmé was later sacked in 1370 DR by trolls, this temple was one of the few buildings left untouched.
+
+Inhabitants
+This temple was primarily operated by the high priestess Jygil Zelnathra.
+
+Appendix
+Appearances
+Adventures
+Dungeon #144, "The Muster of Morach Tor"
+
+References
+
+---
+
+## Hothemer
+
+The Hothemer  family was part of the nobility of Waterdeep, gaining nobility status in .
+
+Organization
+As of the, the matriarch of the Hothemer family was Malas Hothemer, with Citta Hothemer as consort. Chynna Hothemer was his eldest daughter and heir. During this period, there were seventeen living members of the Hothemer noble family.
+
+Activities
+House Hothemer gained their fortune trading, and owned a great fleet of caravans and wagons.
+
+History
+The family first received their nobility ranking in .
+
+Having been turned into a troll while under the influence of fell magic, eight-year-old Chynna accidentally killed her two elder brothers, Hathin and Robin, circa 1367 DR. Her affliction was cured by Lord Maskar Wands. Consequently, the family went into deep mourning for their two sons and late heirs.The text of City of Splendors actually says "little eight-year-old Citta" and "Citta
+Hothemer turned into a troll", but specifies Citta is the consort of Malas and states that Hathin and Robin are her brothers and the former heirs, but Chynna is specified as the next heir. It seems likely that "Citta" is in error and "Chynna" was intended.
+
+Base of Operations
+The Hothemer family owned a noble villa located in the North Ward of Waterdeep.
+
+Members
+ Malas Hothemer: Patriarch and leader of the family, circa 1372 DR.Malas is specified as matriarch in City of Splendors and as patriarch in "Noble Houses of Waterdeep", suggesting an update or correction.
+ Citta Hothemer: Consort of Malas.
+ Chynna Hothemer: Eldest daughter and heir of Malas.
+ Hathin Hothemer: Slain son of Malas and Citta.
+ Robin Hothemer: Slain son of Malas and Citta.
+ Yunth Hothemer: Arch-rival of Dulbravvan Anteos.
+
+Family Tree
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Hornblade (weapon property)
+
+Hornblade was a magical weapon quality that allowed a weapon to be comfortably wielded by halflings or gnomes despite not being correctly sized for them.
+
+Description
+The earliest hornblade weapons were fashioned from real animal horns and antlers, hence their name. While later examples were more conventionally crafted, many were still adorned with pieces of horn or designs reminiscent of horns. The majority were short swords and longswords with curved blades, and occasionally they were spears.
+
+Ability
+When wielded by a halfling or a gnome, a hornblade weapon seemed much smaller or lighter than it really was. For example, a human-sized longsword would normally need to be wielded in two hands by a halfling, but if it had a hornblade enchantment, it could be wielded in only one hand, but was still a longsword in all other respects. It could be used as normal by a human and members of other larger races.
+
+Creation
+Along with skill in crafting magical weapons, the creator needed access to the shrink item spell.
+
+History
+The original hornblade weapons were created by a halfling wizard—thought to be a lightfoot, given their more common possession of them—to give the hin an edge in battle by letting them wield larger weapons. Both halflings and gnomes developed them further.
+
+Appendix
+Appearances
+Novels
+The Year of Rogue Dragons (The Rage, The Rite, The Ruin)
+
+References
+
+Connections
+
+---
+
+## Holy Symbol of Ravenkind
+
+The Holy Symbol of Ravenkind, originally known as the Holy Symbol of the High Priest, was a unique magic amulet and a symbol holy to the good inhabitants of Barovia of the Domains of Dread.
+
+Description
+The amulet was a round sun-shaped holy symbol made of platinum. A huge red crystal was embedded at the sun's center. The amulet was engraved with symbols light and truth.
+
+Powers
+The Holy Symbol of Ravenkind held ten charges of powerful divine magic and recovered from five to ten charges daily at dawn. The wielder of the holy symbol could expend one charge to hold a vampire or its spawn in place. When a cleric or a paladin used the Holy Symbol of Ravenkind to turn undead, they could expend three charges to empower the divine gift that repelled and destroyed undead. Expending five charges allowed the user to produce true sunlight out of the gem at the amulet's center, which was deadly to the bloodsucking undead. The light shone with a  radius and lasted for up to ten minutes.
+
+Bonding with the amulet unlocked its additional magical properties, such as being able to cast dancing lights, flare, or light spells at will with a simple uttering of the amulet's command word. Another unlocked power allowed the wearer to feel undead creatures within  via concentration and allowed the wearer to harm undead being protected from normal and magical damage.
+
+Bonding Ritual
+Due to the divine nature of the Holy Symbol of Ravenkind, the amulet could only be wielded by good paladins and clerics who bonded with the item via a ritual.
+
+Performing the bonding ritual required 1,500 gp worth of offerings and was necessary for the wearer to able to tap into the holy symbol's more powerful abilities. Before starting the ritual, the wearer needed to have successfully destroyed a vampire or vampire spawn while wearing the amulet. After the task was accomplished, the wearer had to spend eight hours praying to good deity or to a raven intercessor. Their prayers had to be performed while holding the amulet and paying a tithe to the deity.
+
+The bonding ritual resulted in the owner of the amulet suffering small but permanent damage to their health and if the Holy Symbol of Ravenkind left the possession of the bound creature, they were weakened physically.
+
+Creation
+A trained crafter of wondrous items could create a copy of the Holy Symbol of Ravenkind with the use of a detect evil spell and 1000 gold pieces worth of materials during the course of two days of work.
+
+History
+The Holy Symbol of Ravenkind was an ancient artifact that predated all organized religions active during the reign of Strahd von Zarovich. The common belief was that this holy symbol was given to an ancient paladin Lugdana, one of the first settlers of Barovia, by a giant raven or a divine servant of the gods, that is, an angel who took on the form of a raven. The paladin wielded the magic item in ridding the land of foul vampires until his death. Clergy of Ravenloft adopted the symbol as their own after Lugdana's demise.
+
+Notable Owners
+ Lord Dhelt of Elturel was thought to possess the Holy Symbol of Ravenkind by an assassin from Barovia who attacked the ruler in attempts to claim it but was killed in the process.
+ Jander Sunstar, a gold elf vampire, once wielded the Holy Symbol of Ravenkind against Strahd.
+
+Appendix
+See Also
+ Phylactery of faithfulness
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Hover
+
+Hover was an arcane alteration and conjuration spell that allowed the caster to stop the movement of a falling, jumping, or flying creature for several minutes.
+
+Effects
+This spell only worked on a single target, so it could be used to separate a rider from their aerial mount. Any target capable of shifting into an ethereal state or to another plane of existence could escape the spell's magic.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+History
+This spell was found within the Libram of Lathintel.
+
+Appendix
+References
+
+---
+
+## Hook, Line, and Sinker (organization)
+
+Hook, Line, and Sinker was an adventuring band in the Savage Frontier in the late 15 century DR, formed sometime after 1485 DR in response to the rise of giant activity in the region.
+
+Activities
+This adventuring band was solely dedicated to the activity of giantslaying.
+
+Members
+Hook, Line, and Sinker had only five members. Three of the primary members each bore one of the organization's words as their nickname.
+ Cazi Alphelandra, a wild elf with a penchant for large weaponry.
+ Crag Ungart, a strategic shield dwarf that acted as a secondary leader.
+ Helena "Hook" Nostrum, the leader of the group.
+ Lai "Line" Antolio, a master at building contraptions.
+ Solara "Sinker" Thann, a righteous paladin.
+
+Appendix
+Appearances
+Board Games
+Assault of the Giants
+References
+
+---
+
+## House of Dark Consumption
+
+The House of Dark Consumption was a building located in the lower Deep Wastes.
+
+Description
+The House of Dark Consumption was avoided by any creature, both living and constructs, with any sense. Even the undead avoided the house. Any who entered the structure were either killed or left in a such a weakened state they were easy prey for the many predators of the Underdark.
+
+The House of Dark Consumption looked like a regular, unassuming stone house. Upon entering the front door, an individual was greeted with a dark icy interior. The inside was much larger than the exterior, an extra-dimensional maze of corridors, room and twisting turns. To make things interesting, the walls randomly rearranged themselves every once in a while. Paradoxically, the house was also a dead-magic zone.
+
+The interior was dark, so dark it dimmed any light source. The light from a torch only illuminated an area of . Marking a way through the maze was impossible. Unattended equipment, including paint on walls, rotted away within hours. Equipment carried by a creature rotted away at a slower pace, with armor and weapons rusting away in several days.
+
+Any creature who spent a full day inside had a significant risk of suffering the effects of an insanity spell.
+
+Appendix
+References
+
+---
+
+## House of the Morning
+
+The House of the Morning was a temple dedicated to Lathander located in the village of Eveningstar during the late 14 century DR.
+
+Location
+The temple was found in the northwest section of the village on the outskirts. It was surrounded by fields and granaries attended to by the clergy.
+
+Activities
+This temple provided temporary housing to individuals of most good and neutral faiths in return for a nightly fee.
+
+Inhabitants
+Patriarch Charisbonde Trueservant was the High Priest of the temple. His congregation consisted of 28 other priests and 170 followers. Jelde Asturien acted as the temple's secular liaison.
+
+History
+
+During the mid-1480s DR, the drow of Sschindylryn launched a sudden attack on the town of Eveningstar. Much of the western part of town was burned and lost in the fighting, including the House of the Morning, then a temple of Amaunator. The temple was almost completely destroyed, leaving the local Amaunatori shocked and dismayed, including Feith Lightsong, Azerie Germond, and Wilkan Drome.
+
+Appendix
+References
+
+---
+
+## Hothemer Villa
+
+Hothemer Villa was the family estate of the Waterdhavian noble house Hothemer.
+
+Location
+The Hothemer Villa was located in the North Ward of Waterdeep, on side of Aveen Street and Suldown Street. It stood down the road from the Wands Villa.
+
+Structure
+Like many Waterdhavian villas, this was a walled estate featuring a landscaped garden.Evidence of this information can be seen in how the villa is depicted on maps. Inside the walls of the estate were two high-quality buildings that both stood three stories tall, one being the mansion proper and the other a guesthouse.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Horsa
+
+Horsa was a small town located in the kingdom of Callidyrr on the island of Alaron within the Moonshae Isles.
+
+Geography
+The town was situated within the Dernall Forest where the High King's Road crossed the Swanmay River. Horsa lay within the county of Stagford, but was close to the borders of both Stirgewick to the south and Talffolk to the east.
+
+Appendix
+References
+
+---
+
+## Horst
+
+Horst was a small village located on the island of Moray within the Moonshae Isles.The novel, The Rose of Sarifal, misnames the town of Horst as Horsa. As of the late 15 century DR, it was abandoned and lay in ruins.
+
+Geography
+Horst was approximately  due north of the foothills of the Orcskull Mountains. The village was located in central Moray along the Shannyth River on the edge of the Breasal Marsh, and a simple, single-span bridge that led to a road heading deeper into the marsh. The town was surrounded by irrigated farmland.
+
+History
+By the late 15 century DR, the surrounding farmland was flooded and overgrown and the buildings and gateposts of the town were collapsed. However, the bridge, the cobblestone streets, and the causeway leading into the marsh were still intact and usable.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Holyhead
+
+Holyhead was a small coastal village located in the kingdom of Callidyrr on the island of Alaron within the Moonshae Isles.
+
+Geography
+Holyhead was found in northern Callidyrr in the county of Stagford on Alaron's eastern coast with the Sea of Moonshae. The village sate just west of the ominous Dernall Forest and north of the Drowned Forest.
+
+Appendix
+References
+
+---
+
+## Horstall
+
+Cantrev Horstall was a small town located in the southeast of the island of Gwynneth within the Moonshae Isles.
+
+Geography
+Horstall was located in the kingdom of Corwell along the rocky coast of the Strait of Alaron in southeast Gwynneth. The town sat just east of the Llyrath Forest along the southern rim of Kingsbay.
+
+History
+Horstall fell into ruin following the conquest of Gwynneth and expulsion of the humans by the fey of Sarifal at the turn of the 15 century DR, and remained in ruins as of the late 15 century DR.
+
+Inhabitants
+Horstall was a Ffolk settlement. As of the mid–14 century DR, notable inhabitants included:
+ Garald, a horse breeder.
+
+Appendix
+References
+
+---
+
+## Hogfish
+
+Hogfish was a species of fish found in Akanamere of the Akanal.
+
+Ecology
+Usages
+Hogfish was a pantry staple in the city of Sumbria of the Blade Kingdoms perched on the shores of Akanamere. However hogfish was not often consumed in other city-states of the Kingdoms, such as Lomatra. Dried hogfish could be found in the kitchen pantries of the Palace of Manniccis in Sumbria.
+
+History
+In the, willful Princess of Sumbria, Milianna Mannicci da Sumbria accidentally summoned a wild shaggy green-furred creature while learning the Art from Lady Faveretti's Cookery Handbook for Erudite Young Girls (with an appendix on Poisoning for Beginners). The strange magical vermin became a bane on the palace's employees and the Lady of the house, Ulia Mannicci. The green menace fancied dried hogfish and regularly stole the palace's kitten supplies, sending servants on endless quest of searching the wainscoting for the creature.
+
+Appendix
+Appearances
+Novels
+The Council of Blades
+External Links
+
+References
+
+---
+
+## Holy Hand of Bane
+
+A  holy hand of Bane was a magic item found only within dark temples devoted to Bane, the Lord of Darkness. Only a handful of these wicked guardians were known to exist.
+
+Description
+These obsidian sentinels stood  tall. They levitated motionless in the air until activated.
+
+Powers
+A holy hand of Bane would activate automatically when a pure-hearted invididual entered the room where it waited. The hand would turn slowly to face the nearest target and would instantly attack anyone approaching within  of Bane's dark altar. The holy hand could sense all pure-hearted individuals within the temple and would pursue them constantly once activated.
+
+A holy hand was completely immune to harm from all forms of fire and electricity, nor could they be controlled mentally or via magic. The hand would attempt to strike, grasp, or crush a single target at a time.
+
+Any magic or enchanted items or weapons coming into contact with a holy hand were utterly absorbed. Additionally, any spells that would have caused a great deal of harm to the hand at a single time would actually heal the hand. Upon the hand's destruction, all magic absorbed by the hand was dissipated harmlessly, rather than released violently. A magic item drained by a holy hand could only be recharged via a wish. Any artifact coming into contact with a holy hand would be transported randomly to another plane of existence. The use of a dispel magic spell upon a hand would only slow it for one minute.
+
+History
+Holy hands of bane existed as far back as the 8 century DR, when a Banite organization called the Brotherhood of the Black Hand established a secret safehouse in the city of Ascalhorn that featured one.
+
+Appendix
+References
+
+---
+
+## Howling Cat Court
+
+Howling Cat Court was a small courtyard in the Castle Ward of Waterdeep.
+
+Location
+This courtyard extended north off of Mulgomir's Way. It was situated in the block of buildings bounded by the Street of Silks and the Street of Silver.
+
+History
+On one occasion, a dozen furious and heavily armed minotaurs were released from stasis on this street by an evil mage.
+
+Reputation
+Howling Cat Court was a hotbed of felonious activity. In addition to thieves often lurking around it, the court was infamous for being a clandestine meeting place among street gangs or prostitutes and their clients. Because of this reputation, Howling Cat Court was frequently visited by Watch patrols of triple the normal strength.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House Morarshar
+
+House Morarshar was a wealthy family of the city of Selgaunt in Sembia. They lived in Morarshar Hall within the city.
+
+History
+Around the early 14 century DR, the family matriarch, Lady Ambrele Morarshar, brought success and riches to the house. But she was in fact the villainous steel dragon Rauvrahrileenatandrar in disguise. Then, one day, there arrived a band of undercover Harpers led by one Shalant Mornwind—Rauvrahreene's own brother Velsaertirden, the only survivor of the family she'd murdered. The two dragons fought, destroying not only Morarshar Hall but several neighboring buildings and much of the street, and causing the deaths of the Morarshars, their employees, and the Harpers in the process. Both dragons escaped, badly wounded but alive.
+
+Appendix
+References
+
+---
+
+## House of the Waves
+
+House of the Waves was a temple dedicated to Trishina in the aquatic elf city of Myth Nantar.
+
+Location
+This temple stood along Chamal Avenue, in the Elves Quarter of Myth Nantar. Like all temples in Myth Nantar, there was a  perimeter around the building that was free of coral. The coral that grew around this boundary, which was clearly defined as if moving around a force field, was always as smooth as silk.
+
+Structure
+This temple stood two stories tall.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House of the Lute
+
+House of the Lute was a kaeth house in the city of Baldur's Gate.
+
+Location
+This business was located along Ulvur's Lane, halfway up the "bowl" above the harbor of Baldur's Gate.
+
+Services
+In addition to selling kaeth, the House of the Lute had a small library with a good selection and a street-front area for minstrels to perform at. On the upper levels of this building, one could receive instruction from masters in the way of barding. These lessons were conducted within soundproof rooms.
+
+Appendix
+References
+
+---
+
+## Hoshki Gompa
+
+Hoshki Gompa was a monastery (a gompa in the Tabotan language) of the Way of Enlightenment in Tabot.
+
+Geography
+It stood in the Po Yul Dzayul Range, near the Marnu Cliffs from which the Nam River issued and overlooking the trails down to the Wohani River.
+
+History
+It was founded some time between  and, when fifteen groups of monks and temple guardians escaped persecution in Shou Lung and journeyed southwest in search of a holy land that would remain pure and lasting, ideal for isolated hermitages. One of these groups built the beginnings of Hoshki.
+
+Relations
+The monks of Hoshki Gompa were often in conflict with the people of Phutan.
+
+Appendix
+References
+
+---
+
+## Horial Rohden
+
+Horial Rohden was the scion of the noble House Rohden of Arrabar in the mid-to-late 14 century DR.
+
+Description
+The young noble kept occasional three-day stubble and had disheveled black hair.
+
+Personality
+Horial was the meeker of the three friends. He was easily overwhelmed and had stress stomach cramps.
+
+Relationships
+Horial was childhood friends with two other noble family scions of Arrabar, Vambran Matrell of House Matrell and Adyan Mercatio of House Mercatio.
+
+History
+In the Flamerule of the  during the Night of Ghosts festival hosted by Eles Wianar, the Lord of Arrabar. Horial Rohden, along with his two friends Vambran and Adyan were in attendance. The trio was playing around with a bejeweled crossbow, gifted to young Vambran by his uncle Kovrim Matrell. Shooting plantains off a tree, Vambran unleashed a stray bolt that lodged itself in a stranger's chest, killing him. The victim was Rodolpho Wianar, a cousin of the Lord of Arrabar. Xaphira Matrell and her brother Dregaul Matrell knew that this accidental murder meant death for Vambran and ruin for House Matrell. Desperate to see her nephew unharmed, Xaphira took the blame. She masqueraded as an assassin and fled Arrabar, likely never to be able to return again.
+
+By the, Adyan Mercatio and Horial Rohden have joined the elite Waukeenar militaristic organization - The Order of the Sapphire Crescent, following Vambran Matrell's lead. Among the three friends, Vambran held the highest rank of the lieutenant. They traveled wide and far across the Sea of Fallen Stars aboard the Lady's Favor.
+
+On Tarsakh 10 of 1373 DR, the Lady's Favor returned to Arrabar bearing a bounty of imported goods from Sembia. Soon after arrival, Horial's friend and lieutenant Vambran Matrell witnessed a murder of a commoner and committed to investigating the injustice. The investigation led Vambran to uncover a sinister conspiracy, plan to profit from a war of which young commoner woman was a casualty. On Tarsakh 11, Horial, Adyan Mercatio, and Vambran met up for a drink at the Crying Claw tavern, where the scion of House Matrell asked his two friends to aid the investigation. Vambran wanted to track the murderer using his magic and a jeweled dagger that the culprit stole from Emriana Matrell. Horial and Adyan agreed and followed Vambran into a warehouse in Arrabar's Warehouse District. They discovered the killer's body, but it was a trap. The cabal left a deadly leechwalker to dispose of the nobleman interloper. The trio battled the creature. Horial only wielded a shortsword and stood no chance against the lumbering blood-hungry thing. The leechwalker quickly embraced and incapacitated Adyan while Horial was dispatched with a crushing blow. Miraculously, all three survived the assassination attempt thanks to Vambran's healing magics and a mysterious red-clad figure that emptied a barrel of salt on the beast.
+
+Horial and Adyan recovered via the Temple of Waukeen's clerics healing spells and on Tarsakh 13 were ordered to depart Arrabar on a mission, secretly organized by the Grand Trabbar Lavant, in order to remove Vambran from his investigation and from the city. Horial and Adyan decided to cover for their friend, delaying the departure as he attended his sister's sixteenth birthday celebration. As the noble party dissolved into chaos following the revelation that Vambran's own family was involved with the cabal, Horial, Adyan, and a squad of Sapphire Crescents, were dispatched by the temple to return the missing lieutenant to his duty. The Crescents got themselves involved in opposing the cabal that took Vambran's family members hostages and eventually confronted Denrick Pharaboldi and Evester Matrell, leading to the villains' deaths.
+
+Appendix
+Appearances
+Novels
+The Sapphire Crescent
+
+References
+
+---
+
+## Hokla Mountain
+
+Hokla Mountain was a mountain somewhere in Tabot.
+
+Notable Inhabitants
+It was the home of Smirnk of the Willows, a hermit and oracle, around .
+
+Appendix
+References
+
+---
+
+## How Wisdom Came to the Maimed Wizard
+
+"How Wisdom Came to the Maimed Wizard" is a short story by Ed Greenwood set in the Forgotten Realms and published on the Wizards of the Coast website in 2002. It was later reprinted in The Best of the Realms II.
+
+Summary
+Eirhaun Sooundaeril, the eponymous Maimed Wizard, wonders about the fate of the spellfire wielder Shandril Shessair on Flamerule 28, a week after her doom. He remembers before her supposed death, a deflected torrent of her spellfire bounced from Hesperdan's wards and tore his hideout to shreds. As a watchman against internal Zhentarim betrayals, he is naturally suspicious that she may actually not be dead as reported: the seekers after spellfire may have not looked too closely, simply not to be sent after her again. He decides to try scrying on her personally in order to verify.
+
+His prying reveals Narm Tamaraith to him, however briefly, as Alustriel Silverhand shuts down his magic and puts Narm to sleep. He comes to the conclusion the Seven Sisters transformed Shandril into the shape of her husband, and laid her mind into sleep as a measure against her running wild and to thwart any seekers after her.
+
+Resolving to snatch spellfire for himself, he prepares a spellweb and attempts to teleport her to himself. Instead, the Seven Sisters, one by one, appear at his hideout, all of them wielding spellfire. When they warn him he's about to be slain by it, he attacks them; rather than striking back at him with spellfire, his own spells rebound from the spellfire-wielding Seven and into him.
+
+He wakes some time later, blind, limbless and in pain, after having been found by Zhentarim apprenticing under Hesperdan, the Old Man of the Zhentarim. Hesperdan gives him a healing potion which regenerates him slowly and asks him how he came to be in such dire shape; Eirhaun explains that spellfire is not to be sought after. Hesperdan seems satisfied by this answer, and walks away. For a moment, Eirhaun wonders why the man smells so much like familiar pipesmoke.
+
+Index
+Characters:
+
+Appendix
+External Links
+ "How Wisdom Came to the Maimed Wizard"
+References
+
+---
+
+## Honeyed bun
+
+Honeyed buns were a type of local bread dish from the city of Arrabar in the Vilhon Reach.
+
+Description
+Honeyed buns were small-in-size handfoods covered in sweet honey, making them a cheap treat and popular morningfeast among the common folk of Arrabar.
+
+History
+Circa the, blind aging commoner Nimra Skolotti and her young daughter Mirolyn Skolotti liked to start their day with a single fresh honeyed bun from a local bakery in the Living District they lived in. A simple pleasure, the women split a bun as they took care of daily chores.
+
+Appendix
+Appearances
+Novels
+The Sapphire Crescent
+
+References
+
+---
+
+## Hornclaw
+
+Hornclaw, who was nicknamed the Gray, was a legendary owlbear inhabiting the Ashenwood in Rashemen during the late 14 century DR.
+
+Rumors & Legends
+Hornclaw was rumored to be over one hundred years old and larger than most giants.
+
+Appendix
+
+References
+
+---
+
+## House of Cyric (Skullport)
+
+The House of Cyric was a temple to Cyric located in Skullport as of the .
+Location
+Skullport was located in Undermountain beneath Waterdeep, and perhaps more importantly, beneath Mount Waterdeep, a holy site to followers of Cyric as it had been where their god ascended from human to deity during the Time of Troubles.
+Defenses
+The temple was one of only a few places in all of Faerûn in which banelar nagas loyal to Cyric were known to dwell.
+
+History
+Prior to the, the only presence of the church of Cyric in Skullport was a small cult—little more than a gang—that was looking to amass converts. The original members of this cult were seven clerics of Cyric banished to Undermountain by the Lords of Waterdeep in the . These seven found their way to Skullport, and in about three years they grew their ranks to include five more clerics and over thirty lay followers under the leadership of the charismatic priest Menes Azludde.
+
+Operating the cult as little more than a criminal organization, Menes began pursuing ambitions beyond the scope of his real powers, and attempted to set in motion a tangled conspiracy meant to sow chaos and upend the status quo in Skullport. This, of course, attracted the ire of most of the Shadow Port's major players, including the Harpers, the Agents of the Eye, the Dark Dagger, the Keepers, and the Iron Ring. For a time, they were infiltrated by Juz'la, a yuan-ti tainted one, however she was driven to the surface by her masters following her genuine conversion to the faith. Ultimately, the cult caught the attention of the Skulls of Skullport themselves, which was essentially a death sentence.
+
+Nevertheless, by early in the, the House of Cyric had been established, and had become a prominent place of the Black Sun's worship on par with the Twin Towers of the Eternal Eclipse in Amn. Notably, it hosted banelar nagas, powerful creatures which had been loyal to Bane before that deity's death fourteen years prior. Following Bane's return later that year, most banelars returned to their former god, however at least one retained its alliance with Cyric and the House.
+
+Appendix
+References
+
+---
+
+## Hoytir
+
+Hoytir was a young stablehand who worked for the noble House Pharaboldi until his death in 1373 DR.
+
+Description
+Hoytir was a good man by all accounts. Despite what his murderers claimed, Hoytir was not courting Jithelle Skolotti, a maid from the same noble house who was killed alongside him.
+
+History
+On Tarsakh 10 of the, Hoytir and Jithelle were murdered at an alley in Arrabar by Captain Dressus and men dressed as the Municipal Guard of Arrabar. The killers drew three blue circles on the young people's foreheads, framing them to have claimed to be wizards – a crime punishable by death. Their murder was ordered by a sneak coin cabal between Pharaboldi, Matrell, Talricci, and the corrupt Grand Trabbar Lavant of the Church of Waukeen. The young woman bedded Denrick Pharaboldi, a scion of a merchant who had his eyes on marriage to a daughter of house Matrell. A bastard child was an inconvenience. Jithelle and Hoytir were reported to be a couple, and their bodies were cremated to stop the real Guard of Arrabar from magically interrogating the victims as per the procedure.
+
+Justice was brought to Hoytir's name by Vambran Matrell who successfully investigated the murder he accidentally witnessed.
+
+Appendix
+Appearances
+Novels
+The Sapphire Crescent
+
+References
+
+---
+
+## Holy builder
+
+Holy builders were specialty priests of the Church of Gond who excelled at invention and fixing broken things.
+
+Activities
+Holy builders spent most of their time tinkering with items and working on designs. They often forgot to verbally preach about Gond to others, but the Wonderbringer didn't seem to mind.
+
+Culture
+These individuals were fascinated with every aspect of an item's construction and how to improve upon it.
+
+Abilities
+Holy builders were skilled in repairing and building items, allowing them to fix or produce about twice as many items as others during a same time period.
+
+These priests could not turn undead. They were easily surprised since their minds were constantly analzying the devices around them instead of paying attention to danger.
+
+Possessions
+Most holy builders wore attire more suited to blacksmiths than priests, including leather aprons and common dark work clothes which were usually stained, scorched, and generally unkempt.
+
+Appendix
+References
+
+---
+
+## Hodges
+
+Brother Hodges was an Ilmatari priest that lived in Baldur's Gate.
+
+Personality
+The priest strongly felt for the loss of his wife, but dealt with it the best he could. Hodges was treasured by the community and was known to help out anyone in need. He would even go as far as petitioning the Flaming Fist, Parliament of Peers, and even the dukes of the Gate, to have mercy on those of the Outer City.
+
+Activities
+This Ilmatari priest was known to talk with others around the Gate, especially poor citizens, whom very much enjoyed the chats. These poor residents visited the priest at his shrine, even when the priest had nothing to give them.
+
+Hodges attempted to bring dignity to the practice of bringing corpses down to a tomb underneath the shrine he kept watch over.
+
+Relationships
+Brother Hodges had two children (Hansen and Sissa), who served as his acolytes. He had a wife, however, she had passed away prior to 1472 DR.
+
+History
+In 1482 DR, Hodges maintained the Shrine of the Suffering, a major shrine to Ilmater. A decade later, a carrion crawler began to feast on bodies beneath the shrine Hodges maintained. The halfling cleric was unable to pluck up the courage to take on the creature.
+
+Appendix
+Appearances
+Adventures
+Murder in Baldur's Gate • Baldur's Gate: Descent into Avernus
+References
+
+---
+
+## Holy Order of the Most Skilled Architects and Bridgemakers
+
+The Holy Order of the Most Skilled Architects and Bridgemakers was an honorary order whose members were devoted to Gond, the Wonderbringer.
+
+Organization
+Members of this organization were skilled architects and craftsmen who praised Gond through their work on designing and constructing buildings and bridges.
+
+Appendix
+References
+
+---
+
+## Howling staff
+
+Howling staves were a type of naturally-created enchanted wooden weapons from the jungles of the Chultan Peninsula.
+
+Description
+Howling staves were a result of thin, reed-like saplings being ravaged by termites and then crafted into a minor magical item.
+
+Powers
+Due to the wood being weakened by termites, its strikes were not as powerful as other similar weapons'. However, when swung, howling staves emitted eerie shrieking sounds caused by air moving through termite holes.
+
+These weapons carried a +1 enchantment and reduced damage as well as weight. In battle, the howling staves did additional sonic damage.
+
+Appendix
+Appearances
+Video Games
+''Neverwinter Nights 2: Storm of Zehir
+
+References
+
+---
+
+## Holy strategist
+
+Holy strategists were specialty priests devoted to the Red Knight, the Lady of Strategy.
+
+Activities
+A holy strategist's life revolved around warfare. They often served as respected military commanders or instructors at war colleges.
+
+Abilities
+These speciality priests excelled when using spells from the war sphere and travelers sphere. The effects of spells cast from these spheres were doubled. They also found it easier to see through illusions.
+
+They gained a number of abilities as they progressed through the ranks including clairaudience/clairvoyance, divination, consequence, hallucinatory terrain, and mass invisibility. These powers could be used once per day.
+
+They could cast wizard spells when using scrolls.
+
+A holy strategist's familiarity with weaponry allowed them to execute more attacks during combat than a typical priest. They nearly rivaled a fighter in their proficient use of weapons.
+
+Possessions
+Holy strategists could carry any weapon they desired for combat. They were not restricted in the type of armor they wore, but most preferred plate mail, field plate, or full plate armor.
+
+Relationships
+A holy strategist almost always rode an exquisite steed. Though their mount could certainly be a well-trained horse, other options included pegasi, griffons, hippogriffs, tigers, etc.
+
+Appendix
+References
+
+---
+
+## House of the All-Seeing Orb
+
+The House of the All-Seeing Orb was a temple devoted to Savras located within the city of Tashluta. It was considered one of the premiere places in Faerûn dedicated to the study of divination.
+
+Structure
+The temple was a large sprawling complex, with beauteous courtyards and magnificent buildings. Several of its exquisitely-decorated structures were adorned with the all-seeing eye of Savras.
+
+The temple complex housed a permanent teleportation circle that could be access from various locations across the Realms.
+
+Activities
+The House of the All-Seeing Orb housed the College of Divination, the Celestial Observatory, and the Library of Ultimate Truth. Many divination spells and enchanted scrying devices found their origins within the temple.
+
+The central structure of the temple-complex contained a portal that linked it with another temple of Savras, contained within its own demiplane.
+
+History
+The temple was the preeminent house of worship for Savras throughout the 14 and 15 centuries DR.
+
+Inhabitants
+The temple was run by the Farseer who was considered to be one of the most skilled diviners throughout Faerûn. Over one thousand scholars lived within the temple.
+
+Notable Inhabitants
+ Xemru Thaal, High Priest of Savras within the temple.
+ Shir Endellion, a high-ranking priest of the temple.
+ Valin Sarnaster, the famed oracle of Savras who achieved a form of immortality through undeath.
+
+Appendix
+Appearances
+Adventures
+Candlekeep Mysteries: "The Canopic Being"
+References
+
+FR:Maison de l'Orbe Omnivoyant
+
+---
+
+## House of Cyric (Bezantur)
+
+The House of Cyric was a temple dedicated to the evil god Cyric that was located in Bezantur, the so-called "City of a Thousand Temples."
+
+Location
+The House was located in central Bezantur, the capital of the tharch of Priador in Thay. It was surrounded by several other temples, the most prominent of which was Loviatar's Manor. Other adjacent temples included those dedicated to Oghma, Sune, Talos, Tempus, Bane, Beshaba, and Tyr.
+
+Structure
+The House of Cyric was a large complex which included multiple shrines and cathedrals to Cyric as well as dormitories, houses, and facilities catering to the many priests, visitors, and slaves based on the campus. Beneath the complex was an extensive dungeon where the Cyricists performed profane rites. A large mansion on-site served as the home of the House's high priest, and was said to be magnificent enough to have been the royal palace of a small kingdom. This mansion included its own secret underground dungeon chamber for the high priest's personal use.
+
+History
+The House was originally a temple to the god of murder, Bhaal. After that god's death during the Time of Troubles, the temple was converted to worship of the ascended mortal Cyric, who usurped Bhaal's portfolio along with those of Myrkul and Bane. Many worshipers at the temple viewed Cyric as a reborn Bhaal, and worshiped him as such.
+
+With the completion of the House of Iyachtu Xvim in the late 1360s DR, followers of Cyric began to clash with these upstart followers of Iyachtu Xvim, who saw it as their mission to crush the church of Cyric. The two temples launched attacks on each other which included assassinations, magic, and street brawling, often clashing with the city's authorities as well.
+
+Even as Cyric progressively lost influence to rival gods throughout the mid-to-late 14 century DR, he maintained a strong following in Thay, and the congregation at the House of Cyric remained the largest in the realm.
+
+Rumors & Legends
+As a prominent center of Cyric's worship, the temple likely played host to at least one banelar naga in the years following the death of Bane in the Time of Troubles.
+
+Inhabitants
+The House of Cyric was home to an army of priests and priestesses of Cyric along with their unwilling servants: hundreds of slaves as well as the risen zombies of their former prisoners sacrificed within the dungeons.
+
+In the mid-to-late 14 century DR, the high priest was Sharthane Zul.
+
+Appendix
+References
+
+---
+
+## Holdfast
+
+Holdfast was a type of powerful enchanted jewelry of the aquatic elven making.
+
+Powers
+Holdfast amulets were created to be used in hunt and to neutralize invaders. The wearer of the necklace was completely unaffected by hold person spells and similar effects. The same spell could be cast by the wearer twice per day, while more powerful variation – hold monster, once per day.
+
+History
+Even though these enchanted amulets were created in the ages past by the sea elves, the jewelry remained quite rare in the land kingdoms. In the, two Holdfast amulets could be found in the treasure hoard of twin black dragons of the Mere of Dead Men – Voaraghamanthar‎ and Waervaerendor‎.
+
+Appendix
+Appearances
+Video Games
+''Neverwinter Nights 2: Storm of Zehir
+
+References
+
+---
+
+## House of Iyachtu Xvim
+
+The House of Iyachtu Xvim was a temple dedicated to Iyachtu Xvim in the Thayan city of Bezantur, the so-called "City of a Thousand Temples."
+
+Location
+The temple was located in eastern-central Bezantur and was adjacent to the Temple of Sharess.
+
+Structure
+The temple was one of the largest in Bezantur. It comprised a grand central hall with two long wings containing shrines as well as sleeping, dining, and storage facilities for the temple's residents. A dozen smaller buildings also occupied the temple grounds, some of which served as housing for higher-ranked priests while others hosted various Xvimlar ceremonies.
+
+Activities
+The House's congregation was one of the most enthusiastic in the city, and was known to brawl in the streets with followers of Cyric from the nearby House of Cyric.
+
+Xvim himself was known to visit the temple and lead ceremonies.
+
+History
+The House of Iyachtu Xvim was constructed in the late 1360s DR as part of a push to dedicate temples to Xvim throughout Thay. The House was immediately somewhat unique among temples to Xvim as most of his places of worship were underground and/or former temples to Bane.
+
+With the opening of the temple, tensions with the House of Cyric swiftly escalated as it was Xvim's aspiration to usurp Cyric's divine portfolio. The two temples engaged in acts of assassination and magical assaults against each other.
+
+Inhabitants
+In the late 1360s DR, the high priestess of the temple was Dienje Xavarri, a fanatic who was also widely considered second only to Xvim himself as the head of Xvim's church in Thay.
+
+Rumors & Legends
+As baneguards were popular servants at Xvim's Thayan temples, it was likely that the House of Iyachtu Xvim was involved in creating and using them.
+
+Appendix
+References
+
+---
+
+## House of Night
+
+The House of Night was an underground temple of Shar found within the depths of the earth beneath Shadowdale. It was overseen by Esvele Greycastle, a devoted Sharran servant that played a crucial role in the Lady's plans for Toril and the Weave.
+
+Location
+The House of Night was hidden away at the bottom of the Grinding Gulf within the Dread Lair of Alokkkair, carved beneath Fox Ridge. While the falling boulders of the grinding gulf formed a perilous pathway to the House's entrance chamber, the temple was accessible to those familiar with its layout by adjacent tunnels that bypassed the dangerous rockfalls of the gulf, one of which extended down to the drow settlement of Maerimydra beneath the Twisted Tower of Ashaba.
+
+A staircase leading from a tunnel northwest of the temple led to the Lich's Gauntlet, and the ritual cavern set inside a dead-magic zone, from within which the Sharran priests could carry out their goddess' will.
+
+Structure
+The chasm floor beneath the Grinding Gulf gave led towards a black stone doorway that gave entrance into the temple proper. It was flanked by a pair of finely-carved stone columns. The doorway to the House of Night featured the visage of a woman, half of which depicted her in her youth, the other as an old crone.
+
+Interior
+Just beyond the primary entrance was the Dark Lady's Foyer, a well-crafted receiving hall carved from basalt, decorated with depictions of female figures in line with Sharran ornamentation. Set around the foyer were smaller chambers, including a guard barracks, a small room that housed a well fed by trickling water, and the temple's refectory.
+
+The westernmost chamber of the temple housed the Shrine of Night, a place of meditation and worship for the Sharran clergy. It featured a large dais upon which stood a statue of Shar, her face shrouded by a hood and her form wielding dual daggers crossed over her chest.
+
+Just beyond Shar's shrine were the personal chambers of Priestess Esvele. She enjoyed a luxurious arrangement befitting for someone of her status within the church of Shar.
+
+Atmosphere
+Much of the space within the House of Night was poorly illuminated, left in shadows to keep hidden the Sharran secrets. Within Shar's shrine, candles emitting dim green radiance shone upon black and purple tiles as well black stone marbled with gold. Unsettling Undead and ferocious fiends roamed its halls as freely as Shar's faithful.
+
+Defenses
+The Dark Lady's Foyer was protected by a pair of mezzoloths, commanded by Lady Esvele. Glyphs of warding were used throughout the temple's halls to protect locations critical to the Sharran plot.
+
+History
+During the month of Hammer in the, the Sharrans of the temple began performing the Rite of Unwinding, a ritual that would dampen and even fully suppress the Weave across an ever-expanding field over the Dalelands and beyond.
+
+Around that same time, the drow warmage Narhaun and his followers set up camp just outside the temple's entrance.
+
+Notable Inhabitants
+
+ Esvele Greycastle, the temple's head priestess and trusted servant of Shar.
+ Urduthar, the shadowslain Sharran that served as Esvele's second-in-command.
+ Orielden, a Knight of Shar that led the temple's guardsmen.
+ Lashan Aumersair, the former King of the Dales that was transformed into a nycaloth by Shar herself.
+ Edda, Istilmar, and Shiro, the servant's human servants.
+
+Appendix
+Appearances
+Adventures
+ Shadowdale: The Scouring of the Land
+References
+
+---
+
+## Holy Ones
+
+The Holy Ones were a group of religious scholars in the city of Yeshpek, in the Land of the Lions region of south Faerûn, in the mid-to-late 14 century DR.
+
+Activities
+This group operated as part of the larger staff of Drestin, the palace of the Khaldomaun. When not working inside the palace, they administered Yeshpek's local shrines to the goddesses Umberlee and Waukeen.
+
+Members
+The Holy Ones were entirely composed of rather haughty individuals who had, prior to Waukeen's disappearance, been high-ranking priests in the Church of Waukeen.
+
+Appendix
+References
+
+---
+
+## Horomel Ibrin
+
+Horomel Ibrin was a sly negotiator inhabiting Tulmon along the Lake of Steam during the mid-to-late 14 century DR.
+
+Description
+He was a thin man who always had a disapproving look to his face unless excited by money or wielding his influence.
+
+Activities
+Horomel held the office of "Scribe and Speaker of the Merchants." He served as a link between Tulmon's sultan and the merchant class with all matters related to trade.
+
+Relationships
+He was enemies with Orloro Tullamas and spent much of his time investigating the merchant with the hopes of catching him breaking the sultan's law.
+
+Appendix
+References
+
+---
+
+## Horned Lord
+
+The Horned Lord tribe was an orcish tribe that inhabited the High Forest in the mid-to-late 14 century DR.
+
+Homeland
+The orcs lived in small villages and underground tunnels in the High Forest, located around two days' journey from the forest's edge.
+
+Customs
+Like many of the High Forest orc tribes, the Horned Lord tribe worshiped Herne the Wild Hunter.
+
+Abilities
+The members of this tribe possessed many of the forestry skills typical of rangers.
+
+Relationships
+The members of this tribe were often at odds with human, elf, and half-elf rangers.
+
+History
+In the, the Horned Lord and Tanglethorn tribes gathered in the Blackhorn Horde and overran the settlement of Lord Ornigar Tchazzam in Starshadow Vale. This was to avenge the plundering of the orcish burial mounds in the vale.
+
+Appendix
+References
+
+---
+
+## House of Cogs and Hammers
+
+The House of Cogs and Hammers was temple devoted to Gond located in Tulmon along the Lake of Steam during the mid-to-late 14 century DR.
+
+Description
+The main gate of the temple was crowned with a large clock where all of the gears and inner working were visible. Many of Tulmon's children gathered around the gate to gaze in wonder at the small moving parts.
+
+Activities
+As one of Tulmon's newest temples during that time, the House of Cogs and Hammers created quite a buzz among Tulmonites. Many eagerly supported the temple's services of constructing and selling various tools and gadgets.
+
+Inhabitants
+The House of Cogs and Hammers was run by Master Kalavdan Talast.
+
+Appendix
+References
+
+---
+
+## Holy singer
+
+Holy singers were specialty priests of the Church of Oghma who specialized in arbitration and peacekeeping activities through song, hoping the harmony in their voices brought harmony to those around them.
+
+Activities
+A holy singer would usually choose to sing rather than speak.
+
+Culture
+All holy singers were either humans, elves, or half-elves. They were quite humble, though they sometimes appeared to be arrogant to others. Still, a holy singer's reputation often preceded them in a positive way.
+
+Abilities
+Holy singers used their voice to turn undead through song. Likewise, they could sing to create a protection from evil, 10' radius sphere as well. A holy singer could forgo the need for a somatic component by singing, but this did increase the casting time by a small amount.
+
+Any attack, magical or otherwise, against a holy singer's voice or ability to speak often left them confused.
+
+Possessions
+The attire of a holy singer was a white tunic and pants and a black gold-trimmed vest. They also wore a crimson hat complete with a feather.
+
+Appendix
+References
+
+---
+
+## Holy fire shield
+
+Holy fire shield was a type of sanctified spell.
+
+Effects
+This spell was identical to fire shield with one major difference. This spell was not only able to deliver fire damage, but also cold damage. The type of damage was determined by the caster during casting. The color of the flame depended on what type of damage was to be inflicted. If fire damage was chosen, the flame burned a brilliant gold-red color. If cold damage was selected, the flame was blue-white. In addition, the spell also delivered damage in the form of divine energy, like flame strike.
+
+Components
+In addition to verbal and somatic components, this spell required a sacrifice of the caster's strength.
+
+Appendix
+References
+
+---
+
+## House of Entropy
+
+The House of Entropy was a temple dedicated to the worship of Entropy located within the city of Bezantur, Thay.
+
+Location
+The temple was located in northern Bezantur, the so-called "City of a Thousand Temples". It sat between Myulon's Inn and the city's Temple of Jergal.
+
+Structure
+The temple had no windows and only a single small door. The entire structure was jet black.
+
+Activities
+Sermons were delivered by a high priest, and preached against wizards and the use of magic. However, the Red Wizards were either conveniently omitted from these prohibitions or were claimed to be an exception to them.
+
+History
+In the mid-to-late 14 century DR, the temple's position as an anti-mage organization made its status in the Red Wizard-controlled city somewhat tentative. The identity of the House's high priest was unknown, and he wore black robes and a dark veil to conceal himself when delivering sermons.
+
+Appendix
+References
+
+---
+
+## Horsefields
+
+The Horsefields was a beautiful glade located on the elven homeland of Evermeet.
+
+Geography
+The Horsefields was located in eastern Evermeet east of the River Ardulith and the Eagle Hills. Some of the glade bordered the Trackless Sea near Taltempla.
+
+Inhabitants
+The glade got its name from the herds of mystical moon-horses that lived within.
+
+Appendix
+References
+
+---
+
+## Horrible taste
+
+Horrible taste was a type of transmutation spell.
+
+Effects
+When cast, this spell changed the caster's flesh in such a way that it became inedible. As a result, if the caster was bit while this spell was in effect, the attacking creature was struck with overwhelming nausea. However, this spell was useless against creatures who possessed a natural immunity to poison.
+
+Components
+This spell required verbal and somatic components.
+
+History
+Horrible taste was one of four original spells created by the Chauntean druid Bryn Kernwyld, and published in the book Earthmother's Weapons. While the precise creation date of the spell was unknown, sages agreed that it was likely anterior to 1000 DR. The spell was devised by Byrn to help her brethren during the wars which opposed the forces of Malar and Bhaal and the civilized people of the Moonshae Isles. It proved a great help to minimize the damage wars caused to the surrounding nature.
+
+After its creation, knowledge of this spell was passed down between druids by oral tradition, while the actual tome was kept safe by senior members of their order.
+
+Long after its creation, Bryn's book found itself in the hands of a Malarite druid going by the name of Galast. Ignoring the origin of the book, Galast learnt and used the spells described therein. His deity, considering the spells useful, granted him access to these spells.
+
+Appendix
+References
+
+---
+
+## House of the Guardian
+
+The House of the Guardian was a local temple to Helm found in the small city of Hluthvar in the Sunset Vale.
+
+Location
+It was situated on the northern end of the city's market space.
+
+Structure
+The temple resembled a well-protected, fortified keep, encircled by both a moat and an iron fence.
+
+Interior
+The House of the Guardian's highest chamber housed the altar to Helm. This altar resembled a upturned sword that featured the Unblinking Eye of Helm set within its pommel.
+
+Activities
+The temple's score of warrior-priests endlessly trained to keep at bay the evil forces of nearby Darkhold. They were lead in their efforts by the city's mayor, Most Vigilant Maurandyr. He was known throughout Hluthvar as a stalwart foe of the Zhentarim.
+
+Defenses
+It was said Helm's House boasted an expansive armory complete with numerous ballistae.
+
+History
+Circa the mid–14 century DR, local Harpers became fearful that Maurandyr would succumb to the effect's of dark magic wielded by Zhentarim mages.
+
+Appendix
+References
+
+---
+
+## Home of the Stalwarts
+
+The Home of the Stalwarts was a temple of Helm found in the city of Tethyr. As of the late 14 century DR, was one of the city's oldest buildings.
+
+Services
+The temple was overseen by Overblade Orrdun Fistright, who took over for the much-beloved Orm Talath. The Overblade was served by five score Helmite priests and the 50-strong Stalwart Knights, a branch of the Champions Vigilant.
+
+History
+The Home of the Stalwarts was founded in the .
+
+Appendix
+References
+
+---
+
+## Horseradish
+
+Horseradish was a type of root vegetable found in the Realms.
+
+Availability
+ Aurora's Whole Realms Catalogue sold horseradish at a price of 1 copper piece per  in its "Aurora's Larder" section.
+
+Notable Horseradish Products
+ Flaming gullet, a spicy mixed alcoholic beverage, included a distillate of horseradish as an ingredient.
+ Horel was a drug distilled out of a certain species of aquatic plant and mixed with dried horseradish powder to produce a substance that causes violent, involuntary convulsions.
+
+Notable Users
+Businesses
+ The Board Laid Bare, an inn in the city of Neverwinter, served horseradish to its patrons.
+ The Pampered Traveler always had horseradish on hand as a condiment option for which to garnish their meat.
+ The Sign of the Shield, an inn in Voonlar.
+ The Sleeping Cat, a tavern and restaurant in the city of Wheloon, served horseradish to its patrons.
+
+Appendix
+See Also
+ Braskh
+Appearances
+Novels
+Silver Shadows
+Video Games
+Baldur's Gate III
+External Links
+
+References
+
+---
+
+## House of the Dragomen
+
+The House of the Dragomen was an official building located in the city of Almorel on the Lake of Mists in the Hordelands.
+
+Location
+The structure was located in the northcentral section of the city just southwest of the Raumkreml which was the seat of government in Almorel during the mid-to-late 14 century DR.
+
+Activities
+The House of the Dragomen served as a residence of important foreign officials within Almorel. Caravan-masters, provided they were respected enough, were also allowed to stay within the House.
+
+Inhabitants
+The building was run by a half-elven chamberlain named Sirule Kalishenko.
+
+Appendix
+References
+
+---
+
+## House of Alastrin
+
+The House of Alastrin was a temple dedicated to Milil, known for displaying one of the exceedingly rare holy books of the "Lord of All Songs".
+
+Location
+The temple was located at the feet of the Cloven Mountains.
+
+History
+During the 10 century DR, Wythyndle's Round Book was bestowed by Milil to a blind bard singing his praises on a mountaintop of the eastern Cloven Mountains. The bard was then carried down to the temple to bring news of this holy gift.
+
+Wythyndle and the book stayed at the temple until his death during the winter of 996 DR. After the death of the bard, the book magically disappeared for the first time.
+
+Appendix
+References
+
+---
+
+## Home of the Boars
+
+The Home of the Boars was a lodge standing on the edge of the town of Triboar in the Dessarin Valley in the late 15 century DR.
+
+It was a haven for members of the Harpers seeking refuge and help, especially because Darathra Shendrel, Lord Protector of Triboar, was also a Harper.
+
+Appendix
+References
+
+---
+
+## Hospice of Wu the Mad
+
+The Hospice of Wu the Mad was an inn located in the city of Almorel on the Lake of Mists in the Hordelands in the mid-to-late 14 century DR.
+
+Location
+The inn was actually found just outside of Almorel's northeastern East Gate along the Golden Way.
+
+Inhabitants
+The inn was owned by a Shou named Wu the Mad in .
+
+Appendix
+References
+
+---
+
+## Hortil Droone
+
+Hortil Droone was the Magister from  to .
+
+Personality
+He was cruel and quick-witted.
+
+History
+Before slaying the previous Magister, he was a mage-for-hire, a veteran warmage. Once the mantle of the Magister passed on to him, he slew a number of rivals, then faked his death and his in a city somewhere in the Shining Sea's coast, where he posed as a wealthy merchant, "Nelver Kulcharvin", investing in a number of local businesses, including costers and a barrelworks. Through this time he improved his magic, until he finally suspected the Magister had things to do.
+
+His prayers to Mystra were answered by Azuth, who revealed to him that a Magister whose service was good was one who spread magic. In response, Hortil used magic to disguise himself, prepared a cache of scrolls and a scheme to introduce magic to twenty-some apprentices. Then he began to pose as a "Immgar Orlam", a hedge wizard in a traveling carnival, who played with children after each performance; selecting only those who were fascinated more than afraid, he found a number of candidates. Unfortunately, while visiting one of his older apprentices, he was ambushed by the sorceress Phambra Chalyphar, who slew him.
+
+After his death, Hortil Droone wanted to keep teaching, but Mystra refused. Of the possible fates he was offered, he became instead the Royal Crown of Westgate.
+
+Appendix
+References
+
+---
+
+## Horse Way
+
+Horse Way was a small road found in the city of Daggerford in the Western Heartlands in the mid-to-late 14 century DR.
+
+Location
+Horse Way originated in the northwest corner of Daggerford, beginning along Wall Street and passing east until ending at Fields Lane at the Dragonback Inn. A small stretch of Horse Way branched north to connect with the northern arm of Wall Street as well.
+
+Notable Locations
+Notable buildings located along Horse Way included:
+
+ The Dragonback Inn
+ Wayfel's Smithy
+ Thieves' Brotherhood
+
+Appendix
+References
+
+---
+
+## Hornblades
+
+The Hornblades were the twin favored weapons of the Faerûnian goddess Mielikki, the Supreme Ranger.
+
+Description
+Each was a scimitar-sized hornblades. As such, it appeared, even on close inspection, to just be a simple piece of animal horn, at least  long, set into a handle or grip. But when a particular spot was pressed, it would extend a sickle-shaped blade that was quite sturdy and sharp. As scimitars, they weighed .
+
+Abilities
+After the Time of Troubles of 1358 DR, her swords were noted to be regular hornblades +3. When shared with mortals, one functioned as a rod of alertness and the other as a rod of security, both with the full fifty charges.
+
+After the, the Hornblades were each +5 defending holy keen mighty cleaving scimitars.
+
+Uses
+Though Mielikki was skilled in fighting with her Hornblades, she rarely actually used them, as she did not engage in melee often, and favored her fists when she did. She would rather rely on her own skills and magic and her longbow, named Hartsong.
+
+She sometimes lent these weapons to mortal rangers who embarked on great quests on her behalf.
+
+Based on the Hornblades, the scimitar was the favored weapon of Mielikkian clerics.
+
+Appendix
+See Also
+Scimitar of Mielikki
+References
+
+---
+
+## Hornblade (short sword)
+
+The Hornblade was the favored weapon of the halfling goddess Yondalla, the Protector and Provider.
+
+Powers
+After the Time of Troubles of 1358 DR, it was considered a vorpal short sword +4. When it struck, it glowed silver.
+
+After the, it was a +5 lawful defending speed short sword.
+
+Reputation
+Based on the Hornblade, the short sword was the favored weapon of Yondallan clerics.
+
+Appendix
+References
+
+---
+
+## Hornblade (magic item)
+
+A hornblade was a magic weapon that produced a bladed weapon from a small piece of horn.
+
+Description
+Even on close inspection, nine times out of a ten, a hornblade appeared to just be a simple piece of animal horn,  long, set into a handle or grip. But when a particular spot was pressed just so, the horn would extend into a curved sickle-shaped blade that was quite sturdy and sharp. They varied in size, from knives and daggers to scimitars.
+
+Powers
+As magical weapons, hornblades of knife and dagger size were typically +1 or +2, while those of scimitar size were often +2 or +3 in strength. They could be wielded the same way and with the same training as their conventional counterparts. Smaller hornblades could also be thrown just like regular knives and daggers could be. The blade could be retracted after use.
+
+If examined with detect magic or the like, an unactivated hornblade revealed an aura of faint enchantment magic.
+
+History
+A  dagger-sized +2 hornblade was in the possession of the duergar soldiers of Deepearth in the .
+
+Notable Hornblades
+ The Hornblades, twin scimitar-sized hornblades wielded by the goddess Mielikki.
+
+Notable Owners
+ Nindil Jalbuck, a halfling spy and Masked Lord of Waterdeep
+ Theras, a half-elf druid
+ Lady Doctor Ellandra Tolbert, anatomist of Neverwinter
+ Sauraphine, an erinyes of Dis
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Houses of the Shou
+
+The Houses of the Shou was a small neighborhood located in the city of Dhaztanar in Semphar during the mid-to-late 14 century DR.
+
+Location
+The Houses of the Shou was located along the Silk Road within the Quarters of the Unclean district in east Dhaztanar. It lay in the far eastern section of the district near the Tarkhold River.
+
+Appendix
+References
+
+---
+
+## House of Stone and Sword
+
+The House of Stone and Sword was a metalsmith shop located in the city of Zhentil Keep during the mid-14 century DR before that city's destruction.
+
+Location
+The House of Stone and Sword was located in north Zhentil Keep within the Common Quarter. The shop was located in between Wizards' Way and Fortress Street.
+
+Appendix
+References
+
+---
+
+## Holy book
+
+Holy Books were objects that priests and other divine spellcasters could use to learn new spells. Despite the denomination, holy books were not necessarily books per se but could take unusual forms such as magically floating bronze scales, a thick everbright chain, or a crystal ball. The term was also sometimes used as a catchall for sacred books, such as religious canons.
+
+Description
+Temple Tomes
+In their most usual form, holy books were tomes containing a collection of prayers and rituals dedicated to a specific deity. Those prayers could be used to learn new divine spells, but that privilege was usually reserved those faithful to that deity. A typical holy book could teach around 10 to 20 spells.
+
+The most common of holy books were called temple tomes, because they were jealously guarded in holy temples. Temple tomes were usually stored in highly protected vaults or hidden chambers, and some clergies went as far as displaying replicas on elevated reliquaries for their flocks to admire. Stored temple books were often guarded by magical guardians chosen amongst those whose natural powers would not damage the items.
+
+Holy books were crafted with lots of care. Some were made of rare and expensive materials, such as the hide of exotic beasts, in order to impress the devout. Others were built with durability in mind, using methods such as stamping words on everbright metal pages.
+
+Supplicants desiring to consult a temple tome were often required to jump through many hoops, such as performing difficult or humiliating tasks for the clergy, or paying a hefty fee. Accessing such a book was only possible for members of that clergy or for members of other churches that had at least a cordial relation with them, however many temples would sell scrolls of spells copied from those books—at a high price. Consulting a temple tome was always done under the strict supervision of guardian priests powerful enough to prevent the book being stolen or damaged. Unveiling of such books was a rare event, and as such was often accompanies with chanting, rituals and public drama, ruining any chance for anonymity.
+
+Powers
+Typical holy books didn't magically affect individuals who simply read them or shifted their pages (as opposed to magical books such as the Book of Vile Darkness). It was however a common occurrence for those books to be protected by glyphs of warding unleashing magical defenses against creature of the wrong alignment, race, or even temple rank. Such glyphs were carefully crafted by the churches with divine approval, and were hidden alongside various symbols, holy runes, and "dummy" glyphs designed to waste the spells and time of intruders.
+
+Because of the divine permission granted by deities, holy books could be used by priests of the corresponding faith to learn spells outside the spheres normally available to them.
+
+Content
+The exact content of holy books could vary slightly, but they were usually organized as follow:
+ An opening prayer or invocation dedicated to a deity. It was purely for religious purposes and didn't teach any spell.
+ A detailed ritual or offering to that deity.
+ A new ritual, or a modification of an existing one. For example a ritual to remove vermin from a temple, or a fastest way to learn from the deity the name a lay person would take upon assuming priesthood.
+ A collection of prayers teaching spells. They were ordered in ascending order of power, to ensure the novice's safety.
+ A closing prayer praising the deity. As for the opening section, this had purely religious purpose and didn't teach any spell. This section sometimes contained drawings of approved holy symbols, designs, of glyphs.
+
+Notable Holy Books
+The Argyr A magical cube made of adamantine and plated with electrum, containing sacred spells of the Gondar faith.
+Balance of Belaros This holy book dedicated to Tyr was a set of magically floating bronze scales, which could be used to exchange offerings for spell scrolls.
+The Black Book This very tall book was dedicated to the goddess Beshaba. It was said to suck the vitality from its readers, and to have the ability to make undead creatures disappear altogether.
+Book of Fangs and Talons A heavy book sacred to Malar, made of heavy vellum pages bound between turtle shells and covered in beast furs.
+Chanting Chain This unusual holly book dedicated to Talos had the appearance of a massive steel chain, whose links were large enough for a child's head to pass through.
+
+Crystrum of Tranquility This crystal sphere revealed spells to the followers of Eldath when immersed in running water.
+Flame of the Spirit One of the most holy relics of the Tymoran faith, this amber gemstone shaped like flame would transform into a tablet revealing spells in the hands of the faithful.
+The Glarathra A large bronze flower  in length, this holy book was dedicated to the goddess Chauntea.
+Gorothir's Girdle This holy book dedicated to Shar was a black leather corset studded with many small figures carved out of jet. Its spells were accessed by inserting the proper gems inside the figure's eye sockets.
+Helm of Helm This heavy metallic war-helm was dedicated to the eponymous deity.
+Key of Faith This holy book dedicated to Oghma had the form of a  long ornate silver key.
+Lash of Loviatar This leather whip was a divine relic of Loviatar, and would only display a single spell at a given time. The displayed spell could be changed by striking the whip at a victim.
+Leaves of Green This indestructible piece of bark would turn into a book when one of the many names of Silvanus was spoken aloud.
+Mask of Mysteries This black silk mask concealed the features of the wearer and gave them a sinister appearance. It had the ability to reveal spells bestowed by the Lord of Shadows.
+Mighty Rune of the Master This holy book of Deneir was a magically floating, three-dimensional rune made of an unknown metal alloy. While floating it rotated slowly and chimed softly.
+Moonweb This set of magical silver rings could grant magical powers to the followers of Selûne, and could create intangible floating "pages" of glowing air if worn in the proper manner.
+Orglara A  large by  long platter of iridescent abalone shell, which revealed spells granted by Umberlee when in contact with rolling sea water.
+Red Book of War A massive holy book dedicated to Tempus, whose covers were made of beaten armor plates.
+Sash of Sune This scarlet sash about  long was a holy book of Sune, and revealed its secrets to a priest of her church dancing barefoot over it.
+Scepter of Mystra This divine Mystran artifact was well-known from even the laypeople, as it appeared in numerous children tales.
+Silver Supplicant This holy book was a silver statuette representing a priestess of Auril.
+
+Testament of Vraer This holy book dedicated to Kelemvor looked like an actual book, although a rather macabre one.
+Tome of Morning This holy book of Lathander had covers made of quartz and gilded steel, and its front page was decorated with a lidless, moving blue dragon hatchling's eye.
+Tome of Torment The most holy tome of the church of Ilmater, it looked like a shirt made of horsehair with small barbed hooks on the inside. Unsurprisingly, followers of the Broken God had to suffer in order to unlock its teachings.
+Tome of Universal Harmony The most holy book of the Deneirrath faith, whose spells could only be learnt by the deity's Chosen.
+Veloghon of Vigilance This tome dedicated to Torm had the appearance of a large, battle-weary war-shield.
+Vorthryns Archivir This thin book of classic design, measuring about  across by  in height, was a touched tome, a divine book of Azuth. When closed, it created sparkling motes of light around it.
+Wythyndle's Round Book Bestowed by Milil himself to its clergy during the 10 century DR, this book contained several exclusive spells and had the ability to teleport itself around Faerûn.
+Yornar's Trail Companion The cover of this crescent book dedicated to Mielikki was made of ironwood.
+
+In addition the following items were considered holy books despite not teaching any new spells to their readers, or despite not being dedicated to a specific deity:
+
+Book of Exalted Deeds An artifact of great power, this book wasn't dedicated to a single deity but was considered as the supreme written authority of goodness and virtue in all the multiverse.
+Book of Perfect Balance A holy book that wasn't dedicated to a single deity, but was considered sacred by creatures of neutral alignment. Once read this book disappeared, and the reader would never encounter it again.
+Testament of Jade A relic of the Lathanderian faith, which granted its owner the ability to cast several divine spells on a daily basis.
+Tome of the Dragon The holy book of the Cult of the Dragon, whose members venerated dracoliches.
+
+Appendix
+References
+
+---
+
+## House of Sun and Earth
+
+The House of Sun and Earth was a temple dedicated to the worship of both Chauntea and Lathander in the town of Woody Glen.
+
+Structure
+This temple was the largest structure in Woody Glen and had a graveyard attached to it.
+
+Activities
+This temple provided weekly religious services to the inhabitants of Woody Glen. In addition, it offered healing for the injured and sick. They offered holy water for free to good-aligned priests, but charged everyone else a price of 30 gold pieces per vial.
+
+Inhabitants
+In the 14 century DR the House of Sun and Earth had several acolytes, with the high priest of the temple being Father Turghan. Him and the other priests lived in a rectory down the road from the temple.
+
+Reputation
+Many of the farmers in Woody Glen attributed their successful harvests to the influence of the House of Sun and Earth.
+
+History
+In the late 14 century DR, Woody Glen fell victim to a number of magical mishaps perpetrated by the witch Morda. Father Turghan and his acolytes prayed to their temple's two deities, but received no enlightening visions. A group of adventurers approached the Father about these mishaps, but knowing only that dark forces must be at work Turghan suggested they investigate the nearby abandoned Sebastian Manor.
+
+Appendix
+Appearances
+Adventures
+Dungeon #67, "Witches' Brew"
+References
+
+---
+
+## Horgyl Tusselvarr
+
+Horgyl Tusselvarr was the Magister from  to .
+
+Appearance
+He was robust, and his nose had a hooked profile. His mien was described as cold and menacing, with flinty eyes.
+
+Personality
+He was not in the habit of meeting the eyes of gods.
+
+History
+After he caught Olohmber Starnardyn in the explosion of a booby trapped trio of staves, Horgyl challenged and slew him, becoming the Magister. As the Magister, he gave magic only to the most inept of apprentices, and periodically stole the best spells of other wizards, destroying their creations, and setting their allies against them. To Azuth, he claimed to do this in order to spur them to greater heights of sorcery.
+
+In parallel, Horgyl started work on a series of power gauntlets: enchanted gauntlets with a number of powers, which he claimed would grant rulers and knights a love of what magic could do for them, sparing wizards from the task of using such in the battlefield. The gauntlets' final powers were unknown by the 14 century, because Azuth stole all six pairs of them and a seventh pair he designed to be operable by himself alone. The Magister never identified the culprit, even after numerous chases; the High One did it so as to spur him in turn to greater and greater creations just as he claimed to do to lesser mages.
+
+Horgyl was finally slain by a challenger who employed spells to swallow him in a crevice and close it violently enough to crush or entomb him.
+
+Appendix
+References
+
+---
+
+## Howling wolf charm
+
+Howling wolf charms were small enchanted trinkets created by the Reghedmen shamans of the Tribe of the Wolf.The game erroneously says Rashemen Tribe of the Wolf, instead of Reghedmen.
+
+Description
+These magic charms were small pieces of silver, fashioned in semblance of a wolf's head.
+
+Powers
+To activate an howling wolf charm, one must grip it hard and howl into the sky. This summoned a gray wolf under the command of the charm's owner. It was believed that they had limited power. With time and use, they became tarnished and eventually turned into silver powder once the last wolf was summoned. The strength of summoned wolves was similar to that of creatures summoned via the summon creature III spell.
+
+History
+In the, one of these charms belonged to Guthewulfe Henghelm, a boisterous traveling trader of the Tribe of the Wolf who visited the town of Targos before returning back home with new goods. Guthewulfe was eager to bet the trinket in a braehg drinking competition. Circa the, an amulet version of the charm was a part of the curio collection of Mintassan the Magnificent, a planeswalker from Westgate.
+
+Appendix
+Notes
+
+Appearances
+Video Games
+Icewind Dale II • Neverwinter Nights 2: Mysteries of Westgate
+
+References
+
+---
+
+## Houndstooth collar
+
+Houndstooth collar was an enchanted Malarite collar once owned by a goblin worg trainer Vghotan in the early 14 century DR.
+
+Description
+Houndstooth collar was a dirty and rugged spiked strip of leather decorated with crude goblin sorcerous markings.
+
+Powers
+The wearer of this magic collar could call upon its enchantment to summon the ferocity and strength of a worg, turning the wearer's hands into deadly clawed worg paws. This effect was similar to that of the Malarite beast claw spell. This enchantment could be triggered once per day. Additionally, the wearer was immune to normal and magical fear and never panicked even in the most dire circumstances.
+
+History
+In the, a horde of savage northern goblinoids, monsters, and Malarite cultists besieged the town of Targos on the shores of Maer Dualdon. Vghotan commanded a pack of wolves and rode his pet worg into battle against the city's defenders and the mercenaries from Luskan. The attack failed, and Vghotan was slain. The Houndstooth collar was peeled off the blood-caked neck of Vghotan's worg in the aftermath. The subsequent history of the magic collar remained unrecorded.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale II
+
+References
+
+---
+
+## Homing pigeon
+
+Homing pigeons, also known as carrier pigeons or messenger pigeons, were a domesticated species of pigeon specially trained to return to a particular location when released into the sky.
+
+Habitats
+Frequently moving halfling communities in the Marching Mountains would keep in touch with each other through use of messenger pigeons.
+
+Homing pigeons were found in Shou Lung and in much of Zakhara. In the bazaars of Zakhara, the price of a homing pigeon varied from around 75 to 150 gold pieces depending upon how good one was at haggling. Homing pigeons were also found in the Feywild.
+
+Notable Homing Pigeons
+
+ Commander Lightfeather, a carrier pigeon that worked for the Sword Coast Couriers in Rivington in the late 15 century DR.
+
+Notable Users
+General
+ Some bandits utilized carrier pigeons.
+
+Businesses
+ Worried Wyvern Inn ran a messenger pigeon service.
+ Sword Coast Couriers, a courier business in the Rivington district of Baldur's Gate, used carrier pigeons.
+Individuals
+ Melannor Fellbranch was partial to contacting members of the Emerald Enclave through means of carrier pigeons.
+
+ Ting Mei Wan and her agents utilized homing pigeons.
+
+Organizations
+
+ The Everlasting, the largest holy slayer organization in Zakhara, widely utilized homing pigeons, keeping them in an aviary atop the roof of the Tower of Martyrs in Sarahin.
+ The Knights of Myth Drannor used homing pigeons.
+ Members of the Lords' Alliance communicated via trained carrier pigeons, provided by Piergeiron Paladinson of Waterdeep.
+ In Zhentarim garrisons, messenger pigeons were one of the means that secondary guards often had for reporting to Zhents elsewhere.
+ The kingdom of Cormyr used pigeons to deliver messages in the 15 century DR.
+
+Races & Sentient Creatures
+ Some noble djinn raised homing pigeons.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Howling Caverns
+
+The Howling Caverns were a network of tunnels beneath the Orsraun Mountains; by the late 10 century DR, they were mostly large enough even for the largest dragons to move in. By the late 14 century DR, they had collapsed.
+
+Description
+The labyrinth joined various meltwater caverns; wind constantly moaned through them, giving them their name.
+
+History
+In the late 10 century DR, Meldryn Jalensifer lured the Magister, a black dragon named Constulgrael, to the location with a rumor and ambushed him, slaying him and claiming the mantle of the Magister for himself.
+
+By the late 14 century DR, the caverns had collapsed.
+
+Rumors & Legends
+To lure Constulgrael, Meldryn had spread the rumor of an ancient draconic crypt, belonging to a sorcerous dragon and full of spells unique to dragons. Some sources implied that the caverns may have in fact been dug by dragons.
+
+Appendix
+References
+
+---
+
+## House of Comfort
+
+The House of Comfort was an inn located in the city of Zhentil Keep during the mid–14 century DR.
+
+Location
+The inn was located in south Zhentil Keep in the center of the Foreign Quarter along Zhent Avenue.
+
+Description
+The House of Comfort had two storys and 28 rooms available to rent. The rooms were kept clean but tended to be a bit chilly.
+
+Activities
+Patrons were charged 5 gp per night and meals were an additional 2 sp, a mug of ale was 3 sp, and a hot bath was 1 gp. The stables could be used for 2 gp.
+
+Inhabitants
+An unmarried woman named Maradad ran the House of Comfort. Her staff including a pair of servings girls named Anna and Lise, and a young man named Anderis who took care of general chores.
+
+Appendix
+References
+
+---
+
+## Horizon's Sails
+
+Horizon's Sails was a shop located in the Dock Ward of Waterdeep during the 15 century DR.
+
+Location
+The shop was located along Two Flask Alley.
+
+Activities
+Horizon's Sails specialized in fine and enchanted maps, charts, and logbooks. Some of these maps could not be found anywhere else and were said to be worth their weight in mithril.
+
+History
+Around the 14 century DR, this business's ships sailed around the far off continents of Anchorome and Maztica.
+
+Appendix
+References
+
+---
+
+## Hobnap Baker
+
+Hobnap Baker was a member of prominent hin Baker chaka of Durpar and the leader of the only Thieves' Guild of the Shining Lands in the late 14 century DR.
+
+Personality
+Despite his profession, Hobnap Baker lacked the greed that was so often prevalent among members of the thieves' guilds. He did, however, appreciate the challenge of the profession. Hobnap established honorable laws within the guild, demanding that the poor never be touched by their fellow thieves. Even though not every member was willing to comply.
+
+Possessions
+He was a wealthy hin who was always armed with his enchanted +2 dagger.
+
+History
+Hobnap created his guild on a dare. Everyone said a thieves' guild could not exist in the Shining Lands, and the halfling loved a good challenge. During his career, Hobnap pulled a multitude of high-profile heists that garnered him more notoriety than he was comfortable with. At one point in the  Hobnap pulled one of the most notorious stunts – he snuck into a Council of Merchants' meeting in Heldapan and acquired some invaluable intel, later sold to the highest bidder. The information leak became public, and the Council placed a heft reward on the perpetrator's head. If Hobnap Baker were ever discovered, his entire fortune and everything he's ever owned would be confiscated by the Durpari government. Being rich, the halfling, and no interest in being discovered and captured. If the existence of the gild were ever to be uncovered, the Durpari were to surely turn over every stone in an attempt to squash the organization. If that were to pass, Hobnap Baker would be long gone back in Luiren.
+
+Appendix
+References
+
+---
+
+## Holy (weapon quality)
+
+Holy weapons were those imbued or otherwise enchanted with good power that was especially harmful when wielded against wretched foes.
+
+Powers
+Holy weapons inflicted more grievous wounds whenever they struck an evil-aligned creature or being. Similarly, any evil person that attempted to pick a holy weapon up were severely weakened until they let it go.
+
+Notable Owners
+ Erathaol wielded a holy quarterstaff that was flaming at one end and covered in frost at the other.
+ Mielikki's twin Hornblades were +5 defending holy keen mighty cleaving scimitars.
+ The Rod of Four Moons, the personal weapon of the moon goddess Selûne, was a +5 defending disruption holy heavy mace.
+ Fatal Touch, the favored weapon of Kelemvor, was a +5 ghost touch holy undead bane bastard sword.
+ Ever Watchful, the favored weapon of Helm, was a keen holy lawful bastard sword.
+ Dawnspeaker, the favored weapon of Lathander, was a +5 disruption ghost touch holy heavy mace''.
+ Apollo, an interloper deity who originated from another plane of existence, used a holy composite longbow.
+
+In addition, holy weapons were often favored by celestial combatants such as Word archons, and by followers of good-aligned deities such as Triadic knights.
+
+Notable Holy Weapons
+ The Lance of Faerûn, enchanted lances created by the church of Torm to enhanced the abilities of their mounted combatants.
+ One Thousand Broken Dreams, a unique magical elven warblade enchanted against drows.
+ The Baneblades of Demron, a set of holy blades created in Myth Drannor.
+ Holy avenger blades would gain holy qualities in the hand of a paladin.
+ Hadryllis, the legendary, intelligent founding-sword of Rashemen.
+ The Axe of heavenly fire, a magical greataxe that was considered sacred to the church of Tyr.
+ First Light, a holy longsword sacred to the Church of Lathander.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Horn of goodness/evil
+
+Horns of goodness/evil were horns that had limited musical capability but powerful enchantments.
+
+Powers
+These instruments were capable of producing only two musical tones: a high ringing carillon peal that acred as the magic circle against evil spell and a low moan that summoned a magic circle against good. Either one of these notes could be produced only once per day.
+
+A variant of these trumpets, horns of goodness that could only protect the user from creatures of good, had a nasty chance of changing the bard who used it. There was a coin-toss chase that if a goodly person were to use it, the horn's magics perverted them, turning them closer to the side of evil.
+
+Notable Owners
+Gar Saru, a retired knight from Ravens Bluff, active in the late 14 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House of the Flying Horse
+
+The House of the Flying Horse was an inn that was located in the city of Waterdeep.
+
+Location
+The inn was located on Roguerun Alley in the Sea Ward of Waterdeep.
+
+History
+The inn was used by smugglers to fence stolen property. Sometime before the mid-to-late 14 century DR, a spell duel occurred here between rival wizards, destroying the House of the Flying Horse in the process.
+
+Appendix
+References
 
 ---
 
@@ -949,6 +13647,390 @@ References
 
 ---
 
+## Horn Street
+
+Horn Street was a road that was located in the city of Waterdeep.
+
+Location
+Horn Street was located in the northern section of Waterdeep's North Ward. The road branched southeast from a junction with Tower March, eventually ending on the Trollmarch at the eastern outer wall of the city. Horn Street was also intersected by Whaelgond Way, Pony Way, Selrin Street, and Lion Street.
+
+Notable Locations
+ Gralhund Villa
+
+Appendix
+References
+
+---
+
+## House of the Path and the Way
+
+The House of the Path and the Way was a shrine to the combined faith of the Path and the Way and the Celestial Bureaucracy found in the city of Bral on the Rock of Bral in the mid-to-late 14 century DR.
+
+Location
+It stood in the Middle City of Bral, within the Temple District. It lay between Mainmast Street and Temple Street, and faced onto Temple Square.
+
+Activities
+A small and humble place, the House saw little in the way of organized worship, but self-contemplation and the pursuit of enlightenment. Priests of any deity were welcomed, but followers of the Path and the Way were likely to explain where their deity served in the Celestial Bureaucracy and correct their views of the multiverse.
+
+Inhabitants
+Fewer than half a dozen priests and priestesses tended to the shrine. They passed their time in studies and meditation, and did not proselytize or otherwise seek converts.
+
+Appendix
+References
+
+---
+
+## Holy Keep of Bane
+
+The Holy Keep of Bane was a temple to Bane the Black Lord found in the city of Bral on the Rock of Bral in the mid-to-late 14 century DR.
+
+Location
+It stood in the Low City of Bral, at the heart of the block of buildings between Squid Street, Galleon Street, Lamp Street, Tops'l Street, and Sailmaker Street, and near to Cap'n Gyudd's Nautical Goods.
+
+Description
+One of the lesser shrines and temples in Bral, the Holy Keep stood within an old and dilapidated building, but it had some unspecified importance and prosperity.The Rock of Bral, as presented in the sourcebook Rock of Bral, was originally designed to be placeable in any crystal sphere of the DM's choice, but most sources since have placed it in Realmspace, which this wiki has adopted. As such, the Rock of Bral sourcebook gives two options for the Holy Keep of Bane, depending on the location. If in Realmspace, it is "somewhat more important and prosperous", as noted here. If elsewhere, the Banites are cut off from Bane and are only capable of low-level divine spells.
+
+Activities
+The temple was attended by only a few dozen Banites, all of them evil warriors and mages.
+
+History
+An adventuring priest of Bane and member of the Zhentarim known as Halwarin established the Holy Keep in the mid-1300s. Halwarin was committed to spreading the Banite faith to the stars, but after eight years it remained a lesser faith in Bral, and this was not aided by the god himself being inconveniently dead at the time.
+
+Relations
+The majority of Bralians saw it as just another looney cult and dismissed them. Nevertheless, members of the Tenth Pit on Bral contacted Halwarin; they sought to use the Banite faith to gain power, but Halwarin would not yoke Bane's cause to theirs.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Homestead Edict
+
+The Homestead Edict was a proclamation made by Lord Orgauth following the Fall of Zhentil Keep in the .
+
+History
+After the last humanoid forces were forced from the city on Kythorn 13 in the, reconstruction of Zhentil Keep began in earnest. Starvation was by far one of the most pressing matters for the citizens still huddling within the city at this time. To help combat this Lord Orgauth issued the "Homestead Edict" that granted plots of land to deserving citizens provided they planted and grew crops to help feed the starving city.
+
+Appendix
+References
+
+---
+
+## Horn of plenty
+
+Horn of plenty was a spell used by clerics of Yondalla.
+
+Effects
+When cast on a hollow horn, it transformed into a cornucopia filled with fresh fruit, vegetables and grain. It provided a days worth of food for up to six medium creatures or two large creature. Once the food was removed, the cornucopia then provided a days worth of either ale, water or wine. The type of food and liquid provided was determined by the caster. The caster had to ensure there was enough containers to catch the food and liquids. Once the spell expired, the cornucopia once again became a regular hollowed out horn, but the food and liquid it provided remained.
+
+Components
+In addition to verbal and somatic components, this spell required material components, the holy symbol of Yondalla.
+
+Appendix
+References
+
+---
+
+## Hourglass Coven
+
+The Hourglass Coven was the coven formed by the three daughters of Baba Yaga the terrible archfey and Mother of All Witches. They were collectively known to embody pure evil, each bound to an aspect of time itself: past, present, and future.
+
+Organization
+As was often the case, the three hags of the coven―Skabatha, Bavlorna, and Endelyn—each despised one another and often conspired in pairs to plot the downfall of the third sister.
+
+Tactics
+Despite their shared enmity, the hags of the Hourglass Coven each gained significant powers when all three were within close proximity of one another. When no sister was more than  from another, each of them could cast a variety of powerful magic at will, such as finger of death or mass suggestion, without utilizing spells they had memorized.
+
+Relationships
+Each member of the coven employed various agents including thieves, some of whom traveled along with the Witchlight Carnival. Skabatha hired a ghoul named Sowpig, Endelyn controlled the removed shadow of an elf named Gleam, and Bavlorna used a lornling that resembled a miniature version of herself.
+
+Before their sudden and inevitable betrayal, the three sisters acted as trusted advisors to Iggwilv, Baba Yaga's adopted daughter. This service was in fact a ruse meant to foster in Iggwilv a false sense of security.
+
+History
+Skabatha, Endelyn, and Bavlorna became exceedingly jealous when Iggwilv grew exponentially in power and ability, created her own Domain of Delight, Prismeer. They feigned support for Iggwilv and ingratiated themselves to the new archfey, while formulating a plot to sabotage her magic cauldron. They waited for precisely the right moment to strike and take Prismeer for their own.
+
+When Iggwilv returned to Prismeer from her travels, the coven's trap was sprung and Iggwilv was placed in a form of temporal stasis, within her Palace of Heart's Desire. The three sisters carved out their own domains within Prismeer, and split the domain into three distinct realms: Hither, Thither, and Yon. They then manipulated the mercenaries from the League of Malevolence into safeguarding Iggwilv's Cauldron, the key item that could allow Iggwilv to break free.
+
+Members
+ Skabatha Nightshade, the eldest sister that dealt in the regrets and sadness of past memories and lost loves.
+ Bavlorna Blightstraw, the middle sister who lived entirely in the moment and held no regard for the past or the future.
+ Endelyn Moongrave, the youngest sister who stole away the will of others and forced them to watch the worst fates that awaited them.
+
+Appendix
+Appearances
+Adventures
+The Wild Beyond the Witchlight
+Card Games
+
+References
+
+---
+
+## Horn of command
+
+A horn of command was an enchanted musical instrument that amplified the user's voice.
+
+Powers
+The magic of a horn of command allowed the user to be heard at distances three times greater than normal. However, once per day the horn could be used to issue a suggestion to anyone within  provided they spoke the same language as the wielder. The horn could also be targeted to a single individual. Doing this made it much harder for the target to resist the horn's magic.
+
+Appendix
+References
+
+---
+
+## Horn totem
+
+The horn totem was a dagger crafted from the horn of a dead oni known as the Ogre King. It was considered to be of great religious significance to the goblins who worshiped the Ogre King as a demigod from within the Barrow of the Ogre King in the Delimbiyr Vale.
+
+Description
+The horn itself was straight and black. The base was wrapped in leather and the point was sharp enough to allow it to be wielded like a crude dagger.
+
+Powers
+The dagger was a goblin totem, meaning that merely holding it imbued the wielder with a confidence to face enemies much larger than they were, and thus made the wielder just a bit more dangerous when fighting bigger enemies.
+
+History
+The horn totem was fashioned by goblin worshipers of the Ogre King sometime after his death in the early 15 century DR, alongside a mace made of his skull known as the skull totem. When the goblins' High Shaman, Sancossug, began plotting to revive the Ogre King in the late 1470s DR, these totems became vital as he believed he needed the Ogre King's skeleton to be as intact as possible.
+
+In the, the horn totem was stolen from the Barrow of the Ogre King by a wizard known as Curuvar the Brazen. Curuvar sold it to Garwan's Curiosities in Loudwater, where it was promptly placed on display in the front window. In response to this theft, the goblins raided the town, blowing a hole in the southern wall with alchemist's fire and attacking the townsfolk indiscriminately on their way to retrieve the dagger.
+
+Appendix
+Appearances
+Adventures
+Barrow of the Ogre King
+References
+
+---
+
+## Holin
+
+Holin was a skilled weaponsmith inhabiting the Old Empires of east Faerûn sometime before the mid 14 century DR.
+
+History
+Holin was famed for forging the bladeless sword, a powerful weapon with an ethereal blade that was devastating against all forms of undead.
+
+Appendix
+References
+
+---
+
+## Horn guard
+
+Horn guards were specialty priests of the Church of Yondalla.
+
+Abilities
+Once per day, horn guards can cast magical stone, protection from evil and shield. More experienced horn guards could also cast bless, create food and water, efficacious monster ward and wyvern watch. The most powerful horn guards could additionally cast animal growth, heroes' feast, plant growth and restoration. In addition, they gained the natural immunity to paralyzation and fear-based spells and effects.
+
+The most powerful horn guards could naturally shapechange. They could only assume the form of terrestrial mammals who did not live in trees and burrowing animals. While shapechanged they could not bestow healing on themself or anyone else.
+
+Appendix
+
+References
+
+---
+
+## House of Ramathant
+
+The House of Ramathant was the name given to the priesthood of Ramathant—how the god Anhur was called in Thay.
+
+History
+As with all organizations of the Mulhorandi pantheon, positions of power within the priesthood were typically hereditary and most priests were descendants of various incarnations of their god.
+
+Appendix
+References
+
+---
+
+## House of Osriant
+
+The House of Osriant was the name given to the priesthood of Osriant—how the god Osiris was called in Thay.
+
+History
+As with all organizations of the Mulhorandi pantheon, positions of power within the priesthood were typically hereditary and most priests were descendants of various incarnations of their god.
+
+Appendix
+References
+
+---
+
+## House of Helcaliant
+
+The House of Helcaliant was the name given to the priesthood of Helcaliant—which was the name of the god Horus-Re in the lands of Thay.
+
+History
+As with all organizations of the Mulhorandi pantheon, positions of power within the priesthood were typically hereditary and most priests were descendants of various incarnations of their god.
+
+Notable Members
+ Pharaoh Horustep III
+ Vizier Rezim
+ Mardikan
+
+Appendix
+References
+
+---
+
+## House of Tholaunt
+
+The House of Tholaunt was the name given to the priesthood of Tholaunt—how the god Osiris was called in Thoth.
+
+History
+As with all organizations of the Mulhorandi pantheon, positions of power within the priesthood were typically hereditary and most priests were descendants of various incarnations of their god.
+
+Appendix
+References
+
+---
+
+## Hornet (sword)
+
+Hornet was a unique short sword of dancing that was wielded by the avatar of Arvoreen alongside his favored weapon, Aegisheart.
+
+Powers
+Hornet was a +4 short sword of dancing. However, this was no typical blade of this type, as when dancing, the blade hit much harder, and this scaled with the strength of the wielder. As per Aegisheart, Arvoreen was able to transform this Hornet into another form via weapon shift.
+
+Appendix
+References
+
+---
+
+## Horn Cliffs
+
+The Horn Cliffs were coastal cliffs of County Firedrake, on the northernmost tip of the Dragon's Head Peninsula, named after their position as the "horns" of the dragon head-shaped peninsula in Tethyr.
+
+Description
+The Horn Cliffs could be found to the east of the city of Velen, past ducal castle Tordraken. Pearl oyster-rich Acoval's Cove was located on the western side of the "horn." These thin and tall coastal cliffs stretched over four miles and resembled horns of a fierce beast protruding and stretching up from the land's edge.
+
+The cliffs were a perfect seabird habitat but not much else. There were no settlements along the Horn Cliffs due to their height, yet the bluff hid numerous caves that attracted bandits, people, down on their luck, curious adventurers, and an occasional ambitious merchant in search of some hidden treasure. These visitors attracted monsters who happily fed on unwitting would-be adventurers.
+
+History
+The origin of the Horn Cliffs remained a mystery to sages. During the period of time from around 1350 DR to 1370 DR, those show delved into the cliffs' caverns and emerged with treasures on at least two occasions. One of the recovered treasures were the the Purple Keys spellbooks that once belonged to Waterdhavian Magist Guildmaster, the other were Seven Dancers – golden Sunite statues.
+
+By the late 14 century DR, Velen stationed ballistae and catapult batteries along the Horn Cliffs. Other neighboring areas that held Velen's defenses included the Blackthorn Manor, Tordraken, and the city proper. Velen's fortifications on the Horn Cliffs were placed in the area called the Prow and were guarded by a garrison.
+
+Rumors & Legends
+Some of the stories that surrounded the Horn Cliffs claimed that at least one Tethyrean treasury was hidden somewhere within the coastal caves.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Holy vesting
+
+Holy vesting was a very rare spell used by clerics. It's use was recorded by Volothamp Geddarm.
+
+Effects
+When cast, this spell transferred magical abilities of a magical item into another item. Items that could be drained included potions, spell scrolls, magical weapons, paper or parchment with command words and focal stones. The targeted item was destroyed.
+
+The imbued item was surrounded by a disturbance in the air while the spell was in effect. This shimmering began during casting, as the caster touched the destination item and then the targeted item. The spell did not protect the caster from any potential traps or explosive effects that were sometimes released when a magical item was destroyed.
+
+The caster could end the spell during transfer however, any effect in the process of transferring was lost. The spell was vulnerable to dispel magic. The caster could defend against dispel magic if they cast the spell on an alter that was dedicated to the caster's deity.
+
+Components
+In addition to verbal and somatic components, this spell required several material components. It required a  drop of holy water for each effect to be transferred, and a burning stick or chunk of incense.
+
+Appendix
+References
+
+---
+
+## Hold undead
+
+Hold undead was a divine alteration and invocation spell from the protection sphere that enabled the caster to hold several corporeal undead.
+
+Effects
+The caster could hold 1–4 undead in place for up to five minutes provided they were within a cube measuring  to each side. The hold would be broken if the undead was attacked in any manner.
+
+Components
+In addition to verbal and somatic components, this spell required as a material component the priest's holy symbol to cast.
+
+History
+A Netherese arcanist named Prug developed this spell in .
+
+Appendix
+See Also
+Halt undead
+References
+
+---
+
+## Horns of wisdom
+
+Horns of wisdom was a unique magical ability used by ice hunter shamans, who were specialty priests of Ulutiu, of the Great Glacier whose totem animal was Pindalpau-pau the Reindeer Mother.
+
+Powers
+Horns of wisdom bestowed the benefits of a commune spell on the shaman. The power also caused elk antlers to grow from their head that got larger with each use of this power. The horns would shed during the winter if they got too big to be supported by the shaman's skull. At this point the growth cycle would begin anew in the spring.
+
+Horns of wisdom could be called upon once per day and lasted for ten minutes.
+
+Appendix
+References
+
+---
+
+## Honor Among Thieves: The Druid's Call
+
+Honor Among Thieves: The Druid's Call by E. K. Johnston, with a cover by Alice Duke, is one of the two prequel novels for the Honor Among Thieves movie. It was released on February 28, 2023. It focuses on Doric and her training as a druid.
+
+Synopsis
+
+Summary
+
+Index
+Characters
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •
+
+Classes
+ •  •  •  •  •
+
+Creatures
+ •   •  •  •  •  •  •  ) •  •  •  •  ( • ) •   •  •  •  •  •  •  •  •  •   •  •  •  •  •  •  •  •
+
+ •  •  •  •  •  •
+
+Food & Drink
+ •  •  •  •  •  •  •  •  •  •  •  •
+
+Items
+ •  •  •  •  •  •  • partridgeberry •  •  •  •  •
+Substances
+
+ •
+
+Locations
+Settlements
+  •  •
+Landmarks
+ •  •
+Geography
+ •  •
+
+ •
+
+Magic
+ •
+
+Miscellaneous
+ •
+
+Organizations
+
+Plants
+ •  •  •  •  •  •  •  •  •  •
+
+Religion
+
+Appendix
+References
+
+---
+
 ## Honor Among Thieves: The Road to Neverwinter
 
 Honor Among Thieves: The Road to Neverwinter by Jaleigh Johnson is one of the two prequel novels for the Honor Among Thieves movie and published on February 28, 2023.
@@ -1047,6 +14129,3149 @@ The novel had the working or preliminary title Neverwinter Heist with a differen
 Notes
 
 Gallery
+
+References
+
+---
+
+## Hoth
+
+Hoth of the Six Curses was a mage operating in Murghôm in the mid–13 century DR. He was named such for the half-dozen curses he was subject to.
+
+History
+In the, Hoth was hired to hunt down and kill the hitman who had tried and failed to murder his employer. The hitman was Andaren Robyth, a former thief who'd been partly polymorphed to possess a reptilian left arm. Hoth found Andaren dwelling in a cave outside Phannaskul and intended to kill him, but Andaren bargained for his life by giving Hoth the holy Mielikkian spellbook known as Yornar's Trail Companion. Hoth accepted and settled for teleporting Andaren all the way to Westgate on the Dragon Coast, where he had an eventful, but short, career.
+
+Hoth had taken the Companion hoping it held something that would rid him of at least one of his curses, but nothing in the divine spellbook could help him. Disgusted, he sold it to a merchant in a bazaar in Murghyr. (Later that day, that merchant double-crossed another merchant, who was in fact a doppelganger and member of a druuth serving a mind flayer, and died for his treachery.)
+
+Appendix
+See Also
+ Kloroth of the Seven Curses
+
+Notes
+
+References
+
+---
+
+## Honor Among Thieves: The Junior Novelization
+
+Honor Among Thieves: The Junior Novelization by David Lewman is a novelization of the Honor Among Thieves movie released on February 28, 2023. It is intended for children aged 8–12. The hardcover edition is titled Honor Among Thieves: The Deluxe Junior Novelization and includes a pull-out poster.
+
+Description
+The Junior Novelization is an abridged retelling of the events of Honor Among Thieves, covering roughly the first half of the movie, that is, from Edgin and Holga's time at Revel's End to the retrieval of the Helmet of Disjunction from the ruins of Dolblunde and the battle with Themberchaud. It is based on an earlier version of the script than what was filmed, as indicated by variations in a number of lines and by a number of lines and scenes cut from the movie. The prose style is sparse and perfunctory.
+
+Index
+Characters
+Blackwood • Doric • Dralas • Fennor • Gorg • Gurt • Gwinn • Jarnathan • Kira • Lucas • Marlamin • Rakor • Rond • Sofina • Themberchaud • Tobias • Zia • Voss Anderton • Simon Aumar • Din Caldwell • Edgin Darvis • Forge Fitzwilliam • Stanhard Grimwulf • Toke Horgath • Holga Kilgore • Kriv Norixius • Porb Piradost • Sven Salafin • Ven Salafin • Jil Torbo • Xenk Yendar
+
+Mordenkainen • Elminster Aumar • Ghelryn Foehammer • Dagult Neverember • Szass Tam (not named)
+
+Creatures
+aarakocra • axe beak • cat • deer • dragon (black dragon • red dragon) • dragonborn • fly • half-elf • halfling • hawk • hobgoblin • horse • human • (Thayan • Uthgardt) • intellect devourer • mouse • owlbear (snowy owlbear) • tabaxi • tiefling • undead • wood elf
+
+beholder • bullywug • eagle • gnome • griffin • remorhaz
+
+Locations
+Buildings
+Caldreth's Pickles, Nuts, and Foods • Castle Never • Evermoors cemetery • Harper sanctuary • Korinn's Keep • Revel's End • Triboar playhouse • Trip and Shuffle
+Settlements
+Dolblunde • Longsaddle • Mornbryn's Shield • Neverwinter • Targos • Triboar
+Geography
+Dessarin Hills • Dessarin Valley • Evermoors • Kryptgarden Forest • Neverwinter Wood • Sea of Moving Ice • Sea of Swords • Surbrin River • Sword Mountains
+Regions
+Faerûn • Frozenfar • Icewind Dale • Sword Coast • Thay • Underdark
+
+Anauroch • Baldur's Gate • Greypeak Mountains • Nesmé • Skullport • Thay • Waterdeep
+
+Organizations
+Absolution Council • Cult of the Dragon • Elk tribe • Emerald Enclave • Harpers • Red Wizards of Thay • Tribe of the Elk
+
+Lords' Alliance
+
+Magic
+Abilities
+wild shape
+Spells
+beckoning death • chain lightning • counterspell • mage hand • magic missile • Mordenkainen's arcane seal • prestidigitation • reverse gravity • shield • thunderwave • time stop • transmute rock to mud
+Magic Items
+bag of holding • darksteel greataxe • deathly token • Harper pin • Helmet of Disjunction • Hither-Thither Staff • pendant of invisibility • Tablet of Reawakening
+
+telekinesis
+
+Religion
+Deities
+
+Talos
+Churches
+
+Church of Talos
+
+Items
+Books
+The Fanged Tome of Lykanthus Szar • Galadaster's Orizon
+Clothing
+armor • barley • cloak • jewelry • mitten • oat
+Food & Drink
+carrot • clove • goose • pickleberry • potato • sandwich • tea • vinegar
+Instruments
+lute • panpipes
+Materials
+darksteel • linseed oil • silver • oil
+Tools
+chain • lamp • rope • satchel •  shackles • spyglass • water clock
+Vehicles
+balloon • sleigh
+Weapons
+arrow • axe • bullet • longsword • slingshot • staff
+
+gem • jewels
+
+Miscellaneous
+Battle of Ever-moor • Elvish • High Sun Games • janklee • mathematics • "Juice of the Vine" • tattoo • Thayan language • zulkir
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Honor Among Thieves: The Quest Begins
+
+Honor Among Thieves: The Quest Begins by Matt Huntley and illustrated by Alan Batson and Grace Mills is a novella based on the Honor Among Thieves movie set to be released on February 28, 2023. It is intended for children aged 3–7.
+
+Index
+Characters
+Doric • Gorg • Kira • Simon Aumar • Edgin Darvis • Holga Kilgore
+
+Creatures
+hobgoblin • tiefling • half-elf • human (Uthgardt)
+
+Locations
+Buildings
+Revel's End
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Honor Among Thieves: Official Activity Book
+
+Honor Among Thieves: Official Activity Book is an activity and sticker book based on the Honor Among Thieves movie set to be released on February 28, 2023. It is intended for children aged 3–7.
+
+Appendix
+References
+
+---
+
+## Honor Among Thieves: Heroes Unite!
+
+Honor Among Thieves: Heroes Unite! by Nicole Johnson and illustrated by Alan Batson and Grace Mills is a reading tutor and short story based on the Honor Among Thieves movie set released on February 28, 2023. It is intended for children aged 5–8.
+
+Index
+Characters
+Doric • Jarnathan • Kira • Themberchaud • Voss Anderton • Simon Aumar • Edgin Darvis • Holga Kilgore • Kriv Norixius • Jil Torbo • Xenk Yendar
+
+Creatures
+aarakocra • dragonborn • halfling • tiefling • half-elf • human (Uthgardt) • red dragon
+
+Locations
+Buildings
+Revel's End
+Settlements
+Neverwinter
+Geography
+Sword Mountains
+Regions
+Faerûn • Underdark
+
+Organizations
+Absolution Council
+
+Items
+axe • lute
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Hosark
+
+Hosark was an elf woodsman of the High Forest in the late 13 and early 14 century DR.
+
+Relationships
+Hosark raised Travis Deepdell after the half-elf was abandoned as a baby outside his cottage some time around 1298 DR.
+
+Possessions
+He was the owner and namesake of the magical Bow of Hosark. He wore +2 elven chainmail.
+
+History
+Circa 1338 DR, Hosark left his bow and his armor to Travis before he went west to Evermeet. Not knowing either Hosark's or the bow's stories, Travis simply named it the Bow of Hosark in honor of his mentor.
+
+Appendix
+References
+
+---
+
+## House of Khalif Mubrek
+
+The House of Khalif Mubrek was a dangerous house in the city of Phoenix within the Raurin.
+
+Location
+The house lay submerged beneath the sands in the city of Phoenix.
+
+Interior
+The foyer of Khalif Mubrek was still accessible from the outside streets. It was set apart from the street with pillars and a stone filigree; the floor was a complex mosaic of white and cream-colored stones, while the walls were covered in dark brown baked enamel tiles. There was an entrance door, with an inscription enchanted to render it readable to anyone, stating "My fun is your fun". The entrance was only small enough for one person at a time, and it required a man-sized person to stoop slightly in order to cross. Anyone passing would be struck by a chocolate cream pie in the face. Even those who covered their faces completely while entering would be assaulted by a flying pie as soon as they were inside the room.
+
+Beyond the foyer was the sitting room of Khalif Mubrek. It had walls frescoed in murals of a city with beautiful buildings descending to a large lake dotted with triangular sail ships. The room was appointed with fine couches and chairs, embroidered with pastels and gold. Two five-foot couches inlaid with gold were worth 150 gp, 10 gp for the inlay alone; a small chair encrusted with seed pearls and inlaid with gold was worth 180 gp, 20 gp from the seed pearls and 20 gp from the inlay. A high, bronze-backed throne-like seat with large arms was set with runes that would display "Rule ye all who sit here"; it was a harmless prank device, whose seat dropped out as the arms fell inward if anyone sat on it. Struggling to rise would make the legs spread outwards while the back hinged forwards. The device would return to its shape as soon as its user was extricated from the chair.
+
+Beyond the sitting room was his dining room. It had a 30-foot vaulted ceiling, ornate brass oil lamps hanging from the ceiling, and a floor covered in thick wool rugs colored in fantastic designs. The rug would gently but forcefully remove the shoes of anyone passing by, even if it tripped them in the process. There was a long, low table in the middle of the room for diners to eat seated at the floor, which would seat up to 24.
+
+From Khalif Mubrek's dining room, one would reach his entrance. The entrance would open unto the streets, where a boneless, dessicated husk of a corpse lay across the threshold. The other room led unto his kitchen; the kitchen had three ovens, a hearth, several cleared-out cupboards, and three water taps. These water traps were prank devices; the flow of water on one of them would stop if one attempted to tap them for water, the second one would spew a torrent of water into the fact of the person attempting to tap, and the third worked normally- but it turned the tongue and lips of those who drank black. There was a warning to leave back through the entrance, which would change language as needed; those who used the other door would end in the Hall of Khalif Mubrek. That hallway contained a black obelisk with a sign of a raised palm on the side pointing towards the kitchen, and a mirror of opposition on the other side of the obelisk. Several bodies lay on the other side of the obelisk; there was a door leading outside past the obelisk.
+
+Defenses
+The mirror of opposition was an ongoing hazard. The rest of the house was annoying, but not dangerous.
+
+Inhabitants
+The phantom of Khalif Mubrek could still manifest. Everyone who entered the duning room would be announced with a gong, followed by the appearance of Khalif Mubrek's own ghost, and the instant serving of a meal of steaming roast meat, fresh fruits, pita bread, three goblets of wine (one gold and two silver), and a decanter full of wine, per person. Anyone sitting at the table would be greeted by the spirit of Khalif Mubrek, a smiling, pudgy, little man dressed in the finest silks and satins, whose fingers were covered in assortments of rings showing pearls, emeralds, rubies and diamonds. He would offer people a toast in the golden goblets; those were actually dribble glasses. If the players did not laugh alongside the man as they toasted, the meal would disappear; upon finishing the meal, one of Khalif Mubrek's rings would appear before them in the table. Those who took the rings would hear a last toast from the apparition, "Long Life".
+
+Appendix
+Appearances
+Adventures
+Desert of Desolation
+References
+
+---
+
+## Home of Chininsk Ambar
+
+The Home of Chininsk Ambar was an amusement in the city of Phoenix within the Raurin.
+
+Location
+The building lay submerged beneath the sands in the city of Phoenix.
+
+Structure
+From the Maze of Light in the Secret Maze of Kharan one could reach the residence of Chininsk Ambar. There was a short hallway leading up to a strange door, built to appear as though it called for depressing the latch and then pushing; it was actually opened the opposite way, even hinged wrongly. The door opened into the Library of Chininsk Ambar; as of, the library was in shambles. There were no other doors, but one wall was actually made of lightweight blocks that crumbled away if their mechanism was triggered. That wall led to a sitting room; a carving of a skull allowed one to see the room across from the entrance, but double doors on the right led the way to the ballroom of Chininsk Ambar.
+
+The ballroom was a place reputed as the one where anyone could dance. It had a  ceiling, with long, hanging crystals for illumination; the walls were covered in frescoes of nymphs, satyrs and legendary beasts. Spring-loaded gimbals beneath the dance floor would complicate walking across the room; it was easiest to dance, or even crawl, than it was to run. The room opened unto the entryway, which was a normal room, and unto the Death Trap of Chinisk, visible from the sitting room. The Death Trap was merely a hinged floor that dropped all those who stood by the west wall into an underground chamber. The chamber had a tunnel dug out of it which led into one of the cellars in the House of Khalif Mubrek; unfortunately, it led straight in front of the mirror of opposition in his hallway.
+
+The entryway was a normal room, which led towards a slide, or "Chandelle-Glisade". The room was a long, gentle spiral that fell counter-clockwise; originally oiled daily, it was intended for descent on a pillow or a rug, with pillows placed at the end. Now, covered in fine sand, the abrasion and accelleration could both be dangerous; they opened into the vicinity of the Baths of Garimsharr.
+
+Inhabitants
+The only object of value was the lamp of El-Tarifa, an aerial servant who used to be the butler for Chininsk Ambar. If helped return all in the library to its proper place, it would stay with its helpers and perform up to one service that did not go against its nature (it was a good-aligned creature).
+
+Appendix
+Appearances
+Adventures
+Desert of Desolation
+References
+
+---
+
+## Holone Auglamyr
+
+Holone Auglamyr was a sorceress of Cormanthyr working for Coronal Eltargrim in the 3 century DR.
+
+History
+In, she and five other sorceresses joined the Coronal in going down to the Vault of Ages after the High Court Mages refused. The sorceresses later convened on the sky over the palace and some balefire, where she pointed out which Houses had to be watched for, expecting they would respond violently to the recent events such as the naming of a human, Elminster, as armathor. After he was slain in a hunt, she was chosen, together with Sylmae Auglamyr to truth-scry Selgauth Cathdeiryn, one of the survivors of the hunt, presumably also Elminster Aumar's slayer. She then took part in the protection of Mythanthor, getting first assigned to meshing her mantle with the mage's, and keeping a quiet listen to identify any attackers.
+
+In  she helped defend Eltargrim after Llombaerth Starym and his army attempted to overthrow the Coronal, and then carried the bows from Starym's army into the chamber where they wove the Mythal. She remained at the ready, and helped fight Uldreiyn Starym. She was also a witness when Symrustar Auglamyr helped fight Uldreiyn Starym, but almost struck her down too at the end.
+
+Appendix
+Appearances
+Novels
+Elminster in Myth Drannor
+References
+
+---
+
+## Holy Vigil
+
+The Holy Vigil was a religious ceremony observed by worshipers of Helm, He of the Unsleeping Eyes.
+
+Description
+Holy Vigils were observed when a priest within the Church of Helm ascended to a higher rank within the clergy. The priest participated in a time of deep concentration where they kept their weapon afloat in the air throughout the night. The weapon was enchanted to float by a fellow priest, but only the ascending priest's constant vigilance kept it afloat through the night.
+
+Appendix
+References
+
+---
+
+## Honor Among Thieves: The Feast of the Moon
+
+Honor Among Thieves: The Feast of the Moon is a prequel comic for the Honor Among Thieves movie. It is published by IDW Publishing movie and set to be released in March 2023.
+
+It includes two stories:
+ "The Feast of the Moon" by Jeremy Lambert with art by Eduardo Ferigato, colors by Patricio Delpeche and Agustina Vallejo
+ "Xenk and the Helmet of Disjunction" by Ellen Boener with art by Guillermo Sanna, colors by Mattia Iacono
+
+Synopsis
+
+Index
+Characters
+Glyrgoth • Grunnald • Kira • Mae • Muren • Simon Aumar • Xenk Yendar • Edgin Darvis • Forge Fitzwilliam • Holga Kilgore • Mordenkainen • Rakor • Thelvyn Kip • Timbrell • Trap (deep gnome) • Trick (deep gnome) • Ven Salafin • Zuphelithid
+
+Creatures
+boar • dragonborn • dracolich • dwarf • earth elemental • elder brain • elf • half-elf • half-orc • human • illithid • imp • intellect devourer • skeleton • svirfneblin • tiefling • troll • white dragon • wyvern
+
+Locations
+Settlements
+Daggerford • WomfordThe town of Womford is not mentioned in the story, however, it was confirmed by Jeremy Lambert in his instagram post.
+
+Bargewright Inn
+
+Buildings
+Friendly Bat
+
+Regions
+Evermoors • Faerûn • Thay • Underdark
+
+Other
+River Dessarin
+
+Organizations
+Cult of the Dragon • Dragonclaws • Harpers • Pale Claw • Red Wizards of Thay • Elk tribe • Zhentarim
+
+Magic
+Spells
+compelled duel • shield • true seeing
+Magic Items
+daggersword • helmet of disjunction • pendant of invisibility
+
+Items
+axe • helmet • lute • shortsword
+
+Miscellaneous
+ale • battle of the Evermoors • Feast of the Moon • gold • mushroom • porcelain • silver
+
+Appendix
+Notes
+
+Gallery
+
+External Links
+ IDW Announces Rollicking Comic Prequel Dungeons & Dragons: Honor Among Thieves—The Feast of the Moon
+
+References
+
+---
+
+## Horgardin
+
+The Horgardin was a group of wanderers who served Ibrandul, the Lord of the Dry Depths.
+
+Base of Operations
+The Horgardin wandered the Underdark.
+
+Organization
+The group was composed of various races and led by a half-drow druid of Ibrandul. The gray druid lead the group through ancient tunnels believed to have been carved by a horgar.
+
+Appendix
+References
+
+---
+
+## House of the Lynx
+
+The House of the Lynx was a club where visitors of means could find hired companionship for a night, located in Suzail, the capital of Cormyr in the 15 century DR.
+
+Description
+The House of the Lynx stood several doors down from Suzail's grand Promenade and south from the Court Close's beginning at the stoop of The Winking Eye tavern. The brothel was known for its ladies "not sporting a face like an old boot" whose companionship was priced at ten lions and twenty more for a night-long affair and a choice activities that did not include flogging.
+
+Appendix
+See Also
+Interactive map of Suzail
+
+Appearances
+
+References
+
+---
+
+## Horngate
+
+The Horngate was the great arched northwestern gate into Suzail, the capital of Cormyr.
+
+Location
+The Horngate stood on the northwestern part of Suzail, where the Way of the Dragon ended and the city's grand Promenade began.
+
+Structure
+The arched gateway was topped with apartments, including the home of Huldyl Rauthur, a War Wizardin service of Vangerdahast Aeiulvana, the Royal Magician, in the late 14 century DR.
+
+Defenses
+The Horngate was guarded by a garrison of crossbow-armed Purple Dragons. Each person or group who entered Suzail through the great gate was stopped and asked to report their visit's purpose and to present appropriate paperwork, like Cormyr's adventuring charters. The Horngate was locked and barred during night hours, guarded by stone-faced men of the Crown. Entrance to Suzail was forbidden overnight.
+
+Just like the Eastgate, and the Field-Gates, the Horngate was a citadel-like fortification that offered solid defenses to Suzail's northwest entrance. Its gatehouse maintained a detailed log of known spies and other individuals barred from entering the capital of Cormyr.
+
+Appendix
+See Also
+Interactive map of Suzail
+Appearances
+Novels
+Swords of Eveningstar • Bury Elminster Deep • Fire in the Blood
+
+Death of the Dragon
+References
+
+---
+
+## Hoktant chaka
+
+The Hoktant chaka was a prominent chaka within the Shining Lands of southeast Faerûn during the mid-to-late 14 century DR and a member of the Chakas of 31.
+
+Base of Operations
+They were based out of the coastal city of Zabbasz in Estagund.
+
+Activity
+Seven master traders within the chaka ensured their coffers were always full. The Hoktant chaka's wealth came exclusively from trade.
+
+Appendix
+References
+
+---
+
+## House of Spires
+
+The House of Spires was a temple devoted to Loviatar, the Maiden of Pain, during the mid-to-late 14 century DR.
+
+Activities
+The House of Spires rose to prominence rapidly during the mid–14 century DR, thanks mostly to the efforts of the temple's high priestess.
+
+Inhabitants
+Queen of Torment Chalathra Nyndra served as high priestess of the House of Spires during this time.
+
+Appendix
+References
+
+---
+
+## Holdensword
+
+Holdensword was a hamlet in Turmish in the Vilhon Reach in the 14 century DR.
+
+Geography
+Fairly isolated, Holdensword was located on the southeastern edge of Turmish, between Gildenglade and Jathrin's Jump.
+
+History
+The hamlet sprung up around the namesake stronghold known as The Hold of the Sword. This was the base of a mercenary company, The Riders of the Sword, who were active in the earliest days of human settlement on the northern shore of the Sea of Fallen Stars.
+
+By 1370 DR, however, the Riders were long gone and the place was but a humble farming community.
+
+Description
+The people here were cattle ranchers who kept their herds in the rolling uplands to the east and the south. They were known to be a stern and hardworking folk.
+
+Notable Locations
+The old stronghold stood on a spur of rock in the southeast of the hamlet. Built of stone with massive walls and well fortified, it was a castle said to be as big and as imposing as anything found in Thay or Chessenta. Within the outcrop beneath it was a web of tunnels used for granaries and burial catacombs, and in former times as a long defensive gauntlet for defenders to retreat through.
+
+Somewhere within either the castle or the tunnels were a series of secret rooms that were the quarters and workplace of the wizard Olonther, a high-ranking member of The Riders of the Sword. He built dozens of battle horrors to defend the castle.
+
+Rumors & Legends
+It was thought possible that some of Olonther's battle horrors remained hidden within the castle or the tunnels, waiting to be reactivated. Furthermore, it was speculated that Olonther's spellbooks, magic items, and treasure might be with them too, and even the old mage himself in some state.
+
+Appendix
+References
+
+---
+
+## Horrengar
+
+Horrengar was a frost giant lieutenant of Shattercrown in the late 15 century DR.
+
+Personality
+He was defiant and dismissive of smaller warriors. He was unswerving faithful and loyal to Shattercrown, and served him by driving the Frosthunger Horde to excavate the ancient fortress of Thrymstone.
+
+Possessions
+He wielded a massive axe.
+
+History
+Horrengar arrived in Dragonscar Gorge with Shattercrown to excavate the ruins of Thrymstone in the late 15 century DR, and over several years, they forced the smaller creatures of the Frosthunger Horde into hard labor to achieve this. Just as they managed to enter the main gates of Thrymstone, their efforts came under attack by both the white dragons of Kovanyrach and adventurers from Waterdeep. As the adventurers invaded the fortress, Horrengar expressed disappointment that such successful enemies were so small. In the ensuing fight, Horrengar remained defiant as the adventurers broke his axe and forced him to surrender.
+
+Appendix
+Appearances
+Video Games
+Warriors of Waterdeep
+References
+
+---
+
+## Holdfast vine
+
+Holdfast vines were a peculiar breed of vine blights that had apparently not been spawned from a Gulthias tree. They were found in Forestfall Fen as of the late 15 century DR.
+
+Behavior
+Holdfast vines had a thirst for fresh blood, and would seek it out by attacking anything that moved. They would lie dormant in the swamp until fresh blood revived them, and if slain, their forms would be consumed back into the swamp to feed it, a process which also alerted nearby holdfast vines of danger.The connection to blood rather than to a Gulthias Tree suggests that the holdfast vines may be more similar to vine horrors than to vine blights.
+
+Ecology
+The holdfast vines appeared to be a defense mechanism spawned by the gloomy Forestfall Fen, which proved to be a suitable environment for these vine blights despite the lack of a Gulthias tree. Holdfast vines appeared to be connected to trees which had become hale and hearty on a diet of blood.
+
+History
+In the late 15 century DR, ongoing conflicts between the Queenstooth kobolds and Muckgrunter trolls in Forestfall Fen took a bloody turn with the advent of an invasion of meenlocks from the Feywild. As the Fen's baseline level of conflict was suddenly escalated into a much bigger fight, more blood began to be spilled and soon the holdfast vines awoke to wreck havoc on all sides.
+
+Notable
+ Smothertree, a particularly large and powerful holdfast vine.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Hornhollow
+
+Hornhollow was a logging village on the edge of the Wood of Sharp Teeth in the Western Heartlands established before the early 14 century DR.
+
+History
+Some years before the, the village of Hornhollow was visited by a geriatric red dragon, Craum Straug. The wyrm was afflicted by a terrible draconic cough, his wheezing and belching flames set the village on fire, and the inhabitants of Hornhollow fled, fearing for their lives. Craum Straug perched at the center of town, unwilling to move. The people of Hornhollow held a lottery to see who was to negotiate with the dragon, and a traveling minstrel whose welcome at the village had worn out, Aznee Fraystrings, was the unlucky winner.
+
+Aznee attempted to cure the dragon's cough but likely overestimated his knowledge of the local herbs, and his herbal remedy caused Craum Straug terrible vomiting. The belched flames immediately incinerated Aznee Fraystrings and several acres of the Wood of Sharp Teeth but also took the life of the fragile creature.
+
+When Hornhollow's inhabitants returned, they found Craum Straug's bones, still sneezing and creaking even after his death. They subsequently sold the draconic corpse to a local wizard to be fashioned into the famed Pipes of the Wheezing Dragon.
+
+Appendix
+Appearances
+Video Games
+
+Icewind Dale II
+
+References
+
+---
+
+## Holy champion
+
+Holy champions were specialty priests devoted to Torm, the Loyal Fury.
+
+Culture
+These specialty priests were both male and female and primarily humans. Through frowned upon by their cultures, elves, dwarves, and even centaurs could also become holy champions of Torm. They tithed one quarter of their income to the church at their home temple or shrine. Followers of holy champions were fiercely loyal.
+
+Abilities
+They were usually skilled at riding horses. Holy champions could both turn and command undead, usually to serve as guardians in specific locations. In addition to their normal spells, holy champions could cast command, mount, hold portal, compel, detect lie, dispel evil, flame strike, power word, stun, power word, blind, and holy word once per day. Additionally, any divination or protection sphere spells cast by them lasted twice as long. They practised their weapons skills frequently, allowing them to strike more often during combat similar to warriors.
+
+Possessions
+Holy champions wielded the same weapons as normal clerics. They did not have restrictions on the type of armor they were permitted to wear.
+
+Appendix
+References
+
+---
+
+## Holy justice
+
+Holy justices were specialty priests devoted to Tyr, the Even-Handed.
+
+Culture
+These specialty priests could be male or female and were primarily humans. They were well-versed in the laws and customs of their place of birth and wherever they lived.
+
+Abilities
+In addition to their normal spells, holy justices could cast hold person, strength of one, memory read, legal thoughts, and holy word on a daily basis. They could detect lies and see invisibility at will and impose impeding permission once per tenday. The effects of any spell from the law sphere cast by a holy justice were particularly difficult to resist. They practiced their weapons skills frequently, allowing them to strike more often during combat, similar to warriors.
+
+Possessions
+In addition to bludgeoning weapons, holy justices often wielded longswords or bastard swords. They did not have restrictions on the type of armor they were permitted to wear.
+
+Appendix
+References
+
+---
+
+## Horned helm
+
+Horned helms were enchanted helmets in common use in the 15 century DR.
+
+Powers
+Those individuals who donned horned helms became prone to surges of uncontrollable aggression and, in turn, received boost to their ability to dispense punishment.
+
+History
+In the 15 century DR, horn helmets could be found among bandits and heroes of the Sword Mountains, in the city of Neverwinter, raiders of the Mere of Dead Men, and ruins of Illefarn.
+
+Appendix
+Appearances
+Video Games
+Dungeons & Dragons: Heroes of Neverwinter
+
+References
+
+---
+
+## House of the Homeless
+
+The House of the Homeless was a large mausoleum located within the City of the Dead in Waterdeep.
+
+Location
+The House of the Homeless was located in the western section of the City of the Dead near the entryway.
+
+Description
+A row of small steps lead up to the mausoleum's tall metal gates and one of Anacaster's magical portals. The portal lead to a endless maze of underground caverns. The Guild of Chandlers and Lamplighters were paid to light the caverns.
+
+History
+The dead of Waterdeep were interred within the House of the Homeless if they died without laying claim, or payment, to any other burial site. Their names, if known at the time of death, were carved into the stone above the hole where their cremated ashes were laid to rest.
+
+Appendix
+References
+
+---
+
+## House of Tarmagus
+
+The House of Tarmagus was a warehouse located in Waterdeep during the mid-to-late 14 century DR.
+
+Description
+The House of Tarmagus was a storehouse that allowed third-parties to rent storage space for a reasonable fee and with confidence that their goods would be kept well-guarded and protected from the elements. It only permitted "dry, non-living, and never-living items".
+
+The business boasted the claim of being one of the only such facilities in Waterdeep not affiliated with or under the control of a syndicate like the Xanathar's Thieves' Guild (and continued support from Masked Lords, Open Lords, and the Blackstaff kept it this way over the decades).
+
+Structure
+The building stood four stories tall. The Keelhauled Dwarf tavern was located beneath the cellar of the House of Tarmagus. Constantly running pumps in a corner of the House kept the tavern dry.
+
+Location
+The House of Tarmagus was located in the southeast section of the Dock Ward in a neighborhood bordered by Keel Alley to the southwest, Net Street to the southeast, and Pressbow Lane to the northeast.
+
+History
+The House of Tarmagus was founded by Eaerdran Tarmagus in the, a businessman who perceived that no existing warehouses in the Dock Ward were "doing things right" by not cracking down on things like water damage and theft. Despite numerous attempts by rivals to shut him down—including arson, raids, and a group of duergar and half-orcs who threatened him in his bedchamber—the business made him very wealthy. He ultimately bequeathed his businesses to a number of retired adventurers who had become his partners (both in commerce and romance), and they and their descendants continued to run the House through the late 15 century DR.
+
+Appendix
+References
+
+---
+
+## House of Tears
+
+The House of Tears was the temple to Ilmater in the city of Zazesspur in Tethyr. It also contained the chapter house for the Order of Ilmater's Brethren.
+
+Location
+The temple was located in the Market District of the High City.
+
+Structure
+The chapter house for the Order of Ilmater's Brethren was a three-story building built in the Tashalaran style. It was kept in pristine condition.
+
+Interior
+The chapter house was lit with lanterns. The light from these illuminated a stained glass window that depicted Ilmater's bound hands on a field of yellow. It contained a healing chamber with a marble examination table. The complex was large enough to hold 60 clerics and 200 other worshipers of Ilmater.
+
+Services
+The chapter house offered healing and resurrection services.
+
+Inhabitants
+The brothers at the complex were led by Father Akkar Donatus, who led the faithful there in daily rituals.
+
+History
+In the, Zaranda Star visited the chapter house, hoping that her friend Father Pelletyr could be resurrected. She was informed, however, that members of the Order of Ilmater's Brethren took oaths forbidding such divine magic.
+
+Appendix
+Appearances
+Novels
+
+References
+
+---
+
+## Horth Shalark
+
+Horth Shalark was a shopkeeper inhabiting Waterdeep during the mid-to-late 14 century DR.
+
+Activities
+He owned a shop called Sharkroar, Horth Shalark's Broadsheets that was located in the north section of Waterdeep's Castle Ward on the south side of Trader's Way just north of the Market.
+
+Appendix
+References
+
+---
+
+## Horel
+
+Horel was a drug and poison created by distilling a freshwater lily pad plant called halfling's hand, also known as oxhrel, and mixing it in a certain secret proportion with powdered horseradish.
+
+Powers
+The resulting substance was a green liquid, harmless to skin contact or ingestion. However, if a needle or a weapon was coated with horel and the substance entered the bloodstream, the victim started violently convulsing, which dramatically affected their ability to defend oneself in battle or perform a simple task requiring a steady hand.
+
+Appendix
+References
+
+---
+
+## Honest Jon
+
+Honest Jon was a member of the Targos Guard, active in the early 14 century DR.
+
+Description
+Honest Jon was dressed in the Targos Guard's leather armor, a horned helmet, and was armed with a spear and dagger.
+
+History
+In the, the town of Targos in Icewind Dale was besieged by the Legion of the Chimera. One of the Legion's surprise attacks hit the Targos docks, where Jon, Brohn, and Reig Redwaters stood guard. Jon survived unscathed, but Brohn was killed and Reig was badly wounded. Jon did his best to bandage his partner's wound, but he needed a healing potion or risk bleeding to death. Shortly after, the Wicked Wench arrived with a group of adventuring mercenaries from Luskan, who proceeded to aid Reig and the town at large.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale II
+References
+
+---
+
+## House of the Moon (Thentia)
+
+The House of the Moon was a large temple of Selûne in Thentia.
+
+Location
+The temple was located towards the inland, northern side of Thentia, on a main road running towards the coast.
+
+Structure
+The temple was built from white marble and alabaster with silver trim. The domed, vaulted ceiling of the sanctuary was a painted midnight blue field with dramatic depictions of the lunar phases.
+
+History
+In 1194 DR, the temple performed an inquest into the deaths of three priestesses in Glister who were suspected of being part of the New Moon Heresy. The sisters Fela, Iwna, and Mirela Thesk were cleared of all suspicions and declared innocent.
+
+In 1345 DR it became the sole major temple in Thentia when the Zhentarim blew up the temple of Waukeen during a heist.
+
+Around 1376 DR, the temple experienced a surge in popularity as witnesses claimed to see Selûne gliding above the waves of the sea, and sailors who defended her name in brawls received a glowing boon on their weapons.
+
+Inhabitants
+In 1376 DR the temple was overseen by Sureene Aumratha and 34 lesser priests and priestesses. She was also assisted by two sorcerous sisters, Jannatha Goldenshield and Baerimel Dunnath, who performed investigations for Sureene.
+
+Appendix
+References
+
+---
+
+## Hospice of St. Mariam
+
+The Hospice of St. Mariam was a hospital and pharmacy run by the Church of Ilmater in the Forest of Mir in Tethyr in the late 14 century DR.
+
+Location
+The Hospice of St. Mariam was located in the Forest of Mir, on the border between Tethyr and Calimshan, east of the Marching Mountains and west of Eyesvale.
+
+History
+By, the Hospice of St. Mariam acted as a herbalist's shop and hospital. Clergy of the Broken God collected medicinal roots and herbs in the Forest of Mir and grew their own, to be dried and traded to many other cloisters in Calimshan and Tethyr. The hospice's namesake, Mariam, was a saint of the Ilmatari faith who was born a slave in Calimport.
+
+Appendix
+References
+
+---
+
+## House of Duty
+
+The House of Duty was a shrine of Torm in Halfhap, on the edge of Cormyr and the Stonelands.
+
+The House was a solemn, gray building decorated only with the gauntlet of Torm. Until 1369 DR, it was overseen by Azreena Ironoath.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Horn of beckoning death
+
+The horn of beckoning death was a powerful magic item created by the lich Szass Tam, Zulkir of Necromancy and the Regent of Thay, to invoke a spell of necromancy known as the Beckoning Death in order to turn mass numbers of people into his undead servants.
+
+Description
+It took the form of a curved horn, similar to a small dragon's horn. It had an uneven mouth at the wide end, a cap or nozzle at the point, and was engraved and bound in metal, as if fashioned into a drinking horn. When held, it glowed from within from an infernal red light.The Honor Among Thieves movie and novelization never say what the red horn is nor what it does apart from being used in the spell beckoning death described by Xenk. The official stats in the "Legendary Magic Items" article on D&D Beyond say little more, except to name and describe it in terms of itself. However, it seems similar in concept to the Grail of Shargrailar, which is a drinking horn made from the horn of a dracolich. It also shares a name with the, which is when the dracolich Daurgothoth, the Creeping Doom and leading candidate for greatest evil in the Realms, moved into the ruins of Dolblunde, a place depicted in the movie but from which he is conspicuously absent.
+
+Powers
+
+The horn of beckoning death required attunement and its powers could only be commanded by a mage, whether a wizard, a sorcerer, or a warlock. When they held the horn and chanted arcane phrases over it, they could invoke the Beckoning Death. It was a spell that was unspeakably unholy and described as "the greatest evil the world has ever known."
+
+When raised aloft, the horn would cause storms to gather overhead and draw down from the sky strange crimson strands that appeared much like fresh blood before turning dark. These would channel through the mouth of the horn, which would then spew red smoke from its point. Initially, the smoke filled an area of up to  in radius from the horn. It remained stationary, but expanded by another  every several seconds. In this way, the spell could affect vast numbers of people, even the populations of whole cities.
+
+This smoke consumed the souls of all those who beheld it, instantly killing those caught within the cloud and swiftly transforming them into undead creatures under the control of the horn's creator, Szass Tam. Humanoids were raised as zombies. Only living creatures who were not especially resilient were affected, and even the horn's user was at risk if not already an undead creature like a lich.
+
+The Beckoning Death lasted for ten minutes or until the user ceased concentration on the horn. After it was used, it could not be used again until a whole year had passed.
+
+History
+A Curious Precursor
+While the Harpers were distracted with the Harpstar Wars in the late 12 and early 13 centuries DR, the corrupt and ambitious Harper Rundorl Moonsklan happened to meet Szass Tam, a Red Wizard of Thay, who was by then the already a lich and the Zulkir of Necromancy. With Rundorl desiring to be 'a Harper King' and the power behind every throne in the North and Szass scheming to destroy his rivals in Thay, the two made a dark deal: Szass would funnel Rundorl information on his rivals and Rundorl would gain prestige by sending Harpers to win victories over them.
+
+To justify this focus on Thay, a land previously neglected by the Harpers, Rundorl spread the story of "the spell of Undeath". According to information he'd 'discovered', the Red Wizards were developing a new spell capable of instantly turning the populations of whole cities into undead slaves in order to quickly produce armies and threaten and enslave all of Faerûn. According to Rundorl, the Red Wizards were yet to perfect a way of protecting themselves from "the spell of Undeath", especially when cast by a rival, and experiments were naturally difficult to conduct. The only things stopping them were these issues—and the Harpers.There is no known connection between this (apparently fake) spell and the Beckoning Death introduced in Honor Among Thieves. It is included here for the close similarity and connection to Szass Tam. It is possible Szass Tam gave Rundorl his real idea in order to discredit it later, or Rundorl inspired Szass to develop it for real.
+
+The plan went perfectly and Rundorl sent his fellows into battle against those Red Wizards and even zulkirs whom he claimed had involvement in "the spell of Undeath" and both he and Tam advanced in power. Eventually, though, Rundorl realized more Harpers were dying than Thayans and his exhausted men were being assassinated and reanimated as undead themselves, and he rightly suspected that Tam had betrayed him. He broke off the alliance, then got into worse troubles.
+
+And Szass Tam would go on to do exactly what the Harpers had feared...
+
+Szass's Surprise
+
+As Xenk Yendar would recall, when he was a boy in the mid-1370s DR, Szass Tam called all the other zulkirs and all the people of the Thaymount tharch, Xenk and his parents among them, to a grand celebration atop the Citadel on the eve of the summer solstice. A few of the common people carried sun symbols.Honor Among Thieves only says "the capital" of Thay, which at the time should be Eltabbar. However, it is presumed Xenk lived in Thaymount, owing to him bearing Tam's tattoo and the apparent depiction of the Citadel. Moreover, Xenk may be referring to it as the present capital. Therefore, the Citadel is presumed instead.Honor Among Thieves mentions only the eve of the solstice; due to the presence of sun-like symbols in the crowd, this is presumed to be the summer solstice. The newly revived sun god Amaunator has a similar holy symbol and treats the summer solstice as a holy day, suggesting a link to the celebration. But it was all a lie—instead, Szass interrupted Zulkir Dmitra Flass as she addressed the crowd and produced the horn of beckoning death from under his robes. With it, he invoked the Beckoning Death, thereby creating an army of undead under his control for his following conquest of Thay. All who tried to flee were slain by Red Wizards in his service, such as Sofina. Xenk saw a girl his age, Ishira, standing alone and lost in the panic and saw parents attack their children. In their fear, Xenk's own parents tried to force their son into the ritual, but he refused and fled, but the mark of Szass Tam on his head glowed with a magical connection. He escaped, but only barely, losing a part of himself to the Beckoning Death and left changed by the necromantic magic. From then on, he would age slowly.It is difficult to reconcile Xenk's account and the scenes in Honor Among Thieves with the established history of Szass Tam, the zulkirs, and Thay, as Tam's betrayal here contradicts his betrayals elsewhere. It appears to conflate the zulkirs gathering at the Citadel in The Crimson Gold in 1373 DR; the meeting of the Council of Zulkirs in Eltabbar, the start of the War of the Zulkirs, and Tam's takeover of Thay in Unclean in 1375 DR; and a later new event of Tam creating his undead armies from his subjects. Since this is presented as a story from a book a century later and from Xenk's childhood memories, it's presumed to be a case of unreliable narration or movie dramatization.
+
+Meanwhile, these undead would doubtless form the basis of the Dread Legions that Tam maintained for the defense of Thay in the 15 century DR.
+
+At some point, however, the Harpers seem to have acquired or stolen the horn of beckoning death, perhaps preventing Tam from invoking the spell again. They stored it within the vault of Korinn's Keep, far from the lich's reach.From Honor Among Thieves, it is unknown how the horn managed to pass from Szass Tam's possession and into the Harpers', and when this occurred. Most likely, they stole it to prevent him using it again. While speculative, the event is included here for context.
+
+The Greatest Evil Unleashed
+In the mid-1490s DR, the Red Wizard Sofina, now operating in disguise, hired the ex-Harper turned thief Edgin Darvis and his band of thieves, Holga Kilgore, Simon Aumar, and Forge Fitzwilliam, to aid her in infiltrating Korinn's Keep to steal its treasures. But the horn of beckoning death was her true goal and Sofina and Forge betrayed Edgin and Holga and escaped with their prizes.
+
+Two years later, Sofina had aided Forge to become Lord of Neverwinter. But their scheme was far larger and more terrible in scope than simply ruling. One of the Forge's main acts was to revive the High Sun Games, a monster-filled bloodsport that had been banned by Lord Neverember as he considered them too brutal. Forge also ordered the construction of the Neverwinter arena to host the Games.As no structure of the kind has been seen or mapped in Neverwinter before, the arena is presumed to be new and built by Forge. The first Games were to be held in the late 1490s DR, allegedly as a way of bringing the city together, as well as many wealthy visitors from outside Neverwinter, with their riches.
+
+During the High Sun Games themselves, Forge Fitzwilliam encouraged everyone in the audience to stay until the very end, promising "a wonderful gift" for each of them, and later tried to flee the city with the riches he'd stolen. Finally, the culmination of the games, Sofina revealed herself as a Red Wizard of Thay and used the horn of beckoning death above the Neverwinter arena. The crimson smoke engulfed the viewing platform used by the gamblers and the servants, turning Din Caldwell and Porb Piiradost and the others into ravening zombies. Fortunately, Edgin and his thieves used a portal from the hither-thither staff to pour the stolen treasure from a hot-air balloon over the stands and streets, leading all the people out. The Beckoning Death was rendered useless and Sofina's concentration was broken, ending the spell.
+
+Appendix
+Notes
+
+See Also
+ Chaos Curse
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Honeyhollow Fortress
+
+Honeyhollow Fortress was a sprite encampment found in the domain of Thither in the Feywild.
+
+Description
+The fortress appeared to comprise a single tree, within which the sprites made their home.
+
+History
+At some point, a giant harengon and human riding aboard an owlbear-driven carriage attacked Honeyhollow, by ramming their conveyance into the fortress at full force. The valiant sprites defended their home with treated arrows, incapacitating the invaders and allowing them to be restrained for interrogation.
+
+Upon dutiful questions, the sprites of Honeyhollow realized the interlopers were on a quest of great importance. The human woman was heartbroken over the loss of her brother, who had been captured by the malevolent hag Granny Nightshade. The sprites of Honeyhollow made a bargain with their captives: they would be set free, so long as they vowed to secure certain rare material components from the hag, when they broke into her lair. Sir Paddington led the duo out of Honeyhollow and into the domain of Granny Nightshade.
+
+Inhabitants
+ Sir Puddington
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Hot-air balloon
+
+A hot-air balloon was a type of flying vessel in which a small craft was lifted by a large balloon or sac.
+
+Description
+It operated on the principle of using a relatively small flame to heat the air inside the balloon, making it warmer and less dense than the air outside, which caused it to become buoyant and ascend.
+
+Once off the ground, the balloon was driven by the winds, but a skilled pilot could apply some control. In strong winds they became harder to handle, and the pilot could even completely lose control, leading to catastrophe. Moreover, the balloons were fragile and could be punctured, causing a crash.
+
+Types
+Battle Balloons
+Combat airships held aloft by a hot-air balloon were considered a proprietary vehicle by the adventuring company Acquisitions Incorporated as of the late 15 century DR. The origins of these battle balloons was kept a secret, and they were a rarely used but potent tool in the company's arsenal. While designed for battle, they were also sometimes used when speedy transportation or a mobile headquarters was needed.
+
+Carcerian Skin Balloons
+
+In the Tarterian Depths of Carceri, hot-air balloons were considered an excellent method of traveling between the orbs that made up that plane. However, these balloons were fashioned from the hides and skins of Carceri's denizens, and rumors warned that unwise travelers were also used to patch some balloons. Some of the creatures that flew in the void naturally took offense at seeing their kind's skin being used so, and were apt to attack such balloons. A typical balloon carried two persons, but some could hold up to ten passengers.
+
+History
+According to gnomish legend, the god Nebelun the Meddler stole the tail of the lizardfolk god Semuanya while he was bathing, then skinned it and sewed it together, before inflating it with a massive set of bellows, creating a hot-air balloon. With a wicker basket lashed to the bottom, Nebelun flew it around for a while, failed to crash, and landed successfully, with the thing only exploding afterward. Thereafter, the lizard tail and bellows was the symbol of Nebelun, whose aspect on Toril was borrowed by Gond the Wonderbringer.
+
+During the unplanned Great Modron March of the planes, a group of adventurers tried to track the modrons through Carceri and sought passage between the orbs to a portal. The Anarchist agent Aach offered them passage on her hot-air balloon, which was made from the skin of Carceri's petitioners. They followed the modrons to a portal to Undermountain.
+
+In the, drow used a hot-air balloon made from spider silk in the shape of a massive arachnid as they evacuated from Ithimir Isle off the coast of Akanûl. Webs from the balloon carried a cocoon as big as a small house, in which was transported an arambarium mother lode. Alongside it, hundreds of spiders and giant spiders carried ettercaps and undead miners and deployed webs that were caught by the winds and pulled them into the air to follow the balloon. Their destination was a portal to the Demonweb Pits.
+
+To promote the High Sun Games held at the newly built arena in Neverwinter in the late 1490s DR, Lord Forge Fitzwilliam raised a hot-air balloon above the city. It had his own grinning face on it and carried a gondola resembling a green dragon, with a lantern hanging from its jaws and sandbags around the sides for ballast. During the Games themselves, whilst Sofina invoked the horn of beckoning death, the thieves Edgin Darvis, Holga Kilgore, Simon Aumar, and Doric placed a portal from their hither-thither staff on the balloon, over the image of Forge's mouth, so that it would spew treasure over the streets of Neverwinter, thereby leading the spectators out of the arena and to safety.
+
+Appendix
+See Also
+ Halruaan skyship
+
+Appearances
+
+Gallery
+
+External Links
+
+References
+
+---
+
+## House of Plenty (Maskyr's Eye)
+
+The House of Plenty was a temple to Chauntea, the Grain Goddess, in the village of Maskyr's Eye in the Vast in the mid–14 century DR.
+
+Location
+It was situated beside The Wizard's Hand inn.
+
+Activities
+The temple was sometimes used as a meeting place by the village council at times when the inn was too full of guests.
+
+Inhabitants
+In the late 1350s DR, services were led by Lharathuel Hesmyr a Chauntean priestess. She had two acolytes: Torzhin Hulvesper, the youngest son of a local horse-breeder; Jhenta Sulpir, who'd escaped an arranged marriage in Teziir.
+
+Appendix
+References
+
+---
+
+## House on the Cliff
+
+The House on the Cliff was a temple of Umberlee near Marsember in Cormyr until it was destroyed in the Time of Troubles.
+
+History
+The House was the largest, richest, and most powerful temple of Umberlee in Faerûn until it was ruined during the Time of Troubles in 1358 DR. It was unknown if it was by the hand of Umberlee or another god, but the temple was completely destroyed and never rebuilt. A number of other prominent temples vied for dominance afterwards, including Shipsgrave Tower in Velen, the Cove of the Queen in Mintarn, Stormhaven House in Orlumbor, and the Seacaves of the Roaring in Teshburl.
+
+Appendix
+References
+
+---
+
+## Home
+
+Home was a small village of gnomes and halflings in the hinterlands of Cormyr.
+
+Description
+The village was hidden in a dale, unknown to almost all who did not live there and uncharted on any maps. Due to the size of the inhabitants, the buildings were at most  tall at the chimney top. The locals spent much of their time in relaxed gardening pursuits, with extensive fields and orchards surrounding their homes.
+
+Geography
+The village lay about  from the Way of the Dragon where it exited the King's Forest, not far from Minroe in the foothills of the Storm Horns.
+
+Inhabitants
+A particularly extraordinary resident of Home was the gnome Ekhar Lorrent, who was periodically compelled to abandon his humble abode and travel abroad and solve murder mysteries.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Housebreaker harness
+
+Housebreaker harnesses, known in thieves' cant as a spider, were versatile harnesses designed to aid thieves and serious cat burglars with climbing and breaking into buildings.
+
+Description
+Housebreaker harnesses consisted of a number of leather straps that linked together, one to be hooked around each thigh and over each shoulder, as well as one broad leather strap that was to be secured around the waist. A number of hooks, safety clips, or adjustable clamps were attached to these belts. Though other designs instead incorporated up to eight or more additional straps of varied length, usually measuring no more than, at the end of which would be small metal rings.
+
+With both designs a thief could affix all manner of tools to the attachments, though their primary purpose was for having rope attach to them or for tether lines. This eliminated the threat of falling for a thief, allowed them to secure themselves to walls, and gave them free use of their hands for other tasks, such as lockpicking, cutting glass, checking for traps, etc.
+
+A housebreaker harnesses could equally be worn with ease over clothing or leather armor.
+
+Availability
+ In Athkatla, one could find housebreaker harnesses for sale in the market Waukeen's Promenade.For Duty & Deity states that every nonmagical item featured in the Arms and Equipment Guide can be purchased at Waukeen's Promenade.
+ In Zhentil Keep, one could find housebreaker harnesses for sale at Lita's Equipment.Ruins of Zhentil Keep states that everything from the Arms and Equipment Guide, except for arms and armor, can be purchased at Lita's Equipment.
+
+Notable Owners
+ Artemis Entreri, a ruthless assassin.
+ Spider Parrafin, the reincarnation of Regis, owned a housebreaker harness that he kept within his pouch of holding.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## House of the Purple Cloak
+
+The House of the Purple Cloak was a temple devoted to Sharess, the Dancing Lady, located in Suldolphor in far eastern Calimshan in the late 14 century DR.
+
+Location
+The temple was located in east Suldolphor.
+
+Description
+Many pillars decorated the temple. The House of the Purple Cloak was joined with a lavish mansion that was also used for revelry to worship Sharess.
+
+Inhabitants
+Hallabra Burune was the Priestess of the Purple Cloak, or high priest, of the temple circa .
+
+Activities
+Many of the clergy within the temple spent their time organizing parties and celebrations. The temple held a considerable fortune, giving them influence within the Golden City.
+
+Appendix
+References
+
+---
+
+## Holy Road
+
+The Holy Road was a small trail located in Mistledale in the Dalelands.
+
+Geography
+Located just west of Ashabenford and the River Ashaba, the Holy Road branched north off of the Moonsea Ride, connecting the Abbey of the Golden Sheaf with Oakengrove Abbey before ending right before the forest of Cormanthor.
+
+Description
+The Holy Road was approximately  long.
+
+Appendix
+References
+
+---
+
+## House of the High Councillor
+
+The House of the High Councillor was the traditional home of Mistledale's ruler or High Councillor.
+
+Location
+The home was located in the southeast section of Ashabenford in Mistledale.
+
+Activities
+Given its spacious interior, the home was also used by the Council of Six for meetings.
+
+Inhabitants
+The High Councillor of Mistledale in the, was Haresk Malorn.
+
+Appendix
+References
+
+---
+
+## Hollow of dominion
+
+The hollow of dominion was a room-sized artifact that allowed an attuned wielder to unleash potent psychic power over the southern Sword Coast North.
+
+Description
+The hollow of dominion was an arcane chamber constructed by an archmage centuries prior to the 15 century DR. The chamber was square and  on a side. The walls, floor, and ceiling were made of a combination of marble, bronze, and steel. Silver-green glowing runes adorned the walls and floor of the chamber, and the ceiling was an intricate weave of stone. A small hole in the center of the floor held the dominion rod, which was necessary to utilize the chamber's magic.
+
+Location
+The hollow of dominion was located a half mile (1 kilometer) west of Wave Echo Cave near the town of Phandalin. It was underground beneath the ruins of an old temple, and sealed behind a pair of marble double doors carved with circular runes inlaid with silver. The doors were sealed with a puzzle lock, warded against evil, and protected by a bladed trap. These doors remained open when no one was attuned to the hollow, but could be sealed shut by its wielder.
+
+Powers
+Whoever attuned to the hollow and controlled the dominion rod could channel psychic power exceeding that of an elder brain, which enabled them to commune with the minds of everything within  and to cause madness in or exert control over those minds. It also allowed the wielder to project more targeted psychic thoughts and control over vast distances, and to also detect the presence of any intruders within the complex that housed the hollow.
+
+Defenses
+Any unwelcome enemy of the wielder who approached the hollow itself was overcome with waves of confusion. Furthermore, the hollow could assault the minds of intruders with distressing visions of their worst memories.
+
+Destruction of the chamber's intricate magical symbols could cause the whole room to start to collapse within twelve seconds, with the entire hollow becoming utterly destroyed in less than a minute and nullifying its power permanently. Likewise, the hollow was rendered inert if ever the dominion rod was taken aboveground, at which point it too would shatter into dust.
+
+History
+In the late 15 century DR sometime after the resettlement of Phandalin, a mindwitness called Gavmogon discovered the hollow of dominion with its doors open. He used it to break free of the mind control of the elder brain who had created him, and proceeded to use it first to get revenge against the elder brain and its mind flayer colony—by using the hollow to manipulate the elder brain into causing madness among its followers—and to cause madness and confusion in Phandalin and the surrounding area. Within a few tendays, an explorer named Aladair identified the hollow of dominion as the source of the madness, and disappeared into the ruins to investigate. Hearing of her disappearance into said lair, Lady Ilsa Wisemantle of Neverwinter convinced the Town Council of Phandalin to send adventurers to help. At the same time, the power of the hollow of dominion had caught the attention of other beholders in the region, who both feared its power and wanted it for themselves. One of these beholders, Varunto, sent their own agent, the elf Faltrand, to defeat Gavmogon and claim the hollow.
+
+Notable Wielders
+ Gavmogon, a mindwitness who sought to use the hollow to kill or control everything near Phandalin to prove his superiority. He was highly protective of the hollow and of the dominion rod.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Horo
+
+Horo was a type of light armor used in Kara-Tur.
+
+Description
+The horo was an uncommon yet straightforward form of protection occasionally worn by mounted warriors. It consisted of several lengthy strips of cloth intricately sewn together. One end was fastened around the neck, while the other was secured near the waist. When the rider was mounted, the cloth catched the wind, billowing out behind them. This method proved effective solely while in motion on horseback.
+
+Alternatively, an underlying wicker framework could be integrated into the horo, enabling it to remain functional at all times. The horo granted protection against projectile attacks aimed solely at their back. It did not provide any additional protection. Typically, the horo showcased vibrant colors and displayed the owner's crest, aiding in the identification of the rider's family and distinguishing them as more than a mere common soldier.
+
+Appendix
+References
+
+---
+
+## Holdup
+
+The Holdup was a tavern in Port Nyanzaru, Chult that was popular with adventurers.
+
+Location
+The tavern was located in Port Nyanzaru's Old City.
+
+Services
+The Holdup was a popular drinking establishment, especially for adventurers as a last stop before setting out into the jungle. It was also a good place for adventurers to seek work.
+
+History
+By the late 15 century DR, the tavern's proprietor, Miboro Yan, was much beloved by the people of the Old City and the adventurers who frequented her establishment.
+
+Not long after the end of the death curse, Miboro mysteriously went missing while taking her garbage to the refuse pit. In response, even the beggar princes were willing to pay for her safe return.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Holy power
+
+Holy power was strengthening spell from the evocation school of magic, used by divine spellcasters as well as by Painbearers of Ilmater.
+
+Effects
+This divine magic allowed the caster to channel the power of their deity and temporarily strengthen their bodies. Holy power improved the caster's aim and the amount of damage they could deal to the target. The power of this spell grew along with the cleric's or paladin's proficiencies and experience.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House hunter
+
+House hunters were a rare species related to mimics that assumed the form of an entire building rather than a household object.
+
+Description
+These creatures had a hard outer shell and unarmored underside that resembled the body of a snail. The texture and color of their outer shells could change to almost perfectly resemble stone, wood, or thatch. They could assume the shape of any building, provided that they retained the same volume. These outer shells grew in size with their owners and were shaped over long periods to resemble buildings the creatures likely saw during their travels.
+
+Young house hunters resembled smaller structures, measuring no greater than, such as sheds or outhouses. Adults could assume the form of  structures, such as a small house or cottage. Ancient house hunters could assume forms measuring around  in height, such as inns, temples, or ruined towers.
+
+The openings on a house hunter's outer shell were covered by bony plates, resembling doors or shutters, that were opened and shut by powerful muscles that functioned like those of clams. These plates served to hide and protect a house hunter's eyestalks, mouths, and tentacles. With each house hunter it varied greatly where these apertures were located, with either being all arrayed in the front or only the mouth and eyes being in the front, reserving the sides of the structure for their tentacles. Ancient house hunters often had extra tentacles arrayed on all sides of their structure.
+
+The tongue of a house hunter varied with age. Young had tongues measuring, for adults it measured, and for an ancient house hunter it measured roughly  in length. Both tongues and tentacles were coated in an adhesive slime that smelled musty. The tongue, tentacles, and eyestalks all were pseudopods and would quickly regrow if severed.
+
+Personality
+Young house hunters were only semi-intelligent creatures. Once they reached adulthood, a house hunter had a low degree of intellect, followed by an average degree of intellect if they reached ancient age.
+
+Abilities
+From any opening in their outer shell a house hunter could produce a dim, flickering light, resembling that of a candle or lantern. They could also imitate noises expected of domestic structures, such as muffled voices, farm animals, a tolling temple bell, etc.
+
+These creatures had a strong sense of hearing, being capable of sensing vibrations from human-sized or larger creatures from as far as  away.
+
+Combat
+
+House hunters typically fought by constricting prey with their tentacles until they died, then dragging them to their mouths. They assumed that any creature not resisting against their grasp was likely dead.
+
+Young house hunters rarely ever engaged prey until an adult made the first move. And house hunters in general would wait until the most opportune time to launch an attack.
+
+Whenever attacked from inside of its body, a house hunter would try to eject the attacker with their tentacles and then constrict them until they died. If brought close to the point of death, a house hunter would retract all appendages and close all apertures, then attempt to flee from their attackers.
+
+History
+Sometime before the, the adventurous youths Grin and Richard, and Wu-Wei had an encounter with a living tower that they later described as a mimic in the book The Adventures of Grin, Richard, and Wu-Wei.
+
+Society
+House hunters lived above-ground and traveled in packs that hunted cooperatively.
+
+They disliked exposing their eyes and flesh to sunlight, thus house hunters preferred to travel by night and delay any attacks until dusk if they could. It was unknown how these creatures reproduced, though adults had been witnessed digging large holes in the ground that they deposited young in.
+
+It was not uncommon to find various undigested small treasures within either a house hunter's stomach or shell wall, such as coins, gems, magic items, or more likely cursed items. If their bodies were cleaned out thoroughly of its flesh, the hard outer shells could be converted intro crude dwellings.
+Languages
+House hunters were capable of speaking a crude form of Common by the time they reached adulthood.
+Relationships
+These creatures sometimes acted as servants of Cyrrollalee, the halfling deity of hearth, home, and hospitality.
+
+Rumors & Legends
+ Some sages speculated that house hunters were capable of communicating telepathically within a  range.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Horned Lord (disambiguation)
+
+Horned Lord may refer to:
+ The Horned Lord tribe of High Forest orcs;
+ Baphomet, a demon lord sometimes called the Horned Lord; or
+ Cerunnos, a Celtic god of the hunt, known as the Horned Lord.
+
+---
+
+## Hojori Temple
+
+The Hojori Temple was a front for the activities of the famous assassin and spy Kumo clan of Kozakura, many years before the early 14 century DR.
+
+History
+The Hojori Temple was used by the Kumo clan many decades before the . It was used to store the clan's treasures as well as a unique weapon that belonged to a master assassin – Ryomaru's Harmless Staff. Sometime later, the temple was burglarized by the renowned thief called "Chicken" Wu-Wei, who got away with the temple's many treasures, including Ryomaru's Harmless Staff, becoming the target of Kumo's wrath.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Horlo
+
+Horlo was a caravan guard in the Sword Coast during the mid-14 century DR.
+
+History
+Horlo was one of Orthil Voldovan's guards during the voyage from Scornubel to Waterdeep in late . He was slain during the first ambush that struck the caravan after leaving Scornubel; Orthil found out about his death while dictating a task for him.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Holvan
+
+Holvan was a warrior in service to the Cult of the Dragon in the mid-14 century DR.
+
+Personality
+Holvan was unhappy with the task of capturing Shandril Shessair, and feared for what may happen to them.
+
+History
+Holvan and Brasker were sent to the caravan led by Orthil Voldovan from Scornubel to Waterdeep in late, which the spellfire wielder Shandril Shessair had boarded. They were ordered to capture her, though neither liked their chances of success. During one of the ambushes the caravan faced, they accidentally blabbed about their allegiance within earshot of Shandril, who was hiding inside a wagon.
+
+Brasker and Holvan slew Praulgar, revealing him as a Zhentarim, in an attempt to ingratiate themselves with Shandril. However, when they introduced themselves by name, Shandril had already overheard them to be Cult members, and launched spellfire at their eyes, blinding them; Narm finished them off with a knife.
+
+Rumors & Legends
+Their allegiance was known to the Zhentarim scriers Hlael Toraunt and Korthauvar Hammantle, and to the Red Wizards in the service of Hulrivior.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House of Yarthin
+
+House of Yarthin was a collective of miners and traders who operated in the far north of Faerûn in the 15 century DR.
+
+Activities
+House of Yarthin members operated quarries in secret locations near Ironmaster, obtaining valuable stone such as whetstones. They were represented at large by Alander Yarthin from their base in Calling Horns, who dealt with other businesses. It was linked by merchants' map to Samril's Fine Blades in Secomber and the Arthane Armory in Waterdeep, who used the whetstones for sharpening the blades of freshly-made weapons such as longswords
+
+Appendix
+References
+
+---
+
+## Horned Mage
+
+The Horned Mage was a mysterious ogre magi who briefly emerged in Amn in 661 DR to lead an army of ogres and monsters.
+
+Possessions
+He was reputed to have had a +4 mithral shirt, later used by his "successor" Sothillis.
+
+History
+The Horned Mage came about in a period when the native ogres of Amn had been pushed back into the hills and mountains, reduced to small raids and skirmishes with border garrisons. Prince Imnel Torlath I led the army of the realm in the Ogre Wars, with his greatest victory at Imnel's Scar. During this battle, he discovered the Armory of Nedeheim—a collection of powerful giant-crafted weapons hidden by the dwarves of High Shanatar. He had the collection moved to Athkatla and then Esmeltaran for storage in the royal vaults.
+
+The Horned Mage traveled and explored the region over a century later, finding the dwarven journal Runes of the Wailing Dwarf, and Prince Imnel's personal journal Imnel's Scar: A Personal History of the Ogre Wars. Using these sources, the Horned Mage determined the likely fate of the Armory of Nedeheim and put together a plan to seize it. Finally in 661 DR he made his move and led several tribes of ogres from the Cloud Peaks under cover of magic, and unified them with the ogres of the Small Teeth. With his ogres and other monsters, he suddenly swept down into the lowlands of Amn and sacked Imnescar and Trademeet. Before he could lay siege to Esmeltaran, King Rashturl Torlath assembled his forces and met the ogres in decisive battle, scattering them back to the hills. Of the Horned Mage, no sign was found of his fate.
+
+His legacy was taken up by the ogre magi Sothilis, who found his secret lair in the Small Teeth and discovered his research. Sothilis then sought out the Armory of Nedeheim in the 14 century, leading ogres and other monsters to war and naming himself the Scion of the Horned Mage—an appellation that his troops approved of.
+
+Rumors
+Although the Horned Mage vanished with nary a trace, some suspected that he became a hooded pupil of Rysellan the Dark of Memnon.
+
+Appendix
+References
+
+---
+
+## House of Healing
+
+House of Healing or Healing House might refer to the following locations:
+ House of Healing (Waterdeep), the guildhall of the Guild of Apothecaries & Physicians;
+ House of Healing (Reithwin), the medical institution in Reithwin;
+ The Healing House, a physic and animal healer in Bargewright Inn; or
+ Healing House of Lathander, a temple in Scornubel.
+
+---
+
+## Hot springs cove
+
+A cove with hot springs was located somewhere along the coast of Stormwreck Isle off the Sword Coast North.
+
+Description
+The cove was filled with steam and the water from above spilled into a grey basalt hollow making the water look turquoise and luminescent. This pool was framed with rare vibrantly colored wind spores. Life-giving magic persisted in the cove and those who bathed in its spring could restore their health.
+
+Inhabitants
+The cove was once the site of a brass dragon's death.Presumably, it was the place where the legendary brass dragon Turadaer died centuries prior to 1481 DR, as the cove had significant magical effects.
+
+Circa 1481 DR, three fume drakes inhabited the waters of the hot spring, ready to kill anyone intending to gather the mushrooms or enter the water.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+ Dragons of Stormwreck Isle
+
+References
+
+---
+
+## Hoogy Slone
+
+Hoogy Slone was a human inhabitant of Baldur's Gate in the late 15 century DR.
+
+Description
+Hoogy was a dark-skinned human man with straight black hair he wore in a ponytail. He wore tan-colored finery.
+
+History
+In the, Hoogy could be found on a plaza in the Lower City near the Basilisk Gate.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House Implement Wholesalers
+
+House Implement Wholesalers was a wide-reaching and well-regarded quasimagical item factory and shop that operated in the enclave of Eileanar until its destruction in .
+
+Services
+The business was co-owned and operated by the priests Babylas, Clement, and Cogan. The top four floors of the five-story building were dedicated to the magical workshops of the artisans who produced the wide array of quasimagical items that were sold. They specialized in relatively simple, everyday items of convenience that made life more comfortable for the enclave-dwelling Netherese, ranging from small portable devices to massive, heavy fixtures. Their most popular items for sale included the hot waterpipe, ice box, music box, Stoker's pit, Stoker's veritable pit, and water pipe.
+
+Appendix
+References
+
+---
+
+## Hommel
+
+Hommel was a Netherese thief who worked as a guide in Karsus Enclave until its destruction in . She was one of those locals who gave guided tours to visitors.
+
+Appendix
+References
+
+---
+
+## Holstmann
+
+Holstmann was a Netherese arcanist who taught at the Institute for Sorcerous Imagery in Eileanar until its destruction in .
+
+Activities
+Holstmann taught alongside the other six resident teachers, made up of Driander, Dillencraft, Galanti, Coletti, Maleville, and Sylberg.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Hollinth
+
+Hollinth, the Eighth City of the Sword, was one of the cities in the imperial heartlands of Jhaamdath.
+
+Geography
+The city of Hollinth was far west of the capital Naarkolyth, closest to its twin of Tuoxent near the Deepwing Mountains.
+
+History
+Hollinth was founded in the, as the eighth of the realm's core cities. It was paired with the construction of its twin city Tuoxent that same year.
+
+The year  saw Jhamdaath embark on a campaign of conquest and expansion, logging the Chondalwood and warring on the elves of Nikerymath. The elves responded in the, by casting a great High Magic ritual that caused a huge wave from the Inner Sea to crash all the way from the Bay of Jhaamdath up to the Deepwing Mountains. The cities were drowned in the new Vilhon Reach, and Hollinth sank and was lost, with psionic energy from its lost relics affecting the local environment.
+
+The sunken cities of Jhaamdath were suddenly revealed by dropping sea levels following the Spellplague in 1385 DR, becoming the Vilhon Wilds. The situation was then returned to its previous state in 1486 DR by the Great Rain and Second Sundering that covered them in seawater once more.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Holrow Homestead
+
+Holrow Homestead was a farm in the Delimbiyr Vale in the late 15 century DR.
+
+Description
+It lay close to the Delimbiyr River. The homestead itself was situated on top of a hill surrounded by lush fields and orchards, with an enormous tree at the center that shaded the homestead.
+
+Activities
+The homestead was the home of the reclusive druid Arthur Holrow. He supplied the River Shining Tavern in Daggerford with cheese and milk, as well as mustard seeds, and utilized a barge to do so.
+
+The hill was in fact the resting place of a slumbering Scion of Grolantor. Arthur was unaware of this but had suspicions about the land's inordinate abundance.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## How to Be an Adventurer
+
+How to Be an Adventurer was a huge enchanted book that collected numerous tomes about adventuring in one binding.
+
+Content
+How to Be an Adventurer was an obnoxiously large and heavy book, self-described as an extensive manual dedicated to the "fine art of adventuring." It compiled eighty volumes and chapters with colorful names. Some of which included:
+Henchmen: Loyal Companions or Seedy Pack-Mules?
+Making Your Kit Work for You
+101 Uses for a 10' Pole
+Catapults: Yes, That's as Far as It Shoots
+Getting the Most Out of Your Party's Thief
+﻿﻿Today's Tinderbox – It's Not Just for Lighting Torches Anymore
+Dungeons to Tackle:
+Stinky Pieter's Halls o' Poorly Guarded Gold
+The Caves of Soundly Sleeping Monsters
+Archmage "Loose-Bowels" Wozley the Milksop's Enchanted Item Warehouse
+The Wooden Citadel of Darmos the Old and Crippled
+Uncle Fralin's Tool Shed
+...and more!
+Dungeons to Avoid Like the Crotch-Rot:
+The Iron Fortress of Blodax, Devourer of Souls
+Dominara the Erinyes' Nine-Layered Brothel of Violent Emasculation (No Slaking... or Slating... allowed)
+The Crimson Hell-Pit of One Billion Miserable Deaths
+Uncle Fralin's Bedroom
+..and more!
+Your Lantern and You
+Twelve Uses for Twelve Iron Spikes
+99 Uses for That Little Hammer That Comes with Twelve Iron SpikesFace It, You're Actually "Neutral Evil"The King's Lovely Daughter: Look But Don't TouchDon't Put Your Hand in That Dark HoleOther chapters covered such topics as supply hoarding, spell-casting, brave heroism, and cowardly retreats.
+
+Powers
+A person who had the commitment to read through the entire book immediately gained all the benefit of a massive amount of knowledge and experience equal to years of hard adventuring work. How to Be an Adventurer disappeared from the possession of its owner once the entire volume was read.
+
+History
+In the, How to Be an Adventurer'' was owned by the library of the Black Raven Monastery, hidden in the mountains above the Ice Lakes and the Black Raven River.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House of Gond
+
+The House of Gond was a temple dedicated to Gond in the town of Essembra in Battledale in the mid-to-late 14 century DR, and one of only two temples that were of note in all of Battledale at that time.
+
+Location
+
+The House of Gond was located roughly across from the Swordspoint Shrine of the Church of Tempus.
+
+Structure
+The temple stood two stories tall. Its façade was impressive. The stone structure had broad steps that ascended to its entrance amidst massive pillars supporting a portico adorned with various stone cogs that were enchanted to endlessly turn on their own and glowed faintly in the dark. On its roof the building was adorned with numerous chimneys to let out smoke from its smithy.
+
+Interior
+The entry hall of the temple was crowded with all manner of devices that could garner interest, but were ultimately rather minor, such as a  screw-lift water pump.
+
+Atmosphere
+The temple was marred by a great sense of arrogance and inertia, lacking the sense of excitement over invention and technological developments that was present in most Gondar temples. This atmosphere was due to the attitude of its Lord High Smith Gulmarin Reldacap.
+
+Activities
+The House of Gond was oddly neglectful of local lay worshipers. Its activities primarily revolved around Gulmarin's own restless drive to tinker and invent, and he cared nothing for the interruptions of the lay worshipers.
+
+Visitors were not allowed beyond its entry hall and there the temple's clergy would make eloquent pleas for donations. If a visitor's donations or devotion to Gond were impressive they might call for the Lord High Smith's presence, but Gulmarin cared little for providing aid to all but the most dedicated of Gond's worshipers, which he judged to be those who made large monetary donations and carried themselves with a conservative and respectful manner . He would give non-worshipers a blessing and implore them to join the faith before shooing them away, whilst the faithful would receive some speech about how they should renew and strengthen their dedication to Gond by undertaking a job for him and then similarly be quickly shown the door.
+
+Whenever an envoy of Gondar from elsewhere in the Realms came to visit the House of Gond, Gulmarin would show off one of his small useful inventions, thus ensuring that no "outsider clergy" would ever get him demoted.
+
+History
+This temple was constructed sometime in the month of Mirtul, in the . In its first year, the temple brought a great deal of money to the land of Battledale through the selling of its Lord High Smith's inventions. Over the years that followed, however, under its Lord High Smith's supervision the temple grew neglectful of its local faithful, garnering numerous complaints and calls for him to be removed from office. But his tinkering ultimately lead to innovations in candle molds, cart suspension, and dry ingredient measures that were adopted elsewhere.
+
+The temple was presumably abandoned in the, when all of Essembra's inhabitants fled the town due to nearby battles between the forces of Myth Drannor and Sembians allied with the Returned Empire of Netheril.
+
+Inhabitants
+The House of Gond was run by Lord High Smith Gulmarin Reldacap. Circa 1367 DR, he was aided in the temple by four lesser priests, but by 1370 DR this number dwindled down to three. These priests included Caldeen, Oldbrin Stonelun, and Targarth Snowul.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Honk
+
+Tender Honk was the kitchen worker and the occational barkeep of The Singing Lute in the Lower City of Baldur's Gate in the late 15 century DR.
+
+Description
+Tender Honk was a gruff and unfriendly half-orcish man with a shaggy mop of brown hair. He offered sub-par service to the tavern's guests.
+
+History
+In the, Tender Henk ran The Singing Lute, a tiny waterside tavern that overlooked the Counting House and the city's Gray Harbor. Honk, a fellow half-orc who had a similar appearance and attitude to Henk's, was known to tend to The Singing Lute when Henk was indisposed. Their similarities implied a blood relation. Honk insisted that Henk played his lute in the kitchen during the off hours.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Hobart Hoppalong
+
+Hobart Hoppalong was a mortal who achieved apotheosis in the late 14 century DR, becoming a quasi-deity protector of children and patron of humor, pranks, and insanity.
+
+Possessions
+Hobart Hoppalong was surrounded by an aura of wild magic caused by the amulet of anarchy that he wore around his neck. The amulet contained pieces of both Limbo and Pandemonium within. The wild magic extended  in all directions with Hobart being in the "eye of the storm", allowing his own spells to function normally.
+
+History
+In the late 14 century DR, Hobart reached the fabled Valley of the Gods and, through that act, he was elevated to the status of a quasi-deity. However, his newfound divinity was not well-received, and the other gods cursed the fledgling deity, binding him to the Prime Material plane. However, Hobart Hoppalong was not the kind of man to despair. He hatched a scheme to absorb as much magic from enchanted items as he could in hopes of accumulating enough power to reach the planes and create a divine realm there to lord over.
+
+Whilst locked into a prime-bound existence, Hobart Hoppalong traveled the Realms and worked as a musician to entertain himself. On one work trip, Hobart ended up on the road to Ravens Bluff, where he met a group of travelers led by Donavil Grapevine, all soaked in curious magic from the half-elf's magic staff. His interest peaked, Hoppalong decided to tag along as their entertainer. The band ended up stealing a shipment of wines intended for a wedding in the Living City. Hobart used his magic and mischievous nature to briefly teleport back to the Bluff in order to find a group of adventurers to retrieve the wine and Hoppalong himself, delivering them to Ravens Bluff, just in time for the godling's hired performance.
+
+Hobart took on the guise of Victor Vango of B&V Security Agency and contracted a group of adventurers to perform the retrieval. Ironically enough, no illusion or lie was needed as the real Victor intended to do just that himself regardless as the wine and Hobart's performance was intended for his twin sister Victoria Vango's wedding. Following the recruitment, Hobart guided the adventures to Donavil's hideout via prank contraptions and an animated doll named Wood E. Barkley.
+
+Subsequently, Hobart Hoppalong consumed the powerful magic staff after Donavil was defeated, revealing his deception to the adventurers, who escorted the godling to Ravens Bluff. Hobart gave gifts from his magic hat to every child they met along the way.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Fool's Luck
+
+References
+
+---
+
+## Hornsryl Wavegallant
+
+Hornsryl Wavegallant was a noblewoman in the late 14 century DR.
+
+History
+Hornsryl Wavegallant was one of the guests of Lady Joysil Ambrur in the mid-to-late spring of . She was one of her guests, making snide comments regarding the Obarskyr ruling family of Cormyr as part of the conversation; she became impatient when Honthreena Ravensgar implied Azoun Obarskyr V was likely to die, and quickly asked for details on any conspiracies she may be aware of.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Horngentle
+
+Horngentle was a War Wizard of Cormyr in the late 14 century DR.
+
+History
+Horngentle was a part of the retinue of the Royal Magician of Cormyr, Caladnei in, when they raided the Marsember meeting of the Rightful Conspiracy. He was assigned afterwards to hunt down Lord Blackwinter.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Honthreena Ravensgar
+
+Honthreena Ravensgar was a noblewoman in the late 14 century DR.
+
+Appearance
+She wore many bejeweled rings.
+
+History
+Honthreena Ravensgar was one of the guests of Lady Joysil Ambrur in the mid-to-late spring of . She was extremely dismissive of the state of Cormyr, and hinted to Azoun Obarskyr V, then an infant of two years of age, being likely to die before his coronation.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## How Long Can You Tread Water?
+
+How Long Can You Tread Water? is a one-round tournament adventure module set in the Living City organized play program. It was published in 1995 and is intended for adventurers of all levels.
+
+Index
+
+Characters
+
+Creatures
+
+Locations
+
+Magic
+
+Organizations
+
+Miscellaneous
+
+Appendix
+References
+
+---
+
+## Holloway
+
+Holloway was a Netherese town and archaeological site within the Hollow during the time of ancient Netheril.
+
+Geography
+The town was located inside the Hollow on the edge of Netheril, next to the Bodensee River.
+
+History
+Holloway was established in  when Netherese archwizards took note of the ancient ruins on the surface and within the cave systems around the valley. They decided to examine the ancient human habitations of the Hollow, which they believed to be the earliest humans on Toril, and hoped to find powerful artifacts on par with the Nether Scrolls. As a result, Holloway was quickly built and fortified, and adventurers were hired to explore the deeper cave systems within the Hollow. Disappointingly for them, no powerful relics were ever recovered, only prehistoric drawings, pottery, and stone spearheads from their ancestors.
+
+The lack of materially significant results caused the archwizard benefactors to lose interest over time, and in  they withdrew their financial support. Most of their hired explorers and adventurers left as the money dried up, but a small population remained. Though impoverished, the town was sheltered from the unnatural storms and destructive battles between the Netherese, phaerimm, and sharn forces, and it was only threatened by occasional monsters from the depths that were disturbed by ongoing underground expeditions. Holloway was ultimately abandoned in, well after Karsus's Folly, and the inhabitants joined with other Netherese populations to the south such as Indoria.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Hoyden
+
+Hoyden was an elven village on the shore of Hidden Lake, isolated within the center of ancient Netheril.
+
+Geography
+The village was located at the northern end of Hidden Lake, where it met the largest and deepest body of the Hidden Forest.
+
+Trade
+The elves supported themselves with fishing and farming, but were quite isolationist and refused most contacts and deals with outsiders. Despite its insularity, the weaponsmiths managed to outdo the best that Netheril had to offer in regards to forging tools of war, and they deigned to import a little silver for their projects.
+
+History
+Hoyden was founded in  by elves from three different nations who had sought an end to their hostilities. They were quickly beset upon by the orcs of the Hidden Forest, but a friendship with the local pixies and sylphs meant that all three were able to coordinate together and consistently overcome their orcish foes. The extreme difficulty in attacking the small village meant that the orcs preferred to strike at the much larger target of Earsome instead. Even so, small raids against Hoyden occurred every so often as the orcs tested the defenses.
+
+As the Netherese colonized the region, the elves largely avoided interacting with them and so remained almost entirely unaware of the land's events. Despite the belligerent and often avaricious nature of the Netherese, the folk of Hoyden were confident that their isolation and relative insignificance would deter any major threat to their village. They were happy to host travelers in their village, but any attempts to set up trade deals were shunned. Thanks to the constant pressure of the orcs, the village's weaponsmiths became very practiced and innovative, and even developed some of the earliest examples of functional silver weapons. Thanks to this, they deigned to import silver from the Netherese. As the reputation of their weapons spread, more and more of the wanderers who visited the village turned out to be blacksmiths hoping to learn their crafts.
+
+When Algid was suddenly destroyed by the phaerimms in, the Hoyden elves took heed of what was to come and they began a migration to distant lands to the south and east.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Hogbelly
+
+Hogbelly was an adventuring goon who worked with Shagbag and, at one time, with the dwarf berserker Korgan Bloodaxe in the late 14 century DR.
+
+History
+In the mid-to-late 14 century DR, Hogbelly was part of an adventuring band that consisted of Shagbag, Korgan Bloodaxe, Crazyface, Scrooloose, Stitch, and Cutter. The band collected valuable tomes for Pimlico of Athkatla in Amn. One day, the group erupted in violence over an especially prized bounty, ending the lives of Hogbelly, Stitch, and Cutter and leading to Korgan parting ways with the group.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House Tethyr
+
+House Tethyr, earlier known as the House of Ithal-Strohm-Bormul, was a major noble family of Tethyr that served as monarchs through several dynasties.
+
+History
+The House was made up of the extensive and long-ruling noble families of several successive related dynasties. Clan Ithal was followed by the five Strohms, who were in turn followed by a series of beloved Bormul rulers known as the Queens' Dynasty. They were cut short by their presumptuous cousin claimants of the Lions' Dynasty, who simplified the House of Ithal-Strohm-Bormul down to the House of Tethyr. The House continued to rule Tethyr until the Ten Black Days of Eleint almost rendered them extinct, with Prince Haedrak III wedding Queen Zaranda Star of the new Rhindaun Dynasty.
+
+Appendix
+
+See Also
+ Clan Ithal
+ Strohm Dynasty
+ Bormul
+ Queens' Dynasty
+ Lions' Dynasty
+ Rhindaun Dynasty
+
+References
+
+---
+
+## Homurr Dynasty
+
+Clan Homurr was the merfolk royal family of Eadraal in Serôs, responsible for the founding of the realm.
+
+Family Tree
+
+Appendix
+
+References
+
+---
+
+## Homer Bubbins
+
+Homer Bubbins, better known as the Bad Twin Bubbins, was a halfling member of The Guild from the Lower City of Baldur's Gate in the late 15 century DR.
+
+History
+Homer Bubbins was born in the town of Beregost in West Faerûn. At some point, Homer Bubbins pursued a religious career in the Open Hand Temple of Ilmater in Baldur's Gate. Or, at least, that was what Mama Bubbins believed. Homer wrote letters home, continuing the charade, claiming to serve and live happily under Father Lorgan and even claiming to have reached the title of the "right-hand temple manager." In reality, the man known as the "Bad Twin Bubbins" joined the infamous Guild.
+
+In the, Homer's twin brother, Flymber Bubbins, became inspired by his brother's lies and decided to move to Baldur's Gate and join the Open Hand Temple, as reported by Mama Bubbins in a birthday letter to her prodigal son.
+
+Homer Bubbins was present at The Guild's Guildhall in Baldur's Gate's Undercellar during the Absolute crisis of 1492 DR and an attempt by the Zhentarim to seize control of the weakened criminal cartel. However, Bad Twin Bubbins's survival past the tumult of these two conflicts remains unconfirmed.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Hobart Stubbletoes
+
+Hobart Stubbletoes was a mysterious halfling who sought to defeat the undead bard only known as the Luremaster who laired in the Castle Maluradek in the late 13 century DR.
+
+Description
+Hobart appeared to be an aging hin of roguish persuasion. He had light skin and wore tan-colored enchanted +2 leather armor.
+
+Possessions
+The halfling used a light crossbow of speed called the Army Scythe and the Whistling Sword and he wore a pair of the Brawling Hands.
+
+History
+In the, Hobart Stubbletoes set out to track down the recently famous Heroes of Icewind Dale who recently ended a demonic threat to the north and set out to help the Ten Towns against a new barbarian threat. The mysterious halfling arrived at the town of Lonelywood sometime before the Heroes' arrival and settled at The Whistling Gallows inn, waiting for the group impatiently. When they arrived at last, Hobart eagerly tried to entice them to travel with him to a "nearby" castle promising fame and treasures. What the halfling failed to disclose was that the said castle – Castle Maluradek, was a ruin in the desert of Anauroch, haunted by a trap and puzzle-obsessed undead bard – the Luremaster.
+
+When the danger of the barbarians and their ghostly leader was put to rest, the Heroes agreed to follow Hobart to the strange castle. The hin transported them through magic. When the true nature of the castle was revealed, Hobart claimed that he was "just an old halfling" and was no match for the Luremaster, but offered to trade for his impressive collection of powerful magic items to aid the adventurers through the bard's puzzles.
+
+Presumably, the heroes were successful, allowing Hobart Stubbletoes to claim his secret bounty from the defeated bard. However, the history books stated that the Heroes of Icewind Dale were never seen nor heard from after traveling to Anauroch with Hobart Stubbletoes.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale: Heart of Winter
+
+References
+
+---
+
+## Hondryn
+
+Hondryn was a War Wizard of Cormyr in the late 15 century DR.
+
+Description
+His voice was unfriendly, and thin.
+
+Personality
+He had a personality much like that of Shuldroon, being overconfident, trigger-happy, and zealous.
+
+Activities
+He was a war Wizar of Cormyr who often worked with Shuldroon.
+
+Relationships
+He was a toady to Shuldroon, and one of Kelgantor's "wolves".
+
+History
+Hondryn was one of the War Wizards sent under Kelgantor for a raid on Tethgard where the fugitive wizard Elminster Aumar was after stealing the Royal Gorget of Battle. He had few words prior to the start of combat, mostly echoing those of fellow war wizard Shuldroon.
+
+After the battle, he wasn't named among the known survivors.
+Appendix
+Appearances
+
+References
+
+---
+
+## Hood of the Weave
+
+The Hood of the Weave was an enchanted hood that once belonged to the famed mage Tenser of Oerth.
+
+Powers
+The hood made the wearer's spells fly true and hit their mark with ease. It also made their spells harder to resist, dodge, or shrug off.
+
+History
+
+The Hood of the Weave was originally worn by Tenser on the world of Greyhawk during the ceremony of induction into the Circle of Eight. Following it, during the celebration, the fellow members of the Circle, Otiluke and Bigby pranked Tenser, but, thanks to the hood, they found their vodka glasses ensorcelled with a spell that transformed their earlobes into sassy pixies.
+
+In the, the Hood of the Weave ended up in the hands of a powerful mummy lord of Baldur's Gate – the Mystic Carrion. The hood and its undead master could be found in Philgrave's Mansion in the Gate's Lower City.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+
+References
+
+---
+
+## House Uoswiir
+
+House Uoswiir was a noble drow house of Menzoberranzan somewhere before the late 14 century DR.
+
+History
+House Uoswiir was virtually destroyed sometime before the late 14 century DR, after which only Vhaidra Uoswiir – the house's heir and her half-sister Ulua remained alive. According to Ulua's and Vhaidra's father, House Uoswiir was too powerful to be taken down in a direct conflict by any one house; because of that, several enemy houses banded together and purchased the services of the Dark Ravens, a splinter esoteric assassin order of the Black Raven Monastery. The assassins attacked and slaughtered almost all of the Uoswiir. Ulua was spared, being a half-breed, and Vhaidra escaped the Underdark alive.
+
+For some time, Ulua was unsure if her sister survived the fall of House Uoswiir, receiving conflicting reports from her contacts. Subsequently, Ulua reconnected with Vhaidra, who took to the adventuring life and planned vengeance on the heads of her family's enemies. During that time, Ulua conducted operations to regroup surviving House Uoswiir allies and plotted to eliminate its rivals.
+
+With Vhaidra's financing of the operation, Ulua eventually learned the location of the Dark Raven Monastery. Vhaidra stormed this monastery and found its archimandrite, Draezen Direhand. He dismissed Ulua on the grounds that she was only of half-Uoswiir blood and said that House Uoswiir would die with Vhaidra. Once the half-sister returned to Baldur's Gate victorious, Ulua informed her that she had already sent agents to destroy the monastery, having heard of her success and that, when Vhaidra was ready to take up her place as head of the Uoswiir household, she would not stand alone.
+
+Appendix
+References
+
+---
+
+## Hope (cleric)
+
+Hope was a dwarven cleric, captured and tortured by the cambion spawn of Mephistopheles, Raphael, sometime before the late 15 century DR.
+
+Description
+Hope was a gold dwarf with a fair complexion, clean-shaven face, big brown eyes, and curly red hair gathered in a ponytail. Thorny tribal tattoos framed her face, encircling it from the forehead to the neck.
+
+Personality
+Hope was a kind, cheerful, and optimistic soul. She was driven mad by years of torture at the hands of Raphael and became prone to fits of mania, yet still retained her optimism and bright personality.
+
+Abilities
+She possessed the abilities of a cleric who received magics from the life domain. Her healing magic was greatly empowered, and each such spell restored her own life force. Her powers over the House of Hope allowed Hope to project her image anywhere within its bounds and communicate with visitors. When freed, she could also revoke guest status from the visitors, and that magic functioned similarly to the banishment spell.
+
+Possessions
+As a cleric, she wore a set of plate mail and carried an enchanted +2 quarterstaff and a simple shield into battle. Hope also wore an amulet of elemental torment and owned the gloves of soul catching.
+
+History
+
+Hope and her sister, Korrilla, grew up together in a loving and protective relationship. Korrilla stood up for her sister in front of the bullies and always saved the last piece of cake for Hope. Subsequently, Korrilla entered servitude to Raphael under unknown circumstances sometime before the . At some point, the cambion became aware of Hope's strange ability to control a sliver of reality later to be known as the House of Hope in Avernus. Hope was captured and imprisoned within the House of Hope by Raphael, who spent decades torturing her, physically and mentally, trying to break Hope enough shop she agrees to enter servitude. Meanwhile, Korrilla obediently recorded transcripts of Raphael's tortures and visitations of her sister. The tortures varied from Raphael forcing Hope to sing nursery rhymes she remembered from her childhood to leaving her alone with a nightmare-filled Omuan dreamcatcher that unleashed its horrors on the restrained dwarf.
+
+In 1492 DR, a group of adventurers who had dealings with Raphael and opposed the Cult of the Absolute gained entrance to the House of Hope in Avernus. Hope projected herself to the visitors and begged to be rescued. She revealed that the artifact the adventurers were after – the Orphic Hammer, was the only weapon that would break her prison open. It was unknown if the adventurers managed to free Hope and gain her aid against Raphael, if she was left imprisoned, or even possibly killed in the process.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Hope
+
+Hope might refer to several individuals:
+
+ Hope, the prisoner of Raphael in Avernus in the late 15 century DR,
+ Hope, a hatchling gold dragon in the 14 century DR,
+ Hope Graham, daughter of Lady Holly Graham and Sir Ian Glae James Graham from Ravens Bluff in the 14 century DR,
+ Hope Kellar, the mayor of Hillpicket in the Moonsea in the late 15 century DR,
+
+It could also refer to:
+
+ Hope domain, a divine domain that granted hope-themed powers to a divine caster,
+ New Hope, a hin community in the Vast in the 14 century DR.
+
+---
+
+## Hobgoblin language
+
+The Hobgoblin language was the racial language of hobgoblins, a race of goblinoids.
+
+Speakers
+Beyond hobgoblins themselves, Hobgoblin was to varying extents a common secondary language among bugbears, flinds, gnolls, goblins, orcs, and half-orcs.
+
+Derivations
+Koalinth A rather unusual sounding dialect spoken by the aquatic cousins of hobgoblins, koalinths.
+Northern Wastes The hobgoblins of the Northern Wastes spoke a dialect of Hobgoblin that was similar to, though distinct from, that spoken in Faerûn.
+
+Related Languages
+Hobgoblin was among the languages that Trollspeak commonly loaned words from.
+
+Dictionary
+G
+Gaukul 
+A term used to refer to any spider; plural is gaukulla.
+T
+Taggaukul
+"monstrous spider"; plural is taggaukulla.
+
+Writing System
+The Hobgoblin tongue had its own distinct script.
+
+Notable Speakers
+ Sir Celedon Kierney, a half-elf mage.
+ Katharine Marie Moorland, the Lord Speaker of the Council of Lords of Ravens Bluff in the 14 century DR.
+ Merith Strongbow.
+ Niatara, a high elf mage and thief who operated in the city of Ravens Bluff in the 14 century DR.
+ Sir Riordan Parnell, a half-elf bard.
+ Rolf Sunriver, the Chief Constable of the city of Ravens Bluff in the 14 century DR.
+ The Smiling Viper, a legendary moon elf mage and thief.
+ Silverleaf, a moon elf mage and thief who operated in the city of Ravens Bluff in the 14 century DR.
+ Thorm Sureblade, the Guildmaster of the Independent Fighters' Guild in Ravens Bluff in the 14 century DR.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## House of Screams
+
+The House of Screams was the nearest thing to a city hall or courthouse in the Shadowfell city of Evernight. It was where the city's ruling tribunal held court.
+
+Location
+It was located in the "upscale" neighborhood of Black Mound. It sat in the same location as did the Hall of Justice in Neverwinter on the Material Plane.
+
+Structure
+The House of Screams was a decrepit, multilevel manor house. It was the oldest and one of the largest such manors in Black Mound, and by extension, in all of Evernight.
+
+Interior
+The upper level of the manor was used by Evernight's ruling tribunal of powerful ghouls—its closest thing to a government—to preside over assemblies and moderate disputes. The exits were all reinforced with rusty portcullises that were lowered during trials to prevent the guilty party from fleeing their sentence: being eaten by the tribunal.
+
+The cellar of the House of Screams was large and open, and served as a site for residents of Evernight to resolve their disputes without involving the tribunal. In other words, it was an arena where the parties battled to the death. To the extent that these fights had formal rules and procedures, witnesses had to attest that the parties abided by them. Such witnesses often included bored ghouls, wights, and vampires who loitered in the cellar hoping to watch a fight.
+
+Appendix
+See Also
+ Temple of Filth
+
+References
+
+---
+
+## Hoarfrost boots
+
+Hoarfrost boots were a type of enchanted footwear that made the wearer surefooted in the frozen regions of the Realms.
+
+Powers
+Unassuming yet hardy in appearance, hoarfrost boots were enchanted in a way that a collection of small ice crystals on the boots' soles functioned like cleats. This magic allowed the wearer to remain upright even on the slipperiest of ice winter surfaces at all times.
+
+History
+As of the, a pair of hoarfrost boots belonged to the Inquisitor W'wargaz of Crèche Y'llek. The boots were stored in W'wargaz's quarters in the ruined Rosymorn Monastery.
+
+Appendix
+See Also
+ Boots of the north
+ Boots of the winterlands
+ Winter wolf boots
+
+Appearances
+
+References
+
+---
+
+## How to Track an Illithid
+
+How to Track an Illithid was a hand-written book penned by Golbraith Stredivas, friend and confidant of Duke Abdel Adrian, published sometime in or before the late 15 century DR.
+
+Content
+The book collected numerous methods used to track down the dreaded mind flayers. Each of the methods was well detailed and tested, with each endeavor's outcome painstakingly documented by Golbraith.
+
+History
+In the, the original tome of How to Track an Illithid could be found in the home of Golbraith Stredivas in Baldur's Gate's Lower City.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House of Purple Silks
+
+The House of Purple Silks was a notable festhall in Waterdeep in the mid-to-late 14 century DR. It was a very famous pleasure palace of the Sword Coast.
+
+Location
+The House of Purple Silks was located in the Sea Ward, on the west side of Seawatch Street and one blood south of the corner with Diamond Street.
+
+Description
+The ladies working at the festhall were known for wearing purple silks. Inside, its floors were covered in carpets and filled with cushions. Its guests were bold but met by bolder women.
+
+It was rumored that illicit goods were concealed under the carpet in some areas and even within a few of the cushions.
+
+Staff
+The proprietress was a petite woman in her forties named Jathaliira Thindrel. She was pert and always busy and still energetic and attractive.
+
+Appendix
+References
+
+---
+
+## Holvik
+
+Holvik was a duergar member of the Cult of the Absolute during the late 15 century DR.
+
+Description
+Holvik had gray skin and a short white beard. He was wrapped in a leather armor and wore a leather helmet. In battle, Holvik wielded a crossbow.
+
+History
+In the, Holvik accompanied slaver Gekh Coal and his duergar med to a decrepit coastal village in the Underdark that once was a deep gnome colony. On the behest of the Absolute, duergar held the ruined village to be used as a skiff port to transport goods and slaves to the Grymforge. With the events of the Absolute crisis unfolding, Holvik and his fellow duergar could have faced several fates; they could've been confronted by and slain by the Absolute Adversaries as they sought passage to the Grymforge or as a favor to an aspiring myconid sovereign Glut.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Hoe
+
+A hoe was a common digging tool and farming implement found in Faerûn.
+
+Description
+A hoe was essentially a shovel-like metal blade fixed perpendicular to the end of a long pole.
+
+Availability
+Aurora's Whole Realms Catalogue offered hoes with  hardwood handles and iron heads for 3 gp, and steel-headed ones for clay-heavy soil for 5 gp.
+
+Appendix
+
+Gallery
+
+External Links
+
+References
+
+---
+
+## House of the Unnamed
+
+The House of the Unnamed was an academy devoted to the study of truespeak in Velprintalar, Aglarond, during the late 14 century DR.
+
+Organization
+The organization was basically just four study groups under the leadership of Elthenhelm Hamastyl.
+
+Activities
+The four study groups concentrated on truespeak. Every member spent at least three hours, four times a tenday,As weeks do not exist in the Realms and the minimum does not change when tendays are used instead, it is rendered as tendays. improving the library, at least 26 times a year.
+
+Resources
+While Candlekeep and the Leaves of Learning had bigger libraries with more volumes on truespeak, they were nowhere near as correctly catalogued and concentrated.
+
+Base of Operations
+They worked out of a small building next to the House of the Four Moons.
+
+Members
+The four study groups were led by Sarlisha Kjenth, Maaruel Vench, Nelinarian Tansmith, and Maerwûn Venedel. Other members included ten other humans, one other half-elf, and three gnomes.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Holiday Hlath
+
+Lady Holiday Hlath was the heiress of the noble patriar Hlath family of Baldur's Gate in the late 15 century DR.
+
+History
+By the, Lord Orthagon was already an old man who was the leader of the family only symbolically. His matron daughter, Merrigold Hlath was making all financial and social family discussions in Orthagon's place. When the Absolute crisis arrived to the Gate, Orthagon Hlath was noted by the Cult of Bane as a vulnerable patriar through his beloved grand-neice Holiday, a young woman of insatiable gabling habits and an impressive collection of debts from all gambling dens between Stonyeyes and Sow's Foot neighborhoods.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Honey dog
+
+Honey dogs were a divinely magical breed of dogs that belonged to the goddess Tymora. They would manifest in the Realms on her behalf to help those in need.
+
+Description
+These creatures were the size of a large golden retriever and had gleaming coats of fur that were color of honey. Around their necks they wore satin collars, from which a gold coin hung, bearing the holy symbol of Tymora.
+
+Behavior
+These dogs remained resolutely focused on their assigned tasks, ignoring attempts to magically communicate with them.
+
+Abilities
+Honey dogs were divinely protected by Tymora from most physical and magical forms of harm, as well as from being charmed. Their fur coats were magical, imparting an effect similar to cure light wounds when petted. And the gold coin around their collars restored a few basic spells for any spellcaster that touched them.
+
+History
+Sometime in the late 14 century DR, following the Three Women War, the Beshaban priest Vandavar orchestrated a series of dognappings in the city of Ravens Bluff. As she had a fondness for dogs, the goddess Tymora was disturbed by these circumstances and decided to manifest a pair of honey dogs in the city to help a group of adventurers that were investigating the string of disappearances. There they manifested near the You Can Buy Love pet shop and led the adventurers to the city's wharf before disappearing, where the adventurers soon found their next lead on the case.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Hot bites
+
+Hot bites were a type of open-faced sandwich eaten as an appetizer, from the town of Hill's Edge in the Sunset Vale.
+
+Description
+Hot bites were made out of pieces of sliced, or even stale bread. The bread was soaked in white wine and left to dry. Once the bread was dried, it was smeared in hot mustard and topped with cheese and onion or leeks. Lastly, the sandwiches were sprinkled with basil, pepper, drizzled with white wine, and fried on a skillet to melt the cheese. Hot bites were eaten hot.
+
+History
+Hot bites were served at The Happy Hippocampus Inn in Hill's Edge in the mid-to-late 14 century DR. The hot bite was one of the foods that greatly impressed master traveler Volothamp Geddarm and received a glowing review in Volo's Guide to the Sword Coast. With the help of the inn's cook Alayss, Volo was able to publish the dish's recipe in said guidebook.
+
+Appendix
+References
+
+---
+
+## House of the Unicorn
+
+The House of the Unicorn was the home of the king of Galadorna in Nethra until the 8 century DR.
+
+Structure
+The palace had gates and a moat.
+
+Interior
+There were tapestries hung until at least the death of King Baerimgrim. The throne room had a golden unicorn's head above the throne. There were back stairs in the room, which granted a better view of the room, and there were also at least two entrances.
+
+There were hidden passages in the place. One of the rooms was the Redshield Chamber. There were also jakes. One passage leading to the bedroom taken by Elminster had a parallel passage that, in the opposite direction, led to a sequence of dark, neglected chambers, which terminated at a shrine to Bane in a high-ceilinged room sporting a tapestry as tall as a cottage. The room had flagstone floors, pews, a Black Hand of Bane, and two guardian helmed horrors.
+
+The castle had battlements and more than one tower.
+
+History
+The House of the Unicorn was the dwelling of King Baerimgrim until the, when he tried to name a successor. His Court Mage, Ilgrist, killed him shortly after the successor was named and styled himself King Nadrathen of Galadorna. His reign was cut short when the Chosen of Mystra Elminster Aumar fought with him, allowing his master, the sorceress Dasumia, to slay Nadrathen. She then crowned herself Queen of Galadorna, with Elminster as seneschal.
+
+Dasumia remained queen until later into the year,Per the Google Books version of Temptation, its realmslore section declares the events of the first part to happen in around five years starting 759 DR. In the first chapter, Nuressa, the warrior, tells Elminster they're in early Mirtul. If it is assumed that the events happened in at most five and a half years, as more than five and a half years becomes around six years, then the last events in part 1 must happen at most during Uktar of 764. Given Feldrin's warning during the coronation that the Lords of Laothkund are already planning an attack, this timeline seems plausible. Further development may yet alter the result. when she revealed to Elminster she was actually Mystra, and the two of them left Galadorna.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## House of the Ladystar
+
+The House of the Ladystar was a temple to Mystra in the mid–8 century DR.
+
+Structure
+Stairs led to the front door, and there was a balcony atop.
+
+Defenses
+The guards had pikes. One of the guards was named Lhaerom. The gates of the temple were made of bronze. The Tome-priest of the temple was Kadeln Parosper.
+
+History
+There was a riot in the, during a bout of chaos of the Art, in which the archmage of the Phoenix Tower, Tenthar Taerhamoos, tried to talk to Kadeln Parosper; they only managed to briefly converse through the riot. After the crowd attempted to kill Tenthar, he retaliated with a chain lightning, which caused a number of deaths in the mob. Two of the dead rose afterwards, however, showing themselves to be Mystra and Azuth.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Howling Ghost Wood
+
+Howling Ghost Wood was a forest near the Starn Valley in the mid–8 century DR.
+
+Geography
+The forest was close to the Starn.
+
+Flora & Fauna
+Plants included sources of nuts, berries, and alphran leaves. There were also moontouch blooms, fiddleheads, and butter cones in the flora. Stag were present. The woods around the valley, presumably including Howling Ghost Wood, also held wolves.
+
+Rumors & Legends
+Despite the name, Immeira, a local woman of the mid–8 century, had yet to see a ghost in the woods, howling or otherwise.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House of Holy Night
+
+The House of Holy Night was a temple to Shar standing in the Shaar in the mid–8 century DR.
+
+Location
+Winds from the Shaar cooled the House of Holy Night.
+
+Interior
+An archway known as the Inner Portal separated the Sacred Chamber of Shar, the innermost and holiest section of the Temple, from the rest of the building.
+
+Activities
+Numerous acts of Sharran worship took place at the House of Holy Night, most of them sacrifices of blood and pain.
+
+History
+In the, the House of Holy Night was the site of a unique ritual of the Church of Shar, wherein an avatar of Mystra, the sorceress Dasumia, was held captive through constant human sacrifice, as a result granting every Sharran worshiper there wizardly spells. The ritual was also the cause of the chaos of the Art that year.
+
+Capitalizing on the chaos they'd created, the Sharrans were also sent on missions to slay mages and seize magic in their time of weakness. Another mission assigned by Darklady Avroana was to seek out and slay the Chosen of Mystra, Elminster Aumar, who'd been spotted in Westgate as reported by Elryn, a wizardly faithful. Five faithful were sent after Elminster; Avroana later sent Klalaerla after them, convinced they'd fail or withdraw and needed to be cut down. Somehow, during the attack on Elminster at Karsus' Keep, a spell of flames reached all the way to Darklady Avroana, who found her death at the hands of an acolyte who accidentally sacrificed her to Shar.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Horostos
+
+High Duke Horostos was the ruler of Langalos on the Dragon Coast in the mid–8 century DR.
+
+Personality
+He chafed at the challenges posed by the Slayer's presence, and wasn't keen on following the lead of the Harpers.
+
+Abilities
+He was known to hunt.
+
+Activities
+As the ruler of the High Duchy of Langalos, he styled himself lord over the lands west of Starmantle and had his castle there.
+
+Relationships
+His seneschal's name was Bresmer.
+
+History
+In the, by the end of winter and the start of spring, the High Duchy of Langalos became haunted by an enigmatic entity known as the Slayer. Though High Duke Horostos had posted a great reward for it, and sent even war bands of his own men, no-one succeeded. Even after sending a band of adventurers, the Frostfire Banner, nothing that entered the forests where the Slayer resided returned.
+
+After running out of ideas and finding no more adventurers willing to investigate, High Duke Horostos was informed by his seneschal that the Harpers were going to investigate. Though the Duke didn't take kindly to it, he was open to at least waiting on the results of their investigation.
+
+Just after the Slayer was laid low while attacking Elminster Aumar, a Chosen of Mystra, the High Duke tried instead sending a huge, armed caravan through the forest to see what would happen.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Hosgerd Lar
+
+Hosgerd Lar was a contractor who connected hirelings with adventurers in need of help in the town of Eveningstar in the 15 century DR.
+
+Description
+Hosgerd was a dwarvish woman with a light skin tone, short blonde hair and clean-shaven face. She wore dress adorned with furs.
+
+History
+In the 15 century DR, during the Sschindylryn invasion of Eveningstar, Hosgerd kept a stall in the Market Square and supplied people like Kieran Ostermann and Erytheia Sundawn with work as the town fought off the drow and other threats.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Hothal
+
+Hothal was a Baron of Galadorna during the mid–8 century DR.
+
+Description
+He was mostly seen in full, large, helmless armor.
+
+Relationships
+His men wore full armor, like him, or green-and-silver. He served King Baerimgrim, and fellow baron Feldrin was an ally.
+
+History
+In the moot called by King Baerimgrim in the, Baron Hothal made a bid to become king, supported by Feldrin, promising he could make peace with Laothkund by giving them the mines of iron and silver in the forest. Despite his backroom dealings being unappreciated by his fellow barons, there was serious consideration for his offer. However, Baron Tholone's bid later counted more supporters than his own, making Feldrin desert him and try to make a deal with the others, that he'd support Tholone's too if Hothal was slain on the spot. However, as the King tried to crown Tholone, they were both slain by a spell from Nadrathen. In the ensuing chaos, Hothal made an attempt to slay Nadrathen, getting himself killed by crossbowmen which were almost certainly mind-controlled by the mage.
+
+Reputation
+He was said to only take off his armor in order to don bigger pieces of armor.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## How Not to Get Eaten by Owlbears
+
+How Not to Get Eaten by Owlbears: A Survival Guide for the Forgotten Realms is a book by Anne Toole published in September 2024, by DK (an imprint of Penguin). It purports to be a guide to the Forgotten Realms and dungeoneering by Falgriss, a dragonborn ranger and assistant to Volothamp Geddarm.
+
+Index
+
+Characters
+
+Creatures
+
+Items
+
+Locations
+
+Organizations
+
+Religion
+
+Magic
+
+Miscellaneous
+
+Appendix
+See Also
+ Dungeonology
+
+References
+
+---
+
+## Honor's Edge
+
+Honor's Edge were enchanted kama created to fight the creatures of law and order.
+
+Powers
+Honor's Edge was enhanced with a simple +3 enchantment that made its slashes harmful even to creatures unaffected by mundane weapons and guided the wielder's hand towards the target. Additionally, the kama dealt additional damage to creatures who venerated law. Honor's Edge also possessed a keen blade that ensured devastating damage done with well-aimed slashes. Additionally, the weirder was granted the ability to cast the magic circle against alignment thrice per day.
+
+History
+Unsurprisingly, Honor's Edge was once a tool used by peasants in the fields, later adapted to be used in battle because they were forbidden from wielding swords. By the late 14 century DR, some of these enchanted kama or copies made from the original, were found in the city of Neverwinter and nearby lands.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2
+
+References
+
+---
+
+## Horatius
+
+Horatius was one of the members of the wealthy high society of Baldur's Gate in the late 15 century DR.
+
+History
+At some point before the, Horatius set his eyes and amorous ambitions on Lady Firelia Jannath, one of the city's patriars and a notable patroness of the arts. The couple was known to meet on occasion and sip tea. He was among suitors who fought for the lady's hand in 1492 DR, when her lover, Oskar Fevras, was presumed missing or killed, in reality, captured and enslaved by the Zhentarim smugglers.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Horn of the tritons
+
+A horn of the tritons was a type of enchanted horn fashioned from a  conch shell. Created by tritons, these horns gave their wielders some degree of influence over the sea and its creatures.
+
+Powers
+These horns carried a moderate aura of conjuration and transmutation magic. Earlier versions were claimed by some to be incapable of being played in the hands of a cleric, fighter,Despite the 1 edition Dungeon Masters Guide restricting their use to fighers, the bushi Yin-kung T'o is outfitted with one in Blood of the Yakuza. or warrior. They could only function in an area of free air, though their powers extended underwater.
+
+A horn of the tritons was imbued with three distinct effects that could be activated separately upon properly blowing it.
+
+ 1. The first of these available effects was to calm all rough waters within a  radius. This effect could consequently cause the dispelling of a water elemental or water weird.
+
+ 2. The second of these effects allowed a blower to summon a number of sea creatures to their aid, so long as said creatures dwelled within the body of water where the horn of the tritons was being played. Most of these creatures were ones to which the tritons had a special affinity towards, namely five to thirty giant sea horses, five to twenty hippocampi, or one to ten sea lions. However, it could also summon five to twenty large sharks or five to thirty medium-sized sharks. Regardless of whatever creatures were summoned, they would be friendly to the individual who sounded the horn of the tritons and obey their every command to the best of their animalistic understanding.
+
+ 3. The third effect that could be produced by a horn of the tritons was inducing a panic within a  radius in all aquatic creatures that were intellectually on par with or lower than that of an animal. This was similar in effect to a fear spell, spurring the effected creatures to flee.
+
+For most people, a horn of the tritons could be activated upon per day. Meistersingers and Whistlers, types of specialty bards, were capable of sounding a horn of the tritons twice per day. And tritons could activate the effects of a horn of the tritons three times per day.
+
+Additionally, whenever a horn of the tritons was blown its sound could be heard by all tritons within a radius of  or .
+
+Creation
+Creating a horn of the tritons required a triton artisan skilled in crafting wondrous items and the spells control water, fear, and summon monster V.
+
+Notable Users
+ These horns were typically carried among leaders and exceptional individuals in triton society.
+ Bulclutha, an aquatic elf druid of Istishia.
+ Perizade, a dragon turtle that lived in a small network of underwater caves below the island of Sahu, had a horn of the tritons as part of her treasure horde in 1367 DR.
+ Yin-kung T'o, a sea spirit folk from Shou Lung.
+
+History
+In the time approaching the Twelfth Serôs War, the tritons of the Inner Sea ignored the disruptions caused by the evil megalodon Iakhovas, believing it to be an "upwater problem" that would distract them from protecting the ocean floor. They wouldn't involve themselves in the war until a horn of the tritons was stolen by a rogue mermaid and her shalarin companion, who sought to use it to summon aid against their enemies. The tritons gave chase over the theft and not long afterward morkoth allied with Iakhovas invaded the cities of Abydos and Pumana in the Protectorate of Pumanath, taking back fell magic that they would use to fight the Twelfth Serôs War. This caused the tritons to realize their arrogance, and inspired them to join the war soon after.
+
+Trivia
+ The kraken Slarkrethel was notably immune to the effects of a horn of the tritons.
+ In the Roll of Years produced by Augathra the Mad, the year 697 DR was referred to as the "Year of the Triton's Horn".
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Horn of bubbles
+
+A horn of bubbles was a type of cursed horn that produced an array of soapy suds to inconvenience those who blew them.
+
+Description
+These horns were known vary widely in appearance. Some resembled mere mundane horns, while others bore a resemblance to known types of magical horns.
+
+Powers
+In the hands of most individuals, a horn of bubbles would produce no sound upon being blown. The cursed effect of the horn was delayed, triggering the next time someone was actively trying to kill the individual who had blown the horn. When this occurred, the horn would sound a note and manifest an array of soapy suds, similar to the breath weapon of a pink dragon, that completely surrounded and blinded the horn blower for anywhere from 2 to 20 minutes.
+
+In the hands of a proper bard, a horn of bubbles would instead sound upon being played and expel a mass of bubbles, covering a  conical area. Those caught in this barrage of soapy sups would similarly find themselves blinded for a period of 2 to 20 minutes. However, a horn of bubbles was not without danger for the bard, as it had a 5% chance of backfiring, or a 1% chance in the case of a jester. When this occurred a horn of bubbles would suck the blower through it and polymorph them into the bubbles it expelled. If the bard was not polymorphed back before all bubbles popped, they would be irrevocably dead.
+
+Notable Owners
+ Perizade, a dragon turtle that lived in a small network of underwater caves below the island of Sahu, had a horn of bubbles as part of her treasure horde in 1367 DR.
+
+History
+In the, a small pack of leucrotta were lairing within the Arcane Chambers level of Undermountain. Within the room they settled down in, the leucrotta amassed a sizeable horde of treasure, which included a gold-plated steel horn of bubbles.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Horreb ritual cube
+
+The Horreb ritual cube was a enchanted puzzle box created by artificers of Horreb. It served as a secure vessel for storing and releasing rituals.
+
+Description
+Intricately designed, the cube was composed of smaller, interlocking cubes, each marked with a unique glyph, allowing for numerous possible arrangements.
+
+Powers
+A Horreb ritual cube could store a ritual during its creation, which could later be released when the cube's faces were arranged in the correct configuration. The design of the cube prevented accidental or premature activation of the ritual.
+
+Notable Cubes
+One of the most notable cubes contained a ritual specifically designed to keep the primordial Maram of the Great Spear locked in his prison, acting as a failsafe to prevent Maram from returning to the material plane.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Horn of collapsing
+
+Horns of collapsing were a variety of magical horns designed to cave-in natural or artificial ceilings.
+
+Description
+These horns were rather mundane in appearance, often made in the form of a bugle or signal horn.
+
+Powers
+All horns of collapsing had a 10% of their effect misfiring, though a misfire was guaranteed if the trumpeter didn't speak the proper command word before sounding it. In the hands of a proper bard, the chance of misfiring was reduced to 5%, whilst in the hands of a Dwarven chanter there was no chance of the instrument being sounded improperly.
+
+The intended effect when sounding a horn of collapsing was to cause a the collapse of an overhead section of roof its pointed at, measuring  by, as far away as  from the trumpeter. During a misfire a horn of collapsing would instead cause an area of roof directly above the trumpeter to fall down, though if it occurred in an outdoor space devoid of a roof the horn would instead cause 2 to 12 fist-sized rocks to rain down upon the trumpeter.
+
+History
+Around the year  or so, a community of hobgoblins in the Moonsea region known simply as the Hobgoblin Kingdom had a treasure room with such magical items as a heavy crossbow of accuracy, horn of collapsing, a portable hole, a ring of feather falling, and a wand of secret door and trap location.
+
+In the mid-14 century DR, a horn of collapsing could be found on the Holy Mountain of Kus within the pedestal of a long neglected shrine to Bimasara, the Padhrasattva of Barter.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Holly Fowes
+
+Holly Fowes was an investigative journalist who wrote for the Baldur's Mouth broadsheet from the Lower City of Baldur's Gate in the late 15 century DR.
+
+History
+Holly Fowes had been working at the Baldur's Mouth Gazette until the Absolute crisis of the . She realized that the broadsheet's new sponsor, Lord Enver Gortash, was in control of the information being dispensed by Ettvard Needle's publication. In one of her articles to be published, Holly wrote a scathing opinion on Lord Gortash and the rot at the core of Baldur's Gate he represented. She fully understood that penning the article meant losing her job, and she signed the manuscript as a "Newly Freelance" journalist and for Ettvard to consider it a letter of resignation. The editor-in-chief, Ettvard Needle, immediately discharged Holly, citing her work to be libelous behavior, conspiracy, and intimidation, and herself to be "a toxic, unjournalistic presence in the workplace." Ettvard did not accept her resignation and instead fired Holly without pay and threatened her future work with legal action.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Hoardstone
+
+A hoardstone was a dragon-made enchanted gemstone that increased the value of all valuables around it.
+
+Description
+Hoardstones took the form of flawless gemstones worth at least 5,000 gp.
+
+Powers
+The influence of a hoardstone made all objects within  of it gain in quality, ultimately increasing their value by 25%. The process was generally achieved through transmutation of their materials, rendering metals purer, wood finer, and gems clearer, but it also made works of art more intricate or vibrant. Upon removal from the area of effect, objects so altered remained in a superior state for a length of time equal to the one they spent in the influence of the hoardstone itself.
+
+Creation
+Only dragons had the right mindsets to craft hoardstones, being able to grasp the "spirit" of what made an object valuable on an instinctual level.
+
+Society
+Dwarves prized them.
+
+Appendix
+See Also
+ Jewel of flawlessness
+
+References
+
+---
+
+## House of Whelk
+
+The House of Whelk was a busy Merchant House, one of the sixteen members of the Merchants Council of Ravens Bluff in the late 14 century DR, with its headquarters located in the Pumpside neighborhood of the Southside District.
+
+Location
+
+The House of Whelk was located in Pumpside, on the crossing of Samarglast Lane and Helhavryn's Walk. It stood one block away from the House of War, a temple to Tempus, and two city blocks south of the Ravens Bluff Sanitation Facility.
+
+Structure
+The house's headquarters was the second biggest building in Pumpside, after the House of War, comprised of two connected warehouses, where down-on-their-luck fishers were paid to weave nets and turn fish into spiced paste.
+
+Services
+The Merchant House made its money by selling fisher equipment, such as ropes, nets, and other ship gear procured for cheap across Faerûn, and purchasing the catch from the same fishers, as well as purchased jars for fish preservation. The fish was then sold at a profit, fresh and in a preserved form – spiced fish paste in jars sealed with wax. The fishpaste was a popular meal, often spread over toasted bread and eaten with wine or beer.
+
+History
+The House of Whelk was run by Hlastryn Vhelturl, a conservative and reserved merchant from Calaunt in the 14 century DR. The merchant house was named after its insignia, an image of a white shell of a whelk. By the late 14 century DR, after the Three Women War, the House of Whelk was attempting to get a share of the dockloading and warehousing business in Ravens Bluff. Still, these attempts were unsuccessful, thanks to the industry being controlled by the city's guilds. If the dockloading and warehousing would prove to be completely unsuceseful, the Merchant House planned on trying its luck at building and operating a merchant fleet.
+
+Rumors & Legends
+Some believed that Hlastryn Vhelturl was financed by some unsavory powers from Hillsfar and Mulmaster, who may have had their own reasons for controlling the Bluff's docks and having a fleet in the Moonsea and the Dragon Reach under their thumb. Similar rumors claimed that the same sponsors sought to turn Scardale and Harrowdale into fortified trade centers inhabited by criminally inclined crafters and artisans. Yet more rumors claimed that the House of Whelk was under the control of the Zhentarim.
+
+Appendix
+References
+
+---
+
+## Horseshoes of speed
+
+Horseshoes of speed were enchanted horseshoes that when affixed to a horse, or similarly equine creature, such as a centaur, would significantly enhance the rate at which they moved.
+
+Description
+These shoes were typically made of iron, always came in sets of four, and looked relatively mundane. These horseshoes weighed about  each.
+
+Powers
+These horseshoes gave off a faint aura of transmutation magic. When affixed to the hooves of any horse, horseshoes of speed would double the rate at which they typically moved, as well as proportionally increased the distance at which they could jumping. All four of the horseshoes within a set had to be worn in order for this effect to be active, though older versions of horseshoes of speed would simply drop the rate of movement down by a margin of 25% if only three were worn. On average, there was a 1% chance with these older versions of a horseshoe falling off every .
+
+In addition to their speed enchanting effect, horseshoes of speed would notably never wear out.
+
+Availability
+These horseshoes were a particularly common form of magical item in the land of Tethyr.
+
+Crafting
+Creating a set of horseshoes of speed required a spellcaster with the spell haste.
+
+History
+In 1374 DR, a group of priests of Tiamat living within the Altar of Scales (a secret temple in the undercity of Unthalass) kept one a set of horseshoes of speed in their treasury.
+
+Notable Owners
+ Alice Clarkson, a resident of Mossbridges.
+ Dalthyria, a centaur fighter, who with her horseshoes of speed was the fast member of her troop in the Thunder Ride.
+ Friar Cookpot, a dwarf cleric in Ravens Bluff, had set of these mounted on his mule Sal.
+ Tildin Graverly, a Ravenian wizard, owned a set of these that adorned a messenger horse used by the Sigil of the Silent Night.
+ Timoth Eyesbright, a centaur adventurer.
+ Verthandantalynx, a green dragon in Cormanthor, had a set of these in her hoard.
+ Yalah Gralhund.
+
+Appendix
+See Also
+Boots of speed
+Paws of the Cheetah
+Appearances
+
+References
+
+---
+
+## Hobbled Lamia
+
+The Hobbled Lamia was a festhall in the Lower Port of Skullport.
+
+Structure
+The Hobbled Lamia was a two-story establishment in poor condition.
+
+Interior
+The interior decor was an eclectic array of salvaged materials, including tarnished brass cherub statues, decaying red carpets, and garish tapestries depicting lurid scenes.
+
+Services
+The Hobbled Lamia was considered one of Skullport’s most disreputable establishments. Despite its rundown appearance, the venue attracted a steady clientele of sailors, laborers, humanoids, and patrons who prioritized affordability over ambiance. While the decor and atmosphere was undeniably grim, the festhall was rarely empty. All patrons were welcome as long as they had coin to spend and treated the staff with respect.
+
+The Hobbled Lamia's wine selection wass surprisingly excellent, though expensive, with a single goblet of the house vintage priced at 5 gold pieces. The festhall also provided the company of escorts for an additional fee. Twice each night, the venue hosted mud-wrestling matches featuring participants of various species and genders. Betting on these matches was obligatory, with a minimum wager of 5 copper pieces.
+
+Inhabitants
+The Hobbled Lamia was owned by Alysae, a robust woman in her mid-forties, and a priestess of Shar. Her origin was uncertain due to a hard-to-place accent, but many believed her to be from the east.
+
+Appendix
+References
+
+---
+
+## Honest Vendor
+
+The man only known as the Honest Vendor was a charm peddler and a confidence artist from the Lower City of Baldur's Gate in the late 15 century DR.
+
+Description
+Honest Vendor was a tiefling man of the Asmodeus bloodline, betrayed by his bright crimson skin, small fiery eyes, and stubby horns. He had braided short black hair.
+
+Possessions
+The tiefling carried a variety of charms, amulets, necklaces, and rings. None of them were enchanted.
+
+History
+In the, the tiefling known as the Honest Vendor found a way to make coin on naïve and scared Baldurians. The city lived in fear of the cultist infiltrators and the encroaching army of the Cult of the Absolute. The Vendor advertised his mundane, cheap jewelry as magical charms that could protect the wearers from Absolutist incantations and alleviate cultist curses. Even if folk needed a magical remedy, the tiefling con artist tried to convince them they always needed to stock up on magical prophylactics. Cressida Flint was one of the Vendor's customers.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## House Dun'Robar
+
+House Dun'Robar was a notable Lolthite drow house of the city of Sschindylryn in the 15 century DR. Of the city's houses, they were most renowned for their martial prowess and power.
+
+Activities
+
+Dun'Robar was famed in Sschindylryn for its martial focus. The house manufactured bespoke magical weapons that it sold to outsiders, as well as provided elite training for guards and soldiers throughout the city. Internally, Dun'Robar maintained a tradition of excellence in its warriors, with its estate more like a fortress than a home.
+
+Headquarters
+The estate of House Dun'Robar was located inside Sschindylryn proper, and was filled with well-armed house guards and traps. Much of its internal space was devoted to chambers for housing and training soldiers, as befitting their business.
+
+History
+
+During the Darkening in the mid-1480s DR, Dun'Robar joined an alliance with House Szind, House Avithoul, and several smaller houses in the Sschindylryn invasion of Eveningstar, which was orchestrated by High Priestess Hekta Szind in an effort to find the Thread of the Weave on behalf of Lolth. The alliance was largely pushed by High Battlemaster Teblyn Dun'Robar, with most of the other influential house leaders having much less interest. As a result Matron Jyr Dun'Robar devoted her house's resources to the war, sending many soldiers to assault Eveningstar and secure the surrounding Underdark.
+
+As part of the Cormyrean counterattack, Wizard of War Traegar Vadamore sent a team of daring adventurers into the depths of the Underdark to find and sabotage House Dun'Robar. Cloaked with powerful illusions disgusing them as drow servants, the surfacers found High Battlemaster Teblyn's personal weapon racks and contaminated them with a fast-acting rust monster ichor that destroyed the metal. They then moved to the estate's courtyard and rang a bell in challenge (potentially encountering Matron Jyr along the way), causing the Battlemaster to arrive in a furious state and attack them without his favored weapons—leading to his embarrassing defeat.
+
+With Dun'Robar sabotaged and their Battlemaster slain by a group of mysterious drow in a public manner, the house was sent into an uproar even as their reputation for martial excellence suffered. Their suspicions of outside interference caused them to draw away from their Szind and Avithoul allies, greatly weakening the drow war effort. Just as Traegar Vadamore planned, this opened up a weakness in the drow defenses that allowed a later attack upon the Sschindylryn Ziggurat and the Temple of Lolth atop it.
+
+Members
+During the invasion of Eveningstar in the late 15 century DR, the house included the following notable drow:
+
+ Atrezt Dun'Robar, Master Scout.
+ Draya Dun'Robar, Field Commander.
+ Gilcori Dun'Robar, Priestess.
+ Jyr Dun'Robar, Matron.
+ Soldiirn Dun'Robar, Blademaster.
+ Speitar Dun'Robar, Blademaster.
+ Teblyn Dun'Robar, High Battlemaster.
+ Xyra Dun'Robar, Priestess.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## House Jegg'Dralnoc
+
+House Jegg'Dralnoc was a Lolthite drow house of the city of Sschindylryn in the 15 century DR.
+
+History
+By the time of the Darkening in the mid-1480s DR, Jegg'Dralnoc was near-extinct. The house had been almost destroyed by House Szind during a power struggle, and its members only survived hidden in the dark corners of the world.
+
+Members
+During the Sschindylryn invasion of Eveningstar in the late 15 century DR, the house was much reduced in number:
+ Asta Jegg'Dralnoc, a Chosen of Lolth.
+ Galfriel Jegg'Dralnoc, the last priestess of the house.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## House Sparskrael
+
+House Sparskrael was a Lolthite drow house of the city of Sschindylryn in the 15 century DR.
+
+History
+During the Darkening in the mid-1480s DR, Sparskrael offered assistance to the Sschindylryn invasion of Eveningstar as a lesser member of the drow alliance. High Priestess Hekta Szind had a very low opinion of their contribution, and considered secretly killing and enslaving them instead.
+
+Members
+During the invasion of Eveningstar in the late 15 century DR, the house was rarely seen:
+
+ Jorenthar Sparskrael, a wandering drider.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## House Ebsar
+
+House Ebsar was a drow house of Sschindylryn in the 15 century DR.
+
+History
+During the Darkening in the mid-1480s DR, House Ebsar refused to join an alliance with Szind, Avithoul, and Dun'Robar that caused the Sschindylryn invasion of Eveningstar. As the war was dictated by Lolth and planned by High Priestess Hekta Szind in order to find the Thread of the Weave, this was considered a grave insult to be avenged later.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## House Avithoul
+
+House Avithoul was a powerful Lolthite drow house of the city of Sschindylryn in the 15 century DR. They were famed in the city for their great use of slavery.
+
+Activities
+
+Avithoul was renowned for the size and efficiency of their slave-gathering and training operations. The house was broadly responsible for handling the city's slave supply, which included both drow and captured surfacers, and made heavy use of special drow slave collars that rendered even the most defiant slave pliable and useful.
+
+Headquarters
+
+The estate of House Avithoul was located outside of Sschindylryn across the chasm-bridges, resembling a prison and mansion in equal measure. While the slaves suffered in their pens, the house members enjoyed palatial riches nearby.The location of House Avithoul seems to match the location of the Slave Quarters depicted on the map included in Annihilation.
+
+History
+
+The House was founded by Va'arrej Avithoul, a fierce warrior and relentless slaver of her time. The House participated in the Great Conflict with Menzoberranzan, and withstood the Great Revolt thanks to the cunning drow slave collar.
+
+During the Darkening in the mid-1480s DR, Avithoul joined an alliance with Szind and Dun'Robar and took part in the Sschindylryn invasion of Eveningstar, organized by High Priestess Hekta Szind to find the Thread of the Weave for Lolth. Matron Balbaste sent her soldiers to aid in the Underdark and on the surface, and was able to take many prize slaves that were divvied up for interrogation, labor, and ritual sacrifice. They took part heavily in an operation at the Temple of Mystra in the King's Forest, where Phargred managed the troops and the huge number of slaves captured, Odezzt interrogated Ana Brabener, and their ally Eldrin Szind searched the temple library.
+
+Their profitable business proved to be their undoing, as during the invasion their long-time slave Mirini Elemys managed to escape her bondage and traveled to the surface. Thanks to Mirini's in-depth knowledge, she and Wizard of War Aptem Mews were able to organize a counterattack that struck Avithoul where it hurt most—by infiltrating a team of surfacers disguised as slaves into the Avithoul compound. They managed to kill the slave handlers, start a slave uprising, and went through the household slaying the defenders and destroying their prized treasures, including the skull of the founder Va'arrej, Knee-bender, and the first Avithoul slave collar. By the time they were done, the house was in shambles and already casting accusations at their allies for causing such a disaster. This greatly weakened the drow alliance and opened the way for a strike team to enter the Temple of Lolth atop the city and strike at High Priestess Hekta Szind.
+
+Members
+Va'arrej Avithoul was the revered founder of the house. While the rule of the house passed to female heirs, her son Va'aunsh was notable for innovating in the field of slavery.
+
+By the time of the invasion of Eveningstar in the late 15 century DR, the house included the following notable drow:
+ Balbaste Avithoul, the house matron.
+ Banister Avithoul, a slavemaster.
+ Magroph Avithoul, a draegloth guard.
+ Odezzt Avithoul, a taskmaster.
+ Orgallryd Avithoul, a slavemaster.
+ Phargred Avithoul, a master slaver.
+ Ydrae Avithoul, a soldier.
+
+The house also included the following prominent agents:
+ Amalzen, the guard captain.
+ Dolnozz, Ess'k, and Ophur, slave handlers.
+ Kal'anoth, a wizard.
+ Solul, the slave overseer.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## House Szind
+
+House Szind was a notable Lolthite drow house of the city of Sschindylryn in the 15 century DR. They were feared and respected for their mastery of magic, especially necromancy.
+
+Activities
+Szind specialized in intelligence-gathering, alchemy, their wizards, and the creation of undead. They relied on House Dun'Robar for direct military assistance and Avithoul for (living) slaves. Their business of selling undead made them one of the wealthiest and most powerful houses in the city, and they were hard at work developing techniques to create smarter, stronger, and more loyal undead.
+
+Headquarters
+The estate of House Szind was located inside of Sschindylryn, and contained spacious laboratories and chambers for magical experimentations and the storage of their undead. Thanks to their wealth, it was exceptionally large and luxurious. They did not keep living house servants, but rather a force of shambling undead that performed manual labor under the direction of necromancers.
+
+History
+
+At some point in the past, Szind destroyed House Jegg'Dralnoc, removing it as a power and scattering its surviving members.
+
+During the Darkening in the mid-1480s DR, House Szind formed an alliance with Dun'Robar, Avithoul, Sparskrael, and Cay'Vorym in order to prosecute the Sschindylryn invasion of Eveningstar in Cormyr, with the notable refusal of House Ebsar. This was all organized by High Priestess Hekta Szind in order to find the Thread of the Weave for her Queen Lolth. For her part, Matron Zhivsha sent her soldiers throughout the Underdark and onto the surface at the King's Forest and Eveningstar, causing much destruction. Of particular note was their conquest of the village of Deep Glen, which allowed their force of necromancers free access to its expansive graveyard and the bodies within, and Vicala Szind's raid on the Midler farmhouse.
+
+A Cormyrean strike organized by Oryne Belamadin favored a direct assault without much trickery or complication. Aside from being illusioned to resemble drow, the attackers were tasked with simply destroying everything they could. Capturing flashstones from the Szind laboratories, they destroyed the necromantic cauldrons used to create powerful undead, the house's library archives, and much of their reserve of undead servants, including the head necromancer himself Relig, who pioneered new techniques. At the same time, Silan Szind sought to kill and reanimate her mother Zhivsha with the help of the necromancer Sarnish, which would allow her to control the house. The invaders may have intervened in this plot, or simply left it to stew. Regardless of the outcome, the house was left in utter disarray and began pointing fingers at their so-called allies Dun'Robar and Avithoul, leaving the Sschindylryn Ziggurat vulnerable and allowing a strike team to reach Hekta Szind at the Temple of Lolth.
+
+Members
+During the invasion of Eveningstar in the late 15 century DR, the house included the following notable drow:
+
+ Dhanae Szind a lady of the house.
+ Durilghar Szind, a master necromancer.
+ Eldrin Szind, a wizard.
+ Garen'thir Szind, an outcast drider.
+ Hekta Szind, the high priestess of Sschindylryn.
+ Phinrae Szind, an arch-necromancer.
+ Silan Szind, a priestess and Zhivsha's daughter.
+ Teira Szind, a priestess.
+ Vicala Szind, a priestess.
+ Zhivsha Szind, the house matron.
+
+The house also had a number of prominent servants:
+
+ Alakraena Xorlarrin, a captive from Menzoberranzan.
+ Jevan, a necromancer.
+ Relig, the head necromancer.
+ Sarnish, a necromancer.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Houndstown
+
+Houndstown was a small farming village in Faerûn that was menaced by the Skulking Dragon clan of kobolds sometime before the late 14 century DR.
+
+History
+Some years before the, Houndstown and other nearby farming communities started being regularly raided by the Skulking Dragons under the leadership of Sholsarrath the Lame, a kobold warlock, who recently took over the clan. Soon after the plunder began, the Skulking Dragons became hated and feared among the locals. The clan's infamy rose so much that a band of traveling adventurers decided to end the kobold menace.
+
+The five adventurers rode out of the village of Houndstown and quickly were able to track the Skulking Dragon clan. The kobolds might have been a nightmare for the local peasantry, but they were naught but pests for weathered adventures, who slaughtered the clan's best warriors en masse. The dim-witted warlock, however, was not slain by the adventurers but by Yargulbuzul, his patron, after agreeing to pay for rescue with his own head.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House Cay'Vorym
+
+House Cay'Vorym was a notable Lolthite drow house of the city of Sschindylryn in the 15 century DR. They had a particular interest in gladiatorial combat, gambling, and entertainment.
+
+Activities
+Cay'Vorym preferred not to get directly involved in risky activities. They operated the Cay'Vorym Fighting Pit and Underdark Arena near Sschindylryn, where they managed gladiatorial combat bouts between professional contestants, prisoners, and wild beasts.
+
+History
+During the Darkening in the mid-1480s DR, House Cay'Vorym mostly stayed out of the Sschindylryn invasion of Eveningstar led by other houses, with the exception of raids upon the dryadic Great Tree. The drow assault allowed the mass capture of surfacers from Cormyr, and while many were handled as slaves by House Avithoul some ended up in the hands of Cay'Vorym. These Purple Dragons, War Wizards, and other folk were given the fate of fighting in the Cay'Vorym arenas for the entertainment of their customers.
+
+Although their involvement was less obvious than that of Avithoul, Szind, and Dun'Robar, Cay'Vorym and their abuse of Cormyrean prisoners was discerned by the scholar Sorina Parnock. She sent a team to their secret fighting pits in the Underdark near Sschindylryn with the mission of rescuing any Purple Dragons there and dismantling the whole operation. On arrival, the Cay'Vorym guards and agents regarded the surfacers with a mixture of curiosity and professionalism, treating them more as customers than a threat. However, the master of the arena Feryl Cay'Vorym simply dumped the captives and rescuers into the pit, forcing them to fight against various threats for the entertainment of the crowd. Things went awry when Feryl's attempts at attracting purple worms drew up the massive and unmanageable worm Sineater, which tore apart the arena, devoured most of the paying customers in the crowd, and then ate both Feryl and the surfacers. After a fraught battle in the worm's guts, the surfacers eventually cut their way out with Feryl's special blade earthcarver and slew it, though not after it had thoroughly demolished the Cay'Vorym business and fulfilled the Cormyrean objectives for them.
+
+Members
+During the invasion of Eveningstar in the late 15 century DR, the house included the following notable drow:
+
+ Feryl Cay'Vorym, master of the fighting pit.
+ Pelree Cay'Vorym, house purser.
+ Zeslyn Cay'Vorym, gate guard.
+
+Prominent servants and agents of the house included:
+ Djir Garpeth, duergar arena recruiter.
+ Azena'ar, drider arena master.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Hoarbridge
+
+Hoarbridge was a waymeet and end destination of the Cold Road.
+
+Geography
+The site lay in northern Narfell where the route from distant Nethentir ended on the frozen shores of the upper Icelace Lake. It lay some  north of N'Jast.
+
+Trade
+Hoarbridge owed its location and early importance to the dwarven kingdom of Dareth, as the metal wealth of the dwarves attracted many men.
+
+History
+In the, Dareth stopped trading in the waymeet of Hoarbridge, for reasons unknown to the Nar who simply recorded that the "Stout Folk came no more." In reality, a flight of white dragons had claimed the upper caverns of the dwarven kingdom, and the dwarves themselves been driven deep below. In time, dwarf and dragon slew each other, thus opening up the way for hunters and woodsmen.
+
+Inhabitants
+The Far Quey tribe lived north of Hoarbridge on the other side of the Icelace Lake, and the Hoarbridge waymeet was the nearest trading place that the tribe could reach.
+
+Appendix
+References
+
+FR:Hoarbridge
+
+---
+
+## Hook horror language
+
+The hook horror language was a language spoken by hook horrors.
+
+Description
+The hook horror language consisted of a series of clicks and clacks that hook horrors made using their exoskeletons. The language sounded soft and gentle when "speaking" about friendship, but loud and frenzied when discussing food.
+
+Appendix
+
+References
+
+---
+
+## Horrors of the Unapproachable East
+
+Horrors of the Unapproachable East was a guidebook penned by Catalan the Mad in the late 15 century DR.
+
+Contents
+Catalan's work offered guidance and information on the dark practices of the Red Wizard nation of Thay. Unlike other tomes penned about the region in years past, Horrors of the Unapproachable East updated the lore to reflect Thay's new status quo as a nation ruled by the lich Szass Tam and his undead servants.
+
+History
+Horrors of the Unapproachable East was published in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House Higure
+
+House Higure was one of the ruling drow Houses of Menzoberranzan in the Northdark in the late 14 and 15 centuries DR.
+
+History
+House Higure rose to its Ruling Council status sometime after the  and before the, when it was the seventeenth House of Menzoberranzan. By the, House Higure climbed up to claim its place as the thirteenth House of Menzoberranzan.
+
+Appendix
+References
+
+---
+
+## House Fathomlin
+
+House Fathomlin was a drow house with a long and tumultuous history and one of the ruling Houses of Menzoberranzan in the Northdark in the late 14 century DR,
+
+History
+House Fathomlin's history stretched back to before the Third Crown War. Its last scion, circa, was a dark elf wizard named Lyrna Fathomlin of Miyeritar. Lyrna resided in Myth Akherynnar in Miyeritar when the Dark Disaster ravaged her homeland, turning it into the desolate High Moor circa . After the failure of the Myriad Ritual to halt the Killing Storms, and the subsequent destruction of the city of Faer'tel'miir, she and a procession of other dark elven high mages departed Myth Akherynnar on a suicide mission to drive the Killing Storms into Aryvandaar, the land of the conquerors who had conjured the storms in the first place. They departed on a three-day journey to the Tosofome Caldera to enact their ritual. Somehow, Lyrna became separated from her group, and found herself  off course in the ruins of Faer'tel'miir. There, she encountered a sharn, and was subsumed by a sharn symbiote to be assimilated as a new sharn.
+
+Despite that ancient tragedy, House Fathomlin survived and its dark elves became the drow of the Underdark. House Fathomlin rose to its Ruling Council status sometime after the  and before the, when it sat as the nineteenth House of Menzoberranza. However, it lost its status and was considered largely destroyed later in 1372 DR.
+
+Appendix
+References
+
+---
+
+## House Hrost Ulu'ar
+
+House Hrost Ulu'ar was one of the ruling drow Houses of Menzoberranzan in the Northdark in the late 13 and early 14 centuries DR.
+
+History
+House Hrost Ulu'ar rose to its Ruling Council status sometime before the, when it held the seat of the fifth House of Menzoberranzan. By the, Hrost Ulu'ar took the fourth House's place after the fall of House DeVir. However, 1328 DR also took House Hrost Ulu'ar's seat, leaving it likely completely destroyed at the hands of House Xorlarrin, which also claimed Hrost Ulu'ar's spot in the center of Qu'ellarz'orl.
+
+Appendix
+References
+
+---
+
+## House of Despana insignia
+
+House of Despana insignias were small enchanted items, imbued with magics and symbolizing the authority and power of the drow House Despana.
+
+Description
+An insignia of House Despana was a small trinket hoop made out of adamantine metal and obsidian. The insignia resembled a sun with an arrow attached to it. This arrow and hexagon glyph was the emblem of House Despana. Pink ribbon was tied through the hoop.
+
+Powers
+The insignia could produce three spells: blur, Melf's acid arrow, and Otiluke's resilient sphere, once per day each.
+
+History
+Malavon Despana created the House of Despana insignias for his brother, Ilmryn Despana, long before the . It was said that when the Church of Vhaeraun attacked the Lolthites, Malavon and Ilmryn found eachother on the opposite sides of the conflict and clashed. Ilmryn Despana was the Weapons Master of his house at the time, and was close to winning the brothers' duel, however, Malavon uttered a command word that awoken a secret magic hidden within the insignia. Immediately, Ilmryn was enveloped by a magical barrier that protected him from all harm but trapped him within. When the spell expired, Ilmryn emerged from the protective shell only to face more than a dozen of powerful tanar'ri. Ilmryn did not survive the battle and died screaming curses onto his brother's name.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## House Argith
+
+House Argith was a Lolthite drow house of the city of Sschindylryn. They notably fell afoul of the demon lord Graz'zt in Tethyamar during the 15 century DR.
+
+History
+
+During the late 15 century DR, the house sent an expedition to the old dwarven ruins of Tethyamar beneath the Desertsmouth Mountains, seeking the lost treasures within. Instead they found the jewels of ardor, a kind of crystal that had little worth of its own, but had been altered by the demon Graz'zt to appear impossibly valuable. After finding the gems, Talice contacted the Zhentarim and had them send an expert down to the Underdark in order to evaluate the gems. The Black Network sent their man Oldin, who met a dwarven guide and travelled to the drow stronghold, only to be attacked and devoured by umber hulks along the way.
+
+As Talice's obsession with the gems grew, she became convinced that they had been blessed by Lolth, and she herself was an ascendant champion for finding them. She sent a sample of the jewels back to Sschindylryn with a letter containing all sorts of grand claims, but the time and distance rendered the jewels free of Graz'zt's power and returned them to mere shiny rocks. Faced with a raving child obsessed with worthless rocks, her mother sent a reply that pointedly questioned Talice's loyalty and sanity, which prompted Talice to write a response that was outright threatening and seditious with its grandiosity. Her own on-site wizard Ildan Argith remained skeptical of her extraordinary claims, and so he secretly studied the gems and prepared a letter to inform the house's archmage in Sschindylryn that while they were in fact influenced by a demonic power, this indicated Lolth as much as any other Abyssal lord.
+
+Throughout these events, the drow had been ambushing and enslaving the dwarven expedition at the Tethyamar mining outpost nearby, who also sought the gems. They caught many miners and set them to work extracting the jewels, alongside other human slaves brought from Sschindylryn. They also sent a team to Ironvale Deep led by Kir'tan Melarn to recover the Tethyamar Master Manifest, which contained a comprehensive set of logs and maps describing the mines around the city. While the drow enjoyed predating on the disorganized dwarves for a while, their easy dominance came to an end when Gunhild the Watchful finally located the hidden drow stronghold and sent a team to destroy it. They may have impersonated the deceased Zhentarim delegate or used force to break in, but ultimately the drow slaves were freed and the high priestess slain in her own temple, ending their efforts in Tethyamar and ruining Graz'zt's fun as one of his pawns was wiped out.
+
+Members
+During their expedition to Tethyamar in the late 15 century DR, the house included the following notable drow:
+
+ Talice Argith, a high priestess.
+ Ildan Argith, a wizard.
+
+The expedition also contained the following members:
+
+ Kir'tan Melarn, a wizard.
+ Phy'xzar, a drider jailor.
+ Phyrsinil, a priestess.
+ Rauva, a lieutenant.
+ Uhlsirayn, a guard captain.
+ Velkas, a slave master.
+ Zyn, a captain.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Hold Back the Dead
+
+Hold Back the Dead is a promotional adventure for 5-edition Dungeons & Dragons released on February 5, 2025, as a free digital-only product on D&D Beyond. It sees Szass Tam launch assaults by armies of undead against cities on the Sword Coast and in the Silver Marches while the PCs try to defend Ironspine Keep. The characters of the 1980s Dungeons & Dragons cartoon are presented as sample characters.
+
+Index
+Characters
+
+Creatures
+
+Items
+
+Locations
+
+Organizations
+
+Religion
+
+Miscellaneous
+
+Appendix
+Gallery
+
+Connections
+
+---
+
+## Howling Herald
+
+The Howling Herald was an establishment in Neverwinter during the mid-to-late 14 century DR.
+
+Location
+The establishment was in Neverwinter, close to one of the intersections with Boldshoulder Street. There was a bakery next to it, with an alley in between both establishments.
+
+Structure
+The front entrance had steps.
+
+History
+One evening in, Auvrarn Labraster threw up in front of the Howling Herald after getting too drunk. A youth with a knife came out of an alley between the Herald and the bakery, and told him to go home, as he was obviously carrying no money.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## How Ralindarria Fell
+
+How Ralindarria Fell was a stage play penned by Ohndravvas Duskingstone, Bard High of Darromar in the mid-15 century DR.
+
+History
+How Ralindarria Fell featured a character named Old King Sandral. The play was first performed in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Hostile empathic transfer
+
+Hostile empathic transfer was a psionic power of the telepathy discipline that allowed a manifester to transfer any pain and injuries they were suffering onto another creature.
+
+Effects
+By touching another creature, the manifester could empathically transfer a set amount of injuries and pain they were suffering unto the target. Due to the manner in which this power worked, neither powers nor abilities with regenerative or harm reductive effects could dampen these injuries during transfer.
+
+A manifester could further channel psychic energy into this power to augment it, making it transfer greater amounts of injuries, making it affect all creatures within a  radius around the manifester, or both.
+
+Displays
+When used this power manifested auditory and material displays.
+
+Users
+This power was knowable by psychic warriors and telepaths, as well as ardents and divine minds that followed Pain and Suffering mantle.
+
+Known/Notable Users
+ The Mind Shard of Pandorym, the imprisoned form of the eponymous elder evil.
+ Naneth, a human wizard who was corrupted by a mind seed implanted by Zelia, imparting upon her many of the same psionic powers.
+ Saryndalaghlothtor, an adult crystal dragon.
+ Zelia, a yuan-ti telepath.
+
+Appendix
+See Also
+ Empathic transfer, a power of the psychometabolism discipline that had the reverse effect.
+ Forced share pain
+Appearances
+
+References
+
+---
+
+## Horedel
+
+Horedel a Northman prince of the Korinn Archipelago of the Moonshae Isles during the 13 century DR.
+
+Relationships
+He was the son of the "Sea King" Viledel. His mother was presumably Viledel's wife, Queen Liala.
+
+History
+
+Horedel died from disease in the, twenty years after his father established himself in the Korinn Archipelago. He was interred in a tomb within the catacombs beneath the Manor of the Sea King on Viledel's Isle. Per the customs of his father's homeland of Petathal, he was wrapped in linen burial clothes and placed in a  galley filled with grave-goods, including gold, weapons, armor, and servants. This was all sealed behind a brick wall adorned with a bronze plaque bearing an inscribed epitaph.
+
+When Viledel and Liala were slain two decades later, they were laid to rest in the catacombs near Horedel's crypt.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Homicidal mania
+
+Homicidal mania was a mental state based on a total compulsion to maim and kill others around them.
+
+Acquisition
+ The berserker axe would inevitably drive the wielder into a murderous killing frenzy.
+ For mortals, being within the presence of Kostchtchie's avatar carried the risk of being infected with homicidal mania.
+
+Effects
+The mania typically presented as an irregular and spontaneous interest in the implements of murder—weapons, poisons, or others—and then their use.
+
+Notable Affected
+ The Bhaalspawn were afflicted to varying degrees by a desire to dominate, destroy, and kill inherited from their progenitor. In particular, the Dark Urge was created by Bhaal and filled with an incredible capacity for violence. The Dark Urge could break into a bout of unconscious murder with even the slightest trigger.
+ Captain Brage of Amn was sent into a rage by a cursed greatsword, causing him to kill his family.
+ Eshenesra, an elf trapped in Nalavara's hoard demiplane, developed increasingly strong homicidal urges towards any and all humans, and even towards her elven companions to an extent.
+ Zoartik a mindflayer whose original host was a drow. Unable to fully sublimate the mind of his host, the illithid experienced homicidal episodes whenever they saw drow or even drow-made items.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Hornkeep
+
+Hornkeep, or the Dragonrider's Tower, was the keep of the mage Undarl in northwest Faerûn during the early-to-mid 3 century DR.
+
+Location
+When headed for Hastarl, Undarl's dragon went southeast over the Horn Hills, strongly implying it was northwest of Hastarl, across and close to the Horn Hills.
+
+Activities
+Undarl did breeding experiments in one chamber at the top of the tower, and had his apprentices engage in numerous tasks throughout the structure. Some of his experiments, however, were carried out at Undarl's tower instead, which was a separate location.
+
+Defenses
+Undarl was known to have arrangements made in one balcony to cast a sleep of ages spell, presumably akin to Phezult's sleep of ages, identical among other aspects in that it consumed gemstones over time. He also had the dragon Anglathammaroth at his beck and call there.
+
+Inhabitants
+The tower held Undarl's apprentices, including Hathan.
+
+History
+In or after Eleasias of the, the mage Undarl cast a sleep of ages that would last over a thousand years on his tower when he was called by Ithboltar in anticipation of the siege of Athalgard by the forces of Prince Elminster Aumar. The duration of over a thousand years on the enchantment meant it would not run its course until at least the .
+
+Appendix
+See Also
+ Undarl's tower
+
+Appearances
+
+References
+
+---
+
+## Horrified: Dungeons & Dragons
+
+Horrified: Dungeons & Dragons is a board game set in the Forgotten Realms setting. Play occurs in the in the city of Waterdeep, and the deadly Undermountain, the mega-dungeon underneath.
+
+Index
+Characters
+Nihiloor
+Creatures
+beholder • displacer beast • dragonborn • human • kenku • mimic • red dragon • tiefling
+Locations
+Blackstaff Tower • Castle Waterdeep • Hall of Heroes • Skullport • Sword Coast • The Sword and Sextant • Undermountain • Waterdeep • Willow's Tower • Yawning Portal
+Classes
+bard • cleric • fighter • rogue • wizard
+Magic
+Spells
+teleport field
+Items
+holy symbol
+Miscellaneous
+
+Contents
+1 game board
+5 monster mats
+4 monster miniatures
+5 hero standees
+5 hero tiles
+5 reference cards
+60 items
+10 citizen standees
+4 lair tokens
+1 terror marker
+1 frenzy marker
+30 monster cards
+20 perk cards
+5 reference cards
+1 Horrified Haversack
+3 monster dice
+1 20-sided die
+1 orb of dragon kind
+6 obstacle tokens
+1 eye ray reference card
+10 disable tokens
+1 set of instructions
+
+Appendix
+External Links
+
+---
+
+## House of Autumn
+
+The House of Autumn was the primary inn for visitors to the city of Karador, capital of Sarifal on the Moonshae Isles.
+
+Services
+The House of Autumn was known to pamper its guests and to provide them with a full taste of the delights of Karador.
+
+History
+As of the late 15 century DR, visitors to Karador were rare, and those who were given permission to lodge within the city would often be escorted directly to the House of Autumn.
+
+Appendix
+References
+
+---
+
+## Horn of the ape
+
+Horns of the ape were a variety of enchanted hunting horns from the Chultan city of Port Nyanzaru that imitated the mating calls of adult silverback gorillas, known to be used in the late 15 century DR.
+
+History
+In the late 15 century DR, as the death curse ravaged Faerûn, the famed author Volothamp Geddarm found himself in the Hunter's Square in Port Nyanzaru, a city in Chult. As he was working on Volo's Guide to Monsters, Volo enlisted the aid of adventurers from the north to hunt down and slay a collection of powerful beasts of legend and report to him with their experiences and loot. A horn of the ape was used to beckon forth Kutlass, the great yuan-ti "hunter of apes."
+
+Appendix
+Appearances
 
 References
 

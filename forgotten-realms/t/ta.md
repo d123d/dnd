@@ -4,6 +4,50 @@ _Source: forgottenrealms.fandom.com, CC-BY-SA 3.0, dump 2025-10-22._
 
 ---
 
+## Tablets of Fate
+
+The Tablets of Fate were powerful artifacts in the form of stone slabs that served to maintain the balance between the forces of Law and Chaos, and acted as a barrier between the worlds of Abeir and Toril. The Tablets also had the additional function of recording the names and purposes of every god and primordial in the universe.
+
+Description
+The Tablets were described as plain clay tablets, less than 2 feet high, with the names and portfolios of every deity inscribed in glowing blue-white runes.
+
+Although Bane and Myrkul believed some of Ao's power lay in the tablets, for Ao the tablets had little power. They served only as reminders to the gods of their duties.
+
+History
+
+The Tablets of Fate were created by Ao after the Tearfall and the sundering of Abeir-Toril as a way to keep the new worlds of Abeir and Toril apart, and to ensure a balance between the forces of Law and Chaos as well as between the gods and the primordials.
+
+In the Year of Shadows, 1358 DR, Bane and Myrkul stole the Tablets from Ao and hid them in Faerûn wrongly suspecting that some of the Overgod's power was derived from these tablets. When Ao discovered the Tablets of Fate were missing, he summoned all the deities and asked for those guilty to hand them over. When no one came forward to admit to stealing the Tablets, Ao cast down all the gods from the heavens, taking their divine power in the process. Ao tasked Helm with guarding the Celestial Stairways which would lead the deities back into their divine realms. For this he retained his divine powers. Before the Avatar Crisis ended, Bane and Myrkul were both slain although Bane would return in 1372 DR.
+
+After valiant heroes (among them the mortals Cyric, Kelemvor, and Midnight) recovered the Tablets and returned them to Ao the Overgod himself destroyed the tablets, grinding them into powder. This act, however, unraveled the laws of Realmspace and began the chaotic period of time known as the Era of Upheaval.
+
+During the Second Sundering Ao recreated and rewrote the Tablets of Fate, inscribing the names and purposes of the gods and primordials he chose to serve in a new inclusive divine reality.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Taol
+
+A taol or toal (either name was correct) was a Waterdhavian coin worth two gold pieces in the city, but outside Waterdeep these coins were practically worthless.
+
+Description
+The toal was a square brass coin with a hole in the center to allow it to be strung on a string. The coin was a square about 2 in (5.1 cm) on a side and the central hole was large enough to fit a nib inside.
+
+History
+In the late 15 century DR, taols could be exchanged for other currency in the Palace of Waterdeep with no exchange fee, but the line was so long that appointments frequently needed to be made a day in advance. The Guild of Trusted Pewterers and Casters and the Jewelers' Guild were also capable of quickly and reliably performing the exchange.
+
+Appendix
+See also
+ Currency
+
+References
+
+---
+
 ## Tanar'ri
 
 Tanar'ri  were the dominant race of demons in the Abyss, evil souls warped by its raw chaos into manifestations of mortal failing. Whether they arose naturally from sins and spirits, or were shaped by evil gods or other powerful demons, all tanar'ri were embodiments of vice, depraved inner demons spawned from the darkest corners of mortal minds.
@@ -654,6 +698,65 @@ de:Tanar'ri
 
 ---
 
+## Talona
+
+Talona  was the goddess of poison and disease in the Faerûnian pantheon. Where the Lady of Poison walked, death and disaster followed, and she was blamed for all manner of ailments, ranging from common sicknesses and devastating diseases to brackish wells and failing crops, Worship of the Mother of All Plagues waxed and waned in an unending cycle; the Mistress of Disease would unleash waves of death-bringing blights, after which came mass entreaties for respite before that cycle's great plagues went into remission, her power slowly declined, and spurred by feelings of vulnerability, she began the cycle anew.
+
+Description
+Talona appeared as a gaunt,  human female with long, unkempt hair and reaching, elongated fingers. Her depictions in religious texts portrayed her as a withered crone with a scarred, tattooed face. The bodies of her avatars seemed like they had been beautiful and voluptuous at one point, but their frames and charms had been ravaged by the march of time, horrific diseases, and starvation. Even so, Talona's dancing movements were said to be alluring, and her lips were nonetheless inviting and gentle.
+
+Talona was also sometimes depicted as a beautiful and innocent woman.
+
+Personality
+Talona was a strange goddess in terms of personality. She had been compared by sages to a greedy and petulant child, switching between the juvenile desire for attention at any cost to the aloofness of a discarded paramour. Curiously for a deity so closely tied to death, she had no personal taste for violence.
+
+Divine Realm
+Talona's realm was known as the Palace of Poison Tears. Under the Great Wheel cosmology, it was located in the jungle-covered orbs of Cathrys, Carceri's second layer, known for its poisonous vegetation.
+
+Under the World Tree cosmology, this realm was located in the Barrens of Doom and Despair.
+
+Relationships
+Prior to the Time of Troubles, Talona was a servant of Bhaal and had a heated rivalry with her fellow servant Loviatar. During that time she was often teased and tormented by her. Mocked for her appearance, the size of her portfolio, and her small number of followers. She would occasionally provide aid to adventurers of good alignments if she viewed their goals as something that would damage Loviatar's reputation.
+
+Circa 1369 DR, she developed an alliance with the deity Shar.
+
+She despised Chauntea, Mielikki, Kelemvor, and Tyr.
+
+Worshipers
+Her priests, known collectively as Talontar, typically wore ragged gray-green robes. Though they would wash these vestments, they would never repair them. Older and high-ranking members of her priesthood tended to either ritually scar or tattoo their bodies all over. When embarking on a battle or dangerous adventure, a follower of Talona would often don armor of a black and purple hue that was adorned with a variety of spurs, horns, and spikes.
+
+Her followers often sold various poisons, antidotes, and medicines. When not doing so they were known to travel across Faerûn, seeking out new diseases or afflictions while also spreading rumors about Talona in hopes of boosting her reputation.
+
+Talontar devoted much of their lives to building up an immunity to various diseases and poisons, by means of both inoculation and magic. Because of this, they often treated those afflicted with disease or buried their bodies. They also tended to be hired by paranoid members of high society, such as wealthy merchants or rulers, to test their food for any poison.
+
+Among the general population, Talona was worshiped during times of plague, and was believed to inflict such plagues on the land whenever she felt that veneration of her was waning. In particular, veneration of Talona was said to have peaked during the  (and the destruction of Asram), the  (in the Rotting War), the, the, the, and the  (following the Great Plague of the Inner Sea).
+
+Orders
+ Plague Rats: an elite group of assassins, thieves, and wererats that operated throughout the North and the Western Heartlands.
+
+Temples
+The House of Night's Embrace was Talona's largest church in Faerun and was located in Tashluta.
+
+History
+In, a demipower named Kiputytto, sister of Loviatar, tried to challenge Talona for her portfolio. The conflict that ensued devastated the nation of Asram with terrible plagues, forcing its citizens to provide Talona devotional power in hopes that she would lessen the plague's effects. Talona ultimately won the conflict and shortly afterwards murdered Kiputytto. In the years that followed, texts would be written that referred to the latter deity as an alias of hers, further cementing Kiputytto's defeat.
+
+During the Time of Troubles, a formula to the concoction known as the Chaos Curse was indirectly given to the evil wizard Aballister Bonaduce by an avatar of Talona.R.A. Salvatore (October 1991). Canticle. (TSR, Inc.). ISBN 1-5607-6119-9/0-7869-1604-4.
+
+Appendix
+
+Gallery
+
+Appearances
+ Lady of Poison
+
+References
+
+Connections
+
+es:Talona
+
+---
+
 ## Tashalar
 
 Tashalar, also referred to as the Tashalar, was a small, self-contained country located on a strip of coast along the southern Shining Sea. It lay just east of the Chult peninsula, and west of the magic realm of Halruaa. It was famous for beautiful weather, beautiful people, excellent crossbows, and the richest wine-producing region in the world.
@@ -753,6 +856,685 @@ The Sapphire Crescent
 References
 
 FR:Tashalar
+
+---
+
+## Tangled Trees
+
+The Tangled Trees was one of the four old elven communities of Cormanthyr (the others were the Elven Court, Myth Drannor, and Semberholme) in the great forest of Cormanthor. The village was once called Faelorin, though it was destroyed by the dragon Venom after its mate was slain. The rebuilt village became known as Tangled Trees.
+
+Description
+The village itself was large by the standards set after the Retreat in 1344 DR, though many of its residents were on patrols or otherwise wandering among the Tangled Vale along its networks of twisted paths and webbed throughways from connected tree forts to other platforms high in the branches. Its population largely comprised youngsters, adventurers, and others who did not join the Retreat.
+
+Geography
+Tangled Trees and its surrounding vale encompassed the Vale of Lost Voices to the north, and stretched east to Elven Court and southwest to the River Verire, though much of that territory was taken over by wyverns and the humans of the Dales. The territory was defined primarily by the twisted, tangled nature of the trees, a relic of the days of the dragon Venominhandar, and was inhabited primarily by the green elves of Cormanthyr. Tangled Trees lay on a higher elevation than the rest of the forest, and was home to many valleys and hills from the river's run off. The River Duathamper was the primary water source for the realm's inhabitants.
+
+Flora
+Tangled Trees was comprised primarily of oaks, firs, and elms, though they were the twisted variety that rendered travel nearly impossible in some places. The central and southern areas were more thickly populated by the trees, while the area near Rauthauvyr's Road was thinner and home to more humans. Some oak trees in the area had canaries carved into them. The canary was believed by the local elves to be the favorite creature of Rillifane Rallathil (the work of Makk Fireseed), and these oaks had been turned into shrines. Their upper branches were often adorned with the skulls of anyone who was caught interfering with them and subsequently killed.
+
+Fauna
+Tangled Trees remained home to a healthy population of deer, rabbits, and squirrels, though much of the former population was destroyed by the reign of Venom the dragon. The place used to be home to a large group of centaurs, though they fled east after the dragon came and never returned to the tangled woods.
+
+Relations
+As of 1374 DR, agents of the Eldreth Veluuthra were known to be operating near Tangled Trees.
+
+Inhabitants
+Hundreds of elves still occupied the area in the 14th century DR, but they were extremely hostile to outsiders and were likely to attack on sight.
+
+The elves of the Tangled Trees typically worshiped Rillifane Rallathil.
+
+History
+The area known as Tangled Trees lay in the Tangled Vale, the woods south of Elven Court. The area was once called the Emerald Vale, and during the rise of Cormanthyr, it was home to a sparse few wild elves. The area came to the forefront of the elves' attention in the year, when the woods and the hills of the area became inhabited by the great green dragon Venominhandar, or "Venom" for short, and his draconic followers. Venom was no ordinary dragon; the elves quickly recognized his startling intelligence, magic resistance (even to Elven High Magic), and his sway over the draconic forces he commanded, including young green and black dragons and many wyverns. What was worse, the dragon never seemed to sleep like others of his age and was never caught off guard.
+
+Over the course of five hundred years, Venom repulsed attack after attack from the elves, and gained more and more territory with each retreat the elves were forced to follow. The dragon used his innate powers of warp wood to shift the trees in his domain, twisting them together and forming a tangled, resistant terrain that the elves had difficulty penetrating, and thus arose the name of "Tangled Vale". By, his territory stretched to the River Verire to the south and west, and Old Elven Court to the north and east. Venom became a major threat to the elves and to Cormanthyr.
+
+By, the Cormanthyran army was spread out across the woods' northern borders, dealing with the Netherese exodus and survivor state conflicts from that nation, and thus could do little to fight Venom at the time. Green elves, growing frustrated with the army's lack of efforts in their homeland, were retiring from the Akh'Velahr and joining a resistance movement under the command of General Halflar Audark. For fifty years, Halflar led a crusade against the dragon, killing many of his minions in the time. In, the General, along with 300 of his men, finally stormed the lair of the wyrm and slew it decisively, driving off many of its minions in the process. Swelling with victory, they marched back to Myth Drannor with the dragon's head, when disaster struck.
+
+It turned out that the reason Venom was so alert was because he was in fact two dragons, a mated pair, thus also accounting for the amount of green wyrmlings in their command.  Halflar had slain the female, and the male caught up with the general and slew his entire brigade. The place of death was henceforth known as the Vale of Lost Voices, and became a place to lay elven warriors to rest. Despite the dragon's revenge, the damage had been done. He grew older and his territory shrunk, before his end finally came in . A moon elf warrior by the name of Jassin Aunglor, armed with a moonblade, entered his lair and attacked. After a great battle, the roof collapsed, and the dragon, Jassin, and the blade were never seen again.
+
+After the fall of Venom, the elves slowly moved back into the woods, trying to undo the tangled effect on the trees to little avail.  Eventually, with the raising of the Standing Stone in 1 DR, the elves gave much of the territory to the Dalesmen and carved a road through the forest to facilitate trade. It took two centuries after the Dales Compact, but eventually, the Tangled Vale became a habitable environment once again.
+
+On Tarsakh 5, 1373 DR, the red dragon Narlgathra appeared from the ruins of Myth Drannor and attacked Tangled Trees, killing almost all of its inhabitants.
+
+Other Settlements
+Tangled Trees was the only major settlement left in the area, and thus its name became used for the village as well as the entire vale or community. However, the area was once known to house other settlements, such as:
+ Duathamper: Formerly a large village, it served as a military outpost for staging attacks on the dragon Venom. It once had a number of tunnels beneath it to serve as hide-aways for the soldiers and places for weapons caches. It traded heavily with Myth Drannor.
+ Dysrisa: A small village whose residents were known for the skill with animal husbandry and was also a place to fetch rare berries and roots.
+ Eerienne: A former village that served as a retreat for elves disillusioned with the empire of Cormanthyr, highly xenophobic and distrustful of outsiders.
+ Faelorin: A small village that served as the staging point for General Halflar's attack on Venom the dragon. After the mate was slain, the other dragon destroyed the village almost entirely, despite the fact that it had been moved to the ground from the treetops to prevent aerial attack.  After its ruin, elves did return to settle the area, and it became the spot for the present-day settlement of Tangled Trees.
+ Sar-Andathl: A small military outpost once administrated by Tenyajn Haell, a general in the Cormanthyran army and considered one of the finest archers to ever live.
+
+Appendix
+References
+
+---
+
+## Tanarukk
+
+A tanarukk  was a breed of orc whose blood had been tainted by an evil outsider, in many cases a tanar'ri demon.
+
+Description
+Tanarukks appeared as short, stocky orcs with bristly hair, horns, or ridges along the sides of their heads. Their skin tones ranged from grayish green and dub brown. They displayed razor-sharp teeth and tusks that jutted out prominently from their lower jaws. They also had the distinctive smell of brimstone about them.
+
+Personality
+They were nasty, brutish, and not terribly intelligent (despite being smarter than an average orc).
+
+Abilities
+Due to its fiendish heritage, the tanarukk possessed a limited spell resistance, a limited resistance to fire, and a limited ability to manipulate fire.
+
+They were extremely dangerous fighters. In spite of their lack of personal magnetism, the tanarukks' instinctive ability to control flame led many to become sorcerers.
+
+Combat
+Tanarukks rarely wore any form of armor, with the exception of gauntlets, viewing their thick skin as being sufficiently protective. High ranking members of society like lieutenants and chieftains were most likely to wear armor, but they often removed it when facing a challenger for supremacy.
+
+Many were known to wield magic items of either orcish or fiendish origin. Some were known to even wield ancient items looted from the bowels of Hellgate Keep.
+
+Society
+
+Tanarukk society also differed from that of orcs in that they were far less patriarchal, treating their women better than their slaves. This was due to being influenced by the mariliths who were involved in Hellgate Keep's breeding program. Within the confines of Hellgate Keep the tanarukk were also isolated from their orc ancestors' tradition of animal husbandry. Once let loose upon the world they gradually began to engage in this practice, training boars and dire boars to be mounts.
+
+Many tribes were known to ritually scar their young, either during rites of passage or when they became full-fledged warriors, often using acid or jagged weapons.
+
+More still could be found acting as muscle for cambions and other fiendish creatures.
+
+Magic
+When it came to magic the tanarukk generally preferred to use spells that summoned outsiders, enhanced their own physical prowess, or involved the use of fire. Spellcasters among their kind were known as "fire speakers."
+
+Religion
+At some point following Kaanyr Vhok's disappearance, the tanarukk that made up the Scoured Legion adopted the worship of Garagos. From then on, in each generation a tanarukk would occasionally be born with an extra set of arms. These individuals were referred to as targaat and thought of as children of Garagos himself.
+
+Relations
+In general the tanarukks looked down upon any creatures they considered weaker than themselves and held a special enmity for elves. The only creatures they respected were demons and powerful fiend-touched beings, such as half-fiends. They viewed orcs and half-orcs as valuable allies, but did not consider them equals and would often coerce them into breeding with other tanarukk. Most other intelligent humanoid races that came across tanarukks were likely to be eaten and tortured, more often than not eaten alive.
+
+History
+
+The tanarukks originated as orc–demon crossbreeds inside the tanar'ri controlled fortress of Hellgate Keep, the products of a breeding program between demons and orcs that had been captured and enslaved. After centuries of mixing blood the tanarukk began to breed true among themselves and were regarded by other creatures as a separate species, rather than simply an orc sub-race.
+
+Over time, nine distinct tribes of tanarukk came to make up the inhabitants of the Keep. These tribes would serve as an army company, known as the Scoured Legion under the balor Grintharke, and later the cambion Kaanyr Vhok. Following the destruction of Hellgate Keep in 1369 DR, four of these nine tanarukk tribes abandoned the Keep's ruler Kaanyr Vhok and emigrated to the Nether Mountains. The other five - Hungerknives, Gorytusks, Scaleskulls, Balorclaws, and Bonefires - would rally around his aims to resurrect the Scoured Legion. This renewed force would emigrate into Ammarindar, taking the land for their own. In the years that followed Vhok would encourage the tanarukk to breed quickly, growing their army.
+
+A few years later, in the summer of 1372 DR, the renewed Scourged Legion would lay siege to the city of Menzoberranzan alongside duergar from Gracklstugh as part of an alliance with Jaezred Chaulssin. The siege ultimately was a failure, and the Scoured Legion were forced to retreat back into Ammarindar, dissolving not long after. The same year, the devil Gorgomorz amassed a huge army of tanarukka and orcs in his plot to raze the city of Daggerford in vengeance of being defeated and banished by Edwin Daggerford circa 1270 DR. The devil's forces were outfitted by the Zhentarim and the tanarukka of Gorgomorz's army bore a tattoo on their chests depicting a huge devil with a flaming greatsword. The Gorgomorz' army successfully breached the city's walls, but the devil himself was defeated and banished by the Hero of Daggerford while the guards of Daggerford pushed the surviving tanarukka, saving the city.
+
+Between 1372 DR and 1480 DR, the tanarukk population would greatly multiply. In those intervening years three different tanarukks would arise to take the role of High Warchief over the Scoured Legion - by 1480 DR a fourth leader had arisen, known as Ghiirvox.
+
+Notable Tanarukk
+Ghiirvox, a tanarukk with an unusual violet-blue skin tone who was the fourth High Warchief to head the Scourged Legion.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+de:Tanarukk
+es:Tanarukk
+
+---
+
+## Talosian shortspear
+
+A Talosian shortspear was a magical spear associated with the followers of Talos.
+
+Powers
+It was a +1 shortspear with the flaming and shock special abilities.
+
+Users
+They were commonly wielded by veteran members of the church of Talos.
+
+References
+
+FR:Lance talosiene
+
+---
+
+## Taragarth
+
+Taragarth, nicknamed the Bloodbrand, was a unique magic bastard sword.The Player's Guide to Faerûn states on page 126 that Taragarth was a +1 short sword but this is a retcon that belies the blade's history and description. All the other sources used in this article say it was a +3 or +0/+3 bastard sword.
+
+Description
+The blade of Taragarth appeared as if it had been tarnished by fire, save for along its edges, which gleamed. Just above the crossguard, a rune was etched into the metal of the blade—this was the maker's mark.
+
+Powers
+Even if the blade was sheathed, the bearer of Taragarth would be protected from extrasensory perception and all detection spells. Once drawn, the bearer would also be protected from flames as if they were wearing a ring of fire resistance and if they were to fall more than ten feet, they would be affected by a feather fall spell. The sword had a knack for cutting through foes, allowing a wide swing to affect multiple surrounding opponents.
+
+History
+Legend had it that Taragarth was forged by Elfgar of Silverymoon, who gave it to Aeroth of Silverymoon. Aeroth wielded it against the trolls of the Evermoors during the Long Battle against them and earned it its nickname of the Bloodbrand.
+
+Unfriendly towards Warlord Tulven Rayuthson, when he became ruler of Silverymoon, Aeroth sailed to the Moonshae Isles, but sages hold that Taragarth was abandoned in a disused well on the isle of Toaridge-at-the-Sun's-Setting so that his six sons could not bicker over it.
+
+Mind flayers discovered the sword at the bottom of said well and took it to the outpost of Tellectus, until it was looted by brave adventurers. The adventurer who claimed it, allegedly a Merchant Guard of Amn, lost it to bandits but a peddler eventually sold it in Berdusk for a measly four hundred gold pieces. The purchaser, an adventurer who recognized the blade, was dead less than a day afterward, murdered by his companion, the assassin Turl.
+
+Turl was in debt to his guildmaster, Iritan of Scornubel, and planned to use the sword to be free of said debt. The next anybody saw of him, Turl was dying in Waterdeep, of poisoned injuries, at the doorstep of the necromancer Marune. Turl gave Taragarth, as well as many other treasures, to Marune as payment in an attempt to save his own life.
+
+The next time Taragarth was seen was in the hands of Vulph, a warrior from Calimshan, who asked Elminster to identify the blade when they both found themselves in Westgate. Once the Sage of Shadowdale was done, Vulph took the blade back and promptly disappeared.
+
+Appendix
+Notes
+
+References
+
+FR:Taragarth
+
+---
+
+## Tantras (novel)
+
+Tantras, by Scott Ciencin,The first three novels of the Avatar series were originally released under the pen-name "Richard Awlinson." is the second book of the Avatar series.
+
+Summary
+
+Due to a misunderstanding, Adon and Midnight are accused of killing Elminster. They are freed by Cyric and set out with Kelemvor to recover the Tablet of Fate that Bane hid in Tantras. However, on the way to Tantras Cyric betrays the others, planning to claim the tablets for himself and become a god. They arrive to find the god Torm in Tantras, and his followers murdering followers of other gods without his knowledge. Bane is resurrected by Myrkul and attacks Tantras, fighting Torm’s avatar. Both gods die in the battle and Midnight recovers the first tablet.
+
+Index
+
+Characters
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Creatures
+ •  •  •  •  •  •  •
+
+ •  •  •  •  •  •
+
+Organizations
+ •  •  •  •  •  •
+
+ •  •  •
+
+Locations
+Buildings
+ •  •  •  •  •  •  •
+Geographic Features
+ •  •  •
+Landmarks
+
+Regions
+ •  •  •  •  •  •
+Settlements
+ •  •
+
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •   •
+
+Events
+ •
+
+Magic
+Items
+ •  •  •
+Other
+ •
+Spells
+ •  •  •  •  •
+
+ •  •
+
+Miscellaneous
+
+Religion
+ •  •  •  •  •  •
+
+ •  •  •  •  •  •  •
+
+Items
+Food & Drink
+ •  •
+Other
+ •
+Substances
+ •  •
+Vessels
+ •
+Weapons
+ •  •  •  •  •  •  •
+
+Appendix
+Notes
+
+Gallery
+
+References
+
+---
+
+## Tasloi
+
+Tasloi  were humanoid jungle-dwellers whose race was thought to be thousands of years old.
+
+Description
+Tasloi were  tall with gold, cat-like eyes; their green skin was thinly covered in coarse, black hair. They had a stooped, crouching posture and their knuckles dragged on the ground when they walked.
+
+Abilities
+Tasloi were known to be very quick and nimble as they moved between the trees, however, their eyes were easily dazzled in bright sunlight. Despite this, tasloi did possess low-light vision.
+
+Combat
+Tasloi normally attacked from above, dropping from the treetops onto unwary opponents. If they managed to gain surprise, they used nets to ensnare adversaries, otherwise attacking with their short swords and javelins. They always used hit-and-run tactics in order to wear down tough foes, thus avoiding any stand-up fights. Tasloi always tried to abscond with slain bodies, thus saving food for the group.
+
+Society
+Tasloi lived in small groups consisting of several families. Their lairs were usually a series of large trees interconnected by vines and ropes, constructed on platforms high in the jungle canopy. They rarely ventured above these canopies due to the sensitivity of their eyes.
+
+On the ground below the platforms they raised dire rats or spider eaters as beasts of burden and mounts. If the village did have any spider eaters, those beasts were reserved as steeds for the most powerful tasloi in the settlement.
+Homelands
+In the Shining South tasloi were known to inhabit the Forest of Amtar, Lluirwood, and the Great Swamp of Rethild.  Somewhere in the waters of interior Faerûn, tasloi were major inhabitants of the island of Tasloiomitasloi.It is never specified exactly what body of water the island is located in.
+
+Beyond Faerûn, tasloi could be found in the tropical and sub-tropical forests and mountains of Kara-Tur, including the Malatran Plateau.
+
+Beyond Toril, some tasloi could be found on the planet Bodi.
+
+Religion
+
+Most tasloi worshiped an aspect of Maglubiyet, the god of the goblins. Though those that inhabited Tasloiomitasloi worshipped a deity by the name of Loitasloitas.
+Languages
+Tasloi spoke their own language, though some were also known to speak common or Sylvan.
+Relationships
+Dakon were known to hold great hostility towards tasloi. This often resulted in violent conflicts with them and their banderlog allies.
+
+Appendix
+Notes
+
+Appearances
+
+Further Reading
+
+References
+
+---
+
+## Tahlshara
+
+Tahlshara was a magic two-handed sword sometimes considered to be the greatest elven weapon ever made. It was one of the three Great Treasures of Evermeet and was possessed by Queen Amlaruil Moonflower.
+
+Description
+It had leaves and vines carved into its surface with knotwork on the hilt. The name of the sword was present around the ferrule.
+
+Powers
+The weapon drastically improved its wielder's armor and could only be wielded by surface elves. Death was often the result of a non-elf handling it. The sword could be used to cast any high magic spell, or any of teleport without error, spellstrike, sunburst, spelltrap, turnshadow, or teleport dead.
+
+History
+The sword was the life's work of the elven armorer Kythaela Durothil. It was thought that its creation took over one hundred and fifty years and that Kythaela deliberately extended her life to complete it.
+
+Appendix
+References
+
+---
+
+## Tarthas
+
+Tarthas was a spellslinger who helped Kymil Nimesin in the attack on the Tower of the Sun on the island of Evermeet. He was the cousin of Lady Ammisyll Veldann.
+
+Appendix
+
+References
+
+---
+
+## Tamoko
+
+Tamoko was a ninja from Kozakura who served Sarevok in Baldur's Gate in the mid-to-late 14 century DR.
+
+Description
+Tamoko was under  tall, with smooth skin and physical strength.
+
+History
+She was born in  on the Kozakuran isle of Mikedono. Her father sold her to the ninja Konishi clan.
+
+Tamoko was trained in the secret Konishi dojo in Chimotoge, becoming a ninja of renown. However, one day she was sent to kill a high ranking wu jen, but the wu jen was prepared for her arrival and managed to push Tamoko through a portal to Athkatla in Amn. In fear both of the powerful wu jen and of the Konishi ninja for failing her mission, Tamoko remained in Faerûn and started working as an assassin until, in Baldur's Gate, she met Sarevok.
+
+Relations
+She was a lover of Sarevok, and did not wish for him to attempt to ascend to godhood and for that reason ended up being abandoned by him in favor of Cythandria.
+
+Abilities
+She could not read Common and had trouble with the language.
+
+Appendix
+
+Notes
+ In Baldur's Gate, Tamoko is first seen with Sarevok at the beginning of the game, when the protagonist and Gorion are ambushed by them and two ogres. In the cutscene, Tamoko curiously casts a Flame Arrow that does minimal damage to the protagonist, prompting Gorion to tell them to flee while he kills the ogres and incapacitates Tamoko with a Sleep spell.
+ The next time Tamoko is seen is near the end of the game, when she approaches the player’s party with information about how to find evidence of the criminal acts of the soon to be grand duke Sarevok. She explains that she wants the player character to defeat him but leave him alive in hopes that, stripped of his divine ambitions, he may again become the mere man Sarevok whom she loves. She believes it is his tainted blood that has ruined him.
+ The last time Tamoko is seen in the first game is when the player is approaching the temple of Bhaal that is the site of the final encounter in the game. Sarevok, angered at her betrayal, has sent her to die at the hands of the approaching player character, and she is determined to do so. By steadily refusing to kill her just because she is in their way, the player can show her they are different from Sarevok and thus convince her that his own attitude is more a matter of personal choice than she had realized. In this case, she will simply leave without a fight.
+ In Baldur's Gate II: Throne of Bhaal, a different version of Tamoko is seen briefly when the player character has to face an evil version of themselves in the second test in the Pocket Plane. This evil version also has a party that includes a Tamoko that wields what appear to be a katana and a wakizashi. Sarevok’s ending story also mentions that he went to Kara-Tur to bury the body of Tamoko, who was his true love.
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Tangled Webs
+
+Tangled Webs is the second book in the Starlight and Shadows trilogy by Elaine Cunningham.
+
+Summary
+The novel opens with Liriel Baenre rescuing Hrolf the Unruly from prison in Skullport to his ship, the Elfmaid. With the help of Liriel's magic, the Elfmaid is able to pass through the magical portals of Skullport to the Sea of Swords, heading for Ruathym with a few stops on the side.
+
+Meanwhile, Caladorn Cassalanter, sailing with seal-hunters on the Cutter in the waters near Luskan, captures a ship and discovers it is filled with barrels of pickled sea elves. The barrels are marked with Ruathen symbols, indicating a plot to implicate Ruathym in the tragedy. The Elfmaid picks up the Cutter and strands its occupants without realizing they had not been the perpetrators. The surviving crew is saved by Xzorsh, the sea elf ranger.
+
+It turns out that the High Captains of Luskan are planning a war against Ruathym, using falsified atrocities to turn Waterdeep and other members of the Lords' Alliance against the island. High Captain Rethnor allies with Vestress and the Kraken Society, based in Ascarle, and attempts to destroy the Elfmaid for interfering in his plans. The Elfmaid is able to escape only when Liriel calls on her clerical powers of Lolth, much to Fyodor's dismay.
+
+The Elfmaid eventually docks in Ruathym, where Liriel and Fyodor hope to find Yggdrasil's Child, a tree on which Liriel must carve a rune in order to keep her drow magic and enable Fyodor control over his berserker rages. The only one who is knowledgeable about rune magic, however, is Ulf the Shaman and he refuses to help Liriel until she has passed some sort of unspoken test. Meanwhile, trouble abounds in Ruathym: for some reason, islanders are disappearing, and the woman (Ygraine) prophesied to restore the shapeshifting berserker magic of Ruathym has apparently been killed.
+
+In the end, Shakti Hunzrin, Liriel's sworn foe, also allies with Vestress and Rethnor. Vestress seeks a kingdom to conquer using four steps: 1) obtain Liriel to cast out the drow banshee that has settled in Ruathym, 2) charm Wedigar with a nereid and force him to unknowingly shapeshift and kill people, 3) use Dagmar, Ygraine's twin sister, to kill selected Ruathen and plant kelpies in the water, and 4) use Rethnor's forces to weaken the people of Ruathym. In addition, Sittl, a malenti (mutated sahuagin taking the form of a sea elf) uses his friendship with Xzorsh and the sea elves to further harm Ruathym.
+
+When Liriel and Fyodor learn of Ascarle's influence, they and the Ruathen summon allies from the sea to defeat Ascarle and release the prisoners, including Ygraine, held there. Liriel's part in the battle includes defeating the drow banshee and briefly becoming an avatar of Lolth, after which she renounces Lolth altogether. Liriel is able to draw her rune on Yggdrasil's Child and control Fyodor's berserker rages; he, in turn, makes her his witch. The next step is to bring the Windwalker amulet to Rashemen to fulfil Fyodor's quest.
+
+Images
+
+Characters
+Main characters
+ Liriel Baenre, drow mage/cleric
+ Fyodor, beserker from Rashemen
+
+Supporting characters
+ Dagmar, daughter of Ulf the Shaman and twin sister to Ygraine
+ Hrolf the Unruly, captain of the Elfmaid
+ Ibn, first mate of the Elfmaid
+ Iskor, a water wraith
+ Shakti Hunzrin, drow traitor-priestess of Lolth and Vhaeraun
+ Sittl, a malenti (sahuagin) masquerading as a sea elf
+ Rethnor, one of the High Captains of Luskan
+ Vestress, illithid ruler of Ascarle
+ Xzorsh, a sea elf
+
+Minor characters
+ Aumark Lithyl, First Axe of Ruathym
+ Bjorn, member of the Elfmaid'''s crew
+ Caladorn Cassalanter, secret Lord of Waterdeep
+ Gromph Baenre, Archmage of Menzoberranzan
+ Olvir, member of the Elfmaid'''s crew
+ Ulf, shaman of Ruathym
+ Wedigar Ruthgaald, First Axe of Holgerstead and shapeshifter of Ruathym
+ Ygraine, twin sister to Dagmar
+
+Creatures
+ aboleth
+ banshee
+ giant squid
+ illithid
+ kelpie
+ merrow
+ nereid
+ sahuagin
+ water elemental
+
+Locations
+Primary locations
+ Sea of Swords
+ Ruathym
+
+Secondary locations
+ Ascarle
+ Skullport
+ Luskan
+ Menzoberranzan
+ Moonshaes
+ Trisk, Purple Rocks
+ Yartar, Savage Frontier
+ Waterdeep
+
+References
+
+de:Tangled Webs
+
+---
+
+## Tazok
+
+Tazok was an ogre bandit leader, agent of the Iron Throne, and a devoted follower of the Bhaalspawn Sarevok.
+
+Personality
+He was an exceptionally savage and cruel individual.
+
+History
+At some point during his career as a bandit, Tazok and his band captured and tortured the lovers Kivan and Deheriana. Only Kivan made it out alive, swearing revenge against Tazok when all was said and done.
+
+Tazok was an instrumental figure of the iron crisis that plagued the Sword Coast in the . He coordinated the efforts of the Chill and Blacktalons banditry efforts while guiding their leaders Ardenor Crush and Taurgosz Khosann to believe they were in fact working for the Zhentarim rather than the Iron Throne.
+
+By means of his subordinate Tranzig, he also supervised the sabotage of the iron mine of Nashkel. He made periodic visits to the Cloak Wood to see his superior Davaeorn.
+
+Later that year, Tazok stood by Sarevok's side when the Bhaalspawn made his last stand against his half-brother Abdel Adrian.
+
+Tazok somehow survived that encounter and later traveled south to Amn. the  Tazok had resettled in the Windspear Hills region of Amn.
+
+Appendix
+Appearances
+Novels;
+ Baldur's Gate (novel)
+
+Video Games
+ Baldur's Gate (game)
+ Baldur's Gate II: Shadows of Amn
+
+External links
+
+Notes
+
+References
+
+---
+
+## Tavernant
+
+Tavernant was a noble house of Cormyr. The family was extinct by the 15 century DR.
+
+Members
+ Lady Tavernant, the elderly and eccentric owner of Tavernant's Tellings in Suzail and last living member of the family as of 1367 DR.
+ Varland Hornrel Luthgard, a very distant relation
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tammarast
+
+Tammarast was a minor noble house of Cormyr, circa the .
+
+Organization
+The Tammarast family was relatively poor but remained loyal to Cormyr. However, certain laws pertaining to commerce imposed hardships on the family and their vassals.
+
+Activities
+The family business was raising cattle.
+
+Tactics
+Lord Ingleiyr was open to deals and methods that circumvented the rigid laws that reduced his business income. He was not above using his noble status for financial gain, as long as it did not amount to treason.
+
+Base of Operations
+The Tammarast family lands were located between the village of Ghars to the west and the Vast Swamp to the east. Crumbling Landuth Castle and its grounds were at the southern edge of the holdings. Two small settlements and around fourteen farms made up the rest, circa the 1370s DR.
+
+History
+Ingleiyr Tammarast was less than twenty years old when he became Lord of Landuth and he inherited a holding in financial trouble. His father lost money attempting to farm water plants that could grow in the Vast Swamp and Ingleiyr was focused on raising cattle as an alternative. He was approached by a Sembian named Chalipur Hathangos about selling his cattle directly to him, but Ingleiyr rejected the proposal because it involved leaving Cormyr and joining Sembia.
+
+Members
+ Ingleiyr Tammarast
+
+Appendix
+External Links
+
+References
+
+Connections
+
+---
+
+## Tathcrown
+
+Tathcrown was a noble house in Cormyr.
+
+History
+It had recently been ennobled by 1372 DR.
+
+Living members
+ Storn Tathcrown
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Talcontin
+
+Talcontin was a noble house of Cormyr.
+
+Members
+ Lord Brestim Talcontin
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Tarathiel
+
+Tarathiel was a moon elf from Moonvines in the Moonwood in the late 14 century DR.
+
+Description
+Tarathiel was not tall, and had an angular face with rich blue eyes and very pale skin. Like many moon elves, he had black hair.
+
+Equipment
+In ranged combat, Tarathiel used the type of bow known as a longbow. In close combat, he used a slender sword, as well as a dirk.
+
+History
+In the, Tarathiel guided Drizzt Do'Urden from the Moonwood to Mooshie's Grove after the drow met the grown-up Ellifain. He then left Drizzt in front of the cave from which the drow had originally emerged from the Underdark.
+
+A few years prior to 1370 DR, Tarathiel rescued a pair of pegasi, Sunrise and Sunset, as foals from the Spine of the World after they were attacked by giants and the rest of their group, including their mother, were killed.
+
+Years later, Tarathiel and his lover Innovindil left the Moonwood to search for Ellifain, an elf of their clan who wanted to kill Drizzt Do'Urden. They followed Ellifain to the city of Silverymoon, where her trail went cold.
+
+In the, when the orc king Obould Many-Arrows and his massive army of orcs and giants invaded the Silver Marches, Tarathiel fought bravely beside his lover Innovindil and Drizzt Do'Urden before being sliced in half by Obould.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Taulmaril
+
+Taulmaril, also known as the Heartseeker, was Catti-brie's magic bow, which passed on to Drizzt after her death (and remained with him even after her rebirth).
+
+Description
+Longbow
+Heartseeker was a beautifully crafted elven longbow +3 made of polished wood. The elven craftsmen made the bow so strong even stone cannot scratch the marvelous wood, and the deep finish of its polish can be returned by a single brush of the hand.
+
+Quiver
+The bow was also accompanied by the Quiver of Anariel, which contained twenty +1 alchemical silver arrows which never ran out. When an arrow was fired from Heartseeker, it became a whistling streak of silver light. Arrows launched from Taulmaril could easily bury themselves halfway into stone leaving a burned scorch mark. After a few minutes, arrows fired from Taulmaril magically dissolved, which caused a minor hissing sound.
+
+After the Spellplague, the arrows were depicted as having a lightning effect. Additionally, the arrows could apparently be enchanted with light to create a torch.
+
+History
+Originally the longbow was a gift from Lady Anariel, Sister of Faerûn, to Clan Battlehammer, but in 1356 DR, the Companions of the Hall entered the ruins of the Hall of Dumathoin in Mithril Hall and Regis found the bow hidden in a gap in the stone wall. Later, Catti-brie gave Taulmaril to Drizzt Do'Urden after she was injured in 1370 DR. He kept the bow in his possession even after Catti-brie's rebirth, since she was no longer in practice and generally used her new proficiency in magic.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Task
+
+Task  was the chaotic evil dragon god of  greed and selfishness.
+
+Description
+Task usually manifested as a huge dragon whose hide was so studded with coins and gems from snout to tail that it was impossible to determine the color of his scales.
+
+Realm
+Task's realm in the Dragon Eyrie was located in a region known as the Furnace because of it's volcanic activity. He dwelt in a rocky cave filled with a massive hoard, said to be the largest one of all, although followers of Astilabor disputed this. Red, gold and bronze dragon petitioners lived on his realm.
+
+It was also believed he had a lair in Pandemonium.
+
+Dogma
+While Astilabor was the deity of acquisition with no stigma of greed attached, Task was greed personified. He wanted it all, and it mattered not to him what he had to do or what it cost to others to obtain what he wanted. His worshipers shared the same attitude.
+
+Task revered greed and selfishness, and sometimes rewarded followers who showed these traits in excess. One such gift he granted to his followers was to turn them into hoarder dragons on death so they could guard their treasure from opportunistic looters. While it was thought that his rewards were never material, since Task was believed to be unable to gave up anything he owned, truly faithful, meaning greedy, dragons were rewarded with material goods created by Task himself, such as the case of the blue dragon Amilektrevitrioelis who was granted the Shackles of Amilek. The same item was believed to have been granted to at least two other exceedingly greedy dragons.
+
+Worshipers
+Task was revered primarily by evil dragons, especially reds, although he counted a few brass dragons among his faithful.
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Taerom Fuiruim
+
+Taerom "Thunderhammer" Fuiruim is a renowned master armorer and weaponsmith, as well as the owner of Thunderhammer Smithy in Beregost during the mid−14 century DR. He was very well-respected in his town and considered one of the finest smiths in the entirety of the Sword Coast.
+
+Description
+Taerom was massive in stature, standing over  tall and measuring nearly  wide at the shoulders. He had brown hair, streaked with gray that extended down into big muttonchop sideburns. He was something of a gentle giant, expressing himself with soft words in contrast to his imposing presence.
+
+Activities
+Taerom Fuiruim had extensive knowledge of the use of rare and exotic ores in metal-crafting, along with other materials. He was even capable of crafting a suit of plate mail out of the chitinous shell of ankhegs.
+
+Possessions
+In battle, he wielded a massive iron staff, with which he could reportedly slay an orc with one deft strike.
+
+Relationships
+The master blacksmith employed over a dozen apprentices at his smithy, including Surrey, who left his position to seek better work during the iron crisis.
+
+He often worked in concert with the enchanter Thalantyr, forging items that were well-suited for magical enchantment by the eccentric mage.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate
+
+External Links
+
+References
+
+---
+
+## Tarl Desanea
+
+Tarl Desanea was a blind, retired adventurer who lived in the city of Phlan with his wife Shal Desanea.
+
+History
+Tarl was a cleric of Tyr from Vaasa who began his training in his order when he and his fellow brethren were tasked with transporting the Hammer of Tyr. During a battle with undead, Tarl instinctively called the Hammer of Tyr to his hand while battling vampires. Although he was forced to give the hammer over to the Master Vampire to save his friends, Tarl would later adventure with Ren o' the Blade and Shal Bal to retrieve the holy relic, which was being subverted by the Master Vampire's evil. Soon afterwards, he married Shal.
+
+Ten years later, Tarl was among the defenders of Phlan when Bane transported the city to an underground cavern in order to subvert it. With Shal, Ren, and those accompanying Ren at the time, Tarl destroyed the Pool of Darkness empowering Phlan's captors by throwing the Hammer of Tyr into the pool. However, due to Bane's machinations, Tarl was unable to reclaim the artifact. It was during this that Tarl's son was born.
+
+Tarl was blinded when he took an almost fatal blow during the defense of the Death Gates in Phlan. However, he gained the ability to see magical emanations and creatures of shadow, and used this ability to defend his temple. While his son was questing for the Hammer of Tyr, Tarl managed to subdue his self-pity in order to defend Phlan once again.
+
+Description
+He was a handsome, middle-aged with silver-white hair. His gentle blue eyes stared blindly from their sockets.
+
+Appendix
+
+References
+
+Sources
+
+---
+
+## Talboskh House
+
+Talboskh House was a mercantile family in Mirabar in the 1360s DR.
+
+Members
+ Elyth Talboskh, councilor on the Council of Sparkling Stones.
+
+Appendix
+
+References
 
 ---
 
@@ -871,6 +1653,236 @@ de:Targos
 
 ---
 
+## Taark Shanat
+
+Taark Shanat, known as the Crusader, was a dwarf and the founder of the kingdom of Shanatar.
+
+History
+Around, Taark and his eight sons left Bhaerynden, leading a great migration of dwarves journeying westward, and sought to establish a new kingdom. These emigrants eventually took the name "shield dwarves".
+
+Around, the Cloaker Wars broke out, in which Taark and his dwarves came up against the inhabitants of Rringlor Noroth. Taark slew four blue dragons in the Rift of Dhalnadar and the dwarves were victorious.
+
+The skulls of the four blue dragons were brought together by a deity, probably Dumathoin, to form the Wyrmskull Throne, and the site was renamed Brightaxe Hall, founding the kingdom of Alatorin and this is what shield dwarves consider to mark the First Great Age of Shanatar. They founded the great empire of Shanatar beneath the lands that would later be known as Amn, Tethyr, Calimshan, and the Lake of Steam.
+
+Appendix
+
+References
+
+---
+
+## Tanalasta Obarskyr
+
+Tanalasta Obarskyr (known informally as Tanny or Tana) was the eldest daughter of King Azoun IV and Filfaeril Obarskyr. She was the heir of the throne of Cormyr until her death in the .
+
+Relationships
+It was rumored that she was having a secret romance with Aunadar Bleth.
+
+She had conflicts with her parents about her belief in Chauntea. She was the mother of Azoun V.
+
+Description
+Tanalasta was thin and stood  tall. Tanalasta had long dark brown hair and blue eyes. Some found her rather plain and delicate in appearance, while others found her exceptionally beautiful.
+
+Possessions
+Tanalasta had a hollow metal sphere that, upon spoken command, could transform into a key to unlock a secret vault in the depths of the royal palace. It was one of only five; the others possessed by the king, queen, Vangerdahast, and Tanalasta's sister, Alusair.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Tanithe Beyross
+
+Tanithe Beyross was the Lord-Mayor of the city of Saradush in 1369 DR.
+
+Appendix
+
+References
+
+---
+
+## Tabra
+
+Tabra was a Netherese human wizard and archmage and the proprietor of a festhall and rooming house in Bargewright Inn, appropriately named Tabra's, in the mid-to-late 14 century DR. She was also the last human apprentice of Ioulaum, a surviving archwizard of Netheril.
+
+History
+The Last Apprentice of Ioulaum
+Tabra was born amongst the refugees of the fallen empire of Netheril in the early 4 century DR.It is actually unknown when or where Tabra was born, but Lost Empires of Faerûn p. 101 mentions Ioulaum selected "apprentices from among the most promising Netherese refugees", so Tabra is assumed to be one of these. They could be from the fall of Netheril in  or one of the various successor states, most recently Hlondath, which was abandoned the same year as Tabra's first appearance. Given her apparent youth and lack of other known sources of longevity, Tabra is presumed to be born in the early 300s DR, likely coming from around Hlondath. For her magical potential, she was among those young Netherese discreetly selected as apprentices by no less a mage than Ioulaum, one of the last Netherese sorcerer-kings to survive the fall of Netheril and joined him at his hidden lair in the Northdark. She would be his last human apprentice, for Ioulaum also took mind flayer apprentices from the neighboring illithid colony of Ellyn'taal, who formed a dozen-strong cabal of illithiliches known as the Alhoon.
+
+Then, in Ellyn'taal in the, Tabra witnessed what she thought was a spell-battle in which the Alhoon turned on and slew their master Ioulaum. (In fact, Ioulaum had betrayed the Alhoon, conducting a rite to turn their minds into an undead elder brain into which he merged his own sentience, killing his body and most of the illithiliches in the process.) In the aftermath, the mind flayers of Ellyn'taal caught Tabra and tried to sacrifice her to some dark deity. To escape and get revenge for her murdered master, Tabra cast his just-perfected, greatest spell, Ioulaum's longevity, and thereby massacred the city's entire population,Volo's Guide to the North p. 222 says that Tabra used the spell to escape being sacrificed by illithids, while Lost Empires of Faerûn pp. 99 and 100 have her attack them in revenge. This article attempts to merge both versions. Furthermore, the former implies a single casting slaying over 2,000, while the latter says Tabra slew only a few survivors and made many repeated castings later. Taken together, and given the limited area of the spell, it may be that Tabra used multiple castings across the city. more than 2000 in number. Since this spell granted a year of life at the cost of the death of one mage, by the time she was done, Tabra had gained a lifespan of over two millennia.
+
+Afterward, Tabra destroyed every last record of Ioulaum's longevity, apart from her own and Ioulaum's hidden writings,Again, Volo's says "destroyed all records" and "has no plans to recreate the spell", implying she even destroyed her own, while Lost Empires specifically has her retain her own. so that it could not be used by villainous mages who would not baulk at its terrible cost. She then escaped to the surface world.
+
+Tabra of the North
+Thereafter, she continued to live in the North and, as of the 14 century DR, she had been there for as long as anyone, even Elminster, could recall. She'd used roughly half of her vastly extended lifespan, but had no intention to recreate the spell and gain any more years. Nevertheless, she was known to have used it more than once.As noted, Lost Empires has Tabra make "many subsequent castings of that epic spell", while Volo's Guide implies only once. In a 2006 Candlekeep forum post, Ed Greenwood says she'd cast it twice, with details of the second casting under a non-disclosure agreement. This was never resolved, but may refer to her inclusion in Lost Empires of Faerûn, published the previous year.
+
+By the 1350s DR, Tabra was known as the owner of the eponymous festhall and rooming house in Bargewright Inn.
+
+Some time in the mid-1350s DR, a black dragon descended on Bargewright Inn with the intent of assaulting the settlement. According to local legend, Tabra jumped off her bedroom balcony, transformed midair into a dragon herself (those who tell the story disagree on the type), and chased it off. True or not, Tabra hated the tale and angrily evicted anyone who dared repeat the story in her earshot.
+
+Prisoner of the Shadovar
+In the, however, Tabra disappeared from Bargewright Inn, her whereabouts unknown. The Shadovar of the returned Netherese enclave of Thultanthar had kidnapped Tabra and taken her to the City of Shade. The Princes of Shade and Telamont Tanthul himself sought information on Ioulaum's fate, particularly his longevity spell. Over the following century and more, Telamont kept her captive, enslaved her, tortured her until her body was broken and scarred, and ransacked her mind until she lost all her kind nature and knew no joy ever again. When Telamont had no use for her, he kept her in magical stasis, so she knew no peace either. Yet she never gave up her secrets.
+
+Tabra awoke from the stasis in which the Shadovar had put her in the, with the death of Telamont Tanthul and escaped the crash of Thultanthar, taking Telamont's damaged gauntlet as a souvenir. Afterward, she took refuge in an abandoned mage's tower, but the Shadovar arcanist Eluraunt Malabrak of the Three came seeking magic in the tower. Tabra caught and killed him, but not before he gave up the location of four other arcanists: the Oldspires mansion in Cormyr. Desiring revenge and having no fear of death, she set out to destroy all surviving Shadovar arcanists.
+
+In Tarsakh of the, during a spellstorm, Tabra went to stay at Oldspires, where she finally met Elminster and was fascinated to learn how he'd slain her nemesis Telamont. Learning of the Lost Spell, she openly admitted she would use it for revenge. Thereafter, Tabra competed with other archmages for the possession of the Lost Spell and took advantage of the situation to kill those archmages who had consorted with the Shadovar, including Runemaster Skouloun of Nimbral and Yusendre. Runemaster Calathlarra tried to kill Tabra first but was ultimately killed by her in the fight, by means of her poisoned nail. She also tried to kill Malchor Harpell and Manshoon, her mad quest for revenge against Thultanthans having grown to those who'd aided them and those who'd not done enough in her eyes to stop them. In the end, Elminster solved the murders in the house and confronted Tabra about hers. He made her vow to leave Malchor alone and she left with Mirt and Myrmeen Lhal.
+
+Description
+The Ioulaum's longevity spells she'd cast meant Tabra continued to appear as a teenaged girl, even more than a millennium later. She was blonde, petite, and impish in appearance, with dark expressive eyes that displayed her experience, maturity, and all the years beyond counting she'd seen.
+
+But after a century of torture by Telamont Tanthul, Tabra's face and body were left heavily disfigured, asymmetrical, and scarred and she was emaciated. She had intricate tattoos on her inner forearms, and she kept the nails of her little fingers pointed to use as quills, so they were often ink-stained, but this was a cover for sarbrathrael poison on the left.
+
+Personality
+Though she looked to be much too young to be managing a festhall or thinking of men, Tabra was mature and motherly. She was kind and focused on helping people and making them happy. Her long years had seen her grow from being free-willed to more good-hearted. She claimed to have no knowledge of magic, and she'd used her spells less and less over time by the mid-1360s DR.
+
+All this was lost in the Shadovar's torment, leaving Tabra joyless and intimidating, seeking vengeance and claiming to have come to enjoy the pain. She regretted she could not kill Telamont herself. She said she no longer had a sense of humor, yet still made jests and gentle mockery.
+
+Abilities
+Despite keeping her skill with magic a secret as much as she could, Tabra was a full-fledged archmage and had prepared a full suite of spells at all times.
+
+Among these, she knew the potent old Netherese spell dragonshape, a form of shapechange, which of course allowed her to transform into a dragon. She only used it rarely when either she or Bargewright Inn were seriously threatened by powerful forces.
+
+She also knew the spell of epic magic known as Ioulaum's longevity, of which she'd destroyed all other records. This was the source of her prodigious lifespan. However, she had no intention of recreating such a terrible work of magic.
+
+Possessions
+Tabra owned at least two properties: her festhall in Bargewright Inn and a house in Waterdeep. She had also accumulated a great deal of riches, which she concealed in various places. These included caches in the roof and in her canopied bed in her festhall, and another in her Waterdhavian house. At Tabra's, she had an extensive library of books, chapbooks, and scrolls covering every subject except, oddly, magic. These were available for guests to read.
+
+Activities
+While at Bargewright Inn, Tabra tried to help or improve the mood of the people she met, usually with discreet gifts of money or services, her magic, or just a simple quiet talk.
+
+Relationships
+Tabra stayed away from the other great archmages of Faerûn, like Khelben Arunsun and Elminster Aumar and. While two of the Seven Sisters, Laeral Silverhand and the Simbul, had somehow learned the truth about Tabra and her life, and had shared it with Khelben and Elminster, they also firmly asked them not to bother her, to respect her privacy.
+
+She worked with the Harpers many times and was a valuable all to them, but she declined to join the organization herself.
+
+Rumors & Legends
+Some folk, such as Volo, thought Tabra to be a mage, but she denied all knowledge of magic.
+
+More amazingly, other people whispered that she was in fact a gold dragon in human guise and protecting a treasure hoard beneath the building. Supposedly she was hiding from a mightier dragon that would wipe out her and the whole community if the truth was ever revealed, hence why she hardly ever showed her true form. Of course, such rumors arose from her long life and unageing appearance and the occasional time she did turn into a dragon.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Taern Hornblade
+
+Taern "Thunderspells" Hornblade was the High Mage of the city of Silverymoon, having succeeded Alustriel when she took the office of High Lady, and member of the Council of the Marches.
+
+Description
+Taern was tall and gray-bearded, appearing grave and thoughtful most of the time.
+
+Personality
+Although reckless in his youth, in his later years Taern preferred to avoid confrontations. By striving for consensus where possible and working hard at building friendships, Taern tended to reach decisions through alliance with others.
+
+Abilities
+A powerful Evoker, Taern's nickname, "Thunderspell", was earned during his early Magefair duels where his mastery of potent battle-spells became known. During his tenure among the Spellguard he showed his prowess in defense of Silverymoon by facing off against a dracolich.
+
+Relationships
+Taern had a deep and abiding love of Alustriel.
+
+Possessions
+Taern's signature weapon was his namesake longsword Hornblade, which is a famous and heavily enchanted blade. It had a number of magical properties that are extremely useful to Taern, as well as being a potent weapon in its own right. It had the sending ability, allowing messages to be sent to multiple recipients; the power to store two spells within it, rather that one; and an attunement with the ward initiates if Silverymoon, requiring their grasp to function correctly.
+
+Taern had a rat familiar called Vesk.
+
+History
+Born in 1204 DRAlthough The Grand History of the Realms lists Taern's date of birth as 1304 DR this date conflicts with other works which cite Taern as being active prior to then. Most notably the founding of the Spellguard of Silverymoon in 1255 DR, which Taern was famously responsible for. In Ed's Candlekeep responses he points out the discrepancies of Taern's exacting birth. From these two sources we can see that the Grand History is either a misprint or merely the 'public', rather than true, birthdate of Taern. Hence this article has settled on 1204 DR as a compromise. Feel free to discuss this in the talk page. Taern earned his nickname, "Thunderspell", early in his life from attending magefair duels and showcasing his deadly battle-spells. He is also a longtime member of the Harpers.
+
+Taern founded the Spellguard of Silverymoon in 1255 DR as a bodyguard unit to protect Alustriel.
+
+In 1361 DR, Taern and Alustriel defeated two archmages of the Cult of the Dragon that had arrived outside Silverymoon. However while Alustriel was drawn away from the city, Taern and his Spellguard were forced to battle a Dracolich that had assaulted the southern walls.
+
+Sometime before 1372 DR, Thunderspell created cloaks of protection versus chaos in preparation to defending his home, Silverymoon, from an army of deadly and chaotic orcish army. Many of these cloaks were given out to the defenders of the city, its rangers and fighters. With years passing, many of these enchanted cloaks found their way into many places along the Sword Coast.
+
+Before taking over the supreme office of the city he was the leader of the Spellguard of Silverymoon.
+
+During the 1480s DR, the leader of Luruar Methrammar Aerasumé sent Taern, who remained in good health thanks to potions of longevity, as his delegate at the Council of Waterdeep, formed to deal with the emergent Cult of the Dragon. Methrammar selected Taern for his high diplomatic skills.
+
+Activities
+Hornblade sat as a Peer on the Council of the Marches representing Silverymoon, though he followed Alustriel's wishes whenever they were expressed.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Taldeth Truesilver
+
+Taldeth Truesilver was a member of the Truesilver house in Cormyr and was rumoured to have pursued princess Tanalasta Obarskyr for courting.
+
+Appendix
+
+References
+
+---
+
+## Tannuth Ormbyr
+
+Tannuth Ormbyr is the owner of The Net of Pearls, a curios store in Marsember, Cormyr. He has visible scars, and can find adventurers or mercenaries for a fee, or offer his services to retrieve people or items imprisoned or confiscated by the Crown. He knows a lot about Marsember, but will only talk about its history, refusing to talk about the present-day city. He also has many contacts in Sembia.
+
+Notes
+
+---
+
+## Tantuss Shieldsun
+
+Tantuss Shieldsun  was an adventurer and guide who operated in the North.
+
+Description
+Tantuss was a notably tall man, his face framed with black hair and a bushy beard.
+
+Personality
+While known to be shy around women, Tantuss was particularly bashful around priestesses of his own faith. He regularly bowed more often than necessary in order to hide his blushing cheeks.
+
+Relationships
+While also an active Harper, Tantuss was known to tutor fellow rangers for a nominal fee. He always donated what he did not need to live to the Church of Mielikki.
+
+Appendix
+References
+
+---
+
+## Taerl
+
+Taerl was the leader of Ship Taerl and one of the five High Captains of the city of Luskan. Along with the others he was an experienced adventurer and a former pirate.
+
+History
+In 1361 DR, Taerl served as the First High Captain.
+
+References
+
+Sources
+
+---
+
+## Taslythor Rocktapper
+
+Taslythor Rocktapper, who also went by the name Paerro, was a pickpocket and burglar within the city of Waterdeep in 1372.
+
+History
+Quickly falling into the life of a thief through necessity, Paerro eventually became quite skilled under the tutelage of Thear Chessar. It had been so long since he had been caught by the City Watch that they believed Paerro had left the City of Splendors.
+
+Appendix
+
+References
+
+FR:Taslythor Roctape
+
+---
+
 ## Taegan Nightwind
 
 Taegan Nightwind was an avariel from Impiltur that lived in the 14 century DR.
@@ -941,6 +1953,939 @@ Short Stories
 New in Town
 
 References
+
+---
+
+## Tapeyzin
+
+Chief Tapeyzin was the founder of the Maztican city of Michaca.
+
+He recognized that the abundance of gold in the area was causing men to become greedy and try to obtain personal wealth, and instead decided to use the gold to build a city that would serve as a tribute to the gods.
+
+References
+
+---
+
+## Tavaray
+
+Tavaray (or the Free City of Tavaray) was a human settlement on the later site of the Lizard Marsh at the mouth of the River Delimbiyr. It was established in  by settlers from Ruathym. This sparked a wave of settlement along the Sword Coast North.
+
+It was abandoned in 302 DR, prompting a wave of migration northward along the coast and eastward up the lower Delimbiyr Vale.
+
+Appendix
+References
+
+FR:Tavaray
+
+---
+
+## Tarr Burnig
+
+Lord Tarr Burnig was a member of the Burnig Cormyrean noble family.
+Description
+Tarr was a large, musclebound man with a bushy red beard.
+History
+Tarr and five other noblemen were part of an informal group who secretly debated the Obarskyr succession and who they should support until they were killed by an unknown assassin in a seedy tavern in Suzail.
+Appendix
+Appearances
+
+References
+
+---
+
+## Takari Moonsnow
+
+Takari Moonsnow was a wood elf and ranger and wizard of Evereska who served under Galaeron Nihmedu as a member of the Evereskan Tomb Guard during the mid–14 century DR.
+
+Description
+She had a slender and elegant form, with wide innocent-looking eyes.
+
+Personality
+A playful and happy elf, Takari was noted as being quite different in battle, where she was particularly focused. Like others of her kin, she was mistrusting of humans. She was known for being rather unpredictable, especially when dealing with humans.
+
+Relationships
+Takari and her squad leader Galaeron served together for many years and they enjoyed an intuitive bond with one another. Takari believed that he was her 'spirit-deep mate' but had yet to realize that fact. In fact, Galaeron was of the opinion that only misfortune befell moon and wood elves, when they chose to partner, as evidenced by his parents parting ways.
+
+History
+Early Life
+Takari grew up among the wood elves of the High Forest, in Reitheillaethor. It was not until Galaeron Nihmedu visited the High Forest that Takari considered leaving the woodland realm. She had fallen in love with the Evereskan elf and, despite Galaeron not reciprocating her feelings, Takari followed him  to Evereska in the, and joined the Evereskan Tomb Guard.
+
+Freeing the Phaerimm
+In Nightal of the, Takari, Galaeron, and their fellow Tomb Guards responded to human crypt-breakers in the southern Desert Border, within the ancestral crypts of House Vyshaan. There they encountered a band of Vaasan warriors led by Vala Thorsdotter, along with an enigmatic sorcerer named Melegaunt. After a fight broke out between the two groups, an unfortunate combination of shadow magic and Weave magic opened up the Sharn Wall barrier, and let loose the horrific phaerimm upon the Realms.
+
+The humans and elves fought together and slew one of the terrible creatures, but unfortunately Takari was pierced by its tail barb. She was left in a weakened state, and Galaeron rushed her to Evereska on horseback for healing at the Hall of the High Hunt. Melegaunt offered his healing powers to those of the Hall's Singing Spring, and Takari was expected to make a full recovery. Nonetheless, Galaeron directed that she return to the wood elves of Reitheillaethor for a year to recover.
+
+Retrieving the Karsestone
+Takari was reunited with Galaeron and his new human companions—and their new friend Aris the stone giant—when their traveling party arrived at Reitheillaethor within the High Forest a few days later. Takari teased Galaeron and tried to get him to join in celebration with her fellow wood elves, but saw that he had changed during their short time apart. She joined the group's trek north through the High Forest, to retrieve the Karsestone from within the Dire Wood, on their quest to undo their mistake of freeing the phaerimm.
+
+After passing through the Pale Ring, Takari introduced Galaeron and the others to Jhingleshod, the half-golem that could lead them to the ancient ruins of Karse. Their journey took them along the path of the Heartblood River. The group were attacked by a swarm of undead and Galaeron risked his life, along with those of Takari and Melegaunt, to race to Vala's rescue. Takari was left heartbroken. Eventually, they reached the Shrine of the Undying Heart atop the Karsus Butte, and found the Karsestone within. A terrible battle broke out between the companions, Jhingleshod, and his lich master Wulgreth, and Takari was left in mortal danger. Galaeron ignored her cries for help while focused on the magic of the Karsestone, but fortunately Vala came to Takari's rescue. Takari remained deeply wounded, both in body and spirit, and just barely remained conscious as Galaeron used the Karsestone to summon Thultanthar back to the Prime Material plane.
+
+Evereska–Phaerimm War
+She was estranged from Galaeron for a while and, during the later part of the Evereska–phaerimm war, she decided to bed Kuhl in order to get pregnant and thus be able to wield his family blade, a darksword.
+
+Following Kuhl's death, and the victory over the phaerimm, she traveled to Vaasa with Galaeron and Vala.
+
+Appendix
+
+Appearances
+Novels
+Return of the Archwizards: The Summoning • The Sorcerer
+
+The Siege
+
+Further Reading
+ Dragon #281: "Rogues Gallery: Heroes of the Summoning"
+
+References
+
+---
+
+## Tammar
+
+Tammar was a large town in Thesk.
+
+As of 1372 DR, it had a population of 3,594.
+
+It was razed by the Tuigan Horde and subsequently besieged by bandits who took heavy tolls from passing caravans. The government of Thesk hired a hundred orc soldiers to rid the town of the bandits and these orcs were later hailed as heroes in Tammar. The town was since rebuilt.
+
+Appendix
+Appearances
+
+References
+
+FR:Tammar
+
+---
+
+## Tamarand
+
+Tamarand was a gold great wyrm who was the King of Justice as of the late 15 century DR. He was also a Chosen of the dragon god Bahamut.
+
+Personality
+Tamarand was thoughtful yet decisive. He was very wise, and was one of the few dragons who was knowledgeable about the customs of humans and demihumans. In fact, he studied humanoid cultures and organizations, largely out of concern for how dangerous they could be. He was also one of the few gold dragons that was relatively friendly to non-dragons, although he disliked being visited in his lair.
+
+Activities
+Tamarand was the King of Justice, the nominal "ruler" of gold dragons. Other gold dragons would consult with him before any major undertaking to be certain that their course of action was wise.
+
+Before the 15th century DR, Tamarand had a lair in a huge cave complex beneath the mountains near Bloodstone Pass. The area was also home to a clan of storm giants, who were in good terms with the gold dragon. Tamarand's lair was one of the few known gold dragon lairs in all of Faerûn. In the 15th century DR, Tamarand had made another lair in the wilderness of Vaasa, and kept the location of this lair completely secret.
+
+Relationships
+He was a recurrent ally of the Talons of Justice. He and his followers opposed the Warlock Knights of Vaasa. When the giant kingdom of Kultaakarr arose in the late 15 century DR, he shifted his attention to oppose them, although he maintained a good relationship with the storm giants of the Galena Mountains.
+
+Before he became the King of Justice, Tamarand served as the second-in-command to the former king, the gold dragon Lareth, who considered him his brother. During that time, he was second only to the King of Justice in dragon society.
+
+History
+At some point prior to 1357 DR, a large group of dragon hunters from Vaasa tried to kill Tamarand in his lair. However, Tamarand had learned about the attack beforehand and called other four gold dragons for help, and the Vaasan hunters were almost all killed in the ensuing battle.
+
+On Flamerule 8 of the Year of Rogue Dragons, 1373 DR, Tamarand reluctantly challenged Lareth for leadership of all goodly dragons after Lareth's reasoning and judgment had been corrupted by the Dracorage. Lareth, teetering on the edge of madness as a result of the Rage, eagerly accepted, wrongly suspecting Tamarand was about to betray him. At first Tamarand tried to subdue Lareth, using only spells to disable him, but finally Tamarand was forced to deliver a fatal blow. As required by the protocols of the Ptarian Code, the gold dragon Larendrammagar and the silver dragon Havarlan bore witness to the battle. Tamarand was greatly grieved from killing his superior and brother, and initially did not accept the mantle of royalty.
+
+Almost immediately after slaying Lareth, Tamarand was forced to fly to the Monastery of the Yellow Rose, and lead a group of metallic dragons in lifting the siege of the monastery from a flight of chromatic dragons sent by Sammaster.
+
+After the last Dracorage, he and Larendrammagar helped the Talons of Justice in some of their missions. Their last mission was to help the Talons locate a former member of the order who had become a rebel, the dragon Arendelonthos.
+
+By the, Tamarand had finally became the King of Justice, and a Chosen of Bahamut as well. That year he led his followers to stand in opposition against the Warlock Knights of Vaasa and the titans of Kultaakarr. He continued to hold the title of King of Justice into the 1490s DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tanyl Evanara
+
+Tanyl Evanara was an elven chief war wizard of the Tower of the Sun on Evermeet.
+
+Description
+Tanyl was tall and thin even by elven standards.
+
+Personality
+Dedicated to the defense of the island, Tanyl specialized in the development of new spells particularly of a military nature.
+
+Possessions
+In battle, Tanyl wore enchanted mail and a helmet in the shape of a dragon. He wielded the sword Tanduras which had the ability to steal life from evil creatures and wore a ring of spell turning.
+
+References
+
+---
+
+## Tanduras
+
+Tanduras was a magical sword that had abilities similar to a sword of life stealing against evil creatures.
+
+As of 1368 DR, it was possessed by Tanyl Evanara at the Tower of the Sun on the island of Evermeet.
+
+Appendix
+References
+
+---
+
+## Tanithil Eroth
+
+Tanithil Eroth was a moon elf elder of House Eroth in 1367 DR.
+
+Personality
+Like his sister, Anaharae Eroth, he was a skilled ranger and was rumoured to serve Queen Amlaruil Moonflower.
+
+References
+
+---
+
+## Tamnaeuth
+
+Tamnaeuth was a very old elf armorer who lived in Leuthilspar on the island of Evermeet in the mid–14 century DR.
+
+He created high-quality swords, mail, and plate armor. Most of his pieces were enchanted and often became legendary both on Evermeet and in the world at large. He didn't charge a fee for his creations, instead offering them to people he chose, trusting that if elves with influence accepted his works it would bolster his reputation. In exchange for this, the recipients of his items provided him with food, clothing, and other things he needed.
+
+Appendix
+References
+
+---
+
+## Taleisin Starym
+
+Taleisin Starym was a clan elder and Lord Protector of the Starym elven clan, uncle by marriage of Ysmyrl'da Starym. He was a bladesinger and former member of the Akh'Velahr as an arykérym cavalry. Taleisin, along with the clan heir Josidiah Starym were elves of great honour, and after the clan broke ties with the Coronal and most abandoned Myth Drannor, these two rebuilt the reputation of the family.
+
+References
+
+---
+
+## Tannivh Irithyl
+
+Tannivh Irithyl was fifth Coronal of Cormanthyr, ruling from  to . He is known for having successfully routed the drow from the Twisted Tower in, passing control of the tower to followers of Eilistraee. In gratitude to the reformed and surface-acclimatized drow who helped in the downfall of the tower, he granted them rights to settle remote woods east of  Cormanthor. He died in, passing the rulership of the realm to his son, Eltargrim Irithyl.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Talmost
+
+Talmost  was a Waterdhavian house that was known as one of the city's foremost clothiers and furriers. They managed widespread trapping and fur-trading operations in the North and operated prosperous silk trading and crafting businesses in Calimshan. They had close ties to the League of Skinners and Tanners and the Solemn Order of Recognized Furriers and Woolmen.
+
+Thanks to recent events, they had a reciprocal emnity with House Melshimber.
+
+History
+House Talmost first came to prominence during the reign of the Kingdom of Man.
+
+Members
+ Delaeya Talmost
+ Hyara Talmost II
+ Pallin Talmost
+ Pallin Talmost II
+ Hyara Talmost
+ Delsinger Talmost
+
+Items
+ Crown of Talmost
+
+Family Tree
+
+References
+
+Connections
+
+---
+
+## Taer
+
+Taers  were medium-sized humanoids possibly related to giants.
+
+Society
+Homelands
+Taer typically dwelt in caves on frigid mountainous regions of the Unapproachable East, chief among them the Giantspire Mountains and Icerim Mountains. They were also known to inhabit the area around Icewind Dale. Taer traveled farthest from their homes during the winter season, pillaging whatever they come across, but in warmer seasons they kept to their mountain ranges.
+
+Beyond Toril, these creatures could be found on the planet of Oerth.
+Religions
+Like many races in the North, the taer worshiped a number of spirits and mythical figures. Outside of their unique pantheon, most taers revered aspects of Auril the Frostmaiden and Loviatar. They have also been known to worship deities in the giant pantheon, such as Grolantor and Thrym.
+
+Notable Taers
+ Grrunk
+
+Appendix
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Tall Trees
+
+Tall Trees was a northeastern section of the High Forest in northwest Faerûn. It was believed to contain the oldest trees in the High Forest.
+
+The Tall Trees area was a remnant of Teuveamanthaar, capital of the long-ago elven realm of Eaerlann, which fell when the elves retreated to Evermeet.
+
+Around 1358 DR, the region was held by the Druids of Tall Trees, who were devotees of Mielikki. Their aim was to protect the Tall Trees forest.
+
+Appendix
+
+References
+
+---
+
+## Tar Hurara
+
+Tar Hurara was a human fighter and the leader of the town of Priapurl on the Dragon Coast in 1372 DR.
+
+History
+Hurara was descended from bandits but she sought to reach true nobility. She was known as a wastrel and spent most of her time at the court of Cormyr rather than in Priapurl.
+
+References
+
+---
+
+## Tazmikella
+
+Tazmikella was a copper dragon who lived in the Bloodstone Lands.
+
+Appearance
+Her human form was that of a rather ordinary looking, middle-aged woman with once-strawberry-blond, mostly soft-gray hair, dressed in simple clothes. She was also known to take the form of a young blond female elf, but still kept her human name. She had wide shoulders and a smallish head.
+
+Personality
+Tazmikella was considered friendly by her customers and neighboring merchants. She hated wearing clothes and couldn't understand the need of humans to hide their natural forms. To her that showed a level of shame and modesty reflective of a race that couldn't elevate itself above its apparent limitations.
+
+History
+By the 14th century DR, Tazmikella was centuries old. She had a sister, Ilnezhara, with whom she crawled from her egg in the great deserts of Calimshan.
+
+She and her sister were once approached by Zhengyi, the Witch-King, with the offer of immortality in lichdom if they served beside his conquering armies. The dragon sisters declined that offer.
+
+In 1368 DR, Tazmikella owned a shop at Wall's Around in Heliogabalus called Tazmikella's Bag of Silver.
+
+By 1484 DR, Tazmikella was posing as the human "Mickey," the owner of a curiosity shop called Mickey's Bag of Holding at Wall's Around in Helgabal. That year, the drow Jarlaxle approached her and her sister, requesting them to help him in the events surrounding the Darkening and the involvement of several white dragons.
+
+During the Tyranny of Dragons, she was chosen as member of Protanther's council of metallic dragons to oppose the Cult of the Dragon and Tiamat.
+
+Abilities
+In her dragon form, Tazmikella could blow a garlic-smelling breath that slowed those affected. When in her human and elf forms, Tazmikella still retained her dragon strength, being capable of stopping a frost giant's warhammer many times her size as well as use it against it with ease, a feat that shocked many who bore witness.
+
+Appendix
+Appearances
+Novels and short stories
+ The Collected Stories: The Legend of Drizzt Anthology: "If Ever They Happened Upon My Lair"
+ Promise of the Witch-King
+ Road of the Patriarch
+ Rise of the King
+ Glacier’s Edge
+
+References
+
+de:Tazmikella
+
+---
+
+## Tammith Iltazyarra
+
+Tammith Iltazyarra was a Rashemi artisan who lived in Bezantur in Thay during the mid–14 century DR. She was enslaved by the Red Wizards of Thay and transformed into a unique type of vampire by the atropal Xingax. Prior to her transformation, she was the lover of the bard Bareris Anskuld.
+
+History
+Tammith was once a beautiful young woman from the Rashemi underclass of Bezantur. She once loved Bareris Anskuld, so much so that she let him go circa 1369 DR to roam the world. After her mother's death, Tammith practically raised her younger brother Ral by herself. Her father Boravik couldn't overcome his grief and, though being a good potter, started wasting his money on gambling and drinking. Tammith was a good potter herself, but hadn't worked long enough to be accepted by the local potter's guild. In the, in order to pay off a gambling debt that Boravik had with the White Raven gang, Tammith agreed to sell herself into slavery.
+
+Along with dozens of other slaves, she was bought by Red Wizards and led to to Xingax's undead manufactory in Delhumide. But, instead of giving her as fodder to his zombies, Xingax magically transformed her into a vampire. He also, against her will, magically bound her into his service. And from then on, she was constrained to serve Xingax's wizards and their cause.
+
+During a fight at the Keep of Thazar, Tammith met Bareris again and tried to kill him. But he defeated her and even hacked her to pieces to end her undead being, and then fled. Somehow, she managed to change to her bats-form and was magically compelled to return to Xingax.
+
+Over the years and under Xingax's tutelage, Tammith further developed her vampiric abilities such as keeping control of herself in bats-form. During the war of Thay over the following years, Tammith continued to be Xingax's slave and was magically constrained to obey him and the lich Szass Tam too. She became the captain of The Silent Company, a force comprising vampires mostly created by Tammith herself over the years. These vampires retained the usual vampiric powers, not inheriting their maker's extraordinary prowess.
+
+When the Spellplague hit during the fight at the Keep of Sorrows in the, the enchantments compelling her obedience to the undead masters vanished, enabling Tammith to finally flee Xingax's influence. She sought out the Council of Zulkirs and asked to enlist in the fight for the council's cause—and the opportunity to satisfy her thirst for vengeance.
+
+When she almost died during a battle at Xingax's fortress and Bareris "healed" her unconscious body by offering his own blood, their relationship became more compassionate. Tammith fought alongside Bareris in whichever battle the zulkirs' forces had to face. She also followed the zulkirs to Bezantur after their defeat at the second fight at the Keep of Sorrows. When the zulkirs were forced to abandon Bezantur in the face of Szass's approaching legions, Tammith went with them aboard one of their vessels knowing that she couldn't properly join in any fight not taking place on board the vessel she one. Her nemesis Tsagoth also joined in an ocean battle fight, seeking out and finally facing up with the vampire again, determined to kill her. After a short fight, the fiend had her heavily injured and incapacitated. Then Bareris, his friend Mirror, and Bareris's griffon Winddancer joined the fight to defend Tammith, turning the fight in their favor by almost killing Tsagoth. But in a desperate move, Tsagoth grabbed Tammith and together they broke through the railing of the ship and plummeted into the sea. Due to her vampire nature, the water immobilized Tammith completely, slowly dissolving her body like acid. Bareris and Winddancer followed them into the water resuming their attack on Tsagoth until he was forced to transport himself through space to safety. Though Bareris hurried to get his love out of the water, he didn't make it in time and Tammith perished, dissolved into nothingness by the seawater.
+
+Description
+In life, Tammith was a petite and dark-haired woman with a pretty dark face. As a vampire, Tammith retained her former beauty, with a face now whiter than white. Her voice was still sweet but had a cold and flat tone, sounding like a mere travesty of her former voice Her skin lost its warmth, now feeling deathly cold. She was often clad in mail, her sword strapped to her side, but sometimes appeared wearing a plain cloak and gown.
+
+Abilities
+While normal vampires could only transform into a single bat or rat, Tammith had the ability to burst apart into a cloud of bats or a carpet of rats. In her bats-form, her sense of sight became secondary to her sense of hearing, letting her find her way by sonar cries. Though she retained her ultimate self, and managed her dozens of bodies without difficulty, she became purely predatory. Later, as she developed her abilities, Tammith retained control of her self in her bats-form more easily. She could also transform into a cloud of mist or a huge wolf.
+
+Drinking fresh blood helped her mend her wounds in a matter of moments, healing more rapidly than normal vampires would.
+
+She could scramble up walls like a fly.
+
+Her touch could be as cold and poisonous as any specter's touch.
+
+Due to her vampiric nature, Tammith couldn't cross open water, such as the open sea.
+
+Appendix
+Appearances
+Novels
+ Unclean
+ Undead
+
+References
+
+---
+
+## Tasseldale
+
+Tasseldale, one of lands' trading dales, was among the wealthiest within the Dalelands, having always been heavily influenced by the nation of Sembia. The land was comprised of twelve towns, or tassels, that accommodated about half of their population and served as the center of their society.
+
+They were one of the southern-most located dales, and conveyed a large amount of the regions traffic along the East Way and Rauthauvyr's Road, which together connected Cormyr to Hillsfar. Many other small roads criss-crossed around the Tasselway, the prominent trail that ran the length of the dale.
+
+Culture
+The Tassadran were by and large, craftspeople and traders, contented with orderly lives and maintaining a cool-headed demeanor. The craftsmen of the dale included gold, silver, pewter and tinsmiths, book-binders, wood-workers. illustrators, toy-makers and scores more. The minority of their populace that were unhappy with the crafting lifestyle typically moved on to other dales or work as loggers in the Arch Wood forest.
+
+Like the rest of the Dalesfolk they were fiercely independent, and while visitors might dismiss them as money-hungry, would-be Sembians, they maintained a quiet, unassuming pride. They quietly set out to do what they thought was right.
+
+Trade
+The general economic dynamic of the Dalelands was each dale would produce locally-cultivated food products or harvest natural resources like timber or iron and trade them for the finished goods needed for everyday life. The opposite was true in Tasseldale. While they housed enough craftspeople to suit the needs of their populace, with enough still to export and profit, they lacked the raw materials that were so abundant in the other dales.
+
+Due to their high economic demand, Tasseldale was extremely dependent upon Sembia for success. It wasn't a one-way boon for the nation, as Tasseldale offered a quaint getaway for travel, far enough to escape the urban lifestyle of Selgaunt or Ordulin but still quite close. Despite the fears of annexation held by many Tassadran in the 14 century, the dale was considered by Sembia to be much more profitable as a neighbor, than another district. This outlook proved temporary as time went on.
+
+The dale was home to a number of branches of large Sembian trading costers including the Red Wyvern Company and the Sheathed Dagger Coster, but had their own smaller competitors like the Tasselway Coster of Glaun.
+
+Government
+Tasseldale was ruled by the Grand Mairshar, whose broad powers included law enforcement, handling foreign relations and, with consult of the Tassel Elders, writing laws and executing military action. Grand Mairshars appointed their successor upon retirement, pending approval of the elders.
+
+The Mairshar themselves served as the dale's constables, adjudicators and soldiers. From all the volunteers candidates, only a select few passed the months of assessment and years service as a cadet. In addition to their martial prowess, the Mairshar were selected for their even-tempered disposition and tempered judgement.
+
+To supplement this elite force, Tasseldale maintained an extensive militia of Tassadran that, when assembled, would fall under the command of a Mairshar.
+
+History
+After  Moondale was founded in 700 DR, the forests of region receded and more dalesfolk settled in the area that would become Tasseldale around 980 DR.
+
+After Aencar Burlisk declared himself King of the Dales, Tasseldale willfully joined alongside Battledale and Shadowdale under his rule. He was beloved to the Tassadran and they saw his authority as rightfully earned.
+
+Following the murder of some Tassadran hunters within the Arch Wood in 1368, the rivalry between the loggers of Tasseldale and Archendale turned violent with the development of the game known as Woodsmen's War. This game was little more than outright violent fisticuffs between the hunters, soldiers and rowdy youth of the two dales.
+
+Despite the mutually-beneficial relationship enjoyed by both Tasseldale and Sembia throughout the 1400's, the mercantile nation attempted to peacefully annex Tasseldale, just as it had done with Featherdale in 1418 DR. When this didn't work, they became more aggressive and invaded the dale with mercenaries from the Sembian city of Yhaunn in 1420 DR. Grand Mairshar Erich Inshiland resisted the assault, but were ultimately defeated by Sembian forces. Following the collapse of the Netherese empire in 1487 DR, the vassal-state of Sembia freed Tasseldale from their control as a gesture of good will to ensure mutually-beneficial trade relations with their neighboring realms.
+
+Geographical features
+Unlike the rest of the dales, Tasseldale was a vast, flat open space ideally suited for farmlands. It featured a nearly-daily morning mist that blanketed rolling grasslands with small hedgerows and thin, winding streams that all emptied into the River Ashaba.
+
+ Dun Hills
+These mounds seperated the dale from Battledale to the north and Deepingdale to the west. It was populated by teams of wild ponies.
+
+ Glaun Bog
+A dark marshland that was abundant in coal, iron and home to many dangers including quicksand, carnivorous plants and will-o'-wisps.
+
+Notable locations
+ Abbey of the Just Hammer: This monastery of Tyr located in the Dun Hills emphasized the justice aspect of the deity's portfolio. They provided legal education for travelers who braved a journey to their abbey, and were largely responsible for the hills being mostly free from monsters.
+
+Sun Soul Monastary: The Order of the Sun Soul established one of their few monasteries in the refurbished ruins of an abandoned freehold within the Dun Hills.
+
+Tassels
+ Archtassel: This smaller tassel rested near the Arch Wood, south of the East Way. It was home to many loggers, woodworkers, and trappers who all earned their living from the forest. They maintained an intense rivalry with the loggers of Archendale.
+
+ Arrowmark: A small and exceptionally quiet hamlet that was renowned for its skilled fletchers and bow-makers.
+
+ Glaun: Built into the Dun Hills, this smoke-covered, iron-working town smelted the ore gathered from the nearby Glaun Bog. In the past they were assaulted by perytons and wyverns, and the fringes of their cottages were sporadically harassed by trolls and goblinoids.
+
+ Halfcrag: A small, easily-defensible village that rested atop a mesa isolated from the Dun Hills. They were once the largest farming settlement in all the dales.
+
+ Moontassel: Located nearest the former-dale of Moondale, this sprawling town was full of lively street vendors, frivolous entertainment and other attractions for tourists visiting from Sembia.
+
+ Tasselheart: This town was nestled right in the crossroads of Tasseldale and accommodated its large, Midsummer Market during the season. This town full of kind, open-armed citizens expanded rapidly throughout the mid-14 century.
+
+ Tegal's Mark: Named after the famous swordsmith Tegal, this tassel housed the Sharburg, an ancient elven fortress that served as the seat of power for the Mairshar.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Taurgosz Khosann
+
+Taurgosz Khosann was the leader of the Blacktalons mercenary company based in Iriaebor.
+
+Description
+He stood over  tall, weighed about  and had strength enough to wield some two-handed weapons in one hand.
+
+Personality
+Tenhammer ruled with an iron fist and only listened to a few close and trusted allies.
+
+Possessions
+His favorite weapon was his huge warhammer. He wore a magical suit of chain mail to battle.
+
+History
+He earned his nickname, "Tenhammer," while bidding to take over the leadership of the Blacktalons some time during the 1350s DR. He was said to have slayed ten people with a single swing from his hammer.
+
+Under his leadership the Blacktalons became a more reputable and less criminal organization.
+
+In the, Taurgosz and his Blacktalons worked along side the mercenaries of the Chill during the iron crisis of that year. The two groups led raids on caravans traveling along the Coast Way, delivering any iron they recovered to their overseer Tazok. While Taurgosz and the leader of the Chill believed they were working for the Zhentarim, they were in fact being used as puppets by Sarevok Anchev and the Iron Throne.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate
+Card Games
+AD&D Trading Cards
+
+Behind the Scenes
+Taurgosz Khosann's name is frequently misspelled. In his card in the 1992 series of the AD&D Trading Cards, his name is misspelled both as "Turgoz", as well as "Turgosz". In the computer game Baldur's Gate, it's spelled "Taugosz", however this was corrected to "Taurgosz" in an update to Baldur's Gate: Enhanced Edition.
+
+External Links
+
+Notes
+
+References
+
+---
+
+## Tarkhaldale
+
+Tarkhaldale, also known as the Lost Dale and the Lost Vale, was considered one of the dales in the Dalelands, despite being located between Anauroch and the Desertsmouth Mountains. It was sometimes unmarked on maps, but was located west of Shadowdale.
+
+Geographical Features
+ Freezing Point
+ Desertsmouth Mountains
+
+Settlements
+ Tarkhaldan: Village taken over by saurials.
+ Swordcrag: Orc stronghold.
+
+Important Locations
+ Finder's Temple
+ Singing Cave
+
+History
+In ancient times, Tarkhaldale flourished as a farming and mining community. When the Anauroch desert spread, the region was abandoned to orc and goblin tribes. In 1360 DR, a group of saurials escaped from their imprisonment by the god Moander and made their home in the dale. Later, the Netherese drove the saurials away and took over the dale.
+
+Appendix
+Gallery
+
+Appearances
+Novels
+Song of the Saurials • Tymora's Luck • Masquerades
+
+Tymora's Luck
+
+Further Reading
+
+References
+
+Connections
+
+---
+
+## Talindra Amalith
+
+Talindra Amalith was a wild elf and, as of 1374 DR, a member of the Vel'Nikeryma, the guiding council of the Eldreth Veluuthra, who lived in the Methwood. She suffered due to the human adventurers in the area and led a cell of the Eldreth Veluuthra. She also recruited wild elves into the cell from the Chondalwood.
+
+Appendix
+
+References
+
+---
+
+## Tantras (adventure)
+
+Tantras is a 2-edition Advanced Dungeons & Dragons adventure module for the Forgotten Realms.
+
+Contents
+ Prologue
+ Chapter 1: Trial and Flight
+ Chapter 2: Haste, Blood, and Moonlight
+ Chapter 3: The Hand of Bane
+ Chapter 4: A Stormy Time in Scardale
+ Chapter 5: Gods and Assassins
+ Chapter 6: To Be Heroes
+ Non-Player Characters
+ Avatars of the Gods
+ New Magical Items
+ New Monster
+ Map of Shadowdale
+
+The adventure module also contains a Magical Chaos Table, a Physical Chaos Table, a Random Encounter Tables and a Monster Summary Table
+
+Index
+
+Miscellaneous
+
+Gallery
+
+Credits
+ Design: Ed Greenwood
+ Editing: Anne Brown, Kim Mohan
+ Avatar Trilogy Coordinator: Jim Lowder
+ Cover Art: Clyde Caldwell
+ Interior Art: Karl Waller
+ Cartography: Dave, Dennis & Diesel
+ Typography: Gaye O'Keefe
+ Keylining: Stephanie Tabat and Paul Hanchette
+
+Appendix
+See Also
+ Images from Tantras (adventure)
+External Links
+
+ RPGGeek
+
+References
+
+---
+
+## Tauran
+
+Tauran was an astral deva in service to Tyr until his faith was shaken in the events leading up to the death of Mystra. He was the mentor of the half-drow knight Kael.
+
+History
+In 1373 DR, Tauran was assigned to capture the alu-fiend Aliisza, whose unborn child (Kael) had cried out to Tyr for justice. Soon after, he and Micus captured Kashada the Nightwraith and imprisoned her in a sphere of eternal life.
+
+After Kael's birth, Tauran became his mentor.
+
+When the Cyricist Zasian Menz infiltrated the House of the Triad, Tauran made an agreement with Kaanyr Vhok and Aliisza to hunt him down. However, they were unable to stop him from stealing Azuth's staff with the help of the freed Kashada/Shar and using it to kill Mystra. During this time, Tauran began doubting Tyr's judgement and his own faith in the gods, becoming a fallen angel.
+
+Not long after the death of Mystra, Tauran was protecting the Lifespring when he was killed by Vhok, who had betrayed the House of the Triad to a legion of demons.
+
+Appendix
+Appearances
+Novels
+The Empyrean Odyssey:
+ The Gossamer Plain
+ The Fractured Sky
+ The Crystal Mountain
+
+References
+
+---
+
+## Taunissik
+
+Taunissik was a small kuo-toa colony of Olleth located in Serôs.
+
+Geography
+Taunissik was a deep atoll, with massive coral growths on a submerged mountain.
+
+Goverment
+Taunissik was founded by aggressive kuo-toans that wished to expand territory through conquest.
+
+History
+In 1393 DR, several kuo-toa left Olleth and founded the colony of Taunissik. Shortly after its founding, the great kraken Gethshemeth enslaved the colony to its will.
+
+References
+
+---
+
+## Tamara
+
+Tamara  was the neutral good dragon goddess of life, light, mercy, and forgiveness. She was the consort of Lendys, and was commonly worshiped alongside him and Bahamut, who in some traditions was considered to be their son.
+
+Description
+In her natural form, Tamara was a huge, wingless platinum dragon with burnished scales, slightly smaller than Lendys. She radiated a comfortable aura of warmth and love, her eyes shining with the brightness of the sun itself.
+
+ Personality
+Tamara was the kindest and most benevolent of the draconic deities. Some mistook that for weakness, though such beings didn't survive to make that error twice. As consort of Lendys, she always strived to temper his hard-edged justice with a sense of forgiveness.
+
+Realm
+Tamara had a lair in the plane of Elysium.
+
+Worshipers
+Tamara was worshiped mostly by brass and copper dragons, as well as any neutral good aligned lesser species, although many lawful good dragons of other colors and species worshiped her as a consort of Lendys.
+
+Tamara's faith had a reputation of being peaceful and merciful, but her worshipers did not hesitate to stand against evil or tyranny if they needed to.
+
+Clergy
+Tamara's clerics were healers, but also deliverers of death to those who tried to escape it. They sought to destroy undead across the lands, particularly draconic undead.
+
+Temples
+Tamara's temples were also hospitals or hospices where the sick or injured were welcomed. Terminally ill dragons were cared for with dignity and respect. When dragons died in one of Tamara's temples, their passing was greeted in a positive light, as a merciful way to escape from the hardships of life.
+
+Dogma
+The preservation of life and happiness was all to Tamara. She believed in mercy, both in life and death, and as such she not only healed the sick and tended the injured, but also delivered a merciful end to those dragons nearing the end of their natural lives. She detested fiercely those who artificially prolonged the life of a dragon, even more when it was against the dragon's will.
+
+Some of her dragon adepts followed the Ptarian Code, a draconic code of honor created by the gold dragon Ptaris in the ancient past. Originally intended as a guide to conduct for the lords who attended the King of Justice, the Ptarian Code eventually was adopted by many gold and silver dragons.
+
+The Ptarian Code was similar to the codes of chivalry adopted by knightly orders of humanity. It included paying homage to Tamara, as well to the draconic deities Bahamut and Lendys. The major precepts were:
+
+Justice and Good above all.
+Honor and Fealty to the King.
+Honor and Respect to Righteous Innocence.
+Honor and Duty to the Balancer (Lendys), to Her Mercy (Tamara), and to the Justicemaker (Bahamut).
+Honor and Protection to the Lesser Races.
+Honor and Correction to the Enemies of Justice and Good.
+Honor and Forbearance for oneself.
+
+Appendix
+Notes
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Tammas Forkbeard
+
+Tammas Forkbeard was a dwarf and the daughter of King Daurvos Frostbeard of the Ironstar clan.
+
+Relatives
+Tammas's father was Daurvos Frostbeard, king of the Ironstar clan.
+
+History
+During the final days of the Ironstar clan, they had been driven out of their homes at Ironstar Mountain by orcs. With few survivors, they fled south along the west bank of the River Dessarin, pursued by the orcs and also trolls. While Daurvos led the fighting at the rear of the clan's group, along with his great grandchildren, Tammas led the wives and children south.
+
+Daurvos was felled while on the Stone Bridge, and the orcs trampled over him, leaving him to die. He shouted out to Moradin in an effort to aid his people, and then fell from the bridge into the water below, and died. His body was pulled from the water by a 20-foot-high (6 meters) avatar of Moradin, who cradled it and wept. The avatar was outlined in red flames and wielded a hammer that glowed red.
+
+Tammas turned to fight the orcs, who were being decimated by Moradin's avatar, and they were soon wiped out. The avatar motioned for the remaining clan members to continue south, protecting their passage against orc attack until sunset. When the avatar departed, it left behind Daurvos's crown and hammer. The crown was then used by the first kings of the Fallen Kingdom.
+
+Appendix
+
+References
+
+---
+
+## Tarik al Farid al Fuqani
+
+Tarik al Farid al Fuqani was a Tethyrian human from Myratma who was an apprentice of Blackstaff Tower.
+
+Description
+Tarik had dusky skin and straight jet-black hair in a short pony tail. He had cobalt blue eyes.
+
+Being from the warmer climates of the south, he tended to dress in thicker clothing to stay warm.
+
+Relationships
+Tarik's twin brother was Chaid al Farid al Fuqani. His teacher was Tsarra Chaadren.
+
+Personality
+Tarik was very excitable and talkative but also defiant and haughty at times and proud of his southern heritage.
+
+History
+Tarik resided as an apprentice at the Blackstaff Tower in Waterdeep from a young age, having been sent there from Myratma by his father. In the, Tarik and his brother were ten years old.
+
+On 28 Uktar of that year, Tarik was with seven other apprentices, including his teacher and brother, when his brother successfully bonded with a familiar after an overnight hunting trip in the Pellamcopse Woods. This made him jealous.
+
+On the return trip to Waterdeep, Tarik used Tenser's floating disk spell to carry back their game. (His version of the spell created a scarlet-colored disk.) The group passed a thief named Raegar Stoneblade, who had been secretly stalking them, but they were unaware of his significance at the time. Tsarra sent Tarik to the kitchens to help with the butchering.
+
+Later that same day, when a nishruu attacked Blackstaff Tower, Tarik and his brother used the same floating disk magic to dump salt on the invader to defeat it. They had become familiar with nishruu from hearing bedtime stories from their teacher, Tsarra.
+
+Appendix
+Appearances
+ Blackstaff
+
+References
+
+---
+
+## Taalmuth Chaadren
+
+Taalmuth Chaadren was a human ranger from Amphail, and the father of Tsarra Chaadren.
+
+Relationships
+Taalmuth married Malruthiia, who was an exiled bastard child of the Ilbaereth house of elves. Their child was Tsarra Chaadren.
+
+History
+Taalmuth was born in Amphail, but as a ranger he traveled all over the Sword Coast and Tethyr, but eventually settled down in Waterdeep where he met his wife, Malruthiia, a rival hunter. They married in 1337 DR.
+
+The couple became guides for hunting trips and parties around Waterdeep, and Taalmuth was under contract to Piergeiron Paladinson, the Field of Triumph, and other noble houses.
+
+While on a hunt in the Ardeep Forest in 1357 DR, Taalmuth became involved in a spell battle against a suspected lich (the true identity of the assailant was not known) and was killed. His entire body was burned by a fireball spell, and there were charred areas on nearby trees, destroyed skeletons, a pile of stones from an arcane ritual, and a scrap of maroon cloth, which all pointed to a lich as the culprit.
+
+Taalmuth was buried in an unmarked grave in his favored Pellamcopse Woods near to Waterdeep.
+
+Appendix
+References
+
+---
+
+## Tavern of the Flagon Dragon
+
+The Tavern of the Flagon Dragon was a tavern in the Castle Ward of Waterdeep, not far from Blackstaff Tower.
+
+Location
+The two story tavern was located in the northern section of the Castle Ward on Darselune Street about a block from the Sleepy Slyph.
+
+Appendix
+Appearances
+Blackstaff
+City of Splendors: Waterdeep
+
+References
+
+---
+
+## Tabaxi language
+
+Tabaxi was a language spoken by the Tabaxi tribe of humans in the jungles of Chult. It was a part of the Chultan language, and had its origin in Katashaka, a continent southwest of Faerûn and west of Zakhara.
+
+Notable Speakers
+ Alisanda Rayburton, the Tabaxi daughter of Lord Dhalmass.
+ Artus Cimber knew some degree of the Tabaxi language, though only enough to get him through rudimentary exchanges.
+ Dhalmass Rayburton, a multilinguist that preferred to speak Tabaxi over any other language.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tashalan language
+
+The Tashalan language, called Akûrian, was a human language spoken in Tashalar and other parts of the Chultan Peninsula.
+
+Speakers
+The Tashalan tongue was spoken in a region from Samarach in the west to the Mhair Jungles in the east and from Narubel in the north to Mhairhetel in the south. This included such places as Thindol, Tashluta, and the Black Jungle. It was also spoken in Calimshan, Chult, Halruaa, the Lake of Steam region, Lapaliiya, and the Shaar, and by some wild elves.
+
+Scholars counted at least three distinct dialects of Akûrian—Samarachian, Tashlutar, and Jungle Akûr.
+
+Script
+Akûrian used the Dethek script of the dwarves.
+
+History
+Akûrian was a member of the Akalaic languages, a subgroup of the Chessan languages group. As such, it was related to such languages as Eshowan, formerly spoken to the west in Chult, and Shaaran, spoken in the east.
+
+Examples
+Female names in the Tashalan tongue might be Ayesha, Bhula, Lashela, Intingi, Mashai, Shevaya, Shesara, or Ushula. Common Akûrian male names were Angwe, Dumai, Gharbei, Indo, Masambe, Morife, Ngongwe, and Sepoto. For surnames, example names included Damarthe, Ghomposo, Ishivin, Jalamba, Konge, Maingwe, and Wasatho.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tannin
+
+Tannin was a human bard and a member of the adventuring group, the Moor Runners.
+
+History
+In 1364 DR, Tannin was killed by the red dragon Rylatar'ralah'tyma when she attacked the caravan he was with just outside of Hill's Edge.
+
+References
+
+---
+
+## Talbot Uskevren
+
+Talbot Uskevren was the youngest of three children from the noble Uskevren family of Selgaunt and an actor in Mistress Quickly's theater acts in the Wide Realms around 1370 DR.
+
+Abilities
+A warrior of moderate skill, he preferred to play the swashbuckling type in his plays, using flashy and fancy acrobatic moves.
+
+Description
+Talbot was tall and muscular, with thick black hair and beard and gray eyes.
+
+History
+At age nineteen, Talbot was infected with lycanthropy while on a hunting trip with his closest friend, Chaney Foxmantle, and various other nobles. Chaney and others managed to escape, but Talbot was not so fortunate. He was found by Maleva and Feena Archwood, two priestesses of Selûne, and was healed of the wounds suffered in the attack, but not the affliction, by Maleva.
+
+Relationships
+Talbot was the youngest son of Thamalon and Shamur Uskevren, preceded by Tamlin and Thazienne. He was also the half-brother of Larajin and Leifander.
+
+Even before the revelation that he was related to Larajin—who was a family servant at the time—Tal always treated her more like a sister than a servant. When Tal turned six and they were no longer allowed to play together, they made a pact to always be friends, even if it was just in secret.
+Appendix
+References
+
+---
+
+## Tagreth Cormaeril
+
+Lord Tagreth Cormaeril was the Grandfather of Assassins of the Fire Knives in the late 14 century DR.
+
+Personality
+He tolerated no dissent within his organization.
+
+Description
+Appearing as a frail and elderly man, Tagreth had unnatural vigor that came from magical sources. Using much of his wealth, he extended his lifespan and bolstered his health over many years.
+
+Appendix
+
+References
+
+---
+
+## Targaraene
+
+Targaraene was a nightmare that served as the mount and fiendish servant of Scyllua Darkhope.
+
+Description
+Targaraene looked like a large, powerful horse with a pale white coat. Flames wreathed its hooves and flared from its nostrils.
+
+Targaraene was stronger and heartier than an average nightmare.
+
+Appendix
+
+References
+
+---
+
+## Tabaxi
+
+Tabaxi, also known as jaguar people or cat-men, were a race of feline humanoids native to the jungles of Maztica.
+
+Description
+Tabaxi were taller than most humans at six to seven feet. Their bodies were slender and covered in spotted or striped fur. Like most felines, Tabaxi had long tails and retractable claws. Tabaxi fur color ranged from light yellow to brownish red. Tabaxi eyes were slit-pupiled and usually green or yellow.
+
+Tabaxi were competent swimmers and climbers as well as speedy runners. They had a good sense of balance and an acute sense of smell.
+
+Etymology
+Depending on their region and fur coloration, tabaxi were known by different names. Tabaxi with solid spots were sometimes called leopard-folk and tabaxi with rosette spots were called jaguar-folk.
+
+The way the tabaxi pronounced their own name also varied; the "leopard-folk" pronounced it ta-BÆK-see, and the jaguar-folk tah-BAHSH-ee.
+
+Personality
+Tabaxi were a reclusive people who often avoided interaction with other intelligent races. However, as each tabaxi possessed a specific feline trait, some had an innate curiosity that compelled them to travel and seek out stories, artifacts, new experiences and knowledge, never remaining in the same place or obsessing over the same piece of lore for too long.
+
+In general, tabaxi did not care for wealth, but they had an almost obsessive interest in ancient artifacts, relics and magic items, not for the items themselves as much as the stories and secrets they held. Once an item had been thoroughly examined and studied, and its secrets revealed, it would lose its allure and the tabaxi would quickly lose interest and pass it on.
+
+Not all tabaxi were motivated by curiosity to leave their homeland, however. Some found safer ways to satisfy their fleeting obsessions by becoming traveling minstrels and tinkers, often accepting interesting objects and stories as payment for their services.
+
+Combat
+
+Tabaxi were exceptional hunters and utilized these skills in combat. Speed and stealth combined with their natural camouflage meant that tabaxi were particularity skilled at surprise attacks. Tabaxi were even known to disguise their scent with aromatic herbs. Their hunting skills and intelligence made them formidable tacticians. Groups would often drive prey into ambushes, sometime playing with their doomed foe before killing them. Tabaxi clans did have berserker warriors within them, these were known as blood-stalkers.
+
+For weapons, tabaxi favored bolas, slings, macas, and javelins with atlatl. These weapons would often be made from wood, bone or stone. Tabaxi were just as likely to use weapons as they were to use their claws and teeth. Their preference of simple weapons was not due to a lack of capability. Tabaxi were quite capable of adapting to new technology or salvaged weapons.
+
+Due to their knowledge of hunting, intelligence and sense of smell, it was practically impossible to trap a tabaxi.
+
+Society
+Tabaxi society was built around clans. Clans were split evenly between males and females with 3 to 12 young. Each clan had several Hunts each made up of two to eight individuals. The Hunts patrolled the area around the clan's lair.
+
+Although tabaxi lairs were sometimes just temporary, they were more often small villages of ramadas. Each ramada was built from wooden poles with grass roofs.
+
+Clans were led by elders. About half of the time, leaders were aided by shamans. Clans tended to avoid each other and did not engage in trade. Tabaxi considered trade to be demeaning but in rare instances would use third party agents to trade for them.
+
+When the tabaxi started wandering out of their homeland of Maztica, rumors followed about strange happenings there, but the tabaxi themselves said little about them.
+
+Language
+The Tabaxi language was an ancient form of the Payit language. Those who spoke modern Payit and knew what to listen for could usually understand about half of the Tabaxi words they heard. It was completely unrelated to the Tabaxi language of the Tabaxi tribe of Chult.
+
+ Religion
+Most clans worshiped Tezca, Nula, or (rarely) Azul. A minority of clans owed their allegiance to a jaguar lord. In this instance, Zaltec was the dominant deity of the tribe.
+
+The creator figure in the tabaxi pantheon was the Cat Lord, a fickle and tricky entity who bestowed each tabaxi with a specific feline trait and was believed to wander the world, watching over them.
+
+Interracial Relations
+Tabaxi had few enemies and only the most degenerate clans would attack members of other intelligent species without good reason.
+
+ Threats
+Tabaxi were sometimes hunted for their pelts. Each pelt could be sold for up to 50 gp. Hishna shapers could use tabaxi skin and claws to enhance their strength. Young tabaxi could be sold on the black market for around 225 gp.
+
+History
+Because of the black market and slave trade that brought them to Faerûn, some tabaxi made the jungles of Chult their home after escaping captivity. Tabaxi minstrels primarily lived in and around Port Nyanzaru, but hunters roamed the entire peninsula.
+
+Notable Tabaxi
+
+Birdsong, a tabaxi bard from Chult.
+Chioptl, a tabaxi who led a group of warriors to Nexal to recover a legendary cloak.
+River Mist and Flask of Wine, two tabaxi siblings from Port Nyanzaru who offered their services as guides to the jungles of Chult in the late 15th century DR.
+Two Llamas Running, a tabaxi swashbuckler from Maztica kept prisoner in Silverymoon.
+The Velvet Veil tavern in Ashabenford was famous for a particularly talented tabaxi dancer.
+
+Appendix
+See Also
+Jaguar lord
+Paka
+Rakasta
+Gallery
+
+Appearances
+
+Further Reading
+
+References
+
+Connections
+
+es:Tabaxi
+FR:Tabaxi
 
 ---
 
@@ -1080,6 +3025,184 @@ A popular fashion among Tarralune in 1479 DR was to wear scale mail made with ac
 
 Appendix
 Further Reading
+
+References
+
+---
+
+## Talendar
+
+The Talendars were the oldest, proudest noble family in Sembia. Among their enemies are the Uskevren family.
+
+Their family home, Old High Hall, was the biggest merchant-noble residence in Selgaunt.
+
+House Talendar dealt in fine furniture and frequently shipped to the kingdoms of the far south—Amn, Calimshan, and Tethyr, where the demand for Archendale walnut and Sembian mahogany seemed infinite.
+
+Members
+ Chenna Talendar, a personal rival of Shamur Uskevren in the late-14 century DR.
+ Ereldel Talendar, Marmaeron's son
+ Marance Talendar
+ Marklon Talendar, Marmaeron's son
+ Marmaeron Talendar, head of the family until the disastrous attack upon the first Stormweather Towers
+ Nuldrevyn Talendar, Marance's brother
+ Ossian Talendar, Nuldrevyn's son
+ Presker Talendar, Lord Talendar in 1370 DR
+ Rajeldus Talendar, Marmaeron's first-born son
+ Vees Talendar, friend of Thamalon Uskevren II but secretly a follower of Shar and a servant of Rivalen Tanthul
+
+Appendix
+Appearances
+Short Stories
+Shamur's Wager
+
+References
+
+---
+
+## Tapann
+
+Tapann was the patron deity of korreds. His symbol was a laughing mouth.
+
+Description
+Tapann appeared as a six-foot-tall male korred, carrying a cudgel. He wore a rough tunic made from the hide of a bear or owlbear and a belt with pouches containing his own hair, a pair of silver shears, and vials of holy water.
+
+Relationships
+Tapann was said in some myths to have fathered the goddess Shiallia, thanks to a brief dalliance with the dwarven goddess Sharindlar.
+
+Tapann brought dead korreds of unusual bravery to Limbo with him to be his personal servants. Some of this servants were named Jambul, Hrressek, Tishlun, and Bresk. All korreds obeyed Tapann or his servants without question.
+
+Realm
+Tapann's realm on the plane of Limbo was a hill studded with standing stones. However, he spent most of his time on the Prime Material Plane.
+
+Worshipers
+Tapann was worshiped by korreds.
+
+Tapann had no shamans or clerics, and did not grant spells to his followers.
+
+Rituals and holy days
+Every seven days (or more often, if they were requesting or thanking Tapann for his aid), korreds gathered in a circle in a glade, hilltop, clearing, or ring of standing stones. There, they beat drums and played the bone-flute, slowly working themselves into a wild frenzy. This ritual literally drained the life from the korreds. Aged and mortally injured korreds might seek to literally dance themselves to death. They might even force captives to dance along with them, and even more of their life was drained than that of the korreds, although other fey lost no more life than the korreds. This life-force was sent to Tapann as an offering.
+
+Appendix
+References
+
+---
+
+## Tainted one
+
+Tainted ones were humanoids who had been transformed into yuan-ti servitors.
+
+Description
+Tainted ones appeared as they had prior to their transformation, and seemed normal and healthy. This meant that they could easily blend back into civilization.
+
+Personality
+Tainted ones were generally faithful servants of the yuan-ti who created them, although they had the capacity to betray their masters and strike out on their own. They often developed slightly unnerving habits, such as hissing slightly as they spoke, keeping large reptiles as pets, or frequently licking their lips.
+
+Abilities
+The transformation bestowed tainted ones with greater stamina and with psionic abilities which allowed them to inflict poison on their enemies and to polymorph themselves into snakes or snake-like creatures. They further gained keener senses and greater physical and mental fortitude, rendering them unaffected by spells designed to control them, such as hold person or charm.
+
+The saliva of a tainted one also became highly toxic when mixed with blood. This had the effect of making even their kiss potentially debilitating. Tainted ones were, of course, immune to the effects of their own poison, and likewise were immune to all types of snake venom.
+
+Combat
+Tainted ones retained the combat skills they possessed prior to their transformation. While they could use their venomous saliva to their advantage in the form of a bite, this was generally not a very useful tactic as it required close contact and access to exposed skin.
+
+Society
+Tainted ones primarily served as spies in human cities. They were also often used by their pureblood yuan-ti masters as bodyguards and as stealthy strike forces within human settlements.
+
+Tainted ones who outlived their usefulness were abandoned by their masters, becoming free to make their own life choices. These individuals—as well as those who betrayed their masters—often sought to make livings among the underbellies of human civilizations as illicit merchants specializing in selling slaves, poisons, or ill-gotten goods to various yuan-ti buyers. Some pursued this lifestyle with the goal of earning enough money to purchase restorative magic to return them to their former selves.
+
+Creation
+The process of creating a tainted one generally involved having a human drink a special concoction brewed from yuan-ti venom and a specific mix of herbs and roots. Such human subjects were most often prisoners, but some cultists dedicated to the yuan-ti would participate voluntarily. Most—but not all—nonhumans who consumed this mixture became violently ill, and ran the risk of dying within 30 seconds.Monster Compendium: Monsters of Faerûn is inconsistent on the point of whether or not only humans can become tained ones. On page 95 it states explicitly that only humans can become tainted ones, while on page 94 it states that elves, dwarves, orcs, and other humanoids are rare but valid subjects for the transformation. Meanwhile, humans also ran the risk of lapsing into a coma and dying within an hour, but if they survived, they then began a painful, days-long transformation into a tainted one. Yuan-ti were known to revive humans who seemed poised to die from the concoction, only to force them to drink it once more and try again. However, even if the transformation began, it too could fail, in which case the subject became a broodguard after about a tenday, give or take a few days.
+
+The transition could be reversed using magic. After drinking the potion, the transformation could be prevented if the following spells were cast in this order: neutralize poison, dispel magic, remove curse, and heal. If successful, the process was halted and reversed, although the individual's intelligence was permanently damaged. Only a wish or miracle spell was able to return a tainted one to its original form after the transformation had taken effect.
+
+History
+The process for creating tainted ones was invented by the yuan-ti of the Serpent Hills, and as of 1372 DR, it remained a closely guarded secret. However, it was considered only a matter of time before the yuan-ti of Chult and Hlondeth acquired the knowledge as well.
+
+In the mid-to-late 14 century DR, tainted one slaves could be bought from a slaver named Zstulkk Ssarmn in Skullport.
+
+Notable Tainted Ones
+ Juz'la, an inhabitant of Skullport turned into a tainted one by Zstulkk Ssarmn and sent to infiltrate the church of Cyric. However, after fully converting to their faith, she fled from Skullport to become an independent agent in Waterdeep circa the .
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Tallus
+
+Tallus was an archmage at the House of Wonder in Waterdeep.  He was in service to the dark god Asmodeus and the evil angel Sathariel.  He hoped to achieve immortality by helping Sathariel complete the ritual of the First Flensing which would open the gates of Hell in Waterdeep.  Instead, he was slain by the noblewoman Rilyanna Saerfynn who hoped to complete the ritual herself.
+
+Refernces
+
+---
+
+## Talanna Taenfeather
+
+Talanna Taenfeather was a member of the City Watch of Waterdeep in the late 15 century DR.
+
+Relationships
+She was a close friend of Araezra Hondyl, her commander. She flirted with the Open Lord Dagult Neverember although they were apparently not yet lovers.
+
+Abilities
+Talanna was considered the fastest member of the guard and was usually the one who chased down suspects who fled.
+
+Equipment
+Talanna had a ring of featherfall given to her by the Open Lord after she was seriously injured in a fall from a rooftop. The ring allowed her to fall from a height at a slow rate.
+
+Description
+Talanna had bright red hair, which she often wore in exotic hairstyles.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Tabasheer
+
+Tabasheer was an opal-like silica found in the joints of certain types of bamboo.
+
+Description
+Tabasheer was found in irregular nuggets that were usually tumbled smooth and then polished to velvety sheen. They were worn in rings and decorated the fringes of shawls and pectorals, mainly in the South where this gemstone was used as currency in trade deals, especially when bartering with northern barbarian tribes. A typical specimen has a base value of 50 gp.
+
+Powers
+Ground to a powder and placed on the tongue or in an open wound, tabasheer had a remarkable effect on the subject when cure light wounds was cast upon it: the recipient of this treatment gained a temporary health boost that lasted for 24 hours or until the health was lost due to subsequent injury, poison, or illness.
+
+ References
+
+---
+
+## Targrael
+
+Ismra Targrael was a former High Knight of Cormyr who later became a death knight. In 1479 DR, Manshoon dominated her mind and compelled her to place the kingdom's two highest ranking war wizards into magical stasis and hide them in a crypt beneath the palace.
+
+She broke free of Manshoon's mind control and set about to protect Cormyr according to her own warped code of honor. Targrael fought Alusair's ghost and was defeated but not destroyed. She crawled deep into the haunted wing of the palace and used a blueflame relic to heal herself.
+
+Appearance
+Targrael had white skin and sliver-white hair. She had a patch of mold growing on her face which didn't seem to bother her.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Table of the Sword
+
+The Table of the Sword was a shrine of Tempus in Daggerford. It was led by Baergon Bluesword, a strict warrior from Waterdeep.
+
+Location
+The shrine was located on Wall Street in the southern section of Daggerford.
+
+Appendix
 
 References
 
@@ -1263,6 +3386,662 @@ FR:Tantras
 
 ---
 
+## Tatigan Carrlock
+
+Tatigan Carrlock was a human merchant living in the Shadowfell section of Ikemmu in the late 15 century DR.
+
+Activities
+He specialized in providing the shadar-kai with exotic goods that stimulated their senses. Tatigan regularly ran caravans between Ikemmu and the surface world.
+
+History
+In 1480 DR, he pooled his resources with two other merchants to run a caravan to Rashemen.
+
+The witch Ilvani and the heroes Ashok, Skagi, and Cree journeyed with Tatigan on a quest to discover the source of the visions haunting Ilvani. Along the way it was discovered that one of Tatigan's partners, Thorm, was secretly working for bandits who attacked the caravan. The caravan was able to defeat the bandits, ice trolls, and other perils but when they arrived in Rashemen, they were unwelcome because of the restless spirits that were tormenting the land.
+
+Appendix
+References
+
+---
+
+## Tales of the Outer Planes
+
+Tales of the Outer Planes is a 1-edition Advanced Dungeons & Dragons anthology of short adventures revolving around the planes.
+
+Description
+The module provides pre-generated mini-adventures to introduce player characters to extra-planar worlds either as stand-alone campaigns or part of on-going campaigns. There are 11 adventures in the outer realms and 17 lair adventures that focus on creatures from an outer plane.
+
+Contents
+ How to Use Tales of the Outer Planes
+
+The book also contains a number of adventures, set in the Planes:
+ Prime: A Simple Deed, Well Rewarded
+ Ethereal: Castle at the Edge of Time
+ Air: The Brewing Storm. Adventurers must secure the release of an imprisoned janni amir in the Elemental Plane of Air.
+ Water: The Voyage of the Nereid. Adventurers are invited to explore an ancient temple in the Elemental Plane of Water.
+ Fire: Through the Fire. Adventurers must snatch an artwork made of living fire from an efreet in the Elemental Plane of Fire.
+ Earth: The Missing Kristal
+ Astral: Into the Astral Plane. Adventurers are called on to rescue a wizard from githyanki in the Astral Plane.
+ Seven Heavens: An Element of Chaos. Adventurers are asked by a deva to remove a corrupting presence in Mount Celestia.
+ Olympus: A Friendly Wager
+ The Abyss: The Sea of Screams
+ Nine Hells: To Hell and Back. A demon asks adventurers to retrieve an artifact from the Nine Hells.
+
+Finally, the book offers some short adventures in the manner of the Book of Lairs. Two of them have indications they're set in the Realms.
+ Archons
+ Babau
+ Berbalang
+ Dao
+ Farastu
+ Githyanki
+ Githzerai
+ Grey slaad
+ Ildriss
+ Kuei (in Kara-Tur)
+ Marid
+ Modrons
+ Planetar
+ P'oh and General Ox (ch'ien are used)
+ Ultrodaemons
+
+Index
+Characters
+Enki • Gustofsen Eller • Hecate • Hunt Master • Kali • Lliira • Raven • Rolly
+Creature
+Achaierai • Animental • Archon • Babau • Basilisk • Berbalang • Bodak • Chasme • Dao • Dretch • Efreeti • Ghast • Giant slug • Githyanki • Githzerai • Gray slaad  • Green slaad • Ildriss • Kuei • Lava mephit • Marid • Modron • Ochre jelly • Planetar • Rakshasa • Spinagon • Ultroloth • Vrock • Wight
+Locations
+Planes Abyss • Astral Plane • Elemental Plane of Air • Elemental Plane of Earth • Elemental Plane of Fire • Elemental Plane of Water • Happy Hunting Grounds • Nine Hells • Olympus •  • Seven Heavens
+
+Gallery
+
+Credits
+ Authors: Gary L. Thomas, Deborah A. Christian, Vince Garcia, Thomas M. Kane, David Ladyman, Martha Ladyman, Christopher Mortika, John Nephew, Bruce Nesmith, Bill Slavicsek, Rick Swan, John Terra, Ray Winninger
+ Coordinators: Bruce Heard, Karen S. Boomgarden
+ Editor: Gary L. Thomas
+ Typography: Betty Elmore, Kim Janke
+ Cartography: Dave S. LaForce
+ Cover Art: Jeff Easley
+ Interior Art: Chris Miller, Jeff Easley
+
+Appendix
+See Also
+Images from Tales of the Outer Planes
+External Links
+
+References
+
+---
+
+## Talamic
+
+Talamic was a bard of the 1360s DR.
+
+Talamic sang at the Griffin's Claw in the city of Procampur in the Vast in the Year of the Helm, 1362 DR. One of Talamic's songs was the Lay of the Purple Dragons.
+
+References
+
+---
+
+## Tako
+
+Tako  were a race of intelligent octopuses found in Kara-Tur.
+
+Description
+Tako resembled regular octopuses but with larger proportions. They had thick, leathery skin that was red-orange in color for adult females and light green for the smaller adult males.
+
+Combat
+Takos were territorial and would not hesitate to defend their territory. The males were tasked with the defense of their tribes territory. They were capable of wielding a different weapon with each tentacle, with their weapons of choice being small axes, spears and tridents. Additionally, they used their sharp, parrot-like beaks as weapons. Their tentacles were powerful enough to constrict an opponent.
+
+Abilities
+
+Takos had incredible natural camouflaging abilities. By altering the color of the skin and mantle, they blended seamlessly with their surroundings. Although they could expel a blue ink into the water, but it offered little defensive capability.
+
+Society
+Takos lived in small tribes. Their society was matriarchal, each tribe ruled by one or a pair of females. The rest of the tribe usually consisted of up to a dozen males and a half dozen youths.
+
+Diet
+As carnivores, their diet usually consisted of crabs, lobsters, oysters and shellfish.
+
+Habitats
+Tako tribes primarily lived in large submarine caves in the coastal regions of Kara-Tur, though an expat community could be found in the Sea of Fallen Stars. There they ranging from the waters of Cormyr and Sembia to the eastern reaches of Serôs, all the way up to the Dragon Reach.
+
+Languages
+Takos did not communicate verbally, instead their language was based on the movements of their tentacles and coloration changes in their skin. Only the most intelligent of humanoids were able to communicate with takos.
+
+Relationships
+Occasionally tako tribes would raid a coastal human village for food, treasure or weapons. Though some tribes co-existed peacefully with nearby humans. They also had a cooperative relationship with the blue ring octopi of the Underdark.
+
+Usages
+The ink produced by a tako was highly sought after in Kara-Tur, where it was used in calligraphy.
+
+History
+Some sages believed that the takos were descendants of an ancient aquatic creator race.
+
+At some point centuries prior to the 14 century DR, spellcasters in Shou Lung created a portal just beneath the waterline that linked the Celestial Sea and the Sea of Fallen Stars, what they referred to as "the great sea to the west", for purposes of trade. The Shou brought with them a number of takos to serve as the guardians of the portal. At some point, something disrupted the portal and the takos were left stranded in Serôs. Over time they acclimated to their new surroundings and spread eastward across the undersea realms of Serôs.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tavilar
+
+Tavilar was a village in the Vast, located on the Hunt Trail between Ylraphon and Kurth, south of the Flooded Forest. The Pass Trail led to Blanaer.
+
+History
+The Turning Key, an adventuring company, once based themselves in Tavilar. After meeting with disaster and retiring, they never returned to Tavilar.
+
+A mage in Tavilar using a scrying spell was one of only two surviving witnesses to a rampage by a stag-horned lich in the Beluar's Hunt hills, around 1350 DR. The other witness was another scrying mage in Kurth.
+
+Description
+The village lay beside the duskwood forests that formed the southern boundaries of the Flooded Forest.
+
+Locations
+The House of the Key was once home to the Turning Key band. It was a rambling old place in need of continual maintenance when they inhabited it. It collapsed outright when they didn't return, well before 1370 DR.
+
+Rumors
+Locals claimed that the Turning Key had been quite wealthy, and that their treasure must still be hidden somewhere in the area. Many times, adventurers poked through the ruins of the House of the Key, turning up nothing more than decayed furniture and finery. Based on a comment from Satcheera Moonfist, one of the Turning Key, the Flooded Forest was thought to be a better bet, but far too large and dangerous to search.
+
+Tavilar sat at the southern edge of the lands reportedly claimed by the so-called "Mage Who Never Dies". A track led from Tavilar to Mage's Tower.
+
+References
+
+---
+
+## Tajar
+
+Tajar was the most northerly of Zakhara's Pearl Cities.
+
+Geography
+The city was located near the Golden Gulf on the banks of the Al-Adib River, at the nexus of different trade routes, making it the most important place to exchange all kinds goods in the whole Land of Fate apart from Golden Huzuz itself. Tajar was therefore appropriately named the "City of Trade".
+
+Inhabitants
+Tajar was packed with merchants selling every manner of ware.  It was said that "If it is not available in Tajar, it is not available." Many of these merchants had no tolerance for amateurs.  Clumsy haggling, providing inferior merchandise, and incompetence were often punished by confiscation, derision, and even imprisonment.  Newcomers offering lower prices on the same items as established merchants were asked to raise their prices.  If they ignored these requests they often disappeared.  Disputes between merchants and customers were usually settled with blades.  The city watch rarely interfered so long as permits were in order and taxes paid.
+
+Appendix
+References
+
+Further reading
+
+Connections
+
+---
+
+## Tablets of Pharyssolnyth
+
+The Tablets of Pharyssolnyth, or the Pharyssolnyth Tablets, were a collection of writings by the silver dragon Pharyssolnyth of Yrlaphon. They detailed the secrets of dragon magic and were considered the definitive treatise on the subject.
+
+Description
+The Tablets consisted of thirty-seven large slates, obsidian black, with one side polished smooth and the other rough and natural. They seemed strange in appearance and strange to feel. They were in fact the permanently enlarged scales of a black dragon. Altogether, they weighed . They were kept in a long strip of soft leather bearing thirty-seven pockets, each holding one scale.
+
+Appearing blank, the polished sides were actually covered with minute, invisible etchings and scrawls, in a form of tactile writing unknown to any race that once inhabited Myth Drannor, but eventually considered to be a form of Draconic. Either way, it was extremely difficult to notice and read, needing close examination and a sensitive touch. On the raw sides, meanwhile, the elven examiners recorded their translations, notes, and theories in ancient moon elvish, and these were almost as hard to read.
+
+History
+Pharyssolnyth dwelt in the elven city of Yrlaphon, among the eastern woodlands of Cormanthor, in the first century after its founding in . There she recorded the tablets that were named for her.
+
+Following the fall of Yrlaphon in, the Srinshee took the Tablets with her to Srinshinnar. When Srinshinnar also fell, the Srinshee and the survivors carried the tablets with them to Cormanthor.
+
+The Tablets of Pharyssolnyth then came into the possession of Windsong Tower in Myth Drannor when the Srinshee accepted a place among the Tower Elders there. For centuries, they were hidden and locked away, examined only by permission of the Tower Elders or the Tower Master. There they remained as late as 650 DR.
+
+They were still at Windsong Tower in the mid–14 century DR. They were kept in the libraries of Windsong Aerie, but after being threatened by the Shadovar, the tower's custodian and guardian Darcassan relocated them to the vault of Shadowsong Tree, but he would allow heroes battling the Shadovar to examine them.Anauroch: The Empire of Shade, pages 87–89, allows for PCs to take the Tablets of Pharyssolnyth to Candlekeep and use them as the price of admission, but it is unclear how or why the PCs would receive them, and this event is only optional. It should be noted that the Tablets' presence at Candlekeep prompts a hint from the silver dragon ghost Miirym.
+
+Research
+In their time, the Tablets of Pharyssolnyth had been kept hidden for centuries. The Srinshee and other researchers also spent long ages examining them. It took several centuries just to determine that the Tablets were fashioned from enlarged black-dragon scales, and many years after to find the carvings. Examiners spent nearly four centuries studying and interpreting them, inscribing their translations and notes on the backs of the scales, as they were by the mid–7 century DR. Referring to them on any matter required the skill to read both the draconic and elvish scripts, and took some ten minutes, while it took a full tenday of study to examine them all.
+
+Contents
+The Tablets were a treatise on how dragons understood, learned, and practiced magic, whether as spells or in magic items. All in all, it was a trove of lore on dragonkind, knowledge precious in its own right.
+
+Any non-dragon who managed to read all the Tablets gained great insights into the powers of dragons, their attitudes towards magic and its casting, and an enhanced ability to resist magic used by dragons. They could grant this last benefit but once a century.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Talab
+
+Talab, also called the City of Questing, was the only inland city within the Pantheist League of interior Zakhara in 1367 DR.
+
+Geography
+Talab lay on the source of Al-Muti River approximately  inland due east of the coast of the Golden Gulf.
+
+Inhabitants
+Situated at the crossroads between the League of the Pantheon, the Ruined Kingdoms and the Haunted Lands, visitors from very different cultures stopped here, while the inhabitants kept mainly to themselves.
+
+Talab was able to exist and thrive because of a series of ingenious underground conduits tapping a water supply within Al-Sayaj Mountains. This water supply was fiercely protected against any threats.
+
+The caliph of Talab in 1367 DR was Kia al-Sadid.
+
+Activities
+The so-called City of Questing was both home to a strong slave-trade and an important university specializing in Pantheist religion and medicine.
+
+Trade
+Talab exported fine fabrics, slaves, and medicine.
+
+Defenses
+The Sword of the True Gods kept 3,000 soldiers and 2,000 cavalry stationed in Talab. Their primary concern was protecting trade and guarding the main pass leading into the Ruined Kingdoms. The city also maintained a watch of 1,000 guards and 100 clerical reserves. The mamluk units of the Parched Mamluk Society, numbering 900 men, guarded the water supply.
+
+Appendix
+Notes
+
+References
+
+Further Reading
+
+Connections
+
+---
+
+## Taharak
+
+Taharak was once a powerful warrior among the drow of Maerimydra in life, before rising as a ghost after his death.
+
+Description
+Taharak cut an impressive figure in his full plate armor, even more so when wearing his leering skull helm and astride his nightmare steed. In battle, Taharak wielded a spiked chain.
+
+History
+Before his death, Taharak fought for Lolth. However, after dying he took up the cause of Kiaransalee, rising anew as a deadly ghostly champion.
+
+During Lolth's Silence in Maerimydra, the rising cult of Kiaransalee there put him to work as a scout, collecting the corpses of the fallen and bringing them back to Castle Maerimydra for reanimation by Irae T'sarran's servants.
+
+References
+
+---
+
+## Tarchamus
+
+Tarchamus the Unyielding was a legendary Netherese arcanist who lived in the mid–4 millennium before Dalereckoning. Tarchamus was so powerful he was able to directly harness the power of other planes to rain destruction on his enemies, and was famous for having invented a powerful lost spell called Tarchamus' volcano.
+
+Relationships
+Tarchamus had a marked dislike of the arcanist Iriolarthas of Ythryn, considering him to be a fraud.
+
+History
+He didn't particularly care much for his fellow arcanists and frequently argued with them. One feud with the arcanist Arion grew so vicious that Tarchamus created a spell that opened a gate to Phlegethos to create a volcano that destroyed the floating city of Tenish in .
+
+After the destruction of Tenish, the most powerful arcanists, led by Tarchamus's friend Emrys, banded together and found a way to block Tarchamus's access to the Weave. After his magical powers were revoked, Tarchamus built a huge library within the caverns of Xammux beneath the Nether Mountains. Since he was unable to access the Weave, he was unable to achieve lichdom but was somehow able to transform himself into an extremely powerful mummy with the help of his apprentices. He was also able to transfer most of his consciousness into a magical book, the Book of Tarchamus.
+
+Tarchamus's physical form was destroyed in the, when the tiefling Farideh, her master Lorcan, and friends found the volcano spell and used it to blow the top off the mountain and destroy the library. Tarchamus's consciousness lived on inside the book, which fell into the possession of Tam Zawad.
+
+Appendix
+
+Appearances
+Novels
+Lesser Evils
+
+The Devil You Know
+Video Games
+
+Idle Champions of the Forgotten Realms
+
+References
+
+---
+
+## Tarchamus' volcano
+
+Tarchamus' volcano was an extremely powerful spell created by the legendary Netherese arcanist Tarchamus the Unyielding.
+
+Effects
+The spell harnessed the power of Phlegethos to create a volcano capable of destroying cities. The gate to Phlegethos opened directly under the caster, which made it necessary for the caster to either quickly remove himself from the area or else have extremely powerful protection from fire.
+
+History
+In, Tarchamus used the spell to destroy the floating Netherese city of Tenish. Thereafter, many powerful Netherese arcanists spent years searching for the spell, only to die in traps laid to catch them by Tarchamus.
+
+In the, a group of adventurers including the tiefling Farideh and her sister Havilar used the spell to destroy Tarchamus's secret library.
+
+Appendix
+See Also
+ Mavin's create volcano
+
+References
+
+---
+
+## Tam Zawad
+
+Tam Zawad was a Harper and priest of Selûne living in the Sword Coast region of Faerûn in the late 15 century DR.
+
+Description
+Tam was a tall, thin middle-aged man with brown skin and curly dark hair with some grey in it.
+
+History
+Early Life
+Tam was born in Calimshan. As a young man while adventuring with friends, his entire group was slaughtered by shadar-kai agents of Shade. He was the only survivor. From that moment onward, Tam decided to dedicate himself to Selûne.
+
+Thereafter, Tam worked as a priest for a Harper cell on the southern Sword Coast. He met a girl and they had a daughter, Mira, Tam's only child.
+
+Later Life
+At some point, Tam began living in the northern Sword Coast region. In the, he met a dragonborn bounty hunter named Mehen and his two adopted tiefling daughters, Farideh and Havilar. Tam helped the group foil a plot by devils in Neverwinter.
+
+Later that year, Tam was ordered by his Harper master to investigate antiquities in Waterdeep, presumably to keep them out of the hands of Shadovar. He found a page from an ancient Netherese magical book, the Book of Tarchamus, as well as a fragment of a stone tablet that was apparently related to the book for sale by a Waterdavian merchant. Unfortunately, the price was too high for the Harpers and a shady caravan master named Adolican Rhand purchased the items. In an attempt to steal the page, Tam crashed a party Rhand threw to show off his acquisition but Zhentarim attacked before Tam could get the page. In the confusion that followed, Tam's young apprentice Dahl Peredur was able to grab the page.
+
+With the help of Mira, Tam was able to identify the probable location of the page's origin, the ancient hidden library of Tarchamus the Unyielding near Everlund. Tam and a party consisting of Mira, Farideh, Havilar, Dahl, Brin Crownsilver, and mercenaries allied with Mira traveled to the library. They found themselves trapped in the library with ancient Netherese ghosts and the mummy of Tarchamus. The group was able to reunite the page with the sentient book the page was taken from, the Book of Tarchamus, and found a way to destroy Tarchamus and his minions, unfortunately destroying the library.
+
+During the adventure, Tam learned from the mercenaries, who were actually Zhentish agents, that his Harper master in Waterdeep was a traitor.  After the group returned to Waterdeep, Tam confronted his master and used the telepathic abilities of the Book of Tarchamus to interrogate him and then presumably carry out the Harper punishment for treason: hanging.
+
+Relationships
+Tam had a somewhat frosty relationship with his daughter. Due to his work as a Harper agent, he rarely saw her when she was young. When she was grown, they rarely crossed paths. Although Tam seemed to be disturbed that Mira worked with Zhents, he still regarded her as a potential ally and even tried to recruit her to the Harpers.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tarandor Delhame
+
+Tarandor Delhame was a powerful mage living in Iriaebor in the Western Heartlands in the late 15 century DR.
+
+History
+He was the former apprentice of the apprentice of the archmage Meritheus, who trapped Jack Ravenwild in the mythal beneath Ravens Bluff in 1372 DR.
+
+In the, the High House of Magic learned that Jack had escaped his confinement in the mythal and notified Tarandor who was obligated to his master to recapture Jack.  Tarandor tricked Jack into meeting him at a warehouse, where he shrunk Jack and placed him into a bottle for easy transport to the mythal. Jack, however, was able to use a spell from the Sarkonagael to escape his confinement. Later, Jack tricked Tarandor into purchasing a shadow simulacrum of Jack for 2,000 gold pieces. Thinking he had the real Jack, Tarandor imprisoned the simulacrum in the mythal stone, though it also escaped when the mythal was destroyed.
+
+Appendix
+Appearances
+Novels
+Prince of Ravens
+
+References
+
+---
+
+## Tarmel Drouth
+
+Tarmel Drouth was a criminal of Cormyr and Sembia in the late 15 century DR.
+Relations
+He was the bastard second son of Rancelair Illance of House Illance of Cormyr. His mother, Asla Drouth was a barmaid in the dockside district of Suzail.
+
+Personality
+Tarmel had a fiery temper and appeared to be at least slightly mentally imbalanced as he enjoyed committing arson. He nursed a strong grudge against his father.
+
+History
+Tarmel was raised with his legitimate brothers. As a youth, Tarmel engaged in thefts, arsons and brawls and was even rumored to have committed murders. His father, Rancelair soon grew tired of his crimes and disowned him, stripping him of the right to use the family name.
+
+Penniless and nameless, Tarmel attempted unsuccessfully to burn down the family stables in Suzail. When this failed, he journeyed to Sembia where he lived for months as a bandit in Sembia's forests. He accumulated enough gold to purchase weapons and a wagon to conceal them in and he traveled to the Illance summer home at Stag Well in Cormyr.
+
+Tarmel attacked his father and the family guards and, although he killed many of the family's retainers, his father survived. Tarmel did manage to steal a small fortune from a cache the family had at Stag Well.  Because his father was engaged in illicit meetings with other nobles at Stag Well, the incident was hushed up for weeks, which allowed Tarmel to escape and he returned to Sembia a rich man.
+
+After his return to Sembia, by 1479 DR, he was secretly sponsored by other banished nobles who replenished his coin stash with money of their own. Tarmel mistakenly believed some god had taken an interest in his "just" cause and was responsible for the mysterious coin.
+
+Appendix
+References
+
+---
+
+## Tanshiver Brynleaf
+
+Tanshiver "the Bard" Brynleaf was a human man living in Calaunt in the Vast around 1358 DR.
+
+Despite the nickname, Tanshiver was actually a sage who specialized in folklore of human cultures and music from around the Dragon Reach. He worked from his office, known as Tanshiver's Corner, on Turncobble Street.
+
+He was also an active Harper agent.
+
+Appendix
+References
+
+---
+
+## Tales from the Infinite Staircase
+
+Tales from the Infinite Staircase is a 2-edition Advanced Dungeons & Dragons adventure anthology. It is part of the Planescape campaign setting.
+
+Description
+Tales from the Infinite Staircase was written by Monte Cook and was first published by TSR, Inc. in 1998.
+
+Contents
+ Introduction
+ Tale 1: Planewalkers
+ Tale 2: Lost Sovereignty
+ Tale 3: Lord of the Worms
+ Tale 4: In Disarray
+ Tale 5: Winds of Change
+ Chapter 6: The Dream Well
+ Chapter 7: Reflections
+ Chapter 8: A Devil's Dream
+
+Gallery
+
+Credits
+ Designer: Monte Cook
+  Editor: Skip Williams
+ Creative Direction: Thomas M. Reid
+ Cover Artist: rk post
+ Interior Artist: Hannibal King
+ Cartography: Rob Lazzaretti & Dennis Kauth
+ Art Direction: Dawn Murin
+ Electronic Prepress Coordinator: Terry Craig
+ Typography: Angelika Lokotz
+ Border Art: Robert Repp
+ Graphic Design: Dawn Murin & Matt Adelsperger
+ Proofreaders:''' Michele Carter & Penny Williams
+Appendix
+See Also
+ Images from Tales from the Infinite Staircase
+External Links
+
+Connections
+
+---
+
+## Tayrom Onetry
+
+Tayrom Onetry was a human man who lived in the town of Elmwood in the Moonsea in the mid–14th century. He was proprietor of the Grange trading emporium.
+History
+Tayrom was born circa 1334 DR. He lived in Elmwood.
+
+At age 22, around 1356 DR, Tayrom took up as an adventurer and joined a band of explorers travelling to Ravens Bluff in the Vast. But, on the way, they were attacked by kobolds, who beat them all up and stole all their valuables. Tayrom, however, had fled screaming at the first sight of them, and ran all the back to Elmwood. This was his "one try" at the adventurer's life, hence his nickname.
+
+Tayrom later became a merchant, managing the Grange trading emporium in Elmwood. He still managed the store by 1367 DR.
+
+Personality
+In later years, Tayrom "Onetry" enjoyed telling the tale of his brief adventuring career, but claimed he killed several kobolds before he fled. The kobolds seemed to grow in size with every telling.
+
+Activities
+Tayrom managed the Grange, a trading emporium in Elmwood. It stocked almost every mundane item one could need, bar arms and armor. What it didn't have in that range, Tayrom could order in in 3–18 days.
+
+References
+
+---
+
+## Tarsakh 1
+
+On This Day
+
+Worshipers of Anhur begin a month-long tournament by nonlethal combat to determine the next Chosen of Anhur.
+Worshipers of the halfling deity Cyrrollalee celebrate Hearthday.
+Worshipers of the Red Knight celebrate the Queen's Gambit with feasting and gaming tournaments.
+Followers of Tyr perform the ritual of Seeing Justice at which a giant warhammer appears above the congregation glowing white hot.
+ The celebration of Caravance marks the beginning of the Waukeentide festival in Waterdeep.
+In 1338 DR, the Battle of Mount Bogdo occurred in the Hordelands between the Tuigan/Naican alliance and the Commani.
+In 1373 DR, the avariel Taegan Nightwind told the Queen-Regent Sambryl and the Council of Lords of Impiltur of a Cult of the Dragon cell operating in Lyrabar and the Gray Forest.
+In 1374 DR, Dabron Sashenstar met in secret with an agent named Tuth to broker a deal between the Council of Four of Baldur's Gate and the Knights of the Shield.
+In Huzuz, the women of the Royal Harim were honored. The first day of Gammam was also the birthday of the wife of the very first Grand Caliph. All of the succeeding Grand Caliphs were married on this day as well.
+
+References
+
+---
+
+## Tarsakh 4
+
+On This Day
+
+ In the Vast, the Arming is observed, when local militias muster for inspection, youths receive their first weapons and armor, and communities celebrate the common defense against orcs, pirates, and bandits.
+References
+
+---
+
+## Tarsakh 10
+
+On This Day
+ Worshipers of Waukeen observe Spheres, a High Festival including a parade of glass baubles filled with gems and coins which are then catapulted into the city at random.
+ The celebration of Leiruin marks the end of the Waukeentide festival in Waterdeep and commemorates the occasion when Waukeen punished Leira for trying to cheat her in a deal.
+
+References
+
+---
+
+## Tarsakh 13
+
+On This Day
+
+Worshipers of Garl Glittergold celebrate the Communion of Laughter with various activities
+Worshipers of Tyr perform the ritual of the Maiming at which a giant gauntleted hand appears above the congregation and then disappears in an illusion of flaming blood
+References
+
+---
+
+## Tarsakh 15
+
+On This Day
+
+ Priests of Shaundakul observe Windride when their deity gives them all gaseous form until dusk, landing them safely but probably in a place unfamiliar to them
+In 1374 DR, agent Tuth of the Knights of the Shield met with Dabron Sashenstar (representing the Grand Dukes of Baldur's Gate) to seal a deal for lucrative trade concessions in the Maztican colony of Balduran in exchange for the removal of Sfena, head of the Iron Throne trading company.
+References
+
+---
+
+## Tarsakh 22
+
+On This Day
+
+Worshipers of Tyr perform the ritual of the Blinding at which an illusion of a giant pair of eyes appears above the congregation and then sheds flaming tears until they drain away to nothing
+References
+
+---
+
+## Tarsakh 3
+
+On This Day
+In 1375 DR, the Moonsea town of Phlan became a vassal state of the Zhentarim when troops from Zhentil Keep took the city.
+References
+
+---
+
+## Tarsakh 5
+
+On This Day
+ Waterdhavians celebrate the night festival of Goldenight as part of the Waukeentide holiday.
+In 1373 DR, the red dragon Narlgathra from the ruins of Myth Drannor attacked the elven community of Tangled Trees in the forest of Cormanthor, killing most of the residents.
+References
+
+---
+
+## Tarsakh 7
+
+On This Day
+ The Waterdhavian gala festival of Guildsmeet as part of the Waukeentide holiday celebrates the year's achievements of the Guilds of Waterdeep.
+
+References
+
+---
+
+## Tarsakh 12
+
+On This Day
+In 1373 DR, a party of dragon hunters eliminated the Zhentarim military outpost in Elmwood and sunk three of their warships.
+In 1373 DR, a campaign against the Cult of the Dragon in the Gray Forest by an army from Impiltur ended in utter defeat when a bronze dragon incited the Rage in their dragon allies.
+In 1374 DR, the daemonfey army led by Sarya Dlardrageth retreated to Myth Drannor after their failed attack on Evereska.
+In 1479 DR, the forces of Hulburg defeated an invading alliance of orcs, hobgoblins, ogres, and Warlock Knights at the Battle of Lendon's Dike.
+References
+
+---
+
+## Tarsakh 16
+
+On This Day
+In 1373 DR, the army of Impiltur rallied from defeat and destroyed a Cult of the Dragon lair in the Gray Forest with the help of the spirit dragon Vorasaegha.
+In 1374 DR, Gargauth the Hidden Lord, had Sfena, the leader of the Iron Throne trading company, captured and thrown into the dungeons of his domain somewhere on the Prime Material Plane to fulfill a bargain between his Knights of the Shield and the Grand Dukes of Baldur's Gate.
+In 1374 DR, the Shard of the Sun, a holy relic associated with the (allegedly) dead god Amaunator, was recovered by Daelegoth Orndeir, the leader of the Brotherhood of the Glorious Sun.
+References
+
+---
+
+## Tarsakh 17
+
+On This Day
+ In 1354 DR, the Four Mages of Felshroun successfully repel an attack on the town by the Red Wizards of Thay.
+In 1373 DR, the town of Highmoon in Deepingdale was attacked by the black dragon Zarlandris. The dragon was narrowly defeated but the Tower of the Rising Moon was destroyed.
+References
+
+---
+
+## Tarsakh 18
+
+On This Day
+In 1373 DR, a temple to Gond was established by missionaries from Lantan on the largest island in the Green Sisters archipelago off the coast of Maztica. They named the island St. Ippen and began constructing the Great Lighthouse.
+References
+
+---
+
+## Tarsakh 19
+
+On This Day
+In 1374 DR, Seiveril Miritar's elven Crusade arrived at Myth Glaurach, the home base of orc and ogre troops used in an assault on Evereska.
+In 1374 DR, the elder evil Pandorym was again sealed in the Celestial Nadir and the Palace of the Purple Emperor by Kiril Duskmourn, Ususi Manaallin, and Iahn Qoyllor.
+References
+
+---
+
+## Tarsakh 21
+
+On This Day
+In 1374 DR, the new leaders of the Iron Throne trading company held a secret meeting beneath a Ordulin warehouse. Hogley, Krakosh, Maready, Seecher, and Skitt decided to keep the organization in operation, but it was evident that the geas spells placed on them by Sfena were beginning to wear off.
+References
+
+---
+
+## Tarsakh 23
+
+On This Day
+Using smokepowder, the canal being constructed between the Lake of Steam and the Nagaflow is destroyed by its architect Ivar Devorast in 1374 DR
+
+References
+
+---
+
+## Tarsakh 26
+
+On This Day
+In 1372 DR, forces from the recently returned Netherese enclave Shade imprisoned the phaerimm that were besieging Evereska in a shadowshell.
+References
+
+---
+
+## Tarsakh 29
+
+On This Day
+In 1374 DR, the Merchant's League of Baldur's Gate invested in a large caravan of weapons and armor destined for Hillsfar, in direct competition with the Iron Throne.
+ In 1385 DR, Mystra is assassinated by Cyric and Shar, triggering the Spellplague.
+References
+
+---
+
+## Tarsakh 30
+
+On This Day
+ In 1359 DR, the Tuigan invasion of Shou Lung had its first clash with an organized Shou army at the Battle of the Sorghum Field, which ended in a decisive victory for the Tuigan.
+ In 1370 DR, the Unseen agent posing as Lady Syleda Krimmevol vanishes the day before she is due to marry Lord Carn Manthar. The twins Dylea and Ithnil, also doppelgangers, remain with their father and are due to eventually inherit control of his noble house.
+ In 1372 DR, the Wailing Death plague began to ravage Neverwinter. Within a month, much of the populace was dead or dying.
+ In 1374 DR, the Iron Throne trading company retaliated against the Merchant's League of Baldur's Gate by a coordinated assassination of Merchant League agents in Arabel, Iriaebor, and Scornubel.
+References
+
+---
+
+## Tanarspear Hill
+
+Tanarspear Hill was a hill located west of Hlondeth in the Vilhon Reach.
+
+It was site of Raven's Rack, an isolated shrine to Ilmater the Crying God, lying at the very top of the hill.
+
+References
+
+---
+
 ## Tabot
 
 Tabot (a name meaning "the Roof of the World") was a cold mountainous country in central Kara-Tur and home to the Tabotan people. It was founded jointly by native barbarian tribes and monks who fled persecution in Shou Lung, and developed into a theocracy dedicated to the Path of Enlightenment and its leader, the High Lord of Oceans.
@@ -1432,6 +4211,210 @@ References
 
 ---
 
+## Taskerleigh
+
+Taskerleigh was a village located not far from Waterdeep.
+
+Geography
+Taskerleigh was located north of Goldenfields in fertile hills near Gaustar's Creek, a tributary of the River Dessarin. Presumably, it would have been located near Womford.There is a conflict between the text of Elfsong and the map in the novel. The text makes clear that Taskerleigh is found on or near Gaustar’s Creek, is located near fertile hills, and is north of Goldenfields. It is also found to the west of the fork in the Iron Road which leads south to Secomber and north up the Unicorn Run. For these reasons, the site marked on the novel’s map must be regarded as an error, and Taskerleigh cannot be located at the confluence of the Delimbiyr and the Unicorn Run.
+
+History
+In or just prior to the year 1364 DR, the village was attacked and destroyed by the green dragon Grimnoshtadrano. There was only a single survivor: the elven bard Ingrival, who had carried the Morninglark harp. When others found him after the attack, he was quite mad and living as a hermit.
+
+Appendix
+Notes
+
+Appearances
+Novels
+Elfsong
+
+References
+
+---
+
+## Talmaruk
+
+Talmaruk was an island inhabited by all kinds of cold and evil spirits. Wu-haltai legends said that the
+strongest winter storms came from that island.
+
+Appendix
+
+References
+
+---
+
+## Tarmas
+
+Tarmas was a male human wizard of the village of West Harbor on the Sword Coast North in the 1370s DR.
+
+Desciption
+Tarmas was balding and generally adopted a sour expression. He wore robes of dark brown and grey hues.
+
+Personality
+Misanthropic and quick to deride his neighbours, Tarmas generally kept to himself. Though he maintained a quiet respect for the hardy folk of the Mere of Dead Men.
+
+Abilities
+
+An adept wizard, Tarmas had developed a talent with altering the effects of certain spells and could extend their duration or empower them, as needed.
+
+Despite his surly demeanor, Tarmas was a capable tutor and had trained a number of apprentices in West Harbor.
+
+History
+Tarmas came to live in West Harbor after the First War of the Shadow, as the city life was unappealing to him. The villagers decided that he needed to train apprentices, so he took Amie Fern and adopted her, since her parents had died in the First War against the King of Shadows.
+
+During the Harvest Fair in the, Tarmas planted the three feathers for the Knaves' Challenge. During the attack of the bladelings and duergar, he aided the villagers, but Amie was slain helping him in spell-battle against a githyanki mage.
+
+Tarmas survived the Second War of the Shadow, but new problems faced West Harbor. As the town was rebuilding after the war, the town's new mayor, Lazlo Buckman, unbeknownst to the villagers, stroke a protection deal with two black dragons. Dragons Voaraghamanthar and Waervaerendor received the town's famous Harvest Mead in exchange for keeping the swamp's dangers at bay. However, the deal was broken and the dragon began menacing West Harbor. Tarmas set out to infiltrate the dragon's den further into the swamps but ended up disappearing – captured and locked away. Lazlo grew worried and sent Ginni and Pitney Lannon to retrieve the missing wizard. The man Lannons rescued, however, was one of the dragons who used polymorph magics to infiltrate West Harbor in Tarmas's guise.
+
+Luckily, a band of adventurers who sough to establish a trading post in West Harbor became involved. They ventured deeper into the caves and eventually found gaunt and beaten Tarmas still in a cage. He was rescued and brought safely to West Harbor, where the dragons confronted the town's defenders issuing an ultimatum – Voaraghamanthar and Waervaerendor would take over the town and its mead production or the town would become a ruin. Even though it remained unknown if West Harbor defeated the dragons or was calm by its new draconic masters, Tarmas survived the experience and continued to take apprentices, with Jan Lannon amongst them, while also being a trader of magic goods and trinkets.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights 2 • Neverwinter Nights 2: Storm of Zehir)
+References
+
+External links
+
+---
+
+## Tantras Trail
+
+The Tantras Trail, also called the Lion's Walk, was a trail that ran through the Vast, connecting the city of Tantras and the village of Highbank Forest.
+
+From west to east, it began at Tantras, ran through Orlimmin, and ended at Highbank Forest. On the way, it linked with the Cross Road, Coast Road, the Long Reach, and Feldar's Trail.
+
+Appendix
+Galleries
+
+References
+
+---
+
+## Tanetal
+
+Tanetal was a pit fiend and servant of Bane.
+
+History
+In the Year of the Morningstar, 1350 DR, Tanetal was ordered by Bane into the service of the Red Wizard Marcus in order to aid him in his task of bringing more power to the dark god by sacrificing human souls to the pool of darkness. Vastly more competent than his nominal master, Tanetal was used as a scapegoat by Marcus. Even though he brought power to the wizard and brought thousands of troops into his service, Tanetal was stymied by the inept wizard.
+
+Eventually, Tanetal assumed the form of the human bard "Latenat" in an effort to convince the people of Phlan to abandon the stolen city and leave the safety they enjoyed there. His plot almost succeeded until Marcus summoned him to his defense at a most inopportune moment.
+
+Evaine finally managed to banish him to the Nine Hells by figuring out his true name.
+
+Trivia
+Tanetal had a habit of saying "Latenat" at the beginning or end of his speech.
+
+Appendix
+
+Discrepancy
+In the video game Pools of Darkness, Tanetal was portrayed as a Type IV demon, i.e., a glabrezu. This was likely changed in the novel as a demon, being chaotic evil, would be an unlikely servant for the lawful evil Bane.
+
+References
+
+---
+
+## Tarmas' home
+
+Tarmas' home was one of the houses in the village of West Harbor on the Sword Coast North. It belonged to Tarmas.
+
+Location
+Located in the center of the village, Tarmas' home was located between the Starling house and Pierson's home.
+
+Structure
+Like the other houses in West Harbor, Tarmas' home was wooden.
+
+Interior
+The building was small. It was composed of a bedroom, a laboratory and a library.
+
+History
+Tarmas and the Kalach-Cha's friend, Amie Fern, lived in this house. When duergar and bladelings attacked the village in 1374 DR, Tarmas ordered the Kalach-Cha to retrieve some supplies from his house, which would aid them in the battle. The supplies were books, scrolls, potions and a magical mandolin.
+
+Appendix
+Gallery
+
+Appearances
+Neverwinter Nights 2
+
+References
+
+---
+
+## Tann
+
+Commander Tann was a human commander of Fort Locke near the Mere of Dead Men on the Sword Coast North.
+
+History
+Tann was the commander of Fort Locke until he vanished on a patrol. A shadow priest captured him and his men Blaine, Bruneil, and Garret.
+
+When the Kalach-Cha arrived, Tann was held captive and needed to be rescued. Once done, the Kalach-Cha could've searched for his men. However, upon returning coming to Fort Locke, Vallis would be displeased Tann had returned and would imprison him. The Kalach-Cha could've fought Vallis or persuaded his men to put their weapons down.
+
+Appendix
+Appearances
+Video games
+ Neverwinter Nights 2
+
+References
+
+External links
+
+Connections
+
+---
+
+## Tanis Keltronn
+
+Tanis Keltronn was a human male and the head of the Keltronn mercantile family in Eshpurta, which gave him a seat on the Shield Council as of early 1370 DR, the Year of the Tankard. He was a distant cousin of the powerful Argrim family of Athkatla, who made his reputation in the food and wine markets through ruthless negotiation.
+
+Appendix
+References
+
+---
+
+## Tarntassa
+
+Tarntassa was a human woman of the city of Tantras in the Vast. She was a mage and adventurer.
+
+Home
+Tarntassa was based at a tower known as Tarntassa's Tower, standing off Sandril's Lane in the western side of Tantras.
+
+Description
+Tarntassa was easily recognized by her tall stature and very long ponytail of bronze-hued hair.
+
+History
+During the Time of Troubles of 1358 DR, Tarntassa had apparently disappeared. In fact, she'd traveled to Waterdeep and there became a friend and ally to Khelben Arunsun. She also became a secret ally of the Harpers. Afterward, she returned to Tantras.
+
+Relationships
+Tarntassa was a friend to the Harpers. Harper agents were welcome at her tower, provided they came quietly under cover of dark.
+
+References
+
+---
+
+## Tarntassa's Tower
+
+Tarntassa's Tower was a mage's tower in the city of Tantras in the Vast, standing off Sandril's Lane in the western side of the city. It was the home the adventurer-mage Tarntassa.
+
+Tarntassa was a friend to the Harpers. Harper agents were welcome at her tower, provided they came quietly under cover of dark.
+
+References
+
+---
+
+## Tantran finefish
+
+Tantran finefish was a type of pickled fish dish produced in the city of Tantras in the Vast in the mid–14 century DR. Those who didn't enjoy it disparaged it as silvermuck.
+
+Availability
+Locally caught fish were spiced and pickled to make finefish. This was barreled in Tantras then exported across Faerûn, as one of the city's major products.
+
+Aurora's Whole Realms Catalogue sold them under its "Aurora's Larder" section at a price of 7 gold pieces per .
+
+Appendix
+References
+
+---
+
 ## Talos
 
 Talos, known long ago as Kozah, was the Faerûnian greater deity of storms and destruction. The Storm Lord was the destructive force of nature and leader of the Gods of Fury whose self-serving dogma demanded utter obedience from his priests, instructing them to spread destruction where they might.
@@ -1512,6 +4495,7927 @@ References
 Connections
 
 de:Talos
+
+---
+
+## Tantran Guild of Merchant Masters
+
+The Tantran Guild of Merchant Masters was a guild in the city of Tantras in the Vast, located in the north-east corner and active around 1358 DR.
+
+The guild was a private club for Tantran citizens who owned and operated merchant fleets, though anyone could become a member. The membership fees were 200 gp per year.
+
+References
+
+---
+
+## Tarag
+
+Tarag was a merrow chieftain of Serôs in the 6th century DR.
+
+History
+Tarag somehow came into the possession of the sword Ilbratha, the legendary lost sword of King Azoun I of Cormyr.
+
+As a chieftain of the sea ogres, Tarag used the powers of the sword and his own battle strategies to conquer the western frontiers of the merfolk realm of Hmurrath. There, in the Year of the Deep Wound, 582 DR, Tarag founded the two Axe Kingdoms of Khuur and Nmalk. Ilbratha remained among the merrow for seventy-three years.
+
+References
+
+---
+
+## Taraj Hurlymm
+
+Taraj Hurlymm was a male wizard who was one of the magelords of Athalantar and was killed by Elminster Aumar.
+
+Activities
+Taraj's hobby was taking beast-shape and stalking men and women as if they were prey.
+
+History
+He took over governance of outlying Dalniir for the magelords, pressing the elves. Thus they asked Elminster to kill Taraj. However, Taraj summoned his fellow magelord Kadeln Olothstar was eventually slain by Elminster.
+
+References
+
+---
+
+## Tarana Lyr
+
+Tarana Lyr was a female human sorceress and a worshiper of Bane before and during the Time of Troubles in 1358 DR.
+
+History
+Tarana was a crazy sorceress in the service of Bane during the god's assault on Tantras.
+
+Personality
+The power of sorcery had long ago driven Tarana mad. She enjoyed the unpredictability of magic during the Time of Troubles and the sensation of playing with death.
+
+References
+
+---
+
+## Tanova
+
+Tanova was a noble lady turned vampire.
+
+History
+In Baldur's Gate, she met and married Jon Irenicus sometime after his exile from Suldanessellar.
+
+Sometime after their marriage, she was murdered by a mage named Centeol, who was in love with Jon and believed that Jon would reciprocate her feelings. However, Jon tracked her down and put a curse on her as revenge. He took Tanova's body to be transformed into a vampire by Bodhi, after Jon Irenicus met her in Baldur's Gate.
+
+In the, Gorion's Ward fought her in the torture chamber in Bodhi's lair in Athkatla, Amn, and defeated her. However, she was not fully slain. She was later ordered to chase a Shadow Thief called Sansuki and again fought Gorion's Ward, but avoided defeat by transforming into mist.
+
+Appendix
+
+References
+
+Connections
+
+de:Tanova
+
+---
+
+## Tarnesh
+
+Tarnesh was a bounty hunter mage active in the late 14 century DR.
+
+Possessions
+Tarnesh was armed with a simple quarterstaff and his spellbook contained simple spells such as mirror image, horror, and magic missile.
+
+History
+In the, Tarnesh put his sights on Gorion's Ward, Abdel Adrian. A hefty bounty of 200 gold coins was placed on Abdel's head. The wizard tracked his mark down at the entrance to the Friendly Arm Inn. Tarnesh was unlikely to have survived the confrontation.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate
+
+References
+
+External links
+
+de:Tarnesh
+
+---
+
+## Tamorlin
+
+Tamorlin was an elven adventurer who made a fateful excursion into the Watcher's Keep, before being trapped within.
+
+Possessions
+During his time in the keep, Tamorlin kept a journal that detailed his efforts to map out the level he was stuck in.
+
+History
+When Tamorlin and his companions ventured into Watcher's Keep, nearly all of them were slain – only Tamorlin survived. He managed to reach the maze-like third level but could not find his way out. Over time he slowly went insane, though not incurably so.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate II: Throne of Bhaal
+
+External links
+
+References
+
+de:Tamorlin
+
+---
+
+## Tara el Viilam
+
+Tara yr Meriel el Viilam, who became known as Tara of the Burning Mists, was the creator of the Bottlemist Plague, which killed thousands of people in Almraiven in the Year of the Tankard (1370 DR). Several other acts of terrorism were afterward attributed to her as well.
+
+Relationships
+Tara was the second daughter of the "Veiled Caleph" of Almraiven, Lady Meriel yr Zahyra el Viilam, who ruled the Guild Arcane of Almraiven and its School of the Arcane Hands.
+
+History
+Tara created the plague in the first month of 1370 in an attempt to assassinate the syl-pasha and his court when he visited her city the following month. Then, she hoped, Calimshan would be ruled by a magocracy again.
+
+Unfortunately, the plague was unleashed earlier than expected, and the city was crippled. An investigation by a cleric of Ilmater discovered that Tara was the one responsible, and he was found murdered soon after he revealed this information.
+
+Tara then fled the School of the Arcane Hands and became a fugitive, triggering a country-wide search. By the end of the year, she had still not been found.
+
+Rumors
+Tara of the Burning Mists was thought to be responsible for the arson that destroyed St. Faelar's Cloisters in the same year of the plague.
+
+Tara was also blamed for the creation of the Copper Cliffs in Volothamp. A strange wizard was seen flying over the city late in the year and cast a spell that turned all of the copper in the entire city to liquid. The copper poured from the upper parts of the city before solidifying again, forming the cliffs. The motive for this spell was not known.
+
+References
+
+---
+
+## Talis
+
+Talis was a card game popular in Faerûn, being considered "one of the four universal games" along with draughts, chess, and dice.
+
+Description
+It involved a deck of 70 or 78 cards,Forgotten Realms Campaign Setting 3 edition states there are 78 cards in a deck; however, Aurora's Whole Realms Catalogue claims four twelve-card suits and a 22-card trump suit, which would be 70 cards. For reference, real-world Tarot decks have four fourteen-card suits and a 22-card trump suit for 78 cards. including four regular ("planar") suits (flames, stones, waves, and winds) and one trump suit of 22 cards, called the major arcana. Major arcana cards included the Sun, Moon, Star, Comet, Throne, Key, and Night cards, among others.
+
+Many games could be played with a Talis deck. Common examples included:
+ whist,
+ poker,
+ talison,
+ elemental empires, and
+ old wizard.
+
+Decks
+Most decks were made of lacquered parchment or paper and stored in a wooden case. A typical set might be purchased for 2 gold pieces, although bargain sets made in Candlekeep could be purchased for as little as three silver pieces from Aurora's Emporium.
+
+Other Uses
+Some inhabitants of Faerûn used Talis decks for non-magical divination purposes.
+
+History
+Circa 1368 DR, the ambitious halfling from Waterdeep, Joshuan Havabuck, ran multiple schemes and business in the Dock Ward. One such prosperous enterprise was selling pornographic Talis card decks.
+
+Notable Talis Users
+ Hebertal the Hunched, a fortune teller in Loudwater circa 1372 DR.
+
+Appendix
+Inspiration
+A deck of Talis cards is described as similar to a deck of tarot cards.
+
+Notes
+
+Appearances
+
+Reference
+
+---
+
+## Tabaxi (tribe)
+
+The Tabaxi were the largest tribe of humans in Chult in the 14 century DR. When most people referred to Chultans, they were speaking of members of this tribe, as the Tabaxi had absorbed most of the other Chultan tribes.
+
+History
+Alongside the Eshowe and Thinguth, the Tabaxi were one of a number of tribes that emigrated from Katashaka in . The Tabaxi originally worshiped the deity Olurobo and his children, called the nyama-nummo, with their lands ruled by the Sleeper, greatest of the nyama-nummo. Then, from around, the couatl Ecatzin came and shared the message of Ubtao. Although initially resistant, some members of the tribe gradually came to accept the couatl's words. Then, on the Night of Feasting, the Sleeper awoke from within the Palace of the Alliz-Dren. A woman named Oyai had been chosen from birth to be a Tarasajok, which meant that she would be the first to be fed to the Sleeper on awakening. However, Ubtao had made Oyai one of his Chosen, the first bara, and she slew the Sleeper with powerful magic. Afterward, 300 canoes of people who had taken up the worship of Ubtao agreed to follow Ecatzin over the ocean and north to Chult.
+
+Centuries later, the Tabaxi fought the Eshowe (the second-most-populous Chultan tribe) across the territory of Chult in a bloody war that lasted from  to . In, the Eshowe had conjured up a dreadful shadow-beast that attacked the Tabaxi city of Mezro. In vengeance, the Tabaxi protector Ras Nsi hunted and killed nearly all of the Eshowe tribesmen. Shortly after the end of the war, the remaining tribes were absorbed into the Tabaxi and became known collectively as Chultans.
+
+In addition to the Eshowe, the Tabaxi were enemies with the ptera-men.
+
+Confusion with the "Cat-Men"
+"Tabaxi" was also a term given to a race of humanoid jaguars found in both Chult and Maztica. It has been suggested that this was an error in naming. The explanation was that an explorer from Cormyr saw a Tabaxi tribesman dressed in ceremonial garb of panther skin and was told by a guide that the man was a Tabaxi. Misunderstanding what the guide meant, this explorer assumed that all cat-men were called "Tabaxi".
+
+In actuality the Cormyrean explorer was not far off from the truth. The human tribesmen named their people after the enigmatic feline-humanoids.
+
+Appendix
+See Also
+ Chultan (ethnicity)
+Appearances
+Novels
+The Ring of Winter
+Further Reading
+ Dragon+ 11 - Lore you Should Know: Tabaxi vs. tabaxi
+ Volo's Guide to Monsters
+Reference
+
+FR:Tabaxi (tribu humaine)
+Connections
+
+---
+
+## Tarnheel Embuirhan
+
+Tarnheel "Tyrant" Embuirhan was the ruler of Mintarn and was reputed to be one of the best swordsmen of the Realms.
+
+History
+Tarnheel was intrigued when the Sea Sprite of Captain Deudermont arrived in Mintarn in search of information about the mythical isle of Caerwich because he knew that Drizzt Do'Urden was onboard. Drizzt was considered by many the best swordsman in the Realms and Tarnheel wanted this title. He thought this was the perfect occasion to decide the matter.
+
+Thus Tarnheel sent his ambassador, Dunkin Tallmast, offering goods and information in exchange for a duel between Tarnheel and Drizzt. Drizzt accepted the offer and confronted Tarnheel in a secret fight. When Catti-brie asked Drizzt about the outcome, he remained evasive. However, Robillard and Harkle Harpell used magic to watch the battle and assured Catti-brie that Drizzt won.
+
+Appendix
+
+Appearances
+Novels
+ Passage to Dawn
+Video games
+ Treasures of the Savage Frontier
+References
+
+---
+
+## Tarbaw Nighthill
+
+Tarbaw Nighthill was a human and the governor of the small town of Greenest, located in the Western Heartlands of west Faerûn.
+
+Description
+Tarbaw was a noble, some sixty-odd winters old who usually dressed in a blue tunic. He had brown hair and a short beard.
+
+History
+Around 1489 DR during a battle with the blue adult dragon Lennithon and the Cult of the Dragon, Tarbaw was wounded but stayed in command in the keep with the Castellan Escobert the Red.
+
+Appendix
+References
+
+---
+
+## Taraz
+
+Taraz the Fair was an efreeti trapped in Xonthal's Tower by the wizard Xonthal circa 1380 DR.
+
+History
+Xonthal disappeared and Taraz remained trapped in the tower.
+
+Activities
+During the Tyranny of Dragons, he tried to trick an adventurer's band that infiltrated the tower into freeing him.
+
+Appendix
+Appearances
+ The Rise of Tiamat
+
+References
+
+---
+
+## Talantra Bowgentle
+
+Talantra Bowgentle was a bard based in Silverymoon and an active Harper.
+
+Description
+Talantra stood 5 ft 6 in (168 cm), weighed 122 lb (55 kg), and had auburn hair and green eyes.
+
+Personality
+Talantra had a reputation of being a "dangerous lady" and it was wise not to trifle with her. She often wandered alone but once she discovered the Harpers she was often found in their company. She had no qualms about stealing from evil people and she championed any female, druid, ranger, or even outnumbered adventuring parties who were battling orcs, brigands, or evil creatures.
+
+Abilities
+She was proficient in the use of the longsword, dagger, darts, and club. She could swim, was skilled with a rope, could determine direction easily, and even fight in limited visibility situations. As a bard, she was also a superb singer.
+
+Possessions
+Talantra wore a ring of protection +2, a ring of regeneration, a cloak and boots of elvenkind, and had one jar of Keoghtom's ointment. She kept a few bloodstones in hollow heels attached to her boots.
+
+Activities
+After joining the Harpers, she patrolled the North both alone and with other Harpers, assisting those in need and combating evil.
+
+Relationships
+Talantra earned the undying hatred of Shairn Delarna, a vizier of Calimshan, when she impersonated her and stole her jewelry, but Talantra managed to intimidate the evil vizier into leaving her alone. Talantra ran with the Knights of Myth Drannor for a short time and developed a crush on Florin Falconhand (before he was married to Dove). She also had a brief relationship with Randal Morn. The famous Harper Sharanralee escorted Talantra to Silverymoon and helped recruit her to join the Harpers.
+
+Talantra Bowgentle was no relation to the renowned wizard Bowgentle.
+
+History
+Talantra was an orphan in Calimshan but not of Calishite descent, so she was considered a "barbarian". Her strength got her a job as a mercenary guarding harems, but she soon developed other talents, like singing and thieving. Her jewel heists got increasingly bold, and her crowning achievement was stealing a spidersilk gown studded with emeralds and a gold stomacher from vizier Shairn Delarna by tying her up, taking her clothing, and impersonating her. Furious, Delarna sent assassin after assassin to exact her revenge on Talantra, but none ever came back. After months of frustration, Delarna awoke one morning to find eleven severed heads in her bed, each one belonging to an assassin she had hired, and each had the same message stuffed into their mouth, warning that Delarna's head might be next. Shairn Delarna wisely gave up trying to kill Talantra, at least through hiring assassins.
+
+After the price on her head was removed, Talantra disappeared from Calimshan and many believed that one of the vizier's murderers or a thieving rival had finally succeeded in engineering her death. However, Talantra had settled in Tilverton and taken a job waiting tables while she figured out what to do with her life. She met many travelers and traders who passed through town and eventually met the Knights of Myth Drannor adventuring company. She fell in with them for a while and discovered a love of wandering the deep forests and shaded glens of the North, seeking adventure wherever it may be. Her infatuation with Florin Falconhand was partially responsible for her new-found wanderlust.
+
+After leaving the Knights of Myth Drannor, she came upon Daggerdale and Randal Morn beset by heavily armed orcs sent from Zhentil Keep. Talantra lent her sword arm to the cause and helped repel the attack. Strong feelings developed between Talantra and Randal, but after a time he sent her away for her own safety, escorted by the Harper warrior Sharanralee who passed through town on the way to Silverymoon. In Silverymoon, Talantra made many new friends, rekindled her love of song, resumed her interrupted bardic career, and formally joined the Harpers. Thereafter, she wandered throughout the North, both alone and with her Harper friends, helping those in need.
+
+Appendix
+References
+
+---
+
+## Taradril Aumraven
+
+Taradril Aumraven was a member of the Zhentarim in Darkhold in the Year of the Tankard, 1370 DR and a former Lord of Zhentil Keep.
+
+Personality
+Taradril had a mercantile view of the Zhentarim and for this he supported Sememmon as the main Zhentarim leader. He viewed Sememmon as a more stable and capable leader than Manshoon, whom Taradril thought too involved in secrets to have real perception of the liking of the Zhentish people.
+
+History
+Taradril was a merchant wizard in Zhentil Keep and, thanks to his power, gained a seat on the Council of Lords. He often opposed Manshoon's proposal in the Council and tried to did the best for all Zhentil but Aumraven was sometimes double-crossed by Manshoon, as about the rebuilding of Citadel of the Raven.
+
+During the destruction of Zhentil Keep by Cyric's horde in 1368 DR, only the timely assistance of Sememmon saved Taradril's life. He was tasked with rebuilding the Zhentarim mercantile trade through Darkhold. For this, Taradril often clandestinely collaborated with Lady Alicia of the Citadel of the Raven for control the caravan trade in the Anauroch.
+
+Taradril's estate was located in the central section of Zhentil Keep's Inner Quarter on the Lord's Way and Flostren's Memory.
+
+Appendix
+References
+
+---
+
+## Talon Everhale
+
+Talon Everhale was a young ranger in Icewind Dale, and a member of the Emerald Enclave, that fought alongside others against the wicked Cult of the Dragon in the late 15 century DR.
+
+Personality
+As befitting someone that took on the life of a ranger, Talon greatly appreciated the beauty of the natural world, in all its forms.
+
+She often referred to others as 'knuckleheads', after the famous knucklehead troud native to her homeland of Icewind Dale.
+
+Abilities
+Talon was quiet special in that she had a photographic memory.
+
+Possessions
+She was very finicky about the arrows she used, only preferring those that were beyond "ordinary".
+
+History
+Early Life
+Talon Everhale's mother died giving birth to her. She was born with certain fiendish disfigurements. However, these deformities vanished after a mysterious person came to visit. The person left and with them went most people's memory of Talon's birth defects. Nevertheless, her father did not speak to her or anyone else since she was born.
+
+She grew into a beautiful young woman and skilled ranger. While on a hunt, she encountered the druid Delaan and his winter wolf. The druid offered her a place within the Emerald Enclave. He also informed her that she must guard herself against a dangerous chaos within herself.
+
+She was in fact the victim of a horrible curse that had been spawned in Ascalhorn, later known as Hellgate Keep. The curse passed from mother to child, it killed all male children, and was passed down the female line. The secret to ending this curse lay hidden in the ruins of Hellgate.
+
+Tyranny of Dragons
+
+In the 1480s DR, Talon joined up with several other adventurers, Nymmestra, Alaeros, Barrowin, and Ratshadow, an a mission to stop the Cult of the Dragon from retrieving an artifact known as the Red Dragon Mask. They managed to uncover a cult-controlled portal and followed their quarry to the isle of Tuern.
+
+While out on the isle in the Trackless Sea, Talon and her companions delved into the Flame Fault and were forced to battle, and eventually slayed Lostmauth, one of the three red dragon rulers of the barbarian isle. Unfortunately, the portal they used was destroyed and the heroes remained stuck on Tuern for a brief while, allowing the cult's leader Severin Silrajin to escape with the Red Dragon Mask.
+
+Moving against the cult again in Neverwinter, the Zhentarim-aligned Ratshadow went behind the group's back and stashed away the White Dragon Mask sought by the cult in Waterdeep. This dastardly action led to the death of Lord Arthagast Ulbrinter, and caused his widow, Lady Remallia Haventree to launch a political and military crusade against the Cult, at their lair in the Well of Dragons. Talon and her true-hearted companions were among the heroes that helped apprehend the cult's leader Silrajin and earned praise for their patron organizations.
+
+Appendix
+Notes
+
+Appearances
+Comics
+ Tyranny of Dragons
+Board Games
+ D&D Attack Wing
+Gallery
+
+References
+
+---
+
+## Taluth
+
+Taluth was a younger malaugrym, (a.k.a. shadowmaster) living in Westgate as of the Year of the Banner, 1368 DR.
+
+Description
+As a shapeshifter, Taluth could appear as any living thing, but usually appeared as a plain, ordinary, human female. Taluth was known to take more attractive male or female forms when it suited her needs.
+
+Personality
+Taluth was a bold operator in Westgate, but cautious enough to redirect suspicion of her activities to the merchant-lords, making it look like her accomplishments were caused by their machinations. She was unpredictable, capricious, and merciless when it pleased her, toying with others for her own entertainment.
+
+Abilities
+She was particularly adept at learning new magic spells.
+
+Activities
+Taluth was constantly looking for ways to increase her pleasure, fill her coffers, or acquire new magic items and spells. She was a powerful player in Westgate, but chose to remain hidden and unsuspected.
+
+Relationships
+She was particularly fond of humans and hired them as agents, dallied with them for pleasure, and used them as patsies and scapegoats. Adventuresome humans were her favorite playthings.
+
+References
+
+---
+
+## Tall mouther
+
+Tall mouthers were aberrations found in the vicinity of halflings. The halfling slang "they got mouthed" was a common way for halflings to explain that someone was killed by a tall mouther.
+
+Description
+Tall mouthers were blue and furry, and had six  limbs that were remarkably flexible. Their body was composed of merely a large head, which was  wide with big teeth and two big eyes. The natural gait of its gangly limbs kept the head  above the ground.
+
+Combat
+Using their long limbs, tall mouthers preferred to swipe at enemies from outside of their foes' melee reach. Their unpredictable whirling and shifting movement also made them quite hard to hit with ranged weapons. As a result, having a wizard or other spellcaster was always welcome when dealing with a tall mouther.
+
+Ecology
+Tall mouthers were the closest thing to a natural predator of halflings. They could be found following halflings all throughout the Realms. However, they dwelt primarily in the Lluirwood and on the borders Luiren. They could also be found in the High Forest, Cold Woods, and Moonwoods.
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Talis (disambiguation)
+
+Talis could refer to:
+ Talis, a card game common across all of Faerûn
+ Talis Kasterel, a half-moon elf woman known as "Talis the White"
+ Talis (city), a ruined city of the Talfir
+
+---
+
+## Tanya bint Perijan
+
+Tanya bint Perijan was one of Grand Caliph Khalil al-Assad al-Zahir's favorite wives.
+
+Her dowry for her engagement to the Grand Caliph was a staggering 500,000 dinars, instantly propelling her family to prominent status among the elite of Huzuz.
+
+Description
+Still in her early 20s, Tanya was young and stunningly beautiful. She had rich sable hair and dark eyes that she accented further with kohl. Her favorite color was yellow, and she often wore garments and gold jewelry of this color. Her hands and feet were dyed with henna.
+
+Personality
+Tanya was an opportunist and constantly thirsted for power, though she remained devoted to her husband.
+
+Possessions
+Tanya had only but to ask to receive just about anything one could imagine, but she was known to always have in her possession a ring of protection +3, a ring of invisibility, a scarab of deception, a dagger +2, oil of attractiveness, and a philter of love.
+
+Activities
+As Khalil's favored wife, Tanya ruled the other wives and concubines of the Royal Harim through friendship, bribery, or blackmail.
+
+Relationships
+Tanya was the daughter of Perijan and Khwaja, both members of a powerful trading family based out of Gana in the Pearl Cities.
+
+She had two daughters with her husband, Janya and Dalia.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tala bint Tufala
+
+Tala bint Tufala was a concubine of the Grand Caliph of Huzuz, Khalil al-Assad al-Zahir in 1367 DR.
+
+Description
+Tala was beautiful, but where her appearance excelled her intelligence was lacking.
+
+Relationships
+Khalil enjoyed Tala's passion but was aware that she would not make a good mother to his future children.
+
+Appendix
+Appearances
+Adventures
+Dungeon #47, "The Assassin Within"
+
+Notes
+
+References
+
+---
+
+## Taxatl
+
+Taxatl was an exotic Maztican concubine of Grand Caliph Khalil al-Assad al-Zahir in Huzuz in 1367 DR.
+
+ History
+Taxatl was originally a plumaweaver from distant Maztica. She joined her brother, Yax Cautli, on his voyage to see Faerûn, but was separated from him at sea when their ship was destroyed by a violent storm. Taxatly never learned what happened to her lost brother.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tannous al-Assad
+
+Prince Tannous was a member of the royal family of Huzuz in 1367 DR.
+
+Description
+Tannous was lean from frequent exercise and appeared younger than he really was. He was always armed and preferred wearing somber, plum-hued clothing that he imported from Muluk.
+
+Personality
+Tannous was a serious and thoughtful man. He realized that power comes from knowledge.
+
+Possessions
+Tannous possessed a ring of protection +2, bracers of defense AC 4, gauntlets of ogre power, a scimitar of speed +2, a dagger of venom, and slippers of soft movement .
+
+Activities
+Tannous feared that the Grand Caliph would die without leaving a male heir. He constantly invited Khalil to lavish parties, hoping to introduce him to potential wives to add to the Royal Harim.
+
+Tannous supplied Khalil with many of his magical items, hoping to curry more favor with the Grand Caliph. He purchased these items from disreputable adventurers who smuggled them from Afyal and the Ruined Kingdoms.
+
+He employed a team of elite alchemists to discover a formula for longevity potions.
+
+Relationships
+Tannous was the older brother of Prince Cheddah and paternal uncle to the Grand Caliph Khalil al-Assad al-Zahir. He was the younger brother of the previous Grand Caliph Achmed al-Assad.
+
+He earned Khalil's affection by pandering to his requests during his adventuring days.
+
+History
+Tannous made an enemy of Grand Vizier Alyana al-Azzazi long ago when he tried to coerce her to abandon her post by using threats.
+
+Tannous established a spy network in Huzuz, which he later trusted to Sa'id Firdawsi. Spies working for Sa'id and Tannous used special message rings to communicate.
+
+Tannous was a religious man, worshiping Haku devoutly.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tapestry of folded existence
+
+Tapestries of folded existence were magical items that could be found in Zakhara, the Land of Fate. They were only carried or used by holy slayers.
+
+Description
+These tapestries always depicted an interior space. The threads of these tapestries depicted detailed accounts of everything brought into the room. They typically measured 6 feet by 10 feet (1.8 by 3.0 meters) and were of the highest quality. These tapestries were heavy, requiring two people to carry.
+
+Powers
+When hung on a wall or placed on the floor, the owner of one of these tapestries spoke a command word and was instantly transported to the room depicted on the thread. These items were perfect for use as treasuries, armories, and even prisons. Living creatures stored in these magical rooms did not require sustenance. A tapestry of folded existence was an item of cloaked wizardry, and detect magic spells did not reveal their enchantment.
+
+History
+Sometime around 1367 DR, a holy slayer by the name of Farid al Tigrar was tasked by Diyab al Kaban with assassinating with Hakim ibn Rashad. To this end he procured various types of desert animals and plants, secured them within a tapestry of folded existence, and arranged for a merchant-rogue to sell that tapestry to Hakim when he next visited the bazaar in the city of Qadib.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Tashalan
+
+The Tashalans were a native human race of the Chultan Peninsula and the primary inhabitants of "the Tashalar".
+
+Description
+The Tashalans were generally considered a beautiful people by other human cultures. They had black hair and olive-colored skin. Tashalans were also known as swift runners.
+
+Language
+Tashalan people spoke the Tashalan language, which made use of the Dethek script.
+
+Religion
+Tashalans especially revered Savras and Talona among the other gods of the Faerûnian pantheon, but they were not limited in worship to those two gods. Some also maintained their historical worship of the yuan-ti deities.
+
+History
+This people group originated on the Chultan Peninsula many thousands of years before the start of the Dale Reckoning. They were eventually enslaved by the sarrukh, the reptilian Creator race.
+
+When the sarrukh empire fell, many Tashalans continued to serve the yuan-ti. Others settled in lands all along the peninsula. Over time, those in the western part of the peninsula were driven out by the Chultan tribes. Those in the south and east were merged into the Halruaan and Dambrathan cultures.
+
+The lands of the Tashalar were further settled by Lapalians and Calishites in, introducing new people groups to the region. After the Empire Plague in, the population of the region was greatly reduced, and the humans remaining were easily enslaved once again by the Serpentes Empire of the yuan-ti by . The yuan-ti god Sseth strangely disappeared in 10 DR, which led to downfall of the yuan-ti. The human slaves were able to rebel and gain their freedom by 34 DR. The former slaves, the original natives of the land—now merged with Calishites, Chultans, Lapalians, and Shaarans—became the modern Tashalan people.
+
+By 1372 DR, most Tashalans remained in the middle of the Chultan Peninsula and on the island of Tharsult.
+
+Notable Tashalans
+ Horlo Aumrabbar, a member of the Company of the Cloak
+
+Appendix
+Reference
+
+Connections
+
+---
+
+## Tasked genie
+
+Many tasked genies were once members of the four elemental realms. Over time they changed in appearance and form as a result of performing the specific tasks for which they were used. Tasked genies removed from their work suffered adverse effects including weakness, insanity, and even death. In the event that a tasked genie went insane, this triggered their transformation into a slayer genie.
+
+Habitat/Society
+Unlike other genies, some tasked genies consorted with humans on a regular and comfortable basis, dwelling with them in harmony. They were equally at home alone in the wilderness or surrounded by humanoids in crowded cities.
+
+Their wilderness camps were often lavish mansions that could disappear into the sand if discovered. Some tasked genies tried to scare away intruders before resorting to violence.
+
+Tasked genies did not recognize the caste system of Zakhara like elemental genies did. They were just as content working for a pauper as they were for the sultan.
+
+Tasked genies were either bound by their profession to a specific location or kept inactive for long periods in between servitude. The first group included helpful tasked genies who created food, art, and structures. The second group was slowly driven insane unless called to serve by noble genies or sha'irs. Members of this group often reveled in bloodshed when they were released from service. These included warmonger genies, slayer genies, and guardian genies.
+
+Tasked genies needed to be paid or enslaved for them to work for an ins, or a non-genie. Enslaving some of these genies resulted in poorer quality of work. Some tasked genies, such as slayers, were almost always enslaved since they were too dangerous to be left to their own devices.
+
+Only sha'irs knew how to successfully bind a tasked genie. If their task was large enough, some tasked genies enlisted aid from their kin in order to quickly complete a project. These additional genies worked at no cost to the original master, choosing instead to help the first tasked genie so they could be released sooner.
+
+Though it was rare, tasked genies could be transformed back to their original genie form with the help of a powerful sha'ir or noble genie. This long process first involved separating the tasked genie from its place of employment or confinement, as well as from all of the tools of their trade. This was easier said than done, especially when dealing with the more aggressive tasked genies such as slayers or guardians. The next step was to keep the tasked genie surrounded in an environment made from the element of its original form. An example of this would be keeping a winemaker genie underwater since they were once marid. From this point onward, the sha'ir or noble genie needed to cast a dispel magic spell on the tasked genie once per day until their transformation was complete. Some tasked genies possessed an inherent degree of magical resistance, making the success of this spellcasting less likely. The biggest issue during this phase of the process was that the tasked genie was completely isolated from its "task". As noted above, when this happened the tasked genie began to go insane, resulting in their death or transformation into a slayer genie. Sha'irs who successfully helped a tasked genie revert to their original form were treated well by the genie community and usually gained the loyalty and service of the genie who underwent the transformation.
+
+Ecology
+All tasked genies lived for incredibly long periods of time, the shortest of which was still double the normal human lifespan.
+
+Tasked genies would sometimes take humanoid lovers, but the results were usually tragic. Offspring from these relationships had the same abilities as markeen.
+
+ See Also
+ Administrator genie
+ Architect genie
+ Artist genie
+ Deceiver genie
+ Guardian genie
+ Harim servant genie
+ Herdsman genie
+ Messenger genie
+ Miner genie
+ Oathbinder genie
+ Slayer genie
+ Warmonger genie
+ Winemaker genie
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tarangu
+
+The Tarangu was a tribe of halflings who inhabited an area of Jazayir al-Sartan in southwest Zakhara.
+
+Organization
+The Tarangu did not build permanent structures on the ground. Instead they lived in special nests constructed in palm trees. Ropes hung between nests so the halflings could get around without touching the ground.
+
+Activities
+These war-like halfings were rumored to be cannibalistic, though in actuality they subsisted upon groves of coconut palms and plantains that they maintained. Their diets were supplemented by fish, land crabs, snails, and the occasional wild boar.
+
+Slavers often targeted the halflings since they did not follow the path of Enlightenment.
+
+Base of Operations
+The Tarangu tribe inhabited the northern chain of Jazayir al-Alfar.
+
+Possessions
+These people were semi-nomadic and only carried what they needed to travel between the islands.
+
+Members
+The Tarangu were ruled by a halfling named Indeema, who was an obese matron. She was a priest of Kar'r'rga and supervised all sacrifices made to the savage god.
+
+Appendix
+References
+
+---
+
+## Talfir
+
+The Talfir (or Talfirc) were an extinct race of humans who once dwelt in the lands that later became known as the Western Heartlands. They were known as practitioners of shadow magic.
+
+Description
+The Talfir were described by the elves who wrote about them as having fair skin and dark hair.
+
+They originated in the great forest of Shantel Othreier and may have shared lineage with the modern Tethyrian race. The original Ffolk of the Moonshae Isles were of Talfirian blood.
+
+Language
+The Talfir spoke their own language of Talfiric, which derived from the Draconic language.
+
+Religion
+Religious scholars suspected that the Talfir were responsible for introducing many of the gods of the Faerûnian pantheon to Toril, most notably the deity Tempus.
+
+History
+The earliest historical mention of the Talfir was found in ancient elven writings dating from the Crown Wars. Like the early predecessors of the Tethyrians, these tribes were first observed in Shantel Othreier and later became the first humans to settle along the Chionthar.
+
+The Talfir invented a style of bardic magic known as shadow magic, or "Talfirian magic" (not to be confused with Shadow Weave magic). This occurred during the reign of Verraketh, the Shadowking of Ebenfar, which began in 34 DR.
+
+Circa 140 DR, refugees from the persecution of the Shadowking crossed the Sea of Swords and settled in the Moonshae Isles on the island of Gwynneth, beginning the race of the Ffolk.
+
+The Talfir of mainland Faerûn had completely disappeared by circa 300 DR, their culture being overwhelmed by the Calishite, Chondathan, and Netherese peoples. Those of the Moonshaes were supplanted by a large immigration of Tethyrians in 467 DR.
+
+Legacy
+Few structures or artifacts from the time of the Talfir remained by 1372 DR. Two notable exceptions were the crypt of the Shadowking, which was located beneath Iriaebor, and Talis, a city in the middle of the Reaching Woods along the river. Prominent in the 1 century DR, it was in ruins by the 14 century.
+
+The legacy of Talfirian magic continued in the bardic tradition of the Tethyrians. As of 1372, a small number of such bards still knew Talfirian songs and used the power of the songs to enhance their illusion spells.
+
+Notable Talfir
+ Verraketh, the Shadowking of Ebenfar
+ Markus Randol, the Archduke of Ebenfar
+ Gwynneth Randol, the "First Mother" of the Moonshae Isles
+
+Appendix
+Appearances
+ Crypt of the Shadowking
+ Curse of the Shadowmage
+
+Reference
+
+Connections
+
+---
+
+## Takabbar
+
+Takabbar was a small town on the island of Jazirat al-Gawwar within the Nada al-Hazan archipelago.
+
+Rumors and Legends
+It was rumored that the only way to get off of the island of Jazirat al-Gawwar was through the Tower of the Test, located in Takabbar.
+
+Inhabitants
+The Takabbari were kind people. There were no enemies on their island so they never carried weapons. They were isolated from the outside world and had no idea of events taking place beyond their small island.
+
+Appendix
+References
+
+---
+
+## Tattoo of power
+
+Tattoo of power was a spell unique to Zakhara, the Land of Fate.
+
+Effects
+Wizards used this spell to store spells within special tattoos. Any spell could be stored in this manner, but the preparation time for stronger spells was greatly increased. Spells stored in this manner were permanent until cast, upon which time they would need to be stored again. The caster used this spell on others, but not themselves. The recipients did not need to be wizards.
+
+This spell needed to be cast in conjunction with the spell that was to be stored. The caster would then immediately tattoo the recipient. The spell stored within the tattoo could be released instantly by uttering a simple command, removing casting times altogether. The tattoo would fade away once the stored spell was cast.
+
+Spells cast in this manner acted as if the original caster were casting them. Thus, a weaker wizard could be walking around with the stored spell of an archmage that was ready for use at any time.
+
+Simple spells required a  square of skin for the tattoo. Stronger spells required much more space. A typical human could store four simple spells upon one arm, ten on their chest, and six on a leg. However, for the spells to function properly, no more than four tattoos could be on a recipient at a time.
+
+For this spell to work the caster needed to be a proficient tattoo artist.
+
+Components
+This spell required tattoo supplies to cast.
+
+Variants
+The Brotherhood of the True Flame had their own variant on this spell for use by members of the Imperishable order. These facial tattoos were crimson in color, with fire motifs, and imbued with fire resistant magics. These included the spells aura of comfort, endure heat, flameproof, flame walk, protection from fire, and resist fire.
+
+Appendix
+References
+
+---
+
+## Talis Kasterel
+
+Talis Kasterel, or Talis the White, was a high-ranking member of the reformed Cult of the Dragon under Severin Silrajin in the late 15 century DR.
+
+History
+She was a favorite for the position of White Dragon Whisperer and joining the Cult's leadership. However, Severin gave the mask to Varramzord, a dwarf friend of his. Talis's powerful friends were displeased.
+
+Talis served as the leader of the Cult's hunting lodge in the Greypeak Mountains.
+
+In the 1480s DR, she was confronted by an adventuring party. Despite her loyalty to the Cult, the adventurers could potentially convince her to betray Severin with the right argument.
+
+Abilities
+She was an expert on white dragons, at the level of Severin's knowledge about red dragons.
+
+Personality
+Talis was a devoted follower of Tiamat and a traditionalist of the faith. She believed that Severin's methods deviated too much from their true objective and he just wanted glory for himself. She also greatly despised not being chosen as White Dragon Whisperer, a title that went instead to Varramzord.
+
+She worked hard and was quite charismatic.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Tarul Var
+
+Tarul Var was a lich necromancer and Red Wizard of Thay in Daggerford in 1486 DR.
+
+History
+Tarul was tasked with recreating the elemental portal nexus in Daggerford. He usually resided near the Bloodgate Gate, in the dungeon under Bloodgate Keep. In 1486 DR, a group of heroes from Daggerford, including Jekk Ironfist, Shalendra Floshin, Kelson Darktreader, and the rebel Red Wizard Mennek Ariz, among others, assaulted the Thayan Keep. In the fighting, the nexus was destroyed and Tarul killed but the heroes found themselves trapped in Thay.
+
+Defeated, Tarul recreated himself from his phylactery in the Doomvault dungeon in Thay. However, he was again killed by the same group of heroes who were investigating the dungeon, and they destroyed him for good along with his phylactery.
+
+Personality
+Tarul was an arrogant and devious individual. He knew that his success depended on a favorable result from the Bloodgate mission, but he did not truly believe that he could fail. He believed that all living creatures were weaker than liches. He often berated his enemies and encouraged the cruelty of his underlings.
+
+Appendix
+Behind the scenes
+While fighting Tarul, the pit fiend Baazka could appear offering his help to the players in exchange for being freed from his curse. With Baazka's help, they could more easily kill Tarul.
+
+References
+
+---
+
+## Tanagyr's Stout
+
+Tanagyr's Stout  was a stout beer brewed in the Moonsea region. It was also sold through Aurora's Whole Realms Catalogue.
+
+Description
+This beer was a heavy black beverage with a malty flavor. It was on par with Evermead when considering its headiness.
+
+Trade
+It was one of a scant few items exempted from trade embargoes against Zhentil Keep. Long confined to the Moonsea, it was traded to the south in the mid–14th century DR, sold in unmarked barrels to escape the stigma of that area.
+
+Prices
+Tanagyr's Stout could be purchased in the following containers:
+ Hand keg (35 cp)
+ Cask (25 sp)
+ Barrel (6 gp)
+ Butt (20 gp)
+ Tun (50 gp)
+
+Availability
+Found throughout the Moonsea, Tanagyr's Stout could be enjoyed in the Wet Wizard of Llorkh, the Savage Frontier, and in the Nashkel Inn of Amn, where it was priced at two gold coins.
+
+Appendix
+Appearances
+Novels
+Son of Thunder
+Video Games
+Baldur's Gate
+
+Neverwinter Nights 2: Mysteries of Westgate
+
+References
+
+---
+
+## Tanjus
+
+Tanjus was a sea hag in the Doomvault dungeon in 1486 DR.
+
+Personality
+She wanted to expand the territory that she controlled by any means, even if it meant helping adventurers.
+
+History
+Tanjus was a sea hag in the Doomvault. There, she commanded some merrow and other sea monsters but wanted to overthrow the spirit naga overseer Ihanvas.
+
+In 1486 DR, she met the heroes from Daggerford and offered them a truce in exchange for killing the spirit naga.
+
+Appendix
+References
+
+---
+
+## Talath Pass
+
+The Talath Pass was a naturally occurring pass through the Lhairghal Mountains bordering western Halruaa.
+
+Geography
+This rugged mountain pass cut through the Lhairghal Mountains, offering a difficult way into Halruaa from the west.
+
+Appendix
+References
+
+FR:Col Talath
+
+---
+
+## Talathgard
+
+Talathgard was a fortress located in northwest Halruaa.
+
+Description
+Talathgard served to guard the entrance to the large cavern and temple complex located beneath Mount Talath.
+
+Defenses
+200 mountain men patrolled the area and protected both Talathgard and Mount Talath from attack.
+
+Appendix
+References
+
+---
+
+## Tadpole
+
+Tadpole was a monk at the Monastery of the Yellow Rose in the Bloodstone Lands in 1484 DR.
+
+Appendix
+
+Appearances
+Novels
+ Rise of the King
+
+References
+
+---
+
+## Targ Keifer
+
+Targ Keifer was the chieftain of the Griffon Tribe in the 15th century DR.
+
+History
+In 1484 DR, Targ  discussed an alliance with Giselle Malcomb of Nesme, sensing the coming of the War of the Silver Marches. Later in the war, he met the Companions of the Hall and helped them.
+
+Appendix
+
+Appearances
+Novels
+ Rise of the King
+
+References
+
+---
+
+## Table dice
+
+Table dice, or backgammon, was a board game played with dice.
+
+Description
+The sets sold through Aurora's Emporium used polished stone markers, ivory dice, and a leather dice cup. The entire set could be transported in an ironwood case.
+
+Reputation
+Table dice was commonly played as a tavern game in the Dalelands. As of 1359 DR, its popularity had begun to spread to the Western Heartlands and the North.
+
+Appendix
+External Links
+
+References
+
+---
+
+## Tad Staslep
+
+Tad Staslep was a grocer in Phlan in 1489 DR.
+
+Personality
+Tad was a portly man with a big appetite. He was always chewing or about to chew something. He knew he was good in his work.
+
+Activities
+Tad run the Cockburn's Grocery, in the residential district of the city, for quite a while. Tad was the largest provider of provisions in the city.
+
+Appendix
+Appearances
+ The Courting of Fire
+
+References
+
+---
+
+## Taroo
+
+Taroo the Farmhand was a farmer in Twilight Marsh near Phlan in 1489 DR.
+
+Personality
+Taroo was an honest man. He was concerned with stayed safely employed. He greatly feared the lizardfolk of Twilight Marsh. He could be easily impressed by adventurers.
+
+History
+In 1487 DR, he was employed at Renon Farm.
+
+In 1489 DR, he discovered that Renon had disappeared. With the help of Romsan Kal, he hired some adventurers to investigate the matter.
+
+Appendix
+Appearances
+ Drums in the Marsh
+
+References
+
+---
+
+## Tasha Elberwelter
+
+Tasha Elberwelter was a human woman and inkeeper of the Sign of Thunder, an inn of Thunderstone in Cormyr in the late 1360s DR. She helped run the inn with her husband Boris Elberwelter, and was often very flirtatious.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Takshang
+
+Takshang was a small hermitage located at the foot of Ghalyi Shan in the Hordelands.
+
+Description
+The hermitage was located halfway up a cliff, tucked away in a cleft in the great mountain. No stairs or ladders led to Takshang. Ropes were typically used to move supplies or assist visitors in ascending the steep approach.
+
+A single, three-room building comprised the entire hermitage.
+
+Inhabitants
+The only permanent resident of Takshang was Gyawa Zangpo, an oni serving out his imprisonment on Toril.
+
+Appendix
+References
+
+---
+
+## Tandith Tornears
+
+Tandith Tornears, also known as Tandi Earsgone, was an ogre mage who lived within the Forest of Amtar in Dambrath circa the .
+
+Activities
+Tornears led a raider band made up of humans, half-orcs and orcs and would attack travelers on the road between Channathgate and the Landrise. Most of their loot was taken from gold dwarves from the Great Rift. The town of Three Swords hunted Tandith and his bandits, to no avail.
+
+Appendix
+References
+
+---
+
+## Tamer Creed
+
+The Tamer Creed was one of the major illithid Creeds in the Realms. They were highly militaristic, and favored the use of martial might against other races.
+
+Oryndoll
+In Oryndoll, illithids in the Tamer Creed controlled most of the city's martial, non-psionic forces. Their influence in the city diminished after the Mindstalker Wars. They still however partnered closely with the Nourisher Creed to launch raids on the lizardfolk city of Surkh. The Nourishers turned the lizardfolk captured into tzakandi for the Tamers. They held influence over the branch of the military called the Errant Thoughts.
+
+They had control of the Armories of the city.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Tariq Seljun
+
+Tariq Seljun was a dwarf and member of the Preachers sect of holy slayers in 1367 DR.
+
+Activities
+Along with Rashid al-Azzran, Tariq served as one of the ranking spiritual advisers between the holy slayers and Hajama.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tace Blueshield
+
+Tace Blueshield was a shield dwarf paladin of Ilmater at the Monastery of the Yellow Rose in the late 15th century DR.
+
+Personality
+Tace was grim and disciplined and had a drill-sergeant attitude towards both her men and to the monks. She did not appreciate people telling her how to do her work. She hated speaking about her past. Tace believed that the monastery could only be in danger from external attacks, never believing in an internal threat. She acted only with solid proof, but with proof she would quickly arrest and interrogate anyone
+
+Activities
+Tace's duty was to command the few military forces of the monastery.
+
+Appendix
+
+Appearances
+Eye of the Tempest
+
+References
+
+---
+
+## Talia
+
+Talia was a monk at the Monastery of the Yellow Rose.
+
+Activities
+Talia was an older monk in the Monastery of the Yellow Rose. She was Keeper of the Crypt. Secretly, she was also a member of the Cult of Howling Hatred.
+
+Personality
+Talia had been soured by her long years as caretaker of the crypts. She was an easy convert to the cult as she had lost belief in suffering so that others might not.
+
+She hoped to find freedom in the elemental node. Abandoned by her fellow cultists, Talia was consumed by thoughts of vengeance.
+
+History
+Talia was easily converted by the cultists who had infiltrated the monastery in 1491 DR. She helped kidnap a number of monks in order to use them in a new plot to access the elemental node beneath the monastery. However, one of the chosen victims did not docilely accept his fate and stunned her. Talia's fellow cultists abandoned her and she was later found by other monks, who took her to the infirmary. Here, Talia was confronted by an adventuring party hired by Grandmaster Perrywinkle Shin to find the missing monks.
+
+Appendix
+Appearances
+Eye of the Tempest
+The Howling Void
+
+References
+
+---
+
+## Tasha (monk)
+
+Tasha was a monk at the Monastery of the Yellow Rose.
+
+History
+Tasha was a thief in her youth, but in time she redeemed herself, becoming a monk at the monastery.
+
+In 1491 DR, Tasha was one of the monks kidnapped by cultists of the Cult of the Howling Hatred, who planned to use them in a plot to access an elemental node. At the entrance room to the node complex under the monastery, she met an adventuring party hired by Grandmaster Perrywinkle Shin to find the missing monks. Tasha tested the adventurers, posing as a member of the Cult of the Black Earth, in order to see if they could be trusted to save her fellows. If they answered correctly, she disappeared.
+
+Appendix
+Appearances
+The Howling Void
+
+References
+
+---
+
+## Tarna Calfi
+
+Tarna Calfi was an inhabitant of Huzuz, the City of Delights, in 1367 DR.
+
+Activities
+Tarna was the harbormaster of the Caliph's Harbor in Huzuz. She answered to Keyfa al-Parid.
+
+She possessed a rare genius when it came to ship repair.
+
+History
+Tarna began her career in Huzuz scraping barnacles off of the sides of ships. Through determination and her brilliant repair skills, she rose to serve as harbormaster.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Taak Lake
+
+Taak Lake was a small, fresh-water lake in Alpuk north of the Cold Lands.
+
+Geography
+Taak Lake was located off of the Utaak Stream, at the base of the Lugsaas Chain near the gap in those mountains that led to the village of Ishe in Vaasa. It was southwest of the Iulutiun village of Puttak.
+
+History
+Prior to the 15 century DR, Taak Lake was on the Great Glacier. It was frozen most of the year since it was only  at its deepest point and because of the bitter cold of the region. By the late 15 century DR, the Glacier had continued its centuries-long retreat further north, freeing the lake. The settlement of Frohm's Rest had been established on the lake's northern shore.
+
+Appendix
+References
+
+---
+
+## Tala al-Sunim
+
+Tala al-Sunim was a tax collector who worked at the Gulf Gate in Huzuz in 1367 DR.
+
+Description
+Though passed 60 years of age, Tala was as sharp as she was in her youth.
+
+Personality
+Tala had a positive reputation for fairness, except when dealing with sly caravan masters who tried to trick her simply because she was an old woman.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tappy Foamstrap
+
+Tappy Foamstrap was an innkeeper in Blingdenstone in the late 15 century DR.
+
+Personality
+Tappy was very bored because nothing ever seemed to happen in her inn. If new foreign guests arrived, she was very keen to serve them well.
+
+History
+Tappy went to the reclaimed Blingdenstone and reopened the Foaming Mug inn, notorious in the days before the drow invasion of 1371 DR. However, during the demonic crisis in the Underdark, because the city was not yet established (and because of the arrival of the demon lords), she had very few customers, and even spent months without seeing anyone.
+
+Appendix
+Appearances
+ Out of the Abyss
+
+References
+
+---
+
+## Taleb Abd al-Jari
+
+Taleb Abd al-Jari was a dwarven sergeant stationed in the armory of Sarahin in 1367 DR.
+
+Activities
+Taleb rotated his guard duty with two other dwarven farisan.
+
+Possessions
+Taleb carried a magic sword that benefited from a continual light spell.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tavis Burdun
+
+Tavis Burdun  was a firbolg ranger in the service of the Kingdom of Hartsvale in the 1370s DR. He was a member of King Camden's Frontier Scouts for many years before inheriting the Weary Giant inn, a home to many orphans in the area.
+
+Description
+Tavis had dark eyes and was said to have stood  tall and weighed around .
+
+Personality
+Tavis was described as an honorable and loyal, yet solitary figure. He was known to have a soft spot in his heart for strays and orphans, acting as a father figure to many youths that had no one else. Tavis also had a particular fondness for adventurers, being a man (or giant) of thoughtful action in the face of crisis.
+
+Possessions
+Tavis owned a magic composite longbow specially made for him, known by the name of Mountain Crusher.
+
+Appendix
+
+Notes
+
+Appearances
+ The Ogre's Pact
+ The Giant Among Us
+ The Titan of Twilight
+ "A Dish Best Served Cold''
+
+References
+
+---
+
+## Tamiel
+
+Tamiel was a fallen angel in the Labyrinth in the Northdark in the late 15 century DR.
+
+History
+The gods condemned Tamiel and seven other fallen angels to remain as stone statues in the depths of the Labyrinth for unknown crimes.
+
+Powers
+Tamiel was mad and acted as an oracle.
+
+Appendix
+
+Appearances
+ Out of the Abyss
+
+References
+
+---
+
+## Taayrul Armgo
+
+Taayrul Armgo was the high priestess of House Barrison Del'Armgo and daughter of Mez'Barris Armgo in 1484 DR.
+
+Appendix
+
+References
+
+---
+
+## Tarman
+
+Tarman the Old was the Emir of Phannaskul during the mid–14th century DR.
+
+Activities
+Sadly, Tarman spent most of his time reliving his glory days as a warrior instead of actually administering the city. The various merchant guilds of the city made every important decision in his absence.
+
+Appendix
+References
+
+---
+
+## Tareen Kafour
+
+Tareen Kafour  was a barkeeper in Mulmaster in the late 15 century DR.
+
+History
+Tareen originally lived in Phlan until Vorgansharax's coup forced her to escape to Mulmaster. There she opened a pub, the Hammer-Felled Tree.
+
+Around 1491 DR, Tareen's pub was a recruitment center for the army of Aleyd Burral.
+
+Personality
+Tareen completely approved of the Liberators' cause but knew nothing about the earth cultists inside it.
+
+Appendix
+Appearances
+ Black Heart of Vengeance
+
+References
+
+---
+
+## Tamr na-Fia
+
+Tamr na-Fia was an ajami sha'ira and the favored student of Adnan al-Raqi. The young and beautiful woman once lived in Huzuz's aptly-named Tower of Adnan al-Raqi, where she studied, before going missing some months prior to or during the .
+
+Abilities
+Tamr had a talent for rhetorical discourse and debate, and she was also well-educated on the Chun language and knowledge of genies.
+
+Possessions
+Carrying both defensive and offensive equipment, Tamr was known to use a ring of protection from fire and a staff of striking, the latter of which held fifty charges.
+
+Relationships
+As Adnan's favorite student, Tamr was looked upon as his own granddaughter. However, he could not bring himself to risk venturing into the elemental planes after her himself, nor did any of Tamr's fellow pupils offer to lead the search. Therefore, her teacher, sleepless with worry, considered sending an adventuring company to uncover the truth.
+
+History
+Some months before or during 1367 DR, Tamr disappeared after she was sent to the court of one of the genie lords, the Sultan of the Efreet, at the request of Adnan. There, she was to find answers for the Grand Caliph's sterility. In case she ever returned, the sha'ira's private quarters were kept empty, ready for her use.
+
+In truth, Tamr simply found herself trapped on the Elemental Plane of Fire. She did not have a way to return to Zakhara, and, in all the months she was gone, neither had she secured an audience with the Sultan. By then, she no longer cared for her quest's success. Though she would still attempt it if a group of adventurers offered aid, Tamr was happy to simply leave the City of Brass and go home.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tamood al-Kasif
+
+Tamood al-Kasif lived within the Tower of Adnan al-Raqi in Huzuz, the City of Delights, in 1367 DR.
+
+Activities
+Tamood was a learned sha'ir and instructor who worked with Adnan al-Raqi, learning the advanced skills of his order.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tawar Kroul
+
+Tawar Kroul was the main representative of surface-dwellers in Mantol-Derith in 1479 DR.
+
+Activities
+Tawar usually sold alcohol in exchange for art objects, poisons, and obsidian daggers.
+
+Personality
+Tawar had small degree of orc blood: her grandfather was a half-orc who mated with a human. She acted very aggressively.
+
+Appendix
+Appearances
+ Reclaiming Blingdenstone
+
+References
+
+---
+
+## Talabrina Duskryn
+
+Talabrina Duskryn was the main enemy of the deep gnomes re-settling Blingdenstone.
+
+Personality
+Talabrina greatly hated the deep gnomes. She was a treacherous and greedy individual like most drow but her hate for svirfneblin consumed her, driving her to commit unspeakable atrocities. In her mind, her actions were blessed by Lolth. On the surface, her objective was to sack the city of all its treasures.
+
+Relationship
+Two unusual bugbear slaves served Talabrina with total loyalty: one was an albino, and the other was black as night.
+
+History
+In 1479 DR, Talabrina tried to destroy the reborn deep gnome settlement in Blingdestone by any means. She first killed some scouts and afterward tried to sabotage all missions by an adventuring party hired by Kargien Dissengulp. In the end, she was defeated by the adventurers.
+
+Appendix
+Appearances
+ Reclaiming Blingdenstone
+
+References
+
+---
+
+## Takkee
+
+Takkee was an incompetent fisherman and smuggler in Skullport. He was the owner of Fourwinds Shipping.
+
+History
+Around 1370 DR, Takkee survived largely thanks to the generosity of his customers.
+
+Appendix
+
+References
+
+---
+
+## Taglath
+
+Taglath was a bizarre ghost in Skullport.
+
+History
+In life, Taglath was a poet, explorer, and a romantic. He was known for courting the most beautiful women of the city, not caring for possible husbands. One day, after a tryst with the wife of a Calishite merchant, Taglath was assassinated in a Skullport street by an invisible creature. He would appear as a ghost in the place of his death.
+
+Appendix
+
+References
+
+---
+
+## Tanglehair
+
+Tanglehair was a deep gnome in Zortagra during the late 1480s DR.
+
+History
+She was captured with her fellows by duergar in the mid-1480s DR and put to work in the recently conquered city of Zortagra. Five years later, Tanglehair noticed the madness spreading among the duergar and led a group of captives to escape the chaos.
+
+Appendix
+Appearances
+The Malady of Elventree
+
+References
+
+---
+
+## Tanta Hagara
+
+Tanta Hagara was an evil annis who worked her way into the Blue Bear tribe of the Uthgardt.
+
+Description
+Tanta stood  tall, had a muscular and wiry frame with deep blue skin, and dull greenish-yellow eyes. Her hair, teeth, and nails were all glossy black. She dressed in heavy, cowled robes that covered all her skin so as to avoid frightening her followers if caught in this form.
+
+Whenever she appeared before members of the Blue Bear tribe she would use disguise self to take on one of two forms—a beautiful, barbaric hunter goddess with sky-blue skin or a blue-furred bear.
+
+Activities
+Tanta's greatest known goal in life was to gain access to the Uthgardt ancestral mound that laid beneath the Grandfather Tree - an ancient embodiment of the forest, reputed to hold the Hall of Mists. Dating back to the creator races, this temple was said to contain gates to other worlds, including the Abyss and the Negative Material Plane. She would often tell her Tanar'ri minions that these gates would allow them to bolster their army with more tanar'ri, creating an army large enough to conquer all of the North. Beyond the gates, she sought two artifacts that resided within the Hall of Mists - a crystal ball that projected the contents of a Book of Vile Darkness into its user's mind and a mysterious extra-planar artifact.
+
+When not pursuing these goals she would often be found stalking the wilderness, either hunting for human prey or meeting with the demon Grintharke.
+
+History
+A servant of the demon Grintharke, Tanta corrupted the Blue Bear tribe with base rituals while posing as their shaman. This corruption developed to such an extent that the tribe began to view her as an avatar of their totemic spirit, they were driven away from the Grandfather Tree by its guardian spirits, and they were shunned by the rest of the Uthgardt tribes. Those who did not accept her as their shaman splintered off, becoming the Tree Ghost tribe.
+
+Following Grintharke's death in 1365 DR, she acted as a servant to Hellgate Keep's new ruler, Mulvassyss.
+
+In 1366 DR, a cambion from Hellgate Keep by the name of Kaanyr Vhok met with Tanta in the High Forest to discuss overthrowing his mother Mulvassyss. Two years later Kaanyr led Tanta and the Blue Bear tribe into the keep and slew his mother. The tribe's puppet chieftain, Hlutwig Long-throw, was trampled to death in the confusion that followed.
+
+With the death of their chieftain, the Blue Bear tribe turned to Tanta as their new leader and Kaanyr wed her to cement their alliance. Kaanyr would control the demonic forces of Hellgate Keep, while Tanta was left to act as its figurehead "true ruler."
+
+A year later in 1369 DR, two Harpers infiltrated the city under the guise of Blue Bear barbarians and exposed Tanta's existence as an annis, believing this would cause a riot among the tribesmen. But this did nothing to destroy their respect for her, for they viewed Tanta's transformation as a gift from Uthgar meant to cement their alliance with Hellgate Keep. And they would retaliate by attacking caravans en route to Sundabar.  They also made attacks on the city of Silverymoon, but these were fended off by the magic of Alustriel.
+
+Later that year Tanta would lead the tribe and their demon allies in an attack on the Citadel of the Mists. An alliance of Everlund, High Forest, and Harpers drove them back and ultimately killed Tanta along with a majority of the tribe's members. She met her death at the hands of the treant Turlang the Great.
+
+Rumors & Legends
+It was believed that before her death, Tanta Hagara enchanted Uthgardt burial totems to summon dead warriors of the Blue Bear tribe to defend the Stone Stand and all the hidden treasures deep underneath the ancestral mounds. Once such totem, the Wrath of the Blue Bear was stolen from the Stone Stand and found its way into a private collection in Daggerford.
+
+Appendix
+Appearances
+Adventures
+
+Hellgate Keep
+Video Games
+
+Baldur's Gate • Neverwinter Nights: Darkness over Daggerford
+References
+
+FR:Tanta Hagara
+
+---
+
+## Tanistan
+
+Tanistan Barony was a part of the monarchy of Erlkazar encompassing the Plains of Pehrrifaal.
+
+Description
+This barony was responsible for the defense of the country's southern borders. It had four small human villages and also some nonhuman ones in the mountains. In fact, the barony had an alliance with the Shieldbreaker Ogres in the region, in order to maintain peace with other monstrous races living in the High Peaks.
+
+Geography
+Located in the southwest corner of Erlkazar, Tanistan was bordered by the Omlarandin Mountains on the west, the Kuldin Peaks on the north, and the High Peaks of the Cloven Mountains on the east. It shared borders with baronies Carrelath, Shalanar, and Ahlarkhem.
+
+The Plains of Pehrrifaal, named after a local warrior, took up most of the land of this region. Barley, millet, and grapes were grown here. The foothills of the Omlarandins and the High Peaks were lightly forested, and the scouts followed elven practices of using trees as lookout towers.
+
+Government
+In 1370 DR, the barony was ruled by a half-elven woman named Laxaella Bronshield. She kept busy maintaining the borders not just of her own barony but those of neighboring Ahlarkhem as well. Her estate manor in Five Spears Hold was called Praskallest and was used as an army garrison.
+
+Notable Locations
+ Five Spears Hold  This mining town was the third largest settlement in Erlkazar and also a garrison for the army.
+ Pehrrifaal Garrisons  These four keeps along the southern border also served as temples for one of the four gods Helm, Tempus, Torm, and Tyr.
+ Praskallest  The baroness' manor was the former estate of the Count of Carrelath in the days when Erlkazar was a territory of Tethyr.
+ Rivernshield  This ogre village was the home of Tanistan's allies, the Shieldbreaker Ogres.
+
+Plots & Rumors
+In 1370 DR, the Knights of the Black Gauntlet had a double agent hidden among the scouts of one of the army garrisons. He was trying to gain the favor of the baroness in order to sell information to Mintar.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Talons of Justice
+
+The Talons of Justice was an order of mostly silver dragon paladins that were dedicated to Xymor (Bahamut) and were followers of the Ptarian Code.
+
+Dogma
+The Ptarian Code was originally an oath taken only by those who served the King of Justice, but eventually it was adopted by members of the gold and silver dragon species. They took it as a knightly oath and followed it to the letter. It was expected that the Talons would be pure of heart and deed, would help each other and protect the "lesser races", and would be able to convert their foes instead of killing them. Violence was used only as a last resort.
+
+Membership
+No one knew exactly how many Talons there were, but the group probably numbered in the scores. Members were spread throughout Faerûn, many living in human and demihuman form in cities and towns, working in secrecy to further the cause of lawful goodness.
+
+The Talons were an elitist group, and rarely allowed for new members to bolster their numbers or accepted the help of their few allies. While originally consisting only of silver dragons, they allowed a few gold and bronze dragons to join their ranks during the last Rage of Dragons, and after the Rage they also allowed gold and silver half-dragons in their ranks. The first of them was a half-dragon called Innerdain Justdark.
+
+Organization
+The Talons were structured in a rigid chain of command, with a barb (leader or high knight, in Draconic) at the top, followed by lords, knights, trustees, and initiates. All of the members were paladins and a few among them were also platinum knights or vassals of Bahamut.
+
+Activities
+The Talons followed the philosophy of the long way, however, as was natural with long-lived creatures such as dragons, taking courses of action that often took too many years to be completed, and a majority of the few who knew of the order normally thought that their plans were useless or disconnected. They mostly worked undercover, and only their sworn enemies, the church of Tiamat and the Cult of the Dragon, knew about them, and tried to sabotage the Talons on many occasions.
+
+Possessions
+After Lareth's death, magical daggers were made from his fangs. Called a Dragontooth of Lareth, these daggers were given to elite members of the Talons, and were supposed to contain a part of the wisdom of the former King of Justice.
+
+History
+In 1373 DR, the Rage of Dragons happened, the most terrible of the Dracorages, and the Talons mobilized their forces to stop their mad brethren and to destroy the Dracorage mythal, and thus end the Rages once and for all. Although they were successful, most of their members were killed and the structure of the order was shaken. Their last known leader, Azhaq, vowed to restore the order to their former glory.
+
+While not official members of the Talons, the dragons Larendrammagar and Tamarand helped them in some of their missions. Their last mission was to help the Talons locate a former member of the order who had become a rebel, the dragon Arendelonthos.
+
+Known Members
+ Azhaq (leader)
+ Havarlan (leader until her death, in 1373 DR)
+ Innerdain Justdark
+ Kastrandrethilian
+ Jaerlethket
+ Llimark
+ Moonwing
+ Quelindritar
+ Vingdavalac
+
+Appendix
+Appearances
+ The Year of Rogue Dragons
+ The Rage
+ The Rite
+ The Ruin
+
+References
+
+---
+
+## Tamaer Shiversword
+
+Tamaer Shiversword was a member of the Soft Claws in Neverwinter in 1374 DR. She was a failed adventurer who loved to gamble and cause pranks.
+
+Appendix
+
+References
+
+---
+
+## Tara'a
+
+Tara'a was a tasked artist genie working within the Palace of the Enlightened Throne in Huzuz, the City of Delights, in 1367 DR.
+
+Activities
+Tara's artistic specialization revolved around cooking. She prepared many fine meals for the residents of the Royal Harim, including the Grand Caliph.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tabotan language
+
+Tabotan was a language spoken by the Tabotan people of Tabot in Kara-Tur.
+
+Description
+There was a common Tabotan tongue that held the nation together, but local accents were thick.
+
+Learning
+Tabotan was quite a simple language and the common form was easily learned, but few outsiders knew it, and few Tabotans knew the Trade Tongue, only their native tongue. Fortunately, most cities and villages, especially those near the borders and along trade routes, had interpreters available. This in turn gave outsiders few incentives to learn Tabotan themselves. Interpreters could be hired for between 10 and 30 yuan a day. They were fewer in the smaller towns, and hence their prices were higher.
+
+Dictionary
+chu river
+gompa monastery
+la mountain pass
+tso lake
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tabotan
+
+The Tabotans were a human ethnicity of the countries of Tabot and Phutan in Kara-Tur.
+
+Description
+The Tabotans were close kin to the Shou and the people of the Plain of Horses, but were shorter than the Shou, with wider cheekbones. They had straight but somewhat coarse black hair and brown almond-shaped eyes,
+
+Personality
+As a rule, Tabotans were hardy and strong and accustomed to the cold, harsh weather, but they were also apt to celebrate every little victory won in their difficult lives.
+
+Society
+The ordinary Tabotans were a nomadic people who followed their herds. They only assembled in cities for the sake of trade and other conveniences and the key settlements were in fact the monasteries. The monks taught them the deeds of the first High Lord of Oceans, H'Dang Li, so they were zealously firm in their faith and patriotically loyal to the government, which they believed to be strong and improving their lives. The people were relatively well educated at all levels of society, particularly in matters of religion and faith. The monks claimed to preserve the wealth and cultural heritage of Tabot.
+
+Language
+They spoke the Tabotan language, a simple easy-to-learn tongue that nevertheless held the nation together.
+
+History
+In their founding myth, the moon descended to the earth one night in the form of a beautiful woman. As she wandered through the night, all the white tigers of the land gathered at her side and were entranced by her. She touched her hand to the foreheads of nineteen of them and they were transformed into human men of strength and intelligence. After the moon woman returned to the sky, the new men performed heroic deeds and founded the various clans. One founded Phutan and the rest the lowland kingdoms of Tabot.
+
+Following proclamation of the Organization of Thought in Shou Lung in, Shou monks and temple guardians escaped into Tabot and founded their monasteries from  to . At first they avoided both the barbarian kings, but later allied together to repel a Shou invasion in the Battle of Tsagang in . With the Peace Land Treaty between the tribes and the monks, they founded the new nation of Tabot.
+
+Appendix
+Trivia
+The Tabotans were inspired by the people of the real-world Nepal and Tibet.
+
+References
+
+Connections
+
+---
+
+## Tardeth Llanistaph
+
+Lord Tardeth Llanistaph was Duke of Suretmarch, just chancellor of Tethyr, and one of the original members and a leader of the Company of Eight. He was greatly respected as a national hero across most of Tethyr.
+
+Description
+Tardeth was considered a handsome man, tall, with broad shoulders. He preferred to wear leathers, but if he knew that combat was evident, he would gear up in chainmail instead.
+
+Abilities
+Tardeth specialized in the longsword and was also proficient in the use of the dagger, light crossbow, longbow, and spear. As a ranger he was dedicated to the tracking and pursuit of giants and knew a great deal about animals and weather.
+
+Relationships
+Tardeth had good relationships with all members of the Company of Eight and expected great things from Manfred Arbustle, who had been the youngest member. He considered all of them as his own family.
+
+Tardeth had an older brother named Alain, and they had adventured together, but the latter was killed early in the lifetime of the Company of Eight.
+
+Personality
+Tardeth was honorable and just. He was confident in what he believed, yet he was always certain to seek proof for any matter. He was friendly and optimistic on the surface, but beneath that he struggle with doubts. Since his brother's death, Tardeth had devoted himself to the Company and to the ideals of Alain for a better Tethyr. The empty place in the Company always reminded him of his mistake. He had never discussed this with anyone else, and it left a psychological scar.
+
+Activities
+While in the Company of Eight, Tardeth was its spokesperson and leader, and under his guidance, it ran very smoothly.
+
+As just chancellor, Tardeth was responsible for the judicial systems of Tethyr. Tardeth oversaw four sub-chancellors, and together they were in charge of all written laws and the enforcement thereof.
+
+Early in the reign of Queen Zaranda, Tardeth submitted a draft of laws for the Kingdom of Tethyr known as the Star's Charter.
+
+Lord Llanistaph also served as a member of the queen's Royal Privy Council, and he was an honorary member of the Order of the Silver Chalice.
+
+Possessions
+Tardeth owned a wide collection of magical items. He wore a ring of protection, an amulet that protected him from undead, and magical chainmail. He carried a magic spear and kept several varieties of magical arrows handy.
+
+His most prized possession, however, was his magical sword, The Scales of Justice, which he inherited from his late brother. It was an intelligent sword and could even take control of Tardeth if necessary.
+
+Holdings
+The official mansion of Duke Llanistaph was Veaddakar, located in Alonmarch. During 1370 DR, the building was under construction, and so Tardeth rented a manor in the city of Saradush until it was complete.
+
+History
+Tardeth was from the city of Ithmong, before it was renamed Darromar.
+
+Tardeth, along with his brother, joined the original Company of Eight, which was created and led by Alain, in 1344 DR. Unfortunately, Alain died within the first year, trying to undo a mistake made by the then young Tardeth. Only three beings witnessed the death and understood the blame that was Tardeth's: Tardeth himself, Alain's intelligent sword, and the late half-elf druidess, Kaleene Thalwood.
+
+Afterward, Kaleene led the group and agreed with Tardeth to never replace Alain's position in the Company. In 1346 DR, however, Kaleene also died in fight with a green dragon, and Tardeth became the next leader, while Kaleene's place was taken by Arkaneus Silvermane.
+
+Tardeth suffered from depression because of his blame over Alain's death. At one point, he became mentally unstable but was saved by the Alain's intelligent sword, The Scales of Justice, which briefly took control of the ranger's body to save the Company from a grave danger. After this incident, Targeth grew very close to the sword.
+
+During the Reclamation Wars, Tardeth supported Zaranda Star's rise to power. At the end of 1367 DR, while Zaranda Star's army besieged the city of Ithmong, Tardeth's home city, he and Marilyn Haresdown joined Zaranda in infiltrating the city and capturing Julian Gallowglass, son of Ernest Gallowglass, who had set himself up as dictator of that city and would-be king.
+
+After the end of Tethyr's civil war, Zaranda appointed him as duke and lord chancellor.
+
+References
+
+---
+
+## Takenaka Okawa
+
+Takenaka Okawa was the shikken of Kozakura in 1357 DR.
+
+History
+Okawa became shikken in 1349 DR after the conclusion of the Hojo War, where the Takenaka clan gained supremacy over the Hojo clan, putting a puppet shogun on the throne. However, Takenaka Sugawara, the true military leader of the war, couldn't ascend to the shikken position because he was of no blood relation to the shogun, a trait possessed instead by his half-brother, Okawa.
+
+Personality
+Okawa was reserved and aloof, ambitious and very able in manipulate others. He was able in administrative works but not an inspired military leader or a good diplomat. Okawa considered Sugawara only a jealous man and was divided by the necessity to keep united his clan and frustration for Sugawara's actions against him
+
+Appendix
+References
+
+---
+
+## Tamanokuni
+
+Tamanokuni was the largest city and the capital of Miyama Province in Kozakura in 1357 DR.
+
+In that year, there lived in the city more than 10,000 people divided into eight wards. Tamanokuni housed the residence of Niwa Hirotada and the most important shrines of Miyama.
+
+Appendix
+References
+
+---
+
+## T'an-zao
+
+T'an-zao the Gajin was a bandit leader in Kozakura in 1357 DR.
+
+Activities
+T'an-zao led a bandit gang with around 400 members, of all kinds of origin, with a group of lieutenants and a mainland wu jen in his service. They were based in a secluded valley.
+
+History
+T'an-zao was an explorer from the Plain of Horses who, in 1347 DR, was shipwrecked in Kozakura with his entourage and started life as a bandit. Many times, Niwa Hirotada sent expeditions to eradicate T'an-zao's bandit group but he always retreated.
+
+Personality
+T'an-zao was a brilliant tactician, fusing tactics from his homeland with Kozakuran ones. He had a very capable cavalry. From his homeland, T'an-zao learned only death and plunder. He was clever but vindictive. However, T'an-zao recognized his weaknesses.
+
+Appendix
+References
+
+---
+
+## Takenaka Sugawara
+
+Takenaka Sugawara was the hero of the Hojo War of Kozakura in 1357 DR.
+
+History
+Sugawara led the Takenaka clan armies to victory in the Hojo War but after the end of the war in 1349 DR, he was unable to ascend to the position of shikken because of his lack of blood ties to the shogun, a trait possessed instead by his half-brother, Takenaka Okawa.
+
+Sugawara retired to his estate in the Iwari province, plotting a way to undermine Okawa and claim his position of ruler. Until then, he waited, recruiting allies.
+
+Personality
+Sugawara was slow to anger and never fought without a good reason, but when he had to act, he was swift and decisive. Sugawara was a great military leader, very popular among his subordinates.
+
+Appendix
+References
+
+---
+
+## Tazu-ei
+
+Tazu-ei was a barbarian in Machukara around 1357 DR.
+
+History
+Tazu-ei born from a noble family in Nakamaru on isle of Tsukishima. However disgusted by the plots of his relatives over supremacy he decided to renounced his status and went to Machukara. All considered him dead. However Tazu-ei prospered in the savage island, he had also befriended a race of intelligent orange gorillas who will make him their king if he teaches them to build and use ships.
+
+Personality
+Tazu-ei was a hot-tempered and fearless individual. He now was considering the gorillas' offer, intrigued to led a band of pirate gorilla.
+
+Appendix
+References
+
+---
+
+## Taichi
+
+Taichi was an old monkey hengeyokai wu jen and the magical advisor to the Funada clan in Nakamaru in Wa in the 1350s DR.
+
+Activities
+Taichi lived in the mountains behind Nakamaru and went to the city when called by some unknown means by his lord, Funada Mitsuhide. He served as his advisor, but wasn't very useful if the matter required patience or wisdom. Nevertheless, it seemed in the town that his appearance presaged alarming events.
+
+Although he was not a mighty mage, Taichi enjoyed finding and collecting strange magic, which him unpredictable and dangerous.
+
+History
+In Wa Year 1775 (1357 DR), Taichi met with his old friend and crony Kogi, a monk of the Winter Sect and agreed to help Kogi and Bupposo in their prank against the Tsuyoi-no-kami Shrine monks, knowing they did not respect his lord and liking the opportunity for mischief. For several days, he enchanted O-Shino to make her beautiful and maddeningly attractive to lure the Tsuyoi-no-kami monks and expose that they had mortal pride and weaknesses.
+
+However, afterward, for reasons known only to him, Taichi then helped O-Shino to get the same vengeance against Kogi and Bupposo. At last, he lifted the spells, but left her with a little of the charm by which to succeed in the world.
+
+Personality
+Taichi had little patience, but a sharp and perceptive mind. He was mischievous and encouraged mysteries about himself for his own benefit.
+
+Description
+His face had a slight impression of a muzzle, betrayed his monkey hengeyokai nature. He tended to hop on one foot when waiting.
+
+Equipment
+He owned a short sword +1 and potion of clairvoyance, and scrolls containing the spells accuracy, animate fire, ESP, fire shuriken, melt metal, metal skin, passwall, water to poison.
+
+Appendix
+References
+
+---
+
+## Tal Sey Lo
+
+Tal Sey Lo was a member of the Black Leopard Cult in 1358 DR.
+
+History
+Tal Sey Lo was a Black Leopard merchant in the city of Pe Nok in T'u Lung. In 1358 DR, she was attacked by followers of Dragon Claw.
+
+Appendix
+
+Gameplay
+If players did not help her, she died.
+
+References
+
+---
+
+## Tatalla
+
+Tatallas, meaning “the eye”, were tiny sinister creatures found in Zakhara, the Land of Fate.
+
+These creatures often found roles as spies or assassins.
+
+Description
+Tatalla were small, standing around 2 feet (0.6m) tall. They were humanoid in shape with a single large eye dominating their face. Many tatalla had tusks and large ears, making them appear like miniature ogre giants.
+
+Combat
+Tatalla were master trackers, possessing an unerring ability to hunt down their victims. These creatures possessed admirable thieving skills which they used to their advantage.
+
+A single bite of a tatalla caused nausea. Multiple bites caused adverse effects including loss of motor skills and even death if left untreated. Tatallas enjoyed biting sleeping victims, then returning each night for another bite until the victim died. The bites looked like regular spider bites.
+
+Though they generally avoided direct confrontations, tatalla were frenzied combatants if corned or forced to fight. Many even carried magical weapons. A pair of jambiyas or razors were their preferred melee weapons.
+
+When faced with dire circumstances, a tatalla could summon large numbers of bats and rats to its aid, These vermin typically arrived within minutes of the tatalla’s call.
+
+Habitat/Society
+All tatallas could speak a guttural form of Midani. They could also communicate with imps, quasits, bats, and rats. Found only within urban environments, they formed guilds within the organized societies of Zakhara. Any tatalla found outside of a city was likely tracking their next victim.
+
+Tatalla guilds mirrored human thieves’ guilds, complete with a hierarchy of members assigned to specific tasks including thieving, spying, and even assassination.
+
+Ecology
+Tatallas scavenged what they needed to survive, or stole anything else they required. They were known to cavort with human and demihuman thieves and holy slayers in exchange for payment.
+
+Appendix
+References
+
+---
+
+## Tai Chai Ming
+
+Tai Chai Ming was the Minister of Magic of Shou Lung in 1358 DR.
+
+History
+Tai Chai Ming was a talented wu jen. One day, he met Governor Kawabi, who for asked his magical counsel, especially about immortality and the magical attributes of blood lines.
+
+Tai Chai Ming gained notoriety writing the report "A Study of the Principles of Thaumaturgic Research". That report so impressed Emperor Kai Tsao Shou Chin and his wu jen Kao Shan Ten that they decided to make Tai Chai Ming the youngest minister of magic ever in order to revitalize the moribund ministry.
+
+Personality
+He was a kind of playboy but with a keen mind about practice and theory of magic.
+
+Appendix
+References
+
+---
+
+## Talking bird
+
+Talking birds were fascinating creatures found in Zakhara, the Land of Fate.
+
+These long-lived birds were highly intelligent, spending their years collecting information about their surroundings. They were even known to impart advice and wisdom to honorable people. Talking birds were fluent in a large number of languages.
+
+Description
+Talking birds looked like the offspring of a parrot and toucan. They stood  tall and had a wingspan measuring .
+
+Combat
+These peaceful creatures avoided combat by flying away. If unable to flee, they would turn their sharp beaks on their attackers. Killing a talking bird was a sure way to incur Fate’s wrath.
+
+Habitat/Society
+Zakharans believed that the very first talking bird was a gift from Fate, placed in the land to help those in need. Though extremely rare, talking birds could be found in any type of terrain. They did prefer forested areas above others.
+
+Talking birds answered questions for those lucky enough to stumble upon them. The number of questions they would answer varied from person to person, but talking birds never revealed what Fate had in store for someone.
+
+Talking birds performed an elaborate courtship dance when mating, after which the female would lay a single egg one year later. The egg took five years to hatch. Young talking birds learned languages from their mother. They learned nearly everything else by experiencing the world, avoiding other life forms until they were about 50 years old.
+
+A symbiotic relationship was common between talking birds and singing trees. The singing of a talking bird attracted animals that the singing tree fed upon. The singing tree tried to avoid killing other bird species when able. In exchange, the talking bird fed off of the leaves of the tree and any pests infecting the tree.
+
+Ecology
+Talking birds attempted to make the other creatures of their habitat live in relative harmony. They sometimes collected valuable or magical items which they were known to gift to those blessed by Fate.
+
+Notable Talking Birds
+ Azhakar
+
+Appendix
+Gallery
+
+Further Reading
+
+References
+
+---
+
+## Taerymdoom
+
+Taerymdoom was a network of natural caves located in the southern borders of the Far Forest in the Savage Frontier.
+
+Description
+Those who ventured into these caves said they stretched for several miles underground and were guarded by vargouilles.
+
+History
+Taerymdoom was named for an elf, Taerym, who was slain by a cloaker while trying to investigate the caves. Moreover, even a group of Zhentarim explorers and the Darkblades of Esmeltaran lost their lives to this evil place.
+
+Appendix
+References
+
+---
+
+## Tali al-Jasmini
+
+Tali al-Jasmini was a janni inhabiting the Lost City of Ubar within the High Desert of Zakhara in 1367 DR.
+
+Description
+Even among the widely attractive jann, Tali was considered to be quite beautiful.
+
+Personality
+Tali was a goal-driven individual who was eager to please her supervisor, Farad al-Meisal, though he barely took notice of her.
+
+Activities
+Tali assisted the Vizier of Ubar, Farad, in his duties.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tauk Kodagai
+
+Tauk Kodagai was a korobokuru bushi adventurer in Shou Lung.
+
+Personality
+Tauk liked the wilderness, not being comfortable in huge cities and with more cultured people around her. She had accepted being the last of her family and rarely went back to her tribe.
+
+History
+Born into the Kuatan tribe, Tauk, unlike the other korobokuru women, decided to start a life as a mercenary bushi.
+
+However, while she was busy fighting the rebel miners of Fukiow and routing them from their tunnels, her family was all slain by barbarians while saving the rest of the tribe. In grief and rage, Tauk decided to accept all jobs against the barbarians, fighting around the Dragonwall and into the Horse Plains.
+
+Tauk accomplished some great exploits: together with the Iron Regiment, she stood against the cavalry charge at Lo Tu; she recaptured the Rendai Hills from General Asu's barbarians and their wild dogs; with the Haybat Imperial Archers, she helped defeat the horde of the ghostly Pin Mo Now, the Headtaker. She was also the standard bearer of General Hie Aie Shek during the cleansing of the Spice Road from bandits and she decapitated the barbarian chief Asam Meneh in one-on-one battle.
+
+In 1358 DR, Tauk decided to go to the Komite.
+
+Appendix
+
+Behind the scenes
+Tauk Kodagai was a pre-generated PC for use in adventures in Shou Lung.
+
+References
+
+---
+
+## Tamura Tenryu
+
+Tamura Tenryu was a samurai of Fochu Peninsula in Wa around 1358 DR.
+
+Activities
+Tamura Tenryu was the shoya of the village of Ayoi in Fochu Peninsula.
+
+Personality
+Tenryu considered himself superior to the local villagers and had a desperate need for an intelligent conversation. He pressed all his guests to attend an incense ceremony before being welcomed in the village.
+
+Appendix
+
+References
+
+---
+
+## Talryn
+
+Talryn Heltharn was a prince of Impiltur.
+
+Relationships
+Prince Talryn was the first son of King Imphras II and Lasheela of Dilpur. He had a younger brother, Lashilmbrar, and four half-brothers—Kuskar, Velimbrar, Elphras, and Fylraun—from his father's second wife, Rebaera Osterhown.
+
+History
+Talryn was born in 1188 DR.
+
+In 1204 DR, Talryn's father the king began showing signs that he was losing his mind. After four years, Talryn decided that his father needed to be removed from power. Since Talryn was the crown prince, this would have made him king, but his jealous brother Lashilmbrar, with the help of some nobles, found a way to have Talryn exiled for treason.
+
+Talryn took refuge among the pirates of the Inner Sea, but by Impilturan law, he remained the crown prince, and so Lashilmbrar was unable to take the throne. So Lashilmbrar attempted to kill Talryn by gathering a fleet and attacking the pirates of Urdogen, but by the chance of bad winds, Talryn's vessel was absent.
+
+Lashilmbrar tried to have his brother killed a second time in 1212 DR, and this time, he was successful. Lashilmbrar spread a rumor that the king had died, (though, in fact, he lived for thirteen more years.) Talryn's pirates had captured a supposed Impilturan merchant who shared the "news". On hearing it, Talryn attempted to return to his home, declaring himself king, but he was met at the docks of Lyrabar and executed on the spot for treason by his father's royal guards. Lashilmbrar had his older brother's name erased from the royal records and became the new crown prince.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tamura Umakai
+
+Tamura Umakai was a wu jen of Fochu Peninsula in Wa.
+
+Activities
+Tamura Umakai was the shoya of the village of Ikizawa in Fochu Peninsula.
+
+History
+Umakai trained under the powerful wu jen Setsu Iki.
+
+In 1357 DR, after years of not seeing him, Setsu arrived in Ikizawa asking Umakai to take care of a page of the fabled Book of Hsi. Setsu explained that the evil Za-Jikku from the Qui demiplane wanted the book but it was safest being split in two, with a page in the far and isolated Ikizawa.
+
+However, in 1358 DR, the yellow-robed minions of Za-Jikku twice attacked the village, greatly scaring Umakai and his villagers.
+
+Later he met Osari Minhiro and a foreign adventuring party. After checking that they were good men, Umakai told them everything and gave them the page of the Book of Hsi.
+
+Appendix
+References
+
+---
+
+## Takako Shimizu
+
+Takako Shimizu was a samurai in the town of Aru in Wa in the 1770s on the Wa Calendar.
+
+Description
+Aged in her late 20s, she was quite attractive and moved with grace and fluidity. She had long black hair.
+
+Personality
+Takako was considered the model of a perfect female samurai. She had a keen intellect and wit, as well as a lively nature.
+
+Relationship
+Takako was the niece of the daimyo of Aru Province, Benju Matsutomo, and was one of the members of his court.As Takako is Benju's niece and is described as "different from Sumihiro in almost every way", it seems intended that Sumihiro and Takako are siblings or half-siblings.
+
+Abilities
+Although she lacked the time to train, Takako advanced well as a samurai and specialized in the katana. She also proficient in horsemanship, calligraphy, origami, and poetry.
+
+Possessions
+Despite her training, Takako didn't own her own katana, though she did keep a knife hidden in her obi. She never donned any armor. She had a room in the daimyo's Donjon in the Castle District of Aru, where she stored a variety of clothes and kept a small brazier burning aromatic woods day and night.
+
+History
+In high summer of, before the upcoming Ceremony of the Three Thousand Steps, Takako, Benju, various local nobility, and a group of adventurers hired by the daimyo gathered one evening on the vantage point on the hill north of Aru, beside the Shining Temple of Bishamon. The evening was ruined when the temple's great brass bell broke as the hour was rung.
+
+Around that time, Takako may have become attracted to one of the more charismatic male adventurers, if any qualified. In her best calligraphy, she would write an invitation to "view the sunset with me atop the Shining Temple" and signed it "An Ardent Admirer", and sent it via a messenger. However, this would lead to complications. If the adventurer didn't return Takako's affections, or didn't even come to the tryst, then she would grow angry and claim to others he was "trifling with her affections", hurting his reputation. But if the adventurer did, then Benju would hear that he was "shaming" his niece and order him to break it off, which would cause to Takako grow angry and make claims anyway. There was, it seemed, no winning.
+
+In any case, Takako later had a bigger problem. Once, while hunting in the forest with Tazumi and other samurai, Takako became separated and was ambushed by a monster. She barely had time to scream and none to see it before it knocked her out. The alerted samurai rushed to her side, but the monster escaped them; through the undergrowth, Tazumi glimpsed the creature crouching over Takako and mistook it for a kala or even a shikki-gaki. But with no more than a scratch and a bump, Takako confidently dismissed this incident as just another monster attack.
+
+But, several weeks later, Takako suffered a nightmare of being helplessly swallowed by a hideous one-eyed monster. In a strange bout of sleepwalking, she also transformed into a tagamaling buso, stalked the halls of the daimyo's donjon, murdered and partly ate a samurai, stashed the body behind a rain barrel, and returned to her room, where she awoke screaming with no memory of the events. Claw marks were found on her shoji door and the discovered body, incomplete tracks linked them, but this excited fresh rumors of the notorious "tiger-bird spirit" of Aru. Benju may have had his adventurers investigate and protect Takako during the night. During the day, they questioned Takako, Tazumi, and the samurai guards; they learned little but might've received cryptic clues from the so-called Seer. At night, they stood guard outside Takako's room, and after midnight she once again transformed and attacked them, revealing the truth when she changed back. If the fight didn't lead to her death, Takako was naturally horrified. The adventurers sought a cure or a cause. A powerful shukenja found it was no normal tigbanua buso's disease, but a spiritual taint. With Tazumi to guide them, the adventurers returned to the forest and likely hunted down the unusual cursed tigbanua buso and slew it, ending Takako's and others' afflictions.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Takahashi Yamaguchi
+
+Takahashi Yamaguchi was the leader of the ninja Yamaguchi clan in the town of Aru in Wa.
+
+Personality
+Takahashi was a man of honor, never brooking an agreement. If anyone betrayed him Takahashi would do anything to have revenge.
+
+History
+Takahashi trained in ninja arts inside the Warazama clan until that clan was destroyed by internal dissents. So Takahashi formed a own ninja clan, the Yamaguchi clan.
+One of first missions of Yamaguchi ninja was in 1358 DR spreading chaos in the town of Aru.
+
+Appendix
+References
+
+---
+
+## Tappeng
+
+Tappeng was a chieftain in Bawa in 1357 DR.
+
+Activities
+Tappeng was the chieftain of the Kabundusil tribe, one of the most savage Bawani tribes. Other tribes lived in fear of those times when Tappeng led a party on a headhunting raid or decided to pillage others' rice fields and burn their dwellings.
+Tappeng was greatly concerned about the Bavanese and despised the subtle merchants who in his eyes truly ran the civilized kingdom. He promoted inter-tribal fighting because he believed it necessary to keep fit.
+
+Appendix
+References
+
+---
+
+## Takegai Yodori
+
+Takegai Yodori was a wandering shugenja of the noble Takegai clan in Kozakura in 1357 DR.
+
+Activities
+Yodori acted as a courier for Takegai Uezami, the head of the council of state and a high-ranking member of the Takegai clan. Yodori traveled all Kozakura to deliver messages to Uezami's allies.
+
+Personality
+Yodori was totally devoted to his clan. He was an ambitious, energetic, and serious individual.
+
+Appendix
+
+References
+
+---
+
+## Takae Suju
+
+Takae Suju was a monk in Wa around 1357 DR.
+
+History
+Suju was the military instructor at Uwaji and a close collaborator of Baiyosho Degi. Takae, however, advocated for a more proactive role for the samurai in the country's government, but this idea did not please the shogunate and he was reassigned to the isle of Huyusha to teach the prisoners at Ibhei.
+
+Suju continued his studies on government reform and wrote many unpublished books about it.
+
+Appendix
+References
+
+---
+
+## Tanataskar Moonwind
+
+Tanataskar Moonwind was the cursed owner of the Cointoss tavern in Yartar around 1370 DR.
+
+History
+Once, Tanataksar was an adventurer devoted to Tempus but offended the god with his pride and Tempus cursed him. Whenever he drew blood in a fight, he went berserk, blinking and attacking random people, while broken weapons constantly fell out of his body, with no consequence for him. He consulted many wizards and priests of Tempus in order to find a cure but to no avail. He also stopped adventuring, in order to not risk endangering friends or fellow adventurers. He remained in his tavern and listened to stories of adventures.
+However, in his dreams, Tempus said to him that a great task awaited him.
+
+Appendix
+
+References
+
+---
+
+## Tamalynda
+
+Tamalynda, or the Whisperer, was a High Lady of the marrash in 1367 DR.
+
+Personality
+Tamalynda was a prideful marrashi who was not quick to trust others. She was a master of deceit.
+
+Activities
+In addition to being the Lotus Emperor's invisible consort, Tamalynda also served as the Faceless God's lieutenant when the Emperor was unable. The soldiers under her command served a special enforcers for their god within the highest peaks of the Land of the Yak-Men.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Takamal
+
+Takamal was the ruler of Kultaka in 1361 DR.
+
+History
+Takamal originally was a great warrior that save Kultaka from the Nexalan armies led by Chalco, the Nexalan ruler predecessor of Axalt, the father of Naltecona, around 1295.
+
+When Takamal heard of Cordell's victories over the Payits, he pondered alone whether he should meet the Golden Legion in peace or in war, but at last he decided for war.
+
+Takamal developed a good strategy, using the characteristics of the terrain to the advantage of the Kultakans. During the furious battle, he directed his troops together with his advisor Naloc and quickly understood that his opponents were normal humans.
+However, in order to turn the tide of the conflict, the mage Darien levitated to them and killed first Naloc and afterward Takamal.
+
+Appendix
+Appearances
+ Viperhand
+
+References
+
+---
+
+## Tamper Tencoin
+
+Tamper Tencoin was a wayward Harper.
+
+Activities
+Tamper was a wily adventurer who sometimes acted as a joker and other times patiently waited in order to enact vengeance.
+
+History
+For a time, Tamper was a member of the mercenary Flaming Fists until his commander Rivenhelm died on the battlefield, giving to him the magical sword Namarra, which was later stolen by a Zhentarim agent. For a while, Tamper acted as a caravan master between Amn and Westgate and sometimes Neverwinter.
+
+After he joined the Harpers, Tamper helped the Knights of Myth Drannor to defeat the Zhent mage Whisper. In his later career, he became a planewalker, often traveling Faerûn with creatures from other planes, like the Nehwon ghoul Lacheera.
+
+In the, he went alone to Daggerdale to help Randal Morn.
+
+Appendix
+
+References
+
+---
+
+## Tarrasque
+
+The tarrasque  was the most terrible creature known to inhabit the Prime Material Plane. The beast was a full  tall and  long quadruped with a long tail, reflective carapace, and two large horns on its head. Supposedly, there was only one tarrasque, which slumbered within the world's core. No one could predict when it would next awake.
+
+The tarrasque was irreversibly tied to the Prime by its nature. As a result, the most one could hope to do was put the creature to sleep within the core, holding it off for a while longer. However, ancient texts seemed to indicate that there might be a way to finally and ultimately deal with the creature, if one could somehow deceive it, luring it into another plane and sealing it there.
+
+Description
+The tarrasque was an enormous abomination, roughly the size of an ancient dragon, with two long horns extending from its forehead, a thick carapace, mighty tail, many spikes covering its large body, and a wide, toothy maw. The tarrasque also had two small eyes, but it did not rely on these for its primary method of sensory perception—if they were blinded or removed, it was effectively unhindered. The tarrasque was impossible to frighten or charm and had resistances to every kind of damage imaginable. It moved at a speed roughly half that of a human, either while walking on the surface, climbing a height, or burrowing through the earth.
+
+Behavior
+Although the tarrasque was indisputably a force of pure destruction, it was not truly evil or even chaotic by nature, lacking the consciousness necessary for it to take a moral stance. As a result, it was merely neutral in alignment.
+
+Abilities
+The tarrasque had many unusual abilities gifted to it by its creators. Among the most terrifying of these was its ability to ignore any natural resistances its victims had, cutting right through them with its deadly attacks. It also had the ability to dramatically hinder the ability of creatures within  of it to fly, reducing their speed substantially while also bringing them down to a maximum altitude of twenty feet, which put them within the beast's reach.
+
+The tarrasque had the ability to instill nearby creatures with terrible fear, rendering them incapable of action. It was also immune to the ill effects of fire, poison, or disease. It was generally immensely difficult to injure. Some scholars even claimed that they were immune to all manner of psionic attacks.
+
+History
+Origin
+The history of the tarrasque was controversial. Most persons were wholly unaware of the tarrasque's existence and those that did know of it were unsure about its origins, which they surmised to be anything from its actual creation to it being the weapon of an ancient and evil cabal of wizards. Most dismissed these theories, however, as unproven musings. More important was that the tarrasque rarely left evidence or witnesses, so dangerous was its nature.
+
+Some sages argued that the tarrasque was created by the primordials as a weapon of destruction during the Dawn War, with the purpose of undoing the stability instilled in the world by the gods so that the primordials could remake it. Fortunately, the primordials created only one tarrasque.
+
+Another theory was that the tarrasque was but one specimen of an entire population of the creatures living on the planet Falx, which was located somewhere in another crystal sphere. Falx had several hundred creatures that were either the same species as the tarrasque of Toril or else an (unfortunate) example of convergent evolution. According to this view, Toril's tarrasque had simply been transported or summoned to Toril from Falx in ancient past.
+
+History
+
+A unique tarrasque known as the Sleeper dwelled in the continent of Katashaka in ancient times. She was worshiped, and fed sacrifices, by the ancient Tabaxi tribe of humans and reigned over their lands. In Tabaxi legend, one season, the Sleeper desired vengeance against an ancient enemy and summoned the greatest warriors of the nine tribes to follow her into battle in Mhairshaulk (c.  to c. ). Apparently defeated, the Sleeper returned in a rage and went on a rampage on the Night of Feasting, before finally returning to sleep. She would awaken twenty-three more times, ever more angry and hungry. Finally, on the next Night of Feasting at the end of a millennium, the next sacrifice, Oyai, was blessed by Ubtao and empowered with magic, right before the Sleeper awoke and came to devour her. But she used the magic to halt, crush, and slay the Sleeper.This is implied to occur once every thousand years, but the sleep schedule of a tarrasque is generally noted to be unpredictable and more frequent. If so, its life-span covers a period of over 23,000 years
+
+In the final years of the first empire of Netheril, a tarrasque's lair (known locally as the "lair of the sleeping beast" in what would be southwest Anauroch) was under heavy guard by Angardt barbarians whose shaman's prophecies told of the beast's imminent awakening. In the, adventurers hired by the archwizard Karsus came to cut out the tarrasque's pituitary gland, which was to be used as a spell component for the casting of Karsus's avatar. A gold dragon named Dracolnobalen, who protected the Angardt tribe, provided the adventurers working for Karsus with a liquid that she claimed would keep the tarrasque from waking again once applied to its body.
+
+In the, a mage summoned a tarrasque through a ritual that required the heads of seven adult dragons to complete. It was defeated by the crew of the Realms Master.
+
+Ecology
+The tarrasque was an eating machine while awake, capable of swallowing creatures of roughly giant size whole. When roused, it would, by its design, eat quite literally the entire world, including plants and animals. Fortunately, it would only be active for a week or two before it returned to its slumber to sleep for five to twenty months, although, once every decade or so, the tarrasque would stay active for several months, after which it would sleep four to sixteen years, unless disturbed.
+
+Usages
+Legend had it that one could yield a vast number of gems from a tarrasque's upper carapace by treating it with acid and then heating it in a furnace. Other legends spoke of dwarven blacksmiths being able to forge metal from the tarrasque's underbelly by mixing it with adamantite and the creature's blood.
+
+Appendix
+
+Notes
+
+Gallery
+
+Appearances
+
+External links
+
+Further Reading
+
+References
+
+Connections
+
+---
+
+## Tatak
+
+Tatak was a desert dwarf from the House of Tezca desert in Maztica.
+
+History
+After the Night of Wailing in 1361 DR, Tatak and his chieftain Luskag were checking a new water source when they were attacked by a Viperhands ogre. As Tatak died, an ancient hatred of goblinoids rose up inside Luskag and he killed the ogre.
+
+Appendix
+Appearances
+ Feathered Dragon
+
+References
+
+---
+
+## Tabub
+
+Tabub was a wild halfling chieftain in Maztica.
+
+History
+In 1361 DR, Tabub interrogated Erixitl and Halloran, who had been captured by his warriors during an exploration.
+
+Appendix
+Appearances
+ Feathered Dragon
+
+References
+
+---
+
+## Tacal
+
+Tacal was an Itza prince of history.
+
+History
+During the Payit golden age, Tacal was a prince of Tulom-Itzi. When rumors of the beauty of the Payit princess Aliah reached him, Tacal decided that she should be with him, but she was promised to her half-brother Xetl. So Tacal assembled his retinue and devised a plot to strike during the wedding day, where he was among the guests with his parents and most of the Itza nobles, and kidnap her.
+
+On the day of the wedding, Tacal and his warriors managed to kidnap Aliah but only with the deaths of most of his warriors. At last, in revenge, the Payit decided to slay the whole royal family of Tulom-Itzi. When Tacal, still surrounded by Ulatos's armies, saw at a distance the bodies of his family, he killed Aliah out of desperation. Soon after, Payit arrows killed Tacal.
+
+This act signaled the end of the Payit Golden Age.
+
+Appendix
+References
+
+---
+
+## Tabl
+
+The tabl  was a double-sided Zakharan drum.
+
+Pearl divers from the Pearl Cities referred to these drums as mirwas.
+
+Description
+These small drums were covered with either horse or goat hides on both sides, though more exotic animal hides could be used as well. Tabls were beaten with the hands or cloth-covered sticks.
+
+History
+The tabl was used throughout the Land of Fate.
+
+Appendix
+External Links
+
+References
+
+---
+
+## Takht of the jann
+
+The Takht of the Jann was the collective term used when the five instruments of the jann were played together.
+
+Description
+The takht consisted of an esemble of a qanun of the spirits, a riqq of the efreet, a rababah of the dao, an 'ud of the marids, and a nay of the djinn.
+
+Powers
+Though each instrument of the jann was a powerful magic item, the true power of these instruments was unleashed when combined and played together. A group of bards or rawunin playing these instruments under the direction of a skilled sha'ir was capable of summoning an army of genies. This army encompassed four genie units—one for each of the major genie races—each measuring 100 strong. Each of these units was under the command of a powerful noble genie. In order to summon the genie army, the musicians needed to play their instruments uninterrupted for a full hour. If the music were interrupted in any way, then the genies who had already arrived would not be under control.
+
+A successful summons granted the sha'ir complete command of the genie army for 25 hours. The genies returned to their native planes when this time expired. All genies serving within this army would not be able to harm the sha'ir for the next 101 years.
+
+Given the power the takht had over genie-kind, most genies and genie servitors were on the constant lookout for anyone attempting to assemble a complete collection of the magical instruments required. These collectors were known to disappear or meet otherwise unfortunate ends.
+
+Rumors & Legends
+Historically, only the Amir of the High Desert was granted possession of a complete set of instruments needed for a takht of the jann, but the Caliph in Huzuz was rumored to own a set as well.
+
+Appendix
+External Links
+
+References
+
+---
+
+## Tarnmark Lionmantle
+
+Tarnmark Lionmantle was a War Wizard of Cormyr in 1487 DR.
+
+History
+Tarnmark's mission involved spying on Lord Sardasper Halaunt. He witnessed the magic battle at the Dragon Rampant club between Manshoon, Shaan, and many other archmages attempting to capture the lord.
+
+Appendix
+References
+
+---
+
+## Tash'kla
+
+Tash'kla was a priestess of Eilistraee.
+
+History
+Tash'kla was one of the Protectors of the Song in the Promenade of the Dark Maiden.
+
+In 1377 DR, she was one of the six Protectors chosen for an assault led by Cavatina Xarann on the main temple of Kiaransalee.
+
+In 1379 DR Tash'kla was killed by an ooze during the attack of the Ghaunadaur's followers to the Promenade but Cavatina hoped to resurrect her later.
+
+Appendix
+
+Appearances
+Novels
+ Storm of the Dead
+ Ascendancy of the Last
+
+References
+
+---
+
+## Talzir
+
+Talzir was a priest of Vhaeraun.
+
+History
+In 1377 DR, Talzir was one of the six nightshadows chosen for an assault led by Kâras on the main temple of Kiaransalee. Arriving near the temple, Kâras decided that he, Gindrol, and Talzir should polymorph into deep gnomes, allies of the Crones of Kiaransalee, and infiltrate the temple.
+
+Appendix
+Appearances
+Novels
+ Storm of the Dead
+
+References
+
+---
+
+## Talonar Winter
+
+Talonar Winter was a high-ranking member of the Purple Dragons in the late 15 century DR.
+
+Appearance
+He was well-spoken. He rather resembled Azoun Obarskyr IV.
+
+Abilities
+He was pretty capable at getting up and between trees.
+
+Relationships
+He was an immediate underling of Eskrel Starbridge during the time the latter was the top Highknight in Cormyr. For years, he'd been tailing Broryn Windstag, a nobleman.
+
+History
+Around 1479 DR, Talonar replaced his superior in the Purple Dragons, Eskrel Starbridge, in a security meeting after the Council of the Dragon was postponed due to magically introduced toxic smoke in the room where it was to be held. Before he could contribute anything to the conversation on how to find the traitor who had bypassed the wards, the ghost of Alusair Obarskyr walked through him; he didn't say much of anything through the rest of the meeting.
+
+After the actual, calamitous Council of the Dragon, Glathra Barcantle wanted him to look at all the bodies before they were returned to their families. She later commanded Arclath Delcastle, a noble heir, to report to him, as he was going to be pressed into service as a Purple Dragon. Glathra talked to Talonar again during his debriefing about the situation on the streets, on the same day.
+
+On the evening, Talonar Winter eavesdropped on Broryn Windstag and Delasko Sornstern, two nobles who conspired against the Crown; he learned what they knew of blueflame items and their dealings with Marlin Stormserpent. Shortly after, he was the one to report, together with Eskrel Starbridge, that someone had broken into Staghaven House and slain everyone in there, including the person he was tailing, Broryn Windstag.
+
+During the Festival of Handras, when blueflame ghosts were expected to be unleashed in response to the performance of the Blue Flame (actually an illusion cast by Elminster Aumar and his descendant, Amarune Whitewave), Talonar Winter was part of the retinue guarding King Foril Obarskyr I, that ultimately protected him from Cymmarra.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tauranus
+
+Tauranus the Proselytizer was a cleric in Phlan in 1340 DR.
+
+Activities
+Tauranus wandered the residential district with his portable shrine.
+
+Appendix
+Appearances
+Ruins of Adventure
+
+References
+
+---
+
+## Tarask
+
+Tarask was a fighter in Phlan in 1340 DR.
+
+History
+Tarask had been in the service of Cadorna House since his youth.
+
+In 1340 DR, under the orders of Porphyrys Cadorna, he hired an adventuring party to clear monsters from the Cadorna Textile House. Tarask's true mission was to find the secret treasure hidden inside.
+
+Appendix
+Appearances
+Ruins of Adventure
+
+References
+
+---
+
+## Talya Floshin
+
+Talya Floshin was one of the leaders of the daemonfey in the Year of the Tankard, 1370 DR.
+
+Relationships
+Talya was the consort of Faersynd Floshin.
+
+Description
+Talya resembled the goddess Hanali Celanil as shown in many depictions but with red eyes. Rumors said Talya was one of the daughters of the demon lord Graz'zt.
+
+Activities
+Talya valued potential informants and reported to Ryvvik Dlardrageth. Secretly, she plotted to kill her husband and replaced him with Baron Xhalth.
+
+History
+In 1370 DR, Talya was pregnant with triplets and rumors said they were Xhalth's offspring. At one point, Talya gave birth to a daughter of Xhalth, Mogwyn, a fey'ri marauder.
+
+Personality
+Talya was the most manipulative of the fey'ri. She wanted Xhalth as a new husband because he was more easily controlled by her.
+
+Appendix
+References
+
+---
+
+## Tau
+
+Tau was a member of the Cult of the Black Earth sometime after the War of the Silver Marches.
+
+History
+In the late 1480s or early 1490s DR Tau and his fellow cultist Sharda, mounted on bulettes, went to the spirit mound of One Stone in order to claim the giant relic there in the name of Ogrémoch.
+
+Appendix
+Appearances
+ Storm King's Thunder
+
+References
+
+---
+
+## Tamalin Zoar
+
+Tamalin Zoar was a member of the Zoar family and the owner of the Calling Horns sometime after the War of the Silver Marches.
+
+History
+In the late 1480s or early 1490s DR, Tamalin bought the Calling Horns inn and retired to live there. In time, thanks to her influence, a small village of settlers gathered around the inn. All of the villagers paid Tamalin for the "protection" guaranteed by her mercenaries.
+
+Appendix
+Appearances
+ Storm King's Thunder
+
+References
+
+---
+
+## Takt Muren
+
+The Takt Muren was a small river found in both the Hordelands and Shou Lung.
+
+Geography
+The Takt Muren flowed slightly northeast from Nor Takt for several hundred miles within the far northern reaches of the Katakoro Plateau. It cascaded over the Yellow Serpent Border Cliffs at the Yellow Thunder Falls.
+
+Description
+The water filling the Takt Muren began as glacial runoff from the Katakoro Glacier, filling first Nor Zanskra and then Nor Takt before joining the river and ultimately combining with the Ch'ing Tung River in Shou Lung.
+
+Appendix
+References
+
+---
+
+## Tanathras
+
+Tanathras was a Netherese flying enclave. It was destroyed in  when the city's mythallar was disintegrated by double agents working against Tanathras's ruler.
+
+Geography
+Prior to its destruction, Tanathras was located above the city of Dagger's Point, a well-known haven for lawless individuals in Netheril.
+
+History
+In −647 DR, the ruler of Tanathras, an archwizard named Falious, decided to relocate his flying enclave above Dagger's Point. Intending to use the relocated enclave as a summer retreat, Falious wanted to purge the city below of evil elements. He was approached by several former students of Trothas Helegaras, the ruler of Dagger's Point, who volunteered to aid Falious in taking control of the criminal city. However, these students turned out to be double agents in Helegaras's employ. They betrayed Falious, cast a powerful disintegrate spell on Tanathras's mythallar, and escaped using contingency. Tanathras plummeted into the side of the Dagger Mountains and was destroyed.
+
+Notable inhabitants
+Falious, ruler of Tanathras around the time of its destruction.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tales from the Yawning Portal
+
+Tales from the Yawning Portal is a 5th-edition Dungeons & Dragons sourcebook that updates and adapts seven popular dungeons from earlier editions of Dungeons & Dragons.
+
+Contents
+Tales from the Yawning Portal includes the following adventures:
+Against the Giants
+Dead in Thay
+Forge of Fury
+The Hidden Shrine of Tamoachan
+The Sunless Citadel
+Tomb of Horrors
+White Plume Mountain
+
+Index
+Characters
+Thuria
+
+Appendix
+Notes
+
+Further Reading
+
+External Links
+
+Connections
+
+---
+
+## Tartha
+
+Tartha was a fire giant duchess sometime after the War of the Silver Marches.
+
+History
+Tartha was one of the giant lords at the time of the shattering of the ordning.
+
+In the late 1480s or early 1490s DR, Tartha was one of the giant lords who arrived in Maelstrom in search of news about Princess Serissa's plans for the future.
+
+Personality
+Tartha hated dragons above all.
+
+Appendix
+Appearances
+ Storm King's Thunder
+
+References
+
+---
+
+## Tazlan Rilzeer
+
+Tazlan Rilzeer was a sea-captain who lived in Waterdeep sometime after the War of the Silver Marches.
+
+Activities
+Tazlan was the captain of the Coin Toss—a vessel owned by the noble Arilosa Adarbrent who was a financier of the Order of the Gauntlet. He had a priest of Helm serve as the ship's medic.
+
+History
+In the late 1480s or early 1490s DR Tazlan was hired by the Order of the Gauntlet to travel in search of the Morkoth
+
+Appendix
+Appearances
+ Storm King's Thunder
+
+References
+
+---
+
+## Taska Sonadora
+
+Taska Sonadora was a sea captain in Waterdeep sometime after the War of the Silver Marches.
+
+Activities
+Taska was an insane noble who wanted to use all her wealth on bold and foolish adventures. One of her crazy goals was to kill a white dragon. Her ship, the Bobbin' Flagon, was stocked with the finest food and drink.
+
+History
+In the late 1480s or early 1490s DR, Taska was possibly hired to accompany an adventuring party to Svardborg.
+
+Appendix
+Appearances
+ Storm King's Thunder
+
+References
+
+---
+
+## Taiku
+
+Taiku was a settlement in the kingdom of Koryo in Kara-Tur.
+
+Geography
+Taiku lay on the northern coast of the western peninsula, south of the Straits of Koryo.
+
+Locations
+In the settlement stood Taiku Fountain, which bestowed invulnerability on anyone who bathed in it, lasting for a period of ten days. Needless to say, by 1350 DR, authorities closely guarded the pool to stop it being misused. It was said the bravest heroes of Koryoan history bathed in the fountain and even drank its waters before their biggest battles.
+
+Appendix
+References
+
+---
+
+## Tadaz
+
+Tadaz was an inhabitant of the village of Toralth in Tethyr in 1370 DR.
+
+Description
+Tadaz was a muscular man. In his later years, he had gray hair and had lost most of his teeth. He had a strong tolerance for alcohol.
+
+History
+On Uktar 10, 1370 DR, he went to the Blue Badger Inn with his son Tural and his best friend Ondar in order to honor Tural's heading off to join Tethyr's new army at Riatavin. He was there when three dwarves, Bapar Ghalmrin, Odak Truesteel, and Soram Battlebellow, arrived, seeking the Sondarr Scepter.
+
+Appendix
+Appearances
+ Wyrmskull Throne
+
+References
+
+---
+
+## Tarkas Thallavv
+
+Tarkas Thallavv was the Gemayor of Keczulla in Amn in 1362 DR and secretly a Cowled Wizard.
+
+History
+Tarkas once was an administrator for the Vinson family, but while their influence dwindled, Tarkas's powers grew.
+
+In 1347 DR, he was the ruler of the city of the Keczulla, which he helped to grow with the aid of the Tanislove family. A decisive gain for the city were Pulth Tanislove's gem mines, discovered in 1355 DR.
+
+Appendix
+=References
+
+---
+
+## Tar'Ael Veluuthra
+
+Tar’Ael Veluuthra, or Whetstone of the Blade or Whetstone of the Victorious Blade, was a spellbook containing some spells designed for members of the Eldreth Veluuthra and also allowed crafting humanbane arrows for those with normally insufficient skill.
+
+Description
+The entire book had a bend that looked as though it could and was carried around in a scroll tube. The book’s cover was made from a single silverbark tree leaf folded in half along its central vine. The front cover spelled its name. The pages were made from beaten plant mush and were sewn together with vine. The book was written in delicate elven letters and started with the sentence:
+
+May we drive the cursed vermin from our blessed land, may they despoil it no longer with their sweat, axes, and blood.
+
+Contents
+The book contained spells, that helped the spellcaster to navigate, spy, hide and relay information, namely:
+ clairaudience/clairvoyance
+ climb
+ expeditious retreat
+ invisibility
+ jump
+ message
+
+While the content was certainly useful, the book’s true value didn’t lie in the spells it contained but in its back cover. A spellcaster gained the ability to craft humanbane arrows after following through the following steps:
+
+1. kill a human
+
+2. drop the blood from the killed human’s heart before 10 min passed after death
+
+3. the blood formed a magical formula in elven letters
+
+4. the formula described how to create the magical arrows
+
+The formulas magic was useful for 8 hours during which the arrows must be crafted. users needed to provide the material for the crafting process by themselves, the only thing the book’s formula and human blood substituted were the users’ lack of skill to create them by themselves.
+
+The formula couldn’t be copied to be used later because the blood of a human was different from individual to individual.
+
+The crafting formula itself allowed only the crafting of six arrows and interestingly, it only allowed modifying existing mundane arrows into magical arrows. Adding the humanbane characteristics to an existing magical arrow was impossible.
+
+Value
+The Tar’Ael Veluuthra could be sold like any other magic book, but its monetary value depended on whether the potential buyer knew about its book cover’s magic. Those who knew and had a need for the grisly magic were even willing to pay about three times the value of the book’s content in spells, those who didn’t have the need or were of morally higher calling didn’t buy it at all or paid to keep the book out of circulation.
+
+History
+The Tar’Ael Veluuthra earliest recorded sighting was in 1345 DR, but it wasn’t known when and who did create it. What was known about the creator’s identity was that it was an elven wizard, who was also a member of the Eldreth Veluuthra, and its purpose, teaching other members useful spells in stealth and providing means to kill humans. It was suspected that the book was duplicated several times, but neither had anybody an idea how often nor was anybody able to confirm this information.
+
+The last known owner of the original was the fey'ri Threlya Dlardrageth, last seen shortly before the phaerimms’ attack on Evereska. A rather naive woman, a member of the Eldreth Veluuthra mistook her awkwardness with uneasiness at being around many humans and introduced her to a fellow wizard for tutorship in magic. This wizard borrowed her the Tar'Ael Veluuthra, but misfortune didn’t allow her to give it back.
+References
+
+---
+
+## Tagar Lusos
+
+Tagar Lusos was an aquatic elf dukar of the Order of Numos and a member of the Nantarn Council.
+
+Activities
+Despite his irrational hatred of Morgan Ildacer, Tagar was an effective councilor and normally spoke in defense of the people of eastern Serôs (locathah, shalarin, and Qatoris morkoth included).
+
+Appendix
+References
+
+---
+
+## Talor Vurtalis
+
+Talor Vurtalis was an aquatic elf high mage in Myth Nantar in the mid–14 century DR.
+
+History
+In 1341 DR, Talor was accepted as new student by the High Mages Taranath Reefglamor and Yrlimn Tidark, together with Jhanra Merlistar and Keryth Adofaer. In 1346 DR, Taranath placed three selu'kiira upon their brows, sending the students into comas while the gems force-fed the knowledge of millennia into their brains.
+
+Talor and his fellows awakened only on Tarsakh 1 of 1369 DR in order to help in the Twelfth Serôs War. Talor and his fellow helped their masters in the war and in the great spell that sent Iakhovas to the Outer Planes.
+
+After Yrlimn and Taranath died of exhaustion, Keryth and Jhanra replaced them as new High Mages and Talor was nominated High Mage.
+
+In Ches of 1370 DR, Talor summoned a Whirlpool Gate in Myth Nantar, seemingly not caring for the people around him, and disappeared. In Nightal, some dukars discovered him in the Cliff City of Atin. Talor had renamed himself Atin and had taken control of the beast of the city. He injured the dukars that discovered him.
+
+Activities
+Talor vainly wore his selu'kiira openly on his forehead in opposition to the tradition to hide it. In Myth Nantar, he paid no attention to his students and used his time to explore the city and the area around.
+
+Personality
+Talor was not confident in his abilities and responsibilities.
+
+Appendix
+
+References
+
+---
+
+## Tabards
+
+The Tabards were the highly competent military forces that patrolled Gontal City.
+
+Activities
+The Tabards were in charge of patrolling Gontal City. They were renowned for their discipline, skill, and loyalty to the ruler of Gontal.
+
+Possessions
+The Tabards wore distinctive black armors.
+
+Appendix
+References
+
+---
+
+## Tarsith
+
+Tarsith was a port city and a member of the confederation of the Dusk Ports in Laerakond. It was also one of the most important fishing cities in the region.
+
+Geography
+Tarsith was located in the Esmur Flats, in the shore of the River Esmur near the mouth where the river flowed to the Dragon Sea.
+
+Background
+Tarsith was the most calm and peaceful city of the Dusk Ports. However, this situation wasn't always the same, and usually the population had to endure hard times when the green dragon Orlarrakh invited a fellow from Melabrauth to eat.
+
+Aside from foodstuffs, Tarsith also boasted the finest ropes and sails in all Laerakond, although such products were not for sale.
+
+Government
+Tarsith was ruled by a Tarsandar, a wizard who received his or her scepter from the Green Duchess herself.
+
+Economy
+Due to its location in the River Esmur, Tarsith was known as the busiest fishing center of Laerakond. Most of the eels and clams were consumed locally, but the rock crabs and fish were Tarsith's major exports.
+
+Notable Inhabitants
+ Rhauron, a notorious individual who lived in Tarsith in the 1480s DR.
+
+Appendix
+References
+
+---
+
+## Tammuz
+
+Tammuz was a mid-level member of the Northern Wizards in Unther in 1357 DR.
+
+Personality
+Tammuz really enjoyed the current situation, believing it a more exciting thing than studying spells. He was a childish and immature person.
+
+Appendix
+
+References
+
+---
+
+## Tae kwon do
+
+Tae kwon do, also known as Foot and Fist, was a martial art developed in the land of Koryo in Kara-Tur.For 1st edition, Oriental Adventures and Kara-Tur: The Eastern Realms: Volume II present the real-world martial art tae kwon do for Koryo. However, for 3rd edition, "Kara-Tur: Ancestor Feats and Martial Arts Styles" in Dragon #315 says the Koryoans practice the generic "Foot and Fist" style outlined in the later Oriental Adventures. The two martial arts for 1st and 3rd editions have very similar techniques and descriptions; indeed, tae kwon do may be translated as "the way of kicking and striking". Thus this article assumes they are the same martial art across editions.
+
+Reputation
+This martial art was widely practiced in Koryo in the 14th century DR. Indeed, all men and boys in this battle-ready society were trained in some form of tae kwon do to some degree. It was considered an honorable martial art, that is, unlike dishonorable ninja techniques.
+
+Training
+There were ten do jang in Koryo that taught honorable martial arts such as tae kwon do. One of the most prestigious was the Do Jang of Won Kwang in Pyong Do. Here, students spent their afternoons being instructed and supervised in tae kwon do and weapons use by school masters. At this time, students underwent testing to achieve new grades.
+
+As was common for practitioners of tae kwon do, students of the do jang wore training uniforms, or do bak, consisting of white pants and a short white robe, tied with a belt whose color and tips denoted their grade, or gup. Beginners, known as neophytes, started at 10th gup and achieved lower gups with higher grades, denoted as follows:
+ 10th gup: white belt
+ 9th gup: white belt with yellow tips
+ 8th gup: yellow belt
+ 7th gup: yellow belt with green tips
+ 6th gup: green belt
+ 5th gup: green belt with blue tips
+ 4th gup: blue belt
+ 3rd gup: blue belt with red tips
+ 2nd gup: red belt
+ 1st gup: red belt with black tips
+These colors each bore special significance. White represented innocence. Yellow represented the earth, in which the seeds of tae kwon do were planted; this plant sprouted and took root here. Green represented the plant growing and unfurling; new skills were acquired like leaves were grown. Blue represented the sky and Heaven; as the plant matured with training, it reached to the sky and heavens. Red warned of danger to would-be foes, and indicated agility, balance, and knowledge of all combat techniques taught in the do jang. At this point, the student was expected to train only to perfect their physical and spiritual nature.
+
+After this point, a student achieved the rank of master and a black belt. Black represented an imperviousness to darkness and fear, and indicated maturity and proficiency. As they advanced, black belts could learn special techniques and maneuvers. However, as none could be truly perfect, there were different degrees of black belt, or dan, ascending through 1st dan, 2nd dan, and so on. Each do jang marked these degrees in different and even secret ways.
+
+Description
+As its name suggested, Foot and Fist focused on kicking and punching, though its primary means of attack was the foot. It was considered a "hard" form, with a number of hard techniques, but also a few "soft" techniques. It was an offensive style, inflicting more injury with less personal protection than other martial arts, and with few attacks.
+
+There were various styles and forms of tae kwon do.
+
+Techniques
+The martial art comprised a number of kicking, blocking, and punching techniques. It focused on skills in leaping and tumbling, cultivating strength, and attacking with power. There were a number of hard and soft special maneuvers a practitioner could learn, as follows.These techniques merge a number of often very similar special maneuvers from the 1st-edition Oriental Adventures and feats and a mastery from 3rd-edition Oriental Adventures.
+
+The Circle Kick (hard) was a potent and flashy spinning kick. The practitioner span in a full circle, increasing force and momentum, before kicking the body or head from the side. However, failure left them unbalanced. The Roundabout Kick was very similar, but was made as a quick follow-up after already dealing a serious impact.
+
+The Flying Kick (hard) was the most remarkable kick, allowing a practitioner to leap into combat. With a run-up of at least 5 feet (1.5 meters), the practitioner jumped high and through the air, delivering an overwhelming kick to the head (assuming a foe of comparable height). However, if they failed, they fell to the ground.
+
+The Backward Kicks (hard and soft) allowed a practitioner to attack a foe behind them, either simply kicking directly backwards or even throwing a foot over and behind their own head, without turning around. It was unimpressive but very hard to master.
+
+The Iron Fist (hard), also called Fists of Iron, was a technique for punching with additional force. In training, the practitioner performed a number of special exercises designed to toughen and strengthen their hands, until they were as hard as steel. Thereafter, they could make more damaging strikes, though they might be limited in how often they could do this.
+
+Great Throw (soft) was a throw that put a foe to the ground some distance away. The practitioner used leverage and an attacker's momentum to grab and hurl them some feet away, more if the attacker was charging, even in a chosen direction. The downed foe could be hurt by the impact. However, if the practitioner failed, the attacker could counter and knock them over in process.
+
+The Leap (soft) was a preternatural feat of jumping. The practitioner channeled their internal energy (such as ki) and with the power of their mind made their body very light, even as a light as a feather. They could then spring greater distances, whether up or forward, and much further if they had a running start. They could even perform flips in mid-air and turn themselves around. This ability could be used to leap over a foe and attack from a surprise direction.
+
+When one attained mastery of Foot and Fist, they possessed enormous expertise in jumping, tumbling, and ability to maintain their balance.
+
+Noted Practitioners
+King Wanang Sun was a 3rd-dan black belt master of tae kwon do. He exercised in it every morning to demonstrate his readiness to the people.
+
+In Kozakura, the wu jen Ito Toshiro and his apprentice Bando Typhoo knew both tae kwon do and karate.
+
+In Wa, the itinerant monk Nan-kuo practiced tae kwon do. The pilgrim monk Yaemon was also proficient in tae kwon do. Members of the Kata ninja clan were all highly trained in tae kwon do, including their leader Asahi.
+
+In Shou Lung, the talented martial artist kensei Loy Ho-dun mastered both tae kwon do and judo, and combined these into his personal style, Dragon Swarm.
+
+Appendix
+Notes
+
+External Links
+
+References
+
+---
+
+## Tanaroo Quinson
+
+Tanaroo Quinson was a gnome illusionist in the Bloodstone Lands around 1357 DR and 1359 DR.
+
+Activities
+Tanaroo was the assistant of Doctor Trundles in managing the Circus of Doctor Trundles, a collection of monsters.
+
+History
+In 1357 DR, Tanaroo went with Doctor Trundles and his circus to the Damaran city of Valls. However, a bulette freed itself and other monsters. Tanaroo hired some adventurers, including the soon-to-be-famous Gareth Dragonsbane, to capture the monsters before they killed someone.
+
+In 1359 DR, after capturing new monsters, Trundles went back for a new tour in Impiltur. Tanaroo acted as ringmaster with Trundles staying behind the scenes.
+
+Relationship
+Tanaroo always traveled with Doctor Trundles.
+
+Appendix
+References
+
+---
+
+## Tamal
+
+Tamal was the young prince of the dwarven Orothiar Clan in the Barony of Bloodstone as of the .
+
+Personality
+Tamal was fairly immature. He spoke constantly and had a wacky sense of humor.
+
+History
+In 1357 DR, Tamal and his tribe met Gareth Dragonsbane's party and he may have decided to join the party.
+
+In the, Tamal joined the Twilight Riders despite the concerns of his father. He turned out to be a skilled and valued member of the Riders.
+
+Appendix
+Appearances
+Adventures
+ The Mines of Bloodstone • The Bloodstone Wars
+
+References
+
+---
+
+## Tart
+
+Tarts were palm-sized pastry shells, a type of walkabout street food that could be found for sale in cities all across Faerûn. Often being sold from street carts, market stalls, or shuttered serving windows.
+
+Description
+The typical shape of a tart was curved at the edges so it could hold sweet or savory fillings such as jam, lemon curd, or minced meat. The type of meat used in tarts varied depending upon what was locally available, but such savory tarts were usually accompanied with a filling of gravy. These meats could include such things as boars, eels, pigeons, rabbits, or voles.
+
+Types of Tarts
+Berry tart A thick pastry dough tart filled with jam and topped with a variety of fresh berries, found in the Western Heartlands and Baldur's Gate.
+Hand tarts A tart the was the size of a humanoid's palm. They were quite common in the inns, taverns, and private homes of Neverwinter. Common fillings included almonds and gooseberries.
+
+Notable Users of Tarts
+
+General
+ It was quite common for inns of average quality in the Realms to serve tarts filled with either cherries or some type of berries as the desert in a four-course meal.
+ It was quite common for high-end establishments in the Realms to serve fruit tarts as the first of two desserts in a full-course meal, what was known as the "First Sweet." Such tarts were typically filled with either cherries, gooseberries, or other local varieties. They also were often stewed in brandy or cordial.
+ Smoked fish tarts were made using silverfins in the fishing village of Kalathtyr in Amn.
+
+Businesses
+
+ Aurora's Emporium and Aurora's Whole Realms Catalogue sold tarts baked in Waterdeep across all of Faerûn. These were shipped in wooden crates to prevent them from breaking during transport.
+ The Fast Sails, a tavern in Tulmene, served a wide variety of tarts to its patrons at a price of 2 copper pieces for a set of three. The types of tart fillings on offer were bacon, clam, eel, fish, and seabird.
+ Feldepost's Inn offered its patrons tarts with a mushroom filling.
+ Harnsar's Board offered its patrons tarts with an apple filling.
+ High Flagon, a gambling hall in Waterdeep, offered its patrons both sweet and savoury tarts, each for 2 and 3 silver pieces respectively. These sweet tarts tended to have a filling of one or more blackberries, blueberries, cranberries, gooseberries, or raspberries. While savoury tarts tended to be filled with small game, such as rabbit or quail.
+ Oak-Father's Boon, an inn in Mosstone, served its patrons upland tarts, forester's tarts, streamside tarts, and bounty tarts.
+
+Races & Sentient Creatures
+ Tarts made with various types of berries were a common dessert item among elves, typically sweetened with a mash of berry juices.
+ When it came to portable individual meals, gnomes preferred very sweet dessert tarts.
+
+Trivia
+Miniature tarts were a material component for the spell Tasha's hideous laughter.
+
+Appendix
+See Also
+ Baeranth
+ Garlic Guy Pie
+
+Appearances
+
+References
+
+---
+
+## Tarkos Ree
+
+Tarkos Ree was a crime lord in Damara in 1359 DR.
+
+Relationships
+Tarkos was the cousin of Dimian Ree, baron of Morov.
+
+Activities
+Tarkos was the head of the Tightpurse thieves guild, being probably the most powerful being in Heliogabalus. He killed all people who crossed him and guild's members who did not follow Tarkos' instructions. However, he truly protected the city's merchants from unaffiliated thieves. Tarkos also truly protected Dimian from the shadows.
+
+Personality
+Tarkos believed in logic, being purely pragmatic. He decided to support his cousin's claim to the throne because the guild would greatly expand its sphere of influence if he won it.
+
+References
+
+---
+
+## Tarntar
+
+The Tarntar were a group of wealthy wizards and merchants from Sembia that formed an illicit trading association that dabbled in slavery, smuggling, warehouse heists, and kidnapping of noble Sembian children and youths. It is unknown when this highly secretive cabal was formed, but it was known to be operating during the 1360s DR at least.
+
+History
+Some prominent members of the Tarntar and their entourage happened to be staying in Voonlar's Whistling Wizard inn when the Battle at the Bar broke out in the common room of the establishment. At least three members of the Tarntar lost their lives in the conflict.
+
+Members
+Individual members of the Tarntar who were identified as being involved in the Battle at the Bar were:
+ Alro "Five Flames" Randulkyn
+ Master-of-Moons Hastammer Orlim
+ Skulto Mreth
+ Ghaurann Rhee
+ Tharath Shemmer
+
+References
+
+---
+
+## Tak
+
+Tak was a female doppelganger in the Moonsea in the late 14 century DR.
+
+Activities
+Posing as Doctor Jubal, she managed the wandering Doctor Jubal's Carnival of Curiosities.
+
+History
+Circa 1486 DR, Tak—posing as a half-elf—was hired by Doctor Jubal with the promise of helping her against the Great Law of Humanity of Hillsfar. However, she found that Jubal did not truly care about it. Meanwhile, whispers in her dreams told Tak to replace all humans with crazed mirror duplicates. So Tak decided to act, subduing Jubal and taking his position.
+
+Afterward, she began kidnapping people and replacing them with mirror duplicates created by the carnival's mirror maze while the originals remained chained inside the maze and had their souls slowly consumed by the demon lord Graz'zt. The duplicates spread madness like an infection while the originals, without their souls, became mutated beings, totally loyal to Tak.
+
+However, at the village of Hillpicket, Tak was unveiled and killed by some adventurers.
+
+Personality
+Tak truly hated Hillsfar's politics. She wanted to show everyone that nonhumans were not the monsters that the First Lord had made them out to be.
+
+Appendix
+
+Appearances
+Organized Play & Licensed Adventures
+ Adventurers League: Rage of Demons: No Foolish Matter
+
+References
+
+---
+
+## T'aghur
+
+The T'aghurs were a nomadic tribe of humans living on the Plain of Horses in northwestern Kara-Tur or the northeastern Hordelands. They were among the tribes mistakenly called "Tuigan" by outsiders following the Horde Wars.
+
+Home
+They made their home around the city of Alamaqu in the central  Chigidi Mountains.
+
+Activities
+They were a highly mobile tribe who followed their sheep herds with the seasons and the search for green grazing land. Their city, Alamaqu, was little more than a vast campsite containing thousands of tents, the distinctive white ger favored by the T'aghurs. In the winter, the T'aghurs packed up their tents and drove their sheep herds to greener fields, leaving Alamaqu nearly empty.
+
+Society
+They were only a minor tribe of the Plain of Horses. Unique among the Plainsmen, the T'aghurs were led by a triumvirate. The tribe's founders had felt that three equal leaders would be better than a lone qaghan, and the system stood for centuries. However, T'aghur society grew sluggish without one farsighted leader to give them direction, while the triumvirate's poor administration inhibited their prosperity. One example was when the triumvirate decided to adopt war elephants as a cavalry; though they proved to be too slow and too willful for Plainsmen warfare, the triumvirate obstinately refused to abandon the idea.
+
+They spoke the Chuchian tongue.
+
+Culture
+The Taghurs' faith was a mixture of animism and ancestor worship and veneration of a sun god. To receive the sunrise and honor the sun, they always placed their tents with openings facing east. The first day of summer was their chief holy day and, once a year, all T'aghurs undertook a pilgrimage back to their ancestral home to pray for a day.
+
+History
+Around, T'aghur rebels at Alamaqu were planning to depose the tribe's ruling triumvirate, when the traveling lama Torgoja P'a arrived and, in only days, persuaded the rebel leaders to give up their plan.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tayanulchi
+
+The Tayanulchi, also spelled Tayanuchi, were a tribe of humans living in the Ama Basin in the Northern Wastes of Kara-Tur. They split from the Issacortae and disappeared into the Land of the Snow Demons centuries before the 14th century DR.Kara-Tur: The Eastern Realms, pages 93 and 94, discuss the Tayanulchi (with an 'l') as a lost tribe by 1357 DR, but The Horde, page 25, refers to the Tayanuchi (with no 'l'), implying they are a tribe currently dwelling in the Ama Basin around 1359 DR. Although these might possibly refer to two different yet similarly named tribes in the Ama Basin, this article assumes they are the same tribe for simplicity. As The Horde only refers to a Tayanuchi homeland and locations of their campsites, and says nothing about the people, it may be considered to be an out-of-date perspective or referring only to abandoned Tayanulchi lands. Alternatively, the Tayanulchi/Tayanuchi may have returned or become known again between 1357 and 1359 DR.
+
+Society
+Having broken off from the Issacortae, the Tayanulchi likely spoke the Issacortae language.
+
+Appendix
+
+Notes
+
+References
+
+Further Reading
+
+Connections
+
+---
+
+## Tantrus Malderos
+
+Tantrus Malderos was a transmuter in Skullport in 1379 DR.
+
+Activities
+Tantrus and his sister Seviria Malderos lived in a tower inside the lair of the slaver Lanador. They acted as gatekeepers, interrogating all the people that entered the lair, supported by some minotaur guards.
+
+History
+In 1379 DR, Tantrus and Seviria were confronted by an adventuring party supported by the Xanathar who'd attacked the lair.Derek Myers. "Eyes on The Ball." Dungeon #206. Renton, WA: Wizards of the Coast, September 2012.
+
+Appendix
+Appearances
+Adventures
+Dungeon #206, "Eyes on the Ball"
+References
+
+---
+
+## Tamsil Dryndilstann
+
+Tamsil Dryndilstann was the daughter of Durnan and Mhaere Dryndilstann, the innkeepers of the Yawning Portal in Waterdeep in the mid-to-late 14 century DR.
+
+Personality
+Tamsil, thanks to her training, was always alert and tried to understand people and the situation around her. She worked hard in order to manage the inn herself when the time came. Tamsil hardly ever smiled but was often amused nonetheless. She was kindly, alert, and lively.
+
+Description
+She was graceful and comely, being good looking with strong features, albeit not a striking beauty. She resembled her mother in face and figure, and was as tall as her father. In her teens, she went through a phase of having "gewgaws to her eyebrows".
+
+Activities
+Tamsil helped in managing the Yawning Portal inn with her parents, who were grooming her in the business for her to take over one day. She was hard-working and brisk about her duties. While she picked up much gossip whilst working at the inn, she was not one to share and spread it.
+
+As a sideline business with her mother, she sewed basic dresses, working smocks, and towels.
+
+If trouble broke out at the inn, Durnan had a horn he would blow to summon the Red Sashes, his personal vigilante organization. If he was unavailable or incapacitated, then Tamsil and others would find it and use it.
+
+Abilities
+Tamsil was trained in fighting by her father so that she could take care of herself if caught up in brawls in the inn or out in the streets. She was proficient with a crossbow, dagger, and a short sword and in improvising weapons and shields from bar stools and the like and she could fight in a barroom-brawling style. She handled such fights fairly well, thanks to her awareness.
+
+Relationships
+She was the daughter of two former adventurers, Durnan and Mhaere Dryndilstann. Since Durnan had no surname, Tamsil took Mhaere's.The Ruins of Undermountain says Tamsil is 16 years old, but this book is undated, making her birth date ambiguous. Other sources place Ruins in 1358 DR, implying Mhaere was born around 1328 DR. Dragon's Deep reprints this age, but it is more likely to be set around 1372 DR. Earlier, Elminster in Hell mentions she is "more than old enough", but is set in 1355 DR. Meanwhile, Tamsil may be the unnamed 14-year-old waitress with a sword mentioned in the Waterdeep adventure, p. 33, though the Waterdeep replaces this with a generic "serving wench". Later, Dragon #227 says she is 17 in 1368 DR and Hordes of the Underdark describes her as a young woman in 1372 DR. Perhaps Tamsil got at the same potions of longevity as her parents? Tamsil took closely after Mhaere. She had two younger sisters. Tamsil was aware of her father's status as a Masked Lord of Waterdeep, but did not discuss it with him.
+
+Circa 1368 DR, the new bartender Jhaax Dolbruin felt genuine love for Tamsil, even though he was twice her age. However, he kept his feelings quiet from her.
+
+Tamsil and her sisters treated Durnan's friend Mirt as a beloved but rogueish uncle.
+
+History
+Tamsil was working in the inn one morning fore-dawn in early Flamerule of the, when the murderer Amril Zoar used a gate to enter the Yawning Portal, doubtless seeking to slay Durnan. He rushed at young Tamsil but, quick-reacting, she threw the ewer of water she'd been carrying at him, before Mhaere snatched up the double-crossbow kept ready behind the bar and gave him both bolts. Amril retreated through his gate, dropping a silver Harper pin in the process. Durnan arrived moments later, vowing to find and end the man who'd threatened his family.
+
+In Kythorn of the, Tamsil heard a commotion in an upper-floor room at the inn and was horrified to find an adventurer, known as Drogan Droganson's pupil, had slain a drow thief. Tamsil warned this was a prelude to an attack by drow assassins; invited the adventurer to get replacement weapons, armor, and equipment from Durnan's armory; and discreetly warned her father. Shortly after, a band of drow, duergar, and a beholder emerged from the well and attacked the assembled adventurers, before being repelled.
+
+Possessions
+She typically wore a belt knife for work and eschewed jewellery.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Tarlgarth Vathar
+
+Tarlgarth Vathar was a human stablemaster at the Yawning Portal inn in Waterdeep in the late 14 century DR.
+
+Activities
+Circa 1375 DR, Tarlgarth took care of the stables at the Yawning Portal inn with his two hostlers Burgaun Malsim and Rory Starkbuckle. If trouble broke out at the inn and Durnan was unavailable or incapacitated, he would get Durnan's horn and blow it to summon the Red Sashes.
+
+Personality
+He was kind, highly observant, and wise to the ways of the world.
+
+Possessions
+He kept two +1 daggers in sheaths inside his sleeves, and had other weapons stashed around the stables.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tamelia
+
+was a wizard in the employ of the Zhentarim that regularly visited Voonlar, about every two or three tendays. She was most often seen in the company of deputy Marsara Storntil and this led to secret speculations by the town gossips about Marsara's love life. The deputy was apparently defensive about Tamelia because one farm worker, who imagined himself a potential suitor and had found courage by consuming alcoholic beverages, asked her bluntly about the rumors. Marsara proceeded to beat him so severely that she and Tamelia were never bothered by such rumors again.
+
+References
+
+---
+
+## Tael
+
+The tael was the second-highest unit of currency used in Kara-Tur.
+
+The tael took the form of a silver coin with a hole through the center, similar to the fen. One tael was worth 100 fen, 20 yuan, or 1 ch'ao, while 10 tael equaled 1 ch'ien. If transported to Faerûn circa 1357 DR, 1 tael would be treated as worth 2 to 12 silver pieces, though its actual value would be 10 silver pieces.
+
+Thanks to their holes, collections of tael were threaded on strings, which was convenient for counting and carrying them. These cash strings could be worn on the wrist and tucked inside the sleeve.
+
+Appendix
+References
+
+---
+
+## Taruele Elfrost
+
+Taruele Elfrost was an adventuress in Myth Drannor in the Year of the Tankard, 1370 DR.
+
+History
+Taruele was born in Yhaunn to a wealthy human merchant of the Taprylorn family. She lived in luxury until her father died and her father's family expelled Taruele and even tried to kill her.
+
+She escaped and resettled in Highmoon in Deepingdale. There she became the apprentice of the sorceress Ilythyrra of Sevenskulls. Six years later, Ilythyrra was killed by some evil adventurers. When she discovered the crime, Taruele hunted and killed all of Ilythyrra's killers.
+
+Back in Deepingdale, she accidentally met her family, the Taprylorns, who'd arrived with a retinue in the dale. Soon after a battle broke out and Taruele killed many of her kin and their servants. At last, exhausted, she was cornered by her enemies when the Company of the Catlash arrived and saved her. She joined them.
+
+In 1370 DR, the Company decided to go to Myth Drannor in order to acquire some magic items to empower them.
+
+Activities
+Taruele was a member of the Company of the Catlash.
+
+Personality
+Taruele was very happy to finally have a rightful place for her and friends and companions. She was thrilled to see the fabled Myth Drannor and gain some of its magic.
+
+Appendix
+References
+
+---
+
+## Tantan
+
+A tantan, known as a tambourine on other worlds, was a type of percussion instrument.The tantan appears to bear no relation to the tan-tan, a large drum from Brazil.
+
+Description
+Tantans consisted of jangling hoops that were used to emphasize rhythms in ensembles and to enhance campfire dances.
+
+Availability
+Tantans crafted by the masters of the plains of the Hordelands and traded through Semphar were available for purchase through Aurora's Whole Realms Catalogue.Aurora's Whole Realms Catalogue states that the tantans are made by "the masters of the plains" and come from "the long trade routes from Semphar" (not necessarily Semphar itself). It is unclear who these masters are and what plains are being referred to, but the most notable plains beyond Semphar are those of the Hordelands.
+
+Notable Users
+Individuals
+ Adagio Jones, a member of the bardic group Adagio Jones and The Goodwinds, had a tantan that he played to keep time with soft songs.
+ Swen Sigirdson, a traveling entertainer in the Vast, sometimes played a tantan as part of a small group of musicians.
+Regions & Settlements
+ They were popular instrument among the humans and halflings who lived south of the Dalelands.
+ Tantans were quite popular among the people of the Hordelands.
+
+Appendix
+See Also
+ Riqq, a similar form of instrument that was unique to the land of Zakhara.
+Notes
+
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Taraunramorlamurla
+
+Taraunramorlamurla was a song dragon living in Waterdeep through the 14th century DR.
+
+Activities
+Taraunramorlamurla acted as ambassador between the Lords of Waterdeep and the good dragons living hidden in Waterdeep. She wandered the city at night acting as messenger, courier, and moneychanger but was more interested in gossip. She was in search of a consort, often pondering taking a trip to the Moonshae Isles to check possible candidates.
+
+History
+In the Year of the Gulagoar, 1316 DR, Taraunramorlamurla decided to settle in Waterdeep using a human disguise. She convinced Maaril to permit her to live in the city. Over the years, Taraunramorlamurla lived many lives in the city, frequently changing her human identity, visiting all districts of Waterdeep.
+
+In the Year of the Weeping Moon, 1339 DR, Taraunramorlamurla finally acquired a stable home in the North Ward of Waterdeep, where she used the alias of Taunamorla Esmurla, a scribe from Amn. She worked as the Keeper of Secrets, safekeeping valuable information for her customers, including other dragons hidden in the city.
+
+However, soon after, a battle between some of the dragons and the City Watch erupted. The fighting escalated to involve the Watchful Order of Magists and Protectors and even the Lords of Waterdeep. However, the Lords knew that Taraunramorlamurla was a friend and covertly protected her. She simply changed her alias and relocated her lair.
+
+By the early 1370s DR, she had assumed the identity of the deceased Oelavarra Draethfurl after serving many years as her maid.
+
+During the Rage of Dragons of 1373 DR, Taraunramorlamurla was traveling to Silverymoon when the Rage hit. She was on the verge of destroying some Luruar settlements when Alustriel Silverhand saved her and took her back to Waterdeep. Later, together with Alustriel and Laeral Silverhand, Taraunramorlamurla tried to recall all of her fellow "hidden" dragons back to the city but on three occasions they arrived too late.
+
+Personality
+Taraunramorlamurla was truly fascinated by humanity and loved living among them. She was calm, patient, and without any arrogance. Usually, Taraunramorlamurla avoided conflicts and hid or called her dragon friends to fight for her. In time, she had become an expert on understanding human nature and usually manipulated the people around her to live without troubles. She was totally unambitious.
+
+Relationships
+Taraunramorlamurla was respected and obeyed by all hidden dragons of Waterdeep. Klauth considered her the only true barrier to his possible conquest of Waterdeep and planned to have her assassinated one day. She had an agreement with Maaril but did not fully trust him.
+
+In 1339 DR, Mirt the Moneylender and Durnan the Wanderer learned of her presence in Waterdeep but were frightened of her connections. They treated her with a healthy respect.
+
+Appendix
+Appearances
+Novels
+Realms of the Dragons: "The Keeper of Secrets"
+
+Appendix
+
+References
+
+---
+
+## Tasheni
+
+Tasheni was a vampire crime lord in Westgate around 1374 DR.
+
+History
+In life, Tasheni was the lover of the paladin Mantides and decided to investigate the Night Masks. However, she was captured by the Night Masks leader Orbakh, who turned her into one of his vampire spawn. Somehow, Tasheni regained her free will and started to plan a coup against Orbakh. Thanks to the help of the sorceress Zymena, she created the Ebon Claws crime organization, mostly composed by wererats and publicly led by Altama.
+
+The Ebon Claws started a war with the Night Masks and Tasheni waited for the right time to act.
+
+Around 1374 DR, Altama helped an adventurer in their fight with the Night Masks. At last, thanks to the adventurer and to Tasheni's alliance with the Fire Knives, Orbakh seemed defeated. The adventurer managed to unveil Tasheni and defeated her also.
+
+Appendix
+References
+
+External links
+
+---
+
+## Tasina Alcrest
+
+Tasina Alcrest was a priestess of Umberlee on the Sword Coast.
+
+History
+In the, soon after the end of the Wailing Death quarantine and the conclusion of the Neverwinter-Luskan war, Tasina made arrangements to travel aboard Midnight Rose, departing from the gang-ridden Docks District of Neverwinter. During her last days in the Jewel of the North, Tasina stayed at the Golden Apple in the docks. When it was time to depart, Captain Allendry sent members of his crew: Nisar Zayid and Eater-of-Garm. However, trouble found her first. A group of thugs who were claiming to be Allendry's men were escorted to the priestess' chambers by Gilda, Apple's older maid. The criminals were mercenaries hired by Tasina to guard her on the trip to Neverwinter and beyond. However, she had no coin, and the men were ready for violence. Eater-of-Garm and Nisar arrived just in time to save the priestess and escort her to the Rose and her true goal.
+
+She boarded the Midnight Rose as a passenger in order to stay close to a wizard who possessed a powerful statue artifact from the hot sands of Anauroch desired by Umberlee. When the ship was on the high seas, in order to acquire the strange artifact, Tasina summoned an army of sahuagin that slaughtered most of the crew and took the ship.
+
+She then ventured into the mysterious sea-region of Fiddler's Green. There, Tasina planned to go to a submerged temple to her goddess and summon her in all her power. However, an adventurer, also a passenger of the Midnight Rose, went in search of Tasina, having promised vengeance to the ghost of Allendry, the ship's captain. At last, the adventurer defeated Tasina.
+
+Appendix
+
+Appearances
+
+References
+
+External Links
+
+---
+
+## Talessyr Tranth
+
+Talessyr Tranth was a wizard and beautician in Baldur's Gate in the mid-to-late 14 century DR.
+
+Activities
+Talessyr worked from a stall in the Wide, an open market of Baldur's Gate, and was a fixture there around 1366 DR. He specialized in making temporary magical alterations, such as disguises, bodily adornments, changes to costumes, and so on, for clients looking to show off at parties, surprise friends and social rivals, or conceal their true appearance. These disguises could be quite intricate and cost 50–200 gp. However, Talessyr did not care if thieves used these disguises for crime instead and was quick to disappear if the authorities became too annoyed.
+
+Personality
+Talessyr enjoyed creating an air of mystery, such as by getting clients disguised to look like drow or mind flayers to walk in and out of a private tent at the rear of his stall.
+
+Description
+Talessyr appeared as a tall man with a mustache and adopted a courtly manner. This was in fact a semi-permanent disguise.
+
+Rumors
+Only long-term residents of Baldur's Gate knew Talessyr was actually female, after her disguise failed during a number of intense magical duels.
+
+One rumor said he dealt with true mind flayers at night and even served a beholder master.
+
+Appendix
+References
+
+---
+
+## Tathlosar Brimmerbold
+
+Tathlosar Brimmerbold was a fighter in Berdusk.
+
+Activities
+Tathlosar lead the Ready House of the Right Strong Hand temple.
+
+History
+Tathlosar and his troops destroyed much larger armies from Darkhold.
+
+Personality
+Tathlosar believed that civilization could survive only if people fought for it. He had contingency plans for any situation. After a brief look to the battlefield he could discern the enemy's plans and possible maneuvers.
+
+Rumors
+Rumors said that Tathlosar was a great womanizer as a younger man.
+
+Appendix
+References
+
+---
+
+## Tantarn's Inn
+
+Tantarn's Inn was an inn in the town of Llorkh in the 1360s DR, owned by the experienced innkeeper Tantarn.
+
+History
+It opened some time after the Zhentarim takeover of Llorkh in 1357 DR, less than a month after the only inn in town burned down after its owner died. Townsfolk were pressed into the construction of two new but ugly inns. Tantarn's Inn was in business by 1366 DR and through 1370 DR.
+
+Description
+It was a pleasant establishment, but three stories high and resembling a barn.
+
+Appendix
+References
+
+---
+
+## Tantarn
+
+Tantarn was an innkeeper of the mid–14th century DR. He managed Tantarn's Inn in Llorkh.
+
+History
+Tantarn once managed an inn in the city of Iriaebor, and became very experienced at the business. However, with Zhent-caused troubles there, he suffered financially and was forced to move.
+
+He came to the town of Llorkh, though it too was in the grip of the Zhentarim, in order to establish a new inn. It opened some time after the Zhentarim takeover of Llorkh in 1357 DR, less than a month after the only inn in town burned down after its owner died. Townsfolk were pressed into the construction of two new but ugly inns. Tantarn's Inn, as it was called, was in business by 1370 DR. It was a pleasant establishment.
+
+Appendix
+References
+
+---
+
+## Tammess Eldrake
+
+Tammess Eldrake was a member of the Council of Tarmalune as of 1479 DR.
+
+Activities
+As of 1479 DR, Tammess was dedicated to helping the poor citizens of Tarmalune, as well the honest workers of the city. However, she was one of the major criticizers of the Firequench Order.
+
+Relationships
+Tammess was the onetime lover of Rathgar Malynd, who tried to kill her at least three times after they parted.
+
+References
+
+---
+
+## Tarlask Mhorauk
+
+Tarlask Mhorauk was a member of the Council of Tarmalune as of 1479 DR.
+
+Background
+In 1479 DR, Councilor Tarlask mysteriously vanished, after months of having been acting strangely. Other councilors claimed to have seen tentacles emerge from his mouth to strangle a thief who tried to rob him before his disappearance, but such claims were dismissed.
+
+References
+
+---
+
+## Tarmalune/Arendermore
+
+Arendermore was the wealthiest ward in Tarmalune, named for legendary gnome builder Arender. It was located to the southwest of the city.
+
+Geography
+The ward consisted of the manors of the wealthiest people of Tarmalune, most of them designed by Arender. The inhabitants of Arendermore hired professional guards to protect their property.
+
+Inhabitants
+The inhabitants of Arendermore were mostly the oldest families of Tarmalune.
+
+Appendix
+References
+
+---
+
+## Tarmalune/Copperstreets
+
+Copperstreets was one of the wards of Tarmalune. It was located to the northeast of the city.
+
+Geography
+The ward consisted of buildings made  out of different materials, giving them a patched appearance.
+
+Inhabitants
+Copperstreets was inhabited by laborers, merchants, and other middle-class citizens. The inhabitants of this ward considered ostentatious displays of wealth as an insult.
+
+Appendix
+References
+
+---
+
+## Tarmalune/Dawnside
+
+Dawnside was one of the wards of Tarmalune. It was located to the northwest of the city.
+
+Geography
+This ward was crowded with ostentatiously decorated mansions and ornate coaches, and any building not a mansion was likely to be a club of some sort. Buildings in Dawnside were constantly demolished and rebuilt into more fashionable shapes.
+
+Inhabitants
+Dawnside was home to newly rich families and individuals, and was the most popular ward of Tarmalune among adventurers.
+
+Appendix
+References
+
+---
+
+## Tarmalune/Maerhavel
+
+Maerhavel was one of the wards of Tarmalune. It was located to the southeast of the city.
+
+Geography
+This ward had simple buildings, compared with the rest of the city.
+
+Inhabitants
+Maerhavel was home mostly to merchants and traders, and to those who had accumulated enough wealth to live a comfortably but modest life.
+
+Appendix
+References
+
+---
+
+## Tarmalune/Fishstink
+
+The Fishstink was the poorest and most dangerous ward in Tarmalune, named for how it smelled. It was located to the east of the city.
+
+Inhabitants
+The inhabitants of the Fishstink were the poor, outcasts, criminals, fugitives and the infirm or maimed, as well as escaped slaves of other cities in Laerakond, who arrived in the city without enough money to live in the other wards. Members of the monstrous races, such as orcs and minotaurs, also lived in the Fishstink.
+
+The authorities of Tarmalune allowed the inhabitants of the Fishstink to hunt seagulls for food, as a way to reduce the criminal activity in this ward.
+
+Appendix
+References
+
+---
+
+## Tales from Candlekeep: Tomb of Annihilation
+
+Tales from Candlekeep: Tomb of Annihilation is a turn-based RPG by BKOM Studios which is based off the Dungeons & Dragons Adventure System series of board games. It was released on the 11th of October 2017 on the Steam platform. The game was withdrawn from Steam on the 20th of May 2022 and is no longer available for purchase.
+
+Plot
+Artus Cimber, Dragonbait, Asharra and Birdsong attempt to end the death curse by travelling through the lands of Chult and defeating Acererak and his ally Ras Nsi.
+
+Index
+Characters
+Artus Cimber • Asharra • Birdsong • Dragonbait • Qawasha
+Other Eku • Great Ape • Jessamine • Kothar • Kupalué • Liara Portyr • Nanny Pu'pu • Nrakka • Ras Nsi • Valindra Shadowmantle
+
+Bag of Nails • Belchorzh • Ormalagos
+
+Creatures
+aarakocra • assassin vine • batiri • chwinga • couatl • dinosaur (velociraptor) • elf • girallon (zombie) • human • juggernaut • lich • pterafolk • saurial • skeleton • tabaxi • vegepygmy • yuan-ti malison • zombie
+
+beholder • cat • dragon • dwarf (wild) • owlbear • turtle • Wind Dukes of Aaqa
+
+Locations
+Buildings & Sites Tomb of the Nine Gods
+Settlements Fort Beluarian • Kir Sabal • Mbala • Omu • Port Castigliar • Port Nyanzaru
+Wilderness The Dawn Warrior • Heart of Ubtao
+Regions Chult
+
+Bay of Chult • Great Sea • Hrakhamar • Jahaka Bay • Kobold Mountains • Lake Luo • Mistcliff Mountains • Mistcliffs • Mother-Of-Mists • River Tath • Sanrach Mountains • Shining Sea • Shilku Bay • Sky Lizard Mountains • Snapping Turtle Bay • Snout of Omgar • The Cauldron • The Ssan • Valley of Dread • Valley of Embers • Wild Coast
+
+Magic
+Magic items Bag of Nails (quiver) • Belchorzh's Teeth • belt of hill giant strength • black raptor staff • Bookmark • bracers of defense • bracers of retribution • ceremonial garments of the Black Orchid • Dance Blade of the Seven Winds • Daveak's cloak • doss lute • dragon bow • efreeti chain • elemental vestments • eyes of minute seeing • Fang (sword) • flamboyant vest of absolute pitch • flame tongue • glorious diamond necklace of the airborne • glowing blueleaf staff • greater pouch of remedies • hauberk of divinity • holy avenger • hunter's bracelet • ioun stone of mastery • iridescent armband of Tyr • longsword of the righteous • luckstone • luck blade • masterwork lute of rest • Nature's Blessing • Nature's Embrace • Needle's Rest • Oathbow • owlbear claws • potion of healing • potion of heroism • prestigious chromatic vestments • quiver of Ehlonna • radiant vest of heroism • ring of protection • Ring of Winter • runic blade of Aaqa • sapphire pendant of mage armor • sharp talons of the wild • singing sword • Singing Wind • staff of the magi • staff of the owlbear • sword of sharpness • Ubtao's Thorn • Wall of Faith • wand of fireballs • warstaff of the Wind Dukes
+Spells disintegrate • fireball • goodberry • magic missile
+Other death curse
+
+Religions Myrkul • Shagambi • Tyr • Ubtao • Unkh
+
+Gear
+Armor bracers • chainmail • hide armor • leather armor • mithral shirt • robe • scale armor • shield • studded leather • tunic
+
+Weapons dagger • long sword • short sword • staff
+
+Other
+Vegetation constrictor weed • blueleaf • weirwood • zabou mushroom • zalantar
+
+orchid
+
+Materials adamantine • bronze • citrine • copper • gold • iron • leather • mithral • platinum • steel • quartz • silver • suth
+
+Gems amethyst • citrine • diamond • sapphire
+
+Diseases shivering sickness
+
+Misc bear trap • healer's kit • herbalism kit • ink • lute • quiver
+
+Appendix
+
+Further Reading
+
+External Links
+ Tales from Candlekeep: Tomb of Annihilation on Steam
+References
+
+Connections
+
+---
+
+## Tanglemoss
+
+Tanglemoss was a type of moss that grew in Faerûn.
+
+Tanglemoss was planted on the very streets of the garden town of Loudwater in the Delimbiyr Vale on the Savage Frontier in the mid–14th century DR, though it was worn away to bare earth in high-traffic areas.
+
+Appendix
+References
+
+---
+
+## Tathtar
+
+Tathtar was a small kingdom in the vicinity of the Deepwash, occupying territory in the Deepwing Mountains, Cloven Mountains, and the High Peaks. It was sometimes divided into two parts; Upper Tathtar, north of the Deepwash, and Lower Tathtar, to its south.
+
+History
+It was founded in 227 DR apparently as a human realm, though some accounts mentioned it as being mixed human and dwarven.
+
+For the decade following 230 DR, Tathtar attempted to expand into eastern Tethyr. The Tathtar Wars, as they were called, were a cause of irritation for Emperor Shoon IV. The wars finally came to an end as the result of peace treaties.
+
+Upper Tathtar was destroyed in 293 DR when it was overrun by an orc horde commanded by chieftain Thaurgarl "Greatmaw". Lower Tathtar survived the conflict.
+
+Lower Tathtar was to survive for almost 500 years more. In 731 DR, its armies once again sought to control regions east of Tethyr, specifically the wilderness that once was Elestam. They were repelled by King Strohm II, who then officially re-instituted Elestam as part of Tethyr. His successor, Strohm III, continued battling Tathtar throughout his reign.
+
+Lower Tathtar was finally destroyed in 796 DR by a plague caused by the vampire Shyressa, who was herself a citizen of the kingdom. By as late as 1370 DR, monsters and brigands dwelt in the eastern ruins of the kingdom.
+
+Geography
+The capital of Tathtar was disputed, sometimes thought to be Tulhaspyr, at other times Dajaan, and still others thought the southern capital to be Saalirk.
+
+Much of the remnants of Lower Tathtar would become inhabited by Sala-min Lion Warriors, centered on the ruins of Saalirk, which also held numerous creatures, both magical and undead placed there by Shyressa, who made it her home. Wyverns from the Cloven Mountains were also noted to inhabit what remained of the crumbling ruins of the region.
+
+Upper Tathtar lay mostly in the Deepwing Mountains, most noted for its flying predators such as griffons, hippogriffs, manticores, red dragons, and wyverns
+
+Appendix
+References
+
+---
+
+## Tartyron
+
+Tartyron, also titled the Lord of Chaos, was the name adopted by a ruler and member of the Circle of Order in the ancient past of the Utter East.
+
+History
+He was once a member of the Circle of Order, a group of lords who arose to govern the early nations of the Utter East, those east of the Great Sea. He was a peer of the Lord of Lands, who ruled the Realm of Lands; the Lady of Tides, who ruled the Realm of Tides; and the Lord of Flame, who ruled the Realm of Fire; they believed order brought progress. However, he came to believe that chaos brought challenge, change, and strength and thus engaged in chaotic plots. So the others of the Circle cast him out and bound him in a subterranean kingdom beneath the Realm of Fire, with the Lord of Flame as his warden.
+
+In his imprisonment, he adopted the name "Tartyron" and was called the Lord of Chaos. Loathing this place, Tartyron constantly struggled against the wards, his rage bolstering his strength and spent on those who happened into his deep realm. He waited, knowing those of the Realms would grow comfortable, lazy, and weak, and then he would escape to spread chaos once again.
+
+Finally, during the time of the Bloodforge Wars (648–657 DR), the wards failed and Tartyron broke free of his subterranean prison and into the world above, free to spread chaos through the Realms of Lands, Tides, and Fire, in an event known as Tartyron Unbound.In the Blood & Magic game, two alternate campaigns are provided, one for Tartyron and one for the Circle of Order. These appear to be mutually exclusive, but as the characters appear to be very long-lived, if not immortal, and the end of the Circle of Order campaign implies Tartyron might break free again some day, it is possible they occur at different times. An official history is unknown. Furthermore, the events of Blood & Magic are only dated to "before the Time of Troubles" (1358 DR) in game. It is assumed these are a part of the Bloodforge Wars described in Faces of Deception and dated in The Grand History of the Realms.
+
+Lord of Chaos
+Tartyron escaped into the underground Realm of Fire, using bloodforges to assault the bloodforged forces of the Lord of Flame. However, he met little opposition and won handily.
+
+Disgusted, Tartyron vowed to strike out at all his rivals and stir them from their complacency. He invaded the Realm of Lands next with his bloodforged armies, and evicted the Lord of Lands from the shelter of the Mines of Mystery. His victory spread his desired chaos around the Utter East.
+
+However, Tartyron's ambitions were yet contained by geography; the Great Sea was the only avenue to the rest of the world, but this was controlled by the Lady of Tides. Therefore, he launched an invasion of the Realm of Tides via bloodforges. He also liberated minions of chaos, humans who'd been kept prisoner by the forces of order, by breaking the banishing stones that topped their prisoner pits within the undersea tombs among the isles.
+
+With his victory, Tartyron reclaimed his place as a lord of the Realms. Although he caused chaos, this instigated change and bred strength in subsequent generations.
+
+Circle of Order
+After he escaped, Tartyron went swiftly to the Realm of Tides, intending to seize power on the sea and spread his influence. The Circle of Order assembled to investigate his break out and made pursuit, confronting him on the isles in a bloodforge battle and driving him off.
+
+Tartyron retreated back to shore and the Realm of Lands, taking refuge in the stronghold of High Cradle Keep. However, the Lord of Lands knew of a secret route through the Mines of Mystery to the stronghold. After a bloodforge battle, High Cradle Keep fell, but Tartyron disappeared in the aftermath.
+
+Following a hidden tunnel of his own, Tartyron absconded to the subterranean Realm of Fire. The Circle of Order tracked Tartyron underground, and the Lord of Flame recognized the tunnel, and they gave pursuit. Here, the forces of order made their last stand against those of chaos, and were victorious.
+
+Captive again, Tartyron was put back in his prison, with fresh wards installed to seal it. However, the Circle of Order understood that, because of balance in everything, peace could not last forever and his brand of chaos would return in a future era.
+
+Description
+Tartyron habitually wore a suit of black full plate armor, with a ragged black cloak and a helm with a fanged skull-like face and horns.
+
+Personality
+Tartyron believed in the power of chaos, arguing that it created challenges and trials that strengthened people and brought worthwhile change.
+
+Prison
+Tartyron's prison realm lay underground, somewhere in the Utter East and close to the Realm of Flame. A portcullis barred entry to the tunnel out. It was accessed from the surface via tunnel sealed with a slab of stone amidst ancient runes, not far from a stone henge. It was once warded by inscribed sigils; if Tartyron was reinterred, these would be replaced with runes, but if not, it would be left in rubble.
+
+Appendix
+Background
+Tartyron is of course named for Tartarus, the underworld prison and place of torment of Greek mythology.
+
+Notes
+
+References
+
+---
+
+## Tartyron Unbound
+
+Tartyron Unbound was the story of a conflict fought in the Realm of Fire, Realm of Lands, and Realm of Tides in the Utter East during the time of the Bloodforge Wars (648–657 DR), waged between Tartyron, the Lord of Chaos, and the members of the Circle of Order that ruled those realms: the Lord of Flame, the Lord of Lands, and Lady of Tides. Notably, it was fought using basal golems mass-produced by bloodforges.The name of this conflict is taken from the name of the campaign in the Blood & Magic game; it was not used in in-universe text.The events of Blood & Magic are only dated to "before the Time of Troubles" (1358 DR) in game. It is assumed these are a part of the Bloodforge Wars described in Faces of Deception and dated in The Grand History of the Realms.
+
+Location
+The battles were fought in the Realm of Fire, which lay underground; the Realm of Lands, including in the Mines of Mystery and High Cradle Keep; and in the Realm of Tides in the Great Sea.
+
+History
+Background
+
+In ancient times, the lords of the Circle of Order arose to govern the early nations of the Utter East. They believed in the progress of order and were righteous defenders of order within their realms. However, one among them engaged in chaotic plots in the belief that chaos brought challenge, change, and strength, and so was exiled and cast down, bound in a subterranean kingdom, with the Lord of Flame as his warden. In his imprisonment, he adopted the name Tartyron and was called the Lord of Chaos. He waited, knowing those of the Realms would grow comfortable, lazy, and weak, and then he would escape to spread chaos once again.
+
+Finally, during the time of the Bloodforge Wars (648–657 DR), the wards failed and Tartyron broke free of his subterranean prison and into the world above, free to spread chaos through the Realms of Lands, Tides, and Fire.In the Blood & Magic game, two alternate campaigns are provided, one for the Circle of Order and one for Tartyron. These appear to be mutually exclusive, but as the characters appear to be very long-lived, if not immortal, and the end of the Circle of Order campaign implies Tartyron might break free again someday, it is possible they occur at different times. An official history is unknown.
+
+Campaigns
+Circle of Order
+
+The Circle of Order assembled to investigate the break out and tracked Tartyron to the sea and the Realm of Tides, where he no doubt intended to seize power on the sea and spread his influence. They made pursuit, confronting him on the isles in a bloodforge battle and driving him off.
+
+Tartyron retreated back to shore and the Realm of Lands, taking refuge in the stronghold of High Cradle Keep. However, the Lord of Lands knew of a secret route through the Mines of Mystery to the stronghold. After a bloodforge battle, High Cradle Keep fell, but Tartyron disappeared in the aftermath.
+
+Searching everywhere, the Circle of Order tracked Tartyron underground, and the Lord of Flame recognized the tunnel and gate to his own Realm of Fire. Here, the forces of order made their last stand against those of chaos, and were victorious.
+
+The Circle of Order returned the Lord of Chaos to his prison and installed fresh wards to seal it. However, the Circle of Order understood that, because of balance in everything, peace could not last forever and his brand of chaos would return in a future era.
+
+Lord of Chaos
+Tartyron escaped into the underground Realm of Fire, assaulting the forces of the Lord of Flame. However, he met little opposition and won handily.
+
+Disgusted, Tartyron vowed to strike out at all his rivals and stir them from their complacency. He invaded the Realm of Lands next, and evicted the Lord of Lands from the shelter of the Mines of Mystery. His victory spread his desired chaos around the Utter East.
+
+However, Tartyron's ambitions were yet contained by geography; the Great Sea was the only avenue to the rest of the world, but this was controlled by the Lady of Tides. Therefore, he launched an invasion of the Realm of Tides. He also liberated minions of chaos, humans who'd been kept prisoner by the forces of order, by breaking the banishing stones that topped their prisoner pits within the undersea tombs among the isles.
+
+With his victory, Tartyron reclaimed his place as a lord of the Realms. Although he caused chaos, this instigated change and bred strength in subsequent generations.
+
+Combatants
+The armies on both sides of the conflict were almost entirely basal golems, mass-produced using bloodforges and transformed into specific units as required. In general, the Lord of Flame mainly used Runestone units, namely wizards, gnomes, and stone golems; the Lord of Lands commanded Temple and Arbor Lodge units, with clerics, druids, rangers, and griffins; and the Lady of Tides mostly fielded clerics from the Temple. Meanwhile, Tartyron commonly used all types of Barracks, Crypt, and Runestone units.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tabacco
+
+Tabacco, also known as tobacco, was a type of pipeweed – a dark plant with a sweet scent indigenous to Nexal and the jungle of Malatra.
+
+Description
+Tabacco leaves could be smoked in pipes, similarly to pipeweed of Faerûn, but it was also possible to roll them in cigars. In all applications, tabacco was said to be far superior in flavor to pipeweed.
+
+The name of "tabacco" was derived from tabac, a form of Faerûnian pipeweed, because many smokers simply mistook tabacco to be a Maztican varietal of tabac.
+
+Availability
+Sealed pots of tabacco leaves imported from Nexal were available for purchase through Aurora's Whole Realms Catalogue in the 1360s DR.
+
+Imported balaumo was sold in cafes of Arrabar in the Vilhon Reach in the early 1370s DR. Namely, Efusio's Cafe offered a wide variety of fruit-infused tobacco blends, including cherry, apricot, apple, and even grapewood.
+
+Some flavors of tobacco enjoyed by wizards in Magician's Row in Ravens Bluff in the late 1350s DR were Bittersage, Dragonfire, Golden Sea, Old Troll, and Saltweed.
+
+As of the late 15 century DR, a pouch of Maztican tabacco could sell for 30 gp on the Sword Coast.
+
+Usages
+The spell witchweed required the burning of tabacco as a material component.
+
+Notable Users
+Circa 1367 DR, in Ghars, Cormyr, tobacco was smoked by Mayor Tobald and in a pipe by Benelaius. A tobacconist in town sold both tobacco and pipeweed.
+
+In the late 15 century DR, the dockmaster of Neverwinter was a tabacco enthusiast named Deorde.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Talasko ale
+
+Talasko ale was the house-brand brew at Mother Talasko's in Khôltar, south Faerûn, circa the Year of Wild Magic, 1372 DR.
+
+Description
+Compared to other ales, this drink was thin and sour. It cost 3 copper pieces and was served in a hard-crust bread bowl or the staff would pour it into whatever container the customer brought to the counter. The serving size was about a pint.
+
+Appendix
+See Also
+ Shaar stew
+ Trathake
+References
+
+---
+
+## Taurgaur's Tarjteir
+
+Taurgaur's Tarjteir was an inn, luthdren (restaurant), and meeting place that catered to a predominantly dwarvish clientele. It was located in Khôltar, south Faerûn, circa the . The word "tarjteir" meant "place of happy gathering" in the Deep Realm dialect. It was the hub of dwarven business dealings and social interaction in the Iron City.
+
+Location
+Taurgaur's was located very near Handrornlar, the northern gate through the walls of Khôltar. It sat on the northwestern side of Orntathtar Way adjacent to the western half of Turthtraal—the twin guard towers that bracketed the gate. Next door, on the other side, was the noisy and popular Phlambror's tavern. Across the street to the southeast was Harmeirlarko's Journeys which, along with Surlpar's Stews and Jamrado's Thanetalium, occupied the blunted point of the huge intersection of Orntathtar Way with the North Way.
+
+Structure
+This stone building was six stories tall plus a few levels of cellars and storage rooms below ground. The street-facing side was carved to resemble a giant male dwarven face, including a beard that, because of the scale, was truncated at the base. All sides of the building, including the sculpted facade, had several arched windows with thick iron bars on both sides of the glass. Despite the latticework, some of the panes had been broken over the years and repaired by soldering or glued in with pitch.
+
+Interior
+The ground floor was mostly occupied by the kitchen and dining area, plus the lobby for the inn. The second floor was full of private meeting rooms that were available for short-term rent. The top four floors were guest chambers. The cellars were extensive and, beyond the food and drink storage, were storage vaults with thick walls and strong locks that were available for short-term rent. A few of these were equipped with manacles and chains for "guests" that might try to escape. Somewhere in the cellars was a secret passage that led to the Dark Corner, a notorious clandestine meeting place for no-questions-asked privacy, located in the neighborhood behind the Tarjteir.
+
+Atmosphere
+The guest rooms were all furnished with heavy, strong, and durable items in the style favored by the Stout Folk.
+
+The second-floor meeting rooms were built for privacy and to prevent accidental or intentional eavesdropping. The door to each room opened into a closet-sized antechamber with a second door set at right angles that opened into the room. The walls and ceiling between each room had embedded "gurgle pipes" with water trickling and flowing through them from the upper floors that made a constant background noise. (These noise-making pipes were called "thaelor" in the local dialect and were originally designed for a wealthy Onsruur family that wanted a unique way to appoint their house.)
+
+The dining hall was constantly wreathed in clouds of smoke from dwarven "trood" (very long–stemmed clay pipes). The local favorite toke-and-puff was a blueish green rockweed with a treacle-sweet odor but had, according to Elminster, "a wonderful taste and bite".
+
+Services
+Although not affiliated with the inn, many local dwarves made a living as trade agents (known as "ammarakh" in the city vernacular) for merchants from the Great Rift who didn't want to deal directly with Khôltan manufacturers, such as those in haste, those that didn't want to take the time to build personal relationships with dozens of customers or suppliers, or those that just didn't get along with humans. Taurgaur's made money off the rental of the meeting rooms and did supply runners (usually young human and halfling boys and girls) to quickly fetch any ammarakh that wasn't already in the building.
+
+The dining hall at the Tarjteir served the basic staples in good quantity and in tasty fashion. Favorites included rothé stew, roast boar, and skewers of sarth. The ale served here was purposefully weak in order to reduce the chance for drama and damage from rowdy patrons. For stronger stuff, they could go next door to Phlambror's.
+
+The storage vaults in the cellars could be rented short-term or for a season or longer. Some travelers trusted the establishment and felt it was secure enough to store coin and treasure here. Others were known to keep spare clothes or casks of their favorite ale in reserve, so even if they arrived in the city penniless, they would have access to the necessities.
+
+Inhabitants
+Taurgaur himself was an ancient dwarf that seldom went out in public, but he was jolly, sharp-witted, and interested in learning.
+
+Appendix
+References
+
+---
+
+## Taurgaur
+
+Taurgaur was the owner of Taurgaur's Tarjteir, an inn located in Khôltar, south Faerûn, circa the Year of Wild Magic, 1372 DR.
+
+Personality
+Taurgaur was very elderly by dwarven standards but still inquisitive, with a quick wit and a companionable good nature. Learning new things was the joy of his life.
+
+Activities
+He rarely went out in public, but instead invited people to come see him. He had a network of spies poking around Lantan so he could be informed of new inventions from the Gondar there. He occasionally sponsored adventuring groups to explore all corners of Faerûn and bring back news, show their trophies, and tell the tales of their exploits well into the night. He let them keep whatever treasure they found, he just wanted to hear the truthful details of their travels and encounters.
+
+Appendix
+References
+
+---
+
+## Tarmalune Trade House
+
+The Tarmalune Trade House, also known as the Tarmalune Auction House, was a trade cartel from Tarmalune that operated out of Neverwinter.
+
+Description
+The Trade House had a large warehouse located in the Docks District to store their wares. They also had an open-air auction post located in the Protector's Enclave.
+
+The Tarralune merchants used a unique type of currency, Tarmalune Trade Bars, which were made of silver and were imprinted with Tarralune trade markings. The bars could be exchanged for equipment, mounts, adventuring contracts, and other valuable items.
+
+History
+Around 1479 DR, once Neverwinter's Docks were repaired, members of a trade cartel from the Laerakondan city of Tarmalune of the Windrise Ports arrived in Neverwinter and arranged trade deals with Dagult Neverember, in the hopes of creating permanent trade ties between their homeland and Faerûn, and to outmaneuver their rivals from another Laerakondan city, Lylorn, who had landed in Luskan with similar goals.
+
+Unrelated to the intrigues of Neverwinter, the Tarralune merchants provided a peaceful place to make trade deals and soon became vital for trade in Neverwinter, especially among adventurers. They also sought out trade deals with nobles and merchants from Waterdeep.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tarmalune Trade Bars
+
+Tarmalune Trade Bars were a type of trade bars used by the merchants and traders of Tarmalune, one of the Windrise Ports of Laerakond.
+
+Description
+Tarmalune Trade Bars were made of silver and were imprinted with Tarmalune trade coster markings.
+
+Usage
+The bars were used as a form of currency in Tarmalune to get equipment, mounts, adventuring contracts, and other valuable items. In Neverwinter, the bars were used by the merchants of the Tarmalune Trade House.
+
+Appendix
+Notes
+In the Neverwinter MMO, the Tarmalune Trade Bars are used as form of premium currency to purchase rare items from an special NPC, named "Tarmalune Trade Bar Merchant". Such rare items include high tier equipment, cosmetic items, rare mounts and special companions.
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Tabnab
+
+Tabnab was a cook at the Beached Leviathan in Neverwinter.
+
+Personality
+The cook was known for being strange and eccentric.
+
+Appendix
+
+References
+
+---
+
+## Tabaxi/Video transcript
+
+Who were the tabaxi?
+Who were the tabaxi? [/tɑːˈbæksi/ ta-BÆK-see]
+
+The tabaxi were an elusive race of feline humanoids originally from the continent of Maztica [/mɑːzˈtikɑː/ mahz-TEE-ka], far to the west of Faerûn [/feɪˈruːn/ fay-ROON]. They also had a notable population in the deep jungles of Chult.
+
+Most tabaxi were taller than humans, with slender and lithe bodies. They were skilled at both climbing and swimming, with a keen sense of balance. Some called the tabaxi "jaguar people" or "leopard men" because of the spots or stripes found in their yellow-to-red-colored fur. Others called them "cat-men". Like most cats, tabaxi had slit-pupilled eyes; long, flexible tails; and retractable claws, which they sometimes used in combat.
+
+However, tabaxi were just as likely to use weapons in battle, such as bolas, slings, macas, javelins, or atlatls. They were exceptional hunters with a keen sense of smell. Combined with their speed, agility, stealth, and natural camouflage, they made for challenging foes. Nevertheless, they had few enemies and would not attack unless they had strong reason to do so.
+
+The tabaxi were a reclusive people who often avoided other intelligent races, so meeting one was uncommon. They lived in small clans led by elders, who were aided by shamans. Some clans were nomadic; others lived in small villages of ramadas made from wooden poles with grass roofs.
+
+The tabaxi of Maztica spoke an ancient form of the Payit [/ˈpajɪt/ PIE-yit] language, and most clans worshiped Tezca, Nula, or Azul.
+
+To learn more about the tabaxi people and their role in Faerûn, visit the Forgotten Realms Wiki on Fandom.
+
+[Please select images from the following:
+http://forgottenrealms.wikia.com/wiki/File:Tabaxi-5e.jpg
+http://forgottenrealms.wikia.com/wiki/File:Tabaxi_2e_mc.jpg
+http://forgottenrealms.wikia.com/wiki/File:Bag_of_Nails.jpg
+http://forgottenrealms.wikia.com/wiki/File:Birdsong - Tales from Candlekeep.png
+http://forgottenrealms.wikia.com/wiki/File:Flask_of_Wine_%28tabaxi%29.jpg
+http://forgottenrealms.wikia.com/wiki/File:River_Mist.jpg
+http://forgottenrealms.wikia.com/wiki/File:Tabaxi_minstrel.jpg]
+
+---
+
+## Tar devil
+
+Tar devils were low-ranked soldiers of the Nine Hells, so-called for the dangerous tar-like substance exuded from their bodies.
+
+Description
+Tar devils resembled humanoids with two short, upwards-curving horns protruding from their heads, haunting, pupilless eyes, beast-like feet, and powerful, non-prehensile, lizard-like tails. Their skin constantly oozed a sludge that dribbled down and left a tacky trail wherever they went.
+
+Personality
+Tar devils were known to entertain themselves by burning creatures, such as small animals.
+
+Abilities
+Tar devils were resistant to fire, but vulnerable to acid. Their titular feature, their tar, could be utilized in many ways, but was generally inhibited movement and made their opponents easier to burn.
+
+Combat
+In general, tar devils typically wore minimal armor.
+
+Tar devils trained as guards reeked from the hot tar of their bodies, which burned anyone who drew close, and fought with their khopeshes and tar-covered nets. They attempted to capture targets to bring them within hitting distance of their blades, or else charged if the net missed in hopes of encompassing as many foes as possible in their burning stench.
+
+Tar devil harriers meanwhile used kukri and flung balls of tar to slow opponents or unleashed a fuming cloud that impeded vision and movement. They stayed at range as much as possible, spreading out their attacks to slow as many as possible.
+
+Tar devil brawlers utterly coated their environments with their tar coating, splattering it around themselves everywhere they went. Their fist strikes typically left their enemies unable to escape.
+
+Society
+
+Tar devils could be summoned and commanded by powerful mortal adepts who forged infernal pacts with the Nine Hells.
+
+History
+In the late years of the 15 century DR, the Ashmadai cells of Neverwinter were known to employ the services of tar devils.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tasseldale garrison (Scardale)
+
+The Tasseldale garrison was a fortification in Scardale Town established by Tasseldale during the coalition occupation of Scardale in the mid–14 century DR.
+
+Early on in the occupation of Scardale, the garrison forces of Talonshield mercenaries had been bribed by Lady Sashesh to shift their allegiance to Sembia. The company's commander, Mairshar Hareth Windtamer, was unaware as to why his soldiers had a change of loyalty.
+
+Appendix
+References
+
+---
+
+## Tarnsmoke Proclamation
+
+The Tarnsmoke Proclamation, also known as the "hardhand justice", was a law of Waterdeep regarding bounty hunters.
+
+History
+The Tarnsmoke Proclamation was issued in 1400 DR by the Lords of Waterdeep on behalf of the merchant Lorigo Tarnsmoke, making it legal for people in Waterdeep and its patrolled environs to hire bounty hunters. This law and practice became very popular over the next decade, changing the public attitude of mistrust people usually had about bounty hunters in the 14 century DR.
+
+By 1480 DR, the Tarnsmoke Proclamation was legal in most places along the Sword Coast, though hiring bounty hunters was something frowned upon by many faiths.
+
+Appendix
+References
+
+---
+
+## Tassel Elders
+
+The Tassel Elders were a group of representatives that assisted with the rule of Tasseldale. One member was elected from each tassel, typically a wise citizen or pillar of the community, and advised the Grand Mairshar on decisions of major importance. Their counsel was required before the Lord could create new laws, rally the dale's militia, or deploy the Mairshars outside of Tasseldale.
+
+The Elders' approval was required when an outgoing Grand Mairshar selected their successor before retirement.
+
+Appendix
+
+References
+
+---
+
+## Tarsellis Meunniduin
+
+Tarsellis Meunniduin was a minor elven god of mountains, rivers, and the wilderness, as well as the patron deity of the snow elves.
+
+Description
+Tarsellis appeared as an  tall male elf with blond hair and deeply tanned skin clad in luxurious furs.
+
+Personality
+
+Tarsellis was a hearty warrior and legendary hunter, yet still deeply devoted to the wilderness and all its creatures. Conversely, he hated the drow more than anything else.
+
+Powers
+Tarsellis could not be harmed with heat, cold, wind, lightning, or any other natural forces. He could immediately control any elemental summoned in his presence and, if pressed, could summon all woodland creatures within a  radius to assist him.
+
+Possessions
+Tarsellis hunted and fought with a giant spear that only he could wield, one that never missed its target.
+
+Divine Realm
+The Lord of the Mountains maintained a divine realm on the first layer of Ysgard called the Wild Ride or the Wild Hunt.
+
+Activities
+Tarsellis spent a great deal of his time and effort roaming the wilds searching for evil creatures or powerful monsters, either to slay them outright or simply drive them from his own domain. Though he sometimes visited his fellows in Arborea, he preferred to wander the plane of Ysgard, allegedly dallying in Vanaheim and Elfheim when not at home. He spent the greater share of his time however in the woods and mountains on the Prime Material plane.
+
+If one of his worshipers prayed for aid while acting against the drow, there was a slim chance (about one in a hundred) that Tarsellis would send some form of assistance.
+
+Relationships
+Tarsellis was a solitary figure amongst the Seldarine, considered rustic by the other elven gods. He used to be the superior of Solonor Thelandira, elven god of hunting, as well as a great friend of his, often hunting with him in the days of old before even mortal elves walked the world. However, the two had been embittered ever since Tarsellis fell in love with a dark yet beautiful goddess known as Megwandir. This caused a falling out between the two former friends, for Solonor objected to their romance out of suspicion towards Megwandir, suspicion proved correct when she was revealed to be Lolth.
+
+Rellavar Danuvien, the elven god of protection from the cold, was in a similar situation to Solonor. He also used to serve Tarsellis, but his continued friendship with the Great Archer had strained theirs a bit. Despite this, the Warder Against Elements could count on both Tarsellis and Solonar's help against the machinations of Auril and Thrym."The Seldarine Revisited" names Surtr as an enemy of Rellavar Danuvien, but calls him "frost giant god" "whose power is based on ice and cold", so presumably confuses him with Thrym. One day however, the Lord of the Mountain's following amongst the snow elves could end up eclipsed by his former subordinate.
+
+Tarsellis's claims over the forests of mountain ranges also resulted in a rivalry of sorts with Rillifane Rallathil. He was also allies with Fenmarel Mestarine, the elven god of outcasts, and Shaundakul, the Faerûnian god of travel.
+
+Worshipers
+
+As Tarsellis was primarily the patron of the snow elves (who were native to Oerth), he was rarely concerned with affairs in Faerûn. There were rumors of snow elven worshipers in the Spine of the World and the High Ice of Anauroch, however, and others sometimes offered tribute to him as Lord of the Mountains. His followers could be found among all non-evil and non-lawful wilderness-dwelling elves. Tarsellis’s following was generally split into localized groups, with shamans making up a slight majority (about 55%) of the clergy, while clerics, specialty priests, and rangers held more power in civilized regions.
+
+The primary duties of the priests of Tarsellis were to watch over their fellow snow elves and to erect shrines near mountain tops and passes. These secluded, druidic shrines, tucked away in the wildest and most remote mountain corners, were considered extremely holy and the center of the religion, and while a few were dedicated to other deities, most were for Tarsellis. There were regular temples to the Lord of the Mountains, where followers offered the finest furs and massive live animals as presents for the resident druids, but these were few in number.
+
+History
+According to one elven myth, Tarsellis was one of the original elven gods who Corellon ascended to divnity by giving a unique name. Snow elves alleged themselves to be the direct descendants of Tarsellis, alleging that to be the cause of some of their differences to other elves, and though most elven scholars were skeptical, the Lord of the Mountains did not seem displeased with his children's dedication.It is unclear if the term "children" here is meant to be figurative or literal.
+
+Before the time of mortal elves and the Weaver's total fall to evil, Tarsellis fell in love with Lolth under the name of Megwandir, the quarrel over her trustworthiness eventually driving him and his former servitor deities apart. More recent tales depicted Hanali Celanil, elven goddess of love, as the one responsible for the rift, but older stories indicated the truth.
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Tantras (comic)
+
+Avatar #2: Tantras  is the second issue in a trilogy of graphic novels illustrating the Avatar series novels. It was published by DC Comics in 1991.
+
+Index
+Characters
+Adon • Bursus • Chess • Cyric • Elminster Aumar • Fzoul Chembryl • Irak Dontaele • Kohren • Lanx • Lhaeo • Lyga • Marcreg • Midnight • Kelemvor Lyonsbane • Mourngrym Amcathra • Rhaymon • Thurbrand • Yarbro
+
+Hawksguard
+
+Creatures
+human • horse • orc • werepanther
+
+Locations
+Blackfeather Bridge (bridge) • Border Ethereal • Dalelands • Shadowdale • Temple of Bane (Zhentil Keep) • Vale of Lost Voices • Zhentil Keep
+
+Deepingdale • Temple of Lathander (Shadowdale) • Temple of Tymora (Shadowdale)
+
+Organizations
+
+Magic
+Spells
+Items
+mists of rapture • spellbook • sphere of detection
+
+Tablets of Fate
+
+Religions
+Bane • Myrkul • Mystra
+
+Ao • Sune
+
+Miscellaneous
+Armor & Clothing
+robe
+Weapons
+blowpipe • dagger • spear
+Other
+Second battle of Shadowdale • Time of Troubles
+
+Appendix
+
+Gallery
+
+Appendix
+
+References
+
+---
+
+## Talagbar
+
+Talagbar was a dwarven mine in eastern Vaasa. It was considered a "twin" of the Delhalls in western Vaasa.
+
+Geography
+Talagbar was located in the Galena Mountains to the east of the road from Nigel's Ford to Palischuk.
+
+History
+By the 13 century DR, Talagbar had long been frozen under the Ice Run of the Great Glacier, but was believed to be rich with deposits of bloodstone, emerald, ruby, copper, and iron.
+
+Around 1372 DR, melting at the edge of the Glacier exposed Talagbar along with its twin, the Delhalls. The two mines were said to be so rich in wealth that their discovery changed the culture of Vaasa, making its people more greedy.
+
+As of the 15 century DR, the mines had been reopened.
+
+Appendix
+References
+
+FR:Talagbar
+
+---
+
+## Tathtard's Rose
+
+Tathtard's Rose was a syndicate of ruthless merchants that aimed to make its members very wealthy, circa the Year of Wild Magic, 1372 DR.
+
+Organization
+This cabal was led by Neviol Tathtard, a furniture maker from Silverymoon. The dozen or so members were spread around Luruar in the major trading towns.
+
+Tactics
+Under Tathtard's leadership, the Rose kept a low profile, skirted the edges of the law, and maintained secrecy. They operated under the principle that all members would see steady, moderate, long-term profits such that no member would be tempted to betray the others for a large, short-term score. They shared privileged information, engaged in price fixing, instigated shortages of goods in key markets, and sent business opportunities to each other.
+
+Trusted personal servants were used as spies and operatives all around Luruar, and one of their regular posts was the Missing Minotaur tavern in western Everlund. Any talk of trade being bandied about the Minotaur was sure to reach the ears of Tathtard's Rose agents.
+
+History
+At some point in the history of the Rose, one member and his entire family, including servants, died suddenly by poisoning. All coins, gems, and trade bars belonging to the merchant disappeared before the massacre was discovered. None of the other members knew who was responsible, except of course, Neviol Tathtard, who ordered his trusted agents to do the dastardly deed, eliminating a rival.
+
+Appendix
+References
+
+---
+
+## Talntower
+
+The Talntower was an ancient dwarven waterworks that consisted of a spring-fed reservoir, channels, valves, and a collecting pool for drinking, watering animals, or bathing that was still in operation in the Year of Wild Magic, 1372 DR. It was generally thought to be haunted by a presence that whispered oracular pronouncements.
+
+Geography
+The Talntower was located on the west side of Jundar's Pass where the trail approached the hills almost 50 miles (80 kilometers) north of Beliard. A promontory of stone formed a rugged cliff about 70 feet (21 meters) high near the road. On either side of the Talntower, lesser cliffs continued north and south for a quarter-mile (400 meters) or more, and the minor plateau of solid rock extended for at least the same distance westward.Based on the description "on the west side of a back-country trail two days north of Beliard" and the description of the geology given in the source, the most probable road is Jundar's Pass, as shown on the map.
+
+Features
+
+The rounded prow of this natural formation, covered in vines and scrub, was unremarkable except for the enormous slab of rock that capped it like a gently sloping roof, and the cave entrance at its base. Long-forgotten dwarven engineers excavated down from the top of the cliff to create a reservoir for a spring that bubbled up from below. The oval-shaped bowl was about 35 by 70 feet (roughly 11 by 22 meters) in size and typically filled with eight to ten feet (2.4 to 3 meters) of water. The reservoir was quite deep, but could not hold more than about twelve feet (3.7 meters) of water because there were fissures in the eastern wall that prevented the water level from rising any higher. Some of these slits in the rock face had been widened by enough freeze/thaw cycles that a human could crawl through the eight- to twelve-foot (2.4 to 3.7 meters) thick wall and enter the bowl above the waterline.
+
+Two drains, situated four to six feet (1.2 to 1.8 meters) up from the bottom of the reservoir, fed down small tunnels to the cave at the bottom of the cliff. To regulate the flow, each pipe passed through a valve made of a large stone slab that could be inserted or removed from the path of the falling water. The fit was tight enough to restrict the water flow to a mere trickle. When fully opened, the water gushed out rapidly for as long as it took the reservoir to reach the level of the lowest drain, and thereafter flowed at the rate of the feeding spring. The valve slabs were about a foot (30 centimeters) thick and the size of a human casket, complete with handles. It took at least three strong men to slide a plug stone out and four such men to push one back in.
+
+The pool was the main feature in the cave, being about sixteen feet long, three to four feet wide, and four feet deep (roughly 4.9 by 1 by 1.2 meters). Above each end of the pool, water showered down from the ceiling where the drain tunnels ended, typically filling the pool to at least a depth of one foot (30 centimeters). The water drained from the pool through other natural fissures. On either side of the center of the pool were carved seating areas (or wading areas if the water level got too high). Set back from the entrance on each side were broad stairs carved into the cave walls that climbed about twenty feet (six meters) to chambers holding the valve-stones.
+
+Other than during wintertime, the main cave was cool enough to slow the spoilage of food. In the frigid winter months when the cold reached deep, most of the water was frozen solid and the valve plugs were impossible to move.
+
+The Rasping Spirit
+
+Since at least the Year of the Empty Goblet, 1252 DR, the Talntower was the manifestation location of a spirit, ghost, or god with a raspy voice that pontificated cryptic answers, warnings, or predictions to anyone who left an offering on the floor of the cave or in one of the two pool-side seats (those that tossed their offering into the pool got silence). Petitioners could choose to ask questions and carry on short conversations with the oracle, or just listen to the whispered words and try to make sense of them. Most of the people who believed in the oracle kept its utterances to themselves, and often denied even visiting the Talntower, but from those that revealed what they heard came these examples:
+ "The blade shall be taken up, a throne overthrown, and the son shall scorn the father."
+ "The sword shall be found but the ring lost."
+ "Kingdoms shall arise where only the bones of realms lie now, new crowns shall glitter, and red war shall rule many lands. Dwarves and elves shall have new realms of their own, but a great land shall fall."
+ "The hand of the loremaster will find the hidden way when all other remedies fail."
+ "Beware the black flame. It burns but consumes not, watches and sleeps not, and those who bear its mark are your foes forever."
+
+In reality, the voice of the Rasping Spirit belonged to the elders of the Elhaembroe clan of gnomes who took turns spying on the visitors to the Talntower and giving cryptic answers and advice to those that left offerings. A spy chamber located low in the walls of the main cave afforded the person playing oracle various views of the cavern, and had small curving tunnels that carried and amplified whispers to echo about. Additionally, the noise from water falling into the pool helped obscure the source of the voice. The spy chamber was connected to the Elhaembroe's main complex of underground dwellings a quarter-mile (400 meters) to the west by a long and twisted passage that prevented accidental or purposeful flooding.
+
+Defenses
+
+The Talntower was an unguarded and uninhabited way-stop along Jundar's Pass, so visitors had to be cautious of lurking orc or goblin ambushes, or perhaps even more threatening predators. The facility was so useful at providing easy access to fresh water that it remained intact for centuries.
+
+History
+There was no definitive answer to the question of the origin of the name Talntower. Some said "Taln" was the proper name of the dwarf responsible for building it, or the dwarven clan or king who ordered it built, or a stone giant that was slain by the dwarves on the site. More fanciful stories claim that "Taln" was a gargantuan-sized creature that was turned to stone to form the cliffs in which the Talntower resided.
+
+Rumors & Legends
+The Rasping Spirit was the subject of much speculation. Theories included that it was the voice of a deity (pick one), or the spirit of a wizard bound to the spot. Many (including a few Harpers and other supposedly wise folk) didn't care to question the origin of the voice, but were superstitious enough to believe it spoke the truth, if they could just unravel the meaning woven into the cryptic answers.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tarth Brallowgath
+
+Tarth Brallowgath was a human trader and also an agent for the Zhentarim in northwest Faerûn, circa the Year of Wild Magic, 1372 DR.
+
+Activities
+Tarth did a legitimate business as a buyer and seller of goods around the wilder areas dubbed the Savage Frontier, but he also transmitted messages and smuggled contraband for the Black Network. One of his regular stops was at the Moon Mountain Brewery where he dealt with the halflings that ran the establishment, not only selling supplies and buying kegs, but also passing coded messages and small items of value to be hidden in the barrels, casks, and topkegs that frequently got shipped to Secomber, Llorkh, Loudwater, Daggerford, and even Waterdeep.
+
+Very infrequently, Tarth ordered the halflings to add a poison, either bittermint or tulade (both made at the brewery), to a particular keg destined for some enemy of the Zhentarim.
+
+Relationships
+At the brewery, only Yarimmur Borulglar, Nurvala Minstrelwish, and Kelter Minstrelwish knew that Tarth was more than he seemed to be. Some of the other halflings suspected there were possibly shady activities going on, but decided it was better not to ask questions. The halfling leadership were happy to do a little harmless smuggling, but were extremely reluctant to poison any of their products for fear that a shipment might go astray. or some other mishap occur, and evidence would be traced back to the brewery. They reluctantly followed Tarth's orders because they relied on the protection of the Zhentarim and the extra coin they earned from the smuggling business.
+
+Appendix
+References
+
+---
+
+## Tathlyn
+
+Tathlyn was a zealous drow and aggressive patron of the Ust Natha tavern, around 1369 DR.
+
+Description
+Tathlyn was often found in the tavern of Ust Natha, but was unwilling to share his tales with outsiders, unlike other patrons. He had apparently sawn tentacles from devourers, pried teeth from human babies and plunged daggers into a beholder. He assaulted the Vhaeraun supporter, Merinid, for the glory of Lolth. He wielded a two-handed sword in combat.
+
+Appendix
+Appearances
+Video games
+ Baldur's Gate II: Shadows of Amn
+References
+
+---
+
+## Taso Kala
+
+Taso Kala was a drow matron who lived in Ust Natha.
+
+History
+Around 1369 DR, she crushed a sect of Ghaunadaur worshipers, but fled to the south-east of Ust Natha. She may have asked Gorion's Ward and companions to perform a service for her, which was apparently demanded by Lolth. The service was to destroy the sect completely, which was led by a high priest and the mage Relonar. She would, however, give no reward, apart from allowing the adventurers' continued existence.
+
+Appendix
+Appearances
+Video games
+ Baldur's Gate II: Shadows of Amn
+References
+
+---
+
+## Tatha's Broomworks
+
+Tatha's Broomworks was a small business near Elturel owned by Tatha Beruel circa the Year of Wild Magic, 1372 DR. She sold brooms in bulk, wooden spars, and herbs from her gardens. However, the majority of visitors to the Broomworks came to see Tatha herself and bargain with her to use her special gift.
+
+Location
+
+Tatha's Broomworks was a part of her leaf farm she called Aloum Lyndren that was located a few miles west of Elturel on Skuldask Road in the Fields of the Dead. Her place was on the north side of the road and, when the weather was clear, the walls of the city were still visible looking from atop Vixen Rise (the easternmost hill on her property).
+
+Structure
+The two primary structures on the farm were her dwelling and her barn. Both were underground single-story buildings lined with stone and roofed with sod that held her herb gardens. The barn could be identified by the three large wooden chairs, two sawhorses, and a chopping block in front of the double doors that led to the interior. Her house was the structure with a sign and a bell hung on a tree a few paces from her front door. There were two outhouses a short walk down a path from her home, one in good repair and one very dilapidated.
+
+Interior
+The barn held a grinding wheel and stacks of wood in various stages of seasoning and preparation for making brooms and spars. This was the Broomworks, although, in good weather she did most of her work sitting in a chair outside.
+
+The house had a main kitchen and living area, and two bedrooms. The main room contained a big hearth, a rocking chair, a cutting table, and other household items. Water trickled into a barrel through a pipe from the spring and the overflow drained down another pipe to the swampy area at the edge of her property. One of the bedrooms was mostly filled with a large loom, objects that she whittled, and general storage. The other bedroom held her book collection.Some descriptions are based on the artist's rendering.
+
+Services
+
+Tatha sold brooms in quantity to merchants for resale elsewhere. She also made and sold wooden spars in various lengths that could be used in making wagon wheels, pole arms, or as gaffs or yards on small sailing vessels. She was skilled at growing herbs and making herbal remedies to treat ailments of both people and livestock.
+
+Apart from the wares she sold to traveling merchants, many folks from all over Faerûn came to Aloum Lyndren to ask Tatha to use "her gift from Mystra," as she called it. Tatha had but to touch a magic item and experience a brief trance where she usually saw at least fleeting scenes of past uses of the item. Upon emerging from her trance, she could describe her visions in detail. The visions were just that—visual images lasting a few seconds each—she did not experience any sounds, smells, tastes, or tactile sensations. These scenes often revealed a description of previous owners, places where the item had been used, and/or possible hints as to its function or powers. Her gift was not completely reliable. Sometimes the visions failed to manifest while other times they were strong and clear. Her minimum fee for making an attempt was 20 gp, but she was known to charge as much as 2,000 gp depending on the customer's means, attitude, character, bearing, and manners.
+
+Defenses
+
+Skuldask Road was patrolled by the Hellriders from Elturel every few hours, but the land and farm buildings on Aloum Lyndren had no known defenses other than their stone construction and underground placement. There was a hidey-hole big enough for two people back in the stone ruins behind her house, but a determined search had a fair chance to discover it, and it also had no special defenses. However, Tatha Beruel seemed to be under the protection of Mystra because she continued to survive alone and unharmed after various encounters with hungry winter wolves, evil brigands, a quite a few individuals and groups who attempted to bind her and force her into slavery. All those who captured her and removed her from the farm became feebleminded for multiple tendays and she was teleported back to her home unharmed.
+
+History
+As of 1372 DR, Tatha's Broomworks had been in business at this location for at least 20 years. The leaf farm that supplied the raw materials for the business was established by Tatha and a sun elf friend of hers. The location was chosen for the natural spring that bubbled up in the midst of the surrounding hills. She named the farm Aloum Lyndren after her friend who shortly thereafter departed for Evermeet.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tatha Beruel
+
+Tatha Beruel was a "leaf farmer" and proprietor of Tatha's Broomworks on the outskirts of Elturel in the Fields of the Dead circa the Year of Wild Magic, 1372 DR. She had what she called a "gift from Mystra" that granted her visions of historical uses of magic items when she touched them.
+
+Description
+Tatha was half–sun elf with large green eyes, long black hair, and golden skin. Her delicate face was attached to a slender but muscular body that bore scars from years of felling, hauling, chopping, shaving, and carving trees. Most of the time, her lustrous locks were bound with leather strips into a "mare's tail".
+
+Personality
+She was kind, goodhearted, and enjoyed dancing and reading. She could be judgmental toward those who came to her for consultation about a magical item. Her price to attempt a reading of an item's past varied widely based on her assessment of the wealth, motivation, attitude, and manners of the customer. She was even known to modify or withhold information from those she felt would misuse the power of an item for destruction or coercion.
+
+Tatha was fearless in the face of most threats to her freedom or livelihood and could not be bullied. Her calm courage came from her trust in Mystra and was borne out by the numerous times she'd survived unharmed encounters with orc raiders, brigands, slavers, and evil wizards intent on monopolizing her ability.
+
+Abilities
+She was an expert woodcutter, able to climb a tree, trim off the branches, chop it down, cut it to manageable size, and haul the cuts to the barn. She collected all the bark, chips, and shavings for use as kindling and split her own firewood. She was also a skilled herbalist and prepared dried herbs for sale and occasionally made herbal remedies for herself and her neighbors.
+
+Her gift from Mystra was usually, but not always, reliable. She typically laid down on her favorite patch of moss in front of her house and had the customer hand her the item. Her visions were usually sharp and detailed, but silent and without any other sensations beyond sight. Sometimes she saw a brief vignette where the item was being used. Other times she got a short scene based around the object's last time of use. Rarely, she received multiple visions, each being a different event in the historical past of the item.
+
+Possessions
+Tatha owned Aloum Lyndren and two draft horses that she used to pull up stumps and to haul the largest tree cuts to her barn. The horses were boarded with one of her neighbors. She kept many axes, mauls, mallets, spikes, wedges, and a stump-chain for cutting, splitting, and hauling trees in a few stone-walled pits hidden under various old tree stumps. The coins she earned were kept in a clay pot down in the pit under the old, ruined privy. To reach it, she had to climb partway down and move one of the stones that lined the shaft.
+
+Relationships
+Tatha lived alone, but had friendly relationships with her neighbors: Elmair Broruk, a human rancher to her east and south; Ohlongh Vrurr, a half-orc livestock breeder to her west; and the human Trindle family farm to her north.
+
+History
+Around the Year of the Dragon, 1352 DR, Tatha took up residence on a plot of land chosen mainly because it had a natural spring to provide water, and trees. She named it Aloum Lyndren after a sun elf friend who helped her get started before departing for Evermeet. Aloum encouraged her to utilize her land in a sustainable way, planting trees for specific purposes and caring for them until they were ready to be harvested, and to establish Tatha's Broomworks.
+
+Over the years, Tatha refused to use her gift from Mystra exclusively for any one person or organization, regardless how much they offered or threatened, saying that it was a sacred trust and not to be monopolized. Those that tried to coerce or capture her soon found themselves feebleminded for multiple tendays and their prize teleported back to her farm, safe and sound. She attested that Mystra herself approved of the way she used her gift, and Elminster, based on her description of the goddess, believed that Tatha had indeed met the Lady of Mysteries in person.
+
+Rumors & Legends
+There were rumors that Tatha had a secret cache of magic weapons and items that customers left with her because they were afraid to keep the objects once she related her visions. She did keep larger implements in a hollow tree near the swamp on the edge of her property, but it was unknown if any of the hidden objects were magical.
+
+Appendix
+References
+
+---
+
+## Tahyr yn Savras
+
+Tahyr yn Savras was an inhabitant of the city of Manshaka in Calimshan, known as "the Mad Seer of Manshaka". He was a priest of Savras, as his name declared.
+
+Tahyr wrote the book A Glimpse into the Abyss, presumed to be about the Abyss. It was written in 1322 DR.
+
+Appendix
+References
+
+---
+
+## Taghor
+
+Taghor was a dwarf fighter who almost died during a fight against drow circa 1358 DR.
+
+Possessions
+The fighter donned chainmail and a dwarven helmet, and fought with an axe.
+
+History
+Taghor was a warrior of King Teirgoh, and fought with him against the dark elves beneath Waterdeep. Whilst trying to stop the drow from assaulting the royal family, he almost met his death at the blade of a drow. He may have later been healed by the party setting out to slay Xanathar, and if so, he informed them that his king was grievously wounded, and Prince Keirgar had been kidnapped. He thanked the adventurers for saving him from death, but could not offer them a reward, as he had become separated from his clan during the battle. The fighter offered to join the adventurers, and told them whereabouts his clan had settled on the lower level.
+
+Appendix
+Appearances
+Video games
+ Eye of the Beholder
+References
+
+---
+
+## Talisolvanar Fellbranch
+
+Talisovanar "Tally" Fellbranch  was a half-elf carpenter and woodcarver in Waterdeep in the late 15 century DR.
+
+Activities
+Tally managed the Bent Nail shop on Trollskull Alley in the North Ward.
+
+Relationships
+Melannor
+Tally was brother to Melannor Fellbranch.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tasha's hideous laughter
+
+Tasha's hideous laughter, also known as Tasha's uncontrollable hideous laughter, was an enchantment spell that caused its target to fall into crippling bouts of laughter.
+
+Effects
+The target of Tasha's hideous laughter perceived everything as extremely funny and laughed so uncontrollably that it became impossible to even stand up. The effect of the spell lasted for up to one minute, as long as the spellcaster kept concentrating on the spell or until the target managed to shake off the effect. Ending the spell's effect was also easier if the target was injured in any way.
+
+Components
+The spell required verbal, somatic, and material components. The materials required were a small feather that needed to be waved in the air and tiny tarts that needed to be thrown in the target's direction.
+
+History
+The spell was attributed to the Oerthian archmage Iggwilv, during an early time in her career when she was known as Tasha.
+
+By the 1360s DR it was yet rarely found in the magical communities of both Faerûn and Zakhara. To Zakharans, always reluctant to acknowledge ajami names and accomplishments, the spell was known as uncontrollable hideous laughter, and counted among the spells of the universal province.
+
+By the late 15 century DR, the spell was commonly used throughout Waterdeep as a security measure against burglars, usually coupled with a glyph of warding cast on rooftops.
+
+The spell was commonly employed by nilbogs. It was also known to some cloud giant spellcasters and could be innately cast by powerful eladrin who resided in the Feywild.
+
+Additionally, Tasha's hideous laughter was favored by cultists of Yeenoghu and was considered a signature spell of his followers.
+
+Appendix
+Notes
+
+Gallery
+
+Appearances
+Adventures
+Curse of Strahd • Waterdeep: Dragon Heist
+Card Games
+
+Video Games
+Baldur's Gate III
+External links
+
+References
+
+---
+
+## Tam
+
+The Tam family of Thay was nearly as old as the nation itself, and greatly influenced its course of growth and direction throughout the years. Their seat of power was known as the Necropolis.
+
+Activities
+Since the 11 century DR, the Tam family has overseen operations of the undead servants who moved goods across the long portage. They profited well from transporting shipments arriving from Lake Mulsantir along the River Thay, up the First Escarpment and unloading them on vessels that sailed the waterways atop the Thayan Plateau.
+
+History
+Throughout the family's history in the magocratic nation they have had only three heads of household. The most recent leader of the family was Szass Tam, who has existed on Toril since the early 12 century. He has accomplished more than anyone within the family, and perhaps all of Thay, having incited the War of the Zulkirs and ascended as the nation's sole ruler and High Regent for over a century.
+
+Notable members
+ Shevas Tam: Former head of the family and founder of the long portage.
+ Szass Tam: Zulkir of necromancy and High Regent.
+
+Appendix
+References
+
+---
+
+## Tanglor
+
+Tanglor was a half-elf adventurer who infiltrated the mysterious Darkmoon temple, in 1358 DR.
+
+Description
+Tanglor, while being a half-elf, looked surprising dwarven. He had a bushy brown beard, and donned a dwarven helmet. He owned some enchanted equipment, including his short sword and shield. He fought with a dagger and wore full plate mail, along with using his holy symbol to cast priestly magic.
+
+History
+The adventurer made it all the way to the silver tower of the Darkmoon temple, seemingly single-handed. He may have been found sleeping, and snoring loudly, in the corner of a room by the Heroes of Waterdeep. If so, Tanglor suddenly jerked awake, grabbed his dagger and was prepared for combat. He grumbled at them, claiming they were clerics coming to disturb his rest again. The adventurers apologized for waking him, and he responded by saying that he believed he was the only one bold enough to take the test for admission to the temple. Tanglor then said the heroes were worthy of his company, and offered to join them.
+
+Appendix
+Appearances
+Video games
+ Eye of the Beholder II: The Legend of Darkmoon
+
+References
+
+---
+
+## Tarterian dragon
+
+Tarterian dragons were strong-willed planar dragons native to the prison plane of Carceri. They acted as both wardens and prisoners of the plane.
+
+Description
+Tarterian dragons were emaciated with drooping flesh and tattered wings. Their leathery scales were covered in gray, olive-green, and black patterns, and their black eyes glowed with green light. Their fangs and claws were black as well. They seemed to wear a permanently grinning expression.
+
+Although they could get their sustenance from any source of food, Tarterian dragons enjoyed eating fiends and condemned souls the most. They preyed on any creature perceived to be weaker than them.
+
+Combat
+The typical battle tactic of Tarterian dragons was to separate and constrain their opponents so they could face them separately. To that end, they made frequent use of their two breath weapons: a line of force and a cone of gas that sapped the will of its targets as if hit by a crushing despair spell. They could also cause effects similar to the forcecage, imprisonment, maze, and Otiluke's resilient sphere spells.
+
+Extremely mobile creatures, Tarterian dragons were also immune to effects aimed at restricting their movement, such as hold monster, solid fog, slow, web, and other paralyzing effects. They were highly resistant to force energy.
+
+Society
+In their home plane of Carceri, Tarterian dragons thrived on a variety of environments and across several layers, ranging from the jungles of Cathrys to the mountains of Colothys.
+
+In addition to their native plane, Tarterian dragons could also be found in the Dismal Caverns and the Dragon Eyrie, but were very rarely, if ever, found on Toril. They could be found alone or in families as they raised their young. Clutches of young Tarterian dragons were also commonly found.
+
+Appendix
+Appearances
+ The Ruin
+References
+
+Connections
+
+---
+
+## Tashlyn Yafeera
+
+Tashlyn Yafeera  was the Master of Arms and Mercenaries within the Waterdhavian branch of the Zhentarim, operating within the city during the late 15 century DR.
+
+Personality
+Tashlyn believed herself superior to most people. She was quick to anger and never stopped a fight. However, Tashlyn respected anyone that defeated her.
+
+Relationship
+Tashlyn came from a wealthy family that was well-known in the southern land of Calimshan.
+
+Tashlyn was a member of the Doom Raiders adventuring company. She and her companions composed the leadership of the Zhentarim of Waterdeep. Despite her deception as his "bodyguard", Tashlyn genuinely respected her patron Vorondar.
+
+History
+Tashlyn was once an adventurer but decided to join the Zhentarim with her fellow companions. In 1489 DR, they were sent to establish a Zhent foothold in Waterdeep.
+
+In 1492 DR, as a cover, Tashlyn acted as a bodyguard to Vorondar Levelstone, a magistrate of the South Gate. Thanks to her employer, Tashlyn was recruited into the City Guard and used her position to permit free access to the city for all her Zhent companions. After Davil Starsong and other Zhents were captured by the City Watch later that year, following the Gralhund Villa Bloodbath, Tashlyn temporarily stepped in as the leader of the Waterdhavian cell of the Zhentarim.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Waterdeep: Dragon Heist
+Board Games
+Dungeons & Dragons Dice Masters: The Zhentarim
+
+References
+
+---
+
+## Tabard
+
+Tabards were widely used throughout Faerûn.
+
+Description
+Tabards were a simple, yet effective garment to identify armies and personal guards. They were typically adorned with the family's or city's colors and insignia.
+
+History
+Aurora's Emporium offered tabards in large quantities, made of linen imported from Daerlun and dyed with pigments imported from Baldur's Gate. Prices per individual piece varied depending on the amount ordered, ranging from 6 sp for orders of fewer than twenty units to 3 sp for orders larger than 200.
+
+Reputation
+Tabards produced by Aurora's Emporium were said to be well known and appreciated in Elturel, Selgaunt, and Waterdeep.
+
+Notable Tabards
+ Tabard of the mystics
+
+Notable Owners
+
+Groups
+ The standard uniform of the City Guard of Waterdeep in the mid‒14 century DR included a black tabard with golden trim over armor.
+ Members of the Purple Dragons were known to wear tabards emblazoned with their organization's symbol.
+Religions
+ The adventuring priests of Amaunator were known to wear red and orange tabards.
+ The clergy of Arvoreen often wore dark blue tabards with the god's holy symbol emblazoned on it in silver.
+ The clergy of Clangeddin Silverbeard often wore silver tabards emblazoned with his holy symbol.
+ Cyric-Swords were known to wear purple tabards with the holy symbol of Cyric embroidered on the chest.
+ The clergy of Ghaunadaur often wore dark tabards emblazoned with his holy symbol.
+ The clergy of Targus were known to wear tabards of either a crimson or scarlet hue.
+ Helm-Questers were known to wear tabards of a golden hue, with the holy symbol of Helm emblazoned on the chest.
+ Tyr-Hands were known to wear white and gold tabards with the holy symbol of Tyr embroidered on the chest in gold.
+
+Appendix
+Appearances
+Novels
+Obsidian Ridge
+Card Games
+AD&D Trading Cards
+External Links
+
+References
+
+---
+
+## Tagarath
+
+Tagarath was a village in far eastern Tethyr circa the Year of Deep Water Drifting, 1480 DR.
+
+Geography
+This village was located on the Tethir Road between Riatavin and the Vilhon Reach at the ford across the Shining Stream. The river was the traditional boundary between County Valashar and County Morninggold.The gnome village of Elbencort was also located at this spot, circa the Year of the Tankard, 1370 DR. It is unknown if they coexisted at the same time or if Tagarath supplanted Elbencort. It is possible they were on opposite sides of the river.
+
+Government
+Tagarath was ruled by a crownar (the equivalent of a mayor) and a council of local merchants. As of 1480 DR, the crownar was Orth Haelen and the council had eight members. However, throughout the 1470s, Orth's daughter Alaya had assumed control of the day-to-day responsibilities of the crownar because her father was aging and in poor health. Laws were enforced by the Riders, a small local police force, and the crownar employed a dozen or so "watchers" (spies) and agents. Being a very small town, the watchers were seven elderly and nosy women and the agents were Alaya's two younger sisters and her three suitors. There were also tax collectors that made their rounds holding the leashes of trained war dogs.
+
+Trade
+Tagarath was well situated on a major trade route and had the typical services for merchants and caravans passing through. Agents of the Zhentarim or other tyrannical merchant organizations were unwelcome in Tagarath and were surreptitiously killed by the crownar's agents when identified.
+
+Defenses
+The only official entity defending Tagarath was the Riders. The town benefited from being part of either Valashar or Morninggold, and perhaps the baronies of Carrelath and Impresk that had patrols and garrisons in the region.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Taros Hoop
+
+The Taros Hoop was an iron relic that could displace its owner, or those of their choosing, through the planes of existence.
+
+Description
+The hoop was essentially a huge frame made of iron, taller than a human, such that one could pass through the device. The device was attached to a stand and roller, and similar to one a trainer of great cats would use. A symmetric spider web filled the hoop's interior, which appeared fragile, but the strands were incredibly strong and magically powered. When one passed through the hoop, a part of their life force would drain away.
+
+The Taros Hoop was triggered by a small scepter featuring a black pearl on its end.
+
+History
+In 1356 DR, the Calimport guild led by Pasha Pook owned the device. LaValle,  the wizard of the guild, could both scry on beings of his choosing, such as the Companions of the Hall, and also peer into other planes, as well as travel to them.
+
+Later, the companions reached Calimport to rescue the halfling rogue Regis from his former guildmaster, Pasha Pook. Guenhwyvar, Drizzt's panther, refused to obey commands from Pook, and returned to its home in the Astral Plane, and LaValle showed his master, Pook, an image of the panther through the hoop. LaValle then showed Pook images of the companions tearing through a small army of wererats guarding the thieves' guild hall, where Pook and LaValle resided in the uppermost floor.
+
+Upon the command of Pook, LaValle uttered an incantation to use the Taros Hoop to send the companions to a "dark place," in this case, the Plane of Tarterus. Regis, realizing that his friends had fought their way through the wererats to save him, tried to escape by stealing Guenhyvar's statue and the command scepter, and jumped through the hoop as LaValle finished the incantation to banish the rest of the companions to this plane.
+
+Through much struggle, the companions managed to recover Regis, the scepter, and the statue of Guenhwyvar (who escaped with Regis back to the Astral Plane, and rallied a small army of astral panthers). They returned through the gate from the side of Tarterus, through the hoop, back into Pook's chambers on the Prime Material Plane. The barbarian Wulfgar attempted to close the gate by bending the metal of the hoop, while fighting off demodands attempting to come through the gate, but he was unable to because of the intense magic of the hoop itself.
+
+As the last of the companions returned through the portal, Wulfgar released the Hoop, grabbed the scepter from Drizzt, and smashed it at the same time that LaValle cast a spell into the gate, shattering its magic. A brief cloud of darkness filled the room, and when it dissipated, only a broken hoop of iron, dripping with interplanar goo, remained. The panthers from the Astral Plane returned to the guildhall to finish off the wererats and Pook. After Pook fell, Regis became the master of the guild in Calimport.
+
+Notable Owners
+ Pasha Pook
+
+Appendix
+Appearances
+Novels
+ The Halfling's Gem
+References
+
+---
+
+## Tales Trees Tell
+
+Tales Trees Tell is an adventure module set in the Forgotten Realms using the Dungeons & Dragons 5 edition ruleset. It is part of the Tyranny of Dragons series of adventures published for the D&D Adventurers League. It focuses on Phlan and is an adventure designed for three to seven 1- to 4-level characters.
+
+Index
+Characters
+Colvin Brenick • Bricklan Marth • Grinna Brightbell • Grissen • Hupe Brightbell • Hurg Pilauwer • Jeny Greenteeth • Millivent Moss • Pipyap • Rerk • Serelis Greenleaf
+
+Cvaal Daoran • Halvin Graingle • Talaric Daoran
+Creatures
+displacer beast • elf • green hag • half-elf • halfling • human • imp • needle blight • panther • pixie • scarecrow
+Locations
+Bodies of Water
+Rivers
+Stojanow River
+Buildings & Structures Colvin's General Goods
+Inns & Taverns The Leaky Bucket
+ForestsQuivering Forest
+Region Moonsea
+Settlements Greenhall • Kabel's Hill • Phlan
+
+Citadel of the Raven • Laughing Goblin Inn • Zhentil Keep
+Magic
+Items cloak of elvenkind
+Spells Confusion • Chromatic orb • Cure wounds • Dancing lights • Detect evil and good • Detect magic • Detect thoughts • Dispel magic • Divination • Druidcraft • Entangle • Fly • Greater restoration • Identify • Invisible passage • Lesser restoration • Mimicry • Minor illusion • Phantasmal force • Polymorph • Prayer of healing • Raise dead • Remove curse • Sleep • Speak with dead • Superior invisibility • Vicious mockery
+Organizations
+Knights of the Black Fist
+Player Factions  Emerald Enclave • Harpers • Lords' Alliance • Order of the Gauntlet • Zhentarim
+
+Cult of the Dragon
+
+Credits
+ D&D Organized Play: Chris Tulach
+ D&D R&R Player Experience: Greg Bilsland
+ D&D Adventurers League Wizards Team: Greg Bilsland, Chris Lindsay, Shelly Mazzanoble, Chris Tulach
+ D&D Adventurers League Administrator(s): Claire Hoffman, Robert Adducci, Bill Benham, Travis Woodall, Greg Marks, Alan Patrick
+Appendix
+External Links
+
+ PDF provided by Wizards of the Coast
+ Tyranny of Dragons Adventurer's League
+References
+
+Connections
+
+---
+
+## Talon
+
+Talon was a powerful and strongly enchanted longsword.
+
+Description
+Talon was made of three pieces: the tongue (blade), the eye (the centerpiece gem set in the middle of the crossguard), and the hilt. Fitting the sword into its carving would combine the pieces, producing the powerful +4 weapon.
+
+As well as being a weapon, Talon was also used as an access key to the Crimson Tower in Temple Darkmoon.
+
+History
+In 1358 DR, pieces of the legendary sword were scattered around Darkmoon. The Heroes of Waterdeep gathered the parts of Talon, and assembled it. They used it to make their way further into the evil temple and destroyed Dran Draggore.
+
+Notable Owners
+ The Heroes of Waterdeep
+Appendix
+Appearances
+Video games
+Eye of the Beholder II: The Legend of Darkmoon
+
+References
+
+---
+
+## Tanis O'Connor
+
+Tanis O'Connor is an editor, developer and playtester who has contributed to mainly 4-edition Dungeons & Dragons content. O'Connor was the lead editor for the Neverwinter Campaign Setting. She has also edited a variety of core D&D adventures and supplements.
+
+Works
+Adventures
+ Gates of Neverdeath
+
+Board games
+ Lords of Waterdeep: Scoundrels of Skullport
+ Dungeon Command: Sting of Lolth
+ Dungeon Command: Heart of Cormyr
+ Dungeon Command: Blood of Gruumsh
+ Dungeon Command: Tyranny of Goblins
+ Dungeon Command: Curse of Undeath
+ Dungeon Command
+
+Sourcebooks
+ Neverwinter Campaign Setting
+
+Supplements
+ Into the Unknown: The Dungeon Survival Handbook
+
+---
+
+## Tar (emissary)
+
+Emissary Tar was the chief negotiator who spoke on behalf of the Council of Four of Baldur's Gate during the mid-to-late 14 century DR.
+
+Description
+She was a particularly rotund woman.
+
+Personality
+Tar was a committed civil servant who would not be distracted from her duties nor suffer fools that may waste her time.
+
+History
+During the iron crisis of the Sword Coast in the, Emissary Tar was tasked with negotiating a new price for iron with Thaldorn Tenhevich and Destus Gurn of the Baldurian branch of the Iron Throne, along with six of their "advisors". The Throne had just been granted rights to iron mines owned by the Merchant's League and Seven Suns Trading Coster. Unbeknownst to Tar and the Grand Dukes, however, many of the members of those mercantile groups had been killed and replaced with doppelgangers.
+
+Emissary Tar did not survive her visit to the Iron Throne headquarters in the Lower City. The meeting was a trap; Tar was slain by agents of Sarevok Anchev and her persona claimed by one of his doppelganger agents. Her body was hidden away in the tower's top floor.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate
+
+External Links
+
+References
+
+---
+
+## Tankard of sobriety
+
+Tankard of sobriety was a magical tankard.
+
+Powers
+The tankard was a regular tankard similar to those found in any tavern, but it had one key distinguishing feature. On one side of the tankard, there was a face with a stern expression carved into it. The tankard prevented the drinker from becoming intoxicated. Any ale, spirit or wine poured into it had no deleterious effect. The tankard did not protect the drinker from poisons or toxins, nor did it have an effect on magical liquids such as potions.
+
+Appendix
+References
+
+---
+
+## Tasirin
+
+Tasirin was an archmage and noted spell inventor.
+
+Magic
+Tasirin was known for inventing the enchantment spell Tasirin's haunted sleep. He was also credited with writing the book Treatise of Sublimated Oneiromancy, which contained descriptions of the spells sleep, dream, feign death, and his own Tasirin's haunted sleep.
+
+History
+Tasirin studied magic under Mentor Wintercloak, one of the Seven Wizards of Myth Drannor.It is unclear when Tasirin's studies under Mentor occurred. It could have been as early as the founding of the Seven Wizards in 379 DR (Cormanthyr: Empire of the Elves, p. 39). Although Mentor Wintercloak left the Seven Wizards in 682 DR (The Fall of Myth Drannor, p. 18), he taught several students later in life, and Tasirin could be among these.
+
+By the 1300s DR, Tasirin had moved to Silverymoon. He befriended the young wizard Elsura Dauniir, hiring her as his personal cook. The two were constantly together, and rumors abounded that their relationship was less than proper. Eventually, efforts were made to keep Elsura from visiting Tasirin.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tansabra
+
+Tansabra was a drug that placed mammalian creatures in a sort of temporary stasis.
+
+Description
+Tansabra was formulated from the venom of several specific creatures.
+
+Usage
+To have its intended effect, tansabra had to be introduced into the user's bloodstream, by injection or other means.
+
+Effects
+When injected, the drug induced a systemic shutdown in the body of a mammal, temporarily ceasing all physiological processes along with the need for them to maintain the creature's life. Any internal wounds or bleeding were stopped as was its need for oxygen.
+
+When in the "tansabra sleep" the mammal didn't naturally heal and couldn't be affected by curative or healing magic. The duration of this state was different for each individual affected. Any means to reverse its effects, such as rare gem powders and herbs, were a matter of rumor and speculation.
+
+Repeated use of tansabra could prove to be lethal. This variable was only determined by the body's tolerance for the number of times it could withstand entering tansabra sleep.
+
+Appendix
+References
+
+---
+
+## Talonblade
+
+Talonblade was a spell unique to Maztica.
+
+Effects
+A caster used this spell to enchant a single stone weapon. It could be cast on a blade of stone or the tip of a rock. The spell increased the damage inflicted by the weapon. Additionally, any damage the weapon sustained was absorbed by the spell. When the spell expired, the absorbed damage took effect, often destroying the weapon.
+
+Components
+In addition to verbal and somatic components, the spell required a material component: a claw from a jaguar.
+
+Appendix
+References
+
+---
+
+## Tanamere Alagondar
+
+Lady Tanamere Alagondar was a royal scion of the Alagondar family in Neverwinter in the late 14 century DR.
+
+History
+Not much is known about Lady Tanamere Alagondar, but she lived sometime in the late 14 century DR following Nasher Alagondar's ascension to King of Neverwinter. She was famous for wielding a dragon slayer longsword. It was said that she and two parties of adventurers fought and killed a green dragon named Azdraka that terrorized the High Road.
+
+After being mortally wounded in the battle, her dying wish was that she and her fallen compatriots were buried with the corpse of Azdraka in a barrow near where the dragon fell. The barrow was created in the shape of a dragon in flight, and thus came to be known as Dragon Barrow.
+
+According to legend, her magical longsword was buried with her.
+
+Appendix
+Appearances
+Adventures
+Dragon of Icespire Peak
+References
+
+---
+
+## Taurus
+
+Taurus was a proud gladiator and mastermind who fought in the Arena of Hillsfar.
+
+Description
+The minotaur was well known around Hillsfar, and involved in a lot of drama. The superb gladiator was renowned for his cruelty and brawn, and fought with his horns, as well as his weapon. He had at least one servant do his bidding.
+
+History
+Taurus fought in the arena circa 1358 DR, and was a high ranked pugilist. He was a friend of Jared Jymn, who went missing that same year. Granite, a dwarf of the Fighter's Guild was commissioned to find Jymn, and worked his way through the arena to fight Taurus. After being questioned mid-fight, Taurus told Granite that he had left a message at Hermit's Place. Taurus followed up with an insult and an attack, but the ferocious Granite slammed the minotaur into the seating area of the stadium, defeating him.
+
+Due to jealousy, Taurus imprisoned the daughter of Diane, a resident of Hillsfar, in a mirror of life trapping. Only an honored mage would be able to break such an enchantment. Mhai Prittee, the mage who was inexperienced in hand-to-hand combat, had already achieved great honor, and thus was tasked with defeating Taurus in an arena duel, a seemingly impossible quest. The duel began, and Mhai did not fair well, being knocked to the ground by Taurus' quarterstaff, and faced certain defeat. However, Mhai's crafty frog pet, Dodo, tripped Taurus up with his huge tongue, giving Mhai the opportunity to knock him out, ending the battle. Prittee then located Taurus' mirror and destroyed it, freeing Diane's daughter.
+
+Appendix
+Appearances
+Video games
+Hillsfar
+References
+
+---
+
+## Talon (disambiguation)
+
+Talon may refer to:
+
+ Talon, a highly enchanted and powerful longsword found in Darkmoon.
+ Talon (Phandalin), an enchanted longsword found in Phandalin.
+ Talon Everhale, an adventurer from Icewind Dale.
+ A talon, a member of the Talons of Justice order of paladins.
+
+---
+
+## Talon (Phandalin)
+
+Talon was an enchanted longsword that belonged to the knight, Sir Aldith Tresendar.
+
+Description
+The sword, which had a +1 enchantment, was beautifully crafted. Its silver hilt was shaped into that of a bird of prey mid-flight.
+
+History
+In 951 DR, orcs attacked Tresendar Manor, where the owner of Talon lived. Blackhawk, formally known as Sir Aldith Tresendar, used the longsword to fend off many of the orcs in the caverns of his manor. Blackhawk was slain, and Talon was lost. Over 500 years later, it was found by a nothic that was under command of Iarno Albrek.
+
+Notable Owners
+ Aldith Tresendar
+
+Appendix
+References
+
+---
+
+## Targor Bloodsword
+
+Targor Bloodsword was the ambitious leader of a goblinoid war band of the Cragmaw tribe.
+
+Description
+Targor led three other hobgoblins and a pair of wolves in his contingent. He was by far the most powerful of the band, being a very robust one of his kind.
+
+Personality
+The strong hobgoblin had long wished to overtake King Grol as the leader of the entire Cragmaw tribe. Given the opportunity, Targor was ready to take it.
+
+History
+In 1491 DR, Targor and his contingent set out of Cragmaw Castle. They encountered a hunting party of up to four elves, and were successful in slaying them. The hobgoblins severed the heads of the elves, and shoved them into bags.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tal Hannefar
+
+Tal Hannefar was a town guard who lived in the settlement of Idyllglen.
+
+History
+Tal was present in Idyllglen when Yeenoghu assaulted the settlement with his demonic horde. During the battle, Tal and the other guards bravely defended their fellow citizens, but were covered in demon ichor. This caused them to go insane and crave the flesh of humanoids.
+
+Appendix
+References
+
+---
+
+## Tarina
+
+Tarina was the alias of a former pirate that sailed the seas of Faerûn during the late 15 century DR, before "settling down" in the city of Baldur's Gate on the Sword Coast as an agent of the Guild.
+
+History
+Tarina, or  Rhonda Thunderbell as she was then known, "earned" her wealth by stealing from her comrades, after months aboard the Uncivil Serpent under the captaincy of Murosko Sessprin. She ran off before they could catch her and get their revenge.
+
+After slipping away into hiding in Baldur's Gate, she made friends with Nine-Fingers Keene of the Guild. She began working as a spy for the notorious thieves' organization.
+
+In the, after over six months since her betrayal, she began to hear rumors that the crew of the Uncivil Serpent had finally pursued her to her new home.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+ Baldur's Gate: Descent into Avernus
+
+References
+
+---
+
+## Tashad
+
+Tashad was a barber, healer, and surgeon from Zakhara who plied her trades in the city of Sigil in the Outlands.
+
+History
+Tashad was transported to the Outer Planes after an unfortunate altercation with a marid. When she discovered Sigil she decided to settle in the city, opening a shop in the Lower Ward near the Shattered Temple.
+
+Activities
+Although her primary business was providing haircuts and shaves, she also provided healing and surgery to paying customers. The Athar were frequent patrons of her shop.
+
+The door to her shop served as a portal to the Plain of Infinite Portals in the Abyss, though it was only active five days per month. Patrons could access the portal for the price of a shave and a haircut. Tashad could close the portal prematurely by closing the door to her shop.
+
+She was a member of Sigil's Free League.
+
+Appendix
+Appearances
+Adventures
+In the Abyss
+References
+
+---
+
+## Talona's grimace
+
+Talona's grimace was a lung disease that slowly drained the health of the infected being.
+
+Infection
+One could only catch this disease from being caught within the Talonite spell, cloud of pestilence, for a prolonged period.
+
+Effects
+Once contracted, the movement of the diseased creature was slightly reduced. Their facial muscles would sometimes tremble and twitch, giving rise to a grimace, hence the name of the condition. From day to day, the infected being would lose health until they died.
+
+Curing
+Talona's grimace could be cured by magical or natural means (via herbal medicine).
+
+Appendix
+References
+
+---
+
+## Tanglefoot bag
+
+Tanglefoot bags were a means of throwing an alchemical goo to entangle an enemy.
+
+Description
+A tanglefoot bag was usually round and made of leather and weighed about . It was designed in such a way as to open up when thrown to disperse the thick goo inside. The goo hardened rapidly when it came into contact with air, so if it splashed over a creature, it could effectively glue that being to the ground.
+
+A standard tanglefoot bag contained enough alchemical goo to cover a large creature. If thrown upon a flying creature, it would harden around wings and prevent flight. The goo would not harden underwater; it required contact with air.
+
+The hardened goo quickly became brittle after as little as a dozen seconds or so and cracked apart. Universal solvent quickly dissolved it.
+
+Crafting
+Skill in alchemy was required to make a tanglefoot bag.
+
+Availability
+Tanglefoot bags were typically sold in alchemists' shops for around 50 gold pieces.
+ Old Angrath's Smokehouse in Red Larch, being a business run by an alchemist, sold tanglefoot bags.
+ Almaes the Alchemist's shop in Ashabenford sold tanglefoot bags.
+ Valas Jaelre, a drow wizard, sold tanglefoot bags to other drow in Cormanthor.
+ Tanglefoot bags could also be purchased from the gnomes of Thunderstone.
+
+Notable Users
+Groups
+ The Howling Wing, a band of kir-lanan, often used tanglefoot bags against flying opponents.
+ The armies of the Nine Hells often used tanglefoot bags against winged angels and archons.
+Races & Sentient Creatures
+Githyanki: this militaristic race of creatures from outside of Toril was known to arm their soldiers and captains with several types of thrown weapons, including tanglefoot bags and thunderstones.
+
+Appendix
+See Also
+ Wand of viscid globs
+Notes
+
+Appearances
+
+References
+
+---
+
+## Tahani
+
+Tahani was an innkeeper inhabiting Dihliz in 1367 DR.
+
+Activities
+Tahani owned The Steel Serpent inn, catering to lowly adventurers and travelers who could not afford better accommodations. If the coin was right, Tahani had no qualms about revealing the locations of hidden ruins.
+
+History
+Tahani was a successful treasure hunter in her youth.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Talking Troll
+
+The Talking Troll was a rundown tavern located in the town of Triboar in the Savage Frontier in the mid-to-late 14 and late 15 centuries DR.
+
+Structure
+While it had always been poor quality, decades of neglect saw it literally falling apart by the late 1400s DR. Sometime after 1485 DR, part of the roof had burned and the hole wasn't repaired for at least two years. This allowed birds to come in, make nests in the beams, and leave their droppings on the furniture and floors
+
+Interior
+It smelled bad, was poorly illuminated, had low beams overhead, and was stuffed with a hodgepodge of over-large, well-worn, second-hand furniture. The least amount of effort and care were put into its maintenance and upkeep in the late 1400s DR.
+
+Atmosphere
+Naturally, the Talking Troll was a complete dive by the standards of Waterdeep. Its patrons were drunkards just as old and ramshackle as its furniture.
+
+Services
+Despite its many flaws, the Troll boasted a wide variety of ales, lagers, and stouts from its abundant cellar.
+
+History
+In the late 15 century DR, the owner of the Talking Troll fled Triboar following a scandal. It was then "inherited" by Kaelen Sarssir, an aspiring thespian, by 1485 DR. He sought to remake the tavern as a playhouse, but lacked the necessary resources, as well as the necessary initiative. He spoke of his plans with new patrons, in the hopes of enticing one to donate or become a sponsor or even a partner.
+
+Patrons
+After he was regrettably assigned to the post of the Allfaiths Shrine in Red Larch, a priest of Helm named Silvarren Loomshank delayed his journey in Triboar, and spent his time getting deliriously drunk and racking up a bar tab in the Talking Troll.
+
+Appendix
+See Also
+ Triboar playhouse
+
+Appearances
+
+References
+
+---
+
+## Tabati
+
+Tabati was a female invisible stalker inhabiting the Cities of the Ancients region of east Zakhara in 1367 DR.
+
+Description
+Tabati stood 8 feet (2.4 meters) tall.
+
+Activities
+Tabati was tasked by the sha'ir Raja al-Sadiq with recovering a unique seal and killing whoever possessed it. Raja provided Tabati with a brief description of the beggar who stole the seal, but Zakhara was filled with plenty of individuals matching the description. By chance Tabati spotted the seal in the possession of Adil al-Muluki in Muluk and immediately slew him and grabbed the seal.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Taman
+
+Taman was a looter under the command of Gimblebock in the late-15 century DR.
+
+Description
+The half-elf had short dark hair and wore a green jerkin. He appeared to be very cautious.
+
+History
+In the 1490s DR, Taman and his fellow looters were trying to find their way into a crypt. A few days later, a nautiloid crashed close to their location. The leader, Gimblebock, wished to loot it straight away, but Taman was not so convinced.
+
+Appendix
+Appearances
+Video games
+ Baldur's Gate III
+Gallery
+
+References
+
+---
+
+## Talis (city)
+
+Talis was an ancient ruined city built by the Talfirc people.
+
+Geography
+The city was located in the Reaching Woods near the River Reaching, close enough to sound like thunder.
+
+Description
+The road paving stones were intact, except that plant life grew between the cobbles. Most of the buildings had fallen into piles of stones, with vines and trees growing over them. The Talfirc had built a bridge across the River Reaching. Unfortunately, the river had changed its course over the years until it no longer passed under the bridge.
+
+Defenses
+In the city, there was a stone pyramid, and atop of it was a golden orb. If one touched the orb, it would activate and a bolt of green lightning from the sky hit the orb, the stairs of the pyramid would shift into a ramp, and a pit opened at the base of the pyramid. The pit was a spherical chamber. The sphere rotated to close the pit so that anyone who fell through the pit couldn't get out. The orb was used to defend Talis from its enemies. It was activated by the touch of magic.
+
+History
+No one knew what happened to the Talfirc, they disappeared centuries before the 1300s DR.
+
+In 1364 DR, the reformed Fellowship of the Dreaming Dragon passed through the city after escaping shadevari.
+
+Inhabitants
+ Isela
+
+Appendix
+
+See Also
+ Talfirc prophecy
+
+Appearances
+ Curse of the Shadowmage
+ Lost Empires of Faerûn
+
+References
+
+---
+
+## Talfirc prophecy
+
+The Talfirc prophecy was an ancient prophecy of the Talfirc people.
+
+According to the witch Isela, in ancient times, there was an oracle who was the leader of a Talfirc tribe. The oracle went to a certain location and said that a child marked with magic would save the Talfirc. The child would go on a quest to defeat a darkness like no other. However, someone had to help the child when he came, and thus the Talfirc built the city of Talis on the spot and waited for the child to come.
+
+But the child never came and the Talfirc disappeared, Talis was ruined, and the prophecy forgotten by all but the the witch Isela, who dwelled there in the mid–14 century DR.
+
+Then, in the, the reformed Fellowship of the Dreaming Dragon, accompanied by Cormik and Jewel Talondim arrived in Talis after they escaped the hands of the shadevar. Kellen Caldorien was the child wizard of the prophecy, and his father, Caledan Caldorien, was becoming the next Shadowking, the darkness that the child must defeat.
+
+Appendix
+Appearances
+ Curse of the Shadowmage
+
+References
+
+---
+
+## Talon of Umberlee (adventure)
+
+Talon of Umberlee is an an organized play adventure in the Lair Assault series for 4 edition Dungeons & Dragons.
+
+Index
+Characters
+ •  •
+
+ •  •
+Creatures
+ •  • human •  •
+Locations
+Murdershoal •
+
+ •  •
+Magic
+Items
+ •
+
+Organizations
+Tidescourge Pirates
+Religions
+Umberlee
+Miscellaneous
+Vessels
+Caravel • Rowboat
+Ships
+Floating Cask • Neverwinter's Pride
+
+Appendix
+Gallery
+
+---
+
+## Tantlin
+
+Tantlin, the City of Ice, was the largest city in Stygia, the 5 layer the Nine Hells occupying the most vast and central of its titanic icebergs. Its title was well-deserved, for every street and structure was in some way formed using ice. In the middle of the "harbor", which bordered on one side of the nearby River Styx, floated the iceberg prison of the ruling archdevil, Levistus, at least when it was not uncontrollably cruising across Stygia.
+
+Description
+Like the lesser settlements of Stygia, Tantlin was built atop an ice floe. Every structure and street in the ice-encrusted city was either carved directly from ice, including that of the iceberg it sat upon, or created by pouring water into shaped molds and freezing it. The city was arranged in concentric circles, and its translucent, serrated spires rose high into Stygia's twilight sky.
+
+Geography
+The Stygian swamp curved about Tantlin for slightly less than half the run of its walls. Mountains surrounding the city held major quarries that were mined for granite, basalt, marble, and chalk.
+
+Government
+Tantlin's social structure was a strict hierarchy embodied in its physical layout. A baatezu's neighborhood in the City of Ice was dependent on its influence in the power structure. The closer to the center a baatezu lived, the higher their station, with the inner areas being reserved for the most powerful devils while extra-planar visitors were confined to the outermost ring along with the lowliest of infernal wretches. Entering a quadrant beyond one's station was an offense punishable by immediate execution.
+
+Trade
+Throughout its known existence, Tantlin was an important hub of trade. During Geryon's reign, the quarries nearby provided structural stone to the other Nine Hells. Furthermore, during this period it was richly provisioned, furnished, and crammed with centuries worth of baubles, treasures seized by or gifted to Geryon over the course of centuries. These had been plundered before he controlled Stygia during pillaging expeditions where he sought out the most dangerous and wealthy foes. Rather than coinage, his treasures took the form of statues, idols, furniture, tapestries, and unusual or gaudy ornaments (such as a giant gemstone as opposed to tiny, exquisite, and ultimately common ones).
+
+After the rise of Levistus, even during its more anarchic period, Tantlin remained an important trade post, a place where commerce and intrigue came together. The city received many of the souls brought to Stygia by Levistus's fleet. However, the biggest industry for devils in Tantlin after Levistus fully asserted control was paperwork. The scriveners of Tantlin transcribed various books, contracts, magic scrolls and other documentation, taking assignments  from all the other Hells. For the most part these were uncountable numbers of boring reports, but sufficient sifting through the calligraphy workshops might produce a scrap of information genuinely useful to a given investigator.
+
+Tantlin was important even beyond the context of the Nine Hells. The sea surrounding the city contained many drifting, icy, well-guarded portals that linked the Styx to the Prime Material Plane, and even amid constant gang violence, merchants and caravans traveled to and from Tantlin with goods from other lower planes. Even mummies and liches were known to occasionally travel from Ankhwugaht to engage in commerce with Levistus's devils, and though the sahuagin of Sheyruushk (accessible from an iceberg valley hidden just a short distance from Tantlin) did little commerce,  they were known to take non-sahuagin on squid hunts or provide extra muscle.
+
+All of this meant that, despite being deep in the middle of Hell itself, Tantlin was a major cross-planar trading hub that received  traffic from non-devils second only to Dis. However, many among these non-devils were tolerated only if a powerful devil (such as a pit fiend or war devil) guaranteed their safe passage, and most would be forbidden from entering the deeper circles of the City of Ice.
+
+Defenses
+There was little shelter in Stygia beyond Tantlin, although even then it didn't protect an extra-planar traveler from the layer's cold. It was described as having high stone walls during the rule of Geryon. Ironically it's newer, concentric structure made it somewhat vulnerable to attack, since raiders could safely plow through the outer boroughs and retreat upon encounter sufficient resistance.
+
+Inhabitants
+The devils of Stygia were resistant to the cold, and so to them Tantlin (and other Stygian cities) were normal, comfortable environments. Despite this, the streets of Tantlin were at one point, due to one of Levistus's longer-running schemes, filled with sluggish and emaciated devils desperate to consume a single soul.
+
+Lurking within the City of Ice was the greatest concentration of amnizu in all the Nine Hells. The lowliest of lemures and bitterest of nupperibos were exiled the the outskirts of the city.
+
+Notable Locations
+Levistus's tomb was technically a location within Tantlin, but only when it occupied the harbor and wasn't being caught in currents or lodged in-between icebergs elsewhere in Stygia, which could happen for years at a time. Despite his condition however, Levistus was fully aware of his layer and was capable of enacting his will through telepathy and servitors.
+
+History
+During Geryon's reign, Tantlin was more accurately described as his giant castle. Seldom did he leave, for he delighted in battling and hunting lesser devils and intruders throughout its massive, labyrinthine halls or the gravel-strewn mines nearby. While his master was hunting, it fell to his magistrate Herodias to assume command of the city's defenses.
+
+When Geryon was deposed by Asmodeus and Levistus rose to power, Tantlin fell into a state of anarchy due to the leadership of the pit fiend who had taken control of the City of Ice. Though her name was unknown, her presence was feared since it usually doomed whoever was unfortunate to be it. She ran the city as if conducting some demented social experiment, with her only law being that the strong should survive.  She was an indiscriminately violent devil who governed haphazardly, rarely stirring from her citadel only for random executions. The only reason her outbursts were the exception rather than the rule seemed to be because Levistus kept her busy.
+
+Because of this pit fiend's "off-handed" approach and flexible regimentation, Tantlin was overtaken by motley gangs of assorted baatezu and other evil beings from throughout the planes, each regularly warring and vying for control in an attempt to dispense their own brand of law at each other's expense. Each controlled a section of the city and hoped to expand their territory, only refraining from damaging those important to the city's welfare (such as traders or petitioners involved in repairs) for fear of causing the pit fiend to rise up and root them out.
+
+So violent did Tantlin become that the dukes of the previous regime (who lived in fiefs outside Tantlin) were encouraged to prove themselves by battling for supremacy in the City of Ice under the watchful eye of the pit fiend, resulting in the death, disappearance, or exile of the great majority of them. With the streets in disarray, the rulers of Stygia dying, and the pit fiend ruler acting as a mad queen, something had to change in Tantlin. The chaos had become so encompassing that Levistus's rivals were questioning his lawful credentials.
+
+Before outside criticism reached a crescendo, Levistus reinstated his authority by rewarding the survivors of this period with positions and promotions. His amnizu factorums meanwhile dealt with the one responsible for the city's descent, freezing the unnamed pit fiend of Tantlin was frozen where she stood before she was promptly shattered into a million shards. Her pieces became highly coveted collectibles in Stygia, wearable as pendants to confer strength and endurance (although exposure to above-freezing temperatures would quickly cause them to thaw into gobbets of useless, rotting devil flesh). From there, Tantlin's social structure refroze into its more modern form.
+Appendix
+
+References
+
+---
+
+## Tantor Dauntinghorn
+
+Tantor Dauntinghorn was an envoy of King Azoun IV of Cormyr in the mid–14 century DR.
+
+History
+In the, he was sent by his king to Shadowdale to support the dale against Zhentil Keep, at the invitation of Lord Mourngrym. However, the Cormyrean crown also wanted to learn about the death of Elminster and for this he argued with the War Wizard delegate Luthtor of Suzail and Shaerl Mourngrym, but they were revealed to be the malaugryms Argast and Amdramnar in disguise.
+
+Appendix
+
+Appearances
+All Shadows Fled
+
+References
+
+---
+
+## Talisman of force
+
+A talisman of force was a powerful defensive handglyph used by the Geomancers of Kadar to erect a protective shield.
+
+Powers
+When activated this item created a sphere of force that was  in diameter and centered on the wielder. The protective barrier lasted for 24 minutes before dissipating.
+
+Most talismans of force had between 2—8 charges. They could be recharged, but the process for doing so was known only to a select few wizards in Rog'osto.
+
+Description
+These items could be found in a variety of shapes and sizes.
+
+Appendix
+References
+
+---
+
+## Talisman of divining
+
+A talisman of divining was a useful handglyph used by the Geomancers of Kadar as a divination tool. These items were the only non-deadly handglyphs created by the geomancers.
+
+Powers
+There was quite a variety in the forms of divination of these talismans could provide. Examples included the detection the following categories: magical and mundane traps, good and evil, undead, gems, precious metals, poison, magic, invisibility, and secret doors. Regardless of the type, a talisman of divining offered detection within a  radius. Physical barriers did not hinder the powers of detection. Strangely, the detection was blocked by liquid barriers of alcohol, salt water, iodine, or quicksilver.
+
+Most talismans of divining had between 1—100 charges and could be recharged.
+
+Description
+These items could be found in a variety of shapes and sizes.
+
+Appendix
+References
+
+---
+
+## Tarrant
+
+Tarrants were a species of scarlet-feathered birds. They were known to inhabit the Pellamcopse Woods outside of Waterdeep and were good for food.
+
+History
+The wood elf Lynx, an apprentice of Blackstaff Tower, gathered a brace of tarrants in Uktar of, on a hunting party with peers when she was a new student.
+
+Appendix
+Appearances
+ Blackstaff
+
+References
+
+---
+
+## Tarseth
+
+Clan Tarseth was one of the warrior clans of Tethyr's First Age.
+
+Organization
+The clan was led by a chieftain.
+
+Base of Operations
+The clan's territory was in the region of the town of Velen, in the Dragon's Head Peninsula, and its manor house was Millvuthan.
+
+Relationships
+One of the clan chieftains married the daughter of Selanlar of the Tethir tribe of elves. His oldest half-elven daughter, Saraala, married King Darrom Ithal to become the first queen of Tethyr. The marriage helped to unite the clans and strengthen relations with their elven neighbors in the Forest of Tethir.
+
+Members
+ Saraala Tarseth, who became Queen Saraala Ithal.
+ Amir Tarseth I, brother of Queen Saraala and chieftain of the clan in .
+ Amir Tarseth II, son of Chieftain Amir I.
+ Ra'id Tarseth II, another son of Chieftain Amir I.
+
+History
+Tarseth was one of the early clans present during the founding of Tethyr. The marriage of Saraala Tarseth to King Darrom in the  helped unify the clans for a time; however, Saraala's own brother Amir I was responsible for the assassination of the king in .
+
+To restore the clan's honor, Chieftain Amir's two sons, Amir and Ra'id, killed their own father in support of their cousin Silvam Ithal, who took the throne of Tethyr in his dead father's stead.
+
+The entire clan died out in the, when a massive tidal wave engulfed the city of Velen, slaughtering half of the town's population. (Even as late as, ghosts from Clan Tarseth still haunted the manor house of Millvuthan, then owned by the count of Firedrake. On Midsummer's night, the anniversary of the tidal wave, the screams of all the drowning souls and the roar of the wave itself could be heard in the physical realm.)
+
+After –133, The clan's lands became a royal protectorate overseen by Prince Tyrom Ithal.
+
+Appendix
+References
+
+---
+
+## Tavihr Dynasty
+
+The Tavihr Dynasty was the second of six dynasties of the Second Age of Calimshan.
+
+Organization
+Like the rulers before them, the leaders of the Tavihr Dynasty were bakkals, or high priests of their people.
+
+Activities
+The harsh and corrupt rulers of this dynasty actively sought to expand the territory of the empire. They were the ones to first add the territories of Tethyr and the Purple Hills as emirates to the empire, enslaving the lighter skinned Tethyrians.
+
+The Tavihr Dynasty built garrisons and fortresses in the Iltkazar Range to defend against organizing groups of ogres and giants. These were located primarily near the Omlarandin Mountains south of the Wurlur.
+
+Technology
+The Tavihrs adapted the reed boats used in coastal trade for military uses, creating Calmishan's first navy. They made use of bronze and iron weapons and armor for the first time, technology stolen from the dwarves of High Shanatar.
+
+Base of Operations
+The bakkal's palace was located in the city of Calimport.
+
+History
+The Tavihr Dynasty succeed the previous Pahlemn Dynasty in .
+
+The time of the Tavihr Dynasty was a time of wars. The bakkals fought long against the dwarves of High Shanatar and eventually led to their downfall in circa  in a final battle on the northern shores of the Sulduskoon River.
+
+The Tavihrs were prevented from expanding farther north than the Purple Hills by the great forests and the elves who guarded them.
+
+In, the Iltkazar garrisons witnessed a strange occurrence in the skies, when three beholder colony ships crashed into the Alimir Mountains on a stormy night in Tarsakh.
+
+The surviving beholders soon attacked the eastern troops, initially overwhelming them, but the bakkal's armies eventually were able to drive the eye tyrants back into the mountains.
+
+The dynasty ended in the same year, when the dynasty's last bakkal and his twelve heirs were all assassinated during their victory celebration over the beholders. The entire palace was set ablaze by the assassins, and the conflagration spread into the western half of Calimport, destroying much of the city.
+
+The Tavihrs were succeeded by the Erehnir Dynasty.
+
+Trivia
+One of the sabbans in the city of Calimport was named after this dynasty. Tavihr Sabban contained about nine-tenths of Armada Ward's buildings and businesses.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Talgos Twilight
+
+Talgos Twilight was a thief and guest of The Redmark inn in the town of Harrowdale in 1367 DR.
+
+Activities
+Talgos recently acquired unwanted attention in Impiltur, perhaps enough to force him to make his way to Harrowdale where he ransacked his room at the Redmark in search of something particular.
+
+Appendix
+References
+
+---
+
+## Tanystropheus
+
+Tanystropheus  was a species of dinosaur.
+
+Description
+Tanystropheus had a long, serpentine body with four thin legs. Most of their body was composed of its neck. It had a small head and long jaws filled with sharp teeth.
+
+Combat
+Tanystropheus were ambush predators. They hid just under the water, waiting for prey. Then launched themselves from the water and grabbed onto their target, dragging it back under. It was strong enough to drag prey that weighed up to .
+
+Abilities
+Tanystropheus were excellent swimmers due to their webbed rear feet.
+
+Ecology
+Tanystropheus were carnivorous and solitary creatures.
+Habitats
+Tanystropheus were most often encountered in rivers and swamps. On the continent of Kara-Tur, they could be found on the Malatran Plateau in the Riving of Laughing Idols.
+
+Appendix
+Notes
+
+Appearances
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Talking owl
+
+Talking owls were particularly wise owls that could speak many languages.
+
+Society
+Habitats
+In the wilds of Faerûn these creatures could be found in the Tun Marshes, Cormanthor, Cormyr, Sembia, the Dalelands, and in the land of Thar.
+
+Beyond Faerûn, talking owls could be found in the Katakoro Plateau.
+Relationships
+Powerful Zakharan bards were known to take talking owls as followers.
+
+Eldath sometimes acted through talking owls.
+
+Summoning
+Talking owls could be summoned using the find companion spell.
+
+Notable Talking Owls
+ Fray, a talking owl that lived around Silverbark's forest.
+ Isimud, the leader of the Untheric Enclave, had a talking owl named Ibuth as a familiar.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tabitha (paladin)
+
+Tabitha was a paladin who had sworn to protect the Temple of Lathander in Myth Drannor in the .
+
+Description
+The paladin had scarlet hair, and teal eyes. She wore a plate mail +2, a ring of feather falling, and a holy symbol. Tabitha carried a long sword +2.
+
+History
+Tabitha lived in the Temple of Lathander inside Myth Drannor. When the Dark God's evil overran the place, she stood her ground and was barely able to drive back the shades, while sustaining nasty injuries in the process. She was disgusted by the amount desecration and defilement that had taken place in the temple.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Tangle
+
+Tangle was a reversed cantrip that acolyte wizards could learn. It was similar to the tie cantrip but only operated on finely stranded objects and could snarl dissimilar materials.
+
+Effects
+The target of this spell had to be within  of the caster. This cantrip only operated on thin strands of material such as grass, hair, loose string, loose thread, or the frayed end of a rope, but nothing as thick or heavy as a normal rope. It caused the material to become intertwined with itself or with a similar material in close proximity. The resulting snarl took several minutes to untangle without cutting, snapping, or tearing the threads.
+
+Components
+This cantrip required verbal and somatic components to cast. The caster twirled their finger as if stirring something while making a buzzing sound.
+
+Appendix
+See Also
+ Knot
+ Untie
+References
+
+---
+
+## Tarnish (cantrip)
+
+Tarnish was a reversed cantrip that apprentice wizards could learn. It was the opposite of the shine cantrip and caused an object to be covered in rust, verdigris, tarnish, or corrosion of the type to which the object was naturally susceptible.
+
+Effects
+The target of this spell had to be within  of the caster and could affect one object of up to  in volume. The surface of the object had to be made of a substance that was subject to corrosion of some kind typically caused by age, use, or environmental conditions.
+
+Components
+This cantrip required verbal and somatic components to cast. The caster pantomimed sprinkling something on a surface while making a spitting sound with the lips.
+
+Appendix
+See Also
+ Tarnish
+References
+
+---
+
+## Tap
+
+Tap was a haunting cantrip that apprentice wizards could learn. It applied a pulsed magical force to a nearby surface that simulated striking with a knuckle.
+
+Effects
+This cantrip had a range of  and produced a sound that could easily be heard by creatures with typical hearing capability that were within  of the target point. The target had to be a solid surface, such as a wall, door, lid, window pane, etc., in order to produce a sound. Tap applied a quick, sharp, but gentle magical force to the target surface one to three times in quick succession, depending on the somatic gesture.
+
+Components
+This cantrip required verbal and somatic components to cast. The caster used one, two, or three fingers to pantomime knocking on a surface—the number of fingers determined the number of raps. The verbal portion of the spell was either a magic word or a quiet imitation of a tap using the tongue against the upper palate.
+
+Appendix
+See Also
+ Thump
+Notes
+
+References
+
+---
+
+## Tairis
+
+Tairis was an employee of Kalas Winters, who worked as a barmaid at the Wolf's Pelt Inn in the Icewind Dale community of Targos circa 1369 DR.
+
+Description
+Tairis was an 18-year-old young woman with long reddish-blonde hair and bright blue eyes. She was  tall and weighed .
+
+Personality
+Even though Tairis was not particularly attractive or eloquent, she happily flirted with the guests of the inn, looking for a good husband.
+
+Possessions
+Tairis carried a kitchen knife with her in case of trouble.
+
+History
+Around Tarsakh in 1369 DR, Tairis worked behind the bar in Wolf's Pelt Inn, but often came out to wait on tables, if Parcilla needed aid.
+
+Appendix
+Appearances
+The Accursed Tower
+
+References
+
+---
+
+## Tanarukk bolt
+
+Tanarukk bolts were a type of crude, but effective crossbow bolt ammunition created by the tanar'ri-tainted orcs, Tanarukka.
+
+Powers
+These crude and heavy bolts possessed fire enchantments. Once fired, Tanarukk bolts started rapidly heating up, causing piercing, and additional searing damage to their targets.
+
+History
+Tanarukk bolts were used by the tanarukka and orc forces of the demon Gorgomorz, circa 1372 DR during the Zhentarim plot against Daggerford.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+References
+
+---
+
+## Tasha's bow
+
+Tasha's bow was a magic longbow that belonged to a famous elf hunter Tasha Moonsong.
+
+Powers
+Tasha's bow was a large weapon that allowed the owner to increase the shot's damage by applying their strength to have the bow overstrung. Additionally, the bow possessed a magical +1 enhancement and delt even more extra damage to reptilian enemies.
+
+History
+The bow belonged to the elf hunter Tasha Moonsong sometime before 1372 DR. The bow has been her trusty companion on a multitude of hunting expeditions. During one of those adventures, Tasha's bow helped her to kill a roc with a barrage of bullseye shots from 150 ft. away. During another adventure, the bow helped Tasha to hunt basilisk while blindfolded.
+
+The last known location of Tasha's bow was in the Lizard Marsh outside of Daggerford, when Tasha disappeared while hunting dinosaurs.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+References
+
+---
+
+## Tasha Moonsong
+
+Tasha Moonsong was an elven huntress made famous by her uncanny skill with a bow.
+
+Possessions
+The main item of note in her possession was Tasha's bow, a powerful longbow that was especially helpful against reptilian creatures.
+
+History
+Tasha Moonsong disappeared at some point before 1372 DR. She was an experienced huntress who embarked on numerous hunting expeditions. During one of those adventures, she was able to slay a roc with barrage arrow shots from 150 ft. away. Another adventure of note pitted her against basilisks while blindfolded to protect herself from their petrifying gaze.
+
+Tasha's last known location was the Lizard Marsh outside of Daggerford she went missing while hunting for prehistoric beasts that roamed the swamps.
+
+Appendix
+Appearances
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Tasha's Cauldron of Everything
+
+Tasha's Cauldron of Everything is a 5‒edition Dungeons & Dragons sourcebook focusing on Tasha's magical findings across the planes of the multiverse.
+
+Product Overview
+
+Index
+Characters
+Baba Yaga • Graz'zt •  • Tasha
+
+Creatures
+beholderkin • bullywug • deer • demon • genie • goblin • half-elf • homunculus • human • kenku • kobold • merfolk • mimic • pixie • satyr • tabaxi • tiefling • tortle • troglodyte • wood elf
+
+ chicken
+
+Items
+cauldron • ship • spear
+
+Locations
+Buildings
+Baba Yaga's Hut
+Planes
+Abyss • Arborea • Hades • Ysgard
+
+Organizations
+
+Magic
+Items
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+Spells
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+Weapons
+eldritch cannon
+Misc
+psionics
+
+Miscellaneous
+Subclasses
+ •  •  •  •  •
+
+Credits
+ Lead Designer: Jeremy Crawford
+ Art Director: Kate Irwin
+ Design: Dan Dillon, Ben Petrisor, F. Wesley Schneider, Elisa Teague
+ Additional Design: Bill Benham, Adam Lee, Ari Levitch, Christopher Perkins, Taymoor Rehman, Kate Welch, Ray Winninger
+ Rules Development: Jeremy Crawford, Dan Dillon, Ben Petrisor, Taymoor Rehman
+ Editing: Michele Carter, Christopher Perkins, Jessica Ross, F. Wesley Schneider, James Wyatt
+ Lead Graphic Designer: Trish Yochum
+ Graphic Designers: Trystan Falcone, Emi Tanji
+ Cover Illustrators: Wylie Beckert, Magali Villeneuve
+ Interior Illustrators: Mark Behm, Eric Belisle, Zoltan Boros, Christopher Burdett, Sidharth Chaturvedi, David Rene Christensen, Nikki Dawes, Olga Drebas, Caroline Gariba, Sam Keiser, Julian Kok, Titus Lunter, Andrew Mar, Marcela M edeiros, Brynn Metheney, Robson Michel, Scott Murphy, Irina Nordsol, Robin O lausson, Claudio Pozas, Livia Prima, April Prime, David Sladek, Crystal Sully, Brian Valeza, Svetlin Velinov, Anna Veltkamp, Shawn Wood, Zuzanna Wuzyk, Kieran Yanner
+ Concept Illustrator: Shawn Wood
+ Project Engineer: Cynda Callaway
+ Imaging Technicians: Kevin Yee
+ Prepress Specialist: Jefferson Dunlap D&D GAME STUDIO
+ Executive Producer: Ray Winninger
+ Principal Designers: Jeremy Crawford, Christopher Perkins
+ Design Manager: Steve Scott
+ Design Department: F. Wesley Schneider, Dan Dillon, Adam Lee, Ari Levitch, Ben Petrisor
+ Senior Art Director: Richard Whitters
+ Art Department: Kate Irwin, Emi Tanji, Trish Yochum, Shawn Wood
+ Senior Producer: Dan Tovar
+ Producers: Bill Benham, Lea Heliotis
+ Director of Product Management: Liz Schuh
+ Licensing Manager: Hilary Ross
+ Product Managers: Natalie Egan, Chris Lindsay, Hilary Ross
+ Brand Manager: Shelly Mazzanoble
+ Publicity: Greg Tito
+ Community Management: Brandy Camel
+
+Trivia
+ The dragonborn cleric of the Order domain is shown to have a wanted poster with the name and face Kelek upon it. Kelek later appeared in the adventure The Wild Beyond the Witchlight.
+
+Appendix
+External Links
+
+Connections
+
+---
+
+## Tallfellow halfling
+
+Tallfellows were a subtype of lightfoot halflings native to both Toril and the planet of Oerth,In early Dungeons & Dragons settings the tallfellows were just one of the three standard subraces of halfling and thus were mentioned in Forgotten Realms sources on rare occasions. The Player's Handbook of 5 edition retconned them as being the Greyhawk setting's equivalent to the lightfoot. However, because they were considered distinct from hairfeet (the precursor to lightfoots) for the first three editions, they are treated here as a distinct race. that stood out from other halfings due to their height and what some described as an elven-like appearance.
+
+Description
+The builds of tallfellows was rather rare among halfling races, as well as other lightfoots. They had light bones, slimmer bodies, as well as fairer complexions and hair. They also typically were taller, growing to heights of . Their feet were covered in sparse, fine hairs.
+
+Some described the appearance of tallfellows as being very elven-like, with some sages having speculated that they had traces of elven ancestry. In addition, tallfellows were more perceptive than other lightfoots, in a similar manner to elves, though less athletic. They also had shorter lifespans, averaging 180 years.
+
+Tallfellows tended to wear their hair long, sometimes with small, brightly colored caps. They generally shunned footwear and tended to wear clothes in shades of yellow, brown, green, or tan, feeling such colors allowed them to better hide in their woodland homes. They developed several vibrant shades of green through the use of unique dyes.
+
+Combat
+The tactics and weaponry of tallfellows were largely similar to those of other lightfoots. However, they were also known to fight with spears, and small lances. With these weapons they favored taking porcupine-like formations.
+
+Tallfellows also tended to take up the life of a fighter, rogue, or forester. They often served in armies as light lancers or horseback archers, typically mounted atop ponies or very rarely dire wolves.
+
+Society
+Much like their kin, tallfellows tended to be entertainers (musicians) or craftsmen, engaging in jobs such as carving and pipesmithing. But they were particularly renowned for being skilled carpenters. Other tallfellows were known to work as cheese-makers, dairy farmers, hunters, loggers, scouts, shepherds, and stablemen. They tended to be better skilled at farming than stout halflings.
+Diet
+Much like other halflings, tallfellows were an omnivorous people. They loved breads, fruits, vegetables, and the occasional pheasant. They were very skilled at foraging, often gathering berries, nuts, roots, and wild grain more deftly than other races.
+Lairs
+Tallfellows typically lived above-ground in spacious, wooden houses with many windows. though some lived in hollowed out trees. Like many halflings, they tended to keep their windows open in order to allow for fresh air. Tallfellow homes were often constructed in such a way to take advantage of areas where gentle breezes were common. They also typically had cellars for storage that they would relax in during hot summer days.
+Homelands
+Tallfellows commonly inhabited temperate forests or hills. On Toril they were known to be found in Calimshan, Cormanthor, High Forest, Silverymoon, Waterdeep, and a fertile stretch of land in southern Damara known as the Halfling Downs.
+
+Languages
+In addition to knowing Common and the Halfling language, it was very common for tallfellows to know Elvish. Many tallfellows also knew how to speak the languages of fey and fey-related creatures, including brownies, pixies, satyrs, sprites, centaurs, and dryads.
+Religions
+Tallfellows typically worshiped the halfling deities Arvoreen, Brandobaris, Cyrrollalee, Sheela Peryroyl, Urogalan, and Yondalla. Others were known to sometimes pay homage to individual deities of the Seldarine pantheon, such as those who lived in or near elven woods — they paid homage to Rillifane Rallathil.
+Relationships
+Tallfellows particularly had very friendly relationships with elves on Oerth and elsewhere, greatly enjoying their company. Their attitude towards drow was generally neutral. Some tallfellows could even be found living in elven communities, or in villages close to them that engaged in active trade, while others lived close to humans. In at least one kingdom on Oerth, they even lived peacefully alongside stone giants. On the few occasions that tallfellows met kender, they adopted them as honorary cousins of halflings.
+
+History
+In the, sages studying the halfling diaspora in Calimshan speculated that tallfellows had traces of elven ancestry. In evidence of their theory, they cited old elven records from Wealdath. These told of runaway halfling slaves from the Calim Empire who took refuge in the Darthiir Wood and merged with the elven communities there-in for several generations before eventually leaving to found their own.
+
+By 1371 DR, tallfellows made up 15% of the overall halfling population on Toril.
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Tahazzar
+
+Tahazzar was a tanar'ri demon from the Abyss, who became trapped in Watcher's Keep during the mid–14 century DR.
+
+Abilities
+Tahazzar possessed some inherent resistances and immunities that were typically found among fiends, including a form of natural regeneration.
+
+Possessions
+He had managed to located one of the scepter gems of the scepter of radiance, the item that granted passageway to the fourth level of Watcher's Keep.
+
+Activities
+Tahazzar led a band of demons that were engaged in the battles of the Blood War. He sought the heart of the baatezu Ka'rashur, who led a group of devils the demons sought to slay.
+
+History
+At some point, Tahazzar and his demons along with Ka'rashur and his devils became trapped within Watcher's Keep on Faerûn. The two groups of fiends continued their feud within the Maze Level of the keep.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate II: Throne of Bhaal
+
+External Links
+
+References
+
+---
+
+## Takahiro
+
+Takahiro was a shogun of Wa who ruled around 1640 (1222 DR).
+
+History
+In the late 1630s, Takahiro forgave Eiji Toda, the young and inexperienced daimyo of Aru Province, for failing to stop the resurgent bandit attacks that devastated the pilgrim trains traveling to Aru. Then, in 1640 (1222 DR), a foreign raiding party (possibly from Shou Lung) made it to Aru's outskirts and razed part of the Eta District. This failure was too great and Takahiro removed Eiji from office.
+
+Appendix
+Name
+In Ninja Wars, he is named "Takahiro Nagahide", but it's clear the author misunderstood "Nagahide" as the family name of Matasuuri Nagahide, when it's actually his given name. Moreover, the Matasuuris took power in 1663 (1245 DR), after Takahiro's reign, so he is unlikely to be a Matasuuri either. Other possibilities are the Nitta clan of early shogun Nitta Shogoro and the Hidetomi clan said to be the shoguns of Wa in Oriental Adventures, page 137. With no further information, this article adopts only the given name "Takahiro".
+
+References
+
+---
+
+## Tawata Road
+
+Tawata Road was the busiest road in Wa, connecting two of its largest cities.
+
+Geography
+The road began at the city of Uwaji and traveled north along the eastern coast of Tsukishima, parallel to the Akano River, until it reached the city of Rukimbaru.
+
+Appendix
+References
+
+---
+
+## Tatyana
+
+Tatyana was a young Barovian woman. When count Strahd von Zarovich fell desperately in love with her, his unrequited obsession drove him to seal a pact with the Dark Powers, turning him into a vampire and plunging the entire valley into the Domains of Dread.
+
+Description
+Tatyana was extraordinarily beautiful. She had auburn hair.
+
+History
+Originally a peasant woman from the village of Barovia, Tatyana was in love with and engaged to marry Sergei, Strahd's brother. However, Strahd fell madly in love with Tatyana immediately upon seeing her. Strahd's pride prevented him from voicing his feelings until their wedding day, when he killed his brother and drank his blood as part of a deal with the Dark Powers to make Tatyana his bride. Horrified by what Strahd had done, Tatyana jumped from the cliff that overlooked the valley below Castle Ravenloft.
+
+As part of the deal made with the Dark Powers, Strahd was not allowed to die, rising as a vampire after being shot by the castle's guards. Tatyana's soul became trapped in the newly formed Domain of Dread of Barovia, doomed to repeatedly reincarnate as part of the Dark Powers' punishment against Strahd.
+
+Sometime before the, a fragment of Tatyana's soul managed to escape her prison in Barovia and found its way to Waterdeep, taking the form of Anna, an incurably insane woman who had been locked up in an asylum. There, she was found by the vampire Jander Sunstar, who fell in love with her and took care of the traumatized woman. In Midwinter of the, when an unaging Anna fell grievously ill, Jander drank her blood until she died, and then proceeded to find the one responsible for her condition in Barovia.
+
+In the late 15 century DR, Tatyana reincarnated again as Ireena Kolyana.
+
+Appendix
+Appearances
+Adventures
+Curse of Strahd
+Novels
+Vampire of the Mists
+Miniatures
+Icons of the Realms
+Organized Play & Licensed Adventures
+The Darklord
+
+External Links
+
+References
+
+---
+
+## Tabard of the mystics
+
+A tabard of the mystics was a type of enchanted tabard. Its construction process was difficult, expensive, and known to only few.
+
+Description
+These tabards consisted of green cloth with gold trim and a stiff, stand-up flared collar. Powdered gold and serpentine were worked into the very fibers of the tabard.
+
+Powers
+Those who wore one of these tabards became impossible to burn and nearly impervious to harm from fire. They also became immune to the effects of scarab of insanity and had greater probability at resisting magic jar.
+
+Symbol could be cast upon the tabard, rendering it invisible until it was touched and a command word was spoken or the garment was removed without a command word spoken.
+
+Magic-users that wore these cloaks were uniquely capable of opening doors or portals that had been wizard locked or held as though they were a more experienced spellcaster.
+
+Appendix
+References
+
+---
+
+## Talisman staff
+
+Talisman Staff was an enchanted staff of dwarven design that belonged to the inhabitants of the House of Gems in Myth Drannor.
+
+Description
+Talisman staff was a simple metal rod encrusted with small gemstones.
+
+Powers
+The staff increased the user's wisdom and charisma.
+
+History
+One of these ancient talisman staffs from the glory days of Myth Drannor could be found in the ruins of the House of Gems circa 1369 DR.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+---
+
+## Takashi Yayazato
+
+Takashi Yayazato was a head of the Yayazato clan and a daimyo of Aru Province in Wa during the mid-1700s on the Wa Calendar.
+
+History
+Takashi Yayazato became daimyo in, after the removal of Hisao Matsutomo.
+
+Takashi governed the province well, but suffered much tragedy. Though he had three sons on becoming daimyo, all strong and suitable heirs, two died when their vessel sank in a typhoon and the third was killed in a climbing accident whilst scaling the Dragon's Face of Mount Matazan. Thus, Takashi had no male heirs to succeed him when he died in . Thus, shogun Matasuuri Nagahide returned the daimyate to the Matsutomos, under Benju Matsotomo.
+
+Appendix
+References
+
+---
+
+## Tan
+
+Tan was a small volcanic island in the Pirate Isles on the Sea of Fallen Stars.
+
+Geography
+Tan was found just east of Bulta in the eastern region of the Pirate Isles.
+
+Description
+This island's central mountain had a large smoking crater and rumbled occasionally.
+
+Inhabitants
+The natives of Tan were simple fishermen who were quite superstitious of the smoking mountain. Human sacrifice, in a vain attempt to appease the mountain, was not unheard of here.
+
+Rumors & Legends
+Despite all of the evidence, Tan was not a volcano, but home to a red dragon named Eshcaz the Red.
+
+Appendix
+References
+
+---
+
+## Takira
+
+Takira was a merchant and trader living in Hiyal around 1367 DR.
+
+Activities
+Twice per year, Takira would travel to the High Desert of west Zakhara to trade goods with the House of Dhi'b. The tribe would offer goods taken from raids for weapons, dried fish, and other items not found normally in the desert. These meetings would occur in one of Anwat al-Makkar's hidden fortresses.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tanlarl
+
+Tanlarl was a kind of aphrodesiac perfume, commonly found in the cities and communities along the Sword Coast.
+
+Description
+Tanlarl was a greasy ointment of reddish-brown color that turned clear and stopped feeling oily upon contact with the user's skin. Tanlarl had a very peculiar reaction with different types of skin—generally the ointment smelled pleasantly of wood smoke, but on some bodies it lost all smell completely. When applied to most females, tanlarl exuded a smell of mildew, and when applied to most males, it gained a warm, leathery smell that generally proved very attractive to women.
+
+A perhaps unintended side effect of tanlarl was that it acted as an extremely strong aphrodisiac for orcs and half-orcs who happened to smell it.
+
+Preparation
+It was a popular belief that tanlarl was made from the secretions of rare monsters, but it was actually derived from common vegetable oils, herbs, and oxen livers.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Takiyah
+
+Takiyah was a Shadow Druid who lived in the Cloak Wood forest during the mid–14 century DR.
+
+Personality
+He believed that most people who merely appreciated nature without taking up arms to protect it from intruders were naive and deserved to be "purged" from Faerûn.
+
+Relationships
+He was a contemporary of the druid Faldorn, both of whom served under archdruid Amarande.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate
+
+External Links
+
+References
+
+---
+
+## Taumarik
+
+Taumarik was a prince of Hartsvale in 1489 DR.
+
+Relationships
+Taumarik was the son of Grauman, the king of Hartsvale in 1489 DR. He was also married to Ylienna of Silverymoon, and took poorly to the various insulting names given to Ylienna by the earls of Hartsvale.
+
+History
+In 1486 DR, Taumarik left Hartsvale to spend three years exploring the North, upsetting many of the earls and nobility when he returned with a wife—the sorceress Ylienna of Silverymoon. Despite this political friction, Taurmarik still began taking on the responsibilities of the throne upon his return.
+
+Appendix
+References
+
+---
+
+## Talyth
+
+Talyth was a popular snack and appetizer that usually consisted of a cracker topped with sausage, cheese, and herbs.
+
+Description
+The most common talyth was made with a cracker roughly the size of a smaller humans palm. The cracker was topped with a thinly sliced sausage, various herbs, and spices. The layers were glued together with a mash of various foods and baked to hold together. Various regional versions of talyth could include a wide variety of delicacies, such as snails, oysters, spiced worms, diced eggs, and cheese mixes.
+
+Talyth could be sweet, but savory versions were much more common.
+
+Production
+Fresh talyths were cooked daily in many places like Waterdeep, Neverwinter, Luskan, Mirabar, Elturel, Everlund, Silverymoon, and Scornubel. In winter months, talyths were pre-made and kept on ice until ready to be re-heated and served.
+
+History
+The advent of talyth's popularity happened gradually throughout the 1300s DR, starting early in the century from the ports of Cormyr, Westgate, and Sembia, and spreading throughout the Sword Coast as the century went on.
+
+In 1490s DR, a Sembian recipe for talyth was fairly popular and commonly found in the homes, taverns, and adventuring camps around Luskan.
+
+Appendix
+Appearances
+Video Games
+Sword Coast Legends
+
+References
+
+---
+
+## Tarikat Island
+
+Tarikat Island was the largest single island of Al-Tarik Islands in the Golden Gulf and Crowded Sea within west Zakhara.
+
+Geography
+Tarikat Island was found near the center of the archipelago. It measured roughly  in length with a width of about . A large unnamed mountain range dominated the interior structure of the island. The range's southwest region was split by a wadi that reached both the northwest and southeast shores. Rocky outcroppings formed the shore of Tarikat Island, with coral reefs and sand banks surrounding the vast majority of the coast. Natural bays sat at the island's north and south ends.
+
+Appendix
+References
+
+---
+
+## Taham
+
+Taham was a small isolated town found at the foot of the Furrowed Mountains on the fringes of the Haunted Lands of interior Zakhara.
+
+Geography
+Taham was on the southeast slope of the Furrowed Mountains approximately  northeast of Hiyal. The surrounding terrain was mostly brushland with a seasonal river providing a source of water during certain parts of the year. A landrise helped isolate Taham from the north. Taham was found along a caravan route connected to Hiyal.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Taliat
+
+Taliat was a small town found near the coast of the Great Sea in north Zakhara.
+
+Geography
+Taliat sat along the northern branch of Al-Faddi River roughly  northeast of mighty Qudra. The town was surrounded in lush cultivated land fed by the river and the few small unnamed lakes in the area. It was also found near a vital caravan trail that connected Qudra with the Free Cities of Zakhara in the north.
+
+Appendix
+References
+
+---
+
+## Ta'am
+
+Ta'am was a small town found near the center of the Pearl Cities region of west Zakhara.
+
+Geography
+Located approximately  north of Gana along Al-Sabiya River, Ta'am was located at an ideal spot for caravans departing Gana north to Tajar along the western slopes of Al-Yabki Mountains. Ta'am was located along the fringes of the fertile river valley fed by Al-Sabiya River.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Talarenne
+
+Talarenne was a young but seasoned human fighter, mercenary, and a long-time friend and companion of the Hero of Daggerford.
+
+Description
+Talarenne was a tall athletic woman with long flowing dark brown hair who often had a mischievous smile on her face.
+
+Personality
+Tala was a lively person who kept her spirits up, despite trouble and bad weather. She was alway ready for a fight.
+
+Possessions
+Talarenne always kept her trusty longsword called Kalias at her side.
+
+History
+Talarenne and the hero of Daggerford knew each other for many years before the faithful events of 1372 DR. They worked and adventured together, saving each other's lives countless times. One notable adventure of the couple was battling the great Two-Headed Wyvern of Stamislot under the cover of the nights in the pouring rain. Tala saved the hero's life by pulling their neck away from the hungry wyvern's maw all while the other head of the monster bit Tala's own backside.
+
+In 1372 DR, Falias Emberthumb hired Talarenne and her friend and companion to accompany his caravan from Waterdeep to Daggerford. As they traveled along the Trade Way, not far from Daggerford, a group of bandits (in reality, Zhentarim agents) ambushed the merchant's caravan. As soon as the fighting started, Tala was absorbed by a bright magical light and was spirited away, leaving her friend fending for their life against disguised Zenths.
+
+Talarenne was an accidental capture as she looked fairly similar to one of the caravan's passenger, Astriel Shalyn, an agent of the Lords' Alliance heading to Daggerford to investigate recent upheavals. The Zhentarim agents were tasked with using the scroll of binding that magically reduced her in size and trapped inside an enchanted orb known as a binding prison.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Tarm
+
+The Tarm  family were one of the noble houses in Waterdeep circa the . They were horse breeders and trainers, and had significant interests in caravan mastering.
+
+Organization
+The Tarm clan made their fortune in the caravan business and were well-known for the horses they bred and trained. From at least the, to at least the, the patriarch of the family was Lord Thentivil. His consort was Lady Selpara and their son and heir was Arum.
+
+Base of Operations
+
+The in-town home of the Tarm family was located in the North Ward on the southeast corner of Sulmor Street and Whaelgond Way. It consisted of three 3-story buildings in a walled compound with a central garden area with a small pool. They also maintained stables and horse-breeding grounds in the village of Amphail north of Waterdeep on the Long Road.
+
+History
+The Tarm clan were of Tethyrian descent and followers of Mielikki. The family was ennobled in the . As of 1372 DR, there were forty-five living members.
+
+Notable Members
+ Thentivil Tarm: Patriarch in the mid–14 century.
+ Selpara Tarm: Consort of Thentivil.
+ Arum Tarm: Son of Thentivil and Selpara. Once betrothed to Lady Jeryth Phaulkon.
+ Ralascar Tarm: Patriarch sometime in the 15 century.
+ Elevur Tarm: Eldest son and heir of Ralascar.
+ Lonthlur Tarm: Younger brother of Elevur. Became an invalid after monster attack.
+
+Rumors & Legends
+Lord Elevur Tarm was observed carrying on a conversation with a painting at one of the annual revels hosted by Lord Narrovan Eagleshield in honor of his deceased wife Embrelle. Rampant gossip ensued and Lord Elevur wanted no part of it, saying it was a private matter. This revived the legend of the Lost Dragon of Waterdeep for a time, and there were other proposed explanations as well.
+
+Family Tree
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tashan Gap
+
+The Tashan Gap was a rather wide mountain pass found in northern Tashalar on the Chultan Peninsula of southwest Faerûn.
+
+Geography
+The Tashan Gap marked where the dense Black Jungles pushed through the lowland area between the Delphin Mountains in the east and the Hazur Mountains in the west. The gap measured nearly  across, yet the dense jungle made any kind of passage difficult.
+
+Appendix
+References
+
+FR:Trouée de Tashan
+
+---
+
+## Taruin
+
+Taruin, also known as the City of Seven Spices, was a large city in Samarach.
+
+Description
+The city stood on the junction of the creeks that merged, forming the River Samar. Wild jungles of Samarlogh bordered the city and the trade route that ran east towards the Mines of Selgol. A trade route ran through Samarlogh and the abandoned Narubel Pass that connected Taruin to the city of Narubel. A ten-mile stretch of River Samar separated Taruin and the capital of Samargol.
+
+Trade
+The City of Seven Spices' name was the result of the rare spices that Taruin gathered in the surrounding fields. The City of Seven Spices was the major producer and exporter of spices in Samarach. Salt was imported into the city from Selgol as numerous salt caravans moved through Taruin towards Samargol.
+
+Defenses
+Taruin was a walled city that housed a large part of Samarach's armed forces. The city also was one of the settlements that sent out Elite Guard Patrols to secure the jungle nation's trade roads.
+
+Notable Locations
+Serpent's Demise, a boisterous inn and tavern that welcomed locals and outsiders alike.
+Shrine of Waukeen, a small but prosperous shrine built after the goddesses' return to the Realms in the 14 century DR.
+
+Inhabitants
+Ottelmar, a wine connoisseur who frequented the Serpent's Demise in the late 14 century DR.
+Selvar, a skilled wizard and famed inventor of Selvar's Ineffable Conjurations, Magicks, and Phantasms spell who lived some time before the 14 century DR.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Storm of Zehir
+
+References
+
+FR:Taruine
+
+---
+
+## Taffy
+
+Taffy  was a brutish guard, and a member of the Mariners' Alliance allied with Zhentarim circa 1372 DR.
+
+Description
+Taffy was a hulking muscular man with a vacant expression on his face.
+
+History
+In 1372 DR, Taffy was standing guard in the Mariners' Alliance's guildhall, in front of the door to the building's sub-basement. He was tasked with stopping anyone from snooping inside the building and keeping unwanted individuals away from the sub-basement where the members of the guild were planning their operations, secretly working alongside Zhent agents against Daggerford well-being.
+
+When the investigation into the plots against the city brought adventurers later known as heroes of Daggerford to the Mariners' Alliance, Taffy attempted to stop them from proceeding deeper into the building however, the Hero of Daggerford managed to get past him. It was unknown if it was done via violence, intimidation, or bluff.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+References
+
+---
+
+## Tanner
+
+Tanner was a guardsman who served in the Marsember Watch during the late 15 century DR.
+
+Description
+Brutish in appearance, Tanner was easily the largest man in his squad. He was described as having legs that resembled the trunks of trees.
+
+Personality
+He was not as virtuous as some of his other guardsmen, though could be convinced to take the right and just actions.
+
+Relationships
+During his time in the Watch, Tanner served under Topsword Kleef Kenric. He believed Kleef to be an honest man, much to the detriment of his career as a soldier.
+
+History
+Tanner was among the guardsmen tasked with clearing out Wilhastle Square of Marsember when Cormyr was invaded by the Shadovar in Uktar of the .
+
+When Grand Duchess Elira Seasilver was abducted aboard the Wave Wyvern that very same day, Tanner was among the men who volunteered to join the rescue mission. While he was unaware, Tanner was influenced by the magic Kleef's greatsword Watcher and his position as the chosen of Helm.
+
+Appendix
+Appearances
+Novels
+ The Sentinel
+
+References
+
+---
+
+## Taggar Kenric
+
+Constal Taggar Kenric was a military officer of the Marsember Watch who served Cormyr during the 15 century DR.
+
+Description
+In addition to being a dedicated soldier, Taggar was a devoted follower of the deity Helm.
+
+Relationships
+He came from a long line of Helmite worshipers who dedicated themselves to routing out the corrupt behavior that was so prevalent in the Watch. He had a son named Kleef, who served as Helm's chosen during the events of the Second Sundering.
+
+Appendix
+Appearances
+Novels
+ The Sentinel (mentioned only)
+
+References
+
+---
+
+## Taela's Trail
+
+Taela's Trail was a small roadway found in eastern Sembia that connected Ordulin in the north with the smaller town of Surd in the southeast.
+
+Description
+Taela's Trail meandered southeast from Ordulin before reaching Surd near the coast of the Sea of Fallen Stars.
+
+History
+Taela's Trail's builder was Rorl Ossmran, a merchant out of Ordulin who lived long before the 14 century DR. The roadway bore the name of Rorl's beloved, Taela.
+
+Appendix
+References
+
+---
+
+## Talabrina Claddath
+
+Talabrina Claddath was the matron mother of House Claddath of Ched Nasad.
+
+Description
+Unlike the other members of Chad Nasad's ruling council, Talabrina was not purely a priestess of Lolth. In addition to her clerical abilities, she was a skilled fighter.
+
+History
+In 1370 DR, Talabrina had a seat on Ched Nasad's ruling council as the seventh matron mother.
+
+Appendix
+References
+
+---
+
+## Talon Thornwild
+
+Talon Thornwild was an expert prospector who lived in the Sword Coast North during the late 15 century DR.
+
+Personality
+Talon did not believe that the world was an unchanging place. This fact was as true to him as any other rule of nature.
+
+He had boorish manners and awful eating habits.
+
+Activities
+Talon absolutely loved gold and wanted nothing more than to gain great acclaim for his talents as a prospector. He was not above taking things that were not his in order to reach his goal, as long as his need for something was greater that its previous owner.
+
+Appendix
+References
+
+---
+
+## Tazumi
+
+Tazumi was a samurai in the town of Aru in Wa and a member of the Home Guard in the 1770s on the Wa Calendar.
+
+Description
+He was young and handsome.
+
+Personality
+And he was earnest.
+
+History
+In summer of, a group of samurai including Tazumi and Takako Shimizu went hunting in the forest. Takako became separated and was ambushed by a monster; hearing her scream, the alerted samurai rushed to her side, but the monster escaped them; through the undergrowth, Tazumi glimpsed the creature crouching over Takako and mistook it for a kala and informed Takako. But with no more than a scratch and a bump, Takako confidently dismissed this incident as just another monster attack.
+
+But, several weeks later, Takako suffered a nightmare and a monster stalked the halls of the daimyo's donjon and murdered and partly ate a samurai. The daimyo, Benju Matsutomo, uncle to Takako, may have had his adventurers investigate and protect Takako during the night. During the day, they questioned Takako, Tazumi, and the samurai guards; Takako told his story but had doubts that it was a kala. Privately, he feared it might even be a shikki-gaki. He was wrong either way: Takako transformed into a tagamaling buso and attacked the adventurers. Seeking a cure or a cause, Tazumi and his fellow samurai guided the adventurers to the site of the first attack in the forest and likely helped hunt down the unusual cursed tigbanua buso and slew it, ending Takako's and others' afflictions.
+
+Appendix
+References
+
+---
+
+## Tagamaling buso
+
+A tagamaling buso  was a type of buso, being the victim of the infected claws of a tigbanua buso and cursed to turn into one each night.In 1-edition Oriental Adventures and 2-edition Monstrous Compendium Kara-Tur Appendix, the tagamaling buso transformation is said to be a disease, while in 3-edition Oriental Adventures it is said to be a curse and classified as a supernatural effect.
+
+Ecology
+Any humanoid wounded by the claws of a tigbanua risked contracting its disease or curse, if they lacked the fortitude to resist. Those infected inevitably became a tagamaling.
+
+Thereafter, every night after sunset, the victim was at risk of transforming into a tagamaling. This was slight at first, only a 1-in-a-100 chance on the first night, but increased steadily each night, becoming in a 2-in-a-100 on the second night, and so on. The transformation often occurred around midnight.While the exact time of transformation is not specified in write-ups of the tagamaling buso, NPCs tend to transform at or after midnight, suggesting this is the standard time. It lasted throughout the rest of the night and ended at sunrise, when the victim changed back to their original form with no memory of the experience, though they might find themselves terribly fatigued.
+
+In the ninety-nine days after infection, the condition could be lifted with cure disease, remove disease, or remove curse. But on the hundredth night, the chance became certain, and the victim would become a tagamaling every night without fail. They could not be cured by any magic less than a miracle or a wish.
+
+A tagamaling could not transmit the infection to others. They also lacked the tigbanua's aura of paralyzing fear.
+
+In an unusual case, a human wu jen cursed to be a tigbanua buso didn't spread a normal infection but a kind of spiritual taint. Those turned into tagamalings by him couldn't be cured normally but would be cured as soon as he was slain. This change could also be triggered by a traumatic situation.
+
+Description
+A tagamaling looked like a tigbanua in most aspects. When a victim transformed, their feet became elongated and bony, their hands grew sharp claws, their teeth grew into wicked fangs, and most notably their eyeballs fused into a single orb, colored red or yellow. Otherwise, they retained something of their original build and height, appearing shorter and stockier than a tigbanua as they didn't have its lean figure, long limbs, and long neck. However, a tagamaling resulting from the above spiritual taint could have the full height and long limbs and neck. They could retain other aspects of their original form, such as their hair.
+
+Combat
+Tagamalings attacked everyone they encountered, using their new claws and fangs to slash and eat them. They were as durable as they were in life.
+
+Behavior
+When transformed into a tagamaling, the victim was as mindless as an animal and much more savage, simply attacking—and then eating—whatever and whoever they came across. Their minds were consumed with rage and animal instincts, and they could not do anything requiring thought, nor could they use any special skills, magic, or other powers they might know normally.
+
+Perhaps mercifully, they retained no memory of what they'd done when they turned back.
+
+Homelands
+While they could go anywhere in Kara-Tur, tagamaling busos were usually found where there were tigbanua busos, namely in the temperate, tropical, and subtropical wildernesses.
+
+History
+In, an unusually intelligent tigbanua named Getsu tried to destroy the city of Nakamaru in Wa by turning as many of its citizens as he could into tagamalings who would slaughter the rest. He had at least commoners infected within the first 99 days and went on to attack the Worthless Flower yakuza gang before adventurers likely stopped him.
+
+In summer of, Takako Shimizu, a samurai of Aru Province in Wa, was attacked by the unusual cursed tigbanua buso while out hunting. Several weeks later, she transformed for the first time and killed a fellow samurai in the Donjon of Aru. Adventurers in service to her uncle the daimyo, Benju Matsutomo, may have investigated, discovered the condition when she transformed and attacked them, and finally hunted down and slain the cursed tigbanua buso responsible.
+
+Circa, a group of twelve infected people—two men, three women, four children, and three elders—settled in the abandoned ruins of Ito-jo, a castle in Maeshi Province in Kozakura, where they occupied the old gardeners' huts and eked out a meager livelihood. They claimed to be refugees of the mainland and lived in fear. Although wary of visitors, they were not inhospitable, and would even put them up for the night, provided all windows and doors were barred and weapons put away. They all turned into tagamaling busos at midnight.It is unknown if these tagamalings have a connection to the tigbanuas also dwelling in Ito-jo.
+
+Appendix
+Background
+The tagamaling buso is based on creatures of Philippine mythology, specifically the legends of the Bagobo people. Here, the buso is a kind of spirit or demon and the tagamaling is a buso that is an evil eater of human flesh for one month and then a godly being who does not the next. While there are multiple types of busos in Bagobo legends, and the structure of the 1-edition Oriental Adventures and Monstrous Compendium Kara-Tur Appendix write-ups imply there may be multiple busos, only tigbanuas and tagamalings have been presented in D&D, to the point that the term "buso" seems synonymous.
+
+Notes
+
+Appearances
+Adventures
+Night of the Seven Swords • Blood of the Yakuza • Dungeon #17, "The Waiting Room of Yen-Wang-Yeh" • Ninja Wars
+
+References
+
+---
+
+## Tashluta
+
+Tashluta, also known as the City of Slithering Vines, was the capital city of Tashalar, an oligarchical nation on the Chultan Peninsula. Known as one of the Cities of the Seabreeze, Tashluta was fairly unique in that it was constructed within and atop a volcanic crater that opened up into the Shining Sea.
+
+Description
+The city was divided into the a number of districts, including the wealthy districts of its mercantile families built atop the higher ridges of the Tashalar Basin, and the districts built beneath them that housed the city's lower and middle class citizens.
+
+Culture
+Citizens of Tashluta were considered to be quite refined and had an enlightened outlook towards outlanders. The welcoming disposition of the majority of Tashlutans was complemented by their propensity for being multi-lingual. A common source of amusement for Tashlutans was to play lighthearted pranks upon the many people that visited their city, often involving some of their particularly spicy foods.
+
+As a result of the circumstances around Tashalar's founding and its conflict with the yuan-ti many residents of the capital had a distinct phobia of snakes and serpents. Nearly every type reptile found in the city were killed on sight.
+
+Geography
+The capital was located situated in the center of the Tashtan Coast within the fertile stretch of land known as the Tashalar Basin, north of the Hazur Mountains.
+
+Geographical Features
+Tashluta was built atop the ridge and inner slope of a volcanic caldera, called the Tashalar Basin, that was partially flooded by the waters of the Shining Sea. The volcanic crater formed a natural harbor for the city's fleet of ships.
+
+The narrow isle of Stormwall extended out from the sea at the edge of the harbor, shielding the bay from storms coming landward from the sea.
+
+Government
+Since its founding, Tashluta has been ruled by an oligarchy.
+
+Trade
+Tashluta was the home of the expansive trade consortium known as the Rundeen. Having consolidated a monopoly on trade in the region, they controlled all nearly all trade that passed though the city, and dominated trade throughout Calimshan and the entirety of the Chultan Peninsula for hundreds of years.
+
+A number of drinks considered "exotic" to the folks of the western coast of Faerûn originated from Tashluta, including amberthroat, dragonstongue, and rollrum.
+
+Tashluta was one of the locations that accepted Calishite trade bars as form of currency.
+
+Defenses
+The coastal city was well-defended by an armada of ships that were sponsored by the Rundeen.
+
+History
+Tashalar and its capital were first founded by laborers from Lapal and merchants from Calimshan in the .
+
+After being invaded by the yuan-ti forces of Serpentes in the, the nation of Tashalar fought a ten-year war against their Se'Shen serpentine overlords, a conflict that ended in the . After gaining their independence, in the, Tashluta's oligarchs banded together and formed the Confederation of Tashtan, a declaration that outlined the lands over which the free nation would have dominion.
+
+In the, Tashluta and the other Tashalan cities came under control of the Shoon Imperium shortly after the empire completely destroyed the belligerent Lapaliiyan city of Untisczer. The occupation of the city lasted for over 150 years, until the Shoon viceroy of Tashluta and his wife were slain during the collapse of the empire. After the initial military campaign, many of the city's residents left their home for other lands such as the Sanrach Basin in Thindol.
+
+Despite their great victory against the yuan-ti centuries before, the government of Tashluta fell into strife once again due to the machinations of the serpentfolk. In the, it was revealed by the lich Anthilar, that Tashluta's governing body was in fact infiltrated by a yuan-ti abomination.
+
+Notable Locations
+Fortresses
+ Murder Hall, an abandoned castle that was taken over by Dark Cleric Othorgor and his fellow devotees of Bhaal.
+ Stormwall Keep, the broad naval fortress that was built atop Stormwall Isle.
+
+Temples
+ House of Night's Embrace, the most distinguished temple of Talona in all the Realms.
+ House of the All-Seeing Orb, a temple of Savras that was considered one of the most well-regarded of its kind during the 14 century DR.
+
+Appendix
+Appearances
+Adventures
+ Candlekeep Mysteries (The Canopic Being)
+
+References
+
+FR:Tashluta
+
+---
+
+## Tam (dragon)
+
+Tam was an adult red dragon who reluctantly allied herself with the High Priestess of Lolth, Azurna, who was plotting against Waterdeep in the mid–14 century DR.
+
+Relationships
+Tam was a moody creature and terrified the drow who were providing her with meat.
+
+History
+Sometime before 1370 DR, the red dragon Tam was convinced to join forces with Azurna. She made a lair in a vast domed hall in Azurna's drow stronghold alongside her several hatchlings. The red wyrmlings were trained by drow to become their most powerful weapon against the City of Splendors. Sirian Flametongue was one of the young red dragons spawned by Tam and who willingly joined with Azurna's forces only to be slain by Khelbenite in Eleint of 1370 DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Talf
+
+Talf was a young laborer in a small town of Faerûn in the, who was sold into slavery by one of the Red Wizards.
+
+Description
+Talf was a strong young man, in great physical shape.
+
+History
+In the middle of the, one of the wizards from a local Red Wizard enclave, led by a woman named Hinnar, began selling locals into slavery of her own initiative. This underling, Kizzaf, disguised herself with a wig and charmed victims to follow her out of town. Talf and his companion Elonn were two such victims and, after visiting a tavern one day, were seen following a "long-haired woman" from the town while laughing along with her. Kizzaf drugged Talf and Elonn and sold them to a Thayan merchant named Mahzed. Their fates are unknown.
+
+Appendix
+References
+
+---
+
+## Tatyl
+
+Tatyl was a transmuter and one of three minor wizards stationed at the enclave run by the young Red Wizard Hinnar.
+
+Description
+Tatyl's body bore a magical tattoo from the Red Wizards that made transmutations more difficult to resist.
+
+Abilities
+Tatyl was tough, dexterous, and intelligent and was trained in alchemy, spellcraft, and the scribing of scrolls.
+
+Possessions
+Tatyl carried a dagger and a small crossbow of superb craftsmanship.
+
+Tatyl's spellbook contained 23 different spells.
+
+Activities
+Tatyl spent most of the day's hours in the compound's main barracks scribing spells with other wizards.
+
+Appendix
+Errata
+The source lists ray of frost and burning hands as spells in Tatyl's spellbook, yet evocation is a forbidden school for Tatyl.
+
+References
+
+---
+
+## Tamah
+
+Tamah was a woman who lived on the Sword Coast during the mid–14 century DR.
+
+Possessions
+She owned a lakeside cottage found on the Trade Way, just south of Beregost.
+
+History
+At some point in her life, Tamah ventured northeast of her home and got into a fight with some gnolls. Before she could react, Tamah was petrified by a basilisk, presumably one that was controlled by the madman Mutamin.
+
+She remained a statue in Mutamin's Garden until at least the . By that time her house was all but ruined, as it had sunk down into the lake.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate
+
+External Links
+
+References
+
+---
+
+## Taran Goldenstar
+
+Taran Goldenstar, sometimes referred to as Taran the Elflord because of his noble roots, was an ambitious and multi-talented apprentice of the sage wizard of Freedale, Netheril in the mid–14 century DR.
+
+Description
+Taran was an upbeat person of slender elven build with long blonde hair and blue eyes. He loved nature and the forest and would defend it with his life if the need arose. He was a talented musician and often stood outside of his home, playing a flute. The Freedale townsfolk, and especially kids, favored his music.
+
+Possessions
+
+Perhaps Taran's most prized possession was his small spellbook with his name written on its front cover. Taran briefly lost the book to Bonegnasher's band, but it was eventually recovered by a group of adventurers hired to rescue him.
+
+Taran's home was a generously sized building next door to the Evening Star Inn in Freedale.
+
+Relationships
+One of the adventurers from Freedale, Silverleaf Halfmoon, hailed from the same elven tribe as Goldenstar. The two elves were friends, and Silverleaf knew how to summon Taran when he spent his time in the woods by howling like a wolf three times at the eastern edge of the forest.
+
+History
+In the mid–14 century DR, Taran Goldenstar could be found in a small village of Freedale in Shadowdale, studying under the town's sage and spending his free time in the beloved woods that surrounded the hamlet and permeated the Dalelands.
+
+Taran Goldenstar's study of magic and history under the High Wizard Netheril led him to discover an important clue to the whereabouts of the lost orb of dragonkind, hidden away in the Tomb of Damara, a few miles outside Freedale. Excited to make the discovery, Taran rushed to the ruins, only dropping a few words to his master about the magic orb and an ogre. Soon after the elf arrived at Damara's Castle, he was jumped by marauding humanoids led by Bonegnasher, who made the ruins their home and sought the orb themselves. After two days had passed since the elf's disappearance, his master Netheril hired a group of local adventurers to search for lord Goldenstar and aid him in the orb's recovery.
+
+The heroes—cleric Lordan the Pure, fighter Delvar Ironfist, rogue Slinker, wizard Morganth the Mysterious, fighter Beldar the Brave, and fellow elf spellcaster Silverleaf Halfmoon—found Taran Goldenstar chained to a wall interrogated by a hobgoblin. Bonegnasher's marauders were trying to pry the information on the orb's location out of the elf. Even though Taran was hurt and unable to continue with the quest, he told the adventurers where to find the infamous orb. Eventually, the group returned to Freedale safely, Taran's prized spellbook was recovered, and Netheril the sage destroyed the discovered orb of dragonkind to stop it from falling into the wrong hands.
+
+Appendix
+Appearances
+Adventures
+The Tomb of Damara
+
+References
+
+---
+
+## Taporan
+
+Taporan was a small riverside settlment found in the nation of Rashemen.
+
+Description
+The town comprised a series of stone buildings lined with cobblestone streets, an arrangement that was rather uncommon among towns and cities in Rashemen. It featured a broad stretch of waterfront docks that were always lined with pole-propelled vessels and other river boats.
+
+Geography
+The town was situated on the long road that extended south from the Huhrong's Road to the Golden Way, at the point where it crossed with the River Tir.
+
+Trade
+Taporan was well known for the rowdy fishers and rivermen that conducted their business along the River Tir. Passage on a vessel downriver to Ashane cost 1 gp, with an upriver return trip priced at 3 gp.
+
+Notable Locations
+The White Dragon and Goblin, and Wolf berserker lodges all maintained alehouses in Taporan. The Wolf lodge house was the largest of the three.
+
+Inhabitants
+While the town's rivermen were quite industrious, they were considered brave and even a bit foolhardy among their fellow Rashemaar. They were fond of boisterous singing and excessive drink, though maintained themselves while on the waters.
+
+There were a disproportionate number of berserkers living within Taporan, given its reputation as a fishing community.
+
+Appendix
+References
+
+---
+
+## Tapal
+
+The tapal, and the larger greater tapal, was a weapon that was developed by tritons.
+
+Description
+The one-handed tapal was a long blade with an arcing shape, reminiscent of an angular fisherman's hook though wider and with a razor-sharp outer edge and two handles inside the arc. When gripped, the hand was protected and the unequal-length blades lay along the forearm and nearly to the shoulders.
+
+The greater tapal was larger and wielded in two hands, with a chevron-shaped blade and two handles.
+
+Tactics
+The tapal could be considered a combination of a dagger, spear, and longsword, able to be moved quickly to stab or slash without being slowed by water resistance and with little physical effort.
+
+The shorter, hook-like end of the arc was meant to stay near the body. Held with arms extended, the long curving edge and rounded front point were used by tritons to slash at enemies while swimming past them. The front arc, a wide and massive tip, could also be thrust like a dagger.
+
+Alternatively, the tapal could be flipped so that the long end pointed forward, with the secondary handle towards the middle allowing it to be gripped with two hands. In this way, it could be used similarly to a spear.
+
+Manufacture
+Tapals were made at undersea hydrothermal vents, which were hot enough for tritons to smelt metals and minerals underwater. They were carved from an unknown crystalline material and made specifically for each triton warrior. The techniques were a closely guarded secret of their species.
+
+Reputation
+
+They were an ancient weapon developed by the tritons. A tapal was presented to a triton when an individual became an adult. Tapals often became family heirlooms and older tapals came to bear great magical enchantments.
+
+Tapals were a favored weapon of tritons, but not so much as to replace the ubiquitous trident. They were only ever made and used by tritons, but they sometimes shared the weapon with shalarin following their alliance at Myth Nantar. They were also used by Dukars who followed the Tapal Path, which actually granted the power to grow a coral from their knuckles and forearm in the form of a tapal. While greater tapals were in existence, they were quite rare.
+
+Regardless, other undersea races were curious about tapals and started to borrow their design for their own weapons in the mid–14 century DR.
+
+Tapals were rarely used or seen above the surface of the sea.
+
+Notable Tapals
+Some notable artifact tapals are:
+ Grandmaster's Tapal, which granted Dukar with the powers of all their orders;
+ Jhiarl, or the Emerald Tapal and "Elfkiller", an evil and sentient blade formed from a solid current; and
+ Luuvamtar, called "the Kraken's Bane", a starmetal blade once wielded by the military leader of the Triton Protectorate of Vuuvax.
+
+Trivia
+The Colossus of Dukar in Myth Nantar, a  statue that commemorated the triton founder of that order, held an enormous tapal high over his head.
+
+Appendix
+References
+
+---
+
+## Tales of the Twin Worlds
+
+Tales of the Twin Worlds was a book of poetry written by Anders Ui Moray in the late 12 century DR.
+
+Contents
+This poetry was very crazed and ranting, speaking of a twin world called "Abihr" and a sleeping god. It also contained information relating to the long and complex tale of the castle Darkturret.
+
+Appendix
+Notes
+
+Appearances
+Organized Play & Licensed Adventures
+Treasure Hunt
+References
+
+---
+
+## Tarantula
+
+Tarantulas, also known as reikh'irud in Anauroch, were a mundane type of spider.
+
+Description
+These spiders were covered in dark brown hair.
+
+Behavior
+Tarantulas were generally not aggressive unless disturbed or accidentally agitated.
+
+Ecology
+Habitats
+Tarantulas could be found in the lands of Anauroch and Maztica. In the Raurin desert, both giant and huge varieties of tarantula could be found.
+
+Usages
+The hishnashapers of Maztica used the dried-up bodies of tarantulas to create a type of construct known as a spiderwalker.
+
+Skilled alchemists often utilized tarantulas in the formation of poisons that caused paralyzation in a victim.
+
+Appendix
+
+See Also
+ Steeders were a monstrously sized cousin of tarantulas
+
+Appearances
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Tanimar Freth
+
+Tanimar Freth was a drow warrior of House Freth inside Undermountain in the early 1490s DR.
+
+Activities
+As second-boy of his House, Tanimar led the warriors against their enemies of House Auvryndar but he lost his right eye. Around the Year of Three Ships Sailing, 1492 DR, Tanimar together with his younger brother Xaphtal Freth controlled the gate to the Freth complex in the Maze Level.
+
+Appendix
+References
+
+---
+
+## Talabsyn Freth
+
+Talabsyn Freth was a young drow of House Freth in Undermountain in the early 1490s DR.
+
+Activities
+As youngest daughter of her House, Talabsyn led some male drow in taking care of the giant lizards around the Year of Three Ships Sailing, 1492 DR. She was willing to abandon any of the males and surrender to enemies if she was sure of a ransom.
+
+Appendix
+References
+
+---
+
+## Tabiaza
+
+Tabiaza was one of the barae, paladin of Ubtao from Mezro in Chult.
+
+History
+Tabiaza became one of the chosen on Ubtao, tasked with defending the ancient city of Mezro centuries before 1372 DR, alongside Zimwa, Anzi, Ras Nsi, and many others. Eventually, Tabiaza died defending the hidden city and, like all fallen barae, was immortalized inside the Temple of Ubtao in Mezro, with a statue of polished black stone.
+
+In 1372 DR, Artus Cimber read about Tabiaza and other bare in the The Eternal Life of Mezro and saw the statue dedicated to them in temple's Hall of Champions.
+
+Appendix
+Appearances
+Novels
+
+The Ring of Winter
+References
+
+---
+
+## Talos's Gift
+
+Talos's Gift, also known as boots of grounding, were enchanted copper-plated boots rumored to have been created by Talos himself.
+
+Powers
+Boots of grounding gave their wearer resistance to electricity and lightning.
+
+History
+Many years before 1368 DR, a pair of Talos's Gift boots was given by the the Storm Lord himself to a single man, a simple resident of the Fortress of the Starshine Peninsula. Talos rained fury, earthquakes, and storms upon the citadel after his favorite Stormherald was murdered within its walls. This pair of boots' of grounding's purpose were to save the life of one singular person of the citadel, so the tale of Talos' divine fury could reach the masses.
+
+Eventually, that man was discovered by a group of adventurers, alone in the ruined city and driven mad by the death and destruction he witnessed. Talos's Gift later found their way to many places across the world, carrying the tale of godly destruction.
+
+Notable Owners
+Bashshar al Rachid, a famous collector, merchant, and the wealthiest djinni on Toril in the early 14 century DR.
+Bolumir: a cleric of Tempus from Athkatla circa 1368 DR.
+Elan Garaq: a rakshasa trader and Baeloth Barrityl's right-hand from the Black Pits of Underdark.
+Mulahey: the agent of the Iron Throne responsible for creating the iron crisis.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Taitung
+
+Taitung (also written as Tai Tung) was a river city in Ch'ing Tung Province of Shou Lung.
+
+Geography
+It stood on the Ch'ing Tung River, near the southern end of the First Emperor's Canal and the northern end of Second Emperor's Canal. It also stood at the crossroads where the Kuan Postroad met the the Road of 7 Drunkards, between the Bridge of Taitung and Spectre's Bridge, and where the Kaifeng Highway (which followed the canal) joined the Spice Road.
+
+Description
+It was a major city circa .
+
+Notable Locations
+The emperor of Shou Lung had a summer palace here, which included the Hall of Supreme Harmony.
+
+There were many docks on the river and canal.
+
+Trade
+Many caravans traveling the Spice Road started or ended at Tai Tung.
+
+History
+After Yamun Khahan and the Grand Army of the Tuigan breached the Dragonwall on Tarsakh 19, they rode across the Plain of Horses for Tai Tung, sacking Lo Tu on the way. Minister of War Kwan Chan Sen led an army out of Tai Tung to face them, but was defeated at the Battle of the Sorghum Field on Tarsakh 30 and the survivors regrouped and returned there. The emperor's summer palace was repurposed as a temporary command center for waging the war, Emperor Kai Tsao Shou Chin came in person to grant command to General Batu Min Ho. The armies camped in a meadow several miles outside the city, as they were too many to be accommodated in the city itself.
+
+At the close of the war, Yamun's envoy and Emperor Kai Tsao Shou Chin met in the summer palace of Tai Tung and signed a peace treaty, before the Tuigan departed on Eleint 9.
+
+Appendix
+Appearances
+ Dragonwall
+
+References
+
+---
+
+## Talisman of the moon
+
+The talisman of the moon was a rare and powerful cleric item used by the followers of Corellon Larethian, found in Waterdeep, circa late 15 century DR.
+
+Description
+The talisman of the moon was a silvery-metallic disc with images of two crescents facing away from each other. The amulet was embedded with four small blue gem with a greater round gem in its middle.
+
+Powers
+Talisman of the moon channeled the powers of the waning or waxing moon and bestowed Corellon's healing blessing on the wearer as long as they battled the powers of darkness. The amulet's magic surrounded the user and his four allies in a circle of protection, which greatly improved their defenses and cured any negative magical effects they might be suffering from.
+
+Notable Owners
+Halbenet Soladonel: a moon elf cleric of Corellon Larethian who worked with other warriors of Waterdeep, performing missions on behalf of Laeral Silverhand in the late 15 century DR.
+
+Appearances
+See Also
+ Amulet of Corellon
+ Holy necklace
+ Moonstone pendant
+
+Video Games
+Warriors of Waterdeep
+
+References
+
+---
+
+## Tamarind ball
+
+Tamarind balls were delicious little morsels sold at the Drover's Last Drink tavern in Mosstone in the 14 century DR.
+
+Description
+Tamarind balls were small handpie-sized pastries, richly spiced with tamarind and rolled into balls. These balls were cooked to soft, chewy perfection and dusted with sugar. The pastry's sweetness was pleasantly cut with tamarind's spiciness.
+
+History
+With the merchants and travelers on the Trade Way, the culinary influence of Calimshan and Tashalar spread to some locations in neighboring Tethyr, notably the Mosstone caravan stop village on the shore of Firedrake Bay. Tamarind was likely introduced to the proprietors of Drover's Last Drink through trade and culinary cross-pollination. Eventually, this led to the creation of the tamarind balls that were quite exotic in taste and impressed Volothamp Geddarm greatly during his research for one of his many guides in the mid-to-late 14 century DR.
+
+Appendix
+See Also
+ Honeydrop
+
+References
+
+---
+
+## Tamarind
+
+Tamarind was a tree that produced edible brown-orange leguminous fruit that was consumed as a spice. Regarding taste, tamarind could be similar to quelaerel, a sauce made out of threeb, a leech found in Abyssal layers such as Gaping Maw, Slugbed, and Shedaklah.
+
+Availability
+Tamarind was grown and mashed into a spice paste in the lands of Calimshan and Tashalar, which were renowned for their strongly flavored cuisine. From there, tamarind was traded, being moved through the locations on the Trade Way of Amn and Tethyr. Through trade, tamarind was available in caravan stop towns such as Mosstone.
+
+Tamarind paste was widely available via Aurora's Whole Realms Catalogue and was sold in the "Exotics" section for 100 gold pieces per .
+
+Tamarind had a more or less common presence further to the south-east of Faerûn, where a lot of folks carried spice pouches as they traveled. Such spices included dried powdered tamarind, dried ginger, tumeric, and ground almonds, as well as raisins and rosemary.
+
+Usages
+Tamarin was a cooking ingredient used for its warm spicy flavor. For example, in Mosstone, tamarind was used to create bite-sized sugar-dusted pastry known as tamarind balls. They were available from the Drover's Last Drink tavern and loved by Volothamp Geddarm. Another example of tamarind use in cooking was the always-popular eggfry bread, a savory fried egg-soaked toast, oftentimes consumed by traveling merchants. The fried bread was often drenched in gravy, fat drippings, and spicy sauces, namely, tamarind sauce.
+
+Tamarind was known to be used in medicine for its infection-preventing properties and especially handy against gangrene.
+
+Appendix
+References
+
+---
+
+## Taluth's Shrewd Flight
+
+Taluth's Shrewd Flight was the store that dealt in bow-making and fletching, located in Mosstone of Tethyr.
+
+Location
+Taluth's was angled on the crossing of Sairnor Street and the southern end of Fallowfern Lane, next to a nondescript hot-bun shop.
+
+Services
+Taluth's Shrewd Flight offered a small selection of the finest quality. Bows, bowstrings, hundreds of various masterfully crafted quivers, and sturdy arrow shafts could be found in the store at all times. Even though the prices were quite high, they were more than fair for the supreme quality the store offered. Oftentimes, merchants who traveled along the Trade Way purchased several bundles of Taluth's arrows, knowing that they sold at a good profit further along the trade route.
+
+Taluth's stock was crafted using wood from a grove outside of Mosstone, not far to the east. Locals gossiped about Nhalbert Taluth having elven magic that allowed him to grow quality and straight saplings.
+
+History
+Nhalbert Taluth was the store's proprietor in the mid-to-late-14 century DR. He honed his skill with a bow during his time serving as the archer captain of Cormyr and following that - as a mercenary marksman. He faced a forced retirement after losing a leg under a racing wagon. Nhalbert retired to the quaint town of Mosstone and opened a store. He started by making arrows and later expanded to selling bows and bowstrings.
+
+Appendix
+References
+
+---
+
+## Tarlacoal
+
+Tarlacoal was a well-known but mysterious gold dragon who dwelled somewhere within the Thunder Peaks near the kingdom of Cormyr.
+
+Activities
+Having some local fame, Tarlacoal was believed to meddle in the political affairs of Cormyr to advance the cause of good, and to have done so since its founding in the . Supposedly, by polymorphing into appealing and convincing forms for a disguise, Tarlacoal preferred to act directly and even to pass his time among the people, spending more time there than at his lair, the location of which wasn't known.
+
+Relationships
+It was speculated by the sage Nibulus Loral that Tarlacoal and the crystal dragon Yiarni, also of the Thunder Peaks, not only knew one another but cooperated in some matter known only to them.
+
+History
+A famous story claimed that, during Gondegal's uprising in Cormyr in the, a disguised Tarlacoal was one of those advisers who quietly encouraged King Azoun IV to lead the troops in person.
+
+Tarlacoal was confirmed to still be alive following the Dracorage in the .
+
+Appendix
+References
+
+---
+
+## Tam'hi
+
+The tam'hi were two Malatran offshoots of the spirit folk of Kara-Tur. They were distinguished as being either jungle tam'hi or river tam'hi, similar in nature to the bamboo and river spirit folk respectively.
+
+Description
+All tam'hi had thin and supple bodies, with narrow eyes and extremely thin eyebrows. On average they stood  tall and weighed around .
+
+The jungle tam'hi had bronzed skin with black eyes, while the river tam'hi had pale skin with almond colored eyes, but the skin of both had a tint of gold to it. Both genders of each type were incapable of growing facial hair. Both types of tam'hi had hair colors ranging from light brown, black, and blond, with blond being the most rare and considered by them to be sacred.
+
+Simple dress was preferred by the tam'hi and only the necessities to survive away from one's clan were carried around.
+
+Personality
+The two types of tam'hi were quite intelligent and fierce defenders of their respective habitat. They also shared a deep fear of fire, typically fleeing when presented with it.
+
+Abilities
+Much like other spirit folk the tam'hi were highly attuned to nature and their surroundings, capable of drawing upon their nature spirit ancestry. Both types had infravision out to  and were more susceptible to fire-based spells and abilities.
+
+Jungle tam'hi were skilled at hiding in the shadows of the jungle and had some resistance to earth and wood-based spells and abilities. Once per day they could speak with animals and speak with plants. They could travel throughout the jungle without leaving a trace.
+
+River tam'hi were adept at swimming and could breathe underwater. Once per day they could immerse themselves in a fresh water river or stream and be healed in a manner similar to cure serious wounds.
+
+Combat
+Tam'hi of both types were typically warriors, though one could also find rogues and wizards among them, the latter of whom had to travel to other tribes to find a teacher in magic.
+
+Society
+All tam'hi had a strong sense of family. They lived in clans that were composed of a collection of families related through several marriages.
+Diet
+The tam'hi were an omnivorous people, though they typically preferred to be vegetarians. They had no taste for fermented berries or other strong drinks, often falling ill from their consumption.
+Relationships
+Throughout their existence on the Malatra Plateau, the jungle and river tam'hi held excellent relations with one another, having never once went to war. They sometimes forged alliances with the Nubari, who viewed them as attractive and mystical, to protect their habitat.
+
+It was incredibly rare to find tam'hi living within non-tam'hi tribes, though some of the larger Nubari tribes would adopt them. The Tribe of Big Chief Bagoomba lacked tam'hi members, though they often visited it.
+
+The jungle tam'hi and black leopard variety of katanga held a mutual hatred for one another and were sometimes being mistaken for the other.
+
+History
+The origins of the tam'hi were shrouded in mystery. According to the plantmen of the plateau, two human tribes witnessed the arrival of the ancients and foresaw the many changes they would bring to the land. In desperation, they made a pact with the spirits of the Malatran Plateau, with a hundred warriors of one tribe dedicating themselves to the jungle and a hundred warriors from the other dedicating themselves to lakes, rivers, and swamps. Giving themselves to the spirits, these people became the oldest of the stone statues that would be found throughout the plateau and the River of Laughing Idols. The rest of the tribesmen would be joined with the spirits of the forest and river, becoming the tam'hi.
+
+Tam'hi would be witnesses to the destruction of the once verdant Yaku Plains by use of forbidden magic. In the years following, jungle tam'hi would never willingly enter the plains, considering them taboo. And those who had witnessed it would be reluctant to tell anyone what had happened.
+
+When a member of the ancients began experimenting with old forbidden magic, the same magic that had created the Yaku Plains, plantmen and hundreds of tam'hi confronted the ancients' ruling council. Demanding they put a stop to that individual ancient's use of forbidden magic.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Tapir
+
+Tapirs were a largely peaceful species of mammal, related to boars.
+
+Description
+These creatures had wide mouths, dull teeth, and soft hooves.
+
+Abilities
+Tapirs were adept at swimming and could remain underwater for several minutes.
+
+Combat
+These creatures were ill-equipped for combat. If cornered, they would resort to biting.
+
+Ecology
+Habitats
+Tapirs could be found in tropical forests, living along rivers. On Toril, they could particularly be found on the Malatran Plateau and in the jungles and tropical forests of Maztica, such as the Narabatun Jungle.
+
+Beyond Toril, tapirs could be found in the gardens of the legendary Spelljammer.
+Relationships
+These creatures were commonly hunted on the Malatran Plateau by the Simbara tribe of Nubari.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Fires of Zatal • Endless Armies
+External Links
+
+References
+
+---
+
+## Talisid
+
+Prince Talisid, the Celestial Lion, was the most powerful and wise of all leonals, the protector of the Blessed Fields of Elysium, and the unofficial leader of all guardinals. In the World Tree cosmology, Talisid was considered to live in the House of Nature.
+
+Description
+Talisid was a golden-maned leonal of muscular build and regal poise. At  in height, he was much taller than the average leonal, who stood closer to . His eyes were piercing and dark.
+
+The "Leonal Prince" clothed himself in robes of elegant craftsmanship.
+
+Personality
+Talisid loved his natural realm with a great affection, developed over thousands of years. His hatred of evil was matched by this passionate love of nature. Of a balanced character, he thus could be compassionate or ruthless, as the circumstance required.
+
+While considered a king among the guardinals, Talisid did not think of himself in this manner; he thought of himself rather as a servant of his people. He was proud of his accomplishments, but he was equally proud of those of his Companions, and his pride never interfered with his duties to uphold good in his realms.
+
+The wisdom of Talisid was so well known, that even planetars and tulani have come to him for advice. His strategies were brilliant.
+
+Talisid was known to absentmindedly stroke the beard on his chin frequently.
+
+Abilities
+Like all guardinals, Talisid could see far in dim light and had colorless vision in complete darkness. His body was magically resistant to harm from acid, cold, poison, and sound blasts and completely resistant to damage from electricity. He could not be turned into stone. Talisid could heal himself or others to a limited extent by touching them with his hands, and he could speak with nearly any sentient creature or animal by means of magic.
+
+Like all leonals, Talisid had a powerful and supernatural roar that not only shook enemies with the force of the sound but affect them in a similar manner to a cleric's holy word spell. He fought in a catlike manner, with biting, clawing, pouncing, and raking. A protective aura surrounded him at all times that defended him and allies near him against evil creatures. The aura surrounding Talisid additionally glowed with a nimbus of light. He shared several other inherent magical abilities common to leonals as well, such as the ability to cast fireballs from his fingertips.
+
+As a celestial paragon, Talisid's powers were greater still. He could not be harmed by anything but the most powerful of mundane physical damage, unless the blows came from evil creatures using silvered weapons, and he was strongly resistant to spells from all but the most powerful spellcasters.
+
+Finally, Talisid was a druid, with the full complement of druidic powers to the fullest extent available to mortals. He also knew an assortment of rare spells only known to the most benevolent of druids: affliction, rain of roses, silvered claws, and touch of adamantine.
+
+Possessions
+Talisid had no weapons or armor, having little need of them on account of his powerful claws and advanced druidic magics.
+
+Activities
+Although he spent most of his time on Amoria, the uppermost layer of Elysium, Talisid wandered all four of that plane's layers freely, often in the form of a solitary lion. He guarded the Blessed Fields and the House of Nature from poachers and other foes of nature, tracking them silently. He had no permanent abode, instead relying on the hospitality of his many friends.
+
+At times, like his Companions, Talisid would judge cases among the leonals or lead groups of them into battle against evil. Typically, he allowed the guardinals the freedom to live as they pleased, ruling by example, but when he spoke, his words were obeyed.
+
+Relationships
+Talisid led the Five Companions much like the leader of an adventuring party, as a man leading his friends, not as a king leading his vassals. Talisid's bond of friendship to Sathia, Manath, Vhara, Kharash, and Bharrai was said to be stronger than the bonds of family. His friendship to the lupinal Kharash was the strongest of the Five. The two were so commonly seen in each other's company that Duke Kharash was sometimes called "Talisid's Shadow".
+
+The powers of Elysium held great respect for the leonal prince.
+
+History
+While Talisid was not the first Celestial Lion of Elysium, he was the longest guardinal serving in that role, having served for thousands of years and much longer than any of his Five Companions. Few even could recall the name of the Celestial Lion who came before him, and some even considered him a demigod.
+
+Throughout history, many leonals have grown in power and sought to challenge Talisid to become the next Celestial Lion. Talisid would willingly pass on power and serve as an advisor to anyone who might best him, but he had humbled every such challenger in nonlethal combat.
+
+Appendix
+See Also
+ Morwel
+ Nobanion
+ Zaphkiel
+
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Talisman of pure evil
+
+Talismans of pure evil were powerful enchanted amulets filled with mind-influencing malice.
+
+Description
+There were many designs and variations of these items, indicating them being created by various parties at various points in history.
+
+Powers
+Talismans of pure evil were believed to be as powerful as an artifact. Even though only evil creatures could wear these amulets, even the darkest of the souls were further twisted and corrupted by these items, plunging them deeper into fiendish evil with each passing day. Additionally, talismans of pure evil significantly increased the wearer's charisma and wisdom, as well as granted them increased resistance to magic of arcane, divine, and spell-like creature abilities.
+
+History
+In the late 14 century DR, several of these evil talismans were in existence, found in several places on the Sword Coast, Moonsea, and even as far as Chult. Most often these items were found in ancient tombs and crypts of evil individuals.
+
+Notable Owners
+Agaza: a night hag of the Lonelywood Forest in the late 14 century DR.
+Thantus: a Zhentarim cleric of Bane, member of the Twilight Blades band of assassins circa 1357 DR.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights • Neverwinter Nights 2 • Neverwinter Nights: Doom of Icewind Dale
+
+References
+
+---
+
+## Talaric Daoran
+
+Lord Protector Talaric Daoran was a member of the royal House Daoran of Phlan and the ruler of the city-state during the mid–15 century DR.
+
+Relationships
+He was the son of Phlan's first monarch Cvaal and the father of Anivar, the last member of the Daoran dynasty.
+
+History
+In the, Talaric broke the treaty his father had formed with the dark fey of the Quivering Forest, by directing loggers to start cutting down its trees. He vanished from Valjevo Castle the very next day and was never seen again.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tanatha
+
+Tanatha of the Glittering Blades was the Chief Vizier of Mahabba in the Pantheist League of interior Zakhara in 1367 DR.
+
+Activities
+As Chief Vizier, Tanatha served as the caliph's most trusted advisor.
+
+History
+Tanatha was a skilled farisa who served on several campaigns with Caliph Ma'mum al-Sahnan.
+
+Relationships
+Tanatha was briefly married to Ma'mum and bore him three sons. Two of their sons perished in combat, but the third trained to become a moralist in I'tiraf.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tayaraan
+
+Tayaraan was a small village found within the Cities of the Ancients region of east Zakhara in 1367 DR.
+
+Geography
+Tayaraan sat at the mouth of the Kadan River where it emptied into the western edge of Bahr al-Ajami, making it quite an isolated settlement. The nearest major city was Rog'osto to the south. Though it was located roughly in the middle of the Ruined Kingdoms, Tayaraan was the easternmost occupied settlement as of 1367 DR. To the east stretched a vast expanse of dense jungle and ruins.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tallas Greenfellow
+
+Tallas Greenfellow was a half-elf proxy of the Faerûnian power known as Chauntea. He was one of the two primary proxies in that goddess's divine realm, the Great Mother's Garden.
+
+Personality
+Embodying the more agricultural aspect of his power, Tallas spent much of his time concerned about how good each harvest would be.
+
+Relationships
+Tallas got along quite well with Leyla Wildwood, Chauntea's other primary proxy in the Great Mother's Garden.
+
+Appendix
+References
+
+---
+
+## Targ Nar
+
+Targ Nar was a gnoll fang of Yeenoghu. Circa the, he was stationed at the Scab surrounding the Bleeding Citadel in Avernus.
+
+Abilities
+As with any fang of Yeenoghu, the flesh of those slain by Targ Nar could transform hyenas into gnolls.
+
+Relationships
+While stationed at the Scab, Targ Nar was in command of a gang of fifteen other gnolls, and he himself followed orders from the nalfeshnee Trantolox.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Baldur's Gate: Descent into Avernus
+Card Games
+
+References
+
+---
+
+## Taik
+
+King Taik was a dwarvish clan ruler who faced an invading orc horde led by a warlord, Kumon.
+
+History
+Long before 1372 DR, Taik was the leader and defender of his kingdom. To defend it better, he had a powerful enchanted axe crafted using the essence of an infamous marauding orc sorcerer Sajifot. The Blood Frenzy in the hands of the King chopped down many of the invaders, eventually beheading chieftain Kumon, ending the horde's rampage once and for all. King Taik lived a long life and eventually died and was interred along with the Blood Frenzy axe in a royal tomb. With ages passing, the knowledge of the tomb's location was lost. However the tomb was looted sometime long after the King's death as the Blood Frenzy was found in the hands of Derval Ironeater of Daggerford in 1372 DR.
+
+Appendix
+Appearances
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Taggot Ironshroud
+
+Taggot Ironshroud was a dwarf adventurer from Sundabar in the Silver Marches who joined a group of fellow dwarves aiding Neverwinter in the late 15 century DR.
+
+Personality
+He had a strong affinity for the history of the dwarven people and considered himself an ally of the other free folk of the North.
+
+Relationships
+He was a companion of Skeld Steelhelm of Mithral Hall, Gord Roundshield of Citadel Felbarr, and Tori Hammerheart of Citadel Adbar.Skeld refers to a "handful of heroes" and lists these four dwarfholds, but only names Gord. As Skeld, Gord, Taggot, and Tori all give Lore entries about their respective dwarfholds and have dwarf-specific quests, it may be assumed that all four were part of the same group.
+
+Taggot was a known associate of Sergeant Yates of the Neverwinter Guard. He had a low opinion of one Melkhor Goldseeker, believing him to be greedy, unscrupulous, and a shame to the dwarven people.
+
+History
+In the, the four dwarf companions came to Neverwinter to offer their aid to the beleaguered city.
+
+Taggot worked out of the Broken Crown inn on the High Road, helping the folks of Neverwinter with the Blackdagger Bandits that plagued the area around Raven Cliff Beach. He worked with fellow dwarven adventurers to collapse some goblin tunnels that were dug into the nearby cliffs.
+
+Also around that time, he led the efforts to search the caves near Cragmire Keep for artifacts from the ancient dwarven kingdom of Delzoun. He sought to retrieve them in order to preserve dwarven culture, rather than make a profit of them like the avaricious Melkhor.
+
+Appendix
+Behind the Scenes
+Gord was involved in dwarf-specific quests for the dwarf player race.
+
+Notes
+
+Appearances
+Video Games
+
+External Links
+
+References
+
+---
+
+## Tasha Lal
+
+Tasha Lal was the owner of the House of Mirth, an inn in Bralizzar, in the mid–14 century DR.
+
+Personality
+Of "indeterminate years", she was warm and easy to talk to, which contributed to the success of the inn.
+
+Appendix
+Appearances
+ Desert of Desolation
+
+References
+
+---
+
+## Talisman of the sphere
+
+A talisman of the sphere was an enchanted piece of jewelry that made it easier for a spellcaster to control a sphere of annihilation.
+
+Description
+These small adamantine loops had a small handle.
+
+Powers
+These items were not only useless to non-wizards, the would actually cause physical harm to any non-wizard who held them. When held by a wizard concentrating on controlling a sphere of annhilation, a talisman of the sphere increased the wizard's chance of success. However, if the wizard was unable to gain control over the sphere of annhilation, it would proceed to move toward the wizard at its maximum speed. A wand of negation targeted at a talisman of the sphere would negate the control.
+
+Notable Owners
+ Acererak, the demilich creator of the Tomb of the Nine Gods.
+ Emirikol, a plane-traveling wizard, carried a talisman of the sphere.
+ Marian Wicksal, a wizard and one of the operators of the Ravens Bluff Sanitation Facility, carried a talisman of the sphere that she had obtained in her adventuring days from the horde of a red dragon.
+
+Appendix
+See Also
+Blackball
+Appearances
+
+References
+
+---
+
+## Tarbash Dellkisel
+
+Tarbash Dellkisel was a rogue gnome scavenger cousins of Robalend Lukka who aided a group of heroes against the Cult of the Dragon in 1369 DR.
+
+Description
+Tarbash was a gnome of  height. He dressed in dark colors, to compliment his roguish profession and often tricked people into buying his potions and other knick-knacks recovered from the ruins of Myth Drannor.
+
+Abilities
+Tarbash Dellkisel was an accomplished rogue and dabbled in illusion magic. His spellbook contained mostly defensive and practical spells such as detect magic, detect poison, disrupt undead, ghost sound, mage hand, change self, jump, silent image, spider climb, invisibility, rope trick, as well as gnomes' spell-like abilities.
+
+Through his many expeditions into Myth Drannor, Tarbash knew of many gate that connected the ruins with many parts of the Realms.
+
+Possessions
+Tarbash carried a set of enchanted +1 studded leather, hidden underneath a dark hooded half-cloak. He was armed with a simple short sword and a masterwork light crossbow. He also owned a stone of alarm, a potion of cure moderate wounds, a wand of shatter, as well as a bag of holding, packed with alchemist's fire vials and potions he gladly made available for purchase.
+
+History
+Before the Cult of the Dragon's arrival in 1369 DR, Tarbash and his cousin, Robalend Lukka, made a living by scavenging the ruins of Myth Drannor. However, that vocation was cut short when the cultists took over the ruins, and Robalend was captured.
+
+A month after, by chance, Tarbash Dellkisel encountered a group of heroes who were searching for enslaved villages taken to the ruins of Myth Drannor. He saw them moving along a path from the Shrine of Mystra to the City of Song's Polyandrium and called out to them from thick bushes. He warned the adventurers of the Cult of the Dragon patrolling the area and advised a more stealthy approach. Tarbash agreed to help the heroes in exchange for their help in rescuing the unlucky cousin. Together with them, Tarbash made way to the Tower of Bones, the center of Cult's operations in the Polyandrium. The group managed to gain access to the tower's roof, where they confronted several cultists and the High Priest Ryngoth. They arrived just in time to rescue Robalend Lukka from being killed and raised as mindless undead servant of the Cult.
+
+Thankful for the rescue, both gnomes decided to aid the heroes in the struggle against the Cult of the Dragon, and getting access to newly unsealed treasure-filled tombs of Polyandrium was a nice incentive. Subsequently, the gnomes and the adventurers managed to sneak into Castle Cormanthor and destroy the phylactery of a dracolich Pelendralaar, leading to the Cult's downfall at the hands of the Veiled Ones.
+
+Appendix
+Appearances
+Adventures
+Pool of Radiance: Attack on Myth Drannor
+
+References
+
+---
+
+## Talisman of spell turning
+
+Talismans of spell turning were talismans that protected a wearer against magical attacks and reflected those spells back at the caster.
+
+Description
+Talsimans of spell turning were crafted from silver, iris agate, and crushed dragon bone. They weighed about a pound (half a kilogram) and would sell in most markets of Faerûn for around 2,800 gold pieces. They emitted a moderate abjuration aura to those who could detect such things.
+
+Powers
+When the wearer of one of these talismans pressed it to bare skin, the magic would offer protection as soon as the wearer was targeted by an attacker's spell. The talisman would then crumble to dust, and for one minute, the talisman's resonating field would reflect back between one and five low-powered and targeted ranged spells.
+
+Creation
+Fabrication of such a talisman required the creator to know the spell lesser spell turning.
+
+History
+Talsimans of spell turning were invented by the adepts, witch doctors, and shamans of the Thousand Fists tribe of orcs from the Nether Mountains. When the Nethertide Horde sought to plunder the city of Silverymoon in the, the talismans allowed the orcs to survive many of the spells from the ambushing wizards of the Moonlight Men in the Battle of Turnstone Pass. (The Moonlight Men were ultimately victorious, however.)
+
+Afterward, the cambion Kaanyr Vhok learned the secrets of the talismans''' creation, and he and his bands of tanarukka actively began to spread the knowledge of how to craft them to other tribes in other mountains—such as the Rauvin Mountains and the Greypeaks—and in the Fallen Lands.
+
+Appendix
+See Also
+ Spell turning''
+
+References
+
+---
+
+## Talisman
+
+A talisman was a fetish or item of jewelry enchanted to act as a magic item. Talismans were particularly common in the lands of Kara-Tur and Maztica.
+
+Description
+A talisman was generally no bigger than a holy symbol and very light. The form of the talisman was often a clue to its magical power. For example, a talisman shaped like a goldfish scale might grant the user the ability to breathe underwater.
+
+Most talismans were made from natural materials, such as bone, feathers, or dried plants. In some lands, a talisman could be made from folded paper. The orcs of the Thousand Fists tribe integrated silver and iris agate into the crafting of their talismans of spell turning. In Maztica, talismans were always items of beauty and symmetry.
+
+Powers
+Talismans usually granted some sort of benefit or protection to the user, rarely ever any sort of offensive capabilities. Like wands or potions, the rules of magic usually limited the creation of talismans to weaker spells.
+
+The method of activation for talismans varied but usually involved touching the object and concentrating for a brief moment or speaking a word of command. Anyone could use a talisman's powers; one did not have to be trained in magic to do so. Most (but not all) talismans could be used a single time before their magic was spent. When used, such talismans crumbled away to ash or dust.
+
+Talismans made of sunstone had the power to ward off any undead that were affected by sunlight.
+
+In Maztica, Azuposi priests and special roughish spellcasters called fetishists could use talismans to enhance the powers of their spells.
+
+Creation
+In Maztica, two broad categories of talismans were crafted, and it required a particular powerful spell to create them. These were talismans of pluma and talismans of hishna.
+
+In Zakhara, the spell death talisman was used to create a special talisman that would perpetually remain in its current condition until the caster's death. For example, a small piece of equipment could be made to resist water damage or decay from age, and it would also fade away into dust when the owner was no longer alive, preventing anyone else from inheriting the item.
+
+Reputation
+Unlike in other lands, in Kuong Kingdom, wu jen kept themselves hidden from general society, and the wearing of talismans was used as a secret means of identification.
+
+Notable Talismans
+Some talismans were more powerful than usual and warrant special mention here:
+ The Water Ochimo, a spirit warrior created by the Dead Spirit King of the island of Akari (south of Kozakura), wore a talisman of the restless dead, which allowed it to Animate skeletons.
+ Monkey head talismans were created by Hu Sen, the "Mad Monkey", to speed the learning of his special style of martial arts.
+ The legendary talisman of pure good was supposedly used to sink the temple of the evil Black Leopard Cult to the center of the planet.
+ The Order of the Snake talisman granted the wearer the ability to invade other people's dreams.
+ The couatl Uxma possessed a pluma talisman that was a kaleidoscope made of feathers. This talisman charmed those looking at it.
+
+Appendix
+See Also
+ List of talismans
+
+Adventures
+
+External Links
+
+References
+
+---
+
+## Talisman of memorization
+
+A talisman of memorization was a magic amulet that sped the daily memorization of spells.
+
+Powers
+These talismans allowed a wizard to prepare spells in half the time that it would normally take. They came in two varieties—those that only aided in the memorization of weaker spells and those that aided in the memorization of powerful spells. About equal amounts of each type were in existence. The talismans never assisted in the daily memorization of the most powerful of spells.
+
+Notable Owners
+At least one of the wizards who fought with the Moonlight Men against the orcs of the Nethertide Horde in the Battle of Turnstone Pass had one of these amulets. It was buried with the wizard in the Cairn of Moonlight in Turnstone Pass.
+
+Hwesta, an elven rogue, wizard and adventurer who was banished to Toril by a mighty mage from Oerth for stealing the mages talisman of memorization.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Talona's blessing
+
+Talona's blessing was a divine abjuration necromancy spell used by priests devoted to Talona, enabling them to grant a touched target immunity to all poisons and diseases.
+
+Effects
+For this spell to work the caster had to touch the target's skin. The caster could also use this spell on themselves.
+
+This spell granted temporary immunity to all poisons, venoms, gases, and diseases both normal and magical, including such things as lycanthropy and mummy rot. The spell also killed or expelled any parasites within the target's body as well as any molds, mildews, or fungi.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tathla Nightstar
+
+Tathla "Flamehair" Nightstar was a famous courtesan of Calimport and later proprietor of the Purple Palace festhall in the Dock Ward of Waterdeep in the mid-to-late 1360s DR.
+
+History
+She became famous as a courtesan in Calimport in Calimshan in the mid-1330s DR. At one point, she was also an adventurer, but later retired from that life.
+
+By the mid-1360s DR, Flamehair Nightstar was owner of the Purple Palace and was considered one of the shrewdest investors in the city at the time. She was also a friend to goodhearted adventurers.
+
+Description
+Even thirty years later, Tathla was considered a great beauty. She was nicknamed "Flamehair" for her blood-red hair, which was so long it enveloped her like a cloak and trailed over the ground behind her.
+
+Appendix
+References
+
+---
+
+## Takosh-Re
+
+Takosh-Re was a pharaoh from the dynasty of Mo-Pelar and the father of Amun-Re.
+
+Legacy
+Per the Book of Amun-Re, Amun-Re's father told him of the power of the waters of Athis, which they considered the very gift of Isis, while Amun-Re was young. Upon his death, Takosh-Re was buried in the manner of other pharaohs, being succeeded by his son, Amun-Re.
+
+When the younger pharaoh heard that his father's tomb may have been looted, he headed there alone. He became enraged and horrified by the desecration; this made Amun-Re vow that his tomb would be theft-proof, so that he could not be cheated of his place in Heaven Westward.
+
+Appendix
+Appearances
+Adventures
+Desert of Desolation
+References
+
+---
+
+## Tattered Cloth
+
+The Tattered Cloth was a legion of kobolds that attacked the city of Hlondeth in 527 DR.
+
+History
+Shevron Extaminos was a key figure in saving most of the population of Hlondeth from the kobold's assault.
+
+Appendix
+
+References
+
+---
+
+## Tantras/Sewers
+
+The sewers of Tantras were a sanitation system of fragmentary pipe and tunnel networks beneath the city of Tantras in the Vast in  the mid-to-late 14 century DR.
+
+Structure
+Due to the city of Tantras being built in some areas upon solid rock and in others upon layers of ooze, much of this network was lined with stone blocks or large sections of round tile.
+
+The city streets had many central gutters where runoff washed down into the harbor, in some cases passing through pipes that laid beneath the wagon-ways right along the docks.
+
+Various small parts of the pipe networks emptied through grated outlets into the harbor from western parts of the city.
+
+Functionality
+Like many sewer systems in the Realms, this one operated on a tidal flushing system. Throughout its history, the sewers often suffered from flooding due to the Dragon Reach's tides washing the sewage back into the system whenever the wind blew eastward, though the gratings on its outlets prevented the tides from washing in large objects.
+
+Over time, efforts were made to lessen the severity of this backwash, but they could not fully solve the issue. These included enlarging the size of pipes and hollowing out increasingly large water-chambers along the network of pipes. Attempts at establishing a huge, dungeon-like network across all of Tantras, similar to the sewers of Waterdeep, were always thwarted by flooding.
+
+In the eastern reaches of subterranean Tantras, some of the larger chambers were outfitted with a form of primitive water-wheel—a string of buckets on chains powered by mule locomotion—which raised up to empty into silo-like water-towers. Occasionally these silos were drained in a gravity-powered flood through the easternmost sewers, carrying the dung out into the marshy fields immediately east of Tantras.
+
+During the winter season, cold weather would cause the sewers to freeze and, even with the heat that dung generated, the system would become inefficient. On the other hand, the cold air also cut down on the smell and caused disease-carrying insects to be largely or wholly absent. Around this time of year, Tantras would resort to nightsoil carts (sometimes mounted on sledges) to carry their waste away to be spread over the farm fields surrounding the city.
+
+Appendix
+References
+
+---
+
+## Tatchalik
+
+Tatchalik was a bounty hunter from Chult, active before 1372 DR.
+
+History
+Intulik of the Blood used his magics and political prowess to gain power sometime before 1372 DR, assassinating his political opposition. Eventually, he rose to power over non-Mezroan Chultan tribes. However, the subjection was short-lived. Intulik's career was ended via the sword of a bounty hunter called Tatchalik. He claimed the Spirit of the Predator, the enchanted helmet created by Intulik, as his payment and left Chult for Waterdeep, proudly displaying the new magical trophy.
+
+Appendix
+Appearances
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Tamshan
+
+Tamshan was a bard inhabiting the village of Shadowdale in the .
+
+Activities
+Tamshan was once a member of Mane's Band–an adventuring company based in Shadowdale. As of 1358 DR he was an agent for the Harpers who worked quietly within the dale.
+
+Appendix
+References
+
+---
+
+## Tanthala
+
+Mage Arcane Tanthala was an influential wizard inhabiting Saerloon in the .
+
+Activities
+Tanthala was a devout follower of Mystra and one of several leaders of the Tower of Mystery in Saerloon. She would assume full leadership in the temple by the .
+
+Appendix
+References
+
+---
+
+## Talanthe Truesilver
+
+Talanthe Truesilver was a half-elf bard who lived in the Delimbiyr Vale in the mid–14 century DR. She was renowned for composing "The Ballad of the Dream Weaver".
+
+History
+In the late 1320s DR, then a young woman, Talanthe visited an obscure and ramshackle tavern in Secomber named the Stag. One night in the taproom, she performed a ballad of her own composition, "The Ballad of the Dream Weaver". For some reason, it proved to be popular, becoming one of the most well known and widely played ballads in Faerûn by the 1360s DR, with many variations. However, Talanthe used the original "proud lady, laughing lady" words, whereas later female singers would use "proud lord, laughing lord". The Stag was renamed The Seven-Stringed Harp to take advantage of the reputation.
+
+Relations
+Her daughter was Teseryne Truesilver, who also became a bard.The Truesilver name suggests a connection to the Truesilver noble house of Cormyr, but this may just be coincidental.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tarrik Dynasty
+
+The Tarrik Dynasty, which was also referred to as the Demon Dynasty, briefly ruled over the nation of Impiltur from 726 DR to 729 DR.
+
+Monarchs
+ King Argosh the Scaled  Reigned 726 DR – 729 DR. Argosh was a half-fiend son of a duke who claimed the throne after the death of King Forvar II.
+
+Appendix
+References
+
+---
+
+## Tairo
+
+​
+The tairo were the Great Elders of Wa, the highest office of the shogunate.
+
+Organization
+There were between three and five tairo at any given time. They were selected from among the fudai daimyo, the so-called "house daimyo" who were most loyal to the shogun. This was a very honored role in Wa society, and to hold the position, one must havre owned property equivalent to at leaat 100,000 koku of rice. Whenever a new Great Elder was needed, he was selected and approved by the shogun.
+
+Activities
+The primary role of the roju was to directly advise the shogun in all important issues, including the creation of new laws for the nation. The tairo also oversaw the activities of the major daimyo.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tanalanthara Mytersaal
+
+Tanalanthara Mytersaal, who was also nicknamed She-Wolf, was the sixth High Mage of Silverymoon.
+
+Activities
+Tanalanthara's time as High Mage was rather short, serving from the  to the . She deposed the Warlord Lashtor to claim her rule.
+
+Relationships
+Her brother Yril claimed the title of Warlord after Lashtor was deposed.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tanisell
+
+Tanisell, who was also nicknamed the Cloaked, was the seventh High Mage of Silverymoon.
+
+Activities
+Tanisell was elected to the position of High Mage by the citizens of Silverymoon in the, and served until the, when he died of a fever.
+
+History
+He was originally from Ascalhorn.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Talanthil Dynasty
+
+The Talanthil Dynasty was the second dynasty to assume power in the nation of Raumathar, reigning from -605 DR to -150 DR. With the sudden deaths of the last remnants of the Nhalass Dynasty killed by demons from Narfell, Raumathar was left without a clear leading family. However, the Talanthil's rose to power during this time with the overwhelming support of the public.
+
+Monarchs
+ Sorcerer–Arkhan Vayloss "Fireblood"
+ Reigned -605 DR – -559 DR. First Sorcerer–Arkhan of Raumathar.
+ Sorcerer–Arkhan Corlarth
+ Reigned -559 DR – -499 DR. Firstborn son of Vayloss I. Second Sorcerer–Arkhan of Raumathar.
+ Sorcerer–Arkhan Horlarth
+ Reigned -499 DR – -460 DR. Thirdborn son of Corlarth. Third Sorcerer–Arkhan of Raumathar.
+ Sorcerer–Arkhan Nayloss "Fireyes"
+ Reigned -460 DR – -408 DR. Firstborn son of Horlarth. Fourth Sorcerer–Arkhan of Raumathar.
+ Sorcerer–Arkhan Vayloss II "the Elder"
+ Reigned -408 DR – -404 DR. Firstborn son of Nayloss. Fifth First Sorcerer–Arkhan of Raumathar.
+ Sorcerer–Arkhan Vayloss III "the Younger"
+ Reigned -404 DR – -370 DR. Secondborn son of Nayloss. Sixth First Sorcerer–Arkhan of Raumathar.
+ Sorcerer–Arkhan Mornarth I
+ Reigned -370 DR – -323 DR. Firstborn son of Vayloss III. Seventh Sorcerer–Arkhan of Raumathar.
+ Sorcerer–Arkhan Tallos I "the Windlord"
+ Reigned -323 DR – -286 DR. Sole heir of Mornarth I. Eighth Sorcerer–Arkhan of Raumathar.
+ Arkhan Tallos II
+ Reigned -286 DR – -250 DR. Grandson of Tallos I. Arkhan of Raumathar.
+ Arkhan Mornarth II
+ Reigned -250 DR – -215 DR. Firstborn son of Tallos II. Arkhan of Raumathar.
+ Arkhan Tallos III
+ Reigned -215 DR – -199 DR. Secondborn son of Tallos II. Arkhan of Raumathar.
+ Arkhan Mornarth III
+ Reigned -199 DR – -168 DR. Firstborn son and sole heir of Tallos III. Arkhan of Raumathar.
+ Sorcerer–Arkhan Tallos IV "the Artificer"
+ Reigned -168 DR – -154 DR. Firstborn son of Mornarth III. Ninth Sorcerer–Arkhan of Raumathar.
+ Sorcerer–Arkhan Vayloss IV "the Flamebringer"
+ Reigned -154 DR – -150 DR. Secondborn son of Mornarth III. Tenth Sorcerer–Arkhan of Raumathar.
+
+Family Tree
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tallos Talanthil I
+
+Tallos Talanthil I, who was also called the Windlord, was the eighth Sorcerer-Arkhan of the Talanthil Dynasty to rule the nation of Raumathar.
+
+Activities
+Tallos inherited the throne when his father, Mornarth Talanthil I, died in . He ruled until .
+
+Relationships
+His grandson and heir was Tallos II.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tallos Talanthil II
+
+Tallos Talanthil II was an Arkhan of the Talanthil Dynasty to rule the nation of Raumathar. He was the first Talanthil to rule who did not hold the title of Sorcerer–Arkhan.
+
+Activities
+Tallos II reigned from  until, inheriting the throne when his grandfather and namesake, Tallos I, died.
+
+Relationships
+His son and heir was Mornarth Talanthil II.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tallos Talanthil III
+
+Dhalarth Talanthil was an Arkhan of the Talanthil Dynasty to rule the nation of Raumathar.
+
+Activities
+Dhalarth inherited the throne when his older brother, Mornarth II, died in . His name was changed to Tallos III upon becoming the Arkhan. He reigned until .
+
+Relationships
+Tallos III's son and sole heir was Mornarth Talanthil III.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tallos Talanthil IV
+
+Tallos Talanthil IV, who was also called the Artificer, was the ninth Sorcerer-Arkhan of the Talanthil Dynasty who ruled the nation of Raumathar.
+
+Activities
+Tallos IV reigned from  to . He inherited the throne when his father Mornarth III, died. Tallos IV died in −154 DR during an assault on Dun-Tharos in Narfell.
+
+Relationships
+Tallos IV's younger brother was Vayloss IV
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tarnhart Campion I
+
+Tarnhart Campion I was the third King of the Campion Dynasty who ruled the city-state of Westgate.
+
+Activities
+Tarnhart ruled from the, until his death in the . His reign would be the longest of the Campion Dynasty. Tarnhart I inherited the throne upon the death of his uncle Jhentyr I.
+
+Relationships
+He had two sons. His second son, Jhentyr II would succeed him on the throne.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tarnhart Campion II
+
+Tarnhart Campion II was the fifth and final King of the Campion Dynasty who ruled the city-state of Westgate.
+
+Activities
+Tarnhart II inherited the throne upon the death of his father, Jhentyr II, in the . He ruled until the, when he was slain by a red dragon.
+
+Relationships
+Tarnhart II died without siring an heir, leading to the fall of the Campion Dynasty and giving rise to the Eorn/Lorndessar Dynasty.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tau'am bint Nisr
+
+Tau'am bint Nisr was a skilled hakima inhabiting Qudra in north Zakhara in .
+
+Activities
+As a hakima, Tau'am used her ability to see the truth in others within the slave market of Qudra to make sure that none of the slaves were actually free men or women or ensorcelled against their will.
+
+Relationships
+Tau'am's twin sister, Tum, was also a hakima and worked beside her.
+
+Appendix
+Notes
+
+Refs
+
+---
+
+## Talona's Tear
+
+Talona's Tears were enchanted Talonite thrown weapons, symbolic of the Mistress of Disease and Mother of All Plagues.
+
+Description
+These small chunks of amber could fit in one's hand. These stones emanated constant buzzing sounds from their cores.
+
+Powers
+When Talona's Tear was thrown, it shattered upon impact and from its core a deadly swarm of insects was unleashed to gnaw on everything in their way. This effect was similar to a powerful version of the creeping doom spell.
+
+History
+One of Talona's Tears was hidden deep inside a vault of the Temple of Bhaal in the town of Liam's Hold, later known as the Stronghold. The wondrous Talonite item was deposited there sometime before the temple's fall and abandonment during the Time of Troubles. As of 1372 DR, the Tear was still locked behind the vault's hidden door and guarded by three gargoyles.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Taaki
+
+Taaki was Sauk's arumwon, or animal companion.
+
+Description
+Taaki had ochre lines painted into her flanks and the top of the head.
+
+History
+On Tarsakh 14 of, Taaki had been attacking livestock around the Shalhoond. After killing one shepherd and wounding another, Berun and Lewan were hired by the locals to stop her. They found lettering scratched into a boot track close to its own, spelling out "KHEIL". Berun continued alone, until he came across the tigress menacing a man. Taaki was distracted by Perch, as Berun attempted escape in more than one occassion.
+
+Taaki was slain on the night of Tarsakh 25. On finally swallowing Perch whole, the lizard slew her from inside.
+
+Appendix
+Appearances
+Novels
+Sentinelspire
+References
+
+---
+
+## Talieth
+
+Talieth was the Lady of Sentinelspire, the daughter of Alaodin.
+
+Description
+Talieth had flawless, smooth, dark skin, black eyes, and black hair she kept in braids to her waist.
+
+History
+Prior to, Talieth had a romance with Kheil, her father's best assassin. She wept for the man's death during his raid on the Yuirwood on Mirtul 2 of that year. In the years since, she participated in two revolts against her father, both of which were quashed; she personally led the second revolt in, which left her imprisoned in the dungeons of the fortress. When the druid Chereth slew Alaodin and freed her, she swore loyalty to him; the druid then became the second Old Man of the Mountain. At some point after Kheil's death, she also took the assassin Valmir as her lover and began to teach him magic.
+
+She learned that Kheil was alive again by scrying in, after learning that the new Old Man of the Mountain sought an artifact of Silvanus, Erael'len, which the former assassin held. She sent Sauk and a number of others to the Shalhoond to fetch the killer and the artifact. Instead, they retrieved the artifact and Berun's apprentice, Lewan. Though she was informed by Sauk that Kheil was no longer himself, and also that he was swallowed by the earth, she remained skeptical that he may be dead yet, believing this to be a machination of Chereth's. Once Lewan was awake, she told him that the Old Man meant to trigger a supervolcanic eruption using the relic, and that she wanted him to invert its functions in order to prevent the relic from ever accomplishing this function.
+
+On the night of Tarsakh 19, she took an opportunity to send assassins after the Old Man's men during a vigil that he had called. On Tarsakh 20, Lewan accepted after Ulaan, one of her personal blades, seduced him the night before. However, after five days of attempts, he'd suggest that perhaps he needed to purify himself before the Oak Father in order to continue, given he'd spent the night of the Jalesh Rudra laying with Ulaan. She agreed to yield Ulaan's freedom if he succeeded, but stipulated someone would have to accompany him outside: Sauk. Upon his return, Sauk immediately informed her that the Old Man of the Mountain had spoken to Lewan during his purification ritual.
+
+That night on Tarsakh 25, Kheil, now Berun, attacked the fortress and forced his way inside. Talieth slew several blades loyal to her father, but she was unwilling to harm Berun or let any harm come to him, even standing up to Sauk after Berun's animal companion slew Taaki. She was captured soon after by the forces of the Old Man, being released by her lover, Valmir. During the final battle against the Old Man of the Mountain, her life was threatened to make Berun more pliable. She was eventually amongst the few people who survived Tarsakh 25 in Sentinelspire.
+
+Appendix
+Appearances
+Novels
+Sentinelspire
+References
+
+---
+
+## Tasirin's haunted sleep
+
+Tasirin's haunted sleep was an arcane enchantment spell that allowed a wizard to put a target into a supernatural deep sleep.
+
+Effects
+Once this spell was cast upon the target, and short of the caster ending the spell, only a wish, limited wish, or successful dispel magic could rouse the target from their slumber. For older versions of the spell, the infliction of acute pain could also wake a target.
+
+The spell could only be used on a target that was already asleep. Older versions of the spell additionally restricted the targeting to those who were asleep by normal means. This meant the spell would not function on targets that were comatose, unconscious or in a similar state of mental injury like a concussion, asleep due to drugs, asleep to due to traveling through the Astral Plane, asleep as a result of psionics, or as a result of charm-related spells.
+
+The target was susceptible from suggestions received in their dreams as visions designed by the caster. Upon their waking they felt a strong compulsion to comply with the suggestion.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+History
+This spell was found within the Treatise of Sublimated Oneiromancy and the tome known as The Wizards' Workbook.
+
+Appendix
+References
+
+---
+
+## Talis: Divination Without Magic
+
+Talis: Divination Without Magic was a book that taught the reader to use a simple deck of talis cards to perform divinations without the use of the Art.
+
+Description
+The book listed meanings of each card in a talis deck when used in fortune telling. Each card was illustrated.
+
+History
+One of these books belonged to Quelenna, a warlock looter of Gimblebock's gang. In, the gang was looking for a way into an ancient Temple of Jergal not far from the Emerald Grove in the Western Heartlands. Quelenna's copy saw heavy use by the warlock and her lover Alys. Alys left a hand-written message on the book's cover talking about fortune reading, and proclaiming love for Quelenna. Alys's last reading consisted of the Ten of Waves—divine loss, bliss, or illusion; the Comet—riches or fulfilled wishes; and Death—new beginnings.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+References
+
+---
+
+## Taburg Shen
+
+Taburg Shen was a farmer who lived in the village of Eveningstar during the mid-to-late 14 century DR.
+
+Description
+He was a respectful, quiet, and introverted man.
+
+Activities
+Tabard's farm and apple orchard were located along the High Road on the western outskirts of Eveningstar. Apart from apples, Taburg grew mushrooms, various food crops, and hay. Apart from apples, he dealt in tree grafts and herbs. The farmer's home was elevated above the ground on pilings, and underneath was the entrance to the extensive cellars used for mushroom farming. The farm's herbs and local wildflowers were used in distilling a potent medicinal wine that possessed impressive pain-killing properties.
+
+History
+Long before the mid-to-late 14 century DR, the Shen family migrated to Cormyr from Durpar, by way of Chessenta. Tabard's father was Thontravur Shen and mother – Velveira Almarrand, a Sembian merchant noblewoman. Taburg's sister, Randarla Shen, was an adventuring sort who eventually met her end on Zhentarim blades, after joining Harpers. Taburg met and moon married Shalarla, a strong Dalesfolk, with whom they sired three daughters: Haethe, Raedaerle, and Tarsarra.
+
+Taburg died first between the spouses. Shalarla outlived the man and survived well into her twilight years. Still, eventually, both were buried on the farm by the Shen daughters, who decided to stay unmarried and run the farm while aiding elves of Cormanthor against Zhents in their spare time.
+
+Appendix
+References
+
+---
+
+## Tasso's shriek
+
+Tasso's shriek was an arcane illusion spell that was a form of audible glamer.
+
+Effects
+Minimal utterance from the caster was needed to cast this spell, making it practically silent and untraceable. The caster uttered the desired sounds during the casting and the sounds could not be altered or cut short once the spell was cast. They would continue to be uttered until the spell expired.
+
+Components
+This spell required only Verbal components to cast.
+
+History
+This spell was found in the tome Tasso's Arcanabula.
+
+Appendix
+References
+
+---
+
+## Talon of Zaltec
+
+A talon of Zaltec was a jaguar claw enchanted with the hishna spell create talisman.
+
+Powers
+The tip of the talon contained anywhere from 1–10 doses of a lethal venom. The talon of Zaltec could be wielded in combat like a small melee weapon. A single scratch from the talon would be enough to kill.
+
+The base of the claw contained a dangerous powder that could be cast into the eyes of a target up to  away to blind them for many hours.
+
+Appendix
+References
+
+---
+
+## Tacy Sands
+
+Tacy Sands was a potter that lived in Baldur's Gate in 1482 DR.
+
+Description
+The potter lived in Rivington, and produced bowls for Felogyr's Fireworks. Tacy made the bowls exactly to Avery Sonshal's specifications.
+
+Appendix
+Appearances
+Adventures
+Murder in Baldur's Gate
+References
+
+---
+
+## Tansia
+
+Tansia was a woman from Fullpoint. She was stern-looking, and dark-haired. After Fullpoint was attacked by blightspawned volodni in the spring of, the newly arrived cleric Marrec saved the village; as thanks, she agreed to lead him to Hemish's home.
+
+Appendix
+Appearances
+Novels
+Lady of Poison
+References
+
+---
+
+## Tahan
+
+Tahan was a druid and a resident of the Emerald Grove during the late 15 century DR.
+
+Relationships
+Tahan was resentful of the tieflings that were given temporary residence within the Emerald Grove following the Descent of Elturel into the Nine Hells. The fact their presence attracted violence to the Emerald Grove was too much for her to forgive.
+
+History
+In the, Archdruid Halsin allowed a community of tiefling refugees take up residence within the Emerald Grove, just before leaving himself to investigate strange goings on associated with the enigmatic Moonrise Towers. These two factors combined with the misguided leadership of the temporary leader Kagha, threw the grove into turmoil and upset druids like Tahan.
+
+Tahan was among the druids tapped to perform the Rite of Thorns, a ritual utilizing the idol of Silvanus that would hide away the grove from outsiders and protect it from the world beyond.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+References
+
+---
+
+## Taeglyn
+
+Taeglyn was a carpenter that lived on the Sword Coast as of the late 15 century DR.
+
+Relationships
+He had two children, including a son named Galan.
+
+Possessions
+Taeglyn's shoe had the image of a heart placed upon it by his son Galan. It was a reminder of his son that Taeglyn could look to when away from his family.
+
+History
+In the, Taeglyn was traveling to Baldur's Gate when he was captured by goblin raiders loyal to the Cult of the Absolute and taken to the Shattered Sanctum. He died that same year while trying to tunnel out of his cell, not willing to allow himself to be fed to the goblin's worgs.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+
+References
+
+---
+
+## Tak (goblin)
+
+Tracker Tak was raider for a goblin camp that made their home within the Shattered Sanctum on the Sword Coast during the late 15 century DR.
+
+Description
+She wore a minimalist set of leather armor decorated with what appeared to be claws taken from some manner of ferocious beast.
+
+History
+Tak was among the goblins that pillaged Waukeen's Rest in the . Her raiding party stole what goods they could before setting the inn on fire, leaving many dead.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+
+References
+
+---
+
+## Tarilyn Kendrick
+
+Tarilyn Kendrick was a princess of the ruling Kendrick family of the kingdom of Callidyrr in the Moonshae Isles in the late 15 century DR.
+
+Relationships
+Tarilyn was the eldest daughter of High King Derid Kendrick. High King Derid offered Tarilyn's hand in marriage to Prince Araithe who was the son of High Lady Ordalf, the ruler of the fey kingdom of Sarifal on Gwynneth.
+
+History
+She had relocated to the Sarifal capital city of Karador as of the, where she stayed as a guest of Prince Araithe.
+
+Appendix
+References
+
+---
+
+## Taeya Bog
+
+The Taeya Bog was a marshland located on the island of Gwynneth within the Moonshae Isles.
+
+Geography
+The bog was located in northeast Gwynneth along the coast of the Sea of Moonshae and the Strait of Alaron. The Taeya Bog sat at the edge of the Winterglen. The Tunnels of Dwarvenhome ran beneath the bog to connect to the island of Alaron. Roughly  were covered by the Taeya Bog.
+
+Appendix
+References
+
+---
+
+## Talffolk
+
+Talffolk was a county located in the kingdom of Callidyrr on the island of Alaron within the Moonshae Isles.
+
+Geography
+Talffolk was found in northern Callidyrr. Its borders were marked by the Sea of Swords to the east, the Swanmay River to the south and west, and by the southern edge of the Fairheight Range in the north. The Swanmay River served as the border between Talffolk and both Stirgewick and Stagford.
+
+Notable Locations
+The capital of Caer Callidyrr sat within Talffolk, making it the most populous of Callidyrr's four counties. The eastern half of the ominous Dernall Forest was also found here. The High King's Road connected Talffolk with Fairheight and Stirgewick, in addition to making travel between the small towns and villages easy.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Talcum
+
+Talcum was a fine white powdered substance with several uses.
+
+Usage
+In the Blade Kingdoms, talcum powder was used as a tool against thieves and spellcasters. The powder was used to dust floors in high-security locations, such as the Palace of Manniccis in the city-state of Sumbria. Talcum made it extremely challenging for sneak thieves and creatures under the effects of the invisibility spells to move undetected. The powder was often used alongside caltrops and mines.
+
+Apart from security purposes, talcum powder was one of the material components for the see invisibility spell.
+
+Appendix
+Appearances
+Novels
+The Council of Blades
+
+References
+
+---
+
+## Tarnished charm
+
+The tarnished charm was an amulet worn by the hag named Auntie Ethel during the late 15 century DR.
+
+Description
+The charm let out a horrific laugh in the mind or ears of its wearer, along with whispers urging them to bite, wound, and even kill others.
+
+Powers
+In contrast the disturbing auditory sensations experienced by its wearer, the tarnished charm granted them a beneficial boon found among many of the fey creatures of the Realms: inherent protection from death itself.
+
+History
+The amulet remained upon Auntie Ethel's person as of the .
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+
+References
+
+---
+
+## Target (spell)
+
+Target was an arcane southern magic spell from the school of alteration used by wizards that allowed them to mark a target for ranged weapons.
+
+Effects
+Once marked by the target spell, any missile weapons fired at the victim stood a greater chance of hitting and harming the victim. The spell lasted for several minutes depending on the skill of the caster.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+History
+This was a southern magic spell used within the Old Empires region of Faerûn.
+
+Appendix
+References
+
+---
+
+## Tammerbund's Glasswares
+
+Tammerbund's Glasswares was a glass goods shop in the city of Waterdeep in the late 14 century DR.
+
+Location
+This shop was located along Mendever Street, in the Sea Ward of Waterdeep.
+
+Structure
+This shop stood three stories tall.
+
+Inhabitants
+Circa 1372 DR, Tammerbund's was operated by a trio of gnome women.
+
+Appendix
+References
+
+---
+
+## Taurntyrith Adornments
+
+Taurntyrith Adornments was a shop in the city of Waterdeep, in the 14 century DR, that was owned and operated by the couple Phelorna and Teirist Taurntyrith.
+
+Location
+This shop was located along Copper Street, in the North Ward of Waterdeep.
+
+Structure
+This shop stood two stories tall.
+
+Services
+Taurntyrith dealed in door panels and wall panels of both painted and iridescent acid-treated copper and enamel. These predominantly depicted blue-green or blue-and-silver forest scenes.
+
+At some point, the propietor Phelorna began attaching to the backs of these panels shaped, tempered metal bells. These gave their panels the unique property of ringing a faint, "fey-like" chime whenever they were tapped gently with a coin, fingernail, or ring. Teirist would tell their customers that this chime would tell their customers that this transported their minds to "faraway and mysterious solitudes."
+
+History
+During its time of operation, the forest scene panels of Taurntyrith was quite popular among the crowded city's denizens. However, their sales truly began to soar after the introduction of their chime bells and this upward trend continued for well over seven years.
+
+Inhabitants
+In addition to Phelorna and Teirist, their son Tanar Taurntyrith worked in the shop in his youth and was quite talented at painting his family's panels. He was known to sing the ballad called The Horns of the Far Elf Realm whilst working.
+
+Appendix
+References
+
+---
+
+## Talung
+
+Talung was a town in Tabot.
+
+Geography
+It stood in the middle of an open plain on the road between Chophon and Motra, and near the border with Shou Lung.
+
+History
+In, several small villages south of Talung were menaced by a man-eating tiger. Though a bounty was put on its head, it cunningly escaped all the hunters. People began to fear it was a magical creature, even a spirit or god disguise and bringing divine retribution.
+
+Inhabitants
+Nako Nang, a merchant adventurer and wu jen, had a small house in Talung but was often away. A servant minded the house and was well-paid and happy.
+
+Appendix
+References
+
+---
+
+## Tatterdemanimal
+
+Tatterdemanimals were a variation of raggamoffyn composed of small dirty scraps of cloth. They were the least dangerous form of raggamoffyn.
+
+Combat
+All raggamoffyns attempted to envelop potential victims in order to control them. If successful, the parts of the raggamoffyn clung to the victim in a skin-tight sheath from head to toe. The raggamoffyn usually created a hood to cover the victim's face as well. Once enveloped, a victim was forced to do the raggamoffyn's bidding until the creature was done with them or they were able to resist the creature's control.
+
+Tatterdemanimals were only able to attach to small or tiny targets, usually going for rats, cats, pigs, birds, and small dogs.
+
+These creatures were immune to blunt weapons, but were particularly susceptible to fire-based attacks.
+
+Society
+Tatterdemanimals often gathered together in small groups, controlling packs of small animals.
+
+Appendix
+See Also
+ Raggamoffyn
+ Common raggamoffyn
+ Gutterspite
+ Shrapnyl
+
+References
+
+Connections
 
 ---
 
@@ -1671,6 +12575,4849 @@ Organized Play & Licensed Adventures
 Mama Needs Her New Pair of Shu • Stirring the Embers • The Sun Never Rises • Breaking Umberlee’s Resolve • Uncertain Scrutiny • When the Lights Went Out in Candlekeep
 
 Day of the Saru
+References
+
+---
+
+## Tangler beetle
+
+Tangler beetles were a species of giant beetle notable for their adhesive saliva.
+
+Description
+The chitinous bodies of these beetles had a black coloration.
+
+Abilities
+The most notable trait of these beetles was their sticky saliva, which was so adhesive it could hold fast a giant. However, a few minutes after exposure to air this saliva began to dry and lose its stickiness.
+
+History
+In the late 15 century DR, the Chang Emporium shipped tangler beetles alongside bombardier and fire beetles on the caravel Dragonfly to the city of New Velar, intending to have them sold by Lin-Woh as guardian animals. However, once there an offloading accident occured, leading cages to crash to the ground and unleash many of the beetles trapped within them.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+The Prospect
+References
+
+---
+
+## Tabja Rung
+
+Tabja Rung was a famous person of Tabot.It is unknown who or what "Tabja Rung" is, but this article assumes a person.
+
+Tabja Rung used legendary lances that were forged on the fabled Mount Shun in the Po Yul Dzayul Range, some time before .
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tamlith
+
+Tamlith was a Rashemaar hathran telthor whose spirit was tied to the Red Tree within Immil Vale as of the late 14 century DR.
+
+History
+Tamlith, along with her fellow hathran telthor Imsha, gave advice to other wychlaran who visited the Red Tree. Both spirits disliked simple chatter, so only aided those witches with serious concerns involving Rashemen's safety.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Tarlon Tchazzam
+
+Tarlon Tchazzam was heir to the noble Tchazzam family of Waterdeep in the mid-to-late 14 century DR.
+
+Relationships
+Tarlon had two older siblings: Ulboth Tchazzam, the patriarch of the Tchazzam family in the mid-to-late 14 century DR, and Carina Tchazzam, the previous heir after the disappearance of Tarlon's nephew, Corahk Tchazzam.
+
+History
+Tarlon became heir to the family in the, when his sister's pet cat suddenly killed her after being transformed into a beast of Xvim. Upon being named as the new heir, Tarlon decreed that cats were not permitted on his family's properties.
+
+Appendix
+References
+
+---
+
+## Taelunangul
+
+Taelunangul was the chieftain and matriarch of the Batiri Shattered Spear tribe in Chult circa 1374 DR.
+
+Possessions
+Taelunangul's tribe trained deinonychus dinosaurs for a watchdog use. The chieftain wore a minor enchanted decorative feathered mask – a jungle headdress, created by Batiri shamans.
+
+History
+In the, Taelunangul's tribe came across the shipwreck of the Vigilant, a vessel that belonged to Sa'Sani's trade company. The Batiri attacked the survivors, including the infamous author Volothamp Geddarm. Some of the survivors ended up captured by Taelunangul's goblins as well as some of the ship's precious cargo. Cannibalistic Batiri consumed several survivors, with only Vigilant's Second Mate surviving long enough to be rescued by a group of mercenaries hired by Sa'Sani. Chieftain Taelunangul was killed in the process, unwilling to negotiate.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Storm of Zehir
+
+References
+
+---
+
+## Taking Stock of the Situation
+
+Taking Stock of the Situation is an adventure in the Living Forgotten Realms organized play campaign for Dungeons & Dragons 4 edition.
+
+Index
+
+Characters
+ •  •  •  •  •  •  •  •
+
+ •  •  •  •  •  •  •  •  •  •  •
+
+Creatures
+ •  •  •  •  •  •  •  •
+
+ •  •  •  •  •  •  •  •  •  •  •
+
+Items
+ •  •  •  •  •  •  •
+
+Locations
+ •  •
+
+ •  •  •  •  •  •  •  •  •  •
+
+Magic
+
+ •
+
+Organizations
+ •  •  •  •  •
+
+ •
+
+Religion
+
+Miscellaneous
+ •
+
+Appendix
+Notes
+
+---
+
+## Talagath's Gauntlet
+
+Talagath's Gauntlet, which was also called the Straits of Suldophur, the Strait of Storms, or the Wide Water, was a small strait that connected the Lake of Steam and the Shining Sea.
+
+Geography
+The strait was located in the south central section of the Lake of Steam, passing by the Neth Stand as it stretched south. Talagath's Gauntlet was approximately  long and  to  wide.
+
+Notable Locations
+The small island known as Talagath was found near the center of the strait. Two cities were founded at the mouth of the strait where it met the Shining sea–Suldolphor on the western shore and Theymarch on the eastern shore.
+
+Appendix
+References
+
+---
+
+## Talagath
+
+Talagath was a small island found between the the Lake of Steam and the Shining Sea.
+
+Geography
+The island was located near the center of the strait known as Talagath's Gauntlet. Talagath measured roughly  long and  wide. There were no man-made structures on the island, save for a small campsite along the shore with a pair of iron rings anchored into the stone.
+
+Description
+Talagath was a lush and heavily forested island.
+
+Inhabitants
+Historically, the island was used by smugglers and pirates as a meeting place for making deals and exchanging goods. A number of snakes and other beasts lived on the island.
+
+Rumors & Legends
+Talagath was widely believed to be haunted. Anyone staying on the island could not shake the sinister feeling that they were being observed and items from their gear wound up missing when they woke. Unbeknownst to all, the last Magelord of Mintar, a lich named Sardukh, maintained a hidden lair on Talagath and did not suffer those who overstayed their welcome.
+
+Appendix
+References
+
+---
+
+## Tazmon Iridar
+
+Tazmon Iridar was a fisherman inhabiting the city of Yhep along the Lake of Steam during the mid-to-late 14 century DR.
+
+Activities
+He was actually a spy sent by an unknown party from the city of Derlusk within the Border Kingdoms. By 1370 DR, Tazmon was tasked with discovering the secret behind Yhep's lucrative scarlet pearl trade. Barring that, Tazmon would attempt to steal several of the pearls and bring them back to Derlusk.
+
+Appendix
+References
+
+---
+
+## Talisman servant (Mystran)
+
+Mystran talisman servant were a type of ancient Netherese constructs, named after the goddess of magic Mystra.
+
+Description
+Mystran was one of the talisman servants developed by the Netherese. Mystran was the most polished and refined in appearance among the three varieties of these constructs. The talisman servants were chiseled out of stone and fortified with metal, usually – steel, mithril, or silver. They were created to resemble a muscular  tall humanoid with an animal's head. These constructs were often dressed in the traditional garb of the ranking members of the Church of Mystra, ancient military uniforms. They carried a silver talisman shaped like an eight-pointed star or a shield. Sometimes such amulets were created in the forms of earrings or bracelets. All of them were engraved with interlocking Mystran holy symbols and symbols of gods who offered protection, such as Helm, Berronar Truesilver, or Yondalla. Unlike other talisman servants, Mystran were intelligent.
+
+Abilities
+Apart from their intellect, these talisman servants had an extremely keen hearing and possessed magic gaze. Each individual Mystran construct was given one of two possible powers. The first was the ability toparalyze, similarly to the effects of hold spells. The gaze kept targets unmoving as long as Mystran kept its eyes on the opponent. The second magical gaze allowed the golem's master to see through its eyes and sometimes suffered from vertigo caused by it. The effects were similar to a powerful version of the arcane eye spell.
+
+Mystran talisman servants were immune to illusion magics, could see through invisibility, were unaffected by fear, and other spells that affected ones mind. Their magical construction made Mystrans only vulnerable to weapons with enchantments of at least +2 potency.
+
+Behavior
+These construct servants were reliable and never left their posts and were considered some of the most intelligent man-made golem-like creatures out there, intelligent enough to understand and follow complex orders, use mechanisms, set and activate traps, and were capable strategists. They also had an uncannily sharp memory, seeming never forgot faces of wrongdoers nor instructions. Mystran talisman servant guarded territory within  from their mark and never strayed further than that, even when pursuing opponents. Furthermore, these constructs were not capable of breaking into homes or holy ground.
+
+If a thief stole the golem master's talisman or Mystran's ward, the construct was free to track the perpetrator and reclaim the stolen item, unbound from any previous behavioral limitations. These chases could last for decades as talismans servants did not age nor abandon their tasks.
+
+Combat
+Mystran talisman servant wielded enchanted polearms in battle, usually ensorcelled to be effective against thieves. When disarmed, they used their powerful animal jaws to bite and crush their targets.
+
+Ecology
+Mystran talisman servants did not eat, sleep, nor needed to breathe like other constructs. They left no mark on the natural order of things, and the only thing of value one could scavenge from a destroyed talisman servant were its polearm and its gem eyes that were valued at 1,000 gold coins each.
+
+History
+Talisman servants first were developed circa -1846 DR by a group of artificers known as Mystra's Anvil. These creations were distinct enough from regular golems. They proved to be smarter and deadlier. However, the fact that a ward and a talisman could not remain at a distance greater than a mile proved to be a major hindrance. While the fact that talisman servants were crafted out of virtually anything was a certain benefit.
+
+After the Fall of Nethril in -290 DR, many of the wizards hid their talisman servants or had them destroyed. Yet bards knew songs about "rogue automatons," and wizards sought tomes with the secrets of their creation.
+
+Like other construct creatures, mystran talisman servants were created and animated by powerful priests or wizards. They were crafted for one purpose – the protection of an individual, place, or item. They were often used as fortress guards or temple sentries by the Netherese arcanists. Post-Karsus's Folly, Mystran talisman servants were used by the inhabitants of the North Faerûn to guard sanctums of temples dedicated to Azuth, Helm, or Mystra. The constructs were rare and most often were exported out of Nimbral, Halruua, and Thay.
+
+Appendix
+See Also
+Talisman Servant (caravan)
+Talisman servant (gladiator)
+
+References
+
+---
+
+## Tazixor
+
+Tazixor was a secluded port city on the island of Ixinos, off the coast of Vilhon Reach in the Sea of Fallen Stars.
+
+Description
+Tazixor was the only known settlement on Ixinos. The settlement and the island were surrounded in mystery and governed by Queen Elissa Tarixon in the mid-to-late 14 century DR. The island's population was a community of amazons and were predominately female. A small population of males, reportedly, were used as slaves. Males were considered to be valuable commodities. Tazixor's seclusion permitted no outsiders. No visitors nor diplomatic envoys were allowed to dock in the ports of Tazixor.
+
+Appendix
+References
+
+---
+
+## Tales Told to a Blind Wizard
+
+The Tales Told to a Blind Wizard was a book penned by Halivon Tharnstar and published in 1363 DR.
+
+Contents
+The Tales Told to a Blind Wizard were written by Halivon Tharnstar, Avowed of Mystra. Not surprisingly, the tome dealt with beliefs of the Mystran faith and the search of true magic – the fabled One True Spell. The tome talked about the obsessive search for understanding of the Art that consumed the lives of ancient wizards. Tales claimed that some spellcasters were able to discover the One True Spell, but they were dismissed as insane. Halivon personally has met one of those "crazed men" and recounted the meeting in the book. The Avowed of Mystra witnessed spells not touching that man and his ability to weave magics with his mind without uttering a single word. Halivon was under the impression that the "crazed" man was far from it. Instead, he appeared calm, meditative, and content. Halivon Tharnstar was lucky enough to talk to the man who told the Avowed that the One True Spell was a woman – the goddess Mystra, and that "her kisses were wonderful."
+
+The text also included mentions of the temptations of godhood for wizards, no matter how powerful.
+
+A copy of the Tales Told to a Blind Wizard was kept in the library-citadel of Candlekeep in the late 14 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tardoun
+
+Tardoun was an early Keeper of the Cerulean Sign at Stardeep. There, Tardoun Hall, a common room with both walls covered in elven friezes, was named after them.
+
+Appendix
+Appearances
+Novels
+
+Stardeep
+
+References
+
+---
+
+## Talltrees
+
+Talltrees was a treetop village of the Elmanesse tribe of elves in the Wealdath, ruined in 1364 DR at the hand of the cutthroat captain Bunlap.
+
+Description
+The village consisted of a series of homes and huts among the boughs of the towering forest, with the trees themselves made to be hollow. Between them, the elves tied swaying walkways. Its inhabitants were further prudent enough to camouflage their home among the nature surrounding them, meaning Talltrees was not in plain sight; anyone on the ground found it impossible to actually see the village unless they stood right beneath its center-most point.
+
+Its destruction involved terrible fires, which caused the Elmanesse to flee and left much of the settlement marked and ruined. Only portions of Talltrees' highest residences survived. After the conflict, however, the ground beneath was taken back by ample prey animals (and their predators), multiple potable pools of water, and, if the season was right, an abundance of berries to feast upon.
+
+Geography
+Within the greater whole of the Wealdath, Talltrees was vaguely equidistant between the village of Mosstone on the Trade Way, which lay to its south-west, and the ancient city of Myth Rhynn, to its north-east.
+
+Rumors & Legends
+In one version of Volo's Guide to the Lands of Intrigue, its ever-reliable author suspected that it was only a matter of time before the Wealdath and the Elmanesse both recovered from Bunlap's attack and the elves came home to Talltrees.
+
+Inhabitants
+No elves remained after Talltrees' destruction, but one occasionally returned to its branches: the Duke of Noromath, Allain "Foxfire" Kevanarial. In such cases, he would use the village's highest sections, those in somewhat working order, to deal with any responsibilities he might have had or to orchestrate meetings with fey creatures and other elves.
+
+Appendix
+References
+
+---
+
+## Talana Brakuularn
+
+Talana Brakulaarn was the Magister from  to . She was responsible for inventing the Magefair.
+
+Description
+Talana was large-girthed.
+
+Personality
+She was short-tempered, efficient, and loved both to organize affairs and to take charge.
+
+Possessions
+Upon becoming Magister, Talana had an appropriately haughty blazon made for her.
+
+Abilities
+Measured against journeymen and novices, she was indeed superior.
+
+Activities
+Talana had organized a high-society mages' guild as an informal club with her at the head. She discouraged self-experimentation and dangerous castings, out of line with their standing in the club. She also encouraged magic be shared with the other members, though she denied it to all those who displeased or defied her.
+
+History
+In response to the growing resentment against her for controlling other mages' supply of magic, Talana Brakulaarn organized the first MageFair, within the Shoon Imperium, in .Per the cited source, she was made Magister barely a month before the second Magefair; the next paragraph explains she perished at the fair, while her date of death is given as 256 DR. However, the book also says she was the Magister from 249 to 256. As seven years is much longer than a month, this article assumes that she did not die at the second MageFair, but that other fairs were held between the second and the one of her death, while the implication that she died at the second fair is only an accident of editing. Sixty people attended, most of them journeymen and apprentices. Some of them were agents of the Shoon Imperium looking for dangerous wizards or magic worth seizing, who recommended her that she host the next one in Calimshan or Amn, to help expand her enterprise. She agreed, and made sure to advertise her coming Fair thoroughly. She became the Magister shortly before the next MageFair, hours after the death of the last Magister.
+
+While on a fair, someone slew her in her bed; the assailant was himself slain, and so was his assailant. Ten or eleven mages slaying mages later, the last assailant staggered back to bed; when a second man took notice of his wounds, the attacker polymorphed himself into a lizard man and attacked. A third mage, Eirl Rauthantannar, slew the lizard man and became the next Magister.
+
+Rumors & Legends
+There was evidence that Talana's killer pretended to be a mage smitten with her charms.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tarbin Tul
+
+Tarbin Tul was a wandering bard on the Sword Coast North in the late 15 century DR.
+
+History
+Tarbin Tul performed along the High Road and always looked for new tunes to add to his enormous collection. Circa 1491 DR, while staying at the Wayside Inn one night, he accidentally witnessed an undead attack. The undead had been created by the cult of Myrkul led by Ularan Mortus. A group of adventurers was able to defend the inn against the attack.
+
+Later, while Tarbin was again staying at the Wayside Inn, a cult of Talos led by Fheralai Stormsworn took over the inn. Although the cultists' ritual to turn the inn into a temple of Talos was stopped in time, they managed to kidnap Tarbin. He was taken to the death knight-dreadnaught, a ship controlled by the death knight Emberlost. Fheralai had taken over the ship from the Myrkul cult but was unable to steer it. She forced Tarbin to perform songs from Anauria, the death knight's lost home. This appeased Emberlost, convincing him to tolerate Fheralai and let her steer the ship as long as the bard kept performing. Eventually, the same group of adventurers came to the Tarbin's rescue and freed him from his captivity.
+
+Appendix
+Appearances
+Adventures
+Storm Lord's Wrath • Sleeping Dragon's Wake
+
+Divine Contention
+
+References
+
+---
+
+## Tannath Mountains
+
+The Tannath Mountains were the southern part of the Dragonjaw Mountains, starting south of the River Umber. They were recognized as a territory belonging to Aglarond, and formed its border with Thay to the east.
+
+Geography
+The craggy range was made of rugged, tall mountains of fault block origin. Wide passes flanked them on both sides, the Tannath Gap on the west and the Shyvar Pass on the east.
+
+Flora & Fauna
+Griffons were known to dwell in the range. There were also birds and mountain goats. The slopes of the range were very bare.
+
+Government
+The Tannath Mountains were considered part of Aglarond.
+
+Trade
+Silver was mined out of the mountains at some point before .
+
+Defenses
+The region served as a buffer between Aglarond and Thay, making for an obstacle which Thayan armies found almost impassable for any troop that did not fly. Aglarondan patrols in the region were minimal, originating in the Glarondar fortress. Most Thayan forces employed different routes.
+
+History
+During Brindor's reign, in 1369, he built the citadel Glarondar and the Watchwall with the aid of the local galeb duhr in .
+
+In, Captain Arol of the Watchwall forces tried to cut a deal with local goblins in order to get them to provide advance warning of any threats heading their way.
+
+Rumors & Legends
+There were rumors in  that goblins had settled in the silver mines.
+
+Notable Locations
+The Watchwall led from the mountains towards Glarondar in the Yuirwood. Some silver mines had been abandoned by .
+
+Inhabitants
+The zone was not inhabited by humanoids in, the peaks having never been settled; by, at least one tribe of goblins had settled in the region, and stone giants were known to dwell there. Galeb duhr populated the mountains since before . An ancient fang dragon, Nartheling, dwelt at Umbergoth as of .
+
+Appendix
+Appearances
+Adventures
+Silver Lining
+Novels
+
+Sentinelspire
+References
+
+---
+
+## Tannath Gap
+
+The Tannath Gap, often called just The Gap, was a forested highland between the Tannath Mountains and the rest of the Dragonjaw Mountains, around the River Umber, opposite Singing Sands.
+
+Geography
+The Gap was a narrow forest with damp, soft soil. The climate was cool and pleasant, and the River Umber wound down the middle of the Gap.
+
+Flora & Fauna
+The area was covered with blue-needle pine and fir. The largest mammal seemed to be deer: there were raccoons, foxes, opossums, badgers and squirrels. Otters and beavers lived in the bodies of water, and birds such as hawks, herons and crows were present as well. The predators included cougars.
+
+There were few enchanted creatures in the Gap; griffons from the Tannath Mountains flew over at some times. Cath shee, believed to be descended from the original elven inhabitants, were also known to exist there as of . It was believed monsters had been hunted to extinction in the region.
+
+Trade
+As of, the River Umber had become a major trade road in the region. People downstream on Aglarond preferred not to fish there, distrusting the Thayans upstream.
+
+Defenses
+The Aglarondans rarely patrolled the Gap, believing the terrain to be sufficiently disuassive to most invaders.
+
+History
+Hunters claimed to have killed a "globular", possibly a deepspawn, some years before in .
+
+In, an Aglarondan force returned to Aglarond through the Gap after pushing an enemy Thayan force out of Shyvar Pass in order to flank another Thayan force as it attacked Emmech.
+
+In, Vunmal Murn of Phsant fomented a rivalry between her home city and Aglarond over the Tannath Gap.
+
+Rumors & Legends
+A small clan of werefoxes was believed to be hunting in the woods as of .
+
+Inhabitants
+Woodcutters and hunters lived along the piedmont, making their homes in small cottages.
+
+Appendix
+References
+
+---
+
+## Tanerieh
+
+Tanerieh was the innkeeper of Leira's Trick in the Openpalm Bazar district of Samargol circa 1374 DR.
+
+Description
+In the late 14 century DR, Tanerieh was an older woman with a noticeably unfocused look on her face. Despite her almost trance-like state, she managed to keep an attentive eye on the entire inn.
+
+Personality
+Tanerieh was a devote worshiper of the Mistress of Illusions, Leira. Despite the goddess being believed dead by some, Tanerieh was convinced that the goddess of lies and illusions simply made it appear so to the inhabitants of Faerûn. She considered druids and their strange rituals quite peculiar.
+
+History
+In the, Tanerieh opened Leira's Trick's doors to a group of adventurers who survived the shipwreck of the Vigilat and became hirelings for the local merchant named Sa'Sani. Many many others in her trade, Tanerieh knew all the latest rumors, including recent dinosaur unrest on the edges of Samarlogh, whispers from those touched by magics that a calamity was looming over the the Coast of Swords, and a strange evil that arrived from another land that haunted the jungles.
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Storm of Zehir
+
+References
+
+---
+
+## Tasha's Atrocious Robe
+
+Tasha's Atrocious Robe was a unique enchanted robe, created by the planeswalking enchantress Tasha from the world of Greyhawk.
+
+Powers
+Tasha's robe possessed a +1 enchantment and granted the wearer increased protection against mundane and magical threats. Additionally, the wearer of Tasha's Atrocious Robe became proficient in arcane defense against enchantment school of magic and was granted the knowledge and abilities necessary to master enchantment spell focus.
+
+History
+Despite Tasha being renowned on Toril for her spell that caused uncontrollable laughter, she also created this lesser-known magical robe. Tasha's Atrocious Robe was acquired by a planeswalker from Westgate known only as Mintassan the Magnificent and brought to Toril. The eccentric wizard added Tasha's enchanted outfit to his collection, available to be viewed with some items in it available for purchase at Mintassan's Mysteries store in Westgate's Market Triangle. The robe was still there as of the .
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Mysteries of Westgate
+
+References
+
+---
+
+## Tanglefork Woods
+
+The Tanglefork Woods was a small forest in the Grayvale.
+
+Geography
+It lay at the southwestern fringe of the great High Forest, between it and the River Delimbiyr and the Delimbiyr Road and just east of the Heartblood River where it joined the Delimbiyr.
+
+Description
+The soil here was as dark as midnight, even half a century after the Battle of Tanglefork.
+
+History
+The Battle of Tanglefork was fought here in the, when the rebel leader Nanathlor Greysword, the Green Regent of Mielikki, led his ragtag band against the mercenaries of Pasuuk Rensha, the then ruler of Loudwater. To aid her champion, Mielikki awakened the trees and set them to attack Pasuuk's forces, and he in turn summoned a coven of devils. But they were defeated and the corpses of Pasuuk and his fiendish allies were scattered like filth, blackening the soil of Tanglefork Woods with their evil.
+
+In the summer of the, Hekkut the Molted and his goblin bandits, all working for the Hark, established a hidden lair somewhere near the Tangleforks. From there, they attacked travelers passing along a lightly wooded stretch of the Delimbiyr Road just near the Tanglefork campsite and a wooded knoll. Late one afternoon in Eleasias, Skar, Gvrag, and others caught and tortured Blaz Merrymar there, before adventurers intervened.
+
+Notable Locations
+A campsite in the woods was commonly used by travelers between Loudwater and Shining Falls.
+
+A river cave on the banks of the Heartblood River where it passed through a winding chasm near the Tangleforks was used as a base by Hekkut the Molted and his goblin bandits. Its walls were hard-packed sand, clay, and stone, with some lashed logs to provide crude supports to this dank, dark place. Deathsbreath mushrooms grew in abundance in one cave and a family of lightning rats made their lair outside and served as guardians. A few holes in the cliff-face let goblin crossbowmen watch over and shoot at anyone approaching via the river, which the goblins used a raft to traverse. In their storeroom, they kept their loot before transporting it back to the Dungeon of the Hark. Hekkut's own lair held a shrine to his rodent deity and and a hole leading to an Underdark passage ominously called the Flayers' Corridors.
+
+In a nearby stand of blueleaf trees, the goblins maintained a grisly carcass-filled pit—the product of both cooking large meals and conducting rites and sacrifices to Maglubiyet. As well as deer and other animals, it included a few humans, a pair of orcs, a lone ogre who had blundered into their base before being killed, the dozen goblins it slew, and several halflings, likely the sons and nephews of Blaz Merrymar. An older such hole was the trapped secret passage into a tunnel leading toward their base.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Extermination
+
+References
+
+---
+
+## Tangerine
+
+Tangerine trees were fruit-bearing trees found in the southern regions of Faerûn and Zakhara. The citrus fruit of the tree had the same name.
+
+Availability
+Tangerines were cultivated in the small town of Imnescar, known for its fertile lands and warm climate. The town laid in the southwestern part of Amn.
+
+Another region where tangerines were grown and served as a delectable candied treat was Sarahin in the Haunted Lands of Zakhara.
+
+Appendix
+See Also
+Marlikkon
+Tammar
+Tangerine rose
+
+Appearances
+Adventures
+Assassin Mountain
+Novels
+
+Darkvision
+
+References
+
+---
+
+## Tammar (fruit)
+
+Tammar  was a popular citrus fruit, native to hot-climate lands of Calimshan, the Lake of Steam, and the Border Kingdoms.
+
+Description
+Tammar was a hard, round fruit as big as an adult human fist. Unripened, tammar was pink, turning bright red as it matured. The fruit's peel was hard but could easily be cut open by a sharp blade. Once the shell was penetrated, the peel could be easily removed in a spiral, one layer after another. Underneath, tammar's flesh was firm pink, and chewy. The taste and juiciness of the fruit were similar to that of a tangerine. The flesh also resembled that of other citruses but had only four large segments.
+
+Availability
+Cultivated in the warm regions, tammar was often favored by merchant caravans as an easy export. Tammar fruits were easy to transport, they lasted, resisted rot and bruising, and rats aboard merchant ships did not seem to care for it. These fruits had a long gathering season that lasted from Flamerule through Marpenoth.
+
+Appendix
+See Also
+Marlikkon
+
+References
+
+---
+
+## Tarragon
+
+Tarragon was a species of plant found in Faerûn that was commonly used as a herb.
+
+Availability
+ Aurora's Whole Realms Catalogue sold tarragon at the standard price of one gold piece per  in its "Aurora's Larder" section.
+
+Notable Users
+ The Painted Boat, a restaurant in the Dragon Reach off the southern edge of the Harbor District of Ravens Bluff, commonly kept tarragon stocked in the kitchen's drying rack.
+
+Appendix
+External Links
+
+References
+
+---
+
+## Tarmock Felaskur
+
+Tarmock Felaskur was the apothecary in Triboar in the late 15 century DR.
+
+Activities
+Tarmock sold medicines and remedies out of his apothecary shop. His goods were known to be largely ineffective, and so he made most of his money selling sweet water, a naturally sweet and carbonated water that bubbled up from a small spring concealed in the shed behind his house.
+
+Relationships
+Tarmock supplied most of his sweet water to a local restaurant called The Pleasing Platter. This one business relationship was his primary source of sales.
+
+Appendix
+Appearances
+Adventures
+Storm King's Thunder
+References
+
+---
+
+## Tahrun Harpson
+
+Tahrun Harpson was a Sorlyn bard who represented the Church of Milil in Crimmor during the mid-to-late 14 century DR, a duty he shared with his half-brother Shyrros.
+
+Description
+Tahrun was an accomplished singer, who created many popular songs and ballads with the help of his sibling. Together they tended to the faithful of Milil in the Theater of Joy, which was dedicated to the deity from highsun until dusk.
+
+Appendix
+References
+
+---
+
+## Tane
+
+Tane was a tumbler and performer that traveled across the Realms with a traveling troupe in the late 15 century DR.
+
+Personality
+Along with their siblings, Tane was an odd individual. When the group was together and approached by a stranger they only responded in terse grunts and vague nods, unless the interrupting person was especially entertaining.
+
+Relationships
+Tane was one of three triplets, along with Tawn and Tine.
+
+Possessions
+One of the three tumblers owned a bag of magic dust that could be thrown hard to the ground to conjure a great cloud. This was regularly used in the act that they performed together.
+
+History
+Some time during the 1480s DR, Tane and their traveling companions stopped at the city of Phlan on the Moonsea North to perform their act for a while. At some point, they stopped at Madame Freona's Tea Kettle.
+
+Appendix
+Notes
+
+Appearances
+Organized Play & Licensed Adventures
+
+Tyranny of Dragons (Defiance in Phlan)
+References
+
+---
+
+## Tawn
+
+Tawn was a traveling performer that performed a tumbling act with their siblings in various cities during the late 15 century DR.
+
+Personality
+Tawn and their siblings were somewhat peculiar. When out in town together, they sometimes only gave rude grunts and curt nods to anyone that approached them as a group. Only when someone proved particularly entertaining did they even offer their names.
+
+Relationships
+Tawn was one of three triplets, along with Tane and Tine.
+
+Possessions
+Either Tawn or one of the other siblings had a bag of  magic dust that would expand into a large cloud when thrown to the floor. It was used in the act that they performed.
+
+History
+Some time during the 1480s DR, Tawn, Tane, and Time, along with the rest of their troupe, stopped in the city of Phlan on the Moonsea North. When not performing their act for the city's residents, the trio stopped in at Madame Freona's Tea Kettle.
+
+Appendix
+Notes
+
+Appearances
+Organized Play & Licensed Adventures
+
+Tyranny of Dragons (Defiance in Phlan)
+References
+
+---
+
+## Taverners' Confederation
+
+The Taverners' Confederation was the guildhall for tavern owner's in the city of Daggerford in the Western Heartlands in the mid-to-late 14 century DR.
+
+Location
+The guildhall was located at the junction of Guild Alley, Rogar Alley, and the Hill Road in the southern section of Daggerford north of the drill field.
+
+Appendix
+References
+
+---
+
+## Tailors' Federation
+
+The Tailors' Federation was the guildhall for tailors in the city of Daggerford in the Western Heartlands in the mid-to-late 14 century DR.
+
+Location
+The guildhall was located at the junction of the High Road and the Trade Way in central of Daggerford near the northeast corner of the drill field.
+
+Description
+The three story building was in a general state of disrepair as the guild didn't have the funds to restore it. The interior of the first floor was decorated with fine art objects.
+
+Appendix
+References
+
+---
+
+## Tanners' Council
+
+The Tanners' Council was the guildhall for the tanners in the city of Daggerford in the Western Heartlands in the mid-to-late 14 century DR.
+
+Location
+The guildhall was located along the High Road just south of Rogar Alley in central of Daggerford near the Trade Way.
+
+Appendix
+References
+
+---
+
+## Taline Telgara
+
+Taline Telgara was the Magister from  to . She was considered one of the greatest Magisters.
+
+Description
+In her youth, Taline Telgara had been amber-haired and black-browed. She was a beauty from a very young age.
+
+Personality
+Taline never lost her love of leaping around. While on her own, she spent much time together with other mages.
+
+History
+Born in a foresters' hamlet near Everlund, Taline was orphaned by orcish raids and became adopted by Mroarild Sarvarada and Nanath Sarvarada, who were entertainers and sellers of jewelry. She joined them during their performances, which were firmly three-person affairs on her father's insistence, to better protect her from admirers: she looked older than she was. Nanath was also a hedge mage, and taught Taline some magic; craving more, she took to prowling rooftops whenever they were in a town large enough for mage's towers. One night she witnessed a thief killing a mage in his tower, and struck inside, incapacitating the thief with a kick to the throat and taking a spellbook for her own. She began using her birth family name again after the Sarvaradas retired.
+
+Taline began to attend magefairs; she joined an adventuring band, the Swords Aflame, in one. With them, she breached many tombs for the magic within, acquring no less than forty spellbooks between her and the band's other two mages. On her suggestion, they hid some of their treasures in hollow minarets, guarded by dreads and crawling claws. After the band split up, Taline laid a trap for her fellow surviving wizard and slew him in a spell-battle, which went narrowly for her. She resolved not to win that closely ever again: she acquired more defensive items and began to learn more powerful spells, visiting magefairs and mages' guilds again.
+
+After defending herself from Jonsryn Daerathal and destroying him, Taline Telgara acquired the office of the Magister. Believing her time with it may be short, she gave magic away freely throughout her tenure, and used spells to fly across the countryside constantly, finding people to aid. She did not hesitate to ask for aid from unknown mages rather than whisk herself away to caches prepared in advance when she was wounded in such forays. Despite her recklessness, no cabals slew her during a flight, to the surprise of many mages.
+
+With old age setting in, she reduced her flights and began to spend longer in writing down spells and seeing to unfinished business. At about that time, she was courted by Caldauvur Maerglauthyn, with whom she began to take flights, this time in dragonshape. They were wed by fall; unfortunately, one of her magical wards was triggered during their wedding night, and transformed him into his normal shape. She did not survive.
+
+Rumors
+It was believed that Azuth or Mystra may have been the reason no cabal of malevolent mages slew her during her flights. Mystra was also believed to have guided Taline Telgara to Waterdeep during one of her trips, so as to inspire young Ahghairon, whom it appeared that she had later sought out.
+
+According to minstrels, Taline's reputation for carnality was such that she was said to have loved all of Faerûn- frequently. According to mages of the time, right before she became Magister, she inspired awe in all mages, and love to many.
+
+Appendix
+References
+
+---
+
+## Takako (ninja)
+
+Takako was a human ninja of Kara-Tur in the mid–14 century DR.
+
+History
+As a teenager, Takako disguised herself as a man and a tutor took her on as a student in the skills of the ninja. Although Takako became an expert and agile warrior, she maintained her disguise as she worried no one would hire her for dangerous missions if they found out the truth.
+
+She once fought with the warrior Masakito.This is inferred from the art used for both characters' cards being reused from the cover of Night of the Seven Swords.
+
+Personality
+Takako was a thrill-seeker who enjoyed being in any kind of danger.
+
+Possessions
+Takako wielded a katana.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Talandor's helm
+
+A Talandor's helm was a magical helmet, the first of which was made by Arghorst Talandor.
+
+Description
+They resembled any human-sized metal war-helm.
+
+Powers
+After being worn for an unbroken period of 24 hours, a link was formed between the wearer and the helm. It could afterwards maintain this mental link within a  radius, or travel anywhere within  at a flight speed somewhat faster than a man's pace. So long as the mental link held, the wearer could see and hear out of the helm, and speak out of it at will, so long as he wasn't doing anything more strenuous than casting a simple spell; the link could not be used while fighting or studying, for instance.
+
+The helm could not be used to speak command words, but it could unleash spells cast by the user, at their choice; the helm was quite accurate, more than most mages, where it came to attacks, and it could physically attack, dealing similar damage to a club. Additionally to attacking, the helm could be used for physical manipulation, and albeit it was not designed for it, it could accomplish just about the same as one could with a small hammer. Though it was subject to most attacks, it was more resilient than most mages could be expected to be, and it was immune to both electricity and psionics. The helm actually absorbed magic missiles.
+
+Sending the helm past  caused strain on the wearer, and the link could only endure then for about 90 minutes for an average person, with someone of exceptional fortitude lasting up to twice as much, before rest was needed.It is unclear how the helm could be sent past the range of the mental link, or whether the other functions worked between 70 and 700 miles, or past 700 miles, or what functions are shut down once rest is needed.
+
+History
+Arghorst Talandor designed the helms while in office.
+
+Thalandor's helms' were most often used to watch over troves and hoards.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tathaero's Short Sword Coast Chronicle
+
+Tathaero's Short Sword Coast Chronicle was a history book penned by Aldreth Tathaero, Scribe for Hire of Athkatla, in the late 15 century DR.
+
+Contents
+Tathaero's book chronicled three centuries of Sword Coastal history, and especially activities of wizards. The work was published in the .
+
+Appendix
+Appearances
+Novels
+Death Masks
+
+References
+
+---
+
+## Talisan
+
+Talisan was a barmaid inhabiting the city of Zhentil Keep during the mid–14 century DR.
+
+Activities
+Talisan worked in the Defiant Gesture, an inn located on the west side of Zhentil Keep's Foreign Quarter just off of Twilight Street.
+
+Appendix
+References
+
+---
+
+## Taybar Rozziss
+
+Taybar Rozziss was a drow fighter and mage inhabiting the city of Zhentil Keep during the late–14 century DR.
+
+Activities
+Taybar served under Kebella Mizzrym of House Mizzrym in secrecy within Sunset House within southern Zhentil Keep in the eastern section of the Foreign Quarter. He was Kebella's consort.
+
+Appendix
+References
+
+---
+
+## Talisid and the Five Companions
+
+Talisid and the Five Companions referred to a group of of guardinal paragons who protected the plane known as the House of Nature, much like a party of adventurers. They wandered the House of Nature and smashed any evil creatures that threatened the plane. The guardinals always existed here as far as anyone knew, and the companions had always solved disputes and led celestial warriors into battle. Members of the group retired once they deemed themselves unfit for service, but Talisid had been around for so long, hardly anyone could remember the name of the group's former leader. Occasionally, members of the group argued, but they did so as the dearest of friends with a loyalty to each other that put mere family loyalty to shame.
+
+Members
+The membership of the group was last listed as follows:
+ Talisid, the Celestial Lion: Leader of the companions for several millenia, most powerful of the leonals.
+ Sathia, the Sky Duchess: Representative of the avorals and patron of sculptors and painters.
+ Manath, the Horned Duke: Representative of the cervidals and newest member of the Companions.
+ Vhara, Duchess of the Fields: Representative of the equinals.
+ Kharash, the Stalker: Paragon of lupinals and Talisid's best friend.
+ Bharrai, the Great Bear: Matriarch of the ursinals and teacher of magic.
+
+Former members of the group included Zvestra, Windheir, Rhanok, Hwhyn, Lucan, and Callisto.
+
+Appendix
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Tal
+
+Tal was a type of a nut-based dessert from Unther, Mulhorand, and Raurin. It was known as taunthaun in Thay.
+
+Description
+Tal was somewhat similar to the Earth's halva and had many closely related dishes across various nations of Faerûn. Tal was a very sweet morsel of molded and pressed ground walnut, cherry, and honey, that kept well in the lands' hot climate.
+
+Appendix
+See Also
+Mraed
+Murrl
+Vauv
+
+References
+
+---
+
+## Taunth
+
+Taunth was a type of a nut-based dessert enjoyed in Ulgarth, the Utter East, Murghôm, and Durpar.
+
+Description
+Taunth was a dish similar to Earth's halva and had many similar foods across various southern nations of Faerûn. The version available in Ulgarth and the Utter East was made with grain starch and sugar cane syrup, while that found in Murghôm and Durpar used hard honeycombs.
+
+Appendix
+See Also
+Mraed
+Murrl
+Tal
+Vauv
+
+References
+
+---
+
+## Tarnished Silver Alley
+
+Tarnished Silver Alley was a small road located in the city of Waterdeep.
+
+Location
+Tarnished Silver Alley originated on Sail Street near the border with the Dock Ward. The road branched north and then passed west near the base of Mount Waterdeep. It then merged with Coin Alley just west of the Old Temple Lot. Lion Street merged with Tarnished Silver Alley near its midpoint. The road was found in southern Waterdeep within the Castle Ward.
+
+Notable Locations
+A tavern called the Sailors' Own was found where Tarnished Silver Alley met Sail Street.
+
+Appendix
+References
+
+---
+
+## Taramir chaka
+
+The Taramir chaka was one of the prominent chakas in the nation of Estagund, the Shining Lands, in the late 14 century DR.
+
+Organization
+The Taramir chaka was in charge of garbage collection across most of the cities in Estagund. The civil services in Estagund, such as sanitation, were handled by private chakas who operated under contracts.
+
+Appendix
+References
+
+---
+
+## Tanglethorn
+
+The Tanglethorn tribe was an orcish tribe that inhabited the High Forest in the mid-to-late 14 century DR.
+
+Homeland
+The orcs lived in small villages and underground tunnels in the High Forest, located around two days' journey from the forest's edge.
+
+Customs
+Like many of the High Forest orc tribes, the Horned Lord tribe worshiped Herne the Wild Hunter.
+
+Abilities
+The members of this tribe possessed many of the forestry skills typical of rangers.
+
+Relationships
+The members of this tribe were often at odds with human, elf, and half-elf rangers.
+
+History
+In the, the Tanglethorn and Horned Lord tribes gathered in the Blackhorn Horde and overran the settlement of Lord Ornigar Tchazzam in Starshadow Vale. This was to avenge the plundering of the orcish burial mounds in the vale.
+
+Appendix
+References
+
+---
+
+## Tanarell
+
+Tanarell was an aging paladin adventurer from Waterdeep, already retired by Kythorn 1372 DR.
+
+Description
+In his old age, Tanarell was a frail man who still carried himself with an unmistakable dignity of a paladin.
+
+History
+The Kythorn of the, Tanarell was aged beyond the capabilities of a warrior. His thin body could barely hold his heavy armor, and his achy arms could not swing a blade. When his home – the City of Splendors, became once again endangered by the drow menace from the Undermountain, Tanarell volunteered to go on the expedition into the mega-dungeon to find the source of the attacks and assassinations. However, he was too old and was denied the descent by Durnan, the proprietor of the Yawning Portal. The elder paladin felt bitter and depressed about not being able to help, feeling useless in his old age, but nevertheless was more than happy to share his knowledge of Undermountain, accrued through the long adventuring long career.
+
+Tanarell taught the younger heroes that Undermountain was never the same and ever-changing according to the demented whims of Halaster Blackcloak the Mad Mage. He knew the patterns of the ever-shifting dungeon and signet of its many traps and perils. Tanarell especially warned against trusting mirrors while underground.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Hordes of the Underdark
+References
+
+---
+
+## Tabra's Lane
+
+Tabra's Lane was a small road that was located in the city of Waterdeep.
+
+Location
+Tabra's Lane was located in the central section of Waterdeep's Sea Ward. It originated on the west side of Flint Street across from the House of Wonder. Tabra's Lane branched west at several points along Flint Street and split further within a small neighborhood.
+
+Notable Locations
+ Wavesilver Villa
+ Husteem Villa
+
+Appendix
+References
+
+---
+
+## Targon Hawk
+
+Targon Hawk was a ranger from the Ama Basin in Kara-Tur, active in the 14 century DR.
+
+History
+By the age of twenty-two, Targon Hawk was an accomplished ranger who traversed the lesser-known part of the Ama Basin. The area's forests grew on the site of the ancient collapsed expanse of mines and hid many untouched treasures. Hawk used his ranger training to track down and recover ancient magical treasures of paying clients. Eventually, one of his clients betrayed the young ranger and had him arrested and convicted to death just to hide the knowledge of the ancient mines from others. Luckily, Targon escaped and, since then, always worked alone and only for himself.
+
+Sometime in the 14 century DR, Hawk was among the ambitious fortune seekers who were interested in being sent into a mysterious dungeon by an unnamed sorceress to retrieve the equally mysterious magical orb from its depths.
+
+Appendix
+Appearances
+Video Games
+Dungeon Hack
+
+References
+
+---
+
+## Tanner Alley
+
+Tanner Alley was a small alley that was located in the city of Waterdeep during the 15 century DR.
+
+Location
+Tanner Alley was located in the eastern section of Waterdeep's Field Ward. It ran between Gawenknife Street in the west with Stench Alley and Logan's Walk in the east. Tanner Alley branched several times.
+
+Appendix
+References
+
+---
+
+## Tarsar's Street
+
+Tarsar's Street was a road that was located in the city of Waterdeep.
+
+Location
+Tarsar's Street was located in the southern section of Waterdeep's North Ward. The road ran roughly east to west in between Whaelgond Way in the west and Saerdoun Street in the east. Tarsar's Street was also intersected by Ussilbran Street, Nindabar Street, and Belzound Street.
+
+Notable Locations
+ Roaringhorn Villa
+ Zun Villa
+ Ragathan Furriers
+
+Appendix
+References
+
+---
+
+## Tarnath Street
+
+Tarnath Street was a road that was located in the city of Waterdeep.
+
+Location
+Tarnath Street was located in the west section of Waterdeep's North Ward. The road branched due east from the High Road just northeast of the Market. It ended on Suldown Street after several blocks. Tarnath Street also connected with Ilzantil Street, Shando Street, and Vhezoar Street.
+
+Appendix
+References
+
+---
+
+## Tarm Villa
+
+Tarm Villa was the family estate of the Waterdhavian noble house Tarm.
+
+Location
+The villa was located in the central section of Waterdeep's North Ward at the intersection of Sulmor Street and Whaelgond Way.
+
+Description
+Three separate buildings within the walled compound were arranged around a central pond. All three building were three storys tall.
+
+Appendix
+References
+
+---
+
+## Tana Farag
+
+Tana Farag was a criminal in Heliogabalus as of the mid-14th century DR.The story is assumed to occur during the reign of Gareth Dragonsbane, as Pavel Shemov claims the king is "a paladin of Ilmater" and this happens prior to 1373. Gareth Dragonsbane rose to power in 1359 DR, with no other kings of Damara known to be such paladins of Ilmater. Thus, this article is written under the assumption that the events of Silverfish occur during the 1360s DR.
+
+Description
+The woman was tall and thin, with brown hair, and a sorrowful face.
+
+Personality
+She had the habit of placing a naked dagger ahead of her. She believed in Kosef's cool-headedness over the evidence.
+
+Relationships
+She was quite loyal to Kosef Demsk.
+
+History
+In the early 1360s, Tana Farag called on Pavel Shemov to uncover evidence of Kosef's innocence, after the latter was arrested for the death of Mivar Greyman, a jeweler. On her part, Tana Farag allowed him access to Dor Stavask and Quendar Horn for an interview, and helped him get away from them after he struck a nerve with Quendar. After Pavel reasoned that one of the guards involved in the raid would have a trinket to unmake Kosef's weapon, she helped him tail and discover one of the guards that had been paid greatly recently, Iref Marsk; she was also instrumental in seizing him, and in the ensuing interrogation, as well as the fight against the barghest that attacked them midway.
+
+She fled once Iref Marsk died, but eagerly broke into Dor Stavask's home later, where she uncovered proof of his involvement in framing Kosef. She was caught after the fight with Dor, where she and Pavel killed the mage, but Pavel managed to cajole the magistrate into letting all of them go.
+
+Rumors & Legends
+It was said her loyalty to Kosef Demsk was because of a great favor or service he had done her before.
+
+Appendix
+Notes
+
+Appearances
+Short Stories
+The Silverfish
+References
+
+---
+
+## Talmost Villa
+
+Talmost Villa was the family estate of the Waterdhavian noble house Talmost.
+
+Location
+The villa was located in the north section of Waterdeep's North Ward on the southeast side of the intersection of Sashtar Street and the High Road at the border with the Sea Ward.
+
+Description
+The villa contained four separate buildings arranged around a central garden. The buildings stood two or three stories tall.
+
+Appendix
+References
+
+---
+
+## Taneth's Feasthall
+
+Taneth's Feasthall, also often referred to as Taneth's Festhall, or simply Taneth's, was a notable festhall in Suzail, the capital city of Cormyr, in the mid-to-late 14 century DR.
+
+Description
+Taneth's Feasthall stood two blocks south from Suzail's grand Promenade, on a street that crossed the Court Close that laid to the west of the establishment. Travelers who walked along the Court Close from the Promenade moving south needed to turn east once they passed Zhaelun's Stockyard. Then, moving east past the stockyard and the next two buildings, they reached the Mare's Tail tavern on the street's northern side. Across from it, to the south, stood Taneth's. The renowned Silver Cord Theatre stood nearby the festhall.
+
+Appendix
+See Also
+Interactive map of Suzail
+
+References
+
+---
+
+## Tahil Madrogue
+
+Tahil Madrogue was an adventuring thief of questionable prowess, active in the 14 century DR.
+
+History
+By the age of twenty, Tahil learned to be a competent and fearless rogue. However, his career was stifled by his lack of finesse with the tongue of the trade – thieves' cant. Tahil could never remember differences between such words as "box-man," "made-guy," "mark," "pennyweighter," "rounder," nor "tipster." When talking with fellow thieves, he often found himself with his foot in the mouth. His inability to communicate well in thieves' cant landed more fellow rogues in prison than the city guard ever could. Tahil also could not get a membership with any of the many Faerûnean thieves' guilds as he once unintentionally gravely insulted one of these organizations. To make amends for the insult, Tahil Madrogue was offered to pay astronomical guild dues for joining – something he could not afford.
+
+Sometime in the 14 century DR, Tahil Madrogue was among the ambitious fortune seekers who were interested in being sent into a mysterious dungeon by an unnamed sorceress to retrieve the equally mysterious magical orb from its depths.
+
+Appendix
+Appearances
+Video Games
+Dungeon Hack
+
+References
+
+---
+
+## Talatha Vaerovree
+
+Talatha Vaerovree was the Magister from  to .
+
+Personality
+She was reasonable, of good humor, taking pleasure in simple things, though a trifle lonely. She delighted in creating new magic, and was endlessly curious about the world.
+
+Activities
+As of the early 1370s, Talatha had traveled extensively in the Sword Coast lands south of Waterdeep, also visiting the Vilhon Reach and Cormyr. She was especially fond of Hawkhill in Amn, the farms between the Unicorn Run and Secomber, and Deepingdale. She liked to bathe in a waterfall on the eastern Thunder Peaks, upstream of Lake Sember.
+
+Description
+
+She was slim, of average height, ash-blonde with disturbingly black brows and eyes as gray as smoke. She wears her shoulder-length hair loose, binding it with a string for when she's cooking or working magic. Her movements were described as elegant; she favored sideslit gowns, so as to not feel too warm or too constricted.
+
+Powers
+Talatha was able with the dagger, darts, and slings. She was also an accomplished singer, cook, artist, swimmer, and dancer. Besides being proficient at sensing her own direction, she not only could read and write, but handled herself well with ancient languages, an in spellcraft.
+
+She also had the extremely rare ability to concentrate on multiple magics at one time.
+
+Possessions
+Besides a number of mundane possessions as normal for a traveler, by  she bore a powerful, enchanted dagger, a ring of regeneration, the Eye of Angalar, and a girdle of fire. She also had taken unofficial possession of Castle Endreth, where she hid a stone of magic missiles, and kept a set of spellbooks hidden near a midden in Innarlith. Two Magisterial spellbooks were hidden for her use, one near Suzail and one in the Rat Hills near Waterdeep.
+
+By, she had swapped eye, girdle and stone for a staff of thunder and lightning and gained a ring of protection of extremely high power.
+
+Relationships
+She had been taken from her home in a raid, where she was saved by one of the pirates, Mirt; the pirate later left her with Onlagar Blurnwood.
+
+As the Magister, Talatha had most contact with Azuth. She had once been fond, but later grown suspicious of Boroland Nevilard. She had gained the enmity of Indolrere Moravan, who had been driven away by her and her master when he tried to attack them. She'd also been the subject of much resentment from Saerla Thimroon. Mlanduvver Tassio had also hired magelings to go after her.
+
+History
+After being taken by Mirt during a pirate raid, she was delivered to the mage Onlagar Blurnwood in Innarlith for her education. Onlagar taught her well, and she became both his apprentice and his errand runner. During this time, she took to observing much of Innarlith unseen, so as to not arouse the suspicion that people in Innarlith had of wizards and adventurers. At one point, the two of them together fought Indolrere Moravan.
+
+After Onlagar's death, she wanted to leave and see more of the Realms, but something about her dared not leave her falling-down house. At some point during this time, Mlanduvver Tassio attempted to take objects from the house, and she threw deadly magic his way to stop him. She became known as the Shadow Sorceress of Innarlith, hiding when people came to look for her. Through this time, she met Boroland Nevilard, who at first mistook her for an apparition. She developed the ability to concentrate on multiple spells through this time, animating chairs at the same time as she created music to dance to. A Chosen of Mystra might've brought her to Azuth's notice at this time. He began testing her by having Weavespinners leave magic in her reach, which she assumed to have belonged to her late master; the god also made her dream of magic, to monitor her reaction.
+
+Finally, he asked her to become the Magister on Marpenoth 24, partly out of curiosity. By, she had seen been to Halruaa, and conversed with some of the great mages of the North.
+
+Talatha died in  after the Spellplague. Before she died, she was disguised as Larloch, helping Elminster make Manshoon vow not to hunt any more Zhentarim wizards; her head pretty much melted from the inside out after accumulating sufficient damage since the destruction of the Weave. She was briefly succeeded by Helacorte Darimmon.
+
+Activities
+During her tenure as the Magister, Talatha embarked in a number of missions with Azuth to bring more magic into everyday life.
+
+Appendix
+Appearances
+Novels
+Realms of the Dead ("The Many Murders of Manshoon")
+
+References
+
+FR:Talatha Vaerovree
+
+---
+
+## Talisman of the beast
+
+Talismans of the beast were rare enchanted talismans that allowed the wearer to communicate with animals at will.
+
+Description
+These items had multi-colored beads strung on papyrus reeds that revealed images of animals when spun.
+
+Powers
+In addition to being able to speak with animals at will, the wearer of a talisman of the beast could transform into a natural beast up to three times per day. The wearer would first need to revert to their normal form if they desired to change into a different animal.
+
+History
+These items were first created and used by the various beast cults prevalent in Unther and Mulhorand around . Only two of these items were known to exist.
+
+Appendix
+References
+
+---
+
+## Talisman of tongues
+
+The talismans of tongues was a unique enchanted talisman that allowed the wearer to understand all spoken and written languages.
+
+Powers
+Wearing the talisman of tongues imparted the benefits of a tongues or comprehend languages spell onto the wearer. In addition to understanding all languages, the wearer could also speak all languages while wearing the talisman. The wearer could also read magic and understand magical Mulhorandi script.
+
+History
+Though several of these items existed in the past, the priests of Thoth hunted them down and destroyed them in order to prevent foreigners from learning Mulhorandi magic. Only one remained as of the mid-14 century DR.
+
+Appendix
+References
+
+---
+
+## Talons of the danse macabre
+
+The talons of the danse macabre were an enchanted pair of eagle talons that attacked enemies.
+
+Description
+The talons were plated in dull silver resembling pewter.
+
+Powers
+If two of the talons were thrown and the proper command word was uttered, the talons would immediately attack a selected target. The talons would slash at a target for ten minutes before becoming inactive for a full day before they could be used again. The talons of the danse macabre were indestructible in combat, but could be dismissed with the proper command word or a successful dispel magic spell.
+
+History
+These magic items were initially created by priests of Assuran in Chessenta. Eight pairs were created.
+
+Appendix
+References
+
+---
+
+## Talking stone
+
+Talking stone was a spell that allowed the caster to speak out of a stone.
+
+Effects
+The spell allowed the wizard to touch one stone, and through it, speak and listen out of any stone in Toril he'd previously touched. Neither stone could be enclosed in a magical ward, or the spell failed and was wasted. The spell lasted over ten minutes, more for casters with greater aptitude in the Art.
+
+Components
+Besides verbal and somatic components, two different kinds of stone, joined by a wire, were consumed in the casting.
+
+History
+Azuth made this spell available through Elminster sometime prior to .
+
+Appendix
+References
+
+---
+
+## Tarsardar
+
+Tarsardar were spirits in service of Mystra that inhabited enchanted items.
+
+Description
+Tarsardar were amorphous, but generally stood  tall and had a face when at rest. They could whisper, gesture, and write.
+
+Abilities
+Tarsardar could only be commanded by Azuth or Mystra using the Weave directly; they possessed the ability to merge with enchanted items, and control them perfectly after barely a minute of use. They could control them even sooner if they had foreknowledge of the object's abilities. Furthermore, all tarsardar were able to make their controlled object fly, float, and move around as if carried by hands. However, a dispel magic spell expelled a tarsardar from a targetted object, even if the spell was too weak to affect the object itself; once so expelled, a tarsardar needed three minutes to enter it again.
+
+They could also communicate mentally with any creature they were touching.
+
+Personality
+Tarsardar retained their intellect, memories, and character, but tended to grow rather cynical and sarcastic over time. They had stronger preferences for mortals than shadowstaves did.
+
+Combat
+Tarsardar displayed some abilities significant only in combat. They possessed the ability to strike out with "energy burn" attacks, which were boosted if the tarsadar had been injured grievously moments before: they leaked excess power, and were able to weaponize it for a burn that hurt their foe almost as much as they'd been hurt themselves.
+
+Tarsardar also had immunity to all objects of the same type as the object they were currently possessing: no tarsardar could be struck by swords, for instance, while possessing a sword. They also gained immunity to one effect of the item they were inhabiting, whether produced by the item or by another source, and any similar ones; even a tarsardar in an object capable of launching fireball was also immune to meteor swarm.
+
+Finally, they were immune to all psionics, enchantment, illusion, death magic, all forms of hold monster and paralyzation, poison, petrification, polymorphing, cold, and electricity.
+
+Society
+Tarsardar never fought each other. They obeyed Mystra, Azuth, and all of their chosen, but tended to ignore Magisters. When their masters were not present, they preferred to cleave to the letter, rather than intention, of their instructions; many tarsardar had been destroyed or transformed as punishment for their disobedience. They were generally charged with increasing the awe and interest in magic, by making magical items seem more interesting, and by making the hand of Mystra be visible everywhere.
+
+Tarsardar could be the fate of a Magister who failed to create a new spell while in charge.
+
+History
+As of, some tarsardar were amongst those that protected Storm Silverhand from farscrying.
+
+Rumors & Legends
+It was believed tarsardar fed on magic.
+
+Appendix
+See Also
+ shadowstaff
+
+References
+
+---
+
+## Tabast Dauntrael
+
+Tabast Dauntrael was a member of the Dauntrael clan of mages. He hired himself out as a mage and guard in the late mid-14 century DR.
+
+Activities
+Both Tabast and his sister, Tethlae Dauntrael, provided "mageguard" services based out of Priapurl as of, for packages being shipped between the Sword Coast and the Inner Sea, and for caravans.
+
+Abilities
+They employed a long-range, long-duration version of projected image to track what they guarded; the spell effect could not just be their eyes and ears, but also cast spells in preparation for their arrival through teleportation. They also had spells to transform and disguise themselves.
+
+Possessions
+They had a complement of wands, rings and staves they could use in whirlwind attacks.
+
+Appendix
+References
+
+---
+
+## Tathtaklo Phaerdinzer
+
+Tathtaklo Phaerdinzer was a shopkeeper of Berdusk in the late mid-14 century DR and a prominent member of the Phaerdinzer clan.
+
+Appearance & Personality
+He acted and looked like a shopkeeper rather than a mage.
+
+Activities
+As of, he sold the discards of adventurers at the Shining Sword, a shop in Berdusk. Sometimes, his wares were magical, but even those he crafted himself possessed only minor enchantments, including sometimes everbright and blueshine weapons, or glowing ones.
+
+Rumors & Legends
+The Harpers took a keen interest in his store from the beginning, suspecting foul play in his sourcing of wares or in the owner. However, they eventually lost interest, as he only created small and subtle enchantments.
+
+Appendix
+References
+
+---
+
+## Tathshandra Tyrar
+
+Ladyservant Tathshandra Tyrar was a cleric of Mielikki and the head priestess at the Mielikki's Glade shrine in Silverymoon in the mid-to-late 14 century DR.
+
+Activities
+Tathshandra led services among garrisons of the Knights in Silver.
+
+History
+She was head priest here by the mid-1360s DR.
+
+Around 1370 DR, Tathshandra had recently journeyed to Everlund to meet with and pray alongside Jeryth Phaulkon, a Chosen of Mielikki. On her return to Silverymoon, she was of higher spirits and renewed faith, and seeming much younger. She was still high priestess as of 1372 DR.
+
+Description
+Aged somewhere in her sixties,In The North, set in 1370 DR, Tathshandra is stated to be aged 62, but in Silver Marches, set in 1372, she is aged 70, a discrepancy of 6 years. she retained a youthful sparkle in her eye nonetheless, after meeting the chosen of Mielikki.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tallstones
+
+Tallstones was a manor in Athkatla, and the residence of the heads of the Phaerdinzer clan during the late mid-14 century DR.
+
+Interior
+As of the, Tallstones was the residence of Othlo Phaerdinzer and Jasurra Phaerdinzer. They liked to be naked, and float everywhere with their magic inside the house; their windows and doors were boarded up, with the inside of the house full of tinkling, ethereal music and magically created lights.
+
+Appendix
+References
+
+---
+
+## Taskaunt
+
+Taskaunt was an independant city located just south of the country of Aglarond during the mid–14 century DR.
+
+Geography
+The city lay on the coast of the Wizards' Reach on the Sea of Fallen Stars just south of the Yuirwood.
+
+History
+Taskaunt was initially founded by the empire of Unther following the great wars between Narfell and Raumathar, but over the passage of time Unther lacked the strength to hold it and Taskaunt eventually declared independence. Taskaunt was destroyed in a plot hatched by Hargid Tenslayer and his allies during the Salamander War of the .
+
+Appendix
+References
+
+---
+
+## Taranoth
+
+The Taranoth was a region of plains found in northern Mulhorand during the mid–14 century DR.
+
+Geography
+The Taranoth was characterized by elevated plains that stretched along the Alamber Sea in between Skuld in the south and beyond Sultim in the north. Large cliffs dominated the coastline in the Taranoth, including the Cliffs of Leaping Horses.
+
+Description
+The climate within the Taranoth was usually quite gloomy.
+
+Appendix
+References
+
+---
+
+## Taru
+
+Taru was a spinning spider katanga cleric who served the Mother of a Thousand Young within the Fire Mountain of the Malatran Plateau in the late 14 century DR.
+
+Abilities
+Like other inhabitants of the Malatran Plateau, Taru worshiped spirits of the land, and like other spider katanga, he worshiped the extraplanar evil of the Tamara. Taru was devoted to death and channeled his devotion into death and fire domain spells. This faith made him fearless and spirits granted him such magics as burning hands, death knell, searing light, and others.
+
+As a spider katanga, Taru could scale any wall with ease and create ensnaring webs. His bite was venomous.
+
+Possessions
+The spinning spider katanga cleric decorated himself with skulls of twenty-seven different creatures. He was armed with an obsidian dagger, and a vast collection of spell fetishes.
+
+History
+In the Year of Tigers Curse, Malatran calendar, late 14 century DR, the Wise Ones tribe became aware of an old foe resurfacing. The leader of evil spider katanga, the Mother of a Thousand Young, was ready to birth an army of thousand ravenous younglings. In preparation for the birthing, she initiated a ritual that sent deadly poisons into the rivers cascading off the Fire Mountain. Taru was stationed within the katanga's web room, alongside a katanga archer named Ramu. The room was draped in thick spiderwebs with desiccated bodies of small animals tangled up in them as well as immature spider katanga and ordinary spider young.
+
+It was unknown if Taru survived the confrontation with a group of heroes of the Living Jungle when they infiltrated the katanga caves. However, it was likely Taru fought to the death as he feared nothing and venerated death.
+
+Appendix
+Appearances
+Licensed Adventures & Organized Play
+An Army of One Thousand
+
+References
+
+---
+
+## Tan'u
+
+Tan'u was a butu "warrior", better described as a rogue, that hailed from the Courage tribe of the Malatran Plateau and the slopes of the Fire Mountain, active in the late 14 century DR.
+
+Description
+Tan'u was a boastful man, but it was just a cover for his fearfulness.
+
+History
+In the late 14 century DR, the Tribe of the Wise Ones became aware of a looming threat. The leader of the dreaded spider katanga, the Mother of a Thousand Young was swollen with a thousand children ready to overflow the jungles. In preparation for the birthing, she initiated a ritual that sent deadly poisons into the rivers cascading off the Fire Mountain. Tan'u was among the younger and less experienced heroes of the Living Jungle who answered the call, along with Temenu Farseer of the Wise Ones, caimian katanga Roq Silent Hunter, tam'hi Allanna, and Koshiva tribesman named Green Spirit. Tan'u's group was sent to enter the spider katanga caverns and faced hunting spider katangas who guarded previously captured adventurers.
+
+It was unknown if Tan'u survived the battle, but the Mother of a Thousand Young was defeated, and heroes returned to the Village of the Wise Ones for their reward and facilitated the clean-up and nature's healing.
+
+Appendix
+Appearances
+Licensed Adventures & Organized Play
+An Army of One Thousand
+References
+
+---
+
+## Taluku
+
+Taluku was a hunting spider katanga who served the Mother of a Thousand Young as her bodyguard within the Fire Mountain of the Malatran Plateau in the late 14 century DR.
+
+Abilities
+Taluku was an experienced warrior. He preferred to fight in bipedal form while starting combat by throwing ranged weapons at the enemy.
+
+Possessions
+The katanga was armed with a large enchanted wooden shield and carried five halfspears into battle. Like other spider katanga, Morizuku could freely crawl across any surface, and his bite was a deadly venomous weapon.
+
+History
+In the late 14 century DR, the Wise Ones tribe became aware of the leader of evil spider katanga, the Mother of a Thousand Young, being ready to birth a thousand ravenous younglings. In preparation for the birthing, she initiated a ritual that sent deadly poisons into the rivers cascading off the Fire Mountain. Morizuku, along with Taluku, was tasked with guarding the venomous Mother at the center of her bones-riddled nest. Both katanga fought defensively when a band of heroes from the Living Jungles reached the Mother of a Thousand Young in an attempt to end the poisoning and the spawning.
+
+Taluku's fate remained unknown; however, his death was almost unavoidable as he and Morizuku fought until their dying breath to defend the Mother.
+
+Appendix
+Appearances
+Licensed Adventures & Organized Play
+An Army of One Thousand
+
+References
+
+---
+
+## Talvadarists
+
+The so-called Talvadarists were a collection of young wealthy inhabitants of Athkatla, assembled in the late 14 century DR.
+
+Organization
+Talvadarists were inspired by a popular and enduring classic farce play performed by the Athkatla Crown Aflame theater: the Terrible Tale of Talvadar the Merchant. The youths imitated the aforementioned Talvadar the Merchant and paraded themselves draped in red robes similar to the character's garb. These Talvadarists believed that the only way to be happy was to ignore all dangers and unpleasantries of life, just like Talvadar the Merchant unwittingly did in the beloved farcical comedy. However, the most Talvadarists ever achieved were commotions and traffic disruptions on the busy Athkatlan street crossings.
+
+History
+Talvadarists first appeared circa the . They were also mentioned by Volothamp Geddarm in his guide to the Lands of Intrigue, published in the late 14 century DR.
+
+Appendix
+References
+
+---
+
+## Talons of Timindar
+
+The Talons of Timindar were an adventuring company associated with Timindar in Chondath in the early 13 century DR.
+
+History
+In the, the Talons of Timindar explored the overgrown ruins of the city of Ilimar, and encountered nagas, lamia, and giant spiders. Then they unexpectedly discovered Yornar's Trail Companion, a lost holy Mielikkian spellbook, which was hovering in the air in the middle of a tower-top room. Curiously, the whole room was scorched by flame, with broken windows and broken bodies all around, as if blasted by an explosion, possibly a fireball spell.
+
+The Talons next went to Khôltar in the Shaar, where they sold the Companion for 90,000 gp and a pair of slippers of spider climbing to a strange dwarf who didn't give them his name. This dwarf was never seen without two ravens perched on each shoulder whom he apparently communicated with and even obeyed. (He was likely a minion, willing or unwilling, of the renegade Halruaan sorceresses Halatha and Murbreistra Starnar of Phelzol).
+
+Appendix
+References
+
+---
+
+## Tavernant's Tellings
+
+Tavernant's Tellings was an extremely busy print shop in the city of Suzail in Cormyr, established in the 14 century DR.
+
+Location
+
+The shop stood on the block between the Blade Lane and Torch Street, facing the street that stretched between the Market Hall and the Lockup in the southeastern part of the city.
+
+Services
+Tavernant's Tellings held a printing press and produced its own linen rag paper. One of the shop's products were broadsheets and socialite invitations. Each broadsheet page was made by dipping mesh-bottomed trays into linen rag pulp, then pressed, dried, and trimmed to size. Then each frame's text was assembled by hand using individual letter stamps with woodcuts of illustrations. Each page was stamped with the assembled frames using ink. Assembly of each stamp frame usually took a day and was priced at 5 gp; each subsequent copy printer was valued at a single sp. Stamp frames were kept assembled for a tenday to be used for other prints; after, they were broken down to be used for other print jobs.
+
+Tavernant's Tellings printed and bound books, priced at a single gold coin per page, while covers and boundings were priced depending on the material and any additional substances used. Some of more exotic materials used to bound books with included copper, gemstones, and dragonhide.
+
+History
+As of the late 14 century DR, the printing industry was still young, and the printing press's services were exuberantly-priced. Eccentric elderly Lady Tavernant opened Tavernant's Tellings simply because she grew tired of hand-writing invitations to her many parties and paying others for the service.
+
+The shop was extremely popular and was always swarmed by traders ordering advertisement broadsheets, menus, announcements, and memorandums. Several competitor merchants were working on opening their own printshops to claim a slice of the lucrative business. Tavernant's Tellings has a somewhat annoying reputation among owners of stone buildings in Suzail that often became plastered by glued printer broadsheets, leading them to torch the posted papers off the walls nightly. This practice was the origin of the Suzailan term "scorched news."
+
+As of the late 15 century DR, Tavernant's Tellings remained in business with its name unchanged.
+
+Appendix
+See Also
+Interactive map of Suzail
+References
+
+---
+
+## Talahon
+
+Talahon was a mercantile family of Cormyr as of the 14 century DR.
+
+Organization
+In Suzail, the capital of Cormyr, the Talahon family ran a sizable rental yard, neighboring the rental yards of the Iravan merchant house to the south. The Talahon rental yards stood by Suzail's western wall, north of the Field-Gates.
+
+Appendix
+References
+
+---
+
+## Talisman of pure good
+
+A talisman of pure good was a magic item that a goodly priest could use to smite a wicked priest.
+
+Description
+The talisman contained a stone for each charge.
+
+Powers
+In the hands of a pure-hearted priest, a talsiman of pure good could open a crack in the ground beneath the feet of a wicked priest, swallowing them forever and hurtling them to the center of the earth. Any hints of impurity in the heart and mind of the wielding priest gave the wicked priest a chance to resist the talisman's magic. These items contained seven charges and could not be recharged.
+
+Any priest who was not pure of heart suffered great harm when touching a talisman of pure good. Non-priests could touch the item without harm but could not use its magic.
+
+History
+Anhur's lance possessed the magical properties of a talisman of pure good.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tales of Far Travels
+
+Tales of Far Travels was a book written by Seroun of Calimport and published in the .
+
+History
+The book collected the author's accounts of ventures to the nations outside Calimshan and shared lessons learned from the experiences. The book was published in the . A copy of the book was kept in the great fortress-library of Candlekeep as of the .
+
+Appendix
+Appearances
+Novels
+Spellfire
+
+References
+
+---
+
+## Tavern Dancing My Way to Wizardly Might
+
+Tavern Dancing My Way to Wizardly Might was book penned by Jerenneth Ghaluin of Neverwinter in the mid-14 century DR.
+
+History
+Tavern Dancing My Way to Wizardly Might was an autobiographical book of musings by Jerenneth Ghaluin. Some of the ruminations put to paper were the author's thoughts on love and companionship. It was published in the .
+
+Appendix
+Appearances
+Novels
+Spellfire
+References
+
+---
+
+## Tales Told by the Warm Fireside
+
+Tales Told by the Warm Fireside was book penned by Korin of Neverwinter in the early 14 century DR.
+
+History
+Tales Told by the Warm Fireside was an autobiographical book of musings and ruminations on lessons learned and philosophy of dealing with one's dark times. It was published in the .
+
+Appendix
+Appearances
+Novels
+Spellfire
+References
+
+---
+
+## Taeglyn (Cormanthor)
+
+Taeglyn was an inhabitant of Cormanthyr in the 3 century DR.
+
+History
+Taeglyn was together with Delmuth Echorn when the latter went off to challenge Elminster Aumar. Though Taeglyn attempted to dissuade him, mentioning that the Lesser Flith was almost complete, he was unsuccessful. He wept for his master.
+
+Appendix
+Appearances
+Novels
+Elminster in Myth Drannor
+References
+
+---
+
+## Tassarion (Lord)
+
+Lord Tassarion was an inhabitant of Cormanthyr and a member of House Tassarion in the 3 century DR.
+
+Legacy
+In the, Lord Tassarion was part of a covert meeting conspiring against Coronal Eltargrim. There he lamented the death of his son, who had recently taken part in the hunt for Elminster Aumar. Afterwards, he suggested that, while they needed to move openly against the coronal, they were not best served by a bloodshed that put all the houses against them.
+
+Appendix
+Appearances
+Novels
+Elminster in Myth Drannor
+
+References
+
+---
+
+## Tabaxi shaman
+
+Tabaxi shamans, or spiritlords as they were also called, were specialty priests devoted to Ubtao, the Father of the Dinosaurs within the Chultan pantheon.
+
+Activities
+Spiritlords protected their tribe from offending ancient spirits or elemental creatures.
+
+Culture
+They were usually human Tabaxi.
+
+Abilities
+They carved a special mask that served as the home of the very first spirit called. Their spirit could cast several spells selected by the spiritlord on their behalf. Having their spirit mask in close proximity made it more difficult for the spiritlord to be surprised.
+
+Possessions
+Tabaxi shamans wielded clubs, spears, kerries, and yklwas. They usually wore dinosaur hide armor and carried a hlang.
+
+Appendix
+References
+
+---
+
+## Tarnsar
+
+Tarnsar was a dwarven potato-based dish found throughout Faerûn.
+
+Description
+Tarnsar was a fry of sliced potatoes, onions, and thin slices of boar. The dish was considered to be a staple of dwarven cuisine, prepared where the ingredients were readily available.
+
+Appendix
+References
+
+---
+
+## Talfiric pantheon
+
+The Talfiric pantheon was one of the human proto-pantheons that eventually merged with others to form the Faerûnian pantheon. Its members were worshiped in the Western Heartlands.
+
+Members
+Tempus, deity of war.
+Appendix
+See Also
+Coramshite pantheon
+Jhaamdathan pantheon
+Netherese pantheon
+References
+
+---
+
+## Tauthryn
+
+Tauthryn the Mad was a mage of Turmish of the 12 century DR.
+
+History
+Tauthryn's habit was using his magic to breed monsters, including bulettes, perytons, and even strange hybrids of all kinds, which naturally made him notorious. Finally, adventurers killed him for it.
+
+However, over two hundred years later, by the mid–14 century DR, the descendants of his creations could still be found wandering Turmish. Some may have bred, while others may have been recreated by deepspawn.
+
+Appendix
+References
+
+---
+
+## Tamith Timekeep
+
+Tamith Timekeep was one of the gnome engineers that worked at the logging camp by the Lantan-Samarach portal in the jungles of Samarlogh in the late 14 century DR.
+
+Description
+Tamith had long chestnut hair and green facial markings.
+
+History
+By the, Tamith Timekeep was among the gnomes who staffed the illegal logging operation in Samarlogh. She was a talented engineer and created an improved logging machine design. Her fellow engineer Leva saw the schematics and wanted to claim it as his own, along with the bonus pay from the employer. Leva pretended to be enamored with lonely Tamith and lured her to the jungles and killed her. Leva lied to Dall Nickleplate and other gnomes, blaming Tamith's death on a dinosaur attack. Her body was burned and buried outside the logging camp, and Tamith's death turned her spirit into a ghost longing to bring the murderer to justice.
+
+When a group of adventurers hired by merchant Sa'Sani of Samargol arrived at the Lantan-Samarach portal, they helped the gnomes in dealing with several incidents, including the poisoning of the camp's main engineer. They came across Tam's disoriented ghost and followed the undead's directions to her charred body with a distinct melted necklace. When Tamith Timekeep's body was presented to Dall Nickleplate, he immediately recognized the jewelry and realized Leva's guilt. As Leva was being interrogated, Tamith's angry spirit attacked and killed the murderer. Her spirit found peace, as Dall sent both bodies back to Lantan for burial.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Storm of Zehir
+
+References
+
+---
+
+## Tall Tales: A Ranger's Life
+
+Tall Tales: A Ranger's Life was a book by ranger known as Amritar the Tall, published in the early 14 century DR.
+
+History
+This autobiographical and nostalgic tome was published in the  and a copy was kept in the great fortress-library of Candlekeep as of the .
+
+Appendix
+Appearances
+Novels
+Crown of Fire
+
+References
+
+---
+
+## Tacherani
+
+Tacherani was an erinyes in service to the pit fiend Kurgaloth.
+
+Personality
+She was cold and furious.
+
+History
+In the late 15 century DR, Tacherani was one of many devils brought to the Lightfinger Estate in Waterdeep to enforce a lapsed infernal contract between Kurgaloth and the Lightfinger family.
+
+When adventurers arrived at the Lightfinger Estate to investigate the chaos that the devils' arrival had caused, Tacherani battled them inside the opulent mansion at the Estate's center. Although she lost the battle, the adventurers failed to slay her before she could escape.
+
+Appendix
+Appearances
+Video Games
+Warriors of Waterdeep
+References
+
+---
+
+## Talon (specialty priest)
+
+Talons were specialty priests devoted to Malar, the Beastlord.
+
+Culture
+Talons were both male and female and could be any race. The vast majority of talons were human, but other represented races included wemics, half-orcs, half-ogres, and other vile humanoids.
+
+Abilities
+Talons possessed honed survival skills, allowing them to accurately identify plants, pure water, and animals. They could also track animals by their spore. They could cast several spells on a daily basis including beast claw, rage, and animal transfer. Talons were immune to all mind-affecting spells such as charm person if cast by a woodland creature.
+
+Possessions
+In addition to bludgeoning weapons, talons often wielded daggers or claws of Malar. Claws of Malar were always a gift from the church. They did not have restrictions on the type of armor they were permitted to wear.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tankardstall Hall
+
+Tankardstall Hall was a small manor in the town of Purskul in Amn.
+
+Location
+Tankardstall Hall stood conveniently on the Orc Road that stretched north from Purskul, making it a main stop along the route.
+
+History
+Circa the, the Tankardstall Hall belonged to the Hamlar family of Amn. By the late 14 century DR, the manor was purchased by the Talltankard hin family of wine merchants. The master of the manor was Cumber Talltankard circa the . Under his control, the manor hosted annual lavish celebrations of the first batches of the Talltankard seasonal wines to be sold north.
+
+Appendix
+References
+
+---
+
+## Tammurth Tarndrover
+
+Tammurth Tarndrover was a priest of the church of Oghma, called a Namer, based in the city of Iriaebor in the Western Heartlands in the late 15 century DR. By around 1480 DR, Tammurth had gained great prosperity from work in an arts or entertainment industry.
+
+Appendix
+References
+
+---
+
+## Tassarion
+
+Tassarion was an elven house of Cormanthor.
+
+History
+Lord Tassarion entered into a conspiracy against Coronal Eltargrim Irithyl while at Castle Maendellyn in  after the death of a heir of the house by the Narnpool during the revel in which the new human armathor Elminster Aumar substituted for the Coronal, believing him to be the killer.
+
+Members
+ Lord Tassarion
+Appendix
+Appearances
+Novels
+Elminster in Myth Drannor
+References
+
+---
+
+## Talnu's Ropeworks
+
+Talnu's Ropeworks was a shop located in Waterdeep during the mid-to-late 14 century DR.
+
+Description
+The building was two stories tall.
+
+Location
+Talnu's Ropeworks was located in the central section of the Dock Ward on the south side of Adder Lane across from the Rearing Hippocampus.
+
+Activities
+The shop specialized in the sale of ropes and other gear suitable for adventurers.
+
+Appendix
+References
+
+---
+
+## Tammert Landral
+
+Tammert Landral was an apprentice wizard inhabiting Waterdeep during the mid-to-late 14 century DR.
+
+Activities
+Tammert was a student of Blackstaff Academy within Blackstaff Tower in the Castle Ward of Waterdeep in the . He was recognized by his teachers as having tremendous potential and a brilliant mind for magic.
+
+Appendix
+References
+
+FR:Tammer Landral
+
+---
+
+## Tamar Harpell
+
+Tamar Harpell was a young apprentice wizard inhabiting Waterdeep during the mid-to-late 14 century DR.
+
+Activities
+Tamar was a student of Blackstaff Academy within Blackstaff Tower in the Castle Ward of Waterdeep in the . Originally raised in Longsaddle with his family, the Harpells, Tamer was sent to Waterdeep to study magic.
+
+Appendix
+References
+
+FR:Tamar Harpell Wands
+
+---
+
+## Talven
+
+Talven was an early knight of Neverwinter and the first of the Nine knights who served Lord Halueth Never. They were the basis for the Neverwinter Nine.
+
+History
+A statue of Talven and his sword stood guard in Halueth's tomb. It bore the message "We shall not rest until his sword takes its rightful place."
+
+Appendix
+References
+
+---
+
+## Tamper
+
+Tamper was an early knight of Neverwinter and the eight of the Nine knights who served Lord Halueth Never. They were the basis for the Neverwinter Nine.
+
+History
+Tamper was the youngest of the Nine, and kept the others feeling young at heart. A statue of Tamper and his sword later stood guard in Halueth's tomb.
+
+Appendix
+References
+
+---
+
+## Tamaeril Bladesemmer
+
+Tamaeril Bladesemmer was a noble and Masked Lord of Waterdeep in the mid-14 century DR.
+
+Appearance
+As of, she was gray-haired.
+
+Possessions
+She carried a dagger and an enchanted amulet.
+
+Abilities
+Even in the instants before her death, she employed spells that allowed her to open a door, drop a drinking vessel on a foe's head, a cantrip to pull on the rug beneath another's feet, and finally, she cast a spell for a message of hers to be sent directly to the mind of Mirt the Moneylender, almost certainly sending.
+
+Relationships
+She was a widow, who owned a dog named Borgul, a songbird, and at least one cat. Elminster Aumar had tutored her at one point.
+
+History
+Tamaeril Bladesemmer had been a Masked Lord for nine years, and had adventured with Mirt at some point in the past as of early Flamerule in . She was the oldest of all the Lords, indicating she was older than Mirt or Durnan. One night in that month she was attacked by Amril Zoar, who also killed her dog and her songbird. She managed to cast a spell warning Mirt that her slayer was a mage who claimed to be after the Lords of Waterdeep.
+
+Appendix
+Appearances
+Novels
+Elminster in Hell
+References
+
+---
+
+## Talgath
+
+Talgath, also known as the Watcher of Castle Never, Talgath the Watcher, and later Talgath the Undying, was a beholder who occupied Castle Never in the late 15 century DR.
+
+Personality
+Talgath expected that any living thing that it met would submit to its domination, and it believed that eventually all such beings would inevitably do so. It generally considered most humanoids beneath its notice, even intruders within its domain.
+
+History
+Sometime after the Ruining, Talgath arrived in Castle Never to claim the abandoned ruin for its own. It managed to beat back the undead forces of Valindra Shadowmantle, and aimed to conquer the castle from the top-down, thus starting by subjugating the ettercaps who dwelt in the towers. The ettercap leader, Ryxfith, prophesied that someone from outside the castle would arrive to defeat the beholder for them.
+
+Valindra's minions proved unable to defeat Talgath despite her declaring that it was a major priority, however it would ultimately be slain by adventurers from Neverwinter in the . This was not the end for Talgath, however, as years later it would be reanimated to serve Orcus in undeath, and thus become known as Talgath "the Undying" as it once more inhabited the ruined castle.
+
+Appendix
+Appearances
+Video Games
+Neverwinter (Neverwinter: Underdark)
+
+External Links
+
+References
+
+---
+
+## Tarth Hornwood
+
+Tarth Hornwood was an adventuring wizard in the mid-14 century DR.
+
+Relationships
+He was a student of Nerndel. Later, he was further tutored by Nimra Ninehands.
+
+Possessions
+He acquired a magical staff from Nerndel, and looted the Ring of Murbrand from Myth Drannor, though he later traded it away to Sarlin.
+
+History
+Before, Tarth Hornwood had been the chosen heir-in-art of Nerndel in Amphail, who gave him his staff. With the staff, Tarth took to adventuring, exploring tombs in the Dragonreach, and plundering other places too, including Myth Drannor, where he acquired the ring of Murbrand. At some point, he was tricked by Sarlin.
+
+In late Mirtul of 1360 DR, he sought out Elminster Aumar for training, meeting Aelrue in Shadowdale right before reaching him. Once there, Tarth offered him the ring of Murbrand in exchange for training. Though Elminster was not against training him, he wanted him to destroy Nerndel's staff instead. Having come to rely on it, Tarth asked for a few days before they performed the staff-destroying rite. In those days, he commissioned a copy of the staff from Sarlin, who took four days for its creation. On the way back from Sarlin, he hid the real staff at a temple of Mystra, protected by his strongest wards.
+
+He soon after completed the rite with Elminster, who revealed afterwards that he knew he'd traded away the ring for a fake staff. Teleporting his staff to Tarth, Elminster left him, and Tarth resolved to complete the ritual for real. He fainted after the destruction of his staff, waking up to find Elminster and a woman, Nimra Ninehands, who had been trapped as his staff. Elminster explained the story between Nimra and Nerndel, and that Nimra would become his tutor in the art.
+
+Appendix
+Appearances
+Novels
+Elminster in Hell
+References
+
+---
+
+## Tabira's Spire
+
+Tabira's Spire was the location of a gate out of Avernus.
+
+Description
+The spire still had the bones of an erinyes hanging from it.
+
+History
+The location had taken its name when an erinyes had been punished by impaling her on the spire, and she had later died begging for mercy. There was a portal leading out, for those who touched the right bone and said the right words. The area was shunned.
+
+Appendix
+Appearances
+Novels
+
+Elminster in Hell
+References
+
+---
+
+## Tasnya
+
+Tasnya was an exiled archdevil in the mid-late 14 century DR.
+
+Personality
+She liked pain.
+
+Appearance
+She was often crimson with the blood that she coated herself with, though flames rose in wisps from her face and breasts, of which there were multiple; she was dark and sinuous beneath the blood, with spikes long enough to transfix anyone close by.
+
+Relationships
+Nergal and her were rivals of sorts. One erinyes serving her was named Sressa.
+She thought Malachlabra was a fool just like Nergal.
+
+Abilities
+Besides some abilities related to scrying, Tasnya showed the power to cast spells that made the blood around her burn with deadly flames, as well as alter the behaviour of said bloodfire into cones, lances, and other forms. She could also alter the spikes on her body, making them lengthen or thicken in combat.
+
+Activities
+Amongst other things, she liked to scry on fellow outcasts, be flogged by imps, bite the throats off erinyes, wrestle abishai, get bitten by land lampreys.
+
+History
+Soon after Nergal came into possession of Elminster Aumar, Tasnya was already aware of him, and soon sent one of her servants, Sressa, to watch them. She continued to scry during the events, including, momentarily, over Malachlabra.
+
+After Nergal placed Elminster in her cave, The Simbul came to her, drawn by him; the sorceress destroyed Tasnya soon after their meeting.
+
+Appendix
+Appearances
+Novels
+Elminster in Hell
+References
+
+---
+
+## Tatrina Hembreon
+
+Lady Tatrina Hembreon was a royal corlann of Tethyr during the reign of Queen Zaranda Rhindaun, tending to the royal nursery.
+
+Description
+Tatrina was a beautiful blonde-haired woman. She had blue eyes. While serving the cult of Ao in Zazesspur as an adolescent, she dressed in a simple white robe and wore a golden torque about her neck.
+
+Personality
+Because of the horrors that she survived during the Days of Terror, Tatrina refused to ever set foot in the city of Zazesspur, her original home, again.
+
+Activities
+In her role as corlann, Lady Tatrina cared for the queen's three children, which gave her a distraction from her terrifying memories from the Days of Terror.
+
+Relationships
+Tatrina was the only surviving daughter of Alaric Hembreon, Duke of the Golden Marches. He was very fond of his daughter and had a difficult time telling her no or disciplining her.
+
+As a young adult, in her role as corlann, she was subordinate to Corwin Vineshigh, the royal farsann, who was in turn subordinate to Lord Tannar Grannox, the royal sammafar.
+
+History
+In the time leading up to the Days of Terror in the city of Zazesspur, Tatrina had joined the All Friends, the local cult of Ao. Once, when then-Countess Zaranda Star was discussing with Tatrina's father how she might extradite the process of recovering her impounded goods, Tatrina was dragged before her father by his guards, having been caught stealing money from his purse to give to the poor in the name of Ao.
+
+Appendix
+
+Appearances
+Novels
+
+References
+
+---
+
+## Taunt
+
+Taunt (originally called Dace's taunting) was an enchantment spell used to confuse, anger, and provoke creatures.
+
+Effects
+When taunt was cast, the affected creature became hostile and would attempt to attack the caster.
+
+When used in conjunction with a ventriloquism spell, the creatures might attack the apparent source, depending upon their intelligence, a leader's presence, and so on.
+
+Components
+The spell required verbal, somatic, and material components. The material component was a slug, which was hurled at the creatures.
+
+History
+The spell was attributed to Netherese arcanist Dace, in −1839 DR, originally called Dace's taunting.
+
+Appendix
+
+References
+
+---
+
+## Tak (disambiguation)
+
+Tak might refer to:
+ Tak, a doppelganger in the Moonsea.
+ Tak, a goblin raider on the Sword Coast.
+ Tak, a halfling member of the Dungsweepers' Guild of Waterdeep.
+
+---
+
+## Tantulhor
+
+Tantulhor was a metal only found in the Nine Hells. Seldom found outside the infernal planes, it reached very high prices when sold on the Prime Material plane.
+
+Properties
+By itself, tantulhor was almost unbreakable. Weapons forged from this metal could cut about anything, except stone.
+
+Alloying
+Tantulhor could be alloyed with arjale and silver to create an extremely durable yet pliable metal, of untarnished silvery color with flecks of green.
+
+Applications
+Tantulhor was used in the creation of magic items such as the demonshields of the Shoon Imperium or the rod of Dispater. It was also used to create the talisman of many devils such as Zagan or the hamatulas.
+
+Production
+Tantulhor was mined by nupperibos and spinagons in Phlegethos and Nessus. They could also be found in Malbolge and Maladomini, where it was less abundant.
+
+Appendix
+See Also
+ Arjale, another metal exclusively found in the Nine Hells.
+
+References
+
+---
+
+## Tami
+
+Tami was a maid at Thistleflame Manor and servant of Lord Partic Thistle circa 1369 DR.
+
+Description
+Tami was a curvaceous, black-haired young woman prone to giggling. She managed to dress provocatively despite her professional work at the Manor.
+
+Personality
+Tami was extremely flirtatious and eager for attention and affection.
+
+Activities
+Tami was one of the maids of Thistle Manor, alongside Larwyn, and was responsible for maintaining the lower two floors of the Manor. She was somewhat careless and inattentive to her work, preferring instead to flirt with any man that caught her eye.
+
+Relationships
+Tami hoped that Lord Thistle would fall in love and marry her, and was greatly upset that he instead fancied Annalise, the barmaid at the Bubbling Bulwark. She called Annalise "That ale-slinging trollop."
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tanatha (priestess)
+
+Tanatha was a human priestess of Talos in service of Lord Vorik Aris, operating in Wyvernwatch Castle in the Stonelands around 1369 DR.
+
+Description
+Tanatha was darkly beautiful but usually hid it with her armor, appearing anonymous and terrifying instead.
+
+Personality
+She was cruel and unpredictable, and was fully devoted to her patron and his domain of upheaval and destruction.
+
+Abilities
+Tanatha was a powerful cleric, and could call forth many spells which she largely used to smite her enemies. Her devotion as a stormlord gave her additional storm-themed powers, including shocking grasp, call lightning, water walk, control winds, and lightning bolt.
+
+Possessions
+Tanatha wore ornate black +3 full plate with a matching helm of comprehending languages & reading magic that fully hid her identity, and carried a +3 footman's mace and +3 shield. She also wore a ring of regeneration and had several vials of unholy water.
+
+Activities
+In 1369 DR, she served Lord Aris as his spiritual advisor as he schemed to overthrow King Azoun IV and enthrone himself. She greatly anticipated the delightful chaos and war he would wreak upon Cormyr, but had absolutely no loyalty to him beyond that, and was ready to abandon Lord Aris the moment his defeat seemed likely.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Talisman of Zagy
+
+A talisman of Zagy was an unusual magical item that responded powerfully to the bearer's personal charisma.
+
+Description
+A talisman of Zagy had the same appearance as a stone of controlling earth elementals, looking like an innocuous chunk of polished rock.
+
+Powers
+A talisman of Zagy responded to whoever touched it, determining a hostile, neutral, or friendly reaction to their innate charisma.
+
+ A hostile talisman acted as if it were a stone of weight, drastically slowing down the bearer when they tried to move quickly. Fortunately, the talisman was not as hard to get rid of, and destroying it permanently removed it from the bearer.
+ A neutral talisman would simply remain with the bearer for a day or two, then mysteriously disappear.
+ A friendly talisman would cling to the bearer for months or years depending on just how charismatic they were. In this time, it could grant the bearer multiple wishes, and give off a throbbing warmth whenever the bearer came within 20 feet of a magical or mechanical trap.
+
+Whatever reaction the talisman had, at the moment of disappearance it would replace itself with a diamond worth 10,000 gp.
+
+Notable Owners
+ A gang of imps in the Vast Swamp had a small treasure hoard, including a talisman.
+ The shadow dragon Shadowdeath, who was trapped inside the Tower of Ruin, had a sizable hoard including a talisman.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tat Jansen
+
+Tat Jansen was a child of the numerous gnome Jansen family in the late 14 century DR.
+
+Description
+Just like her brother, Tot, Tat had fair skin and light brown hair.
+
+History
+In the, Tat and Tot lived in Athkatla's River District slums in the Jansen's family home, along with Ma Jansen, Kylie Jansen, Jan Jansen, and Uncle Gerhardt. Tat was fiercely protective of her pet cat, yelling at guests who dared to lay their eyes on the beast.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate II: Shadows of Amn
+References
+
+---
+
+## Tablet of reawakening
+
+A tablet of reawakening was an item crafted by the Wychlaran of Rashemen as of the late 15 century DR to counteract the potent necromancy of the Red Wizards of Thay.
+
+Description
+It was a small and flat rectangular piece of stone covered in inscriptions. Down the center, in golden letters in the Thorass alphabet, it read "ADDUCERE AD VITAM."These letters appear on the prop in the movie, not in the artwork from the D&D Beyond article "Legendary Magic Items". It is a Latin phrase meaning "Bring to life". It was designed to sit in a small pedestal of curved stone when not needed.
+
+Powers
+By reciting its inscription and giving the name of the one to be resurrected, the tablet could be used to cast a version of the true resurrection spell that was powerful enough to revive individuals who otherwise could not be raised without the direct aid of a deity. It was one of the only known means to revive someone slain by a Red Wizard blade.
+
+The tablet could be used only once, at which point it would disintegrate.
+
+History
+A tablet of reawakening came to be included in the collection of dangerous treasures amassed by the Harpers at Korinn's Keep during the late 15 century DR. In the late 1490s DR, the allure and promise of acquiring a tablet of resurrection prompted ex-Harper Edgin Darvis to agree to aid the conman Forge Fitzwilliam and the wizard Sofina in breaking into the Keep. Edgin desired the tablet to revive his wife Zia, who had been slain nine years prior by a Red Wizard blade. However, he did not tell their daughter Kira, for fear of getting hopes up in case he should fail.
+
+Upon entering the Keep and finding the tablet of reawakening on a pedestal covered in spider webs, Edgin picked it up and failed to notice a cord disguised amongst the webbing, which snapped and sounded the alarm. Edgin and his longtime friend Holga Kilgore were ultimately captured and sent to Revel's End prison for two years while their accomplices fled.
+
+Upon their escape from prison and reunion with Forge and Sofina, they learned that they had been betrayed. Not only had their capture been intended by Forge and Sofina, but subsequently the pair had lied to Kira, telling her that Edgin had left her to seek a "tablet of riches" and that he was lying to her about wanting to revive her mother. Forge refused to return either Kira or the tablet to Edgin, and claimed he could get a "bundle" for it in Skullport.
+
+Edgin would ultimately win Kira back and reacquire the tablet of reawakening, however Holga was then slain by Sofina using a Red Wizard blade. Realizing that his and Kira's relationship to Holga was now much more important than clinging to the memory of his lost wife, Edgin chose to use the tablet of reawakening's one charge to revive her instead.
+
+Notable Owners
+ Forge Fitzwilliam, briefly the Lord of Neverwinter in the late 1490s DR, kept a tablet of reawakening in his vault which he and his compatriots had stolen from the Harpers. It was stolen from him in turn by Edgin Darvis.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Taglan's Bones
+
+Taglan's Bones was a large freshwater swamp on the isle of Thelve in the Sea of Swords, west of the library fortress of Candlekeep.
+
+Description
+Taglan's Bones was located on the western end of Thelve's northern shore. A quicksand laid at the swamp's heart, and it emptied into saltwater Cauldron of the Reach.
+
+History
+The swamp was named after a pirate captain who stashed his treasure there, only to be murdered by his vengeful crew at the swamp's center.
+
+Appendix
+References
+
+---
+
+## Tanalar's Fine Mounts
+
+Tanalar's Fine Mounts was a horsebreeder and trader in Tilverton in the 14 century DR, run by the ex-Purple Dragon Brieth Tanalar.
+
+Location
+Tanalar's office in Tilverton lay along the Moonsea Ride halfway between the Market and the Cormyr Gate.
+
+Services
+Tanalar bred and sold fine mounts that were used as racehorses, riding horses, medium warhorses, and studs, with customers as far away as Calimshan. His prices were high, but he knew that he could charge what he liked due to the quality of his horseflesh. He would also refuse to deal with anyone he didn't like the look of, with a strong distrust of strangers, as many assumptive merchants discovered.
+
+Appendix
+References
+
+---
+
+## Taltempla
+
+Taltempla, or the City of Magic, was a peaceful and harmonic city and the second-largest settlement on the elven isle of Evermeet in the Trackless Sea.
+
+Description
+Taltempla was a large elven city, wondrous sight for those beholding it for the first time. Its breathtaking appearance echoed ancient eras when the Fair Folk ruled Faerûn. The city was encircled by a clear crystal wall. All of its buildings were crafted with very few straight lines in order to appear like natural formations made of white and green marble. A big portion of Taltempla's buildings were conjured deep from the island's earth. The city was filled with greens of the parks, marble shrines, and groves used by the elves to worship the Seldarine or for meditation. The city harbor was built on the bay, forming Taltempla's southeastern border.
+
+Geography
+
+Taltempla stood on Evermeet's east coast, northeast of the town of Ruith. It was built on a natural bay in the Trackless Sea. It stood on the Wizard's Road that hugged Taltempla's southwestern walls.
+
+Government
+Taltempla had no government, and the locals did not need it. They were comfortable in leaving their harmonious lives, practicing sorcery, and worshiping the Seldarine. Circa the, the city's de-facto ruler was its most powerful spellcaster – the High Mage Gaelira.
+
+History
+Two powerful elven enchanted swords, Thael and Amasal'', were recovered from gnoll raiders who menaced the ancient Illefarn. They were placed under guard in the city of Taltempla by the .
+
+Notable Locations
+Taltempla had a collection of temples dedicated to the Seldarine: Corellon Larethian, Labelas Enoreth, Sehanine Moonbow, Angharradh, Aerdrie Faenya, Hanali Celanil, and Solonor Thelandira.
+
+Gaelira's Tower, home to Taltempla's de-facto leader in the 14 century DR.
+The Golden Griffon, a mage-favorite inn in the 14 century DR.
+The Green Paths, a lush public park.
+Grove of the Four Winds, a magnificent central park of Taltempla.
+The Hall of Trifold Harmony, a soaring and magnificent temple of Angharradh.
+School of Magic, the city's college, located on the northwestern edge of town.
+Shrine of the Fallen Heroes, a landmark – the memorial to slain elves.
+Tower of Flinar, home of Flinar the Mage in the 14 century DR, roughly at the center of the city, west of Gaelira's Tower.
+Tower of the Sisters of the Sun, the guildhall for the city's female mages.
+
+Notable Inhabitants
+The settlement's nickname – the City of Magic, came from the fact that a large portion of its residents were wizards. Apart from the arcane, the city held many priests and locations holy to the elves of Evermeet.
+
+Ohmbryn Elaéyadar, an elven sage who dedicated his life in studying the doings of humans. In the 14 century DR, Ohmbryn used his magics to mentally communicate with the famed hero Dove Falconhand.
+
+Appendix
+References
+
+---
+
+## Taerele
+
+Taerele was a reclusive Chosen of Mystra who made home somewhere in the East Faerûn in the 14 century DR.
+
+History
+One of the two rarely seen Chosen, Taerele was a hermit who had no interest in interacting with humans or any other civilizations. Instead, she spent her life learning to and repairing the Weave as well as mastering its manipulation.
+
+Appendix
+References
+
+---
+
+## Tallar's harp
+
+Tallar's harp was a magical harp used by the Harpers.
+
+Powers
+Tallar's harp possessed two magical abilities, which were communicated telepathically to anyone who played it. When a specific chord was struck, the harp emitted a stunning effect similar to symbol, but limited to beings within a  radius of the harp, except for the harpist, who was immune to its effects.
+
+Additionally, the harp could temporarily enchant bladed weapons. When the harp was touched to a weapon while a particular melody was played, the blade was granted an enchantment that increased damage. If the weapon already had an enchantment, the harp's temporary effect was added to it. Once a weapon was enchanted, it remained as such until it expired or until a dispel magic was applied to the blade. The harpist had no means of ending the enchantment early.
+
+Appendix
+References
+
+---
+
+## Tapralaran
+
+The Tapralaran family was one of the wealthiest families in Suldolphor in far eastern Calimshan during the mid-to-late 14 century DR.
+
+Base of Operations
+The Tapralaran estate lay along the affluent Emerald Dragon Way in the heart of the Golden City.
+
+Activities
+The Tapralarans were the seventh-wealthiest family in Suldolphor, giving them considerable influence within the city.
+
+Appendix
+References
+
+---
+
+## Taxidermy Society of the Sword Coast
+
+The Taxidermy Society of the Sword Coast was an organization that supervised professional taxidermists across the Sword Coast in the late 14 century DR.
+
+History
+By the, eccentric taxidermist Nagnorm Stuffler of Gillian's Hill was a member of the Taxidermy Society of the Sword Coast. When confronted by the Hero of Daggerford in an attempt to rescue a talking druid penguin from being vivisected and stuffed, Nagnorm threatened the Hero with filing a complaint with the organization. But his attitude changed with the help of 100 gold pieces.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Taxidermy knife
+
+Taxidermy knives were specialty blades created specifically to be used by taxidermy enthusiasts of the Sword Coast.
+
+Description
+These knives were short and sharp tools of thin and long metal blades. Many were engraved with their owner's initials due to the personal nature of such items.
+
+Powers
+The nature of such blades granted the wielder a slight advantage when crafting armor, traps, and weapons.
+
+Notable Owners
+Nagnorm Stuffler, an eccentric taxidermist gnome from the hamlet of Gillian's Hill active in the late 14 century DR. His Taxidermy knife was stamped with initials "N.S."
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tanarukk greataxe
+
+Tanarukk greataxes were a type of crude, but effective axes created by the tanar'ri-tainted orcs, Tanarukka of the Dragonspear Castle.
+
+Powers
+These weapons were massive double-edged axes made for cleaving humans rather than trees. Each Tanarukk greataxe was imbued with a basic enchantment that heated the weapon as it slashed at an opponent. The magical fire damage was minimal, however, compared to most other enchanted weapons.
+
+History
+Tanarukk greataxes were used by the tanarukka and orc forces of the demon Gorgomorz, circa 1372 DR during the Zhentarim plot against Daggerford.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+References
+
+---
+
+## Tar makeup
+
+Tar makeup was a substance in the Realms used to darken the skin.
+
+Description
+Tar makeup was available in small containers.
+
+History
+A small jar of tar makeup that lasted for 25 applications was available for purchase through Aurora's Whole Realms Catalogue for 3 gold pieces.
+
+Notable Users
+ Tar makeup was sometimes used by thieves or rogues to help them hide in the shadows.
+
+Appendix
+References
+
+---
+
+## Targen Holdfast
+
+Targen Holdfast was a ranger and retired adventurer inhabiting the town of Ashabenford in Mistledale during the mid-to-late 14 century DR.
+
+Activities
+Targen became a member of the Council of Six in Ashabenford several years after retiring. He was the voice of loggers and farriers in the dale.
+
+Appendix
+References
+
+---
+
+## Tanlatha Tyrlan
+
+Tanlatha Tyrlan was a farmer inhabiting the town of Ashabenford in Mistledale during the mid-to-late 14 century DR.
+
+Activities
+Tanlatha's farm was located just south of the town near Haresk's Pool.
+
+Appendix
+References
+
+---
+
+## Tam (priestess)
+
+Tam was a junior priestess of Selûne at Moonshadow Hall in Yhaunn in the 14 century DR.
+
+Personality
+As an inexperienced and young priestess, Tam was quite unnerved by the events at Moonshadow Hall, and rather easily cowed and led by more authoritative people.
+
+History
+In the, Tam assisted the senior priestess Velsinore in her duties at Moonshadow Hall. In Eleasis of that year, she met the returned Feena Archwood and helped Velsinore administer the temple after Moonmistress Dhauna Myritar's transformation into a werewolf and subsequent death.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Talisk
+
+Talisk was a young man of Yhaunn who joined the temple of Shar in the late 14 century DR.
+
+Personality
+Talisk was a rowdy and shiftless young man of the upper classes, eager for fighting and carousing to relieve his boredom. He was a loyal servant of Shar's cult, and sought to glorify her, though he had more enthusiasm than wisdom.
+
+History
+In Eleasis of 1373 DR, Talisk was introduced to the newly-recruited Keph Thingoleir by Variance Amatick (disguised as Jarull Cartcoster). Talisk joined Starne and Baret in forming Keph's new social circle, joining him in carousing about the city and making him feel welcome in the church of Shar. On one such adventure they came across Keph's rival Lyraene, and blocked her friends from intervening while Keph fought an unfair duel with her.
+
+On the night of the new moon, Talisk joined Variance's attack on Moonshadow Hall, thinking he would help tear down the temple rather than serving as an expendable distraction. In the defeat that followed, he was likely captured by the city guard and given the opportunity to reject Shar's service.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Talmost Keep
+
+Talmost Keep was a ruined fortification lying in Ardeep Forest on the Sword Coast North. It was the former royal seat of House Talmost, never reclaimed by its descendants.
+
+Location
+Talmost Keep was located just outside the end of Ardeep Forest's northern spur, in the Talmost Lands.
+
+History
+The Keep originally lay in the lands of Delimbiyran, and the Talmosts were ennobled in 659 DR. They continued to rule from the Keep as an independent kingdom after the fall of Delimbiyran.
+
+In the, drow raiders struck hard along the Sword Coast, with Talmost pillaged and the people enslaved. The royal family fled and resettled in Nimoar's Hold, though they maintained their ownership of their lands. They became officially ennobled in Waterdeep the same year and became one of the leading families of the city.
+
+By the late 14 century DR, the Keep was a ruin haunted only by the ghosts of people tortured to death by the drow raiders. Occasionally, swarms of fiendish spiders were known to emerge from the ruins' depths to menace the area. Sages believed that they could have been arriving from some portal that connected the ruined keep with a drow temple in the Underdark.
+
+Appendix
+References
+
+---
+
+## Tanekashima
+
+Tanekashima was an island located in Kozakura.
+
+Description
+Tanekashima was located off the southeastern tip of Kanshu. It was known for its tin mines that yielded a moderate output.
+
+Inhabitants
+Tanekashima was the dwelling place of industrious korobokuru who toiled in the tin mines. They engaged in trade, either with traveling merchants or with the nearby town of Iewara.
+
+History
+An insectoid gargantua went on a destructive rampage across the island. There was a prevailing concern that its eggs remained dormant in the distant hills and could potentially hatch during a prolonged period of intense heat.
+
+Appendix
+References
+
+---
+
+## Taibojima
+
+Taibojima was an island located in Kozakura.
+
+Description
+Taibojima was situated in the Inland Sea, not far from the central coast of Tenmei.
+
+Inhabitants
+Taibojima was home to ordinary fishing and farming communities, with the revenues generated from their activities being directed to Tenmei Province.
+
+Due to its strategic significance as a naval port, Taibojima maintained a permanent garrison of imperial troops. The samurai stationed there also fulfilled the role of marines, serving aboard naval vessels whenever the need arises.
+
+History
+Many of the samurai deployed to Taibojima previously served under Takenaka Sugawara during the Hojo War. Despite being under the command of the shikken, they maintained a personal loyalty to Sugawara's cause. In the event of a conflict erupting between the factions aligned with Takenaka, these samurai would offer their support to Sugawara.
+
+Aware that their intentions could be exposed, their commander, Lord Watanabe Subero, harbored suspicions towards any unfamiliar individuals who came into contact with the samurai on Taibojima. Consequently, Watanabe has imposed restrictions on the movement of outsiders on the island, requiring them to carry travel passes and subjecting them to surveillance measures.
+
+Appendix
+References
+
+---
+
+## Taramuri
+
+Taramuri was an island located in Kozakura.
+
+Description
+Taramuri was located to the southeast of Obakuto. This low-lying island was encircled by an expansive coral reef. Approaching the island proved challenging for vessels with a deeper draft, limiting access to fishing boats.
+
+Inhabitants
+Taramuri was exclusively inhabited by monkeys and su-monsters. The su-monsters residing on Taramuri possessed such ferocity that they have effectively deterred fishermen from establishing a village on the island or venturing into its interior.
+
+Legends
+Ancient scrolls attributed to the sage Chong P'ui alluded to the existence of magical pools somewhere on the island, yet no firsthand verification of their presence has been made within living memory.
+
+Appendix
+References
+
+---
+
+## Tano River
+
+The Tano River, also known as the Tanokawa, was a river located in Kozakura.
+
+Description
+The Tano River was located on the island of Shinkoku. Its mouth was found next to Waturi Forest and the town of Renkyu.
+
+Inhabitants
+Verifiable encounters of Lord of the River confirmed his presence in the Tano. A shrine to the Lord of the River was built within the river itself, upstream of Renkyu. River spirit folk and humans who relied on the river for their livelihood made regular pilgrimages to the shrine. Treasure was found within the shrine, as a result it was guarded by water elementals, giant carp, and water spirits.
+
+Appendix
+References
+
+---
+
+## Talisman of adaptation
+
+A talisman of adaptation was a magical jewel that altered the physiology of an aquatic creature, allowing the wearer to breathe air and survive outside water for one week.
+
+Description
+It took the form of a multicolored coral pendant.
+
+Powers
+This talisman allowed a water-dweller to breathe air and to suffer no penalty for being outside water. Its effect lasted for one week, after which the talisman lost all its power, becoming a mundane decorative object.
+
+Creation
+Crafting one required a water breathing spell.
+
+Appendix
+See Also
+ ''Water breathing
+
+References
+
+---
+
+## Tal Tessoran
+
+Tal Tessoran, also titled as A Life Well Lived, was a popular yet scandalous book of romantic adventure fiction set in the Heartlands of the Realms.
+
+Contents
+Tal Tessoran was a masterfully written, epic tale of a dashing, handsome, and heroic swordsman who fought and wenched his way across Faerûn, leaving a trail of defeated monsters, thwarted evil wizards, and satisfied women. The adventures were stirring and evocative, and the romantic scenes explicit to the point of pornography. Though renowned for its sexual content, the adventures themselves were well worth reading just by themselves.
+
+History
+The book was written by Roadrante Haltivur in the 14 century DR, who then had to go into hiding after she was assailed with offers of marriage, redemption, and chastisement.
+
+Tal Tessoran was considered too scandalous to be discussed or seen in public or polite company, at best read silently with the title covered. Regardless of its reputation, the book was extremely popular across the Realms even as most people kept it hidden under their bed pillows, thanks to the excellent quality of its adventures that many read while skipping the erotica.
+
+Appendix
+References
+
+---
+
+## Tar pit
+
+Tar pits were a kind of naturally-occurring sinking hazard found throughout the Realms, made up of petroleum and bitumen, a kind of oil and tar separate from common plant and animal based varieties.
+
+Properties
+Tar pits were pools of glistening black liquid, and sticky to the touch. They could be extremely dangerous to those who blundered into them, capable of drowning everything from sheep and goats to raging owlbears and small dragons. Being made of unrefined petroleum, they were extremely noxious and toxic, and could burst into flames or an explosion when exposed to fire or sparks. These pits could be used to harvest petroleum and bitumen despite the danger.
+
+Occurrences
+Tar pits usually formed when petroleum welled up from deep underground and reached the surface, forming pools of noxious, stinking black liquid that could reach the size of small lakes. If the oil emerged in swampy terrain, it poisoned the area and became a "dead marsh".
+
+They were especially prevalent in Var, Veldorn, Ulgarth, and the nearby Utter East, in Chult, the Alimir Mountains, and on islets within the Lake of Steam. Tar pits also formed within the Underdark, as the empty space of it interrupted the upward flow of the oil towards the surface. Tunnels and caverns could be home to entire lakes of tar, depending on the geology, and were especially prevalent under the Eastern Shaar, while rivers flowed near underground volcanism.
+
+Tar pits began appearing in Myrloch Vale in the Moonshae Isles amid the supernatural destruction caused by Bhaal in 1346 DR. Likewise, the Helmlands contained a great many tar pits due to the magical disaster of Mystra's death which added to the danger of the region, though many of them disappeared over time.
+
+Bubbling tar pits were a common hazard in Avernus of the Nine Hells.
+
+The former Netherese arcanist Sysquemalyn knew a Hellish spell that summoned up tar from the ground, forming a kind of tar pit.
+
+Appendix
+See Also
+ Fairy ice, a similar ice-based natural hazard in the Great Glacier.
+ Quicksand, a similar natural hazard composed of sand.
+ Gorgon mud, a magical mud trap used by stone giants.
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Tatyanna Elfsdottir
+
+Tatyanna Elfsdottir was a cleric from the city of Ravens Bluff in the late 14 century DR.
+
+History
+In Marpenoth of the, the Leyland–Nightstalker wedding took place. Dame Jenilynn Leyland, a Knight of the Right Hand of Tyr, and Sir Sarren Nightstalker, a Knight of the Griffon, were united in a social gala that was reported on the pages of the Ravens Bluff Trumpeter. The ceremony was officiated by a fellow adventurer and a priest named Tatyanna Elfsdottir. It was reported that the wedding was scheduled for an earlier date, but Jenilynn Leyland was delayed by her mission to the Beastlands and being transformed into a unicorn.
+
+Appendix
+Notes
+
+Background
+Tatyanna Elfsdottir was a player-character who participated in the Living City RPGA events and adventures. She was played by Rachelle Roy of Connecticut.
+
+References
+
+---
+
+## Talmost (realm)
+
+Talmost was a small human realm in northwest Faerûn, created from the destruction of the kingdom of Delimbiyran in 697 DR.
+
+Geography
+Talmost lay between the southern Dessarin Valley and Delimbiyr Vale on the northeast edge of the Ardeep Forest, in the former territory of Delimbiyran.
+
+History
+Talmost was originally a territory of the kingdom of Delimbiyran. Succeeding Phalorm in 616 DR, Delimbiyran overtook many of the lands formerly held by the dwarven and elven realms of Dardath and Ardeep. The land's Talmost family was ennobled either shortly before 615 DR, or in 659 DR, ruling from Talmost Keep near the House of Stone.
+
+In the, the Sharran high priestess Lalondra Worul became a lich, in the process killing her faithful True Servants of Shar who controlled an extensive network of Sharran temples across the Sword Coast. Completely uncontrolled, the leaderless faithful of her church caused mayhem and destruction across the region, and threatened numerous cities and realms. When King Davyd Snowsword of Delimbiyran deployed his soldiers in force to counter the violence, he was assassinated by a Sharran fanatic turned martyr. Dying without an heir, King Davyd's realm fell into civil war and broke apart into the small, independent realms of Talmost, Calandor, Scathril, Harpshield, Loravatha, Dauntylgar, Secomber, and more lost to history. The Talmosts continued to rule their territory as independent royalty.
+
+Shortly after in the, an orcish force from the High Forest invaded and destroyed several of the weakened and disunited claimants. The Duke of Calandor managed to form an alliance with his rivals, and together they threw back the invasion. Though the surviving realms remained independent, their wars largely ended thanks to this instance of cooperation.
+
+In the, drow raiders struck hard along the Sword Coast, with Talmost and Harpshield pillaged and the people enslaved. The Talmost Lands were ravaged, and the royal family fled and resettled in Nimoar's Hold, though they maintained their ownership of the ancestral lands. They became officially ennobled in Waterdeep the same year and became one of the leading families of the city.
+
+By the 14 century DR, the other realms of Delimbiyran had largely fallen to ruin, with only Daggerford and Secomber remaining prominent. Talmost Keep lay in ruins, though the Talmosts maintained hunting lodges and employed crofters to herd sheep and cattle in the Talmost Lands.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Taps!
+
+Taps! is a one-round tournament adventure module designed by Eugene Luster and set in the Living City organized play program. It was published in 1998, and intended for adventurers of all levels.
+
+Summary
+In 1371 DR, a group of heroes from the Living City enjoyed a meal at the newly opened Dancing Bear Inn when a group of wandering zombies attacked commoners in the streets. Volunteering to investigate the strange occurrence, the adventurers tracked the undead to Forrest Funeral Home. Its proprietor, Jonathan Forrest, succumbed to madness and, with the unwilling help of a jeweler mage, Felicia Cartier, and eager aid from the Talassan Stormlord named Electra Storm, he began accumulating an army of several hundred zombies and skeletons, stored around the funeral home. Subsequently, the Living City heroes ended the undead infestation by reasoning with the madman, slaying him, or arresting him on behalf of the City Watch of the Bluff.
+
+Index
+
+Characters
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Creatures
+ •  •  •  •
+
+Locations
+ •  •  •  •  •
+
+ •  •
+
+Organizations
+ •  •  •  •
+
+Magic
+Spells
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+Items
+ •  •  •  •  •  •  •
+
+Religions
+ •
+
+Miscellaneous
+Food & Drink
+ •  •
+Materials
+ •  •  •  •  •  •  •  •
+Other
+
+Appendix
+Notes
+
+---
+
+## Tarth
+
+Tarth was a caravan guard in the mid–14 century DR.
+
+Relationships
+He was a guard for Orthil Voldovan's caravan and often worked on tasks together with Sarlor and Mulgar.
+
+History
+Tarth was a guard for Orthil Voldovan's caravan in the, when it was joined by Shandril Shessair and Narm Tamaraith. During the ride from Scornubel to Triel, he was briefly assigned to helping Mulgar quiet a horse somehow or else kill it. He was also assigned briefly to keep watch on Shandril, where he helped quiet Sarlor, a fellow guard, after the latter's outburst at Shandril.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Target arrow
+
+Target arrows were enchanted arrows designed for aim but not deadliness.
+
+Powers
+Unlike many other arrows, target arrows were masterfully crafted to be used in various tournaments. Their design ensured longer flight and increased accuracy, but despite that, these arrows lacked a punch to damage thicker types of armor or hires of some tougher beasts.
+
+History
+Target arrows were used by the inhabitants of Icewind Dale and the southern slopes of the Spine of the World circa the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tarak
+
+Tarak was a human botanist in the Dragon's Rest cloister on Stormwreck Isle in the late 15 century DR.
+
+Description
+Tarak had pale skin with many freckles, auburn hair, a mostly gray beard, and gray-blue eyes. He had faded tattoos on his neck, one of which was a gold hangman's noose, which was the symbol of the Gilded Gallows. He wore simple robes.
+
+Activities
+Like all the other residents of the cloister, Tarak took turns cooking and cleaning up after meals. While left unsaid, Tarak's cooking days were a favorite of all.
+
+Tarak came to the cloister library to read and discuss its collection of various books and scrolls with Varnoth and Runara.
+
+As a cloister gardener, he cultivated flowers, herbs, and vegetables.
+
+History
+Tarak was once a poisoner working for the Gilded Gallows, a thieves' guild that operated in Elturgard. In the second half of the 15 century DR, he was ordered to kill his own lover, who had been declared a traitor. Tarak instead chose to flee the guild and his life of crime with his lover. However, his lover was ultimately assassinated by another member of the guild, and the story was twisted to accuse Tarak of murder and theft of a large sum of money. Tarak managed to escape and settled on Stormwreck Isle in the Dragon's Rest cloister.
+
+Since then, he lived in a small monastic cell and worked as a cloister gardener. By the, some members of the guild tried to track down Tarak and the wealth he had supposedly secreted away.
+
+On a frequent basis, he traveled to Seagrow Caves by rowboat to trade with local myconids, giving them food scraps in exchange for the cave's rare fungi. That way he could obtain heart cap mushrooms required for potions of healing, and ruby morel for elixirs of health. In 1481 DR, the myconids ended this trade and installed a spore servant octopus guarding the entrance to the caves as they feared by a blight spreading through Seagrow Caves and poisoning its inhabitants. Worried by this fact, the botanist tried to find a way to reestablish the trade.
+
+Tarak and Blepp were attacked by drowned sailors when they went fishing. At the point of death, they were rescued thanks to the timely aid of a group of adventurers.
+
+Appendix
+Appearances
+
+Notes
+
+References
+
+---
+
+## Tasloiomitasloi
+
+Tasloiomitasloi was a forested island located somewhere far from the shores of Ravens Bluff.It is never specified exactly what body of water the island is located in.
+
+Etymology
+The island's name, given to it by the island's inhabitants, roughly translated into Common as "the place where many tasloi go to meet many other tasloi."
+
+Flora & Fauna
+The most people creatures that made up the island were tasloi and a species of large bird known as giant gooneys. Beyond these two species the island was home to a variety of carnivorous and ancient beasts that were far less numerous, but far more fearsome. They preyed upon both the native tasloi and giant gooneys.
+
+Notable Locations
+McGurk's Academy a small para-military academy that trained the native tasloi in the art of seamanship.
+
+History
+At some point in ancient times the tasloi on the island had a civilization, but it fell to ruin. The tasloi would claim that the ruins leftover from this civilization were guarded by a horrible "giant tasloi," though it was unclear if the creature was giant relative to their height or a truly giant height like  tall.
+
+Sometime in the 14 century DR, while sailing among the islands beyond Ravens Bluff one Spitvah McGurk stumbled upon the island and its native inhabitants. McGurk soon came upon an idea to take advantage of these natives, brokering communication with them and offering to take them out beyond their island home and its many predators. The tasloi were receptive to McGurk's offer and over the next few months he established his academy on the island. Following their education, McGurk instructed the tasloi to capture a dozen giant gooneys and train them as mounts. Following this, giant gooneys were commonly used as mounts by the island's tasloi. Finally, McGurk brought the trained crew of creatures onto a trio of modified barges from Ravens Bluff, naming his armada the Flotilla of DEATH. From then on whenever heavy casualties were suffered, he would return to the island to recruit more tasloi into his armada.
+
+Inhabitants
+The tasloi that inhabited this island were more friendlier and sociable than most tasloi found elsewhere in the Realms, but weren't nearly as keen and clever. They had poor hygiene, a fondness for whistling, and worshiped a deity by the name of Loitasloitas.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tamara (clerk)
+
+Tamara was a clerk who served "special" clients of Felogyr's Fireworks shop in Baldur's Gate in late 15 century DR.
+
+Description
+Tamara was an ashy-skinned Lolthite drow with snow-white hair and a stern orderly personality. She was armed with a dagger and wore white robes.
+
+History
+In the, as the Cult of the Absolute planted its roots in Baldur's Gate and ravaged the Western Heartlands, Felogyr's Fireworks shop fell under the cult's sway. Its proprietor, Avery Sonshal, was made into a True Soul and used the shop as a front for the cult's terrorist activities. During that time, Tamara was employed as the shop's clerk that serviced "friends of Felogyr," selling them the shop's more dangerous weaponized stock, like bombs and smokepowder arrows. She operated from the shop's second floor, which was only accessible to customers who knew a code phrase, and warned anyone from proceeding to the shop's third floor, which was off-limits to all but the Banite members of the Cult of the Absolute.
+
+During that time, on orders from Avery Sonshal, Tamara supplied a toymaker member of the cult with explosives. In turn, the toymaker planned to ship the deadly explosive toys to the refugees that flooded Rivington. However, Avery also ordered Tamara to turn the toymaker down were he to come for more explosives – the proprietor wanted to keep Felogyr's Fireworks' name clean.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tamadanther
+
+Tamadanther was a War Wizard during the late 14 century DR.
+
+History
+Tamdanther usually took the guard shifts immediately after Pheldemar's while protecting the hideout of the retired Royal Magician of Cormyr, Vangerdahast, near Mouth o' Gargoyles in .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tantal
+
+Tantal was a powerful merchant family of Archenbridge in Archendale in the mid-to-late 14 century DR.
+
+Activities
+It was said that the Tantals as well as the Baulaukiir and Ithrymm families outshone Sembian merchants in trade.
+
+Base of Operations
+The Tantals had a grand family estate in Archenbridge.
+
+History
+Circa 1370 DR, the Tantals were considered one of the wealthiest and most powerful families in Archenbridge.
+
+Appendix
+Trivia
+Baldur's Gate III: The Black Hound
+The leaked files from the cancelled game, Baldur's Gate III: The Black Hound, indicated the planned implementation of the Tantal estate and Tantal Mine as accessible locations. New members of the family included Beryon Tantal (TN hm Fig1) (though he has not been mentioned in other sources). The player could also find out the Tantals' dirty secret about them killing the Summerday family.
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Tasmurand
+
+Tasmurand was an assassin in the late 14 century DR.
+
+Description
+During his last job, he was dressed in all black. His clothes included a belt and boots.
+
+Possessions
+Besides an assortment of knives, Tasmurand was carrying, to Joysil Ambrur's knowledge, three magical devices of note: two daggers and a small vial. The enchantment in at least one of those daggers was meant to strip away magical defenses.
+
+Abilities
+He was a deft, agile killer.
+
+History
+After Harnrim Starangh was guest to Lady Joysil Ambrur of Marsember one day in the early spring of, he sent a number of assassins at her by evening; Tasmurand himself was one of those assassins. She slew most of her slayers with spells, protected by her magic; he was the last one left alive. Before slaying him, she turned into her normal form as a song dragon, and killed him in that shape.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tall Ones
+
+The Tall Ones, otherwise known simply as the Aerasumé, were a group of twelve half-elven brothers, all born to Alustriel Silverhand and an unknown elven lord during their mother's tenure as the High Lady of Silverymoon.
+
+Activities
+The Tall Ones, though they acted in the name of Silverymoon, spent most of their days outside their home city, traveling on their pegasi as part of the missions assigned to them by Alustriel. In certain, rare cases, these involved the Tall Ones' direct interference in current events or the pursuit and arrest of people who attempted to escape Silverymoon's justice. Most frequently, however, the their duties were simply representative, acting in the name of the Silvaeren leader while ensuring that Alustriel was well-informed of anything occurring in the North that might demand her attention. To relay the particulars of this information, the Tall Ones, whether as individuals or as a group, would meet with their mother in Silverymoon's High Palace at dawn, alongside her other agents and advisors.
+
+After the establishment of the Silver Marches in the, the brothers' duties widened in scope as they focused on the eradication of any dangerous monsters they might find roaming the North. Even so, they preferred not to go boldly into combat. The Tall Ones attempted first to scare away any threat they might find, only fighting if their enemy chose to dismiss their warnings.
+
+Tactics
+The Tall Ones were all talented and highly competent in both physical combat and spellcasting, each one carrying himself with poise and quiet speech, though some favored one over the other, such as Methrammar and his martial leanings. They were all powerful enough to be entrusted with important duties throughout the North by Alustriel herself.
+
+Base of Operations
+Given that it was their place of birth and the headquarters of their High Lady, the Tall Ones operated in the areas surrounding Silverymoon, but the nature of their missions often took them beyond the city's walls and across the whole of the North.
+
+Possessions
+As part of their equipment as agents of the High Lady of Silverymoon, the Tall Ones had access to certain special magical items. Notably, they each rode pegasi during their missions and they all carried ample amounts of spellstars, which were gemstones or star-shaped steel emblems within which the Tall Ones could store additional spells. The brothers were also capable of contacting each other and their mother using magical anklets through which they could cast sending, which was directed at anyone else wearing such an anklet. These were not Alustriel's creations, instead being of possibly elven origin, but they served the Tall Ones well, as they could communicate through them every hour. Their mother was also known to share these with certain trusted Harper agents, such as High Lady Cylyria Dragonbreast of Berdusk and Sharanralee of Everlund or even adventurers for use in any emergency situations, though this last one was only due to the strange events of the Time of Troubles. In turn, through these anklets, Alustriel could communicate with the Tall Ones at will, either individually or all together at the same time. Her anklet was special in that she could also allow the targeted person to see and hear her surroundings or, vice versa, to experience theirs, as well as enabling her to speak to them telepathically to replace or supplement any verbal conversation.
+
+Relationships
+Given the awe inspired by their mother's renown and incredible abilities, the Tall Ones faced high expectations from the moment they were born. Although for some years it was only rumor that they were Alustriel's sons, the Tall Ones all looked alike and had inherited their mother's looks, both in their height and their silver hair. Though little was known about their father, they did share an elven half-brother through him, Tyresia, who was closest to Methrammar.
+
+Rather than take the name of their mother or father directly, the twelve brothers chose their surname, Aerasumé, themselves. This was part of an elven tradition wherein those foregoing a previous family name, or lacking one entirely, instead bore a surname that matched their home or birthplace. In the instance of the Tall Ones, Aerasumé was from an ancient Elven language of the North and translated to "silver-moon", referring to the moon in the evening. This was a decision that only tied them closer to Alustriel, given that most largely attributed Silverymoon's greatness to her leadership.
+
+Despite his ties to the Harpers, the Tall Ones did not care for Khelben Arunsun and tolerated him purely for his relationship with their mother. The only exception to this rule was Boesild, who became part of his information-gathering network in the North.
+
+Members
+The Tall Ones consisted of the twelve brothers Aerasumé and were named, in alphabetical order: Andelver, Boesild, Dolthauvin, Elinthalar, Ghaelryss, Inthylyn, Lilinthar, Methrammar, Naerond, Raérilarr, Tarthilmor, and Uoundeld.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Talltankard (clan)
+
+The Talltankard clan was an expansive clan of Tethyrian halflings who reached into Amn and Waterdeep.
+
+Base of Operations
+Many Talltankards lived in and around Vineshade in the Purple Hills of Tethyr.
+
+By the 14 century DR, the Talltankards had bought an old Hamlar estate in the Amnian city of Purskul and named it Tankardstall Hall, and enjoyed "gold" status in high society thanks to their lavish parties.
+
+Members
+ Bungobar Talltankard, adventurer and ostensible leader of the Buckleswashers in Waterdeep.
+ Lyratha Talltankard, true leader of the Buckleswashers and wife of Bungobar.
+ Master Cumber Talltankard, a vintner of Vineshade.
+ Guildmistress Sunni Talltankard-Vineshigh, of the Vineshade Vintners' Guild.
+ Estemal Talltankard, founder and commander of Arvoreen's Marchers.
+ Jhessar "Oldeyes" Talltankard, the Shining Helm of the Heralds of Faerûn in Saradush.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Tavern of the Garden wine
+
+Tavern of the Garden wine was an aptly named variety of red wine from Ravens Bluff.
+
+Description
+Tavern of the Garden wine was a quality red wine with a strong and rich flavor. Each bottle was valued at ten gold pieces.
+
+History
+Circa the, Tavern of the Garden wine was created by a vinery owned by the Morden family of Ravens Bluff. The wine was a house red sold at the newly-reopened Tavern of the Garden, a tavern and eatery in the Sixstar neighborhood, run by Shauna Morden who inherited the business from her late father. Shauna was stocked on good vintage and offered a case as a reward to a group of adventurers.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tavern of the Garden
+
+The Tavern of the Garden was a popular and cozy tavern and eatery in the city of Ravens Bluff in the mid-to-late 14 century DR.
+
+Location
+The Tavern of the Garden was located in the fine Sixstar neighborhood in the Uptown District of Ravens Bluff in the Vast.
+
+Structure
+The tavern was a spacious three-story building surrounded by a small green plot of land and encircled by a decorative fence covered in flowers and vines. Each plant was carefully planted and woven through the face's trellises. The tavern's first floor was built of stone with two upper floors made out of dark wood.
+
+Services
+Typically, for such establishments, the tavern served food and drink. Guests were greeted at the entrance by a hostess, who asked them to keep their weapons sheathed and guided them to available tables, be they large communal tables in the main taproom or more private tables carved with floral designs in the garden, sheltered by thick bushes and flowering fences.
+
+Some of the foods served included a variety of meats, fruits, bread, and some more unique treats. Drinks varied from pitchers of water, a selection of juices, ales, and wines. Some notable wines included Tavern of the Garden wine, a variety of quality strong red, was a house wine created in the tavern owner's vinery, and Silverymoon Blue, a fanciful popular and expensive blue-tinted wine exported from Silverymoon in Luruar.
+
+History
+The Tavern of the Garden was run by Charles Morden, a successful gardener who offered his master services to the nobility of Ravens Bluff. When Charles died at the age of eighty-three, circa the, soon after The Three Women War ended, his daughter, Shauna Morden, inherited Charles's small estate that included the Tavern of the Garden, a small vinery outside Ravens Bluff and another vinery in a valley outside the Dragon Falls. Shauna promptly took over the business and aimed to be a success. She renovated the Tavern of the Garden and hosted a grand re-opening evening of free food and drinks in hopes of securing Ravenaar patronage.
+
+During the re-opening, Shauna Morden personally greeted arriving guests and individuals in line for admission, playing the role of a hostess. During the event, Shauna gathered a group of adventurers of the Living City and offered them a lucrative job – to investigate the family vinery outside Dragon Falls. Unlike other parts of the business, Shauna did not know of the vinery's existence and wanted to have it running, producing wine for the eatery, or getting in contact with its current managers, whom she did not know. Subsequently, the adventurers discovered its master vintner maedar Vorlon, who had claimed the vinery a decade prior. It was believed that the heroes negotiated Shauna and maedar's cooperation and profitable future together, one way or another.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tanthul
+
+The Tanthuls were the infamous ruling house of Thultanthar and Risen Netheril, controlling the enclave for thousands of years from before Karsus's Folly until its destruction during the Second Sundering.
+
+Family Tree
+
+Appendix
+References
+
+---
+
+## Tav
+
+Tav was an adventurer and detective in Baldur's Gate in the late 15 century DR.
+
+History
+In the, Tav began investigating the murder of an elf, whose body was found on Sailor's Crossing in Eastway. After unraveling a larger plot, a letter from Sceleritas Fel threatened Tav with death if they failed to identify the killer, whom Sceleritas Fel identified as his master. The letter gave Tav a time limit of a tenday to complete the task. This threat was carried out by the Dark Urge, a white dragonborn and Bhaalspawn.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Tantra Jaressra's Fine Gowns
+
+Tantra Jaressra's Fine Gowns was a small shop that dealt in sewing, relating, cleaning, and importing fashionable gowns and revel wear that was located on Saerdoun Street in the North Ward of Waterdeep in the late 15 century DR.
+
+Location
+Tantra Jaressra's Fine Gowns shared a three-story-and-an-attic building with a number of other businesses. The building stood on the southern side of Saerdoun Street, three doors west from the intersection with Thunderstaff Way. Other tenants of the office building were Erro Alhandrar's Nets, Demra Samdro's Best Beds, Laskalan's Lamps and Lanterns, and Vressa's Sweep Begone, as well as Tiger's Eye at one point.
+
+History
+Tantra Jaressra's shop was established sometime before the building changed management in the, when it came into the hands of a gnome named Hardyn Glorjarn, who took over the building's attic.
+
+Appendix
+References
+
+---
+
+## Talabrina Xorlarrin
+
+Talabrina Xorlarrin was a daughter of the fifth Drow House of Menzoberranzan, a specialty priestess of Lolth, and a merchant, who operated in the area of Underdark underneath the Vast in the late 14 century DR.
+
+Description
+Talabrina had a very distinct and memorable face. She was a short woman, only  tall, and weighted . She had very long white hair and bore insignia of House Xorlarrin.
+
+Abilities
+As a powerful fighter and a specialty priest of the Spider Queen, Talabrina was a fearsome opponent who was a master of combat and had access to Lolth's divine magics. Her formidability was even more impressive considering the wide arsenal of magic items and contingencies Talabrina had at the ready.
+
+As a drow and a powerful priest, she could use several abilities, such as dancing lights, faerie fire, darkness, levitation, know alignment, detect magic, clairvoyance, detect lie, suggestion, dispel magic, and magic missile, as well as spell turning. In addition to the spell-like abilities, she could channel Lolth's divine favor into priest spells, such as: holy word, word of recall, rock to mud, flame strike, stone shape, contingency and the improved fellblade spell through it.
+
+Possessions
+Talabrina worse enchanted drowen bracers of blinding strike and wielded an enchanted drowen +5 short sword, when she was not willing a spell-conjured fellblade. Her armor of choice was a set of powerful +4 drowen chain mail. Other deadly implements at Talabrina's disposal were a wand of acid bolts, a wand of magic missiles, and a wand of frost. Her Xorlarrin house insignia granted Talabrina a variety of spells that could be activated one at a time, including ironguard, dispel magic, tongues, and monster summoning VI. She particularly liked to summon greater basilisks with her house insignia and carried a set of magical gemstones that held trapped vrocks, ready to be unleashed at Talabrina's enemies.
+
+History
+In the, Ravens Bluff in the Vast expanded its influence into the Underdark, establishing Ravens Deep near Old Sarbreen. The adventurers and settlers spent their manpower and resources charting and exploring the subterranean world. During that time, the adventurers came across Talabrina Xorlarrin, who occupied one of the symbol of death-trapped tunnels of the The Passages of Man, near the Deep. Talabrina was served by gnomes and their simulacrums, doing mercantile business with various Underdark communities from her shop, under the alias of Tilabaria, but had soured relationship with the two major drow cities under the Vast. In case of emergency, she had a contingency spell ready that would transport her back to Menzoberranzan in case her life was close to being forfeited.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tarn River
+
+Tarn River was a short river in central Netheril that descended from the Lodestar Mountains.
+
+Geography
+The river was filled by spring meltwater and summer rain, cascading from the Lodestars down to Hidden Lake. Along the way it passed through the Hidden Forest and the city of Algid.
+
+Appendix
+References
+
+---
+
+## Tani Shrine
+
+The Tani Shrine was a shrine found in Miyama Province in Kozakura during the mid–14 century.
+
+Description
+The Tani Shrine was a secluded valley shrine originally constructed by the inhabitants of a village that since vanished. Despite the disappearance of its creators, the shrine continued to be cared for by an elderly shukenja, who had chosen this serene location as his final dwelling place. Finding peace in the solitude of the shrine, by, he had recently become captivated by the mystery surrounding the fate of the original village and its people.
+
+The ancient records preserved within the shrine made mention of a village in close proximity, yet despite his efforts, the shukenja was unable to uncover any physical evidence of its existence. It appeared that some form of potent and enigmatic magic has erased the village from the landscape. The lingering magical aura in the area hinted at the involvement of a malevolent force, suggesting that the disappearance of the village was not a natural or accidental event but rather the result of a deliberate and evil act. Intrigued by this puzzle, the shukenja became dedicated to unraveling the truth behind the vanishing of the village and the dark magic that facilitated it.
+
+Appendix
+References
+
+---
+
+## Takeo
+
+Takeo was a village located in Miyama Province in Kozakura.
+
+Description
+Takeo epitomized tranquility and served as the center of the Niwa clan shoen upon which it was situated. Despite its size, the shoen was known for its serene environment and numerous natural attractions, making it an ideal retreat. As such, the position of jito here was often awarded as an honor to venerable and accomplished samurai seeking a peaceful tenure in their later years.
+
+Government
+As of, the village's jito was Daidoji Rakan.
+
+Appendix
+References
+
+---
+
+## Taldavar
+
+The Taldavar family was a noble house of Ravens Bluff.
+
+Family Tree
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Tasha Brightbottle
+
+Tasha Brightbottle was a Zhentarim hin rogue from the city of Baldur's Gate in the late 15 century DR.
+
+Personality
+Tasha felt blessed to be born a halfling. She was deft and plucky since her early years.
+
+History
+Tasha was born into a pastoral hin community. Growing up, she gained respect from her peers for her attitude and roguish talent, helped by the woman's short stature. At a young age, Tasha was given cruel lessons in life, that sometimes one's hands were bound to be bloodied if the job was to be done. This eventually led her to join the Black Network, the dreaded Zhentarim, as a perfect assassin. Tasha enjoyed the respect the organization had for her skills and the fact that Zhents got to wear the coolest clothes only sealed the deal. When not tasked with the Network's dark business, Tasha Brightbottle enjoyed wandering towns and cities in the guise of a simple messenger. During such strolls, the hin Zhen gathered intel and assessed possible threats to her organization. In the 1490s DR, aged one hundred and seventy-five winters, Tasha's work led her to the city of Baldur's Gate – a hive of plots, agendas, dark secrets, and expert snooping. During her time in the Gate, Tasha found herself knee-deep in various misadventures.
+
+Appendix
+Appearances
+Board Games
+Betrayal at Baldur's Gate
+References
+
+---
+
+## Tathlin
+
+Tathlin was the eponymous owner of Tathlin's Discreet Errands.
+
+History
+In the, Ruthgul, a thief of Suzail, sought aid from one of his apprentices, the thief and dancer Amarune Whitewave, after climbing through her window. He needed help escaping from someone, so she showed him to a hidden crawlspace that would let him find his way to Tathlin's Discreet Errands, but warned him that Tathlin might charge him a gold lion for a proper disguise.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tannath
+
+Tannath was a swordcaptain of the Purple Dragons working in Suzail, Cormyr, in the late 15 century DR.
+
+History
+Tannath was watching dancers perform at the Dragonriders Club in Suzail one evening when he was summoned to the Bold Archer by a telsword on behalf of fellow swordcaptain Dralkin. At the Bold Archer, Seszgar Huntcrown had just been murdered, alongside much of his retinue, by two blueflame ghosts; from the witness statements that they carried off the body, Tannath reasoned they were sent by someone.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tam (disambiguation)
+
+Tam was a name used by several people in the Realms. This included:
+ The Tam family of Thay,
+ Tam (dragon), a red dragon,
+ Tam (priestess), a priestess of Selûne at Moonshadow Hall, or
+ Tam Zawad, a traveling priest of Selûne.
+
+---
+
+## Tarimmon
+
+Tarimmon was a soldier in the Purple Dragons based in Castle Obarskyr in Suzail, Cormyr, during the late 15 century DR.
+
+History
+Tarimmon was called upon by King Foril Obarskyr I in the wake of the massacre during the Council of the Dragon of the . When the former Royal Magician, Vangerdahast, revealed the place where Vainrence and current Royal Magician Ganrahast were imprisoned, Foril ordered Glathra Barcantle, a high-ranked War Wizard, to take all of his Purple Dragons to save the trapped wizards, leaving him guarded by Tarimmon and Launcel alone.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tambourine (cat)
+
+Tambourine was a lazy cat who lived in the kitchen of the Elfsong Tavern in the Lower City of Baldur's Gate in the late 15 century DR.
+
+Description
+Tambourine was a white and fluffy creature with huge blue eyes and a pink nose.
+
+History
+In the, Tambourine was "employed" by the cooks of the Elfsong Tavern in vain hopes that the beast would be killing rats in the establishment's cellars. However, Tambourine himself showed little interest in pest control or any other vocation. Those who knew mundane or magical ways of talking to animals quickly realized that the lazy cat possessed a self-important attitude, thinking it to be the monarch of the tavern and all humanoids its subservient apes. The cat would also attempt to order said "apes" to dispose of the rats in Elfsong's basement.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tally stick
+
+Tally sticks were counting tools used in the Realms to manage large numbers, such as in managing a business. This allowed even common uneducated people to handle large sums without counting their fingers and toes.
+
+Availability
+Aurora's Whole Realms Catalogue sold tally sticks under its "General Hardware" section at a cost of 10 gold pieces. In its listing for the tool the catalogue noted a few of its many utilities to adventurers, such as helping warriors to remember how many arrows they had shot, helping guards keep track of prisoners, helping priests keep track of their temple's treasury, and allowing wizards to calculate the shifts in volume of a concoction.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Tarmuth
+
+Tarmuth was a War Wizard of Cormyr in the late 15 century DR.
+
+Description
+He was young.
+
+History
+When the Hall of Justice became filled with deadly smoke on the day of the Council of the Dragon in late Mirtul of the, Tarmuth was one of the mages Glathra Barcantle commanded to rectify the situation. She told him to go after King Foril Obarskyr I's bodyguard and warn all of them to put on night helms. He immediately ran off to do that.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tate
+
+Tate was an orphaned child adopted by the High Harper of Baldur's Gate, Jaheira in the late 15 century DR.
+
+Description
+In the late 15 century DR, Tate was a mild-mannered and quiet human child with a light skin tone, brown hair, and eyes. He was lovingly nicknamed "Sneak Thief" by his adoptive mother for the kid's tendency to sneak around, borrow things, and listen in on adults' conversations. Older step-sibling Jhessem tended to "boss" Tate around, and the boy looked forward to Jaheira's return home so he could get a breather from his brothers and sisters.
+
+History
+Tate's parents disappeared in the . They were among the first people taken by the Cult of the Absolute. Harpers tried to investigate the disappearance but returned empty-handed, presuming that they were not infected with illithid tadpoles, deemed "unworthy," and killed or sent to serve the cult in some other manner. All lone, Tate was sent to the High Harper of Baldur's Gate, who had a long history of raising orphans in her Lower City home.
+
+During his stay with Jaheira, Tate liked hiding away in the High Harper's library and office, where he cracked her secret door that was opened by inserting a harper pin into a hidden slot. Tate often came to "keeping the pin safe" and playing in Jaheira's underground sanctuary that was off-limits to everyone but the High Harper herself and her animal messengers.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Taerlene
+
+Taerlene was a hairdresser working at the Dragonriders Club in Suzail, Cormyr, in the late 15 century DR.
+
+Activities
+Mrarie usually did the hair of mask dancers at the Dragonriders Club, including Amarune Whitewave. She worked until at least the .
+
+Relationships
+One fellow hair stylist at the club was Mrarie.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Talli Armbrust
+
+Talli Armbrust was the wife of Tym Armbrust, a down-on-his-luck tailor, and mother of Ayo Armbrust from Baldur's Gate in the late 15 century DR.
+
+Description
+Talli was a human woman with a dusky skin tone, long curly brown hair, and dark brown eyes.
+
+History
+In the, Talli's health and wellbeing were threatened by Tym's debt to the notorious Guild of Baldur's Gate. When Tym was unable to pay, Nine-Fingers Keene implicitly threatened the tailor's family in a letter and notified him of collectors coming to collect the late fee. The family's struggle was noticeable to Talli's friends, Sabine and Freddie, who visited the Armbrusts. They offered to help the family out by taking in little Ayo to give  Talli and Tym some privacy and a way to relax.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Talost
+
+Talost was a bard of the 8 century DR or earlier.
+
+History
+Talost had once described Buckralam's Starn unflatteringly; this was known to at least one of its inhabitants, Immeira, who considered it nonetheless true.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Taraskus
+
+Taraskus was an archmage of Netheril.
+
+History
+His tomb was close to a town about three days from Ripplestones, close to Westgate. In the, Elminster was seen leaving it, according to the sage Beldrune.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Taver
+
+Taver was an adventurer of the early-to-mid–8 century DR.
+
+Description
+He was an old warrior.
+
+Personality
+He was described as bluff, brawling, and guffawing.
+
+Possessions
+He rode a horse.
+
+Activities
+He was the leader of a band of seven adventurers known as Taver's Talons, who were known as heroes in Buckralam's Starn.
+
+Relationships
+In the band of adventurers he led, one of his people was the father of a certain Immeira.
+
+History
+Taver's band used to ride across Buckralam's Starn, until around  when all seven members perished in the jaws of a dragon. Their bones were largely unidentifiable and indistinguishable after their deaths.
+
+Rumors & Legends
+Two years after their deaths, the men of the Iron Fox, a bandit, came to town and spread rumors of secret evil deeds committed by Taver's Talons. They convinced people in the Starn that the Talons had been fiends in human form out to corrupt women of passing caravans and spread their dark seed. Other rumors were that the Talons came to scout on behalf of a bandit kingdom further away, called Talontar or Darkride.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Talon of Umberlee
+
+The Talon of Umberlee was an artifact of importance to Umberlee, the goddess of the sea, which had the power to harm aquatic creatures.
+
+Description
+The artifact was a heavy gold statue in the shape of a hooked claw. It was large enough to fill an entire treasure chest.
+
+If the statue fell into the hands of someone whom Umberlee deemed unworthy to posses it, she would send her faithful to take it from them.
+
+Powers
+It was said that the Talon of Umberlee could be used to protect an entire city against threats from the sea. On a smaller scale, if someone with sufficient magical knowledge touched the statue, they could use it to unerringly inflict injuries on all aquatic creatures within .
+
+History
+Circa, the Talon of Umberlee surfaced on the black market in Waterdeep, where Dagult Neverember arranged to purchase it for an outrageous sum of money in order to use it to bolster Neverwinter's defenses. He hired a privateer named Szart Tilhavar, captain of the Floating Cask, to sail to Waterdeep, acquire the artifact, and return it to Neverwinter. However, the Floating Cask was attacked and sunk on its return trip by Tidescourge pirates led by "Captain Bloodbath". Unwilling to pay any more for something he had already bought, Neverember demanded that the artifact be retrieved.
+
+After capturing and interrogating a member of Bloodbath's crew, Neverember's agents determined that the Talon of Umberlee was being kept aboard a floating fortress known as Murdershoal just off the coast from the pirates' base at Port Llast. His underling, Soman Galt, then hired a crew of adventurers to conduct a raid on Murdershoal, and Neverember gave them use of his ship called Neverwinter's Pride for the mission.
+
+Meanwhile, Umberlee had no desire to allow such adventurers to claim her artifact, and so sent her sahuagin servant, Baron Saarkrith, alongside a kraken to intercept the artifact and teach them some humility.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Tarthane
+
+Tarthane was one of the bandits under the Iron Fox in the mid–8 century DR.
+
+Possessions
+The men of the Iron Fox wore light armor and brought no lances or horses.
+
+History
+When Elminster Aumar, a Chosen of Mystra, carried out a scouring of the bandits in Buckralam's Starn, Tarthane remained with his boss, the Iron Fox, until moments before his death at Fox Tower. They were attacked at the mess hall, where Elminster ambushed them using one or more crossbows from a gallery overlooking them; Tarthane then dashed up the gallery on the boss' orders, together with fellow renegade Llander.
+
+At the top of the stair, Elminster dropped a tapestry on Llander, and then pulled the rug underneath Tarthane, gaining a few precious moments he used to stab the man in the eye.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tahllap noodles
+
+Tahllap noodles was a noodle dish from the City of Splendors, Waterdeep, popular in the late 15 century DR.
+
+Description
+The dish consisted of boiled noodles, served with fresh vegetables and goat's cheese.
+
+History
+In the late 15 century DR, Tahllap noodles were served at the Bright Bell, a busy eatery in Waterdeep's Castle Ward, on the Warrior's Way, south of Bazaar Street. The dish was accompanied by a tankard of weak mulled wine.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tarhun Mnemonis
+
+Tarhun Mnemonis was a butler in the employ at Lady Jannath's Estate in the Lower City of Baldur's Gate in the late 15 century DR.
+
+Description
+Tarhun was a dragonborn man with pale tan hide and fiery red eyes. He wore an attendant's finery and wore a fanciful top hat.
+
+History
+Circa the, Tarhun Mnemonis and Chamberlain Mercer were two of the most trusted servants of Lady Firelia Jannath of Baldur's Gate. When the Lady's estate became haunted by Firelia's new husband's ex lover, all of the estate's servants were dismissed, including Bailey, Furbleston, Cyrilla, Jooli, Phubbs, and Chef Marjoram. All but Tarhun were placed on temporary leave with the pay of half-wages and allowance to seek temporary employment elsewhere. Butler Mnemonis, however, remained positioned at the estate's doors, turning away guests, collecting the wedding gifts and best wishes on Lady Jannath's behalf, and ensuring everyone that she was spending time with her new husband and nothing else. Tarhun's loyalty prevented him from informing anyone of the true reasoning for the Lady not accepting guests. For the same reason, he would let some eager adventurers in who were insistent on investigating the strange happenings, calming that he was on holiday, like the rest of the staff.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tabarast
+
+Tabarast was a sage of the 8 century DR. He was sometimes an actor, too.
+
+Personality
+Tabarast and Beldrune sometimes got into sesquipedalian talk, using long or old words. Tabarast was especially bad about this when he was mad. The two were known to flirt with each other.
+
+Tabarast was openly skeptical of the gods. He could sure drink a lot.
+
+Activities
+In, they had spent years at Moonshorn Tower, studying old magic.
+
+In, they were selling entry to their magic classes for a gold piece per attendant.
+
+Description
+Tabarast was balding, with no hair on his head left, and wore round spectacles. He was bearded.
+
+Abilities
+He wasn't a great rider.
+
+One of Tabarast's spells, which had a material component, created a spear of force that appeared as nothingness that was capable of tearing a man apart. The force of it was enough to nail them to a surface afterwards.
+
+Possessions
+At Moonshorn Tower, Tabarast carried a jar of Halavan nuts, which he treasured.
+
+Relationships
+Tabarast and Beldrune had long worked together; Tabarast was the elder of the two. Mardasper Oblyndrin had told Tabarast of the reason for his service at the tower.
+
+History
+Tabarast and Beldrune had been to Ripplestones at some point prior to .
+
+In the, Beldrune and Tabarast had been in Moonshorn Tower for some time, studying the texts there. They had agreed not to broach the subject of Chosen of Mystra, but did so anyway, speculating idly as to the signs claimed by the priests of Mystra's Mantle in Haramettur that Elminster Aumar was once again walking the lands. They had been at this task for years.
+
+By the spring of that year, Tabarast and Beldrune noticed a stranger walking into Moonshorn; unknown to them this was the Elminster they'd heard about. Though they turned away from the stranger until he left, there were burning letters left in the documents he read; they took those as a sign of Mystra's direct intervention, and decided to pursue Elminster and be witnesses in his wake. They rode after him on mules. On the way, they were soon passed by Ilbryn Starym, who was also in pursuit of Elminster.
+
+They reached the Castle of the Lady, where Elminster Aumar apprenticed under the sorceress Dasumia, at some point before the, by which point they were already observing the comings and goings of the two mages from one or more hidden positions near the castle. They continued to spy on the castle until Beldrune scried on Nethra, guided by a dream that he considered an omen of Mystra, learning of the coronation of Dasumia and Elminster's new position as the Court Mage almost as soon as that event happened. Before they left, they clashed with Ilbryn Starym and Tabarast humbled him in spell-battle, but they did share with him the whereabouts of Elminster. They remained in Nethra afterwards; during the last day that Dasumia and Elminster remained in town, they were at the Goblet of Shadows, a local tavern. They drank a lot there.
+
+By, they had abandoned their Elminster search, and had settled somewhere near Starmantle. There, one day, Tabarast came across a rejuvenating spell in an empty page of his spellbook; Beldrune attested to feeling rejuvenated by it. The two of them had been teachers, for quite some time at that point, until they were commissioned by a Harper, secretly the god Azuth, to hunt after Elminster, whom he was seeking.
+
+They made a short stop for food at the Fair Maid, a tavern in Ripplestones, a town where they nearly rode down Baerdagh, a local elderly man. Then they were joined by Caladaster Daermree, another local elderly man and former wizard, who agreed to guide them to nearby ruins where he was almost certain Elminster would turn up. The man led them to Karsus' Keep, where they came across Elminster just as the Slayer, the ghost of the Netherese sorceress Saeraede Lyonora, was beginning to feed on him. The Harper revealed himself to be Azuth, and hurled deadly spells at Elminster in an effort to dislodge Saeraede from him. Just as Azuth warned him that if she stayed on him, he'd be doomed, five Dreadspells of Shar blasted the chamber with a cavalcade of deadly staves from a hole in the ceiling.
+
+Azuth protected the three wizards from the destruction that ensued. Then, upon the death of Saeraede, who was struck down by Ilbryn Starym after he had burst from hiding to attack, Azuth held back the explosion that resulted from Saeraede's death throes. Azuth then vanished together with Elminster, leaving the three mages awed and briefly bewildered. They rambled shortly, and then found among the rubble three gowns that Saeraede had stolen previously.
+
+Afterwards, they headed to the Fair Maid, where they had some drinks, showed around the dresses, and talked about their latest adventure. Beldrune embellished heavily, claiming that it was their spells that had saved the day and that Azuth had told them so. Tabarast added that Azuth had told them they'd earned the magical robes they were showing off, though Azuth had said nothing of the sort. Sharindala, a local undead sorceress, joined them at the tavern and claimed a dress, but Tabarast refused to share. She departed with Caladaster, but said everything they'd said about Azuth was true.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Tamia Holzt
+
+Tamia Holzt was a Black Gauntlet of Bane and an Overseer slaver who served the Cult of the Absolute in the late 15 century DR.
+
+Description
+Tamia was a light-skinned human woman who wore her decorated Banite Black Gauntlet armor that included a breastplate, pauldrons decorated with a hellish face, and a large and intimidating helmet, decorated with a pair of metal tusks and a big image of Bane's black hand. Uva was armed with an infernal mace that bore a +2 enchantment. She also carried Prinski's Motivator to keep her finger on the slave kill-switch.
+
+Abilities
+Black Gauntlet Holzt used divine magic granted to her by Bane. She had access to a variety of spells, including: aura of terror, blight, dominate person, inflict wounds, phantasmal killer, and planar ally.
+
+Relationships
+Tamia enjoyed a dominant role in her sexual proclivities. She kept a detailed record of her sexual activities with the certain "BD" in a journal she titled Tamia Domina, checking off positions from Quarta Sune. Another sexual partner of Tamia's was Clovia Throaks, wife of Blarson Throaks, and mother of Gasper Throaks, whom Tamia recruited into the cult. Clovia planned on leaving her husband for Tamia.
+
+History
+In the, the Gondian foundry of Baldur's Gate was taken over by Enver Gortash and his cultists of Bane. Gondian foundry workers were forced to work on forging the lord's steel watchers. Their families and loved ones were abducted and held hostage to encourage obedience, and all of the workers were outfitted with incineration collars  controlled by Prinski's Motivators.
+
+During the Absolute crisis, Lowa, one of the enslaved foundry workers, stood up to Black Gauntlet Tamia Holzt, stating that the watchers' gyronetics required workers with steady hands and sharp eyes, not exhausted slaves with trembling muscles. Lowa demanded rest from her captors but was reminded of her son, who was held hostage underwater at the sunken Iron Throne headquarters. Faced with the threat of her own death and the death of her son, Lowa promised to finish the steel watchers by the first light of dawn.
+
+Tamia Holzt's fate following the crisis' resolution remained unconfirmed but it was presumed she was killed by a group of adventurers who stood against the Absolute and tried to rescue the hostages.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Taver's Talons
+
+Taver's Talons were an adventuring band in the mid–8 century DR.
+
+Organization
+Their leader was Taver.
+
+Base of Operations
+They were a normal sight in Buckralam's Starn.
+
+History
+Taver's Talons were a properly chartered adventuring band during the mid-900s DR; there, they operated in an area close to Buckralam's Starn. They rode regularly there, until the  or the next year, when they were killed by a dragon. The dragon so mangled their remains that they could not be identified properly.
+
+Members
+ Taver
+ Another member was the father of Immeira
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tamarack
+
+Tamarack, also known as red larch, was a species of conifer tree that grew in the far northern reaches of northwest Faerûn.
+
+Habitats
+ In the small valley where Hartsvale resided in the Ice Spires, tamarack could be found growing in bogs alongside swamp spruce and white birch.
+ A distinctive stand of tamarack once stood on the outskirts of the Sumber Hills, until they were cut down to make way for the village of Red Larch.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Tactical Studies Rules (work)
+
+Tactical Studies Rules was an essay on military tactics penned sometime before the early 14 century DR.
+
+History
+One copy of this scroll lay within Bard Keep, a temple of Oghma that stood in the North near Silverymoon, on a large shelf alongside other scrolls penned on similar topics.
+
+Appendix
+Background
+This scroll was most likely named in reference to TSR, Inc., which originally went by the name "Tactical Studies Rules".
+
+Appearances
+
+References
+
+---
+
+## Taban
+
+Taban was a gladiator active in Port Nyanzaru in Chult during the late 15 century DR.
+
+Personality
+He was stubborn but proud. If defeated in a fight, he became ashamed and eager to prove himself. He was also a gambler who placed bets at Port Nyanzaru's Executioner's Run.
+
+Relationships
+As a result of his gambling habit, Taban came to owe a debt of 500 gp to a bookie named K'lahu. Despite having enough wealth to pay off his debt (in the form of gemstones), Taban refused to repay it. During the events of the death curse, K'lahu sought to hire adventurers to help collect the debt.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Tanning
+
+Tanning and tawing was the process of working a raw animal skin into usable leather and its variaties such as parchment and vellum. Though a vital part of producing tough clothing and the fittings for all sorts of finished products, it was an intensive and rather unpleasant process. A person that worked in the tanning industry was known as a tanner.
+
+Production
+From the raw hides sourced from a wide variety of animals (or even people), they would be scraped free of hair and flesh with specialized knives to produce a smooth uniform material. The thinner the animal's skin, the more delicate the work would become, with rabbits requiring a wooden "knife" to gently prepare it. Beyond this, the cleaning and preservation of leather required the extensive use of large amounts of noxious chemicals, like lime, tannic acid, and vinegar. The hides were soaked in barrels full of these substances for weeks or months, with varying concentrations depending on the stage of work.
+
+Many tanneries had attached leatherworking shops, which turned the leather into finished goods like boots and riding tack. Others simply sold their product for artisans to use elsewhere.
+
+Practice
+In some areas, the professions of skinners, tanners, and leatherworkers were controlled or regulated by trade guilds, like the League of Skinners and Tanners in Waterdeep, which supplied the bulk of leather used by artisans of other guilds such as the Saddlers' and Harness-makers' Guild, Order of Cobblers and Corvisers, and Order of Master Tailors, Glovers, and Mercers.
+
+Because of the foul smell and toxic waste produced by tanning and tawing, tanneries were almost always kept on the outskirts of towns, downriver, or entirely separated.
+
+Materials
+Materials used in the production of leather included:
+ Salt, for preserving unworked hides while in storage.
+ Tannic acid, for tanning, derived from woodchips, bark, and leaves, such as senna.
+ Alum and tincal, for tawing.
+ Lime, for removing hair and neutralizing acids.
+ Vinegar, or "tanner's liquor", for neutralizing alkalines.
+ Fat, fish oil, beeswax and pitch, for lubricating, sealing, and preserving.
+ Dyes, for coloring the material.
+ Grain alcohol, for cleaning.
+
+Notable Tanneries
+ Falthryn and Daughters Tannery, a tannery in Lannort.
+ Lhuin's Fine Leathers, a tannery and leatherwork shop in Ashabenford.
+ Old Dulwar's Leatherworks, a tannery and leatherwork shop outside of Dagger Falls.
+ Torpus's Tannery, in the Dock Ward of Waterdeep.
+ Whelanxdryn's of Elturel, a tannery and metalworking shop that specialized in scabbards.
+ Several large tanneries were located in Calaunt, contributing to the city's foul odor.
+
+Appendix
+External Links
+
+References
+
+---
+
+## Tankard
+
+Tankards were a kind of drinking vessel found in the Realms, resembling large and heavy mugs.
+
+Description
+Tankards were large and solid compared to most cups. They came with a sturdy handle, allowing them to hold large servings of ale, beer, and other drinks.
+
+A talltankard was an enormous tankard that could hold twice as much as regular tankards, and had a lid on top.
+
+Notable Tankards
+
+Volo's rating system used a scale of 1–5 tankards to rate the service of a tavern that he visited.
+
+Magical tankards either applied an effect to what was poured into it, or produced their own magical drink:
+ Charname's Tankard
+ Battle Tankard
+ Hero's chalice
+ Tankard of sobriety
+ Thrice hearty cup of Balder the Red
+
+Trivia
+ In the Roll of Years, the year 1370 DR bore the name "Year of the Tankard".
+
+Appendix
+See Also
+ Cup
+ Goblet
+ Mug
+
+Appearances
+
+Gallery
+
+External Links
+
+References
+
+---
+
+## Talarkgates
+
+Talarkgates was the manor home of merchant Umbran Daerith in the city of Suzail in the mid-to-late 14 century DR.
+
+Description
+The Talarkgates manor was surrounded by a high iron fence topped with spears to dissuade unwanted visitors. Past the fence was a narrow pathway, overgrown with shrubbery, that led towards the main entrance.
+
+Location
+The manor was built on the western end of the Y-shaped Swordstars Lane, with Montalar's Happy House being its immediate neighbor to the east and the Society of Stalwart Adventurers to the northwest.
+
+History
+Talarkgates's name came from the manor's first owner and its builder, Indrith Talark, a merchant who ran a small fleet of trade vessels long before Umbran Daerith took residence in the mansion. By the late 15 century DR, Talarkgates was showing signs of age and wear despite still being the grand mansion home of Umbran Daerith. By that time, Umbran had already retired from his merchant business in dealing in wool and ale. However, despite his advanced age, he still ran a moneylending business and invested in real estate across Suzail. Umbran rarely left Talarkgates unless leaving to attend a feast in the evenings or having to attend to business in person in the Court of Suzail or negotiate a deal in one of the many establishments along the Promenade.
+
+Inhabitants
+In the late 15 century DR, Umbran still enjoyed the company of beautiful young women he hired as companions every tenday. Most of the time, the young women served as company and conservationists for the old man, with some of the women allegedly being undercover War Wizards.
+
+Appendix
+See Also
+Interactive map of Suzail
+
+References
+
+---
+
+## Tabra's
+
+Tabra's was a combined festhall and rooming house in the settlement of Bargewright Inn in the Savage Frontier in the mid-to-late 14 century DR. It was owned by and named for Tabra and had a reputation for being a "must visit" place in the North, even being known in Waterdeep.
+
+Location
+It stood in the upper part of Bargewright Inn, on the central northern side on the street known as the Rise between Belvyn's House of Good Cheer and Belvyn's actual house.
+
+Structure
+The building was tall and sported many balconies.
+
+Interior
+Inside, the decorations and furniture were elegant and genteel, but rather shabby. On the uppermost floor was a conference room, which was shielded by magic for privacy. Meanwhile, in the cellars was a room for training with weaponry.
+
+The building housed Tabra's extensive library of books, chapbooks, and scrolls. These covered every subject except, oddly, magic. There were also cozy and quiet window-seats, which were often used for reading these texts.
+
+Atmosphere
+With a relaxed, home-like atmosphere, Tabra's was popular with men and women alike, and they could simply ignore the escorts seducing their clients nearby. Guests could always find someone to talk to or join in on one of the several gambling games that were constantly going on.
+
+Services
+One could hire a room for 2 gp a night, with all meals included and escorts not.
+
+The meals on offer were basic yet tasty, including oysters and mushrooms on toast; spiced scrambled eggs; and leek-and-leftovers soup that was chunky with vegetables, meat, and cheese. As a result, one could usually find patrons lingering in or outside the kitchens.
+
+An escort could be hired for 25 gp for a full day of their time, lasting from highsun to highsun. There were at least a dozen ladies in residence at any one time in the mid-1360s DR, and they were known for their casual and friendly manner. Regularly, many of them were hired by wealthy merchants, guilds, and adventuring companies for revels at the House of Good Cheer next door.
+
+History
+Some time in the mid-1350s DR, a black dragon descended on Bargewright Inn with the intent of assaulting the settlement. According to local legend, Tabra jumped off her bedroom balcony, transformed midair into a dragon herself (those who tell the story disagree on the type), and chased it off. True or not, Tabra hated the tale and angrily evicted anyone who dared repeat the story in her earshot.
+
+In the, Tabra disappeared from her house and Bargewright Inn, and was not seen again.
+
+Rumors & Legends
+Some folk, such as Volo, thought Tabra to be a mage, but she denied all knowledge of magic. More amazingly, other people rumored that she was in fact a gold dragon in human guise and protecting a treasure hoard beneath the building. Supposedly she was hiding from a mightier dragon that would wipe out her and the whole community if the truth was ever revealed. However, she did indeed have treasure stashed in various parts of the building and beyond, including in the roof and in her canopied bed.
+
+Appendix
+References
+
+---
+
+## Tabra (disambiguation)
+
+Tabra could refer to:
+ Tabra, a Netherese archmage and owner of Tabra's;
+ Tabra's, a festhall and rooming house owned by the aforementioned Tabra; or
+ Tabra's Lane, a small road in Waterdeep.
+
+---
+
+## Taco
+
+Taco was a type of food found among the diasporas of the Radiant Citadel, floating within the Astral Sea. A variety of the same dish found in various places in Faerûn were known by several names: fryhard along the Sword Coast, crunchtart in the Vilhon Reach, hotbite in South Faerûn.
+
+Description
+Fryhards found in Faerûn were fried hardcrust thin and flat roundbreads made with corn. A variety of fillings existed, with mince-meats (lamb, rabbit, squirrel) and hot-spiced vegetables, such as fried onions, potatoes, Brussels sprouts, leeks, artichokes, radishes, fungi, and asparagus being the most common. Cheese-drenched tacos were a special variety available in most places. Crunchtarts in the Vilhon Reach and realms south of the Shaar were traditionally covered in sauces.
+
+History
+The foods were born somewhere in South Faerûn, from where it spread via trade routes to Chessenta, the Vilhon Reach, and traveled in a changed form to the Sword Coast, Amn, Calimshan, the Lake of Steam, and Tethyr, where they quickly became a popular new tavern food.
+
+Appendix
+See Also
+Tortilla
+External Links
+
+References
+
+---
+
+## Taddock
+
+Bosun Taddock was an official in Luskan in the late 15 century.
+
+History
+Bosun Taddock ordered the punishment of the woman Valia for forgery.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tannathra
+
+Tannathra of Hardcastle a mage of the mid-to-late 15 century DR and the first Magister after the Spellplague.
+
+Description
+Due to the magic items in her body, she was misshapen, and carried herself cowled and cloaked.
+
+Abilities
+Tannathra had learned to control the powers of the items that had grafted themselves to her body, and found the power to regenerate in the process. She also knew a unique spell granted to her by Azuth that provided for some form of spell reflection, which affected even area spells. She was an effective combatant who prevailed even against stronger foes.
+
+Relationships
+She had an abusive father, with whom she cut ties, abandoning her last name after running away.
+
+Possessions
+She possessed a belt of power, a crown of stars, and a blast scepter, all of which were grafted into her body by a surge of wild magic.
+
+History
+In the, Azuth offered the office of Magister to a mage in Elbulder, in the inn where Tannathra was staying, Harrion's Hall. Five other mages, taking offense, attacked him. In the ensuing spellbattle, Tannathra slew them all whilst protecting the inn. Thereafter, she faced few challengers as a Magister.
+
+In the, she met with Mystra, and requested to be relieved of the office. Mystra granted that, allowing her to remain as a servitor.
+
+Activities
+After leaving the office, Tannathra had become a servitor of Mystra, who acted alone. She steered clear of politics in that role.
+
+Appendix
+References
+
+-
+
+---
+
+## Tamara Stonehill
+
+Tamara Stonehill was the daughter of Toblen and Trilena Stonehill, the proprietors of the Stonehill Inn in Phandalin during the late 15 century DR.
+
+Personality
+Tamara was precocious and perceptive. She talked freely, but only if she was not engrossed in some activity.
+
+Relationships
+Once each tenday, Tamara accompanied her mother to the Shrine of Luck to pray to Tymora. She was well versed in the traditions of the shrine, and would offer her help if needed to Sister Garaele.
+
+In addition to her parents, Tamara had a brother named Pip.
+
+History
+In 1491 DR, when Tamara was ten years old, she and her mother witnessed a trio of goblins cause the Shrine of Luck to collapse. Tamara helped clean up the rubble by searching for still-usable pieces of the structure, and by herself managed to surmise that the collapse had been caused by the removal of the central stone in the structure's archway.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Taylor
+
+Taylor, was a chieftain of the Talfir settlers of the Moonshae Isles in the 2 century DR.
+
+Relationships
+He was the consort of the "First Mother", Gwynneth, and ruled their people after her death to establish what would come to be called the First Dynasty of the Moonshaes. He was succeeded by his and Gwynneth's son, Deric.
+
+History
+Taylor arrived in the Moonshaes with his people in the, fleeing their home to escape oppression under the Shadowking of Ebenfar. As consort to Gwynneth, he became chieftain after she died of consumption in the following year.
+
+He ruled for only three years before his people came into conflict with the Llewyrr elves in the, and he was killed in battle that year.
+
+Appendix
+References
+
+---
+
+## Tanner Cymrych
+
+Tanner Cymrych  was a High King of the Moonshae Isles in the first half of the 10 century DR. He would become the last monarch to hold the true title of High King until the ascension of High Queen Alicia Kendrick over four centuries later.
+
+Relationships
+He was a member of the Cymrych Dynasty and the second son of his predecessor, High King Byron Cymrych II. His son and heir was Niall, who would go on to end the Cymrych Dynasty by renaming it to the Carrathal Dynasty.
+
+History
+Niall assumed the throne of the High King in the, following the death of his father. He inherited a High Kingship that was severely weakened owing to the loss of the Crown of the High King by his great-grandfather.
+
+In the forty-second year of his reign, his grip on the Moonshae Isles shattered when he conceded the northern islands to the "Northmen", who had invaded and settled them over the preceding century.
+
+That same year, he led his men to combat a giant incursion in the Myrloch Vale led by a firbolg chief. Although his forces prevailed, Tanner himself was slain, and his legendary Sword of Cymrych Hugh—a symbol of the office of High King—was carried off by his enemies as they retreated. As a result, his son was unable to maintain the authority of the High King, and his domain shrank to include only the realm of Callidyrr.
+
+The Sword of Cymrych Hugh would remain lost until it was recovered centuries later by Tristan Kendrick.
+
+Appendix
+References
+
+---
+
+## Tamara Cymrych
+
+Tamara Cymrych was High Queen of the Moonshae Isles for a brief time in the mid-to-late 3 century DR.
+
+Relationships
+She was a member of the Cymrych Dynasty and the first daughter of the dynasty’s legendary namesake, Cymrych Hugh. Her mother was his second wife.
+
+She was the sister of both her immediate predecessor, High King Warren I, and of her successor, Carrig I.
+
+History
+Tamara assumed the throne of the High Queen in Callidyrr during the, after the death of her brother, High King Warren I. At the time, Cedric Riker ruled in her family's ancestral seat of Corwell as its regent, and would do so for her entire reign.
+
+She ruled for only four years before dying of poison in the .
+
+Appendix
+References
+
+---
+
+## Tarim Inavule
+
+Tarim Inavule was a bardic half-elf Harper agent in Cormyr during the mid-1480s DR.
+
+Description
+Tarim had ruddy skin and shoulder-length straw-yellow hair. He wore a dashing purple outfit and carried a lute.
+
+Personality
+The fellow was rather laid-back and relaxed for the life-and-death situations he found himself in.
+
+History
+
+After the Shadovar invasion of Wheloon and during the Sschindylryn invasion of Eveningstar, Tarim arrived in Eveningstar with fellow Harpers Kirinel Zay and Jussko Kwahn, disguised as a group of typical travelers, to follow Oriphaun Huntsilver and his Abyssal Planus Mechanus Nether Scroll. Tarim, Kirinel, and Jussko pursued a lead on Oriphaun's friendship with the druid Halsaime, with the Evenor ranger Peron Uthe serving as a connection to the druid. Meanwhile, another team of Harpers led by Rina Belostos followed a different trail, sending them up the High Road.
+
+Unfortunately, by the time they arrived Halsaime had been driven to violent madness by his staff and set about conquering the world with his twisted version of nature. The ranger Peron Uthe had been infected and turned into a red musk zombie and caused a disaster at the Eveningstar War Hospital, and his home Uthe Lodge became an overgrown lair of the murderous dryad Sylvie. Jussko returned from a scouting mission there where he met adventurers, who were then referred to Kirinel and Tarim as they focused on neutralizing Halsaime before he could cause more damage.
+
+The hirelings and Garstrom Toom scouted out Thorngap and Thorn Hollow, finding more maddened druids and their victim Carm Woodrusk, who shared that Halsaime's lair was at Druid's Deep, found by being "a wolf, then a fish, then a bear." Pondering these words, Tarim organized the final mission with Jussko as he sent the team to find Halsaime. Luck was with them, and the mad druid was taken down before he could cause any more harm. Tarim planned to compose a song about the heroic events, titled The Song of Druid's Deep.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Tartel's House of the Sword
+
+Tartel's House of the Sword was a finishing school in Waterdeep in the late 14 century DR, that secretly operated as a brothel on the side.
+
+Location
+This school was located along Seawatch Street, in the Sea Ward of Waterdeep.
+
+Services
+Tartel's publicly advertised services were training in the art of fencing and how to defend one's self with the use of (or against) a dagger, light longsword, or other smaller forms of blades.
+
+On the side, the school taught young nobles how to duel and the chance to get companionship from coin-lasses. The proprietor, Tartel, encouraged young and beautiful women to work for her as coin-lasses in return for half of their earnings. These women were given the option of staying at Tartel's, taking on the guise of a student or maid, though they had to pay full student rates.
+
+Appendix
+References
+
+---
+
+## Tales of the Outer Planes/A Simple Deed, Well Rewarded
+
+"A Simple Deed, Well Rewarded" is an adventure module for beginner players set in the Outer Planes, where the players must secure a hound for Hecate, requiring a long series of trades.
+
+Synopsis
+In the World Serpent Inn in Arabel, a jester tricks the PCs into performing a service for Hecate. They must secure a hound for her breeding stock from the Wild Hunt. The players come across the Wild Hunt, guided by the jester again; the Master of the Wild Hunt indicates to them that Raven has stolen his hunting horn and spear, and that if they're returned, he'll spare a hound. Upon meeting with Raven in the Elemental Plane of Air, they discover nothing, but upon exiting they find themselves in the Beastlands, where animals herd them towards Raven, who wants another sphere from Enki. At Mechanus, Enki is unavailable as he is pining for Lliira, who is currently having difficulty getting out of the palace world Zannibar, where the gods Tlazolteotl and Xochipilli keep reign; unable to afford entry, the party must infiltrate the palace, and find the top level, where Lliira is. Lliira reveals that Hecate has cursed her so she may return no man's love, and thus she has exiled herself. Upon informing her that Hecate no longer desires Enki, she is open to being smuggled out, back to the World Serpent Inn.
+
+Back at the inn, the owner, Mitchifer, dispatches messengers to Hecate, the Wild Hunt, Raven, and Enki; the situation is resolved.
+
+Index
+
+Appendix
+References
+
+---
+
+## Tales of the Outer Planes/Castle at the Edge of Time
+
+"Castle at the Edge of Time" is an adventure module for beginner players set in the Outer Planes, where the players must convince a powerful wizard that Arabel is not for sale.
+
+Synopsis
+Myrmeen Lhal calls on the PCs to accompany Cheodot Hiloar, a local noblewoman, on a diplomatic mission; the Sapphire Mage has made an offer for the purchase of the city of Arabel, the capital of Cormyr, and he must be not just refused, but talked out of attempting a takeover if he is refused.
+
+While being escorted to the Ethereal plane where the Sapphire Mage Montgomery resides, they are attacked by electromagnetic beings along the way. Once at his castle, Lady Cheodot attempts to scuttle the talks and set Montgomery against Cormyr on behalf of the Zhentarim.
+
+Index
+
+Appendix
+References
+
+---
+
+## Tales of the Outer Planes/The Missing Kristal
+
+The Missing Kristal is an adventure module for beginner players set in the Elemental Plane of Earth, where the players must recover the daughter of Duke Graven from a dao.
+
+Synopsis
+Traveling far from Arabel, the party is called on by Duke Graven, who needs them to go through a portal to the Elemental Plane of Earth and rescue his daughter, Kristal, from the evil dao who has kidnapped her.
+
+Index
+
+Appendix
+References
+
+---
+
+## Tales of the Outer Planes/A Friendly Wager
+
+"A Friendly Wager" is an adventure module for beginner players set in Olympus, where the players must talk to Zeus in order to be released from his domain.
+
+Synopsis
+Upon arrival, adventurers are greeted by Hermes in diguise, who explains that Zeus had placed a barrier around the realm that can only be crossed with his verbal consent. Thus, they must wander Olympus until they come across Zeus himself, coming across King Hiyawat, Zeus' white eagle, the owl Brobane, and must fight an aerohydra, before climbing Mount Aetna to meet with Prometheus, and finally being led to Zeus by the nymph Daphne. Along the way they learn of a wager between Apollo and Hermes, and that Hera has become involved.
+
+Upon arriving at the oracle of Zeus, they are returned to their lands, but may carry the enmity of one or more gods with them.
+
+Index
+
+Appendix
+References
+
+---
+
+## Tales of the Outer Planes/The Sea of Screams
+
+"The Sea of Screams" is an adventure module for beginner players set in the Abyss, where the players must accompany Gustofsen Eller, a cleric, in his mission to verify whether he has succeeded in slaying the goddess Kali.
+
+Synopsis
+The adventurers must protect the cleric Gustofsen Eller, who believes he has slain Kali, in a trip to her layer of the Abyss. Only by looking for her dead body can he be completely certain that he has succeeded in killing her.
+
+Index
+
+Appendix
+References
+
+---
+
+## Tanareve
+
+Tanareve, or Tanareve the Cleric, was an adventuring priest, part of the Church of Tempus of Hillsfar in the mid-14 century DR.
+
+Description
+Tanareve wore a breastplate decorated with the holy symbol of Tempus and a steel cap, and was armed with a hammer.
+
+Relationships
+Tanareve befriended a fellow clergyman of Tempus, an elderly acolyte named Graeme ibn-Naif sometime around the . His trusted and smart horse was named Faith.
+
+History
+In the early spring of the, Tanareve was tasked with finding Graeme ibn-Naif, a missing elderly acolyte of the Temple of Tempus. Graeme was sent on a simple mission but never returned. Tanareve set out to reach the Trading Post outside of Hillsfar, despite the perilousness of the roads, believing that the aged cleric was attacked by the bandits near the outpost. One thing that the cleric carried on him at the time of disappearance was the Holy Texts of Asrigir, the Bearded Seer of the Moonsea, but they had no value to simple brigands. Despite the Temple of Tempus' Overseer ordering retrieval of the texts as the primary focus of the operation, Tanareve valued the aged acolyte's life more.
+
+As the sun began to set, Tanareve reached the Trading Post and eagerly inhaled its many aromas: roasting meat, cinnamon, ale, horses, and exotic trade goods from far away. The cleric of Tempus headed to the Trading Post's inn after walking through its many market stalls. There, he partook in an eveningfeast of stewed goose and wine and discovered the aged acolyte stayed at the inn just several days prior on his way to a local landmark – the Big Tree.
+
+In the first rays of morning light, Tanareve rode out towards the Tree, remembering the old acolyte mentioning the old serene Tree in the past. At the landmark, Tanareve quickly came across signs of struggle. Worried for his friend's life, the cleric could not identify the attackers: their arrows bore no distinct marks, and broken spears were just as mundane. Frustrated, Tanareve sat under the Tree, closed his eyes, and began mulling over the situation, but when he opened his eyes, Faith, his horse, was gone.
+Arming himself with a hammer, Tanareve cautiously walked around the massive Tree only to discover Faith calmly grazing on the grass near a locked chest. Inside was Graeme ibn-Naif, bound and gagged, weakened but still somehow alive.
+
+Shouting a prayer of healing to the god of battle, Tanareve pulled the old friend from the brink of death. Now, all the acolyte needed to recover was bread and wine. Graeme revealed that six men on horses came across the priest sleeping under the Big Tree. In a scuffle, Graeme managed to break one of the attackers' arm and concussed another one but was eventually bested by bowmen. The aged acolyte thought it funny that all the bandits got from the attack was the "long-winded ramblings of Asrigir" and "the most stupid donkey this side of Cormyr."
+
+With his friend's life saved, Tanareve now had to retrieve the Holy Texts of Asrigir. The cleric headed back out from the Trading Post first thing in the morning after hearing of a highwaymen robbery from a group of merchants at the inn. The attack happened near the home of a local hermit, north of the Trading Post. The bandit camp was discovered deep within a dark wood, about five miles away from the main road. Arriving just in time, Tanareve witnessed the bandits complaining about the worthless holy texts, getting ready to give them a proper cremation in the campfire. The cleric attacked, murmuring a prayer to Tempus. The divine spell worked, and the thrown hammer turned into a blazing ball of fire. The spiritual hammer walloped at the nearby robbers, promptly sending them fleeing in a panic of a sorcerous attack. It did not take him long to find the stolen texts and return them to the Temple of Tempus in Hillsfar.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tapdragon
+
+Tapdragon was a variety of strong molasses and sugarcane-distilled clear alcoholic beverage from Faerûn.
+
+Usages
+Tapdragon could be used in the mixing of the Yeti's breath manyslake found in Suzail in the mid-14 century DR. This ice-cold cocktail was made with crushed ice, tapdragon, darsargar (powdered ginger root), and menthol, which was made from wild peppermint plant's oil.
+
+Appendix
+See Also
+Vodka
+Rum
+
+References
+
+---
+
+## Tanarthil
+
+Tanarthil of the Towers was a wizard in the mid–14 century DR.
+
+Personality
+He was a brave man, willing to fight even when it meant his own death.
+
+Possessions
+He had a staff. Two of its powers were one that created a storm of flames, and another that created a cone of rending, howling force.
+
+History
+Tanarthil came across an Eilistraean rite at some point in or prior to the, and judging them as engaging in some foul purpose, attempted to eliminate the dancing drow by using his staff. In response, the drow priestess leading the rite, Qilué Veladorn, blocked his first spell, turned the second one into the sign of Mystra, and then had him dragged back to Waterdeep by his staff. She had some trouble convincing her fellow priestesses not to kill him.
+
+She would remind her fellow priestesses of the event during a later intrusion.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Talisman of ultimate evil
+
+A talisman of ultimate evil was a magic item that an evil priest could use to smite a goodly priest.
+
+Powers
+In the hands of a foul-hearted priest, a talisman of ultimate evil could open a crack in the ground beneath the feet of a goodly priest, swallowing them forever and hurtling them to the very center of the earth. Unless the evil priest was of foulest heart and mind, the good priest would have a chance to resist the talisman's magic. These items contained six charges and could not be recharged.
+
+Any priest not black of heart suffered great harm when touching a talisman of ultimate evil. Non-priests could touch the talisman without harm but could not wield its magic.
+
+Notable Owners
+ The demon lord Juiblex owned and used a talisman of ultimate evil.
+ Ebomara, a drow cleric of Lolth.
+
+Appendix
+See Also
+Notes
+
+Appearances
+
+References
+
+---
+
+## Takto
+
+Takto was a human warrior of Maztica in the mid-to-late 14 century DR.
+
+Description
+He had shared everything with his cousin Loktil since childhood.
+
+Possessions
+Like so many other Maztica warriors he fought with nought but a shield and maca.
+
+Relationships
+Training and fighting side by side with his cousin, and friend, Loktil for years, they had developed their combat tactic to harmonize with each other.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Table magic
+
+Table magic was an esoteric, less-known yet ancient supernatural practice that allowed magical effects to be called forth through completely mundane means, shaping them through the arrangement of various materials, typically on a table.
+
+Overview
+Table magic required the precise placement of several components in specific patterns, with circles and lines with written runes.
+
+Notably, practicing table magic did not require the Gift, and it did not rely on the Weave though it was reported to access it but it did require learning and users of table magic were far rarer than wizards or clerics. The practice itself was largely seen as less potent, but at least some Red wizards believed it to have scant limits on its actual potential.
+
+Implements
+To use table magic, a flat, smooth stone surface was needed. The user had to make a precise arrangement of specific materials, such as various substances cut in geometric shapes. The substances could include ebonwood, salt, ivory, teeth from dragons and whales, or other beast organs. A pattern had to be drawn on the surface using natural chalk though the caster's own blood would do. The pattern included lines, along which "silent incantations" were spelled out; the spell table was finally activated by drawing one last rune in a manner that severed one of the lines. Per some records, incantations were spoken aloud.
+
+One particular ancient set of objects for table magic was akin to a deck of cards, save for the fact the cards were made of polished quartz or another ice-hued mineral, all of them in different colors, and a few spire-shaped objects. The plaques were separated between gult and vedarren, where the gult were merely rock, and the vedarren were made of clear crystal that had the life force of certain creatures trapped inside. Gult were used for dampening and anchoring flows of magic. While gult required no particular knowledge for their construction, the process of creating vedarren was broadly considered to be lost outside of Halruaa by .
+
+Effects
+If the process was executed successfully, blue flame consumed all those objects and granted the user the ability to target the spell shaped; they automatically knew as much from the force resonating through them. The spell materialized in the faint smoke from the blue fire, which would build without regard to wind or other forces that dissipate it. Presumably, vedarren were not so consumed, as the devices were ancient; furthermore, gult and vedarren flashed on occasion while they were moved around on a table.
+
+Table magic was compared in power at least once to dozens of archwizards acting in concert, for cases where sufficiently intrincate enough spells were executed without flaw. It was also possible to create a "hanging" spell, that would respond to the trigger that activated them and act anew in bespoke manner. Up to seven could be held hanging in abeyance, so long as the table remained undisturbed wherever it lay. So-hanging spells could be activated elsewhere by using a token or even a mental call if so preferred.
+
+Known users
+ Irlmarren of Tyraturos scried on a man wielding gult and vedarren looted from a Halruaan tower in the moments leading up to his death. He believed this to be a common practice in Halruaa.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Tamara (dwarf)
+
+Tamara was a charming young dwarf and apprentice sage under the tutelage of her aunt Birgit of the Iron House
+
+Personality
+She was drawn to investigate everything she encountered, both due to her training as a sage and from natural curiosity. However she disliked travelling and working in large groups. Here area of focus as a sage was on cartography.
+
+Abilities
+As an inexperienced sage and conjurer, she was only able to cast the spells of detect magic, entangle, faerie fire, and sanctuary.
+
+Possessions
+She owned a ring of protection and a staff.
+
+Activities
+She was apprenticed to her aunt Birgit of the Iron House, and as such were willing to journey to the ancient dwarven realm of hammerkeep if the group was not too big for her comfort.
+
+Relationships
+She was close to her aunt, who in return was very protective of Tamara.
+
+History
+In  her aunt had gotten her hands upon an ancient map showing the location of old Hammerkeep and something called the ship of night, they were seeking adventurers to find out what it was and whether it could be reclaimed or reconstructed. Tamara was willing to go, acting as Birgit's notary, testifying to the truth of whatever the adventurers claimed to have discovered.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Taste link
+
+Taste link was a minor psionic devotion of the telepathy discipline that allowed a psionicist to connect another creature's sense of taste to their own.
+
+Effects
+This power tapped into the flavor senses of another creature from an unlimited distance away, making the manifester taste whatever the linked creature tasted. In some cases, this also established a link with the target's sense of smell. If the manifestation backfired, the only backlash the manifester would receive was a bitter taste in their mouth.
+
+Oral ingestion of poison by the linked creature could potentially cause the manifester to pass out, severing their link.
+
+Prerequisite Powers
+In order to learn taste link a manifester first had to know the powers contact and mindlink.
+
+Users
+In psionic terms, taste link was found to manifest as an innate psionic ability by yuan-ti. And while typically not a wild talent, taste link sometimes manifested as such for necromancers, whom were known for developing unusual mental abilities.
+
+Known/Notable Users
+ Nar'Lheeth, an illithid of the Tamer Creed in the city of Nar'Vheen.
+
+Appendix
+See Also
+ Intrusive taste link, a similar power that was developed by mind flayers.
+ Sense link
+ Sight link
+ Sound link
+Appearances
+
+References
+
+---
+
+## Taerach Thone
+
+Taerach Thone or Wyndal ThoneThe narration calls him Taerach Thone, while Wyndal is used only once by a third person. This article makes the assumption that Wyndal is an alias or copy-edition mistake. was an assassin working for the Zhentarim in the mid-to-late 14 century DR. He was secretly the author of the Heartsteel chapbook series.
+
+Description
+He was on the stouter side.
+
+Possessions
+He carried at least one potion of healing.
+
+Activities
+
+Besides being a slyblade, he was a published writer.
+
+Relationships
+He was a friend of Blaeragh Ridranus.
+
+History
+Per Calivar Murpeth, Thone had once killed a mage of the Watchful Order of Magists and Protectors in their own headquarters.
+
+In, he was in Shadowdale, where Calivar brought him along for the slaying of the scribe Maervidal Iloster, arranged to happen at Warmfires House. After following him into the jakes there, he found no hair nor hide of the scribe; a local wench, Talantha, drew his attention. Suspecting her of having aided the scribe, he hired her for an hour, brought her upstairs with Calivar and the men, and drugged her with saisha, so that she could be interrogated. He also murdered the cook, Gustal Sorold, in front of her.
+
+He took hot pokers from the fire to threaten her with during the interrogation; however, when she claimed that several of Calivar's men were with the scrivener when he asked for her help, Calivar listened, and directed Thone to kill the men she pointed out. Thone also pacified the one who protested their deaths, Toarin Klustoon.
+
+Once Talantha revealed herself to be Storm Silverhand in disguise and slew all of them, she let him live upon accidentally discovering he was the author of her favourite chapbooks. She knocked him out, and stole him away to her farm.
+
+At her farm, he found her vulnerable for a moment while she received some protections from Elminster Aumar in preparation for her ambush on Halaster Blackcloak; hesitating, he ultimately decided not to kill her. Anastra Syluné Silverhand introduced herself to him afterwards.
+
+He accompanied Sylune later when she joined Storm at Halaster's hideout, carrying a glittering stone in hand that was presumably one of Sylune's fireplace-stones. Seeing Storm wounded, he volunteered a potion out of his own possessions to heal her.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Tanith
+
+Tanith was a human psionicist and innkeeper in the mid-to-late 14 century DR.
+
+Abilities
+She had aura sight, which she used to spot potential troublemakers amongst her customers. Danger sense, which she used to protect herself and her two daughters. She later gained dream travel, which she used to finally visit exotic places she had heard of, but never got to visit.
+
+Possessions
+She owned a weak ring of protection besides her ordinary dagger.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tabac
+
+Tabac was a varietal of pipeweed. It was less pleasurable to smoke than Maztican tabacco, although only pipeweed connoisseurs could generally tell the difference.
+
+Usage
+Tabac was generally regarded as harsh and foul smelling, but suitable for smoking. It was smoked both in pipes and waterpipes.
+
+It was possible to become dependent on tabac such that addicts might suffer headaches if they forewent smoking it.
+
+Availability
+Tabac was known to be grown in Chessenta and Tethyr.
+
+As of the late 15 century DR, tabac was cheaper and more readily available in Faerûn than tabacco. On the Sword Coast, a pouch of tabac sold for 5 gold pieces.
+
+In the Moonsea, tabac could be purchased in Mulmaster from stores such as Usilie Rostik's Smoke Shoppe. It was even smoked among the goblins outside of civilization.
+
+Various special blends of tabac could be found for sale in Akanûl, and some taverns in Airspur specialized in tabac rather than ale.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tarathiel Miastina
+
+Tarathiel Miastina was a member of the Cormanthor Elves during their efforts to reclaim Myth Drannor during the late 14 century DR.
+
+Description
+Tarathiel had fair skin, long chestnut brown hair, and wore an ornate leafy green robe ensemble.
+
+History
+Around 1374 DR, Tarathiel organized the efforts of various elves as they fought the Red Wizards of Thay, who had arrived to raid the ruins and abscond with its artifacts before the Elven Crusade could secure it. She helped direct the efforts of Maloran Herthana to investigate the Red Wizard plans at the Irithlium, Sharora Leonala's plan to raid the Onaglym and steal the phylactery of the lich Droic Orgul, Elred Maglan's quest to find the long-dead Earynspieir Ongluth at the Burial Glen, Neremyn Proris's chronological adventure at the Throne of Thought, and finally Verzan Nuovis's direct attack on Castle Cormanthor to destroy Droic Orgul for good.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Tanlathan
+
+Tanlathan was a Deepingdale ranger and Harper who was zombified by the Cult of the Dragon before the late 14 century DR.
+
+Description
+He had a noble visage, even after death.
+
+Possessions
+After his death, his broken and battered Harper pin was mockingly stuck directly into his chest.
+
+Activities
+As a zombie, he was set to guard a storage room.
+
+Relationships
+He presumably obeyed the orders of local Cult of the Dragon members.
+
+History
+Tanlathan was originally a ranger from Deepingdale, and a Harper. In the, the Chantry of St. Sammaster's storage room was guarded by his zombified body.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Taralin Felanamar
+
+Taralin Felanamar was a mage who was studying with Maferil the Gravewalker in Luskan, Sword Coast North, during the late 15 century DR.
+
+History
+Studying magic in Luskan sometime prior to 1487 DR, Taralin was Maferil's second pupil. As Taralin already had some training in the arcane arts and, despite his power, he never quite took to necromancy, to Maferil's disappointment.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Tassabra
+
+Tassabra was a thief of Hastarl in the early-to-mid 3 century DR. She was a founding member of the Velvet Hands.
+
+Description
+She had a low voice, and a lithe silhouette.
+
+Abilities
+She was an able thief and wielded a longsword as well as daggers.
+
+Relationships
+She became a founding member of the Velvet Hands.
+
+Possessions
+She had an enchanted ring that shot forth force capable of hurling people away, in the manner of a ring of the ram.
+
+History
+She was originally from Heldon, which was torched by Undarl Dragonrider in the . In, Tassabra, who had been a thief in Hastarl for a while, became a founding member of the Velvet Hands gang.
+
+She was soon targetted by the Moonclaws, surviving their first attack. The Velvet Hands attempted an ambush afterwards, but they were all killed save for her and Eladar the Dark, who was secretly Prince Elminster Aumar; she died of her wounds, bequeathing him her enchanted ring at the old burial site, Ansildabar's Last Rest. Unknown to Eladar, who left to seek revenge against the Moonclaws, Tassabra was resurrected by the Magister of Mystra, Dorgon Heamiiolothtar.
+
+After resurrection, she and Farl, leader of the Velvet Hands, turned to different pursuits, eventually becoming traders by the, when they agreed to take part of Prince Elminster's plan to overthrow King Belaur Aumar and defeat the Magelords of Athalantar. Tassabra met with the men of Helm Stoneblade and helped coordinate their movements. She was later part of the forces that snuck into Alarashan Tlor's quarters. She later aided in striking down guardsmen with crossbows, stopping only when she fainted at the sight of Baerithryn turning into a silver dragon.
+
+She participated in the festivities afterwards, once Prince Elminster crowned Helm Stoneblade as the new king of Athalantar.
+
+Rumors & Legends
+Larrin believed Klaern Blaenbar was Tassabra's lover, but she had only spent brief time with him.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tarthe Maermir
+
+Tarthe Maermir was an adventurer, and the leader of the Brave Blades in the early-to-mid 3 century DR.
+
+Description
+He had broad shoulders, and a curly beard that was of a reddish color, giving him a leonine countenance.
+
+Personality
+He was unshakable, and did not condone indecision.
+
+Relationships
+He was the leader of the Brave Blades.
+
+History
+Tarthe Maermir was the one who came across a merchant's account regarding the location of Ondil's Tower, and led the Brave Blades to the remote, floating redoubt. While inside the tower, he snapped Elmara, the party's cleric of Mystra, from her indecision a few times. After the way behind them disappeared during exploration, forcing them into a path that led exclusively to Ondil's Tomb, Tarthe encouraged them to continue even after Ondil's hanging spells began to slay them at the entrance. After Elmara managed to finally incapacitate Ondil, Tarthe was quickly slain by Undarl Dragonrider, who teleported to their location.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Tannivh Dahast
+
+Tannivh Dahast was the leader of the Cormanthor Elves during their efforts to reclaim Myth Drannor during the late 14 century DR.
+
+Description
+Thiralen had light skin, long pale blond hair, and wore an armored green outfit.
+
+History
+Around 1374 DR, Tannivh organized the Elves of Cormanthor as an allied forced alongside the Elven Crusade as it led to Myth Drannor. Less focused on martial pursuits, his group was primarily dedicated to the exploration and reconstruction of the ruins they found, based at a fortified camp near the city. They were shortly joined by Eilistraee's Wanderers, a group of overly enthusiastic drow led by Kelgoth Darksong. While the elves met a great many challenges in the city, the greatest was that of the Red Wizards of Thay, who sent a strike force led by Droic Orgul to loot the ruins.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Tantras (disambiguation)
+
+Tantras may refer to:
+ Tantras, a city on the coast of the Dragon Reach;
+ Tantras, a novel by Scott Ciencin published in 1989;
+ Tantras, an adventure module released in 1989;
+ Tantras, a comic published in 1991.
+
+---
+
+## Tarkhaan Dlardrageth
+
+Tarkhaan Dlardrageth was a daemonfey who had departed from House Dlardrageth in the late 14 century DR.
+
+Relationships
+His son, Bishtek Dlardrageth, barely knew him. Tarkhaan inflicted great pain on the boy in order to help him blend into human society before leaving him with gifts of gold and in the care of servants.
+
+History
+
+Tarkhaan Dlardrageth was long imprisoned beneath Ascalhorn with Sarya Dlardrageth. During the Cormanthor War in the years before the Spellplague, Tarkhaan fought alongside Sarya. After her defeat at the hands of Seiveril Miritar, he lost his will to keep fighting, and fled to Baldur's Gate on the Sword Coast rather than join his cousins as they regrouped. While in Baldur's Gate, he somehow managed to live without drawing suspicion.
+
+When his son, Bishtek, was born, his mother died in childbirth. Tarkhaan elected to have doctors surgically excise his son's tell-tale demonic features, notably his wings, tail, and spines along his back. This left the child horribly scarred.
+
+Bishtek would never know for certain whether his father had left House Dlardrageth of his own volition or had been banished.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tanatha (adventurer)
+
+Tanatha was an adventurer in the Dalelands in the 14 century DR. She had semiretired from that life by 1370 DR, opting to spend her time with other retired adventurers in operating the entertainment company Romantic Dreams Forays from the Tasseldale village of Halfcrag.
+
+Activities
+At some point in her life, Tanatha presumably invented the alteration spell Tanatha's melt.
+
+History
+Around the, the traveling writer Volothamp Geddarm visited Halfcrag whilst working on a new guidebook, Volo's Guide to the Dalelands. While there he chatted with a number of the Foray ladies, including Tanatha. She assured the writer that she and her fellow guides were well prepared for any unplanned monster attacks, carrying on any given tour a robe of useful items and a good amount of both elixirs of health and potions of healing.
+
+Volo was surprised at Tanatha's openness with such company details and asked if she wasn't concerned that divulging the existence of these magic items to him would bring any number of thieves harassing Romantic Dreams Forays. With a sly smile she assuaged his concerns, saying that anyone who underestimated the Foray ladies as no more than pretty women in daring armor would be in for a nasty surprise.
+
+Appendix
+References
+
+---
+
+## Tallhouse
+
+A tallhouse was a common kind of vertical urban building found in the cities Faerûn, used as homes and shops by all kinds of folk. They might be called "sharedoors" when used as an apartment block or tenement. A multi-level stone building with cellars (which included, but was not limited to tallhouses) was known as a "standath" on the Dragon Reach and the Moonsea, while one without cellars was called a "murdath" (usually because of bedrock, swampy ground, or flooding risk).
+
+Description
+Almost to a one, a tallhouse was a tall, narrow building set wall-to-wall with its neighbors, or with at most a small "sidle-alley" between them that a person could squeeze through. They most often had a cellar level accessed by a "duck-down" set of steps that led from the street to a small landing. Beyond that, each tallhouse was unique to the city and builders it originated from.
+
+A common mixed-use tallhouse (such as one built in central Suzail) was a rectangular structure built of stone or brick for the first level, with half-timber and stucco construction rising an additional two, three, or even four levels above the street. The "first down" (cellar) level and the street level would normally be shops (a particularly expansive street shop could go upstairs as well), and the upper levels used as apartments for tenants. In the richest parts of town, the first above-street floor (and sometimes the whole upper building) was not residential but rather offices for businesses, filled with clerks performing paperwork. Otherwise, the typical arrangement was for the residents to rent a floor or half a floor for themselves, while in poorer parts of town the tallhouse was rented out as individual tiny rooms or small suites called "darchains", fitting up to a dozen cramped tenants (or families of tenants) per level. The different levels were normally reached by external stairs from ground level (mainly from the rear garden), though most buildings had some manner of internal stairway as well, whether a single continuous spiral staircase or a zig-zagging series.
+
+The tallhouse was ideally capped with slate or tile roofs rather than wooden shingles (they were still used, but prone to rotting, leaking, and breaking). Areas with heavy snowfall requiring a steeply pitched roof, leading to common dormers that were popular for sleeping with the windows open in warmer weather, while other climates allowed flatter roofs that included rooftop cisterns and gardens. A trend in Suzail was to add skylights to the roof, with three overlapping panes of glass to ensure strength, and almost all buildings had roof trapdoors, watersealed with pitch or gum and with a sturdy doorbar. It was typical for decorative ironwork to be added along the peak of the roof, sturdy enough to attach safety ropes for workers (such as for the Roofers, Thatchers, and Glaziers Guild), and rainwater downspouts on the corners (these were rarely sturdy enough to bear the weight of someone climbing or jumping onto them, and thieves were advised to bring their own ropes and ladders). Lightning rods were frequently added to each end of the peaked roof and connected to the downspouts in order to ward off Talos's casual wrath.
+
+Most tallhouses had a walled and gated back garden for the building, but this wasn't a guarantee, and in some cases the building didn't have a back at all as it fronted onto two different streets. Each tenant would have their own kitchen (based around a compact iron stove) or have to use a communal brick oven in the back garden (assuming there was one), and it was normal for shared laundry chutes and chimneys to run from cellar to attic, or to the roofshed if available. Windowbox gardens were common for growing herbs and pipeweed, but balconies might be limited to the uppermost levels to protect against cat burglars. If someone owned an entire level of the building then they would likely do their cooking on the back balcony to lower the risk of fire. Toilets varied in luxury from individual chamberpots and a communal back yard outhouse, to in-apartment "sluice-privies" that dropped waste into the sewers and were flushed with a jug of water or even a pull-chain that drew from the rooftop cistern.
+
+History
+Tallhouses were built in the dense and rich cities of Faerûn, most prominently in Athkatla and Waterdeep, the Cormyrean cities of Suzail, Marsember, and Arabel, and the major Sembian cities of Selgaunt, Saerloon, Daerlun and Yhaunn. This building style developed as the growing populations of safe and prosperous walled cities forced people to build up instead of out, resulting in tall, narrow buildings that sat wall-to-wall with each other facing the street.
+
+Tallhouses became a common and mainstream architectural design during the 1300s DR, and by the latter end of the century it was a trend for tallhouses in the rich neighborhoods of Selgaunt and Waterdeep (specifically the North Ward and Sea Ward) to be owned by singular rich landlords that rented them by the floor, as opposed to the more chaotic darchain arrangement.
+
+Appendix
+External Links
+
+References
+
+---
+
+## Tanatha's melt
+
+Tanatha's melt was an alteration spell that allowed mages to generate a mild heat, comparable to prolonged exposure to torchfire.
+
+Powers
+This novice spell's primary utilization was in dethawing frozen items, or portions of frozen objects, and melting ice. The maximum volume of frozen water that Tanatha's melt could affect was equal to the volume of the spellcaster's head. The heat it generated was not capable of burning or scorching objects.
+
+Offensively speaking, the potential harm that Tantha's melt could do to a creature was negligible, only being slightly more harmful when deployed against cold-based creatures such as ice para-elementals. It was incapable of causing harm to undead creatures, regardless of circumstances or of coldness being a part of their nature.
+
+Materials
+This spell required verbal, somatic, and material components in order to cast. For material components the spell would accept a pinch of either phosphorous, saltpeter, or ashes from a fire.
+
+Appendix
+References
+
+---
+
+## Tabitha (disambiguation)
+
+Tabitha is a name that could refer to:
+Tabitha (paladin), a 14 century paladin sworn to protect the Temple of Lathander in Myth Drannor,
+Tabitha (Neverwinter), a cleric student of the Neverwinter Academy,
+Tabitha (lion), a lioness that belonged to the beastmaster of the Copper Coronet in Athkatla, or
+Tabitha Dustwood, a heartwarder of Sune.
+
+---
+
+## Tabitha (Neverwinter)
+
+Tabitha was a hin cleric student from the Neverwinter Academy in the late 14 century DR.
+
+Personality
+Like almost all the other students of the Neverwinter Academy, Tabitha was fond of Lady Aribeth de Tylmarande and studied diligently in order to secure an audience with the lady hero of Neverwinter.
+
+History
+Tabitha was still a student of the Neverwinter Academy in the, when Wailing Death spread through Neverwinter. She knew that Khelben Arunsun was the wizard responsible for finding a cure for the plague and believed that her deity, Tyr, was acting through him to bring the salvation to Neverwinter. When the school was attacked by mysterious foes during the graduation ceremony of the individual destined to become the Hero of Neverwinter, Tabitha was in the spellcasters' classroom when the Academy and she perished in the struggle.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Tangler grenade
+
+Tangler grenades were a type of non-lethal, throwable alchemical weapon foreign to the planet Toril.As the only appearance of this weapon has been in the hands of "space orogs", there is nothing to suggest that tangler grenades are of Torilian origin. However, seeing as the orogs came from the planet H'Catha, it is possible that the grenades originated from Realmspace.
+
+Description
+This weapon consisted of an ovoid, resin shell that would shatter upon impact.
+
+Effects
+Upon shattering, a tangler grenade unleash a thick, resinous web in a  radius from the impact zone, restraining any creatures within its clutches. This substance would naturally dissolve after a period of 1 hour, but could be prematurely dissolved using  of alcohol.
+
+History
+Sometime in the late 15 century DR, a handful of tangler grenades were in the hands of the orog crew of the spelljammer Scavenger. When the mad wizard Halaster Blackcloak lured the Scavenger into Undermountain through a gate, the ship's crew were left untouched as he stole their spelljamming helm, leaving them with their personal possessions, such as the tangler grenades.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Tabit
+
+Tabit was a hearth-goddess worshiped by the Pazruki.
+
+Legends
+According to the legends of the Pazruki, in time immemorial, Tabit came down from the heavens to give her blessings to Pazruk, the youngest son of the Father of All Tribes. With this, she also gifted him a sacred golden torc.While this is never explicitly stated, due to Pazruk's involvement in a myth concerning the origin of the Pazruki's patriarchal structure and his sharing a name with the ethnicity to which he belonged, it can be safely assumed that he was an eponymous ancestor of the Pazruki. This legend was cited as the origin of the Pazruki's patriarchal practices, especially the passing down of inheritances from father to youngest son.
+
+Appendix
+Behind the Scenes
+Tabit may be identical to (or at least modeled after) the similarly named Tabiti, the Scythian goddess of the hearth and the primordial fire from which all creation was said to have sprung.
+
+Notes
+
+References
+
+---
+
+## Tan Hikao Nong
+
+Tan Hikao Nong, also called the Balladeer, was a wandering minstrel and author from the southern empire of T'u Lung in Kara-Tur in the mid–14 century DR.
+
+Description
+Tan Hikao Nong was noted to be an attractive and imposingly tall man, which made him appealing to many women. Though he was an impressive 145 years old, his appearance remained as that of a vigorous and healthy 45-year-old.
+
+Personality
+On top of his musical talent, Tan Nong had a deep passion for history and a thirst for knowledge, qualities he shared with Mei Lung and that the two would bond over. He was also noted to have a heroic demeanor, for which he was described as a "young Ch'en Hsiang come to earth" by his fans. Beneath the surface, however, there lay a tremendous amount of pain from his early life, which still haunted him many years later.
+
+Abilities
+Tan Hikao Nong used magic to enhance his performances and influence his audiences. However, he did not solely depend on said magic, as his performances were already impressive on their own, thanks to his immense talent as a performer and his strong voice.
+
+Activities
+Tan Nong traveled throughout the lands of Shou Lung and T'u Lung, performing both epic ballads and light-hearted tunes as he went. These songs were so widely beloved that they, in a sense, united the two empires through their popular cultures.
+
+He also adapted some of his numbers into written form, such as the Romance of the Three Lords. The popularity of the written version of Tan Nong's Romance was so great that it played a direct role in the resurgence of the printing press in Shou Lung, which was, in contrast to its previous periods of popularity since the Li Dynasty, predicted to permanently remain in use as of .
+
+As of, Tan Nong was increasingly considered to be the best candidate for the position of Court Poet, which had been vacant for a year following the death of the previous appointee, in Shou Lung. However, his origins in the breakaway nation of T'u Lung made the topic of his promotion a politically contentious one.
+
+Relationships
+Tan Nong had been a close friend of Mei Lung ever since the two met in Shang Stzi some time prior to . The two of them bonded over their mutual love of history, and Mei Lung was an ardent fan of his songs and ballads. In fact, Mei Lung considered Tan Hikao Nong to be his favorite amongst the many names and faces from T'u Lung he had come to personally know.
+
+In his earlier years, he had studied under two great masters: Fargh Choi, who taught him enchantment magic, mastery of the elements and their correlates, and self-defense; and To Nanchi, who built upon his prior arcane training (including seventeen potent spells and the art of harnessing the power of the sun and moon) and taught him how to craft the enchanted flute he still carried with him as of .While the magic taught to him by Fargh Choi is never explicitly stated to be enchantment magic, the fact that he used it to charm people lines it up with this school of magic. Many years after he had trained with these masters, he still deeply admired both of them.
+
+History
+While the details of Tan Hikao Nong's early life are unknown, Mei Lung mentioned to Elminster in his account that it was such a sorrowful time for him that he would never bring it up to anyone.
+
+Tan Nong began his training in magic under the auspices of his first master, Fargh Choi, some time before the 14 century DR. After having been prepared both physically and mentally through intensive work and memorization of rites and invocations, Tan Nong studied scrolls and bamboo slips containing various philosophies and magical treatises that had been collected by his master. From these, he learned the basics of magic, which included invocations of the gods of the four directions and the art of feng shui. Tan Nong also learned to be careful in his spellcasting; as his master taught, the cosmos was like a singular sheet of cloth, and a superior man could restore balance to the celestial cloth while unwise manipulation of it would unleash demons and malignant spirits.This may be referring to the Weave of magic. Most importantly, he was trained in tong, a nonviolent martial art meant for self-defense in hand-to-hand combat.
+
+While his training with Fargh Choi had tempered his youthful desires with much-needed wisdom, Tan Hikao Nong only truly began to take life more seriously about forty years later and after many escapades and relationships, and he thus sought out another mentor. At this point, he had heard reports about a man in Hachoni who had been playing his flute for ten days without stopping even once, causing many to believe he had been cursed and might soon perish. Tan Nong thus made haste for Hachoni in hopes of saving the man, but the man in question, To Nanchi, stopped as soon as Tan Nong arrived and told him that he had been waiting for him. Thus, To Nanchi took Tan Nong under his wing, and the two of them would travel together over the next twelve years.
+
+During his time as To Nanchi's pupil, Tan Nong learned of the effects of the lunar and solar nodes on mortals and the celestial fabric and how to channel their power into his songs and spells to increase their potency. He also learned how to conduct the central shamanic ritual of the Great Exorcism Festival, an annual festival to drive away the misfortunes of the previous year.Even though the wording would initially seem to imply a singular city and community, no specific city is mentioned here. While it is tempting to assume that the festival was specific to Hachoni, where To Nanchi and Tan Hikao Nong met, To Nanchi is stated to be a wanderer, so it may also be likely that the Great Exorcism Festival took place in cities across T'u Lung. What Tan Nong would consider the most important thing he learned under To Nanchi was a particular process of creating an enchanted flute, which involved finding and felling a specific stalk of bamboo within a grove never before touched by man, oiling and polishing the resulting staff, and performing an enchanting ceremony wherein appropriate offerings were given and the holes of the flute were burned in only by looking at it. After that, it would take years for Tan Nong to master his enchanted flute, and as of, he still had much to learn.
+
+Years later, Tan Hikao Nong caught the attention of Mei Lung while performing in Karatin and later at Sung Tsi's wedding. Mei Lung, impressed by his musical and arcane talent, eventually sought the Balladeer out, and the two would eventually meet in Shang Stzi while Mei Lung posed as an ambassador and advisor to Ambassador Hing Ti Chin of Shou Lung. After their initial meeting, Tan Nong met up with Mei Lung again at his apartments in the Imperial CityWhile it may be reasonable at first glance to assume that this Imperial City is Wai, especially given the chapter's focus on T'u Lung, the epithet "Imperial City" is used in all other instances to refer to Kuo Te' Lung. Given that Tan Nong and Mei Lung were both known to travel between Shou Lung and T'u Lung, it is thus more likely that they met in Kuo Te' Lung., and the two of them quickly became friends. The two of them would later spend a week together in Wafang, and in their subsequent correspondence, Tan Nong shared information on the history, culture, and inner workings of T'u Lung as well as his own training under Fargh Choi and To Nanchi, which Mei Lung would compile in  into an account of the nation for Elminster.
+
+In, Tan Hikao Nong, who was a top candidate for the post of Court Poet in Shou Lung following the death of the previous appointee a year prior, visited the Shou imperial court. Having learned of a secret relationship between Princess Mei Ling of Shou Lung and a T'u Lung prince, he wrote and performed a fictionalized song about their romance during his time in Kuo Te' Lung. While most of the Court never caught on, the imperial family connected the dots, recalling an incident several months prior in which Mei Ling was kidnapped by the imperial court's enemies and then rescued by a young merchant captain.An extremely similar account is retold in Hall of Heroes; however, there are some inconsistencies between the two versions. For instance, while the T'u Lung prince is named in the T'u Lung chapter of The Eastern Realms as Wai Gada Anku (who is stated in other sources to have been born in 1352 DR, a mere five years before the events in question, contrary to The Eastern Realms (which makes no statement regarding his age other than that he is young but seems to imply he is an adult or at least a teenager)), in Hall of Heroes, a new character, Gisen, is named as the prince in question. Furthermore, a character named Tam Nong Hikong appears in Gisen's backstory blurb and fills the role played by Tan Nong in The Eastern Realms, and while it is very likely that Hikong is intended to be Tan Nong, if this is the case, it is unclear why his name was changed (though it may be a typo, perhaps tracing back to an early draft or synopsis of the unpublished novel Path of Stones, which Gisen was originally created for).
+
+Appendix
+Notes
+
+References
+
+---
+
+## Tanya Brock
+
+Tanya Brock was a human paladin and adventurer of the Weathered Dawn who protected Beckside Castle in Cormyr during the mid-1480s DR.
+
+Description
+Tanya wore a full suit of plate mail.
+
+Personality
+
+Tanya was very orderly and responsible, putting all her efforts into "managing" the ruins for the span of days she spent there and trying to make sure everyone was safe and sound.
+
+History
+
+Around the time of the Shadovar invasion of Wheloon, Vicas served the Weathered Dawn alongside Vicas Oakleaf. While on the road, they stayed a time at the ruins of Beckside Castle, and decided to apply themselves to making it a safe camping spot for travelers on the High Road. While she noted the appearance and disappearance of certain individuals, she did not suspect that they were actually mercenaries working for Thultanthar infiltrating the ruins. The Shadovar and Harpers forces later fought over a Nether Scroll fragment elsewhere in the ruins, while Tanya stood guard at the front of the ruins, keeping an eye on everyone and greeting new visitors.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Tarys
+
+Tarys was a Shadovar wizard of Returned Netheril who commanded a raid on the Old Man's Face in the late 15 century DR.
+
+Description
+Tarys had shoulder-length blond hair, a short beard, and wore a monocle.
+
+Personality
+He possessed a smooth and confident persona and radiated superiority.
+
+Abilities
+
+Tarys was a powerful wizard and had bound the shadow Twilizen to his service. He could also cast  acid fog, black dragon bolt, chain lightning, frost lance, horrid wilting, and Niac's biting cold.
+
+History
+When the Shadovar pursued their stolen Nether Scroll along the High Road, Tarys and his follower Wyle tracked a piece to the Old Man's Face at Tyrluk. Taking their followers and hired mercenaries, Tarys rushed into the village and took over the inn, killing many guests as they searched the premises. Tarys searched the tavern and the cellars, knowing that Oriphaun Huntsilver had left the Scroll piecee nearby, but was unable to find it or his confidante, the bartender William Windsphere. Harper agents sent from Eveningstar caught up shortly after and cut through the Netherese forces, and Tarys did not live long enough to discover that he had walked right past the objective and missed it. William had been quietly hiding in a large box and the Nether Scroll was pinned up in plain sight, disguised as a bar tab.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Tamarkoth
+
+Tamarkoth was a Shadovar wizard of Returned Netheril who pursued the Abyssal Planus Mechanus Nether Scroll in the late 15 century DR.
+
+History
+
+When the Shadovar pursued the Nether Scroll that Oriphaun Huntsilver stole from Wheloon Prison in the mid-1480s DR, they assaulted and took over the Purple Dragons fort of Granwell Keep in the King's Forest. They then spread out over the High Road using hired mercenaries, contesting the Harpers of Rina Belostos for the scattered pieces. Tamarkoth and Azmagol were among those that studied and assembled the pieces, speculating on its function. Although they managed to finish the project, it was followed by the demon Razagnol being summoned and the Harpers arriving to kill everyone.While unidentified in-game, Tamarkoth and Azmagol would be among the Netherese wizards seen in Granwell Keep, and were possibly the pair of wizards responsible for assembling the Scroll and summoning Razagnol.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Tarrae
+
+Tarrae was a drow Grand Matron from the Underdark city of Menzoberranzan, who was active sometime in or before the late 15 century DR.
+
+History
+Tarrae was a cruel and zealous follower of Lolth's, the Mother of All Drow. She believed that her goddess bound all the drow, body and soul, and those unworthy of her were to be tortured and killed. She demanded the drow educate all newcomers to Menzoberranzan on the deity's dorma, rules, and ways by any means. One of her long speeches was recorded by a Seldarine spy and was published in a book form titled On Educating the Faithful. Through it, Grand Matron Tarrae's words reached the Western Heartlands and the city of Baldur's Gate by the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Taraqin Arena
+
+Taraqin Arena was a grand arena in the Imperial City of Shoonach used for public fights and performances.
+
+History
+The arena was used for a great gathering in the, when Qysar Amahl Shoon V pronounced his protection upon the Ilmatari church in conjunction with a magical spectacle of power.
+
+The arena was used in the  for the public duel between Qysar Amahl Shoon VII and King Silvyr Ithal of Tethyr. The followers of both rulers watched in the stands as they fought, only for Shoon to use trickery to kill King Ithal and then have his army ambushed and slaughtered. Though he won that battle, it was avenged by Prince Strohm through the Shoonach Conflagration.
+
+Appendix
+References
+
+---
+
+## Tavnar Kronnak
+
+Tavnar Kronnak was a member of the Gatekeepers in the world of Eberron.
+
+Description
+Jirmisk was a half-orc fellow with slate-gray skin and long black hair.
+
+History
+
+During the Darkening of Faerûn, Gatekeeper Tavnar was one of many who arrived to investigate the Spinner's Prison following the escape of the Spinner of Shadows. They found the Rift Between Worlds, a massive portal to the Demonweb Pits, and struggled to understand its nature while attempting to prevent it from threatening Eberron. Tavnar took the lead in sending a heroic team of bold sorts from Eberron into the Rift—leading to them discovering the Demonweb, Elminster, and the realm of Cormyr.
+
+Appendix
+Notes
+
+External Links
+
+Appearances
+
+References
+
+---
+
+## Tanibur Evs
+
+Inquisitor Tanibur Evs was a servant of the Silver Flame in the world of Eberron.
+
+Description
+Tanibur was a human man with brown skin, brown eyes, and a stubbly chin. He wore a suit of plate mail.
+
+History
+During the Darkening of Faerûn, Inquisitor Tanibur was one of many who came to investigate the Spinner's Prison following the escape of the Spinner of Shadows. They found the Rift Between Worlds, a massive portal to the Demonweb Pits, and struggled to understand its nature while attempting to prevent it from threatening Eberron. Tanibur was justifiably concerned by what creatures might live in Lolth's domain, and worked with Dilea Bromath and Geras Pellim to prepare a response.
+
+Appendix
+Notes
+
+External Links
+
+Appearances
+
+References
+
+---
+
+## Tahmael
+
+Tahmael was a rakshasa of the Lords of Dust in the world of Eberron.
+
+Description
+Tahmael had a normal-seeming human guise that she typically used for manipulating the cult.
+
+Abilities
+In addition to claws and teeth, Tahmael could also cast ball lightning, fear, hold monster, horrid wilting, necrotic ray, Otiluke's freezing sphere, and polar ray.
+
+History
+During the Darkening of Faerûn, Tahmael was a leading figure of the Lords of Dust hideout in Stormreach, dedicated to unearthing the Spinner of Shadows. When the cell's cover was blown by Brother Dectaran and it was assaulted by the Silver Flame's forces, she perished in the battle while tending to a shrine and gaining time for Gnomon.
+
+She was either the proud owner of or unhappy source of a suit of rakshasa hide armor. She also had the fell blade cruel nobility in her possession.
+
+Appendix
+Notes
+
+External Links
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Tarthilmor Aerasumé
+
+Tarthilmor Aerasumé was one of Alustriel Silverhand's many children; specifically, he belonged to the group of her children known as the Tall Ones. He served as a high-ranking member of Silverymoon's Spellguard in the mid-to-late 14 century DR.
+
+Tarthilmor, along with fellow captain Kimika Oniclash, had the full trust of his superior, Jorus Azuremantle, and so possessed an amulet that allowed him to bypass all the Wards of Silverymoon.
+
+Appendix
+References
+
+---
+
+## Tanis Obereck
+
+Tanis Obereck was an adventurer from Ravens Bluff and former Red Wizard in the mid-to-late 14 century DR.
+
+Description
+He had black hair and blue eyes.
+
+Personality
+He was pleasant, tempered, and enjoyed a good joke, though he was somewhat absent-minded in combat.
+
+Abilities
+The evoker's spells were known to include burning hands, magic missile, detect magic, read magic, shield, shocking grasp, spook, ESP, flaming sphere, mirror image, rope trick, and web. He was a brilliant man, with notable grace, and as ornery as wizards came.
+
+Possessions
+Of note, he bore a pair of bracers of defense.
+
+Activities
+By the late 14 century DR, Tanis Obereck had become an adventurer in Ravens Bluff.
+
+Relationships
+Taldar Everwind had become his closest friend, and thought of Crakadan Earthdigger as interesting. He and Akira Iko were acquaintances, but Tanis wanted to be friends. He'd known Serena Worthwood for four years, and was quite taken by Aliana Meriadeth's animal magnetism.
+
+History
+He was raised and trained by his father, a Red Wizard in Thay, who thought he would not have a bright future. As Tanis came to realize his ownmorals were in sharp contrast to those of the people around him, he decided to leave the country; he boarded a ship bound for Sembia, and spent 3 years as a crewman. Then, he got off in Ravens Bluff, where he met Serena Worthwood, and joined her as an adventurer. He had no need to fight another red wizard for at least four years after settling down in Ravens Bluff.
+
+Appendix
+Background
+Tanis Obereck originally appeared in Polyhedron #113, with only one minor difference: no name for the order of evokers where he was trained, which was from a home setting in use by Robert Wiese rather than the Forgotten Realms. These characters were adapted for the Adventurer's Guild version of the Special Delivery module in 1998, and were reused for at least one more module, Legacy of Venom, in 1999.
+
+Appearances
+
+References
+
+---
+
+## Taldar Everwind
+
+Taldar Everwind was an elven swashbuckler and an adventurer from Ravens Bluff in the mid-to-late 14 century DR.
+
+Description
+He was good-looking, with light brown hair and green eyes.
+
+Personality
+He loved taking risks.
+
+Abilities
+His agility was top-notch for a human, and he was quite strong.
+
+Possessions
+He wore gauntlets of dexterity that boosted his agility even further beyond, and fought with a sabre and a dagger. He also had a potion of rainbow hues and a potion of levitation.
+
+Activities
+By the late 14 century DR, he had become an adventurer in Ravens Bluff.
+
+Relationships
+He was the fourth son of Tal Everwind, who led a clan.
+
+Tanis Obereck sometimes scared him, and he considered Crakadan Earthdigger too serious. He viewed Akira Iko as dependable, and was comfortable with Aliana Meriadeth as a friend, though sometimes she reminded him of a fox. He believed he may have been developing deeper feelings for Serena Worthwood.
+
+History
+Taldar had left his home for adventure after a lover spurned him to marry his rival, eventually making it to Ravens Bluff, where he joined up with Serena Worthwood and Tanis Obereck, and then with the others.
+
+He got involved in some Red Wizard intrigues at some point in the early late 14 century DR, thwarting some attempt to take over Ravens Bluff. He was also drawn into the mists of the Demiplane of Dread at some point.
+
+Appendix
+Background
+Taldar Everwind originally appeared in Polyhedron #113, with only minor differences. These characters were adapted for the Adventurer's Guild version of the Special Delivery module in 1998, and were reused for at least one more module, Legacy of Venom, in 1999.
+
+Appearances
+
+References
+
+---
+
+## Tawdry Nymph
+
+The Tawdry Nymph was a festhall in the Central Port of Skullport in the late 14 century DR.
+
+Structure
+The Tawdry Nymph was a one-story building in fair condition. It was notable for the bas-reliefs carved into both its interior and exterior stone walls. The carvings were created by a dwarven patron who, unable to settle a substantial debt, compensated the festhall by decorating its walls. The reliefs depicted numerous local figures, many of them modeled after the festhall's regular patrons, in a series of humorous and occasionally risqué scenes. The work elicited mixed reactions among Skullport's residents, with some feeling insulted by their inclusion and others by their omission. One wall remained unfinished.
+
+Services
+The Tawdry Nymph was modestly priced and maintained an unpretentious atmosphere. Its professional escorts offered services beginning at 1 gp, though many patrons frequented the establishment simply to converse, drink, or participate in copper-ante card games.
+
+Inhabitants
+Circa 1370 DR, the owner of the Tawdry Nymph was Goodmorning Starshine.
+
+Appendix
 References
 
 ---

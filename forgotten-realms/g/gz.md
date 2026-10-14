@@ -4,6 +4,14 @@ _Source: forgottenrealms.fandom.com, CC-BY-SA 3.0, dump 2025-10-22._
 
 ---
 
+## Gzelder Yespar
+
+Gzelder "Yellow Hand" Yespar was a human reformed rogue who lived in Espar, Cormyr as of 1368 DR. He spent his time helping out at the local shrine to Helm, acting as a herald for Lord Hezom.
+
+References
+
+---
+
 ## Gzemnid
 
 Gzemnid was the beholder deity of obscurement and deception and son of the Great Beholder Mother. He was the Underdark god of gases and fogs, sometimes known as the Gas Giant for his mastery of elemental air spells, and renown for his ability to evade and escape.
@@ -76,6 +84,24 @@ Appearances
 References
 
 Connections
+
+---
+
+## G'Zhorb
+
+G'Zhorb, which roughly translated to the All-Seeing Eye in the Beholder language, was a powerful beholder in Undermountain beneath Waterdeep.
+
+History
+G'Zhorb commanded a horde of beholders in Undermountain, but was himself subservient to Halaster Blackcloak, the dungeon's vastly powerful master. Halaster ensured the loyalty of G'Zhorb and his minions by constructing a magical device that contained a tiny space that beholders were unable to see, threatening to unleash the imperceptible space on all of Faerûn. This horrified G'Zhorb, and drove him near insanity, but also ensured he remained a faithful servant of Halaster.
+
+Appendix
+
+Appearances
+ Neverwinter Nights: Infinite Dungeons
+
+References
+
+External Links
 
 ---
 

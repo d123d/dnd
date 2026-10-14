@@ -4,6 +4,208 @@ _Source: forgottenrealms.fandom.com, CC-BY-SA 3.0, dump 2025-10-22._
 
 ---
 
+## Great Dale
+
+The Great Dale was a land in the Unapproachable East of northeast Faerûn.
+
+Government
+It was governed by a druidic hierarchy, under the rule of Nentyarch.
+
+Population
+It was a human land, of some 211,680 inhabitants circa 1372 DR.
+
+History
+The Great Dale was once part of the Narfell Empire and it was originally settled by human folk fleeing the fall of Jhaamdath. Later, the war between Narfell and Raumathar caused the abandonment of the area. In the 1370s DR, it was a frontier for the expanding tendencies of the kingdom of Impiltur.
+
+Geography
+The Great Dale was a large gap between the Forest of Lethyr and the Rawlinswood. This area was created in ancient times by an arm of the Great Glacier. The Dalefolk legends say that a great dragon divided the forest with his breath while others stated that Silvanus and Shaundakul held a contest to decide whether wood or wind would rule this land when Auril the Frostmaiden intervened to set winter over both. One long road crossed the Dale connecting Uthmere with the Cold Road, known by the name "The Great Road" or simply "The Road" (since it was the only major road of the area). The climate was harsh with furious winter winds.
+
+Notable Locations
+The Great Barrow
+Seventy miles away from Uthmere lay the Great Barrow. Stories say that a brutal human tribe inhabited these lands long ago and their god-born leader was buried here, so the place was haunted by restless spirits.
+
+Val-Murthag
+The fortress called Val-Murthag was the center of the demonic cult that ruled the dark empire of Narfell in its final days. By the 14th century DR, it was a collection of ruins considered haunted by the spirits of Nar demonpriests.
+
+Firward Mountains
+The Firward Mountains were the natural boundaries between Narfell, Rashemen, and the Great Dale. In the early 1370s DR, the land was inhabited by a large bugbear tribe called the Horned Skulls. Beside the bugbears, an adventurer might also encounter frost giants, taer clans, and very few shield dwarves living under the peaks. Inside the mountains, demonic trolls creep around the extensive Underdark caverns.
+
+Other Locations
+ Forest of Lethyr
+ Fortress Narder
+ Mauberg's Oak
+ The Mucklestones
+ Yeshelmaar
+ Rawlinswood
+ Dun-Tharos
+ Clymph Tower
+ Tower Threespires
+ Nighthawk Tower
+
+Appendix
+
+Gallery
+
+Appearances
+Video Games
+
+Neverwinter Nights: Tyrants of the Moonsea
+References
+
+Further Reading
+3rd Edition
+
+4th Edition
+
+pl:Wielka Dolina
+FR:Grand-Val
+
+---
+
+## Griffon Knights
+
+The Griffon Knights were a group of fighters responsible for the safety and security of the town of Alamontyr in the Border Kingdoms.
+
+Organization
+The Griffon Knights served Alamontyr's ruler, Shield Duke Bardran Thulmaer. They were known for bearing lances to which they sometimes attached magic wands.
+
+Religion
+The Griffon Knights venerate the Red Knight as their patron deity, after an incident which happened in the mid-14 century DR that they refused to discuss with anybody. A mansion in town was subsequently converted into a small castle and shrine to their deity.
+
+Victories
+When an agent of Zhentil Keep made an attempt to assassinate the Shield Duke, the Griffon Knights dismembered him and the various body parts were sent in packages to different members of the ruling Council of Zhentil Keep.
+
+Badge
+The badge of the Griffon Knights was a full-face silver shield held aloft by two white wings on a dun background.
+
+Appendix
+References
+
+---
+
+## Greengrass
+
+Greengrass was a festival to mark the official first day of spring in the Calendar of Harptos. It occurred annually on a special day between Tarsakh 30 and Mirtul 1. Traditionally, the wealthier people brought out flowers to give to the less wealthy, who either wore them or spread them on the ground to encourage the deities to usher in the summer.While Greengrass is said to be the official start of spring, depictions of the Calendar of Harptos since the 3-edition Forgotten Realms Campaign Setting p. 77 illustrate spring as starting on the Spring Equinox, Ches 19, a full month and a half earlier. In fact, Greengrass occurs in the middle of spring. This is likely due to standard Earth seasons being assumed for the depiction of the calendar, but the earlier established dates for Midsummer, Midwinter, Greengrass, and Highharvestide not fitting the quarters of the year marked by the solstices and equinoxes. It should be noted that Greengrass is the "official" start of spring, not necessarily an actual start of spring. It is possible that the pictorial representations should not be taken literally, that the seasons have slipped from the calendar with climate change, that the Calender of Harptos is geographically specific to Harptos's home of Kaalinth in Tethyr, or the Torilian seasons are understood differently from the four conventional Earth seasons.
+
+On This Day
+Worshipers of Anhur celebrate the Sharpening of the Sword and name the next Chosen of Anhur, ending the month-long tournament.
+Worshipers of Chauntea celebrate a hedonistic fertility festival.
+Worshipers of the dwarven deity Dugmaren Brightmantle spend the morning in thoughtful meditation and the rest of the day at a scholarly symposium.
+Worshipers of Eldath celebrate the Greening by gathering and having a festival.
+Guardians of Gorm Gulthyn gather for ritual salutes, martial weapons displays, chanted prayers, and the offering of weapons used in a defensive action.
+Worshipers of the dwarven deity Haela Brightaxe observe the Time of the Spawning and prepare for the next outpouring of orcs and other creatures that threaten their race.
+Clerics of the orc deity Ilneval observe this day by gathering hordes of orcs to rampage across civilized lands.
+Worshipers of Isis give thanks for her role in the planting of crops.
+Worshipers of Lliira open a holy festival with the Swords Cast Down ritual in which weapons are thrown on the ground with chanting and covered with fresh flowers.
+Worshipers of Loviatar celebrate the Rite of Pain and Purity by dancing in a circle upon broken glass or other sharp objects.
+Followers of Marthammor Duin call this day the Wind and celebrate new discoveries.
+Worshipers of Mielikki observe planting rites and the Wild Ride, when herds of unicorns assemble and allow them to ride bareback through the forest.
+Followers of Milil sing the Call to the Flowers.
+Worshipers of the dwarven deity Sharindlar gather around a natural underground pool to dance and perform secret rituals to the Lady of Life.
+Worshipers of Shiallia celebrate birth on this day, inviting friendly creatures to join in feasting, dancing, and singing.
+Worshipers of Silvanus consider Greengrass holy and often give sacrifice by breaking and burying an object constructed of wood.
+Worshipers of Sune frolic outdoors.
+Worshipers of Talos call for storms and lightning.
+Worshipers of the dwarven deity Vergadain hold a Coin Festival, preceded by a sale of wares in order to maximize their wealth.
+In –2 DR, the Shoon Empire began its transition into the Shoon Imperium when King Amahl Shoon II of Tethyr swore fealty to the Syl-Pasha of Calimshan, Akkabar Shoon the Elder, after nearly eliminating rival Clan Ithal in an 18 month war.
+In 681 DR, in Myth Drannor during the seasonal festival, student of the Seven Wizards Achveult Tattercloak and his consort Tlanchass stood in the Sixstar intersection near Windsong Tower and revealed in dramatic fashion that she was in fact a gold dragon. The couple then departed to the southeast.
+ In 713 DR, a brief, tense peace began in the Weeping War, allowing many to flee Myth Drannor.
+ In 1370 DR, a tower of Piergeiron's Palace is destroyed when Kyriani Agrivar and Laeral Silverhand kill one (or possibly two) of Manshoon's clones who were battling near Piergeiron the Paladinson's bedchamber.
+ In 1370 DR, a young Zhentilar officer named Scyllua Darkhope puts down an insurrection among her peers.
+ In 1370 DR, the emperor of As'arem, Eadar Ri'ola'con, is poisoned after 125 years on the throne, precipitating a period of political infighting among the shalarin kingdoms.
+ In 1373 DR, New Tilverton was founded by Cormyrean citizens a few miles away from the shadowy crater left behind by the destruction of old Tilverton.
+ In 1488 DR, the spring equinox occurs on this day as a result of the seasons and heavens being thrown out of synch as the Second Sundering ends.
+
+Appendix
+Notes
+
+See Also
+ Feast of the Moon
+ Highharvestide
+ Midwinter
+ Midsummer
+ Shieldmeet
+ Spring Equinox
+ Autumn Equinox
+ Summer Solstice
+ Winter Solstice
+Appearances
+
+References
+
+---
+
+## Grass
+
+Grass was plentiful in many varieties in the Forgotten Realms.
+
+Varieties
+Barley
+Barley was a type of grass cultivated for a cereal grain.
+Bluegrass
+Bluegrass grew in the midwood and starwood areas of the forest of Cormanthor.
+
+Chauntea's Token
+Chauntea's Token was a unique variety of grass that was sacred to the goddess Chauntea.
+
+Crabgrass
+Crabgrass grew in the rimwood area of the forest of Cormanthor and in the storm giant aerie atop Lake Woe mountain.
+
+Fluffgrass
+Fluffgrass grew in the more fertile areas of the Serpent Hills in clumps. They could grow as tall as  and late into the spring season they would produce feathery white flowers.
+
+Grab grass
+Grab grass was a species of grass that typically grew in the Feywild, but could also be found in areas on the Prime Material where the Feywild's magic filtered through.
+
+Peppergrass
+Peppergrass grew in the rimwood area of the forest of Cormanthor. In the past, a blaze caused by fyrefly activity incinerated all of the peppergrass east of Hap.
+
+Quack
+Quack grass grew in the rimwood area of the forest of Cormanthor. It has become an alternative food source for the fyreflies.
+
+Spidergrass
+Spidergrass grew out of tiny cracks in rock walls throughout the Serpent Hills, spreading tendrils across several feet. These tendrils would often dig deep into cracks and grow their own satellite plants, making it not uncommon for a patch of spidergrass to cover several s of territory.
+
+Thrusk
+Thrusk was a very tough variety of wild grass. Much like a fern this type of grass grew in tufts from long, underground roots, which allowed it to survive high temperatures and long droughts. It had a ropy, bitter taste to it that was not unlike licorice. Horses, livestock, and other pack animals were known to graze upon it. Both the leaves and root of this variety of grass could be boiled to brew a drink of the same name.
+
+Wiregrass
+Wiregrass grew in clumps on hillsides in the rimwood area of the forest of Cormanthor.
+
+Zebra
+Zebra grass grew in the starwood area of the forest of Cormanthor.
+
+Appendix
+
+External Links
+
+References
+
+---
+
+## Green elf (disambiguation)
+
+Green elf may refer to:
+
+ Green elf (eladrin), the ancestors of the elven races.
+ Green elf, the common name for wild elves.
+
+---
+
+## Graal
+
+Graal was an orog with an enchanted sword of the mid–14 century DR. He worked with Fhazail and the Cult of the Dragon for a time.
+
+Appendix
+
+Appearances
+Novels
+Temple Hill
+
+References
+
+---
+
 ## Green dragon
 
 Green dragons, also known as forest dragons or D. Chlorinous Nauseous Respiratorus to scholars, were a variety of chromatic dragons known for their manipulative and self-serving nature. They were considered master conspirators that reveled in corrupting lesser creatures.
@@ -445,6 +647,218 @@ es:Gruumsh
 
 ---
 
+## Grumbar
+
+Grumbar, known as the goddess Etugen in the Hordelands, and as Grome among the duergar of Zakhara,  was the elemental embodiment of earth in the Realms. He was one of the four elemental deities worshiped in Faerûn, also known as Elemental Lords, those primordials that remained on Toril when it was separated from Abeir. Nonetheless, the Earthlord retained worshipers and had power equivalent to that of a god.
+
+Description
+He appeared as an enormous earth elemental with red eyes that glimmered like rubies.
+
+To those who sought an audience with him during their visit to the Plane of Earth, Grumbar appeared in a pocket of air—on the surface of a great wall, where his face, unique to each visitor, would materialize. Presumably, for visitors from other elemental planes, there were relevant elemental pockets.
+
+Personality
+Grumbar was a quiet and resolute being, who resisted change more so than other divine powers. He bore the weight of secret knowledge and protected the great riches that were found within the earth.
+
+Visitors to the Plane of Earth who sought to negotiate with Grumbar had to be prepared, for he did not bargain. They either had to accept his terms or reject them entirely—never to return.
+
+Divine Realm
+Under the Great Wheel and World Tree cosmologies, Grumbar dwelled within the Great Mountain in the Elemental Plane of Earth.  When that plane fell into the Elemental Chaos following the cataclysm of the Spellplague, Grumbar formed a new domain for himself, called Root Hold.
+
+Relationships
+Grumbar had ties with other deities of elemental earth, including Geb, Garl Glittergold, Dumathoin, Laduguer, and Urogalan, but these were loose at best. Grumbar was opposed to Akadi and her flimsy and ever-changing ways. In the battle of the archomentals of Sunnis and Ogrémoch, Grumbar secretly balanced one against the other, remaining the most powerful ruler of elemental earth himself.
+
+Ogrémoch was actually one of Grumbar's children, as was his twin, Entemoch.
+
+Grumbar and orcish deity Luthic were involved in a secret romance, unbeknownst to the god Gruumsh.
+
+Worshipers
+
+Like the other elemental deities, with the exception of Kossuth, Grumbar had a minimum of followers in Faerûn. He cared little for most of these worshipers.
+
+The church of Grumbar was organized into small sects known as Holds, each comprising three groups of seven members, divided by their individual skillsets, each supported by a number of lay people. Those who followed the Earthlord could often be found in public preaching against evils of boarding ships and setting sail to uncharted lands, preferring exploration on the continent of Faerûn.
+
+In Faerûn, there were notable Grumbarryn temples found in various mountain ranges, including the Spine of the World, the Giantspires, and the Muaraghal Mountains. He was among the deities worshiped by the continents population of earth genasi. Among druids who honored the First Circle, Grumbar was not merely a god of earth but an embodiment of the rolling hills themselves and of the fertility of soil.
+
+Among the Tuigan people the Hordelands, Grumbar was known by its many nomadic tribe as a goddess called Etugen. They believed she was the source of most blessings their people received. Such as good pastures, the growth of their herds, and protection against some diseases.
+
+On the continent of Zakhara, Grumbar was called one of the cold gods of the elements. As those were seen as uncaring for human affairs, they were considered opposed to the Land of Fate's pervasive culture of Enlightenment. Only a few Zakharans were willing to worship a cold god in order to gain power.> Some yak-men, ever opposed to Enlightenment, helped in the administration of Grumbar's realm on the Elemental Plane of Earth.>
+
+In Kara-Tur, Grumbar had another great place of worship found in the Wu Pi Te Shao Mountains.
+
+An altar existed within Grumbar's Temple in the subterranean levels of Sadrach's Splinter, alongside other Elemental Lords' temples within other parts the spire, created by the elemental magic wizard Sadrach. In 1486 DR, the Earthlord received the Eye of Gruumsh on this altar.
+
+Orders
+ Disciples of the Changeless Face, stoic monks who protected Grumbarryn knowledge.
+ Sardonyx Knights, stalwart crusaders who protected Grumbar's temples.
+
+History
+As of the, Grumbar had made only four known appearances on Toril in the annals of recorded history. The first occasion of his divine presence being known was during the creation of the Great Rift in south Faerûn.
+
+During the events of the Second Sundering, in the late 15 century DR. Luthic presented Grumbar with a gift, the Eye of Gruumsh, to reaffirm her love for Grumbar, in the wake of lies and doubts spread by the goddess Shar.
+
+Appendix
+
+Gallery
+
+Appearances
+ Novels
+
+ The Sentinel
+ Video Games
+
+ Descent to Undermountain
+
+Behind The Scenes
+Ed Greenwood initially used Grome, one of Michael Moorcock's Elemental gods as found in the original Deities & Demigods 1st edition, as the elemental lord of earth for his home campaign set in the Forgotten Realms. As he stated in Dragon magazine 54, the elemental gods "may later be replaced in (his) universe by 'official' AD&D beings as these are published".
+
+Notes
+
+References
+
+Connections
+
+---
+
+## Greycloaks
+
+The Greycloaks were an elven organization based in Evereska for at least 250 years, from the 13 to the late 15 centuries DR. They were likely associated with the Greycloak Hills, which encircled and protected the elven fortress home.
+
+History
+In the, the Greycloaks forged a magical broadsword; such heavy blades were a rare sight among the elves, so it was quite unusual. It came to be wielded by Erevain Blacksheaf, an elf adventurer who traveled to Icewind Dale and died there in the .
+
+When the iron crisis afflicted the Sword Coast in the, the Greycloaks sent their agent Xan to investigate the situation.
+
+Notable Members
+ Xan, a wizard and companion of Abdel Adrian.
+ Zenith Feur'sel, a cleric of the light domain who was slain by cultists of the Absolute.
+
+Appendix
+Background
+It is unclear who or what the Greycloaks are. They are only briefly mentioned in the Baldur's Gate and Icewind Dale games, where they are implied to be an organization based in Evereska. However, in the Realms, the Greycloaks are simply the hills around Evereska. Evereska has an outpost in the Greycloaks, named Greyhome, where the elves wear grey cloaks, so it is possible the elves dwelling here are also called Greycloaks. The creation of Erevain's broad sword significantly predates the formal annexation of the Greycloak Hills in 1335 DR, however.
+
+Appearances
+
+References
+
+---
+
+## Great Treasures of Evermeet
+
+The three Great Treasures of Evermeet were some of the most highly prized items created by elves, the first two of which were possessed by Queen Amlaruil Moonflower of Evermeet.
+
+ Tahlshara  An extremely potent two-handed sword and the life's work of elven armourer Kythaela Durothil.
+ Chalice of Labelas  A constantly full receptacle with great powers of healing.
+ Crown of the Sun  A simple silver circlet with gems and a gold leaf at the front.
+
+References
+
+---
+
+## Gray ooze
+
+A gray ooze was a type of ooze, resembling wet stone or rock.
+
+Description
+It was a thick puddle of gray sludge, roughly  thick,  wide, and up to  across, that closely resembled wet stone or an amorphous rock formation.
+
+Behavior
+When one of these creatures reached an exceptionally large capacity they were known to develop mildly greater intellect.
+
+Abilities
+Gray oozes could corrode metal at a rate comparable to that of a black pudding, though its acids could not eat through stone or wood. They possessed an innate immunity to magic, severe heat, and cold. However, they were vulnerable to lightning. They also had the ability of Blindsight.
+
+When one of these creatures reached an exceptionally large they would develop latent psionics, allowing them to unleash a psychic crush, but in return be left vulnerable to retaliation. They were only known to unleash this ability whenever a creature within  of them used psionic powers. It was suggested that gray oozes developed these psionic abilities having evolved to live near Mind flayers.
+
+Combat
+Gray oozes were known to attack in groups, dissolving enemies and absorbing their bones as slime to grow. It attacked by striking until its prey was either dead or unconscious, moving on top of them afterwards to digest them from within.  Gray oozes were particularly feared for the fact that they were transparent. This made them difficult to detect while they were still or moving slowly.
+
+Acidic secretions of the gray ooze corroded metal at an alarming rate; as a result, blacksmiths also sometimes used jarred gray oozes to meld ore into the right shape.
+
+Notable Gray Oozes
+ White Maw, a massive and abnormally intelligent gray ooze that lived in the Doomvault in 1486 DR.
+
+Ecology
+Gray oozes reproduced by breaking small droplets off of them after a meal, called 'budding', which later grew into gray oozes themselves.
+Habitats
+Gray oozes were known to be found in subterranean areas, such as caverns and dungeons. They were mindless scavengers who dragged themselves around caves or sewers, while absorbing and digesting whatever they came across. Unlike other oozes, the gray variety couldn't move on ceilings or walls, hence it was left to slide its way along subterranean floors.
+
+In the Abyss, gray oozes could be found in Shedaklah, the Slime Pits, 222nd layer of the Abyss.
+
+Appendix
+
+Appearances
+
+Further Reading
+
+References
+
+Connections
+
+---
+
+## Grayth Holmfast
+
+Grayth Holmfast was a human priest of Lathander and a member of the Company of the White Star. His squire was Brant Rethalshield. He lived in Waterdeep.
+
+Description
+Grayth had silvery-gray hair (once dark) in a close-cropped fringe with a receding hairline and a gray goatee. He was of lean build, although he used to be athletic. He was tall with square shoulders. He spoke with a deep, gravelly voice.
+
+Relatives
+Grayth was married for a time, although was no longer married as of Alturiak, 1374 DR. His two sons of ten and seven years resided with their mother.
+
+Equipment
+Grayth wore a suit of light gold mail underneath a white coat with the sunrise symbol of Lathander. He carried a broadsword.
+
+History
+Grayth took part in King Azoun's crusade against the Tuigan Horde in Thesk.
+
+On Tarsakh 7, 1374 DR, Grayth was stabbed in the neck by Nurthel Floshin in retribution for Araevin Teshurr's refusal to cooperate with Sarya Dlardrageth.
+
+References
+
+---
+
+## Grove of Corellon
+
+The Grove of Corellon (also Corellon's Grove) was a place containing the greatest of Evermeet's temples to the deity Corellon Larethian, as well as shrines to many of the other Seldarine.
+
+Geography
+The grove was located south of the village of Elion, in the middle northern part of the island.
+
+References
+
+FR:Bosquet de Corellon
+
+---
+
+## Grimlight
+
+Grimlight was a behir who lived in a cave near a gorge situated near the Cold Vale. He was a large, clever and vicious behir, well known for his tastes for dwarf flesh and gold.
+
+It was defeated on Tarsakh 6, 1374 DR, by the reformed Company of the White Star when they entered the cave looking for a telkiira.
+
+Appendix
+
+References
+
+---
+
+## Greshrukk
+
+Greshrukk, or Red Eye, was an old red dragon turned into a disembodied dracolich.
+
+History
+Greshrukk was to be the nascent Berduskan Dragon Cult's second attempt at creating a dracolich, at the request of Shhuusshuru. When they first attempted to transform him into a night dragon however, the attempt was unsuccessful, as Harpers attacked just as the ceremony was being completed and slew Red Eye.
+
+However, Red Eye's spirit was not transferred into a body as planned, but was believed to reside within his intended phylactery, a glassteeled ruby set into the pommel of a magic longsword named Dragonstooth, which was lost in the fighting that interrupted his transformation. Both the Harpers and the Cult sought the weapon by 1370 DR.
+
+Eventually, a band of adventurers came across the sword. The Cult got their hands on the adventurers but Greshrukk was not successfully transformed after the ensuing battle and was still trapped in the sword's pommel.
+
+Appendix
+References
+
+---
+
 ## Gromph Baenre
 
 Gromph Baenre was a drow and the Archmage of Menzoberranzan, as well as a very capable diviner. He was also the Master of Sorcere, the arcane school, and the eldest son of Matron Mother Yvonnel Baenre, which made him the most powerful male in the city.
@@ -641,6 +1055,182 @@ Connections
 
 ---
 
+## Griffon tribe
+
+The Griffon tribe was a Uthgardt barbarians in the North. Around 1370 DR, they were led by the charismatic chief Kralgar Bonesnapper. Under his leadership, the tribe strove toward many greater accomplishments, making them among the most powerful of the Uthgardt.
+
+History
+In 1372 DR, the Griffon ancestral mound was Shining White.
+
+Goals
+They declared war on the cities of the North, with their eventual goal being the conquest and acquisition of one of the region's cities. Scattered, un-allied clans that typically sought benefits from these cities often preferred to join the Griffon tribe, increasing their ranks dramatically, so much so that the Griffon's Nest, the tribe's main encampment, rivaled even some of the smaller cities of the north.
+
+Relationships
+Despite the fact they were perpetually at war, the tribe welcomed outsiders, considering all possible potential allies in their quest. Among these allies were orcs that were hungry for plunder, wizards who held personal grudges against particular city-dwellers, and agents of distant empires seeking chaos in the region for one reason or another.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Grand Ride
+
+The Grand Ride was the name of the road that ran from Westgate southeast to the town of Reddansyr along the Dragon Coast.
+
+Appendix
+References
+
+---
+
+## Grandfather Tree
+
+The Grandfather Tree was an arakhor, an elder form of treant, which appeared as a monstrously large, gnarled oak tree located deep in the heart of the High Forest.
+
+Description
+Grandfather Tree stood over  tall and had a base measuring  in diameter. Around the tree were two rings of raised earth. The innermost ring had four normal-sized oak trees, healthy and mature, growing out of it. These trees marked the quarters around its base and acted as monolithic boundary marks for the inner cairn.
+
+Beneath the outermost ring the bones of long-dead Uthgardt barbarians lay buried, most of them belonging to members of the Tree Ghost tribe. Before the Tree Ghosts settled near the tree there were a number of totem poles around it that had belonged to the Blue Bear tribe.
+
+Abilities
+Grandfather Tree had many natural and magical wards protecting it from evil.
+
+The effects of these wards included:
+ Negating any detection or location magics trained on anyone within a  radius of its branches.
+ Negating any use of teleporting or gating magic within a  of the tree's central trunk, but only if the caster's intent was to get closer to the tree.
+ Those who attempted to heal beneath its great bough, whether through magical or natural means, would do so twice as fast if they were protectors of the tree or worshipers of forest deities. In the years following 1370 DR, this effect seemed to change. Now, creatures tasked with protecting the tree gained the effect of a bless spell, while those who finished a long rest beneath it gained the benefit of greater restoration.
+ Finally, the wards would attempt to dissuade individuals of evil alignments from getting closer to the tree by means of bad omens.
+
+The tree was also able to manifest itself as guardian spirits in times of need, which the Uthgardt referred to as "tree ghosts." They were similar to a dryad or hamadryad, though their appearance varied. They were often noted as having a mixture of elven, human, korred, and satyr characteristics. They could assume either a corporeal or non-corporeal form and were as powerful as an archdruid. If destroyed these tree ghosts vanished, leaving behind only a puddle of sap.
+
+Relationships
+The Grandfather Tree was considered hallowed ground to both the barbarian tribes of the north and other inhabitants of the High Forest, such as satyrs and wood elves. The tree was also considered sacred to a number of forest spirits, such as dryads and treants, and a number of deities. These deities included Eldath, Mielikki, Rillifane Rallathil, and Silvanus.
+
+History
+This arakhor was summoned in  by the gold elves of Aryvandaar to guard the site, after they had discovered the Hall of Mists, which thereafter laid beneath its roots.
+
+An Uthgardt tribe, the Blue Bears, also considered the Grandfather Tree sacred and the site of their ancestral mound. In the, during one of their annual Runemeets the Grandfather Tree tree inexplicably burst into flames. However, it and the forest were somehow left unharmed. Noticing the strangeness of this phenomenon, the tribe's then-shaman began to cut the sole low-hanging branch untouched by flame. As he did so a shadowy male figure garbed in green — a tree ghost — was said to have emerged from the branch and fled into the forest, a trail of bear prints left in his wake.
+
+Sometime after 1311 DR, the Blue Bears were banished by the tree's guardian spirits after becoming corrupted by Tanta Hagara, an evil annis who coveted the magic artifacts within the Hall of Mists and had became the tribe's shaman in 1311 DR in an effort to get closer to it. A significant number of Blue Bear tribesmen grew to reject the annis and splintered off into their own tribe, the Tree Ghosts, and both tribes would devote themselves to searching for their lost and abandoned ancestral mound.
+
+In the, Mintiper Moonsilver and his companions discovered the Grandfather Tree, wherein they discovered the fabled Spear of Morgur and then ventured down into the Hall of Mists. He would go on to write an account of his discovery in a narrative epic titled Tree Ghosts, releasing it in 1344 DR.
+
+With the help of their tribe's oral history and clues to the tree's location in Mintiper's Tree Ghosts, the crippled shaman Chungred Ghostheart led the Tree Ghosts tribe to rediscover Grandfather Tree on the day of Shieldmeet, in the . They went on to establish a camp close by it, which was given backing by Alustriel and aided by several green elves. A few months later the tribe held their first Runemeet in generations and the chieftain, Gunthar Longwood, forged alliances with the forest's various inhabitants, including the elves, treants, satyrs, and dryads.
+
+Over time, members of various other Uthgardt tribes would find their way to the Grandfather Tree and gain some measure of enlightenment. This would lead them to forsaking their tribal allegiances and choose to live among the Tree Ghosts as pledged protectors of the tree. At some point in time a shaman of the Tree Ghosts went mad and wandered into the innermost chamber of Grandfather Tree's root network. While there he partially buried a large electrum nose-ring, formerly belonging to a hill giant chief.
+
+At some point after 1486 DR, the Red Tiger tribe began searching for Grandfather Tree in hopes of laying claim to it themselves.
+
+Appendix
+Appearances
+Adventures
+Storm King's Thunder
+Novels
+Son of Thunder
+
+Further Reading
+
+References
+
+FR:Grand-Père Arbre
+
+---
+
+## Greenstone
+
+Greenstone was the Faerûnian name for chlorastrolite, a gray-green variety of pumpellyite.
+
+Description
+These ornamental stones were soft and usually cut cabochon or tumbled and polished. High quality greenstones could take on a glassy finish and such stones were sometimes called chlorastras. Greenstones were found in solidified lava flows, in nodules of up to three quarters of an inch (two centimeters) in diameter. Exceptionally large specimens were made into greenstone amulets. Greenstones were plentiful and easy to work with so a fair amount of fraudulent amulets were created and enchanted with Nystul's magic aura. A typical stone had a base value of 10 gp.
+
+Powers
+Flawed stones and those too small to be useful were crushed to powder and used as a material component in casting abjuration-type spells that protected the mind. However, certain spells were ruined when this gem was added, making them completely ineffectual.
+
+This gemstone was one of the "nine secrets"—minerals that could be enchanted to make an ioun stone.
+
+Appendix
+Gallery
+
+External links
+
+References
+
+---
+
+## Griss'tok
+
+King Griss'tok was the ruler of Surkh. He was known for only speaking in Draconic.
+
+References
+
+FR:Griss'tok
+
+---
+
+## Gromnir Il-Khan
+
+Gromnir Il-Khan was a half-orc Bhaalspawn who briefly ruled Saradush while the city was under siege by Yaga-Shura.
+
+Possessions
+Gromnir wielded two enchanted morning stars in combat, one of which was the Ice Star.
+
+History
+Gromnir and his garrison of soldiers had been brought into the city by Melissan along with other Bhaalspawn, ostensibly to keep them safe. When Yaga-Shura besieged the city in an effort to destroy all the Bhaalspawn within, Gromnir locked himself up in the palace with his closest followers, and while the local militia fought against the invaders, his men were content to bully and exploit the town's populace.
+
+Gromnir himself was seemingly paranoid about Melissan, thinking she wanted to "turn Bhaalspawn against Bhaalspawn until all are dead." He turned out to be right, though few others would have suspected it. Ultimately, he was killed by Gorion's Ward at her bidding.
+
+Appendix
+Notes
+
+Appearances
+Video games
+Baldur's Gate II: Throne of Bhaal
+External links
+
+References
+
+---
+
+## Gray Hand enforcer
+
+Gray Hand enforcers were highly-trained elite members of the Gray Hands, later referred to as Force Grey, the military strike force of Waterdeep. They upheld their reputation as fearless champions of the city with heroic fighting and fervent devotion to the City of Splendors.
+
+Culture
+Along with the other members of the Gray Hands, enforcers served directly under the Lords of Waterdeep. They were entrusted with the protection of their home city. Their unwavering loyalty was known all throughout the streets of Waterdeep.
+
+These great fighters were famous for their heroic toughness and notorious for their gruff and informal demeanor. Enforcers did not have the patience to demonstrate any subtlety or mercy in battle.
+
+Activities
+The Lords of Waterdeep only deployed the Gray Hands when the City Guard or City Watch could not handle a given threat. The enforcers reputation was such that they knew they never had to worry about the collateral damage they cause, so long as they annihilated the city's foes.
+
+Possessions
+Like their comrades in arms, each of the Gray Hand's enforcers were given a small token with the symbol of their fighting group. This was a status symbol in Waterdeep, allowing them to act without impunity, save for intervention from a magistrate or civilar of the City Guard or City Watch, or the Masked Lords themselves.
+
+The enforcers were granted the full resources of the famous Waterdhavian treasury. They were outfitted with enchanted weapons and armor by the Watchful Order, albeit at a personal cost of gold.
+
+Abilities
+While in the city, or up to  away, Gray Hand enforcers were able to periodically infuse their attacks with power drawn from Alghairon's dragonward.
+
+Over time, they developed an inherent resistance to magical spells.
+
+The more experienced enforcers of the Gray Hands were granted a boon by the city's Lords, which allowed them to heal their own wounds.
+
+Members
+Gray Hand enforcers were chosen for their combat prowess, both in how they could eradicate their opponents and endure assaults while they protected others.
+
+Notable Gray Hand Enforcers
+ Harshnag the Grim, the famous frost giant who lived on Mount Sar.
+ Jardwim, the leader of the Gray Hands circa 1372 DR.
+
+Appendix
+See also
+ Gray Hands
+
+References
+
+---
+
 ## Great Bhaerynden
 
 Great Bhaerynden, also referred to by the local gold dwarves as the Deepwilds, Deep Lands or simply the Deeps,Although the terms "Great Bhaerynden" and "Deep Lands" are never explicitly stated to be synonymous, the description of the latter in Dwarves Deep corresponds to the same geographic area. It is described as being "...east of the Shining Sea and south of the Sea of Fallen Stars" and "...fan out beneath the Shaar for many thousands of miles". Furthermore, it is similar to "Deepwilds", the dwarven name for Great Bhaerynden given in Forgotten Realms Campaign Setting p. 192 and Shining South p. 160. And both sources state that the Deepfall and Wyverncaves are located in Great Bhaerynden, whereas both were previously stated in Dwarves Deep as being part of the Deep Land. was a domain of the Underdark located in the south-central region of Faerûn beneath the vast plains of Shaar.
@@ -720,6 +1310,822 @@ Appearances
 References
 
 FR:Profondeurs sauvages
+
+---
+
+## Great Vale
+
+The Great Vale, also known as Asanibis in the Mulhorandi language, was considered the breadbasket of the nation of Mulhorand. It included the lands that lie between the Dragonsword Mountains and the Menesankh.
+
+Geography
+The area that made up the Great Vale accounted for the majority of Mulhorand's farmland. The region was heavily irrigated, and the annual flooding of the River of Spears provided the soil with an infusion of sediment on a regular basis.
+
+History
+Attacks by monsters in this region increased over the course of 1358 DR, leading citizenry to demand that the land be cleared of such dangers.
+
+Inhabitants
+The population of the Great Vale was composed primarily of humans. The majority of these individuals made their homes in the towns of Surbroar, Klondor, Ulzel, and Mishtan, though a fair number resided at the farms of the region. Rumors also indicated that intelligent storms known as Skriaxit may have once been found in the area around Klondor.
+
+Places of Interest
+ Land of the Dead During the flood season slaves and freemen constructed tombs in this region, located near the town of Mishtan.
+ Mystic Cornucopia The preeminent temple of Isis in Mulhorand.
+
+Appendix
+References
+
+---
+
+## Grimgnaw
+
+Grimgnaw was a dwarven monk and member of the Monks of the Long Death, an evil monastic order that worshiped the very essence of death, which was personified as the "Silent Lord," and sought to bring as many living beings to death as possible.
+
+History
+He was from Clan Battlehammer but left Mithral Hall to pursue initiation into the Order of the Long Death. Akin to the cult, Grimgnaw had a deep, morbid fascination with death and dying and detested undead, as he believed undeath to be a means of escaping a natural death.
+
+In Neverwinter during the Wailing Death in 1372 DR, Grimgnaw was available for hire as a henchman to the Hero of Neverwinter.
+
+Later, Grimgnaw was encountered by Drogan Droganson's pupil in Cania. It was said that after the Hero of Neverwinter defeated Morag, Grimgnaw had mysteriously vanished (and, due to his presence in Cania, had apparently died in an unknown circumstance). Grimgnaw said that as Mephistopheles had abandoned Cania, it was necessary for it to have a new ruler, and proclaimed himself this ruler. He was accompanied by several companions, including Maugrim and Balpheron (a lich, which was ironic as Grimnaw was reputed to despise undead in any form), as well as a minotaur named Koth Uth Kalm (which had been killed by Lord Nasher Alagondar to avenge his murdered wife and child) - all of whom supported his claim to leadership of Cania. Believing that the hero posed a threat to his rule, Grimgnaw and his companions attacked them, forcing the hero to defeat them.
+
+Appendix
+Appearances
+
+References
+
+External Links
+
+Connections
+
+---
+
+## Greypeak Mountains
+
+The Greypeak Mountains, also called simply Greypeaks or Gray Peaks, was a rugged and desolate mountain range in the eastern end of the Savage Frontier in the North. The perilous peaks were famous for being exceptionally hard to traverse, home to many fearsome beasts, monstrous humanoids, and even aberrant beings that inspired terror in wary travelers. For all their danger, the Greypeaks once housed great deposits of mineral wealth, much if not all of which was recovered by men during the Golden Age of Humanity.
+
+Description
+Paths and trails across the range's mountainsides were quite precarious, appearing as little more than rocky shelves barely wide enough for man or steed.
+
+The range of peaks formed a massive bowl of sorts that encircled what could be described as a massive bog-forest. Rather than forming a freshwater body within the ring of mountains, water mixed with eroded mountainside to form an morass of wet earth and wavering trees that appeared to float within the sinking ground.
+
+Climate
+The weather was generally pretty poor throughout the mountains. The caps of the mountains were covered in snow and ice; freezing rain falling down the eastern slopes of the Greypeaks formed the Frozen Sea region of western Anauroch.
+
+Geography
+The mountains were bordered by the Marsh of Chelimber and the Forgotten Forest to the south, the Lonely Moor and Fallen Lands to the east and northeast respectively, the Gray Vale and Delimbiyr Vale to the west and southwest, and the Backlands of the Heartlands to the south.
+
+Geographic Features
+Back during the Days of Thunder, the Narrow Seas ran along the mountains' eastern slopes. As of the Present Age, two rivers emerged from the Greypeak Mountains: the Grayflow in the south and the Loagrann (from three tributaries) in the north.
+
+Deep within the mounts rest the Realm of Stone and Shadow, a network of caverns and subterranean passageways dug out by dwarves from an ages-old kingdom.
+
+The summit of Mount Hlim was located among the southern peaks of the mountains.
+
+History
+During the Age of the Proud Peoples, the Greypeak Mountains were home to the Ammarindar kingdom of dwarves. The dwarven realm thrived for some time, until it was abandoned rather abruptly in the 9 century DR.
+
+The people of the town of Llorkh once mined for iron and silver in the Greypeaks. Their shallow tunnels riddled the mountains north and east of the town. These were old and almost worked-out, their lodes nearly exhausted, by the mid–14th century DR, but some miners still persisted in working there. After the takeover of the town the following year, the Lord's Men commandeered three worked-out mine tunnels near Llorkh to use for storage. It was told that monsters made their lairs in several other tunnels, making them hazardous.
+
+By the, a garrison of thirty Lord's Men from Llorkh stood guard at Dawn Pass. They remained there through to at least the next twelve years, aided by a hired beholder from Dekanter, together with its gnoll minions.
+
+A decade later in the, many goblins were driven from their homes in the mountains by the horrific acts taken by the Beast Lord in Dekanter. They went fleeing for settlements near the mountains, such as Parnast to the west.
+
+As of the late 15 century DR, the mountains were rumored to hold caches of treasure stashed away by the Cult of the Dragon.
+
+Notable Locations
+Paths & Trails
+ Dawn Pass Trail, the precarious trail that crossed the Graypeak Mountains through Dawn Pass, that was preferred by Zhentarim caravans. It was protected by a nefarious Zhent-allied beholder and its gnoll minions.
+ Bleached Bones Pass, a less precarious path through the mountains further south that once connected an ancient Netherese city with the great elven realm of Illefarn.
+
+Landmarks
+ Hunting lodge, an old stone-and-wood mountain home that was used by the Cult of the Dragon in the late 15 century.
+ Seshrentor, a tower that stood in the Greypeaks,  north-northeast of Llorkh.
+ Temple to Annam, an ancient place of worship built upon the highest of the mountains, in honor of Annam All-Father, patriarch of the giant pantheon.
+ Vale of Whispers, a shrine of Shar that was formed within a secluded cave in the mountains.
+
+Settlements
+ Deadstone Cleft, the canyon home of a stone giant tribe that believed it sacred to their god Skoraeus Stonebones.
+ Dekanter, the ruined mines of ancient Netheril that became the site of an arcane laboratory, and eventually the domain of the horrifying Beast Lord.
+ Parnast, the small village set at the base of the mountains along the Dawn Pass Trail.
+ Thousand Faces, another stone giant settlement; this one having been wiped out by beholders.
+ Xonthal's Tower, a small settlement built around its namesake tower, at the base of the Mount Hilp along the southern peaks of the range.
+ White Fate, a colony of beholders was located in a valley in the mountains somewhere south east of Llorkh.>
+
+Inhabitants
+In the 14th century DR, many monsters inhabited the range including goblins that dwelt in keeps, along with their allied barghest chieftains that commanded large packs of worgs, orcs, galeb duhr, a hive of beholders, and many young dragons, including at least one family of red dragons.
+
+The easternmost peaks of the mountains were said to house the greatest known population of griffons in all the Realms. Giant owls were also known to make their nests within the tallest of the Greypeak's mountains.
+
+The Greypeaks were named after the grey-skinned stone giants that lived within and amongst the mountains. While they were seen as "partly civilized" to outsiders, having enough care not to openly assault travelers that merely passed by, they in fact had a rich culture centered around strongly-held spiritual beliefs. Cloud giant castles were known to float over the Greypeaks, especially in the skies above the eastern peaks.
+
+Notable Inhabitants
+ Draunn, the baleful earth primordial trapped deep within the mountains that was worshiped by the giants of Deadstone Cleft.
+ Garrathmaw, the fearsome gray dracolich.
+ Malaeragoth, the sapphire dragon that laired in Realm of Stone and Shadow in the Underdark beneath the Greypeaks.
+ Zorkh, a mute stone giant that lived a solitary life tending goats.
+
+Appendix
+Appearances
+
+References
+
+FR:Pics gris
+
+---
+
+## Great Raven Pueblo
+
+Great Raven Pueblo was a human settlement in the Pasocada Basin in Maztica.
+
+Geography
+The Great Raven Pueblo was located on the north shore of the Pasocada River at the Raven Falls. Just north of it rose the sheer walls of Mesa Bovara. A few miles downriver from it was the Metahel settlement of Lomaraj. Stairs were carved from the Pueblo to the bottom of the cliff beside the falls, marking the border between the Azuposi and Metahel territories.
+Inhabitants
+The Great Raven Pueblo was an Azuposi settlement with a population of around 900 people. Much of the trade with the Metahel people flowed through it.
+Appendix
+
+References
+
+---
+
+## Growling Falls
+
+The Growling Falls was a 200-foot (60-meter) tall waterfall in the Pasocada Basin. The noise it made was believed to be the growling of a monstrous bear fiend imprisoned there. Because the bear was the child of a god who had assumed an animal form, it could not be killed. It once threatened the land until it was defeated by a hero that the Azuposi called Hinchapa and the Dog People called Incholcpa.
+Appendix
+Reference
+
+---
+
+## Grguch
+
+Grguch was the powerful ogrillon chieftain of the much feared Clan Karuck.
+
+History
+Grguch and the powerful Clan Karuck of mighty orcs and ogres emerged from a lesser section of the Underdark when prompted by three sly orcs to challenge King Obould. Dnark, the leader of the Wolf Jaw tribe, Toogwik Tuk, shaman of Yellow Fang, and elder shaman Ung-thol all deemed Obould's complacency on Mithral Hall's doorstep to be unsatisfactory to the word of Gruumsh. Due to his half-orc, half-ogre heritage, Grguch was immensely large and powerful. In fact, the chieftain was one of the few warriors to engage King Obould in battle and seemingly gain the upper hand. After turning his attention from the orc king, Grguch also battled King Bruenor for a short while, until Obould stepped in and slew the fellow orc.
+
+Equipment
+Grguch was highly adept at throwing huge javelins from an atlatl. He also carried a huge greataxe named Rampant that was fashioned in the shape of a dragon.
+
+Appendix
+References
+
+---
+
+## Graevelwood
+
+Graevelwood was an isolated gnomish clanhold located underneath a rocky crag in the eastern reaches of the Arn Forest in the Silver Marches.
+
+Government
+Clanlord Mavheran Haerlskeel believed a war with orcs was not something she wanted to get her clan involved with so she kept her community's location a secret.
+
+Trade
+The settlement did little trading with Deadsnows and Citadel Adbar, but always with as much secrecy as possible. The traders were always careful to cover up their tracks so their path could not be followed back to the clan.
+
+Inhabitants
+Many of the folk living in Graevelwood were known for their skill in trapping.
+
+References
+
+---
+
+## Grayflow
+
+The Grayflow was a river found in the western end of the Savage Frontier in northwest Faerûn.
+
+Geography
+Emerging from the Graypeak Mountains, it ran northward toward Llorkh, before veering west. It was joined by the river Loagrann south of Orlbar, and then flowed into the Delimbiyr river with a confluence at Loudwater.
+
+Together, the Grayflow and the Loagrann drained the lands of the Greyvale.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Greycloak Hills
+
+The Greycloak Hills (or Graycloak Hills) was a small region of hills and mountains located north of Evereska, where the Western Heartlands and Anauroch Desert met. Some accounts considered the low mountains and hills surrounding Evereska to be part of the Greycloaks, too, although they were separated by a wide valley.
+
+Before they were settled by moon elves from Evereska in the early 1300s DR, the Greycloaks were known as the Tomb Hills.
+
+Geography
+The Greycloak Hills were located on the western edge of Anauroch. They were bordered by the Lonely Moor to the north and the Marsh of Chelimber to the west. The Forgotten Forest may have extended between the Greycloaks and the Marsh of Chelimber, but its extent either migrated over time or various cartographers disagreed on its exact location.
+
+The southern border was somewhat a matter of interpretation. If Evereska and the Shaeradim were not considered part of the Greycloaks, then they were the southern border. If Evereska and the Sharradim were included (as described by Aedyn Graymantle in her treatise Far from the Misty Hills) then the rolling hills of eastern Najara were the end of the Greycloaks.
+
+Geographical Features
+The ridges formed by the tall hills were covered with weeds, grass, and scrub, with an occasional copse of small trees. The Greycloaks were riddled with old tombs from the Fallen Kingdom and included both human and elven graves.
+
+After the moon elves of Evereska settled this area, they caused the hills to be shrouded in constant mists of a magical nature. These ever-present mists and the everyday gray clothes and cloaks that the residents wore gave the locale its new name.
+
+Government
+The Greycloak Hills were annexed by the moon elves in the Year of the Snow Winds, 1335 DR when they presented the Evereska Charter to the outside world. A local leader named Erlan Duirsar became the first Watcher Over The Hills and was still in charge as of the Year of the Shield, 1367 DR. By the Year of the Ageless One, 1479 DR, Duisar had become High Lord of the Hill Elders of Evereska and the Greycloaks were under the protection of a division of the Evereskan military called the Tomb Guard.
+
+Politics
+As of the Year of Lightning Storms, 1374 DR, there were cells of the Eldreth Veluuthra operating in the Greycloaks and Evereska with the cooperation, or at least tolerance, of the local governments. At this time, the City of Shade, Thultanthar, in Anauroch was threatening its neighbors and even unsavory allies were not turned away.
+
+Trade
+In the early days of the settlement—called Greyhome by the residents—they made musical instruments that they traded with select merchants in the town of Hill's Edge far to the south where the Dusk Road crossed the River Reaching. Some examples of their crafting were pipes, harps, lutes, and various types of horns.  Once the Halfway Inn was built, it became the center of trade with the outside world for Greyhome and Evereska. Luxuriously beautiful works of art, some magically enhanced to add moving creatures, or even an elf lord or lady to the scene, were available for purchase here. Around 1367 DR, the troops guarding the Greypeaks were in the market for the best horses they could acquire for their fighting force.
+
+Defenses
+The wardmists that enshrouded the Greypeaks reduced visibility to that of complete darkness unless a visitor possessed a ward token that granted them immunity to the effects. The caster(s) of the wardmists received a warning when an intruder without a token crossed into the warded area. According to some reports, the mists also revealed the alignment and any magical enchantments present on beings that passed through. The mists typically formed a ring around the hills that was a hundred yards (over ninety meters) thick and could be extended if necessary to ensure unwelcome visitors got lost.
+
+Regular patrols were kept running since the settlement's founding. They typically consisted of fourteen or sixteen archers in chainmail running along the ground while mages with rings of flying and various wands flew overhead. By the Year of the Tankard, 1370 DR, the infantry had become mostly mounted cavalry wielding lances and bows. These warriors wore an unofficial badge of heraldry described as a dark purple lightning bolt edged in silver, flashing down from upper right to lower left. The bolt was superimposed by a left-hand metal gauntlet, upraised, with blue-white stars at the tips of the fingers. It was unknown if these badges were ward tokens, but they were worn with pride by some who served even after they moved on to other pursuits.
+
+Erlan Duirsar created a golem that appeared to be made of solid mist and he named it the Walker in the Mists. It was as powerful as an iron golem but could not rust, and it blended into the fog that shrouded the hills.
+
+Travelers passing close to the Hills occasionally reported seeing human skeletons rotting in rusty iron cages and presumed they were left as a warning to would-be tomb robbers.
+
+History
+The elves established Evereska around  but the surrounding hills were left relatively untouched until humans began using or inhabiting them, perhaps going back to the days of ancient Netheril or beyond. Tribes of humans in the area finally discovered the existence of Evereska in the Year of the Elfsands, 244 DR, but cooperatively kept it secret for many hundreds of years.
+
+Both humans and elves used the hills as a burial place for their honored dead, but eventually the Tomb Hills (as they were called) became infested with banshees. Eliminating the restless undead was ostensibly one reason for the unilateral declaration of the Evereska Charter in which the moon elves claimed the hills for settlement in 1335 DR. The Charter also stated that tomb raiders violating the cultural heritage of any race would face harsh punishment.
+
+The village of Halfway Inn was established sometime before 1367 DR as a resting place for caravans and an outpost for trading with the elves of Greyhome and Evereska, and contained an inn of the same name.
+
+Rumors & Legends
+Ever since the Evereska Charter was declared, there have been rumors and speculation about why the elves claimed the area and why they chose to live underground. Some speculated that they were preparing a retreat in the event that Evereska was attacked. Other rumors suggested that the elves found something that they didn't want to fall into the hands of people like the Zhentarim. Maskar Wands, of the noble Wands family of Waterdeep, openly declared that he thought the elves had discovered an ancient Netherese city or fortress or some other source of powerful magic buried in the Hills and wanted to keep it for themselves.
+
+One rumor spoke of there being a pit somewhere within the Hills that contained a gate to the Demiplane of Dread.
+
+The druid Tharnn Greenwinter and a traveling companion were once attacked by a roc near the Hill of Lost Souls. He speculated that it had come from either the Greycloak Hills or the Sunset Mountains.
+
+During the age of Netheril they were believed to harbor a Tarrasque and seven chromatic dragons.
+
+Notable Locations
+ Evereska: the "fortress home" of the elves since The Founding Time.
+ Greyhome: the settlement deep in the hills, accessible through secret passages in some of the well-guarded tombs.
+ Greyshield: a guest home for visiting Harpers or anyone the elves wanted to shelter and/or aid back to health.
+ Halfway Inn: a trading post compound and caravan stop with an inn of the same name.
+
+Inhabitants
+The elves and half-elves of Greyhome were mostly of moon elf stock, but there were sun elves and a few wild elves living and training there. Halfway Inn was settled by dwarves, halflings, humans, and half-elves.
+
+Appendix
+References
+
+FR:Collines de grismanteau
+
+---
+
+## Greatsword
+
+Greatswords were a type of two-handed, martial sword.
+
+Description
+A derivative of the longsword, the greatsword was the largest member of the sword family, requiring two hands to wield it. The hilt was elongated to accommodate this extra grip and the blade was doubled-edged. Some versions had parrying hooks (Parierhaken) on their blade, about  away from the guard. The blades were typically dull between their parrying hooks and guard so that they could be gripped there.
+
+Weaponology
+Due to their size and weight greatswords required a good deal of training in order to wield effectively. Thus, they were classified as a martial weapon. Greatswords with parrying hooks could be gripped with one hand between the hooks and the guard, and the other on the hilt, allowing the weapon to be used in a pole arm fashion. The greatsword was generally recognized by adventurers as a reliable, powerful weapon.
+
+Availability
+Business and merchants in the Realms where one could purchase greatswords from included:
+ A number of merchants in Athkatla's market Waukeen's Promenade commonly sold greatswords, including the merchant Hes, the weaponsmith Maheer el Saddith, the merchant Mira, and Ribald Barterman from his store Adventurer Mart. In the Bridge district, one could find them for sale at the street-side stall of Bel Dalemark.
+ A number of general stores in the southern districts of Baldur's Gate sold greatswords.
+ Candlekeep Inn.
+ Conlan's smithy, a blacksmith shop in Kuldahar sold greatswords.
+ Elence Fielding, a merchant in Imnesvale, sold greatswords.
+ The inn within the hamlet of Friendly Arm sold greatswords.
+ Maheer el Saddith, a traveling merchant.
+ Maltz's Weapon Shop.
+ Pomab's Emporium, a general store in Easthaven, sold greatswords.
+ The Tankard Tree, a tavern in Saradush, sold both mundane and generically enchanted greatswords.
+ Ulgoth's Beard inn's owner sold greatswords on the side, alongside a variety of general adventuring equipment.
+ The Zephir's owner Zakee Rafeha sold greatswords in his inn on the side, alongside a variety of general adventuring equipment.
+
+Varieties
+ Flamberges were a type of greatsword. They were commonly wielded by armanites and in the late 15 century DR, one could find both fighters and paladins wielding ones that were crafted from black iron.
+ Zweihanders were a type of greatsword. In the late 15 century DR, one could find fighters wielding zweihanders that were crafted from black iron.
+
+Notable Greatswords
+ Abyssal blade, an unholy ehancted greatsword wielded by blackguards.
+ Ansrivarr, the ceremonial sword of the nation of Cormyr.
+ Carsomyr, the powerful Holy Avenger.
+ Gram the Sword of Grief.
+ Duty's Bond, the favored weapon of Torm, the god of protection.
+ Ir'revrykal, the evil githyanki-forged weapon, said to have been forged in Tu'narath.
+ Sword of Shadows, the favored weapon of Shaundakul, the god of travelers.
+ Warblade, an enchanted greatsword that came from the barbarian tribes of the North.
+
+Notable Users
+Individuals
+ Cattack.
+ Kresselack, a barbarian king, wielded an enchanted greatsword.
+ Glaicus, the bodyguard of Lord de'Arnise.
+ Shar-Teel Dosan.
+Races & Sentient Creatures
+ Greatswords were common among flinds across the Sword Coast and more rarely among flinds in Amn.
+ Ogre berserkers in the Sword Coast commonly wielded greatswords.
+ The wang-liang of Kara-Tur were often known to wield bronze greatswords.
+
+Appendix
+Appearances
+
+Gallery
+
+External Links
+
+References
+
+---
+
+## Grinning Lion
+
+The Grinning Lion was a tavern in the North Ward of the city of Waterdeep. In the, the proprietor was Unger Farshal.
+
+Location
+
+The tavern was located inside a commercial and residential block just off Golden Serpent Street, near the east side of the corner with Shando Street. It was just across the alley from the rear of the Gost Villa.
+
+Structure
+It was a noisy, raucous tavern with tattered shields on its walls and a variety of other weapons and armor from all over the Realms on display.It was rumored many of these "trophies" were fake.
+
+The place was relatively small—being only  wide by  feet deep with a  kitchen tacked onto one end. It had a large fireplace and the midden pile out back hid an entrance to the sewer tunnels.
+
+Stairs of the Lion
+Behind the establishment was a refuse dump of rotting food and trash that was regularly reduced in size by the trash collectors, but it never seemed to get completely removed. Unger Farshal arranged it this way because the smelly mound hid a wooden board that covered a stone staircase that led down  (about 30 steps) to the east (beneath the Grinning Lion). The stairwell was finished with masonry and ended in a small alcove about  on a side that contained a carving of a lion's head in bas-relief on the east wall facing the stairs.
+
+A secret door on the south wall was added by Farshal so he or his client could easily get to a junction room of the city sewers for clandestine travel or a quick escape. A second secret door, known only to Farshal and the denizen of its destination, was built around the, by the Gost family to facilitate their smuggling operations in and out of Waterdeep. The bottom three steps of the Stairs of the Lion opened as a trap door to steps leading down to the west and eventually to the Fireplace Level, a complex of storerooms that was eventually abandoned and forgotten by the Gosts.
+
+Services
+The tavern served fried onions, eels, pitchers of wine, and zzar.
+
+History
+The Grinning Lion was built on the site of a former warehouse owned by the Gost family back in the 13 century DR.
+
+Inhabitants
+The proprietor of the Lion was Unger Farshal from at least 1367 DR to at least 1372 DR. Both male and female dancers performed to the music in mock armor. Most patrons were nobles accompanied by their personal bodyguards.
+
+Patrons that frequented this establishment included:
+ Lord Orlpar Husteem, aristocratic drug dealer.
+ Hala Myrt, runner and go-between for Orlpar.
+
+Appendix
+References
+
+---
+
+## Grandfather of Assassins
+
+Grandfather of Assassins was the title of the leader of the Citadel of Assassins in the Galena Mountains in Damara.
+
+Description
+The Grandfather always concealed his face with a mask and was said to be immortal. In truth, once a Grandfather got old and died, a new one was chosen to take his place. This superstition that the Grandfather could not die was one of the guild's many terror weapons. Parents in Vaasa and Damara often threatened naughty children by telling them that the Grandfather would come take them away if they didn't behave.
+
+History
+In the, an unnamed Grandfather of Assassins, in league with the Witch-King Zhengyi, and priests of Orcus, attacked Bloodstone Village with an army of mainly human brigands and orcs, but also with wyverns, giants, and other monsters. This attack was thwarted by the paladin Gareth Dragonsbane and his party of adventurers and the Grandfather was killed by the monk Kane.
+
+The next Grandfather of Assassins was Timoshenko, who played the political face of the organization. His chief lieutenant, the wizard Knellict, carried out the dirty work.
+
+Appendix
+
+References
+
+---
+
+## Grandmaster of Flowers
+
+Grandmaster of Flowers was a title given to senior monks at the Monastery of the Yellow Rose in the Earthspur Mountains of southern Damara.
+
+Bearers of this Title
+ Grandmaster Poke
+ Grandmaster Kane
+ Grandmaster Cantoule
+
+Trivia
+One of the mortal guises of Bahamut also bore this title.
+
+Appendix
+References
+
+---
+
+## Greg A. Vaughan
+
+Greg A. Vaughan is a fantasy writer.
+
+Appendix
+
+External links
+
+ WereCabbages list of his complete works
+ P&P RPG database entry for Greg A. Vaughan
+
+---
+
+## Greenmeadow
+
+Greenmeadow was a grassy meadow north of Leuthilspar on the island of Evermeet.
+
+Geography
+The meadow was separated from the city by the River Ardulith. Its primary function was to provide a place for the elves to keep their horses while in the city.
+
+Inhabitants
+There were typically around a hundred moon horses in the Greenmeadow and they were allowed to freely roam rather than being restricted to a stable.
+
+Appendix
+Appearances
+Sourcebooks
+Elves of Evermeet
+
+References
+
+---
+
+## Greg Bilsland
+
+Greg Bilsland is a game editor at Wizards of the Coast. He enjoys reading or writing speculative fiction, camping, bike riding, hiking, and traveling.
+
+---
+
+## Green Sword
+
+The Green Sword was a tavern in Leuthilspar, Evermeet.
+
+Description
+The establishment took its name from an extremely heavy green metal sword mounted behind the counter, which supposedly belonged to a green dragon. It was too heavy for most medium humanoids to lift.
+
+Atmosphere
+The tavern was more rowdy than the norm for elven taverns.
+
+History
+In 1367 DR, the proprietor was Halanaestra.
+
+Inhabitants
+Halamar
+Halanaestra
+
+Appendix
+Appearances
+Sourcebooks
+Elves of Evermeet
+
+References
+
+---
+
+## Gruen Bleth
+
+Lord Gruen Bleth was a human man and a member of the Bleth noble family of Cormyr in the 14th century DR.
+
+Personality
+Gruen Bleth was a gentle person.
+
+History
+Around 1367 DR, Gruen was the leading member of the Bleth family and he controlled the Seven Suns Trading Coster in Cormyr. Although he lived at the Bleth Estate in Suzail, he spent much of his time at the Seven Suns yard in the city managing the business.
+
+In the, Lord Gruen and Lady Amarsa Bleth attended a birthday feast for King Azoun IV, and were guests of Lord Partic Thistle at his manor, Thistleflame Keep. They knew nothing about Lord Thistle's apparent murder that night.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Gray Wolf tribe
+
+The Gray Wolf tribe were Uthgardt barbarians who had a characteristic every single member shared: under the light of the full moon, they all turned into savage werewolves. They were even known to prowl in packs with actual wolves.
+
+They were savage barbarians who saw their lycanthropy not as a curse, but as an inheritance that was to be embraced.
+
+Activities
+
+Unlike some of the more civilized Uthgardt tribes, the Gray Wolves were all predators that roamed across their hunting territory.
+
+Territory
+The Gray Wolf tribe roamed the lands across the North from the Sword Coast to the west to the Delimbiyr Vale to the east.
+
+The sacred site of Raven Rock served as the tribe's ancestral mound, which they shared with the Black Raven tribe.
+
+History
+The legacy of the Gray Wolf tribe was thought to have begun when they accepted refugees from fallen Gauntlgrym into their fold.
+
+Guul Shatterneck and his bandits once unwisely attacked members of the Gray Wolf and took them captive, not thinking to study their prey first. Come the next full moon, the Gray Wolf escaped and tore their captors apart.
+
+Following the Spellplague, the Gray Wolf tribe attacked and wiped out the town of Conyberry, and occupied the ruins for use as training and staging ground for raids on the surrounding areas. They became allied with the Shadovar under chieftain Ethraniev Marrowslake, and committed many raids on Neverwinter. This alliance caused a great deal of internal strain on the tribe, which erupted into a civil war between those loyal to the Shadovar and those who "betrayed" that alliance, known as the Forsworn. Many of the Forsworn's bodies were left to rot by the tribe on display in a thicket in Neverwinter Wood that came to be known as the Forest of Hides.
+
+Around the time of the War of the Silver Marches, adventurers from Neverwinter slew the current great chief of the tribe, Syken Nightblaze. Syken's daughter, Envir Sykensdottir, planned to attack the city of Neverwinter to prove that she should be named the next great chief of the tribe.
+
+Religion
+The Gray Wolf beast totem mutated the curse over time as they embraced the savagery inherent in it and they all turned into werewolves, despite their ancestors. Any Gray Wolf who did not wish to share the curse would be cured within a year after leaving the tribe.
+
+Notable Members
+ Alrik Tenstone, Chieftain during the mid-14 century
+ Clovis Greenteeth, Shaman during that time
+ Ethraniev Marrowslake
+
+Appendix
+References
+
+Connections
+
+---
+
+## Grayvale
+
+The Grayvale (also written as Greyvale and Gray Vale) was a valley lying around the Greyflow and Loagrann Rivers and part of the greater Delimbiyr Vale in the Savage Frontier. The lower Delimbiyr Vale was also known locally as the Delimbiyr Crescent and was largely synonymous with the Greyvale.The name "Delimbiyr Crescent" is unique to the Legacy of the Green Regent campaign. Its borders and nature are not defined, but it appears to be used interchangeably with the Greyvale and the Delimbiyr Vale. Morevoer, events in the campaign take place largely within the Greyvale, and maps show it encompassing the same area. Thus, for convenience, this article assumes the Delimbiyr Crescent and Greyvale are the same and that information on the Delimbiyr Vale in Legacy of the Green Regent is specific to the Delimbiyr Crescent.
+
+Geography
+
+While the name "Delimbiyr Vale" was given to all the upper reaches of the River Delimbiyr and of its various tributaries, the Greyvale (and its variations) was specifically the grasslands and valleys drained by two of those tributaries, the Greyflow and Loagrann, a three-branched river that joined the Greyflow. Lying amongst the southern foothills of the rugged Graypeak Mountains, the Grayvale was thus considered to begin at the town of Llorkh and to continue downriver until after the confluence of the Greyflow and Delimbiyr, at the city of Loudwater. The land was bounded south and east of the river by the Greypeak Mountains and in the north by the great High Forest.
+
+Politically, however, the name was often given to lands further afield, and its borders ebbed and flowed with the fortunes of its settlers and prospectors. Circa 1479, the entire valley south of the High Forest as well as the surrounding lands, as far north into the woods as the Star Mounts, as far east as the Graypeak Mountains, as far south to the High Moor, and as far west as one cared to go, could be known as the Gray Vale. However, the influence of the area and usage of the name waned as one moved toward the Sword Coast and into the Western Heartlands.The 4-edition Forgotten Realms Player's Guide renamed the lower Delimbiyr River as the Grayflow River, which was formerly just a small tributary of the Delimbiyr River. As such, its Gray Vale appears to stretch all the way to the Sword Coast, but this is not explicitly stated. This was reversed in Storm King's Thunder. Thus, this article adopts the more limited boundaries of 2, 3, and 5 editions to maintain focus.
+
+Description
+
+Despite its name, the Grayvale was a verdant and beautiful valley. It was one of the most fertile lands in the North and it had plentiful natural resources. Bards described the area as like a luscious garden, that is, a place where the beautiful wilds were carefully shaped and pruned to create an almost magical paradise.
+
+Scattered around it were farmsteads and hunting lodges, as well as the ruins of dwarven mines and elven realms.
+
+Geographical Features
+
+Flora & Fauna
+
+Significance
+In the tales of the Harpers, the whole of the Delimbiyr Crescent was the favored land of the goddess Mielikki. This seemed quite true. The Forest Queen envisaged a harmony between civilization and the wilderness and sought to make the Delimbiyr Crescent a showcase for this and a sanctuary for her faithful. To further this goal, she chose and empowered the Green Regents to guard the land and guide and inspire the people of the Delimbiyr Crescent. The Scions of the Green Regent and rangers, druids, and clerics of Mielikki aided in this task.
+
+However, the gods Talos and Malar opposed Mielikki and her dream for the Delimbiyr Crescent and had their cultists work to bring chaos and carnage and attack the Green Regents whenever they could. While the Talassans worked for widespread destruction, the Malarites of the Thicket terrorized farmsteads and villages and disrupted the peace.
+
+Circa 1372 DR, Waterdhavian guildmasters were desirous of the natural resources of the area, which were transported to them down the River Delimbiyr.
+
+Government
+In the mid-to-late 14 century DR, the Greyvale was divided between two powers: Loudwater, and those faithful to Mielikki, and Llorkh, under the grip of the Zhentarim. An uneasy peace and a border between them were maintained by the Oath of Orlbar.
+
+Trade
+Defenses
+
+History
+Early History
+The area was first settled by Netherese human refugees fleeing Netheril, sometime after its fall in the Year of Sundered Webs, −339 DR. Their settlements were the progenitors of Loudwater and other cities of the North.
+
+The area was also once home to a community of elves, part of the nation of Eaerlann before its fall in 882 DR.
+
+Later, further settlement of the Loudwater and Llorkh region, as well as Longsaddle, Secomber, Triboar, and others, was undertaken by human pioneers from Waterdeep after the establishment of the Lords of Waterdeep there in 1032 DR. These pioneers were sponsored by noble and mercantile Waterdhavian families.
+
+However, the growing human population upset the elven natives. In the Year of the Bloodrose, 1100 DR, desiring to escape, the elves of Loudwater and the lands around began leaving their homes for Evereska.
+
+The Rensha Rule
+In the Year of the Scourge, 1150 DR, the Rensha family leading a mercenary army conquered much of the Delimbiyr Vale and centered their power in Loudwater. This began a period known as the Rensha Rule.
+
+Seeing Mielikki's Green Regents and their Scions as threats to their reign, the Renshas persecuted them mercilessly, forbidding the selection of new Scions and regents and hunting down any they found, causing them to vanish for more than a century. The second lord, Misbah Rensha, ruthlessly crushed the last resistance to the family's rule, with the help of the archdevil Baalzebul.
+
+Though the Renshas made the vale more prosperous and expanded its connections with the outside world, they exploited its natural resources and despoiled much of the pristine beauty of the area. Under them, loggers cleared the forests away from the river and farmers claimed the land for agriculture, while miners strip-mined the mountains, all at a shocking pace, and the wealth flowed down the river and out of the vale. The amoral Renshas also soon descended into decadence and the pursuit of their dark magic, which would lead to their downfall.
+
+Nevertheless, the Renshas ruled for 165 years before a Nimbrali mercenary working for them named Nanathlor Greysword rebelled against the rule of Pasuuk Rensha in the Year of Spilled Blood, 1315 DR. Pasuuk had commanded a band of talented mercenary hunters, among them Nanathlor, to bring him the horn of a unicorn, apparently for some infernal rite. But Nanathlor stayed his hand and instead defended the unicorn—in fact an avatar of the goddess Mielikki. She made him the new Green Regent and the twelve hunters who stood with him his Scions, and tasked them with overthrowing the Renshas. The two-year-long War of the Returned Regent freed the Vale from Rensha rule. Finally, in the Year of the Wandering Wyrm, 1317 DR, Nanathlor Greysword defeated Pasuuk and the Renshas' forces at the Battle of Tanglefork and became the ruler of Loudwater. Nanathlor maintained relations with other lands but ended the rampant logging and strip-mining, thus restoring the ecology and fertility of the land, and in turn renewing prosperity in the Vale.
+
+Modern History
+In the, a cult of Talos summoned the great storm elemental the Tempest in the Greypeaks and unleashed it on the towns of Orlbar and Llorkh. It tore apart cottages with its terrific winds and produced a barrage of rain, flooding the Grayflow and washing away swathes of Llorkh. It seemed driven to lay the whole Grayvale to waste. Finally, the Green Regent Kalahar Twohands and a band of Scions broke the cult and banished the Tempest.
+
+The Malarites of the Thicket attacked Loudwater after a blood-red moon appeared in the sky for three nights in the, in the conflict called the Night of the Blood Moon. They raided the city and homesteads, forced people out of their houses, and engaged in frenzied hunting and slaughter, before finally slaying the then Green Regent, Galaer Grasswave.
+
+After nearly ten years of only sporadic raiding, the bandits of the Hark stepped up their activity in the, preying on the Delimbiyr Road with greater violence. Meanwhile, from late spring, the High Forest orcs began the Gray Migrations across the vale and eastward to the Greypeak Mountains, causing much consternation in Loudwater.
+
+Rumors & Legends
+Notable Locations
+Settlements
+Llorkh • Loudwater • Orlbar • Zelbross
+
+Inhabitants
+
+Appendix
+Notes
+
+Appearances
+Organized Play & Licensed Adventures
+Legacy of the Green Regent
+
+References
+
+---
+
+## Grodd
+
+Grodd was a demiplane located in close proximity to the Plane of Shadow.
+
+The Grodd goblins who inhabited this plane believed that the entire plane was underground and consisted of subterranean tunnels and caverns.
+
+The Hoard and Grodd demiplanes were linked via a gate.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Grodd goblin
+
+Grodd goblins were a variety of goblins that were trapped in the Grodd demiplane with Nalavara.
+
+Description
+Grodd goblins mostly resembled normal goblins, but they had lime green skin and light blue eyes. They were also more androgynous in appearance, to the point that distinguishing between sexes was difficult except by voice.
+
+Personality
+Grodd goblins were evil, but their chaotic natures had been tempered over the centuries of serving Nalavara. They were also far more civilized. Thanks to Nalavara's influence, they hated the men of Cormyr and wanted to conquer that land for themselves.
+
+Abilities
+Grodd goblins had, over the centuries, been changed by the proximity of the Plane of Shadow to their home-demiplane. They were not harmed by the touch of shadows. It also gave their spellcasters access to some unusual spells. Additionally, all Grodd goblins instinctively knew where the fixed gateways out of Grodd were and could pass through them easily.
+
+Curiously, the Grodd goblins were immune to Nalavara's ability to siphon magic away from other creatures on the demiplane.
+
+Combat
+The majority of Grodd goblins were warriors, although some were adepts. They favored stealth and ambush in their tactics.
+
+The army of Grodd was made up of ten legions of 1,000 soldiers, for a total of 10,000. Each legion was led by a Grodd goblin general.
+
+Because of their limited darkvision (they could only see as far as ), and the fact that there were no predators that climbed on the ceiling or any lights up there, Grodd goblins typically forgot that "up" existed except in regards to the levels within buildings.
+
+Society
+Grodd goblins had originally lived in the lands that later became Cormyr, but they were trapped in the demiplane of Grodd alongside the dragon Nalavara. They survived in that place by hunting the animals that wandered in, and also by hunting stranger things native to there. Over time, they changed and became more civilized, eventually building a great city in the demiplane.
+
+Grodd goblins were arranged in a militocracy, wherein capable military leaders ruled large groups. The Grodd goblins as a whole were ruled by a High Consul, who was elected by the generals of the legions, with one vote per hundred goblins in a legion. There were, as of, there were at least ten legions of one thousand goblins each, although recent fighting with Cormyr had depleted their numbers somewhat. The Grodd goblins also revered and served Nalavara, but also held to an ancient bond to someone they called "the Iron One", who was possibly an aspect of one of the goblinoid deities and the source of the adepts' power. There was an iron crown kept in the great palace in their city, and whoever wore it was believed to be the voice or manifestation of the Iron One, and was obeyed as a great general. As of 1371 DR, the Cormyrean wizard Vangerdahast Aeiulvana had the crown, but the goblins did not acknowledge him as a ruler.
+
+Grodd goblins lived in multi-family apartments and held to various civilized tenets such as privacy, personal property, and cleanliness. Outside of their city they built simpler shelters of stone and wood, but given time they were good builders. Grodd goblins had no slaves, but they were not averse to acquiring slaves if they got the opportunity.
+
+Grodd goblins spoke a corrupted form of Ancient Elvish that they learned from Nalavara.
+
+When a Grodd goblin grew old and began to be a burden on their family, they would declare their intent to leave the mortal world. At such an announcement, the family would make or buy a  iron pole with many hooks on it. Then, after saying goodbye, the elder would take some of their dearest possessions and go to a tunnel in the southwest portion of Grodd, a place filled with many pole and pits. Then, hanging the possessions on the pole and placing it on a clear spot on the ground, they would throw themself into a pit to die. Other Grodd goblins avoided the tunnel, and some of the less sophisticated ones claimed that the ghosts of the dead haunted the place.
+
+Appendix
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Great Worm tribe
+
+The Great Worm tribe were a group of Uthgardt barbarians.
+
+Lands
+The tribe's territory encompassed the mountains surrounding Great Worm Cavern, along with the Fell Pass, the Frost Hills, the Lurkwood, and even the northern areas of the Silver Marches.
+
+The ancestral mound of the Great Worm tribe was the Great Worm Cavern, located in the Valley of Khedrun in the Spine of the World mountains.
+
+History
+In the late 15 century DR, the tribe came under the influence of the exceptionally brutal leader, Great Chief Wormblod.
+
+Appendix
+
+Appearances
+Video Games
+
+Baldur's Gate
+
+References
+
+Connections
+
+---
+
+## Green Lady's Keep
+
+The Green Lady's Keep was a long, low temple to Chauntea in Velprintalar, Aglarond.
+
+History
+In 1368 DR, the abbey included a granary where twelve monks were led by Abbot Dalmar.In the 2nd edition sourcebook Spellbound, Dalmar is stated as being an abbot of a temple to Chauntea that specializes in brewing ale. Later in the 3rd edition Unapproachable East sourcebook, the abbey is called the "Green Lady's Keep".
+
+By 1374 DR, the monks had increased in number to over one hundred.
+
+Inhabitants
+The monks worked to produce a green ale said to include fermented parsley, which was one of the city's most popular exports.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Griffonheight Keep
+
+Griffonheight Keep was a keep and barracks in Velprintalar, Aglarond, situated on a hill.
+
+As of 1368 DR, it housed 250 foot soldiers and 50 cavalry, under the command of Sir Tyman. By 1374 DR, the number of foot soldiers had increased to 400, and the cavalry had been replaced by aerial cavalry.
+
+Although it was believed at the time that a Thayan threat had triggered the buildup of troops, the Simbul had detected a threat between the Society of the Verdant Arrow and the Sons of Hoar and wished to be prepared.
+
+References
+
+---
+
+## Griffon
+
+Griffons were intelligent beasts with the body of a lion and the wings, forelegs, and head of an eagle.
+
+Description
+A griffon had the body of a lion with the head and wings of an eagle. The forelimbs of the griffon were often like those of an eagle, ending in sharp talons, but this was not always the case. Just as lions and eagles had varying physical characteristics based on where in the world they are found, so too did griffons. An adult griffon was about  long, with a wingspan of . The average griffon weighed about . Expectedly, griffons, and their lairs exuded a mix of two smells: a musky odor of great cats and the scent of falconer's mews.
+
+Behavior
+Griffons were known to be somewhat intelligent creatures, though had a penchant for aggression. Young griffons were generally not combative.
+
+Ecology
+Young griffons were known as fledglings. They were considered fully grown after three years. A griffon could fly 72 miles in a day, broken up into three sets of three hour flights with one hour rests in between.
+Diet
+Griffons were carnivorous creatures. Their favorite animal to prey upon was horses. They would often attack them when within sight or smelling distance.
+
+Griffons had milk and suckled their young. The milk tasted like cream cheese or mild Gouda, with the flavor getting stronger as the mother aged.
+Homelands
+Griffons typically  made their nests in homes in high rocky places like cliffs, as well as open caverns set in hills and mountain regions, such as the Storm Horns in Cormyr.
+
+When acquainted with humans, they were usually stabled in airy, doorless stone halls, vaguely resembling their lairs.
+
+In the Unapproachable East, they nested at the highest reaches of the Tannath mountains and Umbergoth. They could also be found around the coastal regions and interior uplands of Aglarond.
+
+Relationships
+When tamed and raised at a young age they could become very loyal and fierce mounts. Because of this they were highly sought after, with eggs fetching prices of around 2,000 gp and fledglings for around 5,000 gp.
+
+Mounts
+
+Griffons were commonly found as mounts throughout the Realms. Some notable examples:
+ The griffon riders of Tith Tilendrothael of ancient Netheril are thought to be the first such riders.
+ The Griffon Cavalry of Waterdeep
+ The Griffon Legion of Thay
+ The Brotherhood of the Griffon mercenary company
+
+ Use
+Griffon feathers could be used to make quills. This variety was a preferred ingredient for scribing fly spells.
+
+Notable griffons
+ Brightwing, the griffon of Aoth Fezim
+
+Appendix
+See also
+Hippogriff
+Sphinx
+Gallery
+
+Appearances
+
+Further Reading
+
+References
+
+---
+
+## Grobnar Gnomehands
+
+Grobnar Gnomehands was a gnome bard of the Sword Coast North in the mid-to-late 14 century DR, best known for his travels with the Kalach-Cha during the Shadow War. A fun-loving and inquisitive soul, he was also known for getting into trouble.
+
+Description
+
+Grobnar's appearance could probably be best described as unkempt, though no more so than was typical of gnomes. With wild hair exploding in every direction from his head and a hyperactive mouth, Grobnar exhibited many of the common qualities of gnomes. But while Grobnar often seemed child-like in manner, his physical appearance suggested otherwise. With wrinkles evident along his face, it was clear to observers that Grobnar was far from youthful, in spite of his energy, being well into his middle ages.
+
+Grobnar preferred to dress in leather armor or simple clothes, often carrying with him a lute or other magical instrument. He also claimed to have a codpiece with a spring-mounted shield, amongst other oddball devices.
+
+Personality
+Jovial and inquisitive, Grobnar was an ever-curious and blissfully bright-eyed individual who took delight in the discovery of new things and their recording. He had a love of tales, collecting them and telling them, though sometimes to a degree that others found irritating. He appreciated such qualities in others as well, complimenting them if they remembered some piece of particularly obscure lore or were able to decipher something he was unable to.
+
+In many ways, Grobnar seemed slightly out of touch with reality, demonstrating what seemed to be an excessive amount of naivete as well as an utter disregard of the dangers involved in some of his research. His belief in the Wendersnaven, against all evidence to the contrary, would cause skepticism amongst many of his companions as to the creatures' existence. However, at other times Grobnar appeared more cunning than he let on, successfully reactivating the badly damaged Construct as well as solving several puzzles on behalf of the Kalach-Cha. Likewise, when Bishop tried to deceive him into providing the overrides for the Construct, Grobnar secretly prepared another set, which he may have used to prevent Bishop's treachery.
+
+Grobnar demonstrated a surprising facility with languages, running through at least six when he attempted to translate "Kalach-Cha". The closest he came to a translation was Draconic, claiming the word meant something like "gizzard stone" if one dropped the 'k'.
+
+Grobnar was a fan of the works of Deekin Scalesinger about Undrentide and the Underdark.
+
+History
+
+Early Life
+Grobnar hailed from a family of story, though a few others were executed in Luskan.
+
+He was also supposedly once polymorphed into a mule.
+
+The Shadow War
+The Kalach-Cha and company first encountered Grobnar in an open field on their way to Old Owl Well to aid in the search for a missing ambassador of Waterdeep in the . Grobnar had decided to camp there hoping to catch the attention of a Wendersnaven, mythical creatures that could supposedly not be seen nor touched and were both everywhere and nowhere at once. After encountering the party and relating to them a story, Grobnar offered to join and may have continued to travel with the Kalach-Cha throughout the Shadow War, in search of new inspirations.
+
+Grobnar would be considered an annoyance by some members of the group, however, such as Khelgar Ironfist or Bishop, although he grew on others. Notably, if Shandra Jerro joined the party, she and Grobnar would grow to form a sibling-like relationship, often spending time together and he would be the most affected by her tragic death. Grobnar would also prove useful in his own way, helping to solve puzzles, reconstructing a damaged blade golem the Kalach-Cha found while rescuing Shandra, and possibly helping to prepare the defenses of Tavorick's estate. He may have also helped the Kalach-Cha during their Trial by Combat through the use of various enchantments.
+
+Joining the group would also give him the chance to carry out a search for the Wendersnaven whilst the Kalach-Cha was seeking out allies for Crossroad Keep. While the chase would seem ultimately pointless, Grobnar would claim to have found an invisible kazoo, the Wenderkazoo. While many doubted its existence, particularly since it was impossible to see and it sounded, when played, like Grobnar humming, it did appear to increase the effectiveness of Grobnar's spells.
+
+Fate
+Nevertheless, Grobnar would prove a useful ally and would, along with the rest of the Kalach-Cha's companions, take part in the assault on the King of Shadows' fortress in the Vale of the Mere. There, Grobnar could have played a pivotal role by ensuring the Construct's loyalty to the party instead of to the King and his servant Garius, depending on how close the gnome was to the Kalach-Cha and whether or not the treacherous Bishop chose to flee or not.
+
+Ultimately, however, Grobnar would not survive the battle. After the defeat of the King of Shadows, the fortress began to collapse, having been held together apparently by the magic of their enemy. In the chaos, the Construct, whilst helping to clear the rubble, became in danger of being crushed by the rubble falling. Eager to save his beloved golem, Grobnar threw himself over the Construct, in a vain attempt to protect it, an act which Ammon Jerro witnessed and later related to the Kalach-Cha.
+
+Some time later, after the Shadow War and Kalach-Cha's disseverance, stories of a certain awful bard, the gnome named Grobnar Gnomehands began appearing across taverns and inns of the Sword Coast North.
+
+Appendix
+Behind the Scenes
+Grobnar was voiced by Andrew Pang in Neverwinter Nights 2. In German, Grobnar's name sounds similar to a composition of the words grob, meaning "rough", "crude", or "course" and narr meaning "fool", "jerk", or "jester." Whether this was an intentional pun on the part of the developers is unknown.
+
+Like many characters, Grobnar suffered slightly from deleted content. One example was a conversation between him and Duncan Farlong, in which the bar owner complained that Grobnar did far too much talking and too little performing and that what performing he did generally drove customers away, rather than bringing new ones in. He also mentions Grobnar's disconcerting habit of "breaking" various items in an attempt to "improve" the Sunken Flagon.
+
+Gallery
+
+Appendix
+Video Games
+Neverwinter Nights 2
+
+Neverwinter Nights 2: Mask of the Betrayer • Neverwinter Nights 2: Storm of Zehir
+
+External Links
+
+References
+
+Connections
 
 ---
 
@@ -888,6 +2294,121 @@ Notes
 References
 
 Connections
+
+---
+
+## Grasping shadows
+
+Grasping shadows was an illusion spell learned by newly trained wizards, particularly illusionists. With grasping shadows, a wizard was able to command shadows to reach out and ensnare nearby foes. These affected an area of roughly  in diameter, within  of the wizard. Creatures caught in the shadows suffer mental injury and are slowed down for a brief while. The spell lasted only a short time.
+
+Appendix
+Appearances
+Organized play & Licensed Adventures
+Masquerade • Crystal Clear
+References
+
+---
+
+## Greater planar ally
+
+Greater planar ally was a conjuration spell that called up to three outsiders or elementals from their home plane to aid the caster in exchange for payment.
+
+Effect
+This spell functioned in the same manner as lesser planar ally, except that the caster could call three such creatures, or two somewhat larger creatures, or one very large creature. The creature(s) agreed to help the caster in return for payment or a favor.
+
+When a creature was called of the good, evil, chaotic, lawful, air, earth, fire, or water types, greater planar ally was a spell of that type.
+
+Components
+In addition to verbal and somatic components, this spell required a holy symbol or divine focus to cast. When cast, this spell stole a small portion of the caster's life experience.
+
+Appendix
+See Also
+ Lesser planar ally
+ Planar ally
+
+References
+
+---
+
+## Greater command
+
+Greater command was an arcane evocation spell that compelled multiple subjects to follow a single order as long as they were given in a language they understood.
+
+Effect
+This spell functioned in the same manner as command, except that more creatures could be affected and the effects lasted longer.
+
+Components
+Only verbal components were necessary to cast this spell.
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Greater scrying
+
+Greater scrying was a divination spell that spied on a subject from a distance. It was an improved form of the scrying spell.
+
+Effects
+As the name said, it worked like scrying, but functioned for a number of hours rather than minutes and only took several seconds to enact, not an hour.
+
+Furthermore, a number of spells could be cast through the sensor without fail: detect chaos, detect evil, detect good, detect law, detect magic, message, read magic, and tongues.
+
+Appendix
+See Also
+ Scrying
+ Scry
+
+References
+
+---
+
+## Greater restoration
+
+Greater restoration was a necromancy spell that restored the recipient of lost power and abilities.
+
+Effect
+This spell was similar to the spell able to be cast by less experienced casters, lesser restoration. However, the greater restoration spell was able to fully restore a creature that had been drained of power.
+
+As well as restoring a creature's power, greater restoration was able to dispel all magical effects hindering the character's abilities, such as a loss in strength or intelligence. If the recipient was unable to deal nominal damage with their skills, due to effects of a condition or spell, the spell would allow them to deal their regular damage again. Greater restoration removed similar mental effects to confusion, and even insanity.
+
+Appendix
+Gallery
+
+Appearances
+Video Games
+Icewind Dale II • Neverwinter Nights series
+External links
+
+ D&D Beyond
+
+References
+
+---
+
+## Greater glyph of warding
+
+Greater glyph of warding was an abjuration spell that created a glyph that would cause damage to those who triggered it.
+
+Effect
+This spell functioned very similarly to the less powerful glyph of warding. However, this more potent glyph caused far more damage, and the greater glyph could store a spell that was as powerful as chain lightning or lesser.
+
+Components
+The spell required somatic, verbal and material components. The latter component was diamond dust, which cost at least 400 gp.
+
+Appendix
+References
+
+---
+
+## Grimham
+
+Grimham was a svirfneblin who was captured by the Khoroshen tribe of lizardfolk and prevented from returning to the Underdark. He was tasked with preparing the Khoroshen's food, and took the prisoner Chaver Tegarech to the nearby Baeniff Tor on his raft. Grimham possessed a magically enhanced kukri.
+
+References
 
 ---
 
@@ -1065,6 +2586,214 @@ Erik Scott de Bie, author of the Shadowbane series, wrote that "The Grey Guard P
 External Links
 
 References
+
+---
+
+## Great Swamp of Rethild
+
+The Great Swamp of Rethild, also known simply as the Great Swamp or Rethild and Kethid, was a swamp in Dambrath.
+
+Description
+The Great Swamp was filled with moss, cypress trees, and zalantar trees and was home to giant leeches, giant toads, and giant snakes. It was always muggy and full of biting insects. Noxious vapors came up through the water and hung above the ground in great clouds of yellow, brown, or green gas. Some of these gases were poisonous or carried diseases, such as cackle fever and mindfire.
+
+Trade
+One of the trade exports of note from this region was Rethild-weave silk.
+
+Geography
+
+The Great Swamp was located on the western border of Dambrath. It was separated from Halruaa by the East Wall mountains.
+
+Inhabitants
+The Great Swamp was home to numerous tribes of lizardfolk, bullywugs, and tasloi. The black dragon Valraxaxath dwelt in the center of the swamp in a ruined city. Shambling mounds could also be found in the swamp.
+
+Locations
+ Kethid, the nation of lizardfolk, who were famous for their mercenaries.
+ Rethild, a lizardfolk settlement in the center of the swamp.
+
+History
+It was once home to a city of sarrukhs.
+
+In 1372 DR the lizardfolk kingdom led by Ghassis was known as Kethid.  By the year 1472 DR, its name had changed to Ilimar.
+
+Appendix
+Gallery
+
+Appearances
+Video Games
+Neverwinter Nights 2: Mysteries of Westgate
+External Links
+ The Great Swamp portals
+
+References
+
+FR:Rethild, le Marais supérieur
+
+---
+
+## Grunfesting
+
+Grunfesting (meaning "Green Fortress" in the Giant language) was an ancient giant-ruled kingdom in Faerûn during the Time of Giants of the Dawn Age ( to ).
+
+Geography
+
+The Skull Gorge was one of the many areas of land that the kingdom encompassed. Those that lived in the gorge were ruled over by a lord in the city of Kongen-Thulnir.
+
+History
+Grunfesting was one of the giant kingdoms that warred with the ancient dragon kingdoms during the Dawn Age.
+
+Grunfesting managed to survive beyond the Thousand Year War, but over time their kingdom's power gradually waned.
+
+Inhabitants
+
+Stone giants were the predominant race in the kingdom of Grunfesting. In the years following the Thousand Year War, with their power waning its citizens in Skull Gorge allowed the primitive ancestors of humans to settle alongside them.
+
+Appendix
+References
+
+---
+
+## Greed domain
+
+The Greed domain was a deity domain that granted divine spellcasters like clerics with spells and other powers related to greed, namely cheating, thieving, and otherwise generating wealth.
+
+Deities
+
+Powers
+A priest with the Greed domain gained skill at appraising the worth of items and picking locks and picking pockets.
+
+Spells
+As they advanced, a priest with this domain could win a game of chance with cheat, force others to give them things with entice gift, and later even steal whole objects with vanish and phantasmal thief. They could open locked or sealed doors with knock and secure their own possessions with guards and wards. To make their own, they create items from raw materials with fabricate. Finally, they could trigger strong feelings with emotion and ultimately attract creatures with sympathy.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Greater magic fang
+
+Greater magic fang is a transmutation spell that improves the subject's natural weapons.
+
+Effect
+This spell functions like magic fang, but at a greater magnitude.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grick
+
+Gricks were large worm-like creatures that lived away from sunlight. Their head was composed of a sharp beak surrounded by four tentacles.
+
+Description
+The main body of an adult grick was about  long. Including the length of the tentacles, this made a grick about  long. A grick's head featured a pair of tiny eyes and a snapping beak surrounded by large barbed tentacles. The tentacles would cover the beak unless the grick was attacking or eating.
+
+Grick skin was rubbery and uniformly dark with with pale underbellies. Colouration varied from dark greens to blues .Their skin would camouflage well in rocky terrain and shadows.
+Behavior
+Gricks were almost always hungry and would seek to hunt anything that moves (except other gricks). Gricks would also immediately attack whenever their nest was threatened.
+
+Gricks were adept at climbing and could slither up walls with little difficulty. Although they prefer to stay underground or indoors, gricks would venture into the open if food was scarce. Even then, gricks would only do so at night to avoid burning their small and sensitive eyes.
+Combat
+Gricks preferred to hunt in packs but could also be found hunting alone. Gricks hunted by waiting in busy areas and ambushing their prey. Gricks used their natural camoflage to remain hidden in rocky terrain.
+
+If hunting in a pack, gricks would maneuver to outflank their prey wherever possible.. Due to their relatively small beaks, gricks could only take small bites of food. As a result gricks preferred to drag prey back to their nest once it was unconscious or dead.
+Ecology
+
+Gricks laid oblong blue/green eggs about the size of a human fist. Young gricks were known as grick wormlings. Grick wormlings were edible and were known to be served in the Dalelands stuffed with rice pilaf and diced celery. Cured and spiced grick tentacles were also eaten.
+
+Gricks could be made to serve abberrant creatures like grells.
+
+Due to the grick's constant need to eat, some explorers consider the best way to kill a grick is to seal it inside its nest and wait for it to starve to death.
+
+Notable Gricks
+ A particularly large and intelligent grick, distinguished by a bright green beak, made its home in the sewers of Ankhapur in the late 14 century DR.
+
+History
+In -8170 DR the settlement of Alatorin was defended by gricks.
+
+At some point after 1372 DR the sewers of Waterdeep were home to a small population of gricks.
+
+One of the circle of fangs rings was found on a chain around the neck of a drowned grick.
+
+At some point prior to 1479 DR, the ruins of Harpshield Castle were infested with numerous gricks.
+
+In 1491 DR, a goblin named Lhupo kept a pet grick in Cragmaw Castle.
+
+Appendix
+See Also
+Golothoma
+Ugudenk
+Notes
+
+Appearances
+
+Gallery
+Main: :Category:Images of gricks
+
+References
+
+Connections
+
+---
+
+## Greenfields (Western Heartlands)
+
+The Greenfields (sometimes Green Fields) was a geographical region of rolling grasslands in the Western Heartlands north of Amn, east of Durlag's Tower, south of the river Chionthar, and west of the Giant's Plain.
+
+Appendix
+
+References
+
+FR:Arpents verts
+
+---
+
+## Gray Forest
+
+The Grey Forest, also spelled the Gray Forest and also called the Tsurlar Forest, was a forest located between the Vast and the nation of Impiltur, lying south of the Earthfast Mountains.
+
+History
+Moon elves once lived in the Gray Forest several centuries before the 14th century DR. However, when hobgoblins and various other creatures began to encroach on their lands, the elves fought a losing war against them. They increasingly lost ground and some were driven out, but the rest were unwilling to give up their homes. The Gray Forest moon elves faced extinction. Thus, their last act was to transform themselves into grand gray-barked trees, so that they would never leave.
+
+However, a population of wood elves remained in the Grey Forest. In the Year of the Dawndance, 1095 DR, they joined an alliance with the cities of Impiltur and the dwarves of the Earthfast Mountains. Led by War-Captain Imphras Heltharn, this alliance fought to repel the hobgoblin hordes of the Giantspire Mountains.
+
+By 1372 DR, a new leader had risen to organize the hobgoblins of the Gray Forest. Some claimed he was a werewolf, others a vampire, and he was said to command dire wolves that aided his tribe in battle.
+
+A Cult of the Dragon base was operating in the Grey Forest. On Tarsakh 1, the Year of Rogue Dragons, 1373 DR, Maestro Taegan Nightwind, an avariel, informed Impiltur's Council of Lords and Regent-Queen Sambryl of the existence of this base and of a cell in the nearby city of Lyrabar. An Impilturan army marched into the Grey Forest after it, but on Tarsakh 12 it was routed when its own dragon allies were affected by the Rage of Dragons. However, the army rallied and with the aid of Vorasaegha, a spirit dragon, they attacked and destroyed the Cult lair on Tarsakh 16.
+
+Locations
+In amongst the ordinary trees of the Gray Forest could be found circles of the grand, gray-barked trees with dark leaves that the moon elves had turned themselves into.
+
+Alithyn's Copse was a grove of weirwood trees of great age and grandeur.
+
+Small shrines dedicated to Eilistraee could be found in the Grey Forest.
+
+Inhabitants
+The Grey Forest once had two elven populations. The moon elves were either driven out or transformed themselves into trees centuries ago, leaving the wood elves.
+
+Hobgoblins also dwelled in the Gray Forest. In addition to their forest homes, they also kept lairs in the Earthfast Mountains.
+
+A small Eldreth Veluuthra cell was active in the Gray Forest. They oscillated between assaulting the hobgoblins and alerting them to humans trespassing in hobgoblin territory.
+
+The Cult of the Dragon had a hideout in the Grey Forest, which was destroyed by the Impilturan army in Tarskah, 1373 DR.
+
+Legends
+The sage Othla Multar theorized that drow occasionally emerged from a passage to the local Underdark in the neighboring Adhe Wood and crossed into the Tsurlar Forest. There they traded with pirate vessels that anchored in hidden coves.
+
+Around 1371 DR, rumors of werewolves in the Gray Forest drew monster slayers and trophy hunters to Impiltur in search of exotic wolf pelts. However, one band couldn't find anyone to guide them, and so they idled in Hlammach.
+
+By 1479 DR, elderly folk living outside the forest told a tale that there was once a great war between the elves (or "eladrin") and goblinoids of the Gray Forest, that wiped out both peoples. Only the circles of gray-barked trees remained to mark their presence. In this time, the Gray Forest was said to be haunted, and few people risked journeying inside it too long or too deeply. Those who did told stories of ghosts, strange creatures, and peculiar hills that mysteriously appeared and vanished again.
+
+Appendix
+Maps
+
+References
+
+FR:Forêt grise
 
 ---
 
@@ -1328,6 +3057,342 @@ References
 
 ---
 
+## Gregor
+
+Brother Gregor was an alchemist dedicated to Oghma who lived in the city of Ormpetarr around 1479 DR.  Gregor was touched by wild magic and had a spellscar that allowed him to know the effects that any ingredients would have on a potion.
+
+History
+Gregor was apprenticed to an alchemist at an early age. Later in life, he was touched by the Spellplague and acquired a spellscar that gave him abilities that made him one of the best alchemists in Faerûn.
+
+In 1478 DR, he had a vision that the Kelemvoran monastery in Impiltur should move to Ormpetarr. He was able to convince the monks to travel to Ormpetarr and begin construction on a new monastery.
+
+Gregor was able to develop an elixir that conferred partial immunity to the effects of the Spellplague. The Order of Blue Flame used the potion in their ritual to enlarge the Plaguewrought Land. Gregor was uneasy with the methods of the Order but he believed their goal was to contain areas of wild magic, so he cooperated with the Order's plans. After Tyrangal and Duvan disrupted the Order's ritual to move the Plaguewrought Land's border, Tyrangal imprisoned Gregor and convinced him to conduct research on her behalf.
+
+Description
+His hair was black and dusted with silver. He kept his beard neatly trimmed. His spellscar bleached his hair and skin around his left ear pale.
+
+Appendix
+
+References
+
+---
+
+## Greenhaven
+
+The Greenhaven orcs were a tribe who lived in the Far Horns Forest during the time of Netheril.
+
+History
+The Greenhaven orcs performed raids on nearby Netherese towns and villages, and also performed forays into the Moss to hunt trolls. They favored using flaming arrows in their raids, but this ultimately resulted in the enraged trolls massing together and annihilating the tribe during Netheril's Silver Age.
+
+Appendix
+See Also
+ Icebeast tribe
+ Rocktroll tribe
+ Thousand Fists tribe
+ Thundercall tribe
+
+References
+
+---
+
+## Grimoire
+
+Grimoires, sometimes called greatbooks, were formal, ordered collections of spells.
+
+Description
+Greatbooks tended to be locked, guarded, and hidden, either in a secure cache or in a wizard's abode. Most were composed with gilded ornamentation or inks, and they might even have had plates of polished ivory or platinum within them, engraved or stamped with arcane writings. They were usually large and often of unusual proportions (such as very tall for their width), and many had metal-bound corners (i.e., ornate protective caps) and chased or relief-carved covers.
+
+Notable Grimoires
+ Warlocks who accepted the Pact of the Tome were gifted a grimoire of spells from their otherworldly patron.
+
+Appendix
+Appearances
+Video Games
+Warriors of Waterdeep
+Gallery
+
+References
+
+---
+
+## Grankhul
+
+Grankhul was the bugbear deity of hunting, a cunning patron said to have gifted his people the art of stealth and to have taught them the value of the element of surprise. Grankhul was a god of the senses and of swift death, an eternally attentive ambusher symbolized by unclosing eyes lurking in the dark.
+
+Description
+Grankhul appeared as a relatively slender,  tall bugbear with long, thin fingers as well as large, protruding eyes.
+
+Personality
+Grankhul was a cunning and subtle god, but nonetheless violent and dangerous for all of his sneakiness. He valued intelligence to a limited degree, but the murderous deity had a habit of throwing tantrums. He was also vigilant and swift, never sleeping and always staying alert.
+
+Powers
+Grankhul was a master of stealth, able to render himself unseen and unheard with unparalleled skill and cast silence and improved invisibility twice per day each. He himself was incapable of being surprised.
+
+Possessions
+Grankhul's avatars were known to wield rods of alertness, boots of speed, and +3 enchanted longswords that left those they struck stupefied.
+
+Realm
+Grankhul shared the realm of Palpitatia on the 241 layer of the Abyss with his fellow bugbear god, Skiggaret. It was an eternally dark layer populated by shadows and spectres, with fear eternally radiating from every inch of the grim terrain.
+
+Activities
+Grankhul's avatars prowled throughout the darkness on the Prime Material Plane ambushing the unaware of many races, sometimes with the intent to secretly displace demihumans or other goblinoids close to bugbear groups.
+
+Relationships
+The bugbear pantheon was dominated by Hruggek, although he did not truly rule it. Instead, there was more of an understanding among them that no one was to act against Hruggek's interests, and in return he left them alone. Grankhul was Hruggek's younger brother, and according to the myths of the bugbears the two were also comrades in arms that, as was the right of true warriors in the eyes of bugbears, preyed upon all they saw. When Grankhul was too busy to look after his sleeping brother himself, he whispered to the severed heads Hruggek kept as trophies to wake him in the case of danger.
+
+In some worlds, Gruumsh, leader of the orc pantheon, was known to be Grankhul's enemy since the One-Eyed-God took offense with his symbol.
+
+Worshipers
+Bugbears admired Grankhul for his covert ways and appreciated him for giving them the ability to move stealthily, allowing them to surprise others from the shadows and act as assassins rather than be like the oafish ogres that clumsily blundered about. He taught them that moving quickly and silently rather than trying to assemble great, marching legions was the smartest choice for a less proliferous race like themselves.
+
+As a tradeoff for their sneakiness however, bugbears also believed that Grankhul had stole away their energy so that while they slept on his behalf, he could remain permanently wary, although they worshiped him regardless. While the taking of heads was an act meant to satisfy Hruggek, the fact that bugbears cut away or stitched open the eyelids of their victims was meant as a homage to Grankhul and his ever-staring eyes.
+
+The clerics of Grankhul served as explorers and scouts, and were responsible for hunting the food for the bugbear community and harassing nearby settlements with their guerrilla tactics (although Hruggek's priests kept an eye on them due to their sneakiness). Grankhul's priests had to be of significant dexterity and have some level of intelligence, things they Grankhul valued and which the priests arrogantly thought made them superior to others. They were skilled hunters and trackers, wielding roguish weapons and leather armor and given abilities such as infravision.
+
+Given the bugbear approach to religion, clerics weren't needed to determine the signs of the gods. On rare occasions, Grankhul would either make very subtle environmental alterations to test the intelligence of his priests, or suddenly and angrily strike them blind or dead if displeased.
+
+Rumors and Legends
+There were legends among gnomes that Garl Glittergold once disguised himself as a deer to lure Grankhul into the open, only to trap him with an illusion and leave him trussed up like a turkey.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Great Mallet of Silvanus
+
+The Great Mallet of Silvanus was the favored weapon of Silvanus, the Faerûnian god of nature. It was a +5 energy aura impact mighty cleaving maul.
+
+Appendix
+References
+
+---
+
+## Greyanna Mizzrym
+
+Greyanna Mizzrym was a priestess of House Mizzrym in Menzoberranzan and sister of Pharaun Mizzrym.
+
+Description
+Greyanna Mizzrym was described as handsome except for a scar on the left side of her face. She wielded a mace.
+
+History
+Greyanna was the eldest daughter of Matron Mother Miz'ri Mizzrym but she also had a twin sister, Sabal Mizzrym. Throughout her life, Greyanna was favored by her mother and achieved success and status in House Mizzrym, while her sister Sabal met with failure. Greyanna sabotaged Sabal's efforts to impress their matron mother, and eventually Sabal was viewed a fool unfit for the simplest of tasks. It was at that point that Pharaun stepped in and began aiding Sabal, helping her rise through the ranks of the house. This infuriated Greyanna, and she vowed revenge upon Pharaun. After chasing him through the house one night in an attempt to kill him, he escaped to the wizard academy Sorcere at Tier Breche, where he was able to obtain a post as a master.
+
+Greyanna waited years to get her revenge. In the mean time, she gave her twin sister an amulet that actually carried a curse that made Sabal very ill, even close to death. In 1372 DR, she found out Pharaun was on a mission in the city, so she and her minions from House Mizzrym, including Relonor Vrinn, went out to kill him. Pharaun proved more powerful than she, however. Greyanna failed in her attempts to kill her brother, twice. This angered Matron Mother Miz'ri Mizzrym, and Greyanna was demoted, made to live in a small room with only a single chair for furniture. It was in this room that her brother Pharaun magically entered and killed her with a barrage of magic missiles.
+
+Appendix
+Appearances
+ Dissolution
+
+References
+
+---
+
+## Grimlock
+
+Grimlocks were a race of monstrous humanoids that lived in the Underdark, the degenerated descendants of humans who had wandered into its depths centuries ago.
+
+Description
+Grimlocks were a humanoid race of creatures with slightly scaled, thick gray skin that was usually scarred from hunts through their constricted underground passageways. Those with a special status in their society often had decorative designs scarred into their skin They had sharp teeth and typically black hair. This often grew to be long and unkempt. Many had long claw-like nails. Some were said to have completely white eyes, while other accounts told of their faces being devoid of eyes, instead having skin stretching across where their eye sockets should be.In 1 and 2 edition sources, the grimlocks are identified as having completely white eyes. From 3 edition onward their description was changed to there just being skin where their eyes should be.
+
+Grimlocks typically wore little clothing or armor, though some were known to sport tanned leather belts and harnesses, as well as decorative bracers.
+
+Behavior
+Grimlocks were very blunt and suspicious of other creatures. Those who wandered away from their kin often experienced culture shock, but felt some sense of gratification at how strange things were. These wanderers were also known to be capable of overcoming their xenophobic leanings, viewing each individual they meet as a potential pack member. Though this mindset needed to be reinforced through daily meditation.
+
+Though grimlocks were prone to evil acts, their intent was rarely malicious. Rather, their behavior was rooted in a deep sense of self-preservation and struggle for survival.
+
+Abilities
+Biology
+Over the course of living within the Underdark for centuries, grimlocks gradually lost the use of sight and became vulnerable to light. To compensate for this they developed an acute sense of smell and echolocation.
+
+Combat
+
+Grimlocks were well-adapted for combat thanks to their naturally hardy bodies and high sensory awareness of their surroundings. However, they were typically very unorganized in battle. They were poor targets of subjugation in efforts to form an enthralled fighting force as well, due to their fear of foreign races.
+
+At times they sought to attack their enemies under the cover of darkness, hoping to take advantage of their blind senses and prey on foes while they are disoriented.
+
+They typically shunned ranged weaponry, preferring to act like barbarians and fight their foes up close with crude stone battleaxes or weapons made of bone.
+
+Ecology
+Diet
+Grimlocks ate any raw flesh they could find - especially that of humans. Because of this, their populations were often decimated from feasting upon diseased meat.
+
+Society
+Grimlocks typically had two names, a pack name and personal name, with the latter derived from some element of their underground habitats.
+
+Many wild grimlocks were born in an extended series of caves that they called the Fingerhome. The caverns of the Fingerhome extended throughout the upper, middle, and lower Underdark.
+
+One prominent aspect of grimlock society was the "hunt-bond," a vow of mutual respect and protection that every grimlock with one or more creatures (usually other grimlocks). Those hunt-bonded with a grimlock were considered its closest friend(s) and the creature would do anything to protect them.
+
+Religion
+In the Underdark of Faerûn, some groups of grimlocks worshiped individual medusae, considering them as minor deities. The power of a medusa's gaze was beyond the grimlock's ability to comprehend (as they were blind), so it seemed divine to them. More enlightened grimlocks, however, tended to worship Shar, the goddess of darkness. And some grimlocks were known to worship illithids.
+
+Language
+The language of the grimlocks was a dialect of terran and undercommon. Some chose to learn abyssal and other evil tongues in order to gain power for themselves by making sinister deals.
+
+Relationships
+
+Grimlocks were extremely xenophobic and preferred to keep to themselves. This was due to their history of being frequently raided by both mind flayers and drow for slave fodder, subjected to extreme depravity by aboleths, and their mushroom fields razed and water cisterns drained by drow. This latter act often left grimlocks starving and desperate for food, forcing them to raid surface communities in order to survive.
+
+Some grimlocks were known to do work for other races as ambushers of Underdark caravans or as looters of ancient ruins.
+
+History
+Some sources claimed that the grimlocks were the descendants of humans of Uthgardt ancestry from the Golden Eagle and Red Pony tribes. Long ago, in 576 DR (the Year of the Sunless Passage), these barbarian tribes vanished into the Underdark by way of a passage that leads down from beneath One Stone, the Uthgardt ancestor mound located in the easternmost Moonwood. After years of wandering in the lightless passages of the Underdark, these barbarians evolved to become the grimlocks. They retained twisted vestiges of their ancient traditions, including a depraved form of ancestor worship that involved consumption of the aged and weak while they still lived.
+
+Other sources claimed that the grimlocks were descents of cannibal cults, from the days of the Illithid's empire, who had fled into the Underdark following the empire's collapse.
+
+Notable Groups
+One tribe of grimlocks resided in the Cavern of Cloven Heads, a small cave that five thousand years prior was the site of a battle between a rear guard of dwarves of Clan Black Axe and a group of drow refugees led by Menzoberra the Kinless (the Lolthite priestess who founded Menzoberranzan). This tribe abandoned their nomadic ways and settled the surrounding caverns. Within the Cavern of Cloven Heads lay a monstrous boulder engraved with runes. Surrounding the boulder are the riven skulls of hundreds of drow. This discovery matched fragmentary legends regarding the grimlocks' lost ancestor mound, so they now revere this mound as such. This mound was actually an ancient dwarven cairn of the Black Axe Clan. The inscriptions on the boulder were Dethek runes that related the legend of the "Brave Beards." The rock itself lay atop the spot where the last defender of the dwarven rear guard, Dorn Black Axe, literally sank into the floor of the cavern.
+
+Additional communities of grimlocks were found beneath the Storm Horns and Thunder Peaks within Cormyr, as well as on the Sargauth Level of Undermountain.
+
+Appendix
+Notes
+
+Gallery
+
+Appearances
+
+Further Reading
+
+External Links
+
+Grimlock article at the Annex.
+References
+
+FR:Torve
+Connections
+
+---
+
+## Griffon's Grog
+
+The Griffon's Grog was a tavern in Waterdeep in the late 14 century DR.
+
+Description
+Its taproom was smoky. Outside, its sign was moldy, showing a carved griffon volant holding a foaming mug in its claws.
+
+Staff
+The owner in 1374 DR was a fat man with a peg leg and only a thumb and forefinger on his right hand.
+
+Appendix
+
+References
+
+---
+
+## Grinding Gulf
+
+The Grinding Gulf was a large cavern underneath Fox Ridge in Shadowdale.
+
+The Grinding Gulf was a great chasm where flying boulders cascaded in a magical vertical dance. Elminster and Florin Falconhand once investigated the Grinding Gulf, but decided that it did not present an immediate threat.
+
+The Grinding Gulf was an emanation of old, powerful earth magic. It was considered a Class-3 earth node and bore a strong aura of earth transmutation magic.
+
+Appendix
+
+References
+
+---
+
+## Grigor Hulmaster
+
+Grigor Hulmaster was once the Harmach (lord) of Hulburg.
+
+Grigor was forced into exile in Thentia by the shadowmage Rhovann and the merchant council of Hulburg. He was assassinated by Cyricists in 1480 DR.
+
+Grigor was Geran Hulmaster's uncle.
+
+References
+
+---
+
+## Griffonwatch Keep
+
+Griffonwatch Keep was a fortification in the town of Hulburg on the Moonsea in the 15 century DR.
+
+Description
+The castled glowered over the town of Hulburg, a mile from the harbor, perched atop a rocky spur of the eastern ridge.
+
+The keep took advantage of the geology of Hulburg and used cliffs on three sides as walls. There was a large curtain wall in front of the keep with a causeway leading to the entrance of the complex.
+
+Activities
+It was the home of the ruling Hulmaster family beginning sometime in the late 14 century DR. In the late 15 century DR, it was also used for the training and barracks of the Shieldsworn and a place of refuge when the town was in danger of attack. While it was not very well situated to guard the city against attacks by sea, it faced north, inland, serving as a defense against the savage orcs, ogres, and other monsters who dwelt in the desolate hills and moorlands of Thar.
+
+History
+The Hulmaster family originally called home a smallish and drab castle called Hullmaster Keep, also known as Daggergard, until sometime after the, when Griffonwatch was built by Angar Hulmaster.
+
+In the, Sergen Hulmaster—a Hulmaster by adoption, rather than blood—summoned a small army of wights and similar undead to the castle, hoping to kill his family and blame their deaths on Aesperus, the King in Copper, so that he could become lord of the town. His plan failed, however, as the Hulmasters all escaped, thanks in large part to Geran Hulmaster, Hamil Alderheart, and Sarth Khul Riizar, who battled first the undead and then the House Veruna guards hired by Sergen to contain them within the castle.
+
+Appendix
+Appearances
+Novels
+Swordmage • Corsair • Avenger
+References
+
+---
+
+## Green Sisters
+
+The Green Sisters were an archipelago of islands east of Maztica.
+
+Description
+The Green Sisters were sparsely-populated jungle islands with freshwater streams and sandy beaches. The main population of the islands was bronze-skinned Maztican humans who wore golden jewelry and face piercings. The inhabitants were friendly and survived on hunting and fruit gathering. The dreaded hakuna creatures were a major danger in the islands' jungles. Like many parts of Maztica, the human inhabitants practiced slavery.
+
+History
+In the, the Green Sisters became the first landfall of the Golden Legion trade expedition that ended up "discovering" the continent of Maztica. Cordell's ships reached the northernmost island of the Green Sisters on the 40 day of the expedition. By the 47 day, the Golden Legion visited several other archipelago islands while moving south, finally stopping at the island that would later be known as St. Ippen. Friendly locals greeted the expedition on each of the islands and willingly shared their fresh water and fruit with the strange taller metal-clad humans. On St. Ippen, Cordell's expedition used the tongues spell to communicate with the locals who happily shared information on nearby mainland Maztica. While on the island, Halloran of the Golden Legion was attacked by a fearsome local hakuna beast, a black-colored dragonne, but survived the encounter. As a gift, the expedition received several young female slaves – a gift happily accepted by Cordell and his trusted cleric of Helm, Bishou Dominicus. The cleric's daughter Martine was infuriated with her father for accepting such a savage gift that went against their Helmite faith. Nevertheless, her objections were dismissed by the commanders.
+
+On Tarsakh 18 of the, Gondites of Lantan built a temple on the largest island of the Green Sisters. The island was named St. Ippen and priests began work on the Great Lighthouse.
+
+Appendix
+Appearances
+Novels
+Ironhelm
+References
+
+---
+
+## Gray Hunt
+
+Gray Hunt is an adventure module from the RPGA Legacy of the Green Regent campaign.
+
+Plot
+The party must violate a treaty between Loudwater and the Zhentarim in order to prevent the possibility of a greater conflict. Orc migrants from the Loudwater side of the territorial border are raiding Zhent land and Loudwater needs to stop them... without anyone knowing that they are doing so.
+
+Index
+Characters
+  •  •  •  •  •  •  •
+
+  •  •  •  •  •  •
+
+Creatures
+  •  •  •  •  •  •  •  •
+
+  •  •  •  •  •
+
+Locations
+  •  •  •  •
+
+  •  •  •  •
+
+Appendix
+External links
+ "Gray Hunt" plot recap
+
+---
+
+## Grayling
+
+The Grayling was a ship that sailed its last voyage in 1399 DR. The Grand Council of Impiltur chartered the ship to carry Bayel Droust on a mission to map the post-spellplague shoreline of the Sea of Fallen Stars. Droust carried two rare books that the eladrin Caelynna wanted and she sunk the ship in order to get the books and to capture Droust. Bayel Droust was imprisoned on the ship for many years and forced to work at translating the books.
+
+Appendix
+References
+
+---
+
 ## Grig
 
 Grigs were a fey race and a type of sprite, notable for having the lower bodies of crickets and for having an uncanny talent at playing a fiddle. They were mischievous fey who were fond of playing harmless pranks on "big people".
@@ -1410,6 +3475,73 @@ Appearances
 References
 
 Connections
+
+---
+
+## Great Sea
+
+The Great Sea, known as Bahr al-Kibar in Zakhara,According to Ahmed @ 20 Arabia RPG, the Arabic translation of "the Great Sea" is actually al Bahr al Kabeer (البحر الكبير). Instead, Bahr al-Kibar (بحر الكبار) translates to "the Sea of Great Ones". One can only wonder what these great things might be... was one of the larger seas of Toril, lying between the continents of Faerûn and Zakhara, and, after the Spellplague of 1385 DR, between those two continents and the new continent of Laerakond.
+
+Geography
+The sea stretched from the southern coastline of the Chultan Peninsula in Faerûn to the northern coastline of Zakhara and narrowing far to the east where Faerûn and Zakhara joined. It was roughly triangular in shape, nearly  long along the northern shore and almost as much wide in the west. It joined the Trackless Sea in the west south of the Chultan Peninsula, but it was unclear where to define a border. After the Spellplague of 1385 DR, the continent of Laerakond appeared in its northern boundary.
+
+In the far east, the Golden Water in the Shining Lands of southeast Faerûn was considered an arm of the Great Sea. South of it, the sea lashed against the dry rugged shore of the Utter East, leaving in its wake whirlpools and maelstroms.
+
+The "mouth" that linked the Golden Water with the Great Sea was called the Sunstrait.
+
+Locations
+In Faerûn, the Great Sea lapped at the southern shores of the lands of Halruaa, Dambrath, Luiren, and the Shining Lands of Durpar, Estagund, and Var the Golden. Nimbral was the most notable island in the Great Sea. Other known islands far out in the Great Sea on the Faerûnian side were, from west to east, the Beacon Rocks (barren islands), the Stormtails (an island chain), the Shipgrave Isles (an island chain), the Red Giant, Ward's Islands (three islands), the White Rocks (a single island), Naarlith (four small islands), Far Nermoree (two small islands), and the Realm of Tides off the coast of the Utter East.
+
+In Zakhara, the eastern tip of the Sea's shore touched the Land of the Yak-Men. It ran to the southwest along the area of the city-states of North Zakhara, then at the edge of the High Desert beyond the Mountains of the Lizard's Tongue, and presumably on to mysterious Akota. Two groups of islands lay within the Great Sea on the Zakharan side: the Corsair Domains, and under variably strong Qudran influence, the Dancer, the Bird, the Fortress, Lahib and Dahab Island.
+
+In Laerakond, the southern edge of the Dragon Sea, as well as the southern shores of the Dusk and Windrise Ports, and the Daggertooth Isle were located in the waters of the Great Sea.
+
+Climate
+The Great Sea was heated by strong warming ocean currents. These kept it noticeably warm south of Halruaa and in the eastern end, but here the sea cooled the land of Ulgarth and breezes off the sea provided cooler nights in Dambrath.
+
+Deadly winter storms hurtled north into Faerûn, such as into the Shining Lands and Dambrath. Such storms were caused when warm humid air from over the ocean was blown onto the land and up the sides of the coastal mountain ranges, leading to frequent, furious thunderstorms.
+
+Fauna
+Dolphins were found in the Great Sea. When a major storm came north, they sought shelter in the Bay of Dancing Dolphins in Dambrath.
+
+History
+In the Year of the Agate Hammer, 1174 DR, Dambrathan pirates went along the shore of the Great Sea, attacking and raiding the coastal cities of Durpar, Estagund, and Veldorn.
+
+Seeking new realms and riches, Durpari merchants went across the Great Sea and discovered the continent of Zakhara. The sea's currents and the habits of its storms were still being learned by 1367 DR.
+
+Inhabitants
+Beneath the waves dwelled sea elves of a distinct ethnic type, having deep-green skin coloration and irregular brown patches and stripes.
+
+There were a large number of pirates and corsairs that operated out of the Great Sea. They were a menace to the trading organizations of coastal and port cities around the area. Sometime around the year 1372 DR, these pirates began operating with a cooperation and coordination that was unusual for their kind. This included obtaining exact information on naval shipments and sailing patterns and extorting protection payments from the other pirates with whom they were colluding.
+
+Trade
+Most of those who ventured across the Great Sea around 1367 DR were Zakharan adventurers and merchants in search of new lands and markets. However, Zakharan corsairs also harassed the eastern waters of the Great Sea. In turn, some Dambraii merchants went across to Zakhara, and their own pirates raided far and wide.
+
+Circa 1367 DR, most travel on the Great Sea went to Halruaa and points further west. However, merchants plying the Great Sea visited the port of Beluir in Luiren to buy up produce and local handiworks by 1372 DR.
+
+Halruaan skyships flew over the waters of the Great Sea.
+
+Legends
+In the legend of the Last March of the Giants, the fallen star that had formed the Sea of Fallen Stars rolled across the land and tumbled into the Great Sea, chased after by a titan king and all his followers. They all disappeared into the depths.
+
+In ancient times, the Great Sea was believed to lead to the Lower Planes.
+
+Appendix
+Notes
+
+Appearances
+Novels
+Into the Void • The Mercenaries • Errand of Mercy • An Opportunity for Profit
+Video Games
+
+Dungeon Hack
+
+References
+
+Connections
+
+FR:Grande Mer
+pl:Wielkie Morze
 
 ---
 
@@ -1514,6 +3646,240 @@ es:Saga verde
 
 ---
 
+## Green abalone
+
+Green Abalone is a shell variety that is rather plain on the outside but is blue-green iridescent inside.   A large specimen in good condition has a base value of 25gp.
+
+ References
+
+---
+
+## Greataxe
+
+A greataxe was a double-bladed, two-handed melee weapon in the axe family.
+
+Description
+The greataxe was a large, heavy battleaxe with a double-bladed head. The shaft was usually constructed of stout wood and longer than even a dwarven waraxe, with about half that length being just the grip alone.
+
+Weaponology
+Wielded two-handed, the double blades allowed an alternating forward/backswing attack with devastating results. Because they required some training to use effectively, greataxes were typically considered a martial weapon.
+
+Notable Greataxes
+
+Notable Users
+Classes
+ Barbarians tended to favor the greataxe for their tremendous lethality.
+
+Appendix
+
+Gallery
+
+Appearances
+Novels
+War in Tethyr • The Fanged Crown
+Video Games
+Dungeons & Dragons: Eye of the Beholder • Baldur's Gate III
+Card Games
+
+Miniatures
+AD&D Miniatures
+
+External links
+
+References
+
+---
+
+## Greatclub
+
+Greatclubs were a larger, two-handed version of the standard club.
+
+Description
+Greatclubs were bigger and heavier than regular clubs and typically augmented with spikes, nails and/or bands of iron.
+
+Weaponology
+Greatclubs were typically considered martial weapons due to their extra weight and spikes making it a bit more difficult to wield without hurting one's self.
+
+Notable Greatclubs
+ Mountain Fist, an enchanted dwarven greatclub that was made using the clutched fist of a petrified ogre.
+
+Notable Users
+ The leader of the Durang tribe wielded a greatclub that was reinforced with both iron nails and the teeth of many beasts.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Green Fields
+
+Green Fields was the celestial home of the halfling pantheon. It was also the home of the souls of deceased good halflings.
+
+Description
+As its name aptly implied, Green Fields consisted of a green field expanding ever outward in every direction. It was home to winged halflings.
+
+A cycle of day and nigh existed in Green Fields. Gromph Baenre described the night sky as having different stars from Toril.
+
+Cosmography
+In the Great Wheel cosmology, Green Fields was located in Venya, the third layer of the plane of Mount Celestia. In the World Tree cosmology it was its own celestial plane.
+
+History
+In 1372 DR, Gromph Baenre unintentionally visited the Green Fields during a spell battle with the Lichdrow Dyrr.
+
+Notable inhabitants
+Dietr was a halfling from Luiren who dwelt in Green Fields after his death. When Gromph left the plane, he saw an opportunity to return to Faerûn to help his mother and followed the drow back to Menzoberranzan, where he was promptly turned into an undead huecuva. Gromph had no sympathy for Dietr and forced him to go up against the Lichdrow; Dietr was easily destroyed.
+
+Appendix
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Great Wheel
+
+The term Great Wheel could refer to:
+ The Great Wheel cosmology model from 1, 2, 3 (core D&D), and 5 editions.
+ Tymora's realm, The Quarter of the Great Wheel, located on the plane of Brightwater in the World Tree cosmology model.
+ The Great Wheel, seven earthmotes connected by bridges that make up Tymora's realm in the Gates of the Moon as described by the World Axis cosmology model.
+
+---
+
+## Great Gate Plaza
+
+The Great Gate Plaza was a large mosaic-covered plaza in the underwater city of Myth Nantar. The plaza's name derived from it being the activation site for a powerful portal in the city, the Great Gate.
+
+Location
+The plaza was located in the Dukar Quarter of the city, adjacent to the Dukars' Academy.
+
+History
+During the Twelfth Serôs War, the Great Gate Plaza was notably the site of the final encounter between the forces of Serôs and Iakhovas.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Gregg Chamberlain
+
+Gregg Chamberlain is an RPG author.
+
+Works
+Dragon magazine
+ The Dragon's Bestiary, Dragon #116 (December 1986)
+ The Dragon's Bestiary: The thorns that bite, the vines that catch, Dragon #167 (March 1991)
+ The Ecology of Carnivorous Plants, Dragon #137 (September 1988)
+ Magic by Candlelight, Dragon #179 (March 1992)
+ The magic of dragon teeth, Dragon #98 (June 1985)
+ Souping Up the Spider, Dragon #67 (November 1982)
+
+---
+
+## Great Codex
+
+The Great Codex was a compendium of all the laws of the city of Procampur in the Vast.
+
+It was compiled in the 13 century DR, as a grand project to copy all of Procampur's existing laws into a single tome, which would be installed in a grand library. Scribes and legal scholars accompanied the city's ruling Thultyrl everywhere to continue the work. They even worked on it while on campaign, such as in the the Year of Burning Steel, 1246 DR, when the Thultyrl led an army to liberate the allied city of Tsurlagol from an orc and goblinoid horde.
+
+However, his Hamayarch, the Pearl, predicted that he was destined to die young and in battle. Believing that he would go on to become a good king and complete the Great Codex, she may have orchestrated a wound he suffered on a hunting trip and secretly prevented his wounds from healing to keep him away from the front-lines.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Gray render
+
+A gray render was a dangerous predator found in swampy wilderness areas. They were favored monsters of the orcish god Bahgtru.
+
+Description
+With dense muscles and thick bones, gray renders were hulking, powerful masses. They walked on two feet, but they were hunched over, and their extra long arms dragged along the ground. Even with such a posture, they reached about nine feet tall. Their broad shoulders were four feet across.
+
+A gray render's body was hairless. They had sharp claws on their hands and powerful jaws full of black teeth. Perhaps most unique was a render's eyes; it had six of them. They were small and yellow-colored and were in two rows along its sloped forehead.
+
+Abilities
+Gray renders had the strength of giants. Some rangers reported that they could rip three-foot-diameter trees out of the ground with their mouths and claw them apart in minutes.
+
+Gray renders had a keen sense of smell and their eyes were especially perceptive, being able also to see in the dark.
+
+Ecology
+When hunting, gray renders sometimes waited to spring a trap. Once they engaged in combat, they attacked to kill, working themselves into a thoughtless rampage of fearless destruction.
+
+Gray renders were never found in groups of their kind. However, they often accompanied other creatures, both animals and more intelligent races, in a protective role. Scholars could not explain this strange behavior from an otherwise aggressive monster, but gray renders seemed to "adopt" these other creatures whether desired or not. Such a protecting render would even bring freshly killed meat to its charges. Even if those being protected attacked the render, it would simply retreat and come back later; it would never cause harm to such creatures willfully.
+
+Sometimes, other predators or scavengers would follow behind gray renders to take the scraps left behind by its path of destruction.
+
+They reproduced asexually in a manner most unusual for such an advanced species. Once in each gray render's lifetime, it produced a single offspring, which developed in a pocket or pouch in the adult render's body. When the new render reached a certain age, it departed from its parent and had to live on its own.
+
+History
+Some scholars came to believe that the origin of gray renders could be traced back to the Elemental Chaos, because of how chaotically they fought. Others believed that they were a creation of the neogi, as they were sometimes seen accompanying individuals of that race.
+
+Appendix
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Griffin's Claw
+
+The Griffin's Claw was a tavern found in the city of Procampur in the Vast.
+
+History
+In the Year of the Helm, 1362 DR, the bard Talamic could be found entertaining here, singing such songs as the Lay of the Purple Dragons.
+
+References
+
+---
+
+## Green Lady
+
+"The Lady" or "The Green Lady" was a female human druid and follower of Eldath who lived in the Brynwood forest in the Vast in the 1350s and 1360s DR.
+
+History
+Going by her age, the Lady was born around 1289 DR. Both her real name and her history were unknown to others, and she was known only as the Lady or the Green Lady for many years.
+
+It was known, however, that she settled in the Misty Vale in Brynwood in the Vast around 1349 DR, where she went into semi-retirement and lived in seclusion.
+
+On 28th Eleasias of the Year of the Gauntlet, 1369 DR, Dura Gerathu, a ranger friend of the Lady, visited her to tell how he'd discovered the Vipers' Nest. She advised him to watch the place longer and learn all he could, but this led to Dura being murdered by the Vipers bandits. The bandits followed Dura's writings and came after the Lady next. Forewarned by the sprites she lived with, she conjured obscuring mists and illusory forests to drive the terrified bandits off. Calispar Delgorth, the leader of the assault, vowed to return and finish her later.
+
+Afterwards, the Lady sent two sprites to check on Dura, who reported his death. At the sad news, she fell into deep mourning, not eating, sleeping, nor speaking. She waited for the Vipers to return and kill her too. As "Into the Nest of Vipers" is an adventure module, these events are officially unresolved. Successful progress would see the PCs rouse the Lady and defeat the Vipers.
+
+Abilities
+The Lady possessed the divine magic and powers of a druid, including the ability to shape-change into an animal. She used illusory forests and obscuring mists to defend the Misty Vale.
+
+Description
+The Lady was an elderly woman of 80 years in 1369 DR, standing only 5 feet and 4 inches (1.6 meters) tall and quite frail. Her eyes were green but faded with age, and she had long, loose iron-grey hair. She typically wore a simple home-spun brown robe.
+
+She was a worshiper of Eldath.
+
+Possessions
+She owned a white oaken staff of the woodlands.
+
+Allies
+The Lady was a close friend of the ranger Dura Gerathu. She shared the vale with a clan of sprites, who served and defended her.
+
+Appendix
+Notes
+
+References
+
+---
+
 ## Green Regent
 
 The Green Regents were the Chosen of Mielikki, the Lady of the Forest. They were the anointed guardians of the Grayvale and her dreams for that land and they guided and inspired the people of the Delimbiyr Crescent.
@@ -1595,6 +3961,2548 @@ See Also
 
 Notes
 
+References
+
+---
+
+## Gray portrait
+
+The gray portrait was an artifact that halted the natural ageing process.
+
+History
+A myth regarding this artifact told of Belarian the Beautiful, a follower of Sune who supposedly lived in the seventh century before Dalereckoning.
+
+Despite his goddess' edict that beauty is only skin deep, Belarian lived his entire life attempting to enhance and preserve his physical appearance. So obsessed was he that he forsook Sune to petition any power that would listen to make it so his looks never degraded. One such power gave him his wish, granting the gray portrait to Belarian in exchange for his soul. Who created it and who gave it to Belarian are not recorded.
+
+No sage has done anything more than speculate about Belarian's fate, but it is known that the portrait existed since the mythologically stated time of Belarian's life. It was owned by several individuals since then but, as with many items of such power, its location was lost by 1373 DR.
+
+Powers
+If the portrait remained in the possession of an individual for an entire tenday, an image of that individual appeared on the otherwise blank canvas. Once this occurred, the owner of the portrait no longer showed any sign of ageing and would retain the looks and vitality that they had when they first acquired the item. As the owner grew older or was the subject of an attack that negatively affected their life-force, the portrait would display the injuries and deterioration associated with such things, while the owner became effectively immune to them. However, these penalties would be stored within it and, if the artifact was ever destroyed, every single penalty that the portrait had absorbed would be visited upon the owner immediately.
+
+Appendix
+Behind the Scenes
+This item is obviously based on the The Picture of Dorian Gray by Oscar Wilde, a real-life work of fiction where a self-indulgent man acquires a painting that ages while he does not.
+
+References
+
+---
+
+## Grond Peaksmasher
+
+Grond Peaksmasher was a little-known son of Hiatea and a true demigod―unlike the rest of the giant-kin progenitors―who was worshiped by the firbolgs of the Moonshae Isles.
+
+History
+According to the Moonshae firbolgs, Grond using a weapon known as the Silver-Hafted Axe to carve the Isles out of a single piece of rock and that the leftovers became them, while the rubble became the dwarves. A less apocryphal theory is that his mother Hiatea granted him dominion over the Moonshae firbolgs to teach him responsibility while she concentrated on other matters.
+
+Regardless of how it came about, he arrived to the Moonshae Isles with his followers in tow in -6000 DR, where they settled primarily in the South Jotunhammer Mountains of Norland.
+
+In -5000 DR, Grond became trapped under the glacier Ice Peak on Oman's Isle. It is unknown how he came to be trapped there. Firbolg legends claimed that dwarves had stolen the foot out from under him, causing him to fall into a hole that had been carved out by his axe, and then a sheared-off mountaintop fell atop of the hole. Regardless of how it happened, being incarcerated so left Grond to drift into a deep slumber.
+
+Without Grond's guidance, his supplicants devolved into a barbaric race, and they went on to be used as pawns by the powers who attempted to wrest control of the islands away from the Earthmother. They remained as such until the Era of Upheaval when he woke up and made a deal with both Helm and Talos to have their followers free him in order to gain a strong foothold on the Moonshaes.
+
+In 1365 DR, when a combined tribe of firbolgs and trolls opened a way out of his prison with the rediscovered Silver-Hafted Axe and the aid of Deirdre Kendrick, he broke his accord with both gods and sided with the Earthmother against them.
+
+Grond aimed to encourage his followers to abandon their degenerate ways and aspire to be more like the mainland firbolgs, including becoming reclusive from humans and demihumans. To achieve this, he sponsored a migration of his followers to Oman's Isle and converted tribal shamans to the ways of true priests. He hoped to have achieved his goal within a century of his freedom, but it seems he didn't anticipate the encroachment of Faerie on the archipelago as Oman's Isle was dominated by fomorians and their cyclops servants by 1479 DR.
+
+Appendix
+
+Appearances
+Novels
+The Druid Queen
+References
+
+---
+
+## Grimmantle
+
+Grimmantle was a kingdom in the eastern Crags in northwest Faerûn.
+
+History
+The northern kingdom was founded by humans in 272 DR to guard against orc attacks. Around 306 DR, Grimmantle was swept away as by the orcs of the Thousand Fangs tribes on their way down to destroy Neverwinter and Illusk.
+
+Notable Locations
+ Grimmantle Keep
+
+References
+
+---
+
+## Grimmerfang
+
+Grimmerfang was a male orc and Orc-King of the orcish kingdom of Vastar in the late 6th and early 7th centuries DR.
+
+History
+After Vastar suffered eight bloody years of civil war following the death of Ologh the Overking, Grimmerfang won the war when he defeated his last rival for the throne, then ceremonially spitted, cooked and devoured them. Becoming Orc-King Grimmerfang in the Year of the Loose Coins, 580 DR, he took Ologh's court at the Hollow Mountain for himself, which he renamed "Mount Grimmerfang". With this, he ended warfare amongst the orcs of Vastar, at least for a short time.
+
+However, taking advantage of the orcish strife, dwarves were encroaching from the west, spreading underground and applying increasing pressure on the orcs. Meanwhile, Vastar suffered repeated defeats to the elves. Finally, armed with orcslayer blades, the dwarves surged out of the mountains and slaughtered the orcs. Vastar fell in the Year of the Spellfire, 610 DR, and Grimmerfang was slain in his namesake mountain. The orcish survivors were driven north and south into the mountain peaks as the dwarves founded Roldilar.
+
+References
+
+---
+
+## Grunnarch
+
+Grunnarch the Red was a Northman fighter and the king of Norland in the Moonshae Isles in the mid–14 century DR. His insignia was a scarlet sword.
+
+Description
+He had a red beard and flowing red hair. While he was only average height, he carried himself with such authority that he often seemed much taller.Grunnarch is described as "average" height and having "red" hair in Moonshae, but described as "tall and broad" with "yellow" hair in his original appearance in Darkwalker on Moonshae.
+
+Personality
+Grunnarch was a fierce and proud man. He reveled in raiding, capturing slaves, and fighting glorious battles. During winter months when the seas were not safe for his ships, he would stress and rage in impatience for the Spring to arrive. However, he was also a gracious host and was eager to entertain his guests.
+
+Relationships
+The dozen or so lesser kings of Norland all owed their fealty (and troops) to him.
+
+The elite Bloodriders served as his personal guard, led by Laric.
+
+History
+Grunnarch the Red ruled Norland from his royal lodge at Rogarsheim as of the, when Elminster toured the Moonshae Isles. Upon learning about the goal of the trip, Grunnarch volunteered to serve as Elminster's guide, and would subsequently take him by longship to visit fellow kings Raag Hammerstaad of Norheim, Thelgaar Ironhand of Oman, and Rolf Olafson of Gnarhelm.
+
+Grunnarch participated in the Darkwalker War of the, when he and Raag Hammerstaad brought their hosts of longships to Thelgaar Ironhand's Iron Keep on Oman's Isle to prepare for raiding and pillaging the cities of Caer Corwell and Caer Callidyrr in the lands of the Ffolk. Grunnarch would subsequently be placed in charge of attacking Gwynneth from the eastern shore, with his mission being to annihilate rather than simply raid the local towns.
+
+In the, Grunnarch was party to the signing of the Treaty of Oman, which halted the centuries-long conflict between the Northmen and the Ffolk.
+
+Appendix
+
+Notes
+
+References
+
+---
+
+## Grisella
+
+Grisella was the owner of the Winter's Cradle Tavern in Easthaven within the Ten Towns of Icewind Dale.
+
+Description
+The bartender was a large woman who wore dull gray outfits.
+
+History
+In Eleint, 1281 DR, Grisella had an infestation of beetles in the cellar of her tavern.
+
+Appendix
+Appearances
+Icewind Dale
+
+References
+
+---
+
+## Grappling hook
+
+Grappling hooks were a type of tool used to secure ropes for the purpose of climbing.
+
+Description
+Their rigid hooks were typically made of either two, three, or four welded together cast iron bars. Though hooks that could be folded flat were known to exist, they tended to cost roughly twice as much as a standard hook.
+
+Weaponology
+Hooks were designed to be thrown and secured on protrusions, thereby allowing rope to support a climber's weight.
+
+The intended use for grappling hooks was simply to make climbing easier and safer. However, thieves took advantage of the tool and over time it became considered a crucial tool in their line of work.
+
+Varieties
+A fold-able, single-pronged version of the grappling hook was included in a rope set sold by Aurora's Emporium in its "Thieves' Corner" assortment.
+
+One type of grappling hook was the griffon's claw, which possessed a magically strong grasp.
+
+Availability
+ In Athkatla, one could find grappling hooks for sale at the market Waukeen's Promenade.For Duty & Deity states that every nonmagical item featured in the Arms and Equipment Guide can be purchased at Waukeen's Promenade.
+ In Zhentil Keep, one could find grappling hooks for sale at Lita's Equipment.Ruins of Zhentil Keep states that everything from the Arms and Equipment Guide, except for arms and armor, can be purchased at Lita's Equipment.
+
+Notable Owners
+Individuals
+ Branislav Semyon, one of many thieves known to utilize grappling hooks.
+ Kestrel, a thief and the de facto leader of the Veiled Ones who opposed the Cult of the Dragon in 1369 DR.
+Races & Sentient Creatures
+ Jermlaines were often known to fight with makeshift grappling hooks.
+
+Appendix
+See Also
+ Piton
+Notes
+
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Gretta (cook)
+
+Gretta was a cook in Caer Corwell as of the mid–14 century DR.
+
+Appendix
+
+Appearances
+Darkwalker on Moonshae
+
+References
+
+---
+
+## Groth
+
+Groth was a firbolg chieftain on the island of Gwynneth in the Moonshae Isles as of the mid–14 century DR.
+
+History
+In the, Groth was in charge of capturing the unicorn Kamerynn and strengthening the Darkwell in Myrloch Vale by the Beast Kazgoroth, both of which tasks he failed. Groth joined the Northlander chieftain Grunnarch the Red King in the siege of Caer Corwell, and was killed in the fighting.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Grimblades
+
+The Grimblades were an adventuring company that operated around the Inner Sea lands in the late 13th century DR. The Grimblades were led by Kesten "Steelglance" Orthalin.
+
+History
+The Grimblades were thought to have plundered a number of ruins in the lands around the eastern Inner Sea.
+
+In the late 13th century DR, their leader Kesten came into the possession of a magical short sword and had the sage Arthylmas of Saerloon identify the blade. It was Sarghathuld, a legendary relic of Roldilar and Impiltur, and lost since the Year of the Luminar Procession, 1127 DR, a century and a half before.
+
+However, barely three seasons later, the Grimblades were all slain by the green dragon Urnalithorgathla in her lair in the Spiderhaunt Wood in the Dalelands. Their bones and Sarghathuld laid among her treasure hoard for over ninety years.
+
+References
+
+---
+
+## Grell
+
+Grell were sightless aberrations that resembled giant floating brains with tentacles and a beak.
+
+Anatomy
+
+Much like other aberrant creatures, the anatomy of a grell was truly bizarre. While some held that these flying, tentacled "brains" were the horrific creation of a parallel world or alternate plane, they actually originated from the Far Realm, where the laws of nature differed wildly from those of the Prime Material Plane.
+
+The wrinkled hide of a grell varied from a pale pink-gray to a faint purple-pink in coloration (with older specimens being darker in color than younger ones) which, combined with its damp skin that gleamed wetly in poor light, made adventurers mistake the creatures for disembodied brains. This skin was actually surprisingly leathery and tough, measuring several inches thick on the upper body of a grell.
+
+The only other external features of a grell were its ten strong, rubbery tentacles and its hard beak. The tentacles were each 5-8 feet long (with larger grell having longer tentacles) and made up of hundreds of ring-shaped muscles sheathed in an almost fibrous hide much thinner than the epidermis of the creature's body. Each tentacle was capable of regeneration, and the skin on each featured sharp, hard barbs every 2–3 inches all the way down to almost the very tip. These barbs were hollow, allowing the grell to inject a paralytic venom into its prey, but could also be partially retracted to allow the grell to manipulate objects it didn't wish to pierce or tear. The barbs were made of a bony substance that bore more of a resemblance to the calcified shells that some molluscs secreted than true bone, as it lacked marrow or blood vessels. The beak of a grell was made of the same substance.
+
+Grell internal anatomy was perhaps equally unusual and alien. The creature maintained its internal structure via a soft and flexible cartilage cagework; a grell could compress its body to roughly half of its original height or width with ease, thus allowing it to easily squeeze through surprisingly small spaces. However, they didn't like to do so if they could avoid it.
+
+The brain of a grell was located near the front of the body, above the beak, and was a rumpled membrane that called to mind a crumpled piece of paper. At the top anterior portion of a grell's body, above the brain, was a tangled mass of ganglia that acted as the center of the electroreceptive sense that allowed the eyeless creatures to detect their environment. Behind the brain, at the top center, were a grell's lungs, but a grell's vascular system lacked a heart. Instead it used ten powerful vascular chambers at the base of each tentacle that constricted and retracted together to circulate the aberration's green, copper-based blood.
+
+A grell's stomach was located near the center of the body, with the digestive tract filling the posterior third of the body. Grell fed infrequently and preferred large meals with long intervals between each instance; a 150 lb (68 kg) human was a perfectly manageable food item for an adult grell, and could sustain it for up to three months. However, a grell would have to be practically gorged to turn down a meal, as they would eat opportunistically, even if not very hungry.
+
+Abilities
+
+After its strange appearance, perhaps the most noticeable thing about grell was their complete lack of eyes, or indeed sight of any kind. However, they possessed two other keen senses that made up for their lack of vision, and these combined granted a grell blindsight. The first was their entire epidermis, which acted as a single "ear", giving them excellent hearing. The other sense was far more mysterious, and was described as a sort of electroreception; a grell was able to sense the faint electrical stimuli produced by both living creatures and inanimate objects within 60 ft (18.3 m) of itself. This sense was startlingly accurate despite its relatively short range, as a grell was easily able to distinguish between two beings of different sizes, a living and a dead creature, and even tell that two boulders had different compositions. It also allowed grell to "see" even in areas of magical silence.
+
+However, this is not to say that such a sense did not have its limitations; a grell would struggle to distinguish between, for example, two humans of a similar size unless they both spoke (a grell's keen hearing would allow it to identify individuals by voice alone). For a grell, such a scenario would be unlikely to be a problem, as non-grell were generally viewed as nothing more than potential prey.
+
+Society
+Psychology
+
+Grell had two priorities: colonize new lands and feed. Although instinct alone drove grell to reproduce, feed, and expand their territory, their intelligence allowed them to plan their actions far better than any pack of wild predatory animals could. Grell fell somewhere between the genius mind flayers and the crazed carrion crawlers on the scale of aberrant creature intelligence, with an intellect roughly on-par with that of humans, albeit modified by their strange alien motivations. As a race, grell were insular and reclusive, and wouldn't live with other creatures. A grell might join a fight alongside non-grell if it led to an easier meal, but would quickly disappear with its prize back to its nest or colony.
+
+Grell originated from the Far Realm, but then colonized the Underdark of every plane. With their hatred of sunlight, the enormous caverns of that unlit subterranean world held great appeal to them, as it allowed plenty of space for them to hunt, build colonies, and practice their strange alchemy. However, it was in the Shadowdark that they were especially plentiful and where the most ancient grell resided.
+
+The average grell had no interest in infiltrating societies, manipulating events on the surface world, or amassing slaves; other creatures, including humanoids, were viewed as nothing more than fresh meat to a grell, and they would consume even the largest and most dangerous of subterranean denizens, although they would not attempt to attack anything stronger than themselves. Grell hunted their prey through the underground corridors of their dark homes, using their ability to navigate without sight to easily outmaneuver their light-relying victims, and shunning the surface world where their natural advantages were useless. The larger and older a grell was, the larger the prey items it would attempt to hunt. After ambushing its victim and subduing it with its paralysis-causing tentacles, the grell would crack open its prey's skull with its beak to remove the brain (which were poisonous to grells), then devour the rest of the body, bones and all. Removed brains were normally discarded, but a grell colony might save them if they knew of any nearby mind flayers.
+
+Generally speaking, grell could be divided into two types: those that lived together in colonies, and those that were feral and solitary. However, there was no animosity between the two groups; both considered the other's lifestyle a matter of personal taste. Grell did not worship any deities, but would show deference towards "great devourers" such as the tarrasque and the "Chained God" Tharizdun.
+
+Feral grell
+Those grell that followed their alien motivations to live and hunt like animals were feral and solitary. They deliberately lived away from civilization, instead making their lairs in damp caves near roadways where they could pick off anyone unfortunate enough to either be wandering nearby at night, or that ventured into the grell's cave in search of water. Feral grell were still intelligent however, and would move on before travelers begin avoiding the "haunted" road.
+
+Colony grell
+
+Grell colonies were found only in the Underdark, and typically numbered between four and twelve individuals, but could reach as high as fifty. This was not including any humanoid livestock kept to make feeding easier. Such unfortunates never survived for long, except for the few who treacherously led other humanoids into the clutches of the grell.
+
+Grell society was divided into "soldier", "philosopher", and "patriarch" castes according to age and knowledge. Most grell fell within the soldier caste, and few colonies contained the powerful elder patriarchs, but it was the grell philosophers, with their magical experiments and knowledge of the Far Realm, that truly stood out from their fellow colonists. Although a grell would defer to a higher-caste member, any major decision was voted upon by all adult members of the colony. If a colony decided to pursue an agenda (a rare occasion), it would have been at the prodding of the colony's philosophers.
+
+Grell alchemy
+
+Grell alchemy was a particular sort of magic practiced by grell philosophers, with other aberrant creatures being the only others capable of using this strange power. Neither truly spell nor alchemical formula and indescribable with words, the best approximation would have been an odd combination of arcane magic, alchemical formulas, and natural science, all adhering to the "laws" that "governed" the Far Realm.
+
+When a philosopher wished to invoke grell alchemy, it first coated parts of its body in alchemical powders and lotion, then motioned with its tentacles while uttering a sequence of screeching, chittering sounds. The effects produced were normally (if such a word can be used to describe anything involved with the Far Realm) subtle; the mind of a foe could become clouded, the surrounding environment could become distorted, or a streak of lightning that created a blinding flash where it struck could be produced. The last example was one of the first experiments a grell completed when it became a philosopher; serving both as a sign of its station and a means of defending itself.
+
+Notable Grell
+
+In early Eleint of the Year of Lightning Storms, 1374 DR, a grell in the Vast Swamp joined a group of Shadowscale lizardfolk to attack the Sharptooths at their encampment. The grell hid in the fog, then descended rapidly to paralyze and incapacitate the Sharptooth chieftain Kessessek. However, adventurers parleying with Kessessek ultimately prevailed.
+
+Appendix
+Gallery
+
+Appearances
+Adventures
+Cormyr: The Tearing of the Weave • Waterdeep: Dungeon of the Mad Mage • Icewind Dale: Rime of the Frostmaiden
+Novels
+Finder's Bane • Venom in Her Veins
+
+Prince of Ravens
+Video Games
+Idle Champions of the Forgotten Realms
+Card Games
+AD&D Trading Cards • Dragonfire
+Board Games
+Dungeons & Dragons Dice Masters: Trouble in Waterdeep
+Miniatures
+Dungeons & Dragons Miniatures • Icons of the Realms
+
+Further Reading
+
+External Links
+
+References
+
+---
+
+## Greatgaunt
+
+Greatgaunt was a noble house of Cormyr that was elevated to the nobility in the 13th century DR.
+
+Description
+The family was a voice of moderation among the nobles and disliked the newer noble houses, such as House Alsevir. The Greatgaunts' wealth came from their extensive land holdings and they were known for their livestock herds.
+
+Members
+Late 15 Century
+ Elmaina Greatgaunt, Oversword and member of the war council. She had an imposing appearance, with a personality to match. She maintained a steadfast attitutde whenever Sembian threats emerged. Elmaina was somewhat critical of Raedra Obarskyr's involvement and approach in the council, such as when she rebuked her decision making as "choosing dresses" or when she insisted on writing Raedra's speech.
+ Eloinica Greatgaunt, a Lady who joined the fight when the Shadovar sieged Suzail.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Grand Hoist
+
+The Grand Hoist was an unfinished lift designed to ferry goods back and forth between Waterdeep and Skullport. The hoist was designed to bypass the dangers of Undermountain and the Lapel Sea.
+
+History
+The grand scheme was conceived by a former leader of the Mandible gang. Two teams began digging the shaft, one under Waterdeep and the second in Skullport. The project was a series of disasters that bankrupted most of its investors. As of 1479 DR, the Mandibles continued work on the project although at a reduced pace.
+
+References
+
+---
+
+## Great Glacier
+
+The Great Glacier, also called Pelvuria was a large mass of frozen land in northeast Faerûn.
+
+History
+The Glacier was created in  when the god Ulutiu laid himself to rest in his ice barge in the Cold Ocean,The name of this lost ocean was translated from the writings of a Thayan scholar studying the ruins of Hotun-Shûl. a favorite inland sea of his. The barge sank soon after and the Necklace of Ulutiu, an artifact that he wore, encased his body in ice when his divinity had departed to the Astral Plane.
+
+The Cold Ocean became completely frozen by the necklace's magic over the next seventy five years then, due to a lack of interference from the giant kingdom of Ostoria, encroached upon the land as well. The glacier eventually destroyed the remains of Ostoria (the city of Gharreil was a testimony to its former existence) By the year,  the Great Glacier had covered the Cold Lands of Vaasa, Damara, and Narfell with thick ice, driving out the inhabitants, but the expansion was held in check by the High Magic of the elves of Lethyr in .
+
+Some rumors credited the extremely old gold dragon Protanther the creation of the Glacier, as one of his plans to get rid of the evil from Vaasa. Although there was no absolute proof of this, given Protanther's outstanding magical abilities, such a feat was not impossible for him, giving credence to this rumor.
+
+Three thousand years later, in the, the Ice Queen Iyraclea was granted the power to overcome the High Magic by Auril and the glacier began to grow larger once more.
+
+In the, a slight shift in the rotation of Toril caused minor changes to weather around the world. In the Cold Lands, the Great Glacier began to melt and retreat, and the lands of Vaasa, Damara, and Narfell became free of ice for the first time in ages.
+
+In the, one of the great explorers of Vaasan history, Palus Frohm, set out on an exploration of the Great Glacier that lasted for 20 years. Upon his return, he wrote the definitive guide to arctic regions, 'Blood and Ice: Survival in the Great Glacier'. In the  a distant descendant of Paulus, Sharra Frohm, set out to follow up her ancestors work with a book that would focus on the perilous Nakvaligach region, which was an area that Palus had been unable to explore fully in his time. Sharra began her solo mission by climbing onto the the Great Glacier approximately 100 miles northeast of the Frozen Forest.
+
+With the death of Iyraclea in the, the Glacier began to shrink more quickly. By the late 15 century DR, the Glacier had become bordered by vast, muddy bogs fed by streams of meltwater from the retreating ice sheet. As it melted, it began to reveal chillborn zombie-infested ruins—such as the lost city of Vaalathrim—and passages to the monster-infested Frostfell. The denizens of these places began to plague northern Vaasa and Damara.
+
+Inhabitants
+As of the, Pelvuria hosted several distinct societies in Alpuk, Angalpuk, Nakvaligach, and Novularond. This included three of the four Ulutiun peoples: the Iulutiun people of Alpuk, the Angulutiun of Angalpuk, and the Nakulutiun people of Nakvaligach. In addition, white dragons and frost giants were known to live there.
+
+ Important Locations
+ Regions
+
+AlpukAlso called the Central Basin, Alpuk was the largest of the three regions of the Great Glacier. Mostly an open, vast tundra, it also included the Novularond mountains and the Lugalpgotak Sea and the Nakalpgotak Sea within its borders. The Uppuk River formed its northern border, the Tuutsaas Chain in the west, and the Lugsaas Chain in the south and east.
+AngalpukAnother tundra basin, Angalpuk was smaller than Alpuk. It was east of Alpuk, separated from it by the Lugsaas Chain, and bordered in the south and east by the Angsaas Chain. Angalpuk was also home to several forests.
+NakvaligachSometimes called the "Northern Barrens", Nakvaligach was covered in rocky, mounatinous terrain and icy crevasses. It was located north of Alpuk across the Uppuk River. Its western and eastern borders were Tuutsaas Chain and the Angsaas Chain, respectively.
+
+Mountains
+
+The Tuutsaas ChainOne of the three great mountain chains that form the borders of the Great Glacier, the Tuutsaas Chain is the western border of both Alpuk and Nakvaligach. It meets the Lugsaas Chain in the southwest.
+The Lugsaas ChainThe longest and tallest of the three mountain chains, the Lugsaas Chain forms the southern border of Alpuk and the Great Glacier.
+The Angsaas ChainThe eastern border of both the Great Glacier, Angalpuk, and Nakvaligach, it overlooks the plains of Sossal to the east.
+The NovularondA massive mountain range in the northeastern corner of the Alpuk basin, the center of the Glacier.
+ The Surykyk RangeA small mountain range in south Alpuk.
+The Lugalpgotak RangeAnother small mountain range in Alpuk, the Lugalpgotak Range was situated on the northern shore of the sea of the same name.
+
+Seas
+
+The Lugalpgotak SeaThe largest body of water in Pelvuria, this inland sea was located in the middle of Alpuk.
+The Nakalpgotak SeaThe second-largest body of water on the Glacier, it was located in northeastern Alpuk between the Novularond mountains and Nakvaligach.
+The Lugotak SeaAn inland sea located in western Alpuk.
+The Igotak SeaA triangular-shaped sea northeast of the Glacier of Ulutiu, in western Nakvuligach.
+The Ahtahqugotak SeaThe smallest inland sea in the Glacier, it was located in the Ibelgrak Valley in south Angalpuk. Notably, it was surrounded by forests.
+
+Other Locations
+
+The Glacier of UlutiuA 1,000 foot high wall of ice covered in glowing runes created by Ulutiu. It was located just north of the Uppuk River in southwestern Nakvaligach.
+The Uppuk RiverThe longest river on the Glacier, it formed most of the boundary between Alpuk and Nakvaligach.
+Ibelgrak ValleyA forested valley in south Angalpuk, it was avoided by the Angulutiuns despite the abundant wildlife.
+Iyraclea's CastleFormed from magical ice, it was occupied by Zaol, an outcast angel, after the Ice Queen's death.
+VaalathrimA lost city, freed from the Glacier by its retreat, full of undead that feed on the heat given off by the living.
+
+ Settlements
+
+Jukum
+Lilinuk
+
+Portal to the Ruins of Gharreil
+A featureless sheet of ice deep inside a crevice in the Great Glacier marked the entrance to the ruined city of Gharreil. In shadow and darkness, the ice appeared black, but when directly illuminated by the sun overhead, it appeared bright blue and an inscription was revealed. This inscription was written in a large circle on the smooth ice wall, in characters of the ancient giant tongue.
+
+Rumors & Legends
+Some believed that aasimon began construction on an empyreal citadel underneath the ice of the glacier in response to events triggered by the ruins at Hellgate Keep.
+
+Appendix
+
+Notes
+
+Appearances
+
+References
+
+pl:Pelvuria
+FR:Grand glacier
+
+---
+
+## Grounding
+
+Grounding was an abjuration spell that prevented damage from normal electrical discharges and helped insulate against magical electrical attacks, within the area of effect.
+
+Effects
+This spell operated similarly to fire purge but did not prevent electrical discharges as fire purge prevented ignition of fires; instead the electricity was prevented from damaging anything in the protected area. Magical bolts could still penetrate the barrier or be generated inside the barrier, but their intensity was cut in half and creatures and objects had a better chance of avoiding or resisting their effects.
+
+The area of effect was the same as for fire purge (10 yd/9.1 m square) which increased exponentially if this spell was cast cooperatively by multiple priests.
+
+Components
+In addition to verbal and somatic components, this spell required the priest's holy symbol and a small coil of silver wire.
+
+Appendix
+See Also
+ Fire Purge
+References
+
+---
+
+## Greater spell immunity
+
+Greater spell immunity, also known as Serten's spell immunity, was an abjuration spell that was identical to spell immunity except that it bestowed complete resistance against one or more particular spells, spell-like effects of magic items, or spell-like abilities of creatures of 8th level or below.
+
+Appendix
+See Also
+ Spell immunity
+Appearances
+
+References
+
+---
+
+## Greater invisibility
+
+Greater invisibility or improved invisibility was an illusion spell that functioned exactly like invisibility except the recipient could attack and not break the spell.
+
+History
+The spell was attributed to the Netherese arcanist Pockall in  and was known then as Pockall's invisibility plus.
+
+Appendix
+Gallery
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Graycloak's Wolves
+
+Graycloak's Wolves was an adventuring company active in 1343 DR, and led by Irmar Graycloak.
+
+Activities
+Graycloak's Wolves were active in the city of Hlondeth in the Vilhon Reach in the Year of the Boot, 1343 DR, when they were requested to deliver the Tome of Torment—the most holy book of the church of Ilmater—to Master Sufferer Olbedan in Aralent. However, during the harsh winter, Graycloak's Wolves fell prey to doppelgangers and leucrotta preying on travellers. The Tome was thought lost in the winter snows.
+
+Appendix
+References
+
+---
+
+## Great ghul
+
+Great ghuls were undead cousins of genies who occupied the lowest rung in the hierarchy of the jann.
+
+Description
+Great ghuls had one interesting feature—their feet were always donkey hooves, although they often tried to hide this shortcoming by wearing long robes or boots. Ghuls adored eating the flesh from corpses and then drinking the bone marrow. They often had long hair and bushy eyebrows. They had clawed fingers and well developed muscles. Their white skin was always sticky and cold. Great ghuls knew that their looks were repulsive, so they often tried to hide their ugliness with lush sarafans and jewelry.
+
+Abilities
+Only holy water and magic weapons could injure or kill a great ghul. They were much weaker during the daytime than at night. Being undead, great ghuls had a special immunity to poison and many mind-affecting spells.
+
+Great ghuls were capable of casting a variety of spells including bestow invisibility, polymorph self, and shocking grasp. Because of their spellcasting prowess, great ghul magicians were much more dangerous than their simple relatives.
+
+Combat
+Great ghuls attacked enemies with sharp claws and teeth. Thanks to their great strength and claws, ghuls could climb on flat surfaces to surprise prey.
+
+Society
+Great ghul mages lived in seclusion but most ghuls lived in pairs. Many great ghuls adored perfume, using it to hide their disgusting smell.
+
+The great ghuls had a sheikh named Sahin Sira.
+Habitats
+Great ghuls preferred living in ruins or caves of the high mountains. They were often found in cemeteries where they fed on corpses. Their ability to polymorph helped them sneak into cities to find food.
+
+Beyond the land of Zakhara, great ghuls could be found in some areas of the Domains of Dread.
+
+Relationships
+People were usually afraid of the great ghuls and genies generally despised them, so they would often conceal their appearance by using spells. Despite this, great ghuls often performed tasks for genies and even helped people if they took an interest.
+
+Appendix
+Appearances
+Adventures
+Dungeon #51,: "The Last Oasis"
+Video Games
+Al-Qadim: The Genie's Curse
+
+See Also
+ Ghul-kin
+ Ghul Lord
+
+References
+
+Connections
+
+---
+
+## Grimnoshtadrano
+
+Grimnoshtadrano (called Grimnosh for short) was a riddle-loving green dragon dwelling in the High Forest in the 14 century DR.
+
+Description
+Grimnosh had golden-green eyes and was eighty feet long from snout to tail. He could change color at will to blend in better with his surroundings.
+
+History
+Some time during or prior to 1364 DR, Grimnosh destroyed the village of Taskerleigh near Waterdeep. From Taskerleigh, he retrieved the Morninglark harp, which he carried with him to his lair. Soon thereafter, he was approached by Iriador Wintermist, a.k.a. "Garnet", who made a deal: if she could have the Morninglark, she would use it to issue a widely spread challenge for adventurers and riddlemasters to approach Grimnnosh with their best riddles. Grimnosh agreed and received a scroll from Garnet to give to anyone who succeeded at the challenge.
+
+Soon, a group of mercenaries and adventurers led by Danilo Thann and Elaith Craulnober, accompanied by the riddlemaster Vartain, sought out Grimnosh in the High Forest. They failed to answer his riddle correctly, but nonetheless incapacitated him with magic and fled with the scroll. When Grimnosh finally recovered, he flew to Waterdeep to have his revenge on Garnet. He was granted permission to enter Waterdeep and bypass Ahghairon's dragonward by Maaril the Dragon Mage in exchange for the services of Grimnosh's son, Khavalanoth. Upon entering the city, Grimnosh plucked Garnet from the crowd just as she was about to finalize a curse on the Harpers and the citizens of Waterdeep.
+
+Appendix
+Appearances
+Novels
+Elfsong
+
+References
+
+FR:Grimnoshtadrano
+
+---
+
+## Greenfields
+
+Greenfields may refer to:
+ The Greenfields region of the Western Heartlands;
+ The Greenfields region of east Faerûn; or
+ The Celestial Plane known as Green Fields.
+
+---
+
+## Greenfields (Old Empires)
+
+The Greenfields, also known as the Green Lands, was a region of Unther and later Tymanther, south of the River Alamber and including the River Angol.
+
+Geography
+The land was overly-fertile due to its soil having been magically enhanced since the foundation of Unther, and the waters of the River Alamber made the land a naturally fertile area as well. Together, this made the region even more fertile than the lands of the Akanul.
+Flora & Fauna
+The primary crops in the Greenfields were those of barley, flax, rice and sesame seeds.
+
+Alongside the normal fauna of East Faerûn, the Greenfields were populated by androsphinxes and gynosphinxes, that were considered a problem in the region because the creatures usually raided the nearby settlements. After the Spellplague, the Greenfields also became home to a sizable number of kobold tribes and some creatures native to Abeir, such as the scathebeasts. Typical herd animals usually found in the Greenfields included cattle, donkeys, goats, oxen and sheep.
+
+History
+Before the foundation of Unther, the Greenfields were inhabited by Turami tribes that farmed the land for centuries until the arrival of the Mulan. Historically, it was the breadbasket of the nation since almost 70% of the country's food came from this region and it had many productive farms.
+
+In the 14th century DR, the Greenfields was a land troubled not only with monsters problems but with bandit problems. The authorities of Unther had posted a militia of almost 1000 soldiers to take care of the situation, as well as offered rewards to adventurers to deal with the sphinxes and the bandits, to no avail. The mysterious Enclave also built their headquarters on this region. To boot, Untheran farmers had overused the land, and the crops were less productive than in past centuries.
+
+During the Mulhorandi invasion of Unther, in the late years of the 14th century, the Mulhorandi army took control of the Greenfields, exporting its food to their country.
+
+During the Spellplague, the Greenfields were hit hard by the violent exchange of lands between the worlds of Abeir and Toril. As a consequence of this cataclysm, the Ash and Lance Lakes were created. After the foundation of Tymanther, the region became part of the dragonborn nation and it filled role of being the nation's breadbasket, much as it had been for Unther in the past.
+
+Notable locations
+Arush Ashuak
+Firetrees
+
+Appendix
+Gallery
+
+References
+
+FR:Vertes contrées
+
+---
+
+## Grishnak
+
+Grishnak was a half-orc on the Sword Coast North in the 1370s DR.
+
+History
+Grishnak was a half-orc sailor, who got stranded in Highcliff, as the lizardlings attacked the boats.
+
+Appendix
+References
+
+Appearances
+ Neverwinter Nights 2
+
+External links
+
+---
+
+## Graveyard (Mere of Dead Men)
+
+This unnamed graveyard was a graveyard in the Mere of Dead Men.
+
+Location
+This graveyard was located near Fort Locke.
+
+Structure
+The graveyard was composed of smaller graves and two stone crypts.
+
+Interior
+The smaller crypt held some minor magical items. The bigger crypt held many more treasures, but many more undead, led by the shadow priest.
+
+History
+This graveyard was one of many sites where the King of Shadows clashed with the Neverwinter army. The graveyard was built to contain many dead soldiers, without any names.
+
+The graveyard was infested by zombies and skeletons when the shadow priest was ordered to raise an army, by Black Garius' demands. Commander Tann and his men (Bruneil, Blaine and Garret) were captured. The Kalach-Cha could've rescued them (except Garret, who died) and lead them out of the graveyard.
+
+Appendix
+Gallery
+
+Appearances
+Video games
+Neverwinter Nights 2
+
+References
+
+---
+
+## Gray Goose Provisioners
+
+Gray Goose Provisioners was a store in Eshpurta run by Carn Wittsome and his mistress, Nethris Perndle. The Gray Goose carried good trail rations and other small supplies for those that needed or wanted to travel. Prices were very reasonable but sometimes it was awkward interrupting an argument between the two proprietors to make a purchase—the elderly couple bickered constantly on just about every topic. The shop was located next door to Bhamm's Herbs in the southern quarter of the city.
+
+References
+
+---
+
+## Green Shield
+
+In the Heralds of Faerûn organization, the office of Green Shield was one of two unique positions (Gauntlet being the other one) that were temporary. While most Herald offices were a lifetime appointment, Green Shield was given a four-year term that began and ended just before consecutive Shieldmeets. Green Shield presided over the particular quadrennial festival at which was convened the Heralds' Round—an open court wherein the High Heralds publicly spoke and voted on various aspects of Herald business. Green Shield was responsible for the docket of the Round as well as most other aspects of the Shieldmeet: seeing the rituals were properly performed, the organization, logistics, and scheduling of events were carried out, security provided for the distinguished attendees, proper precedence observed, and all of it done with diplomacy. For the next four years, Green Shield followed up on any business conducted that day, consulted with the High Heralds, and prepared for the next Shieldmeet.
+
+This office was usually filled from the ranks of the Heralds Pursuivant and never by a sitting High Herald. New appointees were trained by, and generally took their direction from, Old Night. Good performance frequently resulted in the term of office being renewed for another four years. The residence of this office was a fortification known as Shield House located in northern Cormyr, northeast of Castle Crag on the west side of the Immerflow tributary.
+
+Possessions
+Green Shield and Gauntlet were collectively known as the Tabards, short for the Sun and Moon Tabards, referring to the heraldic overgarments they wore. The shield of the office was a forest green field with no division, devices, or ordinaries. The rod of office was a metal shaft that bore two miniature shields, one at each end. The rod could operate as a rod of splendor and a wand of negation.
+
+Office Holders
+ Naerlyn Phalphar (circa 1368 DR)
+
+References
+
+---
+
+## Grayclaws
+
+The Grayclaws were a thieves' guild located in the city of Tantras in the Vast in the 14th century DR.
+
+Organization
+The Grayclaws were composed of thieves and smugglers. Most thieves and other rogues in Tantras were Grayclaws. Those who were not either made an arrangement with the guild or were soon killed.
+
+Around 1358 DR, the Grayclaws were commanded by two men: Amlithor Harlguss, a thief, and Othniir Xalast, a priest of Mask.
+
+Activities
+An effective thieves' guild, the Grayclaws were largely engaged in both theft and smuggling. Being somewhat loyal to their city, they mostly only preyed upon visitors to Tantras and those native Tantrans whom they felt to have grown too wealthy, too arrogant, or too immoral. The Grayclaws watched each other and made certain that they did not attract undue attention, not wishing to making many enemies nor to raise the ire of the High Council of Tantras.
+
+Possessions
+The Grayclaws were named for the claw-like weapons they favored in combat, also called grayclaws. Armed with these blades, Grayclaws could deliver a devastating sneak attack on their targets, though they were less effective with other weapons. The claws also help them to climb walls. A skilled grayclaw-wielder was dangerous in a fight and could scale a wall with ease, though they could hardly pick a pocket with them on.
+
+Relationships
+The Grayclaws were loyal to Tantras and defended their home city against outside factions attempting to muscle into the underworld. They opposed such efforts by the Cult of the Dragon, the Red Wizards of Thay, the Zhentarim of Zhentil Keep, Inner Sea pirates sponsored by Calishite slavers, and even the Harpers. Only the Harpers were strong in Tantras, and they steered clear of the Grayclaws, as they had common enemies in the other groups.
+
+History
+The Grayclaws were well entrenched in Tantras by 1358 DR, by which time they had fought off, at one time or another, the Dragon Cult, the Red Wizards, the Zhentarim, and the slavers. They remained active through 1367 DR and past 1370 DR.
+
+Appendix
+References
+
+---
+
+## Grayclaws (weapon)
+
+Grayclaws were a set of claw-like weapons favored by the Grayclaws thieves' guild of Tantras, who took their name from these blades.
+
+Description
+Grayclaws consisted of a set of leather gauntlets that strapped to the hand fitted with brass knuckles, from which projected razor-sharp blades. They were similar to the bagh nakh wielded in some eastern lands.The Indian bagh nakh were statted for 3rd-edition D&D in the Arms and Equipment Guide. This also presents the nekode, a similar weapon with a bonus to climbing, which might be considered equivalent to grayclaws in 3rd edition.
+
+Abilities
+Grayclaws were a slashing weapon, lightly damaging but fast. A trained user could be dangerous in battle, and Grayclaws thieves, specialized in their use, could deliver a devastating sneak attack on their targets.
+
+The claws had another use in gripping surfaces while climbing, enabling the wearer to climb faster and more surely. A Grayclaws thief could use them to scale a wall with ease. However, they tended to hamper the wearer's hand movements in other areas, and they could not be donned or doffed quickly.
+
+Availability
+A set of grayclaws typically cost 3 gold pieces, though they were rarely available on the open market.
+
+Appendix
+Notes
+
+See Also
+ Bagh nakh
+ Tiger's claws
+ Nekode
+
+References
+
+External links
+
+---
+
+## Greenest
+
+Greenest was the only sizable town along the Uldoon Trail in the Greenfields area of the Western Heartlands.
+
+History
+The town was founded by the halfling Dharva Scatterheart, a rogue who saw herself as the queen of the Greenfields. She passed away without achieving such fame, but her town prospered and grew. In the year 1489 DR, Greenest was attacked by the blue dragon Lennithon and the Cult of the Dragon.
+
+Notable Inhabitants
+ Cuth Swift
+ Eadyan Falconmoon
+ Escobert
+ Linan Swift
+ Markguth
+ Tarbaw Nighthill
+
+ Important Sites
+
+ Temple of Chauntea
+
+Appendix
+
+Appearances
+
+References
+
+FR:Verdure
+
+es:Verdisimo
+
+---
+
+## Green Sirene
+
+The Green Sirene was an inn in the city of Tantras in the Vast.
+
+Location
+The Green Sirene lay on Whistleturn War, close to the Market in the center of the city.
+
+Description
+It was a good-quality establishment with moderate prices and favored by sailors.
+
+History
+During the Time of Troubles of the Year of Shadows, 1358 DR, the Green Sirene was commandeered by the Tantran navy. They used it as a barracks and a recruiting post.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Greywolf
+
+Greywolf was a famous bounty hunter who operated in the Lands of Intrigue in western Faerûn during the latter half of the 14 century DR.
+
+History
+Greywolf was a fallen ranger who succumbed to the desire of money and celebrity. He was recruited by the Shadow Thieves as a bounty hunter, usually tracking prey in the Forest of Tethir or spying on the local druidic circles.
+
+Around the year 1368 DR, Greywolf was hired to kill an artist named Prism and retrieve some valuable gem stones that he had stolen. In a case of mistaken identity, the Bhaalspawn known as Gorion's Ward was also given this job by an agent named Oublek.
+
+Possessions
+At some point in his career, Greywolf came into the possession of the +2 magic longsword, Varscona.
+
+Appendix
+Appearances
+Baldur's Gate (game)
+
+References
+
+de:Greywolf
+
+---
+
+## Green warder
+
+Green warders were plant creatures programmed by elves to guard their woodland secrets.
+
+Description
+Green warders were humanoid-shaped topiary bushes pruned to look like tall elves, but if untended, they grew bushy and scraggly. They bore sharp thorns on their forearms for defense, if needed.
+
+Behavior
+Green warders had limited intelligence and minimal personalities. They were generally peaceful and benign beings and only in extreme circumstances would they shed blood, even if directly ordered to do so.
+
+Combat
+Warders were generally programmed to avoid shedding blood; their purpose was to guard. If intruders approached, they would first raise an alarm and then use their magical powers to confuse the invaders or send them into a deep sleep until elven reinforcements could arrive. If under attack, a green warder would typically flee but if trapped could use its thorns to defend itself.
+
+Habitats
+Locations where elves left green warders included the Ardeep Forest and the Crypts of the Deepening Moon.
+
+History
+When the elves left Cormanthor during the Retreat, thousands of green warders were left behind, guarding the old sacred sites. By 1371 DR, however, inhabitants of the Dalelands began noticing green warders on the outskirts of the great forest that were acting far more aggressive than was typical.
+
+References
+
+---
+
+## Gratus
+
+Gratus was a male human living in Scardale before and during the Time of Troubles of 1358 DR.
+
+History
+Gratus was originally the Minister of Propaganda in the regime of Lord Lashan Aumersair. When his lord was defeated, he surrendered to the allied forces and for this was not prosecuted like his fellow members of Lashan's government.
+
+Gratus later become a shoemaker but had some dealings with the underworld of Scardale and knew well the thief Varden.
+
+When the god Bane, after the Battle of Shadowdale, ordered the Zhentilar armies to conquer Scardale to use it to then threaten Tantras, Gratus became a leader in the Sembian Resistance, composed of all the forces in the dale fighting the Zhents. When Varden returned from a mission with the heroes Midnight and Adon, Gratus came to believe that they could cause havoc for Bane, so he offered the help of the Resistance to the heroes.
+
+References
+
+---
+
+## Graul
+
+Graul was an orc leader in Dead Orc Pass in the Silver Marches.
+
+Description
+Graul was a large orc.
+
+Personality
+Graul was a follower of Gruumsh, but he was not very religious. Nevertheless, he was very crafty and knew how to use his people's superstitions against them.
+
+History
+He raided caravans that came through the Dead Orc Pass, but the blind ranger Montolio Debrouchee often stood in his way. His tribe's shaman was superstitious of Montolio, calling him an omen of bad magic In 1341 DR, Graul had under his command 1,000 fighters (including orcs, worgs, and giants) and controlled half of the valley. That year, he became aware of the presence of the drow Drizzt Do'Urden. Unsure of whether he was a scout or a renegade, he ordered his minions to keep their distance from the drow. But as Drizzt remained in the valley throughout the winter, Graul, fearing a potential rival seeking to usurp his throne, sent two patrols to kill him but they were unsuccessful due to Montolio's interference.
+
+Graul remained unaware of Drizzt's exact whereabouts until he was approached by the bounty hunter Roddy McGristle, who convinced him (through monetary payment) to mount an attack against Montolio's home in Mooshie's Grove. Having probable cause to attack the grove as retaliation for Montolio's aiding of the drow, Graul begun his siege during the new moon with the shaman's blessing from Gruumsh One-eye. The attack failed, and Graul and the survivors turned on McGristle; he easily escaped, however.
+
+Appendix
+Appearances
+Novels
+Sojourn
+
+References
+
+---
+
+## Grand Caliph
+
+Grand Caliph was the Midani title for the ruler of all of enlightened Zakhara.
+
+The Grand Caliph led the Land of Fate in matters of state as well as faith from his seat, the Palace of the Enlightened Throne in the capital city of Huzuz. The extent of his influence on the more distant parts of his realm, however, often remained in doubt.
+
+History
+The Grand Caliph in 1367 DR was Khalil al-Assad al-Zahir, the 18 bearer of the title and direct descendant of the first Grand Caliph, an al-Badia boy who found the teachings of the Loregiver and united all lands of Zakhara under the banner of Enlightenment more than 500 years earlier.
+
+Grand Caliphs of Zakhara
+ 1: First Grand Caliph (c. 800 DR)According to the source, the reign of the first Grand Caliph ended "more than five centuries past", but began some "six centuries ago", before the current time of the setting.
+ 2: Nasir al-Nasr
+ 15: Akbar al-Assad
+ 16: Bahamal al-AssadNo dates are given for Bahamal's reign, but it is known that he was in power in 1327 DR.
+ 17: Achmed al-Assad (until c. 1345 DR)
+ 18: Khalil al-Assad al-Zahir (from c. 1345 DR)
+
+Other Uses
+The title of Grand Caliph was also assigned to Arash bint Sanjar, responsible for the Scouring of the Utter East in 657 DR, long before the advent of Enlightenment, by Mar historians.
+
+The mighty ruler of the djinn, Husam al-Balil ben Nafhat al-Yugayyim, bore the similar-sounding but distinct title of Great Caliph.
+
+Appendix
+
+Notes
+
+References
+
+External links
+
+---
+
+## Grand Bazaar
+
+The Grand Bazaar was a market in the city of Huzuz. Easily the largest open-air market in Zakhara, the Grand Bazaar even surpassed the great markets of Calimport and the Durparian markets at Heldapan.
+
+Constant change to the layout of the Grand Bazaar made it a confusing place to shop for those unaccustomed to its methods. However, there were certain lanes and walkways that remained fixtures. Many well-established merchant houses, mystics, and barbers maintained shops here for years. Trade at the bazaar was conducted from dawn until curfew, aided by special lamps to illuminate the vast area after dark via continual light enchantments.
+
+Services
+Nearly anything could be purchased at the Grand Bazaar, but the main problem was actually finding specific items. In order to save time, many adventurers hired guides to show them where specific vendors could be found. Two notable guides were Parok Mirami and Laksi al-Afyid.
+
+Services from porters, guides, torch-bearers, and bodyguards could all be purchased for a fee.
+
+Prices
+Prices were usually not posted on merchandise of any kind. People who looked as if they could not afford certain items were often turned away and others were often asked to show some coin before any real haggling could begin.
+
+Those who paid full price at the Grand Bazaar quickly gained a reputation. Because of word of mouth, someone who paid full price at one shop would find himself paying double or even triple price at shops down the road.
+
+Shops & Vendors
+ Magical Items Bought and Sold
+ the Barber Shop of Gorar al-Aksar
+ Mad Aja's Magic for Fools & Simpletons
+ Fine Rugs
+ Mira al-Mikam,  barber shop
+ Ropes for All Uses
+ Gogal al-Misal, slave trader
+ Clothes for the Enlightened
+ Hama Sayif, mystic and dancer
+ House of Al-Danafi
+ Howard Baker, fine pastries
+ Janci al-Kriman, camels and other beasts of burden
+ Sculptures for the Elite
+ Lights in the Dark
+ Mari bint Sadita, coffee seller
+ Minak al-Zafyi, exotic animals
+ Sadik Harama, fine weapons
+ Yunik al-Zanil, flying tours
+
+Appendix
+References
+
+---
+
+## Greyanna Dhuurniv
+
+Greyanna Dhuurniv was the middle Matron Sister of House Dhuurniv involved in the Zhent invasion of Shadowdale in the Year of Risen Elfkin, 1375 DR.
+
+History
+Although Greyanna and her sisters allied with the Zhentarim, the Matron Sisters had plots in minds different from the objective of the Zhentilar and the Sharrans. Greyanna was always fascinated with the Twisted Tower of Ashaba and wanted to discover all its secrets. She also finally found and awoke the lost marshal, Azmaer Dhuurniv.
+
+Appendix
+References
+
+---
+
+## Grand Boulevard
+
+The Grand Boulevard was a large street in Maerimydra.
+
+Geography
+Situated in the center of Maerimydra, the Grand Boulevard neatly bisected the city into its northern and southern sections. It was roughly 750 ft (228.6 m) long and 150 ft (45.7 m) wide and flanked at either end by long sweeping staircases that led up to the Courtyard of Lolth in the west and Castle Maerimydra in the east.
+
+History
+The Grand Boulevard had long been the busiest part of Maerimydra, owing to its central position and the political and religious institutions it connected. However, in 1372 DR, during the Silence of Lolth the armies of Kurgoth Hellspawn invaded and took over much of the city, including the boulevard. Afterwards, it became a very dangerous place to travel; thanks to its openness, it was very hard to move about unnoticed and frequent patrols and campsites would appear along its length.
+
+Notable locations
+Temples & Shrines
+ Courtyard of Lolth
+Noble Estates
+ Castle Maerimydra
+
+Inhabitants
+For much of Maerimydra's history, the Grand Boulevard was bustling with drow but after the Silence of Lolth, the street became home to the bugbears, goblins, fire giants, and ogres who had set up campsites along it.
+
+Appendix
+Appearances
+ City of the Spider Queen
+
+References
+
+---
+
+## Grinning Skull
+
+The Grinning Skull was one of two oases found in the Plains of Purple Dust. This oasis was so named because it was shielded from the harsh wind by the skull of a long-dead great dragon.
+
+Inhabitants
+In the mid 1300's DR, the Grinning Skull oasis served as the base for a group of bandits called the Desert Wind. They were led by Sheik Ar-Rabi. The bandits forced prisoners to drink water taken from the pools in order to determine if the water was safe. Desert lizards were used if there were no prisoners on hand.
+
+History
+This well was established during the twilight years of the great Imaskari Empire. The Imaskari decided to turn the only well located in the region into a dangerous trap. The pure water from the well was changed into a poison that was deadly to animal life but harmless to plants. The water from the well was diverted into six separate pools. Five of the pools carried the poisoned water and one remained clean. The water from all of the pools looked and appeared identical to the others. True to their cruelty, the Imaskari cast an enchantment upon the pools so that the safe pool would randomly shift with each sunrise.
+
+Appendix
+References
+
+---
+
+## Grima al-Auni
+
+Grima al-Auni min Kor was an ethoist (conservative) priest of Kor and member of the Corsair Council of Hawa.
+
+Description
+Grima had black hair and black eyes but appeared stately even though he was a hill giant.
+
+Personality
+His calm manner blended well with the Council, often providing reason where others sought direct action.
+
+Abilities
+Grima possessed the common abilities of a priest, but used his detect lie spell often while listening to those petitioning him for sanctuary.
+
+Activities
+Grima enjoyed working with children who sometimes needed protection while growing up in the violent corsair society. He was able to secure funds from the Council to build a mosque dedicated to Kor in Hawa.
+
+History
+Grima was trained in Huzuz and was on his way to Liham, when he was captured by Jayani al-Jasir and taken to the Corsair Domains. Since then he has found his true calling among the rough inhabitants of Hawa.
+
+Appendix
+References
+
+---
+
+## Grendan Baenre
+
+Grendan Baenre was a member of House Baenre who was a tenth-year apprentice at Sorcere circa 1373 DR. He was considered handsome and had a flair for illusion.
+
+History
+Gredan was one of the Baenre magic-users that Gromph Baenre gathered during the Siege of Menzoberranzan for an attack on Nimor Imphraezl through a scrying crystal.
+
+Appendix
+
+Appearances
+ Extinction
+
+References
+
+---
+
+## Greater ironguard
+
+Greater ironguard, or simply ironguard,  was an arcane abjuration spell that temporarily granted one creature immunity from all non-magical metals and some enchanted metals. It was an  improved version of lesser ironguard.
+
+Effects
+The effects of this spell were the same as for lesser ironguard except that it also granted immunity and transparency to metals that had been enchanted up to a certain degree.Up to and including +2 weapons or the equivalent.
+
+Components
+In addition to the verbal, somatic, and material components required for lesser ironguard, this spell needed an arcane focus in the form of a small piece of raw adamantine costing about 100 gp.
+
+Appendix
+See Also
+ Tenfold ironguard
+
+Notes
+
+References
+
+---
+
+## Great revenance
+
+Great revenance was a spell researched by Irae T'sarran that could raise an army of revenants slaved to the caster's will.
+
+Effects
+The magic of this spell could potentially animate thousands of creatures as revenants under the command of the caster. The undead horde would retain the capabilities each creature had in life but also bring them under a shared will. However, this unifying power could only be achieved if used in conjunction with a potent source of negative energy, such as that projected by the Undying Temple in Maerimydra.
+
+Components
+For the great revenance spell to perform as it was originally intended, it required the empowering negative energy of the Undying Temple and a great number of recently deceased bodies.
+
+History
+In 1372 DR, on Marpenoth 2, Irae T'sarran began researching the great revenance spell under Kiaransalee's guidance in Maerimydra. Irae summoned the Undying Temple to Castle Maerimydra on Marpenoth 17 and moved her spell research there. By Marpenoth 27, she was devoting most of her time to developing the spell and had made plans to use the spell on the Dalelands above.
+
+Appendix
+Appearances
+ City of the Spider Queen
+References
+
+---
+
+## Grimwald's greymantle
+
+Grimwald's greymantle was an arcane necromancy spell that prevented healing or regeneration effects from working on a single creature for a short time.
+
+Description
+The caster imbued the material component of this spell (a bone, small skull, or small animal skeleton) with a silver-gray glow which immediately had to come in contact with the target. If successful, the radiance was transferred to the target and enveloped it like a mantle. While surrounded by this aura, the target could not repair damage or regain health by any means, including healing spells such as cure light wounds and heal; a potion of healing; a staff of curing; or regeneration effects such as a regeneration spell, a ring of regeneration, or a natural ability such as that possessed by trolls. Grimwald's graymantle lasted for a short time corresponding to the level of the caster. If it expired or was dispelled, any healing or regenerative effect still in place on the target creature began working again. The target got one chance to resist the spell, in which case it faded harmlessly away.
+
+This spell was modified a few times in its history, making it less dangerous for the caster and improving the range at which it operated. For the original version, the caster had to wield the bone, skull, or skeleton like a dagger or a club and successfully hit the target, presumably in melee combat. If the caster missed his or her attack at the time of casting and again at the next opportunity to strike, then the gray aura spread to the caster and he or she could receive no healing until Grimwald's greymantle was dispelled or expired. The next version of this spell allowed the caster to throw the bone or skull up to 5 yd (4.6 m) per level of the caster at the target and avoid the ill effects of a failed attack. The newest version increased this range to 100 ft (30 m) plus 10 ft (3 m) per level of the caster.
+
+This spell did not interfere with curing of disease, blindness, or deafness, nor did it prevent cause wound spells.
+
+Components
+In addition to verbal and somatic components, this spell required a small bone or skull to charge with the gray aura. The original version also allowed for a small animal skeleton to be used.
+
+History
+Grimwald's greymantle was originally published in the "Tome of the Covenant" to commemorate the founding of the Covenant in the Year of the Covenant, 673 DR. The second version was later published in "Volo's Guide to All Things Magical" and became generally known to the magical community.
+
+Appendix
+References
+
+---
+
+## Green sleeping dust
+
+Green sleeping dust was a drug that caused a creature to fall asleep.
+
+It was made from parts of the bija tree, which was found in the Quang Muku Forest in Koryo, Kara-Tur. It was incredibly potent—a person who inhaled the dust could not resist falling asleep.
+
+Around 1357 DR, its main users were ninja in service to the Soretyo family of Foo Nakar, a city within the Quang Muku. Some merchants with illicit dealings could purchase it as well, though it was very expensive.
+
+Green sleeping dust may have been used by the "nameless ones" — ninja — who kidnapped Meo Li around 1350 DR. She recalled a "magic powder", blown like a "puff of smoke" in her face, and knew nothing more.
+
+Appendix
+References
+
+---
+
+## Grinning Ponies
+
+The Grinning Ponies was a band of halfling adventurers who traveled along the Trade Way and beyond.
+
+Activities
+The Grinning Ponies was a halfling band that traveled along the Trade Way from Memnon to Waterdeep and east and back the length of Elturgard.
+
+History
+The name of the band came from the halflings' mounts (ponies) and the name of the year 1481 DR, the Year of the Grinning Halfling.
+
+In 1481 DR, Spider Topolino (the reborn Regis) joined the Grinning Ponies while they were stationed at Boareskyr Bridge. He rode with them until Eleasis of 1483 DR.
+
+Members
+In 1481 DR, the band had twelve members, including Doregardo (the leader), Showithal Terdidy, and Spider Topolino (Regis).
+
+Appendix
+See also
+ Kneebreakers
+
+Appearances
+ Novels
+The Companions
+Night of the Hunter
+Rise of the King (mentioned)
+Hero
+
+References
+
+---
+
+## Great Dismal Delve
+
+The Great Dismal Delve was the home of all dao living on the Elemental Plane of Earth.
+
+Description
+The Great Dismal Delve was actually a massive labyrinth located deep underground. The area it covered was larger than most continents on the Prime Material Plane.
+
+Location
+Located deep within the Elemental Plane of Earth, the Great Dismal Delve was pocketed with links to a wide array of elemental materials, allowing the Great Khan of the dao to summon allies and resources at will.
+
+Geography
+All tunnels within the Great Dismal Delve ultimately led to the Sevenfold Mazework, the heart of dao power.
+
+Inhabitants
+In addition to the dao, the Great Dismal Delve housed many kinds of slaves who spent much of their time clearing debris caused by planequakes. The exact number of dao and their slaves inhabiting the Great Dismal Delve was unknown.
+
+Appendix
+Further Reading
+
+References
+
+Connections
+
+---
+
+## Grask
+
+Grask was a dusk beast and the companion of Sithierel on the Necreme in the early 1370s DR.
+
+Activities
+Grask liked to curl up and lie down in the bow of the Necreme, where its two heads could watch over the boat and those who approached it when docked, and then alert Sithierel.
+
+History
+Grask loyally served Sithierel as the shadar-kai plied the waters of Shadow Swamp ferrying captives between the Shadow Citadel and the Monastery of the Ebon Dome.
+
+Eventually, in early Eleint of the Year of Lightning Storms, 1374 DR, an adventuring party in service to Mystra likely encountered the pair and defeated Grask and Sithierel.
+
+Appendix
+References
+
+---
+
+## Green Calishite cheese
+
+Green Calishite was a spicy cheese crafted in Calimshan. It was also sold through Aurora's Whole Realms Catalogue.
+
+Description
+The Calishites added curry to give this cheese some extra kick while preserving it at the same time. The spice also added a pale beige, bright greenish, or aqua tint to the cheese. Its taste was called rumnund in Calimshan and it had a long-lasting shelf life and was the least-crumbly among a wide variety of curry cheeses made in the nation.
+
+Prices
+Green Calishite cheese could be purchased in the following sizes:
+ Loaf, 1/2 lb. (0.23 kg.) 4 sp
+
+Reputation
+This cheese was considered to be far too spicy for the tastes of most northerners. It was said that a northerner could be incapacitated if they took an unsuspecting bite of it.
+
+Traditionally, Green Calishite was eaten by itself or used to thicken sauces. The cheese paired well with wines, cordials, and spirits.
+
+Appendix
+Appearances
+Novels
+All Shadows Fled
+References
+
+---
+
+## Greenshores
+
+County Greenshores was at the base of the Dragon's Neck Peninsula in Tethyr.
+
+Geography
+Greenshores was the eastern most of the three counties of the Duchy of Cape Velen. It bordered Duchy Noromath to the east.
+
+The county benefited from the passage of the Trade Way through its lands.
+
+Society
+The people of Greenshores were the only humans in Tethyr whom the elves of the Wealdath respected for their ability to live alongside nature without destroying it. As a rule, the citizens of Greenshores preferred a simple life among the trees. This meant that they were often considered a backwater folk by others in the country.
+
+Government
+In 1370 DR, County Greenshores was ruled by Mosstone local Jordy Gallum. The Count's seat of power was at Kirgard.
+
+Notable Locations
+ Mosstone  This town on the Trade Way was in harmony with nature.
+ Port Kir  This coastal town was known as the "Seacity" of Tethyr.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Grey Fire
+
+The Grey Fire was a group of holy slayers who operated within Zakhara in 1367 DR.
+
+The symbol of the Grey Fire was a javelin that had a grey shaft and red feathers.
+
+Activities
+Holy slayers of the Grey Fire worshiped Najm, the Zakharan god of adventure and curiosity. In addition to assassination missions, holy slayers of the Grey Fire were quite proficient in exploration, research, and discovery of all kinds.
+
+Through an arrangement with the Everlasting, the Grey Fire's territories included Huzuz, the Pearl Cities, and South Zakhara.
+
+The Grey Fire was responsible for the assassination of the Sultan of Sikak.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Grozalum
+
+Grozalum was the governor of Khaerbaal in Halruaa in 1367 DR.
+
+Activities
+Aside from his duties governing the city, Grozalum was an accomplished Illusionist. He was also a leading Elder and member of the Council of Elders.
+
+Appendix
+
+References
+
+---
+
+## Greila Sontoin
+
+Greila Sontoin was a High Priestess of Mystra in the temple on Mount Talath in Halruaa.
+
+Personality
+Greila was granted supernatural wisdom by Mystra.
+
+Activities
+Because of her age and many duties regarding the temple, Greila seldom left the security of Mount Talath. However, even as late as 1373 DR, she was still considered powerful enough to pose a threat to Zalathorm Kirkson. Thankfully, the two were cordial with each other and remained in close contact.
+
+Appendix
+References
+
+---
+
+## Grezkith
+
+Grezkith was a molydeus in service to Axithar in 1385 DR.
+
+History
+Grezkith was part of the demon armies gathered by Axithar for an assault on Celestia, thanks to Kaanyr Vhok just after Spellplague.
+
+Appendix
+
+Appearances
+Novels
+The Empyrean Odyssey:
+ The Crystal Mountain
+
+References
+
+---
+
+## Grim Jaws
+
+The Grim Jaws were a collection of four peaks over a mile high in the western Starspire Mountains in Tethyr. They were the tallest mountains in the Starspires.
+
+Geography
+Each of the four mountains was over 6,000 feet (1,800 meters) above sea level. They stood to the east of the Trade Way and north of Zazesspur in County Uluran. The high valley between three of the Jaws was known as Three Peaks Vale.
+
+Inhabitants
+The lower slopes and upper mountain vales of the Grim Jaws were populated by ogres and gnolls.
+
+History
+Circa 1250 DR, a stronghold of clerics and paladins of Tyr in Three Peaks Vale was destroyed by a horde of ogres, which slaughtered all of Tyr's worshipers.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Grenai Markin
+
+Grenai Markin lived in Luenath in central Dambrath during the 14th century DR.
+
+Activities
+Herald served as Warchief of Luenath. He was also the consort to Duchess Merial Luenath.
+
+Relationships
+His older brother, Herald Markin, served as Warchief in Prastuil.
+
+Appendix
+References
+
+---
+
+## Greigor Kundknoddick
+
+Greigor Kundknoddick was a frost giant jarl in the late 15th century DR.
+
+History
+Greigor was the leader of a frost giant tribe that allied with drow and orcs during the Darkening.
+
+In 1485 DR, during the late stages of the War of the Silver Marches, Greigor was  approached by Jarlaxle, who suggested he withdraw his troops in the wake of the imminent defeat of Many-Arrows.
+
+Appendix
+References
+
+---
+
+## Griffon Mountains
+
+The Griffon Mountains were a small mountain range located in the Durpar.
+
+Geography
+This mountain range rested between the Scarlet Jungle and the River Hiedar.
+
+Description
+Though the surrounding countryside was extremely rocky, the peaks of the Griffon Mountians were not that high.
+
+Inhabitants
+Flocks of griffons lived in and around the mountain range. Many native Durparians made a living hunting or capturing the griffons.
+
+Appendix
+References
+
+---
+
+## Great Chain Bridge of Ra-Khati
+
+The Great Chain Bridge of Ra-Khati was the only known crossing of the Jumpa River.
+
+Location
+Located in Ra-Khati, the bridge crossed the Jumpa River and the Jumpa River Gorge into the city of Kushk.
+
+Description
+This bridge was made from iron chains, wood and hemp. The bridge would constantly sway with air churned from the pounding current of the Jumpa River.
+
+Appendix
+References
+
+---
+
+## Grim Thornbuck
+
+Grim Thornbuck was a member of the Knights of the Black Fist in Phlan in 1489 DR.
+
+Activities
+He usually became indebted to the wrong people and did all he had to to repay the debts.
+
+History
+In 1489 DR, he was in charge of the Black Fist detachment at Sokol Keep. When the quartermaster, Igan Sokol, announced that he had discovered a treasure thanks to a strange ghost, Grim and his fellows were filled with greed. Thus, when they came to the right room of the dungeon, Grim killed Igan. This however angered both the ghost Harae and the undead guardian of the dungeon. Thus Grim and his fellows were trapped and besieged inside the room.
+
+In the end, they may have been rescued by some adventurers hired to solve the mystery of the keep, but Grim and his fellows would very probably still need to face justice.
+
+Appendix
+Appearances
+ Secrets of Sokol Keep
+
+References
+
+---
+
+## Grinna Brightbell
+
+Grinna Brightbell was a halfling innkeeper and cook near the Quivering Forest near Phlan in 1489 DR.
+
+Personality
+Grinna was spunky, opinionated, and spoke her mind. She complemented what Hupe lacked. She was very popular in the community and anyone that liked her cooking could have a place in her heart.
+
+Activities
+Grinna ran the Leaky Bucket inn with her husband Hupe Brightbell in the Kabel's Hill's community in the Quivering Forest just near Phlan. She was an amazing cook.
+
+Appendix
+Appearances
+ Tales Trees Tell
+
+References
+
+---
+
+## Grissen
+
+Grissen was a halfling member of the Emerald Enclave in the Quivering Forest near Phlan in 1489 DR.
+
+History
+Grissen was possibly involved in the case of the disappearance of Halvin Graingle and six other villagers of the Kabel's Hill community inside the forest. He advised the adventuring party hired to find the missing people to not disturb the elves, who were on good terms with the Enclave.
+
+Appendix
+Appearances
+ Tales Trees Tell
+
+References
+
+---
+
+## Green Imsa
+
+Green Imsa was a traveler just before the Tyranny of Dragons.
+
+Personality
+Imsa was a quiet and friendly individual. She became frustrated if people bothered her about her condition.
+
+History
+Imsa was a human who was afflicted with an unknown condition that turned her skin, eyes, hair, teeth, and nails green. At the start of the Tyranny of Dragons,in 1489 DR Imsa sought to travel to Waterdeep in search of a cure for herself. She boarded a great caravan, which unknown to her was full of Cult of the Dragon agents transporting treasures for the Hoard of the Dragon Queen.
+
+Appendix
+Appearances
+ Hoard of the Dragon Queen
+
+References
+
+---
+
+## Gristle Pete
+
+Gristle Pete was a cook working in the Carnath Roadhouse on the Sword Coast North during the 1480s DR.
+
+Relationships
+Pete worked as a cook for Bog Luck, who was a secret agent of the Cult of the Dragon. Pete did not know his real allegiance.
+
+Appendix
+Appearances
+Adventures
+Hoard of the Dragon Queen
+
+References
+
+---
+
+## Great shout
+
+Great shout was an arcane evocation spell that produced a tremendous sonic force similar to a horn of blasting from the mouth of the caster.
+
+Effects
+There were at least two distinct versions of this spell. The original, presumably invented by a wizard named Daimos, was dangerous to the caster, requiring some of his or her own vitality in the casting, with possibly fatal results. It also required an item that radiated magic as a material component. A later version was much less taxing, did more damage, had a bigger area of effect, and only needed an arcane focus (which was not consumed in the casting).
+
+Great shout had two areas of effect, one inside the other. The primary area of devastation was a narrow corridor emanating straight out from the caster. The secondary region of sonic punishment also emanated from the caster in the same direction as the primary but was in the shape of a widening cone that surrounded the primary on both sides. For the earliest version of the spell, the primary area was only 1 ft (30 cm) wide by 8 ft (2.4 m) long, while the later version had a 5 ft (1.5 m) square cross-section that extended out to the edge of the cone (a minimum of 65 ft or 20 m). The edge of the cone for the earliest version was 90 ft (27 m) away.
+
+Daimos' great shout was not discriminating in what it affected. The primary area of sonic force could split boulders, flatten a log cabin, or breach a stoutly held gate. Objects in the path were likely to react as if they had been hit by a missile from a large catapult. Creatures took damage and were stunned for at least one minute and rendered deaf for at least two minutes. Outside the primary area, creatures took less damage but were still stunned and deafened.
+
+The later version of this spell was particularly devastating to crystal, metal, or stone objects in the primary path of thunderous vibration. Anyone carrying items made from these materials could try to dodge out of the path of destruction, but if they failed, the items were likely to break or shatter. In the secondary area of effect, creatures were severely damaged, deafened, and possibly stunned for a few seconds. Any fragile or crystalline objects in the secondary area were also subject to breaking or shattering. Creatures carrying them could shield these brittle objects from damage by a successful dodge. Objects that survived the spell's primary effect were guaranteed to survive the secondary effect.
+
+A silence spell was proof against great shout.
+
+Components
+Only verbal and material components were required to cast the earliest version of great shout. It needed an item that radiated magic, even if it was just Nystul's magic aura, and the item was consumed upon casting. However, artifacts and other unique and powerful magic items could not be used (destroyed) to cast this spell. The later version had verbal and somatic components but used an arcane focus of a small horn made from metal or ivory.
+
+History
+The first known instance of this spell was discovered by Ulthorn of Waterdeep when he acquired the Spellbook of Daimos around the mid–11th century DR. After his death, the book disappeared, but great shout was subsequently used in Ankhapur on the Lake of Steam and in the outpost of Twostars somewhere on the Golden Way.
+
+It was eventually published in Volo's Guide to All Things Magical shortly after the Time of Troubles and became generally known, but it was uncommon to find it.
+
+Appendix
+Notes
+
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Graxxygak
+
+Graxxygak  was a half-dragon troll in the Twilight Marsh near Phlan in the 1480s DR.
+
+History
+Graxxygak was the half-dragon son of Throstulgrael in the Twilight Marsh. He was his father's last line of defense until he was confronted and killed by an adventuring party sent to recover some items from his father's lair.
+
+Appendix
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Greg Marks
+
+Greg Marks, known in some circles as 'Skerrit the Green', is a game designer who has worked for Wizards of the Coast on 3, 4, and 5 edition material.
+
+Marks worked with the RPGA on the Living Greyhawk campaign, and wrote several articles for Dragon Magazine as well as adventures for Dungeon magazine. He also helped to design the Dragon Magic sourcebook for Wizards of the Coast. Marks later became a Global Administrator for the Living Forgotten Realms RPGA campaign. He went on to become an organizer and administrator for the D&D Adventurers League, with the title Associate Resource Manager, as well as providing some design input for Wizards of the Coast on their products. He has also written many adventures and lore articles for the League as well. He eventually took over as Content Manager of the League from Travis Woodall.
+
+Appendix
+External links
+ http://dndadventurersleague.org/storyline-seasons/elemental-evil/elemental-evil-adventures/
+
+---
+
+## Groshin Lor
+
+Groshin Lor  was the leader of the Hawks secret police in Mulmaster in 1491 DR.
+
+History
+Groshin was tortured by Thayans as a young man.
+
+In time, he became the leader of the Hawks in Mulmaster, one of the most trusted servants of High Blade Jaseen Drakehorn. He also had dealings with the Lords' Alliance.
+
+In 1491 DR, he hired an adventuring party to discover what had happened to a nearby iron mine, after a previous expedition of soldiers had disappeared.
+
+Appendix
+
+Appearances
+ Mayhem in the Earthspur Mines
+
+References
+
+---
+
+## Great Spire of the Ice Sea
+
+The Great Spire of the Ice Sea was a giant structure found on an uncharted island located near the middle of Yal Tengri.
+
+Geography
+This cold, desolate place was windy around the year. Scant vegetation grew on the island.
+
+Description
+A lone towering spire jutted upward from the island's surface, appearing like a tower from a great cathedral. The spire was visible from anywhere on the island. The spire sparkled in the sun, and sailors used this landmark when sailing the frigid waters nearby.
+
+History
+The Great Spire was the work of gnomish engineers. A small group of gnomes who worshiped Gond lived on the island in half-buried communities around the base of the spire. The gnomes busied themselves with constructing the special glass used to maintain the spire.
+
+The gnomes believed an ancient prophecy that stated that the world would be returned to the glory of Gond when the spire was completed. This ancient prophecy was lost after the time of the Raumathar empire, but was rediscovered during the 11th century DR.
+
+The gnome worshipers of Gond believed that they would have completed the spire much sooner, but a sub-sect of gnomes who called themselves the Glass-breakers began thwarting their efforts.
+
+The actions of both groups have left any work on the spire in a stalemate.
+
+Appendix
+References
+
+---
+
+## Great galley
+
+A great galley, sometimes simply called galley, was a large ship used for both war and commerce on the Sea of Fallen Stars, primarily by the nations of Chessenta and Mulhorand.
+
+Description
+The great galley was an improvement on the design of the dromond, having more sails and fewer oars and rowers. It was about  along the keel and  across the beam, with three masts and 140 rowers. Under sail, the minimum crew size was 40. When fully loaded for war, the maximum crew size including rowers was 200. The great galley had a higher sailing speed and better maneuvering ability than the dromond, but could not match the dromond's speed when all oarsmen were engaged. When used for war, a ram was built into the bow and up to three large weapons (such as catapults or ballistae) could be mounted fore, aft, and amidships. The great galley was not particularly seaworthy and its large crew size and cramped quarters usually kept them close to shore.
+
+It was possible to adapt a galley for space flight by installing a spelljamming helm. However, the ship fared poorly in space.
+
+Appendix
+See Also
+ Galley
+
+Appearances
+Card Games
+ AD&D Trading Cards
+Video Games
+ Spelljammer: Pirates of Realmspace
+
+Gallery
+
+References
+
+---
+
+## Grund
+
+Grund was simpleton in Red Larch during the Elemental Evil crisis.
+
+Personality
+Grund was a happy dim-witted sort. He had a special relationship with the members of the Believers.
+
+Activities
+Grund always wandered the village's market.
+
+History
+In 1491 DR, the Believers used Grund as an enforcer to keep their secret. When some adventurers began an investigation of secret passages under the village, a secret kept by the Believers, they sent Grund to take care of the adventurers. He fought the adventurers; however, they defeated him.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+
+References
+
+---
+
+## Grendo
+
+Grendo was a tavern server at the Bargewright Inn during the 1490s DR.
+
+History
+In 1491 DR, he became involved in a plot by Inglor Brathren to discredit both Chalaska Muruin and Nalaskur Thaelond.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+
+References
+
+---
+
+## Grumink
+
+Grumink the Renegade was a dwarf at the Shrine of the Tender Oath in the Dessarin Valley during the Elemental Evil crisis.
+
+Personality
+Grumink was a bloodthirsty and callous individual. He stopped at nothing to get what he wanted. Grumink delighted in building a reputation as a cold-blooded killer, and went out of his way to slay people when doing so might add to his notoriety or attract the attention of the law. He might claim that it wasn't personal, but it was. He also did not care about desecrating a shrine to Sharindlar, a dwarven goddess of fertility and love.
+
+History
+In 1491 DR, Grumink and his mercenary band were hired by the oni Obratu in order to seize control of the Shrine of the Tender Oath, which the oni believed to be an entrance to King Torhild Flametongue's tomb.
+
+At last, some adventurers went to investigate the shrine and defeated Grumink and Obratu.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+
+References
+
+---
+
+## Gray Ghosts
+
+The Gray Ghosts were the only true thieves' guild of Gracklstugh. They were filled with derro and duergar outcasts and a few escaped slaves.
+
+Activities
+The Gray Ghosts had a special interest in a ruined black obelisk they had found that they believed contained "unimaginable power", so they tried to recollect all the fragments of the obelisk and rebuild it.
+
+History
+Circa 1486 DR, the Gray Ghosts stole a red dragon egg intended to replace Themberchaud as the Wyrmsmith of Gracklstugh from the Keepers of the Flame. The Keepers used all their strength to eradicate the thieves and captured and executed the Gray Ghosts leader. The guild was then led by a triumvirate of renegade derro savants—Uskvil and the twin sisters Aliinka and Zubriska.
+
+Appendix
+
+Appearances
+Adventures
+Out of the Abyss
+Gamebooks
+Escape the Underdark
+
+References
+
+---
+
+## Grazilaxx
+
+Grazilaxx was a mind flayer member of the Society of Brilliance during the late 1480s or early 1490s DR.
+
+History
+Grazilaxx once had an arrangement with the lich Zarifrax wherein Zarifrax would rip the souls from his captives and then give their bodies to Grazilaxx to eat their brains. It eventually founded and joined the Society of Brilliance; having done so alongside Blurg, Omeluum, Sloopidoop, Y, and Skriss.
+
+Grazilaxx and all the other members of the Society of Brilliance went on a pilgrimage to Gravenhollow some years before the demonic crisis that struck the Underdark in the late 1480s DR.
+
+During the late phase of the crisis, Grazilaxx surprisingly helped Regis and Drizzt Do'Urden in fighting the demon lord Demogorgon near Mantol-Derith.
+
+Appendix
+Appearances
+
+External Links
+
+Gallery
+
+References
+
+---
+
+## Gravenhollow
+
+Gravenhollow was a mystic library in the Underdark. It was a serene repository of knowledge set within the chaotic underworld of Faerûn.
+
+Geography
+Gravenhollow's location was to the west of the Wormwrithings. It was  from Gauntlgrym and  from Mantol-Derith.
+
+Description
+Gravenhollow was carved out of a titanic geode imbued with faerzress.
+
+The library was a peculiar building for many reasons: it was outside the normal time of Toril, everybody inside it understood all languages, it was bigger on the inside, it prevented works of magic except divination, and nobody could find it without its keeper's will.
+
+A very peculiar trait of Gravenhollow was that it "remembered" all who had walked its halls, as well as those who would visit the library in the future. People exploring the library found apparitions constantly flicking in and out of existence around them. These were the echoes of those who had come or would come to Gravenhollow in search of knowledge.
+
+History
+Nobody knew who built Gravenhollow, but it was known to have existed since the dawn of giant-kin.
+
+Appendix
+
+Appearances
+Adventures
+Out of the Abyss
+References
+
+---
+
+## Grin Ousstyl
+
+Grin Ousstyl was a drow wizard and apprentice of archmage Vizeran DeVir in the late 15 century DR.
+
+History
+Grin hailed from House Ousstyl of Menzoberranzan. He tried to advance his position by joining the Council of Spiders. However he was careless and was nearly executed for his ambition. Exiled from Menzoberranzan, he was taken in by Vizeran, who played the role of the shadowy patron of the council.
+
+Grin supported his master's plots, hoping to find a way to reclaim his city from the matron mothers' tyranny.
+
+However, during the execution of the plan to send back the demon lords, Grin revealed that his master wanted to destroy Menzoberranzan in the process, and tried to convince a group of adventurers to change the location of the banishing ritual.
+
+Personality
+Grin was loyal to his master but disliked such a solitary existence. For a long time, he had waited for a chance to return to his city, supporting the idea of a male uprising. Grin would not agree with his master if he found Menzoberranzan was to become a battleground for demon lords.
+
+Appendix
+Appearances
+ Out of the Abyss
+
+References
+
+---
+
+## Grisha
+
+Grisha was a human cultist of Yeenoghu in the Labyrinth in the late 15 century DR.
+
+History
+Grisha was a slave of the drow until he escaped and made his way to the very small village of Filthriddens inside the Labyrinth. There, he lived under constant fear of minotaur raiders.
+
+Circa 1482 DR, Grisha saw a minotaur horde march against the village but then be destroyed by the demon lord Yeenoghu. So Grisha devoted himself to the gnoll god and soon the cult of Yeenoghu gained control of Filthriddens with Grisha as their leader.
+
+Personality
+A strict ruler, Grisha believed he sensed the power of Yeenoghu in all things and that he was behind the cultists being resurrected as ghouls after they died.
+
+Appendix
+Appearances
+ Out of the Abyss
+
+References
+
+---
+
+## Grunwald
+
+Grunwald was a small, yet civilized Uthgardt village in the North.
+
+Geography
+Grunwald was located in the Lurkwood of northwest Faerûn.
+
+Government
+As of the Year of the Staff, 1366 DR, the king of the Thunderbeast tribe was Gundar Brontoskin.
+
+Architecture
+The homes in Grunwald were family halls, long and ovaloid mounds, said to resemble burial mounds overgrown with bushes and scrub. They were constructed of heaped stone, topped with timber roofs spread by mud, which often had grass and moss growing atop them. Some were known to have chimneys.
+
+The stones of these houses were sourced from the above-ground ruins of the ancient dwarfhold, while their timber was harvested from the surrounding forest.
+
+Trade
+The primary product of Grunwald was timber from the Lurkwood, which was primarily traded in the wintertime with Mirabar and Longsaddle. Dark shanut wood was also a valuable commodity that was in demand in Waterdeep and Sundabar, often for the purposes of wood carving.
+
+On an individual level, the inhabitants of Grunwald sold wares to any passing merchant regardless of whether or not they had anything to barter. These wares often included the pelts of polar bears, the furred skins of glacier snakes, as well as various forms of wood carvings that ranged from small statuettes and rings to life-size statues.
+
+Defenses
+Grunwald had a standing patrol of twelve veteran barbarian warriors that were skilled in the use of slings, spears, and various sorts of blades. Their weapons were often laced with a sleep-inducing substance, known as haedrar.
+
+History
+Grunwald was built upon the ruins of a dwarfhold, which was referred to by the dwarven name Thornhammer, though no one knew its true name.
+
+Notable Locations
+Clearing of the Rock An area of land with a huge boulder in its center that was designated spot to light a signal fire in times of danger. Traders were often known to camp here.
+
+Hand of Justice A pavilion shrine to Tyr that was in the eastern section of the village, south of the grove. The upright gauntlet of a giant stood there and it was regularly attended by six warrior-priests of the deity. Here they held court cases, acting as the village's lawyers and jury.
+
+King's Lodge A three-story tall, crumbling keep in the eastern section of the village. It had a throne room, feast hall, as well as a dungeon in the lower levels. The stairs leading up to the lodge notably lacked any handrail. Above the steps were hung on iron hooks the heads of slain village foes. These were mostly the old skulls of orcs, though occasionally the head of a thief or dishonest merchant would be added to the lineup.
+
+Sacred Grove of Silvanus A grove dedicated to the god Silvanus that was in the forest east of the village, beneath the shadows of the King's Lodge.
+
+The Stone Bow A large inn, nearly as big as the King's Lodge, on the southwestern edge of the village. This housed Grunwald's various mounts and pack animals, as well as acted as a place for travelers to rest and eat.
+
+The Tunnels The ruins of the dwarfhold upon which Grunwald was built, a vast and intricate network of tunnels with multiple entrances. These were used by the villagers as cesspits and bonepits. Villagers considered the area extremely taboo, off-limits to both outsiders and themselves. Villagers often told grandiose stories about it at the local inn, speculating about what monsters might be down there. Whenever children were caught playing in the tunnels they were banished from the village.
+
+Inhabitants
+Grunwald was the headquarters of the Thunderbeast tribe of Uthgardt barbarians. Compared to other Uthgardt tribes, the people of Grunwald were fairly welcoming to outsiders, though they did not appreciate loiterers. People who loitered for too long without any clear reason were often imprisoned, run out of town, or killed on the grounds that they could be a spy for orcs or rival tribes.
+
+The resident priests of Tyr would often go out on patrols with the Thunderbeasts, guide wayward adventurers, and helped to maintain overall peace in the village. The resident druids of Silvanus would heal the townsfolk for no cost, though charged outsiders a steep fee.
+
+Religion
+Though the Uthgardt maintained their ancestral religion, over time they tolerated the presence of priests from other religions, primarily the druids of Silvanus and the clerics of Tyr. These groups had a grove and shrine respectively that were dedicated to their god, close to the king's lodge.
+
+Rumors & Legends
+The inhabitants of Grunwald believed that anyone who willfully entered the tunnels beneath their village would awaken the spirits that dwelled within them and bring misfortune upon Grunwald.
+
+Appendix
+
+Appearances
+Novels
+Son of Thunder
+References
+
+---
+
+## Grady Moll
+
+Grady Moll was an officer of the Soldiery of Mulmaster.
+
+History
+In 1491 DR, Grady was investigating the lumber merchant Fatell, who was suspected to be part of the Cult of the Eternal Flame, when a fire destroyed Fatell's shop. Grady possibly managed to capture Fatell with the help of some adventurers—members of Lords' Alliance—hired by Cora Peytir.
+
+Around 1492 DR, he was promoted to captain.
+
+Relationship
+Grady was secretly a member of the Lords' Alliance.
+
+Appendix
+Appearances
+ Black Heart of Vengeance
+
+References
+
+---
+
+## Grand University of Huzuz
+
+The Grand University of Huzuz was a school located in Huzuz in 1367 DR.
+
+Location
+The Grand University could be found in the Pilgrims' District of the City of Delights.
+
+Inhabitants
+Fanya bint Parigar was the head of the Grand University. She employed teachers and instructors, including Fatima Asad, a language teacher.
+
+The Grand University enrolled a few hundred students for a three-year course covering topics such as business, language, history, and etiquette.
+
+Activities
+Despite its name, the Grand University was actually a small school, though Fanya did have lofty aspirations that it would one day be the most respected school in all of Huzuz.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Grabber Forth
+
+Grabber Forth was a deep gnome archmage in service to the yugoloth Maram il Vass in the Deep Wastes in the late 15 century DR.
+
+Activities
+Grabber worked for Maram il Vass. He was custodian of the private rooms of the yugoloth, together with a shield guardian.
+
+Appendix
+
+Appearances
+ It's All in the Blood
+
+References
+
+---
+
+## Grimmdar Szort
+
+Grimmdar Szort was the main duergar representative of Gracklstugh in Mantol-Derith.
+
+Personality
+The dwarf was very rude.
+
+History
+Around 1479 DR, Grimmdar sold weapons in exchange for alcohol, gold, silver, and slaves in Mantol-Derith.
+
+Appendix
+Appearances
+ Reclaiming Blingdenstone
+
+References
+
+---
+
+## Grimmbold
+
+Grimmbold the Gith was a Zhentarim githzerai agent in Skullport.
+
+History
+Grimmbold lived in Sigil on Concordant Opposition, but the explosion of a portal sent him to Faerûn, near the Citadel of the Raven. He asked for help from a local and made a bargain with the Zhentarim: a major mission for them in exchange for a way to return to Sigil.
+
+Grimmbold in 1369 DR was tasked with the mission of going to Skullport and leading a Zhent cell and discovering everything about the city, Halaster Blackcloak, and Undermountain, then killing the mad archmage and conquering the place. However, the githzerai and his minions had only vague information and soon most of the other members of the cell were slaughtered, devoured, incinerated, or disappeared without a trace. With only two companions, the half-ogre Jom Bovine and the rock gnome illusionist Esten, Grimmbold decided to abandon the mission.
+
+Instead, they formed an assassins' guild. By 1370 DR, the gith's assassins had started to acquire a certain reputation, and were growing in number. He ran the guild out of the Hell Hound's Muzzle, a tavern he owned in the Lower Heart of Skullport.
+
+Personality
+Grimmbold hated Skullport and his inability to return to his home. Knowing his mission for the Zhents had been a suicide mission, he had no loyalty to them.
+
+Appendix
+References
+
+---
+
+## Great Door
+
+The Great Door was a massive door hidden on the outskirts of Waterdeep on the Sword Coast North. It served as a gate to the planes.
+
+Defenses
+The Great Door was constructed inside a huge pit in the ground, covered over with an illusion of solid ground.
+
+After it was tampered with, the Door could shoot bolts of magic at those outside, and release monsters from other planes. It could also levitate into the air, tearing up the ground with it.
+
+Description
+The Great Door was a colossal pair of doors set into the cliff-face of the pit, bearing many human and monstrous faces and topped by a statue of a winged, dragon-like creature that looked down on those below.
+
+Powers
+Described as a dimensional doorway, The Great Door contained a gate that unlocked an interdimensional wormhole to the planes.
+
+History
+The Great Door was constructed by two great wizards, Ostus Agrivar and Parwyyd Hanifar, who worked together to explore the frontiers of magic. They built the Door as a means to easily enter the planes. Each wizard needed the other to control the Door, however, so it remained closed after Ostus's death in the Year of the Dragon, 1352 DR.
+
+By the Year of Shadows, 1358 DR, the Great Door had been tampered with by an unknown power. It stood ajar and monsters from other planes emerged from it. Some people grew understandably rather angry about this, and believed that killing Parwyyd would cause the Door to close again. With a small military force, they laid siege to Parwyyd's tower, and he considered them "misinformed".
+
+To deal with the Door, Parwyyd lured Kyriani Agrivar to the site. She was the "blood of Agrivar"—Ostus's daughter—and bore his magic aura, so she could take Ostus's place in controlling the Door. However, one of the faces on the Door spoke, taunting Parwyyd that he no longer had control, and flying kenkus emerged. In the fight, Onyx the Invincible briefly fell through the Door, and saw what looked to be the Hells. Dunstanny—Parwyyd's personal assistant—explained that Parwyyd and Kyriani needed to work together close the Door, but as they debated it shot a bolt of magic that separated the merged being Kyriani into Cybriana and Kilili.
+
+The power that had tampered with the Great Door then seized greater control, raising it into the air and untethering the interdimensional wormhole from the Door, having it appear in the skies over Waterdeep instead. Kenkus and gargoyles swarmed over the city, and were engaged by Vajra Valmeyjar and Timoth Eyesbright, before the City Guard and Khelben "Blackstaff" Arunsun took over.
+
+In the Hells, a gargantuan and monstrous creature, the one who waits, had seen the other side of the Door appear in its realm. It believed it to be a gift from the god Bane, Lord of Tyranny, and slithered toward it. Its attendants, the gargoyles and kenkus, had gone on ahead.
+
+The interdimensional wormhole returned to the Great Door, and the kenkus and gargoyles emerged in the pit, followed by a fire elemental, while the branches of a nearby tree turned to serpents. Cybriana, Onyx, Parwyyd and Dunstanny battled the kenkus and gargoyles until Kyriani was ultimately restored. Working together, Parwyyd and Kyriani first let the door open wide to let the one who waits through, then used telekinesis to slam it shut on its trunk, slaying the monstrosity. Parwyyd then destroyed his Great Door with a disintegrate spell, and the threat it posed was ended.
+
+Khelben later theorized to Kyriani that evil gods—Bane and his allies, most likely—had taken control of the Great Door, as part of some scheme leading into the events of the Time of Troubles that year.
+
+Appendix
+References
+
+---
+
+## Grand Gate of Delights
+
+The Grand Gate of Delights was the main entrance for the Palace of the Enlightened Throne in Huzuz in 1367 DR.
+
+Description
+This gate complex consisted of two gates and a pair of towers that stood 90 ft. (27 m) high. One of the gates was made from white marble and the other from fine alabaster. The first gate was decorated with gems and gold depicting a mage flying on a carpet. The second gate was inlaid with silver and white gems showing a djinni flying through the sky.
+
+Defenses
+As shown by the images adorning the artistic gates, the Grand Gate was protected by both magic and genies in addition to soldiers.
+
+A wizard using a monocle of magic detection made note of any visitor radiating a magical aura. The visitor would not necessarily be stopped for carrying magical items, but they would be watched closely.
+
+A large gong was used in dire circumstances. If struck, hundreds of additional soldiers and dozens of mages would arrives within moments.
+
+Activities
+The gates were usually left open, allowing thousands of visitors into the Palace each day.
+
+Inhabitants
+Sedji al-Sanje commanded the gate guards and Naib ibn-Sodar commanded the wizards assigned to the Grand Gate.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Griggen Ekmiran
+
+Griggen Ekmiran was a shopkeeper in Skullport. He was the owner of Bloodyknuckles.
+
+Activities
+Griggen managed a shop for carpentry and woodworking. Most of his clients were taverns and watering holes, which were always in need of repairs.
+
+History
+In 1367 DR, some rumors claimed that he paid a gang to demolish his customers' taverns until one of the rumormongers was found dead and the rumors stopped.
+
+Appendix
+
+References
+
+---
+
+## Grand Army of the Tuigan
+
+The Grand Army of the Tuigan, also simply called the Horde, was a formidable fighting force that was assembled by Yamun Khahan and rose to prominence in the Hordelands during the 14 century DR.
+
+Organization
+Formed mostly of horsemen, Yamun Khahan's army was fast, efficient, and lethal. The army was organized as follows:
+ Arban - group of 10 soldiers, led by one sergeant
+ Jagun - 10 arbans or 100 soldiers, led by one commander
+ Minghan - 10 jaguns or 1,000 soldiers, led by a khan
+ Tumen - 10 minghans or 10,000 soldiers led by individuals selected by the Great Khan
+ Army Commanders - sons or trusted generals of Yamun Khahan, each had command of 2–6 (or more) tumens
+
+Yamun Kahan's army numbered over 300,000 strong during the height of its power. However, their main strength lay not in sheer numbers, which they certainly possessed, but in the accountability of each individual soldier. If one man within an arban committed a crime, then all 10 men of that arban were punished. Similarly, if a single man distinguished himself during combat, then all were praised and honored. This iron-willed mentality transformed simple soldiers into something far greater.
+
+In the time of Yamun's successor, Hubadai Khahan, this army had expanded to include a vanguard of hobgoblins, ogres, and hill giants.
+
+Activities
+
+Tactics
+The Horde always carried four times as many horses as men. This allowed for their swift movement which often made it easy for them to surprise and surround their slower adversaries.
+
+All individuals of the various tribes of the Hordelands began their training with horses at a very early age. Children learned the art of controlling their mounts to work alone and in coordinated groups. As adults, the Tuigans were masters of horseback feints, feigned retreats, and forced encirclement.
+
+Yamun Kahan pioneered the skilled use of drums, flags, horns, and standards to communicate during pitched battle, giving his fighting force a huge advantage over any opponent they faced on the field. Through strict practice and drilling, he was able to effectively communicate with the commanders of his tumens during battle. It was suspected that he learned, and further developed, these techniques from the Shou.
+
+Yamun also mastered the use of the feinting charge: a tactic where he would charge the enemy to nearly within range of their missiles, fire a volley of his own, and gather intelligence on the strengths of his enemy. More often than not, when faced with such a massive charge of horsemen, the enemy would instantly commit their most dangerous and mobile weapons, allowing the Tuigan ample time to counter.
+
+Base of Operations
+Though they rose to power on the vast steppes of the Hordelands, the Horde ranged over a considerable amount of territory including Semphar, Khazari, Shou Lung, and parts of Faerûn such as Thay, Thesk and Rashemen.
+
+Appendix
+
+Appearances
+
+References
+
+fr:Horde tuigane
+
+---
+
+## Grewe
+
+Grewe was a male human and the king of Konigheim in the Utter East in the mid–7 century DR.
+
+In the Year of the Dancing Daggers, 648 DR, King Grewe was the first to discover the ancient bloodforges of the Utter East. These ancient devices of war could mass-produce entire armies of golems, eliminating overnight the cost of mustering and maintaining armed forces. Within tendays, Ffolk across all the Five Kingdoms had discovered bloodforges of their own, and immediately burst into the Bloodforge Wars.
+
+Appendix
+Notes
+ King Grewe may be the same king of Konigheim appearing in the Nuts and !Bolts campaign of the Blood & Magic computer game, which introduced the bloodforges. The adventurers Garrulos and Wormskull presented this unnamed king with the Pearl of Power, which could also animate constructs.
+
+References
+
+---
+
+## Grintharke
+
+Grintharke was a balor who ruled over Hellgate Keep.
+
+History
+He and his followers were exiles from the Abyss. If destroyed in the Prime Material Plane, they would slowly reform, only to be exiled once again. Due to this, they were unable to gate in demons more powerful than manes (which transformed into shadows and ghasts), and because of this, the forces of Hellgate Keep had few actual demons included in their forces. Grintharke constantly sought to appease his masters in one form or another with the hopes of regaining a standing in the Abyss.
+
+Grintharke was once a ruler of a city at the base of a volcano on another world, and had brought a number of magically altered pteranodons with him.
+
+Appendix
+
+Appearances
+Adventures
+The Pipes of Doom
+
+Hellgate Keep (adventure)
+
+References
+
+---
+
+## Great Worm Cavern
+
+The Great Worm Cavern was the traditional ancestor mound of the Great Worm Tribe of Uthgardt in the North. It was dedicated to the Great Worm beast totem.
+
+Geography
+It lay at the base of a mountain in the Spine of the World range, in the Valley of Khedrun.
+
+The caverns were part of a vast underground complex. Tunnels connected to other parts of the Underdark, such as lost Gauntlgrym
+
+Description
+Inside the biggest cavern was the ancestor mound itself, a large altar mound shaped like a great spiraling winged snake, which was the Great Worm.
+
+Inhabitants
+The central cavern was the home of Elrem the Wise, shaman of the Great Worm Tribe, potentially Uthgar's living son, and a great worm.
+
+Appendix
+
+Appearances
+Video Games
+
+Baldur's Gate
+References
+
+---
+
+## Grash Crackbacker
+
+Grash Crackbacker was a slow-witted priest of Bhaal.
+
+Description
+A pale-skinned half-orc, Grash dressed in an intricate red-and-black robe. Atop his head rested a golden crown with two red gemstones, and his wide-nosed face bore an aggressive scowl.
+
+Personality
+Grash had an inclination towards cruelty. He was sorely lacking in intelligence, to the extent that it was considered doubtful he would rise further in the clerical hierarchy of Bhaal.
+
+Abilities
+Grash possessed incredible strength, which he used to his advantage when employing the "bear hug", his favorite attack.
+
+Possessions
+Among Grash's possessions were a suit of mundane plate mail, as well as an unholy symbol.
+
+Appendix
+Appearances
+Card Games
+AD&D Trading Cards
+References
+
+---
+
+## Green Folk
+
+The Green Folk were one of the four basic people groups of Maztica, living in the low jungles south of the desert known as the House of Tezca.
+
+Description
+The Green Folk were short like the Payit. They were dexterous but not overly strong.
+
+Personality
+As a rule, the Green Folk were private people. In fact, few who entered their forests were ever seen again. They would shoot first with their arrows and ask questions later. However, it was possible to impress them with displays of supernatural power.
+
+Society
+The Green Folk were organized into separate villages and did not have a nation of their own although the nation of Kolan, which was found on the western coast of Maztica, included inhabitants of Green Folk stock. These villages were scattered through the jungles of the Southern Wilds.
+
+Religion
+The Green Folk worshiped gods of nature, such as Maztica, Nula, Qotal, or Watil, but they did not practice human sacrifice.
+
+Combat
+They were highly skilled in the use of bow and arrow, and they often tipped their arrows with kurari poison.
+
+When they took prisoners, they only rarely let them live.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Great Reflecting Pool
+
+The Great Reflecting Pool was part of the complex of the Palace of the Enlightened Throne in Huzuz in 1367 DR.
+
+Rumors and Legends
+Accessible only from the Public Gardens, the reflecting pool was believed to have mystical properties. If visited on a crystal clear day, a visitor with a precise question might see the answer within the waters of the pool. Some even believed that the water reflected the nature of a person' soul.
+
+Though the reflecting pool did indeed posses magical qualities, the soul reflection was actually an elaborate prank set in place by Ambassador Jiraad. Jiraad placed spells at popular viewing locations around the pool, showing different images to viewers at random intervals.
+
+Inhabitants
+The pool was maintained and guarded by a pair of marid who lived under the water.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Grand Bazaar Boulevard
+
+The Grand Bazaar Boulevard was located in Huzuz, the City of Delights, in 1367 DR.
+
+Description
+This road ran from the heart of Huzuz near the mosques in the Pilgrims' District northwest to the Grand Bazaar in the Merchants' District. It bordered the entire southern face of the Grand Bazaar, providing ample access to the giant marketplace. The Grand Bazaar Boulevard also passed through the Central District en route to the bazaar.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Grey Blossom Regiment
+
+The Grey Blossom Regiment was a mercenary company based in Nakamaru in Wa.
+
+Description
+The company was composed of 500 bushi led by officers who were all no-caste Wanese or natives of Wa.
+
+History
+The Grey Blossom Regiment was formed from troops from Shou Lung who defected to Nakamaru's daimyo after the Oni War in 251. In time, they became mostly independent. In 1357 DR, the Regiment operated independently, and only had a samurai liaison officer appointed by the daimyo. For this reason, inside cities they were always watched by an equal numbers of the daimyo's soldiers. Despite this, most clans used Grey Blossom soldiers, including the Funada clan. The Many-Hued Peacock Society and the Royal Vagabonds kept an eye on the Grey Blossom Regiment.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Great Library of Perpustakaan
+
+The Great Library of Perpustakaan, or simply Perpustakaan, was a library in Perpustakaan in the Kesasar Valley in the Shao Mountains of southern Kara-Tur. It was one of the most magnificent repositories of knowledge in all of Kara-Tur. Unfortunately, most of the people outside the Shao Mountains had forgotten the existence of it.
+
+History
+Perpustakaan was built in ancient times by the empire of Anok-Imaskar. After the fall of that civilization, the existence of the library was forgotten in the later empires of Shou Lung.
+
+Circa, however, an adventuring party may have rediscovered the library and told Emperor Kai Tsao Shou Chin and Imperial Wu Jen Kao Shan Ten about it.
+
+Description
+Perpustakaan was made of black granite. It was a huge building with a tall pagoda stretching into the sky.
+
+Inside, the library was divided into many reference Sections, with one specific section for each of these topics: literature, astrology, geography, ancient history, military history, philosophy, biography, mathematics, arcane lore, and one section for each member of the Nine Immortals.
+
+There also a conference room, a rotunda, rooms and cubicles for visiting scholars, a foyer, and residences for staff members.
+
+Population
+Perpustakaan had a limited librarian and clerical staff but a large militia that enforced the respect of the library's rules and maintained peace inside.
+
+Rules
+Perpustakaan was open twelve hours a day, from dawn to sunset. To use the library, one needed to register six months beforehand. It was possible, however, at the head librarian's discretion, to bend rules under special circumstances.
+
+Appendix
+
+References
+
+---
+
+## Great Padishate of the Marid
+
+The Great Padishate of the Marid, or the Marid Padishate, was the collective term referring to the ruling body of government of the marids.
+
+Marids were less organized as an official government when compared to the djinn, but their greater power ensured that they held greater control over the Elemental Plane of Water than the djinn did on the Elemental Plane of Air.
+
+Organization
+The Great Padisha of the Marid, Kalbari al-Durrat al-Amwaj ibn Jari, ruled over all of the noble marids comprising the Padishate.
+
+Each and every marid claimed nobility of some sort, but only the truly noble marid served the Padisha and schemed to replace her one day.
+
+Base of Operations
+The Citadel of Ten Thousand Pearls on the Elemental Plane of Water served as the seat of power for the Marid Padishate.
+
+Appendix
+References
+
+---
+
+## Grubkern
+
+Grubkern was a criminal and grave-robber in the kingdom of Doegan in the Utter East during the time of the Bloodforge Wars (648–657 DR).
+
+In the months after Rathgar the Raider and his invaders seized control of Doegan, Grubkern was arrested and imprisoned in the castle in the Doegan Capital. He whispered of a gathering army of undead coming to rid Doegan of the invaders. As fear spread in the capital, Rathgar determined to investigate, threatening to kill Grubkern if he'd spoken falsely. He did so just in time, finding an undead horde almost at his doorstep. The Howl of Vengeance conflict broke out.
+
+If Rathgar's forces repelled the invaders, then Rathgar would pardon Grubkern. Grubkern revealed the name of the leader of the undead: Aelric the Avenger, who rallied in the Serpent Valley.
+
+Appendix
+References
+
+---
+
+## Gray Doom
+
+The Gray Doom were a disbanded mercenary company around 1358 DR.
+
+History
+The Gray Doom earned a reputation in the Sword Coast for their skill and swiftness in skirmishes.
+
+During the war against the arcanaloth Yrkhetep, they sided with the forces of good and were decisive in the victory of the Battle of Thurgabanteth in Chondath. However, they were placed on the blacklists of many evil groups for this.
+
+Two years later, the Chill ambushed the Gray Doom and destroyed them.
+
+Appendix
+References
+
+---
+
+## Greenwood
+
+Greenwood was a divine magic spell available to priests of Eldath, the Quiet One. It temporarily turned a dead or dying tree or a wooden object into a green, leafy plant, vibrant with life.
+
+Effects
+This spell could be cast at one plant or object made from wood, shrubs, or vines up to  away. If the target was an intact plant, such as a dead tree, the spell affected the entire plant. Otherwise, it could alter about  of wood or objects made of wood, such as a desk, a pile of wooden shields, or a part of a bridge. The transformation lasted at least 50 minutes. Higher level casters could extend the range and duration of the spell, and increase the volume of plant material affected.
+
+Greenwood caused the target plant or wooden object to sprout leaves and appear green and healthy. This foliage was typically enough to conceal one medium-sized creature, but not enough to be used for entangle. Dry or seasoned wood became fresh, unseasoned wood, and could bend, sag, or snap if put under stress (like a ship's mast or a bridge support). If cast on unlit kindling, the material became impossible to ignite. If cast on a burning campfire, the flames died down to a mere flicker and the fire gave off thick smoke that caused choking and extremely poor visibility in the immediate area. The smoke produced could fill a volume one hundred times the size of the fire source and reduce vision to two feet (sixty centimeters). Those caught in the smoke had one chance to resist the magic of this spell or else they found their combat effectiveness reduced and they became easier targets for enemies.
+
+After the spell expired, the affected plant material returned to its original state, but retained any damage or warping that occurred while the wood was green. If the wood was previously rotten, worm-eaten, or unsafe to bear much of a load, greenwood temporarily turned it leafy and lively, but usually hastened its disintegration or collapse when the spell ended.
+
+Components
+This spell required verbal, somatics, and material components to cast.
+
+Appendix
+See also
+ Warp wood
+ Oars to snakes
+ Sticks to snakes
+References
+
+---
+
+## Greater touchsickle
+
+Greater touchsickle was a divine magic spell available to druids, clerics, and crusaders of Eldath, the Mother Guardian of Groves. It was a more potent version of touchsickle.
+
+Effects
+This spell was identical to the touchsickle spell except that the caster's hand became a sickle +2 that could damage any and all creatures that were immune to normal weapons. The duration of greater touchsickle was eighteen minutes, with more experienced casters able to extend this time limit.
+
+Components
+Only verbal and somatic components were required to cast this spell.
+
+Users
+Peacemen and peacewomen, the specialty priests of Eldath, were not granted this spell. For druids, the touchsickle was equivalent to a golden or silver sickle for the purpose of harvesting mistletoe at its greatest potency.
+
+Appendix
+See also
+ Touchsickle
+References
+
+---
+
+## Grengoral Whelshire
+
+Grengoral Whelshire was the leader and co-founder of Perfectone Mercantile, based in Longsaddle in north Faerûn, in the 1360s DR.
+
+History
+Grengoral was an adventurer who retired to become a merchant. He worked for six years with the Seven Suns Trading Coster but grew bored of losing around almost a third of his goods to bandits and having his salary docked because of it. So he went to his friend, the mage Samuel Longspeak in Longsaddle, to propose an idea for a new kind of business: transporting goods with magic from one city to another. Samuel thoroughly approved of the idea and recruited other mages in different cities to form a network that teleported goods and people between some prominent cities in Faerûn.
+
+In Flamerule of the, Grengoral and Samuel were kidnapped and killed by the Night Masks while in Westgate to solve problems with recent deliveries. The Wagonwheel Cloak Society was behind the plot to bring down Perfectone Mercantile, and they were successful—the company collapsed when its leaders could not be found.
+
+Appendix
+References
+
+---
+
+## Gray orc
+
+Gray orcs were more civilized orcs than others who lived in the Moonsea and Hordelands.
+
+Description
+Gray orc males were typically  in height and  in weight, while females were typically  in height and  in weight.
+
+They were rather hairy, with long "manes" of black bristles on their head, shoulders, and back. They had wolfish ears, and their faces were somewhat less porcine than those of mountain orcs, though they retained the tusks and were still obviously orcish.
+
+In coloring, gray orcs typically had red, orange, or yellow eyes, black hair, and gray skin with mottled patches of darker or lighter shades on the chest and flanks. Unlike mountain orcs, they typically wore more "civilized" clothing, normally in shades of black, brown, blue, and other dark colors.
+
+Personality
+Gray orcs were just as savage and barbaric as mountain orcs, but lacked the drive to conquer and enslave of their northern kin. They preferred to trust their hearts and instincts over logic, and were likely to react suddenly and irrationally to events. Given the opportunity to attack a hated rival, a gray orc would not hesitate even if that same rival had defeated them countless times before. Even so, gray orcs were noted to be calmer and more collected than mountain orcs.
+
+Abilities
+Gray orcs were strong and fast. Due to their long strides they were capable of rapidly covering significant distances on foot.
+
+Like other orcs, gray orcs possessed darkvision, but were also sensitive to bright light. And they had a keen sense of smell.
+
+Combat
+Gray orcs preferred to wear light armor in combat, as it allowed them to fight relatively unencumbered and to use their speed in battle. Their warriors typically trained as fighters, barbarians, and occasionally rangers.
+
+Gray orcs were skilled with the longbow and greataxe, as they began training with these weapons in childhood. Gray orcs considered the axe a holy weapon, and a gray orc spent considerable time maintaining his axe, constantly repairing even minor fractures and dents. Their axes were often garishly adorned with tokens of beads, feathers, gems and even small body parts taken from their fallen enemies. Most gray orcs kept a tally of enemies killed with their axe, either by making a notch in the handle or inscribing their target's name on the axe head.
+
+Society
+As nomads, gray orcs established migratory routes that took them across the remote and desolate parts of northeast Faerûn, traveling between their favorite campsites and caves. Their nomadic travels were seasonal, though they also moved whenever resources in an area ran out. Gray orc tribes were found throughout Damara, the Moonsea, Rashemen, Thesk, Vaasa, the Vast, and the nearby Hordelands.
+
+Gray orcs lived in small tribes of normally at least thirty and up to fifty individuals, led by a single individual, the chieftain, whose main duty was determining when the tribe attacked a target. The position of chieftain was, in reality, a temporary title, as chieftains were often killed before long.
+
+The clerics of a gray orc tribe were the true source of power. The high priest, often a female, was the true leader of the tribe and often retained this title for many years. Gray orcs were zealous and the words of the clerics were tribal law. Some clerics were known to train as divine champions or divine disciples if they lived long enough.
+
+Gray orcs were suspicious and untrusting of anyone outside of their tribe, including orcs of other tribes. They often assumed that another tribe was better off and would attack it to steal resources; moreover, their clerics typically viewed any cleric from another tribe as a heretic (despite the fact that both tribes usually worshiped the same deities in the same manner). Gray orcs had no specific hatred for any other species, instead hating all other equally; with the exception of kobolds and goblins, who they sometimes enslaved, and ogres, whose strength they admired.
+
+Tribes were known to keep small families of beasts such as dire weasel, dire wolverine, dire boar, owlbear, and various sorts of vermin a guardians. Taking care of these animals was held as a responsibility of the tribe as a whole. They did not keep anything overly dangerous, since they had learned that keeping an overly dangerous pet was a good way to get their tribe eaten.
+
+Language
+Gray orcs spoke a more verbally complex variation of Orcish, similar enough to the common form that anyone who spoke Orcish could understand it. However, many words, inflections, and pronunciations varied wildly between tribes and learning the idiosyncrasies of each tribe normally took a few days to learn. Grey orcs were not, however, literate, nor were they fond of learning new languages. The clerics would at least speak Common in order to interrogate captives, and potentially Giant and Goblin in order to converse with potential allies.
+
+Magic
+Most spellcasters among gray orcs were divine spellcasters. Arcane spellcasters were rare, and gray orc druids even rarer. During the Orcgate Wars, gray orc clerics had access to many powerful and unique spells; the most potent of these magics being their ability to directly call down avatars of their deities. Knowledge of this magic was lost with their defeat, as a result gray orc clerics used more common clerical spells.
+
+Gray orc spellcasters crafted potions and scrolls for themselves or for the benefit of their tribe. Most magical items found in the possession of gray orcs were most likely stolen or looted.
+
+Religion
+Gray orcs acknowledged Gruumsh as the most powerful and leader of their deities, but unlike other orcs, gray orcs didn't feel the need to focus their worship solely on Gruumsh. They instead worshiped all the orc deities equally. They often worshiped whichever deity suited their interests and personality, although most gray orcs of a given tribe would worship the same deity.
+
+History
+Gray orcs first came to Toril in the year -1081 DR, when the Theurgist Adept Thayd opened a portal to another world, a savage one dominated by fanatically religious orcish empires. Thayd was executed soon after he opened the portal, before he told anyone else on Toril of its location, and it thus lay dormant for five years until the orcs discovered it in -1076 DR and began to migrate through. They promptly attacked both Mulhorand and Unther, beginning a six-year conflict that was later named the Orcgate Wars.
+
+The initial attack rapidly escalated into a devastating war, as orcish warriors slew thousands and the orcish clerics wielded new and powerful spells.
+
+Two years after the Battle of the Gods (in -1069 DR), the remaining Mulhorandi and Untheric forces and deities banded together to defeat the orcish hordes so thoroughly that the gray orcs had yet to recover hundreds of years later. Instead they fragmented into hundreds of small tribes, whose constant infighting barred them from regaining their lost power.
+
+Appendix
+Notes
+
+Appearances
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Grassland circle
+
+The grassland circle was a druid circle associated with the wide open plains and prairies. Druids who took up the cause of nature in such a region had an affinity for this circle and the suite of spells that came to them without cost (they could cast them at any time without having to prepare them in advance).
+
+Grassland circle spells
+Those new to the grassland circle were granted two spells to make them or their allies avoid detection: invisibility and pass without trace. Druids that became more versed could cast daylight, haste, divination, and freedom of movement. Those that were very skilled could cast both dream and insect plague.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Great Old One patron
+
+A Great Old One patron was one possible sponsor for a warlock. If a bargain was made between a warlock and a being from the Far Realm, an elder evil, or some other ancient and mysterious being, the warlock's patron gave them access to certain powers, including a suite of spells that expanded the choices to fill their spell slots.
+
+Great Old One Patrons
+
+Great Old One Patron Expanded Spells
+Novice warlocks with a Great Old One patron could cast dissonant whispers, Tasha's hideous laughter, detect thoughts, and phantasmal force. Such warlocks with more experience could cast clairvoyance, sending, dominate beast, and Evard's black tentacles. Masterful warlocks could cast dominate person, and even telekinesis.
+
+Appendix
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Grimes
+
+Sergeant-Major Grimes was an officer in the Golden Legion and replaced the captain of the Legion's cavalry. He was not too smart but loyal to orders.
+
+History
+After the death of Alvarro, Cordell promoted Grimes as head of the cavalry.
+
+He led his cavaliers in furious fighting with the Viperhands at the start of the Night of Wailing in 1361 DR.
+
+Appendix
+References
+
+---
+
+## Great Garden
+
+The Great Garden was a wonder found within the fortress of Krak al-Mazhar in the Great Anvil of the Haunted Lands in 1367 DR.
+
+Descriptions
+The garden was found deep underground beneath the fortress. It was filled with beautiful flora and a bubbling marble fountain, all of which were real. The pristine blue sky and bird and insect sounds filling the garden were all an elaborate illusion.
+
+The garden measured roughly  in diameter, but cleverly designed illusions made it appear endless. The paths traversing the garden had a maze-like effect upon occupants. Only those who knew the secret command word were immune to this effect.
+
+The "sky" over the garden mimicked the same cycles that occurred above the fortress. A constant gentle breeze caressed every area of the Great Garden.
+
+Inhabitants
+Nar-Aidiya enjoyed relaxing in the garden when he was able to find time. A tasked slayer genie named Mujibur served as caretaker and guardian of the garden.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Grabert
+
+Grabert was a soldier in the Golden Legion around 1361 DR.
+
+History
+Grabert was a veteran swordsman of the Legion. He was part of Daggrande's squad in Payit when they first fought against the Mazticans. He was injured in the battle and later made his report to Cordell and his command staff.
+
+Appendix
+Appearances
+ Ironhelm
+
+References
+
+---
+
+## Greyst Seven Cloud
+
+Greyst Seven Cloud was the last ruler of Ixtzul in Maztica.
+
+History
+Greyst was the fourteenth Revered Counselor of Ixtzul. Towards the end of his life he knew that the valley was dying because of over-farming and crowding, but did not want to abandon guardianship of the Star Worm. Thus, he created the bacar from ants using pluma and hishna magic.
+Appendix
+References
+
+---
+
+## Grease
+
+Grease (originally called Shan's tallow) was a low-powered conjuration spell of the creation subschool used by arcane casters to cover a solid surface in an oily film. Some clerics of Ghaunadaur, Ilsensine, Laogzed, and Moander were granted the power of grease by their deities, and ooze genasi could create a similar effect.
+
+Effects
+This spell would coat a single object or a ten-foot-square surface within a close range with a layer of slippery grease, which would last for a number of seconds depending on the power of the caster.
+
+Components
+In addition to verbal and somatic components, the caster required a piece of butter or a bit of pork rind, although any similarly greasy substance could in theory be substituted. This material component disappeared as the spell was cast.
+
+History
+The spell was invented by the Netherese arcanist Shan in .
+
+In the month of Eleasis, of the, the city of Ravens Bluff's Ministry of Art and Wizards Guild jointly declared it illegal to cast grease within city limits due to a raging unnatural storm at the time called the Soulstorm. In addition to threatening arrest for those that broke this decree, it was declared that breaking this prohibition would result in a permanent expulsion from either organization.
+
+Appendix
+See Also
+ Grease slick
+Notes
+
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Green Goddess Falls
+
+The Green Goddess Falls were a series of waterfalls in Amn.
+
+Description
+The Falls were part of the River Rimril, as its waters flowed out of the Troll Mountains. The largest of the falls was  in height and poured over the cliffs on the west side of Eldath's Mount and into Duskwood Dell. Afterward, the waters continued cascading in a number of smaller falls and pools called the Steps.
+
+Appendix
+References
+
+---
+
+## Graystaff (spell focus)
+
+A graystaff, or a staff of frost, was a mundane staff used by bheurs as a magical focus for powerful spells.
+
+Description
+A graystaff was a gnarled wooden staff taller than a bheur. It was not inherently magical and only had powers when held by the bheur who had crafted it.
+
+Abilities
+When held by a bheur, the staff allowed her to create powerful magical effects, including cone of cold, hold person, ice storm, solid fog, and wall of ice. Unless she held her graystaff, she could not cast these spells.
+
+Construction
+A graystaff was made from a wood that could not be found on the Prime Material Plane. It took at least a year for a bheur to craft her staff.
+
+References
+
+---
+
+## Grace of the Masked Lord
+
+Grace of the Masked Lord was an ability, a skulker of Vhaeraun could learn.
+
+Effect
+A skulker of Vhaeraun used grace of the Masked Lord when they needed to deal with traps. A skulker was expected to be able to deal with mundane traps and locks but in the case a dangerous trap that would threaten the skulker's group, this ability was used for additional temporary protection.
+
+It consisted of creating a zone inside of which the group gained additional protection and the chance to recuperate immediately from the effects of a trap.
+
+References
+
+---
+
+## Grey Riders
+
+The Grey Riders (also Gray Riders) were a group of around twenty rangers on horseback who were protectors of Harrowdale in the Dalelands. Their primary purpose as of 1368 DR was to guard against monsters and bandits in the forests and woods of the dale.
+
+Activities
+By 1374 DR, the Council of Seven Burghers had recruited twelve Grey Riders to operate from Velartree.
+
+History
+In 1368 DR, the Grey Riders had no powers of arrest, and their duty was simply to watch for threats, and, if necessary, seek support from other dales. However, by 1374 DR, the Grey Riders had been granted the power of arrest, to keep prisoners, and to transport them to Harrowdale Town for "Council justice".
+
+Appendix
 References
 
 ---
@@ -1690,6 +6598,1083 @@ Gallery
 Appearances
 
 References
+
+---
+
+## Grushakk
+
+Grushakk was a powerful glabrezu under the command of Sarya Dlardrageth in 1374 DR.
+
+History
+During the Battle of the Cwm, Grushakk was the leader of the demons allied with the fey'ri. Sarya ordered to him to kill the enemy commanders. Grushakk engaged with Araevin Teshurr, Ilsevele Miritar, Grayth Holmfast, and Maresa Rost, but was quickly brought down and defeated.
+
+References
+
+---
+
+## Growing Mountains
+
+The Growing Mountains were a small isolated mountain range found in the northern regions of the Katakoro Plateau in the Hordelands.
+
+Geography
+The mountains sat between Nor Tso to the south and the peak of Shan Pi and the eastern arm of Katakoro Shan to the north. The Old Caravan Road passed underneath the northern shadow of the Growing Mountains.
+
+Description
+The presence of sheer rock walls made the Growing Mountains an ideal place for the fortress monastery of Punakha Dzong.
+
+Appendix
+References
+
+---
+
+## Gryhark
+
+Gryhark was an Uthgardt member of the Elk tribe sometime after the War of the Silver Marches.
+
+History
+In the late 1480s or early 1490s DR, Gryhark was captured by the minions of Chief Guh and taken to Grudd Haug.
+
+Appendix
+Appearances
+ Storm King's Thunder
+
+References
+
+---
+
+## Greshlyrr
+
+Greshlyrr was a kobold chief of the Scything Claw tribe in Turmish in 1358 DR.
+
+History
+Greshlyrr gained fame among his tribe from an episode in his past: in an abandoned den he found  a masterfully crafted figurine of the kobold god Kurtulmak, and only a second after he had exited the den with his prize the den collapsed in an earthquake. This was seen by the tribe as a sign of Kurtulmak's blessing to Greshlyrr.
+
+Around 1348 DR, he had become the Scything Claw chief, elevating his tribe to a higher level of civilization. At the same time, he started a war with the nearby gnome settlement of Gildenglade. After many years, it ended with a truce.
+
+In 1358 DR, while he and his warriors were away attacking a band of goblins, an adventuring party raided the home of the Scything Claw tribe. Greshlyrr blamed the nearby gnome village of Gildenglade, and mustered his remaining forces to attack. Greshlyrr lead his unit of kobold Night Stalkers personally in the attack. Secretly, Yrkhetep amused himself watching Greshlyrr.
+
+Personality
+Greshlyrr was an unusually intelligent and cunning kobold. He was cruel and took joy from others' suffering.
+
+Possessions
+Greshlyrr normally fought with an axe or keenly sharpened scimitar. His prized possession, however, was a sturdy wood and wicker shield emblazoned with a bloody talon glyph that he called Blade Turner.
+
+Appendix
+References
+
+---
+
+## Grimslaak
+
+Grimslaak was an ultroloth agent of Yrkhetep in Chondath in 1358 DR.
+
+History
+In 1358 DR, Grimslaak killed and replaced the innkeeper of the Inn of the Five Crown in Arrabar in order to spy on the meeting  of the Sisterhood of the Oaks, the Lightblades, the Sunshafts, and the Windriders, where they organized their battle plans against the troops of one of the Yrkhetep's minions. Eventually he sent three yagnoloths to kill possible disturbers.
+
+Appendix
+References
+
+---
+
+## Grrothgrrowl
+
+King Grrothgrrowl was the most powerful wemic king of the Shining Plains as of the late 14 century DR.
+
+Description
+Grrothgrrowl was an impressive man. He was huge, bigger than an average wemic, towering over other humanoids at .
+
+Personality
+The king of the Tenpaws cared very little for humans, and if they lived outside his territory he was uninterested. Grrothgrrowl required caravans from east and west to pay tribute. He considered the Emerald Enclave a powerful ally but he did not care for the their ideas.
+
+Possessions
+He wielded an enchanted +3 warhammer and a magical +3 shield in battle.
+
+Activities
+Grrothgrrowl ruled the Tenpaw tribe, which comprised more than 12,000 members. He managed to command this many thanks to eight chieftains as assistants and an Emerald Enclave advisor, who provided intelligence information.
+
+History
+King Grrothgrrowl fathered a son in the mid-to-late 14 century DR. The birth happened shortly before the visit of Adamar Session, Bard of Starmantle, during his twelve-year adventuring trek across the Vilhon Reach. The bard attended the annual remembrance vigil held at the Hill of Memories in the Shining Plains and witnessed several individuals, including a member of the Emerald Enclave congratulating Grrothgrrowl with Thrrothgrrowl's birth. Adamar Session wrote about the wemic prince in his guide to Vilhon Reach and speculated that at the time of writing, Thrrothgrrowl was likely an adult.
+
+Appendix
+References
+
+---
+
+## Grand Grelpin
+
+Grand Grelpin was a kobold wyrmpriest in Undermountain in 1479 DR.
+
+History
+In 1479 DR, he was leading his tribe into Undermountain in search of a rumored dragon when the mad half-elf mercenary Zarr appeared and killed their chieftain. Most of the kobolds believed Zarr to be the dragon in half-elf form. Grelpin did not agree but said nothing to avoid being killed. He served Zarr until the mercenary ordered Grelpin to face a basilisk. Instead he hid in his chamber, planning a way to escape.
+
+Personality
+Grelpin wanted to overthrow Zarr and the alliance with the goblins and proclaim himself as the new chieftain. As the tribe's priest, he couldn't abandon his fellows.
+
+References
+
+---
+
+## Graven Larvoldson
+
+Graven Larvoldson was a dwarf blacksmith in Waterdeep in the late 15 cenutury DR.
+
+Activities
+Graven had a workshop in Waterdeep.
+
+History
+In 1479 DR, he was kidnapped and taken to Undermountain by the vampire Dayan, who ordered him to create the receptacles Dayan used to hold his life force when he turned to mist. After finishing the work, Graven was left in his cell to die.
+
+Appendix
+
+References
+
+---
+
+## Gritchet
+
+Gritchet was a halfling trickster in Waterdeep in 1479 DR.
+
+History
+In 1479 DR, Gritchet went to Waterdeep from Amn in search of a job. Gritchet found no job but Enda Yate offered to let him join in her treasure's hunt into Undermountain and he accepted like many others.
+
+When they ventured into Undermountain, Gritchet was chosen along with the human lowlife knee-breakers Cobb and Draskar and the half-elf market grifter Tindel to remain to watch their base while all the others led by Enda went deeper. He was shocked when his companions exploring the surrounding area slaughtered some nearby Downshadow folks.
+
+Personality
+Gritchet was squeamish about killing and always tried to avoid death even among enemies.
+
+References
+
+---
+
+## Grintalalch
+
+Grintalalch the Red was an enigmatic spriggan merchant from Deepearth in 1479 DR.
+
+Activities
+Gintalalch managed a merchant company in Deepearth. Often, however, he did business in Fugue in Vaasa, where he managed the movement of illicit goods. Some said he had a link to the Assassins Guild of the Galenas.
+
+Appendix
+
+References
+
+---
+
+## Grasping vine
+
+Grasping vine was a conjuration spell that summoned a vine capable of pulling creatures toward it.
+
+Effects
+The spell caused a vine to sprout from the ground that could pull another creature directly towards it. The vine lasted for up to one minute, for as long as the caster concentrated, and could be commanded to pull other creatures.
+
+Components
+The spell needed verbal and somatic components.
+
+Appendix
+External links
+
+Appearances
+Miniatures
+Icons of the Realms
+References
+
+---
+
+## Grek
+
+Grek was an imperfect galeb duhr in the Underdark in the late 15 century DR.
+
+History
+Circa 1486 DR, Grek, while only half-finished, was exiled from the stone giant Lodge of Faces by the elder Daitya.
+
+It arrived in Szith Morcane where it witnessed the madness of the fire giants.
+
+Appendix
+
+Appearances
+ Szith Morcane Unbound
+
+References
+
+---
+
+## Green slaad
+
+Green slaadi, also known as curse slaads, were unusually intelligent slaad shapechangers and spellcasters. Spawned from skilled arcane practitioners that underwent the slaad reproductive process, the gloating toads could eventually evolve into the more magically skilled gray slaads.
+
+Description
+Green slaadi were physically similar to blue slaadi, standing at least  tall but often sharing their height, weight and build, albeit being more gangly. Their skin was mostly a pale, mottled green, but otherwise was also identical to that of the blue slaads. They had high foreheads, wide mouths and long claws, although by slaadi standards their claws were actually short, and the frog-like bipeds had the ability to take on other humanoid forms.
+
+Personality
+Green slaadi were utterly selfish beings that thirsted for magical might and got defensive about their weaknesses. By the standards of the common slaads, green slaadi possessed a great amount of intelligence, having some knowledge of the arcane and being skilled in deceit and intimidation. However, given the primitive nature of red and blue slaadi, sizable intellect by their standards translated to the average intellect of ordinary mortals, and they could still fall victim to loutish behavior. Their primary flaw was their arrogance and haughtiness, as during times of victory they had been known to waste time boasting and blustering.
+
+Abilities
+While by no means weak, having strength somewhat comparable to that of the blue slaadi, green slaads weren't particularly adept at melee. Instead, they specialized in the use of spell-like abilities, and had been reported to be capable of casting the spells fear, darkness, telekinesis, invisibility, detect invisibility, detect thoughts, detect magic, locate object, produce flame, shatter, and even different forms of fireball, although no individual green slaad was known to be able of casting all of them.
+
+They could also polymorph themselves into humanoid forms of various sizes, typically those of their former hosts or selves, and the transformation couldn't be dispelled by outside forces, although they could turn back whenever they wanted and reverted to normal upon death. Truesight would reveal their slaad forms, but the change was still physical, altering their bodies and not their clothes. They had the power to summon other green slaadi, as well as red, blue and possibly even gray varieties.
+
+Other reported strengths included an immunity to non-enchanted weapons, the ability to teleport others, manipulate chaotic energy either in bolts or bursts and travel between planes. Purportedly, their forehead symbols functioned similarly to phylacteries; so long as they were intact when a green slaad was killed, they would reincarnate as a blue slaad after 24 hours and turn back into green slaads after a year and a day had passed.
+
+Combat
+Green slaadi favored using their spell-like abilities to fight from afar, hurling energy at their foes and teleporting other slaads into close quarters. They did what was in their power to keep other foes at bay and possessed enough self-preservation instinct to avoid fighting to the death, but wouldn't hesitate to enter melee combat if pressed. Despite their concern for their safety, they were known to stop and brag to their enemies even in the middle of combat, their egotism overpowering their better judgement.
+
+Society
+Green slaadi could operate in pairs or in gangs with up to five or six members, but would only do so if it would help them accomplish their immediate goals. They were often born with significantly greater status than red and blue slaadi and normally acquired much more over time.
+
+Ecology
+When an arcane spellcaster, or sometimes just a sufficiently powerful host, was transformed by a blue slaad's chaos phage or used by a red slaad to hatch a tadpole, the result was sometimes a green slaad. As opposed to when the process yielded red or blue slaadi, where the parent abandoned them to be raised by the slaad of the opposite color, green slaadi were nurtured and favored by both types with careful concern. They properly matured at around 10-12 years old and were already of higher status than their parent.
+
+Metamorphosis
+In their unending search for more magical power, green slaadi, at some unknown point in their lives, eventually discovered the means to instigate a permanent magical transformation. Knowledge of the transformation wasn't learned as much as it was unlocked, instinctively and unpredictably figured out late in their lives. The realization could take years or decades to come across, most commonly taking about a century or more, and slaadi that survived to such an age normally retreated into isolation for a minimum of a year. The lucky few that came back returned as gray slaadi, having instantaneously transformed into the higher form after a certain point, fortunately for them with their memories intact. However, the majority never completed the metamorphosis and never returned, presumably having dissolved into the raw, primordial chaos of Limbo after being broken down into their basic essences.
+
+Subraces
+
+There also existed variant green slaadi known as madjacks that suffered from insane visions so infectious that they extended beyond their own psyches. They could project madness into the minds of others, sometimes just as a reaction to being harmed, and let loose horrible croaks that ruined the minds of those nearby. Unlike ordinary green slaads, they had no qualms about diving into combat and sowing chaos amongst their adversaries, although if seriously hurt they tried to retreat and mentally damage their enemies from a distance.
+
+Notable Green Slaadi
+ Grellon the Green, a powerful slaadi born from a pit fiend who knew the paths of Gehenna, Hades and Carceri, and served as a charitable guide and protector for travelers in the lower planes. It was thought by herself and others that she was compelled to balance the cruelty of her environment through good acts and that she would become meaner if taken to the upper planes, although it was hard to test such a theory since other slaads acted strangely protective of her and she could only be found if she wished to be.
+
+Appendix
+Notes
+In the image of the green slaad from the 5-edition Monster Manual, it has a monkey on its back. The most likely explanation for this is that, as only spellcasters become green slaadi, the monkey was probably the spellcaster's familiar.
+
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Gray slaad
+
+Gray slaadi, sometimes spelled grey slaadi but also referred to as rift slaads or executioners, were green slaads that had undergone a magical metamorphosis. They were known as the executioners for their service to the malevolent death slaads, carrying out their demands on missions of doom.
+
+Description
+Compared to the common slaadi, gray slaads were relatively small and lean, appearing as frog-like humanoids that stood  tall. They seemed swifter as well as skinnier and had long, clawed fingers. Some said their gray complexion was spotted while earlier it was claimed to be even and light.
+
+Personality
+Gray slaads shared the same power-hungry obsession with magic that their former selves did, but to an even greater degree. They were so fascinated by magic that they no longer cared about the activities of the lesser red, blue and green slaads, devoting all their attention to their studies. Some trained as sorcerers to bring out their inherent magical ability while others enjoyed augmenting their power by crafting magical items, but most sought the virtually immortal might of the death slaads.
+
+Abilities
+Gray slaadi were no less physically dangerous for their increased magical power, possessing most of the abilities of their prior forms as well as additional powers. They could skillfully craft illusions, imbue items with magic, perform flame strikes, walk on wind, magically fly, speak and create various power words and symbols and plane shift on top of their green slaadi abilities, although like the green slaads, no individual possessed all of such powers. They could polymorph into humanoid forms, often those of their original hosts, and could summon other gray slaads, as well as the common types. Other rumored abilities included immunities to the cold, disintegration and non-enchanted weapons, along with the more esoteric powers to teleport and disrupt planar stability.
+
+Combat
+Despite preferring ranged combat using their magical abilities, gray slaadi weren't adverse to entering melee, fighting with tooth and claw in their slaad forms and training to wield greatswords, often magical blades, when in their humanoid forms. They were intelligent enough to flank and use their abilities based on current circumstances, although their ability to teleport sometimes manifested when they were seriously injured, resulting in them losing their grasp on physical reality and temporarily becoming insubstantial.
+
+Society
+Aside from the death slaadi, gray slaads were the most dreaded of the slaads, sent to the Prime Material Plane to act on their behalf. They disguised themselves as somewhat charismatic humanoids, typically wearing light clothing and in possession of one or two powerful magical items, as well as a pouch of gold or platinum. They were known to operate in pairs and in groups of three or four
+
+Although slaadi typically had little actual influence in the Blood War, gray slaadi, in their lust for new magical items, were known to trade information to both sides.
+
+Ecology
+After returning from over a year of isolation, green slaadi were instantly turned into gray slaads via a mysterious magical process. By taking part in an enigmatic ritual that suffused them with negative energy, gray slaads could gain even more power at the cost of corrupting their chaotic ways with the murderous sadism of true evil. It was said that, if they consumed an entire, deceased death slaad, the gray slaad that did so would instantly transform into a death slaad themselves. Regardless of the process used, gray slaadi kept their memories after the transformation, albeit tainted by their new perspectives.
+
+Subraces
+The variant gray slaads referred to as havocs gleefully took part in furthering the confusion of combat, using their control over space to redirect enemy attacks and shifting the positions of enemies and allies to their whims. They blasted enemies from afar to goad them into shooting them only to send the attack hurtling back, although since this typically only worked once they spent the remainder of the time reshaping the battlefield to their advantage. If havocs released too much chaotic energy at once they could potentially cause planar instability, with some stories saying that enough of them could open gates to other planes.
+
+There were also special havocs with even more dangerous abilities known as acolytes of entropy, fanatical worshipers of Ygorl that lived to spread physical destruction and mental disorder. Brought together by the void slaad Skirnex, they charged recklessly into battle with intent to destroy as much as possible, fully intending to be hurt as even their wounds caused entropic energy to spread around them.
+
+Notable Gray Slaadi
+ Dregadzel, a gray slaad servant of the slaad lord Bazim-Gorag, who acted as a secretary for his Flame Lord acolyte Moskogg, a half-fiend minotaur. She made sure his fiery fury was channeled into efficient plans in the form of a scholarly, human woman.
+
+ The Sorrowful Executioner, a gray slaad that mastered a rampaging red slaad horde known as The Lone Claw, one of the greatest slaad packs in Limbo. They specialized in unexpected shock strikes and skilled diversions, although their goals were utterly unknown and they left as quickly as they arrived.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Grumble
+
+Grumble was a quaggoth thonot in Maerimydra in the late 15 century DR.
+
+Activities
+Grumble was a slave overseer there.
+
+History
+Circa 1486 DR, after the initial allied attack on Maerimydra, Grumble was among the minions gathered by the shadow demon Verix for the counterattack.
+
+Appendix
+
+Appearances
+Assault on Maerimydra
+
+References
+
+---
+
+## Gribbla
+
+Gribbla was a servant of King Obould XVII in 1484 DR.
+
+History
+Just after the start of the Darkening, possibly under orders from her king, Gribbla helped an adventuring party escape from the keep before they were to be killed by orc traitors allied with the drow.
+
+Appendix
+References
+
+---
+
+## Grody
+
+Grody, known to a few by his true name Groadikus, was a minotaur magus slaver in Skullport in the late 15 century DR.
+
+Activities
+Grody was the right-hand of the slaver Lanador. Usually he supervised the slaves in their cells inside Lanador's lair.
+
+History
+In 1479 DR, Grody together with some Unyielding Sword mercenaries in charge of operations when an adventuring party supported by the Xanathar attacked the lair. In the fighting, Grody was defeated.
+
+Appendix
+Appearances
+Adventures
+Dungeon #206, "Eyes on the Ball"
+References
+
+---
+
+## Gremma
+
+Gremma was an annis hag in Undermountain in 1375 DR.
+
+Activities
+Gremma resided with her four ogre minions in a small forest created by her powers inside Undermountain. Often, during enemy attacks, she disguised herself as an ogre. Gremma always empowered the ogres with her potions if she had the time.
+
+Personality
+Gremma, like her ogres, liked playing with her food—adventurers—before eating them. She preferred to attack unarmed because she liked tearing the adventurers apart with her claws and using her bare hands was easier.
+
+Possessions
+Gremma possessed a magic cauldron.
+
+Appendix
+Appearances
+Adventures
+Expedition to Undermountain
+
+References
+
+---
+
+## Grrunk
+
+Grrunk was a taer adept in 1372 DR.
+
+History
+The yochlol Savera recruited Grrunk and her group of taers as minions in her mission to Sildëyuir's Night Realm citadel. Grrunk and her fellows accompanied Savera in infiltrating the mercenary army gathered by the nilshai sorcerer Tolg'byri. Thanks to her disguise, Savera took Tolg'byri by surprise, killing it. Afterward, Savera took control of the group.
+
+Soon after, Grrunk found the footprints of someone else inside the citadel and with her fellows started searching for the intruder (revealed to be the deathlock Kyjal Stardancer).
+
+Appendix
+References
+
+---
+
+## Grey Jungle
+
+The Grey Jungle was a dense rain forest found in the Ruined Kingdoms region of east Zakhara in 1367 DR.
+
+Geography
+The jungle sat approximately halfway between the cites of Dihliz and Mahabba. It rested at the southern end of Al-Sayaj Mountains. The jungle touched the coast bordering both a small portion of the Crowded Sea in the west and Serpent Bay in the south.
+
+Description
+The Grey Jungle was densely packed with vegetation thick enough to hide the ruins of Ysawis from Enlightened Zakhara. Hard soil covered much of the jungle floor. The River Abdo meandered through the northern portions of the jungle.
+
+Inhabitants
+Despite the thick vegetation, the Grey Jungle was home to savage carnivorous jungle giants who preyed upon anything they encountered, often including sentient creatures. Tribes of yuan-ti claimed the northern reaches of the jungle. Their sinister reputation was enough to keep even the dangerous jungle giants at bay.
+
+Large snakes, called teak serpents, made their home within the dense rain forest. The snakes were large enough to feed upon prey the size of elephants.
+
+History
+The Grey Jungle was usually avoided by travelers and adventurers because of the Grey Fever known to claim those who dared to venture into its depths. Still, the promise of ancient treasure was enough to lure some brave fortune-seekers.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Grey Fever
+
+Grey Fever was a fatal disease that often struck travelers who dared to explore the dark recesses of the Grey Jungle in east Zakhara.
+
+Unless a skilled healer or cleric was on hand, anyone afflicted with this disease usually died quickly before they could escape the boundaries of the jungle and seek medical attention.
+
+The origins and cause of this disease were unknown.
+
+Appendix
+References
+
+---
+
+## Grimnoth
+
+Grimnoth was a black dragon living in Mulmaster in 1373 DR.
+
+Activities
+Grimnoth made his lair inside the city sewers because he enjoyed knowing that all of the people above were oblivious to his presence.
+
+Appendix
+
+References
+
+---
+
+## Great Mage (Bloodforge)
+
+The Great Mage was the title of a bloodforge mage in the Utter East during the time of the Bloodforge Wars (648–657 DR). It was also a byword for any tactically skilled bloodforge mage.
+
+Works
+The Great Mage taught a number of principles of warfare related to the function and philosophy of the bloodforge and basal golems and their use in battle, together with mana and mystical sites. His adherents labeled the bloodforge "the mother of battle", a thing pregnant with magic that gave life to armies, with basal golems "the children of battle", who would serve without question or doubt. They saw mana as a kind of food that fed their war effort. They saw themselves as masters of battle who would achieve greatness through conflict.
+
+The Great Mage also created the "oracle", a marble interface that each mage who'd mastered a bloodforge could use to issue commands to their army while they took a place high above the battlefield.
+
+In his own teachings, he used the term "Mage" for a hypothetical bloodforge mage and "Great Mage" for one who demonstrated superior tactical skill and leadership ability. Other writers and campaigners, such as Baykon the Bard, the Epic Urus, Grey Shian, Haliph Axe, Pavisi the Prophet, and Tok Ville the Traveler adopted this term, and hence "Great Mage" could also be seen as a byword for any talented military commander and bloodforge mage. For example, Tyranis Shagal was known as a "great mage", while Aelric the Avenger was said to be heir to a legacy of great mages.
+
+Description
+The Great Mage was depicted as the quintessential image of the wizard: an old man with woolly white hair, mustache, and beard, with glasses and wearing purple robes and pointed hat adorned with stars. He spoke in a high, squeaky voice.
+
+Quotes
+On preparation…
+ "The strategies of battle must be thoroughly studied. Pity those that follow the Mage who has not given this due consideration."
+ "The Great Mage evaluates the conditions of terrain before deploying his forces. Only then can the proper number and type of followers be directed to an objective."
+ "The Great Mage lures the enemy into traps, and draws opponents away from the true objective."
+ "The plans of an enemy can be revealed in his actions. If he is a Great Mage, then his followers will act with deception."
+ "No amount of planning can save the Mage who is unable to respond to unforeseen circumstances."
+
+On tactics…
+ "Sporadic attacks can frustrate the opponent. This sort of badgering will wear upon his patience, and distract him from his plans."
+ "Any battle may be won with the correct approach. The Great Mage exploits the weakness in his enemy, while avoiding the strengths."
+
+On leadership…
+ "When an army resides at home, it must answer to the will of its king. Once in the field, the army is governed by the laws of its leader."
+ "The Mage who does not recognize inherent dangers to his followers does not recognize the correct way to use them."
+ "When the objectives of a Mage are in harmony with the will of his followers, all commands will be obeyed without fear of mortal peril."
+ "Properly led followers celebrate the attack, and are resentful when ordered away from battle."
+
+On resources…
+ "The wasteful Mage does not recognize which resources are needed. He occupies himself with inferior pursuits, and permits the enemy to act."
+ "The Great Mage feigns weakness, and hoards resources for the correct opportunity."
+ "That which cannot be acquired freely may be taken from the enemy."
+ "The use of magic must be thoroughly studied. Be wary of the Mage who wields this ominous weapon without due reflection."
+
+On emotion and insight…
+ "Arrogance and anger are the bane of all Mages. When these are encouraged, a Mage will attack without proper planning."
+ "If a Mage is not courageous, then doubt will overwhelm him and drive great plans from his mind."
+ "Idle comfort permits a Mage to reflect upon his world, yet the heat of battle forces him to examine his own nature."
+ "Experience has no value when lessons are ignored."
+
+Appendix
+Background
+The Great Mage is a peripheral character in the Blood & Magic game and documentation. In the Instruction Manual, some passages are titled "Teachings of the Great Mage". A mini-story in the Readme file for the Interactive Demo (though not the full game) refers to "principles of warfare as instructed by the Great Mage" and "a marble oracle created by the Great Mage" (that is, the game interface). Within the game itself, the Great Mage appears to teach the player in the tutorial mission. Finally, when exiting the game, a quote appears offering in-setting tactical advice, the majority of which is from the Great Mage. The Great Mage thus appears to be inspired by Sun Tzu, author of The Art of War.
+
+References
+
+---
+
+## Gruss
+
+Gruss was a lizardfolk of the Sharptooth tribe in the Vast Swamp of Cormyr in the early 1370s DR.
+
+History
+In early Eleint of the Year of Lightning Storms, 1374 DR, Gruss was among a group of Sharptooths captured by Shadowscales and held prisoner in the tower of the Lost Refuge in the Vast Swamp, along with chieftain Gathan, Ashala, Kurash, and Sithen. The ordeal left them weary and emaciated. They were presumably rescued by adventurers in service to Mystra investigating Sharran activities there.
+
+Appendix
+References
+
+---
+
+## Great Anvil
+
+The Great Anvil was a scorched wasteland forming the very heart of the Haunted Lands of Zakhara.
+
+Geography
+The Great Anvil stretched for hundreds of miles from the Wall of the Wailing Elephant in the south to the hill country along the fringes of the Furrowed Mountains in the northwest.
+
+Description
+This barren wasteland reached temperatures of 130 degrees (54.4 °C) during the daytime and plummeted to below freezing at night. Rainfall never touched the parched sand of the Great Anvil, though violent dust storms were commonplace. The extreme conditions of the Anvil made even the most experienced desert riders halt in their tracks.
+
+Ruins of once great civilizations were scattered throughout the Great Anvil. Some of these ruins were inhabited by elementals.
+
+Inhabitants
+The Great Anvil was the home of the Jann of the Haunted Lands–a collection of different tribes of jann known for their often erratic behavior.
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Great Amber Steppes
+
+The Great Amber Steppes was a vast stretch of land found in the Hordelands.
+
+Geography
+The plains of the Great Amber Steppes were surrounded to the south by the Mountains of Copper and the Khopet-Dag, to the north by the Lake of Mists and the Golden Way, to the east by the Firepeaks and Sentinelspire, and to the west by the Sunrise Mountains.
+
+Notable Locations
+ Almorel
+ Drubiev
+ Ejen Horo
+ Clearflow River
+
+Appendix
+Novels
+Sentinelspire
+References
+
+---
+
+## Great School of Deneir
+
+The Great School of Deneir was a temple to the god of learning found in Almorel in the Hordelands.
+
+Description
+This large temple and school was situated right across the street from the Gospoda in the heart of the city.
+
+Appendix
+References
+
+---
+
+## Great Rift
+
+The Great Rift was the traditional home of Faerûn's gold dwarves, though there was also a human city nearby, called Khôltar, until the Spellplague of 1385 DR. The country of 1,300,000 dwarves, gnomes, halflings, and humans was nominally ruled by a monarchy, but actually by a council of clan elders named the Deep Lords, from the capital of Underhome.
+
+Culture
+"There is a difference between a Dwarf and a pick-axe" was a saying in the Great Rift. It meant that a good king didn't use his people like tools.
+
+History
+When the Spellplague hit in 1385 DR, the western half of the Great Rift collapsed into the Underdark, forming an enormous canyon called the Underchasm. What remained of the Great Rift became known as East Rift. Underhome was destroyed in the cataclysm and the capital was moved to Eartheart.
+
+During the Second Sundering in 1486 DR. the quest of the four chosen (Kleef Kenric, Malik el Sami, Joelle Emmeline and Arietta Seasilver) to deliver the Eye of Gruumsh to Grumbar for Luthic and to stop Shar restored the canyon to its former earthly land before the Spellplague.
+
+Appendix
+Specific prestige classes
+ Great Rift Deep Defender (image)
+ Great Rift Skyguard (image)
+Appearances
+Novels
+
+The Council of Blades
+Video Games
+
+Neverwinter Nights 2: Storm of Zehir • Neverwinter Nights 2: Mysteries of Westgate
+Card Games
+Spellfire: Master the Magic
+
+Gallery
+
+External Links
+ Dwarves Sneak Peek
+ Shining South
+ Elminster Speaks Articles on Khôltar and surroundings from page 58 to 88
+ More of the Shining South!
+ Great Rift Portals
+References
+
+---
+
+## Grey Shian
+
+Grey Shian was a person in the Utter East.
+
+Regarding the Bloodforge Wars (648–657 DR), Grey Shian remarked "The Great Mage dwells upon what fate has conceded to him, rather than what it has denied."
+
+Appendix
+Background
+When exiting the game Blood & Magic, a quote appears offering in-setting tactical advice. The above quote from "Grey Shian" is one of these. Grey Shian's is adapted from 17-century Jesuit priest Baltasar Gracián, "A prudent man will think more important what fate has conceded to him than what it has denied."
+
+References
+
+---
+
+## Graycloaks of Neverwinter
+
+The Graycloaks was the militia that protected the city of Neverwinter in the 14 century DR.
+
+Background
+The Graycloaks earned their name from the grey cloaks they wore, as they didn't have the funds to afford proper uniforms.
+
+Organization
+The Graycloaks had 400 members, a mounted force of archers and spearmen, although they were trained in the use of other weapons. Females and males were treated as equals within their ranks.
+
+In peacetime, 60 Greycloaks always acted as Neverwinter's police force while 60 of them were on leave and another 60 were re-training.
+
+Headquarters
+The Graycloaks had two garrisons, at the northeastern and southeastern gates.
+
+Possessions
+Besides their arms and grey cloaks, the militia had the blastglobes made by the Many-Starred Cloak wizards, although they used such magic items only in times of need.
+
+History
+After the short but brutal war between Neverwinter and Luskan of the  and the Shadow War of the, Neverwinter's wealth was grained, and the region's economy teetering on the edge of collapse. In these dire circumstances, the Graycloaks of Neverwinter were left poorly funded and equipped. Some members of the militia were not equipped even with the simplest grey-dyed cloth armor due to the lack of funds, but even then, they wore the titular grey cloaks. During that period of time, most Greycloaks were civilian-soldiers who received poor training, while veterans of the two wars held higher ranks in the organization. But by mid-1370s DR, the Graycloaks' financing was slowly recovering with the aid of the region's economy being rebuilt with the aid of several mercantile groups of Neverwinter, including the Mercantile House of merchant princess Sa'Sani.
+
+The Graycloaks were disbanded after the destruction of Neverwinter.
+
+Legacy
+The Graycloaks faction of the Sons of Alagondar got their name from the milita.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Storm of Zehir
+References
+
+---
+
+## Grave domain
+
+The Grave domain was a deity domain pertaining to the line between life and death. Deities of this domain were aware of the fundamental importance of death and the afterlife and regarded the undead as abominations. Therefore, clerics of this domain were concerned with ensuring peace for the dead and comfort for the dying, as well as delaying death for those that still had great accomplishments ahead of them.
+
+Deities
+
+Spells
+Novice spellcasters were able to freely cast bane and false life, and later gentle repose and ray of enfeeblement. Clerics of some experience could cast revivify and vampiric touch and later blight and death ward. Those that were masters of this domain had access to antilife shell and raise dead.
+
+Powers
+In addition, Grave domain clerics gained access to the power path to the grave.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Gromma Nander
+
+Gromma Nander was a tortle circle of the land druid of the late 15th century DR.
+
+Description
+She was extremely old for a tortle, and walked with the aid of a spear. Barnacles grew on the back of her shell, and starfish of various colors were also attached to it. On her head she wore a braided headdress studded with pearls and a single piece of coral.
+
+Personality
+Gromma was both wise and inquisitive, and was quick to form friendships. Building trust was another matter. She had a fondness for young people, regardless of their race.
+
+Possessions
+Aside from her spear and headdress, Gromma had very little on her person. One of her few precious possessions was a bag full of smooth pebbles she had found on her travels.
+
+History
+After Gromma had given birth to her offspring, she soon grew bored of her life in seclusion. Once she had raised her children old enough so they might survive on their own, she decided to explore the world once more and learn more of the creatures living there.
+
+Appendix
+Appearances
+Video Games
+Idle Champions of the Forgotten Realms
+
+Gallery
+
+External Links
+
+References
+
+---
+
+## Grumbelham Goldhand
+
+Grumbelham Goldhand was one of the innkeepers of the Wildlands Rest, a wayside inn in the Silver Marches.
+
+Relationships
+Gumbelham's adventuring and business partner was Irvag the Bear. Both were enterprising souls.
+
+History
+In 1371 DR, the two old adventurers built and founded the Wildlands Rest. Despite their age, they were able to repel multiple orc attacks on their business. They continually expanded the location, adding additions to the building and upgrading furnishings.
+
+Appendix
+References
+
+---
+
+## Gray Oaks
+
+Gray Oaks was a small village of halfling farmers in the heartlands of Cormyr.
+
+Description
+Gray Oaks was a prosperous village and bustling agricultural center until it was destroyed and turned into a blasted ruin populated by stubborn holdouts. After its ruination it was a quiet place of simple means, with about 20 buildings and no fortifications.
+
+Geography
+Gray Oaks was situated in the Northbank region, north of the Starwater River and south of the King's Forest, several miles west of Hilp and Calantar's Way.
+
+Trade
+Gray Oaks was formerly the largest market in Cormyr and the center of the halfling-dominated Northbank farmlands. After it was razed, Jester's Green became the main meeting place for farmers and caravans to meet, though several storage sheds were built for storing produce.
+
+Gray Oaks had a reputation across Cormyr for having excellent wood craftsmen, and after it was razed it continued to be inhabited by stubborn halfling artisans. Several families of humans also made there home there, harvesting the mushrooms and mosses that grew on the rocks thereabouts. A particular kind of moss was found there that glowed, and it could be distilled into a useful substance used in making spell inks and glowing magical items.
+
+History
+Gray Oaks was once known as Black Oaks, the "breadbasket of Northbank" and the largest farmer's market in Cormyr. It was mostly destroyed during the Time of Troubles in 1358 DR, and razed again later during some sort of magical battle involving War Wizards and an enemy force, the details of which were much exaggerated.
+
+Although the village continued to be inhabited in the 1360s DR, it was a shadow of its former self. It gradually recovered over time, reaching a population of 800 by 1479 DR
+
+Rumors & Legends
+ The nature of the battle that destroyed Gray Oaks for the second time was widely speculated about. War Wizards were a consistent feature, but different stories had them fighting against Zhentarim wizards, Cyricist priests, or the avatar of Cyric himself.
+ Gray Oaks had a legend regarding the nearby Tearflow stream, involving a Purple Dragon, a lady love, a crystal chalice, and a unicorn.
+
+Notable Locations
+ The Trailswatch inn, a base for hunters to go on guided hunts nearby.
+ Sabrast Windriver owned an estate at Gray Oaks, among his other assets.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Grove of the Unicorns
+
+The Grove of the Unicorns was the divine realm of the Faerûnian goddess Mielikki.
+
+Description
+It appeared to be only a simple grove of trees found within a larger forest, but it was much bigger on the inside than on the outside. If an explorer could be counted as a friend to nature, they might spot a unicorn drinking from a pool in the heart of the grove, whereupon the entirety of the lush realm would appear around them. But one who was unworthy would not see the unicorn and could wander in and out and never know the realm was there.
+
+According to the animal petitioners, there were odd settlements hidden within the Grove, but there were a mystery to outsiders.
+
+Cosmography
+In the Great Wheel cosmology, the Grove of the Unicorns could be found in Krigala, the day-lit first layer of the Beastlands.
+
+In the World Tree cosmology, the realm was located in the House of Nature. Shiallia's realm, the High Glade, bordered on the Grove.
+
+Inhabitants
+As the name suggested, the Grove was a wood where many unicorns and celestial chargers could be encountered.
+
+Most importantly, it was home to the goddess Mielikki, the Mistress of the Forest, though she shared it with the Oerth deity Ehlonna.
+
+History
+Mielikki established the Grove of the Unicorns with the power she gained from reforming her clergy in the . Before that, she had always dwelt on the Prime Material Plane.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Great Rift deep defender
+
+Great Rift deep defenders were a force of gold dwarves who defended the Great Rift from the enemies of their kin throughout the Underdark. They were stalwart defenders, and served as the main line of defense along the border of the Deep Realm, the area underneath the Great Rift that connected it to the Underdark.
+
+Abilities
+These elite dwarven fighters excelled at fighting in the tight, narrow corridors of the Underdark. Once they held ground in a narrow passageway, they were nearly unmovable.
+
+Appendix
+
+References
+
+---
+
+## Great Rift skylance
+
+A Great Rift skylance was a magical lance that was crafted specifically for the use by the dwarven Great Rift skyguards.
+
+Powers
+It was a +2 lance. These magical dwarven weapons came in two variations: the blazing skylance, which shot flames from the tip of the lance, and the forceful skylance, which discharged magic missiles upon its wielder's command.
+
+Appendix
+References
+
+---
+
+## Great elixir
+
+A great elixir was a powerful and dangerously unpredictable solution that was just as lethal as it was rewarding. The legend of this potion was one of the most famous examples of the magic of Halruaa, where for a time it was used as a punishment for those convicted of capital crimes.
+
+Description
+The elixir itself was a twinkling and translucent aquamarine liquid that always appeared to be in swirling motion. Its taste was said to be like that of fine wine on fire.
+
+Possible effects
+The effect of drinking the elixir was completely random. It could have one, or a combination of, the following effects on the imbiber:
+ Instant death;
+ Feeblemindedness, as per the spell;
+ An infection of mindfire;
+ Permanent blindness;
+ Permanent darkvision out to ;
+ Uncontrolled, daily shapechanges, as per the spell;
+ Affliction of lycanthropy;
+ Gain the uncanny tracking abilities of a ranger;
+ Gain an immunity to an entire school of magic;
+ Gain or loss of intelligence, charm, heartiness, strength, etc.; and
+ Gain of abilities that mimicked the spells mage armor, alter self, change self, detect magic, detect thoughts, dimension door, ESP, ethereal jaunt feather fall, greater spell immunity, hold person, invisibility, pass without trace, spell turning, spider climb, water breathing, or wraithform.
+
+History
+The first version of a great elixir was most likely concocted in ancient Netheril or the Raurin Empire, though its true origins were forgotten to time. The formula of its creation was long lost since that time, although specimens appeared periodically among mighty wizards across Faerûn, often being incorrect in some manner and therefore deadlier.
+
+Around the, a Red Wizard of Thay was rumored to have obtained three abilities that mimicked spells from drinking a great elixir.
+
+Appendix
+References
+
+---
+
+## Grennel
+
+Grennel was a dwarf barkeep at the Beached Leviathan in Neverwinter.
+
+Appendix
+
+References
+
+---
+
+## Grubash Blacksnout
+
+Grubash Blacksnout was the tribal leader of several gnoll bands living in the Gnollwatch Mountains around 1373 DR.
+
+Leadership
+He was known for being particularly disciplined, having cultivated amiable relations with both the human and Crinti inhabitants of Dambrath. In addition, Grubash coordinated his warband's hunting grounds to avoid conflict and contracted them out for mercenary work. They typically fought for meat, silver, and valuable trinkets.
+
+Appendix
+References
+
+---
+
+## Green-flame blade
+
+Green-flame blade, also known as greenflame blade, was an evocation spell that caused a burst of green fire to leap from a swinging melee weapon.
+
+Effects
+As the spellcaster performed an attack with a weapon affected by the spell, green flame erupted from it towards a nearby foe. The deadliness of the spell increased as the spellcaster grew more powerful as the flames also increased the damage dealt by the weapon itself.
+
+Skilled swordmages could launch these viridian flames at multiple nearby foes, and could use both their intellect as well as their physical strength as the basis for the spell's power.
+
+Components
+The spell required a quick verbal as well as the weapon to be enhanced as the material component.
+
+History
+Prior to the Second Sundering, the spell was favored by swordmages, particularly so-called "assault swordmages" who employed flashy elemental magics in their fighting styles.
+
+By the late 15 century DR, the spell was popular among War Wizards of Cormyr and bladesingers. Warlocks taking the pact of the blade also favored this spell.
+
+Appendix
+References
+
+---
+
+## Greyspace
+
+Greyspace was the crystal sphere that contained the planet Oerth and the other planets of its system. Unlike Realmspace, which had the sun as the sphere's primary celestial body, Oerth was Greyspace's primary, sitting at the center of the sphere and orbited by its sun and other planets.
+
+Geography
+Greyspace was part of a triangular configuration in the flow of the phlogiston that also included Realmspace and Krynnspace. The flow allowed two-way spelljammer travel between Realmspace and Greyspace, as well as one-way travel from Greyspace to Krynnspace.
+
+Appendix
+Appearances
+ Into the Void (mentioned only)
+External Links
+
+References
+
+Connections
+
+---
+
+## Grabstab
+
+Queen Grabstab was the ruler of the Biting Ant goblins of Yellyark as of the late 15 century DR.
+
+Relationships
+Queen Grabstab had four adult children who served as her personal aides.
+
+Possessions
+Grabstab wore the bronze and adamantine control amulet linked to the shield guardian Vorn. She was unaware that the amulet was in any way related to Vorn, which she and the other goblins worshiped as a minor deity.
+
+Appendix
+References
+
+---
+
+## Grand Mairshar
+
+The Grand Mairshar was the title of the ruler of Tasseldale within the Dalelands both before, and during their occupation by Sembia. They possessed extensive power within the dale, as well as the crucial responsibility to maintain its defense, uphold its law, and discuss matters with foreign powers.
+
+A council known as the Tassel Elders, comprising a representative from each of the dale's twelve tassels, consulted with the Grand Mairshar before any major action. Their consent was required before enacting new laws, rallying the dale's militia forces, or military actions outside their borders.
+
+In addition to the vast militia force that was maintained within Tasseldale, the Grand Mairshar commanded the Mairshars. This group of mounted warriors defended the dale as soldiers, and maintained justice as a constabulary granted with the powers of arrest and sentencing. Although it seldom occurred, their decisions could be appealed to the Grand Mairshar.
+
+Grand Mairshars
+Elizzaria Whitehand A former priest of TymoraThe Forgotten Realms Campaign Setting 2e instead lists Helm as Elizzaria Whitehand's patron deity. who retired from adventure to serve in the ranks of the Mairshar and worked her way up the ranks until earning the title in 1352 DR. She was known for her blunt and direct demeanor and had become worn-down in the latter years of her reign over Tasseldale. By 1367 DR, she had begun training her replacement.
+
+Erich Inshiland This paladin was known for his cheerful personality during his youth spent being groomed by Elizzaria. He grew into a charismatic leader who fought back against Sembia during their invasion in 1420 DR.
+
+Appendix
+
+References
+
+---
+
+## Grimwald
+
+Grimwald was a legendary mage of The Covenant and founder of the School of Wizardry in Waterdeep (previously Neverwinter). He was known to have lived in the Tower Terrible in Wrinklestone in the Sword Coast North, before traveling beyond the world of Toril.
+
+Description
+While his physical appearance was that of a hunched-over, untidy man who often muttered to himself, Grimwald was known for having a kind heart.
+
+History
+Grimwald founded the School of Wizardry in 457 DR, along with the other renowned wizards Aganazzar, Ilyykur, and Presper. Over two hundred years later, in 673 DR, they founded an arcane organization known as The Covenant with the aim of fostering, and enforcing, peace between the warring tribes of the North. They marked this occasion by the creation of a collective spellbook known as the Tome of the Covenant, which possessed spells of each mage's creation.
+
+Unfortunately the mage's apprentices never took on the pact of their masters and the school went largely inactive for many years. Years later, in 1101 DR, Grimwald and Presper began to embark on a series of adventures through portals, but only returned to Toril a few times in between travels, the last known visit occurring in 1298 DR. Grimwald's home was looted long before 1372 DR.
+
+In the late 14 century DR, Grimwald and Presper encountered the wizard Savengriff in their travels across the planes. After some discussion, the three decided to reform the Covenant, this time based in the city of Waterdeep.
+
+Invented spells
+Grimwald's greymantle: This spell prevented healing or regeneration effects from working on a single creature.
+
+Trivia
+The blades known as Grimwald's daggers were named after the wizard, who was notorious for taunting his pet cats.
+
+Appendix
+References
+
+FR:Grimwald
+
+---
+
+## Grimjaw
+
+Grimjaw was a seemingly plain, unadorned iron shield that in fact possessed a powerful protective enchantment. It earned its name from a small inscription inside the top rim.
+
+Powers
+While it seemed to possess no magical properties, aside from being immune to rust, Grimjaw had devastating effects on any magical items with which it came in direct contact. It could drain charges from wands or staves, reflect attacks upon assailants, and negate and even completely drain, magical powers from other items or weapons.
+
+These powers had no effects on artifacts, but could teleport them away upon touch.
+
+History
+The shield was first identified by the sage Ragefast of Baldur's Gate, when brought to him by the adventurer, Krystus. Krystus carried it through his travels into the dwarven mines beneath the mountains near Tethyamar, where he lost it, as well as his life, in a dispute. Grimjaw was in the possession of the dwarven clan of the Iron House before being lost in their battle against orcs and wizards.
+
+After those conflicts, the head of the Iron House, Ghellin, sought to reclaim the enchanted shield.
+
+Appendix
+References
+
+---
+
+## Greenstone amulet
+
+Greenstone amulets were rare, extremely valuable magical necklaces that offered protection against a wide range of mind-controlling and physically dominating spells. They appeared as fist-sized stones, made of brittle greenstone, that shone with a radiance when activated. The stones were often carved into flattened versions of common shapes such as an egg, shield or simple helm.
+
+Powers
+When worn against the skin, these amulets provided a continuous mind blank spell and shielded its wearer with a spell immunity-like affect, which granted absolute protection from the spells chaos,  geas, hold person, hypnotism, mass charm, mind blank, quest, score, and sleep. It also offered more-limited protection against fumble, maze, Otto's irresistible dance, ray of enfeeblement, and trip, as well as necromantic spells, dimensional transportation, and certain psionic abilities.
+
+Greenstone amulets could only protect the wearer from a certain number and intensity of spells before it was completely drained, after which it shone extremely brightly and then slowly faded to a dark hue. It would slowly recharge after this occurrence.
+
+Appendix
+Appearances
+Adventures
+Dungeon #29: "'Til Death Do Us Part"
+Video games
+Baldur's Gate: Tales of the Sword Coast
+
+External Links
+
+References
+
+FR:Amulette de vertepierre
+
+---
+
+## Greater magic weapon
+
+Greater magic weapon (originally called Fourfinger's enchanted weapon and simply enchanted weapon) was a transmutation spell used by both arcane and divine casters to magically enhance a weapon temporarily. Some creatures, such as warmonger genies, had an innate ability to enchant weapons in a similar manner.
+
+Effects
+Like the simpler spell magic weapon, this spell could be used to make a single large weapon, or two small weapons, into a weapon that was both more accurate and more damaging, provided the weapon was in close range to the caster. The spell could also be cast upon as many as 50 projectiles (of the same kind). Ammunition would lose the enchantment when used, but thrown enchanted weapons would not. Otherwise, the enchantment would last of three or more hours, depending on the power of the caster.
+
+The enchantment could be as much as five times stronger than that provided by the weaker magic weapon spell. This spell could not enchant a creatures natural weapons, with the exception of the unarmed attacks of monks.
+
+Components
+In addition to verbal and somatic components, the arcane version of the spell required some powdered lime and carbon, which were consumed in the casting. Divine casters simply needed to hold onto their holy symbol while completing the spell.
+
+History
+The spell was invented by the weather-obsessed Netherese arcanist Fourfinger in, as his earliest recorded spell.
+
+The spell was one of the many recorded in Bowgentle's Book, a compilation of spells and magical teachings from the famous wizard Bowgentle of Silverymoon.
+
+Notable Users
+ Bineera Ethar
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Grit
+
+Grit was a half-dwarf half-orc rogue of Clan Ironeater residing in Illefarn around 1480 DR.
+
+Relationship
+Grit was the son of the dwarf Thord Ironaxe, who was one of the few dwarves to fall in love with an orc, Tulug. Grit did not much like his parents, especially his mother.
+
+History
+Around 1480 DR, the Red Wizard of Thay Arvik Zaltos asked for volunteers for a mission outside. Grit proposed himself, immediately followed by his father Thord.
+
+So Arvik instructed Thord Ironaxe, his son Grit, and the ogrillon Lump to go to Daggerford to help his apprentice Darwa Dalion to recover the earth key from inside the Ambergul Crypt.
+
+However, when Darwa, Thord, and the others found the altar to Ogremoch, she tried to unlock the earth key by force and a magical trap turned her into stone.
+
+So Thord went back together with Grit and Lump, but Thord was captured by some minotaurs who wanted cook and eat him.
+
+Only Lump and Grit returned to Illefarn with the earth key.
+
+After giving the key to the Red Wizards, Grit went to his room to listen to a singing stone he had recently found at Laughing Hollow.
+
+Personality
+Grit basically hated everyone in his life: he did not consider himself like other half-orcs because it was like looking in a mirror, he disliked the orcs that wanted him to become a fighter, and disliked the dwarves because they tried to expel the orcs from Illefarn. Grit dreamed of leaving Illefarn and seeing the world.
+
+Appendix
+References
+
+---
+
+## Grimwald's dagger
+
+Grimwald's dagger was a +1 enchanted dagger that, when drawn, emitted the continuous noise of an angry, yapping dog and even louder barking noises when it struck an opponent. This effect would often cause the victim to helplessly burst out into laughter.
+
+Once per day the wielder could, at will, cause the blade to emanate a shrill scream that hasted its attacks and greatly increased the damage it dealt.
+
+Usage
+These daggers were first popularized by Lady Alustriel Silverhand of Silverymoon and were named after the aged wizard Grimwald who delighted in taunting his cats.
+
+Appendix
+References
+
+---
+
+## Griffon's claw (grappling hook)
+
+A griffon's claw was an elaborately designed, magical grappling hook. Its form resembled that of the claw of a raptor.
+
+Powers
+Upon uttering the claw's command word, it would levitate into the air and fly towards an area denoted by its wielder up to  away. If it latched into a structure, such as a stone ledge or wood on the side of a ship, it was unmovable by non-magical means. The claw would only release its grasp upon a second command word being spoken.
+
+Appendix
+References
+
+---
+
+## Great Wheel cosmology/Imagemap
+
+The following image map was generated using information from the following sources:
+ Player's Handbook 5th edition
+ Dungeon Master's Guide 5th edition
 
 ---
 
@@ -1927,6 +7912,2930 @@ References
 
 ---
 
+## Grumsznar
+
+Grumsznar was a drow wizard of House Fey-Branche in the mid–14 century DR.
+
+History
+He was encountered by an adventuring party, after they had been sent by Ssar Tarell to find a way to enter House Do'Urden. Grumsznar told them he couldn't allow House Do'Urden to acquire the three parts of the legendary Spider Helm, the final piece being a gem. Thus, he planned to use the companions as a distraction.
+
+He gave the companions the house entry password, and sent them to meet with Rizzen Do'Urden, who would provide them a map of House Do'Urden. Furthermore, he suggested that in order to gain full entry to House Do'Urden, they appear as part of a returning drow patrol. Therefore, with his illusion magic, he transformed each member of the party into a drow version of themselves.
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Great Brass Gate
+
+The Great Brass Gate was the portal though which the noble efreeti Memnon entered the world of Toril to found his kingdom along the Sea of Swords.
+
+History
+After the Great Pasha Memnon came with his followers through the portal, he established his capital city of Memnonnar around it. Thousands of years later, though the city had been razed, the portal still survived below the ruins.
+
+Description
+The gate was a massive, 100-foot-diameter ring of solid brass suspended in the air. It acted as a permanent two-way portal between Memnonnar and the Elemental Plane of Fire.
+
+By 1374 DR, unlike properly functioning portals, the Great Brass Gate leaked, and this resulted in fiery conditions around it. All of the caverns and tunnels in the ruins around it glowed from heat and the air was filled with smoke.
+
+The Great Brass Gate was guarded at all times by a loyal efreeti named Ufbrann, who had sworn to defend the gate until his death. He only permitted creatures with fiery bloodlines to pass.
+
+Reference
+
+---
+
+## Great Oak
+
+The Great Oak was a magical tree that existed in Kuldahar. It was the reason that Kuldahar was in a state of eternal summer and had no trace of snow, unlike the surrounding areas. When linked with the Heartstone Gem, it could radiate a large circle of warmth.
+
+History
+Thousands of years before, the great oak was once a divine seed. On the plateau near the tree stood a yuan-ti outpost. The yuan-ti took interest in the spot which the Great Oak grew, as it was the gateway to a distant land.
+
+When Kuldahar was invaded in the early 14 century, the tree was repeatedly hacked by the brutal yuan-ti. They managed to destroy several of the Great Oak's roots. The archdruid Iselore stayed to protect it.
+
+The yuan-ti managed to find a crossroad portal, from one of the tree's severed roots, to Chult. They planned to use this portal to send through troops and assault Kuldahar. This plan never came to fruition, as the yuan-ti forces were either wiped out at their temple in Chult, or their crossroad guardian was destroyed.
+
+Appendix
+External links
+
+References
+
+---
+
+## Greater shadow tentacle
+
+Greater shadow tentacle was an arcane abjuration spell that summoned a giant, rope-like tentacle made of existing shadows that fell upon an area.
+
+Effects
+The spell animated shadows from an existing anchor point and extend outward, up to 100' (30.5 m) and ensnare a target. The shadows would hold a creature down, preventing it from moving away or, if so desired, slowing it considerably. The affected creature could free itself from the shadow's hold with some considerable effort.
+
+The shadow tentacles were not affected by natural or magical light.
+
+Components
+Greater shadow tentacles required only somatic components.
+
+History
+The Sharran monkish Order of the Dark Moon often used this spell. In fact, when these sorcerers' arcane capabilities grew to levels that they could handle the spell, it was taught to them. It did not deplete the sorcerer's ability to cast additional spells for it was a gift from Shar.
+
+Appendix
+See Also
+Lesser shadow tentacle
+References
+
+---
+
+## Great feyr
+
+Great feyrs were more powerful creatures that formed when several common feyrs combined into one.
+
+Description
+Great feyrs closely resembled common feyrs, with the same sickly, iridescent skin, hide wrinkled and mottled like the surface of a human brain, and hunchbacked appearance. Two tentacles take the place of legs, and are helped by other, smaller tentacles. Feyrs have multiple massive jaws and between 1 and 5 gold-colored eyes. Great feyrs are approximately  tall.
+
+Combat
+Like common feyrs, great feyrs could attack with their powerful jaws, but they preferred to rely on their spell-like abilities. Great feyrs could use both fear and emotion, the latter of which could only call upon negative emotions. Great feyrs could use invisibility, and exploited this to cast negative emotions (such as hopelessness) upon their enemies without them knowing the source. They were immune to both magical and non-magical fear.
+
+Due to their immense power, great feyrs were listed as one of the two types of creatures that could devour the Death Moon Orb. The other type of creature was the tarrasque.
+
+Ecology
+Unlike common feyrs, great feyrs could be found in any environment and were also active during the day, although they still preferred to operate at night.
+
+A great feyr forms were several common feyrs combine to create a single larger creature. They feed on the emotions of other creatures and often toy with their meals. Great feyrs may take long trips to reach a source of powerful emotion.
+
+History
+In, denizens living near Boareskyr Bridge felt that they were doomed by the chaotic crusade of Caelar Argent. The residual magical energy, as well as the negative emotions of the people, spawned a great feyr.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Greatsword of Impiltur
+
+The Greatsword of Impiltur was the fabled state weapon of Impiltur. It had a storied history in Faerûn, spanning several hundred years. It served as King Halantar's ceremonial sword for twenty-five years, until it went missing and traveled throughout the Realms.
+
+Description
+Forged from cold iron, the blade of the sword was engraved with images of dead and screaming demons and crackled with lightning-like dark energies. Its pommel and guard appeared as if the blade had impaled a balor.
+
+Powers
+The +3 ravenous doomstrike greatsword would daze those who were struck by its blows.
+
+Creation
+The spells shatter and slay living were used in the sword's creation.
+
+History
+The Greatsword of Impiltur was commissioned in 732 DR to commemorate the coronation of Sarshel Elethim as King of the Realm of the Sword and the Wand, though it was not completed by the dwarves of the Earthfast Mountains until two years later under the reign of Halanter I. The king wielded the blade for a quarter of a century until it was stolen from the royal vaults in the Year of the Missing Blade, 759 DR. While it was believed to be among a cache of weapons and treasures stolen by agents of the balor Ndulu, it was not found among the rest of the lost riches following the Battle of Moaning Gorge.
+
+In the middle of the winter of 826 DR, Eljak Farenfal was hunting a pack of winter wolves across the frozen Bluefang Water, when he found lost blade of Impiltur in the scabbard of a Rashemaar berserker. At the end of the winter season, Eljak returned the greatsword, along with the pelt of an alpha winter wolf, to King Halanter II, and received the monarch's sincere gratitude.
+
+The stately sword remained in its home nation for one hundred years, until it was transported aboard the ship Nadyra's Glory, along with other Impilturan treasures, as Princess Aliia Elethlim sailed to the Forest Nation of Cormyr to marry Crown Prince Rhiigard in 926 DR. Unfortunately, the ship was destroyed by the succubus Soneillon, taking Princess Aliia's life and sinking Impiltur's riches along with the greatsword.
+
+The blade was recovered from the Inner Sea by Sonellion, along with the couple's coronation crowns, and returned to her fiendish court beneath the Giantspire Mountains. After lending the greatsword to a select few of her hobgoblin champions, she passed the fabled blade to her consort, the fallen prince of Impiltur Imbrar the Lost after his resurrection and conversion into a death knight.
+
+During the Spellplague after 1385 DR, Soneillon and Imbrar were torn from the world of Toril and the Greatsword of Impiltur remained on its soil. It was believed to have been recovered by yet another of the succubus' champion hobgoblins. As of 1479 DR, the Greatsword was in the possession of Maaqua, the queen of the Razor Heart tribe of the Giantspire Mountains.
+
+Appendix
+References
+
+---
+
+## Greater heroism
+
+Greater heroism or superheroism was an enchantment or alteration spell that made the target fight at a level worthy of legends.
+
+Effects
+For the latter, enchantment-based version, the target became braver. The target gained a complete immunity against fear and became better at fighting, at resisting physical attacks and other effects, and at doing generally everything.
+
+Earlier versions instead operated only on the martially-minded, and only by enhancing their life force. As a result, they fought at a superb, heroic level, and gained phenomenal staying power. However, for those whose prowess was already worthy of legend, the spell did nothing.
+
+Components
+The spell only required somatic and verbal components. While early clerical versions called for a holy symbol, the wizardly versions called instead for a treant's leaf.
+
+History
+The spell was very rare and guarded jealously by its grey elf creators by the year .
+
+Appendix
+See Also
+ Heroism
+ Potion of superheroism
+
+References
+
+---
+
+## Greater shout
+
+Greater shout was an evocation spell that allowed a caster to shout devastatingly.
+
+Effects
+On casting greater shout, the caster gave a shout that deafened and stunned those within a 60 ft (18 m) cone of the caster. This shout was such that it physically harmed people within its path. It was much more effective at destroying brittle objects or crystalline creatures. It was overall a more effective version of the shout spell.
+
+Components
+Shout required only verbal components and an arcane focus in the form of small metal or ivory horn.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights 2: Mask of the Betrayer)
+External links
+
+References
+
+---
+
+## Griffon Hall
+
+Griffon Hall was a grand military hall, located on Griffon Trail in the Swordspoint neighborhood of Ravens Bluff, that served as the home to the Knights of the Griffon.
+
+Description
+Perhaps the most striking in all of Swordspoint, this four-story hall featured magnificent architecture and decoration, featuring glorious statues of griffons along its parapets and main entrance. The front doors were enchanted with a blade barrier spell that would trigger in the case of an open attack.
+
+The roof of the hall was flat, allowing for the knights to take off and land when mounted atop their griffon steeds. These magical beasts were stabled in the tree-walled, makeshift-roost that was situated near the landing. Hitching rails and water troughs were readily available for convenient care and tacking.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Greenbound creature
+
+A greenbound creature was a type of creature imbued with the powers of the forest and changed into a plant creature. This was the product of a corrupting magical effect known as "greenbinding" that could affect any animal, fey, humanoid, giant, monstrous humanoid, or vermin.
+
+Description
+After transformation, a greenbound creature's flesh and muscle were replaced with pulpy wood and thick-corded creepers, and its hair, fur, or features were replaced with a combination of flowers, leaves, moss, and vines. Meanwhile, little branches protruded from the arms, legs, and torso. Otherwise, the creature retained its basic form, though the changes were obvious. Its voice turned deep and gravelly.
+
+A greenbound troll, for example, still looked like a troll, but its arms resembled knobby, knotted tree branches; it had three roots in place of toes; and the whole body was covered in thorns and leafy twigs.
+
+Abilities
+A greenbound creature retained its original shape and size and all its powers, skills, and traits. However, it became a plant in all respects and gained a variety of new abilities and enhancements. For one, the greenbound creature gained great strength and better agility. It was more robust, also becoming very resistant to cold and electricity and gaining rapid regrowth of damage whilst still active.
+
+Via tremors in the ground, a greenbound creature could instantly sense the position of anything within 60 feet (18 meters). In forests, the greenbound creature's woody body and leafy exterior provided it with excellent camouflage.
+
+Finally, a greenbound creature gained high charisma and could use this to use several innate spells: entangle, pass without trace, and speak with plants at will, and wall of thorns once a day.
+
+Combat
+A greenbound creature fought just as it did normally, but could just slam its foes through brute force. Moreover, the hook-like thorns on its hands and feet helped it grip a creature. It also acquired an almost-impenetrable natural armor with a high resistance to damage that could only be overcoming a magical, bladed weapon.
+
+Greenbound trolls typically used their innate spells to tangle an area with plants and vines, before hurling themselves into a fight to the death as normal trolls did.
+
+History
+The elves of the realm of Eaerlann in the High Forest once practiced a technique of divine summoning magic that incorporated greenbinding. Although long forgotten by the 1370s DR, a few who studied ancient lore might well learn it as a form of metamagic. At the caster's choice, with an enhanced summon nature's ally spell, an animal that answered their call could be transformed into a greenbound creature for the spell's duration.As published, the Greenbound Summoning feat in Lost Empires of Faerûn, page 8, applied to all animals summoned with summon nature's ally, making it very powerful in gameplay. However, according to author Ed Bonny, the rule about it being a metamagic feat was omitted. This limits its power and how often it can be used. This correction has been included in the description in this article.
+
+In the ruins of Telardon, a city of the neighboring elven realm of Siluvanede destroyed by the Eaerlanni in the Seven Citadels' War (c.  to c. ), hundreds of arcane magic items were left behind and buried in the ground. With centuries of neglect, their powerful magic decayed and their energies mingled, creating a corrupting greenbinding force. Creatures that unwittingly wandered into the area were turned into greenbound creatures. By 1374 DR, the ruins were the lair of dozens of greenbound trolls that had been transformed there.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Grandmaster of Shadows
+
+The Grandmaster of Shadows was the highest authority of the Shadow Thieves of Amn, the most powerful thieves guilds in all of Faerûn. The Grandmaster oversaw the Shadow Council, the 8-person governing body that oversaw the six sects that comprised the guild's area of influence and their foreign information-gathering endeavors.
+
+Grandmasters
+Carzakh Halandir: (~1300 DR-1358 DR)
+A former assassin known as "Deepshadow", Carzakh was one of the founding agents of the original Shadow Thieves of Waterdeep, and the only one who survived the infiltration and culling of the guild by the "Masked Lady", Lhestyn Arunsun. He kept the Shadow Thieves alive by resettling them in Amn, restructuring their hierarchy and diversifying their membership to focus less on assassins and thieves by recruiting more arcane and divine spellcasters.
+Rhinnom Dannihyr: (1358 DR-?)
+Rhinnom Dannihyr was an adept agent of the Shadow Thieves during his early years within the guild, quickly ascending to the rank of Guildmaster of Spies within Athkatla. When Deepshadow and the Shades of the council died during the culling of Bhaal-worshiping assassins by the clergies of Myrkul and Bane during the Time of Troubles, Rhinnom ascended to the rank of Grandmaster, in order to stabilize the power vacuum that arose.
+Unbeknownst to many, Grandmaster Dannihyr was also the Iltarch of the Council of Six, a rank he achieved in 1362 DR following the Council Schism. By the 15 century House Dannihyr continued to have control over the Shadow Thieves as well as the Tessarch seat on the Council of Five.
+
+Appendix
+References
+
+---
+
+## Grove of Renewal
+
+The grove of renewal was a mysterious druid grove that housed the Nature Seers, four ancient and extremely powerful half-elementals that judged those who came to their domain.
+
+Location
+It was located deep beneath the surface of Toril in the molten layer of fiery rock and poisonous gas. There were rumors that spread across Faerûn regarding the grove and the powerful magic that emanated therefrom. These rumors ranged from a supposed curse set upon the grove by Silvanus to speculation that the druids had been turned to stone by a basilisk, who somehow, made it into their realm.
+
+Travelers in Faerûn could travel to the grove by means of the crossroads in the Cantlowe Library Archives or by traveling through hazardous terrain beneath Toril.
+
+Purging
+When people traveled to the grove seeking atonement,The purging was a gauntlet that people could pass through in order to change their alignment. power or knowledge they were faced by a gauntlet of trials as well as the judgement of the Seers known as the Purging. By means of traveling to a series of remote locations across Toril, they faced challenges presented by the four elemental members of the druidic circle, in an endeavor to remove imbalance from within their soul. While they were given no guarantee they would not slip into old habits, travelers to the grove remembered their entire experience and were given at least an opportunity for change.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Great Conflagration
+
+The Great Conflagration, also known as the Para-Elemental Plane of Smoke and the Plane of Ash, was the Inner Plane at the intersection of the Planes of Air and Fire. It was a place of hot and noxious vapors and gases.
+
+Geography
+The plane was an endless firestorm of hot smoke and ash, fueled by the winds of the Plane of Air mixed with the fires and magma of the Plane of Fire. In some locations, the ashes coalesced into floating solid regions that could be used as shelters for fugitives and outlaws.
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Great Imphras River
+
+The Great Imphras River was a system of three rivers found in Damara and Impiltur.
+
+Geography
+
+The Great Imphras River flowed south from Lake Mogador in central Damara, joined with its first major tributary, the Sidewinder River, before leaving Damara, and then in Impiltur it merged with the River Icehilt and its second major tributary, the River Lench, before emptying into Traders Bay and the Easting Reach beyond.
+
+History
+Prior to the mid-to-late 14 century DR, the river had rough sections of dangerous white water that made it ill-suited to all but the most daring or desperate of merchants. However, by the 1370s DR the river was commonly used as a shipping route all the way from the Easting Reach up to Lake Mogador and the port of Heliogabalus.
+
+Appendix
+References
+
+FR:Grand fleuve Imphras
+
+---
+
+## Grum'shar
+
+Grum'shar was a half-orc local chief of the Xanathar's Thieves' Guild in Waterdeep in the early 1490s DR.
+
+Activities
+Grum'shar managed a hideout for the Xanathar's Thieves' Guild in the sewers of the Dock Ward.
+
+History
+Around 1491 DR, he brutally directed the interrogation of Floon Blagmaar after the kidnapped young noble arrived in his headquarters, even impressing his guest the mind flayer Nihiloor. Heavily tortured, Floon was on the verge of death when adventurers hired by Volothamp Geddarm found him after defeating Grum'shar.
+
+Relationships
+Grum'shar was in league with a gazer that protected an entrance to his hideout.
+
+Appendix
+Appearances
+Adventures
+Waterdeep: Dragon Heist
+
+References
+
+---
+
+## Gruel (half-orc)
+
+Gruel was the leader of a Zhentilar press gang in the village of Snowmantle during the mid-14 century DR. The half-orc and his crew were regulars of the Singing Dryad "tavern", which was in-fact a mess hall for the occupying Zhent soldiers.
+
+He was an outright stupid thug, who was easily incited to violence despite orders to refrain from the overseeing Zhentarim wizard Ragnoth.
+
+Appendix
+References
+
+---
+
+## Gralhund
+
+House Gralhund  was a noble house of Waterdeep since the Year of the Broken Blade, 1260 DR. Their primary business interests included contracting hireswords and manufacturing weapons.
+
+Organization
+The Gralhund family were of Tethyrian descent but included a few tieflings who claimed they were also of the blood of Gargauth. The tieflings were usually sent to a Gralhund estate in Yartar.
+
+Activities
+In the Year of Wild Magic, 1372 DR, the Gralhunds were competing fiercely with House Amcathra in blade-making, producing higher-quality swords and selling them at a lower price. Amcathra's reputation as the best in blades was in jeopardy because the Gralhunds were using a new alloy of steel with traces of mithral they bartered from Thaglar's Foundry, run by Clan Xundorn down in Skullport.
+
+In the Year of Three Ships Sailing, 1492 DR, the heads of the Gralhund family decided to ally with the Zhentarim in the search for the lost gold of Dagult Neverember under the promise of getting a fair share of the treasure. The Zhents, led by Urstul Floxin, used Gralhund Villa as their headquarters while seeking out the Stone of Golorr.
+
+However, not fully trusting Urstul, Yalah also sent one of her personal servants, a nimblewright with a necklace of fireballs, to search for the gnome Dalakhar. The successive blast and the death of Dalakhar ruined the alliance between the Zhents and the Gralhunds.
+
+When Urstul finally took possession of the Stone, he demanded explanations from Yalah about the nimblewright and her profiting from his injuries, and took the Stone. This triggered a fight between Gralhund guards and Zhentarim agents that cost many lives and was remembered as the Gralhund Villa Bloodbath.
+
+Tactics
+Yalah Gralhund planned to use the intelligence resources of the Black Network in order to unveil some of the Masked Lords of Waterdeep and blackmail or bribe her way into membership.
+
+Base of Operations
+The Gralhund family kept a villa in Waterdeep's North Ward between Saerdoun Street and Horn Street off of Pony Way. The villa grounds were enclosed by a  stone wall with a main gate onto Horn Street. The entire compound was roughly wedge-shaped and was approximately  in total area. The main building was two stories tall and was approximately  total. A, single-story guard barracks adjoined the manor house, and there was a separate, single-story,  stable that had an entrance onto Saerdoun Street.
+
+Members
+Greth Gralhund
+Irg "Hund" Gralhund
+Orond Gralhund
+Ostryn Gralhund
+Tlannada Grahund
+Tomassin Gralhund
+Yalah Gralhund
+Zartan Gralhund
+
+Appendix
+
+Notes
+
+Gallery
+
+References
+
+Connections
+
+---
+
+## Grinda Garloth
+
+Grinda Garloth was a mad treasure hunter in Waterdeep during the early 1490s DR.
+
+Activities
+Grinda lived and worked in her laboratory in Mistshore. With her apparatus of Kwalish, she searched for treasures in the Deepwater Harbor.
+
+History
+In 1492 DR, Grinda had conflicts with the awakened shark Obliteros.
+
+If the Xanathar managed to obtain the Stone of Golorr, he entrusted the Stone to Grinda. She agreed to take custody of the Stone but changed her mind and decided to use it for herself, ordering her familiar to hide it. Grinda was later besieged by Xanathar's minions, who wanted the Stone back.
+
+Relationship
+Grinda had made some business dealings with the Xanathar's Thieves' Guild. She had a rat familiar. Her family had a mausoleum in the City of the Dead.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Waterdeep: Dragon Heist
+Novels
+To Catch a Thief
+
+References
+
+---
+
+## Griffon Cavalry
+
+The Griffon Cavalry was the air cavalry of the city of Waterdeep in the 13, 14, and 15 centuries DR. Part of the City Guard, it was a militia organization made up of soldiers, and griffons, responsible for defending and patrolling the great city.
+
+History
+The history of the Griffon Cavalry can perhaps be traced as far back as the second Trollwars (940 DR to 952 DR) when Ilithrew Belabranta rode his griffon into battle. One of his later heirs, Lord Palinor Belabranta, did the same versus the orc hordes of the Black Claw tribe in the . Since then, House Belabranta was a noble family associated with the breeding and training of griffons.
+
+In the, Open Lord Ahghairon officially declared the Griffon Cavalry part of the City Guard during a huge orc siege on the city. The riders not only fought the orc hordes again, but were also used to shuttle in much needed supplies to the city.
+
+The Griffon Cavalry later established a base of operations on the landward side of Mount Waterdeep called Peaktop Aerie, or Peaktop Eyrie. There they stabled over twenty griffons with another half-dozen housed at Castle Waterdeep.
+
+As of 1479 DR, however, the Griffon Cavalry had been disbanded for years, as the griffons died in combat but were never replaced.
+
+Then, in the, Open Lord Laeral Silverhand proposed refounding the Griffon Cavalry, and threatened to make Mirt do it. Either way, this goal was achieved by the, with the newly procured griffons continuing to be supplied by the Belabranta family.
+
+Notable Griffon Riders and/or Trainers
+
+Although not all of the following people were official members of the Griffon Cavalry, each was known to ride and/or train a griffon in Waterdeep's defense:
+Ilithrew Belabranta: Rode his mount during the Trollwars
+Lord Palinor Belabranta: Died in battle on his griffon in 1026 DR
+Jhalathan Ilzoond: Griffon-tamer of the Stablemasters' & Farriers Guild circa 1368 DR, whose steed, Firebeak, was also housed at Castle Waterdeep
+Jynnia Gundwynd: Champion rider of many flying beasts circa 1368 DR.
+Kerryn Belabranta: Griffon-tamer  circa 1368 DR.
+Malchor Harpell: Adventurer  circa 1368 DR.
+Lord Moedt Belabranta: Leader of the Griffon Cavalry circa 1372 DR.
+Xale of the Starry Glen: Aasimar paladin and leader of the Knights of the Blue Moon on his griffon Arimaspea circa 1372 DR.
+Sildar Hallwinter: Retired knight and an agent of the Lords' Alliance by 1491 DR.
+Thurl Merosska: Left the Griffon Cavalry to later become leader of the Feathergale Knights by 1491 DR.
+Savra Belabranta: Member of the Feathergale Knights, but was freed from the cult's influence and joined the Order of the Gauntlet by 1492 DR.
+
+Equipment
+
+A griffon cavalryman's uniform was similar to other guardsman's, with polished armor and a black tabard with gold trim, but the tabard was also emblazoned with griffon.
+
+Griffon riders were also given either a ring of feather falling or a griffon badge of Waterdeep, which performed essentially the same function.
+
+In addition to their other armament, the Griffon Cavalry often carried lances of burning blackfire into battle, wielding them to great effect atop their griffon steeds.
+
+Appendix
+
+Appearances
+Adventures
+Waterdeep: Dragon Heist
+Novels
+Crucible: The Trial of Cyric the Mad • The Summoning
+Miniatures
+Dungeons & Dragons Miniatures • Icons of the Realms
+
+Gallery
+
+References
+
+FR:Cavalerie griffon (organisation d'Eauprofonde)
+
+---
+
+## Grigor Khazaar
+
+High Lord Abbot Grigor Khazaar was the head of the Abbey of the Blinding Truth in the city of Westgate during the late 14 century DR. He was a militant cleric of Tyr who led his clergy of priests, monks, and paladins in a campaign against the criminal guild known as the Night Masks.
+
+Relationships
+The high priest's rhetoric struck a chord with Westgate's conservative Seirkas Urdo, and the two met fairly often, either at private dinners or after service within the temple's chapel.
+
+The Night Masks had Lady Thistle Thalavar spy upon Khazaar, and report his activities to the guild's master, Orbakh (who was in fact a clone of the dark mage Manshoon). The Night King considered ordering the murder of the Tyrran priest, but believed his martyrdom would attract more followers of the Just Deity to his city.
+
+History
+
+In 1372 DR, shortly after the founding of the abbey, High Lord Abbot Khazaar appealed to the city's noble council, in an effort to rid the city of its lawless thieves and assassins.
+
+Appendix
+References
+
+FR:Grigor Khazaar
+
+---
+
+## Greater dispel magic
+
+Greater dispel magic was an abjuration spell that was a more powerful and effective version of dispel magic.
+
+Effects
+It could be used on a single target, on a spherical volume, or to negate another spell in the process of being cast. In addition, this spell had a chance to perform a remove curse on a creature or object.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+See Also
+Dispel magic
+Lesser dispel
+Mordenkainen's disjunction
+Remove magic
+Appearances
+
+External links
+
+References
+
+---
+
+## Greenfire
+
+Greenfire was an evocation spell that drew forth acidic green energy from Toril.
+
+Effects
+The virulent energy evoked by the caster was extremely harmful to any creatures caught within the spell's area of effect. While it was possible to evade the upwelling of energy, those who entered into the blast were not so lucky. If the caster wished, they could render the spell completely innocuous to natural vegetation and intelligent plant life.
+
+Casting
+This spell required verbal and somatic components as well as the use of a divine focus.
+
+Appendix
+References
+
+---
+
+## Greater levitate
+
+Greater levitate was a transmutation spell that functioned exactly as the spell levitate but allowed the caster to raised items of much larger mass. This spell could elevate an object that weighed up to 9000 lbs (4082 kg) or more, depending on the skill and experience of the caster.
+
+The ancient artifact known as the Crown of the Mountain allowed its wearer to cast this spell whenever they wished.
+
+Appendix
+See Also
+ Levitate
+ Mass levitate
+
+References
+
+---
+
+## Griffon (Walking Statue)
+
+The Walking Statue of Waterdeep known as the Griffon materialized in Waterdeep  in 1479 DR in response to an attempted intrusion into Ahghairon's Tower. After flying over the city, it came to rest facing southeast toward the Dock Ward on Mount Waterdeep near Peaktop Aerie. Due to its location, many believed it was simply a monument to the Griffon Cavalry, but that was not true.
+
+The statue itself appeared as its name implies—a griffon standing on all four legs, although it was approximately twenty feet tall and made of granite.
+
+Appendix
+
+Appearances
+Adventures
+Waterdeep: Dragon Heist
+References
+
+---
+
+## Greater stone metamorphosis
+
+Greater stone metamorphosis was a transmutation spell that changed one type of stone into another.
+
+Effects
+Greater stone metamorphosis was a more complex version of stone metamorphosis and worked exactly like that spell with the same limitations. The difference between these two spells was the amount of affected stone. Greater stone metamorphosis affected massively more of it.
+
+Components
+Greater stone metamorphosis required somatic, verbal, and material components to cast. The material components were a grain of talc and a chip of obsidian. Divine spellcasters had to substitute the material components with a divine focus.
+
+History
+At latest by 1372 DR, a kind of magical staff called a staff of stone was developed. The crafting of these staves required among others the casting of a greater stone metamorphosis spell.
+
+Appendix
+References
+
+---
+
+## Greater stone shape
+
+Greater stone shape was a transmutation spell that worked like the stone shape spell.
+
+Effects
+As mentioned above, greater stone shape worked like stone shape. Both allowed the caster to modify the shape of any stone structure. There was one difference, which was the scale of the amount of affected stone: greater stone shape affected about ten times the volume of stone.
+
+Components
+Greater stone shape worked like stone shape and required somatic, verbal, and material components in the form of soft clay in at least roughly the form in which the caster wanted to form the stone into. The stone to be modified was touched by the caster while the verbal component was recited.
+
+History
+A kind of magical staff called a staff of stone was invented some time before 1372 DR in the Underdark. It required among others the greater stone shape spell to craft it.
+
+Appendix
+References
+
+---
+
+## Grease slick
+
+Grease slick was a variant of the spell grease that allowed a spellcaster to launch a stream of the slippery substance a great distance away from their person.
+
+Effects
+When this spell was cast, a mage could cover a 15-foot-wide (4.8 meters) area with slick grease up to 30 feet (9.1 meters) away from wherever they stood. Just like the effect of its base spell, grease slick caused anyone caught within its area of effect to possibly lose grip of any items they held or slip upon the ground. It lasted for a matter of seconds, depending on the skill and experience of the caster.
+
+Components
+In addition to somatic component, this spell required a small pinch of rendered pig fat.
+
+Appendix
+See Also
+ Grease
+References
+
+---
+
+## Greater malison
+
+Greater malison was an uncommon enchantment spell that caused a group of creatures to become cursed for a limited time, making them more likely to fail in areas they usually would not.
+
+Effects
+The spell affected all hostiles within a sphere of a 30 ft (9.1 m) radius, adversely affecting their chance to succeed in all skills. Alternatively, the caster could make the targets more susceptible to spells from a certain school of magic. Greater malison had a range of 60 ft (18.3 m), and the duration of the curse scaled with the ability of the wizard.
+
+Components
+Only a verbal component was required to cast the spell.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate II: Shadows of Amn • Icewind Dale • Icewind Dale: Heart of Winter • Icewind Dale II
+References
+
+---
+
+## Green Glade
+
+The Green Glade was a clearing in the Ardeep Forest surrounded by exceptionally tall and massive elm trees circa the Year of Lightning Storms, 1374 DR. A climate of perpetual springtime was one of its unusual properties.
+
+Geography
+Located in the southeast quadrant of the forest, the Green Glade was difficult to find because any trail blazed in the vicinity reverted back to the typical thickets of fern overnight.
+
+Defenses
+This magical area was protected by a minor mythal that kept the glade under a hallow effect that provided protection from evil.
+
+Properties
+The mythal also enhanced all healing spells. In particular, neutralize poison and cure disease were both completely effective in curing the disease form of lycanthropy; minor healing spells also cured feeblemind; and deafness, blindness, and parasitic infections were all cured when the appropriate spell was cast.
+
+Elves felt an immediate and strong sense of peace and tranquility when they stepped into the Green Glade; non-elves could sense it too, but not to the same degree. Non-magical wooden items quickly started to sprout roots and leaves after entering the glen, including things like (non-magical) dagger handles, bows, or wooden scroll cases. If used judiciously, this effect could repair wooden items that were cracked or possibly broken.
+
+History
+The Green Glade was created in the days of the Illefarn nation and remained intact over the centuries.
+
+Rumors & Legends
+Those that were not aware of the Glade's history or the existence of mythals usually attributed the place to be sacred to one deity or another, and typically named the area after their chosen deity.
+
+Appendix
+References
+
+---
+
+## Green Priests
+
+The Green Priests were a religious order devoted to Umberlee, the Sea Queen. They were based at the Shell House temple in Ilyaport in Lapaliiya.
+
+Activities
+The Green Priests possessed an obscure Umberlant holy relic called The Orglara. According to High Trident Arthaeuil Nrensam (an Umberlant priest of another temple), writing in Words on a Wave in 1016 DR, they thought it ancient and treated it as "a sacred mystery", using it in initiations and rites of passage to higher ranks in the priesthood, with clerical supplicants left alone with The Orglara in a walled "sacred cove" on moonlit nights. They believed a candidate favored by Umberlee would read it easily and learn one or more spells from it before sleep took her or him, but those who were false or detestable would be torn apart and half eaten by "horrors of the deeps" sent by the Bitch Queen before the sun rose.
+
+History
+The Shell House had stood as early as the 1 century DR. A community based around the temple grew into the town of Ilyaport, founded sometime around 100 DR, and flourished, becoming quite a grand town.
+
+However, during the Rage of Wizards in the Year of the Sword's Oath, 1142 DR, when rival wizards and yuan-ti engaged in wildly destructive spell-battles up and down the Tashtan Coast, the Shell House was destroyed. Many of the Green Priests died in the collapse, but before it did, the temple was struck by a huge scouring wave that carried The Orglara away into the Shining Sea. The Umberlants believed this to be "by Arm of the Goddess", that is, sent by the Sea Queen to steal that which she desired, or perhaps wished to preserve.
+
+Appendix
+References
+
+---
+
+## Green abishai
+
+Green abishai were the middle-class of the abishai devils. Like their true dragon counterparts, the green dragons, they were poisonous creatures that had mastered the art of manipulation.
+
+Personality
+Green abishai were the most charismatic of abishai, able to subtly misdirect and manipulate even the shrewd and suspicious whether with skill or sorcery. Their own keen senses, allowed them to find useful secrets and other pieces of important information.
+
+Abilities
+Green abishai had access to a variety of mind-manipulating spells such as mass suggestion and detect thoughts. They also had a strength-sapping poison in their tail stingers and claws. They could summon a small group of lemures or attempt to call upon green or black abishai to aid them.
+
+Combat
+Green abishai were known to use longswords, as well as special polearms called guisarme-voulges.
+
+Society
+Green abishais were the representatives of Tiamat, whether within the Nine Hells or outside of it. They were both the diplomats and envoys of her infernal armies.
+
+Appendix
+See Also
+ Abishai
+Appearances
+
+Further Reading
+
+References
+
+Connections
+
+---
+
+## Grippli
+
+Grippli  were a race of intelligent amphibian humanoids.
+
+Description
+Short and dexterous, grippli resembled bipedal tree frogs. Swamp-dwelling grippli typically had gray-green skin, often mottled with darker colors such as green and brown. Grippli who dwelled in rainforests displayed a wider array of skin colors, such as bright yellow, blue, or red. Their skin smelled of old and wet plants, and appeared wet to the touch, but was actually dry. Grippli were quite small, with most individuals standing around  tall, and weighing around . Older and more powerful grippli could be twice as tall and heavy.
+
+They had a love of bright colors, and occasionally raided parties of travelers to obtain colored garments. Despite this, grippli rarely used much clothing beyond simple belts and loincloths. Grippli homes were decorated with brightly colored bits and bobs.
+
+Personality
+Grippli were generally peaceful, shy, and primitive. They subsisted on fruit and insects, and were fearful of snakes and spiders.
+
+They were uncommonly intelligent, and could easily acquire new skills and learning. Despite this, Grippli almost never felt the need to manufacture anything themselves. Metal tools and weapons were treated as prized heirlooms.
+
+Grippli engaged in trade with other peoples only rarely, when they were convinced the other party was not a threat. Due to their love of bright colors, grippli often purchased worthless, colored baubles from dishonest merchants. Grippli were intelligent enough to realize these merchants were taking advantage of them, but did not care overmuch since the baubles had great value to them.
+
+Abilities
+
+The visual senses these creatures included both infravision and ultravision out to, which allowed them to operate well at both day and night. Their hands and feet were adapted to jungle environments, making them deft climbers and jumpers. They also could easily camouflage themselves in their native jungle environment.
+
+Tribe mothers were capable of emitting a powerful musk, similar in nature to stinking cloud. A very small percentage of grippli, around 1-2%, were born psionically gifted. When they did, grippli always exhibited ego whip, psionic blast, thought shield, and tower of iron will.In Monster Manual II, the Attack/Defense modes for grippli are listed as "A,C/G,J". According to the 1st edition Players Handbook, page 110, these letters correlate to psionic blast and ego whip, and thought shield and tower of iron will, respectively.
+
+Combat
+The frog folk tended to use weapons such as nets, snares, poisoned darts or bolts. These were the most preferred weapons of grippli because they did not hamper their climbing. They only rarely used arms made from metal, and usually did not wear armor in combat.
+
+Grippli could apply strategy and tactics when needed, especially to overcome a more powerful foe. They favored the use of ambushes and traps to give themselves an advantage.
+
+Society
+Grippli congregated in small villages consisting of houses made from mud-brick and wood. These were mostly situated on the ground, but a few settlements were built into the branches of large trees. A village typically consisted of anywhere between ten and sixty individuals, with a roughly equal distribution of sexes. These villages were often overseen by a tribe mother, who kept multiple mates. Although tribe mothers were the official leaders, most day-to-day governing was handled by elder male grippli.
+
+The rare few, psionically gifted communities of grippli, were more secluded than other villages and relied heavily upon their powers for hunting.
+Homelands
+On the continent of Kara-Tur, grippli could be found on the Malatran Plateau.
+
+Beyond Toril, grippli were known to exist on the planet of Oerth.
+
+Languages
+They spoke their own language, Grippli, and could croak other languages with some difficulty. Most grippli were illiterate, and considered all forms of writing taboo, except if performed by a tribe mother.
+Religions
+The grippli pantheon consisted of their primary, frog-like deity, as well as a number of evil snake and spider gods. The tribe mothers oversaw religious matters in their villages, and were believed to possess a measure of the frog-deity's blood.
+Relationships
+Grippli were occasionally hunted by lizardfolk and kuo-toa, though eating grippli flesh was considered taboo by these races.
+
+Biology
+Grippli were long-lived, with some individuals reaching the venerable age of 700 years.Dragon #324 (p. 87) states that grippli are "venerable" at 140 years old, with a maximum age of 220. Although this is the most recent source, this wiki gives precedence to Realms-specific material. The Vilhon Reach ("Dungeon Master's Reference," p. 48), features a 400-year-old grippli, which is in accordance with earlier sources on grippli lifespans. They had very low birth rates, with a female typically giving birth to roughly six children in her lifetime.
+
+Furthermore, grippli could be magically created through the evolve spell, which turned ordinary beasts into intelligent beings.
+History
+Since grippli maintained few records, and none of them were historical in nature, little was known of the origin of the frog folk. One popular theory maintained that grippli had always lived as they did: peacefully, secluded, and in harmony with their local environment.
+
+Following the Procession of Justice in the Year of the Striking Lance, –247 DR, Exarch Thelasand IV of the fallen empire of Jhaamdath fled into the Wetwoods and was taken captive by grippli. A rieldoxia word crystal containing his thought images was discovered in an excavation outside the grippli settlement of Urml in the Year of the Spur, 1348 DR.
+
+Notable Grippli
+ The grippli village of Urml in the Wetwoods of the Vilhon Reach had a population of roughly 200. The settlement was led by the venerable tribe mother Oluusious.
+ The Mindulgulph Mercenary Company, known for its very diverse membership, had a squad of grippli mercenaries in the 1360s DR.
+
+Appendix
+See Also
+ Bullywug
+Notes
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Great Goblet
+
+The Great Goblet was an unscrupulous mercantile organization with a grudge against certain Waterdhavian noble families, circa the Year of the Tankard, 1370 DR.
+
+Organization
+By the 1370s DR, the Great Goblet had nine members—seven human and two doppelgangers—but they controlled approximately 200 agents in a dozen cities and smaller towns across the Western Heartlands. Likewise, the agents controlled their own network of spies that reached into many more towns and villages. Few agents knew the identity of one of the nine or even their fellow agents, unless the need arose for a mission. Any particular chain of command rarely had any knowledge of Goblet activities in which they were not directly involved.
+
+Activities
+The ultimate goal of the Great Goblet was to bring down the merchant nobles of Waterdeep that interfered with their legitimate businesses. They started out by besmirching the reputation of their competitors, conducting clandestine operations to swap goods in storage with inferior or incorrect copies and selling the real items in other markets. As the targeted families stepped up the protection of their distribution chain, the cabal started hiring brigands and bandits to blatantly rob certain caravans. After the formation of the Great Goblet, the organization began to branch out, investing in new and legitimate businesses, such as leasing and renting land and buildings. They used these businesses to obfuscate their underhanded operations and prevent or slow down any investigations by the Harpers and the authorities from the City of Splendors.
+
+Tactics
+The doppelgangers in the group were used to hand down orders to the agents, taking on different forms in order to keep the lower ranks from knowing the identity of the inner circle. They often chose visages that would lead Waterdhavian spies to believe there were traitors in the targeted noble's servants and staff.
+
+Agents in the field that needed to contact each other made use of various forms of identification. A small drawing of the outline of a goblet was used on written communications or to designate meeting places or drop points. For visual recognition, agents often drew two lines down one cheek using blood, rouge, or some other form of red dye.
+
+Agents often spoke in code when there was a possibility of eavesdropping. Passphrases for general introduction included "I'm looking for a lass called Jolorna," which, when answered by "That wench again? She's everywhere, by Tymora's smiling chance!" indicated that the seeker should follow the responder. But if the word "smiling" was omitted, the meaning changed to "mission accomplished". When an agent was in dire need, he or she complained about their footwear, saying "Gods, this boot! Ever since I stepped on that snake..." to which a fellow Goblet member replied, "You, too? Mine was a two-headed viper. Worse luck! I know a man who's superb at fixing heels, though." and either led them to safety or gave them directions to find aid for their broken heel.
+
+Dead bodies with the symbol of the Great Goblet carved into their chest were occasionally left as warnings to rival groups or anyone contemplating betraying the organization.
+
+Base of Operations
+The Great Goblet was established and based in Scornubel. They also had a presence in Daggerford, and their reach extended into dozens of cities, towns, and villages in the region.
+
+Possessions
+Each of the nine members of the inner cabal had an identical golden goblet in which they kept either a finger or a toe belonging to Halonidas Dreie—a former member that tried to assert his leadership over the organization against the wishes of the others.
+
+History
+In the 1340s DR, many merchants in Scornubel were disgruntled about how much they were at the mercy of the whims of wealthy Waterdhavian nobles who could manipulate supplies and prices of goods. Scornubel long had a reputation of being unwelcoming to outsiders, and their practice of petty vandalism (and the occasional warehouse arson) festered into a conspiracy against certain noble families. The more ambitious merchants formed a cabal and began recruiting resentful lesser merchants in Waterdeep.
+
+One of the conspirators was a wizard that had researched a spell that caused doppelgangers great pain if they got too close to a protected person. Armed with this spell, a shipment of captured doppelgangers from Baldur's Gate to the Inner Sea was intercepted and the creatures were offered membership in the cabal. The magical protection did not entirely prevent treachery by the shapeshifters (two were put to death in front of the others as a warning), nor did it have any effect on infighting between the humans for the leadership position. After a few sudden or mysterious deaths, the cabal finally settled down to a working operation for a time.
+
+Soon, however, the wizard Halonidas Dreie, largely responsible for defeating the lesser mages that were hired by the merchant nobles to protect their caravans from steadily increasing loses, began to see himself as the de facto leader of the group, and once again this fomented dissent in the other, supposedly equal, partners. He survived three attempts to violently dispose of him, killing his rivals each time, but the fourth came from an unexpected direction and he was drowned in his own bath by two of his apprentices.
+
+The two former apprentices and the seven remaining conspirators toasted themselves over Halonidas' corpse, choosing a set of golden goblets from the wealthy wizard's household wares. They formed a council of nine "lesser goblets", gave themselves the title of Lords of the Goblet, and agreed to only make decisions when together to form the "Great Goblet". As a warning against treachery, they cut off his fingers and toes and placed one in each goblet. The nine members each kept one goblet and the remaining cups (with their grisly contents) were locked away for future use if new members were ever allowed into the inner circle.
+
+Since that time, the senior member, Ilverr Glaengath, acted as the chairman of Great Goblet meetings and the group allowed him to lead because he appeared to be genuinely concerned for their safety and not self-aggrandizement.
+
+Members
+As of the 1370s DR, the nine members were:
+ Ilverr Glaengath: Textiles dealer and horse breeder. Apparent leader for most operations.
+ Bleveth Carduth: Caravan master and moneylender, based in Elturel.
+ Dornyn Malaunger: A restless businessman jack-of-all-trades.
+ Hammar Breskult: Former captain of a mercenary company. Tactician.
+ Glaratha Starntempest: Former apprentice of Halonidas Dreie. Provided magical services.
+ Ileldra Starntempest: Former apprentice of Halonidas. Glaratha's sister. Magical research.
+ Durrusk: Doppelganger. Intelligence and agent relations.
+ Adelbran: Doppelganger. Mostly unknown.
+ Jossok Kaulder: Thief.
+
+Appendix
+References
+
+---
+
+## Gryznath
+
+Gryznath was an adult black dragon and a Chosen of Faluzure who lived in the High Moor near the theocracy of Elturgard, around 1480 DR.Although there is not an exact date given, this adventure takes place six months after the start of a 4-edition campaign (Shieldmeet of 1479 DR).
+
+Personality
+Gryznath was highly intelligent for a black dragon, but he was also vainglorious.
+
+Lair
+Gryznath laired in the ruins of an old keep whose history was lost to time, located amid the High Moor.
+
+History
+Around 1480 DR, Gryznath was sent by his god to take control of an orc horde and to topple the theocracy of Elturgard. Gryznath took the chance to try to convert his orc army to the worship of Faluzure.
+
+During his first attacks on Elturel, Gryznath killed the Tormite paladin Sir Tavil Soarvaren, and reanimated him as an undead to take control of Loyalty's Sacrifice, a holy artifact of Torm.
+
+Eventually, the leaders of the Knights of Fury sent a group of adventurers to deal with the dragon. Although the adventurers claimed to have killed him, the paladins later investigated Gryznath's lair and didn't find his corpse. Some theorized that the corpse was either retrieved by a third party for unknown purposes, or that Gryznath was resurrected as an undead by his god, Faluzure.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Great thump
+
+Great thump was a common spell used by geisha. The spell was sometimes used by wu jen and was extremely rare outside Kara-Tur.
+
+Effects
+Similar to thump, the spell was used by the caster to reprimand an aggressive creature. When cast, an ornamental fan would thump a creature, and the creature lost all interest in attacking the caster. If the creature was attacked, the spell would expire and the creature became aggressive once more.
+
+Components
+The spell required verbal, somatic and material components.
+
+Appendix
+References
+
+---
+
+## Greater distraction
+
+Greater distraction was a common spell used by ninjas. The spell was very rare outside Kara-Tur.
+
+Effects
+Ninja used this spell to distract a target. On casting, the ninja chose which sensation the target would be distracted by. The distractions were a physical sensation, such as itching. The sensation persisted until the target took the effort to relieve themselves of the distraction or until the spell expired.
+
+Components
+The spell required only a somatic component, namely kuji-kiri hand gestures.
+
+Appendix
+References
+
+---
+
+## Grotto of Sacred Thoughts
+
+The Grotto of Sacred Thoughts rested at the heart of the Undervaults of Ilsensine in the mind flayer city of Oryndoll.
+
+Description
+The temple was in a vast natural cavern, with a gigantic idol at the center that was 60 feet (18 meters) in diameter. The idol was made of petrified brains and was carved to form the shape of a giant elder brain. There were thirty-six tentacles that came out of the statue–all of which dug into the floor and then came out of the floor again to form columns along the edge of the cavern. At the top of the effigy rested the Encephalithid, which lived alongside Oryndoll's tadpoles inside the Great Pool.
+
+The Great Pool was the spiritual, social, and governmental heart of the city. The Venerators in Oryndoll also organized themselves out of this temple and were responsible for maintaining the Shrines of the Great Brain.
+
+Appendix
+References
+
+---
+
+## Groundhog
+
+A groundhog, often called a woodchuck, was a small mammalian creature.
+
+Description
+Groundhogs were able to gnaw through wood and trees at a quick rate. They were fairly common.
+
+Woodchucks were somewhat dexterous and were good at hiding, moving silently, and listening. They also had a strong sense of smell.
+
+Ecology
+The little animals were of no threat to humans. Woodchuck pelts were worth about 1 gp each. They were sometimes used as familiars, particularly by gnomes. The red meat of such critters made up a large portion of the diet of aurumvoraxes.
+
+On the continent of Faerûn, groundhogs were known to dwell in Cormanthor and Amn. In the Crowded Sea, sapient groundhogs lived on the island chain known as the Steaming Isles.
+
+Beyond Toril, they could be found on the planet of Chandos.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Green slime
+
+A green slime was a small acidic ooze.
+
+Description
+Green slimes were bright green, sticky, and damp oozes. They covered an area of about  per side. Some described them as resembling plant growths.
+
+Behavior
+These oozes kept to ceilings, floors and walls. Unlike many other oozes, green slimes seemed to be stationary, and so would wait in a single place until they detected foes.
+
+Biology
+Green slimes were sensitive to vibrations and thus would fall upon any creatures that passed them by.
+
+Green slimes were vulnerable to severe cold and heat. The spell cure disease was also known to be quite deadly towards them. However, they had spores that could lie dormant for prolonged periods of time, allowing them to regrow over the course of several years after having been burned away.
+
+Combat
+When green slimes swamped their prey, they gradually consumed their flesh, as well as their armor and weapons, causing acidic damage. These slimes were very vulnerable to many causes of damage, such as sunlight, fire and frost, as well as sources of radiance, and spells that cured diseases.
+
+History
+Noska Ur'gray, a shield dwarf of Xanathar's Thieves' Guild, lost much of his left arm and his hand to the acid of a green slime.
+
+Ecology
+Though it was rare, green slimes were known to form colonies, sometimes in large numbers.
+
+Diet
+These acidic creatures devoured all organic material, including flesh and vegetation, but could also consume metal objects, such as weapons. They were known to eat away at metal quickly, though took longer to consume wooden objects. When the acidic ooze touched its next meal, it started to emit foul-smelling smoke, reminiscent of swamp, earthly decay and eels.
+
+Habitats
+Green slimes were known to inhabit the Haunted Halls of Eveningstar in the Stonelands, where they seeped through the ceiling, waiting for their next meal to stroll under.
+
+In the Abyss, green slimes could be found in Shedaklah, the Slime Pits, 222nd layer of the Abyss.
+
+Relationships
+Dwarves hated encountering these dangerous slimes whilst digging tunnels or searching for ore. They considered them among the worst hazards of mining or excavating. The miners would try and dispose of the oozes by burning them.
+
+Usage
+Green slimes could be kept for garbage and waste disposal. In the House of the Moon in Waterdeep, a well-looked-after green slime was kept in a large stone tub in the kitchen; a senior priest stood by with a staff of curing in case it got out of control. Other green slimes were kept in the cesspits below the privies.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Grol
+
+King Grol was a bugbear and leader of the Cragmaw tribe of goblins, bugbears, and hobgoblins operating in the Neverwinter Wood and the Triboar Trail.
+
+History
+In 1491 DR, he was stationed within Cragmaw Castle.
+
+Appendix
+
+Notes
+
+References
+
+---
+
+## Great Drunkard
+
+The Great Drunkard was one of the colossal Walking Statues of Waterdeep located in the Castle Ward of Waterdeep, south of The Market.
+
+History
+During the Spellplague of 1385 DR, the walking statue appeared and rampaged through the city. When stopped, the statue tumbled backwards onto a building.
+
+Gralkyn's Tavern sat in the statue's lap by 1492 DR.
+
+Description
+The pose resembled that of a drunkard who had fallen asleep, its arms limp to the sides and its head tilted on its chest. The statue originally carried a large stone battleaxe, which was located nearby in the cobbles where it fell.
+
+Appendix
+Appearances
+Board Games
+Dungeons & Dragons Dice Masters: Trouble in Waterdeep
+Notes
+
+References
+
+---
+
+## Grypht
+
+Grypht was a saurial mage from the same tribe as Dragonbait.
+He was larger than other saurials and resembled an anthropomorphic triceratops.
+
+After most of his tribe were possessed by Moander, he traveled from his own dimension to Toril, using a transference spell to take the place of Elminster. This placed him at the center of Finder's trial. He was attacked by Kyre, who was also possessed by Moander, and trapped in a soul gem. When Kyre tried and failed to capture Akabar, the latter freed Grypht from the soul gem, believing it might house Elminster. Akabar was knocked unconscious during the fight. Grypht fled with Akabar for his own protection.
+
+However, Breck Orcsbane was convinced that Grypht was a monster who'd murdered Kyre. A party including Breck and Dragonbait tracked down Grypht and he was nearly killed before Breck accepted that he was not a demon.
+
+Grypht then played an important subsidiary role in the battle against Moander, using magic to create walls of spells and free other saurials from possession.
+
+After Moander's death, Grypht remained with his tribe in the Lost Vale.
+
+Appendix
+
+Appearances
+Novels
+Song of the Saurials • Masquerades
+
+Finder's Bane
+Card Games
+AD&D Trading Cards •
+
+References
+
+---
+
+## Gray Harbor
+
+The Gray Harbor of Baldur's Gate was one of the largest and busiest ports located on the western coast of Faerûn. It spanned all six districts of the Gate's Lower City, forming a crescent along bottom of the city's distinct sloping bluffs.
+
+Although this was the name of the harbor, it was previously bestowed upon the entirety of the settlement itself, before it was changed to "Baldur's Gate".
+
+Geography
+Along the city, its harbor was inset within a natural bay that formed along the northern shore of the River Chionthar, about 40 miles (64.4 kilometers) upstream from the Sea of Swords.
+
+Description
+
+Massive in size and scope, the harbor featured over a dozen piers and an astounding seventy-six mechanical cranes that were used to load and unload cargoes onto and from ships. Operated by the guild-sponsored deckhands, these enormous devices were originally designed by the Baldurian clergy of Gond from the High House of Wonders.
+
+Extending out from the Seatower of Balduran, there was a massive chain that, under normal circumstances, rested along the riverbed, before being tethered to a post in the eastern-most dock of Brampton. When necessary, a rotating capstan could be manned and the chain would raise taut, allowing no ships larger than a dinghy to pass into the port.
+
+Activities
+The Gray Harbor was bustling with activity at all hours, day and night, but especially busy in the hours before dawn.
+
+Due to the city's receptive nature and business-first mentality, a great variety of cargo passed through the docks of  Gray Harbor. Even pirates and smugglers could find a home for their ship, even if only for a short while.
+
+Notable Locations
+Landmarks
+ Counting House: One of the centers of trade and mercantilism within the city at large.
+ Harbormaster's office: Somewhat resembling a fortress, this squat building secured all the shop manifests and fees that were paid to the city for fees related to sea-trade or docking.
+ Seatower of Balduran: The naval keep of the Flaming Fist was a symbol of their might and authority over the harbor.
+
+Temples
+ Water Queen's House: This indispensable church of Umberlee was located at the end of a long, broad pier in the Steeps.
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Gravity plane
+
+A gravity plane was a geometrical plane generated by certain large, non-spherical objects towards which other objects "fell". Gravity was what held an atmosphere around planets and spelljammers and what allowed an inhabitant to walk on the surface of a world or a spacefarer to stand on the deck of a ship.
+
+Most residents of wildspace recognized that every physical object had its own gravity and assumed that the direction of the force was always towards what was most convenient for sentient life. For planets, this was always toward the center of mass, but for spelljammers and other space objects, such as asteroid cities, the force was usually perpendicular to a horizontal plane. More knowledgeable scholars of wildspace recognized that gravity planes were not natural occurrences, as was the gravity of planets, but rather the result of the special magic of spelljamming helms. (Interestingly, despite their truly astronomical size, crystal spheres were thought to be without gravity; other sages, however, explained that the sphere's plane of gravity was compressed to a single point at the very center of the sphere, where the sphere's primary rested.)
+
+All gravity planes known shared the same gravitational force, roughly that of standing on the surface of the planet Toril in Realmspace. This force was constant over the full range of the field, and the field extended as far as the vessel or asteroid's air envelope. Outside the air envelope, someone would cease to feel the pull from that gravity plane.
+
+While under the effect of a gravity plane, a person or object accelerated and moved with that object.
+
+Unlike normal gravity, a gravity plane extended along the two horizontal axes of the massive body producing it. The plane did not terminate with the object but extended out past it such that objects fell toward the empty space surrounding the body. A falling object passing through the plane would be slowed down by the suddenly opposing force in the opposite direction until it reversed direction and crossed the plane again. This would continue until it would eventually come to an equilibrium at the plane. An object resting in an empty region of the gravity plane like this would bob up and down, much like something floating on the ocean, and slowly drift away from the source of the gravity until the outer reaches of the plane, which typically extended outwards from the inducing massive object by a distance equal to that object's width. (See the figure above.) Once drifting outside the air envelope, the object would be left behind in wildspace unless recovered.
+
+Gravity planes had two sides; that is, they attracted objects from both the bottom and the top. It was thus possible for someone to walk on the bottom of a spelljamming vessel "upside-down".
+
+Some vessels took advantage of these two sides in their craft designs, but most sentient creatures preferred to have only a single "up" and did not build inhabitable decks on the "bottom" side.
+
+One of the main reasons for this "single-side" preference, was the fact that the force from a larger object's gravity plane would overcome and negate a smaller object's plane. Entering a planet's gravity well, for example, would cancel the effects of a spelljammer's gravity plane so that only the planet's gravity could be felt. Anyone walking on the bottom of a spelljammer when nearing a planet would thus plummet to the ground.
+
+The same issue occurred when a smaller spelljammer entered the gravity plane of a larger vessel. Crew and cargo might find themselves hurled sideways or toward the ceiling if the larger ship's force of gravity took over. This was even used as a ship-to-ship combat tactic. Known as a shearing attack, larger ships would intentionally approach close to smaller ones, forcing them to reorient or risk loosing crew or cargo to falling. The dwarves, with their particularly large citadels, particularly favored this tactic.
+
+Proper diplomatic etiquette—and the safest operating procedure—when approaching another vessel was for the smaller vessel to first align itself to the larger one, such that the gravity planes were parallel. This avoided any issues once the two ships were close enough for the larger one's gravity plane to take over. It was considered an insulting breach of conduct to align one's ship parallel but upside down.
+
+Similarly, a ship docking on an asteroid city, such as the Rock of Bral, would have to approach carefully to orient the ship parallel to the asteroid's gravity plane. Docks were typically built at the level of the gravity plane so that vessels could "land" and "float" upon the plane and dock while the helm remained unmanned.
+
+Projectile weapons were often fired from at the level of the gravity plane, because objects here could "float" upon the plane.
+
+Appendix
+References
+
+---
+
+## Greater fantastic machine
+
+Greater fantastic machine was an illusion spell exclusive to clerics with the Craft domain. It called into being a large illusory mechanical contraption that was controlled by the caster to perform simple tasks.
+
+Effect
+The machine was imposingly large and noisy, with wheels and many arms with tool appendages, and was constructed of adamantine to be extremely tough and strong. The machine could roll on its wheels, swim, or fly. The movement speed was as fast as an unencumbered human on land but one third the rate when swimming or flying. The maximum load it could carry was 1,560 lb (709 kg) on land and one third that amount when swimming or flying. Standing still, it could lift double its maximum load to a height of 15 ft (4.6 m). It could push or drag a 7,800 lb (3,550 kg) load over land. It could also excavate a 5 ft (1.5 m) cube of rock and dirt (about 20,000 lb or 9,100 kg worth) in one minute.
+
+The machine was similar to an animated object and could perform simple tasks autonomously or have each movement controlled by the caster. If ordered to attack, it was effective in slamming its target, having the greatest success against stone or metal targets. It could hurl small boulders with good accuracy. If a target had any resistance to magic, then it was possible to resist attacks from the machine. The duration of greater fantastic machine was one minute per level of the caster.
+
+Components
+In addition to verbal and somatic components, this spell required use of the cleric's divine focus.
+
+References
+
+---
+
+## Grand Revel
+
+The Grand Revel was a holiday celebrated in Waterdeep on Alturiak 14. It consisted of numerous music and dance events, as well as the partaking of different kinds of sweet treats and traditional romantic getaways and exchanging of gifts by young couples.
+
+Activities
+The holiday was organized by clerics of Lliira, Sharess, and Sune. During the day, activities included large dancing rings on the streets for all ages, as well as dancing performances. After dusk, the holiday was celebrated with performances by bards and minstrels for families, in events known as "love feasts".
+
+Throughout the holiday, traditional sweet treats of all kinds were consumed, ranging from chocolate to red firemint candies.
+
+It was also common for couples to slip away during the evening to kiss and exchange love promises and gifts. The most common tokens that were given this way were rings blessed by the clerics with faithfulness prayers.
+
+History
+During the Order of the Gauntlet's campaign against the undead in Chult, they took the opportunity to celebrate Grand Revel at Camp Vengeance. However, festivities were somewhat derailed when one of the templars, Vanessa, alerted them that a merchant caravan was overdue to arrive at the camp and had likely been lost in the jungle.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Greater anyspell
+
+Greater anyspell was a transmutation spell unique to clerics with the Spell domain. It allowed them to read and prepare arcane spells.
+
+Effect
+This spell functioned in the same manner as anyspell, but for more powerful arcane spells.
+
+References
+
+---
+
+## Grista Kettlecopp
+
+Grista Kettlecopp was a dwarf who lived in Phandalin in the late 15 century DR.
+
+Description
+Grista owned and ran the Sleeping Giant taproom. She did not keep the pub clean, and it attracted the ruffians of Phandalin, like the Redbrands.
+
+Personality
+She was described to be bad-tempered, rude, and unpleasant. She valued being left alone to run her business the way she saw fit, and had no desire to get involved with anyone else's personal business.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Lost Mine of Phandelver • The Orrery of the Wanderer
+References
+
+---
+
+## Greater spell breach
+
+Greater spell breach was an abjuration spell cast by sorcerers and wizards.
+
+Effects
+This spell stripped the target of up to four magical defenses (such as globe of invulnerability, stoneskin, protection from elements, death armor, or mage armor), starting from the most potent one. It also reduced the target's resistance against magic for a minute. This spell was a more powerful version of lesser spell breach.
+
+Components
+The spell required verbal and somatic components.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Great Modron March
+
+The Great Modron March, sometimes called the modron parade, was a periodic tour of the seventeen Outer Planes of the Great Wheel cosmology undertaken by thousands of modrons once every 289 years.
+
+Description
+The March occurred every Grand Cycle of Mechanus. A Grand Cycle was the time it took for the largest gear in the plane to turn once and was subdivided into seventeen cycles, each of which took seventeen years. Thus, the March occurred every 289 years.
+
+Thousands of modrons participated in the Great March. The vast majority were monodrones, but the voyage also included modrons of higher rank, including hierarchs. A quinton usually led the entire effort and kept all the records of the voyage. As a consequence of the modron promotion system, a quinton was always present until the very end, as long as at least one modron survived the voyage. A hexton was in charge of defense, while a septon was tasked with ensuring that the march progressed smoothly. Four octons commanded each one quarter of the full contingent, assisted by nonatons. Decatons served as liaisons between the base and the hierarch modrons.
+
+At least fifty pentadrones patrolled the lower ranks. Quadrones served as elite warriors, while tridrones and duodrones were tasked with herding and carrying out commands to the vast masses of marching monodrones. Since the March was not very efficient at defending itself, and due to the hostile nature of many of the places visited, only very few modrons managed to complete the voyage.
+
+Location
+The itinerary of the March included all sixteen Outer Planes of the Great Wheel and all of the gate-towns in the Outlands. Starting from Mechanus, the march departed from Regulus and entered the Outlands via the portal from Automata. It then proceeded around the border of the plane in the clockwise direction.
+
+The Great Modron March followed a predictable pattern, moving from one gate-town to the next while in the Outlands and, once in a plane of the Great Wheel, crossing a portal to the next adjacent plane, subsequently emerging at its corresponding gate-town. The complete itinerary was:
+ Automata to Fortitude
+ Arcadia to Mount Celestia, through Abellio and towards the town of Heart's Faith in Lunia
+ Excelsior to Tradegate
+ Bytopia to Elysium, via Dothion through the location of the Golden Hills and through Amoria via the River Oceanus
+ Ecstasy to Faunel
+ The Beastlands to Arborea, via Krigala
+ Sylvania to Glorium
+ Ysgard to Limbo, via a branch of Yggdrasil
+ Xaos to Bedlam
+ Pandemonium to the Abyss, via Pandesmos and through the Plain of Infinite Portals
+ Plague-Mort to Curst
+ Carceri to Hades, exiting Othrys via Undermountain
+ Hopeless to Torch
+ Gehenna to the Nine Hells, through Khalas
+ Ribcage to Rigus
+ Acheron to Mechanus, via the Blue Cube in Avalas, through the Mines of Marsellin in Thuldanin, and finally back to Regulus.
+
+Activities
+The purpose of the Great Modron March was unclear. Some speculated that it consisted of a periodic reconnaissance mission to ascertain the state of the Outer Planes and to report them to Primus. However, they never investigated any location, nor did they interact with anyone. They simply marched, looking at every new location they visited, and moving on. Others argued that the march was necessary to calibrate the gears of Mechanus, while another group maintained that the purpose of the March was to instill a sense of order in all the planes, even if just temporarily.
+
+History
+The demon lord Orcus, after being resurrected, sought to become a deity with the name of Tenebrous. He killed Primus and temporarily usurped his position, triggering an unscheduled Great March as an attempt to search for the Wand of Orcus. The unpredicted march, between 150 and 200 years ahead of schedule, became known as the Rogue March. It caused great commotion in the Outer Planes and left several modrons stranded across the planes.
+
+Ambran the Seeker, a half-elven paladin of Oghma from Cormyr, was sent on a mission to explore the planes of existence, according to his unpublished journal that dated from during the reign of King Azoun Obarskyr IV. Traveling with Glin, a bariaur guide hired to take him from Sigil to the Outlands, Ambran observed the start of the Great Modron March of the 13 century DR as the modrons walked out of the Automata portal.According to p. 28 of Dragon #204, the notes belong to the journal of the paladin Ambran at the court of Azoun Obarskyr IV, whose reign started in  according to p. 42 of Running the Realms. However, pp. 183‒184 of Out of the Abyss, which takes place in the early 1490s DR, state that the last Great Modron March took place "over two hundred years ago". If the Dragon article refers to Ambran as a member of Azoun IV's court, there is a tension of at least 50 years between the two sources regarding the established date of the last Modron March. If, on the other hand, the article refers to the date the journal was found or read, there is no tension.
+
+A group of twelve monodrones and one tridrone became stranded in the Labyrinth in the Underdark following the Great March of the 13 century DR. By the late 1480s, the monodrones, having spent over 200 years, had degraded and could barely speak.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Greater shield of Lathander
+
+Greater shield of Lathander was a spell used by clerics of Lathander.
+
+Effects
+When cast, this spell protected the caster or a targeted individual from magical and physical attacks as well as cancelling the effects of any compulsion on an individual, such as geas and psionic control.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+See Also
+ Shield of Lathander
+
+Appearances
+
+References
+
+---
+
+## Grand Street
+
+Grand Street was the longest road in the asteroid city of Bral.
+
+Description
+At about ~, Grand Street passed over the majority of the length of the Rock of Bral.
+
+Beginning at Dock Street and ending at the Gatehouse, the entry to the Palace Grounds and the Royal Barracks, Grand Street traveled uphill along the starboard border of Shou-town, passed the entrance to the Lesser Market, entered the open square known as the Angle, exited the Low City to enter the Middle City, and curved around the port and trailing sides of the Great Market. From there, it turned sharply to continue higher up, passing the Festival Grounds and the Elven Forest and entering the Noble Estates of the High City. Grand Street ended its journey after passing over Lake Bral on the Stonebridge.
+
+Along its long path, it intersected Eel Street, Windlass Court, Helm Street, Squid Street, Sailmaker Street, Trader's Way, Anchor Street, Wasp Street, Clipper Street, Low Park Street, Park Street, Charthouse Street, Noble Street, Lake Street, and finally High Street.
+
+Notable Locations
+ The Trading Company
+ Hanwo Cobblery
+ Temple of Odin
+ The Drunken Octopus
+ The Fallen Star
+ The Royal Exchequer
+ The Low Magistrate
+ House Moune
+ Gaspar's Reclamations
+ Balic's Blades
+ The Gilded Prow
+ Holstoi and Gavich, Barristers
+ House Ellodan
+ Royal Theatrical Company
+ The Man O' War
+ House Cartan
+ The Crystal Lamp
+
+Appendix
+References
+
+---
+
+## Grimboot
+
+Grimboot was a duergar thug who lived in the city of Baldur's Gate during the late 15 century DR. He worked as a debt-collected for the local thieves' guild in Brampton and was a patron of the Low Lantern tavern.
+
+Grimboot was known for being rather gruff and had the distinctive physical trait of being cross-eyed.
+
+Appendix
+References
+
+---
+
+## Grandmother Ash
+
+Grandmother Ash was an awakened tree in the Vilhon Wilds. She was brought to life and given spell-scarred powers following the events of the Spellplague of 1385 DR.
+
+Description
+Grandmother Ash was a fantastically tall tree at the base of the Pilgrim's Path, with her topmost branches crowned with a canopy of blue fire. She was surrounded by a field of exposed roots stretching visibly for a mile around her, slowly twining and churning. Her bole was more like a cliff face than an ash trunk. Each leaf on Grandmother Ash's canopy gleamed like a tongue of sapphire flame.
+
+When touched, the tree's grayish bark felt warm and comfortingly pleasant.
+
+Grandmother Ash's abilities allowed her to construct a female form made of bark, leaves, stem, and bough, with hands of the knotted root. Thick strands of moss made up her hair and her eyes bore the same blue flames as the tree's canopy. Her "skin" was grayish bark of an ash tree and her voice was vibrant with the music of a major chord.
+
+Abilities
+Grandmother Ash was able to communicate with a creature touching her bark via emotional feedback and sensations.
+
+The Spellplague gave her an ability to create temporary simulacrums made of plant matter for ease of communications with creatures passing by. After some time, Grandmother Ash learned to imitate humanoid body language. She was able to move and manifest said form as far as her roots went in the Vilhon Wilds.
+
+History
+By 1396 DR Grandmother Ash has developed both reputation and love for adventures. Herself being bound to the spellscarred Vilhon Wilds she aided countless pilgrims through the perilous territory in exchange for tales of their adventures and heroics. When she met a shou monk Raidon Kane she gladly agreed to help him in his search for a magical blade called Angul. This quest led to a confrontation with Grandmother Ash's enemy that came to Toril from another world - Chalk Destrier.
+
+Appendix
+Appearances
+Plague of Spells
+References
+
+---
+
+## Gralhund Villa Bloodbath
+
+The Gralhund Villa Bloodbath was the name given by Waterdhavian newspapers to an attack on Gralhund Villa by members of the Zhentarim in the .
+
+Location
+The attack took place in Gralhund Villa, located between Saerdoun Street and Horn Street in the North Ward.
+
+History
+Causes
+House Gralhund and the Zhentarim maintained a tenuous alliance to achieve their common goal of accessing a treasure of dragons, which was accumulated by Dagult Neverember and left behind in the Vault of Dragons after he was ousted as the city's Open Lord. The Gralhunds provided a group of Zhents led by Urstul Floxin with shelter and money in exchange for a share of the treasure.
+
+The attack was a result of rising tensions between Urstul and Yalah Gralhund over which course of action to pursue regarding the Stone of Golorr, the key to the vault's location. While Urstul, who was in possession of the stone at the time, wished to confer with Manshoon before handing it over to the Gralhunds, Yalah grew tired of having him as a middle man, and decided to take the stone by force and lock Urstul in his quarters. Her goal was to use the stone directly to pursue her objectives.
+
+Battle
+Urstul, still injured by a fireball detonated by the rogue nimblewright under Yalah's control, rallied his allies in the estate to kill the guards and capture either Yalah or Orond Gralhund in exchange for the stone. During the confrontation, the nimblewright left the premises, carrying the stone with it.
+
+Aftermath
+Within minutes of the beginning of hostilities, a City Watch patrol arrived at the scene, led by sergeant Saeth Cromley and Barnibus Blastwind of the Watchful Order of Magists and Protectors, and accompanied by a detachment of Griffon Cavalry riders for air support. The patrol thoroughly investigated the site and took witness accounts of all neighbors and bystanders, while also making arrests.
+
+The attack on Gralhund Villa had several unfavorable repercussions for the Zhentarim. Following the event, there was a crackdown on the organization by the City Watch, who arrested and interrogated any known members, regardless of whether or not they had been involved with the incident. This forced many members, such as Istrid Horn, to hide and lay low for several days. In addition, the unflattering way in which local broadsheets portrayed the event damaged even more the group's already problematic reputation.
+
+Combatants
+Casualties
+Both the Zhentarim forces and the Gralhund household suffered heavy casualties, including three servants who had not been directly involved with the battle.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Waterdeep: Dragon Heist
+References
+
+---
+
+## Greneire
+
+Greneire was the king of an orc tribe located in the Spine of the World mountain range north of Dark Arrow Keep in the .
+
+History
+Some days before Midsummer in 1367 DR, King Greneire led an army of 150,000 orcs southward and besieged the kingdom of Many-Arrows at its capital, Citadel of Many Arrows. The siege lasted four months and ended in Uktar of that year when Greneire's forces finally broke through the gates of the citadel, but the battle and the war were lost when King Obould slew Greneire in single combat. Obould's victory was short-lived because he was grievously wounded, his army was shattered, and he was forced to flee northward to Dark Arrow Keep when dwarves of Clan Warcrown arrived to rout the survivors.
+
+Appendix
+Appearances
+Video Games
+
+Baldur's Gate
+References
+
+---
+
+## Gray pudding
+
+A gray pudding was a subterranean pudding that secreted extremely potent acid.
+
+Description
+Out of all offshoots of black puddings, gray puddings were potentially the most powerful. They appeared much like stone puddings, having gray ooze-like bodies, and thus could disguise themselves against both rocky walls and surfaces, as well as in dimly lit areas.
+
+Combat
+These creatures, thanks to their ability to blend in with their environment, often surprised their prey.
+
+Gray puddings relied on their potent acids to quickly corrode opponents, as well as their armor and weapons. Unlike most varieties of ooze, which could dissolve either flesh, wood, or metal, gray puddings could dissolve all of these types, and at very quick rates. It took only six seconds for gray puddings to eat through almost all standard equipment and flesh. Plate mail took about twice as long to dissolve, and magical items took longer, depending on the strength of their enchantment. In mere seconds, the average adventurer would be reduced to nothingness; not even the most dense bone in their body would be left behind.
+
+Puddings off this type were fairly weak against certain spells, such as flesh to stone and airy water, which slowed and attempted to drown them, respectively.
+
+Ecology
+Gray puddings were solitary creatures, and had no need to rely on others or group tactics. Able to devour essentially anything, they could go after any type of prey.
+
+These deadly puddings dwelt in the Wyllowwood layer of Undermountain.
+
+History
+As with other puddings, gray puddings were thought to be derived from the more well-known black puddings. They were more common than stone puddings and dense puddings.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Greater elemental summoning
+
+Greater elemental summoning was a powerful spell used by clerics, druids and shamans.
+
+Effects
+When cast, this spell summoned one of three Princes of Elemental Good—Chan, Sunnis, or Zaaman Rul—randomly from either the Elemental Plane of Air, Earth or Fire. The summoned Elemental Prince obeyed the caster but only remained on the caster's plane for about ten minutes before returning to their home plane.
+
+Appendix
+Notes
+In the game Baldur's Gate II: Throne of Bhaal, this spell is listed as a Quest level spell. These are divine spells and are memorized and cast as 7 level spells.
+See Also
+Elemental summoning
+Appearances
+Video Games
+Baldur's Gate II: Throne of Bhaal
+
+External links
+
+References
+
+---
+
+## Greater planar binding
+
+Greater planar binding was a conjuration spell that bound an elemental or outsider to the caster's service.
+
+Effects
+When cast, this spell shunted up to three weak elementals or outsiders into a trap from wherever it came from. The spell did not create the trap. It needed to be created before casting the conjuration spell. The trap was an inward magic circle-spell against the desired creature, for example a magic circle against evil if capturing a demon was the objective and a magic circle against good if capturing an angel was the objective and so on. The trap could be made more secure and by casting dimensional anchor on it, it prevented the trapped creature from teleporting away.
+
+The creatures to be trapped had to be specifically named as part of the casting, but if one wanted merely a kind of creature, naming the kind was enough and a random specimen was called. Once trapped, the creature could try to break free by either overcoming the spell with its innate resistance against magic and/or its force of personality. If it had the ability to teleport, it could do so if the caster was careless enough to not having prepared for it. Each of these attempts could be tried once every day.
+
+There was one sure way to get free for the trapped creature and that was to be released by the one who trapped it in the first place. This was usually done after a bargaining period between the trapped creature and the caster. The caster could try to force the creature into doing one specific task in exchange for freedom and could provide additional benefits to make the creature more inclined to accept the bargain. On coming to an agreement, the creature conducted the action, if an open-ended one for a period that depended on the caster's skill, reported the success of it to the caster and got free. If they did not come to an agreement, it was entirely possible that the creature eventually broke free and fought the caster.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+See Also
+Lesser planar binding
+Planar binding
+Appearances
+
+External links
+
+References
+
+---
+
+## Greater shadow conjuration
+
+Greater shadow conjuration, also known as demi-shadow monsters (or demishadow monsters and demishadow monster), was an illusion spell that created semi-real duplicates of conjuration spells.
+
+Effects
+This spell was a stronger version of shadow conjuration. It allowed the duplication of stronger spells and was more powerful, even when seen through as an illusion. Monsters conjured with this spell could be caused to flee by the casting of a turnshadow spell.
+
+Components
+This spell required only verbal and somatic components.
+
+History
+The spell was attributed to Netherese arcanist Shadow in 3272 NY (−587 DR) and was originally called Shadow's demimonster.
+
+Appendix
+See Also
+Shadow conjuration
+Shades
+Gallery
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Greater spell mantle
+
+Greater spell mantle was a spell used by sorcerers and wizards.
+
+Effects
+When cast, this spell created a magical barrier around the caster. This barrier absorbed almost any spell thrown at it. The barrier remained in place until the spell expired or it reached the maximum amount of spells it could absorb.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+See Also
+Lesser spell mantle
+Least spell mantle
+Spell mantle
+ Mantle of Mystra
+ Greater mantle of Mystra
+ Azuth's alteration mantle
+
+Appearances
+Video Games
+Neverwinter Nights • Neverwinter Nights 2
+External links
+
+References
+
+---
+
+## Greater stoneskin
+
+Greater stoneskin was a spell used by druids, sorcerers and wizards.
+
+Effects
+This spell was a more powerful version of stoneskin. It allowed the caster or a targeted creature to absorb more damage than the stoneskin spell. The amount of damage the spell could absorb was determined by the caster's skill level.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+See Also
+Steelskin
+Barkskin
+Spiderskin
+Stoneskin
+Ironskin
+Metal skin
+
+Appearances
+Video Games
+Neverwinter Nights series
+External links
+
+References
+
+---
+
+## Ground trace
+
+Ground trace was a divine divination spell that allowed the caster to trace the pathways of certain objects or passageways that descended beneath the ground. It was used by priests devoted to Mielikki and to Gwaeron Windstrom.
+
+Effects
+In order to be cast, the caster selected a feature that, while visible from ground level, continued beneath the earth. The object targeted by the spell could be nearly anything, including a tree and its root system, a keep with a dungeon, a system of underground water pipes, etc. Ground trace allowed the caster to discern the pathway of the subterranean passageway in their mind without descending underground.
+
+The amount of knowledge the caster gained about a pathway was limited to how far they could travel its path above ground before the end of the spell's duration (a matter of minutes according to the power of the caster).
+
+Components
+In addition to verbal and somatic components, this spell required as a material component a single hair taken from the caster and a piece of string.
+
+History
+The specifications of this spell were inscribed within the holy Mielikkian spellbook, Yornar's Trail Companion.
+
+Appendix
+References
+
+---
+
+## Greater fireburst
+
+Greater fireburst was a spell used by sorcerers and wizards.
+
+Effects
+When cast, this spell created an explosive blast of flame. Any creature or object within  of the caster was vulnerable to the blast.
+
+Components
+In addition to verbal and somatic components, the spell required a material component, a pinch of sulfur
+
+Appendix
+See Also
+Fireburst
+Appearances
+Video Games
+Neverwinter Nights 2
+External links
+
+References
+
+---
+
+## Greater sanctuary
+
+Greater sanctuary was a spell that was a stronger version of sanctuary.
+
+Effects
+When cast, this spell protected the caster from detection. The spell achieved this by transforming the caster into an ethereal state. If the caster was attacked or they attacked an opponent, the etherealness vanished and the caster was visible once more.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Shadows of Undrentide
+
+External links
+
+References
+
+---
+
+## Greater mantle of Mystra
+
+Greater mantle of Mystra was an improved version of the abjuration spell, mantle of Mystra.
+
+Effects
+When cast, greater mantle protected the caster or another individual from a specific spell or spell-like effect. It absorbed the effects of the spell, or magical item discharge, then allowed the recipient of its effects to make a choice. The bearer of the greater mantle could use the absorbed magical energy to heal themself, or launch a different, specific spell towards another individual.
+
+The spell from which the recipient was protected, along with the spell that was "reflected", were both chosen by caster during the casting of greater mantle. The latter of these spells had to be of equal or lesser power than the former.
+
+Multiple castings of this spell could not be placed on the same individual at the same time, nor could they be combined with the effects of mantle of Mystra.
+
+The protection conferred by the greater mantle lasted at least an hour, and was not stopped by the effects of a single spell casting. However, the protection could be removed by a single casting of dispel magic.
+
+History
+This spell was only used by priests of the Church of Mystra, and was only written in some extremely rare tomes.
+There was a variation of greater mantle known as Azuth's alteration mantle.
+
+The specifications of this spell could be displayed by the relic known as the Scepter of Mystra.
+
+Components
+This spell required verbal and somatic components in order to be cast.
+
+Appendix
+See Also
+ mantle of Mystra
+References
+
+---
+
+## Greater mage hand
+
+Greater mage hand was a spell used by sorcerers and wizards.
+
+Effects
+During casting, the caster pointed at a creature or object and move it  in any direction. A creature with strong enough spell resistance could negate this spell. The target cannot be moved beyond the range of the spell. The spell was able to perform delicate tasks.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+See Also
+Mage hand
+References
+
+---
+
+## Great thunderclap
+
+Great thunderclap was a spell used by sorcerers and wizards.
+
+Effects
+When cast, the spell created an incredibly loud noise identical to a lour thunderclap. Along with the sound, the spell created a powerful shock wave that stunned any creature within a  radius. This area spread as the caster's skill level increased.
+
+Components
+In addition to verbal and somatic components, the spell required a focus, a bell made from iron.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Hordes of the Underdark
+External links
+
+References
+
+---
+
+## Greenspawn zealot
+
+Greenspawn zealots were dragonspawn whose primary role was to support other dragonspawn in battle. They were religious fanatics who ardently studied and communed with their goddess, Tiamat.
+
+Description
+Greenspawn zealots resembled draconic humanoids with green scales. They favored plate armor when in combat. Males and females were very similar, to the point that it took practice to tell the two apart. Both stood about  tall and weighed around .
+
+Personality
+Greenspawn zealots were sadistic and cruel, but also loyal to each other and utterly devoted to Tiamat. They adhered closely to their chains of command.
+
+Abilities
+Greenspawn zealots had an affinity for acid, which they were immune to. They also possessed an  ability to cause damage to an enemy creature while healing an ally within  of the same amount of damage.
+
+Combat
+Greenspawn zealots were less effective in direct combat than other dragonspawn, and were only encountered alone if they were somehow separated from their allies. Otherwise, they preferred to fight alongside other creatures.
+
+Society
+Greenspawn zealots did not wield the raw power of other dragonspawn, but were among the most destructive, thanks to their strict hierarchy that allowed them to command large numbers of other dragonspawn. They were also religious fanatics; when the dragonspawn armies took over a location, greenspawn zealots would establish monasteries that served as both temples and command centers. Within these monasteries, greenspawn zealots communed with their goddess by way of great pools of swirling energy.
+
+Unlike other dragonspawn, greenspawn zealots were created deliberately. Zealots would gather eggs from other dragonspawn and then ritually bathe the eggs in a mixture of Tiamat's blood, blood from an ancient green dragon, and 200 gp worth of crushed emeralds. The resulting greenspawn zealots were indoctrinated into the teachings of Tiamat. As adults, greenspawn zealots were sadistic, cruel, and utterly devoted to Tiamat's cause. They served as higher-level officers and battle chaplains in the dragonspawn armies. They sometimes came into conflict with blackspawn raiders and redspawn arcanisses, as those dragonspawn would resent the zealots' power. However, few dragonspawn were willing to move against the chosen of Tiamat.
+
+Greenspawn zealots had a natural affinity for divine magic and some even became clerics. They normally traveled with other dragonspawn, and only traveled alone if somehow separated from their allies.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Gretchen Titchwillow
+
+Gretchen Titchwillow was a wandering halfling druid in the late 15 century DR.
+
+Personality
+Gretchen had a love for the tranquility of nature, and a dislike for busy cities.
+
+Abilities
+A capable druid, Gretchen could wild shape into a number of animal forms, including badger, mouse, owl, and tortoise.
+
+History
+Gretchen found her vocation as a druid in a grove of willow trees near Waterdeep. She visited often, content to enjoy the silence of the woods. One day, the willow trees began speaking to her. They took her under their boughs, telling her stories and teaching her many willow-secrets over the course of a full year. At year's end she was given a huge gem that allowed her to commune with the willows always, and was sent off to wander under the wise guidance of the trees. Eventually she was tasked with traveling to the city of Baldur's Gate to put down an evil presence and plant a willow tree.
+
+Appendix
+Gallery
+
+Appearances
+Board Games
+Betrayal at Baldur's Gate
+Card Games
+
+References
+
+---
+
+## Greater raven
+
+Greater ravens were the eponymous inhabitants of Ravens Bluff. They had a reputation for predicting the future.
+
+Description
+They were glossy black birds with  wingspans and dark eyes.
+
+Behavior
+Greater ravens were mysterious and cryptic creatures. Their motivation and reasoning were rarely known.
+
+Abilities
+Besides their renowned ability to deliver cryptic prophecies- which typically foretold woe either minor or catastrophic- greater ravens had only one other magical ability: the power to curse whoever slew them. At the moment of their death they delivered the curse as a rhyming prophecy; no matter how they were killed the curse could be clearly heard unless a silence spell had been cast over the area- and even then, it only prevented the hearing of the curse, not its effects.
+
+Ecology
+Greater ravens lived in and around the city of Ravens Bluff. They ate small rodents and birds, insects, lizards, the eggs of other birds, berries, flowers, and growing shoots. They had a fondness for wax and for cheese (the smellier and moldier the better), and would sample any food eaten by humans if given the opportunity, with a preference for saltier foods.
+
+Greater ravens were normally solitary, although mated pairs and even flocks of up to forty individuals were not unknown; flocks, at least, were highly territorial and would swarm intruders.
+
+Lone greater ravens sometimes decided to follow around an individual that they felt would be interesting to watch. They would flit from tree to tree, seemingly taking delight in watching their misfortune and making sarcastic comments upon events. Such birds had a reputation for causing bad luck.
+
+Very rarely, a lone greater raven would become the familiar of sorts to a wizard. Such birds would perform a kind of commune up to thirteen times each year as their master requested; they could also be asked to foretell the future but, as they invariably predicted misfortune, it was held that those asking should be certain they wished to do so.
+
+Interestingly, greater ravens could hold small bones for long periods of time in their craws, spitting the polished bones out at times, normally to make a point.
+
+Appendix
+See Also
+Giant raven
+Huge raven
+Wereraven
+References
+
+---
+
+## Greater doppelganger
+
+Greater doppelgangers, also called Shallar, elder doppelgangers, or mirrorkin, were more powerful cousins of the common doppelganger. While a normal doppelganger could adopt the appearance of a person, a greater doppelganger could adopt their entire personality.
+
+Description
+Like regular doppelgangers, greater doppelgangers appeared as gangly, hairless, gray-skinned humanoids with pale eyes. However, they were faster and more agile than normal doppelgangers, and had tough, protective skin that could continue to  protect them regardless of the form they assumed.
+
+Abilities
+They could adopt the shape and body of any humanoid between  and  tall. They could further eat a humanoid's brain and, in doing so, absorb their entire personality for later use. This gave them the power to replicate a victim's memories, languages, abilities, and alignment, and to assume their form with perfect accuracy. A greater doppelganger could memorize three entire personalities in this manner without difficulty, but ran the risk of forgetting one if they strained themselves to memorize more. They had access to basic or important memories of the humanoids they had consumed even when not "wearing" the personality.
+
+Personality
+Greater doppelgangers were highly intelligent and sophisticated, and preferred to pursue complex plots that required them to penetrate political and social structures. They were talented liars and deceivers. Unlike ordinary doppelgangers, they had the intelligence and creativity to create novel appearances for themselves without the need to copy someone.
+
+They referred to humans as "stinking ones," claiming that they smelled far worse than doppelgangers.
+
+Combat
+Greater doppelgangers preferred assassination over combat. They would use their powers of telepathy and mind reading to learn how to set victims at ease or to adopt the form of people they trusted, and then stab them in the back with their sharp claws. They were known to adjust the shape of their claws to make the wounds appear as conventional stab wounds in order to deflect suspicion.
+
+In their natural form, greater doppelgangers attacked with their powerful fists or claws. While wearing the form of a humanoid whose brain they had consumed, the greater doppelganger had access to their combat abilities and skills, but could not replicate the spells or powers of clerics or paladins. They could be briefly shunted into their natural form if they behaved in a way that was strongly opposed to the alignment of the personality they were embodying.
+
+Owing to their innate mastery of shapechanging magic, greater dopplegangers had the ability to twist and rend the power of similar magic in order to injure other creatures under the effects of any kind of polymorph spell.
+
+They were immune to most mind-affecting magic—such as those which would hold them in place, put them to sleep, or charm them—and their alignment could not be detected. Even psionicists struggled to penetrate their mental defenses. Only the power of true seeing could reliably reveal them.
+
+Society
+They were rarely seen in their natural state. Most often, greater doppelgangers were encountered working alone, having adopted the form of someone important while in the middle of a complex scheme, and most adventurers would remain blissfully unaware that they had even crossed paths with the creature. They would occasionally also be found leading organizations or groups of lesser doppelgangers. They did not work well with others, especially not as a subordinate.
+
+Greater doppelgangers were capable of bearing children. To do so, the greater doppelganger had to assume a female form and to maintain that form for the duration of a pregnancy, otherwise the unborn offspring would die.
+
+History
+Greater doppelgangers referred to themselves as "Shallar." The term "mirrorkin" was an ancient way of referring to them, but remained in usage in the Sword Coast as of the mid-to-late 14 century DR.
+
+Beginning in the 1340s DR, an organization called the Unseen, led by nine greater doppelgangers, began operating in Skullport and Waterdeep. They had some success—and notable failures—in their efforts to infiltrate the power structures of Waterdeep. By the late–1360s DR they had successfully infiltrated a number of guilds and criminal organizations, including the Xanathar's Thieves' Guild, and had turned their attention to a scheme in which greater doppelgangers disguised as human women would conspire to sire illegitimate children with members of the Waterdhavian nobility.  A greater doppelganger was involved in a plot to get close to the Open Lord of Waterdeep, Piergeiron the Paladinson, circa 1371 DR.
+
+In the, greater doppelgangers played a key part in the schemes of the Iron Throne to infiltrate and seize control of Baldur's Gate.
+
+Notable Greater Doppelgangers
+ Eidola of Neverwinter, once, a bride of Piergeiron Paladinson‎ and a member of the Unseen circa 1371 DR.
+ Hlaavin, a half-illithid greater doppelganger who led the Unseen in the mid-to-late 13 century DR.
+ Ptola, a member of the Unseen working to infiltrate as many of Skullport's factions as possible in the 1370s DR.
+ Rhelgyn, a member of the Unseen who assumed the identify of Lord Huld Belabranta.
+ Telakin, one of the nine leaders of the Unseen who was active in trying to control the Waterdhavian Dock Ward and City Watch in the 1370s DR.
+ Quelzard, an occasional patron of the Company of Crazed Venturers.
+
+Appendix
+Notes
+
+Appearances
+Novels
+Passage to Dawn • The Abduction • The Paladins • Conspiracy • Easy Betrayals • The Diamond
+Video Games
+Baldur's Gate • Baldur's Gate: Tales of the Sword Coast • Neverwinter Nights: Tyrants of the Moonsea
+
+References
+
+Connections
+
+---
+
+## Greenspawn razorfiend
+
+Greenspawn razorfiends, also called harrowblades by wood elves and other forest dwellers, were cunning, voracious dragonspawn.
+
+Description
+Greenspawn razorfiends were large creatures, standing  tall at the shoulder and as much as  in length. On average, adults weighed  Greenspawn razorfiend scales were a dirty green color that helped them blend in with forest pools. These dragonspawns' wings were useless for flight, but were razor-sharp and resembled knife blades when folded.
+
+Ecology
+Greenspawn razorfiends were among the first spawn created by Tiamat, and they were used as guards in her armies. Razorfiends were also placed in select regions to harass settlements and travelers.
+
+Greenspawn razorfiends were cunning hunters that enjoyed the killing of prey as much as the hunt. They preferred to live in warm or temperate forests and marshes, such as Chondalwood and the Vast Swamp. While hunting, greenspawn razorfiends would hide in water or undergrowth before attacking.
+
+Like some other dragonspawn, greenspawn razorfiends were capable of procreating on their own. A pair of razorfiends mated for life, and the female would lay three to six eggs every year. Mates then took turns hunting and guarding the nest.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Greenspawn sneak
+
+Greenspawn sneaks were the scouts and spies of the armies of Tiamat.
+
+Description
+Greenspawn sneaks were small, green-skinned humanoids with distinctly draconic heads. They were typically about  and weighed approximately . Females were slightly broader and heavier than males.
+
+Society
+Greenspawn sneaks were cunning, intelligent dragonspawn who were wholly devoted to Tiamat. They lived in highly structured tribes. Each tribe was led by a prelate, a cleric of Tiamat, who commanded complete loyalty from the rest of the tribe. The only other cleric in the tribe was the prelate's chosen successor. The successor had no official authority, but the close relationship between the two sneak clerics meant that they acted as a unit and were rarely separate.
+
+The prelate was in charge of, among other things, determining how many eggs a tribe would allow to hatch. Usually, only the same number of eggs as was equal to the number of sneaks in the tribe were allowed to hatch, but when preparing for war as many as five to ten times that number would be allowed to survive.
+
+Hatchling sneaks were raised communally by the tribe; parents did not claim their offspring as all were children of Tiamat. The prelate would judge the young sneaks' abilities and assign them to a set role in the tribe.
+
+Greenspawn sneaks were omnivores, primarily hunter-gatherers, who could survive on less than half the food a similar-sized halfling would need. They tried to minimize their impact on the surrounding environment to reduce the risk of being discovered.
+
+Greenspawn sneaks valued duty, trickery, and stealth above all else. Duty was to Tiamat and her armies, as sneaks were the reconnaissance force preparing for the greater assault. Trickery was the tool that allowed them to have an advantage against their opponents; young sneaks were rewarded for being clever rather than strong. However, infighting was forbidden and offenders against that rule were summarily executed.
+
+Greenspawn sneaks prefered to live in temperate or warm forests and marshes. Like the green dragons they were descended from, they could breathe underwater. Greenspawn sneaks were known to tame greenspawn leapers as mounts.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Greenspawn leaper
+
+Greenspawn leapers were vicious, territorial dragonspawn of Tiamat.
+
+Description
+Greenspawn leapers were green-scaled, dragon-like creatures that primarily lived in trees. They had flaps of skin that stretched between the front and hind legs to allow for gliding. At about  long and  in weight, they were big enough to be ridden.
+
+Ecology
+Greenspawn leapers were territorial carnivores and ambush predators. Adapted as they were to life in the trees, typically of warm or temperate forests, they were loath to live the canopy for long.
+
+Greenspawn leapers were both solitary and highly territorial, with fights for territory frequently breaking out between individuals. In these fights, a pair of rivals raced through the treetops until one fell. Although only beasts, greenspawn leapers were possessed of an animal cunning and some simplistic cheating would occur.
+
+Every three years, male leapers would invade the territory of females in order to mate. The male who won the ensuing races remained with the female for several days before she chased him off. The victor would then suffer a rough homecoming, as interlopers would seize a winner's territory during his absence. The female would weave a nest out of branches and then lay a clutch of eggs. The hatchling leapers would be barely cared for by the mother as they learned to fend for themselves, and eventually they would be driven away to find their own territory.
+
+Greenspawn leapers were vicious, but were known to be tamed by greenspawn sneaks as mounts. A leaper could easily carry about, less easily up to, and with difficulty as much as .
+
+Appendix
+References
+
+Connections
+
+---
+
+## Grudd Haug
+
+Grudd Haug, meaning "River Mound" in Giant, was the steading of the hill giant Chief Guh after 1485 DR.
+
+Inhabitants
+ Guh, hill giant chief.
+ Slub, a hill giant butcher.
+ The Watermaster, a hobgoblin charged with maintaining the dam.
+ Oinker-Boinker, an ettin in charge of the pig pens beneath the steading.
+ Gryhark, an Uthgardt tribesman of the Elk tribe held captive in the steading.
+ Ghalvin Dragonmoor, an Emerald Enclave scout held captive in the steading.
+
+Appendix
+Appearances
+Adventures
+Storm King's Thunder
+Gamebooks
+Big Trouble
+References
+
+---
+
+## Griffon's Nest
+
+Griffon's Nest was a permanent settlement of the Griffon tribe of Uthgardt barbarians located in what was known as the Savage Frontier in northwest Faerûn.
+
+Description
+As of the mid-14 century DR, the settlement comprised a score of wood-and-earth huts with thatched roofs that encircled the tribe's central longhouse and two warehouses. These structures were surrounded by a palisade of sturdy logs, often decorated with the heads of the tribes enemies. About a dozen outlying farms dotted the surrounding hillsides.
+
+By the, the village had prospered and grown to a small city of well over six thousand individuals. But after the death of its visionary leader, Chief Kralgar Bonesnapper, the settlement steadily declined, turned away from contact with outsiders, and was reduced to a hamlet of about three hundred people by the .
+
+Location
+The village was nestled in the Surbrin Hills northeast of Longsaddle. Farther to the east was Shining Creek.
+
+Government
+Throughout the years the Griffon's Nest was overseen by the great chiefs of the Griffon tribe, several of which were of the Bonesnapper line.
+
+History
+The settlement was originally a bandit camp for a group of half-orcs led by a man named Azglyn. The Uthgardt attacked and wiped out the brigands and built their home on the site. Kralgar Bonesnapper became chief of the Griffon tribe in the, an by 1358 DR, Griffon's Nest was a thriving community that welcomed and traded with outsiders. Under his leadership, the tribe grew to be the most educated, skilled, and organized of all the Uthgardt peoples.
+
+Chief Kralgar ambitiously wanted to conquer the great cities of the North, and allied with anyone that shared that goal. His policy of openness to trade had two sides: it brought prosperity to his tribe and helped him learn the weaknesses of his declared enemies to ensure victory when the time came. By 1372 DR, Griffon's Nest boasted almost seven thousand inhabitants and his tribe was on the path to war, but he had not picked a target for his horde yet. In his mind, possible conquests included Neverwinter, Everlund, or even Waterdeep. Alas, he fell in battle against the persistent orcs of the region and his grand plan never came to fruition.
+
+Kralgar's descendants did not match their patriarch in wisdom, charisma, or vision and the settlement gradually dwindled over the decades. By 1485 DR, Kralgar's great-grandson Halric lived like a king but presided over a hamlet of perhaps three hundred tribesfolk that lived in poverty. The policies of openness and trade were abandoned to hostility and petty (but bold) raids on homesteaders in the Dessarin Valley just to prove to the doubters that the Bonesnapper family had not lost the divine favor of Uthgar.
+
+Notable Inhabitants
+ Kralgar Bonesnapper: Great Chief that ruled with wisdom and vision for many decades. Killed by orcs.
+ Adalfus Stormgatherer: Shaman for the Griffon tribe under Kralgar.
+ Halric Bonesnapper: Great-grandson of Kralgar. A petty tyrant in 1485 DR.
+ Targ Keifer: Chief circa 1484 DR.The dates for Chief Halric and Chief Targ are quite close. It is unknown if this was intentional or not.
+ Keyl: Son of Targ.
+
+Appendix
+Notes
+
+References
+
+FR:Nid du griffon
+Connections
+
+---
+
+## Green Siren
+
+The Green Siren was a privateer ship that belonged to Captain Thoster in the late 14 century DR.
+
+Description
+The pirate ship was named after its elaborate figurehead. It was a painted and sculpted form of a woman, a siren with shimmering green scales on her body replacing clothes. The siren's eyes sparkled in the sun with emerald green.
+
+History
+In 1395 DR, Captain Thoster claimed the Siren had had a run-in with a ghost ship.
+
+Circa 1396 DR, the Green Siren did not fly its privateer pirate colors; it proudly displayed the Marhana Shipping trading company's flag. Thoster and his crew were tasked by Behroun Marhana with securing a seafaring alliance with kuo-toas of the Sea of Fallen Stars. That mission took the Siren to Hegruth, a newly surfaced island where the ship was besieged by aberrant kuo-toas, scrags, and sea hags, losing a few sailors and, namely Roger in the battle. The journey took the crew to Taunissik kuo-toa colony next where Dorian Nyrotha fell to the forces of kraken Gethshemeth.
+
+Appendix
+Appearances
+ Plague of Spells
+ City of Torment
+ Key of Stars
+
+References
+
+---
+
+## Grayvale Run
+
+The Grayvale Run was a stretch of trail that ran through the Grayvale, in the southern stretch of the Savage Frontier. It connected the city of Loudwater to nearby Llorkh.
+
+History
+In the years following the disestablishment of the Ordning among the giants, after 1485 DR, the structures and buildings around the Grayvale bore the destructive wrath of the nearby stone giants.
+
+Appendix
+References
+
+---
+
+## Grubber
+
+Grubbers were a type of gigantic caterpillar that dwelt underground. They bored through the soil of Toril and could punch their way through solid stone.
+
+Description
+They were enormous in scale. They could be as big as 10 feet (3 meters) across and grow upwards of 80 feet (24.4 meters) in length. They were pale grey in color.
+
+Ecology
+Diet
+Grubbers were a herbivorous species that fed on fungi and molds.
+
+Appendix
+
+Appearances
+Novels
+The Dark Elf Trilogy
+ Exile
+
+References
+
+---
+
+## Greater segarran
+
+Greater segarrans were the most honored servants of the savage goddess Ragarra.
+
+Only the most powerful and favored Ragarran priestesses were blessed with transformation into greater segarrans through powerful magic.
+
+Description
+Greater segarrans appeared just as they did before their transformation. However, they could assume the form of a formidable reptilian creature at will. The physical appearance of this creature depended on the individual personality or whim of each priestess but usually included the head and tail of a crocodile. Some greater segarrans even possessed giant bat-like wings allowing them to fly.
+
+Combat
+If encountered in human form a greater segarran would use all of their normal skills and magical powers during combat, but their supernatural strength was evident even when appearing human. The only downside was that greater segarrans were unable to memorize the most powerful spells they had access to before their transformation.
+
+Greater segarrans possessed a resistance to magic greater than that of their lesser cousins.
+
+In reptilian form, greater segarrans often used their body as a weapon—biting with their jaws, swiping with their tails, or even buffeting with their wings to inflict harm upon their foes.
+
+Habitat/Society
+Priestesses who decided to undergo the exhausting ceremony to become greater segarrans were also required to perform a dangerous quest or service for Ragarra. Any who failed the goddess met a grisly end and suffered an eternity of undeath.
+
+They could be found within the Cities of the Ancients region of east Zakhara.
+
+Since only powerful priestesses of Ragarra were allowed to attempt the transformation, all greater segarrans were female.
+
+Ecology
+Greater segarrans were adept at infiltrating civilization. The only weakness to their ruse was the need to consume the flesh of their slain enemies as a tribute to Ragarra.
+
+Appendix
+References
+
+---
+
+## Grand Dame
+
+The Grand Dame was a magnificent riverboat that docked in Yartar during the late 15 century DR. Within the ship's cabin was a luxurious gambling den called the Golden Goose. Both the ship and the casino were owned by the Yartarran nobleman, and secret Kraken Society agent, Lord Khaspere Drylund.
+
+Description
+The ship comprised three decks. The lower deck contained a small hold with provisions, along with 16 two–person seats that accommodated the ship's rowing crew. The upper deck held the ship's bridge and helm, cabins for both its crew and those of Lord Drylund, and a poorly–lit ballroom.
+
+Located between the two was the main deck, that housed the ship's kitchen, a dining area as well as the Golden Goose gambling hall. Within the hall were a number of card tables and a large, gold-plated sculpture of a goose. Fitting to its name and decor, the casino used a type of wooden token as currency, also referred to as a golden goose.
+
+The ship featured elaborate decorations adorning its exterior and within the cabin. Ornamental lanterns lined the balcony of the upper deck, illuminating the deck below. Lord Khaspere's cabin featured exceptionally tasteless decor
+
+Activities
+The Grand Dame remained moored to the docks of Yartar from sunrise until sunset. The ship's crew and casino employees arrived just before dusk and the Dame's guests, namely aristocrats and other well-to-do individuals, were allowed on board shortly thereafter.
+
+Every night, the Grand Dame slowly journeyed upstream for hours, giving the guests ample time to gamble, eat and drink, dance to music, and otherwise enjoy their extravagance. In the early hours of the day, the ships rowers turned the Grand Dame about, and it made its way back to Yartar around dawn.
+
+Appendix
+Appearances
+Adventures
+ Storm King's Thunder
+References
+
+---
+
+## Grandchild
+
+Grandchild was one of the twelve moons of Garden in Realmspace.
+
+Description
+Like most of Garden's moons, Grandchild was larger than its parent, but there was confusion about its size and shape. Astronomical records indicated that it was spherical, yet its dimensions were listed as  by, indicating rather an ellipsoid. Its surface was perfectly smooth, with no craters from meteor strikes at all. It had an eerie off-white color.
+
+Rumors & Legends
+It was widely believed that, when Yggdrasil's Child, the gargantuan plant holding together the asteroids of Garden, died, a new plant would appear with some connection to the moon Grandchild.One potential theory is that the moon is a seed from Yggdrasil's Child, but no further suggestions are provided in the source material.
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Green Door
+
+The Green Door, popularized as simply the Door, was an inn and festhall in Essembra, Battledale, in the mid–14 century DR, which also concealed a shrine to the forest goddess Mielikki.
+
+Location
+The Door was located on the east side of Rauthauvyr's Road just north of Battle Court and the Silver Taproom.
+
+Structure
+The Green Door had a green-painted front entry door that most believed gave the inn its name.
+
+Interior
+Reflecting its name, the Green Door had wall tapestries displaying splendid forest scenes throughout the building. It was clean and simply furnished.
+
+There was no common dining hall or taproom, but there were harping chambers on each floor at the hearth end for patrons to meet and talk in.
+
+History
+The Door was once the most riotous and notorious festhall in the Dales, until Lashan Aumersair of Scardale occupied Essembra and ordered troops to murder its ladies, after which it became officially just an inn.
+
+In the 1360s DR, the Door was a place of pilgrimage for followers of Mielikki because it was the site of a pool of special waters, preserved in a wooded, backyard bower. The pool was the real "Green Door", whose tranquil waters held visions from Mielikki to her faithful.
+
+Rumors & Legends
+Followers of Mielikki believed this is where their deity appeared in person to Florin Falconhand.
+
+Appendix
+
+Background
+The Green Door may be named for the song "Green Door," which is about a mysterious club and has been the inspiration for many real and fictional clubs.
+
+References
+
+Connections
+
+---
+
+## Grant Boucher
+
+Grant Boucher is a designer and author that worked on 2 edition Dungeons & Dragons material. He undertook a degree in English and Theoretical Physics before contributing to the design of several sourcebooks.https://www.grantboucher.com
+
+Works
+He designed some of the books in the DMGR series. Particularly, he designed the The Castle Guide, Dark and Hidden Ways, Wild Things, and others, as well as the armor for the Arms and Equipment Guide.
+
+Appendix
+External Links
+ Official Site
+References
+
+---
+
+## Green Moss tribe
+
+The Green Moss tribe was a group of orcs and half-orcs who lived in Icewind Dale.Although never referred to by name in Half-Orcs of the Many-Arrows Tribe, the Green Moss tribe's homelands are described as being "on the tundra to the north of the Spine of the World", a description that only matches Icewind Dale. Shortly after Obould I founded the kingdom of Many-Arrows in the, the tribe joined the nascent kingdom under chieftain Llogh Green Moss.
+
+Activities
+Members of the tribe were famous as guides for those wishing to navigate the Spine of the World.
+
+Relationships
+The Green Moss tribe had a healthy trading relationship with Silverymoon, selling them unique flora, fauna, and minerals from Icewind Dale not found elsewhere.
+
+History
+Long before the formation of Many-Arrows, the Green Moss tribe grew out of two groups driven into Icewind Dale from south of the Spine of the World. The first was a community of Aurilians originally from Silverymoon, exiled due to their association with the Frostmaiden. The second group, a pacifistic orc tribe driven out by their more warlike peers, arrived shortly after. The unified tribe was formed out of necessity, as either group was unable to survive the harsh climate on its own.
+
+Although worship of Auril persisted for a time among the Green Moss tribe, over the generations, it gradually shifted towards the veneration of primal spirits, resulting in the adoption of a druidic tradition.
+
+When Obould I reached out to the Green Moss tribe during the foundational period of Many-Arrows, he invited half-orc chieftain Llogh Green Moss to join his court of advisors. Controversial among the more warlike chieftains of Many-Arrows, Llogh advocated for pursuing peace and trade between the nation and its former enemies.
+
+Sometime in, in the lead-up to Many-Arrows' involvement in the War of the Silver Marches, chieftain Ozkur Green Moss conspired with the chieftains of the Bloodblade tribe and the Dust-Treader tribe to secede from the kingdom and flee south.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+War of Everlasting Darkness
+Organized Play & Licensed Adventures
+Behind Obould's Lines
+References
+
+---
+
+## Groan
+
+Groan was a haunting cantrip that wizards-in-training could learn. It could create the illusory sound of a tortured cry that emanated from close by.
+
+Effects
+This cantrip produced the auditory illusion of a disembodied expression of grief or pain within a radius of  from the caster.The original description of this spell in Dragon #60 used the 1-edition nomenclature 1", meaning  indoors and  outdoors. This was simplified to the shorter range in Wizard's Spell Compendium Volume Four. The spot chosen for the emanation of the sound could be anywhere within that range, including behind doors, under floors, or inside a chest of drawers. Creatures in the vicinity that could be expected to hear the sound had a chance to resist the spell. If successful, they did not notice the illusion.
+
+Components
+This cantrip required verbal and somatic components to cast. The caster surreptitiously imitated a groaning sound while pointing at the location from which the sound was to emanate.
+
+Appendix
+See Also
+ Moan
+ Rattle
+ Thump
+Notes
+
+References
+
+---
+
+## Graycloak (disambiguation)
+
+Greycloak or Greycloaks, may refer to:
+ Greycloaks, an elven group from Evereska, or
+ The Greycloak Hills, which were located north of that city.
+
+Similarly, Graycloak or Graycloaks may refer to:
+ Irmar Graycloak, the 14 century adventurer;
+ Graycloak's Wolves, the adventuring company they led;
+ Graycloaks of Neverwinter, a militia group that protected the city of Neverwinter; or
+ The Graycloaks, a splinter faction of the Sons of Alagondar named for the militia.
+
+---
+
+## Grove of the Ancients
+
+The Grove of the Ancients was a hidden grove in the Wealdath that was considered sacred by the elves of Suldanessellar.
+
+Geographic Features
+The Grove of the Ancients was so named for its dominant feature: several massive stones, formed in the shape of humanoid heads. The stone heads were inhabited by forest spirits, who illuminated their eyes with a blue radiance.
+
+When someone spoke with one of the spirits they responded with a booming voice and the stone heads' eyes caught fire.
+
+History
+In the, Queen Ellesime directed Abdel Adrian to travel to the grove so he could learn more about his fate in the greater Bhaalspawn crisis that afflicted Tethyr. After he spoke with one of the forest spirits he was confronted by his fellow Bhaalspawn Illasera. Their groups fought in a short battle and Abdel slew his divine half-sibling.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate II: Throne of Bhaal
+
+References
+
+---
+
+## Grave mist
+
+A grave mist was a very rare type of undead that gathered around burial grounds. These creatures had a strong link to the Negative Energy plane.
+
+Description
+Grave mists appeared as swirling mists of grey hue of somewhat humanoid forms, and existed both on the Negative Energy Plane and the Material Plane. Their eyes were only represented by dark holes. When gathered in groups, some may have mistaken them for fog or smoke.
+
+Combat
+Due to their link to the Negative Material Plane, grave mists could drain their foes of their vitality. Similarly to wraiths, their chilling touch would weakened foes and even cause them to become immobile. As per other undead, grave mists could not be put to sleep, charmed, held, or be affected by cold-based spells. Only magical weapons could hurt these unique undead. Instead of just being immune to cold spells, they would actually heal from such effects.
+
+Society
+These intelligent undead beings usually formed societies of up to four. As grave mists literally feasted on corpses, their societies would be based in graveyards or other burial sites. As they were not living, and only feasted on dead organisms, grave mists had no place in the food chain. Their society put no value on objects that humanoids would usually covet, such as gold or items. No leaders were elected among grave mists.
+
+Appendix
+Trivia
+ Mark Hall, a playtester for Eye of the Beholder III: Assault on Myth Drannor was thanked in the credits for his "grave mist", implying that he came up with the idea of these creatures.
+Appearances
+Video Games
+Eye of the Beholder III: Assault on Myth Drannor • Dungeon Hack
+References
+
+---
+
+## Grattz
+
+Captain Grattz was an orc fighter of Phsant in Thesk in the mid–14 century DR. Around 1372 DR, he was the leader of the orcish community living in the city.
+
+Appendix
+References
+
+---
+
+## Great Thaw
+
+The Great Thaw was a disaster that took place in Icewind Dale circa 1269 DR. The melting and flooding that occurred in the region took the lives of a barbarian tribe and the inhabitants of the Accursed Tower.
+
+History
+Circa 1269 DR, Damien Morienus, a former master of the North Tower of the Host Tower of the Arcane in Luskan relocated to Icewind Dale together with his wife Mathilda. He was a powerful necromancer who was using the local barbarian tribes for his horrific experiments.
+
+Eventually, Damien's wife left him for a young barbarian named Kinnuki. The necromancer's pride demanded revenge and he summoned demons to search for the barbarian. The enslaved demons spent a few years in a fruitless chase, but Kinnuki's knowledge of the snow lands was just too great.
+
+The monsters decided to even the odds and used their infernal magics to summon hellfire to melt all the snow away. But they melted too much snow, thus flooding the tundra and melting the permafrost, causing the disaster later known as The Great Thaw by the locals. Most never learned about the true nature of it, believing it to be a natural event. The Thaw took the lives of Kinnuki's tribe and family, leaving only the barbarian and his daughter Jukini alive.
+
+The permafrost on the banks of Maer Dualdon, where the necromancer's tower was located was affected as well as the rest of the region. The Accursed Tower slowly sank into the mud, killing its inhabitants. Over time, the memories of its very existence were gone from the minds of the locals.
+
+Appendix
+Appearances
+Adventures
+
+The Accursed Tower
+Video Games
+
+Neverwinter Nights: Doom of Icewind Dale
+References
+
+---
+
+## Greenhall
+
+Greenhall was an elf village within the enchanted Quivering Forest in the Moonsea region in the late 15 century DR.
+
+The elves cautiously welcomed trade with members of the Emerald Enclave, but rarely made themselves available for non-elves. They had a severe distrust of citizens of Phlan, the dark fey of the forest, and the orc tribes from nearby Thar.
+
+Appendix
+
+References
+
+---
+
+## Gregory W. Detwiler
+
+Gregory W. Detwiler is an author who has written several articles for both Dragon magazine and Polyhedron Newszine.
+
+Appendix
+
+---
+
+## Gram
+
+Gram the Sword of Grief was a powerful enchanted greatsword associated with the legendary hero Siegfried.
+
+Description
+The sword was a masterpiece of craftsmanship. It was balanced well for battle and had a particularly sharp blade. Its hilt bore an image of a snake that was barely perceptible.
+
+Powers
+Every time the sword Gram struck a foe, there was a chance it would inflict poison into the wound it made.
+
+History
+At some point the sword came out of the possession of Siegfried. By the mid–14 century DR, it had come into the possession of the blue dragon Abazigal, who wielded it while in his humanoid form.
+
+Rumors & Legends
+Only known to a select few, including the imp Cespenar, the greatsword Gram could be improved by a smith of sufficient skill.
+
+It was believed that setting the malevolent heart of the damned within the pommel of the blade, it would be granted the additional power to drain away the life force of others.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate II: Throne of Bhaal
+
+External Links
+
+References
+
+---
+
+## Grandmaster's armor
+
+The grandmaster's armor was a unique suit of studded leather armor that appeared in the Realms during the mid–14 century.
+
+Powers
+The armor possessed a powerful +6 enchantment. It allowed its wearer to move twice as fast, lending to an assassin's ability to swiftly close in on their prey.
+
+History
+Fitting to its name, the grandmaster's armor was custom-tailored for the Grandmaster Assassin, Vita Muerte by an unnamed wizard. Grandmaster Muerte slew the wizard shortly after the armor's creation.
+
+As of the, the armor was in the possession of the Bhaalspawn Eler Had.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate II: Throne of Bhaal
+
+External Links
+
+References
+
+---
+
+## Grey elf
+
+Grey elves were a sub-race of high elves endemic to the planet of Oerth and Greyspace.
+
+Description
+Grey elves bore a resemblance to the silver elves of Faerûn. Standing nearly as tall as humans, grey elves had tall, slim builds and pale grey skin. Their hair tended to be a silver hue while their eyes were like amber. Some grey elves, known among their kind as "faeries," displayed pale-golden hair and violet eyes.
+
+All members of this race tended to favor bright garments of gold, silver, yellow, or white. Especially wool tunics in those colors. In terms of cloaks, they most often wore ones that were deep shades of blue or purple.
+
+Personality
+Grey elves had attitudes and outlook comparable to those of most silvanesti on Krynn and sun elves on Toril—very arrogant and believing themselves to be superior to other races, even elven races. They considered themselves to be the purest form of elf, despite the fact they were a sub-race. Though of course, not all grey elves possessed a snobbish demeanor.
+
+These elves also tended to be highly intelligent, the most intelligent of all elven races according to some estimates, and such a quality was very valued in their society. They preferred to rely more on their mental talents than on their physical abilities.
+
+Combat
+Grey elves generally wore winged helmets with shimmering suits of plate mail or chainmail while carrying shields, particularly elven chainmail. They typically fought with bows, spears, swords, and two-handed swords.
+
+However, they did not value physical prowess. Thus, many grey elves took up of the profession of a mage, though they usually did not become specialized wizards. Those that did specialize tended to take up roles as bladesingers or spellfilchers.
+
+History
+In the, grey elves were occasionally encountered by travelers in the forests of the Savage Frontier.
+
+Society
+Grey elves were a very reclusive people. They highly valued this seclusion, viewing it as independence from a corrupting outside world, and would fight fiercely to remain secluded from all, sometimes even from other elven sub-races. Outside of that they spent much of their lives indoors, seeking scholarly pursuits. Studying, researching, contemplating, and writing treatises learned.
+
+Their societies were very rigidly defined, hereditary monarchies. Much like the socities of drow, personal freedom was not valued and movement was carefully restricted, With citizens of their cities being divided by a caste system.
+
+Their craftsmen were capable of making items that could hold the strongest of enchantments, with subtle charms worked into them that made the item more receptive to whatever magic a mage might use to enhance them. One such item was the ring of faerie. Their craftsmen were particularly focused on the creation of spellbooks and scrolls.
+
+They often had hippogriffs as mounts, and giant eagles as guard animals. Though a few grey elves were known to instead have griffons acting as both guards and mounts.
+
+Homelands
+On their home planet of Oerth, they were known to inhabit isolated meadowlands atop temperate mountains, where they built large citadel cities. The entrances to these meadows and cities were hidden by powerful magic, ensuring that only elves could find them. Their cities were made almost entirely out of stone and divided into five walled concentric rings, with inner rings having more decorations and ornamentation.
+
+On their home planet these cities had some of the most extensive libraries of any city. These were communally open to all elves who wished to expand their knowledge and better themselves.
+
+Relationships
+Out of all elven sub-races, these were among the least tolerant of other races. Grey elves almost never associated with other non-elven humanoids for long or frequent periods of time. And they feared the possibility of other, shorter-lived races tainting their bloodline. However, members of other elven races often readily chose not to befriend them, for they disdained how arrogant and serious they were. Some even felt their behavior and way of life was comparable to that of humans or dwarves.
+
+Because they spent so much of their lives studying, grey elves had many elves of other races as servants for menial and physical labor. Though not harsh, they would swiftly punish any servant that failed in a task or performed it poorly. Some elves of other races perceived these servants to be slaves — if not in fact, at least in spirit — since their servants tended to lack the typical elven love for life.
+
+Grey elves allowed only a select few outsiders entry to their cities, such as very powerful mages and wizards, but even these individuals were treated with great suspicion.
+
+Trivia
+ Some of the oral traditions of the gray elves spoke of Atropus.
+ Visitors to Toril that were familiar with this race of elves sometimes suffered from confusion, due to the fact that the planet's silver elves, whom they a bore a resemblance to, were also sometimes referred to as gray elves. Though this term was considered by them to be a pejorative.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grand Noh Theater
+
+The Grand Noh Theater was a theater in Aru in Wa circa 1775 (1357 DR). It stood in the Mixed District, near the center of the city.
+
+Kabuki and noh theater were performed here in the evenings on most days. It was a large and ornate building.
+
+Appendix
+References
+
+---
+
+## Greelox
+
+Greelox  were a very rare species of powerful, spider-like creatures.
+
+Description
+On average a greelox grew to be  in diameter. In addition to having eight spiny, spider-like legs, a greelox had two limbs that functioned like humanoid arms and two front legs that ended in scythe-like blades. Their bodies were gray and brown in color, with eyes of a dull red hue, while both their claws and mandibles were black.
+
+Personality
+Greelox were highly intelligent creatures.
+
+Biology
+The greelox had a poisonous bite that could nausea in their victims. They were also capable of spinning webs that they could direct at targets from up to  away. Their bodies secreted an acid through their skins that coated these webs. In addition, they were immune to all forms of acid and poison.
+
+These creatures grew rapidly, typically reaching their full size within just one year. They had an average lifespan of fifty years.
+
+Abilities
+A greelox possessed the unique ability to manipulate the shadows of their surroundings to achieve a variety of effects that were equivalent to a wizard casting shadow magic spells. One these effects was invoked a dimension door, allowing them to travel up to .
+
+Combat
+In addition to fighting with their shadow magic and spider-like limbs, their humanoid arms were capable of wielding shields and weapons.
+
+Rumors & Legends
+Some rumors claimed that there existed entire cities of these creatures within the Demiplane of Shadow that consisted of massive mazes of webs, spanning entire acres of terrain.
+
+Society
+The greelox was primarily a solitary creature. They served very little purpose within the ecology of the Prime Material plane.
+Diet
+The greelox was a carnivorous species. They fed upon any small monsters or vermins that wandered into their lairs.
+Homelands
+These creatures were typically found to inhabit ruins or underground locales. They were endemic to the Demiplane of Shadow.
+Languages
+The greelox spoke its own language and typically knew how to speak the language of any creatures that lived within  of their lair. In addition, they were capable of speaking any language they heard for an hour or more.
+Relationships
+The greelox was a favored monster of the drow spider goddess Lloth.
+Usage
+The dried webbing of a greelox could be used by wizards as an ingredient in the creation of an oil of acid resistance.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Grey Ghosts tribe
+
+The Grey Ghosts were a bandit tribe in the Shaar in the mid-14 century DR.
+
+Activities
+Besides their raids on the lands south of them, this tribe collected tribute from the small trading towns that laid within their territory.
+
+Base of Operations
+The Grey Ghosts operated out of the land of Eastern Shaar, in a fortress south of Uthangol pass. Beyond this fortress, they controlled the lands between the city of Hardcastle and the lake Azulduth.
+
+History
+During the mid-14 century DR, an era when many bandit tribes in the Eastern Shaar were known to raid the southern lands of Mulhorand and Unther or the farming towns of Shaar, they were one of the biggest. They struck out as far east as Durpar and as far north as Chessenta.
+
+Their leader was murdered and usurped by Chessentan half-elf mercenary named Furifax. Over time he placed agents within every major city of Unther, inciting dissent among the populace and spying on the activities of royalty. He sought to unite all the other bandit tribes within the Eastern Shaar in a united attacked against the land of Unther. His efforts were often met with little success, though in the process he attracted the attention of the Cult of Tiamat. He eventually came to form an alliance with the cult.
+
+Around 1358 DR, the tribe captured some small Untheric outposts that stood along the River of Swords and freed the slaves of farms that stood along the River Angol.
+
+Members
+This tribe numbered five thousand trained soldirs in total during the mid-14 century DR, with each possessing as a mount one of the wild horses that roamed the Eastern Shaar. They were outfitted with plate mail, shields, and swords.
+
+Appendix
+References
+
+---
+
+## Grauman
+
+Grauman was the aging king of Hartsvale in 1489 DR. Well-liked by the people of Hartsvale, he had the nickname "the Good King".
+
+Relationships
+Grauman had a son named Taumarik, an explorative ranger.
+
+Appendix
+References
+
+---
+
+## Great suq
+
+The great suq was a large marketplace in Hiyal around 1367 DR.
+
+Description
+The great suq was made up of a maze of covered passageways and enclosed streets.
+
+Activities
+The variety of goods available for purchase within the great suq rivaled that of the Grand Bazaar of Huzuz. Virtually all manner of goods could be found purchased within the great suq, including illegal and forbidden commodities if one was bold enough to venture into the shadows.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Grimskalle
+
+Grimskalle was a frost giant fortress located on the isle of Solstice in the Sea of Moving Ice in the Far North. It was later claimed by the goddess Auril, as her personal domain when she resided on Toril during the late 15 century DR.
+
+Location
+It was located dead center on the isle of Solstice, set between gardens of ice sculptures that were formed by the Frostmaiden's ice magic.
+
+Structure
+Grimskalle resembled an imposing skull, adorned with a horned crown. The entirety of its structure was formed of carved ice that emanated a mist of icy air, standing  tall from base to peak.
+
+Interior
+Grimskalle had three levels, along with a rooftop that was well-fortified by battlements. From bottom to top, Grimskalle comprised a snowflake-shaped dungeon, an entranceway set at ground level, and a palace chamber situated above.
+
+Dungeon Level
+Grimskalle's stellate dungeon held a large, ice-covered central chamber, from which extended six hallways. The north-facing hall held the tombs of Vassavicken's frost giant subjects, some of whom had been risen as skeletal undead. The giant queen herself was interred within a tomb of ice, set beneath the likeness of the titan Thrym.
+
+The four side halls were inscribed with scenes that depicted frigid scenes of nature, each leading to a chamber that teleported an individual to one of the "tests of the Frostmaiden" found throughout Icewind Dale. In order to open the southern path, to the Hall of the Four Winds and the fortress' vault, one had to pass the tests of cruelty, endurance, isolation, and preservation.
+
+The Hall of the Four Winds held four tablets inscribed with the dogma of the Aurilian faithful, each of which was bound to a spirit from the Elemental Plane of Air. Just beyond were two smaller rooms, one of which housed the Codicil of White, and another that bestowed the blessing of the Frostmaiden.
+
+Entry Level
+The entrance to the fortress was inscribed with runes in Dethek, that directly translated to the word "Grimskalle". Beyond the entryway was a guard room, the keep's kitchens, and a great feasting hall.
+
+Palace Level
+Within the top level of Grimskalle was a throne room, once used by Vassavicken and later by Auril, along with the private chambers befitting a queen.
+
+Atmosphere
+Due to its giant origins, the interior layout and furniture set within the build were built to enormous scale.
+
+History
+The imposing fortress was originally built for the frost giant queen Vassavicken.
+
+Auril the Frostmaiden hid herself away within Grimskalle while her form appeared on Toril during the Everlasting Rime, circa the .
+
+Rumors & Legends
+By the late 15 century DR, Grimskalle became connected to the appearance of Auril in Faerûn. If her form on the Prime Material plane was destroyed, the fortress was believed to collapse in on itself.
+
+Inhabitants
+As of the time of Auril taking up residence within Grimskalle, only one elderly frost giant named Ertgard remained within. He dedicated himself to the Aurilian faith.
+
+Auril's roc companion Iskra nested atop the roof of Grimskalle, just as a number of ice mephits sat along the walls like gargoyles, and the particularly intelligent giant walrus called Ukuma dwelled within its dungeon.
+
+Appendix
+Appearances
+Adventures
+Icewind Dale: Rime of the Frostmaiden
+
+Gallery
+
+References
+
+---
+
+## Greymace
+
+Greymace was the majordomo for the noble Seasilver family of Marsember during the late 15 century DR.
+
+Description
+Greymace had a hooked nose with eyes that were set close to one another. He wore fine robes of velvet, emblazoned with the sigil of House Seasilver.
+
+Personality
+Befitting his rank, Greymace had a commanding air that was evident every time he stepped into a room.
+
+History
+On Uktar 2 of the, the city of Marsember was assaulted by shades during Netheril's invasion of Cormyr. Greymace was able to accompany Grand Duke Farnig Seasilver aboard the Wave Wyvern during the conflict, sailing away from the city. Unfortunately, the Duke Seasilver was slain shortly thereafter, though Greymace's fate was unknown.
+
+Appendix
+Appearances
+Novels
+ The Sentinel
+
+References
+
+---
+
+## Grynwald
+
+Grynwald was a sailor who worked for the noble Seasilver family of Marsember during the late 15 century DR. He served as the first mate of the Wave Wyvern, the galleass owned by Grand Duke Farnig Seasilver.
+
+Description
+He was tall and slender, with the tan skin and blonde beard that accompanied spending time at sea under the sun.
+
+History
+Grynwald was aboard the Wyvern when Lord Farnig and Lady Elira set sail from Marsember to Elversult escaping the Shadovar invasion of the city. While Lord Farnig was killed, Grynwald managed to survive the ordeal, staying aboard with Lady Elira as they presumably sailed to Westgate to find safe harbor with her family.
+
+Appendix
+Appearances
+Novels
+ The Sentinel
+
+References
+
+---
+
+## Green rot
+
+Green rot, also known as scaly death was a magical disease associated with the deity Talona, the Mother of All Plagues.
+
+Acquisition
+This disease was a gift and spreading it was a divine ability bestowed on the priests of Talona, called malagents, by the Lady of Poison. Their ability to cause disease by touch once a day resulted in the target being infected with the scaly death.
+
+Effects
+The two stages of the disease names were as follows: the debilitating stage was referred to as the 'scaly death' and its fatal stage as the 'green rot'.
+
+The first clue of the disease setting in was an acute loss of intelligence and dulling of mental facilities.
+
+The green rot was named after the greenish rot and decay that spread over the victim's skin. The scaly death caused the diseased's bones to soften and become weak whilst the flesh was peeling and flaking like gruesome scales. These symptoms led to the eventual failure of the diseased's bodily functions and death.
+
+Appendix
+References
+
+---
+
+## Grotchek
+
+Grotchek was the kobold "king" of a small tribe from Undermountain that raided streets of Waterdeep mid–14 century DR.
+
+Personality
+Grotchek considered himself to be the greatest of the kobolds, but when confronted with creatures bigger and stronger than him, he groveled in submission and fear.
+
+History
+Sometime in early 1370 DR, Grotchek's kobold tribe was forced out of the territory that was their home. Under the "king" Grotchek's leadership, the tribe settled in the Dungeon Level of Undermountain. On the 15 of Eleasias of that year, the "king" was contacted by the villainous drow High Priestess of Lolth Azurna that intimidated Grotchek into servitude. Under the drow orders, the kobolds were forced to venture into the streets of Waterdeep.  Under the cover of the night, kobolds raided and thieved from the Lords of Waterdeep. Azurna ordered the stolen goods to be exchanged for food for the tribe via the grey orc trader Horazak that was allied with the drow. Another function that Grotchek's tribe was to serve - gatekeeping of the entrance to Undermountain from the Yavninv Portal, killing and capturing anyone who descended into the dungeon, and sending runner messengers to the drow in case the Lords' agents were to enter the dungeon.
+
+Of course, the kobold activities attracted the City of Splendors' authorities ' attention. Khelben Arunsun tasked a capable adventurer with the investigation of the kobold activity that, in his opinion, originated from the Dungeon Level of Undermountain. The hero was able to defeat many members of Grotchek's tribe. Once the hero reached the kobold "king"'s throne room in the ancient flooded sewers, Grotchek groveled and begged for his life, promising to cease the raids and letting the hero have Azurna's letter to shift the blame from himself to the drow.
+
+Appendix
+Appearances
+Video Games
+Descent to Undermountain
+References
+
+---
+
+## Grove of Meditation
+
+The Grove of Meditation was a large stand of magnificent pine trees located in the southwestern area of Synnoria in the Moonshae Isles.
+
+Effects
+It was a great boon to elves who practiced magic. Elven magic-users with a high degree of intelligence were the only ones who could benefit from the grove. When an elven mage or fighter-mage meditated in the grove, they were able to advance their abilities further than they would otherwise. However, that elf would have to meditate in the Grove of Meditation for up to six months, morning until evening, every day. After this, the goddess granted them enough insight to advance themselves. The grove was a reusable resource; an elf could use the grove for as long as they still had something to learn.
+
+Appendix
+References
+
+---
+
+## Gronne
+
+Gronne was a village in the Alpuk region within the Great Glacier.
+
+Geography
+Gronne was located  east of the Novularond.
+
+Layout
+The village had a very organized layout. Snowhouses were laid out in a neat circle around a cluster of quaggi. Most of the snowhouses had intricate rock gardens, filled with colorful stones the residents collected from the Novularond.
+
+Inhabitants
+The villagers had a well-earned reputation for their insight and wisdom. Residenta from nearby Iulutiun villages often sought the advice of the Gronne village council in resolving disputes or to seek their opinion on civic proposals. The Gronne village council freely gave such advice and while they did not seek payment for their services, they accepted gifts, especially colored stones to add to their rock gardens.
+
+History
+In, a group of innugaakalikurit discovered a catapult in Novularond that belonged to frost giants. They took it back to their village, and refused to return it to them. The frost giants destroyed an arctic dwarf village in response. The elders of Gronne intervened, who volunteered to negotiate the dispute to prevent a war. They found the arctic dwarves guilty of theft, and the thieves are turned over to the frost giants. The prisoners became slaves and their descendants remain enslaved to the 14 century DR.
+
+Government
+Like most large Iulutiun villages, Gronne was overseen by a village council, or iquemelum.
+Appendix
+References
+
+---
+
+## Grimak Nailbiter
+
+Grimak Nailbiter was a particularly malevolent redcap witherer who dwelled in the Feydark during the late 15 century of the Faerûnian calendar.
+
+Relationships
+Grimak joined with the forces of King Malabog when the evil fomorian began a crusade of conquest against the elves of New Sharandar.
+
+History
+Circa the, Grimak began to use fomorian poisons to taint great tree roots that intertwined with one another in the Gnarlroot Caves. This evil act led to the use of a new name for the trees that grew aboveground, which became known as the Blighted Grove.
+
+Appendix
+Appearances
+Video Games
+
+References
+
+---
+
+## Green Phoenix
+
+The Green Phoenix was a tavern located in the 3rd quarter of Innarlith.
+
+Structure
+It was housed in a sprawling brick-building.
+
+Interior
+The interior was dark and smoke-filled. A large room behind the bar filled with large copper kettles was used to brew ale.
+
+History
+The alchemist Surero went to work here in 1368 DR after he stopped working with Ivar Devorast at the canal site. He used the alias 'Orerus' in order to avoid being recognized while he worked there. However, Phyrea, the daughter of Senator Inthelph, located him here when she was trying to find out what happened to Devorast after he was dismissed from his work at the canal.
+
+Appendix
+Appearances
+Novels
+Lies of Light
+
+References
+
+---
+
+## Gravehound
+
+Gravehounds were animated corpses of medium-sized dogs and hounds, relentless canine zombies sometimes raised by Thayan necromancers.
+
+Description
+Gravehounds looked like dead and decomposing dogs or wolves. Their fur was falling off in ratty patches, exposing decaying muscles, bones, and sinew. Their teeth were often broken but still very deadly. Red spark of the dark magic that animated them flickered in their dead eyes.
+
+Abilities
+Like other undead, gravehounds were immune to diseases, poison, resistant to necrotic damage and magic, and vulnerable to radiant spells and damage.
+
+Gravehounds' rotted flesh was vulnerable to critical strikes, destroying these shambling canine corpses.
+
+Behavior
+Just like regular zombies, gravehounds were undead brutes that served their creators, disregarding their own wellbeing.
+
+Combat
+
+Gravehounds were far from intelligent and were dangerous due to their lightning speed, relentless assault, and sheer numbers. Their bite was the main weapon of the creatures, dealing necrotic damage to their targets. The necrosis caused by their putrid bite continued to rot the target's flesh until healed. These undead dogs' bite could easily knock a humanoid of medium or small size prone. The necromantic drive in these creatures was so strong, that even when destroyed, gravehounds managed to land one last bite to their slayer.
+
+Ecology
+Like other zombies, gravehounds were undead creatures who only existed to serve their masters and kill, then consume the living. In certain places, where the border between the Prime Material plane and Shadowfell was thin, the Plane of Shadows' corruption could bring zombies and gravehounds into existence. These "wild" zombies did not have masters and attacked anything alive on sight.
+
+Beyond Toril and its Shadowfell echo, gravehounds could be found on the world of Nerath, deep within its version of Underdark, close to myconid colonies.
+
+History
+Sometime circa 1479 DR, gravehounds could be found stalking the lands around the Spellguard, accompanied by other zombies and wights. Kalmo Darano, a halfling wererat had a pack of four gravehounds under his control during the same period of time. Most of these foul beasts were destroyed during the search for the Lady Saharel by a group of adventurers.
+
+During the period of time around the Siege of Neverwinter of 1479 DR, gravehounds could be found plaguing the lands surrounding the Stronghold northeast of the Neverwinter Wood that was taken over by the Heroes of Sleeping Dragon Bridge. Gravehounds were also a part of Valindra Shadowmantle's undead army, and were often raised by Szass Tam's Red Wizards.
+
+During the disappearance of the Crown of Neverwinter circa 1479 DR, a group of adventurers searching for the artifact came across gravehounds and their Thayan masters in the graveyards of Neverdeath.
+
+In Ches 1480 DR, Geran Hulmaster, a swordmage from Moonsea, and his companions Miyra and Sarth Khul Riizar, encountered numerous gravehounds during their traversal of shadow-Hulburg in Shadowfell.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Griffon Hill
+
+Griffon Hill was a thorp in the East Reaches of northern Cormyr, on edge of the Stonelands.
+
+Description
+Griffon Hill was an unremarkable collection of fortified cottages and a repeatedly-burnt-down inn that sat atop a rocky hill. It was populated by hardy shepherds and several priests of Chauntea, who had become suspicious of visitors after being tricked by bandits repeatedly.
+
+Geography
+The hill upon which the settlement was found sat about halfway along the Stonebolt Trail, from Gnoll Pass to Shadow Gap. Roughly  to the west was a noted goblin burial ground. The ruins of Darkenshield lay far to the south along the Trail, while Halfhap and Tilverton sat along the parallel Moonsea Ride to the south and east, respectively.
+
+Somewhere below the hilltop was a good-sized aquifer that the residents used to draw drinking water.
+
+Trade
+Griffon Hill raised sheep and traded the meat and wool of its flocks for whatever they could buy from the merchants who visited them. Those in need of healing also traveled to the site to visit the three priests of Chauntea who lived there, who supplemented the thorp's income by selling holy water and other services. More expensive goods were imported from Arabel via trusted messengers hired by the priests.
+
+Defenses
+Apart from lying at the top of a hill, the cottages of Griffon Hill were somewhat fortified against attack. During the mid–14 century DR, one of the priests living there gained the ability to summon earth elementals and control the weather.
+
+History
+The hill was named after the griffons that had lived there, though they were long gone by the 14 century. After it was settled, Griffon Hill became the target for frequent orc attacks, but the folk living there survived and rebuilt time after time.
+
+Rumors & Legends
+It was said that when under dire threat, the residents of Griffon Hill retreated to a cavern within the hill itself for safety. Legend also had it that this cavern was deep enough to connect to the Underdark, and that they could flee there to escape pursuit.
+
+Notable Locations
+One of the cottages built atop the hill was set aside for visiting travelers to sleep in — it was marked by faerie fire, had cots set up inside, and was stocked with firewood and water. However, it was also kept in a far less tidy state, with the door left open unless occupied.
+
+Appendix
+References
+
+---
+
+## Gremlin
+
+Gremlins were a species of goblinoid-like fey creatures, whose plane of origin was unknown to most.
+
+Description
+These goblin-like creatures had indistinguishable sexes and their skin color ranged from shades of brown, black, and gray—frequently in a mottled blend. They had large and pointed ears. Some had bat-like wings and were thus often mistaken for imps.
+
+Gremlins often wore no clothing.
+
+Personality
+Gremlins were very intelligent creatures. They were typically chaotic, mischievous, and cowardly. They delighted in angering people.
+
+Abilities
+Gremlins were amazingly resilient creatures. They had a slight magic resistance and could only be harmed by enchanted weapons. When infesting an area, they were nigh impossible to completely eliminate.
+
+Combat
+
+As cowardly creatures, gremlins much preferred fighting their enemies through trickery and traps over face-to-face combat. They would only resort to this if cornered and fought by biting or slashing with their claws.
+
+History
+Following his assault on the kingdom of Mag Tureah, the fomorian king Thrumbolg ordered that all captured goblin slaves should be transformed and corrupted by powerful rituals. These rituals resulted in the creation of the first gremlins. These first generations were used by Thrumbolg to break up powerful alliances against him, as well as sow unease and dissent within eladrin cities. But eventually he lost control of them and they wreaked havoc within his own court before being driven out.
+
+In 1368 DR, gremlins could occasionally be found in the sewers beneath Waterdeep.
+
+Some time later in the 14 century DR, the town of Blackbarn became infested with gremlins. They committed many acts of thievery and vandalism, persistently resisting the residents' efforts to exterminate them. Eventually the gremlins started to be referred to as "the Blackbarn Curse" and bodies of those killed were strung up on posts. To circumvent the gremlins many things in the town were made from stone or locked away behind cupboards or with stout locks.
+
+Species
+Gremlins were highly susceptible to mutation and were capable of interbreeding with any goblinoid species. Because of this, over time many other species of gremlins came about.
+ Bendith, a wingless species of gremlin that devoted their long lives to replacing the children of humans and demihumans with their own and then raising those children to be unruly menaces to society.
+ Fremlin, a minuscule winged species of gremlin that had a more friendly and harmless nature.
+ Galltrit, a minuscule winged species of gremlin that subsisted on blood.
+ Jermlaine, a minuscule wingless species of underground gremlins that were greatly associated with rats.
+ Mite, a wingless subterranean species most closely related to jermlaine and snyads.
+ Plainsjan, a wingless species that primarily inhabited the planet Anadia.
+ Snyad, a wingless species of gremlin that were quite dexterous and had a love for treasure.
+
+Societies
+Gremlins traveled in small packs. They had a social order that was highly organized, where both sexes were treated as equals.
+
+They did not mate often and offspring were left to fend for themselves after birth, which they typically were fully capable of doing so. Gremlins matured within the course of a month.
+
+Diet
+Gremlins were generally omnivorous creatures, though some species had unique diets, such as the galltrit.
+
+Homelands
+Gremlins could be found within the Feywild, the Feydark, and on the Prime Material plane. They most often dwelled covertly within the settlements they terrorized, infesting buildings, and taming vermin or other animals to their service.
+
+On the Prime Material, three species of gremlin made their homes in the Upperdark: jermlaines, mites, and snyads. Most lived in small groups, typically lairing in mazes of tiny chambers and passageways along major trade routes. This allowed them to prey upon unwary travelers.
+
+On the surface they could be found in parts of the Western Heartlands, where they were referred to by some as "graywings", within areas of the Old Elven Court, and within cities and villages in Cormyr, the Dalelands, and Sembia. Beyond Faerûn, gremlins could be found in the Pasocada Basin.
+
+Relationships
+Gremlins could be found living openly among goblins, lizardfolk, orcs, and any other humanoids that could tolerate their chaotic nature. Most races in the Underdark sought to exterminate gremlins if given the opportunity.
+
+Gremlins could sometimes be found working with demons, as their chaotic personalities meshed well.
+
+Trivia
+In Wheloon, the Oldstone Hall featured stone carvings of gremlins.
+
+Appendix
+Trivia
+ Gremlin was used as a cheat code in the game Blood & Magic, which when used would summon an enchanter unit.
+Appearances
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Grab grass
+
+Grab grass was a thick, tall and tough variety of grass whose name was derived from the fact that people often became entangled in it.
+
+Description
+The blades of this variety of grass typically grew to heights of .
+
+Habitats
+Grab grass was typically found on plains and hills, deep in the forests of the Feywild. On the Prime Material plane, it existed in areas where the Feywild's magic filtered through. For example, it could sometimes be found in the southern reaches of the Hordelands.
+
+In the Abyss, grab grass could be found in the Screaming Jungle.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Finding Harmony • Heart of the Desert: Race Against Time
+References
+
+---
+
+## Greenglade Tower
+
+Greenglade Tower was a popular and rather clean rooming house in Waterdeep.
+
+Location
+This inn was located in the North Ward of Waterdeep, in a courtyard south of Suldown Street.
+
+Structure
+The Greenglade Tower stood five stories tall.
+
+Appendix
+Appearances
+Novels
+The Dream Spheres
+References
+
+---
+
+## Grilled rothé ribs
+
+Grilled rothé ribs was a simple and popular dish, slowly cooked meat of rothé beasts.
+
+Description
+Grilled rothé ribs were usually smothered in honey, various herbs, and slowly grilled on open fire. This dish was a popular treat commonly prepared during festivals dedicated to Midsummer celebrations on Faerûn.
+
+History
+In the later 15 century DR, grilled rothé ribs were often cooked by the residents of the Western Heartlands, humans and goblins alike.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+External links
+
+References
+
+---
+
+## Grand Canal of the Second Emperor
+
+The Grand Canal of the Second Emperor was  a huge canal in Shou Lung that ran across the Shou provinces of Wang Kuo and Hungtse.
+
+Description
+It resembled a long river. The Kaifeng Highway ran parallel to it.
+
+Trade
+Ships went back and forth along the length of the canal.
+
+History
+In 1369 DR, the Cormyrean engineer Ivar Devorast visited this canal in Shou Lung. He had been tasked by the city-state of Innarlith to construct a smaller canal to connect the Lake of Steam to the Nagaflow. Ran Ai Yu, a Shou merchant who frequented Faerûn had brought him there aboard her ship and believed that he would learn something from it before he headed back to Innarlith.
+
+Appendix
+Appearances
+Novels
+Scream of Stone
+
+References
+
+---
+
 ## Grape
 
 Grapes were a variety of fruit found in the Realms. When dried up they were known as raisins.
@@ -2028,6 +10937,212 @@ Gallery
 Appearances
 
 External Links
+
+References
+
+---
+
+## Grumog
+
+Grumog was a strange but fierce monstrosity, worshiped by Queen M'bobo's Batiri goblin tribe as their deity in the mid 14 century DR.
+
+Description
+Grumog's presence could be acuity detected by the sound of its thunderous roar that echoed across its tunnels. The creature produced mists of steam with its breath. Grumog's head was the size of a small creature and shaped like a spade with boubous eyes on its sides. The creature's body was covered with scales that reached its lips which ended with long sharp teeth. Grumog's long slender, muscular neck had two sets of gills that spewed out steam with a fierce hiss. Its long snake-like body had numerous legs, similar to a centipede, and ended with a double barbed tail. Inside its gaping maw hid a tentacled tongue.
+
+Abilities
+Grumog showed limited animal-like intelligence. Its tongue was its main weapon that wrapped around its prey and lunged it straight into the creature's mouth. The creature's breath, the smoke it created, was foul and sour-smelling.
+
+Possessions
+Grumog laired in a cave tunnel system underneath Queen M'bobo's village. The goblins tossed numerous victims into the beast's maw through a sacrificial pit that led directly to Grumog's nest. Under the pit's gullet laid Grumog's "trove," or more precisely a junk pile. It consisted of bones, charred items of the victims, rusted weaponry, and tribal Chultan armor.
+
+Relationships
+Grumog was worshiped and fed via ritualistic execution by a Batiri tribe.
+
+History
+At some point before 1362 DR, a tribe of cannibalistic Batiri goblin who actively menaced the residents of Mezro in Chult came to worship Grumog as their deity. The goblins came to respect and fear the mysterious creature, regularly feeding it living prisoners captured along Chultan jungle paths.
+
+In 1362 DR, Queen M'bobo's tribe ambushed and captured villainous Kaverin Ebonhand during his expedition searching for the Ring of Winter. The industrious man quickly forged an alliance with the Queen and used her newly pledged allegiance against a Harper adventurer and his nemesis, Artus Cimber. Artus was captured by the goblins and was about to be fed to the Batiri "god." To Kaverin's fury, goblins fed the monstrosity while the victims were still alive. The goblins tossed Artus possessions into to pit as a tribute. Among them were his enchanted glowing dagger, the Bookmark, and powerfully enchanted Thayan diary bound in wyvern skin. Once inside Grumog's lair, Artus serendipitously met Byrt and Lugg, a duo of intelligent wombats who spoke common. Grumog attacked the trio, but Artus was able to kill the creature accidentally. With a lightning-fast strike, the adventurer dodged out of the monster's way. Instead of fresh meat, the creature chomped on Artus Cimber's journal. As Grumog's teeth pierced the wyvern leather, the book's enchantment broke. Within moments, thousands of journal pages exploded into the beast's mouth. The avalanche of paper broke Grumog's maw and killed the beast.
+
+Appendix
+See Also
+Behir
+Monstrous centipede
+Appearances
+Novels
+The Ring of Winter
+References
+
+---
+
+## Great Ape
+
+The Great Ape was a massive girallon that terrorized the areas in the  vicinity of Port Nyanzaru in Chult circa late 15 century DR.
+
+Description
+The Great Ape was an unusually large white girallon infamous for its voicelessness. Its scarred hide bore signs of many battles indicating its age and aggressive nature.
+
+History
+In the late 15 century DR, shortly after the death curse had stricken the land, the Great Ape became one of many other dangers that threatened the existence of the town of Port Nyanzaru and routes through the jungle outside of the city. The Merchant Prince of Nyanzaru, Jessamine, asked a group of adventurers, guided by Eku to slay the monstrous beast as a favor, in exchange for clues about the origins of the strange blight affecting resurrected creatures of Chult and Faerûn.
+
+Eku held the adventurers in tracking the Great Ape by finding the signs of its passage. After a long and exhaustive battle with the scarred girallon, the Great Ape was put to the sword, partially returning safety to the roads of Port Nyanzaru.
+
+Appendix
+Appearances
+Video Games
+Tales from Candlekeep: Tomb of Annihilation
+References
+
+---
+
+## Great Rain
+
+The Great Rain was a weather event that was part of the Second Sundering. It lasted from the autumn of  until late .
+
+Description
+For the duration of the Great Rain, an unceasing storm darkened the skies and wracked the entire Inner Sea region with cold rain. On good days, this was a light drizzle with even a few fleeting moments of sunshine (although never enough for anything to begin to dry out). Otherwise, it was a ceaseless downpour with gale force winds and lightning strikes. A mystical event meant to heal the wounds of the Spellplague, the rains caused crops to fail, leading to widespread hunger. As the rains continued, the level of the Sea of Fallen Stars began to rise rapidly, leading to widespread chaos as large tracts of land were swallowed by the waves and it became treacherous to travel by ship. Further from the coast, once dry land could become veritable swamps and city streets flowed like rivers.
+
+The Great Rain appeared to be suffused with the magic of elemental air. Those who survived a near death experience in the storm or were born amidst its howling winds had a chance to be touched by this magic, imbuing them with innate storm sorcery.
+
+Location
+While the storm was predominantly centered over the Sea of Fallen Stars and the lands surrounding it, the rain clouds would sometimes travel to other lands.
+
+Outcome
+After the end of the yearlong storm, the Great Rain raised the level of the Sea of Fallen Stars by an average of nearly . Thousands died from drowning, lightning strikes, and the powerful winds.
+
+History
+A century prior to the Great Rain, the Spellplague of  had torn open the Underchasm, causing water to be drained out of the Sea of Fallen Stars and revealing large parts of the seabed as new coastline. Over the following decades, many port towns and cities had to build new docks and districts closer to the lower waterline. With the advent of the Second Sundering, many of the Spellplague's chasms disappeared, and the Great Rain violently returned the water level of the Sea of Fallen Stars to its pre-Spellplague level. In places like Immurk's Hold on the Pirate Isles, docks and shipyards were destroyed by the rising waters. The terrible storm caused many to turn to Umberlee for salvation, at least at first.
+
+The rain was so pervasive that it made combat difficult: it instantly quenched fires and ruined bowstrings, and some warriors had to abandon using metal armor lest it begin to rust. In Sembia, the onset of the rains disrupted the ongoing war with Cormyr, and may have been a factor in the decision by Sembia's rulers, Netheril, to open a new front in the north, further from the sea.
+
+As crops failed in places from the Dragon Coast to the Vilhon Reach to Impiltur, an effort was made by Thay in Eleint of 1486 DR to project power into these regions by selling them food. They sought alliances with pirates to achieve this.
+
+In Turmish, a magical ritual conducted by the elder circle of the Emerald Enclave and the Chosen of Lathander, Stedd Whitehorn, at first hastened the rains but then brought them to an end and magically restored the farmlands and crops. The Emerald Enclave would go on to claim credit for ending the Great Rain.
+
+Following the end of the Great Rain, the Inner Sea had become home to many newly empowered sorcerers who had been gifted (or cursed) by the power of the storm. Most folk regarded them with suspicion, but within a few years, they had come to be seen as a great boon for any ship's crew.
+
+Appendix
+Appearances
+
+References
+
+[[Category:Events in Immurk's Hold
+
+---
+
+## Gritstone Moorland
+
+The Gritstone Moorland was a region of wetlands found on the eastern stretch of the Dragon Coast in the Eastern Heartlands.
+
+Geography
+The region was formed at the confluence the Tun River and the Dragonmere lake, just south of the Storm Horns mountain range.
+
+Passing through the Gritstone Moorland was the Overmoor Trail, the path that connected the cities of Proskur and Elversult.
+
+Notable Locations
+The only notable landmark in the moor was the Bloodtower.
+
+Appendix
+References
+
+---
+
+## Grig of Armot
+
+Grig of Armot, the father of Grig the Younger, was the unfortunate victim of a Mulhorandi entrapment spell in the mid–14 century DR.
+
+Relationships
+Grig's son, Grig the Younger, went on to research Mulhoradi magic following his father's curse .
+
+History
+Sometime before 1362 DR, Grig of Armot purchased a magical model of a Mulhorandi pyramid at a Magefair. The enchanted item was cursed and the man ended up being trapped inside it. He was still trapped as of 1362 DR.
+
+Appendix
+Appearances
+Novels
+
+The Ring of Winter
+References
+
+---
+
+## Grass Sea
+
+The Grass Sea was a stretch of grassy plains found in the area of the Moonsea on the northern side of the sea.
+
+Description
+As its named suggested, the Grass Sea was a great, flat expanse of tall grasses with few landmark, save for a few ruined stone structures.
+
+To its west was the Giant's Cairn, a great open field dotted with giant-sized grave mounds, each of which was marked with an enormous boulder.
+
+Geography
+It situated southeast of the Ticklebelly Hills and the greater Dragonspine Mountains, just west of the Stojanow river, east of Giant's Cairn.
+
+The Iron Route that connected the ruins of Zhentil Keep and Phlan ran along the southern stretch of the plain.
+
+Geographical Features
+There were few trees or shrubbery that grew within.
+
+Flora & Fauna
+Herds of bison were known to make pasture in the grasses of the region, and bulettes dug in the earth beneath them.
+
+Notable Locations
+ Lone Tower, a solitary granite tower that was built to protect the Moonsea from the dangers of Thar.
+
+Inhabitants
+The bandit gang known as the Gray Patriots had a number of criminal hideouts at various, hidden sites across the Grass Sea.
+
+Appendix
+Appearances
+ Organized Play & Licensed Adventures
+ Outlaws of the Iron Route • Pool of Radiance Resurgent
+
+References
+
+---
+
+## Grimalkin
+
+Grimalkin was a cat belonging to Benelaius, a retired War Wizard, at his cottage outside the town of Ghars in Cormyr in the mid–14 century DR.
+
+Abilities
+Along with Razor, Grimalkin was one of almost a hundred cats in Benalaius's possession. They served him as companions, guardians, and agents, and were good judges of character. He could communicate silently with them.
+
+Personality
+
+He regularly lay on Benelaius's lap and liked being rubbed behind the ears. He also tended to wake his servant Jasper in the mornings by licking his face.
+
+Description
+He had soft fur.
+
+History
+By occupying Benelaius's lap after midnight on Eleint 20 of the, Grimalkin was one of a number of cats present at the meeting of townsfolk he called to reveal the murderer of Dovo and Grodoveth, as well as an Iron Throne spy ring.
+
+Appendix
+Background
+A grimalkin or greymalkin (meaning "gray-haired cat" or "grey-haired woman") is an archaic term for a cat, one often associated with witchcraft. Thus, Grimalkin may be Benelaius's familiar.
+
+Appearances
+
+References
+
+---
+
+## Grogbeard's Grimace
+
+Grogbeard's Grimace was an enchanted rapier that belonged to the renowned Grogbeard the Privateer from the Nelanther Isles off the coast of the Sword Coast.
+
+Powers
+Grogbeard's Grimace was enchanted to protect its wielder against spells, increasing their resistance to arcane, divine, and spell-like creature abilities.
+
+History
+Sometime before 1372 DR, Grogbeard the Privateer wielded the enchanted rapier that later became known as Grogbeard's Grimace. The pirate was renowned post-mortem for his swashbuckling skills and the circumstances of his death. Grogbeard received a deadly wound after drinking heavily, dueling, and swinging from a ship's mizzenmast. His wound festered, becoming infected, eventually ending his privateering career.
+
+Following Grogbeard the Privateer's death, the Grimace remained in the Nelanther Isles, changing hands several times over the years.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Pirates of the Sword Coast
 
 References
 
@@ -2142,6 +11257,3606 @@ Connections
 
 ---
 
+## Griddle cake
+
+Griddle cake was a dish known in Faerûn in the mid–14 century DR, commonly enjoyed as a morningfeast.
+
+History
+Jasper made griddle cakes, sausage, and other things as part of a large breakfast for himself, Benelaius, Lindavar, and Kendra on the morning of Eleint 20, 1367 DR, to celebrate solving the murders in Ghars, Cormyr.
+
+Appendix
+Appearances
+Novels
+Murder in Cormyr
+External Links
+
+References
+
+---
+
+## Granite Tower
+
+The Granite Tower, also called Granite Keep and Keep Bodvar, was a secluded fortress in Vaasa made of black granite. It was home to the descendants of Bodvar the Black and his Moor Eagle tribe.
+
+Geography
+The Granite Tower sat on the slopes of the Galena Mountains in southern Vaasa, overlooking the Bleak Steppes of Haatar-Baen.
+
+Defenses
+The Tower provided safety from the dangers of Vaasa. The walls were bonded by magic and were nigh impregnable as long as the inhabitants upheld the Oath of Bodvar. In addition, it was defended by the Scions of the Granite Tower, twenty elite warriors trained from a young age to wield heavily enchanted blades called darkswords, which were said to be able to bypass or cut through any protections.
+
+History
+Moor Eagle Clan
+The people who would come to live in the Granite Tower were originally a clan of nomadic Vaasan barbarians called the Moor Eagles. They were capable and honorable warriors who traveled in wagons pulled by oxen.
+
+In the mid 13 century DR, Bodvar became chieftain of the Moor Eagles, and devised a scheme to establish a fort at which his clan could offer travelers and caravans shelter during their trips across the Bottomless Bogs. However, this made the clan a target for local groups of monstrous marauders who preyed on those same caravans. Bodvar's fort was destroyed and the Moor Eagles were pursued into the Bogs. They were nearly wiped out, losing all but twenty of their warriors, before they were saved by Melegaunt Tanthul, a Prince of Shade.
+
+Oath of Bodvar
+The Granite Tower itself was raised in a matter of months by Melegaunt Tanthul as part of a pact with Bodvar and his Moor Eagle clan made on Higharvestide in the . In exchange for the Tower and the twenty darkswords, Bodvar pledged that his clan would send their best warriors to assist Melegaunt when called upon. Thus, the Moor Eagles essentially became the first vassals of the Shade Enclave in Faerûn.
+
+It was not until a century later in the, that Melegaunt would call upon the clan to uphold their end of what had come to be called the Oath of Bodvar. Although Bodvar himself had been leery of the wizard, his descendants had come to idolize and respect Melegaunt, who had provided them with so many protections from the harsh wilds of Vaasa. A force of warriors led by Vala Thorsdotter, Bodvar's great-granddaughter and wielder of one of the darkswords, accompanied Melegaunt in his ill-fated infiltration of Evereska and subsequent journey to Karse to summon Thultanthar to Faerûn. While Melegaunt would not survive the expedition, Vala returned home in 1372 DR accompanied by the elves Galaeron Nihmedu and Takari Moonsnow.
+
+Scions of the Granite Tower
+As of 1480 DR, the Granite Tower was still protected by Bodvar's descendants wielding the darkswords, now calling themselves the Scions of the Granite Tower. While it was unclear how many of the darkswords were still in their possession, it was likely that those who wielded them were still bound to serve Netheril whether they knew it or not.
+
+Inhabitants
+As descendants of the Moor Eagle clan of nomadic barbarians, the people of Granite Tower maintained elements of that warrior culture. They placed great value on honor and family and were known for their honesty, wisdom, and straightforwardness.
+
+Appendix
+Appearances
+Novels
+
+Return of the Archwizards (The Summoning, The Siege, The Sorcerer) • Realms of Shadow: "Darksword"
+
+References
+
+---
+
+## Gramble's Climb
+
+Gramble's Climb was a trade route through the West Galena Mountains. It was the shorter of the two routes connecting Vaasa and the Moonsea, with the other going through Garumn's Climb to the west.
+
+Geography
+Gramble's Climb crossed the West Galenas just north of Mount Throndar to connect Vaasa to the port city of Hulburg.
+
+In the late 15 century DR, the trail that passed through the Climb originated on the Vaasan side at the crossroads of Maur-Eturo. From there, it ran south through the Sunderland and then west through the Bleak Steppes of Haatar-Baen along the slopes of the West Galenas before turning south to ascend through the Climb. It arrived in the Moonsea region in the Highfells at the edge of Thar, and followed the Winterspear River south along the Vale Road to Hulburg.
+
+History
+The Climb was passable as of the mid–14 century DR during the reign of Zhengyi the Witch-King in Vaasa, providing a connection between Vaasa and Glister in Thar. Following Zhengyi’s defeat in the, Gramble's Climb was used by the dwarves of Hillsafar Hall to transport bloodstone and copper to the Moonsea.While it is not stated explicitly in the text of The Bloodstone Lands that the dwarves used Gramble's Climb, given its proximity to Hillsafar Hall and the fact that it is the only route on the map that fits the discussion in the text, it is a reasonable assumption that this was intended to be the case. However, at some point during the late 14 century or early-to-mid 15 century DR, Gramble's Climb became unusable.
+
+In the late 15 century DR, the Warlock Knights of Vaasa sought to establish easier trade with the Moonsea by restoring Gramble's Climb and seizing control of the entire trade route through it. In the, one of their agents galvanized and supplied the Blood Skull orcs to conquer eastern Thar and capture the city of Hulburg for the Knights. While this plan failed when the orcs and their allies were defeated at the Battle of Lendon's Dike, the Knights still cleared the mountain pass of orcs and goblins and their engineers completed the restoration of Gramble's Climb in the spring of the, thus granting the isolated realm greater access to the Moonsea and the lands beyond.
+
+Appendix
+See Also
+Other passes of Vaasa:
+ Bloodstone Pass
+ Garumn's Climb
+ The High Walk
+ The Howling Kupuk
+The Ice Run
+
+Notes
+
+References
+
+---
+
+## Groote
+
+Groote was the chieftain of a broad hill giant steading, situated high in the Ice Spires mountain range of northwest Faerûn, in the mid to late 14 century DR.
+
+Relationships
+Groote was the brother of Noote, the great chief of all the hill giant tribes in the Ice Spires.
+
+Appendix
+References
+
+---
+
+## Great scimitar
+
+Great scimitars  were larger two-handed versions of the common scimitar. These deadly swords were found primarily in Zakhara, the Land of Fate, where it was often referred to as the "headsman's sword" since it was used by executioners.
+
+Description
+A great scimitar was a truly massive sword, weighing on average a pound more than the mighty greatsword. The weapon's mass required two hands to wield properly unless the wielder possessed unnatural strength. The great scimitar's huge blade was curved and designed to cut through enemies.
+
+A great scimitar could be purchased for 40–90 dinars.
+
+History
+These weapons were favored by harim servant genies who carried one in each massive hand.
+
+Notable Great Scimitars
+ Firefiend
+ Widowmaker
+ Final Arbiter
+ Storm of Justice
+
+Notable Users of Great Scimitars
+ Hasan ibn al-Din
+ Saleem ibn Ahogar
+ Head Taker
+ Ardasir al-Darah
+ Sheikh Kaldhun bin Hanif
+ Nabilanasa
+
+Appendix
+References
+
+---
+
+## Grouze
+
+Grouze was a goblin from the ruined mines of Dekanter, that was further transformed into a mongrelmanWhile the terms "mongrelmen" or "mongrelfolk" never appear in the The Nether Scroll novel, the story does include creatures fitting their description that were associated with Beast Lord, who historically has created mongrelmen. by the undead mind flayer known across the North as the Beast Lord.
+
+History
+Grouze was once a warrior within his goblin community, before he was abducted by the Beast Lord and transformed into what his fellow tribe members referred to as a "demon". He was killed by a group of travelers that delved into Dekanter in the .
+
+Despite the monstrous form he was given, Grouze was still recognizable by scars he retained from his goblinoid life. After his death, none of Grouze's  former tribe members would touch his body nor any of his belongings, for fear they would suffer from the same affliction that warped his body. Grouze's killers brought his body to the goblin chieftain Ghistpok, determined to stop the atrocities against nature committed by the Beast Lord.
+
+Appendix
+Notes
+
+Appearances
+Novels
+The Nether Scroll
+
+References
+
+---
+
+## Great Mosque of the Pantheon
+
+The Great Mosque of the Pantheon was the center of Enlightenment within the Pantheist League of Zakhara in 1367 DR.
+
+Location
+The mosque was located in the city of I'tiraf, the central capital of the Pantheist League.
+
+Structure
+The Great Mosque of the Pantheon was one of the largest structures in Zakhara found outside of Huzuz. The mosque's beauty was just as impressive as its scale. The mosque was made from carefully polished blue stone quarried from Al-Sayaj Mountains. The stone was inlaid with gold and set with precious gems.
+
+Activities
+The Great Mosque of the Pantheon was considered a haram or holy site, attracting pilgrims from throughout the Pantheist League.
+
+Defenses
+The Great Mosque was guarded by mamluks.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Great Task of the Pearl
+
+The Great Task of the Pearl  was a yearly competition instigated by the Sultan of Gana within the Pearl Cities of west Zakhara.
+
+Location
+Participants of the event were allowed to roam wherever they wished during the allotted time.
+
+Activities
+The Great Task of the Pearl charged adventurers with bringing a wondrous item or other marvel from abroad and presenting it to the Sultan of Gana. The participant who presented the most wondrous item would be rewarded with a variety of things including treasure, magic items, a position at court, or even a favor from the Sultan. Furthermore, they were granted the sobriquet "Warrior of the Great Task" which carried great honor in the Pearl Cities. Participants had a full seven months to find a suitable item. During this time participants flooded through the court of Gana resenting all manner of items, strange beasts, and unique magics. All items submitted for the Task became the property of the Sultan.
+
+The Chief Wadi was tasked with ensuring that all item were safe and secured before presenting them to the Sultan.
+
+History
+The end of the pearl season and culmination of the Festival of the Pearl marked the beginning of the Great Task of the Pearl. The Task lasted for seven months. Its end coincided with the beginning of the pearl diving season.
+
+One notable winner of the Great Task of the Pearl, a pirate captain with a sizable bounty on his head, received a full pardon from the Sultan by bringing him the head of a sahuagin queen.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Gruuman Xuluksh
+
+Gruuman Xuluksh, also known as the Rage Mystic, was a veteran orc warrior in the service of the orcish god Gruumsh in the late 15 century DR.
+
+Activities
+Gruuman was known to have slain many enemies in honor of Gruumsh over his long career as a warrior, and he had become something of a spiritual leader among the orcs of Many-Arrows. His rages had been likened to an uncontrollable fire.
+
+History
+Gruuman was getting old in the late 15 century DR, but he still led the worship of Gruumsh among the Many-Arrows invaders of Neverwinter to ensure the god's continued support of their campaign. In the, Gruuman became a target of Dyrl Godsword, a worshiper of Cyric, in his bid to weaken Gruumsh's influence in Neverwinter. Dyrl set about recruiting devoted clerics of good deities to hunt down Gruuman with claims that "the gods" were mad about the famous orc's presence in Neverwinter.
+
+Appendix
+Appearances
+Video Games
+
+External Links
+
+References
+
+---
+
+## Grumthrox
+
+Grumthrox the Relentless was a fire giant of Mount Hotenow that joined the cult of Maegera during the late 15 century DR.
+
+History
+Around the time when the Heroes of the Sleeping Dragon Bridge launched an assault against Gommoth in Fireguard Fortress, in the, Grumthrox and the fire archon Immolus captured Firecross Bridge. The fire-worshiping duo isolated the dwarves of Hillborn expedition from the rest of their kin on the outer slopes of the mountain.
+
+Grumthrox was defeated by the heroes that same year, and the Firecross bridge was reclaimed by the dwarven expedition.
+
+Appendix
+Appearances
+Video Games
+
+References
+
+---
+
+## Greatshout as a Young Man
+
+Greatshout as a Young Man was a famous, expensive, and unique painting that depicted Duke Pwyll Daggerford in his youth.
+
+History
+Greatshout as a Young Man was commissioned as a celebration of Pwyll Daggerford's twenty fifth birthday. At some point after that it was stolen from the ducal vaults.
+
+By 1372 DR, this painting was already a collector's item that could score a hefty price. The painting was hidden securely under the curio shop, Torleth's Treasures in Gillian's Hill. The painting's owner, Torleth Mindulspeer, kept his under lock and key, protected by iron bars and traps. The security was heightened after the painting's price skyrocketed following the Duke's resumed death in a hunting accident in 1372 DR. Torleth's bitter rival from Daggerford, Vladmyr, wanted to get his hands on the pricy piece of art and use it to humiliate the painting's owner in the process.
+
+The opportunity to do just that presented itself when Davey Halloran's father found himself in a deep gambling debt to Vladmyr the Moneylender. When the Hero of Daggerford decided to help the down-on-his-luck commoner, Vladmyr offered debt forgiveness in exchange for the Greatshout as a Young Man. The moneylender wanted the painting stolen and replaced with a masterfully crafted fake. When the deed was done, the rare depiction of Duke Daggerford in his youth was in Vladmyr's possession, and Torleth Mindulspeer was humiliated during an auction that was held shortly after.
+
+Appendix
+Appearances
+Video Game
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Great Mosque of Selan
+
+The Great Mosque of Selan in Medina al-Afyal was the largest mosque to the Zakharan goddess of beauty throughout the Land of Fate as of 1367 DR.
+
+Location
+The Great Mosque was found in Medina al-Afyal on the island of Afyal in Bahr al-Ajami in east Zakhara. The structure flanked the city proper.
+
+Structure
+The Great Mosque also housed a university.
+
+Activities
+The Great Mosque was the center of worship for Selan's faithful in Zakhara.
+
+Inhabitants
+The priests who worshiped and taught here was all staunch moralists, but they tolerated ethoists and pragmatists.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Great mallet of Silvanus
+
+The great mallet of Silvanus was a magical mallet wielded by the Young Strider avatar form of the Faerûnian power known as Silvanus.
+
+Powers
+This weapon originally had a +5 enchantment, but in later years was reduced to being +2. Its wielder could also cast call lightning once per minute, shoot out a fast-flowing stream of water out to  in a cone that was  in a diameter, or call upon Silvanus's unshakingly faithful wolfhound.
+
+This wolfhound had a low level of intelligence, above that of the average wolf. It slowly regenerated over the course of a battle. And not even controlling magics or psionics could break its loyalty to Silvanus.
+
+Appendix
+References
+
+---
+
+## Great Keep
+
+The Great Keep was a defensible inner fortification of Krak al-Niraan within the Weeping Desert of Zakhara.
+
+Defenses
+The only entrance to the tower could be blocked off during a siege, isolating the structure from the rest of the castle.
+
+Structure
+The Great Keep had its own armory, water supply, and food stores. The first floor was dedicated to sleeping quarters for the shig'harakhi. The second floor contained a lavish study and library where flame mages researched their spells. The entire third floor was an armory filled with weapons for the fanatics. The top floor of the Great Keep was an astronomical observatory complete with star charts and a telescope enchanted with true seeing.
+
+Appendix
+References
+
+---
+
+## Grym Fartreader
+
+Grym Fartreader was an adventurer that lived during the late 14 century DR. Grym's lasting legacy was a journal entry left within the depths of the Underdark, that remained nearly a century after their untimely death.
+
+History
+Grym's party ventured into a group of dungeons beneath Rothé Valley in the . After encountering duergar that accused them of wielding dangerous magic, the group was beset by a cave-in on the fifth day of their expedition. While searching for a way past a set of locked doors, Grym became no more after being engulfed by a gelatinous cube.
+
+Appendix
+Appearances
+Video Games
+
+References
+
+---
+
+## Gravia Maxillian
+
+Gravia Maxillian was a reluctant lesser lycanthrope who was forcefully transformed into a werewolf by Jonas Maxillian Senior and later lived with him and birthing Jonas Maxillian Junior in the Maxillian Manor in the Western Farmlands circa 1372 DR.
+
+Description
+Gravia wore a simple blue dress and had medium-length brown hair. As a lesser lycanthrope, she was averse to sunlight and had pale skin.
+
+Personality
+Gravia served her lycanthrope progenitor unwillingly. She was forced to be their servant, cook, and cook up batches of her famous hot apple cider, spiked with sleeping poison. The lycanthropes posed as simple apple orchard farmers. Gravia maintained an illusion of a farm wife; however, she appeared slow, depressed, and unwilling to communicate with any of the farm's "guests" to be drugged and killed.
+
+History
+Gravia Maxillian was not a malicious monster like the rest of her "family." Jonas Senior tracked the woman as she moved through the woods by herself one evening. The werewolf turned Gravia into one of their kin. However, something went wrong. When transformed, Graviadid not show bloodthirst nor had the full scope of lycanthropes' powers. Later, she speculated it was her own goodly nature that fought against the nature of the beast.
+
+With the werewolves of the Maxillian Manor, Gravia led a miserable existence. Locked inside due to her masters and aversion to sunlight, she felt her existence was daily torture. She birthed a son, Jonas Maxillian Junior, a bloodthirsty and evil monster just like his father. The werewolves had a long-running lineage of creatures who preyed on the folk of Western Farmlands. At some point in the family's past, Maxillians built a labyrinth underneath the Maxillian Manor. The place to leave their prisoners in and hunt them as animals, only to catch them and rip them to shreds in the frenzy of the chase. No-one has ever escaped the trap, until 1372 DR.
+
+That was when the werewolves caught the attention of the passing by Hero of Daggerford. The cheerful goodly apple farmers, da Jonas, and his son invited the strangers over for a mug of Gravia's famous cider and to join Jonas Maxillian Junior's birthday celebration. The Hero agreed and was drugged. The adventurer woke up in the stone labyrinth along with another victim of the celebration - a gnome named Pettywick Wocket. The Hero was naked and hunted by the young werewolf as his birthday hunt. However, the Hero of Daggerford outwitted the lycanthrope and found the stolen equipment, splaying both father and son.
+
+Gravia welcomed the demise of her so-called family, breathing easily for the first time since she was turned. She said even to feel the evil taint leaving the farm, with the lycanthropes gone. Gravia mourned the death of her son, but she knew that were he left alive, the Maxillian murders and tradition of creating unwilling werewolves to join the family would've continued.
+
+She was going to stay on the farm, away from others in fear of adventurers or monster hunters coming to slay the unwilling werebeast. However, the Hero of Daggerford suggested the woman to seek out the followers of Selûne, the Moonmaiden and the goddess of good and neutral-natured lycanthrope followers. Gravia was delighted she was not alone and immediately set out to the closest Selunite temple.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Gravia's hot apple cider
+
+Gravia's hot apple cider was a popular and sometimes drugged apple libation prepared by Gravia Maxillian of the Maxillian Manor from the Western Farmlands circa 1372 DR.
+
+Description
+Gravia's hot apple cider was prepared using the fresh Maxillian apple orchard juice. A standard recipe called for half a gallon of freshly pressed juice, two cinnamon sticks, two whole cloves, two allspice berries, a handful of lemon and orange peel, slices into stripes.
+
+Apple juice was simmered in a huge pot on the open fire along with the peel and spices neatly wrapped in a piece of cloth. A batch of Gravia's cider took about two hours to cook. These drinks were served hot.
+
+History
+Gravia Maxillian developed the recipe sometime after she was turned into a lycanthrope by Jonas Maxillian Senior. This cider was often used to lure unsuspecting passers by into the clutches of hungry werewolves. The guests were drugged, using knockout drops added to the stein of cider just before serving.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Grommet
+
+Grommets were a type of small metal item, able to be used as a mechanical component or for making clothes.
+
+Availability
+ Grommets were made by "dressers", metalworkers who created various small, delicate, and ornamental works.
+ Aurora's Whole Realms Catalogue sold grommets in their "Tailors' Corner" section for 5 copper pieces a piece.
+ Members of the Church of Gond often had access to these.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Groak
+
+King Groak was a grung king in Dungrunglung in Chult in the late 15 century DR. He beseeched Krr'ook to summon the grung goddess Nangnang so that he could mate with her.
+
+Appendix
+
+References
+
+---
+
+## Grizzelda Copperwraught
+
+Grizzelda Copperwraught was a dwarven architect and leader of the town council of Leilon in the late 15 century DR. The locals referred to her as the Growler, although never to her face.
+
+Personality
+Grizzelda was gruff and confrontational, and would shame and berate those she disliked or whom she saw as uncooperative with her authority.
+Activities
+When Leilon was resettled in the late 15 century DR, Grizzelda was in charge of spearheading the reconstruction efforts, meaning that she directed the laborers and craftspeople as well as paid them each tenday. Because the reconstruction was the most important of the council's roles at this time, she was nominally the leader of the council and thus the most powerful person in town.
+Relationships
+Like most of the town council at the time, Grizzelda had been sent to Leilon by Dagult Neverember, Lord Protector of Neverwinter, and was on his payroll.
+
+Grizzelda was not well liked by the people of Leilon. In general, she had to maintain some diplomatic overtures to other members of the town council, notably Merrygold Brightshine and Valdi Estapaar, as they could overrule her decisions.
+
+History
+At some point in the late 15 century DR, after having torn down and neutralized the High Tower of Thalivar in the center of Leilon, Dagult Neverember had become interested in rebuilding the town as part of the trade route along the High Road south to Waterdeep. He handpicked Grizzelda to oversee this task.
+
+When the town came under attack from the Cult of Talos and the townsfolk and laborers were driven out, Grizzelda attempted to take charge of the situation, but her abrasive personality made it difficult to coordinate any response. Grizzelda herself resigned to simply wait for reinforcements from Neverwinter until a band of adventurers reclaimed the town. Under Grizzelda continued leadership of the council, this same group of adventurers would be called upon to perform several services to help Leilon grow and to protect it from rising threats from both followers of Talos and followers of Myrkul, culminating in the Battle of Leilon.
+
+Once Leilon's reconstruction was essentially complete, much of the townsfolk expressed interest in having the surly dwarf replaced as head of the council, although few dared to say so to her face.
+
+Appendix
+Appearances
+Adventures
+Storm Lord's Wrath • Sleeping Dragon's Wake • Divine Contention
+
+References
+
+---
+
+## Grand Hall of the Crystal Prism
+
+The Grand Hall of the Crystal Prism was a central zone in the Tomb of Martek, linking the Garden of the Cursed with the Inner Sanctum.
+
+Description
+Past the doors in the Garden of the Cursed, there were a thousand more doors, totaling a thousand and one, at fifteen-foot intervals; the total path was close to  long. All were opened as soon as the first one was, leading into the Grand Hall proper; the final doors into the Grand Hall were a set of four, with two double doors on the center of a wall and two golden doors away from the center.
+
+The Grand Hall itself was an octagonal room. Its four long sides each held four doors, symmetrical with the entrance. There were four pits, each 100 feet deep, from which jets of fire rose into the domed ceiling. The pits separated the room between a walkway around the walls, and another four walkways that joined in a  platform in the center, on which a  blue glass platform provided access to the lower level, the Grand Cathedral. A metal structure, like a tent, hung from the ceiling: an iron phoenix roosted there.
+
+Placing at least  on the blue glass platform at the center made it descend  towards a cathedral of crystal, brilliantly lit from within. The arrival point was an hexagonal room,  across, about  from the southern corner. The center of the room held a platform with stairs from all sides, on which rested a miniature of the Citadel of Martek, except for three missing minarets. There were six archways on the corners of the room, three of which were darkened and three of which were lit. The three lit ones, north, northwest and southeast, matched the missing minarets on the model.
+
+Each archway proceeded for 300 feet into hexagonal rooms  across. Passages from these rooms formed a larger hexagon around the entry room; in the  middle of each passageway was another  room. These rooms in turn were connected each towards a similar room closer to the center, and another further still. The rooms along the passageway contained crystal balls showing a preview of the trial; the trial could be accessed from a teleporter in the corresponding room closer to the center, and those who completed the trial would be returned to the Citadel on the further rooms. Both teleporters were platforms raised  off the ground.
+
+The crystal balls each showed scenes of a crystal minaret in different surroundings; each crystal minaret had to be returned from their location before the Inner Sanctum of Martek became accessible. The minarets were, before Martek's resurrection in, in the Desert of Al-Alisk, the demiplane known as the Black Abyss, and the Mobius Tower.
+
+Inhabitants
+The Grand Hall was empty save for an iron phoenix. It would threaten, but not actually harm, anyone who walked along a narrow 10-foot path between the double doors and the center platform. It would also kill anyone who stepped outside that path for any reason.
+
+Appendix
+Appearances
+Adventures
+Desert of Desolation
+References
+
+---
+
+## Grovet
+
+Grovet was a young human miner living in Phandalin in the late 15 century DR.
+
+Relationships
+He was in love with Bertice Edermath, a half-elf woman who was his same age.
+History
+Grovet was born in the .
+
+When he was twenty years old in the, he ran away from Phandalin with Bertice without telling her father, Daran Edermath. Even if Daran had no idea, the fact that the two had disappeared together was something of an open secret in town. The young lovers headed south to Waterdeep along the High Road, intent on starting a new life together.
+Appendix
+Notes
+
+Appearances
+
+Adventures
+The Orrery of the Wanderer
+
+References
+
+---
+
+## Grand Patriarch of Oghma
+
+The Grand Patriarch of Oghma was a title for the leader of the Church of Oghma.
+
+History
+The tile of Grand Patriarch of Oghma was held by a single individual. Traditionally this position was held in the city of Procampur, but the Time of Troubles sparked a conflict within the Church. The title was held by Cullen Kordamant at that time, but his disappearance during the Time of Troubles eventually led to a split within the Church into several factions.
+
+Notable Grand Patriarchs of Oghma
+ Cullen Kordamant
+
+Appendix
+References
+
+---
+
+## Green Gauntlet
+
+The Green Gauntlet was an inn found in Selgaunt.
+
+Location
+The Green Gauntlet was found in the eastern section of the city along the docks and Selgaunt Bay.
+
+Activities
+The inn was one of only two places within the city that tolerated adventurers.
+
+Appendix
+References
+
+---
+
+## Grudy
+
+Grudy was a lieutenant of the Cult of the Dragon circa 1369 DR during the occupation of the ruins of Myth Drannor, stationed in the Elven Catacombs underneath Castle Cormanthor.
+
+History
+In 1369 DR, Leutnant Grudy was under pressure from Brigadier Helmhorn over the members of the Sisterhood of Silver Fire who opposed the Cult of the Dragon's operations in Myth Drannor. The women, referred to as "fire witches", became a thorn in the Cult's side, provoking the ire of its leader, Kya Mordrayn. Helmhorn tasked Grudy to capture the Mystran clerics or have his bulbous nose sliced off.
+
+Appendix
+Appearances
+Video Games
+
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Grandal
+
+Grandal was the name that the guilders and the palan-teen used to refer to the Tomb of Martek beyond the gates on the Garden of the Cursed, or indistinctly, to the gates themselves. It was a corruption of "Grand hall"; both groups assigned mystical significance to the rest of the Tomb.
+
+Appendix
+Appearances
+Adventures
+Desert of Desolation
+References
+
+---
+
+## Green Sword River
+
+The Green Sword River was an eastern tributary of the River of Swords in the Old Empires region of east Faerûn.
+
+Activities
+The river served as a passageway for werecrocodiles migrating to the Lake of Salt from the ruins of Sekras.
+
+Appendix
+
+References
+
+---
+
+## Great Mountain
+
+The Great Mountain was a divine realm within the Elemental Plane of Earth belonging to Grumbar, the power of elemental earth.
+
+Cosmography
+This realm existed within the Great Wheel cosmological model.
+
+Geography
+The body of Grumbar took up a great portion of this divine realm, with him being to physically a part of it. Whenever he had need to speak with a visitor, Grumbar would create an elemental pocket that was suitable for their survival, such as a pocket of air. The visitor would be made to face  high wall, wherein his face would materialize to speak with them. This face was said to look a bit different to each visitor. Some speculated that the face could be that of a mere proxy, rather than Grumbar himself, though there was no way of knowing for certain.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Great Funnel
+
+The Great Funnel was a divine realm within the Elemental Plane of Air belonging to Akadi, the power of elemental air.
+
+Cosmography
+This realm existed within the Great Wheel cosmological model.
+
+Geography
+This realm was a gigantic whirlwind, said to be so large that it could swallow whole planets in its wake. It was a mobile realm, drifting across the Elemental Plane of Air as Akadi willed, and the winds it generated spiraled outward all across the plane.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Grimwald's Revenge
+
+Grimwald's Revenge was an inn located in the city of Tilverton in the 14 century DR.
+
+Location
+The Revenge was in the middle of the Old Town atop the knoll, on the Street of the Sorceress.
+
+Activities
+The inn was actually owned by the Rogues of Tilverton, who mainly used it as a source of legitimate income and as a meeting place for traveling merchants and caravan masters who were willing to trade directly with them and fence items. The walls of the inn were sound-proofed, making it a perfect location to operate illicit ventures, and an abundance of hidden passages and secret panels allowed the thieves to rob easy targets staying at the inn. In fact, each and every one of the stairpost knobs twisted off to reveal a cache of items including a dagger, garotte, face masks, and an individual packet of dust of disappearance. The Revenge was also connected to the sewers beneath Tilverton by secret passages.
+
+Inhabitants
+The inn was run by Hasantasser Bloodshoulder in the 1350s–1360s DR. The inn seemed to have a steady population of frogs that were always hopping about.
+
+History
+The inn was named for the wizard Grimwald and his so-called vengeance on those whom he believed wronged him. The story claimed that his enemies transformed a beautiful creation of his, and his revenge would involve turning them into frogs and seizing their possessions.
+
+Appendix
+References
+
+---
+
+## Grimwald (Tilverton)
+
+Grimwald was a skilled wizard who lived in Tilverton.
+
+History
+Grimwald reportedly threatened vengeance on those who destroyed a magic item he crafted that could turn people into frogs and allow him to steal their goods. Grimwald's Revenge, an inn found in Tilverton, was named in his "honor." The inn even had a small population of frogs living within its walls.
+
+Appendix
+References
+
+---
+
+## Granite Tower (Shining Falls)
+
+The Granite Tower was a tower in the halfling village of Shining Falls in the Delimbiyr Vale.
+
+Location
+It stood at the center of Shining Falls, with all the village's roads forming concentric rings around it or else radiating from it.
+
+Structure
+Dominating the small village, it was a keep that stood roughly  tall and comprised eight stories. It had an octagonal shape, was built of granite, and was bedecked with architectural gargoyles and grotesques. These were similar to those that adorned the bridge over the River Delimbiyr in Loudwater. Opinions varied as to whether it was ornate or gaudy, a work of art or an eyesore.
+
+Surrounding its base was a wall (a later addition to the tower), forming a close courtyard within, and a moat. Though the water was clean and fresh, its source was unknown. On the southern courtyard wall was a small squat tower that served as the town armory for its militia.
+
+History
+According to local theories and the Hegredathas, a written history of the Delimbiyr Vale, the Granite Tower was built by the master dwarven builder Iirikos Stoneshoulder, who built the bridge in Loudwater. Proponents of the theory pointed to the similar stonework and grotesques as proof. The Hegredathas related the story that Iirikos was commissioned by Silifrey the Spraystrider, an Illuskan wizard rumored to practice dark magic. Ignoring the warnings and pleas of his elven friends, who were left bewildered by his choice, Iirikos built the Granite Tower swiftly using summoned elementals. But he also installed magical wards that would activate and destroy any who worked evil magic within its walls. Silifrey was slain before a month had passed.
+
+Afterward, several settlements grew up around the Granite Tower over the centuries, with nearly half-a-dozen human communities and at least two elven ones. But, without fail, every one of them suffered the mysterious disappearance of nearly all its residents, with the reason for or connection between these disappearances unknown.
+
+The latest known was that of the elven colony of Thelthin'dul. Some time before 1272 DR, their caravan to Loudwater returned and discovered all of the citizens had vanished. The few remaining elves in the caravan refused to ever come near the place, so their caravan guards, the Fengrath family of mercenaries, moved into the Granite Tower and declared themselves rulers of the renamed town. No one contested their claim.
+
+Inhabitants
+Since they moved in, the Granite Tower was home to the Fengrath family, the rulers of Shining Falls, from Walenburh Fengrath to her great-grandson, Deogol Fengrath, circa 1372 DR. They lived there with their family, servants, and guards, who tended also to be family, as well as Deogol's shield guardians and other constructs. He worked on his crafts and magic inside the tower.
+
+Rumors & Legends
+By the late 14 century DR, folk feared that the Granite Tower was cursed or still haunted by the vengeful spirit of Silifrey the Spraystrider, and moreover that she sometimes went on rampages and was the cause of the disappearances. Legends added hidden tunnels beneath the tower and village that housed the undead skeletons of all those who'd vanished over the years. The strongheart halflings of Shining Falls scoffed at such stories.
+
+One fellow in the village claimed to have seen skulking inside the keep an unusual dwarf-like creature with pale skin, bulbous eyes that lacked both pupils and irises, and ugly face muttered insanely. However, Deogol's guards were unsurprised and the witness believed Deogol had summoned it through magic.
+
+Appendix
+References
+
+---
+
+## Great War of the Burrow
+
+The Great War of the Burrow was, allegedly, a historic event that took place in Purfbin Doogrick's home burrow, sometime before 1372 DR.
+
+History
+The Great War of the Burrow was fueled by one of the strongest gnomish emotions - hunger. One of the War's great heroes was Fizbang Blartknocker, a famous individual, among those who hailed from the same burrow Purfbin Doogrick was born in, somewhere in Faerûn.
+
+Appendix
+Appearances
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+References
+
+---
+
+## Grigel Ragenev
+
+Grigel Ragenev was an alchemist working for the Cult of the Dragon in . Two days after the dracorage mythal was destroyed, on Nightal 8, the white dragon Ssalangan accused him and the other cultists of deceiving them that the Rage of Dragons of that year would never end. Though Grigel explained that Sammaster had told them as much as he told the dragons and Ssalangan believed him, the dragon decided to eat him anyway.
+
+Appendix
+Appearances
+Novels
+''The Ruin
+References
+
+---
+
+## Grannoc
+
+Grannoc was an anchorite of Talos who grew and nurtured a Gulthias tree in the late 15 century DR.
+
+Description
+Grannoc was a half-orc who dressed in hide armor and was a devout follower of Talos, the god of storms. He was known to perform eerie dances while invoking his god, and to become enraged if anyone dared to interrupt him.
+
+Abilities
+As an anchorite of Talos, Grannoc was blessed by his god with storm-themed spells, including the ability to cast lightning bolt, and was also a shapechanger who could adopt the form of a boar. Thanks to his connection with the Gulthias tree he had nurtured, Grannoc also possessed the unique ability to command any blights spawned from the tree.
+
+Possessions
+Grannoc was the only member of the anchorites of Talos known to keep a map that marked the location of their headquarters at the sacred Circle of Thunder in southern Neverwinter Wood.
+
+History
+During the late 15 century DR, Grannoc was a member of the anchorites of Talos who venerated their god's servant, Gorthok the Thunder Boar, at the Circle of Thunder.
+
+At some point not long before the arrival of the white dragon Cryovain in the region, Grannoc travelled to the ruins of the Woodland Manse not far from the Circle of Thunder, and planted a Gulthias tree at the bottom of the well. He then took over the ruin as his base, and used the evil tree to nurture and grow twig blights and vine blights that obeyed only him. He sent these blights to range throughout Neverwinter Wood and harass the anchorites' enemies, and several were sent back to the Circle of Thunder to bolster the site's defenses. Meanwhile, three more anchorites joined Grannoc at the Woodland Manse to oversee the raising of pumpkins and boars for the organization's food supply and rituals.
+
+After Cryovain drove the orcs from Icespire Hold in the Sword Mountains, many sought refuge with the anchorites. A contingent took up residence in the Woodland Manse under Grannoc's supervision, and alongside his blights, they used the ruin as a staging ground to launch attacks on Neverwinter hunters at Falcon's hunting lodge. Grannoc himself remained at the Manse, and performed profane rituals involving the consumption of possum entrails to beseech Talos for aid in destroying the hunters.
+
+Appendix
+Appearances
+Adventures
+Dragon of Icespire Peak
+References
+
+---
+
+## Great Conflagration (war)
+
+The Great Conflagration was a decade-long cataclysm that occurred between the nations of Narfell and Raumathar between  and .
+
+Description
+In addition to the traditional clashing of opposing armies, Narfell and Raumathar used their sorcerous might to summon powerful allies to fight for them. These included demon lords and even the avatar of Kossuth.
+
+Location
+The Great Conflagration was spread across the lands between Narfell and Raumathar in northeast Faerûn.
+
+Activities
+A cabal in Narfell beseeched Kostchtchie for aid and he sent an army of frost giants to march under Narfell's banner. They marched south from the Icerim Mountains while other Nar forces invaded the lakelands of Shemen. The Raumathari used stout elemental magic to drive the invaders back, but Narfell eventually broke through. The Nar attacked and destroyed Winterkeep.
+
+Raumathar retaliated by using fell magic learned from their former Imaskari masters, summoning a horde of white dragons who fought savagely to the death and shattered the forces of Narfell.
+
+The Warlord Thulkarr later invaded Narfell with an army of stone constructs. This force was aided by magical portals, allowing them to attack with complete surprise, eventually pushing the Nars back to Narjast. When the Raumathari forces reached Dun-Tharos the Nentyarch was persuaded to use a final resort (known as the "Dark Rift") and opened portals to the Abyss that created a planar rift which engulfed the invading army.
+
+Prepared to crush Raumathar once and for all, Nentyarch Rheligaun Darakh had the mighty demon Eltab summoned and persuaded him to lead their legions on a final assault into Raumathar. Eltab's forces pushed their way deep into enemy territory before suddenly halting the army. Eltab had become fascinated with the spirits native to the region and focused all of his attention on enslaving them to use for his own reasons.
+
+Narfell learned of a Raumathari surprise attack brewing in Kensten far to the south, so they abandoned Eltab and marched in haste. The ensuing battle was costly for both sides. Raumathar summoned a flaming avatar of Kossuth with the hopes of turning the tide in their favor, but the Lord of Flames annihilated both armies, leaving Narfell and Raumathar completely defenseless. Any remaining demons and other summoned combatants rampaged through both countries, destroying any living creatures they could find.
+
+Outcome
+Both Narfell and Raumathar were utterly destroyed with the end of the Great Conflagration.
+
+History
+The ruling dynasties during the Great Conflagration were the Talanthil Dynasty in Raumathar, and the Darakh Dynasty in Narfell. Both bloodlines were wiped off the face of Faerûn by the end of the conflict with Sorcerer–Arkhan Vayloss Talanthil IV being consumed by Kossuth's final assault, and the disappearance of Nentyarch Rheligaun Darakh.
+
+Rumors & Legends
+The conflict was described in part in the epic Rashemaar song, entitled the Firedawn Cycle.
+
+Appendix
+References
+
+---
+
+## Great Road
+
+The Great Road, also referred to by locals as simply the Road, was the single roadway that passed through the length of the Great Dale and that for many years separated the Dunwood and the Forest of Lethyr, in the Unapproachable East region of northeast Faerûn.
+
+Description
+It originated in the coastal city of Uthmere, along the Easting Reach, and continued east through the entirety of the dale until intersecting with the Cold Road at the hamlet of Kront.
+
+Geography
+Traveling the length of the Great Road on foot took approximately 15 to 20 days. The Dalestream ran parallel with the road for nearly half of this distance.
+
+History
+Construction of the Great Road itself was initiated by Lord Uthmere, the first ruler of his namesake city.
+
+The Great Road fell into disuse throughout the 15 century and was mostly overgrown as of the late 1470s DR.
+
+Rumors & Legends
+Long before humans "settled" the region of the Great Dale, a stretch of what would become the Great Road was the primary means of transportation between the elves of eastern Faerûn and Kara-Tur. This was achieved by means of a series of magical stones that could open a passageway to the eastern continent twice a year, on the vernal and autumnal equinoxes.
+
+During the Age of Humanity and the Era of Upheaval, this secret was well-protected by the druids of the Circle of Leth.
+
+Notable Locations
+Situated along the Great Road were about a dozen minor clanholds, including Carwyth Hold, Noonym's Hold, and Thy's Hold.
+
+Landmarks
+ Evrelthed's Hill, a small farmstead situated about a half-day's walk north of the road.
+ Great Barrow, a massive burial mound that was rumored to predate the ancient empire of Narfell.
+
+Settlements
+ Kront, the small crossroads town that hosted visiting traders from neighboring lands, including Thesk, Rashemen, and Narfell.
+ Mavalgard, a minor keep and surrounding village founded by the Impilturan family of Clan Maval.
+ Uthmere, the small coastal city that was wrecked by an earthquake but remained as a small village.
+
+Appendix
+References
+
+---
+
+## Greensleep mushroom
+
+Greensleep mushrooms were a fungus found in the Moonsea.
+
+Description
+The fungus was green color and could be ground into powder.
+
+Usage
+This mushroom could cause drowsiness if consumed. Rumors spoke of agents of the Cult of the Dragon using greensleep for vile purposes. When eating the mushroom, lethargy would usually set in after 2 hours.
+
+History
+Around the, the Cult of the Dragon spy Verik sought to poison the drinking water of a small village outside Phlan with ground greensleep mushrooms. He was working under the command of Ixas who was searching for a fiendish item of power.
+
+Appendix
+Appearances
+Licensed Adventures & Organized Play
+Shadows over the Moonsea
+
+References
+
+---
+
+## Grand Design
+
+The Grand Design was an illithid philosophy that involved the re-establishment of the once-great Illithid Empire.
+
+Description
+
+The idea of the Grand Design was to rebuild the lost empire of the mind flayers. Mind flayers would work on accomplishing the Grand Design as soon as they had established their colonies.
+
+Part of the Grand Design involved enslaving (or eliminating) all gith, as they once had, as well as other humanoids. To achieve the Grand Design, illithids spent much time studying different phenomena and subjects, such as the culture of other creatures.
+
+Illithid colonies had different methods of contributing to the Grand Design. Some may have thought to rediscover the method of creating nautiloids, whilst others may have thought to find and destroy the homes of the gith.
+
+Resistance
+
+Not all mind flayers wished to further the efforts of the Grand Design. In the 15 century DR, an illithid, known as Omeluum, had broken free from the elder brain's influence. As such, it no longer served the Grand Design.
+
+History
+In the, an elder brain in the Western Heartlands manipulated the chosen of the Dead Three into "enslaving" it with an ancient artifact, in order to further the schemes of their gods. In truth, the elder brain sought inflict ceremorphosis upon hundreds of thousands of innocent mortals in the city of Baldur's Gate and the Sword Coast beyond, in furtherance of the Grand Design.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Green Hag of Lizard Marsh
+
+The Green Hag of Lizard Marsh was a green hag witch and a cookbook author of the Witch's Brew Cookbook, who feuded with a lizardman shaman Uzzak-Szalzik from a neighboring village in the Lizard Marsh of the Sword Coast circa 1372 DR.
+
+Description
+The old and wrinkled Green Hag of Lizard Marsh had a jovial personality (for a hag), who reserved malice for her enemies and foes, preferring to sell her foul potions and concoctions to occasional visitors. She had thick, greasy black hair and yellow stained rotting teeth.
+
+Abilities
+The Green Hag of Lizard Marsh had many arcane talents. She knew how to brew a wide variety of foul-smelling and exotic potions, including a concoction that was applied topically, instead of being ingested, and acted as a polymorph spell. Another putrid potion could be sprayed on the target to have the  polymorph dispelled.
+
+Stinkweed, stinkberry, toad tongues, snake stomaches, and extra spicy bat dung were among ingredients she used to make her potions.
+
+The Green Hag commanded an army of swamp frogs. She also was highly proficient in divination and often peeked into the future. When her predictions were off by a day or so, the hag showed mild annoyance and impatience.
+
+History
+By 1372 DR, the Green Hag was already quite old. The witch lived alone, surrounded only by creatures of the swamps whom she befriended. At some point in her past a warrior snuck into the Green Hag's home in attempts to kill and rob the old witch. But a falcon saw the intruder and woke the witch with a loud screech. Thankful for saving her life, the Green Hag of Lizard Marsh polymorphed the falcon into a young human lass she named Soliana. The new daughter was the apple of hag's eye. Even though the falcon-maid liked her human existence, the Green Hag crafted an enchanted necklace for her daughter. If Soliana were to ever grow tired of being a human she only needed to whisper "rablak" three times into the necklace to be returned to her original feathered form. They were close. She spent countless nights at the swamp listening to toads croak, brushing the child's long brown locks. The hairbrush was a sentimental trinket that the hag's daughter gifted to her. In the green-hag fashion, it was made of bones and ribs of various marsh creatures. Eventually, the daughter matured and ran away with a handsome knight to the city of Baldur's Gate.
+
+Sometime after the daughter's departure, the Green Hag came to feud with a fellow shaman and witch doctor from a lizardfolk tribe nearby. Uzzak-Szalzik harbored deep resentment for the hag for some undisclosed reasons, and in 1372 DR, he snuck into her lair and stole the daughter's hairbrush with a tangle of hag's own hair. Using that, the shaman crafted an effigy to place a nasty curse on the hag. Under the effigy's dark magics, the Green Hag of Lizard Marsh erupted is annoying rashes as if bitten by fire ants, and more importantly, she lost her precious heirloom. She attempted to retrieve the stolen items by sending an army of swamp frog into the lizard village but the amphibians never returned and the hag could smell the odor of fried frog across the bog.
+
+This theft came to the attention of Redeye, a lizardfolk who wanted to fold the Uzzak-Szalzik's tribe under his rule. The humanoid lizard came across the Hero of Daggerford who was investigating strange occurrences in the environs of Daggerford. Seizing this opportunity, Redeye asked the Hero to stash a stolen egg of the lizardfolk tribe black dragon patron in the chieftain hut. To do so, the Hero was sent to the hag, who also sought revenge on the lizard shaman and retrieval of her precious hairbrush. The Green Hag of Lizard Marsh placed a powerful polymorph spell on the Hero and their allies to help them sneak into the lizard territory. Subsequently, the Hero stole the hag's effigy and Uzzak-Szalzik's knife, allowing her to counter-curse her vile opponent with a nasty case of dragon lice. When the Green Hag received her hairbrush, she was overjoyed, clutching the item to her chest and tearing up.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Great Wolf's Fury
+
+The Great Wolf's Fury was an enchanted spear wielded by Raika in the late 15 century DR.
+
+Description
+The enchanted polearm was topped with a thick split metal tip, shaped like the symbol for the number "2" in the Iokharic script. The same symbol glowed on the spear's head. The metal edges of the spearhead glowed with same magical energy.
+
+Powers
+The Great Wolf's Fury was enchanted to deal additional magical damage and quickened the wielder so they could land two swift strikes in place of one.
+
+History
+The Great Wolf's Fury was forged and ensorcelled by Laeral Silverhand out of broken swords of a hobgoblin bounty hunter gang that had been defeated by Raika. The half-orcish barbarian claimed that she had been overcome by the spirit of the Great Wolf, aiding her in the battle.
+
+Notable Owners
+
+Raika: a half-orc barbarian from the city of Waterdeep and an adventurer who worked with other warriors of Waterdeep, performing missions on behalf of Laeral Silverhand in the late 15 century DR. Raika also had received from Silverhand the Great Wolf's Mark, the maul of focused destruction, and the seal of harmony.
+
+Appendix
+Appearances
+Video Games
+Warriors of Waterdeep
+
+References
+
+---
+
+## Greater mage armor
+
+Greater mage armor was a simple spell used by sorcerers and wizards.
+Effects
+Like mage armor, this spell allowed the caster to create an armor for themselves out of magical force.
+Components
+Unlike mage armor, this spell did not require a material component, only verbal and somatic components. An earlier version required a material component, a tiny platinum shield worth 25 gp.
+Appendix
+References
+
+---
+
+## Groonpeck
+
+Groonpeck was a scholar who authored the obnoxiously named book Groonpeck's Field Guide to Terrifying Denizens of the Air, with special appendices for Acheron, the Elemental Planes, and the Abyss sometime long before 1217 DR.
+
+Description
+Groonpeck's reputation was that of not the greatest scholar.
+
+History
+In 1217 DR, Groonpeck's Field Guide to Terrifying Denizens of the Air was used by Lorenzo Utrelli Da Lomarta and his love interest Princess Milianna Mannicci da Sumbria to identify a strange huge seemingly intelligent bird they befriended by accident. The huge bright orange-plumed beast named Tekorriikii was a firebird, a "sacred, untouchable, and extremely dangerous" beast to be avoided at all cost. Even though the book claimed firebirds to be such, the reality proved otherwise.
+
+Appendix
+Appearances
+Novels
+
+The Council of Blades
+References
+
+---
+
+## Groonpeck's Field Guide to Terrifying Denizens of the Air, with special appendices for Acheron, the Elemental Planes, and the Abyss
+
+Groonpeck's Field Guide to Terrifying Denizens of the Air, with special appendices for Acheron, the Elemental Planes, and the Abyss was an overlong-titled book from the Blade Kingdoms, penned by scholar Groonpeck sometime long before 1217 DR.
+
+Contents
+Groonpeck's Field Guide was a voluminous tome that collected information on various dangerous avian creatures, including those found in various Elemental planes and the dreaded Abyss. Each entry in the book was accompanied by a well-drawn illustration of the beast, including such obscure creatures as firebirds—distant relatives of phoenixes.
+
+History
+In 1217 DR, Lorenzo Utrelli Da Lomarta and his love interest Princess Milianna Mannicci da Sumbria were able to identify a strange huge seemingly intelligent bird they befriended by accident. The huge bright orange-plumed beast named Tekorriikii was a firebird, a "sacred, untouchable, and extremely dangerous" beast to be avoided at all cost.
+
+Appendix
+Appearances
+Novels
+The Council of Blades
+
+References
+
+---
+
+## Greatwyrm
+
+Greatwyrms were dragons that had achieved godlike abilities, approaching the powers of the aspects of Tiamat and Bahamut.
+
+Abilities
+Greatwyrms were massive, exceeding the size of any other kind of dragon and rivalling the largest creatures in existence. Although their exact powers varied with each type of greatwyrm, in general all greatwyrms had abilities that allowed them to return to near-full strength just before death. They also all possessed extraordinarily heightened dragonsight, which allowed them to be aware of events and activities across many worlds of the Material Plane. Many of their other abilities were more powerful versions of those of the normal chromatic, metallic, or gem dragon from which the greatwyrm had ascended:
+
+ Chromatic greatwyrms were cloaked in the power of their dragon breath, and were able to make spears out of arcane power.
+ Metallic greatwyrms could summon maelstroms of elemental power, and their breath was able to drain the energy of their foes.
+ Gem greatwyrms appeared to be made of diamond, and possessed incredibly powerful psionics, especially telekinesis.
+
+Society
+According to Fizban the Fabulous (one of Bahamut's aspects), greatwyrms were normally created when ancient dragons, usually at least twelve centuries old, ate or ritually merged with their "echoes" from other worlds, or consumed their energies in other ways. A powerful dragon could be helped along this path by one of the dragon gods.
+
+Becoming a greatwyrm was akin to achieving apotheosis, and thus many greatwyrms were considered deities and worshiped by humanoids and other mortal races. While other dragons respected the power of the greatwyrms, they did not worship them nor regard them as gods.
+
+Notable Greatwyrms
+ The Thanes of Sardior, a group of five greatwyrms (one of each of the five types of gem dragons) who intended to absorb every one of their echoes with the ultimate goal of coming together and reforming Sardior.
+ Aasterinian, a brass greatwyrm who served as a messenger for the dragon gods, and was often considered a goddess of invention.
+ Ashardalon, a red greatwyrm who devoured his echoes with the aid of a balor.
+ Astilabor, a topaz greatwyrm who was considered a goddess of greed.
+ Chronepsis, a black greatwyrm who was considered a god of fate.
+ Laerahkralan, who covertly interfered in affairs of state throughout the Shining South
+ Lendys, a silver greatwyrm renowned for enforcing justice among dragonkind, and thus often considered a god of justice.
+ Tamara, a silver greatwyrm sometimes considered a goddess of life and mercy.
+ Velsaertirden, a steel dragon greatwyrm sage
+
+Appendix
+See Also
+ Dragon ascendant, a dragon that achieved godlike powers via a different approach than becoming a greatwyrm.
+
+ Gallery
+
+References
+
+---
+
+## Grampalt Highlands
+
+The Grampalt Highlands was small mountain range located on Oman's Isle within the Moonshae Isles.
+
+Geography
+The mountains covered much of the southern half of Oman's Isle, stretching for  from one coast to another. They were between – wide on average. The Grampalt Highlands formed much of the northern border of the Strait of Oman. The Old Stone Wood bordered the mountain's western edge, while a swamp was found on the eastern side.
+
+Inhabitants
+The Grampalt Highlands were inhabited by giants known for raiding nearby human settlements. Fomorians from the Feywild later joined the giants.
+
+History
+In the, the fomorians arrived in the mountains and led a giant conquest of Oman's Isle.
+
+During his reign as King of Oman, Thelgaar Ironhand determined the giants of the Grampalt Highlands to be a major threat. He led his soldiers against them while wielding a mighty giantslaying greatsword known as Ironhand's Reckoning, which he had ordered to be created specifically for this conflict.
+
+Notable Locations
+ Icepeak, the tallest mountain on Oman's Isle.
+ A portal to Vor Thomil in the Feywild, which was heavily guarded by order of the fomorian queen, Connomae.
+
+Appendix
+References
+
+---
+
+## Greenleaf
+
+Greenleaf was the name given to a number of enchanted leather armors of elvish making.
+
+Description
+These sets of armor were cleverly design to resemble the leafage of elven forests.
+
+Powers
+Greenleaves possessed potent +5 enchantment that increased the wearers abilities to hide and meld into shadow or into the greenery of the forest.
+
+History
+Originally crafted by elven armorers to defend their homes, after the exodus of the Calling, some of the Greenleaf leathers fell into the hands of adventurers, and later sold through black markets by the late 14 century DR. Even though The Retreat was over by that time, not many elves expressed their opinions of the scavenged sets of enchanted armor that was taken from their old homes.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights • Neverwinter Nights: Hordes of the Underdark • Neverwinter Nights 2 • Neverwinter Nights 2: Mysteries of Westgate • Neverwinter Nights: Tyrants of the Moonsea)
+
+References
+
+---
+
+## Greater antidragon aura
+
+Greater antidragon aura was a protective spell used by clerics.
+
+Effects
+When cast, this spell created a protective aura around the targets that glowed with a phosphorescent green. It provided extra protection against attacks and and resistance to spells from all sources, not just dragons and their ilk. For them, it also provided significant shielding against their spells. Additionally, it protected against any attempt by a dragon to possess or influence a creature's mind, as with protection from evil. Finally, if dragons and related creatures did manage to strike a protected creature, then they would suffer a loss of strength.
+
+This spell increased the strength of
+
+Components
+In addition to verbal and somatic components, the spell required a focus: a container, such as a reliquary, that held a sacred relic. The relic was often a piece from the sword of a dragon slayer. The sacred relic had to have a value of at least 500 gp.
+
+Appendix
+References
+
+---
+
+## Graygruun
+
+Graygruun was an island within the kingdom of Norheim in the Moonshae Isles.
+
+Geography
+Graygruun was found toward the center of the Norheim Isles, just east of the large island of Giantspine. It sat at the end of Northwind Strait where the Sea of Moonshae met the Trackless Sea. Graygruun was only  long and about  wide.
+
+Notable Locations
+ Greystaad
+
+Appendix
+References
+
+Connections
+
+---
+
+## Greystaad
+
+Greystaad was a Northlander settlement on the island of Graygruun in Norheim in the Moonshae Isles.
+
+Geography
+The village was located on the southern end of the island on Northwind Strait. Greystaad was the only major settlement on the island.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Grady
+
+Grady was a small coastal town located in the kingdom of Callidyrr on the island of Alaron within the Moonshae Isles.
+
+Geography
+Grady was located along the High King's Road in southern Callidyrr in the county of Stirgewick. The town sat along the eastern coast with the Strait of Alaron just west of Rushdown Wood.
+
+Appendix
+References
+
+---
+
+## Grondsgrunn
+
+Grondsgrunn was a region of the island of Norland within the Moonshae Isles that was controlled by giants as of the late 15 century DR.
+
+Geography
+Grondsgrunn was found in the southern region of Norland where the South Jotunhammer Mountains were located. As of the, the giant-controlled territory ended at the pass that separated the South Jotunhammer Mountains from the North Jotunhammer Mountains.
+
+History
+As of the mid–14 century DR, this region had been controlled by the Northlander realm of Norland, however Grondsgrunn came into being when giants, most notably firbolgs, claimed the area as a colony. By the late 15 century DR, the giants had become firmly entrenched, and had thwarted several attempts by the Northlanders to dislodge them. At this time, a volcano within the realm was threatening to erupt, and anxieties about this threat risked driving the giants northward into increasing conflict with the Northlanders. The combined forces of the Northlanders and the Ffolk of Norland were able to successfully repel the increasingly common giant incursions into their lands.
+
+In the, the Storm Maiden of Norland sought to rally the Northlanders to purge the giants from the island, and had successfully forayed into the South Jotunhammer Mountains and slain some Grondsgrunn patrols to prove her ability to lead such a conquest.
+
+Inhabitants
+As of 1479 DR, the largest band of firbolgs was led by the crone Lallargh, who had sought to unite the giants and forge alliances with duergar and other evil mercenary forces to lay siege to Rogarsheim.
+
+Notable Locations
+As of the late 15 century DR, several coastal Northlander settlements fell within Grondsgrunn's sphere of influence, including Sordal, Sommersdal, and Follebu.
+
+Appendix
+See Also
+ Grond Peaksmasher
+Notes
+
+References
+
+Connections
+
+---
+
+## Graystone
+
+Cantrev Greystone was a small coastal town located on the island of Gwynneth within the Moonshae Isles.
+
+Geography
+Graystone was located in southwest Gwynneth in the kingdom of Corwell along the coast of the Trackless Sea. The town was situated along the southwestern fringes of Kimball Moor north of the Mere Adammair.
+
+History
+The town was founded in the, by Lord Kimball.
+
+Appendix
+References
+
+---
+
+## Groundling
+
+This article is about the creature. For the general term that spelljamming folks applied to planet-bound persons, see groundling on the Spelljammer Wiki.
+
+Groundlings were monstrous hybrids between dwarves and giant badgers created by the Zhentarim to serve as assassins.
+
+Description
+Groundlings had the general short and stocky physique of dwarves, and could be mistaken for dwarves from a distance. However, they were covered in wild and coarse fur, and had long snouts, small ears, and narrow eyes that gave them a badger-like appearance. They had large fangs and powerful, blade-like claws. They were said to always reek of rotting meat.
+
+Behavior
+Groundlings preferred to remain underground or in their burrows, and could become dazed or confused if exposed to bright lights. They were voracious, and needed to eat a lot in order to fuel their magically-enhanced burrowing powers. They would eat almost anything, but preferred meat.
+
+They were not very intelligent, but were nevertheless cunning when it came to planning traps or ambushes.
+
+Abilities
+Owing to their magically enhanced bodies and claws, groundlings could dig at remarkable speeds, even tunneling through packed dirt with little difficulty. They had an amazing sense of smell, making them very good trackers, but had bad eyesight and were highly sensitivity to light. As they had originally been dwarves, they maintained dwarven resistances to magic and poison.
+
+Combat
+When possible, groundlings preferred to prepare for battles by setting ambushes, readying attacks from multiple angles, and planning feigned retreats. They used their burrowing abilities to flank enemies from below in order to gain tactical advantages and the element of surprise. Their favorite tactic was to explode up from the ground at a target's feet, spraying them with dirt and dust, before grabbing them with their claws and dragging them into their tunnels where they had the advantage.
+
+When groundlings killed a victim, they preferred to eat it.
+
+Society
+Groundlings were created in the laboratories of Darkhold by evil Zhentarim wizards. It was unclear whether they could breed, and these cruel experiments were the most common source of new groundlings.
+
+The Zhents used groundlings to track down and assassinate targets. They regulated the groundings using a tightly-controlled "guild" that assigned missions and dictated rules, the most notable of which being that groundlings were forbidden to kill except as part of a mission. Groundlings had no social structures or culture beyond these guild rules. While they hated their lives of forced servitude, they rarely defied orders. They were conditioned to believe that if they served long or well enough, they would be returned to their old dwarven selves (although there is no record of the Zhentarim ever granting such a reward).
+
+Most groundlings dwelt in the dungeons beneath Darkhold when not out on a mission. When travelling, they would dig small, shallow warrens in which to hide from the sun during the day.
+
+Language
+Most groundlings knew at least a few words in Common and many could hold simple conversations, although they snarled when they spoke.
+
+History
+Groundlings serving the Zhentarim were active in the 14 century DR. In the, groundlings were sent to assassinate Prince Azoun Obarskyr IV of Cormyr, but they were inadvertently thwarted by Artus and Scoril Cimber.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Greymantle
+
+Greymantle was a Chondathan town built near the Nagawater to supply Chondathan armies with horses from the Golden Plains.
+
+History
+Greymantle was established during the period of time known as the Calmwaters, a century of relative peace and prosperity in Chondath that lacked any significant historic events. Greymantle's founding year was sometime between the, the assassination of Florentine Dempster of Turmish, and the, the year dwarves of Alaoreaum revealed themselves to the humans of the Vilhon Reach.
+
+Appendix
+References
+
+---
+
+## Green's Rest
+
+Green's Rest was a well-regarded inn & tavern in the city of Waterdeep in the late 15 century DR.
+
+Interior
+The interior of Green's Rest featured a dining area with a bar and enough tables to comfortably sit thirty people. In addition to windows shining light into the room, a green driftglobe above the bar provided illumination.
+
+Atmosphere
+This establishment was known to be rather well kept, having enough frills and rough edges to make most patrons comfortable.
+
+Services
+Among the provendor of this establishment, it was particularly known for its bread and honey mixed with cinnamon.
+
+Inhabitants
+This establishment was operated by the couple of Duric and Zelphin Green.
+
+History
+On a busy night with no overnight customers in the 15 century DR, a bar brawl broke out in the Green's Rest that left a strange treasure map in its wake that was marked in glyphs. The next day, Duric Green approached a group of adventurers to enquire if it belonged to them. Though it did not belong to them, Duric decided to give it to them anyways, offering the adventurers free drinks and a meal if they returned with an entertaining story, as well as a cut of whatever treasure they might come across.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+The Map with No Names
+
+References
+
+---
+
+## Greater shadowrath
+
+Greater shadowraths, which were also called abysskin, were a powerful form of undead that had a connection with the dangerous artifact known as the Crown of Horns.
+
+Description
+A greater shadowrath appeared as they did when they were alive with the exception of their lack of eyes, skeleton, and internal organs. These missing parts were replaced with pure negative energy that was somewhat concealed by the clothing or armor worn at the time of their death. The crackling black negative energy was visible through the creature's eyes, open mouth, and any wounds.
+
+Personality
+These creatures retained the intelligence they possessed in life.
+
+Combat
+Any magical or psionic abilities acquired by a lesser shadowrath during their life were lost upon their transformation. The touch of a greater shadowrath caused intense pain in the target as well as draining a portion of their lifeforce. Any victim drained of their entire lifeforce suffered an irreversible death.
+
+Society
+These creatures often acted as bodyguards for whoever wore the Crown of Horns. They followed any commands given by the Crown bearer, and often led groups of lesser shadowraths. If left uncontrolled for some reason, a greater shadowrath sought to destroy spellcasters or followers of Mystra.
+
+History
+Greater shadowraths were created by the "Myrkul's Hand" power of the Crown of Horns.
+
+Appendix
+See Also
+ Lesser shadowrath
+
+References
+
+---
+
+## Groaning Cave
+
+The Groaning Cave was a secretive cave found in the elven city of Evereska.
+
+Description
+Formed within one of Evereska's numerous hills, the entrance to the Groaning Cave was set upon a stone terrace and surrounded by a railing.
+
+While its exact contents were only known to the Evereskan high mages, the cave was known to some to hold the city's extensive archives. It was also believed to safeguard myriad of priceless elven treasures.
+
+Geography
+The cave could be found in the northern end of Evereska, just beyond the Hall of the High Hunt.
+
+Rumors & Legends
+Some said that the depths of the cave housed the mythal that enveloped and protected Evereska and the outskirts leading to the Vine Vale.
+
+Appendix
+Appearances
+Novels
+
+The Summoning
+References
+
+---
+
+## Green Huldra
+
+Green Huldra was a retired Rashemaar warrior and innkeep inhabiting Immilmar in Rashemen in the .
+
+Description
+Green Huldra was missing an eye from a terrible fishing accident. She was over 60 years old as of 1367 DR.
+
+Activities
+She opened the Guardian Witch inn soon after her accident. Ten of her grandchildren helped run the establishment.
+
+Appendix
+References
+
+---
+
+## Great Imperial Library
+
+The Great Imperial Library was one of the rooms of the Palace of the Purple Emperor in Raurin. It was of such singular notoriety that scholars knew of it even millenia afterwards: the dwarven geomancer Thormud Horn made special note of it while relating the fabled contents of the Palace of the Purple Emperor in the .
+
+Appendix
+Appearances
+Novels
+
+Darkvision
+
+References
+
+---
+
+## Granite destrier
+
+A granite destrier was an elemental of bizarre appearance, with a broad, flat, strong back. The dwarven geomancer Thormud Horn could summon one for transport.
+
+Description
+The granite destrier summoned by Thormud Horn had a vague shape with six pillar-like legs, a vulpine head, and two seat-like depressions on its flat back. It was probably made of granite.
+
+Abilities
+Granite destriers carried extremely large loads tirelessly and as fast as the fastest horse at full gallop. They were not impeded by most terrain, being perfectly capable of making treks across hills or even mountains. The number of seats was adjustable by the summoner.
+
+Combat
+The granite destrier that Thormud Horn summoned never engaged in combat, even on those occasions its master was in mortal danger.
+
+Notable Granite Destriers
+Thormud Horn summoned a granite destrier in the, as he habitually did when he needed to travel.
+
+Appendix
+Appearances
+Novels
+Darkvision
+
+References
+
+---
+
+## Great Stag lodge
+
+The Great Stag lodge was a lodge of Rashemaar berserkers active within Rashemen as of the mid–14 century DR.
+
+Base of Operations
+The Great Stag lodge was based in Mulptan. A Great Stag longhouse was always guarded by a telthor stag.
+
+Activities
+Berserkers of the Great Stag lodge rushed wildy into combat, usually past or through other allies in order to strike at their enemies.
+
+Appendix
+References
+
+---
+
+## Grimlock language
+
+The grimlock language was the spoken language seemingly unique to grimlocks, a species of underground-dwelling humanoids that isolated themselves from other races in the Underdark. It was technically a dialect of two other languages common among subterranean beings, Terran and Undercommon.
+
+The parent languages of the grimlock dialect were commonly spoken throughout Fingerhome, an expansive series of caves the grimlock race regarded as their home.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Great Fires (Shining Plains)
+
+The Great Fires was a disastrous even that took place in 1355 DR and ravaged the Shining Plains region of the  Vilhon Reach.
+
+Description
+It was unknown who or what caused the Great Fires, however that did not stop the Church of Talos from taking credit for the destructive event.
+
+Outcome
+Followers of the Destroyer erected a stone shrine in the Shining Plains to commemorate the Great Fires.
+
+Appendix
+References
+
+---
+
+## Graffen Disteaf
+
+Graffen Disteaf was a member of the Sembian High Council in Sembia in the late 14 century DR.
+
+Description
+Graffen was a stately but old individual.
+
+Relationships
+Graffen was a fervent supporter of fellow councilor Mirabeta Selkirk.
+
+History
+In the, after the death of Kendrick Selkirk, Highspeaker Dernim Lossit summoned the Council on Marpenoth 10 in order to elect the new Overmaster. The two main candidates were Countess Mirabeta Selkirk and Endren Corrinthal of Saerb. Graffen, alongside two other councilors, proposed the candidacy of Mirabeta. After the Council descended into chaos following the accusation against Endren of having killed Kendrick, many started to fight and Graffen received a hit on his head.
+
+Appendix
+Appearances
+Novels
+Shadowbred
+
+References
+
+---
+
+## Grand Revel (Midsummer)
+
+The Grand Revel was a holiday celebrated during Midsummer by the faithfuls of Milil. During this holiday there was much feasting, dancing, and the performing of parodies and wicked satirical songs.
+
+Appendix
+
+References
+
+---
+
+## Grove
+
+Grove might refer to:
+
+ The Grove, the main temple of the Eldathyn worship located in the city of Cedarsproke.
+ The Grove (Elmwood), the druid circle dedicated to Eldath in the city of Elmwood.
+ Grove of Meditation, a pine tree grove in Synnoria of the Moonshae Isles.
+ Grove of the Unicorns, the devine realms of Mielikki.
+ Mooshie's Grove, the home of Montolio Debrouchee in the Rauvin Mountains.
+
+---
+
+## Greater shadow evocation
+
+Greater shadow evocation, also known as demi-shadow magic (or demishadow magic) and Shadow's demimagic, was an illusion spell that created semi-real duplicates of arcane evocation spells. It was a superior version of the shadow evocation spell.
+
+Effects
+The spell enabled the caster to tap into the energies of the Plane of Shadow to create shadowy imitations of powerful spells such as cone of cold, wall of fire, wall of ice, cloudkill, and the like.
+
+If a target recognized an offensive spell to be an illusion, that spell lost much of its potency.
+
+Components
+The spell used verbal and somatic components only.
+
+History
+The spell was originally devised by the Netherese arcanist known as Shadow in 3272 NY (−587 DR), and was originally called Shadow's demimagic. This was simplified to demishadow magic by the mid-to-late 14 century DR, although the spell was not commonly encountered in Faerûn by that time. It ultimately came to be known as greater shadow evocation.
+
+The spell was a favorite of cloaker lords.
+
+Appendix
+See Also
+ Greater shadow conjuration
+ Shadow magic
+References
+
+---
+
+## Grandfather Walrus
+
+Grandfather Walrus was a totem spirit worshiped by the Ice Hunters.
+
+It was forbidden for those Ice Hunter shamans who worshiped him to eat walrus meat or fat, wear anything made from walrus, or otherwise harm a walrus. However, those shamans that worshiped him could call upon tusks of strength once each day, summon walruses to their aid twice a tenday, and eventually even shapechange into a walrus twice each tenday.
+
+Additionally, iceguardians who revered Grandfather Walrus alongside Ulutiu also could call upon the tusks of strength once each day. It was noted that such worshipers, whether shamans or iceguardians, who called upon this power frequently began to look like walruses themselves.
+
+Appendix
+Appearances
+Adventures
+
+The Rise of Tiamat
+References
+
+---
+
+## Great White Bear
+
+The Great White Bear was a totem spirit worshiped by the Ice Hunters.
+
+It was forbidden for those Ice Hunter shamans who worshiped him to eat polar bear meat or fat, wear anything made from polar bear, or otherwise harm a polar bear. However, those shamans that worshiped him could call upon polar fury once each day, summon polar bears to their aid twice a tenday, and eventually even shapechange into a polar bear twice each tenday.
+
+Additionally, iceguardians who revered the Great White Bear alongside Ulutiu also could call upon polar fury once each day.
+
+Appendix
+Appearances
+Adventures
+
+The Rise of Tiamat
+References
+
+---
+
+## Grashtio
+
+Elder Grashtio was one of the mages from Estagund who joined Aniolon Gruanthe on his exodus in the, ultimately founding the city of Lliiress. Shortly after the city was founded, he attempted to disable the Evise Jhontil which the blue dragon Gerinvioch had used to trap the city's inhabitants. He died in the attempt.
+
+Appendix
+Appearances
+Novels
+
+Realms of the Dragons II: "Freedom's Promise"
+References
+
+---
+
+## Gremishka
+
+Gremishka were miniature cat-like creatures born from unstable magic that hunted spellcasters.
+
+Description
+Gremishkas were small monstrosities that somewhat resembled a feline with the skin of a rodent and ears resembling those of a bat. They also had razor-sharp teeth.
+
+Abilities
+The most notable ability of a gremishka was their aptitude to react to any magic cast within 30 feet of them, which caused them to either create a blast of magical energy, heal themselves, or split into a swarm of smaller gremishkas.
+
+Gremishka were also able to mimic the sound of a wounded animal or small child, which could be used to lure adventurers into traps.
+
+Behavior
+Due to being born from unstable magic, gremishka hunted for magic of any kind to devour. They preferred to live in places with ambient magical energy and would chew through any spellbooks and material components that they came across. They would compulsively hunt down spellcasters and often infested their homes.
+
+Combat
+Gremishkas usually attacked with strength in numbers. It was imperative that magic attacks should not be used against them as this would benefit them greatly.
+
+Appendix
+Gallery
+
+Appearances
+Video Games
+Idle Champions of the Forgotten Realms • Baldur's Gate III
+Miniatures
+Icons of the Realms
+
+External links
+
+References
+
+---
+
+## Greenlord
+
+Greenlords and greenladies were specialty priests of the Church of Silvanus who passionately defended flora and fauna, often to the detriment of nearby civilized regions.
+
+Activities
+Greenlords viewed any mark of civilization as an affront to Silvanus, including roads and cultivated land. They carefully monitored civilized expansion to ensure it did not encroach too far into the wild. They would visit towns and cities if needed, but preferred to spend their time in the wild.
+
+Culture
+Though they did not despise humans and demihumans, a greenlord's actions did favor flora and fauna instead.
+
+Abilities
+A greenlord could speak with animals and plants three times per day. They could also transform into an animal of their choosing on a daily basis.
+
+Given the perverse nature of the undead and a greenlord's close tie with living things, they risked being temporarily petrified with fear when encountering them. A greenlord could not turn undead.
+
+Possessions
+Greenlords wore leather armor decorated with intricate carvings, usually in the form of leaf motifs. They also wore forest green cloaks, bronze neck torcs embedded with green gemstones, and a tan tunic. For weaponry they preferred a wooden quarterstaff.
+
+Appendix
+References
+
+---
+
+## Grandlore Forest
+
+The Grandlore Forest was the largest forest on the isle of Ilighôn off the coast of the Vilhon Reach.
+
+Description
+The sprawling Grandlore Forest encompassed the entirety of the island's western half. Two rivers sliced Ilighôn in halves separating the Grandlore from Mielikki's Garden and the Great Forest on the island's eastern half. The two rivers were the Elder and the Calling River, both flowing from the Elder Spires at the island's heart.
+
+The forest's name was a dedication to the Grand Druid of Ilighôn, Antonius Mistwind, also known as "loremaster."
+
+Notable Locations
+Druidhome, a quiet community of aging druids of the Emerald Enclave.
+Springbrook Shallows, a freshwater lake in the center of the Grandlore Forest.
+Springbrook, the river that fed into Springbrook Shallows and started in the Elder Spires.
+
+Appendix
+References
+
+---
+
+## Grave touched mail
+
+Grave touched mail was a set of chainmail armor imbued with necromantic enchantments.
+
+Powers
+This sturdy unpleasant-smelling set of magic armor possessed a +2 enchantment and dramatically improved the wearer's fortitude. Additionally, grave touched mail allowed the wearer to cast the ghoul touch spell once per day.
+
+History
+As of the, a set of grave touched mail was worn by an unidentified corpse buried in a shallow grave just outside the town of Elmwood in the Moonsea. Whoever buried the body did not do a good job, and any observant traveler could notice the makeshift grave. Whether the item's enchantments were a result of the previous owner's grim fate or came from some enchanted who created the chainmail remained a mystery.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Tyrants of the Moonsea
+
+References
+
+---
+
+## Grand Council
+
+The Grand Council of Impiltur was a council of nobles that ruled the land from New Sarshel after the death of King Imbrar's line during the Spellplague. It ruled through most of the 15 century DR.
+
+Relationships
+By the year, they were vexed by a group of demon-worshipers known as the Fraternity of Tharos.
+
+Members
+The membership was drawn from the ranks of local nobles throughout Impiltur; Many of its members resided in New Sarshel. One of its members in 1479 DR was Councilor Behroun Marhana, who had been in the council since at least, a year in which it was nascent. However, his claim to nobility was only because of his half-sister, Anusha Marhana.
+
+As of 1479 DR, the family of Fasaria Laytharan sat on the council.
+
+Rumors & Legends
+By 1479 DR, the council was widely seen as quite inept.
+
+Appendix
+Appearances
+Novels
+
+Abolethic Sovereignty Series (Plague of Spells • City of Torment)
+References
+
+---
+
+## Granny Muyuk
+
+Granny Muyuk was a sea hag in the Thunder Cliff Caves in the late 15 century DR. She and her sisters Auntie Unk and Nana Pocktuss formed a sea hag coven.
+
+Personality
+Muyuk was an alcoholic. She was bored with the fanatical Talos cultists she was allied with.
+
+Activities
+Muyuk and her sisters ate the edible body parts of drowned sailors and animated the inedible body parts as skull fliers to protect their lair.
+
+Relationships
+The Cult of Talos maintained a base of operations in the Thunder Cliff Caves. The sea hags had come to terms with the cultists and entered into a mutual-protection agreement. In addition, the followers of Talos provided the corpses of sailors who drowned after being shipwrecked on the magical reefs. In return, the coven assisted the cult with specific issues.
+
+History
+Circa 1491 DR, the Thunder Cliff Caves were attacked by a group of adventurers. Their main objective was to defeat the Talos cultists but they also confronted Granny Muyuk and her sisters.
+
+Appendix
+Appearances
+Adventures
+Storm Lord's Wrath
+
+References
+
+---
+
+## Greater vestment of power
+
+A greater vestment of power was a magic item that provided a number of useful magical abilities to the wearer.
+
+Description
+These items usually appeared in the form of a set of robes.
+
+Powers
+In addition to the powers provided by a set of a lesser vestment of power, the greater vestment granted a pair of powers that could each be used up to three times per day. These were true seeing and dimension door.
+
+Each set of greater vestments of power had its own command word. Uttering the command word when touching the robes but not wearing them would caused them to become invisible and levitate in place. The vestment could remain in this state for centuries unless made to reappear again. To make the vestment reappear the command word needed to be spoken backwards while within  of the vestment.
+
+Notable Owners
+Siamorphe, the Divine Right, wore some robes that were imbued with the magic of a greater vestment of power.
+
+Appendix
+See Also
+ Lesser vestment of power
+ Vestment of power
+
+References
+
+---
+
+## Green Dragon Mask
+
+The Green Dragon Mask was one of the five dragon masks that carried the blessings of Tiamat in the efforts of the reformed Cult of the Dragon to summon her to Toril.
+
+Description
+The Green Dragon Mask was colored various hues of green, with a line of frills at its top and spikes jutting down the jawline.
+
+Powers
+The wearer of the Green Dragon Mask gained several powers, such as reduced harm from poisons, overall greater protection from physical attacks and the ability to breathe unhindered while underwater. They were also granted  darkvision and blindsight, as well as the understanding of the Draconic language.
+
+The main feature of the Green Dragon Mask, or any others of its kind, was to transform its wearer into a wyrmspeaker. These individuals could think in a manner similar to dragons, and gain subtle influence over their behaviors.
+
+When two or more of the masks were brought together, they reformed as the Mask of the Dragon Queen, which combined their properties and bestowed them onto the wearer. This valuable artifact was the essential piece needed to complete the ritual to free Tiamat from the Nine Hells.
+
+History
+For a time in the 1480s DR, the mask remained in the possession of Neronvain, the elven wyrmspeaker of the Misty Forest. However it was eventually transported to the Well of Dragons for safekeeping by Severin Silrajin, and assembled into the Mask of the Dragon Queen ahead of Severin's ritual to summon Tiamat.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Grand Oracle
+
+The Grand Oracle was a title used within the Church of Istishia.
+
+Description
+This title referred to an elder or senior leader of an Istishian temple.
+
+Notable Grand Oracles
+ Seldeetha Darinaalis, the first high priestess of Istishia.
+
+Appendix
+References
+
+---
+
+## Great Goblin Recipes
+
+The Great Goblin Recipes was a two-volume book that collected recipes for the culinary masterpieces of the goblinfolk of the Delimbiyr Vale.
+
+Contents
+Both volumes listed a handful of strange goblin recipes. One notable recipe from the volume was called "Cheesy Skewers." It called for five rats, five skewers, one bucket, one basket, some goat cheese, salt, beer, and oil. The instructions for the dish were as follows: Step one—drink beer. Step two—place goat cheese on the ground and hide. Drink more beer while hiding. When the cheese attracted rats, catch them with a bucket and transfer them into a basket. Throw more cheese in the basket to fatten up the rats. More beer. Put each rat on a skewer, dip in more beer, and roll in salt. The rat skewers were then submerged in boiling hot oil until all fur was burned off. When cooked, rats were served on a platter with yet more beer for dipping.
+
+Volume two featured such treats as "Stinky Beef Stew." Each recipe called for one whole deceased cow, including innards, a handful of black mold, a handful of mushrooms, seven pints of beer, seven pints of scrumpy cider, and some thorny bush. The cow carcass was separated into four pieces. Entrails were wrapped tight around each cow piece and pinned with a sharp toothpick to stay in place. Each cow piece was held over the fire until the cook knew it was ready due to an eye-watering stench. Cow pieces were chopped up and tossed into a stew pot. The cook then drank all the beer and poured the cider into the pot, then boiled. Mold, mushrooms, and thorny bush were then tossed into the stew, and the entire pot was cooked until burnt. The stew was served with a sprig of parsley and a lemon wedge.
+
+History
+In the, Great Goblin Recipes were the inspiration for the cattle theft by goblins of the devil Gorgomorz's army, hidden in the caves of the Wild Pastures outside of the city of Daggerford.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grand Stairs
+
+The Grand Stairs were part of the Horseshoe Temple Oasis in the Quoya Desert of the Hordelands during the mid 14 century DR.
+
+Description
+The stairs formed the entrance into the entire cave face. They were carved from the bedrock and at one point were lined with statues. As of the, all of the statues had been shattered with their broken remains laying on the ground surrounding the statues.
+
+Appendix
+References
+
+---
+
+## Grottoes of the Nine Sages
+
+The Grottoes of the Nine Sages were a series of nine caves within the Horseshoe Temple Oasis in the Quoya Desert of the Hordelands during the mid 14 century DR.
+
+History
+Each cave was once a shrine dedicated to one of the Nine Sacred Sages of the Path—these being Chou Zhiangpen, Ta-wan, Tai Hsueh-chi, Li Chih-wu, Yao Tsung-i, P'eng Khaisan, Hung Te Ping, Hsiao Tzu-chi, and Pieh-chi. As of the, the caves were overrun with goblins.
+
+Description
+A statue of each Sage stood within their respective cave, usually facing the entryway.
+
+Appendix
+References
+
+---
+
+## Great Horsehoe Chamber
+
+The Great Horsehoe Chamber was the dominant feature of the Horseshoe Temple Oasis in the Quoya Desert of the Hordelands during the mid 14 century DR.
+
+Description
+The chamber was located on the left side of the great chamber level of the temple. It measured  wide by  long. A large statue of Hung Te Ping dominated the center of the chamber. A rock sat before the statue and was believed to have been struck by Hung's horse. A distinct aura of well-being could be felt within the Great Horseshoe Chamber.
+
+Inhabitants
+The oni who occupied the temple in the, avoided this chamber.
+
+Appendix
+References
+
+---
+
+## Grelinda
+
+Grelinda was a young woman that lived in Phlan and worked at Madame Freona's Tea Kettle during the late 15 century DR. She was one of Madame Freona's five daughters.
+
+Description
+She had short-cropped hair that was the greenish color that copper turned to over an extended period of time.
+
+Relationships
+Grelinda's other sisters included Blaizette, Briez, Reece, and Whittlee.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Tyranny of Dragons (Defiance in Phlan)
+References
+
+---
+
+## Great Hospital
+
+The Great Hospital was a center for healing located in the city of Dhaztanar in Semphar during the mid-to-late 14 century DR.
+
+Location
+The Great Hospital was located within the Furdah Rustauk District in southwest Dhaztanar. It was found along the shores of Gbor Nor near the royal stables in sight of the Madinat.
+
+Appendix
+References
+
+---
+
+## Grand Playhouse
+
+The Grand Playhouse was a prominent landmark located in the city of Daggerford in the Western Heartlands during the mid-to-late 14 century DR.
+
+Location
+The Grand Playhouse was located in central Daggerford along Duke's Way, the High Road, and the Farmer's Road.
+
+Description
+The building was one of the largest structures in Daggerford, rivalling, if not surpassing, the Ducal Castle in size.
+
+Activities
+Despite its impressive scope, the Grand Playhouse was rarely used for its intended purpose. The entire building was enchanted with a ward that prevented sound from exiting any opening into the structure. This was set in place by the building's owner in order to prevent non-paying customers from enjoying music and theater for free. Given the number of bloodstains marring the surfaces of the Grand Playhouse's interior found after its abandonment, it appeared that assassins and other violent criminals were using the ward to their nefarious advantage.
+
+History
+The Grand Playhouse was designed and constructed by Maestro Samous the Rapturous Songster with the intention of bringing culture to Daggerford. Samous recruited the brightest actors and opera singers from much larger cities to perform within the Grand Playhouse, but the citizens of Daggerford showed little to no interest in that form of entertainment. Samous eventually went broke and was forced to close the doors. He left the city shortly thereafter.
+
+Appendix
+References
+
+---
+
+## Great Pottery of Luiren
+
+Great Pottery of Luiren was a book that talked about various cooking receptacles of the industrious hin folk of the Shining South, published before the fall of the Seldarine's Hand, centuries before 1281 DR.
+
+Content
+The tome of Great Pottery of Luiren covered the fascinating subject of pottery from Luiren. The tome prized the hin's dedication to utility and usefulness in cooking over beauty. Even though halflings created expensive, elaborately-decorated pots and dishes inlaid with malachite and lapis, they were exceedingly rare. These particular designs came from the period of time between 750 DR and 830 DR in Luiren and were bracingly different from traditional hin pottery craft. Most common hin pottery was simple and bottom-heavy, molded out of brown-red clay. The glaze was not common and, when used, was often ocher or bright green.
+
+History
+Great Pottery of Luiren was written and printed sometime between the citadel's construction circa 900 DR and its fall in the Battle of Seldarine's Hand. By the, the citadel was ruined and inhabited by ghostly apparitions of its former inhabitants. A copy of Great Pottery of Luiren could be found in the citadel's library curated by Custhantos, along with other rare books.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Greentree Haven
+
+Greentree Haven, also known as the Dancing Place by Dove Falconhand, was a glade on the Sword Coast that had once been the Magister Eirl Rauthantannar.
+
+Powers
+Anyone under any spell in the haven could turn invisible at will for as long as they bore a spell, and for up to four minutes afterwards. Those who leapt within the grove were affected as per the jump, faerie fire and feather fall spells, unless they willed otherwise.
+
+Those who were aware of the glade's properties could, through an act of will, change the temperature by up to 20 degrees Fahrenheit (11 degrees Celsius) for as long as they remained in the grove or until someone else changed it again. During extremes of temperature, though, this was liable to generate fog at the edges of the grove.
+
+Those who cast spells such as fly, telekinesis or levitation found the effect tripled in duration, and the range to encompass the entire grove. Those who cast protective spells, on the other hand, found all their effects maximized in strength and improved to the limits of conventional magic, whatever their own power as casters; furthermore, those who cast a defensive spell within the grove gained the ability to recast it without the need to refresh their powers, up to once per spell cast.
+
+The glade's final and most elusive power was its ability to enhance item enchantment. It allowed for double efficacy, allowing for twice as many charges, or for the enchantment to take half as long, for instance.
+
+History
+In, Eirl Rauthantannar, already old, decided to undergo Mystra's Choice, and laid down in barren ground, asking that it bear life once more. Mystra approved of his choice, transformed his decanter of endless water into a spring, and the land around his body into an enchanted grove.
+
+In, Dove Falconhand attempted to improve the enchantment of several swords at Greentree Haven. Unfortunately, a curse cut her efforts short, and she only left alive because of Mirt's appearance. She was a regular dancer at the grove.
+
+Appendix
+Appearances
+Novels
+No More in Armor for My Sake
+References
+
+---
+
+## Graddis
+
+Graddis was a werebear inhabiting Zhentil Keep's Foreign Quarter during the mid-to-late 14 century DR.
+
+Activities
+Graddis lived and worked with Tymora's Holy Hall of Good Fortune and Casino. He patrolled the halls of the temple, monitoring the gamblers for any signs of trouble. Graddis would change into a fearsome bear and approach troublemakers, grabbing minor offenders with his paws and hurling them outside. Serious threats were attacked with vigor and Graddis was usually aided by Tymora's clerics.
+
+Appendix
+References
+
+---
+
+## Gres
+
+Gres was a half-orc serving girl inhabiting the city of Zhentil Keep during the mid–14 century DR.
+
+Activities
+Gres worked in the Pride of Zhentil Keep, an inn located on the west side of Zhentil Keep's Foreign Quarter on the south bank of the River Tesh. She had to put up with the innkeep Berk and his offensive body odor.
+
+Appendix
+References
+
+---
+
+## Griswald
+
+Sir Griswald was a minor nobleman and a knight from the city of Baldur's Gate, active in the late 14 century DR.
+
+Description
+Sir Griswald was a distinguished, tall, and lean man with a lush beard and dark eyes.
+
+Personality
+Sir Griswald was known to be an honorable and kind-hearted man who loved birds and often traveled with his collection of beloved songbirds.
+
+Possessions
+One of the most valuable items in Sir Griswald's possession was an enchanted belt one worn by his grandfather, Grisbane the Great. Griswald wore the precious item into the siege of the Exeltis estate and was ready to part with the treasure no save his lover from captivity. Despite his status, Sir Griswald did not have a castle, nor did he have servants. His family rose to prominence through knightly honor.
+
+A small band of mercenaries was led by the noble. They were called the Griswald Knights and were adorned in tattered green colors atop mismatched arms and armor.
+
+Apart from the belt, Sir Griswald wore gloves of animal handling, boots of hardiness, and carried a massive +1 enchanted greatsword.
+
+History
+In the winter of, Sir Griswald met a kind and enigmatic young woman who had recently arrived in the city of Baldur's Gate. The lady called herself Princess Soliana from the distant land of Fanloc. In reality, Soliana was a naive and romantic young woman, not a princess but the adopted daughter of the Green Hag of Lizard Marsh. Searching for a grand fairytale romance, Soliana created a story for herself and of her distant wealth and nobility. Several nobles quickly found themselves fascinated with the "princess" competing for her hand in marriage. Two main competitors were Sir Griswald, a noble and honorable knight, and conniving Feldran Exeltis, who lusted after the woman's wealth. Young Exeltis tricked Griswald into venturing away from the Gate and quickly swept in and convinced the gullible young woman that Sir Griswald abandoned Soliana, leaving for the Moonshae Isles for good. Feldran lured Soliana to his family's holding – Castle Exeltis on the Blade Cliffs outside the city of Daggerford, where she became unknowingly imprisoned. When Sir Griswald discovered his beloved gone, he assembled his family's mercenaries and laid siege on Castle Exeltis but could not cross the cliffside moat. Lord Exeltis informed Griswald that Soliana loved him not and did not wish to see him. The honorable knight refused to believe the outrageous lie and demanded "princess" to tell it to his face. Desperate for help and growing overwhelmed with despair, Griswald sent his page to fetch a hero was recently gifted holdings in the town of Liam's Hold.
+
+Soliana fell in love with Griswald in the spring of, but with his perceived abandonment, she gave into young Exeltis' affections. Soliana did not realize she was in captivity as she trusted Feldran because of his wealth, education, and promise to teach her to be truly noble, like in the fairytales her mother told her. When Sir Griswald started the siege, Feldran Exeltis announced that a monstrous barbarian horde was outside the castle moat and locked the "princess" in her tower "for her own safety."
+
+Sir Griswald implored the Hero of Daggerford to sneak into the impregnable castle and lower the drawbridge, allowing the Griswald Knights to storm the stronghold. Even though it was unknown if the Hero was successful, some stories claimed that he managed to sneak inside the castle through old sewer cavers underneath the cliffside castle. If that were true, Sir Griswald was sure to have had confronted the Exeltis lordling putting an end to his life, and reuniting with his beloved.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+References
+
+---
+
+## Grave Hollow
+
+Grave Hollow was a haunted barrow located in the center of the city of Archenbridge, and a popular picnic destination amongst the townsfolk.
+
+Description
+The hill of Grave Hollow was said to be the tomb of an unknown warrior. According to the locals, anyone trying to dig into the Hollow or lighting a fire in the glen would bring forth moaning spirits—and anyone foolish enough to continue this endeavor would be subject to a terrible curse. Those rumors were encouraged by the owners of the grand mansions along the River Way, trying to discourage adventurers and other undesirables from camping in their backyard.
+
+As long as visitors didn't disturb the peculiar rules of the place, the hill was a peaceful and pleasant place. It was used by the local population for picnics, lover's escapades, and shady meetings. Stealthy agents of the Swords of Archendale patrolled the place, eavesdropping on visitors. They wouldn't usually confront anyone, except if witnessing battle, murder, kidnapping, or other grave crimes.
+
+Geography
+On the outside, Grave Hollow was a grassy hill encircled by trees. Under the hill was the tomb of an elven tribe, built by superstitious gnomes long before Archenbridge was built.
+
+Defenses
+According to Elminster, at least four baelnorns guarded the tomb. They were equipped with many elven magic items, and were responsible for creating the wraith-like spirits which attacked trespassers. They would also curse interlopers with a powerful ironguard spell effect which prevented their victims from interacting with any metal object for a whole year. That curse was nigh-impossible to dispel, except by the most knowledgeable spellcasters.
+
+History
+The tomb was built by gnomes to serve as a resting place for an elven tribe poisoned by rivals. The gnomes entombed the elves with their belongings out of superstition, fearing that keeping anything would bring them misfortune.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Gristmill
+
+A gristmill or grist mill, otherwise known as a flourmill or grainmill, was an agricultural building used to grind up cereal grains into flour.
+
+Description
+The cereal grains that were ground up in gristmills included such crops as barley, corn, wheat, and oats. Though these mills could also be used to grind bones, food scraps, and vegetable greens into meal for spreading upon the farm fields.
+
+Mills operated by having farmers pay their operator, known as a "miller," a percentage of their ground grains in return for the use of their mill. Across the Dragon Reach and Sword Coast, most millers charged one bag for every seven, though some took only one for every eight bags when dealing with long-standing customers. In the Dalelands, local lords made sure that the mills in their land operated at a fair price.
+
+Types of Mills
+
+Across the Realms there were four types of gristmills, each named for the manner by which their millstones were powered.
+Magicmill The most atypical type of mill, these were powered by various magical means and usually created when no other motive force was an option. This could include such things as millstones powered by golems or stones enspelled with a permanent animate object effect. These were most commonly found in Halruaa and Thay.
+Watermill Mills whose millstones were moved by waterwheels, which turned by means of water passing beneath it or flowing over its top. This usually required the mill to be located at a waterfall or river, though some managed to run off a diverted flow from nearby rivers.
+Wheelmill Mills whose millstones were powered by means of humans (typically slaves) or animals, which dragged or pushed large beams affixed to the upper stone. Such animals were usually livestock, such as horses or oxen. The limitations of living motive forces restricted this type of mill to small operations.
+Windmill Mills whose millstones were powered similarly to waterwheels, but by means of wind catching in great vanes. These were typically found in areas with strong and steady breezes, such as along coastlines.
+
+Notable Mills
+
+ Chasler Belvrost owned a flourmill along the River Reddan.
+ Deltar's Mill, a haunted gristmill in Eveningstar operated by Deltar Tummarlin.
+ The Eastern Farmlands of Daggerford had a gristmill that acted as one of the major sources of food for the town. Outside of the farmlands, there were three grainmills owned by businesswoman Bess Miller.
+ The village of Ghars had a grist mill that was driven by oxen.
+ The Grainhouse, an ancient granary in the town of Purskul that doubled as a watermill.
+ Heward's Mill, a gristmill in Archenbridge that was operated by Salath Heward.
+ Jongrath's Mill, a gristmill in Tethyr that was driven by horses.
+ Julkoun's Old Mill, a mill in the village of Julkoun.
+ Mirrorman's Mill, a mill in the town of Shadowdale.
+ The village of Noktil had several watermills that were powered by the Immerflow river.
+ In the nation of Ra-Khati, some mountaintop monasteries had grainmills that were powered with the help of massive wooden pulleys, such as the Rainbow Monastery.
+ Thorm's Mill, the sole gristmill in all of Ashabenford.
+ The village of Womford had a gristmill along the banks of the Dessarin River.
+ Woumar's Wheloon Mill, a  gristmill in Wheloon operated by Leahon Woumar.
+
+Appendix
+See Also
+ Textile mill
+Appearances
+
+External Links
+
+References
+
+---
+
+## Green Spirit
+
+Green Spirit was a Nubari hunter and ranger that hailed from the Koshiva tribe of the Malatran Plateau, active in the late 14 century DR.
+
+Description
+Green Spirit was an overly-confident and boastful young man.
+
+History
+In the late 14 century DR, the Tribe of the Wise Ones became aware of a looming threat. The leader of the dreaded spider katanga, the Mother of a Thousand Young was swollen with a thousand children ready to overflow the jungles. In preparation for the birthing, she initiated a ritual that sent deadly poisons into the rivers cascading off the Fire Mountain. Green Spirit was among the younger and less experienced heroes of the Living Jungle who answered the call, along with Temenu Farseer of the Wise Ones, cainian katanga Roq Silent Hunter, tam'hi Allanna, and butu Tan'u. Green Spirit's group was sent to enter the spider katanga caverns and faced hunting spider katangas who guarded previously captured adventurers.
+
+It was unknown if Green Spirit survived the battle, but the Mother of a Thousand Young was defeated, and heroes returned to the Village of the Wise Ones for their reward and facilitated the clean-up and nature's healing.
+
+Appendix
+Appearances
+Licensed Adventures & Organized Play
+An Army of One Thousand
+References
+
+---
+
+## Grimwald's Way
+
+Grimwald's Way was a small road that was located in the city of Waterdeep.
+
+Location
+Grimwald's Way was located in the northwestern section of Waterdeep's Sea Ward. The road originated on Westwall Street in front of the Seawatch Tower where it branched due east, cutting southeast at the junction with the Street of Whispers. Seawatch Street intersected the eastern half of Grimwald's Way.
+
+Notable Locations
+ Naingate
+ Velatha's Delights
+ The Silken Sylph
+
+Appendix
+References
+
+---
+
+## Grellin Stoutaxe
+
+Grellin Stoutaxe was a dwarf bosun's mate aboard the Osprey during the mid-to-late 14 century DR.
+
+Description
+He stood  tall.
+
+Activities
+Grellin was in charge of the ship's cargo and supplies. His photographic memory aided him considerably with this.
+
+Possessions
+Grellin carried an enchanted battle axe and shield and three potions of water breathing. He wore chainmail for armor.
+
+Appendix
+References
+
+---
+
+## Graoul
+
+Graoul was a dragonborn elder of the Inquest and one of the rulers of Xorvintroth on Abeir. Graoul and their colleagues enjoyed a second life as their brains were preserved in jars following their deaths. Like the others, Graoul's consciousness remained as a spectral echo in the Astral Plane, even after their brain was consumed by a gnome ceremorph whose ship crashed upon Toril.
+
+Description
+Graoul's brain jar was set in a green metal casing wrought to resemble a dragon's claw.
+
+In the Astral Plane, Graoul's spectral echo wore robes adorned with astronomical imagery and arcane characters. Like the other elders, Graoul wore a metallic necklace with a medallion featuring crown of green crystals. Hovering atop their heads were those actual crowns, each of which granted a form of non-detection that hid them from roaming astral dreadnoughts.
+
+History
+Along with their fellow elders, Graoul's consciousness was transferred to a brain in a jar after their death. While studying the forces of the Far Realm, the elders' minds somehow became trapped in the Astral Plane. Some time after becoming stranded, they arranged for their physical remains and still-living brains to be transported to a different location in Xorvintroth.
+
+While Graoul and the elders were in the Astral Plane, the mysterious Emissary of the Nine Eyes shared with them a 'viridian planet', a possible new home for them to live free from the constant war on Abeir. With this revelation, the Inquest began construction on the bridge of stars, a device that would allow them to travel away from Abeir. Unfortunately, their work would never be completed.
+
+In the, a two gnome ceremorphs piloting the Id Ascendant through Realmspace crashed in the wastes of Icewind Dale. While searching for psi crystals to repower their ship, they stumbled upon the ruins of Xorvintroth―which had remained on Toril after the Second Sundering―and recovered Graoul's brain jar. They proceeded to split Graoul's brain in half and enthusiastically consume all of his remains. Interestingly enough, his spectral echo remained in the Astral Plane.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Plague of Ancients (Volatile Thoughts) • Dreams of the Red Wizards (Expedition to the Supreme Forge)
+References
+
+---
+
+## Gralhund Villa
+
+Gralhund Villa was the family estate of the Waterdhavian noble house Gralhund.
+
+Location
+The villa was located in the northeast section of Waterdeep's North Ward wedged between Horn Street and Saerdoun Street.
+
+Description
+All three buildings of Gralhund Villa were three stories tall.
+
+Appendix
+References
+
+---
+
+## Grisbane the Great
+
+Grisbane the Great was a renowned nobleman and a knight from Baldur's Gate on the Sword Coast who lived sometime before the late 14 century DR.
+
+History
+During his glory days, Grisbane the Great wore an enchanted belt that, with time, was passed along to his grandson, Sir Griswald. In the, Griswald wore his grandfather's belt to the siege of Castle Exeltis in attempts to rescue his beloved "princess" Soliana.
+
+Appendix
+Appearances
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Griswald's belt
+
+Griswald's belt was an enchanted belt that once belonged to the famous knight of Baldur's Gate, Grisbane the Great.
+
+Powers
+The belt's magics boosted the wearer's strength and improved their fortitude. Additionally, Griswald's belt allowed the wearer to cast the true strike spell once per day.
+
+History
+Even though Griswald's belt bore the name of Sir Griswald, a 14 century DR noble knight of Baldur's Gate, the belt's original owner was his grandfather – a famous knight named Grisbane the Great, who lived and gained fame for his noble deeds sometime before . In 1372 DR, Griswald wore his belt to the siege of Castle Exeltis to the south west Daggerford trying to rescue his beloved "princess" Soliana. Sir Griswald was ready to offer the precious belt as the reward for aid in infiltration of the impregnable cliffside castle.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Grimbones
+
+Grimbones, who was nicknamed Grimbones the Bold, was a commander among the Zhentilar inhabiting Snowmantle in Daggerdale during the  mid-to-late 14 century DR.
+
+Personality
+He was aggressive, greedy, and often treacherous.
+
+Description
+He stood  tall.
+
+Activities
+Circa 1369 DR, Grimbones commanded the Zhentilar occupying Snowmantle in Daggerdale. In addition to this he was also in charge of the logging operation and of acquiring more slaves.
+
+Possessions
+He carried a longsword and wore chainmail. He also used a shield in combat.
+
+Appendix
+References
+
+---
+
+## Grassdart
+
+Grassdart was a spell used by divine spellcasters of the Malatran Plateau who did not worship gods, instead their magics were granted by the spirits.
+
+Effects
+When the spell was cast, it transformed grass within, usually two to seven blades, into hardened, sharp, and dangerous weapons. Some taller types of grass, like that found in the savannah of Malatra, transformed into javelin-like weapons, while shooter grass types were turned into dart-like weapons. The hardened grass of an appropriate size could be crafted into quality arrows with added fletching. When the spell was cast on still-growing plants, they transformed into a deadly bed of sharp blades. The grass affected by the spell remained tough for one minute.
+
+Components
+The spell's material components were suitable blades of grass that were transformed in the process.
+Appendix
+References
+
+---
+
+## Greater spell trigger
+
+Greater spell trigger was a stronger version of  spell trigger.
+
+Effects
+The spell was almost identical to spell trigger, except it had a range of, and could store any spell less complex than itself.
+
+Components
+Besides verbal and somatic components and the ashes from a scroll, the spell required a drop of blood from a subject who had once cast, or been the target of, permanency or contingency.
+
+History
+Azuth made this spell available through Elminster sometime prior to .
+
+Appendix
+References
+
+---
+
+## Greater creature of darkness
+
+Greater creature of darkness was a spell used by clerics of Shar.
+
+Effects
+When cast, this spell conjured a creature of darkness. The creature of darkness took the shape of a human and moved about in an upright bipedal fashion. It floated, never actually touching the ground. The creature of darkness was not sentient and was controlled by the caster, and could see through the "eyes" of the creature. While seeing through the eyes of the creature of darkness, the caster was not vulnerable to gaze-based spells and attacks. However, the vision was not clear enough to see in detail or read. The body of the creature of darkness was opaque, no one could see though the shadowy form, and even magical means such as light or continual light could not penetrate the creature of darkness.
+
+The creature of darkness could become semi-solid when needed. It could carry up to  in weight. It could wield weapons, use magical items, make deliveries and open doors. The caster could even use touch-based spells through the creature of darkness.
+
+An individual could actually walk though the creature of darkness, cloaking them. The caster could command the creature of darkness to move with an individual within. And if the individual who entered the creature of darkness was an enemy, the caster could attack via a touched-based spell. Any individual within the creature of darkness could see though it clearly. Those casting this spell usually entered the creature of darkness themselves. While within the creature of darkness, the caster was immune to bright lights, hypnotic effects, and illusion-based spells. While within, the caster could use one of two effects provided by the creature of darkness. They could either use the creature of darkness as feather fall or levitate for a short period of time. Once the caster used either of these effects, the spell expired.
+
+Components
+In addition to verbal and somatic components, this spell required several material components. It required the web of a spider, a small amount of either pitch or soot, a piece of a shell that was dyed black or burned in a fire. The caster could substitute the shell with either a beak or a bone, also dyed black. Finally, the spell required a piece of any flying creature, such as a feather, a piece of skin or a scale.
+
+History
+Dark road was one of the spells found in Gorothir's Girdle, a holy text of the church of Shar.
+
+Appendix
+References
+
+---
+
+## Griffon (person)
+
+Brother Griffon was a follower of Silvanus and the head of the Temple of Silvanus in Loudwater as of 1479 DR.
+
+Description
+Brother Griffon was stout and well-muscled. His build, coupled with his rustic sense of fashion, meant he was easily mistaken for a barbarian warrior. He had blue eyes and black hair.
+
+Personality
+Brother Griffon was helpful, and happy to provide wisdom or guidance especially to those seeking to travel in the High Moor, a region with which he was very familiar. He felt strong loyalties to both his people—the Uthgardt barbarians—and to the citizens of Loudwater, where he had actually been raised.
+
+Activities
+As the head of the Temple of Silvanus in Loudwater, Brother Griffon was a healer and religious leader who doled out the blessings of his deity. He tended to his duties in town everyday dawn and dusk, but spent the rest of his day walking in the Southwood or along the High Moor. Occasionally, he would embark on longer trips as far as Highstar Lake. He was happy to play the role of guide for adventurers heading to the High Moor, but would caution them about the dangers of going too deep into the region.
+
+Relationships
+Brother Griffon was acquainted with both Lady Moonfire, the civic leader of Loudwater, and Curuvar the Brazen, the town's resident wizard.
+
+History
+Found and adopted by a fisher from Loudwater after his tribe was wiped out, Brother Griffon grew up torn between his heritage and his adoptive home. This conflict led him into the faith of Silvanus as a way to bridge the gap between his barbaric and civilized sides.
+
+By the, he was in charge of Silvanus's temple in Loudwater, and was the most knowledgeable person in town about the geography and history of the High Moor. In late summer of that year, an unnaturally early winter settled on the Gray Vale and local farmers petitioned Brother Griffon to help save them. While Brother Griffon understood that a bad winter was not inherently an evil thing, he recognized the early onset as a perversion of the natural order that had to be corrected.
+
+Appendix
+Appearances
+Adventures
+Barrow of the Ogre King • Dungeon #159: "Menace of the Icy Spire"
+
+References
+
+---
+
+## Grey Chimera
+
+The Grey Chimera was a franchise of inns located in the countries of Unther and Mulhorand in the Old Empires during the mid–14 century DR.
+
+History
+The chain of inns was founded by an adventurer named Jehokim who used the horde of treasure he found to retire from the life of the adventurer and found his first inn. By the, there was a Grey Chimera located in every major city throughout Unther and Mulhorand. Jehokim rented out these locations to others who each paid him a share of the profits.
+
+Appendix
+References
+
+---
+
+## Great South Road
+
+The Great South RoadThe Old Empires (sourcebook) labels this road as the "Great East Road", but the map included with the sourcebook labels it as the "Great South Road." was a road that was located in the country of Mulhorand during the mid–14 century DR.
+
+Location
+The Great South Road ran north to south through central Mulhorand, originating in the north at the border with Thazalhar, and passing south through the Great Vale and leaving Mulhorand via the southeast border with the Eastern Shaar. Along the way it crossed the River Rauthenflow, the River of Shadows, and the River of Spears.
+
+Notable Locations
+ Jhalhoran
+ Surbroar
+ Maerlar
+ Ulzel
+ Rauthil
+
+Appendix
+Notes
+
+References
+
+---
+
+## Grinning Locust
+
+The Grinning Locust was an inn located in the capital city of Skuld in Mulhorand during the mid–14 century DR.
+
+Location
+The inn was located in western Skuld near the waterfront of the Alamber Sea in the Merchant District. It was situated south of the merchant yard and west of Bridge Street.
+
+Appendix
+References
+
+---
+
+## Greeting of the Lord
+
+The Greeting of the Lord was a ritual observed by worshipers of Horus-Re, the Lord of the Sun within the Mulhorandi pantheon.
+
+Description
+The Greeting of the Lord was one of three daily rituals performed by priests of Horus-Re. During the ritual Horus-Re was greeted each morning at sunrise with a series of prayers and chants.
+
+Appendix
+References
+
+---
+
+## Great Shadow's Mansion
+
+The Great Shadow's Mansion was a temple dedicated to Eshowdow, the Shadow Giant within the Chultan pantheon.
+
+Location
+The temple was located within the Valley of Lost Honor on top of the crypt where Eshowdow was disinterred, but its precise location was known only to Eshowdow's most trusted servants.
+
+Description
+A massive step pyramid made completely of shadowstuff dominated the complex, but the pyramid and the entire temple were only visible to someone who underwent the summon shadow spirit incantation. The temple was also visible if viewed in the Shadowfell, where it really existed, or via a true seeing spell.
+
+Appendix
+References
+
+---
+
+## Great Griffon
+
+The Great Griffon was a great bell that hung in the Wave District of Athkatla in Amn.
+
+Description
+The Great Griffon was a massive seven-ton bell that tolled during storms, signaling safe passage to Athkatla's naval vessels.
+
+History
+By the late 14 century DR, the Great Griffon was infamous for often interrupting restful sleep in the Wave District's inns .
+
+Appendix
+References
+
+---
+
+## Grouse
+
+Grouse, also known as blusterwing, was a species of game groundfowl that inhabited heathers of tall grass and hunted for food.
+
+Description
+Grouse was a small long-tailed game bird. A variety of sand grouse existed in less lush areas of the Realms. A species of ruffed grouse inhabited the Border Kingdoms region.
+
+Ecology
+Birds like grouse were prey to predators such as giant lynx.
+
+Habitats
+Just outside the eastern walls of Waterdeep, the City of Splendors, was located a large area of tall fragrant grass and wildflowers—a popular hunting ground for those looking for birds like grouse or pheasant.
+In the wider Sword Coast, grouse, bustards, rock doves, and many other seabirds were a common sight.
+In the Interior Faerûn, grouse inhabited the King's Forest of Cormyr.
+The neighboring Dalelands were home to blusterwing, namely Deepingdale, in the vicinity of the Wineflow and Glaemril, and Glaun in the Dun Hills.
+Wetlands such as the High Moor were inhabited by blusterwing and similar game bird-flunderwings, where they were hunted by humans and other humanoids.
+In Turmish, grouse, pheasants, ducks were given carefully selected areas of land for nesting in order to control the region's game population.
+The Moonshae Isles were home to a significant blusterwing population.
+Further east, blusterwing could be found in the High Meadows of the Endless Wastes.
+
+Usages
+Elf nobility of the ancient city Myth Drannor partook of mint water paired with cold grouse pie.
+Simple spit-roasted birds were sold in the city of Arabel in Cormyr.
+In the northern village of Conyberry, stewed grouse was a quite common dish. The Pleasing Platter eatery in Triboar served platters of roasted game fowl including grouse, while in Mirabar's the Sign of the Forgehammer, roasted grouse was served alongside whole-roasted forest beast such as boar or deer.
+The cuisine of the Amnian city of Crimmor included such dishes as grilled blusterwing, marinated in rosemary, sage, and cinnamon.
+The Purskul Platter dish from the Stargath House inn, located in Purskul, was made with pheasant, grouse, and smoked beef, served covered in rich gravy.
+In Tethyrian town of Velen, the dish known as Almost A-Wing was made with whole-skewered grouse and chicken, while the town of Mosstone served a dish known as egg platter, made with hard-boiled eggs, including those of grouse.
+
+Appendix
+See Also
+Pheasant
+Appearances
+Novels
+Elminster in Myth Drannor • The Temptation of Elminster • The City of Splendors: A Waterdeep Novel • The Siege
+
+Blackstaff
+References
+
+---
+
+## Grocknock
+
+Grocknock was an ettin and the patriarch of a family of ettins who lived near Harvestshield Mountain in the late 15 century DR.
+
+Personality
+The two heads of Grocknock hated each other, and would loudly bicker with each other. In battles, Grock planned strategy for the ettin tribe while Knock actually led them in battle, often ignoring the plan.
+
+History
+Grocknock's family frequently attacked Snarlclaw's gang of trolls in competition for territory. In the late 15 century DR, both groups were forced to serve Mrolgyet's Legion, and their members were branded with the Legion's symbol. On Mrolgyet's orders to retrieve the Anvil of Dumathoin, Snarlclaw's trolls were forced to dig a tunnel from Harvestshield Mountain into the Frostsilver Mines while Grocknock's ettins broke and extracted their teeth to force them to keep digging. Once inside the Mines, Grocknock deployed rust monsters provided by Mrolgyet to begin breaking through the metal doors that guarded the hidden forges deep beneath the Mines.
+
+During the search for the Anvil, a group of adventurers in the service of the Open Lord of Waterdeep, Laeral Silverhand, caught up to him and soundly defeated him in battle. They then interrogated both Grock and Knock, and learned about the plan to retrieve the Anvil. The trolls and ettins soon realized that Grocknock had betrayed them, and began to panic about the consequences.
+
+Appendix
+Appearances
+Video Games
+Warriors of Waterdeep
+
+References
+
+---
+
+## Grandmother Snow
+
+Grandmother Snow was the eldest bheur hag living in Shimmersky Valley as of the late 15 century DR.
+
+Abilities
+Along with her fellow bheur hags, Grandmother Snow was able to command the howling winds of Shimmersky Valley, using them to carve snow drifts into battlement-like walls or labyrinthine traps. In combat, she attacked with icy blasts of magic.
+
+History
+Grandmother Snow and her fellow hags resisted the incursion by the Frosthunger Horde into Shimmersky Valley in the late 15 century DR. However, they were largely unsuccessful in curbing the stubborn goblinoids as they stormed into the Valley from Dragonscar Gorge, fleeing from the depredations of their master, Shattercrown. The bheur hags became increasingly frustrated by this failure, so much so that they took out their anger on a party of adventurers from Waterdeep who had arrived to beat back the Horde. Grandmother Snow personally used her power over the winds to force the party to follow a trail created by her snow drifts, and lead them into a rocky dead end where she attacked them with a cackle.
+
+Appendix
+Gallery
+
+Appearances
+Video Games
+Warriors of Waterdeep
+References
+
+---
+
+## Great Wolf's Mark
+
+The Great Wolf's Mark was a unique enchanted helmet crafted by Laeral Silverhand for Raika in the late 15 century DR. It was one of many pieces of so-called "Silverhand gear" crafted for adventurers who helped to protect Waterdeep.
+
+Description
+Silverhand awarded this piece of headgear to Raika to aid in her mission to inspire other warriors toward victory in the midst of battle.
+
+Powers
+While wearing this helmet, Raika's taunts and battle cries energized and inspired her allies, and in some cases, could bestow speed reminiscent of the haste spell onto one of her allies.
+
+Notable Owners
+ Raika, a half-orc barbarian for whom Silverhand also crafted the Great Wolf's Fury, the maul of focused destruction, and the seal of harmony.
+
+Appendix
+Gallery
+
+Appearances
+Video Games
+Warriors of Waterdeep
+References
+
+---
+
+## Gray One
+
+Gray Ones were specialty priests devoted to Myrkul, the God of the Dead.
+
+Culture
+Gray ones could be either male or female and could be any race.
+
+Abilities
+A gray one was capable of controlling and commanding three times the amount of skeletons or zombies as a regular priest. They were well-versed in necrology and the netherworld, the latter granting them knowledge of the behavior of powerful planar creatures such as baatezu and tanar'ri, which often gave them an advantage when confronting or hunting these types of creatures.
+
+Though not completely immune to diseases and parasites like paladins, gray ones were unaffected by any negative aspects of diseases or parasites that affected their daily lives, even allowing them to functional normally until dropping dead from a lethal disease. In addition to their normal spells, they could cast several spells on a daily basis including feign death, animate dead, corrupt, and wither. Gray ones could summon a minor death to serve them once per tenday. Particularly powerful gray ones could invoke the hand of Myrkul, allowing them to instantly slay a touched target.
+
+Possessions
+In addition to bludgeoning weapons, gray ones wielded scimitars or scythes. They did not have restrictions on the type of armor they were permitted to wear.
+
+Appendix
+References
+
+---
+
+## Graystaff (disambiguation)
+
+A graystaff may refer to:
+ Graystaff (spell focus), an implement used by bheur hags as a spell focus.
+ Graystaff, a style of wizards' staff found in Waterdeep in the late 15 century DR.
+
+---
+
+## Graystaff
+
+A graystaff was a powerful wizards' staff that could be found in Waterdeep as of the late 15 century DR. It was associated with the Blackstaff Academy.
+
+Powers
+The wielder of a graystaff was said to become inspiring to their allies. It could be used to cast both offensive and supportive spells simultaneously, so a wielder might be able to blast an enemy and apply haste to an ally at the same time. However, this feature of the staff did not always work properly.
+
+Notable Owners
+ Vajra Safahr, the Blackstaff of Waterdeep during the late 15 century DR, was said to also possess a graystaff.
+
+Appendix
+See Also
+ Blackstaff
+Gallery
+
+Appearances
+Video Games
+Warriors of Waterdeep
+References
+
+---
+
+## Grazkahn
+
+Grazkahn was a death slaad commoner summoned by the Order of the Crippled Fang in 1373 DR.
+
+Description
+Like other slaadi, Grazkahn was a creature of chaos. His voice was a deep and croaky rumble. He had great magical and physical powers. Grazkahn was a power-hungry slaad and desired to devour Maganus - the one-eyed raven mage who summoned the slaadi to the prime Material plane.
+
+Possessions
+Grazkahn commanded an army of blue and green slaadi.
+
+History
+Grazkahn was among several influential denizens of the lower planes pulled to Toril by the Order of the Crippled Fang, under the command of archwizard Maganus in the . Among other fiends enslaved by the cult was Grazkahn's enemy Kazz'Temmet, the Master of the Twelve Blades of Gorgos. The cult unleashed the fiends on the Moonsea region, interrupting trade, sowing destruction, and attacking Zhentarim-controlled territories.
+
+Grazkahn was bound by summoning magics and put in charge of the attack on the Shind Road and its Zhent patrols. The slaadi forces were among the creatures that plagued the road when the Hero of Daggerford and his allies traveled from the town of Voonlar to Hillsfar to investigate the cult. By that time, Grazkahn had already spent a month on the prime material and was bored of its solid form. Kazz'Temmet sought the Hero's aid in slaying Grazkahn and buying him invaluable time that would allow the balor to break free of magical bondage and stay on Toril of his own free will.
+
+While Kazz'Temmet plotted, Grazkahn hatched his own scheme against the enemy. He ordered the Hero of Daggerford to kill the balor and retrieve his enchanted Abyssal blade. Grazkahn knew of the blade's powers, and its connection to the lower planes, and the death slaad hoped to use the magic weapon to sever his summoning binds.
+
+It was unrecorded which side the Hero of Daggerford chose if any. But eventually, the Shind Road's fiend infestation was ended, along with the chaos brought on by the Order of the Crippled Fang.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Tyrants of the Moonsea
+References
+
+---
+
+## Great wyrm gauntlets
+
+The great wyrm gauntlets were a pair of unique enchanted gauntlets created by a dragon disciple named Redshadow sometime before 1374 DR.
+
+Powers
+The great wyrm gauntlets possessed powerful +6 enchantments that made every punch a deadly danger and guided the wearer's fists toward their desired target. Additionally, each punch blazed with the fire that burned the target. However, the gauntlets' magic came at a price of significantly reduced dexterity.
+
+History
+These legendary gauntlets were stitched together out of a great wyrm's hide by a dragon disciple only known as Redshadow, many years before the late 14 century DR. Some stories claimed that the dragon disciple was the great wyrm's child. Sages agreed that the fearsome battle between the two took place in the skies over the Dragonsfire Mountains. Redshadow wore the great wyrm gauntlets until her death, after which the magic items disappeared from history for a long while.
+
+In of the, the great wyrm gauntlets were sold by a drow merchant who did business in the Undergate, Westgate's unsavory underbelly.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Mysteries of Westgate
+
+References
+
+---
+
+## Gray Griffon
+
+The Gray Griffon was a tavern located in Waterdeep during the mid-to-late 14 century DR.
+
+Description
+The tavern stood three storys tall.
+
+Location
+The Gray Griffon was located in the western section of Waterdeep's Dock Ward on the southwest corner where Lackpurse Lane was intersected by Eel Street.
+
+Appendix
+References
+
+---
+
+## Griffon badge of Waterdeep
+
+Griffon badges of Waterdeep, which were also simply called griffon badges, were magic amulets that were carried by each member of Waterdeep's Griffon Cavalry.
+
+Description
+The amulets were made from silver and inscribed with a griffon flying above the arms of Waterdeep.
+
+Powers
+A griffon badge allowed its wearer to use the feather fall spell once per day.
+
+Appendix
+References
+
+---
+
+## Griffon lancesaddle
+
+A griffon lancesaddle was a magic item that contained several extradimensional pockets.
+
+Description
+This item was an exotic saddle specifically made for a griffon. Six small leather cylinders were affixed to the saddle. Each was about the size of a scroll tube.
+
+Powers
+Each of the leather cylinders was capable of storing a heavy lance or item of similar size. The rider of the saddle could mentally command the cylinders to produce the desired item at will.
+
+Appendix
+References
+
+---
+
+## Green Altar
+
+The Green Altar was a shrine dedicated to Silvanus the Oak Father, in the city of Tilverton in Cormyr.
+
+Description
+The Green Altar stood on a landing along the southern Tilver Stairs on the Street of the Sorceress, that connected the city's lower city and the Old Town. Climbing the long stair was the only way to access the landing, where a garden encircled the shrine consecrated by the Church of Silvanus.
+
+Appendix
+References
+
+---
+
+## Grocer's Lane
+
+Grocer's Lane was a small street located in Waterdeep during the mid-to-late 14 century DR.
+
+Location
+Grocer's Lane was located in the central section of Waterdeep's Southern Ward within the Adventurers' Quarter. The street ran west to east through the Adventurers' Quarter, dividing it into a northern and southern half. Weeping Maiden's Run connected with the north side of Grocer's Lane near its midpoint, and Snake Alley connected from the south on its western end.
+
+Notable Locations
+ Kolat Towers
+ Garrulous Grocer
+ Krabbellor Silversmiths
+ Hemmerem's Stables
+ Laran's Cartographers
+ Waukeen's Wares
+ Watch Guardpost
+
+Appendix
+References
+
+---
+
+## Grimvold
+
+Grimvold was a pit fiend in service of Geryon in the late 14 century DR.
+
+Personality
+He was wary and careful.
+
+Description
+He looked older and more scarred than other pit fiends.
+
+Relationships
+Geryon listened to his advice without hesitation.
+
+History
+He had somehow seen Mystra before, in one of her shapes, and knew somehow of the magic of Asmodeus.
+
+In the, Grimvold was one of the fiends accompanying Geryon when he was sent to stop the Simbul, who was scouring Avernus in search of Elminster Aumar. When it appeared that she was opening a portal, Grimvold strongly cautioned Geryon that it was a trap. He was correct.
+
+Appendix
+Appearances
+Novels
+Elminster in Hell
+
+References
+
+---
+
+## Gray Serpent
+
+The Gray Serpent, which was also seen as the Grey Serpent, was an inn located in Waterdeep during the mid-to-late 14 century DR.
+
+Description
+The inn stood three stories tall.
+
+Location
+The Gray Serpent was located in the central section of Waterdeep's Trades Ward on the eastern side of the Way of the Dragon.
+
+Rumors & Legends
+A portal leading to Maldiglas's Refuge was found on the roof of the Gray Serpent on the outside wall at the head of the back stairway.
+
+Appendix
+References
+
+---
+
+## Grix
+
+Grix was a goblin spy who lived in the Realms during the late 15 century DR.
+
+Grix was caught and convicted of espionage by the authorities. For their crime, Grix was sentenced to ten years of imprisonment in the Revel's End prison in the Frozenfar.
+
+Appendix
+Appearances
+Adventures
+Keys from the Golden Vault: "Prisoner 13"
+References
+
+---
+
+## Greeme
+
+Greeme was a nefarious warrior inhabiting Waterdeep, the City of Splendors, during the mid-to-late 14 century DR.
+
+Activities
+Greeme was the head of a group of bodyguards who served Sumer, a wicked cleric of Talos. Greeme and his cronies would assist Sumer in hunting down adventurers to sacrifice to the Destroyer. He favored using poison on his weapons.
+
+Appendix
+References
+
+FR:Greeme
+
+---
+
+## Graeven garden
+
+Graeven Garden was a garden belonging to Andemel Graeven.
+
+History
+In, Andemel Graeven considered bringing potential flings to Graeven Garden, where he thought to show off his new topiary.
+
+Appendix
+Appearances
+Novels
+
+Elminster in Hell
+
+References
+
+---
+
+## Grainhouse
+
+The Grainhouse was an ancient landmark and the guildhall of the Granary Workers' Guild of Purskul and Outlying Villages in Amn.
+
+Structure
+The Grainhouse was one of the oldest structures in the town of Purskul. It was a large stone tower, a gristmill, and a granary.
+
+History
+By the late 14 century DR, the Grainhouse was claimed by the Granary Workers' Guild of Purskul and Outlying Villages and used as its guildhall. The landmark mill produced cornflour made using local corn, worked by the half-tusk population of Purskul.
+
+Appendix
+References
+
+---
+
+## Grace Hardstone
+
+Grace Hardstone was a dwarven resident of Phandalin in the late 15 century DR.
+
+Relationships
+She was friends with fellow teenagers Alana Hallwinter, Nedd Angelite, and Sasha Flint.
+
+History
+When she was a teenager in the 1490s DR, she and two dwarven friends—Nedd and Sasha—became skeptical of some of the tall tales written by Volothamp Geddarm in the newly-published Volo's Guide to Monsters. The three teens decided to travel to the Crooked Forest to investigate, where they captured by gnolls. Soon, their friend Alana arrived in the woods to search for them, but was captured as well. The harrowing ordeal left Grace and her friends in shock and barely able to speak.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+In Volo's Wake
+References
+
+---
+
+## Grigarr
+
+Grigarr was a terrifying man who trained the wyverns of Darkhold in the Far Hills in the late 15 century DR.
+
+Description
+The ranger was heavily scarred due to multiple wyvern stings.
+
+Personality
+The wyvern trainer was a combination of both terrifying and greedy. He believed that he was entertaining as a storyteller because of the good reactions of the locals, but the truth was that they humored him in their outright fear. Grigarr also claimed to be immune to wyvern venom.
+
+Activities
+Grigarr was known to tell residents of Darkhold (especially in the local tavern known as the Rookery) about his experiences with the wyverns he trained, particularly about all the times he was strung.
+
+History
+After the groups of giants that defended Darkhold were no longer present, wyverns were bred and trained to obey Pereghost, the undisputed commander of the Keep of the Far Hills. Grigarr was the one who trained these wyverns.
+
+Appendix
+References
+
+---
+
+## Grail of Shargrailar
+
+The Grail of Shargrailar was an enchanted drinking horn made from one of the horns of Shargrailar, the first and most powerful dracolich.
+
+Description
+Carved from one of the horns of the slain undead red dragon, it was hollowed out and polished, then lined with platinum and encrusted with small jewels.
+
+Powers
+Though it was but an ordinary drinking vessel, the horn had lingering psychic auras of evil and necromantic magic.
+
+History
+After Shandril Shessair, Narm Tamaraith, and Delg Ironstar destroyed Shargrailar on Flamerule 9 in the, on the East Way near Thunder Gap, the dragon's horn was seized as a trophy and fashioned into a drinking vessel.It is unknown who took the horn as a trophy or why they made it into a drinking vessel; this event is not depicted in the novel Spellfire where Shargrailar appeared and was destroyed.
+
+In the early 1370s DR, Winn Kardzen, the leader of the Cult of the Dragon's Glarondan cell, was on the verge of convincing the fang dragon Nartheling to accept transformation into a dracolich. However, to seal the deal, he needed a phylactery worthy of the dragon's essence and so sought out a relic of the right fame and nature. He more than succeeded, locating the Grail of Shargrailar.
+
+After his agents obtained the Grail and shipped it to Velprintalar in Aglarond, circa 1372 DR, Winn hired the merchant Tulin Farweather to transport it to Glarondar, so as not to attract unwanted attention. However, it was lost en route—unknown to all, when the caravan carrying the horn made camp near a stone circle in the Yuirwood, the undead star elf Mourel Duskwalker emerged from a nearby portal to the Night Realm, stole the Grail, and retreated with it back to his demiplane. He had hopes of performing a ritual to tap into its innate power. Mourel stored it in one of the burial niches in his vault.
+
+Afterward, not knowing what had happened, Tulin would try to hire adventurers to find the lost horn, offering a reward of 2,000 gp. Kardzen and the Cult would also try to search for and recover the lost horn, but the Grail's fate is unknown.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+The Twilight Tomb
+
+References
+
+---
+
+## Grand Duchy of Shantal
+
+The Grand Duchy of Shanta was the so-called Heart of the Border Kingdoms, named as after its position in the center of the western Border Kingdoms and renowned for its natural beauty and eccentric politics.
+
+Description
+The Grand Duchy's territories laid in a wide-open calm valley of endless farmlands, numerous winding roads, all sprinkled with outcroppings of tiny forests. The Duchy ended to the east at sporadically forested hills. Uncharacteristically for the Border Kingdoms, the Grand Duchy of Shanta was a land of visual and architectural order, and authority. The village of Shantal stood at the very center of the farmlands, with the Duchal Towers looming over town's cottages and homes all surrounding the Towers in an orderly circle. Shantal was surrounded by roads, orchards, and vegetable gardens. Each cottage had its own plot of lush green fertile land, arranged akin to spokes of a wheel.
+
+Geography
+
+Geographical Features
+
+Flora & Fauna
+
+Government
+
+Trade
+
+Defenses
+The township of Shantal was constantly protected by patrolling horseback Vigilant Bailiffs, a group of experienced warriors carrying swords, javelins, crossbows, and nets. However, even without Vigilants, local folk all appeared to be strong and professionally armed, and, in fact, they were retired warriors themselves.
+
+All visiting arcane spellcasters traveled land with Vigilant Bailiffs escorts and there are no clerics or wizards among the inhabitants of the Grand Duchy of Shantal.
+
+History
+The Grand Duchy of Shantal was a relatively young territory of the Border Kingdoms, established only three generations before the late 14 century DR. Pelindar Slendyn was the unwitting founder of the Duchy. Pelindar served the archmage named Arcanauh who perished in a dazzling magical duel that also took the life of the mage's bitter rival – Thayan sorceress Ithcatra Llumen, and raised Pelindar's Red Tower. The township of Shantal was built where the Red Tower once stood and now Duke Pelindar outlawed all magic in the Grand Duchy.
+
+Pelindar's son, Thaerin Slendyn, was the next to take the reins of rulership and he continued anti-magical laws instated by his father. The magic duel left behind a legacy of unique after-effects that attracted spellcasters to the Grand Duchy. The Grand Duke who reigned in the late 14 century DR, Orsarr Slendyn, saw the need in establishing the office of Official Mage to deal with curious spellcasters still being attracted to the site of great wizardly battle. Orsarr Slendyn was a reluctant leader who retired from his adventuring days following the death of his father.
+
+Rumors & Legends
+
+Notable Locations
+
+Inhabitants
+
+Appendix
+
+References
+
+---
+
+## Graendel's Fine Dwarven Craft
+
+Graendel's Fine Dwarven Craft was a smithy in the town of Targos in Icewind Dale in the 14 and 15 centuries DR. It was run by Graendel Granitefist
+
+Location
+It lay in the western part of town.
+
+History
+Graendel had come to Icewind Dale with Clan Battlehammer and the other refugees of the fall of Mithral Hall in the latter half of the 12 century DR. By the late 15 century, he had been working as a smith in Targos since before the other townsfolk's grandparents were born.
+
+Services
+Graendel forged a variety of metalwork, from pieces of armor to blades for weapons to anchors for the town's fishing boats. He crafted every piece to order and his attention to detail and quality meant they were perfectly fitted to the user's specifications. However, his work was slow as a result, so most people went to one of the regular smiths in Targos for basic tools or quick armor patches. Nevertheless, circa 1485 DR, guards came here all the way from Bryn Shander to get their armor repaired or adjusted.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Graendel Granitefist
+
+Graendel Granitefist was a dwarf smith from Mithral Hall and the proprietor of the Graendel's Fine Dwarven Craft in Targos in Icewind Dale in the 14 and 15 centuries DR.
+
+Description
+Graendel was an old man with graying hair. Despite his age, he was still a powerful smith.
+
+Relationships
+Graendel though that Speaker Kemp of Targos did a reasonable job leading the town, and respected him for leading the town militia in the Battle of Icewind Dale, but still believed the Speaker's council to be nothing but Kemp's cronies.
+
+The old dwarf also did not trust Silvenius Crim, the proprietor of Icewind Enchantments, who arrived to the town and opened a new business in the late 14 century DR. Graendel did not respect a man who teleported instead of walking.
+
+Activities
+Graendel forged a variety of metalwork, from pieces of armor to blades for weapons to anchors for the town's fishing boats. He crafted every piece to order and his attention to detail and quality meant they were perfectly fitted to the user's specifications. However, his work was slow as a result, so most people went to one of the regular smiths in Targos for basic tools or quick armor patches. Nevertheless, circa 1485 DR, guards came here all the way from Bryn Shander to get their armor repaired or adjusted and to, unwillingly, hear his stories. When the Clan Battlehammer left Icewind Dale for Mithral Hall, Graendel began doing business with the Clan Firehammer that chose to stay behind. Baldryn Irontooth was one the the Firehammer suppliers that made deliveries of raw materials and other trading goods to Graendel's Fine Dwarven Craft circa 1373 DR.
+
+History
+He hailed from Mithral Hall, but following its fall in the latter half of the 12 century DR, he he came with Clan Battlehammer and the other refugees to resettle in Icewind Dale. He took up work as a smith and, by the late 15 century, he had been carrying on his trade in Targos since before the other townsfolk's grandparents were born.
+
+In the, when strife and a refugee crisis put a stranglehold on Icewind Dale, Graendel met the famed Hero of Neverwinter, who found themselves elbow-deep in these grim events. He was already aware of the Hero's name as trade caravans from Neverwinter did bring the news of the previous year's Wailing Death and a war between Luskan and Neverwinter. The old smith planned on creating several powerful enchanted items before getting too old and though that entrusting them to the Hero would ensure his work would not be forgotten. With the Hero's help, Graendel may have had several of those items completed: a mage's staff called Kossuth's Fury, a cloak of the yeti mades out of an abominable yeti's hide, Thunder Clap bracers, a piece of armor called weapon master's scale, and spear of the mammoth.
+
+By that time, Graendel was the last living witness in town to Akar Kessell's destructive attack on Targos with a beam from Cryshal-Tirith and the occupation by his forces, in the . The aged dwarf would still tell the story of that time, usually to customers who could go nowhere else.
+
+Appendix
+Appearances
+Adventures
+Legacy of the Crystal Shard
+Video Games
+Neverwinter Nights: Doom of Icewind Dale
+
+References
+
+---
+
+## Grunnald
+
+Grunnald was a dwarf proprietor of the Friendly Bat in Womford, a town along the River Dessarin in the late 15 century DR.
+
+Description
+Grunnald was a stout dwarf with dark red hair and a trimmed beard.
+
+History
+
+After an unfortunate confrontation with a spell-slinging Zhentarim agent, Edgin Darvis and his thieving band (Kira Darvis, Simon Aumar, Holga Kilgore, and Forge Fitzwilliam) became stranded in Womford, near the River Dessarin during a procession celebrating the Feast of the Moon in the 1490s DR. The group found their way to the Friendly Bat Inn, where they met a dwarf proprietor named Mae and her young daughter Muren. The two were assembling a life-sized puppet as per the local Feast of the Moon tradition. It bore a striking resemblance to Grunnald, Mae's late husband, gone two years back.
+
+Grunnald was said to had been slain by a band of bandits that plagued the town, extorting money under the pretense of protection fees. By Mae's account, the dreaded leader of the bandits, known as the Bandit King, took Grunnald's life as a late fee for the previous year's payment. Edgin volunteered his band to stop the bandits from terrorizing the town.
+
+By the end of the next day, Edgin's band collected a hefty amount of donations from the locals to the cause, but soon after, they were captured by the Bandit King's men and dragged to their lair. There, the band of thieves faced a greedy white dragon dracolich called Glyrgoth who commanded the bandits to fill her coffers with treasure. However, the dracolich was not the Bandit King—it was Grunnald!
+
+The thieves found the 'Bandit King' full of wine, sitting on a throne in the dragon's treasure vault. When confronted, Grunnald revealed to Ed that becoming the Bandit King was the dwarf's ruse to stop the bandits from the inside. To prove his loyalty, Grunnald faked his death and led the dracolich's men to the wealthiest townsfolk. Eventually, Grunnald realized that the Bandit King was an empty title and the gang's true leader was a dead dragon. Since then, the dwarf had been nothing but a decoy, locked away with Glyrgoth's treasures.
+
+With Grunnald's help, Ed's band managed to get out of the cell and, along with several handfuls of treasure, flee the dragon's cave. They rode out of the lair on a mine cart but plummeted into the cold Dessarin waters with the treasure, but it sank to the riverbed.
+
+Mae was happy to see her long-dead husband at first, but that didn't last long as the happiness was replaced by anger. Grunnald, the "Bandit King," had much to atone for. Before departing the dwarven inn, Edgin left little Mae a gift—the only item rescued from the dragon's hoard. The painted porcelain boar was a poor consolation for two years of grief. However, the clumsy child instantly broke the pig, revealing a handful of treasures inside the figurine.
+
+Appendix
+Notes
+
+Appearances
+Comic Books
+Honor Among Thieves: The Feast of the Moon
+
+References
+
+---
+
+## Grace
+
+Grace was the half-orcish wife of Del. Both lived in an unnamed coastal village in northwest Faerûn in the late 15 century DR.
+
+History
+Grace and Del had a favorite drinking buddy and friend named Feltin who lived in the same village when a mysterious "haunted" island just off the coast started luring villagers to it. Many disappeared, with Feltin following suit in the 1490s DR. Grace and her husband, by luck, came across Forge Fitzwilliam at a local tavern. Words of Forge's recent heroic deeds spread wide, and the spouses approached him, seeking help. Forge eagerly invited Grace and Del to a northern town of Targos where he introduced the commoners to Edgin Darvis, and Holga Kilgore, his fellow "heroes." Grace and Del offered their hard-earned coin as the reward for Feltin's return. Eager to help, Edgin's daughter Kira promised to help, much to the couple's joy and happy hugs.
+
+Subsequently, it was revealed that the haunting was, in fact, a green hag who lured and devoured villagers. Edgin's group found Feltin's remains and returned the man's holy symbol of Chauntea. Grace and Del were angered at the "adventurers" bringing them dire news and the couple refused to pay the promised fee. They did not see Feltin's body and thought the green hag story to be nothing but lies. Grace was ready to start throwing punches, but, eventually, both stormed away from Targos.
+
+Appendix
+Notes
+
+Appearances
+Novels
+Honor Among Thieves: The Road to Neverwinter
+
+References
+
+---
+
+## Grand Fist
+
+The Grand Fist were a group of adventurers who operated circa 1369 DR. They were well-meaning and kind people, but not particularly capable or competent.
+
+History
+In the, the Runners attended a party hosted by Lord Partic Thistle at Thistleflame Keep in Suzail. The occasion was King Azoun Obarskyr IV's birthday, and Lord Thistle hoped to improve the standing of adventuring companies in Cormyr by having them present themselves as a gesture of fealty to the King.
+
+Known Grand Fists
+ Jacer Wind-dancer
+ Brandy Fumblebuckle
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Gram (handyman)
+
+Gram was a young man who worked as a handyman for the Bubbling Bulwark circa 1369 DR. He was very fit and handsome, and was one of the main attractions for lady patrons of the tavern.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Gribbergrash
+
+Gribbergrash was an orog mercenary and chieftain of the Eye Killers company, who led his contingent of orog soldiers in the mid-to-late 14 century DR. He was based in Wyvernwatch Castle in service to Lord Vorik Aris of Cormyr.
+
+Personality
+Gribbergrash was a foul and mean fellow, who got his way by force and bullying.
+
+Possessions
+He carried a +2 battleaxe and wore plate mail, and had a hidden stash containing a potion of extra-healing, a +3 dagger, 400 ep, and a valuable diamond. He enjoyed collecting trophies, including a shrunken elf head and a stuffed  lizard.
+
+Activities
+In the, he served Lord Aris as leader of the Eye Killers, commanding three orog officers and sixty veteran orog warriors at Wyvernwatch Castle.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grimes (Neverwinter)
+
+Grimes was one of the musicians hired by Torlinn Shrake of Neverwinter in the late 15 century DR.
+
+Possessions
+Like the rest of the orchestra at Torlinn's estate – the West Caraway Acres, Grimes was equipped with boots of spider climbing.
+
+History
+Unbeknownst to all, Torlinn Shrake was defeated and replaced by his beholder nemesis – Sharrestren, several decades before the late 15 century DR. The eye tyrant used the wizard's name and wealth to throw lavish weekly parties and masquerades. Grimes was among hired orchestra musicians during the creature's last revel. Using boots of spider climbing, the musicians were to play their instruments while upside-down on the ceiling, to the guests' delight. Between performances, Grimes made an error accepting a drugged drink from Forge Fitzwilliam, a charming rogue, who was part of a heist crew led by Edgin Darvis. After being knocked out, Forge left Grimes to sleep it off next to the fellow knocked-out lute player. Grimes's boots of spider climbing were claimed by the rogue.
+
+Appendix
+Notes
+
+Appearances
+Novels
+
+Honor Among Thieves: The Road to Neverwinter
+References
+
+---
+
+## Gray coaster
+
+Gray coaster is a species of seabirds that inhabited the Cimarine and the Crab Reach islands off the coast west of Candlekeep.
+
+Description
+Gray coasters were large grey avians with white underbellies. An average bird's wingspan reached . They resembled a mix of a pelican, a cormorant, and an albatross. Gray coasters were known for being fat and stupid creatures.
+
+Ecology
+Gray coasters' were edible, but their flesh was unpleasantly oily.
+
+Colonies of these dimwitted birds could be found on the southern shores of Sklorn – the easternmost island of the Crab Reach.
+
+Appendix
+References
+
+---
+
+## Greataxe of flame
+
+Greataxes of flame were enchanted weapons what contained magics of the Elemental Plane of Fire.
+
+Powers
+Greataxes of flame possessed a simple +1 enchantment that improved the wielder's aim and the axe's damage. The weapon discharged a burst of magical flames upon a successful strike, dealing additional fire damage.
+
+History
+One such weapon belonged to the leader of a firenewt tribe from Samarach. Overlord Flamespar wielded his greataxe of flame during the tribe's attack on the Mines of Selgol in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Great helm
+
+Great helm was a term used to refer to large helmets that covered the entirety of the wearer's head and neck, as well as often their upper shoulders. They were typically found in combination with plate mail or heavier armors, but rarely anything lighter than banded mail.
+
+Description
+
+A great helm typically impaired its wearer's sense of hearing and vision, as their only gaps were narrow slits for the eyes to see through and small holes for breathing. Their visors were generally not removable. They were often paired with a gorget in order to offset the weight they put upon the wearer and knights often paired them with a mail coif.
+
+History
+This style of helmet could be found in Faerûn as far back as the Netherese Empire, where it first became available in .
+
+By the 1370's DR, the great helm style of helm was commonly issued in nations across the Eastern and Western Heartlands to various nobles, knights, cavalrymen and officers. These helmets typically had hinged visors, that opened either horizontally or vertically, and were paired with gorgets and plate mail.
+
+In 1492 DR, a group of duergar outfitted in iron bucket helms with visors ventured from their home in the Terminus Level of Undermountain up into the Runestone Level, determined to plunder a shrine dedicated to Laduguer and return their loot to their ruler Fazrian.
+
+Notable Great Helms
+ Lords' helm, a variety of enchanted bucket helms worn by all members of the Lords of Waterdeep to protect their identity.
+ Penfall's Pot, an enchanted pot helm that belonged to Angus Hammerfall.
+
+Notable Users
+Groups
+ The sixteen orog pirates that were part of the crew of the Scavenger all wore bucket helms that were designed to resemble the bulbous heads of mind flayers. This included having large, glass-covered eye holes and tentacle-like breathing tubes.
+ The tomb guardians that protected the Tomb of the Nine Gods were typically outfitted with bucket helms.
+Individuals
+ Gralnakh Longtooth, the half-orc bartender of The Serpent's Tooth and a former bandit, owned a great helm that he kept in his bedroom.
+ Islif Lurelake, one of the original Knights of Myth Drannor, wore a great helm with her field plate.
+ Thalamra Vanthampur kept a helmed horror in her private study, whose black plate armor was forged in Avernus and included a bucket helm.
+ Ygnath, a follower of Bane, dressed in chainmail paired with a bucket helm.
+Religions
+ The Gauntlets of Iyachtu Xvim, a variety of specialty priest in the Church of Iyachtu Xvim, always wore black great helms.
+ Scales, a variety of specialty priest in the Church of Tyr, typically wore gleaming white great helms with sealed visor plates that rendered them effectively blind.
+
+Trivia
+ Arcturia's private chambers in the Arcturiadoom level of Undermountain were guarded by a life-sized statue of a dwarf adorned in a bucket helmet and plate mail.
+ The Haunted Halls had a hall of statues adorned in various forms of armor, one of which featured a great helm.
+ The entrance to Shraevyn's Tomb featured a statue of an armored warrior wearing a great helm.
+
+Appendix
+Notes
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Gracie
+
+Gracie was a server who worked in the City of Coin, Athkatla in the late 14 century DR.
+
+Description
+Gracie was a flirtations and good-looking human woman with light blonde hair.
+
+History
+In the, Gracie was employed by The Thumb, the innkeeper of the Sea's Bounty Tavern. The establishment was located in Athkatla's Wave District. One of notable patron whom Gracie served was the notorious Red Wizards of Thay named Edwin Odesseiron.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Griffonpost House Inn
+
+The Griffonpost House Inn was an inn located in Suldolphor in eastern Calimshan in the late 14 century DR.
+
+Location
+The inn was located near the center of Suldolphor on Ludluth Street.
+
+Description
+The griffon head adorning the inn's sign was a welcoming sight to visitors.
+
+Activities
+Favored by travelers and merchants because of their size, cleanliness, and soundproof walls, the rooms of the Griffonpost House Inn had multiple suites so business could be conducted easily.
+
+Appendix
+References
+
+---
+
+## Grobian Tipple
+
+Grobian Tipple was a follower of Ilmater who was lived in the Realms, presumable on the Sword Coast. Theirs were among the obituaries listed in the death records of an abandoned chapel, that lay above an ancient crypt of Jergal.
+
+While the exact circumstances of their death was unknown, Grobian was known to have died by means of drowning.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+References
+
+---
+
+## Great Hlundadim
+
+Great Hlundadim was a mysterious wizard who founded the goblin realm of Hlundadim, only to disappear centuries later.
+
+Abilities
+Great Hlundadim was a powerful spellcaster and masterful leader, gaining the allegiance of countless goblinoids and other humanoids and engendering great loyalty and trust from them.
+
+History
+Great Hlundadim first appeared in -393 DR in the dying days of Netheril, and rallied the tribes of the Windy Plains, including goblins, hobgoblins, bugbears, orcs, gnolls, and kobolds, as well as some humans. They constructed the fortress-city of Araugul and formed the nation of Hlundadim, waging war upon neighboring realms for centuries and dominating the region known as the Goblin Marches.
+
+His armies ravaged Anauria, Tarkhaldale, and Cormyr, but the devastating dust storms that heralded the expansion of Anauroch in 268 DR caused his subjects to panic and flee south. As Araugul was abandoned, Great Hlundadim disappeared without a trace.
+
+Great Hlundadim never returned to the Goblin Marches, but his legacy was well-remembered by the many tribes and warbands that originated from his great armies, his name a sign of power to be invoked in times of danger.
+
+Rumors & Legends
+ The exact nature of Great Hlundadim was unknown, with guesses including him being a former arcanist of Netheril, or a traveler from another plane.
+ The dwarven realm of Tethyamar was destroyed in 1104 DR by an army of orcs supported by powerful magic and summoned monsters, led by an individual claiming to be Great Hlundadim.
+
+Appendix
+References
+
+---
+
+## Grikka
+
+Tracker Grikka was a goblin who joined the Cult of the Absolute and came to dwell within Shattered Sanctum during the late 15 century DR.
+
+Description
+He had yellow skin and long, brown hair. Like other goblin 'trackers', Grikka wore leather armor adorned with various bones.
+
+Grikka decorated himself with blue body paint.
+
+History
+In the, the cult of the Absolute launched a raid against the Waukeen's Rest inn. It was unknown if Grikka was among those goblins who participated in the raid, but he was definitely present for the celebratory feast afterwards.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+
+References
+
+---
+
+## Grat
+
+Grat the Trader was a goblin merchant and member of the the Cult of the Absolute who sold his wares in the Shattered Sanctum during the late 15 century DR.
+
+Description
+He had yellow-green skin and long, brown hair he wore back. He decorated his skin with two lines of blue face paint.
+
+Activities
+Grat's wares were all items he and other cultists of the Absolute had taken from others during their raids.
+
+Possessions
+Among the goods Grat had for sale were a doom axe, the boots of aid and comfort, a Flaming Fist kite shield, the Whispering Promise, several enchanted weapons, and various pieces goblin-made weaponry.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+
+External links
+
+References
+
+---
+
+## Gribbo
+
+Gribbo was a goblin cultist of the Absolute who dwelled within the Shattered Sanctum during the late 15 century DR.
+
+Description
+She wore a simple, stitched leather dress that she kept cinched with a cloth belt.
+
+History
+In the, the cultists of the Absolute launched a terrible raid against the Waukeen's Rest inn, killing many and capturing others. It was around that time that Gribbo caught her very own "Pigeon", a rather famous bard by the name of Volothamp Geddarm. Gribbo had Volo perform recitations in front of her fellow Absolutists. For the occasion he crafted an ode to their leader, Dror Ragzlin.
+
+Gribbo knew she should hand over her prized "Pidge" to her superior Minthara Baenre, but was so captivated by his charm she could not bring herself to let him go.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+
+References
+
+---
+
+## Grush
+
+Lookout Grush was a goblin warrior who joined the cult of the Absolute of the Absolute in late 15 century DR.
+
+Description
+Grush wore crudely-made plate armor affixed over simple cloth garments.
+
+Activities
+After joining the Absolute's cult, Grush was assigned to be a lookout at the Shattered Sanctum.
+
+History
+In the, Grush began watching over the cult's torturer, a particularly malicious goblin named Spike.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+
+References
+
+---
+
+## Gruz
+
+Sharp-eye Gruz was a goblin guard of the cult of the Absolute, who protected Shattered Sanctum during the late 15 century DR.
+
+Description
+Gruz had orange-brown skin, decorated with white body paint, and black-gray hair that was kept in short braids. She wore a simple cloth tunic and pants, along with mismatched, leather and metal scale armor.
+
+Personality
+She was a no-nonsense individual who took her guard duties seriously.
+
+Activities
+Gruz spent her time guarding the front entrance of the Shattered Sanctum.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+
+References
+
+---
+
+## Greez
+
+Greez was a warlock who devoted himself to the Absolute, and lived within the Shattered Sanctum during the late 15 century DR.
+
+Description
+Greez had grey-brown skin and decorated himself in red body paint. He wore a leather tunic decorated with bones and feathers. His leather good was surrounded the the fractured skull of some terrifying creature.
+
+History
+In the, Greez and other goblins celebrated the cult of the Absolute's terrible, yet successful, raid on the Waukeen's Rest inn. Following their victory, Priestess Gut offered many of their ranks the mark of the Absolute.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+
+References
+
+---
+
+## Grymmon Borlethgar
+
+Grymmon Borlethgar was the Olembarlar of Tulmon in the Land of the Lions region of south Faerûn during the mid-to-late 14 century DR.
+
+Description
+He was a gruff individual with a large mustache. Grymmon stood well over  tall. He was 80 years old circa the .
+
+Activities
+As Olembarlar, Grymmon was the head of Tulmon's armed forces—the Stone Spears.
+
+Possessions
+He wore a splendid suit of plate armor and wielded a massive two-handed sword.
+
+Rumors & Legends
+Many in Tulmon believed Grymmon was sustained to his advanced years by aid from Torm or Tempus, but the truth was that his armor could fully heal him every few days as needed. Grymmon used this power when uninjured to rejeuvenate his body to that of a younger man.
+
+Appendix
+References
+
+---
+
+## Grackle-lung
+
+Grackle-lung was a respiratory disease unique to the city of Gracklstugh in the Underdark.
+
+Acquisition
+Grackle-lung arose as a consequence of breathing in the fumes and gasses emitted from the forges of the subterranean cavern of Gracklstugh, which was not adequately ventilated to prevent this smog from accumulating in the city. Any air-breathing creature that spent at least a day in Gracklstugh ran the risk of contracting grackle-lung, although the city's longtime residents—notably its duergar and derro inhabitants—had become accustomed to the smog and were less likely to get sick from it.
+
+Effects
+The chief symptom of grackle-lung was a persistent, wracking cough as the sufferer's airways became clogged with black phlegm, and each passing day in Gracklstugh brought the risk of the condition worsening. The associated difficulty of breathing made it hard to engage in strenuous physical activity, such as running, and caused a steady decline in energy and endurance as the disease took its toll. The coughing could also interrupt spellcasters' attempts to speak the verbal components of their spells, which became more and more difficult to utter as the disease progressed. In worst cases, grackle-lung could eventually turn fatal in as little as six days if the sufferer's airways became completely clogged.
+
+Treatment
+The condition could usually be recovered from naturally, or it could be immediately cleared with the casting of cure disease or similar magic. The city's persistent smog remained a hazard, however, and those who recovered from the disease risked showing signs again within a tenday.
+
+History
+Grackle-lung posed a notable risk to any visitors to Gracklstugh during the late 15 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grukkoh
+
+Grukkoh was a bugbear who lived on the Sword Coast during the late 15 century DR.
+
+History
+In the, Grukkoh made his way to the village of Moonhaven, after it was taken over by the cult of the Absolute. During his stay, he took some time to enjoy the company of the ogress Buthir. They went to the village's barn and had a rousing, and noisy, roll in the hay.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+References
+
+---
+
+## Gregory
+
+Gregory was a human bouncer who kept peace at the Black Eye tavern and festhall in the city of Westgate in the late 14 century DR.
+
+Description
+Gregory was the oldest and the most hulking of the three brothers: Little Davey, the Black Eye's proprietor, and Marv, a fellow bouncer. Gregory was  tall and looked capable enough to reduce an ogre to a bloody pulp.
+
+History
+In the, Gregory, armed with a club, guarded the entrance to the Black Eye tavern along with his younger brother Marv. Few could best Gregory in a brawl, however Mantides, a disgraced drunkard paladin managed to do just that in 1374 DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Green dragon scale
+
+Green dragon scale was a type of enchanted scale mail created using green dragon scales.
+
+Powers
+These sets of dragonscale armor offered standard protections of scale mail and an additional defensive +1 enchantment. They offered limited immunity to acid and were significantly lighter than other similar sets of armor.
+
+History
+It was unknown how old were similarly designed pieces of armor. In the, green dragon scales could be purchased from armor vendors of the Market Triangle in the city of Westgate.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ground Defense League
+
+The Ground Defense League was one of the military organizations that served as the police force and core of the military forces of the kingdom of Akanûl in the late 15 century DR.
+
+Activities
+The Ground Defense League was in charge of the defense of the city of Airspur and the rest of the kingdom. Their main purpose was to guard the palaces of the nobles, the Catacombs of Airspur, and the Cliff Prison.
+
+Membership
+The Ground Defense League was made up of genasi of all manifestations, but earthsouls and watersouls were the most common among their members.
+
+The Ground Defense League was under the leadership of the Steward of Fire. Circa 1479 DR, the Steward of Fire was Magnol.
+
+Appendix
+References
+
+---
+
+## Grat (guard)
+
+Grat was a city guard of Yhaunn in Sembia during the 14 century DR.
+
+Description
+Grat had a gruff manner and unusually deep voice.
+
+History
+Around 1373 DR, Grat served as a guard for the city. Deployed to the Road Gate one evening, he and another guard met Keph Thingoleir as he attempted to flee the city. Skeptical of the young man leaving the city at night with bulging saddlebags, Grat was unwilling to let Keph through despite his increasingly frantic protestations. Fortunately, the priestess Feena Archwood happened to also be fleeing the city at the same moment and vouched for Keph, using her position as Moonmistress-Designate of Moonshadow Hall and threatening to have Guard Captain Manas summoned to adjudicate the situation. Despite the unusual circumstances at play, Grat choose to give Feena the benefit of the doubt and allowed her to escort Keph out of Yhaunn. Not too long after, Julith Harkspur rode through the gates to aid Feena, followed by twenty or so more priests seeking to capture Feena.
+
+When Feena returned to Yhaunn at dawn the next day, Grat and his partner were still on duty, though they were too busy gossiping about the clergy of Selûne going mad to notice her sneaking back in along with the morning traffic.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Greenwood (disambiguation)
+
+Greenwood may refer to:
+
+Ed Greenwood, the creator of Forgotten Realms,
+Ed Greenwood Presents Elminster's Forgotten Realms, a sourcebook released in the fall of 2012,
+Greenwood, a divine magic spell available to priests of Eldath,
+Greenwood Grubb, the author who penned Cormyr: A Novel (in-universe), published by Tyme Waterdeep Limited,
+Metwell Greenwood, a fisher from the Gulf of Lath, turned cleric in the 14 century DR,
+Bowl-headed greenwood, a species of birds indigenous to Shadowdale,
+Greenwood Twain, a riverboat from Harrowdale in the 14 century DR.
+
+---
+
+## Grand Souk
+
+The Grand Souk, meaning "grand market", was the largest and most impressive marketplace in Port Nyanzaru, Chult. It was located in the city's Merchants' Ward.
+
+Description
+The Grand Souk was a covered market that encompassed vast rows of small shops, stands, stalls, and tents. Its colorful awnings kept out both the rain and sun, but also served to keep in the heat and smells of the marketplace.
+
+Atmosphere
+The market was a sensory overload of cacophonous sounds, bright colors, and exotic odors. It was often crowded, with shoppers jostling and pressing against each other. The noise was compounded by the presence of many tabaxi minstrels and street performers who sang, danced, and juggled for the occasional copper piece. The smells of spices mixed with that of the people and their dinosaurs to become an assault on the senses.
+
+Services
+Just about anything could be found for purchase at the Grand Souk, and if not, some merchants would be happy to procure it for the right price. While one could easily find things like dinosaur meat, jungle herb medicines, spices, and tropical fruits, the market was better known for the sale of durable and luxury products. This included various natural treasures of the jungles—such as colorful feathers, dinosaur claws and skulls, iron, ivory, tiger pelts, and timber—as well as live animals—notably monkeys and songbirds—and crafts or handiworks—such as decorative clothing, bracelets, masks, and statues, including those made by grungs or batiri goblins. Shoppers were somewhat less likely to find everyday household goods or travel gear at the Grand Souk (these were commonly sold at the Red Bazaar in the Market Ward) and generally gemstones were only sold at the nearby Jewel Market.
+
+The market opened before dawn and stayed open until dusk.
+
+Notable Shops
+ Weave of Life, a large stand selling garments, tourism information, and kitschy handcrafts. The store's proprietor, Klevin Van'Sheran, was in truth an agent for the Lords' Alliance.
+ A tea house sat just outside the market.
+
+Defenses
+Numerous guards kept the crowds moving and patrolled the Grand Souk on the lookout for pickpockets and urchins.
+
+History
+As of the late 15 century DR, the Grand Souk dwarfed the other major marketplaces in the city, notably the Jewel Market and the Red Bazaar. Merchants from all across the Sword Coast were drawn to the market to trade for exotic Chultan goods.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Greymon
+
+Corsair Greymon was a duergar cultist of the Absolute from Clan Flameshade who dwelled in Grymforge during the late 15 century DR.
+
+Description
+He had gray skin and white hair, and decorated his face with black body paint. He wore amulet bearing the holy symbol of the Absolute.
+
+Activities
+
+Greymon was a slaver who worked with a crew of other duergar. Along with Gekh Coal, he was one of the captains that patrolled the Ebonlake aboard a wooden, slaver skiffs.
+
+Relationships
+He absolutely detested Nere, the drow True Soul in charge of excavations at Grymforge.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grand Coliseum
+
+The Grand Coliseum of Port Nyanzaru, Chult, was an arena that hosted races and gladiatoral games.
+
+Location
+It sat in the Market Ward atop Yklwazi Hill. It was accessible mainly via a great stone bridge and staircase that connected it to Mount Sibasa and the rest of the Ward.
+
+Structure
+The massive arena was made of stone, with statues of famous champions lining the tops of the walls. It had a main front entrance for spectators and a rear entrance for gladiators and racers. Decorative upper chambers were used by the merchant princes to greet and reward victorious champions.
+
+Services
+
+The Coliseum hosted both circuses (i.e., dinosaur races that circled the arena and which might include dangers and obstacles for the racers to avoid or overcome) as well as bloody animal fights (perhaps involving beasts such as tigers and/or dinosaurs such as velociraptors) and less bloody gladiatorial fights (the gladiators seldom fought to the death except in cases of accidents).
+
+Events were held in the Grand Coliseum on most days, generally in the afternoon. On normal days, events were small and often included consolation fights or qualifying bouts. Major fights, championships, and other extravagant events were held on holidays. Some special events were presided over by one of Port Nyanzaru's merchant princes.
+
+Big shows in the arena might include themes such as "heroes" versus "pirates" or battles between wizards and undead. Gladiatorial fights might also be made into more interesting spectacles by introducing elements such as cages or matabo vines. Because the arena relied on sunlight for spectators to see the action, only very special events were staged at night.
+
+History
+As of the late 15 century DR, the best fighters in the Grand Coliseum were regarded as celebrities in Port Nyanzaru, and one of the city's wealthy merchant princes—Ekene-Afa—was renowned for having earned her fortune through her many victories in the arena. Her exploits had cemented her as a legend among the people, and her statue stood atop the walls among those of the arena's greatest champions.
+
+During the events of the death curse, extra precautions were taken to avoid accidental deaths of the arena's gladiators and racers, including banning the use of injurious magic and training dinosaurs not to kill. Any fighter or racer who refused to follow these new rules was immediately disqualified from participating in any events.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Graphite
+
+Graphite was a mineral form of carbon, used as a material component and for making artwork.
+
+Description
+Graphite was a dark gray, lustrous mineral, very similar in appearance to molybdena, the ore of molybdenum.
+
+Availability
+Aurora's Emporium sold a graphite powder for 2 cp per  and solid chunks for 3 cp per, which were suited for the rituals and practices of priests. A pure graphitic carbon was also available for 3 gp per, intended for the arcane experimentation of wizards.
+
+Cast iron left submerged in seawater would eventually corrode away, hiding the damage with a growing layer of graphite.
+
+Usages
+Graphite sticks were commonly used by artists for drawing.
+
+Graphite powder was used as a lubricant for mechanical devices, especially for small and finely made locks.
+
+The write spell used graphite powder in its special ink when it was magically recorded in a spell scroll or spell book.
+
+Tanglefoot used a pinch of powdered graphite.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Graskynar
+
+Graskynar  was an isolationist realm of dwarves in northeast Faerûn. It was home to the Graskeld clan of dwarves.
+
+Relations
+The Graskyn dwarves were highly isolationist but not hostile to outsiders, being rather contented and self-sufficient. Young, restless dwarves were encouraged to "see the Realms" and spend their energy with wandering and adventure, which resulted in few returning.
+
+Geography
+The realm lay deep below the Giantspire Mountains, near Narfell. It lay within a string of deep Underdark caverns that included pure, freshwater lakes.
+
+Trade
+As of the 15 century DR, the Graskyn farmed their freshwater lakes that they had carefully stocked with fish, harvesting them along with native scuttle-crabs and blind eels. They carefully protected the lakes from natural predators and intelligent water-dwellers, ensuring the security of their food supply. They also mined and worked some iron that they traded with the nearby Nar.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Grave Binder
+
+The Grave Binder was a longtooth dagger found on the Sword Coast during the mid-to-late-14 century DR.
+
+Description
+The Grave Binder, like other longtooth daggers, was identifiable by its unusually long blade. The weapon was heavier than a normal dagger, and required greater strength to wield.
+
+Powers
+It was ensorcelled with a simple +2 enchantment that guided the wielder's hand towards the target and increased the weapon's damage.
+
+History
+The dagger was uncovered several years before the  by a band of adventurers to the south of the Sword Coast, however the owners of the weapon remained oblivious to its magics for years after the discovery. Subsequently, the adventurers delved into lore tomes and rediscovered the weapon's enchantment and extensive history in the hands of assassins. This led to the dagger being named the Grave Binder. However, soon after, the Binder was stolen and found its way to northwest Faerûn.
+
+In 1368 DR, the Grave Binder ended up in the hands of the assassin only known as Krystin from Baldur's Gate's Undercellar. She was hired by the infamous Bhaalspawn Sarevok Anchev to end the life of his brother Abdel Adrian. The same year, the dagger was said to have been wielded by Tellan, the self-appointed shining light of Tethyr, during his time trapped on a mysterious ice island.
+
+Appendix
+See Also
+ Heart of the Golem
+Appearances
+
+References
+
+---
+
+## Gray'shivnarien Taliain
+
+Gray'shivnarien Taliain, more commonly known as the Fiddler, was a maddened drow bard and assassin who lived in the Underdark.
+
+Description
+The Fiddler was an extremely attractive drow woman, with a height of  and short-cut hair. She dressed in a random assortment of mismatched clothing items, and covered her face with thick makeup paint.
+
+Personality
+
+Gray'shivnarien was originally quite pacifistic and abhorred violence, but after she was driven mad she came to revel in it. As the Fiddler, she was extremely erratic and existed in her own world filled with the echoes of frantic music. She usually ignored anyone who wasn't an assassination target, and followed an internal melody that her violence matched. She liked to get to know the target first and requested a song to play before killing them, a habit that made the audience nervous when she performed and took requests at the Think Easy.
+
+Abilities
+The Fiddler was an proficient musician, and was also skilled in dancing, singing, tightrope walking, and gathering up local news and gossip.
+
+She was skilled with a variety of weapons, had strong magic resistance, and could cast a variety of lesser spells including dancing lights, faerie fire, darkness, darkness, know alignment, and detect magic.
+
+Possessions
+The Fiddler's most prized possession was her iconic fiddle, which was modified to shoot lethal poisoned darts at an unsuspecting target. Its travel case was rumored to be a magical device that could shoot magic missiles.
+
+History
+
+Gray'shivnarien was once a famous and skilled bard, with her talent seeing her rise to the top among her drow and duergar fans. However, a jealous rival bard from the Montroy crime family hired an illithid hitman to remove her, and though she survived its psychic mind blast, her mind was shattered forever.
+
+She wandered the Underdark for a time and was eventually taken in by House Catanzaro for employment by Felyndiira Shi'narrvha, who trained her as an assassin and began sending the Fiddler out on missions. Within a short time, the Underdark criminal element was abuzz with news of her deadly prowess. Her fame slowly filtered up to the surface world of Faerûn through the investigations of Gerald of Riveyra and the Forthright Band of Investigators.
+
+Appendix
+References
+
+---
+
+## Gregory A. Dreher
+
+Gregory A. Dreher is a designer who wrote over thirty RPGA tournament adventures, many of them for the Living City and Living Jungle programs.
+
+Biography
+He was an ardent participant in the various Living campaigns, and could boast of being the RPGA's first "triple paragon", having accrued enough "points" to reach Paragon status as a player in both Classic and Campaign events, and also as a judge.
+
+Several Living City and Living Jungle NPCs were originally Dreher's player characters, including Chantress, Ffft, Manami, Mayumi, and Ooshka.
+
+Appendix
+See Also
+ Works by Gregory A. Dreher
+
+External Links
+ Greg Dreher's home page
+ Greg Dreher's Living City reviews
+
+References
+
+---
+
+## Gruel
+
+Gruel was a type of the simplest food, often being nothing more than bread mashed with water.
+
+Description
+Gruel was a gooey mash, stew, or soup, made with bread and a common food made by travelers and adventurers on the road. Hearty gruel was often cooked from oats, rice, or barley, with stock, salted meats like coney or pork, and seasoned with dried or fresh herbs and spices from travers' pouches. Vani gnomes of the Samek Valley in the Cold Lands made their staple dish – hot gruel porridge. On the islands of the Sea of Fallen Stars, gruel was made into congee using rice and flavored with fish. The gruel was served with deep-fried bread for dipping.
+
+History
+
+Gruel was a food consumed as early as the ancient empire of Netheril, where it was made with bread and water. By the 14 century DR, putrid grey maggot-infested gruel was fed to criminals imprisoned in the dungeons of Waterdeep as well as in the slave quarter of the monster city of Kushk in the Hordelands. Slightly more palatable simple gruel was fed to individuals captured and enslaved by the pirates and orcish slavers that sailed the Korinn Archipelago.
+
+In the, wizard Akabar Bel Akash who recently joined Alias the Sellsword's adventuring group, used his culinary skills to make hearty gruel soup, well spiced and seasoned. His hin traveling companion Olive Ruskettle happily devoured her serving and asked for seconds, despite Akabar seasoning her portion with excessive amount of fiery peppers.
+
+In the, Zhentil Keep in the Moonsea region faced with famine under the deity Cyric's tyrannical rule. Most commoners in the city, especially in the slums, saw little food apart from stale water and gruel. In the following year, the, the Cult of the Dragon fed gruel to its abductees made slaves in the ruins of Myth Drannor while the cult worked on excavations and control of the city's mythal.
+
+Appendix
+Gallery
+
+See Also
+Murlynd's spoon
+Appearances
+
+External links
+
+References
+
+---
+
 ## Greater titan
 
 The Greater Titans, sometimes referred to simply as the Titans or the elder gods, were a powerful group of deities that once dominated much of the plane of Arborea, until they were overthrown by the Olympian pantheon and imprisoned in the bowels of Carceri.
@@ -2216,6 +14931,2256 @@ According to some accounts, Zeus had managed to convince some of the hecatonchei
 Their mother Gaea initially made a number of attempts to avenge or liberate the Titans, sending a number of monsters against the Olympian powers, such as the gigantes. However, the new generation of gods held fast against her trials and would imprison the gigantes in Carceri alongside the Titans.
 History with Toril
 In the month of Hammer, in the, a group of adventurers from Ravens Bluff found themselves transported to the plane of Tarterus after defending the githzerai fortress of Tah'Darr from a tanar'ri incursion. At the urgings of the fallen paladin Elendil, the adventurers sought out Mount Othrys and Cronus for a way back to their Prime Material world of Toril. When they first entered the crumbling palace they were greeted by a  tall marble pillar, with a column of twenty spears jammed down one crack, each impaled with the severed head of a man. They were then approached by the titan responsible, Chiron, who demanded tribute from them in exchange for an audience with his father. Eventually the group made their way to Cronus, deep into some kind of Cosmic Game with the marilith Cucathne, the latter of whom was entertaining the Titan with the game in hopes of negotiating the use of Othrys as a tanar'ri staging ground against Tah'Darr. Cronus was unwilling to answer any questions that the mortals posed, but offered to gate them home if they would fight as part of his forces in the game.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Growling Hill
+
+The Growling Hill was a peculiar site of interest in Amn.
+
+Description
+Originally the site of a wizard's tower, the site fell to ruin and became buried by mud and grass growth, resembling a small irregularly shaped hill. An intermittent growling sound of unknown origin could be heard if one pressed their ear to the ground. Local parents claimed there was a great beast living under the hill, who would surely eat naughty children.
+
+Geography
+The hill was about a day's walk northeast of Crimmor not far from the Bitten Road, north of the Alandor River and west of Minsor Vale and Lake Weng.
+
+Appendix
+References
+
+---
+
+## Grymforge
+
+Grymforge was the name given to a fortress in the Underdark that was connected to a nearby Sharran temple called the Gauntlet of Shar. In the late 15 century DR, Grymforge was nearly forgotten and had no permanent inhabitants except those trying to explore its secrets.
+
+Geography
+
+Grymforge was built on the shore of a lava lake that was used to heat the fortress's forge and later the Adamantine Forge.
+
+History
+First Sharran period
+The original fortress was built by unknown followers of the goddess Shar. It had another name at the time, which was still known by the late 14 century and was mentioned in the book Grymforge: A History, but by the 1490s DR this word was illegible. A forge was built around the lava lake bordering the city.Inscriptions on a plaque at the entrance of the Adamantine Forge were worn away several centuries before 1492 DR because of the heat, implying that there had been a forge before Silouv Yali redesigned it in the late 14 century to work with adamantine.
+
+The Sharrans had been using the fortress for almost 800 years,The in-game document Grymforge: A History writes "Grymforge served our Mistress eight hundred years nigh." The word 'nigh' means 'near', 'nearly', 'almost', or 'close', so it is presumed to be a span of almost 800 years. However, the lack of knowledge of the earlier occupation, its apparent great age, and the sentence structure suggest 'nigh' was misused by the writer and 'past' or 'ago' were meant instead. If so, the former fortress may instead have been in use 800 years previously and was abandoned in the late 500s DR. but for some reason it was abandoned. The reason for that was a mystery even for Shar's Chosen, Ketheric Thorm.
+
+Second Sharran period
+In the later 14 century Ketheric Thorm planned to rebuild "the lost city". It served as the headquarters of Ketheric's Dark Justiciars.
+
+The Sharran priestess Sister Ansar converted the gnome Silouv Yali (probably via torture) to the Sharran faith. Silouv was known from Candlekeep to Sorcere for his talents in wizardry and metallurgy and he redesigned the fortress's forge so it could smelt ore to produce adamantine for making weapons. After a sequence of experiments, he managed to find a way to put this idea into practice. The true treasure of Grymforge was not its Adamantine Forge, but the adamantine golem called Grym guarding it – a creation born of molten magma and potent magic.
+
+However, the enemies of the Sharrans tried to infiltrate the fortress, leading to a series of misidentifications of fellow Sharrans as spies by inquisitor Sybil. At least one of the Harper spies was captured and interrogated, revealing one of their trapped stashes.
+
+The Dark Justiciar forces of the fortress prepared an assault against Moonhaven and the traces of these preparations could still be found in Grymforge as of 1492 DR. The correspondence between inquisitor Sybil and General Ketheric Thorm testified to the changes in the assault plans as Sybil's subordinates hadn't destroyed Moonhaven by the time planned by Ketheric. It resulted in Ketheric deciding to lead the Dark Justiciars against the Selûnite town himself a tenday after his planned visit to Grymforge.
+
+The Selûnites in Reithwin were on the verge of being destroyed, so Mordfred, the leader of the Selûnite resistance, made a deal with the cambion Raphael, selling his soul in exchange for help fighting against Ketheric's Dark Justiciars. Raphael sent the orthon Yurgir to get rid of the Sharrans. The orthon broke through the walls of Grymforge and started to exterminate all the Dark Justiciars of Grymforge and the Gauntlet of Shar until there were none left. Some of his merregons still roamed the Inquisitor's chambers as of 1492 DR.
+
+Bitterroot Clan period
+In the late 15 century, Grymforge was held by the duergar Clan Bitterroot and ruled by king Guerdon. The presence of the clan threatened the plans of the Cult of the Absolute. According to the report of disciple Z'rell called Beheading the Bitterroots, the cult decided to assassinate king Guerdon, thus causing a succession crisis within the clan. The next step would be taking the shattered duergar under the cult's control. By the, Bitterroot Clan was destroyed and the ruined city got new masters.
+
+The Absolute Crisis
+In the, the fortress was under the control of the cultists of the Absolute that operated under the orders of True Soul Nere, supported by duergar mercenaries of Clan Flameshade, which may have split from Clan Bitterroot. The cultists were trying to find a passage to the Gauntlet of Shar. For this task, they required a larger workforce, so they assigned Clan Flameshade to deliver slaves to excavate the fortress. Most of them were enslaved after a successful assault on the so-called Decrepit Village, a deep gnome settlement on the other side of Ebonlake. Many slaves died and were simply thrown into the waters of the lake.
+
+A squad of drow Harpers under the leadership of Jhaam, acting on Jaheira's orders, attempted to infiltrate the cultists, but their real identities were revealed and they were publicly hanged by a novice of the Absolute called Murmath.
+
+The route from Grymforge to the Gauntlet of Shar turned out to be impassable and during the excavation the ceiling had collapsed. Nere and four enslaved deep gnomes were caught in a gas trap trying to reach a broken platform leading to the Temple.
+
+Locations
+Docks
+
+Elevator
+Dormitory
+Adamantine Forge
+The Adamantine Forge (also the Great Forge).
+
+Notable Inhabitants
+ Guerdon, the king of the Bitterroot Clan.
+ Grym, the adamantine golem guarding the Adamantine Forge.
+ Nere, a drow True Soul of the Absolute.
+ Thrinn, a duergar sergeant of the Absolute.
+ Brithvar, the elder of Clan Flameshade.
+ Beldron, a deep gnome steward of Gaerdal Ironhand.
+ Meerna, a deep gnome burrow warden.
+ Sybil, a Dark Justiciar and a Sharran inquisitor.
+
+Appendix
+
+Appearances
+Video Games
+ Baldur's Gate III
+
+Notes
+
+External links
+
+References
+
+Gallery
+
+---
+
+## Gretta (Flaming Fist)
+
+Gretta was a member of the Flaming Fist who served Counselor Florrick and Duke Ulder Ravengard in the late 15 century DR.
+
+Description
+Gretta was a gnomish woman with a big brown ponytail. She wore a set of splint mail adorned with a tabard that proudly displayed the Flaming Fist insignia.
+
+History
+In the, Fist Gretta was a member of a Flaming Fist troop that accompanied Counselor Florrick and Duke Ravengard on a mission to Elturel. They stopped at the Waukeen's Rest inn, where they fell victim to the Cult of the Absolute's ambush in which Ulder Ravengard was kidnapped. Florrick and her Fists marched towards the Moonrise Towers to rescue the Duke but were waylaid by the dangers of the Shadow-cursed lands. Fist Gretta and the rest found shelter in the Last Light Inn, where they met High Harper Jaheira and her Harpers, who sought to end the life of General Ketheric Thorm, the leader of the Absolute's army.
+
+When a group of True Souls arrived at the Last Light Inn, Gretta was among those present for the events that followed. It was unknown if she survived the war with the Absolute; she might had perished after the darkness consumed the Last Light Inn, or else she survived with the rest, storming the Moonrise Towers to end General Thorm's reign.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Gretta
+
+Gretta might refer to:
+
+ Gretta (cook), a cook from the Moonshae Isles in the 14 century DR,
+ Gretta (Flaming Fist), a gnomish member of the Flaming Fist in the 15 century DR,
+ Greta (dire wolf), a dire wolf in the 14 century DR,
+ Greta Flander, a well-respected seamstress from Ravens Bluff in the 14 century DR,
+ Greta Thomas, wife of Einrich Thomas, a cleric of Ravens Bluff in the 14 century DR,
+ Greta Venderkienen, a warrior from Ylraphon in the 14 century DR,
+
+---
+
+## Grundlgornn
+
+Grundlgornn was an inhabitant of the Lower City of Baldur's Gate in the late 15 century DR.
+
+Description
+Grundlgornn was a tan-skinned beardless dwarf with short and dark curly hair.
+
+History
+In the, Grundlgornn found himself listening to a curbside preacher of Talona, Umbrenne, spewing out his beliefs of the cycle of life and death being carried out through pestilence. Despite not being interested in the Talonite faith, Grundlgornn was terrified of the priest's promises of plagues.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## G'r'ath
+
+Raider G'r'ath was one of the githyanki who guarded Crèche Y'llek's the hatchery on Toril in the late 15 century DR.
+
+Description
+G'r'ath had typical skin and spot coloration of her kin. She had high brown hair and had painted or tattooed eyes and eyebrows. She wore almost no armor, apart from a pauldron and bracers of githyanki design. As a Raider, G'r'ath was armed with a heavy crossbow.
+
+History
+Raider G'r'ath, along with other gith of what would become Crèche Y'llek, attacked and claimed the Rosymorn Monastery of Lathander in the Western Heartlands sometime before the . Soon after, the function of Crèche was changed as the githyanki war against the mind flayers in Faerûn shifted in balance. During that time, G'r'ath was placed to stand guard in the Crèche's hatchery and its youths' caretaker Varsh Ko'kuu. Raider G'r'ath showed disdain for any non-gith istik if they were allowed access to Crèche Y'llek.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Gragus
+
+Gragus was the Great Druid who governed a druid circle in Amn, based in the northeast of Trademeet in the mid-to-late 14 century DR.
+
+History
+In the, Gragus' druidic circle from Tethyr fell under the sway of the Shadow Druid Faldorn and her aggressive ways, who ousted and replaced the Great Druid Gragus. Druids became cruel and hardened, dispensing nature's punishment to civilized people of the southern edges of Amn.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Greengreve
+
+Greengreve was a famous Netherese arcanist and playwright who wrote many popular theatrical works during the later years of Netheril.
+
+Activities
+Greengreve specialized in grand, heroic tales of mystery, wonder, and adventure. These works were quite well-regarded, and were regularly performed by the League of Noted Singers and Performers.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Grodoveth
+
+Lord Grodoveth was a nobleman of Cormyr in the mid–14 century DR who served as an envoy of the crown. Secretly, he was also a member of the Iron Throne mercantile organization and part of a spy ring based in Ghars.
+
+Description
+He was tall, with a big, muscular build. For official duties, he wore a cloak displaying a royal crest. He was left-handed.
+
+Personality
+Grodoveth was known to have quite a short temper. For example, while in Ghars, he had the local tailor sew the crest back on his cloak, but the hungover man did the job a little crooked and, enraged, Grodoveth nearly drew his sword on him.
+
+He was also rather lecherous, with a predatory eye for beautiful women. Though he attempted subtlety, he lacked tact and would make advances that were unwelcome or even offensive.
+
+Relationships
+He was the husband of Beatrice, who was a cousin of King Azoun IV, which made Grodoveth a relative to the crown as well.
+
+Grodoveth was a former student and later friend of Tobald. Later in life, they often played chess together. However, Benelaius suspected they had a deeper bond forged from them both having known disgrace and resenting their superiors, which led to their spying and betrayal of their kingdom.
+
+Activities
+As envoy, it was Grodoveth's duty to carry news and messages to King Azoun IV in Suzail and to Lord Sarp Redbeard in Wheloon, who was his supervisor. This involved much hard riding between all the towns of Cormyr's southeast, from the Way of the Manticore to Thunderstone and from the Wyvernwater to the Vast Swamp, with the town of Ghars near the center.
+
+In this capacity, Grodoveth acquired much economic data from across southeast Cormyr, information that was coveted by the Iron Throne. Thus, while in Ghars, he related this information to fellow Iron Throne member Mayor Tobald and to their recruit, a local blacksmith's assistant named Dovo. Dovo's task was to go out at nights to the edge of the Vast Swamp and signal coded messages to another, unnamed agent within or beyond the swamp in Sembia. To allay suspicion, Grodoveth suggested that Dovo disguise himself as the ghost of the bandit chieftain Fastred; this scared off those who saw him, and if caught he could pass it off as just a prank. Grodoveth was too high profile to be caught doing this himself. They used the Swamp Rat tavern outside town as their base of operations for their signaling and fake ghost sightings. Worse still, Grodoveth and Tobald both received from the Iron Throne vials of blackweed meant to poison the whole town and assassinate the Grand Council of the Merchants' Guild during their meeting in Ghars on Eleint 19 in 1367 DR, marking them both as would-be mass murderers as well.
+
+History
+As a young man, Grodoveth studied at the University of Suzail, where he was a student of Tobald, who was later dismissed from his position for unknown reasons.
+
+Although a relative of the king, Grodoveth was said to have committed a wanton indiscretion (rumored to involve a prostitute in a Suzail tavern) that not only dishonored himself but risked embarrassing the throne. With only his family connections protecting him, Azoun had him effectively exiled from the city by making him a lowly envoy. Given Grodoveth's resentment of his situation, it seemed likely that an unknown Iron Throne agent found him a perfect target for turning to their side with promises of wealth and potentially even a position of power should Sembia invade Cormyr. Tobald, now mayor of Ghars, invited Grodoveth to stay at his house when in town, which was roughly every two weeks. On these occasions, Grodoveth presumably brought Tobald into the Iron Throne and the spy ring as well, and local man Dovo, who was probably duped with a false story of serving Cormyrean agents or smugglers and tempted with the money and the chance to frighten the town.
+
+While on his journeys, Grodoveth started visiting the Ghars library in Tarsakh of the, where he researched the Vast Swamp and the legends of the bandit chieftain Fastred. He would come in occasionally over the following months for this purpose. These legends gave him the idea of disguising Dovo as Fastred's ghost to cover up his signaling.
+
+But by mid-Eleint, Dovo had become a problem, overstepping his place and acting too familiar with the mayor and royal envoy. He asked too many annoying questions of the envoy at Aunsible Durn's smithy and, when Dovo pulled too hard whilst leading his horse and causing it to stumble, Grodoveth hit him, knocking him to the ground, before giving him a veiled warning. Finally, on the night of Eleint 16, Grodoveth and Tobald visited the Bold Bard for drinks and briefly met the merchant Barthelm Meadowbrock, his daughter Mayella Meadowbrock, and her little dog Muzlim, but the envoy made a crude advance that upset Mayella and angered Barthelm, not to mention the dog. Later, the adventuress Kendra entered and Grodoveth tried it on with her, but he soon angered and insulted her too. But after their co-conspirator Dovo's more public misbehavior and cocky hints at his secret activities, Grodoveth and Tobald resolved to be rid of him before he risked giving them and their spying away. Later that night, while Dovo was dressed up as a ghost and signaling out in the swamp, Grodoveth met him, took his axe, and beheaded him with it, before taking his broken bullseye lantern to hide what the ghost was actually doing, though some pieces remained to give enough of a clue as to what was really going on. Either Grodoveth or Tobald also hid Dovo's clothes at the Bold Bard to further divert attention from their activities around the Swamp Rat.
+
+The next day, Grodoveth visited the Ghars library again for more research into legends of Fastred's tomb. There, Jasper, who was investigating on behalf of retired War Wizard Benelaius, asked him if he knew anything of brigands who might've murdered Dovo, but Grodoveth impatiently rebuffed him. That evening, Grodoveth and Tobald met in the Bold Bard again, but, after a surprise mouse outbreak, they relocated to the Swamp Rat. Grodoveth elected to spend the night there, ostensibly to save himself a journey when he headed south in the morning. Instead, during the night, he secretly went into the Vast Swamp to find Fastred's tomb and the treasure said to lie within. He was successful and went inside, but was swiftly and bloody beheaded by Fastred's axe, which had been set as a trap at the entrance. Meanwhile, Benelaius had also located the tomb, went there, hid while Grodoveth went in, and planted evidence framing Tobald as Grodoveth's murderer.
+
+The open tomb and Grodoveth's body were discovered the following morning by the gnome peat-cutter Darvik, who alerted Captain Flim of the Purple Dragons. Flim, Jasper, and War Wizard Lindavar investigated the crime scene. On the journey back, Grodoveth's corpse was struck by a thorn from a thornslinger tree and partially putrefied, and was to be returned to his family in Suzail. Later, Royal Magician Vangerdahast ordered Benelaius to investigate and that Captain Flim should immediately execute the killer. Benelaius speculated Vangerdahast had done this to avoid controversy because of Grodoveth's familial relation to Azoun. When Benelaius revealed the spy ring to townsfolk on Eleint 21, he blamed Tobald for Dovo's and Grodoveth's deaths and covered up Grodoveth's involvement to protect the honor of the Cormyrean crown. Instead, he painted Grodoveth as bravely seeking to expose the spies until he was betrayed and murdered.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Gryph
+
+A gryph was a species of small parasitoid bird with four legs, deadly beaks, and low animalistic intelligence.
+
+Description
+Gryphs were small eagle-sized birds with four legs. Occasionally, specimens with six or eight legs had been encountered. Gryphs had powerful jaws and razor-sharp beaks.
+
+Combat
+Gryphs usually attacked by biting, darting with high speed from up high, usually from shaded cavern ceilings. Egg-bearing female gryphs attempted to grapple their prey with their legs when attacking in order to inject their eggs into the wounds. These egg-laying attacks were not made with the gryph's beak but via a thin tube that darted out of its abdomen, penetrating the skin but being virtually painless.
+
+Ecology
+These birds were often solitary creatures, with packs of three or more being more rare. In groups, one gryph was usually a female, with a one-in-three chance of that female being of egg-laying age. When a female successfully bit into a victim, she injected them with the eggs. The eggs were tiny in size and were introduced into the prey's bloodstream to be incubated. The eggs hatched within one to three days, killing the host in the process. While a single clutch consisted of many eggs, only between one and four survived to new birds.
+
+Victims who were infected with the birds' eggs felt minor discomfort and swelling of the abdomen. Eventually, the discomfort grew into pain and turned into agony as the birds were ready to be hatched.
+
+The victim's life could be saved though the cure disease or dispel evil spells, which must be cast before the hatching.
+
+History
+In the second part of the 14 century DR, a single six-legged gryph was found inhabiting the abandoned Hinton Ampner mansion that stood upriver from the city of Ravens Bluff. The creature inhabited the manse's guest room, having flown in through an open window.
+
+Appendix
+See Also
+Stirge
+Appearances
+
+References
+
+---
+
+## Grog (city)
+
+Grog was a small, agricultural city-state in the ancient Netherese Empire.
+
+Geography
+The settlement sat in the fork of the Zweihaus River and Westview River, upriver of Fluvion and Heip Lake.
+
+History
+The city was founded as an agricultural town in, early in Netherese history. Little of import occurred there, with its main claim to notoriety being the creation of its local specialty beer, "grog." Though by all accounts a terrible drink, it remained inexplicably popular in Grog, then spread to became popular among Netheril's sailors who used it as a rust remover and a vile rite of passage for their guild. The recipe eventually spread across Netheril, and the drink became common in all ports throughout the land.
+
+Grog became the enemy of the militant Jannathan holy order, Jannath's Defenders, who they called "murderers who wantonly massacred entrepreneurs." The rangers operated from the Glorifier and developed a fearsome and brutal reputation, though not an entirely deserved one.
+
+Grog continued its quiet pastoral existence until the farmlands around it began to turn to desert after, and by  it had been abandoned. The only residents were rumored to be the ghosts of those killed while under the influence of the vile grog drink.
+
+By the late 14 century DR there existed a book detailing the city's history. This book notably alleged a connection between the city-state and the similarly named variety of alcoholic beverages, grog.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Great wight
+
+A great wight was an especially powerful wight that acted as a leader of lesser wights.
+
+Description
+Great wights were significantly more powerful, hardy, intelligent, and disciplined than other wights. While some scholars claimed they were also much larger than the average wight, it was not necessarily possible to discern a great wight from a regular wight at a glance, although certain signs made it obvious. These included how they used weapons and armor and how they spoke and behaved. Their bodies were also more intact or otherwise in better condition than the bodies of the average wight, although this was because a more intact body simply increased the likelihood that a wight would have the strength to become a great wight.
+
+Personality
+Great wights had more control over their dark urges than did a regular wight, and also the intelligence to strategize, speak cogently, and make use of magic weapons and armor. They were also capable of experiencing and displaying emotions, such as with a hearty evil laugh at the expense their victims.
+
+They generally lay dormant in their tombs until disturbed by intruders. The were also antagonistic toward any other powerful wights.
+
+Combat
+When they detected intruders in their barrows, great wights equipped themselves using weapons and armor and would lure enemies into traps, perhaps by using treasure as bait. They were rarely encountered alone, preferring to fight with a mighty retinue of wights and half-wights.
+
+They were much more resistant to turn undead than average wights.
+
+Ecology
+Great wights were leaders and tacticians among leaser wights, who deferred to their authority and would seek them out for aid when threatened. It was believed by scholars that normal wights were unable to disobey the commands of a great wight. Any given group of wights did not necessarily include a great wight, and there was never more than one.
+
+Any wight could in theory become a great wight by draining enough life force from living victims. Wights became stronger and more in control of their mental faculties as their absorbed more life energy, and a wight that drained a large quantity of life energy in a given month could become sufficiently energized to ascended to a leadership role among its fellows. That said, true great wights often had drained more than this minimum threshold by a factor of seven. Any wight that achieved this feat then went on a killing spree, eradicating all other nearby wights who had also absorbed a great deal of life energy in order to remove all rivals. Once this slaughter was completed, this wight became a true great wight.
+
+History
+Some of the best sources of primary information about great wights came from Trykan the Wanderer—who once observed a great wight beating a rival into submission—and Bishop Sherganil of Waterdeep—who lived to tell the tale of a great wight's shocking resilience against his efforts to turn it.
+
+As of the mid–13 century DR, there existed a common misconception that great wights could only arise from corpses of the nobility. This was propagated by the scholar Jilda the Sage, who further claimed that the great wight must have had royal blood and been a follower of a lawful good deity, before falling from grace before their death. While there was some truth that great wights tended to have been nobles in life, this was because the corpses of nobles tended to be better preserved and therefore stronger than the rotted bodies of commonfolk.
+
+Notable Great Wights
+ Vinjarek, the Mound King, who dwelt in the Tombs of Deckon Thar and threatened the peace of Luruar in the late 15 century DR.
+ An unnamed male great wight once commanded a horde of wights in the catacombs under Waterdeep sometime before the mid-to-late 14 century DR. He was slain by allies of Bishop Sherganil after the Bishop had driven off the horde.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Gray druid
+
+Gray druids were a druid circle associated with the cavernous depths of the Underdark and the lifeforms that flourished in its sunless depths, including fungi, molds, slimes, and various other subterranean beasts like the purple worm. Above all other elements they were associated with elemental earth.The setting-neutral accessory The Complete Druid's Handbook presents a number of druid-derived classes called "branches", each specialized to a particular type of biome, and re-frames the druid of the 2-edition Player's Handbook as being the "forest branch". The branches are all stated to be part of a unified "Druidic faith". Seeing as there is no one unified druidic faith on Toril, the most sensible thing to do is to consider each of the branches as their own druid circle, much like how the subsets of 5 edition's Circle of the Land subclass are treated.
+
+Activities
+Gray druids typically made their homes in the various caverns of the Underdark, as well as Underdark ruins, though sometimes they lived above ground in areas that were abundant in fungal life. They preferred to make their sacred groves in areas rich in fungus.
+
+Gray druids dedicated themselves to protecting and nurturing the various lifeforms that called the Underdark home. To that end they typically learned how to speak one or more languages of creatures that inhabited the Underdark, such as Troglodyte, Goblin, or Orcish.
+
+Culture
+Because of their dedication to protecting Underdark habitats, gray druids were typically opposed to dungeon delvers. They particularly had a mutual enmity with dwarves, viewing them as defilers and exploiters of their underground environments. They typically had far better relations with deep gnomes and at least passable relations with drow, for they felt that both races showed more appreciation for the Underdark's beauty than most other people.
+
+Gray druids sometimes sought the help of adventurers from the surface, such as when outside forces encroached upon and harmed the delicate Underdark ecosystems of which they were stewards.
+
+Prior to the Time of Troubles, some gray druids worshiped the deity Ibrandul. Following that event they stopped receiving spells from their reverence and turned instead to the worship of gods of the Dwarven pantheon, gods of the Gnome pantheon, and various other Underdark deities.
+
+Abilities
+The spheres typically accessible to a gray druid included the All, Animal, Divination, Healing, Plant, and Weather spheres, as well as the Elemental spheres of Earth and Water. However, any spells they cast from the Animal sphere could only affect subterranean animals.
+
+Their wild shaping powers were limited to non-venomous giant spiders and mammals or lizards that lived underground, such as badgers or moles. They also uniquely had an ability to command all manner of fungi, oozes, and molds.
+
+Combat
+Gray druids typically wore leather armor, wielded wooden shields, and fought with such weapons as clubs, daggers, darts,  scimitars, sickles, slings, spears, and staves. Out of these they were most often proficient with darts and scimitars.
+
+Notable Gray Druids
+ Vincin, a gray druid acquaintance of Elminster who lived in the Underdark beneath the High Moor.
+ An unknown half-drow led a group of Ibrandul worshipers known as the Horgardin.
+
+Appendix
+See Also
+ Underdark circle
+
+Notes
+
+References
+
+---
+
+## Grent Grinty
+
+Grent Grinty was a commoner from the Lower City of Baldur's Gate in the late 15 century DR.
+
+Description
+Grent was a male gold dwarf with a clean-shaven face, pale skin, and blue eyes. He wore a simple commoner's duster and a large hat.
+
+History
+In the, the city of Baldur's Gate was threatened by the encroaching army of the Cult of the Absolute. The crisis flooded the city with refugees, elevating tensions among its citizens and allowing a new power to take rulership of the city—Lord Gortash. Grent Grinty eagerly consumed the new lord's propaganda from the curbside preachers and from the pages of the Baldur's Mouth Gazette. Augur Harxkellan was a Gortash loyalist whose words attracted a crowd of gawkers in the Lower City. Grent Grinty was among the loyalists in the crowd, calling Baldur's Gate Lord Gortash's city.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Greentart
+
+Greentart, or Greenmint, was a thin and fruity gnomish pale ale from the city of Ravens Bluff in the Vast.
+
+Description
+Greentart was a slightly tangy alcoholic beverage made with blended apples, grapes, and mint leaves. It was sometimes served with two highsunfeasts – Brick, or Rosto.
+
+History
+Greentart was a staple of a gnomish out-of-the way café in Ravens Bluff called Le PoTeete Café in the late 14 century DR. It served only gnomish pale ales, with Stint and Rockgrit being only alternative libations.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grapefruit
+
+Grapefruit was a species of edible citrus fruit found in Calimshan and the Vast.
+
+Availability
+Grapefruits could be found being sold in the markets of the Temple District of Ravens Bluff.
+
+Usage
+Custard decorated with grapefruit wedges and dusted with cinnamon was a desert dish from the ancient Calimshan cuisine.
+
+Ravenaar folk made appetizers of baked grapefruit, notably, in the kittens of the DeVillars estate.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grains of Sand
+
+Grains of Sand were enchanted Kara-Turan shurikens what once belonged to Miri Shokiro, a warrior, whose life was long forgotten by the late 14 century DR.
+
+Powers
+Each of the Grains of Sand was a tiny thrown weapon that dealt minimal damage to its targets; however, each successful hit with a Grain of Sand had a coin-toss of a chance to afflict the target with sleep.
+
+History
+Grains of Sand originated from Miri Shokiro's armory. As a warrior, her deeds and life were long forgotten, leaving behind only records of the philosophy that defined Miri's life. The Grains of Sand were a perfect illustration of that philosophy that encouraged people to be like sand – be invulnerable to anything but time, be carried by wind and waves, be unable to be taken hold of, and always find nooks and cracks. By the late 14 century DR, Grains of Sand could be found sold on the Sword Coast North and by Okuzo's Imports in Westgate.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Granary Workers' Guild of Purskul and Outlying Villages
+
+The Granary Workers' Guild of Purskul and Outlying Villages was a guild based in the city of Purskul, the Granary City, in Amn that represented its and the surrounding areas' granary laborers, millers, and bakers in the mid-to-late 14 century DR.
+
+Organization
+The Granary Workers' Guild operated out of the Grainhouse, an ancient granary on Chauntea's Font in eastern Purskul. The monumental granary was said to be the oldest structure in town and, after renovation, was used as the guildhall, its offices, and meeting halls.
+
+Appendix
+References
+
+---
+
+## Great Trade Road
+
+The Great Trade Road was a trail in Anauroch.
+
+Description
+The road headed westThe road turns north, and thus it can't be a path straight south or straight north. Some continued west from the point where it turned north, and thus the road couldn't come from the west; thus, it is assumed to head west. A closer reading may contradict this conclusion. from Bitter Well Oasis, and continued for roughly five days, maybe a little less, until it reached a pillar at which the trail turned north, towards the Well of the Chasm.
+
+History
+At some point around,The default 2-edition date of 1368 DR is assumed. a number of caravans went missing trying to find another way across the mountains. Those turned west instead of north at the pillar.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Grimm Determination
+
+Grimm Determination is a one-round tournament adventure module in the Living City organized play program. It was published in 1998 and is intended for adventurers of different levels in 2-edition . Set in Procampur, it is the 3 in the 11-part Cracked Jewel Saga.
+
+Summary
+
+Index
+Characters
+
+Creatures
+
+Locations
+
+Organizations
+
+Magic
+
+Religions
+
+Miscellaneous
+
+Appendix
+Notes
+
+References
+
+---
+
+## Grint Thorg
+
+Grint Thorg was an adventurer and a fighter from the city of Baldur's Gate who died some years before the late 15 century DR.
+
+History
+Grint Thorg perished sometime before the  while adventuring in the infamous Tower of Durlag on the Sword Coast. The fighter's body could not be recovered by the adventuring comrades so instead of Grint, the comrades buried Thorg's  pole in the Lower City Graveyard, near the cemetery arched gate and the Durinbold Mausoleum. The gravestone was etched with a single inscription: "Grint Thorg, Fighter, Lost in Durlag's Tower. We couldn't recover your body so we buried your ten-foot pole." The final resting spot may had been accidentally desecrated, and his body risen as a zombie by Nina Dortmell, a talented child with a gift, who was trying to resurrect her recently deceased brother.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Great crossbow (siege weapon)
+
+The great crossbow was a unique variety of siege engine developed by the gnome inventor Nadul DaRoni in the late 14 century DR.
+
+Description
+As its name implied, the great crossbow looked like a crossbow but massively scaled up, with three wheels mounted along each side of its base. Moving and aiming the weapon required a team of four demihumans and horses, while loading it required a team of eight demihumans and four horses.
+
+The great crossbow was designed particularly with trees in mind, having them emulate the quarrels used in crossbows, though earth or stone could also be used as ammunition. The largest size of straight trunk the weapon could hold was  and  wide. DaRoni recommended pine trees stripped of their branches as the most ideal option and suggested that covering the weapon in dry pine needles made for a much slicker launch.
+
+In tests conducted by DaRoni, it was observed that the great crossbow was capable of smashing solid towers and razing walls that were  thick.
+
+History
+The great crossbow was originally made for King Azoun Obarskyr IV of Cormyr, but never saw use during his reign. Eventually, the entrepreneurial Aurora convinced Nadul DaRoni to sell copies of the great crossbow and his other inventions for special order through Aurora's Whole Realms Catalogue. The catalogue listed the great crossbow for a price of 1250 gold pieces, though Aurora noted that all of the listed prices for DaRoni's inventions were only rough estimates of what he would actually charge.
+
+Appendix
+References
+
+---
+
+## Grand Tor Arcanaal
+
+The Grand Tor Arcanal, also known as the Grand Tor, was the capital city of the Arcanum of Olleth, a magocratic morkoth nation in the Sea of Fallen Stars.
+
+Geography
+The Grand Tor was located around the Upper Depths of the Inner Sea, on the lowest level of the Lesser Hmur Plateau. According to estimates by Eadraani, it was approximately  from the nation of Turmish.
+
+Description
+Like all settlements of Olleth, the central fixture for which the Grand Tor was named was an impressive wizard's tower in which the ruler resided. Scattered around the tower were clusters of stone buildings that the general populace lived in.
+
+Government
+The Grand Tor Arcanall was the seat of power for the Arcanum of Olleth and was where its ruler, the Grand Arcane, reigned from. The latest in this line of rulers, Szyzthus, was never seen outside his tower.
+
+Inhabitants
+In addition to morkoth, various enslaved races could be found around the settlement. The bulk of these were largely merrows, followed by locathahs.
+
+History
+Sometime around, the Arcanum of Olleth was founded along with its Nine Towers.
+
+On Flamerule 10, in the, a delegation of morkoth from the Grand Tor Arcanaal met with Iakhovas to receive an offered exchange of slaves in return for the Arcanum of Olleth's aid. While their arrangement called for only thirty triton slaves, Iakhovas delivered unto them thirty-four as a gesture of good will.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grand Melee
+
+The Grand Melee was an annual tournament held by the Melee-Magthere academy of Menzoberranzan, for the purpose of testing students' progress in their training.
+
+Description
+The tournament was overseen by one of the instructors at the academy. Participants would face other students from the class of their year, though in some cases exceptionally skilled students could be moved to a group composed of students a few years their senior.
+
+The participants had to pick a starting position within the cave the event took place in, after which the instructors would give them a signal to begin. The students used wooden poles imitating real weapons to fight their opponents, though there were no restrictions in use of magic or other forms of aid. The overseeing teachers would constantly watch the competitors and would ultimately decide who was defeated in combat. Following their command, the beaten student had to lay down on the ground to signal that they were "out".
+
+Working in teams was allowed and would happen frequently, though as there could be only a single winner at the end of the competition the members of said team had to turn on each other and fight for the top spot.
+
+Location
+The actual arena for the fighting was located in a cave outside of Menzoberranzan. It was filled with stalactites and stalagmites, which split the floor of the cave into a maze full of nooks and crannies that the competitors could set ambushes in. Towards the ceiling, catwalks were constructed in order to allow the instructors to view the ongoing fighting and order knocked out participants to lie down.
+
+History
+During his years spent at the academy, the legendary ranger Drizzt Do'Urden participated in the Grand Melee as well. Following the initial failure at his first attempt (when he was betrayed by his colleague Kelnozz) he managed to win seven times in a row. He was eventually placed in a class of students three years his senior, which he managed to dominate in the competition as well.
+
+Appendix
+See Also
+ Melee-Magthere
+
+Appearances
+
+References
+
+---
+
+## Greater medusa
+
+Greater medusae were a breed of medusae with a massive serpentine tail instead of humanoid legs and torso.
+
+Description
+Greater medusae were quite rare, being born at only one in ten births. Like their more common kin, they had heads of living snakes and bodies covered in fine scales, but instead of a woman's lower body, they had snake tails. A greater medusa stood between  and  tall with a tail that could reach from  to .
+
+Personality
+Greater medusae were solitary creatures, rarely venturing far from their lairs. Most of them had a malicious nature, however, there were some odd exceptions—individuals who lacked an evil streak and preferred the studious lives of a mage-researcher and a vintner.
+
+Abilities
+Like a regular medusa, greater medusae could turn living creatures to stone with a mere glance at the range of  with their petrifying gaze reaching into the Ethereal Plane as well as the Astral Plane, and their serpentine hair could launch venomous bites at opponents within . One important distinction from their mundane kin was poisonous blood. Greater medusae's poisonous blood was so potent that even touching a dead creature was a deadly endeavor. Some of these creatures used that poison to coat their weapons or arrows. Additionally, greater medusae had limited resistance to magic.
+
+Ecology
+A rare type of crossbreed was known to be possible, spawned from a greater medusa and a yuan-ti abomination.
+
+Notable Greater Medusae
+Echidna, a several-thousand-year-old greater medusa created by Set long before the 14 century DR.
+Mythacasties, the mate of Lycodin the maedar and a servant of Cyric in the late 14 century DR.
+Samanthiss, a wizard greater medusa, Vorlon's mate, and one of the vintners who worked Morden Winery in the late 14 century DR.
+Ursula, the leader of a group of medusae that inhabited the caverns of Maddgoth's Castle in the late 14 century DR.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grenoble
+
+Grenoble was a Netherese arcanist who taught at the Academy of Mentalist Study in Eileanar shortly before its destruction in .
+
+Activities
+Grenoble was extremely skilled at natural divination techniques, and taught them at the Academy under Dean Zucchi.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Grocer Cartel
+
+The Grocer Cartel was a powerful guild of traders and retailers that influenced the food trade in ancient Netheril.
+
+Activities
+The guild was led in a fair but unflinching manner by Ravenar Andarlis, who also owned Andarlis Transport. It had a heavy influence on the trade and transport of food in Netheril, and helped regulate prices and the economy in general. In Yeoman's Loft, it took a particular role in controlling the flow of goods acquired via spelljamming expeditions, which were often hotly competed for.
+
+Base of Operations
+The guild's headquarters was found on Helm Road in Yeoman's Loft, and owned many other locations in that city and elsewhere, including Eileanar.
+
+Appendix
+References
+
+---
+
+## Granitdatter
+
+Fist Granitdatter was a member of the Flaming Fist who served the city of Baldur's Gate in late 15 century DR.
+
+Description
+Granitdatter was a dwarvish woman with pale skin, blue eyes, long strawberry blonde hair and a clean-shaven face. She wore a uniform of the Flaming Fist – a set of chain mails and a tabard adorned with the Flaming Fist insignia, with a large greataxe strapped to her back.
+
+History
+In the, Granitdatter was stationed just outside one of the gates between the Lower City of Baldur's Gate and its more affluent Upper City. Her and the fellow Fists' job was stopping rabble from entering the Upper City, allowing only those with much coin through. The Fists managed a slow-moving queue of rich and poor – city folk trying to return home or just find safety behind the second set of walls.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Great Colony Fleet
+
+The Great Colony Fleet was a massive fleet of ships organized by the Shoon Imperium in the, during the time of Qysara Shaani. It initially set out from Calimport with 600 ships and was intended to colonize the unsuspecting Moonshae Isles, but was suddenly set upon by an unseasonable storm that wrecked most of the fleet and blew the remainder far westwards into the Trackless Sea. Unbeknownst to the world at large, the ships drifted for twenty days across the ocean, and the remaining twenty vessels finally made landfall with the surviving crew on the shores of far Lopango.
+
+Though the disaster was hardly her fault, the loss of the fleet was still one more point of failure during Qysara Shaani's reign that marked the decline and doom of the Shoon Imperium. Due to the destructive end of the Imperium and the long ages that followed, the true facts of the Great Colony Fleet were barely known even among the wisest scholars of later ages.
+
+Appendix
+References
+
+---
+
+## Grell language
+
+The Grell language was a bizzare language spoken exclusively by grells, a strange race of aberrations, though due to its alien nature other creatures considered it to be hardly recognizable as a language.
+
+Speakers
+This language was exclusively known by grells, and generally considered impossible for other creatures to learn, due to the unique physiology of the aberrations. As most creatures lacked the electroreception sense of a grell, over half of the Grell language was imperceptible. Though in the late 15 century DR, the Far Realm mutated archmage Berlain Shadowdusk managed to achieve this feat to some degree.
+
+Phonology
+Verbally this language consisted of various buzzing rasps, clicks, chirps, squawks, and whistles. Beyond these vocal components, meanings were conveyed through tentacle motions and the manipulation of the electrical aura each grell possessed, which was perceived through electroreception. It was possible to communicate in the language exclusively through the use of either this electrical component or the auditory component. Though as the electrical component was the means by which over half of all meanings in the language were conveyed, a great deal of detail and subtlety would be lost in the process, reducing such communication to simple messages.In the Monstrous Manual, it is stated that grell utilize limited telepathy as part of their language. This aspect is not carried over in Lords of Madness: The Book of Aberrations, however, the electrical component of Grell can be assumed to be mistaken for telepathy by other creatures due to its imperceptibly.
+
+In order to conduct complex conversations in this language or to speak exclusively through its electrical component, grells had to be within  of one another. For communication from greater distances, only the audible component could be used. In ideal conditions, verbal speech in the Grell language could be carried for hundreds of feet.
+
+When it came to communicating exclusively through the audible or electrical component, grell typically did so in order to convey simple messages such as alarms, hunting signals, or calling for help. The electrical component component in particular was sometimes used to among grell to silently signal ambushes or to coordinate sudden attacks.
+
+Dictionary
+Unknown
+The word used to refer to "lesser beings" in Grell was synonymous with the word used to refer to "food".What exactly this word is was never stated within the cited text. Among colonial grell, that being the spacefaring grell of Wildspace, this same term was also used to refer to groundling grell, as they viewed themselves to be superior to their terrestrial cousins.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Grumpo Daggles
+
+"Grumpo" Daggles was a middle class inhabitant of the city of Baldur's Gate in late 15 century DR.
+
+Description
+Daggles was a foppish human man who wore clothes of fine quality and a big feathered beret. He had a light skin tone, hazel eyes, and long brown hair.
+
+History
+In the, as the Cult of the Absolute menaced the city of Baldur's Gate, the gates between the Lower City of Baldur's Gate and its more affluent Upper City were closed, monitored by the Flaming Fist mercenaries and allowing only the wealthy and current residents of the Upper City through. "Grumpo" Daggles was among the Baldurians who sought passage to the Upper City, suffering through the long lines and rude Fists. He was ready to give up the wait after spending half a day in the queue.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Graveyard (Evernight)
+
+The Graveyard was a sprawling burial ground in the Shadowfell city of Evernight.
+
+Description
+
+The vast Graveyard was littered with graves—ranging from simple earthen mounds to tombstones to mausoleums to deep pits filled with coffins—and forbidding marble and granite statues of watchful angels, devils, and gargoyles. The cries and howls of dangerous creatures echoed through the area.
+
+While the Graveyard was sometimes used to bury one of Evernight's undead inhabitants if they were destroyed or slain, its main function was to host "funerals" in which living victims were ritualistically buried alive to later be eaten.
+
+Geography
+It was located in the south of the city. It occupied the same place as did the Neverdeath Graveyard in Neverwinter on the Material Plane.
+
+History
+As of, Valindra Shadowmantle and her Thayan forces were making use of the shadow crossing in Neverdeath to infiltrate Neverwinter, and the Netherese forces who opposed her sought to disrupt this operation. Around the same time, a number of Netherese shadar-kai could be found patrolling the Graveyard.
+
+Notable Locations
+ Dolindar Tomb, the resting place for the living Dolindar family that was once banished to Evernight.
+ A gate leading into Evernight proper that was guarded by Gatekeeper Arkwright.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grindstone
+
+A grindstone was a simple mechanical device used to polish and sharpen metal items.
+
+Usage
+A typical grindstone could be hand-powered, or pedal-powered to ensure easy operation and a steady rate of rotation.
+
+A smaller table-top version called the grinding wheel was used by jewelers to polish and finish gems and delicate pieces of metalwork.
+
+Availability
+Aurora's Whole Realms Catalogue offered a 20 gp foot-powered grindstone for sharpening metal blades.
+
+Notable Grindstones
+ Wheel of keening, an enchanted grindstone owned by Devon Tresk that granted any weapon sharpened on it a temporary +1 enchantment.
+
+Appendix
+See Also
+ Leather strop
+ Whetstone
+
+Appearances
+
+Gallery
+
+External Links
+
+References
+
+---
+
+## Graft
+
+A graft was a body part of some powerful creature or monster that was merged onto another living creature.
+
+Description
+
+Grafts—which could include limbs, wings, organs, and more—could enhance the abilities of the recipient or grant them new powers. The body parts for such grafts were most often taken from aberrations, fiends, or undead, although some species or groups had their own grafting traditions, including mind flayers, maugs and yuan-ti. It was said that grafting was also practiced by followers of Torog, by draconic races seeking to emulate dragons, and by aboleths.
+
+Once attached, grafts did not radiate magic. A graft was never sentient, although some could act semi-independently of the recipient and others could have adverse effects on their personality or free will. A grafted body part could not be reused if removed from its original recipient.
+
+Creation
+Creating a graft required access to the necessary body part(s) and usually additional resources and/or spells in order to confer the full powers of the grafted body part. Attaching a graft (either to oneself or to another creature) required skill as a healer in addition to specialized knowledge of how to graft the specific type of flesh. The procedure was generally conducted in a comfortable and quiet setting, such as an alchemy laboratory or a temple. In many cases, the secrets of certain types of grafting were closely guarded or known only to a specific group.
+
+Some fiends possessed the ability to bestow grafts on willing individuals, and some necromancers developed a graft flesh spell that could be used to replace limbs.
+
+History
+Some scholars believed that mind flayers were the first to develop the means to graft flesh to another creature, although others argued that a fiend of corruption had more likely taught the mind flayers.
+
+During the 14 century DR, Irritym Wonderstar—a wizard with ties to the Church of Gond—was recognized for the great accomplishment of grafting a still-moving metal arm onto the adventurer Baelam.
+
+In the, a group known as Amalgamation arose in Waterdeep who experimented with grafting pieces of monsters onto its members. This included everything from appending claws and tails of beasts to replacing arms with those of sahuagin to implanting beholder eyes to attaching snakes to wrists.
+
+Notable Types of Grafts
+ Beholder grafts
+ Fiendish grafts
+ Illithid grafts
+ Maug grafts
+ Undead grafts
+ Yuan-ti grafts
+
+Appendix
+See Also
+ Broken one
+ Hand of Vecna
+ Eye of Vecna
+ Mongrelfolk
+ Symbiont
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Gravemaster's blinder
+
+Gravemaster's blinder was an enchanted helmet to be used by a lich, designed sometime before the late 15 century DR.
+
+Powers
+The helmet was a mask that had no openings for the wearer's eyes, making it a blinding piece of equipment. However, it was creted to be used by powerful liches who did not need to relay on physical sight as senses were easily fooled. Gravemaster's blinder boosted the wearer's life essence, aim, defense, deflection of attacks, and increased their magical abilities to steal opponents' lives. Additionally, every time the wearer slew a creature, Gravemaster's blinder had a chance of summoning a wraith under the wearer's control.
+
+History
+In the late 15 century DR, the Red Wizards of Thay dispatched agents to the Jungles of Chult as the dangerous death curse began spreading across Faerûn. Gravemaster's blinder was one of the rare pieces of enchanted gear brought to Chult by Szass Tam's mages and his undead servants.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Gravemaster's habit
+
+Gravemaster's habit was an enchanted robe to be used by a lich, designed sometime before the late 15 century DR.
+
+Powers
+Gravemaster's habits were thoroughly enchanted and intricately sown to be the most prized possessions of Thayan liches. These robes boosted the wearer's vitality, increased their defense, aim, and strengthened their life-stealing magics. When in battle, the robe ensured the wearer could easily land the most critical and lucky of attacks within the first two minutes.
+
+History
+In the late 15 century DR, the Red Wizards of Thay dispatched agents to the Jungles of Chult as the dangerous death curse began spreading across Faerûn. Gravemaster's habit was one of the rare pieces of enchanted gear brought to Chult by Szass Tam's mages and his undead servants.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Graft flesh
+
+Graft flesh was a necromancy spell that allowed the caster to connect flesh onto a living humanoid recipient.
+
+Effects
+The recipient of graft flesh had complete control over whatever flesh or body part was grafted to them as it literally became an extension of their body. However, the graft would radiate a faint aura of necromancy and might quickly deaden and fall off depending on the source of the flesh and the skill of the caster.
+
+The spell had two main uses. The first use was to restore or replace a missing limb by grafting musculo-skeletal tissue onto the site of the lost limb. If the lost limb itself was available, it could be permanently reattached. If not, a limb could be harvested from a fresh corpse, however this would rot and fall off after several days.
+
+The second use was to disguise the caster or another person using the flesh and skin of a fresh corpse. The recipient's face and body could be made to appear like that of the corpse, however this process had no effect on their voice, knowledge, physical strength, or sensory abilities. This disguise could last for several days before it deadened and dropped away.
+
+Components
+The spell had both verbal and somatic components. It required a material component in the form of the flesh to be grafted. If grafting flesh from a corpse, it had to be of the same species as the recipient. The donor body had to have been dead for less than one day and could not have been magically preserved (such as with embalm or spirit bind). Such body parts needed to be harvested with care, which might require some expertise in anatomy.
+
+History
+Some staves of skulls could be used to cast graft flesh.
+
+In the mid-to-late 14 century DR, the "Lady Doctor" Ellandra Tolbert made use of graft flesh to conceal her burned and scarred face.
+
+Appendix
+References
+
+---
+
+## Greenfern
+
+Greenfern was a servant who worked at the Szarr Palace of Baldur's Gate in the late 15 century DR.
+
+Description
+Greenfern was a half wood elf with light skin, blue eyes, and long brown hair.
+
+History
+In the, Greenfern was but one of many enthralled servants who maintained the massive Szarr Palace—the home of vampire lord Cazador Szarr located in the Lower City of Baldur's Gate.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grant
+
+A grant was a document used in Zakhara, the Land of Fate.
+
+Description
+A grant was a document awarding land, title, or monetary funds to an individual. The recipient of the grant could be specifically named within the document. Alternatively, the document might be issued without a designated recipient's name.
+
+A grant was a powerful document. A grant could:
+ Provide financial compensation when presented to a local ruler;
+ Assign the individual the position of a judge within a village;
+ Allow the individual to audit the tax records of a local ruler;
+ Allow the individual to act as an ambassador of the Grand Caliph;
+ Allow the individual to claim land to establish a town or a mosque;
+ Allow the individual to rule a village, providing protection in exchange for tax revenue;
+ Provide a ship; or
+ Allow the individual to establish a business or monopoly.
+
+Appendix
+Further Reading
+
+References
+
+---
+
+## Grainne Jodhpur
+
+Grainne Jodhpur was a commoner and a frequent customer of Baldur's Gate's Elfsong Tavern in the late 15 century DR.
+
+Description
+Grainne was a human woman with olive skin, long reddish brown hair and dark blue eyes.
+
+History
+In the, Grainne Jodhpur frequented the Elfsong Tavern in the Lower City, where she shared a food- and drink-filled table with a group of friends, including Cyndirie Vand and Buff Tanner. Grainne was opinionated over the recent changes in the city. She approved the constructs that were added to the patrols known as steel watchers. She greatly preferred the walking "teapots" to the rude catcalling Flaming Fist brutes.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grotpoll
+
+Saer Grotpoll was a high elven commoner in the late 15 century DR who lived in Baldur's Gate's Rivington district.
+
+Description
+Grotpoll was an elven man with a light skin tone, long black hair, and blue eyes. Despite his attitude towards aliens, Saer Grotpoll had an accent recognizable by citizens of the Gate as that of a man from Rivington, rather than the Gate proper.
+
+History
+In the, the army assembled by the Cult of the Absolute moved from the Moonrise Towers in Chionthar Valley to menace the city of Baldur's Gate, displacing countless refugees along the way in the process. Some of the Baldurians did not take kindly to the refugees flooding the outskirts of the city, while others took to protesting. Grotpoll was the main agitator among the protestors in Rivington, who thought that the refugees were vermin that takes homes and goods intended for Baldurians.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Greenvise
+
+Greenvises, also known as greenvise vines, were a semi-intelligent and ambulatory species of predatory vine that could be found in parts of the Realms.
+
+Description
+These carnivorous plants were visually similar to a venus flytrap, but far larger and sturdier. They had thick, green, trunk-like stems and four sturdy vine-like tendrils. In addition to these tendrils, greenvises had tendril-like roots that they used to move around. When their jaws were closed they resembled a mundane leafy bush, but once opened they revealed their interior to be a  mottled pink and lined with tooth-like thorns.
+
+Abilities
+Greenvises had an innate ability to sense any object or creature within  that was in contact with vegetation. Additionally, at a rate of twice per day, if extremely hungry or injured greenvises would release a deathly acidic fog out to  that was so dense it severely limited the vision of other creatures.
+
+Combat
+Greenvises were largely an opportunistic, ambush predators, due in part to their slow rate of movement. Whenever they recognized that prey was sparse in a particular area, a greenvise would proceed to reposition themselves throughout the day. They fought by using their tendrils to ensnare and pull prey towards the vise-like grip of their maw to swallow them whole.
+
+Ecology
+These plants were generally only active during daylight hours, entering a state of rest during the night.
+Habitats
+Greenvises typically grew around hills, plains, or marshes in areas that had temperate to warm climates.
+Relationships
+Some fey were known to cultivate greenvises and it was not uncommon for stirges to lair near them.
+
+History
+Around 1372 DR, swamp striders were counted among the many creatures that one could potentially encounter on a rare occasion while traversing the sewers of Waterdeep.
+
+Following the Spellplague, the inhabitants of the city of New Sharandar grew greenvise vines on their defensive wall, the Living Abatis.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grandfather plaque
+
+A grandfather plaque was a type of small, guardian gargoyle in the Realms, created for the purpose of acting as a door guardian.
+
+Description
+All grandfather plaques were immobile constructs, lacking any sort of limbs, being that they were designed to be attached to the stone lintel of a door. Their bodies consisted entirely of a bas relief of a human face, depicted with strong, dignified features. On average they measured around .
+
+Personality
+All grandfather plaques possessed an average level of intellect, comparable to that of a human, allowing them to converse with and screen guests. They were utterly devoted to their role as guardians, finding their existence to be meaningless if they were left without people to guard, and exhibited absolute loyalty towards anyone who lived within a building they guarded. Their focus was so narrow that they seldom interacted with other creatures unless a response was needed.
+
+However, whenever a grandfather plaque's building fell into ruin and abandonment, it would engage in conversation with other intelligent creatures, imploring them to either repair the structure or remove them from their lintel and install them elsewhere on a door of a structure that was in active use. They would often, in return, offer all the treasures that had accumulated over the years from previous trespassers.
+
+Abilities
+These constructs possessed a limited form of telepathy, allowing them to mentally converse with a single person whom was designated at the time of their creation. They also had the power to wizard lock the doors they were attached to, allowing them to open and close them at will.
+
+Grandfather plaques were imbued with three spell-like powers to defend themselves and their charges. Firstly, they could shoot magic missiles from their eyes. They could shout at intruders, as per the wizard spell. And anyone who touched either them or their door without permission would find themselves weakened, as if they were the victim of a ray of enfeeblement. Additionally, they could only be harmed by weapons that had a +1 or greater enchantment.
+
+Society
+Grandfather plaques were solitary constructs, never being placed on doors in pairs. If ever a complex had more than one grandfather plaque as part of its security, they would always be found on separate on doors.
+
+Notable Grandfather Plaques
+ Grandfather plagues were among the specialized stone monsters that guarded the lair of the blue dragon Iymrith.
+ The Sleepy Dwarf Tavern in Ravens Bluff had a grandfather plaque installed on the stairwell door leading to its second floor. Anyone who attempted to pass through its door would be directed to first check-in with Mary Grace at the Guests Relations podium.
+ In the Vast, the manor house of the wizard Raven had a cemetary that included a tomb for the Warlord Hastigor whose doors were guarded by a grandfather plaque with a bearded visage.
+ Within the burial vaults of the Uthtower, the nobility of the kingdom of Uthtower had a grandfather plaque in the likeness of their own face installed on the stone alcove of their burial niche. Beneath each of these grandfather plaques was an inscription, detailing the name of the person interred as well as their birth and death dates, enumerated in Uth Reckoning. Some were additionally inscribed with a rather cryptic message. If these plaques were addressed or touched in any fashion, they would incite the inscription in an archaic dialect of Common.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Gronag
+
+Gronag was a goblin warrior devotee of the Absolute who traversed the shadow-cursed lands during the late 15 century DR.
+
+Description
+Gronag was a male goblin with facial pain across his left eye, dark-yellow hide, a mohawk, and crudely-cobbled together goblin metal armor and a scimitar.
+
+History
+In the, Gronag joined the new "deity" that emerged in the Western Heartlands – the Absolute. The goblin joined the cult's army in the shadow-cursed lands around the Moonrise Towers and was tasked, along with a group of other cultists that included Kansif, Vez, and Bedi, with manning a checkpoint designed to help the cultists cross the deadly land. There, Gronag showed his cruel and sadistic traits by sending trained hyenas into the darkness after bones, where the hyenas were devoured by the curse.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grilyanthyn
+
+Most Fervid Fire Grilyanthyn of Thay was a Thayan fire elementalist and priest of Kossuth active in the mid-to-late 14 century DR.
+
+Description
+Grilyanthyn was a bulky human man who stood  tall.
+
+Personality
+Grilyanthyn aspired to be accepted by Kossuth as one of his specialty priests. He had a genius-level intellect.
+
+He preferred to avoid combat, dressing in disguise if needed and fleeing if attacked. His preferred tactic was to use a combination of invisibility and either air walk or fly to escape his enemies. If forced to fight, he favored spells like burning hands, cause blindness, cause deafness, hold person, fireball, magic missile, and slay living.
+
+History
+Grilyanthyn was a resident of the Flaming Brazier, the most notable temple of Kossuth in Thay, and held the rank of "Most Fervid Fire" within the Kossuthan clergy. He was a member of the Order of Crimson Warlocks.While his affiliation with the Order of Crimson Warlocks is not stated in The Quest for Fire, he fits the description of a member given that he is a wizard with the rank of "Most Fervid Fire".
+
+When a Kossuthan curse struck Procampur in an apparent show of Kossuth's displeasure over the construction of a shrine to Istishia, Grilyanthyn traveled to the city in hopes that he could witness his god's wrath and prove his worthiness by destroying the shrine. He falsely believed that the curse was an invitation for him to show his power.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Gravy
+
+Gravy was a term used to describe various simple sauces found throughout Faerûn and beyond, usually made using stocks, broths, and roast drippings, sometimes served poured over a dish, served in pitchers, used as a salted method of food preservation, and prepared using a gravy pan.
+
+Description
+There existed different types of gravies, but they generally all shared similar methods of preparation. Some additional flavorings to gravies varied from wine, like Stonesulder, to peas, spices, and herbs.
+
+Availability
+The Sword Coast
+
+In the City of Splendors, Waterdeep, the gravy was an eatery common sight. Hot buns filled with mussels and gravy were one of the available dishes, others were fowl roasts soaked in gravy, common across Faerûn, such as roasted squab with rustic rosemary gravy. Sliced sausages in gravy was a more humble meal in Waterdeep, one of the places one could purchase the dish was Zestra's Hot Soups. In a nearby village of Amphail, Ammakyl Flowers and Foods sold meat skewers dipped in gravy.
+
+Further north, in the city of Neverwinter, gravy was sometimes served with a thin stew of greens or atop a mound of mashed potatoes.
+
+Down south alongside the Sword Coast, gravy was sold to sailor customers of the Blushing Mermaid in Baldur's Gate, ladled over nutbread and alongside cheese handwheels. Other dishes that included gravy in the area included poutine, a mound of fried potatoes doused in gravy and curds, pork loin cooked with apple and cider gravy, and roasted beef in mustard and gravy.
+
+The city of Crimmor in Amn was home to The Old Wheel tavern known for its rich wine gravies. Purskul Platter dish from Amn's Purskul, was pheasant, grouse, and smoked beef, served in gravy.
+
+In Tethyr, Blackthorn's Brew, a festhall in Velen, served Sunsplash, a salad of cheese, ferns, lettuce and gravy. In Rumnthorygh's Welcoming House of Mosstone, chicken was stuffed with breads and onions and served in a chaotic smattering of gravies and sauces, while the Drover's Last Drink sold pies filled with gravy. Further south, in the Calishite town of Tulmon, gravies were used to cover tough overcooked meals served at Havalanker's Tavern.
+
+Interior and North Faerûn
+In Cormyr and in the capital, Suzail, gravy was flavored with roasted venison and lamb kidneys.
+
+In the Dalelands, gravy was a usual condiment served with roast boar and roasted phledge, a local ground-partridge, was accompanied by thick pea gravy.
+
+Across the Dragon Reach from the Dalelands, gravy was common in the Vast. Namely, stag in gravy was served at The Jellied Eel, a renowned restaurant in Ravens Bluff, and spiced gravies were found on Sword Tables Dining Lounge's menu.
+
+South and East Faerûn
+In the Old Empires, spicy gravy was consumed in Unther, and sometimes was served as a smallbite.
+
+Other Regions
+Even the drow of the Underdark appreciated a good gravy. They served rothé roasts with mushroom gravy and a recipe for mushroom gravy was recorded in the Cookbooks of the Underdark, recovered from a ruin in the Vast in the 14 century DR.
+
+History
+Gravy was an ancient type of sauce that was consumed as far back as the Empire of Netheril and the time of the ancient Cursrah, a city-state in Calim Caliphates. In the glory days of the ancient Myth Drannor, the elves served roasted stag with nut-and-leek gravy.
+
+In the late 14 century DR, bread soaked in simple gravy was a meal served to slaves of the Cult of the Dragon that were forced to excavate the ruins of Myth Drannor under the command of Kya Mordrayn.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Greenhallow Mantle
+
+Greenhallow Mantle was a ballad penned sometime before the early 14 century DR.
+
+Contents
+Greenhallow Mantle was one of many songs, ballads, and musical compositions in Mintiper Moonsilver's repertoire. The Company of Crazed Venturers was present at the famed bard Mintiper's performance in Neverwinter sometime in the early-to-mid 14 century DR, during which he performed several songs, including Greenhallow Mantle.
+
+Appendix
+References
+
+---
+
+## Green cabal
+
+The green cabal was a cabal of green dragons during the Time of Dragons.While the green cabal is never explicitly stated to be made up of green dragons, throughout the story it is stated that wyrms control almost all territory; thus, it is assumed for the purposes of this article that the cabal, and other forces facing King Orchtrien, are dragons.
+
+Territory
+They possessed lands to the west of King Orchtrien's domain, until they lost these.
+
+Relationships
+The green cabal was a foe of King Orchtrien.
+
+History
+In, the green cabal lost a significant battle to the forces of King Orchtrien, being forced to abandon their lands east of some river.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Greaseball
+
+Greaseballs were a rare variety of an ooze that could be summoned to the Prime Material plane by some mages alongside grease mephits and grease elementals.
+
+Description
+Like other ooze creatures, greaseballs were living organisms made entirely out of grease and resembled blobs of pulsating slick oily mass. They possessed low animal-like intelligence and could perform only the simplest tasks when compelled by their summoners.
+
+Abilities
+Greaseballs were slow-moving creatures that left a thick coat of grease behind as they moved, similar to the effects of the grease spell. The grease secretions were highly flammable and the creatures' own bodies were highly vulnerable to fire. However, they were resistant to slashing and electricity.
+
+In battle, they simply slammed at their opponents with pseudopods.
+
+History
+In the, the mad sewer-dwelling grease-mage named Aelis Siryasius inhabited the sewers of Baldur's Gate. His small patch of sewers was infested with a small army of grease mephits, grease elementals, and greaseballs.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+Connections
+
+---
+
+## Great Plague of the Inner Sea
+
+The Great Plague of the Inner Sea, also called the Great Inner Sea Plague or the Dragon Plague, referred to a 6–7 year period beginning in the  when at least three separate diseases ravaged the lands around the Sea of Fallen Stars.
+
+Location
+The various diseases of the Great Plague spread across the northern and southern coasts of the Inner Sea, ravaging Aglarond, Chessenta, Impiltur, Unther, The Vast, the Vilhon Reach, and the Wizards' Reach. The neighboring realms of Mulhorand and Thay were largely unaffected.
+
+History
+Beginning in 1317 DR, a dragon known as the Wandering Wyrm appeared in the east of the Inner Sea and spread plagues everywhere it went. It left Aglarond beset by a ravaging disease, and beginning in Impitur, it began spreading an entirely different affliction that first infested the infected with maggots before transforming them into undead horrors. The Wyrm then moved westward, where its disease found its way to Tsurlagol in The Vast and threatened to infect Procampur.
+
+Efforts to fight the Wandering Wyrm were futile, as was demonstrated when it annihilated a legion of pegasus-mounted knights sent by King Rilimbrar of Impiltur. The Wyrm killed them and sent their reanimated corpses to ravage Lyrabar. Fear among the people in cities of The Vast led them to be willing to turn on each other to protect themselves.
+
+Also beginning in 1317 DR, lands on the southern coast of the Inner Sea were ravaged by the Plague of Dragons, most notably Chessenta, Unther, and Turmish (followed soon by the rest of the Vilhon Reach), although it was unclear if this was also caused by the Wandering Wyrm or by the reawakening of a deadly disease dating back to the Rotting War from somewhere in the Chondalwood. By, this disease had crossed into the Wizards' Reach, causing great social upheaval and prompting Thay to withdraw from an ongoing occupation of the region to protect itself. That same year, Queen Ilione Olósynne of Aglarond died of the plague ravaging her land, making her the last Olósynne monarch.
+
+While the plagues were said to have ended in most places by the, disease persisted through the following year in Chessenta and Unther.
+
+Outcome
+The plague took a huge toll in the Old Empires, where Chessenta was decimated and Unther suffered heavily, and couriers from infected Unthalass were responsible for spreading it even to places like the Citadel of Black Ash.In an apparent error or typo, Powers & Pantheons dates the Great Plague of the Inner Sea to 1311 DR.
+
+Some blamed the Red Wizards of Thay for the plagues while others laid the blame on Talona, the goddess of diseases, who was known to inflict pestilence on Faerûn when she felt that her worship was dwindling. Sure enough, veneration of Talona was said to have reached its height by the end of the Great Plague as people flocked to her for forgiveness and protection.
+
+In the Wizards' Reach, despite the social unrest caused by the plague, cities like Escalant celebrated their newfound independence following the departure of the Thayans.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Graven Chandler
+
+Graven Chandler was a member of the extended Midler-Chandler family in the mid-1480s DR, who lived together in the Midler farmhouse near Eveningstar.
+
+Description
+Graven was a middle-aged man with long blond hair, and dressed in a long blue tunic.
+
+Relationships
+Graven was the child of Wilaver and Caryn Chandler, and brother of Jandove. He was the uncle of her two sons Normon and Thoben.
+
+History
+During the Sschindylryn invasion of Eveningstar, the drow forces of Vicala Szind attacked the farmhouse and captured the entire family alive so that she could interrogate them about the Thread of the Weave. Unknown to the drow, the houseservant Maisby had escaped back to Eveningstar and sought help, getting first a pair of Purple Dragons and then a team of adventurers to investigate the farmhouse. Unfortunately, Vicala Szind had set all ten Midlers and Chandlers as part of a sacrificial life-draining spell, and the rescuers would have had to stealthily rescue each family member without Vicala noticing, lest she spitefully kill them.
+
+Graven was kept bound up in the master bedroom with his sister Jandove under the watch of bickering drow looters.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Grung Stomper
+
+Grung Stomper was a young ankylosaurus who competed in the dinosaur races of Port Nyanzaru in Chult during the late 15 century DR.
+
+History
+As of the start of the death curse, bookies were giving Grung Stomper even odds of winning at the weekly races. Grung Stomper was present at the races on the day of the inaugural Na N'buso's Haka.
+
+Appendix
+See Also
+ Grung
+Notes
+
+Appearances
+
+References
+
+---
+
+## Graz'zt's habiliment
+
+Graz'zt's habiliment was a suit of magical leather armor provided by the demon lord Graz'zt during the 1480s DR.
+
+Description
+The close-fitting leather armor left the legs and arms bare, composed simply of a jerkin, skirt, and sandals. It was comfortable to wear and pleasing (sultry, even) to look at.
+
+Powers
+The armor provided broad magical defenses against physical and magical threats, improved the wearer's vitality, and made it easier to dodge. It also made the wearer a touch narcissistic about their good looks, with a minor obsession with their own reflection.
+
+History
+The outfit was granted by Graz'zt to an adventurer that foiled his plans in Tethyamar. Defeated in his schemes, he playfully withdrew and left them the habiliment as a reward for the good sport.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Greed mote
+
+Greed motes were creatures that were connected to diamonds. They were made entirely out of greed and could incite greed in others.
+
+Description
+Greed motes appeared as glowing forms of green light, emanating from within a diamond. Their bodies had tentacles with barbs at the ends.
+
+Abilities
+Greed motes first appeared as green beams of light that could curse nearby creatures. Those cursed became stunned by greed when presented with items of immense wealth.
+
+The stingers of a greed mote were poisonous and in some cases paralytic.
+
+Greed motes could not be killed until the diamond that they were connected to was destroyed. When the diamond was broken, the greed motes were also destroyed, but they had one last chance to cause hallucinations of violent paranoia in any creatures affected by their curse of greed.
+
+History
+In the 1480s DR, members of the Cult of the Dragon hid a diamond inhabited by greed motes in a cache of treasure in a part of the northern Greypeak Mountains that had become green. Veradda Stoor, a famous treasure hunter, collected notes on the location of this cache. When she was killed by giants, adventurers used her notes to find the cult's treasure. By the time that they arrived, the greed motes had already manipulated two frost giants into killing each other.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grinnsira
+
+Grinnsira was a red dragon of the Stonelands in Cormyr in the late 14 century DR.
+
+Abilities
+Grinnsira was of particular magical skill, outclassing some of the greatest dragons.
+
+Activities
+The dragon was secretly the mastermind behind a number of border-raiding parties in the Stonelands.
+
+Relationships
+She had made pacts with two chimerae, promising them food and treasure in return for service.
+
+History
+Grinnsira was one of the red dragons in the Goblin Marches. As of, she was working on organizing the local kobolds into an army, being opposed in her schemes by the silver dragon Fi Lendicol.
+
+Rumors & Legends
+Grinnsira claimed to have visited a site holy to dragons somewhere in Anauroch.
+
+Appendix
+References
+
+---
+
+## Grykk Bannersworn
+
+Grykk Bannersworn was a young and inexperienced adventuring paladin of Torm who was raised in a monastic order and sought to gain life experience in the city of Neverwinter, active in the late 14 century DR.
+
+Description
+In the late 14 century DR, Grykk Bannersworn was still an unusually young man for a paladin. He was a half-orc with a large brutish face, brown hair, and wild eyebrows over his huge blue eyes. He had a gray hide. He was a nervous young man who still wore his armor and wielded his weapons with well-trained ease, yet noticeably without having enough real combat experience.
+
+Possessions
+Grykk carried a set of unique heavy armor and a unique heavy shield into the city of Neverwinter on his quest for good.
+
+History
+Grykk was a member of a monastery dedicated to Torm, The Hand of Righteousness, where he was trained from a young age to weild weapons and wear armor in compat to honor the dogma of his church. After he learned everything he could from the monastery's teachers, they sent the young half-orc into the world to gain life experience, do just deeds, and aid the suffering. He arrived in the city of Neverwinter, attracted to the recent strife and economic distress, where he found a home at The Wailing Wench Tavern on Tyr's Eye plaza in the . From there, Grykk Bannersworn attempted to find adventuring employment with a goodly group of people, waiving all fees. Were the adventurers of not good law abiding nature, Grykk charged them 1,000 gp for his services and absolutely refused employment with malicious and chaotic groups.
+
+Grykk may have had joined a group of adventurers who worked alongside merchant Sa'Sani of the Mercantile House, were they aligned in their goals to help Neverwinter's recovery. If Grykk were to collect 1,000 gp from the adventurers as a "proof of their sincerity," the half-orc would send that hefty sum to his brothers and sisters back in the monastery to pay for supplies to be given out to the needy. Soon after, Grykk and his new companions uncovered a plot of the dark god Zehir to swallow the Sword Cost with his Forktongue Cultists. Subsequently, he heroes traveled to the Temple of World Serpent from where the Forktongues operated, and defeated Zehir's avatar.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Griff
+
+Fist Griff was a member of the Flaming Fist, and secretly a True Soul of the Cult of the Absolute, who served the city of Baldur's Gate in the late 15 century DR.
+
+Description
+Griff was a fair-skinned, blonde, and brown-eyed human woman. She wore a leather armor uniform of the Flaming Fist, armed with a heavy crossbow.
+
+History
+In the, during the Absolute crisis, Fist Griff could be found in or near Bloomridge Park in the Lower City of Baldur's Gate. If she were to meet the group of adventurers known as the Absolute Adversaries, following an attempted massacre of the cultist followers of Bhaal, Griff's illithid tadpole would become a way for the Absolute itself to communicate with its enemies, leading to Fist Griff's death.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Gregori the Broken
+
+Ser Gregori the Broken was a Purple Dragon knight who met his end in the shadows of Wheloon Prison in the late 15 century DR, only to rise again as a vengeful skeleton.
+
+History
+During the operation of the Wheloon Prison, the Night Brigade gang took over part of the city. Agarta the Breaker operated a series of arenas where gladiatorial beasts and prisoners were pitted against each other, whether locals or not. The Purple Dragon knight Ser Gregori was one of these victims, and his remains were dumped along with the others in a small flower-dotted clearing. When the Riverside Rats sent a team into the prison to take out Agarta, Ser Gregori rose from the dead as a powerful skeleton warrior along with a small army of zombies to attack whoever they could find, before finally being laid to rest.
+
+Appendix
+Notes
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Gregor (demigod)
+
+Gregor the Unshaven was the ruler of the Northern Wilds, and a vile demigod of those too lazy to shave. He was also known as a ravisher of women.
+
+For unknown reasons, there was a statue in memory of him on the second level of Undermountain as of 1372 DR, which related the above information about him.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Great Sword of Vandmeer
+
+The Great Sword of Vandmeer was a magical sword from the Whamite Isles in the Sea of Fallen Stars. Those with fighting ability could wield it, granting them impressive attack power in a series of wild conflicts between various nations and pirates of the Whamite Isles at some point prior to the mass death of the population in the .
+
+Reputation
+The Great Sword bore the name of the Whamite nation Vandmeer. The particulars of its relationship to Vandmeer were unknown.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grout
+
+Grout was an inhabitant of the city of Baldur's Gate in the late 15 century DR.
+
+Description
+Grout was a forest gnome man with a sun-kissed complexion, large green eyes, and wavy blonde hair.
+
+History
+In the, Grout could be found in the docks of the Lower City of Baldur's Gate, where commoners could buy fresh fish, some said the best place to shop for the catch of the day. The docks were attacked by a band of sahuagin when the area was visited by the Absolute Adversaries, if was unknown if Grout survived the attack but he thought sahuagin to be disgusting creatures.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Greater ruin
+
+Greater ruin was a rare epic transmutation spell that upon casting inflicted immense damage upon one creature or up to a  cube of nonliving matter.
+
+Effects
+As of the Year of Wild Magic, 1372 DR, a single target within range (12,000 feet or 3,658 meters) and sight of the caster received immense damage. If the target was weak (or a construct, object, or undead), it was utterly destroyed as if disintegrated. Only a trace of fine dust remained.
+
+The spell could not be countered, interrupted, or dispelled using normal spells. To prevent the spell from being cast, one had to, for example, use an epic version of counterspell.
+
+Fully avoiding the damage of the spell using even the most amazing physical feats of fortitude was almost impossible.
+
+Development
+Before it could be cast, greater ruin had to be developed. Both divine and arcane casters could develop this spell. Developing an epic spell was different from learning normal spells. Once an epic spell was developed, the caster simply knew the spell. A developed epic spell became a part of the caster and could even be prepared without a spellbook (if a wizard was the caster).
+
+To develop the spell, 531,000 gp and 11 days were needed along with precise arcane procedures. Only spellcasters well-versed in spellcraft could develop greater ruin.
+
+Components
+The spell required verbal and somatic components. The spell could also harm the caster's knowledge, but it depended on the variation.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Grazia Drodeen
+
+Matron mother Grazia Drodeen was a drow cleric, wizard and the leader of her house in a drow city.
+
+Description
+Born as the second daughter of a sonless house, she was sent to become a wizard, but managed to slay her older sister thus taking on the mantle of heir to her house, and later inherit the title Matron Mother herself.
+
+Possessions
+She wore a pair of bracers of defense, and a ring of earth elemental command, while wielding a rod of rulership. She also possessed a wand of magic missiles and a crystal ball.
+
+Relationships
+Her eldest living daughter Alodia Drodeen, had great hopes for their house' position in the city after Grazia's rise to rulership.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Greataxe of burning
+
+Greataxes of burning were enchanted weapons wielded by the strongest among the Riders of Nesmé to help them in the struggle against the trolls of the Evermoors and adopted into use sometime before the late 14 century DR.
+
+Powers
+Greataxes of burning were truly huge weapons that took the strongest of warriors to wield with finesse in battle. Each of these axes possessed a simple +1 enchantment that guided the wielder's hands towards the target and made the axe's slashes more deadly. Their axeheads were shrouded in flames, searing and burning anything and anyone that met the axe's edge.
+
+History
+These axes were wielded by Riders of Nesmé who defended their home from the constant threat of trollish hordes that spilled out of the nearby Evermoors. In the, a greataxe of burning could be found in the inventory of Graendel Granitefist's smithy and shop in the town of Targos of Icewind Dale.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grimbold Tornhelm
+
+Grimbold Tornhelm was a duergar raider and mercenary who operated in the Underdark underneath the Frozenfar region of northwest Faerûn in the late 14 century DR.
+
+Description
+Grimbold was an old but impressively tough duergar man. He had ashen black skin and black facial hair. He wore a set of black armor with a red trim.
+
+Possessions
+The mercenary wore a glittering necklace and wielded Death's Ally axe as well as a shield of duergar fortitude.
+
+Relationships
+Grimbold commanded a gang of Underdark mercenaries that consisted of a minotaur shaman, a mindflayer, and a bugbear.
+
+History
+In the, Icewind Dale was battered by natural and supernatural disasters caused by an awakening demigod in the Reghed Glacier. The town of Termalaine was evacuated after it was buried under the snow of a magical and deadly snowstorm. Seizing this opportunity, Grimbold Tornhelm led his gang of Underdark riffraff to plunder the town's famous tourmaline gem mines, hoping to grab enough wealth to retire from the mercenary life in his old age. However, the mines were occupied by Marcos Flass, a Red Wizard of Thay building gem golems using the mine's supply. Marcos wanted the marauders gone or killed. He may have had the famed Hero of Neverwinter confront Grimbold Tornhelm and remove the duergar's head in exchange for lending his tourmaline golems to the defense of Targos in a looming battle. It was unknown whether the Hero allied themselves with the Red Wizard and ended Grimbold's life.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Granwell Keep
+
+Granwell Keep was a fortified outpost of the Purple Dragons located in the Blooded Wood in the kingdom of Cormyr.
+
+Description
+The Keep comprised a central stone structure with two towers, surrounded by wooden palisade walls built atop older stone foundations.
+
+History
+
+Circa 1485 DR, after the failed Shadovar invasion of Wheloon, the Keep was quickly and stealthily captured in the night by a small army of mercenary sellswords commanded by Netherese forces. They proceeded to use the captured fort as a base of operations as they searched for the Abyssal Planus Mechanus Nether Scroll that Oriphaun Huntsilver had scattered along the High Road, taking advantage of the Sschindylryn invasion of Eveningstar that drew away almost all Cormyrean forces.
+
+After each side had gathered up as many pieces as possible, Rina Belostos, Olyn Araphyr, and Girmond Dyle organized a full attack on the Keep. While Girmond held the Harpers' pieces nearby, other agents moved to attack—only for the Shadovar to find Girmond first, kill him, and assemble the Nether Scroll themselves. At the same time, a force of yuan-ti approached the Keep, intent on taking the Scroll for themselves. Though the Harpers forced their way in through the mercenaries and wizards defending the keep, they were too late to stop an unwise wizard from accidentally using it to open a portal to the Abyss and causing a brief invasion led by Razagnol. In the end the day was won by the Harpers, with Elminster and Rina teleporting in to ensure the Scroll was kept hidden and safe.
+
+Appendix
+Notes
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Greaves of seasons' warding
+
+The greaves of seasons' warding was a pair of aged boots found in Myth Drannor during the late 14 century DR.
+
+Powers
+The boots protected against the harshness of every season and weather, helping resist extreme heat, cold, and even lightning and acid.
+
+History
+The boots may have been found when the Cormanthor Elves pursued the drow raider Niziira Xiltun into the Underdark below the city and defeated her.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Grease mephit
+
+Grease mephits were a rare variety of elemental mephits that could be summoned to the Prime Material plane by some mages alongside greaseballs and grease elementals.
+
+Description
+Like other elementals, grease mephits were creatures composed of grease. They resembled mud mephits – tiny and ugly humanoid-shaped creatures with wings, covered in oozing, slick, oily grease. They possessed low intelligence but were sentient creatures.
+
+Abilities
+As elemental creatures of grease, they were vulnerable to fire but completely immune to poison. In battle, grease mephits flittered about the battlefield and flung handfuls of grease at the enemies. They could also discharge a burst that covered the cone-shaped area in front of them in slippery grease. A grease mephit could summon more grease mephits to its aid, and upon death, they exploded in a damaging, forceful burst of grease.
+
+Ecology
+Grease mephits had an affinity for filth, sewage, and rotting food. When they died, a mage could return them to life as magma mephits via the invigorating flame spell.
+
+History
+In the, the mad sewer-dwelling grease-mage named Aelis Siryasius inhabited the sewers of Baldur's Gate. His small patch of sewers was infested with a small army of grease mephits, grease elementals, and greaseballs.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+Connections
+
+---
+
+## Grenn
+
+Grenn was a Harbormaster of the city of Westgate in the late 14 century DR.
+
+Description
+Grenn was a pale middle-aged human man with brown eyes, gray hair, and a big and bushy gray moustache. He wore a green turban on his head.
+
+History
+In the, Grenn took the Harbormaster's title from Harbormaster Lanley, who had fallen ill. Grenn diligently did his job, despite being overwhelmed by the amount of work.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Great crossbow (hand weapon)
+
+A great crossbow was an uncommon variant of crossbow that maximized damage and stopping power at the cost of being heavier and more difficult to use. It was one of the largest and most complex missile weapons a person could find outside of siege engines.
+
+Description
+
+The great crossbow was larger and heavier than the heavy crossbow at up to, still within the ability of a typical humanoid to carry and operate but requiring specialized training to use effectively. The string was typically pulled back via a winch mechanism, requiring an extended period to reload, and the weight was such that only extraordinarily large and strong creatures (such as ogres) could even hold and shoot the weapon one-handed if needed.
+
+The sheer power of these crossbows meant that they hit extremely hard and could stagger or knock down an unfortunate target with their impact, if they weren't slain outright. Great crossbow bolts maintained their accuracy and stopping power for longer than most crossbows, tending to drop off at around 120–150 feet (46–37 meters).
+
+History
+During the reclamation of Myth Drannor in the 1370s DR, ancient magical great crossbows were among the treasures recovered from the ruins. These included intact golden age crossbows, wild magic-touched fallen age crossbows, and Thayvian-altered undying crossbows.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Great crossbow (disambiguation)
+
+Great crossbow could refer to:
+ The great crossbow (hand weapon), an extra-heavy crossbow, or
+ The great crossbow (siege weapon), a huge device invented by Nadul DaRoni.
+
+---
+
+## Grayban
+
+Grayban was a half-orcish bouncer who worked for Durnan, the proprietor of the Yawning Portal, in the late 14 century DR.
+
+Description
+Grayban was a huge intimidating half-orc with light brown hide and brown hair. He was clad in chainmail. Grayban's left arm was missing, yet it did not stop the half-orc from being an effective bouncer. His face often grimaced to intimidate possible delinquents and his Common was broken and simplistic.
+
+History
+In Kythorn of the, Waterdeep – the City of Splendors, became once again menaced by the drow from the mega-dungeon of Undermountain. The Masked Lords determined that the danger was coming from underneath the Yawning Portal, and Durnan, put out a call for adventurers willing to traverse the dungeon's depths and route the evil within.
+
+Grayban was tasked guarding the tavern's entrance and making sure that the heroes who answered the call did not wander off before Durnan's offer was vocalized to the group. Grayban was present at the Yawning Portal's common room, when a squadron of drow assassins sent by "queen" Valsharess attacked. The dark elves slaughtered many of the gathered adventurers. Survivors chased the assassins down into the Undermountain, while those killed were resurrected by the city's clergy. Grayban survived and helped Durnan with the clean up, whilst the adventurer that would be known as the Slayer of Mephistopheles descended into Undermountain.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Gralkyn
+
+Gralkyn was a thief with the Brave Blades in the 3 century DR.
+
+Description
+He was slim, nearing the point of being gaunt.
+
+Personality
+He was a little sarcastic.
+
+Possessions
+He carried many, many lockpicks and daggers.
+
+Relationships
+He was one of the Brave Blades.
+
+History
+During the Brave Blades' delve into Ondil's Tower, Gralkyn was instrumental in defeating a large trap where sparks of light followed metal objects. Later, during a battle against a trap that held a red dragon, beholder, and a mind flayer in abeyance, Gralkyn helped fling projectiles into the beholder. He also helped explore the area beyond the trap, a circular room with no end of balconies on its sides, though he realized soon that all of the balconies, including the one they came from, led into the same room.
+
+After they made their way into the lich's chamber, Gralkyn smashed one of the windows; in response, a force squeezed him out of it, and hurled him into the ground, where he died.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Greyarra Auvryath
+
+Greyarra Auvryath was an Eilistraean drow of Eilistraee's Wanderers in the late 14 century DR.
+
+Description
+Greyarra had backswept white hair, red eyes, and a small beauty mark. She wore a white shirt with pants and an ornate leather girdle, and carried a walking stick with a backpack.
+
+Personality
+Greyarra was a very relaxed and understanding individual, happy to support her friends.
+
+Relationships
+Greyarra was a dear friend of Zelliira the bard.
+
+History
+
+In the, Greyarra and the other drow followed Kelgoth Darksong to Myth Drannor in order to restore the mythal and impress the Elves of Cormanthor. The group stayed at their fortified camp, but the surface elves were uncooperative and refused to join in on their quest. Frustrated by this, Kelgoth went into the ruins on his own, followed by Zelliira and Uhlsdrin Nirveth as they searched for the Key to the Mythal. Greyarra was a touch worried about her friend heading to the House of Song, and so sent a team of adventurers to find her. Fortunately for them, Zelliira was safe and well, and the Icon of the Humans was found.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Great Waterfall
+
+The Great Waterfall was a large underground waterfall near the drow city of Sschindylryn.
+
+Description
+The waterfall was remarkably large and provided as much clear, pure water as anyone could want. It poured out a torrent from the top of the cavern, forming a pool at the bottom of the cavern that drained away without flooding the rest of the chamber.
+
+Geography
+The cavern containing the Great Waterfall was located on the edge of Sschindylryn's influence and poorly controlled, also beneath the view of the great red dragon Micahrastir. Other nearby sites included Nessaleesa's Garden, Tranquility Grove, and Agathea's hut. The waterflow originated in the Storm Horns before passing into the Underdark, then drained away elsewhere below.
+
+History
+The waterfall was traditionally fought over between the drow of Sschindylryn and a militant group of yuan-ti including Kressp and Massrak. During the Sschindylryn invasion of Eveningstar, the yuan-ti managed to take control of the entire area, securing the water supply for themselves.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Griffon's Roost
+
+Griffon's Roost was a towering mountain peak among the hills surrounding the city of Ravens Bluff in the Vast, so named for having been used as a landing spot for riders of griffons, hippogriffs, and other flying mounts that were dropping off important visitors, noblemen, costly goods for merchants, or important messages. By the late 14 century DR, it was being used by the Griffon Ride, the city's elite cavalry regiment.
+
+Description
+The top of the spiraling peak was the exit point of a one-way portal in Wyllowwood, a sublevel of the legendary Sword Coast North dungeon known as Undermountain.
+
+History
+
+In spring of the, notorious con artist Mortimer Mittlemer was expecting the delivery of six ceramic cylinders, one of which concealed the stolen emerald collection of a wealthy Dalefolk lord near Shadowdale. He couldn't ask his courier Warden Jameson to land his griffon mount just anywhere near Ravens Bluff, as it could attract unwanted attention, so Mortimer requested he land at Griffon's Roost. However, being a wanted conman, he couldn't travel through several neighborhoods and pick up the package himself.
+
+Mortimer then came up with a scheme, wherein he would use his illusion magic to take on the appearance of Charles Frederik LaVerne Blacktree IV, but go by the alias of "Lord Merriwether Winston Sheffield-Trublood the Third". He then had his trusted friend Elmerth Willow go out as a representative of this bogus nobleman and hire a group of adventurers to retrieve the package for him. Elmerth managed to find a willing group of six adventurers in Volodar's Stardust Inn. When the adventurers met Lord Merriwether at the docks, he fabricated an excuse that he couldn't retrieve his package himself as he'd be a target of pickpockets in Crow's End and the Southside District.The Southside District is never named within the original adventure, only a "poor section of town". This most likely was referring to Crow's End, which is named in the adventure. However, both districts are noted for areas of poverty and in order to reach Griffon's Roost one would inevitably have to pass through the Southside.
+
+At the peak they were met by griffon rider Warden Jameson, dressed in a long forest green robe with white embroidery and a tall, off-white turban with a silver & onyx brooch pinned to its front. Warden was initially hesitant, as he had only been anticipating Mortimer sending at most two couriers, and rebuffed them when they tried to inquire as to what was inside the cylinders. It was unknown whether or not the adventurers stuck to their original arrangement and delivered the cylinders to Mortimer.
+
+In the, a Dwarven citadel in Realmspace was skyjacked by a illusionist trickster named Tim Tumbleweed, who refused to leave until its denizens could best him in joke telling. The desperate dwarves traveled to nearby Selûne and from its residents were told that Toril harbored plenty of adventurers. They fanned out over the planet in search of someone that could aid them in ridding their citadel of Tim's menace. The pair Dilwa Dundab & Thorin Bucklebrand traveled to the Vast, landing atop Griffon's Roost in a wasp. At that time the region was in the midst of the Three Women War and a group of giant eagles on loan from Procampur were roosting on the peak.
+
+The pair luckily managed to find a group of adventurers in Ravens Bluff willing to help and escorted them to their spelljammer. By the time the party arrived, a platoon of City Watchmen were surrounding the ship. Watch Sergeant John Blackwater, quite agitated by the matter, inquired as to whether they were the owners of the vessel and expressed his desire for them to vacate Griffon's Roost. However, Commander Caroline Skyhawk of the Griffon Ride had notions of using their wasp against Myrkyssa Jelan's forces and asked if they had more ships like it. The two parties managed to hash out an arrangement, promising the services of three wasps and a thousand stout dwarven troops for Ravens Bluff's defense for the next year, but only if the adventurers could rid them of Tim Tumbleweed.
+
+Appendix
+See Also
+Interactive map of Ravens Bluff
+Notes
+
+Appearances
+
+References
+
+---
+
+## Great Mur
+
+The Great Mur was the leader of the kingdom of Muranndin during the 15 century DR.The Great Mur is given scant detail, and remains unclear whether they were a specific individual named or titled that, or if it was a broader term for any leader of Muranndin.
+
+History
+The Great Mur ruled Muranndin around 1479 DR long after the time of Sothillis and the Sothillisian War. The Great Mur only had a loose and theoretical rulership over the disparate orc, ogre, and human warlords that made up the realm, and had to allow them to feud and fight as they wished.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Grue
+
+Grue were outsiders that lived on the elemental planes and were like animals of the four elements.
+
+Description
+There were few commonalities between the different types of grue expect for a negative disposition.
+
+Creation
+They were spawned by the taint of evil magics in the elemental planes and would eagerly leave their home planes at the first opportunity.
+
+Usage
+At the heart of every grue lay a pearl-like object with inscriptions prized by many a mage for their use in elemental spells. These fist-sized objects came into being alongside the grue itself and were the only thing to remain were they ever slain.
+
+All grues could be summoned with the spell summon monster IV, although killing a summoned monster just returned it to its home plane, thus making it useless for obtaining the prized spell-object.
+
+Ecology
+All grue hunted vermin and acted as guardians and pets for the other inhabitants of the four elemental planes.
+
+It was not known whether or not there were grues of the para- and quasi-elemental planes.
+
+Varieties
+
+ Chaggrin were grue from the Elemental Plane of Earth.
+ Harginn were grue from the Elemental Plane of Fire.
+ Ildriss were grue from the Elemental Plane of Air.
+ Varrdig were grue from the Elemental Plane of Water.
+
+Appendix
+See Also
+ Elemental vermin
+References
+
+---
+
+## Grimvalda
+
+Grimvalda was a member of Clan Ironvein, a family of hill dwarves renowned throughout Battledale, and the head chef of the outlaw keep Vulture's Roost in the Dalelands in the mid-to-late 14 century DR.
+
+Possessions
+Grimvalda typically dressed in a vest woven of gold threads and a pair of loose-fitting pants that were trimmed with gemstones. She also had copies of the keys to all of the stronghold's doors.
+
+Within the hidden compartment of her bedroom's trunk, Grimvalda kept a small pouch of gold pieces and a sketch of her husband within a copper picture frame.
+
+Activities
+Grimvalda lived and worked in Vulture's Roost as part of the household servants alongside her brother Starnbrow Ironvein, their niece, Dunrain, and nephew Dezivan. Within the mansion-like estate, she shared the eastern living quarters with Dunrain.
+
+Though her brother Starnbrow was the head of the servants, Grimvalda was the lord and sovereign of the keep's kitchen. They all worked eighteen-bell shifts, waking up five bells after midnight and retiring to their quarters one bell before midnight. On occasion, they spent quality "family time" together within the manor's private dining room, a room that they otherwise went into to have private meals alongside their employer and her two trusted lieutenants, the half-orcs Darok and Szorp.
+
+Along with the lieutenants and other servants, Grimvalda had special permission to enter the war room of Vulture's Roost without prior authorization.
+
+Relationships
+She was married to a man by the name of Daltagar, who ran a dwarven alehouse in the Sembian city of Yhaunn.
+
+Grimvalda and her family were treated well by the warlord Aleta "the Vulture" Vanmarwin and their counsel was trusted in all nonmilitary matters. To her, they were the closest thing she had to a family. Though they recognized she was far from perfect, Grimvalda and the others were dutifully loyal to Aleta. Unlike all other residents of Vulture's Roost, she and the other Ironveins would only ever refer to her as "Lady Vanmarwin", never as her persona "the Vulture".
+
+Like many dwarves, they took pride in their work. They believed Aleta was worthy of respect and took umbrage with anyone that questioned her hospitality and with any unwelcomed intruders that defied her. And in times of need they would rally around in her defense, brandishing clubs.
+
+As her employer had a taste for gourmet food, a considerable amount of funds were spent towards supplying Grimvalda and her kitchen with both rare ingredients and rare, hard-to-find recipes. She was even given access to nine leather-bound cookbooks that Aleta had compiled herself.
+
+History
+Around the, the Harper spies Elariel Taias and Kimach Taias were discovered in the vicinity of Vulture's Roost, shadowing a patrol of the Vulture's brigands. They managed to capture Kimach, but only wounded Elariel before she fled deep into the woods, eventually escaping into Eoghan's grove. The titular treant Eoghan, a longtime ally of the Harpers, provided Elariel shelter and managed to convince some dryad allies to create false trails leading away from the grove. As hoped, her pursuers eventually gave up on looking for Elariel and returned to Vulture's Roost with their sole captive.
+
+With a member of the Harpers in captivity, over the coming week the Vulture invited the Zhent warmage Toren Witherfield and his envoy of representatives to Vulture's Roost, planning a grand feast and to present Kimach before them as an offering. Aleta Vanmarwin hoped that this would be just what she needed to further solidify her worth in the eyes of the Zhentarim and securing their aid in expanding her influence over Battledale and Tasseldale. She also believed that this would serve to fan the flames of the conflict between the Harpers and the Zhents, keeping them distracted from her own activities, and consequently through their conflict drive more hamlets and villages into seeking protection under her.
+
+Aleta and her servants prepared an extravagant feast for her guests of seven entrées. They set the feast hall's table with magnificent sets of gold dinnerware for sixteen people, fragile crystal wineglasses and decanters, and silver candelabras. On the expected day of the feast, Grimvalda and the other dwarves worked tirelessly to have everything prepared.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Grave wrappings
+
+The grave wrappings were a set of magical "handwraps" found in the graveyard of Deep Glen in Cormyr during the Sschindylryn invasion of Eveningstar.
+
+Description
+The handwraps were made from the mouldering fabric corpse-wraps of an interred corpse.
+
+Powers
+The wraps were filled with destructive, entropic energy, and made the wearer's physical blows more stunning. They also possessed an evilness that weakened any good person that tried to use them.
+
+History
+The grave wrappings were naught but mundane cloth in the grave until House Szind attacked Deep Glen and their necromancers began animating the contents of the graveyard. The wrappings absorbed this necromantic energy and became something more.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Grimstad
+
+Grimstad was a village located on the island of Gwynneth within the Moonshae Isles.
+
+Geography
+The village was located along the northern tip of the island at the mouth of the Strait of Alaron on the Sea of Moonshae. The town's ruins came were surrounded by the trees of the Winterglen.
+
+History
+During the height of the Northlander kingdom of Oman in the 14 century DR, Grimstad fell within Oman's territory on Gwynneth.
+
+By the late 15 century DR, following the rise of Sarifal, Grimstad lay in ruins.
+
+Appendix
+References
+
+---
+
+## Grove of the Great Tree
+
+The Grove of the Great Tree was a dryad grove in the King's Forest of Cormyr that was threatened by the Sschindylryn invasion of Eveningstar in the late 15 century DR.
+
+Description
+The center of the grove was the Great Tree, a sentient tree of immense power that protected the surrounding forest, also serving as the tree-home of the Great Dryad. The other dryads and their trees were scattered about, acting as a defensive force for the Great Tree. They were further aided by vine blight-like plantoid defenders.
+
+History
+
+When the drow launched their invasion of Cormyr, their forces began burning and despoiling the King's Forest as they went. The Grove of the Great Tree came under threat, and so the dryads sent Ravanys Woodsoul to gather aid from Eveningstar. By the time help arrived, the Great Tree had been cursed by fell magics and seemed like a dead trunk. Despite its poor state, the Great Tree could draw upon reserves of energy in the soil to rejuvenate itself and the surrounding area, as well as slaying the invading drow, only requiring time to complete the ritual.
+
+The attackers arrived under the cover of the Darkening and included drow soldiers, wizards and necromancers, priestesses of Lolth, giant spiders, undead minions, and fierce Cay'Vorym Battlemistress driders. Most notable of all was the summoned salamander Braznioch, who simply wished to burn the whole forest down. Despite the fierce attack, the Great Tree survived to complete its ritual, reviving the damaged woodlands and destroying the invading forces entirely. The victorious heroes were rewarded with, among other treasures, fey magic-infused moss and toadstools.
+
+Appendix
+Notes
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Greenweald Lane
+
+Greenweald Lane was a rural dirt and flagstone road that ran from near the High Road of Cormyr into the King's Forest.
+
+Geography
+The Lane proceeded from the edge of the forest west of Eveningstar, running roughly south deeper into the woods. It was accessed by a large gatehouse or tollhouse as it entered the King's Forest, and it proceeded through the woods in a winding fashion before passing by the hidden Harper Lodge.
+
+History
+
+In the mid-1480s DR, the Lane briefly became a battleground. Wizards of Thultanthar used hired mercenaries to blockade the road in an attempt to catch the Harper Bensen Virandson and the Nether Scroll fragment he carried, after it was scattered and hidden by Oriphaun Huntsilver. Thanks to reinforcements sent by Rina Belostos from Eveningstar, Bensen was able to traverse Greenweald Lane and reach the Harper Lodge where it could be safely stored, despite the best efforts of the fearsome Dom and his elite fighters.
+
+Appendix
+Notes
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Gruck
+
+Gruck was a strong earth elemental who was controlled by the medusa Sshaastess in the late 15 century DR.
+
+History
+When Oriphaun Huntsilver left a piece of the Abyssal Planus Mechanus Nether Scroll with Seamus at Lost Souls' Swamp, the medusa Sshaastess was drawn by its energies and proceeded to dominate the area with foul magic. While defending herself from Harper agents sent to recover the Scroll she summoned up Gruck and Rrosp as her bodyguards, only for them to all be slain in battle.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Griffon Graves
+
+Griffon Graves was a human druid of Cormyr during the mid-1480s DR.
+
+Abilities
+Griffon preferred to fight in the form of a huge dire bear, eschewing spellcasting in favor of raw power.
+
+History
+During the Sschindylryn invasion of Eveningstar, Griffon and his brother Leif Graves rampaged about the High Road, acting in a generally hostile manner to everyone.While unstated, it is possible that these rampaging druids were among those influenced by Halsaime of Thorngap, or they were simply very disrespectful for other reasons.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Greenstalker
+
+Greenstalker was a notable giant spider that lived in the Blooded Wood in the late 15 century DR.
+
+History
+Greenstalker lurked and spun webs in the woods near Granwell Keep, pursuing a spidery agenda while the Shadovar and Harpers fought over the Abyssal Planus Mechanus Nether Scroll.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Gray Headlands
+
+The Gray Headlands was the name given to the lands along the northernmost tip of the island of Gwynneth within the Moonshae Isles.
+
+Geography
+The Gray Headlands comprised two peninsulas in the far northeast of Gwynneth which lay at the intersection of the Strait of Oman and the Strait of Alaron as they passed to the north and east of the island respectively. Just north of the coastline was the undersea trench known as Kresselack.
+
+History
+Prior to the fall of Oman, the Gray Headlands were controlled by the Northlanders of that realm. By the late 15 century DR, when the whole of Gwynneth was controlled by Sarifal, the trees of Winterglen had claimed the whole of the headlands.
+
+Notable Locations
+ Grimstad
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grayrock
+
+Grayrock was a small island within the Moonshae Isles.
+
+Geography
+Grayrock was a lonely and windswept island that looked out over a featureless expanse of the Trackless Sea. It sat among the northernmost of the Moonshae Isles (discounting the northern parts of the Korinn Archipelago), and was located northeast of the Norheim Isles but southwest of Dragonshome.
+
+The island was rocky, with a craggy and sheer coastline of granite cliffs pocked with jagged blocks of stone. Large waves made approaching the rocky shore highly treacherous. The island had only a few pockets of soil outside of the central plateau, where a moonwell lay within a pastoral vale and seemed to make the land more hospitable.
+
+Flora & Fauna
+The island was barren of trees but hosted grasses and shrubs. In time, more fertile parts of the island came to support great yields of barley and moorgrass.
+
+History
+Grayrock was historically a barren and uninhabitable place. However, it was settled in the late 1340s DR by a half-dozen firbolgs from Gwynneth led by Yak of the Great Cat's Head and his two wives, who sailed across the Sea of Moonshae following the Darkwalker War. These firbolgs discovered a moonwell on the island and came to serve as its protector. Under their watch, it seemed to cause the island to become fertile.
+
+Within a few years, the rejuvenated island had attracted human settlers. While at first the firbolgs remained hidden from them, they eventually revealed themselves and managed to coexist in peace. By this time, the firbolgs had been completely isolated from others of their kind for many years.
+
+In the, the dracolich Gotha and his Claws of the Deep sahuagin allies attached the human villages on the island and slaughtered the inhabitants, attempting to make it look like the work of the Ffolk or the firbolgs. The dragon failed to notice the firbolg settlement, and so Yak was able to depart the island for Alaron to warn the humans about the dragon and prove his tribe's innocence.
+
+Inhabitants
+Grayrock's small tribe of firbolgs made their homes in the vale around the moonwell, using timber and slate to build their lodges. They maintained pastures for sheep and goats.
+
+The island fell within the territory of the Northmen of the Moonshaes, however they did not settle the island until after the firbolgs arrived in the early-to-mid 14 century DR. The humans settled on the coast in small villages of fishing shacks and hovels, the largest of which comprised about three dozen such homes. On the rare occasions when a human and a firbolg met, they parted quickly and amicably.
+
+Notable Locations
+ A moonwell sat in a grotto in the center of the island atop a plateau.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Graubünden
+
+Graubünden was a tiny nation of the Whamite Isles in the Sea of Fallen Stars. It participated in a series of wild conflicts against the other nations and pirates of the Whamite Isles at some point prior to the mass death of the population in the .
+
+Description
+Graubünden had a variety of colorful political figures that vied for control of the nation and the Whamite Isles. Known individuals were Queen Francis XII, the Finance Minister Doddernick, Comte Franklin duStein and Duke Drac D'Ula. They were served by the Royal Horse Corps.
+
+Graubünden shared land borders with Inter Merionydd, Bolgor, and Penbroc. The border with Penbroc was marked by the mouth of the River Gruus. The historic fortress of Gruuscastle stood on the border between Bolgor, Penbroc, and Graubünden, and the three nations often fought over it. Graubünden's interior was divided by a significant mountain range, which was the location of the village Grottbuss.
+
+Among the nations of the Whamites, Graubünden was significant for its gold mines. These included The Filbrik Gold Mine and Mr. Peabody's Pit.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grapper
+
+Grapper was a chimney sweeper known by name to the children in a certain logging camp of the Savage Frontier in the mid-to-late 14 century DR.
+
+Activities
+He was a chimney sweeper.
+
+Relationships
+He had a daughter.
+
+History
+Grapper's daughter had been presented as a drow elf by Beccard Rellock in one exhibit before, an act strongly implied to have involved only leaving her dirty with chimney soot, as note was made of the fact he didn't pay for fake ears; this also implied she was human.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Grangy Guerner
+
+Grangy Guerner was the part-time magistrate of Halfknot in the late mid-14 century DR.
+
+Personality
+He liked hearing about dragons, but didn't like the idea of meeting them.
+
+Activities
+Besides being the part-time magistrate of Halfknot, he was a rat catcher.
+
+Possessions
+He owned a number of terrier dogs.
+
+History
+During a slow winter in early, Grangy Guerner was drinking at the Dragon Defeated tavern, he said out loud that he came to the tavern partly for the dragon stories. The innkeeper, Varney, heard him and had an idea on how to increase his profits.
+
+According to the innkeeper's wife, he blamed Grangy for the ensuing incident after his scheme to capitalize on dragon stories.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grace Revoir
+
+Grace Revoir was an alien and bizzare unseelie fey witch, who inhabited the Feywild in the late 15 century DR.
+
+Description
+Grace Revoir was a woman with a delicate, almost feline, elfin appearance. She had large almond-shaped eyes that glowed orange, long elven ears, and her face was scarred with strange markings. She had a lilac skin, green hair, and a pair of impressive antlers.
+
+Abilities
+The witch possessed strange fey magics that offered enhancements to her allies. She could discharge blasts of faerie energy that dealt concussive damage that continued to sap life from the enemies for a short period of time. Grace could summon thorned roots that entangled her enemies, but for physical damage, the witch used throwing daggers. When Grace Revoir joined adventuring allies, she granted them the boon of perfect vision that enhanced their accuracy.
+
+History
+Grace Revoir was known to offer her services to some of the adventurers from Neverwinter who ventured into the Feywild wilds. Her reasons for the alliance remained her own.
+
+Appendix
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Grazla
+
+Gatekeeper Grazla was a druid and member of the Gatekeepers in the world of Eberron.
+
+Description
+Grazla was a large half-orc woman with tan skin and long brown hair.
+
+History
+During the Darkening of Faerûn, Gatekeeper Grazla had ominous dreams of the events surrounding the Spinner of Shadows and Lolth, and came to investigate the Road to Tarath Marad in Stormreach as did Eclesta Xillian. She represented the Gatekeepers as they investigated and fought against Lolth's influence alongside the Church of the Silver Flame and the Twelve, focusing especially upon the Rift Between Worlds that threatened to destroy Eberron.
+
+Appendix
+See Also
+ Gizla
+
+Notes
+
+External Links
+
+Appearances
+
+References
+
+---
+
+## Grottbuss
+
+Grottbuss was an alpine village in Graubünden in the Whamite Isles. It was involved in a series of wild conflicts between various nations and pirates of the Whamite Isles at some point prior to the mass death of the population in the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Gruusboatmen
+
+The Gruusboatmen was a crew of rowers from Bolgor in the Whamite Isles. They represented Bolgor in a series of wild conflicts between various nations and pirates of the Whamite Isles at some point prior to the mass death of the population in the . The Gruusboatmen were confined to the River Gruus, and were not known to leave its waters.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grummond
+
+Grummond was a half-orc surgeon with the Company of the Chimera in the late 14 century DR.
+
+Description
+He had a smashed nose, greasy hands, and only one good eye.
+
+Abilities
+As a surgeon, Grummond was responsible for much of the healing. He was a long-time veteran. He was also a skilled archer.
+
+Activities
+Grummond did most of the healing of members of the company.
+
+Relationships
+He served in the Company of the Chimera under Tombli, with whose background he was familiar; he considered the dwarf "nothing but trouble".
+
+History
+Grummond was the one with the most experience in the company, with a history perhaps longer than all of the others put together. When on Mirtul 21 of the, one of their own, the Uthgardt woman Saskia, lost a brawl with Captain Tombli, Grummond took care of tending her wounds afterwards.
+
+Later that night, Grummond was one of the company's men shooting arrows at Saskia as she escaped with the pseudodragon Aeristhax.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Grodder
+
+Grodder was a caravan driver in Liara in the Demiplane of Dread who was killed by a werespider.
+
+History
+A caravan driver, Grodder was one of the people murdered by Sundian Silgathen before a party from Ravens Bluff was drawn into the Demiplane of Dread by the mists. All they'd know about Grodder's death and all the other victims was that they were human.
+
+Rumors & Legends
+The bite marks in Grodder's neck suggested a vampire, though one was not responsible.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Great Conflict
+
+The Great Conflict was a war between the drow cities of Sschindylryn and Menzoberranzan, fought in an attempt to conquer the latter that led to the defeat of the former.
+
+History
+Ever since the founding of Sschindylryn, the drow houses of the city had raided aggressively throughout the Underdark, attacking many other cities as they went. In particular, House Avithoul had specialized in taking slaves, starting with their founder Matron Va'arrej, wielder of Knee-bender. This culminated in an overt attack and attempt to conquer Menzoberranzan during the time of Matron Balbaste Avithoul (sometime around the middle of the 1300s DR). This invasion did not go as planned and Sschindylryn lost the war and was forcibly demilitarized. They thereafter took a new focus on using their portals to trade (all the while planning their revenge upon Menzoberranzan).
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Greta Northwind
+
+Greta Northwind was a human resident of Eveningstar in Cormyr during the mid-1480s DR.
+
+Description
+Greta had pale skin, brown hair, and wore a short dress with leggings, as was the style at the time.
+
+History
+At the time of the Sschindylryn invasion of Eveningstar, Greta kept herself busy tending to the garden beds of her home.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Grablandurr
+
+General Grablandurr was a frost giant who served as a commander for Risen Netheril in the late 15 century DR.
+
+History
+
+Following the Shadovar invasion of Wheloon, Grablandurr served the Shadovar Archwizard Amskar, who created a flying enclave using a salvaged mythallar. Grablandurr commanded and coordinated the supply convoys through Tumblerock Pass, a narrow passageway through the Storm Horns. He was responsible for bringing in the high-quality weapons and gear from Risen Netheril that was given to the various auxiliaries and mercenaries in Amskar's army, and used a combination of orcs, gnolls, and hill giants as porters and guards, with Shadovar arcanists joining in as overseers. Having no tolerance for mistakes and no mercy for weakness, he instilled the porters with orders that they must not stop for anything while traversing the pass, not even when under attack. They instead had to rely on their guards to handle threats while they used speed and determination to escape intact.
+
+When a group of orcs performed an unauthorized raid upon Eveningstar, this combined with Oriphaun Huntsilver's reports to gain the full interest of the Harpers in the secret operation. Rina the Keen-Blade found the orcs' top-quality armaments suspicious, and corroborated it with her scout Kyra Armond, who had been monitoring the supply convoys in Tumblerock Pass for a while. Realizing that it was all a massive operation to build and arm an invasion force inside Cormyr's borders, Rina sent a team to Tumblerock Pass, where they ambushed Grablandurr's convoys. With the aid of traps and local opportunistic harpies, Grablandurr's convoys were caught and destroyed. When he got wind of the disaster, he arrived in person to avenge his professional reputation and honor, only to fall in battle as well.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Gresl-glis
+
+Gresl-glis was a yuan-ti abomination from the the Underdark who worked as a mercenary in the late 15 century DR.
+
+History
+During the Sschindylryn invasion of Eveningstar in the mid-1480s DR, Gresl-glis and a number of other yuan-ti were hired by Sschindylryn to poison the water supply of Eveningstar. Along with Fless-onas and Saz-sass, they secured a section of underground caverns that fed the groundwater and guarded the green dragon Tharmalos. When surfacers came underground to investigate the water supply, Gresl-glis initially wanted to capture them as slaves, but their tenacity led to the yuan-ti giving up on that and simply trying to kill them, leading to Gresl-glis's death.
 
 Appendix
 Notes

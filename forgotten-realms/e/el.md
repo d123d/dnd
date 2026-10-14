@@ -364,6 +364,22 @@ pt-br:Elminster Aumar
 
 ---
 
+## Eldan Ambrose
+
+Eldan Ambrose was an Amnian priest of Tempus who came to Battledale during the Time of Troubles.
+
+History
+Pilgrimage to Battledale
+The god Tempus came to Faerûn in a ruined castle in Battledale during the Time of Troubles in the . Eldan and almost one-hundred of his followers rebuilt the castle, naming it the Abbey of the Sword. The Abbey of the Sword contained numerous portals in its many underground passages and entrances, and Eldan's followers took it upon themselves to guard them against intrusion.
+
+Drow Invasion
+In the, drow came through an unguarded portal deep in the tunnels of the Abbey. The Vhaeraun-worshiping drow of the Auzkovyn clan attacked Eldan and his followers, who fought fiercely, but ultimately lost. Eldan was devoured by a summoned demon, and the drow escaped into the forest of Cormanthor, opening another portal to bring more of their kin to Faerûn. The defenders of the Abbey were greatly reduced in number, and all attempts to resurrect Eldan failed. It was determined that as long as the demon that ate him still existed, Eldan could not be raised from the dead, or resurrected.
+
+Appendix
+References
+
+---
+
 ## Elfshadow
 
 Elfshadow is the first book in the Songs & Swords series by Elaine Cunningham and the second book in The Harpers series. Elfshadow introduced the popular characters of Arilyn Moonblade, Danilo Thann, and Elaith Craulnober.
@@ -600,6 +616,401 @@ References
 
 ---
 
+## Eldath
+
+Eldath, also known as the Mother of the Waters among the Bedine people,was a lake spirit who was often worshiped as a goddess of peace and calm waters. The Mother Guardian of Groves was a mysterious deity that acted as a protector of copses and watersheds. The voice of the Green Goddess was heard in every babbling brook, her presence felt wherever there was calm.
+
+Description
+Eldath normally appeared in a  tall female form, but the details varied. Depictions in religious art and known appearances had her as a human, wild elf, sea elf, dryad, and nereid. She was tall, thin, graceful, beautiful, and her form was always translucent enough to be seen through at all times. Sometimes she was said to have dark hair while at others her hair was colorless like water, and seemed more like spun glass or flowing ice; as a dryad or wild elf, her hair was blue and green. Her eyes were a deep shade of green.
+
+Eldath's feet were bare and her green, silken, shimmering garments clung to her form as they flowed, yet her appearance soothed rather than aroused lustful feelings.
+
+Personality
+Eldath was a pacifist who avoided hostile action, even if threatened. Although shy, quiet, and enigmatic, the Green Goddess was possessed of unknown depths of character and unexpressed resolve that could not be broken. Eldath protected rivers, streams, and druids' groves.
+
+Divine Realm
+Eldath's divine realm was called True Grove. In the Great Wheel cosmology, it was located in Eronia, in the second layer of Elysium.
+
+Powers
+The Mother of the Waters was regarded as a goddess of serenity, comfort, and healing. Any waters blessed by her were known to cure sickness and madness. They could also calm the dying giving them peace and a natural passing.
+
+Relationships
+
+Eldath considered Mielikki a sister and together with her she served Silvanus loyally, even if she did find him at times intimidating. She had close relationships with Chauntea, Selûne, and Lathander, as they shared some common interests. Eldath and Mielikki were said to directly bring retribution down on any who deliberately set fires in the High Forest.
+
+Although Eldath was diametrically opposed to Tempus, the Lord of Battles, they were not enemies. He thought she was naïve, but appreciated her convictions and punished any of his followers that harmed Eldath's faithful or desecrated her shrines and temples.
+
+Worshipers
+See Church of Eldath
+Eldathyns were organized into a simplistic hierarchy, where priests reported to a local high priest responsible for a realm or larger region. Most followers dwelt in quiet forest communities with open-air sacred places of worship or in woodside cottages, far from the baseness of city life; both often containing pools of placid water in unspoiled areas. They rarely ever engaged in open confrontation and always acted subtly and peacefully.
+
+Her clergy often followed migratory patterns traveling from holy site to holy site in a local area. They took care of the holy sites and allied with the local druids who followed the First Circle, of which Eldath was considered a member. Violence of any kind against an Eldathan priest was considered taboo, and murdering one was said to bring extremely bad luck. Even so, most servants of Eldath preferred to avoid conflict rather than trying to pacify it because they understood that peace cannot be forced. They would happily preside over peaceful meetings and witness political treaties.
+
+Many people came to Eldath for help in overcoming memories of a violent past. Sometimes this was a single event, and in other cases it was the accumulation of conflicts they had fought.
+
+Dogma
+Eldath's dogma was pacifistic, and her followers only resorted to violence in defense of themselves, of their friends and loved ones, and of pools and groves. Worshipers of Eldath could be of any alignment, but priests were always non-evil. Druids that followed the Mother of the Waters remained neutral, while her specialty priests sometimes leaned toward good.
+
+Rituals
+Druids of Eldath prayed for their evocations once per day at a time selected after great personal reflection. The only calendar-related holy day of the church was the Greening, a gathering and festival celebrated at Greengrass. It was preceded by Firstflow, a festival held at varying times when the ice broke up and began to flow at the conclusion of winter.
+
+Offerings to Eldath were typically weapons broken so they could never be used again, or an item that caused an argument and so had to be discarded to promote peace.
+
+Temples
+Main article: :Category:Temples to Eldath
+
+Many rural communities had a designated pond or glade which served as a holy site for local parishioners. These places were traditionally used as places to reflect and meditate. Usually a body of water (either the pond itself or a stream near those glades considered holy sites) served as a repository for offerings to Eldath in connection with these holy places. If no water was nearby, a special tree or bush was designated as a repository on which offerings were tied to the branches.
+
+Rumors & Legends
+According to Bedine legend, the sun goddess At'ar was jealous of Eldath's beauty and imprisoned her at the oasis of Elah'zad in the Anauroch desert.
+
+Appendix
+Gallery
+
+Appearances
+Novels
+
+The Parched Sea
+
+References
+
+Connections
+
+de:Eldath
+
+---
+
+## Elminster's Ecologies
+
+Elminster's Ecologies is a 2-edition Advanced Dungeons & Dragons boxed set for the Forgotten Realms.
+
+Description
+The boxed set contains nine 32-page booklets and is written in-character as Elminster and other characters. Each of these booklets provides a rich backdrop and detailed information on various ecosystems in the Realms.
+
+ Explorer's Manual: Serving as a comprehensive guide, this booklet provides additional information, resources, and tools for Dungeon Masters to integrate the detailed ecological information into their campaigns effectively.
+ Cormanthor: This booklet details the ancient forest of Cormanthor, describing its rich and diverse ecosystem, the creatures and beings that inhabit it, and the mystical elements that are a part of its lore.
+ Anauroch: This booklet explored the vast desert of Anauroch, a harsh and unforgiving environment. It detailed the unique survival challenges, the creatures adapted to this arid landscape, and the ancient secrets buried beneath the sands.
+ Coastal Aquatic Lands - The Sea of Falling Stars: As a guide to the largest inland sea in the Realms, this booklet covered aquatic environments, including the sea life, underwater hazards, and the cultures that thrive around and within this massive body of water.
+ The Cormyrean Marshes: Delving into swampy and marshy terrain, this booklet described the unique flora and fauna found in such environments, along with the challenges and adventures that could arise in these treacherous wetlands.
+ The Stonelands and the Goblin Marches: This booklet explored into the rugged, rocky terrain of the Stonelands and the Goblin Marches.
+ The Thunder Peaks and the Storm Horns: Covering two mountain ranges, this booklet covered the ecology and dangers of the Thunder Peaks and the Storm Horns, detailing the creatures, climate, and geographical features unique to these towering landscapes.
+ The Great Gray Land of Thar: This booklet focuses on the arid, barren region known as Thar. It explored the harsh living conditions, the unique fauna and flora adapted to this environment, and the various challenges adventurers faced here.
+ The Settled Lands: This book explores the more civilized and populated areas within the Realms. It covered farmlands, villages, and the outskirts of larger cities, detailing the types of creatures and challenges adventurers might encounter in these seemingly peaceful areas.
+
+Contents
+Explorer's Manual
+ Introductory Remarks
+ Excerpts from An Investigation into the Natural Systems of Organisms and Their Surroundings
+ Encounter Tables
+Cormanthor
+ Words from an Old Friend
+ Part One: Trees, Trees, and More Trees
+ Part Two: Monsters
+ Part Three: Rumors
+Anauroch
+ A Great Man's Journeys
+ Part One: The Lands of Anauroch
+ Part Two: Ecology of the Sword
+ Part Three: Ecology of the Plain of Standing Stones
+ Part Four: Ecology of the High Ice
+ Part Five: The Underdark of Anauroch
+ Part Six: Legends and Rumors
+Coastal Aquatic Lands - The Sea of Falling Stars
+ Introduction
+ The Sea of Fallen Stars
+ Natural Aquatic Life
+ Monsters of the Deep
+ Sea Stories
+The Cormyrean Marshes
+ The Journal of Brother Twick
+ Part One: The Cormyrean Maarshes
+ Part Two: Monsters
+ Part Three: Rumors and Legends
+The Stonelands and the Goblin Marches
+ A Few Notes About Me
+ Part One: Regional Details
+ Part Two: The Vanishing Wildlife
+ Part Three: The Goblin Threat
+ Part Four: The Great Beasts
+ Part Five: Rumors and Events
+The Thunder Peaks and the Storm Horns
+ Introduction
+ Part One: The Mountain Ranges
+ Part Two: Common Life in the Mountains
+ Part Three: Monsters of the Peaks
+ Part Four: Rumor
+The Great Gray Land of Thar
+ A-Ranging I Will Go
+ Part One: The Land of Thar
+ Part Two: Monsters
+ Part Three: Rumors, Mysteries, and Legends
+The Settled Lands
+ Don't Call Me a Crank
+ Part One: Back and Around
+ Part Two: Monsters
+ Part Three: Rumors
+
+Index
+
+Characters
+Blackjackal •  • Derrnog •  •  •
+
+Creatures
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Locations
+Regions
+ • Cloudlands •  •  •  •  •  •  •  •
+Settlements
+ •
+Buildings
+
+Bodies of Water
+ •  •  •  •
+Forests
+ •  •  •
+Mountains
+ •  •  •  •  •  •
+Wilderness
+ •  •
+
+Organizations
+ •
+
+Miscellaneous
+Food & Drink
+ •  •
+Plants
+ •  • butternut (tree) • chokeberry •  • gooseberry •  •  •  •  •
+Materials
+ •
+Items
+
+Works
+ • Yielding Tide
+Other
+
+Gallery
+
+Credits
+Explorer's Manual
+ Design: Rick Swan, Monte Cook, Eric Haddock, Anthony Pryor
+ Editing: James Butler and Karen S. Boomgarden
+ Typography: Nancy J. Kerkstra
+ Production: Paul Hanchette and Dave Conant
+Cormanthor
+ Design: Rick Swan
+ Editing: James Butler
+ Interior Art: Daniel Frazier
+ Cartography: Dennis Kauth
+ Typography: Nancy J. Kerkstra
+ Production: Paul Hanchette
+Anauroch
+ Design: Monte J. Cook
+ Editing: Jonatha Ariadne Caspian
+ Interior Art: Daniel Frazier
+ Cartography: Dennis Kauth
+ Typography: Nancy J. Kerkstra
+ Production: Paul Hanchette
+Coastal Aquatic Lands - The Sea of Falling Stars
+ Design: Eric Haddock
+ Editing: Jean Rabe
+ Proofreading: Karen S. Boomgarden, Janis Wells
+ Interior Art: Daniel Frazier
+ Cartography: Dennis Kauth
+ Typography: Nancy J. Kerkstra
+ Production: Paul Hanchette
+The Cormyrean Marshes
+ Design: Anthony Pryor
+ Editing: Elizabeth Danforth
+ Interior Art: Daniel Frazier
+ Cartography: Dennis Kauth
+ Typography: Nancy J. Kerkstra
+ Production: Paul Hanchette
+The Stonelands and the Goblin Marches
+ Design: Monte J. Cook
+ Editing: Jonatha Ariadne Caspian
+ Interior Art: Daniel Frazier
+ Cartography: Dennis Kauth
+ Typography: Nancy J. Kerkstra
+ Production: Paul Hanchette
+The Thunder Peaks and the Storm Horns
+ Design: Eric Haddock
+ Editing: Jean Rabe
+ Interior Art: Daniel Frazier, Doug Chaffee, Terry Dykstra
+ Cartography: Dennis Kauth
+ Typography: Nancy J. Kerkstra
+ Production: Paul Hanchette
+The Great Gray Land of Thar
+ Design: Anthony Pryor
+ Editing: Elizabeth T. Danforth
+ Interior Art: Daniel Frazier
+ Cartography: Dennis Kauth
+ Typography: Nancy J. Kerkstra
+ Production: Paul Hanchette
+The Settled Lands
+ Design: Rick Swan
+ Editing: James Butler
+ Interior Art: Daniel Frazier
+ Cartography: Dennis Kauth
+ Typography: Nancy J. Kerkstra
+ Production: Paul Hanchette
+
+Appendix
+See Also
+ Images from Elminster's Ecologies
+ Elminster's Ecologies Appendix I
+ Elminster's Ecologies Appendix II
+Notes
+
+External Links
+
+---
+
+## Elven Court
+
+Elven Court, sometimes called Old Elven Court by elves after its destruction by the drow, was one of four old elven communities in the forest of Cormanthor (the others being Myth Drannor, Semberholme and the Tangled Trees) and part of the realm of Cormanthyr. It was a holy site for the elves, being a Seldarine-blessed place of pilgrimage, where the elves first convened to serve justice, decided the outcome of the Crown Wars and the fate of elves.
+
+History
+The area known as Elven Court was first visited after the banishment of the drow from the surface world around, marking the end of the four long and brutal Crown Wars. Important elves of Faerûn, including High Mages, nobles, and priests, were summoned by Corellon Larethian in reverie to convene and prepare for Court. Immediately, these elves began disappearing, and though it was originally thought that they were being summoned to Corellon's side consistent with their beliefs, they were instead summoned to a deep part of the Arcorar woods to the east. Corellon declared that it was here that they would decide their own fate.
+
+For centuries, the elves summoned to Elven Court (numbering around 500) built a settlement in a place of reverence that needed no laws or government; it was truly a place ruled by the elven pantheon and the unflinching determination to seek justice. The elves established themselves well in the forest, increasing their population, and meeting to discuss the fate of the elves and where along their path they had strayed and allowed the Crown Wars to happen. By, they had arrived at the first proclamation of Elven Court: to oust the ruling clan Vyshaan from power in Aryvandaar. The proclamation was resisted by the clan, and so began the fifth and final Crown War, which lasted two centuries and resulted in the removal of the aggressors from power. Many elves emigrated from the old realms at this time, populating the Arcorar woods to form the realms of Semberholme, Uvaeren, Rystall Wood, and Jhyrennstar, most of which would later become Cormanthyr.
+
+After the woods became settled, the village of Elven Court became a place of pilgrimage, and its sacred power was respected by the surrounding realms, who treated all proclamations as law. Some twenty five of the famous moonblades were created in Elven Court. It was a place of equality where elves could walk amongst each other as equals, and weapons were forbidden to be carried within its borders. For millennia, it was a place of peace and safety, until a fateful night in .
+
+Celebrating a two-thousand-year-old peace between Arcorar and the dwarves of Sarphil, the elves held a feast in the Hall of Ages on Midwinter Night, −4400 DR. Then began the Dark Court Slaughter as a combined horde of drow and duergar swarmed from the Underdark and attacked the city. Aided by magics that cloaked the area in darkness throughout the day, as well as the fact that no elf carried weapons on Elven Court's hallowed grounds, the drow and duergar easily routed the elves, sacked the city, and desecrated its temples. Two coronals—those of Jhyrennstar and Rystall Wood—perished in the battle, along with many nobles and commoners alike. In the end, the city was a monster-infested ruin, and the drow abandoned it.
+
+For millennia afterwards, Old Elven Court, as it was called, remained forsaken by the elves. When Cormanthyr was founded in, the institution of Elven Court was moved to the city of Myth Drannor, the capital, and that city served the purpose of togetherness and judgment in the wake of the loss of the old city. Too many monsters wandering the woods—later called the Darkwoods by the sylvan elves who lived nearby—proved an unsurmountable obstacle for the armies of Cormanthyr, already stretched thin in maintaining its existing borders against further threats from their drow cousins. All that was left was to mourn the loss of the most holy place.
+
+By the 14 century DR, Old Elven Court lay still in ruins, but many old buildings of all sizes remained, though most were looted bare. It was covered in shadowtop trees, many of which still held elven arboreal dwellings high in their branches. Much of the area around Old Elven Court was inhabited by the Cormanthor drow after the Retreat in the, of which House Jaelre was the most prominent, using the place as a home base and taking care not to disturb old elven barrows. Most of these drow were displaced after the Cormanthor War and the defeat of Sarya Dlardrageth and the Army of Darkhope by Ilsevele Miritar and the Army of Myth Drannor.
+
+Notable Locations
+Fifty miles (80 kilometers) south of Elventree, there was an oak grove populated with bats, most ordinary, with some azmyths and sinisters. An oak in the grove whose trunk diameter was exactly half the wingspan of a male Elven Court sinister was made of solid gold and disguised as a normal oak. This was supposedly done by an elven magic to hide his gold from tomb raiders and robbers. Exactly which oak was not known.
+
+Appendix
+
+References
+
+FR:Cour elfique
+de:Elfenhof
+
+---
+
+## Elm
+
+Elms were a type of broad-leafed deciduous tree.
+
+Usages
+Elmwood was strong yet flexible, making it a good material used for crafting bowshafts, arrows, and bolts.
+
+Habitats
+ In north Faerûn, elms could be found in the the east Starwood area of the forest of Cormanthor in north Faerûn.
+ In northwest Faerûn, elms could be found in the Ardeep Forest.
+ In west Faerûn's Western Heartlands, elms could be found in the Reaching Woods. and Cloak Wood.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Pirates of the Sword Coast
+References
+
+External Links
+
+---
+
+## Elizabeth T. Danforth
+
+Elizabeth T. Danforth (also Liz Danforth) is an American creative designer and artist.
+
+Bibliography
+Forgotten Realms
+ Elminster's Ecologies (boxed set, 1994)
+ Marco Volo: Departure (adventure, 1994)
+ Marco Volo: Journey (adventure, 1994)
+ Marco Volo: Arrival (adventure, 1994)
+ Elminster's Ecologies Appendix I (accessory, 1995)
+
+Appendix
+External links
+
+ Liz's personal website
+
+---
+
+## Elaine Cunningham
+
+Elaine Cunningham is an American fantasy and science fiction author, especially known for her almost poetic literary style. Her contributions to the Forgotten Realms campaign world include the realms of Evermeet, Halruaa, Rashemen, Ruathym and Waterdeep.http://www.elainecunningham.com/
+
+Amongst Elaine's most popular characters are the half-elf Arilyn Moonblade, the bard Danilo Thann, the quirky drow wizard Liriel Baenre, her companion the Rashemi berserker Fyodor, and Elaith "The Serpent" Craulnober (created by Ed Greenwood).
+
+The final book of the Songs & Swords novel series, to be called Reclamation, was cancelled by Wizards of the Coast, as Cunningham was unable to complete the book in time. She had tried to rewrite the book several times, changing character appearances, plots, and subplots. The book, would it have been complete, tied up several loose ends and expanded the lore of Evermeet. Due to the close release of 4-edition Dungeons & Dragons, which brought major changes to the Forgotten Realms, the content of this book would mostly be rendered irrelevant anyway. Despite the cancellation, Cunningham had no complaints with the way it was dealt with, and would continue to write about the Realms.http://forum.candlekeep.com/topic.asp?TOPIC_ID=10898
+
+Works
+Novels
+ The Radiant Dragon (1992)
+ Evermeet: Island of Elves (1998)
+ The City of Splendors: A Waterdeep Novel (2005)
+Songs & Swords
+ Elfshadow (1991, reprinted in 2000)
+ Elfsong (1994, reprinted in 2000)
+ Silver Shadows (1996, reprinted in 2001)
+ Thornhold (1998, reprinted in 2001)
+ The Dream Spheres (1999)
+
+Starlight and Shadows
+ Daughter of the Drow (1995)
+ Tangled Webs (1996)
+ Windwalker (2003)
+
+Counselors & Kings
+ The Magehound (2000)
+ The Floodgate (2001)
+ The Wizardwar (2002)
+
+Short stories from Forgotten Realms anthologies
+ "The Bargain" – Realms of Valor (1993)
+ "The More Things Change" – Realms of Infamy (1994)
+ "The Direct Approach" – Realms of Magic (1995)
+ "Rite of Blood" – Realms of the Underdark (1996), later reprinted in The Best of the Realms (2003)
+ "Secrets of Blood, Spirits of the Sea" – Realms of the Arcane (1997)
+ "Speaking with the Dead" – Realms of Mystery (1998)
+ "Fire is Fire" – Realms of the Deep (2000)
+ "A Little Knowledge" – Realms of Shadow (2002)
+ "Gorlist's Dragon" – Realms of the Dragons (2004)
+ "The Knights of Samular" - The Best of the Realms III (2007)
+ "Tribute" - The Best of the Realms III (2007)
+ "Answered Prayers" - The Best of the Realms III (2007)
+ "The Great Hunt " - The Best of the Realms III (2007) Originally published in DRAGON #246, April 1998)
+ "Stolen Dreams" - The Best of the Realms III (2007) (Originally published in DRAGON #259, May 1999)
+ "Possessions" - The Best of the Realms III (2007) (Originally published in DRAGON #282, April 2002)
+ "Games of Chance" - The Best of the Realms III (2007) (Originally published in DRAGON #335, August 2005)
+
+Dragon magazine
+ "The Great Hunt " - DRAGON #246, April 1998
+ "Stolen Dreams" - DRAGON #259, May 1999
+ "Possessions" - DRAGON #282, April 2002
+ "Games of Chance" - DRAGON #335, August 2005
+ "Rogues Gallery: Dream Spheres", DRAGON #259, May 1999
+
+Appendix
+
+ Notes
+
+ In addition to the cancelled Reclamation, Cunningham had also worked on a novel called The Serpent's Daughter that would have centered on Azariah Craulnober's life after her father, Arilyn and Danilo disappeared alongside Evermeet after the Spellplague began. It was scheduled for release in 2012 but  was also cancelled. Cunningham had posted a few preview excerpts of the book on the Candlekeep forums but later deleted them.https://x.com/e_cunningham/status/16463891375http://candlekeep.com/forum/topic.asp?TOPIC_ID=13887&whichpage=32
+ Elaine Cunningham had written a short story called "The Tree of Souls" that would have centered on Prince Lamruil Moonflower's quest to create a new elven settlement using the titular tree. It was supposed to feature in Realms of the Elves but was not included for reasons currently unknown.http://www.candlekeep.com/library/articles/lore_ec.htm
+
+ Further Reading
+
+External links
+ Elaine Cunningham's website
+ Wizards of the Coast Biography
+ Author Profile: Elaine Cunningham (archived 2004-06-04)
+
+References
+de:Elaine Cunningham
+
+---
+
 ## Elaith Craulnober
 
 Elaith Craulnober  called the Serpent, was a moon elf adventurer and crime lord living in the city of Waterdeep in the mid-to-late 14 century DR. He was a cunning and opportunistic elven rogue with an infamous reputation.
@@ -692,6 +1103,121 @@ FR:Elaith Craulnober
 
 ---
 
+## Ellifain Tuuserail
+
+Ellifain Tuuserail, also known as Le'lorinel Tel'e'brenequiette, was a moon elf in the Moonwood.
+
+Description
+Being a silver elf, Ellifain had black hair with a bluish tint and very pale skin flecked with blue. Her eyes were shimmering azure with gold sparkles.
+
+Personality
+Since surviving the drow raid, Ellifain developed an irrational hatred for Drizzt Do'Urden, labeling him as a false hero feigning goodness and friendship. Her irrationality was so intense that she vowed to destroy the entire drow race if she had the power, even the children.
+
+Equipment
+Surviving in the wilds of the Moonwood, Ellifain wore a forest green cloak, brown leggings, and a tunic. She would dress for battle armed with a longbow and a thin sword. She wore a magic ring imbued with a small arsenal of spells, including increased speed, invisibility, and even an enchantment that mirrored damage back upon the attacker.
+
+History
+
+Her mother was killed by a drow raiding party including Drizzt Do'Urden when she was a young child. Ellifain survived the raid when Drizzt smeared her with her mother's blood to make it look like she was mortally wounded, so the other drow would leave her alone.
+
+Afterward, Ellifain continued living with the elves of the Moonwood, but was scarred by the traumatic event, despite the efforts of clerics and wizards to restore her mental state. When she heard rumors of a drow with lavender eyes who had come to live on the surface, she was consumed with thoughts of revenge. In 1357 DR, she encountered Drizzt as he was traveling through the Moonwood.
+
+She decided to kill Drizzt Do'Urden for what she thought he did. The elves tried to persuade her not to, but her thoughts of revenge were too tempting as she hatched a plan to kill Drizzt. The pair were to meet again in the Moonwood, when Tarathiel and other elves had to hold her back to stop her from attacking. Ellifain later disappeared, traveling to Silverymoon in an effort to hire a swordsman capable of the two-long-weapons fighting style favored by Drizzt whom she could train against. Tarathiel and Innovindil pursued her on many occasions but she was always a step ahead.
+
+Eventually, in the, Ellifain found a swordsman who used two scimitars to practice against and obtained an ensorcelled ring to aid her. Acting on the visions of the gnome diviner E'kressa to seek out the mark of Aegis-fang, Ellifain traveled to Luskan, where she became a follower of Sheila Kree.
+
+Ellifain was later confronted by Kree after the pirate learned her underling, Gayselle Wayfarer, met her end at the hands of Drizzt and Catti-Brie in Captain Deudermont's house in Waterdeep. As she was forcibly branded with Kree's mark, Ellifain convinced her of her mission to kill the drow.
+
+Later, when Bellany Tundash forcibly brought Morik the Rogue to Golden Cove after learning of his encounter with Drizzt, Ellifain forced him to re-enact his brief fight with the drow. She remained evasive about her motives for vengeance when questioning by the rogue. Unaware of her gender, Morik tried to convince her to give up on her vengeance, as she would not likely survive a fight with Drizzt, and instead find a lover for herself. However, Ellifain ranted on her mental construct of Drizzt, convinced he was an imposter hero who was as wicked as his kind, and irrationally vowed that if he retreated to the Underdark, she would pursue him and annihilate the entire drow race if she had the power. Morik then conceded to continue to train her for her eventual confrontation with Drizzt.
+
+Later, when Kree's ogre ally, Chogurugga brought forth the corpse of her son Bathunk, who had gone out on a raid at Auckney, Ellifain realized he'd been killed by a scimitar and concluded that the drow was coming to Golden Cove, though Kree remained skeptical.
+
+When the Companions of the Hall assaulted the cove, Ellifain awaited with Chogurugga's mate, Bloog, and watched as the ogre battled Drizzt using Aegis-fang. At some point during the fight, she got bored and aided the drow in killing the ogre. After Drizzt sent Regis away with the hammer, Ellifain proceeded to duel Drizzt, despite the drow's reluctance to indulge her vengeance; because she was masked, Drizzt didn't recognize her but could not help but suspect something familiar about her. At the climax of their duel, Ellifain triggered her magic ring's invisibility function, prompting Drizzt to cast a globe of darkness, resulting in both of them fatally wounding each other. As they sat across from each other, Drizzt observed her feminine figure and removed her mask and reacted with shock upon realizing her identity. In turn, Ellifain triumphantly declared she had avenged her family, though Drizzt couldn't find the words to explain that he took no part in the massacre. As they were found by Bruenor Battlehammer, Catti-Brie and Guenhwyvar, Drizzt urged his friends to save Ellifain. However, Catti-Brie instead gave him a healing potion, while Ellifain expired at the same time.
+
+The Companions later buried Ellifain in the cave complex as near to the exit and the night sky as possible. Drizzt deeply regretted her death, lamenting that she should be alive to move past her vengeance.
+
+Later, her spectre was summoned and she realized the truth only in death, that Drizzt had been her savior from the merciless blades of the drow.
+
+Appendix
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Elbulder
+
+Elbulder was established as a logging town for Sespech on the River Arran, south of the Chondalwood. However, by the late 14 century DR, Elbulder was functioning as a trading town.
+
+Description
+Elbulder was the southernmost settlement among the three cities of the Kingdom of Sespech. Guests of the city always noticed how calm and quiet Elbulder was, compared to other settlements of the Vilhon Reach.
+
+The city was nestled between two tributaries of the River Arran along the Old Road with a bridge across each.
+
+The name Elbulder, in reality, referred to two locations. The "old" Elbulder was built around a freshwater stream re-routed into pipes as the town's source of drinking water. Eventually, the pipe drained into the River Arran. The growth of the "old" Elbulder was stunted due to the second spring that eventually flowed into a marshy area just outside of town to its east. The Old Road crossed the River Arran via a wagon-ferry. Eventually, "old" Elbulder was abandoned and ruined, following a reckless magical battle that took place in the ages past. The town became plagued by wild magic, living spell, and terrifying monsters.
+
+The “new” Elbulder, the town that was known simply as Elbulder in the 14 century DR, rose further to the east from the marsh, and the Old Road was re-routed to pass through the “new” Elbulder. The new route of the Old Road used a wagon-ferry which, in time, was replaced by two bridges.
+
+Government
+The ruler of Elbulder was the Mayor. As of the, the town's Mayor was a retired adventurer Gavilon Jostins. Baron Thuragar Foesmasher, the ruler of Sespech, was known to regularly show up in Elbulder unannounced to visit his old adventuring comrade turned Mayor.
+
+Trade
+Elbulder's lumber was sent up River Arran to the Vilhon Reach and onwards to the Sea of Fallen Stars. During the Rotting War, the disapproval of the Emerald Enclave meant that the logging operation could not continue. Because magic boats were used to transport the logs along the river, magic was extremely well received in Elbulder.
+
+Elbulder remained active after the lumbering industry was abandoned. The town was located along the Old Road, between Chondath to the north and the city of Torsch to the south. The road brought a constant stream of traders, travelers, and adventurers to support Elbulder's economy.
+
+Culture
+Over the centuries that followed the seizure of lumbering, the woods became a place for hunting, recreation, and solitude. Inhabitants of Elbulder loved listening to the stories of travelers and adventurers who claimed to have survived the dangers of Chondalwood. However, they never took these tales seriously, dismissing them as tall-tales.
+
+Defenses
+Despite one being a lumbering city, Elbulder never entered an open conflict with the Emerald Enclave nor the satyr, elf, and voadkyn denizens of Satyrwood. Even though Chondalwood's races did not treat Elbulder as enemies, voadkyn kept a close eye on the humans of the old lumbering city.
+
+History
+
+Originally established to a flourishing lumbering city that harvested wood from Chondalwood, by the end of the Rotting War in the, logging operation was almost completely halted. Both the civil war in Chondath and the threats from the Emerald Enclave were instrumental.
+
+Circa the, Baron Thuragar Foesmasher took control of Sespech and asked his former adventuring comrade – wizard Gavilon Jostins to take up the mantle of Elbulder's Mayor. Shortly after Gavilon's rule started, the Lord of Arrabar sent a band of soldiers to Elbulder in an attempt to claim the town. Gavilon exercised diplomacy by sending fireballs and lightning bolts and sending the Arrabarrans back to Chondath. However, that assault was a mere reconnaissance, followed by a similar brief naval assault.
+
+By the, the Lord of Arrabar, Eles Wianar, was planning an invasion of Sespech. The first step was a simultaneous land assault on Elbulder from the Old Road and on the city of Mimph.
+
+Rumors & Legends
+An old magic gate, known as the Black Star Gate, connected the ruins of "old" monster-infested Elbulder with a tomb-knoll in the Marsh of Chelimber. The gate was activated by a piece of obsidian or jet. Knowledge of the Black Star Gate was kept in an old tome at the library fortress of Candlekeep.
+
+Appendix
+References
+
+Connections
+
+FR:Elbulder
+
+---
+
+## Eles Wianar
+
+Lord Eles Wianar was the ruler of Chondath in the late 14 century DR.
+
+Activities
+He was very protective of his treasury, and had spies in the powerful noble houses in nearby cities of Sespech and Arrabar. He confronted and defeated every assassin sent to kill him.
+
+History
+Lord Wianar attacked Elbulder by land and Mimph by sea. Both attacks were attempts at reconnaissance, and he planned a larger invasion of Elbulder along the Old Road with a simultaneous naval attack on Mimph.
+
+Appendix
+
+Appearances
+Novels
+
+The Sapphire Crescent
+
+References
+
+Further Reading
+
+---
+
 ## Elemental Plane of Fire
 
 The Elemental Plane of Fire was an Inner Plane or Elemental Plane of the Great Wheel cosmology and the World Tree cosmology models. After the Spellplague, the Elemental Plane of Fire collapsed into the Elemental Chaos, mixing with all the other Inner Planes. Fire is one of the four elements and two energies that make up the known universe and more than any other element has fascinated sentient beings since the beginning of time. The flickering of a candle, the spark of a flint and steel, or the dying embers of a campfire, all have the potential to grow and engulf the world in flame—can a drop of water, a breath of air, or a mote of dust do the same? Elemental fire is pure flame that does not require air or fuel to burn and can take on a solid, liquid, or gaseous state, yet it will ignite and consume anything flammable and unprotected from fire.
@@ -756,6 +1282,245 @@ External links
 References
 
 Connections
+
+---
+
+## Elfsong Tavern
+
+The Elfsong Tavern was a well-known tavern in the city of Baldur's Gate.
+
+Geography
+The tavern was located just inside the gate to Wyrm's Crossing on the eastern side of the lower city.
+
+Structure
+It was a two-story. The ground floor was the taproom featuring the bar and a large number of tables curtained-off into booths by various tapestries.
+
+One of the more notable decorations was a stuffed baby beholder, which a patron named Ethon had found in the cellar.
+
+The only lighting was provided by the many blue driftglobes that floated about near the ceiling. The furniture was stout wood marked by any number of nicks and slashes from swords and knives. Individual tables were cordoned off with hanging tapestries that provided visual (but not vocal) privacy. The upper floor was filled with private meeting rooms, which could be rented either by the candle—the time it took a short taper to burn down—or by the evening.
+
+Under Alan Alyth's ownership, much of the upper floor was given over to a large dining room with tables for eating and gambling. There were two private dining rooms: the Umber Hulk Room and the Displacer Beast Room, named for the mounted heads contained in each. There were also two small guest rooms; two larger, more luxurious guest rooms; and Alan's private bedchamber.
+
+Atmosphere
+The name derived from an unusual haunting: a ghostly female elven voice heard periodically throughout the establishment. The singing was quiet, but could be heard quite clearly. It was most often described as both beautiful and mournful. The identity of the singer was unknown, but it was clear that her song was a lament for a lover lost at sea. No other music was permitted inside the Elfsong.
+
+Provender
+The establishment served virtually every kind of alcohol known. It was also known for its melted cheese sandwiches (spicing optional), pickles, crab cakes, fishcakes, loaf puddings, cheese-potato soup, and fist-sized twists of dried herring. All food was heavily salted to make patrons drink more. The tavern was also famed for a thick stew beloved by many sick or cold sailors. This stew consisted of all leavings from the rest of the cooking, soured ale, wine dregs, etc. It was thrown into a huge cauldron that was constantly kept at a simmer. A number of folk in Baldur's Gate were quite fond of the stew, and some very reputable folk would come to the Elfsong for the sole purpose of eating it.This appears to be a perpetual stew.
+
+Staff
+A half-elf woman known as "Lady" Alyth Elendara purchased the tavern for 50,000 gp from an elderly warrior who placed a single condition on the sale: that he be allowed to sit in the tavern at all hours in order to hear the song as often as he desired. Elendara was also known to operate an unofficial bank, mostly used by those with large amounts of coin and no good reason to possess it. There was much speculation as to where she stored this money and how it was guarded, but only she knew for sure.
+
+At one point, some decades prior to 1484 DR, ownership of the tavern passed from Lady Alyth to her son, Alan Alyth. Alan maintained all the traditions associated with the establishment's ghostly entertainer, and he also continued to offer his mother's informal banking service. By the late 15 century DR, the Hlath patriar family owned the Elfsong, with Alan Alyth running the establishment.
+
+While Alan tended the bar his staff included order-takers, Falten and Yimiur; three cooks, Chenna Fatrabbit, Azar Valsheem, and Klav Martilmur; and two bouncers, Klank (actually a suit of animated armor) and a half-ogre named Skoona.
+
+Patronage
+
+The Elfsong catered to persons on the wrong side of the law, but it was more popular with adventurers and independent operators than with the established organizations of the underworld, who tended to frequent the Blushing Mermaid. The city watch had an arrangement with the management and could be expected to maintain a comfortable distance unless a full-scale war erupted inside.
+
+People came to the Elfsong to do business of all sorts, most of it illicit. Fences, smugglers, assassins-for-hire, and many adventurers with hard-earned coin and tall tales to tell would drink at the establishment. Pirates and miscellaneous outlaws from up and down the Sword Coast were often found within as well. Patrons were expected to go armed and were completely responsible for their own safety. Murders were not unheard of, especially upon the dim and winding staircases.
+
+Some of the more noteworthy patrons around the, included:
+Lala Stout: a scar-faced halfling burglar
+Oloric Witmirth: a poor human playwright
+Oshalla: an ousted sahuagin priestess
+Rahima Sajiressa: a human astrologer and acolyte of Savras
+Skrawldar Fane: a human shipwright who was missing his eyebrows
+Tarina: a human female, ex-pirate (known by other names)
+Whaul Nightley: a loud half-orc rat-catcher
+Willow Brownbug: a snooty halfling apothecary and druid
+
+Prices
+
+Ale sold for 2 cp per tankard
+Stout sold for 4 cp per tankard
+Wine sold for 5 cp per tallglass
+Rollrum (dark, licorice-laced drink from the Tashalar) sold for 1 sp per flagon
+Stew sold for 1 sp per mug, and 2 cp extra for a large bowl
+All servings of other food were 1 sp (one serving made half a meal for most people)
+
+History
+
+The Elfsong Tavern was one of the city's most popular taverns in the mid-1300s DR.
+
+In the, when the Dark Alliance first began to threaten Baldur's Gate, the Elfsong Tavern was where the fight began. Vahn, Kromlech, and Adrianna were attacked by thieves working for the Dark Alliance and recovered in the Elfsong Tavern. From the Elfsong Tavern they eventually went to the Onyx Tower, where they learned the secrets of the Elfsong. The ghostly elven woman who sang in the tavern sang for her husband, who had worked for the Company of the Crescent Blade. Her husband had left to defend Baldur's Gate and promised one day to return but never did. She continued to sing because she was still waiting for him to come home. In the Onyx Tower, the three adventurers met a ghost who revealed himself to be the husband of the elf woman. The destruction of the Onyx Tower freed the ghost and brought the elf woman peace.
+
+During the Absolute Crisis in the, Duke Belynne Stelmane was murdered by Bhaalists in the Elfsong Tavern. Her hand was severed and her body staged to appear as part of a plan by the Cult of the Absolute to sow fear in the city.
+
+Appendix
+Notes
+
+Gallery
+
+Appearances
+
+References
+
+External Links
+
+---
+
+## Elhan
+
+Elhan was a commander of the armed forces of Suldanessellar.
+
+Description
+The elf was a great fighter, making full use of his very high dexterity in combat. He owned Shazzellim, the intelligent scimitar, and an enchanted set of elven chainmail. He had many elven sages at his command, who he used to tell whether his enemies were telling the truth, or not. Despite wielding an evil sword, he hated those that associated with evil, such as vampires and drow.
+
+History
+In 1369 DR, when Gorion's Ward came out of the Underdark, General Sovalidaas led him to Elhan. Elhan, naturally suspicious of the ward, made use of his sages to determine his intentions. After, he assured the ward that they were on the same side, and asked the ward to find the Rhynn Lanthorn.
+
+Appendix
+Appearances
+Novels
+Baldur's Gate II: Shadows of Amn
+Video games
+Baldur's Gate II: Shadows of Amn
+References
+
+---
+
+## Elminster in Hell
+
+Elminster in Hell is the fourth book in the open-ended Sage of Shadowdale series.
+
+Summary
+
+Index
+Characters
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Locations
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Creatures
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Organizations and Customs
+ •  •  •  •  •  •  •  •  •  •  •  •
+
+ •  •  •
+
+Deities
+ •
+
+ •  •  •  •
+
+Magic
+Spells
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Items
+ •  •  •  •  •  •  •  •  •  •
+
+Other
+ •  •  •
+
+Miscellaneous
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Elminster in Myth Drannor
+
+Elminster in Myth Drannor is the second book in the open-ended Elminster series.
+
+Characters
+Characters (Elves and half-elves)
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+Characters (Non-elves)
+ •  •  •  •  •  •  •  •
+Characters (Elven Lords)
+ •  •  •  •  •  •  •  •
+
+Elves
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+Elven Lords
+ •  •  •
+Non-elves
+ •  •  •  •  •  •
+
+Locations
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Creatures
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • •  •
+
+Races
+ •
+
+ •  •  •
+
+Worship
+ •  •  •
+
+Elven Houses
+ •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Other Organizations
+ •  •
+
+Spells
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Magic Items
+ •  •  •  •  (a kiira) •  •  •  •  •  •  •  •  •  •  •
+
+ •  •
+
+Other Magic
+ •  •  •  •  •  •  •
+
+ •
+
+Plants
+ •  •  •  •
+
+Materials
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Works
+ •  •
+
+Clothing
+ •  •  •  •  •  •  •
+
+Weapons
+ •  •  •  •  •  •  •  •
+
+Other equipment
+ •  •  •  •  •  •  •  •
+
+Food and Drink
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+ •
+
+Other
+ •  •
+
+Summary
+Elminster travels to Myth Drannor. On the way, he encounters Iymbryl Alastrarra, an elven noble slain by hobgoblins. Imbryl gives him the Kiira of House Alastrarra to return to the house, which he does in the guise of an elf. His identity as a human is exposed to the elves, who want to kill him for entering Cormanthor, but he invokes the protection of Coronal Eltargrim Irithyl. Many elves begin plots against Eltargrim, Elminster, and the Srinshee, especially House Starym. An elven lady named Symrustar Auglamyr flirts with Elminster, blows up several jealous suitors, and tries to dominate his mind, but he resists the spell and leaves her exposed to one of her rivals, who mutilates her. Elminster is blamed for the deaths and eventually slain, but preserved by Mystra in an incorporeal state. He becomes a slave/apprentice to Llombaerth Starym, known as the Masked, along with a half-elf named Nacacia. Llombaerth tries to kill Mythanthar, who is creating a mythal spell to protect the city once Eltargrim opens in, but fails. Elminster becomes Elmara to break free of his control as House Starym attempts to overthrow Eltargrim, but the coup is unsuccessful, as is an attempt to sabotage the casting of the mythal, which costs Mythanthar his life.
+References
 
 ---
 
@@ -942,6 +1707,215 @@ Gallery
 External Links
 
 Making Magic: Elminster Returns in Ed Greenwood's Elminster's Daughter (archived 2004-06-03)
+References
+
+---
+
+## Elves of Evermeet
+
+Elves of Evermeet is a 2-edition Advanced Dungeons & Dragons accessory for the Forgotten Realms.
+
+Description
+Elves of Evermeet focuses on the island of Evermeet, often referred to as the "Isle of the Elves," which plays a significant role in the lore of the Realms. It is the 5 book in the FOR series.
+
+It explores  the history, culture, and society of the elves of Evermeet. This included their origins, traditions, and the significant events that have shaped their society. It provided detailed descriptions of Evermeet's geography, including its forests, cities, and magical locations.
+
+It included insights into the political and social structure of elven society on Evermeet, including their government, family dynamics, and societal roles. This also include details on the different subraces of elves residing on the island and their interactions.
+
+Elves of Evermeet explored the unique magical practices, spells, and artifacts found on Evermeet. This also included information on elven high magic, a rare and powerful form of spellcasting.
+
+It introduced key non-player characters (NPCs) and influential figures within Evermeet, which Dungeon Masters can use to enrich their campaigns or create story hooks. It provided specific adventure ideas or campaign hooks set on Evermeet, allowing Dungeon Masters to create stories that explore the rich lore and environment of the elven homeland. It also included new options for players who wish to create elven characters from Evermeet, including unique skills, abilities, or background options that reflect their upbringing and culture.
+
+Contents
+• Chapter 1: Evermeet and Her People
+• Chapter 2: Special Places
+• Chapter 3: The Magic of Evermeet
+• Chapter 4: Gods and Goddesses of Evermeet
+• Chapter 5: Evermeet’s Defenders
+• Chapter 6: Non-Player Characters
+• Chapter 7: Role-playing Evermeet Elves
+• Chapter 8: Adventures in Evermeet
+• Chapter 9: Creatures of Evermeet
+
+Index
+
+Characters
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Creatures
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Locations
+Bodies of Water
+ •  •  •  •
+Buildings and Sites
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+Countries
+
+Hills
+ •
+Planets
+ •  •
+Roads
+ •
+Settlements
+ •  •  •  •  •  •
+Wilderness
+ •  •  •  •  •  •
+
+Magic
+Magic items
+  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+Spells
+  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+Miscellaneous
+ •
+
+Organizations
+
+Religions
+ •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •
+
+Miscellaneous
+Art & Literature  •  •
+Classes/Kits  •  •  •
+Clothing
+Fields of Study
+Games
+Items  •  •  •
+Materials  •  •  •  •
+Vegetation  •  •  •  •  •
+Vessels  •  •  •  •  •
+Named Vessels
+ •  •
+
+Gallery
+
+Credits
+ Design: Anthony Pryor
+ Editing: Anne Gray McCready
+ Inhouse Coordination: Karen S. Boomgarden
+ Cover Illustration: Laura Lakey
+ Interior Illustrations: Daniel Frazier
+ Cartography: Dennis Kauth
+ Electronic Prepress Coordination: Tim Coumbe
+ Typography: Angelika Lokotz
+ Production: Paul Hanchette
+
+Appendix
+See Also
+ Images from Elves of Evermeet
+
+External Links
+
+Amazon.com product page
+
+References
+
+de:Die Elfen von Immerdar
+
+---
+
+## Elkhazel Miritar
+
+Elkhazel Miritar was a sun elf swordsman in the Akh'Velahr and comrade of Captain Fflar of Myth Drannor. He died long after the Weeping War and went to Arvandor.
+
+Relationships
+Elkhazel had a son, Seiveril Miritar.
+
+Appendix
+
+References
+
+---
+
+## Elion
+
+Elion was a northern fishing town on the island of Evermeet within the Trackless Sea.
+
+Government
+It was governed by a council elected to settle disputes and maintain order.
+
+Inhabitants
+Most of the villagers were fishermen and kept to themselves. While extremely loyal to Queen Amlaruil Moonflower, the town remained neutral in political and military issues.
+
+Notable locations
+Inns and taverns
+Deep Sashelas's Blessing
+Makaela's House.
+
+Other Locations
+Seamist
+
+References
+
+---
+
+## Elorfindar Floshin
+
+Lord Elorfindar Floshin was a sun elf who spent most of his life guarding the portals of the Ardeep Forest. He lived in a grand estate close to the House of Long Silences, not far from the settlement of Daggerford.
+
+Possessions
+Though he rarely had reason to enter battle, Elorfindar owned many magic items. He owned a suit of elven chain mail +4, a shield +2, a ring of protection +2 as well as a ring of wizardry, a massive collection of ioun stones, and a luckstone.
+
+Elorfindar additionally owned several magical weapons, including a longbow +3, along with several magical arrows, a dancing longsword, and even a staff of the magi. One of his most prized possessions was his sentient longsword which was called Elfhost.
+
+Activities
+Throughout his tenure as protector of the portal nexus of the Ardeep, Elorfindar established a network of wards and spells that offered him advanced notice of anyone attempting to intrude upon his woods.
+
+Relationships
+Elorfindar remained with his elven wife for over six hundred years, until her death some time before the late–12 century DR. Together they had four children: Darfin, Filvendor, Shalendra, and Elorshin.
+
+In the two centuries after her death, Elorfindar married three different human women from among the Waterdhavian nobility, and has had a number of half-elven children with them.
+
+He was the great-grandfather of Kiratha.
+
+He was a distant relative of Araevin Teshurr.
+
+History
+In his youth, Elorfindar experienced the formation of Phalorm, the Realm of Three Crowns, the great 6 century kingdom of the west that united elves, dwarves, and humans. His fellow elves of the Ardeep remained untied with the dwarves of Dardath and the men of Delimbiyran for over a century. After the armies of the kingdom were destroyed by the lich known as Iniarv, the elves of the Ardeep abandoned considered their trial of a racially diverse kingdom to be ill-advised.
+
+Elorfindar did not leave his home and held on to the hope of a united realm  that comprised elves, dwarves, and men. He led the efforts for hundreds of years to create a new Phalorm, but ultimately failed as the human kingdom of Delimbiyran broke apart and the nearby dwarfholds were abandoned.
+
+Elorfindar genuinely believed it was his duty to guard the portal nexus in the House of Long Silences within the Ardeep Forest as penance for the betrayals of his ancestors. The actions of his forebears led to the formation of one of the groups of fiendish Fey'ri.
+
+In an effort to still aid the humans of the region, Elorfindar spent his many years dedicating himself to the remaining human settlement in the region, the small town of Daggerford. For over 400 years he served as advisor and friend to the numerous noble dukes that led the town, beginning with its founder Tyndal.
+
+During his later years, in the 14 century DR, Elorfindar rarely left Floshin Estates.
+
+Circa the, Elorfindar died and the estate was left to his eldest son Darfin. His final actions involved the study of the forsaken House of Long Silences, believing he had one last attempt to restore the glory he had experienced in his youth.
+
+Appendix
+Appearances
+Adventures
+
+Scourge of the Sword Coast
+References
+
+---
+
+## Eljan
+
+Eljan was the door warden for Scornubel Hall, the seat of Scornubian government in the mid-to-late 14 century DR.
+
+History
+Eljan had a good knowledge of the city and could give directions to most places and things to anyone visiting Scornubel. This was why Eljan received a favorable mention in Volo's Guide to the North, penned by Master Traveler Volothamp Geddarm in the late 14 century DR.
+
+References
+
+---
+
+## Elvath Muirreste
+
+Lord Elvath Muirreste was a moon elf who served in the Silver Guard as the leader of the Elion legion until he followed Seiveril Miritar to Faerûn to combat the daemonfey invasion.
+
+Description
+The tall and strongly built elven lord had pale skin and very dark hair.
+
+History
+Elvath was killed while pursuing the fleeing orcs at the Battle of the Cwm on Ches 27, 1374 DR.
+
+Appendix
 References
 
 ---
@@ -1414,6 +2388,104 @@ es:Diccionario Elfo
 
 ---
 
+## Eldroon
+
+Eldroon was a minor noble house of Cormyr.
+
+History
+They were a minor noble family of Marsember while it was an independent city.
+
+The Eldroons encouraged the Marliirs to fight against Cormyr, then switched sides when King Dhalmass attacked in 1227 DR. Rhodes Marliir suspected the Eldroons of even guiding the Cormyreans through the marshes outside Marsember and to the city gates. They later celebrated Marsember's incorporation into the kingdom of Cormyr.
+
+Members
+ Blundebel Eldroon
+ Durmeth Eldroon
+
+Appendix
+References
+
+Connections
+
+---
+
+## Elbert Redbow
+
+Lord Elbert Redbow was a noble of Cormyr in the late 14 century DR.
+
+History
+In the, Elbert Redbow was killed by an assassin.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Elastul Raurym
+
+Elastul Raurym was the marchion of Mirabar. The Hammers were his personal bodyguard.
+
+Appearance
+Elastul was fat, and had a red beard.
+
+Personality
+Elastul was often devising devious plots, but these were rarely put into practice. He was also known to be quite lustful with a love of money and decadent pleasures. Marchion Raurym made a point of traveling south to warmer climes before the onset of winter, to negotiate trade agreements with rulers who had many luxuries, but little metal.
+
+Appendix
+Appearances
+Novels
+ The Thousand Orcs
+
+Video Games
+ Treasures of the Savage Frontier
+References
+
+---
+
+## Eldritch giant
+
+Eldritch giants were a breed of giant with formidable magical ability and a obsession with collecting arcane lore. They were formerly even more powerful creatures who lost much of their power. Their relation to true giants was unknown.
+
+Appearance
+Eldritch giants had skin tinged with a faint purple and light colored hair. Their eyes subtly changed colors between blue, green, and violet. Adults stood  tall and weighed around . Some eldritch giants had tattoos of arcane symbols that covered their whole bodies.
+
+ Abilities
+Eldritch giants had a number of innate magical abilities, namely that they could detect and dispel powerful magic, as well attack with magic missiles. Additionally, they could create dimension doors or a globe of invulnerability. Their study of arcane lore also gave them the ability to use many magical items much like a wizard could, and they had a strong resistance to illusions and mental manipulation due to their powerful wills.
+
+The arcane tattoos that some eldritch giants possessed allowed them to absorb conjurations and zones of magic and then use the energy to bolster their own attacks. These tattoos were even said to allow eldritch giants to teleport along flows of magic energy.
+
+ Combat
+While extremely dangerous in combat due to their size, eldritch giants would generally avoid it unless absolutely necessary because they viewed it as a distraction from their studies of the arcane.
+
+When forced to fight they would do their best to strip an enemy of all magical protection, while simultaneously wrapping themselves in protective spells. They would then close-in on their target to attack at close range, generally favoring bastard swords and wearing full plate armor. They preferred hit-and-run tactics, and if an enemy proved to be a greater threat than expected, they were not against fleeing by magical means.
+
+ Society
+The primary focus of most eldritch giants was researching spells, searching for lost magical items, or creating magical items themselves. On rare occasions they would enter the settlements of other races to purchase materials for their research that they could not make themselves.
+
+Eldritch giants were a largely solitary race, although they would occasionally band together if they had a similar special interest when it came to research or when a family developed. Groups were usually no larger than 8 in the extreme, and such groups were rarely near other eldritch giants, since as a whole this race was driven to explore remote regions looking for lost lore. Eldritch giants often built their homes near arcane wellsprings, preferably in the mountains or in deep caverns.
+
+A subset of eldritch giants known as confessors believed in the divinity of magic itself and wielded divine magic rather than arcane magic. Their central philosophy was that any act that was done with magic was inherently morally correct. They held all others in contempt, even others of their own race, and would gather "lesser beings" together through deceit, manipulation, and bullying. They would then send these creatures into battle ahead of them, despite being completely confident in their own ability to overcome anything with their physical and magical abilities.
+
+Relations
+Eldritch giants despised storm giants, although as with most things, they deemed their research more important and would rarely pursue this grievance unless provoked. They were also known to enslave goblinoids and attack the sand giants of southern Faerûn.
+
+Appendix
+Gallery
+
+Appearances
+Miniatures
+Dungeons & Dragons Miniatures
+Organized Play & Licensed Adventures
+Scout's Honor
+
+References
+
+Connections
+
+---
+
 ## Elfsong
 
 Elfsong is the second book in the Songs & Swords series by Elaine Cunningham. It was originally released as the eighth book in The Harpers series.
@@ -1528,6 +2600,151 @@ References
 
 ---
 
+## Elminster at the Magefair
+
+"Elminster at the Magefair" is a short story by Ed Greenwood included in the 1993 anthology Realms of Valor, and reprinted in the 2003 anthology The Best of the Realms.
+
+Summary
+This short story chronicles a visit by Elminster, accompanied by Storm Silverhand, to a magefair in 1336 DR.
+
+At the magefair, Elminster searches for a key, which he receives surreptitiously through a kiss by a new Harper, Duara. A man searching for the key accosts Elminster and takes his staff, which he assumes is the key. Elminster in turn challenges him to a fireball-throwing contest and wins hands down with an incredibly impressive display. Elminster and Storm then return to the Twisted Tower in Shadowdale, where the Old Mage reveals that the key belonged to his closet and had been stolen by one of his brief apprentices named Raerlin. Upon opening the closet, the pair comes face to face with Raelin, who has become a lich. A spell battle ensues, with Storm defeating the lich by burning the pages of a tome (possibly its phylactery). When Lhaeo returns with tea, all is well again, even if the combatants are a little singed.
+
+Index
+Characters
+Elminster Aumar • Dhaerivus • Duara • Lhaeo • Raerlin • Storm Silverhand
+
+Simbul • Tlaerune
+
+Creatures
+half-elf • human (Calishite) • lich
+
+Locations
+Shadowdale • Twisted Tower
+
+Aglarond
+
+Magic
+fireball
+
+Miscellaneous
+magefair • tea
+
+Organizations
+Harpers
+Appendix
+Notes
+
+---
+
+## Elversult
+
+Elversult  was a rich community found in the Dragon Coast region of Faerûn. It was an important trading and mercantile center that facilitated both honest and illegitimate trade across the Eastern Heartlands and beyond.
+
+Beyond its reputation as a great trade city and hotspot of the latest trends, Elversult was known across nearly all of Faerûn as the birthplace of the renewed church of Amaunator and the god's second sun that shone bright in the skies above.
+
+Geography
+The city was found on the south side of the Dragonmere at the junction of many trade roads that connected the main routes of the lands between the Sea of Fallen Stars, the rest of the Dragon Coast, through the Western Heartlands, as far west as the Sword Coast.
+
+Roads leading to the city included the Overmoor Trail, south from Proskur; the Trader's Road, east from the Sunset Vale by means of Priapurl and west from Teziir, the Plunge, south from the ruins of Ilipur, and Turnstone Road, southwest from Pros.
+
+Geographical Features
+Elversult was founded at the confluence of a number of freshwater ponds that were set between rolling hills and forested ridges. A rocky tor known as Temple Hill in the center of Elversult overlooked the city environs, which lacking walls sprawled beyond the woodlands. The hill was named for the pair of holy houses that sat atop its apex, which were dedicated to the deities of Waukeen and Lathander.
+
+The combination of Elversult being a relatively new, as of the Era of Upheaval, and having enjoyed strong leadership throughout its history, lead to the preservation of the wooded glades and knolls which were scattered through the city.
+
+Government
+
+Relationships
+Throughout its history, Elversult has had regular conflicts with the coastal city of Westgate, often receiving aid from the noble kingdom of Cormyr to the northeast. Foreign nations from the Unapproachable East such as Impiltur and even Thay were known to have spies operating within the city's borders.
+
+Inhabitants of Calimshan often called Elversians as Elversultians, which was considered an insult.
+
+Trade
+
+From its central location at the crossroads between a number of important mercantile destinations, Elversult dominated overland trade in the region. In addition to its importance in legitimate trade in the region, the city was a haven for smugglers and others looking to move products that were not entirely legal in the Heartlands.
+
+Although not a port itself, the city kept its warehouses full of trade goods that went as far away as Cormyr and the Sword Coast. Plenty of caravan paddocks and stockyards could be found on the outskirts of the city.
+
+Society
+The bustling city was a melting pot for cultures from across half of Faerûn, a place where travelers could readily get a read on the latest trends in trade, fads in fashion, or other current goings-on.
+
+While  Elversian leaders did their best to maintain the city's reputation as one of honest trade and one that was worthy of respect, its more nefarious citizens did all they could to make this task as difficult as possible.
+
+The upper classes tended to live to the north, or the west  of Temple Hill, around the 'Ladytower's Lands' that surrounded the "Ladytowers", or Moonstorm House. The poorer areas and warehouses tended to be found in the southern and eastern parts of the city.
+
+Defenses
+Elversult boasted a strong military force of some 3,500 warriors known as the Maces. They acted as both a local law enforcement and the city guard that protected Elversians from exterior threats. They patrolled the city in five-man units, ready to rapidly call down reinforcements if a strong-enough threat presented itself.
+
+History
+The Cult of the Dragon established a cell within the city in the, and allied themselves with the black dragon Hethcypressarvil. The cultists were known to run the city's black market of foreign spices, along with illicit drugs and poisons. After undergoing the process to become a dracolich, the cultist's patron dragon took control of the group and manipulated them towards his own ends.
+
+The Book of Fangs and Talons appeared in Elversult in the, when a group of Malarites began using the city as a base for their operations in nearby lands.
+
+Elversult suffered great destruction at the hands of the Dracolich Hethcypressarvil, in the . The undead dragon was briefly defeated by the Maces with the aid of the Harper sorceress Ruha, and its remains were submerged beneath the small lake near Temple Hill.
+
+In the, the Elversian embassy of the Shou Lung empire was suddenly destroyed. A scroll was later recovered from the rubble that bore the seal of the first emperor, Ra-Khati.
+
+One year later, during the month of Mirtul, Sunlord Daelegoth Orndeir beseeched Amaunator for a miracle to cease the draughts that plagued much of the Realms. In the following days Elversult received tremendous amounts of rainfall and beauteous weather that followed. On the day of Midsummer he called for his fellow faithful to take witness to Amaunator's glory and summoned forth a second sun that ascended over the city and provided illumination to the city at all hours of the day.
+
+Inhabitants
+The herald of Elversult held the title of "Purple Halberd".
+
+One notable criminal organization that operated in the city during the mid–14 century was the band of thieves known as the Purple Masks.
+
+Notable inhabitants
+14 Century
+ Hathala Orndeir
+ Daelegoth Orndeir, prophet of the Risen Sun heresy.
+ Vaerana Hawklyn, the city's Lady Constable during the mid–14 century DR and notable member of the Harpers.
+ Waevor Talaphin, traveling minstrel and cartographer.
+ Yanseldara, Lady Lord and ruler of the city.
+
+15 Century
+ Andratha Dorntalon, fervent devotee of Loviatar and the Pain of Elversult.
+
+Notable Locations
+Inns & Taverns
+ Axe and Hammer, a quiet and even somber establishment that was made worse its foreboding dwarven staff.
+ Gull's Gauntlet
+ Old Boot
+ Splitskull Inn and Tavern, a particularly wild and rowdy place to stop.
+ Wyvern's Pipe
+
+Landmarks
+ The Fair, an open-air marketplace.
+ Elversult Hall, the great central meeting place for merchants, businesspeople and those looking to hire themselves out to others.
+ Jailgates, a civic building that housed the local courthouse and prison, that were encircled by the barracks of the Maces.
+ Moonstorm House, also known as "Ladytowers", the personal residence of the Lady Lord and Lady Constable.
+ Shou-town, a neighborhood of the city that housed the embassy of the Shou Empire.
+
+Temples
+ House of Coins, a great temple-complex of Waukeen that experienced much tumult in the years following the Time of Troubles.
+ House of Hands, the local Gondar temple.
+ Tower of the Morn, the holy house of Lathander, and later Amaunator, that held much power and influence throughout the Dragon Coast.
+
+Elversult house local shrines to the deities Eldath, Selûne, and Tymora.
+
+Appendix
+Appearances
+Novels
+ The Veiled Dragon
+
+Sentinelspire
+
+References
+
+FR:Elversult
+
+---
+
+## Elyth Talboskh
+
+Elyth Talboskh was a human merchant of Talboskh House and a prominent member of the Council of Sparkling Stones in Mirabar around 1365 DR.
+
+References
+
+---
+
 ## Elk tribe
 
 The Elk tribe was an Uthgardt barbarian tribe of the Silver Marches.
@@ -1602,6 +2819,704 @@ The Feast of the Moon
 References
 
 Connections
+
+---
+
+## Elestra Blaebur
+
+Elestra Blaebur was a popular singer, dancer and all-around performer at the Masked Merfolk in Marsember.
+
+Description
+Blaebur had an extremely sultry voice.
+
+Activities
+The bard operated as an agent of the Harpers within the city relaying communiques with Harper messengers and the likes of the War Wizards. She also made a good living relaying other messages on the side to wealthy pirates who wish to remain hidden from authorities.
+
+Appendix
+Appearances
+Adventures
+Dungeon #113, "Practical Magic"
+References
+
+---
+
+## Ellesime
+
+Ellesime was the elven queen of Suldanessellar.
+
+History
+She was said to be of divine heritage; indeed, her beauty was often compared to that of a goddess. Ellesime inhabited the palace of Suldanessellar, which was built around the Tree of Life—the queen's eternal youth was said to be preserved by the tree, and as such it was difficult to judge her age. She was once in a relationship with the mage Irenicus, who was subsequently exiled from Suldanessellar for attempting to raise himself to the status of godhood.
+
+In 1368 DR, Ellesime was forced to flee Suldanessellar, after it was attacked by Joneleth, "The Exile". She and the other survivors fled to Myth Rhynn.
+
+Appendix
+Appearances
+Games
+ Baldur's Gate (mentioned)
+ Baldur's Gate II: Shadows of Amn
+ Baldur's Gate II: Throne of Bhaal
+Novels
+ Baldur's Gate II: Shadows of Amn
+
+References
+
+External links
+
+---
+
+## Elupar
+
+Elupar was a small fishing village in the Vilhon Reach.
+
+Geography
+It lay on the eastern shore of the Deepwash at the foot of the Cloven Mountains. It was the closest settlement to the settlement of Lachom.
+
+Government
+In the mid-to-late 1300s DR, Elupar did not have an official leader nor government, only an loose band of fisherman, though they did employ a sheriff to keep the peace. However, the position often remained empty as the village was a sleepy little place and offered little excitement.
+
+Trade
+Being nearby the lizardfolk city of Surkh, the good folk of Elupar were afraid of their scaly neighbors. Even though this wariness was irrational and fueled by nothing but stories, Elupar stayed out of Surkh's business.
+
+Culture
+Like other city-states of the Vilhon Reach, Elupar celebrated the festival of the Rotting Dance with a wild, joyful celebration. The festival celebrated the city-states' independence from Chondath. Even though the exact date of the liberation was unknown, the Rotting Dance took place every year on Higharvestide.
+
+Defenses
+Elupar did not have a militia.
+
+History
+From 900 DR through 902 DR, the Chondathan civil war later named the Rotting War consumed the nation. The grand finale of the conflict was the creation of a magical and extremely deadly plague that decimated Chondathan armies. The survivors took the plague home, spreading death. The devastating outcome of the Rotting Wars ensured Arrabar's loss of influence. All the cities of Chondath, apart from Iljak, declared independence, becoming city-states. Even though Elupar was just a small fishing village at the time, it gained independence nevertheless.
+
+In the, a thief stole a holy spellbook of Mielikki—Yornar's Trail Companion—from the ranger Rhighaermon O'Antlers and sold it to Lord Lathamp of Elupar. Rhighaermon, along with a half-dozen devotees of the Forest Queen, raided Lathamp's palace to steal it back. The book was seized from the vaults amidst a fierce battle against the noble's Eluphan guards.
+
+Notable Inhabitants
+ Lord Lathamp, a 12-century noble based in Elupar
+ Tammarast Tengloves, the Bard of Elupar and the author of The Strings of a Shattered Lyre in the .
+
+Appendix
+Appearances
+Novels
+
+The Temptation of Elminster
+
+References
+
+Connections
+
+de:Elupar
+
+---
+
+## Elk (disambiguation)
+
+Elk might refer to:
+
+ Elk, a large species of deer
+ Elk tribe, an Uthgardt barbarian tribe
+ Tribe of the Elk, a Reghedmen barbarian tribe from Icewind Dale
+
+---
+
+## Eleriel Obarskyr
+
+Eleriel Obarskyr was queen of Cormyr through marriage to Anglond Obarskyr.
+
+Relatives
+Eleriel was married to King Anglond Obarskyr. Their only son would become King Azoun I.
+
+References
+
+---
+
+## Elvarin Crownsilver
+
+Elvarin Crownsilver was a member of the Crownsilver noble house of Cormyr.
+
+Relationships
+Elvarin's cousins were Glorin Truesilver and Agrast Huntsilver.
+
+References
+
+---
+
+## Elmariel Emmarask
+
+Elmariel Emmarask was a member of the Emmarask noble house of Cormyr and a War Wizard in the early 7 century DR. He was a trusted friend of Luthax.
+
+History
+Elmariel found a magical creature in the ruins of Netheril. He conspired with Luthax to kill King Draxius Obarskyr, but their plot was foiled in the, when Thanderahast alerted the king. Amedahast found the conspirators and detonated her magical staff, killing Elmariel, Luthax, herself, and the others in the room.
+
+Appendix
+
+References
+
+---
+
+## Elegul Another
+
+Elegul Another was a cleric of Tymora in Waterdeep.
+
+Personality
+Elegul was a quintessential priest of Tymora. He liked jokes, partook in dares, and was overall quite a reckless person. While he was kind enough to help others, including healing, it had its limits for he believed over-reliance on him led to a life where chance had not influence for his taste.
+
+Elegul also believed that decisions about how to spend money should be left to his church and not to the individual.
+
+Elegul believed people should not use magic items, because he believed using them was to take out the component of chance and thus turning away from his deity.
+
+Abilities
+Elegul was a Wandering Fortune, an adventuring priest of Tymora. He was adept at combat with either the mace or a morning star. As a cleric, he could also cast spells and he generally asked for bless, cure disease, cure light wounds, dispel magic, favor of Tymora, find traps, flame blade, hold person, and produce flame spells.
+
+Possessions
+Elegul once got his hand on a magic item called Halaster's teleport ring. He used it and lost all of his possessions including the ring but for his holy symbol.
+
+Relationships
+To prevent others from relying on him, or more precisely on the powers Tymora supplied, instead of facing danger, he kept himself from becoming a long-time part of an adventurer party.
+
+He was considered a quintessential follower of Tymora and the deity viewed it the same way to the point that she was willing to personally help him in danger.
+
+History
+In 1371 DR, while in Undermountain, Elegul used a Halaster's teleport ring, lost all of his possessions, and got caught by two ettins called Huorgh and Uluth.
+
+By 1372 DR, Elegul managed to get out of Undermountain. Since then, he limited his work to Waterdeep and immediate surface areas.
+
+Appendix
+References
+
+FR:Elegul Unnôtre
+
+---
+
+## Elder brain
+
+An elder brain was the final stage of the mind flayer life cycle. The elder brain lived in a brine-filled pool in the center of a mind flayer city, where it guided its community by filling them with dark dreams of illithid domination.
+
+Description
+The elder brain's strong mind-affecting powers stemmed from the brains of long-dead mind flayers making up its viscous mass. Being composed of many brains as energy source for its intellect, it could communicate telepathically with any creature within a distance of  and sense the presence of any sentient creature within .
+
+Combat
+
+Although its intellect was of godlike proportions, its only physical attack was by using its tendrils to lash out at or grapple an opponent. Therefore, mind flayers protected their elder brain by securing it in a well-protected cave inside the city.
+
+An elder brain could quickly cast spells at the same time as it used its tendrils to attack. It usually started combat with a powerful mind blast. It could then use many psionic attacks such as charm and domination abilities. On top of those, it could cast spells as an extremely powerful sorcerer, making it an opponent to be feared.
+
+The elder brain could then use its tentacles to lash out against opponents, usually those paralyzed by its psionic attacks.
+
+Society
+
+Forming the physical and spiritual center of a mind flayer community, the elder brain served as a living library of the community's history, technology, and knowledge. Playing this important role in a mind flayer society, it often doubled as an advisor in all sorts of political and military decisions, operating as the community's effective leader.
+
+An elder brain marked also the ultimate goal in every mind flayer's life when it neared the end of its lifespan. Mind flayers sacrificed their brain and individual life by merging with the elder brain, strengthening its powers and intellect. The average mind flayer was unaware that their personality and consciousness were lost when joining with the elder brain, and only their knowledge and ideas survived. This was a fiercely guarded secret kept by the elder brains.
+Diet
+Elder brains were psionovores, subsisting upon the pre-sentient psionic energy of the thousands of illithid tadpoles that shared their brine pools.
+
+Notable Elder Brains
+ Encephalithid, the elder brain of Oryndoll in the mid‒14 century DR.
+ Ioulaum, a Netherese arcanist transformed into an undead elder brain after the fall of Netheril.
+ Yshiggol, an elder brain imprisoned in the Dread Vault.
+ Zuphelithid, the elder brain who enslaved a community of deep gnomes near the ruins of Dolblunde.
+ The Absolute, an elder brain enslaved by the Chosen of the Dead Three to form the Cult of the Absolute and act as its deity, granting them the power to raise an army of illithids and telepathic cultists to conquer the Sword Coast on their behalf. The Netherese magic of the Crown of Karsus greatly enlarged and empowered the Absolute, such that it became an entirely new kind of brain, referred to as a Netherbrain.
+
+Appendix
+Appearances
+
+Gallery
+
+External Links
+
+References
+
+FR:Cerveau vénérable
+Connections
+
+---
+
+## Eltargrim Irithyl
+
+Eltargrim Irithyl was sixth Coronal of Cormanthyr, seventh son of Coronal Tannivh Irithyl, ruling from  to his death in 661 DR. He was of the unpopular opinion that the outside races (such as humans, gnomes, halflings and dwarves) could not be held back by the elves due to their sheer numbers, so he allowed them entry to the forest of Cormanthor and to inhabit the city of Cormanthor, renaming it Myth Drannor in 261 DR.
+
+Description
+Eltargrim was a gold elf, with golden eyes and long silvery white hair. He possessed a warrior's build until his death, though he was often seen in robes of state rather than armour after becoming Coronal. He wore his tattoos of military rank until his death: a black sword on one hand and two crossed rings on the other.
+
+History
+Eltargrim was born in  in the community of Semberholme. In his early years he joined the Akh'Velahr, the standing army of Cormanthyr, remaining there for over three centuries and attaining the rank of penaal.
+
+Eltargrim's Rysar
+Eltargrim rose to Coronal in  upon the death of his father, and with the drawing of the Rulers' Blade first used magic on that day, having been a warrior all his life. After drawing the blade, he gave up his commission in the army and diverted his studies to Elven High Magic. His secluded studies made him a contemplative ruler. He spent the early years of his reign contemplating the founding Coronal Oacenth's vision for a united realm of elves, through continuing adversity, not least of all included harassment from the Netherese survivor states. He believed firmly in unity, and was especially moved with the destruction of Rystall Wood in, on account of refusal to accept aid from Cormanthyr and the inaction of its other neighbours.
+
+The Coronal began noticing the ever-encroaching humans on all of his borders. Cormyr, once an elven territory, was now a human kingdom. The Stonelands had fallen to goblinkind because the Akh'Velahr would not ally with Cormyr's Purple Dragons. Lastly, the men of the Dalelands were settling the lands on all sides of Cormanthyr, and showed no sign of departing soon. Eltargrim made the first of many controversial decisions; he signed the Dales Compact and made an allegiance with the humans, raising the Standing Stone with Elven High Magic, marking the beginning of the Dale Reckoning. While this led to considerable peace for over two centuries, the Coronal was not satisfied.
+
+Eltargrim pondered Oacenth's vow to "unify the tribes of this great land" and how a four-thousand year old vow might apply to modern times. After much deliberation, the Coronal concluded that it must in fact include the N'Tel'Quess (non-elves) in the unification. Despite increasing opposition from more conservative noble houses in Cormanthor, Eltargrim decided to open the forest realm to human wizards and druids as well as nonhuman but nonelven settlers in the year 220 DR. The unification grew to a peak in 261 DR, when despite attempts on his life and rebellion in his court, Eltargrim raised the mythal of Cormanthor, renaming it Myth Drannor, and commencing the Opening, inviting all races to live under the city's towers in peace and unity.
+
+Death
+Eltargrim died in 661 DR. Having seen his dreams of unification and peace under the towers of Myth Drannor come to a head, he felt rested and complete, and decided to pass on to Arvandor willfully. During the Midsummer celebrations, he woke in the morning to greet the dawn dressed in his ceremonial armour. He took up a song and raised his Elfblade to the sun as its rays touched his face, and with a smile climbed into the heavens and ascended from life. He left the magical sword afloat to be claimed by his chosen heir Aravae Irithyl, his grand-niece (though she never did so). Eltargrim was the last Coronal to rule over Cormanthyr for centuries. Eltargrim's death marked the death knell to the empire, initiating a period called the Dusk. Cormanthyr collapsed very soon afterwards.
+
+Appendix
+Discrepancies
+The The Ruins of Myth Drannor boxed set states Eltargrim is a moon elf while Fall of Myth Drannor and Cormanthyr: Empire of the Elves both say he is a gold elf. On account of the latter two resources being more recent and more descriptive, this article assumes that he is in fact a gold elf.
+Appearances
+Novels
+
+Pool of Radiance: Ruins of Myth Drannor • The Siege
+References
+
+Connections
+
+---
+
+## Eldoth Kron
+
+Eldoth Kron was an unscrupulous bardIn the Baldur's Gate comic, Ajantis refers to Eldoth as a mage. It is unknown if this is an error or a change of profession. who traveled throughout the Sword Coast during the mid–14 century DR.
+
+Personality
+He was a sleazy and chauvinistic dilettante who made a living seducing rich women and living off their money.
+
+Abilities
+Eldoth was rather adept at crafting poison-tipped arrows that were too dangerous for others to properly handle.
+
+Relationships
+While he did not seem to truly care for her, Eldoth enjoyed a romantic relationship with the noblewoman Skie Silvershield. She truly loved him despite the absence of mutual respect and adoration.
+
+History
+Eldoth was originally from the realm of Ruathym. He left the isle as a teenager to study at the academy of New Olamn in Waterdeep. At some point in his youth he became quite skilled in the use of poison.
+
+In the, he formulated a scheme that involved his lover Skie. He was to elope with her, and blackmail her father by claiming she was "kidnapped" and threatening her with harm if he was not paid on a regular basis.
+
+Eldoth Kron was buried in the Lower City Graveyard of Baldur's Gate, next to the Grand Mausoleum. His gravestone was etched with a single inscription: "Eldoth Kron - Raise a glass to the poor bastard." His grave may had been accidentally desecrated, and his body raised as a zombie by Nina Dortmell, a talented child with a gift, who was trying to resurrect her recently deceased brother.The comic "Baldur's Gate", released in 1998, presents a series of events incongruent with those in the game series. Some time that year or next, he formed a plot with the misandrist warrior Shar-Teel Dosan. The two were to work with a few other adventurers escorting a bride-to-be and her dowry south from the Sword Coast to the nation of Amn. Among this group were the paladin of Helm, Ajantis Ilvastarr, the ranger Kivan, and the megalomaniacal priest Tiax. After their caravan was ambushed by hobgoblins and ogres, Eldoth stole the dowry and retreated to the Undercellar in Baldur's Gate. Ajantis survived the assault and briefly partnered with Shar-Teel to recover the stolen riches. Unfortunately for him, he was double-crossed by Shar-Teel and killed in the sewers beneath the city.
+
+Appendix
+Appearances
+Comics
+Baldur's Gate
+Video Games
+Baldur's Gate • Baldur's Gate III
+
+Behind the Scenes
+ He is voiced by Neil Ross.
+
+External links
+
+Notes
+
+References
+
+Connections
+
+de:Eldoth Kron
+
+---
+
+## Eltab
+
+Eltab was a demon lord known as the "Lord of the Hidden Layer."
+
+Description
+Eltab appeared as a fifteen-foot-tall humanoid with the head of a canine-like creature. His head sported numerous antlers and horns and his body was covered with bony dark red plates. He had slitted yellow glowing eyes.
+
+Realm
+Eltab ruled the 248 layer of the Abyss known as the Hidden Layer. It was a vast wasteland of boulders and fissures constantly beset with intense electrical storms, making it inimical to most life except for demons and deadly plant life such as viper trees, ironmaws, and bloodthorns. In the fifteen centuries or so of Eltab's absence, the Hidden Layer was fragmented into ever-changing fiefdoms as Eltab's former lieutenants, including the balor Ndulu, fought over the vacated realm.
+
+Thanks to the bindings cast by the Narfelli demon-binders on Eltab when they summoned him, they also somehow linked fragments of the Hidden Layer to Faerûn, as well. Pieces of the layer, known as demoncysts, could be found scattered beneath the ground all over northeast Faerûn. The largest cyst, known as the Hall of the Hidden Throne, lay in the Citadel of Conjurers. This cyst contained Eltab's palace and the calling circle that tied Eltab to the Realms. In fact, until this circle is destroyed, Eltab could not leave Faerûn or return to the Abyss.
+
+History
+The demon lord Eltab was a potent force in the Abyss, rivaling the powers of Graz'zt, Orcus, and even Demogorgon himself. However, during the ancient days of Faerûn, the empires of Narfell and Raumathar engaged in a bitter war ( to ), which ultimately destroyed both empires. During this war, Eltab was summoned to Faerûn by the so-called demon-binders of Narfell, so he could be used as a pawn against their hated enemy. In, Eltab led a demonic horde on the behalf of Narfell and invaded Raumathan, a city of Rashemen, which he quickly conquered and set up himself up as its ruler.
+
+Eltab's rule was brief, as an alliance of spellcasters (including the Witches of Rashemen) overthrew Eltab in . Eltab was forced to flee, but the Rashemi witches caught up with him in the Sharawood, imprisoning him beneath the ground, and bound a dracolich called the Everlasting Wyrm to guard over him.
+
+In 106 DR, followers of the dark god Myrkul, intending to plunder the hoard of the Everlasting Wyrm, discovered the imprisoned demon lord. They agreed to release Eltab under the condition that he serve Myrkul's church for ninety-nine years. With Eltab's aid, the followers of Myrkul took control of the city of Shandaular and in its place, established the theocratic city of Eltabranar.
+
+Later, in 202 DR, Eltab prompted an ill-fated invasion of the nations of Unther and Mulhorand. Eltab was once again imprisoned, this time by the god-kings who led Mulhorand, in a demoncyst beneath Thaymount.
+
+The infamous Red Wizards found Eltab more than seven hundred years later, in 922 DR. The wizards used an ancient Narfelli demon-binding ritual and called Eltab forth to assist them in their war with the Mulhorandi god-kings. The god-kings' armies were routed and the nation of Thay was established. When the Red Wizards found they could not dismiss Eltab, they imprisoned him near the mouth of the River Eltar, which was named after the demon lord, and built a capital city named Eltabbar over the prison.
+
+Eventually, the Thayan lich Szass Tam realized that Eltab would soon break out of his prison. Instead, in 1367 DR, he deliberately released Eltab with the intention of using a spell to permanently enslave the demon lord. But his plan was foiled by a group of adventurers, allowing Eltab to escape into a demoncyst below Thaymount.
+
+During a retaliatory confrontation with Szass Tam in 1373 DR, Eltab was seemingly destroyed, but thanks to the binding cast on him by the ancient Narfelli demon-binders, he was magically transported to the Citadel of Conjurers in the nation of Impiltur, where he plotted new plans for conquests and revenge.
+
+Appendix
+
+Appearances
+Novels
+The Crimson Gold
+Publishing History
+Eltab was first mentioned in Dreams of the Red Wizards, and debuted in the 2nd-edition sourcebook Spellbound. He made his third edition debut in Champions of Ruin, and is also mentioned in Fiendish Codex I: Hordes of the Abyss, Lost Empires of Faerûn, and Dragon #355.
+
+References
+
+de:Eltab
+
+---
+
+## Elfmeet
+
+Elfmeet was a small community in the Pasocada Basin in Maztica.
+
+Geography
+The hamlet was located right on the edge of the Long Canyon. It had a spring at its center, and there were trails leading to the bottom of the canyon.
+
+Inhabitants
+Elfmeet was an Azuposi settlement with a static population of 400, but was a favored place for the nomadic Poscadari to go to trade with the Azuposi.
+
+Appendix
+References
+
+---
+
+## Elraghona Selember
+
+Elraghona Selember was a retired adventurer who lived in Amphail in northwest Faerûn, where she operated a ranch, providing mounts for travelers along the Long Road. She distributed these horses to nearby places such as the Sleeping Dragon in Rassalantar.
+
+References
+
+---
+
+## Eldrith
+
+Eldrith the Betrayer was a powerful warrior who served as a general of the Company of the Crescent Blade in the city of Baldur's Gate in the early 13 century DR.
+
+Personality
+So masterful were Eldrith's tactics, so well trained were her soldiers and such was her individual combat prowess that she never lost a battle. Her undefeated status fed her pride, and she came to view Baldur's Gate as under her rulership, though she never actually staged a coup against the Grand Dukes.
+
+So great was her pride that it persisted even after her death. Upon her defeat, however, she would be shown to have remorse for all that she did. She would admit that her rage had blinded her and that many that followed her died because of her. She also asked for forgiveness of those that defeated her. Resigned to her fate, Eldrith finally embraced her second death, never to trouble Baldur's Gate again.
+
+History
+She led her forces to victory in the first and last seasons of the Sundering War, the Crescent Port siege and, finally, the campaign against the Black Horde.
+
+At the end of that last campaign, despite being outnumbered five-to-one, she scattered the orcs of the horde. However, half of the orcs survived and fled. Eldrith was desperate to pursue them, to make sure the orcs would never return, but the Grand Dukes refused, citing the fact that too many of the best soldiers of the city had fallen already. Those that were left were weary and the people of the city wanted no more of death, earnestly believing the orcs would not return. Eldrith was furious; she ignored them and led her fanatically loyal troops, weary though they were, after the remnant of the horde.
+
+She cornered the orcs in a narrow defile, the Dosias Cleft, but with their avenue of retreat cut off, the orcs fought with greater ferocity, easily overwhelming Eldrith's outnumbered and tired warriors. Eldrith desperately sent a messenger for reinforcements but the messenger returned with word of the Dukes' refusal to help. Eldrith's army was slaughtered but she and a few severely wounded survivors made it back to the city alive.
+
+But at the gates, she was informed that, for her disobedience, she and her company were banished. Again, furious at being barred from her city, she led the last ragtag remnants of her army in a siege of Baldur's Gate itself. The company was slain almost to a man and Eldrith reluctantly sounded the retreat.
+
+Baldur's Gate's forces pursued though, all the way to the Marsh of Chelimber, where the last of her followers finally foundered and was put to the sword. Eldrith remained alive, though it was a miracle that she was. Fueled by anger and hatred, she stayed on her feet, her face completely unrecognizable from wounds that should have killed her several times over. Her pursuers still feared her ability in melee combat and instead gave her a cowardly execution with a volley of crossbow bolts. Eldrith was finally brought down.
+
+But her rage was insatiable and, after the troops left, it was that rage that brought her back to life. Such was the power of her anger that not only did it grant her mysterious magical powers, it also brought into existence an Onyx Tower from which Eldrith plotted her revenge. She forged a "Dark Alliance" with various monsters, drow, lizardmen, and the Baldur's Gate thieves guild. She also discovered an artifact with great power over the undead—the Orb of the Undead—that she used to raise many such creatures in the crypts and sewers beneath the city.
+
+In the, Karne, leader of the thieves guild, robbed a trio of adventurers who then determinedly tried to track down their stolen equipment and were sucked into defeating Eldrith's machinations by the Harpers. These adventurers quickly grew in power and tracked Eldrith back to the Onyx Tower where they eventually confronted her. When Eldrith was defeated, she finally expressed remorse for her evil actions, succumbing to death at last. Her life and the powers that were tied to her rage and anger faded along with it, including the Onyx Tower which collapsed moments later.
+
+Appendix
+Appearances
+ Baldur's Gate: Dark Alliance
+
+Notes
+ Eldrith’s voice was provided by Vanessa Marshall.
+
+References
+
+Sources
+
+---
+
+## Elf domain
+
+The Elf domain was a deity domain that granted divine spellcasters like clerics with elven spells and powers.
+
+Deities
+
+Powers
+Their ability to use ranged weapons at close range improved.
+
+Spells
+Novice spellcasters were able to use the true strike, cat's grace, and snare spells. Clerics of some experience could cast tree stride, commune with nature, and find the path. Those that were masters of this domain had access to liveoak, sunburst, and antipathy.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Elanna Huntsilver
+
+Elanna Huntsilver was Maestoon Huntsilver's wife. She was much younger than Maestoon and was a Dauntinghorn by birth.
+
+Description
+Elanna had ash-blonde hair. She was thin and devastatingly beautiful. She was fond of using her beauty to toy with others.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elven high magic
+
+Elven High Magic, Arselu'Tel'Quess in Elven or the Great Art of the People, was the term used to describe one of the most powerful forms of magic practiced in Faerûn. Casters of this magic were called Selu'taar, also known as the "Art's Disciples" or simply as "High Mages".
+
+Description
+A list of Elven High Magic spells
+High Magic spells were powerful enough to affect deities or create world-changing spell effects. Non-elves could not cast High Magic as they were simply unable to wield such power without being consumed by it, and in truth even most elves were found lacking in the necessary finesse and skill.
+
+All High Magic spells were rituals, and they frequently required collaboration of more than one High Mage. In addition, the necessary material components and timing of High Magic could be very specific. For example, in 1375 DR a priest of Vhaeraun used a High Magic spell to open the realm of Eilistraee to Vhaeraun, in order that he might slay her. The components for this mighty ritual included a certain specific configuration of heavenly bodies appearing in the skies over Faerûn.
+
+The elven patron deity Corellon was capable of blocking elven high magic, at his discretion, by means of a divine arrangement he formed with the goddess Mystra.
+
+History
+It was also High Magic that destroyed the ancient elven realm Tintageer around  and also what was used to open the gate between Faerie and Abeir-Toril to help the survivors escape. However, the caster of the spell to open the gate was also consumed by the power of her spell.
+
+The most significant use of High Magic was probably the creation of Evermeet around  during the First Flowering. The elves cast the spell but miscalculated, and not only did all the casters bearing the focus die, they only succeeded because their deities intervened. Regardless, the continent of Faerûn was sundered and thousands were slain.
+
+During the Crown Wars, around  High Mages of Aryvandaar caused the so-called Dark Disaster and destroyed the realm of Miyeritar. Another example of elven High Magic of this period was cast by the elves with the help of the Seldarine to punish the dark elves. They were turned into the drow and after that their descent began.
+
+By the 14 century DR, elven high magic was a dying craft. The high mages grew reluctant to teach new ones, due to the elves' potential for reckless and irresponsible use. This made it likely for the craft to die out in a single generation.
+
+Another example of High Magic was used by Q'arlynd Melarn to wipe the name of Kiaransalee from the minds of her worshipers, thus eliminating her mortal followers. Due to the edict of Ao, any deity without mortal worship could no longer exist, and so Kiaransalee ceased to exist in the world of Toril.
+
+Language
+Elven High Magic was written in the Seldruin language, which used the Hamarfae alphabet.
+
+Types of Ritual
+High Magic rituals were roughly divided into three different types.
+
+Rituals of Solitude
+Rituals of Solitude were the lowest level, touching the direct source of magic the least, and they could be cast by a solitary high mage. Despite their name, many of these ritual spell effects could involve bolstering the morale of entire armies of elves or of demoralizing their foe's forces.
+
+Rituals of Complement
+Rituals of Complement required three high mages working in tandem, and they required more time and were more complex. Effects included creating permanent gates, the creation of many magic items at once, and creating a phantasmal illusion capable of hiding an entire elven homeland.
+
+Rituals of Myriad
+Rituals of Myriad were the most powerful form of High Magic and required at least five high mages, though some of these rituals required many more participants. Examples of Rituals of Myriad included the creation of the mythals of elven cities.
+
+Adaptations
+Elven High Magic had a number of ways to make its casting easier. For example, when one wanted to create a mythal, the death of the caster was an easy and reliable way to fill the gap between the skill of the caster and the skill required by the spell. It was considered one of the most honorable ways to die in elven culture, which was the reason why many high mages died casting a spell when they reached a level of skill that was high enough for their death to cover the shortfall.
+
+In another example of making up for lack of resources were the Vhaeraunites who tried to open a gate between Ellaniath, Vhaeraun's realm, to Arvandor. What they needed was numbers, estimated to be in the hundreds, while they were only four and had no willingness to sacrifice themselves. Thus, they tapped the power of an earth node that happened to be in a darkstone cavern, which reduced the required number of casters to three, and used a spell called soultheft. As the name implies, each of them stole a soul and used its energy to fuel the magic, thus keeping their own lives safe.
+
+Appendix
+
+Appearances
+Novels
+Evermeet: Island of Elves • Sacrifice of the Widow • Storm of the Dead • Ascendancy of the Last
+References
+
+FR:Haute magie elfe
+
+---
+
+## Elemental
+
+Elementals were outsiders that embodied the elements of the elemental planes.
+
+Varieties
+Elementals
+ Air elemental
+ Earth elemental
+ Fire elemental
+ Water elemental
+
+Para-Elementals
+Para-elementals were from the paraelemental planes, where the borders of the elemental planes intersected.
+ Ice para-elemental
+ Magma para-elemental
+ Ooze para-elemental
+ Smoke para-elemental
+
+Quasi-Elementals
+Quasi-elementals were from the quasi-elemental planes, where the borders of the pure elemental planes intersected with the energy planes.
+ Ash quasi-elemental
+ Dust quasi-elemental
+ Lightning quasi-elemental
+ Mineral quasi-elemental
+ Radiance quasi-elemental
+ Salt quasi-elemental
+ Steam quasi-elemental
+ Vacuum quasi-elemental
+
+Other Elementals
+ Darkness elemental
+ Nature elemental
+ Necromental
+ Shadow elemental
+ Storm elemental
+
+Appendix
+
+See Also
+Creatures
+ Animental
+ Fundamental
+Planes
+ Elemental Plane of Air
+ Elemental Plane of Earth
+ Elemental Plane of Fire
+ Elemental Plane of Water
+ Para-Elemental Plane of Ice (Air/Water)
+ Para-Elemental Plane of Magma (Earth/Fire)
+ Para-Elemental Plane of Ooze (Earth/Water)
+ Para-Elemental Plane of Smoke (Air/Fire)
+ Quasi-Elemental Plane of Ash (Fire/Negative)
+ Quasi-Elemental Plane of Dust (Earth/Negative)
+ Quasi-Elemental Plane of Lightning (Air/Positive)
+ Quasi-Elemental Plane of Minerals (Earth/Positive)
+ Quasi-Elemental Plane of Radiance (Fire/Positive)
+ Quasi-Elemental Plane of Salt (Water/Negative)
+ Quasi-Elemental Plane of Steam (Water/Positive)
+ Quasi-Elemental Plane of Vacuum (Air/Negative)
+
+External Links
+
+References
+
+---
+
+## Elfblade
+
+The Elfblades were three specific magical swords created with Elven High Magic by spellcasters from the Elven Court in . The three swords—the Rulers' Blade (the Ar'Cor'Kerym), and the two Defenders' Blades, the Warblade (the Ary'Velahr'Kerym), and the Artblade (the Ary'Faern'Kerym)—were wielded by the rulers of Cormanthyr and used to determine who was worthy of such responsibility in the ancient ritual of blade-rite.
+
+History
+In −4000 DR, Coronal Oacenth of Jhyrennstar fell ill, and his fever proved incurable. As a prophet of Labelas Enoreth, he spoke the famous words that would prove to one day unite the elves under the great Kingdom of Cormanthyr:
+
+At the Coronal's wish, young clansmen worked to prove their mettle, from which three candidates emerged, and these candidates were given the newly forged Elfblades to mark their rulership. It should be noted that a priest of each Seldarine god was necessary to create the blades. As Kahvoerm Irithyl drew the Rulers' Blade, he became ruler of Semberholme, Jhyrennstar, and Elven Court, which later became Cormanthyr.
+
+The three blades were each used to erect one of the towers in Castle Cormanthor, creating the permanent domiciles of the rules in the Rule Tower, the War Tower, and the Art Tower.
+
+Common Characteristics
+While each Elfblade was unique, they shared common characteristics among the three of them.
+ Each must be attained by the ritual of Blade-rite, a ritual overseen by Elven High Magic. All candidates to draw the Elfblades must be good-aligned.
+ When the wielder of an Elfblade dies, the blade is rendered inert until drawn again as part of a Blade-rite.
+ Any thief who drew the blade suffered as if failing a Blade-rite.
+ Any N'Tel'Quess (non-elves or drow, but not half-elves) who drew the blade was known to be struck dead.
+ Each sword was a powerfully enchanted longsword that granted a ward against attacks as well as increasing the wielder's reaction time. They had magically keen blades imbued with holy energy.
+ Each sword could shed light from a flicker to the strength of the highsun.
+ Each sword added life to its wielder: the Ruler's Blade extended a wielder's life by up to six centuries, the Warblade returns an elf to the peak of physical age (usually a year after adulthood was gained), and the Artblade reduced the current age of its wielder by up to six centuries, though never beyond the first year of adulthood. Alternatively, each Elfblade slowed the wielder's aging process so that they aged at half the normal speed.
+ Each sword was intelligent, was good-aligned, and could speak audibly and telepathically in Elven.
+ Each sword responded negatively to unannounced changes in race, sex, or alignment on part of the wielder, sometimes forcing a new Blade-rite, causing the wielder jolts of pain, or simply dominating the wielder and forcing him or her to return the blade to the High Mages.
+ Each sword bonded with the wielder during the Blade-rite, allowing the wielder to summon it to his or her hand at will, regardless of physical barrier, so long as each remained on the same plane of existence.
+
+Appendix
+
+See Also
+ Cormanthyrian elfblade
+
+References
+
+FR:Lames elfiques de Cormanthyr
+
+---
+
+## Elemental archon (prestige class)
+
+Elemental archons were those worshipers of the elemental lords who wholly dedicated themselves to one of the four elements. They believed the mastery of their favored element was a necessary part of their existence, and extolled the superiority of their element over all others.
+
+Culture
+These individuals were often single-minded in the devotion to an element. They were arrogant and self-centered, never working with those who wielded the other elements. Archons reveled in the opportunity to compete against these individuals, often creating spectacular and destructive battles during their conflicts.
+
+They often wandered the lands to preach to the common folk and attempt to direct them to worship of the god representing their own element.
+
+Many genasi chose the path of an elemental archon in life.
+
+Abilities
+To become an elemental archon, an individual had to be capable of casting divine magic to some extent, and be able to speak one of either the aquan, auran, ignan, or terran languages.
+
+Relationships
+Elemental archons were seen as prophets of sorts by the churches of Akadi, Grumbar, Istishia, and Kossuth.
+
+Abilities
+All elemental archons were able to summon forth three mephits, with whom they had a strong empathic connection.
+
+An archon's connection with its chosen element granted them a number of related boons and powers. They gained inherent protection from damage associated with their element, the elemental spells they cast became more potent, and they gained an edge in combat when connected to their element (such as being suspended in air, or while near an open flame).
+
+The most skilled and experienced elemental archons actually transcended their mortal form and became an elemental in humanoid form. The physical body they knew was no more, and they gained all the abilities and powers of the elemental of their chosen type.
+
+Appendix
+References
+
+---
+
+## Elven high mage
+
+Elven high mages, or selu'taar in the elven language, were among some of the most passionate mages from among the elven species, whose zeal was viewed by others as bordering on obsession. They saw the uncovering of secrets of elven high magic as the culmination of their career, and ultimately their purpose on Toril, and fiercely guarded their esoteric knowledge and arcane lore.
+
+Members
+As of the 1370's DR, there were less than a dozen elves that knew where the repository of knowledge regarding high magic was even located, let alone how to practice the epic magic.
+
+At least three elven high mages lived in Evereska around that time, though one was killed by the phaerimm in 1371 DR.
+
+Requirements
+Wizards or sorcerers could become high mages, but under normal circumstances only elven casters were capable of casting high magic. There were two methods to becoming a High Mage. The first method was to petition the few remaining councils of high mages who resided in various elven strongholds or cities. If the petitioner was accepted, he or she could begin the study of High Magic through conventional means under the guidance and direction of the council. The second method was to inherit a Selu'Kiira and be taught high magic from the stone, provided they meet the stone's requirements and that it possessed such knowledge. Elves under the age of 300 generally weren't permitted to attain the rank of high mage. It was assumed that regardless of skill that they weren't experienced enough to possess such power.
+
+Normally it was only possible to cast true high magic spells with a group of high mages. Although some spells such as those that made changes, added to, or took away certain functions of a mythal were possible provided the requisite knowledge was held. It was however possible for a single high mage to cast true high magic spells alone. In order to do so it was necessary for the caster to become something more than mortal, such as the case of the daemonfey sorceress Sarya Dlardrageth. It may have been possible for other planetouched creatures to yield the same effect but the only races known to have been joined were the demons and celestials.
+
+Abilities
+
+The elven high mages were masters of creating the elven magic of Mythals which could grow in power to envelop and protect entire cities.
+
+They were capable of casting spells with the power to change the Weave itself and the physical world of Toril. Some uses of high magic extended from Khelben Arunsun's efforts to cleanse part of the High Moor and restore Faer'tel'miir, a lost city of Miyeritar, as Rhymanthiin, the Hidden City of Hope.
+
+Elven high mages could readily communicate with others by means of the ritual known as Vuorl'Kyshuf.
+
+History
+The Dark Disaster that transformed the realm of Miyeritar into the High Moor in  was actually caused by elven high mages from Aryvandaar.
+
+In the, the elven high mages Nikerymath conjured an enormous tidal wave to wash over the twelve cities of Jhaamdath, essentially leveling the empire in one fell swoop. The tremendous magical feat reshaped the face of Faerûn, transforming the Bay of Jhaamdath into the the much larger Vilhon Reach as it later came to be known.
+
+Q'arlynd Melarn and the other masters of the College of Ancient Arcana once cast a spell that wiped the name and memory of the drow goddess Kiaransalee from every being on every plane of existence causing her untimely death. The same group also cast a spell that turned all non-Lolth worshiping Drow without demon tainted blood back into brown skinned Dark Elves. Master Melarn established the school of Ancient Arcana to bring the knowledge back into the hands of Dark Elves.
+
+Notable Elven High Mages
+ Gervas Imesfor, a gold elf lord of Everska that remained in the city as of the late 14 century DR.
+ Lyrna Fathomlin, a high mage of Miyeritar that was assimilated by the sharn.
+ Tyvollus Aluviirsan, the high mage of Cormanthyr that transformed one of the sets of the Nether Scrolls into the Quess'Ar'Teranthvar.
+
+Appendix
+
+Appearances
+Novels
+Return of the Archwizards (The Summoning, The Siege, The Sorcerer) • The Last Mythal (Forsaken House, Farthest Reach, Sacrifice of the Widow) • The Lady Penitent (Storm of the Dead, Ascendancy of the Last)
+See also
+Elven high mages
+Elven High Magic
+References
+
+---
+
+## Elfharrow
+
+Elfharrow was a near-desert land in southwest Faerûn in the 15 century DR populated by tribes of xenophobic elves.
+
+Description
+Elfharrow was a land of dry plains located north and north west of Halruaa.
+
+Geography
+Elfharrow included lands that had once been part of Lapaliiya and the Channath Vale. It was bordered on the west by the Shining Sea, the north by the Shaar Desolation, and the south by the Nathaghal Mountains.
+
+Geographical Features
+The Wyrmbones mountain range rose high above the plains in the east of Elfharrow, and the River Talar cut through the center before turning southward. North of the river and west of the mountains was the Dead Vale, a desiccated dead forest and all that remained of the elves former jungle home.
+
+Flora & Fauna
+Life of all kinds appeared sparse to casual observers, but the land actually teemed with fauna. The native elves carefully cultivated herds of livestock for their own use, but coyotes, snakes, and various desert birds eked out a subsistence lifestyle on what little water and vegetation could be found. Said vegetation typically consisted of brush, poisonous thorny bushes, small shrubs and thin grass.
+
+Government
+The elves maintained a tribal society, with borders marked by rectangular stones separating the lands of the various tribes. Each tribe had it's own chieftain, and some also had shamans. All such tribal leaders obeyed the instructions of the Red Wolf when that entity came calling though.
+
+Rather than having marked territory, the aggressive centaur herds that lived in Elfharrow were nomadic. They tried to leave the elves alone, but survived by raiding surrounding territories, ensuring that relations with the elves, who just wanted to be left alone, were always tense.
+
+Trade
+Though they had a reputation for xenophobia, the elves of Elfharrow were actually perfectly willing to trade with outsiders a lot of the time, so long as visitors didn't overstay their welcome in tribal territory or attempt to disturb the ruins of fallen Lapaliiya. They sometimes offered their services as guides through the plains, and welcomed everybody making pilgrimages to Halruaa.
+
+Defenses
+The elves built their villages on points of high ground that gave them good views of their tribal lands. Though only dead wood remained in Elfharrow, the elves still defended themselves with bows, arrows, and spears.
+
+History
+Elfharrow was a relatively young territory, having been created circa 1405 DR when the jungle known as the Misty Vale finished the process of dying due to the localised ecological disaster caused by a climate shift as a result of the Spellplague wherein all of the trees dried out.
+
+The elves built small settlements out of stone taken from the ruins of Lapaliiya's buildings. Meanwhile, centaurs arrived from the north, forced out of the Shaar.
+
+Unlike a lot of more temperate regions of Faerûn though, Elfharrow was not restored through the Second Sundering, and continued to be a hot, dry scrubland.
+
+Rumors & Legends
+The elves of Elfharrow, as a people, desired to find Cuivanu, a life-giving tree, somewhere in the Dead Vale. They would, upon finding it, use it's sap to restore the Misty Vale to it's former state. Should Cuivanu also be proven to have died though, it would be a terrible blow to the elves' remaining morale.
+
+Notable Locations
+ Ruins of Sheirtalar: The former capital city of Lapaliiya. Partially flooded and thoroughly monster-infested, but otherwise largely intact. An outcast Aboleth controlled the Palace of the Overking at last report.
+ North Wall Gap: A pass through the Nathaghal Mountains, that, until the return of Halruaa, was used by both elves and outsiders for Scar Pilgrimages and coming-of-age rituals.
+
+Inhabitants
+ Red Wolf, a mysterious and powerful shapechanging entity.
+ Seaspark, a young elf chieftain of the Abn'dak tribe.
+
+Appendix
+References
+
+FR:Mornelfe
 
 ---
 
@@ -1900,6 +3815,67 @@ fr:Elturel
 
 ---
 
+## Elanee
+
+Elanee was a wood elf druid from the Mere of Dead Men on the Sword Coast North in the mid–14 century DR. Elanee was best known for her aid to the Kalach-Cha during the latter's quest to destroy the King of Shadows.
+
+Description
+
+Thin and graceful, Elanee was most at home in the wilderness, where her spry muscles and keen senses served her well, and she typically dressed in the earth-toned robes typical of druids within her order. Like most wood elves, Elanee had high cheek bones, pointed ears, and pale skin with a coppery hue to it that glistened slightly. Young by elven standards and physically attractive, Elanee had a rugged beauty to her accentuated by her fine but often tangled copper-colored hair. A few of the Kalach-Cha's companions commented that she did not bathe as often as they'd prefer, but her beauty and grace were nonetheless remarked upon by several the hero met.
+
+Personality
+Calm and reflective, Elanee was not generally prone to taking aggressive action and had a sound mind. In times of moral conflict, Elanee was often a voice of gentle charity or calm benevolence, advising the Kalach-Cha to take actions that would cause the most benefit for all. While she could sometimes be intrigued and infuriated, and particularly disapproved of the Kalach-Cha's companions Bishop and Neeshka, Elanee rarely made shows of emotion for any extended period of time and instead maintained a sober stoicism and curiosity.
+
+Like many druids, Elanee was disdainful of civilization, preferring the untamed wilderness for a home and she felt a kinship with many of its animals, including her animal companion Naloch, a badger. Upon arriving on Neverwinter she lamented the amount of natural resources, such as stone and wood, that had gone into building it.
+
+History
+Early Life
+Elanee was orphaned some time in the 13 century DR when orcs came spilling in from the Sword Mountains and drove her people, dwarves, and humans deep into the Mere, where they were cut down in the fog. There her wails caught the attention of the Circle of the Mere, who took her in and trained her to be a druid. She lived there for over a century under the guidance of the Circle, watching settlements such as West Harbor grow up and out of the swamp and others, like Redfallow's Watch, fall.
+
+As a final test for the Circle, she was asked to live among the people of West Harbor, likely to keep an eye on the Kalach-Cha as they grew up. However, there was some disagreement between the elders of the Circle as to whether Elanee was ready and she never ended up being tested in this way.
+
+Watching over the Kalach-Cha
+Eventually, Elanee was made a druid herself. After the battle that nearly destroyed West Harbor, the Circle of the Mere took interest in one of the survivors of the battle, a young child who had been pierced by a shard of the Sword of Gith. Elanee was given the task of shadowing the Kalach-Cha, as the child would eventually be known, and keeping an eye on them to watch for developments. For several decades this was Elanee's task and she watched as the child grew.
+
+Gradually, Elanee's interest in the child became more personal, to a degree that caused discomfort among the Circle. She would spend whole months away from her other duties, watching the child from the shadows and the fog, keeping them safe from harm whenever they ventured into the swamps. In later years, the Circle would regret giving Elanee the task that they did, believing that the experience had "corrupted" her.
+
+When githyanki searching for the Sword of Gith under the command of Zeearie discovered the location of the shards from the battle, they laid an assault on West Harbor with a band of duergar slaves. Elanee pleaded for the Circle to intervene but they chose not to and so Elanee simply watched from afar as the village was once again nearly destroyed, weeping over its destruction.
+
+Travels with the Kalach-Cha
+
+Elanee shadowed the Kalach-Cha for some time after the battle, watching as they recovered another shard and left West Harbor, heading along the High Road towards Highcliff. Though Daeghun Farlong spread rumors that the Kalach-Cha was heading towards Neverwinter, Elanee and the Kalach-Cha's enemies were able to see through the deception and track the hero anyway. Fortunately for the Kalach-Cha and their new companions Khelgar and Neeshka, Elanee was able to hinder the bladelings pursuing the Kalach-Cha for some time, before revealing herself to them along the Road.
+
+After dispatching the Kalach-Cha's enemies, Elanee made a decision. She offered to join them and guide them through a short cut through the Maiden's Glade, a druid sanctuary within the Mere. However, when they arrived they discovered the Mere's beasts gone wild, driven to feral savagery by an unknown cause. After investigating, Elanee and the Kalach-Cha came upon Kaleil, a fellow member of the Circle, corrupted and causing unrest in the sanctuary while trapped in the form of a dire bear. The group was forced to slay him to bring peace back to the surrounding areas and in his dying breath, Kaelil revealed that the Circle and its elders had been lost, and that Elanee and Naevan were all that remained of their circle. Mournful for her fellow druids, Elanee nonetheless left the Mere behind to help the Kalach-Cha in their journey towards Neverwinter, leading them to Highcliff where, after dealing with a local crisis, they boarded a ship to the Northern Jewel.
+
+Though at first Elanee felt out of her element in Neverwinter and was rather uncomfortable, it was not long after that she met a druid from Neverwinter Wood who advised her, after being aided, to go to the Skymirror, a powerful druidic scrying device capable of contacting anyone who had touched its waters, and try to contact the other druids of the Circle in hopes of finding out what was corrupting the Mere. With the Kalach-Cha's help, Elanee managed to contact Naevan who told her not to return to the Mere and that he would send for her soon. However, due to circumstances beyond his control, Naevan would not follow through on his promise.
+
+Fate
+Elanee stayed with the Kalach-Cha for some time, aiding them in several tasks. The two could've grown close, perhaps even intimate, though Elanee would never speak exactly as to why she had chosen to follow the hero. As the Shadow War began to loom over the horizon and the hero, now Knight-Captain of Crossroad Keep, began to gather allies, it was suggested that they search out the remnants of the Mere. Elanee, however, was unsure of whether to look, though she knew the Mere better than any. To aid her, Bishop and Daeghun were both recruited and together, with Elanee, led the Kalach-Cha to the Circle's new hiding place in the Vale of the Mere.
+
+Elanee was surprised to discover the Circle was almost wholly intact. However, the Circle's motives had been twisted and corrupted, as had the Mere around them, and they refused to aid the Kalach-Cha, instead believing that the King of Shadows was but a different part of the natural cycle and that, through his help, civilization's encroachments upon the Mere would be repelled at last as the cities died and everything was returned to the land. Naevan, their leader, had disagreed, and for this they trapped him in the shape of a tree, though he was still able to voice his opinion, trying to dissuade their madnesses.
+
+The Circle tried to convince Elanee of their way, going so far as to reveal her reasons for aiding the Kalach-Cha and indicating that her interest had become too personal. But Elanee saw through their corruption and refused, helping the Kalach-Cha to defeat the druids and restore Naevan to his true form. The experience was deeply troubling for Elanee and it was unknown if she would continue to help the hero or, hoping to do some good for the dying Mere, join Naevan, the last remaining member of the Circle aside from herself.
+
+If she chose to follow the Kalach-Cha, she would later participate in the siege of the King of Shadows's fortress within the Vale. There she may have perished, during the collapse of the fortress, crushed beneath a falling piece of stone.
+
+Appendix
+Behind the scenes
+In Neverwinter Nights 2, Elanee was voiced by Ursula Abbott.
+
+Elanee is the only viable romance interest for male PCs (the Kalach-Cha) in Neverwinter Nights 2. She is arguably the most developed of the companions, having numerous interactions with the player as well as an important role in the campaign's story. Some of these were removed however, such as a quest in which Elanee would enlist the help of Naevan to build a park at Crossroad.
+
+Appearances
+
+External Links
+
+Gallery
+
+References
+
+Connections
+
+---
+
 ## Elf
 
 Elves, known in their own tongue as Tel-quessir (also Tel'Quessir or Tel'Quess), were a number of closely related, long-lived races that excelled in magic.
@@ -2049,6 +4025,903 @@ uk:Ельфи
 
 ---
 
+## Elder evil
+
+Elder evils were ancient, powerful, and generally evil beings or entities. Their power could rival, or even surpass, that of demigods,  such that they could destroy an entire world.
+
+Elder Eternal Evils
+Four beings described as "Elder Eternal Evils" were Dendar the Night Serpent; Kezef the Chaos Hound; Ityak-Ortheel, the Elf Eater, and Gorathil. Later, Dendar and Kezef were considered primordials.
+
+Aboleth Elder Evils
+The aboleth race recognized and respected certain powerful alien entities who predated the gods and inhabited the Far Realm. Collectively known as the "Elder Evils," these beings generally cared nothing for any mortal race, offering only madness and destruction.
+
+ Bolothamogg, called Him Who Watches from Beyond the Stars, was said to be the darkness between the stars, more a primal force than a physical entity. It was also said to be a guardian entity that existed to ensure nothing escaped the multiverse to taint the "true reality" of the outer dimensions. The aboleths honored it by building coliseums and other roofless buildings. According to the synchronized barking of twenty-three gibberlings, the demon lord Areex made a secret pact in "another place" with Bolothamogg. The message ordered him to go "Beyond the Stars" to pay the price.
+
+ Holashner, called The Hunger Below, was one of the few Elder Evils to exist fully in the Prime Material Plane. Appearing as part squid and part centipede, the massive entity burrowed through the deepest reaches of the world, driven by its unending hunger and eating everything in its path. It left behind a black, tar-like substance that was volatile and explosive when exposed to air; the aboleths called this substance the "Black Bile of the World". Over the course of a few months, Black Bile could be compressed by tremendous pressure into an obsidian-like substance called bilestone. Fortunately for the rest of the world, Holashner moved far more slowly than the amount of time it took bilestone to turn back into normal rock. Aboleths honored Holashner by including myriad spindly protrusions or tangled foundations in their architecture, or, very rarely, by crafting bilestone inlays on floors or walls.
+
+ Piscaethces, called The Blood Queen, was the source of the aboleth race, and consequently depicted as a colossal aboleth with no tentacles and mucus the color of blood. The aboleths believed that she traveled across the currents of probability through infinite realities, spreading her spawn as an afterthought. They did not expect or think that she would return. Aboleths honored her by including red crystal domes in their architecture.
+
+ Shothotugg, called the Eater of Worlds, was another one of the few Elder Evils to exist fully in the Material plane.  It was a massive, undulating mass of fluid that existed in a far corner of the multiverse, traveling from world to distant world through the vast emptiness of space. Each world it found and landed on, it poisoned, parasitized, and eventually destroyed. With each destruction, it slightly altered the fundamental forces of the Material plane. Aboleths honored it by building pools and fountains of magically treated and colored fluids that were heavier than water, and by swirling vortex patterns on the floor. It was also worshiped by the kopru as the Great Whirlpool, symbolizing water, and from whose chaotic whirling everything originated and to which everything would return. They believed it lived in massive underground basins and in the deepest pits. Their shamans sacrificed both treasure and slaves by dropping them into such pits, and after a particularly large number of sacrifices on the day the first kopru city-state was formed, Shothotugg granted them the ability to dominate others with their gaze. With Prukal, Shothotugg was said be have both created the kopru species and parented Demogorgon.
+
+ Y'chak, called The Violet Flame, was unique among the Elder Evils in that it actively took an interest in the development of life, or, more precisely, in the development of the destruction of life. It was a muse and inspiration for all that was destructive and ruinous, making its presence felt on civilizations throughout time. It was known to actively encourage the worship of evil deities, and the aboleths thought that deities of war and cruelty and death came to be because of Y'chak's machinations. It typically appeared to people as a seductive or respectable person of the same race, but its true form was that of a pillar of violet flame around a form so horrifying that seeing it invited the complete destruction of the body and soul. Aboleths honored Y'chak by crafting massive pillars of violet flame that burned even underwater; they used the pulsing and writhing of such pillars to mark the passage of time, or even to send simple messages to the entire city at once.
+
+Far Realm-infested Stars
+At some point before 1396 DR, and as consequence of the actions of the Abolethic Sovereignty, some stars in Realmspace became infested with elder evils related to the Eldest. Unlike other stars, they had no set course or place in the sky but instead danced and wavered unreliably. Most were known to be served by certain types of star spawn.
+
+Acamar, a corpse star that doomed celestial objects that drew too close.
+Caiphon, a purple star that had enough of a fixed place just above the horizon to be used for navigation, though relying on it in that way would prove dangerous.
+Delban, a white star that normally appeared only during winter, but sometimes flared into sight in other seasons.
+Gibbeth, a greenish star that was better not to observe or think about overlong.
+Hadar, a cinder-red, slowly dying star that lurked near Ihbar.
+Ihbar, a dark nebula that lay between the stars and ate the light of nearby constellations as it slowly expanded.
+Khirad, a bright blue star whose radiance sometimes lead people to uncover secrets or reveal disturbing insights.
+Nihal, a reddish star that writhed through the night sky.
+Ulban, a blue-white star that confused people's minds and disrupted their ability to recognize danger.
+Zhudun, a corpse star once shone with a baleful light over the city of Cendriane before its fall.
+
+Other Elder Evils
+Other beings called elder evils at one time or another included:
+
+ Atropus, The World Born Dead, a massive undead planet, it's surface populated by an unimaginable number of undead.
+ The Eldest, the leader of the Abolethic Sovereignty. It was believed that the Eldest was the first aboleth of Abeir-Toril, and the ancestor of the aboleth that lived in the world of Toril around 1479 DR.
+ Father Llymic, a being of intense power from the Far Realm who escaped the plane of madness to destroy the world but was encased in ice by elven mages.
+ Gaernoo, a dark entity depicted as a monstrous purple creature with a bulbous head, long arms, tentacles in place of legs, and glowing, multifaceted, aquamarine eyes. It was worshiped by the Burnt Tongue Cult and had grick and grell servants.
+ Hargut of the Gray Pestilence
+ Pandorym, an entity from a space between the planes whose mind was imprisoned in a huge crystal, that was called to the world by the ancient Imaskari to intimidate the gods of their slaves.
+ Prukal, the Dark Globe, was an entity believed by the kopru to embody darkness. They thought it manifested at sunset above the sky and enclosed the world in darkness every night, with the stars being holes punched through Prukal when it was injured by the light beyond the day that land rose from the sea. The darkness that was torn from Prukal, they believed, fell into the oceans to become the great kopura clams. The kopru also believed that, with Shothotugg, Prukal was responsible for both creating the kopru species and parenting Demogorgon.
+Zargon the Returner, the ancient terror of Cynidecea, who could not be killed unless his horn was severed from his body.
+ Zurguth was an Elder Evil whom few had written about. By simply existing, he had the power to alter life, transforming it into something more alien merely by being in proximity to it. He was primarily known for unintentionally creating the kaorti race.
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Electrum
+
+Electrum was a naturally occurring silver-gold alloy with half the value of pure gold: 1 electrum piece (ep) was worth 50 copper pieces (cp), 5 silver pieces (sp), 1/2 of a gold piece (gp), or 1/20 of a platinum piece (pp).
+
+Value and terminology
+Most of Faerûn used "standard rates of exchange for coinage," based on the silver and gold standard, with 1 cp worth 1/100 gp, 1 sp worth 1/10 gp, 1 ep worth 1/2 gp, and 1 pp worth 10 gp..
+
+Electrum coins adopted various names throughout the Realms.
+ Amn minted coins called centaurs or decimes
+ Calimport minted centarches, tazos, or zonths
+ Cormanthyr minted thammarchs
+ Cormyr minted blue eyes
+ Sembia minted electrum coins called harmarks or electrums
+ For a time, Sembia evidently went off the silver and gold standard, and they minted electrum coins called blue eyes, valued at 5 gp apiece
+ Waterdeep minted moons, or harbor moons
+ Silverymoon minted special coins called electrum moons
+
+Throughout the Western Heartlands, most electrum coins from abroad were called blue eyes regardless of origin.
+
+There are two special coins valued more within the city they were minted in:
+ The original shining blue crescent-shaped electrum moon of Silverymoon, a coin worth 1 ep throughout the Realms but twice that within the city itself.
+
+ The harbor moon of Waterdeep, a cresent shaped Waterdhavian coin made of platinum, inset with electrum, and punched with a central hole. It was used for bulk transactions, one coin being worth 50 gp within the city of Waterdeep and worth 2 gp–30 gp anywhere else.
+
+Electrum currency was generally rare and not available in the Land of Fate.
+
+Other uses
+The spell Khelben's warding whip used a pinch of powdered electrum as a material component.
+
+The spell Leomund secret chest could use a chest fashioned from bronze, copper, or silver with fittings of electrum or silver.
+
+Magical morning stars known as storm stars were crafted from electrum-plated steel. They could unleash a chain lightning effect.
+
+An electrum mounting allowed witherite to be worn as a protection to necromantic attacks.
+
+Two notable tomes—The Chambeeleon and The Tome of the Unicorn—had electrum pages, with the latter also having electrum covers.
+
+If one of the twisted bands of a shoonring was made of electrum, this usually indicated that the ring contained multiple powers and enhanced the effects of the magics involved.
+
+Appendix
+See Also
+ Currency
+Notes
+ Some of the local names for electrum pieces given in the AD&D 2nd Ed. Campaign Setting—centaurs, and centarches; imply the 100/1 (centa-) valuation between copper and electrum that existed in AD&D 1st ed., implying that in real life, Greenwood came up with the names before 2nd Edition was released.The name decimes, implies the 1/10 (deci-) valuation between electrum and platinum from 1st & 2nd Ed. AD&D.
+ The 4th Edition value for a Sembia-minted electrum coin is one of the only references to ep's in 4th Edition and is wildly different then anything listed in 1st–3rd, and 5th Editions.
+
+Appearances
+
+Gallery
+
+External Links
+
+References
+
+---
+
+## Elemental myrmidon
+
+Elemental myrmidons, otherwise known as elemental archons, were a variety of elementals created by conjuring and bounding elementals into ritually created suits of armor to act as servile weapons of war.
+
+Description
+Elemental myrmidons were of roughly human shape, but were typically slightly larger in size. Though they could be even larger, as their size was determined by the size of the armor they were bound to. They were typically composed almost entirely of a single substance, be it an element or paraelement, though some could be a combination of elements. Only earth myrmidons were seen to have legs on their lower body, others simply having a single large mass of the element they were composed of.
+
+All myrmidons wore thick armor, typically of a plate variety. These not only protected them against attacks, but contained their form and was integral to their being. After some time they were capable of removing this armor and replacing it with something else, but many never saw any need to do so. When a myrmidon was killed, their armor was all that would remain of them.
+
+Personality
+Elemental myrmidons retained no memories of the free elementals that were bound to create them.
+
+As creatures that were forged for the purpose of war, their mindset revolved almost entirely around conflict and conquest. They had an innate desire to wage war, though not necessarily a desire for winning. When their innate desire to wage war went unsatisfied for a long period of time they would initially become restless, then careless and sluggish. Additionally, they had an innate desire to kill non-elemental creatures, a desire that they could not be talked out of.
+
+However, elemental myrmidons could not exert a will of their own, they had no personal ambitions. All they could do was follow the commands of their creators, furthering their goals and ambitions. They also had no need for comforts and didn't value material wealth. When an elemental myrmidon was free, not bound to a master, they would prowl the land and indulge in their innate desire to kill non-elemental creatures.
+
+Abilities
+All elemental myrmidons were immune to the effects of diseases and poisons, as they were beings composed wholly of elemental essence. They were also impervious to harm from their respective element.
+
+History
+Elemental archons were created by the primordials during the Dawn War as a response to the gods' use of angels. It was believed that the idea for them came from an outsider. Those most commonly speculated were djinn, an angel, or a deity that had turned traitor to their fellow gods.
+
+In order to create the archons, the primordials studied nature in the Elemental Chaos. They then found several elemental creatures or wild elementals and split them apart into their components. Finally they reshaped them, forging the elementals into archons through intentional creation. The use of archons was initially successful and might have won the primordials the war, as they were produced in near limitless numbers, but the gods discovered the secret of their creation and began focusing relentless assaults on the special foundries where they were made.
+
+At some point, efreets managed to steal the secrets of archon creation from the primordials and from them this knowledge eventually spread across the planes. After the Dawn War ended an untold number of elemental myrmidons remained, having no master to serve. Some were quickly snatched up by powerful forces in the Elemental Chaos, while those that remained free took up the life of mercenary work.
+
+During the Elemental Evil crisis on Toril, elemental myrmidons were utilized by members of each of the four elemental cults responsible for the crisis: the Cult of the Black Earth, the Cult of the Crushing Wave, the Cult of the Eternal Flame, and the Cult of the Howling Hatred.
+
+Varieties
+
+Air elemental myrmidons Myrmidons created from binding air elementals.
+Crystal archons Archons created from binding mineral quasi-elementals.It is not stated what these archons were created from, though based on the lore of elemental myrmidons it stands to reason that they would have been created from binding an elemental of the equivalent elemental essence.
+Earth elemental myrmidons Myrmidons created from binding earth elementals.
+Fire elemental myrmidons Myrmidons created from binding fire elementals.
+Ice archons Archon created from binding ice para-elementals.
+Slime archons Archons created from binding ooze para-elementals.
+Iron archons Archons created from binding mineral quasi-elementals. The most violent variety, they were a later creation inspired by mortals' use of metals to make weapons.
+Mud archons Archons created from binding ooze para-elementals.
+Storm archons Archons created from binding the elemental essences of air, lightning, and water.
+Water elemental myrmidons Myrmidons created from binding water elementals.
+
+Society
+Regardless of their elemental make-up, when left to their own devices myrmidons would form societies that had the same structure, one that was roughly militaristic. They were rigidly disciplined and had hierarchies based on rank, with rank determining every aspect of life in their stronghold. These ranks did not have proper titles, as myrmidons simply knew where they and others ranked. They did not challenge authority or compete against one another for rank, each being satisfied with their station and feeling they best serve in that position.
+
+When elemental myrmidons had their own settlements they were best described as bastions, fortresses, or strongholds, rather than cities. They sometimes conquered the settlements of other races and converted them into strongholds, but most often they constructed strongholds around the special forges needed to create them. Hundreds of these strongholds could be found all across the Elemental Chaos. These strongholds were lead by the elemental myrmidon who had the greatest personal power and military acumen.
+
+Outside of combat, elemental myrmidons spent much of their time trying to hone their knowledge of strategy and tactics, engaging in tactical exercises, or sparring. Constantly training for the next conflict, which satisfied their innate desire to make war.
+
+On rare occasions, elemental myrmidons took slaves to perform manual labor or act as practice opponents. Slaves usually died from the latter or from neglect, as the myrmidons did not understand how fragile creatures of flesh could be.
+
+Creation
+Some said that constructing an elemental myrmidon required a special foundry, with a special forge built in a significant concentration of elemental energy, and a summoning crucible that served as the transformation space. These forges rarely appeared like a common forge, being unrecognizable contraptions of arcane and elemental magic.
+
+Creating elemental myrmidons was a difficult ritual, a crucial element of which was encasing the elemental energies in armor ritually created at the foundry's forge. If this was not done a myrmidon might quickly expire, lack intelligence, or worst of all grow into something more powerful and uncontrollable that sought to avenge its creation.
+
+A working foundry could produce elemental myrmidons as often as the ritual could be performed and for as long as its resources were maintained. The forge's power determined what kind of myrmidon was created. A forge with ebbing power could only generate the most basic version, while those at high flow could produce more powerful varieties.
+
+Some notable forges included Firespring in the Char district of the City of Brass, from which the resident efreet created fire myrmidons, and a forge located in the Crater of Blue Ice from which ice archons created more of their own kind.
+
+By the late 15 century DR, some druids of the Circle of the Moon were capable of wild shaping into elemental myrmidons.
+
+Relationships
+There was no innate hostility between myrmidons of differing elements. They would freely associate with one another, though infighting amongst them could occur if they lacked strong leadership. They also had no particular loyalty to the primordials.
+
+Myrmidons that were free would sometimes hire themselves out as assassins, guards, or soldiers in order to satisfy their innate desire for conflict. They were willing to work for any employer that could guarantee them a fight, even a non-elemental. Some used the payment from these services to purchase tools and weapons that sat gathering dust in their strongholds, providing outsiders motivation to come and siege them.
+
+Many archons were known to serve the evil archomental of their respective element, including Cryonax and Yan-C-Bin. They were also known to serve efreet, storm titans, earth titans, fire titans, some giants, and even high-ranking demons of the Abyss. Titans generally amassed archons of an element similar to their own, such as fire titans having fire myrmidons. Efreet on the other hand included a wide variety in their armies, as they recognized there was strength in having a diverse array of them.
+
+When it came to negative relations, all the angels of the Astral Sea held a burning hatred for the myrmidons and would go to considerable risk to strike at their foundries or strongholds.
+
+Rumors & Legends
+It was said that those who knew the proper rituals could enforce the obedience of all archons that emerged from a particular forge.
+
+Appendix
+Notes
+
+Appearances
+
+Further Reading
+ Dragon #361: "Ecology of the Fire Archon"
+References
+
+---
+
+## Elemental Chaos
+
+The Elemental Chaos was an Inner Plane in the Great Wheel cosmology, located at the far reaches of the elemental planes, where the elements dissolved into a single mix of colliding energies. In the World Axis cosmology— which is the cosmology of the planes post-Spellplague—it was the fundamental plane within which were contained all of the former elemental planes and energy planes, as well as the planes of Limbo and the Abyss.
+
+A tempestuous sea of ever-changing terrain and clashing elements, with stability only enforced in isolated locations, the Elemental Chaos was ruled over, at least in name if not fact, by the primordials and was the equal and opposite of its divine counterpart, the Astral Sea, as the primordials were the opposites of the gods as demons were to devils.
+
+In spite of its chaotic and dangerous landscape, most parts of the Chaos were relatively easy to travel through, or at least as much as most other planes.
+
+Elemental Realms
+According to the World Axis cosmology, though most of the Elemental Chaos was an ever-changing landscape defined by chaos and unpredictability, there were planes within the Chaos that had a more defined set of stability. These sub-planes, called realms, were formed through the will and power of mighty elemental beings, often primordials but including other denizens of the Chaos as well. Within these realms a sort of order was maintained, often reflecting the nature of its creator and ruler. This was not always entirely true and the Abyss, for instance, was as chaotic and dangerous, if not thoroughly more so, than the rest of the Chaos.
+
+Like dominions, realms maintained laws and natures separate from the rest of the Chaos, though they dwelt within it, and often had strong connections with other planes outside of the Chaos.
+
+The Abyss
+The home of demons, the Abyss was a deep, multilayered plane that lay at the "bottom" of the Chaos.
+Cresting Spires
+Dominated by the primordial Istishia, the Cresting Spires were a plane dominated by water.
+Fimbulwinter
+Forged by the titan Thrym, this plane was covered in ice.
+Hidden Realm
+The most powerful of the titans, Annam, ruled this mysterious realm.
+Muspelheim
+Ruled over by the titan Surtr, Muspelheim was dominated by a volcanic landscape.
+Root Hold
+Dominated by Grumbar, the primordial lord of the earth element, Root Hold was a series of vast subterranean halls with strong connections to the Dismal Caverns and Dwarfhome.
+Sky Home
+A realm ruled over by the primordial Akadi and dominated by rolling clouds and dark storms. Sky Home had links to the plane of Arvandor.
+Steading
+This realm resembled a landscape of rolling hills and was dominated by the titan Grolantor.
+Thraotor
+A plane of storms, this plane was ruled over by the titan Memnor.
+The Undying Pyre
+The Undying Pyre was a fiery plane of thick smoke and mighty flames, ruled over by the strongest of the primordial lords, Kossuth.
+
+Inhabitants
+Gleamtail jacks
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Elven language
+
+Elven, commonly called Elvish and sometimes referred to as the True Tongue, was the language (or language family) of the Tel'Quessir (e.g., eladrin, elves, and drow). Its script was known as Espruar.
+
+Description
+Elven was one of the oldest languages and the parent of various other languages spoken by other races. It was known for being fluid in tone, rich, and varied in vocabulary, which made it exceptional for ballads, poems, and other artistic expressions. Well suited for magical theory and natural features, Elven offered a fine degree of differentiation to express concepts like emotions and philosophy as well as categorizing plants, animals, and weather patterns. However, Elven had limited vocabulary for technical topics such as industry, mechanics, or engineering.
+
+Dialects
+GroddA dialect spoken exclusively by grodd goblins. This dialect was a corrupted form of Ancient Elvish, derived from an extensive period of servitude to the elven wizard Nalavarauthatoryl. This dialect was roughly 50% comprehensible to those fluent in contemporary Elvish, allowing for the general gist of meanings to be conveyed.
+Sea ElvishThe dialect spoken by sea elves.
+Wild ElvishThis dialect, spoken by sylvan elves, was highly musical. It sounded strange to other elves, but could be understood by them with some difficulty.
+
+Appendix
+
+See Also
+ Elven dictionary
+ Espruar, the alphabet of the moon elves
+ Hamarfae, the script used to write the Seldruin language
+ Seldruin, the language of Elven High Magic
+
+Appearances
+
+References
+
+Connections
+
+es:Elven
+
+---
+
+## Ellery Dragonsbane
+
+Ellery Dragonsbane, her full name Ellery Tranth Dopray Kierney Dragonsbane Peidopare, was a warrior of Damara and a famous commander of the Army of Bloodstone.
+
+Description
+Ellery was tall and quite slender. Her skin was tanned with many freckles about her nose, enhancing her beauty by adding a touch of girlishness to a face full of intensity and power. Her bright blue eyes were wide set. Sometimes she wore her thick shock of long, fiery red hair falling free and tumbling down her back.
+
+When leaving for battle, the commander was armored in full plate decorated with carvings and delicate designs and wore a great flat-topped helmet, plumed with a great red feather on the left-hand side, indicating her rank among the Army of Bloodstone.
+
+Personality
+Growing up under the shadow of Zhengyi, the Witch-King, Ellery had seen many battles and had wielded her heavy axe since childhood.
+
+She spent years justifying her secret relationship with Canthan Doolittle, and thought herself in control of the relationship, but she was nothing but a pawn to Canthan. Her dark choices delayed her from emerging as a true paladin in the line of Gareth Dragonsbane.
+
+History
+Ellery was related to the old Vaasan family lines of Tranth and Dragonsbane. She was the niece of Baron Tranth and the cousin of Lady Christine Dragonsbane, Queen of Damara, and the niece of Gareth Dragonsbane, King of Damara.
+
+She rose in rank and reputation with the help of Canthan and his associates in the Citadel of Assassins.
+
+Ellery retrieved her axe from an ogre she slew.
+
+While trying to kill the drow Jarlaxle on the orders of Canthan, she died in battle when Artemis Entreri nicked her heart with his dagger.
+
+However, Jarlaxle resurrected her for the battle against the dracolich Urshula in the bowels of the new Castle Perilous, where she ultimately died again.
+
+Appendix
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Eldritch knight
+
+Eldritch Knights were arcane warriors of Faerûn who devoted their lives to the study of both martial fighting styles and the practice of the Art.
+
+Culture
+These individuals took great pride in the versatility of their skill sets. They were extremely motivated to perfect their two disciplines equally as they continued their training.
+
+They were often incentivized by the opportunity to hone their physical fighting skills or the prospects of uncovering new and previously unlearned magical lore.
+
+Abilities
+Eldritch knights developed rituals that allowed them to form a unique connection with either one, or a pair of weapons. After doing so, a knight could summon it to their hand and never lose their grip, so long as they were present and in control of themself in battle.
+
+Through their experience they learned how to skillfully attack their foes with weapon and magic, alternating between spell castings and weapon strikes with great efficiency. They could even imbue their attacks with a magical effect that made their foes even weaker to their eldritch magic.
+
+Some of the more expert eldritch knights could use the rush of combat to gain advantageous position on the battlefield, by means of teleportation.
+
+History
+The descendants of the Netherese House Orogoth often followed the path of the eldritch knight.
+
+Around 1372 DR, the city of Waterdeep had a higher than average population of eldritch knights.
+
+Notable Eldritch Knights
+ Elorfindar Floshin, the gold elf protector of Ardeep Forest.
+  Shaliim Wyrmslayer, Overking of Lapaliiya.
+ Kalahar Twohands, High Lord of Loudwater
+
+Appendix
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Elikarashae
+
+Elikarashae was a warrior-deity of the Yuir pantheon.
+
+Possessions
+Elikarashae was said to have wielded three great weapons: Shama, a spear that could speak to elven warriors of pure heart and noble mind; Ukava, a sling that never missed; and Maelat, a club that could only be wielded in the defense of the Yuir.
+
+Worshipers
+Elikarashae was worshiped by the Yuir elves, but vanished during the decline of the Yuir.
+
+The Temple of the Yuir Gods featured a wooden statue of Elikarashae.
+
+History
+Elikarashae was said to have once been a mortal elven warrior of the Yuir who fought many of the Yuir's enemies before ascending to Arvandor and becoming a deity.
+
+Rumors & Legends
+It was said, as of 1368 DR, that there were stirrings that some said heralded the return of the Yuir gods.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Elminster's Ecologies Appendix I
+
+Elminster's Ecologies Appendix I is a 2-edition Advanced Dungeons & Dragons accessory for the Forgotten Realms.
+
+Description
+Elminster's Ecologies Appendix I focuses on the flora and fauna of the Battle of Bones and Hill of Lost Souls. It includes such encounters as the zombie ferret, lava ankheg, and dead grass snake, and also recipes for ruby blushrose potpourri and firebush spice paste. The package also includes a 5-page encounter booklet.
+
+Contents
+The Battle of Bones
+ Listen... Listen Well
+ Lay of the Land
+ What You Will Find at the Site
+ The Battle Itself
+ Life After Death After Life
+ The Rose Garden
+ The Bone Miners
+ The Gathering Undead
+ Turn, Turn, Turn
+ Necromantically Inclined
+ Unified Defiled Theory
+ Rumors and Legends
+Appendix One The Hill of Lost Souls
+ Introduction
+ History of the Hill of Lost Souls
+ Possible Encounters
+ Orc Ceremony
+ Joining the Spirits
+ The Hidden Monster
+ The Lava Ankheg
+ Into the Tunnels
+ Thelarn's Tomb
+ The Mysterious Geyser
+ The Giants of the Hill
+ The Prairielands
+ Weather
+ Training on the Prairie
+ Denizens of the Prairie
+ Natural Dangers
+ Rumors and Speculations
+Gallery
+
+Credits
+The Battle of Bones
+ Author: Donald J. Bingle
+ Original Realms Design: Ed Greenwood
+ Development: Karen S. Boomgarden and Elizabeth T. Danforth
+ Editing: Elizabeth T. Danforth
+ Creative Director: David Wise
+ Project Coordinator: Thomas M. Reid
+ Cover Art: Fred Fields
+ Interior Art: Matthew Cavotta
+ Cartography: Diesel
+ Typography: Nancy J. Kerkstra
+ Production: Paul Hanchette
+Appendix One The Hill of Lost Souls
+ Author: Scott Davis
+ Original Realms Design: Ed Greenwood
+ Development: Elizabeth T. Danforth
+ Editing: Elizabeth T. Danforth
+ Creative Director: David Wise
+ Project Coordinator: Thomas M. Reid
+ Cover Art: Fred Fields
+ Interior Art: Matthew Cavotta
+ Cartography: Diesel
+ Typography: Nancy J. Kerkstra
+ Production: Paul Hanchette
+Appendix
+See Also
+ Images from Elminster's Ecologies Appendix I
+Further Reading
+
+External Links
+
+---
+
+## Elminster's Ecologies Appendix II
+
+Elminster's Ecologies Appendix II is a 2-edition Advanced Dungeons & Dragons accessory for the Forgotten Realms.
+
+Description
+Elminster's Ecologies Appendix II contains two booklets which describe the ecologies of two locations in the Realms setting. This information is presented from the perspective of two non-player characters: Bara, a druid from the High Moor, details the living things in her desolate land; the other is Lark of Suzail, a mage with a phobia of snakes, details the same in the Serpent Hills.
+
+Elminster's Ecologies Appendix II presents information on the geography, weather, plants, and animals of each area, as well as information of the monsters that live there, such as how they organized themselves, and what relationships exist between the tribes. The supplement presents encounter tables but provides no game statistics, and each booklet finished with a section of rumors and legends.
+
+Contents
+The High Moor
+ I Think Not
+ The Environment
+ The Flora
+ The Common Animals
+ The "Monsters"
+ The Abominations
+ Rumors and Legends
+The Serpent Hills
+ That's Not a Stick
+ The Wildlife
+ The Lizard Folk
+ The Snake People
+ The Dragons
+ Nearby Areas
+ Mysteries & Current Events
+Index
+Creatures
+Curlew
+Plants
+Bilberry
+
+Gallery
+
+Credits
+The High Moor
+ Design: Tim Beach
+ Editing: Julia Martin
+ Cover Art: Fred Fields
+ Interior Art: Matthew Cavotta
+ Cartography: Dennis Kauth
+ Typography: Angelika Lokotz
+ Production: Dee Barnett
+ Special Thanks: Barb Emmerich
+The Serpent Hills
+ Design: Tim Beach
+ Editing: Julia Martin
+ Cover Art: Fred Fields
+ Interior Art: Matthew Cavotta
+ Cartography: Dennis Kauth
+ Typography: Angelika Lokotz
+ Production: Dee Barnett
+ Special Thanks: Barb Emmerich
+
+Appendix
+See Also
+ Images from Elminster's Ecologies Appendix II
+External Links
+
+---
+
+## Elemental realm
+
+Elemental realms, sometimes called just realms, were domains located in the Elemental Chaos that, through sheer willpower of their creators, were made into planes in and of themselves. Many of these realms were ruled over by primordials, but far from all of them, and more than a handful existed created by other denizens of the Chaos.
+
+Unlike other parts of the Elemental Chaos, elemental realms were distinct, sometimes even possessing their own demiplanes. However, each realm was still subject to the endless entropy of the Chaos and doomed to eventual absorption by its surroundings, though they might simply change form or size, like the ancient Abyss.
+
+Elemental realms, like their divine equivalents the astral dominions, were shaped by the will of powerful forces, often elemental in origin. Some were not: Zerthadlun was formed by the natural githzerai. Most elemental realms reflected the nature of their ruler and realms dominated by fire titans, for instance, would be covered in flames and swathes of fiery terrain. Some dominions were vast and immeasurable, like the Abyss, while others were far smaller, like the City of Brass. Most often, elemental realms were depicted in artwork as great stone structures drifting in a tempestuous sea of elemental forces. Some elemental realms had ties to other planes, particularly the Deep Wilds dominion. The Abyss, in particular, maintained strong ties to several planes in the Astral Sea, where it once resided.
+
+Although it was possible that elemental realms existed long ago, before the Sundering of Abeir-Toril into two worlds, the realms were unheard of before the Spellplague of 1385 DR, which caused the elemental and energy planes described by the World Tree cosmology to collapse into one another and merge, eliminating the traditional distinctions that had separated them for millennia. Elemental realms were those planes that arose out of the merging that remained distinct, with one for each of the elemental lords as well as many for powerful titans. As a result, most of the elemental realms were extremely young.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Elemental tempest
+
+Elemental tempests, which were also sometimes called tempests or Genasi tempests, were Genasi capable of manifesting two elemental forms simultaneously. This was an unusual talent amongst their race. Unlike most Genasi, who typically had a single, dominant elemental manifestation, elemental tempests embraced the chaos that fueled their physical nature. As a result, elemental tempests were inconstant and passionate individuals capable of both vast power and an unusual amount of versatility.
+
+Culture
+Because manifestations were so closely tied to a Genasi's appearance and psychology, elemental tempests were unusual in a few ways beyond their abilities. An elemental tempest's physical appearance was likely the most immediately obvious difference, as a tempest's body constantly flickered between one element and another. For instance, an elemental tempest of fire and wind might have been covered in red flames across most of his body with an arm of chilly blue. This caused a constant strain on an elemental tempest's body, though such Genasi usually embraced the feeling, rather than seeing it as a burden.
+
+Elemental tempests could also appear psychologically unstable. Because each manifestation had broad psychological traits associated with it, elemental tempests often appeared to have two warring personalities. However, in reality, a tempest was generally no more insane than the average Genasi in spite of frequent mood swings.
+
+Abilities
+The most obvious ability of an elemental tempest was the one that defined them–their ability to manifest two elements at once. These elements could be of any combination found amongst Genasi in which the tempest was already capable of manifesting. While manifesting these elements, which a tempest could change while resting, a tempest acquired the benefits of both manifestations simultaneously. On rare occasions an elemental tempest, when determined, could change one of their manifestations instantaneously or even temporarily adopt a manifestation they were normally incapable of using.
+
+Naturally, the ability to manifest two elements led into the rest of an elemental tempest's abilities. Each elemental tempest, for instance, charged the attacks they gained as tempests with elemental energy from each of the manifestations they were currently using, such as fire and cold. Experienced elemental tempests also gained an increased resistance to harm by elemental fire, cold, or lightning.
+
+Although it seemed natural that elemental tempests would draw upon elemental magic, this was hardly necessary. Tempests could come from any background, from rogues to paladins, and the power that fueled their abilities may have come from any of several sources, be they arcane, divine, or simply the result of tapping the Genasi's inner potential. Each of a Genasi's powers were unmistakably elemental in nature, however. For instance, absorb elements was an ability novice tempests were capable of that allowed an elemental tempest to absorb harmful elemental energy and charge their own attacks with it. Elemental fury similarly allowed tempests to blast their foes with elemental power.
+
+Appendix
+References
+
+---
+
+## Elytharra Dinnesmore
+
+Elytharra Dinnesmore was a half-elf enchantress from Neverwinter active in the early 14 century DR.
+
+History
+Elytharra met Ulbrec Dinnesmore in the city of Neverwinter. He was a military commander of Neverwinter at the time. They eventually married, and when he retired, they moved to Targos, where Ulbrec took up the seat of the town's Speaker and Elytharra–on the adviser's role. She spent her time in Targos gathering and deciphering books and magic scrolls of the frozen region.
+
+In the, Targos became targeted by the Legion of the Chimera. Elytharra and Ulbrec started receiving news of inserting goblin attacks in the north, and the Lord Speaker ordered the construction of a palisade around Targos. This was a wise course of action as within several months since the first goblin attacks, Targos was besieged. Ulbrec petitioned Luskan and Neverwinter for military aid, but none arrived. The attacks were a mystery, and little was known of the enemy forces' location. Elytharra unsuccessfully attempted to divine the goblin army's location, and after diviner Valin Geldencross of Bryn Shander fell ill, she abandoned the attempts. Elytharra was present in Targos during the Legion's use of tunnels and magic to attack the town's harbors, and shortly after, she was among the city defenders when the Legion of the Chimera helmed a full-on assault on the town's fortifications.
+
+The same year she helped a group of mercenaries from Luskan to create an enchanted spectral blade called Sorrow's Tear. Another enchanted weapon created by her was the Goblin Hunter that Elytharra used to defend herself from the growing goblin threat to the Ten-Towns.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Eltabbar
+
+Eltabbar was the former capital of Thay, located on the edge of Lake Thaylambar within the tharch that shared its name. The second-largest city of Thay was a haven for Red Wizards and bore a dark secret that predated the founding of the magocracy.
+
+The city was the nexus of Thayan slave trade up until the late 14 century DR. Thousands of slaves were shipped into the city before being auctioned off to live out the rest of their short, unfortunate lives.
+
+Description
+From a rushing waterfall, the River Eltar flowed through the city, by means of a unique, winding system of broad canals that lent to Eltabbar's fame throughout the realm. They featured grand decorations such as floating flower beds and elegantly-designed stone walkways.
+
+Within its walls, the wide streets of Eltabbar were lined with attractive baroque buildings, and grand wizard towers constructed from exotic and eye-catching building materials. Its numerous public gardens and parks were immaculately maintained by the city's slaves, featuring flora from a many far-off lands, some completely unique to the Thayan capital. Colorful birds nested within the city's trees and flocked about, further lending to the serene beauty.
+
+Eltabbar is also a place swept by fads, as everyone seeks to ape the whims of the powerful, so last season everyone wore brass facemasks in public, the season before everyone waved ornate walking-sticks about as they walked, and this year it’s little bobbing beholder-sculptures dangling from elbow and wrist on fine chains. And every last one of these fads leaves a residue: each time, a few folk cling to them forever-after, so most gatherings of Eltabbrans look like rich well-dressed eccentrics have been let out of a dungeon, and haven’t dispersed yet.Ed Greenwood, Alex Kammer, & Alan Patrick (2022) Thay Land Of The Red Wizards. p. 56
+
+Layout
+The city was planned and constructed with exact specifications, which were arcane in nature. Its roads, canals and structures formed a massive glyph, imbued with protective magic. This design was an innovation of Jorgmacdon, the first zulkir of conjuration.
+
+Law and Order
+One unique law in Eltabbar, was the prohibition of any maps that detailed the layout of the city. This manifestation of the Red Wizards' secrecy and paranoia regarding its inherent magic persisted for many years, originally enacted "for security reasons". Black-market maps, which were often rife with errors, carried a heavy price tag before the law became more lax around the year 1368 DR.
+
+Population
+
+Eltabbar was primarily a city of wizards, a fact which turned away some merchants who proffered to trade in the southern city of Bezantur.
+
+Throughout its existence, the population of Eltabbar had predominantly comprised slaves, the auctions of which were a common scene.
+
+History
+Origins
+Before the founding of the city, in the year when the nation of Thay was founded in 922 DR, the Red Wizard Jorgmacdon tunneled beneath High Thay and discovered the demon lord Eltab from the demoncyst beneath the plateau. Using an ancient ritual borrowed from the Nar demonbinders, Jorgmacdon released the Hidden Lord and allied with the great fiend to overthrow the oppressive God-kings of Mulhorand in the battle of Thazalhar. Eltab's release destroyed the barrier between the demon world and Toril, and created the River Eltab which proceeded to rush down the Thayan Plateau.
+
+Unable to banish Eltab following their liberation from Mulhorand, Jorgmacdon and the Red Wizards imprisoned the demon lord beneath the mouth of the River Eltab, and constructed the city of Eltabbar in the arrangement of an arcane glyph to seal the magical prison. As a result, Eltabbar experienced regular rumbles and and short bouts of shaking throughout its history.
+
+Release of Power
+In the 14 century, the zulkir of necromancy Szass Tam came up the realization that the Demon Lord Eltab would break free from the prison in which he was trapped for the last 400 years. He released Eltab in 1367 DR and compelled him with the Death Moon Orb to sit upon Thakorsil's Seat, in an attempt to enslave him for all time by means of the Ritual of twin burnings. However, before Tam could wield the power of all nine runes of chaos, a group of adventurers, assisted by the sorceress Azargatha Nimune and the intelligent greatsword Hadryllis, stopped Tam and Eltab slipped away into the demoncyst. Massive earthquakes caused by Eltab's release ravaged the city of Eltabbar. Many buildings were destroyed or outright leveled, and great floods from the Eltar River drove many Thayan citizens away from the city.
+
+Over the next eight months, Szass Tam led reconstruction efforts by means of his horde of undead laborers, with no one the wiser the lich was the cause of the "natural" catastrophe. Eltabbar was largely rebuilt to its former beauty and Tharchioness Dmitra Flass solidified her power over the bustling metropolis. Around the year 1372 DR, rumors abounded that a powerful demon was again imprisoned beneath the city, though the identity of the fiend was unknown.
+
+Thayan Civil War
+On Mirtul 11 1375 DR, the Council of Zulkirs convened in Eltabbar at the behest of Szass Tam as he offered a proposition that he be made temporary regent, in order to defeat the hordes of undead that had been ravaging the eastern tharchs. The council voted against the necromancer, the fact of which was quickly disseminated throughout the city leading to mass riots and violence. While the city's castellan Nular Zurn attempted to maintain order, it wasn't until a spectral image of Tam appeared throughout the streets of Eltabbar, before the riots began to quell.
+
+During the decade-long War of the Zulkirs, the capital city remained a seat of power for the Council of Zulkirs as they fought against Szass Tam's forces of northern Thay.
+
+Somewhat inexplicably, Eltabbar managed to remain undamaged by the effects of the Spellplague in 1385 DR, and even thrived over the course of the next century, despite losing its status as the capital city of Thay. By 1479, Tharchioness Sylora Salm had made her home within Eltabbar, and oversaw the magic that protected it from the volcanic ash that plagued the rest of Thay.
+
+Notable Locations
+
+ Council Hall: This central building was used by the 15 century zulkirs serving under High Regent Szass Tam.
+ Chapterhouse of transmutation: The chamber for the Red Wizards transmuters housed the likes of Zulkir Druxus Rhym and the vampire Muthoth.
+
+Appendix
+Appearances
+Novels
+The Crimson Gold • Unclean • Undead • Unholy
+
+References
+
+FR:Eltabbar (cité)
+
+---
+
+## Elysium
+
+The Blessed Fields of Elysium  was the Great Wheel cosmology plane embodying the concept of pure good without being overly restricted by law nor dissipated by the randomness of chaos. Some characteristics of this plane were ascribed to Heliopolis and the House of Nature in the World Tree cosmology model when that cosmology became popular. Heliopolis was essentially destroyed in the Spellplague and the House of Nature split into at least two parts, one of which became the Deep Wilds and the other merged with the Green Fields as described by the World Axis cosmology model.
+
+Description
+Most features of the four layers of Elysium were found on or near the banks of the river Oceanus which linked the plane with two other Upper planes: the Beastlands and Arborea. Oceanus was the counterpart to the river Styx which flowed through the Lower planes except that Oceanus had only natural hazards and contained potable water. Lands near the riverbanks were lush with pines and flowering trees that filled the air with natural perfume. Farther from the river smaller trees grew and started to thin until finally, after hundreds of miles/kilometers, the forest gave way to fertile veldt regions, vast grasslands, and eventually badlands and desert. Elysian pears were considered some of the best tasting fruit and were sold as far as the planar city of Sigil.
+
+There were no suns, moons, or stars in Elysium except those that the inhabiting Powers manifested, created by moving about in various vessels, or moving their entire realms across the skies. Depending on who or what was aloft, the shade of the sky could be deep indigo to a bright cerulean at any given moment.
+
+Yggdrasil, the World Ash, extended its branches to all layers of Elysium, except Belierin.
+
+Amoria
+
+The first layer, Amoria, also referred to as the "innermost" layer, was connected to the Astral Plane by color pools and to Twin Paradises, Happy Hunting Grounds, and Concordant Opposition by unmarked portals located in dark caverns. Divination spells were required to determine the destination of these portals with certainty. Navigating the river Oceanus downstream also led to the Happy Hunting Grounds but any underground passages were not likely to be safe for boats. Amoria best fit the description given above and the river Oceanus had many side channels that split and merged back again, creating many "banks" for the establishment of realms.
+
+Eronia
+
+The second layer of Elysium was very mountainous and many branches of the Oceanus became spectacular waterfalls and tumbling cascades before forming channels bordered by steep cliffs of gray rock. Like Amoria, Eronia supported abundant wildlife along the banks.
+
+Belierin
+
+Contrary to Eronia, Belierin was mostly flat with marshes and wetlands stretching inland for miles/kilometers before larger plants and trees were found. Oceanus split and formed many island nations inhabited by extraplanar beings.
+
+Thalasia
+
+The fourth and "outermost" layer of Elysium was a great ocean, sometimes called the Thalasian sea, that was both the source and final destination of the River Oceanus. Small, green islands were scattered about, collectively known as Avalon. No big land masses existed here.
+
+Inhabitants
+
+The native celestial population of Elysium were the guardinals. In addition, there were myriad species of fish and wildlife, and other sentient beings who chose to live in Elysium were many of those species found in other Upper planes: hollyphants, planetars, solars, foo creatures, agathia, and baku. Moon dogs were numerous and widely used as servants and watchbeasts for the Greater and Lesser Powers of Elysium. The rare and magical phoenixes were native to this plane and spent most of their time here in the beautiful landscapes that Elysium offered, avoiding those that would hunt them for profit.
+
+Afterlife
+
+The spirits of those who perished in the service of good and those heroes the gods chose to spare from death were rewarded by being placed on the Isles of the Blessed in Thalasia. There, the living and the dead existed without responsibilities, had all their needs provided for, and could not be summoned or controlled.
+
+Realms
+ Chauntea the Great Mother and Goddess of Agriculture once lived in Elysium.
+ Peaceful Eldath maintained her realm, the True Grove, on Eronia.
+ Enlil, the head of the Untheric pantheon, once made his home in the mountains of Eronia.
+ Hathor, Mulhorand's Nurturing Mother, had a realm named Succor in Amoria.
+ Hiatea, giant nature goddess, resided in Woodhaven in Eronia.
+ Ishtar, the goddess of love and war in the Untheric pantheon, once had a realm in Amoria centered on a great city surrounding a half-mile (800 meter) statue of herself. The statue glowed, supplying her realm with light.
+ Isis had a large realm in Amoria which she kept lit by lanterns in the trees and secured by patrolling moon dogs.
+ Ki, Untheric goddess of nature, shared the realm of Enlil on Eronia.
+ Kirith Sotheril, the elven Magess, resided in the realm of Tethridar in Amoria.
+ Lathander the Morninglord, God of Beginnings, Birth, Conception, Dawn, Eternal Youth, Renewal, Self-Perfection, Spring, and Vitality, maintined rosy realm of Morninglory in Elysium, which he shared with fellow deity of dawn Ushas of the Vedic pantheon.
+ Mystra (Midnight), the mortal that ascended to godhood during the Time of Troubles, eventually made her divine realm a shining city called Dweomerheart and placed it atop a large plateau in Eronia. Dweomerheart became its own plane in the World Tree cosmology model and was later destroyed upon the death of Mystra, in the resulting Spellplague.
+ Nanna-Sin, the Untheric god of the moon traveled throughout Elysium in his great barque shaped like a crescent moon bringing moonlight to all the banks of Oceanus.
+ Seker, Pharaonic god of light, shifted his realm of Ro Stau between Amoria and Thalasia as he wished.
+ Naralis Analor, the elven Healer of Souls, had his realm named the Healing Glade in Amoria.
+ Pelor, the sun god of Oerth, maintained his realm of Light's Blessing in Amoria, and also had a citadel in Thalasia.
+ Surminare, goddess of selkies, made her home named Selkies' Grotto on Thalasia.
+ Tamara, draconic deity of life, resided in Elysium.
+ Tethrin Veraldé, the Master of Blades, shared the realm of Tethridar in Amoria with fellow Seldarine member Kritith Sotheril.
+ Trishina maintained no permanent realm, but often wandered the sea of Thalasia and held an area for her petitioners there.
+ Urogalan, the Black Hound, halfling god of death, had his realm of Soulearth in Eronia.
+
+Appendix
+Appearances
+Novels
+Tymora's Luck
+
+The Council of Blades
+Card Games
+Blood Wars
+
+References
+
+Connections
+
+---
+
+## Elemental swarm
+
+Elemental swarm was a conjuration spell that summoned between two and eight large elementals, one to four huge elementals, and one greater elemental, whose element depended on the plane from which they were summoned.The spell's descriptor corresponded to the element invoked.
+
+Effects
+The spell opened a portal to one of the Elemental Planes—Air, Earth, Fire, or Water—through which they could summon elementals of that plane. A druid could select any of these places, while a cleric could only access the plane corresponding to their elemental domain (without which they couldn't cast the spell at all). The spell took 10 minutes to cast and then the first creatures appeared at a chosen location within a few hundred feet (80+ meters) of the caster.
+
+On completion of casting, two to eight large elementals appeared. Ten minutes later, one to four huge elementals appeared. After another ten minutes, one greater elemental appeared. All summoned creatures obeyed the caster and would not turn on the caster even if someone else took control of them. The elementals stayed on the plane of the caster for a minimum of about three hours or until the caster dismissed them, individually or in groups, whichever came first.
+
+Components
+Only verbal and somatic components were needed to cast this spell.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Eldritch blast
+
+Eldritch blast was the most basic of all spells known to a warlock.Before the Spellplague, this spell was a spell-like ability for most warlocks.
+Effect
+When a warlock cast an eldritch blast he created and fired from his hands or implement a purple bolt or beam of crackling destructive energy. Like similarly simple spells, eldritch blast could be cast as many times as its caster desired.
+
+The range of the spell depended on what era it was used in, before the Spellplague the spell could reach 60 feet, afterward only 50 feet, while after the Second Sundering it could go as far as 120 feet.
+
+The spells damaging power growth also changed with eras, while before the spellplague the warlocks' skill in the arts of the warlock determined the powers of the blast, after it became more powerful if the caster had a strong personality. A post Second Sundering casting would cast more beams that could have been aimed at the same or multiple targets.
+
+Some of the greatest uses for the spell or ability of eldritch blast is that in some eras it can be modified or exchanged with different warlock abilities like the eldritch spear.
+
+Components
+In some eras, the spell seemed to have no requirements other than skill, while in others it also needed both verbal and somatic components.
+
+Appendix
+Note
+
+Gallery
+
+External links
+
+References
+
+---
+
+## Eldritch rain
+
+Eldritch rain is an evocation spell used most often by fey pact warlocks, though other warlocks sometimes learn to use it. Similar in some ways to the more basic eldritch blast, eldritch rain creates a series of deadly purple rays of arcane power, hurling them at a creature within fifty feet or two within the same range, as well as within ten feet of one another. While a warlock's strength of personality is the key attribute powering eldritch rain, fey pact warlocks also use their intellect to increase the lethality of each ray. The spell is not particularly complex, and warlocks require only a short rest of a few minutes between one casting and the next.
+
+References
+
+---
+
+## Eldritch speed
+
+Eldritch speed is a transmutation spell used by several inexperienced swordmages. When it is cast, eldritch speed allows a swordmage to infuse their body with magical power, quickening both their mental and physical reactive capability. Swordmages enhanced by the eldritch speed react to danger more quickly and can run twice as fast. Eldritch speed is a difficult spell, however, and can only be cast once per day.
+
+References
+
+---
+
+## Elemental aegis
+
+Elemental aegis was a spell of the abjuration school used by some swordmages, particularly those with an elemental focus.
+
+Description
+When a mage cast elemental aegis, they were able to extended their mythal to protect another. The target had to be within 25 feet (7.6 meters) in radius. The swordmage then infused the magical shield with elemental energy, protecting the creature within it from either acid, electric, fire, cold, or sonic damage.
+
+This spell was similar to the fear no elements spell, in that the degree of protection provided was proportional to the caster's vitality. Unlike, the former, however, elemental aegis was easily recast after a short rest of a few minutes or more.
+
+Appendix
+References
+
+---
+
+## Elemental shift
+
+Elemental shift was a spell used by sorcerers after the Spellplague.
+
+Effects
+When sorcerers used elemental shift, they realigned the elemental energies that flowed through them, thus losing their resistances to certain types of energy and replacing them resistance to another, dependent on whether they were dragon sorcerers or chaos sorcerers. They could even share this new resistance with an ally close to hand.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elan
+
+Elans were psionic humanoids known to be extremely long-lived, occasionally managing to live for 2,000 years or more.
+
+History
+The elans came about during the time of Jhaamdath but the method used to create them is long lost to mortals.
+
+When the elves of Nikerymath summoned a tidal wave that destroyed much of the psiocracy of Jhaamdath (and the method of creating elans), the twelve rulers of the Jhaamdathan cities teleported to safety while their realm and its people perished. Over the next three centuries, they lived and had families who went on to become the nobles of Chondath. All twelve eventually agreed that their time was ended and returned to the Palace of Naarkolyth. They placed themselves into temporal stasis until mortals once again entered Dhinnilith.
+
+Unknown to these scions of Jhaamdath, there was a gala celebrating the construction of Jhaamdath's new fleet being held at Naarkolyth when it was destroyed those centuries before, and two powerful beings were created from the souls that drowned that day. A caller in darkness known as Bpdethrys, formed from those of a callous bent, while a vestige named Abysm formed from the rest.
+
+Abysm guarded the bodies of the Jhaamdathan lords from harm while every few years, Dhinnilith manifested for a night above the waters of the Vilhon Reach. Despite this, no mortal ever entered the city for over sixteen hundred years and so the lords of Jhaamdath did not wake up. In Flamerule of 1374 DR though, a ship carrying minor dignitaries bound for Arrabar was sunk in a mighty storm while Dhinnilith was manifested. Abysm saved twelve of those dignitaries - one for each of the Jhaamdathan lords, who were awoken from stasis by their presence - and Abysm was granted the ability by the lords to turn the survivors into elans. Unfortunately, Abysm went periodically insane, and was not lucid for long enough to help the lords, transporting the new elans to random places across the face of Faerûn, stripped of all memories save for a vision of Bpdethrys screaming at them.
+
+The Jhaamdathan lords were desperate for the elans to return to Dhinnilith, since they themselves had lost the means to leave (due to the corruption over time of the power used to keep them alive) despite their considerable psionic abilities. They could however, impart the knowledge required to free them to someone on the outside of their stasis chamber and the elans would be perfect for such a task. The lords' time was limited though, as one day, the energies preserving and transporting the city would fail, collapsing their prison on top of them.
+
+Abilities
+Elans found it difficult to blend in with normal humans but the benefits of their state of being far outweighed that cost. They had the ability to save themselves from the worst of any harm they had to endure and, if they wished to, go without the need for food and drink for the day. The twelve elans created by Abysm had also been granted precognitive traits and the ability to detect each other when in close proximity by the lords of Jhaamdath.
+
+Appendix
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Eldrinpar
+
+Eldrinpar, also known as the Doegan Capital, was the capital city of the realm of Doegan, one of the Five Kingdoms of the Utter East in southeast Faerûn.This article assumes that the "Doegan Capital" appearing in Blood & Magic is the Eldrinparr mentioned in Realms of Mystery: "Darkly, Through a Glass of Ale" and the Eldrinpar appearing in Conspiracy.
+
+Geography
+The land around the Doegan Capital was open and clear, with pleasant green fields and palm trees, but harsh times saw it become dry and rocky, or as rippled brown earth like dried mud with patches of broken, rougher land. Marshes lay in the northwest.
+
+Description
+
+In the lands around the capital, there were farms with rows of green plants and a canal that led into the city to supply its wells and fountain, which stood beside a park. The intricately crafted colossal fountain was known as the Fountain of the Kraken which depicted a big, trident-wielding, man battling an octopus rising from the water, both made out of bronze and marble. The fountain's waters cascaded out of the booze depictions of the ocean waves and the octopus' tentacles extended with streaming water. The state was created in the image of Doegan's Mage-King and, in reality, was a sentient basal golem. The fountain's wide basin often attracted travelers entering the city, luring them  with its refreshing clean saltwater. The area surrounding the majestic Fountain of the Kraken was called the Plaza of the  Mage-King. Here, the houses were square and plastered; plainer houses had flat roofs reached by stairs for storage of goods, but grander houses typically had red-tiled roofs or golden domes, and blue awnings offered shelter from the sun. The city's architecture was decorated with aquatic themes and imagery. Many buildings were decorated with waves and pictures of marine creatures and vegetation.
+
+The city's class system forced many of the Mar to settle outside of the city walls. Over time, this created a sprawling field of small humble houses that belonged to poor servants, farmers, and beggars. The city had a system of sewer tunnels that ran through rich and poor areas of the city. The tunnels were easily accessible through grated vertical shafts that could be found in many of Eldrinpar's courtyards. Many Mar who wished to stay out of Ffolk's sight commonly used the foul-smelling runnels to traverse the city unnoticed.
+
+A rounded, blue- or brown-domed keep stood on the outskirts, with its doors flanked by crouching beasts. Northwest of the city was a graveyard, with headstones of greenish stone and crypts. Beside it, in the north, was an array of six statues.
+
+The Mage-King's palace was a grand structure. Its lower chambers were carved by the ocean tides. Many of the palace's chambers were decorated with ocean's bounty, carved coral beds, furniture out of polished driftwood, ocean  sponge pillows, and even linens and blankets were weaved out of sea vegetation and kelp.
+
+Eldrinpar had several temples erected in the city. Living areas closest to them often were occupied by the Ffolk, while furter one traveled from the places of worship, the more Mar residences one encountered. Most, if not all temples in the Utter East were built in the pyramidal shape. These temples belonged to the Church of Umberlee, Church of Chauntea, Church of Tempus, and Church of Waukeen. Four out of five churches that participated in the settlement of the Five Kingdoms.
+
+Eldrinpar's docks stood just off a sizable plaza. Fishing boats were the most common vessels roped to the harbours. The Temple of Umberlee rose high out of the shimmering waters of the Great Sea, around fifty yards off the dock district. The structure was a pyramid of black basalt that resembled a brooding spider, connected to the harbors via a thin causeway.
+
+Defenses
+In the 14 century DR, Eldrinpar's city walls grew and were enhanced with battlements to defend against the growing monster attacks.
+
+Inhabitants
+Most people who lived inside the city walls were fair-skinned and tall in contrast with the Mar who lived outside Eldrinpar's walls. The Ffolk customarily dressed in bright flowing clothes. Unlike the Mar, they faces of Ffolk were oftten adorned with smiles and their posture radiated confidence.
+
+History
+
+The history of the Doegan Capital was often that of Doegan itself. During the time of the Bloodforge Wars (648–657 DR),The events of Blood & Magic are only dated to "before the Time of Troubles" (1358 DR) in game. It is assumed these are a part of the Bloodforge Wars described in Faces of Deception and dated in The Grand History of the Realms. invaders led by Rathgar the Raider overran Doegan and laid siege to the capital. Rathgar plundered the realm of its bounty and finally seized for the crown itself. After some months, the Howl of Vengeance conflict—waged by Aelric the Avenger in an attempt to restore the former monarchy—saw fighting in the fields, streets, and graveyard of the Doegan Capital itself, as Aelric's undead bloodforged forces sought to oust Rathgar from his keep.
+
+The Doegan Capital suffered at least three more battles during the Bloodforge Wars, as the leader of the Legendary Campaign, which sought to unify the wartorn Utter East through conquest, came to Doegan to depose the derelict Patric Fulgirth and later the untrustworthy usurper Gim Blacktongue. Even the competent and steady Hariah Highkin, who had made the Doegan Capital a model of a prosperous city, was overthrown.
+
+In the, Eldrinpar was sacked by a horde of monsters after Emperor Aetheric III abducted Eidola Boareskyr, the bride-to-be of Waterdeep's Open Lord in an attempt to summon a foreign army to defeat the demons that plagued Doegan due to use of the bloodforge. The mad mutated emperor, Aetheric III, was almost assassinated by Artemis Entreri, then finished off by the band of paladins sent by Waterdeep. Chancellor Ikavi Garkim became the new ruler of Doegan and declared Mar and Ffolk to be full equals. By the end of the events, to ensure the bloodforge was used responsibly, Garkim shared the position of Emperor with the Chosen of Tyr, Ingrar Welven, and they cast the monsters out of the city.
+
+Appendix
+Notes
+
+Appearances
+Novels
+ Double Diamond Triangle Saga
+
+Games
+ Blood & Magic
+
+References
+
+Gallery
+
+---
+
+## Elbereth
+
+Elbereth was an elf fighter and the prince and later king of Shilmista in the mid–14 century DR.
+
+Relations
+He was the son of King Galladel and a descendant of Dellanil Quil'quien.
+
+Description
+Elbereth was almost  tall and weighed approximately,Cadderly is described as being "at least 70 pounds" heavier than the elf. Cadderly's weight is recorded as just under 200 pounds, which puts Elbereth at 130 pounds, at most. with striking black hair and piercing silver eyes that were "almost eerie".
+
+Abilities
+Elbereth was an accomplished sword-fighter and archer, being talented with both longsword and longbow. He was equally good at archery from horseback as he was on foot.
+
+Personality
+He was courageous in combat and fought vengefully against the elves' enemies.
+
+Possessions
+He owned a +3 longsword of sharpness, the blade of which glowed with blue flame.
+
+He had a powerful steed named Temmerisa.
+
+History
+Upon the invasion by forces of Castle Trinity in the, Shayleigh urged King Galladel to perform the ancient ritual of Daoine Teague Feer. But he rejected the notion, thinking it a waste of time and that it had no chance of working. Shayleigh told Elbereth and he also called for it. His father begrudgingly allowed Elbereth to do it. Elbereth successfully performed the ceremony, causing the trees to aid the elves of Shilmista in its time of crisis.
+
+Appendix
+
+Notes
+
+Appearances
+Novels
+The Cleric Quintet: Canticle • In Sylvan Shadows • Night Masks
+
+The Fallen Fortress • The Chaos Curse
+
+References
+
+---
+
 ## Eldreth Veluuthra
 
 The Eldreth Veluuthra (Victorious Blade of the People, also sometimes Eldreth Veluuthara), formed in 262 DR and still active as of 1374 DR, was a group of elves dedicated to the removal of all humans from Faerûn. Its main areas of activity were ancient elven forests, including the Ardeep Forest, the Border Forest, the Chondalwood, Cormanthor, the High Forest, the Moonwood, Neverwinter Woods and the Winterwood.
@@ -2162,6 +5035,101 @@ References
 
 ---
 
+## Elmanesse
+
+The Elmanesse was a tribe of copper elves in the Forest of Tethir.
+
+History
+The tribe was formed when elves fled the fall of Myth Drannor and settled in Tethir.
+
+While the tribe was primarily concerned with protecting its tribal lands from humans, a cell of the Eldreth Veluuthra infiltrated the group with hopes of finding the ancient city of Myth Rhynn around 1374 DR.
+
+Notable Elmanesse
+ Ferret
+ Allain Kevanarial
+
+References
+
+---
+
+## Eldaerneth Spellstalker
+
+Eldaerneth Spellstalker was a sun elf rogue and enchanter.
+
+History
+Around 1374 DR, Eldaerneth was a member of the Vel'Nikeryma. He was an infiltrator of the Night Masks in Westgate, tasked with gathering information and passing it back to the Vel'Nikeryma.
+
+Appendix
+
+References
+
+---
+
+## Elvar the Grainlord
+
+Elvar the Grainlord was the ruler of the small village of Triel.
+
+Personality
+Elvar was generally a reasonable lord when it came to trade, though he had two mild obsessions. The first was his fear that the community might run out of food, and the second was his never-ending search for the right deity to worship.
+
+Elvar had a hunger for news and items such as food, firewood, and food-preservation items. Those who brought such items were given a feast.
+
+References
+
+---
+
+## Elfskull Inn
+
+The Elfskull Inn was an inn in the city of Arabel owned by Asheyron.
+
+History
+The inn was named because of the mysterious glowing floating skull of an elf which appeared occasionally at night in the entry foyer. Around 1367 DR, the notoriety of the Elfskull was even with other inns in Arabel, such as the Falcon's Rest and the Weary Knight, but it was not as glamorous as the Pride of Arabel.
+
+Geography
+The establishment was located outside the southern wall of Arabel.
+
+Structure
+The Elfskull was an excellent inn with moderate prices.
+
+Interior
+The inn was wonderfully taken care of and minor magic kept the fine paneled rooms warm in the wintertime and cool in the summertime. Many reports stated these enchantments were placed by War Wizards who wanted to relax while protecting the city.
+
+Staff
+Asheyron the Learned owned the inn and kept his offices on the ground floor. His skilled staff consisted of his sisters, Orlyra and Mristeezra, who were expert judges of character. They could usually spot trouble before it happened and had a knack for spoiling dark dealings or romantic rendezvous, which would embarrass other customers.
+
+Rumors
+Legends said the ghostly skull marked the entrance to the Sword Heralds hidden lair, but tales also speak of the building being the safehouse for the noble families of the Dragonarl and Narboot. Many storytellers agreed the doorway needed an acorn to open and was guarded by two helmed horrors.
+
+References
+
+---
+
+## Eldest
+
+The Eldest was an aboleth of massive size, incalculable age and inconceivable malignancy. It ruled the city of Xxiphu and the Abolethic Sovereignty. It was the most powerful and oldest aboleth in the city of Xxiphu and was believed to be the only "living" being that could use the Key of Stars to unlock the Far Manifold beyond Forever's Reach.
+
+History
+The Eldest was said to have been old when Abeir-Toril was split asunder.
+
+Appendix
+References
+
+---
+
+## Eldritch spear
+
+Eldritch spear was a basic warlock invocation that increased the range of an eldritch blast.
+
+Powers
+Eldritch spear allowed the caster to hurl their eldritch blast as far as . In the late 15 century DR, some warlocks were able to increase the spear's distance to .
+
+Appendix
+Appearances
+
+References
+
+---
+
 ## Elminster Must Die
 
 Elminster Must Die by Ed Greenwood is the debut fourth-edition appearance of Elminster. It is the first novel in the Sage of Shadowdale series.
@@ -2192,6 +5160,278 @@ At some point, the novel's title was changed from Elminster Must Die! to Elminst
 Gallery
 
 References
+
+---
+
+## Elkord
+
+Elkord was a tall Tethyrian who was a tutor at Blackstaff Tower. On Uktar 28, 1374 DR, he was involved in the defense of the tower against Kemarn Darkthrush.
+
+Appendix
+
+References
+
+---
+
+## Elfstone Tavern
+
+The Elfstone Tavern was a tavern in the Castle Ward of Waterdeep, on the Street of the Sword. It catered to elves and half-elves in the city, and was run by Yaereene Ilbaereth circa the Year of the Shield, 1367 DR.
+
+Structure
+The main taproom was thirty feet high with living trees in it. A large oak tree grew in each corner, and upper-story rooms provided privacy and sleeping quarters. Skylights were present in the ceiling, along with shutters that could be opened to allow rain and light in during the day for the trees.
+
+There was a small sitting room situated at the back of the building, which was used by the staff for Reverie. It contained furniture such as lounging chairs, chaises, and divans, arranged around a low table, and was magically protected against eavesdropping.
+
+Interior
+The tavern was dimly lit and smelled earthy. Its walls were covered with torches and it also had chandeliers that glowed with a silver-white flame when lit. Light could also be provided by dancing lights spells, for a soft, blue shade.
+
+Entertainment was provided in the form of choral, flute, harp, or pipe music. Service was always fast, near-silent, and graceful. Although the owner and staff are all moon elves and welcomed everyone, some elven patrons were less hospitable. Humans, half-elves and halflings were tolerated, but dwarves and half-orcs were turned away. Volo expressed that if not for the intolerant behavior of some elven patrons he would have rated this place five full tankards.
+
+Food and drink
+The Elfstone served elven delicacies such as elverquisst, guldathen nectar and maerlathen blue wine, and also Evereskan clearwater, moonwine, biscuits with crab meat, mint jelly, roe, shrimp or spiced silverfin, and skewers of rabbit, squirrel or venison with a green sauce.
+
+Appendix
+References
+
+---
+
+## Elmwood
+
+Elmwood was a small farming community located on the southern shores of the Moonsea.
+
+Government
+This tranquil place was loosely ruled by its constable, Thoyana Jorgadaul, a shield dwarf adventurer who retired here due to a respiratory disease.
+
+Trade
+Elmwood's merchant area was located in the center of the village.
+Docks Busiest part of the village located on the northern part of Elmwood; it was made by a series of wooden docks and piers where both village boats and passing merchant vessels moored. Near the Docks, three robust structures made by oak and brick were used as warehouses.
+Grange A wood and stone emporium run by Tayrom Onetry, where a trader could find nearly everything, except for armor and weapons.
+
+History
+Elmwood was founded in the, as a stopover for ships to and from the River Lis. It was accidentally destroyed in 1491 DR when a devastation orb intended to be set off in Mulmaster prematurely detonated there, leaving only a single survivor to report the tragedy.
+
+Notable locations
+Inns and taverns
+ Still Waters Inn located on the eastern part of the village and run by master brewer, Enrad Daleborn.
+
+Temples
+Temple of the Half-Moon Temple of Selûne run by Alamarayne Moonray, a beautiful half-elf woman of moon elf stock, and a close friend to Thoyana Jorgadaul.
+Grove South of Elmwood, hidden amidst the trees, the druid Ezril Treewarder tended a shrine dedicated to Eldath.
+
+Other locations
+Old Well South of the Still Waters, near the southeastern edge of the village, lay an ancient stone well, dried long time ago, that lead to an underground, monster infested area of Elmwood.
+
+Inhabitants
+The village was home to woodcutters and fishermen, and a waystop for ships and adventurers passing by. The place was neutral and the people kept to themselves, protected both by their isolation and the fact that there was little worth taking by force.
+
+Rumors & Legends
+The residents of Elmwood told legends of a vicious dragon turtle, the size of their town, who dwelt in the depths of the lake.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Tyrants of the Moonsea
+
+References
+
+FR:Bois d'Elm
+
+---
+
+## Elf Leap
+
+Elf Leap was a hillock to the north and slightly west of Castle Grimstead in Shadowdale. It had steep cliffs on its south and east sides.
+
+History
+According to legends, the last of the Glittering Band met their end at Elf Leap. Two elven rangers who had just being married hours before by the priest of the Glittering Band, fled the burning wreckage of Castle Grimstead in the wake of a drow raid. The two were surrounded upon Elf Leap, but rather than surrender to the drow commander, the pair kissed, drew their weapons, and leaped to their deaths upon the spears of the drow below.
+
+Rumors
+Reports told of hauntings by banshees around Elf Leap. It was unclear whether the hauntings were the spirits of the drow slain by the two elven rangers, or if they were the two elven lovers themselves.
+
+References
+
+---
+
+## Elfhold
+
+The Elfhold was an ancient crypt hidden under the Wyvernstones of Hullack in the Hullack Forest, Cormyr.
+
+It was once used as a burial vault by the elves of House Amaratharr, where their remains were interred in small crypts carved into the walls of the grotto. The legendary human druid Hullack of Eldath, whose name lived on in that of the forest, was also buried here. It was said that Hullack could manifest as a ghost to those who came peacefully to seek long lost lore.
+
+Appendix
+
+References
+
+---
+
+## Elder Evils
+
+Elder Evils is an accessory by Robert J. Schwalb for the 3.5-edition of the  ruleset and published in 2007. It adds new content for epic-level characters, in the form of extremely powerful, alien monstrosities intent on destroying the world and designed as a way of providing dungeon masters a means of ending a current campaign. It gives ideas for such campaigns and feats for villainous NPCs, and details nine elder evils, together with statistics, NPCs, storylines, and suggested adaptations to the Forgotten Realms setting. While the content is not considered canon, apart from Pandorym, it is included here for interest.
+
+Contents
+ Introduction
+ Chapter 1: Evil Does Not Sleep
+ Chapter 2: Atropus
+ Chapter 3: Father Llymic
+ Chapter 4: The Hulks of Zoretha
+ Chapter 5: The Leviathan
+ Chapter 6: Pandorym
+ Chapter 7: Ragnorra
+ Chapter 8: Sertrous
+ Chapter 9: The Worm that Walks
+ Chapter 10: Zargon
+
+Index
+Characters
+Atropus • Father Llymic • Pandorym • Zargon
+
+Gallery
+
+Credits
+ Designers: Robert J. Schwalb, Jason Bulmahn, Greg Gorden, James Jacobs, Rhiannon Louve, Michael McArtor, Anthony Pryor
+ Editors: Logan Banner, Michele Carter, Jennifer Clarke Wilkes
+ Freelance Coordinator: Gwendolyn F.M. Kestrel
+ Editing Manager: Kim Mohan
+ Design Manager: Christopher Perkins
+ Development Manager: Andy Collins
+ Director of RPG R&D: Bill Slavicsek
+ Project Managers: Kris Walker, Shari Overbay
+ Senior Art Director D&D: Stacy Longstreet
+ Art Director: Karin Powell
+ Cover Artist: Michael Komarck
+ Interior Artists: Miguel Coimbra, Daarken, Wayne England, Ralph Horsley, Izzy, Howard Lyon, Michael Phillippi, Skan Srisuwan, Francis Tsai, Franz Vohwinkel, Eva Widermann, James Zhang
+ Cartographer: Mike Schley
+ Graphic Designers: Michael Martin, Soe Murayama
+ Graphic Production Specialist: Erin Dorries
+ Image Technician: Sven Bolen
+
+Appendix
+External Links
+
+---
+
+## Elgrin Fau
+
+Elgrin Fau was a human city on another forgotten world and later sent to the Shadow Deep, in the Plane of Shadow by Kesson Rel.
+
+History
+More than 6000 years before the 14 century DR, Kesson Rel was exiled from Elgrin Fau and took revenge by banishing the entire city (including the wall) to the Plane of Shadow, using the power he had gained as the first Chosen of Mask.
+
+The people managed to survive for some time. They began to bury their dead inside the city walls and constructed a necropolis in the middle of the city to house and keep them in their graves. But eventually the survivors abandoned the city and left for other planes.
+
+When the city was empty, Kesson Rel returned and opened a gate in the middle of the necropolis to taunt the dead interred there. He set a guard over the gate, a darkweaver.
+
+Notable Locations
+ Ruined temple of the Summoners of the Sun
+ Necropolis
+ Gate of Kesson Rel
+
+Appendix
+References
+
+---
+
+## Elminster Enraged
+
+Elminster Enraged is the eighth novel in the Sage of Shadowdale series by Ed Greenwood.
+
+Summary
+
+Index
+Characters
+Askalan Larcloaks • Dagnan • Elminster Aumar • Ergol Mrauksoun • Halston • Helmur Faerrad • Manshoon • Raegl Halgohar • Sannath • Vaeren Dragonskorn
+
+Appendix
+Notes
+
+Gallery
+
+References
+
+---
+
+## Elven bow
+
+An Elven bow was a ranged weapon which could be used in melee as a club or staff.
+
+Description
+A wondrous piece of art, elven bows were crafted mostly from wood, and beautifully designed. Elven crafters placed metal inlays within the bow to strengthen it, making it a suitable parrying weapon.
+
+Weaponology
+Over the years, elves found their archers were attacked without much chance to protect themselves. The elven bow could be used as a melee weapon, with an elven shortbow used as a one-handed melee weapon and an elven longbow acting like a two-handed melee weapon. These bows weighed twice as much as regular bows, and elven shortbows cost 360 gp and elven longbows cost 450 gp.
+
+Notable elven bows
+ Taulmaril, Catti-brie's preferred ranged weapon.
+
+Appendix
+References
+
+---
+
+## Elemental planes
+
+Elemental planes is a collective term that has a few interpretations or contextual meanings. Elemental planes may refer to:
+the group of six planes placed at the root of the World Tree in the World Tree cosmology model (Air, Fire, Earth, Water, Positive Energy, and Negative Energy.)
+the same group of six planes placed on the inner-most sphere as described by the Great Wheel cosmology model.
+just the planes of the four common elements: Air, Fire, Earth, and Water.
+the six major planes plus the twelve minor planes (the four para-elemental and eight quasi-elemental planes) in the Great Wheel cosmology model, usually called the Inner planes.
+
+---
+
+## Ellym Thourin
+
+Ellym "Catsjaw" Thourin was a priest of Helm in the city of Tsurlagol in the Vast.
+
+Ellym once earned a reputation as an adventurer, but later retired. Subsequently, Ellym rose through the clergy of Helm to become High Watchful Weaponmaster of the Noble Hand temple by 1368 DR. Under Ellym's leadership, the temple—which also operated as a school for guards—thrived.
+
+References
+
+---
+
+## Elemental Plane of Air
+
+The Elemental Plane of Air was an Inner Plane or Elemental Plane of the Great Wheel cosmology and the World Tree cosmology models. After the Spellplague, the Elemental Plane of Air collapsed into the Elemental Chaos, mixing with all the other Inner Planes. Air is one of the four elements and two energies that make up the known universe and therefore of keen interest to cosmologists as well as spell casters that wish to harness and wield the raw power of the elements.
+
+Cosmology
+According to the Great Wheel cosmology model, the Elemental Plane of Air could be reached via the Ethereal Plane, an adjacent elemental plane, or by an elemental vortex. If traveling through the Deep Ethereal, a blue curtain of vaporous color indicated the boundary of the Plane of Air's Border Ethereal region. Once in the Border Ethereal, a traveler could observe the Plane of Air and be detected by its denizens. Using the spherical model, this plane was adjacent to the para-elemental planes of Ice and Smoke and the quasi-elemental planes of Lightning and Vacuum. Elemental vortices could occur wherever a high concentration or nearly pure form of an element was found, and could be temporary or permanent. A vortex to the Plane of Air could manifest in the eye of a hurricane or in the clean, crisp air atop a high mountain, for example. There was a vortex to the Elemental Plane of Water called the Waterspout not far from the djinn city/palace called the Citadel of Ice and Steel. Temporary gates could be created by the plane shift  spell or the abilities of high level druids.
+
+In the World Tree cosmology model, the Astral Plane connected all planes with the Prime Material Plane and the Ethereal Plane was only used for journeying between locations on the Prime. The Elemental Plane of Air was not connected or coterminous with any other elemental plane. The spell astral projection  could be used to reach the Plane of Air via a pale blue color pool. Additionally, the gate  and plane shift  spells could be used to open a temporary portal to this plane. To reach the plane in this manner required a tin fork tuned to the note of A as a spell focus.
+
+Description
+
+The Elemental Plane of Air was filled essentially completely with air but had various impurities that tended to form pockets or bubbles in the otherwise pure atmosphere. Gaseous bubbles included clouds of every type, fog, steam, mist, smoke, poisonous clouds and acidic vapors; also the rare intrusion of elemental fire which is flame without fuel. Liquid impurities were usually water or water-based and tended to form floating spheres when not buffeted or frozen by the winds. Solid matter could be found here, from dust, ash, salt, or sand, to chunks of earth approaching the size of a large asteroid. The larger chunks were often brought into the plane by intelligent beings and were very likely to be inhabited or formerly inhabited. As described by the Great Wheel model, a traveler with a guide could approach the boundaries with the para- and quasi-elemental planes: where the whiff of smoke eventually became hot, thick, and choking, or the tang of ozone soon lead to heavy storms with arcs of lightning in all directions, or the temperature dropped until flakes of snow, crystals of ice, and lumps of hail finally became a wall of ice, or the light faded to gray and the air thinned out until there was nothing.
+
+If you had to describe the Elemental Plane of Air in a single word, it would have been "blue". The very substance of the plane seemed to radiate the magnificent sapphire hue of a clear summer day on the Prime Material Plane. Visibility was twice what the best conditions on the Prime could allow unless, of course, something obscured vision. Weather was the primary natural hazard in this plane. The winds were normally light to moderately strong throughout the plane but could intensify into tornadoes, maelstroms, and hurricanes with powerful lightning. These extreme weather events were common, and when other elements got caught up in the storm, it could produce pounding rain, blinding snow, pelting hail, freezing sleet, and storms of choking smoke, biting sand, burning ash, scalding steam, or searing fire. The worst of these was the maelstrom, a toroid-shaped tornado that could last for decades. Being caught in one was like being in a violent dust storm and death was only a matter of minutes away unless the victim was able to achieve great speed (escape velocity), perform an act of great strength or receive outside assistance. Spellcasting was impossible within a maelstrom.
+
+Notable Locations
+Borealis
+ Citadel of Ice and Steel
+Taifun, Palace of Tempests
+
+Inhabitants
+
+Invisible, and yet the most common denizens of this plane were the elementals themselves including aerial servants, invisible stalkers and wind walkers. Unless magic was employed their outlines were only vaguely visible if dust or debris were caught in their bodies. When made visible, air elementals were usually large wispy beings with aerodynamic bodies and wings, or propelled themselves by forcing air through their bodies and using fins for maneuvering. Others, sometimes called animentals, mimicked the shape of Prime Material animals and monsters.
+
+ImmigrantsSome say the djinn are natives to the Plane of Air. See  to the Elemental Plane of Air included the djinn, some jann, mephits of the air, dust and ice subtypes, and arrowhawks. Reported sightings of other creatures included beholders, belkers, cloud giants, devas, hippogriffs, ildriss, pegasi, skriaxit, spectres, sphinxes, sprites, sylphs, and vapor rats.
+
+Realms
+
+Akadi, the Queen of Air, once dwelt in a great maelstrom on this plane. After the Spellplague, she was revealed to be a primordial and she formed a new realm called Sky Home in the Elemental Chaos.
+Bahamut was reported to have a citadel here as well as several locations in the Seven Heavens. Whether these were separate realms, the same realm that moved about, or realms that existed simultaneously in these places is still debated. After the Spellplague, The Lord of Dragons moved to Celestia.
+ Great Caliph Husam al-Balil ben Nafhat al-Yugayyim, the Master of the Clouds and Son of the Breezes, Commander of the Four Winds, Ruler of All Djinn, Defender of the Heavens, Prince of Birds, Storm of the Righteous, and many other titles had a realm called the Citadel of Ice and Steel here.
+Shu, father of Geb, resided here in a realm of balmy air and gentle breezes called Desert Wind.
+Yan-C-Bin, the Prince of Evil Aerial Creatures, once had a realm in the Plane of Air.
+
+Appendix
+Notes
+
+Appearances
+
+Further Reading
+
+References
+
+Connections
 
 ---
 
@@ -2295,6 +5535,1194 @@ Connections
 
 ---
 
+## Elgath's Provisions
+
+Elgath's Provisions was a shop located in the city of Archenbridge during the mid-to-late 14 century DR. It sold overland traveling supplies, and was known to be haunted.
+
+Location
+The shop was located on Urserpent Street, next to the River Arkhen.
+
+Interior
+Atmosphere
+The store had an unimpressive entry, forcing shoppers to make their way through a long and narrow aisle of shelved foodstuffs before they could reach the more spacious and well-stocked backroom. Despite that, it was kept very clean and highly organized.
+
+The place was well-lit by hanging lamps and skylights. A pair of discreet signs warned any potential thieves that the skylights were guarded.
+
+The store was kept scrupulously clean, with constant dusting. Young children were hired to run up and down a cart-and-ladder with mops and cloths to keep the shelves clean.
+
+Services
+Elgath's Provisions sold all kinds of supplies and gear for overland travel, from such basics as maps, packs, rations, rope, sledges, tents, to large items like carts, river skiffs that were kept hanging from the rafters, whole suits of armor and barding for mounts, and a full-size nine-runner sleigh for merchants.
+
+The rations tended to be bland, but the owner freely admitted to cooking them to last long, not to taste great. Fortunately, the store also sold a number of hot sauces and salty fish-spice pastes to add flavor. Much of the food was stored in the store's specialty: bottles plugged with corks and packed into wooden frames filled with clay to make them almost unbreakable.
+
+The staff could quickly find any item that a customer wanted and they had in stock. If they did not, then Elgath boasted that he could locate one for sale within a day for no charge. For example, Volo tested the service by requesting a Thayan web-of-bells dancer's costume—by the next meal that day, Elgath had found a Sembian collector willing to part with a spare. He even offered to have a fast rider collect it, but Volo declined.
+
+For its extensive range of stock and great organization, Volo named Elgath's Provisions as probably the best small outfitter's shop in Faerûn. The staff were also known for efficiency and speedy service. However, it was expensive for it, with goods costing some 10% more than normal.
+
+History
+Elgath's Provisions was founded in the late 1340s DR. It was originally aimed at equipping miners, but later expanded to provide for merchants and adventurers, who form the majority of its customers by 1370 DR.
+
+Famed traveler Volothamp Geddarm once visited the store, and wrote of it in Volo's Guide to the Dalelands.
+
+Rumors & Legends
+Fast Service
+Traveler's tales and Arkhenfolk told of people who, while pursued by their enemies or Archendale's Ridesmen, ran through the front door of Elgath's Provisions, purchased a disguise or weapon or whatever they needed at a trot, and then escaped out the back door with the goods ready, all without even slowing. If as true as was claimed, it attested to the staff's speed and efficiency.
+
+The Wizard of the Boot
+The store was most notable for being haunted by an unusual resident, a wizard named Thendarion who was trapped in the form of a boot, lantern, knife, coil of rope or other things. It was unknown how he first came to Elgath's Provisions, but thereafter he lurked amongst the merchandise waiting to be bought and go on adventures. Thendarion always returned to the store, or was returned by annoyed customers—Elgath always gave a full refund. Though he did not like to speak of the matter, Elgath sought out mages to undo the curse and rid himself of Thendarion, but each effort did nothing but cost him.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Elgath
+
+Elgath was a man from the city of Archenbridge in Archendale, in the Dalelands. He was the proprietor of Elgath's Provisions.
+
+History
+Elgath was once a member of Archendale's Ridesmen until he was seriously injured in the line-of-duty. He retired and used his retirement money to found Elgath's Provisions in the late 1340s DR, and still owned it by 1370 DR.
+
+Description
+He was a bluff man, with smooth facial hair.
+
+Activities
+By 1370 DR, leaving the day-to-day running of his shop to his staff, Elgath usually sat in a chair there and chatted with his fellow retired Ridesmen. He was still quick to come to assistance, however.
+
+Elgath boasted that, if he did not have it in stock, then he could locate any item a customer desired for sale within a day for no charge. For example, Volothamp Geddarm tested the service by requesting a Thayan web-of-bells dancer's costume—by the next meal that day, Elgath had found a Sembian collector willing to part with a spare. He even offered to have a fast rider collect it, but Volo declined.
+
+Though he was reluctant to speak of it, Elgath's store was plagued by a wizard named Thendarion who was trapped in the form of a boot and other common items. It was unknown how he first came to Elgath's Provisions, but thereafter he lurked amongst the merchandise waiting to be bought and go on adventures. Thendarion always returned to the store, or was returned by annoyed customers, in which case Elgath always gave a full refund, politely but reluctantly. Elgath sought out mages to undo the curse and rid himself of Thendarion, but each effort did nothing but cost him.
+
+References
+
+---
+
+## Elven dualist
+
+Dualists, commonly known as elven dualists despite the fact that in the time of Myth Drannor a few gnomes became nelluonkkar, were specialist wizards who hailed from the ancient elven nations.
+
+History
+In the time of Myth Drannor, the theory of magic revolved around fixed circular relationships between the eight schools of magic; arcane wizardly specialists would sacrifice the school or schools that opposed their own and focus primarily on their specialty school with minor interest in the other, non-opposed, schools. The elven dualists were the first to challenge this notion. The dualists would specialize exclusively in the two "opposing" schools of the prevailing theory, to the exclusion of all other schools of magic (with the exception of minor divination and universal spells).
+
+Geography
+Elven dualists were found in the following nations and times, but not before the founding of that particular nation:
+
+ Aryvandaar: before and during the Crown Wars - gold elves only
+ Cormanthyr: all times, all elves (When Cormanthor became Myth Drannor (261 DR), half-elves could become Dualists and gnomes were able to become nelluonkkar)
+ Eaerlann: through the Founding Years - moon elves only
+ Evereska: all times, all elves
+ Evermeet: all times, all elves
+ Miyeritar: before and during the Crown Wars - green elves and dark elves only
+
+Organization
+The titles of the four different dualist schools derived from Auld Dwarvish:
+ Alurakar: These dualists learned spells that fell in the schools of abjuration and alteration. They saw the Weave as a force that was best used to manipulate movement or adjust forms as they needed. To them, the world was an ever-shifting place from which they required protection.
+ Dijakkar: (Conjuration and Divination)
+ Encikkar: (Enchantment and Evocation)
+ Nelluonkkar: (Illusion and Necromancy)
+
+Appendix
+References
+
+Connections
+
+---
+
+## Elventree
+
+Elventree was a sylvan community in the West Branch of the Moonsea in the forest of Cormanthor.
+
+Geography
+It was surrounded on three sides by low hills dotted with caves.
+
+Structure
+Elventree had been built up with wood on ruins of stone buildings. There was an elegant but natural-looking palace. There were also a number of structures in the branches of trees, which were linked by rope ladders, walkways, and bridges of silver rope and white planks. The ground was reserved for cooking fires and gathering spaces where residents met to pass news or share a song.
+
+Government
+
+Elventree had no formal leadership and no formal laws, but nevertheless the inhabitants were able to live in harmony with each other and with the land.
+
+The local Herald office was known as Moonsilver. Elanil Elassidil held this position in 1367 DR. The heraldic symbol of the moon elves that populated Elventree was a black oval with the long axis oriented from lower left to upper right, a silver crescent moon drifting downward, trailing silver stars from each of its points.
+
+In 1372 DR, the half-elf Dessaer was called the Lord of Elventree.
+
+Trade
+Elventree was home to a number of fine bowyers and fletchers, as well as wood carvers. Elventree also produced herbs, medicinal plants, exotic fruit, and tapestries. It imported swords, armor, parchment, wine, and seafood.
+
+Elventree was not on a caravan route and there were no trading houses. Supplies were brought to the town and carried away by trading parties. When the rare caravan did stop in town, it was considered a festival and the community came together to buy directly from the merchant.
+
+History
+Elventree was established in 702 DR. It became a haven for half-elves, rangers, artists, druids, and later an outpost for the Harpers.
+
+Notable Locations
+Temples and Shrines
+ Halls of the Unicorn: Elventree's largest temple, located in hollowed-out trunks of fallen trees and dedicated to Mielikki.
+ Cairn of Mysteries: A great cairn and temple dedicated to Mystra. It was tended to by a masked wizard known only as "the Sentinel."
+ Other shrines to Chauntea, Silvanus, Eldath, Corellon Larethian, and Rillifane Rallathil.
+
+Other Establishments
+ The Gold Cave: One of the few shops in Elventree, this cave provided all the basics for travel but little else. It was run by the half-elf Amaril Sweetwater in 1367 DR.
+ The Swaying Bough: An inn located in the branches of a giant oak tree. The proprietor in 1367 DR was Emric.
+ The Tree Spirits: A fine tavern.
+
+Other
+ Listening Tree: A giant oak standing in the center of Elventree. The branches of the tree itself served as an amphitheater; performances happened here regularly.
+
+Environs
+ House of the Harp: A stone harp outside a fieldstone hut in a ravine just outside of town marked a base for the Harpers. The hut led into an underground headquarters with cave rooms and tunnels that linked to other caves in Elventree. The House of the Harp was operated by Shalaer, the ghost of a half-elven bard who communicated with the half-dozen Harpers living in the area. Wands of lightning and magic missile were set up to protect the base.
+ The Dancing Stone: A site sacred to the worshipers of Eilistraee was located in the vicinity. Because of that, a number of Eilistraeeans (both drow and otherwise) were welcome in the town.
+
+Inhabitants
+Elventree was a modest community largely comprising nonhuman refugees from Hillsfar's Great Law of Humanity. Its population of 900 included 200 elves, mostly wood elves, who were viewed as representatives of the Elven Court.
+
+Individuals
+ Elanil Elassidil, Herald in 1367 DR.
+ Dessaer, Lord of Elventree (1372 DR).
+ Fandar, elven swordsman (1372 DR).
+ Curnil, black-bearded human captain (1372 DR).
+ Seyll Auzkovyn, drow high priestess of Eilistraee and advisor to Lord Dessaer. (Seyll likely did not reside in Elventree itself, but rather in the vicinity with other Eilistraeeans.)
+
+Appendix
+Appearances
+
+References
+
+fr:Arbrelfique
+
+---
+
+## Elaerue Estspirit
+
+Elaerue Estspirit was a half-elf woman and an inhabitant of the city of Wheloon in Cormyr.
+
+Elaerue was a local member of the Heralds of Faerûn, holding the office and title of "Wheloon". In addition to her heraldry and other duties, she served Lord Sarp Redbeard as his assistant, clerk, and record-keeper.
+
+She held this position by 1357 DR and still held it by the end of 1367 DR.
+
+References
+
+---
+
+## Elthia
+
+Elthia was a princess of the city of Chessagol (later called Tsurlagol) in the Vast, and later princess and queen of the kingdom of Impiltur in the 7th century DR.
+
+History
+Around the early 7th century DR, Chessagol had recently come under the rule of King Lamoth and his newly royal family, though they were not considered legitimate. Lamoth sought to bolster the legitimacy of his line by marrying his children, Elthia among them, to royal families around the Inner Sea, often by sending them to visit their royal courts.
+
+Finally, Lamoth successfully arranged a marriage between Elthia and Prince Bellodar III of Impiltur. Elthia went to Lyrabar in Impiltur, accompanied by her dowry, which included the sword Galathos.
+
+Bellodar became king of Impiltur, and Elthia queen, in the Year of Sifting Sands, 642 DR. Galathos eventually became the traditional sword of the princes of Impiltur.
+
+Relations
+Princess Elthia was the daughter of King Lamoth, who had five other daughters and eight sons. She married Bellodar III of Impiltur. Their children included Morus and Amarkos I.
+
+Appendix
+References
+
+---
+
+## Elvenblood Pass
+
+Elvenblood Pass was a major pass through Earthfast Mountains in the Vast, linking the northern and southern halves. The High Trail ran through it to connect Procampur and Ravens Bluff.
+
+Description
+Elvenblood Pass was a rugged mountain pass, crossed by over a dozen narrow ravines, each thick with trees. Rockfalls were a frequent hazard, and it had many spots for ambushes and deliberate rockfalls.
+
+The pass was also haunted by a variety of predators: from stirges, wyverns, and other mountain-dwelling predators on the hunt; to two-legged threats like orcs and bandits. The bandits and most of the flightless creatures dwelled in the forested ravines.
+
+Usage
+Despite its dangerous reputation, Elvenblood Pass was heavily used, more so than the longer, safer Glorming Pass in the east.
+
+History
+
+During the reign of King Glaurath the Great of Westgate ( – ), thieves stole the royal treasury of Westgate and fled by ship to the Vast. They anchored at the spot where the city of Procampur would later lie, and went up into the Earthfast Mountains. However, the Court Wizards traced the thieves and slew them with magic, one by one, as Westgate's elite soldiers pursued them. The thieves made a stand in the pass, launching ambushes against the soldiers and triggering avalanches, but they were outnumbered thirty-to-one and outmatched in magic. The thieves were defeated, either slain or captured. However, the battle had drawn the attention of the local orcs, and a thousand of them assaulted the Westgate forces from the mountain caves and ravines. Bloody fighting broke out, and the soldiers and wizards of Westgate were doomed. But before they were slaughtered, the Westgate forces and remaining thieves worked together to hide the treasury somewhere in the pass.
+
+The wizard Naer Tlarra was entombed somewhere around the pass around the 4th or 5th century DR.
+
+Later, in the early 7th century DR, at the southern end of the pass, the forces of Roldilar, a dwarven kingdom that once dominated the surface lands, constructed Sarbreenar as a defensive outpost of the nearby city of Sarbreen. Its purpose was to control access to the pass to the city, to ward off surprise assaults through the mountains, and to maintain an overland link with the city of Procampur in the southern Vast.
+
+Beluar, the elven hero of the war against the orcs during the fall of Roldilar in 649 DR, later led a small band of elven riders down the pass. They were set upon in an orcish ambush, and Beluar and his band all died in battle. The pass was thereafter known as "Elvenblood Pass" after the battle.
+
+Rumors and legends
+There was one morbid remnant of the ancient battle between the orcs and the Westgate soldiers in Elvenblood Pass. A wizard made a desperate last stand in which he sacrificed his life to fuel an everdance spell that sucked a dozen orcs into the air and spun them around and around until they died. The spell remained in effect for centuries, even while the trapped orc corpses decayed and their bones crumbled to dust. The gruesome debris continued to spin over a forty-foot-high (12 meters) ledge at the middle of the pass by 1370 DR.
+
+Treasure tales of the pass told of coins and trinkets dropped or taken from victims of the monsters and bandits, and buried or stashed inside crevices. However, there were two major treasure tales of note.
+
+The first was the royal treasury and regalia of Westgate, thought to still be hidden in the pass by its defenders and thieves. The royal auditor's report listed: six strongboxes and twenty coffers and small chests of necklaces of gems, four gem-encrusted crowns, a ceremonial chalice, a magical scepter carrying three fist-sized rubies, and a collection of fancy masks adorned with filigree and jewels. The tale was given impetus when a wizard was caught dead wearing such a gem-adorned mask at a party held by a Cormyrean noble in Ravens Bluff in 1374 DR. Sages examined the deceased's mask and identified it as coming from the old royal court of Westgate—but pointed out that nobles of Westgate had their own, similar masks, and that the craftsmen frequently disassembled the masks to create new ones. The theory remained that someone had discovered the royal treasury in Elvenblood Pass, and was taking away and selling items one at a time so as not to draw attention.
+
+The other treasure tale was the tomb of Naer Tlarra, built around the 4th or 5th century DR, and either buried or heavily overgrown somewhere in Elvenblood Pass. His coffin was supposedly protected against thieves by bound creatures and several spells. Among his treasures were his spellbooks, staff, wands, and a magical crown that allowed one to use up to twelve magical rings simultaneously, with at least two particularly rare and powerful rings still on it.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elisia
+
+Elisia was a sea spirit who lived in Lac Dinneshere within the Ten Towns of Icewind Dale.
+
+Description
+The elven-like water spirit had blue skin and light green hair.
+
+Relationships
+Elisia loved the great hero Aihonen, and felt very strong feelings toward his descendant, Jhonen, because of his resemblance to Aihonen. However, the sea spirit feared revealing herself to Jhonen for risk of transforming into water.
+
+History
+Around 1181 DR, Aihonen died while fighting Icasaracht, the last white dragon queen of the Spine of the World on the banks of Lac Dinneshere.
+
+In 1281 DR, Elisia communicated to Jhonen through dreams how she felt about the young fisherman. Later, she gave him the shards of the Blade of Aihonen.
+
+Appendix
+Appearances
+Icewind Dale
+
+External links
+
+References
+
+---
+
+## Elemental sphere
+
+The Elemental sphere was a large group of spells encompassing divine magic that manipulated the four elements—air, earth, fire, and water. Originally, druids were granted major access and clerics were granted minor access to these spells. Optionally, clerics got only minor access to the Elemental Earth and Elemental Water spheres.
+
+Spells from the Elemental Sphere
+Junior spellcasters could use:
+ create/destroy water
+ firelight
+ log of everburning
+ strength of stone
+ wind column
+Novice divine spellcasters were able to cast:
+ dust devil
+ fire trap
+ flame blade
+ heat/chill metal
+ produce flame
+ soften earth and stone
+ watery fist
+Somewhat skilled spellcasters were able to cast:
+ flame walk
+ meld into stone
+ protection from fire
+ pyrotechnics
+ stone shape
+ water/air breathing
+ water walk
+ wind servant
+ zone of sweet air
+Intermediate clerics and druids had the ability to cast:
+ adamantite mace
+ lower/raise water
+ produce/quench fire
+ reflecting poolThis spell was removed from the divination sphere and added to the elemental (water) sphere in the Player's Option: Spells & Magic. See pages 186-187.
+ windborne
+Those with a high level of skill had access to:
+ air walk
+ animate flame
+ cloud of purification
+ commune with natureThis spell was added to this sphere by the Player's Handbook 2nd edition sourcebook (See page 302). It was then removed from this sphere in the Player's Option: Spells & Magic.
+ control windsThis spell was added to the elemental air sphere by the Player's Option: Spells & Magic sourcebook. See page 186.
+ produce ice
+ spike stones
+ transmute rock to mud/transmute mud to rock
+ wall of fire
+Powerful spellcasters of such a sphere were able to cast:
+ conjure/dismiss fire elemental
+ fire seeds
+ part water
+ stone tell
+ transmute water to dust/improved create water
+ whirlwind
+Divine spellcasters who had mastered this sphere could cast:
+ animate rock
+ antimineral shell
+ chariot of Sustarre
+ conjure air/dismiss elemental
+ conjure/dismiss earth elemental
+ conjure/dismiss water elemental
+ earthquake
+ fire storm/fire quench
+ transmute metal to wood
+ tsunami
+ wind walk
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Elemental air sphere
+
+The Elemental Air sphere was a group of spells that manipulated the element of air. Originally, druids were granted unlimited access and clerics were granted minor access to these spells.  Optionally, clerics were denied these spells.
+
+Spells in the Sphere of Elemental Air
+Many spells were available to those who had chosen this sphere.
+
+Beginner spellcasters of this sphere could cast:
+ wind column
+Novice divine spellcasters were able to cast:
+ dust devil
+Somewhat skilled spellcasters were able to cast:
+ water/air breathingThis spell was removed from the elemental air sphere in the Player's Option: Spells & Magic sourcebook. See page 186. Since this spell is reversible and is applicable to allowing water-breathing creatures to survive in air, this is probably a misprint.
+ wind servant
+ zone of sweet air
+Intermediate clerics and druids had the ability to cast:
+ windborne
+Those with a high level of skill had access to:
+ air walk
+ cloud of purificationThis spell was designated as belonging to both the elemental air sphere and elemental water sphere on page 89 of the Tome of Magic 2nd edition. However, it does not show up in the elemental water sphere in the list of spells by sphere on page 153, nor in the updated list on page 187 of the Player's Option: Spells & Magic sourcebook.
+ control windsThis spell was added to the elemental air sphere by the Player's Option: Spells & Magic sourcebook. See page 186.
+Powerful spellcasters of such a sphere were able to cast:
+ whirlwind
+Divine spellcasters who had mastered this sphere could cast:
+ conjure air elemental
+ wind walk
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Elemental earth sphere
+
+The Elemental Earth sphere was a group of spells that manipulated the element of earth. Druids were granted unlimited access and clerics were granted minor access to these spells.
+
+Spells in the Sphere of Elemental Earth
+Many spells were available to those who had chosen this sphere.
+
+Beginner spellcasters of this sphere could cast:
+ strength of stone
+Novice divine spellcasters were able to cast:
+ soften earth and stone
+Somewhat skilled spellcasters were able to cast:
+ meld into stone
+ stone shape
+Intermediate clerics and druids had the ability to cast:
+ adamantite mace
+Those with a high level of skill had access to:
+ spike stones
+ transmute rock to mud/transmute mud to rock
+Powerful spellcasters of such a sphere were able to cast:
+ stone tell
+ transmute water to dust/improved create waterThis spell was removed from the elemental earth sphere in the Player's Option: Spells & Magic sourcebook. See page 187.
+Divine spellcasters who had mastered this sphere could cast:
+ animate rock
+ antimineral shell
+ conjure/dismiss earth elemental
+ earthquake
+ transmute metal to wood
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Elemental fire sphere
+
+The Elemental Fire sphere was a group of spells that manipulated the element of fire. Originally, druids were granted unlimited access and clerics were granted minor access to these spells.  Optionally, clerics were denied these spells.
+
+Spells in the Sphere of Elemental Fire
+Many spells were available to those who had chosen this sphere.
+
+Beginner spellcasters of this sphere could cast:
+ firelight
+ log of everburning
+Novice divine spellcasters were able to cast:
+ fire trap
+ flame blade
+ heat/chill metal
+ produce flame
+Somewhat skilled spellcasters were able to cast:
+ flame walk
+ protection from fire
+ pyrotechnics
+Intermediate clerics and druids had the ability to cast:
+ produce/quench fire
+Those with a high level of skill had access to:
+ animate flame
+ wall of fire
+Powerful spellcasters of such a sphere were able to cast:
+ conjure/dismiss fire elemental
+ fire seeds
+Divine spellcasters who had mastered this sphere could cast:
+ chariot of Sustarre
+ fire storm/fire quench
+
+Appendix
+References
+
+Connections
+
+---
+
+## Elemental water sphere
+
+The Elemental Water sphere was a group of spells that manipulated the element of water. Druids were granted unlimited access and clerics were granted minor access to these spells.
+
+Spells of the Elemental Water Sphere
+Junior casters could cast:
+ create/destroy Water
+Novice divine spellcasters were able to cast:
+ watery fist
+Somewhat skilled spellcasters were able to cast:
+ water/air breathing
+ water walk
+Intermediate clerics and druids had the ability to cast:
+ lower/raise water
+ reflecting poolThis spell was removed from the divination sphere and added to the elemental (water) sphere in the Player's Option: Spells & Magic. See pages 186-187.
+Those with a high level of skill had access to:
+ produce ice
+ transmute rock to mud/transmute mud to rockThis spell was removed from the elemental water sphere in the Player's Option: Spells & Magic sourcebook. See page 187.
+Powerful spellcasters of such a sphere were able to cast:
+ part water
+ transmute water to dust/improved create water
+Divine spellcasters who had mastered this sphere could cast:
+ conjure water elemental
+ tsunami
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Elemental forbiddance
+
+Elemental forbiddance was an abjuration spell that created a zone that was proof against entrance by or attack from elementals.
+
+Effects
+This spell protected an area from elementals of all kinds; they absolutely could not enter or physically attack through the barrier for the duration of the spell. However, magical and missile attacks were not prevented by this spell. Also, any elementals already within the area before the spell was cast were not affected.
+
+The area that could be protected was a cube whose sides were equal to 5 ft (1.5 m) times the caster's level. The spell lasted more than an hour and longer for more experienced priests.
+
+Components
+The priest had to walk the perimeter of the area to be protected as part of the somatic component for this spell. Verbal utterances were necessary as well as four glass beads, one each of blue, green, red, and yellow.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Elfmaid (ship)
+
+The Elfmaid was a Ruathen pirate ship captained by Hrolf the Unruly that plied the Sea of Swords.
+
+Description
+The Elfmaid was long and graceful, clinker-built of strong, light wood. The hull was deep and provided room for cargo and cramped sleeping quarters. "Castle" platforms painted with the warrior crew's coats of arms were located in both the fore and aft of the ship. It had a large sail, as well as a line of oars. The ship's figurehead was a busty ten-foot carving of an elven maiden.
+
+History
+In 1361 DR, the rogue drow Liriel Baenre sprang the rowdy captain Hrolf from jail in Skullport in order to have him take her and her companion, Fyodor, to Ruathym. Along the way, the Elfmaid discovered a ship (the Cutter) bearing barrels of pickled sea elves that it had discovered on an abandoned ship. It was later discovered that these sea elves were part of a conspiracy by the Kraken Society and High Captains of Luskan to provoke Waterdeep and the Lords' Alliance to war against Ruathym. The Elfmaid aided in discovering the conspiracy.
+
+Shortly afterwards, Hrolf was killed while in Ruathym and the Elfmaid was sent off -- in a funeral bonfire -- into the sea bearing his body. In memory of Hrolf, Liriel magically turned the figurehead to figure of Hrolf as it was destroyed.
+
+Crew
+In 1361 DR, the following crewmembers were on board:
+
+Hrolf, captain.
+Ibn, first mate.
+Olvir, crewmember; young man who wanted to be a skald but disliked the lower status bards held in his culture, so instead he became a shipman to sate his thirst for adventure.
+Bjorn, the youngest member of the crew; his hobbies were carving and painting.
+
+Allies
+Liriel Baenre, a drow who traveled with the crew in 1361 DR.
+Fyodor, Rashemi berserker who traveled with the crew in 1361 DR.
+Xzorsh, a sea elf who had pledge to protect the Elfmaid and her crew.
+
+Song
+Hrolf sang a ditty about the Elfmaid while he was locked away in Skullport:
+
+"When you meet with the lads of the Elfmaid, my friend,
+You would rather face Umberlee's wrath.
+Hand over a measure of all of your treasure,
+Or swim in a saltwater bath!
+
+Come ashore with the lads of the Elfmaid, my friend.
+We're awash on an ocean of ale !
+Some taverns to plunder, some guards to sunder,
+And then, a short rest in the jail!"
+
+Appendix
+Appearances
+Novels
+ Tangled Webs
+
+References
+
+---
+
+## Eleasis 1
+
+On This Day
+
+Worshipers of the halfling deity Cyrrollalee celebrate Hearthday.
+Followers of Tyr perform the ritual of Seeing Justice, at which a giant warhammer appears above the congregation glowing white hot.
+In Waterdeep, it is Ahghairon's Day, celebrating the city's first Lord.
+In 1373 DR, the Cloister of St. Uzurr was the target of infiltration by pureblood yuan-ti with the intention of slaying the Abbot, Kadar al Ilmater, to stop his work in curing tainted ones.
+
+References
+
+---
+
+## Eleasis 9
+
+On This Day
+
+Followers of Marthammor Duin call this day the Anvil and celebrate dwarven creativity.
+In the Vast, worshipers of Malar have a great feast, animate animal skeletons, and stage a ritual hunt known as the Bone Dance, around a large bonfire.
+In 1374 DR, First Lord Maalthiir saw the fortunes of Hillsfar taking a turn for the worse and left for parts unknown.
+In 1374 DR, in Tasseldale, the representatives of Sembia and Seiveril Miritar's Crusade were jumped by forces from House Jaelre causing casualties on all sides with no clear victor.
+References
+
+---
+
+## Eleasis 13
+
+On This Day
+
+Worshipers of Garl Glittergold celebrate the Communion of Laughter with various activities.
+Worshipers of Torm observe the Divine Death to commemorate his self-sacrifice in the destruction of Bane.
+Worshipers of Tyr perform the ritual of the Maiming at which a giant gauntleted hand appears above the congregation and then disappears in an illusion of flaming blood.
+In 1358 DR, during the Time of Troubles, Bane and Torm battled in avatar form, destroying themselves and parts of Tantras.
+References
+
+---
+
+## Eleasis 17
+
+On This Day
+
+Worshipers of Waukeen observe Huldark, a High Festival celebrating the land's bounty, marked by a feast and the planting of new fruit trees or vegetables.
+In 1374 DR, the Crusade led by Seiveril Miritar engaged the forces of House Dlardrageth in the sacred Vale of Lost Voices.
+In 1374 DR, Hillsfar came under siege by the Zhentilar, and High Warden Hardil Gearas listened to Fzoul Chembryl's terms of surrender.
+References
+
+---
+
+## Eleasis 22
+
+On This Day
+
+Worshipers of Tyr perform the ritual of the Blinding at which an illusion of a giant pair of eyes appears above the congregation and then sheds flaming tears until they drain away to nothing.
+In 1374 DR, Lord Seiveril Miritar, the leader of the Crusade to free Evereska, fell in battle with the daemonfey army of House Dlardrageth at Myth Drannor. Despite this, very few fey'ri escaped the destruction of House Dlardrageth.
+References
+
+---
+
+## Eleint 1
+
+On This Day
+
+Worshipers of the halfling deity Cyrrollalee celebrate Hearthday.
+Followers of Tyr perform the ritual of Seeing Justice, at which a giant warhammer appears above the congregation glowing white hot.
+References
+
+---
+
+## Eleint 7
+
+On This Day
+
+Worshipers of Waukeen observe Spryndalstar, a High Festival in recognition of magic and its benefits, marked by hiring mages to cast entertaining spells and by sponsoring wizardly research.
+In 1479 DR, the Battle of Luthcheq, a conflict between the nations of Chessenta, Akanûl and Tymanther against the dragon players of Brimstone's xorvintaal, took place.
+References
+
+---
+
+## Eleint 11
+
+On This Day
+
+Worshipers of Hoar celebrate the Penultimate Thunder with a great feast in honor of their lord's victory over Ramman.
+References
+
+---
+
+## Eleint 13
+
+On This Day
+
+Worshipers of Garl Glittergold celebrate the Communion of Laughter with various activities.
+Worshipers of Tyr perform the ritual of the Maiming at which a giant gauntleted hand appears above the congregation and then disappears in an illusion of flaming blood.
+In 1347 DR, the Ten Black Days of Eleint began after a coup attempt by Prince Alemander V on the previous day burned Castle Tethyr to the ground, killing King Alemander IV and the royal family of Tethyr. The Crown Prince was betrayed by his co-conspirator, General Sharboneth, and both died in the fire. The terror of the Ten Black Days spread as oppressed peasants were whipped into a murderous frenzy by Calishite agitators to hunt down most of the nobility. Many castles and temples were destroyed in the mayhem.
+In 1374 DR, adventurers rescued a number of kidnap victims, taken by followers of Shar and Cyric via the false temple of Mystra in Wheloon, from the Vast Swamp. They looted documents that included the Black Chronology and  held clues to a sacred Sharran text called the Book of the Black.
+References
+
+---
+
+## Eleint 21
+
+On This Day
+
+It is the Autumnal (Autumn) Equinox.
+Worshipers of Aerdrie Faenya have a festival called the Dance of the Swirling Winds with aerial ballets and offerings of beautiful feathers.
+Priests of Lathander perform the Song of Dawn.
+Worshipers of Mielikki celebrate the Third Feast and praise the Forest Lady with song.
+Worshipers of Rillifane Rallathil observe the Transformation with dances in remote oak groves.
+Worshipers of the gnomish deity Segojan Earthcaller offer up gems and bury them in holes dug by badgers.
+Tribal clans who worship Uthgar gather upon their burial mound or at Beorunna's Well for Runemeet to set policy, perform marriages and many other rituals.
+ Waterdhavians celebrate Brightswords, a series of displays and competitions of martial skill and open enlistment by the City Guard and City Watch, topped off by an aerial demonstration by the Griffon Cavalry.
+
+Appendix
+See Also
+ Feast of the Moon
+ Greengrass
+ Highharvestide
+ Midwinter
+ Midsummer
+ Shieldmeet
+ Spring Equinox
+ Summer Solstice
+ Winter Solstice
+References
+
+---
+
+## Eleint 22
+
+On This Day
+
+ Worshipers of Tyr perform the ritual of the Blinding at which an illusion of a giant pair of eyes appears above the congregation and then sheds flaming tears until they drain away to nothing.
+ In 1347 DR, the Ten Black Days of Eleint come to a close. 550 nobles and 1,700 commoners had died during the turmoil. Only five barons, one count, and two dukes survive the Black Days.
+
+References
+
+---
+
+## Eleasis 2
+
+On This Day
+In 1372 DR, the sorcerer Galaeron Nihmedu and stone giant priest Aris smuggled five Chosen of Mystra into the Shade Enclave and attacked Shade's mythallar. The assault was partially successful—the city was temporarily crippled, and in the chaos of battle the Shadovar lost the Karsestone.
+In 1372 DR, with the collapse of the shadowshell, the mythal of Evereska began to recover and the elves and their reinforcements from Waterdeep began to rout the besieging phaerimm.
+References
+
+---
+
+## Eleasis 3
+
+On This Day
+ In 1370 DR, the last of the servants of Westgate's Night King are destroyed by a clone of Manshoon, who takes the deposed Night King's place.
+References
+
+---
+
+## Eleasis 4
+
+On This Day
+ The Night of Fourteen Magisters, 709 DR, sees the position of Magister pass from the incumbent, through nine clones of an ambitious archmage, the archmage himself, his apprentice, a passer-by mage, and his own apprentice, with each one being killed by the next.
+
+References
+
+---
+
+## Eleasis 5
+
+On This Day
+In 1374 DR, the Semberholme base of Seiveril Miritar's Crusade fended off a raid by forces from House Dlardrageth. On the same day, representatives of the Crusade negotiated a truce with Sembia.
+References
+
+---
+
+## Eleasis 6
+
+On This Day
+In 1374 DR, the Yûlash garrison of Hillsfar troops was overwhelmed by the army of Zhentil Keep.
+References
+
+---
+
+## Eleasis 7
+
+On This Day
+In 1373 DR, the forests of Battledale were struck by mass arson when the red dragon Thraxata the Flamefiend went on a rampage.
+References
+
+---
+
+## Eleasis 8
+
+On This Day
+ In 713 DR, the Army of Darkness defeated the elves in the Battle of the Three Arrows, slaying the elven leaders Jhiilsraa, Ainésilver, Eloen, and Akkar Tarsis. The fiendish colonel Jvoll was also slain.
+ In 1374 DR, Ransar Pristoleph of Innarlith achieves final victory in defeating the coup attempt against him by Senator Meykhati and backed by the Red Wizard Marek Rymüt
+
+References
+
+---
+
+## Eleasis 10
+
+On This Day
+In 1374 DR, the Zhentilar army marched from Yûlash, occupying the area west of Hillsfar.
+References
+
+---
+
+## Eleasis 11
+
+On This Day
+In 1374 DR, the truce between Seiveril Miritar's Crusade and Sembia turned into an alliance against House Dlardrageth.
+References
+
+---
+
+## Eleasis 18
+
+On This Day
+In 1374 DR, after Malkizid, a former archdevil summoned by Lady Sarya to serve House Dlardrageth, was banished, the daemonfey retreated from the Vale of Lost Voices.
+In 1374 DR, facing an army from Zhentil Keep, Hillsfar acceded to Fzoul Chembryl's demands.
+References
+
+---
+
+## Eleasis 20
+
+On This Day
+In 1373 DR, the ancient tome, The Leaves of One Night, fell into the hands of the Shadovar. Among its secrets was the description of a spell to summon the Shadowstorm and elevate Shar to prominence over other gods.
+In 1374 DR, the elvish Crusade, led by Seiveril Miritar, pursued the army of House Dlardrageth back to Myth Drannor and surrounded them.
+In 1492 DR, a nautiloid crashed on the banks of the River Chionthar, with a number of its captives making it out alive. These captives had been infected with the Absolute's modified illithid tadpoles.
+
+References
+
+---
+
+## Eleasis 27
+
+On This Day
+ In the, Duke Alaric Hembreon of Tethyr is exiled from his country on trumped-up charges.
+Circa 1371 DR, Alyn Telarson writes a large report to Khelben Arunsun on the Inner Sea region and the undersea realm of Serôs, including alongside his own studies some copied details from the Notes on Serôs by Ondam Moray.
+In 1374 DR, concerned about a renewed elvish presence in Myth Drannor, Fzoul Chembryl of Zhentil Keep secretly met with Jezz the Lame of House Jaelre and a delegation from Clan Auzkovyn and discussed plans to eliminate the threat.
+The 27th of Dar was the birthday of Grand Caliph Khalil al-Assad al-Zahir of Zakhara.
+
+References
+
+---
+
+## Eleasis 28
+
+On This Day
+In 1372 DR, the Silence of Lolth began. While her priests were unable to receive divine spells, the Jaezred Chaulssin moved quickly to take advantage; seizing, crippling, or destroying many drow-controlled cities in the Underdark.
+References
+
+---
+
+## Eleasis 29
+
+On This Day
+In 1374 DR, with Hillsfar under Zhentarim control, Scyllua Darkhope was ordered to set up a chain of fortified encampments on the Moonsea Ride through Cormanthor.
+References
+
+---
+
+## Eleint 2
+
+On This Day
+ In 1329 DR, Prince Azoun Obarskyr IV married Filfaeril Selazair.
+ In 1369 DR, an attack by sahuagin on the shalarin hatcheries of the Ola, Aya, and Yea clans leads to the deaths of over 1,000 unhatched shalarins and of Ri'ola'sur, the imperial heir of As'arem. This event drags all four kingdoms of the shalarin into the Twelfth Serôs War.
+
+References
+
+---
+
+## Eleint 3
+
+On This Day
+In 1374 DR, the Cormanthor War began with confrontations along the Moonsea Ride between the forces of Myth Drannor, the Zhentarim led by Scyllua Darkhope, House Jaelre, and the Auzkovyn Clan.
+References
+
+---
+
+## Eleint 4
+
+On This Day
+In 1373 DR, the colony of New Waterdeep founded a new home on Maztapan Island in the Gulf of Cordell after their previous outpost was obliterated by raiders from Kultaka.
+References
+
+---
+
+## Eleint 5
+
+On This Day
+In 1374 DR, the Sothillisian War ends with an uneasy truce between the Council of Six in Amn and the Murkul Sothillis in order to ally against incursions by the tlincallis (commonly called stingers) of Oaxaptupa in the Underdark.
+References
+
+---
+
+## Eleint 6
+
+On This Day
+In 1374 DR, the temple of Mystra in Wheloon was discovered to be a front for a kidnapping ring operated by worshipers of Shar and Cyric, targeting magically talented individuals and hauling them off to the Vast Swamp for purposes unknown.
+ In 1479 DR, the spirit of the primordial Arambar temporarily awakened from its ages long slumber to protect the village of Wandering Stones from the attack of the brown dragon Thovantareth.
+In 1484 DR, Sundabar falls to the besieging armies of Many-Arrows orcs and Arauthator the white dragon.
+
+References
+
+---
+
+## Eleint 8
+
+On This Day
+ In 449 DR, King Priam Tornamn abdicated the throne of Tethyr in favor of the lost heir Silvyr Ithal.
+
+References
+
+---
+
+## Eleint 9
+
+On This Day
+ In 1369, the Twisted Rune raided and conquered Stardock from the mind flayers in order to use it as a base and magical research facility.
+
+Appendix
+References
+
+---
+
+## Eleint 12
+
+On This Day
+Between midnight and dawn, in the Year of the Bright Blade, 1347 DR, King Alemander IV of Tethyr and the entire royal family were slain when Castle Tethyr was burned to the ground by an act of arson, beginning the Ten Black Days of Eleint and the Tethyrian Interregnum period.
+In 1374 DR, the Knights of Myth Drannor, led by Storm Silverhand and Dove Falconhand, came to the aid of the elvish Crusade holding Myth Drannor, and quickly became engaged fending off strikes by drow guerrillas from the east.
+ In 1478 DR, the vampiric smoke drake Brimstone meets with the leader of the dragon princes of Murghôm, Skalnaedyr, in Dracowyr and convinces him to start a xorvintaal game.
+
+References
+
+---
+
+## Eleint 14
+
+On This Day
+ In 201 DR, Cymrych Hugh was crowned High King of the Moonshae Isles after vanquishing the beastly Kazgoroth.
+ In 1347 DR, by the end of this second of the Ten Black Days of Eleint, Queen Rhinda's family, the Piirlons of Zazesspur; King Alemander IV's cousins, the Sakhars of Myratma; and the western branch of Princess-Consort Dhara's family, the Riiklasses of the Purple Hills have all been murdered by angry mobs.
+ In 1367 DR, Cormyr instituted a ban on the Iron Throne from operating within the nation's borders.
+
+References
+
+---
+
+## Eleint 16
+
+On This Day
+ In 1347 DR, by the end of this fourth of the Ten Black Days of Eleint, only two counts remain in power in Tethyr, Lord Tuvos Akasi of Monrativi Teshy Mir and Count Romar Miklaas of the Purple Hills. Both men are murdered before the end of the Ten Days.
+ In 1358 DR, Cyric kills the deity Bhaal with the sword Godsbane.
+
+References
+
+---
+
+## Eleint 18
+
+On This Day
+ In 1347 DR, this sixth of the Ten Black Days of Eleint sees the largest migration of nobles from Tethyr and the greatest destruction of noble property by angry mobs, particularly around Ithmong. During the day, mobs force four wagons transporting families of the nobles of the Mir Protectorate off the Helmbridge as they attempt to escape through Survale Ford. The wagons crash into the River Ith, and all are drowned. The night is known afterward as the Night of Nine Fires, and burning manors are visible for miles.
+
+References
+
+---
+
+## Eleint 23
+
+On This Day
+In 1372 DR, the fiend/fire giant hybrid, Kurgoth Hellspawn, led an army of goblins, ogres, giants, and demons to sack the Underdark city of Maerimydra, killing or enslaving most of the drow inhabitants. House Dhuurniv survived mostly intact due to being located primarily outside the town proper.
+References
+
+---
+
+## Eleint 26
+
+On This Day
+In 1358 DR, during the Time of Troubles, Cyric killed Bhaal at Boareskyr Bridge.
+References
+
+---
+
+## Eleint 28
+
+On This Day
+The festival of Brightswords takes place, celebrated in Cormyr and Sembia. The festival included parades of soldiers and guards, demonstrations of martial prowess, horse races, other competitions, and abundant sales of arms and armor.
+
+References
+
+---
+
+## Eleint 30
+
+On This Day
+In 1374 DR, Kendrick the Tall, father of Miklos Selkirk and Overmaster of Sembia, was assassinated.
+In 1375 DR, Halaster "the Mad Mage" Blackcloak died in his Undermountain lair in a cataclysm apparently caused by a spell gone wrong. Many beings across Faerûn attuned to the Art experienced terrifying visions of the Mad Mage screaming and scenes of thunderous underground upheaval caused by blue-white magical explosions. On the surface, the people of Waterdeep felt a long, shuddering earthquake that did minor structural damage.
+References
+
+---
+
+## Elliot Graves
+
+Elliot Graves was a Harper and the servant and close confident of Loene in Waterdeep.
+
+Description
+Graves was a skilled soldier and chef.
+
+History
+In 1361 DR, Graves was living and working in Loene's townhouse in the Castle Ward near Castle Waterdeep. After Arilyn Moonblade showed up in tow with an injured Danilo Thann, Graves was targeted and killed by the Harper Assassin.
+
+Appendix
+Appearances
+Novels
+Elfshadow
+
+References
+
+---
+
+## Elquesstria
+
+Elquesstria was a variety of elven spirits. It was available at the Halfway Inn outside Evereska, among other places.
+
+Appendix
+Appearances
+Novels
+Elfshadow • The Summoning
+References
+
+---
+
+## Elverquisst
+
+Elverquisst was a variety of elven spirit.
+
+Description
+Elverquisst was ruby colored, "distilled from sunshine and rare summer fruits." It was smooth but flecked with gold. It was generally stored in bottles made of transparent crystal, capable of absorbing light. Upon speaking a specific phrase in Elvish, the light gathered into thirteen distinct points that resembled the constellation Correlian.
+
+The rare fruits that were used in making elverquisst were orosks and resmers. As of the Year of Wild Magic, 1372 DR, these plants only grew in Evereska and a few other isolated valleys around Faerûn.
+
+Elverquisst was highly prized by elves, especially in autumn. A ritual was involved in drinking Elverquisst. The ritual involved a chant, pouring the liquid into a goblet, swirling it around, sharing it with others, and offering a ritual bow of the head in thanks. The liquid itself could rack up as much as 9,000 gp with additional 2,000 gp for the bottle, totaling at 11,000 gp.
+
+Availability
+The House of Good Spirits was one of the few places in Waterdeep where one could obtain elverquisst. It was also available in Elturel's famous tavern A Pair of Black Antlers, where it was the most expensive drink on offer. It was rumored to be stored in the wine cellar of the Low Lantern in Eveningstar in Cormyr.
+
+A private drinking establishment called Walking Out to Meet the Dragon in Mosstone of Tethyr served a wide variety of rare libations, including elverquisst.
+
+In the late 14 century DR, a bottle of elverquisst belonged to the maedar winemaker Vorlon who ran the Morden Winery, located in a valley outs the village of Dragon Falls in the Vast.
+
+History
+In the, A Modest Guide to Sword Coast Wine sang praises to Elverquisst's sinuous fruity flavors.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elisker Hagathan
+
+Elisker Hagathan was a priest of Ilmater the Broken God in the 14th century DR, holding the title of "Enduring Servant".
+
+In the Year of the Boot, 1343 DR, Ilmatari investigators discovered the Tome of Torment—the holiest book of the church of Ilmater—in the possession of a group of Thayan agents based in Athkatla, Amn. An Ilmatari strike force assaulted their house one night in the autumn of that year. The impressive Ilmatari attack destroyed the house and ended with the Thayan band pursued through the streets and slain, amidst a number of stabbings and desperate rooftop jumps. Before the fall of winter at the close of the year, Enduring Servant Elisker Hagathan carried the Tome of Torment in triumph back to the House of the Broken God in Keltar, Calimshan.
+
+References
+
+---
+
+## Elephant bird
+
+Elephant bird were large birds native to the jungles of Zakhara.
+
+Description
+Elephant birds were rather large for birds, being about  in length. They had curved yellow beaks and green feathers; males could be distinguished by the red "racing stripes" that ran from their eyes to their tails. They sometimes had an odd gullet protruding beneath the throat.
+
+Behavior
+Elephant birds were fierce predators, but only as dangerous as instinct and necessity led them to be.
+
+Combat
+Elephant birds were dangerous for their cooperation: they lived in flocks of 10-100 members, and formed great hunting flights that were said to be capable of bringing down an elephant, hence their name. In a hunting flight, elephant birds carried up to three stones in their gullet, where the rocks grew superheated. When the flock found potential prey, they began to drop the stones on it. When they ran out of stones, they could either find more, or they could attack with the claws and beak; blinding beleagured prey with flying feathers and the flapping wings of countless birds.
+
+Ecology
+Elephant birds were typically active during the daytime and the species greatest strength was that its members worked together. They nested and hunted together, and such was their cooperation that they were near the top of the food chain.
+Diet
+Elephant birds were an omnivorous species, eating berries, grains, worms and insects, or, preferably, carrion. They preferred most of all fresh meat and would terrorize livestock in civilized areas whenever food was scarce or if the pickings looked especially good.
+Habitats
+Elephant birds lived near clearings in or on the edges of the jungles of Zakhara, staying away from settled regions due to their tendency be hunted. They nested high in the treetops, where they could see any enemies approaching long before the hunters managed to do any harm. However, most predators only approached the nests when the elephant birds were hunting (which still risked tangling with any birds that had stayed behind).
+
+In east Zakhara, they could be found in the Grey Jungle.
+Relationships
+Only humans and humanoid species were known to hunt elephant birds, taking every opportunity to do so in order to protect their livestock. And although elephant birds themselves were fierce, their eggs were prized as delicacies by other inhabitants of the jungles.
+
+Appendix
+Gallery
+
+Appearances
+Card Games
+AD&D Trading Cards
+
+References
+
+---
+
+## Elovear
+
+The Elovear family was a noble merchant family of the city of Tantras in the Vast. The head of the family sat on the High Council that governed Tantras.
+
+In 1358 DR, shortly after the Time of Troubles, the Elovears were allied with the Channath, Laranadda, Tithlin, and Vandover families.
+
+References
+
+---
+
+## Elassuara Narithan
+
+Elassuara Narithan was a female human cleric of Milil, Lord of Song, in Tantras in the Vast around 1358 DR.
+
+Elassuara was high priestess of the Happy House of Splendor and Song temple to Milil at the time. She led six priests and eleven lay-followers.
+
+Appendix
+References
+
+---
+
+## Elgun
+
+Elgun was a citizen of Port Llast on the Sword Coast North in the 1370s DR.
+
+History
+Elgun went in search of tree spirits, dryads, to see what he could do about them. On his way, though, he saw the village of Ember destroyed. Elgun came back home, but began telling stories of how he defeated Ember's attackers.
+
+The Kalach-Cha could have gathered information about Ember and confronted Elgun with the knowledge. Elgun would hesitate, but if undeniable proof was given, Elgun would explain the real story of what had happened.
+
+Appendix
+Appearances
+ Neverwinter Nights 2
+
+External links
+
+References
+
+---
+
+## Eldorn Mindalar
+
+Eldorn Mindalar was a male human cleric of Gond, the Lord of All Smiths, in Tantras in the Vast around 1358 DR.
+
+Eldorn was high priest of the House of Skilled Hands temple to Gond at the time. He led nine priests and eighteen lay-followers.
+
+References
+
+---
+
+## Elthaun Aumar
+
+Elthaun Aumar was the second of the Warring Princes of Athalantar.
+
+History
+Elthaun was the second son of the Stag King of Athalantar, Uthgrael Aumar. He was a subtle manipulator.
+
+He fled the country for Calimshan in 219 DR. Later that year, Belaur Aumar's magelords found and killed him.
+
+References
+
+---
+
+## Elthryn Aumar
+
+Elthryn Aumar was one of the Warring Princes of Athalantar and the father of Elminster Aumar.
+
+History
+Elthryn was a calm, peaceful, just man. At one point, not supporting the intrigues that plagued the court, Elthryn retired to the outlying village of Heldon and Uthgrael Aumar gave him the Lion Sword, a longsword with magical powers that had never left the king's hand until then. Some saw this act as the king appointing Elthryn as the true heir to the Stag Throne.
+
+In Heldon, Elthryn married a forester's daughter, Amrythale Goldsheaf, in 210 DR. They had one son, Elminster, born in 212 DR. Both parents were slain in the destruction of Heldon by the wizard Undarl in 224 DR.
+
+Appendix
+Appearances
+Novels
+ Elminster: The Making of a Mage
+
+Further Reading
+
+References
+
+---
+
+## Eldeluc
+
+Eldeluc  was a human wizard and a member of the Arcane Brotherhood at the  Host Tower of the Arcane in Luskan in the mid-to-late 14 century DR.
+
+Description
+He was large, burly, and fat, and quite strong for a mage.
+
+Personality
+With a friendly and jovial manner, Eldeluc seemed like a big fun guy, but this hid a deeply evil man with a tainted soul.
+
+Relationships
+Because of his worship of Bane, Eldeluc had acquired connections with the Zhentarim, and later in particular members of the church of Xvim led by Fzoul Chembryl. He vehemently hated his rival and former master Dendybar the Mottled and the feeling was mutual. In turn, covert Brotherhood member Pureheartman opposed both their wicked schemes.
+
+History
+Originally, Eldeluc was Dendybar's apprentice, and, perhaps surprisingly for the Arcane Brotherhood, was utterly loyal to his master.
+
+Eldeluc conspired with Dendybar the Mottled and other associates to have their rival Morkai the Red, the Master of the North Tower, murdered by his apprentice Akar Kessel at their command while on an expedition to Icewind Dale in the .
+
+His removal saw both Eldeluc and Dendybar rise to key places in the Brotherhood and by the late 1350s DR, Eldeluc and Dendybar were both lieutenants of the Archmage Arcane, Arklem Greeth, marking them both as heirs-apparent. But Eldeluc's apparently easier rise through the lower ranks made Dendybar jealous and resentful. No longer loyal to his old master, Eldeluc watched his back while pitying Dendybar's new apprentice Sydney. It did not seem long until one got rid of the other.
+
+Fortunately for Eldeluc, their rivalry ended when Dendybar did, when he was slain by the vengeful spirit of Morkai the Red in the . Eldeluc, meanwhile, apparently escaped or avoided retribution, at least so far.
+
+Eventually, some time after 1367 DR, Eldeluc and fellow lieutenant Valkebar assassinated Queltar Thaeloon, the Wizard of Green Fire and the chief lieutenant of Arklem Greeth. The pair then targeted Arklem himself, ambushing him in his bedchamber at night on Eleint 14 in the . Protected by his magic, but badly wounded, Arklem fled the Host Tower.
+
+By the time Arklem returned, as a lich allied with devil, the Arcane Brotherhood was leaderless and in civil war and the Host Tower half empty. Arklem killed Eldeluc and Valkebar and regained control of the Arcane Brotherhood. However, it was suspected that Eldeluc probably kept a hidden clone of himself.
+
+Appendix
+Appearances
+The Crystal Shard
+
+References
+
+---
+
+## Elender Stormfall
+
+Elender Stormfall was a bard from Suzail in Cormyr in the mid-14th century DR.
+
+As a young bard, Elender wrote a chapbook titled The Dream of the Dragon, discussing the spirit and mood of Cormyr around the death of King Azoun IV and the rise of the Regent Alusair in 1371 DR. The book was published in late 1374 DR.
+
+References
+
+---
+
+## El Sadhara
+
+High Whirlwind Fida'iya yr Iamar, commonly known as el Sadhara, "the Desert Rose", was an exceptionally powerful priestess of Akadi who had been mummified. She resided at the Altar of the Air and was said to possess many treasures.
+
+She was also reported to believe that she was the lover of the djinni lord Calim. In addition, she thought that Calim and Akadi were the same being.
+
+Background
+From the Eighth Age of Calimshan, Fida'iya was an airwalker, a special priest of the goddess Akadi. Sometime before the Time of Troubles, she was mummified so that she could continue to guard the Altar of the Air, a shrine to Akadi in the ruined djinni military fortress of Dashadjen, which remained from the time of the First Era of Skyfire. For centuries, she went by the Alzhedo title "el Sadhara", which translated as "the desert rose".
+
+El Sadhara believed that Calim was in fact a manifestation of the goddess Akadi as well as being her lover. She stored up many powerful treasures for him in Dashadjen, in hopes to restore them to him at his return to power. She believed that he would grant her immense power in return for her service to him. Despite her delusion, she remained a powerful priestess; the actual source of her power, whether Akadi or perhaps Calim, was unknown.
+
+Appendix
+Notes
+
+References
+
+---
+
 ## Eldenser
 
 Eldenser, called "the Lurker" and "the Worm Who Hides in Blades", was a great wyrm amethyst dragon known for his magical ability to "jump" his sentience from blade to blade, which he used to travel Faerûn while his body lay magically preserved and protected in a crypt within the City of the Dead below Waterdeep.
@@ -2376,6 +6804,9199 @@ There were common yet unsubstantiated rumors that Eldenser was in fact the serva
 Appendix
 Notes
 
+References
+
+---
+
+## El Ashnarti
+
+The Ashnarti family of crime lords was one of the smaller crime families in Calimshan, with its base in Keltar, and was known for its brutes and thugs.
+
+The headquarters of the Guild of Enforcers and Thugs of Calimshan was located in Keltar and was the only rogues' guild of note in the city. In 1370 DR, this guild was in the control of the sultan of Keltar, Duncan el Ashnarti, allowing him to control both illegal and legal activity there. Duncan was married to a niece of el Ahimar family, one of the four major crime families in Calimshan, which was in turn subservient to el Pesarkhal family and the syl-pasha himself, so the entire Ashnarti family and the underworld of Keltar was in control of Ralan el Pesarkhal.
+
+See Also
+ The four major crime families of Calimshan in 1370 DR:
+ El Pesarkhal
+ El Kahmir
+ El Vyndahla
+ El Ahimar
+
+References
+
+---
+
+## El Kahmir
+
+The Kahmirs were one of four major crime families operating in Calimshan in 1370 DR. Until the Darkstalker Wars in 1359 DR, they were the most powerful of all Calishite underworld groups since the Seventh Age of Calimshan.
+
+Family Tree
+
+See Also
+The four major crime families of Calimshan in 1370 DR:
+ El Pesarkhal
+ El Kahmir
+ El Vyndahla
+ El Ahimar
+
+References
+
+---
+
+## El Ahimar
+
+The Ahimar clan was the least well known and most secretive of the four major crime families operating in Calimshan in 1370 DR. They rose to power during the Darkstalker Wars in 1359 DR. Believed to have been a lost house, they were aided by Ralan el Pesarkhal, and as such were indebted to him and under his indirect control.
+
+Appendix
+
+See Also
+ The four major crime families of Calimshan in 1370 DR:
+ El Pesarkhal
+ El Kahmir
+ El Vyndahla
+ El Ahimar
+
+References
+
+---
+
+## El Pesarkhal
+
+The Pesarkhals were the post powerful crime family in Calimshan in 1370 DR, controlling each of the remaining three houses, because Syl-Pasha Ralan el Pesarkhal sat on the throne.
+
+Ralan el Pesarkhal also intentionally married off his daughters to the other families to control them, and while the seat of control for el Pesarkhal was technically in Calimport, there was at least one Pesarkhal family member in a position of power in every city throughout Calimshan.
+
+Family Tree
+
+See Also
+ The four major crime families of Calimshan in 1370 DR:
+ El Pesarkhal
+ El Kahmir
+ El Vyndahla
+ El Ahimar
+
+References
+
+---
+
+## El Vyndahla
+
+The Vyndahla clan was the third-largest family in the criminal underworld of Calimshan. In truth, it was simply a puppet group of the Rundeen. The Darkstalker Wars robbed them of much of their power, but in 1370 DR they still controlled criminal activities in Almraiven and Volothamp.
+
+See also
+ The four major crime families of Calimshan in 1370 DR were:
+ El Pesarkhal
+ El Kahmir
+ El Vyndahla
+ El Ahimar
+
+References
+
+---
+
+## Elementalist
+
+An elementalist was a type of wizard who specialized in spells dealing with the four elements. The school of effect, elementalism, touched all schools of magic. These four elements were opposed, with Fire and Water being opposed, and Air and Earth being opposed.
+
+Benefits
+Unlike most wizards, elementalists learned spells from their schools far faster, and those of the other two schools only slightly faster, and they could memorize more spells of their element. Their spells were also more potent and harder to dodge, and they could memorize spells at a higher level. They also did not need to concentrate on spells of their element and could research the spells of their element sooner than most.
+
+Hindrances
+Elementalists learned Universal spells far slower and could not learn spells of the opposite element at all.
+
+Appendix
+
+See also
+School of elemental air
+School of elemental earth
+School of elemental fire
+School of elemental water
+A list of elementalists in the Realms
+Elemental mage
+Wu Jen
+Sorcerer
+Appearances
+
+References
+
+---
+
+## Elsura Dauniir
+
+Elsura Dauniir was a human wizard and later a field agent of the Moonstars for northwest Faerûn in the late 14 century DR.
+
+Powers
+She had the unique ability to transform herself into a black cat at will.
+
+History
+Elsura was born in Silverymoon, with her father Aumar the Lion a guardscaptain in the spellguard, and she grew up in the company of elves and Harpers. As teenager, she joined the archmage Tasirin, becoming his cook and companion. One night Elsura vanished and she reappeared only a year later at her father's funeral in the form of a cat.
+
+At this point Lady Alustriel offered her to be tutored in magic by Harper wizards and Elsura agreed. For a time she was the student of the adventuress Sharanralee.
+
+Afterward Elsura went to Myth Drannor and tried to build there a refuge for herself and her friends.
+
+In the, she was chosen as a field agent of the Moonstars for the North; she was quite famous in the region and some people, especially in Luskan, spoke of being "clawed by Elsura" to indicate an unexpected and often deadly surprise.
+
+In the, she was among the many powerful mages Khelben Arunsun brought together in order to cleanse part of the High Moor and restore Faer'tel'miir, a lost city of Miyeritar.
+
+Personality
+Elsura was said to have the same personality as a cat. She hated slavers and those how hunted for sport. Elsura was shy, moody and very slow to trust someone.
+
+Appendix
+
+Appearances
+Novels
+Blackstaff
+
+References
+
+---
+
+## Elfinster
+
+Elfinster, also known as El, operated the small establishment known as the School of the Mage of Shadowdale in Huzuz, the City of Delights, in Zakhara in 1367 DR.
+
+Description
+El was a human ajami mage who called himself the "Mage of Shadowdale."
+
+Personality
+He would get very prickly if anyone confused him with Elminster or called him by that name, often refusing to deal with them unless they apologized profusely.
+
+History
+The wizard decided to get as far away from Shadowdale as possible in order to avoid comparison with "the other mage of Shadowdale." El eventually settled in Huzuz, where he married Amsha al-Lanim and opened his establishment.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Elemental weapon
+
+Elemental weapon was a transmutation spell that infused a temporary elemental magic effect into a weapon.
+
+Effect
+The caster would touch the weapon while picking an elemental magical force—acid, cold, fire, lightning, or thunder—that would infuse the weapon. The effect lasted for an hour and increased the chance of the weapon hitting its target in addition to causing extra damage with the selected elemental force.
+
+Components
+Only verbal and somatic components where needed.
+
+Appendix
+External links
+
+Appearances
+Miniatures
+Icons of the Realms
+References
+
+---
+
+## Elemetar
+
+Elemetar was a barony and later the smallest county of Tethyr, but contained Tethyr's second-largest city, Myratma.
+
+Geography
+Elemetar was located in the Purple Marches. It was on the north banks of the River Ith across from County Calimmon in Ankaram. It was bordered by County Vintor and the Purple Hills region in the west at the Red River. County Bardshyr was to the north, and Ithmonn and the Crown Lands to the east.
+
+Government
+Before the Tethyrian Interregnum, Elemetar was a barony ruled over by the Raslemtar family. In 1369 DR it became a county and was ruled by Perendra Raslemtar, the Court Vizera. Countess Perendra's official estate was in the city of Myratma, in a mansion known as Khaarysaim, but she spent most of her time in the capital in her adviosry role to the queen and king.
+
+Trade
+Elemetar contained the best grain fields in southern Tethyr. It was also one of the richest counties of Tethyr, as Myratma was there, and the Trade Way passed through.
+
+History
+When the Ten Black Days passed, Baron Amir RaslemtarHe is named Seldoon in the DM's Sourcebook of the Realms, but Lands of Intrigue Book 1: Tethyr names him Amir. This article follows the more recent source. was one of only five barons to survive. He escaped Tethyr with his family, which included the young Perendra. Years later, after the Civil War, the lands were restored to the Perendra family.
+
+Appendix
+Note
+
+References
+
+Connections
+
+---
+
+## Electric jolt
+
+Electric jolt was a simple arcane evocation cantrip used by spellcasters in the Forgotten Realms to create a small jolt of electricity from their fingertips.
+
+Effects
+The jolt could be aimed at a target up to 25 feet away (or further, depending on the skill of the caster), but it did not produce a very powerful shock.
+
+Components
+This spell required both verbal and somatic components.
+
+Appendix
+Appearances
+
+Reference
+
+---
+
+## Elephant
+
+Elephants were enormous plant-eating animals known for their prehensile trunks. In some lands, they were used as beasts of burden or mounts.
+
+Description
+The tusks of these creatures were made of ivory.
+
+Behavior
+Some elephants in the wild would be found in isolation, but they also had herd societies of between six and thirty animals.
+
+Combat
+If attacking, elephants boldly charged at their opponents and trampled them.
+
+Varieties
+Elephants came in two kinds, a larger and stronger variety that was more unpredictable and a weaker, smaller elephant that was far easier to train. In addition, there were prehistoric elephants known as mastodons, mammoths, and oliphants.
+
+A brown-skinned short-eared species of elephant was a very common beast of riding and burden in the Utter East, namely, in the country of Doegan. The Mar people long ago learned to train and domesticate these elephants and relied on the beast for their day-to-day activities. After the Utter East's colonization by the Ffolk, most horses died off from diseases, leaving red oxen and elephants to be the dominant beasts to ride and to push carriages.
+
+Ecology
+Relationships
+Elephants were sacred in the Mulhorandi pantheon. The god Anhur favored battle elephants. His fellow gods Hathor, Nephthys, and Osiris would sometimes send celestial elephants to followers in need. The deity Red Knight also considered elephants special beasts, as did Thard Harr, the dwarven jungle god.
+
+In the land of Malatra, the Nubari tribe known as the Wise Ones worshiped the spirits of elephants through totems. Shamans within the tribe spoke daily with local elephants, of which there were always around eight near the edge of their village, to learn of recent events in their area. Whenever an elephant in the area got injured it would wander to the tribe in order to be healed by its shamans. In the Kuong Kingdom, the creation story of the Lords of Creation held that Malatra was created in the footprints of a great elephant ridden by the goddess Indra. Naturally, the elephant was sacred to her. However, in neighboring Laothan, in Kompoa, elephants were simply slaughtered for their hides, and the Kuong believed this to be sin.
+
+The Zakharan island of Afyal was called the Isle of the Elephant. Elephants there were unusually intelligent and easy to be trained, and were inviolate by law. They were also connected to Afyal's former main deity, the Lost One.
+
+Elephants were once common on the peninsula of Chult, and images of elephants featured notably among the massive stone carvings found in the ruined temple of Nangalore. As of the late 15th century DR, however, living elephants were no longer found on the peninsula.
+
+Halruaan farmers bred a cattle breed of fuzzy elephants, alongside aurochs, and rothé. The creatures were allowed to graze in pastures and eventually butchered for food. Despite their meat being very gamey in flavor, they were sold during Halarahh's Monster Fairs.
+
+Usages
+The ivory tusks of elephants were a valued commodity in much of Faerûn and in Kara-Tur; Jejima Horoto of Akkaido, Wa, imported eight tusks on a typical day in 1357 DR.
+
+Notable Elephants
+A fiendish elephant named Tusk was a known combatant of the Underdark coliseum of Maerimydra. This elephant belonged to Kurgoth Hellspawn.
+
+Trivia
+ Because of their immense strength, elephants were one of the animals commonly created by figurines of wondrous power.
+
+Appendix
+See Also
+ Baku
+ Hollyphant
+ Loxo
+ Maelephant
+ Shirokinukatsukami
+
+Gallery
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Elemental mage
+
+Elemental mages were wizards in Zakhara who specialized in one of the four primary elements—sand, wind, sea, and flame.Elemental mage was a wizard class kit for the Al-Qadim setting.
+
+Requirements
+These mages did not have any special requirements, though elemental mages following the path of flame tended to be sinister individuals.
+
+Role
+Elemental mages were rare compared to the other types of magic-users found in the Land of Fate. Once it was learned that a mage was an elementalist, distrust usually followed. The Pantheist League were notorious for their dislike for these "rogue" mages, going so far as to hire holy slayers to rid them of the their presence in their cities.
+
+Some of the elemental mages took it upon themselves to help improve their reputation by performing acts of general public service, though they kept their identity a secret until the service was completed and their were ready to depart the area. Most of this distrust and suspicion arose because of the Brotherhood of the True Flame and their unending thirst for power. Many elementalists were solitary practitioners and not members of an organization of one of the chosen elements.
+
+Most of these specialists were content to be left alone to study their element.
+
+Possessions
+Elemental mages used the same equipment as regular mages.
+
+Benefits
+Elemental mages chose one of the four elements in which to specialize. They proudly believed that their area of expertise was the only pure element. Flame mages tended to carry this passion to an entirely different level.
+
+They had a knack for learning spells within their chosen element as well as resistance to magic related to their element. Elemental damage from their offensive spells related to their element were stronger than those of non-elemental mages using the same spell.
+
+Hindrance
+Outside of universal spells, elemental mages could not learn any spells outside of their chosen element. This included using magical items that replicated effects from these spells.
+
+Appendix
+See Also
+ Elementalist
+ Sorcerer
+ Wu jen
+
+Notes
+
+References
+
+---
+
+## Ellhimar
+
+Ellhimar was a human wizard living in Iltkazar.
+
+History
+Ellhimar hailed from Erlkazar but in 1366 DR he relocated to Iltkazakar, although he still considered himself a visitor. Around 1370 DR, Ellhimar spent all his time in scholarly research but revealed to nobody the aim of his studies. In time, his attitude grew increasingly grim and many started to speculate that he had confirmed a hypothesis that he hoped would prove false.
+
+Appendix
+References
+
+---
+
+## Eldrus Wands
+
+Eldrus Wands was a mage of the 4 and 5 centuries DR, the Magister from 409 DR to 516 DR, and the founder of the famous Wands noble house of Waterdeep.
+
+History
+Originally named Eldrus Sunstaff, he was a wizard from another world who arrived on Toril in the . He changed his surname to "Wands" at some point.
+
+In the, he was hired by Lord Irgult Wheivron, ruler of Narubel, to take Irgult's form and wait in his bedchamber for a prearranged tryst with the then-current Magister, Eleedra Nathchant, who used her powers to seduce and influence the rulers of the Realms and kill those who defied her. Eldrus challenged Eleedra and killed her in the ensuing spell-duel. After slaying her, Eldrus inherited the position of Magister.
+
+In his early days, Eldrus discovered some handily positioned gates that permitted him to swiftly and easily move up and down the Sword Coast and travel to the Vilhon Reach. He also found a wizard's tower that had been completely robbed, yet two chests full of potions, among them several potions of longevity had been overlooked. These would aid him as Magister.
+
+He had many adventures in his time. For example, Eldrus once found a wrecked spelljammer ship in the Wood of Sharp Teeth, and flew it to the bottom of the Lake of the Long Arm on a joyride. Another was when he destroyed the fortress of Sorlauv of Athkatla to "persuade" him to release the captured treants he was experimenting on. Eldrus also thieved the Evard's black tentacles spell from Candlekeep and sold many copied scrolls of it across Faerûn in the guise of a poor and simple former adventurer, charging mere handfuls of copper pieces.
+
+One of his legacies as Magister was many standing stones around the Realms. When Eldrus found a wizard being pointlessly cruel or harsh, he sometimes transformed them to stone, followed by a second spell to sheathe them in an additional layer of rock. The result was a sort of stone prison, one that was protected from the elements, could not be identified as a petrified person, and was immune to the effects of a simple, accidental dispel magic (it would remove an outer layer of stone, but not undo the petrification).
+
+Although he used a number of longevity magics, Eldrus survived into old age. His skill at concealing his true nature ensured that no challenging wizards came calling during his reign as Magister. He died in the, reportedly sick and raving whilst wandering alone in the winter snow near Hill's Edge, presumably of fever, exposure, or heartstop. He was succeeded as Magister by Thardon Ilvynner.
+
+Legacy
+From his many children, Eldrus was the founder of what would become House Wands of Waterdeep.
+
+Personality
+As an old man, he was good-natured, interested more in jokes than wealth or power and using his magic for kindness.
+
+Activities
+Eldrus focused primarily on protecting himself, and he maintained many houses and disguises around the Realms. He traveled regularly and randomly, albeit relatively calmly, between his homes and hideouts.
+
+Eldrus was a romantic who found lovers in all the places he went. He housed each of these women in cottages and established them as soothsayers or shopkeepers dealing in magical novelties. After he went away, he magically spied on them, but did so in order to protect them from evil-doers and provide them with money and resources, such as minor magical items like continual light lamps and scrolls with new spells of his invention, each left anonymously on their doorsteps.
+
+If any of his lovers had a child with him, Eldrus would send dreams with suggested names for his sons and daughters, both given name and the Wands surname. These children grew to be strong in sorcery.
+
+Appendix
+References
+
+---
+
+## Elder orb
+
+Elder orbs were very old and powerful beholders.
+
+Description
+Elder orbs were between . They lost their eyes over time, being unable to regenerate them, but gained wizardly powers instead. They were extremely intelligent.
+
+Society
+Elder orbs were generally the councilors or leaders of the beholder faction they lived in.
+
+Ecology
+Elder orbs ate less food than other beholders and thus were able to tolerate more foods, including poison. The elder orb's body itself had a high level of magic resistance and could easily see through most illusions.
+
+It was believed that elder orb brains could be used to create great spells and magical items.
+
+Elder orbs were immortal beholders. They were born like any other beholder and were— apart from inborn sorcerous abilities —indistinguishable from others. The differences became apparent with very advanced age. From some point onwards, an elder orb stopped growing physically weaker from age and continued to live on forever until it suffered a violent death. They never went senile. Compared to other beholders, an elder orb was big and strong but also less agile.
+
+Combat
+Elder orbs were powerful spellcasters, although they were restricted to verbal spells that they developed on their own or stole from others. They guarded their knowledge jealously. They were born with sorcerous powers and could also substitute the somatic components of a spell with their eyestalks. What was a problem for them was the casting of spells with material components. Some learned to cast spells without cheap components, but they generally had a penchant to choose spells without material components to learn.
+
+Elder orbs were able to control death tyrants with their magic, as well as create them. They preferred to use the death tyrants to do their dirty work for them, including fighting enemies.
+
+Notable elder orbs
+ Arglath
+ Irixis
+ Skixtalq
+ Vaxall
+ Xanathar
+
+Appendix
+Appearances
+Video games
+Baldur's Gate II: Shadows of Amn • Neverwinter Nights: Tyrants of the Moonsea
+
+References
+
+Connections
+
+---
+
+## Elemental transmogrification
+
+Elemental transmogrification was a spell unique to Zakhara, the Land of Fate.
+
+Effects
+This spell affected any item with ties to one of the four elements. Example: Items connected to the element of sand included gems, metal, and glass.
+
+The base area of effect for this spell was a 10 ft. (3.1 m) diameter circle. Casters with more command of magic were able to create much larger circles.
+
+This spell transformed items connected to one element into an entirely different element. The new element was chosen by the caster. Elemental mages and Sorcerers could only select the elements they were devoted to. The effects of this spell were permanent. Items transformed in this manner were transported to the elemental plane of their new element one minute after being transformed.
+
+Components
+This spell did not require physical components to cast.
+
+Appendix
+References
+
+---
+
+## Ellis Adarbrent
+
+Ellis Adarbrent was a member of the noble house of Adarbrent and a cartographer in Waterdeep in 1372 DR.
+
+Personality
+Ellis was a quiet man and he stuttered when nervous.
+
+History
+Born as the third child of Lord Royus Adarbrent in 1344 DR, Ellis studied as an apprentice cartographer at Laran's Cartographers.
+
+Ellis later became a senior cartographer at Horizon's Sails.
+
+Relations
+He was a good friend of Winter Zulth.
+
+Appendix
+References
+
+---
+
+## Elemental vortex
+
+Elemental vortices were permanent two-way pathways that existed between the elemental planes or an elemental plane and the Prime Material Plane.
+
+Description
+Elemental vortices resembled shimmering pools or walls of their respective element, such as a pool of water rippling with deep cerulean colors. Those to the Elemental Plane of Water could be flattened disks of moving water, resembling a whirlpool. And much like an actual whirlpool, they often carried the danger of pulling nearby creatures into them.
+
+Vortices to the Elemental Plane of Air tended to drift a lot, being blown back and forth in the wind, which made them difficult to use. Vortices to the Elemental Plane of Earth also tended to move around a lot, always in conjunction with earthquakes.
+
+Vortices within the Elemental Plane of Fire often took the form of a column of fire or a huge free-standing fireball.
+
+Nature of Elemental Vortices
+All vortices had a mild repellent effect on elemental creatures, though a few still managed to make their way through them.
+
+It was impossible for mortals to artificially create elemental vortices. There was also no known means of blocking them or closing them, with even the spells gate ward and surelock having no effect.
+Primary Elements
+On the Prime Material plane these vortices were only found at the heart of great concentrations of their particular element. For example, elemental vortices to the Plane of Fire and Plane of Water could sometimes be found within volcanos and the deep ocean respectively. Vortices to the Plane of Water could also occur in deep underground lakes or as free-standing maelstroms in the ocean.
+
+Elemental vortices to the Elemental Plane of Earth only occurred among large concentrations of natural stone, such as the heart of a mountain or most commonly underground or deep within the Underdark, typically in areas prone to earthquakes.
+
+Vortices to the Plane of Air could sometimes be found within the highest and windiest mountaintops. They could also be found high up in the atmosphere — these were known as floating vortices.
+
+Some vortices to the planes of primary elements could also be temporary, such as the whirling vortices to the Plane of Air that manifested within the hearts of tornadoes, whirlwinds, and typhoons. Or vortices to the Plane of Fire that manifested within the heart of a vast forest fire.
+Para and Quasi Vortices
+No elemental vortices existed for the Positive Energy plane, the Negative Energy plane, and the Quasi-Elemental Plane of Vacuum. There were believed to be vortices to the various para-elemental and quasi-elemental planes, though unlike vortices to the four primary elements these were believed to only be temporary. For example, a raging thunderstorm might have an elemental vortex to the Quasi-Elemental Plane of Lightning at its center.
+
+Some vortices for the non-primary elemental planes occurred in more permanent structures, such as vortices to the Fountains of Creation occurring in volcanoes. A vortex to the Quasi-Elemental Plane of Radiance might be found within a crystal sphere's sun. And a vortex to the Frostfell might be found in a world's arctic poles.
+
+Occasionally vortices to the Quasi-Elemental Planes would overwhelm and usurp portals to the primary elemental planes. Magma and Ash vortices in the cases of vortices Plane of Fire. Dust and Minerals in the case of underground vortices to the Plane of Earth. Salt and Ooze vortices in the case of vortices to the Plane of Water. And finally, vortices to the Plane of Steam sometimes usurped vortices to the Plane of Air.
+Inner-Elemental Vortices
+A type of elemental vortex that occurred on elemental planes and lead to others, except for directly opposing elemental planes. For instance, there was no elemental vortex between the Plane of Fire and the Plane of Water. Unlike the vortices that manifested on the Prime Material plane, these didn't rely on an extreme amount of their associated element. And typically only one or two of these existed per elemental plane.
+
+Inter-elemental vortices had a similar appearance to elemental pockets, being intense and volatile concentrations of elemental substances that actively drew material from one plane into another, albeit with a slight "whirlpool" effect. The substance on one side always corresponded to the foreign element on their respective side.
+
+History
+Following the Spellplague, many magma beasts made their way through elemental vortices and planar rifts into volcanic regions that were on Toril and within its Underdark, such as Mount Hotenow.
+
+Notable Users
+ Dao were known to use underground vortices connected to the Plane of Earth to travel into the Underdark and do business with the races therein.
+ All types of genie used these inner-elemental vortices to travel between the courts of other genies located on the elemental planes.
+ Salamanders sometimes used elemental vortices to launch slavetaking raids on the Prime Material.
+
+Notable Locations
+ Pale River
+ Iron Crucible
+ Bubble Net/Waterspout
+ Jabal Turab
+
+Rumors & Legends
+It was theorized that if an elemental vortex to the Positive Energy plane occurred it would result in a massive surge of such energy, much like a star. While if an elemental vortex to the Negative Energy plane occurred, it was theorized that it would suck in all surrounding substances.
+
+Appendix
+References
+
+---
+
+## Elminster's Choice
+
+Elminster's Choice was a popular beer exported from Immersea in Cormyr and sold through Aurora's Whole Realms Catalogue in the mid-to-late 14 century DR. The name was also attributed to a certain wine.The name "Elminster's Choice" has been applied to both a beer and a wine at various points, and it is unclear if these are two separate, coincidentally named drinks or if the beer is misidentified as a wine. This article covers both types, with the rarer wine noted in the History section.
+
+Description
+This dark beer had a thick head and was clouded with yeast. It had a smokey aftertaste due to its bitterness.
+
+Availability
+The beer was brewed at the Five Fine Fish inn in Immersea, Cormyr. Batches were prepared almost every day and the inn stunk of the process.
+
+Elminster's Choice could be purchased from Aurora's in the following containers:
+ Hand keg: 14 cp
+ Cask: 8 sp
+ Barrel: 2 gp
+ Butt: 7 gp
+ Tun: 15 gp
+
+Elminster's Choice was served at the Friendly Arm inn for a single gold coin.
+
+Reputation
+One of the more popular beers supplied by Aurora's, it was favored by adventurers active around the Wyvernwater in Cormyr.
+
+It remained unclear if Elminster actually favored this beer (he was reputed to drink anything that could be counted as alcohol) or if it was a simple marketing ploy by those who brewed it. In fact, in a footnote in Volo's Guide to Cormyr, Elminster claimed he located the man who took his name for the beer and threatened, and possibly even punished, him with being transformed into a stone toadstool for eighty years. After this, he forgave him and enlisted his aid in certain matters. Elminster called it "second-rate" and an insult. Revising his opinion in later years, he confided to Gerana on the world of Adenthia that "'tis not really my kind of drink at all."
+
+History
+Elminster's Choice was served at a reception for the Merchants' Guild held in the Sheaf of Wheat inn in Ghars, Cormyr, on Eleint 19 in the . Jasper suspected Mayor Tobald had drunk several mugs of either Elminster's Choice or Suzale.
+
+Circa 1368 DR, the gnome bard Heino kept a stock of the Elminster's Choice wine and spent much of it on getting information out of a minor Thayan official.
+
+On the world of Adenthia, whilst celebrating defeating a returned Sammaster with a local adventurer named Gerana at the Wolf Keep tavern, Elminster declared a wine "the true Elminster's Choice".
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Elturian Grey
+
+Elturian Grey  was a strong-tasting and smelling sheep-milk cheese crafted in Elturel in the Western Heartlands, also known as stonework or dwarfcheese. It was also sold through Aurora's Whole Realms Catalogue.
+
+Description
+This heavy whitish cheese was streaked with black or blue veins,  giving it the appearance of stone, hence its other names. Despite its appearance and unappetizing nicknames, this pungent cheese was a tasty treat. Elturian Grey was fermented using a certain species of mold that grew on grass and clover. The fermentation process took months but it left the cheese stable and able to be kept in open air without spoilage for almost a year. Matured cheese had a pungent aroma reminiscent of vinegar and taste of hot-sauce-fried ham and pineapple.
+
+The name dwarfcheese was given to it due to almost all dwarves's love for Elturian Grey. Many stout folk hoarded this cheese and endlessly praise it taste on words and writing.
+
+History
+The premier cheese of Elturel in the mid–14 century DR, Aurora not only solid it via Aurora's Emporium but kept some in her own larder. She enjoyed surprising it on guests who complained about Elturel and other trade cities, and its reputation spread.
+
+By the early 1360s DR, these other trade cities were producing imitations, often made from cow's milk and with close names like "Elturel Grey" or "Elturel Gray". In 1365 DR, Sir Rivaldo kept an assortment of fine cheeses, including Elturian gray, when he traveled in a coach along the Trade Way from the Way Inn to Waterdeep. Circa 1366 DR, "Elturian gray" was being sold in neighboring Scornubel, where it was quite popular among the cheese selection at the Far Anchor inn, but Volothamp Geddarm remarked he didn't see much of it when in Elturel. By 1370 DR, "Elturian Gray" was available at The Rising Moon inn in Highmoon, Deepingdale, among its wide selection of strong cheeses.Given the variations in phrasing, spelling, and case of these cheeses in the sources, it is difficult to know which are genuine and which are counterfeit.
+
+Prices
+The original Elturian Grey could be purchased from Aurora's in the following sizes:
+ Loaf, 1 pound (0.45 kilograms) for 6 sp
+
+Appendix
+Notes
+
+See Also
+Beregost Blue
+Appearances
+
+References
+
+---
+
+## Elemental Evil
+
+Elemental Evil was a Dungeons & Dragons storyline that began in March 2015 and ran through August 2015. It was followed by the Rage of Demons storyline.
+
+Description
+The Wizards of the Coast provided the following introduction to Elemental Evil:
+
+Elemental Evil products
+Adventures
+Princes of the Apocalypse
+
+Games
+Neverwinter: Elemental Evil (expansion for Neverwinter)
+Temple of Elemental Evil Adventure System Board Game
+
+Adventurers League
+The Elemental Evil storyline modules were based in Mulmaster.
+
+DDEX2-1 City of Danger
+DDEX2-2 Embers of Elmwood
+DDEX2-3 The Drowned Tower
+DDEX2-4 Mayhem in the Earthspur Mines
+DDEX2-5 Flames of Kythorn
+DDEX2-6 Breath of the Yellow Rose
+DDEX2-7 Bounty in the Bog
+DDEX2-8 Foulness Beneath Mulmaster
+DDEX2-9 Eye of the Tempest
+DDEX2-10 Cloaks and Shadows
+DDEX2-11 Oubliette of Fort Iron
+DDEX2-12 Dark Rites at Fort Dalton
+DDEX2-13 The Howling Void
+DDEX2-14 The Sword of Selfaril
+DDEX2-15 Black Heart of Vengeance
+DDEX2-16 Boltsmelter's Book
+DDEP2 Mulmaster Undone (convention exclusive)
+
+Other
+ Elemental Evil Booster miniatures
+
+Appendix
+Further Reading
+
+External links
+ Adventurers League: Elemental Evil Adventures
+
+References
+
+---
+
+## Elvran Torchtower
+
+Elvran Torchtower was a human noble from Cormyr.
+
+Relationships
+He was from the noble house of Torchtower.
+
+Description
+Elvran was described as tall and quiet.
+
+History
+Around 1371 DR, Elvran served with the Purple Dragons as a Lionar and showed a lot of potential. It was speculated that he could have become one of the youngest battlemasters of Cormyr.
+
+Appendix
+References
+
+---
+
+## Elemental Evil Player's Companion
+
+Elemental Evil Player's Companion is a supplement for Princes of the Apocalypse. It was designed for the 5th edition of Dungeons & Dragons, set in the Forgotten Realms, and released in 2015.
+
+Appendix
+External Links
+
+ Elemental Evil Player's Companion free download at WOTC.
+
+Connections
+
+---
+
+## Elden Mymn
+
+Elden Mymn was a priest of Kelemvor in Phlan in 1489 DR.
+
+Personality
+Elden was a patient and quiet individual. He preferred to stay in the background. He was very devoted to his god. Knowing that he had just started his path, Elden was deferential to his seniors.
+
+History
+Elden was a young acolyte at the Temple of Kelemvor in Phlan. In 1489 DR, he was instructed to care for the madman Yip.
+
+Survived the Vorgansharax's coup he went in exile. Around 1492 DR Mymm joined the reclamation army of Jhessail Greycastle with the objective of found the body of his master Yovir Glandon. However Glandon somehow, likely with the help of the Dark Powers of Ravenloft, had risen as vampire and only thank of some adventurers Mymm gave final peace to Glandon.
+
+Appendix
+Appearances
+ Shadows over the Moonsea
+ Reclamation of Phlan
+
+References
+
+---
+
+## Elisande
+
+Elisande  was a young girl in the Moonsea in the late 15 century DR.
+
+History
+Elisande lived in a small village on an isle not too far from Phlan. She lived with her parents until they both died of illness. From that day on, Elisande waited for an opportunity to leave the village.
+
+So when an adventuring party arrived in the village investigating rumors of dracoliches and ghost ships, she tried by all means to befriend them.
+
+She moved to Phlan until the coup of the Cult of the Dragon took the city. After she escaped from Phlan, Elisande found a place to stay at Mulmaster's Underdark outpost of Fort Iron. Here she was possibly involved in another adventure that same year.
+
+Elisande briefly attended a celebration for Mielikki in the village of Elventree circa 1486 DR.
+
+Later, Elisande was inside a passage to the upperdark near the village of the Stop.
+
+Later, in Sporedome, Elisande joined in the planning of the assault on Maerimydra.
+
+At the Undying Temple, Elisande helped stop Graz'zt's ritual to resist Vizeran DeVir's spell and was revealed to be a Chosen of Cyric.
+
+Personality
+Elisande was always fascinated with the world outside the village. Unlike her fellow villagers, she hoped to someday leave. She acted cordially with outsiders, asking for all kinds of information about the world.
+
+Relationship
+Elisande always traveled with a blind goat.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ellison Berenger
+
+Ellison Berenger was a sorcerer member of the Cult of the Dragon and a scribe of Mantor's Library in Phlan in 1489 DR.
+
+History
+Ellison was sent by his masters to infiltrate Mantor's Library, together with fellow cultists Tibeem and Spernik, who had another mission. Ellison's mission was to recover lore about the Pool of Radiance under Valjevo Castle. He finally identified three books of interest and stole them from their owners. However, in escaping Phlan, he suffered so many injuries that he came close to death.
+
+After he escaped from Phlan, he met with the black dragon wyrmling Rythnax in his lair. However, they were confronted by an adventuring party hired to recover the stolen books. In the fighting, Ellison was captured.
+
+After Vorgansharax's coup, Ellison severed his ties with the Cult of Dragon and tried to find a way to escape the city.
+
+Personality
+Ellison believed himself to be a descendant of one of Phlan's noble houses and for this reason accepted the mission to Mantor's Library so he could research this.
+
+He despised Rythnax.
+
+Ellison was an intelligent and arrogant individual but not evil. He focused only on himself but still had a sense of honor and a good memory.
+
+Appendix
+Appearances
+ The Scroll Thief
+ Escape from Phlan
+
+References
+
+---
+
+## Eldkin Agetul
+
+Eldkin Agetul was a guard just before the Tyranny of Dragons.
+
+Personality
+Eldkin was a perfectionist and wanted all to know this.
+
+History
+Around 1489 DR, as she had done many times before, Eldkin acted as guard for a great caravan. Unknown to her, this one was full of Cult of the Dragon agents transporting treasures for the Hoard of the Dragon Queen.
+
+Appendix
+Appearances
+ Hoard of the Dragon Queen
+
+References
+
+---
+
+## Elveswatch
+
+Elveswatch was a small city located in the Forests of Amtar in Dambrath.
+
+Geopgraphy
+The city was located along the southeastern fringes of the great forest. Elveswatch experienced more rainfall than any other settlement in Dambrath.
+
+Activities
+Most of the famed bluewood of Amtar moved through Elveswatch on its way to the rest of Dambrath.
+
+The people of the city had to remain vigilant for the attacks from the elves who lived in the forest. The elves hoped that their attacks would dissuade deforestation, but the attacks did not hinder the bluewood enterprise.
+
+Armed Forces
+Elveswatch boasted a fighting force of 1,000 infantrymen, 500 cavalry, and 500 gnoll mercenaries.
+
+Inhabitants
+Five thousand transients populated Elveswatch. The chance of killing surface elves brought many drow to the city, more so than any other city in Dambrath. Because of this, Lolth, and not Loviatar had the primary temple within the city.
+
+Appendix
+References
+
+---
+
+## Eldras Tantur
+
+Eldras Tantur was the blacksmith of Red Larch during the Elemental Evil crisis of 1491 DR.
+
+Activities
+Eldras managed the village's smithy with his son and daughters over a decade and half. They very rarely emerged from their forge. However, he was considered an opinion setter in town.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+
+References
+
+---
+
+## Elak Dornen
+
+Elak Dornen was a shopkeeper in Red Larch and the informal leader of the Believers during the Elemental Evil crisis.
+
+Personality
+He was a stern and inflexible man, and he enjoyed the power he gained from bending others to his side. Elak dreamed of a day when he and the other Believers could openly take power
+
+Activities
+Elak ran a shop. More importantly, he was a longstanding member of the Believers, often decisive in questions about how to direct the village's businesses and who was worthy to join the group.
+
+History
+In 1491 DR, Elak was the first to be seduced by the whispers of Larrakh of the Cult of Black Earth. Later, fellow Believers Ilmeth Waelvur, Marlandro Gaelkur, and Albaeri Mellikho killed some people in order to protect the secret of the Believers. When some adventurers uncovered them, the Believers were ruined and Elak most likely left the town.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+
+References
+
+---
+
+## Ellardin Darovik
+
+Ellardin Darovik was the priest of Goldenfields and a member of the Emerald Enclave in 1491 DR.
+
+Activities
+The priest managed the largest walled temple-farm to Chauntea in the Dessarin Valley.
+
+Personality
+Ellardin was a reserved but generous man who disliked confrontation.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+ Storm King's Thunder
+
+References
+
+---
+
+## Elizar Dryflagon
+
+Elizar Dryflagon was a high-ranking member of the Cult of the Elemental Flame at the Scarlet Moon Hall.
+
+Description
+An older male human, Elizar customarily wore robes.
+
+Possessions
+Elizar wielded a Dagger +1 and carried a pipe through which he could summon four smoke mephits.
+
+History
+Elizar was once a druid until he turned to the worship of Imix. Soon he became one of the leaders of the Eternal Flame.
+
+In 1491 DR during the Elemental Evil crisis, Elizar and his minions, posing as the obscure (and fictitious) Circle of the Scarlet Moon druid circle, set up camp at Scarlet Moon Hall and called for help in performing the Rite of the Wicker Giant in order to restore the balance of nature in the troubled region, or so he claimed.
+
+At last, Elizar was confronted and defeated by some adventurers.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+
+References
+
+---
+
+## Elisa Nettlebee
+
+Elisa Nettlebee was the only daughter of Bertram Nettlebee during the Elemental Evil crisis.
+
+Personality
+Elisa had inherited her mother's personality. She greatly disliked her grandfather and his old way of life.
+
+History
+In 1491 DR, she was in the family ranch and welcomed the adventurers whom her father and grandfather secretly wanted to entrap.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+
+References
+
+---
+
+## Eldeth Feldrun
+
+Eldeth Feldrun was a shield dwarf scout who was made a prisoner of the drow during the late 1480s DR.
+
+History
+Eldeth lived with her family in Gauntlgrym, where she worked as a scout.
+
+In the late 1480s DR, Eldeth was captured by the drow slavers of Velkynvelve and had been attempting to return home.
+
+Personality
+The dwarf was high-spirited, defiant and self-sacrificing, and she had great pride in her heritage and in her people's recent reclamation of Gauntlgrym. She was also stubborn and hated drow and other "corrupt dark dwellers" like derro and duergar.
+
+Appendix
+Appearances
+Adventures
+Out of the Abyss
+Video Games
+Idle Champions of the Forgotten Realms
+Gamebooks
+Escape the Underdark
+
+References
+
+---
+
+## Elminster's effulgent epuration
+
+Elminster's effulgent epuration was an arcane abjuration spell that created a number of floating spheres that protected an individual from targeted hostile magic.
+
+Effects
+This spell had a few distinct variations, but all versions produced intangible spheres that floated about the caster or another creature as chosen by the caster, and did not require concentration to maintain. The number of spheres produced was equal to the caster's level. The spheres were about the size of the caster's head, typically  in diameter, and transparent with a silvery hue. They were insubstantial and could not be physically attacked, although one version of the epuration had spheres that could not pass through solid objects or magical forces such as forcecage, while other versions were completely unaffected by physical barriers or magical walls.
+
+The spheres could be moved by the mental direction of the caster up to the range of the spell, which varied widely between versions—anywhere from a minimum  of  to a maximum of  — either independently or as a group, depending on the version. Once out of range, the spheres hovered in place until they absorbed a spell, or until the spell expired.
+
+Whenever an offensive spell or spell-like ability targeted the creature being protected by the epuration, one sphere would disappear, taking the spell's energy with it. However, one version of epuration expended a sphere for every level of the spell or effect that was absorbed. Spell effects that covered an area (such as a fireball) that included a silver sphere were also absorbed, but spells that were already in effect (such as darkness, 15' radius) when a sphere entered the area were not negated. Most abjuration spells and spells that did not target or immediately harm the caster, such as walls, prismatic sphere, or the various Bigby's hand spells, were not affected by the epuration. One version allowed the subject of the spell to choose which effects to negate, but this required some amount of concentration.
+
+For some versions of this spell, a sufficiently powerful dispel magic or an antimagic field could cancel the epuration, but other versions claimed that only spells and spell-like effects from god-like beings could overcome the protection of the spheres.
+
+Components
+This spell required only verbal and somatic components to cast.
+
+History
+A spell very similar to Elminster's effulgent epuration was known to the sun elves of the ancient realm of Siluvanede, between  and . They used it in the creation of the golden orbs of Siluvanede.
+
+This spell was found in a book that was known as "Elminster's traveling spellbook" although the Old Sage was not known to have claimed responsibility for the book or its peculiar habits. Elminster's effulgent epuration was later published in "Volo's Guide to All Things Magical" and became generally known to the magical community although it was rare to find it.
+
+Appendix
+See Also
+ Spelltrap
+Further Reading
+
+References
+
+---
+
+## Elminster's evasion
+
+Elminster's evasion was an arcane evocation spell that transported the mind, soul, and body of the caster to a chosen location in the event of any of six predetermined trigger conditions. Upon arrival, one or two other stored spells were allowed to take effect.
+
+Effects
+There were at least two versions of this spell that differed mainly in the preparation and casting but had very similar effects.
+
+Elminster's evasion was a powerful modification of the contingency spell intended to save the caster from disastrous events as specified by up to six conditions woven into the spell at casting time. The conditions could be specific or general, but they had to be unambiguous. They could be as benign as speaking a cryptic word, or as dire as death. Once triggered, the mind, body, and soul of the caster were all transported to the chosen location and reunited if necessary, thus foiling spells such as magic jar and trap the soul. However, if the caster was dead upon arrival, his or her soul then proceeded to the afterlife from that location. The destination could be on any plane or demiplane that the caster had previously visited. Clothing and other items attached to the body were also transported as long as they weighed no more than 50 lb (23 kg) each.
+
+After evasion deposited the caster at the chosen location, up to two arcane spells that had been stored within the evasion were released as if they had been cast at that moment.
+
+Components
+This complex spell required much preparation and included the casting of other spells, each possibly with their own verbal, somatic, and material components. Thus, the casting time of Elminster's evasion was at least 10 minutes and could be longer depending on the spells being stored within for eventual release. The oldest known version required a jewel valued at 5,000 gp or more and a pint (about half a liter) of the caster's blood. This version caused the caster to lose a small portion of their health, which was not restored until the evasion was triggered.
+
+A newer version required the casting of teleport without errorBecause teleportation transported creatures and items through the Astral plane, spells and magic items that blocked Astral travel could also block Elminster's evasion. in addition to the contingency spells (and all of their components) and some quicksilver, an eyelash of a spell-casting creature such as an ogre mage or ki-rin, and some of the caster's fresh blood. On top of that, the caster had to have an arcane focus in the form of an ivory figurine encrusted with at least 1,500 gp worth of gems, which had to be carried on his or her person for the evasion to work.
+
+History
+Elminster originally invented the spell in order to teleport him into Elminster's Hideout in the planet Coliar in case of need. He permanently had the spell in effect on himself.
+
+This spell was found in a book that was known as "Elminster's traveling spellbook" although the Old Sage was not known to have claimed responsibility for the book or its peculiar habits. Elminster's evasion was later published in "Volo's Guide to All Things Magical" and became generally known to the magical community although it was rare to find it.
+
+Appendix
+See Also
+ Contingency
+ Teleport without error
+Appearances
+Card Games
+Spellfire: Master the Magic
+Notes
+
+References
+
+---
+
+## Elbus Tinfellow
+
+Elbus Tinfellow was a halfling living in the Moonsea in the late 15 century DR.
+
+History
+Elbus was the patriarch of the Tinfellows, a large family of farmers in a valley near Hillsfar. Circa 1486 DR, some corrupt Red Plumes led by Captain Haakon Erlich and the sorcerer Breex Vandermast attacked Elbus's farm, capturing and killing all present. Elbus was captured and destined to go to the Hillsfar Arena. At last after a riot in the Arena Elbus and his family were likely freed by an adventuring party hired by Olisara Lightsong.
+
+Relationship
+Elbus and his family were allies of the Harpers.
+
+Appendix
+Appearances
+ Shackles of Blood
+
+References
+
+---
+
+## Elanil Elassidil
+
+Elanil Elassidil was a famous bard and the Herald of Elventree, holding the office of "Moonsilver" in the mid-to-late 14 century DR.
+
+Personality
+She had a ready wit but a quick temper, and kept abreast of all goings-on in Elventree. Although reticent about speaking with strangers, she had a reputation for honesty.
+
+Elanil was strong and confident in her abilities. She was not afraid to give her opinion on a subject, even when not asked. Usually, Elanil quickly gave historical details to support her opinions against those that did not back their opinions with similar evidence. She was able to calm all situations with a single song. Elanil had great diplomatic skill.
+
+History
+Elanil lived in Elventree and acted as a Herald for the area by 1367 DR.
+
+Circa 1486 DR, she was worried about numerous drow arriving on the surface and, with the help of Seranolla of the Emerald Enclave and Zern Xerkstil, she hired an adventuring party to investigate the matter. From a drow prisoner she captured, Elanil discovered that the drow were fleeing Szith Morcane after a fire giant army from Maerimydra occupied the outpost. The adventurers' mission was to find and free the archmage Solom Ned'razak. Later she hired an adventuring party to face her ancestor Meira Faerenduil, now a ghost, in a false battle while disguised as Netherese in order to give peace to her spirit.
+
+The last experience fully convinced Elanil to support political change inside Hillsfar. After gaining support from Hillsfar's Rogues' Guild, she gathered at the village called the Stop an adventuring party and hired them to infiltrate the First Lord's Midsummer Masquerade ball in order to collect intelligence about the city's leaders.
+
+From that mission, Elanil learned of a trip by the First Lord to Yûlash. However, a patrol of Red Plumes led by Malkyn Grenefeld arrived at Elventree. Elanil escaped to the Plodding Plow, in the Stop, hoping to find someone to trust and tell that vital information. She entrusted an adventuring party with the infiltration and escaped again.
+
+Later, Elanil gathered in Sporedome as many factions as possible in order to plan an assault on Maerimydra to defeat the fire giants for good.
+
+Relationships
+Circa 1486 DR, she was also a member of the Harpers and acted as a diplomat for them.
+
+She was a descendant of Meira Faerenduil, a knight of Myth Drannor.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elkantar Iluim
+
+Elkantar Iluim was the drow companion of Qilué Veladorn in the 14 century DR.
+
+History
+Elkantar was a drow noble who had been sold into slavery by his matron mother because of his rebellious tendencies. He found refuge in the Promenade of the Dark Maiden in Skullport, where he devoted himself to Eilistraee and her Chosen Qiluè. He became attracted to Qiluè and became her companion. They gave birth to a daughter, Ysolde Veladorn.
+
+Elkantar become the leader of the Protectors of the Song, the temple guards.
+
+In the, Qiluè agreed to help Liriel Baenre against the Vhaeraun-worshiping Dragon's Hoard, sending her warriors, including Elkantar, to attack their headquarters. However, during the fighting, despite their victory, Gorlist killed Elkantar.
+
+Appendix
+References
+
+---
+
+## Elden Vargas
+
+Elden Vargas was a businessman in Neverwinter.
+
+History
+Elden was, before the Spellplague a War Wizard of Cormyr. However, to augment his psychic powers he entered into a pact with Asmodeus and when his superior discovered this they attacked Elden. In the battle, Karis, the Rashemi witch wife of Elden, lost her mind, so Elden started planning how cure her.
+
+Soon, he became a successful trader on the Sword Coast, but also joined forces with the Ashmadai cult. In 1479 DR, Elden arrived in Neverwinter with Karis but his wife suffered a collapse and, thanks to Mordai Vell, Elden took her to Helm's Hold. However, Mordai used the situation to control the wizard. Elden started having his minions kidnap people in order to conduct experiments on them to one day cure Karis. However, the experiments produced only a number of blabbering idiots. Elden also tried to frame Mordai's Ashmadai for the kidnappings. However Mordai's Ashmadai identified him and sent a team led by a devil to kill him. Elden survived only thanks to an adventuring party that was investigating the kidnappers.
+
+At last, he found a possible cure for Karis and invaded Helm's Hold with his mind-thrall minions, including Chartilifax, to retake her. He performed a ritual on top of Helm's Cathedral in order to cure Karis by absorbing the storm into her. He was defeated by the adventurers however.
+
+Personality
+Elden had a natural charm and a ruthless business acumen.
+
+Appendix
+
+References
+
+---
+
+## Eldath's Mount
+
+Eldath's Mount was a peak in the Troll Mountains of Amn at which the great Green Goddess Falls was located. The falls were a part of the River Rimril, and the Duskwood Dell into which the waters flowed was a sacred site to the goddess Eldath.
+
+Appendix
+Reference
+
+Connections
+
+---
+
+## Elrem
+
+Elrem the Wise  was the powerful shaman of the Great Worm Tribe of Uthgardt barbarians in the 14 century DR.
+
+Description
+He was described as a gigantic bat-winged snake with the head of a red dragon, the "great worm" form that all powerful shamans of Uthgar were capable of assuming, but in his normal form was an Uthgardt human.
+
+Abilities
+Being a shaman of Uthgar, Elrem was capable of shapechanging like a druid into the form of his tribe's beast totem, the Great Worm. While in this form he possessed a number of psionic powers, including astral projection, clairvoyance, dimension walk, empathy, precognition,The North: Guide to the Savage Frontier and Powers & Pantheons both state that the "great worm" form confers a number of psionic powers to Uthgar shamans. The powers listed are nearly the same as those that were originally detailed for Elrem back in The Savage Frontier – animal telepathy being the one exception, as it was the only power not to make the transition from 1 to 2 edition AD&D. From this it can be inferred that Elrem's psionic powers are not unique to him. and animal telepathy.
+
+Activities
+He resided permanently at the Great Worm Tribe's ancestor mound, the Great Worm Cavern. Much was told of the treasure collected over the years, offered as gifts upon which Elrem rested.
+
+He seemed to only rouse himself for the annual runemeet, to lead the tribe's celebrations, and to prophesize the future. Through his leadership, the tribe chose evil creatures as their spiritual enemies.
+
+History
+When Elrem transformed into the great worm form it came as a shock and a mystery to the Great Worm Tribe as to what had occured. They believed that, either through pious devotion or the prayers of his followers, Elrem had became an embodiment of the totem spirit of his tribe, perhaps even becoming the deity himself. Some legends spread that he was a son of Uthgar himself and that his beast powers were a gift from his father.
+
+In the, an adventuring company sponsored by the Zhentarim broke into the Great Worm Cavern and slew Elrem the Wise with the use of foul magics. His fellow tribesmen descended upon the evil adventurers, seeking to avenge their shaman. Three of the adventurers managed to escape with teleportation magic, taking a significant chunk of treasure with them.
+
+Elrem's successor, Themrin, would claim to the rest of the Great Worm Tribe that Elrem's spirit had spoken with him and promised that he would continue to watch over the tribe now that his mortal form was destroyed". Scales from Elrem's would go on to be made into two sets of armor that would be worn by Themrin and the chieftain of the Great Worm Tribe, Gweshen Talistars. However, both would deny having made the armor, whilst Themrin would additionally claim that this use of his body was ordained from a dream vision. It would go on to be common consensus among the Great Worm Tribe that the suits of armor had simply appeared one day outside the Great Worm Cavern.
+
+The tragic death of Elrem and the appearance of the scale armor would later be recounted for the wider public of Faerûn in the pages of History of the North's seventh volume.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Elighaer Teushandor
+
+Elighaer Teushandor was one of the leaders of the Tall Trees druidic order and an initiate of the 11th Circle of Forestarm of the church of Mielikki.
+
+Appendix
+
+References
+
+---
+
+## Elemental vermin
+
+Elemental vermin were small natives of the elemental planes but could also be found in Zakhara, the Land of Fate.
+
+They were simple pests on their native elemental planes, but carried the potential for wreaking havoc in Zakhara.
+
+Description
+There were four varieties of elemental vermin, one for each of the four primary elements:
+
+ Dusters (Air)
+ Crawlers (Earth)
+ Flamelings (Fire)
+ Spitters (Water)
+
+Habitat
+These creatures entered Zakhara through magical gates. They were always found in areas that presented high concentrations of their native element or areas where genies and elementals were more common.
+
+They could often be found lurking around the dock areas and warehouses of Huzuz.
+
+Ecology
+Elemental vermin were scavengers on their home planes. However, within Zakhara they consumed things that were prized by civilized society including perfume, gems, silk, and wine.
+
+Appendix
+See Also
+ Grue
+
+References
+
+---
+
+## Elven Port
+
+Elven Port was a flourishing elven city that stood at the edges of the High Forest.
+
+Description
+Its piers were wetted by the river Delimbiyr. Elven Port was long one of the most accessible ruins of old Earlann and it was visited by several groups of adventurers. For many years, the ruins of Elven Port had provided cover to marauders and a few predators. However, by 1366 DR, the old tower of the town's lord was occupied by a powerful group of daemonfey, led by Vaerilmor Floshin. Vaerilmor and his followers were luring elven adventurers to corrupt them with their foul magic.
+
+History
+Between 1366 DR and 1372 DR, all the adventurers who came across this place disappeared without leaving any traces.
+
+Appendix
+References
+
+---
+
+## Elemental aura (spell)
+
+Elemental aura was a powerful abjuration and evocation spell that protected the caster against one specific element designated during casting and provided certain powers related to the element. This aura moved with the caster.
+
+Effect
+Specialists in one element only used the version fitting to their element.
+
+Air
+An air aura protected the recipient against dangerous gases and air attacks as well as attacks from non-magical missile weapons, and kept creatures from the Elemental Plane of Air at bay. It also provided the ability to fly. An air aura was whitish in color.
+
+Earth
+An earth aura protected the recipient against the attacks from non-magical metal- or stone-weapons, and kept creatures from the Elemental Plane of Earth at bay. It also allowed one to move comfortably through earth, and create a wall of stone. An earth aura was grayish in color.
+
+Fire
+A fire aura protected the recipient against fire, both mundane and magical, and kept creatures from the Elemental Plane of Fire at bay. It also allowed one to move comfortably through fire, and create a wall of fire. A fire aura was reddish in color.
+
+Water
+A water aura protected the recipient against attacks using cold or water, and kept creatures from the Elemental Plane of Water at bay. It also allowed one to move comfortably through water, and create a wall of ice. A water aura was blueish in color.
+
+Wood
+Wu jen from Kara-Tur, based on their different world view, knew of a wood aura. It protected the recipient against weapons made of wood, as well as against plants. It also allowed one to move comfortably through vegetation, speak with plants, and heal wounds while having access to soil, sun and water.
+
+Components
+This spell required verbal components only.
+
+History
+This spell was not of Netherese origin. In Zakhara, elemental aura was known but not common in the magical community by 1367 DR.
+
+Users
+Employed by elementalists, and, more rarely, generalist wizards, elemental aura was also granted to the most powerful sonnlinor (priests of Moradin).
+
+The mysterious sea mage from Huzuz known as the White Agate was known to use elemental aura.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Elemental guide
+
+Elemental guide was a spell used commonly in Zakhara, the Land of Fate. This spell was only usable by wizards.
+
+Effects
+This spell resembled an elemental version of the unseen servant spell. Four distinct versions of this spell existed—one for each element. Each version needed to be memorized separately from the others to cast. The summoned guide took different forms depending on which element was selected during the casting, appearing as either a small fiery sprite, a pet rock, a small puddle, or a dust devil.
+
+The summoned elemental guide prevented the caster from getting lost while traveling on the guide's native elemental plane. Successfully dispelling the guide would instantly destroy it. The guide would also disappear if sent more than 30 feet (9 m) from the caster. All of the elemental guides were physically weak creatures susceptible to a wide array of physical harm capable of destroying them.
+
+Components
+In addition to verbal and somatic components, this spell required a golden ball and mallet to cast. The ball and mallet were reusable for future castings. Since this spell could be cast for each of the four elements, a small amount of material for the desired element was also required. These could include a small lit candle, a handful of dust, vial of water, etc.
+
+Appendix
+References
+
+---
+
+## Elemental form
+
+Elemental form was a spell used commonly in Zakhara, the Land of Fate. This spell was only usable by wizards.
+
+Effects
+The elemental form spell was available in four different varieties, one for each element. Each variety needed to be memorized separately in order to cast.
+
+This spell enabled the caster to move freely within the environment of the selected element. Additionally, the spell granted martial attacks based upon the element. While in an elemental form, the caster could only be harmed by magical weapons.
+
+Components
+In addition to verbal and somatic components, this spell required a small vial of the essence of the appropriate elemental to cast. These essences could be researched and distilled, or acquired from genies through shrewd bargaining.
+
+Appendix
+References
+
+---
+
+## Elder
+
+The Elder was a respected priest of the Faceless God and the governor of the Enlightened Ring province in the World Pillar Mountains in 1367 DR.
+
+Activities
+As with the other members of the Seven Sages, the Elder was an appointed governor of one of the provinces of the Yikarian Empire. He kept most of his slaves, who were predominantly dwarves, deep underground mining for riches. Many never saw the light of day.
+
+Rumors & Legends
+Many yikarians believed the Elder was the first son of the Faceless God.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Elf disguise
+
+Elf disguise was an illusion spell contained in the Obsul Ssussun. It was also called golhydarthiir, meaning "surface-elf disguise", but included also the option to disguise the caster as a drow.
+
+Description
+The spell worked like the disguise self spell but with several limitations.
+
+As the name suggested, one could only disguise oneself as an elf and even then the disguise was limited to physical characteristics like skin, eye, and hair color, in other words to be effectively disguised one needed the physical build of an elf in the first place. Even if one did have the necessary stature, the combination of the characteristics had to be one found in one single elven subrace. For example, while it was possible for a drow to take the skin, eye, and hair color of a sun elf, it was not possible for the drow to take the skin tone of a moon elf and the hair color of a sun elf with the eye color of a drow.
+
+Unlike the disguise self spell, the spell didn't have the option to make one appear taller or smaller. Thus, it was entirely possible to cause suspicion if a very small drow was disguised as an elf or a very tall elf was disguised as a drow.
+
+For all these limitations, the spell had one huge advantage over the disguise self spell and that was a duration six times that of the disguise self spell.
+
+Components
+Elf disguise used verbal and somatic components. The divine version also required a divine focus like a holy symbol.
+
+Appendix
+References
+
+---
+
+## Elorshin Floshin
+
+Elorshin Floshin was one of the sons of Elorfindar Floshin in Daggerford around 1370 DR.
+
+Activities
+Elorshin took care of the shrine to Tyr.
+
+Appendix
+
+References
+
+---
+
+## Eledric Omanrys
+
+Eledric Omanrys was the mayor of Halagard in Halruaa in 1373 DR.
+
+Activities
+Eledric was an accomplished evoker. He was also a leading Elder and member of the Council of Elders.
+
+He always had around him many apprentices and assistants. Despite being a very severe master, many tried to become his apprentices.
+
+Appendix
+References
+
+---
+
+## Elephant drum
+
+The elephant drum was a large instrument that originated in Zakhara, the Land of Fate.
+
+Description
+Elephant drums resembled darbukkahs but measured up to 6 feet in height. These large drums were mounted on either side of an elephant, hence their name. A rider would strike the drums with large mallets to produce a deep tone.
+
+History
+The elephant drums were most famous because of their use during parades by the Mad Caliph of Afyal.
+
+Appendix
+References
+
+---
+
+## Eluraunt Malabrak
+
+Eluraunt Malabrak was a Shadovar arcanist of Thultanthar in the late 15 century DR.
+
+History
+Eluraunt was one of the few Shadovar to survive the fall of Thultanthar in the .
+
+He came to serve the Three. In Tarsakh of the, he was observed from afar to be in the Oldspires mansion in Cormyr when Tabra, on her crusade against all surviving Shadovar arcanists, found him and killed Eluraunt.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Eldrinn Elpragh
+
+Eldrinn Elpragh was a boy drow wizard from Sshamath.
+
+History
+Eldrinn was a member in the College of Divination of his city and the son of Seldszar Elpragh.
+
+In, Eldrinn went to the High Moor in search of artifacts, with a soldier as escort.
+
+There he found a kiira, but they were attacked by monsters. The soldier died and Eldrinn was near death when Q'arlynd Melarn arrived, who wanted admittance in Sshamath.
+
+In, Eldrinn was one of the apprentice of Q'arlyn that was about to start his new College of Ancient Arcana.
+
+In, together with his fellow, his father and the Masters Urlryn Khalazza and Masoj Dhuunyl he helped Q'Arlynd when he engineered (with the aid of Eilistraee) the ritual that transformed all drow not tainted by Wendonai's blood into brown-skinned dark elves. After they all relocated to Rhymanthiin.
+
+Appendix
+Appearances
+Novels
+ Storm of the Dead
+
+References
+
+---
+
+## Ellard Gauntur
+
+Ellard Gauntur was a War Wizard in Suzail during the late 15 century DR.
+
+Description
+He was young.
+
+Personality
+The young man was self-important, and zealous.
+
+Abilities
+The self-important man was rather inexperienced.
+
+Relationships
+The inexperienced man was assigned five Purple Dragons as his retinue for his last mission: Ilstan Narbrace, Unstrarr Troon, Gorloun Hethel, Berent Thallowood and Mandron Saldar.
+
+History
+Around 1479 DR, five Dragons acted as escorts for the War Wizard of Cormyr Ellard Gauntur in his pursuit of the renegade Rorskryn Mreldrake. They caught up to Rorskryn as he used a portal to Marsember, while in the shape of a woman; Ellard Gauntur figured out that it was Rorskryn transformed from a stain on her clothes, and then got pushed by Ilstan Narbrace through the portal for his trouble.
+
+Then the evil vampire archmage Manshoon sent the death knight Targrael after them to hide Mreldrake's trail. Targrael found Hethel at the top of the King's Tower in Marsember; he was at the wizards' armory, asking if Ilstan Narbrace, whom Targrael had just killed, had noticed anything amiss. She slashed his throat as he peeked his head out of the door.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elminster's tower
+
+Elminster's tower was the abode of perhaps the most famous, or infamous, spellcaster throughout Toril—Elminster Aumar.
+
+Location
+Elminster's tower was found in the village of Shadowdale. It sat just south of the Old Skull near a small pond.
+
+Structure
+The tower stood only three stories tall. Kudzu vines covered nearly every one of the field stones used to form the structure. Numerous lean-tos and shacks had been added to the exterior to accommodate Elminster's growing collection of items both magical and mundane. The front of the tower was adorned with a simple wooden door.
+
+Interior
+The first floor of the tower held a simple kitchen and office. A spiral staircase led to the second floor, which held Elminster's personal quarters. An even smaller room was located on the third floor and was sometimes used as a work room for guests.
+
+Defenses
+Though no one knew the extent of magical protection placed about the tower, it was wise to assume that Elminster's home was safe from unwanted intrusion.
+
+History
+Elminster built the squat tower sometime during the mid–9 century DR.
+
+Inhabitants
+In addition to the mighty mage, Elminster's scribe and personal assistant, Lhaeo, was the only other nearly permanent resident. Elminster did, however, entertain visitors from time to time.
+
+Narm Tamaraith and Shandril sheltered at the tower after surviving an attack in the Tower of Ashaba.
+
+Appendix
+Appearances
+Azure Bonds
+Converging Lines
+Spellfire
+Shadowdale
+References
+
+---
+
+## Eldur Hawkmantle
+
+Eldur Hawkmantle was a Highknight of Cormyr in the late 15 century DR.
+
+Personality
+He was guardedly irreverent, but brave.
+
+Activities
+He was a Highknight.
+
+Relationships
+The group accompanying Eldur Hawkmantle during his assignment under the Lord Warder included four Purple Dragons, one of which was named as Sir Jephford.
+
+History
+Eldur Hawkmantle accompanied the War Wizard Glathra Barcantle and Lord Warder Vainrence to the chambers beneath Castle Obarskyr in the wake of the disastrous Council of the Dragon of the, which was attacked by a blueflame ghost. At the dungeons, they intended consult with five sages, Orkrash, Garendor, Loagranboydar, Argrant and Wyshbryn, who had been sifting through ancient records to determine if any nobles at the time could have been inherited some secret powers of sorcery, so they might have been control the ghost. He figured that all rather quickly on his own at the slightest hint from Glathra.
+
+However, they found the sages reduced to dust, and magic lingering over them. When Vainrence tried to cast a spell to determine the cause of death, there was an explosion from a booby-trapping contingency. Eldur Hawkmantle managed to survive through quick reflexes, as did another of the Purple Dragons in the retinue.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elden Corrinthal
+
+Elden Corrinthal, usually known as the Oracle, was the head priest of Amaunator at the Abbey of the Rose in Sembia in the late 15 century DR.
+
+Relationships
+He was the son of Abelar Corrinthal and Eltha. In his younger years, he was cared for by the nurse Kaesa.
+
+Elden's best friend in the late 1400s DR was a dog called Browny.
+
+History
+Childhood
+Elden was born in the . His mother Eltha died in childbirth. He lived in Corrinthal Estate near Saerb with his nurse Kaesa when he was four winters old.
+
+However, in the, during the Sembian Civil War some troops sent by Malkur Forrin attacked the estate, killing all inside beside Elden. On Nightal 1, at Abelar's request, Erevis Cale and Drasek Riven infiltrated Forrin's camp and Cale healed Elden and took him to safety.
+
+The Oracle
+In the, Elden, now the Oracle, encouraged Vasen Cale to follow the destiny that Amaunator would show him.
+
+As dictated by a dream sent by his father, the Oracle released the spirits of Elgrin Fau that had kept safe the Abbey for so many years. Later, Sayeed and Zeeahd invaded the Abbey with their pack of spined devils. The Oracle was confronted by Zeeahd. Elden managed to humiliate Zeehad and so he ordered his spined devils to kill Elden. The Oracle was well prepared for his death and died with a smile.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Elmaer Oraun
+
+Elmaer Oraun was a former Sembian war captain who became Lord of Harrowdale in the 1170s or 1180s DR. He vanished during the Battle of Marak's Stile, presumed dead, in which Harrowdale was lost to Halvan the Dark.
+
+Relationships
+Elmaer Oraun had a son, named Erammon Oraun, and a swordmaster, Thaeron.
+
+History
+Originally from Sembia, Elmaer rose to become a well-respected war captain. In the years around 1175–1185 DR (no source confirms the exact year), Elmaer killed Harlstakh "Har-Stag" Kethtor, who was Lord of Harrowdale at the time, to become Lord of Harrowdale for himself.
+
+Described as "around twenty seasons" after gaining power in Harrowdale, the dale was invaded by Halvan the Dark, and the Battle of Marak's Stile ensued, in which Halvan was the victor, and Elmaer vanished, presumed dead, but some said that elven magic prevented his death instead, along with his son Erammon and swordmaster Thaeron, and that reports emerged of Oraun and Thaeron appearing in Elventree fifty years later, escorting an elven "great lady" and not appearing to have aged at all.
+
+It was then reported, during the winter of 1351 DR, by the wizard Arauntan of Selgaunt, that three Sembian brothers who owned a farmstead in Harrowdale, had changed in appearance, despite walking and talking in the same manner. He said that Torstan Morgath looked like Eramonn Oraun, Ulbearn Morgath looked like Elmaer Oraun, and Durthar Morgath looked like swordmaster Thaeron.
+
+In 1358 DR, Ulbaern Morgath (alleged to be Elmaer Oraun) was found dead at the Morgath farmhouse, with a ghostly tall thin elf lady standing over the body.
+
+Appendix
+References
+
+---
+
+## Elister Noggins
+
+Elister Noggins was a rock gnome priest of Gond from Loudwater.
+
+History
+Elister lived in Loudwater as a clockmaker with his friend the clockwork construct Tick Tock.
+
+In the late 1480s or early 1490s DR, he was captured by some stone giant raiders that took him to their thane Kayalithica when Elister said he knew about Loudwater's defenses. The stone giant put him inside a pouch tied to her mithral belt while waiting for her minions to check if the gnome told the truth about his city's defenses.
+
+Appendix
+Appearances
+ Storm King's Thunder
+
+References
+
+---
+
+## Elizzaria Whitehand
+
+Elizzaria Whitehand was the Grand Mairshar of Tasseldale in the mid-14 century DR. She had powers over the defense, foreign relations and the administration of justice within the dale. For the most important matters, she consulted the Tassel Elders.
+
+Description
+Near the end of her reign as Grand Mairshar Elizzaria had gray hair and looked rundown and tired after over a decade of rule. She was known for dealing with others in a blunt and direct manner and very obviously wanted to retire.
+
+Possessions
+Among Elizzaria's belongings were a magical ring that allowed her to change her appearance, though its exact nature or enchantment were unknown. On occasion, she would use it to enjoy a drink at the Royal Flagon in disguise, and listen to the Tassadran of Tegal's Mark.
+
+History
+In her youth, Elizzaria was an adventurer, swordswoman and priestess of Tymora. After a doctrinal dispute with the rest of the church of Tymora, she returned to Tasseldale and joined the Mairshars. Over time, Elizzaria rose up the ranks and, in 1352 DR, was appointed Grand Mairshar by her predecessor.
+
+By 1367 DR, Elizzaria was on the verge of retirement and was training her successor, a cheerful paladin named Erich Inshiland.
+
+Appendix
+
+References
+
+---
+
+## Elkannath (family)
+
+The Elkannath family was a dwarven noble house of Gontal, and part of the Twelvefold.
+
+They held great political influence in Gontal, specially in Gontal City, were common folk believed the Twelvefold families held incontable treasures in their manors and vaults, and were the true power behind the throne. They controlled most of the commerce in Gontal, as well as many illegal activities.
+
+ History
+Haelond was a mining outpost located in the mountains and run by the dwarves of the Elkannath family. In 1469 DR, the members of the Elkannath family had to abandon Haelond when it was overrun by mysterious monsters from the Underdark.
+
+Appendix
+References
+
+---
+
+## Eldargh
+
+Eldargh was a malaugrym in 1358 DR.
+
+History
+In 1358 DR, during the hunt for Elminster Aumar, Eldargh was among the many malaugrym that suddenly attacked El en masse. However, when the Simbul revealed herself to be disguised among them, and started killing his fellows, Eldargh confronted her. This gave most of his brethren time to go back to the Castle of Shadows but at the price of Eldargh's life.
+
+Appendix
+Appearances
+Cloak of Shadows
+
+References
+
+---
+
+## Ellaniath
+
+Ellaniath was the name of Vhaeraun's realm, the drow deity of thievery. It served as his base of operation and as the place of his followers' afterlife.
+
+Location
+Ellaniath was a realm, with―uncharacteristically for a location―a moving history in the physical sense.
+
+It was originally situated in Colothys, the fourth layer of Carceri under the Great Wheel Cosmology. At some point in the 14 century DR, the planes shifted into the World Tree cosmology and Ellaniath was moved into the Demonweb Pits and hang among the strands as one of the baubles.
+After the Silence of Lolth, Lolth yanked the Demonweb Pits out and turned them into an independent realm, Ellaniath returned to Colothys.
+
+Over the course of the Second Sundering, both Vhaeraun and Eilistraee returned: though the new location of their realms was not certain, the planes rearranged under the Great Wheel structure once again.
+
+Features
+Nobody outside of Ellaniath, save the ruling god, had an idea, where the realm was located, apart from the very general knowledge "somewhere on Colothys", and how it looked like. Vhaeraun wiped the memories of those who stumbled on his realm, which was considered a demonstration of his abilities as a thief.
+
+During its time in the Demonweb Pits, it hang at one of the strands of the webs there as a bauble like the other drow deities’ realms.
+
+During the realm’s time on Arvandor, Ellaniath merged with Eilistraee's realm, the drow goddess of moonlight. the it looked like a forest under perpetual night with the half moon being the only source of light. The forest had shining moonstones as decoration, half among them gradually lost their light after Ellaniath's incorporation until they became pitch black.
+
+Function
+Ellaniath was Vhaeraun’s realm. It served as his base of operation.
+
+During the realm’s time on the Demonweb Pits, Vhaeraun spent his time operating outside of his realm in Lolth’s territory. These operations reached from time to time levels, that made it impossible for his mother to endure them. Every time she spent effort against him, he fled into Ellaniath, which served as his hiding place, which proved over and over again as safe.
+
+It was known that the drow deities maintained portals to the Abyss in their realms.
+
+Power over the Realm
+Vhaeraun, as a lesser deity, could not only alter his realm in some fashion like setting temperatures as he liked or fill it with special sensory information, like light, sound and smell, when it came down to sound, he could also make intelligible speech as background sounds in his realm.
+
+Vhaeraun, as a lesser deity, could also control his realm's link to the Astral Plane, effectively controlling how good magical travel worked within his realm.
+
+Effects
+As part of the Demonweb Pits, Ellaniath was divinely morphic, meaning Vhaeraun had an easy causing physical changes in his realm. While there, Ellaniath was mildly chaotic and strongly evil aligned, meaning that the plane itself worked against individuals who followed lawful philosophies by weakening their power of personality, and limiting in general the mental capacities of those who weren't evil. The realm had also a strong faith factor, meaning that those, who didn't follow the Dark Seldarine suffered even more limitations, with followers of the Seldarine suffering a drop in mental capacity more severe than others.
+
+Once the realm was in Carceri, Ellaniath was mildly evil aligned and still divinely morphic.
+
+Inhabitants
+The realm was inhabited by his petitioners, his dead followers' souls, Among the petitioners, the vhaeraths were special in that they retained memories and skills in life and could also leave Ellaniath and weren’t bound to their plane like others.
+
+Like other deities, Vhaeraun changed petitioners of followers who distinguished themselves in service to him into his servitors as a reward, these included demodands (farastu, kelubar, shator); mephits (air,  earth, smoke), shadows, shadow dragons, shadow fiends and yeth hounds.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Eleedra Nathchant
+
+Eleedra Nathchant was a sorceress who held the title of Magister from 407 DR and 409 DR.
+
+Personality
+She was described as sleek and witty and was a passionate manhunter. However, after her early success, she grew lackadaisical and over-confident.
+
+History
+In the, Eleedra laid a trap for the current Magister, Anaslas Raldimmar, whose sport was flying as a giant hawk and hunting crude, domineering warriors. Eleedra adopted the form of a boorish warlord and, when Anaslas swooped to attack, she turned into a giant wasp and let him impale himself on her stinger. Then, before he could recover, she stung him repeatedly and turned again into an argos and ripped him to pieces. With that, Eleedra inherited the position of Magister.
+
+Rather than advancing and acquiring magic, Eleedra's goal was to seduce key rulers along the Sword Coast, ruling from behind the throne through their devotion to her. Any who refused her advances or proved immune to her charms was slain through her magic.
+
+However, her plan was vague and Eleedra grew careless, not devoting enough time to her mastery of magic. This lack of arcane skill proved to be her downfall. In the, she went to the bedchamber of Lord Irgult Wheivron, ruler of Narubel,  for a prearranged tryst but was met by Eldrus Wands, who'd been hired by Irgult to take his form. Eldrus challenged Eleedra and killed her in the ensuing spell-duel. After slaying her, Eldrus inherited the position of Magister.
+
+Appendix
+References
+
+---
+
+## Elven bread
+
+Elven bread, or elf-bread, was a highly nutritional bread produced in Evermeet. It was available for purchase through Aurora's Whole Realms Catalogue.
+
+Description
+Elven bread was a rolled pastry loaf. It was fine-grained, light, and sweet—more so than any other bread available in Faerûn. Besides its fine taste, it was also extremely nourishing, and provided twice the nutritional value of iron rations with only half the weight. It had a very long shelf-life.
+
+Reputation
+Eating too much elven bread was thought to make people fat.
+
+It was also rumored that an Elven bread-based diet played a role in Elminster's longevity.
+
+Appendix
+Appearances
+Novels
+
+Murder in Cormyr • War in Tethyr
+
+References
+
+---
+
+## Eliah Coastoar
+
+Eliah Coastoar was a seller in the Moonsea in the late 15 century DR.
+
+Activities
+Eliah worked at Doctor Jubal's Carnival of Curiosities as a seller of wine and pies.
+
+History
+Circa 1486 DR, Eliah noticed that Jubal had brought four new attractions to the carnival: Madame Darkness, a mirror maze, dancing rats, and some fools.
+
+Appendix
+
+Appearances
+ No Foolish Matter
+
+References
+
+---
+
+## Eldreth Zanderraum
+
+Eldreth Zanderraum was a flameskull mercenary in Skullport in 1379 DR.
+
+Activities
+Eldreth managed the Unyielding Sword mercenary company in Skullport.
+
+History
+Once Eldreth was a wizard who became a free-willed flameskull.
+
+In 1379 DR, the slaver Lanador hired Eldreth and his men to kidnap ten elves from Waterdeep's streets. Unfortunately, unknown to them, one of them was a member of the Agents of the Eye. So the Xanathar supported an adventuring party to enter Lanador's lair. In the central room of the lair were Eldreth and Lanador and in the fighting both were defeated.Derek Myers. "Eyes on The Ball." Dungeon #206. Renton, WA: Wizards of the Coast, September 2012.
+
+Appendix
+Appearances
+Adventures
+Dungeon #206, "Eyes on the Ball"
+References
+
+---
+
+## Ellithral
+
+Ellithral the Golden was a bard in Waterdeep in 1375 DR.
+
+Activities
+Usually Ellithral lived inside the Yawning Portal inn, telling the adventurers all kinds of tales about Undermountain for a small fee.
+
+History
+In 1375 DR, Elithral was charmed by Errya Eltorchul, who ordered him to direct all the adventurers attracted by the dying message of Halaster Blackcloak to a particular spot in the dungeon with the promise of a map of Undermountain.
+
+Personality
+Ellithral gained his nickname both for his charisma and his heritage.
+
+References
+
+---
+
+## Elandra
+
+Elandra of the Flail was a banshee enslaved by Orbakh in Westgate around 1374 DR.
+
+History
+Elandra was a priestess of Hoar who, together with her lover Sir Peregrim, fought the Night Masks. However, during the battle, Peregrim feared for his life and fled. Elandra was captured and killed and Orbakh turned her into a banshee. Elandra was later used to power the Night Masks' secret Human Cattle Factory with Peregrim guarding her as a death knight.
+
+Around 1374 DR, an adventurer in a fight with the Night Masks destroyed Elandra to stop the Cattle Factory.
+
+Appendix
+References
+
+External links
+
+---
+
+## Elaint Marsk
+
+Elaint Marsk was the heir of Marsk House in Melvaunt in 1374 DR.
+
+Activities
+Elaint was undergoing training at the Temple to Oghma in Melvaunt.
+
+History
+In 1374 DR, he was ordained as a cleric at the temple. However, secretly he met with his friends Argens Bruil, Kalman Leiyraghon, Kara Calaudra, and Oreal Nanther. They planned to go on adventure, with the support of the dwarf mercenary Dorn Crownshield.
+
+They found a "treasure map" (in truth, a trap devised by Bremen Leiyraghon) and went to adventure in Thar, only to be captured by the orog Daazlag and his orc minions.
+
+Elaint was imprisoned in a cave in Xûl-Jarak with all his friends. Elaint was waiting for the right time to escape using all his ready spells.
+
+Relationship
+Elaint had a close relationship with Kara Calaudra, a thing that greatly worried his father Peuter Marsk.
+
+Appendix
+
+References
+
+---
+
+## Elasha Evanara
+
+Elasha Evanara was a gold elf cleric of Labelas Enoreth, a member of House Evanara and a librarian in Evermeet in the mid-to-late 14 century DR.
+
+Description
+Elasha was small of stature.
+
+Activities
+Elasha took care of the extensive library of Queen Amlaruil Moonflower.
+
+Personality
+Elasha loved knowledge and books and always possessed an aura of peace, wisdom, and reassurance. Elasha had a deep understanding and adoration for the elven gods and their teachings, acquired after hundreds of years of research and contemplation.
+
+Relationship
+Amlaruil counted Elasha as a true friend. Often, the queen asked for Elasha's wisdom and comfort while she grieved.
+
+Possessions
+The librarian was known to have a dagger.
+
+Appendix
+References
+
+---
+
+## Elmdaerle
+
+Elmdaerle, also known as the Herb Man to many Cormyreans, was a scholar and sage who lived in Arabel, Cormyr in 1367 DR.
+
+Activities
+Elmdaerle was an expert on the local flora and fauna, earning him his nickname. In addition to owning the Falcon's Rest inn, which he rarely visited unless he had a new specimen to mount, the sage was also the guildmaster of the Guild of Naturalists.
+
+History
+One of the most renowned moments in Elmdaerle's life was saving a visiting noble from food poisoning by providing them a botanical antitode.
+
+When Elmdaerle caught wind that Twick, a local Chauntean cleric, had been dispatched by his temple to minister to the Marsh Drovers he summoned him to his home and regaled him with some of the legends surrounding Cormyr's swamplands. By the end of their meeting he requested that the cleric investigate some of those legends while there.
+
+At some point Elmdaerle gave a detailed address on the ecology of stirges to the Guild of Naturalists.
+
+Appendix
+References
+
+---
+
+## Elhazir's Exotica
+
+Elhazir's Exotica was a popular but expensive gift shop found in Arabel, Cormyr in the mid- to late 14 century DR, which sold rare and unusual gifts and treasures.
+
+Location
+The shop was located in the center of the city, across the street from Phaesha's boarding house and Vondor's Shoes and Boots.
+
+Description
+Elhazir's Exotica was filled with elegant display cases, rich carpet, and a professional staff.
+
+Services
+This gift shop had a well-earned reputation for providing rare and wondrous items such as wyvernskull bathtubs, dragonscale shields, and many more curiosities. Many of these rare treasures were purchased directly from adventurers and sold to rich Sembian clientele.
+
+It was known to a select few that Elhazir also sold enchanted daggers and authentic dragon eggs, though these were not on display in the shop and were stored in a locked room. The mage enchanted the daggers himself, usually granting them powers such as feather falling, light, or faerie fire.
+
+Inhabitants
+All of the sales staff of the shop were the daughters of Elhazir. Some of the daughters were talented mages, allowing them to easily spot potential thieves. One of the daughters even had use of the time stop spell for use in dire situations.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elhazir
+
+Elhazir was the proprietor of the wildly popular gift shop named after him, Elhazir's Exotica, in Arabel in 1368 DR.
+
+Activities
+In addition to running the shop with his family, Elhazir personally enchanted weapons for sale in the store. These were usually magical daggers that not only aided the wielder during combat, but often possessed an additional enchantment as well.
+
+Relationships
+Elhazir was the proud father of six daughters, all of whom worked in the shop with him.
+
+Possessions
+As one might expect for someone who owned a shop specializing in exotic goods, Elhazir owned an impressive variety of magical items. These included an earring of spell turning and an ancient Netherese ring of spell storing that included the spells invisibility, fly, wall of force, repulsion as well as a pair of priestly healing spells.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elijah Moonspeak
+
+Elijah Moonspeak was a crazed cleric in Chult.
+
+History
+Elijah and his adventuring party, including his beloved, went to Chult around 1323 DR to search the heart of the jungle jewel. However, a tyrannosaurus attacked them. Elijah escaped while the dinosaur ate his friends. This completely shocked him. From then on, he wandered the jungles, avoiding dinosaurs and goblin patrols and eating lizards. In time,r he descended into madness.
+
+Somehow, in this time, he became devoted to Ubtao and discovered the place where the heart of the jungle lay, in the  village of the Kuro goblins.
+
+Activities
+If Elijah met people from the Heartlands, he quickly believed they were his lost companions ignoring any possible differences. At first, he believed they'd somehow escaped from the tyrannosaurus but afterward came to believe they were instead undead and attacked them.
+
+Appendix
+References
+
+---
+
+## Elsraea Jathlet
+
+Elsraea Jathlet was the matriarch of the Jathlet merchant family in Delzimmer circa the Year of Rogue Dragons, 1373 DR. She inherited the reins of the family business after her husband, "Happy" Jolthur Jathlet, died in a riding accident of dubious cause. However, her position was mostly honorary because Jolthur had many brothers and uncles who were already actively conducting independent business for the family (and themselves) and she was greatly outnumbered in a male-dominated clan.
+
+Appendix
+See Also
+ Dolrur Jathlet
+ Jolthur Jathlet
+ Feldaern Jathlet
+ Malthorn Jathlet
+
+References
+
+---
+
+## Elvolaer Olaundran
+
+Elvolaer Olaundran was a member of the Olaundran merchant family in Delzimmer circa the Year of Rogue Dragons, 1373 DR.
+
+Description
+Elvolaer was a strapping young man that kept his weight somewhat in check by engaging in certain physical activities suited to aristocratic men. As a general rule, he wore fine clothing made from a true gold-colored (never yellow) cloth called shimmerweave, but would dabble in the latest fashion trends now and then.
+
+Personality
+Elvolaer and his brother Sardrin liked to carouse around the city, gambling, drinking, and instigating fist fights or the occasional bar brawl. They were not particularly careful with their money, except when wagering.
+
+Activities
+
+The two brothers were often seen together and had similar interests. They practiced hawking and enjoyed hunting, gambling, and wagering on beast fights and on bouts of mudwrestling slaves.
+
+Relationships
+Elvolaer was the second child and eldest son of Yolaun Olaundran, one of the de facto leaders of the family business. He was the grandson of the patriarch of the clan, "Old" Gauthklaun. After him was his younger brother, Sardrin, and three more younger siblings.
+
+Appendix
+See Also
+ Gauthklaun Olaundran
+ Bezrar Olaundran
+ Yolaun Olaundran
+ Rassalice Olaundran
+ Sardrin Olaundran
+ Dendrand Olaundran
+References
+
+---
+
+## Eloem Elchantragar
+
+Eloem Elchantragar was a merchant in the city of Delzimmer in southeast Faerûn circa the Year of Wild Magic, 1372 DR. He dealt in ceramics and pottery, specializing in importing luxury items from Amn, Sembia, and Tethyr.
+
+Personality
+Eloem was a hard-working and energetic man.
+
+Possessions
+Eloem owned a pottery import business and a large house or a small mansion in Delzimmer.
+
+History
+In the 1370s DR, a wave of ethrael fraud was plaguing the well-to-do in Delzimmer. Ethrael was the Delzemaeran system of deeding, registration, and insurance for goods and property. Eloem was a successful merchant whose fortunes were on the rise, and one of many victims whose ethrael was either forged or stolen and sold to a rich and gullible outlander in a distant land.
+
+Late one night, the Elchantragar household was alarmed to find fifty armed retainers breaking into the domicile and demanding they vacate the premises that were allegedly owned by Ildel Morusk, a wealthy stonecarver from Selgaunt. Altercations broke out and some blood was spilled before Eloem, his neighbors, and some quickly hired mercenaries managed to stem the rather violent capture and eviction operation until the nagra (the local law enforcement) showed up to quell the chaos and begin to sort things out.
+
+Morusk was extremely indignant about his supposedly legal purchase of the property but was eventually persuaded to take up temporary residence rent-free in one of the nagra-owned minor mansions seized for payment of civil or criminal fines. Morusk finally relinquished his claim when Elchantragar gave him a sizable sum of money, ostensibly as a commission to hunt down and kill the Sembian conman that had wronged them both. Ildel Morusk and his entourage departed a few days later.
+
+Appendix
+See Also
+ Delzimmer for descriptions of the nagra and the ethrael system of deeds.
+References
+
+---
+
+## Elduskryn's Fiery Creations
+
+Elduskryn's Fiery Creations was a business in Kholtar, south Faerûn, circa the .
+
+Location
+Elduskryn's was located on the south side of Hael Way between Belphendor's pipe fittings and Thalarmol's crate-making service, not far from the southern gate of Kholtar (known as Farrgaunlar). Across the street was the sculpted mansion (called a klathlaaedin) named Anthormbrur that was the seat of the Horthander family.
+
+Services
+Elduskryn's produced various implements and works of metal in a forge.
+
+Appendix
+References
+
+---
+
+## Elk
+
+Elk were the largest members of the deer family. They were favored by Uthgar and the sleeping god Ulutiu.
+
+Description
+Elk had a good sense of smell and were adept at hiding.
+
+Behavior
+Elk would flee from most predators or hunters, but on occasion they would turn and defend themselves against creatures smaller than themselves.
+
+Combat
+When forced to fight, they would use their hooves.
+
+Ecology
+Elk could be found alone or with herds. Besides Luruar, where they were prevalent, elk were found in the forest of Cormanthor, in the Ama Basin where they were raised by the Issacortae, the dragonborn kingdom of Relmaur, and in the Howling Mountains.
+
+Uses
+ Othovir, a craftsman of Triboar, was famous for creating masterful tack and harnesses from elk hide.
+ In the Ama Basin, the Pazruki were known to cure elk hides into thick, inflexible leather armor.
+
+Trivia
+ Countess Zaranda Star's bedspread in Morninggold Keep was embroidered with elks and penguins.
+
+Appendix
+See Also
+ Reindeer
+
+Appearances
+Adventures
+Storm King's Thunder
+Novels
+
+War in Tethyr • Sentinelspire
+
+External Links
+
+References
+
+---
+
+## Elgrol Darrusk
+
+Elgrol Darrusk was a war hero sometime in the early history of Khôltar, the Iron City, located in south Faerûn.
+
+Description
+Elgrol was a very large and corpulent man without much grace in his movement or bearing.
+
+Personality
+He was a lovable oaf who displayed courage when it counted the most.
+
+History
+When a horde of orcs assaulted Dubrinlar, the eastern gate through the double walls of Khôltar, legend has it that Elgrol held the gate single-handedly for hours before dying of his many wounds. A statue in his likeness was erected inside the guardhouse that served  Dubrinlar, and the building was named Darrusktraal after him.
+
+The gates of Khôltar were constructed during the tenure of Shieldlord Angloam Dubrin (Year of the Alabaster Mounds, 577 DR, to the Year of Orcsfall, 619 DR) so Dubrinlar (named after Angloam) was also completed during this period; therefore, the heroic deeds of Elgrol Darrusk took place sometime after that date.
+
+Appendix
+References
+
+---
+
+## Eladrin
+
+The term "eladrin" referred to a family of fey races or to specific races or subraces in that larger family. The larger family of eladrin included:
+ Fey eladrin, elven inhabitants of the Feywild,
+ High elves, or "common" eladrin,
+ Noble eladrin, powerful elf-like fey, and
+ Celestial eladrin, a race of elf-like celestials.
+
+---
+
+## Ellusk Baergil
+
+Ellusk Baergil was an inhabitant of Mistledale in the Dalelands in the 12 century DR and a member of the Baergil family. He was Captain of the Riders of Mistledale from 1156 DR to 1180 DR. He was described as a good, just, and capable man.
+
+Appendix
+References
+
+---
+
+## Elmo Braunstar
+
+Elmo Braunstar was the quiet and well-regarded expert wainwright in the city of Ashabenford within Mistledale in the mid-to-late 14 century DR.
+
+Activities
+He ran his own shop in town, Braunstar Wheelwright, whose reasonably priced services were sought by many in the dale, and whose products were demanded by nobles, foreign merchants, and thieves alike.
+
+One of the most renowned wainwrights in the Dalelands, Braunstar not only sold and repaired carriages and wagons, but created a few designs that were particularly in-demand. His Swanswing model was popular among the regional nobility and the Fleetrun long wagon was a favorite among merchants of the Dragon Coast and had a three-year back order as of 1367 DR.
+
+Personality
+Braunstar, the designation he preferred over his first name, was a quiet, thoughtful man who was well known throughout Mistledale for his empathy, foresight, and trustworthiness with confidential information. He was quite skilled in cutting through to the heart of a problem when talking them out with others, and offering clear perspective and sound advice. In these regards he was often sought out for council by other members of the community.
+
+Appendix
+References
+
+---
+
+## Elgaun Manor
+
+Elgaun Manor was a grand estate in Tegal's Mark that served as the summer home to a wealthy Sembian family from Yhaunn.
+
+Structure
+The facade of the manor was heavily windowed and its amenities included an indoor pool.
+
+Staff
+While the family from Sembia occupied the house during the summer, it was tended to in winter months by a local Tassadran couple.
+
+Entertainment
+The family from Sembia often used the manor to host parties for their southern neighbors, hiring mages to delight the guests with illusions, as well as minstrels and bards to entertain with music. Their celebrations could last for days and involved pranks, accidents, and occasionally murder.
+
+On one occasion, two rival mages flew around Tegal's Hill throwing fireballs at one another. This incident garnered the attention of the Grand Mairshar, who asked that she be given a warning before the next soirée, for fear of terrifying the townsfolk of the Mark.
+
+Appendix
+References
+
+---
+
+## Eli Marshking
+
+Eli Marshking was a Zhentarim captain in Zhent-occupied Daggerdale in 1367 DR.
+
+Activities
+Eli led a mixed patrol of mercenaries and Zhents in search of possible troubles in the dale, and desiring to gain loot in the meantime.
+
+Personality
+Eli was a swaggering man with a great sense of his self-importance. He enjoyed bullying the Dalesfolk and always took a large share from the loot gained from his men.
+
+Appendix
+Behind the scenes
+Eli Marshking and his men are listed as a random encounter for the players in Doom of Daggerdale, so it's possible they never meet him. He does not appear again in other sources.
+
+Appearances
+ Doom of Daggerdale
+
+References
+
+---
+
+## Elminster's Guide to the Realms
+
+Elminster's Guide to the Realms was a column by Ed Greenwood published in Dragon magazine. The column debuted in June 2001 in the  25th Anniversary Issue (Dragon #284) and ended in August 2004 (Dragon #322).
+__TOC__
+
+Articles
+ Issue Title Description Citation templateDragon #284Mrelgaunt's TurretNorth of Everlund, a crumbling tower.Dragon #285The Shrine of SwordsA wayside shrine to Tempus, on the High Road, south of Neverwinter.Dragon #286Shattershree's RestThe Old Tomb, due west of Serpentsbridge.Dragon #287Shadowdark HouseA magic shop in Western Daerlun.Dragon #288Moonwyvern InnMoonwyvern Inn, the best meeting place in the middle of nowhere.Dragon #289The Shunned StreetA secret Thay establishment in the Sembian port of Urmlaspyr.Dragon #291The SkondarrA cavern network near Zhentil Keep.Dragon #292The Sleeping DragonAn artifact in the Dragon Wood of the Sword Coast North.Dragon #293The Missing MinotaurA new tavern in western Everlund.Dragon #294The Leaning TreeAll the secrets of a traveler's rest revealed.Dragon #295The Bone DanceA haunted hill near Dagger Falls.Dragon #296Starfall PoolA restful glade in the Moonwood.Dragon #297The TalntowerA dwarven waterworks in the Savage Frontier.Dragon #299Moon Mountain BreweryAn establishment two days' north of Secomber.Dragon #300Old Angrath's SmokehouseA local landmark in Red Larch and an important meeting place/supply depot for the Harpers.Dragon #301Tatha's BroomworksA "leaf farm" west of Elturel.Dragon #302The High FlagonA typical country gambling house on the Long Road.Dragon #304Jongrath's MillA waterless mill in Tethyr.Dragon #307The Haunted BridgeA look at Ilikur's Bridge south of Triboar.Dragon #316The Black Dwarf MineDue east of Waterdeep, an ironworks and discreet storage.Dragon #320The Roaring Dragon HouseWaterdeep's newest den of vice and victory.Dragon #321Nurneene's Marvelous MasksA shop in Waterdeep with a dark secret.Dragon #322The WyrmworksIn Silverymoon, a shop specializing in dragon bits.
+
+Appendix
+Connections
+
+---
+
+## Eltro Miresk
+
+Eltro Miresk was the founder of a school of magic and the first Magus Senior of the Conclave of Silverymoon.
+
+Description
+Miresk was tall and lean and liked to wear black robes. Wherever he went, he was followed by a set of three floating magical rods, which his students named "The Triad".
+
+Personality
+Eltro Miresk was haughty, but he was also a superb teacher. Miresk believed in balance and taught that magic use should be tempered with other natural forces. He encouraged the creative use of simpler "everyday" spells over reckless use of the more powerful ones.
+
+Abilities
+Miresk was an exceptionally powerful mage with a vast array of spells at his disposal. He was also particularly skilled in alchemy, arcana and spellcraft, and the knowledge of history. He knew a good deal about nature, religion, and the planes of existence as well.
+
+Possessions
+"The Triad" was said by his students to provide the Magus Senior with the powers of several ioun stones in addition to acting like a rod of negation and a source of limitless unseen servant, hold portal, and hold monster spells. Miresk could use any of these powers without actually having to make contact with the floating Triad.
+
+History
+Miresk founded a school of magic from his home in Silverymoon, named Miresk's School of Thaumaturgy. When High Lady Alustriel founded the Conclave of Silverymoon in 1369 DR, she appointed Eltro Miresk as its first Magus Senior, and his original school became a part of the larger institution.
+
+References
+
+---
+
+## Elquillar
+
+Elquillar was a +1 sword whose magical enchantments all revolved around the transformation of appearance. The appearance of the sword, its wielder, and the targets it struck, could all be altered through its various powers.
+
+Description
+Regardless of the form of the blade, Elquillar's name was spelled out along the blade in runes of unknown origin.
+
+Powers
+One major effect that Elquillar possessed was its ability to undo transformation spells, effects, or other abilities upon striking a target, regardless of their origin. Whether it was a renowned archmage transformed into a squirrel or a doppelganger mimicking the appearance of another humanoid, they would revert to their true shape when struck by this weapon.
+
+Furthermore, the wielder of Elquillar could change the form and shape of the sword, into that of a dagger, short sword, scimitar, or other such bladed weapon and could change their own appearance as if they were wearing a hat of disguise. When they actually held the blade in hand, this individual was protected from magic spells and effects as if they were wearing a ring of mind shielding.
+
+History
+This unique sword had quite old, albeit unknown, origins. It was forged some time before the 8 century DR either by elves, in an effort to spy on other races, or, more likely, a particular illusionist from Calimshan known as Akhir Ahad. According to legend, although he long-evaded assassins sent by his political foes, he was eventually caught by night rogues, though not before passing the blade to his most trusted bodyguard. This nameless man bore the blade for some time before it became lost for a few centuries.
+
+Around 300 years later, Elquillar showed up in an auction within the city of Waterdeep, passed hands a number of times, which tied in with a handful of murders, and wound up in the possession of an assassin known as The Rider in White, who primarily killed evil-aligned targets within the region around the Inner Sea.
+
+Appendix
+References
+
+---
+
+## Ellendrin
+
+Ellendrin, also known as the Weeping Blade, was a +3 longsword that continuously dripped holy water along the length of its blade when it was drawn.
+
+Powers
+In addition to the effects the blade had on creatures vulnerable to holy water, the sword could confer the effects of the spell bless, three times per day.
+
+Description
+The Weeping Blade was forged from star metal and possessed a hilt of mithral, with a slightly up-curved crossguard. The grip was wrapped in silver wire and within the pommel was set a single diamond.
+
+History
+While the exact origin of this renowned sword was unknown, the church of Tyr maintained that the Maimed God had a hand in its creation. It earned repeated mention in many tales and legends from the people living around the Sea of Fallen Stars. It first appeared in Old Impiltur in 803 DR, when it was gifted by the Tyrran paladin Mellethos to King Nord. The regent had proven himself worthy of wielding Ellendrin after a valiant defense of his kingdom from the balor Ndulu, and his fiendish army, during the Battle of the Moaning Gorge some seventeen years prior. King Nord kept the blade throughout his reign. Upon the king's death, the sword was bestowed upon his childhood friend, the knight Jondar Tallmane, by the king's successor, Halanter II.
+
+Jondar continued the tradition of wielding Ellendrin with honor, bearing it in his battles against orcs of the Earthfast Mountains and pirate raiders of the Inner Sea. After the paladin retired from adventuring, settling in the Abbey of Grimjaws on the western shores of the Bluefang Water, he surrendered the blade to his fellow clergymen and declared it should be bestowed upon a different champion of Tyr every year, whose sole duty would then be the devoted protection of the Impilturan monarchy. The changing of the wielder of Ellendrin continued for decades, until the final days of the Old Impiltur.
+
+When the political machinations and intrigue reached their peak in Impiltur, the Tyrran protector of the monarchy, Darbett Tallim was killed and Ellendrin was removed from his possession by the archmage Soargar, who sought to safeguard it from the chaos and conflict that was bound to ensue. While the sword was believed to be hopelessly lost after King Imbrar I went missing, it was identified a couple hundred years later, in 1342 DR. The infamous thief, Gort of Tsurlagol, who was contracted to "procure" the blade for interested parties within the Moonsea, brought it to the sage Othiiyr Velthrann, who accurately identified it as the long-lost Ellendrin. After refusing to sell the sword to Othiiyr, Gort left the house of the wise man, and he, and the sword, were never seen or heard from since.
+
+Appendix
+References
+
+---
+
+## Elsk Thavarask
+
+Elsk Thavarask was the owner of the Missing Minotaur tavern in Everlund, circa the Year of Wild Magic, 1372 DR.
+
+Description
+"Squarejaw" Thavarask was about 5 ft 4 in (163 cm) tall with brown hair and green eyes. His face and skin showed evidence of many years spent outdoors.
+
+Personality
+Elsk was very even-tempered and slow to anger. He enjoyed being around people and he allowed them to be themselves in his tavern, up to a point. From past experiences, he disliked people who threw magic spells around without regard of the consequences for bystanders, the location, or the environment. He was also averse to fires that were not tended properly. Although he was a skilled fighter and could disarm folks who became belligerent, he preferred to surreptitiously drug patrons that were becoming a danger to themselves or others, and put them to sleep.
+
+Abilities
+Thavarask was very observant and often foresaw dangerous situations before they became unmanageable. He was quite skilled with a longsword and was proficient enough with a crossbow in a tavern environment.
+
+Possessions
+In addition to the Missing Minotaur, Elsk owned a set of +2 scale mail, a +1 large wooden shield, a +1 longsword, boots of speed, and a masterwork heavy crossbow. He kept some gold and gems hidden in various caches around the tavern.
+
+Activities
+Squarejaw enjoyed hunting for deer and boar in the lands around Everlund. He was a map enthusiast, and his hobby was expanding and adding detail to the large map of the North on the wall behind the bar. He would buy or bargain for sketches of trails, drawings of street layouts, descriptions of landmarks, locations of potable water, and signs of forgotten ruins. Whenever he acquired a new scrap of parchment, he carefully made two copies that he stored in other locations before posting the original on his wall where it might become a bargaining chip.
+
+Elsk had a standing arrangement with the Harpers that, for five hundred gold pieces per year, he would keep a secret bedroom with a hidden entrance and to feed and shelter anyone who gave him the correct password for as long as they were in need.
+
+Keeping the peace at the most rowdy tavern in Everlund wasn't always easy, and Thavarask often kept a damper on the most troublesome patrons by slipping a sleep-inducing toxin into their drink when they got overly aggressive or destructive. He acquired these poisons from merchants that did business in Waterdeep, and especially, Skullport. His knockout elixirs included nightviper venom, numbfish jelly venom, pauper's poison, Saldruth's viper venom, slarkfish venom, and udderfish venom. All of these were thick, milky white liquids with a slightly sweet taste that could be mixed in water or alcohol. When ingested, they degraded the victim's faculties and usually progressed to a period of unconsciousness.
+
+Relationships
+Elsk was a Harper sympathizer and knew how to get in contact with a number of their agents. His barmaid, Elanthra, was also privy to these secrets.
+
+History
+Elsk Thavarask was born in Neverwinter, but his parents soon moved the family to Waterdeep. They had a small laundry and seamstress business on the edge of Castle Ward. With youthful exuberance, Elsk joined an adventuring band that eventually turned to piracy on the Sword Coast. Fortunately for him, he had a knack for survival, carefully picking his battles and knowing when discretion was better than valor. He moved from group to group until he became a leader and formed his own band known as the Men of the Mask. He enjoyed years of relative success, but grew tired of enduring the weather, maintaining constant vigilance, and being unable to stay in one place for any great length of time.
+
+After disbanding his adventuring group, he and some friends (who he suspected were Harpers) retired to Everlund. He opened the Missing Minotaur and accepted the rough clientele that other taverns frowned upon, using his unique methods to keep things from getting too far out of control.
+
+Appendix
+References
+
+---
+
+## Elanthra
+
+Elanthra was a server that worked at the Missing Minotaur tavern in Everlund, circa the Year of Wild Magic, 1372 DR.
+
+Description
+Elanthra had light skin and long blonde hair.Based on artist's rendering.
+
+Relationships
+She was a trusted friend of the tavern owner, Elsk Thavarask, and knew that he was a Harper sympathizer. She also knew the code words that patrons could use to arrange a meeting with a Harper agent or bring immediate armed assistance.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Elmonitae
+
+Elmonitae was a moonlet in the Tears of Selûne. It was a neogi stronghold.
+
+Defenses
+The asteroid was guarded by patrolling neogi mindspiders.
+
+History
+Sometime in the mid-14 century DR, the neogi had imprisoned 100 captives on Elmonitae: 60 elves and 40 humans from Wa. The tsunami Storm of Honor, commanded by Daimyo Akahu Nagasa, fought against six neogi mindspiders, destroying four and causing the remaining two to flee after a 28-hour-long battle. The ship then landed on Elmonitae and rescued the prisoners. The elven captives were then transferred to the armada Wings of Glory, ushering a five-year-long peace between the elves and the nation of Wa.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Elhaembroe
+
+The Elhaembroe were a clan of gnomes that lived in the Dessarin Hills north of Beliard in northwest Faerûn, circa the Year of Wild Magic, 1372 DR.
+
+Organization
+The Elhaembroe were a typical gnomish family that kept to themselves and tried not to be noticed.
+
+Activities
+They subsisted by foraging in the hills, hunting and snaring game with many traplines. They whittled both novel and useful items from wood and sold them in Beliard. By far, their most lucrative activity was collecting the offerings left for the "Rasping Spirit" that dwelled in the Talntower, a waterworks located at the eastern-most point of their home caverns and tunnels.
+
+Tactics
+
+Elders of the clan would take turns hiking the quarter-mile (400-meter) twisting tunnel from their main chambers to a spying room adjacent to the main cavern of the Talntower. From there, they could observe visitors and pretend to be an oracle, known as the Rasping Spirit, who would answer questions or spout advice or warnings, always in cryptic terms and in whispers just loud enough to be heard over the falling water in the cave. Folk who came to the Talntower to consult the oracle left an offering on the floor or beside the pool (but not in the pool), which the Elhaembroe collected once the visitors were gone. The gnomes never tried to barter or sell any of the offerings that could possibly be recognized in Beliard. Instead, they traded with trusted gnome traveling merchants that went to Waterdeep.
+
+Base of Operations
+The Elhaembroe lived in an extensive cave system likely carved by the same dwarves that made the Talntower. The entrances in the hills west of the waterworks were large round stones that rolled in grooves to seal each opening to the complex. When open, these access ports were set with snares and traps to prevent skunks, snakes and other pests from getting inside. They had six large chambers dedicated to grain storage, and a kitchen with an outdoor stone oven for cooking or smoking meats. Dozens of sleeping chambers were scattered down various tunnels, with plenty of storage nooks and ledges that could double as ambush points, if necessary. They also had ten jail cells with thick iron bars in one wing of the complex.
+
+History
+The Elhaembroe clan resided in this location at least as early as the Year of the Empty Goblet, 1252 DR, which is the earliest known report of the existence of the Rasping Spirit of the Talntower.
+
+Appendix
+References
+
+---
+
+## Elven Imperial Fleet
+
+The Elven Imperial Fleet, or Elven Imperial Navy, was the primary wildspace military force of the elves from all crystal spheres.
+
+Organization
+The Imperial Navy was a collection of individual fleets spread throughout the Known Spheres.
+
+Officially, the Fleet answered to the royalty of the groundling elves of each crystal sphere, as if all elves collectively belonged to the same empire; in truth, they operated as a distinct entity. The head of the chain of command was the Admiral of the Evermeet Fleet of Toril in Realmspace. Also known as the Grand Admiral, the Admiral of the Evermeet Fleet was assisted by a Council of Admirals known as the Cabinet, who were usually very old, even by elven standards. The Cabinet was composed of eleven admirals in total.
+
+Below the Cabinet was the Bench, which served as a judicial branch, and Accounting Services. These did not hold true power of command, but were crucial to the functioning of the organization.
+
+Fleet admirals were the next rank, and they were in charge of a force consisting of many captains. Fleet admirals usually controlled a single crystal sphere, although a captain might control a sphere if the number of elven ships in that location was very low. These senior officers, that is, admirals and captains, were awarded with command of their own spelljammers, usually men-o-war. During peacetime, captains could pilot their vessels wherever they wanted, subject to only an occasional check-in with superiors.
+
+Admirals wore silver plate mail, but without helmets, and black boots speckled to look like stars. They wore black silk gloves and a black tabbard over their armor with the butterfly insignia of the navy over a starfield design.
+
+Commanders were expected to show great flexibility; the same captain might be called on to lead an attack on enemy forces on one mission while acting as a diplomat on the very next. In word, disobedience to the orders of the Fleet was not tolerated; however, in practice, commanders who ultimately succeeded at missions were often forgiven.
+
+Crew with a rank of 3 class generally were in their first through twelfth year with the Navy. An exception were clerics, who started as 4 class and had to serve on average for more than a dozen years before promotion to 3 class. The rank of sergeant was not attained until beyond one's 20 year. Most 2 class crewmen had served between thirteen and 30 years. Again, for clerics, it took longer, typically at least 30 years, to reach the rank of 2 class. First class was achieved after at least 40 years—or 61 years in the case of clerics. The quartermaster held the equivalent of a 1 class rank. There was fierce competition for these positions in the Navy. Applicants made appeals to specific commanders for promotion, who had full power to accept or reject.
+
+The Fleet only allowed elves to join. This included nearly any subrace of elf except drow and sea elves. The former were of course rejected by their distant kin, but sea elves were prevented from space travel because of their need for water.  Although other races, such as hadozee, could serve on elven spelljammers—if the captain allowed it—they could not become true members or attain rank. Spaceborn elves were preferred over groundling elves, and younger elves were favored over older ones. Membership in the Fleet felt something like being a part of a massive sphere-spanning family; one was a member for life.
+
+Most members of the Fleet were worshipers of Corellon or the Seldarine as a whole, as part of a polygot faith.
+
+Activities
+The main activity of the Elven Fleet was the promotion of elven interests in the Known Spheres. After the Second Unhuman War, this activity was primarily communication between the elven realms in different spheres, since planar communication was impossible because of the phlogiston. At least once per year, Fleet vessels would visit every major settlement of groundling elves throughout the Spheres, and maintained embassies in most major human spacefaring settlements. They had strong ties with Evermeet and, before its destruction, Silvanesti on Krynn.
+
+Despite the priority of communication among elven worlds, communication between the units of the fleets was terrible, as ships vanished frequently without notice.
+
+Elven ships patrolled wildspace openly. The Fleet prioritized avoidance of interaction with non-elven groundlings and even limited getting involved in elven groundling affairs, but they would defend elves—and even non-elves on occasion—from space.
+
+Base of Operations
+Most elven space stations were armadas linked together in a circular arrangement. The headquarters of the Imperial Fleet was the space station Lionheart, the location of which was changed frequently.  It was the home of the Cabinet.
+
+About 300 naval officers and staff were stationed in the Elven Forest on the Rock of Bral. A few officers were stationed as observers and advisors at all times in Evermeet and Evereska, and they had a minor presence in the Elven Court of Cormanthor as well.
+
+Possessions
+Elven spelljamming craft included the tiny flitters to the massive armadas. So many spelljamming vessels were controlled by the space navies of the elves and were so spread throughout the Known Spheres that not even the elves could account for them all. This was especially true after the end of the Second Unhuman War, which decimated so many of the individual fleets, making an accurate count near impossible.
+
+Elven ships were pristinely maintained, under official naval regulations handed down by the Council of Admirals.
+
+Relationships
+To humans, members of the elven fleets often seemed "pushy and presumptuous." Most trading costers and religious organizations of wildspace respected the elven fleets for the protection and stability they provided, but there were exceptions. The Chainmen considered them nosy. Most other military brotherhoods considered them too stuck-up, though they received strong support from the Company of the Chalice. The Xenos were perhaps the group who hated the elven fleets the most.
+
+Prince Andru of the Rock of Bral had granted permanent landing rights and access to its repair facilities to the Elven Navy in exchange for the defense of the Rock.
+
+Members of the Imperial Fleet spoke the same Elven and Common languages used on Faerûn but with more slang and wildspace jargon. They often were learned in the languages of other spacefaring peoples of Realmspace as well, such as High Shou or the tongues of the Anadian halflings, the aarakocra and lizardfolk of Coliar, or the sea elves of Karpri, etc.
+
+History
+The elven fleets have acted in concert in several multi-sphere campaigns against enemies that threatened elvenkind. One of the most famous of these was the Unhuman War. During this war, the elves destroyed half of all orcish and goblinoid fleets in the Known Spheres, with the largest space battle occurring in Greyspace, where the elves amassed a force of 100 spelljammers and wiped out 50 orcish ships.
+
+The war was begun by the elves, who debated for many centuries whether it would be best to eliminate all "unhumans" from the spheres. After they began the war, they did not re-debate the issue and carried out their decision till its completion. After the end of the war, they began debating a similar effort to remove the neogi from the spheres.
+
+Before the Second Unhuman War, the Grand Admiral was a tiny elven woman who was centuries old. Sometime after 1362 DR and the beginning of the Second War, the Grand Admiral was briefly a male elf. Within a few years, he was apparently replaced by an elven woman named Serin Ghar, who was a near celebrity on the island of Evermeet.
+
+The elves ultimately won the Second Unhuman War but at great loss to their fleets. At least one historian postulated that the elven fleets had spread themselves so thin that they were doomed to meet the same fate as the goblinoids after the First Unhuman War.
+
+In the late 1360s DR, the Admiral of the Realmspace Fleet was Icarus, the Admiral of the Krynnspace Fleet was Yerthad, and the Admiral of the Greyspace Fleet was Krissos. Prior to Icarus, the admiral in charge of the Rock of Bral's sphere was Uliananor Cirathorn, but he was killed early in the Second Unhuman War.
+
+Notable Members
+ Cuthwahl Cuthbert
+ Icarus
+ Marianon Silmara
+ Serin Ghar
+ Uliananor Cirathorn
+ Vallus Leafbower
+
+Appendix
+Appearances
+Novels
+The Maelstrom's Eye • The Radiant Dragon
+
+References
+
+---
+
+## Elminster Speaks
+
+Elminster Speaks was a webseries of articles by Ed Greenwood published (roughly) twice a month from 04/04/2001–04/30/2003. The series featured articles about three cities in the Forgotten Realms: Voonlar (33 articles), Delzimmer (14 articles), and Khôltar (17 articles), plus a few about points in-between. The entire series may be downloaded as a 89-page PDF file, or the individual articles can still be viewed in the Elminster Speaks archive. To cite passages from either of these two sources, you may use the pre-made citation templates.
+
+Article List
+ Part 01: Voonlar  (04/04/01)
+ Part 02: The Bron of Voonlar  (04/04/01)
+ Part 03: The Bron's Deputies  (04/04/01)
+ Part 04: Justice and the Law  (04/04/01)
+ Part 05: The Moods of Voonlar  (04/04/01)
+ Part 06: Local Faith  (04/04/01)
+ Part 07: The House of the Helm  (04/04/01)
+ Part 08: To Venerate The Great Mother  (04/04/01)
+ Part 09: Voonlarran Religious Politics  (04/04/01)
+ Part 10: The Dark God Reformed  (04/04/01)
+ Part 11: Into the Dark Sun's Embrace  (04/04/01)
+ Part 12: In The House of Darkness  (04/04/01)
+ Part 13: A Dark Heart to Lead Voonlar  (04/04/01)
+ Part 14: Dark Temple Deeds, Darker Doers  (04/04/01)
+ Part 15: Serving the Dark Sun  (04/04/01)
+ Part 16: The Dark Blessed  (04/04/01)
+ Part 17: A Place to Stay  (05/02/01)
+ Part 18: The Finest Beds in Town  (06/20/01)
+ Part 19: The Shield Staff  (07/04/01)
+ Part 20: Staying at the Shield  (08/01/01)
+ Part 21: Where Zhents Feel At Home  (08/15/01)
+ Part 22: Night Ale at the Meet  (08/29/01)
+ Part 23: Cheap and Cheerful at the Three Elves  (09/05/01)
+ Part 24: An Inn For Adventurers  (09/19/01)
+ Part 25: A Tour of the Wizard  (10/03/01)
+ Part 26: Why Stay at the Wizard?  (10/17/01)
+ Part 27: The Wizard's Well, and Dove of the Seven  (10/31/01)
+ Part 28: The Recent and Colorful History of the Wizard  (11/14/01)
+ Part 29: The Battle at the Bar  (11/28/01)
+ Part 30: Endgame at the Wizard  (12/12/01)
+ Part 31: The Wizard Then to Now  (12/26/01)
+ Part 32: Perendra's Little Secret  (01/09/02)
+ Part 33: A Farewell to Voonlar  (01/23/02)
+ Part 34: Malthuk's Tower  (02/06/02)
+ Part 35: A First Glance at Delzimmer  (02/20/02)
+ Part 36: The Satraps of Delzimmer, Part 1  (03/06/02)
+ Part 37: The Satraps of Delzimmer, Part 2  (03/20/02)
+ Part 38: Life in Delzimmer  (04/03/02)
+ Part 39: Delzemaeran Delicacies, Part 1  (04/17/02)
+ Part 40: Delzemaeran Delicacies, Part 2  (05/01/02)
+ Part 41: Delzemaeran Delicacies, Part 3  (05/15/02)
+ Part 42: Doings in Delzimmer, Part 1  (05/29/02)
+ Part 43: Doings in Delzimmer, Part 2  (06/12/02)
+ Part 44: Doings in Delzimmer, Part 3  (06/26/02)
+ Part 45: Doings in Delzimmer, Part 4  (07/10/02)
+ Part 46: Doings in Delzimmer, Part 5  (07/24/02)
+ Part 47: Doings in Delzimmer, Part 6  (08/07/02)
+ Part 48: The Road to Khôltar, Part 1  (09/04/02)
+ Part 49: The Road to Khôltar, Part 2  (09/18/02)
+ Part 50: Khôltar, Part 1  (09/25/02)
+ Part 51: Khôltar, Part 2  (10/02/02)
+ Part 52: Khôltar, Part 3  (10/16/02)
+ Part 53: Khôltar, Part 4  (10/30/02)
+ Part 54: Khôltar, Part 5  (11/13/02)
+ Part 55: Khôltar, Part 6  (11/27/02)
+ Part 56: Khôltar, Part 7  (12/11/02)
+ Part 57: Khôltar, Part 8  (12/25/02)
+ Part 58: Khôltar, Part 9  (01/08/03)
+ Part 59: Khôltar, Part 10  (01/22/03)
+ Part 60: Khôltar, Part 11  (02/05/03)
+ Part 61: Khôltar, Part 12  (02/19/03)
+ Part 62: Khôltar, Part 13  (03/05/03)
+ Part 63: Khôltar, Part 14  (03/19/03)
+ Part 64: Khôltar, Part 15  (04/02/03)
+ Part 65: Khôltar, Part 16  (04/16/03)
+ Part 66: Khôltar, Part 17  (04/30/03)
+ Wrapup Compilation  (05/14/03)
+
+Appendix
+References
+
+---
+
+## Elves' Bane
+
+The girdle known as Elves' Bane was a magical item that protected its wearer from piercing weapons such as daggers or arrows shot from a bow.
+
+History
+This large belt was worn by the infamous highwayman Pandar, of Scardale. He often ran afoul of the elves of Cormanthor, while hiding throughout the forest constantly one step ahead of their chase. While the girdle protected Pandar from the elves volleys of arrows, he was no match for a pit-trap, which served as his home during the last days of his life before he starved to death.
+
+Some time later the girdle came into the possession of a dwarf named Unshey, who in turn had it stolen away from her by an ogre who had a very particular taste for belts and girdles.
+
+Notable Owners
+Kalah, a gnome illusionist who held the circus in Athkatla hostage in 1369 DR.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Elliot S. Maggin
+
+Elliot S. Maggin is an editor, who mainly edited the Advanced Dungeons and Dragons and Forgotten Realms comics.http://elliot.maggin.com/
+
+Editing
+
+Advanced Dungeons & Dragons comics
+The Ostus Legacy
+Day of the Darkening
+Shackles of the Past
+Shell Game
+Cat & Mouse
+The Last Betrayal
+Lawyers!
+Night of the Moonpenguin
+Of Mirt & Mind Flayers
+All Hades Breaks Loose
+Down in the Depths
+Selune Rising
+Dark of the Moon
+Lunatics
+Total Eclipse
+Scavengers
+Predators
+Survivors
+
+Avatar comic series
+Shadowdale
+Tantras
+Waterdeep
+
+Forgotten Realms comics
+The Ogre's Paw
+Converging Lines
+The Great Game
+Fools Rush In
+The Dragon in the Dale
+Forgotten Realms
+Dragonspawn
+Dragonsmoker
+Dragons (and Other Beasts)
+The Morning After
+Head Cheeeese
+Jasmine
+Rivals
+Trial
+Possessions
+Liches in Love
+Mad Gods and Paladins
+Divine Rights
+On Earth as it is in Heaven
+Picking up the Pieces
+Temptations
+Cannibal Girls
+Cat Logic
+Unreal Estate
+Everybody Wants to Run the Realms
+The Wake of the Realms Master
+Annual: Waterdhavian Nights
+Forgotten Realms Classics Omnibus Volume 1
+Forgotten Realms Classics Omnibus Volume 2
+
+Appendix
+References
+
+---
+
+## Elven Court bow
+
+The Elven Court bow was an ancient, ceremonial longbow from the Elven Court, one of cities of the empire of Cormanthyr.
+
+Description
+The bow was made of polished yew and had been intricately engraved. Its bowstring shined gold, and emanated a song-like resonance when drawn.
+
+Powers
+This +3 longbow greatly increased the accuracy of its wielder.
+
+History
+A weapon of the elves for millennia, this exquisite bow was passed down every half-century to someone who had performed a great deed for the elves of the Court. In the mid–12 century DR, a human named Yin Pon was gifted the bow of the court after rescuing an elven prince from danger. Yin carried the bow with him to the city of Baldur's Gate where it was eventually lost.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate II: Shadows of Amn • Neverwinter Nights 2
+
+External Links
+
+References
+
+---
+
+## Elonia's Beauty Shoppe
+
+Elonia's Beauty Shoppe was a salon located within the Temple District of Ravens Bluff during the late 14 century DR.
+
+Location
+This store was found within the Swordspoint neighborhood, on Rhabie Promenade, north of the Raven's Glory.
+
+Services
+While the Starre's clientele would come to the salon for pampering and beautification, they would stay to catch up on the latest gossip within the city. Although rich Ravenian women were among their regulars, the mother–daughter team offered haircuts, beauty enhancements (both material and illusory), shaving, manicures and pedicures, and even tattoos, to both Ravenian men and women.
+
+If someone were to make the request, Elonia could use her beautician and illusion skills to alter their appearance enough to act as a disguise.
+
+Inhabitants
+The salon was run by the strikingly attractive illusionist Elonia Starre and her equally beautiful and quite courageous daughter Salena, who had began a career embarking upon adventures. Their home was located in a room above the store.
+
+History
+Around the same century, the storefront of Traagor's Tours and Souvenir Shop sold a variety of objects that had slogans advertising local businesses embroidered or painted on them. One such slogan advertised the salon, stating, "Elonia's Beauty Shoppe, the first step to a better you."
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Elonia Starre
+
+Elonia Starre (originally known as Elonia Roudragon) was an illusionist, as well as the owner and proprietor of Elonia's Beauty Shoppe, in the city of Ravens Bluff during the late 14 century DR. She was a skilled beautician who offered her predominantly female clientele a number of services including skin and nail care, hair styling, shaves, tattoos, and magical, illusory beauty enhancements.
+
+Elonia had a daughter, Salena, with whom she shared a residence above the salon.
+
+Description
+In addition to her skill as a businesswoman and beautician, Elonia was known for her exceptional beauty.
+
+Activities
+Spells
+Elonia was the creator of the spell Elonia's glamer and its reverse, Elonia's bane.
+
+History
+Early life
+Elonia Roudragon was born in Hillsfar to Thauva Roudragon.
+
+At a young age Elonia assisted her mother in her salon, Thauva’s Bower, where she learnt to be an excellent beautician.
+
+After her mother remarried to the Illusionist Galadarr Halanthan, Elonia convinced Galadarr to teach her magic. She proved to not only have The Gift, but to be skilled in casting Illusion spells and subtly altering them to be particularly realistic. Galadarr described her as “a natural”.
+
+Appendix
+References
+
+---
+
+## Elderstars
+
+Elderstars was a grand manor located in the Temple District of Ravens Bluff during the 14 century DR. It was a massive, 5-story manse, decorated with gabled roofs and gargoyle heads, located on the corner of Manycoins Way and Hawk Passage within the district's Holyhouses neighborhood.
+
+Around the year 1370, it was the home of Sir Uldren Stonefist Deepaxe, chair of the city's Knights Council.
+
+Appendix
+
+References
+
+---
+
+## Elminster's Ecologies (in-universe)
+
+Elminster's Ecologies was a series of nine books, compiled by the sage of Shadowdale, Elminster, that detailed the various natural wildlife, local trees and plans, and magical beasts that could be found in a number of regions in the Heartlands and surrounding areas of northern and central Faerûn.
+
+Books
+An Investigation into the Natural Systems of Organisms and Their Surroundings
+A "definitive treatise" on the natural classification and order of the species of Toril. It described a number of concepts and ideas that applied to the understanding of the subsequent volumes.
+The "chain of consumption" was charted, detailing the relationship between apex carnivores, lesser meat-eaters, matter-eaters, herbivores and plant life, in relation to the availability of these various life forms. It continued to explore the concepts of population control, competition over food sources and the effects of climate on the entire circle of life. It concluded with guidelines that had to be considered when observing life on Toril: creatures from different locales often displayed different behavior, they were governed by a variety of motivations, and while they tended to prefer certain locales, they often wandered from where they were usually found.
+Written by Elminster Aumar.
+
+Cormanthor
+This descriptive guide detailed the diverse plant life, natural species, magical creatures historical landmarks, geographical features and weather of the sprawling forest of Cormanthor. Its texts explored the four smaller woods that made up the greater region, including the Rimwood, Midwood, Starwood, and Edgelands. These included descriptions of the effects that residual magic from the Ruins of Myth Drannor had on the surrounding wild life and forests.
+Written by the Lyra Sunrose
+
+Anauroch
+The secrets of the massive desert were detailed within this firsthand account. It offered a broad description of the three regions of the Anauroch desert, including the Sword, the Plain of Standing Stones, and the High Ice. It continued with an exploration of both the more commonly-found animals as well as the rarer, particularly deadly beasts found within the three regions.
+Written by Ibn Al'Arif
+
+The Storm Horns and the Thunder Peaks
+Two of the most formidable mountain ranges in all of Faerûn, the Storm Horns and Thunder Peaks, were detailed from the perspective of an educated naturalist. The book presented the reader with firsthand reporting of the severe weather patterns among the peaks, commonly found plants and animals, as well as the myriad of dangerous beasts and monsters, along with notes about how they differed from from those found in other locales.
+Based on the notes of Nibulus Loral
+
+The Cormyrean Marshes
+This volume of the compilation expounded upon the weather and identified the varied species of plans and animals that lived in the foreboding wetlands of Cormyr. These included the Farsea Marshes, the Tun Marshes and the Vast Swamp. In addition to describing the monstrous humanoids and other dangerous denizens of the swamps and marshlands, with particular attention given to the black dragon Skurge, accounts of the humans of the region, including the marsh drovers and bandit kingdom of Tun.
+Written by Brother Twick
+
+The Stonelands and the Goblin Marches
+The dangerous and nearly-uninhabitable stretches of land known as the Stonelands and the Goblin Marches, which separated the more civilized part of Cormyr with the great desert of Anauroch, were detailed in this entry of the compendium. It detailed the threat of the various goblinoid tribes, such as the Neidlig and Melial, and the devastating effects they had on the existing wildlife in the region.
+Written by Maris Khorma Terrabin
+
+The Sea of Fallen Stars
+This tome contained reports on the activities of aquatic monstrous humanoids who created hostile territories between the civilized cities dotted along the coast of the Sea of Fallen Stars, with a focus on how they affected areas that were heavily-traveled by the local fishing communities. It continued to provide accounts of the deep-sea creatures and species that posed a threat to ships, sailors and anyone else conducting nautical business and activities. It concluded with a number of maritime tales, myths and rumors.
+Written by Lucas Surin
+
+The Great Gray Land of Thar
+The penultimate book in the series contained the accounts of traveling the desolate lands of Thar and the various monsters that plagued the stony terrain. It had a particular focus on the ogre tribes, remnants of the long-lost kingdom of Tharkul, as well as the great number of orc clans, including the Black Spears. It included a map outlining the rough boundaries of each monstrous bands' territories.
+Written by Taylssa Strongbow (edited by Elminster)
+
+The Settled Lands
+This book focused on the "civilized" Heartlands, describing the effect that humans had on the fertile and diverse Dales, Cormyr with its abundant farmlands, with brief mention given to the overcrowded cities of Sembia. It spoke upon the animals and monsters of these lands, both domesticated and wild, and detailed the balance, or lack thereof, between them and the humanoid races of central Faerûn.
+Written by Bryn Ohme Thornwood
+
+Appendices
+The Battle of Bones
+This entry described the desolate wasteland of the Battle of Bones, including the historical events that led to its creation and the living and unliving creatures that made their homes there.
+Written by Rolanda Invenweigh
+
+The Hill of Lost Souls
+This thoughtful guidebook detailed the seemingly innocuous Hill of Lost Souls and Pelleor's Prairie, with its wide variety of strange phenomena, creatures, and plants.
+Written by Tharnn Greenwinter
+
+The High Moor
+This entry covered the environs of the High Moor, with an understanding of the natural and magical forces that shaped the terrain and climate.
+Written by Bara
+
+The Serpent Hills
+This travelogue reluctantly recorded the Lark's adventures in the Serpent Hills, as she encountered a wide variety of snakes, scalykind, and other strange and terrifying serpent-themed subjects.
+Written by the Lark of Suzail
+
+Elminster's Ecologies Appendix IIIa
+This addition to the series contained studies on variant sub-species of some of the strangest creatures of Faerûn, such as fission slimes and fire trolls.
+
+Contributors
+ Lyra Sunrose: The half-elf of Alyssim who had spent 11 years traveling Cormanthor with her husband, a scholar and lepidopterist from the Dalelands, Ruke Diggot.
+ Ibn Al'Arif: Born the son of a sheikh in the Maurani tribe, the bedine traveler spent many years braving the elements of the Anauroch desert in solitude.
+ Nibulus Loral: This wizard had spent much of his later life as a sage and a scholar, fully appreciative of the natural world he was studying.
+ Brother Twick: Dispatched by the Chauntean High Priest in Arabel, the halfling Twick spent some time ministering to drovers of the High Marsh.
+ Maris Khorma Terrabin: Known as the "One-Eyed Mistress" of Daggerdale, the skilled wizard Maris spent much of her youth adventuring through the Stonelands in search of the legendary Citadel of Seligonil.
+ Lucas Surin: This experienced captain serving within the Cormyrean Purple Dragons had lived in the coastal area of Cormyr and Sembia for 30 years, escorting caravans and keeping the locals safe from monsters.
+ Taylssa Strongbow: The grim but well-traveled ranger spent some time as a guide, assisting travelers through the barren landscape of Thar.
+ Bryn Ohme Thornwood: The elven farmer lived on the outskirts of Mistledale for over 300 years.
+ Rolanda Invenweigh: This antisocial necromancer was driven from her druidic circle, and found a new home among the dead at the Battle of Bones.
+ Tharnn Greenwinter: This quiet druid was dedicated to protecting and understanding the Hill of Lost Souls and Pelleor's Prairie.
+ Bara: This misanthropic and unforgiving druid lurked in the High Moor and protected it from foolish adventurers.
+ The Lark of Suzail: This urbane wizard and researcher had an abiding fear and hatred of snakes, unfortunately.
+
+Appendix
+References
+
+---
+
+## Elminster's Hideout
+
+Elminster's Hideout was a retreat designed and built by Elminster near the center of the planet Coliar. It contained a large portion of Elminster's library, as well as a vast supply of potions and four portals that led to different locations on Toril and on Earth.
+
+Location
+The safehold was located near the central earthmote of Coliar. It slowly revolved around the territory of the red dragon Firebrand Flametongue. It emitted a constant low humming noise that could be heard from over  away.
+
+Structure
+From the outside, the safehold appeared to be a perfectly reflective metallic sphere almost  in diameter. Due to its orbital motion, it reflected a faint rainbow-like pattern of light.
+
+If investigated with magic such as a detect magic spell, the outer walls revealed a glowing red piece of beautiful writing that could only be read with magic such as a comprehend languages spell.
+
+Interior
+The hideout was a pocket dimension shaped like an octagonal chamber. Each of the walls alternated between holding shelves or a doorway. The chamber also contained a bed. The shelves held a vast collection of potions and scrolls that Elminster stored for himself and friends in case of need, as well as the original copies of his entire library of books and spellbooks.
+
+The four doorways were invisible at their destinations and led to the following locations:
+ A room inside Elminster's castle on Toril;
+ The temple of Mystra in Evermeet;
+ Yellowstone National Park on Earth in the year 1894, Elminster's favorite resting location off Toril;
+ Ed Greenwood's library on Earth. This was the passage used by Elminster during their several meetings.
+
+Defenses
+The sphere was impenetrable to any divination or scrying spells from the outside. It could only be accessed via the Elminster's evasion spell in effect on Elminster or if someone wearing a non-magical ring bearing Elminster's name touched the outside wall without making any sound.
+
+History
+Elminster originally built his hideout sometime in the 11 century DR with the purpose of monitoring the activities of the Torilian dragon Firebrand Flametongue. After concluding that the dragon had the intention of retiring, Elminster repurposed the location as his hideout.
+
+Appendix
+References
+
+---
+
+## Eltabbar (tharch)
+
+Eltabbar was a tharch of Thay that encompassed the majority of the northern Thayan plateau, between the First and Second Escarpments. Its territory included the western shores of Lake Thaylembrar and the lands just west of the River Thay.
+
+Notable Locations
+ Eltabbar: The shining capital of Thay for many years, prior to the War of the Zulkirs, Eltabbar was an expansive city whose beauty was often overshadowed by its slave population that numbered in the tens of thousands.
+ Lake Thaylembrar
+ Ancient Nar ruins in the more remote parts of the tharch, which were home to demons.
+
+History
+While the eruption of volcanoes in Thaymount during the Spellplague of 1385 DR caused desolation across the entire nation, the weather and climate of Eltabbar had largely been normalized and protected by magical means as of the year 1479 DR. The finite number of agricultural farms within the tharch supported the living population of Thay during the latter half of the 15 century.
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Elzarr
+
+Elzarr of the Crimson Eye was the zulkir of divination during the early 12 century DR.
+
+History
+In the year 1187 DR, Elzarr was presented with the magical scimitar Ashram by Sorros. The long-lost blade of Mulhorand had been lost in the Giantspire Mountains by King Imbrar I some sixty years prior.
+
+Appendix
+References
+
+---
+
+## Elminster's Notebook
+
+Elminster's Notebook was a column by Ed Greenwood published in Dragon magazine. The column was written from the perspective of Elminster Aumar, exploring personalities and oddities of the Realms.
+
+Articles
+ Issue Title Description Citation templateDragon #200Lord Kuldak MauranczElminster's recounts his visit to Kuldak Maurancz, Lord of Cragmyr near Beregost in his—according to rumor, haunted—keep.Dragon #202The Mystery of the PlainsIn this article, Elminster reports on a mysteriously clean, but seemingly non-magical sword stuck in the ground in Mulhorand with many old remains of dead demihumans about it.Dragon #206Tashara of the Seven SkullsHistory of a magic user.Dragon #210The Serpent BladeWeapons and rings used by the cults of Tiamat.Dragon #213Aldreth FiresharAldreth Fireshar, a wizard with a variety of unusual spells and unpleasant associates.Dragon #216Kobold CommotionsElminster notes past and present kobold activities and holdings at a number of different places in Faerûn.
+
+Appendix
+Connections
+
+---
+
+## Eltorchul Academy
+
+Eltorchul Academy was an arcane academy founded by the noble family of the same name and housed at their villa in the Sea Ward of Waterdeep in the mid–14 century DR.
+
+History
+Its founder, Lord Thesp Eltorchul, invested the family's spice and import fortune into the academy, along with the acquisition of rare magical components.
+
+The academy was originally only open to nobles and children of means, but the school and family fell on hard times when Lord Thesp's son, Oth Eltorchul, was left incapacitated by a failed magical experiment into the creation of dream spheres in . Since then, Eltorchul Academy was open to almost any student who had the money to pay for tuition, including many elves, half-elves, and halflings. That led to a plummet in the academy's social standing by .
+
+Members
+The two leaders of the academy were Lord Thesp Eltorchul and his daughter, Fea Eltorchul.
+
+Danilo Thann was known to have been a student for a time.
+
+Appendix
+Appearances
+
+References
+
+FR:Académie Eltorchul
+
+---
+
+## Elven chainmail
+
+Elven chainmail, also known as elven chain, was a type of chainmail that was created by the elves of Faerûn.
+
+Description
+This armor was of the finest elven craftsmanship, just as resilient as it was delicate and beautifully designed. Elven chain was so finely wrought that it could be worn under regular clothing without being readily noticed. They were commonly crafted from mithral links, and could be enchanted in the same manner as any other suit of armor.
+
+The links of the armor were often inscribed with tiny runes or characters of the elven language that recited elven prayers, quotations and even magical invocations.
+
+Powers
+Elven chain did not hamper the spellcasting abilities of wizards and sorcerers nor the stealthy movements of rogues, and could even be worn by those who were not proficient with the use of certain armor.
+
+Notable Elven Chains
+ Lafarallin's Mail, a set that belonged to the great elven hero Lafarallin.
+ Silver Mail of the Unicorn Queen, a suit of +1 elven chainmail that was sacred to the Church of Lurue.
+
+Notable Wearers
+Individuals
+ Arderiel
+ Dathan
+ Dazmilar Starbrow
+ Dorina T'sarran
+ Dutiocs
+ Elhan
+ Esmeralda
+ Illasera
+ Iljrene Ahbruyn
+ Isyan Kiy'sisnos
+ Kâras
+ Kiril Duskmourn
+ Martine
+ Rolf Sunriver
+ Sovalidaas
+ Vala
+
+Religions
+ Treespeakers, specialty priests of the Church of Mielikki.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Eltorchul
+
+House Eltorchul  was a noble family of Waterdeep. They were originally known for spice and imports but were later known for arcane research and schooling as well as the procurement of rare magical components.
+
+Base of Operations
+
+The family owned a villa in the Sea Ward on the southwest corner of Ivory Street and Diamond Street, which also faced Torch Lane and Pharra's Alley. It was from there that they also ran an arcane academy aptly named the Eltorchul Academy.
+
+History
+Lord Thesp Eltorchul invested the family's spice and import fortune into the founding of the Eltorchul Academy around 1342 DR.
+
+Some of the Eltorchul sons were known for adventuring. They discovered a two-way gate into Undermountain. They sold the knowledge of the location of the gate to Lord Hund Hiilgauntlet for the erection of his tomb in Undermountain itself. Upon completion of the tomb, Hund trapped the workers and one of the Eltorchul sons within the tomb in order to keep its secret and to serve as undead guardians. Infuriated, the remaining brothers looted the Hiilgauntlet estate after a failed attempt at attacking the underground lair. They also destroyed the gate, trapping Hund in his tomb. Ironically, one of the brothers ended up marrying Hund's daughter and having many children by her.
+
+The Eltorchul link to Undermountain continued when Thesp's daughter, Errya Eltorchul, became one of Halaster's Heirs and took up residence in Undermountain, where she sold somewhat accurate maps of the dungeon levels.
+
+Notable Members
+Thesp Eltorchul: Patriarch of the noble house during the mid–14 century
+Arus Eltorchul: consort of Thesp
+Fea Eltorchul: heir apparent
+Oth Eltorchul: former heir apparent
+Errya Eltorchul: estranged daughter of Thesp and Arus
+
+Family Tree
+
+Appendix
+Appearances
+Adventures
+The Ruins of Undermountain • Expedition to Undermountain
+
+Novels
+The Dream Spheres
+
+References
+
+FR:Eltorchul
+Connections
+
+---
+
+## Elbencort
+
+Elbencort was a gnome village in extreme eastern Tethyr circa the Year of the Tankard, 1370 DR. It was a settlement of many small cottages that dotted the hillsides surrounded by small farms and vegetable gardens.
+
+Geography
+Elbencort was located on the Tethir Road east of Riatavin where it forded the Shining Stream on the border between County Valashar and County Morninggold.
+
+Elbencourt was among the gnome settlements linked through the magical transportation network known as the Trail of Mists.
+
+Trade
+This small village was self-sufficient and humble in its understated wealth. Some residents sold various gems to the merchants that passed through town, offering them at the high end of the usual price range and seemingly without need to bargain. It was a well-kept secret that Elbencorters got their gems from trade with the deep gnome city of Kolethloe, nearly four miles (just over six kilometers) below Elbencort.
+
+Defenses
+The town had little in the way of defenses, but was under the protection of County Morninggold and perhaps the patrols from the baronies of Carrelath and Impresk. Carrelath had a garrison in the area to protect the upper Shining Stream and Impresk guarded their portion of the Tethir Road.
+
+Rumors & Legends
+Elminster acknowledged that the gnomes might have been bold enough to lie to him about Kolethloe. The story may have been fabricated or "Kolethloe" had a different meaning that what he was told, but the gnomes got their gems from somewhere.
+
+Appendix
+See Also
+ Tagarath
+References
+
+---
+
+## Elemental burst
+
+Elemental burst was a common spell used by wu jen that unleashed a burst of elemental energy from a target. The spell was very rare outside Kara-Tur.
+
+Effects
+To be effective, the target had to contain one or more of the elements air, fire, stone, water, or wood. The spell had a range of  and an area of effect  wide.
+
+Each element had a different effect:
+ Air  Created a burst of air that formed a concussive wave.
+ Fire  Created a fire that would throw off sparks that ignited inflammable material in the spell's area of effect.
+ Stone and Wood  Created a burst of sharp slivers of stone or wood.
+ Water  Created a strong wave that swept through the area of effect. Boats and ships were unaffected.
+
+If a wu jen attempted to cast this spell in the phlogiston, the spell would fail.
+
+Components
+The spell required only verbal and somatic components.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elemental servant
+
+Elemental servant was a common spell used by wu jen. The spell was very rare outside Kara-Tur.
+
+Effects
+The spell allowed a wu jen to call an elemental and forced it into servitude to complete a task. The task was required to be in the domain of the summoned elemental; for example, a water elemental would not perform a service that involved fire. If the elemental was strong enough, it could ignore the wu jen's summons and the spell would subsequently fail. If successful, the elemental was compelled to complete its assigned task.
+
+Once the task was completed, the elemental instantly returned to its plane of existence. Since elementals resented being summoned and compelled into servitude, a wise wu jen used this spell sparingly, else they became the target of revenge on the part of a scorned elemental.
+
+A wu jen was unable to cast this spell in the phlogiston.
+
+Components
+In addition to verbal and somatic components, the spell required material components: a piece of paper with the exact details of the required task written on it, and a large amount of the appropriate element.
+
+Appendix
+References
+
+---
+
+## Elemental turning
+
+Elemental turning was a common spell used by wu jen. The spell was rare outside Kara-Tur, but some elementalists in Faerûn had knowledge of this spell.
+
+Effects
+The spell drove off summoned elementals in a 60-foot (18-meter) radius from the caster. If the elemental was powerful enough, they were able to ignore the spell's effects. The spell's area of effect was centered on the caster and moved with them. If an elemental was unable to escape the affected area, they escaped onto their plane of existence. The spell only affected one type of elemental at a time, and it did not have a negative affect on the caster who summoned or controlled the elementals.
+
+Components
+In addition to verbal and somatic components, the spell required a material component, a small amount of the appropriate element.
+
+Appendix
+Appearances
+Adventures
+ Dungeon #33: "Mad Gyoji"
+Further Reading
+
+References
+
+---
+
+## Elminster's Ecologies Appendix IIIa
+
+Elminster's Ecologies Appendix IIIa was an ecology book authored by Elminster Aumar.
+
+Description
+Physically, copies of the book were old and time-worn, representing tomes. Elminster's Ecologies Appendix IIIa was part of a larger collection of books, Elminster's Ecologies.
+
+The content of the ecological manual explained rare and strange creatures around the vast continent of Faerûn, some of them breeds of existing creatures. Elminster wrote descriptions of such creatures, as well as how to defeat them, if encountered. The following creatures were detailed in the appendix: dense puddings, fire trolls, fission slimes, magic golems and mariliths.
+
+Many chests and bookshelves around Watcher's Keep kept copies of the guides, as the keep itself teemed with a huge variety of rare creatures.
+
+Appendix
+Appearances
+Video games
+''Baldur's Gate II: Throne of Bhaal
+
+References
+
+---
+
+## Elminster's multiple mouths
+
+Elminster's multiple mouths was an evocation spell that created multiple instances of the magic mouth spell.
+
+Effects
+Similarly to magic mouth, Elminster's multiple mouths created a series of floating mouths that appeared on designated items or hung over one or more intended recipients known to, or at least seen by, the caster. The mouths delivered a message recorded by the caster at the time of casting and then disappeared. The spell worked regardless of the distance between caster and recipients, but only if they were located in the same plane of existence.
+
+If only one recipient was specified, the mouths appeared in an encompassing circle and uttered their message in a chorus. For multiple recipients, all mouths appeared simultaneously in front of each of them and uttered their message at once.
+
+The more powerful the caster, the more mouths could be created by the spell. Advanced wizards, upon performing a longer casting procedure, could create separate messages for each of the mouths, or even specify a delay between different mouths.
+
+The message reproduced the caster's intonation, pauses, and volume. Although command words to activate magic items and verbal components of spells did not trigger the intended magical effects when uttered by the multiple mouths, they could be heard and learned by the recipient, who would then be able to use the words effectively.
+
+The magic mouths produced by this spell normally appeared like bearded mouths with a dry voice, but their appearance could be changed. In particular, the Seven Sisters employed a variant that possessed ruby-red lips and spoke with husky voices.
+
+Components
+The spell required only verbal and somatic components.
+
+History
+The spell was attributed to Elminster Aumar. By the mid‒14 century DR, it was known only to the Old Mage himself, the Seven Sisters, Khelben Arunsun, and their disciples.
+
+Appendix
+References
+
+---
+
+## Elixir of youth
+
+An elixir of youth was a potent and rare elixir that reversed aging.
+
+Description
+These elixirs were somewhat similar to potions of longevity, in that they reduced the age of the imbiber. However, these rare elixirs had no chance of negative effects occurring. Consuming the potions made the drinkers younger by 2 to 5 years, but they must consume it in one go, otherwise the aging effect would not be as potent.
+
+Availability
+Elixirs of youth were found in a variety of regions, particularly around the Moonsea.
+
+Creation
+One of the known ingredients for these elixirs was ginseng juice.
+
+History
+A magical spring that produced elixir of youth was once found near Durapatya in the Kuong Kingdom, Malatra. Though its magic had faded by the mid–14 century DR, pilgrims and others seeking cures still flocked there.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elemental bane
+
+Elemental bane was a transmutation spell that temporarily suppressed a creature's resistance to a chosen element and amplified its effect of the target.
+
+Effects
+The caster chose one element out of the possible options of acid, cold, fire, lightning, or thunder, then cast the spell on a creature within a range of . More creatures could be affected by more powerful casters. If unable to resist, the affected creature lost any natural or magical resistance to the chosen element, and took additional damage every time it was damaged by it. The effect lasted for 1 minute, as long as the caster kept concentrating.
+
+Components
+The spell required only verbal and somatic components.
+
+Appendix
+Appearances
+ Princes of the Apocalypse
+References
+
+---
+
+## Elgoeror Indethym
+
+Elgoeror Indethym was a wizard and a member of the Watchful Order of Magists and Protectors in Waterdeep in the 1360s DR. He had a penchant for seducing noblewomen and fraudulently siphoning money from them. One of his marks eventually caught on to his schemes and killed him.
+
+Description
+Elgoeror was devilishly handsome.
+
+Personality
+He was a smooth-talking ladies' man that thought he was very clever.
+
+Abilities
+When not swindling noblewomen out of their wealth, Elgoeror Indethym was an accomplished wizard that developed a spell that could carve a stone surface into an exact copy of another stone surface that the caster touched.
+
+History
+During the 1360s DR, the House of Stone was a focus of activity for adventurers that realized the edifice was no longer being guarded by the elves of Ardeep Forest. It became a fad among the nobles in Waterdeep to hire an adventuring band to bring back one of the many stone murals that decorated the dangerous halls and display it as a status symbol outside a villa. As the supply of carved panels became more scarce and difficult to retrieve, Elgoeror saw an opportunity and researched a spell that could engrave a copy of a stone surface onto another block of stone. He made quite a profit creating copies of carvings until news of the scheme got out and the fad faded. The spell he developed was apparently known only to him and was lost upon his death.
+
+Elgoeror was murdered by one of his noblewoman lovers who stabbed him with a hairpin.
+
+Rumors & Legends
+According to those willing to talk about such things, most of what he swindled was never recovered.
+
+Appendix
+References
+
+---
+
+## Elevate I
+
+Elevate I was a spell unique to Maztica.
+
+Effects
+When cast, this spell elevated an object crafted with featherweaving into the air. The maximum weight of the object and maximum height it can float was determined by the caster's skill level. The caster was able to move the object around while it was floating.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+See Also
+ Elevate II
+References
+
+---
+
+## Elevate II
+
+Elevate II was a spell unique to Maztica. This was a more powerful version of elevate I.
+
+Effects
+The spell was able to levitate objects of considerable weight. The object had to be on a plumalitter. The maximum amount of weight and the height it could be elevated to was determined by the caster's ability. The caster was able to easily move the floating plumalitter around, and it remained still in light winds.
+
+Components
+This spell required only verbal and somatic components.
+
+Appendix
+See Also
+Elevate I
+
+References
+
+---
+
+## Eladrin form
+
+Eladrin form was an arcane transmutation spell that transformed the caster into an incorporeal globe.
+
+Effects
+The caster transformed themself into a globe of eldritch colors, around  wide. It could fly at up to  per minute with excellent maneuverability. Being incorporeal, the caster had no physical strength and could not attack physically, but could pass through solid obstructions such as walls and could only be harmed by other incorporeal creatures, enchanted weapons, magic and psionics, and attacks from most corporeal sources had only a 50% chance of success. While the caster could use innate magic and psionics themselves, they could not actually cast spells. This lasted 78 seconds, or longer for more experienced casters.
+
+Component
+It had only a verbal component.
+
+Appendix
+References
+
+---
+
+## Elmina Barthen
+
+Elmina Barthen was the proprietor of Barthen's Provisions, the largest trading post in Phandalin, in the late 15 century DR.
+
+Personality
+Barthen had a kindly manner.
+
+Relationships
+Barthen employed two local lads, Ander and Thistle, and was quite attached to an ox named Vincent.
+
+Barthen had a good business relationship with Phandalin's Townmaster, Harbin Wester, and helped Harbin and his half-brother, Tibor Wester, to circumvent Neverwinter taxes by transporting supplies to the latter's logging business. Barthen also worked with agents of Dagult Neverember as they rebuilt Leilon, particularly the gnome goatherd Pinchwit Wigglehoof. Thanks to many contacts with wealthy merchants in Waterdeep, Barthen was able to broker major sales for local sellers from Phandalin and Leilon.
+
+History
+In 1491 DR, Barthen and other townsfolk of Phandalin were constantly harassed by the Redbrands, which made local trade more difficult. She was willing to share information with anybody who wished to sort the Redbrands out.
+
+During this time, a dwarf explorer and friend of Barthen named Gundren Rockseeker believed he had located the Wave Echo Cave. Elmina was excited by the potential discovery, and agreed to help supply Gundren and his brothers, Nundro and Tharden. Gundren had hired a new group of adventurers to bring a wagon full of equipment from Neverwinter to Barthen's Provisions, for which Barthen would agree to handover 10 gp each. Gundren let Barthen know that he would meet her at the store before the adventurers, however Gundren never arrived and his brothers both failed to show up to receive their resupplies. This led Barthen to worry.
+
+By 1496 DR, Barthen had closed Barthen's Provisions and moved on from Phandalin.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Elsa
+
+Elsa was a barmaid who worked at the Stonehill Inn.
+
+Description
+The barmaid was said to gossip often.
+
+History
+Circa 1491 DR, she was employed by Toblen Stonehill. She knew that Daran Edermath of Edermath Orchard was a former adventurer, and may have passed this information on to new patrons.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Elasmosaurus
+
+Elasmosaurs   were a type of aquatic dinosaur.
+
+Description
+They possessed long snake-like necks and tails and muscular ovoid bodies with fins in place of legs. Elasmosaurs measured  long, with the tail comprising fully half the length, and couldweigh up to . Those who sighted only the head or tail from the surface might mistake it for an enormous serpent.
+
+Abilities
+They were powerful, quick, and had great maneuverability, being able to make sharp turns. Despite their size, they were surprising good at hiding, at least underwater.
+
+Although largely water-dwelling, elasmosaurs were not amphibious and must return to the surface to breathe.
+
+They saw with low-light vision and had a good sense of scent.
+
+Behavior
+Fintails could be found alone or in pairs, or in herds of 5 to 8 specimens.
+
+Tactics
+They hunted by swimming near the surface with their head above water, then dove swiftly to snatch prey. One would attack any creature it came across, lunging forward with its neck and snapping at its prey.
+
+Ecology
+Habitats
+In the Realms, they could particularly be found in the lake of Moonsea.
+
+Appendix
+External Links
+
+Appearances
+Adventures
+Curse of the Azure Bonds
+
+References
+
+Connections
+
+---
+
+## Eltan (family)
+
+The Eltan family of Baldur's Gate was one of the city's noble patriar families during the 15 century DR. They were descended from Duke Eltan, who once served on the Council of Four.
+
+History
+The family held partial financial ownership of the Flaming Fist mercenary company. At one point however, they were forced to sell their interest to help pay significant debts they had incurred.
+
+Xeremiah Eltan's granddaughter served the city of Baldur's Gate under Counsellor Florrick and was fiercely loyal to the city and Ulder Ulder Ravengard during the Absolute crisis of the .
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Elven Forest (Bral)
+
+The Elven Forest, known simply as the Forest to most Bralians, was the center of elven life in the asteroid city of Bral in the Tears of Selûne.
+
+Description
+Arguably the most beautiful location on the Rock of Bral, the Elven Forest was a fey-like grove, including ash, birch, laurel, and oak trees. A large number of the trees were several hundreds of years old, even though the city itself was not that old. (Some believed that this was because the trees had been imported from other elven worlds.) At the border of the forest, a mystical silver shadow was visible, as if it were a magical wall.
+
+The Forest was located in the Middle City, beyond the Great Market towards the trailing end, and was bordered by Lake Street and Grand Street.
+
+No visitors to the forest have ever seen any residential structures there, and for this reason, the majority of Bralians assumed that elves did not live there and only visited.
+
+The truth was known to less than a dozen humans, but the Elven Forest had a population of more than 300 members of the Elven Imperial Fleet garrisoned there. These elves lived in a secret underground stronghold. No mere cave, the stronghold had fancy paneled hallways with tall chambers lit by lamplight. Only a few non-elves had ever been inside the stronghold, and if they were invited, they were escorted there while blindfolded.
+
+The elves sometimes used powerful illusionary magics to make the large, domed chambers of the subterranean stronghold appear like the green forests and glades of their ancestral homes.
+
+Defenses
+Elven guards in polished mail were posted at each of the entrances to the Forest, preventing anyone from entering the grove without an invitation.
+
+Locations
+A very small embassy building was located somewhere in the forest, but the doorway of this tiny building was only a portal to the secret underground stronghold.
+
+Inhabitants
+The Forest was populated exclusively by service members of the Elven Navy, and these military workers rarely stayed long enough to raise any children.
+
+History
+When the Cloakmaster Teldin Moore arrived on the Rock of Bral, he sought out the Elven Imperial Fleet, hoping that they could help him. He was directed to find the Elven Embassy within the Elven Forest. The guard permitted him passage into their stronghold, where he became the guest of Admiral Uliananor Cirathorn. Over dinner, they discussed with him his previous adventures, the matter of his magic cloak, and the legends of the Spelljammer. They suggested that Teldin visit a falmadaraatha named One Six Nine to seek its knowledge of the cloak and of the Spelljammer, and they arranged for him to travel with a gnome named Dyffed to find the fal, even providing provisions for the journey.
+
+Appendix
+Appearances
+ The Maelstrom's Eye
+
+References
+
+---
+
+## Elemental gem
+
+Elemental gems were gems that had been attuned to one of the Elemental planes and were infused with the power to summon elementals.
+
+Description
+Gems that could be enchanted to become elemental gems included yellow diamonds, red corundums, emeralds, and blue sapphires.
+
+Powers
+Upon breaking or shattering, an elemental gem released its magic and allowed its wielder to summon an elemental in a similar way to a conjure elemental or summon nature's ally spell. Depending on the gemstone, a different elemental would be summoned: yellow diamonds summoned earth elementals, red corundums summoned fire elementals, emeralds summoned water elementals, and blue sapphires summoned air elementals.
+
+Once broken and used, the gem lost its power.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Eltuth Oyim
+
+Eltuth Oiym, known as "Wyvernmaster", was one of the Overwizards of the Arcane Brotherhood in the 1360s DR.
+
+Activities
+Circa 1365 DR, Eltuth was known for the spells he created to control and transform into wyverns. He plotted to conquer Ruathym, Tuern, Evermeet, and even the far-off land of Maztica.
+
+History
+In 1371 DR, after Eldeluc and Valkebar's coup against the Archmage Arcane, Arklem Greeth, Eltuth pledged his loyalty to the conspirators. When Greeth returned, now transformed into a lich with some new devilish allies, Eltuth was killed.
+
+Personality
+Under a facade of being emotionless, Eltuth was very ambitious and loved destroying people and things with his spells.
+
+Appendix
+
+References
+
+---
+
+## Elstearn's Escorts
+
+Elstearn's Escorts was a hireling agency located on just north of Lolth's Web, in the West Wall neighborhood of Menzoberranzan.
+
+Services
+Elstearn's offered the unrestricted services of smart, neat, charming, and attractive drow of either gender to its clientele. While many clients hired the escorts for simple, carnal pleasures, the business had a surprisingly expansive pool of hirelings with skill sets beyond these services, such as articulate and charismatic escorts for social functions, guides and interpreters for visitors to the city, and capable bodyguards who could escort clients in dangerous areas of Menzoberranzan and even on quick excursions into the tunnels just outside the city.
+
+Appendix
+References
+
+---
+
+## Elemental summoning
+
+Elemental summoning was a powerful spell used by clerics, druids and shamans.
+
+Effects
+When cast, this spell summoned an elemental randomly from either the Elemental Plane of Air, Earth or Fire. The summoned elemental obeyed the caster but only remained on the caster's plane for about ten minutes before returning to their home plane. There was a very slight chance this spell could accidentally summon one of the Elemental Princes.
+
+Appendix
+Notes
+In the game Baldur's Gate II: Throne of Bhaal, this spell is listed as a Quest level spell. These are divine spells and are memorized and cast as 7 level spells.
+See Also
+Greater elemental summoning
+Appearances
+Video Games
+Baldur's Gate II: Throne of Bhaal
+
+External links
+
+References
+
+---
+
+## Elok Jaharwon
+
+Elok Jaharwon  was the wereboar pirate captain of the Dragonfang  during the late 15 century DR.
+
+Personality
+Elok was an impatient and humorless individual.
+
+Activities
+Believing himself to be a worthy "king" of the pirates of Jahaka Anchorage, Elok sought to consolidate power among the various crews. He wanted to end the agreement they had with Liara Portyr of Fort Beluarian and stop giving up part of their pillaged wealth.
+
+Relationships
+Elok's first mate was a woman by the name of Mad Kalita. Among the rest of the crew was the Calishite druid referred to as the Eye of the Deep.
+
+History
+Elok was first mate of the Dragonfang until he started a mutiny and overthrew his captain.
+
+Appendix
+References
+
+---
+
+## Elvrin Crownsilver
+
+Elvrin Crownsilver was a member of the noble Crownsilver family that lived in the 5-century DR. He was a trusted advisor to King Duar Obarskyr of Cormyr.
+
+Description
+Elvrin was always seen finely dressed in a silk shirt and breeches, boots that flared at the top, a tabard, and a half-cloak bearing his family crest.
+
+Personality
+Having grown up in the royal court, he was very familiar with the inner workings of the government and how influence and power were gained, lost, and put to use. He had a fairly cynical view of the system and was not afraid to be critical of its flaws.
+
+Activities
+Elvrin rose to the position of royal envoy and was an advisor to the king.
+
+Relationships
+Elvrin respected the elderly King Duar and Duar trusted Elvrin's judgement and loyalty to the crown.
+
+History
+Elvrin was one of the early generation of noble heirs and children that were required to be raised and trained at the court in Suzail. King Duar enacted this rule in order to instill loyalty in the future courtiers. The program had the added benefit of providing handy hostages in case any nobles turned rebellious.
+
+After King Duar defeated the warlord Kuthor Lagarr at the castle of Ironsgates Gard, he chose thirty knights and warriors from various families and factions to guard the transfer of Kuthor's wealth (eventually called the Lagarr Legacy) back to the treasury vaults of Castle Obarskyr, and he put Elvrin in charge of the entire operation. At least twenty heavy wagons, laden with gold coins, gems, and other valuables began the trip to Suzail, but only fourteen of them completed the journey. Unbeknownst to the survivors who heard and saw nothing, at least six wagons, their drivers and guards, and Elvrin Crownsilver vanished from the end of the caravan somewhere along the way. The only trace of riches, wagons, horses, and men that was ever found was Elvrin's severed hand, still grasping his sword, lying in a pool of blood in the road.
+
+Because of the evidence of violence and Elvrin's position of trust, his reputation was not tainted by suspicion of conspiracy. Esteemed explorer and historian, Volothamp Geddarm, reported that elves or bandits with strong magical aid were the primary suspects, but no evidence was found and no information was gleaned from any spells cast on Elvrin's hand or sword.
+
+Appendix
+References
+
+---
+
+## Elwin
+
+Elwin was a pirate hailing from the Sword Coast who settled into a well-paid job in Thay's citrus orchards as a sentry and a slave trader in the mid–14 century DR. His name meant "friend to the elves".
+
+Description
+Like many people in Thay, Elwin's head was clean-shaven. His teeth were broken and his chin was scarred, showing his rough past.
+
+Personality
+Elwin was a cruel and selfish man. After being charmed he showed affection towards Brenna and her companions, even though he wouldn't have hesitated to sell them into slavery beforehand.
+
+The pirate did have a softer side to him: one of the small pleasures in life for him was watching the fyreflies in the orchards at night.
+
+Possessions
+He wore his two daggers on a strap around his chest.
+
+History
+Elwin was born on the Sword Coast. He spent his life on a pirate ship until a few years prior to 1362 DR, when Elwin's ship started selling slaves for Thay. Elwin decided to stay in Thay, having been seduced by the easy life, pay, and labor in the orchards, while doing some slave trading on the side.
+
+In 1362 DR, Elwin oversaw a Thayan citrus orchard's orc sentries. His patrol came across Harper agents Brenna Graycloak, Galvin, and Wynter. Following a short scuffle, the orcs were restrained by Galvin's entangle spell, and Elwin himself was mesmerized into being the Harpers' guide to Amruthar by Brenna's charm spell.
+
+The charmed slaver's help did not last though. Later the same night, he brought the Harpers to a small thickly wooded area behind an abandoned barn. The structure stood a few miles away from the orchard, giving them some privacy. Shortly after, the group was ambushed by ghouls in the night. The Harpers survived, but Elwin did not fare well against the terrifying undead. He likely later came back to life as one of the ghouls.
+
+Appendix
+AppearancesRed Magic''
+References
+
+---
+
+## Electric spider
+
+An electric spider was a large type of spider that attacked with lightning bolts.
+
+Combat
+These large spiders were completely immune to lightning-based attacks. The preferred to seek out foes in narrow corridors, so they could send out a lightning bolt, hitting multiple foes. They also had no problem with the bolt bouncing back at them, as they could totally resist its effects.
+
+Ecology
+Electric spiders could sometimes be found in Leilon, Port Llast, and the Tower of Twilight. They were also known to dwell in the realm of Kalistes, as well as in the Underdark.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Elza
+
+Elza was the shopkeeper that ran Blackiron Blades in Bryn Shander, during the late 15 century DR. She worked along side her brother Garn, a smith of middling skill.
+
+Activities
+Elza spent much of her time expanding the Blackiron business, offering a wider variety of items for sale within the shop. She sold many goods that were essential for life in the frigid north, such as rations, cold-weather clothing, and equipment for traveling across snow and ice.
+
+She sold these goods at a significant markup compared to the prices offered by other stores.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Elysium/Imagemap
+
+The following image map was generated using information compiled from the following sources:
+
+---
+
+## Eltrym Drauthglas
+
+Eltrym Drauthglas was an independent land owner in the Hullack Forest in the 12 century DR. His land was forceably annexed by the kingdom of Cormyr, but Eltrym was allowed to keep his title and stewardship of the land. He was the last male Drauthglas and by tradition the bloodline ended with him, even though he was survived by six daughters.
+
+Description
+Eltrym was tall and had a very dignified bearing. In later life, the hair on the top of his head disappeared, but had a full gray beard.
+
+Abilities
+He was a skilled hunter and warrior for most of his adult life. He was crippled in battle when a horse rolled over him.
+
+Relationships
+Eltrym sired four sons and six daughters. All four male heirs were killed in battles with Cormyr. His daughters, from eldest to youngest, were Jalalla, Theera, Ghaunyl, Ileeyra, Ormarra, and Yolara. His wife preceded him in death by a number of years.
+
+Despite having been conquered by Cormyr, Eltrym eventually became friends with King Pryntaler and they enjoyed playing chess and discussing Cormyrean business over a glass of wine.
+
+History
+The history of the conflict between Pryntaler and Eltrym, as seen from the royal perspective, was documented by Lady Auleethaea Cormaeril, a lady-in-waiting to Queen Alvandira, in her diaries.
+
+Appendix
+References
+
+---
+
+## Element
+
+In the various cosmologies and schools of magic on Toril, an element was one of the fundamental building blocks of the universe. The elements, together with the two energies, positive energy and negative energy, composed everything that existed on the Material Plane. On the Material Plane, the elements were roughly in balance; whereas, on the Inner Planes, one element or energy dominated over the others.
+
+Different cultures counted the elements differently. In Faerûn, four elements were acknowledged—air, earth, fire, and water. Zakharan sages recognized the same four elements but named them wind, sand, flame, and sea, respectively. The sages of Kara-Tur, in contrast, held that there were five elements, not four. These were fire, metal, water, wind, and wood.In the real world, in Chinese philosophy, the five elements are earth, fire, metal, water, and wood. In Japanese philosophy, the five elements are earth, fire, water, wind, and void (or ether), which correspond exactly to the Western classical elements. In 1 edition, the Oriental Adventures sourcebook provides the five elements of fire, metal, water, wind, and wood, which does not match either the Chinese or Japanese list. The 3-edition Oriental Adventures sourcebook appears to "correct" this by listing the five elements as the Chinese list of earth, fire, metal, water, and wood. However, 3-edition Oriental Adventures is not a Forgotten Realms sourcebook, so this wiki lists the five Kara-Turan elements originally provided in the 1-edition sourcebook. Wu-jen in that land could master one of these five elements.
+
+Appendix
+See Also
+ Elemental magic
+ Acid
+ Cold
+ Electricity
+ Force
+ Sonic
+
+Notes
+
+External Links
+
+References
+
+---
+
+## Elladuth Myristar
+
+Elladuth Myristar was the owner and innkeeper of the Pearl-Handled Pipe in Yartar during the 14 century DR.
+
+Activities
+Elladuth had a great love of interior design and an eye for decor. She regularly bought new pieces of furniture from merchants passing through Yartar and displayed them within her inn.
+
+She often expanded the size of the Pearl-Handled Pipe just so it could accommodate more of her collection. The inn's attic space was full of pieces for which it simply did not have room.
+
+Appendix
+References
+
+---
+
+## Eli yn Estaar
+
+Eli yn Estaar was an ink-maker who owned a shop in the city of Calimport.
+
+Possessions
+Eli was the owner of Eli yn Estaar's Inks, which was located in his two-story row home in Jhalal Drudach of Jhaapir Sabban in Quill Ward.
+
+Activities
+Eli was one of a small number of ink-makers who could be paid to poison quills or ink to use in assassinations. If paid enough, Eli had no qualms about simply carrying out assassinations himself.
+
+Appendix
+References
+
+---
+
+## Eli (disambiguation)
+
+"Eli" was a male given name in multiple languages in Faerûn. Individuals named Eli included:
+ Eli Marshking, a Zhentarim captain,
+ Eli yn Estaar, an ink-maker and assassin from Calimport, and
+ Eli el Beza, the sultan of Wizard Ward in Calimport.
+
+---
+
+## Elbryn Scatterstars
+
+Elbryn Scatterstars was the head of his Cormyrean family when they became ennobled in the early 13 century DR.
+
+Description
+Elbryn had a slender build and always dressed in fine clothes without much pretense or ostentation. He had somewhat delicate features, blond hair with a mustache, and green eyes.
+
+Personality
+He was a wine connoisseur and an attentive host to guests of the Crown. King Dhalmass appreciated and took advantage of his discretion as a seneschal of the Palace.
+
+Abilities
+Elbryn was an astute businessman who gained significant wealth through strategic shipping contracts. He also enjoyed falconry.
+
+Possessions
+He had an extensive wardrobe of high-class clothing.
+
+History
+In the, Elbryn was part of an escort sent by Dhalmass to ensure the safety and comfort of an important Sembian trade representative on the road to Immersea. While camping for the night, a stolen pay-wagon—known to history as Waevor's Wagon—barrelled through the group without forerunners or lights. Elbryn and fellow noble Tharim Roaringhorn were both struck by the careening conveyance and died from their injuries.
+
+Appendix
+References
+
+---
+
+## Elminster's eversmoking pipe
+
+Elminster's eversmoking pipe was a type of magic pipe developed by Elminster Aumar. Besides its functions as a pipe, it contained a number of special properties and could also be employed as a weapon.
+
+Description
+The pipe was made from a dark and lustrous wood. It had a smooth curved shape and a large bowl, measuring about  in length. Pipes of that particular design were commonly carved out of felsun root.
+
+The eversmoking pipe produced small amounts of a thick, greenish smoke that displayed occasional sparks. This smoke kept insects away, including magically summoned ones.
+
+Powers
+Elminster's eversmoking pipe was activated and deactivated by command words given by any creature directly touching it. Once lit, the pipe automatically refilled its supply of tobacco or pipeweed by using the Drawmij's instant summons spell, teleporting the weed from a known store. It remained lit as long as supplies lasted or until given the command to deactivate. A third command word magically teleported the pipe to its owner's hand.
+
+A lit eversmoking pipe was shielded from the elements by a small wall of force shaped like a hemisphere above the pipe, which protected it from rain, snow, and strong winds, including magical winds such as those produced by a gust of wind spell. However, the pipe did not function underwater or in the absence of air, and a quench fire or dispel magic spell was capable of extinguishing it.
+
+Despite being protected against overheating by normal operation, the pipe did incur a few risks depending on environmental conditions. If an eversmoking pipe came within the area of a cloudkill, dust devil, dust storm, pyrotechnics or stinking cloud, it ignited a fireball that risked destroying the pipe itself. In addition, like any pipe, hitting or dropping Elminster's eversmoking pipe risked spilling lit tobacco of spreading flames that could ignite nearby flammable objects.
+
+A hard blow through the pipe's stem hurled a spinning ball of flame similar to one of Melf's minute meteors out to a range of . The pipe could also produce the effects of a pyrotechnics spell, and it was immune to the effects of its own magic. None of the effects produced by Elminster's eversmoking pipe could be traced back to its owner, not even magically.
+
+A sufficiently powerful wizard could magically manipulate the smoke from an eversmoking pipe, changing its color and luminescence, and giving it different shapes to form rudimentary images.
+
+It was possible to obtain a variety of effects by burning different substances in an eversmoking pipe. For example, burning lamp oil produced numerous jets of flame that resulted in an explosion that destroyed the pipe; burning wet green leaves produced a thick black smoke that was continuously produced until the pipe was purposefully extinguished or destroyed; burning dry leaves produced a white smoke that was useful in smoking meats and concealing smells; and burning flower petals, cloth, or paper produced a pleasant smell capable of scenting an area.
+
+Two varieties of Elminster's eversmoking pipe could be constructed: a permanent and a non-permanent one. The non-permanent version needed to be recharged by its wielder, through the casting of the spells that it was capable of holding. Overcharging a non-permanent eversmoking pipe risked exploding the item.
+
+History
+Elminster developed his eversmoking pipe after using a number of other different pipes.
+
+Sometime after developing the pipe, Elminster shared its construction details with Sarghun, a wizard from Silverymoon. Since then, Sarghun revealed the pipe's details to other wizards, who then became capable of replicating it.
+
+Reputation
+The pipe was considered one of Elminster's signature possessions.
+
+Some of Elminster's rivals maintained that he showed symptoms of senility by talking to his pipe. While these rumors were untrue, Elminster was seen once remotely arguing with the Simbul using his pipe as a focus for the sending spell.
+
+Notable Owners
+Elminster owned several identical copies of his pipe that were kept in all his residences throughout Toril and Realmspace. His own eversmoking pipes had additional capabilities besides those of the generally known design. It imbued the user with a protection from arrows spell and was capable of reflecting magic missile darts back at their caster. If submerged, the pipe created an airy water effect around it that lasted for 12 minutes. Its wearer could also use the pipe to cast dimension door up to nine times a day, out to a range of .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elemental handglyphs
+
+Elemental handglyphs were deadly offensive handglyphs used by the Geomancers of Kadar to harness the raw power of each element.
+
+Powers
+The power of the elemental handglyph depended on the element which it harnessed. Examples of these handglyphs included a handglyph of fire, a handglyph of cold, and a handglyph of lightning. Especially deadly handglyphs of disintegration also existed.
+
+These handglyphs would typically discharge the effects of a spell related to their element including fireball, cone of cold, lightning bolt, or a ray of disintegration. Their maximum range was usually .
+
+Most elemental handglyphs had between 1—4 charges. They could be recharged, but the process for doing so was known only to a select few wizards in Rog'osto who charged handsomely for their services.
+
+Description
+These items could be found in a variety of shapes and sizes.
+
+Appendix
+References
+
+---
+
+## Elfshot
+
+Elfshot arrows were enchanted weapons used to paralyze an enemy without causing them physical harm.
+
+Uses
+The enchantment on these arrows made it easier for them to strike their target. Upon striking true they would paralyze the target then vanish without causing harm. The target remained paralyzed anywhere from several minutes to nearly half an hour.
+
+These arrows were typically used by elves.
+
+Notable Users
+The elven guards of Goldenleaf Stables used elfshot arrows.
+
+Appendix
+References
+
+---
+
+## Eli el Beza
+
+Eli yn Adnan el Beza was the Caleph Arcane of Calimport and the Sultan of Wizard Ward.
+
+Description
+Eli was a bald man whose skin was covered in magical tattoos, including sigils and a detailed red wyvern design with its head at his left brow, the body arching behind his ear, and the tail curling around his neck.
+
+Personality
+Despite an appearance that made some uneasy, Eli was actually good natured an easy to talk to. He smiled often.
+
+However, he was a terror to his enemies; his eyes had an icy glare when he was angry.
+
+Eli el Beza was fascinated with Thayvian culture, which is why he was bald and tattooed. Supposedly, has admiration of Thay gave him the drive to claim the seat of the Caleph Arcane.
+
+Possessions
+Eli's home was a villa in Ziana Drudach of Najja Sabban in Wizard Ward. The complex, named Suryvlashadah, contained three large buildings of red granite and a five-story minaret of white marble. The villa was surrounded by a high wall and had an arched gate. To enter the villa, visitors would speak to the keystone of the gateway, which was shaped like a lion's head. The wall was not guarded; any intruders would find themselves grappled by stone arms coming from the walls.
+
+The courtyard and other places in the villa were filled with stone statues, which some suspected were petrified enemies of the syl-pasha.
+
+Activities
+As Caleph Arcane, Eli was in charge of the most powerful guild in Calimshan. As sultan, his job was to manage the district of Calimport with the most powerful concentration of magic.
+
+Relationships
+Eli was the younger brother of Nur el Beza of Almraiven.
+
+History
+Eli el Beza came to power through his brutal methods of dealing with his enemies. It was said that he knew a unique spell in which he turned a silver piece into a sack of spider eggs, with which he choked and/or poisoned them. This earned him the nickname "Spidermaw".
+
+Appendix
+References
+
+---
+
+## Eldura Moreen
+
+Eldura Moreen was a great inventor and bloodforge mage in the Utter East during the time of the Bloodforge Wars (648–657 DR).
+
+Eldura worked tirelessly within the Hall of Wonder to discover the essence of the bloodforge. But the leader of the Legendary Campaign resolved that no-one should know the secret of what the gods had wrought, and went there to put an end to Eldura's quest in a bloodforge battle.
+
+Appendix
+Notes
+ The race and gender of this game character are not known, as their portrait is randomly selected every time the level is played.
+
+References
+
+---
+
+## Elfsong Cider
+
+Elfsong Cider was a distinctly average cider named after the Elfsong Tavern in Baldur's Gate and served for the first time during the 14 century DR by "Lady" Alyth Elendara.
+
+Description
+This cider was notably fruity and flat. That was the only notable thing about the beverage's flavor. The cider was sold across the Sword Coast just on its name and the Tavern of its origin's reputation. The Elfsong Tavern was made famous by the strange haunting ghostly female voice heard there on occasion and a stuffed baby beholder doll that hung over the bar.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Electric eel
+
+{{Creature
+| image        = ElectricEel-CC.png
+| caption      = An electric eel discharging its body.
+| name         = Electric eel
+| othernames   =
+| basicrefs    =
+| size5e       =
+| type5e       =
+| subtype5e    =
+| alignment5e  =
+| challenge5e  =
+| refs5e       =
+| size4e       =
+| origin4e     =
+| type4e       =
+| subtype4e    =
+| alignment4e  =
+| refs4e       =
+| size3e       =
+| type3e       =
+| subtype3e    =
+| alignment3e  =
+| challenge3e  =
+| refs3e       =
+| size2e       =
+| alignment2e  = Neutral
+| refs2e       =
+| size1e       = Medium
+| alignment1e  = Neutral
+| refs1e       =
+| patron deity =
+| movement     = Swimming
+| vision       =
+| activecycle  = Any
+| diet         = Carnivore
+| lifespan     =
+| location     =
+| language     =
+| subraces     =
+| climate      = Warm
+| terrain      = Fresh waterSalt water
+| genrefs      =
+| height       =
+| length       =
+| wingspan     =
+| weight       =
+| skincolor    = Grey (Largely)Red or green (Stomach and throat)
+| haircolor    =
+| hairstyles   =
+| feathers     =
+| eyecolor     =
+| build        =
+| distinctions = No teethScaleless
+| appearrefs   =
+| first        = [[Monster Manual 1st edition|Monster Manual 1 edition]]
+| based        = Electric eel
+| histrefs     =
+}}
+Electric eels were a rarely-sighted species of eel in Faerûn that possessed the unique ability to discharge a field of electricity. Electric eels endemic to saltwater and ocean environments were sometimes called marine eels.
+
+Description
+Electric eels had long scaleless bodies, with mouths devoid of teeth, and two short pectoral fins. They also had a single pelvic fin that stretched across most of the length of their stomach. This pelvic fin enabled the eels to quickly propel themselves in any direction, even backwards. Their bodies were largely a dull gray, though often displayed either green or red coloration on both their stomach and throat.
+
+However, the body length of a fresh water and marine electric differed significantly. Electric eels that inhabited freshwater environments typically grew to an average length of . The marine variety were known to grown to lengths of around .
+
+Biology
+Electric eel possessed an inherent immunity any form of damage from electicity.
+
+Behavior
+Like most species of eel, an electric eel were not aggressive creatures and would only attack if disturbed or threatened.
+
+Combat
+When either hunting or needing to protect itself, an electric eel was capable of discharging a jolt of electricity out to radius of . This would either stun or outright kill most nearby creatures. If done for the purpose of self-defense, an electric eel would typically try to flee from their opponent afterwards in order to recover from the discharge.
+
+Rumors & Legends
+In the late-14 century DR, rumors circulated claiming that kuo-toa were trying to capture and domesticate electric eels to guard their lairs.
+
+Ecology
+Outside of when it came time for them to breed, electric eels spent most of their life solitarily. However, often times releasing a jolt of electricity would attract nearby electric eels, hopeful that they can take part in eating a killed creature.
+Diets
+Electric eels were a carnivorous species. They typically feasted upon small fish and frogs, swallowing them whole as they lacked teeth.
+Habitats
+Electric eels were known to inhabit shallow bodies of both fresh water and salt water, commonly at depths of . Some particular bodies of water that the fresh water variety were known to inhabit were the Lake of Dragons and tropical areas of the Sea of Fallen Stars.
+
+Beyond the Prime Material plane, electric eels could be found in the Para-Elemental Plane of Ooze.
+Relationships
+Though very difficult to train, some aquatic rangers were known to have them as animal companions.
+Usages
+Several crushed electric eels could mixed with the blood of a blue dragon in a broth to enchant its tooth.
+
+Summoning
+An electric eel could be summoned in fresh water with the summon monster II spell, while a giant electric eel could be summoned in fresh water with the summon monster V spell. With the summon monster VI'' spell a mighty marine eel could be summoned in any type of watery environment, with those who specialized in sea magic able to summon between 1 and 3 with that same spell.
+
+Appendix
+Notes
+
+Appearances
+
+External Links
+
+References
+
+---
+
+## Elfmaid's Tears
+
+The Elfmaid's Tears was a constellation in Realmspace.
+
+Observation
+The Elfmaid's Tears were visible in the Sword Coast North, particularly over the city of Waterdeep.
+
+Appendix
+Appearances
+Novels
+The Dream Spheres
+References
+
+---
+
+## Elven healing wine
+
+Elven healing wine was a unique type of elven wine, found only in the ruins of Severed Hand.
+
+Powers
+This wine possessed the properties of a healing potion.
+
+History
+Some time prior to the fortress's destruction, the Seldarine priests of the Hand of Seldarine became heavily intoxicated during an elven festival one day. In their drunk stupor, the priests accidentally added a barrel of some type of elven wine to a mixture that had been intended for healing potions. Following this incident, bottles of the new concoction were sold by the elven merchant Lehland.
+
+Following his transformation into a ghost, Lehland continued to offer elven healing wine alongside other products.
+
+Appendix
+
+Appearances
+Video Games
+Icewind Dale series
+
+References
+
+---
+
+## Elena
+
+Elena was the elf cleric who fell in the Weeping War. As a ghost, she haunted the Dwarven Dungeons' Turgild's Square underneath Myth Drannor.
+
+Description
+In life, Elena used jasmine perfume. In death, the gentle comforting scent of the flowering plant followed her incorporeal form.
+
+Possessions
+Elena's pewter locket was a delicate magical amulet that she gifted to her beloved at some point before their deaths. The item possessed enchantment that increased the wearer's wisdom and intelligence.
+
+Relationships
+Elena's lover Garras, was trapped in an existence as a ghost in the Dwarven Dungeons Halls of Stone.
+
+History
+Along with countless souls, Elena perished in the Weeping War, circa 714 DR.
+
+In 1369 DR, Elena encountered the adventurers from Phlan seeking to stop the Cult of the Dragon plan of corrupting the elven city's mythal. She let them to Turgild's Square and asked for their aid in returning her favorite magic fountains from the lost days of the city's glory, back to function. The magical mechanism that powered the fountains was in the Dwarven Dungeons' Deep Halls and guarded by a powerful dwarven statue golem called the Lifespring Guardian.
+
+With Elena's cryptic advice, the adventurers found her beloved's final resting place, disturbed and defiled. They restored dignity to Garras' dead body, receiving his ghost's gratitude. They did the same to Elena's defiled tomb in the Deep Halls. Both restless spirits, Elena and Garras lent their strength to the battle with the Guardian. Subsequently, the heroes defeated the golem, freeing Elena and her lover from their ghostly existence.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+---
+
+## Elena's pewter locket
+
+Elena's pewter locket was a delicately crafted magical pendant that belonged to Elena who haunted Turgild's Square underneath Myth Drannor circa 1369 DR.
+
+Powers
+Elena's pewter locket was a magical amulet that possessed the enchantment that increased the wearer's wisdom and intelligence.
+
+History
+At some point before the couple's death around the Weeping War in 714 DR, Elena gifted the magical pewter locket to her beloved Garras. At some point, the locket was removed from his body, disturbing his final resting place by the creatures or invaders of the ruins.
+
+At some point in 1369 DR, Elena's pewter locket was recovered from the ruins by either the adventurers sent to stop the Cult of the Dragon, or halfling thief and trader Nottle.
+
+Appendix
+Appearances
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+References
+
+---
+
+## Electrum dragon
+
+Electrum dragons, also called Draco Magus electrum, were rare metallic dragons. Peaceful and philosophically inclined, they preferred to live far from civilized areas.
+
+Description
+They had deep green eyes.
+
+Personality
+Electrum dragons enjoyed debating and trading, and were generally welcoming to visitors. They were very fond of beautiful objects. For that reason, their hoards tended to have relatively small amounts of coins, but large amounts of finely crafted items such as statues, tapestries, musical instruments, gems, and jewelry.
+
+Biology
+Breath
+The unique dragon breath of electrums consisted of a gas that had the effect of rendering creatures weakened and confused, in an effect similar to the ray of enfeeblement and confusion spells. These effects lingered in the area for several seconds after being released by the dragon.
+Reproduction
+Electrum dragons tended to mate only once a century, in a ritual that included exchanging spells and playfully flying together. After about one year, the female dragon produced a clutch of one to four eggs. Their eggs were rubbery and measured about  in length. Once laid, the eggs hatched in a few days.
+
+Abilities
+Competent spellcasters, electrum dragons possessed several innate magical abilities starting from birth. As they aged, their natural talent allowed them to learn numerous spells, such as detect magic, read magic, identify, locate object, dispel magic, telekinesis, project image, and heal.
+
+Combat
+Despite being peaceful creatures, electrum dragons made for formidable foes if attacked. Their peaceful demeanor granted them a serene alertness during fights, allowing them to observe and anticipate their enemies' strategies.
+
+History
+Electrum dragons were known allies of the elves of Myth Drannor. They could be occasionally found within the area of the mythal that permeated that region.
+
+Society
+Typically solitary creatures, electrum dragons liked to observe their surroundings by perching on high mountaintops, where they remained immobile for large periods of time. They also enjoyed spending their time experimenting with magic and procuring beautiful items to add to their hoards.
+Relationships
+Electrum dragons were a favored monster of the deity Dugmaren Brightmantle.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Elyse
+
+Elyse was an orphaned homeless girl in Ravens Bluff in the late 1350s DR. She had a gift for prophecy.
+
+Description
+Appearing to be aged 7 or 8, Elyse had blonde hair and wide blue eyes with an alert expression. Although homeless, she managed to find cleaner, better clothes than others in her situation.
+
+Personality
+She was polite and giggly.
+
+Activities
+
+Elyse begged for copper pieces and food from passersby, but sometimes related a cryptic prophecy or hidden truth for them.
+
+Relationships
+Elyse didn't know the whereabouts of her parents, but hoped they'd come back for her soon.
+
+She had a pet cat named Merrylson.
+
+While local Ravenians knew Elyse well and liked her, they were uncomfortable with her because of her habit of saying things they'd rather keep hidden.
+
+History
+
+She had been an orphan for years. While Ravenian courts and temples tried to place her with a foster family, she kept running away.
+
+In the, Elyse may have begged for money from a group of adventures, and told them a prophecy.
+
+Abilities
+Elyse had a natural but rudimentary talent for psionics, being capable of empathy and precognition, as well as the mind thrust attack mode and the mind blank and thought shield defense modes. However, she couldn't control these, and only manifested them instinctively.
+
+Appendix
+References
+
+---
+
+## Eler Had
+
+Eler Had was a Bhaalspawn who joined the forces of Gromnir Il-Khan during the Bhaalspawn crisis of Tethyr in the mid–14 century DR.
+
+Possessions
+He wore the powerful grandmaster's armor once worn by the great assassin Vita Muerte.
+
+History
+When Saradush was under siege by Yaga-Shura in the, Eler remained with Gromnir Il-Khan while his forces barricaded themselves within the city's castle. He fought in Gromnir's last stand against their fellow Bhaalspawn Abdel Adrian, and his adventuring companions.
+
+Appendix
+Notes
+
+Appearances
+Video Games
+ Baldur's Gate II: Throne of Bhaal
+
+External Links
+
+References
+
+---
+
+## Eldath's tranquility
+
+Eldath's tranquility was a divine magic spell available to worshipers of Eldath, the Mother Guardian of Groves.
+
+Effects
+When cast, the spell created an aura of peace and calm around the caster. When an animal encountered this aura, it saw the caster as friendly and nonthreatening. The spell was often used to calm an angry or frightened animal.
+
+Components
+In addition to somatic and verbal components, this spell required material components, the caster's holy symbol and a piece of food.
+
+Appendix
+References
+
+---
+
+## Elixir of Silvanus
+
+An Elixir of Silvanus was a powerful curative potion that could cure many poisons.
+
+Description
+Such tonics were kept in dark jars with hempen rope tied around their neck. They were said to be blessed by Silvanus himself, and could cure even the most lethal poisons, the poison from the thorns of Kelemvor's Kiss.
+
+Preparation
+The Elixir of Silvanus was created by boiling a bundle of mugwort in a pot-full of theriac antidote, as per instructions listed in the botanical book Flora of the Dalelands.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate III
+
+References
+
+---
+
+## Elevar
+
+Elevar was a dwarf and seneschal of Darkdance Manor in Westgate as of 1480 DR.
+
+Activities
+Though he was both blind and mute, Elevar was quite adept at maintaining the estate.
+
+Appendix
+
+References
+
+---
+
+## Elsger
+
+Elsger was a Mar sailor on board the Morning Bird under cowardly captain Jander Turbalt in the mid–14 century DR.
+
+History
+Elsger was part of the crew of the ship hired by a mysterious individual named Belmer Droon to transport himself and his hirelings under the cover of night from Tharkar to Eldrinpar. The voyage turned out to be a dangerous one as shortly after sailing the Morning Bird was chased by a grim-looking black ship. The black ship bombarded the Bird with fire pot missiles and terrifying boneballs, making the passengers and the crew fight for their lives. Narrowly escaping the pursuers, thanks to Belmer's skill and magic items, the Morning Bird found itself besieged by Umberlee's ghost ship and its sea zombies.
+
+After appeasing the Bitch Queen, the Morning Bird was caught up with by the Black Dragon, helmed by the infamous captain Orim Redbeard. Belmer Droon managed to convince the pirate captain to leave them alone, even though one of his hirelings, Kurthe Lornar, was getting ready to take over the Bird and pursue Orim Redbeard, blinded with vengeance. Kurthe ordered Elsger to aid him. Kurthe Lornar himself was killed in a duel with Belmer over the attempted mutiny.
+
+Soon after, the Morning Bird sprouted leaks, likely because of Orim Redbeard's magic, rotting the hull of the ship. The crew and passengers had to evacuate the sinking ship and swim with their belongings to the shores of Doegan. Surviving the dangers of open waters, they soon encountered the creatures that made Doegan infamously deadly—the "fiends". Elsger was the first victim of the evil creatures when he was snatched and eviscerated by a forest-dwelling "fiend", left hanging in the shadowtop trees like a freshly buttered meat in a slaughterhouse.
+
+Appendix
+Appearances
+Novels
+The Mercenaries • An Opportunity for Profit
+
+References
+
+---
+
+## Elan Tanor'thal
+
+Elan Tanor'Thal was a drow wizard of House Tanor'Thal in Undermountain in the early 1490s DR.
+
+Activities
+Elan was a student of the magical academy on the Dweomercore level.
+
+History
+House Tanor'Thal once ruled a successful slaving ring in Skullport until the Xanathar's Thieves' Guild destroyed them.
+In 1492 DR, Elan was at the Dweomercore studying magic.
+
+Personality
+Elan's objective was to gain enough magical power to conquer Skullport for his family. He was a typical treacherous drow; at first he appeared friendly to people, only to betray them later.
+
+Appendix
+Appearances
+ Waterdeep: Dungeon of the Mad Mage
+
+Notes
+
+References
+
+---
+
+## Ellyn'taal
+
+Ellyn'taal was a city located in the Northdark.
+
+Description
+Ellyn'taal was an abandoned illithid city of the northern parts of the Underdark. The once-populated chambers of the city were carved with scriptures of the mind flayers. Staying in the empty halls of Ellyn'taal too long could cause one to become mad. Only undead servants and mind flayer ghosts inhabited the city, as well as the undead elder brain, Ioulaum.
+
+Trade
+Information about the ancient magocracy of Netheril could be found here, but only for a very steep price. In exchange for such knowledge, one would lose part of their sanity or their knowledge of an epic spell, which would be lost to them for eternity.
+
+History
+In -371 DR, the Netherese arcanist, Ioulaum, became a lich and established a base close to Ellyn'taal. In -339 DR, he foresaw that the fall of the Netherese empire was nigh. Thus, he abandoned his enclave permanently and laired in the base he had previously established. Ioulaum took apprentices from both the Netherese refugees, and also the mindflayers of Ellyn'taal. These illithids were known as the Alhoon and became the very first illithiliches (which would later generally become known as alhoons).
+
+Ioulaum took the minds of his illithid students and created an undead elder brain; he then merged his own mind with it. Almost all of Ioulaum's students perished in the production of the elder brain, but some of them escaped. The escapee mind flayers told the story of the creation of an undead elder brain to those of the Underdark. One of Ioulaum's human students, Tabra, saw the production of the elder brain, and believed that the mind flayer students had destroyed her master. In response, she made her way to Ellyn'taal and cast Ioulaum's longevity on herself, destroying the city-dwelling illithids in the process. She was still alive as of the 15 century DR.
+
+Tabra was not the only one to have survived to the 2 millennium DR, as Ioulaum too would survive as the undead elder brain he had created. He would become known as the Oracle of Ellyn'taal.
+
+Rumors & Legends
+In 329 DR, it was rumored that Ioulaum was actually killed by a faction of alhoons; in response Tabra butchered the mind flayer inhabitants of the city.
+
+Notable Inhabitants
+ Ioulaum, an archmage who survived here as an undead elder brain
+ X'ss'a, a mind flayer who was once imprisoned by the ruler of Runlatha
+
+Appendix
+References
+
+---
+
+## Elira Seasilver
+
+Elira Seasilver was a noblewoman of House Seasilver and the grand duchess of Marsember during the late 15 century DR.
+
+Description
+Elira could be cold, dismissive and emotionally manipulative.
+
+Personality
+She had a particular distaste for apples and anything apple-flavored.
+
+Relationships
+Lady Elira and her husband Grand Duke Farnig Seasilver had a single daughter, named Arietta. Elira thought little of her daughter's independent streak and believed her duty was to family first, over her country or her people.
+
+History
+On Uktar 2 of the, Lady Elira was captured by Yder Tanthul during the evacuation of Marsember, in the conflict between Netheril and Cormyr. She was rescued a short time later by the combined efforts of her daughter and house guards, guardsmen of the Marsember Watch, and three chosen of the gods; Kleef Kenric, Joelle Emmeline, and Malik el Sami. The grand duchess was then sailed to safety by watchman Jang, presumably to her extended family in Westgate.
+
+Appendix
+Appearances
+Novels
+ The Sentinel
+References
+
+---
+
+## Elua's Ride
+
+Elua's Ride was a small road found in the Moonsea region connecting Hillsfar and Elventree.
+
+Description
+Elua's Ride exited Hillsfar to the south before quickly turning east along the northern edge of the Elven Court forest. It connected with Elventree along the border of the great forest.
+
+Appendix
+References
+
+---
+
+## Elder Concord
+
+An Elder Concord was a ruling body in illithid society made up of individual Creed representatives.
+
+Organization
+The members of Elder Concords were Creedmasters, each who represented their Creed.
+
+Each Elder Concord in a society was tasked with rulership responsibilities. However, the society's elder brain could propose its own plans and even decide the action taken by the Elder Concord, should they be undecided.
+
+Elder Concords were responsible for electing officials in illithid community, such as quastors (finance and trade officials), vigileators (security officials), and aedileators (general officials).
+
+When a circumstance required the attention of more than one mind flayer society, the individual Elder Concords would come together as a Grand Elder Concord. The Grand Elder Concord was a temporary body, and would be dissolved after the affairs were dealt with.
+
+Activities
+For meetings, Elder Concords gathered around a platform that surrounded the society's elder brain.
+
+History
+In the 14 century DR, Thalynsar the Ulithautarch the foresaw that a Grand Elder Concord would rule Toril. Thalynsar anticipated that all elder brains would merge with ulitharids in order to achieve this.
+
+Known Elder Concords
+ The Elder Concord of Ch'Chitl
+ The Elder Concord of Oryndoll, formed of exclusively ulitharid Creedmasters
+
+Appendix
+References
+
+---
+
+## Ellis
+
+Ellis was the commander of the guard who served the Cult of the Dragon during its occupation of the ruins of Myth Drannor in 1369 DR.
+
+Description
+Ellis was a  tall muscular human male. He appeared to be middle-aged in 1369 DR, and had white hair and white beard.
+
+Personality
+Even though he was an evil person, he cared for the wellbeing of his subjects and often stood up for them to the Cult's clerics and wizards who often disregarded non-spellcasters. He was fully committed to the Cult of the Dragons and was ready to slay any of creature opposed to the cause.
+
+Abilities
+Ellis was well-versed in combat. He had honed lightning-fast combat reflexes, was trained in the used of martial and ranged weapons, as well as use of ranged weapons in close combat. He specialized in the use of longswords.
+
+Possessions
+Ellis wielded his enchanted sword, the Winter's Eye, that dealt magical cold damage but appeared lit aflame. He owned a winged mask, but usually was not attuned to its magic. A dragonskull amulet and a +1 cloak of resistance hung around his neck. His armor consisted of a set of a full plate and a large shield. He also carried a masterwork shortbow, a healing potion, a potion of endurance, and five cut amethysts.
+
+Relationships
+Ellis generally was one of the higher-ups among the Cult of the Dragon in Myth Drannor. He usually commanded the half-dragon Marjon, and his command ran in parallel to Shamoor who helmed special missions, while Ellis controlled the garrison within the Castle Cormanthor. He was under direct command of Kya Mordrayn, the Wearer of the Purple in command of the operations in the ruined city.
+
+History
+In 1369 DR, Ellis was one of the commanding forces of the Cult of the Dragon during Kya Mordrayn's plan of conquering the Moonsea region with the help of corrupted mythal and pool of radiance in Myth Drannor. Ellis commanded the garrison stationed inside the Castle Cormanthor while other branches of the Cult conducted abductions to grow their slave forces and undead guardians, as well as excavations within Polyandrium, Dwarven Dungeons, and Elven Catacombs. Ellis was focused on convincing Kya Mordrayn to expand the cramped barracks in the sub-levels of Castle Cormanthor to the South Barracks just outside of the castle walls.
+
+Appendix
+Appearances
+Adventures
+Pool of Radiance: Attack on Myth Drannor
+References
+
+---
+
+## Elder Root stout
+
+Elder Root stout was a type of ale brewed in the Running Stag tavern in Berdusk and exported to other places along the Sword Coast.
+
+Description
+Elder Root stout was a well-brewed rich and flavorful stout. Its good taste was partially due to the use of soft water from the Running Stag's spring.
+
+History
+Elder Root stout was popular in the 1360s DR in Berdusk and brought abundant clientele to the Running Stag, including forest folk, wild elves, druids, and other fey races. By 1372 DR, Elder Root stout was exported to other places on the Sword Coast, including Daggerford, where the stout was a popular staple at the Black Stone Inn.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Elfshadow (creature)
+
+An elfshadow was a type of incorporeal creature that resembled an elf, one that could be summoned by some moonblades.
+
+Description
+Elfshadows had similar capabilities to those of shadows.
+
+Appendix
+
+References
+
+---
+
+## Elfshadow (disambiguation)
+
+Elfshadow may refer to:
+
+ Elfshadow, the novel by Elaine Cunningham;
+ Elfshadow affair, the events that followed the death of King Zaor Moonflower, or;
+ Elfshadow (creature), the type of incorporeal creature.
+
+---
+
+## Elemental weevil
+
+Elemental weevils were extremely rare tiny elemental insects native to the plane of Elemental Chaos.
+
+Description
+Relatively harmless, elemental weevils were hot to the touch and appeared as tiny smoldering creatures that left charred tracks in their wake. They could be easily contained within a glass bottle.
+
+History
+During the years of Spellplague, elemental weevils could be found on the slopes of Mount Hotenow. Following the mount's volcanic explosion, in the, the tiny ember creatures could be found within Neverwinter's River District. During that time, Riftel Farsight was researching the creatures, sending her apprentice Gerad Kinesward into the orc-ravaged district to collect the insects for her.
+
+Appendix
+See Also
+Weevil
+Appearances
+
+References
+
+---
+
+## Elmira
+
+Elmira was an elderly resident of Neverwinter who lived in the city's Blacklake District during the late 15 century DR.
+
+Relationships
+She saw through the rhetoric proclaimed by the "revolutionary group" known as the Nashers, seeing them as little more than another gang that preyed upon the less fortunate.
+
+History
+In the, Elmira saved up what money she could to hire adventurers to deal with the Nashers in her neighborhood. She wanted them to take back the goods that the Nashers stole from her fellow less-fortunate Neverwintan residents.
+
+Appendix
+Appearances
+Video Games
+
+External Links
+
+References
+
+---
+
+## Elene Ruldegost
+
+Elene Ruldegost was a young noblewoman, member of the Ruldegost family of Waterdeep in the mid–14 century DR.
+
+History
+In early 1370 DR, Elene Ruldegost and Asborn Moonstar fell madly in love to the disapproval of their families. The Moonstars and Ruldegost were old enemies and forbade the union. Eventually, Ruldegost agreed to let the young couple to be wed under one condition, Asborn was to delve into Undermountain and retrieve a rare crystal rose from the Garden of the Drow. The young man descended into the dungeon right away and disappeared for over a week. When the families started getting worried over his well-being, they requested Khelben Arunsun's aid. He sent his loyal agent to retrieve the boy. Khelbenite subsequently found the boy's lifeless body, sealed in the garden's chamber where he perished of hunger. The adventurer retrieved the crystal rose and delivered it to Elene Ruldegost along with the dire news.
+
+Appendix
+Appearances
+Video Games
+Descent to Undermountain
+
+References
+
+---
+
+## Elguth Iramblin
+
+Elguth Iramblin was a stableboy at the House of Good Sprits In the 14 century DR.
+
+Activities
+Besides being a stableboy for the House of Good Spritis, Elguth was an expert guide to all of the festhalls and gambling houses in Waterdeep.
+
+Relationships
+Elguth was a member of the Waterdhavian guild known as the Vintners', Distillers', & Brewers' Guild.
+
+Appendix
+References
+
+---
+
+## Elboar's Finest
+
+Elboar's Finest was a wine and spirits shop found in Amphail around 1367 DR.
+
+Structure
+This shop was paneled with dark wood.
+
+Activities
+In addition to wine and spirits, Elboar's Finest also offered assorted spices and sauces.
+
+Appendix
+References
+
+---
+
+## El Ma'ra
+
+El Ma'ra was an oasis and a settlement found in the Anauroch desert, It was home to the Qahtan tribe the Bedine people.
+
+Geography
+It was located on the eastern stretch of the Sword, just south of the Bowl of Loneliness.
+
+Geographical Features
+The oasis was located about  away from Ma'ra Dat-ur Ojhogo, the sandstone mesa named after the spirit that lived within. The Bedine used the spire as a lookout post to better defend their home, and would sacrifice some of their water to the resident spirit.
+
+History
+In the, the oasis and nearly all of the Qahtari were wiped out by the Zhentarim during their expansion of conquest across Anauroch. There were only two survivors, the young warrior Kadumi and the spellcaster Ruha.
+
+Notable Inhabitants
+The spire was inhabited by a place spirit called El Ma'ra Dat Ur-Ojhogo, translated from Midani as "The tall god who lets men sit upon his head".
+
+Appendix
+Appearances
+Novels
+The Parched Sea
+
+References
+
+---
+
+## Elonn
+
+Elonn was a young laborer in a small town of Faerûn in the, who was sold into slavery by one of the Red Wizards.
+
+Description
+Elonn was a strong young man, in great physical shape.
+
+History
+In the middle of the, one of the wizards from a local Red Wizard enclave, led by a woman named Hinnar, began selling locals into slavery of her own initiative. This underling, Kizzaf, disguised herself with a wig and charmed victims to follow her out of town. Elonn and his companion Talf were two such victims and, after visiting a tavern one day, were seen following a "long-haired woman" from the town while laughing along with her. Kizzaf drugged Talf and Elonn and sold them to a Thayan merchant named Mahzed. Their fates are unknown.
+
+Appendix
+References
+
+---
+
+## Elixir of health
+
+Elixirs of health were potions that eliminated negative effects from imbibers without providing actual healing.
+
+Description
+Elixirs of health were clear potions of red color with fine bubbly fizz of light wiring inside.
+
+Powers
+An elixir of health cured the drinker from Blindness or deafness, disease, insanity, feeblemind, various infections, and rot. This potion also killed parasites and cured poison in cases where it did not cause damage to the victim's body yet. The only thing one had to keep in mind about these potions is that even though they cured various negative conditions, it never healed any damage to the imbiber's body, be it a small cut or a gashing wound. If the potion was consumed in its entirety, all of the conditions listed above were eliminated, half a potion, however, allowed for removing only two of the ailments.
+
+Creation
+Elixirs of health could be brewed using purified unholy water. Another recipe called for holy water mixed with powdered water opal.
+
+Availability
+In 1281 DR, a unique version of an elixir of health was brewed by and could be purchased from Oswald Fiddlebender, an eccentric gnome inventor and potion-maker. His version of the elixir removed poisons and diseases from the imbiber and gave a much needed physical healing boost which was unique among other variants of the potion.
+
+In the 14 century DR, elixirs of health could be encountered in Shadowdale and Freedale.
+
+Clerics of Malar that could be found in the mega-dungeon of Undermountain in the 14 century DR carried an elixir of health as part of their standard equipment.
+
+In 1367 DR, magic fountains containing waters enhanced with the elixirs of health could be found in the elven city of Evermeet.
+
+Elixirs of health were common in Ra-Khati of the Hordelands circa 1369 DR.
+
+Notable Owners
+Alustriel Silverhand: one of the Chosen of Mystra often carried a vial of an elixir of health.
+Dandalus Rueee: the owner of the Old Xoblob Shop in Waterdeep.
+Elminster: the Sage of Shadowdale carried a blast of an elixir of health on his belt circa 1358 DR.
+Friar Dugald: a cleric and a Knight of Bloodstone.
+Rukn ud-Din Mahmud: a warrior and a guard captain from the Hordelands, active in the mid-14 century DR.
+Storm Silverhand: Alustriel Silverhand's sister and another Chosen of Mystra.
+Thangfod the Mighty: a hobgoblin guard captain from Skullport in Undermountain kept a bottle of this elixir in his private chambers circa 1370 DR.
+
+Appendix
+See Also
+Gauntlets of the valorous
+Potion of heal
+Potion of healing
+Remedial potion
+White purification candle
+
+Appearances
+
+References
+
+---
+
+## Eliam
+
+Eliam was a Netherese archwizard who lived during the Age of Discovery.
+
+History
+Eliam led the enclave some time after Requiar, who had been driven insane by the Crown of Horns in . Inhabitants of the enclave conducted a search for the ancient crown for over 150 years, to no avail. As the members of the enclave could not find the item, Eliam hired adventurers to conduct an outside-search in the Eastern Forest, though they too, were unsuccessful.
+
+Appendix
+Notes
+
+References
+
+---
+
+## El Rahalat
+
+El Rahalat, nicknamed the Shunned Mountain, was a lone peak found in the desert of Anauroch. It was named after the Bedine sorceress Rahalat, who made her home within the oasis situated at its base.
+
+Description
+The mountain was described as having a gray peak.
+
+Geography
+El Rahalat was found in the eastern stretch of the Sword in southern Anauroch, north of the Bowl of Loneliness.
+
+History
+In the, the Zhentarim agent Zarud came to El Rahalat oasis in order to solicit the aid of the Mtair Dhafir tribe in Zhent expansion across Anauroch. The tribe's leader, Sheikh Sabkhat decided the tribe should move on to another locale to escape the influence and possible wrath of the outlander group.
+
+Rumors & Legends
+Bedine legend said that when the mortal Rahalat was slain, the water of the oasis's spring transformed into blood. For the following decade a mere sip of its waters would kill any being that partook.
+
+In the years that followed any tribe that made camp at El Rahalat made sure to sacrifice a single camel in order for the water to remain drinkable and not turn lethal again.
+
+Inhabitants
+For a time, the oasis at Rahalat was the home of the Dakawa tribe of Bedine nomads. As of the early 1360s DR, the oasis was home to the Matair Dhafir tribe.
+
+Around that time, descendants of the original herd of goats tended by the mortal Rahalat still grazed upon the mountain and accompanying oasis.
+
+Appendix
+Appearances
+Novels
+ The Parched Sea
+
+References
+
+---
+
+## Elemental magic
+
+Elemental magic was a form of magic that revolved around the elements. It was also sometimes referred to by the specific element that was being used, such as fire magic or earth magic.
+
+Nature of Elemental Magic
+Throughout the Realms people found it difficult to come to any concrete consensus as to what elemental magic was. This was partially because the practitioners of this form of magic had widely varied opinions in views, even among those who specialized in the same element. Elemental magic also resisted easy categorization because it manifested itself within all other traditions of magic. Some people would even go so far as theorize that elemental magic didn't exist in its own right as a magical power because it was a product of so many other systems of magic. That being said, there were some aspects of its nature that practitioners of elemental magic could generally agree upon.
+
+Elemental magic differed from other systems of magic in that the spells of this tradition were driven by elemental power, while other systems of magic merely employed arcane processes to access and manipulate said power.
+
+Only elemental creatures could wield this form of magic in its purest state, who were believed to draw its power from within themselves. Chromatic and metallic dragons were also imbued with elemental magic, which was reflected by their breath weapon. Some even used the blood of dragons to enhance magic of the corresponding element, such as using the blood of a red dragon to enhance fire magic. This was also the case with dragonborn, some of whom believed that the deity Io had gifted them that elemental power as a sign of his favor.
+
+Defining the Elements
+Throughout much of Toril, as well as the planets of Krynn and Oerth, elemental magic was traditionally based around the four primary elements — air, earth, fire, and water. This was also the case within the Domains of Dread. On Toril's continent of Zakhara, these elements were respectively referred to as the provinces of wind, sand, flame, and sea. On Toril's continent of Kara-Tur, these four elements retained their names but were joined by a fifth, that of wood.
+
+In addition to the four basic elements, some practitioners of elemental magic espoused the merit of studying the energy “elements” of spells. Such as acid, cold, electricity, and sonic. A few even elected to include force as being among these energies.
+
+Practice of Elemental Magic
+In the land of Zakhara, wizards known as sorcerers could cast spells from any two of the four provinces of elemental magic, even those that were traditionally opposed.
+
+Wizards who specialized in one or all four of the classic primary elements were typically known as elementalists. Beyond the Prime Material, such wizards could also be found in the Domains of Dread. In the land of Zakhara there existed similar wizards, known as elemental mages; elementalists in Zakhara were considered ajami.
+
+Those who specialized in only a single element typically avoided the use of spells from their opposing element, proclaiming their own to be superior to others. They also typically dressed in colors appropriate to their element.
+
+Specialized elementalists often tended towards certain schools of magic due to the amount of spells they offered related to that element. Air elementalists tended towards conjuration, earth elementalists tended towards transmutation, and fire elementalists tended towards evocation. Water elementalists tended not to specialize in a school, but they typically favored abjuration, divination, and some forms of enchantment.
+
+Specialized elementalists also tended to relate more strongly to certain elemental energies. Air elementalists tended to relate towards cold, earth elementalists towards acid, and water elementalists tended to favor electrical energy.
+
+Elementalists, as well as sorcerers (not the Zakharan kind) and warmages who were drawn to spells of a particular elemental energy type, were capable of eventually transcending their mortal forms and becoming elemental beings in their own right  — what was known as an elemental savant. Divine spellcasters of the fire, sun, or water domains were also capable of becoming elemental savants. Some claimed that such a process strengthened one's ties to the Elemental Chaos and could potentially attract the attention of powerful creatures residing there.
+
+Warlocks that practiced elemental magic received their powers from an archomental patron.
+
+History
+Some of the early practitioners of elemental magic were the Wind Dukes of Aaqa, who began as air elementalists before eventually mastering other elements.
+
+Over the centuries, scholars struggled with the cosmological problems posed by elemental magic, relegating the matter to philosophical debates. But one day, the famed Oerthian wizard Mordenkainen was determined to settle the dispute. He posited within a lecture to his students a radical interpretation of elemental power, proposing that it was possibly the root and foundation of all magic that existed. And that the different traditions of magic — such as arcane magic, divine magic, and primal magic  — were just elemental magic segregated by different methods of wielding it.
+
+His theory was met with very mixed opinions. And the members of a group he was part of, the Circle of Eight, would go on to greatly argue about the nature and origin of elemental magic. One such member, a high priest by the name of Riggby, understandably refused to believe that it could be the foundation of divine magic.
+
+Another colleague of Mordenkainen, a wizard by the name of Emirikol the Chaotic, had long studied the Elemental Chaos. He believed Mordenkainen's theory to be delusional and put forth his own. He proposed that elemental power existed separately from other systems of magic, with the Elemental Chaos being proof of his idea. He also realized that people unknowingly accessed the energy of that plane, observing that many spells, disciplines, evocations, and prayers either created or manipulated elemental energy — rather than being driven by that power as Mordenkainen proposed.
+
+Eventually, after years of studying the mysterious energies of the Elemental Chaos, Emirikol came to the conclusion that harnessing elemental power in its purest form required becoming an elemental savant.
+History on Toril
+In, the empire of Raumathar pushed back assaults from their neighbor Narfell through the use of elemental magic.
+
+Some time in the 1st millenium DR the empire of Kadar was formed and ruled by the Geomancers, practitioners of earth magic and followers of Grumbar, until their fall before the forces of Enlightenment. Zakharan sages speculated that many of the spells from the provinces of flame, sand and wind were invented by the Geomancers, and assumed that sea magic was developed in the Corsair Domains.
+
+In 1020 DR, the mages of Thay develop the majority of their nation's unique fire magic.
+
+Following the Spellplague and the expansion of the Calim Desert, some of the native wildlife of the Plain of Stone Spiders were believed to have become infused with elemental magic.
+
+Notable Practitioners of Elemental Magic
+Groups
+ The devotees of the Elder Elemental Eye often possessed some of the most important lore regarding elemental magic. For instance, they were capable of making devastation orbs through use of elemental magic.
+ Within the land of Zakhara there existed elemental brotherhoods, groups of elemental mages devoted to a particular elemental, with the largest being the Brotherhood of the True Flame. Other such groups included the Cult of Sand, the Sea's Children, and the Servitors of the Zephyr.
+ The geomancers of ancient Kadar within Zakhara and their ruling Nine Council wielded the element of earth.
+ Lords of the Tempest
+ The Red Wizards of Thay were known to have long concentrated on the study of fire magic.
+ Beyond Toril, elemental cults could be found on the planet Athas.
+
+Individuals
+ Antatlab of the Shaking Stones
+ Azeraak, an earth elementalist who maintained a fortress on the Elemental Plane of Air.
+ Bastian Termandar
+ Brack'thal Xorlarrin
+ Daltim Flamefist, a Halruaan fire elementalist.
+ Guldor Melarn, a drow master of elemental magic at the school of Sorcere in 1372 DR.
+ Halamar
+ Imvaernarhro, an ancient red dragon who mastered fire magic.
+ Jhesrhi Coldcreek
+ Maarika, a frost giant shaman in the Great Glacier
+ Miraj Vizann, a specialist in earth and water magic.
+ Morbeoth
+ Sadrach
+ The Sensei, a mysterious wu-jen who specialized in elemental earth.
+ Tisan Balshareska, the Arch-Geomancer
+ Vanifer, leader of the Cult of the Eternal Flame in the late 15 century DR.
+
+Races & Intelligent Creatures
+ All fensir had a natural affinity for earth magic.
+ All genasi felt drawn to elemental magic. For them this form of magic was less a process of study and learning, but rather an awakening of their natural abilities. Because of this, they typically specialized in the element that reflected their particular heritage.
+ Noble eladrin were more attuned to the elemental magic inherent in the Feywild than the eladrin of Toril.
+ Pahari had a natural affinity for water magic.
+ In Udadrow societies, the disenfranchised and oppressed sometimes turned to elemental magic. Lolth and her priestesses regarded this as a threat to her authority.
+
+Regions
+ The city of Qadib was home to more elemental mages than anywhere else in north Zakhara.
+ Water elementalists were quite common in the lands around the Sea of Fallen Stars.
+ The land of Halruaa had a great deal of air elementalists. Some speculated that this was due to their skyships or their connection to the ancient civilization of Netheril.
+ Wizards in the land of Calimshan were generally specialized in elemental air. However, because of its history, Calimshan society had general concerns over both genies and the elemental planes, thus making it that those who tried to learn elemental magic were rather limited.
+ The valley of the Nogaro River was once dominated by the Geomancers, and their geoglyphs could still be found in the 14th century DR.
+
+Trivia
+ Some locations were greatly imbued with elemental power, such as the Altar of the Air and the earth node known as Nuur Throth.
+ In Ossa, a layer of Arborea that had a strong link to the element of water, elemental magic required a sacrifice to the opposite element proportional to the effect of the spell, for instance a bucket of water for burning hands or lighting a small forest fire to balance out a minor flood.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Ghosts of Dragonspear Castle • Princes of the Apocalypse • Ruined Kingdoms
+References
+
+FR:Magie élémentaire
+
+---
+
+## Elah'zad
+
+Elah'zad, meaning House of the Moon in Midani, was an isolated oasis located in the Sword region of Anauroch. It was considered a sacred place of great power by the nomadic Bedine people that called the desert their home.
+
+Description
+Elah'zad was nestled within a valley surrounded by  mounds of earth that were dotted with scores of small water springs. Water flowed down into a vividly blue lake,  in width, that gave life to striking and beautiful plant life. Because the lake of Elah'zad was considered sacred by the Bedine people, their camels were forbidden from drinking from its waters.
+
+Within the center of the beauteous lake was a small, grass-covered isle set in the shape of a half moon. It covered approximately  of the lake's surface.
+
+A two-way portal linked Elah'zad with the Ring of Wyvernstones in the Hullack Forest.
+
+Geography
+It was an isolated settlement that was hidden within the difficult-to-traverse Hills of Scent, just north of the Wall of Fallen Djinn mountain range.
+
+The Well of the Cloven Rock oasis was located about  east from Elah'zad.
+
+Flora & Fauna
+The shrubbery found in Elah'zad had distinct red-colored leaves with starkly contrasting blue stems. The trees shared the colors of several metals, including copper and silver.
+
+History
+In the, Elah'zad was the meeting place of fifteen sheikhs of the sixteen surviving tribes of the Bedine, including the two leaders that had arranged their assembly, Sa'ar of the Bait Mahwa and Utaiba of the Raz'hadi. All the Bedine came together to decide what must be done to deal with the emerging threat posed by the Zhentarim.
+
+Rumors & Legends
+According to Bedine legend, the valley was once home to the moon goddess Elah, before she was driven away by the goddess of the sun, At'ar the Merciless. At'ar then transformed Elah'zad into a prison for Eldath, the Mother of Waters, as she was jealous of the beauty Eldath possessed.
+
+It was one of the known locations where the Ritual of the Waxing could be performed using the Eye of Selûne.
+
+Notable Locations
+ Elah'zad, the alabaster temple dedicated to the moon goddess Elah.
+
+Appendix
+See Also
+ Elah
+
+Appearances
+Novels
+ The Parched Sea
+
+Video Games
+
+References
+
+---
+
+## Elliach
+
+Elliach was an insane mage inside the Wandering Emporium, which traveled across the plains of Avernus in the Nine Hells in the late 15 century DR.
+
+History
+Elliach was on the run from debt collectors when he met Mahadi. Fascinated by him, he paid the collectors and invited Elliach to remain inside the Emporium.
+
+Activities
+Elliach collected and sold demon ichor, which he used in various experiments.
+
+Personality
+Most people believed Elliach to be insane.
+
+Powers
+The demon ichor had warped Elliach in two aspects: his arms had become two tentacles with fingers at the end, and his ears grew wings and flew away, so Elliach was deaf.
+
+Appendix
+
+Appearances
+Adventures
+Baldur's Gate: Descent into Avernus
+Organized Play & Licensed Adventures
+Faces of Fortune • Infernal Insurgency
+
+References
+
+---
+
+## Elemental lich
+
+Elemental liches were a form of lichdom achievable only by elementalists.
+
+History
+During the days of Netheril, a group of mages banded together to defeat a demilich known as Kangaxx. Unable to fully destroy him, the mages were forced to become liches themselves in order to imprison him. One of these mages became an elemental lich.
+
+In 1369 DR, Gorion's Ward was tricked by the imprisoned demilich into retrieving his golden skeletal torso from the Netherese elemental lich.
+
+Society
+Homelands
+Beyond the Prime Material plane, these liches could be found in the Domains of Dread.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Elizabeth Clawthorn
+
+Elizabeth Clawthorn was an inhabitant of in the town of Ghars in Cormyr in the mid–14 century DR. She was called Mother Clawthorn or Looney Liz by the townsfolk; they thought she was a witch, but she was only very old and absentminded.
+
+Description
+She was very frail and slow-moving, and shrunken to almost a dwarf's height. Her teeth were yellow or black or absent and her hair long and dirty. She had cataracts that clouded her eyes and obscured her sight. She wore an unwashed smock.
+
+Personality
+At her great age, her wits were said to be wandering; at times she was lucid, but at others she acted strangely, and she mistook people and things for others.
+
+Relations
+She once had a husband and a son named Jamie.
+
+Home
+She lived about  to the south of Ghars, in a small cottage that had become dilapidated. The walls needed painting, greasy hides were used to cover the windows, and wreaths of dead flowers hung on the walls and door. While Liz had an apple tree and grew vegetables such as lettuce, potatoes, and tomatoes in a small garden by the side, the drought that struck Ghars in 1367 DR meant these grew poorly or died. A dead dog lying by one withered tree completed the bleak appearance. The inside was little better, being  unclean and smelly.
+
+History
+On the night of Flamerule 8 in the, Liz saw the axe-wielding ghost of the bandit chieftain Fastred that had been appearing to townsfolk that summer. She fled at first but then returned, having mistaken it for her long-deceased husband and wanting to remind him to mend a bucket. After following the apparition, she realized her error when she saw it had a "golden hand" and hid in case it ate her. She watched this ghost wave to another golden-handed ghost in the Vast Swamp. She later told her story in town. And of course few believed her.
+
+Some time after, Liz offered a dead cat in trade for a linen tablecloth at Bryn Goldtooth's store, but he declined. She did share some of the story of her ghost sighting, however.
+
+Later that year, on Eleint 18, Jasper visited Liz at her cottage to ask about her sighting, as part of his investigation into the killings of Dovo (who was impersonating the ghost) and Grodoveth. He brought her bread and vegetables (she mistook the carrots for oranges) and briefly mistook him for her son Jamie. From her account, he realized the ghosts' golden hands were actually lanterns seen through her obscured sight. Liz's evidence blew the case wide open: Jasper and Benelaius realized Dovo had been signaling to agents in the swamp.
+
+Appendix
+References
+
+---
+
+## El Ma'ra Dat-ur Ojhogo
+
+El Ma'ra Dat-Ur Ojhogo, meaning "the tall god who lets men sit upon his head" in Midani, was a place spirit that inhabited the sandstone mesa located near the El Ma'ra oasis in the Sword region of Anauroch. He was venerated by the Bedine people of the desert.
+
+Activities
+El Ma'ra's mesa served as a lookout point for the Bedine tribespeople that camped out at the oasis that bore his name. He was quite okay with letting them sit upon his head.
+
+Appendix
+Appearances
+Novels
+ The Parched Sea
+
+Connections
+
+References
+
+---
+
+## Elduth Yarmmaster
+
+Elduth Yarmmaster was the Overmaster of the Council of Sembia, the governing body of the nation of Sembia in the mid–14 century DR. He was based in the capital, Ordulin.
+
+Personality
+
+Elduth was well known for his maturity, wisdom, and kind nature. He was also eloquent and possessed of a good sense of humor. He was often the voice of reason in the Council. At the council in Suzail, however, Azoun thought him too relaxed, and almost lacking courtesy.
+
+Description
+Circa 1360 DR, Elduth was rather overweight and flabby, with multiple chins. By 1367 DR, Elduth was aged and very frail.
+
+Befitting his position, he dressed in rich robes with gold rings.
+
+Activities
+Considered a great statesman, Elduth was renowned for his sage council, at least to those who agreed with it. While there was always those who disagreed, were unhappy with his leadership, or were eager to replace him, they satisfied themselves with knowing that at least he'd be dead soon and then Sembia would get a fresh and foolish start. Nevertheless, while alive, Elduth kept a sensible grip on power, but groups such as the Iron Throne jockeyed for power in the time after.
+
+As Yarmmaster, Elduth officially governed the capital city of Ordulin, but in practice it was equally controlled by the Council and the merchant class.
+
+Relationships
+An old friend of Elduth's was Halath Tymmyr, the high bergun of Daerlun circa 1367 DR.
+
+History
+
+Elduth led the Sembian delegation to the council to discuss the Tuigan threat hosted by King Azoun IV of Cormyr in Suzail on Tarsakh 10, the . Elduth was concerned the Tuigan might spy on them, and queried why Rashemen could not deal with them alone, though Fonjara Galth proved him wrong. In the end, Elduth pledged no troops to the crusade—Sembia had no significant standing army to speak of—but declared Sembia would provide supplies, ships, and funds for 4,000 mercenaries to the Army of the Alliance.
+
+Elduth had enjoyed several terms in office, with his third only just beginning around 1367 DR. However, he was not expected to see it to the end.
+
+At some point, Elduth ordered the conversion of a mine inside a dead-magic zone in Yhaunn into the notorious prison known as the Hole. There, it was said, he sent his political and commercial rivals to work and die.
+
+At the time, prompted by reduced elf populations in north Faerûn, some Sembians lobbied the Overmaster to annex all the troubles lands between the Dragon Reach, Hillsfar, Mistledale, and the Thunder Peaks, but he declined, warning that the neighboring realms of Cormyr, the Dalelands, and the Moonsea would resist such a move with force. Instead, Elduth argued that Sembia play a waiting game and quietly support these lands, and quietly usurp them if need be.
+
+Elduth finally passed away from old age in the . He was succeeded by Kendrick Selkirk.
+
+Rumors & Legends
+It was said that potions of longevity were no longer extending his life, but keeping him alive.
+
+Appendix
+Notes
+There's an apparent contradiction between the depiction of Elduth in Crusade as an overweight, relaxed man contradicted by others circa 1360 DR, and in Forgotten Realms Campaign Setting 2nd edition as a frail, elderly man known for wisdom and eloquence circa 1367 DR, though there may be various reasons for the change in character, appearance, and perceptions over seven years.
+
+Appearances
+Novels
+ Crusade
+
+References
+
+---
+
+## Elixir of defense
+
+Elixirs of defense were potions found in Waterdeep, in the late 15 century DR.
+
+Description
+Elixirs of defense were usually bottled in small crystal decanters with octahedron-shaped bottle stoppers.
+
+Powers
+The effects of imbibing an elixirs of defense were self-explanatory. The potions fortified the user's defenses, improving the chances of them staying unaffected by their opponents' attacks.
+
+Notable Owners
+Raika: a half-orc barbarian who worked with other warriors of Waterdeep, performing missions on behalf of Laeral Silverhand in the late 15 century DR.
+
+Appendix
+See Also
+Potion of barkskin
+Potion of death armor
+
+Appearances
+Video Games
+Warriors of Waterdeep
+
+References
+
+---
+
+## Elkwhisker
+
+Elkwhisker was a mage of the Misbegotten Realms.
+
+History
+Circa 1989 CE, Elkwhisker visited Earth and spoke to occasional Dragon magazine contributor John M. Maxstadt about his world. Usually, anyway. Other times it was just random stuff like Halloween masks or pet rocks and things. Meanwhile, Maxstadt took notes, drank madeira, and nodded off. Fortunately, tape recorders still existed back then and caught some of their exchanges.
+
+One time, Elkwhisker actually talked about the notorious Nimrod of Nump and his various spells and magical items. Elkwhisker revealed that he himself had discovered a trove of Nimrod's perilous cylindrical scrolls in the Kingdom of Slumdudgeon, whilst fishing in a dumpster behind the House of Out.
+
+Maxstadt, meanwhile, would later offer insufficient apologies to Ed Greenwood for some reason.
+
+Personality
+Elkwhisker had a habit of smugly making irrelevant statements to get people's interest, before he bored them to tears and/or sleep. He mistook yawns for awe.
+
+Appendix
+Background
+Elkwhisker is of course a parody of Elminster, appearing in the "Still More Outrages From the Mages" joke article in Dragon #144, an April Fool's issue. He isn't canon (we hope), but is included here for interest and because this wiki editor doesn't want to fully clear up our own April Fool's gag.
+
+See Also
+ Elfinster
+
+References
+
+---
+
+## Elversult Hall
+
+Elversult Hall was a stately public meeting place in the city of Elversult.
+
+Location
+It was situated on the northern side city's open air marketplace, facing Temple Hill to the south.
+
+Structure
+The hall featured marble columns that supported a tall, arched entrance.
+
+Activities
+Elversian used the hall as a venue to conduct business or hire on new workers.
+
+Appendix
+Appearances
+Novels
+ The Veiled Dragon
+
+References
+
+---
+
+## Elminster: An Unauthorized Biography
+
+Elminster: An Unauthorized Biography was a biography of Elminster Aumar, the Sage of Shadowdale.
+
+Adzerak, a lich and bibliophile devotee of Deneir, kept a copy on his nightstand in his lair in Cormyr around 1367 DR.
+
+Appendix
+References
+
+---
+
+## Elameth's Compendium
+
+Elameth's Compendium was a tome of arcane knowledge from the Hand of the Seldarine before the stronghold's fall centuries before 1281 DR.
+
+Content
+Penned by the elven enchanter Elameth of Five Trees, the Compendium collected technical knowledge and numerous sketches of a variety of magical artifacts. It detailed plans and methods that were used to enchant items, as well as works by the dwarven smith Karador that were combined with Elameth's enchantments.
+
+History
+Elameth's Compendium was written and printed sometime between the citadel's construction circa 900 DR and its fall in the Battle of Seldarine's Hand. By 1281 DR, the citadel was ruined and inhabited by ghostly apparitions of its former inhabitants. One of the Elameth's Compendium copies could be found in the citadel's library curated by Custhantos, along with other rare books.
+
+Appendix
+See Also
+Item enchantment
+Appearances
+Video Games
+Icewind Dale
+
+References
+
+---
+
+## Elemental vestments
+
+Elemental vestments were enchanted druidic robes, encountered in Chult in the late–15 century DR.
+
+Powers
+Elemental vestments were imbued with elemental spirits from the planes. Their magic constantly moved visibly about the robes. Any creature who was to place their gaze on elemental vestments became mesmerized. Additionally, these robes carried a powerful +5 enchantment.
+
+Notable Owners
+Qawasha: a druid of the Emerald Enclave from Chult in the late 15 century DR.
+
+Appendix
+Appearances
+Video Games
+Tales from Candlekeep: Tomb of Annihilation
+
+References
+
+---
+
+## Elixir of Horus-Re
+
+Elixirs of Horus-Re were potions named after the Mulhorandi deity Horus-Re and produced sunlight when consumed.
+
+Powers
+When imbibed, elixir of Horus-Re made the drinker glow with divine lights of Horus-Re, eventually releasing the light in a burst of searing sunlight, similar to that of the sunbeam spell.
+
+History
+In the late 14 century DR, these elixirs were a popular but expensive tool used against vampires and other creatures of the dark. 'Elixirs of Horus-Re'' could be purchased from potion-makers and temples of goodly deities across the Sword Coast the Moonsea region, and the Mintassan's Mysteries shop in the city of Westgate.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elemental drake
+
+The elemental drakes were a group of fierce drakes whose bloodlines had ties to the Elemental planes.
+
+Description
+Elemental drakes overall resembled lithe, sinuous dragons about  long, with scale coloring and texture appropriate to their elemental affinity.
+
+Personality
+Elemental drakes tended to be evil or neutral at best.
+
+Abilities
+
+All of the elemental drakes had differing abilities depending on their elemental affinities. They flew, had darkvision, and spoke the Draconic language as well as an appropriate elemental language. Compared to dragons and even humans, however, they were not particularly intelligent. Despite this, they were difficult to surprise.
+
+Combat
+Elemental drakes all tended to attack while flying, relying on their wings to keep them out of reach of opponents while also swooping in close enough to attack with jaws, claws, and tail.
+
+Ecology
+Elemental drakes lived in a variety of terrains, depending on the exact species. However, they generally lived alone or in groups of up to six individuals.
+
+Jann were occasionally known to breed and train elemental drakes as steeds.
+
+Elemental drakes were among the creatures effected by the Dracorage, and would form flights along with wyverns, chromatic dragons, and landwyrms, that destroyed everything they came across.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Eltoora Sarptyl
+
+Eltoora Sarptyl was the guildmaster of the Many-Starred Cloak in the  and as late as the .
+
+Description
+She seemed calm and assured of herself. Her clothes were immaculate, as though the dust in the air was repelled from them. While in Port Llast, she used to stare at the sky contemplatively; her eyes were glassy.
+
+History
+During the outbreak of the Wailing Death, Eltoora would offer the Hero of Neverwinter membership in the Many-Starred Cloak if they were able to retrieve four reagents guarded by mephits across the city, and then defeat a minogon.
+
+She accompanied Aarin Gend-Nasher Alagondar's spymaster, and Aribeth de Tylmarande to Port Llast on behalf of the guild. While supporting them, she was seeking out five arcane tomes from Imaskar detailing the construction of ancient magical items; she may have recruited the help of the Hero of Neverwinter. Those tomes were the Imaskarran Tome of Death, the Imaskarran Tome of Life, the Imaskarran Tome of Resonance, the Imaskarran Tome of Fire, and the Imaskarran Tome of Ice.
+
+After Aribeth de Tylmarande joined Maugrim Korothir, one of the commanders serving the Old Ones, Eltoora Sarptyl continued providing support to Aarin Gend. During that time, Eltoora maintained a small laboratory in Beorunna's Well – the center of Aarin's search for artifacts to be used against the Old Ones.
+
+Appendix
+Notes
+
+Appearances
+Video Games
+Neverwinter Nights
+References
+
+---
+
+## Eldritch berry custard
+
+Eldritch berry custard was a dessert dish from the town of Daggerford in the Delimbiyr Vale.
+
+Description
+Eldritch berry custard was a complex sweet berry dish, served alongside Beef Sharburg‎‎ and Marsember beets.
+
+History
+This custard dish was served in more exclusive and expensive inns, such as Chateau Elite in Daggerford circa 1372 DR.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Ellywick Dongolin
+
+Ellywick Dongolin was the gnomish innkeeper of the Cracked Crown on Podol Plaza in Phlan circa the .
+
+Personality
+Ellywick was a very sentimental person, and she was fiercely maternal.
+
+Abilities
+Ellywick was phenomenally good at brewing and baking.
+
+Activities
+Besides her vocation as an innkeep, Ellywick also spent her time tinkering.
+
+Relationships
+During Vorgansharax's reign over Phlan, Ellywick was part of a covert rebellion against his reign together with fellow local business owners Durnam Goblinkicker, Grig Wyler, and Tross.
+
+History
+Ellywick inherited ownership of the Cracked Crown from her father.
+
+When the green dragon Vorgansharax took Phlan in the late 1480s DR, Ellywick was among the business owners who covertly rebelled against his tyranny, at least partially motivated by her inn's drop in business under the dragon's reign. Drawing upon her tinkering skills, she created the rolling sleds used to travel the city's hidden tunnels by the Phlanite rebellion.
+
+Appendix
+Appearances
+Organized Play & Licensed Adventures
+Escape from Phlan
+
+References
+
+---
+
+## Elbix's Stonestick
+
+Elbix's Stonestick was an enchanted rod was originated from the Elemental Plane of Earth.
+
+Powers
+Contrary to its bloated reputation, Elbix's Stonestick was a simple rod that held sixteen uses of the stoneskin spell.
+
+History
+This rod's namesake was Elbix, a gnome apprentice conjurer who managed to summon an elder earth elemental one time. The creature brought Elbix's Stonestick to the Prime Material plane, explained its power, and left it with the gnome. Elbix used the rod's story and its greatly exaggerated powers to score free drinks at the local taverns from awe-stricken crowds following that event. With these telltales, Elbix's reputation grew until one day it was tested.
+
+Several years after Stonestick became Elbix's property, the gnome town became menaced by Chief Gnarltooth and his gang of marauding n ettins. The gnome leader summoned Elbix to save the settlement from impending doom. With the conjurer's lies swelling the Stonestick's powers to legendary proportions, the town's defenders did not bother to even build defenses against the invading giants. The defenders hoped the rod was to obliterate Gnarltooth with a single use.
+
+Elbix, of course, knew that his lies caught up with him and did not hope to survive when he faced Gnarltooth. The ettin grabbed the terrified gnome. He brought the flailing little creature for a closer look but accidentally received Stonestick right in the eye. Gnarltoothtripped backward and impaled himself on his own spear, dying instantly. With their leader defeated, ettins fled. Elbix's uncanny luck saved his life and intended to remain alive, so he tossed the Stonestick into the closest river.
+
+Elbix's Stonestick eventually ended up in possession of Boonmoppet's master. The wizard, and later a lich, was killed before 1372 DR, leaving his tower and his magical goods in the hands of the lonely imp familiar.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Elbix
+
+Elbix was a famous gnome apprentice conjurer who made a name for himself thanks to the greatly exaggerated powers of Elbix's Stonestick.
+
+Personality
+Elbix was prone to telling lies and telltales, especially if it gave him fame and free drinks in taverns.
+
+History
+Sometime before 1372 DR, Elbix managed to summon an elder earth elemental who gifted him the Stonestick, a magic rod. The elemental explained the item's powers to the gnome and was gone. Inspired by this event and the otherworldly gift, Elbix started retelling the story of the elemental and the "powerful" rod he received in exchange for attention and free drinks at the local tavern. The tall-tales grew wilder with years going by, making everyone believe Elbix's Stonestick was a legendary artifact.
+
+Eventually, the gnome town became threatened by a gang of marauding ettins, led by Chief Gnarltooth. Sure of Elbix and his rod's awesome powers, the settlement decided not to set up any defenses or the upcoming battle, thinking the ettins would be wiped out with a single rod swing. The leader of the gnome town summoned Elbix and commanded him to defend his home. The amateur conjurer was sure his death was inevitable, but he did as he was asked—he met Gnarltooth on the field of battle. The ettin chief snatched the little gnome to take a closer look but flailing Elbix accidentally hit him in the eye with the Stonestick, causing Gnarltooth to tumble and impale himself on his own spear. With their leader defeated, the ettins dispersed, and the settlement was safe.
+
+Surviving thanks to unbelievable luck or Tymora's blessing, Elbix intended not to tempt fate again if danger ever arrived in the town and tossed his "artifact" into the closest river.
+
+Appendix
+Appearances
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Elke
+
+Elke was one of many dire wolves that lived in a pack in the Ice Spires, under ownership of a hill giant known as Rog.
+
+Appendix
+Appearances
+Novels
+The Ogre's Pact
+References
+
+---
+
+## Elestam's Crusaders
+
+Elestam's Crusaders were an adventuring troupe based in Erlkazar in the Lands of Intrigue in the mid-14 century DR.
+
+Organization
+The group was led by Korox Morkann, the duke of Elestam's son, and included his four close friends.
+
+Activities
+When active, the group defended against assassination attempts and against vampires and dragons.
+
+Relationships
+Elestam's Crusaders were allied with the Emerald Brotherhood, until that group's mysterious disappearance in the .
+
+History
+The group was named for the Duchy of Elestam, which was the former name of Erlkazar, before it seceded from Tethyr. During the reign of then duke Valon Morkann, the so-called Duke of Dusk from the neighboring duchy plotted with several counts and barons of Elestam to overthrow and assassinate Duke Morkann. The Crusaders were formed to defend the duke, and they successfully stopped no fewer than four attempts to murder Duke Morkann, though they never were able to link the assassination attempts definitively back to the Duke of Dusk.
+
+After the chaos of the Ten Black Days of Eleint, the people of Elestam overcame the power of the rival counts and barons and asked the duke to rule as their king. When Elestam then severed ties with Tethyr and became the monarchy of Erlkazar, the Crusaders continued to defend the fledgling nation from evil within and without.
+
+In, the goblins of the Starrock tribe of the Kuldin Peaks and the High Peaks assaulted Erlkazar, in a seige of Duhlnarim that lasted for three months. Ultimately, the Crusaders formed an unexpected alliance with a group of ogre mercenaries from Rivenshield called the Shieldbreakers. King Ertyk Uhl of the goblins was defeated by the year's end, but the elven husband of one of the Crusaders—Rysodyl Boughstrong, who was married to Laxaella Bronshield—was slain by the goblins.
+
+The party disbanded in the, when Korox succeeded his father as king of Erlkazar. The new king reluctantly took on his new role, preferring his life in the Crusaders to that of ruling a kingdom. The other four members were also promoted to positions as rulers of the other four baronies.
+
+Known Members
+ Korox Morkann
+ Jivam Tammsel
+ Purdun "the Firefist"
+ Laxaella Bronshield
+
+Appendix
+Appearances
+ Obsidian Ridge (mentioned only)
+
+References
+
+---
+
+## Elder rune
+
+__NOTOC__
+
+Elder runes were glyphs used in the Realms as signs of warning or notice for travelers. Many races and organizations had their own collections of signs and way-markers for such communication, but these were relatively secret and known primarily only to members of those groups. Elder runes, in contrast, had been in use for so long that all races used them, and even commoners from the Heartlands understood their meanings.
+
+Most of the elder runes had unique names by which the glyph was known.
+
+Appendix
+See Also
+ Harper's mark
+ Mage sigil
+
+Gallery of Elder Runes
+
+Appearances
+Adventures
+Waterdeep: Dungeon of the Mad Mage
+
+References
+
+---
+
+## Eldid
+
+Eldid was one of the inhabitants of Gillian's Hill, a small hamlet on the Trade Way.
+
+History
+Eldid died some time before 1372 DR. His gravestone was located on the northern edge of the Gillian's Hill Graveyard. Ironically enough, he was buried right next to the person whom he killed and was killed by, Martil.
+
+Appendix
+Appearances
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Elvish seedcake
+
+Elvish seedcakes or simply seedcakes, were sweet bread-like treats that came in loaves and in bite-sized handfood shapes.
+
+Description
+Elvish seedcakes were delectable breads, baked with crushed aniseed, caraway, and coriander seeds. Some versions of these treats possessed magical capabilities to cure moderate wounds on the imbiber.
+
+History
+In the late 14 century DR, small-sized handfood seedcakes were available in the City of Splendors, Waterdeep. In 1372 DR, Alicine Bricket and Muriel Bricket, served neatly individually wrapped elvish seedcakes during a party in their Western Heartlands summer home, outside Daggerford, in celebration of their brother Elveronne Bricket's demise.
+
+Appendix
+Appearances
+Novels
+City of the Dead
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Ellywick Tumblestrum
+
+Ellywick Tumblestrum was a gnome planeswalker and a very powerful bard from an unknown crystal sphere.
+
+Description
+Ellywick Tumblestrum was known as the most powerful bard in the multiverse. She possessed a vast knowledge of many worlds across wildspace
+
+Abilities
+Through song and music, she had the ability to manipulate hearts and minds of sentient creatures, attract animals and even transform her surroundings.
+
+Possessions
+She has a deck of many things in her possession as well as a lute.
+
+Activities
+Ellywick travelled the Realms in the company of an adventurer party she formed. Members of the party included Hama Pashar, Nadaar and Varis.
+
+She was a regular patron of the Witchlight Carnival and preferred drinking at the Feasting Orchard.
+
+History
+
+She gained her powers from a wish spell from a lucky draw from her deck of many things.
+
+Appendix
+Appearances
+Adventures
+The Wild Beyond the Witchlight
+Card Games
+
+Video Games
+Idle Champions of the Forgotten Realms
+Miniatures
+Icons of the Realms
+
+External Links
+ MTG Wiki
+References
+
+---
+
+## Elminster's castle
+
+Elminster's castle was an old stone keep that acted as one of the wizard Elminster's many getaways.
+
+Etymology
+Originally known as Blackhammer's hold, over the years this keep bore many names. These included Uruld’s Folly, Halardraco’s Fang, the Archenfang, the Silent Keep, and (as a mocking title by Simbul) Elminster’s Grand Castle.
+
+Location
+This keep was located high in the Thunder Peaks, not far southeast of Thunderspire Mountain.
+
+Structure
+A ward placed upon this building by Elminster made it look from afar to be a mere mountainspire.
+Interior
+The interior of this building was rather barebones and quite dusty. Devoid of furniture. It had some portals within it, including one that connected it to Elminster's Hideout.
+
+Activities
+Elminster utilized this keep as a source of temporary shelter and storage. He also used it as a place to practice and experiment with the casting of new spells.
+
+History
+This keep was carved out of a mountainspire by the dwarven clan Blackhammer, who used it as a project for their young masons and stonecutters in training. The Blackhammers filled the fortification with traps and had only a few dwarves stationed within it, using it as a base of operations for dealing with the dragons, wyverns, and other monsters of the nearby area.
+
+Eventually this fortification was abandoned and discovered by humans in the early days of Archendale. The people of that dale cleared out the keep's traps, hoping to use it as part of their efforts of expanding Archendale's reach into the Thunder Peaks and establish mines. However, in time they abandoned these plans and the keep along with them.
+
+Over time Elminster and the Seven Sisters would clear the keep of opportunistic dragons and brigands on many occasions, until eventually they decided to shroud it with a ward and use it for their own purposes. At one point Elminster would bring the Simbul here to make love, who was thoroughly unimpressed with the barebones structure.
+
+Appendix
+References
+
+---
+
+## Elzimmer
+
+Elzimmer was a renowned water elementalist who lived in Selgaunt during ages past.
+
+History
+Natives of Selgaunt always referred to the River Arkhen as the "Elzimmer" in honor of the long-dead wizard.
+
+Appendix
+
+References
+
+---
+
+## El-Tarifa
+
+El-Tarifa was an aerial servant and the majordomo of Chininsk Ambar in the city of Phoenix. As of, he was still looking after the master's home within the city.
+
+Overview
+When the city of Phoenix was abandoned, the cleric Chininsk Ambar decided to stay to the last moment. Chininsk Ambar's majordomo was an aerial servant named El-Tarifa who dwelled within a brass lamp. The servant continued to look after the home, even for a millenium after his master's death.
+
+In, El-Tarifa fought with a group of adventurers who accidentally released him from his lamp while ransacking the place. The servant was badly wounded, and returned to his lamp. He may have later encountered the band of adventurers who had released Khalitharius only weeks before. if so, they may have agreed to help him clean up, which he was too tired to do. In response, El-Tarifa may have explained to them the follies of Chininsk Ambar's reading room and offered to perform one act of kindness for them.
+
+Appendix
+Appearances
+Adventures
+Desert of Desolation
+References
+
+---
+
+## Elephstron
+
+Elephstron was the leader of a group of twelve merchants who purchased the fortified stronghold that would later be known as Zhentil Keep.
+
+History
+Elephstron and his group purchased the stronghold from Orlephar Flostren. Elephstron later perished at the hand of Zhentar, a wizard whom he invited to help govern the quickly growing city. Zhentar also died in the battle.
+
+Appendix
+References
+
+---
+
+## Elort Rhomsivin
+
+Stormlord Elort Rhomsivin was the leader of the House of Winds, a temple dedicated to Talos, located in Westgate in the .
+
+Activities
+Elort was the leader of Talos' faithful in Westgate. His congregation within the temple consisted of three other priests and four followers. Elort was a specialty priest of Talos known as a Stormlord.
+
+Appendix
+
+References
+
+---
+
+## Elveronne Bricket
+
+Elveronne Bricket was a cruel and strict nobleman from Daggerford who was murdered by his two sisters, Alicine and Muriel Bricket in 1372 DR.
+
+Description
+In his undead state, Elveronne Bricket was an embalmed intelligent shambling zombie with his eyes glowing red hot with vengeance.
+
+Personality
+Elveronne was a notoriously cruel man. He was known to chase beggars away from his property who accidentally stumbled on it. People who knew him considered him a penny-pinching and domineering individual, especially despised by his two sisters.
+
+Possessions
+Brickets owned a lavish country home on the scenic bank of the Delimbiyr River in the Western Heartlands several hours beyond the walls of Daggerford. The three-story cottage had a sizable cellar and its own little pier.
+
+History
+Elveronne Bricket was a member of Daggerford's nobility who constantly feuded with his sisters over money, the family estate management, and repayment of old-standing family depts. The man kept a long series of detailed journals of his personal and business activities in which he referred to his siblings as "money-grabbing loafers" and "unworthy of bearing the name Bricket."
+
+At one point in his long lost youth, Elveronne was hopelessly in love with a wood elven young lass. The love of his life, the young woman with jade-colored eyes and sun-kissed skin haunted the man's memories many decades after their romance was disturbed. The love was ended by the woman's father who forbade the relationship, leaving Elveronne Bricket with nothing but a memory and a precious elven keepsake necklace that he vowed to forever keep close to his aching heart.
+
+The long series of conflicts with his dear siblings led Elveronne to threaten to write his sisters out of his will. However, he mysteriously perished before that could happen.
+
+Most believed that innocent and sweet old sisters had nothing to do with the death of their brother and even celebrated the death of the horrible old man. His body was embalmed and entombed following the wake. However, old man Bricket did not stay dead. To complete terror and embarrassment of Moris Olgrund, the mortician, the body of Elveronne rose, opened the tomb, and disappeared. Fearful for the old man's two sisters and the heartbreak it would bring them, Moris asked the individual later known as the Hero of Daggerford to find the body, and it if were an undead, douse it with holy water.
+
+In reality, Elveronne Bricket was fueled by pure darkness and hatred. He rose from the dead and left the Bricket family crypt after his sister Alicine stole Elveronne's most precious possession during the wake - enchanted elven keepsake necklace. As a shambling dead, he headed to the family's country house in the Western Heartlands. On a quest for vengeance, the only thing Elveronne wanted was the death of his murderous sisters.
+
+The zombie found a way into the Bricket Homestead basement as the party to celebrate the old man's departure from the land of the living raged above him. The Hero of Daggerford arrived during the merriment to investigate the disappearance of Elveronne's body. Once sisters realized the mercenary was there for their "beloved" brother, both excused themselves from the party and headed to the second floor of the manor, attempting to hide any evidence there might be of the murder. Feverishly trying to hide any evidence of foul play, sisters rosed suspicions of the Hero. The investigation subsequently revealed that Muriel was the murderer. The portly woman served her brother a poisoned fish.
+
+The Hero confronted Elveronne Bricket in the manor's basement. Ignoring the creature's undead form, the Hero communicated with Elveronne and discovered that the undead wanted revenge or his precious keepsake returned. However, it was unknown if the Hero poured the holy water on Elveronne, destroying him, negotiated the return of the enchanted elven keepsake necklace, or allowed old man Bricket to exact his murderous revenge. One thing was clear - in the end, Elveronne Bricket was returned to eternal rest, one way or another.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Elven keepsake necklace
+
+The elven keepsake necklace was the unique enchanted piece of wood elven jewelry that belonged Elveronne Bricket, a nobleman from Daggerford.
+
+Description
+Elveronne's keepsake was a lovely necklace with a small delicate locket that held the image of a beautiful young elven woman with green eyes and sun-kissed skin. The item glowed with an eery otherworldly radiance as if imbued with someone's spiritual essence.
+
+Powers
+This necklace possessed elven enchantments that enhanced the wearer's strength and illuminated  around it with dim blue light.
+
+History
+Decades before 1372 DR, Elveronne Bricket was deeply in love with a beautiful wood elf lass. They relationship was cut short by the woman's father who forbade the romance. Elveronne was gifted the elven keepsake necklace, a bitter sweet reminder of young love lost. The young noble moved to never part with the magic necklace. Throughout his life, Elveronne was haunted of his lover's visage, he never stopped thinking of his jade-eyed beloved.
+
+In 1372 DR, at the dusk of his human years, Elveronne Bricket was murdered by his sisters who resented the man for his frugality. During the funeral, Alicine Bricket, one of the sisters, stole the enchanted locket from her brother's body with a sleight of hand. Unbeknownst to the sisters, Elveronne's vow was so strong, it raised him from the grave as a restless dead, burning with hatred for the thief and the murderer - his dear sisters.
+
+Appendix
+Appearances
+Video games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Elven cloak
+
+An elven cloak was a magic item that allowed the wearer to become invisible.
+
+Powers
+When worn, an elven cloak made the wearer completely invisible most of the time. The invisibility would wear off if they attacked or cast a spell and could not be used again for ten minutes.
+
+Notable Owners
+Shoon VII, one of the vile rulers of the Shoon Imperium, wore an elven cloak.
+
+Appendix
+See Also
+ Cloak of elvenkind
+ Cloak of invisibility
+
+References
+
+---
+
+## Elder Rune (cabal)
+
+The Elder Rune was a cabal of liches who sought to discover a "master" rune that could control other magical runes. It was their ambition to use this rune to control and subvert magical effects such as wards, bindings, gates, and portals.
+
+Rumors & Legends
+One of the goals of the Vellurith, a game of manipulation played among the beholders of Toril, was to influence the Elder Rune (or similar lich cabals) toward goals outside of Faerûn and the affairs of beholderkind.
+
+Appendix
+References
+
+---
+
+## Eltorchul Villa
+
+Eltorchul Villa was the family estate of the Waterdhavian noble house Eltorchul and the home of the Eltorchul Academy.
+
+Location
+The Eltorchul Villa was located in the Sea Ward of Waterdeep, situated on the southwest corner of Diamond Street and Ivory Street, and enclosed from behind by Pharra's Alley and Torch Lane. Along Ivory Street, it stood across from the Gauntyl Villa.
+
+Structure
+This building complex consisted of two high-quality buildings, one that was three stories tall and another that stood a single story tall, one being the mansion proper and the other a guesthouse. Like many Waterdhavian villas, it was a walled estate featuring a landscaped garden.Evidence of this information can be seen in how the villa is depicted on maps.
+
+Interior
+One of the buildings of this estate housed a quite impressive library with a great deal of magical information, rivaled only by those of Maskar Wands and Khelben Arunsun.
+
+History
+In the early 14 century DR, inheriting the fortune his family had garnered over the years through imports and spices, Lord Thesp Eltorchul began to run a school for magic out of this family villa entitled Eltorchul Academy.
+
+Appendix
+Notes
+
+Appearances
+Novels
+The Dream Spheres
+References
+
+---
+
+## Elénaril
+
+Elénaril was an elven princess of Myth Drannor during the 8 century DR.
+
+Relationships
+She was married to Ederan Nharimlur who was the High Mage of Silverymoon at the time. She had one daughter with him named Amaara, who would succeed her father as High Mage.
+
+Appendix
+References
+
+---
+
+## Elderberry
+
+Elderberry trees, or elders, were deciduous trees that blossomed in edible and fragrant white flowers and bore edible dark purple berries.
+
+Usage
+ Dried elderberries were among dried fruits and vegetables sold via Aurora's Whole Realms Catalogue and were valued at one silver since per ounce.
+ Elderflower wine was a light alcoholic drink brewed using aromatic flowers of the elder tree. The wine was used to poach cherries for the decadent and sweet cherry pies of Liam's Hold.
+ Honey was produced by Turmish bees that pollinated elder trees.
+ Jams were often made out of elderberries. Gooseberry jams sold via Aurora's Whole Realms Catalogue were generously flavored and scented with elderflowers. The jam vas valued at one gold coin per pint.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Elderflower wine
+
+Elderflower wine was a light alcoholic drink fermented using tender and fragrant elderflowers of the elder tree.
+
+Description
+Elderflower wine was light in both color and alcoholic content, and perfectly refreshing when served chilled.
+
+Availability
+In the hamlet of Liam's Hold, along the Trade Way, elderflower wine and sugar were used to poach red and black cherries for the delectable cherry pie from Nell's Pie Shop.
+
+Beyond Toril, elderflower wine was a customary drink presented to first-time visitors of the Beastlands, also known as the Happy Hunting Grounds plane.
+
+Appendix
+Appearances
+Adventures
+Tales of the Outer Planes
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Elthond Olósynne
+
+Elthond Olósynne was the third King of the Olósynne Dynasty who ruled the nation of Aglarond.
+
+Activities
+Elthond's short reign lasted from the, to the . He inherited the throne upon the death of his father, King Althon.
+
+Relationships
+His younger brother was Philaspur.
+
+Appendix
+References
+
+Connections
+
+fr:Elthond Olóssyne
+
+---
+
+## Eldathyn (city)
+
+Eldathyn was a small tree city found within Duskwood Dell in Amn.
+
+Inhabitants
+Alatoasz Berendim, the Most Exalted Fallskeeper of Eldath's sacred Duskwood Dell, was a prominent inhabitant of Eldathyn. Since Alatoasz trained priests of Eldath he was the leader of Eldathyn for all intents and purposes.
+
+Appendix
+References
+
+---
+
+## Elven Catacombs
+
+The Elven Catacombs were subterranean structures that spread from the sublevels of Castle Cormanthor and housed tombs, shrines, barracks, and after the Weeping War formed a chasm that connected the Catacombs with the Underdark.
+
+Location
+
+The dungeon levels of Castle Cormanthor expanded into the Elven Catacombs past the castle's second underground level. The top catacomb levels were used as barracks during the times of war, held countless elven burial chambers and crypts, storage, veering sprawling dungeon tunnels, as well as prisons.
+
+Through the numerous twisting and veering secret passages, the Elven Catacombs connected Cable Cormanthor to numerous locations of the City Heights of Myth Drannor, and led into the chamber of the pool of radiance.
+
+The pool of radiance chamber was hidden behind a secret door, and other passages led through the catacombs towards many exits at the Shaundakul's Throne, lrithlium, Tyrimar's Hall, and other locations in the ruined city.> A magical entrance was created to allow creatures carrying the Wizard's Torc to instantaneously be transported to the Catacombs' First Cellar from the Circle of Ualair the Silent in Speculum Grounds.
+
+Layout
+
+The Elven Catacombs consisted of four major levels: the First Cellar, the Second Cellar, the Lower Keep, and the Prisons. Each level was separated by long stair-filled tunnels that could reach up to a hundred steps. The deeper one descended into the depths of catacombs, the stuffier and murkier the air was. In the centuries that followed the Weeping War, the lower levels made its visitors feel unease with their unwholesome atmosphere and almost palpable dread.
+
+A series of subterranean suits could be found in the First Cellar. These chambers were once used by the city of Myth Drannor to temporarily house important dwarven dignitaries and visitors to the City of Songs. The catacombs held several shrines dedicated to various gods, including the ever-burning Shrine of the Silver Fire, dedicated to Mystra. One of these sirens was desecrated in 1369 DR and turned into a makeshift Temple of Lolth by the drow invaders.
+
+A wine cellar could be found in the Second Cellar of the elven dungeon. Below the Second Cellar laid the Lower Keep. This level was primarily used to bury the greatest dwarven and elven defenders and heroes of Myth Drannor. The old tombs were decorated with masterful carvings, and its halls were framed with massive statues of heroes of old.
+
+History
+Following the fall of Myth Drannor in the Weeping War, the Elven Catacombs, like the Dwarven Dungeons, were sealed off with magic to stop looting and desecration. However, with centuries that passed, the Catacombs became unsealed in several places, secret entrances became discovered, and a huge chasm opened up, allowing the creatures of Underdark entrance into the ruins.
+
+By 1369 DR, the Elven Catacombs became a haunting ground for various undead creatures and infested with deadly arraccats and margoyles. That year marked the time when the Cult of the Dragon, led by Kya Mordrayn and her dracolich ally Pelendralaar, conquered the ruins of the City of Song and was using Castle Cormanthor as their base. The Cult of the Dragon used the Elven Catacombs as barracks for themselves and their dragonkin servants. The Cult utilized the prison in the lower levels of the Catacombs. There, they kept prisoners and performed unholy tortures and rituals. During the same period of rime, drow houses of Freth and Kilsek found a way into the catacombs. They started opening old crypts and smuggling ancient elven magical items back to the Underdark. Freth drow allied with the Cult of the dragons and sold House Kilsek out in exchange for the cess to all the treasures of Myth Drannor. House Freth claimed the two lower levels of the Catacombs, while Kilsek drow was drained of their blood, souls, and their bodies were used as undead servants of the Cult.
+
+The Cult's activities attracted a group of adventurers led by a hero of Shadowdale - Athan. The adventurers were armed with Gauntlets of Moander and sent to the ruined City of Song by Elminster. However, shortly after arriving, Athan's gang was ambushed by the Cult, and most of them were slaughtered. Athan himself was kept alive and tortured in the prisons of the Elven Catacombs. Eventually, a group of heroes known as the Veiled Ones rescued the failed leader, killed the treacherous Freth leaders, and forced the Cult out of the ruins.
+
+Inhabitants
+
+Aasirak: an ancient lich who laired in the Catacombs' First Cellar.
+Miroden Silverblade: a baelnorn and the sworn protector of Myth Drannor's mythal.
+Sleethur: a powerful dark naga who laired in the Lower Keep among dwarwish tombs.
+Thyaast Ammath: once brilliant elf wizard who transformed herself into a mad spectral lich, dwelt in the deepest level of the Elven Catacombs in her ancient laboratory, across the hall from the charm that led directly to the Underdark.
+
+Appendix
+Appearances
+Adventures
+Pool of Radiance: Attack on Myth Drannor
+Video Games
+Pool of Radiance: Ruins of Myth Drannor
+Novels
+Pool of Radiance: Ruins of Myth Drannor
+
+References
+
+---
+
+## Elven ceremonial armor
+
+Elven ceremonial armor was a type of traditional enchanted plate mail, crafted and used by the surface Fair Folk, dating several generations before 1372 DR.
+
+Powers
+Enhanced with +1 enchantment, these sets of mail, granted the wearer uncanny focus when casting conjuration, divination, enchantment, and evocation spells.
+
+History
+Even though majority of elves prefer wearing  sets such as elven chainmails, these ceremonial plates were masterfully crafted and offered solid defense. By late 14 century DR, elven ceremonial armor could be found on the Sword Coast as well as the Moonsea regions.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights series (Neverwinter Nights • Neverwinter Nights 2 • Neverwinter Nights: Tyrants of the Moonsea)
+
+References
+
+---
+
+## Eldamar
+
+Eldamar, the Dreadlord, was a powerful lich that was frozen into a huge glacier.
+
+Personality
+Eldamar was a studious mage and worshiper of Tyr who was obsessed with immortality. He was incredibly stubborn and would not listen to the advice of others on the topic of extending his life.
+
+History
+Early History
+Approximately 375 years prior to the mid-14 century DR, Eldamar and his twin brother, Oswulf, constructed a castle in the low area between the peaks of the Dragonspine Mountains. The castle became known as the Castle of the Twins. Over the following quarter of a decade, Verdigris, a mining town, was established below the castle. Both Eldamar and his brother would guide the town, which would become very prominent.
+
+Lichdom
+The mage began to research how to become immortal, and when his studies became advanced, he transformed himself into a lich. He believed that his brother would not stand for this and would recruit others to slay him. In order to protect himself, and still fearing death even as a lich, he hired evil creatures to assist him. It was then that he took on the name Dreadlord.
+
+As his hordes overtook and ruined the town of Verdigris, he built winding mazes and traps throughout the area.
+
+Encased in Ice
+The Silver Blades, led by his twin, would force monsters out of the ruined town. However, Oswulf was unwilling to slay his brother. Instead, he gathered the spellcasters of his group. They researched a spell and cast it upon the valley, freezing both it and Eldamar inside a huge glacier.
+
+Appendix
+Appearances
+Video Games
+Secret of the Silver Blades
+References
+
+---
+
+## Elegis
+
+Elegis was a tiefling from the Western Heartlands that was forced to flee from Elturel along with her kin during the late 15 century DR.
+
+Personality
+Due to the traumas she faced on the road as a refugee, Elegis developed a significant fear of goblins and goblinkind.
+
+History
+Following the Descent of Elturel in the, where the city was briefly pulled down to the Nine Hells, all the tieflings in the city were expelled due to the mistaken belief they were somehow associated with the catastrophe. Elegis joined the group led by Zevlor one of the city's famed Hellriders, and journeyed with them west towards Baldur's Gate.
+
+When the group was forced to take shelter with the druids of the Emerald Grove due to increased goblinoid attacks across the region, Elegis took post at the great portcullis that shielded the grove and its cave network from the surrounding lands.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+References
+
+---
+
+## Elwyn
+
+Elwyn was a druid of the Emerald Grove during the late 15 century DR.
+
+History
+In the, the Emerald Grove was harried by goblin raiders loyal to the Cult of the Absolute. Elwyn was terrified about the harm they could inflict upon her fellow druids.
+
+Elwyn was among the druids that began performing the Rite of Thorns, a ritual that would hide the grove from the surrounding landscape initiated by the leader druid Kagha.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+References
+
+---
+
+## Elegy for the First World
+
+"Elegy for the First World" was an ancient draconic poem of unknown origins.
+
+Contents
+"Elegy for the First World" narrated the story of creation of the First World, a world that existed before the many worlds of the Prime Material plane were created. According to the poem, the dragon gods Bahamut and Tiamat worked together to create the First World, as the poem named the Prime Material plane. After finishing their work, Bahamut and Tiamat then created the firstborn of dragonkind, Sardior, in their own likeness. Sardior helped them to create the intended inhabitants of the First World, the different metallic and chromatic dragons.
+
+The poem then narrated the invasion of the gods of the Outer Planes, who wanted to make the First World the home of their mortal creations. The dragons opposed the invaders but were overwhelmed by their incredible might. After Bahamut was defeated by the gods, Sardior hid in the heart of creation. Alone, Tiamat continued the fight until eventually she was defeated as well and sealed in a place of darkness. The victorious gods then gave the First World to their creations, who went to live in different lands according to their individual natures. Elves went to live in the forests, dwarves in the mountains, humans all over the world, and so on. When Bahamut recovered, he began to travel the world striving to understand the gods and their creations, eventually being accepted as one of the deities of Mount Celestia. Meanwhile, Tiamat, loosened from her prison, set her chromatic dragons against the gods and their creations as her revenge.
+
+Finally, the poem narrated the sundering of the First World in some unexplained catastrophe. The poem implied that Sardior died during this catastrophe and the First World was divided into the infinite seedling realities that eventually became the different worlds of the Material plane.
+
+History
+According to scholars, the "Elegy for the First World" was found in the traditions of dragons across the many worlds of the Prime Material plane, and it was also said that the various creation myths of the different worlds reflected some elements of the poem, specially those myths that described dragons or dragon gods being involved in the creation of these worlds. However, there were unique elements of the poem that were not reflected in any myths.
+
+These elements were the implication that the many worlds of the Material plane were derivatives of the First World, created from its sundering. It also explained why Bahamut and Tiamat existed in the myths of many worlds, even if they were known by other names. However, the poem also included a third divine dragon, Sardior, that wasn't known in many worlds. Another implication of the poem was that dragons were intrinsically tied to the Material plane, being the living embodiments of the primordial magic of that plane. It also implied that while metallic and chromatic dragons were created by the dragon gods, gem dragons were created from the remains of Sardior.
+
+Some sages from Toril believed that "Elegy for the First World" contradicted  the evidence of the existence of the proto-dragons, the reptilian ancestors of dragonkind that existed in the Days of Thunder, implying that dragons appeared recently in the world. However, proponents of the poem believed that this was no contradiction, stating that the proto-dragons were a way for Toril to try to recreate its original inhabitants, the dragons, after being sundered from the First World. As evidence, they pointed to the fact that the most common dragons of the multiverse, the metallic, chromatic, and gem varieties, also existed on Toril; and that Bahamut and Tiamat were among the oldest deities of Toril, even if they were known by other names in ancient times.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elowen
+
+Elowen was a Nentyar hunter operating in the Forest of Lethyr in . She was a part of Araluen's party when she went to confront the Rotting Man that year.
+
+Description
+Elowen clad herself in warrior's garb, mostly brown and green leathers. Her hair hid her ears; her build was thin and elongated.
+
+Personality
+She was strongly appreciative of music, even very foreign one like that of Gunggari Ulmarra. Also, she really liked swords.
+
+Abilities
+Elowen was quite familiar with the paths around the Forest of Lethyr, and even with parts of the Rawlinswood like the Arches of Xenosi.
+
+Possessions
+The Nentyarch bestowed Dymondheart upon Elowen before sending her on the quest to confront the Rotting Man together with Araluen. Before that time, she wielded a leaf-shaped blade.
+
+Activities
+As a Nentyar hunter, Elowen ranged freely throughout the Forest of Lethyr. She was, however, quite remiss with her paperwork; in, she had gone for about two years without reporting back to the Circle of Leth.
+
+Relationships
+Her fellow Nentyar hunter Fallon bore some sort of grudge against her. She was friends with the Deep Imaskari wizard Ususi Manaallin. She slowly became friends with Marrec and Gunggari Ulmarra over the course of their time together.
+
+History
+On the spring of 1373 DR, Elowen came across Araluen, at the moment known as Ash, in Fullpoint after the village was attacked by blightspawned volodni. Together with the Gunggari Ulmarra and the priest Marrec, she managed to save Ash from her kidnappers. On her advice, they followed her to Two Stars, where they would consult with the sage Ususi Manaallin, her friend. Learning from Ususi that the Mucklestones were imperiled, they headed there to check up on Briartan; there, they fought the Talontar blightlord Gameliel and rescued Briartan, who was his captive.
+
+Per Briartan's advice, they headed for Yeshelmaar, where she gave a debriefing regarding the situation to the Circle of Leth. After the group spoke with the Nentyarch, he bestowed Dymondheart on her, and bade her accompany Marrec and Ash, or Araluen, on their quest to confront the Rotting Man. However, when her fellow Nentyar hunter, Fallon, kidnapped Ash, they were forced to give chase before being able to complete their preparations. They chased Fallon across the Celestial Nadir, and were ambushed by Anammelech on exiting it. After the second blightlord's defeat, they proceeded through thee tunnels of Under-Tharos, and were pressed into a fight between two demons: the Queen Abiding and Eschar. Successfully prying off the Queen Abiding's command token from Eschar, they emerged in the Rawlinswood close to Dun-Tharos, where they soon came across a third blightlord, Damanda: after the fight, they caught up with a dying Fallon and finally recovered Araluen.
+
+They challenged the Rotting Man soon after; during the fight, Elowen personally destroyed Damanda. After the Rotting Man ordered the Step-Daughter of Talona to fight them, Elowen was quickly knocked out by the rampaging abomination. She survived the fight, however, and judged that she had made new friends during the quest.
+
+Appendix
+Notes
+
+Appearances
+Novels
+Lady of Poison
+
+References
+
+---
+
+## Elyssyrr
+
+Elyssyrr was a small coastal town located on the island of Gwynneth within the Moonshae Isles.
+
+Geography
+Elyssyrr was found in southern Gwynneth in the western region of the kingdom of Corwell. The town was located along the northern shore of Corwell Firth just south of the Highlands within the Shrouded Lands.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elebrin Liothiel
+
+Elebrin Liothiel, called the Celestial Gardener, was a pastoral elven deity of orchards, gardens, nature, and the harvest. He represented the abundance of nature and its ability to provide for those who lived in harmony with it. He was believed to watch over not only elven communities, but the gardens, orchards, and groves that grew near them; ornamental gardens and other decorative plantings were also within his purview. He was said to ensure bountiful harvests for those who planted and tended in harmony with nature.
+
+Description
+Elebrin typically appeared as a young male elf, wearing a tunic and pants of muted golden shades and cloak the color of spring-green leaves, embroidered with trailing vines. He wore a circlet of leafy vines atop his head and carried a sturdy rowan-wood staff.
+
+Relationships
+Elebrin was a member of the Seldarine, and presumably shared in the rest of that pantheon's alliances and enmities.
+
+He was known to be served by half-celestial nymphs, half-celestial treants, and celestial chargers.
+
+Worshipers
+The Celestial Gardener was worshiped by most good elves. His clerics spent their time tending to communal gardens and orchards in elven settlements; older clerics would also plan gardens, catalogue new plants, and train plants into decorative shapes. They also studied how to grow crops in harmony, rather than in competition, with native plants.
+
+More adventurous followers of Elebrin Liothiel were known to undertake quests involving the restoration of blighted areas, the acquisition of seeds or cuttings from new plants, or helping to feed other elven communities. Some would even help human communities that were stricken with famine or some other misfortune.
+
+Shrines to Elebrin were normally a simple platform built in a tall tree, or a one-room domed or peaked building of saelas wood. All had a simple dirt floor on which neatly tended plants grew. Prayers to the Celestial Gardener normally involved the health of forests and other plants, and requests for sun, rain, or other needed weather conditions. Offerings took the form of a piece of saelas or a live plant.
+
+Clerics had simple rituals they delivered at the occasions of new plantings, harvests from both domestic and wild plants, and forests wherein a new elven community was to be built.
+
+History
+Elebrin Liothiel was said to have created the saelas (wildwood) tree as a gift to the elves.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Elenna Thrinn
+
+Sergeant Elenna Thrinn was a dwarf of the Underdark that joined the cult of the Absolute during the late 15 century DR.
+
+Personality
+Thrinn was a pragmatic follower of the Absolute, not as zealous or self-righteous as some other devotees. She was however wholly dedicated to the Absolute's cause and readily deferred to her True Soul superiors.
+
+Possessions
+In addition to her other gear, Thrinn kept on her person a magical ring called a bracing band. She also had a favorite pair of boots of speed, but they were stolen by the gnome rebel Thulla.
+
+Relationships
+She served the cult under the direction of True Soul Nere, a particularly entitled and self-important drow.
+
+History
+In the, Nere and Sergeant Thrinn led the cult's excavation of Grymforge, seeking out an ancient Sharran temple within its depths. To aid them in their efforts, Thrinn hired on fellow duergar raiders of Clan Flameshade.
+
+As Clan Flameshade's deep gnome slaves dug through rock and earth, they inadvertently trigged a trap that caved-in a portion the tunnel True Soul Nere was standing in. The drow cult leader and a few gnome slaves became trapped behing a pile of rubble, in a small chamber that gradually filled with some manner of poisonous gas. Thrinn took over as overseer of the Flameshade mercenaries and their gnome slaves, doubling their efforts to dig out and free the Absolute's True Soul.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+
+References
+
+---
+
+## Elixir of madness
+
+Elixirs of madness were a variety of potion that induced madness in those who imbibed them.
+
+Description
+These potions had a foul taste to them.
+
+Powers
+Those who imbibed one of these elixirs were afflicted with madness, similarly to the wizard spell confusion. Once a creature became afflicted by it, the rest of the liquid within an elixir of madness became inert. This state of being could be removed from the afflicted by means of a heal, restoration, or wish spell.
+
+Creation
+One often-used component for making an elixir of madness was the green powder that was left behind when ankheg eggs disintegrated after a lack of oxygen.
+
+Varieties
+Paste of madness The people of Serôs had a thick, gelatinous paste version of this potion, suitable for use in their underwater environment. Like other pastes of Serôs, a paste of madness consisted of kelp and other viscous substances. It was stored in either clamshells or flexible tubes made from eelskin.
+
+Notable Users
+ Keilier, an evil wizard in Waterdeep.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elven steel
+
+Elven steel was a metal produced by the elves of the Realms, used to forge bladed weapons and armor.
+
+Properties
+Elven steel was just as strong as the finest steel produced by other folk of the Realms, but with half the weight. It held the reputation of piercing through armor with ease.
+
+Availability
+Armor formed from elven steel could not be readily purchased by many, but was sometimes offered as a gift to non-elves.
+
+Applications
+Weapons wielded by the Tomb Guard of Evereska were forged from elven steel.
+
+Appendix
+Appearances
+Novels
+ The Summoning
+References
+
+---
+
+## Elder Wisdom
+
+Elder Wisdom is an adventure in the Living Forgotten Realms organized play campaign for Dungeons & Dragons 4 edition.
+
+Index
+
+Characters
+ •  •
+
+ •  •  •  •  •  •  •  •  •  •
+
+Creatures
+ •  •  •  •  •  •  •  •  •  
+
+ •  •  •  •  •  •  •  •  •
+
+Items
+ •  •  •  •  •
+
+Locations
+ •  •
+
+ •  •  •  •  •  •  •  •  •
+
+Magic
+
+Organizations
+ •
+
+ •  •
+
+Religion
+ •
+
+ •  •
+
+Miscellaneous
+
+Appendix
+Notes
+
+---
+
+## Elaacrimalicros
+
+Elaacrimalicros, also known as Elaar, was a green dragon who made his home among the Star Mounts in the High Forest. He was thought to be by far the oldest dragon living in the High Forest as of the mid-to-late 14 century DR.
+
+Personality
+He was rapacious, cruel, and delighted in killing. He was also very private, and thus very dilligent in protecting his territory.
+
+Activities
+Elaacrimalicros spent much of his time asleep, only awakening once every few decades. When he did, he seemed to take care to eliminate any who attempted to scale the Star Mounts, and would engage in flyby attacks to fling climbers off the mountainsides.
+
+Relationships
+Because he destroyed their homes, the aarakocra who once dwelt on the Star Mounts—along with their descendants—all swore revenge on Elaacrimalicros. One group in particular, a cabal of ten wizards, clerics, and druids known as the Nest of Retribution, was amassing an army of air elementals at the Lost Peaks in preparation to attack the dragon as of the .
+
+History
+In the 1360s DR, Elaacrimalicros was awoken, although it was not clear at the time what had awakened him. He immediately set about savaging the five local settlements of aarakocra who had come to dwell on the Star Mounts, consuming over 120 of them and scattering the rest across the North and as far south as Cormyr. Only a few survivors remained in the Star Mounts, coming together at the head of the Unicorn Run in a new village known as the Last Aerie.
+
+In the following years, he continued to haunt the Star Mounts, and it was rumored that he was protecting a great treasure.
+
+By the late 15 century DR, the descendants of the aarakocra driven from the Star Mounts continued to plot and quest to kill Elaacrimalicros.
+
+Appendix
+References
+
+---
+
+## Elphaendim
+
+Elphaendim was one of the merchant organizations and a noble families from the city of Arrabar in the Vilhon Reach.
+
+Organization
+House Elphaendim employed a sizable mercenary and guard forces as well as house mages, like other merchant houses of Arrabar.
+
+History
+by the late 14 century DR, the Elphaendim family was led by Thalammose Elphaendim, a respected patriarch, often called The Old Elf behind his back for his quiet demeanor and rumored impressive archaist skills. Thalammose's favorite scion was his great-niece Cauvra Elphaendim. The young girl was still a few years away from her sixteenth birthday celebration in 1373 DR, and the patriarch felt protective of his great-niece. The Old Elf took to mentoring Cauvra as he saw burgeoning wizardly skills in the young woman. Another famous family member was Brastynbold Elphaendim. A boisterous bear of a man with many stories of his brawls and feats of strength circulating the noble circles Arrabar.
+
+Elphaendim family attended Emriana Matrell's grand sixteenth birthday celebration at the Matrell estate on Tarsakh 13 of 1373 DR. Young Emriana was childhood friends with Cauvra, but they drifted apart as Cauvra's tutoring in the Art started. Members of House Elphaendim, along with other guests, witnessed an assassination attempt at the matriarch of House Matrell – Hetta Matrell during the celebration.
+
+Appendix
+Appearances
+Novels
+The Sapphire Crescent
+
+References
+
+---
+
+## Elah'zad (temple)
+
+Elah'zad, which was also called the House of the Moon, was an ancient Eldathyn holy site located within Anauroch.
+
+Description
+The House of the Moon was a circular structure made from chalky translucent desert rock. The entire building sat within a lake in the center of a grove surrounded by many smaller springs.
+
+History
+The Bedine believed the site was initially a temple to Selûne until the sun goddess At'ar drove her away so she could make it a prison for Eldath whose beauty she was jealous of.
+
+Rumors & Legends
+Within Elah'zad, Eldath could speak through the mouth of any woman who entered the temple. Magic items of Eldath could be recharged here through prayer.
+
+Appendix
+References
+
+---
+
+## Elar
+
+Elar was a Shadovar soldier and a member of the reconnaissance patrol led by Parth Gal during the late 14 century DR. The unit served at the leisure of Escanor Tanthul, Prince of Thultanthar.
+
+History
+Elar was was killed along with all the other Shadovar in his unit during an ill-fated expedition to Myth Drannor in the . The Shadovar scouts were tracking phaerimm activity beneath the ruined Irithlium and each met a gruesome death. Elar, Parth Gal, and several others were downed by elven traps that shot hidden darts out from the walls of the ruined catacombs.
+
+Appendix
+Appearances
+Novels
+ The Siege
+References
+
+---
+
+## El'lahana Raikeil
+
+El'lahana Raikeil was a legendary elven castle found deep within the Moonwood in Luruar.
+
+History
+The castle once housed the Crown of Joy and Tears which was experimented on by the Knights of the Unicorn. The Knights returned the Crown to where they found it upon their departure from the castle.
+
+Defenses
+El'lahana Raikeil was filled with riddles and puzzles. Upon solving one of these obstacles, an observer would witness the image of a silver unicorn that would solidify a little bit more with each riddle solved.
+
+Appendix
+References
+
+---
+
+## Elyril Hraven
+
+Elyril Hraven was a secret priestess of Shar and one of the architects of the Sembian Civil War in 1374 DR.
+
+Relationship
+In 1374 DR, Elyril was the main advisor to her aunt Mirabeta Selkirk. Under orders of Shar, she worked with one of the Princes of Shade, Rivalen Tanthul, in order to start a civil war in Sembia. In truth, she was a follower of Volumvax. She immediately disliked Abelar Corrinthal.
+
+History
+In her youth, Elyril killed her parents and devoted herself to Shar.
+
+In the, under orders of Rivalen Tanthul of Thultanthar, but unknown to Mirabeta, Elyril poisoned Overmaster Kendrick Selkirk. Later, she manipulated Mirabeta and the Sembian High Council to elect Mirabeta as acting Overmistress, receiving with the open hostility of Saerb and Selgaunt led by Endren Corrinthal of Saerb. After the formal start of the Sembian Civil War, Elyril helped Mirabeta to also obtain the position of war regent in order to defeat the rebel towns of Saerb and Selgaunt.
+
+During a diplomatic mission to Yhaunn, Elyril found instructions from Shar herself in The Leaves of One Night.
+
+After the alliance between the Shadovar and Selgaunt was secure, Rivalen decided they no longed needed Elyril, who had been an unnecessary witness to his plots. So the Prince used a spell to kill Elyril from a distance, but she was saved by Volumvax, unknown to Rivalen. So Elyril focused on The Leaves of One Night and learned to unleash the Shadowstorm.
+
+On Nightal 1, Elyril Hraven at last summoned the Adumbral Calyx upon Ordulin, unleashing the Shadowstorm. But on dying she understood that Volumvax also considered her only a pawn and she asked for the goddess for comfort. Shar only congratulated her on the success of her mission and sent Elyril into oblivion.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elder eye (spell)
+
+Elder Eye was a spell used by clerics of Ghaunadaur.
+
+Effects
+When cast, this spell temporarily transformed one of the caster's eyes into a brilliant gold orb of pure evil. When the caster glared at a target within, the targeted creature was struck with blindness. This magical blindness could only be reversed by the casting of either a remove curse or cure blindness or deafness spell. There was a chance the blindness could become permanent. If permanently blinded, only the heal or regenerate spells could restore sight to the affected creature.
+
+Components
+This spell required verbal and somatic components.
+
+Appendix
+References
+
+---
+
+## Elfrune
+
+Elfrunes were enchanted tokens that signified friendship.
+
+Description
+Elfrunes came in a variety of styles including rings, brooches, amulets, etc.
+
+Powers
+An elfrune could be used to instantly travel to Evermeet. They could also be used to communicate with the elven homeland. The magic of these items would only work for the specific person to whom they were gifted.
+
+History
+Queen Amlaruil Moonflower gave these tokens to her allies in Faerûn. Both Mirt the Moneylender and Carreigh Macumail were known to have possessed an elfrune at one time.
+
+Appendix
+References
+
+---
+
+## Elfgate
+
+Elfgates were enchanted portals that connected Evermeet with Faerûn.
+
+Powers
+Most elfgates only offered one-way transportation from Evermeet to Faerûn, but a few could be used to move both ways. The elves strictly guarded the location, as well as the method of use, of all elfgates.
+
+History
+An elfgate was used by the assassin who slew King Zaor Moonflower. Another elfgate was destroyed within Synnoria on the Moonshae Isles by a rampaging beast.
+
+Rumors & Legends
+Khelben Arunsun guarded one end of an elfgate located in Blackstaff Tower in Waterdeep.
+
+Appendix
+References
+
+---
+
+## Elminius Daresulk
+
+Elminius Daresulk, Bard of Chondath, was a well-known individual in the Vilhon Reach in the late 14 century DR.
+
+History
+As of the, Elminius Daresulk was a vocal advocate for redrawing maps of the Vilhon Reach according to the political boundaries that often varied greatly from published maps of the region. Cultural and politically inaccurate maps led to trouble for adventurers who visited the region from afar, unaware of fragile political relations between the Free Cities and nations of the Reach.
+
+Appendix
+References
+
+---
+
+## Elmrock
+
+The Elmrock was a well-reputed general supplies store in the city of Iljack, Chondath.
+
+Services
+Elmrock stood by Iljack's Warehouse District, neighboring the Emerald Dolphin bar. The store offered a wide variety of supplies for sale–all reasonably-priced.
+
+History
+At some point before the, Adamar Session, Bard of Starmantle, visited the Elmrock shop during his twelve-year adventuring trek across the Reach.
+
+Appendix
+References
+
+---
+
+## Elemental Scourge
+
+The Elemental Scourge was a massive magical apparatus that could grant an individual the power to summon a dozen elder elementals.
+
+Description
+The Elemental Scourge was an enormous,  high device that dominated the northern half of a  wide cylindrical chamber within the underground Kossuth's House in Skelem. This chamber was decorated with intimidating frescoes of giant elementals wrecking havoc, and contained four statues, each depicting a huge elemental—one each of air, earth, fire, and water—representing the creatures that the device would enable a user to conjure.
+
+The device itself had many spindly arms ending in blades, globes, or metal hands, all of which were constantly in motion, animated by the elemental energies that the device tapped into. As they moved, the arms seemed to reach out or perform strange maneuvers. The whole apparatus emitted otherworldly dim lights and muffled noises.
+
+At the base of the apparatus were a pair of concentric circles carved into the stone floor with runes etched into the space between them. The device was activated when an individual knelt inside these circles.
+
+Powers
+Once activated, the Elemental Scourge unloaded elemental power into the user kneeling in the circles. This power could overwhelm and injure a weaker individual, and thus the device would not activate if a user lacked power or experience. Once a user had received this power, they gained the one-time ability to summon a dozen  tall elementals—three from each of the four primary Elemental planes—to any location they had visited within  of the device. For one minute, this monstrous force would obey the user's every command. This ability did not have to be used immediately, and the user retained the power for one year, during which time they emitted a strong aura of conjuration magic.
+
+After bestowing this conjuration ability, the Elemental Scourge had to recharge for one year before it could be activated again.
+
+History
+The apparatus was created as part of a nearly unprecedented collaboration between powerful Netherese wizards and the church of Kossuth. It was built over the course of several years in the Kossuth's House, a secret location beneath Skelem.
+
+After Skelem was overwhelmed and fell into ruin sometime after the Fall of Netheril, details of the device were forgotten, however rumors and legends persisted of a weapon capable of summoning an army residing somewhere in the city's ruins. In the, these rumors drew the attention of a pair of fire giant brothers, Soluf and Gharod, who sent a team of yuan-ti and giantkin to seek out the legendary weapon. The giants hoped to use the Elemental Scourge to raze Mulmaster and conquer the eastern Moonsea, however their minions struggled to find it in the ruins.
+
+Appendix
+Appearances
+Adventures
+Mysteries of the Moonsea: "Eastern Moonsea adventure arc"
+References
+
+---
+
+## Ellyn Harbreeze
+
+Ellyn Harbreeze was the proprietor of Harbreeze Bakery in the Upper City of Baldur's Gate during the late 15 century DR. She was famous as the most notorious local gossip.
+
+Description
+She had red hair and was overweight, but was described as plump rather than fat.
+
+Personality
+Ellyn was talkative and gregarious, known to approach strangers in the Upper City to chat with them. She would invite adventurers for tea at her bakery when she found them intriguing or likely to know some juicy rumors. She was generally recognized as the biggest gossip in Baldur's Gate, and was likely to know anything and everything about her patriar clients and their upscale social circles. It was said that anything she knew, each and every one of her customers would know by the next morning.
+
+Activities
+From her bakery, Ellyn served the residents of the Upper City sophisticated pastries and teas that made full use of the exotic spices that passed through Baldur's Gate, making her shop a cherished institution that provided her with plenty of gossiping customers.
+
+Anyone who wanted to know anything about goings on in Baldur's Gate was advised to go straight to Ellyn first, although her propensity for sharing other peoples' business was not always good for her own safety.
+
+Appendix
+Appearances
+Adventures
+Baldur's Gate: Descent into Avernus
+Card Games
+
+References
+
+---
+
+## Eloar
+
+Eloar was an eladrin noble and the Mistress of the Spire of Summer's Mist on the Watch on Forever's Edge, together with Dramvar.
+
+Possessions
+She wore elaborate, stylish black leather armor, and carried a rapier.
+
+Abilities
+During her fight with Taal, Eloar made use of short-range teleportations, a blinding effect alongside her rapier attack, and even became invisible for a brief period.
+
+History
+At a point in time equivalent to the, Eloar joined Dramvar in a trip to their neighboring spire, the Tower of Winter's Peace, where they sought to talk to Malyanna. Her castellan, Taal, informed them that her absence continued and that she was in the world rather than the Feywild; they invoked the Articles of the Compact, requesting Taal provide access to her chambers, so that they may be examined for suspicious activity. Though Taal acquiesced, he ambushed and slew them shortly afterwards. He discarded their bodies over Forever's Edge later.
+
+Rumors & Legends
+Taal replicated Dramvar's handwriting later, claiming that the two eladrin nobles he'd slain had decided to remain at Winter's Peace for a full tenday.
+
+Appendix
+Appearances
+Novels
+Key of Stars
+References
+
+---
+
+## Elklund Oromanche
+
+Elklund Oromanche was one of the many Oromanche siblings of a prominent Mosstonian merchant family in the late 15 century DR.
+
+Description
+Every member of the Oromanche family was described to have "dark, lush good looks," which made the family lush with rumors of and well-publicized trysts. The family was known for being flamboyant and grand individuals.
+
+History
+By the late 15 century DR, the Oromanche clan was one of the most successful merchant organizations in Tethyr and the town of Mosstone. Maerele Oromanche was the matriarch of the clan and the oldest sibling. The rest brothers and sisters were much younger including Odyle, Imraphar, Olora, Emruelle, and Haladeira. Most contributed to the family's mercantile activities. Elminster of Shadowdale had a warm relationship with the family, but his attitude towards Elklund Oromanche was notably cold.
+
+Appendix
+References
+
+---
+
+## Elfhost
+
+Elfhost was a sentient longsword of the House Floshin sun elves.
+
+Description
+Forged especially to defeat elves' foes, the sword's pommel featured a large ruby and its blade was mithral.
+
+Powers
+A +5 longsword, Elfhost's strikes were especially damaging to goblinoids. The sword could teleport without error, locate objects, and heal those it touched in addition to magically defending its bearer. It also could detect nearby secret doors and gems.
+
+Reputation
+The sword was given its name by its orc and goblin foes.
+
+Notable Owners
+Elfhost belonged to Elorfindar Floshin in the late 14 century DR and had been passed down in the family for generations.
+
+Appendix
+References
+
+---
+
+## Electrum Avenue
+
+Electrum Avenue was a small road located in the city of Zhentil Keep during the mid–14 century DR.
+
+Location
+Electrum Avenue was located in the Common Quarter in the northeast section of the city. The road branched from Fortress Street in the north and passed south then east in a curve before ending on Ghost Street. The Street of Delights connected with Electrum Avenue along its curve.
+
+Notable Locations
+A Zhentilar armory was located on Electrum Avenue.
+
+Appendix
+References
+
+---
+
+## Elephstron Way
+
+Elephstron Way was a road located in the city of Zhentil Keep during the mid-14 century DR.
+
+Location
+Located in the Inner Quarter in central Zhentil Keep, Elephestron Way cut through the middle of the quarter, dividing into northern and southern halves. The road ran west to east, originating at the western gate to the Common Quarter on Wyvern Road and terminating at the eastern wall of the Inner Quarter. Elephstron Way connected with many other roads within the Inner Quarter including the Street of Bones, Imperceptor Street, Raven Street, Flostren's Memory, Wyrms' Way, and the Street of the Gods.
+
+Notable Locations
+Several Zhentilar guardposts were located along Elephstron Way. Other prominent landmarks included the Black Altar, and the estates of Lord Marsh Belwintle and Lord Naerh.
+
+Appendix
+References
+
+---
+
+## Elemos Dunblast
+
+Elemos Dunblast, who was nicknamed the Hand, was a carpenter and businessman inhabiting the city of Waterdeep during the mid–1360's DR.
+
+Activities
+Elemos owned Dunblast Roofing Company which was located in Waterdeep's Trades Ward. In addition to running his business, Elemos was the main public point of contact for the Carpenters', Roofers', & Plaisterers' Guild in Waterdeep.
+
+Appendix
+References
+
+---
+
+## Elvarren's Lane
+
+Elvarren's Lane was a small road that was located in the city of Waterdeep.
+
+Location
+Elvarren's Lane was located in the northwest section of Waterdeep's Castle Ward. It originated on Calamastyr Lane in the north, branching due south and turning southeast to end on Tchozal's Race.
+
+Appendix
+References
+
+---
+
+## Elmandar
+
+Elmandar was an elf or half-elf mage and noted astronomer in the city of Bral on the Rock of Bral in the mid-to-late 14 century DR. He was the proprietor of Elmandar's Star Charts.
+
+Activities
+Servicing the strong demand from spelljammer navigators for highly accurate star charts, Elmandar drew and sold charts of guaranteed accuracy that fetched prices of 300–800 gp each. Furthermore, Elmander had a small staff of his own navigators and cartographers who would join the crews of tradesmen spelljammers in order to check and update charts during flights. Moreover, Elmandar charts could be brought back at any time to be updated, free of charge.
+
+Elmandar's Star Charts was found in the Middle City of Bral on Cuttle Street overlooking the edge of the Rock, near the Wallis Tannery.
+
+Relationships
+A former student and employee of Elmandar's was Teledir Sunstrider, who established the rival business Nautical Charts of Bral.
+
+History
+A former adventurer, and the helmsman aboard a spelljammer galleon called the Eclipse, Elmandar retired from that life and started a more rewarding career in surveying and charting.
+
+Possessions
+Elmandar kept a model of the Eclipse in his observatory. He also had a cat.
+
+Appendix
+References
+
+---
+
+## Elder brain dragon
+
+An elder brain dragon was an aberration that was formed when an illithid elder brain took over the body of a living dragon.
+
+Description
+Elder brain dragons did not require sleep or food for sustenance. Their bodies were imbued with psionic power.
+
+Abilities
+One significant advantage elder brain dragons held over other elder brains was their mobility. They were not constrained by the physiological limitations of having to remain within a brine pool, protected by their mind flayer servants and thralls.
+
+Combat
+These monstrosities attacked their foes as other dragons did, raking foes with their claws or tearing them to shreds with their strong jaws. They also however possessed powerful tentacles that could hold down creatures as large as frost giants. Using their psionic powers, they could shatter the concentration of any creature they held, nullifying any spells or abilities that may have been concentrating upon.
+
+They could not be frightened or charmed by magical means and were immune any form of psychic assaults.
+
+Breath Weapon
+Elder brain dragons possessed a unique and horrifying breath weapon. Just as other dragons could breath bursts of flame or jets of acid, elder brain dragons exhaled streams of brine filled with illithid tadpoles that easily transformed victims into new mind flayers in short time.
+
+Society
+Due to their mobility, elder brain dragons often served as generals to mind flayer armies.
+
+If an elder brain dragon was slain, it was possible to set free the spirit of the dragon whose body was taken over. These spirits were capable of brief empathetic connection before departing for the afterlife.
+
+Notable Elder Brain Dragons
+ Uresgol, the elder brain that took over the body of the amethyst dragon Amaranthraxine.
+
+Appendix
+Gallery
+
+Appearances
+Miniatures
+Icons of the Realms
+Organized Play & Licensed Adventures
+Dreams of the Red Wizards (Fall the Cold Night)
+
+Frozen Whispers
+
+References
+
+Connections
+
+---
+
+## Elsewhere chant
+
+Elsewhere chant was a spell used by clerics of Milil.
+
+Effects
+This spell was used to transport creatures or items over a great distance. The spell could transport up to two creatures, who had to be living. It could also transport a single creature and an item, or just two items. Transport via the spell was safe, similar to teleport without error. The desired destination could be any location the caster has visited or could see during casting, but it had to be located on the same plane the caster was currently on.
+
+The spell had a weight limit. It could not transport more than  in weight. If the caster tried to transport items that weighed more than this limit, the spell merely transported whatever was in the limit and left the remainder behind. If one of the creatures weighed more than the limit, the spell merely failed.
+
+A side effect of it was that it would not transport parasites, rodents, or any creature hiding among the objects to be transported.
+
+Components
+This spell required verbal and somatic components.
+
+History
+Elsewhere chant was one of the spells found in Wythyndle's Round Book, one of the few holy books of the Church of Milil.
+
+Appendix
+See Also
+ G'elsewhere chant
+
+References
+
+---
+
+## Elissa Tarixon
+
+Elissa Tarixon was the mysterious Queen who ruled the amazon isle of Ixinos off the coast of the Vilhon Reach in the late 14 century DR.
+
+History
+Elissa ruled her island of reclusive amazon warriors circa the . However, her total reign length was a mystery, like so many other things about Ixinos. The port city of Tazixor was the only known settlement under Queen Elissa's control, and during her rule, the island did not allow visitors and did not participate in diplomatic relations with any other nations of the Vilhon Reach.
+
+Appendix
+References
+
+---
+
+## Elvrado Chaserperi
+
+Elvarado Chaserperi was one of the potential heirs to the Chaserperi clan in the late mid-14 century DR.
+
+Activities
+Elvarado owned a number of Amnian vineyards; they were used for a splendid dry white vintage called Old Blue Stag. Some other sweet berry wines were also brewed out of his produce.
+
+Relationships
+Chancereene Chaserperi was considering him as a successor for Faereldan Chaserperi.
+
+Appendix
+References
+
+---
+
+## Eldoul
+
+Eldoul was an orc who inhabited the Ice Mountains during the mid–14 century DR.
+
+Relationships
+Eldoul's song, King Graul, led a tribe of orcs within the Ice Mountains.
+
+Appendix
+
+References
+
+---
+
+## Elminster's Safehold
+
+Elminster's Hideaway, or Elminster's Safehold (known by Elminster as simply Safehold) was a refuge or safehold of Elminster's, hidden close to the center of Coliar in Realmspace.
+
+Description
+From outside, the Hideaway resembled nothing so much as a giant sphere of shiny metal that reflected all light. It was about  in diameter.
+
+Interior
+Those who got through the sphere landed in the safehold itself, an extradimensional eight-sided room with a ceiling  up. There was a bed inside, and doors on every other wall. Shelves held thousands of books and potions, including Elminster's spellbooks and Lhaeo's finished works.
+
+Atmosphere
+As the dimension was somehow in contact with the metal sphere, it got very hot; Elminster had installed a nonmagical item that blew in cool air through a grate. The grate itself had half of its label missing, but the remaining half read "...aire".This appears to be strongly implied to be an air conditioner. No mention is made of the power source, nor the repair service; presumably, Elminster's learned how to repair air conditioners.
+
+Defenses
+Anyone casting detect magic would notice a message, definitely not in Elminster's handwriting, across the sphere, reading "Notify next of kin before trespassing".
+
+There were rumors of spectators and iron golems inside the safehold as of, but in-depth sources made no mention of such guardians in .
+
+Entry
+Most access was by Elminster through his spell, Elminster's evasion, but it was possible to enter as well by touching the surface of the sphere while wearing a magical ring whose only magical power was having "Elminster" written on the inside, and making not a sound.
+
+History
+Elminster created the sphere about 1000 years prior to, to better monitor the actions of Firebrand Flametongue, a red dragon who'd retired to Coliar. After 100 years, Elminster confirmed Firebrand Flametongue was indeed retiring, and repurposed the pocket universe into a dimensional intersection.
+
+However, more precise sages insisted the safehold was not created by Elminster, but by someone prior, and only given to him by Azuth.So Saith Ed Part 10. Gotta find the Candlekeep post.
+
+Per some sages, only Ao had been to this place.
+
+Gates
+The safehold held four gates. One of them was to the temple of Mystra in Evermeet, another to Elminster's Castle, and the last two led to Earth: one to Yellowstone National Park in 1869 AD, and one to Ed Greenwood's house in 1991 AD as of .
+
+Appendix
+Notes
+
+References
+
+---
+
+## Eldath's Patch
+
+Eldath's Patch was a vacant lot in Neverwinter as of .
+
+Description
+It was the last vacant lot in Neverwinter's Silverlade Street. There were blueleaf trees growing on it, and it was bordered on its north end by the walls of the Melaraunt family gardens. There was a marker on the lot showing it was consecrated to Eldath.
+
+History
+Eldath's Patch had a refuge added upon it during the reign of Magister Maldiglas Turntower at its north end, where the blueleaf trees grew thickest. By the, it was so popular with young lovers (and some nobility) that dogs had been banned from it, after some incidents.
+
+Appendix
+References
+
+---
+
+## Elven sewn gloves
+
+Elven sewn gloves were minor enchanted articles of clothing found in the Seldarine's Hand citadel on the Spine of the World.
+
+Description
+Like many of things crafted by the elves, these gloves were made using cloth and fur of the finest quality. They were hand-sewn by the inhabitants of the Seldarine's Hand and quite common during the citadel's heyday.
+
+Powers
+Elven sewn gloves possessed minor enchantments that granter the wearer protection against magical and mundane cold.
+
+History
+After completion of construction of Seldarine's Hand circa the, the inhabitants of the citadel lived in a close alliance with the dwarves of Dorn's Deep. The troops of the elven citadel were outfitted with the best clothing, armor, and weapons created by the crafters of both peoples. By the, the Seldarine's Hand had been ruined for centuries and came to be known as the Severed Hand. Several pairs of elven sewn gloves survived the ravages of time. By the, these gloves could be found in the town of Targos of Icewind Dale, namely, in the hands of Elytharra Dinnesmore, the wife of Speaker Ulbrec Dinnesmore.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale series (Icewind Dale • Icewind Dale II)
+
+References
+
+---
+
+## Elanalue Sharrith
+
+Elanalue Sharrith was a treespeaker priestess of Mielikki of the Border Forest in the Dalelands in the early 14 century DR. She was the last known bearer of the holy Mielikkian spellbook known as Yornar's Trail Companion.
+
+History
+In the, Elanalue was captured by drow and taken into slavery in the Underdark. The fate of the Companion was unknown—no one knew if Elanalue had managed to stash the book before the drow caught her, or if she lost it in the chase and the fight, or if the drow seized it as well.
+
+As of 1368 DR, at least six adventuring companies had gone in search of Elanalue Sharrith, the last being the Dwarves of Destiny in Eleint of the . But none had succeeded, or even returned. With the Companion lost, the church of Mielikki could do naught but keep "an eye out for it" and try to reclaim it they ever learned of it. In any case, this marked the second breaking of the 'Rightful Cycle' of ownership of the Companion.
+
+Appendix
+References
+
+---
+
+## Eldrin Whisperbark
+
+Eldrin Whisperbark was a young quarter-elf human farmer of the city of Loudwater in the Delimbiyr Vale in the late 14 century DR. He was also a Scion of the Green Regent.
+
+Home
+The Whisperbark family lived on a sizeable farm west of Loudwater and south of the Delimbiyr River. It faced onto the river and had several fields, pasturage, and an orchard. The farmhouse lay at the center close to some oak trees.
+
+History
+At the ceremony for the choosing of the Green Regent on Shieldmeet of the, Eldrin was among the volunteers and was accepted as a Scion, which he was quite happy about.Implied to be a Scion in 1371, Eldrin was most likely accepted in the 1368 ceremony. It is possible he served under Galaer Grasswave in the Night of the Blood Moon battle. He is apparently still a Scion after the 1372 ceremony, suggesting he was accepted again. However, it is unclear if Scions hold their titles for life or for only four years.
+
+In the, Eldrin was one of a band Scions who tried to trail the Half-Elven Renegades following one of their raids. However, the Renegades turned and ambushed them, and while the other Scions escaped, Eldrin was captured and held for ransom. His family paid the ransom and he was released.
+
+Personality
+Eldrin was rather charming. His mother was pressuring him to get married and settle down, so he would flirt with any attractive woman (human, elf, or half-elf) he met, but only if she was receptive. He was a faithful follower of Mielikki.
+
+Description
+He was quite handsome and fine-featured, with his eyes indicating his elvish heritage. His captivity by the Renegades left him with a scar down the outside of one arm and another across his belly. While a Scion of the Green Regent, Eldrin bore the holy symbol of Mielikki upon his brow, glowing emerald.
+
+Activities
+Eldrin did farm-work, wood-chopping, and chores during the day. During the evenings, he was a regular of the Merry Mer-She tavern, where he joked and drank with his friends.
+
+Appendix
+
+Notes
+
+Appearances
+Organized Play & Licensed Adventures
+Nurture and Nature
+
+References
+
+---
+
+## El Nahud
+
+Adyat al Hayat was a salesman in the town of Bralizzar who specialized in nuts and dates. They were known to be active in the mid-14 century DR. Their shop was the accessible from an alley on the east side of the bazaar.
+
+Appendix
+References
+
+---
+
+## Elandorr Waelvor
+
+Elandorr Waelvor was an inhabitant of Myth Drannor in the 3 century DR.
+
+Appearance
+During an afternoon after the hunt of Elminster Aumar, Elandorr Waelvor was seen wearing a black velvet jerkin trimmed with a white motif of thunderbolts, a magenta-lined purple cloak, and gleaming boots to his thigh. He wore many rings, and carried his sword of honor in a jeweled scabbard.
+
+Relationships
+He was a persistent suitor to Symrustar Auglamyr and a heir to house Waelvor.
+
+History
+During a revel, Elminster Aumar cast a spell that swapped the two of them out. Elminster was at the moment in the middle of a kiss with Symrustar Auglamyr, who had enspelled her kiss to ream his mind for anything of use to her magic. On arrival, Elandorr was given full access to her mind instead, and had her helpless at his mercy. Aware now of her plans to visit treacheries upon him, he visited upon her instead a punishment so brutal that he left her broken in both body and mind, though he planned for her death.
+
+Some time afterwards, he picked a fight with Ithrythra Mornmist and Alaglossa Tornglara, speaking briefly about what he did to Symrustar.
+
+Appendix
+Appearances
+Novels
+Elminster in Myth Drannor
+References
+
+---
+
+## Elvandaruil
+
+Elvandaruil was an ancient elven princess.
+
+Legacy
+In, her bracelets were kept in the Vault of Ages. She was at that time more than 3,000 years dead, after the failure of her flight spell over the Sea of Fallen Stars; these bracelets were all that was left of her, recovered after they washed up on the shore of Ambral Isle.
+
+Appendix
+Appearances
+Novels
+
+Elminster in Myth Drannor
+References
+
+---
+
+## Elaethan
+
+Elaethan was an elf wraith guarding the Sacred Vale in Cormanthyr in the 3 century DR.
+
+Description
+He was a wispy white shadow, trailing off into smoke below the waist.
+
+Personality
+Elaethan had grown rather aggressive about protecting the Vale, and showed the beginning of some sadistic tendencies.
+
+Abilities
+He could mind-read people. He was also largely unaffected by spells that destroyed undead, or even chain lightning.
+
+Activities
+He was a guardian of the Sacred Vale.
+
+Relationships
+One of his fellow guardians was named Norlorn.
+
+History
+In, Elaethan arrived at the scene after Elminster Aumar escaped Heldebran. He mind-read Heldebran as the mage threatened them; after his fellow Noldorn left Heldebran at the mercy of his own mage-killer, slaying him and then the mage-killer itself, he remarked that the mage should've suffered more.
+
+Appendix
+Appearances
+Novels
+Elminster in Myth Drannor
+References
+
+---
+
+## Eldratha
+
+Queen Eldratha of Larlotha was an elven queen, known to the elves of Cormanthor of the 3 century DR.
+
+Legacy
+A bust of hers was kept in the Vault of Ages in Cormanthor as of . The bust was arm-tall, and made of solid marble.
+
+Appendix
+Appearances
+Novels
+
+Elminster in Myth Drannor
+
+References
+
+---
+
+## Elfbone ring of Kiran-Hai
+
+The elfbone ring of Kiran-Hai was a magical ring of elven craftsmanship that likely originated from the city of Myth Lharast in the Lands of Intrigue.
+
+Description
+While it appeared to be carved from ivory, the ring as its name suggested was made from the bone of an elf. It was adorned with pointed geometric figures of ancient elven design that were considered ordinary by more contemporary elven craftspeople.
+
+History
+As of the, the ring remained in the possession of Orrick the Grey of Kuldahar.
+
+Notable Owners
+ Kiran-Hai, Circle Singer of Angharradh and Ward Mistress of Myth Lahl.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale
+References
+
+---
+
+## Elchul
+
+ElchulThis is mislabeled as Eichul on page 10 of The Shining South (1993). was a small farming village located in the nation of Halruaa during the 14 century DR.
+
+Geography
+Elchul was located on the plains in eastern Halruaa north of the River Maeru. The town lay near the halfway point between Lake Halruaa in the west and Lake Maeru in the east.
+
+Notable Locations
+The Astral Inn was located in Elchul.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Elcharn
+
+Elcharn was a minor noble from the Harvestshield Mountain region in the Sword Coast North. As of the late 15 century DR, he had become a wight and resided in the Heartcoil Deeps.
+
+Personality
+Elcharn was a foolish and prideful thrill-seeking braggart. He was known to be willing to do anything to win, and moreover, to do anything to avoid disappointing his beloved partner, Cielaro.While the exact relationship between Elcharn and Cielaro is not specified in Warriors of Waterdeep, it is strongly implied that they were romantic partners. Elcharn and Cielaro were known to cause small scandals in their noble circles because they preferred to hunt monsters than attend banquets.
+
+Abilities
+Elcharn was known as a skilled swordsman, and was famous for his distinctive flourishes. His attacks could be recognized by the damage he left behind on his enemies' armor.
+
+History
+Elcharn and Cielaro were enamored with the legends of Bellorath, a rebel who was driven from Chauntea's Citadel atop Harvestshield Mountain and disappeared into the Heartcoil Deeps. The two of them believed a theory that Bellorath had sought out fiendish power after being exiled, and they became obsessed with discovering what had happened to him. Thus, the two of them travelled to the Heartcoil Deeps, but were never seen again on the surface.
+
+The two of them explored much of the Deeps, even managing to get all the way into the territory of the reclusive stone giant clan who dwelt in its deepest depths. As they went, Elcharn sketched a map while Cielaro recorded their experiences in her journals. Eventually, they succeeded in their mission to find Bellorath, but discovered that they were correct about his mission for fiendish power: Bellorath had transformed into a minotaur, and clashed with the two nobles. After their last battle with him, Elcharn and Cielaro became separated.
+
+Elcharn refused to give up on finding Cierlaro, but when he did, he despaired upon discovering that she had been transformed into a vampire spawn. However, in his grief and pride, he refused to accept that he could not cure her, or failing that, at least find a way to still be with her.
+
+His fate remained a mystery until the late 15 century DR, when he was encountered by a group of adventurers exploring the Heartcoil Deeps in the service of Laeral Silverhand. The adventurers discovered that he had been separated from Cielaro and transformed into a wight, although he retained his sword skills. Upon slaying him, the adventurers discovered a pair of jagged scars on his neck, but were unable to determine what exactly had happened to him.
+
+Appendix
+Notes
+
+Appearances
+Video Games
+Warriors of Waterdeep
+
+References
+
+---
+
+## Elserryn Cluster
+
+The Elserryn Cluster was a zone of the Astral Plane riddled with color pools.
+
+Description
+The zone of the Elserryn Cluster in the Astral contained, within its silvery mists, the head of a dead god and numerous color pools, leading to almost every world in the multiverse.
+
+Geography
+As a location in the Astral, the only real features of the geography where innumerable color pools, and the head of a dead power, where Crosswinds Keep was built.
+
+Flora & Fauna
+Fazes were known to exist in the cluster.
+
+History
+At some point between  and, the head of a dead god in the cluster became the base for Crosswinds Keep.As a Red Wizard was involved in the creation of Crosswinds Keep, this narrows it down to the period between 922 DR and 1372 DR.
+
+Notable Locations
+Crosswinds Keep
+
+Appendix
+Notes
+
+References
+
+---
+
+## Elusive ring
+
+The elusive ring was a unique enchanted ring owned by Naomlen Girdaur, a dwarven rogue active around Waterdeep as of the late 15 century DR.
+
+Description
+The ring had a copper band set with a purple gemstone. It had a very simple design, which even Naomlen could admit despite how much she treasured it.
+
+Powers
+When the wearer of the elusive ring was attacked, it had a chance to grant them powers to evade their attackers, such as by removing ailments, restoring their mobility, or making them invisible.
+
+History
+Naomlen wore the ring on her quest to reclaim her family's masterworks after they and her family's reputation had been stripped away. She believed that the ring had been crafted by her great-grandmother even before the family had become famous, cementing it as an important memento.
+
+Appendix
+Appearances
+Video Games
+Warriors of Waterdeep
+References
+
+---
+
+## Elthure Vildenof
+
+Elthure Vildenof was a former aspiring Red Wizard and later member of the Stalwart Lions as of .
+
+Description
+Though much older, he appeared to be in his late fifties, with a gray beard to his midsection and spectacles. He measured 5'8" and weighed .
+
+Personality
+He felt the spectacles made him look distinguished.
+
+Abilities
+He was familiar with the construction of most categories of enchanted devices.
+
+Possessions
+Of note, Elthure owned a dusty rose ioun stone, a necklace of fireballs, and three rooms in the upper floor of Crosswinds Keep, where he kept a spartan bedroom, a magical laboratory, and a library. His only creature comfort or extravagance was an ivory-colored quilt with a subtle pattern of lighter starbursts.
+
+Activities
+Elthure mostly dedicated himself to magic, and he was available for consulting on others.
+
+Relationships
+He was a member of the Stalwart Lions.
+
+History
+Elthure had aspired to becoming a Red Wizard, but turned his back on the order and suffered a number of assassination attempts as a result. He continued to suffer these attempts until he joined the rest of the Stalwart Lions in the astral, at which point they ceased and he could resume his quest for knowledge. As of, he was still in Crosswinds Keep.
+
+Appendix
+References
+
+---
+
+## Elixir of luck
+
+Elixirs of luck were potions favored by the likes of rogues and assassins in combat. They could be found in Waterdeep as of the late 15 century DR.
+
+Powers
+An imbiber of an elixir of luck felt a boost to their confidence and was demonstrably more likely to land a lucky or fatal blow.
+
+Notable Owners
+ Naomlen Girdaur, a dwarf rogue and member of the Zhentarim who worked as an adventurer on behalf of Laeral Silverhand, the Open Lord of Waterdeep, during the late 15 century DR.
+
+Appendix
+Appearances
+Video Games
+Warriors of Waterdeep
+References
+
+---
+
+## Eldrisel Tylosar
+
+Eldrisel Tylosar was a priest of Shaundakul, the Rider of the Winds, during the mid-to-late 14 century DR.
+
+Activities
+He was one of only a handful of known priests of Shaundakul following the end of the Time of Troubles in the . Eldrisel preached in the small Sembian settlement of Huddagh.
+
+Appendix
+References
+
+---
+
+## Elestar
+
+Elestar was a musician and street performer inhabiting Waterdeep, the City of Splendors, during the mid-to-late 14 century DR.
+
+Activities
+Elestar played an accordian on the street and gave verbal commands for his pet bear, Hansel, to dance to the music. He was a skilled ranger, which certainly helped in training Hansel, but in reality Hansel was a werebear who fully understood Elestar.
+
+Appendix
+References
+
+---
+
+## Eltragar
+
+Eltragar was a mercenary in the late mid-14 century DR.
+
+Description
+He was dark-skinned.
+
+Abilities
+He was thought of as a warrior.
+
+Relationships
+Together with Baergrim and Mheriyam, Baergrim was part of the Blades.
+
+History
+In, Eltragar, Mhaeriyam, and Baergrim were escorting Mhulker in Undermountain. Mhulker was seeking a particular woman to eat her brain; he found her chained and gagged in an altar, but it turned out to be a trap, which Baergrim spotted by noticing that the woman's gag covered her nose too. After Halaster Blackcloak's trap slew Mhulker and the ancient wizard revealed himself, the mercenaries fled.
+
+Appendix
+Appearances
+Novels
+Elminster in Hell
+References
+
+---
+
+## Elsambul's Lane
+
+Elsambul's Lane was a back alley located in Waterdeep, City of Splendors, during the 14 century DR.
+
+Location
+Elsambul's Lane was located in the north section of Waterdeep's Castle Ward. The alley ran north to south in between the Street of the Sword to the east and Warrior's Way to the west. It was intersected by Lamp Street in its northern half and by Cymbril's Walk in its southern half.
+
+Notable Locations
+ Sorynth's Silverware
+
+Appendix
+References
+
+---
+
+## Elgorel
+
+Elgorel was a bartender inhabiting Waterdeep, City of Splendors, during the mid-to-late 14 century DR.
+
+Activities
+Elgorel tended bar at the Swords' Rest tavern on the High Road in Waterdeep's Southern Ward.
+
+Relationships
+He was an associate of the mysterios illusionist Gaundos, and could be used to contact the spellcaster for anyone who mentioned his name.
+
+Appendix
+References
+
+---
+
+## Eldgull
+
+Eldgull was a sailor aboard the Wicked Wench fishing and cargo vessel that sailed Maer Dualdon and the Shaengarne River in the early 14 century DR.
+
+Description
+Eldgull was a human albino man and a hard worker who felt at home aboard a ship, more than he ever did on land.
+
+History
+In the, the Wicked Wench was among several ships that carried reinforcements of mercenaries and adventurers from the city of Luskan to Targos, to aid the town's defense against the Legion of the Chimera. Eldgull was working aboard the ship at the time and befriended the group of adventurers who would later become the heroes of the Ten-Towns of Icewind Dale.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale II
+References
+
+---
+
+## Elixir of the Void
+
+The Elixir of the Void was a poisonous concoction that was used by the Church of Shar in their initiation rituals.
+
+Description
+Despite its grand name, the elixir was actually very mundane. It was a mixture of poison and strong alcohol such as wine, intended to mask the poison's bitter taste.
+
+The Church of Shar would use the Elixir to ensure the outcome of a prospective Sharran's initiation ritual. After being welcomed into the temple, the initiate was presented with the elixir to drink, and forced to consume if they did not do so willingly. The initiation would then proceed to test their willingness to serve the church, with the poisoned individual in an altered state of mind as they slowly succumbed. Once the initiate had performed to the presiding priest's satisfaction (such as by ritually murdering a captured loved one or other innocent), the priest would neutralize the poison, saving their life and giving them their first direct experience with Shar's divine power.
+
+If the initiate failed to impress or lost their nerve, then there was no risk of them escaping and betraying the church, as they would shortly die anyway of what would seem to be an alcohol-related illness.
+
+Effects
+In the short term, ingesting the mixture of poison and strong alcohol caused disorientation and general confusion, making the victim more suggestible and easier to control. In the long term, the Elixir would have lethal effects for the initiate if it were not purged or neutralized.
+
+History
+Keph Thingoleir was forced to drink the Elixir when he joined the temple of Shar in Yhaunn in 1373 DR.
+
+Appendix
+Appearances
+Novels
+Mistress of the Night
+
+References
+
+---
+
+## Elaesse Loridiel
+
+Elaesse Loridiel was an elven traveler in the mid-to-late 14 century DR who briefly stayed in Thentia, with disastrous results.
+
+Relationships
+Although she was initially very fond of the bard Mendryll Belarod, their relationship quickly turned sour after he helped cause her unicorn companion to abandon her.
+
+History
+In the, she was traveling the Moonsea and stayed a time in Thentia. She stabled her faithful unicorn steed at Angrym's Livery, and while at The Inlet, spent a night with fellow traveler Mendryll Belarod. The following morning she was distraught to discover that her unicorn companion had deserted her and disappeared.
+
+Appendix
+References
+
+---
+
+## Elairdrin Mellwith
+
+Elairdrin Mellwith was a womanizing mage who resided in the Star Mounts of northwest Faerûn long before the late 14 century DR.
+
+History
+Elairdrin's claim to fame was the creation of the first amulet of metaspell influence, which he called the Amplifier. His motivations were far from scholarly as the scoundrel used the Amplifier to aid his womanizing habits. Sometime later, the original Amplifier was taken from Elairdrin Mellwith by a wizard who planned to use the amulet to harness destructive magics. How the item was claimed remained unclear as historic accounts of that event varied wildly.
+
+Appendix
+Appearances
+Video Games
+
+Baldur's Gate • Baldur's Gate II: Shadows of Amn • Baldur's Gate: The Black Pits
+
+References
+
+---
+
+## Elyme
+
+Elyme was one of the three dryads enslaved by Jon Irenicus and trapped in his dungeon circa 1369 DR.
+
+Description
+Ulene had fair skin and golden hair.
+
+History
+Ulene, Elyme, and Cania were captured by the cruel archmage Jon Irenicus sometime before the . He trapped the dryads by transporting their oak trees into his dungeon underneath the city of Athkatla in Amn. Elyme and her fellow slaves were used as concubines and playthings. When Abdel Adrian escaped his capture, he encountered the three dryads begins for his aid. The only way for Ulene, Elyme, and Cania to escape was through their trees. They asked the Bhaalspawn to bring acorns from their trees back to the Fairy Queen of the Windspear Hills, who would be able to drop the oaks, allowing the dryads to step through their trees to freedom and allowing the captured trees in the dungeon to wilt away and die. It was unrecorded if Elyme was ever granted her freedom.
+Appendix
+Appearances
+Video Games
+Baldur's Gate II: Shadows of Amn
+References
+
+External links
+
+---
+
+## Elvin Elminster
+
+Elvin Elminster (no relation) was co-owner alongside Dangus Barrowfold of Short and Tall Supplies, an equipment supply shop in Halfhap in the mid-to-late 14 century DR. He had no relation to the other Elminster.
+
+Description
+Elvin was a gangly 7-foot tall human man. He always said "no relation" after saying his name.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Eldelorr
+
+Eldelorr was a sparsely-populated and almost ruined fishing hamlet on Cape Raeth to the southwest of the Cloakwood.
+
+Description
+Eldelorr stood on Cloak Bay's north-westernmost top where the Cloakwood reached the waters of the bay. By the 14 century DR, Eldelorr was a collection of single-store cottages reinforced with timber wood and scavenged marine wrecks. Those buildings that remained untouched by ruination and decay were the most defensible homes in Eldelorr.
+
+Inhabitants of Eldelorr survived through salvaging and fishing in its natural harbor, netting for crabs, silverfins, and laethe, a species of eel-like creatures.
+
+History
+By the late 14 century DR, Eldelorr, as well as other hamlets of Cape Raeth, were almost completely deserted, inhabited by very few hardy folks who lived on fishing and ship-salvage. At some point before the 14 century DR, most inhabitants of the coastal hamlets fled from pirate raids and Cloakwood monster attacks.
+
+Appendix
+References
+
+---
+
+## Elixir of truth
+
+An elixir of truth—also known as a truth potion or potion of truth—was a magical or mundane potion that would cause the drinker to tell the truth.
+
+Description
+Magical versions of these brews possessed a faint enchantment dweomer to those who could see such things. They could sell for around 500 gold pieces in markets that sold magical items.
+
+Powers
+There were several versions and variations of truth-telling potions in the Realms. Some magical versions acted similar to a ring of truth causing the voice of the imbiber to rise to high frequencies if telling a lie. This effect would last for between one and four hours but could not detect magical means of deception. Other variations were limited in effects to shorter time periods, such as ten minutes, and could be resisted somewhat by those of strong will.
+
+Nonmagical versions sent the drinker into a stupor and slowed them for 20 minutes to an hour, but could only force the drinker to answer one to four questions. Such mundane potions expired in potency after about a month and only worked on humans, demihumans, and humanoids. Individuals with a high tolerance against poisons could sometimes resist the effects of the brew.
+
+Creation
+Some magical versions required that the brewer be able to cast the zone of truth spell. Nonmagical versions required five days to brew.
+
+Reputation
+Mystics in the Realms were known to create mundane potions such as truth potions. Master Harpers were able to craft magical versions.
+
+Appendix
+See Also
+ Candle of truth
+ Discern lies
+ Ring of truth
+ Ring of truth telling
+ Truth candle
+
+References
+
+---
+
+## Eldryn Lammaraster
+
+Eldryn Lammaraster, a Zulkir of Abjuration sometime circa late 1300 DR.
+
+Description
+Eldryn was an old human Thayan man. He was bitter and paranoid. He was afraid of being back-stabbed by his many wanna-be successors. He was said to be more prepared for an attack and betrayal than a beholder.
+
+Possessions
+The Zulkir of Abjuration layered his robes with many woven defensive magics. Eldryn's specialization were automatically-triggered counterspells, many of which were unique spells developed by the bitter old man, and their secret formulae were taken to the grave with Eldryn's death.
+
+History
+Eldryn Lammaraster took the position of the Zullkir of Abjuration sometime before the late . His name was among several zulkir names that became widely known after being named and described in the book called Twelve Winters Under the Lash, penned by an anonymous slave and smuggled out of Thay sometime in late 1300 DR.
+
+Appendix
+References
+
+---
+
+## Elizabeth Soot
+
+Elizabeth M. Soot was an author who dedicated their life to understanding evils of the world, and writing about how they could be overcome.
+
+{{Quote|It has been too long, dear reader, since we last sat together. I wish it was because I'd been travelling far and wide, working to bring you more tips and tricks on how to triumph over evil. Alas, that was not the case.|Excerpt from Elizabeth's work, A Brush with Evil.}}
+
+History
+In their career, Elizabeth wrote a treatise on how to best outwit and overcome the deceitful nature of hags. Unfortunately, those recommendations were not enough, as Elizabeth was actually compelled into service with a green hag, and taken captive as her servant for over two years.
+
+Drawing from that experience, Elizabeth wrote A Brush with Evil'', which offered new advice on how to escape the machinations of evil hags: run away and pray the hag does not chase you down.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elven cat
+
+An elven cat or elfin cat was a feline from a race bred by elves, infused with magic through generations of close contact with their sorcery.
+
+Description
+Most elven cats had dark-striped fur of gray brown. They were sometimes mistaken for lynxes or wild cats.
+
+Behavior
+Elven cats were very intelligent, with many of them conversant in rudimentary elven language alongside their own. Some had instead attached themselves to families of halflings or gnomes and spoke these languages instead, or even the tongue of brownies or other sylvan languages.
+
+They also enjoyed swimming, unlike many other small cats.
+
+Abilities
+An elven cat could leap up to, and it always acted as if under pass without trace. They possessed a number of spells, including a limited form of detect thoughts, and enlarge or trip once daily. They could also cast reduce or tree shape twice daily. These cats were far more stealthy than normal cats.
+
+Combat
+Elven cats employed their spells in combat, and were far more effective about their claws and teeth than regular cats.
+
+Ecology
+Elven cats wandered the encircling wood of Myth Drannor, between Shadowdale and Mistledale. They were companions to some elves, and formed part of the composition of some small armies.
+
+Whiskers from elven cats were used as the material component of the cat's grace spell, then uncommon, in . They could be summoned by the spell summon cats and by find minion.
+
+History
+Such cats descended from wild cats, changed by close contact with elven magic over generations. It was suspected some of that magic was intentional; the Mythal at Myth Glaurach, at least, had once held the power to turn some litters of cats into elven cats.
+
+Elven cats served some members of the Seldarine pantheon, including Corellon Larethian, Erevan Ilesere, Hanali Celanil, Rilifane Ratathil, and Solonor Thelondira. Sharess could show her pleasure through manifestations of elven cats. The Cat Lord was followed by some cats in the Beastlands.
+
+Notable Elven Cats
+General Briandon Lamachia Obespieri of Raven's Bluff owned an elven cat.
+
+Appendix
+See Also
+Cath shee
+Appearances
+
+References
+
+---
+
+## Eliette
+
+Eliette was a high elven woman who later became a phase spider matriarch that dwelled within the Whispering Depths caverns on the Sword Coast during the late 15 century DR.
+
+Description
+Nothing was known about the elven form of Eliette. After her transcension she became a huge blue spider with red pattern on her back.
+
+Abilities
+
+After her transformation, the matriarch learned to channel inner wrath. When she became severely injured, she would attack with greater force but became even more vulnerable to attacks from others.
+
+Possessions
+At some point in her existence, the matriarch swallowed some humanoid creature wearing a set of poisoner's robes.
+
+Activities
+While in her humanoid form, the matriarch kept a small study and laboratory nestled within a cave in the upper reaches of the Whispering Depths.
+
+History
+According to Eliette's Bloody Journal, her past on the surface of Faerûn was filled with regrets. At some point, she fell into the hands of a minor drow house. Throughout her captivity, Eliette devoted herself to the spider goddess, Lolth, witnessing visions of the house's demise and the death of their matron mother. Patiently awaiting the prophesied day, Eliette carefully planned her escape and managed to break free, reinforcing her allegiance to the goddess.
+
+While Eliette was dwelling in the caves of Whispering Depths, she heard whispers from the darkness, which she interpreted as speech from Lolth herself. She believed this was her calling to undergo a transformation. Some time later, she received a pair of spiderstep boots, a gift from the spiders within the surrounding caves.
+
+The Tattered Journal said, that some time later, she found the dead body of a drow arachnomancer. Being of "organ and bone" Eliette dreamed of taking a form more appeasing to her goddess. She believed that the gifts from Lolth were the signs that the time of her transformation was at hand.
+
+Within the pages of her Web-Covered Journal and Burnt Journal, she conveyed her eagerness about the chance to deepen her connection with the goddess. She decided to go through the ritual called Transcendence. In her cave study Eliette researched the ways to become a phase spider matriarch and kept most of her journals written in some manner of code, with notations added in common. She tried using some spells, but they were not enough. She had a Ritual Diagram describing the process of transcension.
+
+During or before the, the she made her final transition, taking on the form of the massive phase spider. Over the next while, it appeared as if she began to produce some manner of webbing from her body. She became capable of laying and hatching large clutches of eggs.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elbruin Hammertree
+
+Elbruin Hammertree was an explorer from Baldur's Gate on the Sword Coast in the late 13 century DR.
+
+History
+In the late 1280s DR, Elbruin led an expedition into the Earthspur Mountains in the Vast in order to look for a way around the Glacier of the White Worm. There, they encountered and destroyed a large insectoid creature that walked upright and was armed with a spear, which they identified as an "ice daemon". The event contributed to legends of the glacier being kept cold by fell magic.
+
+Appendix
+References
+
+---
+
+## Elaph's Tower
+
+Elaph's Tower was a tower located in Suldolphor in far eastern Calimshan near the Arnaden.
+
+Location
+The tower was located along the perimeter wall in northeast Suldolphor north of the Mists Gate.
+
+Description
+With its own granary, fortified walls, smithy, dungeon, and stables, Elaph's Tower was a fortress in its own right.
+
+Inhabitants
+Elaph's Tower served as a barracks for Suldolphor's elite Flame Guard.
+
+Appendix
+References
+
+---
+
+## Elurthron Belsurd
+
+Most High Mornmaster Elurthron Belsurd was a high priest of Lathander inhabiting Suldolphor in the far eastern reaches of Calimshan in south Faerûn during the mid-to-late 14 century DR.
+
+Description
+Like all priests of Lathander in Suldolphor, Elurthron dressed in fine rose-colored tailored clothing.
+
+Activities
+Elurthron was the ranking priest within the Rose-Crowned Tower—a temple devoted to the Morninglord located in the northeast section of the city.
+
+Appendix
+References
+
+---
+
+## Elabralal Street
+
+Elabralal Street was a road found within the city of Suldolphor in far eastern Calimshan.
+
+Location
+Elabralal Street ran through the central section of Suldolphor near the harbor.
+
+Notable Locations
+An underground temple to Beshaba called the Deep House of Doom was located beneath Elabralal Street.
+
+Appendix
+References
+
+---
+
+## Elmerth Willowit
+
+Elmerth Willowit was a half-elven thief assistant of Mortimer Mittlemer, an illusionist con-artist from Ravens Bluff, the Living City in the mid-14 century DR.
+
+Relationships
+Elmerth admired Mortimer Mittlemer's intelligence and strove to become just as sharp one day. He trusted Mortimer and believed when the spouses told him all large pieces of jade were the best loot the group collected and smaller games being the only petty payment Mittlemers took. Despite being a thief, Elmerth never backstabbed his victims, believing that attacking someone from behind was wrong. However, he had no reservations about attacking individuals from the front, even if Elmerth was being invisible at the time.
+
+Possessions
+The thief wore an enchanted +1 leather armor and was armed with a magical +2 dagger. He carried dust of disappearance, a small pack of candy, a silver necklace, as well as his share of the loot – jade and quartz chunks.
+
+History
+Elmerth began his career as a member of Ravens Bluff's thieves' guild – Four Ravens. His membership was cut abruptly when he attempted to pickpocket valuables from a man named Ren, who turned out to be one of the most prolific thieves of Raves Bluff. Elmerth fled the city in shame and soon after met Marilyn and Mortimer Mittlemer, in fact, by falling for one of their scams. He quickly joined the spouses in their illicit activities after they found out of Elmerth's thieving skills.
+
+During a spring or summer of the mid-14 century DR, Elmerth joined Mittlemers on a scam aimed at traveling adventurers. Mortimer trained seven canaries with his magical ring and staged a scorched patch of grass to convince travelers he was a platinum dragon. Then he would approach travelers and ask them to support some faraway country's strife and ask for donations of gold and gems to pay for the goodly nation's defenses against evil. As the adventurers were distracted, Marilyn and Elmerth snuck to the victims and pickpocketed any remaining valuables from them. If Marilyn failed to lift the loot, she signaled her husband with a mirror, slipping away with the use of her cloak of elvenkind or a potion of flying.
+
+During a spring or summer of the mid-14 century DR, a group of adventurers from Ravens Bluff, the Living City, came across the charlatan while traveling the forest. The result and successes of the interaction remained unrecorded. However, Mortimer was ready to use magic to scare adventurers into donating or fleeing using dust of disappearance. Elmerth used the same magical substance to sneak up on the victims of the scams. During that time, Mortimer Mittlemer and his wife used swindled treasure to invest in a certain lending institution and a popular tavern in Ravens Bluff.
+
+The half-elf hoped to remain with the spouses for several more months until he got more confident to embark on solo scams and thievery.
+Appendix
+Appearances
+
+References
+
+---
+
+## Elemental's Ruin
+
+Elemental's Ruin was a type of enchanted adamantine rapier found in Rashemen in the late 14 century DR.
+
+Powers
+Elemental's Ruin was an appropriate name for this rapier that could withstand and bypass elemental creatures' physical invulnerabilities. When wielded against elementals, this weapon damaged their core essence, allowing the wielder to perform surprise attacks and deal devastating damage as if the elementals were beings of flesh and blood. When wielded against non-elementals, this rapier acted as an enchanted +3 keen weapon, but when wielded against elementals, it became a devastating weapon with a +5 enchantment.
+
+History
+One Elemental's Ruin rapier was stored within a burial burrow in Rashemen, north of the city of Mulsantir, where the great spirit Okku rested until the . It was believed that the elemental lords, who hated each other, were united in their common disdain for these weapons and sought to destroy every single Elemental's Ruin.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elvauna Larethra
+
+Elvauna Larethra was the matriarch of Milil who represented the Lord of Song throughout the late 14 and nearly all the 15 centuries DR. She served the Mililan faithful as high priestess of the Arbalest's House temple in Athkatla.
+
+Description
+She had the appearance of an alluring, middle-aged woman with a slim build. She had lean features and—during her mortal life―blue eyes that belied a sense of melancholy. Following her ascension as Milil's matriarch, Elvauna stood more tall, and her eyes shone with a radiance of pure joy.
+
+Personality
+Elvauna was considered an inspirational and kindhearted benefactor by her fellow faithful of Milil.
+
+Activities
+As matriarch, Elvauna focused her time on bolstering the morale of anyone who heard the music of the sorlyn. She ensured those petitioners had their spirits lifted and hearts comforted by Milil's eternal melody. She took personal interest in the affairs of the Lord's clergy and directly intervened in their troubles whenever possible.
+
+According the matriarch herself, Milil revealed to her over time, clues that hinted at a grand undertaking that would call upon all sorlyn of the Realms.
+
+History
+In early autumn of the, the previous Patriarch ascended to "join Milil's choir", and his body rose from the ground and faded into nothingness. That night, all of the Realms' sorlyn of appropriate influence, including all songmasters, shared a dream of Milil playing his harp while seated atop a cloud illuminated by moonlight.
+
+In a rush of exalted singing and with a crack of thunder, Milil himself appeared before then-Prioress Elvauna, and kissed her in a full embrace. He imbued within her a light from within his own divinity, and named her Matriarch of his entire church. In that moment she became the mortal leader of the Mililan faithful.
+
+Matriarch Elvauna gathered her fellow sorlyn and made a brief visit to Waterdeep, before continuing south via portal to Arbalest's House in Athkatla.
+
+Appendix
+References
+
+---
+
+## Elephon Stoneshoulder
+
+Elephon Stoneshoulder was a breeder of horses in the village of Maskyr's Eye in the Vast in the mid–14 century DR.
+
+Description
+He was tall.
+
+Personality
+He was laconic of speech, but shrewd in business.
+
+Home
+He dwelled at Northreach Farm, which of course lay north of the village.
+
+Relations
+He was related to the Stoneshoulders, a noble family of Procampur.
+
+Activities
+One of the most well-respected horse breeders of Maskyr's Eye, he produced the popular blackhair breed of equine.
+
+Appendix
+References
+
+---
+
+## Ellyka
+
+Ellyka was a tiefling woman who lived on the Sword Coast during the late 15 century DR.
+
+Description
+She had light pink skin, white hair, and two black curved horns that extended upwards.
+
+Personality
+She described herself as just "another fool" just trying to survive in the world.
+
+History
+In the, Ellyka encountered a group of githyanki led by Kith'rak Voss and his red dragon steed, facing off against a contingent of Flaming Fist soldiers at a canyon crossing. She made sure to stay clear away from the group and not draw any unwanted attention to herself.
+
+The body of Ellyka could later be found in the dungeons of Crêche Y'llek, having been interrogated by the githyanki whilst searching for the Blood of Lathander.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Eldarin
+
+Eldarin was a male human slaver who worked with Suna Seni in the City of Coin, Athkatla in the mid-to-late 14 century DR.
+
+Description
+Eldarin was a fighter with pale skin and light blonde hair.
+
+Possessions
+He wore a set of enchanted +1 plate mail and used a composite longbow in combat along with magic +1 arrows. An expensive but non-magical bloodstone amulet hung around Eldarin's neck.
+
+History
+In the, Eldarin and Suna Seni worked with a cabal of slavers who operated out of slums in Athkatla. When Bhaalspawn Abdel Adrian interrupted the slaving operations, Eldarin and Suna Seni began hunting the adventurer  and his companions across the City of Coin. Both were believed dead after an unsuccessful attempt to kill their mark.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Eldritch cannon
+
+Eldritch cannons were a unique magical firearm utilized by artillerists.
+
+Creation
+Novice artillerists utilized the tools of woodcarvers and smiths to craft spectacular and volatile variants of eldritch cannon.
+
+Description
+Functioning as a type of magical ordnance, these were technological conduits of arcane energy that more–or–less resembled oversized firearms. They could deliver destruction in a variety of different ways. These magic-infused bombards varied in size and form, ranging from hand-held devices the size of a pistol to cannons the height of a goblin that had to rest on fabricated legs. In function, eldritch cannons could be made to spout a cone of flame, discharge bolts of force energy, or a blast of rejuvenating positive energy.
+
+These cannons were highly customizable and could be hand-held in size, or mounted upon stands for additional stability. Types of eldritch cannons included:
+ Flamethrower, which projected jets of flame outwards up to .
+ Force ballista, which shot out bolts of pure force energy to to a range of .
+ Protector, which released a pulse of positive energy that bolstered the life force of allies within a  radius.
+
+As they continued throughout their careers, artillerists mastered the art of warfare utilizing their arcane cannons. They developed techniques to make their cannons more destructive, implemented self-destruction contingencies, and created fortified defenses of shimmering magical energy. Master artillerists were so adept at their craft that they could crew and maintain two arcane cannons at once.
+
+Appendix
+Appearances
+Licensed Adventures & Organized Play
+Tears Among the Stars
+
+External Links
+
+References
+
+---
+
+## Elence Fielding
+
+Elence Fielding was a merchant of the village of Imnesvale in the Umar Hills in the late 14 century DR.
+
+Description
+Elence was an elf who wore wizard's robes. She had a fair skin and brown hair.
+
+History
+In the, the village of Imnesvale faced a slew of disappearances, and locals did not hesitate to blame the legendary Umar Witch. Elence sold her goods, including mundane armor, weapons, some jewelry, and an occasional potion of fire resistance. However, her business suffered from strife, and the supplier mercantile company hadn't been bringing goods in. Unlike the villagers who blamed the Umar Witch and some fellow merchants who blamed nearby ogres, Elence believed that the reason behind disappearance was simple – wolves.
+
+Appendix
+Appearances
+Video Games
+Baldur's Gate II: Shadows of Amn
+
+References
+
+External Links
+
+---
+
+## Ellandra Tolbert
+
+Lady Doctor Ellandra Tolbert was a noblewoman and a famous necromancer-anatomist from the city of Waterdeep in the 14 century DR.
+
+Description
+Ellandra was a paper-pale woman of short stature—only reaching  in height. Her thin hair was yellow, eyes hazel in color and framed by long yellow eyelashes. The necromancer's hands were thin and delicate, ending in queerly-long fingernails that she often clacked on surfaces when nervous or impatient.
+
+She was a beautiful yet insecure person. Ellandra wore long-sleeved Calishite wizardly robes that covered most of her skin. Ellandra always carried a black leather shoulder bag in which she carried her medical tools.
+
+Personality
+As the only heir to the Tolbert family's wealth, Ellandra behaved as a true aristocrat: supercilious and demanding. Ellandra expected everyone to cater to her every wish because of her wealth. However, she was lonely and deeply saddened by the tragedies of her life. She brought memories of her husband and father up every opportunity and reveled in the misery. Ellandra also loved compliments and flattery.
+
+Despite all her personality traits, she was neither evil nor malicious. The many tragedies simply colored her life with sadness. She was generous with her allies and those she was attempting to befriend, and she was known to show interest in the patronage of adventurers and touring of novice mages, especially those who reminded Ellandra of her husband.
+
+Abilities
+Ellandra Tolbert was a highly skilled surgeon and doctor. She performed surgeries on the living to gain allies and respect, not because she cared for healing and medicine. Ellandra Tolbert was extremely knowledgeable in all forms of medicine, herbalism, and anatomy, trained in etiquette, heraldry, and knew elvish and dwarvish languages. She was a talented spellcaster and  possessed knowledge of spirit lore and poisons.
+
+At all times, Ellandra had the contingency spell active that activated a fire shield is she suffered any type of physical attack. Her spellbook contained a wealth of spells, not exclusively of the necromancy school of magic. Some of the more exotic spells known to the woman were living link, delay death, false face, iron mind, wizard sight, brainkill, empathic wound transfer, summon spirit, bone growth, graft flesh, throbbing bones, and transmute steel to bone, some of which were of her own invention.
+
+Possessions
+The woman was an accomplished necromancer who wore bracers of defense, a greater bone ring, a pearl of power set in a platinum necklace, and an amulet of life protection to protect herself. Among offensive items, Ellandra carried a wand of paralyzation, and an enchanted +2 hornblade dagger.
+
+Ellandra usually worse several types of expensive jewelry, including her diamond wedding ring, golden necklace, and for jade bracelets. Within her black shoulder bag, one could find a variety of expensive medicinal surgery tools like knives, scalpels, and bandages. Other items in the bag were four vials of soultravel, three bottles of mindshadow, a potion of extra-healing, three jars of Kheoghtom's ointment, and two doses of dust of sneezing and choking.
+
+Relationships
+Ellandra's closest friend and confidant was Mistress Yola – Pain-Mistress Yolanda Shamat, who influenced the necromancer enough to add a cruel streak to Ellandra's personality. Despite Yola's religious zealotry, Ellandra considered her to be an ally.
+
+History
+Ellandra Tolbert was born to a famous anatomist father from a noble House Tolbert of Neverwinter, and from her early years, she assisted Lord Tolbert's work—anatomical dissections. The family suffered a great loss when Ellandra was just thirteen winters old. The family estate was torched and burned down, leaving Ellandra the only survivor. A disgruntled serf perpetrated the arson that left the young girl's face badly scarred. The loss of the family estate did not affect Ellandra's commitment to her father's work, and with time, she joined the Anatomical Academy on Sahu, the Homeland of the Necromancer Kings, and later, to Waterdeep. Her initial focus was curing or hiding the facial disfigurements – this was the genesis of the false face spell. Further research led Ellandra to discover the graft flesh magic that allowed her to wear flesh from cadavers as her own.
+
+Well into her adulthood, Ellandra's appearance was hidden underneath grafted flesh that she masterfully blended with her own skin via the mastery in the Art. Ellandra weaved a series of spells that maintained her appearance daily, ensuring that a simple application of dispel magic would leave her magically grafted face unaffected.
+
+Some five years before the law 14 century DR, Ellandra Tolbert's husband – famed sea captain and privateer named Gerard Anterra, perished in a naval battle by the Nelanther Isles. With no body left to be returned to the widow, Ellandra fell into a deep depression and eventually fully committed her life to the Anatomical Academy. In her thirties, she obsessively was working for the academy, all while secretly sought for a way to return Gerard Anterra back to her.
+
+Appendix
+References
+
+FR:Ellandra Tolbert
+
+---
+
+## Elthaulin
+
+Elthaulin was a Zhentarim priest of Bane during the mid-14 century DR.
+
+Personality
+Elthaulin was ambitious, fanatic, self-important, and manipulative.
+
+Abilities
+One of his spells allowed his voice to reverberate loudly.
+
+Activities
+As an upperpriest, Elthaulin carried out a number of rites for the Temple of Bane.
+
+Relationships
+He had a rivalry with Fzoul Chembryl, whom he absolutely hated, seeking to kill and replace him.
+
+History
+Elthaulin was leading a rite at the Dark Shrine in Zhentil Keep before Shandril's arrival, which was cut short by Fzoul Chembryl; Elthaulin resented this immensely. He didn't notice, but his rite resulted in a genuine sign from Bane. Elthaulin was later interrupted in yet another ritual by Fzoul Chembryl, who needed all priests to prepare for Shandril's coming, as she was out for his blood.
+
+While Shandril was on her way to fighting Fzoul Chembryl, Elthaulin began to gather the priests loyal to him through Neaveil and Oprion Blackstone, commanding they find all priests more loyal to him than to Fzoul.
+
+Elthaulin tried to lead priests into battle against Shandril after she slew Fzoul; she ignored his forces and focused her efforts on him first, killing him instantly.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elembar
+
+Elembar was a large human kingdom in northwest Faerûn that existed from the 2 to 6 centuries DR.
+
+Geography
+Elembar lay across the lower Delimbiyr Vale between the Delimbiyr River, Ardeep Forest, and Forlorn Hills, and reached into the Dessarin Valley almost as far as future Womford. The capital city, Delimbiyran, sat halfway between the Ardeep Forest and the later site of Daggerford.
+
+History
+The kingdom of Elembar was founded in the  by Illuskan settlers moving up the Vale from Tavaray. Other contemporary human realms in the Sword Coast North included Eigersstor founded in 87 DR, Steeping Falls founded in 133 DR, Uthtower also founded in 146 DR, Athalantar founded in, and Yarlith founded in . Over the following century these realms did well for themselves, as Elembar, Athalantar, Yarlith, and Uthtower settled the lands along the Dessarin Valley all the way to the Crags with fortified frontier holds, calling it the Mlembryn lands. Elembar became known as the height of cultured living and prosperity, and in the, the local sage Aumtevel Dlarryn published her history of magic titled The Trail of Wonder. It was one of the few settlements in the Savage North that could draw in imported luxuries such as silks from Calimshan.
+
+Yet the Illuskan realms of the North suffered a period of reversals over the next few centuries that would only halt with Laeral Silverhand's establishment of Stornanter in 806 DR and the rebuilding of Illusk in 812 DR. The largest city of the Vale, Tavaray, was abandoned in the  when it suddenly sank into the Lizard Marsh, and Athalantar was destroyed by orcs in 342 DR. Steeping Falls was abandoned by its own people in  as evil monstrosities and undead made Morlin Castle their home. As the realms waned and collapsed, Tethyrian humans and halflings from the Shoon Imperium, Tethyr and Amn migrated north, joining with or absorbing the local Illuskans.
+
+Elembar itself fell in the  at the hands of an orc horde that ravaged its northern and central regions. Though the invaders were destroyed at the House of Stone and the capital city Delimbiyran survived intact, the realm was shattered. Javilarhh Snowsword I reformed it as the kingdom of Delimbiyran and became its first king, leading it into a period of expansion and security as part of Phalorm.
+
+By the 14 century DR, the name "Elembar" was still used to refer to the northern regions of the realm between the Ardeep Forest and Forlorn Hills, roughly synonymous with the former Halangorn Forest. The Moon Tower of Elembar was destroyed by the invasion of 511 DR, but a ghostly remnant of it remained on the eastern edge of the Forlorn Hills, with it trapped inside the Border Ethereal.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elf vampire
+
+Elven vampirism was a strain of vampirism originating from the Domains of Dread that only elves and half-elves were susceptible to contracting. By the 14 century DR, this strain of vampirism had some presence on the Prime Material world of Toril.As the concept of demihuman strains of vampirism were created for and kept unique to the Ravenloft setting, it stands to reason that elven vampirism did not originate on Toril.
+
+Description
+All elven vampires exhibited twisted and scarred faces, making it difficult for them to blend-in with mortal elves and often causing temporary state of horrified shock for those that gazed upon it. Because of this they typically dressed in dark robes and other forms of garment because to hide their faces.
+
+Personality
+Due to their unique afflictions, elven vampires typically grew to harbor hatred towards all beauty and vibrancy in nature. To that end, they often sought to destroy or corrupt all that they encountered, often lashing out at those attempting to cultivate the land near their lairs or trying to raise crops near them.
+
+Abilities
+Elven vampires retained the  of infravision that many mortal elves possessed, but it was further augmented. They also were quite adept at finding concealed or secret entrances.
+Vampiric Powers
+
+They had some degree of enhanced strength, though not to the degree exhibited by standard vampirism. Much like other vampires they could take the form of an animal, specifically that of an eagle or giant eagle. Also like the standard strain of vampirism, they could summon groups of forest creatures to their aid. These were typically either packs of wolves, flocks of birds of prey, particularly eagles or  hawks, or small mammals such as badgers, porcupines, monkeys, rats, or weasels. There also was evidence that they could communicate with animals, though it was not known for certain if this was one of their many powers.
+
+Weaponry could not harm an elf vampire unless it carried either a +1 to 3 enchantment, depending upon how many centuries old they were. Those over 300 years of age required a +2 enchantment to harm, while those over 500 years of age required a +3 enchantment. If an enchantment was not powerful enough to harm an elf vampire, it would harmlessly pass through their bodies as if they were incorporeal.
+
+In addition to the traditional vampiric immunities to diseases, poisons, toxins, as well as charm, hold, and sleep spells, elf vampires were less harmed by spells relying upon cold or fire.
+
+Distinct Powers
+Rather than blood, elf vampires sustained themselves by feeding upon the vital, creative energies or "charisma" of other creatures. Some victims were left with a disfiguring scar after being drained that was difficult to remove. Those drained by them multiple times could become so disfigured as to be unrecognizable. If a victim was drained of too much their creative energies they were liable to start having suicidal thoughts, whilst those drained of all their creative energies fully lost the will to live. Any elf or half-elf that killed themselves due to this would arise as a subservient vampire spawn around one to four days after being buried.
+
+The most unique drawback of elven vampirism was that any plant they touched with their bare withered away and died. This effect was almost instantaneous on smaller plants, such as flowers, while larger plants like hedges and shrubs could take a day and trees could take over a week. Throughout this process of withering, an elf vampire felt all the agony that the aflicted plant went through. Since elves often had close relationships with nature, many were driven to madness early on due to this "black thumb".
+
+All elf vampires possessed an ability similar to the spells transport via plants or tree stride, though though unlike the alteration version of transport via plants there was no chance of an error occuring.Later editions changed transport via plants to the conjuration school of magic and removed its margin for error. Due to the elf vampires' "black thumb", the plants utilized in any instance of this power withered away and died after use. They commonly utilized this ability to flee from battles when severly injured.
+
+Other spell-like abilities possessed by elf vampires included pass without trace and invisibility to animals, though they rarely used the latter. They could cast anti-animal shell, entangle, snare, spike growth, and warp wood three times per day. And once per day they could cast giant vermin, wall of thorns, and sticks to snakes.
+
+Weaknesses
+Elf vampires lacked most of the typical vampiric weaknesses. They were unharmed by holy water or sunlight, and they could not be held back by holy symbols running water, mirrors, or garlic.
+
+In place of those standard weaknesses, elf vampires suffered from a variety of their own. They were harmed by being outside during the night and would gradually die if they could not get indoors. Whilst outside of their coffin between sunset and sunrise an elf vampire was disoriented. Whenever an elf vampire was underground they lost access to their regenerative nature and their vast number of spell-like abilities, leaving them open to a fatal death. But the most surefire way to end an elf vampire's existence was to drive a stake made of charcoal through their heart with a wooden mallet. The head then had to be cut off and burned in a fire made from flowers and flowering shrubs for no less than twenty-four hours, otherwise they could come back to life upon the stake's removal.
+
+Fresh tree sap burned elf vampires, similarly to the effect that holy water had on the standard strain of vampirism, though some claimed the sap had to be from a deciduous tree in particular. Elf vampires were quite vulnerable to spells involving electricity or lightning and weaponry made of cold iron. And due to having a weaker connection to the Negative Energy plane than other strains of vampirism, it was easier for paladins and priests to turn them away.
+
+Methods for keeping them at bay included making unbroken lines of flower petals, which they were incapable of crossing over or taking direct action to break, and music. However, the petals used in a protective line had to be fairly fresh and fragrant, having been plucked no more than one day prior. And they could circumvent petal lines by commanding an animal or servant to do so. In the case of musical performances, regardless of whether it was vocal or instrumental an elf vampire was likely to become enraptured upon hearing it, causing them to stop whatever they were doing to listen until they could break free of their trance.
+
+Combat
+It was quite common for elf vampires to fight with weaponry, typically preferring daggers and swords above all other options, with a particular proficiency in long swords. Though they also were experts with all manner of bows, unhampered by typical archery concerns such as breathing and muscle fatigue due to their undead nature. They typically used arrows that were carved from the bones of intelligent creatures and ocassionally had access to enchanted ones.
+
+Notable Elf Vampires
+ Aaron the Red, an elf vampire and wizard who sought to conquer Procampur in the, sometime around the late fall to early winter.
+ Marlysa, an elf vampire that lived in the Vast around the late 14 century DR, studying ancient texts in hopes of uncovering a way to reverse the strain of vampirism she was afflicted with.
+ Jander Sunstar, a gold elf vampire from Evermeet and one of Ravenloft's top experts on vampires.
+
+Ecology
+Creation
+Any elf or half-elf that died as a result of an elf vampire  draining their vital, creative energies or "charisma", would arise as one themselves after a period of three days. However, this would only occur if their body wasn't mutilated or destroyed in the intervening time. If the victim was brought back to life before that period was up, such as with the resurrection spell, there was a 50% chance the victim would returned to life as an elf vampire.
+
+Alternatively, elf vampires could occur on the world of Toril from the Blessing of Malphagor, a unique curse that the demipower Malphagor would place upon any living creature who killed his high priests. Alternatively, high priests of Malphagor were capable of bestowing this "blessing" upon corpses. Elven mages, half-elf druids, as well as some half-elf clerics that bore this curse would arise as an elf vampire one to four minutes after dying. In the case of half-elves this would occur regardless of their gender and sex, but for full elves it would only occur for males, with females instead arising as banshees or skeleton warriors.
+
+Society
+Though elf vampire usually tried to avoid being in contact with plants due to their "black thumb" affliction, they were typically found in temperate forests. These forests were always of a decrepit nature, full of diseased trees, dying plants, and infertile soil.
+
+They were usually solitary beings, they sometimes traveled with another or another and a group of vampire spawn minions.
+Languages
+Elf vampires retained understanding of all the languages they spoke in life, such as Elvish.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Elvar
+
+Elvar the Grainlord was the ruler of Triel in the mid-14 century DR. He was impersonated a lot throughout the rest of the century.
+
+Personality
+Elvar had true terror at the idea of running out of food, and devoted intense energy to protecting his stocks of food. He was also unusually given to change the focus of his worship, and had rotated through the entire Faerunian pantheon twice. He was a simple soul, and refused to travel away from Triel.
+
+Activities
+He changed his religion almost once a tenday, occupying two carpenters almost full-time. However, he was a competent leader for the farming community. He gave good advice, and got paid well.
+
+Relationships
+A local priestess of Chauntea, Antriera, kept hiding his accoutrements of Loviatar when he converted to another god again. For all his excentricities, he was well-loved locally.
+
+History
+According to Arauntar on, Elvar's madness had begun a score of years prior (approximately ) and had since grown so obsessed with making sure there was enough food to survive the winter that he had every rat caught and pickled, and he also allowed no outsiders in the place. He also claimed Elvar converted to a new religion every four days since- faster by then. He also claimed that Elvar was something of a thief himself.
+
+Unknown to anyone, Elvar had been dead for some time by the end of that year when Orthil Voldovan's caravan reached Triel. He was supplanted by an imposter since.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Elemental Store
+
+The Elemental Store was an ingredients supply shop in Eileanar that was owned and operated by Navailles and Urquiza up to the fall of Netheril in .
+
+Services
+The Store sold an array of completely pure chemical substances for use in alchemy, as material components in the spells of wizards, and other precise purposes. Depending on the material, they could be obtained in gaseous or liquid forms, though most were in solid bricks or powders. The prices were generally proportional to the weight of the material.
+
+ Substance Cost (gp) Form Measure Purpose Aluminum  3  Brick  Ounce  Metals  Arsenic  8  Powder  Ounce  Poisons  Barium  15  Powder  Ounce  Smelting  Cadmium  11  Powder  Ounce  Smelting  Calcium  4  Powder  Ounce  Healing  Carbon  2  Powder  Ounce  Healing  Chlorine  4  Gas  Cubic foot  Poisons  Chromium  5  Brick  Ounce  Metals  Cobalt  6  Brick  Ounce  Metals  Copper  6  Brick  Ounce  Metals, coins Fluorine  2  Gas  Cubic foot  Poisons  Gold  20  Brick  Ounce  Metals, coins Helium  0.4  Gas  Cubic foot  Conveyance  Hydrogen  0.1  Gas  Cubic foot  Conveyance  Iodine  13  Brick  Ounce  Healing, poisons Iron  6  Brick  Ounce  Metals  Lead  21  Brick  Ounce  Metals  Lithium  0.6  Brick  Ounce  Explosives  Magnesium  3  Brick  Ounce  Explosives  Manganese  6  Powder  Ounce  Smelting  Mercury  20  Liquid  Fluid ounce  Spell storing  Molybdenum  10  Brick  Ounce  Metals  Nickel  6  Brick  Ounce  Metals  Nitrogen  2  Gas  Cubic foot  Explosives  Oxygen  2  Gas  Cubic foot  Breathing magic  Palladium  10  Brick  Ounce  Holy symbols  Phosphorous  3  Powder  Ounce  Explosives  Platinum  125  Brick  Ounce  Metals, coins  Potassium  4  Powder  Ounce  Explosives  Radium  22  Powder  Ounce  Healing, poisons  Silicon  3  Powder  Ounce  Construction  Silver  11  Brick  Ounce  Metals, coins  Sodium  2  Brick  Ounce  Explosives  Sulfur  3  Powder  Ounce  Explosives  Zinc  7  Brick  Ounce  Smelting  Zirconium  9  Brick  Ounce  Smelting
+
+Appendix
+References
+
+---
+
+## Elliot of Kness
+
+Sir Elliot of Kness was a crusading paladin and criminal investigator who worked in Waterdeep and the Underdark in the 14 century DR.
+
+Description
+Elliot was a 6'3" tall man with a strong, muscular build. His face bore hard, chiselled features, and his typical expression was one of frowning concentration as he attempted to put together clues and solve criminal cases.
+
+When on the case, he wore a long trenchcoat and broad hat, and displayed a badge bearing his familial coat of arms and affiliation with the Forthright Band of Investigators.
+
+Personality
+
+Elliot had a near-maniacal focus on bringing down gangsters and criminals, brought on by the murder of his partner Thurgood. His vengeful obsession led him to bend many of the laws and standards that he might otherwise respect, as they held him back from his ultimate goal of breaking up criminal organizations. He believed that the good that resulted from his actions far outweighed the cost incurred by his extreme methods.
+
+Abilities
+As a paladin, Elliot could call on a number of divine powers. He could cure disease, create a circle of protection, lay on hands, and had immunity to disease. He was adept at a variety of practical skills, including building fires, riding, and herbalism, investigatory skills such as trailing and information gathering, and general religious studies.
+
+Possessions
+Elliot always wore his +3 chainmail and a ring of clairaudience. His favorite weapon was Peacemaker, a +2 crossbow of speed.
+
+Relationships
+Elliot served as part of the Forthright Band of Investigators in Waterdeep, working with Jayed Garhoov'r and other paladins in the pursuit of justice. His closest companion was the fellow investigator Thurgood, whose death greatly affected Elliot.
+
+History
+
+Elliot was a marshall of Juris, and investigated various misdeeds alongside Thurgood. During one investigation they came across drow trading with surfacer criminals, and in the ensuing fight the majority of miscreants were captured, though Thurgood was killed. Sir Elliot devoted his life to tracking down and destroying the organizations that made up the drow "white market", eventually finding evidence of wide-reaching Underdark criminal organizations. Realizing the magnitude of his foes, he joined forces with Jayed Garhoov'r and the Forthright Band of Investigators, a band of justice-minded paladins aided by the scholar Gerald of Riveyra.
+
+A later target of his vengeance was House Catanzaro, a powerful drow noble house that influenced and financed a number of other Underdark criminal organizations. His targets included the Catanzaro matron Felyndiira Shi'narrvha, the fence Gnormahlenvaey Catoneriehn, the entrepreneur Brikhalna Ipprszhen, and the assassins Vikhrumn Coll and Gray'shivnarien Taliain.
+
+Appendix
+Background
+Sir Elliot would be a reference to Elliot Ness, a famous law-enforcement agent who dealt with legendary gangster Al Capone.
+
+References
+
+---
+
+## Elixir of arcane cultivation
+
+Elixirs of arcane cultivation were potions that temporarily expanded the imbiber's mind, allowing them to temporarily hold more arcane or divine magic.
+
+Description
+These concoctions were typically bottled in crude vials decorated with a string of various fetishes, feathers, bones, and beads.
+
+Powers
+When consumed, the elixir gave the imbibers an expanded state of mind, allowing them to cast one additional arcane spell or a divine prayer. The potion's effects dissipated after the drinker took a rest of at least eight hours or if they consumed another long-acting magical concoction. More powerful versions of these potions existed, simply called greater elixirs of arcane
+cultivation.
+
+Creation
+An elixir of arcane cultivation could be created using a special type of alchemical sublimate and a foul-slamming paste – vitriol of weavemoss. A more powerful variety of the potion was created from suspension of laculite and a certain type of alchemical vitriol.
+
+Notalbe Uers
+Arron, a hin druid of the Emerald Grove in the late 15 century DR was known to sell these concoctions to the Grove's visitors.
+
+Appendix
+Gallery
+
+Appearances
+
+External links
+
+References
+
+---
+
+## Elixir of bloodlust
+
+Elixirs of bloodlust were magic potions that contained condensed savagery of a worg.
+
+Powers
+This blood-red concoction was a result of mixing together of special alchemical salts with ashes of burned worg fangs. When consumed, the potion gave the drinker ferocity of a worg that boosted the imbiber's vitality and granted them strength and speed enough for another attack after each kill in battle.
+
+Notable Owners
+Arron, a hin druid merchant from the Emerald Grove in the late 15 century DR.
+
+Appearances
+
+References
+
+---
+
+## Elixir of peerless focus
+
+Elixir of peerless focus were magic potions that fortified the imbiber's mind.
+
+Powers
+When consumed, elixirs of peerless focus provided a valuable boon to spellcasters by steeling their minds and improving their focus and concentration on spells. As a side effect, the potion made it harder for the imbiber to fall victim to the charm spell and immune to sleeping magics and poisons. The elixir's effects lasted until the imbiber rested for at least eight consecutive hours.
+
+Creation
+Elixir of peerless focus could be brewed using a sublimate of belladonna and special type of ash.
+
+Notable Owners
+Arron, a hin druid merchant from the Emerald Grove in the late 15 century DR.
+
+Appendix
+See Also
+Potion of clarity
+Potion of concentration
+Appearances
+
+References
+
+---
+
+## Ellie
+
+Ellie was a young fisherwoman from the city of Elturel, whose life was cut short in the late 15 century DR.
+
+Description
+Ellie had a dark skin and curly reddish-brown hair. At the time of her death, the fisherwoman wore a simple blue tunic.
+
+History
+In the, a nautiloid  crashed into the shores of the River Chionthar. Ellie was a young fisherwoman who, along with several other poor souls, witnessed the crash. She saw an elven lass run from the crash, one of the survivors – the woman named Shadowheart, and Ellie ran to aid her. Unfortunately, the elf was not the only one to survive and Ellie was ripped to shreds by intellect devourers who were onboard the magical vessel. The fisherwoman's body was left on the beach by the burning wreckage.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elizabeth Lurian
+
+Lady Elizabeth Lurian was a noble of House Lurian in the city of Procampur in the Vast in the late 14 century DR.
+
+Relationships
+She was a relative of Lord Consul Povalo Lurian, the head of the family.While several members of House Lurian are known, most of their relationships are unknown; Elizabeth is most likely intended to be a daughter of Povalo and Jasmine Lurian.
+
+History
+She was aged 24 in 1370 DR.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Elixir of the colossus
+
+Elixirs of the colossus were magic potions that temporarily increased the imbiber's size.
+
+Powers
+When one such potion was consumed, the imbiber's abdomen swelled and muscles steeled as their body grew in size. This enlarged form possessed an impressively increased strength. However, the potion's effects faded if another elixir was consumed or the imbiber took a rest of at least eight hours.
+
+Creations
+One recipes for the elixir of the colossus required a mixture of salts of chasm creeper to be mixed with a certain type of alchemical suspension.
+
+Notable Owners
+Arron, a halfling druid trader from the Emerald Grove in the Western Heartlands in the late 15 century DR.
+
+Appendix
+Appearances
+
+External links
+
+References
+
+---
+
+## Elixir of viciousness
+
+Elixirs of viciousness were magic potions that temporarily boosted the imbiber's chances to land especially devastating hits.
+
+Description
+Elixirs of viciousness were syrupy-thick concoctions that reminded those who looked into the liquid of predators lying in wait.
+
+Powers
+When consumed, the potions improved the imbiber's chances of landing particularly lucky and debilitating attacks. However, the effects of the potion were nullified if another long-lasting potion was consumed.
+
+Creations
+A recipe of this elixir required alchemical vitriol of shadowroot sacs mixed together with certain types of ashes.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elemi
+
+Elemi was a natural plant resin valued for its pleasant smell.
+
+Availability
+Aurora's Emporium sold elemi resin for 2 gp per, intended for use by priests as an aromatic ritual reagent.
+
+Appendix
+External Links
+
+References
+
+---
+
+## Elthira Gossen
+
+Fist Elthira Gossen was a member of the Flaming Fist who served the city of Baldur's Gate in late 15 century DR.
+
+Description
+Elthira was a zealous human woman with dark freckled skin and brown eyes. She wore a uniform of the Flaming Fist – a helmet, a set of chainmail, and a tabard adorned with the Flaming Fist insignia. She wielded a massive halberd in battle.
+
+History
+In the, Fist Elthira Gossen was tasked with patrolling the Lower City of Baldur's Gate, near the Basilisk Gate. Her zealous attempts to protect the city from the agents of the encroaching army of Absolutists led to harassment common folk who happened to strike suspicion in the Fist. Some of the people harassed by Elthira were Drongo Bixworth and his husband, Florean Bixworth, who were detained and interrogated for the crime of loitering.
+Appendix
+Appearances
+
+References
+
+---
+
+## Elda
+
+Elda was a Night Blade who resided in the ruined Temple of Bhaal in the Undercity of Baldur's Gate in the late 15 century DR.
+
+Description
+Elda was a red-headed and pale-skinned human woman armed with two daggers.
+
+History
+In the, during the Absolute crisis, Night Blade Elda killed by strangulation in service of Bhaal, the Lord of Murder and his Chosen – Orin the Red. Thorough servitude to Orin, Elda supported the Cult of the Absolute that threatened the city of Baldur's Gate
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elmarr Cardellith
+
+Elmarr Cardellith was a merchant lord in Sembia during the 14 century DR.
+
+Personality
+He was quite ruthless and cruel. According to his wife, he was somewhat sexist, not considering her fit for conversing in many topics.
+
+Possessions
+He was quite rich.
+
+Relationships
+He had four daughters with Nouméa Fairbright, who married him and took his name, becoming Noumea Cardellith.
+
+History
+Elmarr Cardellith was married to Noumea for some time between  and . During the span of time in which they were married, she bore him four children. Later, he attempted to have her killed; failing that, he paid her to stay away and changed churches in the meantime. He got their marriage annuled at his new church, and then remarried.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elward Daunthideir
+
+Elward Daunthideir, or Elward Varsoond Emmellero Daunthideir, was the steward of Lady Joysil Ambrur in Marsember in Cormyr during the late 14 century DR. He may have also been a slaver and smuggler.
+
+Personality
+The parsimonious, brusque man behaved with dignity and disdain.
+
+Activities
+Elward Daunthideir was the steward of Lady Joysil Ambrur. Roldro Tattershar strongly implied he also engaged in other, less savory activities involving smuggling and slavery while working under Ooaurtann of Westgate as a trade-agent.
+
+History
+In the, Elward was summoned to the door of Haelithtorntowers, the Marsemban residence of Lady Joysil Ambrur, by the door guard, Melarvyn, as the bard Roldro Tattershar was at the door demanding to be let in and threatening to call the watch. Once Elward was in sight, Roldro threatened to call the watch on him and reveal to them the fate of Iliskar Northwind, the fate of a crab meat shipment the month earlier, and the steward's role in the dispute between the Seven Traders and port tax collectors two months prior to that. He also mentioned he'd speak of the Marsemban trade-agent known as Varsoond, working for Ooaurtann of Westgate. Elward became very pale, and agreed to let Roldro in to see Lady Ambrur.
+
+Once they arrived at her room, Elward was ordered to feed the rainbow-fins in the south pond, effectively asking him not to eavesdrop.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elven Metallurgy, Myth or Magic?
+
+Elven Metallurgy, Myth or Magic? was a book penned by Tharil Iraldrorn sometime before the late 14 century DR.
+
+History
+A copy of Elven Metallurgy belonged to Manshoon XII, a clone of Manshoon, in the . The book was stored in the mage's library of mundane and arcane tomes in his lair in an abandoned temple of Amaunator underneath the City of the Dead of Waterdeep.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elranu Graywind
+
+Elranu Graywind was a renowned elven musical instrument crafter active sometime before the late 14 century DR.
+
+History
+Elranu Graywind's work was known for its luxuriousness and delicate intricacies. One of the master crafter harps, simply known as an elven harp of Elranu, was uncovered in the mid-to-late 14 century DR in the mountains of the Vast, among the treasures of a band of giants. This instrument was a unique mohagony harp decorated with detailed carvings of unicorns with eyes of inlaid white sapphires and holy vines with berries of tiny rubies. The masterpiece was valued at 5,000 gold coins.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## El Djenispool Dynasty
+
+The el Djenispool dynasty was a noble house that took and held the royal throne of Calimshan for several generations.
+
+Family Tree
+
+Appendix
+References
+
+---
+
+## Elethlim Dynasty
+
+The Elethlim Dynasty was a royal family of Impiltur, responsible for defeating the Scaled Horde and saving the realm.
+
+Family Tree
+
+Appendix
+
+References
+
+---
+
+## Elgiva
+
+Elgiva was a Netherese arcanist who worked at the Netheril Mint in Eileanar until its destruction in .
+
+Activities
+Alongside Evemerus, Elgiva led the Mint's team of wizards who produced the magical anti-counterfeiting prismatic effects on the coinage.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Elgrym Stormserpent
+
+Elgrym Stormserpent was one of the heirs of House Stormserpent in the early-to-mid 15 century DR.
+
+History
+After Nethglas Stormserpent hid the Wyverntongue Chalice, he told his brothers, planning to tell more people later for the sake of clout. In the meantime, however, he became fearful of retaliation from the Crown and possible exile or fines, and instead swore his brothers to secrecy. His oldest younger brother, Elgrym, told Nael Rowanmantle anyway, and Nethglas had the two of them killed for that, telling his younger brothers later that Elgrym had met a "very unfortunate accident".
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Eled
+
+Eled the Desecrator was an infamous champion of the evil races of Faerûn, who lived long before the late 13 century DR.
+
+History
+Eled was a cruel mercenary who gladly fought for any evil creature that could afford his services. Eventually, he gained infamy for his fearsome power. One of the mercenary's clients was a group of maedar and medusae who paid him with a powerful enchanted granite bludgeon: the Flail of Mae. Eled the Desecrator wielded the weapon with a frightening efficiency until the end of his days, many years before the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Electropolis
+
+Electropolis was a major city on the distant world of Pangaea. It was noted for the presence of the Chemcheaux 1 magic shop and its owner, Prismal the Outrageous.
+
+History
+Some time during the equivalent 13 or 14 centuries DR on Toril, one of the government officials of Electropolis was horribly cursed by Prismal, who had been tricked by his business partner Mortimar, prompting an immediate search for Prismal. While hiding at Chemcheaux 1, Prismal faked his death and handed over ownership of the Chemcheaux business to Mortimar, who then arrogantly revealed his manipulations. Prismal responded by using Prismal's revenge on Mortimar, reducing him to a shambling wreck. Seeking a release from his torment, Mortimar falsely claimed that he had cursed the Electropolis official, and was relieved to be executed a few days later. Prismal then publicly emerged and suffered a 60-day jail sentence for faking his death and falsifying government records.
+
+Appendix
+References
+
+---
+
+## Elwin McAllister
+
+Elwin Elrod McAllister, also known as Raider McAllister, was a human fighter and captain of the Osprey based in Ravens Bluff in the Vast in the 14 century DR.
+
+Description
+Raider McAllister was a seasoned seafarer characterized by a slender, well-muscled frame and an aura of quiet confidence. His life at sea was etched into his weathered face, with penetrating blue eyes that reflected his depth of experience. Raider's black hair, streaked with gray, was neatly pulled back into a short tail, complementing his mostly gray, well-trimmed beard.
+
+He was always impeccably dressed, favoring a royal blue doublet paired with trousers of the same color, and a white shirt featuring puffed and slashed sleeves. This ensemble was completed with blackjack boots and a hooded gray cloak, giving him a distinguished appearance. Raider's movements were marked by a rolling gait, a testament to years spent navigating the decks of a pitching ship.
+
+Always armed, Raider carried a cutlass or a long sword accompanied by a matching dagger, both secured in an elaborate harness at his hip. His love for the finer things was evident in his accessories, which included a large gold ring set with a sapphire on his right hand and a matching sapphire earring in his left ear.
+
+Personality
+When in port, Captain McAllister was known for his soft-spoken demeanor, politeness, and reserved nature. This calm and controlled façade, however, masked a starkly different persona that emerged when he was at sea. Upon the waves, Captain McAllister transformed into a commanding figure, his booming voice echoing across the deck, reaching every corner of his ship.
+
+Captain McAllister thrived under pressure, whether it was maneuvering through a fierce storm or leading his crew during a pirate assault. He embodied the essence of leadership, consistently demonstrating courage and determination. His philosophy was simple but powerful: he never demanded more from his crew than he himself was willing to give. This principle not only inspired trust and loyalty among his men but also garnered immense respect for him both as a captain and as a person. McAllister's ability to seamlessly blend authority with fairness and courage made him a revered figure both on land and at sea.
+
+Abilities
+Captain McAllister was renowned throughout Ravens Bluff as a daring sea captain and a shrewd businessman. His profound knowledge of the winds, currents, and harbors of the Inner Sea was unmatched, making him a legendary figure among those who plied these waters. Raider's connection to the sea ran deep; it was said that his soul was inextricably linked with the ocean, a bond that had been evident since his earliest days.
+
+His almost mystical ability to read the sea's conditions—weather, wind, and waves—mirrored the expertise of a scholar immersed in a beloved text. This sixth sense for maritime elements not only underscored his reputation as an exceptional navigator but also enhanced his capability as a tactician and strategist in both navigation and commerce.
+
+Captain McAllister's reputation as a superb swordsman was well-established, granting him a degree of respect that ensured he was seldom troubled by anyone, save for the most inebriated or foolhardy of sailors. His presence alone often sufficed to deter potential confrontations. Committed to maintaining peace, Raider never initiated conflicts or stirred up trouble while ashore, except in cases where his ship, the Osprey, was disparaged or insulted.
+
+In such instances, Raider expected a swift and sincere apology. Should this not be forthcoming, he was known to assert his respect for honor and discipline by teaching the offender a stern, albeit painful, lesson in courtesy.
+
+Possessions
+Captain McAllister possessed a periapt of proof against poison, a rope of entangling, and bracers of brachiation.
+
+Activities
+While deeply committed to his ship, and the sea, Captain McAllister occasionally took brief respites on land.
+
+In Ravens Bluff, Raider was often found around the dock area, actively tending to the needs of his ship and crew. He steered clear of the more disreputable taverns, preferring the quieter dockside establishments where he was known to partake in food and drink with moderation. He preferred a subdued environment where he could relax without straying far from the maritime world.
+
+During the colder months, Captain McAllister shared his extensive knowledge and passion for the sea by teaching aspiring adventurers the art of ship design and building.
+
+Additionally, Captain McAllister was an occasional visitor at the Narwhal Manor, where he spent long winter evenings in the company of his friend, Draco Elass. These visits provided him with a space to unwind and converse away from the demands of his captaincy. The manor, known for its warm and inviting atmosphere, served as an ideal retreat for Raider, offering a pleasant contrast to his life at sea.
+
+History
+Captain Raider McAllister, originally known as Elwin Elrod McAllister, was born in Waterdeep. He was the son of a Lantanese merchant priest and a minor noblewoman, inheriting a blend of mercantile acumen and aristocratic poise from his parents.
+
+Raider's nautical career commenced at the age of 17 when he constructed his first vessel, the Sea Sprite. With a crew of youthful and daring adventurers, he navigated the Sprite into Luskan. Here, he orchestrated a bold rescue of a prominent Waterdhavian merchant who had fallen captive to Luskanite raiders. During this mission, Raider managed to defeat and capture two of the raiders pursuing him, an act of bravery that earned him his nickname "Raider" and he swiftly chose to abandon his original moniker, Elwin Elrod.
+
+These exploits, however, marked the beginning of Raider's long-standing conflict with the rulers of Luskan, who harbored a deep animosity towards him. Over the next 15 years, they persistently sought to wreak havoc in his life.
+
+Eventually weary of the constant threats, Raider sought refuge by disappearing with the assistance of a friendly wizard. He briefly based his operations in Westgate, only to find its political atmosphere untenable. The ports of Sembia and Cormyr proved too restrictive for his liking. Ultimately, Raider settled in Ravens Bluff, attracted by the city’s optimal mix of reasonable tariffs and fair customs enforcement, which best accommodated his enduring seafaring and mercantile ventures.
+
+Appendix
+References
+
+---
+
+## Elbert Oldbridle
+
+Elbert Oldbridle was a nobleman from Cormyr, who became head of the noble house Oldbridle from .
+
+Relationships
+He was the heir of Olgarth Oldbridle.
+
+History
+After the death of Olgarth Oldbridle in the, his heir, Elbert, received a missive from him by his servant Osbur, a warning about Sembian intrigue in Cormyr. He had Osbur transmit the warning to Traevyn Illance.
+
+Later, he had people seek out Arclath Delcastle, inviting him to a meeting at Arkanon Nalander's. They caught up to him while he was on his coach.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elias Fischer
+
+Elias Fischer was a commoner from the city of Baldur's Gate in the late 15 century DR.
+
+Description
+Elias was a human man with a light skin tone and black hair and mustache.
+
+History
+In the, Anita and Elias Fischer suffered a terrible loss. The couple's seven-year-old daughter Lily was murdered, leaving her parents grief-stricken. Anita and Elias planned on burying their daughter in the Lower City Graveyard, but the undertaker carpenter, Ulkov Sully, demanded a priority fee for a coffin due to a massive backlog of funerals caused by the skyrocketing numbers of murders in the Gate. Without paying the fee, something the Fischers could not do, it would've taken a month of wait time. Anita and her husband tried their best to get Lily buried via negotiations and demands from the Valmorba and her mortuary.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ellswin Glimrock
+
+Ellswin Glimrock was a master artisan refugee from the city of Elturel who found new home in the Lower City of Baldur's Gate in the late 15 century DR.
+
+History
+In the, the Absolute crisis followed the calamity of the Descent in which Elturel was briefly plunged into the Nine Hells. Ellswin Glimrock was among the many refugees forced out of Elturel by one of the two threats, despite being a master artisan of some small renown. Seeking employ in the new home, Ellswin sent a letter of introduction and inquiry to Madame Omotola of The Glitter Gala in the Lower City, praising her dazzling shop and offering services as a resident jeweler.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elthenhelm Hamastyl
+
+Elthenhelm Hastyl was a truenamer. He led the House of the Unnamed academy in the late 15 century DR.
+
+Abilities
+He was a truenamer of no small power.
+
+Activities
+He led the House of the Unnamed academy in the late 15 century DR.
+
+Relationships
+He was the brother of Nerrol Hamastyl.
+
+Appendix
+References
+
+---
+
+## Elminster's Candlekeep Companion
+
+Elminster's Candlekeep Companion is a sourcebook by Justice Arman, Anthony Joyce, Trevor Armstrong, M.T. Black, Jeremy Forbing, Laura Hirsbrunner, and Ed Greenwood, published independently through Dungeon Masters Guild and set in the  using the  5-edition ruleset. It focuses on Candlekeep on the Sword Coast.
+
+Index
+
+Characters
+
+Creatures
+
+Events
+
+Items
+
+Locations
+Bodies of Water
+
+Castles & Keeps
+
+Continents
+
+Countries, Kingdoms & Nations
+
+Regions
+ •
+Roads
+
+Settlements
+
+Woods & Forests
+
+Magic
+Items
+
+Spells
+
+Organizations
+
+Religion
+Deities
+ •  •  •
+
+Miscellaneous
+Books and Periodicals
+ •  •  •
+Paragon Paths
+
+Titles
+Iron Lord
+Misc
+slavery
+
+Credits
+ Lead Designers: Justice Arman, Anthony Joyce
+ Designers: trevor Armstrong, M.T. Black, Jeremy Forbing, Laura Hirsbrunner, Ed Greenwood
+ Editor: Laura Hirsrunner
+ Graphic Designer: Gordon McAlpin
+ Cover Illustrator: Bob Greyvenstein
+ Interior Illustrator: Bob Greyvenstein
+ Cartographer: Marco Bernardini
+
+Appendix
+
+External Links
+
+Connections
+
+---
+
+## Eldon Keyward
+
+Eldon Keyward was a Neverwintian noble, a priest of Deneir, and a scholar specialized in the outer planes in the late 15 century DR.
+
+History
+In the 1490s DR, Eldon and other three nobles were kidnapped by group of Vecna cultists and taken to Neverwinter's graveyard, Neverdeath. He was then caged and subjected to a ritual lasting several hours with the purpose of sacrificing his secrets to Vecna.
+
+Appendix
+Notes
+
+Appearances
+
+Gallery
+
+References
+
+---
+
+## Eldra Luthrinn
+
+Eldra Luthrinn was a dwarvish barbarian who lived and died in the 15 century DR.
+
+Description
+Eldra had a tan skin tone, dark eyes, and a tattoo that ran through the center of her face. She had light brown hair and a beard of the same color.
+
+History
+By the time Eldra died in the, she was known as a talented slayer of men, monsters, and sweet pear tea. She perished while hunting down members of the Cult of the Absolute across the Chionthar Valley, drowned in the river's waters. Her soul yearned for revenge against the deadly cult, and Eldra Luthrinn ended up among the dozen individuals plucked from the Fugue Plane, chosen by the entity Withers to aid in his campaign against the Dead Three and their Cult of the Absolute.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+Connections
+
+---
+
+## Elminster Ascending
+
+Elminster Ascending is a collection of novels by Ed Greenwood that was released in November 2010. It collects the first three volumes of the Elminster series:
+ Elminster: The Making of a Mage
+ Elminster in Myth Drannor
+ The Temptation of Elminster
+
+Appendix
+Gallery
+
+References
+
+---
+
+## Elenshaer
+
+Elenshaer was a mage of Myth Drannor.
+
+Description
+The elf was slender.
+
+Personality
+He was rather arrogant.
+
+Abilities
+He had done some spellcraft work, much of it on unusual wardings; his penmanship was recognizable.
+
+Relationships
+He was an acquaintance of Elminster Aumar.
+
+History
+Elenshaer had been seen at some point by Elminster, carrying a fluted glass, on some terrace. He died at some point afterwards, being slain by a phaerimm he had caged in spells that were too weak.
+
+In the, Elenshaer's notes on a spell that added more power to an existing spell, with the purpose of putting it under the control of the caster, was discovered and recognized by Elminster at Moonshorn Tower. While investigating those notes, he discovered a mystical sign, bidding him to seek the Riven Stone immediately.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elthaeris
+
+Elthaeris was a Chosen of Mystra, once the First among her Chosen.
+
+Description
+During his last moments, Elthaeris wore a high-collared, ornate robe.
+
+Personality
+At the moment of his death, Elthaeris was consumed with weariness. According to Uirkymbrand, another Chosen, he had a reputation for being overbearing.
+
+Possessions
+He carried at least one enchanted staff, which exploded when broken; most certainly, the staff was capable of a retributive strike.
+
+Activities
+As her Chosen, Elthaeris served Mystra.
+
+History
+Elthaeris was anointed as a Chosen of Mystra at some point after her rise in .
+
+In a vision of the past shown to Elminster Aumar in the, Elthaeris had just slain a woman; at that point, he gave up on his service to Mystra and proclaimed he was done after centuries. He broke his enchanted staff, stabbing himself with one end as it exploded.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Eltravar
+
+Eltravar was an inhabitant of Reth in the mid–8 century DR.
+
+History
+In the, Eltravar had doubled the pay offered to mercenaries for stopping The Slayer, on behalf of the Duke of Westgate. He still couldn't find any more people to take the job.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elminster's Guide to Juggling
+
+Elminster's Guide to Juggling was a book written by the famed sage Elminster, with a self-explanatory title.
+
+Contents
+The book's content was based on Elminster's own extensive research and experience (no doubt aided by his exceptionally long and varied life). A person who read the instructions carefully was put on the path to become a master juggler of three balls at once, and potentially more exotic jugglables as well.
+
+Appendix
+See Also
+ Volo's Guide to Firebreathing
+
+External Links
+
+References
+
+---
+
+## Eldebuck Thorm Fendarl
+
+His Imperial Altitude Eldebuck Thorm Fendarl, self-styled High Knight-Emperor of the Vale, was the ruler of the village of Fendarl's Gate in the Western Heartlands in the mid-to-late 14 century DR.
+
+Relationships
+He was the four-times-great grandson of the village's founder, the warrior Fendarl.
+
+Personality
+Eldebuck was supremely petty and pompous, as his chosen titles showed. He required everyone to address him as "Imperial Altitude", and punished those who forgot by confiscating all their goods and imprisoning them for a tenday. He was also an immense gourmand who insisted everyone else finish all their meals too.
+
+Description
+Naturally he was short and fat as well.
+
+Activities
+He occupied the small castle in the village, which he called the Imperial Palace, where around 1366 DR he spent his time in near-day-long feasts and commanded a grand army of only fourteen knights. It doubled as the village's inn, since Eldebuck forbade the building of an actual inn or tavern and also charged handsomely for the privilege of sharing a roof with the High Knight-Emperor. The "personal guests" who paid or were invited by Eldebuck, his knights, and select villagers were treated to dishes whether they wanted them or not, so at mealtimes villagers would claim to be "too busy in the fields" and knights engaged in training or falcon hunting, lest food be delivered to them on Eldebuck's orders whilst they stood guard.
+
+At highsun, he inspected his subjects and guests, when he insisted everyone eat all their highsunfeast meals, thank the village's abundance, and sing his cooks' praises, while he boasted of Fendarl's heroism with the same tales each day. The local folk wisely smiled and answered with enthusiasm without fail.
+
+he toured at highsun, when he insisted everyone eat all their meals, thank the village's abundance, and sing his cooks' praises, while he boasted of Fendarl's heroism with the same tales each day. The local folk wisely did so without fail. Eldebuck required everyone to address him as "Imperial Altitude", and punished those who forgot by confiscating all their goods and imprisoning them for a tenday.
+
+History
+One eveningfeast, a visiting mage pranked Eldebuck by having a roast, stuffed stag head on a platter animate via an audible glamer and complain to his Imperial Altitude about its death, butchery, and poor treatment in the kitchen. Afterward, this dish was not served again.
+
+Appendix
+See Also
+ House Thorm
+
+References
+
+---
+
+## Elryn
+
+Dread Brother Elryn was a Sharran priest during the mid–8 century DR.
+
+Personality
+Elryn starkly regretted his lack of familiarity with the arcane, for one, and for another, he was quite dissatisfied by his underlings' carelessness.
+
+Description
+He was a bald man who wore purple and black robes.
+
+Possessions
+He looted a plethora of magic from Karsus' Keep.
+
+Relationships
+He led five Dreadspells in his last mission: Hrelgrath, Vaelam, Daluth, Iyrindyl, and Femter Deldrannus. Throughout the task, he was ever-aware of Avroana's possible scrying.
+
+Abilities
+As a Dreadspell, he wielded borrowed arcane power.
+
+Activities
+He mostly farscried on Sharran agents.
+
+History
+About two tendays into the Chaos of the Art in the, Elryn had become a Dreadspell; he was then sent to capture or slay a Chosen of Mystra near Westgate. Immediately after teleporting, they came to a shrine of Shar near the Dead Place, where they picked up the woodsman Uldus Blackram and had him work as their guide.
+
+Coercion became necessary, and Uldus Blackram led them with a sword and knife to his back, as well as a noose tied around his neck to make sure he didn't miss any reminders. During the first leg of their trip, they came across Ilbryn Starym, an elven wizard, and quickly turned violent; though Ilbryn escaped, he first slew Uldus Blackram, and one of the Dreadspells, Iyrindyl, was slain during the fight.
+
+Once they found the ruin, Karsus' Keep and Vaelam stumbled upon the way to access the inside, Elryn led the looting. The team of Dreadspells then sought to bring down the whole ruin on top of two people they spotted, a self-styled god Azuth and the Chosen of Mystra they sought, by using all their looted magic to hurl destructive spells at them. Once their looted magic failed against Azuth, despite bringing down the ruin, they fled.
+
+When Dread Sister Klalaera appeared and herded them back against Azuth, they were stopped partway by Umbregard and Starsunder, two mages that appeared suddenly. During the battle, they were eliminated one by one, until Elryn alone remained; he was slain by a third archmage, Tenthar Taerhamoos of the Phoenix Tower.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Elué Shundar
+
+Elué Shundar, also known as the Lady of the Gate, was a female half-elf sorcerer and adventuress who shared her body with Mystra. The goddess' possession enabled Elué to give birth to the Seven Sisters, all of Mystra's Chosen and fathered by the Elué's husband, Dornal Silverhand.
+
+Abilities
+Elué was a sorceress of enough talent to have a successful adventuring career, supplemented by her sundry studies. When she had the chance, however, she preferred to test and experiment with her own limits by exploring ruins across the dangerous northwest Faerûn. She was also strong enough to host Mystra's essence for nearly a decade while she bore all seven of the legendary Sisters, though it ultimately decayed her until she was effectively a lich, one that depended on the Lady of Mysteries' power to survive.
+
+History
+Adventuring Years
+Elué's family hailed from Silverymoon, but, according to Elminster (himself relying on Mystra for information), she spent most of her days adventuring down the ports of the Sword Coast. Often, she worked as a hireling or cargo escort for merchants. So fruitful were her endeavors that, at some point in the early 8 century DR, Elué was able to purchase for herself an estate in the countryside where she grew and sold herbs, mushrooms, and watercress with the help of farmers staying on her land.
+
+Though she had previously relied on books and scrolls to hone her magical abilities, Elué's new homestead allowed her the chance to experiment with her Art, a passion that eventually pushed her to resume her adventuring career. Now, however, she ventured into the Savage Frontier, where she explored fallen cities of ancient Netheril, studied portals, and even made friends with a few silver dragons.
+
+It was during the, while on an expedition into the ruins of an old wizard's tower, that she met the ranger known as Dornal Silverhand. Though he first assumed her to be a sorceress of evil disposition, and subsequently engaged her in combat, the man could not help but fall in love with her, pursuing Elué for the next two years.
+
+Vessel of Mystra
+It was not until the  that "Elué" fervidly returned Dornal's feelings; in reality, it was Mystra, possessing the previously reluctant Elué, who seduced the half-elf's admirer. When Mystra revealed her intentions to her mortal vessel, Elué was glad to continue sharing her faculties with the Mistress of Magic.
+
+Elué met her future husband's dying mother when they settled into Silverhand Tower. The old woman seemed to recognize her as an old friend she had made in her dreams, though Elminster believed these dreams to have been brought forth by Mystra's hand. Regardless, it was that same year that Elué and Dornal finally married.
+
+For the next seven years, beginning in the, Elué became pregnant. She gave birth to six beautiful, silver-haired girls, but by the time she was pregnant with their seventh child in the, Elué was no longer the same. The process had aged and withered her terribly, making her something similar to a lich, worrying Dornal. In his desperation to understand what was taking her, and his chances of having a son, from him, he had Elué inspected by a priest of Tyche. The Neveren man, Unsible, could not fully grasp the truth of what was possessing Elué, only that it was sentient and powerful, a revelation that further troubled her husband. At some point afterwards, Elué walked through a moonlit glade with Dornal—where he severed her head from her shoulders, ending her suffering. There her corpse remained, without its head, before it was found and her grim fate was learned.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elkhound
+
+Elkhound was a Helmite priest in Maztica in 1362 DR.
+
+Activities
+Together with his fellows Delian and Wadsworth, Elkhound was a Helmite missionary in the village of Maju, on the plains between the Chuapli Forest and the Narabatun Jungle.
+
+History
+In 1362 DR, Elkhound and his fellow priests told an adventuring party hired by Bishop Devane about the priestess Mirandos, who had disappeared with a group of six Payit warriors seventy days ago, a full tenday after she had oversaw a burning of books and scrolls in Maju. Each of the priests put forward their own theories on the mysterious disappearance. Elkhound believed her to have fallen under some sort of a curse from the books and fled into the night. Wadsworth believed she'd fallen into temptation after reading something in the Maju scrolls and fell astray. And Delian believed her to have been kidnapped by Payit "savages" seeking revenge for the burning.
+
+As proof of their claims, the three Helmite priests then presented a partially-burnt map that they had found in Mirandos's private quarters. The map depicted one of the coasts of Far Payit, north of the Bilchak River, with marks denoting the lost city of Ixtzul and a route leading to it from the north. Wadsworth proposed that the mark on the map was indeed meant to indicate some sort of lost city. Elkhound speculated it was marking some sort of tower where dark sorcery was being conducted. And Deilan theorized it was a secret base for Payits rallying together to launch an attack on the Amnians. The priests then informed the adventurers that Amnian soldiers had combed the area two tendays prior, as far south as the Narabatun Jungle, but had turned up nothing.
+
+Having learned all that they could from the priests, the adventurers tried to take off on the horses that had been provided to them, but the three priests insisted that the adventurers leave the horses behind on the grounds that they were property of the Church of Helm.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Eldermore
+
+The Eldermore family was one of the prominent noble houses of Ravens Bluff in the 14 century DR.
+
+History
+The family was founded by Harken Eldermore, who, by the late 14 century DR, hadn't been seen in several "lifetimes."
+
+Windstand House, an apartment building in the Gowntown neighborhood of Ravens Bluff, was owned by the Eldermore family until Lord Ampner, a major landlord and real-estate owner of the city, won it in a game of chance in the mid–14 century DR. To his disdain, the Windstand was a crumbling and decaying mess of a building.
+
+In the, Dianna Eldermore, the young and beautiful heiress of the Eldermore family, disappeared alongside a band of Living City adventurers following the celebration of Remembrance Day. Eyewitnesses to the disappearance stated an odd thing: Dianna Eldermore said she decided to remain with Harken Eldermore, the family's founder and Dianna's uncle... However, Harken has not been seen in quite some time, making most believe he had passed away a long time ago. One thing was known: Lady Dianna and her companions were part of some adventure prior to her disappearance, and some even reported a nasty-looking wound to be involved. The disappearance was reported on by Jacinth Moonspring in the pages of Ravens Bluff Trumpeter but lacked any revelations, only promising a further investigation into the matter.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Elliot
+
+Elliot was a member of The Guild and a bodyguard of its elected bursar in the late 15 century DR.
+
+Description
+Snapbone was a half-orc man with a dirty-olive-green hide. He had brown hair gathered in a bun. He wore a leather armor dyed in emerald-green – the Guild's telltale colors and was armed with a longbow and a dagger
+
+History
+In the, Snapbone, along with Elliot, was placed to guard the Guild's elected bursar, the masked man only known as Uktar. He continued to serve the bursar and the Guild through the Absolute crisis and the conflict with the dreaded Stone Lord, a new kingpin who secretly served the Absolute.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elemental fury
+
+Elemental fury was a short sword found in the Storm Horns of Cormyr in the mid-1480s DR.
+
+Description
+The sword had an ornamented hilt and a long, wide-tipped blade that glowed with energy.
+
+Powers
+Elemental Fury possessed the powers of elemental earth, water, fire, and air, and imbued its strikes with caustic, shocking, freezing, and burning effects.
+
+History
+The sword was recovered by Cormyrean forces after raiding the central army camp of the Shadovar commander Draeton in the Storm Horns.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Elemental legion
+
+Elemental legion was a powerful druidic conjuration spell that was also granted to the Silverstars of Selûne.
+
+Effects
+When cast, the elemental legion spell conjured forth four powerful elementals in the area within the caster's eyesight. The four elementals were representatives of all four elemental planes. They were always furious powers of destruction, hostile to everyone, even their summoner, unless the caster was protected by the protection from evil spell. After being summoned, the four elementals were dismissed in two and a half minutes, or longer, if cast by a druid or a Silverstar or a truly epic power.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Eldovar Fleetleaf
+
+Eldovar Fleetleaf was an elven guide who traveled the Storm Horns in the late 15 century DR.
+
+Description
+Eldovar had light skin and long black hair. He wore rugged and practical clothing and carried a walking stick as he traversed the wilderness.
+
+Personality
+He had a rather poor opinion of adventurers, and prided himself on his specialized wilderness knowledge and professionalism.
+
+History
+Around the mid-1480s DR, Eldovar offered his services as a guide to people in the Storm Horns, but strongly preferred people who had proven themselves competent already. He was willing to take completely clueless people, but it required a significant payment for his time and effort.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Elves of Cormanthor
+
+The Elves of Cormanthor were a group of elves and their allies dedicated towards rebuilding Myth Drannor in the late 14 century DR. They worked alongside the Elven Crusade led by Ilsevele Miritar that ultimately recaptured the city in 1374 DR.
+
+Base of Operations
+During the reclamation of the city, the Elves of Cormanthor set up a fortified camp on the south side of Glyrryl's Pool next to Tilver's Dam. From there, soldiers and adventurers struck into the wider city in search of threats, and artisans began rebuilding the ruins.
+
+History
+Following the defeat of the Cult of the Dragon and the phaerimm in Myth Drannor, the ruined city was more accessible than any previous time in history.The Cult of the Dragon and phaerimm are mentioned as past defeated threats, while the daemonfey are not mentioned or depicted at all. As the Elven Crusade is mentioned as ongoing, it seems that the events of the game take place after the formation of the Crusade but before the open appearance of the daemonfey in Myth Drannor. While the Elven Crusade from Evermeet and daemonfey of Sarya Dlardrageth conducted their own plans for the city, the local elves of the Cormanthor began their own effort. They set up a fortified camp on the southern side of the ruins and began methodically exploring and reclaiming the area, already familiar the myriad threats lurking within.
+
+In addition to the expected dead magic and wild magic zones, magically mutated and foreign summoned monsters, and legions of unquiet dead, the Elves of Cormanthor also faced an opportunistic band of orcs that sought to loot the treasures left by centuries of conflict, the cult of Moander, and oddly-aggressive ettercaps that preyed upon travelers in the Spiderhaunt Wood. Worst of all, they encountered a bold expedition by the Red Wizards of Thay led by the lich Droic Orgul, who sought to pilfer the artifacts and lore of the city and even manipulate the mythal.
+
+In the midst of being hard-pressed by all these threats, Eilistraee's Wanderers arrived. These drow wished to prove themselves by helping reclaim the city, but their eagerness outpaced their sensibility, resulting in several of them (including their leader Kelgoth Darksong) being lost and trapped in the ruins without the Cormanthor Elves being able to help them.
+
+Members
+
+The Elves of Cormanthor were largely made up of the local elves of the Cormanthor Forest. It included recent migrants from Evermeet and other places (at least by elven standards), and welcomed the assistance of non-elven participants in their work, like Oona Lombin, Jurnau Halbeck, and Hurda Marganir. They also accepted and worked alongside Eilistraee's Wanderers, a group of drow that sought to aid the reclamation of Myth Drannor.
+
+Prominent members included:
+ Tannivh Dahast, leader of the group.
+ Emalline Brightbough, camp security officer.
+ Verzan Nuovis, lieutenant.
+ Thiralen Farstep, sergeant.
+ Pilea Skysage, mythal sage.
+ Pyndil Bospin, planar sage.
+ Uramyl Widemeadow, field kitchen cook.
+ Neremyn Proris, historian.
+ Weikko Brightbeam, guide.
+ Emri Aliniki, guide.
+
+Appendix
+See Also
+ Elven Crusade
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Elyssa Grant
+
+Elyssa Grant is an editor and producer previously working at Wizards of the Coast and Penny Arcade, and currently at Twitch.
+
+Works
+Elyssa was involved in the production of the following works:
+ Acquisitions Incorporated
+ Homecoming
+ Tales from the Yawning Portal
+ Volo's Guide to Monsters
+
+Appendix
+External Links
+ Linkedin profile page
+
+---
+
+## Elixir of tiefling vice
+
+Elixirs of tiefling vice were potions created through sanguineous magic arts by Araj Oblodra of Crimson Draughts in the late 15 century DR.
+
+Powers
+Elixirs of tiefling vice were distilled from the blood of tieflings, allowing the imbiber to adopt their racial abilities and properties. Once such a potion was consumed, it gifted the imbiber with fiendish vice, allowing them to call on the diabolic arcana of the blood to cast thaumaturgy, hellish rebuke, burning hands, and flame blade. The blood magic of the potion was expended after one day.
+
+History
+In the, Araj Oblodra, an alchemist and a blood vendor, was using the blood of tieflings infected with the illithid tadpoles of the Cult of the Absolute to craft these potions during her stay with the cult in Moonrise Towers. After the death of Ketheric Thorm, she returned to the Crimson Draughts, her apothecary in the city of Baldur's Gate, where she resumed her sanguineous magic experiments.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elixir of human versatility
+
+Elixirs of human versatility were potions created through sanguinous magic arts by Araj Oblodra of Crimson Draughts in the late 15 century DR.
+
+Powers
+Elixirs of human versatility were distilled from the blood of humans, allowing the imbiber to adopt their racial abilities and properties. Once such a potion was consumed, it gifted the imbiber with human versatility – the ability to be universally proficient with most, if not skills, an adventurer would ever need. The blood-bound resourcefulness lost its effect in one day after imbibing.
+
+History
+In the, Araj Oblodra, an alchemist and a Blood Vendor, was using the blood of humanss infected with the illithid tadpoles of the Cult of the Absolute to craft these potions during her stay with the cult in Moonrise Towers. After the death of Ketheric Thorm, she returned to the Crimson Draughts – her apothecary in the city of Baldur's Gate, where she resumed her sanguinous magic experiments.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elixir of halfling luck
+
+Elixirs of halfling luck were potions created through sanguinous magic arts by Araj Oblodra of Crimson Draughts in the late 15 century DR.
+
+Powers
+Elixirs of halfling luck were distilled from the blood of hin, allowing the imbiber to adopt their racial abilities and properties. Once such a potion was consumed, it gifted the imbiber with halfling luck – the ability to be lucky, having the upper hand in all non-combat situations. The smallfolk luck lost its blood-bound magic one day after being imbibed.
+
+History
+In the, Araj Oblodra, an alchemist and a Blood Vendor, was using the blood of halflings infected with the illithid tadpoles of the Cult of the Absolute to craft these potions during her stay with the cult in Moonrise Towers. After the death of Ketheric Thorm, she returned to the Crimson Draughts – her apothecary in the city of Baldur's Gate, where she resumed her sanguinous magic experiments.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elixir of half-orcish fury
+
+Elixirs of half-orcish fury were potions created through sanguinous magic arts by Araj Oblodra of Crimson Draughts in the late 15 century DR.
+
+Powers
+Elixirs of half-orcish fury were distilled from the blood of half-orcs, allowing the imbiber to adopt their racial abilities and properties. Once such a potion was consumed, it gifted the imbiber with half-orcish fury – the ability to be relentless in battle and remain standing even after suffering the gravest of injuries. This blood-bound magic was expended after one day.
+
+History
+In the, Araj Oblodra, an alchemist and a Blood Vendor, was using the blood of half-orcs infected with the illithid tadpoles of the Cult of the Absolute to craft these potions during her stay with the cult in Moonrise Towers. After the death of Ketheric Thorm, she returned to the Crimson Draughts – her apothecary in the city of Baldur's Gate, where she resumed her sanguinous magic experiments.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Eloise Thurman
+
+Eloise Thurman was an inhabitant of the Brampton neighborhood of Baldur's Gate in the late 15 century DR.
+
+History
+In the, Eloise Thurman attempted to report suspicious housecalls late at night among the neighbors as well as people failing to make offerings to Umberlee, claiming that these activities were proof of the Cult of the Absolute's activity. Eloise made the reports to Liara Portyr's garrison, where they were dismissed.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elysree's Phantom Lover
+
+Elysree's Phantom Lover was an infamous ballad about Harper Elysree Csimaree of Berdusk and a watchghost who followed her and watched over her in the Harper's travels, penned sometime in or before the mid-to-late 14 century DR.
+
+Contents
+According to the ballad, Elysree Csimaree's unsleeping guardian was a benevolent watchghost. One could assume the song was not based, in fact, as Elysree Csimaree was ready to attack anyone uttering a single note of the song or even humming it in their presence.
+
+Appendix
+References
+
+---
+
+## Eleanor Carrathal
+
+Eleanor Carrathal was a Queen of Callidyrr in the early-to-mid 12 century DR. She was the wife of King Edwin II.
+
+History
+Eleanor and Edwin II had one son, Adrian, who was born in the .
+
+She became Queen of Callidyrr when her husband inherited the throne in the . However, Edwin II died soon after in the, and because Adrian was only ten years old, Eleanor named King Adom Kimball of Moray as regent of Callidyrr.
+
+Adrian assumed the throne six years later, in the .
+
+Appendix
+References
+
+---
+
+## Elturel/Sewers
+
+The sewers of Elturel were a sanitation system of brick tunnels beneath the city of Elturel.
+
+Structure
+Surface Connections
+ The Dwarf's Pot Inn had a hidden entrance to the sewers in its cellar. This had been constructed by the inn's owner, Algaroz, and his friend Pinch. On the sewer side of things, this entrance was marked by a jagged gap in the brick casing of a sewer wall. Fortunately the air  within the inn was typically so thick with the smells of wood smoke, stale ale, and spiced stew that the odor of the sewers was rarely ever noticed.
+
+History
+During his years as a thief on the streets of Elturel, Pinch and his gang of rogues frequently navigated the city through use of the sewers, with his companion Sprite-Heels having memorized many of the twisting tunnels to the best of his abilities.
+
+Early 15 century DR, Elturel was among the cities whose sewers were significantly expanded and improved upon by the gnome Joster Barbellow.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Ellisa Mitchell
+
+Ellisa Mitchell is an artist and sculptor who contributed to TSR's Spellfire: Master the Magic booster Draconomicon in 1996. Their style for those pieces is sketchy, yet vibrant and colorful. She has also worked on other TSR products and a few WotC ones.
+
+Artwork
+ Spellfire: Master the Magic (Draconomicon)
+
+Appendix
+Gallery
+
+---
+
+## Elminster's Traveling Spellbook
+
+Elminster's Traveling Spellbook was an unusual spellbook in the shape of a cube that walked and teleported across Toril.
+
+Description
+This unusual book appeared as a cube-shaped piece of marble, white in color, and just over  long and weighing around .
+
+Powers
+
+To read the spellbook, wizards could touch the block on its top, which would cause a list of its spells to appear in bright green Common script. If they concentrated on a particular spell, the list would be replaced by the text of the spell itself. The spellbook would remember the last spell it had displayed, and would display it again once touched.
+
+The book occasionally produced four marble legs from its base, which it used to walk and follow the wizards who used it. However, it stayed with the wizard for no more than nine weeks, before it would teleport to a random location that it had never visited before, to distant places in Faerûn, Kara-Tur, and Maztica.
+
+Contents
+The spellbook contained the spells charm person, magic missile, sleep, invisibility, magic mouth, web, dispel magic, hold person, lightning bolt, dig, polymorph other, stoneskin, write, proof from teleportation, gemjump, gateway, Elminster's effulgent epuration, Elminster's evasion, worldwalk, and Phezult's sleep of ages. Some of these spells were considered rare or unique.
+
+Rumors and Legends
+The spellbook's origins were unclear. Some assumed that Elminster had created the spellbook for entertainment. Others believed that the spellbook had been created by enemies of Elminster to embarrass him with stolen spells. Elminster himself had nothing to say about the book's origin.
+
+Appendix
+References
+
+---
+
+## Eluf the Steadfast
+
+Eluf the Steadfast was a dwarven member of Hal Stoutheart's Tethyamar expedition during the 1480s DR.
+
+Description
+Eluf had a thick gray beard, braided into twin forks. He wore a suit of plate armor and carried a dwarven war axe.
+
+History
+
+Eluf served as a mining foreman in the expedition, organizing the dwarves as they hungrily delved for the jewels of ardor. Unfortunately, a force of House Argith drow also arrived for the same reason, and began attacking and enslaving the dwarves. In one instance a rescue party was sent after them, only for all except the scout Rielle Proudforge to be captured as well. Fortunately, some surfacers from Eveningstar arrived looking for work, and Eluf was able to hire them to rescue the captive dwarves. The hirelings took on the drow led by Uhlsirayn, Phyrsinil, and Phy'xzar, and rescued the slaves, though they seemed overly obsessed with continuing to mine the jewels of ardor.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Elvere Sunberry
+
+Elvere Sunberry was a reluctant client of the Sharran House of Grief and an inhabitant of Baldur's Gate in the late 15 century DR.
+
+History
+In the, Elvere sought services of the House of Grief aid. The Mapping of the Heart revealed Elvere's "craven heart" and the Unburdening ritual was to take place, paid for it in full. However, Elvere backed out, loosing the nerve. The House of Grief only provided partial refund.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elgred Morbide
+
+Elgred Morbide was a dragonborn lich sorcerer and necromancer who was a follower of the dracolich An'Kizhek. He attacked the Dungeon Academy and stole the keystone of the Nexus Marker, which protected the school.
+
+Description
+His eyes were blue. He wore hooded purple robes that were ripped and covered with cobwebs and dust. His skull was exposed as much of his skin was gone, and he had narrow skeletal ankles.
+He had a buzzing voice and a distinctive, piercing laugh.
+
+Abilities
+He was able to use a staff to control skeletal creatures and produce huge vortices of bones. He could assemble bones into bone golems. and create many portals. He could also use magic to create and control blue chains that were as cold as ice. He moved by gliding. He was also experienced with alchemy.
+
+Activities
+
+Elgred performed repulsive experiments with undead over many years. He lived in a tower.
+
+Relationships
+Elgred fanatically served the dracolich An'Kizhek, along with Lord Carrion. He wanted to use her undead power to control Faerûn.
+
+Tavian Truescale
+
+Tavian Truescale served as Elgred's servant and spy for much of the young boy's s life. Yet Elgred openly derided him. He told Tavian that An'Kizhek would make him a prince, but actually planned to feed him to her. When Tavian learned of Elgred's betrayal, he declared himself the lich's sworn enemy.
+
+History
+Elgred Morbide had once been advisor to the black dragon Cedaver, when she held a position of leadership in the school that eventually became the Dungeon Academy. Under his guidance, Cedaver split with Zxaticus, and founded the Waterdeep School for Dragons. When Cedaver discovered Elgred's secret experiments with undead, she exiled him. He continued to experiment on his own.
+
+One year, during a particularly harsh drought in a valley of the Western Heartlands, Elgred visited an insignificant village there. He sensed magical potential in a three-year-old Tavian Truescale. Tavian's parents gave the young boy over to Elgred to be his apprentice. But once he had taken Tavian to his tower, Elgred showed his true self. He forced the boy into years of cruel servitude.
+
+Elgred provided Tavian with an Amulet of True Draconic Polymorph, and had him trail the Danger Club to the Nexus Marker, deep within the Dungeon Academy. Meanwhile, he freed Carrion from the Dungeon Academy, and the two necromancers attacked the school with skeletons. When Tavian and the Danger Club found the keystone of the Nexus Marker, he revealed himself to them and took it for himself. He betrayed Tavian, who used the Amulet of True Draconic Polymorph to become a bronze dragon and attacked him. Elgred announced his grand plans with An'Kizhek and created a portal to escape through. Bauble the mimic turned itself into a manacle, attached itself to his ankle, and followed him through the portal.
+
+Appendix
+Appearances
+
+Galllery
+
+References
+
+---
+
+## Elements mantle
+
+The Elements mantle was a psionic mantle that granted ardents and divine minds an array of psionics powers and abilities derived from the universal concept of elements. Unlike the elemental sphere, this mantle had no subdivisions for each of the four primary elements.
+
+Deities
+
+Abilities
+Those who followed the elements mantle could manifest one of four psionic abilities, each corresponding to one of the four primary elements. A manifester had to choose one of these elements whenever they were psionically focused.
+Air made a manifester's body lighter, allowing them to treat any fall as if it were a mere  drop; earth made a manifester's body more solid, granting them greater stability and making it harder for them to be pushed over; fire tinged all attacks by a manifester with a minute degree of fire; water enhanced a manifester's capabilities as a swimmer.
+
+The psychic aura exuded by divine minds of this mantle also required one to choose one of the four primary elements. This aura granted the manifester and their nearby allies the power to overcome the resistances of creatures of the chosen element.
+
+Powers
+Novice manifesters were able to summon elemental stewards with the power of the same name, control open flames, and control the air. Manifesters of some experience could move with ease through solid earth with earth walk, overcome their need for air with breathless, and adapt to the most hostile of environments with adapt body. Masters of this mantle obtained the power to petrify others with blackstone hammer and create destructive whirlwinds with tornado blast.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Elocater
+
+Elocaters were psionics users who refined their knowledge of motion and dimensional space, allowing them access to powers related to movement and travel.
+
+Activities
+An elocater often found work as either a guide or scout. These swift travelers had a reputation for being able to get to and into anywhere, even into the likes of locked and trapped treasure vaults.
+
+Culture
+This path of psionics was found to be most attractive to psychic warriors, though it also found no shortage of interest among nomads, kineticists, and combat-oriented wilders.
+Abilities
+Starting out, an elocater was ability to dodge attacks became heightened and they began to float  above the ground. So long as they remained within  of any flat surface, whether it be solid or liquid, their movements were unhindered and they could even "run" faster, gliding along the ground. Elocaters technically float even higher, as if they were the subject of psionic levitation, but would likewise experience difficulty in fighting.
+
+Overtime an elocaters became hyperaware of spatial relations. They became increasingly capable of unleashing injurious strikes on those caught unaware, could strike from seemingly impossible angles, and could once per day psionically slip between spaces, as if using psionic dimension door, though could not take other creatures with them.
+
+Elocaters of some experience gained the psychoportation powers psionic plane shift and psionic teleport, which they could manifest as though they were less potent powers, thus costing them less psychic energy to manifest. As they progressed further elocaters learned how to use their heightened dodging abilities in tandem with their psionic dimension door ability, allowing them to quickly dimensionally step next to an opponent within, strike them, and dart out of danger before their victims had any time to retaliate.
+
+A master elocater was capable of accelerating their movements to great degrees, though could not do so in conjunction with movement altering powers like schism or the spell haste.
+
+These various abilities made elocaters excel on a battlefield, gaining renowned as agile strategic combatants. In addition to their various psionic abilities and typical psionic knowledges, like autohypnosis and psicraft, elocaters were generally skilled in climbing, swimming, and using ropes.
+
+Notable Elocaters
+ Z'dusk, an illithid psychic warrior and elocater who worked as a scout for the Elder Concord of Oryndoll.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Elli
+
+Elli was an elderly frost giant in Jotunheim, the land of giants in the plane of Ysgard.
+
+Activities
+She was very skilled in the art of wrestling and knew a wide variety of maneuvers.
+
+Relationships
+Elli was the mother of Brimir, the proprietor of the famed beer-hall known as Okalnir.
+
+History
+In the late 14 century DR, a group of adventurers from the city of Ravens Bluff journeyed to the plane of Ysgard in search of the legendary Well of Mimir, having been instructed by the city's Ministry of Art to do so in order to learn how a powerful githyanki artifact known only as the Great Machine could be destroyed.
+
+While traveling in Jotunheim, they met Habrok Icecaster and, after proving their worth to him by slaying a bulette, he brought them to the beer-hall Okalnir. Brimir, sensing the giants of his hall were indifferent towards the adventurers, proposed a competition of four tests to lighten the mood. He was even willing to wager three magic items if the adventurers would wager three comparable permanent or major charged items. The items he wagered included a Svartalfheim cloak, a horn of Valhalla, and a great war maul known as Grungir's hammer.
+
+The fourth and final test was to be a wrestling match. However, when the giants looked amongst themselves to choose a champion they came to conclude that it would be unfair to match the adventurers against any of their warriors. Eventually they called upon Brimir's own mother, Elli, to be the giant champion of wrestling.
+
+Appendix
+Background
+The series of competitions undertaken in Three Coins in a Wheel are inspired by the Prose Edda book Gylfaginning (chapter 44), which features a series of contests in the hall of Utgard-Loki. There the Norse god Thor is forced to fight with a character named Elli. Unlike the Elli of Three Coins in a Wheel, she is said to be the nurse maid of Utgard-Loki, and rather than being a jotunn is a personification of old age itself.
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Elisseer
+
+Elisseer of Shadowdale was an elven fighter, abjurer, and adventurer in the mid-to-late 14 century DR.
+
+Personality
+He liked to fight without using his magic until he could unleash it at critical moments in battle, confusing and demoralizing his foes.
+
+Possessions
+He wielded an enchanted longsword +2 and a wooden shield, and wore a set of padded armor, a ring of protection +2, and a necklace of missiles.
+
+Activities
+Hailing from Shadowdale in the Dalelands, he had sworn to be a scourge of the orcs and spent his time hunting down and slaying them.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elders of the Llewyrr
+
+The Elders of the Llewyrr, also known as the Synnorian Elders, was a collective of venerable Llewyrr elders who advised the ruler of the elven realm of Synnoria.
+
+Activities
+They operated out of the palace of Argen-Tellirynd in the hidden city of Chrysalis. As of the 14 and 15 centuries DR, the Elders advised and were presided over by the Serene Matriarch, Ate`Niah. They served to represent their people's millennia-old traditions, and weighed in on matters of whether Synnoria should involve itself in the affairs of human and elven realms beyond their borders.
+
+History
+In the, the Elders were rattled by the appearance of the Elf-Eater. Despite the assistance of Alicia and Robyn Kendrick, the Elders were staunchly opposed to offering the humans any aid in their own quest to rescue High King Tristan Kendrick from the scrags of the Coral Kingdom. This position put them at odds with the Sisters of Synnoria.
+
+Members
+A Llewyrr could be admitted to the Elders only once they had lived a minimum of six centuries. They valued tradition and tended to embody the isolationist and racial arrogance of the Llewyrr. They warned against humans' efforts to trap the Llewyrr in their intrigues.
+
+As of the mid-to-late 14 century DR, the venerable sage Erashanoor was a spokesperson for the Elders.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elgar Buttercup Jansen
+
+Elgar Buttercup Jansen was a brother of Jan Jansen, a gnome inventor, illusionist, and a turnip aficionado, who lived in Athkatla, Amn, during the mid–14 century DR.
+
+History
+According to Jan Jansen's highly reliable statement, his brother, Elgar Buttercup, died in a fire sometime before  and was burned to charcoal.
+
+Appendix
+Appearances
+
+References
+
+Connections
+
+---
+
+## Elameth
+
+Elameth of Five Trees was an elven enchanter who lived at the Hand of the Seldarine circa the 10 century DR.
+
+History
+Elameth helped to craft many wondrous items in cooperation with the dwarves of Dorn's Deep. Of note, Elameth authored Elameth's Compendium and collaborated with the blacksmith Karador to create the Black Swan armor.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elvedarr
+
+Elvedarr was a settlement of Ardeep forest in the 3 century DR.
+
+History
+The sorceress Myrjala Talithyn described herself as hailing from Elvedarr in Ardeep back in the 3 century DR.
+
+Inhabitants
+ Myrjala Talithyn
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Eladar's electric surge
+
+Eladar's electric surge was an arcane evocation spell that wracked the target with electrical shocks.
+
+Effects
+Electric surge, once cast, repeatedly shocked the target with electrical charges. The caster could repeat the spell several times, each time adding to the physical harm inflicted as the shocks repeated.
+
+Components
+The spell required verbal, somatic, and material components to cast.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elfmound
+
+The Elfmound was a mysterious hill and ruin lying in the Hullack Forest in the East Reaches of Cormyr.
+
+Description
+A hill with a peculiarly flattened top, it has unidentified structures buried within.
+
+History
+Although it was dubbed 'Elfmound', excavations conducted in the late 1400s DR revealed no connection to elves. Instead, it appeared to be constructed by ancient Netherese, possibly a remote watchtower or safehouse for concealing a treasure or hazard. However, when the explorers unearthed a strange shaft inscribed with runes, they were all stricken with 'a death curse' at the very same time. The excavation was abandoned, but as of 1479 DR there had been reports of crying and even disturbing screams echoing upon from the old shaft.
+
+Appendix
+References
+
+---
+
+## Eleuthra Davos
+
+Eleuthra Davos was a Ffolk druid from Moray in the Moonshae Isles in the late 15 century DR. She was killed in the late 1470s DR while battling drow beneath the island of Gwynneth.
+
+Description
+Eleuthra was tall, thin, and conventionally pretty, with dark hair, dark skin, and blue-black eyes. She wore a wolf's pelt as a cloak, with the beast's head serving as a hood, and carried a totem stick.
+
+Personality
+She was impatient and curt. She respected loyalty and bravery.
+
+She harbored a fierce hatred for all fey, including elves, owing to the generational memory of her family having been slaughtered at Caer Corwell during the rise of Sarifal. She made no secret of her hatred and stated it openly, although paradoxically, she was uncomfortable when others expressed similar overt hatred. She dreamed to see Sarifal destroyed in order to return Gwynneth to the paradise she believed it to have once been.
+
+Activities
+Eleuthra and her partner, Einar Stormsson, served King Derid Kendrick as spies within the ranks of the Black Blood tribe of lycanthropes. They used their shapechanging abilities to assume the form of beasts, allowing them to pass as fellow lycanthropes. Eleuthra's preferred beast form was that of an enormous, brindled wolf. She was devoted to her duty to serve as the king's eyes and ears on Moray.
+
+History
+
+In the late 1470s DR, the Black Blood tribe of Moray began a ritual in the abandoned city below Scourtop to revive Malar, who had been presumed dead since the early days of the Spellplague. Eleuthra and Einar teamed up with a golden elf known as the Savage (an ally of two sacrificial victims forced to participate in the ritual) to disrupt Malar's return, a goal for which she was happy to set aside her fey bigotry. The trio invaded Malar's tomb but failed to stop the ritual, resulting in the death of Einar and the injury and capture of Eleuthra and the Savage. The pair were chained together in an old tomb, where Eleuthra became aware of the Savage's true nature as an heir to House Dlardrageth. She reiterated her hatred of him, but also acknowledged that she respected that he fought for her. They escaped their bonds after she transformed into a wolf, and in that shape she was drawn to a loregem buried in a sarcophagus, which the Savage retrieved, and to a large thighbone inscribed with runes, which she claimed for herself as a substitute totem stick.
+
+Fleeing from Malar's lycanthropes, Eleuthra and the Savage travelled together, although she continued to accost and accuse him of being a vile and greedy fey. Perhaps because his mind was clouded by the magic he had brought from the tomb, the Savage found the abuse endlessly endearing, and quickly developed an infatuation and love for Eleuthra. She did not appear to reciprocate, but eventually found that she was indeed attracted to him but also hated him. Her confused feelings led to them sleeping together, then to her trying to make him jealous, and finally to her attacking him. However, when he gave his life to help her and his surviving comrades escape from Malar through a portal to Gwynneth, she found herself heartbroken and beside herself at his apparent death.
+
+She traveled for a short time with the Savage's friends—Lukas, Gaspar-shen, and their new ally, Amaranth—until they were led into a trap in the Underdark beneath Winterglen by a drow priestess named Amaka. As the drow set upon them in overwhelming numbers, the still-grieving Eleuthra had a vision of the Savage inviting her to join him in death. She assumed her wolf form and targeted the drow leader, a hierophant, inflicting grievous wounds before the drow's magic killed her.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Elember
+
+Elember was a lord of Tavaray on the Sword Coast North in the early 3 century DR.
+
+History
+In the, when introduced to someone whom he believed to be Herald Huntinghorn of Tavaray, the Mage Royal of Athalantar, Ubriien Orlyn, assumed him to be an envoy of Lord Elember.This all but certainly imples that Elember was a lord in Tavaray at the time
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Elven gold dust wine
+
+Elven "gold dust" wine was a type of wine known in the late 15 century DR. Created by elves, it actually contained tiny flakes of gold and thus was incredibly expensive.
+
+History
+In a quality inn in the city of Sundasz in the Deep Realm in the, a dwarf named Hathar drank elven "gold dust" wine from a fluted glass whilst playing tumblebones with Bran and Tril. Torrin Ironstar saw this and was fearful the gold might be contaminated with the lethal stoneplague.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Elynwyd
+
+Elynwyd was an elven clergy instructor of the Neverwinter Academy in Neverwinter in the late 14 century DR.
+
+Description
+Elynwyd was an elf with a pale skin tone and slender frame. He had chestnut-colored hair and he was clad in the purple garments of a devotee of Tyr.
+
+Relationships
+Elynwyd taught at the same school as the person who would become the Hero of Neverwinter was attending as a student. He oversaw all divine magic and healing students at the academy.
+
+History
+When the Wailing Death stricken the city of Neverwinter in the, Elynwyd resided in and trained the students of the Neverwinter Academy, helping his student hone their magical and healing skills. However, Elynwyd's life was cut short in the attack on the Academy, that left most of its staff and students dead, and the school itself put to the torch.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Eldrin Szind
+
+Eldrin Szind was a drow mage of House Szind from Sschindylryn during the 1480s DR.
+
+Description
+Eldrin had long white hair and wore an elaborate robe, carrying a scimitar and hand crossbow.
+
+Abilities
+Eldrin was a powerful arcane spellcaster, and could cast circle of death, chain lightning, hold monster, Otiluke's freezing sphere, power word: stun, and symbol of weakness.
+
+History
+During the Sschindylryn invasion of Eveningstar, Eldrin applied himself at the ruined Temple of Mystra hidden in the King's Forest, searching for the Thread of the Weave alongside Phargred Avithoul and Odezzt Avithoul. Eldrin searched the library shelves of the temple for clues as to the Thread, finding nothing of use, only to be interrupted by a team of heroic  adventurers sent from Eveningstar to rescue Ana Brabener. Though he used the long-abandoned magic scrolls of the library to summon air elementals, water elementals, and salamanders, Eldrin fell before the assault.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Ellatharion
+
+Laranlor Ellatharion was the ruler of Ardeep from the mid–6 to the early 7 century DR. He was one of the three kings of Phalorm until he vanished in battle.
+
+History
+Ellatharion became the Laranlor of Ardeep in the, after the previous Laranlor, Ruardh Lightshiver, vanished in a battle against hobgoblins who attacked Hunnabar, a dwarven duchy. He ruled until the, when he and his army followed a force of orcs, who had retreated after besieging Secomber; neither he nor his army were ever seen again.
+
+Appendix
+References
+
+---
+
+## Elven knight
+
+Elven knights were the elite defenders of Evermeet. The knights were a small but nearly invincible force, each worth a dozen typical warriors.
+
+Activities
+Elven knights served Queen Amlaruil as leading warriors in her army on Evermeet. Their secondary role was as personal bodyguards to the queen. Most knights had to remain on Evermeet, but some were adventurers on the mainland, keeping contact with Amlaruil through the use of elfrunes.
+
+Culture
+Traditionally, only gold elven warriors were chosen to be elven knights, but membership was open to and sometimes granted to other races of elves. A legend speaks about how the human Sha'Quessir Mirabella was offered a knighthood by the knights of the Elven Court at Myth Drannor, but most elves thought it a fable.
+
+They wore shining elven armor and rode upon barded moon horses. They fought with white lances and enchanted elven longswords.
+
+Elven knights had to adopt a code of honor much like cavaliers. First, if they came across an elf in need, they were obliged to protect them. Second, they must do battle against drow, orcs, goblins, giants and other creatures of evil where they found them. Many elven knights remained prejudiced against even dwarves, disliking them and barely even tolerated them.
+
+Abilities
+Elven knights had at least above-average physical and mental traits. They were always proficient in the usage of longswords, lances, and longbows. It was also recommended for them to learn the usage of battleaxes, daggers, and javelins. They were also adept at riding horses and had knowledge of heraldry. It was also recommended for them to learn about animal handling, animal training, and etiquette as well as crafting armors and increasing their endurance.
+
+They were especially adept at using lances when mounted, and the most powerful elven knights were some of the most proficient users of swords and bows. Because of their training, they had an easier time fighting drow.
+
+History
+Elven knights, as understood here, existed in ancient Cormanthyr. Legends told that the human Sha'Quessir Mirabella was even offered a knighthood by the Elven Court at Myth Drannor.
+
+Notable Elven Knights
+ Sha'Quessir Mirabella, a human elf-friend claimed to have been offered an elven knighthood in Myth Drannor.It should be noted that the legend does not say Mirabella accepted or was ultimately inducted as an elven knight, only that it was offered.
+
+Appendix
+Notes
+
+References
+
+---
+
+## El Yestaadi
+
+El Yestaadi, or the Huntress in Alzhedo, was a half-elf fighter/thief and a founder and leader of the Clenched Fist, a Rundeen-affiliated mercenary and adventuring company based in Schamedar in Calimshan in the mid-to-late 14 century DR. If she had a real name, it was long forgotten to those who knew her.
+
+Description
+She was slender and graceful, said to have the figure of dancer. She wore leather too.
+
+Personality
+However, she also had the cunning and vicious nature of a killer, for which the Huntress well named.
+
+Appendix
+References
+
+---
+
+## El Dyram
+
+El Dyram, or the Arm in Alzhedo, was a human fighter, a former gladiatrix, and later assassin of the Fist of Rundeen in the late 14 century DR.
+
+Description
+She was a Calishite woman with dusky coloration who'd grown tall and broad-shouldered. Her hair was flame red but kept cut short.
+
+Abilities
+She had incredible strength, almost the peak of human capability. Her favored means of killing foes was to take them in a headlock, before snapping their necks.
+
+Possessions
+While she favored her arm as a weapon, el Dyram enhanced this with a bespoke piece of gladiator's armor worn on her arm. Made of chain mail, it was covered with scales with razor-sharped edges, letting her slash and shred those she grappled. It had been custom-made for her by the Rundeen to her specifications.
+
+History
+She began her career fighting in the Arena Efreetum, one of the Djen Arenas of Calimport. She earned her title, el Dyram, here for her signature kills.
+
+By 1370 DR, she served in the Fist of Rundeen, becoming the most unusual warrior they'd had in years. She retained her earlier title as her name within that organization, whereas others adopted new names based on their own weapons of choice.
+
+Relationships
+She was envious of el Yadhi for both his title and his leadership of the Fist, and coveted them both.
+
+Appendix
+References
+
+---
+
+## El Kholnar
+
+El Kholnar, or the Axe in Alzhedo, was a half-orc fighter, a former executioner, and later assassin of the Fist of Rundeen in the late 14 century DR.
+
+Personality
+A grim and terrifying figure, el Kholnar was single-minded, had an ice-cold demeanor, and spoke only when he must and in as few words as needed. He thought himself a judge of all those who had judged him to be a monster.
+
+Abilities
+He had incredible strength, beyond human capability.
+
+Possessions
+He wielded a huge single-bitted battle axe and had an executioner's hood, both of which he kept from his previous job.
+
+History
+He once served as an executioner for Pasha Pook in Manshaka.Empires of the Shining Sea p. 173 says he "was the former executioner for the Pasha Pook of Manshaka", but Pook was based in Calimport, suggesting this is in error: it may mean Calimport, a different pasha like Abon Duum, or Pook's network extends to Manshaka.
+
+By 1370 DR, he served in the Fist of Rundeen, taking his favored weapon for his name.
+
+Appendix
+Notes
+
+References
+
+---
+
+## El Katar
+
+El Katar, or the Knife in Alzhedo, was a human rogue and assassin of the Fist of Rundeen in the late 14 century DR.
+
+Description
+He was a Chondathan man, bald-headed and thin to the point of seeming malnourished.
+
+Personality
+El Katar was cunning and more amoral than even his fellow members of the Fist. However, he was also utterly mad, giggling creepily at all times and circumstances and delighting in shocking, terrorizing, and driving his victims to dread.
+
+Abilities
+Despite his build, he was quite agile. His always slew his targets with a slash or stab to the neck.
+
+Possessions
+He fought with a punchblade knife.
+
+He wore a white rattling bracelet he claimed was crafted from the finger bones of his former victims. He would tell his current victims this before bursting into laughter.
+
+History
+He served in the Fist of Rundeen circa 1370 DR.
+
+Appendix
+References
+
+---
+
+## El Yadhi
+
+El Yadhi, or the Hand in Alzhedo, was a human fighter and assassin of the Fist of Rundeen in the late 14 century DR.
+
+Description
+An older man as of 1370 DR, his hair was white and tied back in a ponytail.
+
+Activities
+He was acknowledged as the leader of the Fist of Rundeen. For their missions, he laid elaborate plans that overcame most defenses and put his teammates into areas where they were most effective.
+
+Abilities
+With high intelligence, tactical prowess, and incredible strength, almost the peak of human capability, el Yadhi was a dangerous warrior. The force of his hands along was enough to snap necks and crush skulls, his preferred method of killing.
+
+Possessions
+He wore chainmail but carried no weapons, as he did not need to.
+
+History
+Circa 1338 DR, the man known as el Yadhi joined the Fist of Rundeen. For 32 years, he would outlive all others and rise to leadership of the band, becoming the oldest of them by 1370 DR.
+
+At that time, el Yadhi plotted to be rid of fellow Fist member el Dyram because she desired his position and title. He discreetly sought to arrange for her to die in an apparent accident or be killed by an enemy whilst on a mission.
+
+Appendix
+References
+
+---
+
+## El Scimitar
+
+El Scimitar, or the Scimitar in Alzhedo, was a human fighter and assassin of the Fist of Rundeen in the late 14 century DR.
+
+Relationships
+He was the older brother of fellow assassin el Jambiya. He was deeply protective of her, not only in battle but also against the interests of men, even killing them. But el Jambiya was merely amused by this.
+
+Possessions
+He wielded a huge +1 two-handed scimitar that rose to +2 against magic-users and magical creatures.
+
+Activities
+Owing to his enchanted sword, el Scimitar was often assigned to kill wizards.
+
+History
+Over 1365–1370 DR, el Scimitar slew three fellow members of the Fist of Rundeen over perceived insults to his sister.
+
+Appendix
+References
+
+---
+
+## El Jambiya
+
+El Jambiya, or the Dagger in Alzhedo, was a human rogue and assassin of the Fist of Rundeen in the late 14 century DR.
+
+Relationships
+She was the younger sister of fellow assassin el Scimitar. He was deeply protective of her, not only in battle but also against the interests of men, even killing them. But el Jambiya was merely amused by this.
+
+Personality
+She thought highly of herself; in the art of killing, she rated herself above every other member of the Fist save their leader, el Yadhi.
+
+Possessions
+She favored the jambiya dagger, and her personal weapon was a silver jambiya of venom.
+
+Tactics
+In battle, el Jambiya chose her points of attack and struck them with precision, and her killing blows hardly ever missed. Those she slew on a mission never displayed more than three cuts, and many only one: a jambiya through the heart and sunk to the hilt as the single killing thrust. She always left this behind as her signature.
+
+When caught in a regular battle, such as a brawl or street-fight, el Jambiya favored her personal envenomed blade.
+
+History
+Over 1365–1370 DR, el Scimitar slew three fellow members of the Fist of Rundeen over perceived insults to el Jambiya.
+
+Appendix
 References
 
 ---

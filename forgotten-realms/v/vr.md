@@ -84,3 +84,369 @@ Connections
 
 ---
 
+## Vremyonni
+
+The vremyonni or Old Ones were an arcane brotherhood in Rashemen.
+
+Organization
+Men that were arcane spellcasters in Rashemen had two choices, exile or to join the vremyonni. Many vremyonni were kept alive for eons by longevity magic.
+
+Activities
+Vremyonni were expert weaponsmiths and magic item creators.
+
+On very rare occasions, vremyonni would fight in the defense of Rashemen.
+
+Tactics
+Vremyonni used secrets of magic that even the Witches of Rashemen did not use, destructive spells forbidden among the wilds of Rashemen, in case such magic was needed.
+
+Base of Operations
+The Running Rocks harbored secret strongholds of the vremyonni.
+
+Possessions
+All vremyonni wore masks.
+
+Appendix
+References
+
+---
+
+## Vraith
+
+Vraith was a wood elf female and a commander in the Order of Blue Flame located in the city of Ormpetarr. She held the rank of Accordant. She possessed a spellscar. Vraith was inspired through visions sent by the Sharn to attempt to enlarge the Plaguewrought Land around Ormpetarr through the Ritual of the Border. She was convinced that she would be able to join with the Sharn if she pleased them by unleashing the spellplague.
+
+History
+She was born in 1345 DR in the Chondalwood. In 1385 DR, the Spellplague appeared in her dormitory room at the wizard academy and touched her, forming the spellscar on her chest.
+
+Vraith devised a ritual to extend the border of the Plaguewrought Land. She convinced Brother Gregor that she intended to find a way to capture rogue areas of spellplague that remained in Faerûn and enlisted Gregor to create a potion that partially blocked the effects of the spellplague, which would allow pilgrim volunteers to survive long enough to complete the ritual.
+
+When Vraith learned that Duvan was immune to the spellplague, she ordered him captured and experimented on. Duvan later escaped with the help of Slanya. During the Festival of Blue Fire in 1479 DR, Vraith recruited hundreds of pilgrims for the Ritual of the Border. Duvan returned with Tyrangal and Slanya and disrupted the ritual, which resulted in the deaths of hundreds of pilgrims and caused Vraith's soul to merge with the magical border of the Plaguewrought Land. In 1479 DR, she wove her spirit into the Plaguewrought Land and was trapped and lost forever in a fate worse than death.
+
+Abilities
+Vraith's spellscar enabled her to merge the souls of the volunteers while performing the Ritual of the Border.
+
+Appearance
+She was slim and delicate. She had pale gray eyes and blonde hair.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Vrushnom
+
+Vrushnom was an unusual illithid cleric of Shar.
+
+Vrushnom lived in the secret Shar-worshiping enclave of LoobliShar in the Middle Darklands of the Underdark. However, also Vrushnom acted spied on the city for the illithids of Oryndoll.
+
+References
+
+---
+
+## Vrr'maal
+
+Vrr'maal was a balor prince who dwelled in the Infinite Layers of the Abyss. He was known for keeping a great forge.
+
+One proposed method for destroying the dread artifact known as Thakorsil's Seat was to take it to the Abyss and drop into Vrr'maal's forge.
+
+References
+
+---
+
+## Vrakk
+
+Vrakk was a Zhentilar general, and noted war hero in Zhentil Keep. He was bodyguard and co-conspirator with Fzoul Chembryl in the creation of The True Life of Cyric in 1368 DR
+
+History
+In 1360 Vrakk led the orc army that the Zhent send to joined the allied armies led by Azoun Obarskyr IV in fighting against the Grand Army of the Tuigan in Thesk.
+In 1370 DR, Vrakk was the second-in-command of the Zhentarim army in Zhentil.
+
+Appendix
+
+References
+
+---
+
+## Vrellin Baenre
+
+Vrellin Baenre was a member of House Baenre and one of the nephews of matron mother Triel Baenre circa 1373 DR.
+
+He was a lieutenant in the guard of the Baenre Compound.
+
+Appendix
+
+Appearances
+ Extinction
+
+References
+
+---
+
+## Vriild Denvenar
+
+Vriild Denvenar was a leading member of the derro Council of Savants in Gracklstugh in 1370 DR.
+
+Personality
+Vriild's main concern was the new nation of Luruar, which Vriild saw as a successor of Ascalhorn, Myth Drannor, and Phalorm, and a menace to the derros' ambitions on the surface. His areas of expertise were the human history of northwest Faerûn, cartography, and prominent human wizards.
+
+History
+Vriild was the leader of a faction of savants whose main field of study was the Realms Above. Over 1369–1370 DR, Vriild made close contacts with the Kraken Society in Yartar. Vriild offered to the Krakenar magical aid to infiltrate Luruar in exchange for sharing information.
+
+Appendix
+References
+
+---
+
+## Vreesar
+
+Vreesar was an ice devil who tried to conquer Faerûn.
+
+Description
+Vreesar was a large, insectoid creature as were all gelugons. He had massive clawed hands and feet, sharp mandibles, compound eyes, and a thick tail with razored spikes.
+
+Abilities
+Vressar could see in the dark, was telepathic, and had several spell-like abilities, such as the ability to magically fly or create a wall of ice. He could regenerate damage and emitted an aura of fear.
+
+If one were struck by Vreesar's tail, he or she would become frozen in place with extreme, magical cold.
+
+History
+In 1366 DR, thanks to a planar rift from the Paraelemental Plane of Ice, Vreesar managed to enter Toril, in the Samek Valley near the Great Glacier north of Damara. Soon he took control of the gnoll Burnt Fur tribe after slaying its chieftain and planned to bring more of his fellow baatezu through the rift—preferably ones that could conquer the warmer lands of Faerûn. He hoped Toril would serve as a staging ground in the baatezu's fight against the tanar'ri.
+
+The Harper Martine and the fallen paladin Vilheim, with the help of some gnomes, managed to close the gate by using some magical stones prepared by the wizard Jazrac. When Vreesar tried to reopen it, they confronted him. During the final battle, Vreesar slew Vilheim by shoving an exploding ball of ice into his breastplate, but the outcast gnoll Krote was able to hold open Vreesar's mandibles, while Martine plunged Vilheim's magic sword down the devil's throat, destroying him.
+
+Appendix
+Appearances
+ Soldiers of Ice
+
+References
+
+---
+
+## Vrag
+
+Vrag was a cornugon lieutenant in Dragonspear Castle circa 1363 DR.
+
+History
+Vrag led one of the Hordes of Dragonspear, specifically the Marauders, a group composed of one unit of 500 kobolds and one unit of 500 goblins led by the able chieftain Pruj.
+
+Personality
+Vrag disliked his current position, believing he led the weakest army. In order to impress Baazka, he ordered his warriors to make very dangerous assaults.
+
+Appendix
+Appearances
+Adventures
+ Hordes of Dragonspear
+References
+
+---
+
+## Vragni Moonsmith
+
+Vragni Moonsmith was a dwarf mummy in the Deep Wastes in the late 15 century DR.
+
+History
+Circa 1486 DR, Vragni and his retinue were ambushed and killed by drow from Szith Morcane. However, Vragni rose as a mummy and, with a now-undead retinue, slaughtered all living beings in the cavern where they were killed.
+
+Vragni was eventually confronted by an adventuring party supported by a priestess of Eilistraee.
+
+Personality
+Vragni inflicted his vengeance upon all drow.
+
+Appendix
+
+Appearances
+Assault on Maerimydra
+
+References
+
+---
+
+## Vrengarl Hardtoil
+
+Vrengarl Hardtoil was a dwarf from the Great Rift who was active in Innarlith on the Lake of Steam in the mid–14 century DR.
+
+Personality
+He wasn't used to living on the surface. When he went to build the winery at Berrywilde, he didn't realize that his skin was going to peel after staying outside in the sun and getting burned.
+
+Abilities
+He was a capable stonemason and he was able to fight with a hammer.
+
+Relationships
+His cousin Hrothgar Deepcarver accompanied him when the two of them came to Innarlith. They were both stonecutters and worked in construction in the city-state.
+
+Ivar Devorast, a Cormyrean engineer, was a friend of him and his cousin. They both had come to know him through working together in construction projects. Devorast called Vrengarl "Vrengie", which Vrengarl normally would allow Hrothgar to call him, but not others.
+
+History
+In 1361 DR, Vrengarl and his cousin Hrothgar were working to cut stone for the construction of the Nagaflow Keep. Ivar Devorast was initially in charge of the project and he admired the work of the two cousins, finding it better than the work of the other laborers on the site.
+
+In 1364 DR, the two cousins were living in a dilapidated basement in the first quarter of Innarlith. Vrengarl was growing mushrooms in a closet of the basement to eat. Devorast came to meet them in their basement and when they realized he was completely broke, they invited him to join them in a new work project to construct a vineyard at Berrywilde, the country estate of Senator Inthelph.
+
+The three of them went to work to build the vineyard at Berrywilde. Phyrea, the daughter of Inthelph, was at the estate at the time and she became infatuated with Ivar Devorast. She was staying in the country house several miles from the construction site and she made a request to the foreman that Ivar Devorast personally come and raise the wall around the house. Devorast sent Vrengarl to do the work in his place, which infuriated Phyrea. She felt she had been shamed. In anger, Phyrea then got information from Vrengarl about the location of the foreman's tent. Unknown to Vrengarl, Phyrea then went to stealthily murder the foreman in the night using a magical sword that turned the foreman into a ghast.
+
+Appendix
+Appearances
+ Whisper of Waves
+
+References
+
+---
+
+## Vrak
+
+Butcher Vrak was a member of the goblin camp that made their home within the Shattered Sanctum during the late 15 century DR.
+
+Activities
+Vrak enjoyed the responsibility of chopping up the remains of the people and animals brought back by his fellow goblins after their raids. He worked with Beastmaster Zurk to ensure that their worgs were well-fed.
+
+History
+
+In the, Vrak's fellow goblins captured a magnificent bear that was in fact the druid Halsin in his animal form. Some of the goblins wanted the bear to share the same fate as the humanoids Vrak chopped up, while others were content with merely tormenting the poor beast.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+
+References
+
+---
+
+## Vraedna
+
+Vraedna was a drow sorcerer of the adventuring company - the Lady's Lament from Waterdeep, active circa 1310 DR.
+
+Description
+Vraedna was a tall obsidian-skinned maiden with long white hair. She wielded a longsword and a shortbow in battle, as well as her impressive innate skills with the arcane magics. Relatively new to the surface, Vraedna's greatest fear was being abandoned by her comrades and left to fend for herself in the new and alien world.
+
+History
+Vraedna hailed from the grim pitch black Underdark. She was one of the rebel drow who chose to abandon the worship of Lolth and fled to the surface. Eventually, she joined the Lady's Lament in the City of Splendors. Vraedna hoped that being a member of the goodly adventuring troupe would improve her reputation and allow the surface world to overlook her evil heritage.
+
+In 1310 DR, the Lady's Lament, along with many other mercenaries, traveled from Luskan to the besieged city of Targos in the Ten Towns of Icewind Dale.
+
+Appendix
+Appearances
+Video Games
+Icewind Dale II
+
+References
+
+---
+
+## Vrulla
+
+Vrulla, who was also called the White or the Gray, was an innkeep inhabiting the village of Tinnir in Rashemen in the .
+
+Personality
+She was quite friendly and enjoyed regaling patrons with the rumors surrounding her inn.
+
+Activities
+Vrulla owned and operated the Lakeside Inn which catered to travellers from the nearby rivers and Lake Tirulag. Vrulla was also a cleric of Bhalla.
+
+Appendix
+References
+
+---
+
+## Vrom Gulderhorn
+
+Lord Vrom Gulderhorn was a priest in service to Siamorphe, the Divine Light, within the Chapel and Chalice of the Divine Right in Waterdeep during the late 14 century DR.
+
+Activities
+He was one of three senior priests who oversaw the activities of the lesser priests and acolytes within the Chapel.
+
+Relationships
+Vrom's mother, First High Lady Scion of Siamorphe Belkerri Gulderhorn was the head of the Chapel and Chalice of the Divine Right. Vrom was her youngest son. Lady Kerri Assumbar was his sister.
+
+Appendix
+References
+
+---
+
+## Vrondiss
+
+Vrondiss was a barbarian and adventurer that sought to gain great wealth and glorious exploits across the Sword Coast.
+
+Abilities
+When Vrondiss dove into battle, he entered into a berserker frenzy that bolstered his physical strength and made him resilient to oncoming harm.
+
+Activities
+As a barbarian that traveled the Path of the Ancestral Guardian, Vrondiss drew upon the wisdom and power bestowed upon him by his draconic ancestors.
+
+Relationships
+He was a member of an adventuring company that included the elven paladin Galea, the tiefling warlock Prosper, and the Red Wizard necromancer Sefris.
+
+Appendix
+Appearances
+Card Games
+
+References
+
+---
+
+## Vraelen (stars)
+
+The Vraelen were the elven names for two stars.
+
+History
+In the, before his death, Delmuth Echorn had nearly completed a lesser flith which still lacked two diamonds for the Vraelen.
+
+Appendix
+Appearances
+Novels
+
+Elminster in Myth Drannor
+
+References
+
+---
+
+## Vromur Marhymbel
+
+Vromur Marhymbel and his brother Ilund ran the well-reputed Marhymbel House Shipways shipwright business out of Sarshel in Impiltur, in the 1490s DR.
+
+History
+By the late 15 century DR, Ilund and Vromur were second-generation shipbuilders. They produced reinforced and rugged top-quality naval vessels in reasonably fast timeframes, earning the reputation of being some of the best shipwrights of the Sea of Fallen Stars.
+
+Appendix
+References
+
+---
+
+## Vrestus Honore
+
+Vrestus Honore was a renowned poet from the city of Neverwinter, whose seminal works were written some years before the late 15 century DR.
+
+History
+Vrestus Honore was considered to be a prolific poet by some. One of his works – a poem called Winter Enervation to Spring Innovation was kept in the grand library within the West Caraway Acres, the manse of a famous dragonborn wizard named Torlinn Shrake. It was said that the Winter Enervation was the pride of the mage's collection, so much so that it was recited for the bored guests during Torlinn's last grand ball in the late 15 century DR. The recited poem was only three verse-long, a small excerpt from the grander work of poetry.
+
+Vrestus' work was later used as a puzzle hint for the dragonborn's death dungeon underneath the West Caraway Acres, where some unwitting guests and staff members ended up at every party.
+
+Appendix
+Notes
+
+Appearances
+Novels
+
+Honor Among Thieves: The Road to Neverwinter
+References
+
+---
+
+## Vrindula Mardassus
+
+Vrindula Mardassus was a wealthy inhabitant of the city of Baldur's Gate in the late 15 century DR.
+
+Description
+Vrindula was a human woman with a light skin tone green eyes. She had her long light brown hair tightly braided.
+
+History
+In the, Vrindula Mardassus was a frequent customer of the Counting House in the Lower City of Baldur's Gate. She could be seen happily counting coin, leaving the bank, in front of beggars, desperate for coopers and food.
+
+Appendix
+Appearances
+
+References
+
+---
+

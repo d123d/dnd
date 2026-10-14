@@ -299,3 +299,507 @@ de:Vhaeraun
 
 ---
 
+## Vheod Runechild
+
+Vheod Runechild was a cambion of the mid–14 century DR.
+
+Description
+He had long brick-red hair, scarred hands, and a "living" red mark that was in flux on his body. Vheod called it "the Taint". He wore spiked metal armor, a simple cloth cape, and used a long sword.
+
+Relationships
+He was a known companion of Melann Brandish and Whitlock Brandish.
+
+History
+He escaped from the Abyss and arrived in Faerûn in Archendale, where he met his future companions.
+
+Abilities
+Vheod had an inherent ability to levitate, which was the result of his tanar'ri lineage. He also had access to spells he learned from an ancient book, including a way to manipulate and restore the vampiric briars that grew in the Fields of Night Unseen in the Abyss. He was able to conjure flames to create a fire that helped him to survive in the wild.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Vhaidra Uoswiir
+
+Vhaidra Uoswiir was a drow monk.
+
+Personality
+Vhaidra was proud, ruthless, and often dismissive of those who were neither an expedient nor a threat to her purposes.
+
+Vhaidra gave little indication that her quest to save Baldur's Gate was out of any degree of concern for its citizens, yet she did have a strict code of conduct by which she operated. She was openly mistrustful and derisive of others, and even told Ulua not to make her regret trusting her. On resolving to thwart Mordoc's final scheme against Baldur's Gate, she added that it couldn't hurt to have the jewel of the Western Heartlands in her debt. Whether this cold and suspicious behavior masked any benevolent instinct is unclear.
+
+Abilities
+
+She excelled in both armed and unarmed combat.
+
+Vhaidra possessed the rare ability to be as deadly in unarmed combat as with any of the numerous weapons she could master. Her strict training and self-discipline allowed her to attack with focus and to endure greater physical punishment. Once she had achieved greater experience, she could combine her surgical precision with remarkable speed to make her onslaughts truly devastating. However, she could not use great swords or axes.
+
+History
+Vhaidra was the first in line in the noble Uoswiir household. However, she was forced to flee Menzoberranzan when much of her family was slaughtered by rival houses.
+
+Since then, she adventured while secretly planning the return of her household and the downfall of those who were responsible for attacking it. To this end, she allied with her half-sister, Ulua, who conducted operations to regroup the Uoswiir household and to eliminate its rivals.
+
+Her motivation for traveling to Baldur's Gate in search of adventure was said to be "power". In doing so, she was pitted against the schemes of Mordoc SeLanmere.
+
+She would also attempt to further the cause of her noble house. Initially, Vhaidra could only divert gold gained through adventuring to funding Ulua's efforts, but later Ulua finally learned the location of the monastery of the Dark Ravens, where assassins were hidden. Vhaidra stormed this monastery and found its archimandrite, Draezen Direhand. He dismissed Ulua on the grounds that she was only of half Uoswiir blood and said that House Uoswiir will die with Vhaidra. After killing Draezen, Vhaidra took the secret scrolls the monastery guarded, allowing her access to greater power.
+
+Once Vhaidra returned to Baldur's Gate, Ulua informed her that she had already sent agents to destroy the monastery, having heard of her success, and that when Vhaidra was ready to take up her place as head of the Uoswiir household she would not stand alone.
+
+Appendix
+
+Gallery
+
+Appearances
+
+References
+
+---
+
+## Vhostym
+
+Vhostym, also called the Sojourner, was an ancient and extremely powerful githvyrik who possessed both arcane and psionic powers to call upon. As of 1370 DR, he had lived for over 10,000 years, bolstering his lifespan through the use of powerful magics. It was around this time that he came in conflict with Erevis Cale while trying to achieve his goal of creating the "Crown of Flame".
+
+Personality
+Vhostym worshiped no god or goddess, as he saw the gods as nothing compared to the utter randomness and vastness of the universe. The only order and predictability that the universe had to offer him was its perfect mathematics, which he used to bolster his spellcraft, making him near-unrivaled by any but the gods themselves. He resolved through his increase in power that the only law in the universe was that those who were weak should suffer the will of the powerful, and that morality, whether good or evil, was a fiction created by sentient beings to bring purpose to meaninglessness.
+
+Vhostym took no pleasure from the suffering of others, but did not hesitate to wipe out civilizations and worlds for his whims. He neither loved nor hated any being in a universe so unpredictable.
+
+History
+Early Life
+As a child, Vhostym stood on the surface of Toril only once beside his father. He stood under the "Crown of Flame" in his own corporeal body, and since then tried unsuccessfully to eliminate his skin's sensitivity to the sun. It was from this memory that he got the idea to harness the crown for his own ends.
+
+Vhostym went on in his youth to build and use his strength for his own desires, destroying entire worlds, slaughtering flights of dragons and thousands, perhaps millions of creatures.
+
+Disease and a Dream
+Vhostym contracted a disease that caused his body to decay. Through his magic, he was able to slow the process but remained unable to prevent it from slowly consuming him over a span of a few hundred years. Seeing his inevitable demise, he began to conceive of a plot where he could again walk on the surface in the daytime in his own physical body, without succumbing to the fatal sun sensitivity of his race that had been enhanced by his diseased condition. He started calling himself the Sojourner and began preparations to cast one of the greatest spells Toril would ever see.
+
+Slaadi
+Vhostym invaded the plane of Limbo and managed to steal a clutch of slaadi eggs, taking them to his own pocket plane. Here he infused the eggs with arcane energy, making them unique from the rest of their kind. He raised four green slaadi: Elura, Serrin, Dolgan, and Azriim. He promised them transformation to the more powerful gray slaad form in exchange for doing his bidding, so they became his willing servants in his plan to summon the Crown of Flame. After a series of clashes with Erevis Cale, the First Chosen of Mask; Drasek Riven, the Second Chosen of Mask; Jak Fleet, the cleric thief; and the psionic tiefling Magadon, the slaadi succeeded in gaining enough power for Vhostym to perform his spell. They obtained the Weave Tap from the Fane of Shadows, a temple dedicated to the goddess Shar, and Vhostym nurtured the seedling until it grew into a great plant by feeding it the substance of celestials and fiends. The slaadi also found and tapped into two ancient Netherese mantles, which were similar to the mythals created by the elves. These mantles were found in the underwater city of Sakkors, which was near Selgaunt in Sembia, and in the underground cavern city known as Skullport. This arcane energy went into the Weave Tap, and Vhostym was able to power up his spell. He rewarded the slaadi not only with transformation into gray slaadi, but went one step further and transformed them into death slaadi. However, Erevis Cale and his companions were able to kill all of the slaadi except for Azriim, who escaped the final battle and whose whereabouts remained unknown.
+
+Crown of Flame
+Vhostym completed his final and greatest spell, knowing he had only a matter of days before the disease ended his life. The spell took hold of one of the many asteroids orbiting the moon known as Selûne's Tears. He used its bulk to shield the rays of the sun from the wayrock, where he had placed a stolen temple of Cyric as the storage facility for his arcane power. Vhostym enjoyed his final moments on Toril's surface under his created eclipse (the Crown of Flame) and, knowing he was to die any minute, he put up no resistance when Erevis Cale crushed his body and destroyed him. With his death, the spell lost its hold on Selûne's Tear and caused it to crash into Toril's atmosphere. At that point, it shattered and fell in a rain of meteor fragments known as the Rain of Fire.
+
+Appendix
+Background
+In a non-canon post at Candlekeep, author Paul S. Kemp gave details about the githvyrik, considering them to be a member of a small but powerful offshoot of the gith sundering.
+
+Appearances
+Novels
+ Dawn of Night
+ Midnight's Mask
+
+References
+
+Sources
+
+---
+
+## Vhissilka
+
+Vhissilka was a marilith commander serving the balor lord Axithar.
+
+Description
+Vhissilka wore her hair in dull gray-brown braids. She wore a bronze cuirass and wielded two scimitars.
+
+History
+Vhissilka was a demon commander who claimed to have once been in command of 10,000 soldiers. In 1385 DR, she and her minions were engaged in the Blood War against devils in the Blood Rift. When Mystra was killed and the multiverse went awry, a "chunk" of the Blood Rift was ripped away from the main plane, trapping Vhissilka and soldiers from both sides. After Tauran, Aliisza, Kael, Kaanyr Vhok, and Zasian Menz accidentally arrived in that remnant, Vhok abandoned them and joined up with Vhissilka. Vhok and Vhissilka escaped and returned to the balor Axithar, who invaded the House of the Triad with the intelligence provided by Vhok.
+
+Appendix
+Appearances
+Novels
+The Empyrean Odyssey:
+ The Crystal Mountain
+
+References
+
+---
+
+## Vharem Kuthcutter
+
+Vharem Kuthcutter was a friend of Renaer Neverember.
+
+Description
+Vharem had an unkempt blond beard.
+
+History
+Vharem was recruited by his friend Renaer Neverember in 1479 DR to investigate the torture of Vajra Safahr, the seventh Blackstaff, in the cellars of Waterdeep. Vharem joined Renaer, Vajra, Laraelra Harsard, and Meloon Wardragon at Varadras, where they nursed Vajra, and was teleported with them to the Pellamcopse. When the group arrived in Waterdeep on Nightal 11, 1479 DR, Vharem died when he threw himself between enemies and Renaer in a successful attempt to save Renaer's life.
+
+Vharem was granted the posthumous honor of being a member of the (unnamed) group of heroes that Renaer decided to form at Roarke House to serve a similar function to that of the Moonstars.
+
+Skills
+Vharem wielded a short sword, which he borrowed from Neverember Manor.
+
+Appendix
+Appearances
+ Blackstaff Tower
+
+References
+
+---
+
+## Vhondryl
+
+Vhondryl was a female human psion living in Skullport in the 1360s and 1370s DR. One of the most powerful psionicists in the city, she was also one of the top two dealers in poisons and potions, the alleged proprietor of The Deepfires inn, and leader of the Hall of Mental Splendor group of mercenary psychic spies.
+
+Description
+Plain-featured and thin-framed, Vhondryl had an odd appearance that some described as alien or fey in aspect. Her skin was white as chalk and her eyes were yellow like straw, while she grew her blonde hair down to her knees. Few would consider her beautiful, but her appearance gave her an air of mystery.
+
+Personality
+Vhondryl was quiet to the point of being taciturn and she could be cryptic, traits that added to her mystique. Her approach to business was distinctly mercenary, and she was not one to cross, cheat, or threaten, lest she retaliate. Evil-minded but lawful, she was wise and charismatic. She was a passionate worshiper of Loviatar, the Maiden of Pain.
+
+Abilities
+Known to have magical powers, Vhondryl was in fact a formidable psionicist or psion, commanding great powers of the mind she termed "the Invisible Art". She was the most talented psionicist in Skullport, but by 1368 DR she hadn't managed to progress in her powers for over ten years.Vhondryl's inability to progress may have been due to the failure of psionics in the Realms and its removal from the 2-edition setting after the Time of Troubles in 1358 DR, ten years before, as mentioned in Forgotten Realms Adventures, page 6. Psionics would return to the setting however.
+
+As a gifted psionicist, around 1368 DR she knew the powers banishment, dimensional door, dimension walk, teleport, teleport other, teleport trigger, time shift, and time/space anchor of the psychoportation discipline; body control, cell adjustment, and energy containment of the psychometabolism discipline; contact, false sensory input, identity penetration, and psionic blast of the telepathy discipline but no sciences; and detonate of the psychokinetics discipline. She was capable of all psionic defense modes: mind blank, thought shield, mental barrier, tower of iron will, and intellect fortress.
+
+Possessions
+She wore bracers of defense and regularly kept a lavender-and-green ellipsoid ioun stone orbiting her head. On her right hand she usually wore a ring of shooting stars and on her left hand she wore a non-magical white gold ring set with a citrine, a peridot, and a topaz, with all three gems exquisitely cut. She typically wore a girdle of many pouches containing her various elixirs, poisons, and potions, as well as three ivory goat figurines of wondrous power.
+
+She also carried a scimitar.
+
+Activities
+Potion Dealing
+Vhondryl was one of the best potion dealers in the city, able to supply any kind of poison, potion, philter, pain-killer, or other strange beverage that could be found on Toril, as well as all known antidotes. She could supply such things on short notice, typically within a day. Her prices were stunningly high, but most customers thought them reasonable, given how rare some of her products were. Her only competitor in the Skullport potion trade was the illithid Shaun Taunador; they had the best reputations, the biggest stock, and the finest products.
+
+Nevertheless, Vhondryl maintained a low profile and only dealt through intermediaries and minions, whether to buy or sell. She only met customers or suppliers in person when a deal involved very rare, incredibly dangerous, or unusual or exotic goods. She believed that petty poisons and those who wanted them were simply not worth her time away from managing the Deepfires inn.
+
+The Deepfires
+Her best friend Raella Hiess gifted Vhondryl with permanent rooms at The Deepfires, an inn in Skullport, as well as easy access to its secret passages and the services of its bodyguards. Because of this, some believed Vhondryl was actually its secret owner, and she let them go on thinking she was proprietress of The Deepfires. She upheld this ruse on behalf of Raella Hiess, the true owner, who acted as an ordinary barmaid.
+
+The Hall of Mental Splendor
+By 1373 DR, Vhondryl also ran the Hall of Mental Splendor, a mercenary organization of psychic spies who conducted espionage for those who hired them, promising discretion. They worked for many of the feuding factions in Waterdeep, the city lying in the world above, but Vhondryl persisted in seeking clients and work outside both cities. She recognized that every job could create an enemy, and would rather keep them far away and not directly above.
+
+Relationships
+Vhondryl and Raella knew each other very well and were quite fond of one another. They'd been companions for a number of years, even saving each other's life on countless occasions. Raella granted Vhondryl permanent rooms at The Deepfires, and together upheld the ruse that Vhondryl was the owner and Raella the barmaid. They operated as partners; Raella was available at all times and arranged meetings between Vhondryl and her customers and clients. Vhondryl knew that Raella used the Deepfires as a means of gathering information for the Lords of Waterdeep and for sale to others, and kept her secret. Thanks to Raella, Vhondryl also knew that Raella's acquaintance Irusyl Eraneth worked for the Lords of Waterdeep too, and also kept this secret. Irusyl described Vhondryl to those who asked as "a powerful but vain and petty potion peddler".
+
+Vhondryl and Raella were two of the only four people with whom Shradin Mulophor shared his secrets. He trusted them enough to let his guard down and act normally with them. As a result, they were let in on some of the most amazing secrets of Skullport.
+
+History
+Vhondryl was living at the Deepfires and known to be Skullport's top potion and poison dealer by 1368 DR.
+
+In Eleasis of the Year of the Tankard, 1370 DR, a Waterdeep-based Calishite merchant named Sammereza Sulphontis was apparently negotiating trade alliances with Vhondryl and the House Tanor'Thal drow whilst staying at the Deepfires in Skullport. After Sammereza was bashed by thugs, he spoke about the incident to Vhondryl and Irusyl, vowing that the Synabbat family thought to be responsible would soon lose their grip on the River Sargauth gate.
+
+Around the beginning of Mirtul in the Year of Rogue Dragons, 1373 DR, a mission conducted by the Hall of Mental Splendor went very wrong and an argument over it erupted between Vhondryl and the doppelganger members. The doppelgangers quit, leaving the Hall without any shape-changing capacity. Vhondryl began looking for potential agents who could shape-change through magic such as polymorph or even just excellent skills at disguise.
+
+She remained as Skullport's top potion dealer and the nominal owner of the Deepfires through 1375 DR.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Vhyridaan the Mad
+
+Vhyridaan the Mad was a male half-elf mage who had his soul trapped inside a stone.
+
+History
+Exiled from Myth Drannor, Vhyridaan was self-taught in the ways of High Magic. He tried to store his knowledge in a kiira, but failed—the stone absorbed not only his knowledge but his body and soul completely, as well as the one magic item he had with him, a ring of spell turning. His soul remained trapped inside the stone thereafter, becoming the mantle stone of Vhyridaan, a unique ioun stone.
+
+After several owners, the mantle stone fell into the clutches of Aulmpiter, the nycaloth commander of the Army of Darkness during the Weeping War. At the Fall of Myth Drannor in 714 DR, during the Bane's Duel, Aulmpiter and Captain Fflar Starbrow Melruth dueled to the death. Vhyridaan and the mantle stone were presumed destroyed, either sundered by Fflar or in the explosion that annihilated both combatants.The mantle stone of Vhyridaan is statted for v.3.5 in Player's Guide to Faerûn, suggesting it survives to 1372 DR, but no lore is attached to tell of this. There is no mention of its sentience, however, implying Vhyridaan no longer survives.
+
+Powers
+Vhyridaan lived on as a sentient magical item in the mantle stone. He could communicate mind-to-mind when in contact with the stone's owner. He had no ego and no power to possess the owner, however. Thanks to this sentience, the stone actively avoided efforts to grab or attack it. Furthermore, if the stone hovered over an owner's spellbook as they studied and memorized their spells, then Vhyridaan could memorize these spells as well. However, he would almost certainly learn the same spells.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Vhaeraun's nightshield
+
+Vhaeraun's nightshield was an abjuration spell contained in the Obsul Ssussun and associated with the drow god Vhaeraun.
+
+Effects
+The spell created a protective aura that enhanced the physical resilience, reflexes, and willpower of the caster, and protected them from the magic missile spell in a manner similar to a brooch of shielding.
+
+Components
+Vhaeraun's nightshield used verbal and somatic components, and the divine version also required a divine focus like a holy symbol.
+
+Appendix
+References
+
+---
+
+## Vhaerath
+
+A vhaerath was a creature created by Vhaeraun from one of his petitioners. They were used by the deity as servants on Toril.
+
+Description
+A vhaerath always looked like a drow, with the difference of having a completely black body and equipment. A common vhaerath had basic skills with weapons.
+
+Abilities
+Petitioners of any deity lost all of their memories and skills in life and even some of their innate abilities, like the drow's innate magical abilities. Vhaeraths were different. While they didn't have the standard qualities of a petitioner of the Demonweb Pits, what they had were their memories of their lives, skills aquired over their lives and their innate abilities as drow. They also had some added abilities in stealth from Vhaeraun. They were good at hiding and sneaking, and their abilities to hide increased when they were in shadow.
+
+Magic
+A vhaerath could be intentionally called with the summon monster II spell by a person who was a divine caster of Vhaeraun who had read the notes about vhaeraths in the Obsul Ssussun.
+
+References
+
+---
+
+## Vhaemas Homurr
+
+Vhaemas was the merfolk king of Eadraal in Myth Nantar.
+
+History
+Born in 1302 DR, Vhaemas ruled for 35 years of peace until the start of the Twelfth Serôs War when Prince Vhaemas the Bastard allied with Iakhovas.
+
+However, Iakhovas at last attacked Eadraal and King Vhaemas was forced to meet his son Vhaemas the Bastard in the battle. However, the two merfolk reconciled and together attacked Iakhovas, also helped by Princess Jian. They managed to destroy Iakhovas's trident but the monster killed the two younger merfolk and injured King Vhaemas.
+
+Vhaemas remained conscious long enough to order his people to retreat toward Myth Nantar and after choosing his son Mirol as heir ordered him to join the Nantarn Alliance and stop Iakhovas.
+
+After arriving in Myth Nantar, he slipped into a coma and remained unconscious with few signs of awakening.
+
+Appendix
+References
+
+---
+
+## Vhaemas the Bastard
+
+Vhaemas the Bastard was a renegade merfolk king during the Twelfth Serôs War.
+
+History
+Vhaemas was born in 1320 DR to King Vhaemas and a merwoman of the outcast Kamaar clan. Abandoned by his father, he came to hate him.
+
+In Thuridru, he married twice, producing five children ready to fight against those merfolk who banished them.
+
+At the start of the Twelfth Serôs War, Vhaemas the Bastard allied with Iakhovas in order to conquer the ixitxachitl of the Xedran Reefs. However, Iakhovas attacked Eadraal and Vhaemas the Bastard was forced to meet King Vhaemas in battle. However, the two merfolk reconciled and attacked Iakhovas together, also helped by Princess Jian. They managed to destroy Iakhovas's trident but the monster killed the two younger merfolk and injured king Vhaemas.
+
+Personality
+Vhaemas was always filled with hate. He grew into an angry and bitter individual.
+
+Appendix
+References
+
+---
+
+## Vhazror
+
+Vhazror was an orc champion of Gruumsh in Thar in 1374 DR.
+
+History
+In 1374 DR, Vhazror was with the ogre Krog and ten orc warriors in the throne room of the Xûl-Jarak citadel waiting for the arrive of the orog warlord Thrull, while drinking Blood of Gruumsh wine.
+
+Relationship
+Vhazror had promised to follow Thrull until death. He had a wyvern mount called Dregthaug.
+
+Appendix
+
+References
+
+---
+
+## Vhalak
+
+Vhalak was a doppelganger in the employ of Nezznar, the Black Spider.
+
+Description
+A servant of the Black Spider, Vhalak often took the form of a drow male, who supervised others.
+
+History
+In 1491 DR, he supervised the bugbears that were clearing the floor of a collapsed cavern in the north of Wave Echo Cave. If a fight broke out between those he was supervising, he planned to fight on their behalf. However, if he was sorely outnumbered, he would attempt to warn the Black Spider of the intruders.
+
+Appendix
+Notes
+
+Appearances
+Adventures
+Lost Mine of Phandelver
+References
+
+---
+
+## Vhailor's helm
+
+Vhailor's helm was the helmet that was worn by Vhailor, one of the Mercykillers of Sigil.
+
+Powers
+The helm granted the wearer the ability to create an illusory copy of their person once per day.
+
+History
+Some time before the, Vhailor's helm wound up on the planet of Toril. It came into possession of the merchant Deidre, who sold her wares in the Amnian city of Athkatla.
+
+Appendix
+Appearances
+Video Games
+''Baldur's Gate II: Shadows of Amn
+External Links
+
+References
+
+---
+
+## Vhloar
+
+Vhloar was the second king of the sahuagin kingdom of Aleaxtis.
+
+History
+In the year, Vhloar succeeded the first king of Aleaxtis, T'Raam. His reign would go on for over 468 years, lasting until the year .
+
+Under his reign, the kingdom of Aleaxtis engaged in a century long war with the merrow that inhabited the same body of water as them, the Alamber Sea. The war finally came to an end in . Having won against the merrow, Vhoal claimed more than half of the Alamber Sea for Aleaxtis.
+
+Appendix
+References
+
+---
+
+## Vhal
+
+Vhal was a scholar that operated out of the library fortress of Candlekeep on the Sword Coast region of Faerûn.
+
+Activities
+Vhal focused her efforts on the research aspect of academia.
+
+Abilities
+In addition to role as a researcher, Vhal was also an accomplished wizard.
+
+Appendix
+Appearances
+Card Games
+ Commander Legends: Battle for Baldur's Gate
+References
+
+---
+
+## Vhezoar Street
+
+Vhezoar Street was a road that was located in the city of Waterdeep.
+
+Location
+Vhezoar Street was located in the central section of Waterdeep's North Ward. The road ran north to south in between Delzorin Street to the north and Tarnath Street to the south. Other roads intersecting Vhezoar Street included Hassantyr's Street, Sulmor Street, the Street of the Manticore, and Stabbed Sailor Alley.
+
+Notable Locations
+ Ulbrinter Villa
+ Maerklos Villa
+ Durinbold Villa
+ Estelmer Villa
+ Thorp Villa
+
+Appendix
+References
+
+---
+
+## Vhonna Deepdell
+
+Vhonna Deepdell was a paladin of Torm inhabiting the city of Waterdeep during the mid-to-late 14 century DR.
+
+Description
+She was incredibly strong.
+
+Activities
+Upon completion of her training as a paladin in the, Vhonna formed the Knights of the Sword Coast with her friend Barkess Lanys. They were dedicated to eradicting evil found along their path. She disbanded the Knights of the Sword Coast fifteen years later upon becoming pregnant from a budding relationship with Travis Deepdell whom she married.
+
+Following her return to Waterdeep to raise her family, Vhonna spent her time as an instructor at the Field of Triumph and at Helm's Hall.
+
+History
+Vhonna was an orphan in Luskan who never knew her parents. One of her earliest memories was being rescued by a large armored man who bore the symbol of Torm. Ever since that day she devoted her life to serving justice. Following her rescure, Vhonna was raised by an aunt of the paladin Jherem Tamn, who was a close friend of Lord Piergeiron Paladinson.
+
+Possessions
+She wore a suit of enchanted plate armor and wielded a flame tongue bastard sword.
+
+Rumors & Legends
+A bounty of 4,000 gp was placed on her head by the Shadow Thieves of Amn.
+
+Appendix
+References
+
+---
+
+## Vhaltus
+
+Vhaltus was a professional bodyguard who operated in the city of Baldur's Gate during the late 15 century DR.
+
+Description
+Vhaltus had red hair that they kept in a ponytail. Vhaltus' eyes looked as if the thug were continually sleepy.
+
+Relationships
+Vhaltus worked as a guard for Amrik Vanthampur of the noble Baldurian Vanthampur family. Vhaltus always carried a satchel of over 100 gp, which Amrik utilized whenever he thought his life was imperiled.
+
+Activities
+Along with their noble-born patron, Vhaltus frequented the Low Lantern tavern in the Lower City of Baldur's Gate.
+
+Appendix
+Appearances
+Adventures
+Baldur's Gate: Descent into Avernus
+
+References
+
+---
+
+## Vhaerikho Lhlandast
+
+Vhaerikho Lhlandast was a bootmaker from the town of Hultail in Cormyr, active in the late 15 century DR.
+
+Description
+Vhaerikho was a dandy halfling who possessed the skill to make deadly-accurate imitations of other prestigious shoemakers' work, aided by a group of gnomes from his workshop.
+
+History
+By the late 15 century DR, Vhaerikho Lhlandast had fled his home in Saerloon, a city in Sembia, accompanied by his gnomish crew. They allegedly fled from a scandal or some other trouble, but none were willing to discuss their mysterious past. Together, they settled in Hultail, producing footwear that rivaled the most exquisite shoe shops in the cities of Faerûn. They could produce and weather a new boot over a tenday such that it perfectly paired the surviving boot.
+
+Appendix
+References
+
+---
+
+## Vhailor
+
+Vhailor was a Mercykiller fighter whose determination to deliver justice to his betrayer allowed his soul to escape death.
+
+Description
+After untold years of magical imprisonment, all that remained of Vhailor was his armor and great axe, all covered in dents and rust. The red, piercing eyes glowing bright red from within his helmet were the only indicator that the armor actually held a soul within it.
+
+Personality
+Vhailor was the embodiment of Mercykiller ideals and values. He was zealous, relentless, and merciless and would go to any length to deliver a sentence for wrongdoings committed in all the planes, which was his life's calling. His belief in the power of Justice (which he viewed as a tangible source of power) was so strong that it allowed his soul to go past the weakness of his body and merge with the armor of his faction.
+
+History
+
+Sometime while performing his Mercykiller duties, he was chasing a criminal across the planes, who turned out to be the Practical Incarnation of the Nameless One. Vhailor managed to corner him in an underground prison beneath the city of Curst, where his target appeared to surrender. This was a trap however, as he ended up being magically imprisoned within one of the dungeon's cells. But the zeal for justice and determination to complete his mission within Vhailor was so strong that, despite even his body rotting and withering away within his armor, his soul remained, awaiting to be awakened and continue his mission.
+
+In a surprising turn of events, a later incarnation of the Nameless One was the one who reawakened and freed Vhailor. On top of this, the Nameless One actually managed to convince him to join him in his quest to regain his mortality. Sometime before  while assisting him, Vhailor was ultimately defeated. Following this, Vhailor's helm ended up in the stock of an Athkatlan merchant named Deidre via unknown means.
+
+Appendix
+Behind the Scenes
+In the Planescape: Torment game, Vhailor is voiced by actor Keith David.
+
+Gallery
+
+Appearances
+
+External Links
+
+ Vhailor article at the Torment Wiki, a wiki for the Planescape: Torment game.
+
+References
+
+---
+
+## Vharranne
+
+Vharranne was a ranger and thug from the city of Baldur's Gate in the late 15 century DR.
+
+Description
+Vharranne was a human woman with a light skin tone, light brown eyes and long blonde hair. She wore a simple set of leathers and armed herself with a dagger and a longbow.
+
+History
+In the, Vharranne was a member of a gang assembled by Churg Elvek, secretly a cultist of the Absolute, who sought to strengthen its grasp of Baldur's Gate. When the famed writer Volothamp Geddarm returned to the Gate after misadventures in the Emerald Grove and coming face-to-face with the Absolute's army, Volo became a target for Churg and his gang. The master traveler was captured by Vharranne and the rest of the thugs and tied to a stack of smokepowder barrels, ready to be "brought to justice" for being an alleged agent of the Absolute at the hands of the gang and street gawkers. When a band known as the Absolute Adversaries interrupted the street execution, Vharranne, Churg Elvek, and the rest of the gang attacked the adventurers but were defeated.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+

@@ -4,6 +4,240 @@ _Source: forgottenrealms.fandom.com, CC-BY-SA 3.0, dump 2025-10-22._
 
 ---
 
+## Dweomerheart
+
+Dweomerheart was a Celestial plane in the World Tree cosmology model and was also the name of the scintillating city that was the realm of Mystra here in the World Tree model and on the plane of Elysium in the Great Wheel model. The other deities of magic, Azuth, Savras, and Velsharoon, also made their homes on this plane not far from Mystra's domain.
+
+Dweomerheart was destroyed in a cataclysmic explosion in the Year of Blue Fire, 1385 DR, after Cyric assassinated Mystra causing the Spellplague. Though the deities of Dweomerheart largely perished, most of the faithful of Mystra, Azuth, and the other gods dwelling there were transported safely to the Fugue Plane where they were restored and re-assigned, many of them ending up either in Towers of Night, Gates of the Moon, or Kelemvor's own City of Judgment.
+
+Description
+This plane was mostly uninhabited mountain ranges, teeming with wildlife,This is based on the description of the previous home of Dweomerheart—the second layer of Elysium called Eronia. with no known portals to the other planes of existence. The only way to access this plane other than traveling through the Astral was via branches of the World Tree itself, which connected to other Celestial planes.
+
+The domains of the deities residing on this plane all occupied a single mountain with a flat top which was adorned with Mystra's shining city of magic, Dweomerheart. Dedicated to the appreciation and study of magic, especially to the creation of new magic, the city was the ultimate university for the Art. The city itself was the quintessence of alteration, powered by conjuration through evocation, all wrapped in illusions that changed daily. It was a high honor to be asked to exercise one's creativity in casting the glamors and redecorating the city for a day.
+
+The domains of Azuth, Savras, and Velsharoon were all sets of caverns and caves beneath the high plateau.
+
+Inhabitants
+Apart from the petitioners and the usual angels that served their deities, the only known inhabitants of this plane were the mysterious mercane looking for trading opportunities, and the inevitables: lawfulEven though Mystra (Midnight) was neutral good, her predecessor Mystra was lawful neutral and may have been the creator of the inevitables. constructs created to enforce the fundamental laws of the multiverse.
+
+Realms
+ Azuth, the High One, Patron of Mages, Lord of Spells, moved from Arcadia to this plane, according to the World Tree cosmology model. He took up residence in a warren of caves beneath the plateau holding the city of Dweomerheart. The eponymously named cavernous city was a club, classroom, and crucible for any who wanted to learn what it took to be a wizard.
+
+ Mystra, the Lady of Mysteries and Mother of all Magic, made her realm the beautiful city of Dweomerheart and placed it on a high plateau on the very mountainous second layer (Eronia) of Elysium, according to the Great Wheel cosmology model. When the World Tree cosmology model superseded the older model, this became its own plane named after the divine realm.
+
+ Savras, the Diviner, the All-Seeing, He of the Third Eye, located his demesne next to the city-caves of Azuth. His caverns, known collectively as The Eye, were not as grand as the High One's, but contained the god's myriad thoughts which echoed off the walls in a mental cacophony of past, present, and future knowledge. This realm was similar to Ilsensine's Caverns of Thought, but in The Eye, an oracle with a keen mind had a much better chance to glean useful information from the throng without risking madness.
+
+ Velsharoon, Lord of the Forgotten Crypt, the Vaunted, the Archmage of Necromancy, had a realm called Death's Embrace deep below the domains of his fellow deities. As the center of necromancy for the entire multiverse, it had all the charm and grace of your typical crypt.
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Dwarf domain
+
+The Dwarf domain was a deity domain that granted divine spellcasters like clerics with spells and powers useful to dwarves.
+
+Deities
+
+Powers
+For a spellcaster with this domain, their body's fortitude increased.
+
+Spells
+Novice spellcasters were able to use the magic weapon, endurance, and glyph of warding spells. Clerics of some experience could cast greater magic weapon, fabricate, and stone tell. Those that were masters of this domain had access to dictum, protection from spells, and earth elemental swarm.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Dwarven defender
+
+The path of the dwarven defender, or dwarven hero, was a highly trained and specialized martial tradition that was available to dwarves. These individuals took pride from the noble history of their race and their constant vigilance against exterior threats such as giants or goblinoids, which they hoped to match in spirit as well as form.
+
+Culture
+Common dwarven soldiers were known for their martial vigilance and brotherhood, with many war stories telling of how any one dwarf was worth two fighters of any other race. Dwarven defenders took this reputed strength and loyalty to new heights. They were masters of the dwarven fighting traditions as well as devoted protectors of the continued prosperity of their brethren. Trained particularly in defensive techniques, these hardy warriors held the line in battle, even as they broke through the ranks of their enemies.
+
+Many dwarves who were devoted to Berronar Truesilver, Moradin, Gorm Gulthyn, or those who were otherwise charged with protecting their clanholds usually took the path of the dwarven defender. Any one of those individuals could help make a dwarven defensive line almost impenetrable.
+
+Abilities
+Dwarven defenders were skilled in many ways, but the emphasis of their training lay with defense rather than offense. All dwarven defenders were extremely skilled at deflecting blows with their armor or shields, as well as enduring through any blows that managed get through. More than a few of their ranks also learned also how to dodge those attacks they can neither deflect nor tolerate.
+
+Dwarven defenders were not meant to operate on their own and their defensive capabilities were specialized to best work with allies, whom they defend great effectiveness. Even more so than other dwarves, dwarven defenders were unmovable forces of martial might.
+
+Dwarven defenders learned several exploits, all of which were focused on fighting set piece battles where the lines of combat were clear and well-defined. In such circumstances dwarven defenders were not only mighty warriors, but beacons of hope who instilled courage within their allies.
+
+Though their primary role is defense, dwarven defenders also learn to break the enemy's lines, knowing that any good defense has an offensive portion to it. A particularly advanced technique, keystone collapse, allows dwarven defenders to turn their attacks into heavy blows which use the weight of an enemy to knock over even more foes.
+
+Though not all, many dwarven defenders did have some training in detecting traps, much like a rogue or barbarian might. They more proficient at avoiding traps than most fighters.
+
+Notable Dwarven Defenders
+ Corthold Flameaxe, one of the "Dwarves of the Ring" of the House of the Axe.
+ King Harbromm, ruler of Citadel Adbar.
+ Mariochar Bladebeard, Lord Scepter of Eartheart.
+
+Appendix
+See Also
+ Eartheart defender
+References
+
+---
+
+## Dwarfhome
+
+Dwarfhome was a lawful good-aligned astral dominion, home to the dwarf god Moradin and his wife, the goddess Berronar Truesilver. Located on Mount Celestia, on its fourth layer Solania, it was the home of the dwarven pantheon.
+
+Description
+Moradin made his domain, along with his wife Berronar and the other dwarven deities, in a vast dwarven mansion called Erackinor located on the slopes of Solania. Here existed the giant Soul Forges, which Moradin was said to use to temper the spirits of his people.
+
+Appendix
+
+Appearances
+Novels
+The Companions
+
+Lies of Light • Gauntlgrym • The Last Threshold • The Gilded Rune • Night of the Hunter • Vengeance of the Iron Dwarf
+References
+
+Connections
+
+---
+
+## Dweomerkeeper
+
+Dweomerkeepers were the specialty priests who dedicated themselves to the various iterations of the Goddess of Magic, including the ancient Mystryl and both incarnations of Mystra. Over the centuries they served the Lady of Mysteries by tending to the Weave and protecting it against those who sought to warp its cohesion.
+
+Culture
+These Mystran spellcasters were found all across the Realms and lived a wide range of lifestyles, from cloistered scholars who remained in isolation to cosmopolitan wizards who preferred Faerûn's great metropolises.
+
+Dweomerkeepers formed a powerful connections with the Weave but were forbidden from tapping into the Shadow Weave.
+
+Abilities
+Both in ancient Netheril and contemporary times, Dweomerkeepers were granted great boons by their goddess. They gained inherent protections from all forms of magic and their spells functioned normally in  dead-magic zones or areas affected by wild magic. They could readily read scrolls and spellbooks and gained the ability to detect and dispel magic once per day.
+
+As they progressed in their training Dweomerkeepers of Mystryl learned to mimic metamagical effects and cast spells quicker than other priests. They were granted access to a limited selection of arcane spells and given the ability to walk upon air once every day if they so wished.
+
+The most powerful dweomerkeepers gained protections against magic. They became significantly resistant to all manner of magical spells and were invulnerable to three specific spells of their choosing.
+
+Dweomerkeepers who served the aspect of Mystra were granted different boons than the protectors of the Weave that came before them. They were granted improved sight in form of darkvision and allowed to cast one of Mystra's signature spells, Mystra's lingering touch.
+
+More experienced dweomerkeepers were allowed to maintain personal spell mantles, such as those maintained by mages and other arcane spellcasters. The most powerful among their ranks were wrapped in a unique mantle, referred to as a "cloak of mysteries", which allowed them to more readily tap into metamagic abiltiies when casting their spells.
+
+History
+The dweomerkeepers were one of the longest-serving orders of specialty priests, having served their goddess for millennia.
+
+Notable Dweomerkeepers
+ Chester D'Marke, Lord of Mystery at the Halls of Mystery in Ravens Bluff.
+
+Appendix
+References
+
+---
+
+## Dwiergus
+
+Dwiergus was a truly ancient demon lord known as The Chrysalis Prince, at least as old as Pale Night. He held dominion over the shaping of demonic races, and was once a tutor of Baphomet.
+
+Realm
+Dwiergus's realm was known as the Flesh Forges, and was the 558 layer of the Abyss.
+
+Description
+Dwiergus was a large, formless mass of demonic flesh whose features were constantly forming and liquifying. During battle, he occasionally wore suits of chitinous armour.
+
+Appendix
+
+References
+
+---
+
+## Dwahvel Tiggerwillies
+
+Dwahvel Tiggerwillies was a halfling woman and the guildmistress of a halfling guild based in Calimport in Calimshan and the proprietor of the Copper Ante. She did not entertain many who were not halflings.
+
+Relationships
+She was a cousin of Dondon Tiggerwillies.
+
+Artemis Entreri considered her a friend (his first real friend) and spoke openly with her, sharing opinions and thoughts that he shared with nobody else.
+
+Activities
+She was very good at procuring information, and was used frequently for this purpose by Artemis.
+
+History
+She informed Artemis about his situation when he was "kelp-enwalled", and when Merle Pariso, a battle mage from the Basadoni Guild, sought to kill him.
+
+She helped Artemis with his plan to escape from Calimport by obtaining information about Cadderly Bonaduce, feeding misinformation to Sharlotta Vespers, and by procuring a copy of the Crenshinibon.
+
+Appendix
+
+Appearances
+
+References
+
+---
+
+## Dwarvish
+
+Dwarvish or Dwarven was the name for a family of languages used by dwarves. The dwarves called their own language Dethek, but most other races used that term to refer to the runic alphabet in which the language was written.
+
+Although the language in its pure form and exclusive vocabulary had fallen somewhat in disuse by the mid‒14 century DR, Dwarvish was still found all over Faerûn inscribed into weapons, buildings and mystical items.
+
+The language followed dwarves all over Faerûn and beyond, making it an extremely widespread language. Communities and races that had been separated for some time evolved their own dialects.
+
+History
+Originating from the ancient Elder language, Dwarvish saw many incarnations and variations.
+
+Although once a strong and exclusive language, actual Dwarvish words only made up a fraction of the words used by dwarves by the mid‒14 century DR. Many dwarves tended to speak common mixed with Dwarvish words. Dwarven record-keepers and historians were among the few left that could speak whole verses in pure Dwarvish.
+
+Dialects
+Being such an old language, Dwarvish had been subject to various changes over the generations and had spawned numerous dialects. All of these dialects employed Dethek as their written alphabet.
+
+Kurit
+This dialect was used by arctic dwarves. The language was strongly influenced by Uluik, the language spoken by human colonies in the nearby Great Glacier.
+
+Riftspeak
+The dialect of the gold dwarves, Riftspeak was one of the oldest dialects and had barely changed in over 10,000 years. This was probably due to the great care gold dwarves took in learning languages. Gold dwarves were one of the most literate races of dwarves in Faerûn.
+
+Duergan
+Duergan originated from Shanatan, the dialect of the shield dwarves. Since the split, Duergan had changed dramatically, leaving it as one of the most altered Dwarvish dialects. The drow and illithid influences in this dialect were hard to ignore, having altered its vocabulary and grammatical structure.
+
+Shanatan
+Used by western shield dwarves, this dialect could be traced back as far as the founding of Shanatar around
+
+Urdunnir dwarves used an older version of Shanatan, that more closely resembled the language in its early years.
+
+Galenan
+Eastern shield dwarves used a different dialect to their western cousins. Galenan was a form of Dwarvish strongly influenced by the human dialect Damaran.
+
+Authalan
+Wild dwarves used an ancient and simplified version of the Riftspeak dialect. Authalan also had noticeable Tashalan and Chultan influences. Literate wild dwarves were extremely rare.
+
+Writing System
+
+All Dwarvish languages used a runic script known as Dethek. Dethek runes were rarely written on paper or cloth due to the short life and fragile nature of such materials. Runes were usually carved or scraped into stone or metal, be it the walls of a building, the blade of a sword, or the walls of a cave.
+
+Alphabet
+The Dethek runic alphabet consisted of 24 characters. This was because w, x and z were represented by the same character.
+
+Appendix
+See Also
+Dwarvish dictionary
+
+Further Reading
+
+References
+
+Connections
+
+es:Dethek (lengua)
+
+---
+
 ## Dwarves Deep
 
 Dwarves Deep is a 2-edition Advanced Dungeons & Dragons accessory for the Forgotten Realms.
@@ -73,6 +307,58 @@ Background
 In Polyhedron #75 "The Everwinking Eye", two erratas regarding this book are noted. The first is that the foldout color map insert misspells Rimmator as "Rimmato". The second errata was that on page 5 the text discussing mithral should read, "...to create an extremely hard and durable alloy known as adamantine."
 
 External Links
+
+References
+
+---
+
+## Dwarven waraxe
+
+The dwarven waraxe was a type of axe unique to the dwarven people and was thus considered by other races to be among the more unusual weapons utilized by them.
+
+Description
+The dwarven waraxe was a single-bladed axe, larger and heavier than a battleaxe, but less so than the double-bladed greataxe. The average dwarven waraxe weighed around .
+
+Weaponology
+It required special training to use a dwarven waraxe one-handed, due to its size.
+
+Notable Dwarven Waraxes
+ Blood Frenzy, a dwarven waraxe that was enchanted to be especially effective against orcs.
+ Drowhunter, an enchanted dwarven waraxe made especially to slay drow.
+ Dwarven bloodstone blade, enchanted dwarven waraxes that were decorated with bloodstones.
+ Prison break
+
+Notable Users
+Groups
+ The dwarves created by the deepspawn Hukurus typically wielded dwarven waraxes against their enemies.
+Individuals
+ Dorn Crownshield, a dwarven mercenary in Melvaunt.
+ Drusulai, a half-celestial dwarven paladin of Moradin, wielded a dwarven waraxe that was blessed by Pistis Sophia.
+ Glynt Axefist, a gold dwarf mercenary, wielded a masterwork dwarven waraxe.
+ Gyudd, a dwarven distiller in Skullport, carried around a dwarven waraxe.
+ Gwendar Dolmenward, a gold dwarf mercenary, wielded a masterwork dwarven waraxe.
+ Harbromm, the King of Citadel Adbar, carried a dwarven waraxe enchanted with a +3 flaming burst enchantment.
+
+Races & Sentient Creatures
+ Among the dwarves subraces of Toril the dwarven waraxe was typically utilized by gold dwarves, shield dwarves, and urdunnirin.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Dwarves' Deep (settlement)
+
+Dwarves' Deep, or simply "the Deep", was a subterranean dwarven realm somewhere in the Underdark beneath Faerûn, far distant from the Dalelands. It lay along the Long Road, a thousands-of-miles-long tunnel under the Sea of Fallen Stars.The exact location of Dwarves' Deep is unknown. Although it shares a name with the sourcebook Dwarves Deep, it is not mentioned there. Volo's Guide to the Dalelands, page 192, has the dwarves of Glen trade with Dwarves' Deep via the Long Road, but the Forgotten Realms Campaign Setting 3rd edition, page 135, has them trade with the Great Rift, also via the Long Road. This change suggests Dwarves Deep is or is a part of the Great Rift, or else that trade had been extended from Dwarves' Deep to the Great Rift.
+
+Circa 1370 DR, the dwarves of Glen in Mistledale traded their produce to Dwarves' Deep via the Long Road, as well as to the Great Rift and other dwarf settlements on the route.
+
+It was once home to Forgemaster Inkstain and his kin, before he left for the city of Procampur in the Vast. He organized for a printing press to be shipped up from the Deep, which he used for a printing business he ran in the city by 1362 DR.
+
+Appendix
+Notes
 
 References
 
@@ -214,6 +500,112 @@ Zzander "adventurer", "rogue", "foolish youth", "happy-go-lucky", or "reckless b
 References
 
 es:Diccionario Enano
+
+---
+
+## Dwarnid Inkpeddler
+
+Dwarnid Inkpeddler was a dwarf tattooer in Skullport. He was the owner of Skin-Deep Tattoos in the Lower Port.
+
+History
+In his youth, Dwarnid was the personal slave of Zulkir Druxus Rhym. Noticing his latent talent in painting, Druxus encouraged the young dwarf and soon Dwarnid flourished. At this point, Druxus taught him the arts of the tattoo. Dwarnid in time became the most talented tattooer in Thay, creating wonderful artworks. Finally, he decided to escape and go to Skullport, which Dwarnid knew was too far for Druxus's agents. Here, he opened a tattoo shop and became famous in the city.
+
+Appendix
+References
+
+---
+
+## Dwalimar Omen
+
+Dwalimar Omen was the captain of the Halruaan caravel Realms Master in 1370 DR.
+
+History
+Dwalimar hailed from Halruaa. In one of the adventures he undertook for the Netyarch, he was sent to acquire the Astrolabe of Nimbral for his nation. While the mission was a success, his human companion was killed, and he only managed to save his dwarven friend Minder by placing her soul in a golem.
+
+Years later, the Netyarch Zalathorm Kirkson gave Omen the mission of finding and destroying dangerously powerful artifacts using the Astrolabe. On the journey, he gathered a set of companions, including Minder the golem, Foxilon Cardluck the halfling, the humans Priam Agrivar from the north and Ishi Barasume from the east and the elf Vartan Hai Sylvar.
+
+At the start of the Time of Troubles, Vartan was chosen as a vessel for his god, who immediately commandeered the Realms Master, in order to attack Helm and return to the heavens. The crew managed to defeat him and cast him into the Demiplane of Fear, where Dwalimar kept all his most dangerous artifacts, but not before it was too late to change course, and the ship was destroyed by Helm.
+
+The loss of the ship took a heavy toll on Dwalimar's mental state, not helped by the destruction of Minder and changing of the rules of magic following the Time of Troubles and Mystra's ascension to godhood. While the crew were stuck in a desert, Dwalimar spent all of his time poring over his spell book trying to relearn everything, often remarking on changes (particularly that magic missile was less effective).
+
+At one point, Omen contracted a curse that was slowly killing him. He was in constant pain from it, often made worse after he exerted himself, such as using his magic in battle. Initially Minder was the only one of his crew who was aware of the curse.
+
+Personality
+
+Omen had a hot temper and a huge ego but was a fatherly figure for his crew. Omen used to be pompous and stern to impress people and charming when he wanted something. His disease could leave him very moody due to the constant pain he was in. However, a difficult task would galvanize Omen and he would forget his condition for a time. Omen first and foremost thought about protecting people from those that abused their power.
+
+Appendix
+References
+
+---
+
+## Dwarfbane
+
+Dwarfbane was a poison that was especially effective against dwarves.
+
+Description
+Dwarfbane was gummy in its consistency. It did not dry out but it did lose its potency after approximately thirty days.
+
+Uses
+The duergar of the Underdark often coated darts and other weapons with this poison for the use in traps.
+
+History
+Though the duergar were completely immune to the poison, dwarfbane was lethal to all other dwarves.
+
+Dwafbane was one of sixteen formulas for poisons recorded in the book known as The Nathlum. It was thought that the formulas were originally written down by the mage, Lethchauntos the Black, during his time spent with an orc tribe. Some of these same formulas were copied from the book by the mage, Phrandjas of Port Llast and sold to local alchemists.
+
+Appendix
+References
+
+---
+
+## Dweomered door
+
+A dweomered door was a term used to describe one of many types of magical doorways.
+
+Description
+These doors often came in odd shapes and sizes, and were masterfully crafted from exotic woods and materials. Other times a dweomered door was simple and plain in appearance, perhaps to disguise the treasures that were found behind.
+
+Use
+Dweomered doors were often used as a deterrent against potential thieves from reaching treasure caches or other valuables. On the other hand, they could simply be placed as a punishment for overly curious explorers. For example, the animating door would animate any corpse that was brought through its threshold, while the door of beasts, when opened, would burst open and release several monsters.
+
+These unique passageways often, especially in the former instance, had additional locks and traps, both mechanical and magical attached to them.
+
+These magical doors were widely used in the Shining South, especially Halruaa where they were often installed in wizard sanctums.
+
+Known Dweomered Doors
+ Animating door
+ Holding door
+ Door of beasts
+ Door of derangement
+ Door of mirrors
+ Door of negation
+ Door of visions
+ Silencing door
+
+Appendix
+References
+
+---
+
+## Dweomerflow
+
+Dweomerflow was an alteration spell used in the creation of magical items.
+
+Effects
+This spell had two different effects, depending on the caster's target:
+
+If dweomerflow was cast on a wizard or mage, it caused the next spell they cast to have no effect and rather flow into a prepared item, set as a magical receptacle. Examples of these included focal stones, crystal balls, artifacts or magical devices that required recharging. It created a resonating field between the caster and the item, allowing the magic to flow from one to the other.
+
+If the spell was cast on an item, it allowed the caster to share charges or stored spells from that item to another, using their own body as a conduit. The caster was required to have physical contact between both items during this process.
+
+Divine Use
+A fountain of holy water, consecrated altar or similar divine site could store a dozen or so spells that had been accompanied by a casting of dweomerflow. They could then have been gradually released by someone of the same faith to which the site was sanctified. More powerful spells required a casting of abeyance in addition to dweomerflow.
+
+Many holy sites scattered across Faerûn were well-protected by powerful offensive spells that were released if they were intruded upon by the faithless. This magic was often stored within a holy symbol that was doubtlessly present at the divine location. To bypass these spell effects, a cold iron tool could be used to remove the symbol, circumventing the effects of dweomerflow.
+
+Appendix
+References
 
 ---
 
@@ -368,6 +760,267 @@ uk:Дворф
 
 ---
 
+## Dwarven citadel
+
+Dwarven citadels were asteroids that had been converted into spelljamming vessels and bases. They were powered by large forges operated by dwarves.
+
+Description
+More than mere vessels, citadels were also bases and homes to the dwarves inhabiting them. They were equipped with a different kind of spelljamming helm known as forges, which were powered by the mining activities of its inhabitants as they explored minerals within the asteroid itself.
+
+Capable of moving citadels up to 700 tons in size, forges provided energy for spelljamming and produced about 10,000 gp worth of dwarven items per month. A typical citadel was capable of providing ores and prime materials for a limited amount of time, depending on its size. A 300-ton citadel, the smallest variant, could last between 6 and 24 years.
+
+After having been depleted of its resources, a citadel was emptied by its inhabitants and the whole clan, along with the forge, was transferred to a new asteroid. Abandoned citadels typically became lairs of monsters or pirates. They also tended to attract adventurers in search of treasure that might have been left behind.
+
+Most of the living space within a citadel was occupied by the forge. All its inhabitants worked the mines constantly and were organized in the same hierarchical structure as land-dwelling dwarf communities: the captain was called "king under the mountain", the command crew was called the "shining council", and so on. Kings were friendly and respectful towards other spacefaring dwarven clans, always happy to celebrate their encounters in space and to compare travel notes and genealogical records.
+
+Most citadels were living ships, home to their inhabitants and dedicated to exploration or trade, according to their populations' wishes. However, some citadels, known as jihad ships, were dedicated to waging war against sworn enemies of the dwarven race. Such crusades were declared by a council of representatives of several dwarven pantheons. Planets and ships belonging to their enemies were attacked on sight relentlessly.
+
+Large citadels were hard and difficult to maintain and for that reason were quite rare. Even larger citadels existed, of over 700 tons. However, those bases could not achieve spelljamming speeds  and were most frequently used as stationary or orbiting bases.
+
+History
+By the mid-14 century DR, the neogi were the sworn enemies of dwarves in space and were targeted on sight by jihad citadels.
+
+At least two of the Tears of Selûne were in fact large dwarven citadels orbiting Toril. One, known simply as the Citadel, was the main hub for Torilian dwarves traveling into Realmspace. The other, called Whitestone, was inhabited by a group of mountain dwarves known as the Whitebeards, who mined Mount Hotenow during the winter. By the mid-14 century DR, the dwarves were led by King Gundulph Whitebeard VII.
+
+Appendix
+Gallery
+
+Appearances
+
+External Links
+ Dwarven citadel article at the Spelljammer Wiki.
+References
+
+---
+
+## Dweomercore
+
+Dweomercore was an arcane academy that comprised the 9 level of the subterranean dungeon-complex known as Undermountain. Founded by the "Mad Mage" Halaster Blackcloak himself, it attracted malevolent mages who sought magical knowledge and opportunities to educate their pupils in the Art.
+
+As of the Year of the Three Ships Sailing, 1492 DR, Dweomercore was overseen by an anonymous arcanaloth who served as the academy's headmaster, who in turn was aided by the night hag Wormriddle.
+
+Description
+Built from the remnants of a former underground mansion, Dweomercore had all the trappings that would be expected of any academy dedicated to the practice of arcane magic. It was well furnished, and featured a number grand lecture halls, workshops dedicated to the art of potion-brewing and spellcasting, an expansive library and dedicated classrooms for focused study on each of the schools of magic.
+
+Geography
+Entrances
+Only one entrance to Dweomercore was commonly known:
+ A passageway from Slitherswamp led directly to the entry hall of Dweomercore.
+
+Notable Locations
+Classrooms
+ Dweomercore featured a number of classrooms, within which students could study the Art in more intimate environment than was available in the lecture hall. Select classrooms were dedicated to the various schools of magic and were imbued with their respective magic:
+ Conjuration: The domed conjuration classroom featured a a large pentagram that was inscribed upon its floor. Any fiend that was summoned within the symbol were permanently trapped within its confines on the Prime Material plane until it was released, damaged or another being was conjured. The summoning symbol itself could be damaged, after which any trapped creature would then be released.
+ Illusion: This classroom appeared as the courtyard of a grand, ivy-covered Waterdhavian villa that was always illuminated by the warm mid-afternoon sun. A large fountain featured a centerpiece sculpture of a trident-wielding sahuagin that was encircled by white marble benches. An illusory tiefling in flowing golden robes, who referred to himself as Professor Figment, expounded upon the nature of illusion magic, its applications and famous practitioners. Attempts to dispel the "professor" or the scenery of the classroom resulted in the appearance of a phantasmal killer or the effects of the spell weird.
+ Necromancy: The walls and roof of this domed classroom were decorated with hundreds of humanoid skeletons. Set upon the floor was a pair of concentric circles, with an annulus of necromantic glyphs that radiated a faint purple glow. Any undead creature raised within the symbol became exceptionally resilient, specifically against being turned by clerics. The necromancy classroom was frequented by the archmage Nester, who appeared as a floating skull and pair of skeletal arms after a partially-failed attempt at achieving lichdom.
+ Transmutation: Illuminated by several continual flames placed into sconces on its walls, this classroom changed hue as the colors of the flames changed every minute. The floor of the room was inscribed with a 20' (6.1 m) diameter circle inset by an equilateral triangle, the symbol of thaumaturgy, that radiated a faint magical aura. Any creature or object under the effects of a transmutation spell retained the effects in a permanent manner until they were removed from the border of the symbol. A 10' (3 m) wide iron cage was placed just to the side of the arcane symbol.
+
+Detention area
+ This hallway featured a long hallway with six alcoves that each held an iron-barred cell that was magically locked. The creatures within could be freely used by students as subjects for their experimentation. Just south of the cells was a "statue" of a dragonborn wizard who had been petrified by means of a wish spell by Halaster some time before the 14 century DR. Beneath the statue was an inscription: "Follow the rules. Obey your instructors. Don't be this guy."
+
+Dining hall
+ The dining hall of Dweomercore featured a grand, stone dining table with a dozen wooden chairs that allowed the academy's students to enjoy their meals with one another. It was well-let by a pair of continual flame lanterns and decorated with a large tapestry that hung on its north wall. This tapestry depicted Halaster's original apprentices, collectively known as the Seven: Arcturia, Jhesiyra Kestellharp, Muiral, Nester, Marambra Nyghtsteel, Rantantar and Trobriand.
+
+Six living unseen servants served the pupils their meals and cleaned up after they were finished. Meals were prepared by a pair of barbed devils from within the kitchen and larder, located down the hall just northeast of the dining room.
+
+Dormitories
+ Located in the northwest section of the academy were the ten bed chambers that were made available to its students. They were identically furnished with a plain bed, iron-banded footlocker and a desk complete with quills, jars of ink, scroll paper and similar scholarly implements.
+
+Halaster's sanctuary
+ Halaster maintained a private chamber in Dweomercore, located behind a rather plain-looking single door. Just beyond the door were two 11' (3.4 m) tall statues of humanoid figures that each possessed the head of an elephant. One of these statues was in fact a stone golem while the other was completely inanimate. At the end of this small chamber was a raised dais that stood before a set of double doors, in each of which was carve the face of a screaming devil. Atop the dais floated the spectral skull composed form of pure magical force, that appeared in the form of a bearded human man.
+
+Beyond the doors was Halaster's personal study, which included his work desk and his black crystal chair. It was possible to find one of Halaster's spellbooks within the drawers of this desk.
+
+Headmaster's sanctum
+ Down the hallway east of the academy's main entrance was the office and lair of Dweomercore's arcanaloth headmaster. Within his office was a life-size statue of Halaster and a magnificent oak desk behind which sat a high-backed chair. Just beyond this room, behind a secret door, was his personal chamber that was protected by a necrotic symbol inscribed upon the floor beneath a circular area rug. The walls of the circular room were inset with stone bookshelves that contained dozens of rare tomes that had been gathered from across the Realms and beyond. Within the collection were many books that covered mundane topics such as art, etiquette and oration; a score of treatises that detailed the Outer Planes; along with grand history books that spanned the histories of Toril along with other planets such as Oerth and Athas.
+
+Lecture hall
+ In the northeast corner of Dweomercore was a vast lecture hall from within which students observed demonstrations and lectures given by their professors. A large chalkboard was mounted on the southern wall, beneath which was a 5' (1.5 m) high stone dais. The upward-sloping floor held several rows of stone benches that provided the students ample space to clearly see the orator. The hall was illuminated by several continual flames that burned within stone sconces set into the walls.
+
+Spellcasting hall
+ This room had a 30' (9.1 m) high vaulted ceiling and was also illuminated by continual flames set within claw-shaped sconces. Its walls, along with its ceiling and floor, were scorched and otherwise marred by errant spells that were cast by the academy's pupils. Within the hall were three indestructible, life-size statues of robed human spellcasters that radiated an aura of transmutation magic. They were in fact constructs that sprang to "life" when a person or creature passed through the room's center.
+ The east statue depicted a Shou woman clutching an orb whose face had been disfigured by some sort of acid.
+ The west statue was a long-haired woman wearing a mask and carrying a distinct, gnarled wand.
+ The south statue, which stood atop a stone dais, was carved in the form of Halaster Blackcloak adorned in a robe of eyes and carrying a magical staff.
+
+Wormriddle's santcum
+ The night hag Wormriddle kept her den and private chambers in a series of rooms east of the lecture hall. Her den was decorated with several mummified cats and a collection of crudely-fashioned dolls in the likeness of Dweomercore's students. These dolls imbued with malevolent magical enchantments that allowed the hag to harm the students in a manner dependent on how she manipulated the doll: a needle to the doll's eye would blind them while piercing it with a knife left the student paralyzed.
+
+ Next to her lair was an arcane worship, filled with deceased bodies and dismembered limbs and other body parts. It was from within this putrid-smelling room that Wormriddle created the flesh golems she kept under her command.
+
+Exits
+The following ways could be used to leave Dweomercore:
+ A pit in the middle of the academy dropped straight down to Muiral's Gauntlet.
+ An archgate located near the conjuration classroom opened up a portal to the domain known as Arcturiadoom.
+ South of Halaster's chamber was a secret door that opened up into a corridor that descended to Muiral's Gauntlet.
+
+Inhabitants
+Staff
+
+ Arcanaloth: An ally of the Mad Mage, it employed nycaloths and mezzoloths, and granted safe passage in exchange for magic items or assassination of the rampaging bone devil.
+ Wormriddle: Proud commander of four flesh golems, she was ready to offer spells in exchange for souls and wore a mummified kitten's head, because of her fear of felines, from cats to Tabaxi.
+
+Students
+ Spite Harrowdale, a Rashemi human archmage in the guise of a twelve-year old boy, with an oni companion.
+ Cephalossk, a lonely mind flayer arcanist with a hatred for Spite Harrowdale.
+ Nylas Jowd, a Thayan mage already enrolled in the Red Wizards of Thay, with two invisible will-o'-wisp companions.
+ The Horned Sisters, Turbulence and Violence, were tiefling mage sisters who tried to join the Arcane Brotherhood in Luskan and were denied. After staying in Skullport for a few years, they ended up here.
+ Elan Tanor'thal, a drow mage whose house ran a slave-trading business in Skullport but was driven out by the Xanathar's Thieves' Guild.
+
+Appendix
+Notes
+
+References
+
+Connections
+
+---
+
+## Dwarf's Pot Inn
+
+The Dwarf's Pot Inn was an inn in the city of Elturel in the Western Heartlands in the mid–14 century DR.
+
+Interior
+This building held a hidden entrance to the sewers of Elturel in its cellar. This had been constructed by the inn's owner, Algaroz, and his friend Pinch. On the sewer side of things, this entrance was marked by a jagged gap in the brick casing of a sewer wall. Fortunately the air within the inn was typically so thick with the smells of wood smoke and provender, stale ale, and spiced stew that the odor of the sewers was rarely ever noticed.
+
+Services
+The establishment was rather cheap. It offered clients both stale ale, and spiced stews, both of which contributed to the sewer-masking aroma.
+
+History
+In 1366 DR, it was frequented by the master thief Pinch.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Dweomer vortex
+
+Dweomer vortex was a spell that was first developed by the phaerimms.
+
+Effects
+When cast, the spell summoned a conical vortex in the air. The vortex was a cone  in length with a  wide opening. The vortex glimmered and floated freely in the air. The spell drained up to six spells from another creature. The vortex was immune to most spells cast against it, but a dispel magic spell caused the vortex to collapse. The spell had no affect on the effects of antimagic shell, globe of invulnerability and similar spells. The caster did not absorb the powers of a destroyed spell.
+
+Components
+This spell required only a verbal component.
+
+History
+This spell was originally created by the phaerimm of Myth Drannor.
+
+Appendix
+See Also
+ Draincone
+References
+
+---
+
+## Dweomerburst
+
+Dweomerburst was a spell that removed magical barriers.
+
+Effects
+When cast, all low- to mid-level magical barriers within  of the caster exploded. A violent blast of magical energy was released as a result. Any creature within  was at risk of suffering damage and becoming stunned from the burst.
+
+Casting
+In addition to verbal and somatic components, this spell required a material component: a slim spindle. It was created specifically for this spell and was made from blown glass. During casting, the caster broke it.
+
+History
+This spell was known to be used by wizards of the Cult of the Dragon.
+
+Appendix
+References
+
+---
+
+## Dwarven Valley
+
+The Dwarven Valley was a deep rift in Icewind Dale, located along the southern slopes of the mountain called Kelvin's Cairn. Within the valley was a complex network of tunnels, subterranean passages and mines that composed the home of the dale's dwarves, particularly those from Clan Battlehammer.
+
+Geographical Features
+The valley held two dwarven halls, dug into the western and eastern walls. Each holding comprised their respective living quarters, dining areas, storerooms, armories, and at the heart of either hall, their forge.
+
+Beyond the dwarfholds was a vast tunnel system that continued out into a number of mines. Some of these were abandoned, as the valuable ore found within had been entirely dug up. Among the minerals found within the mines was a substance they called black ice. This was in-fact a remnant of the malevolent monolith of Cryshal-Tirith.
+
+History
+In the mid—14 century DR, the dwarves of the valley managed to draw the wizard Akar Kessell and his forces within their southern tunnels. They proceeded to collapse the tunnels on them all, killing many and stopping their invasion of Icewind Dale.
+
+In the years that followed, many of the dwarves from Clan Battlehammer left the valley and re-settled in the home of their lineage, Mithral Hall.
+
+As of the, the community of dwarves was divided into two factions. Those that followed the community's long-standing leader, Stokely Silverstream, and those under the influence of Baerick Hammerstone.
+
+Notable Locations
+ Cragdrop: This precarious switchback, at the northern mouth of the valley, led up to the tundra of Icewind Dale.
+ Battlehammer Hold: Named after their ancestral clan, these halls in the valley's western wall housed about 80 dwarves.
+ Halls of Black Ice: Located on the opposite side of the rift, these passageways held the stores of black ice found by Hammerstone's dwarves.
+ Temple: Located in the eastern hold, this sacred place venerated the four major deities of the Morndinsamman: Moradin, Berronar Truesilver, Clangeddin Silverbeard, and Dumathoin.
+
+Inhabitants
+In addition to the dwarves of the hall, dark forces dwelled within the valley's southern tunnels. The undead Akar Kessel' remained within, having raised a small horde of dwarven zombies.
+
+Appendix
+
+Appearances
+Adventures
+ Legacy of the Crystal Shard • Icewind Dale: Rime of the Frostmaiden
+Video Games
+Dungeons & Dragons: Dark Alliance •
+
+Gallery
+Concept Art
+
+References
+
+Connections
+
+---
+
+## Dwarvish Mountain
+
+The Dwarvish Mountain, sometimes known as the Dwarven Mountain, was a subterranean realm in the Outlands. It was the shared divine realm of Dugmaren Brightmantle, Dumathoin, and Vergadain, according to the Great Wheel cosmology.
+
+Description
+The outside of the mountain, which was not considered part of the realm itself, was a dangerous and icy slope where few people ventured. The only settlement on the mountain was the human town of Ironridge, located next to the entrance to Vergadain's realm. It had a population of about 500 people, who traded with the realm's inhabitants and occasionally sought entrance to its halls.
+
+The underground realm epitomized the three greatest passions of the dwarven lifestyle: exploration, hard work, and revelry. Each aspect was most clearly manifest in its respective realm, with all three combined to provide its dwarf inhabitants with utmost happiness.
+
+Cosmography
+A portal in the city of Berronar's Side connected the realm of Erackinor in Solania to the Dwarvish Mountain.
+
+Notable Locations
+ Deepshaft Hall, realm of Dumathoin. A cold and dark realm of roughly dug tunnels and stale air. It was located close to the Caverns of Thought and a few unmarked tunnels connected to Ilsensine's realm.
+ Soot Hall, realm of Dugmaren. It was filled with libraries and always bustling with activity.
+ Strongale Hall, realm of Vergadain. A lively place of betting and gambling.
+
+Appendix
+See Also
+ Dwarfhome
+Appearances
+
+References
+
+Connections
+
+---
+
+## Dweomerdeny
+
+Dweomerdeny was a wizard spell from the school of enchantment.
+
+Effects
+This spell permanently banished a specific spell from the mind of a spellcaster. The caster needed to touch the target while speaking the incantation. Dweomerdeny did not affect targets who did not use magic.
+
+The spell selected by the caster to be erased needed to be memorized by the target when dweomerdeny was cast, otherwise the spell did nothing. In addition to erasing the spell from the target's repertoire, it also prevented them from learning that exact spell again in the future or from using scrolls of the same spell.
+
+Components
+This spell only required verbal and somatic components to cast.
+
+Appendix
+References
+
+---
+
 ## Dwarven Dungeons
 
 Dwarven Dungeons was an undercity complex of Myth Drannor that served as a home for the dwarven population of the city along with some others in the years predating the Weeping War.
@@ -468,6 +1121,250 @@ References
 
 ---
 
+## Dwai River
+
+The Dwai River was a river lying between the Kuong Kingdom and Laothan in Malatra.Like many locations in the Kuong Kingdom, the Dwai River has not been labelled on any map of Malatra. The rivers that are depicted are likely to be other named rivers.
+
+The river ran near the coast. South of it, the densest jungle in the whole of Malatra could be found in the wide coastal strip that continued south.
+
+The Dwai River passed by the Laothan fishing village of Jivatsa, where goods from upriver were sold and Seng and Kuong met.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Dwarven thrower
+
+Dwarven throwers, not to be confused with dwarven throwers crafted by elves, were enchanted dwarven warhammers that, once thrown, returned to the owner's hand.
+
+Description
+Even though they varied in design, the bold geometric shapes were the most commonly seen among dwarven-made arms. Some of these mighty weapons were able to produce hum or whine when in flight. This sound was referred to as "singing" by the stout smiths.
+
+Powers
+Dwarven throwers''' enchantments made them only usable by dwarves. These hefty weapons possessed a +3 enchantment but were also ensorcelled to be especially devastating to their much-hated giant opponents. When a dwarven thrower was hurled at an opponent, it instantly returned to the thrower's hand after crashing into its target, after uttering the hammer's command word, unique to each weapon. Dwarven throwers could be turned as far as .
+
+When non-dwarves wielded these hammers, they appeared to function as simple +2 enchanted weapons with no boomerang magic active.
+
+HistoryCirca 1368 DR, one such dwarven thrower could be purchased from a human merchant in the town of Trademeet in Amn.
+
+In 1491 DR, one of these magic hammers could be found in the abandoned mines of Tyar-Besil.
+
+Notable Dwarven Throwers
+Delzoun's Fist: the powerful hammer created by Delzoun. It possessed all powers of dwarven throwers and increased the wielder's strength and shielded them from enemies' spells.
+
+Notable Owners
+Derval Ironeater: the best weaponsmith in Daggerford in the 14 century DR.
+Golias: a dwarven member of a Cormyrean adventuring troupe called The Puppetmasters circa1367 DR.
+Thenek Strongaxe: a dwarven bard and the court musician from Mithral Hall in the 14 century DR.
+Thoyana Jorgadaul: the leader of town of Elmwood in the Moonsea in the 14 century DR.
+Tokan: the Cielf of the dwarven Orothiar Clan in Bloodstone Barony circa 1357 DR. His dwarven thrower was a relic and the badge of office.
+Worden Ironfist: a dwarven hera and a leader of a small adventuring group that sought to eliminate a tribe of warring giants in the 14 century DR.
+Zorak Lightdrinker: a shield dwarf vampire who haunted Undermountain's Obstacle Course level in the early 1490s DR.
+Worden Ironfist: a dwarven fighter and leader of an adventuring band.
+
+Appendix
+Appearances
+AdventuresRuins of Adventure • The Mines of Bloodstone • Four from Cormyr • Princes of the Apocalypse • Waterdeep: Dungeon of the Mad MageVideo Games
+Baldur's Gate series (Baldur's Gate II: Shadows of Amn • Baldur's Gate II: Throne of Bhaal • Baldur's Gate II: Enhanced Edition) • Neverwinter Nights: Tyrants of the MoonseaCard GamesAD&D Trading Cards''
+
+References
+
+---
+
+## Dwarven belt of charming
+
+Dwarven belts of charming were enchanted belts commissioned by the ruler of the Clan Stonehand sometime before 1372 DR.
+
+Powers
+Contrary to its name, or perhaps, ironically named, dwarven belts of charming did not enhance the wearer's charm and appeal. Instead, it plummeted their charisma below even dwarven low standards.
+
+History
+Several of the dwarven belts of charming were commissioned by Kurgin Stonehand, following the clan's glorious defeat of Zarkursk, an old and evil black dragon who resided in the swamps not far from the Clan Stonehand's mines. The proud warriors plundered the dead dragon's horde, a pile of gems and precious stones worth a fortune. Many of the young warriors of the tribe suddenly became highly sought-after bachelors among the neighboring dwarven clans. One such clan was Clan Licehair, whose females started hounding the Clan Stonehand's youth, seeking to woo them. Kurgin thought the sudden popularity to be an unwelcome nuisance and handed out these enchanted belts to the single men of the clan, scaring the "gold diggers" away.
+
+In 1372 DR, one of these belts could be found among junk and antiques of Torleth's Treasures of Gillian's Hill.
+
+Appendix
+Appearances
+Video games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Dwarven Celebration Brew
+
+Dwarven Celebration Brew was a special type of dwarven alcoholic drink, often called "Liquid Courage".
+
+Powers
+Served in tall foamy steins, Dwarven Celebration Brew gave its imbibers a rush of heroism making them stronger and more valiant.
+
+History
+In the mid-to-late-15 century DR, Dwarven Celebration Brew could be found in the city of Neverwinter, popular among its adventuring population. These invigorating drinks were also served at the Beached Leviathan tavern.
+
+Appendix
+Appearances
+Video Games
+Dungeons & Dragons: Heroes of Neverwinter
+
+References
+
+---
+
+## Dwenthor of the Winds
+
+Dwenthor of the Winds was a wizard from Cormyr who returned to serving along the Wizards of War sometime before 1372 DR.
+
+History
+Sometime before 1372 DR, a middle-aged wizard Dwenthor of the Winds courted Xanda Pennywell, a seamstress from the hamlet of Liam's Hold. Dwenthor, a worldly and aged man, made a home in a small stone cottage in the pastures close to the hamlet. Xanda ended up being swayed by the older man and fell in love with him. As a gift, the wizard enchanted a cape for his beloved, to protect her from harsh Sword Coast winters. However, the man was a coward and a deserter. The romance was abruptly cut short when a group of Cormyrean mercenaries came looking for Dwenthor and returned him to his service among the War Wizards. Dwenthor never returned to Xanda, and, eventually, she married another man, keeping Dwenthor's cape of bravery as an item to sell in case she ever needed coin.
+
+Appendix
+Appearances
+Video Games
+
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Dwenthor's cape of bravery
+
+Dwenthor's cape of bravery was an enchanted cloak created by a Cormyrean War Wizard named Dwenthor of the Winds sometime before 1372 DR.
+
+Powers
+This cape was enchanted to protect the wearer from normal and magical cold and glowed with blue radiance, illuminating  round it. Additional magics imbued into the cloak significantly enhanced the wearer's skills of persuasion.
+
+History
+Dwenthor's cape of bravery was enchanted by Dwenthor of the Winds for his young paramour at the time, Xanda Pennywell of Liam's Hold. The item was created to protect Xanda from harsh Sword Coast winters. Another reason for the cape's enchantment and its name was somewhat selfish. Dwenthor was a deserter and a coward. He hoped that Xanda would be able to convince her lover, using the cape's magics, to be brave. However, the romance soon ended after mercenaries hired by War Wizards found Dwenthor and escorted him back to his service to the nation of Cormyr.
+
+Xanda Pennywell held onto the magic item in case she ever needed coin. She still possessed the cape in 1372 DR when she was abducted by a drow vampire Sieronius Dethick, who was planning on using his magical charms to find a wife and with that break the curse that kept him imprisoned underneath Liam's Hold. Accounts of the events remained varied; some said that Xanda was rescued by the Hero of Daggerford and she offered Dwenthor's cape of bravery to the Hero in gratitude.
+
+Appendix
+See Also
+Cloak of resistance
+Nymph cloak
+
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Dwyvach Salt Flats
+
+The Dwyvach Salt Flats was a wetland located on the island of Gwynneth within the Moonshae Isles.
+
+Geography
+The salt flats were found in the far southwestern corner of Gwynneth across the narrows from Flamsterd. They were bordered on the west by the Trackless Sea, and on the east by the Mere Adammair and an open area of plains. The Dwyvach Salt Flats covered much of Gwynneth's western coast south of Kimball Moor.
+
+Appendix
+References
+
+---
+
+## Dwarven Mir
+
+The Dwarven Mir was a large walled compound located in the city of Almorel on the Lake of Mists in the Hordelands in the mid-to-late 14 century DR.
+
+Location
+The compound was located in the eastern section of Almorel. It bordered the city's outer wall.
+
+Description
+Aside from the residence of Mechnik Nikitsky, the Dwarven Mir was the largest compound found in Amorel.
+
+Activities
+The Dwarven Mir was a small dwarven community.
+
+Appendix
+References
+
+---
+
+## Dwarven bloodstone blade
+
+Dwarven bloodstone blades were enchanted dwarven waraxes decorated with bloodstones mined in the Galena Mountains of Damara.
+
+Powers
+Dwarven bloodstone blades possessed a +2 enchantment and a magically keen edge. Additionally, these waraxes dealt additional damage when wielded against giants.
+
+History
+These weapons were crafted by the dwarves of Clan Hillsafar in the depths of the Galena Mountains. They were crafted in a variety of designs and possessed different magical powers. The first dwarven bloodstone blades were forged as gifts to a band of dwarven adventurers who helmed a campaign against the "Thunkers," a band of giant bandits. These eccentric adventurers named themselves "Anti-Thunkers" after securing Clan Hillsafar's mining business from the giant menace. In the 1370s DR, the Anti-Thunkers moved on from the land of Damara, and copies of their bloodstone blades began appearing in other regions of the Realms. In the, dwarven bloodstone blades were sold in Westgate, among countless unique and rare weapons and armor on the city's Market Triangle.
+
+Appendix
+Appearances
+Video Games
+Neverwinter Nights 2: Mysteries of Westgate
+
+References
+
+---
+
+## Dweomervore
+
+Dweomervores were an odd species of magic-eating dragon.
+
+Description
+Dweomervores were draconic in form, with pale blue scales and amber eyes. The tail was muscular, prehensile, and covered in numerous small bards; both the claws and the tail barbs of dweomervores were jet black in color. They were about  long, with most of that length being the tail. They had a relatively short neck, and the mouth was full of small, sharp teeth. The head was covered in bony ridges. The forelegs were unusually dextrous.
+
+Personality
+Dweomervores were secretive and deceptive, intolerant of their own kind, and, unfortunately, inclined to take positions of power in criminal organizations, though they held no loyalty to their minions.
+
+Abilities
+Dweomervores, like many other dracoforms, had both darkvision and low-light vision, and were immune to magically-induced sleep and paralysis. Its breathe weapon was shimmering waves of force that had some of the more violent effects of the telekinesis spell. The breathe weapon could effect items and creatures as far away as  and up to  in weight.
+
+Dweomervore also had a natural telkinesis-like ability that allowed to to manipulate and hold objects less than  within . They could manipulate items held such with remarkable skill and dexterity, to the point of being able to pickpocket someone with the ability.
+
+True to their name, a dweomervore could, while biting a charged magical object, consume up to six charges from an object within seconds. This ability did not activate the powers of the item. The magical charges both fed and healed the dweomervore.
+
+Dweomervores themselves could use blur, color spray, daze, detect magic, identify, invisibility, reduce person, see invisibility, obscuring mist, and tongues at will as innate spell-like abilities.
+
+Combat
+Dweomervores were not violent, more interested in stealing than killing, but if pressed they fought with their magic, their teeth and claws, and the numerous, razor-sharp barbs on the tail. The barbs in particular left wounds that bled easily, weakening those injured.
+
+Ecology
+Dweomervores preferred to live in large, prosperous, magic-rich cities in temperate regions, such as Waterdeep, Bezantur, and Silverymoon. They typically took over as leaders of small thieves' guilds for the purposes of gathering charged magic items, though they had little interest in the daily tasks of actually running the guild; however, if their guild was compromised, the dweomervore was often the first to escape, and with a large portion of the guild's treasury to boot.
+
+Dweomervores who settled within  of each other typically entered into a long and bitter feud with each other that only ended when one of them was dead or driven away. This intolerance likely stemmed from the relative scarcity of their food source. However, dweomervores enjoyed speaking with other species of dragons, who tended to let the conversation continue as much because of their own enjoyment of the attention, as because it gave them time to protect their own hoarded items.
+
+Wizards were known to have tried to take dweomervores as familiars, but such attempts invariably ended quite quickly, and with the dweomervore making off with the wizard's wands and other charged item. Much more rarely, dweomervores were known to work with adventuring parties in exchange for payments in magic items.
+
+Dweomervores had a highly unusual manner of asexual reproduction. They became fertile at the age of fifty, after which one could get pregnant at any time by consuming all of the charges from an item within a ten-minute span. Gestation lasted a tenday, during which time the dweomervore became introverted and uninterested in anything except eating and sleeping; a pregnant dweomervore had to consume no less than five charges a day, or they would miscarry the egg and become sterile. Dweomervores typically made hidden nests of charged items ahead of time to sustain themselves. At the end of the pregnancy, the dweomervore would lay a single egg, which hatched after another tenday. The dweomervore parent was then very protective of the hatchling during the tenday it took to reach maturity, after which time the parent drove the offspring away.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Dweomerbanish
+
+Dweomerbanish was a spell that broke all ongoing magic within its area.
+
+Effects
+Within a  radius, all ongoing effects were ceased, even those of scouring magic such as dispel magic, spell engine, or Mordenkainen's disjunction.The spells dispel magic and Mordenkainen's disjunction are not instantaneous in duration, but they are specifically named. Some variant effect may be implied. Though it only struck effects longer than instantaneous, it was effective even against prismatic sphere and sphere of wonder. However, only the area intersected by the dweomerbanish's area was cleaned; this could leave some effects reduced in area without being outright eliminated. Some permanent, multifold effects, wardmists and mythals for instance, were only suppressed for about an hour instead.
+
+The spell was ineffective against any magic cast directly by deities. Furthermore, it dealt some damage to the caster- of which, a certain amount was irreversible.
+
+Components
+Besides verbal and somatic components, the spell required two finger bones from archmages. They could belong to the same archmage.
+
+History
+Azuth made this spell available through Elminster sometime prior to .
+
+Appendix
+Notes
+
+References
+
+---
+
 ## Dwin
 
 Dwin was an adventuring priest of Tymora who traveled alongside famed Bard of Starmantle and author Adamar Session for a decade in the mid-to-late 14 century DR.
@@ -532,6 +1429,354 @@ At some point Dwin's adventuring company traveled to the country of Chondath, se
 
 Appendix
 Notes
+
+References
+
+---
+
+## Dweomer divination
+
+Dweomer divination was a divination spell that revealed information about a touched item to the spell's caster over a short period of time. This knowledge was wide-ranging in scope and depth, covering a wealth of information.
+
+Effects
+Dweomer divination revealed information about the nature of magic within the item in stages until the spell expired. Over a course of minutes, until the duration of dweomer divination ended, a variety of information regarding a select item was divulged to the caster. In order of succession, this information consisted of:
+ All dweomers presently on or otherwise linked to the item and
+ Any morality- or skill-based restrictions or boons that either precluded or enhanced its use by certain individuals.
+
+If an item was imbued with magical enchantments, the following information was revealed. It was repeated for each specific dweomer:
+ The complete functionality of how the item's most powerful dweomer worked,
+ Any associated command words, phrases of activation or lack thereof, and
+ All errors or imperfections of the dweomer's function.
+
+These last three revelations were repeated for every dweomer the item possessed, a process that continued until all information regarding the item was made clear. The spell could be used more than once on the same item to gain new information, but subsequent castings of the spell skipped over information already revealed to the caster and began where the last divination previously "left off".
+
+If the item had no inherent dweomers, the caster became aware of that fact.
+
+Once all the information regarding the dweomers the item possessed, if any, was made clear, the spell offered the some final particulars:
+ Any special-purpose control words,
+ Specific links to certain individuals,
+ Methods to regain the item's charges or lack thereof, and
+ Mental images of how the item was created.
+
+Errant Dweomers
+This spell not only revealed powers that were imbued into an item, either during its creation or possible subsequent enchantment, but also residual dweomers caused by powerful spells. Dweomer divination revealed general information about these magics, but not their exact specifications.
+
+Casting
+This spell required only verbal and somatic components in order to be cast, along with near-continuous contact between the caster and item. The spell ended prematurely if the caster failed to touch the item for over a minute, or if it held no dweomers.
+
+History
+This was an extremely rare spell used by priests on Toril.
+
+Appendix
+References
+
+---
+
+## Dweomer pantograph
+
+A dweomer pantograph was a wand that replicated spells cast upon it.
+
+Description
+It could be mistaken for a wand.
+
+Powers
+It duplicated on command magical effects that struck it.
+
+History
+One user, Quaervaxthanus, had mages cast spells on the pantograph to expand his own capabilities.
+
+Notable Owners
+ Quaervaxthanus
+
+Appendix
+References
+
+---
+
+## Dwarves of Destiny
+
+The Dwarves of Destiny were an adventuring company based in Saerloon in Sembia in the mid–14 century DR.
+
+History
+In Eleint of the, the Dwarves of Destiny went into the Underdark in search of the lost Mielikkian treespeaker Elanalue Sharrith, who'd been captured by drow and taken into slavery years earlier, in the . The holy Mielikkian spellbook known as Yornar's Trail Companion had gone missing with her. But the Dwarves of Destiny, like five other adventuring companies before them, had not returned as of 1368 DR.
+
+Appendix
+References
+
+---
+
+## Dwarven plate mail
+
+Dwarven plate mail was a special form of plate mail forged for, and wore exlusively by, dwarves.
+
+Description
+Dwarven plate mail was thick and cumbersome when compared to regular plate mail or elven variations, but offered more protection to its wearer on a level with full plate armor. It was usually made from black iron. Though smaller in stature when compared to human and elven plate mail, dwarven plate mail often weighed the same because of the extra material used in its construction.
+
+History
+Norothor, who were specialty priests devoted to Deep Duerra, often wore dwarven plate mail.
+
+Appendix
+References
+
+---
+
+## Dwitt Serpentil
+
+Dwitt Serpentil was a shopkeeper inhabiting Waterdeep during the 15 century DR.
+
+Description
+Dwitt was the owner of Serpentil Books & Folios, a shop specialized in selling maps, ink and paper.
+
+Personality
+Dwitt assisted customers with their purchases, but was easily annoyed by visitors who bought nothing.
+
+Abilities
+Dwitt was able to recognize the materials used to create rare papers by touching, smelling and tasting them.
+
+Appendix
+See Also
+ Jannaxil Serpentil, who ran the shop during the 14 century DR.
+
+Appearances
+Organized Play & Licensed Adventures
+Dock Ward Double-Cross
+
+References
+
+---
+
+## Dwak
+
+Dwak was a hulking ogre bouncer at the Bubbling Bulwark in the mid-to-late 14 century DR. He was responsible for guarding the main public door to the establishment, while Louella Bonecracker guarded the private inner door.
+
+Relationships
+Dwak rather liked Annalise, one of the barmaids. He disliked the adventurer Garit Strongarm for his repeated rowdy behaviour and harassment of Annalise.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Dwarfstone
+
+The Dwarfstone, also known as Durn's Finger in some ballads, was a standing stone in Maskyr's Eye in the Vast.
+
+Description
+It stood alone at the southern end of the vale, leaning at a peculiar angle over the rubble wall of a local farm. It was described as like a stern, pointing finger.
+
+Significance
+To most travelers, it simply marked the southern limit of the village of Maskyr's Eye. However, the villagers themselves thought it to be sacred to the dwarves of the Vast, and would not dare disturb it, nor even venture near it. As to what the dwarves knew of it, none had said anything about it, at least within the memory of humans by the late 1350s DR.
+
+Appendix
+References
+
+---
+
+## Dwarf vampire
+
+Dwarven vampirism was a strain of vampirism originating from the Domains of Dread that only dwarves were susceptible to contracting. This strain of vampirism had some presence on Toril.As the concept of demihuman strains of vampirism were created for and kept unique to the Ravenloft setting, it stands to reason that dwarven vampirism did not originate on Toril.
+
+Description
+A dwarf vampire retained much of the appearance it had in life, though its hair became white or silvery in coloration. Their skin was cold to the touch and as hard as stone. Wherever they went, a faint trail of grave dust was left in their wake.
+
+Personality
+As dwarven culture generally disdained undead and viewed it as cheating warriors of a glorious end, those afflicted with dwarf vampirism harbored a hatred for themselves, perhaps even a sense of disgust, embarrassment, or shame. This torment gradually led them to commit great acts of evil and suffering in order to ease the misery they felt over their state of being.
+
+Dwarf vampires typically retained the strong sense of courage and vigor that were emblematic of dwarven people, making them deadly warriors with a love for battle. Many scholars also believed that they retained some vestiges of their love of dwarvenkind, thus explaining why they often mercifully killed their dwarf vampire minions after they had served their purpose.
+
+Abilities
+Vampiric Powers
+
+The strength and hardiness of a dwarf vampire was significantly enhanced from what they had in life, making them formidable combatants. Much like other vampires they could take the form of an animal, though instead of a bat or wolf they shapechanged into various kinds of burrowing or subterranean creatures. The type of creature they shapechanged into depended upon the area they were in, though individual dwarf vampires also typically had favorite forms. Also like the standard strain of vampirism, they could summon groups of creatures to their aid. These were typically either packs of badgers, wolverines, or thoqquas. Any summoned animal would remain by their side for an hour before leaving.
+
+Weaponry could not harm a dwarf vampire unless it carried either a +2 to 4 enchantment, depending upon how many centuries old they were. Those over 200 years of age required a +3 enchantment to harm, while those over 500 years of age required a +4 enchantment. If an enchantment was not powerful enough to harm a dwarf vampire, it would harmlessly pass through their bodies as if they were incorporeal.
+
+In addition to the traditional vampiric immunities to diseases, poisons, toxins, as well as charm, hold, and sleep spells, dwarf vampires were only half as harmed by spells relying upon cold or electricity. They also retained the dwarven resistance to magic, though it was further enhanced by their vampiric connection to the Negative Energy plane. Consequently, their powerful resistance to magic made it impossible for dwarf vampires to wield magic items.
+
+Distinct Powers
+In addition to blood, dwarf vampires sustained themselves by draining the vitality of other creatures. Dwarves slain by their vitality drain would arise three days later as a subservient dwarf vampire or vampire spawn, depending upon how hardy they were in life and if certain conditions were met (see "Creation").
+
+Dwarf vampires lacked the vampiric power to charm people, but they did have a special gaze that could instill a sense of supernatural fear and revulsion into the hearts of others. They also uniquely had the ability to phase and walk through stone at will as if it were air, which they often used to spring sneak attacks. This ability was similar to the spell meld into stone, except dwarf vampires moved at a faster rate, could remain merged within stone indefinitely, and could even extend the aura of this ability so as to sink other creatures or objects into the ground with them. If dispel magic was cast on a dwarf vampire they would lose access to this ability for around two to eight minutes. And finally, dwarf vampires had a sort of tremorsense, allowing them to sense the location of anything within  of them so long as it was in contact with stone, and they could see in areas with even the dimmest light as if it were daylight.
+
+Weaknesses
+Some believed sunlight was not fatal to dwarf vampires as it was others, merely disabling their regenerative ability, whilst other sources claimed that their bodies suffered petrification when in sunlight. This could be undone through typical means of reversing petrification, such as the spell stone to flesh. Because of this and finding sunlight to be far too bright, a dwarf vampire would go to great lengths to avoid it. They also lacked the typical vampiric weakness to holy water, though water from a natural spring had a similar effect on them. Mirrors and holy symbols did work to keep them at bay, although making contact with the latter did not cause them harm. Some, though not all, dwarf vampires were reported to be harmed by whatever metal it was that they craved most in life. Paladins and priests could turn them away just like any basic vampire, though as they got older and their connection to the Negative Energy plane strengthed it became more difficult to do so. Some of the most ancient and powerful of dwarf vampires were alleged to be completely immune to turn undead no matter the strength of the caster's faith.
+
+Methods for keeping dwarf vampires at bay included unbroken lines of powdered metal or metal shavings, which they were incapable of crossing over even when stonewalking or taking direct action to break, and non-stone structures, as they were incapable of entering any structure that was not constructed at least in part from earth or stone. However, they could circumvent lines of powdered metal could by commanding an animal or servant to do so.
+
+Whenever a dwarf vampire was brought to the brink of death their body would merge with the ground around it and attempt to flee to its coffin. If they took too long to reach the coffin, their body permanently merged with the stone, putting an end to their life. But the most surefire way to end a dwarf vampire's existence was to impale them through the heart with a natural stone formation, such as a stalactite or stalagmite. Their heart then had to be cut out, soaked in oil for three days, and set alight or they would otherwise come back to life once the stalactite or stalagmite was removed. Only once the heart was reduced to ash could the creature be considered fully slain.
+
+Combat
+It was quite common for dwarf vampires to wield the types of weaponry they had adored in life, such as battleaxes or warhammers, and for those who had been warriors in life to be kitted out in armor. They had a natural combat prowess against goblins, hobgoblins, ogres, orcs, trolls, and other creatures typically viewed as the enemies of dwarves.
+
+History
+Sometime prior to the, the year Clan Ironstar fell apart due to overwhelming orc forces, a dwarf named Angor was passed-up for the position of Thane for one of the clan's kingdoms. Unwilling to accept this defeat, Angor and his wife Dannon went in search of powerful magics they could use to further his position. Whilst doing so Dannon discovered and was attacked by a dwarf vampire, becoming turned by it.Though the dwarf vampires described in the adventure do line up as being those of Ravenloft, it must be noted as an incongruity that Dannon was so quickly turned into one by her attacker.
+
+At failing to save his wife Angor flew into a fit of blind rage, killing both the vampire and his own hearth guard. He died in the process and lost favor with his patron, the dwarven deity of battle Clangeddin Silverbeard. Evil members of the Morndinsamman witnessed this and decided to raise Angor as a death knight, which in turn angered Clangeddin, who in retaliation brought his hearth guard back to life as skeleton warriors determined to end him once and for all. Finally, the dark gods gifted Angor a magical helmet with which to  control the skeletons. From then on he traveled throughout the Underdark with his now dwarf vampire wife for centuries, plotting revenge against Clangeddin and the dwarves of the surface world.
+
+Sometime around the,In other sources it is stated that the founding of Ravens Deep and the death of Lord Blacktree both occurred in the year 1371 DR. Since Ravens Deep exists in the adventure, yet Lord Blacktree is still alive, it’s safe to conclude that the year must be 1371 DR. a group of adventurers were tasked by Lord Blacktree with guarding a tunnel intersection that led into Ravens Deep, the outpost of Lord Blacktree's Underdark expedition to recover the artifact known as the Orb of Protection. Whilst guarding this tunnel the adventurers were approached by a large group of worshipers of Malphagor, an upstart god of undead. Among them was the death knight Angor, his skeleton warriors, his wife Dannon, two dwarf vampires subservient to her, and a human lich named Filas.
+
+Ecology
+Creation
+Any dwarf or half-dwarf that died as a result of their vitality being drained by a dwarf vampire would arise as one themselves after a period of three days, but only if certain conditions were arranged by their killer. Firstly, the victim's body had to remain intact. Mutilation or outright destruction of the corpse would prevent their rising. Secondly, they had to be placed within a stone coffin or sarcophagus and entombed underground – entombment within an above ground crypt would not suffice.. Finally, dwarf vampire that had killed them had to visit the victim on the third night and sprinkle them with powdered metals. If all was done,The cited sources make no mention of half-dwarves, but since half-elves can be turned into elf vampires it stands to reason that the same mechanics would apply. depending upon how hardy they were in life, the victim would arise as either a vampire spawn or a new dwarf vampire, subservient to their sire.
+
+Alternatively, dwarf vampires could occur on the world of Toril from the Blessing of Malphagor, a unique curse that the demipower Malphagor would place upon any living creature who killed his high priests. Alternatively, high priests of Malphagor were capable of bestowing this "blessing" upon corpses. Some dwarven clerics and fighters that bore this curse would arise as a dwarf vampire one to four minutes after dying.
+
+Society
+Dwarf vampires were solitary creatures, being the most introverted of all the racial strains of vampire found in the Domains of Dead. Rather than seeking power they tended to keep to themselves, shunning all contact with other dwarves and lairing within the deepest and darkest of underground reaches.
+
+They were generally reluctant to inflict other dwarves with this vampirism, only doing so whenever they felt that minions were necessary in order to carry out evil plans. Usually they would kill these minions a few months after their creation.
+Languages
+Dwarf vampires retained understanding of all the languages they spoke in life, such as Dwarvish.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Dwarfbilt Construction Company
+
+The Dwarfbilt Construction Company was an engineering business based in the city of Ravens Bluff in the 14 century DR.
+
+Organization
+As their name implied, Dwarfbilt was owned and operated almost entirely by dwarves.
+
+Activities
+This company could be hired out to help in constructing most structures.
+
+History
+Some years prior to the, Dwarbilt Construction was approached by a merman named Slaythis J'harja. He desired to create an underwater restaurant in the Dragon Reach, having heard from a number of land dwellers during his adventuring days of the many restaurants and taverns that dotted the surface. The company's workers were fascinated by the prospect and contributed much to its plans, with discussions bringing up a number of engineering and technical issues. However, Dwarfbilt was ultimately unwilling to do work in or on the water.Port of Ravens Bluff (pp. 42, 45) states that Charles O'Kane became Mayor 20 years ago, which would set it in 1361 DR.
+
+Slaythis tried to make increasingly larger offers of gold and treasure for them to take his contract, but Dwarfbilt refused to budge. Eventually Slaythis yielded, thanking the company for their time and ideas. As they parted ways one of the employees took Slaythis aside and told him in hushed whispers of a fabled offshoot of the dwarven race, aquatic dwarves, but warned that they might be unwilling to work with him. This lead would eventually culminate in the desired restaurant, Sharkey's Bar & Grill.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Dwarven Runes: A Quick Guide to Interpretation
+
+Dwarven Runes: A Quick Guide to Interpretation was a book penned by Carorn Forath sometime before the late 14 century DR.
+
+History
+A copy of Dwarven Runes belonged to Manshoon XII, a clone of Manshoon, in the . The book was stored in the mage's library of mundane and arcane tomes in his lair in an abandoned temple of Amaunator underneath the City of the Dead of Waterdeep.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Dwindling Greene
+
+Dwindling Greene was the daughter of Dholber Greene and one of the guests of Nortale's Hostel in the Lower City of Baldur's Gate in the late 15 century DR.
+
+Description
+Like her father, Dwindling was a human with dark skin. She also shared his brown eyes and had straight brown hair.
+
+History
+In the, as the Absolute crisis ravaged the Western Heartlands, the city of Baldur's Gate became flooded with refugees. Dholber Greene was lucky enough to secure lodgings for himself and Dwindling at Nortale's Hostel that offered beds to the refugees. Dwindling and her father lost family members, who did not make it to the Gate. At the hostel, the girl complained about lice and funny-smelling soap.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Dwyn the Still
+
+Dwyn the Still was an elf monk in the late 14 century DR.
+
+Description
+Dwyn had green eyes and a close-shaven scalp. She wore a leafy green outfit.
+
+History
+In the  during the Elven Crusade, Dwyn joined the Elves of Cormanthor at their fortified camp outside the ruins of Myth Drannor. She provided training to monks at the camp.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Dwarven brawler's wraps
+
+The dwarven brawler's wraps were a set of magical handwraps found in the ruins of Tethyamar during the late 15 century DR.
+
+Powers
+The handwraps gave great power to the wearer's fists, making every blow a crushing impact that disoriented and discombobulated. The wraps had a particular animus towards evil outsiders, inflicting devastating wounds upon them and potentially banishing them with each strike.
+
+History
+By legend, the wraps were created by a dwarven hero who fought against the drow. When his axe broke in battle, he took a swig from his flask and tore his tunic into strips, wrapping them around his hands. He proceeded to win the battle with nothing but his mighty punches, driving them from the battlefield. The handwraps were later found in Tethyamar, after the demon lord Graz'zt was defeated and his schemes thwarted by the forces of the Tethyamar Mining Outpost.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Dwarvenhome
+
+Dwarvenhome was a shield dwarf realm beneath the Moonshae Isles.
+
+Description
+Dwarvenhome comprised vast natural caverns and long tunnels spanning beneath the southern Moonshaes. The caverns were filled with long stalactites and glowing fungi that illuminated the area in an eerie green light.
+
+Geography
+From its northernmost exit, Dwarvenhome spanned from the Fairheight Range on the island of Alaron and extended south beneath the Dernall Forest and the town of Codfin to run below the Strait of Alaron to the Taeya Bog on the northern shore of Gwynneth near the Winterglen forest. Some tunnels may have also connected all the way to Highhome on Gwynneth. The tunnels had multiple outlets, including one just south of Codfin and two primary exits on the coast of Gwynneth, and it took several days to travel through the tunnels from one island to another.
+
+History
+Dwarvenhome was established circa  after dwarven refugees from the Mindstalker Wars became cut off from their homes in Shanatar, and thus began exploring the remote Underdark passages beneath the Sea of Swords. They would eventually settle in the caverns that came to be known as Dwarvenhome.
+
+Dwarven settlers would subsequently establish the realm of Highhome in the Cambro Mountains of Gwynneth (then the domain of the fey realm of Sarifal) circa, and would subsequently clash in an extended war with a tribe of giants that they dubbed the "fir-bolg". This only ended circa  when the dwarves imprisoned the giants' leader, Grond Peaksmasher, beneath Oman's Isle.
+
+When Kazgoroth first attacked the Moonshae Isles circa, the dwarves allied with the Llewyrr elves to drive back the Beast's forces, notably the fomorians of Vor Thomil who enslaved the firbolg and once again drove them to fight the dwarves. After many decades, the dwarves and elves were victorious.
+
+Following the events of the Darkwalker War in the mid–14 century DR, the forces of Dwarvenhome mustered against the threat of dark dwarves who had appeared in the Moonshaes.
+
+Following the return of the fey of Sarifal to Gwynneth in the late 14 century DR, the dwarves of that island came under attack by evil fey led by fomorians and spriggans., and were forced to all but abandon Highhome save for a small group of cragwardens who stayed behind to defend it. Notably, Clan Rustfire were chased by the evil fey through the Dwarvenhome Tunnels all the way to northern Alaron, where they allied with Clan Rookoath. By the, these clans also contended with a coalition of orcs, trolls, and shadow creatures led by a shadow dragon who sought to dislodge them from the Fairheight Range. By the, the dwarves had gained the upper hand in this conflict.
+
+Inhabitants
+ Finellen, a hero and war leader in the 14 and 15 centuries DR.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Dwarven facemask
+
+Dwarven facemasks were mundane ancient masks of dwarvish make that were restored in the late 15 century DR by the craftfolk of Neverwinter.
+
+Description
+These heavy half-masks were carved out of stone and made to resemble the face of a dwarf wearing a simple, angular helmet.
+
+History
+In the late 15 century DR, several dwarven facemasks were gifts of Dagult Neverember, Open Lord of Waterdeep and Protector of the City of Neverwinter, to a set of heroes, who aided the city in the plague of cats that out of nowhere descended on Neverwinter on Mirtul 19, the date what would be remembered as "Caturday."
+
+Appendix
+Appearances
 
 References
 

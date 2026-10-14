@@ -366,3 +366,894 @@ References
 
 ---
 
+## Eileanar
+
+Eileanar, originally called Radman, and also known as the Karsus Enclave, Karsus's enclave or just Karsus, was the enclave of Karsus of Netheril.
+
+Location
+The enclave moved about at the whims of Karsus, but in general he chose to spend his summers over the High Forest and winters over the Far Horns forest. The nearby Winding Water became known as the "Karsus Overwash" for a time, as the ground-borne locals considered Karsus and his city to be a perpetual annoyance and menace, and so named the river after the subject of their ire. Karsus himself remained ignorant of these opinions, as everyone aware was wise enough to not mention it.
+
+Government
+
+While Karsus was the ultimate authority in his enclave, he didn't care for day-to-day governance and divested much of the responsibility to those that were willing to put the work in. The arcanist Andoris Derathar was effectively in charge of the city's legal system, with his apprentices taking roles as mediators and judges as justice was dispensed. In especially serious cases such as murder and espionage, Andoris would personally intervene to arbitrate the matter. Generally, property damage and personal harm was met with fines or forced labor, while crimes targeting arcanists or the city itself were met with various harsh and unusual executions.
+
+History
+
+Karsus established his enclave in, when he was only 22 years old. It was formally named Radman at the request of his mother, in honor of his father, though in time it became known as Eileanar, or simply called Karsus Enclave due to his fame and power. Knowing that his new enclave had little to distinguish it from the competition, Karsus decided that the best way to lure in residents and servants would be to create a wonderous city that they would be attracted to. He hired the finest engineers and architects from all over Netheril, and they created as fantastical and wondrous a city as could be managed. They combined their efforts with magical artifice, and over a decade of construction they built a city without compare.
+
+The last of the Netherese-controlled Nether Scrolls were stolen en route to the enclave in, forever denying their use by the arcanists.
+
+Karsus developed heavy magic in, and in his first great experiment he enchanted a 41 cubic foot blob of it with Volhm's drain. The magically active mass began cycling all available magical energy both from and back into the city's mythallar, leaving the entire enclave inert, including its means of flight. As the city began to plummet to the ground, Karsus threw together a levitation and Tolodine's gust of wind and used them to blow the magical mass off of the side of the enclave and into the distance. By sheer chance, the arcanist Wulgreth was struck by the still-draining heavy magic mass, which drained his life energies and transformed him into a lich.
+
+The Terraseer made a brief and final appearance in, when he warned that Mystryl would soon face her greatest challenge. The end of Eileanar and Netheril as a whole came in, when Ioulaum disappeared without warning or explanation. As panic and unrest spread, Karsus finished his avatar spell, hoping to use it to save Netheril and destroy the phaerimms. He positioned the enclave near a plateau in the High Forest and cast his legendary spell, only to have it destroy him and all he loved. Karsus's enclave crashed nearby and was destroyed, with no survivors.
+
+The city of Karse was built nearby in  by the Cult of Karsus, those drawn by the legend of Karsus and his divine remains. The city fell to ruin in  after a civil war was instigated by the vengeful lich Wulgreth, who sought simply to destroy all of Karsus's legacy.
+
+Notable Locations
+Academia
+The enclave was home to a great many magical schools and other institutions, drawn together by the reputation of Karsus and his grand plans. Several academies existed that catered to the general population and taught basic cantras, and sent on those with particular aptitudes to study at the specialized academies.
+
+ Academy of Mentalist Study, a prestigious magic college of mentalist enchantment and divination magic.
+ Alchemical Seminary, a school of variator studies, alchemy and transmutation.
+ The Ancient Scrolls, a group of historical scholars.
+ Diviner's University, a prominent school.
+ Institute for Sorcerous Imagery, a school of mentalist enchantment and illusion magics.
+ Inventor's Conservatory, a college of inventive spells and studies.
+ Ioulaum Industries, a center of research and development for mythallars.
+ Library of Netheril, a large and comprehensive library.
+ Mardon's Mountaineering, a school that taught mountaineering skills.
+ Museum of Heavy Magic, a unique museum that used heavy magic illusions.
+ Scribe's School, a major school for arcanists.
+ Shadow Consortium, a center of planar studies.
+ University of Definitive Archwizardry, a school of inventive, mentalist, and variator studies.
+ Variator's Intelligentsia, a college that specialized in variation spellcasting and item creation.
+
+Government & Guilds
+
+ Constabulary Branch One, Two, and Three, the enclave's law enforcement strongholds.
+ The Grocer Cartel, a guild that controlled the trade of food.
+ Karsus Castle, the fantastical palace of Karsus himself.
+ The League of Noted Singers and Performers, a guild of performers and artists.
+ The Miners' League, a guild of miners and metal processors.
+ The Mythallar Housing, the fortified structure that held the enclave's two mythallars.
+ The Netheril Mint, one of three mints in all of Netheril.
+ The Hall of Judgment, the court of justice.
+
+Services
+The wealthy patrons of the city attracted experts in many fields, who supplied their skills in astrology, engineering, art, music, linguistics, and other educated trades. More hands-on professions also found good work in the city, including trackers, scribes, teamsters, launderers, and messengers.
+
+ Visitors to the city could hire from a variety of reputable tour guides, including Arborius, Blanc, Cerelias, Etranger, Gellibrand, Hommel, Karyn, Kerckherdere, Ventimiglia, and Wyntoun.
+ Currency conversion was available from trustworthy moneychangers for a 6–15% fee, including Aspar, Ceneus, Diophant, Ferdinand, and Terenzio.
+ Healers for hire included the priests Aratus, Chabrond, Colonna, Cratippus, Gallupi, Hufeland, Kimiko, and Vinckelbooms.
+ Animal trainers who owned their own businesses included the skilled Bayard, Devonshire, Gaussen, and Peterneefs.
+ The Coddled Cuticle, a hairdresser and manicure salon.
+ Enclave Architectural, an architectural design and execution company.
+ Gallery Steamers, a shipwright for flying vessels.
+ Mythomian Warehouse, a magically chilled warehouse home to the Neth Underground for Freedom Fighters.
+ Transgate Industries, a portal research and creation company.
+
+Shops
+Although many magical items were produced and sold in the enclave, they were surprisingly sparse in the open market and expensive to buy. Normal magical items were about ten times as expensive as they would in later ages, while quasimagical items were five times as expensive. The arcanists of Netheril tended to hoard and control the supply of magic, so even in the heavily magical realm it was hard to obtain those items.
+
+All sorts of trades were drawn to the enclave due to its prestige and wealth, giving the city a wide array of masters for hire, in addition to those that supplied the common folk. Karsus was home to cobblers, glassblowers, paper makers, potters, and smiths of all sorts who supported the economy. Like the magical trades, they were heavily competed for and so could demand higher prices than elsewhere.
+
+ Reputed herbalists who owned their own businesses included Alexejev, Bartolommeo, Berenice, Giraldus, Goudcheaux, Parr, and Shute.
+ Benante's Butchery, a fine butcher shop.
+ Chanragoupta's Exotic, an importer of clothing and fabrics.
+ Dundaden's Armory, the best armorer in Karsus.
+ Elemental Store, a chemical supply shop.
+ House Implement Wholesalers, a maker and seller of common quasimagical item items.
+ Karmandon's Finery, a clothing and jewelry shop.
+ Laclos's Cremes and Candies, a chocolate maker and seller.
+ Pomart's Fishery, a wide-reaching fishery.
+ QM III, a magical and quasimagical item seller.
+ Rualadeen Arms, an exceptional weaponsmith.
+ Yousouf's Grocery, a grocery shop.
+
+Appendix
+
+Map
+
+Appearances
+
+References
+
+Connections
+
+---
+
+## Eiellûr
+
+Eiellûr was an ancient kingdom of green elves created during the First Flowering in .
+
+History
+Eiellûr was drawn into the War of Three Leaves against Thearnytaar and Syòrpiir by the actions of assassins and spies from Ilythiir in .
+
+Eiellûr entered the second Crown War by allying with Thearnytaar and declaring war against Ilythiir after Ilythiir destroyed Syòrpiir with fire in . The The Sable Wars, which began in, were a series of battles during the Second Crown War. Aided by a few allies from Keltormir and Shantel Othreier, Eiellûr and Thearnytaar invaded Ilythiir, aiming to reform or conquer the dark elves before they destroyed any more realms. Over half their forces were wiped out by the dark elves' corrupt magic.
+
+Around, the kingdom was isolated from its allies and destroyed with fire by the dark elves of Ilythiir. The Ilythiiri were aided by treacherous green elves seeking peace through appeasement.
+
+Over the course of time, the ruins of Eiellûr vanished under the forest canopies of the Winterwood.
+
+References
+
+FR:Eiellûr
+
+---
+
+## Eiruk Weskur
+
+Eiruk Weskur was a young human wizard of Waterdeep.
+
+Description
+Eiruk had black hair that he often worn shorn short in a skullcap.
+
+History
+Eiruk joined the Watchful Order of Magists and Protectors around 1473 DR.
+
+In 1479 DR, Eiruk was recruited by Khondar "Ten-Rings" Naomal to aid the Blackstaff, Samark Dhanzscul, in retrieving an item from the tomb of Sarael Arunsun. Eiruk was familiar enough with the Blackstaff to recognize that the man presenting himself was Samark was an impostor (Centiv Naomal). However, he was unable to do anything but help the impostor retrieve the item, which would give Khondar the clues he needed to gain the keys to access to Blackstaff Tower. Only an honest and just person (in this case Eiruk) could receive the item; that person also received an invisible, magical mark. Because he had the mark, Eiruk was made the backup heir to the Blackstaff.  When Khondar tried to retrieve the keys from Ompahr Daergech, Ompahr saw that Khondar did not have the correct mark and so gave him the "wrong" set of keys.
+
+When Laraelra, Renaer Neverember, Meloon Wardragon, and others were accused by Khondar of murdering Vajra, Eiruk initially joined other wizards in his guild in an attempt to capture them.  Eiruk switched sides after witnessing a battle between mages from the Watchful Order and Laraelra's friends and he helped return Vajra to Blackstaff Tower because he had a crush on her. The crush made her feel uncomfortable, so she decided to make Laraelra Harsard her heir instead of him.
+
+Eiruk was later made one of the founding members of the group organized by Renaer to replace the Moonstars.
+
+Relationships
+Eiruk's mother was named Ainla.
+
+Appendix
+Appearances
+ Blackstaff Tower
+
+References
+
+---
+
+## Eidolon
+
+Eidolons were a form of undead construct that were designed for the sole purpose of protecting a site considered sacred or important to a deity or archdevil.
+
+Description
+Being undead spirits, eidolons had no concrete form. The statues that were specially prepared to house them were often humanoid in shape and constructed of stone that was magically treated to be purple.
+
+These statues typically had faces that were blank, except for a crude symbol or rune that represented their deity. When a eidolon became rogue, any statue they possessed would leak a thick, viscous fluid resembling blood from these facial symbols. This fluid evaporated within minutes of hitting the ground, but left a red stain.
+
+Behavior
+Eidolons had no free will nor other purpose beyond guarding the place they were assigned to and could never leave. However, occasionally they were known to be corrupted by the divine spark within them  or go insane over time. When this occurred their behavior was unpredictable. Often an eidolon would gain delusions of godhood and seek to kill their mortal creator, then either usurp their role as head of the local cult or outright destroy it.
+
+Combat
+In combat, eidolons showed fanatical zeal when protecting the holy site they were assigned to. At its core an eidolon was an incorporeal undead divine spirit that could fight either as a spirit, or by inhabiting sacred statues in the vicinity. Eidolons often invoked feelings of intense dread in opponents.
+
+Eidolons created by kuo-toa had the ability to spew blood-red seawater with caustic properties, capable of burning the flesh of opponents and affecting their eyesight. The caustic seawater could harden to encase a victim in a compact coral dome covered in runes declaring them as a ritual sacrifice.
+
+Ecology
+Construction
+Eidolons were constructed by divinities and their servants to guard holy sites. According to research by the wizard Mordenkainen, they were often forged from the souls of those who had proven their unwavering devotion to their god.
+
+Other sources claimed that they were created by means of a divine ritual, wherein
+the key component was embedding a crystal shard deep inside them that contained a small spark of a deity's divinity.
+Relationships
+Medusas and grimlocks were occasionally known to worship eidolons.
+
+Notable Eidolons
+ During the Time of Troubles, Torm used the souls of his followers to create a giant lion-headed eidolon to battle Bane outside of Tantras.
+ Eidolons were created by kuo-toa priests in the likeness of Blibdoolpoolp. One such eidolon was located in Taunissik circa 1396 DR.
+ An eidolon was known to guard the inner sanctum of the Brotherhood of the Moon beneath the Icespear House in Deadsnows.
+ The wraith eidolon that protected the Netherese splinter-enclave of Xin'kar.
+
+Appendix
+
+See Also
+ Statue of Mystra
+Appearances
+Adventures
+Dragon+ #21, "Six Faces of Death"
+Video Games
+Neverwinter
+Novels
+Tantras • Plague of Spells • Circle of Skulls
+Miniatures
+Dungeons & Dragons Miniatures • Icons of the Realms
+Organized Play & Licensed Adventures
+Unbidden • Rrakkma
+
+Further Reading
+
+References
+
+---
+
+## Eirwyn
+
+Eirwyn was an astral deva follower of Helm until the god's death. She was a skilled diviner.
+
+Description
+Eirwyn had a silver braid and bronze skin. Eirwyn appeared old; she had a lined face. She carried a silver mace.
+
+History
+When Helm died in 1384 DR, Eirwyn dedicated herself to righteousness, rather than to a particular god.
+
+Eirwyn was a close friend of Tauran's. Against the orders of the High Council of Tyr, she aided Tauran when he began to express doubt about his faith in Tyr. She was imprisoned for her actions but later pardoned and sent to aid Erathaol the Seer, ruler of Venya in Mount Celestia.
+
+Erathaol convinced her to explore her visions, which led her to find Tauran again, along with his companions Aliisza, Kael, and Pharaun Mizzrym. She aided them in defending the Lifespring against Kaanyr Vhok and a demonic invasion; she and Kael were the only members of that group to survive.
+
+Appendix
+Appearances
+Novels
+The Empyrean Odyssey:
+ The Fractured Sky
+ The Crystal Mountain
+
+References
+
+---
+
+## Eiverbreen Parrafin
+
+Eiverbreen Parrafin was the father of Spider Parrafin (the reborn Regis).
+
+Personality
+Eiverbreen was a drunkard. He used his son's natural skills as a deep-sea diver as a source of income for himself.
+
+History
+In 1463 DR, Eiverbreen's wife Jolee gave birth to a son. Jolee died during the birth and Eiverbreen never recovered from the grief. In order to see if his son had genasi blood in him, he attempted to drown him in the sea.
+
+He refused to give his son a name and became a drunkard, neglecting his son in impoverished conditions until his son was old enough to choose his own name (Spider) and earn money for his father. Eiverbreen arranged for Spider to collect oysters for Pericolo Topolino, who in turn provided room and board (and free alcohol) at the Lazy Fisher for Eiverbreen.
+
+Appendix
+Appearances
+Novels
+ The Companions
+
+References
+
+---
+
+## Eilistraee's moonfire
+
+Eilistraee's moonfire was an alteration spell granted by the goddess Eilistraee to her priestesses and, at her will, worshipers.
+
+Effects
+This spell generated moonfire, a beacon of light, whose intensity and color could be controlled by the creator at will, ranging from a faint glow to a clear, bright—though not blinding nor strong enough to harm—light), though moonfire generally had the same intensity as moonlight. Colors could be white, silver, blue-white, or a soft green.
+
+Manifested moonfire was normally always attached to the caster's body, but could move as the creator wished. More experienced clerics, however, could move the moonfire away from their bodies, like the spell dancing lights. The radiance could move around the creator's body as fast as desired, but moved only up to 40 feet (12.2) at a time when away from the caster. The caster could guide it in any direction, through any opening, and cause the glow to appear in any size, up to a volume determined by their power.
+
+A casting of Eilistraee's moonfire lasted a short duration according to the level of the caster, but it could be dismissed at will, and concentration was not required to maintain it.
+
+This spell and the darkness spell negated each other.
+
+Casters
+All full specialty priests, or sword dancers, of Eilistraee could cast Eilistraee's moonfire through an act of will, or cast it as a spell.
+
+Eilistraee herself could also create moonfire at will.
+
+Uses
+It was generally used as a light source for reading, to see in the dark, and as a signal for communication.
+
+Eilistraee also occasionally chose to gift a male follower or a follower with no priestly powers who nevertheless did her work with the power to temporarily ability to manifest her moonfire, as per this spell. This could be to show her blessing or support, or simply to provide some light. However, the lucky bearer had no control over the moonfire's duration, intensity, or location—such things were solely up to the goddess.
+
+Appendix
+References
+
+---
+
+## Eilistraee's Spellsong
+
+The Spellsong was an evocation spell granted by Eilistraee to her speciality priestesses, the Sword Dancers. It was a form of Spellsong, a type of magic that used song and sometimes dance to draw power from the Weave
+
+Casters
+The Sword Dancers could sing and dance to channel the power of Eilistraee. They had the ability to sing their magic even amidst the chaos of the battle, while dodging and dancing around or while wounded.
+
+Multiple priestesses could join in a song and dance around a focus (which could be a creature to aid, a fire, a longsword with its blade planted in the ground or a holy symbol of Eilistraee), invoking magic of greater power.
+
+Effects
+A single priestess could use the Spellsong to invoke magic equivalent to any 4th (or lower) level divine spell, or to return a single 4th (or lower) level spell cast through another Spellsong in the last two days to the mind of the priestess, to provide some healing to injured targets, or to grant spell immunity.
+
+When more than one priestesses joined the ritual, the healing magic of the Spellsong was empowered, and other effects could be obtained. A group of seven or more priestesses could replicate the effects of the spells cure blindness, slow poison and cure disease; a choir of nine could dispel magic or remove curses and a group of twelve could even summon magic equivalent to the spell regenerate.
+
+Appendix
+See Also
+Lesser spellsong
+References
+
+---
+
+## Eira
+
+Eira was a wood elf in the Doomvault dungeon in 1486 DR.
+
+History
+Eira was one of the many Chosen captured by the Red Wizards of Thay and transported to the Doomvault dungeon for experiments. More specifically, she was the chosen of Rillifane Rallathil, a minor god of the Seldarine. In one of the experiments, Eira was infused with the essence of a sacrificed Chosen of Talona, a process that left Eira with half of her life energy.
+
+Eira was freed from her chains by the heroes of Daggerford and she asked to join them in the fight against the Thayans. However, in battle, there was a 50% chance that she would manifest the Talona side and fought with no concern for her own safety.
+
+Appendix
+References
+
+---
+
+## Eichiro Tanaka
+
+Eichiro Tanaka was a samurai in the town of Aru in Wa.
+
+History
+Eichiro was the son of Eiji Tanaka, a fellow general of Benju Matsutomo. During a battle, Eiji betrayed his army but Benju managed to win and executed Eiji for treason. Eichiro however believed that Benju killed his father out of jealousy over the man's superior generalship and promised vengeance.
+
+In 1358 DR, he hired the ninja Yamaguchi clan to kill the pilgrims going to the local Shining Temple of Bishamon. His goal was to ruin the Ceremony of the Three Thousand Steps and become the next daimyo of Aru, after Benju's demotion.
+
+Personality
+Eichiro hated Benju but was not yet sure if getting revenge against the daimyo was his idea or Satomi's.
+
+Appendix
+References
+
+---
+
+## Eigeron
+
+Eigeron was a ghost cloud giant sometime after the War of the Silver Marches.
+
+History
+Eigeron was the son of the cloud giant ruler Blagothkus. One day they went together to the Eye of the All-Father temple. The oracle told them that a great upheaval was in arrive and by then would arise an opportunity for giants to shine. The oracle however told also that Blagothkus never can impress the giant pantheon and urged to Eigeron to abandon Blagothkus. This triggered a fight between the two giants and in the end Blagothkus killed his son and departed mourning.
+In the late 1480s or early 1490s DR an adventuring party together with Harshnag entered in the temple. Eigeron rose as ghost questioning them and helping them in using the oracle.
+However he could only find peace if someone killed his father.
+
+Appendix
+Appearances
+ Storm King's Thunder
+
+References
+
+---
+
+## Eiresse
+
+Eiresse was a tiny pirate cove on the island of Gwynneth in the Moonshae Isles.
+
+Geography
+It lay near the southwestern tip of the island, nominally a part of the kingdom of Corwell. It faced the eastern capes of the island of Flamsterd.
+
+Description
+By the cozy harbor stood a small tower, where lived the pirate Cairak Redbeard and Alabhansree Alanasker, known locally as as "Cymra Shanbadhe", The Lady in Silver, but really a princess of Ormpur who'd gone missing in 1357 DR. They still lived there by 1372 DR. Beneath the cove were winding natural sinkholes that led to the sea, where cold-water giant octopuses laired.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Einsaung
+
+Einsaung  were a type of nat native to Kara-Tur. They were the most commonly encountered nat.
+
+Description
+Einsaung resembled short and stocky humanoids with unkempt hair. They had sharp fangs and claws. They had brilliantly colored reddish skin.
+
+Personality
+Einsaung were shy and as a result were often either invisible or ethereal. Einsaung cherished children and would become corporeal and visible to play games with them.
+
+Combat
+If the residence or the family it was guarding was threatened, an einsaung possessed the strongest member of the family in the immediate area and acted through their body.
+
+Abilities
+Einsaung were powerful creatures and had the innate ability to duplicate the effects of become ethereal, become invisible, beneficence, comprehend languages, dancing blade, deflection, detect curse, detect shapechanger, dream vision, ESP, know history, levitate, passwall, polymorph self, possess animal, protection from good, 10' radius, quickgrowth, and slow poison,  spells at will. In addition, they had the innate ability to duplicate the effects of cure disease and omen once per day. The area around an einsaung was blessed. It was powerful enough to bless an entire house and its occupants. Einsaung were immune to disease and poison and had a resistance to electrical and fire-based spells. They were also immune to damage from all mundane weapons; only magical weapons were able to harm an einsaung.
+
+Society
+Einsaung were household guardian spirits. A family could convince an einsaung to take up resistance with offerings of food and treasure. After taking up residence, einsaung protected the household and dispensed with advice, information, and good fortune.
+
+Habitat
+Einsaung always lived in the southernmost corner of the house they took up residence in. Their actual lair was on the Ethereal Plane.
+
+Ecology
+Einsaung ate a variety of food, favoring fruits and nuts.
+
+Appendix
+References
+
+Connections
+
+---
+
+## Eirontalar
+
+Eirontalar was a noble house of Waterdeep with interests in hunting, tracking and guiding.
+
+Base of Operations
+
+The family owned a villa in the Sea Ward, on the east side of Diamond Street between Vondil Street and Delzorin Street.
+
+Members
+ Chalan Eirontalar: A consort of the family.
+ Marlus Eirontalar: A patriarch of the family.
+ Silas Eirontalar: Marlus's eldest son and heir.
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Eidola Boareskyr
+
+Eidola of Neverwinter, a scion of the Boareskyr family, was the bride of Piergeiron the Paladinson in 1371 DR. Their marriage was instrumental in securing a trade route between Waterdeep and Kara-Tur.
+
+Description
+Eidola had bright, silvery eyes, long auburn hair, and pearly white teeth.
+
+Personality
+Eidola was outgoing and focused on the things she wanted to achieve. She was not cruel, but was very demanding and adored luxury.
+
+Abilities
+Eidola was a capable fighter who knew her way around plate armor and a sword. She was able to fight off a doppelganger with nothing but a hot iron brand bar.
+
+The doppelganger who consumed Eidola and assumed her personality and identity, also devoured several other creatures, giving her a selection of shapes and abilities to take on. These shapes included a shadow mastiff, a giant crocodile, an elven wizard named Jarin.
+
+Relationships
+Eidola very quickly charmed Piergeiron with both her personality and looks. It helped that she was the striking image of his long-dead love Shaleen, whom he was often thinking about later in life.
+
+Rulathorn, the commander of the City Watch of Waterdeep thought Eidola of Neverwinter to be artificially beautiful, cold and calculating, and that when she lovingly looked into Piergeiron's eyes, she looked at her own reflection in them.
+
+History
+Lady Eidola met her husband-to-be Piergeiron when he followed a scream to the side of a road. The young field-plate-armor-wearing woman was shaking a tree in front of her. The screaming was coming from a kobold on the tree who'd stolen Eidola's money purse. Piergeiron offered to help, and without waiting for acceptance started chopping the tree with his battleax. Only after the tree fell he noticed that the kobold had been coaxed off the tree a while before by Eidola using a piece of jerky. She quickly made a scaly friend and captured Paladinson's heart. Unbeknownst to all but Khelben Arunsun and Aleena Paladinstar, Lady Eidola was killed and consumed by a greater doppelganger of the Unseen. The aberrant shapeshifters used a long-trapped soul of one of Piergeiron's wives – Shaleen, to mold shapeshifter Eidola's appearance and personality. The Unseen planned on magically enslaving the Open Lord and ruling through him over the City of Splendors.
+
+At some point, Khelben and Aleena came up with a temporary plan to render the doppelganger harmless. Open confrontation was out of question as Eidola exerted some strange influence over her paramour. The Blackstaff and his apprentice crafted an enchanted girdle of righteousness that locked the greater doppelganger into its current personality and shape. They managed to trick Eidola into putting the belt on and its magic effectively turned her into an ordinary human woman, unable to remove the girdle.
+
+On the 17 and the 18 of Eleint, the, Open Lord of Waterdeep Piergeiron Paladinson and Eidola of Neverwinter held a lavish wedding ceremony at the Chapel of Ao in Piergeiron's Palace.
+
+The wedding was also used to create a trading pact with the Boareskyr family allowing the caravans from Waterdeep to pass through Boareskyr Bridge, making many factions of Waterdeep unhappy. Piergeiron was worried about Eidola's safety and had his trusted bodyguard Madeiron Sunderstone keeping her safe.
+
+The first attempt on Eidola's life came when she was lured away from the guests by a serving girl, in reality, a doppelganger. Eidola used a hot fire poker to attack the creature as Piergeiron finished it off.
+
+Another malicious plot against the newlyweds came from a gues, Laskar Nesher. The fat businessman was attempting to blackmail Eidola with information about her mysterious past. The next nefarious player in the convoluted plot was the Master Mariners' Guild. Its members were seemingly planning an assassination, foiled by a young noble, Kastonoph "Noph" Nesher, son of Laskar.
+
+The third attempt on Eidola's life was stopped by Khelben "Blackstaff" Arunsun, who confronted and killed a group of doppelgangers posing as the lady's handmaidens during the ceremony. All of the swirling plots though ended up being a mere distraction. A set of beautiful candles given as a wedding gift was used during the ceremony, but summoned a group of basal golems that took on the forms of warriors, causing havoc and slaughter in a cloud of magical darkness. Piergeiron the Paladinson fought bravely but Eidola was abducted and taken to the faraway Utter East.
+
+The blushing bride was abducted by the desperate Mage Emperor Aetheric III of Doegan, who hoped that Waterdeep would send an army to look for Lady Eidola. The ruler plotted on using the said armies to battle for his kingdom's safety against the army of fiends and the Fallen Temple. Instead, Khelben assembled a small band of paladins to helm the rescue operation. The group included heroes of Phlan, Kern Desanea and Miltiades. Secretly, BLackstaff hired an assassin to dispose of the doppelganger making sure she never returned to Waterdeep. The assassin was Artemis Entreri.
+
+Eventually, the paladins found the bride in the royal palace of Eldrinpar in the kingdom of Doegan. Noph Nesher thinking Eidola was a human, was tricked into removing her girdle of righteousness, unlocking her shapeshifting powers. She revealed her true nature by mangling the youth in her giant crocodile shape. Escaping from the pursuing paladins and mercenaries hired to found her Eidola used an ancient Netherese gate to arrive first into Ularith in Anauroch and using another gate to Undermountain. The heroes finally located her inside an Unseen safe-house. Eidola was chased into a deadens and confronted. She revealed that a splinter of Piergeiron's soul was strapped inside the same soul gem that was used to mold her Eidola persona. As the doppelganger was getting ready to use the gem's magics to dispose of the pursuers, one of the mercenaries, Belgin Dree, interrupted the spell. Eidola's magic misfired, trapping her own soul within the gem.
+
+The doppelganger's body was destroyed by Miltiades and her soul was released from the gem by Khelben Arunsun, sending Eidola into afterlife.
+
+Appendix
+Appearances
+Novels
+The Abduction • Conspiracy • Uneasy Alliances • Easy Betrayals • The Diamond
+
+The Paladins • The Mercenaries • Errand of Mercy
+
+Notes
+
+References
+
+---
+
+## Einheriar
+
+"Einheriar" (also spelled Einherjar) was a collective term for any army of the spirits of fallen humanoid warriors. Also known as spirit legions, einheriar were not undead; they were once-mortal petitioners specially chosen to serve in the armies of the Outer Planes, most commonly in the Upper Planes. They were numbered among the Celestials.
+
+The term, which translated as "faithful",In the real world, the word einherjar means, "army of one". properly and most commonly referred to the noble warriors of Asgard, who served Odin; however, over time, it also came to be used for the formerly mortal armies of other planes, such as those of Arcadia or the dwarven hosts of Clangeddin Silverbeard. Some of the powers of the Faerûnian pantheon had einheriar in their service, including Ilmater. In the Netherese pantheon, both Mystryl and Tyche were served by them. Eilistraee, goddess of the good drow, also had a host of einheriar. Einheriar loyal to Indra of the Lords of Creation were also known to serve the deity in the homonymous layer of Limbo.
+
+The word was also used in the singular to refer to an individual member of the einheriar.In the real-world Norse myths, a member of the einherjar was called an einheri.
+
+Description
+Einheriar were described as wispy in form, including their armor and weapons. The majority of einheriar were once human, and they still looked similar in appearance to the persons they once were in life.
+
+Einheriar were suited in the highest quality of armor, usually with a design that hinted at the god or goddess whom they served. Rarely, their armor had minor magical enhancements.
+
+Personality
+Einheriar were wholly obedient to the powers or proxies who commanded them, faithfully following their orders with great fervor.
+
+Abilities
+Einheriar were among the toughest examples of their former race. They were exceptionally fleet of foot. They also had minor resistance to magical spells, and most were immune to fear. Sometimes, the deity who commanded the einheriar would grant them additional powers.
+
+The greatest among them were powerful enough to be considered quasi-deities. Such individuals were impossible to polymorph and were immune to mind-affecting maladies and magics that would drain their essence or abilities. They were strongly resistant to fire, to spells, and to physical attacks from all but the most powerful of magic weapons.
+
+Einheriar were immortal. If they were killed, they would simply return to life again after a short time to fight another day.
+
+History
+Dwarven einheriar from Mount Clangeddin in Arcadia frequently entered Acheron to battle in epic array against the evil forces there.
+
+The einheriar of Asgard resided in Odin's feasting hall of Valhalla, waiting for the great battle of Ragnarok. Einheriar in service of Sharindlar were also known to inhabit the Merciful Court, her divine realm in Nidavellir.
+
+Elven high mages had developed an epic spell to summon an army of einheriar to defend their homelands.
+
+Society
+When encountered on the planes, einheriar could be found in patrols numbering from 10 to 100 persons, marching in military units. These patrols usually included a majority of fighters, but other classes of warriors were among their numbers as well in smaller percentages. According to estimates as few as 10% and as many as 20% were divine spellcasters, while from only about 3% to as many as 15% were arcane casters. These were the roles that each warrior once held in life, and each recalled the full extent of his or her training and combat skills as a mortal.
+
+There was no hierarchy among their ranks. All einheriar were equals, subservient to their commanding power or proxy.
+Diet
+As spiritual creatures, einheriar did not need to eat to survive.
+Relationships
+They respected other celestial beings as aasimon and archons, but they worked independently of them. Einheriar received their instructions from the powers through prayer.
+
+Among the Morndinsamman they acted as servants of the deities Berronar Truesilver, Clangeddin Silverbeard, Dugmaren Brightmantle, Gorm Gulthyn, Haela Brightaxe, Moradin, Sharindlar, and Thard Harr. The goddess Lliira particularly favored as divine servants einheriar who were once partiers or pranksters in their mortal lives.
+
+Appendix
+Notes
+
+Gallery
+
+Appearances
+
+Further Reading
+
+References
+
+Connections
+
+---
+
+## Eight
+
+Eight was a goblin child that lived in the Shattered Sanctum, a fortress of the Cult of the Absolute.
+
+Description
+Eight wore a leather helmet and a crude cuirass that was fastened by a rope.
+
+Personality
+The goblin was very aggressive despite being so young.
+
+History
+In the late 15 century DR, Eight's was made an orphan when his parents were murdered by a soldier of the Flaming Fist during his camp's raid of the Waukeen's Rest inn. The young goblin claimed to have killed the man, and then took out their rage on the corpse of the alleged murderer. Eight claimed that they were better off without their parents anyway.
+
+Appendix
+Appearances
+Video Games
+ Baldur's Gate III
+Gallery
+
+References
+
+---
+
+## Eiko
+
+Eiko was a shogun of Wa who took office in 1601 (1183 DR).
+
+History
+In 1608 (1190 DR), Eiko officially recognized the settlement around the Shining Temple of Bishamon and named it Aru after the Aru river. Furthermore, he decreed it the capital of the new Aru Province (cleaved off the existing Jasuga Province) and appointed Arata Matsutomo, head of the completely loyal Matsutomo clan, as its first daimyo; the Matsutomos dutifully relocated to Aru.
+
+Appendix
+Name
+In Ninja Wars, he is named "Eiko Nagahide", but it's clear the author misunderstood "Nagahide" as the family name of Matasuuri Nagahide, when it's actually his given name. Moreover, the Matasuuris took power in 1663 (1245 DR), after Eiko's reign, so he is unlikely to be a Matasuuri either. Other possibilities are the Nitta clan of early shogun Nitta Shogoro and the Hidetomi clan said to be the shoguns of Wa in Oriental Adventures, page 137. With no further information, this article adopts only the given name "Eiko".
+
+References
+
+---
+
+## Eiji Toda
+
+Eiji Toda was a head of the Toda clan and a daimyo of Aru Province in Wa during the 1600s on the Wa Calendar.
+
+History
+He was the son of Sousuke Toda, who became daimyo in Wa Year 1628 (1210 DR) and governed well for almost ten years.
+
+When Sousuke died in a hunting accident, Eiji succeeded him, having only just reached his age of majority at barely 17 years old. He was eager to do well but inexperienced. This became clear when the following three years saw resurgent bandits devastate the pilgrim trains to Aru. However, the shogun Takahiro forgave Eiji because of his age and inexperience.
+
+Then, in 1640 (1222 DR), a foreign raiding party (possibly from Shou Lung) made it through the daimyo's defenses to Aru's outskirts and razed part of the Eta District. This failure was too great and Eiji was removed from office, with the daimyate passed back to the Matsutomos.
+
+Eiji died without an heir, so the Toda line of Aru died with him.
+
+Appendix
+References
+
+---
+
+## Eibrancha
+
+Eibrancha was a planet located within an unknown crystal sphere, for which barely any recorded information existed.
+
+Inhabitants
+Planewalking wizards that investigated life on this planet reported that its inhabitants were largely ordinary folk and that 'heroes' were a rare occurrence. Life in general on the planet was said to be incredibly dull and ordinary.
+
+History
+Around 1281 DR, a group of adventurers traveling across Icewind Dale discovered an enchanted crossbow made of purple wood. Sages believed this wood came from a unique variety of tree on Eibrancha.
+
+Notable Inhabitants
+ Bren Muller, an educated man who sages believed came from this planet. He once owned an enchanted crossbow that was later discovered by adventurers in Icewind Dale.
+
+Appendix
+Appearances
+Video Games
+
+Icewind Dale
+
+References
+
+---
+
+## Eirontalar Villa
+
+Eirontalar Villa was the family estate of the Waterdhavian noble house of Eirontalar.
+
+Location
+The Eirontalar Villa was located in the city block bounded by Diamond Street, Delzorin Street, Feather Street, and Vondil Street, in the Sea Ward of Waterdeep.
+
+They had a second villa  on the north side of Hassantyr's Street, in the middle of a block between Sul Street and Shield Street. It was a walled compound with three buildings and an inner garden.The map in the 3.5-edition City of Splendors: Waterdeep displays two locations marked '$33' for the Eirontalar Villa. This second one may in error and intended to be another site, but this is difficult to determine. On other maps, the site is unmarked.
+
+Structure
+The compound was a walled estate that consisted of some two-story buildings and some green space.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Eined Datharathi
+
+Eined Datharathi was a member of the Datharathi chaka of Vaelan in Durpar in the mid-to-late 14 century DR.
+
+Relationships
+She was the older sister of Warian Datharathi. After their parents both perished in an accident, and Warian lost an arm in a mining accident, Eined encouraged her brother to see the world.
+
+History
+In the spring of, she fled her home, suspicious that something was controlling her family members through the crystal in their plangent bodies. During this time, she found Ususi Manaallin and Iahn Qoyllor outside of the Body Shop; she quickly approached them for help in shutting down the crystal's production.
+
+Eined Datharathi was slain by her grandfather, Shaddon Datharathi, in Tarsakh of 1374 DR after allowing the two Deep Imaskari with her inside Shaddon's chambers.Per The Grand History of the Realms, Pandorym is sealed on Tarsakh 19, and the sealing occurs during the fight in which Shaddon is slain. Thus, since there is barely a day of difference between her death and his, she was slain on either Tarsakh 18 or 19. Her uncle, Zeltaebar Datharathi, wanted to elevate her to the status of a family saint after her death, while Ususi Manaallin meant for her name to be remembered amongst the greatest heroes of her people.
+
+Appendix
+Notes
+
+Appearances
+Novels
+Darkvision
+References
+
+---
+
+## Eirl Rauthantannar
+
+Eirl Rauthantannar, known as The Whisperer in Shadows and Old Eirl, was the Magister from  to . He eventually became Greentree Haven.
+
+Description
+His nickname came from his hoarse voice. It thinned as he aged; by the end, he sounded like he was always whispering.
+
+Personality
+He was a kindly, wary man, slow and careful. He dreamed of a day when there would be too many mages for any one wizard or ruler to mistreat or dominate all of them. Eventually, the death of many wizards that he aided began to weigh on him; by the end of his life, melancholic sadness was taking the last of his energy.
+
+Activities
+Before becoming the Magister, Eirl had made a career of hiding in shadows and adopting demeaning disguises. After becoming the Magister, Eirl saw to the growth of mages everywhere, giving lore without thought to personal reward for the first time in the history of Magisters since Tsanbrin Aulmeroevler. He gave magelings a slow progression of spells as they advanced in the art. He also steered them into lives of study, safety, and low profiles.
+
+History
+At one point before becoming the Magister, Eirl Rauthantannar had spent the better part of a month pretending to be a dung carter in Zazesspur.
+
+He slew a wizard who had polymorphed himself into a lizard man at the Magefair where Talana Brakuularn was killed, thereby becoming the Magister. He was not a young man upon assuming the office; as Magister, he gave magic to many students of magic. He would often loom out of the darkness and delivered a word of advice or a short sentence, gaining eventually the nickname of "whisperer".
+
+As he aged, he grew wracked with diseases; eventually, he decided to give up life as a man and become Greentree Haven.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Eiruidin Ondaru
+
+Eiruidin Ondaru was a Pasha from upland Calimshan in the mid-13 century DR.
+
+History
+Eiruidin Ondaru had taken a boy, Aralagath Tarsil, for a favored pet, whom he kept collared and leashed until his own murder by his court wizard, Ongraunnathan, in . After his death, the wizard used magic to make him appear to be alive, and reigned in his name until he was unmasked in .
+
+Appendix
+References
+
+---
+
+## Eiraklon Marimmatar
+
+Housemaster Eiraklon Marimmatar was in charge of security at the famous Gentle Mermaid tavern and gambling hall in the city of Waterdeep during the mid-to-late 14 century DR.
+
+Activities
+Eiraklon commanded several dozen bouncers and watch wizards to maintain security within the Gentle Mermaid. He was assisted by his second in command, Ulthlo Relajatyr. Eiraklon had suspicion that shady funds were funneling through the Gentle Mermaid, but did not dare bring his suspicions to the owner, Jhant Daxer. He had the freedom to hire whoever he wished and conduct operations how he saw fit.
+
+Appendix
+References
+
+---
+
+## Eilean's Maztica Delights
+
+Eilean's Maztica Delights was a shop located in Waterdeep during the mid-to-late 14 century DR.
+
+Description
+The building was two storeys tall.
+
+Location
+Eilean's Maztica Delights was located in the north section of the Castle Ward on the southeast corner of the intersection of Trader's Way and Sul Street bordering the north side of the Market.
+
+Activities
+The shop specialized in exotic goods from distant Maztica.
+
+Appendix
+References
+
+---
+
+## Eilius
+
+Eilius was an individual reporting indirectly to the High Imperceptor of Bane in the mid-14 century DR.
+
+History
+In late mid-, Kuldus related unto the High Imperceptor of Bane that, per Eilius' report, Manshoon remained absent from the city since his abrupt mid-meeting departure. Though it hadn't been compiled unto a report yet, he had added that Fzoul sought the beholders, the other lords sought Manshoon, and intrigue was high.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Eigersstor Noblerot
+
+Eigersstor Noblerot was an alcoholic drink from the city of Neverwinter. It was exported as far as the Western Heartlands, the lands along the River Chionthar, and the city of Baldur's Gate, as of the late 15 century DR.
+
+Description
+Named after Eigersstor, an early incarnation of the the City of Skilled Hands, Noblerot had a distinct Neverwintran taste – earthy and chewy. The drink itself had a slightly green tint. Eigersstor Noblerot was bottled in round bottles of green glass, encased in a wicker.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Eilistraee's grace
+
+Eilistraee's grace was a transmutation spell used by Silverhair Knights.
+
+Effects
+When cast, the caster summoned the might and grace of Eilistraee, enveloping themselves in a divine radiance. This radiant energy manifested as a silvery glow that encompassed the caster's body, casting light over a  radius and significantly hindered the caster's ability to remain concealed.
+
+While the spell was in effect, the caster's agility and mobility was temporarily increased. In addition, the divine energy imbued the caster's touch attacks and any melee weapons they employed, aligning them with the forces of good. This allowed the weapons to bypass damage reduction as if they were good-aligned.
+
+Components
+This spell only required a verbal component.
+
+Appendix
+References
+
+---
+
+## Eilistraee's prayer missiles
+
+Eilistraee's prayer missiles was a variation of the magic missile evocation spell that summoned forth missiles of magical energy for the destruction of ju-ju zombies by the clergy of Eilistraee.
+
+Effects
+When the spell was cast, it created a barrage of bright silvery magic missiles that flew towards their targets and struck them without error, targeting one or more creatures within a  cube. The spell's targets could only be creatures. These missiles resembled the magical bolts created by the goddess Eilistraee's avatar. The number of summoned missiles increased with the spellcaster's level as well as the spell's distance, starting at . Eilistraee's prayer missiles functioned and were affected by the same magics as normal magic missiles. The spell's damage differed depending on the target's alignment and, most notably, the spell could deal normal damage to undead like ju-ju zombies that regular magic missiles could not harm, and they even healed good beings that they struck.
+
+The spell was unique to the clergy of Eilistraee and could not be used by a cleric of any other deity in the Realms.
+
+Components
+Eilistraee's prayer missiles required verbal, somatic, and material components to cast.
+
+History
+Eilistraee's prayer missiles was developed by a priestess of Eilistraee who traveled aboard a spelljammer. The spell's purpose was specifically to be used against various undead creatures, especially juju zombies.
+
+Appendix
+Notes
+ Eilistraee's prayer missiles was a entry to a 1998 spell design competition in Dragon magazine, gaining an honorable mention, created by Jeremy Clements.
+
+References
+
+---
+
+## Eilistraee's Wanderers
+
+Eilistraee's Wanderers were a group of drow that worked to aid the rebuilding of Myth Drannor in 1374 DR. They were closely aligned with the Elves of Cormanthor led by Tannivh Dahast, which had similar goals.
+
+History
+The group was formed when Kelgoth Darksong found an ancient chronicle describing the raising of the city's mythal in 261 DR, and realized that it also described the key to the mythal. With this knowledge, the damaged mythal could be repaired and controlled, and provide a powerful first step in the recovery of the city. Kelgoth assembled his friends and allies and set off to Myth Drannor, joining the Cormanthor Elves at their camp in the outskirts of the ruins. Unfortunately, the Elves were already hard-pressed by the many threats in the area and were not able or willing to strike into the city to pursue what seemed like rumors. Unwilling to wait, Kelgoth, Zeliira, and Uhlsdrin set off on their own missions, but were each overcome or blocked by the threats lurking within the city.
+
+Members
+The Wanderers were made up of various drow who agreed with Kelgoth's plan, including some from as far away as Imberlur. Their members included:
+ Kelgoth Darksong, their leader.
+ Irrwyss Fret'tar
+ Izzinid Claddafin
+ Greyarra Auvryath
+ Uhlsdrin Nirveth
+ Durfryn Alearn
+ Chessae Baenrahel
+ Zeliira
+
+Appendix
+See Also
+ Elven Crusade
+
+Notes
+
+Appearances
+
+References
+
+---
+
+## Eilistraee: Lady Silverhair
+
+Eilistraee: Lady Silverhair was a book that, unsurprisingly, collected the mortals' knowledge on the topic of Eilistraee, a benevolent drow deity. It was published in or before the late 15 century DR.
+
+Contents
+
+The book offered a close and personal look into the story of Eilistraee, sparing no detail. It chronicled the deity's life, death at the hands of her mother, Lolth, and rebirth in the Second Sundering.
+
+History
+A copy of Eilistraee: Lady Silverhair was kept among the religious books of the Stormshore Tabernacle, a multi-denominational shrine in the Lower City of Baldur's Gate circa the .
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Eirgel
+
+Eirgel was a page in the High Palace of Silverymoon in the mid-to-late 14 century DR.
+
+Appearance
+He was but a boy.
+
+Activities
+He was a page.
+
+History
+In, Alustriel Silverhand called on all her pages to determine whether the trader Oscalar Maerbree was lying about not having met with the recently murdered tradelord of Neverwinter, Garthin Muirtree. As they arrived, they caught him saying something rude to her. One of them, named by the Lady as Eirgel, challenged him to a duel. Alustriel talked him down.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Eight diagram coins
+
+Eight diagram coins were actually copper discs engraved with symbols.
+
+Description
+These coins always came in sets of eight, each copper disc engraved with its own symbol.
+
+Powers
+Once a coin was tossed into the air and the command word spoken, the caster would then intuitively learn of the fate of someone as per the fate spell.
+
+History
+At least one set of these coins were located in the Horseshoe Temple Oasis, both before and after its occupation by oni in . Around the same time another set was scattered around the mountain temple near Jalan, somewhere in Kara-Tur.
+
+Notable Owners
+ Kregos Belizzian, a Red Wizard, and informant for the Grand Army of the Tuigan, had a set of these coins.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Einar Stormsson
+
+Einar Stormsson was a Northlander druid from Moray in the Moonshae Isles in the late 15 century DR. He was killed while trying to prevent the revival of the dead god Malar.
+
+Description
+He had red hair and a red beard. He had a keen sense of smell, and disliked the stink of fey.
+
+Activities
+Einar and his partner, Eleuthra Davos, served King Derid Kendrick as spies within the ranks of the Black Blood tribe of lycanthropes. They used their shapechanging abilities to assume the form of beasts, allowing them to pass as fellow lycanthropes. Einar's preferred beast form was that of an enormous, reddish leopard.
+
+History
+In the late 1470s DR, the Black Blood tribe began a ritual in the ruined city below Scourtop to revive Malar, who had been presumed dead since the early days of the Spellplague. Einar and Eleuthra teamed up with a golden elf known as the Savage (an ally of two sacrificial victims forced to participate in the ritual) to disrupt Malar's return. They launched a surprise attack, but failed to stop the ritual. Einar was quickly killed by the Malarite werewolves, who tore the flesh from his bones.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+

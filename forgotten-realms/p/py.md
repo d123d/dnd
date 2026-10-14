@@ -4,6 +4,524 @@ _Source: forgottenrealms.fandom.com, CC-BY-SA 3.0, dump 2025-10-22._
 
 ---
 
+## Pyrolisk
+
+The pyrolisk was a close relative of the cockatrice that enjoyed causing mayhem.
+
+Description
+Pyrolisks were very similar, visually, to cockatrices: a chicken-like creature about  tall, with golden-brown feathers, bright red eyes, red comb and wattle, grey, batlike wings, yellow beak, and a green, lizard-like tail tipped with a few feathers. There were a few subtle differences in that pyrolisks had a reddish cast to their wings and a single red feather on the tail.
+
+Behavior
+Pyrolisks were malevolent creatures that reveled in spreading mayhem.
+
+Abilities
+Anyone who met the gaze of a pyrolisk would burst into flames unless they resisted through force of will or were themselves immune to fire. Pyrolisks, naturally, were immune to fire, and could also cause any fire within  of them to burst into fireworks, similar to the pyrotechnics spell.
+
+Hatchling pyrolisks lacked the gaze attack of adults, but could already use pyrotechnics.
+
+Ecology
+Pyrolisks were omnivores that lived in temperate to tropical lands. They were aggressive enough to attack most other creatures they came across, but phoenixes in particular were their mortal enemies.
+
+Pyrolisks were recorded to live in the starwood regions of Cormanthor, where they were known to take over Giant harvester termite
+pits as nesting sites. The mother pyrolisk would eat all the adult termites, lay one or two speckled eggs, scatter some shiny objects around for decoration, only to leave once they hatched; the hatchling pyrolisks then fed upon the termite larvae until they could hunt for themselves (a period lasting a few weeks). The owlbears that also hunted in termite pits despised the trespassing pyrolisks but left them alone.
+
+Pyrolisk bones radiated heat even after the pyrolisk was dead.
+
+Appendix
+References
+
+---
+
+## Pyrith
+
+Pyrith was a blue-green faerie dragon and familiar of Yaereene Ilbaereth.
+
+References
+
+---
+
+## Pyrohydra
+
+The pyrohydra  was a variety of hydra that could breathe jets of fire, in a cone, from each of its heads.
+
+Ecology
+Habitats
+Pyrohydras were typically found in the Peaks of Flame in Chult and the Fire Marshes of High Moor.
+
+They were also native to the Elemental Plane of Fire.
+
+History
+Amidst the havoc of Halaster's Higharvestide in the, a pyrohydra passed from Undermountain through the Sojourner's Portal into the crypts below the Temple of Old Night.
+
+Appendix
+
+See Also
+ Cryohydra
+Appearances
+
+References
+
+---
+
+## Pyricus
+
+Pyricus was an elemental prince in service to the primordial Maram of the Great Spear. In the, he was freed from the Anchor of Chaos and tried to use subjugated barbarians from the Ride to fully destroy the anchor and free his master but was defeated by a band of adventurers hired by Lord Protector Anivar Daoran of Phlan.
+
+References
+
+---
+
+## Pyrotechnics
+
+Pyrotechnics was a spell from the transmutation school or the alteration school that operated on a normal fire to produce either bright, blinding fireworks or billowing clouds of thick, choking smoke.
+
+Casters
+In the time of Netheril, Primidon's pyrotechnics could be cast by arcanists of the Inventive specialization.
+
+Pyrotechnics could originally be learned and cast by arcane magic-users and by druids. After the Time of Troubles of 1358 DR, it could be cast by druids, wizards with access to the alteration school, and clerics, particularly those who commanded the  Elemental and Elemental Fire spheres. Following the Year of Wild Magic, 1372 DR, it could only be cast by wizards with access to the transmutation school, sorcerers, and bards, as well as warmages and wu jen.
+
+In Zakhara, elemental mages and sorcerers could learn it as part of the Flame province.
+
+Effects
+The caster chose an existing fire source at a distance of  or more, and turned it into smoke or fireworks as they willed.
+
+The fireworks version produced a brief burst of lights in the air over the fire source These were glowing, fiery, multi-colored, and flashing. All creatures within  who beheld risked becoming blinded for a short period of time, though those who could resist spells might avoid it. This effect could also be used to put out a fire aboard a spelljammer.
+
+The smoke cloud version caused the fire source to emit a writhing stream of smoke, which billowed outwards for  in all directions. The thick smoke blocked all natural sight. Creatures caught within the cloud choked on the smoke and were weakened for a short period of time, even after they escaped the cloud or it dissipated, which it did in a short time. This effect could also be used to foul the air envelope of a spelljammer.
+
+The spell could not be cast in the phlogiston, since any fire source immediately exploded upon contact with the substance.
+
+Components
+In addition to typical verbal and somatic components, pyrotechnics required an existing fire source as a material component. A small fire would be immediately put out by the casting, but one larger than  wide and just as high would be only partially extinguished. A magical fire could not be extinguished at any size.
+
+A fire-based creature, like a fire elemental, could also be used as a fire source. It would take damage according to the power of the caster.
+
+History
+This spell was invented by a Netherese arcanist named Primidon in 1918 NY (−1941 DR) and was known as Primidon's pyrotechnics.
+
+Notable items
+An annulus conflagros, a powerful magical ring, could produce pyrotechnics at will.
+
+Notable uses
+In the Year of the Prince, 1357 DR, the wizard Parwyyd Hanifar, acting on the advice of his assistant Dunstanny, approached a fire elemental and used it as a fire source for a pyrotechnics spell. This obliterated the elemental and the ensuing fireworks dazzled a number of gargoyles and kenkus that had emerged from his Great Door.
+
+Appendix
+See Also
+ Animate flame
+ Thuparlial
+Appearances
+
+References
+
+---
+
+## Pyras Autorian
+
+Pyras Autorian was the tharchion of Thaymount of Thay.
+
+Description
+In 1373 DR, Pyras was in his early 30s. Pyras had hazel eyes, and his most noticeable feature was a full head of bright red hair. It always stood up in the sea of shaven-headed Thayans. Pyras's hair was strangely resistant to any attempts of removing it, be it in mundane ways or via magic.
+
+Personality
+Pyras Autorian thought himself to be fair-minded, but most Red Wizards that knew him called him weak-willed. Pyras often hid his failures and weaknesses.
+
+Relationships
+Pyras had little magical talent, to the constant embarrassment of his father. To please the senior Autorian, Pyras entered the world of politics.
+
+Activities
+Pyras had no real talent and was an open puppet of Szass Tam. In turn, Szass kept Pyras safe with bodyguards, magical items, and spells.
+
+History
+Pyras was tharchion of Thaymount by 1372 DR.
+
+In the, Pyras Autorian was possessed by Eltab in the plot of Naglatha against Tam but was likely killed by Thazienne Uskevren when she defeated Eltab.
+
+Although soon healed or resurrected by some means, he was later sacrificed by his patron Tam in the, in order to invoke Bane for help in the Thayan civil war.
+
+Appendix
+
+Appearances
+Novels
+The Crimson Gold • Unclean • Undead
+
+References
+
+---
+
+## Pyraphenia
+
+Pyraphenia the Firebrand was a mercenary and the main lieutenant of Gommoth the Twisted, the cult-leader that took control of Mount Hotenow for a time during the late 15 century DR.
+
+Activities
+Unlike fervent members of Gommoth's Cult of Maegera, Pyraphenia was not invested nor did she believe in the goal to reawaken the sleeping fire primordial Maegera. Rather she was a pragmatist that saw the rise of the fire giant faction as a great opportunity to hone her skills as a swordswoman.
+
+Much to her chagrin, Pyraphenia was relegated to guarding the red dragon Karrundax, and forced to remain within its lair in Mount Hotenow, rather than fight in battle.
+
+History
+Pyraphenia finally got her chance to test her combat prowess against worthy combatants in the, when the Heroes of Sleeping Dragon Bridge assaulted the cult's holdings in Mount Hotenow. Ultimately her abilities and expertise were not as good the warrior believed, and she fell to the group while defending the young Karrundax and her wyrmlings.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Pypyap
+
+Pypyap or Pipyap was an imp familiar of Halvin Graingle in the Quivering Forest near Phlan in the late 1480s DR.
+
+Personality
+Pypyap was a very friendly devil, albeit ill-willed. He was honest in his dealings and talkative. He enjoyed being on Toril and he had no wish to go back to the Nine Hells. For this reason, he was also very cautious about being killed.
+
+History
+Circa 1485 DR, Pipyap was in Maerimydra in the Underdark, where he was harassed by some ogres. He was saved by an adventuring party hired by Solom Ned'razak to collect some samples of blood from fiendborne fire giants. Pipyap was grateful to the adventurers and helped guide them through the city.
+
+Pypyap was later summoned from the Nine Hells by Halvin Graingle, a member of the Cult of the Dragon, to act as his familiar. Circa 1489 DR, he went with his master to the Kabel's Hill community in the Quivering Forest. After Halvin's disappearance, Pypyap went to ravage the local livestock. Here he was discovered by an adventuring party hired to find Halvin.
+
+Appendix
+Background
+This article assumes Pypyap from Tales Trees Tell and Pipyap from It's All in the Blood to be the same imp, with only minor change in spelling.
+
+Appearances
+ Tales Trees Tell
+ It's All in the Blood
+ Infernal Pursuits
+
+References
+
+---
+
+## Pyratar
+
+Pyratar was the capital of Var the Golden in 1367 DR.
+
+Description
+Pyratar was located on a bay named the Throat within the western regions of the Golden Water. The Throat shielded the city from the harsh winter storms that ravaged much of the surrounding area.
+
+Pyratar's docks, and their naval traffic, rivaled those of Heldapan's across the Golden Water.
+
+Inhabitants
+This city had a population of 45,000.
+
+Pyratar was the home of the Chaka Sememra. They had their fingers entwined within most of the businesses in the capital.
+
+The city was ruled by the Supreme Potentate Anwir Dupretiskava who continuously played the three strongest factions of Var against one another, the Hajwas (landed nobility), the Nawabs (merchants), and the Janas (priest of the Adama), leaving the Potentate to act as mediator between them.
+
+A growing sect of worshipers of Mask resided in the city. Led by Kelsipal, their goal was to first take over Pyratar and then the rest of the country.
+
+ History
+In 1184 DR, the ancient Blue dragon Anwir Duprestiskava slew the then ruling Supreme Potentate of Var, whereafter he disguised himself as a human and successfully deceived the citizens of Var into believing that he was the distant cousin of the former Potentate and as such the next heir to the throne. Anwir was shortly thereafter crowned the new Supreme Potentate of Var, ruling the nation out of Pyratar.
+
+In 1385 DR, as Pyratar and the rest of the nation of Var was drowned as the result of the Spellplague and thousands upon thousands of its citizens died in mere days, the now realmless ruler of Var turned mad, running berserk throughout the sunken ruins of his old capital of Pyratar.
+
+As of 1479 DR, the Blue dragon continued to stalk the ruins of Pyratar, slaying any adventurers or similar who dared to explore the sunken city. Anwir was however also known to occasionally attack and sink ships that unknowingly sailed too close to his domain.
+
+Appendix
+References
+
+---
+
+## Pynroth
+
+Pynroth was a tiefling youth in the Moonsea in the late 15 century DR.
+
+History
+Pynroth lived with nine other non-human children in Madame Delilah's Home for Orphaned Children in Hillsfar until First Lord Torin Nomerthal proclaimed again the Great Law of Humanity, expelling all non-humans. Luckily, Pynroth and the others were housed by Ebenz and Bea Farbough, two farmers without children, in a farmhouse near the city. Pynroth lived there for two years.
+
+Circa 1486 DR, Pynroth was in the rebellious teenager phase and left the home. He was attacked by some wild dogs but was protected by Beralt of the Emerald Enclave and saved by some adventurers who happened to be near the farmhouse.
+
+Appendix
+Appearances
+ Harried in Hillsfar
+
+References
+
+---
+
+## Pyong Do
+
+Pyong Do was a city in the realm of Koryo in Kara-Tur. It was formerly part of the kingdom of Koguryo.
+
+Geography
+Pyong Do lay in the far southwest of the peninsula, on the shores of the Straits of Koryo. It stood within the province of Koguryo.
+
+Locations
+The prestigious Do Jang of Won Kwang was established by Won Kwang in Pyong Do in 925 DR. It was still in operation by 1357 DR, and had trained many great generals, even King Wanang Sun.
+
+Appendix
+References
+
+---
+
+## Pyramid of the Moon
+
+The Pyramid of the Moon was a mysterious structure in Chult. It only appeared during the full moon, and never in the same place twice. Once it appeared near Port Nyanzaru, and in the morning over two hundred people were missing; none were seen again.
+
+It was said that the hallways within the pyramids were host to an eternal celebration, in which spirits and living beings danced, sang, and drank together. Those who did not leave before the moon set became spirits themselves, doomed to endlessly serve the Silver Priestess who sat on a glass throne in the pyramid's central chamber.
+
+Appendix
+References
+
+---
+
+## Pyroclastic dragon
+
+Pyroclastic dragons were true dragons from Gehenna, Dragon Eyrie, and Fury's Heart, as well as the far reaches of the Elemental Chaos.
+
+Description
+A pyroclastic dragon's body was shaped like a red dragon's, heavily muscled and solidly built. Its scales looked like broken obsidian and hot magma. These scales created mottled patterns of red, orange, black, and gray over its entire body.
+
+All in all, a pyroclastic dragon's body gave off a sense of immovability. Compared its body, its wings, which were seemingly made of ash, were rather weak-looking but fully operational.
+
+Personality
+A pyroclastic dragon was an avid swimmer. What was special about this was that it liked to swim through magma instead of water. They were creatures whose temperament was compared to a volcano. Overstressing it caused a truly violent reaction. They loved to eat meat but a diet of minerals sufficed.
+
+Combat
+A pyroclastic dragon could walk twice as fast as a human. It was a rather slow flier for a dragon. It could burrow through the earth. Most important about its abilities for locomotion was its natural climbing ability, something that made living and fighting in Gehenna much easier.
+
+Apart from the abilities it shared with other true planar dragons, a pyroclastic dragon was completely immune to fire and damage from sound. With advancing age, it gained an ever stronger defense in the form of harder scales, resistance against magic, non-magical attacks and those attacks that were not aligned with the philosophy of good.
+
+It had two breath weapons. One was superheated ash that was delivered on a wave of sonic force. Both were harmful to creatures. The former burned creatures, the latter crushed them. The second breath weapon worked like a disintegrate spell; creatures who could not withstand it crumbled to ash.
+
+Like any other planar dragon, a pyroclastic dragon had no sorcerous powers. However, it gained a number of inherent spells with advancing age. It learned to cast produce flame and sound burst, both of which it could cast up to three times per day, and fire storm, incendiary cloud, meteor swarm, power word, stun, pyrotechnics, shatter, shout, wall of fire, and wall of stone.
+
+Society
+A pyroclastic dragon of any age could be encountered alone, but there were two exceptions. Wyrmling to young adult ones gathered in clutches of two to five. A pair of mature adults could form a family consisting of the pair and a clutch.
+
+Pyroclastic dragons preferred to make their lairs in the calderas of active volcanoes.
+
+Appendix
+Appearances
+Novels
+The Ruin
+
+References
+
+Connections
+
+---
+
+## Pyarados (tharch)
+
+Pyarados was a small but vital tharch, located in the eastern region of Thay, just west of the River Thazarim. Despite its size, it was important to the nation as it controlled access to the valuable minerals found within the eastward Sunrise Mountains. The lands east of the Thazarim held vast slave plantations and many estates of the nation's Red Wizards.
+
+Armed Forces
+The tharch was renowned for its famed Griffon Legion, warriors and warmages that soared the skies over Thay atop their aerial griffon mounts.
+
+Economy
+Heavy taxes were imposed on mining businesses that sought to mine the depths of the Sunrise Mountains. Even the most basic of survival equipment were sold at exorbitant rates within Pyarados' towns and settlements.
+
+Notable Locations
+ Kepetur, one of the last remaining prayer towers of Mulhorand, one that was infested with demons as of the early Era of Upheaval.
+ Pyarados, the capital of the tharch was an eclectic, wild city of both immense wealth and outright destitution. It served as a gateway to the untamed wilderness due further east.
+
+Geographical Features
+ Serague Escarpment: The eastern border of Pyarados included a small portion of the sheer cliff face that further elevated the Sunrise Mountains above the Thayan Plateau.
+
+Appendix
+
+References
+
+Connections
+
+---
+
+## Pyarados
+
+Pyarados was a lawless city located in the eastern frontier of Thay. It was a wild city of adventurers that served as a base of operations for those who sought to explore the rugged Sunrise Mountains and lands further east.
+
+Description
+The city of Pyarados was divided between an ordered, central core and a chaotic, sprawling outer expanse. The inner region had wide clean streets that housed the beautiful parks, luxurious establishments and grand palaces of the Red Wizards and wealthy merchant-class. The inner walls of Pyarados denoted the original border of the city but had since been expanded outward. Beyond the wall was a series of winding mud-covered streets that rambled between small shacks and crude temporary shelters.
+
+Places of Interest
+The Black Unicorn: A well-respected tavern frequented by important individuals.
+Laeril's Arms: The tavern that was frequented by adventurers and visitors of Thay.
+Weeping Slave: One of the lower priced drinking establishments in Pyarados that catered to drunks, poor folk, and down-on-their-luck cripples.
+
+Appendix
+
+Appearances
+Novels
+The Crimson Gold
+References
+
+FR:Pyarados (cité)
+
+---
+
+## Pyrite
+
+Pyrite, also known as iron pyrite or fool's gold, was a golden-hued mineral containing iron.
+
+Description
+With its yellow-metallic sheen, pyrite resembled gold to the uninitiated eye, but was much less valuable than the precious metal. Deposits of fool's gold however did sometimes contain a certain amount of real gold. Pyrite also appeared in small quantities within lapis lazuli, giving the blue ornamental stone its golden flecks.
+
+Trade
+Iron pyrite was commonly available at many towns and markets. It was sold by Aurora's Emporium in the 1360s DR.
+
+Uses
+Pyrite could be smelted to yield the iron it contained.
+
+Pyrite was one of the reflective materials used by the dao to decorate their capital on the Elemental Plane of Earth, the Sevenfold Mazework, and help with its illumination.
+
+Magical Uses
+Iron pyrite was common stock in a reasonably equipped wizard's laboratory.
+
+It was the material component for the spells Leomund's trap, and  cone of earth.
+
+The conical hat, an Imaskari relic dangerous to the wearer's mind found in Solon around 1360 DR, was made of iron pyrite.
+
+Religious Significance
+The discovery of iron  pyrite was sent as a portent by Waukeen to her faithful, as well as a sign of displeasure by either Dumathoin or Vergadain to their dwarven followers.
+
+Trivia
+The Iulutiuns used so-called spark stones resembling pyrite to light their fires in the cold of the Great Glacier. These could be found mostly in the Novularond.
+According to some tales, the Gilded Nugget, the founding price of the gnomish nation of Songfarla, was an enormous piece of iron pyrite.
+
+Appendix
+See Also
+Fool's gold, a related spell
+
+Notes
+
+Appearances
+Video Games
+Neverwinter Nights: Darkness over Daggerford
+
+References
+
+---
+
+## Pygmywort
+
+Pygmywort fungus was a faerzress-infused mushroom found only in the Whorlstone Tunnels below the duergar city of Gracklstugh.
+
+Description
+Pygmywort had a short stem topped by a blue cap with white speckles. Each one grew to only about 1 inch (2.5 centimeters) tall.
+
+Uses
+Consuming a pygmywort caused the consumer to be reduced in size by one-half and decrease in weight by one-eighth (as if affected by an reduce spell) for one hour. Consuming more than one of these mushrooms did not cause further decreases in size, but did extend the duration of the affects by another hour each. A few minutes before the effects wore off, the consumer would feel a slight tingling before growing back to normal size.
+
+The effects could be reversed by consuming a bigwig mushroom or having an enlarge spell cast upon the affected being.
+
+Pygmywort mushrooms lost their size-changing affects if taken from the Whorlstone Tunnels for more than an hour.
+
+Appendix
+Appearances
+ Out of the Abyss
+
+References
+
+---
+
+## Pyrimo
+
+Pyrimo were predatory fish similar to piranha that lived in the rivers and lakes of the Underdark.
+
+Description
+Pyrimo were small, oval-shaped silver-scaled fish with powerful jaws filled with fangs that matched the width of its body. They were very aggressive and were known to jump out of the water to attack boat passengers or animals that approached the water too closely, whose wounds would then attract the attention of dozens of them. They were considered a tasty delicacy, although if not correctly prepared, they were highly toxic and inedible. While in the water, they were invisible to infravision, as their body temperature matched that of the water.
+
+Availability
+Pyrimo meat was commonly found for sale in the markets of Menzoberranzan.
+
+Hunting
+Pyrimo were often hunted by the drow, who would drop ensorcelled drops of rothé blood in the water. The enchanted blood would not cool, and when the drop of blood suddenly disappeared, signaling that it had been swallowed, the fisher would thrust with a hunting spear. Fishers also carried flasks of liniment to massage their muscles, as the watchful tension and lightning spear thrusts caused a considerable strain.
+
+History
+In the, Liriel Baenre, Bythnara Shobalar and Syzwick went to fish pyrimo on a boat. Liriel flirted with Syzwick, who was Bythnara's lover. Bythnara, terribly jealous, started massaging her neck muscles with a liniment, feigning physical strain from watching the water, but Liriel realized that in addition to massaging the wrong muscles, she was drawing the necessary patterns on her skin to cast a fireball spell at her. Liriel killed her with her hunting spear, and Bythnara fell in the water, where she was rapidly devoured by the pyrimo.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Pythosaurus
+
+The pythosaurus, more commonly known to locals as Esmelda or the Monster of the Lake, was a species of aquatic dinosaur endemic to Lake Esmel in Amn.
+
+Description
+The body structure of a pythosaurus was largely similar to that of other aquatic dinosaurs, such as plesiosaurus and elasmosaurus, a large central body with a long neck and large flippers. However, their heads were notably said to resemble a cross between a snake and dragon, with an  tall rigid dorsal spine running along its neck. The description of the creature's body was fairly consistent in the stories told of it by the inhabitants of Amn, though there was often some form of inconsistency in the accounts.
+
+Their central body was over  long and  wide, while their necks ranged from lengths of .
+
+Behavior
+Being largely unintelligent animals, the pythosaurus was just as likely to attack boats as it was sailors and other creatures. However, unless hungry or provoked, they were unlikely to be found anywhere near the surface.
+
+Ecology
+
+The pythosaurus was a largely solitary creature, only interacting with other members of their species when they needed to mate or teach their youth how to hunt. This teaching period typically lasted for only a few weeks following the youth's hatching, after which the creature would leave their offspring to fend for themselves.
+
+Habitats
+Due to their preference for cold water habitats, the pythosaurus generally stayed away from the western end of Lake Esmel and was more common in its eastern end.
+
+Relations
+Most of the inhabitants of Amn believed that the pythosaurus was merely a myth and a tool for telling tall tales at taverns. They also believed that it was but a single creature, when it reality there were around a dozen living within Lake Esmel.
+
+History
+The pythosaurus was created by one of the creator races during the Days of Thunder (likely the sarrukhGiven the dinosaur nature of the pythosaur, the sauroid sarrukh were most likely responsible.). They had been in Lake Esmel ever since that time.
+
+Appendix
+Notes
+
+References
+
+---
+
+## Pyro snake
+
+A pyro snake was a large snake that attacked with fire breath. They were the fire equivalent of cryo snakes.
+
+Description
+Like other snakes, pyro snakes had animal-like intelligence. Their bodies were red-orange colored and appeared to be sheathed in flames.
+
+Combat
+These large snakes were completely immune to fire-based attacks. They attacked with their fiery breaths.
+
+Ecology
+These fire snakes lived inside volcanoes, or otherwise in scorching deserts. They formed small familial groups, and rarely interacted with humans. Like cryo snakes, they were known to lair in the palace of Gothmenes.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Pyrimestes
+
+Pyrimestes was a warrior and mercenary of the Renegades around 1358 DR.
+
+Activities
+Pyrimestes led the Renegades' cavalry, a group of seventy horsemen. His cavalry tactic was to sweep in for the kill after an enemy had been softened by the companies' mages and archers.
+
+Appendix
+References
+
+---
+
+## Pygmont Kardath
+
+Pygmont Kardath was a farmer in the town of Ghars in Cormyr in the mid–14 century DR.
+
+Description
+He and his wife were both rather overweight, she more than him.
+
+Home
+The Kardaths lived in a farmhouse southwest of Ghars, about  from a fork in the swamp road.
+
+History
+When Jasper sighted the ghost of the bandit chieftain Fastred whilst riding home on the night of Eleint 16 in the, he fled in fear and the Kardath farmhouse was the first he came to after recovering his wits. Though they may have thought him simply hysterical and inebriated, they gave him hot tea and cake, listened to his tale, asked if they could help somehow, and even offered to let him stay the night, though Jasper declined and went on his way.
+
+Appendix
+References
+
+---
+
 ## Pyramid of Amun-Re
 
 The Pyramid of Amun-Re was the tomb of Amun-Re, a pharaoh of Bakar. The river Athis used to spring magically from within the pyramid before the pharaoh's curse caused it to dry out.
@@ -77,6 +595,179 @@ Adventures
 ''Desert of Desolation
 
 Notes
+
+References
+
+---
+
+## Pyramid of Re
+
+The Pyramid of Re was the resting place of Re, the former head of the Mulhorandi pantheon.
+
+Location
+The Pyramid was located in central section of Skuld's City of the Gods in the north central section of the city.
+
+Description
+The Pyramid was quite large, measuring roughly  on each side.
+
+Appendix
+References
+
+---
+
+## Pyrra Flamedancer
+
+Pyrra Flamedancer was a human wizard and co-leader of the Ruby Blades adventuring company in the mid-to-late 14 century DR.
+
+Description
+Pyrra had a plain and unassuming appearance.
+
+Personality
+She was shy and self-conscious, and extremely obsessed with fire and fire-related spells.
+
+Abilities
+The vast majority of her spells were flashy and destructive fire-based evocations.
+
+Possessions
+Pyrra wore bracers of defense and a ring of fire resistance. Offensively, she carried a wand of fire and a necklace of missiles.
+
+Relationships
+She was best friends with Ranni Stalkersdaughter, and together they led the Ruby Blades.
+
+History
+In the, the Ruby Blades joined the Wolfmasters company on an excursion to explore and loot Orvaskyte Keep in the Vast Swamp. The Ruby Blades were heavily delayed, and by the time they arrived their allies were already dead. Seeking a new goal, they attempted to hunt a nearby black dragon, only to be overwhelmed and almost killed by it, and were rescued by a band of Cormyrean adventurers. Their fortune waxed once more, and they were joined by two-dozen mercenaries that allowed them to chase away the Cormyreans and secure what was left of Orvaskyte Keep.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Pyreen
+
+Pyreens, also known as peace-bringers, were an ancient and mysterious humanoid race of powerful druids and psionicists native to the desert world of Athas, whose existence was known by very few.
+
+Description
+Pyreen exhibited physical characteristics of all the major humanoid and demihuman races of Athas. This including having broad bodies like Athasian dwarves, pointed ears reminiscent of Athasian elves, eyes like that of a human or Athasian giant, and facial features reminiscent of Athasian halflings. A pyreen were rarely ever seen in this natural form, as they preferred to travel around shapechanged into the form of an animal or one of the many humanoid or demihuman races of Athas.
+
+Personality
+The pyreens were an incredibly intelligent race with vast knowledge of how Athas was before it became a desert world, but they would not reveal this knowledge to the unworthy, even if it cost them their lives. They had a distaste for combat, but would engage in it when necessary. They were likely to aid druids defending the land, those fighting defilers or who had fought defilers in the past, but would otherwise callously not intervene in those fighting dangerous creatures. This callousness was due to their long lifespans and dedication to nature, viewing the comparatively shorter lived races as generally not worth them risking their own lives and by extension their mission.
+
+Whenever a pyreen helped or intervened on behalf of others they did so either from afar or in a shapechanged form. They were quite careful about not revealing how powerful they were to others, moderating their psionics or druidic magic in order to give off the illusion that they were less powerful.
+
+Abilities
+Pyreens possessed an incredible array of psionic powers under the disciplines of clairsentience, metapsionic, psychometabolism, and telepathy. These powers included absorb disease, aura sight, chameleon power, chemical simulation, complete healing, conceal thoughts, contact, danger sense, ego whip, ejection, empathy, energy containment, enhancement, gird, identity penetration, intellect fortress, mental barrier, mind blank, mind over body, mindlink, psionic blast, psionic sense, psychic messenger, psychic surgery, spirit sense, thought shield, tower of iron will, and truthear.
+
+Society
+Members of this race lived solitary, nomadic lives dedicated to preserving and restoring nature on Athas against those who would defile it. They rarely settled in one place permanently, at most taking up residence somewhere for 50 to 100 years, but each pyreen had places they considered it was their duty to guard.
+
+They often carried a variety of magical items and at least one concealable magic weapon made of metal, such as a +3 dagger. Magic items often favored by pyreen included cloaks of protection, bracers of defense, and rings.
+
+The extent of the pyreen lifespan was unknown – they lived live for thousands of years, but there existed no records of pyreens dying of old age. It was also unknown whether these incredible lifespans were a racial trait or a result of their incredible druidic powers.
+Diet
+While an omnivorous race that enjoyed fine food and wines, like the most powerful of druids the pyreens were capable of sustaining themselves without any nourishment.
+Languages
+All of the humanoid and demihuman racial languages of Athas were known to pyreen, as well as supernal. They also occasionally knew some of the other languages that existed on Athas.
+Relationships
+Pyreens were sworn enemies of the Sorcerer-Kings and defilers, as they dedicated their lives to undoing the damage both wrought upon the world of Athas. They also had a deep onnection to the spirits of the land, many of them sharing ancestry with primal spirits.
+
+History
+In The Year of Despair, Malatran calendar, late 14 century DR, a group of heroes of the Malatran Plateau were sent through an elemental gate to the far-away world of Athas. Created temporarily by Roshink, the elemental noble explained that he and his fellow nobles fled from this world long ago and it is what could befall the Malatran Plateau should the heroes fail to vanquish the dreaded Tamara. In order to return home, he instructed them to head for the mountains until they came across a great forest, where they would find an "oak tree that is too big for a saru to put his arms around". When they found such an oak, he would be able to bring them back to the Plateau through the Dreamlands.
+
+Immediately upon arrival, the group was captured by Athasian elf slavers. A young Athasian thri-kreen named Ka'cha was among creatures captured by the elves, and he lamented being separated from his clutch. Subsequently, the heroes escaped when the elven caravan was attacked by a hungry sink worm. They seized the opportunity and freed Ka'cha, fleeing from their pursuers across the desert.
+
+After two days of travel across the hot sands, guided by Ka'cha, the group stumbled across his tribe, the Windrunners, and their leader, Ki'rik'ku. Ka'cha convinced them that the strange adventurers were friends, not food. Happy with one of their number returned, chief Ki'rik'ku gifted the aliens four large erdlu eggs (an invaluable source of nourishment in the Athasian desert) and two apples of healing. The thri-kreen then explained to the Malatran heroes how to reach their destination—the Ringing Forest—the way back to Toril.
+
+At some point on their journey to the Ringing Forest, the Malatran heroes ran out of water and were confronted by a female pyreen. She question the heroes, then offered them advice and guidance on reaching their destination, but was unable to stay and help them.
+
+Appendix
+Appearances
+
+External Links
+
+References
+
+---
+
+## Pyrohydram
+
+Pyrohydram was a rare metal used by the janni to make musical pipe instruments.
+
+Usages
+Pyrohydram ore was smelted into metal that possessed curious musical properties. When made into wind instruments, pyrohydram pipes were heated by the musician's breath during performances, producing a "sonorous and grandiose timbre" unique to the instruments made out of this metal.
+
+History
+In the, Eryk, an adventuring friend of Thomas C. Quirkilious, the proprietor of Chromatic Scale in the Lower City of Baldur's Gate, was introduced to pyrohydram by a janni trader. Eryk believed that his friend would be able to make some unique flutes out of pyrohydram and procured a bagful of ore samples to bring back to the Gate.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Pyndil Bospin
+
+Pyndil Bospin was an elf sage who specialized in portals and the planes, who investigated the ruins of Myth Drannor in the late 14 century DR.
+
+Description
+Pyndil had long silvery hair and brown eyes. He wore an ornate green set of robes.
+
+History
+
+In the, Pyndil was a senior member of the Elves of Cormanthor at their forward camp outside of Myth Drannor. He provided expertise on the subject of the planar instability caused by the mythal, which caused a number of unusual hazards and threats inside the ruins.
+
+He kept an eye on a particular portal that opened in the campsite, which seemed to lead to the world of Eberron where the Gatekeeper Oxal Ekkam monitored his own end of the portal. Pyndil was quite relieved that only adventurers came through instead of monsters.
+
+Appendix
+Notes
+
+Appearances
+
+References
+
+---
+
+## Pyros
+
+Pyros the Cunning was a human fire elementalist and militant wizard who wandered the lands around the mid 14 century DR.
+
+Description
+He was a brown haired human with a beginning widows peak.
+
+Personality
+Pyros had a mercurial temperament, which made him swing between law and chaos, good and evil. This often led to situations where he had to rely on his wits to save him.
+
+Possessions
+He wore a set of bracers of defense and a ring of spell storing in which he usually had detect magic, fireball, and teleport stored.
+
+Appendix
+Appearances
+
+References
+
+---
+
+## Pyromania
+
+Pyromania was a mental condition characterized by an obsession with fires and a compulsion to create them.
+
+Effects
+Pyromaniacs found themselves compelled to start fires (such as oil lamps, in a safe manner), and were fascinated by watching flames dance. Spellcasters could be the most dangerous possible pyromaniacs through access to spells like fireball if they could not find a way to safely express themselves.
+
+Notable Affected
+ Andrik Gos unwittingly created magical paintings which put viewers into a fire-obsessed state, including Kata Brizik and Jurina Plem.
+ Crannak Smoulderburn was a fire-mad derro who created the Hateforged Hellion to destroy the Tower of the Wyvern for the Cult of the Eternal Flame.
+ Elizar Dryflagon was a fire-obsessed druid who found purpose with the Cult of the Eternal Flame.
+ Ignus of Sigil was a powerful pyromaniac mage, and was turned into living fire as punishment for his destruction.
+ Pyrra Flamedancer of the Ruby Blades adventuring company was the group's main spellcaster and used it to express her fondness for fire.
+ Creatures from the Elemental Plane of Fire had a kind of pyromania when in other planes, as they sought to make their environment more comfortable and homely by setting everything on fire.
+
+Appendix
+Appearances
+
+External Links
 
 References
 
