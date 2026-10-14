@@ -1,0 +1,387 @@
+{
+  "monsters": [
+    {
+      "id": "allosaurus",
+      "name": "Allosaurus",
+      "size": "Large",
+      "type": "Beast",
+      "alignment": "Unaligned",
+      "ac": 13,
+      "hp": { "average": 51, "formula": "6d10 + 18" },
+      "speed": { "walk": 60 },
+      "abilities": { "str": 19, "dex": 13, "con": 17, "int": 2, "wis": 12, "cha": 5 },
+      "skills": { "Perception": 5 },
+      "cr": "2",
+      "xp": 450,
+      "traits": [
+        { "name": "Pounce", "description": "If the allosaurus moves at least 30 feet straight toward a creature and then hits it with a Claw attack on the same turn, the target must succeed on a DC 13 Strength saving throw or have the Prone condition." }
+      ],
+      "actions": [
+        { "name": "Multiattack", "description": "The allosaurus makes two attacks: one Bite and one Claw." },
+        { "name": "Bite", "description": "Melee Attack: +6, reach 5 ft. Hit: 15 (2d10 + 4) Piercing damage." },
+        { "name": "Claw", "description": "Melee Attack: +6, reach 5 ft. Hit: 8 (1d8 + 4) Slashing damage." }
+      ]
+    },
+    {
+      "id": "ankylosaurus",
+      "name": "Ankylosaurus",
+      "size": "Huge",
+      "type": "Beast",
+      "alignment": "Unaligned",
+      "ac": 15,
+      "hp": { "average": 68, "formula": "8d12 + 16" },
+      "speed": { "walk": 30 },
+      "abilities": { "str": 19, "dex": 11, "con": 15, "int": 2, "wis": 12, "cha": 5 },
+      "cr": "3",
+      "xp": 700,
+      "actions": [
+        { "name": "Tail", "description": "Melee Attack: +7, reach 10 ft. Hit: 18 (4d6 + 4) Bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or have the Prone condition." }
+      ]
+    },
+    {
+      "id": "archelon",
+      "name": "Archelon",
+      "size": "Huge",
+      "type": "Beast",
+      "alignment": "Unaligned",
+      "ac": 14,
+      "hp": { "average": 76, "formula": "8d12 + 24" },
+      "speed": { "walk": 10, "swim": 50 },
+      "abilities": { "str": 18, "dex": 8, "con": 17, "int": 2, "wis": 10, "cha": 6 },
+      "cr": "2",
+      "xp": 450,
+      "traits": [
+        { "name": "Hold Breath", "description": "The archelon can hold its breath for 1 hour." }
+      ],
+      "actions": [
+        { "name": "Bite", "description": "Melee Attack: +6, reach 5 ft. Hit: 22 (4d8 + 4) Piercing damage." }
+      ]
+    },
+    {
+      "id": "bugbear-stalker",
+      "name": "Bugbear Stalker",
+      "size": "Medium",
+      "type": "Fey",
+      "alignment": "Chaotic Evil",
+      "ac": 14,
+      "hp": { "average": 45, "formula": "7d8 + 14" },
+      "speed": { "walk": 30 },
+      "abilities": { "str": 16, "dex": 14, "con": 14, "int": 10, "wis": 12, "cha": 9 },
+      "skills": { "Stealth": 6, "Survival": 3 },
+      "senses": { "darkvision": 60 },
+      "languages": ["Common", "Goblin"],
+      "cr": "2",
+      "xp": 450,
+      "traits": [
+        { "name": "Surprise Attack", "description": "If the bugbear hits a creature that is Surprised, the target takes an extra 7 (2d6) damage from the attack." }
+      ],
+      "actions": [
+        { "name": "Multiattack", "description": "The bugbear makes two Morningstar attacks." },
+        { "name": "Morningstar", "description": "Melee Attack: +5, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage." }
+      ]
+    },
+    {
+      "id": "goblin-boss",
+      "name": "Goblin Boss",
+      "size": "Small",
+      "type": "Fey",
+      "alignment": "Neutral Evil",
+      "ac": 17,
+      "hp": { "average": 21, "formula": "6d6" },
+      "speed": { "walk": 30 },
+      "abilities": { "str": 10, "dex": 14, "con": 10, "int": 10, "wis": 8, "cha": 10 },
+      "skills": { "Stealth": 6 },
+      "senses": { "darkvision": 60 },
+      "languages": ["Common", "Goblin"],
+      "cr": "1",
+      "xp": 200,
+      "traits": [
+        { "name": "Nimble Escape", "description": "The goblin can take the Disengage or Hide action as a Bonus Action." }
+      ],
+      "actions": [
+        { "name": "Multiattack", "description": "The goblin makes two Scimitar attacks." },
+        { "name": "Scimitar", "description": "Melee Attack: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage." },
+        { "name": "Javelin", "description": "Melee or Ranged Attack: +2, reach 5 ft. or range 30/120 ft. Hit: 3 (1d6) Piercing damage." }
+      ],
+      "reactions": [
+        { "name": "Redirect Attack", "description": "When a creature the goblin can see targets it with an attack, the goblin chooses another goblin within 5 feet. The two goblins swap places, and the chosen goblin becomes the target instead." }
+      ]
+    },
+    {
+      "id": "goblin-minion",
+      "name": "Goblin Minion",
+      "size": "Small",
+      "type": "Fey",
+      "alignment": "Neutral Evil",
+      "ac": 15,
+      "hp": { "average": 7, "formula": "2d6" },
+      "speed": { "walk": 30 },
+      "abilities": { "str": 8, "dex": 14, "con": 10, "int": 10, "wis": 8, "cha": 8 },
+      "skills": { "Stealth": 6 },
+      "senses": { "darkvision": 60 },
+      "languages": ["Common", "Goblin"],
+      "cr": "1/4",
+      "xp": 50,
+      "traits": [
+        { "name": "Nimble Escape", "description": "The goblin can take the Disengage or Hide action as a Bonus Action." }
+      ],
+      "actions": [
+        { "name": "Scimitar", "description": "Melee Attack: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage." },
+        { "name": "Shortbow", "description": "Ranged Attack: +4, range 80/320 ft. Hit: 5 (1d6 + 2) Piercing damage." }
+      ]
+    },
+    {
+      "id": "guard-captain",
+      "name": "Guard Captain",
+      "size": "Medium",
+      "type": "Humanoid",
+      "alignment": "Any alignment",
+      "ac": 17,
+      "hp": { "average": 65, "formula": "10d8 + 20" },
+      "speed": { "walk": 30 },
+      "abilities": { "str": 16, "dex": 14, "con": 14, "int": 11, "wis": 11, "cha": 14 },
+      "savingThrows": { "str": 5, "con": 4 },
+      "skills": { "Athletics": 5, "Perception": 2 },
+      "languages": ["Common"],
+      "cr": "3",
+      "xp": 700,
+      "actions": [
+        { "name": "Multiattack", "description": "The guard captain makes two Longsword attacks and one Shield Bash attack." },
+        { "name": "Longsword", "description": "Melee Attack: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage." },
+        { "name": "Shield Bash", "description": "Melee Attack: +5, reach 5 ft. Hit: 5 (1d4 + 3) Bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 13 Strength saving throw or have the Prone condition." }
+      ],
+      "reactions": [
+        { "name": "Parry", "description": "The guard captain adds 2 to its AC against one melee attack that would hit it. To do so, the guard captain must see the attacker and be wielding a melee weapon." }
+      ]
+    },
+    {
+      "id": "hippopotamus",
+      "name": "Hippopotamus",
+      "size": "Large",
+      "type": "Beast",
+      "alignment": "Unaligned",
+      "ac": 11,
+      "hp": { "average": 76, "formula": "8d10 + 32" },
+      "speed": { "walk": 30, "swim": 30 },
+      "abilities": { "str": 21, "dex": 7, "con": 18, "int": 2, "wis": 10, "cha": 5 },
+      "cr": "3",
+      "xp": 700,
+      "traits": [
+        { "name": "Hold Breath", "description": "The hippopotamus can hold its breath for 5 minutes." }
+      ],
+      "actions": [
+        { "name": "Bite", "description": "Melee Attack: +7, reach 5 ft. Hit: 21 (3d10 + 5) Piercing damage." }
+      ]
+    },
+    {
+      "id": "hobgoblin-captain",
+      "name": "Hobgoblin Captain",
+      "size": "Medium",
+      "type": "Fey",
+      "alignment": "Lawful Evil",
+      "ac": 17,
+      "hp": { "average": 58, "formula": "9d8 + 18" },
+      "speed": { "walk": 30 },
+      "abilities": { "str": 15, "dex": 14, "con": 14, "int": 12, "wis": 10, "cha": 13 },
+      "senses": { "darkvision": 60 },
+      "languages": ["Common", "Goblin"],
+      "cr": "3",
+      "xp": 700,
+      "traits": [
+        { "name": "Martial Advantage", "description": "Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't Incapacitated." }
+      ],
+      "actions": [
+        { "name": "Multiattack", "description": "The hobgoblin makes two Greatsword attacks." },
+        { "name": "Greatsword", "description": "Melee Attack: +4, reach 5 ft. Hit: 9 (2d6 + 2) Slashing damage." },
+        { "name": "Javelin", "description": "Melee or Ranged Attack: +4, reach 5 ft. or range 30/120 ft. Hit: 5 (1d6 + 2) Piercing damage." },
+        { "name": "Leadership (Recharges after a Short or Long Rest)", "description": "For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin has the Incapacitated condition." }
+      ]
+    },
+    {
+      "id": "pirate",
+      "name": "Pirate",
+      "size": "Medium",
+      "type": "Humanoid",
+      "alignment": "Any alignment",
+      "ac": 12,
+      "hp": { "average": 11, "formula": "2d8 + 2" },
+      "speed": { "walk": 30 },
+      "abilities": { "str": 11, "dex": 14, "con": 12, "int": 10, "wis": 10, "cha": 10 },
+      "skills": { "Athletics": 2 },
+      "languages": ["Common"],
+      "cr": "1/8",
+      "xp": 25,
+      "actions": [
+        { "name": "Scimitar", "description": "Melee Attack: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage." },
+        { "name": "Light Crossbow", "description": "Ranged Attack: +4, range 80/320 ft. Hit: 6 (1d8 + 2) Piercing damage." }
+      ]
+    },
+    {
+      "id": "pirate-captain",
+      "name": "Pirate Captain",
+      "size": "Medium",
+      "type": "Humanoid",
+      "alignment": "Any alignment",
+      "ac": 15,
+      "hp": { "average": 65, "formula": "10d8 + 20" },
+      "speed": { "walk": 30 },
+      "abilities": { "str": 14, "dex": 16, "con": 14, "int": 12, "wis": 12, "cha": 14 },
+      "savingThrows": { "dex": 5, "wis": 3 },
+      "skills": { "Athletics": 4, "Deception": 4, "Intimidation": 4, "Perception": 3 },
+      "languages": ["Common", "Thieves' Cant"],
+      "cr": "4",
+      "xp": 1100,
+      "actions": [
+        { "name": "Multiattack", "description": "The pirate captain makes three Scimitar attacks." },
+        { "name": "Scimitar", "description": "Melee Attack: +5, reach 5 ft. Hit: 6 (1d6 + 3) Slashing damage plus 3 (1d6) Poison damage." },
+        { "name": "Pistol", "description": "Ranged Attack: +5, range 30/90 ft. Hit: 8 (1d10 + 3) Piercing damage." }
+      ],
+      "reactions": [
+        { "name": "Parry", "description": "The pirate captain adds 2 to its AC against one melee attack that would hit it. To do so, the pirate captain must see the attacker and be wielding a melee weapon." }
+      ]
+    },
+    {
+      "id": "pteranodon",
+      "name": "Pteranodon",
+      "size": "Medium",
+      "type": "Beast",
+      "alignment": "Unaligned",
+      "ac": 13,
+      "hp": { "average": 13, "formula": "3d8" },
+      "speed": { "walk": 10, "fly": 60 },
+      "abilities": { "str": 12, "dex": 15, "con": 10, "int": 2, "wis": 9, "cha": 5 },
+      "skills": { "Perception": 1 },
+      "cr": "1/4",
+      "xp": 50,
+      "traits": [
+        { "name": "Flyby", "description": "The pteranodon doesn't provoke Opportunity Attacks when it flies out of an enemy's reach." }
+      ],
+      "actions": [
+        { "name": "Bite", "description": "Melee Attack: +3, reach 5 ft. Hit: 6 (2d4 + 1) Piercing damage." }
+      ]
+    },
+    {
+      "id": "sphinx-of-wonder",
+      "name": "Sphinx of Wonder",
+      "size": "Large",
+      "type": "Celestial",
+      "alignment": "Lawful Neutral",
+      "ac": 17,
+      "hp": { "average": 136, "formula": "16d10 + 48" },
+      "speed": { "walk": 40, "fly": 60 },
+      "abilities": { "str": 18, "dex": 15, "con": 16, "int": 18, "wis": 18, "cha": 20 },
+      "savingThrows": { "dex": 6, "con": 7, "int": 8, "wis": 8 },
+      "skills": { "Arcana": 12, "History": 12, "Perception": 8, "Religion": 8 },
+      "damageResistances": ["Bludgeoning, Piercing, and Slashing from nonmagical attacks"],
+      "damageImmunities": ["Psychic"],
+      "conditionImmunities": ["Charmed", "Frightened"],
+      "senses": { "truesight": 120 },
+      "languages": ["Common", "Celestial"],
+      "cr": "9",
+      "xp": 5000,
+      "traits": [
+        { "name": "Inscrutable", "description": "The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any Divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have Disadvantage." },
+        { "name": "Magic Resistance", "description": "The sphinx has Advantage on saving throws against spells and other magical effects." }
+      ],
+      "actions": [
+        { "name": "Multiattack", "description": "The sphinx makes two Claw attacks and uses Spellcasting." },
+        { "name": "Claw", "description": "Melee Attack: +8, reach 5 ft. Hit: 13 (2d8 + 4) Slashing damage." },
+        { "name": "Spellcasting", "description": "The sphinx casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17): At will: Detect Magic, Minor Illusion, Prestidigitation. 3/day each: Dispel Magic, Identify, Lesser Restoration, Tongues. 1/day each: Greater Restoration, Legend Lore." }
+      ],
+      "legendaryActions": [
+        { "name": "Claw Attack", "description": "The sphinx makes one Claw attack." },
+        { "name": "Teleport (Costs 2 Actions)", "description": "The sphinx teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see." }
+      ]
+    },
+    {
+      "id": "swarm-of-crawling-claws",
+      "name": "Swarm of Crawling Claws",
+      "size": "Medium",
+      "type": "Undead",
+      "alignment": "Neutral Evil",
+      "ac": 12,
+      "hp": { "average": 36, "formula": "8d8" },
+      "speed": { "walk": 20, "climb": 20 },
+      "abilities": { "str": 14, "dex": 14, "con": 11, "int": 5, "wis": 10, "cha": 4 },
+      "damageResistances": ["Bludgeoning", "Piercing", "Slashing"],
+      "damageImmunities": ["Poison"],
+      "conditionImmunities": ["Charmed", "Exhaustion", "Frightened", "Paralyzed", "Petrified", "Poisoned", "Prone", "Restrained", "Stunned"],
+      "senses": { "blindsight": 30 },
+      "cr": "2",
+      "xp": 450,
+      "traits": [
+        { "name": "Swarm", "description": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny creature. The swarm can't regain Hit Points or gain Temporary Hit Points." }
+      ],
+      "actions": [
+        { "name": "Claw", "description": "Melee Attack: +4, reach 0 ft., one target in the swarm's space. Hit: 14 (4d6) Slashing damage, or 7 (2d6) Slashing damage if the swarm has half its Hit Points or fewer." }
+      ]
+    },
+    {
+      "id": "tough-boss",
+      "name": "Tough Boss",
+      "size": "Medium",
+      "type": "Humanoid",
+      "alignment": "Any alignment",
+      "ac": 14,
+      "hp": { "average": 97, "formula": "13d8 + 39" },
+      "speed": { "walk": 30 },
+      "abilities": { "str": 18, "dex": 12, "con": 16, "int": 10, "wis": 12, "cha": 12 },
+      "savingThrows": { "str": 6, "con": 5 },
+      "skills": { "Athletics": 6, "Intimidation": 3 },
+      "languages": ["Common"],
+      "cr": "4",
+      "xp": 1100,
+      "actions": [
+        { "name": "Multiattack", "description": "The boss makes two Greatclub attacks." },
+        { "name": "Greatclub", "description": "Melee Attack: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage." }
+      ],
+      "bonusActions": [
+        { "name": "Rallying Cry", "description": "The boss chooses up to three creatures it can see within 30 feet of it. Each target gains 5 Temporary Hit Points." }
+      ]
+    },
+    {
+      "id": "troll-limb",
+      "name": "Troll Limb",
+      "size": "Small",
+      "type": "Monstrosity",
+      "alignment": "Chaotic Evil",
+      "ac": 11,
+      "hp": { "average": 22, "formula": "5d6 + 5" },
+      "speed": { "walk": 20 },
+      "abilities": { "str": 10, "dex": 13, "con": 12, "int": 1, "wis": 7, "cha": 1 },
+      "damageVulnerabilities": ["Fire", "Acid"],
+      "cr": "1/2",
+      "xp": 100,
+      "traits": [
+        { "name": "Regeneration", "description": "The limb regains 5 Hit Points at the start of its turn. If the limb takes Fire or Acid damage, this trait doesn't function at the start of the limb's next turn. The limb dies only if it starts its turn with 0 Hit Points and doesn't regenerate." }
+      ],
+      "actions": [
+        { "name": "Claw", "description": "Melee Attack: +3, reach 5 ft. Hit: 6 (2d4 + 1) Slashing damage." }
+      ]
+    },
+    {
+      "id": "vampire-familiar",
+      "name": "Vampire Familiar",
+      "size": "Tiny",
+      "type": "Undead",
+      "alignment": "Lawful Evil",
+      "ac": 13,
+      "hp": { "average": 17, "formula": "5d4 + 5" },
+      "speed": { "walk": 10, "fly": 30 },
+      "abilities": { "str": 6, "dex": 16, "con": 12, "int": 8, "wis": 12, "cha": 8 },
+      "skills": { "Perception": 3, "Stealth": 5 },
+      "damageResistances": ["Necrotic"],
+      "senses": { "darkvision": 60 },
+      "languages": ["Common"],
+      "cr": "1",
+      "xp": 200,
+      "traits": [
+        { "name": "Regeneration", "description": "The vampire familiar regains 2 Hit Points at the start of its turn. The vampire familiar dies only if it starts its turn with 0 Hit Points and doesn't regenerate." },
+        { "name": "Spider Climb", "description": "The vampire familiar can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check." }
+      ],
+      "actions": [
+        { "name": "Bite", "description": "Melee Attack: +5, reach 5 ft. Hit: 5 (1d4 + 3) Piercing damage plus 3 (1d6) Necrotic damage. The vampire familiar regains Hit Points equal to the Necrotic damage dealt." }
+      ]
+    }
+  ]
+}
