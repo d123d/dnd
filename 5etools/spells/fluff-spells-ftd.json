@@ -1,0 +1,38 @@
+{
+	"spellFluff": [
+		{
+			"name": "Ashardalon's Stride",
+			"source": "FTD",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/FTD/Ashardalon's Stride.webp"
+					},
+					"width": 850,
+					"height": 954,
+					"title": "Fire follows in the footsteps of a red dragon who has cast Ashardalon's stride.",
+					"credit": "Rudy Siswanto"
+				}
+			]
+		},
+		{
+			"name": "Rime's Binding Ice",
+			"source": "FTD",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/FTD/Rime's Binding Ice.webp"
+					},
+					"width": 1700,
+					"height": 1122,
+					"title": "Rime's binding ice adds insult to injury in the hands of a spellcasting white dragon.",
+					"credit": "Billy Christian"
+				}
+			]
+		}
+	]
+}

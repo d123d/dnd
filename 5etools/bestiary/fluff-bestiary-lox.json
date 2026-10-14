@@ -1,0 +1,240 @@
+{
+	"monsterFluff": [
+		{
+			"name": "Astral Blight",
+			"source": "LoX",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LoX/Astral Blight.webp"
+					},
+					"width": 1000,
+					"height": 921,
+					"credit": "Irina Nordsol"
+				}
+			]
+		},
+		{
+			"name": "Big Momma",
+			"source": "LoX",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LoX/024-10-006.big-momma.webp"
+					},
+					"width": 1700,
+					"height": 1079,
+					"credit": "Ralph Horsley"
+				}
+			]
+		},
+		{
+			"name": "Commodore Krux",
+			"source": "LoX",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LoX/016-10-002.commodore-krux.webp"
+					},
+					"width": 850,
+					"height": 1096,
+					"credit": "Mark Behm"
+				}
+			]
+		},
+		{
+			"name": "Elaina Sartell",
+			"source": "LoX",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LoX/006-09-002.captain-elaina-sartell.webp"
+					},
+					"width": 850,
+					"height": 1095,
+					"credit": "Andrew Mar"
+				}
+			]
+		},
+		{
+			"name": "Fel Ardra",
+			"source": "LoX",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LoX/019-10-003.fel-ardra.webp"
+					},
+					"width": 850,
+					"height": 1561,
+					"credit": "Zuzanna Wužyk"
+				}
+			]
+		},
+		{
+			"name": "Flapjack",
+			"source": "LoX",
+			"entries": [
+				{
+					"type": "entries",
+					"entries": [
+						"One crew member stayed aboard the Moondancer while it was in port: a flumph named Flapjack, who serves as the ship's spelljammer."
+					]
+				}
+			],
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LoX/Flapjack the Flumph.webp"
+					},
+					"width": 850,
+					"height": 999,
+					"credit": "Suzanne Helmigh"
+				}
+			]
+		},
+		{
+			"name": "Grimzod Gargenhale",
+			"source": "LoX",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LoX/025-10-007.grimzod-gargenhale.webp"
+					},
+					"width": 720,
+					"height": 1603,
+					"credit": "Irina Nordsol"
+				}
+			]
+		},
+		{
+			"name": "Hastain",
+			"source": "LoX",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LoX/020-10-004.hastain.webp"
+					},
+					"width": 850,
+					"height": 1346,
+					"credit": "Nikki Dawes"
+				}
+			]
+		},
+		{
+			"name": "Prince Xeleth",
+			"source": "LoX",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LoX/038-11-007.prince-xeteth.webp"
+					},
+					"width": 850,
+					"height": 1591,
+					"credit": "Robson Michel"
+				},
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LoX/000-08-000.prince-xeleth-splash.webp"
+					},
+					"width": 1700,
+					"height": 1098,
+					"credit": "Merlin G.G."
+				}
+			]
+		},
+		{
+			"name": "Princess Xedalli",
+			"source": "LoX",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LoX/029-11-001.part-three-splash.webp"
+					},
+					"width": 1700,
+					"height": 2258,
+					"credit": "Katerina Ladon"
+				},
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LoX/003-08-003.princess-xedalli.webp"
+					},
+					"width": 801,
+					"height": 1822,
+					"credit": "Robson Michel"
+				}
+			]
+		},
+		{
+			"name": "Topolah",
+			"source": "LoX",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LoX/023-10-005.topolah-and-her-birds.webp"
+					},
+					"width": 850,
+					"height": 1009,
+					"credit": "Shawn Wood"
+				}
+			]
+		},
+		{
+			"name": "Vocath",
+			"source": "LoX",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LoX/034-11-005.vocath.webp"
+					},
+					"width": 850,
+					"height": 961,
+					"credit": "Olivier Bernard"
+				}
+			]
+		},
+		{
+			"name": "Warwyck Blastimoff",
+			"source": "LoX",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LoX/030-11-002.major-warwyck-blastimoff.webp"
+					},
+					"width": 850,
+					"height": 1206,
+					"credit": "Zuzanna Wužyk"
+				}
+			]
+		}
+	]
+}

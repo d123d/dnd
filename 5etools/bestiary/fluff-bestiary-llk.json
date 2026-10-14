@@ -1,0 +1,99 @@
+{
+	"monsterFluff": [
+		{
+			"name": "Ctenmiir the Vampire",
+			"source": "LLK",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LLK/Ctenmiir the Vampire.webp"
+					},
+					"width": 1000,
+					"height": 1236,
+					"credit": "Maxx Marshall"
+				}
+			]
+		},
+		{
+			"name": "Garret Levistusson",
+			"source": "LLK",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LLK/Garret Levistusson.webp"
+					},
+					"width": 1000,
+					"height": 1639,
+					"credit": "Stan!"
+				}
+			]
+		},
+		{
+			"name": "Gearbox",
+			"source": "LLK",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LLK/Gearbox.webp"
+					},
+					"width": 1000,
+					"height": 1000,
+					"credit": "Stan!"
+				}
+			]
+		},
+		{
+			"name": "Gloine Nathair-Nathair",
+			"source": "LLK",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LLK/Gloine Nathair-Nathair.webp"
+					},
+					"width": 1000,
+					"height": 797,
+					"credit": "Shawn Wood"
+				}
+			]
+		},
+		{
+			"name": "Mary Greymalkin",
+			"source": "LLK",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LLK/Mary Greymalkin.webp"
+					},
+					"width": 1000,
+					"height": 1618,
+					"credit": "Maxx Marshall"
+				}
+			]
+		},
+		{
+			"name": "Monastery of the Distressed Body Grand Master",
+			"source": "LLK",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/LLK/Monastery of the Distressed Body Grand Master.webp"
+					},
+					"width": 1000,
+					"height": 897
+				}
+			]
+		}
+	]
+}

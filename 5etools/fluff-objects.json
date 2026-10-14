@@ -1,0 +1,172 @@
+{
+	"_meta": {
+		"internalCopies": [
+			"objectFluff"
+		]
+	},
+	"objectFluff": [
+		{
+			"name": "Boilerdrak",
+			"source": "DSotDQ",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "objects/DSotDQ/Boilerdrak.webp"
+					},
+					"width": 850,
+					"height": 1039,
+					"credit": "Kent Davis"
+				}
+			]
+		},
+		{
+			"name": "Captain A-Hole",
+			"source": "RMBRE",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "objects/RMBRE/Captain A-Hole.webp"
+					},
+					"width": 671,
+					"height": 800,
+					"credit": "Troy Little"
+				}
+			]
+		},
+		{
+			"name": "Eldritch Cannon",
+			"source": "TCE",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "objects/TCE/Eldritch Cannon.webp"
+					},
+					"width": 800,
+					"height": 1197,
+					"title": "Human Artillerist with Eldritch Cannon"
+				},
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "objects/TCE/Eldritch Cannon 2.webp"
+					},
+					"width": 1200,
+					"height": 800,
+					"title": "The Gnome Artificer Vi and Her Cockatrice-like Eldritch Cannon Battle Foes Atop a Lightning Train"
+				}
+			]
+		},
+		{
+			"name": "Eldritch Cannon, Flamethrower",
+			"source": "TCE",
+			"_copy": {
+				"name": "Eldritch Cannon",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Eldritch Cannon, Force Ballista",
+			"source": "TCE",
+			"_copy": {
+				"name": "Eldritch Cannon",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Eldritch Cannon, Protector",
+			"source": "TCE",
+			"_copy": {
+				"name": "Eldritch Cannon",
+				"source": "TCE"
+			}
+		},
+		{
+			"name": "Gnomeflinger",
+			"source": "DSotDQ",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "objects/DSotDQ/Gnomeflinger.webp"
+					},
+					"width": 850,
+					"height": 907,
+					"credit": "Bruce Brenneise"
+				}
+			]
+		},
+		{
+			"name": "Keg Launcher",
+			"source": "XDMG",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "objects/XDMG/Keg Launcher.webp"
+					},
+					"width": 850,
+					"height": 1038,
+					"credit": "Kent Davis"
+				}
+			]
+		},
+		{
+			"name": "Mangonel",
+			"source": "XDMG",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "objects/XDMG/Mangonel.webp"
+					},
+					"width": 850,
+					"height": 1191,
+					"credit": "Tom Babbey"
+				}
+			]
+		},
+		{
+			"name": "Spirit Blister",
+			"source": "JttRC",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "objects/JttRC/Spirit Blister.webp"
+					},
+					"width": 644,
+					"height": 850,
+					"title": "A Spirit Blister at Sorrow's Zenith",
+					"credit": "Brynn Metheney"
+				}
+			]
+		},
+		{
+			"name": "Unborn Palanquin",
+			"source": "BMT",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "objects/BMT/Unborn Palanquin.webp"
+					},
+					"width": 391,
+					"height": 1000,
+					"credit": "Katerina Ladon"
+				}
+			]
+		}
+	]
+}

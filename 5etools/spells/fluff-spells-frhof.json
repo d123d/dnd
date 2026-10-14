@@ -1,0 +1,72 @@
+{
+	"spellFluff": [
+		{
+			"name": "Alustriel's Mooncloak",
+			"source": "FRHoF",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/FRHoF/Alustriel's Mooncloak.webp"
+					},
+					"width": 1700,
+					"height": 1197,
+					"title": "Alustriel Silverhand uses her mooncloak to protect her allies.",
+					"credit": "Irina Nordsol"
+				}
+			]
+		},
+		{
+			"name": "Blade of Disaster",
+			"source": "FRHoF",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/FRHoF/Blade of Disaster.webp"
+					},
+					"width": 1700,
+					"height": 1197,
+					"title": "Presto casts the Blade of Disaster spell to fight off Venger.",
+					"credit": "Swatches Studio"
+				}
+			]
+		},
+		{
+			"name": "Elminster's Effulgent Spheres",
+			"source": "FRHoF",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/FRHoF/Elminster's Effulgent Spheres.webp"
+					},
+					"width": 1700,
+					"height": 1090,
+					"title": "Elminster's Effulgent Spheres can be used to both attack and defend.",
+					"credit": "Borja Pindado"
+				}
+			]
+		},
+		{
+			"name": "Songal's Elemental Suffusion",
+			"source": "FRHoF",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/FRHoF/Songal's Elemental Suffusion.webp"
+					},
+					"width": 850,
+					"height": 2085,
+					"title": "Sultana Songal has suffused herself with the elemental power of genies.",
+					"credit": "Tneh Keong"
+				}
+			]
+		}
+	]
+}
