@@ -1,0 +1,594 @@
+{
+  "feats": [
+    {
+      "id": "alert",
+      "name": "Alert",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You develop keen senses that help you act in combat.",
+      "benefits": [
+        "Initiative Proficiency: When you roll Initiative, you can add your Proficiency Bonus to the roll.",
+        "Initiative Swap: Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally has the Incapacitated condition."
+      ]
+    },
+    {
+      "id": "athlete",
+      "name": "Athlete",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You have undergone extensive physical training.",
+      "benefits": [
+        "Ability Score Increase: Increase your Strength or Dexterity by 1, to a maximum of 20.",
+        "Climb Speed: You gain a Climb Speed equal to your Speed.",
+        "Hop Up: When you are Prone, you can right yourself with only 5 feet of movement.",
+        "Jumping: You can make a running Long or High Jump after moving only 5 feet."
+      ]
+    },
+    {
+      "id": "charger",
+      "name": "Charger",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You know how to make the most of a charge attack.",
+      "benefits": [
+        "Ability Score Increase: Increase your Strength or Dexterity by 1, to a maximum of 20.",
+        "Improved Dash: When you take the Dash action, your Speed increases by 10 feet for that action.",
+        "Charge Attack: If you move at least 10 feet in a straight line toward a target immediately before hitting it with a melee attack as part of the Attack action, choose one of the following effects: gain a +1d8 bonus to the attack's damage roll, or push the target up to 10 feet away if it is Large or smaller. You can use this benefit only once on each of your turns."
+      ]
+    },
+    {
+      "id": "chef",
+      "name": "Chef",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You are an able cook.",
+      "benefits": [
+        "Ability Score Increase: Increase your Constitution or Wisdom by 1, to a maximum of 20.",
+        "Cook's Utensils Proficiency: You gain proficiency with Cook's Utensils.",
+        "Replenishing Meal: As part of a Short Rest, you can cook special food if you have Cook's Utensils and raw food. You can prepare a number of servings equal to your Proficiency Bonus. At the end of the Short Rest, any creature who eats one serving regains an extra 1d8 Hit Points.",
+        "Fortifying Treats: With 1 hour of work, you can cook a number of treats equal to your Proficiency Bonus. These treats last 8 hours after being made. A creature can eat one of these treats to gain Temporary Hit Points equal to your Proficiency Bonus."
+      ]
+    },
+    {
+      "id": "crafter",
+      "name": "Crafter",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You are adept at crafting things.",
+      "benefits": [
+        "Tool Proficiency: You gain proficiency with three different Artisan's Tools of your choice.",
+        "Faster Crafting: When you craft an item using a tool with which you have proficiency, the required crafting time is reduced by 20 percent.",
+        "Discount: Whenever you buy a nonmagical item, you receive a 20 percent discount."
+      ]
+    },
+    {
+      "id": "crossbow-expert",
+      "name": "Crossbow Expert",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You are an expert with crossbows.",
+      "benefits": [
+        "Ability Score Increase: Increase your Dexterity by 1, to a maximum of 20.",
+        "Ignore Loading: You ignore the Loading property of crossbows.",
+        "Firing in Melee: Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with crossbows.",
+        "Dual Wielding: When you make the extra attack of the Light property, you can add your ability modifier to the damage of that attack if you're wielding a crossbow with the Light property."
+      ]
+    },
+    {
+      "id": "defensive-duelist",
+      "name": "Defensive Duelist",
+      "category": "General",
+      "prerequisite": "Dexterity 13+",
+      "repeatable": false,
+      "description": "You are skilled at parrying attacks.",
+      "benefits": [
+        "Parry: If you're holding a Finesse weapon and another creature hits you with a melee attack, you can take a Reaction to add your Proficiency Bonus to your AC, potentially causing the attack to miss you."
+      ]
+    },
+    {
+      "id": "dual-wielder",
+      "name": "Dual Wielder",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You master fighting with two weapons.",
+      "benefits": [
+        "Ability Score Increase: Increase your Strength or Dexterity by 1, to a maximum of 20.",
+        "Enhanced Dual Wielding: When you take the Attack action and attack with a weapon that has the Light property, you can make one extra attack as a Bonus Action later on the same turn with a different weapon, which must be a melee weapon that lacks the Two-Handed property. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.",
+        "Quick Draw: You can draw or stow two weapons that lack the Two-Handed property when you would normally be able to draw or stow only one."
+      ]
+    },
+    {
+      "id": "durable",
+      "name": "Durable",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You are tough and hard to kill.",
+      "benefits": [
+        "Ability Score Increase: Increase your Constitution by 1, to a maximum of 20.",
+        "Defy Death: You have Advantage on Death Saving Throws.",
+        "Speedy Recovery: As a Bonus Action, you can expend one of your Hit Point Dice, roll the die, and regain a number of Hit Points equal to the roll."
+      ]
+    },
+    {
+      "id": "elemental-adept",
+      "name": "Elemental Adept",
+      "category": "General",
+      "prerequisite": "Spellcasting or Pact Magic feature",
+      "repeatable": true,
+      "description": "You master spells of a particular element.",
+      "benefits": [
+        "Energy Mastery: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Spells you cast ignore Resistance to damage of the chosen type. When you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.",
+        "Repeatable: You can take this feat more than once, choosing a different damage type each time."
+      ]
+    },
+    {
+      "id": "great-weapon-master",
+      "name": "Great Weapon Master",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You master the techniques of heavy weapons.",
+      "benefits": [
+        "Ability Score Increase: Increase your Strength by 1, to a maximum of 20.",
+        "Heavy Weapon Mastery: When you hit a creature with a weapon that has the Heavy property as part of the Attack action, you can cause the weapon to deal extra damage equal to your Proficiency Bonus.",
+        "Hew: Immediately after you score a Critical Hit with a melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action."
+      ]
+    },
+    {
+      "id": "healer",
+      "name": "Healer",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You are an able physician.",
+      "benefits": [
+        "Battle Medic: If you have a Healer's Kit, you can expend one use of it and tend to a creature within 5 feet as a Utilize action. That creature regains 2d4 + 2 Hit Points.",
+        "Healing Rerolls: Whenever you roll a die to determine the number of Hit Points you restore with a spell or ability, you can reroll the die if it rolls a 1, and you must use the new roll."
+      ]
+    },
+    {
+      "id": "heavily-armored",
+      "name": "Heavily Armored",
+      "category": "General",
+      "prerequisite": "Medium Armor Training",
+      "repeatable": false,
+      "description": "You have trained to master the use of heavy armor.",
+      "benefits": [
+        "Ability Score Increase: Increase your Constitution or Strength by 1, to a maximum of 20.",
+        "Heavy Armor Training: You gain Heavy Armor Training."
+      ]
+    },
+    {
+      "id": "inspiring-leader",
+      "name": "Inspiring Leader",
+      "category": "General",
+      "prerequisite": "Wisdom or Charisma 13+",
+      "repeatable": false,
+      "description": "You can inspire your allies with stirring words.",
+      "benefits": [
+        "Inspiring Performance: At the end of a Short or Long Rest, you can give an inspiring performance by addressing your allies. When you do, choose up to six allies who can see or hear you. Each of them gains Temporary Hit Points equal to your Proficiency Bonus + your Charisma modifier."
+      ]
+    },
+    {
+      "id": "keen-mind",
+      "name": "Keen Mind",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You have an unusually sharp memory.",
+      "benefits": [
+        "Ability Score Increase: Increase your Intelligence by 1, to a maximum of 20.",
+        "Lore Knowledge: Choose one of the following skills: Arcana, History, Investigation, Nature, or Religion. You have Expertise in that skill if you have proficiency in it.",
+        "Quick Study: You can take the Study action as a Bonus Action."
+      ]
+    },
+    {
+      "id": "lucky",
+      "name": "Lucky",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You have inexplicable luck.",
+      "benefits": [
+        "Luck Points: You have a number of Luck Points equal to your Proficiency Bonus. You can spend Luck Points on the benefits below, and you regain all your Luck Points when you finish a Long Rest.",
+        "Advantage: You can spend 1 Luck Point immediately after you roll a d20 to give yourself Advantage on the roll.",
+        "Disadvantage: When a creature rolls a d20 to attack you or to determine if you fail a saving throw, you can spend 1 Luck Point to give that roll Disadvantage."
+      ]
+    },
+    {
+      "id": "mage-slayer",
+      "name": "Mage Slayer",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You have practiced techniques useful in melee combat against spellcasters.",
+      "benefits": [
+        "Ability Score Increase: Increase your Strength or Dexterity by 1, to a maximum of 20.",
+        "Concentration Breaker: When you damage a creature that is concentrating, it has Disadvantage on the saving throw to maintain Concentration.",
+        "Guarded Mind: If you fail an Intelligence, Wisdom, or Charisma saving throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a Long Rest."
+      ]
+    },
+    {
+      "id": "magic-initiate",
+      "name": "Magic Initiate",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": true,
+      "description": "You have learned the basics of a magical tradition.",
+      "benefits": [
+        "Two Cantrips: Choose a class: Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard. You learn two cantrips of your choice from that class's spell list.",
+        "1st-Level Spell: Choose one 1st-level spell from the same list. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it that way when you finish a Long Rest. You can also cast it using any spell slots you have.",
+        "Spellcasting Ability: Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this feat).",
+        "Repeatable: You can take this feat more than once, choosing a different class each time."
+      ]
+    },
+    {
+      "id": "musician",
+      "name": "Musician",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You are a practiced musician.",
+      "benefits": [
+        "Instrument Training: You gain proficiency with three Musical Instruments of your choice.",
+        "Inspiring Song: As you finish a Short or Long Rest, you can play a song on a Musical Instrument and inspire your allies. Choose a number of allies up to your Proficiency Bonus who can see or hear you. Each gains Heroic Inspiration."
+      ]
+    },
+    {
+      "id": "observant",
+      "name": "Observant",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You are exceptionally perceptive.",
+      "benefits": [
+        "Ability Score Increase: Increase your Intelligence or Wisdom by 1, to a maximum of 20.",
+        "Keen Observer: You have a +5 bonus to your Passive Perception and Passive Investigation.",
+        "Quick Search: You can take the Search action as a Bonus Action."
+      ]
+    },
+    {
+      "id": "polearm-master",
+      "name": "Polearm Master",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You are an expert with polearms.",
+      "benefits": [
+        "Ability Score Increase: Increase your Strength or Dexterity by 1, to a maximum of 20.",
+        "Pole Strike: Immediately after you take the Attack action and attack with a Quarterstaff, Spear, or weapon that has the Heavy and Reach properties, you can use a Bonus Action to make a melee attack with the opposite end of the weapon. The weapon deals 1d4 Bludgeoning damage.",
+        "Reactive Strike: While you're holding such a weapon, you can take a Reaction to make one melee attack against a creature that enters the reach you have with that weapon."
+      ]
+    },
+    {
+      "id": "resilient",
+      "name": "Resilient",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": true,
+      "description": "You have developed the resilience to better withstand certain dangers.",
+      "benefits": [
+        "Ability Score Increase: Choose one ability. Increase the chosen ability score by 1, to a maximum of 20.",
+        "Saving Throw Proficiency: You gain proficiency in saving throws using the chosen ability.",
+        "Repeatable: You can take this feat more than once, choosing a different ability each time."
+      ]
+    },
+    {
+      "id": "ritual-caster",
+      "name": "Ritual Caster",
+      "category": "General",
+      "prerequisite": "Intelligence, Wisdom, or Charisma 13+",
+      "repeatable": false,
+      "description": "You have learned a number of spells that you can cast as rituals.",
+      "benefits": [
+        "Ritual Spells: Choose two 1st-level spells that have the Ritual tag from the Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard spell list. You have these spells prepared, and they don't count against the number of spells you can have prepared.",
+        "Ritual Casting: When you cast a spell you have prepared that has the Ritual tag, you can cast it as a Ritual.",
+        "Spellcasting Ability: Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this feat)."
+      ]
+    },
+    {
+      "id": "savage-attacker",
+      "name": "Savage Attacker",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You've trained to deal particularly damaging strikes.",
+      "benefits": [
+        "Savage Strike: Once per turn when you hit a target with a weapon, you can roll the weapon's damage dice twice and use either roll against the target."
+      ]
+    },
+    {
+      "id": "sentinel",
+      "name": "Sentinel",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You have mastered techniques to take advantage of every drop in any enemy's guard.",
+      "benefits": [
+        "Ability Score Increase: Increase your Strength or Dexterity by 1, to a maximum of 20.",
+        "Guardian: Immediately after a creature within 5 feet of you takes the Disengage action or hits a target other than you with an attack, you can make an Opportunity Attack against that creature.",
+        "Halt: When you hit a creature with an Opportunity Attack, the creature's Speed becomes 0 for the rest of the turn."
+      ]
+    },
+    {
+      "id": "sharpshooter",
+      "name": "Sharpshooter",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You are an expert marksman.",
+      "benefits": [
+        "Ability Score Increase: Increase your Dexterity by 1, to a maximum of 20.",
+        "Bypass Cover: Your ranged attacks with weapons ignore Half Cover and Three-Quarters Cover.",
+        "Firing in Melee: Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with ranged weapons.",
+        "Long Shots: Attacking at long range doesn't impose Disadvantage on your attack rolls with ranged weapons."
+      ]
+    },
+    {
+      "id": "shield-master",
+      "name": "Shield Master",
+      "category": "General",
+      "prerequisite": "Shield Training",
+      "repeatable": false,
+      "description": "You have mastered using a shield to protect yourself and your allies.",
+      "benefits": [
+        "Shield Bash: If you attack a creature within 5 feet of you as part of the Attack action and hit, you can push the creature up to 5 feet if it is no more than one size larger than you.",
+        "Interpose Shield: If you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can take a Reaction to use your Shield to take no damage if you succeed on the saving throw.",
+        "Forceful Bash: You can add your Shield's Armor Class bonus to your Strength (Athletics) check to shove a creature within 5 feet of you."
+      ]
+    },
+    {
+      "id": "skilled",
+      "name": "Skilled",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": true,
+      "description": "You have acquired skills.",
+      "benefits": [
+        "Skill Proficiencies: You gain proficiency in any combination of three skills or tools of your choice.",
+        "Repeatable: You can take this feat more than once."
+      ]
+    },
+    {
+      "id": "skulker",
+      "name": "Skulker",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You are expert at slinking through shadows.",
+      "benefits": [
+        "Ability Score Increase: Increase your Dexterity by 1, to a maximum of 20.",
+        "Blindsight: You have Blindsight with a range of 10 feet.",
+        "Fog of War: You can take the Hide action when you are Lightly Obscured.",
+        "Sniper: If you make an attack roll while Hidden and the roll misses, making the attack roll doesn't end the Hidden condition on you."
+      ]
+    },
+    {
+      "id": "speedy",
+      "name": "Speedy",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You are exceptionally fast.",
+      "benefits": [
+        "Ability Score Increase: Increase your Dexterity or Constitution by 1, to a maximum of 20.",
+        "Speed Increase: Your Speed increases by 10 feet.",
+        "Dash Over Difficult Terrain: When you take the Dash action, Difficult Terrain doesn't cost you extra movement for the rest of the current turn."
+      ]
+    },
+    {
+      "id": "spell-sniper",
+      "name": "Spell Sniper",
+      "category": "General",
+      "prerequisite": "Spellcasting or Pact Magic feature",
+      "repeatable": false,
+      "description": "You have learned techniques to enhance your attacks with certain kinds of spells.",
+      "benefits": [
+        "Ability Score Increase: Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.",
+        "Bypass Cover: Your spell attacks ignore Half Cover and Three-Quarters Cover.",
+        "Casting in Melee: Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with spells.",
+        "Increased Range: When you cast a spell that has a range of at least 10 feet and that requires you to make an attack roll, you can increase the spell's range by 60 feet."
+      ]
+    },
+    {
+      "id": "tavern-brawler",
+      "name": "Tavern Brawler",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You are accustomed to brawling.",
+      "benefits": [
+        "Ability Score Increase: Increase your Strength or Constitution by 1, to a maximum of 20.",
+        "Enhanced Unarmed Strike: When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d4 plus your Strength modifier instead of the normal damage.",
+        "Damage Rerolls: Whenever you roll a damage die for your Unarmed Strike, you can reroll the die if it rolls a 1, and you must use the new roll.",
+        "Shove: When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can push the creature up to 5 feet if it is Large or smaller."
+      ]
+    },
+    {
+      "id": "tough",
+      "name": "Tough",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "You are tougher than most.",
+      "benefits": [
+        "Hard to Kill: Your Hit Point maximum increases by an amount equal to twice your character level when you gain this feat. Whenever you gain a character level thereafter, your Hit Point maximum increases by an additional 2 Hit Points."
+      ]
+    },
+    {
+      "id": "war-caster",
+      "name": "War Caster",
+      "category": "General",
+      "prerequisite": "Spellcasting or Pact Magic feature",
+      "repeatable": false,
+      "description": "You have practiced casting spells in the midst of combat.",
+      "benefits": [
+        "Ability Score Increase: Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.",
+        "Concentration: You have Advantage on Constitution saving throws that you make to maintain Concentration.",
+        "Reactive Spell: When a creature provokes an Opportunity Attack from you, you can cast a spell at the creature rather than making an Opportunity Attack. The spell must have a casting time of one action and must target only that creature.",
+        "Somatic Components: You can perform the Somatic components of spells even when you have weapons or a Shield in one or both hands."
+      ]
+    },
+    {
+      "id": "weapon-master",
+      "name": "Weapon Master",
+      "category": "General",
+      "prerequisite": null,
+      "repeatable": false,
+      "description": "Your extensive practice with weapons has given you expertise.",
+      "benefits": [
+        "Ability Score Increase: Increase your Strength or Dexterity by 1, to a maximum of 20.",
+        "Mastery Property: You gain the Mastery property of one kind of Simple or Martial weapon of your choice, provided you have proficiency with it. Whenever you finish a Long Rest, you can change the weapon you chose."
+      ]
+    },
+    {
+      "id": "fighting-style-archery",
+      "name": "Fighting Style: Archery",
+      "category": "Fighting Style",
+      "prerequisite": "Warrior Group",
+      "repeatable": false,
+      "description": "You gain a +2 bonus to attack rolls you make with Ranged weapons.",
+      "benefits": [
+        "+2 bonus to attack rolls with Ranged weapons"
+      ]
+    },
+    {
+      "id": "fighting-style-defense",
+      "name": "Fighting Style: Defense",
+      "category": "Fighting Style",
+      "prerequisite": "Warrior Group",
+      "repeatable": false,
+      "description": "While you're wearing Light, Medium, or Heavy armor, you gain a +1 bonus to Armor Class.",
+      "benefits": [
+        "+1 bonus to AC while wearing armor"
+      ]
+    },
+    {
+      "id": "fighting-style-great-weapon-fighting",
+      "name": "Fighting Style: Great Weapon Fighting",
+      "category": "Fighting Style",
+      "prerequisite": "Warrior Group",
+      "repeatable": false,
+      "description": "When you roll damage for an attack with a Melee weapon that you're holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the Two-Handed or Versatile property to gain this benefit.",
+      "benefits": [
+        "Treat 1s and 2s on damage dice as 3s when using two-handed melee weapons"
+      ]
+    },
+    {
+      "id": "fighting-style-two-weapon-fighting",
+      "name": "Fighting Style: Two-Weapon Fighting",
+      "category": "Fighting Style",
+      "prerequisite": "Warrior Group",
+      "repeatable": false,
+      "description": "When you make an extra attack as a result of using a weapon that has the Light property, you can add your ability modifier to the damage of that attack.",
+      "benefits": [
+        "Add ability modifier to damage of Light weapon bonus attacks"
+      ]
+    },
+    {
+      "id": "ability-score-improvement",
+      "name": "Ability Score Improvement",
+      "category": "General",
+      "prerequisite": "Level 4+",
+      "repeatable": true,
+      "description": "You increase your abilities through training and self-improvement.",
+      "benefits": [
+        "Increase one ability score by 2, or increase two ability scores by 1 each. You can't increase an ability score above 20 using this feat."
+      ]
+    },
+    {
+      "id": "boon-of-combat-prowess",
+      "name": "Boon of Combat Prowess",
+      "category": "Epic Boon",
+      "prerequisite": "Level 19+",
+      "repeatable": false,
+      "description": "Your combat ability has reached legendary proportions.",
+      "benefits": [
+        "Ability Score Increase: Increase one ability score of your choice by 1, to a maximum of 30.",
+        "Peerless Aim: When you miss with an attack roll, you can hit instead. Once you use this benefit, you can't use it again until the start of your next turn."
+      ]
+    },
+    {
+      "id": "boon-of-dimensional-travel",
+      "name": "Boon of Dimensional Travel",
+      "category": "Epic Boon",
+      "prerequisite": "Level 19+",
+      "repeatable": false,
+      "description": "You can slip between dimensions at will.",
+      "benefits": [
+        "Ability Score Increase: Increase one ability score of your choice by 1, to a maximum of 30.",
+        "Blink Steps: Immediately after you take the Attack action or the Magic action, you can teleport up to 30 feet to an unoccupied space you can see."
+      ]
+    },
+    {
+      "id": "boon-of-fate",
+      "name": "Boon of Fate",
+      "category": "Epic Boon",
+      "prerequisite": "Level 19+",
+      "repeatable": false,
+      "description": "You have mastery over fate itself.",
+      "benefits": [
+        "Ability Score Increase: Increase one ability score of your choice by 1, to a maximum of 30.",
+        "Improve Fate: When you or another creature within 60 feet of you succeeds on or fails a D20 Test, you can roll 2d4 and apply the total rolled as a bonus or penalty to the d20 roll. Once you use this benefit, you can't use it again until you roll Initiative or finish a Short or Long Rest."
+      ]
+    },
+    {
+      "id": "boon-of-irresistible-offense",
+      "name": "Boon of Irresistible Offense",
+      "category": "Epic Boon",
+      "prerequisite": "Level 19+",
+      "repeatable": false,
+      "description": "Your attacks are devastating beyond measure.",
+      "benefits": [
+        "Ability Score Increase: Increase your Strength or Dexterity by 1, to a maximum of 30.",
+        "Overcome Defenses: The Bludgeoning, Piercing, and Slashing damage you deal always ignores Resistance.",
+        "Overwhelming Strike: When you roll a 20 on the d20 for an attack roll, you can deal extra damage to the target equal to the ability score increased by this feat."
+      ]
+    },
+    {
+      "id": "boon-of-the-night-spirit",
+      "name": "Boon of the Night Spirit",
+      "category": "Epic Boon",
+      "prerequisite": "Level 19+",
+      "repeatable": false,
+      "description": "You merge with darkness itself.",
+      "benefits": [
+        "Ability Score Increase: Increase one ability score of your choice by 1, to a maximum of 30.",
+        "Merge with Shadows: While entirely within Dim Light or Darkness, you can give yourself the Invisible condition as a Bonus Action. The condition ends on you immediately after you take an action, a Bonus Action, or a Reaction.",
+        "Shadowy Form: While entirely within Dim Light or Darkness, you have Resistance to all damage except Psychic and Radiant."
+      ]
+    },
+    {
+      "id": "boon-of-spell-recall",
+      "name": "Boon of Spell Recall",
+      "category": "Epic Boon",
+      "prerequisite": "Level 19+, Spellcasting or Pact Magic feature",
+      "repeatable": false,
+      "description": "Your mastery of magic allows you to recall spent power.",
+      "benefits": [
+        "Ability Score Increase: Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 30.",
+        "Free Casting: Whenever you cast a spell with a spell slot of level 1-4, roll 1d4. If the number you roll equals the slot's level, the slot isn't expended."
+      ]
+    },
+    {
+      "id": "boon-of-truesight",
+      "name": "Boon of Truesight",
+      "category": "Epic Boon",
+      "prerequisite": "Level 19+",
+      "repeatable": false,
+      "description": "You perceive the world in its true form.",
+      "benefits": [
+        "Ability Score Increase: Increase one ability score of your choice by 1, to a maximum of 30.",
+        "Truesight: You have Truesight with a range of 60 feet."
+      ]
+    }
+  ]
+}
