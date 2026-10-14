@@ -1,0 +1,164 @@
+{
+  "id": "dnd-5e-srd-5.2.1",
+  "name": "D&D 5e SRD 5.2.1",
+  "version": "5.2.1",
+  "description": "Official Systems Reference Document 5.2.1 for D&D 5th Edition under Creative Commons license.",
+  "author": "Wizards of the Coast",
+  "license": "CC-BY-4.0",
+  "repository": "https://github.com/natone/natone-cartridges",
+  
+  "system": {
+    "family": "d20",
+    "name": "D&D 5th Edition (2024)",
+    "publisher": "Wizards of the Coast",
+    "primaryDie": "d20"
+  },
+  
+  "content": {
+    "races": "races/races.json",
+    "classes": "classes/classes.json",
+    "subclasses": "classes/subclasses.json",
+    "spells": "spells/spells.json",
+    "equipment": "equipment/equipment.json",
+    "backgrounds": "backgrounds/backgrounds.json",
+    "feats": "feats/feats.json",
+    "skills": "rules/skills.json",
+    "conditions": "rules/conditions.json",
+    "travel": "rules/travel.json",
+    "environment": "rules/environment.json",
+    "weaponMasteries": "rules/weapon-masteries.json",
+    "monsters": "monsters/monsters.json"
+  },
+  
+  "rules": {
+    "attributes": [
+      {
+        "key": "str",
+        "label": "Strength",
+        "abbreviation": "STR",
+        "description": "Measures physical power, athletic training, and the extent to which you can exert raw physical force",
+        "min": 1,
+        "max": 30,
+        "default": 10,
+        "modifierFormula": "floor((score - 10) / 2)"
+      },
+      {
+        "key": "dex",
+        "label": "Dexterity",
+        "abbreviation": "DEX",
+        "description": "Measures agility, reflexes, balance, and poise",
+        "min": 1,
+        "max": 30,
+        "default": 10,
+        "modifierFormula": "floor((score - 10) / 2)"
+      },
+      {
+        "key": "con",
+        "label": "Constitution",
+        "abbreviation": "CON",
+        "description": "Measures health, stamina, and vital force",
+        "min": 1,
+        "max": 30,
+        "default": 10,
+        "modifierFormula": "floor((score - 10) / 2)"
+      },
+      {
+        "key": "int",
+        "label": "Intelligence",
+        "abbreviation": "INT",
+        "description": "Measures mental acuity, accuracy of recall, and the ability to reason",
+        "min": 1,
+        "max": 30,
+        "default": 10,
+        "modifierFormula": "floor((score - 10) / 2)"
+      },
+      {
+        "key": "wis",
+        "label": "Wisdom",
+        "abbreviation": "WIS",
+        "description": "Measures awareness, intuition, and insight",
+        "min": 1,
+        "max": 30,
+        "default": 10,
+        "modifierFormula": "floor((score - 10) / 2)"
+      },
+      {
+        "key": "cha",
+        "label": "Charisma",
+        "abbreviation": "CHA",
+        "description": "Measures confidence, eloquence, and leadership",
+        "min": 1,
+        "max": 30,
+        "default": 10,
+        "modifierFormula": "floor((score - 10) / 2)"
+      }
+    ],
+    "derivedStats": [
+      { "key": "hp", "label": "Hit Points", "formula": "hitDie + conMod", "category": "resource" },
+      { "key": "ac", "label": "Armor Class", "formula": "10 + dexMod", "category": "defense" },
+      { "key": "initiative", "label": "Initiative", "formula": "dexMod", "category": "combat" },
+      { "key": "proficiency", "label": "Proficiency Bonus", "formula": "floor((level - 1) / 4) + 2", "category": "combat" },
+      { "key": "speed", "label": "Speed", "formula": "30", "category": "combat" },
+      { "key": "passivePerception", "label": "Passive Perception", "formula": "10 + wisMod + (profPerception ? prof : 0)", "category": "misc" },
+      { "key": "meleeAttack", "label": "Melee Attack", "formula": "prof + strMod", "category": "combat" },
+      { "key": "rangedAttack", "label": "Ranged Attack", "formula": "prof + dexMod", "category": "combat" },
+      { "key": "spellDC", "label": "Spell Save DC", "formula": "8 + prof + spellMod", "category": "combat" },
+      { "key": "spellAttack", "label": "Spell Attack", "formula": "prof + spellMod", "category": "combat" },
+      { "key": "carryingCapacity", "label": "Carrying Capacity", "formula": "str * 15", "category": "misc" },
+      { "key": "saveStr", "label": "Strength Save", "formula": "strMod", "category": "defense" },
+      { "key": "saveDex", "label": "Dexterity Save", "formula": "dexMod", "category": "defense" },
+      { "key": "saveCon", "label": "Constitution Save", "formula": "conMod", "category": "defense" },
+      { "key": "saveInt", "label": "Intelligence Save", "formula": "intMod", "category": "defense" },
+      { "key": "saveWis", "label": "Wisdom Save", "formula": "wisMod", "category": "defense" },
+      { "key": "saveCha", "label": "Charisma Save", "formula": "chaMod", "category": "defense" }
+    ],
+    "proficiencyFormula": "floor((level - 1) / 4) + 2",
+    "levelCap": 20,
+    "abilityScoreMethods": [
+      {
+        "id": "standard-array",
+        "name": "Standard Array",
+        "description": "Use the following scores: 15, 14, 13, 12, 10, 8",
+        "type": "array",
+        "values": [15, 14, 13, 12, 10, 8]
+      },
+      {
+        "id": "point-buy",
+        "name": "Point Buy",
+        "description": "You have 27 points to spend on ability scores. The cost of each score is shown on the Point Cost table.",
+        "type": "point-buy",
+        "points": 27,
+        "minScore": 8,
+        "maxScore": 15
+      },
+      {
+        "id": "rolling",
+        "name": "Roll",
+        "description": "Roll 4d6 and record the total of the highest three dice. Do this five more times.",
+        "type": "rolling",
+        "rollFormula": "4d6kh3",
+        "rollCount": 6
+      },
+      {
+        "id": "manual",
+        "name": "Manual Entry",
+        "description": "Enter ability scores manually as determined by your DM",
+        "type": "manual"
+      }
+    ]
+  },
+  
+  "ui": {
+    "terminology": {
+      "hitPoints": "Hit Points",
+      "level": "Level",
+      "experience": "XP",
+      "class": "Class",
+      "race": "Species"
+    }
+  },
+  
+  "compatibility": {
+    "appVersion": "1.0.0"
+  }
+}
