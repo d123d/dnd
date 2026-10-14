@@ -1,0 +1,266 @@
+{
+  "subclasses": [
+    {
+      "id": "path-of-the-berserker",
+      "name": "Path of the Berserker",
+      "classId": "barbarian",
+      "description": "For some Barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood.",
+      "features": [
+        { "id": "frenzy", "name": "Frenzy", "level": 3, "description": "If you use Reckless Attack while your Rage is active, you deal extra damage to the first target you hit on your turn with a Strength-based attack. The extra damage equals your Proficiency Bonus." },
+        { "id": "mindless-rage", "name": "Mindless Rage", "level": 6, "description": "You have Immunity to the Charmed and Frightened conditions while your Rage is active. If you're Charmed or Frightened when you enter your Rage, the condition ends." },
+        { "id": "retaliation", "name": "Retaliation", "level": 10, "description": "When you take damage from a creature that is within 5 feet of you, you can take a Reaction to make one melee attack against that creature, using a weapon or an Unarmed Strike." },
+        { "id": "intimidating-presence", "name": "Intimidating Presence", "level": 14, "description": "As a Bonus Action, you can strike terror into others with your menacing presence and bellowing fury. When you do so, each creature of your choice in a 30-foot Emanation originating from you must make a Wisdom saving throw (DC 8 + Proficiency Bonus + Strength modifier). On a failed save, a creature has the Frightened condition for 1 minute." }
+      ]
+    },
+    {
+      "id": "path-of-the-wild-heart",
+      "name": "Path of the Wild Heart",
+      "classId": "barbarian",
+      "description": "Barbarians who follow this path draw their rage from the untamed wilds. These barbarians commune with animals and channel bestial spirits during their rages.",
+      "features": [
+        { "id": "animal-speaker", "name": "Animal Speaker", "level": 3, "description": "You can cast Beast Sense and Speak with Animals but only as Rituals." },
+        { "id": "rage-of-the-wilds", "name": "Rage of the Wilds", "level": 3, "description": "Your Rage taps into the primal power of animals. Whenever you activate your Rage, you can choose one of the following options: Bear, Eagle, or Wolf. The option you choose determines certain benefits while your Rage is active." },
+        { "id": "aspect-of-the-wilds", "name": "Aspect of the Wilds", "level": 6, "description": "You gain one of the following options of your choice. Whenever you finish a Long Rest, you can change your choice: Owl, Panther, or Salmon." },
+        { "id": "natures-speaker", "name": "Nature's Speaker", "level": 10, "description": "You can cast Commune with Nature as a Ritual." },
+        { "id": "power-of-the-wilds", "name": "Power of the Wilds", "level": 14, "description": "Whenever you activate your Rage, you can choose two options from Rage of the Wilds rather than one." }
+      ]
+    },
+    {
+      "id": "path-of-the-world-tree",
+      "name": "Path of the World Tree",
+      "classId": "barbarian",
+      "description": "Barbarians who follow this path connect themselves to the cosmic World Tree.",
+      "features": [
+        { "id": "vitality-of-the-tree", "name": "Vitality of the Tree", "level": 3, "description": "Your Rage taps into the life force of the World Tree. When you activate your Rage, you gain Temporary Hit Points equal to your Barbarian level." },
+        { "id": "branches-of-the-tree", "name": "Branches of the Tree", "level": 6, "description": "While your Rage is active, you can use a Bonus Action to teleport up to 60 feet to an unoccupied space you can see." },
+        { "id": "battering-roots", "name": "Battering Roots", "level": 10, "description": "Tendrils of the World Tree extend from you. While your Rage is active, when you hit with a weapon attack, you can push the target up to 15 feet away from you." },
+        { "id": "travel-along-the-tree", "name": "Travel Along the Tree", "level": 14, "description": "When you activate your Rage, you can teleport yourself and up to six willing creatures you can see to a location you're familiar with on your current plane of existence." }
+      ]
+    },
+    {
+      "id": "path-of-the-zealot",
+      "name": "Path of the Zealot",
+      "classId": "barbarian",
+      "description": "Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots—warriors who channel their rage into powerful displays of divine power.",
+      "features": [
+        { "id": "divine-fury", "name": "Divine Fury", "level": 3, "description": "You can channel divine power into your strikes. While your Rage is active, the first creature you hit on each of your turns with a weapon or Unarmed Strike takes extra damage equal to 1d6 plus half your Barbarian level. The extra damage is Necrotic or Radiant (your choice when you gain this feature)." },
+        { "id": "warrior-of-the-gods", "name": "Warrior of the Gods", "level": 3, "description": "If any effect would raise you from the dead, you can choose to return with half your Hit Points or your full Hit Points. In addition, you don't need Material components for any spell that would return you to life." },
+        { "id": "fanatical-focus", "name": "Fanatical Focus", "level": 6, "description": "If you fail a saving throw while your Rage is active, you can reroll it with a bonus equal to your Rage Damage bonus, and you must use the new roll." },
+        { "id": "zealous-presence", "name": "Zealous Presence", "level": 10, "description": "As a Bonus Action, you unleash a battle cry infused with divine energy. Up to ten other creatures of your choice within 60 feet of you gain Advantage on attack rolls and saving throws until the start of your next turn." },
+        { "id": "rage-beyond-death", "name": "Rage Beyond Death", "level": 14, "description": "While your Rage is active, having 0 Hit Points doesn't knock you out. You still must make Death Saving Throws, and you suffer the normal effects of taking damage while at 0 Hit Points. However, if you would die due to failing Death Saving Throws, you don't die until your Rage ends." }
+      ]
+    },
+    {
+      "id": "college-of-dance",
+      "name": "College of Dance",
+      "classId": "bard",
+      "description": "Bards of this college consider dancing a more potent art form than music or speech.",
+      "features": [
+        { "id": "dazzling-footwork", "name": "Dazzling Footwork", "level": 3, "description": "Your practice of dance gives you the ability to perform spectacular combat maneuvers. You gain benefits when wearing light or no armor and not using a Shield." },
+        { "id": "inspiring-movement", "name": "Inspiring Movement", "level": 3, "description": "When an enemy you can see ends its turn within 5 feet of you, you can take a Reaction to expend one use of Bardic Inspiration and move up to half your Speed without provoking Opportunity Attacks." },
+        { "id": "tandem-footwork", "name": "Tandem Footwork", "level": 6, "description": "When you expend Bardic Inspiration as part of an action, a Bonus Action, or a Reaction, you can cause up to two allies you can see within 30 feet of you to move up to half their Speed." },
+        { "id": "leading-evasion", "name": "Leading Evasion", "level": 14, "description": "When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage on a success. Moreover, when an ally within 5 feet of you makes a Dexterity saving throw against an effect that deals damage, you can take a Reaction to grant that ally the benefit of your Evasion." }
+      ]
+    },
+    {
+      "id": "college-of-glamour",
+      "name": "College of Glamour",
+      "classId": "bard",
+      "description": "Bards of this college have learned to weave fey magic into their performances.",
+      "features": [
+        { "id": "beguiling-magic", "name": "Beguiling Magic", "level": 3, "description": "You know the Command spell. For you, it counts as a Bard spell. Whenever you cast this spell, you can target two creatures instead of one." },
+        { "id": "mantle-of-inspiration", "name": "Mantle of Inspiration", "level": 3, "description": "As a Bonus Action, you expend one use of Bardic Inspiration and choose a number of willing creatures you can see within 60 feet of you, up to a number equal to your Charisma modifier. Each of them gains Temporary Hit Points equal to 2 times your Bard level and can move up to their Speed without provoking Opportunity Attacks." },
+        { "id": "mantle-of-majesty", "name": "Mantle of Majesty", "level": 6, "description": "As a Bonus Action, you take on an unearthly appearance for 1 minute. For the duration, as a Bonus Action on each of your turns, you can cast Command without expending a spell slot, and a target you choose automatically fails its saving throw against the spell." },
+        { "id": "unbreakable-majesty", "name": "Unbreakable Majesty", "level": 14, "description": "As a Bonus Action, you can assume a magically majestic presence for 1 minute or until you have the Incapacitated condition. For the duration, whenever a creature hits you with an attack roll for the first time on a turn, it must succeed on a Charisma saving throw against your spell save DC or the attack misses instead." }
+      ]
+    },
+    {
+      "id": "college-of-lore",
+      "name": "College of Lore",
+      "classId": "bard",
+      "description": "Bards of the College of Lore collect knowledge from sources as diverse as scholarly tomes and peasant tales.",
+      "features": [
+        { "id": "bonus-proficiencies-lore", "name": "Bonus Proficiencies", "level": 3, "description": "You gain proficiency in any three skills of your choice." },
+        { "id": "cutting-words", "name": "Cutting Words", "level": 3, "description": "You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll or an ability check, you can take a Reaction to expend one use of Bardic Inspiration, rolling that die and subtracting the number rolled from the creature's roll." },
+        { "id": "magical-discoveries", "name": "Magical Discoveries", "level": 6, "description": "You learn two spells of your choice from any spell list. The chosen spells must be of a level you can cast." },
+        { "id": "peerless-skill", "name": "Peerless Skill", "level": 14, "description": "When you make an ability check or attack roll and fail, you can expend one use of Bardic Inspiration, roll the die, and add the number rolled to the d20, potentially turning the failure into a success." }
+      ]
+    },
+    {
+      "id": "college-of-valor",
+      "name": "College of Valor",
+      "classId": "bard",
+      "description": "Bards of the College of Valor are daring skalds whose tales keep alive the memory of the great heroes of the past.",
+      "features": [
+        { "id": "combat-inspiration", "name": "Combat Inspiration", "level": 3, "description": "When you grant Bardic Inspiration, the recipient can also add the die to a damage roll or to their AC against one attack." },
+        { "id": "martial-training", "name": "Martial Training", "level": 3, "description": "You gain proficiency with Medium armor and Shields. In addition, when you attack with a Weapon as part of the Attack action, you can make one extra attack with a different Weapon as a Bonus Action." },
+        { "id": "extra-attack-valor", "name": "Extra Attack", "level": 6, "description": "You can attack twice instead of once whenever you take the Attack action on your turn." },
+        { "id": "battle-magic", "name": "Battle Magic", "level": 14, "description": "When you take the Attack action on your turn, you can replace one of the attacks with casting a spell that has a casting time of an action." }
+      ]
+    },
+    {
+      "id": "life-domain",
+      "name": "Life Domain",
+      "classId": "cleric",
+      "description": "The Life Domain focuses on the vibrant positive energy that sustains all life.",
+      "features": [
+        { "id": "disciple-of-life", "name": "Disciple of Life", "level": 3, "description": "When a spell you cast with a spell slot restores Hit Points to a creature, that creature regains additional Hit Points on the turn you cast the spell. The additional Hit Points equal 2 plus the spell slot's level." },
+        { "id": "preserve-life", "name": "Preserve Life", "level": 3, "description": "As a Magic action, you expend a use of Channel Divinity and present your Holy Symbol. You or a creature within 30 feet of you regains Hit Points equal to 5 times your Cleric level. This can't raise a creature's Hit Points above half its Hit Point maximum." },
+        { "id": "blessed-healer", "name": "Blessed Healer", "level": 6, "description": "When you cast a spell with a spell slot that restores Hit Points to a creature other than yourself, you also regain Hit Points equal to 2 plus the spell slot's level." },
+        { "id": "supreme-healing", "name": "Supreme Healing", "level": 17, "description": "When you roll dice to restore Hit Points with your spells, you can take the maximum result on each die instead of rolling." }
+      ],
+      "bonusSpells": [
+        { "level": 3, "spellIds": ["bless", "cure-wounds"] },
+        { "level": 5, "spellIds": ["aid", "lesser-restoration"] },
+        { "level": 7, "spellIds": ["mass-healing-word", "revivify"] },
+        { "level": 9, "spellIds": ["aura-of-life", "death-ward"] }
+      ]
+    },
+    {
+      "id": "light-domain",
+      "name": "Light Domain",
+      "classId": "cleric",
+      "description": "Gods of light promote the ideals of rebirth and renewal, truth, vigilance, and beauty.",
+      "features": [
+        { "id": "radiance-of-the-dawn", "name": "Radiance of the Dawn", "level": 3, "description": "As a Magic action, you expend a use of Channel Divinity and present your Holy Symbol. Any magical Darkness within 30 feet of you ends. Each creature of your choice within 30 feet of you must make a Constitution saving throw, taking Radiant damage equal to 2d10 plus your Cleric level on a failed save, or half as much on a success." },
+        { "id": "warding-flare", "name": "Warding Flare", "level": 3, "description": "When a creature within 30 feet of you makes an attack roll, you can take a Reaction to impose Disadvantage on the roll. The attacker can't benefit from Advantage on the roll. You can use this feature a number of times equal to your Wisdom modifier." },
+        { "id": "improved-warding-flare", "name": "Improved Warding Flare", "level": 6, "description": "When you use Warding Flare, you can target any creature within 30 feet of you, not just yourself." },
+        { "id": "corona-of-light", "name": "Corona of Light", "level": 17, "description": "As a Magic action, you activate an aura of sunlight that lasts for 1 minute. It emanates from you in a 60-foot Emanation. Creatures of your choice in the Emanation have Disadvantage on saving throws against any spell that deals Fire or Radiant damage." }
+      ],
+      "bonusSpells": [
+        { "level": 3, "spellIds": ["burning-hands", "faerie-fire"] },
+        { "level": 5, "spellIds": ["scorching-ray", "see-invisibility"] },
+        { "level": 7, "spellIds": ["daylight", "fireball"] },
+        { "level": 9, "spellIds": ["arcane-eye", "wall-of-fire"] }
+      ]
+    },
+    {
+      "id": "trickery-domain",
+      "name": "Trickery Domain",
+      "classId": "cleric",
+      "description": "Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order.",
+      "features": [
+        { "id": "blessing-of-the-trickster", "name": "Blessing of the Trickster", "level": 3, "description": "As a Magic action, you give yourself or a willing creature you touch Advantage on Stealth checks. This blessing lasts until you finish a Long Rest or you use this feature again." },
+        { "id": "invoke-duplicity", "name": "Invoke Duplicity", "level": 3, "description": "As a Bonus Action, you expend a use of Channel Divinity and create a perfect illusion of yourself that lasts for 1 minute or until you lose Concentration. The illusion appears in an unoccupied space that you can see within 30 feet of you." },
+        { "id": "tricksters-transposition", "name": "Trickster's Transposition", "level": 6, "description": "When you use Invoke Duplicity, you can teleport, swapping places with your illusion." },
+        { "id": "improved-duplicity", "name": "Improved Duplicity", "level": 17, "description": "You can create up to four illusory duplicates when you use Invoke Duplicity, and you can move any number of them each time you take a Bonus Action to move them." }
+      ],
+      "bonusSpells": [
+        { "level": 3, "spellIds": ["charm-person", "disguise-self"] },
+        { "level": 5, "spellIds": ["invisibility", "pass-without-trace"] },
+        { "level": 7, "spellIds": ["hypnotic-pattern", "nondetection"] },
+        { "level": 9, "spellIds": ["confusion", "dimension-door"] }
+      ]
+    },
+    {
+      "id": "war-domain",
+      "name": "War Domain",
+      "classId": "cleric",
+      "description": "War has many manifestations. Gods of war can inspire leaders, soldiers, and warriors.",
+      "features": [
+        { "id": "guided-strike", "name": "Guided Strike", "level": 3, "description": "When you or another creature within 30 feet of you misses with an attack roll, you can expend a use of Channel Divinity and grant a +10 bonus to the roll, potentially causing it to hit." },
+        { "id": "war-priest", "name": "War Priest", "level": 3, "description": "As a Bonus Action, you can make one attack with a weapon or Unarmed Strike. You can use this Bonus Action a number of times equal to your Wisdom modifier (minimum once). You regain all expended uses when you finish a Long Rest." },
+        { "id": "war-gods-blessing", "name": "War God's Blessing", "level": 6, "description": "You gain proficiency with Martial weapons and Heavy armor." },
+        { "id": "avatar-of-battle", "name": "Avatar of Battle", "level": 17, "description": "You have Resistance to Bludgeoning, Piercing, and Slashing damage." }
+      ],
+      "bonusSpells": [
+        { "level": 3, "spellIds": ["divine-favor", "shield-of-faith"] },
+        { "level": 5, "spellIds": ["magic-weapon", "spiritual-weapon"] },
+        { "level": 7, "spellIds": ["crusaders-mantle", "spirit-guardians"] },
+        { "level": 9, "spellIds": ["fire-shield", "freedom-of-movement"] }
+      ]
+    },
+    {
+      "id": "circle-of-the-land",
+      "name": "Circle of the Land",
+      "classId": "druid",
+      "description": "The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition.",
+      "features": [
+        { "id": "land-spell-list", "name": "Land's Aid", "level": 3, "description": "As a Magic action, you expend a use of Wild Shape and choose a point within 60 feet of you. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius Sphere centered on that point. Each creature of your choice in the Sphere must make a Constitution saving throw, taking 2d6 Necrotic damage on a failed save, or half as much on a success. One creature of your choice in that area regains 2d6 Hit Points." },
+        { "id": "natural-recovery", "name": "Natural Recovery", "level": 3, "description": "You can cast one of the spells of 1st level or higher from your Circle Spells list without expending a spell slot, and you must finish a Long Rest before you can do so again." },
+        { "id": "natures-stride", "name": "Nature's Stride", "level": 6, "description": "Moving through nonmagical Difficult Terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or similar hazards." },
+        { "id": "natures-ward", "name": "Nature's Ward", "level": 10, "description": "You have Immunity to the Poisoned condition, and you have Resistance to a damage type associated with your current land choice." },
+        { "id": "natures-sanctuary", "name": "Nature's Sanctuary", "level": 14, "description": "Nature spirits rise to protect you when you are badly hurt. If you have the Bloodied condition, you can take a Reaction when a creature you can see targets you with an attack to force that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature must choose a different target or lose the attack." }
+      ]
+    },
+    {
+      "id": "circle-of-the-moon",
+      "name": "Circle of the Moon",
+      "classId": "druid",
+      "description": "Druids of the Circle of the Moon are fierce guardians of the wilds. Their order gathers under the full moon to share news and trade warnings.",
+      "features": [
+        { "id": "combat-wild-shape", "name": "Combat Wild Shape", "level": 3, "description": "You have learned to use Wild Shape in combat. You gain benefits related to your Wild Shape." },
+        { "id": "circle-forms", "name": "Circle Forms", "level": 3, "description": "The might of the moon helps you assume more powerful forms. You can Wild Shape into forms with a Challenge Rating as high as your Druid level divided by 3 (round down)." },
+        { "id": "improved-circle-forms", "name": "Improved Circle Forms", "level": 6, "description": "While in Wild Shape, you gain additional benefits based on your Druid level." },
+        { "id": "moonlight-step", "name": "Moonlight Step", "level": 10, "description": "You magically transport yourself from one moonbeam to another. When Moonbeam is a spell you have prepared, you can cast it without expending a spell slot. While Moonbeam is active, you can teleport to an unoccupied space you can see within the spell's area." },
+        { "id": "lunar-form", "name": "Lunar Form", "level": 14, "description": "While in Wild Shape, you have Resistance to Bludgeoning, Piercing, and Slashing damage." }
+      ]
+    },
+    {
+      "id": "circle-of-the-sea",
+      "name": "Circle of the Sea",
+      "classId": "druid",
+      "description": "Druids of the Circle of the Sea draw on the tempestuous forces of oceans and storms.",
+      "features": [
+        { "id": "wrath-of-the-sea", "name": "Wrath of the Sea", "level": 3, "description": "As a Bonus Action, you can expend a use of Wild Shape to create an aura of ocean spray around you. The aura lasts for 10 minutes and moves with you. You can end it early (no action required). The aura has effects detailed in the feature description." },
+        { "id": "aquatic-affinity", "name": "Aquatic Affinity", "level": 3, "description": "You have a Swim Speed equal to your Speed. In addition, your Wrath of the Sea's radius increases to 15 feet, and when you deal Cold damage with it, you deal extra damage equal to your Wisdom modifier." },
+        { "id": "stormborn", "name": "Stormborn", "level": 10, "description": "Your Wrath of the Sea's radius increases to 20 feet. In addition, you have Resistance to Cold, Lightning, and Thunder damage." },
+        { "id": "oceanic-gift", "name": "Oceanic Gift", "level": 14, "description": "You can grant aquatic abilities to creatures. As a Bonus Action, you touch a willing creature and give it a Swim Speed equal to its Speed. The creature can also breathe underwater." }
+      ]
+    },
+    {
+      "id": "circle-of-the-stars",
+      "name": "Circle of the Stars",
+      "classId": "druid",
+      "description": "Druids of the Circle of the Stars trace their patterns among the stars, looking for meaning in the celestial movements.",
+      "features": [
+        { "id": "star-map", "name": "Star Map", "level": 3, "description": "You've created a star chart as part of your heavenly studies. While holding the map, you have these benefits: You know the Guidance cantrip; you have the Guiding Bolt spell prepared, it counts as a Druid spell for you, and it doesn't count against the number of spells you have prepared." },
+        { "id": "starry-form", "name": "Starry Form", "level": 3, "description": "As a Bonus Action, you can expend a use of Wild Shape to take on a starry form rather than transforming into a beast. While in starry form, you shed bright light in a 10-foot radius and dim light for an additional 10 feet. You choose which of three constellations glimmers on your body: Archer, Chalice, or Dragon." },
+        { "id": "cosmic-omen", "name": "Cosmic Omen", "level": 6, "description": "Whenever you finish a Long Rest, you can consult your Star Map for omens and roll a die. The roll determines whether you have a Weal or a Woe omen, which affects how you can help or hinder creatures." },
+        { "id": "twinkling-constellations", "name": "Twinkling Constellations", "level": 10, "description": "The constellations of your Starry Form improve and you can change your constellation at the start of each of your turns." },
+        { "id": "full-of-stars", "name": "Full of Stars", "level": 14, "description": "While in your Starry Form, you become partially incorporeal, giving you Resistance to Bludgeoning, Piercing, and Slashing damage." }
+      ]
+    },
+    {
+      "id": "champion",
+      "name": "Champion",
+      "classId": "fighter",
+      "description": "A Champion focuses on the development of raw physical power honed to deadly perfection.",
+      "features": [
+        { "id": "improved-critical", "name": "Improved Critical", "level": 3, "description": "Your attack rolls with weapons and Unarmed Strikes can score a Critical Hit on a roll of 19 or 20 on the d20." },
+        { "id": "remarkable-athlete", "name": "Remarkable Athlete", "level": 7, "description": "You have Advantage on Initiative rolls and Strength (Athletics) checks. When you make a running Long Jump, the distance you can cover increases by a number of feet equal to your Strength modifier." },
+        { "id": "additional-fighting-style", "name": "Additional Fighting Style", "level": 10, "description": "You gain another Fighting Style feat of your choice." },
+        { "id": "superior-critical", "name": "Superior Critical", "level": 15, "description": "Your attack rolls can now score a Critical Hit on a roll of 18, 19, or 20 on the d20." },
+        { "id": "survivor", "name": "Survivor", "level": 18, "description": "You attain the pinnacle of resilience in battle. At the start of each of your turns, you regain Hit Points equal to 5 plus your Constitution modifier if you have no more than half of your Hit Points remaining. You don't gain this benefit if you have 0 Hit Points." }
+      ]
+    },
+    {
+      "id": "battle-master",
+      "name": "Battle Master",
+      "classId": "fighter",
+      "description": "Those who emulate the archetypal Battle Master employ martial techniques passed down through generations.",
+      "features": [
+        { "id": "combat-superiority", "name": "Combat Superiority", "level": 3, "description": "You learn three maneuvers of your choice from the Maneuvers list. You gain Superiority Dice, which are d8s, and you have four of them. When you use a maneuver, you expend one Superiority Die." },
+        { "id": "student-of-war", "name": "Student of War", "level": 3, "description": "You gain proficiency with one type of Artisan's Tools of your choice, and you gain proficiency in one skill of your choice from the Battle Master skill list: Animal Handling, History, Insight, Performance, or Persuasion." },
+        { "id": "know-your-enemy", "name": "Know Your Enemy", "level": 7, "description": "As a Bonus Action, you can discern certain strengths and weaknesses of a creature you can see within 30 feet. You learn whether it is superior to you, inferior to you, or equal to you with respect to two of the following characteristics: Strength score, Dexterity score, Constitution score, Armor Class, current Hit Points, or total class levels." },
+        { "id": "improved-combat-superiority", "name": "Improved Combat Superiority", "level": 10, "description": "Your Superiority Dice become d10s." },
+        { "id": "relentless", "name": "Relentless", "level": 15, "description": "When you roll Initiative, you regain one expended Superiority Die." },
+        { "id": "ultimate-combat-superiority", "name": "Ultimate Combat Superiority", "level": 18, "description": "Your Superiority Dice become d12s." }
+      ]
+    },
+    {
+      "id": "eldritch-knight",
+      "name": "Eldritch Knight",
+      "classId": "fighter",
+      "description": "The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic.",
+      "features": [
+        { "id": "spellcasting-ek", "name": "Spellcasting", "level": 3, "description": "You augment your martial prowess with the ability to cast spells. You learn cantrips and spells from the Wizard spell list." },
+        { "id": "war-bond", "name": "War Bond", "level": 3, "description": "You learn a ritual that creates a magical bond between yourself and one weapon. You can summon that weapon as a Bonus Action, causing it to teleport instantly to your hand." },
+        { "id": "war-magic", "name": "War Magic", "level": 7, "description": "When you take the Attack action on your turn, you can replace one of your attacks with casting one Wizard cantrip that has a casting time of an action." },
+        { "id": "eldritch-strike", "name": "Eldritch Strike", "level": 10, "description": "When you hit a creature with an attack using a weapon, that creature has Disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn." },
+        { "id": "arcane-charge", "name": "Arcane Charge", "level": 15, "description": "When you use Action Surge, you can teleport up to 30 feet to an unoccupied space you can see." },
+        { "id": "improved-war-magic", "name": "Improved War Magic", "level": 18, "description": "When you take the Attack action on your turn, you can replace two of your attacks with casting one Wizard spell that has a casting time of an action." }
+      ]
+    }
+  ]
+}
