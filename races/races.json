@@ -1,0 +1,277 @@
+{
+  "races": [
+    {
+      "id": "human",
+      "name": "Human",
+      "description": "Humans are the most adaptable and ambitious people among the common races. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.",
+      "abilityBonuses": [],
+      "size": "medium",
+      "speed": 30,
+      "traits": [
+        {
+          "id": "resourceful",
+          "name": "Resourceful",
+          "description": "You gain Heroic Inspiration whenever you finish a Long Rest."
+        },
+        {
+          "id": "skillful",
+          "name": "Skillful",
+          "description": "You gain proficiency in one skill of your choice."
+        },
+        {
+          "id": "versatile",
+          "name": "Versatile",
+          "description": "You gain an Origin feat of your choice."
+        }
+      ],
+      "languages": ["Common", "One language of your choice"],
+      "icon": "people"
+    },
+    {
+      "id": "dragonborn",
+      "name": "Dragonborn",
+      "description": "The ancestors of dragonborn hatched from the eggs of chromatic and metallic dragons. One story holds that these eggs were blessed by the dragon gods Bahamut and Tiamat, who wanted to populate the multiverse with people created in their image.",
+      "abilityBonuses": [],
+      "size": "medium",
+      "speed": 30,
+      "traits": [
+        {
+          "id": "draconic-ancestry",
+          "name": "Draconic Ancestry",
+          "description": "Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your Breath Weapon and Damage Resistance traits."
+        },
+        {
+          "id": "breath-weapon",
+          "name": "Breath Weapon",
+          "description": "When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in either a 15-foot Cone or a 30-foot Line that is 5 feet wide. Each creature in that area must make a Dexterity saving throw (DC = 8 + Constitution modifier + Proficiency Bonus). On a failed save, a creature takes 1d10 damage of the type determined by your Draconic Ancestry. On a successful save, a creature takes half as much damage. This damage increases by 1d10 when you reach character levels 5 (2d10), 11 (3d10), and 17 (4d10). You can use this Breath Weapon a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest."
+        },
+        {
+          "id": "damage-resistance-dragonborn",
+          "name": "Damage Resistance",
+          "description": "You have Resistance to the damage type determined by your Draconic Ancestry."
+        },
+        {
+          "id": "darkvision-dragonborn",
+          "name": "Darkvision",
+          "description": "You have Darkvision with a range of 60 feet."
+        },
+        {
+          "id": "draconic-flight",
+          "name": "Draconic Flight",
+          "description": "When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a Bonus Action, you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have a Fly Speed equal to your Speed. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a Long Rest."
+        }
+      ],
+      "languages": ["Common", "Draconic"],
+      "icon": "flame"
+    },
+    {
+      "id": "dwarf",
+      "name": "Dwarf",
+      "description": "Dwarves are solid and enduring like the mountains they love, weathering the passage of centuries with stoic endurance and little change.",
+      "abilityBonuses": [],
+      "size": "medium",
+      "speed": 30,
+      "traits": [
+        {
+          "id": "darkvision-dwarf",
+          "name": "Darkvision",
+          "description": "You have Darkvision with a range of 120 feet."
+        },
+        {
+          "id": "dwarven-resilience",
+          "name": "Dwarven Resilience",
+          "description": "You have Resistance to Poison damage. You also have Advantage on saving throws you make to avoid or end the Poisoned condition."
+        },
+        {
+          "id": "dwarven-toughness",
+          "name": "Dwarven Toughness",
+          "description": "Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level."
+        },
+        {
+          "id": "stonecunning",
+          "name": "Stonecunning",
+          "description": "As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this Tremorsense. The stone can be natural or worked. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest."
+        }
+      ],
+      "languages": ["Common", "Dwarvish"],
+      "icon": "hammer"
+    },
+    {
+      "id": "elf",
+      "name": "Elf",
+      "description": "Elves are a magical people of otherworldly grace, living in places of ethereal beauty, in the midst of ancient forests or in silvery spires glittering with faerie light.",
+      "abilityBonuses": [],
+      "size": "medium",
+      "speed": 30,
+      "traits": [
+        {
+          "id": "darkvision-elf",
+          "name": "Darkvision",
+          "description": "You have Darkvision with a range of 60 feet."
+        },
+        {
+          "id": "elven-lineage",
+          "name": "Elven Lineage",
+          "description": "You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Elven Lineages table. You gain the level 1 benefit of that lineage. When you reach character levels 3 and 5, you learn a higher-level spell. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select the lineage)."
+        },
+        {
+          "id": "fey-ancestry",
+          "name": "Fey Ancestry",
+          "description": "You have Advantage on saving throws you make to avoid or end the Charmed condition."
+        },
+        {
+          "id": "keen-senses",
+          "name": "Keen Senses",
+          "description": "You have proficiency in the Insight, Perception, or Survival skill."
+        },
+        {
+          "id": "trance",
+          "name": "Trance",
+          "description": "You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness."
+        }
+      ],
+      "languages": ["Common", "Elvish"],
+      "icon": "leaf"
+    },
+    {
+      "id": "gnome",
+      "name": "Gnome",
+      "description": "Gnomes are magical folk created by gods of invention, illusions, and life underground. The earliest gnomes were seldom combative, but they were curious and impulsive.",
+      "abilityBonuses": [],
+      "size": "small",
+      "speed": 30,
+      "traits": [
+        {
+          "id": "darkvision-gnome",
+          "name": "Darkvision",
+          "description": "You have Darkvision with a range of 60 feet."
+        },
+        {
+          "id": "gnomish-cunning",
+          "name": "Gnomish Cunning",
+          "description": "You have Advantage on Intelligence, Wisdom, and Charisma saving throws."
+        },
+        {
+          "id": "gnomish-lineage",
+          "name": "Gnomish Lineage",
+          "description": "You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Gnomish Lineages table: Forest Gnome or Rock Gnome. You gain the benefits of that lineage."
+        }
+      ],
+      "languages": ["Common", "Gnomish"],
+      "icon": "bulb"
+    },
+    {
+      "id": "goliath",
+      "name": "Goliath",
+      "description": "Goliaths are people of the mountains, born to face the cold and hardship that other folk shun. They tend to be competitive, keeping track of their achievements.",
+      "abilityBonuses": [],
+      "size": "medium",
+      "speed": 35,
+      "traits": [
+        {
+          "id": "giant-ancestry",
+          "name": "Giant Ancestry",
+          "description": "You are descended from Giants. Choose one of the following benefits—a supernatural boon from your ancestry; you can use the chosen benefit a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest: Cloud's Jaunt (Bonus Action teleport 30 feet), Fire's Burn (extra 1d10 fire damage on hit), Frost's Chill (extra 1d6 cold damage and reduce speed), Hill's Tumble (knock prone on hit), Stone's Endurance (reduce damage as Reaction), or Storm's Thunder (extra 1d6 thunder damage and push)."
+        },
+        {
+          "id": "large-form",
+          "name": "Large Form",
+          "description": "Starting at character level 5, you can change your size to Large as a Bonus Action if you're in a big enough space. This size change lasts for 10 minutes or until you end it (no action required). For that duration, you have Advantage on Strength checks, and your Speed increases by 10 feet. Once you use this trait, you can't use it again until you finish a Long Rest."
+        },
+        {
+          "id": "powerful-build",
+          "name": "Powerful Build",
+          "description": "You have Advantage on any saving throw you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity."
+        }
+      ],
+      "languages": ["Common", "Giant"],
+      "icon": "fitness"
+    },
+    {
+      "id": "halfling",
+      "name": "Halfling",
+      "description": "Halflings are among the smallest of the folk found in most worlds. They are fond of peace, food, and their homes, though they are not above adventure.",
+      "abilityBonuses": [],
+      "size": "small",
+      "speed": 30,
+      "traits": [
+        {
+          "id": "brave",
+          "name": "Brave",
+          "description": "You have Advantage on saving throws you make to avoid or end the Frightened condition."
+        },
+        {
+          "id": "halfling-nimbleness",
+          "name": "Halfling Nimbleness",
+          "description": "You can move through the space of any creature that is a size larger than you, but you can't stop in the same space."
+        },
+        {
+          "id": "luck",
+          "name": "Luck",
+          "description": "When you roll a 1 on the d20 for a D20 Test, you can reroll the die, and you must use the new roll."
+        },
+        {
+          "id": "naturally-stealthy",
+          "name": "Naturally Stealthy",
+          "description": "You can take the Hide action even when you are obscured only by a creature that is at least one size larger than you."
+        }
+      ],
+      "languages": ["Common", "Halfling"],
+      "icon": "footsteps"
+    },
+    {
+      "id": "orc",
+      "name": "Orc",
+      "description": "Orcs trace their creation to Gruumsh, a powerful god who roamed the worlds seeking a place for his people. They are often feared and mistrusted, but orcs value strength, family, and honor.",
+      "abilityBonuses": [],
+      "size": "medium",
+      "speed": 30,
+      "traits": [
+        {
+          "id": "adrenaline-rush",
+          "name": "Adrenaline Rush",
+          "description": "You can take the Dash action as a Bonus Action. When you do so, you gain a number of Temporary Hit Points equal to your Proficiency Bonus. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Short or Long Rest."
+        },
+        {
+          "id": "darkvision-orc",
+          "name": "Darkvision",
+          "description": "You have Darkvision with a range of 120 feet."
+        },
+        {
+          "id": "relentless-endurance",
+          "name": "Relentless Endurance",
+          "description": "When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a Long Rest."
+        }
+      ],
+      "languages": ["Common", "Orc"],
+      "icon": "shield"
+    },
+    {
+      "id": "tiefling",
+      "name": "Tiefling",
+      "description": "Tieflings are derived from human bloodlines, and in the broadest possible sense, they still look human. However, their infernal heritage has left a clear imprint on their appearance.",
+      "abilityBonuses": [],
+      "size": "medium",
+      "speed": 30,
+      "traits": [
+        {
+          "id": "darkvision-tiefling",
+          "name": "Darkvision",
+          "description": "You have Darkvision with a range of 60 feet."
+        },
+        {
+          "id": "fiendish-legacy",
+          "name": "Fiendish Legacy",
+          "description": "You are the recipient of a legacy that grants you supernatural abilities. Choose a legacy from the Fiendish Legacies table: Abyssal, Chthonic, or Infernal. You gain the level 1 benefit of the chosen legacy. When you reach character levels 3 and 5, you learn a higher-level spell. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select the legacy)."
+        },
+        {
+          "id": "otherworldly-presence",
+          "name": "Otherworldly Presence",
+          "description": "You know the Thaumaturgy cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy trait."
+        }
+      ],
+      "languages": ["Common", "Infernal"],
+      "icon": "flame"
+    }
+  ]
+}
