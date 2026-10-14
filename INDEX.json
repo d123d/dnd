@@ -1,0 +1,69 @@
+{
+  "repo": "d123d/DND",
+  "description": "Dungeons & Dragons reference collection optimized for AI agents. Structured game data, rules, and Forgotten Realms lore across editions.",
+  "structure": {
+    "5e": {
+      "description": "5th Edition (2024 rules) content",
+      "paths": {
+        "srd": {
+          "path": "backgrounds/, classes/, equipment/, feats/, monsters/, races/, rules/, spells/",
+          "description": "SRD 5.2.1 structured data organized by type. Start here for 5e core rules.",
+          "format": "JSON"
+        },
+        "database": {
+          "path": "5e-database/2024/",
+          "description": "5e-database project JSON dumps (2024 data)",
+          "format": "JSON"
+        },
+        "api": {
+          "path": "5e-srd-api/2024/",
+          "description": "5e-srd-api project JSON (2024 data)",
+          "format": "JSON"
+        },
+        "tools": {
+          "path": "5etools/",
+          "description": "5etools data mirror: 461 files. bestiary/ (199), adventure/ (93), book/ (61), class/ (32), spells/ (29), root (47). Full official + third-party 5e content.",
+          "format": "JSON"
+        }
+      }
+    },
+    "3e": {
+      "description": "3.5 Edition content (from PCGen open-source datasets, LGPL)",
+      "paths": {
+        "core": {
+          "path": "3e-core/",
+          "description": "3.5e core rules: Player's Handbook, Dungeon Master's Guide, Monster Manual, universal rules. 24,359 entries.",
+          "format": "Markdown"
+        },
+        "forgotten_realms": {
+          "path": "3e-forgotten-realms/",
+          "description": "3.5e Forgotten Realms sourcebooks (13 books): Champions of Ruin/Valor, City of Splendors: Waterdeep, Faiths and Pantheons, Lost Empires of Faerun, Magic of Faerun, Monsters of Faerun, Player's Guide to Faerun, Races of Faerun, Shining South, Unapproachable East, Underdark, Dragons of Faerun. 7,416 entries.",
+          "format": "Markdown"
+        }
+      }
+    },
+    "lore": {
+      "description": "Forgotten Realms lore (all editions)",
+      "paths": {
+        "wiki": {
+          "path": "forgotten-realms/",
+          "description": "58,546 FR Wiki articles as markdown, sharded by title. Path pattern: forgotten-realms/<first-letter>/<first-two-letters>.md, articles as ## sections.",
+          "format": "Markdown",
+          "example": "forgotten-realms/w/wa.md -> Waterdeep"
+        }
+      }
+    },
+    "code": {
+      "description": "Python tools",
+      "paths": {
+        "avrae": {"path": "python/avrae/", "description": "Avrae Discord bot source"},
+        "d20": {"path": "python/d20/", "description": "d20 dice roller library"}
+      }
+    }
+  },
+  "conventions": {
+    "editions": "Top-level directories are organized by edition (5e, 3e) then by source.",
+    "formats": "5e data is JSON (structured). 3e data is Markdown (converted from PCGen). Lore is Markdown.",
+    "finding_things": "Use this index to locate content by edition and type. For 5e monsters, check 5etools/bestiary/ or monsters/. For 3.5e, check 3e-core/ or 3e-forgotten-realms/."
+  }
+}
