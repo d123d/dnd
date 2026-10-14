@@ -1,0 +1,55 @@
+{
+  "environmentalEffects": {
+    "fallingDamage": {
+      "description": "A creature that falls takes 1d6 Bludgeoning damage at the end of the fall for every 10 feet it fell, to a maximum of 20d6. The creature lands with the Prone condition unless it avoids taking damage from the fall."
+    },
+    "suffocation": {
+      "description": "A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds). When a creature runs out of breath or is choking, it gains 1 level of Exhaustion at the start of each of its turns. When it reaches 6 levels, it drops to 0 Hit Points and is dying."
+    },
+    "vision": {
+      "lightlyObscured": "In a Lightly Obscured area—such as Dim Light, patchy fog, or light foliage—creatures have Disadvantage on Wisdom (Perception) checks that rely on sight.",
+      "heavilyObscured": "In a Heavily Obscured area—such as Darkness, heavy fog, or dense foliage—creatures have the Blinded condition."
+    },
+    "light": {
+      "brightLight": "Bright Light lets most creatures see normally. Even gloomy days provide Bright Light, as do torches, lanterns, fires, and other sources of illumination within a specific radius.",
+      "dimLight": "Dim Light, also called shadows, creates a Lightly Obscured area. An area of Dim Light is usually a boundary between Bright Light and surrounding Darkness.",
+      "darkness": "Darkness creates a Heavily Obscured area. Characters face Darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a subterranean vault, or in an area of magical Darkness."
+    },
+    "extremeHeat": {
+      "description": "When the temperature is at or above 100°F, a creature exposed to the heat and without access to drinkable water must succeed on a Constitution saving throw at the end of each hour or gain 1 level of Exhaustion. The DC is 5 for the first hour and increases by 1 for each additional hour.",
+      "armorPenalty": "Creatures wearing Medium or Heavy armor have Disadvantage on the save."
+    },
+    "extremeCold": {
+      "description": "When the temperature is at or below 0°F, a creature exposed to the cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain 1 level of Exhaustion.",
+      "coldResistance": "Creatures with Resistance or Immunity to Cold damage automatically succeed on the save, as do creatures wearing cold weather gear."
+    },
+    "strongWind": {
+      "description": "A strong wind imposes Disadvantage on ranged weapon attack rolls and Wisdom (Perception) checks that rely on hearing. A strong wind also extinguishes open flames, disperses fog, and makes flying by nonmagical means nearly impossible.",
+      "flyingEffect": "A flying creature in a strong wind must land at the end of its turn or fall."
+    },
+    "heavyPrecipitation": {
+      "description": "Heavy rain or snow creates a Lightly Obscured area and imposes Disadvantage on Wisdom (Perception) checks that rely on hearing."
+    }
+  },
+  "hazards": {
+    "highAltitude": {
+      "description": "Traveling at altitudes of 10,000 feet or higher above sea level is taxing because of the reduced amount of oxygen. Each hour spent traveling at high altitude counts as 2 hours for determining how long a creature can travel before risking Exhaustion.",
+      "acclimation": "Creatures that spend 30 days or more at high altitude become acclimated and are no longer affected."
+    },
+    "slipperySurfaces": {
+      "description": "Slippery surfaces like ice are Difficult Terrain. When a creature moves onto slippery ice for the first time on a turn, it must succeed on a DC 10 Dexterity (Acrobatics) check or fall Prone."
+    },
+    "thinIce": {
+      "description": "Thin ice has a weight tolerance of 3d10 × 10 pounds per 10-foot-square area. Whenever the total weight on an area of thin ice exceeds its tolerance, the ice in that area breaks."
+    },
+    "frigidWater": {
+      "description": "A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain 1 level of Exhaustion."
+    },
+    "quicksand": {
+      "description": "A creature that enters quicksand sinks 1d4 + 1 feet and has the Restrained condition. At the start of each of the creature's turns, it sinks another 1d4 feet. A creature completely submerged in quicksand can't breathe."
+    },
+    "ragingWater": {
+      "description": "A creature that enters an area of raging water (rapids or waterfall) must make a DC 15 Strength (Athletics) check. On a failed check, it is swept 60 feet downstream and takes 1d6 Bludgeoning damage."
+    }
+  }
+}
