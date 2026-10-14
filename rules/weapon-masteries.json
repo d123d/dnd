@@ -1,0 +1,113 @@
+{
+  "weaponMasteries": {
+    "description": "If you have a feature that grants weapon mastery, you can use a Mastery property of that kind of weapon when you attack with it. Mastery properties are listed below.",
+    "properties": [
+      {
+        "id": "cleave",
+        "name": "Cleave",
+        "description": "If you hit a creature with a melee attack roll using this weapon, you can make a melee attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn."
+      },
+      {
+        "id": "graze",
+        "name": "Graze",
+        "description": "If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can be increased only by increasing the ability modifier."
+      },
+      {
+        "id": "nick",
+        "name": "Nick",
+        "description": "When you make the extra attack of the Light property, you can make it as part of the Attack action instead of as a Bonus Action. You can make this extra attack only once per turn."
+      },
+      {
+        "id": "push",
+        "name": "Push",
+        "description": "If you hit a creature with this weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller."
+      },
+      {
+        "id": "sap",
+        "name": "Sap",
+        "description": "If you hit a creature with this weapon, that creature has Disadvantage on its next attack roll before the start of your next turn."
+      },
+      {
+        "id": "slow",
+        "name": "Slow",
+        "description": "If you hit a creature with this weapon and deal damage to it, you can reduce its Speed by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn't exceed 10 feet."
+      },
+      {
+        "id": "topple",
+        "name": "Topple",
+        "description": "If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 + the ability modifier used to make the attack roll + your Proficiency Bonus). On a failed save, the creature has the Prone condition."
+      },
+      {
+        "id": "vex",
+        "name": "Vex",
+        "description": "If you hit a creature with this weapon and deal damage to it, you have Advantage on your next attack roll against that creature before the end of your next turn."
+      }
+    ],
+    "weaponMasteryAssignments": [
+      { "weapon": "Club", "mastery": "Slow" },
+      { "weapon": "Dagger", "mastery": "Nick" },
+      { "weapon": "Greatclub", "mastery": "Push" },
+      { "weapon": "Handaxe", "mastery": "Vex" },
+      { "weapon": "Javelin", "mastery": "Slow" },
+      { "weapon": "Light Hammer", "mastery": "Nick" },
+      { "weapon": "Mace", "mastery": "Sap" },
+      { "weapon": "Quarterstaff", "mastery": "Topple" },
+      { "weapon": "Sickle", "mastery": "Nick" },
+      { "weapon": "Spear", "mastery": "Sap" },
+      { "weapon": "Light Crossbow", "mastery": "Slow" },
+      { "weapon": "Dart", "mastery": "Vex" },
+      { "weapon": "Shortbow", "mastery": "Vex" },
+      { "weapon": "Sling", "mastery": "Slow" },
+      { "weapon": "Battleaxe", "mastery": "Topple" },
+      { "weapon": "Flail", "mastery": "Sap" },
+      { "weapon": "Glaive", "mastery": "Graze" },
+      { "weapon": "Greataxe", "mastery": "Cleave" },
+      { "weapon": "Greatsword", "mastery": "Graze" },
+      { "weapon": "Halberd", "mastery": "Cleave" },
+      { "weapon": "Lance", "mastery": "Topple" },
+      { "weapon": "Longsword", "mastery": "Sap" },
+      { "weapon": "Maul", "mastery": "Topple" },
+      { "weapon": "Morningstar", "mastery": "Sap" },
+      { "weapon": "Pike", "mastery": "Push" },
+      { "weapon": "Rapier", "mastery": "Vex" },
+      { "weapon": "Scimitar", "mastery": "Nick" },
+      { "weapon": "Shortsword", "mastery": "Vex" },
+      { "weapon": "Trident", "mastery": "Topple" },
+      { "weapon": "Warhammer", "mastery": "Push" },
+      { "weapon": "War Pick", "mastery": "Sap" },
+      { "weapon": "Whip", "mastery": "Slow" },
+      { "weapon": "Hand Crossbow", "mastery": "Vex" },
+      { "weapon": "Heavy Crossbow", "mastery": "Push" },
+      { "weapon": "Longbow", "mastery": "Slow" },
+      { "weapon": "Musket", "mastery": "Slow" },
+      { "weapon": "Pistol", "mastery": "Vex" }
+    ]
+  },
+  "crafting": {
+    "brewingPotionsOfHealing": {
+      "description": "A character who has proficiency with the Herbalism Kit can create Potions of Healing.",
+      "costs": [
+        { "potion": "Potion of Healing", "time": "1 day", "cost": "25 GP" },
+        { "potion": "Potion of Greater Healing", "time": "1 workweek", "cost": "100 GP" },
+        { "potion": "Potion of Superior Healing", "time": "3 workweeks", "cost": "1,000 GP" },
+        { "potion": "Potion of Supreme Healing", "time": "4 workweeks", "cost": "10,000 GP" }
+      ]
+    },
+    "scribingSpellScrolls": {
+      "description": "A spellcaster can transfer a spell to a scroll and create a Spell Scroll.",
+      "requirements": "The caster must have the spell prepared, must provide the material components, and must have proficiency with the Arcana skill.",
+      "costs": [
+        { "spellLevel": "Cantrip", "time": "1 day", "cost": "15 GP" },
+        { "spellLevel": "1st", "time": "1 day", "cost": "25 GP" },
+        { "spellLevel": "2nd", "time": "3 days", "cost": "100 GP" },
+        { "spellLevel": "3rd", "time": "1 workweek", "cost": "150 GP" },
+        { "spellLevel": "4th", "time": "2 workweeks", "cost": "1,000 GP" },
+        { "spellLevel": "5th", "time": "4 workweeks", "cost": "1,500 GP" },
+        { "spellLevel": "6th", "time": "8 workweeks", "cost": "10,000 GP" },
+        { "spellLevel": "7th", "time": "16 workweeks", "cost": "12,500 GP" },
+        { "spellLevel": "8th", "time": "32 workweeks", "cost": "15,000 GP" },
+        { "spellLevel": "9th", "time": "48 workweeks", "cost": "50,000 GP" }
+      ]
+    }
+  }
+}
