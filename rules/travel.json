@@ -1,0 +1,39 @@
+{
+  "travelPace": {
+    "description": "While traveling, a group of adventurers can move at a Normal, Fast, or Slow pace.",
+    "paces": [
+      {
+        "id": "fast",
+        "name": "Fast",
+        "milesPerHour": 4,
+        "milesPerDay": 30,
+        "effect": "−5 penalty to passive Wisdom (Perception) scores"
+      },
+      {
+        "id": "normal",
+        "name": "Normal",
+        "milesPerHour": 3,
+        "milesPerDay": 24,
+        "effect": "None"
+      },
+      {
+        "id": "slow",
+        "name": "Slow",
+        "milesPerHour": 2,
+        "milesPerDay": 18,
+        "effect": "Able to use Stealth"
+      }
+    ],
+    "difficultTerrain": "Difficult Terrain halves travel distance.",
+    "forcedMarch": "For each additional hour of travel beyond 8 hours, characters must make a DC 10 Constitution saving throw at the end of every hour. The DC increases by 1 for each hour past 8. On a failed save, a character gains 1 level of Exhaustion."
+  },
+  "mounts": {
+    "description": "A mount can allow you to travel faster, but it must rest periodically.",
+    "galloping": "For short bursts of speed (up to 1 hour), you can move at twice the normal pace. This uses the mount's Dash action.",
+    "rest": "Mounts require rest after galloping and can't maintain a fast pace for the full day without risking Exhaustion."
+  },
+  "vehicles": {
+    "description": "Characters in wagons, carriages, or other land vehicles can travel at the normal pace.",
+    "waterborne": "Waterborne vessels travel 24 hours per day if the crew works in shifts. For each 24-hour period of travel, add the vessel's speed (in miles per hour) × 24."
+  }
+}
