@@ -1,0 +1,338 @@
+{
+  "classes": [
+    {
+      "id": "barbarian",
+      "name": "Barbarian",
+      "description": "A fierce warrior who can enter a battle rage.",
+      "hitDie": 12,
+      "primaryAbility": ["str"],
+      "savingThrows": ["str", "con"],
+      "skillChoices": {
+        "count": 2,
+        "options": ["Animal Handling", "Athletics", "Intimidation", "Nature", "Perception", "Survival"]
+      },
+      "armorProficiencies": ["Light armor", "Medium armor", "Shields"],
+      "weaponProficiencies": ["Simple weapons", "Martial weapons"],
+      "features": [
+        { "id": "rage", "name": "Rage", "level": 1, "description": "In battle, you fight with primal ferocity. On your turn, you can enter a rage as a Bonus Action. While raging, you gain Resistance to Bludgeoning, Piercing, and Slashing damage; you have Advantage on Strength checks and Strength saving throws; and you deal extra damage when you hit with Strength-based attacks." },
+        { "id": "unarmored-defense-barbarian", "name": "Unarmored Defense", "level": 1, "description": "While you aren't wearing armor, your AC equals 10 + your Dexterity modifier + your Constitution modifier." },
+        { "id": "danger-sense", "name": "Danger Sense", "level": 2, "description": "You gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have Advantage on Dexterity saving throws unless you have the Incapacitated condition." },
+        { "id": "reckless-attack", "name": "Reckless Attack", "level": 2, "description": "You can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you Advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have Advantage until the start of your next turn." },
+        { "id": "primal-knowledge", "name": "Primal Knowledge", "level": 3, "description": "You gain proficiency in another skill from the Barbarian skill list." },
+        { "id": "extra-attack-barbarian", "name": "Extra Attack", "level": 5, "description": "You can attack twice instead of once whenever you take the Attack action on your turn." },
+        { "id": "fast-movement", "name": "Fast Movement", "level": 5, "description": "Your speed increases by 10 feet while you aren't wearing Heavy armor." },
+        { "id": "feral-instinct", "name": "Feral Instinct", "level": 7, "description": "Your instincts are so honed that you have Advantage on Initiative rolls." },
+        { "id": "instinctive-pounce", "name": "Instinctive Pounce", "level": 7, "description": "As part of the Bonus Action you take to enter your Rage, you can move up to half your Speed." },
+        { "id": "brutal-strike", "name": "Brutal Strike", "level": 9, "description": "If you use Reckless Attack, you can forgo any Advantage on one Strength-based attack. If that attack hits, it deals extra damage and can knock the target Prone or push them." },
+        { "id": "relentless-rage", "name": "Relentless Rage", "level": 11, "description": "Your Rage can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your Rage is active and you don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level." },
+        { "id": "persistent-rage", "name": "Persistent Rage", "level": 15, "description": "Your Rage is so fierce that it ends early only if you have the Unconscious condition or you choose to end it." },
+        { "id": "indomitable-might", "name": "Indomitable Might", "level": 18, "description": "If your total for a Strength check or Strength saving throw is less than your Strength score, you can use that score in place of the total." },
+        { "id": "primal-champion", "name": "Primal Champion", "level": 20, "description": "You embody primal power. Your Strength and Constitution scores increase by 4, and their maximum is now 26." }
+      ],
+      "subclassLevel": 3,
+      "subclassName": "Primal Path",
+      "icon": "fitness"
+    },
+    {
+      "id": "bard",
+      "name": "Bard",
+      "description": "An inspiring magician whose power echoes the music of creation.",
+      "hitDie": 8,
+      "primaryAbility": ["cha"],
+      "savingThrows": ["dex", "cha"],
+      "skillChoices": {
+        "count": 3,
+        "options": ["Acrobatics", "Animal Handling", "Arcana", "Athletics", "Deception", "History", "Insight", "Intimidation", "Investigation", "Medicine", "Nature", "Perception", "Performance", "Persuasion", "Religion", "Sleight of Hand", "Stealth", "Survival"]
+      },
+      "armorProficiencies": ["Light armor"],
+      "weaponProficiencies": ["Simple weapons"],
+      "toolProficiencies": { "fixed": ["Three musical instruments of your choice"] },
+      "spellcasting": {
+        "ability": "cha",
+        "spellSlotProgression": "full",
+        "cantripsKnown": [2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
+        "preparedFormula": "chaMod + level",
+        "ritualCasting": true
+      },
+      "subclassLevel": 3,
+      "subclassName": "Bard College",
+      "icon": "musical-notes"
+    },
+    {
+      "id": "cleric",
+      "name": "Cleric",
+      "description": "A priestly champion who wields divine magic in service of a higher power.",
+      "hitDie": 8,
+      "primaryAbility": ["wis"],
+      "savingThrows": ["wis", "cha"],
+      "skillChoices": {
+        "count": 2,
+        "options": ["History", "Insight", "Medicine", "Persuasion", "Religion"]
+      },
+      "armorProficiencies": ["Light armor", "Medium armor", "Shields"],
+      "weaponProficiencies": ["Simple weapons"],
+      "spellcasting": {
+        "ability": "wis",
+        "spellSlotProgression": "full",
+        "cantripsKnown": [3, 3, 3, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+        "preparedFormula": "wisMod + level",
+        "ritualCasting": true
+      },
+      "subclassLevel": 3,
+      "subclassName": "Divine Domain",
+      "icon": "heart"
+    },
+    {
+      "id": "druid",
+      "name": "Druid",
+      "description": "A priest of the Old Faith, wielding the powers of nature and adopting animal forms.",
+      "hitDie": 8,
+      "primaryAbility": ["wis"],
+      "savingThrows": ["int", "wis"],
+      "skillChoices": {
+        "count": 2,
+        "options": ["Arcana", "Animal Handling", "Insight", "Medicine", "Nature", "Perception", "Religion", "Survival"]
+      },
+      "armorProficiencies": ["Light armor", "Shields"],
+      "weaponProficiencies": ["Simple weapons"],
+      "spellcasting": {
+        "ability": "wis",
+        "spellSlotProgression": "full",
+        "cantripsKnown": [2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
+        "preparedFormula": "wisMod + level",
+        "ritualCasting": true
+      },
+      "subclassLevel": 3,
+      "subclassName": "Druid Circle",
+      "icon": "leaf"
+    },
+    {
+      "id": "fighter",
+      "name": "Fighter",
+      "description": "A master of martial combat, skilled with a variety of weapons and armor.",
+      "hitDie": 10,
+      "primaryAbility": ["str", "dex"],
+      "savingThrows": ["str", "con"],
+      "skillChoices": {
+        "count": 2,
+        "options": ["Acrobatics", "Animal Handling", "Athletics", "History", "Insight", "Intimidation", "Perception", "Survival"]
+      },
+      "armorProficiencies": ["All armor", "Shields"],
+      "weaponProficiencies": ["Simple weapons", "Martial weapons"],
+      "features": [
+        { "id": "fighting-style-fighter", "name": "Fighting Style", "level": 1, "description": "You adopt a particular style of fighting as your specialty. Choose one Fighting Style option." },
+        { "id": "second-wind", "name": "Second Wind", "level": 1, "description": "You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a Bonus Action to regain Hit Points equal to 1d10 plus your Fighter level. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Short or Long Rest." },
+        { "id": "action-surge", "name": "Action Surge", "level": 2, "description": "You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action. Once you use this feature, you must finish a Short or Long Rest before you can use it again. Starting at level 17, you can use it twice before a rest but only once on the same turn." },
+        { "id": "tactical-mind", "name": "Tactical Mind", "level": 2, "description": "You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Roll 1d10 and add the number rolled to the check, potentially turning it into a success." },
+        { "id": "extra-attack-fighter", "name": "Extra Attack", "level": 5, "description": "You can attack twice instead of once whenever you take the Attack action on your turn. The number of attacks increases to three when you reach level 11 in this class and to four when you reach level 20." },
+        { "id": "indomitable", "name": "Indomitable", "level": 9, "description": "You can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a Long Rest. You can use this feature twice between Long Rests starting at level 13 and three times starting at level 17." },
+        { "id": "master-of-armaments", "name": "Master of Armaments", "level": 9, "description": "You are a master of weapons. Whenever you finish a Long Rest, you can choose one of the weapon Mastery properties you have access to and replace it with another property." }
+      ],
+      "subclassLevel": 3,
+      "subclassName": "Martial Archetype",
+      "icon": "shield"
+    },
+    {
+      "id": "monk",
+      "name": "Monk",
+      "description": "A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection.",
+      "hitDie": 8,
+      "primaryAbility": ["dex", "wis"],
+      "savingThrows": ["str", "dex"],
+      "skillChoices": {
+        "count": 2,
+        "options": ["Acrobatics", "Athletics", "History", "Insight", "Religion", "Stealth"]
+      },
+      "armorProficiencies": [],
+      "weaponProficiencies": ["Simple weapons", "Martial weapons that have the Light property"],
+      "features": [
+        { "id": "martial-arts", "name": "Martial Arts", "level": 1, "description": "Your practice of martial arts gives you mastery of combat styles that use Unarmed Strikes and Monk weapons. You gain benefits while unarmed or wielding only Monk weapons and not wearing armor or wielding a Shield." },
+        { "id": "unarmored-defense-monk", "name": "Unarmored Defense", "level": 1, "description": "While you aren't wearing armor or wielding a Shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier." },
+        { "id": "ki", "name": "Ki", "level": 2, "description": "Your training allows you to harness the mystic energy of ki. You have a number of Ki Points equal to your Monk level. You can spend these points to fuel various ki features." },
+        { "id": "unarmored-movement", "name": "Unarmored Movement", "level": 2, "description": "Your speed increases by 10 feet while you aren't wearing armor or wielding a Shield. This bonus increases when you reach certain Monk levels." },
+        { "id": "deflect-attacks", "name": "Deflect Attacks", "level": 3, "description": "When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the total damage by 1d10 + your Dexterity modifier + your Monk level." },
+        { "id": "slow-fall", "name": "Slow Fall", "level": 4, "description": "You can take a Reaction when you fall to reduce any falling damage you take by an amount equal to five times your Monk level." },
+        { "id": "extra-attack-monk", "name": "Extra Attack", "level": 5, "description": "You can attack twice instead of once whenever you take the Attack action on your turn." },
+        { "id": "stunning-strike", "name": "Stunning Strike", "level": 5, "description": "Once per turn when you hit a creature with a Monk weapon or an Unarmed Strike, you can expend 1 Ki Point to attempt a stunning strike. The target must succeed on a Constitution saving throw or have the Stunned condition until the start of your next turn." },
+        { "id": "evasion-monk", "name": "Evasion", "level": 7, "description": "When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail." }
+      ],
+      "subclassLevel": 3,
+      "subclassName": "Monastic Tradition",
+      "icon": "hand-left"
+    },
+    {
+      "id": "paladin",
+      "name": "Paladin",
+      "description": "A holy warrior bound to a sacred oath.",
+      "hitDie": 10,
+      "primaryAbility": ["str", "cha"],
+      "savingThrows": ["wis", "cha"],
+      "skillChoices": {
+        "count": 2,
+        "options": ["Athletics", "Insight", "Intimidation", "Medicine", "Persuasion", "Religion"]
+      },
+      "armorProficiencies": ["All armor", "Shields"],
+      "weaponProficiencies": ["Simple weapons", "Martial weapons"],
+      "spellcasting": {
+        "ability": "cha",
+        "spellSlotProgression": "half",
+        "preparedFormula": "chaMod + floor(level / 2)"
+      },
+      "features": [
+        { "id": "lay-on-hands", "name": "Lay On Hands", "level": 1, "description": "Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you finish a Long Rest. With that pool, you can restore a total number of Hit Points equal to five times your Paladin level." },
+        { "id": "spellcasting-paladin", "name": "Spellcasting", "level": 1, "description": "You have learned to draw on divine magic through meditation and prayer to cast spells." },
+        { "id": "weapon-mastery-paladin", "name": "Weapon Mastery", "level": 1, "description": "Your training with weapons allows you to use the mastery properties of weapons." },
+        { "id": "fighting-style-paladin", "name": "Fighting Style", "level": 2, "description": "You adopt a particular style of fighting as your specialty." },
+        { "id": "channel-divinity-paladin", "name": "Channel Divinity", "level": 3, "description": "You can channel divine energy directly from the Outer Planes, using that energy to fuel magical effects." },
+        { "id": "extra-attack-paladin", "name": "Extra Attack", "level": 5, "description": "You can attack twice instead of once whenever you take the Attack action on your turn." },
+        { "id": "aura-of-protection", "name": "Aura of Protection", "level": 6, "description": "Whenever you or a friendly creature within 10 feet of you makes a saving throw, you can add your Charisma modifier to the saving throw." },
+        { "id": "aura-of-courage", "name": "Aura of Courage", "level": 10, "description": "You and friendly creatures within 10 feet of you have Immunity to the Frightened condition." }
+      ],
+      "subclassLevel": 3,
+      "subclassName": "Sacred Oath",
+      "icon": "shield-checkmark"
+    },
+    {
+      "id": "ranger",
+      "name": "Ranger",
+      "description": "A warrior who combats threats on the edges of civilization.",
+      "hitDie": 10,
+      "primaryAbility": ["dex", "wis"],
+      "savingThrows": ["str", "dex"],
+      "skillChoices": {
+        "count": 3,
+        "options": ["Animal Handling", "Athletics", "Insight", "Investigation", "Nature", "Perception", "Stealth", "Survival"]
+      },
+      "armorProficiencies": ["Light armor", "Medium armor", "Shields"],
+      "weaponProficiencies": ["Simple weapons", "Martial weapons"],
+      "spellcasting": {
+        "ability": "wis",
+        "spellSlotProgression": "half",
+        "preparedFormula": "wisMod + floor(level / 2)"
+      },
+      "subclassLevel": 3,
+      "subclassName": "Ranger Archetype",
+      "icon": "navigate"
+    },
+    {
+      "id": "rogue",
+      "name": "Rogue",
+      "description": "A scoundrel who uses stealth and trickery to overcome obstacles and enemies.",
+      "hitDie": 8,
+      "primaryAbility": ["dex"],
+      "savingThrows": ["dex", "int"],
+      "skillChoices": {
+        "count": 4,
+        "options": ["Acrobatics", "Athletics", "Deception", "Insight", "Intimidation", "Investigation", "Perception", "Performance", "Persuasion", "Sleight of Hand", "Stealth"]
+      },
+      "armorProficiencies": ["Light armor"],
+      "weaponProficiencies": ["Simple weapons", "Martial weapons that have the Finesse or Light property"],
+      "toolProficiencies": { "fixed": ["Thieves' tools"] },
+      "features": [
+        { "id": "expertise-rogue", "name": "Expertise", "level": 1, "description": "You gain Expertise in two of your skill proficiencies of your choice." },
+        { "id": "sneak-attack", "name": "Sneak Attack", "level": 1, "description": "Once per turn, you can deal extra damage when you hit with an attack if you have Advantage on the attack roll or an ally is within 5 feet of your target." },
+        { "id": "thieves-cant", "name": "Thieves' Cant", "level": 1, "description": "You picked up various skills during your training. You know Thieves' Cant and one other language." },
+        { "id": "cunning-action", "name": "Cunning Action", "level": 2, "description": "You can take a Bonus Action to take the Dash, Disengage, or Hide action." },
+        { "id": "uncanny-dodge", "name": "Uncanny Dodge", "level": 5, "description": "When an attacker that you can see hits you with an attack roll, you can take a Reaction to halve the attack's damage against you." },
+        { "id": "evasion-rogue", "name": "Evasion", "level": 7, "description": "You can nimbly dodge certain effects. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage on a success and half on a failure." },
+        { "id": "reliable-talent", "name": "Reliable Talent", "level": 11, "description": "Whenever you make an ability check that uses one of your skill or tool proficiencies, you can treat a d20 roll of 9 or lower as a 10." }
+      ],
+      "subclassLevel": 3,
+      "subclassName": "Roguish Archetype",
+      "icon": "eye-off"
+    },
+    {
+      "id": "sorcerer",
+      "name": "Sorcerer",
+      "description": "A spellcaster who draws on inherent magic from a gift or bloodline.",
+      "hitDie": 6,
+      "primaryAbility": ["cha"],
+      "savingThrows": ["con", "cha"],
+      "skillChoices": {
+        "count": 2,
+        "options": ["Arcana", "Deception", "Insight", "Intimidation", "Persuasion", "Religion"]
+      },
+      "armorProficiencies": [],
+      "weaponProficiencies": ["Simple weapons"],
+      "spellcasting": {
+        "ability": "cha",
+        "spellSlotProgression": "full",
+        "cantripsKnown": [4, 4, 4, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
+        "preparedFormula": "chaMod + level"
+      },
+      "features": [
+        { "id": "innate-sorcery", "name": "Innate Sorcery", "level": 1, "description": "An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute. For the duration, you have Advantage on your spell attack rolls, and your spell save DC increases by 1." },
+        { "id": "font-of-magic", "name": "Font of Magic", "level": 2, "description": "You have Sorcery Points that you can use to create spell slots or enhance your spells. You have a number of Sorcery Points equal to your Sorcerer level." },
+        { "id": "metamagic", "name": "Metamagic", "level": 2, "description": "You gain the ability to twist your spells to suit your needs. You learn two Metamagic options of your choice." },
+        { "id": "sorcerous-restoration", "name": "Sorcerous Restoration", "level": 5, "description": "When you finish a Short Rest, you regain expended Sorcery Points equal to half your Sorcerer level (round down)." }
+      ],
+      "subclassLevel": 3,
+      "subclassName": "Sorcerous Origin",
+      "icon": "sparkles"
+    },
+    {
+      "id": "warlock",
+      "name": "Warlock",
+      "description": "A wielder of magic that is derived from a bargain with an extraplanar entity.",
+      "hitDie": 8,
+      "primaryAbility": ["cha"],
+      "savingThrows": ["wis", "cha"],
+      "skillChoices": {
+        "count": 2,
+        "options": ["Arcana", "Deception", "History", "Intimidation", "Investigation", "Nature", "Religion"]
+      },
+      "armorProficiencies": ["Light armor"],
+      "weaponProficiencies": ["Simple weapons"],
+      "spellcasting": {
+        "ability": "cha",
+        "spellSlotProgression": "pact",
+        "cantripsKnown": [2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
+        "preparedFormula": "chaMod + level"
+      },
+      "features": [
+        { "id": "eldritch-invocations", "name": "Eldritch Invocations", "level": 1, "description": "In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability." },
+        { "id": "pact-magic", "name": "Pact Magic", "level": 1, "description": "Your arcane research and the magic bestowed on you by your patron have given you facility with spells. You have a number of spell slots that are all the same level." },
+        { "id": "magical-cunning", "name": "Magical Cunning", "level": 2, "description": "If all your Pact Magic spell slots are expended, you can perform an esoteric rite for 1 minute, at the end of which you regain half of those spell slots." },
+        { "id": "pact-boon", "name": "Pact Boon", "level": 3, "description": "Your otherworldly patron grants you a gift that deepens your connection to your patron." },
+        { "id": "contact-patron", "name": "Contact Patron", "level": 9, "description": "You can cast Contact Other Plane without using a spell slot to contact your patron." },
+        { "id": "mystic-arcanum", "name": "Mystic Arcanum", "level": 11, "description": "Your patron grants you a magical secret called an arcanum. Choose one level 6 spell from the Warlock spell list as this arcanum." }
+      ],
+      "subclassLevel": 1,
+      "subclassName": "Otherworldly Patron",
+      "icon": "moon"
+    },
+    {
+      "id": "wizard",
+      "name": "Wizard",
+      "description": "A scholarly magic-user capable of manipulating the structures of reality.",
+      "hitDie": 6,
+      "primaryAbility": ["int"],
+      "savingThrows": ["int", "wis"],
+      "skillChoices": {
+        "count": 2,
+        "options": ["Arcana", "History", "Insight", "Investigation", "Medicine", "Religion"]
+      },
+      "armorProficiencies": [],
+      "weaponProficiencies": ["Simple weapons"],
+      "spellcasting": {
+        "ability": "int",
+        "spellSlotProgression": "full",
+        "cantripsKnown": [3, 3, 3, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+        "preparedFormula": "intMod + level",
+        "ritualCasting": true
+      },
+      "features": [
+        { "id": "arcane-recovery", "name": "Arcane Recovery", "level": 1, "description": "You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a Short Rest, you can choose expended spell slots to recover with a combined level equal to no more than half your Wizard level (rounded up)." },
+        { "id": "ritual-adept", "name": "Ritual Adept", "level": 1, "description": "You can cast any spell as a Ritual if that spell has the Ritual tag and the spell is in your spellbook." },
+        { "id": "spellbook", "name": "Spellbook", "level": 1, "description": "Your spellbook contains the spells you know. You start with six 1st-level Wizard spells of your choice in your spellbook." },
+        { "id": "scholar", "name": "Scholar", "level": 2, "description": "While studying your spellbook, you also delve into arcane theory. You have Expertise in one skill: Arcana, History, Investigation, Medicine, Nature, or Religion." },
+        { "id": "memorize-spell", "name": "Memorize Spell", "level": 5, "description": "Whenever you finish a Short Rest, you can study your spellbook and replace one of the spells you have prepared with another spell from your spellbook." },
+        { "id": "spell-mastery", "name": "Spell Mastery", "level": 18, "description": "You have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level Wizard spell and a 2nd-level Wizard spell that are in your spellbook." },
+        { "id": "signature-spells", "name": "Signature Spells", "level": 20, "description": "You gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level Wizard spells in your spellbook as your signature spells." }
+      ],
+      "subclassLevel": 3,
+      "subclassName": "Arcane Tradition",
+      "icon": "book"
+    }
+  ]
+}
