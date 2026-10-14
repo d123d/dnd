@@ -1,0 +1,177 @@
+{
+  "conditions": [
+    {
+      "id": "blinded",
+      "name": "Blinded",
+      "description": "A blinded creature can't see and automatically fails any ability check that requires sight.",
+      "effects": [
+        "Can't see",
+        "Automatically fails ability checks requiring sight",
+        "Attack rolls against the creature have Advantage",
+        "The creature's attack rolls have Disadvantage"
+      ]
+    },
+    {
+      "id": "charmed",
+      "name": "Charmed",
+      "description": "A charmed creature is beguiled by the charmer.",
+      "effects": [
+        "Can't take any action that harms the charmer",
+        "The charmer has Advantage on any ability check to interact socially with the creature"
+      ]
+    },
+    {
+      "id": "deafened",
+      "name": "Deafened",
+      "description": "A deafened creature can't hear and automatically fails any ability check that requires hearing.",
+      "effects": [
+        "Can't hear",
+        "Automatically fails ability checks requiring hearing"
+      ]
+    },
+    {
+      "id": "exhaustion",
+      "name": "Exhaustion",
+      "description": "Exhaustion is measured in six levels. Each level of exhaustion imposes penalties.",
+      "effects": [
+        "Level 1: Disadvantage on ability checks",
+        "Level 2: Speed halved",
+        "Level 3: Disadvantage on attack rolls and saving throws",
+        "Level 4: Hit Point maximum halved",
+        "Level 5: Speed reduced to 0",
+        "Level 6: Death"
+      ],
+      "notes": "Finishing a Long Rest removes 1 level of Exhaustion if the creature has ingested food and drink. Being raised from the dead also removes 1 level."
+    },
+    {
+      "id": "frightened",
+      "name": "Frightened",
+      "description": "A frightened creature is terrified of the source of its fear.",
+      "effects": [
+        "Has Disadvantage on ability checks and attack rolls while the source of fear is in line of sight",
+        "Can't willingly move closer to the source of fear"
+      ]
+    },
+    {
+      "id": "grappled",
+      "name": "Grappled",
+      "description": "A grappled creature is held by another creature or effect.",
+      "effects": [
+        "Speed becomes 0",
+        "Can't benefit from any bonus to Speed",
+        "The condition ends if the grappler is Incapacitated",
+        "The condition ends if the grappled creature is moved outside the grappler's reach"
+      ]
+    },
+    {
+      "id": "incapacitated",
+      "name": "Incapacitated",
+      "description": "An incapacitated creature can't take actions or reactions.",
+      "effects": [
+        "Can't take actions",
+        "Can't take Bonus Actions",
+        "Can't take Reactions"
+      ]
+    },
+    {
+      "id": "invisible",
+      "name": "Invisible",
+      "description": "An invisible creature is impossible to see without the aid of magic or a special sense.",
+      "effects": [
+        "Impossible to see without magic or special senses",
+        "Considered Heavily Obscured for the purpose of hiding",
+        "Can be detected by noise or tracks",
+        "Attack rolls against the creature have Disadvantage",
+        "The creature's attack rolls have Advantage"
+      ]
+    },
+    {
+      "id": "paralyzed",
+      "name": "Paralyzed",
+      "description": "A paralyzed creature is frozen in place.",
+      "effects": [
+        "Has the Incapacitated condition",
+        "Can't move or speak",
+        "Automatically fails Strength and Dexterity saving throws",
+        "Attack rolls against the creature have Advantage",
+        "Any attack that hits is a Critical Hit if the attacker is within 5 feet"
+      ]
+    },
+    {
+      "id": "petrified",
+      "name": "Petrified",
+      "description": "A petrified creature is transformed into a solid inanimate substance.",
+      "effects": [
+        "Transformed into stone along with nonmagical objects worn or carried",
+        "Weight increases by a factor of ten",
+        "Ceases aging",
+        "Has the Incapacitated condition",
+        "Can't move or speak",
+        "Unaware of surroundings",
+        "Attack rolls against the creature have Advantage",
+        "Automatically fails Strength and Dexterity saving throws",
+        "Has Resistance to all damage",
+        "Has Immunity to Poison and Disease"
+      ]
+    },
+    {
+      "id": "poisoned",
+      "name": "Poisoned",
+      "description": "A poisoned creature suffers from a toxin.",
+      "effects": [
+        "Disadvantage on attack rolls",
+        "Disadvantage on ability checks"
+      ]
+    },
+    {
+      "id": "prone",
+      "name": "Prone",
+      "description": "A prone creature is lying on the ground.",
+      "effects": [
+        "The only movement option is to crawl (every foot of crawling costs 1 extra foot of movement)",
+        "Has Disadvantage on attack rolls",
+        "Attack rolls from within 5 feet have Advantage against the creature",
+        "Attack rolls from more than 5 feet away have Disadvantage against the creature",
+        "Can stand up by spending movement equal to half Speed"
+      ]
+    },
+    {
+      "id": "restrained",
+      "name": "Restrained",
+      "description": "A restrained creature is held in place by bindings, webbing, or other effects.",
+      "effects": [
+        "Speed becomes 0",
+        "Can't benefit from any bonus to Speed",
+        "Attack rolls against the creature have Advantage",
+        "The creature's attack rolls have Disadvantage",
+        "Has Disadvantage on Dexterity saving throws"
+      ]
+    },
+    {
+      "id": "stunned",
+      "name": "Stunned",
+      "description": "A stunned creature is dazed and unable to act effectively.",
+      "effects": [
+        "Has the Incapacitated condition",
+        "Can't move",
+        "Can speak only falteringly",
+        "Automatically fails Strength and Dexterity saving throws",
+        "Attack rolls against the creature have Advantage"
+      ]
+    },
+    {
+      "id": "unconscious",
+      "name": "Unconscious",
+      "description": "An unconscious creature is completely unaware and unable to act.",
+      "effects": [
+        "Has the Incapacitated condition",
+        "Can't move or speak",
+        "Unaware of surroundings",
+        "Drops whatever it's holding and falls Prone",
+        "Automatically fails Strength and Dexterity saving throws",
+        "Attack rolls against the creature have Advantage",
+        "Any attack that hits is a Critical Hit if the attacker is within 5 feet"
+      ]
+    }
+  ]
+}
